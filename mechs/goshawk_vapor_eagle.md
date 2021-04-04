@@ -1,0 +1,94 @@
+# Goshawk (Vapor Eagle)
+## Goshawk (Vapor Eagle) (Standard)
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Machine Gun × 4 (ammo: 100)
+  - Large Pulse Laser
+  - Medium Pulse Laser × 3
+  - Streak SRM 2 × 2 (ammo: 50)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2329
+
+## Goshawk (Vapor Eagle) 2
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Machine Gun × 4 (ammo: 100)
+  - Medium Pulse Laser × 2
+  - Ultra AC/10 (ammo: 20)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 1931
+
+## Goshawk (Vapor Eagle) 3
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ATM 3 (ammo: 20)
+  - ER PPC
+  - Heavy Medium Laser × 3
+  - SRM 2 × 2 (ammo: 50)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2427
+
+## Goshawk (Vapor Eagle) 4
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - ER Small Laser × 3
+  - ER Medium Laser × 4
+  - ATM 6 × 2 (ammo: 20)
+- **Battle Value:** 1913
+
+## Goshawk (Vapor Eagle) 5
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Machine Gun × 4 (ammo: 100)
+  - Medium Pulse Laser × 4
+  - LRM 20 w/ Artemis IV (ammo: 18)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2494
+
+## Goshawk (Vapor Eagle) 7
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed ()
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 (15) / 0, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Plasma Cannon (ammo: 10)
+  - ER PPC
+  - Micro Pulse Laser × 10
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+  - Supercharger
+  - Inner Sphere A-Pod × 2
+- **Battle Value:** 2876
+

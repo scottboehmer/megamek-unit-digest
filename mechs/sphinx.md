@@ -1,0 +1,55 @@
+# Sphinx
+## Sphinx (Standard)
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 23 (46)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ER Medium Laser × 10
+- **Battle Value:** 2883
+
+## Sphinx 2
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 (10) / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 22 (44)
+- **Weapons:**
+  - ER Small Laser × 10
+  - ER Large Laser × 2
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+- **Battle Value:** 2753
+
+## Sphinx 3
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 (10) / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 25 (50)
+- **Weapons:**
+  - ER Medium Laser × 10
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+  - ECM Suite
+- **Battle Value:** 3396
+
+## Sphinx 4
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 24 (48)
+- **Weapons:**
+  - Large Pulse Laser × 2
+  - Heavy Small Laser × 10
+- **Battle Value:** 1952
+

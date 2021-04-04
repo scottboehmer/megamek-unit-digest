@@ -1,0 +1,16 @@
+# Surtur
+## Surtur STR-6H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 185
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 7
+  - Sword
+  - SRM 6 × 2 (ammo: 15)
+- **Equipment:**
+  - Supercharger
+- **Battle Value:** 1203
+

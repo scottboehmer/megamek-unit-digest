@@ -1,0 +1,45 @@
+# Gun
+## Gun GN-2O XYZ
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0
+- **Armor:** 56
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Plasma Rifle (ammo: 20)
+- **Battle Value:** 775
+
+## Gun GN-2OA XYZ
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0
+- **Armor:** 56
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Heavy PPC
+- **Battle Value:** 685
+
+## Gun GN-2OB XYZ
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0
+- **Armor:** 56
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+- **Equipment:**
+  - TAG
+  - Bloodhound Active Probe
+  - Angel ECM Suite
+- **Battle Value:** 639
+

@@ -1,0 +1,28 @@
+# Sling
+## Sling SL-1G
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 6, XL
+- **Armor:** 53 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - LRM 5 × 3 (ammo: 48)
+- **Equipment:**
+  - TAG
+- **Battle Value:** 578
+
+## Sling SL-1H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 6, XL
+- **Armor:** 89 (Ferro Fibrous)
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Medium Laser × 2
+  - Medium Pulse Laser
+- **Equipment:**
+  - TAG
+- **Battle Value:** 731
+

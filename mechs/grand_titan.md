@@ -1,0 +1,35 @@
+# Grand Titan
+## Grand Titan T-IT-N10M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 288
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - LRM 15 w/ Artemis IV (ammo: 16)
+  - Medium Pulse Laser × 2
+  - Large Pulse Laser × 2
+  - SRM 6 w/ Artemis IV × 2 (ammo: 30)
+  - Small Pulse Laser × 2
+  - Anti-Missile System (ammo: 12)
+- **Battle Value:** 1817
+
+## Grand Titan T-IT-N11M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 288
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Light Gauss Rifle (ammo: 16)
+  - ER PPC
+  - Medium Pulse Laser × 4
+  - Streak SRM 4 × 2 (ammo: 25)
+  - ER Small Laser
+- **Equipment:**
+  - CASE
+  - Guardian ECM Suite
+- **Battle Value:** 2053
+

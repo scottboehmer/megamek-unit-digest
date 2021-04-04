@@ -1,0 +1,66 @@
+# Enfield
+## Enfield END-6J
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 169
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Large Laser
+  - Medium Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1417
+
+## Enfield END-6Q
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 169
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Large Pulse Laser
+  - Medium Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Small Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1248
+
+## Enfield END-6S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, Light
+- **Armor:** 169 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large Laser
+  - Medium Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Small Laser
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE
+- **Battle Value:** 1413
+
+## Enfield END-6Sr
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, Light
+- **Armor:** 169 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large Laser
+  - Medium Laser × 2
+  - Light AC/5 × 2 (ammo: 60)
+  - Small Laser
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE
+- **Battle Value:** 1361
+

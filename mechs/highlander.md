@@ -1,0 +1,126 @@
+# Highlander
+## Highlander HGN-732
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 277 (Ferro Fibrous)
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - SRM 6 (ammo: 30)
+  - Gauss Rifle (ammo: 16)
+  - LRM 20 (ammo: 12)
+  - Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2227
+
+## Highlander HGN-732b
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 277 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRM 6 w/ Artemis IV (ammo: 15)
+  - Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 12)
+  - Medium Laser × 3
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2335
+
+## Highlander HGN-733
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 279
+- **Heat Sinks:** 13 (13)
+- **Weapons:**
+  - SRM 6 (ammo: 30)
+  - AC/10 (ammo: 20)
+  - LRM 20 (ammo: 18)
+  - Medium Laser × 2
+- **Battle Value:** 1801
+
+## Highlander HGN-733C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 279
+- **Heat Sinks:** 13 (13)
+- **Weapons:**
+  - SRM 6 (ammo: 15)
+  - AC/20 (ammo: 10)
+  - LRM 20 (ammo: 12)
+  - Medium Laser × 2
+- **Battle Value:** 1857
+
+## Highlander HGN-733P
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 279
+- **Heat Sinks:** 20 (20)
+- **Weapons:**
+  - SRM 6 (ammo: 30)
+  - PPC
+  - LRM 20 (ammo: 18)
+  - Medium Laser × 2
+- **Battle Value:** 1865
+
+## Highlander HGN-734
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3, Light
+- **Armor:** 279
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - LB 20-X AC (ammo: 5 Cluster, 10 Standard)
+  - Streak SRM 6 × 2 (ammo: 15)
+  - ER Large Laser
+  - Medium Pulse Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2214
+
+## Highlander HGN-736
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 277 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak SRM 4 (ammo: 25)
+  - Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 12)
+  - Medium Laser × 2
+- **Equipment:**
+  - CASE
+  - C3i
+- **Battle Value:** unknown
+
+## Highlander HGN-738
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 3 / 5 / 3
+- **Armor:** 279
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - ER Large Laser
+  - LRM 15 w/ Artemis IV (ammo: 8)
+  - Heavy Gauss Rifle (ammo: 12)
+  - Streak SRM 4 (ammo: 25)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2413
+

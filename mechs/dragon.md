@@ -1,0 +1,89 @@
+# Dragon
+## Dragon DRG-1C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 201
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 2
+  - AC/2 (ammo: 45)
+  - LRM 10 (ammo: 24)
+- **Battle Value:** 1215
+
+## Dragon DRG-1N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 160
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 2
+  - AC/5 (ammo: 40)
+  - LRM 10 (ammo: 24)
+- **Battle Value:** 1125
+
+## Dragon DRG-2Y (Yoriyoshi)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 200
+- **Heat Sinks:** 16 (16)
+- **Weapons:**
+  - Medium Laser
+  - Large Laser
+  - SRM 4 (ammo: 25)
+  - Flamer
+  - Small Laser
+- **Battle Value:** 1257
+
+## Dragon DRG-5N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 160
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser
+  - Ultra AC/5 (ammo: 20)
+  - LRM 10 (ammo: 24)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1223
+
+## Dragon DRG-5Nr
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 160
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 3
+  - Light AC/5 (ammo: 40)
+  - LRM 10 (ammo: 24)
+- **Equipment:**
+  - CASE
+  - C3 Slave
+- **Battle Value:** 1252
+
+## Dragon DRG-7N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 160
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - AC/5 (ammo: 20)
+  - Gauss Rifle (ammo: 16)
+  - Medium Laser
+  - MRM 10 (ammo: 24)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1495
+

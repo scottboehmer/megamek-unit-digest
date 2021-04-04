@@ -1,0 +1,17 @@
+# Epimetheus
+## Epimetheus Prime
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 220 (Ferro Fibrous)
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Large Laser × 2
+  - Medium Pulse Laser × 2
+  - Ultra AC/10 (ammo: 10)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2498
+

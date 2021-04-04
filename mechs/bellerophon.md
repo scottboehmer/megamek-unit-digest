@@ -1,0 +1,14 @@
+# Bellerophon
+## Bellerophon BEL-1X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 60 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 123 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 14 (14)
+- **Weapons:**
+  - SRM 4 (ammo: 25)
+  - Large Laser × 2
+- **Battle Value:** 957
+

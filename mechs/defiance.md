@@ -1,0 +1,53 @@
+# Defiance
+## Defiance DFN-3C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 (5) / 6 (8) / 0, XL
+- **Armor:** 192
+- **Gyroscope:** Compact Gyroscope
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER PPC × 2
+  - Medium Pulse Laser × 2
+  - Small Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - SRM 6 × 2 (ammo: 15)
+  - Machine Gun (ammo: 100)
+- **Battle Value:** 1817
+
+## Defiance DFN-3S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 (5) / 6 (8) / 0, Light
+- **Armor:** 216
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - SRM 6 (ammo: 15)
+  - Machine Gun (ammo: 100)
+- **Battle Value:** 1940
+
+## Defiance DFN-3T
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 (5) / 6 (8) / 0, Light
+- **Armor:** 216
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - PPC × 2
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - SRM 6 (ammo: 15)
+  - Machine Gun (ammo: 100)
+- **Battle Value:** 1981
+

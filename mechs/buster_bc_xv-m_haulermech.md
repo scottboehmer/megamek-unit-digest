@@ -1,0 +1,13 @@
+# Buster BC XV-M HaulerMech
+## Buster BC XV-M HaulerMech MOD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Industrial)
+- **Movement:** 3 / 5 / 0, IC
+- **Armor:** 96 (Commercial)
+- **Heat Sinks:** 5 (5)
+- **Weapons:**
+  - LRM 10 (ammo: 12)
+  - AC/5 (ammo: 20)
+- **Battle Value:** 443
+

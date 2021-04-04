@@ -1,0 +1,47 @@
+# Tomahawk II
+## Tomahawk II A XYZ
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 100 tons (Endo Composite)
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 304
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - AP Gauss Rifle × 4 (ammo: 80)
+  - Large Pulse Laser × 2
+  - Medium Pulse Laser × 2
+  - ER Large Laser
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 2697
+
+## Tomahawk II B XYZ
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 100 tons (Endo Composite)
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 304
+- **Heat Sinks:** 22 (44)
+- **Weapons:**
+  - Streak LRM 15 × 2 (ammo: 32)
+  - ER Large Pulse Laser × 2
+  - ER Large Laser × 2
+  - ER Medium Laser
+  - Laser Anti-Missile System
+- **Battle Value:** unknown
+
+## Tomahawk II C XYZ
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 100 tons (Endo Composite)
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 304
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - LRM 15 × 6 (ammo: 80)
+  - Large Pulse Laser × 3
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 2938
+

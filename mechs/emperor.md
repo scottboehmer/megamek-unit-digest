@@ -1,0 +1,140 @@
+# Emperor
+## Emperor EMP-1A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 273 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - AC/5 × 2 (ammo: 80)
+  - Medium Laser × 3
+- **Battle Value:** 1453
+
+## Emperor EMP-5A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 279
+- **Heat Sinks:** 16 (16)
+- **Weapons:**
+  - Large Laser × 2
+  - AC/5 × 2 (ammo: 40)
+  - Medium Laser × 3
+- **Battle Value:** 1830
+
+## Emperor EMP-6A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 279
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - Large Laser × 2
+  - Medium Pulse Laser × 2
+  - Medium Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1969
+
+## Emperor EMP-6A (Nerran)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 279
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Large Laser
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
+  - Clan Gauss Rifle (ammo: 16)
+  - ER PPC
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2247
+
+## Emperor EMP-6D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 279
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - RAC/5 × 2 (ammo: 120)
+  - ER Large Laser × 2
+  - ER Medium Laser × 3
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2382
+
+## Emperor EMP-6L
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 (4) / 5 (6) / 3
+- **Armor:** 279 (Stealth)
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER PPC
+  - Gauss Rifle (ammo: 24)
+  - Medium Pulse Laser × 4
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE
+- **Battle Value:** 2681
+
+## Emperor EMP-6M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 3 (4) / 5 (6) / 3, Light
+- **Armor:** 272
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light Gauss Rifle × 2 (ammo: 32)
+  - ER Large Laser × 2
+  - Medium Pulse Laser × 3
+  - ER Medium Laser
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
+
+## Emperor EMP-6S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 279
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - LB 20-X AC × 2 (ammo: 15 Standard, 15 Cluster)
+  - Medium Pulse Laser × 3
+  - Medium Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2065
+
+## Emperor EMP-7L
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 (4) / 5 (6) / 0
+- **Armor:** 279 (Stealth)
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - AC/10 × 2 (ammo: 60)
+  - ER Large Laser
+  - Medium Pulse Laser × 2
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE
+- **Battle Value:** 2179
+

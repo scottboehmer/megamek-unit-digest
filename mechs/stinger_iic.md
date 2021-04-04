@@ -1,0 +1,25 @@
+# Stinger IIC
+## Stinger IIC (Standard)
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6
+- **Armor:** 67 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - AP Gauss Rifle (ammo: 40)
+- **Battle Value:** 729
+
+## Stinger IIC 2
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5
+- **Armor:** 67 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - Improved Heavy Large Laser
+- **Battle Value:** 1097
+

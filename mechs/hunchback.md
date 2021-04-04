@@ -1,0 +1,243 @@
+# Hunchback
+## Hunchback HBK-4G
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 13 (13)
+- **Weapons:**
+  - Medium Laser × 2
+  - AC/20 (ammo: 10)
+  - Small Laser
+- **Battle Value:** 1041
+
+## Hunchback HBK-4G (Hohiro)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 169 (Ferro Fibrous)
+- **Heat Sinks:** 14 (14)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - Ultra AC/10 (ammo: 20)
+  - ER Small Laser
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1126
+
+## Hunchback HBK-4H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 13 (13)
+- **Weapons:**
+  - Medium Laser × 4
+  - AC/10 (ammo: 20)
+  - Small Laser
+- **Battle Value:** 1067
+
+## Hunchback HBK-4J
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 14 (14)
+- **Weapons:**
+  - Medium Laser × 5
+  - LRM 10 × 2 (ammo: 24)
+  - Small Laser
+- **Battle Value:** 1143
+
+## Hunchback HBK-4N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 13 (13)
+- **Weapons:**
+  - Medium Laser × 4
+  - AC/5 (ammo: 20)
+  - LRM 5 × 2 (ammo: 24)
+  - Small Laser
+- **Battle Value:** 1087
+
+## Hunchback HBK-4P
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 23 (23)
+- **Weapons:**
+  - Medium Laser × 8
+  - Small Laser
+- **Battle Value:** 1138
+
+## Hunchback HBK-4SP
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 19 (19)
+- **Weapons:**
+  - Medium Laser × 4
+  - SRM 6 × 2 (ammo: 30)
+  - Small Laser
+- **Battle Value:** 1043
+
+## Hunchback HBK-5H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 152 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 2
+  - Rocket 20 × 3
+  - AC/20 (ammo: 10)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1097
+
+## Hunchback HBK-5M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Medium Laser × 2
+  - AC/20 (ammo: 5)
+  - Small Pulse Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1056
+
+## Hunchback HBK-5N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Medium Laser × 2
+  - AC/20 (ammo: 10)
+  - Small Laser
+- **Battle Value:** 1041
+
+## Hunchback HBK-5P
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 169
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - ER Medium Laser × 6
+- **Equipment:**
+  - Guardian ECM Suite
+  - C3 Slave
+- **Battle Value:** 1340
+
+## Hunchback HBK-5S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, Light
+- **Armor:** 169
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - LB 20-X AC (ammo: 10 Cluster, 10 Standard)
+  - Small Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1350
+
+## Hunchback HBK-5SG
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, Light
+- **Armor:** 168 (Stealth)
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - Gauss Rifle (ammo: 16)
+- **Equipment:**
+  - Guardian ECM Suite
+- **Battle Value:** 1577
+
+## Hunchback HBK-5SS
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, Light
+- **Armor:** 169
+- **Gyroscope:** Heavy-Duty Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - MML 9 w/ Artemis IV × 2 (ammo: 26 LRM, 11 SRM)
+  - ER Small Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1295
+
+## Hunchback HBK-6N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 2
+  - AC/20 (ammo: 20)
+  - Small Pulse Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1130
+
+## Hunchback HBK-6S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 160
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - SRM 6 (ammo: 15)
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
+- **Battle Value:** 1380
+
+## Hunchback HBK-7S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 4
+  - SRM 6 × 2 (ammo: 30)
+- **Equipment:**
+  - Supercharger
+  - Bloodhound Active Probe
+  - Angel ECM Suite
+  - TAG
+- **Battle Value:** 1628
+

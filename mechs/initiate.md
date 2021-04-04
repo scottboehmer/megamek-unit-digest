@@ -1,0 +1,35 @@
+# Initiate
+## Initiate INI-02
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 136
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Medium Laser × 2
+  - ER Small Laser × 3
+  - Anti-Missile System (ammo: 12)
+  - LRM 15 (ammo: 8)
+  - SRM 6 (ammo: 15)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1036
+
+## Initiate INI-04
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 137
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC × 2
+  - Small Pulse Laser × 3
+  - MML 7 (ammo: 17 LRM, 14 SRM)
+- **Equipment:**
+  - C3i
+  - CASE
+- **Battle Value:** unknown
+

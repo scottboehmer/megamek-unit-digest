@@ -1,0 +1,79 @@
+# Marshal
+## Marshal MHL-2L
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 / 4
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Medium Laser
+  - Large Laser
+  - Machine Gun × 2 (ammo: 100)
+  - LRM 15 (ammo: 24)
+  - Medium Pulse Laser
+  - Flamer
+- **Battle Value:** 1313
+
+## Marshal MHL-3MC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 / 4
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Medium Laser
+  - TSEMP
+  - Machine Gun × 2 (ammo: 100)
+  - Medium Pulse Laser
+  - MML 9 (ammo: 13 LRM, 22 SRM)
+  - Flamer
+- **Battle Value:** 1714
+
+## Marshal MHL-6FR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 / 6, Light
+- **Armor:** 185
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Snub-Nose PPC
+  - Medium X-Pulse Laser × 3
+  - Flamer
+- **Battle Value:** 1429
+
+## Marshal MHL-6MC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 / 4, Light
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC
+  - Plasma Rifle (ammo: 30)
+  - Light Machine Gun × 2 (ammo: 100)
+  - MML 9 (ammo: 13 LRM, 11 SRM)
+  - Medium Pulse Laser
+- **Equipment:**
+  - MG Array
+- **Battle Value:** 1457
+
+## Marshal MHL-X1
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 / 4
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 18 (18)
+- **Weapons:**
+  - Medium Laser
+  - Large Laser
+  - Machine Gun × 2 (ammo: 100)
+  - Medium Pulse Laser
+  - LRM 5 (ammo: 24)
+  - Flamer
+- **Battle Value:** 1163
+

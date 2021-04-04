@@ -1,0 +1,111 @@
+# Excalibur
+## Excalibur EXC-B1
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 120
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - Small Pulse Laser
+  - Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 12)
+  - Anti-Missile System (ammo: 12)
+- **Battle Value:** 1549
+
+## Excalibur EXC-B2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 120
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 12)
+  - Anti-Missile System (ammo: 12)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1533
+
+## Excalibur EXC-B2b
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 176
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 12)
+  - Anti-Missile System (ammo: 12)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1715
+
+## Excalibur EXC-C1
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 144
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser
+  - Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 12)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1637
+
+## Excalibur EXC-C1 (Cernunnos)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 192
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Medium Laser × 2
+  - ER PPC
+  - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE
+- **Battle Value:** 1778
+
+## Excalibur EXC-CS
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Armor:** 216
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER PPC
+  - LRM 20 w/ Artemis IV (ammo: 18)
+  - ER Medium Laser × 4
+  - ER Small Laser
+- **Equipment:**
+  - Targeting Computer
+  - CASE
+- **Battle Value:** 2174
+
+## Excalibur EXC-D1
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 184
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - RAC/5 (ammo: 60)
+  - Streak SRM 6 (ammo: 15)
+- **Equipment:**
+  - C3i
+  - CASE
+  - Targeting Computer
+- **Battle Value:** unknown
+

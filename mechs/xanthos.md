@@ -1,0 +1,96 @@
+# Xanthos
+## Xanthos XNT-2O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 100 tons Quad
+- **Movement:** 3 / 5 / 0
+- **Armor:** 160 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 18 (18)
+- **Weapons:**
+  - Large Laser
+  - SRM 4 (ammo: 25)
+  - Medium Laser × 2
+  - Small Laser × 2
+  - AC/10 (ammo: 20)
+- **Battle Value:** 1300
+
+## Xanthos XNT-3O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 100 tons Quad
+- **Movement:** 3 / 5 / 0
+- **Armor:** 323
+- **Heat Sinks:** 23 (23)
+- **Weapons:**
+  - PPC
+  - SRM 6 (ammo: 15)
+  - Medium Laser × 3
+  - Small Laser
+  - AC/20 (ammo: 15)
+- **Battle Value:** 1948
+
+## Xanthos XNT-4O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 100 tons Quad
+- **Movement:** 3 / 5 / 3, Compact
+- **Armor:** 323 (Stealth)
+- **Gyroscope:** Heavy-Duty Gyroscope
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Light PPC × 2
+  - ER Medium Laser × 3
+  - ER Small Laser
+  - Heavy PPC
+- **Equipment:**
+  - Guardian ECM Suite
+- **Battle Value:** 2548
+
+## Xanthos XNT-5O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 100 tons Quad (Endo Steel)
+- **Movement:** 3 / 5 / 5, Compact
+- **Armor:** 323 (Light Ferro Fibrous)
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Medium Pulse Laser × 5
+  - ER PPC
+  - ER Small Laser
+- **Battle Value:** 2146
+
+## Xanthos XNT-6O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 100 tons Quad
+- **Movement:** 3 / 5 / 0, Compact
+- **Armor:** 323 (Stealth)
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - PPC × 2
+  - ER Medium Laser × 4
+  - LRM 10 (ammo: 12)
+  - Small Pulse Laser × 2
+- **Equipment:**
+  - Guardian ECM Suite
+  - Coolant Pod
+- **Battle Value:** 2320
+
+## Xanthos XNT-7O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed ()
+- **Chassis:** 100 tons Quad
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 323
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Clan Gauss Rifle × 2 (ammo: 24)
+  - Clan ER Medium Laser × 4
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 2620
+

@@ -1,0 +1,165 @@
+# Cyclops
+## Cyclops CP-10-Q
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 272
+- **Heat Sinks:** 14 (14)
+- **Weapons:**
+  - Medium Laser × 3
+  - LRM 10 × 2 (ammo: 48)
+  - SRM 4 (ammo: 25)
+- **Battle Value:** 1584
+
+## Cyclops CP-10-Z
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Medium Laser × 2
+  - LRM 10 (ammo: 12)
+  - AC/20 (ammo: 20)
+  - SRM 4 (ammo: 25)
+- **Battle Value:** 1317
+
+## Cyclops CP-11-A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Medium Laser × 2
+  - LRM 10 (ammo: 24)
+  - Gauss Rifle (ammo: 16)
+  - SRM 4 (ammo: 25)
+- **Battle Value:** 1547
+
+## Cyclops CP-11-A-DC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - Medium Laser × 2
+  - LRM 10 (ammo: 12)
+  - Gauss Rifle (ammo: 8)
+  - SRM 4 (ammo: 25)
+- **Equipment:**
+  - Command Console
+- **Battle Value:** 1507
+
+## Cyclops CP-11-B
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 241 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 2
+  - Gauss Rifle × 2 (ammo: 32)
+  - LRM 10 (ammo: 24)
+  - SRM 4 (ammo: 25)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2145
+
+## Cyclops CP-11-C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 192
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Medium Laser × 2
+  - Gauss Rifle (ammo: 16)
+  - SRM 4 (ammo: 25)
+- **Equipment:**
+  - C3 Master
+- **Battle Value:** 1553
+
+## Cyclops CP-11-C2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 192
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Medium Laser × 2
+  - ER PPC
+  - Streak SRM 4 (ammo: 25)
+- **Equipment:**
+  - C3 Master × 2
+- **Battle Value:** 1534
+
+## Cyclops CP-11-C3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 238 (Heavy Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Gauss Rifle (ammo: 16)
+  - Streak SRM 4 (ammo: 25)
+- **Equipment:**
+  - C3 BoostedMaster
+- **Battle Value:** 1752
+
+## Cyclops CP-11-G
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 268 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - LRM 10 (ammo: 12)
+  - Gauss Rifle (ammo: 16)
+  - Streak SRM 4 (ammo: 25)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1981
+
+## Cyclops CP-11-H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 215 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Medium Laser × 2
+  - Rocket 20 × 6
+  - AC/20 (ammo: 10)
+- **Battle Value:** 1525
+
+## Cyclops CP-12-K
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 216
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - MRM 20 (ammo: 12)
+  - Ultra AC/10 (ammo: 20)
+  - Streak SRM 4 (ammo: 25)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1699
+

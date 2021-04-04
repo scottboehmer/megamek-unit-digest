@@ -1,0 +1,38 @@
+# Kraken (Bane)
+## Kraken (Bane) (Standard)
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 304
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Ultra AC/2 × 10 (ammo: 180)
+  - Machine Gun × 4 (ammo: 100)
+- **Battle Value:** 1860
+
+## Kraken (Bane) 2
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 304
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Ultra AC/10 × 4 (ammo: 140)
+  - Machine Gun × 4 (ammo: 100)
+- **Battle Value:** 2232
+
+## Kraken (Bane) 4
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 304
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Ultra AC/20 × 2 (ammo: 30)
+  - ATM 6 × 3 (ammo: 20)
+  - ER Large Laser
+- **Battle Value:** 2477
+

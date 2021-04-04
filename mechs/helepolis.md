@@ -1,0 +1,67 @@
+# Helepolis
+## Helepolis HEP-1H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons
+- **Movement:** 2 / 3 / 0
+- **Armor:** 219 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - Large Laser
+  - Sniper (ammo: 20)
+  - SRM 6 (ammo: 15)
+  - Medium Laser
+- **Battle Value:** 1063
+
+## Helepolis HEP-2H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 208
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large Laser
+  - Sniper (ammo: 20)
+  - LRM 10 (ammo: 12)
+  - SRM 6 (ammo: 15)
+  - Medium Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1369
+
+## Helepolis HEP-3H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 208
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+  - Sniper (ammo: 20)
+  - LRM 10 (ammo: 12)
+  - SRM 6 (ammo: 15)
+  - Medium Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1380
+
+## Helepolis HEP-4H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 208
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+  - Sniper (ammo: 20)
+  - LRM 5 × 2 (ammo: 24)
+  - SRM 6 (ammo: 15)
+  - Medium Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1366
+

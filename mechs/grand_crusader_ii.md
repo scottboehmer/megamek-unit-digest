@@ -1,0 +1,37 @@
+# Grand Crusader II
+## Grand Crusader II GRN-D-03
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 4 (5) / 6 (8) / 4, Light
+- **Armor:** 247
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - ER Large Laser × 2
+  - Streak SRM 6 (ammo: 15)
+  - LRM 15 w/ Artemis IV (ammo: 8)
+- **Equipment:**
+  - CASE
+  - C3i
+- **Battle Value:** unknown
+
+## Grand Crusader II GRN-D-04
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 4 (5) / 6 (8) / 4, Light
+- **Armor:** 247
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Light Gauss Rifle (ammo: 32)
+  - ER Medium Laser × 2
+  - ER PPC
+  - Streak SRM 6 (ammo: 15)
+- **Equipment:**
+  - CASE
+  - C3i
+- **Battle Value:** unknown
+

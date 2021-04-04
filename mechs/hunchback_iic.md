@@ -1,0 +1,37 @@
+# Hunchback IIC
+## Hunchback IIC (Standard)
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 96
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Ultra AC/20 × 2 (ammo: 10)
+  - ER Medium Laser × 2
+- **Battle Value:** 1643
+
+## Hunchback IIC 2
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 112
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - Heavy Large Laser × 4
+  - Medium Pulse Laser × 2
+- **Battle Value:** 1869
+
+## Hunchback IIC 3
+- **Role:** Undefined
+- **Tech Base:** Clan ()
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 96
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ATM 12 × 3 (ammo: 10)
+  - ER Medium Laser × 3
+- **Battle Value:** 1736
+

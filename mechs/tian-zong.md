@@ -1,0 +1,60 @@
+# Tian-Zong
+## Tian-Zong TNZ-N1
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 216 (Stealth)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Gauss Rifle × 2 (ammo: 32)
+- **Equipment:**
+  - Angel ECM Suite
+- **Battle Value:** 2167
+
+## Tian-Zong TNZ-N2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 216 (Stealth)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Large Laser × 2
+  - Light Gauss Rifle × 2 (ammo: 32)
+- **Equipment:**
+  - Angel ECM Suite
+- **Battle Value:** 1726
+
+## Tian-Zong TNZ-N3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 216 (Stealth)
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC × 2
+  - Gauss Rifle × 2 (ammo: 24)
+- **Equipment:**
+  - Angel ECM Suite
+- **Battle Value:** 2072
+
+## Tian-Zong TNZ-N3 'Jasminda'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 216 (Stealth)
+- **Cockpit:** Small
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - ER PPC
+  - Light Gauss Rifle × 2 (ammo: 48)
+- **Equipment:**
+  - Angel ECM Suite
+- **Battle Value:** 1826
+

@@ -1,0 +1,12 @@
+# Carbine CON-9M-B ConstructionMech
+## Carbine CON-9M-B ConstructionMech MOD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere ()
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 4 / 6 / 0, IC
+- **Armor:** 48
+- **Heat Sinks:** 1 (1)
+- **Weapons:**
+  - Light AC/5 (ammo: 40)
+- **Battle Value:** 293
+
