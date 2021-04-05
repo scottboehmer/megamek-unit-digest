@@ -2,6 +2,13 @@
 
 *A collection of generated markdown files with summarized versions of the mechs from MegaMek.*
 
+## The Units
+
+- [Alphabetical Index](index.md)
+- [Variant List](variants.md)
+
+## About
+
 As an example of the format used by the generator, here is the generated summary for the Wolverine WVR-6R:
 
 > ## Wolverine WVR-6R
@@ -19,10 +26,7 @@ As an example of the format used by the generator, here is the generated summary
 
 These markdown files are generated from the mtf files in the [MegaMek](https://github.com/MegaMek/megamek) repo (or more accurately, my [fork of MegaMek](https://github.com/scottboehmer/megamek) with some minor fixes to some files).
 MegaMek is a networked Java implementation of the [BattleTech board game](https://bg.battletech.com/) from [Catalyst Game Labs](https://www.catalystgamelabs.com/).
-The files are generated using a .Net Core tool that I have written that parses the mtf files into a list of mechs and then creates a markdown file for each name as well as an alphabetical list of names and a list of all variants sorted by weight and name.
-
-- [Alphabetical Index](index.md)
-- [Variant List](variants.md)
+The files are generated using a .Net Core tool that I have written that parses the mtf files into a list of mechs and then creates a markdown file for each name as well as an alphabetical list of names and a list of all variants sorted by weight and name. It is based on an decade-old mech editor that I wrote as a Silverlight out-of-browser app. While that editor is no longer functional since Silverlight is gone, it provided a nice code base for processing data files for BattleTech mechs.
 
 The tool I have written is a work in progress and as a result this set of markdown files is incomplete and has errors. Right now, my tool successfully processes about 84% of the mtf files from MegaMek. There are likely issues in the processing that are slipping by so that some mech summaries won't fully match the MegaMek files. In addition, there are issues with some of the mech files in MegaMek that mean that the generated summaries may not match the official designs even if they do match the MegaMek files.
 
