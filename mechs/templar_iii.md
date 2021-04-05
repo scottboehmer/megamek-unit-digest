@@ -18,6 +18,24 @@
   - CASE II
 - **Battle Value:** 2705
 
+## Templar III TLR2-O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 263
+- **Gyroscope:** Heavy-Duty Gyroscope
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Medium Laser × 2
+  - SRM 4 (ammo: 25)
+  - ER Small Laser × 2
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+- **Battle Value:** 2028
+
 ## Templar III TLR2-OA
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere

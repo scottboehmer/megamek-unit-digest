@@ -210,6 +210,159 @@
   - Flamer × 3
 - **Battle Value:** 798
 
+## Firestarter FS9-O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 4
+  - Large Laser × 2
+- **Equipment:**
+  - Beagle Active Probe
+- **Battle Value:** 1144
+
+## Firestarter FS9-OA
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - Small Laser
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+- **Battle Value:** 976
+
+## Firestarter FS9-OB
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - Medium Pulse Laser × 2
+  - Large Pulse Laser
+  - Small Laser
+- **Equipment:**
+  - C3 Slave
+  - TAG
+- **Battle Value:** 1070
+
+## Firestarter FS9-OC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - LRM 10 × 2 (ammo: 24)
+  - Small Laser
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1006
+
+## Firestarter FS9-OD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - ER PPC
+  - Medium Laser
+  - LRM 5 (ammo: 24)
+- **Equipment:**
+  - C3 Slave
+  - Guardian ECM Suite
+- **Battle Value:** 1322
+
+## Firestarter FS9-OE
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - Sword
+  - MRM 20 (ammo: 12)
+  - Medium Pulse Laser
+  - Small Pulse Laser
+- **Battle Value:** 998
+
+## Firestarter FS9-OF
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Flamer × 2
+  - ER Large Laser × 2
+  - ER Medium Laser × 2
+  - ER Small Laser
+- **Battle Value:** 1446
+
+## Firestarter FS9-OG
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - Medium Laser × 3
+  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1063
+
+## Firestarter FS9-OH
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - Medium Pulse Laser × 2
+  - Small Pulse Laser × 2
+  - Machine Gun × 2 (ammo: 100)
+  - ER Medium Laser
+  - Anti-Missile System (ammo: 12)
+- **Equipment:**
+  - Beagle Active Probe
+  - Guardian ECM Suite
+  - CASE
+- **Battle Value:** 1119
+
+## Firestarter FS9-OR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - Clan ER Large Laser × 2
+  - Clan LRM 10 w/ Artemis IV (ammo: 24)
+- **Battle Value:** 1713
+
 ## Firestarter FS9-OX
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere

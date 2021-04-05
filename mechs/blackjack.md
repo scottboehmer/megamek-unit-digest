@@ -101,6 +101,117 @@
   - CASE II
 - **Battle Value:** 1165
 
+## Blackjack BJ2-O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Ultra AC/5 × 2 (ammo: 40)
+  - Medium Laser × 4
+  - Machine Gun × 4 (ammo: 100)
+- **Battle Value:** 1201
+
+## Blackjack BJ2-OA
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRM 20 × 2 (ammo: 24)
+  - Medium Laser × 2
+  - Small Laser
+- **Battle Value:** 1318
+
+## Blackjack BJ2-OB
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - LRM 10 w/ Artemis IV (ammo: 24)
+  - Small Laser
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1323
+
+## Blackjack BJ2-OC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster)
+  - Medium Laser × 2
+  - Small Laser
+- **Battle Value:** 1189
+
+## Blackjack BJ2-OD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - PPC
+  - Medium Pulse Laser × 2
+  - Large Laser × 2
+  - Medium Laser × 2
+  - Small Laser
+- **Battle Value:** 1375
+
+## Blackjack BJ2-OE
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRM 10 (ammo: 24)
+  - ER Large Laser
+  - Light Gauss Rifle (ammo: 32)
+  - ER Small Laser
+- **Battle Value:** 1260
+
+## Blackjack BJ2-OF
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Ultra AC/10 (ammo: 20)
+  - ER PPC
+  - ER Small Laser
+- **Battle Value:** 1405
+
+## Blackjack BJ2-OR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan Gauss Rifle (ammo: 16)
+  - Clan Large Pulse Laser
+  - Clan Medium Pulse Laser × 3
+  - Clan ER Small Laser
+- **Battle Value:** 2010
+
 ## Blackjack BJ2-OX
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere

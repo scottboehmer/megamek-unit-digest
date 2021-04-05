@@ -236,6 +236,73 @@
   - ER Medium Laser
 - **Battle Value:** 1188
 
+## Centurion CN11-O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 152
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - LRM 10 w/ Artemis IV (ammo: 24)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1236
+
+## Centurion CN11-OA
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 152
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - RAC/5 (ammo: 60)
+  - MML 9 w/ Artemis IV (ammo: 13 LRM, 11 SRM)
+  - ER Medium Laser
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1375
+
+## Centurion CN11-OB
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 152
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Heavy PPC
+  - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE II
+  - Targeting Computer
+- **Battle Value:** 1412
+
+## Centurion CN11-OC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 152
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Plasma Rifle (ammo: 20)
+  - LRM 10 w/ Artemis IV (ammo: 24)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE II
+  - C3 Slave
+- **Battle Value:** 1628
+
 ## Centurion CN11-OE
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere

@@ -13,3 +13,48 @@
   - MASC
 - **Battle Value:** 2013
 
+## Shadow Cat III A
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 8, XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Large Laser × 2
+- **Equipment:**
+  - MASC
+- **Battle Value:** 2005
+
+## Shadow Cat III B
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 6, XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - ATM 3 × 4 (ammo: 40 Standard, 20 ER, 20 HE)
+- **Equipment:**
+  - MASC
+  - Inner Sphere Angel ECM Suite
+  - Active Probe
+  - Targeting Computer
+- **Battle Value:** 2099
+
+## Shadow Cat III C
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (15) / 0, XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
+  - Improved Heavy Large Laser
+- **Equipment:**
+  - MASC
+  - Supercharger
+- **Battle Value:** 2111
+

@@ -15,3 +15,31 @@
   - MASC
 - **Battle Value:** 1464
 
+## Snow Fox (Omni) A
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 20 tons Quad (Endo Steel)
+- **Movement:** 8 / 12 (16) / 0, XL
+- **Armor:** 73 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRM 5 × 3 (ammo: 24)
+  - Flamer × 4
+- **Equipment:**
+  - MASC
+- **Battle Value:** 831
+
+## Snow Fox (Omni) B
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 20 tons Quad (Endo Steel)
+- **Movement:** 8 / 12 (16) / 0, XL
+- **Armor:** 73 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser
+  - ER Large Laser
+- **Equipment:**
+  - MASC
+- **Battle Value:** 1249
+

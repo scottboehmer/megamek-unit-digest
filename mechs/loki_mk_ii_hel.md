@@ -1,4 +1,18 @@
 # Loki Mk II (Hel)
+## Loki Mk II (Hel) (Prime)
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Cockpit:** Small
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Gauss Rifle × 2 (ammo: 24)
+  - ER Large Laser × 2
+  - Streak SRM 4 (ammo: 25)
+- **Battle Value:** 2159
+
 ## Loki Mk II (Hel) A
 - **Role:** Undefined
 - **Tech Base:** Clan

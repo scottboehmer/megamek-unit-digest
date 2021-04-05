@@ -36,3 +36,34 @@
   - Streak SRM 6 × 4 (ammo: 60)
 - **Battle Value:** 1563
 
+## Arctic Wolf A
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRM 6 × 2 (ammo: 30)
+  - Small Pulse Laser × 2
+  - LRM 15 × 2 (ammo: 32)
+- **Equipment:**
+  - ECM Suite
+- **Battle Value:** 1470
+
+## Arctic Wolf J
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 4, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Heavy Medium Laser
+  - Streak SRM 4 × 4 (ammo: 50)
+  - Plasma Cannon (ammo: 10)
+- **Equipment:**
+  - Active Probe
+  - ECM Suite
+- **Battle Value:** 1747
+

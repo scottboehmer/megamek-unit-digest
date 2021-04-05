@@ -1,4 +1,108 @@
 # Raptor
+## Raptor RTX1-O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 2
+  - Small Laser × 2
+  - LRM 5 × 3 (ammo: 24)
+  - Machine Gun × 2 (ammo: 100)
+- **Battle Value:** 721
+
+## Raptor RTX1-OA
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Small Laser × 3
+  - Large Laser × 2
+- **Battle Value:** 783
+
+## Raptor RTX1-OB
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRM 6 × 3 (ammo: 30)
+  - Small Laser
+- **Battle Value:** 613
+
+## Raptor RTX1-OC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 56
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Small Pulse Laser × 2
+  - Medium Laser × 6
+  - Anti-Missile System (ammo: 12)
+- **Battle Value:** 870
+
+## Raptor RTX1-OD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Small Laser × 2
+  - Streak SRM 2 × 3 (ammo: 50)
+  - Machine Gun × 2 (ammo: 100)
+- **Equipment:**
+  - Beagle Active Probe
+  - TAG
+  - C3 Slave
+- **Battle Value:** 490
+
+## Raptor RTX1-OE
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - MRM 10 × 3 (ammo: 48)
+  - Small Laser
+- **Battle Value:** 597
+
+## Raptor RTX1-OF
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 7, XL
+- **Armor:** 56
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Medium Laser × 5
+- **Battle Value:** 1029
+
+## Raptor RTX1-OG
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Plasma Rifle (ammo: 20)
+  - Small Pulse Laser × 3
+  - ER Small Laser
+- **Battle Value:** 857
+
 ## Raptor RTX1-OR
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed

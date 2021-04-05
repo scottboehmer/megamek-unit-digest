@@ -17,13 +17,31 @@
 
 ### [Butcherbird (Ion Sparrow)](mechs/butcherbird_ion_sparrow.md)
 - **Butcherbird (Ion Sparrow)  Prime** *()*
+- **Butcherbird (Ion Sparrow)  A** *()*
+- **Butcherbird (Ion Sparrow)  B** *()*
+- **Butcherbird (Ion Sparrow)  C** *()*
+- **Butcherbird (Ion Sparrow)  D** *()*
 
 ### [Cossack](mechs/cossack.md)
 - **Cossack C-SK1** *(3060)*
 - **Cossack C-1FC** *(3076)*
 
 ### [Dasher (Fire Moth)](mechs/dasher_fire_moth.md)
+- **Dasher (Fire Moth)  Prime** *()*
 - **Dasher (Fire Moth)  (Aletha)** *()*
+- **Dasher (Fire Moth)  A** *()*
+- **Dasher (Fire Moth)  B** *()*
+- **Dasher (Fire Moth)  C** *()*
+- **Dasher (Fire Moth)  D** *()*
+- **Dasher (Fire Moth)  E** *()*
+- **Dasher (Fire Moth)  F** *()*
+- **Dasher (Fire Moth)  G** *()*
+- **Dasher (Fire Moth)  H** *()*
+- **Dasher (Fire Moth)  I** *()*
+- **Dasher (Fire Moth)  J** *()*
+- **Dasher (Fire Moth)  K** *()*
+- **Dasher (Fire Moth)  M** *()*
+- **Dasher (Fire Moth)  P** *()*
 
 ### [Fireball](mechs/fireball.md)
 - **Fireball ALM-7D** *(3053)*
@@ -42,6 +60,8 @@
 - **Flea FLE-20** *(3071)*
 
 ### [Gun](mechs/gun.md)
+- **Gun  GN-2O** *()*
+- **Gun  GN-2OA** *()*
 - **Gun  GN-2OB** *()*
 
 ### [Harvester Ant](mechs/harvester_ant.md)
@@ -111,6 +131,8 @@
 
 ### [Snow Fox (Omni)](mechs/snow_fox_omni.md)
 - **Snow Fox (Omni)  Prime** *()*
+- **Snow Fox (Omni)  A** *()*
+- **Snow Fox (Omni)  B** *()*
 
 ### [Stinger](mechs/stinger.md)
 - **Stinger STG-3R** *(2479)*
@@ -241,6 +263,13 @@
 
 ### [Fire Falcon](mechs/fire_falcon.md)
 - **Fire Falcon  Prime** *()*
+- **Fire Falcon  A** *()*
+- **Fire Falcon  B** *()*
+- **Fire Falcon  C** *()*
+- **Fire Falcon  D** *()*
+- **Fire Falcon  E** *()*
+- **Fire Falcon  F** *()*
+- **Fire Falcon  H** *()*
 
 ### [ForestryMech](mechs/forestrymech.md)
 - **ForestryMech ED-X3** *(2865)*
@@ -272,6 +301,20 @@
 - **Koshi (Standard) 3** *(3095)*
 
 ### [Koshi (Mist Lynx)](mechs/koshi_mist_lynx.md)
+- **Koshi (Mist Lynx)  Prime** *()*
+- **Koshi (Mist Lynx)  A** *()*
+- **Koshi (Mist Lynx)  B** *()*
+- **Koshi (Mist Lynx)  C** *()*
+- **Koshi (Mist Lynx)  D** *()*
+- **Koshi (Mist Lynx)  E** *()*
+- **Koshi (Mist Lynx)  F** *()*
+- **Koshi (Mist Lynx)  G** *()*
+- **Koshi (Mist Lynx)  H** *()*
+- **Koshi (Mist Lynx)  I** *()*
+- **Koshi (Mist Lynx)  J** *()*
+- **Koshi (Mist Lynx)  M** *()*
+- **Koshi (Mist Lynx)  N** *()*
+- **Koshi (Mist Lynx)  P** *()*
 - **Koshi (Mist Lynx)  T** *()*
 
 ### [Koto](mechs/koto.md)
@@ -320,6 +363,14 @@
 - **Peacekeeper PK-6 SecurityMech** *(2522)*
 
 ### [Raptor](mechs/raptor.md)
+- **Raptor  RTX1-O** *()*
+- **Raptor  RTX1-OA** *()*
+- **Raptor  RTX1-OB** *()*
+- **Raptor  RTX1-OC** *()*
+- **Raptor  RTX1-OD** *()*
+- **Raptor  RTX1-OE** *()*
+- **Raptor  RTX1-OF** *()*
+- **Raptor  RTX1-OG** *()*
 - **Raptor  RTX1-OR** *()*
 
 ### [Sling](mechs/sling.md)
@@ -351,6 +402,12 @@
 - **Anubis ABS-5Z** *(3124)*
 
 ### [Arctic Fox](mechs/arctic_fox.md)
+- **Arctic Fox  AF1** *()*
+- **Arctic Fox  AF1A** *()*
+- **Arctic Fox  AF1B** *()*
+- **Arctic Fox  AF1C** *()*
+- **Arctic Fox  AF1D** *()*
+- **Arctic Fox  AF1E** *()*
 - **Arctic Fox  AF1F** *()*
 
 ### [Battle Hawk](mechs/battle_hawk.md)
@@ -431,9 +488,21 @@
 - **Hammer HMR-3P 'Pein-Hammer'** *(3060)*
 
 ### [Hankyu (Arctic Cheetah)](mechs/hankyu_arctic_cheetah.md)
+- **Hankyu (Arctic Cheetah)  Prime** *()*
+- **Hankyu (Arctic Cheetah)  A** *()*
+- **Hankyu (Arctic Cheetah)  B** *()*
+- **Hankyu (Arctic Cheetah)  C** *()*
+- **Hankyu (Arctic Cheetah)  D** *()*
+- **Hankyu (Arctic Cheetah)  E** *()*
 - **Hankyu (Arctic Cheetah)  F** *()*
+- **Hankyu (Arctic Cheetah)  H** *()*
 
 ### [Hellion](mechs/hellion.md)
+- **Hellion  Prime** *()*
+- **Hellion  A** *()*
+- **Hellion  B** *()*
+- **Hellion  C** *()*
+- **Hellion  D** *()*
 - **Hellion  E** *()*
 
 ### [Hermes](mechs/hermes.md)
@@ -492,6 +561,13 @@
 
 ### [Malak](mechs/malak.md)
 - **Malak  C-MK-O (Mi)** *()*
+- **Malak  C-MK-O Invictus** *()*
+- **Malak  C-MK-OA Dominus** *()*
+- **Malak  C-MK-OB Infernus** *()*
+- **Malak  C-MK-OC Comminus** *()*
+- **Malak  C-MK-OD Luminos** *()*
+- **Malak  C-MK-OE Eminus** *()*
+- **Malak  C-MK-OS Caelestis** *()*
 
 ### [Mandrill](mechs/mandrill.md)
 - **Mandrill (Standard)** *(2829)*
@@ -555,7 +631,18 @@
 - **Spider SDR-8R** *(3084)*
 
 ### [Uller (Kit Fox)](mechs/uller_kit_fox.md)
+- **Uller (Kit Fox)  Prime** *()*
+- **Uller (Kit Fox)  A** *()*
+- **Uller (Kit Fox)  B** *()*
 - **Uller (Kit Fox)  BLO** *()*
+- **Uller (Kit Fox)  C** *()*
+- **Uller (Kit Fox)  D** *()*
+- **Uller (Kit Fox)  E** *()*
+- **Uller (Kit Fox)  F** *()*
+- **Uller (Kit Fox)  G** *()*
+- **Uller (Kit Fox)  H** *()*
+- **Uller (Kit Fox)  S** *()*
+- **Uller (Kit Fox)  W** *()*
 
 ### [UrbanMech](mechs/urbanmech.md)
 - **UrbanMech UM-R60** *(2675)*
@@ -603,6 +690,12 @@
 - **Vixen (Incubus) 9** *(3150)*
 
 ### [Wulfen](mechs/wulfen.md)
+- **Wulfen  (Prime)** *()*
+- **Wulfen  A** *()*
+- **Wulfen  B** *()*
+- **Wulfen  C** *()*
+- **Wulfen  D** *()*
+- **Wulfen  E** *()*
 - **Wulfen  H** *()*
 
 ## 35 Tons
@@ -619,6 +712,14 @@
 ### [Cougar](mechs/cougar.md)
 - **Cougar G** *(3071)*
 - **Cougar XR** *(3071)*
+- **Cougar  Prime** *()*
+- **Cougar  A** *()*
+- **Cougar  B** *()*
+- **Cougar  C** *()*
+- **Cougar  D** *()*
+- **Cougar  E** *()*
+- **Cougar  F** *()*
+- **Cougar  H** *()*
 - **Cougar  I** *()*
 
 ### [Dig King RCL-1 MiningMech](mechs/dig_king_rcl-1_miningmech.md)
@@ -736,7 +837,15 @@
 - **Ostscout OTT-8J** *(3145)*
 
 ### [Owens](mechs/owens.md)
+- **Owens  OW-1** *()*
+- **Owens  OW-1A** *()*
+- **Owens  OW-1B** *()*
+- **Owens  OW-1C** *()*
+- **Owens  OW-1D** *()*
+- **Owens  OW-1E** *()*
+- **Owens  OW-1F** *()*
 - **Owens  OW-1G** *()*
+- **Owens  OW-1R** *()*
 
 ### [Panther](mechs/panther.md)
 - **Panther PNT-8Z** *(2739)*
@@ -784,6 +893,16 @@
 - **Powerman XI LoaderMech (Standard)** *(2764)*
 
 ### [Puma (Adder)](mechs/puma_adder.md)
+- **Puma (Adder)  Prime** *()*
+- **Puma (Adder)  A** *()*
+- **Puma (Adder)  B** *()*
+- **Puma (Adder)  C** *()*
+- **Puma (Adder)  D** *()*
+- **Puma (Adder)  E** *()*
+- **Puma (Adder)  H** *()*
+- **Puma (Adder)  J** *()*
+- **Puma (Adder)  L** *()*
+- **Puma (Adder)  T** *()*
 - **Puma (Adder)  TC** *()*
 
 ### [Raven](mechs/raven.md)
@@ -869,9 +988,14 @@
 - **Arctic Wolf (Standard)** *(3059)*
 - **Arctic Wolf 2** *(3060)*
 - **Arctic Wolf  Prime** *()*
+- **Arctic Wolf  A** *()*
+- **Arctic Wolf  J** *()*
 
 ### [Arctic Wolf II](mechs/arctic_wolf_ii.md)
 - **Arctic Wolf II  Prime** *()*
+- **Arctic Wolf II  A** *()*
+- **Arctic Wolf II  B** *()*
+- **Arctic Wolf II  C** *()*
 
 ### [Assassin](mechs/assassin.md)
 - **Assassin ASN-21** *(2676)*
@@ -882,6 +1006,19 @@
 - **Assassin ASN-99** *(3068)*
 
 ### [Battle Cobra](mechs/battle_cobra.md)
+- **Battle Cobra  Prime** *()*
+- **Battle Cobra  A** *()*
+- **Battle Cobra  B** *()*
+- **Battle Cobra  BTL-C-2O** *()*
+- **Battle Cobra  BTL-C-2OA** *()*
+- **Battle Cobra  BTL-C-2OB** *()*
+- **Battle Cobra  BTL-C-2OC** *()*
+- **Battle Cobra  BTL-C-2OD** *()*
+- **Battle Cobra  BTL-C-2OE** *()*
+- **Battle Cobra  BTL-C-2OF** *()*
+- **Battle Cobra  C** *()*
+- **Battle Cobra  F** *()*
+- **Battle Cobra  H** *()*
 - **Battle Cobra  X** *()*
 
 ### [Calliope](mechs/calliope.md)
@@ -889,6 +1026,9 @@
 - **Calliope CAL-1MAFSW 'Snow White'** *(3127)*
 
 ### [Carrion Crow](mechs/carrion_crow.md)
+- **Carrion Crow  A** *()*
+- **Carrion Crow  B** *()*
+- **Carrion Crow  C** *()*
 - **Carrion Crow  D** *()*
 
 ### [Chimera](mechs/chimera.md)
@@ -927,6 +1067,10 @@
 
 ### [Coyotl](mechs/coyotl.md)
 - **Coyotl  Prime** *()*
+- **Coyotl  A** *()*
+- **Coyotl  B** *()*
+- **Coyotl  C** *()*
+- **Coyotl  D** *()*
 
 ### [Cuirass](mechs/cuirass.md)
 - **Cuirass CDR-1X** *(3086)*
@@ -944,6 +1088,21 @@
 - **Dasher II 3** *(3136)*
 
 ### [Dragonfly (Viper)](mechs/dragonfly_viper.md)
+- **Dragonfly (Viper)  Prime** *()*
+- **Dragonfly (Viper)  A** *()*
+- **Dragonfly (Viper)  B** *()*
+- **Dragonfly (Viper)  C** *()*
+- **Dragonfly (Viper)  D** *()*
+- **Dragonfly (Viper)  E** *()*
+- **Dragonfly (Viper)  F** *()*
+- **Dragonfly (Viper)  G** *()*
+- **Dragonfly (Viper)  H** *()*
+- **Dragonfly (Viper)  I** *()*
+- **Dragonfly (Viper)  J** *()*
+- **Dragonfly (Viper)  K** *()*
+- **Dragonfly (Viper)  L** *()*
+- **Dragonfly (Viper)  M** *()*
+- **Dragonfly (Viper)  R** *()*
 - **Dragonfly (Viper)  T** *()*
 
 ### [Griffin IIC](mechs/griffin_iic.md)
@@ -993,9 +1152,21 @@
 
 ### [Phantom](mechs/phantom.md)
 - **Phantom  Prime** *()*
+- **Phantom  A** *()*
+- **Phantom  B** *()*
+- **Phantom  C** *()*
+- **Phantom  D** *()*
+- **Phantom  E** *()*
+- **Phantom  H** *()*
 
 ### [Pouncer](mechs/pouncer.md)
 - **Pouncer  Prime** *()*
+- **Pouncer  A** *()*
+- **Pouncer  B** *()*
+- **Pouncer  C** *()*
+- **Pouncer  D** *()*
+- **Pouncer  E** *()*
+- **Pouncer  H** *()*
 
 ### [Raven II](mechs/raven_ii.md)
 - **Raven II RVN-5X** *(3123)*
@@ -1028,7 +1199,18 @@
 - **Space Hound ProspectorMech AM-PRM-SH1** *(3047)*
 
 ### [Strider](mechs/strider.md)
+- **Strider  SR1-O** *()*
+- **Strider  SR1-OA** *()*
+- **Strider  SR1-OB** *()*
+- **Strider  SR1-OC** *()*
+- **Strider  SR1-OD** *()*
+- **Strider  SR1-OE** *()*
+- **Strider  SR1-OF** *()*
+- **Strider  SR1-OG** *()*
+- **Strider  SR1-OH** *()*
 - **Strider  SR1-OM** *()*
+- **Strider  SR1-OR** *()*
+- **Strider  SR1-OX** *()*
 
 ### [Swordsman](mechs/swordsman.md)
 - **Swordsman SWD-1** *(2463)*
@@ -1121,9 +1303,31 @@
 - **Eisenfaust EFT-8X** *(3080)*
 
 ### [Fenris (Ice Ferret)](mechs/fenris_ice_ferret.md)
+- **Fenris (Ice Ferret)  Prime** *()*
+- **Fenris (Ice Ferret)  A** *()*
+- **Fenris (Ice Ferret)  B** *()*
+- **Fenris (Ice Ferret)  C** *()*
+- **Fenris (Ice Ferret)  D** *()*
+- **Fenris (Ice Ferret)  E** *()*
+- **Fenris (Ice Ferret)  F** *()*
+- **Fenris (Ice Ferret)  G** *()*
+- **Fenris (Ice Ferret)  H** *()*
+- **Fenris (Ice Ferret)  J** *()*
+- **Fenris (Ice Ferret)  K** *()*
+- **Fenris (Ice Ferret)  L** *()*
 - **Fenris (Ice Ferret)  T** *()*
 
 ### [Firestarter](mechs/firestarter.md)
+- **Firestarter  FS9-O** *()*
+- **Firestarter  FS9-OA** *()*
+- **Firestarter  FS9-OB** *()*
+- **Firestarter  FS9-OC** *()*
+- **Firestarter  FS9-OD** *()*
+- **Firestarter  FS9-OE** *()*
+- **Firestarter  FS9-OF** *()*
+- **Firestarter  FS9-OG** *()*
+- **Firestarter  FS9-OH** *()*
+- **Firestarter  FS9-OR** *()*
 - **Firestarter  FS9-OX** *()*
 
 ### [Goshawk II](mechs/goshawk_ii.md)
@@ -1135,6 +1339,16 @@
 - **Great Wyrm 2** *(3069)*
 
 ### [Grendel (Mongrel)](mechs/grendel_mongrel.md)
+- **Grendel (Mongrel)  Prime** *()*
+- **Grendel (Mongrel)  A** *()*
+- **Grendel (Mongrel)  B** *()*
+- **Grendel (Mongrel)  C** *()*
+- **Grendel (Mongrel)  D** *()*
+- **Grendel (Mongrel)  E** *()*
+- **Grendel (Mongrel)  F** *()*
+- **Grendel (Mongrel)  G** *()*
+- **Grendel (Mongrel)  H** *()*
+- **Grendel (Mongrel)  J** *()*
 - **Grendel (Mongrel)  T** *()*
 
 ### [Hammerhead](mechs/hammerhead.md)
@@ -1164,6 +1378,9 @@
 
 ### [Hierofalcon](mechs/hierofalcon.md)
 - **Hierofalcon  Prime** *()*
+- **Hierofalcon  A** *()*
+- **Hierofalcon  B** *()*
+- **Hierofalcon  D** *()*
 
 ### [Hollander II](mechs/hollander_ii.md)
 - **Hollander II BZK-F5** *(3058)*
@@ -1218,6 +1435,13 @@
 
 ### [Preta](mechs/preta.md)
 - **Preta  C-PRT-O (Kendali)** *()*
+- **Preta  C-PRT-O Invictus** *()*
+- **Preta  C-PRT-OA Dominus** *()*
+- **Preta  C-PRT-OB Infernus** *()*
+- **Preta  C-PRT-OC Comminus** *()*
+- **Preta  C-PRT-OD Luminos** *()*
+- **Preta  C-PRT-OE Eminus** *()*
+- **Preta  C-PRT-OS Caelestis** *()*
 
 ### [Quasit MilitiaMech](mechs/quasit_militiamech.md)
 - **Quasit MilitiaMech QUA-51T** *(2517)*
@@ -1225,10 +1449,25 @@
 - **Quasit MilitiaMech QUA-51P** *(3074)*
 
 ### [Shadow Cat](mechs/shadow_cat.md)
+- **Shadow Cat  Prime** *()*
+- **Shadow Cat  A** *()*
+- **Shadow Cat  B** *()*
+- **Shadow Cat  C** *()*
+- **Shadow Cat  D** *()*
+- **Shadow Cat  E** *()*
+- **Shadow Cat  F** *()*
+- **Shadow Cat  H** *()*
+- **Shadow Cat  I** *()*
+- **Shadow Cat  J** *()*
+- **Shadow Cat  M** *()*
+- **Shadow Cat  T** *()*
 - **Shadow Cat  TC** *()*
 
 ### [Shadow Cat III](mechs/shadow_cat_iii.md)
 - **Shadow Cat III  Prime** *()*
+- **Shadow Cat III  A** *()*
+- **Shadow Cat III  B** *()*
+- **Shadow Cat III  C** *()*
 
 ### [Shadow Hawk IIC](mechs/shadow_hawk_iic.md)
 - **Shadow Hawk IIC (Standard)** *(2831)*
@@ -1292,6 +1531,11 @@
 ## 50 Tons
 
 ### [Avalanche](mechs/avalanche.md)
+- **Avalanche  AVL-1O** *()*
+- **Avalanche  AVL-1OA** *()*
+- **Avalanche  AVL-1OB** *()*
+- **Avalanche  AVL-1OC** *()*
+- **Avalanche  AVL-1ON** *()*
 - **Avalanche  AVL-1OR** *()*
 
 ### [Black Hawk](mechs/black_hawk.md)
@@ -1300,9 +1544,27 @@
 - **Black Hawk 3** *(3092)*
 
 ### [Black Hawk (Nova)](mechs/black_hawk_nova.md)
+- **Black Hawk (Nova)  Prime** *()*
+- **Black Hawk (Nova)  A** *()*
+- **Black Hawk (Nova)  B** *()*
+- **Black Hawk (Nova)  C** *()*
+- **Black Hawk (Nova)  D** *()*
+- **Black Hawk (Nova)  E** *()*
+- **Black Hawk (Nova)  F** *()*
+- **Black Hawk (Nova)  H** *()*
+- **Black Hawk (Nova)  I** *()*
+- **Black Hawk (Nova)  S** *()*
 - **Black Hawk (Nova)  X** *()*
 
 ### [Blackjack](mechs/blackjack.md)
+- **Blackjack  BJ2-O** *()*
+- **Blackjack  BJ2-OA** *()*
+- **Blackjack  BJ2-OB** *()*
+- **Blackjack  BJ2-OC** *()*
+- **Blackjack  BJ2-OD** *()*
+- **Blackjack  BJ2-OE** *()*
+- **Blackjack  BJ2-OF** *()*
+- **Blackjack  BJ2-OR** *()*
 - **Blackjack  BJ2-OX** *()*
 
 ### [Blitzkrieg](mechs/blitzkrieg.md)
@@ -1334,6 +1596,10 @@
 - **Centurion CN9-Ar** *(3072)*
 - **Centurion CN9-H** *(3077)*
 - **Centurion CN9-YLW3 'Yen Lo Wang'** *(3101)*
+- **Centurion  CN11-O** *()*
+- **Centurion  CN11-OA** *()*
+- **Centurion  CN11-OB** *()*
+- **Centurion  CN11-OC** *()*
 - **Centurion  CN11-OE** *()*
 
 ### [Chameleon](mechs/chameleon.md)
@@ -1354,6 +1620,11 @@
 - **Crab CRB-54** *(3144)*
 
 ### [Crimson Langur](mechs/crimson_langur.md)
+- **Crimson Langur  Prime** *()*
+- **Crimson Langur  A** *()*
+- **Crimson Langur  B** *()*
+- **Crimson Langur  C** *()*
+- **Crimson Langur  D** *()*
 - **Crimson Langur  E** *()*
 
 ### [Enfield](mechs/enfield.md)
@@ -1458,10 +1729,22 @@
 - **Nightsky NGS-6T** *(3067)*
 
 ### [Nobori-nin (Huntsman)](mechs/nobori-nin_huntsman.md)
+- **Nobori-nin (Huntsman)  Prime** *()*
+- **Nobori-nin (Huntsman)  A** *()*
+- **Nobori-nin (Huntsman)  B** *()*
+- **Nobori-nin (Huntsman)  C** *()*
+- **Nobori-nin (Huntsman)  D** *()*
+- **Nobori-nin (Huntsman)  E** *()*
+- **Nobori-nin (Huntsman)  G** *()*
+- **Nobori-nin (Huntsman)  H** *()*
+- **Nobori-nin (Huntsman)  I** *()*
+- **Nobori-nin (Huntsman)  N** *()*
 - **Nobori-nin (Huntsman)  T** *()*
 
 ### [Omni-Corvis](mechs/omni-corvis.md)
 - **Omni-Corvis  Prime** *()*
+- **Omni-Corvis  A** *()*
+- **Omni-Corvis  B** *()*
 
 ### [Phoenix](mechs/phoenix.md)
 - **Phoenix PX-3R** *(2520)*
@@ -1550,9 +1833,13 @@
 - **Uziel UZL-8S** *(3075)*
 
 ### [Wendigo](mechs/wendigo.md)
+- **Wendigo  (Prime)** *()*
+- **Wendigo  A** *()*
+- **Wendigo  B** *()*
 - **Wendigo  C** *()*
 
 ### [Wendigo-VP](mechs/wendigo-vp.md)
+- **Wendigo-VP  (Prime)** *()*
 - **Wendigo-VP  A** *()*
 
 ## 55 Tons
@@ -1573,6 +1860,12 @@
 
 ### [Black Lanner](mechs/black_lanner.md)
 - **Black Lanner  Prime** *()*
+- **Black Lanner  A** *()*
+- **Black Lanner  B** *()*
+- **Black Lanner  C** *()*
+- **Black Lanner  D** *()*
+- **Black Lanner  E** *()*
+- **Black Lanner  H** *()*
 
 ### [Buccaneer](mechs/buccaneer.md)
 - **Buccaneer BCN-3R** *(3055)*
@@ -1629,6 +1922,9 @@
 - **Fennec FEC-3C** *(3087)*
 
 ### [Gauntlet](mechs/gauntlet.md)
+- **Gauntlet  GTL-1O** *()*
+- **Gauntlet  GTL-1OA** *()*
+- **Gauntlet  GTL-1OB** *()*
 - **Gauntlet  GTL-1OC** *()*
 
 ### [Gladiator](mechs/gladiator.md)
@@ -1742,6 +2038,14 @@
 
 ### [Men Shen](mechs/men_shen.md)
 - **Men Shen  (Li)** *()*
+- **Men Shen  MS1-O** *()*
+- **Men Shen  MS1-OA** *()*
+- **Men Shen  MS1-OB** *()*
+- **Men Shen  MS1-OC** *()*
+- **Men Shen  MS1-OD** *()*
+- **Men Shen  MS1-OE** *()*
+- **Men Shen  MS1-OF** *()*
+- **Men Shen  MS1-OG** *()*
 
 ### [Osprey](mechs/osprey.md)
 - **Osprey OSP-15** *(2738)*
@@ -1750,6 +2054,11 @@
 - **Osprey OSP-26 (Lawrence)** *(3085)*
 
 ### [Pariah (Septicemia)](mechs/pariah_septicemia.md)
+- **Pariah (Septicemia)  Prime** *()*
+- **Pariah (Septicemia)  A** *()*
+- **Pariah (Septicemia)  B** *()*
+- **Pariah (Septicemia)  C** *()*
+- **Pariah (Septicemia)  D** *()*
 - **Pariah (Septicemia)  F** *()*
 
 ### [Prowler](mechs/prowler.md)
@@ -1768,6 +2077,19 @@
 - **Rook NH-1X 'Rook-X'** *(3077)*
 
 ### [Ryoken (Stormcrow)](mechs/ryoken_stormcrow.md)
+- **Ryoken (Stormcrow)  Prime** *()*
+- **Ryoken (Stormcrow)  (Kotare)** *()*
+- **Ryoken (Stormcrow)  A** *()*
+- **Ryoken (Stormcrow)  Attwater** *()*
+- **Ryoken (Stormcrow)  B** *()*
+- **Ryoken (Stormcrow)  C** *()*
+- **Ryoken (Stormcrow)  D** *()*
+- **Ryoken (Stormcrow)  E** *()*
+- **Ryoken (Stormcrow)  F** *()*
+- **Ryoken (Stormcrow)  G** *()*
+- **Ryoken (Stormcrow)  H** *()*
+- **Ryoken (Stormcrow)  I** *()*
+- **Ryoken (Stormcrow)  J** *()*
 - **Ryoken (Stormcrow)  TC** *()*
 
 ### [Scorpion](mechs/scorpion.md)
@@ -1804,9 +2126,17 @@
 
 ### [Stooping Hawk](mechs/stooping_hawk.md)
 - **Stooping Hawk  Prime** *()*
+- **Stooping Hawk  A** *()*
+- **Stooping Hawk  B** *()*
+- **Stooping Hawk  C** *()*
+- **Stooping Hawk  D** *()*
+- **Stooping Hawk  E** *()*
+- **Stooping Hawk  F** *()*
 
 ### [Sun Bear](mechs/sun_bear.md)
 - **Sun Bear  Prime** *()*
+- **Sun Bear  A** *()*
+- **Sun Bear  B** *()*
 
 ### [Sun Cobra](mechs/sun_cobra.md)
 - **Sun Cobra (Standard)** *(3074)*
@@ -1874,7 +2204,17 @@
 - **Bellerophon BEL-1X** *(2442)*
 
 ### [Black Hawk-KU](mechs/black_hawk-ku.md)
+- **Black Hawk-KU  BHKU-O** *()*
 - **Black Hawk-KU  BHKU-O (Albert)** *()*
+- **Black Hawk-KU  BHKU-OA** *()*
+- **Black Hawk-KU  BHKU-OB** *()*
+- **Black Hawk-KU  BHKU-OC** *()*
+- **Black Hawk-KU  BHKU-OD** *()*
+- **Black Hawk-KU  BHKU-OE** *()*
+- **Black Hawk-KU  BHKU-OF** *()*
+- **Black Hawk-KU  BHKU-OG** *()*
+- **Black Hawk-KU  BHKU-OR** *()*
+- **Black Hawk-KU  BHKU-OX** *()*
 
 ### [Brahma](mechs/brahma.md)
 - **Brahma BRM-5A** *(3080)*
@@ -1927,6 +2267,13 @@
 
 ### [Grigori](mechs/grigori.md)
 - **Grigori  C-GRG-O (Rufus)** *()*
+- **Grigori  C-GRG-O (Tamiel)** *()*
+- **Grigori  C-GRG-O Invictus** *()*
+- **Grigori  C-GRG-OA Dominus** *()*
+- **Grigori  C-GRG-OB Infernus** *()*
+- **Grigori  C-GRG-OC Comminus** *()*
+- **Grigori  C-GRG-OD Luminos** *()*
+- **Grigori  C-GRG-OE Eminus** *()*
 
 ### [Heavy Lifter HCL-1 CargoMech](mechs/heavy_lifter_hcl-1_cargomech.md)
 - **Heavy Lifter HCL-1 CargoMech (Standard)** *(3060)*
@@ -1959,6 +2306,9 @@
 
 ### [Lupus](mechs/lupus.md)
 - **Lupus  Prime** *()*
+- **Lupus  A** *()*
+- **Lupus  B** *()*
+- **Lupus  C** *()*
 
 ### [Matador](mechs/matador.md)
 - **Matador (Standard)** *(2846)*
@@ -2072,13 +2422,33 @@
 - **Vulpes VLP-1D** *(3133)*
 
 ### [Vulture (Mad Dog)](mechs/vulture_mad_dog.md)
+- **Vulture (Mad Dog)  Prime** *()*
+- **Vulture (Mad Dog)  A** *()*
+- **Vulture (Mad Dog)  B** *()*
+- **Vulture (Mad Dog)  C** *()*
+- **Vulture (Mad Dog)  D** *()*
+- **Vulture (Mad Dog)  DD** *()*
+- **Vulture (Mad Dog)  E** *()*
+- **Vulture (Mad Dog)  F** *()*
+- **Vulture (Mad Dog)  G** *()*
+- **Vulture (Mad Dog)  H** *()*
 - **Vulture (Mad Dog)  S** *()*
+- **Vulture (Mad Dog)  T** *()*
+- **Vulture (Mad Dog)  V** *()*
 
 ### [Vulture Mk III (Mad Dog Mk III)](mechs/vulture_mk_iii_mad_dog_mk_iii.md)
+- **Vulture Mk III (Mad Dog Mk III)  (Prime)** *()*
+- **Vulture Mk III (Mad Dog Mk III)  A** *()*
+- **Vulture Mk III (Mad Dog Mk III)  B** *()*
 - **Vulture Mk III (Mad Dog Mk III)  BLO** *()*
+- **Vulture Mk III (Mad Dog Mk III)  C** *()*
 
 ### [Vulture Mk IV (Mad Dog Mk IV)](mechs/vulture_mk_iv_mad_dog_mk_iv.md)
 - **Vulture Mk IV (Mad Dog Mk IV)  Prime** *()*
+- **Vulture Mk IV (Mad Dog Mk IV)  A** *()*
+- **Vulture Mk IV (Mad Dog Mk IV)  B** *()*
+- **Vulture Mk IV (Mad Dog Mk IV)  C** *()*
+- **Vulture Mk IV (Mad Dog Mk IV)  D** *()*
 
 ### [Yeoman](mechs/yeoman.md)
 - **Yeoman YMN-6Y** *(3060)*
@@ -2102,6 +2472,11 @@
 - **Axman AXM-5N** *(3148)*
 
 ### [Balius](mechs/balius.md)
+- **Balius  Prime** *()*
+- **Balius  A** *()*
+- **Balius  B** *()*
+- **Balius  C** *()*
+- **Balius  D** *()*
 - **Balius  E** *()*
 
 ### [Bombardier](mechs/bombardier.md)
@@ -2133,7 +2508,14 @@
 - **Catapult CPLT-6K** *(3150)*
 
 ### [Cauldron-Born (Ebon Jaguar)](mechs/cauldron-born_ebon_jaguar.md)
+- **Cauldron-Born (Ebon Jaguar)  Prime** *()*
 - **Cauldron-Born (Ebon Jaguar)  (Samantha)** *()*
+- **Cauldron-Born (Ebon Jaguar)  A** *()*
+- **Cauldron-Born (Ebon Jaguar)  B** *()*
+- **Cauldron-Born (Ebon Jaguar)  C** *()*
+- **Cauldron-Born (Ebon Jaguar)  D** *()*
+- **Cauldron-Born (Ebon Jaguar)  E** *()*
+- **Cauldron-Born (Ebon Jaguar)  H** *()*
 
 ### [Cestus](mechs/cestus.md)
 - **Cestus CTS-6X** *(2609)*
@@ -2143,6 +2525,11 @@
 
 ### [Crossbow](mechs/crossbow.md)
 - **Crossbow  Prime** *()*
+- **Crossbow  A** *()*
+- **Crossbow  B** *()*
+- **Crossbow  C** *()*
+- **Crossbow  E** *()*
+- **Crossbow  H** *()*
 
 ### [Crusader](mechs/crusader.md)
 - **Crusader CRD-2R** *(2649)*
@@ -2211,7 +2598,13 @@
 - **Jinggau JN-G9CC** *(3072)*
 
 ### [Karhu](mechs/karhu.md)
+- **Karhu  Prime** *()*
 - **Karhu  (Syngman)** *()*
+- **Karhu  A** *()*
+- **Karhu  B** *()*
+- **Karhu  C** *()*
+- **Karhu  D** *()*
+- **Karhu  G** *()*
 
 ### [Koschei](mechs/koschei.md)
 - **Koschei KSC-3I** *(2504)*
@@ -2223,12 +2616,31 @@
 - **Koschei KSC-5X** *(3075)*
 
 ### [Linebacker](mechs/linebacker.md)
+- **Linebacker  Prime** *()*
+- **Linebacker  A** *()*
+- **Linebacker  B** *()*
+- **Linebacker  C** *()*
+- **Linebacker  D** *()*
+- **Linebacker  E** *()*
+- **Linebacker  H** *()*
+- **Linebacker  I** *()*
 - **Linebacker  T** *()*
 
 ### [Loki (Hellbringer)](mechs/loki_hellbringer.md)
+- **Loki (Hellbringer)  Prime** *()*
+- **Loki (Hellbringer)  A** *()*
+- **Loki (Hellbringer)  B** *()*
+- **Loki (Hellbringer)  C** *()*
+- **Loki (Hellbringer)  D** *()*
+- **Loki (Hellbringer)  E** *()*
+- **Loki (Hellbringer)  F** *()*
+- **Loki (Hellbringer)  H** *()*
+- **Loki (Hellbringer)  J** *()*
 - **Loki (Hellbringer)  M** *()*
+- **Loki (Hellbringer)  T** *()*
 
 ### [Loki Mk II (Hel)](mechs/loki_mk_ii_hel.md)
+- **Loki Mk II (Hel)  (Prime)** *()*
 - **Loki Mk II (Hel)  A** *()*
 
 ### [Morpheus](mechs/morpheus.md)
@@ -2315,6 +2727,7 @@
 - **Ursa URA-2A** *(3122)*
 
 ### [Vandal](mechs/vandal.md)
+- **Vandal  LI-O** *()*
 - **Vandal  LI-OA** *()*
 
 ### [Verfolger](mechs/verfolger.md)
@@ -2358,7 +2771,19 @@
 - **Archer ARC-9R** *(3134)*
 
 ### [Avatar](mechs/avatar.md)
+- **Avatar  AV1-O** *()*
+- **Avatar  AV1-OA** *()*
+- **Avatar  AV1-OB** *()*
 - **Avatar  AV1-OBLO** *()*
+- **Avatar  AV1-OC** *()*
+- **Avatar  AV1-OD** *()*
+- **Avatar  AV1-OE** *()*
+- **Avatar  AV1-OF** *()*
+- **Avatar  AV1-OG** *()*
+- **Avatar  AV1-OH** *()*
+- **Avatar  AV1-OI** *()*
+- **Avatar  AV1-OJ** *()*
+- **Avatar  AV1-OR** *()*
 
 ### [Barghest](mechs/barghest.md)
 - **Barghest BGS-1T** *(3058)*
@@ -2414,6 +2839,13 @@
 
 ### [Deva](mechs/deva.md)
 - **Deva  C-DVA-O (Achilleus)** *()*
+- **Deva  C-DVA-O Invictus** *()*
+- **Deva  C-DVA-OA Dominus** *()*
+- **Deva  C-DVA-OB Infernus** *()*
+- **Deva  C-DVA-OC Comminus** *()*
+- **Deva  C-DVA-OD Luminos** *()*
+- **Deva  C-DVA-OE Eminus** *()*
+- **Deva  C-DVA-OS Caelestis** *()*
 
 ### [Dragoon](mechs/dragoon.md)
 - **Dragoon AEM-01** *(2771)*
@@ -2434,6 +2866,10 @@
 ### [Flamberge](mechs/flamberge.md)
 - **Flamberge 2** *(3087)*
 - **Flamberge 3** *(3087)*
+- **Flamberge  Prime** *()*
+- **Flamberge  A** *()*
+- **Flamberge  B** *()*
+- **Flamberge  C** *()*
 - **Flamberge  D** *()*
 
 ### [Gallant](mechs/gallant.md)
@@ -2517,6 +2953,15 @@
 - **No-Dachi NDA-2KC** *(3067)*
 
 ### [Nova Cat](mechs/nova_cat.md)
+- **Nova Cat  Prime** *()*
+- **Nova Cat  A** *()*
+- **Nova Cat  B** *()*
+- **Nova Cat  C** *()*
+- **Nova Cat  D** *()*
+- **Nova Cat  E** *()*
+- **Nova Cat  F** *()*
+- **Nova Cat  G** *()*
+- **Nova Cat  H** *()*
 - **Nova Cat  I** *()*
 
 ### [Shootist](mechs/shootist.md)
@@ -2525,12 +2970,35 @@
 - **Shootist ST-9C** *(3066)*
 
 ### [Sun Spider](mechs/sun_spider.md)
+- **Sun Spider  Prime** *()*
+- **Sun Spider  A** *()*
+- **Sun Spider  B** *()*
+- **Sun Spider  C** *()*
+- **Sun Spider  D** *()*
+- **Sun Spider  Manul** *()*
 - **Sun Spider  Vanguard** *()*
 
 ### [Thor (Summoner)](mechs/thor_summoner.md)
+- **Thor (Summoner)  Prime** *()*
+- **Thor (Summoner)  A** *()*
+- **Thor (Summoner)  AA** *()*
+- **Thor (Summoner)  B** *()*
+- **Thor (Summoner)  C** *()*
+- **Thor (Summoner)  D** *()*
+- **Thor (Summoner)  E** *()*
+- **Thor (Summoner)  F** *()*
+- **Thor (Summoner)  G** *()*
+- **Thor (Summoner)  H** *()*
+- **Thor (Summoner)  HH** *()*
+- **Thor (Summoner)  J** *()*
+- **Thor (Summoner)  M** *()*
 - **Thor (Summoner)  Q** *()*
 
 ### [Thor II (Grand Summoner)](mechs/thor_ii_grand_summoner.md)
+- **Thor II (Grand Summoner)  (Prime)** *()*
+- **Thor II (Grand Summoner)  A** *()*
+- **Thor II (Grand Summoner)  B** *()*
+- **Thor II (Grand Summoner)  C** *()*
 - **Thor II (Grand Summoner)  D** *()*
 
 ### [Thunder](mechs/thunder.md)
@@ -2553,6 +3021,9 @@
 
 ### [War Crow](mechs/war_crow.md)
 - **War Crow  Prime** *()*
+- **War Crow  A** *()*
+- **War Crow  B** *()*
+- **War Crow  C** *()*
 
 ### [Warhammer](mechs/warhammer.md)
 - **Warhammer WHM-6R** *(2515)*
@@ -2656,6 +3127,9 @@
 - **Helepolis HEP-4H** *(3074)*
 
 ### [Inferno](mechs/inferno.md)
+- **Inferno  INF-NOA** *()*
+- **Inferno  INF-NOB** *()*
+- **Inferno  INF-NOC** *()*
 - **Inferno  INF-NOR** *()*
 
 ### [Jade Hawk](mechs/jade_hawk.md)
@@ -2675,11 +3149,28 @@
 ### [Mad Cat (Timber Wolf)](mechs/mad_cat_timber_wolf.md)
 - **Mad Cat (Timber Wolf) (Bounty Hunter)** *(3060)*
 - **Mad Cat (Timber Wolf) (Bounty Hunter 2)** *(3068)*
+- **Mad Cat (Timber Wolf)  Prime** *()*
+- **Mad Cat (Timber Wolf)  (Pryde)** *()*
+- **Mad Cat (Timber Wolf)  A** *()*
+- **Mad Cat (Timber Wolf)  B** *()*
+- **Mad Cat (Timber Wolf)  BLO** *()*
+- **Mad Cat (Timber Wolf)  C** *()*
+- **Mad Cat (Timber Wolf)  D** *()*
+- **Mad Cat (Timber Wolf)  E** *()*
+- **Mad Cat (Timber Wolf)  F** *()*
+- **Mad Cat (Timber Wolf)  H** *()*
+- **Mad Cat (Timber Wolf)  N** *()*
+- **Mad Cat (Timber Wolf)  S** *()*
+- **Mad Cat (Timber Wolf)  T** *()*
 - **Mad Cat (Timber Wolf)  TC** *()*
+- **Mad Cat (Timber Wolf)  W** *()*
 
 ### [Mad Cat Mk IV (Savage Wolf)](mechs/mad_cat_mk_iv_savage_wolf.md)
 - **Mad Cat Mk IV (Savage Wolf) PR (Standard)** *(3130)*
 - **Mad Cat Mk IV (Savage Wolf) PR 2** *(3131)*
+- **Mad Cat Mk IV (Savage Wolf)  (Prime)** *()*
+- **Mad Cat Mk IV (Savage Wolf)  A** *()*
+- **Mad Cat Mk IV (Savage Wolf)  B** *()*
 - **Mad Cat Mk IV (Savage Wolf)  C** *()*
 
 ### [Maelstrom](mechs/maelstrom.md)
@@ -2736,6 +3227,13 @@
 
 ### [Night Gyr](mechs/night_gyr.md)
 - **Night Gyr  Prime** *()*
+- **Night Gyr  A** *()*
+- **Night Gyr  B** *()*
+- **Night Gyr  C** *()*
+- **Night Gyr  D** *()*
+- **Night Gyr  E** *()*
+- **Night Gyr  F** *()*
+- **Night Gyr  H** *()*
 
 ### [Onslaught](mechs/onslaught.md)
 - **Onslaught SA-OS** *(3052)*
@@ -2778,6 +3276,12 @@
 - **Penthesilea PEN-3H** *(3129)*
 
 ### [Perseus](mechs/perseus.md)
+- **Perseus  P1** *()*
+- **Perseus  P1A** *()*
+- **Perseus  P1B** *()*
+- **Perseus  P1C** *()*
+- **Perseus  P1D** *()*
+- **Perseus  P1P** *()*
 - **Perseus  P1W** *()*
 
 ### [Prefect](mechs/prefect.md)
@@ -2861,6 +3365,9 @@
 
 ### [Woodsman](mechs/woodsman.md)
 - **Woodsman  Prime** *()*
+- **Woodsman  A** *()*
+- **Woodsman  B** *()*
+- **Woodsman  C** *()*
 
 ## 80 Tons
 
@@ -2900,6 +3407,7 @@
 - **Charger CGR-3Kr** *(3078)*
 
 ### [Doloire](mechs/doloire.md)
+- **Doloire  DLR-O** *()*
 - **Doloire  DLR-OB** *()*
 
 ### [Epimetheus](mechs/epimetheus.md)
@@ -2962,10 +3470,28 @@
 - **Legacy LGC-05** *(3073)*
 
 ### [Man O' War (Gargoyle)](mechs/man_o'_war_gargoyle.md)
+- **Man O' War (Gargoyle)  Prime** *()*
 - **Man O' War (Gargoyle)  (Conal)** *()*
+- **Man O' War (Gargoyle)  A** *()*
+- **Man O' War (Gargoyle)  B** *()*
+- **Man O' War (Gargoyle)  C** *()*
+- **Man O' War (Gargoyle)  D** *()*
+- **Man O' War (Gargoyle)  E** *()*
+- **Man O' War (Gargoyle)  G** *()*
+- **Man O' War (Gargoyle)  H** *()*
+- **Man O' War (Gargoyle)  I** *()*
+- **Man O' War (Gargoyle)  J** *()*
+- **Man O' War (Gargoyle)  K** *()*
+- **Man O' War (Gargoyle)  M** *()*
+- **Man O' War (Gargoyle)  P** *()*
+- **Man O' War (Gargoyle)  X** *()*
 
 ### [Naga](mechs/naga.md)
 - **Naga  Prime** *()*
+- **Naga  A** *()*
+- **Naga  B** *()*
+- **Naga  C** *()*
+- **Naga  D** *()*
 
 ### [Neanderthal](mechs/neanderthal.md)
 - **Neanderthal NTL-UG** *(3124)*
@@ -3124,6 +3650,10 @@
 
 ### [Deimos](mechs/deimos.md)
 - **Deimos 2** *(3084)*
+- **Deimos  Prime** *()*
+- **Deimos  A** *()*
+- **Deimos  B** *()*
+- **Deimos  C** *()*
 - **Deimos  H** *()*
 
 ### [Gunslinger](mechs/gunslinger.md)
@@ -3165,6 +3695,13 @@
 
 ### [Masakari (Warhawk)](mechs/masakari_warhawk.md)
 - **Masakari (Warhawk)  Prime** *()*
+- **Masakari (Warhawk)  A** *()*
+- **Masakari (Warhawk)  B** *()*
+- **Masakari (Warhawk)  C** *()*
+- **Masakari (Warhawk)  D** *()*
+- **Masakari (Warhawk)  E** *()*
+- **Masakari (Warhawk)  F** *()*
+- **Masakari (Warhawk)  H** *()*
 
 ### [Omen](mechs/omen.md)
 - **Omen (Standard)** *(3087)*
@@ -3179,11 +3716,23 @@
 - **Sasquatch SQS-TH-001** *(3054)*
 
 ### [Savage Coyote](mechs/savage_coyote.md)
+- **Savage Coyote  Prime** *()*
+- **Savage Coyote  A** *()*
+- **Savage Coyote  B** *()*
+- **Savage Coyote  C** *()*
+- **Savage Coyote  J** *()*
 - **Savage Coyote  W** *()*
 
 ### [Seraph](mechs/seraph.md)
 - **Seraph C-SRP-OR (Ravana)** *(3074)*
 - **Seraph  C-SRP-O (Havalah)** *()*
+- **Seraph  C-SRP-O Invictus** *()*
+- **Seraph  C-SRP-OA Dominus** *()*
+- **Seraph  C-SRP-OB Infernus** *()*
+- **Seraph  C-SRP-OC Comminus** *()*
+- **Seraph  C-SRP-OD Luminos** *()*
+- **Seraph  C-SRP-OE Eminus** *()*
+- **Seraph  C-SRP-OS Caelestis** *()*
 
 ### [Shogun](mechs/shogun.md)
 - **Shogun SHG-2H** *(2777)*
@@ -3214,10 +3763,22 @@
 - **Tai-sho TSH-8S** *(3073)*
 
 ### [Templar](mechs/templar.md)
+- **Templar  TLR1-O** *()*
+- **Templar  TLR1-O (Grayson)** *()*
+- **Templar  TLR1-O (Tancred)** *()*
+- **Templar  TLR1-OA** *()*
+- **Templar  TLR1-OB** *()*
 - **Templar  TLR1-OBLO** *()*
+- **Templar  TLR1-OC** *()*
+- **Templar  TLR1-OD** *()*
+- **Templar  TLR1-OE** *()*
+- **Templar  TLR1-OF** *()*
+- **Templar  TLR1-OG** *()*
+- **Templar  TLR1-OI** *()*
 
 ### [Templar III](mechs/templar_iii.md)
 - **Templar III TLR2-J 'Arthur'** *(3120)*
+- **Templar III  TLR2-O** *()*
 - **Templar III  TLR2-OA** *()*
 
 ### [Thunder Stallion](mechs/thunder_stallion.md)
@@ -3239,6 +3800,13 @@
 
 ### [Blood Asp](mechs/blood_asp.md)
 - **Blood Asp  Prime** *()*
+- **Blood Asp  A** *()*
+- **Blood Asp  B** *()*
+- **Blood Asp  C** *()*
+- **Blood Asp  D** *()*
+- **Blood Asp  E** *()*
+- **Blood Asp  F** *()*
+- **Blood Asp  G** *()*
 
 ### [Cyclops](mechs/cyclops.md)
 - **Cyclops CP-10-Z** *(2710)*
@@ -3289,6 +3857,14 @@
 - **Juggernaut JG-R9T2** *(3057)*
 
 ### [Kingfisher](mechs/kingfisher.md)
+- **Kingfisher  Prime** *()*
+- **Kingfisher  A** *()*
+- **Kingfisher  B** *()*
+- **Kingfisher  C** *()*
+- **Kingfisher  D** *()*
+- **Kingfisher  E** *()*
+- **Kingfisher  F** *()*
+- **Kingfisher  H** *()*
 - **Kingfisher  X** *()*
 
 ### [Mad Cat Mk II](mechs/mad_cat_mk_ii.md)
@@ -3322,7 +3898,16 @@
 - **Rifleman III RF2-A** *(2776)*
 
 ### [Sunder](mechs/sunder.md)
+- **Sunder  SD1-O** *()*
+- **Sunder  SD1-O (Samual)** *()*
+- **Sunder  SD1-OA** *()*
+- **Sunder  SD1-OB** *()*
+- **Sunder  SD1-OC** *()*
+- **Sunder  SD1-OD** *()*
+- **Sunder  SD1-OE** *()*
+- **Sunder  SD1-OF** *()*
 - **Sunder  SD1-OG** *()*
+- **Sunder  SD1-OR** *()*
 
 ### [Supernova](mechs/supernova.md)
 - **Supernova (Standard)** *(2846)*
@@ -3405,9 +3990,30 @@
 - **Cygnus 4** *(3090)*
 
 ### [Gladiator (Executioner)](mechs/gladiator_executioner.md)
+- **Gladiator (Executioner)  Prime** *()*
+- **Gladiator (Executioner)  A** *()*
+- **Gladiator (Executioner)  B** *()*
+- **Gladiator (Executioner)  C** *()*
+- **Gladiator (Executioner)  D** *()*
+- **Gladiator (Executioner)  E** *()*
+- **Gladiator (Executioner)  F** *()*
+- **Gladiator (Executioner)  G** *()*
+- **Gladiator (Executioner)  H** *()*
+- **Gladiator (Executioner)  I** *()*
+- **Gladiator (Executioner)  J** *()*
+- **Gladiator (Executioner)  K** *()*
+- **Gladiator (Executioner)  L** *()*
+- **Gladiator (Executioner)  P** *()*
 - **Gladiator (Executioner)  TC** *()*
 
 ### [Hauptmann](mechs/hauptmann.md)
+- **Hauptmann  HA1-O** *()*
+- **Hauptmann  HA1-OA** *()*
+- **Hauptmann  HA1-OB** *()*
+- **Hauptmann  HA1-OC** *()*
+- **Hauptmann  HA1-OD** *()*
+- **Hauptmann  HA1-OE** *()*
+- **Hauptmann  HA1-OM** *()*
 - **Hauptmann  HA1-OT** *()*
 
 ### [Hellstar](mechs/hellstar.md)
@@ -3453,6 +4059,9 @@
 - **Sirocco SRC-6C** *(3070)*
 
 ### [Tenshi](mechs/tenshi.md)
+- **Tenshi  TN-10-O** *()*
+- **Tenshi  TN-10-OA** *()*
+- **Tenshi  TN-10-OB** *()*
 - **Tenshi  TN-10-OR** *()*
 
 ### [Trebaruna](mechs/trebaruna.md)
@@ -3462,6 +4071,11 @@
 
 ### [Turkina](mechs/turkina.md)
 - **Turkina  Prime** *()*
+- **Turkina  A** *()*
+- **Turkina  B** *()*
+- **Turkina  D** *()*
+- **Turkina  E** *()*
+- **Turkina  H** *()*
 
 ## 100 Tons
 
@@ -3479,6 +4093,12 @@
 
 ### [Archangel](mechs/archangel.md)
 - **Archangel  C-ANG-O (Berith)** *()*
+- **Archangel  C-ANG-O Invictus** *()*
+- **Archangel  C-ANG-OA Dominus** *()*
+- **Archangel  C-ANG-OB Infernus** *()*
+- **Archangel  C-ANG-OC Comminus** *()*
+- **Archangel  C-ANG-OD Luminos** *()*
+- **Archangel  C-ANG-OE Eminus** *()*
 
 ### [Atlas](mechs/atlas.md)
 - **Atlas AS7-D-HT** *(2750)*
@@ -3530,7 +4150,19 @@
 - **Crucible 3** *(3150)*
 
 ### [Daishi (Dire Wolf)](mechs/daishi_dire_wolf.md)
+- **Daishi (Dire Wolf)  Prime** *()*
+- **Daishi (Dire Wolf)  'Prometheus'** *()*
+- **Daishi (Dire Wolf)  'Widowmaker'** *()*
+- **Daishi (Dire Wolf)  (Hohiro)** *()*
+- **Daishi (Dire Wolf)  A** *()*
+- **Daishi (Dire Wolf)  B** *()*
+- **Daishi (Dire Wolf)  C** *()*
+- **Daishi (Dire Wolf)  D** *()*
 - **Daishi (Dire Wolf)  E** *()*
+- **Daishi (Dire Wolf)  H** *()*
+- **Daishi (Dire Wolf)  S** *()*
+- **Daishi (Dire Wolf)  W** *()*
+- **Daishi (Dire Wolf)  X** *()*
 
 ### [Devastator](mechs/devastator.md)
 - **Devastator DVS-1D** *(3036)*
@@ -3661,9 +4293,15 @@
 - **Titan II TI-2PA** *(3076)*
 
 ### [Tomahawk](mechs/tomahawk.md)
+- **Tomahawk  (Prime)** *()*
+- **Tomahawk  A** *()*
+- **Tomahawk  B** *()*
 - **Tomahawk  C** *()*
 
 ### [Tomahawk II](mechs/tomahawk_ii.md)
+- **Tomahawk II  (Prime)** *()*
+- **Tomahawk II  A** *()*
+- **Tomahawk II  B** *()*
 - **Tomahawk II  C** *()*
 
 ### [Vanquisher](mechs/vanquisher.md)

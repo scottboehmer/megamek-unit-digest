@@ -26,6 +26,46 @@
   - ATM 3 × 2 (ammo: 20 ER, 20 HE, 20 Standard)
 - **Battle Value:** 2555
 
+## Mad Cat Mk IV (Savage Wolf) (Prime)
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XXL
+- **Armor:** 224 (Ferro Lamellor)
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - ER PPC × 2
+  - Streak SRM 6 × 4 (ammo: 30)
+- **Battle Value:** 2681
+
+## Mad Cat Mk IV (Savage Wolf) A
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XXL
+- **Armor:** 224 (Ferro Lamellor)
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ATM 9 × 2 (ammo: 14)
+  - Small Pulse Laser × 4
+- **Battle Value:** 2315
+
+## Mad Cat Mk IV (Savage Wolf) B
+- **Role:** Undefined
+- **Tech Base:** Clan
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XXL
+- **Armor:** 224 (Ferro Lamellor)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Improved Heavy Large Laser
+  - HAG 30 (ammo: 12)
+  - ATM 9 (ammo: 14)
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 2606
+
 ## Mad Cat Mk IV (Savage Wolf) C
 - **Role:** Undefined
 - **Tech Base:** Clan

@@ -1,4 +1,20 @@
 # Doloire
+## Doloire DLR-O
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed
+- **Chassis:** 80 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 232
+- **Heat Sinks:** 12 (32)
+- **Weapons:**
+  - Clan ER Medium Laser × 2
+  - Clan Large Pulse Laser × 2
+  - Clan Gauss Rifle (ammo: 16)
+- **Equipment:**
+  - AES × 2
+  - Angel ECM Suite
+- **Battle Value:** 2561
+
 ## Doloire DLR-OB
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed
