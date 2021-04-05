@@ -157,7 +157,7 @@
 
 ## Mad Cat (Timber Wolf) (Bounty Hunter)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3060)
+- **Tech Base:** Clan (3060)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 230 (Ferro Fibrous)
@@ -170,7 +170,7 @@
   - ECM Suite
   - Targeting Computer
   - Light TAG
-- **Battle Value:** 2773
+- **Battle Value:** 2829
 
 ## Mad Cat (Timber Wolf) (Bounty Hunter 2)
 - **Role:** Undefined

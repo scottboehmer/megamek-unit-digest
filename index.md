@@ -606,6 +606,7 @@
 - [Wildfire](mechs/wildfire.md)
 - [Wolf Trap (Tora)](mechs/wolf_trap_tora.md)
 - [Wolfhound](mechs/wolfhound.md)
+- [Wolfhound IIC](mechs/wolfhound_iic.md)
 - [Wolverine](mechs/wolverine.md)
 - [Wolverine II](mechs/wolverine_ii.md)
 - [Woodsman](mechs/woodsman.md)

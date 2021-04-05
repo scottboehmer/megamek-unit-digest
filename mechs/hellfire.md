@@ -16,3 +16,20 @@
   - MASC
 - **Battle Value:** 2075
 
+## Hellfire 2
+- **Role:** Undefined
+- **Tech Base:** Clan (3067)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 (10) / 0, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - Heavy Medium Laser × 2
+  - ER Medium Laser × 2
+  - ER Small Laser
+  - Heavy Large Laser
+  - ATM 6 × 2 (ammo: 20)
+- **Equipment:**
+  - MASC
+- **Battle Value:** 2202
+

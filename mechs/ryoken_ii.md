@@ -37,7 +37,7 @@
 
 ## Ryoken II (Tassa)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3132)
+- **Tech Base:** Clan (3132)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 231 (Ferro Fibrous)
@@ -46,5 +46,5 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - ER PPC × 2
   - ER Medium Laser × 2
-- **Battle Value:** 3008
+- **Battle Value:** 3064
 

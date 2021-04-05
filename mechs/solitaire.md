@@ -1,7 +1,7 @@
 # Solitaire
 ## Solitaire (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3064)
+- **Tech Base:** Clan (3064)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL
 - **Armor:** 86 (Ferro Fibrous)
@@ -10,11 +10,11 @@
   - Heavy Medium Laser × 2
   - Heavy Small Laser
   - Heavy Large Laser
-- **Battle Value:** 1262
+- **Battle Value:** 1284
 
 ## Solitaire 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3080)
+- **Tech Base:** Clan (3080)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 86 (Ferro Fibrous)
@@ -25,5 +25,5 @@
   - Heavy Large Laser
 - **Equipment:**
   - MASC
-- **Battle Value:** 1447
+- **Battle Value:** 1471
 

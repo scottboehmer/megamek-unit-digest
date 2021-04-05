@@ -13,7 +13,7 @@
 
 ## Black Hawk 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3092)
+- **Tech Base:** Clan (3092)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 152
@@ -21,7 +21,7 @@
 - **Weapons:**
   - ATM 6 × 2 (ammo: 20)
   - ER Large Laser × 2
-- **Battle Value:** 1952
+- **Battle Value:** 1992
 
 ## Black Hawk 3
 - **Role:** Undefined

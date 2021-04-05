@@ -1,7 +1,7 @@
 # Spirit
 ## Spirit (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3063)
+- **Tech Base:** Clan (3063)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -14,11 +14,11 @@
   - Heavy Small Laser
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 1601
+- **Battle Value:** 1631
 
 ## Spirit 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3068)
+- **Tech Base:** Clan (3068)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -28,5 +28,5 @@
   - ER Large Laser
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 1497
+- **Battle Value:** 1527
 

@@ -14,7 +14,7 @@
 
 ## Mad Cat Mk II 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3069)
+- **Tech Base:** Clan (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
 - **Armor:** 249 (Ferro Fibrous)
@@ -24,11 +24,11 @@
   - Gauss Rifle (ammo: 16)
   - Streak SRM 4 × 4 (ammo: 50)
   - ER Medium Laser × 2
-- **Battle Value:** 2680
+- **Battle Value:** 2743
 
 ## Mad Cat Mk II 3
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3082)
+- **Tech Base:** Clan (3082)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 278 (Ferro Fibrous)
@@ -39,7 +39,7 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - Light Active Probe
-- **Battle Value:** 3051
+- **Battle Value:** 3113
 
 ## Mad Cat Mk II Enhanced
 - **Role:** Undefined

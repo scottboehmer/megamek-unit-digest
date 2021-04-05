@@ -55,7 +55,7 @@
 
 ## Champion C
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (2867)
+- **Tech Base:** Clan (2867)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -66,7 +66,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Pulse Laser × 2
-- **Battle Value:** 2084
+- **Battle Value:** 2132
 
 ## Champion CHP-3N
 - **Role:** Undefined

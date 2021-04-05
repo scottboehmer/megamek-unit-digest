@@ -45,5 +45,5 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - MASC
-- **Battle Value:** 1989
+- **Battle Value:** 2041
 

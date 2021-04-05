@@ -31,7 +31,7 @@
 
 ## Bowman 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (2974)
+- **Tech Base:** Clan (2974)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 200
@@ -43,11 +43,11 @@
 - **Equipment:**
   - ECM Suite
   - A-Pod × 4
-- **Battle Value:** 2437
+- **Battle Value:** 2489
 
 ## Bowman 3
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3076)
+- **Tech Base:** Clan (3076)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 217 (Ferro Fibrous)
@@ -60,5 +60,5 @@
   - Targeting Computer
   - ECM Suite
   - B-Pod × 2
-- **Battle Value:** 2550
+- **Battle Value:** 2602
 

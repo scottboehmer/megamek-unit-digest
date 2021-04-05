@@ -1,7 +1,7 @@
 # Scylla
 ## Scylla (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3062)
+- **Tech Base:** Clan (3062)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 297 (Ferro Fibrous)
@@ -11,11 +11,11 @@
   - ER Medium Laser × 2
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - ER Large Laser
-- **Battle Value:** 2739
+- **Battle Value:** 2807
 
 ## Scylla 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3079)
+- **Tech Base:** Clan (3079)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 297 (Ferro Fibrous)
@@ -25,11 +25,11 @@
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
   - Small Pulse Laser
-- **Battle Value:** 2756
+- **Battle Value:** 2824
 
 ## Scylla 3
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3082)
+- **Tech Base:** Clan (3082)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 297 (Ferro Fibrous)
@@ -39,5 +39,5 @@
   - HAG 30 (ammo: 12)
   - Heavy Large Laser
   - ER PPC
-- **Battle Value:** 2706
+- **Battle Value:** 2774
 

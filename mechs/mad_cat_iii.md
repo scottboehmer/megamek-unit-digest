@@ -44,7 +44,7 @@
 
 ## Mad Cat III 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3089)
+- **Tech Base:** Clan (3089)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -52,7 +52,7 @@
 - **Weapons:**
   - Heavy Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
-- **Battle Value:** 2012
+- **Battle Value:** 2056
 
 ## Mad Cat III 3
 - **Role:** Undefined

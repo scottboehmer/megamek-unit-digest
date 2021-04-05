@@ -10,7 +10,6 @@ Unable to convert data from 'Kintaro KTO-21.mtf': Unrecognized component type: I
 Unable to convert data from 'Quickdraw QKD-5M.mtf': Unrecognized component type: ISSRM4 (OS)
 Unable to convert data from 'Stalker STK-3F (Jamison).mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLLRM20' instead
 Unable to convert data from 'Thug THG-13K.mtf': Expected additional critical of type 'ISHeavyPPC' but found 'ISHeavyPPC)' instead
-Invalid design in file 'Wolfhound  IIC.mtf': Design has 1 criticals over-allocated in RT
 Unable to convert data from 'Wolfhound WLF-1 (Allard).mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLERMediumLaser' instead
 Unable to convert data from 'Aquagladius AQS-3.mtf': Unrecognized component type: Mek Taser
 Unable to convert data from 'Aquagladius AQS-4.mtf': Unrecognized component type: ISUMU
@@ -61,17 +60,8 @@ Unable to convert data from 'Sentry SNT-W5.mtf': Unrecognized component type: IS
 Unable to convert data from 'Stooping Hawk G.mtf': Unrecognized component type: CLProtoMechAC4
 Unable to convert data from 'Wyvern IIC 2.mtf': Unrecognized component type: CLERFlamer
 Unable to convert data from 'Blue Flame BLF-21.mtf': Invalid location for this chassis
-Invalid design in file 'Burrock.mtf': Design has 1 criticals over-allocated in RT
-Invalid design in file 'Hellfire 2.mtf': Design has 1 criticals over-allocated in RT
-Invalid design in file 'Scylla.mtf': Design has 1 criticals over-allocated in RT
-Invalid design in file 'Bowman 2.mtf': Design has 1 criticals over-allocated in RT
-Invalid design in file 'Bowman 3.mtf': Design has 1 criticals over-allocated in LT
 Unable to convert data from 'Hellfire 3.mtf': Unrecognized component type: CLERFlamer
 Unable to convert data from 'Hellion F.mtf': Unrecognized component type: CLERFlamer
-Invalid design in file 'Mad Cat Mk II 2.mtf': Design has 1 criticals over-allocated in RT
-Invalid design in file 'Mad Cat Mk II 3.mtf': Design has 2 criticals over-allocated
-Invalid design in file 'Rabid Coyote 2.mtf': Design has 1 criticals over-allocated in RT
-Invalid design in file 'Scylla 3.mtf': Design has 1 criticals over-allocated in LT
 Unable to convert data from 'Bloodhound B3-HND.mtf': Unrecognized component type: ISERFlamer
 Unable to convert data from 'No-Dachi NDA-3S.mtf': Unrecognized component type: Mace
 Unable to convert data from 'Perseus P1E.mtf': Unrecognized component type: Communications Equipment (1 ton)
@@ -278,7 +268,6 @@ Unable to convert data from 'Ursa URA-2C.mtf': Unrecognized component type: CLRo
 Unable to parse 'Zeus X ZEU-X.mtf': [line 21] Expected a key value pair: LA Armor:Reactive(Inner Sphere):26
 Unable to parse 'Zeus X ZEU-X2.mtf': [line 21] Expected a key value pair: LA Armor:Reactive(Inner Sphere):23
 Unable to convert data from 'Zeus X ZEU-X4.mtf': Unrecognized armor type: reactive(inner sphere)
-Invalid design in file 'Mad Cat III 2.mtf': Design has 1 criticals over-allocated in RT
 Unable to convert data from 'Cestus CTS-6Y-EC.mtf': Expected additional critical of type 'ISDoubleHeatSink' but found 'Improved Large Laser' instead
 Unable to convert data from 'Devastator DVS-2-EC.mtf': Unrecognized component type: Improved Gauss Rifle
 Unable to convert data from 'Emperor EMP-6A-EC.mtf': Unrecognized component type: CLStreakSRM4Prototype
@@ -757,4 +746,4 @@ CLStreakSRM4Prototype: 1
 ISLargeShield: 1
 
 --------------------------------------------------
-3646 mtf files -> 3623 parsed files -> 3076 converted files -> 3062 validated mechs
+3646 mtf files -> 3623 parsed files -> 3076 converted files -> 3073 validated mechs

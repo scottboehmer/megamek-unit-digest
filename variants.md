@@ -982,6 +982,9 @@
 - **Wolfhound WLF-5** *(3079)*
 - **Wolfhound WLF-2H** *(3082)*
 
+### [Wolfhound IIC](mechs/wolfhound_iic.md)
+- **Wolfhound IIC 'Grinner'** *(3051)*
+
 ## 40 Tons
 
 ### [Arctic Wolf](mechs/arctic_wolf.md)
@@ -2286,6 +2289,7 @@
 
 ### [Hellfire](mechs/hellfire.md)
 - **Hellfire (Standard)** *(3058)*
+- **Hellfire 2** *(3067)*
 
 ### [Kuma](mechs/kuma.md)
 - **Kuma (Standard)** *(3082)*
@@ -3081,6 +3085,7 @@
 - **Black Knight BL-18-KNT** *(3130)*
 
 ### [Burrock](mechs/burrock.md)
+- **Burrock (Standard)** *(3066)*
 - **Burrock 2** *(3073)*
 
 ### [Cave Lion](mechs/cave_lion.md)

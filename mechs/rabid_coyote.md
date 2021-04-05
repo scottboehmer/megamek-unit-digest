@@ -15,7 +15,7 @@
 
 ## Rabid Coyote 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3071)
+- **Tech Base:** Clan (3071)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 185
@@ -26,5 +26,5 @@
 - **Equipment:**
   - Active Probe
   - ECM Suite
-- **Battle Value:** 1922
+- **Battle Value:** 1966
 
