@@ -1,7 +1,7 @@
 # Strider
 ## Strider SR1-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -16,7 +16,7 @@
 
 ## Strider SR1-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -33,7 +33,7 @@
 
 ## Strider SR1-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -46,7 +46,7 @@
 
 ## Strider SR1-OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -61,7 +61,7 @@
 
 ## Strider SR1-OD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -79,7 +79,7 @@
 
 ## Strider SR1-OE
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -91,9 +91,23 @@
   - CASE
 - **Battle Value:** 976
 
+## Strider SR1-OR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3059)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0
+- **Armor:** 120
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Clan Streak SRM 6 × 2 (ammo: 30)
+  - Clan Medium Pulse Laser × 2
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1339
+
 ## Strider SR1-OF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 120
@@ -107,7 +121,7 @@
 
 ## Strider SR1-OG
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -119,9 +133,23 @@
   - CASE
 - **Battle Value:** 883
 
+## Strider SR1-OX
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0
+- **Armor:** 120
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
+  - Bombast Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 889
+
 ## Strider SR1-OH
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3099)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -134,7 +162,7 @@
 
 ## Strider SR1-OM
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
@@ -143,32 +171,4 @@
   - CASE
   - C3 BoostedMaster × 2
 - **Battle Value:** 607
-
-## Strider SR1-OR
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0
-- **Armor:** 120
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Clan Streak SRM 6 × 2 (ammo: 30)
-  - Clan Medium Pulse Laser × 2
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1339
-
-## Strider SR1-OX
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0
-- **Armor:** 120
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
-  - Bombast Laser
-- **Equipment:**
-  - CASE
-- **Battle Value:** 889
 

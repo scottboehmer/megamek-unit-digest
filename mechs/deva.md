@@ -1,25 +1,7 @@
 # Deva
-## Deva C-DVA-O (Achilleus)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, Light
-- **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
-- **Cockpit:** Small
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Large VSP Laser × 2
-  - ER Medium Laser × 2
-- **Equipment:**
-  - C3i
-  - Supercharger
-  - Targeting Computer
-- **Battle Value:** unknown
-
 ## Deva C-DVA-O Invictus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
@@ -37,7 +19,7 @@
 
 ## Deva C-DVA-OA Dominus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
@@ -58,7 +40,7 @@
 
 ## Deva C-DVA-OB Infernus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
@@ -76,7 +58,7 @@
 
 ## Deva C-DVA-OC Comminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 216
@@ -95,7 +77,7 @@
 
 ## Deva C-DVA-OD Luminos
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 216
@@ -111,9 +93,27 @@
   - C3i
 - **Battle Value:** unknown
 
+## Deva C-DVA-O (Achilleus)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6 (8) / 0, Light
+- **Armor:** 216
+- **Gyroscope:** Heavy-Duty Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Large VSP Laser × 2
+  - ER Medium Laser × 2
+- **Equipment:**
+  - C3i
+  - Supercharger
+  - Targeting Computer
+- **Battle Value:** unknown
+
 ## Deva C-DVA-OE Eminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
@@ -131,7 +131,7 @@
 
 ## Deva C-DVA-OS Caelestis
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, Light
 - **Armor:** 216

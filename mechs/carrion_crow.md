@@ -1,7 +1,7 @@
 # Carrion Crow
 ## Carrion Crow A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 133 (Ferro Lamellor)
@@ -14,7 +14,7 @@
 
 ## Carrion Crow B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 133 (Ferro Lamellor)
@@ -30,7 +30,7 @@
 
 ## Carrion Crow C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
 - **Armor:** 133 (Ferro Lamellor)
@@ -44,7 +44,7 @@
 
 ## Carrion Crow D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 133 (Ferro Lamellor)

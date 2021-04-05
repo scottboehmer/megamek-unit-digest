@@ -1,7 +1,7 @@
 # Uller (Kit Fox)
 ## Uller (Kit Fox) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Uller (Kit Fox) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -27,7 +27,7 @@
 
 ## Uller (Kit Fox) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -39,24 +39,22 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 1028
 
-## Uller (Kit Fox) BLO
+## Uller (Kit Fox) D
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
-  - ER Small Laser
-  - Ultra AC/10 (ammo: 20)
-- **Equipment:**
-  - Inner Sphere C3i
-- **Battle Value:** unknown
+  - LRM 15 × 2 (ammo: 32)
+  - LRM 5 (ammo: 24)
+  - Narc (ammo: 6)
+- **Battle Value:** 1025
 
 ## Uller (Kit Fox) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3050)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -73,74 +71,9 @@
   - A-Pod × 2
 - **Battle Value:** 1050
 
-## Uller (Kit Fox) D
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 32)
-  - LRM 5 (ammo: 24)
-  - Narc (ammo: 6)
-- **Battle Value:** 1025
-
-## Uller (Kit Fox) E
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ATM 3 (ammo: 20 Standard, 20 ER, 20 HE)
-  - ER PPC
-  - ER Small Laser
-- **Battle Value:** 1356
-
-## Uller (Kit Fox) F
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - HAG 20 (ammo: 12)
-- **Battle Value:** 1211
-
-## Uller (Kit Fox) G
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER Large Laser
-  - ER Medium Laser
-  - LRM 10 × 2 (ammo: 24)
-- **Equipment:**
-  - ECM Suite
-- **Battle Value:** 1329
-
-## Uller (Kit Fox) H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Heavy Medium Laser × 2
-  - Gauss Rifle (ammo: 16)
-- **Battle Value:** 1206
-
 ## Uller (Kit Fox) S
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3050)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -155,7 +88,7 @@
 
 ## Uller (Kit Fox) W
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3051)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -164,4 +97,71 @@
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
 - **Battle Value:** 1431
+
+## Uller (Kit Fox) E
+- **Role:** Undefined
+- **Tech Base:** Clan (3054)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ATM 3 (ammo: 20 Standard, 20 ER, 20 HE)
+  - ER PPC
+  - ER Small Laser
+- **Battle Value:** 1356
+
+## Uller (Kit Fox) G
+- **Role:** Undefined
+- **Tech Base:** Clan (3054)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Large Laser
+  - ER Medium Laser
+  - LRM 10 × 2 (ammo: 24)
+- **Equipment:**
+  - ECM Suite
+- **Battle Value:** 1329
+
+## Uller (Kit Fox) H
+- **Role:** Undefined
+- **Tech Base:** Clan (3059)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Heavy Medium Laser × 2
+  - Gauss Rifle (ammo: 16)
+- **Battle Value:** 1206
+
+## Uller (Kit Fox) F
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - HAG 20 (ammo: 12)
+- **Battle Value:** 1211
+
+## Uller (Kit Fox) BLO
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3138)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - ER Small Laser
+  - Ultra AC/10 (ammo: 20)
+- **Equipment:**
+  - Inner Sphere C3i
+- **Battle Value:** unknown
 

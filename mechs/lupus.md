@@ -1,7 +1,7 @@
 # Lupus
 ## Lupus Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 172 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Lupus A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 172 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Lupus B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 172 (Ferro Fibrous)
@@ -42,7 +42,7 @@
 
 ## Lupus C
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0
 - **Armor:** 172 (Ferro Fibrous)

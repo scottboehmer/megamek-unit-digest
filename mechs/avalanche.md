@@ -1,7 +1,7 @@
 # Avalanche
 ## Avalanche AVL-1O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 160
@@ -15,7 +15,7 @@
 
 ## Avalanche AVL-1OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 160
@@ -30,7 +30,7 @@
 
 ## Avalanche AVL-1OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 160
@@ -45,7 +45,7 @@
 
 ## Avalanche AVL-1OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 160
@@ -60,7 +60,7 @@
 
 ## Avalanche AVL-1ON
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 160
@@ -75,7 +75,7 @@
 
 ## Avalanche AVL-1OR
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 160

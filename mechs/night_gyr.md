@@ -1,7 +1,7 @@
 # Night Gyr
 ## Night Gyr Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Night Gyr A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Night Gyr B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -40,7 +40,7 @@
 
 ## Night Gyr C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -55,7 +55,7 @@
 
 ## Night Gyr D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -68,7 +68,7 @@
 
 ## Night Gyr E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -80,25 +80,9 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 2663
 
-## Night Gyr F
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
-- **Armor:** 220 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - HAG 20 (ammo: 18)
-  - HAG 30 (ammo: 16)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - Targeting Computer
-  - ECM Suite
-- **Battle Value:** 2942
-
 ## Night Gyr H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -111,4 +95,20 @@
 - **Equipment:**
   - ECM Suite
 - **Battle Value:** 2385
+
+## Night Gyr F
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 220 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - HAG 20 (ammo: 18)
+  - HAG 30 (ammo: 16)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Targeting Computer
+  - ECM Suite
+- **Battle Value:** 2942
 

@@ -1,24 +1,7 @@
 # Malak
-## Malak C-MK-O (Mi)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, Light
-- **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium VSP Laser × 2
-  - ER Small Laser
-- **Equipment:**
-  - C3i
-  - Supercharger
-- **Battle Value:** unknown
-
 ## Malak C-MK-O Invictus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
@@ -38,7 +21,7 @@
 
 ## Malak C-MK-OA Dominus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
@@ -58,7 +41,7 @@
 
 ## Malak C-MK-OB Infernus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
@@ -75,7 +58,7 @@
 
 ## Malak C-MK-OC Comminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
@@ -96,7 +79,7 @@
 
 ## Malak C-MK-OD Luminos
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
@@ -111,9 +94,26 @@
   - C3i
 - **Battle Value:** unknown
 
+## Malak C-MK-O (Mi)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 0, Light
+- **Armor:** 101 (Light Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium VSP Laser × 2
+  - ER Small Laser
+- **Equipment:**
+  - C3i
+  - Supercharger
+- **Battle Value:** unknown
+
 ## Malak C-MK-OE Eminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
@@ -131,7 +131,7 @@
 
 ## Malak C-MK-OS Caelestis
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)

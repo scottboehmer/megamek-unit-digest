@@ -1,7 +1,7 @@
 # Black Hawk-KU
 ## Black Hawk-KU BHKU-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -12,23 +12,9 @@
   - Small Laser × 2
 - **Battle Value:** 1731
 
-## Black Hawk-KU BHKU-O (Albert)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 200
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Clan ER Medium Laser × 4
-  - Clan ER PPC
-- **Equipment:**
-  - C3 Master
-- **Battle Value:** 2377
-
 ## Black Hawk-KU BHKU-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -40,7 +26,7 @@
 
 ## Black Hawk-KU BHKU-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -52,7 +38,7 @@
 
 ## Black Hawk-KU BHKU-OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -64,7 +50,7 @@
 
 ## Black Hawk-KU BHKU-OD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -74,9 +60,37 @@
   - ER Large Laser
 - **Battle Value:** 1539
 
+## Black Hawk-KU BHKU-OX
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3058)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 200
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Medium Laser × 14
+- **Equipment:**
+  - Coolant Pod × 2
+  - C3 Slave
+- **Battle Value:** 1941
+
+## Black Hawk-KU BHKU-OR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3059)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 200
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Clan Streak SRM 6 × 2 (ammo: 30)
+  - Clan ER Large Laser × 2
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 2193
+
 ## Black Hawk-KU BHKU-OE
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -87,7 +101,7 @@
 
 ## Black Hawk-KU BHKU-OF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -99,9 +113,23 @@
   - C3 Slave
 - **Battle Value:** 1759
 
+## Black Hawk-KU BHKU-O (Albert)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3070)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 200
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Clan ER Medium Laser × 4
+  - Clan ER PPC
+- **Equipment:**
+  - C3 Master
+- **Battle Value:** 2377
+
 ## Black Hawk-KU BHKU-OG
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3089)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 200
@@ -114,32 +142,4 @@
   - Bloodhound Active Probe
   - TAG
 - **Battle Value:** 1719
-
-## Black Hawk-KU BHKU-OR
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 200
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Clan Streak SRM 6 × 2 (ammo: 30)
-  - Clan ER Large Laser × 2
-- **Equipment:**
-  - C3 Slave
-- **Battle Value:** 2193
-
-## Black Hawk-KU BHKU-OX
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 200
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Medium Laser × 14
-- **Equipment:**
-  - Coolant Pod × 2
-  - C3 Slave
-- **Battle Value:** 1941
 

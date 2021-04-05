@@ -1,7 +1,7 @@
 # Vandal
 ## Vandal LI-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 200
@@ -20,7 +20,7 @@
 
 ## Vandal LI-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 4, XL
 - **Armor:** 200

@@ -1,47 +1,7 @@
 # Seraph
-## Seraph C-SRP-OR (Ravana)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (3074)
-- **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
-- **Armor:** 256
-- **Myomer:** Triple-Strength
-- **Cockpit:** Small
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Retractable Blade
-  - Large VSP Laser
-  - Thunderbolt 20 (ammo: 12)
-  - Laser Anti-Missile System
-  - Snub-Nose PPC
-- **Equipment:**
-  - C3i
-  - CASE
-- **Battle Value:** unknown
-
-## Seraph C-SRP-O (Havalah)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
-- **Armor:** 256
-- **Myomer:** Triple-Strength
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large VSP Laser
-  - Ultra AC/20 (ammo: 30)
-  - Anti-Missile System (ammo: 12)
-  - Medium VSP Laser
-- **Equipment:**
-  - C3i
-  - Targeting Computer
-  - CASE
-- **Battle Value:** unknown
-
 ## Seraph C-SRP-O Invictus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
 - **Armor:** 256
@@ -61,7 +21,7 @@
 
 ## Seraph C-SRP-OA Dominus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 5, Light
 - **Armor:** 256
@@ -82,7 +42,7 @@
 
 ## Seraph C-SRP-OB Infernus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
 - **Armor:** 256
@@ -102,7 +62,7 @@
 
 ## Seraph C-SRP-OC Comminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
 - **Armor:** 256
@@ -123,7 +83,7 @@
 
 ## Seraph C-SRP-OD Luminos
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 5, Light
 - **Armor:** 256
@@ -140,9 +100,29 @@
   - C3i
 - **Battle Value:** unknown
 
+## Seraph C-SRP-O (Havalah)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 85 tons
+- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Armor:** 256
+- **Myomer:** Triple-Strength
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large VSP Laser
+  - Ultra AC/20 (ammo: 30)
+  - Anti-Missile System (ammo: 12)
+  - Medium VSP Laser
+- **Equipment:**
+  - C3i
+  - Targeting Computer
+  - CASE
+- **Battle Value:** unknown
+
 ## Seraph C-SRP-OE Eminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
 - **Armor:** 256
@@ -157,9 +137,29 @@
   - CASE
 - **Battle Value:** unknown
 
+## Seraph C-SRP-OR (Ravana)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3074)
+- **Chassis:** 85 tons
+- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Armor:** 256
+- **Myomer:** Triple-Strength
+- **Cockpit:** Small
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Retractable Blade
+  - Large VSP Laser
+  - Thunderbolt 20 (ammo: 12)
+  - Laser Anti-Missile System
+  - Snub-Nose PPC
+- **Equipment:**
+  - C3i
+  - CASE
+- **Battle Value:** unknown
+
 ## Seraph C-SRP-OS Caelestis
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 3, Light
 - **Armor:** 256

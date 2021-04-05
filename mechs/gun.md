@@ -1,7 +1,7 @@
 # Gun
 ## Gun GN-2O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 56
@@ -15,7 +15,7 @@
 
 ## Gun GN-2OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 56
@@ -28,7 +28,7 @@
 
 ## Gun GN-2OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 56

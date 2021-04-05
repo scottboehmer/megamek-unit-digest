@@ -1,7 +1,7 @@
 # Battle Cobra
 ## Battle Cobra Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2873)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 124 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Battle Cobra A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2873)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 124 (Ferro Fibrous)
@@ -25,7 +25,7 @@
 
 ## Battle Cobra B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2873)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 124 (Ferro Fibrous)
@@ -35,9 +35,46 @@
   - Small Pulse Laser × 2
 - **Battle Value:** 1892
 
+## Battle Cobra F
+- **Role:** Undefined
+- **Tech Base:** Clan (3057)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6
+- **Armor:** 124 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - Ultra AC/5 (ammo: 20)
+- **Battle Value:** 1487
+
+## Battle Cobra H
+- **Role:** Undefined
+- **Tech Base:** Clan (3061)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0
+- **Armor:** 124 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Large Laser × 2
+  - Heavy Medium Laser × 2
+- **Battle Value:** 1592
+
+## Battle Cobra C
+- **Role:** Undefined
+- **Tech Base:** Clan (3062)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0
+- **Armor:** 124 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ATM 9 (ammo: 14)
+  - Medium Pulse Laser × 3
+  - Small Pulse Laser
+- **Battle Value:** 1445
+
 ## Battle Cobra BTL-C-2O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -50,7 +87,7 @@
 
 ## Battle Cobra BTL-C-2OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -68,7 +105,7 @@
 
 ## Battle Cobra BTL-C-2OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -81,7 +118,7 @@
 
 ## Battle Cobra BTL-C-2OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -94,7 +131,7 @@
 
 ## Battle Cobra BTL-C-2OD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -108,7 +145,7 @@
 
 ## Battle Cobra BTL-C-2OE
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -121,7 +158,7 @@
 
 ## Battle Cobra BTL-C-2OF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -132,46 +169,9 @@
   - C3i
 - **Battle Value:** unknown
 
-## Battle Cobra C
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0
-- **Armor:** 124 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ATM 9 (ammo: 14)
-  - Medium Pulse Laser × 3
-  - Small Pulse Laser
-- **Battle Value:** 1445
-
-## Battle Cobra F
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
-- **Armor:** 124 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - Ultra AC/5 (ammo: 20)
-- **Battle Value:** 1487
-
-## Battle Cobra H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0
-- **Armor:** 124 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Heavy Medium Laser × 2
-- **Battle Value:** 1592
-
 ## Battle Cobra X
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 124 (Ferro Fibrous)

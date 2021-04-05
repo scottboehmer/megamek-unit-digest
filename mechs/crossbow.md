@@ -39,6 +39,69 @@
   - PPC
 - **Battle Value:** 1204
 
+## Crossbow Prime
+- **Role:** Undefined
+- **Tech Base:** Clan (2870)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+- **Battle Value:** 1751
+
+## Crossbow A
+- **Role:** Undefined
+- **Tech Base:** Clan (2870)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak SRM 6 × 2 (ammo: 30)
+  - Medium Pulse Laser × 2
+  - LRM 5 × 2 (ammo: 48)
+- **Battle Value:** 1719
+
+## Crossbow B
+- **Role:** Undefined
+- **Tech Base:** Clan (2870)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak SRM 6 × 4 (ammo: 60)
+- **Battle Value:** 1609
+
+## Crossbow H
+- **Role:** Undefined
+- **Tech Base:** Clan (3061)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 192
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - LRM 15 (ammo: 16)
+  - Heavy Large Laser
+  - Heavy Medium Laser
+  - Light Machine Gun × 4 (ammo: 100)
+- **Battle Value:** 1648
+
+## Crossbow C
+- **Role:** Undefined
+- **Tech Base:** Clan (3063)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ATM 6 × 2 (ammo: 20)
+  - Heavy Machine Gun × 2 (ammo: 100)
+- **Equipment:**
+  - ECM Suite
+- **Battle Value:** 1278
+
 ## Crossbow CRS-9A
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3071)
@@ -52,58 +115,9 @@
   - ER Large Laser
 - **Battle Value:** 1583
 
-## Crossbow Prime
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-- **Battle Value:** 1751
-
-## Crossbow A
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Streak SRM 6 × 2 (ammo: 30)
-  - Medium Pulse Laser × 2
-  - LRM 5 × 2 (ammo: 48)
-- **Battle Value:** 1719
-
-## Crossbow B
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Streak SRM 6 × 4 (ammo: 60)
-- **Battle Value:** 1609
-
-## Crossbow C
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ATM 6 × 2 (ammo: 20)
-  - Heavy Machine Gun × 2 (ammo: 100)
-- **Equipment:**
-  - ECM Suite
-- **Battle Value:** 1278
-
 ## Crossbow E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 192
@@ -113,18 +127,4 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 1537
-
-## Crossbow H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 192
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - LRM 15 (ammo: 16)
-  - Heavy Large Laser
-  - Heavy Medium Laser
-  - Light Machine Gun × 4 (ammo: 100)
-- **Battle Value:** 1648
 

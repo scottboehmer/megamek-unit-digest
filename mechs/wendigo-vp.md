@@ -1,7 +1,7 @@
 # Wendigo-VP
 ## Wendigo-VP (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3134)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
 - **Armor:** 152 (Laser Reflective)
@@ -16,7 +16,7 @@
 
 ## Wendigo-VP A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3134)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, XL
 - **Armor:** 152 (Laser Reflective)

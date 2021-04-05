@@ -1,25 +1,7 @@
 # Archangel
-## Archangel C-ANG-O (Berith)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
-- **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
-- **Cockpit:** Small
-- **Heat Sinks:** 19 (38)
-- **Weapons:**
-  - Light PPC w/ PPC Capacitor × 2
-  - Heavy PPC w/ PPC Capacitor
-  - Medium VSP Laser
-  - Snub-Nose PPC
-- **Equipment:**
-  - C3i
-- **Battle Value:** unknown
-
 ## Archangel C-ANG-O Invictus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 307
@@ -38,7 +20,7 @@
 
 ## Archangel C-ANG-OA Dominus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
@@ -55,7 +37,7 @@
 
 ## Archangel C-ANG-OB Infernus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
@@ -72,7 +54,7 @@
 
 ## Archangel C-ANG-OC Comminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
@@ -91,7 +73,7 @@
 
 ## Archangel C-ANG-OD Luminos
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 307
@@ -108,9 +90,27 @@
   - Guardian ECM Suite
 - **Battle Value:** unknown
 
+## Archangel C-ANG-O (Berith)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3072)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0, Compact
+- **Armor:** 307
+- **Gyroscope:** Compact Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - Light PPC w/ PPC Capacitor × 2
+  - Heavy PPC w/ PPC Capacitor
+  - Medium VSP Laser
+  - Snub-Nose PPC
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
+
 ## Archangel C-ANG-OE Eminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307

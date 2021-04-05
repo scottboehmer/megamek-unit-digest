@@ -1,7 +1,7 @@
 # Coyotl
 ## Coyotl Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2854)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 136
@@ -15,7 +15,7 @@
 
 ## Coyotl A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2854)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 136
@@ -28,7 +28,7 @@
 
 ## Coyotl B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2854)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 136
@@ -41,7 +41,7 @@
 
 ## Coyotl C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 136
@@ -56,7 +56,7 @@
 
 ## Coyotl D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3149)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 136

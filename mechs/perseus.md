@@ -1,7 +1,7 @@
 # Perseus
 ## Perseus P1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
@@ -19,7 +19,7 @@
 
 ## Perseus P1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
@@ -36,7 +36,7 @@
 
 ## Perseus P1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
@@ -50,7 +50,7 @@
 
 ## Perseus P1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
@@ -65,7 +65,7 @@
 
 ## Perseus P1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
@@ -81,9 +81,24 @@
   - Beagle Active Probe
 - **Battle Value:** 1714
 
+## Perseus P1W
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 224
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
+  - ER Medium Laser × 3
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
+
 ## Perseus P1P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
@@ -100,19 +115,4 @@
   - CASE
   - TAG
 - **Battle Value:** 1777
-
-## Perseus P1W
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 224
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
-  - ER Medium Laser × 3
-- **Equipment:**
-  - C3i
-- **Battle Value:** unknown
 

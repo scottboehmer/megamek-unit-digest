@@ -1,7 +1,7 @@
 # Savage Coyote
 ## Savage Coyote Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 240
@@ -16,7 +16,7 @@
 
 ## Savage Coyote A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 240
@@ -31,7 +31,7 @@
 
 ## Savage Coyote B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 240
@@ -46,7 +46,7 @@
 
 ## Savage Coyote C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3064)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 240
@@ -62,7 +62,7 @@
 
 ## Savage Coyote J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3073)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, XL
 - **Armor:** 240
@@ -76,7 +76,7 @@
 
 ## Savage Coyote W
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3073)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, XL
 - **Armor:** 240

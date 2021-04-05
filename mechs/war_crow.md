@@ -1,7 +1,7 @@
 # War Crow
 ## War Crow Prime
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3145)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 217 (Ferro Lamellor)
@@ -15,7 +15,7 @@
 
 ## War Crow A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 217 (Ferro Lamellor)
@@ -31,7 +31,7 @@
 
 ## War Crow B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 217 (Ferro Lamellor)
@@ -45,7 +45,7 @@
 
 ## War Crow C
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3145)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 217 (Ferro Lamellor)

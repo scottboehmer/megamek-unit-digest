@@ -27,7 +27,7 @@
 
 ## Arctic Wolf Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3067)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -38,7 +38,7 @@
 
 ## Arctic Wolf A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3067)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -53,7 +53,7 @@
 
 ## Arctic Wolf J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 4, XL
 - **Armor:** 134 (Ferro Fibrous)

@@ -221,24 +221,9 @@
   - Clan CASE II
 - **Battle Value:** 1815
 
-## Centurion CN10-D
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (3121)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
-- **Armor:** 185 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - LRM 10 w/ Artemis IV (ammo: 24)
-  - Light PPC
-  - ER Medium Laser
-- **Battle Value:** 1188
-
 ## Centurion CN11-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
@@ -254,7 +239,7 @@
 
 ## Centurion CN11-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
@@ -270,7 +255,7 @@
 
 ## Centurion CN11-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
@@ -287,7 +272,7 @@
 
 ## Centurion CN11-OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 152
@@ -305,7 +290,7 @@
 
 ## Centurion CN11-OE
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
@@ -318,4 +303,19 @@
   - Angel ECM Suite
   - C3 Boosted Slave
 - **Battle Value:** 1515
+
+## Centurion CN10-D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3121)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 185 (Light Ferro Fibrous)
+- **Gyroscope:** Compact Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - LRM 10 w/ Artemis IV (ammo: 24)
+  - Light PPC
+  - ER Medium Laser
+- **Battle Value:** 1188
 

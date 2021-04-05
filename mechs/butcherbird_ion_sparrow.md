@@ -1,7 +1,7 @@
 # Butcherbird (Ion Sparrow)
 ## Butcherbird (Ion Sparrow) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 57 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Butcherbird (Ion Sparrow) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 57 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Butcherbird (Ion Sparrow) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 57 (Ferro Fibrous)
@@ -45,7 +45,7 @@
 
 ## Butcherbird (Ion Sparrow) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 57 (Ferro Fibrous)
@@ -59,7 +59,7 @@
 
 ## Butcherbird (Ion Sparrow) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 57 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Loki (Hellbringer)
 ## Loki (Hellbringer) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (2926)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128
@@ -21,7 +21,7 @@
 
 ## Loki (Hellbringer) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128
@@ -39,7 +39,7 @@
 
 ## Loki (Hellbringer) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128
@@ -51,9 +51,23 @@
   - SRM 6 w/ Artemis IV × 2 (ammo: 30)
 - **Battle Value:** 1526
 
+## Loki (Hellbringer) M
+- **Role:** Undefined
+- **Tech Base:** Clan (3052)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 128
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Large Laser × 2
+  - Gauss Rifle (ammo: 16)
+  - Streak SRM 6 (ammo: 15)
+  - SRM 6 (ammo: 15)
+- **Battle Value:** 2153
+
 ## Loki (Hellbringer) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128
@@ -66,37 +80,9 @@
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
 - **Battle Value:** 1888
 
-## Loki (Hellbringer) D
-- **Role:** Undefined
-- **Tech Base:** Clan Mixed
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 128
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Plasma Cannon × 4 (ammo: 40)
-  - Medium Pulse Laser × 4
-  - Micro Pulse Laser
-- **Equipment:**
-  - Inner Sphere B-Pod × 4
-- **Battle Value:** 2140
-
-## Loki (Hellbringer) E
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 128
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - HAG 20 (ammo: 12)
-  - ER Large Laser × 2
-  - LRM 10 (ammo: 12)
-- **Battle Value:** 2277
-
 ## Loki (Hellbringer) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128
@@ -107,9 +93,26 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 1781
 
+## Loki (Hellbringer) J
+- **Role:** Undefined
+- **Tech Base:** Clan (3058)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 128
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER PPC
+  - Ultra AC/5 (ammo: 20)
+  - ER Medium Laser × 4
+  - Streak SRM 4 (ammo: 25)
+  - Anti-Missile System (ammo: 24)
+- **Equipment:**
+  - Active Probe
+- **Battle Value:** 2376
+
 ## Loki (Hellbringer) H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128
@@ -125,40 +128,37 @@
   - A-Pod × 2
 - **Battle Value:** 1874
 
-## Loki (Hellbringer) J
+## Loki (Hellbringer) D
 - **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 128
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - Ultra AC/5 (ammo: 20)
-  - ER Medium Laser × 4
-  - Streak SRM 4 (ammo: 25)
-  - Anti-Missile System (ammo: 24)
-- **Equipment:**
-  - Active Probe
-- **Battle Value:** 2376
-
-## Loki (Hellbringer) M
-- **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan Mixed (3069)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - Plasma Cannon × 4 (ammo: 40)
+  - Medium Pulse Laser × 4
+  - Micro Pulse Laser
+- **Equipment:**
+  - Inner Sphere B-Pod × 4
+- **Battle Value:** 2140
+
+## Loki (Hellbringer) E
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 128
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - HAG 20 (ammo: 12)
   - ER Large Laser × 2
-  - Gauss Rifle (ammo: 16)
-  - Streak SRM 6 (ammo: 15)
-  - SRM 6 (ammo: 15)
-- **Battle Value:** 2153
+  - LRM 10 (ammo: 12)
+- **Battle Value:** 2277
 
 ## Loki (Hellbringer) T
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 128

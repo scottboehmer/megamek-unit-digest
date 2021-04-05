@@ -1,7 +1,7 @@
 # Puma (Adder)
 ## Puma (Adder) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -13,22 +13,9 @@
   - Targeting Computer
 - **Battle Value:** 2083
 
-## Puma (Adder) A
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 115 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Flamer
-  - LRM 20 × 2 (ammo: 24)
-  - Small Pulse Laser × 2
-- **Battle Value:** 1359
-
 ## Puma (Adder) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -40,23 +27,9 @@
   - ER Medium Laser × 2
 - **Battle Value:** 1402
 
-## Puma (Adder) C
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 115 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Flamer
-  - LRM 15 × 2 (ammo: 32)
-  - Medium Pulse Laser
-  - Narc (ammo: 6)
-- **Battle Value:** 1275
-
 ## Puma (Adder) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -68,78 +41,36 @@
   - Streak SRM 2 × 2 (ammo: 100)
 - **Battle Value:** 1197
 
-## Puma (Adder) E
+## Puma (Adder) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3012)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Flamer
-  - ATM 9 × 2 (ammo: 14)
-  - Micro Pulse Laser × 4
-- **Battle Value:** 1086
+  - LRM 20 × 2 (ammo: 24)
+  - Small Pulse Laser × 2
+- **Battle Value:** 1359
 
-## Puma (Adder) H
+## Puma (Adder) C
 - **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 115 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Flamer
-  - Heavy Large Laser × 2
-- **Equipment:**
-  - Targeting Computer
-- **Battle Value:** 1453
-
-## Puma (Adder) J
-- **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3012)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Flamer
-  - AP Gauss Rifle × 4 (ammo: 40)
-  - HAG 20 (ammo: 18)
-- **Battle Value:** 1209
-
-## Puma (Adder) L
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
-- **Armor:** 115 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Streak LRM 5 × 4 (ammo: 48)
-  - ER Medium Laser × 2
-  - Flamer
-- **Equipment:**
-  - ECM Suite
-- **Battle Value:** unknown
-
-## Puma (Adder) T
-- **Role:** Undefined
-- **Tech Base:** Clan Mixed
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 115 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER PPC w/ PPC Capacitor × 2
-  - Flamer
-- **Equipment:**
-  - Inner Sphere Coolant Pod
-- **Battle Value:** 1765
+  - LRM 15 × 2 (ammo: 32)
+  - Medium Pulse Laser
+  - Narc (ammo: 6)
+- **Battle Value:** 1275
 
 ## Puma (Adder) TC
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -154,4 +85,73 @@
   - Active Probe
   - Targeting Computer
 - **Battle Value:** 1189
+
+## Puma (Adder) H
+- **Role:** Undefined
+- **Tech Base:** Clan (3059)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Flamer
+  - Heavy Large Laser × 2
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 1453
+
+## Puma (Adder) E
+- **Role:** Undefined
+- **Tech Base:** Clan (3060)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Flamer
+  - ATM 9 × 2 (ammo: 14)
+  - Micro Pulse Laser × 4
+- **Battle Value:** 1086
+
+## Puma (Adder) J
+- **Role:** Undefined
+- **Tech Base:** Clan (3070)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Flamer
+  - AP Gauss Rifle × 4 (ammo: 40)
+  - HAG 20 (ammo: 18)
+- **Battle Value:** 1209
+
+## Puma (Adder) T
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3142)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER PPC w/ PPC Capacitor × 2
+  - Flamer
+- **Equipment:**
+  - Inner Sphere Coolant Pod
+- **Battle Value:** 1765
+
+## Puma (Adder) L
+- **Role:** Undefined
+- **Tech Base:** Clan (3147)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak LRM 5 × 4 (ammo: 48)
+  - ER Medium Laser × 2
+  - Flamer
+- **Equipment:**
+  - ECM Suite
+- **Battle Value:** unknown
 

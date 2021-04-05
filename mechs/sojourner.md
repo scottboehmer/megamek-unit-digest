@@ -1,7 +1,7 @@
 # Sojourner
 ## Sojourner Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 3
 - **Armor:** 201 (Ferro Fibrous)

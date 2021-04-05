@@ -1,7 +1,7 @@
 # Doloire
 ## Doloire DLR-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 232
@@ -17,7 +17,7 @@
 
 ## Doloire DLR-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 232

@@ -1,7 +1,7 @@
 # Dasher (Fire Moth)
 ## Dasher (Fire Moth) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -14,24 +14,9 @@
   - MASC
 - **Battle Value:** 1206
 
-## Dasher (Fire Moth) (Aletha)
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
-- **Armor:** 38 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Small Laser × 3
-  - ER Large Laser
-- **Equipment:**
-  - MASC
-  - ECM Suite
-- **Battle Value:** 1388
-
 ## Dasher (Fire Moth) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -47,7 +32,7 @@
 
 ## Dasher (Fire Moth) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -63,7 +48,7 @@
 
 ## Dasher (Fire Moth) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -77,7 +62,7 @@
 
 ## Dasher (Fire Moth) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -92,7 +77,7 @@
 
 ## Dasher (Fire Moth) E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3055)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -103,9 +88,38 @@
   - MASC
 - **Battle Value:** 599
 
+## Dasher (Fire Moth) H
+- **Role:** Undefined
+- **Tech Base:** Clan (3060)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15 (20) / 0, XL
+- **Armor:** 38 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Heavy Small Laser × 9
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+- **Battle Value:** 779
+
+## Dasher (Fire Moth) (Aletha)
+- **Role:** Undefined
+- **Tech Base:** Clan (3068)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15 (20) / 0, XL
+- **Armor:** 38 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Small Laser × 3
+  - ER Large Laser
+- **Equipment:**
+  - MASC
+  - ECM Suite
+- **Battle Value:** 1388
+
 ## Dasher (Fire Moth) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3070)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -118,9 +132,25 @@
   - Active Probe
 - **Battle Value:** 1457
 
+## Dasher (Fire Moth) K
+- **Role:** Undefined
+- **Tech Base:** Clan (3071)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15 (20) / 0, XL
+- **Armor:** 38 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Heavy Medium Laser × 2
+  - Light Machine Gun × 6 (ammo: 100)
+- **Equipment:**
+  - MASC
+  - MG Array × 2
+  - B-Pod × 2
+- **Battle Value:** 801
+
 ## Dasher (Fire Moth) G
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3098)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (25) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -134,23 +164,37 @@
   - Coolant Pod
 - **Battle Value:** 2040
 
-## Dasher (Fire Moth) H
+## Dasher (Fire Moth) M
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3110)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
+- **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Heavy Small Laser × 9
+  - ER Small Laser × 4
+  - LRM 15 (ammo: 8)
 - **Equipment:**
   - MASC
-  - Targeting Computer
-- **Battle Value:** 779
+- **Battle Value:** 1178
+
+## Dasher (Fire Moth) P
+- **Role:** Undefined
+- **Tech Base:** Clan (3132)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15 (25) / 0, XL
+- **Armor:** 38 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Micro Pulse Laser × 12
+- **Equipment:**
+  - Supercharger
+  - MASC
+- **Battle Value:** 841
 
 ## Dasher (Fire Moth) I
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3139)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -165,7 +209,7 @@
 
 ## Dasher (Fire Moth) J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3145)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 38 (Ferro Fibrous)
@@ -177,48 +221,4 @@
 - **Equipment:**
   - MASC
 - **Battle Value:** 1140
-
-## Dasher (Fire Moth) K
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
-- **Armor:** 38 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Heavy Medium Laser × 2
-  - Light Machine Gun × 6 (ammo: 100)
-- **Equipment:**
-  - MASC
-  - MG Array × 2
-  - B-Pod × 2
-- **Battle Value:** 801
-
-## Dasher (Fire Moth) M
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
-- **Armor:** 38 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Small Laser × 4
-  - LRM 15 (ammo: 8)
-- **Equipment:**
-  - MASC
-- **Battle Value:** 1178
-
-## Dasher (Fire Moth) P
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (25) / 0, XL
-- **Armor:** 38 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Micro Pulse Laser × 12
-- **Equipment:**
-  - Supercharger
-  - MASC
-- **Battle Value:** 841
 

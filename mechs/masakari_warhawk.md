@@ -1,7 +1,7 @@
 # Masakari (Warhawk)
 ## Masakari (Warhawk) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Masakari (Warhawk) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Masakari (Warhawk) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -48,7 +48,7 @@
 
 ## Masakari (Warhawk) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -63,7 +63,7 @@
 
 ## Masakari (Warhawk) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -77,25 +77,9 @@
   - Targeting Computer
 - **Battle Value:** 2304
 
-## Masakari (Warhawk) E
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 259 (Ferro Fibrous)
-- **Heat Sinks:** 20 (40)
-- **Weapons:**
-  - Plasma Cannon × 3 (ammo: 40)
-  - SRM 6 (ammo: 15)
-  - ER PPC
-  - Large Pulse Laser
-- **Equipment:**
-  - Targeting Computer
-- **Battle Value:** 2877
-
 ## Masakari (Warhawk) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -111,7 +95,7 @@
 
 ## Masakari (Warhawk) H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -123,4 +107,20 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 2583
+
+## Masakari (Warhawk) E
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 85 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 259 (Ferro Fibrous)
+- **Heat Sinks:** 20 (40)
+- **Weapons:**
+  - Plasma Cannon × 3 (ammo: 40)
+  - SRM 6 (ammo: 15)
+  - ER PPC
+  - Large Pulse Laser
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2877
 

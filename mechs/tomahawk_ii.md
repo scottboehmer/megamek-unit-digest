@@ -1,7 +1,7 @@
 # Tomahawk II
 ## Tomahawk II (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304
@@ -16,7 +16,7 @@
 
 ## Tomahawk II A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304
@@ -33,7 +33,7 @@
 
 ## Tomahawk II B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 304
@@ -48,7 +48,7 @@
 
 ## Tomahawk II C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304

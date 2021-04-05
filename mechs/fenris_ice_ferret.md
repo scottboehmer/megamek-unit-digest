@@ -1,7 +1,7 @@
 # Fenris (Ice Ferret)
 ## Fenris (Ice Ferret) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Fenris (Ice Ferret) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -29,7 +29,7 @@
 
 ## Fenris (Ice Ferret) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -43,7 +43,7 @@
 
 ## Fenris (Ice Ferret) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -55,7 +55,7 @@
 
 ## Fenris (Ice Ferret) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -67,7 +67,7 @@
 
 ## Fenris (Ice Ferret) E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3056)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -78,9 +78,36 @@
   - ER Small Laser
 - **Battle Value:** 1284
 
+## Fenris (Ice Ferret) H
+- **Role:** Undefined
+- **Tech Base:** Clan (3061)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Large Laser
+  - SRM 6 (ammo: 15)
+  - Heavy Medium Laser × 2
+- **Battle Value:** 1598
+
+## Fenris (Ice Ferret) L
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - AP Gauss Rifle × 3 (ammo: 80)
+  - Plasma Cannon (ammo: 20)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 1376
+
 ## Fenris (Ice Ferret) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3084)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -93,7 +120,7 @@
 
 ## Fenris (Ice Ferret) G
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3088)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -106,22 +133,9 @@
   - Light TAG
 - **Battle Value:** 1169
 
-## Fenris (Ice Ferret) H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
-- **Armor:** 144 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER Large Laser
-  - SRM 6 (ammo: 15)
-  - Heavy Medium Laser × 2
-- **Battle Value:** 1598
-
 ## Fenris (Ice Ferret) J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3120)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -136,7 +150,7 @@
 
 ## Fenris (Ice Ferret) K
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3135)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -148,23 +162,9 @@
   - Laser Anti-Missile System
 - **Battle Value:** 1769
 
-## Fenris (Ice Ferret) L
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
-- **Armor:** 144 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - AP Gauss Rifle × 3 (ammo: 80)
-  - Plasma Cannon (ammo: 20)
-- **Equipment:**
-  - Targeting Computer
-- **Battle Value:** 1376
-
 ## Fenris (Ice Ferret) T
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 144 (Ferro Fibrous)

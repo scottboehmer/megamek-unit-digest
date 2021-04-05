@@ -1,7 +1,7 @@
 # Inferno
 ## Inferno INF-NOA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216
@@ -17,7 +17,7 @@
 
 ## Inferno INF-NOB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216
@@ -33,7 +33,7 @@
 
 ## Inferno INF-NOC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216
@@ -49,7 +49,7 @@
 
 ## Inferno INF-NOR
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216

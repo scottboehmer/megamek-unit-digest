@@ -1,7 +1,7 @@
 # Nova Cat
 ## Nova Cat Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216
@@ -13,7 +13,7 @@
 
 ## Nova Cat A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 216
@@ -26,7 +26,7 @@
 
 ## Nova Cat B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216
@@ -38,7 +38,7 @@
 
 ## Nova Cat C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216
@@ -51,7 +51,7 @@
 
 ## Nova Cat D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216
@@ -65,7 +65,7 @@
 
 ## Nova Cat E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216
@@ -77,7 +77,7 @@
 
 ## Nova Cat F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
 - **Armor:** 216
@@ -92,7 +92,7 @@
 
 ## Nova Cat G
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216
@@ -108,7 +108,7 @@
 
 ## Nova Cat H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3099)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
 - **Armor:** 216
@@ -124,7 +124,7 @@
 
 ## Nova Cat I
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3132)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216

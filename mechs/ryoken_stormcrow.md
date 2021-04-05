@@ -1,7 +1,7 @@
 # Ryoken (Stormcrow)
 ## Ryoken (Stormcrow) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -11,22 +11,9 @@
   - ER Medium Laser × 3
 - **Battle Value:** 2073
 
-## Ryoken (Stormcrow) (Kotare)
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER Medium Laser × 5
-  - Streak SRM 6 × 2 (ammo: 30)
-  - LRM 20 (ammo: 12)
-- **Battle Value:** 2304
-
 ## Ryoken (Stormcrow) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -37,21 +24,9 @@
   - Streak SRM 6 × 2 (ammo: 30)
 - **Battle Value:** 2241
 
-## Ryoken (Stormcrow) Attwater
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 5-X AC × 2 (ammo: 20)
-  - LRM 5 w/ Artemis IV × 2 (ammo: 24)
-- **Battle Value:** 1462
-
 ## Ryoken (Stormcrow) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -63,7 +38,7 @@
 
 ## Ryoken (Stormcrow) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -76,7 +51,7 @@
 
 ## Ryoken (Stormcrow) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -87,9 +62,35 @@
   - Narc (ammo: 12)
 - **Battle Value:** 1668
 
+## Ryoken (Stormcrow) Attwater
+- **Role:** Undefined
+- **Tech Base:** Clan (3052)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 5-X AC × 2 (ammo: 20)
+  - LRM 5 w/ Artemis IV × 2 (ammo: 24)
+- **Battle Value:** 1462
+
+## Ryoken (Stormcrow) TC
+- **Role:** Undefined
+- **Tech Base:** Clan (3052)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - ER Medium Laser × 4
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2365
+
 ## Ryoken (Stormcrow) E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -102,35 +103,22 @@
   - Active Probe
 - **Battle Value:** 1777
 
-## Ryoken (Stormcrow) F
+## Ryoken (Stormcrow) (Kotare)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
+- **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Plasma Cannon × 2 (ammo: 60)
-  - AP Gauss Rifle × 4 (ammo: 80)
-  - ER Medium Laser × 4
-  - ER Small Laser × 2
-- **Battle Value:** 2222
-
-## Ryoken (Stormcrow) G
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - HAG 20 (ammo: 12)
   - ER Medium Laser × 5
-- **Battle Value:** 2145
+  - Streak SRM 6 × 2 (ammo: 30)
+  - LRM 20 (ammo: 12)
+- **Battle Value:** 2304
 
 ## Ryoken (Stormcrow) H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -142,7 +130,7 @@
 
 ## Ryoken (Stormcrow) I
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -155,9 +143,35 @@
   - Active Probe
 - **Battle Value:** 2280
 
+## Ryoken (Stormcrow) G
+- **Role:** Undefined
+- **Tech Base:** Clan (3068)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - HAG 20 (ammo: 12)
+  - ER Medium Laser × 5
+- **Battle Value:** 2145
+
+## Ryoken (Stormcrow) F
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Plasma Cannon × 2 (ammo: 60)
+  - AP Gauss Rifle × 4 (ammo: 80)
+  - ER Medium Laser × 4
+  - ER Small Laser × 2
+- **Battle Value:** 2222
+
 ## Ryoken (Stormcrow) J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -168,18 +182,4 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 2289
-
-## Ryoken (Stormcrow) TC
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - ER Medium Laser × 4
-- **Equipment:**
-  - Targeting Computer
-- **Battle Value:** 2365
 

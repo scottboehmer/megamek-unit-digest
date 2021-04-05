@@ -1,7 +1,7 @@
 # Vulture Mk III (Mad Dog Mk III)
 ## Vulture Mk III (Mad Dog Mk III) (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Vulture Mk III (Mad Dog Mk III) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -26,7 +26,7 @@
 
 ## Vulture Mk III (Mad Dog Mk III) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -39,7 +39,7 @@
 
 ## Vulture Mk III (Mad Dog Mk III) BLO
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -55,7 +55,7 @@
 
 ## Vulture Mk III (Mad Dog Mk III) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)

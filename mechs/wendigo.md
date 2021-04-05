@@ -1,7 +1,7 @@
 # Wendigo
 ## Wendigo (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 152 (Laser Reflective)
@@ -16,7 +16,7 @@
 
 ## Wendigo A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 152 (Laser Reflective)
@@ -29,7 +29,7 @@
 
 ## Wendigo B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
 - **Armor:** 152 (Laser Reflective)
@@ -44,7 +44,7 @@
 
 ## Wendigo C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 152 (Laser Reflective)

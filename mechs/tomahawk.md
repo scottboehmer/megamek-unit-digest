@@ -1,7 +1,7 @@
 # Tomahawk
 ## Tomahawk (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304
@@ -18,7 +18,7 @@
 
 ## Tomahawk A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304
@@ -33,7 +33,7 @@
 
 ## Tomahawk B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304
@@ -48,7 +48,7 @@
 
 ## Tomahawk C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304

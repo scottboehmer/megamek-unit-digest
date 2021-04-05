@@ -1,7 +1,7 @@
 # Naga
 ## Naga Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 144
@@ -13,7 +13,7 @@
 
 ## Naga A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 144
@@ -26,7 +26,7 @@
 
 ## Naga B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 144
@@ -39,7 +39,7 @@
 
 ## Naga C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 144
@@ -52,7 +52,7 @@
 
 ## Naga D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 144

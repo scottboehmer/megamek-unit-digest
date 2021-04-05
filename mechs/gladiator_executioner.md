@@ -1,7 +1,7 @@
 # Gladiator (Executioner)
 ## Gladiator (Executioner) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Gladiator (Executioner) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Gladiator (Executioner) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -47,7 +47,7 @@
 
 ## Gladiator (Executioner) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -63,7 +63,7 @@
 
 ## Gladiator (Executioner) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -78,9 +78,43 @@
   - MASC
 - **Battle Value:** 2640
 
+## Gladiator (Executioner) TC
+- **Role:** Undefined
+- **Tech Base:** Clan (3052)
+- **Chassis:** 95 tons
+- **Movement:** 4 / 6 (8) / 4, XL
+- **Armor:** 259 (Ferro Fibrous)
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - ER PPC
+  - ER Small Laser × 3
+  - Large Pulse Laser × 2
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+  - Active Probe
+- **Battle Value:** 3363
+
+## Gladiator (Executioner) H
+- **Role:** Undefined
+- **Tech Base:** Clan (3059)
+- **Chassis:** 95 tons
+- **Movement:** 4 / 6 (8) / 4, XL
+- **Armor:** 259 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Ultra AC/20 (ammo: 20)
+  - Heavy Large Laser
+  - Flamer
+  - ER Medium Laser × 2
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+- **Battle Value:** 2981
+
 ## Gladiator (Executioner) E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3060)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -94,9 +128,41 @@
   - MASC
 - **Battle Value:** 2773
 
+## Gladiator (Executioner) K
+- **Role:** Undefined
+- **Tech Base:** Clan (3068)
+- **Chassis:** 95 tons
+- **Movement:** 4 / 6 (8) / 4, XL
+- **Armor:** 259 (Ferro Fibrous)
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - HAG 20 (ammo: 18)
+  - ER Large Laser × 2
+  - ER Medium Laser × 3
+- **Equipment:**
+  - MASC
+  - Light Active Probe
+- **Battle Value:** 3117
+
+## Gladiator (Executioner) P
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 95 tons
+- **Movement:** 4 / 6 (8) / 4, XL
+- **Armor:** 259 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Plasma Cannon (ammo: 10)
+  - HAG 30 (ammo: 12)
+  - Heavy Medium Laser × 3
+  - LRM 10 (ammo: 12)
+- **Equipment:**
+  - MASC
+- **Battle Value:** 3022
+
 ## Gladiator (Executioner) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3089)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (10) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -112,7 +178,7 @@
 
 ## Gladiator (Executioner) G
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3100)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -127,26 +193,9 @@
   - Watchdog CEWS
 - **Battle Value:** unknown
 
-## Gladiator (Executioner) H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
-- **Armor:** 259 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 20)
-  - Heavy Large Laser
-  - Flamer
-  - ER Medium Laser × 2
-- **Equipment:**
-  - MASC
-  - Targeting Computer
-- **Battle Value:** 2981
-
 ## Gladiator (Executioner) I
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3101)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (10) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -163,7 +212,7 @@
 
 ## Gladiator (Executioner) J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3104)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -175,25 +224,9 @@
   - MASC
 - **Battle Value:** 2839
 
-## Gladiator (Executioner) K
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
-- **Armor:** 259 (Ferro Fibrous)
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - HAG 20 (ammo: 18)
-  - ER Large Laser × 2
-  - ER Medium Laser × 3
-- **Equipment:**
-  - MASC
-  - Light Active Probe
-- **Battle Value:** 3117
-
 ## Gladiator (Executioner) L
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3119)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 259 (Ferro Fibrous)
@@ -205,37 +238,4 @@
   - MASC
   - CASE II
 - **Battle Value:** unknown
-
-## Gladiator (Executioner) P
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
-- **Armor:** 259 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Plasma Cannon (ammo: 10)
-  - HAG 30 (ammo: 12)
-  - Heavy Medium Laser × 3
-  - LRM 10 (ammo: 12)
-- **Equipment:**
-  - MASC
-- **Battle Value:** 3022
-
-## Gladiator (Executioner) TC
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
-- **Armor:** 259 (Ferro Fibrous)
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - ER PPC
-  - ER Small Laser × 3
-  - Large Pulse Laser × 2
-- **Equipment:**
-  - MASC
-  - Targeting Computer
-  - Active Probe
-- **Battle Value:** 3363
 

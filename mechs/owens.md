@@ -1,7 +1,7 @@
 # Owens
 ## Owens OW-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 112
@@ -18,7 +18,7 @@
 
 ## Owens OW-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 112
@@ -35,7 +35,7 @@
 
 ## Owens OW-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 112
@@ -51,7 +51,7 @@
 
 ## Owens OW-1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 112
@@ -67,7 +67,7 @@
 
 ## Owens OW-1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 112
@@ -81,9 +81,25 @@
   - C3 Slave
 - **Battle Value:** 655
 
+## Owens OW-1R
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3059)
+- **Chassis:** 35 tons
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 112
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Clan ER Medium Laser × 3
+  - MRM 10 (ammo: 24)
+- **Equipment:**
+  - Beagle Active Probe
+  - TAG
+  - C3 Slave
+- **Battle Value:** 1215
+
 ## Owens OW-1E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 112
@@ -100,7 +116,7 @@
 
 ## Owens OW-1F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 112
@@ -119,7 +135,7 @@
 
 ## Owens OW-1G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 112
@@ -132,20 +148,4 @@
   - C3 Slave
   - Supercharger
 - **Battle Value:** 1761
-
-## Owens OW-1R
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
-- **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
-- **Armor:** 112
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Clan ER Medium Laser × 3
-  - MRM 10 (ammo: 24)
-- **Equipment:**
-  - Beagle Active Probe
-  - TAG
-  - C3 Slave
-- **Battle Value:** 1215
 

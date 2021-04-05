@@ -1,7 +1,7 @@
 # Black Lanner
 ## Black Lanner Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 153 (Ferro Fibrous)
@@ -18,7 +18,7 @@
 
 ## Black Lanner A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 153 (Ferro Fibrous)
@@ -35,7 +35,7 @@
 
 ## Black Lanner B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 153 (Ferro Fibrous)
@@ -48,7 +48,7 @@
 
 ## Black Lanner C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 153 (Ferro Fibrous)
@@ -62,7 +62,7 @@
 
 ## Black Lanner D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 153 (Ferro Fibrous)
@@ -78,23 +78,9 @@
   - Active Probe
 - **Battle Value:** 1746
 
-## Black Lanner E
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, XL
-- **Armor:** 153 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ATM 12 (ammo: 5)
-  - ER Medium Laser × 3
-- **Equipment:**
-  - MASC
-- **Battle Value:** 2043
-
 ## Black Lanner H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 153 (Ferro Fibrous)
@@ -106,4 +92,18 @@
   - MASC
   - ECM Suite
 - **Battle Value:** 1928
+
+## Black Lanner E
+- **Role:** Undefined
+- **Tech Base:** Clan (3062)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 0, XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ATM 12 (ammo: 5)
+  - ER Medium Laser × 3
+- **Equipment:**
+  - MASC
+- **Battle Value:** 2043
 

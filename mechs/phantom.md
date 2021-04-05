@@ -1,7 +1,7 @@
 # Phantom
 ## Phantom Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -18,7 +18,7 @@
 
 ## Phantom A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Phantom B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -46,7 +46,7 @@
 
 ## Phantom C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -61,7 +61,7 @@
 
 ## Phantom D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -74,7 +74,7 @@
 
 ## Phantom E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -86,7 +86,7 @@
 
 ## Phantom H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)

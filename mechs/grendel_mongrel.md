@@ -1,7 +1,7 @@
 # Grendel (Mongrel)
 ## Grendel (Mongrel) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Grendel (Mongrel) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Grendel (Mongrel) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -42,7 +42,7 @@
 
 ## Grendel (Mongrel) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -55,7 +55,7 @@
 
 ## Grendel (Mongrel) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -70,7 +70,7 @@
 
 ## Grendel (Mongrel) E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -81,9 +81,23 @@
   - ATM 6 × 2 (ammo: 20)
 - **Battle Value:** 1602
 
+## Grendel (Mongrel) H
+- **Role:** Undefined
+- **Tech Base:** Clan (3064)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 7 / 11 / 7, XL
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Heavy Large Laser
+  - Streak SRM 4 (ammo: 25)
+  - ER Small Laser
+- **Battle Value:** 1944
+
 ## Grendel (Mongrel) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -95,7 +109,7 @@
 
 ## Grendel (Mongrel) G
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3090)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -108,23 +122,9 @@
   - Supercharger
 - **Battle Value:** 2209
 
-## Grendel (Mongrel) H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 / 7, XL
-- **Armor:** 144 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Heavy Large Laser
-  - Streak SRM 4 (ammo: 25)
-  - ER Small Laser
-- **Battle Value:** 1944
-
 ## Grendel (Mongrel) J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3140)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -137,7 +137,7 @@
 
 ## Grendel (Mongrel) T
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144 (Ferro Fibrous)

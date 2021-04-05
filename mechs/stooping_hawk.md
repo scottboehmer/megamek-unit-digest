@@ -1,7 +1,7 @@
 # Stooping Hawk
 ## Stooping Hawk Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 172 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Stooping Hawk A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 172 (Ferro Fibrous)
@@ -25,7 +25,7 @@
 
 ## Stooping Hawk B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 172 (Ferro Fibrous)
@@ -37,7 +37,7 @@
 
 ## Stooping Hawk C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 172 (Ferro Fibrous)
@@ -51,7 +51,7 @@
 
 ## Stooping Hawk D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 172 (Ferro Fibrous)
@@ -65,7 +65,7 @@
 
 ## Stooping Hawk E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 172 (Ferro Fibrous)
@@ -78,7 +78,7 @@
 
 ## Stooping Hawk F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8
 - **Armor:** 172 (Ferro Fibrous)

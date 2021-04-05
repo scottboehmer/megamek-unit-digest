@@ -17,7 +17,7 @@
 
 ## Deimos Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 0, XL
 - **Armor:** 232
@@ -33,7 +33,7 @@
 
 ## Deimos A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 0, XL
 - **Armor:** 232
@@ -51,7 +51,7 @@
 
 ## Deimos B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 0, XL
 - **Armor:** 232
@@ -67,9 +67,26 @@
   - ECM Suite
 - **Battle Value:** 2857
 
+## Deimos H
+- **Role:** Undefined
+- **Tech Base:** Clan (3085)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 3 / 5 (6) / 3, XL
+- **Armor:** 232
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Gauss Rifle × 2 (ammo: 32)
+  - ER Large Laser × 2
+  - Heavy Large Laser
+  - Anti-Missile System (ammo: 24)
+- **Equipment:**
+  - MASC
+- **Battle Value:** 3329
+
 ## Deimos C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3086)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 4, XL
 - **Armor:** 232
@@ -84,21 +101,4 @@
   - MASC
   - ECM Suite
 - **Battle Value:** 2521
-
-## Deimos H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 3, XL
-- **Armor:** 232
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Gauss Rifle × 2 (ammo: 32)
-  - ER Large Laser × 2
-  - Heavy Large Laser
-  - Anti-Missile System (ammo: 24)
-- **Equipment:**
-  - MASC
-- **Battle Value:** 3329
 

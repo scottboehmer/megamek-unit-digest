@@ -1,7 +1,7 @@
 # Hellion
 ## Hellion Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 105 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Hellion A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 105 (Ferro Fibrous)
@@ -30,7 +30,7 @@
 
 ## Hellion B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 105 (Ferro Fibrous)
@@ -45,7 +45,7 @@
 
 ## Hellion C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 105 (Ferro Fibrous)
@@ -60,7 +60,7 @@
 
 ## Hellion D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3068)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 105 (Ferro Fibrous)
@@ -75,7 +75,7 @@
 
 ## Hellion E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3070)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 5, XL
 - **Armor:** 105 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Kingfisher
 ## Kingfisher Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Kingfisher A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)
@@ -32,7 +32,7 @@
 
 ## Kingfisher B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)
@@ -47,7 +47,7 @@
 
 ## Kingfisher C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)
@@ -59,7 +59,7 @@
 
 ## Kingfisher D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)
@@ -69,9 +69,23 @@
   - Ultra AC/10 (ammo: 20)
 - **Battle Value:** 2328
 
+## Kingfisher H
+- **Role:** Undefined
+- **Tech Base:** Clan (3061)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 278 (Ferro Fibrous)
+- **Heat Sinks:** 26 (52)
+- **Weapons:**
+  - Heavy Large Laser × 2
+  - ER Medium Laser × 4
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2525
+
 ## Kingfisher E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3063)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)
@@ -84,7 +98,7 @@
 
 ## Kingfisher F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)
@@ -97,23 +111,9 @@
   - ECM Suite
 - **Battle Value:** 2559
 
-## Kingfisher H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
-- **Armor:** 278 (Ferro Fibrous)
-- **Heat Sinks:** 26 (52)
-- **Weapons:**
-  - Heavy Large Laser × 2
-  - ER Medium Laser × 4
-- **Equipment:**
-  - Targeting Computer
-- **Battle Value:** 2525
-
 ## Kingfisher X
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3076)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 278 (Ferro Fibrous)

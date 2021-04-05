@@ -1,7 +1,7 @@
 # Snow Fox (Omni)
 ## Snow Fox (Omni) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 73 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Snow Fox (Omni) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 73 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Snow Fox (Omni) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 73 (Ferro Fibrous)

@@ -28,7 +28,7 @@
 
 ## Mad Cat Mk IV (Savage Wolf) (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)
@@ -40,7 +40,7 @@
 
 ## Mad Cat Mk IV (Savage Wolf) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)
@@ -53,7 +53,7 @@
 
 ## Mad Cat Mk IV (Savage Wolf) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)
@@ -68,7 +68,7 @@
 
 ## Mad Cat Mk IV (Savage Wolf) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)

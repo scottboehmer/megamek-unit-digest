@@ -1,7 +1,7 @@
 # Gauntlet
 ## Gauntlet GTL-1O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (13) / 0, Light
 - **Armor:** 169 (Light Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Gauntlet GTL-1OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light
 - **Armor:** 169 (Light Ferro Fibrous)
@@ -32,7 +32,7 @@
 
 ## Gauntlet GTL-1OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, Light
 - **Armor:** 169 (Light Ferro Fibrous)
@@ -49,7 +49,7 @@
 
 ## Gauntlet GTL-1OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light
 - **Armor:** 169 (Light Ferro Fibrous)

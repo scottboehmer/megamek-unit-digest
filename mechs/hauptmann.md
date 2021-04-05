@@ -1,7 +1,7 @@
 # Hauptmann
 ## Hauptmann HA1-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 293
@@ -19,7 +19,7 @@
 
 ## Hauptmann HA1-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 293
@@ -34,7 +34,7 @@
 
 ## Hauptmann HA1-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 293
@@ -49,7 +49,7 @@
 
 ## Hauptmann HA1-OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 293
@@ -67,7 +67,7 @@
 
 ## Hauptmann HA1-OD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 293
@@ -85,7 +85,7 @@
 
 ## Hauptmann HA1-OE
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 293
@@ -100,7 +100,7 @@
 
 ## Hauptmann HA1-OM
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 293
@@ -115,7 +115,7 @@
 
 ## Hauptmann HA1-OT
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3136)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 293

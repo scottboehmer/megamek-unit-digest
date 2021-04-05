@@ -1,7 +1,7 @@
 # Karhu
 ## Karhu Prime
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -15,27 +15,9 @@
   - ECM Suite
 - **Battle Value:** unknown
 
-## Karhu (Syngman)
-- **Role:** Undefined
-- **Tech Base:** Clan Mixed
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 201 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Inner Sphere Heavy PPC
-  - Inner Sphere ER Medium Laser
-  - Inner Sphere Plasma Rifle (ammo: 20)
-  - Inner Sphere Retractable Blade
-- **Equipment:**
-  - Inner Sphere Beagle Active Probe
-  - Inner Sphere C3 Slave
-  - Inner Sphere Guardian ECM Suite
-- **Battle Value:** unknown
-
 ## Karhu A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -50,7 +32,7 @@
 
 ## Karhu B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -65,7 +47,7 @@
 
 ## Karhu C
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -79,7 +61,7 @@
 
 ## Karhu D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -95,9 +77,27 @@
   - ECM Suite
 - **Battle Value:** 3079
 
+## Karhu (Syngman)
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3085)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 201 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Inner Sphere Heavy PPC
+  - Inner Sphere ER Medium Laser
+  - Inner Sphere Plasma Rifle (ammo: 20)
+  - Inner Sphere Retractable Blade
+- **Equipment:**
+  - Inner Sphere Beagle Active Probe
+  - Inner Sphere C3 Slave
+  - Inner Sphere Guardian ECM Suite
+- **Battle Value:** unknown
+
 ## Karhu G
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3099)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 201 (Ferro Fibrous)

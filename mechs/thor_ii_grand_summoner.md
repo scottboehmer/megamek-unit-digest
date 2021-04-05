@@ -1,7 +1,7 @@
 # Thor II (Grand Summoner)
 ## Thor II (Grand Summoner) (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Thor II (Grand Summoner) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Thor II (Grand Summoner) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -43,7 +43,7 @@
 
 ## Thor II (Grand Summoner) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -57,7 +57,7 @@
 
 ## Thor II (Grand Summoner) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 192 (Ferro Fibrous)

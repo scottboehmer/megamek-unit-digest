@@ -1,7 +1,7 @@
 # Avatar
 ## Avatar AV1-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -18,7 +18,7 @@
 
 ## Avatar AV1-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 192
@@ -34,7 +34,7 @@
 
 ## Avatar AV1-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -47,26 +47,9 @@
   - CASE
 - **Battle Value:** 1496
 
-## Avatar AV1-OBLO
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 4, XL
-- **Armor:** 192
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
-  - Medium Laser × 2
-- **Equipment:**
-  - C3i
-  - Guardian ECM Suite
-  - CASE
-- **Battle Value:** unknown
-
 ## Avatar AV1-OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -81,9 +64,40 @@
   - C3 Master
 - **Battle Value:** 1406
 
+## Avatar AV1-OG
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3056)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 2
+  - Gauss Rifle × 2 (ammo: 32)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1775
+
+## Avatar AV1-OR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3059)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 2
+  - Clan Gauss Rifle (ammo: 8)
+  - MRM 40 (ammo: 12)
+  - Clan Streak SRM 4 (ammo: 25)
+  - Clan ER Large Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1833
+
 ## Avatar AV1-OD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -100,7 +114,7 @@
 
 ## Avatar AV1-OE
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -118,7 +132,7 @@
 
 ## Avatar AV1-OF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 192
@@ -131,23 +145,9 @@
   - CASE
 - **Battle Value:** 1667
 
-## Avatar AV1-OG
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Laser × 2
-  - Gauss Rifle × 2 (ammo: 32)
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1775
-
 ## Avatar AV1-OH
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -162,7 +162,7 @@
 
 ## Avatar AV1-OI
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -177,7 +177,7 @@
 
 ## Avatar AV1-OJ
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3099)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -189,20 +189,20 @@
   - CASE
 - **Battle Value:** 2223
 
-## Avatar AV1-OR
+## Avatar AV1-OBLO
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere (3127)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6 / 4, XL
 - **Armor:** 192
-- **Heat Sinks:** 10 (20)
+- **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - ER PPC
+  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
   - Medium Laser × 2
-  - Clan Gauss Rifle (ammo: 8)
-  - MRM 40 (ammo: 12)
-  - Clan Streak SRM 4 (ammo: 25)
-  - Clan ER Large Laser
 - **Equipment:**
+  - C3i
+  - Guardian ECM Suite
   - CASE
-- **Battle Value:** 1833
+- **Battle Value:** unknown
 

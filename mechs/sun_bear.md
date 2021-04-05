@@ -1,7 +1,7 @@
 # Sun Bear
 ## Sun Bear Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 168
@@ -14,7 +14,7 @@
 
 ## Sun Bear A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 168
@@ -25,7 +25,7 @@
 
 ## Sun Bear B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 168

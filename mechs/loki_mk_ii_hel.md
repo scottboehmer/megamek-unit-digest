@@ -1,7 +1,7 @@
 # Loki Mk II (Hel)
 ## Loki Mk II (Hel) (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3121)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Loki Mk II (Hel) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3121)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)

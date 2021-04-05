@@ -1,45 +1,7 @@
 # Grigori
-## Grigori C-GRG-O (Rufus)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 60 tons
-- **Movement:** 4 / 6 (8) / 4, Light
-- **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - MML 7 w/ Artemis IV × 2 (ammo: 14 SRM, 34 LRM)
-  - ER Small Laser
-  - Light PPC w/ PPC Capacitor
-  - Medium VSP Laser
-- **Equipment:**
-  - C3i
-  - CASE
-  - Supercharger
-- **Battle Value:** unknown
-
-## Grigori C-GRG-O (Tamiel)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4, Light
-- **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Snub-Nose PPC
-  - Thunderbolt 10 × 2 (ammo: 12)
-- **Equipment:**
-  - C3i
-  - CASE
-  - Guardian ECM Suite
-- **Battle Value:** unknown
-
 ## Grigori C-GRG-O Invictus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 186 (Light Ferro Fibrous)
@@ -59,7 +21,7 @@
 
 ## Grigori C-GRG-OA Dominus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
@@ -78,7 +40,7 @@
 
 ## Grigori C-GRG-OB Infernus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
@@ -97,7 +59,7 @@
 
 ## Grigori C-GRG-OC Comminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
@@ -116,7 +78,7 @@
 
 ## Grigori C-GRG-OD Luminos
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 6, Light
 - **Armor:** 186 (Light Ferro Fibrous)
@@ -132,9 +94,47 @@
   - C3i
 - **Battle Value:** unknown
 
+## Grigori C-GRG-O (Rufus)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 60 tons
+- **Movement:** 4 / 6 (8) / 4, Light
+- **Armor:** 186 (Light Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - MML 7 w/ Artemis IV × 2 (ammo: 14 SRM, 34 LRM)
+  - ER Small Laser
+  - Light PPC w/ PPC Capacitor
+  - Medium VSP Laser
+- **Equipment:**
+  - C3i
+  - CASE
+  - Supercharger
+- **Battle Value:** unknown
+
+## Grigori C-GRG-O (Tamiel)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3072)
+- **Chassis:** 60 tons
+- **Movement:** 4 / 6 / 4, Light
+- **Armor:** 186 (Light Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Snub-Nose PPC
+  - Thunderbolt 10 × 2 (ammo: 12)
+- **Equipment:**
+  - C3i
+  - CASE
+  - Guardian ECM Suite
+- **Battle Value:** unknown
+
 ## Grigori C-GRG-OE Eminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 186 (Light Ferro Fibrous)

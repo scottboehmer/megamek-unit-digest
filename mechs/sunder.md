@@ -1,7 +1,7 @@
 # Sunder
 ## Sunder SD1-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -13,25 +13,9 @@
   - SRM 4 × 3 (ammo: 50)
 - **Battle Value:** 1747
 
-## Sunder SD1-O (Samual)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 264
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - SRM 4 × 6 (ammo: 100)
-  - Machine Gun × 12 (ammo: 400)
-  - ER PPC
-  - Flamer × 4
-- **Equipment:**
-  - A-Pod × 2
-- **Battle Value:** 1593
-
 ## Sunder SD1-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -45,7 +29,7 @@
 
 ## Sunder SD1-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -61,7 +45,7 @@
 
 ## Sunder SD1-OC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -75,9 +59,23 @@
   - C3 Slave
 - **Battle Value:** 1735
 
+## Sunder SD1-OR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3059)
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 264
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Clan LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Clan ER Medium Laser × 4
+  - Clan Large Pulse Laser × 2
+  - Clan Streak SRM 6 × 2 (ammo: 30)
+- **Battle Value:** 2462
+
 ## Sunder SD1-OD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 3, XL
 - **Armor:** 264
@@ -87,9 +85,25 @@
   - PPC × 2
 - **Battle Value:** 1947
 
+## Sunder SD1-O (Samual)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3066)
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 264
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - SRM 4 × 6 (ammo: 100)
+  - Machine Gun × 12 (ammo: 400)
+  - ER PPC
+  - Flamer × 4
+- **Equipment:**
+  - A-Pod × 2
+- **Battle Value:** 1593
+
 ## Sunder SD1-OE
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -103,7 +117,7 @@
 
 ## Sunder SD1-OF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -119,7 +133,7 @@
 
 ## Sunder SD1-OG
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -133,18 +147,4 @@
   - CASE II
   - C3 Boosted Slave
 - **Battle Value:** 2594
-
-## Sunder SD1-OR
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
-- **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 264
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Clan LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Clan ER Medium Laser × 4
-  - Clan Large Pulse Laser × 2
-  - Clan Streak SRM 6 × 2 (ammo: 30)
-- **Battle Value:** 2462
 

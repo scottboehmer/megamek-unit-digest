@@ -1,7 +1,7 @@
 # Woodsman
 ## Woodsman Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2866)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
 - **Armor:** 216
@@ -18,7 +18,7 @@
 
 ## Woodsman A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2866)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
 - **Armor:** 216
@@ -34,7 +34,7 @@
 
 ## Woodsman B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2866)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
 - **Armor:** 216
@@ -52,7 +52,7 @@
 
 ## Woodsman C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3149)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
 - **Armor:** 216

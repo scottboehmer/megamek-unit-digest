@@ -1,7 +1,7 @@
 # Hierofalcon
 ## Hierofalcon Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Hierofalcon A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 4, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -32,7 +32,7 @@
 
 ## Hierofalcon B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -47,7 +47,7 @@
 
 ## Hierofalcon D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 144 (Ferro Fibrous)

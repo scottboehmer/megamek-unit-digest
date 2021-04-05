@@ -1,7 +1,7 @@
 # Pariah (Septicemia)
 ## Pariah (Septicemia) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Pariah (Septicemia) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -27,7 +27,7 @@
 
 ## Pariah (Septicemia) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -41,7 +41,7 @@
 
 ## Pariah (Septicemia) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -57,7 +57,7 @@
 
 ## Pariah (Septicemia) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -72,7 +72,7 @@
 
 ## Pariah (Septicemia) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 172 (Ferro Fibrous)

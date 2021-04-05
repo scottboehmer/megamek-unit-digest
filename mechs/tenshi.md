@@ -1,7 +1,7 @@
 # Tenshi
 ## Tenshi TN-10-O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 (6) / 0, Light
 - **Armor:** 293
@@ -19,7 +19,7 @@
 
 ## Tenshi TN-10-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 293
@@ -35,7 +35,7 @@
 
 ## Tenshi TN-10-OB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 3, Light
 - **Armor:** 293
@@ -50,7 +50,7 @@
 
 ## Tenshi TN-10-OR
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 293

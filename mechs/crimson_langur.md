@@ -1,7 +1,7 @@
 # Crimson Langur
 ## Crimson Langur Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 5, XL
 - **Armor:** 168
@@ -16,7 +16,7 @@
 
 ## Crimson Langur A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 168
@@ -28,7 +28,7 @@
 
 ## Crimson Langur B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 168
@@ -42,7 +42,7 @@
 
 ## Crimson Langur C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 168
@@ -55,7 +55,7 @@
 
 ## Crimson Langur D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 5, XL
 - **Armor:** 168
@@ -71,7 +71,7 @@
 
 ## Crimson Langur E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 168

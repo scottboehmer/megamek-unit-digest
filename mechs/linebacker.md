@@ -1,7 +1,7 @@
 # Linebacker
 ## Linebacker Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Linebacker A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -29,7 +29,7 @@
 
 ## Linebacker B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -42,7 +42,7 @@
 
 ## Linebacker C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -57,7 +57,7 @@
 
 ## Linebacker D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -70,7 +70,7 @@
 
 ## Linebacker E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -84,7 +84,7 @@
 
 ## Linebacker H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -97,7 +97,7 @@
 
 ## Linebacker I
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 192 (Ferro Fibrous)
@@ -113,7 +113,7 @@
 
 ## Linebacker T
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)

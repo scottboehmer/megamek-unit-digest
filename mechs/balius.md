@@ -1,7 +1,7 @@
 # Balius
 ## Balius Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 211 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Balius A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 211 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Balius B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 211 (Ferro Fibrous)
@@ -42,7 +42,7 @@
 
 ## Balius C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 211 (Ferro Fibrous)
@@ -56,7 +56,7 @@
 
 ## Balius D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 211 (Ferro Fibrous)
@@ -70,7 +70,7 @@
 
 ## Balius E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3127)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 211 (Ferro Fibrous)

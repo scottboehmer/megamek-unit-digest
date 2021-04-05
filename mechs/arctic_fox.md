@@ -1,7 +1,7 @@
 # Arctic Fox
 ## Arctic Fox AF1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96
@@ -14,7 +14,7 @@
 
 ## Arctic Fox AF1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 96
@@ -26,7 +26,7 @@
 
 ## Arctic Fox AF1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96
@@ -38,7 +38,7 @@
 
 ## Arctic Fox AF1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96
@@ -50,7 +50,7 @@
 
 ## Arctic Fox AF1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96
@@ -61,7 +61,7 @@
 
 ## Arctic Fox AF1E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96
@@ -73,7 +73,7 @@
 
 ## Arctic Fox AF1F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96

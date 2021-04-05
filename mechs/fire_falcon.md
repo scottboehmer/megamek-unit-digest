@@ -1,7 +1,7 @@
 # Fire Falcon
 ## Fire Falcon Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Fire Falcon A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Fire Falcon B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -41,7 +41,7 @@
 
 ## Fire Falcon C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -58,7 +58,7 @@
 
 ## Fire Falcon D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -73,7 +73,7 @@
 
 ## Fire Falcon E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -82,9 +82,22 @@
   - ATM 12 (ammo: 5)
 - **Battle Value:** 834
 
+## Fire Falcon H
+- **Role:** Undefined
+- **Tech Base:** Clan (3062)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Heavy Medium Laser × 2
+  - Medium Pulse Laser × 2
+  - Heavy Small Laser × 2
+- **Battle Value:** 1162
+
 ## Fire Falcon F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3072)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -98,17 +111,4 @@
   - MG Array × 2
   - Active Probe
 - **Battle Value:** 1084
-
-## Fire Falcon H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Heavy Medium Laser × 2
-  - Medium Pulse Laser × 2
-  - Heavy Small Laser × 2
-- **Battle Value:** 1162
 

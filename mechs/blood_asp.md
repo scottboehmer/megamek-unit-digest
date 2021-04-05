@@ -1,7 +1,7 @@
 # Blood Asp
 ## Blood Asp Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 256
@@ -15,7 +15,7 @@
 
 ## Blood Asp A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
 - **Armor:** 256
@@ -30,7 +30,7 @@
 
 ## Blood Asp B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 256
@@ -45,7 +45,7 @@
 
 ## Blood Asp C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 256
@@ -58,7 +58,7 @@
 
 ## Blood Asp D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 256
@@ -72,7 +72,7 @@
 
 ## Blood Asp E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3063)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 256
@@ -87,7 +87,7 @@
 
 ## Blood Asp F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3071)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 256
@@ -102,7 +102,7 @@
 
 ## Blood Asp G
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3074)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 256

@@ -1,7 +1,7 @@
 # Dragonfly (Viper)
 ## Dragonfly (Viper) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Dragonfly (Viper) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -27,7 +27,7 @@
 
 ## Dragonfly (Viper) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -40,7 +40,7 @@
 
 ## Dragonfly (Viper) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -55,7 +55,7 @@
 
 ## Dragonfly (Viper) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -69,7 +69,7 @@
 
 ## Dragonfly (Viper) E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -80,38 +80,9 @@
   - ER Small Laser × 2
 - **Battle Value:** 1372
 
-## Dragonfly (Viper) F
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Heavy Machine Gun × 8 (ammo: 100)
-  - ER Medium Laser × 3
-- **Equipment:**
-  - MG Array × 2
-- **Battle Value:** 1589
-
-## Dragonfly (Viper) G
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Plasma Cannon (ammo: 10)
-  - AP Gauss Rifle × 4 (ammo: 40)
-  - Heavy Medium Laser
-- **Equipment:**
-  - Light Active Probe
-- **Battle Value:** 1568
-
 ## Dragonfly (Viper) H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -125,7 +96,7 @@
 
 ## Dragonfly (Viper) I
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3068)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -139,9 +110,70 @@
   - Targeting Computer
 - **Battle Value:** 1538
 
+## Dragonfly (Viper) F
+- **Role:** Undefined
+- **Tech Base:** Clan (3070)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Heavy Machine Gun × 8 (ammo: 100)
+  - ER Medium Laser × 3
+- **Equipment:**
+  - MG Array × 2
+- **Battle Value:** 1589
+
+## Dragonfly (Viper) G
+- **Role:** Undefined
+- **Tech Base:** Clan (3071)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Plasma Cannon (ammo: 10)
+  - AP Gauss Rifle × 4 (ammo: 40)
+  - Heavy Medium Laser
+- **Equipment:**
+  - Light Active Probe
+- **Battle Value:** 1568
+
+## Dragonfly (Viper) R
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3110)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Narc (ammo: 0)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Inner Sphere Bloodhound Active Probe
+  - Light TAG
+- **Battle Value:** 1293
+
+## Dragonfly (Viper) T
+- **Role:** Undefined
+- **Tech Base:** Clan (3142)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak SRM 4 (ammo: 25)
+  - ER Medium Laser × 2
+  - Anti-Missile System (ammo: 24)
+  - ER Micro Laser × 2
+- **Equipment:**
+  - Targeting Computer
+  - Light Active Probe
+- **Battle Value:** 1662
+
 ## Dragonfly (Viper) J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3144)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -153,7 +185,7 @@
 
 ## Dragonfly (Viper) K
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -169,7 +201,7 @@
 
 ## Dragonfly (Viper) L
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3147)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -181,7 +213,7 @@
 
 ## Dragonfly (Viper) M
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3149)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -193,36 +225,4 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 2054
-
-## Dragonfly (Viper) R
-- **Role:** Undefined
-- **Tech Base:** Clan Mixed
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Narc (ammo: 0)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - Inner Sphere Bloodhound Active Probe
-  - Light TAG
-- **Battle Value:** 1293
-
-## Dragonfly (Viper) T
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Streak SRM 4 (ammo: 25)
-  - ER Medium Laser × 2
-  - Anti-Missile System (ammo: 24)
-  - ER Micro Laser × 2
-- **Equipment:**
-  - Targeting Computer
-  - Light Active Probe
-- **Battle Value:** 1662
 

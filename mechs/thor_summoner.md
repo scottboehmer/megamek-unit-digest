@@ -1,7 +1,7 @@
 # Thor (Summoner)
 ## Thor (Summoner) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Thor (Summoner) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -25,22 +25,9 @@
   - SRM 6 (ammo: 30)
 - **Battle Value:** 2098
 
-## Thor (Summoner) AA
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - ER Large Pulse Laser
-  - SRM 6 (ammo: 15)
-- **Battle Value:** 2188
-
 ## Thor (Summoner) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -54,7 +41,7 @@
 
 ## Thor (Summoner) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -68,7 +55,7 @@
 
 ## Thor (Summoner) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -82,9 +69,23 @@
   - Targeting Computer
 - **Battle Value:** 2584
 
+## Thor (Summoner) M
+- **Role:** Undefined
+- **Tech Base:** Clan (3051)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - LB 10-X AC (ammo: 10)
+  - ER PPC
+  - Streak SRM 6 (ammo: 30)
+  - ER Small Laser
+- **Battle Value:** 2192
+
 ## Thor (Summoner) E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -97,7 +98,7 @@
 
 ## Thor (Summoner) F
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -108,23 +109,9 @@
   - LRM 10 (ammo: 12)
 - **Battle Value:** 2127
 
-## Thor (Summoner) G
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - ER Large Laser
-  - ER PPC
-  - SRM 4 × 6 (ammo: 50)
-  - Heavy Small Laser
-- **Battle Value:** 2413
-
 ## Thor (Summoner) H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -137,9 +124,38 @@
   - Targeting Computer
 - **Battle Value:** 2516
 
+## Thor (Summoner) G
+- **Role:** Undefined
+- **Tech Base:** Clan (3068)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - ER Large Laser
+  - ER PPC
+  - SRM 4 × 6 (ammo: 50)
+  - Heavy Small Laser
+- **Battle Value:** 2413
+
+## Thor (Summoner) Q
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Large Pulse Laser
+  - ER PPC
+  - Heavy Medium Laser
+  - SRM 4 × 6 (ammo: 50)
+  - Heavy Small Laser
+- **Battle Value:** 2440
+
 ## Thor (Summoner) HH
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -152,9 +168,22 @@
   - Heavy Medium Laser
 - **Battle Value:** 2481
 
+## Thor (Summoner) AA
+- **Role:** Undefined
+- **Tech Base:** Clan (3086)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - ER Large Pulse Laser
+  - SRM 6 (ammo: 15)
+- **Battle Value:** 2188
+
 ## Thor (Summoner) J
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3148)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -165,33 +194,4 @@
 - **Equipment:**
   - Light Active Probe
 - **Battle Value:** 2653
-
-## Thor (Summoner) M
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10)
-  - ER PPC
-  - Streak SRM 6 (ammo: 30)
-  - ER Small Laser
-- **Battle Value:** 2192
-
-## Thor (Summoner) Q
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Large Pulse Laser
-  - ER PPC
-  - Heavy Medium Laser
-  - SRM 4 × 6 (ammo: 50)
-  - Heavy Small Laser
-- **Battle Value:** 2440
 

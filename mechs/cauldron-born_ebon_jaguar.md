@@ -1,7 +1,7 @@
 # Cauldron-Born (Ebon Jaguar)
 ## Cauldron-Born (Ebon Jaguar) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -14,23 +14,9 @@
   - SRM 2 (ammo: 50)
 - **Battle Value:** 1846
 
-## Cauldron-Born (Ebon Jaguar) (Samantha)
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 10)
-  - ER PPC
-  - ER Small Laser
-  - LRM 10 × 3 (ammo: 24)
-- **Battle Value:** 2294
-
 ## Cauldron-Born (Ebon Jaguar) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -46,7 +32,7 @@
 
 ## Cauldron-Born (Ebon Jaguar) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -62,7 +48,7 @@
 
 ## Cauldron-Born (Ebon Jaguar) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -73,9 +59,23 @@
   - LRM 15 × 2 (ammo: 32)
 - **Battle Value:** 1636
 
+## Cauldron-Born (Ebon Jaguar) (Samantha)
+- **Role:** Undefined
+- **Tech Base:** Clan (3059)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Ultra AC/20 (ammo: 10)
+  - ER PPC
+  - ER Small Laser
+  - LRM 10 × 3 (ammo: 24)
+- **Battle Value:** 2294
+
 ## Cauldron-Born (Ebon Jaguar) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -86,23 +86,9 @@
   - ER Medium Laser × 2
 - **Battle Value:** 2150
 
-## Cauldron-Born (Ebon Jaguar) E
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - HAG 20 (ammo: 18)
-  - Large Pulse Laser
-  - ER Medium Laser
-  - ATM 12 (ammo: 5)
-- **Battle Value:** 2183
-
 ## Cauldron-Born (Ebon Jaguar) H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -115,4 +101,18 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 2301
+
+## Cauldron-Born (Ebon Jaguar) E
+- **Role:** Undefined
+- **Tech Base:** Clan (3069)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - HAG 20 (ammo: 18)
+  - Large Pulse Laser
+  - ER Medium Laser
+  - ATM 12 (ammo: 5)
+- **Battle Value:** 2183
 

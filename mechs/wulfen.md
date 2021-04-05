@@ -1,7 +1,7 @@
 # Wulfen
 ## Wulfen (Prime)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)
@@ -18,7 +18,7 @@
 
 ## Wulfen A
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)
@@ -32,7 +32,7 @@
 
 ## Wulfen B
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 6, XXL
 - **Armor:** 104 (Stealth)
@@ -48,7 +48,7 @@
 
 ## Wulfen C
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 10, XXL
 - **Armor:** 104 (Stealth)
@@ -63,7 +63,7 @@
 
 ## Wulfen D
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)
@@ -79,7 +79,7 @@
 
 ## Wulfen E
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XXL
 - **Armor:** 104 (Stealth)
@@ -98,7 +98,7 @@
 
 ## Wulfen H
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)

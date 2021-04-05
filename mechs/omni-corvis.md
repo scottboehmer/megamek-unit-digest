@@ -1,7 +1,7 @@
 # Omni-Corvis
 ## Omni-Corvis Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 153 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Omni-Corvis A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 153 (Ferro Fibrous)
@@ -27,7 +27,7 @@
 
 ## Omni-Corvis B
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 153 (Ferro Fibrous)

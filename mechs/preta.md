@@ -1,23 +1,7 @@
 # Preta
-## Preta C-PRT-O (Kendali)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 8, Light
-- **Armor:** 144
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Light PPC w/ PPC Capacitor
-  - Small VSP Laser
-- **Equipment:**
-  - C3i
-  - TAG
-- **Battle Value:** unknown
-
 ## Preta C-PRT-O Invictus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
 - **Armor:** 144
@@ -35,7 +19,7 @@
 
 ## Preta C-PRT-OA Dominus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, Light
 - **Armor:** 144
@@ -50,7 +34,7 @@
 
 ## Preta C-PRT-OB Infernus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
 - **Armor:** 144
@@ -65,7 +49,7 @@
 
 ## Preta C-PRT-OC Comminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
 - **Armor:** 144
@@ -83,7 +67,7 @@
 
 ## Preta C-PRT-OD Luminos
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
 - **Armor:** 144
@@ -97,9 +81,25 @@
   - C3i
 - **Battle Value:** unknown
 
+## Preta C-PRT-O (Kendali)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 8, Light
+- **Armor:** 144
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC w/ PPC Capacitor
+  - Small VSP Laser
+- **Equipment:**
+  - C3i
+  - TAG
+- **Battle Value:** unknown
+
 ## Preta C-PRT-OE Eminus
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
 - **Armor:** 144
@@ -116,7 +116,7 @@
 
 ## Preta C-PRT-OS Caelestis
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed
+- **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
 - **Armor:** 144

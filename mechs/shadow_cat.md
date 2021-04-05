@@ -1,7 +1,7 @@
 # Shadow Cat
 ## Shadow Cat Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3003)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Shadow Cat A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3003)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Shadow Cat B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3003)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -45,9 +45,39 @@
   - Active Probe
 - **Battle Value:** 2336
 
+## Shadow Cat TC
+- **Role:** Undefined
+- **Tech Base:** Clan (3050)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 6, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Small Pulse Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - SRM 4 (ammo: 25)
+- **Equipment:**
+  - MASC
+  - Active Probe
+- **Battle Value:** 1315
+
+## Shadow Cat M
+- **Role:** Undefined
+- **Tech Base:** Clan (3054)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 6, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Large Pulse Laser × 2
+  - ER Medium Laser × 2
+- **Equipment:**
+  - MASC
+- **Battle Value:** 2438
+
 ## Shadow Cat C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -62,7 +92,7 @@
 
 ## Shadow Cat D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -77,9 +107,39 @@
   - MASC
 - **Battle Value:** 2256
 
+## Shadow Cat H
+- **Role:** Undefined
+- **Tech Base:** Clan (3062)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 6, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Heavy Large Laser
+  - LRM 20 w/ Artemis IV (ammo: 12)
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+- **Battle Value:** 2113
+
+## Shadow Cat J
+- **Role:** Undefined
+- **Tech Base:** Clan (3071)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 6, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - AP Gauss Rifle × 6 (ammo: 40)
+  - HAG 20 (ammo: 12)
+- **Equipment:**
+  - MASC
+  - Active Probe
+- **Battle Value:** 1785
+
 ## Shadow Cat E
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3098)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -93,7 +153,7 @@
 
 ## Shadow Cat F
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed
+- **Tech Base:** Clan Mixed (3131)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -106,24 +166,9 @@
   - MASC
 - **Battle Value:** 2948
 
-## Shadow Cat H
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 6, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Heavy Large Laser
-  - LRM 20 w/ Artemis IV (ammo: 12)
-- **Equipment:**
-  - MASC
-  - Targeting Computer
-- **Battle Value:** 2113
-
 ## Shadow Cat I
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3136)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -137,38 +182,9 @@
   - MASC
 - **Battle Value:** 2366
 
-## Shadow Cat J
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 6, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - AP Gauss Rifle × 6 (ammo: 40)
-  - HAG 20 (ammo: 12)
-- **Equipment:**
-  - MASC
-  - Active Probe
-- **Battle Value:** 1785
-
-## Shadow Cat M
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 6, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Large Pulse Laser × 2
-  - ER Medium Laser × 2
-- **Equipment:**
-  - MASC
-- **Battle Value:** 2438
-
 ## Shadow Cat T
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -180,20 +196,4 @@
   - Active Probe
   - MASC
 - **Battle Value:** 1810
-
-## Shadow Cat TC
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 6, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Small Pulse Laser × 2
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - SRM 4 (ammo: 25)
-- **Equipment:**
-  - MASC
-  - Active Probe
-- **Battle Value:** 1315
 

@@ -1,7 +1,7 @@
 # Turkina
 ## Turkina Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 288
@@ -14,7 +14,7 @@
 
 ## Turkina A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 288
@@ -26,7 +26,7 @@
 
 ## Turkina B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 288
@@ -42,7 +42,7 @@
 
 ## Turkina D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 288
@@ -52,21 +52,9 @@
   - ER Medium Laser × 2
 - **Battle Value:** 2565
 
-## Turkina E
-- **Role:** Undefined
-- **Tech Base:** Clan
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
-- **Armor:** 288
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Streak SRM 6 × 6 (ammo: 60)
-  - HAG 40 (ammo: 12)
-- **Battle Value:** 3099
-
 ## Turkina H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 288
@@ -78,4 +66,16 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 2640
+
+## Turkina E
+- **Role:** Undefined
+- **Tech Base:** Clan (3070)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 288
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Streak SRM 6 × 6 (ammo: 60)
+  - HAG 40 (ammo: 12)
+- **Battle Value:** 3099
 

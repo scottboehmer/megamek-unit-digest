@@ -1,7 +1,7 @@
 # Vulture Mk IV (Mad Dog Mk IV)
 ## Vulture Mk IV (Mad Dog Mk IV) Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201 (Ferro Lamellor)
@@ -15,7 +15,7 @@
 
 ## Vulture Mk IV (Mad Dog Mk IV) A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201 (Ferro Lamellor)
@@ -29,7 +29,7 @@
 
 ## Vulture Mk IV (Mad Dog Mk IV) B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201 (Ferro Lamellor)
@@ -43,7 +43,7 @@
 
 ## Vulture Mk IV (Mad Dog Mk IV) C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201 (Ferro Lamellor)
@@ -58,7 +58,7 @@
 
 ## Vulture Mk IV (Mad Dog Mk IV) D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201 (Ferro Lamellor)

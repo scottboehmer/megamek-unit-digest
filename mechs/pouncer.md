@@ -1,7 +1,7 @@
 # Pouncer
 ## Pouncer Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Pouncer A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Pouncer B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -41,7 +41,7 @@
 
 ## Pouncer C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -54,7 +54,7 @@
 
 ## Pouncer D
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -69,7 +69,7 @@
 
 ## Pouncer E
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3061)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -82,7 +82,7 @@
 
 ## Pouncer H
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 115 (Ferro Fibrous)

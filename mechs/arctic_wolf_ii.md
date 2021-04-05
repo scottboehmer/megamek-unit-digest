@@ -1,7 +1,7 @@
 # Arctic Wolf II
 ## Arctic Wolf II Prime
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 124 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Arctic Wolf II A
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 124 (Ferro Fibrous)
@@ -29,7 +29,7 @@
 
 ## Arctic Wolf II B
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 124 (Ferro Fibrous)
@@ -42,7 +42,7 @@
 
 ## Arctic Wolf II C
 - **Role:** Undefined
-- **Tech Base:** Clan
+- **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 124 (Ferro Fibrous)
