@@ -1,7 +1,7 @@
 # Matador
 ## Matador (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2846)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -17,7 +17,7 @@
 
 ## Matador 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192

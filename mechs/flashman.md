@@ -1,20 +1,7 @@
 # Flashman
-## Flashman FLS-7K
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 216
-- **Heat Sinks:** 23 (23)
-- **Weapons:**
-  - Large Laser × 2
-  - Medium Laser × 5
-  - Flamer
-- **Battle Value:** 1480
-
 ## Flashman FLS-8K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2701)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 216
@@ -26,9 +13,52 @@
   - Flamer
 - **Battle Value:** 1779
 
+## Flashman FLS-7K
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2796)
+- **Chassis:** 75 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 216
+- **Heat Sinks:** 23 (23)
+- **Weapons:**
+  - Large Laser × 2
+  - Medium Laser × 5
+  - Flamer
+- **Battle Value:** 1480
+
+## Flashman FLS-9C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3061)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 215 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Large Laser × 3
+  - Medium Pulse Laser × 4
+  - Medium Laser
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
+
+## Flashman FLS-C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3063)
+- **Chassis:** 75 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Large Laser × 3
+  - Medium Laser × 5
+  - Anti-Missile System (ammo: 12)
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1774
+
 ## Flashman FLS-9B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 220 (Light Ferro Fibrous)
@@ -44,24 +74,9 @@
   - C3i
 - **Battle Value:** unknown
 
-## Flashman FLS-9C
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 215 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER Large Laser × 3
-  - Medium Pulse Laser × 4
-  - Medium Laser
-- **Equipment:**
-  - C3i
-- **Battle Value:** unknown
-
 ## Flashman FLS-9M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 220 (Light Ferro Fibrous)
@@ -72,19 +87,4 @@
   - Medium Pulse Laser × 4
   - Small Laser
 - **Battle Value:** 1895
-
-## Flashman FLS-C
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 75 tons
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 216
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Large Laser × 3
-  - Medium Laser × 5
-  - Anti-Missile System (ammo: 12)
-- **Equipment:**
-  - C3 Slave
-- **Battle Value:** 1774
 

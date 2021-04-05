@@ -1,7 +1,7 @@
 # Burrock
 ## Burrock 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3073)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 200

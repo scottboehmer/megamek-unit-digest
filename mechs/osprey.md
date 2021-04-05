@@ -1,7 +1,7 @@
 # Osprey
 ## Osprey OSP-15
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2738)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 176
@@ -16,7 +16,7 @@
 
 ## Osprey OSP-25
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 176
@@ -31,7 +31,7 @@
 
 ## Osprey OSP-26
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 176
@@ -48,7 +48,7 @@
 
 ## Osprey OSP-26 (Lawrence)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 5, XL
 - **Armor:** 176

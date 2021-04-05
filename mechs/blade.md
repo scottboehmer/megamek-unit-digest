@@ -1,20 +1,7 @@
 # Blade
-## Blade BLD-7R
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
-- **Armor:** 116 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - ER Medium Laser
-  - ER Small Laser
-- **Battle Value:** 1227
-
 ## Blade BLD-XL
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 118 (Light Ferro Fibrous)
@@ -29,7 +16,7 @@
 
 ## Blade BLD-XS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 118 (Light Ferro Fibrous)
@@ -44,7 +31,7 @@
 
 ## Blade BLD-XX
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 118 (Light Ferro Fibrous)
@@ -56,4 +43,17 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1064
+
+## Blade BLD-7R
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3094)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 116 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - RAC/5 (ammo: 60)
+  - ER Medium Laser
+  - ER Small Laser
+- **Battle Value:** 1227
 

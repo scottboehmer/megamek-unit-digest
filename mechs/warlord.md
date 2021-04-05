@@ -1,7 +1,7 @@
 # Warlord
 ## Warlord BLR-2D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 232
@@ -11,9 +11,21 @@
   - ER Medium Laser × 6
 - **Battle Value:** 2041
 
+## Warlord BLR-2G
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 80 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 247
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Heavy PPC × 2
+  - Medium Laser × 12
+- **Battle Value:** 2033
+
 ## Warlord BLR-2Dr
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0
 - **Armor:** 232
@@ -29,16 +41,4 @@
 - **Equipment:**
   - C3 Slave
 - **Battle Value:** 2284
-
-## Warlord BLR-2G
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 247
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Heavy PPC × 2
-  - Medium Laser × 12
-- **Battle Value:** 2033
 

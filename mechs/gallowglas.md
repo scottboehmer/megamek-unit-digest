@@ -1,7 +1,7 @@
 # Gallowglas
 ## Gallowglas GAL-1GLS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
 - **Armor:** 192
@@ -15,7 +15,7 @@
 
 ## Gallowglas GAL-2GLS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
 - **Armor:** 192
@@ -28,25 +28,22 @@
   - CASE
 - **Battle Value:** 1857
 
-## Gallowglas GAL-2GLSA
+## Gallowglas WD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Clan (3055)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 5 / 8 / 3
 - **Armor:** 192
-- **Heat Sinks:** 14 (28)
+- **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Pulse Laser
-  - Heavy PPC
-  - Light PPC
-  - Large Laser × 2
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1771
+  - Small Pulse Laser × 2
+  - ER PPC
+  - ER Medium Laser × 2
+- **Battle Value:** 2094
 
 ## Gallowglas GAL-3GLS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
 - **Armor:** 208
@@ -63,7 +60,7 @@
 
 ## Gallowglas GAL-4GLS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -78,7 +75,7 @@
 
 ## Gallowglas GAL-4GLSA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -93,16 +90,19 @@
   - CASE
 - **Battle Value:** 2017
 
-## Gallowglas WD
+## Gallowglas GAL-2GLSA
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 3
+- **Movement:** 4 / 6 / 3
 - **Armor:** 192
-- **Heat Sinks:** 15 (30)
+- **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Small Pulse Laser × 2
-  - ER PPC
-  - ER Medium Laser × 2
-- **Battle Value:** 2094
+  - Medium Pulse Laser
+  - Heavy PPC
+  - Light PPC
+  - Large Laser × 2
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1771
 

@@ -1,7 +1,7 @@
 # Daedalus
 ## Daedalus DAD-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 128
@@ -18,7 +18,7 @@
 
 ## Daedalus DAD-3D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, XL
 - **Armor:** 153
@@ -35,7 +35,7 @@
 
 ## Daedalus DAD-4A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (14) / 6, XL
 - **Armor:** 136
@@ -53,7 +53,7 @@
 
 ## Daedalus DAD-4B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 152

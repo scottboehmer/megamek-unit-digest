@@ -1,7 +1,7 @@
 # Ursus
 ## Ursus (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 163 (Ferro Fibrous)
@@ -18,7 +18,7 @@
 
 ## Ursus 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3074)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 169 (Ferro Fibrous)

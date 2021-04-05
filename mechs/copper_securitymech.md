@@ -1,7 +1,7 @@
 # Copper SecurityMech
 ## Copper SecurityMech CPK-19
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2619)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
 - **Armor:** 80
@@ -14,7 +14,7 @@
 
 ## Copper SecurityMech CPK-65
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
 - **Armor:** 80
@@ -28,7 +28,7 @@
 
 ## Copper SecurityMech CPK-65KM
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
 - **Armor:** 80

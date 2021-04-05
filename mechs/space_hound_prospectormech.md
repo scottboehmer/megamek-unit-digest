@@ -1,7 +1,7 @@
 # Space Hound ProspectorMech
 ## Space Hound ProspectorMech AM-PRM-SH1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 40 tons (Industrial)
 - **Movement:** 4 / 6 / 1
 - **Armor:** 104

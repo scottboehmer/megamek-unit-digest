@@ -1,7 +1,7 @@
 # Copperhead
 ## Copperhead CPR-HD-002
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 2, XL
 - **Armor:** 80 (Ferro Fibrous)

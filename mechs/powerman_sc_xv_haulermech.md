@@ -1,7 +1,7 @@
 # Powerman SC XV HaulerMech
 ## Powerman SC XV HaulerMech (Standard)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2795)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
 - **Armor:** 60 (Commercial)

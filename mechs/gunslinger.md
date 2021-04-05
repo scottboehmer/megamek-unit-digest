@@ -1,7 +1,7 @@
 # Gunslinger
 ## Gunslinger GUN-1ERD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 2, XL
 - **Armor:** 248
@@ -16,9 +16,24 @@
   - Beagle Active Probe
 - **Battle Value:** 2286
 
+## Gunslinger GUN-2ERD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 85 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 248
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Gauss Rifle × 2 (ammo: 40)
+  - ER Medium Laser × 4
+- **Equipment:**
+  - C3 Master
+  - Guardian ECM Suite
+- **Battle Value:** 2423
+
 ## Gunslinger GUN-1ERD (Jared)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 263
@@ -34,24 +49,9 @@
   - Beagle Active Probe
 - **Battle Value:** 1813
 
-## Gunslinger GUN-2ERD
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3, XL
-- **Armor:** 248
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle × 2 (ammo: 40)
-  - ER Medium Laser × 4
-- **Equipment:**
-  - C3 Master
-  - Guardian ECM Suite
-- **Battle Value:** 2423
-
 ## Gunslinger GUN-2ERDr
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 248

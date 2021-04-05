@@ -1,7 +1,7 @@
 # Scourge
 ## Scourge SCG-WD1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3131)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
 - **Armor:** 211
@@ -14,7 +14,7 @@
 
 ## Scourge SCG-WF1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
 - **Armor:** 211 (Light Ferro Fibrous)

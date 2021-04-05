@@ -1,7 +1,7 @@
 # Clint IIC
 ## Clint IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2842)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 112
@@ -13,7 +13,7 @@
 
 ## Clint IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
 - **Armor:** 134 (Ferro Fibrous)

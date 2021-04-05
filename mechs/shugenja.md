@@ -1,7 +1,7 @@
 # Shugenja
 ## Shugenja SJA-7D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 231 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Shugenja SJA-8H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 231

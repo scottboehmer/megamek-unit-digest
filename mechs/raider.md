@@ -1,7 +1,7 @@
 # Raider
 ## Raider JL-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 50 tons
 - **Movement:** 4 (5) / 6 (8) / 0, IC
 - **Armor:** 112

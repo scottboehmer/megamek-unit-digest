@@ -1,7 +1,7 @@
 # Daikyu
 ## Daikyu DAI-01
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192
@@ -15,26 +15,9 @@
   - CASE
 - **Battle Value:** 1603
 
-## Daikyu DAI-01r
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - ER PPC
-  - Medium Laser
-  - LRM 5 (ammo: 24)
-- **Equipment:**
-  - CASE
-  - C3 Boosted Slave
-- **Battle Value:** 1513
-
 ## Daikyu DAI-02
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 192
@@ -48,9 +31,23 @@
   - CASE
 - **Battle Value:** 1831
 
+## Daikyu DAI-01 (Tabitha)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3064)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 208
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - LB 5-X AC × 2 (ammo: 40 Cluster, 40 Standard)
+  - Clan ER PPC
+  - LRM 5 (ammo: 24)
+  - Medium Laser
+- **Battle Value:** 1804
+
 ## Daikyu DAI-03
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light
 - **Armor:** 188 (Ferro Fibrous)
@@ -64,4 +61,21 @@
   - MASC
   - CASE
 - **Battle Value:** 1692
+
+## Daikyu DAI-01r
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - ER PPC
+  - Medium Laser
+  - LRM 5 (ammo: 24)
+- **Equipment:**
+  - CASE
+  - C3 Boosted Slave
+- **Battle Value:** 1513
 

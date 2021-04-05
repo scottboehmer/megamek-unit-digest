@@ -1,7 +1,7 @@
 # Sun Cobra
 ## Sun Cobra (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3074)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 128
@@ -14,7 +14,7 @@
 
 ## Sun Cobra 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3093)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 184

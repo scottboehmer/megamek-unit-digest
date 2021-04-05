@@ -1,7 +1,7 @@
 # Stinger IIC
 ## Stinger IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3085)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 67 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Stinger IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3086)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 67 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Anzu
 ## Anzu ZU-G60
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 176
@@ -18,7 +18,7 @@
 
 ## Anzu ZU-J70
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3106)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 176

@@ -1,7 +1,7 @@
 # Devastator
 ## Devastator DVS-1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3036)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 288
@@ -14,7 +14,7 @@
 
 ## Devastator DVS-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 296
@@ -27,7 +27,7 @@
 
 ## Devastator DVS-3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304

@@ -1,7 +1,7 @@
 # Dragon II
 ## Dragon II DRG-11K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3099)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 211 (Light Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Dragon II DRG-11R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3102)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 211 (Light Ferro Fibrous)

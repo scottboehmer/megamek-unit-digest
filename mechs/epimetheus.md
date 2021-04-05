@@ -1,7 +1,7 @@
 # Epimetheus
 ## Epimetheus Prime
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3053)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 220 (Ferro Fibrous)

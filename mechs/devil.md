@@ -1,7 +1,7 @@
 # Devil
 ## Devil (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2911)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL
 - **Armor:** 96 (Ferro Fibrous)

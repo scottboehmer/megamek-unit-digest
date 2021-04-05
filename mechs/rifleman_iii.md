@@ -1,7 +1,7 @@
 # Rifleman III
 ## Rifleman III RF2-A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2776)
 - **Chassis:** 90 tons
 - **Movement:** 2 / 3 / 0, XL
 - **Armor:** 168

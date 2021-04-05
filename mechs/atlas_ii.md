@@ -1,7 +1,7 @@
 # Atlas II
 ## Atlas II AS7-D-H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304 (Ferro Fibrous)
@@ -16,9 +16,26 @@
   - CASE
 - **Battle Value:** 2169
 
+## Atlas II AS7-D-H2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2780)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 304 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER PPC
+  - Gauss Rifle (ammo: 16)
+  - SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 2
+  - LRM 20 (ammo: 12)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2340
+
 ## Atlas II AS7-D-H (Kerensky)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2833)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307 (Ferro Fibrous)
@@ -33,21 +50,4 @@
   - Active Probe
   - ECM Suite
 - **Battle Value:** 2687
-
-## Atlas II AS7-D-H2
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 304 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - Gauss Rifle (ammo: 16)
-  - SRM 6 (ammo: 15)
-  - Medium Pulse Laser × 2
-  - LRM 20 (ammo: 12)
-- **Equipment:**
-  - CASE
-- **Battle Value:** 2340
 

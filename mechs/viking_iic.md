@@ -1,7 +1,7 @@
 # Viking IIC
 ## Viking IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3095)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 4 / 0
 - **Armor:** 248 (Hardened)

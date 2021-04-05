@@ -1,7 +1,7 @@
 # Omen
 ## Omen (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3087)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 263

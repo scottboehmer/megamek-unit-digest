@@ -1,7 +1,7 @@
 # Black Watch
 ## Black Watch BKW-7R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 240
@@ -17,7 +17,7 @@
 
 ## Black Watch BKW-9R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 263

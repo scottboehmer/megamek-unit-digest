@@ -1,7 +1,7 @@
 # Stalker II
 ## Stalker II STK-9A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3137)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 4 / 0
 - **Armor:** 216 (Hardened)

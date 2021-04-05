@@ -1,7 +1,7 @@
 # War Dog
 ## War Dog WR-DG-02FC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 215 (Ferro Fibrous)
@@ -19,7 +19,7 @@
 
 ## War Dog WR-DG-03FC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 215 (Ferro Fibrous)

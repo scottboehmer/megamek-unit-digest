@@ -1,7 +1,7 @@
 # Spector
 ## Spector SPR-4F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2640)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 119
@@ -17,7 +17,7 @@
 
 ## Spector SPR-5F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 119
@@ -32,7 +32,7 @@
 
 ## Spector SPR-5S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 119 (Stealth)
@@ -47,7 +47,7 @@
 
 ## Spector SPR-ST
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 119 (Stealth)

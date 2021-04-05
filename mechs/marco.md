@@ -1,7 +1,7 @@
 # Marco
 ## Marco MR-8D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 64
@@ -16,7 +16,7 @@
 
 ## Marco MR-8E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 64

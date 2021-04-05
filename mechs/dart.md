@@ -1,7 +1,7 @@
 # Dart
 ## Dart DRT-3S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 25 tons
 - **Movement:** 9 / 14 / 0
 - **Armor:** 56
@@ -12,7 +12,7 @@
 
 ## Dart DRT-4S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 25 tons
 - **Movement:** 9 / 14 / 0
 - **Armor:** 56
@@ -23,7 +23,7 @@
 
 ## Dart DRT-6S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 25 tons
 - **Movement:** 9 / 14 / 0
 - **Armor:** 80 (Ferro Fibrous)
@@ -34,7 +34,7 @@
 
 ## Dart DRT-6T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 25 tons
 - **Movement:** 9 / 14 / 0, Light
 - **Armor:** 80 (Ferro Fibrous)

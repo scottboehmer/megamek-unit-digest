@@ -1,7 +1,7 @@
 # Buster BC XV-M-C HaulerMech
 ## Buster BC XV-M-C HaulerMech MOD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
 - **Armor:** 96 (Commercial)

@@ -1,7 +1,7 @@
 # Heavy Lifter HCL-1 CargoMech
 ## Heavy Lifter HCL-1 CargoMech (Standard)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons Quad (Industrial)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 155 (Industrial)

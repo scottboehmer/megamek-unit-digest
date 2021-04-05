@@ -1,7 +1,20 @@
 # Goshawk (Vapor Eagle)
+## Goshawk (Vapor Eagle) 6
+- **Role:** Undefined
+- **Tech Base:** Clan (2840)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Machine Gun × 4 (ammo: 100)
+  - ER Medium Laser × 3
+  - Ultra AC/2 × 2 (ammo: 90)
+- **Battle Value:** 1689
+
 ## Goshawk (Vapor Eagle) (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2863)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -17,7 +30,7 @@
 
 ## Goshawk (Vapor Eagle) 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2912)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -30,9 +43,24 @@
   - Targeting Computer
 - **Battle Value:** 1931
 
+## Goshawk (Vapor Eagle) 5
+- **Role:** Undefined
+- **Tech Base:** Clan (2922)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Machine Gun × 4 (ammo: 100)
+  - Medium Pulse Laser × 4
+  - LRM 20 w/ Artemis IV (ammo: 18)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 2494
+
 ## Goshawk (Vapor Eagle) 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3062)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -48,7 +76,7 @@
 
 ## Goshawk (Vapor Eagle) 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 172 (Ferro Fibrous)
@@ -59,24 +87,9 @@
   - ATM 6 × 2 (ammo: 20)
 - **Battle Value:** 1913
 
-## Goshawk (Vapor Eagle) 5
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
-- **Armor:** 172 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Machine Gun × 4 (ammo: 100)
-  - Medium Pulse Laser × 4
-  - LRM 20 w/ Artemis IV (ammo: 18)
-- **Equipment:**
-  - Targeting Computer
-- **Battle Value:** 2494
-
 ## Goshawk (Vapor Eagle) 7
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3136)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (15) / 0, XL
 - **Armor:** 172 (Ferro Fibrous)

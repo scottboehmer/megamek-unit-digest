@@ -1,7 +1,7 @@
 # Viking
 ## Viking VKG-2F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 248
@@ -17,7 +17,7 @@
 
 ## Viking VKG-2G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
@@ -32,25 +32,9 @@
   - CASE
 - **Battle Value:** 2152
 
-## Viking VKG-3A
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
-- **Armor:** 279
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 28 SRM)
-  - Arrow IV (ammo: 20)
-  - Medium Pulse Laser × 2
-  - Small Pulse Laser
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1849
-
 ## Viking VKG-3W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
@@ -63,4 +47,20 @@
   - CASE
   - C3i
 - **Battle Value:** unknown
+
+## Viking VKG-3A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3074)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0, Compact
+- **Armor:** 279
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 28 SRM)
+  - Arrow IV (ammo: 20)
+  - Medium Pulse Laser × 2
+  - Small Pulse Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1849
 

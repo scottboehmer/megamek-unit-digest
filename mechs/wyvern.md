@@ -1,24 +1,7 @@
 # Wyvern
-## Wyvern WVE-10N
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
-- **Armor:** 128
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser
-  - LRM 10 (ammo: 12)
-- **Equipment:**
-  - CASE
-  - Guardian ECM Suite
-  - C3i
-- **Battle Value:** unknown
-
 ## Wyvern WVE-5N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 152
@@ -34,7 +17,7 @@
 
 ## Wyvern WVE-5Nb
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 152
@@ -51,7 +34,7 @@
 
 ## Wyvern WVE-5Nsl
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 152
@@ -67,7 +50,7 @@
 
 ## Wyvern WVE-6N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 136
@@ -81,7 +64,7 @@
 
 ## Wyvern WVE-9N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 128
@@ -94,4 +77,21 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1067
+
+## Wyvern WVE-10N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3065)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4
+- **Armor:** 128
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER PPC
+  - Medium Pulse Laser
+  - LRM 10 (ammo: 12)
+- **Equipment:**
+  - CASE
+  - Guardian ECM Suite
+  - C3i
+- **Battle Value:** unknown
 

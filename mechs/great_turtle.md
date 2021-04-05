@@ -1,7 +1,7 @@
 # Great Turtle
 ## Great Turtle GTR-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 100 tons Quad (Endo Steel)
 - **Movement:** 3 / 4 / 3
 - **Armor:** 323 (Hardened)

@@ -1,7 +1,7 @@
 # Komodo
 ## Komodo KIM-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 120
@@ -16,7 +16,7 @@
 
 ## Komodo KIM-2A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 120
@@ -32,7 +32,7 @@
 
 ## Komodo KIM-2C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 120
@@ -47,7 +47,7 @@
 
 ## Komodo KIM-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 120

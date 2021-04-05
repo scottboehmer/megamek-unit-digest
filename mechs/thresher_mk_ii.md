@@ -1,7 +1,7 @@
 # Thresher Mk II
 ## Thresher Mk II (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3149)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (13) / 5, XL
 - **Armor:** 152 (Laser Reflective)

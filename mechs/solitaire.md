@@ -1,7 +1,7 @@
 # Solitaire
 ## Solitaire (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3064)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL
 - **Armor:** 86 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Solitaire 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3080)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
 - **Armor:** 86 (Ferro Fibrous)

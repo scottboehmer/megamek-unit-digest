@@ -1,7 +1,7 @@
 # Ostwar
 ## Ostwar OWR-2M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2470)
 - **Chassis:** 65 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 187 (Primitive)
@@ -15,7 +15,7 @@
 
 ## Ostwar OWR-2Mb
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2620)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192
@@ -29,7 +29,7 @@
 
 ## Ostwar OWR-3M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 195 (Light Ferro Fibrous)

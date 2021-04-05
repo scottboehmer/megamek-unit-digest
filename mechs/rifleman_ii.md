@@ -1,7 +1,7 @@
 # Rifleman II
 ## Rifleman II RFL-3N-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2720)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -16,7 +16,7 @@
 
 ## Rifleman II RFL-3N-2 (Kataga)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 240

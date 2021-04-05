@@ -1,7 +1,7 @@
 # Toro
 ## Toro TR-A-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2481)
 - **Chassis:** 35 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 112 (Primitive)
@@ -14,7 +14,7 @@
 
 ## Toro TR-A-6
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2548)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 104

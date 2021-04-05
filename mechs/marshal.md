@@ -1,7 +1,23 @@
 # Marshal
+## Marshal MHL-X1
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3059)
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 / 4
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 18 (18)
+- **Weapons:**
+  - Medium Laser
+  - Large Laser
+  - Machine Gun × 2 (ammo: 100)
+  - Medium Pulse Laser
+  - LRM 5 (ammo: 24)
+  - Flamer
+- **Battle Value:** 1163
+
 ## Marshal MHL-2L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 179 (Ferro Fibrous)
@@ -15,38 +31,9 @@
   - Flamer
 - **Battle Value:** 1313
 
-## Marshal MHL-3MC
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 4
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Medium Laser
-  - TSEMP
-  - Machine Gun × 2 (ammo: 100)
-  - Medium Pulse Laser
-  - MML 9 (ammo: 13 LRM, 22 SRM)
-  - Flamer
-- **Battle Value:** 1714
-
-## Marshal MHL-6FR
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 6, Light
-- **Armor:** 185
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Snub-Nose PPC
-  - Medium X-Pulse Laser × 3
-  - Flamer
-- **Battle Value:** 1429
-
 ## Marshal MHL-6MC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 179 (Ferro Fibrous)
@@ -61,19 +48,32 @@
   - MG Array
 - **Battle Value:** 1457
 
-## Marshal MHL-X1
+## Marshal MHL-6FR
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3086)
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 / 6, Light
+- **Armor:** 185
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Snub-Nose PPC
+  - Medium X-Pulse Laser × 3
+  - Flamer
+- **Battle Value:** 1429
+
+## Marshal MHL-3MC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3119)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 18 (18)
+- **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Medium Laser
-  - Large Laser
+  - TSEMP
   - Machine Gun × 2 (ammo: 100)
   - Medium Pulse Laser
-  - LRM 5 (ammo: 24)
+  - MML 9 (ammo: 13 LRM, 22 SRM)
   - Flamer
-- **Battle Value:** 1163
+- **Battle Value:** 1714
 

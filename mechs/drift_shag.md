@@ -1,7 +1,7 @@
 # Drift Shag
 ## Drift Shag
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2827)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
 - **Armor:** 96

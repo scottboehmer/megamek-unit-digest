@@ -1,7 +1,7 @@
 # Snow Fox
 ## Snow Fox (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3015)
 - **Chassis:** 20 tons Quad
 - **Movement:** 8 / 12 (16) / 0
 - **Armor:** 73 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Snow Fox 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3015)
 - **Chassis:** 20 tons Quad
 - **Movement:** 8 / 12 (16) / 0
 - **Armor:** 48 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Snow Fox 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3072)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 57 (Ferro Fibrous)

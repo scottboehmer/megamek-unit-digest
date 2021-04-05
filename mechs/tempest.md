@@ -1,21 +1,7 @@
 # Tempest
-## Tempest TMP-3G
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
-- **Armor:** 200
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Large Pulse Laser
-  - Gauss Rifle (ammo: 24)
-  - SRM 4 (ammo: 25)
-  - Medium Laser × 3
-- **Battle Value:** 1810
-
 ## Tempest TMP-3M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 200
@@ -27,9 +13,37 @@
   - Medium Laser × 3
 - **Battle Value:** 1786
 
+## Tempest TMP-3G
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3056)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 200
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Large Pulse Laser
+  - Gauss Rifle (ammo: 24)
+  - SRM 4 (ammo: 25)
+  - Medium Laser × 3
+- **Battle Value:** 1810
+
+## Tempest TMP-3MA
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3056)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 200
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Large Pulse Laser
+  - AC/10 (ammo: 40)
+  - SRM 6 (ammo: 15)
+  - Medium Laser × 3
+- **Battle Value:** 1425
+
 ## Tempest TMP-3M2 'Storm Tempest'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 211
@@ -41,18 +55,4 @@
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
 - **Battle Value:** 1642
-
-## Tempest TMP-3MA
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
-- **Armor:** 200
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Large Pulse Laser
-  - AC/10 (ammo: 40)
-  - SRM 6 (ammo: 15)
-  - Medium Laser × 3
-- **Battle Value:** 1425
 

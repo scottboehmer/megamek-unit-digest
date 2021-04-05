@@ -1,7 +1,7 @@
 # Bakeneko
 ## Bakeneko BKN-1K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3100)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 184

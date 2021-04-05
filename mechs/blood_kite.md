@@ -1,7 +1,7 @@
 # Blood Kite
 ## Blood Kite (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2907)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 240
@@ -14,7 +14,7 @@
 
 ## Blood Kite 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3066)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 240

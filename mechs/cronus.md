@@ -1,7 +1,7 @@
 # Cronus
 ## Cronus CNS-3M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3031)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 168
@@ -14,7 +14,7 @@
 
 ## Cronus CNS-5M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 168
@@ -31,7 +31,7 @@
 
 ## Cronus CNS-TD9
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 120 (Stealth)

@@ -1,7 +1,7 @@
 # Rampage
 ## Rampage RMP-2G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 224
@@ -17,7 +17,7 @@
 
 ## Rampage RMP-4G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
 - **Armor:** 248
@@ -35,7 +35,7 @@
 
 ## Rampage RMP-4G (Benboudaoud)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 263
@@ -54,7 +54,7 @@
 
 ## Rampage RMP-5G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2767)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
 - **Armor:** 256

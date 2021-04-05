@@ -1,7 +1,18 @@
 # Javelin
+## Javelin JVN-10N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2751)
+- **Chassis:** 30 tons
+- **Movement:** 6 / 9 / 6
+- **Armor:** 64
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - SRM 6 × 2 (ammo: 30)
+- **Battle Value:** 594
+
 ## Javelin JVN-10A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6
 - **Armor:** 64
@@ -12,7 +23,7 @@
 
 ## Javelin JVN-10F 'Fire Javelin'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6
 - **Armor:** 96
@@ -21,20 +32,9 @@
   - Medium Laser × 4
 - **Battle Value:** 835
 
-## Javelin JVN-10N
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 30 tons
-- **Movement:** 6 / 9 / 6
-- **Armor:** 64
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
-- **Battle Value:** 594
-
 ## Javelin JVN-10P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6
 - **Armor:** 64
@@ -46,7 +46,7 @@
 
 ## Javelin JVN-11A 'Fire Javelin'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6
 - **Armor:** 89 (Ferro Fibrous)
@@ -57,7 +57,7 @@
 
 ## Javelin JVN-11B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 0
 - **Armor:** 89 (Ferro Fibrous)
@@ -72,7 +72,7 @@
 
 ## Javelin JVN-11D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 96
@@ -87,7 +87,7 @@
 
 ## Javelin JVN-11D (Farrell)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3068)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 96
@@ -102,7 +102,7 @@
 
 ## Javelin JVN-11F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 96
@@ -116,7 +116,7 @@
 
 ## Javelin JVN-11P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6
 - **Armor:** 89 (Ferro Fibrous)

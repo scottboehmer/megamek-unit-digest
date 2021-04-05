@@ -1,7 +1,7 @@
 # Kuma
 ## Kuma (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3082)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Kuma 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3083)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 201 (Ferro Fibrous)

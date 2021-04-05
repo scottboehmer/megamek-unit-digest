@@ -1,22 +1,7 @@
 # Champion
-## Champion C
-- **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 192 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Medium Pulse Laser × 2
-  - SRM 6 w/ Artemis IV (ammo: 15)
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Small Pulse Laser × 2
-- **Battle Value:** 2084
-
 ## Champion CHP-1N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2602)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 143 (Ferro Fibrous)
@@ -30,7 +15,7 @@
 
 ## Champion CHP-1N2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2667)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 143 (Ferro Fibrous)
@@ -44,7 +29,7 @@
 
 ## Champion CHP-1Nb
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2751)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 143 (Ferro Fibrous)
@@ -56,7 +41,7 @@
 
 ## Champion CHP-2N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2810)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 128
@@ -68,9 +53,24 @@
   - Small Laser × 2
 - **Battle Value:** 1116
 
+## Champion C
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (2867)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 192 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Medium Pulse Laser × 2
+  - SRM 6 w/ Artemis IV (ammo: 15)
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Small Pulse Laser × 2
+- **Battle Value:** 2084
+
 ## Champion CHP-3N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -85,7 +85,7 @@
 
 ## Champion CHP-3P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 168

@@ -1,7 +1,7 @@
 # Highlander IIC
 ## Highlander IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2858)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 278 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Highlander IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3072)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 264
@@ -32,7 +32,7 @@
 
 ## Highlander IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3077)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 278 (Ferro Fibrous)

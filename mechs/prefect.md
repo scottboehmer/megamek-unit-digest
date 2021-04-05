@@ -1,7 +1,7 @@
 # Prefect
 ## Prefect PRF-1R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 215 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Prefect PRF-1R (Veronica)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 224 (Ferro Fibrous)
@@ -32,7 +32,7 @@
 
 ## Prefect PRF-2R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 215 (Ferro Fibrous)

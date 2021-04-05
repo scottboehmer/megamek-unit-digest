@@ -1,7 +1,7 @@
 # Hussar
 ## Hussar HSR-200-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2620)
 - **Chassis:** 30 tons
 - **Movement:** 9 / 14 / 0
 - **Armor:** 26 (Ferro Fibrous)
@@ -12,7 +12,7 @@
 
 ## Hussar HSR-200-Db
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 30 tons
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 98 (Ferro Fibrous)
@@ -26,7 +26,7 @@
 
 ## Hussar HSR-300-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 30 tons
 - **Movement:** 9 / 14 / 0
 - **Armor:** 24
@@ -37,7 +37,7 @@
 
 ## Hussar HSR-350-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3038)
 - **Chassis:** 30 tons
 - **Movement:** 8 / 12 / 0
 - **Armor:** 40
@@ -49,7 +49,7 @@
 
 ## Hussar HSR-400-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 30 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 53 (Ferro Fibrous)
@@ -60,7 +60,7 @@
 
 ## Hussar HSR-500-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 98 (Ferro Fibrous)
@@ -73,7 +73,7 @@
 
 ## Hussar HSR-900-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons
 - **Movement:** 9 / 14 / 0, Light
 - **Armor:** 89 (Heavy Ferro Fibrous)
@@ -86,7 +86,7 @@
 
 ## Hussar HSR-950-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 30 tons
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 105 (Heavy Ferro Fibrous)

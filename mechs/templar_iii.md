@@ -1,7 +1,7 @@
 # Templar III
 ## Templar III TLR2-J 'Arthur'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 263
@@ -18,27 +18,9 @@
   - CASE II
 - **Battle Value:** 2705
 
-## Templar III TLR2-O XYZ
+## Templar III TLR2-OA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
-- **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Medium Laser × 2
-  - SRM 4 (ammo: 25)
-  - ER Small Laser × 2
-- **Equipment:**
-  - CASE
-  - Targeting Computer
-- **Battle Value:** 2028
-
-## Templar III TLR2-OA XYZ
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 263

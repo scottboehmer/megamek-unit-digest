@@ -1,7 +1,7 @@
 # Helepolis
 ## Helepolis HEP-1H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2460)
 - **Chassis:** 75 tons
 - **Movement:** 2 / 3 / 0
 - **Armor:** 219 (Primitive)
@@ -16,7 +16,7 @@
 
 ## Helepolis HEP-2H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2488)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 208
@@ -33,7 +33,7 @@
 
 ## Helepolis HEP-3H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2625)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 208
@@ -50,7 +50,7 @@
 
 ## Helepolis HEP-4H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 208

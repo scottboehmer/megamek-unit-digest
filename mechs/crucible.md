@@ -1,7 +1,7 @@
 # Crucible
 ## Crucible (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3149)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 240
@@ -13,7 +13,7 @@
 
 ## Crucible 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3149)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 232
@@ -28,7 +28,7 @@
 
 ## Crucible 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3150)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 232

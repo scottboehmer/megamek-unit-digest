@@ -1,7 +1,7 @@
 # Falconer
 ## Falconer FLC-8R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 184
@@ -14,7 +14,7 @@
 
 ## Falconer FLC-9R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 184

@@ -1,7 +1,7 @@
 # Falcon
 ## Falcon FLC-4N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2582)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6
 - **Armor:** 96
@@ -14,7 +14,7 @@
 
 ## Falcon FLC-4Nb
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2776)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 88
@@ -24,21 +24,9 @@
   - Snub-Nose PPC
 - **Battle Value:** 947
 
-## Falcon FLC-4Nb (Saho)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
-- **Armor:** 88
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Laser
-  - Large Pulse Laser
-- **Battle Value:** 774
-
 ## Falcon FLC-4Nb-PP
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2792)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 88
@@ -50,7 +38,7 @@
 
 ## Falcon FLC-4Nb-PP2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2795)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 88
@@ -61,9 +49,21 @@
   - Medium Laser
 - **Battle Value:** 947
 
+## Falcon FLC-4Nb (Saho)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2801)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6
+- **Armor:** 88
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser
+  - Large Pulse Laser
+- **Battle Value:** 774
+
 ## Falcon FLC-4P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 5
 - **Armor:** 96
@@ -76,7 +76,7 @@
 
 ## Falcon FLC-5P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 (12) / 5, Light
 - **Armor:** 80
@@ -91,7 +91,7 @@
 
 ## Falcon FLC-6C
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 5
 - **Armor:** 96 (Ferro Fibrous)

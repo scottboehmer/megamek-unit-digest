@@ -1,7 +1,7 @@
 # Hatamoto-Ku
 ## Hatamoto-Ku HTM-27W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247
@@ -13,7 +13,7 @@
 
 ## Hatamoto-Ku HTM-27W2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3115)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247

@@ -1,7 +1,7 @@
 # Garm
 ## Garm GRM-01A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 62 (Ferro Fibrous)
@@ -11,24 +11,9 @@
   - LB 5-X AC (ammo: 20)
 - **Battle Value:** 701
 
-## Garm GRM-01A2
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, Light
-- **Armor:** 67 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 10 (ammo: 12)
-  - Plasma Rifle (ammo: 20)
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1078
-
 ## Garm GRM-01B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 80 (Ferro Fibrous)
@@ -40,7 +25,7 @@
 
 ## Garm GRM-01C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 89 (Ferro Fibrous)
@@ -51,4 +36,19 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1140
+
+## Garm GRM-01A2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, Light
+- **Armor:** 67 (Light Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRM 10 (ammo: 12)
+  - Plasma Rifle (ammo: 20)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1078
 

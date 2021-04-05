@@ -1,7 +1,7 @@
 # UrbanMech IIC
 ## UrbanMech IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2849)
 - **Chassis:** 30 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 96
@@ -13,7 +13,7 @@
 
 ## UrbanMech IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3070)
 - **Chassis:** 30 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 96

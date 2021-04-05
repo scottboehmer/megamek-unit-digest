@@ -1,7 +1,7 @@
 # JagerMech III
 ## JagerMech III JM6-D3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 170 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## JagerMech III JM6-D4
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 211 (Light Ferro Fibrous)

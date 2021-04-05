@@ -1,7 +1,7 @@
 # Tiburon
 ## Tiburon (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3099)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)

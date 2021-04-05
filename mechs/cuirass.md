@@ -1,7 +1,7 @@
 # Cuirass
 ## Cuirass CDR-1X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 128

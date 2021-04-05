@@ -1,7 +1,7 @@
 # Albatross
 ## Albatross ALB-3U
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 208
@@ -17,26 +17,9 @@
   - CASE
 - **Battle Value:** 1668
 
-## Albatross ALB-3Ur
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 208
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - Snub-Nose PPC
-  - Medium Laser × 2
-  - ER Large Laser
-  - MML 9 (ammo: 26 LRM, 22 SRM)
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1902
-
 ## Albatross ALB-4U
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 293 (Ferro Fibrous)
@@ -54,7 +37,7 @@
 
 ## Albatross ALB-5W (Dantalion)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 95 tons
 - **Movement:** 4 (5) / 6 (8) / 0, Light
 - **Armor:** 293 (Heavy Ferro Fibrous)
@@ -72,4 +55,21 @@
 - **Equipment:**
   - Guardian ECM Suite
 - **Battle Value:** 2296
+
+## Albatross ALB-3Ur
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 95 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 208
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - Snub-Nose PPC
+  - Medium Laser × 2
+  - ER Large Laser
+  - MML 9 (ammo: 26 LRM, 22 SRM)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1902
 

@@ -1,7 +1,7 @@
 # Bear Cub
 ## Bear Cub (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3068)
 - **Chassis:** 25 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 72
@@ -15,7 +15,7 @@
 
 ## Bear Cub 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3070)
 - **Chassis:** 25 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 72
@@ -28,7 +28,7 @@
 
 ## Bear Cub 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3071)
 - **Chassis:** 25 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 72

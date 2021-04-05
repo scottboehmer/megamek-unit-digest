@@ -1,7 +1,7 @@
 # Helios
 ## Helios HEL-3D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 144
@@ -16,7 +16,7 @@
 
 ## Helios HEL-4A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 176
@@ -29,25 +29,9 @@
   - CASE
 - **Battle Value:** 1519
 
-## Helios HEL-6X
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9) / 5, Light
-- **Armor:** 144
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Heavy PPC
-  - Medium VSP Laser × 2
-- **Equipment:**
-  - C3i
-- **Battle Value:** unknown
-
 ## Helios HEL-C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 144
@@ -60,4 +44,20 @@
   - CASE
   - C3 Slave
 - **Battle Value:** 1533
+
+## Helios HEL-6X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3072)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 (6) / 8 (9) / 5, Light
+- **Armor:** 144
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Heavy PPC
+  - Medium VSP Laser × 2
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
 

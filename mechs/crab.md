@@ -1,20 +1,7 @@
 # Crab
-## Crab CRB-20
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 144
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - Large Laser × 2
-  - Medium Laser
-  - Small Laser
-- **Battle Value:** 1143
-
 ## Crab CRB-27
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 161 (Ferro Fibrous)
@@ -27,7 +14,7 @@
 
 ## Crab CRB-27b
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 161 (Ferro Fibrous)
@@ -40,7 +27,7 @@
 
 ## Crab CRB-27sl
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 161 (Ferro Fibrous)
@@ -51,9 +38,36 @@
   - Medium Laser
 - **Battle Value:** 1309
 
+## Crab CRB-20
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2810)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 144
+- **Heat Sinks:** 16 (16)
+- **Weapons:**
+  - Large Laser × 2
+  - Medium Laser
+  - Small Laser
+- **Battle Value:** 1143
+
+## Crab CRB-C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3056)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 161 (Ferro Fibrous)
+- **Heat Sinks:** 16 (16)
+- **Weapons:**
+  - Large Laser × 2
+  - Small Laser
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1135
+
 ## Crab CRB-30
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 161 (Ferro Fibrous)
@@ -69,7 +83,7 @@
 
 ## Crab CRB-45
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 158 (Heavy Ferro Fibrous)
@@ -83,7 +97,7 @@
 
 ## Crab CRB-54
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3144)
 - **Chassis:** 50 tons (Composite)
 - **Movement:** 7 / 11 (14) / 0, XXL
 - **Armor:** 158 (Heavy Ferro Fibrous)
@@ -95,18 +109,4 @@
 - **Equipment:**
   - Supercharger
 - **Battle Value:** 1964
-
-## Crab CRB-C
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 161 (Ferro Fibrous)
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - Large Laser × 2
-  - Small Laser
-- **Equipment:**
-  - C3 Slave
-- **Battle Value:** 1135
 

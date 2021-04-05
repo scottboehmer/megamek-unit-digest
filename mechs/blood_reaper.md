@@ -1,7 +1,7 @@
 # Blood Reaper
 ## Blood Reaper (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3079)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 216
@@ -14,7 +14,7 @@
 
 ## Blood Reaper 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3080)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216

@@ -1,7 +1,7 @@
 # Quickdraw
 ## Quickdraw QKD-4G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2779)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 128
@@ -14,7 +14,7 @@
 
 ## Quickdraw QKD-4H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2847)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 128
@@ -27,7 +27,7 @@
 
 ## Quickdraw QKD-5A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3002)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 128
@@ -39,7 +39,7 @@
 
 ## Quickdraw QKD-5K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 143 (Ferro Fibrous)
@@ -49,9 +49,23 @@
   - SRM 4 (ammo: 25)
 - **Battle Value:** 1265
 
+## Quickdraw QKD-C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3053)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 5
+- **Armor:** 143 (Ferro Fibrous)
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Medium Laser × 5
+  - SRM 4 (ammo: 25)
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1225
+
 ## Quickdraw QKD-5K2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 143 (Ferro Fibrous)
@@ -61,9 +75,23 @@
   - SRM 4 (ammo: 25)
 - **Battle Value:** 1312
 
+## Quickdraw QKD-8K
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3064)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5
+- **Armor:** 152 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 4
+  - MRM 30 (ammo: 16)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1583
+
 ## Quickdraw QKD-5Mr
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 143 (Ferro Fibrous)
@@ -78,23 +106,9 @@
   - Targeting Computer
 - **Battle Value:** 1465
 
-## Quickdraw QKD-8K
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
-- **Armor:** 152 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Medium Laser × 4
-  - MRM 30 (ammo: 16)
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1583
-
 ## Quickdraw QKD-8P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0
 - **Armor:** 192
@@ -113,7 +127,7 @@
 
 ## Quickdraw QKD-9M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 178 (Light Ferro Fibrous)
@@ -126,18 +140,4 @@
   - Targeting Computer
   - TAG
 - **Battle Value:** 1690
-
-## Quickdraw QKD-C
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
-- **Armor:** 143 (Ferro Fibrous)
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - Medium Laser × 5
-  - SRM 4 (ammo: 25)
-- **Equipment:**
-  - C3 Slave
-- **Battle Value:** 1225
 

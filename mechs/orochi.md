@@ -1,7 +1,7 @@
 # Orochi
 ## Orochi OR-2I
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 279

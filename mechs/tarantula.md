@@ -1,7 +1,7 @@
 # Tarantula
 ## Tarantula ZPH-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 25 tons Quad
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 72
@@ -13,7 +13,7 @@
 
 ## Tarantula ZPH-2A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 25 tons Quad
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 72
@@ -25,7 +25,7 @@
 
 ## Tarantula ZPH-3A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 25 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 / 7, XL
 - **Armor:** 97
@@ -36,7 +36,7 @@
 
 ## Tarantula ZPH-4A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 80
@@ -50,7 +50,7 @@
 
 ## Tarantula ZPH-5A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 25 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 80

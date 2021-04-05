@@ -1,7 +1,7 @@
 # Swordsman
 ## Swordsman SWD-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2463)
 - **Chassis:** 40 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 107 (Primitive)
@@ -15,7 +15,7 @@
 
 ## Swordsman SWD-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2482)
 - **Chassis:** 40 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 120

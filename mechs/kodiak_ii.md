@@ -1,7 +1,7 @@
 # Kodiak II
 ## Kodiak II (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3095)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 304

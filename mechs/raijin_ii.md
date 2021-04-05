@@ -1,7 +1,7 @@
 # Raijin II
 ## Raijin II RJN-200-A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, XL
 - **Armor:** 169
@@ -18,7 +18,7 @@
 
 ## Raijin II RJN-200-B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
 - **Armor:** 169 (Stealth)
@@ -35,7 +35,7 @@
 
 ## Raijin II RJN-200-C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, Light
 - **Armor:** 169 (Stealth)

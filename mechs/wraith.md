@@ -1,7 +1,7 @@
 # Wraith
 ## Wraith TR1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 152 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Wraith TR2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 152 (Ferro Fibrous)
@@ -23,23 +23,23 @@
   - ER PPC
 - **Battle Value:** 1485
 
-## Wraith TR2-P 'Pocahontas'
+## Wraith TR3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
-- **Armor:** 119 (Ferro Lamellor)
+- **Movement:** 7 / 11 / 6, XL
+- **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
-  - Hatchet
+  - ER Medium Laser × 2
+  - Large Pulse Laser
 - **Equipment:**
-  - MASC
-- **Battle Value:** 2051
+  - C3i
+- **Battle Value:** unknown
 
 ## Wraith TR2-X 'Alexander'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3076)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 9, XL
 - **Armor:** 163 (Ferro Fibrous)
@@ -51,17 +51,17 @@
   - Clan Partial Wing
 - **Battle Value:** 1816
 
-## Wraith TR3
+## Wraith TR2-P 'Pocahontas'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere Mixed (3130)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11 / 6, XL
-- **Armor:** 152 (Ferro Fibrous)
+- **Movement:** 7 / 11 (14) / 7, XL
+- **Armor:** 119 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Large Pulse Laser
+  - Clan ER Medium Laser × 4
+  - Hatchet
 - **Equipment:**
-  - C3i
-- **Battle Value:** unknown
+  - MASC
+- **Battle Value:** 2051
 

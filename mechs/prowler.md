@@ -1,0 +1,34 @@
+# Prowler
+## Prowler PWR-1X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3068)
+- **Chassis:** 55 tons (Composite)
+- **Movement:** 7 / 11 (14) / 7, XXL
+- **Armor:** 185 (Heavy Ferro Fibrous)
+- **Gyroscope:** Compact Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Clan ER Medium Pulse Laser × 2
+  - Clan ER Small Pulse Laser × 2
+  - Clan ER Large Pulse Laser
+- **Equipment:**
+  - Supercharger
+- **Battle Value:** 2019
+
+## Prowler PWR-1X1
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3068)
+- **Chassis:** 55 tons (Composite)
+- **Movement:** 7 / 11 / 0, XXL
+- **Armor:** 185 (Heavy Ferro Fibrous)
+- **Gyroscope:** Compact Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Clan ER Large Laser × 2
+  - Clan SRM 4 × 2 (ammo: 25)
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 1922
+

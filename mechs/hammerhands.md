@@ -1,7 +1,7 @@
 # Hammerhands
 ## Hammerhands HMH-3D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 184
@@ -12,22 +12,9 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 1381
 
-## Hammerhands HMH-3D (Kessem)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 75 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 216
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - Medium Laser × 2
-  - SRM 6 (ammo: 15)
-- **Battle Value:** 1413
-
 ## Hammerhands HMH-4D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2492)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 184
@@ -38,9 +25,22 @@
   - PPC
 - **Battle Value:** 1356
 
+## Hammerhands HMH-3D (Kessem)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2725)
+- **Chassis:** 75 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 216
+- **Heat Sinks:** 16 (16)
+- **Weapons:**
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - Medium Laser × 2
+  - SRM 6 (ammo: 15)
+- **Battle Value:** 1413
+
 ## Hammerhands HMH-5D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 5
 - **Armor:** 188 (Ferro Fibrous)
@@ -54,7 +54,7 @@
 
 ## Hammerhands HMH-6D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 75 tons
 - **Movement:** 3 (4) / 5 (6) / 5
 - **Armor:** 168
@@ -70,7 +70,7 @@
 
 ## Hammerhands HMH-6E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 75 tons
 - **Movement:** 3 (4) / 5 (6) / 5
 - **Armor:** 168

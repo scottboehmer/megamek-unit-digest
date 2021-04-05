@@ -1,7 +1,7 @@
 # Reconquista
 ## Reconquista
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2862)
 - **Chassis:** 75 tons
 - **Movement:** 2 / 3 / 0, IC
 - **Armor:** 187 (Primitive)

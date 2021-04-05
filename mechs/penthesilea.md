@@ -1,7 +1,7 @@
 # Penthesilea
 ## Penthesilea PEN-2H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
 - **Armor:** 215 (Ferro Fibrous)
@@ -18,7 +18,7 @@
 
 ## Penthesilea PEN-2MAF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 231 (Light Ferro Fibrous)
@@ -35,7 +35,7 @@
 
 ## Penthesilea PEN-3H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3129)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 231 (Light Ferro Fibrous)

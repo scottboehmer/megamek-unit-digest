@@ -1,7 +1,7 @@
 # Nightsky
 ## Nightsky NGS-4S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 152
@@ -15,7 +15,7 @@
 
 ## Nightsky NGS-4T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 152
@@ -31,7 +31,7 @@
 
 ## Nightsky NGS-5S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 152
@@ -45,7 +45,7 @@
 
 ## Nightsky NGS-5T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 152
@@ -59,7 +59,7 @@
 
 ## Nightsky NGS-6S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, Light
 - **Armor:** 152
@@ -71,7 +71,7 @@
 
 ## Nightsky NGS-6T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 50 tons
 - **Movement:** 6 (7) / 9 (11) / 6, XL
 - **Armor:** 152

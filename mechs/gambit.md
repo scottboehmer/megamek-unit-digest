@@ -1,7 +1,7 @@
 # Gambit
 ## Gambit GBT-1G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 80
@@ -16,7 +16,7 @@
 
 ## Gambit GBT-1L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 80

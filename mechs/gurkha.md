@@ -1,7 +1,7 @@
 # Gurkha
 ## Gurkha GUR-2G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 119
@@ -16,7 +16,7 @@
 
 ## Gurkha GUR-4G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 119
@@ -31,7 +31,7 @@
 
 ## Gurkha GUR-6G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 112
@@ -47,7 +47,7 @@
 
 ## Gurkha GUR-8G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 (8) / 11 (12) / 0, XL
 - **Armor:** 119

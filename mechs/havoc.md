@@ -1,7 +1,7 @@
 # Havoc
 ## Havoc HVC-P6
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3112)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 5, XL
 - **Armor:** 116 (Ferro Fibrous)

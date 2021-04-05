@@ -1,7 +1,7 @@
 # Juggernaut
 ## Juggernaut JG-R9T1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 264
@@ -17,7 +17,7 @@
 
 ## Juggernaut JG-R9T2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 264

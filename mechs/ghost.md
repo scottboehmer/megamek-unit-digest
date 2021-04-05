@@ -1,7 +1,7 @@
 # Ghost
 ## Ghost GST-10
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 168 (Stealth)
@@ -17,7 +17,7 @@
 
 ## Ghost GST-11
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 168
@@ -33,7 +33,7 @@
 
 ## Ghost GST-50
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
 - **Armor:** 128
@@ -48,7 +48,7 @@
 
 ## Ghost GST-90
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
 - **Armor:** 128

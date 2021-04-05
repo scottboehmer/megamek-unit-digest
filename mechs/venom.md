@@ -1,7 +1,7 @@
 # Venom
 ## Venom SDR-9K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 62 (Ferro Fibrous)
@@ -12,7 +12,7 @@
 
 ## Venom SDR-9KA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 98 (Ferro Fibrous)
@@ -23,7 +23,7 @@
 
 ## Venom SDR-9KB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 6, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -35,7 +35,7 @@
 
 ## Venom SDR-9KC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 119 (Ferro Fibrous)

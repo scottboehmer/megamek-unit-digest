@@ -1,7 +1,7 @@
 # Night Hawk
 ## Night Hawk NTK-2Q
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2656)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 112
@@ -14,7 +14,7 @@
 
 ## Night Hawk NTK-2S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 112

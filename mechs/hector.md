@@ -1,7 +1,7 @@
 # Hector
 ## Hector HOR-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2471)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 128 (Primitive)
@@ -14,7 +14,7 @@
 
 ## Hector HOR-1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2476)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 128 (Primitive)

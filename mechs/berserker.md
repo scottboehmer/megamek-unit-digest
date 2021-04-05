@@ -1,7 +1,7 @@
 # Berserker
 ## Berserker BRZ-A3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
 - **Armor:** 296
@@ -19,7 +19,7 @@
 
 ## Berserker BRZ-B3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
 - **Armor:** 296
@@ -37,7 +37,7 @@
 
 ## Berserker BRZ-C3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
 - **Armor:** 296

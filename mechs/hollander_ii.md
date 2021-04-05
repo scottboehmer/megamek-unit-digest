@@ -1,7 +1,7 @@
 # Hollander II
 ## Hollander II BZK-F5
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 107 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Hollander II BZK-F7
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 98 (Ferro Fibrous)

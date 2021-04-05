@@ -1,7 +1,7 @@
 # Striker
 ## Striker STC-2C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2571)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216
@@ -13,9 +13,22 @@
   - Medium Laser × 3
 - **Battle Value:** 1488
 
+## Striker STC-2S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2845)
+- **Chassis:** 80 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 216
+- **Heat Sinks:** 15 (15)
+- **Weapons:**
+  - AC/10 (ammo: 20)
+  - PPC
+  - Medium Laser × 3
+- **Battle Value:** 1466
+
 ## Striker STC-2D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247
@@ -26,17 +39,4 @@
   - ER PPC
   - Medium Pulse Laser × 2
 - **Battle Value:** 1644
-
-## Striker STC-2S
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 216
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - AC/10 (ammo: 20)
-  - PPC
-  - Medium Laser × 3
-- **Battle Value:** 1466
 

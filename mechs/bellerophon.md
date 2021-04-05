@@ -1,7 +1,7 @@
 # Bellerophon
 ## Bellerophon BEL-1X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2442)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 123 (Primitive)

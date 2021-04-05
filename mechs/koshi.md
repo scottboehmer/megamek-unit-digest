@@ -1,7 +1,7 @@
 # Koshi
 ## Koshi (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3091)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
 - **Armor:** 67 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Koshi (Standard) 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3095)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
 - **Armor:** 67 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Koshi (Standard) 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3095)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 6, XL
 - **Armor:** 67 (Ferro Fibrous)

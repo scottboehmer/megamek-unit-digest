@@ -1,7 +1,7 @@
 # Supernova
 ## Supernova (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2846)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 232
@@ -12,7 +12,7 @@
 
 ## Supernova 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3062)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 272
@@ -26,7 +26,7 @@
 
 ## Supernova 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3064)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 272
@@ -41,7 +41,7 @@
 
 ## Supernova 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3067)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 272

@@ -1,7 +1,7 @@
 # Marauder IIC
 ## Marauder IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2828)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 220 (Ferro Fibrous)
@@ -12,24 +12,35 @@
   - ER Small Laser × 4
 - **Battle Value:** 2680
 
-## Marauder IIC 10
+## Marauder IIC 9
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2831)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6, XL
-- **Armor:** 208
-- **Heat Sinks:** 20 (40)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 220 (Ferro Fibrous)
+- **Heat Sinks:** 22 (44)
 - **Weapons:**
-  - Large Pulse Laser × 2
-  - Medium Pulse Laser × 2
-  - ER PPC
-  - Small Pulse Laser × 2
-  - ER Small Laser × 2
-- **Battle Value:** 2877
+  - ER PPC × 3
+  - Streak SRM 4 × 2 (ammo: 25)
+- **Battle Value:** 2595
+
+## Marauder IIC 8
+- **Role:** Undefined
+- **Tech Base:** Clan (3025)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 220 (Ferro Fibrous)
+- **Heat Sinks:** 21 (42)
+- **Weapons:**
+  - Medium Pulse Laser × 4
+  - ER PPC × 2
+  - LRM 10 (ammo: 12)
+  - ER Small Laser
+- **Battle Value:** 2536
 
 ## Marauder IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3063)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 240 (Ferro Fibrous)
@@ -42,7 +53,7 @@
 
 ## Marauder IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3064)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 220 (Ferro Fibrous)
@@ -55,7 +66,7 @@
 
 ## Marauder IIC 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3070)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
 - **Armor:** 240
@@ -66,7 +77,7 @@
 
 ## Marauder IIC 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3070)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 220 (Ferro Fibrous)
@@ -79,7 +90,7 @@
 
 ## Marauder IIC 6
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3077)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
 - **Armor:** 208
@@ -93,7 +104,7 @@
 
 ## Marauder IIC 7
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3081)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 263
@@ -109,29 +120,18 @@
   - ECM Suite
 - **Battle Value:** 2808
 
-## Marauder IIC 8
+## Marauder IIC 10
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3140)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
-- **Armor:** 220 (Ferro Fibrous)
-- **Heat Sinks:** 21 (42)
+- **Movement:** 4 / 6 / 6, XL
+- **Armor:** 208
+- **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Medium Pulse Laser × 4
-  - ER PPC × 2
-  - LRM 10 (ammo: 12)
-  - ER Small Laser
-- **Battle Value:** 2536
-
-## Marauder IIC 9
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
-- **Armor:** 220 (Ferro Fibrous)
-- **Heat Sinks:** 22 (44)
-- **Weapons:**
-  - ER PPC × 3
-  - Streak SRM 4 × 2 (ammo: 25)
-- **Battle Value:** 2595
+  - Large Pulse Laser × 2
+  - Medium Pulse Laser × 2
+  - ER PPC
+  - Small Pulse Laser × 2
+  - ER Small Laser × 2
+- **Battle Value:** 2877
 

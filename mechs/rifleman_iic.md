@@ -1,7 +1,7 @@
 # Rifleman IIC
 ## Rifleman IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2845)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 211 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Rifleman IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2997)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
 - **Armor:** 208
@@ -26,7 +26,7 @@
 
 ## Rifleman IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 211
@@ -40,7 +40,7 @@
 
 ## Rifleman IIC 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3065)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 211
@@ -52,7 +52,7 @@
 
 ## Rifleman IIC 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 5
 - **Armor:** 211
@@ -62,9 +62,23 @@
   - Medium Pulse Laser × 2
 - **Battle Value:** 2267
 
+## Rifleman IIC 6
+- **Role:** Undefined
+- **Tech Base:** Clan (3071)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0
+- **Armor:** 211 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - HAG 30 × 2 (ammo: 28)
+  - Anti-Missile System × 2 (ammo: 48)
+- **Equipment:**
+  - Active Probe
+- **Battle Value:** 2165
+
 ## Rifleman IIC 7
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3078)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 5
 - **Armor:** 208
@@ -79,7 +93,7 @@
 
 ## Rifleman IIC 8
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3078)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)

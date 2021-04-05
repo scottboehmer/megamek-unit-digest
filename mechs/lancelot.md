@@ -1,7 +1,58 @@
 # Lancelot
+## Lancelot LNC25-01
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2581)
+- **Chassis:** 60 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 152
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Large Laser × 2
+  - PPC
+  - Medium Laser
+- **Battle Value:** 1422
+
+## Lancelot LNC25-05
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2594)
+- **Chassis:** 60 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 152
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Large Laser × 2
+  - Machine Gun × 4 (ammo: 200)
+  - PPC
+- **Battle Value:** 1365
+
+## Lancelot LNC25-01sl
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2750)
+- **Chassis:** 60 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 170 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ER Large Laser × 3
+  - Medium Laser
+- **Battle Value:** 1546
+
+## Lancelot LNC25-01X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2765)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 6 / 9 / 4, XL
+- **Armor:** 152 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Large Laser × 2
+  - PPC
+  - Medium Laser
+- **Battle Value:** 1659
+
 ## Lancelot C
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2832)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 152
@@ -12,7 +63,7 @@
 
 ## Lancelot C 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 152
@@ -25,47 +76,9 @@
   - MASC
 - **Battle Value:** 2571
 
-## Lancelot LNC25-01
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 152
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Large Laser × 2
-  - PPC
-  - Medium Laser
-- **Battle Value:** 1422
-
-## Lancelot LNC25-01sl
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 170 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER Large Laser × 3
-  - Medium Laser
-- **Battle Value:** 1546
-
-## Lancelot LNC25-01X
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9 / 4, XL
-- **Armor:** 152 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER Large Laser × 2
-  - PPC
-  - Medium Laser
-- **Battle Value:** 1659
-
 ## Lancelot LNC25-02
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2864)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 152
@@ -78,7 +91,7 @@
 
 ## Lancelot LNC25-03
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2876)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201
@@ -93,7 +106,7 @@
 
 ## Lancelot LNC25-04
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 179 (Ferro Fibrous)
@@ -105,22 +118,9 @@
   - C3i
 - **Battle Value:** unknown
 
-## Lancelot LNC25-05
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 152
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Large Laser × 2
-  - Machine Gun × 4 (ammo: 200)
-  - PPC
-- **Battle Value:** 1365
-
 ## Lancelot LNC25-06
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 179 (Ferro Fibrous)
@@ -137,7 +137,7 @@
 
 ## Lancelot LNC25-08
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 152 (Light Ferro Fibrous)

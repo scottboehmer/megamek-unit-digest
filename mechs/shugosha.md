@@ -1,7 +1,7 @@
 # Shugosha
 ## Shugosha PTN-LAW LoaderMech
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2627)
 - **Chassis:** 20 tons (Industrial)
 - **Movement:** 2 / 3 / 0
 - **Armor:** 35 (Commercial)

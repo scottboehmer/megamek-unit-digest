@@ -1,7 +1,7 @@
 # Thunder Fox
 ## Thunder Fox TFT-A9
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 55 tons Quad
 - **Movement:** 4 / 6 / 3
 - **Armor:** 152 (Light Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Thunder Fox TFT-L8
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 55 tons Quad
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 152 (Light Ferro Fibrous)

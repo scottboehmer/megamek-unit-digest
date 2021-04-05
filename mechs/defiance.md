@@ -1,7 +1,7 @@
 # Defiance
 ## Defiance DFN-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, XL
 - **Armor:** 192
@@ -19,7 +19,7 @@
 
 ## Defiance DFN-3S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
 - **Armor:** 216
@@ -36,7 +36,7 @@
 
 ## Defiance DFN-3T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
 - **Armor:** 216

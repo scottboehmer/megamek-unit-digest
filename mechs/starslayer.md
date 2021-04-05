@@ -1,7 +1,7 @@
 # Starslayer
 ## Starslayer STY-2C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2772)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 125 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Starslayer STY-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 169 (Ferro Fibrous)
@@ -33,7 +33,7 @@
 
 ## Starslayer STY-3D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 169 (Ferro Fibrous)
@@ -46,7 +46,7 @@
 
 ## Starslayer STY-3Dr
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 5
 - **Armor:** 169 (Light Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Calliope
 ## Calliope CAL-1MAF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3127)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Calliope CAL-1MAFSW 'Snow White'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3127)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 126 (Ferro Lamellor)

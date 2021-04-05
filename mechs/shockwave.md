@@ -1,7 +1,7 @@
 # Shockwave
 ## Shockwave SKW-2F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 160
@@ -14,7 +14,7 @@
 
 ## Shockwave SKW-4G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 160
@@ -27,7 +27,7 @@
 
 ## Shockwave SKW-6H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3102)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 160

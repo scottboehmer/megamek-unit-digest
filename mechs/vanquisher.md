@@ -1,7 +1,7 @@
 # Vanquisher
 ## Vanquisher VQR-2A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
@@ -15,28 +15,9 @@
   - C3i
 - **Battle Value:** unknown
 
-## Vanquisher VQR-2A (Pravuil)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
-- **Armor:** 304
-- **Gyroscope:** Compact Gyroscope
-- **Cockpit:** Small
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Large VSP Laser × 2
-  - Gauss Rifle (ammo: 16)
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-  - C3i
-- **Battle Value:** unknown
-
 ## Vanquisher VQR-2B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
@@ -51,7 +32,7 @@
 
 ## Vanquisher VQR-5V
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 304 (Ferro Fibrous)
@@ -68,7 +49,7 @@
 
 ## Vanquisher VQR-7V
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
@@ -79,6 +60,25 @@
   - RAC/5 × 2 (ammo: 100)
   - Light PPC × 2
   - Heavy PPC
+- **Equipment:**
+  - CASE
+  - C3i
+- **Battle Value:** unknown
+
+## Vanquisher VQR-2A (Pravuil)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0
+- **Armor:** 304
+- **Gyroscope:** Compact Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Large VSP Laser × 2
+  - Gauss Rifle (ammo: 16)
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3i

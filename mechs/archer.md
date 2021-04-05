@@ -1,23 +1,7 @@
 # Archer
-## Archer (Wolf)
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
-- **Armor:** 211 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER Large Laser × 2
-  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-  - Small Pulse Laser × 2
-  - Anti-Missile System (ammo: 24)
-- **Equipment:**
-  - ECM Suite
-- **Battle Value:** 2275
-
 ## Archer ARC-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2458)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 171 (Primitive)
@@ -28,21 +12,9 @@
   - LRM 20 × 2 (ammo: 24)
 - **Battle Value:** 1269
 
-## Archer ARC-2K
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 176
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - Large Laser × 2
-  - LRM 15 × 2 (ammo: 32)
-- **Battle Value:** 1356
-
 ## Archer ARC-2R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2474)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 208
@@ -54,7 +26,7 @@
 
 ## Archer ARC-2Rb
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216
@@ -66,9 +38,21 @@
   - CASE
 - **Battle Value:** 1705
 
+## Archer ARC-2K
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2856)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 176
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Large Laser × 2
+  - LRM 15 × 2 (ammo: 32)
+- **Battle Value:** 1356
+
 ## Archer ARC-2S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2915)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 208
@@ -81,7 +65,7 @@
 
 ## Archer ARC-2W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3010)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 160
@@ -94,7 +78,7 @@
 
 ## Archer ARC-4M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216
@@ -106,35 +90,9 @@
   - CASE
 - **Battle Value:** 1705
 
-## Archer ARC-4M2
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
-- **Armor:** 216
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 4
-  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1742
-
-## Archer ARC-5CS
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 184
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Medium Laser × 2
-  - LRM 15 w/ Artemis IV × 4 (ammo: 48)
-- **Battle Value:** 1609
-
 ## Archer ARC-5R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 184
@@ -148,7 +106,7 @@
 
 ## Archer ARC-5S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 208
@@ -164,7 +122,7 @@
 
 ## Archer ARC-5W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 208
@@ -177,9 +135,49 @@
   - CASE
 - **Battle Value:** 1337
 
+## Archer C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3050)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 208
+- **Heat Sinks:** 20 (20)
+- **Weapons:**
+  - Clan ER Medium Laser × 4
+  - Clan LRM 20 × 2 (ammo: 24)
+- **Battle Value:** 1811
+
+## Archer ARC-5CS
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3052)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 184
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Medium Laser × 2
+  - LRM 15 w/ Artemis IV × 4 (ammo: 48)
+- **Battle Value:** 1609
+
+## Archer (Wolf)
+- **Role:** Undefined
+- **Tech Base:** Clan (3055)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 211 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ER Large Laser × 2
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+  - Small Pulse Laser × 2
+  - Anti-Missile System (ammo: 24)
+- **Equipment:**
+  - ECM Suite
+- **Battle Value:** 2275
+
 ## Archer ARC-6S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 217
@@ -195,7 +193,7 @@
 
 ## Archer ARC-6W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 217
@@ -206,24 +204,9 @@
   - Rocket 10 × 2
 - **Battle Value:** 1405
 
-## Archer ARC-7C
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 208
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Clan ER Medium Laser × 4
-  - Clan LRM 20 w/ Artemis V × 2 (ammo: 24)
-- **Equipment:**
-  - CASE II
-  - Targeting Computer
-- **Battle Value:** 2408
-
 ## Archer ARC-7L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 200 (Stealth)
@@ -236,9 +219,24 @@
   - CASE
 - **Battle Value:** 1881
 
+## Archer ARC-8M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3067)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 216
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - LRM 15 w/ Artemis IV × 2 (ammo: 32)
+  - ER Large Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1759
+
 ## Archer ARC-7S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 217 (Heavy Ferro Fibrous)
@@ -252,24 +250,9 @@
   - CASE
 - **Battle Value:** 1658
 
-## Archer ARC-8M
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
-- **Armor:** 216
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - LRM 15 w/ Artemis IV × 2 (ammo: 32)
-  - ER Large Laser
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1759
-
 ## Archer ARC-9K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216
@@ -281,24 +264,9 @@
   - C3 Slave
 - **Battle Value:** 1391
 
-## Archer ARC-9KC
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
-- **Armor:** 216
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Light PPC × 2
-  - MML 5 × 4 (ammo: 72 LRM, 60 SRM)
-  - ER Medium Laser
-- **Equipment:**
-  - C3 Boosted Slave
-- **Battle Value:** 1361
-
 ## Archer ARC-9M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 5, Light
 - **Armor:** 186 (Light Ferro Fibrous)
@@ -311,9 +279,53 @@
   - CASE
 - **Battle Value:** 1811
 
+## Archer ARC-4M2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3086)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 216
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 4
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1742
+
+## Archer ARC-9KC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3089)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 216
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Light PPC × 2
+  - MML 5 × 4 (ammo: 72 LRM, 60 SRM)
+  - ER Medium Laser
+- **Equipment:**
+  - C3 Boosted Slave
+- **Battle Value:** 1361
+
+## Archer ARC-7C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3119)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 208
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Clan ER Medium Laser × 4
+  - Clan LRM 20 w/ Artemis V × 2 (ammo: 24)
+- **Equipment:**
+  - CASE II
+  - Targeting Computer
+- **Battle Value:** 2408
+
 ## Archer ARC-9R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
@@ -325,16 +337,4 @@
   - CASE II
   - C3 Slave
 - **Battle Value:** 1668
-
-## Archer C
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 208
-- **Heat Sinks:** 20 (20)
-- **Weapons:**
-  - Clan ER Medium Laser × 4
-  - Clan LRM 20 × 2 (ammo: 24)
-- **Battle Value:** 1811
 

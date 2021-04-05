@@ -1,7 +1,7 @@
 # Hitotsume Kozo
 ## Hitotsume Kozo HKZ-1F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 8 (10) / 4, XL
 - **Armor:** 116 (Hardened)
@@ -16,7 +16,7 @@
 
 ## Hitotsume Kozo HKZ-1P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 (6) / 7 (8) / 4, XL
 - **Armor:** 116 (Hardened)

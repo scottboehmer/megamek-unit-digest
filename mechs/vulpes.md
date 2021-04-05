@@ -1,7 +1,7 @@
 # Vulpes
 ## Vulpes VLP-1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 (10) / 0, XXL
 - **Armor:** 200 (Stealth)

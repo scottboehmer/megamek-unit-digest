@@ -1,7 +1,7 @@
 # Dragon Fire
 ## Dragon Fire DGR-3F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 231
@@ -18,7 +18,7 @@
 
 ## Dragon Fire DGR-4F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 231
@@ -35,7 +35,7 @@
 
 ## Dragon Fire DGR-6FC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 231
@@ -52,7 +52,7 @@
 
 ## Dragon Fire DGR-6FC2 (Gregory)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
 - **Armor:** 231

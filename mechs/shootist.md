@@ -1,7 +1,7 @@
 # Shootist
 ## Shootist ST-8A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2621)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 215 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Shootist ST-8C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 215 (Ferro Fibrous)
@@ -33,7 +33,7 @@
 
 ## Shootist ST-9C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 215 (Ferro Fibrous)

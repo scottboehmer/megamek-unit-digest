@@ -1,7 +1,7 @@
 # Grand Titan
 ## Grand Titan T-IT-N10M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 288
@@ -17,7 +17,7 @@
 
 ## Grand Titan T-IT-N11M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 288

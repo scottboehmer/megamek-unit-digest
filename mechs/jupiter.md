@@ -1,7 +1,7 @@
 # Jupiter
 ## Jupiter (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3068)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 307
@@ -14,7 +14,7 @@
 
 ## Jupiter 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3070)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 307
@@ -27,7 +27,7 @@
 
 ## Jupiter 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 307
@@ -40,7 +40,7 @@
 
 ## Jupiter 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3093)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 307

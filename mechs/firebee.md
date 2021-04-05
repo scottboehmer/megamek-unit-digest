@@ -1,7 +1,7 @@
 # Firebee
 ## Firebee FRB-1E (WAM-B)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2483)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0
 - **Armor:** 69 (Primitive)
@@ -14,7 +14,7 @@
 
 ## Firebee FRB-2E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2524)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 96
@@ -26,7 +26,7 @@
 
 ## Firebee FRB-3E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 104 (Stealth)

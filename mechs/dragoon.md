@@ -1,7 +1,7 @@
 # Dragoon
 ## Dragoon AEM-01
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2771)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 3, XL
 - **Armor:** 206 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Dragoon AEM-02
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2771)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 206 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Dragoon AEM-03
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2771)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 206 (Ferro Fibrous)
@@ -47,7 +47,7 @@
 
 ## Dragoon AEM-04
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2771)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 206 (Ferro Fibrous)
@@ -63,7 +63,7 @@
 
 ## Dragoon AEM-05C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3136)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 3, XL
 - **Armor:** 203 (Ferro Lamellor)

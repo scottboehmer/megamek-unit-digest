@@ -1,7 +1,7 @@
 # Xanthos
 ## Xanthos XNT-2O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2564)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 0
 - **Armor:** 160 (Primitive)
@@ -17,7 +17,7 @@
 
 ## Xanthos XNT-3O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2579)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 0
 - **Armor:** 323
@@ -32,7 +32,7 @@
 
 ## Xanthos XNT-4O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 323 (Stealth)
@@ -49,7 +49,7 @@
 
 ## Xanthos XNT-5O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 100 tons Quad (Endo Steel)
 - **Movement:** 3 / 5 / 5, Compact
 - **Armor:** 323 (Light Ferro Fibrous)
@@ -63,7 +63,7 @@
 
 ## Xanthos XNT-6O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3094)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 323 (Stealth)
@@ -81,7 +81,7 @@
 
 ## Xanthos XNT-7O
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3119)
 - **Chassis:** 100 tons Quad
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 323

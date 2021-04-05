@@ -1,7 +1,7 @@
 # Kraken (Bane)
 ## Kraken (Bane) (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2827)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304
@@ -13,7 +13,7 @@
 
 ## Kraken (Bane) 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3053)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304
@@ -23,9 +23,21 @@
   - Machine Gun × 4 (ammo: 100)
 - **Battle Value:** 2232
 
+## Kraken (Bane) 3
+- **Role:** Undefined
+- **Tech Base:** Clan (3054)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 304
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - LRM 15 × 8 (ammo: 128)
+  - SRM 4 (iOS)
+- **Battle Value:** unknown
+
 ## Kraken (Bane) 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3066)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 304

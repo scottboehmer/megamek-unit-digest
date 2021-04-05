@@ -1,7 +1,7 @@
 # Nexus II
 ## Nexus II NXS2-A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, Light
 - **Armor:** 56
@@ -15,7 +15,7 @@
 
 ## Nexus II NXS2-B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, Light
 - **Armor:** 56 (Stealth)

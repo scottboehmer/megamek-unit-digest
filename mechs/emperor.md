@@ -1,7 +1,7 @@
 # Emperor
 ## Emperor EMP-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2442)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 273 (Primitive)
@@ -14,7 +14,7 @@
 
 ## Emperor EMP-5A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2502)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 279
@@ -27,7 +27,7 @@
 
 ## Emperor EMP-6A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2612)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 279
@@ -43,7 +43,7 @@
 
 ## Emperor EMP-6A (Nerran)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3064)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 279
@@ -59,7 +59,7 @@
 
 ## Emperor EMP-6D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 279
@@ -74,7 +74,7 @@
 
 ## Emperor EMP-6L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 (4) / 5 (6) / 3
 - **Armor:** 279 (Stealth)
@@ -91,7 +91,7 @@
 
 ## Emperor EMP-6M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 (4) / 5 (6) / 3, Light
 - **Armor:** 272
@@ -108,7 +108,7 @@
 
 ## Emperor EMP-6S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 279
@@ -123,7 +123,7 @@
 
 ## Emperor EMP-7L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 (4) / 5 (6) / 0
 - **Armor:** 279 (Stealth)

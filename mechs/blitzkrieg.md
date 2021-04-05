@@ -1,7 +1,7 @@
 # Blitzkrieg
 ## Blitzkrieg BTZ-3F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 116 (Ferro Fibrous)
@@ -12,7 +12,7 @@
 
 ## Blitzkrieg BTZ-4F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 169 (Light Ferro Fibrous)

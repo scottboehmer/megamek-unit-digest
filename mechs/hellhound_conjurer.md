@@ -1,7 +1,7 @@
 # Hellhound (Conjurer)
 ## Hellhound (Conjurer) (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2829)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 163 (Ferro Fibrous)
@@ -12,9 +12,22 @@
   - ER Medium Laser × 2
 - **Battle Value:** 1793
 
+## Hellhound (Conjurer) 7
+- **Role:** Undefined
+- **Tech Base:** Clan (2836)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6
+- **Armor:** 163 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large Pulse Laser
+  - LRM 5 × 2 (ammo: 24)
+  - ER Medium Laser × 2
+- **Battle Value:** 1825
+
 ## Hellhound (Conjurer) 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3062)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 169 (Ferro Fibrous)
@@ -28,7 +41,7 @@
 
 ## Hellhound (Conjurer) 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3064)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 163 (Ferro Fibrous)
@@ -42,7 +55,7 @@
 
 ## Hellhound (Conjurer) 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 163 (Ferro Fibrous)
@@ -58,7 +71,7 @@
 
 ## Hellhound (Conjurer) 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3067)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 163 (Ferro Fibrous)
@@ -68,22 +81,9 @@
   - ER Medium Laser × 2
 - **Battle Value:** 1683
 
-## Hellhound (Conjurer) 7
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
-- **Armor:** 163 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Pulse Laser
-  - LRM 5 × 2 (ammo: 24)
-  - ER Medium Laser × 2
-- **Battle Value:** 1825
-
 ## Hellhound (Conjurer) 8
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3142)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 163 (Ferro Fibrous)

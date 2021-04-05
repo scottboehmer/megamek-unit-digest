@@ -1,7 +1,7 @@
 # Stealth
 ## Stealth STH-1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
 - **Armor:** 144
@@ -15,24 +15,9 @@
   - Beagle Active Probe
 - **Battle Value:** 1231
 
-## Stealth STH-1D (Anna)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
-- **Armor:** 152
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - Medium Laser × 4
-- **Equipment:**
-  - MASC
-  - Beagle Active Probe
-- **Battle Value:** 1540
-
 ## Stealth STH-2D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
 - **Armor:** 144
@@ -47,7 +32,7 @@
 
 ## Stealth STH-2D1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
 - **Armor:** 144
@@ -63,7 +48,7 @@
 
 ## Stealth STH-2D2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
 - **Armor:** 144
@@ -77,9 +62,24 @@
   - TAG
 - **Battle Value:** 1339
 
+## Stealth STH-1D (Anna)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3065)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 7, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - Medium Laser × 4
+- **Equipment:**
+  - MASC
+  - Beagle Active Probe
+- **Battle Value:** 1540
+
 ## Stealth STH-3S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
 - **Armor:** 152 (Stealth)

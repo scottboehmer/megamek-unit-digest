@@ -1,7 +1,7 @@
 # Raven
 ## Raven RVN-1X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 64
@@ -13,9 +13,24 @@
   - EW Equipment
 - **Battle Value:** 639
 
+## Raven RVN-3X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3028)
+- **Chassis:** 35 tons
+- **Movement:** 5 (6) / 8 (9) / 0
+- **Armor:** 64
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Medium Laser × 2
+  - SRM 6 (ammo: 15)
+- **Equipment:**
+  - EW Equipment
+- **Battle Value:** 691
+
 ## Raven RVN-2X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3030)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 104
@@ -26,9 +41,22 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 887
 
+## Raven RVN-4X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3031)
+- **Chassis:** 35 tons
+- **Movement:** 5 / 8 / 5
+- **Armor:** 112
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Machine Gun × 2 (ammo: 200)
+  - Medium Laser × 2
+  - SRM 6 (ammo: 15)
+- **Battle Value:** 820
+
 ## Raven RVN-3L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -46,7 +74,7 @@
 
 ## Raven RVN-3M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -60,41 +88,9 @@
   - CASE
 - **Battle Value:** 659
 
-## Raven RVN-3X
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 35 tons
-- **Movement:** 5 (6) / 8 (9) / 0
-- **Armor:** 64
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - Medium Laser × 2
-  - SRM 6 (ammo: 15)
-- **Equipment:**
-  - EW Equipment
-- **Battle Value:** 691
-
-## Raven RVN-4L
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 96 (Stealth)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Narc (ammo: 12)
-  - ER Medium Laser × 2
-  - SRM 6 (ammo: 15)
-- **Equipment:**
-  - Guardian ECM Suite
-  - TAG
-  - Beagle Active Probe
-- **Battle Value:** 873
-
 ## Raven RVN-4LC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96 (Stealth)
@@ -110,39 +106,26 @@
   - C3 Slave
 - **Battle Value:** 871
 
-## Raven RVN-4Lr
+## Raven RVN-4L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
+  - Narc (ammo: 12)
+  - ER Medium Laser × 2
+  - SRM 6 (ammo: 15)
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-  - CASE
   - Beagle Active Probe
-- **Battle Value:** 923
-
-## Raven RVN-4X
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 35 tons
-- **Movement:** 5 / 8 / 5
-- **Armor:** 112
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
-  - Medium Laser × 2
-  - SRM 6 (ammo: 15)
-- **Battle Value:** 820
+- **Battle Value:** 873
 
 ## Raven RVN-SR 'Shattered Raven'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -160,7 +143,7 @@
 
 ## Raven RVN-SS 'Shattered Raven'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -175,4 +158,21 @@
   - TAG
   - Beagle Active Probe
 - **Battle Value:** 904
+
+## Raven RVN-4Lr
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 35 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 96 (Stealth)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
+- **Equipment:**
+  - Guardian ECM Suite
+  - TAG
+  - CASE
+  - Beagle Active Probe
+- **Battle Value:** 923
 

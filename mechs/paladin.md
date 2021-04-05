@@ -1,7 +1,7 @@
 # Paladin
 ## Paladin PAL-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 197 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Paladin PAL-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 60 tons (Composite)
 - **Movement:** 6 (7) / 9 (11) / 6, XXL
 - **Armor:** 201 (Light Ferro Fibrous)

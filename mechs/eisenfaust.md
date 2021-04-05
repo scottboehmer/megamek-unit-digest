@@ -1,7 +1,7 @@
 # Eisenfaust
 ## Eisenfaust EFT-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2471)
 - **Chassis:** 45 tons
 - **Movement:** 2 / 3 / 0
 - **Armor:** 107 (Primitive)
@@ -15,7 +15,7 @@
 
 ## Eisenfaust EFT-4J
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2515)
 - **Chassis:** 45 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 152
@@ -29,7 +29,7 @@
 
 ## Eisenfaust EFT-7X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 152
@@ -43,7 +43,7 @@
 
 ## Eisenfaust EFT-8X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 152

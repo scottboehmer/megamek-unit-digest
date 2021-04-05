@@ -1,7 +1,7 @@
 # Titan II
 ## Titan II TI-2P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
@@ -18,7 +18,7 @@
 
 ## Titan II TI-2PA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 304

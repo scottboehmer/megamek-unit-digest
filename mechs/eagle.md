@@ -1,7 +1,7 @@
 # Eagle
 ## Eagle EGL-1M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 80
@@ -14,7 +14,7 @@
 
 ## Eagle EGL-2M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 80
@@ -28,7 +28,7 @@
 
 ## Eagle EGL-3M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 89

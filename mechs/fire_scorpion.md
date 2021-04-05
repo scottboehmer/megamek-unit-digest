@@ -1,7 +1,7 @@
 # Fire Scorpion
 ## Fire Scorpion (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2852)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 224
@@ -15,7 +15,7 @@
 
 ## Fire Scorpion 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3060)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 224
@@ -31,7 +31,7 @@
 
 ## Fire Scorpion 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3071)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 224

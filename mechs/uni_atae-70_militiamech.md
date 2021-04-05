@@ -1,7 +1,7 @@
 # Uni ATAE-70 MilitiaMech
 ## Uni ATAE-70 MilitiaMech (Standard)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 70 tons Quad (Industrial)
 - **Movement:** 3 / 5 / 0, Fuel Cell
 - **Armor:** 216 (Commercial)

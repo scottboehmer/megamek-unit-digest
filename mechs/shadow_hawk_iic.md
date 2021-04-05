@@ -1,7 +1,7 @@
 # Shadow Hawk IIC
 ## Shadow Hawk IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2831)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 144 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Shadow Hawk IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2835)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 144 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Shadow Hawk IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 144 (Ferro Fibrous)
@@ -42,7 +42,7 @@
 
 ## Shadow Hawk IIC 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 144 (Ferro Fibrous)
@@ -55,7 +55,7 @@
 
 ## Shadow Hawk IIC 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 144 (Ferro Fibrous)
@@ -67,7 +67,7 @@
 
 ## Shadow Hawk IIC 6
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -81,7 +81,7 @@
 
 ## Shadow Hawk IIC 8
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3081)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 9, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -97,7 +97,7 @@
 
 ## Shadow Hawk IIC 9
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3134)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 144 (Ferro Fibrous)

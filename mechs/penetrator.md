@@ -1,7 +1,7 @@
 # Penetrator
 ## Penetrator PTR-4D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 208
@@ -14,7 +14,7 @@
 
 ## Penetrator PTR-4F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 208
@@ -27,7 +27,7 @@
 
 ## Penetrator PTR-6M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -40,7 +40,7 @@
 
 ## Penetrator PTR-6S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 184
@@ -55,7 +55,7 @@
 
 ## Penetrator PTR-6T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 208

@@ -1,7 +1,7 @@
 # Tundra Wolf
 ## Tundra Wolf (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 231
@@ -19,7 +19,7 @@
 
 ## Tundra Wolf 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 224
@@ -36,7 +36,7 @@
 
 ## Tundra Wolf 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 176
@@ -53,7 +53,7 @@
 
 ## Tundra Wolf 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3077)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
 - **Armor:** 231
@@ -70,7 +70,7 @@
 
 ## Tundra Wolf 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3086)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 231

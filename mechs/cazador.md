@@ -1,7 +1,7 @@
 # Cazador
 ## Cazador
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3145)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0
 - **Armor:** 96

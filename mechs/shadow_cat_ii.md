@@ -1,7 +1,7 @@
 # Shadow Cat II
 ## Shadow Cat II (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3076)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Shadow Cat II 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3089)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 144 (Ferro Fibrous)
@@ -27,7 +27,7 @@
 
 ## Shadow Cat II 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3092)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
 - **Armor:** 144 (Ferro Fibrous)

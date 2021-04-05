@@ -1,7 +1,7 @@
 # Gravedigger
 ## Gravedigger GDR-1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3102)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 169
@@ -16,7 +16,7 @@
 
 ## Gravedigger GDR-1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3105)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 169

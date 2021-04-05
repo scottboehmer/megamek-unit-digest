@@ -1,7 +1,7 @@
 # Verfolger
 ## Verfolger VR5-R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 200
@@ -17,7 +17,7 @@
 
 ## Verfolger VR6-C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 200
@@ -32,7 +32,7 @@
 
 ## Verfolger VR6-T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 211

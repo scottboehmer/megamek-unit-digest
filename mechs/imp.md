@@ -1,20 +1,7 @@
 # Imp
-## Imp C
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 304
-- **Heat Sinks:** 25 (50)
-- **Weapons:**
-  - Medium Pulse Laser × 5
-  - LRM 20 w/ Artemis IV (ammo: 18)
-  - ER PPC × 2
-- **Battle Value:** 3016
-
 ## Imp IMP-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2793)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
@@ -30,7 +17,7 @@
 
 ## Imp IMP-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
@@ -47,7 +34,7 @@
 
 ## Imp IMP-1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2825)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
@@ -61,9 +48,22 @@
   - Guardian ECM Suite
 - **Battle Value:** 2480
 
+## Imp C
+- **Role:** Undefined
+- **Tech Base:** Clan (2863)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 304
+- **Heat Sinks:** 25 (50)
+- **Weapons:**
+  - Medium Pulse Laser × 5
+  - LRM 20 w/ Artemis IV (ammo: 18)
+  - ER PPC × 2
+- **Battle Value:** 3016
+
 ## Imp IMP-2E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3005)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 288
@@ -76,7 +76,7 @@
 
 ## Imp IMP-3E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 288
@@ -93,7 +93,7 @@
 
 ## Imp IMP-4E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 296

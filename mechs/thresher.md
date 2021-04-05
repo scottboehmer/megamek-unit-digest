@@ -1,23 +1,7 @@
 # Thresher
-## Thresher (Edward)
-- **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 5, XL
-- **Armor:** 152
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Inner Sphere ER Medium Laser × 2
-  - Inner Sphere MRM 20 (ammo: 12)
-  - ER Medium Laser
-  - Ultra AC/10 (ammo: 20)
-- **Equipment:**
-  - MASC
-- **Battle Value:** 1989
-
 ## Thresher (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2849)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 152
@@ -33,7 +17,7 @@
 
 ## Thresher 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2858)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 152
@@ -46,4 +30,20 @@
 - **Equipment:**
   - MASC
 - **Battle Value:** 2274
+
+## Thresher (Edward)
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3058)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 / 8 (10) / 5, XL
+- **Armor:** 152
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Inner Sphere ER Medium Laser × 2
+  - Inner Sphere MRM 20 (ammo: 12)
+  - ER Medium Laser
+  - Ultra AC/10 (ammo: 20)
+- **Equipment:**
+  - MASC
+- **Battle Value:** 1989
 

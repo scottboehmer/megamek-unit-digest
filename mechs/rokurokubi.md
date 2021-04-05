@@ -1,7 +1,7 @@
 # Rokurokubi
 ## Rokurokubi RK-4K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 10 / 0, XL
 - **Armor:** 108 (Hardened)
@@ -14,7 +14,7 @@
 
 ## Rokurokubi RK-4T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 10 / 0, XL
 - **Armor:** 108 (Hardened)

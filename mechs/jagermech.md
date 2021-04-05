@@ -1,7 +1,20 @@
 # JagerMech
+## JagerMech JM6-S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2774)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 96
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - AC/5 × 2 (ammo: 40)
+  - AC/2 × 2 (ammo: 45)
+  - Medium Laser × 2
+- **Battle Value:** 901
+
 ## JagerMech JM6-A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2778)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 128
@@ -14,7 +27,7 @@
 
 ## JagerMech JM6-DD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 116 (Ferro Fibrous)
@@ -27,25 +40,9 @@
   - CASE
 - **Battle Value:** 965
 
-## JagerMech JM6-DDa
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 116 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - AC/5 × 2 (ammo: 60)
-  - Light AC/2 × 2 (ammo: 90)
-  - Medium Laser × 2
-- **Equipment:**
-  - CASE
-  - Targeting Computer
-- **Battle Value:** 911
-
 ## JagerMech JM6-DG
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 116 (Ferro Fibrous)
@@ -57,65 +54,9 @@
   - CASE
 - **Battle Value:** 1625
 
-## JagerMech JM6-DGr
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 116 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Gauss Rifle × 2 (ammo: 48)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1661
-
-## JagerMech JM6-H
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 2-X AC × 2 (ammo: 45 Cluster)
-  - Large Laser × 2
-  - Rocket 15 × 6
-- **Battle Value:** 1348
-
-## JagerMech JM6-S
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 96
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - AC/5 × 2 (ammo: 40)
-  - AC/2 × 2 (ammo: 45)
-  - Medium Laser × 2
-- **Battle Value:** 901
-
-## JagerMech JM7-C3BS
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 197 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Snub-Nose PPC × 2
-  - Light AC/2 × 4 (ammo: 90)
-  - ER Medium Laser
-- **Equipment:**
-  - CASE
-  - C3 Boosted Slave
-- **Battle Value:** 1354
-
 ## JagerMech JM7-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 197 (Ferro Fibrous)
@@ -128,9 +69,23 @@
   - CASE
 - **Battle Value:** 1500
 
+## JagerMech JM6-DGr
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3058)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 116 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Gauss Rifle × 2 (ammo: 48)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1661
+
 ## JagerMech JM7-F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 197 (Ferro Fibrous)
@@ -144,9 +99,22 @@
   - Targeting Computer
 - **Battle Value:** 1774
 
+## JagerMech JM6-H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3064)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 2-X AC × 2 (ammo: 45 Cluster)
+  - Large Laser × 2
+  - Rocket 15 × 6
+- **Battle Value:** 1348
+
 ## JagerMech JM7-G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 197 (Ferro Fibrous)
@@ -158,4 +126,36 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1278
+
+## JagerMech JM6-DDa
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3070)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 116 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - AC/5 × 2 (ammo: 60)
+  - Light AC/2 × 2 (ammo: 90)
+  - Medium Laser × 2
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+- **Battle Value:** 911
+
+## JagerMech JM7-C3BS
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3075)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 197 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Snub-Nose PPC × 2
+  - Light AC/2 × 4 (ammo: 90)
+  - ER Medium Laser
+- **Equipment:**
+  - CASE
+  - C3 Boosted Slave
+- **Battle Value:** 1354
 

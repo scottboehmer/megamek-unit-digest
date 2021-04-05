@@ -1,7 +1,7 @@
 # Cricket
 ## Cricket RWN-01
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3132)
 - **Chassis:** 30 tons (Composite)
 - **Movement:** 7 / 11 (14) / 6, XXL
 - **Armor:** 105 (Ballistic Reinforced)

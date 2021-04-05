@@ -1,7 +1,7 @@
 # Grim Reaper
 ## Grim Reaper GRM-R-PR29
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -18,7 +18,7 @@
 
 ## Grim Reaper GRM-R-PR30
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -36,7 +36,7 @@
 
 ## Grim Reaper GRM-R-PR31
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -54,7 +54,7 @@
 
 ## Grim Reaper GRM-R-PR62A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 185 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Stalking Spider
 ## Stalking Spider (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons Quad
 - **Movement:** 5 / 8 (10) / 5
 - **Armor:** 153 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Stalking Spider 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3060)
 - **Chassis:** 50 tons Quad
 - **Movement:** 5 / 8 (10) / 5
 - **Armor:** 153 (Ferro Fibrous)
@@ -33,7 +33,7 @@
 
 ## Stalking Spider 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3072)
 - **Chassis:** 50 tons Quad
 - **Movement:** 5 / 8 / 8
 - **Armor:** 172 (Ferro Fibrous)

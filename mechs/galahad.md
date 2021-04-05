@@ -1,7 +1,7 @@
 # Galahad
 ## Galahad GLH-1D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2570)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 160
@@ -13,7 +13,7 @@
 
 ## Galahad GLH-2D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2594)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 197 (Ferro Fibrous)
@@ -24,7 +24,7 @@
 
 ## Galahad GLH-3D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 197 (Ferro Fibrous)
@@ -39,7 +39,7 @@
 
 ## Galahad GLH-3D (Laodices)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 201 (Ferro Fibrous)

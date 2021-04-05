@@ -1,7 +1,7 @@
 # Gladiator
 ## Gladiator GLD-1R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2468)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 176 (Primitive)
@@ -14,7 +14,7 @@
 
 ## Gladiator GLD-2R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2487)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 185
@@ -26,7 +26,7 @@
 
 ## Gladiator GLD-3R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2490)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 152
@@ -38,7 +38,7 @@
 
 ## Gladiator GLD-4R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2495)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 152
@@ -49,9 +49,26 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 1291
 
+## Gladiator (Keller)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6 (8) / 6, Light
+- **Armor:** 176
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Snub-Nose PPC w/ PPC Capacitor
+  - MML 5 (ammo: 24 LRM, 20 SRM)
+- **Equipment:**
+  - C3i
+  - Supercharger
+- **Battle Value:** unknown
+
 ## Gladiator GLD-5R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 6, Light
 - **Armor:** 185

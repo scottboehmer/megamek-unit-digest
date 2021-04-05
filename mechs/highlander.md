@@ -1,7 +1,7 @@
 # Highlander
 ## Highlander HGN-732
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2592)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 277 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Highlander HGN-732b
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2598)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 277 (Ferro Fibrous)
@@ -31,9 +31,24 @@
   - CASE
 - **Battle Value:** 2335
 
+## Highlander HGN-732 (Jorgensson)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (2829)
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 2
+- **Armor:** 277 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Clan ER Large Laser × 2
+  - Clan Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 0)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2481
+
 ## Highlander HGN-733
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2866)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 279
@@ -47,7 +62,7 @@
 
 ## Highlander HGN-733C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2866)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 279
@@ -61,7 +76,7 @@
 
 ## Highlander HGN-733P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2866)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 279
@@ -73,26 +88,9 @@
   - Medium Laser × 2
 - **Battle Value:** 1865
 
-## Highlander HGN-734
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3, Light
-- **Armor:** 279
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - LB 20-X AC (ammo: 5 Cluster, 10 Standard)
-  - Streak SRM 6 × 2 (ammo: 15)
-  - ER Large Laser
-  - Medium Pulse Laser
-- **Equipment:**
-  - CASE
-- **Battle Value:** 2214
-
 ## Highlander HGN-736
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 277 (Ferro Fibrous)
@@ -107,9 +105,41 @@
   - C3i
 - **Battle Value:** unknown
 
+## Highlander HGN-694
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0, Light
+- **Armor:** 279
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Gauss Rifle (ammo: 24)
+  - Heavy Gauss Rifle (ammo: 16)
+  - Large Laser × 2
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2358
+
+## Highlander HGN-734
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3, Light
+- **Armor:** 279
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - LB 20-X AC (ammo: 5 Cluster, 10 Standard)
+  - Streak SRM 6 × 2 (ammo: 15)
+  - ER Large Laser
+  - Medium Pulse Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2214
+
 ## Highlander HGN-738
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 279

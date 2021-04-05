@@ -1,21 +1,7 @@
 # Crockett
-## Crockett CRK-5003-0
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
-- **Armor:** 263
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - Large Laser × 2
-  - Small Laser × 2
-  - AC/10 (ammo: 20)
-  - SRM 6 × 2 (ammo: 30)
-- **Battle Value:** 1704
-
 ## Crockett CRK-5003-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 263
@@ -29,7 +15,7 @@
 
 ## Crockett CRK-5003-1b
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 263
@@ -41,9 +27,23 @@
   - Gauss Rifle (ammo: 16)
 - **Battle Value:** 2307
 
+## Crockett CRK-5003-0
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2881)
+- **Chassis:** 85 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 263
+- **Heat Sinks:** 15 (15)
+- **Weapons:**
+  - Large Laser × 2
+  - Small Laser × 2
+  - AC/10 (ammo: 20)
+  - SRM 6 × 2 (ammo: 30)
+- **Battle Value:** 1704
+
 ## Crockett CRK-5003-3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 255
@@ -59,7 +59,7 @@
 
 ## Crockett CRK-5004-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 263
@@ -76,7 +76,7 @@
 
 ## Crockett CRK-5005-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, Light
 - **Armor:** 263

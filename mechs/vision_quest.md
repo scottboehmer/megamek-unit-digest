@@ -1,7 +1,7 @@
 # Vision Quest
 ## Vision Quest
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2832)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Vision Quest 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2868)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # White Raven
 ## White Raven (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3127)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 203 (Ferro Lamellor)
@@ -17,7 +17,7 @@
 
 ## White Raven 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3149)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, XXL
 - **Armor:** 208

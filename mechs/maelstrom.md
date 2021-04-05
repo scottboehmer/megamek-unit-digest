@@ -1,7 +1,7 @@
 # Maelstrom
 ## Maelstrom MTR-5K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 231
@@ -17,7 +17,7 @@
 
 ## Maelstrom MTR-6E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 231
@@ -35,7 +35,7 @@
 
 ## Maelstrom MTR-6K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 231
@@ -53,7 +53,7 @@
 
 ## Maelstrom MTR-7K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3112)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 231

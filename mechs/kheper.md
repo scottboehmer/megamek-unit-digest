@@ -1,7 +1,7 @@
 # Kheper
 ## Kheper KPH-7R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152 (Light Ferro Fibrous)

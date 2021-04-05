@@ -1,7 +1,7 @@
 # Brahma
 ## Brahma BRM-5A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 3, XL
 - **Armor:** 200
@@ -19,7 +19,7 @@
 
 ## Brahma BRM-5B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 3, XL
 - **Armor:** 200

@@ -1,20 +1,7 @@
 # Spartan
-## Spartan C
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 240 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Medium Pulse Laser × 4
-  - Large Pulse Laser × 2
-  - Streak SRM 4 × 2 (ammo: 50)
-- **Battle Value:** 2475
-
 ## Spartan SPT-N1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2764)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 224
@@ -30,7 +17,7 @@
 
 ## Spartan SPT-N2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 224
@@ -44,25 +31,9 @@
   - TAG
 - **Battle Value:** 1605
 
-## Spartan SPT-N3
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 224
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - ER PPC
-  - Streak SRM 2 × 2 (ammo: 100)
-- **Equipment:**
-  - TAG
-  - C3i
-- **Battle Value:** unknown
-
 ## Spartan SPT-NF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2770)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 224
@@ -75,4 +46,33 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1605
+
+## Spartan C
+- **Role:** Undefined
+- **Tech Base:** Clan (2865)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 240 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Medium Pulse Laser × 4
+  - Large Pulse Laser × 2
+  - Streak SRM 4 × 2 (ammo: 50)
+- **Battle Value:** 2475
+
+## Spartan SPT-N3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3064)
+- **Chassis:** 80 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 224
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - ER PPC
+  - Streak SRM 2 × 2 (ammo: 100)
+- **Equipment:**
+  - TAG
+  - C3i
+- **Battle Value:** unknown
 

@@ -1,7 +1,7 @@
 # Talos
 ## Talos TLS-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2532)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 136

@@ -1,7 +1,7 @@
 # Hermit Crab
 ## Hermit Crab HMC-13
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3104)
 - **Chassis:** 25 tons
 - **Movement:** 7 / 11 / 7
 - **Armor:** 80
@@ -12,7 +12,7 @@
 
 ## Hermit Crab HMC-14
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3108)
 - **Chassis:** 25 tons
 - **Movement:** 7 / 11 / 6
 - **Armor:** 80 (Ferro Fibrous)
@@ -23,7 +23,7 @@
 
 ## Hermit Crab HMC-15
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3108)
 - **Chassis:** 25 tons
 - **Movement:** 7 / 11 / 0
 - **Armor:** 80 (Ferro Fibrous)

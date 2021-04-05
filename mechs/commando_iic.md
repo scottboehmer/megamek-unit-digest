@@ -1,7 +1,7 @@
 # Commando IIC
 ## Commando IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2856)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 72

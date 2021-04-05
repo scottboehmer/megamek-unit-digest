@@ -1,7 +1,40 @@
 # Fafnir
+## Fafnir FNR-5
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3063)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0
+- **Armor:** 307
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Heavy Gauss Rifle × 2 (ammo: 32)
+  - Medium Pulse Laser
+- **Equipment:**
+  - CASE
+  - Guardian ECM Suite
+- **Battle Value:** 2636
+
+## Fafnir FNR-5B
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3065)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0
+- **Armor:** 307
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - ER Large Laser
+  - Gauss Rifle × 2 (ammo: 32)
+  - Medium Pulse Laser
+- **Equipment:**
+  - CASE
+  - Guardian ECM Suite
+- **Battle Value:** 2625
+
 ## Fafnir FNR-4A (Peter)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
@@ -18,42 +51,9 @@
   - C3 Slave
 - **Battle Value:** 2458
 
-## Fafnir FNR-5
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
-- **Armor:** 307
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Heavy Gauss Rifle × 2 (ammo: 32)
-  - Medium Pulse Laser
-- **Equipment:**
-  - CASE
-  - Guardian ECM Suite
-- **Battle Value:** 2636
-
-## Fafnir FNR-5B
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
-- **Armor:** 307
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - ER Large Laser
-  - Gauss Rifle × 2 (ammo: 32)
-  - Medium Pulse Laser
-- **Equipment:**
-  - CASE
-  - Guardian ECM Suite
-- **Battle Value:** 2625
-
 ## Fafnir FNR-5WB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
@@ -67,7 +67,7 @@
 
 ## Fafnir FNR-6U
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 307 (Light Ferro Fibrous)

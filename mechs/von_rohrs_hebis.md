@@ -1,7 +1,7 @@
 # Von Rohrs (Hebis)
 ## Von Rohrs (Hebis) VON 4RH-5
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2487)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 144
@@ -14,7 +14,7 @@
 
 ## Von Rohrs (Hebis) VON 4RH-6
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2510)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 144

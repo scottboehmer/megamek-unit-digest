@@ -1,7 +1,7 @@
 # Apollo
 ## Apollo APL-1M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 184
@@ -13,7 +13,7 @@
 
 ## Apollo APL-1R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 184
@@ -25,7 +25,7 @@
 
 ## Apollo APL-2S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 184
@@ -37,7 +37,7 @@
 
 ## Apollo APL-3T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 184
@@ -47,4 +47,18 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 48)
   - Medium Laser × 2
 - **Battle Value:** 1240
+
+## Apollo APL-4M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3083)
+- **Chassis:** 55 tons (Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ELRM 15 × 2 (ammo: 24)
+  - ER Medium Laser
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1302
 

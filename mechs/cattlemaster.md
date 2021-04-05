@@ -1,7 +1,7 @@
 # CattleMaster
 ## CattleMaster CTL-3R 'Herder' IndustrialMech
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
 - **Armor:** 48 (Industrial)
@@ -16,7 +16,7 @@
 
 ## CattleMaster CTL-3R2 'Hunter' IndustrialMech
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
 - **Armor:** 48 (Industrial)
@@ -30,7 +30,7 @@
 
 ## CattleMaster CTL-3R3 SecurityMech
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
 - **Armor:** 64

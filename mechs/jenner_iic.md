@@ -1,7 +1,7 @@
 # Jenner IIC
 ## Jenner IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3042)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 7, XL
 - **Armor:** 67 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Jenner IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3044)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 9, XL
 - **Armor:** 67 (Ferro Fibrous)
@@ -26,7 +26,7 @@
 
 ## Jenner IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3048)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 7, XL
 - **Armor:** 67 (Ferro Fibrous)
@@ -38,7 +38,7 @@
 
 ## Jenner IIC 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3061)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 7, XL
 - **Armor:** 67 (Ferro Fibrous)

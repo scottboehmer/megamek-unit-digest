@@ -1,7 +1,7 @@
 # Mortis
 ## Mortis MS-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 208
@@ -17,7 +17,7 @@
 
 ## Mortis MS-1P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3122)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 208

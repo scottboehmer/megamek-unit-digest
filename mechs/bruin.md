@@ -1,7 +1,7 @@
 # Bruin
 ## Bruin (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3081)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 240
@@ -16,7 +16,7 @@
 
 ## Bruin 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3083)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 240

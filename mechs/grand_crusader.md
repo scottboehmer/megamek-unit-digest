@@ -1,7 +1,7 @@
 # Grand Crusader
 ## Grand Crusader GRN-D-01
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 247
@@ -15,7 +15,7 @@
 
 ## Grand Crusader GRN-D-02
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 240

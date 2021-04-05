@@ -1,7 +1,7 @@
 # Storm Giant
 ## Storm Giant
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 296
@@ -14,7 +14,7 @@
 
 ## Storm Giant 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 297 (Ferro Fibrous)

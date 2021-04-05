@@ -1,7 +1,7 @@
 # Phoenix Hawk IIC
 ## Phoenix Hawk IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2851)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Phoenix Hawk IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2852)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -24,7 +24,7 @@
 
 ## Phoenix Hawk IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3062)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -39,7 +39,7 @@
 
 ## Phoenix Hawk IIC 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3065)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -50,7 +50,7 @@
 
 ## Phoenix Hawk IIC 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3069)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -62,7 +62,7 @@
 
 ## Phoenix Hawk IIC 6
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3070)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, XL
 - **Armor:** 220 (Ferro Fibrous)
@@ -76,7 +76,7 @@
 
 ## Phoenix Hawk IIC 7
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3078)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
 - **Armor:** 232
@@ -89,7 +89,7 @@
 
 ## Phoenix Hawk IIC 8
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3086)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XXL
 - **Armor:** 232

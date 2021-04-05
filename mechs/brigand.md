@@ -1,7 +1,7 @@
 # Brigand
 ## Brigand LDT-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 64
@@ -13,7 +13,7 @@
 
 ## Brigand LDT-X1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 64
@@ -25,7 +25,7 @@
 
 ## Brigand LDT-X2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
 - **Armor:** 64
@@ -37,7 +37,7 @@
 
 ## Brigand LDT-X3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 72
@@ -47,22 +47,9 @@
   - Flamer × 2
 - **Battle Value:** 695
 
-## Brigand LDT-X4
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, Light
-- **Armor:** 80
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - Light PPC
-- **Battle Value:** 1038
-
 ## Brigand LDT-XPR1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 88
@@ -74,7 +61,7 @@
 
 ## Brigand LDT-XPR2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 88
@@ -87,7 +74,7 @@
 
 ## Brigand LDT-XPR4
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 88
@@ -95,4 +82,29 @@
 - **Weapons:**
   - Medium Laser × 4
 - **Battle Value:** 739
+
+## Brigand LDT-XPR5
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 25 tons (Composite)
+- **Movement:** 5 / 8 / 8, XL
+- **Armor:** 88
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 4
+- **Battle Value:** 743
+
+## Brigand LDT-X4
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3078)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 6 (7) / 9 (11) / 6, Light
+- **Armor:** 80
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - Light PPC
+- **Battle Value:** 1038
 

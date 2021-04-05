@@ -1,7 +1,7 @@
 # Predator
 ## Predator (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3060)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 184
@@ -14,7 +14,7 @@
 
 ## Predator 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)

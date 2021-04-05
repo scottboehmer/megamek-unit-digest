@@ -1,7 +1,7 @@
 # Onager
 ## Onager (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3083)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 5
 - **Armor:** 279 (Ferro Fibrous)

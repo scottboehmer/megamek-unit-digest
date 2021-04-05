@@ -1,7 +1,7 @@
 # Hunchback IIC
 ## Hunchback IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2856)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 96
@@ -13,7 +13,7 @@
 
 ## Hunchback IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3061)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 112
@@ -25,7 +25,7 @@
 
 ## Hunchback IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3062)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 96

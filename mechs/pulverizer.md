@@ -1,7 +1,7 @@
 # Pulverizer
 ## Pulverizer
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2845)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 279 (Ferro Fibrous)

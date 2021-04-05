@@ -1,7 +1,7 @@
 # Spatha
 ## Spatha SP1-X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 60 tons
 - **Movement:** 6 (7) / 9 (11) / 0, XXL
 - **Armor:** 176 (Laser Reflective)

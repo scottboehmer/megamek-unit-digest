@@ -1,7 +1,7 @@
 # Mongoose II
 ## Mongoose II MON-266
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 112
@@ -17,7 +17,7 @@
 
 ## Mongoose II MON-267
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 104 (Stealth)
@@ -34,7 +34,7 @@
 
 ## Mongoose II MON-268
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 125 (Ferro Fibrous)

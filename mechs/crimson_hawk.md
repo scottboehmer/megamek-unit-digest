@@ -1,7 +1,7 @@
 # Crimson Hawk
 ## Crimson Hawk (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3071)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 89 (Ferro Fibrous)
@@ -12,7 +12,7 @@
 
 ## Crimson Hawk 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3073)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 89 (Ferro Fibrous)
@@ -23,7 +23,7 @@
 
 ## Crimson Hawk 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 6, XL
 - **Armor:** 86 (Ferro Fibrous)

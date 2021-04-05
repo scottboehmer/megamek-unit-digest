@@ -1,7 +1,7 @@
 # Dasher II
 ## Dasher II (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3077)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL
 - **Armor:** 57 (Ferro Fibrous)
@@ -12,7 +12,7 @@
 
 ## Dasher II 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3084)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XXL
 - **Armor:** 105 (Ferro Fibrous)
@@ -25,7 +25,7 @@
 
 ## Dasher II 3
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3136)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 137 (Ferro Fibrous)

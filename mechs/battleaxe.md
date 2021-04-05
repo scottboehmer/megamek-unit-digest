@@ -1,7 +1,7 @@
 # BattleAxe
 ## BattleAxe BKX-1X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2459)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 144 (Primitive)
@@ -16,7 +16,7 @@
 
 ## BattleAxe BKX-7K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 144
@@ -29,7 +29,7 @@
 
 ## BattleAxe BKX-7NC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2480)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 144
@@ -42,7 +42,7 @@
 
 ## BattleAxe BKX-8D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 217 (Light Ferro Fibrous)

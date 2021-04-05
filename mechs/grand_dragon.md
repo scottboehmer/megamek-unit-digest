@@ -1,22 +1,7 @@
 # Grand Dragon
-## Grand Dragon DRG-10K
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 192 (Anti-Penetrative Ablative Armor)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Snub-Nose PPC
-  - MRM 20 w/ Apollo FCS (ammo: 12)
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1603
-
 ## Grand Dragon DRG-1G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 160
@@ -29,7 +14,7 @@
 
 ## Grand Dragon DRG-1G (Douglas)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 160
@@ -43,7 +28,7 @@
 
 ## Grand Dragon DRG-5K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 60 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 160
@@ -58,7 +43,7 @@
 
 ## Grand Dragon DRG-5K-DC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 60 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 160
@@ -72,9 +57,25 @@
   - CASE
 - **Battle Value:** 1322
 
+## Grand Dragon DRG-C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3050)
+- **Chassis:** 60 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 160
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Medium Laser × 2
+  - ER PPC
+  - LRM 10 (ammo: 24)
+- **Equipment:**
+  - CASE
+  - C3 Slave
+- **Battle Value:** 1322
+
 ## Grand Dragon DRG-7K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 160
@@ -91,7 +92,7 @@
 
 ## Grand Dragon DRG-7K (Mark)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light
 - **Armor:** 179 (Ferro Fibrous)
@@ -106,9 +107,24 @@
   - MASC
 - **Battle Value:** 1817
 
+## Grand Dragon DRG-9KC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 60 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 161 (Light Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Medium Laser × 2
+  - Snub-Nose PPC
+  - MML 5 (ammo: 20 SRM, 24 LRM)
+- **Equipment:**
+  - C3 Master
+- **Battle Value:** 1147
+
 ## Grand Dragon DRG-7KC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 161 (Light Ferro Fibrous)
@@ -123,34 +139,18 @@
   - MASC
 - **Battle Value:** 1673
 
-## Grand Dragon DRG-9KC
+## Grand Dragon DRG-10K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons
+- **Tech Base:** Inner Sphere (3114)
+- **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
-- **Armor:** 161 (Light Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
+- **Armor:** 192 (Anti-Penetrative Ablative Armor)
+- **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
+  - ER Medium Laser × 2
   - Snub-Nose PPC
-  - MML 5 (ammo: 20 SRM, 24 LRM)
-- **Equipment:**
-  - C3 Master
-- **Battle Value:** 1147
-
-## Grand Dragon DRG-C
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons
-- **Movement:** 6 / 9 / 0, XL
-- **Armor:** 160
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Medium Laser × 2
-  - ER PPC
-  - LRM 10 (ammo: 24)
+  - MRM 20 w/ Apollo FCS (ammo: 12)
 - **Equipment:**
   - CASE
-  - C3 Slave
-- **Battle Value:** 1322
+- **Battle Value:** 1603
 

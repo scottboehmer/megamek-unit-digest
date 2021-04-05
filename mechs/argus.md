@@ -1,7 +1,7 @@
 # Argus
 ## Argus AGS-2D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 176
@@ -15,7 +15,7 @@
 
 ## Argus AGS-4D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192
@@ -33,7 +33,7 @@
 
 ## Argus AGS-5D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 201 (Light Ferro Fibrous)
@@ -49,24 +49,9 @@
   - C3 Slave
 - **Battle Value:** 2065
 
-## Argus AGS-6F
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, Light
-- **Armor:** 195 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - SRM 6 (ammo: 15)
-  - AC/20 (ammo: 20)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1524
-
 ## Argus AGS-8DX
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192
@@ -80,4 +65,19 @@
   - CASE
   - Targeting Computer
 - **Battle Value:** 1598
+
+## Argus AGS-6F
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3078)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, Light
+- **Armor:** 195 (Light Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRM 6 (ammo: 15)
+  - AC/20 (ammo: 20)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1524
 

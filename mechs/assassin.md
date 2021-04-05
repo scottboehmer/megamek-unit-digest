@@ -1,7 +1,20 @@
 # Assassin
+## Assassin ASN-21
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2676)
+- **Chassis:** 40 tons
+- **Movement:** 7 / 11 / 7
+- **Armor:** 72
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser
+  - SRM 2 (ammo: 50)
+  - LRM 5 (ammo: 24)
+- **Battle Value:** 749
+
 ## Assassin ASN-101
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 5
 - **Armor:** 64
@@ -13,22 +26,9 @@
   - Small Laser × 3
 - **Battle Value:** 757
 
-## Assassin ASN-21
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 40 tons
-- **Movement:** 7 / 11 / 7
-- **Armor:** 72
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser
-  - SRM 2 (ammo: 50)
-  - LRM 5 (ammo: 24)
-- **Battle Value:** 749
-
 ## Assassin ASN-23
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 7
 - **Armor:** 72
@@ -40,7 +40,7 @@
 
 ## Assassin ASN-30
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, Light
 - **Armor:** 104
@@ -52,7 +52,7 @@
 
 ## Assassin ASN-30 (Alice)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, Light
 - **Armor:** 134 (Ferro Fibrous)
@@ -68,7 +68,7 @@
 
 ## Assassin ASN-99
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 128 (Stealth)

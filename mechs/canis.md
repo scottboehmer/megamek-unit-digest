@@ -1,7 +1,7 @@
 # Canis
 ## Canis (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3058)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 240
@@ -13,7 +13,7 @@
 
 ## Canis 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3071)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 240

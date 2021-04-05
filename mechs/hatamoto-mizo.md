@@ -1,7 +1,7 @@
 # Hatamoto-Mizo
 ## Hatamoto-Mizo HTM-27Y
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247

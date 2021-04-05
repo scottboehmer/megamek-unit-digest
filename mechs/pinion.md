@@ -1,7 +1,7 @@
 # Pinion
 ## Pinion (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3065)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 153
@@ -14,7 +14,7 @@
 
 ## Pinion 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3068)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 153
@@ -27,7 +27,7 @@
 
 ## Pinion 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 153

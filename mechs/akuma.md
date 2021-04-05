@@ -1,7 +1,7 @@
 # Akuma
 ## Akuma AKU-1X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
@@ -18,7 +18,7 @@
 
 ## Akuma AKU-1XJ
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 279
@@ -33,7 +33,7 @@
 
 ## Akuma AKU-2X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
@@ -51,7 +51,7 @@
 
 ## Akuma AKU-2XC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
@@ -71,7 +71,7 @@
 
 ## Akuma AKU-2XK
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279

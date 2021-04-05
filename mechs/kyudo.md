@@ -1,7 +1,7 @@
 # Kyudo
 ## Kyudo KY2-D-01
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2443)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 101 (Primitive)
@@ -14,7 +14,7 @@
 
 ## Kyudo KY2-D-02
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2625)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 143 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Kyudo KY2-D-03
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 143 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Dervish
 ## Dervish DV-1S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2520)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 3
 - **Armor:** 107 (Primitive)
@@ -14,7 +14,7 @@
 
 ## Dervish DV-6M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2610)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 120
@@ -27,7 +27,7 @@
 
 ## Dervish DV-6Md
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 120
@@ -40,22 +40,9 @@
   - CASE
 - **Battle Value:** 1251
 
-## Dervish DV-6Mr
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5
-- **Armor:** 120
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - Medium Laser × 2
-  - LRM 10 × 2 (ammo: 24)
-- **Battle Value:** 1347
-
 ## Dervish DV-7D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 143 (Ferro Fibrous)
@@ -70,7 +57,7 @@
 
 ## Dervish DV-8D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 168
@@ -84,7 +71,7 @@
 
 ## Dervish DV-9D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 184
@@ -96,4 +83,17 @@
   - CASE
   - Targeting Computer
 - **Battle Value:** 1518
+
+## Dervish DV-6Mr
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 55 tons
+- **Movement:** 5 / 8 / 5
+- **Armor:** 120
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - Medium Laser × 2
+  - LRM 10 × 2 (ammo: 24)
+- **Battle Value:** 1347
 

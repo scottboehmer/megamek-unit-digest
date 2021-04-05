@@ -1,7 +1,7 @@
 # Enforcer
 ## Enforcer ENF-4R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2777)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 144
@@ -14,7 +14,7 @@
 
 ## Enforcer ENF-5D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 161 (Ferro Fibrous)
@@ -29,7 +29,7 @@
 
 ## Enforcer ENF-5D (Daniel)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 161 (Ferro Fibrous)

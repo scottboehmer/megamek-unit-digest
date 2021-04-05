@@ -1,7 +1,7 @@
 # Hollander III
 ## Hollander III BZK-D1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3114)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 96 (Laser Reflective)
@@ -16,7 +16,7 @@
 
 ## Hollander III BZK-D2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3115)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 80 (Laser Reflective)
@@ -30,7 +30,7 @@
 
 ## Hollander III BZK-D3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3118)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 96 (Laser Reflective)

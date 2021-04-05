@@ -1,7 +1,7 @@
 # Exhumer
 ## Exhumer EXR-2X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3129)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Exhumer EXR-3P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3131)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL
 - **Armor:** 185 (Light Ferro Fibrous)

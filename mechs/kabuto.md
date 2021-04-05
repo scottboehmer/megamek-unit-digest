@@ -1,7 +1,7 @@
 # Kabuto
 ## Kabuto KBO-7A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 69
@@ -12,7 +12,7 @@
 
 ## Kabuto KBO-7B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 69

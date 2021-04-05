@@ -1,7 +1,7 @@
 # Koto
 ## Koto KT-P2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Koto KTO-2A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -29,7 +29,7 @@
 
 ## Koto KTO-3A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)
@@ -42,7 +42,7 @@
 
 ## Koto KTO-4A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 80 (Ferro Fibrous)

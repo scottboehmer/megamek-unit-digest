@@ -1,38 +1,7 @@
 # Mongoose
-## Mongoose C
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
-- **Armor:** 86 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - ER Large Laser
-  - ER Small Laser
-- **Equipment:**
-  - Active Probe
-- **Battle Value:** 1386
-
-## Mongoose C 2
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
-- **Armor:** 86 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - ER Large Laser
-  - ER Small Laser
-- **Equipment:**
-  - Active Probe
-  - Targeting Computer
-- **Battle Value:** 1620
-
 ## Mongoose MON-66
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 89 (Ferro Fibrous)
@@ -46,7 +15,7 @@
 
 ## Mongoose MON-66b
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2740)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 89 (Ferro Fibrous)
@@ -61,7 +30,7 @@
 
 ## Mongoose MON-66GX (Gunslinger)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 89
@@ -73,32 +42,9 @@
   - Null-Signature System
 - **Battle Value:** 923
 
-## Mongoose MON-67
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 25 tons
-- **Movement:** 8 / 12 / 0
-- **Armor:** 88
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 3
-  - Small Laser
-- **Battle Value:** 741
-
-## Mongoose MON-68
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 25 tons
-- **Movement:** 7 / 11 / 0
-- **Armor:** 88
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Large Laser
-- **Battle Value:** 676
-
 ## Mongoose MON-69
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 80 (Ferro Fibrous)
@@ -111,7 +57,7 @@
 
 ## Mongoose MON-70
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 89 (Ferro Fibrous)
@@ -121,9 +67,63 @@
   - Flamer × 2
 - **Battle Value:** 750
 
+## Mongoose MON-67
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2830)
+- **Chassis:** 25 tons
+- **Movement:** 8 / 12 / 0
+- **Armor:** 88
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 3
+  - Small Laser
+- **Battle Value:** 741
+
+## Mongoose C
+- **Role:** Undefined
+- **Tech Base:** Clan (2833)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 86 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - ER Large Laser
+  - ER Small Laser
+- **Equipment:**
+  - Active Probe
+- **Battle Value:** 1386
+
+## Mongoose C 2
+- **Role:** Undefined
+- **Tech Base:** Clan (2860)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 86 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - ER Large Laser
+  - ER Small Laser
+- **Equipment:**
+  - Active Probe
+  - Targeting Computer
+- **Battle Value:** 1620
+
+## Mongoose MON-68
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3039)
+- **Chassis:** 25 tons
+- **Movement:** 7 / 11 / 0
+- **Armor:** 88
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Large Laser
+- **Battle Value:** 676
+
 ## Mongoose MON-76
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 89 (Ferro Fibrous)
@@ -138,7 +138,7 @@
 
 ## Mongoose MON-86
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 89 (Ferro Fibrous)

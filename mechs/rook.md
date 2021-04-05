@@ -1,7 +1,7 @@
 # Rook
 ## Rook NH-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 160 (Primitive)
@@ -15,7 +15,7 @@
 
 ## Rook NH-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 3
 - **Armor:** 136
@@ -26,24 +26,9 @@
   - Small Laser
 - **Battle Value:** 1227
 
-## Rook NH-1X 'Rook-X'
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 160 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Medium Laser × 2
-  - ER Small Laser × 2
-  - ER PPC w/ PPC Capacitor
-- **Battle Value:** 1187
-
 ## Rook NH-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 6
 - **Armor:** 185
@@ -57,7 +42,7 @@
 
 ## Rook NH-3X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 185
@@ -69,4 +54,19 @@
 - **Equipment:**
   - Supercharger
 - **Battle Value:** unknown
+
+## Rook NH-1X 'Rook-X'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 55 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 160 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 16 (16)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Medium Laser × 2
+  - ER Small Laser × 2
+  - ER PPC w/ PPC Capacitor
+- **Battle Value:** 1187
 

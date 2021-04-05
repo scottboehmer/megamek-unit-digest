@@ -1,7 +1,7 @@
 # Banshee
 ## Banshee BNC-1E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2445)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 241 (Primitive)
@@ -16,7 +16,7 @@
 
 ## Banshee BNC-3E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 240
@@ -29,7 +29,7 @@
 
 ## Banshee BNC-3M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2579)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 240
@@ -40,35 +40,9 @@
   - Small Laser
 - **Battle Value:** 1595
 
-## Banshee BNC-3MC
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 240
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - AC/10 (ammo: 20)
-  - PPC
-  - Small Laser
-- **Battle Value:** 1487
-
-## Banshee BNC-3Mr
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6 / 0
-- **Armor:** 240
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Medium Laser × 2
-  - Small Laser
-- **Battle Value:** 1801
-
 ## Banshee BNC-3Q
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2915)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 240
@@ -80,7 +54,7 @@
 
 ## Banshee BNC-3S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3026)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 240
@@ -95,7 +69,7 @@
 
 ## Banshee BNC-3S (Reinesblatt)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3029)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 240
@@ -109,9 +83,22 @@
   - Small Laser × 2
 - **Battle Value:** 1678
 
+## Banshee BNC-3MC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3037)
+- **Chassis:** 95 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 240
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - AC/10 (ammo: 20)
+  - PPC
+  - Small Laser
+- **Battle Value:** 1487
+
 ## Banshee BNC-5S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 240
@@ -126,7 +113,7 @@
 
 ## Banshee BNC-5S (Sawyer)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 240
@@ -141,7 +128,7 @@
 
 ## Banshee BNC-5S (Vandergriff)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 240
@@ -153,9 +140,24 @@
   - LB 10-X AC (ammo: 10)
 - **Battle Value:** 1853
 
+## Banshee BNC-6S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 95 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 232
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Heavy Gauss Rifle (ammo: 20)
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
+  - Small Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1889
+
 ## Banshee BNC-7S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 248
@@ -171,7 +173,7 @@
 
 ## Banshee BNC-8S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons
 - **Movement:** 4 (5) / 6 (8) / 0, XL
 - **Armor:** 288
@@ -195,7 +197,7 @@
 
 ## Banshee BNC-9S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 288
@@ -213,9 +215,22 @@
   - Targeting Computer
 - **Battle Value:** 2496
 
+## Banshee BNC-3Mr
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 95 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 240
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Medium Laser × 2
+  - Small Laser
+- **Battle Value:** 1801
+
 ## Banshee BNC-9S2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 288

@@ -1,30 +1,7 @@
 # Hermes
-## Hermes HER-1A
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 30 tons
-- **Movement:** 9 / 14 / 0
-- **Armor:** 56
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Flamer
-  - Medium Laser × 2
-- **Battle Value:** 601
-
-## Hermes HER-1B
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 30 tons
-- **Movement:** 9 / 14 / 0
-- **Armor:** 56
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 3
-- **Battle Value:** 687
-
 ## Hermes HER-1S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2632)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0
 - **Armor:** 89 (Ferro Fibrous)
@@ -36,7 +13,7 @@
 
 ## Hermes HER-1Sb
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2740)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
 - **Armor:** 105 (Ferro Fibrous)
@@ -50,9 +27,32 @@
   - Beagle Active Probe
 - **Battle Value:** 1112
 
+## Hermes HER-1A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2856)
+- **Chassis:** 30 tons
+- **Movement:** 9 / 14 / 0
+- **Armor:** 56
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Flamer
+  - Medium Laser × 2
+- **Battle Value:** 601
+
+## Hermes HER-1B
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2856)
+- **Chassis:** 30 tons
+- **Movement:** 9 / 14 / 0
+- **Armor:** 56
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 3
+- **Battle Value:** 687
+
 ## Hermes HER-3S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0
 - **Armor:** 44 (Ferro Fibrous)
@@ -66,7 +66,7 @@
 
 ## Hermes HER-3S1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0
 - **Armor:** 44 (Ferro Fibrous)
@@ -80,7 +80,7 @@
 
 ## Hermes HER-3S2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0
 - **Armor:** 44 (Ferro Fibrous)
@@ -93,9 +93,23 @@
   - Guardian ECM Suite
 - **Battle Value:** 600
 
+## Hermes HER-4S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3057)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 9 / 14 (18) / 0, XL
+- **Armor:** 98 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 3
+- **Equipment:**
+  - MASC
+  - Guardian ECM Suite
+- **Battle Value:** 1012
+
 ## Hermes HER-4K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
 - **Armor:** 71 (Ferro Fibrous)
@@ -111,7 +125,7 @@
 
 ## Hermes HER-4M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
 - **Armor:** 71 (Ferro Fibrous)
@@ -124,23 +138,9 @@
   - C3i
 - **Battle Value:** unknown
 
-## Hermes HER-4S
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 (18) / 0, XL
-- **Armor:** 98 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 3
-- **Equipment:**
-  - MASC
-  - Guardian ECM Suite
-- **Battle Value:** 1012
-
 ## Hermes HER-4WB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
 - **Armor:** 88 (Stealth)

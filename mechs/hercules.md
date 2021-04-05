@@ -1,7 +1,7 @@
 # Hercules
 ## Hercules HRC-LS-9000
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 197 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Hercules HRC-LS-9001
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 197 (Ferro Fibrous)
@@ -29,4 +29,21 @@
   - Small Pulse Laser × 2
   - ER PPC
 - **Battle Value:** 1566
+
+## Hercules HRC-LS-9000 (Julius)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3065)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 215 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Medium Laser
+  - Medium Pulse Laser
+  - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - Small Pulse Laser × 2
+  - Anti-Missile System (ammo: 12)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1532
 

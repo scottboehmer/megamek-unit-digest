@@ -1,7 +1,7 @@
 # Shiro
 ## Shiro SH-1V
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 7 / 0, XL
 - **Armor:** 168 (Hardened)
@@ -17,7 +17,7 @@
 
 ## Shiro SH-2P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 231 (Ballistic Reinforced)

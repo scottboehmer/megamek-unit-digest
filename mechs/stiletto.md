@@ -1,7 +1,7 @@
 # Stiletto
 ## Stiletto STO-4A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, Light
 - **Armor:** 107 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Stiletto STO-4B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, Light
 - **Armor:** 98 (Ferro Fibrous)
@@ -31,7 +31,7 @@
 
 ## Stiletto STO-4C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, Light
 - **Armor:** 116 (Ferro Fibrous)

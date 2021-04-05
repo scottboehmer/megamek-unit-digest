@@ -1,7 +1,7 @@
 # Tian-Zong
 ## Tian-Zong TNZ-N1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3090)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216 (Stealth)
@@ -15,7 +15,7 @@
 
 ## Tian-Zong TNZ-N2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3096)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216 (Stealth)
@@ -29,7 +29,7 @@
 
 ## Tian-Zong TNZ-N3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3140)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216 (Stealth)
@@ -44,7 +44,7 @@
 
 ## Tian-Zong TNZ-N3 'Jasminda'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3140)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 216 (Stealth)

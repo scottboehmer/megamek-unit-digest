@@ -1,7 +1,7 @@
 # Piranha
 ## Piranha (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3051)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 64
@@ -14,7 +14,7 @@
 
 ## Piranha 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3067)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 64
@@ -27,7 +27,7 @@
 
 ## Piranha 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3068)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 64
@@ -43,7 +43,7 @@
 
 ## Piranha 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3072)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
 - **Armor:** 64

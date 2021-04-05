@@ -1,7 +1,7 @@
 # Porcupine
 ## Porcupine PRC-2N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XXL
 - **Armor:** 69

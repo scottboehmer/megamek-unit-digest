@@ -1,7 +1,7 @@
 # Daimyo
 ## Daimyo DMO-1K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 134 (Ferro Fibrous)
@@ -12,23 +12,9 @@
   - SRM 6 (ammo: 30)
 - **Battle Value:** 1148
 
-## Daimyo DMO-1K2 (Al-Shahab)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 40 tons
-- **Movement:** 5 / 8 (10) / 0, Light
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Heavy PPC w/ PPC Capacitor
-  - Small X-Pulse Laser × 2
-- **Equipment:**
-  - Supercharger
-- **Battle Value:** 1332
-
 ## Daimyo DMO-2K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 134 (Ferro Fibrous)
@@ -41,7 +27,7 @@
 
 ## Daimyo DMO-4K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 134 (Ferro Fibrous)
@@ -53,7 +39,7 @@
 
 ## Daimyo DMO-5K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 134 (Ferro Fibrous)
@@ -64,4 +50,18 @@
 - **Equipment:**
   - C3 Master
 - **Battle Value:** 1087
+
+## Daimyo DMO-1K2 (Al-Shahab)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3066)
+- **Chassis:** 40 tons
+- **Movement:** 5 / 8 (10) / 0, Light
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Heavy PPC w/ PPC Capacitor
+  - Small X-Pulse Laser × 2
+- **Equipment:**
+  - Supercharger
+- **Battle Value:** 1332
 

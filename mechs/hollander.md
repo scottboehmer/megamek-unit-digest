@@ -1,7 +1,7 @@
 # Hollander
 ## Hollander BZK-F3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 71 (Ferro Fibrous)
@@ -12,7 +12,7 @@
 
 ## Hollander BZK-G1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 107 (Ferro Fibrous)

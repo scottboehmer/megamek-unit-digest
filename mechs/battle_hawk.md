@@ -1,7 +1,7 @@
 # Battle Hawk
 ## Battle Hawk BH-K305
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 98 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Battle Hawk BH-K306
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 5, Light
 - **Armor:** 98 (Ferro Fibrous)

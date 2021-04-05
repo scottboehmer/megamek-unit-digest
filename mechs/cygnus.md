@@ -1,7 +1,7 @@
 # Cygnus
 ## Cygnus (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 280
@@ -15,7 +15,7 @@
 
 ## Cygnus 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 280
@@ -27,7 +27,7 @@
 
 ## Cygnus 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 264
@@ -38,7 +38,7 @@
 
 ## Cygnus 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3090)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 293

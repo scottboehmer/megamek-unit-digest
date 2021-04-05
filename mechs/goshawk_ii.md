@@ -1,7 +1,7 @@
 # Goshawk II
 ## Goshawk II (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3086)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144

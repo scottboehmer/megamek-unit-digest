@@ -1,7 +1,7 @@
 # Wyvern IIC
 ## Wyvern IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2843)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 152

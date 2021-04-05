@@ -1,7 +1,7 @@
 # Jackrabbit
 ## Jackrabbit JKR-8T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 62 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Jackrabbit JKR-9R 'Joker'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2768)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 80 (Ferro Fibrous)
@@ -25,7 +25,7 @@
 
 ## Jackrabbit JKR-9W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 62 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Sling
 ## Sling SL-1G
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
 - **Armor:** 53 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Sling SL-1H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
 - **Armor:** 89 (Ferro Fibrous)

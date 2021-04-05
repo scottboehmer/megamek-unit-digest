@@ -1,7 +1,7 @@
 # Powerman SC XI-M-B LoaderMech
 ## Powerman SC XI-M-B LoaderMech MOD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
 - **Armor:** 60 (Commercial)

@@ -1,7 +1,7 @@
 # Hitman
 ## Hitman HM-1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 80
@@ -16,9 +16,26 @@
   - MASC
 - **Battle Value:** 925
 
+## Hitman HM-2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3056)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 0, XL
+- **Armor:** 80
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 3
+  - Narc (ammo: 6)
+- **Equipment:**
+  - Guardian ECM Suite
+  - Beagle Active Probe
+  - C3 Slave
+  - MASC
+- **Battle Value:** 861
+
 ## Hitman HM-1r
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
 - **Armor:** 84 (Light Ferro Fibrous)
@@ -33,21 +50,4 @@
   - TAG
   - MASC
 - **Battle Value:** 938
-
-## Hitman HM-2
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, XL
-- **Armor:** 80
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 3
-  - Narc (ammo: 6)
-- **Equipment:**
-  - Guardian ECM Suite
-  - Beagle Active Probe
-  - C3 Slave
-  - MASC
-- **Battle Value:** 861
 

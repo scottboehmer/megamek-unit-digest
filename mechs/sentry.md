@@ -1,7 +1,7 @@
 # Sentry
 ## Sentry SNT-04
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
 - **Armor:** 136

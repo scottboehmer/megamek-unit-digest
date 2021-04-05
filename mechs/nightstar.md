@@ -1,25 +1,21 @@
 # Nightstar
-## Nightstar NSR-10D
+## Nightstar NSR-9J
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere (2767)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 293
-- **Gyroscope:** Extra-Light Gyroscope
-- **Heat Sinks:** 16 (32)
+- **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Clan ER Large Laser × 2
-  - Light Gauss Rifle × 2 (ammo: 64)
-  - Clan ER PPC
-  - Medium X-Pulse Laser
-- **Equipment:**
-  - Coolant Pod × 2
-  - CASE II
-- **Battle Value:** 2539
+  - Gauss Rifle × 2 (ammo: 56)
+  - Medium Pulse Laser × 2
+  - ER PPC
+  - Small Laser
+- **Battle Value:** 2399
 
 ## Nightstar NSR-9FC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 293
@@ -32,23 +28,9 @@
   - CASE
 - **Battle Value:** 1929
 
-## Nightstar NSR-9J
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0, XL
-- **Armor:** 293
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Gauss Rifle × 2 (ammo: 56)
-  - Medium Pulse Laser × 2
-  - ER PPC
-  - Small Laser
-- **Battle Value:** 2399
-
 ## Nightstar NSR-9J (Brubaker)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3057)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 293
@@ -61,7 +43,7 @@
 
 ## Nightstar NSR-9J (Holt)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3063)
 - **Chassis:** 95 tons
 - **Movement:** 3 (4) / 5 (6) / 3, XL
 - **Armor:** 293
@@ -78,7 +60,7 @@
 
 ## Nightstar NSR-9SS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 293
@@ -91,4 +73,22 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 2145
+
+## Nightstar NSR-10D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3144)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 293
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Clan ER Large Laser × 2
+  - Light Gauss Rifle × 2 (ammo: 64)
+  - Clan ER PPC
+  - Medium X-Pulse Laser
+- **Equipment:**
+  - Coolant Pod × 2
+  - CASE II
+- **Battle Value:** 2539
 

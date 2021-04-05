@@ -1,7 +1,7 @@
 # Guillotine IIC
 ## Guillotine IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2889)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -15,7 +15,7 @@
 
 ## Guillotine IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6
 - **Armor:** 217 (Ferro Fibrous)

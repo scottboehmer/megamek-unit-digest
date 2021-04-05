@@ -1,7 +1,7 @@
 # Icarus II
 ## Icarus II ICR-1S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2518)
 - **Chassis:** 40 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 120
@@ -14,7 +14,7 @@
 
 ## Icarus II ICR-2S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 134 (Ferro Fibrous)

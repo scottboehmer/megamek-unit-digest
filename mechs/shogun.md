@@ -1,7 +1,24 @@
 # Shogun
+## Shogun SHG-2H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2777)
+- **Chassis:** 85 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 259 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - LRM 15 w/ Artemis IV × 2 (ammo: 24)
+  - Streak SRM 2 × 4 (ammo: 50)
+  - ER PPC
+  - Medium Laser
+  - Medium Pulse Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2087
+
 ## Shogun C
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2850)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 232 (Ferro Fibrous)
@@ -14,7 +31,7 @@
 
 ## Shogun SHG-2E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3005)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 248
@@ -29,7 +46,7 @@
 
 ## Shogun SHG-2F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3029)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 248
@@ -44,7 +61,7 @@
 
 ## Shogun SHG-2F (Trisha)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 248
@@ -56,21 +73,4 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1733
-
-## Shogun SHG-2H
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
-- **Armor:** 259 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - LRM 15 w/ Artemis IV × 2 (ammo: 24)
-  - Streak SRM 2 × 4 (ammo: 50)
-  - ER PPC
-  - Medium Laser
-  - Medium Pulse Laser
-- **Equipment:**
-  - CASE
-- **Battle Value:** 2087
 

@@ -1,7 +1,7 @@
 # Corvis
 ## Corvis (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2845)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 134 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Corvis 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 134 (Ferro Fibrous)

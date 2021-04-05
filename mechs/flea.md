@@ -1,21 +1,20 @@
 # Flea
-## Flea 'Fire Ant'
+## Flea FLE-4
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0
-- **Armor:** 40
+- **Tech Base:** Inner Sphere (2501)
+- **Chassis:** 20 tons
+- **Movement:** 6 / 9 / 0
+- **Armor:** 32
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 6 (ammo: 100)
-  - Flamer × 3
-- **Equipment:**
-  - MASC
-- **Battle Value:** 332
+  - Small Laser × 2
+  - Large Laser
+  - Flamer
+- **Battle Value:** 432
 
 ## Flea FLE-15
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2523)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 0
 - **Armor:** 48
@@ -29,7 +28,7 @@
 
 ## Flea FLE-16
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3032)
 - **Chassis:** 20 tons
 - **Movement:** 9 / 14 / 0
 - **Armor:** 48
@@ -41,7 +40,7 @@
 
 ## Flea FLE-17
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0
 - **Armor:** 48
@@ -54,9 +53,23 @@
   - MASC
 - **Battle Value:** 510
 
+## Flea 'Fire Ant'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3063)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0
+- **Armor:** 40
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Machine Gun × 6 (ammo: 100)
+  - Flamer × 3
+- **Equipment:**
+  - MASC
+- **Battle Value:** 332
+
 ## Flea FLE-19
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 48
@@ -71,7 +84,7 @@
 
 ## Flea FLE-20
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0
 - **Armor:** 40 (Stealth)
@@ -83,17 +96,4 @@
   - Guardian ECM Suite
   - MASC
 - **Battle Value:** 791
-
-## Flea FLE-4
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 20 tons
-- **Movement:** 6 / 9 / 0
-- **Armor:** 32
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Small Laser × 2
-  - Large Laser
-  - Flamer
-- **Battle Value:** 432
 

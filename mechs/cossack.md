@@ -1,19 +1,7 @@
 # Cossack
-## Cossack C-1FC
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
-- **Armor:** 59 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium VSP Laser
-  - Rocket 10 × 3
-- **Battle Value:** 483
-
 ## Cossack C-SK1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 48
@@ -23,4 +11,16 @@
   - Small Laser × 2
   - SRM 6 (ammo: 15)
 - **Battle Value:** 465
+
+## Cossack C-1FC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 59 (Light Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium VSP Laser
+  - Rocket 10 × 3
+- **Battle Value:** 483
 

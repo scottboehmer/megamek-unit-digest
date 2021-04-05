@@ -1,7 +1,7 @@
 # Icarus
 ## Icarus ICR-1X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2470)
 - **Chassis:** 40 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 112 (Primitive)

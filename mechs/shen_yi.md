@@ -1,7 +1,7 @@
 # Shen Yi
 ## Shen Yi SHY-3B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 208 (Stealth)
@@ -16,7 +16,7 @@
 
 ## Shen Yi SHY-5B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3093)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 208 (Stealth)

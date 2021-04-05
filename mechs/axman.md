@@ -1,7 +1,7 @@
 # Axman
 ## Axman AXM-1N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 179 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Axman AXM-2N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 179 (Ferro Fibrous)
@@ -33,7 +33,7 @@
 
 ## Axman AXM-3S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 179 (Ferro Fibrous)
@@ -49,7 +49,7 @@
 
 ## Axman AXM-3Sr
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 179 (Ferro Fibrous)
@@ -67,7 +67,7 @@
 
 ## Axman AXM-4D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 179 (Ferro Fibrous)
@@ -81,9 +81,38 @@
   - CASE
 - **Battle Value:** 1222
 
+## Axman AXM-6X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3074)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 (10) / 0, XL
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Thunderbolt 15 × 2 (ammo: 8)
+  - ER Medium Laser × 4
+- **Equipment:**
+  - CASE
+  - Supercharger
+- **Battle Value:** unknown
+
+## Axman AXM-6T
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3083)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 195 (Light Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Thunderbolt 15 × 2 (ammo: 16)
+  - ER Medium Laser × 4
+- **Equipment:**
+  - CASE
+- **Battle Value:** unknown
+
 ## Axman AXM-5N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3148)
 - **Chassis:** 65 tons
 - **Movement:** 4 (5) / 6 (8) / 4, XL
 - **Armor:** 203 (Light Ferro Fibrous)
@@ -98,33 +127,4 @@
   - CASE II
   - Guardian ECM Suite
 - **Battle Value:** 2575
-
-## Axman AXM-6T
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 195 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Thunderbolt 15 × 2 (ammo: 16)
-  - ER Medium Laser × 4
-- **Equipment:**
-  - CASE
-- **Battle Value:** unknown
-
-## Axman AXM-6X
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Thunderbolt 15 × 2 (ammo: 8)
-  - ER Medium Laser × 4
-- **Equipment:**
-  - CASE
-  - Supercharger
-- **Battle Value:** unknown
 

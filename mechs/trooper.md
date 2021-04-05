@@ -1,7 +1,7 @@
 # Trooper
 ## Trooper TP-1R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 20 tons
 - **Movement:** 7 / 11 / 0
 - **Armor:** 32 (Primitive)

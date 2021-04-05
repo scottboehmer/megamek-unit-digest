@@ -1,7 +1,7 @@
 # Peacekeeper
 ## Peacekeeper PK-6 SecurityMech
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2522)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 80
@@ -17,7 +17,7 @@
 
 ## Peacekeeper PKP-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 3, XL
 - **Armor:** 288
@@ -36,7 +36,7 @@
 
 ## Peacekeeper PKP-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 3, XL
 - **Armor:** 293 (Light Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Beowulf IIC
 ## Beowulf IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3084)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 153 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Beowulf IIC PR
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3086)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 153 (Ferro Fibrous)

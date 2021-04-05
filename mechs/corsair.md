@@ -1,7 +1,7 @@
 # Corsair
 ## Corsair COR-5R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 256
@@ -16,7 +16,7 @@
 
 ## Corsair COR-5T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 256
@@ -28,7 +28,7 @@
 
 ## Corsair COR-6R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 240
@@ -44,9 +44,24 @@
   - Small Laser
 - **Battle Value:** 1636
 
+## Corsair COR-RA Ravager
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3037)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 288
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - Medium Laser × 3
+  - Large Laser × 2
+  - Ultra AC/5 (ammo: 40)
+  - Large Pulse Laser
+- **Battle Value:** 2122
+
 ## Corsair COR-7A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 256
@@ -61,7 +76,7 @@
 
 ## Corsair COR-7R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 280
@@ -75,7 +90,7 @@
 
 ## Corsair COR-BR Broadside
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 256
@@ -86,19 +101,4 @@
   - Medium Laser
   - SRM 4 × 3 (ammo: 75)
 - **Battle Value:** 2124
-
-## Corsair COR-RA Ravager
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0, XL
-- **Armor:** 288
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - Medium Laser × 3
-  - Large Laser × 2
-  - Ultra AC/5 (ammo: 40)
-  - Large Pulse Laser
-- **Battle Value:** 2122
 

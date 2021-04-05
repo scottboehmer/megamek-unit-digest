@@ -1,7 +1,7 @@
 # Jaguar
 ## Jaguar 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3123)
 - **Chassis:** 35 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 127 (Ferro Fibrous)

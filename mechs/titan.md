@@ -1,7 +1,7 @@
 # Titan
 ## Titan TI-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
@@ -15,7 +15,7 @@
 
 ## Titan TI-1Aj
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3123)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 304
@@ -30,7 +30,7 @@
 
 ## Titan TI-1Ar
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3123)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304

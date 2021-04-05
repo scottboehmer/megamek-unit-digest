@@ -1,7 +1,7 @@
 # ForestryMech
 ## ForestryMech ED-X3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2865)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 5 / 8 / 0, IC
 - **Armor:** 32

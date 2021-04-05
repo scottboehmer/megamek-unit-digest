@@ -1,7 +1,7 @@
 # Mangonel
 ## Mangonel MNL-3L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 143 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Mangonel MNL-3W
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3082)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -27,7 +27,7 @@
 
 ## Mangonel MNL-4S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3088)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 179 (Ferro Fibrous)

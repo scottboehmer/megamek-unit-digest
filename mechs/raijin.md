@@ -1,7 +1,7 @@
 # Raijin
 ## Raijin RJN101-A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 125 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Raijin RJN101-C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 152 (Ferro Fibrous)

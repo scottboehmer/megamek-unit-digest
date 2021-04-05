@@ -1,7 +1,7 @@
 # Barghest
 ## Barghest BGS-1T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 70 tons Quad
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 208
@@ -13,7 +13,7 @@
 
 ## Barghest BGS-2T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons Quad
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 224
@@ -25,7 +25,7 @@
 
 ## Barghest BGS-3T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons Quad
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 224

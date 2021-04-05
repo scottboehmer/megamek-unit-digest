@@ -1,7 +1,7 @@
 # Cadaver
 ## Cadaver CVR-A1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3094)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 105 (Ferro Fibrous)

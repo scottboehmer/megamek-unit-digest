@@ -1,21 +1,7 @@
 # Sha Yu
-## Sha Yu (Bulldog)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
-- **Armor:** 136 (Stealth)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Large Laser × 2
-  - Medium Laser × 2
-- **Equipment:**
-  - Guardian ECM Suite
-- **Battle Value:** 1379
-
 ## Sha Yu SYU-2B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 104 (Stealth)
@@ -30,7 +16,7 @@
 
 ## Sha Yu SYU-4B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 136 (Stealth)
@@ -44,9 +30,23 @@
   - Guardian ECM Suite
 - **Battle Value:** 1267
 
+## Sha Yu (Bulldog)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 136 (Stealth)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Large Laser × 2
+  - Medium Laser × 2
+- **Equipment:**
+  - Guardian ECM Suite
+- **Battle Value:** 1379
+
 ## Sha Yu SYU-6B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 120 (Stealth)

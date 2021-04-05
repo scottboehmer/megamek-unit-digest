@@ -1,7 +1,7 @@
 # Grizzly
 ## Grizzly (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2947)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 208
@@ -16,7 +16,7 @@
 
 ## Grizzly 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3063)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 208

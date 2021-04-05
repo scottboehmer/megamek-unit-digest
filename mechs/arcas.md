@@ -1,7 +1,7 @@
 # Arcas
 ## Arcas (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3061)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 211
@@ -14,7 +14,7 @@
 
 ## Arcas 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3061)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 211
@@ -26,7 +26,7 @@
 
 ## Arcas 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3078)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 201 (Ferro Fibrous)

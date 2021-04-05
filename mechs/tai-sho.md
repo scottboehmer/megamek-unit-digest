@@ -1,7 +1,7 @@
 # Tai-sho
 ## Tai-sho TSH-7S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 263 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Tai-sho TSH-8S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 263 (Ferro Fibrous)

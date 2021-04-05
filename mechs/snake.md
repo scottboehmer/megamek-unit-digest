@@ -1,23 +1,7 @@
 # Snake
-## Snake (Arthur)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 45 tons
-- **Movement:** 5 / 8 (10) / 5, XL
-- **Armor:** 144 (Stealth)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - LRM 5 (ammo: 24)
-  - Anti-Missile System (ammo: 12)
-- **Equipment:**
-  - MASC
-  - Guardian ECM Suite
-- **Battle Value:** 1477
-
 ## Snake SNK-1V
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 112
@@ -31,7 +15,7 @@
 
 ## Snake SNK-1V (Alexi)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 144
@@ -45,7 +29,7 @@
 
 ## Snake SNK-2B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 112 (Stealth)
@@ -58,9 +42,25 @@
   - CASE
 - **Battle Value:** 1081
 
+## Snake (Arthur)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 45 tons
+- **Movement:** 5 / 8 (10) / 5, XL
+- **Armor:** 144 (Stealth)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER PPC
+  - LRM 5 (ammo: 24)
+  - Anti-Missile System (ammo: 12)
+- **Equipment:**
+  - MASC
+  - Guardian ECM Suite
+- **Battle Value:** 1477
+
 ## Snake SNK-2Br
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 112 (Stealth)

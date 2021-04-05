@@ -1,7 +1,7 @@
 # Merlin
 ## Merlin MLN-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3010)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 168
@@ -16,7 +16,7 @@
 
 ## Merlin MLN-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 168
@@ -30,7 +30,7 @@
 
 ## Merlin MLN-1B (Porter)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 200
@@ -43,7 +43,7 @@
 
 ## Merlin MLN-1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 168

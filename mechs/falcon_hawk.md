@@ -1,7 +1,7 @@
 # Falcon Hawk
 ## Falcon Hawk FNHK-9K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 119 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Falcon Hawk FNHK-9K1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 119 (Ferro Fibrous)
@@ -29,7 +29,7 @@
 
 ## Falcon Hawk FNHK-9K1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 119 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Ursus II
 ## Ursus II (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3078)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
 - **Armor:** 168

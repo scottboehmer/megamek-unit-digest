@@ -1,7 +1,7 @@
 # Icestorm
 ## Icestorm (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2830)
 - **Chassis:** 25 tons
 - **Movement:** 12 / 18 / 0, XL
 - **Armor:** 56

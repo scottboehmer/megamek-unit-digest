@@ -1,7 +1,7 @@
 # Cestus
 ## Cestus CTS-6X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2609)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 211
@@ -14,7 +14,7 @@
 
 ## Cestus CTS-6Y
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 211
@@ -27,7 +27,7 @@
 
 ## Cestus CTS-6Z
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 211
@@ -40,7 +40,7 @@
 
 ## Cestus CTS-7A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 211

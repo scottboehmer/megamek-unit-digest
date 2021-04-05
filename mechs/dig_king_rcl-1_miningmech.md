@@ -1,7 +1,7 @@
 # Dig King RCL-1 MiningMech
 ## Dig King RCL-1 MiningMech (Standard)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
 - **Armor:** 96
@@ -16,7 +16,7 @@
 
 ## Dig King RCL-1 MiningMech MOD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 3 / 5 / 0, Fuel Cell
 - **Armor:** 96

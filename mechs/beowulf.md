@@ -1,7 +1,7 @@
 # Beowulf
 ## Beowulf BEO-12
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 (12) / 6, XL
 - **Armor:** 152 (Ferro Fibrous)
@@ -15,9 +15,26 @@
   - TAG
 - **Battle Value:** 1319
 
+## Beowulf C
+- **Role:** Undefined
+- **Tech Base:** Clan (3074)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 7, XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - Large Pulse Laser
+- **Equipment:**
+  - ECM Suite
+  - Light Active Probe
+  - MASC
+  - Light TAG
+- **Battle Value:** 2078
+
 ## Beowulf BEO-14
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 45 tons
 - **Movement:** 6 (7) / 9 (11) / 6, XL
 - **Armor:** 152 (Ferro Fibrous)
@@ -33,21 +50,4 @@
   - Beagle Active Probe
   - C3 Slave
 - **Battle Value:** 1287
-
-## Beowulf C
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 7, XL
-- **Armor:** 153 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - Large Pulse Laser
-- **Equipment:**
-  - ECM Suite
-  - Light Active Probe
-  - MASC
-  - Light TAG
-- **Battle Value:** 2078
 

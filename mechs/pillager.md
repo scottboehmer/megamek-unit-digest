@@ -1,7 +1,7 @@
 # Pillager
 ## Pillager PLG-1N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2575)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 2
 - **Armor:** 272
@@ -14,7 +14,7 @@
 
 ## Pillager PLG-3Z
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2594)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 307
@@ -27,7 +27,7 @@
 
 ## Pillager PLG-4Z
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 307 (Stealth)
@@ -40,9 +40,26 @@
   - CASE
 - **Battle Value:** 2868
 
+## Pillager PLG-5L
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 307
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Arrow IV (ammo: 15)
+  - ER PPC
+  - ER Medium Laser × 2
+  - Gauss Rifle (ammo: 32)
+- **Equipment:**
+  - Guardian ECM Suite
+  - CASE
+- **Battle Value:** 2618
+
 ## Pillager PLG-5Z
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 100 tons
 - **Movement:** 3 (4) / 5 (6) / 0
 - **Armor:** 307 (Stealth)

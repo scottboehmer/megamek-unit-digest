@@ -1,7 +1,7 @@
 # Carbine CON-9M-B ConstructionMech
 ## Carbine CON-9M-B ConstructionMech MOD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
 - **Armor:** 48

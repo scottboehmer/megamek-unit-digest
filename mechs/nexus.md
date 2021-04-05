@@ -1,7 +1,7 @@
 # Nexus
 ## Nexus NXS1-A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 4
 - **Armor:** 35 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Nexus NXS1-B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 5
 - **Armor:** 71 (Ferro Fibrous)

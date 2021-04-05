@@ -1,7 +1,7 @@
 # Cave Lion
 ## Cave Lion (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3122)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192 (Laser Reflective)

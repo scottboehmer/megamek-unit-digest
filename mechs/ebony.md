@@ -1,7 +1,7 @@
 # Ebony
 ## Ebony MEB-10
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 88 (Stealth)
@@ -18,7 +18,7 @@
 
 ## Ebony MEB-11
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 80 (Stealth)
@@ -32,24 +32,9 @@
   - Guardian ECM Suite
 - **Battle Value:** 1135
 
-## Ebony MEB-12
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 (11) / 15 (17) / 0, XL
-- **Armor:** 80 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - TSEMP
-- **Equipment:**
-  - Guardian ECM Suite
-- **Battle Value:** 1837
-
 ## Ebony MEB-9
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 80 (Stealth)
@@ -61,4 +46,19 @@
 - **Equipment:**
   - Guardian ECM Suite
 - **Battle Value:** 1012
+
+## Ebony MEB-12
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3118)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 10 (11) / 15 (17) / 0, XL
+- **Armor:** 80 (Stealth)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - TSEMP
+- **Equipment:**
+  - Guardian ECM Suite
+- **Battle Value:** 1837
 

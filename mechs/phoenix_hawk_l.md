@@ -1,7 +1,7 @@
 # Phoenix Hawk L
 ## Phoenix Hawk L PXH-11K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3116)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 104
@@ -18,7 +18,7 @@
 
 ## Phoenix Hawk L PXH-11K2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3116)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 104

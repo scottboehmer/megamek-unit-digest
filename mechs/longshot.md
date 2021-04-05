@@ -1,7 +1,7 @@
 # Longshot
 ## Longshot LNG-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 96
@@ -15,7 +15,7 @@
 
 ## Longshot LNG-3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XXL
 - **Armor:** 96
@@ -29,7 +29,7 @@
 
 ## Longshot LNG-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XXL
 - **Armor:** 96
@@ -43,7 +43,7 @@
 
 ## Longshot LNG-4
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XXL
 - **Armor:** 96

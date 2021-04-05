@@ -1,7 +1,7 @@
 # Night Wolf
 ## Night Wolf (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3084)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 248

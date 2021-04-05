@@ -1,7 +1,7 @@
 # Anubis
 ## Anubis ABS-3L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 88 (Stealth)
@@ -15,7 +15,7 @@
 
 ## Anubis ABS-3R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 105 (Stealth)
@@ -31,7 +31,7 @@
 
 ## Anubis ABS-3T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 88 (Stealth)
@@ -46,7 +46,7 @@
 
 ## Anubis ABS-4C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 96 (Stealth)
@@ -60,7 +60,7 @@
 
 ## Anubis ABS-5Y
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3121)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 88 (Stealth)
@@ -74,7 +74,7 @@
 
 ## Anubis ABS-5Z
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3124)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 104 (Stealth)

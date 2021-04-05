@@ -1,7 +1,7 @@
 # Galahad (Glass Spider)
 ## Galahad (Glass Spider) (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2834)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 201 (Ferro Fibrous)
@@ -12,7 +12,7 @@
 
 ## Galahad (Glass Spider) 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2952)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 201 (Ferro Fibrous)
@@ -27,7 +27,7 @@
 
 ## Galahad (Glass Spider) 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3065)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 201 (Ferro Fibrous)

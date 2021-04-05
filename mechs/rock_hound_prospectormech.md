@@ -1,7 +1,7 @@
 # Rock Hound ProspectorMech
 ## Rock Hound ProspectorMech AM-PRM-RH7A 'Rock Otter'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3043)
 - **Chassis:** 40 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
 - **Armor:** 96

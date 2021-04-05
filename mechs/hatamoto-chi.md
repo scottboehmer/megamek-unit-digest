@@ -1,7 +1,7 @@
 # Hatamoto-Chi
 ## Hatamoto-Chi HTM-26T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3039)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 232
@@ -13,7 +13,7 @@
 
 ## Hatamoto-Chi HTM-27T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3042)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247
@@ -27,7 +27,7 @@
 
 ## Hatamoto-Chi HTM-27T (Daniel II)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 247
@@ -42,7 +42,7 @@
 
 ## Hatamoto-Chi HTM-28T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 247
@@ -58,7 +58,7 @@
 
 ## Hatamoto-Chi HTM-28T (Shin)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 80 tons
 - **Movement:** 3 (4) / 5 (6) / 3
 - **Armor:** 247
@@ -75,7 +75,7 @@
 
 ## Hatamoto-Chi HTM-28Tr
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 247

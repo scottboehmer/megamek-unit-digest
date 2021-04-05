@@ -1,7 +1,7 @@
 # Sirocco
 ## Sirocco SRC-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 0
 - **Armor:** 309
@@ -17,7 +17,7 @@
 
 ## Sirocco SRC-5C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 0
 - **Armor:** 309
@@ -35,7 +35,7 @@
 
 ## Sirocco SRC-6C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 5
 - **Armor:** 309 (Light Ferro Fibrous)

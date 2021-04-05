@@ -1,7 +1,7 @@
 # Dark Crow
 ## Dark Crow (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 128
@@ -14,7 +14,7 @@
 
 ## Dark Crow 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 128
@@ -29,7 +29,7 @@
 
 ## Dark Crow 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3087)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 153 (Ferro Fibrous)

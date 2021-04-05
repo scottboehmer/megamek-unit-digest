@@ -1,7 +1,7 @@
 # Super-Wasp
 ## Super-Wasp WSP-2A-X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3020)
 - **Chassis:** 25 tons
 - **Movement:** 6 / 9 (12) / 6
 - **Armor:** 64

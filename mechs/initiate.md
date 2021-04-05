@@ -1,7 +1,7 @@
 # Initiate
 ## Initiate INI-02
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 136
@@ -18,7 +18,7 @@
 
 ## Initiate INI-04
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 137

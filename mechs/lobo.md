@@ -1,7 +1,7 @@
 # Lobo
 ## Lobo (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3059)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Lobo 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 134 (Ferro Fibrous)
@@ -30,7 +30,7 @@
 
 ## Lobo 3
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 134 (Ferro Fibrous)

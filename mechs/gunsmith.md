@@ -1,7 +1,7 @@
 # Gunsmith
 ## Gunsmith CH11-NG
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3131)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XXL
 - **Armor:** 88 (Laser Reflective)
@@ -15,7 +15,7 @@
 
 ## Gunsmith CH11-NGC 'Cinderella'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3131)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 88 (Laser Reflective)

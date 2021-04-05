@@ -1,7 +1,7 @@
 # Lineholder
 ## Lineholder KW1-LH2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 160
@@ -14,7 +14,7 @@
 
 ## Lineholder KW1-LH3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 160
@@ -27,7 +27,7 @@
 
 ## Lineholder KW1-LH8 'Linebreaker'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 152 (Ferro Fibrous)
@@ -39,7 +39,7 @@
 
 ## Lineholder KW2-LHW
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 179 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Thunder Stallion
 ## Thunder Stallion (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2850)
 - **Chassis:** 85 tons Quad
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
@@ -13,7 +13,7 @@
 
 ## Thunder Stallion 2 'Fire Stallion'
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2877)
 - **Chassis:** 85 tons Quad
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
@@ -25,7 +25,7 @@
 
 ## Thunder Stallion 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3069)
 - **Chassis:** 85 tons Quad
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279

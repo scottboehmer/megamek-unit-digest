@@ -1,7 +1,7 @@
 # Morrigan
 ## Morrigan (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3083)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 105 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Morrigan 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3084)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -32,7 +32,7 @@
 
 ## Morrigan 4
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3111)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)
@@ -44,7 +44,7 @@
 
 ## Morrigan 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3124)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 115 (Ferro Fibrous)

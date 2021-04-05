@@ -1,7 +1,7 @@
 # Thunder
 ## Thunder THR-1L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 216
@@ -16,7 +16,7 @@
 
 ## Thunder THR-2L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 70 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
 - **Armor:** 208 (Stealth)
@@ -34,7 +34,7 @@
 
 ## Thunder THR-3L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
 - **Armor:** 216 (Stealth)
@@ -51,7 +51,7 @@
 
 ## Thunder THR-C4
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
 - **Armor:** 216

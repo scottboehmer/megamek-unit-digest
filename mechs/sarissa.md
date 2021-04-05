@@ -1,7 +1,7 @@
 # Sarissa
 ## Sarissa MN1-D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 107 (Primitive)

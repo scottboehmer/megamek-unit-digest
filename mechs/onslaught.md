@@ -1,7 +1,7 @@
 # Onslaught
 ## Onslaught SA-OS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 192
@@ -17,7 +17,7 @@
 
 ## Onslaught SA-OS2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 192
@@ -31,4 +31,20 @@
   - Angel ECM Suite
   - CASE
 - **Battle Value:** 1693
+
+## Onslaught SA-OS3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 75 tons (Composite)
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 197 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium X-Pulse Laser
+  - Ultra AC/10 (ammo: 20)
+  - SRM 6 × 2 (ammo: 15)
+  - Machine Gun × 6 (ammo: 200)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1659
 

@@ -1,7 +1,7 @@
 # Buccaneer
 ## Buccaneer BCN-3R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 55 tons
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 179 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Buccaneer BCN-6W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 176

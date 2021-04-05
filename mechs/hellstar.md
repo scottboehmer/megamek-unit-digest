@@ -1,7 +1,7 @@
 # Hellstar
 ## Hellstar (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3079)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 293
@@ -12,7 +12,7 @@
 
 ## Hellstar 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3079)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 293
@@ -25,7 +25,7 @@
 
 ## Hellstar 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3079)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 293

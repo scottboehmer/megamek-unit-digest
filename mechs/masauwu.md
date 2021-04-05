@@ -1,7 +1,7 @@
 # Masauwu
 ## Masauwu
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2832)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 231

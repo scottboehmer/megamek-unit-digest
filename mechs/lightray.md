@@ -1,7 +1,21 @@
 # Lightray
+## Lightray LGH-4Y
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3064)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 185 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large Pulse Laser
+  - ER Medium Laser × 2
+  - SRM 2 × 2 (ammo: 50)
+  - ER Small Laser
+- **Battle Value:** 1379
+
 ## Lightray LGH-4W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -14,23 +28,9 @@
   - Targeting Computer
 - **Battle Value:** 1450
 
-## Lightray LGH-4Y
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
-- **Armor:** 185 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Pulse Laser
-  - ER Medium Laser × 2
-  - SRM 2 × 2 (ammo: 50)
-  - ER Small Laser
-- **Battle Value:** 1379
-
 ## Lightray LGH-5W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -45,7 +45,7 @@
 
 ## Lightray LGH-6W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -59,7 +59,7 @@
 
 ## Lightray LGH-7W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)

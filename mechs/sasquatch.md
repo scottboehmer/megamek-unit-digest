@@ -1,7 +1,7 @@
 # Sasquatch
 ## Sasquatch SQS-TH-001
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 248

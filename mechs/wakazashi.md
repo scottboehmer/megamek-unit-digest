@@ -1,7 +1,7 @@
 # Wakazashi
 ## Wakazashi (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2830)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 263

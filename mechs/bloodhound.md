@@ -1,7 +1,7 @@
 # Bloodhound
 ## Bloodhound B1-HND
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 152
@@ -17,7 +17,7 @@
 
 ## Bloodhound B2-HND
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 152

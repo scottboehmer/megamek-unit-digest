@@ -1,7 +1,7 @@
 # Alfar
 ## Alfar AL-A1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
 - **Armor:** 179 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Alfar AL-D1 'Dokkalfar'
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
 - **Armor:** 179 (Ferro Fibrous)

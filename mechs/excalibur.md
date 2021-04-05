@@ -1,7 +1,7 @@
 # Excalibur
 ## Excalibur EXC-B1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2619)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 120
@@ -15,7 +15,7 @@
 
 ## Excalibur EXC-B2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2620)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 120
@@ -30,7 +30,7 @@
 
 ## Excalibur EXC-B2b
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 176
@@ -45,7 +45,7 @@
 
 ## Excalibur EXC-C1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 144
@@ -60,7 +60,7 @@
 
 ## Excalibur EXC-C1 (Cernunnos)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 192
@@ -76,7 +76,7 @@
 
 ## Excalibur EXC-CS
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0, XL
 - **Armor:** 216
@@ -94,7 +94,7 @@
 
 ## Excalibur EXC-D1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 184

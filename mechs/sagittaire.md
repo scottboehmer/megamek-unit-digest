@@ -1,20 +1,7 @@
 # Sagittaire
-## Sagittaire SGT-10X
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 5, Light
-- **Armor:** 288
-- **Cockpit:** Small
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - Light PPC × 2
-  - Medium VSP Laser × 4
-- **Battle Value:** 1794
-
 ## Sagittaire SGT-8R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 288
@@ -30,7 +17,7 @@
 
 ## Sagittaire SGT-9D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 288
@@ -43,4 +30,17 @@
 - **Equipment:**
   - C3 Master
 - **Battle Value:** 2064
+
+## Sagittaire SGT-10X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3084)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5 / 5, Light
+- **Armor:** 288
+- **Cockpit:** Small
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - Light PPC × 2
+  - Medium VSP Laser × 4
+- **Battle Value:** 1794
 

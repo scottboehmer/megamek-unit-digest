@@ -1,7 +1,7 @@
 # Pandarus
 ## Pandarus LFA-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 208

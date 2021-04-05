@@ -1,7 +1,7 @@
 # Ursa
 ## Ursa URA-2A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3122)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 200

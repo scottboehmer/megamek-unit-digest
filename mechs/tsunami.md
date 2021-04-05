@@ -1,7 +1,7 @@
 # Tsunami
 ## Tsunami TS-P1
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
 - **Armor:** 136

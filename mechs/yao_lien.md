@@ -1,7 +1,7 @@
 # Yao Lien
 ## Yao Lien YOL-4C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7
 - **Armor:** 179 (Ferro Fibrous)

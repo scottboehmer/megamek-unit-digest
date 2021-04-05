@@ -1,7 +1,7 @@
 # Werewolf
 ## Werewolf WER-LF-004
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 4, XL
 - **Armor:** 136

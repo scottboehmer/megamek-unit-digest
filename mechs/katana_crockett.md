@@ -1,7 +1,7 @@
 # Katana (Crockett)
 ## Katana (Crockett) CRK-5003-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 200
@@ -15,7 +15,7 @@
 
 ## Katana (Crockett) CRK-5003-C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 200
@@ -28,9 +28,24 @@
   - C3 Slave
 - **Battle Value:** 1618
 
+## Katana (Crockett) CRK-5003-CM
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3057)
+- **Chassis:** 85 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 200
+- **Heat Sinks:** 20 (20)
+- **Weapons:**
+  - Large Laser × 2
+  - SRM 6 (ammo: 15)
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
+- **Equipment:**
+  - C3 Master
+- **Battle Value:** 1554
+
 ## Katana (Crockett) CRK-5003-CJ
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5
 - **Armor:** 200
@@ -43,19 +58,4 @@
 - **Equipment:**
   - C3 Slave
 - **Battle Value:** 1844
-
-## Katana (Crockett) CRK-5003-CM
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
-- **Armor:** 200
-- **Heat Sinks:** 20 (20)
-- **Weapons:**
-  - Large Laser × 2
-  - SRM 6 (ammo: 15)
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
-- **Equipment:**
-  - C3 Master
-- **Battle Value:** 1554
 

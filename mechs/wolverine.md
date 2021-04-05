@@ -1,19 +1,20 @@
 # Wolverine
-## Wolverine WVR-6D
+## Wolverine WVR-6R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2575)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 152
-- **Heat Sinks:** 11 (11)
+- **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - AC/10 (ammo: 20)
+  - AC/5 (ammo: 20)
+  - SRM 6 (ammo: 15)
   - Medium Laser
-- **Battle Value:** 1115
+- **Battle Value:** 1101
 
 ## Wolverine WVR-6K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2598)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 184
@@ -27,7 +28,7 @@
 
 ## Wolverine WVR-6M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2816)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 168
@@ -38,22 +39,21 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 1291
 
-## Wolverine WVR-6R
+## Wolverine WVR-6D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2834)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 152
-- **Heat Sinks:** 12 (12)
+- **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - AC/5 (ammo: 20)
-  - SRM 6 (ammo: 15)
+  - AC/10 (ammo: 20)
   - Medium Laser
-- **Battle Value:** 1101
+- **Battle Value:** 1115
 
 ## Wolverine WVR-7D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 179 (Ferro Fibrous)
@@ -69,7 +69,7 @@
 
 ## Wolverine WVR-7K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 185
@@ -83,7 +83,7 @@
 
 ## Wolverine WVR-7M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 160
@@ -96,25 +96,25 @@
   - MASC
 - **Battle Value:** 1673
 
-## Wolverine WVR-8C
+## Wolverine WVR-8K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons (Endo Steel)
+- **Tech Base:** Inner Sphere (3064)
+- **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
-- **Armor:** 184
-- **Heat Sinks:** 13 (26)
+- **Armor:** 185
+- **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Large Pulse Laser
-  - Small Pulse Laser
-  - Streak SRM 6 × 2 (ammo: 15)
+  - ER PPC
+  - ER Medium Laser
+  - Streak SRM 6 (ammo: 15)
   - Medium Pulse Laser
 - **Equipment:**
-  - C3 Slave
-- **Battle Value:** 1447
+  - CASE
+- **Battle Value:** 1576
 
 ## Wolverine WVR-8D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 185
@@ -129,25 +129,9 @@
   - MASC
 - **Battle Value:** 1547
 
-## Wolverine WVR-8K
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 185
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - ER Medium Laser
-  - Streak SRM 6 (ammo: 15)
-  - Medium Pulse Laser
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1576
-
 ## Wolverine WVR-9D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 185
@@ -162,9 +146,40 @@
   - TAG
 - **Battle Value:** 1369
 
+## Wolverine WVR-8C
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3067)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 184
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Large Pulse Laser
+  - Small Pulse Laser
+  - Streak SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1447
+
+## Wolverine WVR-9M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 55 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 176
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Heavy PPC
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1617
+
 ## Wolverine WVR-9K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 5, Light
 - **Armor:** 185
@@ -183,24 +198,9 @@
   - C3 Slave
 - **Battle Value:** 1400
 
-## Wolverine WVR-9M
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5, XL
-- **Armor:** 176
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Heavy PPC
-  - Streak SRM 6 (ammo: 15)
-  - ER Medium Laser
-- **Equipment:**
-  - CASE
-- **Battle Value:** 1617
-
 ## Wolverine WVR-9W
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 169 (Light Ferro Fibrous)
@@ -216,7 +216,7 @@
 
 ## Wolverine WVR-9W2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 169 (Light Ferro Fibrous)

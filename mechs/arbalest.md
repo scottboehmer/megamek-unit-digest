@@ -1,7 +1,7 @@
 # Arbalest
 ## Arbalest (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3077)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 56
@@ -15,7 +15,7 @@
 
 ## Arbalest 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3079)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 (10) / 0
 - **Armor:** 89
@@ -30,7 +30,7 @@
 
 ## Arbalest 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3081)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 86 (Ferro Fibrous)

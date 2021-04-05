@@ -1,7 +1,7 @@
 # Dominator
 ## Dominator (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3148)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
 - **Armor:** 201 (Ferro Fibrous)
@@ -18,7 +18,7 @@
 
 ## Dominator 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3149)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 201 (Ferro Fibrous)

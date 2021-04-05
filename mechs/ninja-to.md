@@ -1,7 +1,7 @@
 # Ninja-To
 ## Ninja-To NJT-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 192
@@ -17,7 +17,7 @@
 
 ## Ninja-To NJT-3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 200
@@ -31,7 +31,7 @@
 
 ## Ninja-To NJT-4
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 206 (Ferro Fibrous)

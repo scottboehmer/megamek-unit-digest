@@ -1,7 +1,7 @@
 # Roughneck
 ## Roughneck RGH-1A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 200
@@ -17,7 +17,7 @@
 
 ## Roughneck RGH-1B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 200
@@ -33,7 +33,7 @@
 
 ## Roughneck RGH-1C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 208
@@ -49,7 +49,7 @@
 
 ## Roughneck RGH-2A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 200
@@ -62,7 +62,7 @@
 
 ## Roughneck RGH-3A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 200
@@ -73,23 +73,9 @@
   - Small Laser
 - **Battle Value:** 1509
 
-## Roughneck RGH-PH Powerhouse
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 200
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - SRM 6 × 2 (ammo: 30)
-  - MRM 10 (ammo: 24)
-- **Battle Value:** 1250
-
 ## Roughneck RGH-R Reaver
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -100,4 +86,18 @@
   - Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
 - **Battle Value:** 1426
+
+## Roughneck RGH-PH Powerhouse
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3067)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 200
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - SRM 6 × 2 (ammo: 30)
+  - MRM 10 (ammo: 24)
+- **Battle Value:** 1250
 

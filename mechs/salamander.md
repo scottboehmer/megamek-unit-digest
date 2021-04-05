@@ -1,7 +1,7 @@
 # Salamander
 ## Salamander PPR-5S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 247
@@ -15,7 +15,7 @@
 
 ## Salamander PPR-5T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 216
@@ -29,7 +29,7 @@
 
 ## Salamander PPR-6S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 247
@@ -44,7 +44,7 @@
 
 ## Salamander PPR-6T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 247
@@ -59,7 +59,7 @@
 
 ## Salamander PPR-7S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 240
@@ -73,7 +73,7 @@
 
 ## Salamander PPR-7T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 247

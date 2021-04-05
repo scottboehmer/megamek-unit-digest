@@ -1,7 +1,7 @@
 # Trebaruna
 ## Trebaruna TR-XB
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4
 - **Armor:** 256
@@ -17,7 +17,7 @@
 
 ## Trebaruna TR-XJ
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4
 - **Armor:** 305 (Light Ferro Fibrous)
@@ -32,7 +32,7 @@
 
 ## Trebaruna TR-XL
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4, Light
 - **Armor:** 280

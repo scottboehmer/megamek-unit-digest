@@ -1,7 +1,7 @@
 # Patron MilitiaMech
 ## Patron MilitiaMech PTN-2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 15 tons (Industrial)
 - **Movement:** 2 / 3 / 0, Fuel Cell
 - **Armor:** 24 (Commercial)
@@ -16,7 +16,7 @@
 
 ## Patron MilitiaMech PTN-2M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 15 tons (Industrial)
 - **Movement:** 2 / 3 / 0, Fuel Cell
 - **Armor:** 32

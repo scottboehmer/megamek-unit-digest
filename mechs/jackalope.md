@@ -1,7 +1,7 @@
 # Jackalope
 ## Jackalope JLP-BD
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3134)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 86 (Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Jackalope JLP-C
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3135)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 86 (Ferro Fibrous)
@@ -32,7 +32,7 @@
 
 ## Jackalope JLP-KA
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3135)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 4, XXL
 - **Armor:** 105 (Ferro Fibrous)
@@ -45,4 +45,19 @@
   - CASE II
   - Light Active Probe
 - **Battle Value:** 1488
+
+## Jackalope JLP-KW 'Wolpertinger'
+- **Role:** Undefined
+- **Tech Base:** Clan (3142)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 10 / 15 / 4, XXL
+- **Armor:** 105 (Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 10 (23)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Laser Anti-Missile System
+- **Equipment:**
+  - Partial Wing
+- **Battle Value:** 1140
 

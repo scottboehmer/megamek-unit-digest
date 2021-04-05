@@ -1,7 +1,7 @@
 # Hellfire
 ## Hellfire (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3058)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 (8) / 0
 - **Armor:** 172 (Ferro Fibrous)

@@ -1,7 +1,7 @@
 # Eidolon
 ## Eidolon C-EID-001
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7
 - **Armor:** 179 (Ferro Fibrous)

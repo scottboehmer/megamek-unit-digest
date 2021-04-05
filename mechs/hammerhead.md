@@ -1,7 +1,7 @@
 # Hammerhead
 ## Hammerhead (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3149)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 8 / 0, XL
 - **Armor:** 120 (Hardened)

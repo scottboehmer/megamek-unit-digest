@@ -1,7 +1,7 @@
 # Pack Hunter II
 ## Pack Hunter II (Isis)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3077)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 96 (Ferro Fibrous)
@@ -14,7 +14,7 @@
 
 ## Pack Hunter II (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3077)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 86 (Ferro Fibrous)
@@ -28,7 +28,7 @@
 
 ## Pack Hunter II 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3078)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, Light
 - **Armor:** 96 (Ferro Fibrous)
@@ -41,7 +41,7 @@
 
 ## Pack Hunter II 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3082)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 10, XL
 - **Armor:** 67 (Ferro Fibrous)
@@ -53,7 +53,7 @@
 
 ## Pack Hunter II 4
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3093)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 86 (Ferro Fibrous)

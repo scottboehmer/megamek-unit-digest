@@ -1,7 +1,7 @@
 # Gallant
 ## Gallant GLT-7-0
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 5, XL
 - **Armor:** 208
@@ -15,7 +15,7 @@
 
 ## Gallant GLT-8-0
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 5, XL
 - **Armor:** 208

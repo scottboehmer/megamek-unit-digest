@@ -1,7 +1,7 @@
 # Black Hawk
 ## Black Hawk (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3073)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 136
@@ -13,7 +13,7 @@
 
 ## Black Hawk 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3092)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 152
@@ -25,7 +25,7 @@
 
 ## Black Hawk 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3092)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 136

@@ -1,7 +1,7 @@
 # Bombard
 ## Bombard BMB-010
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 2 / 3 / 0, XL
 - **Armor:** 160

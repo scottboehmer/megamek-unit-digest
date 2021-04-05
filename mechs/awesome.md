@@ -1,7 +1,87 @@
 # Awesome
+## Awesome AWS-8Q
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2665)
+- **Chassis:** 80 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 240
+- **Heat Sinks:** 28 (28)
+- **Weapons:**
+  - PPC × 3
+  - Small Laser
+- **Battle Value:** 1605
+
+## Awesome AWS-8R
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2683)
+- **Chassis:** 80 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 240
+- **Heat Sinks:** 28 (28)
+- **Weapons:**
+  - Large Laser
+  - LRM 15 × 2 (ammo: 16)
+  - Small Laser
+- **Battle Value:** 1470
+
+## Awesome AWS-8T
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2815)
+- **Chassis:** 80 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 240
+- **Heat Sinks:** 23 (23)
+- **Weapons:**
+  - Large Laser × 2
+  - LRM 15 × 2 (ammo: 16)
+  - Small Laser
+- **Battle Value:** 1593
+
+## Awesome AWS-8V
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2980)
+- **Chassis:** 80 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 240
+- **Heat Sinks:** 28 (28)
+- **Weapons:**
+  - PPC
+  - Large Laser
+  - LRM 15 (ammo: 16)
+  - Small Laser
+- **Battle Value:** 1510
+
+## Awesome AWS-9M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3049)
+- **Chassis:** 80 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 247
+- **Heat Sinks:** 20 (40)
+- **Weapons:**
+  - Streak SRM 2 × 2 (ammo: 50)
+  - ER PPC × 3
+  - Medium Pulse Laser
+  - Small Pulse Laser
+- **Battle Value:** 1812
+
+## Awesome AWS-9Q
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3057)
+- **Chassis:** 80 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 247
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - PPC × 4
+  - Small Laser
+- **Equipment:**
+  - Guardian ECM Suite
+- **Battle Value:** 1875
+
 ## Awesome AWS-10KM
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 247
@@ -14,21 +94,35 @@
   - Guardian ECM Suite
 - **Battle Value:** 1961
 
-## Awesome AWS-11H
+## Awesome AWS-9Q (Klatt)
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
-- **Chassis:** 80 tons (Endo Steel)
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
-- **Armor:** 240
-- **Heat Sinks:** 23 (46)
+- **Armor:** 247
+- **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - Heavy PPC × 3
-  - ER Small Laser
-- **Battle Value:** 2036
+  - PPC × 4
+  - Small Pulse Laser
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 1805
+
+## Awesome AWS-8Q (Buck)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 80 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 241 (Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - PPC × 3
+- **Battle Value:** 1787
 
 ## Awesome AWS-11M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere Mixed ()
+- **Tech Base:** Inner Sphere Mixed (3079)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 240
@@ -41,7 +135,7 @@
 
 ## Awesome AWS-11R
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 (6) / 0, XL
 - **Armor:** 208 (Stealth)
@@ -59,109 +153,15 @@
   - Supercharger
 - **Battle Value:** 1878
 
-## Awesome AWS-8Q
+## Awesome AWS-11H
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
+- **Tech Base:** Inner Sphere Mixed (3142)
+- **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 240
-- **Heat Sinks:** 28 (28)
+- **Heat Sinks:** 23 (46)
 - **Weapons:**
-  - PPC × 3
-  - Small Laser
-- **Battle Value:** 1605
-
-## Awesome AWS-8Q (Buck)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 241 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - PPC × 3
-- **Battle Value:** 1787
-
-## Awesome AWS-8R
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 240
-- **Heat Sinks:** 28 (28)
-- **Weapons:**
-  - Large Laser
-  - LRM 15 × 2 (ammo: 16)
-  - Small Laser
-- **Battle Value:** 1470
-
-## Awesome AWS-8T
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 240
-- **Heat Sinks:** 23 (23)
-- **Weapons:**
-  - Large Laser × 2
-  - LRM 15 × 2 (ammo: 16)
-  - Small Laser
-- **Battle Value:** 1593
-
-## Awesome AWS-8V
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 240
-- **Heat Sinks:** 28 (28)
-- **Weapons:**
-  - PPC
-  - Large Laser
-  - LRM 15 (ammo: 16)
-  - Small Laser
-- **Battle Value:** 1510
-
-## Awesome AWS-9M
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0, XL
-- **Armor:** 247
-- **Heat Sinks:** 20 (40)
-- **Weapons:**
-  - Streak SRM 2 × 2 (ammo: 50)
-  - ER PPC × 3
-  - Medium Pulse Laser
-  - Small Pulse Laser
-- **Battle Value:** 1812
-
-## Awesome AWS-9Q
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 247
-- **Heat Sinks:** 19 (38)
-- **Weapons:**
-  - PPC × 4
-  - Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-- **Battle Value:** 1875
-
-## Awesome AWS-9Q (Klatt)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 247
-- **Heat Sinks:** 19 (38)
-- **Weapons:**
-  - PPC × 4
-  - Small Pulse Laser
-- **Equipment:**
-  - C3 Slave
-- **Battle Value:** 1805
+  - Heavy PPC × 3
+  - ER Small Laser
+- **Battle Value:** 2036
 

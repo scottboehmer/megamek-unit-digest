@@ -1,7 +1,23 @@
 # Ymir
+## Ymir BWP-X1 'Bipedal Weapons Platform'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2462)
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 166 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 16 (16)
+- **Weapons:**
+  - AC/5 (ammo: 20)
+  - Large Laser
+  - Vehicle Flamer × 2 (ammo: 20)
+  - SRM 2 × 4 (ammo: 100)
+  - LRM 5 × 2 (ammo: 24)
+- **Battle Value:** unknown
+
 ## Ymir BWP-2B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 168
@@ -16,7 +32,7 @@
 
 ## Ymir BWP-2E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2478)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 176
@@ -29,7 +45,7 @@
 
 ## Ymir BWP-3A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2733)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 192
@@ -40,20 +56,4 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
   - Medium Laser
 - **Battle Value:** 1491
-
-## Ymir BWP-X1 'Bipedal Weapons Platform'
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 0
-- **Armor:** 166 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - AC/5 (ammo: 20)
-  - Large Laser
-  - Vehicle Flamer × 2 (ammo: 20)
-  - SRM 2 × 4 (ammo: 100)
-  - LRM 5 × 2 (ammo: 24)
-- **Battle Value:** unknown
 

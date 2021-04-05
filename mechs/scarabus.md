@@ -1,7 +1,7 @@
 # Scarabus
 ## Scarabus SCB-9A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL
 - **Armor:** 98 (Ferro Fibrous)
@@ -17,7 +17,7 @@
 
 ## Scarabus SCB-9T
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 98 (Ferro Fibrous)

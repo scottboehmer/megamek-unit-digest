@@ -1,7 +1,7 @@
 # Mandrill
 ## Mandrill (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2829)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 96 (Ferro Fibrous)

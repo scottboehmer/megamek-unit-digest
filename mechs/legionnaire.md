@@ -1,7 +1,7 @@
 # Legionnaire
 ## Legionnaire LGN-1X
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 160
@@ -16,7 +16,7 @@
 
 ## Legionnaire LGN-2D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 152
@@ -27,34 +27,9 @@
   - Targeting Computer
 - **Battle Value:** 1386
 
-## Legionnaire LGN-2D (Raul)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
-- **Armor:** 152
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - Medium Laser × 3
-- **Battle Value:** 1520
-
-## Legionnaire LGN-2F
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
-- **Armor:** 152 (Laser Reflective)
-- **Cockpit:** Torso-Mounted
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - RAC/5 (ammo: 60)
-- **Battle Value:** 1808
-
 ## Legionnaire LGN-2XA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 136
@@ -65,7 +40,7 @@
 
 ## Legionnaire LGN-2XU
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 116 (Ferro Fibrous)
@@ -75,4 +50,43 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 1128
+
+## Legionnaire LGN-2F
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 152 (Laser Reflective)
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - RAC/5 (ammo: 60)
+- **Battle Value:** 1808
+
+## Legionnaire LGN-2K
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3128)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 7 / 11 (18) / 7, XL
+- **Armor:** 160
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER PPC
+- **Equipment:**
+  - Targeting Computer
+  - MASC × 2
+- **Battle Value:** 1837
+
+## Legionnaire LGN-2D (Raul)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3132)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - RAC/5 (ammo: 60)
+  - Medium Laser × 3
+- **Battle Value:** 1520
 

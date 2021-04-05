@@ -1,7 +1,7 @@
 # Zeus-X
 ## Zeus-X ZEU-9WD
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 195 (Light Ferro Fibrous)
@@ -16,7 +16,7 @@
 
 ## Zeus-X ZEU-X3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3089)
 - **Chassis:** 80 tons (Composite)
 - **Movement:** 5 / 8 / 8, XXL
 - **Armor:** 232

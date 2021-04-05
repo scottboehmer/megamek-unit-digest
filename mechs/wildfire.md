@@ -1,7 +1,7 @@
 # Wildfire
 ## Wildfire P1-WF
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 197 (Ferro Fibrous)

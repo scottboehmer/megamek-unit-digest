@@ -1,7 +1,7 @@
 # HawkWolf
 ## HawkWolf HWK-3F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 192 (Primitive)
@@ -16,7 +16,7 @@
 
 ## HawkWolf HWK-4F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 192

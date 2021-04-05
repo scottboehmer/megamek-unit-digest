@@ -1,7 +1,7 @@
 # Hatamoto-Hi
 ## Hatamoto-Hi HTM-27U
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247
@@ -13,7 +13,7 @@
 
 ## Hatamoto-Hi HTM-C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247
@@ -27,7 +27,7 @@
 
 ## Hatamoto-Hi HTM-CM
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 247

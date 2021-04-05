@@ -1,7 +1,7 @@
 # Hound
 ## Hound HD-2F
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 208

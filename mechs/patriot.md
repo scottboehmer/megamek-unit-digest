@@ -1,7 +1,7 @@
 # Patriot
 ## Patriot PKM-2C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -19,7 +19,7 @@
 
 ## Patriot PKM-2D
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192
@@ -38,7 +38,7 @@
 
 ## Patriot PKM-2E
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 192

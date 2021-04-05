@@ -1,7 +1,7 @@
 # Gotterdammerung
 ## Gotterdammerung GTD-20S
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Compact
 - **Armor:** 231 (Heavy Ferro Fibrous)

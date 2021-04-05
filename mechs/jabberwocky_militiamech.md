@@ -1,7 +1,7 @@
 # Jabberwocky MilitiaMech
 ## Jabberwocky MilitiaMech JAW-67
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 4 / 6 / 3
 - **Armor:** 136

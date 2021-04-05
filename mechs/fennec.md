@@ -1,7 +1,7 @@
 # Fennec
 ## Fennec FEC-1CM
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 170 (Ferro Fibrous)
@@ -15,7 +15,7 @@
 
 ## Fennec FEC-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 170 (Ferro Fibrous)

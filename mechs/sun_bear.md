@@ -1,31 +1,7 @@
 # Sun Bear
-## Sun Bear A XYZ
+## Sun Bear Prime
 - **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 168
-- **Heat Sinks:** 23 (46)
-- **Weapons:**
-  - ER Medium Laser × 12
-- **Battle Value:** 2418
-
-## Sun Bear B XYZ
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 0, XL
-- **Armor:** 168
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER Large Laser × 2
-  - ER Medium Laser × 2
-  - LRM 20 × 2 (ammo: 12)
-- **Battle Value:** 2105
-
-## Sun Bear Prime XYZ
-- **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 168

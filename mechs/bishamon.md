@@ -1,7 +1,7 @@
 # Bishamon
 ## Bishamon BSN-3K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 168
@@ -14,7 +14,7 @@
 
 ## Bishamon BSN-4K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 168
@@ -29,7 +29,7 @@
 
 ## Bishamon BSN-5KC
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 169 (Light Ferro Fibrous)

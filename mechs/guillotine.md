@@ -1,7 +1,7 @@
 # Guillotine
 ## Guillotine GLT-3N
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2499)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -16,7 +16,7 @@
 
 ## Guillotine GLT-4L
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2825)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -29,7 +29,7 @@
 
 ## Guillotine GLT-4P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2833)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 160
@@ -42,7 +42,7 @@
 
 ## Guillotine GLT-5M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 192
@@ -55,9 +55,42 @@
   - CASE
 - **Battle Value:** 1472
 
+## Guillotine GLT-8D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4
+- **Armor:** 200
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ER Medium Laser × 4
+  - Streak SRM 6 (ammo: 15)
+- **Equipment:**
+  - Targeting Computer
+  - CASE
+- **Battle Value:** 1891
+
+## Guillotine GLT-6WB
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 4
+- **Armor:** 197 (Ferro Fibrous)
+- **Gyroscope:** Compact Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Heavy PPC
+  - ER Medium Laser × 4
+  - LRM 15 (ammo: 8)
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
+
 ## Guillotine GLT-6WB2
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
 - **Armor:** 184
@@ -74,7 +107,7 @@
 
 ## Guillotine GLT-6WB3
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 197 (Ferro Fibrous)
@@ -89,20 +122,4 @@
   - C3 Slave
   - Guardian ECM Suite
 - **Battle Value:** 1741
-
-## Guillotine GLT-8D
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
-- **Armor:** 200
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Large Laser × 2
-  - ER Medium Laser × 4
-  - Streak SRM 6 (ammo: 15)
-- **Equipment:**
-  - Targeting Computer
-  - CASE
-- **Battle Value:** 1891
 

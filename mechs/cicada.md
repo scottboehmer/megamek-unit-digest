@@ -1,7 +1,7 @@
 # Cicada
 ## Cicada CDA-2A
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2740)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0
 - **Armor:** 64
@@ -13,7 +13,7 @@
 
 ## Cicada CDA-2B
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2840)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0
 - **Armor:** 56
@@ -25,7 +25,7 @@
 
 ## Cicada CDA-3C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2840)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 0
 - **Armor:** 64
@@ -35,35 +35,9 @@
   - Machine Gun × 2 (ammo: 200)
 - **Battle Value:** 771
 
-## Cicada CDA-3F
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, XL
-- **Armor:** 116 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Laser × 2
-  - ER PPC
-- **Battle Value:** 1329
-
-## Cicada CDA-3G
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, XL
-- **Armor:** 125 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - Medium Laser × 2
-- **Equipment:**
-  - Beagle Active Probe
-- **Battle Value:** 1270
-
 ## Cicada CDA-3M
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 64
@@ -76,9 +50,35 @@
   - CASE
 - **Battle Value:** 812
 
+## Cicada CDA-3F
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3052)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 116 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 2
+  - ER PPC
+- **Battle Value:** 1329
+
+## Cicada CDA-3G
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3056)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 125 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+  - Medium Laser × 2
+- **Equipment:**
+  - Beagle Active Probe
+- **Battle Value:** 1270
+
 ## Cicada CDA-3MA
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 136
@@ -91,7 +91,7 @@
 
 ## Cicada CDA-3P
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 128

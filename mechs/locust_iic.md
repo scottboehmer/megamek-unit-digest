@@ -1,7 +1,7 @@
 # Locust IIC
 ## Locust IIC (Standard)
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2832)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 76 (Ferro Fibrous)
@@ -13,7 +13,7 @@
 
 ## Locust IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2837)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 76 (Ferro Fibrous)
@@ -25,7 +25,7 @@
 
 ## Locust IIC 3
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (2853)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 76 (Ferro Fibrous)
@@ -35,21 +35,9 @@
   - ER Large Laser
 - **Battle Value:** 980
 
-## Locust IIC 4
-- **Role:** Undefined
-- **Tech Base:** Clan ()
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Heavy Small Laser × 6
-  - ER Medium Laser
-- **Battle Value:** 795
-
 ## Locust IIC 5
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3060)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 76 (Ferro Fibrous)
@@ -59,9 +47,21 @@
   - ER Medium Laser
 - **Battle Value:** 836
 
+## Locust IIC 4
+- **Role:** Undefined
+- **Tech Base:** Clan (3064)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Heavy Small Laser × 6
+  - ER Medium Laser
+- **Battle Value:** 795
+
 ## Locust IIC 6
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3075)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 86 (Ferro Fibrous)
@@ -75,7 +75,7 @@
 
 ## Locust IIC 7
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
 - **Armor:** 76 (Ferro Fibrous)
@@ -89,7 +89,7 @@
 
 ## Locust IIC 8
 - **Role:** Undefined
-- **Tech Base:** Clan ()
+- **Tech Base:** Clan (3084)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 12 / 18 / 0, XL
 - **Armor:** 76 (Ferro Fibrous)
@@ -100,7 +100,7 @@
 
 ## Locust IIC 9
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed ()
+- **Tech Base:** Clan Mixed (3085)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 14 / 21 / 0, XXL
 - **Armor:** 89 (Heavy Ferro Fibrous)

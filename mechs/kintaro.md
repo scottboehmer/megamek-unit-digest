@@ -1,20 +1,7 @@
 # Kintaro
-## Kintaro KTO-18
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 0
-- **Armor:** 176
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - SRM 6 × 3 (ammo: 45)
-  - Medium Laser × 2
-  - LRM 5 (ammo: 24)
-- **Battle Value:** 1187
-
 ## Kintaro KTO-19
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2587)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 179 (Ferro Fibrous)
@@ -28,7 +15,7 @@
 
 ## Kintaro KTO-19b
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (2731)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
@@ -42,9 +29,22 @@
   - CASE
 - **Battle Value:** 1265
 
+## Kintaro KTO-18
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2792)
+- **Chassis:** 55 tons
+- **Movement:** 5 / 8 / 0
+- **Armor:** 176
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - SRM 6 × 3 (ammo: 45)
+  - Medium Laser × 2
+  - LRM 5 (ammo: 24)
+- **Battle Value:** 1187
+
 ## Kintaro KTO-20
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 179 (Ferro Fibrous)
@@ -58,7 +58,7 @@
 
 ## Kintaro KTO-C
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 179 (Ferro Fibrous)
@@ -74,7 +74,7 @@
 
 ## Kintaro KTO-K
 - **Role:** Undefined
-- **Tech Base:** Inner Sphere ()
+- **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
 - **Armor:** 179 (Ferro Fibrous)
