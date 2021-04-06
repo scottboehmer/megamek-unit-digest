@@ -196,3 +196,19 @@
   - CASE
 - **Battle Value:** unknown
 
+## Templar TLR1-OR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3134)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 263
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Clan ER PPC × 2
+  - Medium Re-Engineered Laser × 5
+  - Clan LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+- **Equipment:**
+  - CASE
+  - Clan CASE II
+- **Battle Value:** 2423
+

@@ -141,3 +141,14 @@
   - ER Medium Laser × 2
 - **Battle Value:** 694
 
+## Spider SDR-10K
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3143)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 54 (Ballistic Reinforced)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large Re-Engineered Laser
+- **Battle Value:** 824
+

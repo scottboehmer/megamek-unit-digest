@@ -50,3 +50,19 @@
   - TAG
 - **Battle Value:** 1241
 
+## Tessen TSN-C3M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 161 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Snub-Nose PPC
+  - ER PPC
+  - Small Pulse Laser
+- **Equipment:**
+  - MASC
+  - C3 Master
+- **Battle Value:** 1547
+

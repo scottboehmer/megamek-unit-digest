@@ -68,15 +68,15 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 (18) / 7, XL
+- **Movement:** 7 / 11 (14) / 7, XL
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
 - **Equipment:**
   - Targeting Computer
-  - MASC × 2
-- **Battle Value:** 1837
+  - MASC
+- **Battle Value:** 1597
 
 ## Legionnaire LGN-2D (Raul)
 - **Role:** Undefined

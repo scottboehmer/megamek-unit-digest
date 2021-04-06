@@ -586,6 +586,7 @@
 - **Nyx NX-80** *(3076)*
 - **Nyx NX-80C** *(3078)*
 - **Nyx NX-100** *(3095)*
+- **Nyx NX-110** *(3141)*
 
 ### [Osiris](mechs/osiris.md)
 - **Osiris OSR-3D** *(3063)*
@@ -629,6 +630,7 @@
 - **Spider SDR-7Kr** *(3074)*
 - **Spider SDR-8K** *(3084)*
 - **Spider SDR-8R** *(3084)*
+- **Spider SDR-10K** *(3143)*
 
 ### [Uller (Kit Fox)](mechs/uller_kit_fox.md)
 - **Uller (Kit Fox)  Prime** *(2890)*
@@ -1063,6 +1065,7 @@
 ### [Clint IIC](mechs/clint_iic.md)
 - **Clint IIC (Standard)** *(2842)*
 - **Clint IIC 2** *(3073)*
+- **Clint IIC 2L 'Leia'** *(3125)*
 
 ### [Corvis](mechs/corvis.md)
 - **Corvis (Standard)** *(2845)*
@@ -1281,6 +1284,7 @@
 - **Blackjack BJ-2** *(3052)*
 - **Blackjack BJ-4** *(3067)*
 - **Blackjack BJ-5** *(3107)*
+- **Blackjack BJ-2r** *(3131)*
 
 ### [Bloodhound](mechs/bloodhound.md)
 - **Bloodhound B1-HND** *(3064)*
@@ -1569,6 +1573,7 @@
 - **Blackjack  BJ2-OR** *(3059)*
 - **Blackjack  BJ2-OF** *(3061)*
 - **Blackjack  BJ2-OX** *(3074)*
+- **Blackjack  BJ2-OG** *(3134)*
 
 ### [Blitzkrieg](mechs/blitzkrieg.md)
 - **Blitzkrieg BTZ-3F** *(3061)*
@@ -1594,7 +1599,10 @@
 - **Centurion CN9-D** *(3049)*
 - **Centurion CN9-YLW2 'Yen Lo Wang'** *(3051)*
 - **Centurion CN9-D3** *(3052)*
+- **Centurion CN9-D3D** *(3060)*
+- **Centurion CN9-D5** *(3062)*
 - **Centurion CN9-Da** *(3065)*
+- **Centurion CN9-D4D** *(3066)*
 - **Centurion CN9-D9** *(3071)*
 - **Centurion CN9-Ar** *(3072)*
 - **Centurion CN9-H** *(3077)*
@@ -1807,6 +1815,7 @@
 - **Tessen TSN-1C** *(3061)*
 - **Tessen TSN-C3** *(3062)*
 - **Tessen TSN-1Cr** *(3069)*
+- **Tessen TSN-C3M** *(3077)*
 
 ### [Trebuchet](mechs/trebuchet.md)
 - **Trebuchet TBT-3C** *(2780)*
@@ -3132,6 +3141,7 @@
 - **Helepolis HEP-4H** *(3074)*
 
 ### [Inferno](mechs/inferno.md)
+- **Inferno  INF-NO** *(3146)*
 - **Inferno  INF-NOA** *(3146)*
 - **Inferno  INF-NOB** *(3146)*
 - **Inferno  INF-NOC** *(3146)*
@@ -3780,10 +3790,13 @@
 - **Templar  TLR1-OG** *(3069)*
 - **Templar  TLR1-OI** *(3080)*
 - **Templar  TLR1-OBLO** *(3100)*
+- **Templar  TLR1-OR** *(3134)*
 
 ### [Templar III](mechs/templar_iii.md)
 - **Templar III  TLR2-O** *(3100)*
 - **Templar III  TLR2-OA** *(3100)*
+- **Templar III  TLR2-OC** *(3120)*
+- **Templar III  TLR2-OD** *(3120)*
 - **Templar III TLR2-J 'Arthur'** *(3120)*
 
 ### [Thunder Stallion](mechs/thunder_stallion.md)
@@ -3839,6 +3852,7 @@
 - **Emperor EMP-6M** *(3069)*
 - **Emperor EMP-6S** *(3069)*
 - **Emperor EMP-7L** *(3069)*
+- **Emperor EMP-8L** *(3127)*
 
 ### [Highlander](mechs/highlander.md)
 - **Highlander HGN-732** *(2592)*
@@ -4265,6 +4279,7 @@
 - **Marauder II MAD-6A** *(3134)*
 - **Marauder II MAD-6C** *(3134)*
 - **Marauder II MAD-8K** *(3138)*
+- **Marauder II MAD-10D** *(3141)*
 
 ### [Pillager](mechs/pillager.md)
 - **Pillager PLG-1N** *(2575)*

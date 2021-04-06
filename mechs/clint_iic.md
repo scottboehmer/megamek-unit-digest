@@ -24,3 +24,18 @@
   - ECM Suite
 - **Battle Value:** 1890
 
+## Clint IIC 2L 'Leia'
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3125)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 114 (Ballistic Reinforced)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Inner Sphere Medium Re-Engineered Laser
+  - Inner Sphere Large VSP Laser
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Targeting Computer
+- **Battle Value:** 1497
+

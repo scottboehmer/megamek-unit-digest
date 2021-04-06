@@ -245,3 +245,17 @@
   - CASE II
 - **Battle Value:** 2849
 
+## Marauder II MAD-10D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3141)
+- **Chassis:** 100 tons (Endo Composite)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 304
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 20 (40)
+- **Weapons:**
+  - Clan ER PPC × 2
+  - Medium X-Pulse Laser × 2
+  - Large Re-Engineered Laser
+- **Battle Value:** 2741
+

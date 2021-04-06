@@ -143,6 +143,38 @@
   - CASE
 - **Battle Value:** 1112
 
+## Centurion CN9-D3D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3060)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 143 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Light Gauss Rifle (ammo: 32)
+  - LRM 10 (ammo: 12)
+  - ER Medium Laser
+- **Equipment:**
+  - MASC
+- **Battle Value:** 1373
+
+## Centurion CN9-D5
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - RAC/5 (ammo: 60)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Targeting Computer
+  - MASC
+  - CASE
+  - C3 Slave
+- **Battle Value:** 1738
+
 ## Centurion CN9-Da
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3065)
@@ -158,6 +190,21 @@
   - Targeting Computer
   - CASE
 - **Battle Value:** 1035
+
+## Centurion CN9-D4D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3066)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 (10) / 0, XL
+- **Armor:** 143 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Light Gauss Rifle (ammo: 16)
+  - LRM 15 w/ Artemis IV (ammo: 16)
+  - ER Medium Laser
+- **Equipment:**
+  - MASC
+- **Battle Value:** 1369
 
 ## Centurion CN9-D9
 - **Role:** Undefined

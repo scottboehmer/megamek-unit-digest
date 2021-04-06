@@ -1,9 +1,6 @@
 Unable to convert data from 'Cyclops CP-10-HQ.mtf': Unrecognized component type: ISCollapsibleCommandModule
 Unable to convert data from 'Assassin Servitor.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Awesome AWS-9Ma.mtf': Unrecognized component type: Communications Equipment (2 ton)
-Unable to convert data from 'Centurion CN9-D3D.mtf': Expected additional critical of type 'ISMASC' but found 'Ferro-Fibrous' instead
-Unable to convert data from 'Centurion CN9-D4D.mtf': Expected additional critical of type 'ISMASC' but found 'Ferro-Fibrous' instead
-Unable to convert data from 'Centurion CN9-D5.mtf': Expected additional critical of type 'ISMASC' but found 'Endo-Steel' instead
 Invalid design in file 'Daishi (Dire Wolf) X.mtf': Design is overweight by 1.00 tons
 Unable to convert data from 'Jenner JR7-K Grace.mtf': Unrecognized structure type: endo steel prototype
 Unable to convert data from 'Kintaro KTO-21.mtf': Unrecognized component type: ISSRM6 Ammo Narc-Capable
@@ -66,7 +63,6 @@ Unable to convert data from 'Bloodhound B3-HND.mtf': Unrecognized component type
 Unable to convert data from 'No-Dachi NDA-3S.mtf': Unrecognized component type: Mace
 Unable to convert data from 'Perseus P1E.mtf': Unrecognized component type: Communications Equipment (1 ton)
 Unable to convert data from 'Templar TLR1-OH.mtf': Unrecognized component type: ER Flamer
-Unable to convert data from 'Tessen TSN-C3M.mtf': Expected additional critical of type 'ISMASC' but found 'Endo-Steel' instead
 Unable to convert data from 'Vanquisher VQR-7U.mtf': Unrecognized component type: ISERFlamer
 Unable to convert data from 'DemolitionMech WI-DM.mtf': Unrecognized component type: IS Wrecking Ball
 Unable to convert data from 'DemolitionMech WI-DM2.mtf': Unrecognized component type: IS Wrecking Ball
@@ -159,8 +155,6 @@ Unable to convert data from 'Prey Seeker PY-SR10.mtf': Invalid mech tonnage
 Unable to convert data from 'Scarecrow UCU-F4 Hobbled Scarecrow.mtf': Unrecognized component type: ER Flamer
 Unable to convert data from 'Scarecrow UCU-F4.mtf': Unrecognized component type: ER Flamer
 Unable to convert data from 'Templar III TLR2-OB.mtf': Unrecognized component type: Chain Whip
-Unable to convert data from 'Templar III TLR2-OC.mtf': Unrecognized component type: Large Re-engineered Laser
-Unable to convert data from 'Templar III TLR2-OD.mtf': Unrecognized component type: Medium Re-engineered Laser
 Unable to convert data from 'Hatamoto-Godai HTM-30Z.mtf': Unrecognized component type: Cockpit (armored)
 Unable to convert data from 'Rokurokubi RK-4X.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Agrotera AGT-1A.mtf': Unrecognized component type: ISPartialWing
@@ -181,8 +175,6 @@ Unable to convert data from 'Violator VT-U3.mtf': Unrecognized component type: C
 Unable to convert data from 'Cadaver CVR-T1.mtf': Unrecognized component type: ER Flamer
 Unable to convert data from 'Stalking Spider II.mtf': Unrecognized component type: CLHeavyLargeLaser (T)
 Unable to convert data from 'Berserker BRZ-D4.mtf': Unrecognized armor type: impact-resistant(inner sphere)
-Unable to convert data from 'Blackjack BJ-2r.mtf': Unrecognized component type: Large Re-engineered Laser
-Unable to convert data from 'Blackjack BJ2-OG.mtf': Unrecognized component type: Small Re-engineered Laser
 Unable to convert data from 'Cougar X 2.mtf': Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
 Unable to convert data from 'Cougar X 3.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLERLargePulseLaser' instead
 Unable to convert data from 'Cougar X.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLERMediumLaser' instead
@@ -194,20 +186,17 @@ Unable to convert data from 'Deimos D.mtf': Unrecognized component type: CLRotar
 Unable to convert data from 'Deimos E.mtf': Unrecognized component type: Radical Heat Sink System
 Unable to convert data from 'Diomede D-M3D-M.mtf': Component does not have assignable criticals
 Unable to convert data from 'Ebony MEB-13.mtf': Unrecognized armor type: heat-dissipating(inner sphere)
-Unable to convert data from 'Emperor EMP-8L.mtf': Unrecognized component type: Medium Re-engineered Laser
 Unable to convert data from 'Fennec FEC-5CM.mtf': Incorrect number of heat sink location entries (0 expected)
-Unable to convert data from 'Gallant GLT-10-0.mtf': Unrecognized component type: Large Re-engineered Laser
+Unable to convert data from 'Gallant GLT-10-0.mtf': Unrecognized component type: RemoteSensorDispenser
 Unable to convert data from 'Grand Titan T-IT-N13M.mtf': Unrecognized component type: Shoulder (armored)
 Unable to convert data from 'Hauptmann HA1-OF.mtf': Unrecognized component type: ISImprovedHeavyGaussRifle
 Unable to convert data from 'Hellion G.mtf': Unrecognized component type: TSEMP One-Shot
 Unable to convert data from 'Koschei KSC-6L.mtf': Unrecognized component type: ISSniperCannon
 Unable to convert data from 'Kuma 4.mtf': Unrecognized component type: HarJel II Self-Repair System
-Invalid design in file 'Legionnaire LGN-2K.mtf': Design is overweight by 1.00 tons
 Unable to convert data from 'Loki (Hellbringer) G.mtf': Unrecognized component type: ISImprovedHeavyGauss Ammo
 Unable to convert data from 'Mad Cat Mk II 6.mtf': Unrecognized component type: HarJel III Self-Repair System
 Unable to convert data from 'Marauder MAD-9D.mtf': Incorrect number of heat sink location entries (4 expected)
 Unable to convert data from 'Nobori-nin (Huntsman) F.mtf': Unrecognized component type: Radical Heat Sink System
-Unable to convert data from 'Nyx NX-110.mtf': Unrecognized component type: Medium Re-engineered Laser
 Unable to convert data from 'Omen 2.mtf': Unrecognized component type: HarJel III Self-Repair System
 Unable to convert data from 'Onager 2.mtf': Unrecognized component type: HarJel II Self-Repair System
 Unable to convert data from 'Panther PNT-12KC.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'IS Endo Steel' instead
@@ -216,9 +205,7 @@ Unable to convert data from 'Prefect PRF-3R.mtf': Incorrect number of heat sink 
 Unable to convert data from 'Raptor II RPT-2X2.mtf': Unrecognized component type: Mek Void Signature System
 Unable to convert data from 'Sagittaire SGT-14D.mtf': Incorrect number of heat sink location entries (3 expected)
 Unable to convert data from 'Shockwave SKW-8X.mtf': Unrecognized component type: ISThumperCannon
-Unable to convert data from 'Spider SDR-10K.mtf': Unrecognized component type: Large Re-engineered Laser
 Unable to convert data from 'Spider SDR-8Xr.mtf': Unrecognized component type: ISPartialWing
-Unable to convert data from 'Templar TLR1-OR.mtf': Unrecognized component type: Medium Re-engineered Laser
 Unable to convert data from 'Thunder Fox TDF-F11.mtf': Unrecognized component type: ISHeadTurret
 Unable to convert data from 'Ti Ts'ang TSG-10L.mtf': Unrecognized armor type: heat-dissipating(inner sphere)
 Unable to convert data from 'Trebaruna TR-XH.mtf': Unrecognized component type: ISERPPC (T)
@@ -303,7 +290,7 @@ Unable to convert data from 'Uller (Kit Fox)  R.mtf': Unrecognized component typ
 Unable to convert data from 'Uller (Kit Fox)  T.mtf': Value cannot be null. (Parameter 's')
 Unable to convert data from 'Uller (Kit Fox)  V.mtf': Value cannot be null. (Parameter 's')
 Unable to convert data from 'Carrion Crow Prime.mtf': Incorrect number of heat sink location entries (3 expected)
-Unable to convert data from 'Shadow Hawk SHD-6D.mtf': Unrecognized component type: Medium Re-engineered Laser
+Unable to convert data from 'Shadow Hawk SHD-6D.mtf': Unrecognized component type: ISStreakSRM2IOS
 Unable to convert data from 'Shadow Hawk SHD-7H.mtf': Unrecognized component type: Enhanced LRM 5
 Unable to convert data from 'Grendel (Mongrel) I.mtf': Unrecognized component type: CLProtoMechAC4
 Unable to convert data from 'Grendel (Mongrel) M.mtf': Unrecognized component type: CLRotaryAC2
@@ -319,7 +306,6 @@ Unable to convert data from 'Thor (Summoner) T.mtf': Unrecognized component type
 Unable to convert data from 'Fenris (Ice Ferret) I.mtf': Unrecognized component type: ISMPod
 Unable to convert data from 'Wasp C.mtf': Unrecognized component type: CLStreakSRM2 (IOS)
 Unable to convert data from 'Mad Cat (Timber Wolf) M.mtf': Unrecognized component type: CL Heavy Flamer Ammo
-Unable to convert data from 'Marauder II MAD-10D.mtf': Unrecognized component type: Large Re-engineered Laser
 Unable to convert data from 'Linebacker F.mtf': Unrecognized component type: CLNarcBeacon (I-OS)
 Unable to convert data from 'Linebacker G.mtf': Unrecognized component type: CLStreakSRM2 (IOS)
 Unable to convert data from 'Marauder MAD-11D.mtf': Unrecognized component type: ISSBGR
@@ -334,7 +320,6 @@ Unable to convert data from 'Dasher (Fire Moth) R.mtf': Unrecognized component t
 Unable to convert data from 'Dasher (Fire Moth) T.mtf': Unrecognized component type: CLStreakSRM4 (IOS)
 Unable to convert data from 'Rifleman RFL-7G.mtf': Unrecognized component type: ISSBGR
 Unable to convert data from 'Gladiator (Executioner) T.mtf': Unrecognized component type: Clan Machine Gun Ammo - Proto
-Unable to convert data from 'Inferno INF-NO.mtf': Unrecognized component type: Medium Re-engineered Laser
 Unable to convert data from 'Arana MilitiaMech ARA-S-1.mtf': Unrecognized component type: CLERMediumLaser (T)
 Unable to convert data from 'Reptar MilitiaMech EPT-C-1.mtf': Unrecognized component type: CLProtoMechAC8
 Unable to convert data from ''Gestalt' D2X-G.mtf': Unrecognized cockpit type: Interface Cockpit
@@ -551,16 +536,15 @@ Unable to convert data from 'Ryoken III-XP D.mtf': Unrecognized cockpit type: In
 Unable to convert data from 'Ryoken III-XP Prime.mtf': Unrecognized cockpit type: Interface Cockpit
 Unable to convert data from 'Triskelion TRK-4V.mtf': Unrecognized config: Tripod
 Unable to convert data from 'Agrotera AGT-UA _Ariel_.mtf': Unrecognized component type: UMU
-Unable to convert data from 'Buccaneer BCN-6PX _Pan_.mtf': Unrecognized component type: Medium Re-engineered Laser
+Unable to convert data from 'Buccaneer BCN-6PX _Pan_.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Celerity CLR-03OMM _Rajah_.mtf': Invalid mech tonnage
-Unable to convert data from 'Clint IIC 2L _Leia_.mtf': Unrecognized component type: Medium Re-engineered Laser
 Unable to convert data from 'Ghost GST-10A _Aurora_.mtf': Unrecognized component type: Mek Void Signature System
 Unable to convert data from 'Hitotsume Kozo HKZ-1FM _Mulan_.mtf': Unrecognized component type: ISLargeVibroblade
 Unable to convert data from 'Phoenix Hawk PXH-7KJ _Jasmine_.mtf': Unrecognized component type: ISRemoteDroneCommandConsole
 Unable to convert data from 'Tessen TSN-X4R _Rapunzel_.mtf': Unrecognized armor type: impact-resistant(inner sphere)
 Unable to convert data from 'Trebuchet TBT-7MM _Merida_.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Vulpes VLP-1DX _Beast_.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'ISDroneOperatingSystem' instead
-Unable to convert data from 'Watchman WTC-4MB _Belle_.mtf': Unrecognized component type: Large Re-engineered Laser
+Unable to convert data from 'Watchman WTC-4MB _Belle_.mtf': Unrecognized component type: ISRemoteDroneCommandConsole
 Unable to convert data from 'Banshee BNC-11X.mtf': Unrecognized component type: Shoulder (armored)
 Unable to convert data from 'Barghest BGS-4X.mtf': Unrecognized component type: ISQuadTurret
 Unable to convert data from 'Slagmaiden SLG-X.mtf': Unrecognized component type: ISLargeShield
@@ -577,130 +561,127 @@ Unrecognized Components:
 CONFIG: LAM: 13
 IS Lance: 12
 Mace: 12
-CLRotaryAC2: 10
 STRUCTURE: clan reinforced: 10
+CLRotaryAC2: 10
 ER Flamer: 9
 Salvage Arm: 9
 CLRotaryAC5: 8
-NovaCEWS: 8
-Medium Re-engineered Laser: 8
 Liquid Storage (1 ton): 8
-COCKPIT: Interface Cockpit: 7
-ISMPod: 7
+NovaCEWS: 8
 ARMOR: reactive(clan): 7
-Mek Void Signature System: 7
-ARMOR: reactive(inner sphere): 7
+COCKPIT: Interface Cockpit: 7
 ISMagshotGR: 7
-Large Re-engineered Laser: 6
-Cockpit (armored): 6
+ARMOR: reactive(inner sphere): 7
+ISMPod: 7
+Mek Void Signature System: 7
+Spikes: 6
 CLERFlamer: 6
 ISSBGR: 6
-Spikes: 6
 ISLargeVibroblade: 6
+Cockpit (armored): 6
 ISUMU: 6
+ISSmallVibroblade: 5
+CLProtoMechAC8: 5
+Spot Welder: 5
+RemoteSensorDispenser: 5
+Mek Taser: 5
 CONFIG: Tripod Omnimech: 5
 CLiATM12: 5
-Spot Welder: 5
-Mek Taser: 5
-CLProtoMechAC8: 5
-ISMediumShield: 4
+CLERMediumLaserPrototype: 4
+ISDroneOperatingSystem: 4
+CLUMU: 4
+ISPrototypeJumpJet: 4
 ARMOR: impact-resistant(inner sphere): 4
 STRUCTURE: is reinforced: 4
-RemoteSensorDispenser: 4
-ISPrototypeJumpJet: 4
-CLUMU: 4
+ISMediumShield: 4
 CLHeavyFlamer: 4
-ISSmallVibroblade: 4
-STRUCTURE: endo steel prototype: 4
-CLERMediumLaserPrototype: 4
-Backhoe: 4
-ISSmallShield: 4
-ISDroneOperatingSystem: 4
 STRUCTURE: reinforced: 4
 IS Fluid Gun: 4
-ISImprovedHeavyGauss Ammo: 3
-ISMediumVibroblade: 3
-CLModularArmor: 3
-HarJel III Self-Repair System: 3
+ISSmallShield: 4
+STRUCTURE: endo steel prototype: 4
+Backhoe: 4
 Radical Heat Sink System: 3
-Combine: 3
-Blue Shield Particle Field Damper: 3
-IS Wrecking Ball: 3
-ARMOR: heat-dissipating(inner sphere): 3
+CLModularArmor: 3
 LRT 15: 3
-CLProtoMechAC4: 3
-HarJel II Self-Repair System: 3
-ISPartialWing: 3
+ISImprovedHeavyGauss Ammo: 3
+Blue Shield Particle Field Damper: 3
+HarJel III Self-Repair System: 3
+ARMOR: heat-dissipating(inner sphere): 3
 Communications Equipment (3 ton): 3
+ISPartialWing: 3
+Combine: 3
+CLProtoMechAC4: 3
+IS Wrecking Ball: 3
+ISMediumVibroblade: 3
+HarJel II Self-Repair System: 3
 MechSprayer: 3
-ISBoobyTrap: 2
 Improved Large Laser: 2
-CLiATM9: 2
-ISHeadTurret: 2
-CLiATM3: 2
-CLWERPPC: 2
-Extended Fuel Tank (3 tons): 2
-ISSRM2IOS: 2
+ISEHERPPC: 2
+CLERMediumLaser (T): 2
+Tracks: 2
 CLStreakSRM2 (IOS): 2
 Clan Machine Gun Ammo - Proto: 2
+Clan Mech Mortar-4: 2
+Extended Fuel Tank (3 tons): 2
+CLiATM3: 2
+ISBoobyTrap: 2
+ISSRM2IOS: 2
 Improved Gauss Rifle: 2
-ISSniperCannon: 2
 ISLaserInsulator: 2
-Shoulder (armored): 2
+ISHeadTurret: 2
 Improved SRM 6: 2
+CLiATM9: 2
+CLWERPPC: 2
+Shoulder (armored): 2
+ISSniperCannon: 2
+ISLargeVibroBlade: 2
 ISERMediumLaser (T): 2
-ISMagshotGR Ammo: 2
-ENGINE: large xxl engine: 2
-Enhanced LRM 5: 2
-HEAT SINK: compact: 2
-Talons: 2
-ISEHERPPC: 2
-ISERFlamer: 2
 Communications Equipment (1 ton): 2
 COCKPIT: Primitive Industrial Cockpit: 2
 Dumper (Rear): 2
-Chain Whip: 2
+HEAT SINK: compact: 2
+Enhanced LRM 5: 2
 Extended Fuel Tank (1 ton): 2
-CLERMediumLaser (T): 2
+ENGINE: large xxl engine: 2
 LRT 10: 2
-Clan Mech Mortar-4: 2
-Tracks: 2
-Clan HarJel: 2
+ISERFlamer: 2
 CLLRT5: 2
 ISExtendedLRM10: 2
-CLLRT15: 2
+Clan HarJel: 2
 ISLongTomCannon: 2
 Hyper Velocity Auto Cannon/10: 2
-ISLargeVibroBlade: 2
-Paramedic Equipment: 1
+ISMagshotGR Ammo: 2
+ISRemoteDroneCommandConsole: 2
+Chain Whip: 2
+CLLRT15: 2
+Talons: 2
 ISMediumPulseLaserPrototype: 1
+Rifle (Cannon, Heavy): 1
+ISRISCEmergencyCoolantSystem: 1
+Paramedic Equipment: 1
+CONFIG: Tripod: 1
+ISC3EmergencyMaster: 1
+UMU: 1
 ISLBXAC10Prototype: 1
 STRUCTURE: is endo-steel prototype: 1
-Rifle (Cannon, Heavy): 1
-ISCollapsibleCommandModule: 1
-ISVehicularGrenadeLauncher: 1
-Communications Equipment (4 ton): 1
-ISRemoteDroneCommandConsole: 1
-UMU: 1
-CONFIG: Tripod: 1
-ISRISCEmergencyCoolantSystem: 1
-ISC3EmergencyMaster: 1
-Autocannon/10 Primitive: 1
-PPCp: 1
 ISThumperAmmo: 1
-Extended Fuel Tank: 1
-ISMediumVibroBlade: 1
-IS Improved Heavy Gauss Rifle Ammo: 1
-Fusion Engine (armored): 1
-ISSmallVibroBlade: 1
+PPCp: 1
 ISMekTaser: 1
-ISChaffPod: 1
-ISHeavyRifle: 1
-ISC3RemoteSensorLauncher: 1
-BloodhoundActiveProbe (armored): 1
+Extended Fuel Tank: 1
+Communications Equipment (4 ton): 1
+ISMediumVibroBlade: 1
 IS Ammo HVAC/10: 1
+IS Improved Heavy Gauss Rifle Ammo: 1
 ISGaussRiflePrototype: 1
-TSEMP One-Shot: 1
+BloodhoundActiveProbe (armored): 1
+ISC3RemoteSensorLauncher: 1
+ISVehicularGrenadeLauncher: 1
+ISHeavyRifle: 1
+ISChaffPod: 1
+Fusion Engine (armored): 1
+Autocannon/10 Primitive: 1
+ISSmallVibroBlade: 1
+ISCollapsibleCommandModule: 1
 CLStreakSRM6Prototype: 1
 CLLongTomCannon: 1
 ISGaussRifle (T): 1
@@ -721,19 +702,20 @@ ISSRM4 (OS): 1
 ISSRM6 Ammo Narc-Capable: 1
 Communications Equipment (2 ton): 1
 ENGINE: large xxl (clan) engine: 1
-ARMOR: ferro-fibrous prototype(inner sphere): 1
 CLHeavyLargeLaser (T): 1
 ISImprovedHeavyGaussRifle: 1
+TSEMP One-Shot: 1
 CLRocketLauncher10Prototype: 1
 CLRocketLauncher15Prototype: 1
 CLStreakSRM4 (IOS): 1
 CLSRM6 (T): 1
 CLNarcBeacon (I-OS): 1
 CL Heavy Flamer Ammo: 1
+ISStreakSRM2IOS: 1
 ISEnhancedLRM10 Ammo Artemis-capable: 1
 CLGaussRifle (T): 1
-Small Re-engineered Laser: 1
 Improved LRM 15: 1
+CLStreakSRM4Prototype: 1
 CLATM6 (T): 1
 MediumBridgeLayer: 1
 CONFIG: Tripod Battlemech: 1
@@ -742,8 +724,8 @@ ISERPPC (T): 1
 ISThumperCannon: 1
 Emergency C3 Master: 1
 ISQuadTurret: 1
-CLStreakSRM4Prototype: 1
+ARMOR: ferro-fibrous prototype(inner sphere): 1
 ISLargeShield: 1
 
 --------------------------------------------------
-3646 mtf files -> 3623 parsed files -> 3076 converted files -> 3073 validated mechs
+3646 mtf files -> 3623 parsed files -> 3091 converted files -> 3089 validated mechs

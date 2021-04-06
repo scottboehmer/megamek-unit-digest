@@ -33,6 +33,40 @@
   - CASE
 - **Battle Value:** 1677
 
+## Templar III TLR2-OC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3120)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 263
+- **Gyroscope:** Heavy-Duty Gyroscope
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Large Re-Engineered Laser
+  - RAC/5 (ammo: 60)
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
+  - ER Small Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1993
+
+## Templar III TLR2-OD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3120)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 263
+- **Gyroscope:** Heavy-Duty Gyroscope
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Clan ER PPC
+  - Clan LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+  - Medium Re-Engineered Laser × 4
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2108
+
 ## Templar III TLR2-J 'Arthur'
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3120)

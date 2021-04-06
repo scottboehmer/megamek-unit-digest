@@ -138,3 +138,20 @@
   - CASE
 - **Battle Value:** 2179
 
+## Emperor EMP-8L
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3127)
+- **Chassis:** 90 tons
+- **Movement:** 3 (4) / 5 (6) / 0
+- **Armor:** 279 (Stealth)
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - Plasma Rifle (ammo: 20)
+  - Medium Re-Engineered Laser × 2
+- **Equipment:**
+  - CASE
+  - Guardian ECM Suite
+- **Battle Value:** 2385
+

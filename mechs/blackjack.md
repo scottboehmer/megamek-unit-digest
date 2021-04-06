@@ -224,3 +224,27 @@
   - CASE II
 - **Battle Value:** 1165
 
+## Blackjack BJ-2r
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3131)
+- **Chassis:** 45 tons
+- **Movement:** 4 / 6 / 4
+- **Armor:** 136
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Large Re-Engineered Laser × 2
+  - Medium Laser
+- **Battle Value:** 1136
+
+## Blackjack BJ2-OG
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3134)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - RAC/5 × 2 (ammo: 100)
+  - Small Re-Engineered Laser
+- **Battle Value:** 1448
+

@@ -42,3 +42,18 @@
   - MML 3 × 3 (ammo: 40 LRM, 33 SRM)
 - **Battle Value:** 917
 
+## Nyx NX-110
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3141)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 10 / 15 / 0, XL
+- **Armor:** 78 (Anti-Penetrative Ablative Armor)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Re-Engineered Laser × 2
+- **Equipment:**
+  - Bloodhound Active Probe
+  - C3 Slave
+- **Battle Value:** 805
+
