@@ -72,8 +72,9 @@
   - ER Large Laser
 - **Equipment:**
   - Partial Wing
+  - Targeting Computer
   - Light TAG
-- **Battle Value:** 1503
+- **Battle Value:** 1725
 
 ## Peregrine (Horned Owl) 6
 - **Role:** Undefined

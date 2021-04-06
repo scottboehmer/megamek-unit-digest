@@ -40,7 +40,8 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - Null-Signature System
-- **Battle Value:** 923
+  - Chameleon LPS
+- **Battle Value:** 887
 
 ## Mongoose MON-69
 - **Role:** Undefined

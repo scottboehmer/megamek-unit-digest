@@ -11,8 +11,8 @@
   - Large Laser
 - **Equipment:**
   - Chameleon LPS
-  - Guardian ECM Suite
   - Null-Signature System
+  - Guardian ECM Suite
 - **Battle Value:** 1224
 
 ## Spector SPR-5F

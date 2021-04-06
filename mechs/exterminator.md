@@ -102,5 +102,6 @@
 - **Equipment:**
   - Chameleon LPS
   - Null-Signature System
-- **Battle Value:** 1515
+  - CASE II
+- **Battle Value:** 1592
 

@@ -50,14 +50,16 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3142)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 4, XXL
+- **Movement:** 10 / 15 / 7, XXL
 - **Armor:** 105 (Ferro Fibrous)
 - **Gyroscope:** Extra-Light Gyroscope
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
   - ER Medium Laser × 2
+  - SRM 4 (ammo: 25)
   - Laser Anti-Missile System
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 1140
+  - CASE II
+- **Battle Value:** 1334
 

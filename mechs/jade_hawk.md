@@ -3,17 +3,18 @@
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (12) / 2, XL
+- **Movement:** 5 (6) / 8 (12) / 4, XL
 - **Armor:** 216
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (27)
 - **Weapons:**
   - Inner Sphere Claw × 2
   - ER Small Laser × 4
+  - SRM 6 × 4 (ammo: 30)
 - **Equipment:**
   - Partial Wing
   - Supercharger
-- **Battle Value:** 1579
+- **Battle Value:** 2118
 
 ## Jade Hawk JHK-04
 - **Role:** Undefined
@@ -33,16 +34,17 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 2, XL
+- **Movement:** 5 / 8 (10) / 6, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 13 (29)
 - **Weapons:**
   - ER Small Laser × 4
+  - Streak SRM 6 × 4 (ammo: 60)
 - **Equipment:**
   - Partial Wing
   - Supercharger
   - Light Active Probe
-- **Battle Value:** 1355
+- **Battle Value:** 2439
 
 ## Jade Hawk 2
 - **Role:** Undefined

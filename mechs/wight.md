@@ -49,8 +49,9 @@
   - Clan Large Pulse Laser
 - **Equipment:**
   - Null-Signature System
+  - Chameleon LPS
   - Clan Watchdog CEWS
-- **Battle Value:** 1499
+- **Battle Value:** 1578
 
 ## Wight WGT-2LAW
 - **Role:** Undefined
