@@ -100,7 +100,7 @@
   - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
   - Heavy Large Laser
-- **Battle Value:** 2499
+- **Battle Value:** 2580
 
 ## Marauder IIC 7
 - **Role:** Undefined

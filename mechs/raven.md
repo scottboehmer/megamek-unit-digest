@@ -176,3 +176,20 @@
   - Beagle Active Probe
 - **Battle Value:** 923
 
+## Raven RVN-5L
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3125)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 96 (Stealth)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - iNarc (ammo: 12)
+  - ER Medium Laser × 2
+  - SRM 2 (iOS) × 3
+- **Equipment:**
+  - Angel ECM Suite
+  - TAG
+- **Battle Value:** 1035
+

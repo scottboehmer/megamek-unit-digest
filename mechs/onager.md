@@ -12,5 +12,5 @@
   - Medium Pulse Laser × 2
   - Micro Pulse Laser × 2
   - Small Pulse Laser
-- **Battle Value:** 2674
+- **Battle Value:** 2682
 

@@ -81,5 +81,5 @@
   - ER Large Pulse Laser
   - Streak SRM 6 (ammo: 15)
   - Improved Heavy Medium Laser
-- **Battle Value:** unknown
+- **Battle Value:** 2100
 

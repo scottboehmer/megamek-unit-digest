@@ -79,3 +79,17 @@
   - HAG 40 (ammo: 12)
 - **Battle Value:** 3099
 
+## Turkina Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 288
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - iATM 12 × 4 (ammo: 50)
+- **Equipment:**
+  - Light TAG
+  - Nova CEWS
+- **Battle Value:** 3755
+

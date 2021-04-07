@@ -28,5 +28,5 @@
   - Laser Anti-Missile System
 - **Equipment:**
   - Light Active Probe
-- **Battle Value:** unknown
+- **Battle Value:** 2667
 

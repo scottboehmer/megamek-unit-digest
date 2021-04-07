@@ -201,5 +201,5 @@
 - **Equipment:**
   - CASE II
   - Watchdog CEWS
-- **Battle Value:** unknown
+- **Battle Value:** 2814
 

@@ -140,7 +140,7 @@
   - ER Medium Pulse Laser × 3
   - Streak LRM 15 (ammo: 8)
   - Streak SRM 6 × 2 (ammo: 15)
-- **Battle Value:** unknown
+- **Battle Value:** 2464
 
 ## Vulture (Mad Dog) V
 - **Role:** Undefined
@@ -168,4 +168,16 @@
   - ER Medium Laser × 2
   - LRM 20 w/ Artemis V × 2 (ammo: 24)
 - **Battle Value:** 2477
+
+## Vulture (Mad Dog) I
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3144)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 163 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ER PPC w/ PPC Capacitor
+  - RAC/2 × 2 (ammo: 90)
+- **Battle Value:** 1813
 

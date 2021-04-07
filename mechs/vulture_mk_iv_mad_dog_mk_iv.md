@@ -39,7 +39,7 @@
   - ER PPC
   - Streak LRM 15 × 2 (ammo: 16)
   - ER Small Laser × 2
-- **Battle Value:** unknown
+- **Battle Value:** 2610
 
 ## Vulture Mk IV (Mad Dog Mk IV) C
 - **Role:** Undefined

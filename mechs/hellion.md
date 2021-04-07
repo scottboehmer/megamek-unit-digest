@@ -90,3 +90,21 @@
   - ECM Suite
 - **Battle Value:** 1268
 
+## Hellion F
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3077)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 0, XL
+- **Armor:** 105 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - Inner Sphere ER Flamer
+  - ER Large Laser
+  - AP Gauss Rifle × 2 (ammo: 40)
+  - SRM 6 (ammo: 15)
+- **Equipment:**
+  - MASC
+  - Active Probe
+- **Battle Value:** 1570
+

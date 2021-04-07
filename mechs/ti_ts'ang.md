@@ -43,7 +43,7 @@
   - Hatchet
 - **Equipment:**
   - Supercharger
-- **Battle Value:** 1721
+- **Battle Value:** 1739
 
 ## Ti Ts'ang Jason
 - **Role:** Undefined
@@ -74,4 +74,40 @@
   - ER Medium Laser × 2
   - ER Small Laser × 2
 - **Battle Value:** 1989
+
+## Ti Ts'ang TSG-9DDC 'Prototype'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 6 (7) / 9 (14) / 6, XL
+- **Armor:** 184
+- **Myomer:** Triple-Strength
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 5
+  - Small X-Pulse Laser × 4
+  - Lance
+- **Equipment:**
+  - Targeting Computer
+  - Supercharger
+- **Battle Value:** 2013
+
+## Ti Ts'ang TSG-9DDC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3083)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 6 (7) / 9 (14) / 6, XL
+- **Armor:** 184
+- **Myomer:** Triple-Strength
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 5
+  - Small X-Pulse Laser × 4
+  - Lance
+- **Equipment:**
+  - Targeting Computer
+  - Supercharger
+- **Battle Value:** 2013
 

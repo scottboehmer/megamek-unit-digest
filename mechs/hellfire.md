@@ -33,3 +33,19 @@
   - MASC
 - **Battle Value:** 2202
 
+## Hellfire 3
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3072)
+- **Chassis:** 60 tons
+- **Movement:** 4 / 6 (8) / 0, XL
+- **Armor:** 192 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Plasma Cannon × 4 (ammo: 40)
+  - Inner Sphere ER Flamer × 2
+  - Flamer × 2
+  - SRM 6 × 2 (ammo: 45)
+- **Equipment:**
+  - MASC
+- **Battle Value:** 2099
+

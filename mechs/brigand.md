@@ -72,6 +72,18 @@
   - Angel ECM Suite
 - **Battle Value:** 956
 
+## Brigand LDT-XPR3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 88
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Mace
+  - Medium Laser × 4
+- **Battle Value:** 752
+
 ## Brigand LDT-XPR4
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3076)
@@ -107,4 +119,16 @@
   - ER Medium Laser × 3
   - Light PPC
 - **Battle Value:** 1038
+
+## Brigand LDT-5
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3083)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 7, XL
+- **Armor:** 88
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Mace
+  - Medium Laser × 3
+- **Battle Value:** 762
 

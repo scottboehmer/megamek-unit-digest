@@ -87,3 +87,19 @@
   - C3 Slave
 - **Battle Value:** 1571
 
+## Kintaro KTO-21
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3059)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0
+- **Armor:** 170 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRM 6 × 2 (ammo: 30)
+  - ER Medium Laser × 2
+  - iNarc (ammo: 12)
+- **Equipment:**
+  - CASE
+  - C3i
+- **Battle Value:** unknown
+

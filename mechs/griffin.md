@@ -231,6 +231,20 @@
   - ER Medium Laser × 3
 - **Battle Value:** 1591
 
+## Griffin GRF-3N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3093)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5
+- **Armor:** 179 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER PPC
+  - NLRM 10 w/ Artemis IV (ammo: 24)
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1560
+
 ## Griffin GRF-6S2
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3123)
@@ -258,5 +272,5 @@
 - **Weapons:**
   - ER PPC
   - Streak LRM 10 (ammo: 12)
-- **Battle Value:** unknown
+- **Battle Value:** 2131
 

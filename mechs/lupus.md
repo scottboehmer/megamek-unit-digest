@@ -56,3 +56,16 @@
   - Targeting Computer
 - **Battle Value:** 2533
 
+## Lupus D
+- **Role:** Undefined
+- **Tech Base:** Clan (3147)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Pulse Laser × 2
+  - RAC/5 (ammo: 60)
+  - Streak LRM 10 (ammo: 12)
+- **Battle Value:** 1952
+

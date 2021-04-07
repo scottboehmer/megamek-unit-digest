@@ -72,7 +72,7 @@
   - Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2401
+- **Battle Value:** 2490
 
 ## Phoenix Hawk IIC 7
 - **Role:** Undefined
@@ -99,5 +99,5 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 2881
+- **Battle Value:** 2903
 

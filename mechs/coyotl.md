@@ -69,5 +69,5 @@
   - Targeting Computer
   - Supercharger
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 1957
 

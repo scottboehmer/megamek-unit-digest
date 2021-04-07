@@ -60,6 +60,23 @@
   - Targeting Computer
 - **Battle Value:** 2983
 
+## Savage Coyote Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 85 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 240
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - HAG 30 (ammo: 8)
+  - ER Large Pulse Laser
+  - ER Medium Laser × 2
+  - iATM 12 × 2 (ammo: 20)
+- **Equipment:**
+  - CASE II
+  - Nova CEWS
+- **Battle Value:** 2990
+
 ## Savage Coyote J
 - **Role:** Undefined
 - **Tech Base:** Clan (3073)
@@ -72,7 +89,7 @@
   - ER Large Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Pulse Laser × 4
-- **Battle Value:** 2499
+- **Battle Value:** 2515
 
 ## Savage Coyote W
 - **Role:** Undefined

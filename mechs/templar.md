@@ -162,6 +162,23 @@
   - C3 Slave
 - **Battle Value:** 1632
 
+## Templar TLR1-OH
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3080)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 263
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - MRM 30 w/ Apollo FCS × 2 (ammo: 32)
+  - ER Flamer
+  - Light PPC × 2
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+  - C3 Slave
+- **Battle Value:** 1958
+
 ## Templar TLR1-OI
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3080)

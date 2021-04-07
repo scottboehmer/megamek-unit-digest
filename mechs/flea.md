@@ -12,6 +12,17 @@
   - Flamer
 - **Battle Value:** 432
 
+## Flea FLE-14
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2519)
+- **Chassis:** 15 tons
+- **Movement:** 9 / 14 / 4
+- **Armor:** 16
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser
+- **Battle Value:** 270
+
 ## Flea FLE-15
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2523)

@@ -28,7 +28,7 @@
   - Inner Sphere Claw × 2
   - ER Small Laser × 3
   - Streak LRM 15 × 2 (ammo: 24)
-- **Battle Value:** unknown
+- **Battle Value:** 2063
 
 ## Jade Hawk (Standard)
 - **Role:** Undefined

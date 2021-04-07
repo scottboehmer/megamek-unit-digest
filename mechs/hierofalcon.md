@@ -29,7 +29,7 @@
   - Large Pulse Laser
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 1921
+- **Battle Value:** 1950
 
 ## Hierofalcon B
 - **Role:** Undefined
@@ -46,6 +46,20 @@
   - Partial Wing
   - CASE II
 - **Battle Value:** 1737
+
+## Hierofalcon C
+- **Role:** Undefined
+- **Tech Base:** Clan (3148)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 8, XL
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 10 (23)
+- **Weapons:**
+  - ER PPC
+  - RAC/2 (ammo: 90)
+- **Equipment:**
+  - Partial Wing
+- **Battle Value:** 1941
 
 ## Hierofalcon D
 - **Role:** Undefined

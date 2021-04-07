@@ -139,6 +139,22 @@
   - Light Active Probe
 - **Battle Value:** 1568
 
+## Dragonfly (Viper) Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 3
+  - iATM 3 (ammo: 20)
+  - Laser Anti-Missile System
+- **Equipment:**
+  - Light TAG
+  - Nova CEWS
+- **Battle Value:** 1671
+
 ## Dragonfly (Viper) R
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3110)
@@ -209,7 +225,7 @@
 - **Weapons:**
   - Streak LRM 5 × 3 (ammo: 48)
   - ER Micro Laser × 2
-- **Battle Value:** unknown
+- **Battle Value:** 1375
 
 ## Dragonfly (Viper) M
 - **Role:** Undefined

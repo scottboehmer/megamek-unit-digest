@@ -88,7 +88,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
-- **Battle Value:** 2602
+- **Battle Value:** 2706
 
 ## Nova Cat G
 - **Role:** Undefined

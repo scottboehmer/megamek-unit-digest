@@ -169,6 +169,21 @@
   - ER Small Laser × 2
 - **Battle Value:** 2222
 
+## Ryoken (Stormcrow) Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - iATM 9 × 2 (ammo: 42)
+  - Improved Heavy Medium Laser × 2
+- **Equipment:**
+  - Supercharger
+  - Nova CEWS
+- **Battle Value:** 2729
+
 ## Ryoken (Stormcrow) J
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)

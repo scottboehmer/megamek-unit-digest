@@ -30,6 +30,18 @@
   - C3 Slave
 - **Battle Value:** 874
 
+## Nyx NX-90
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3080)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 10 / 15 / 0, XL
+- **Armor:** 89 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Lance × 2
+  - SRM 6 (ammo: 15)
+- **Battle Value:** 613
+
 ## Nyx NX-100
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3095)

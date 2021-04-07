@@ -142,7 +142,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - Bloodhound Active Probe
-- **Battle Value:** 1762
+- **Battle Value:** 1806
 
 ## Grasshopper GHR-8K
 - **Role:** Undefined

@@ -57,5 +57,5 @@
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - Supercharger
-- **Battle Value:** unknown
+- **Battle Value:** 2588
 

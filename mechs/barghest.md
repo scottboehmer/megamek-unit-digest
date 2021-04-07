@@ -35,3 +35,20 @@
   - Heavy Gauss Rifle (ammo: 16)
 - **Battle Value:** 1900
 
+## Barghest BGS-7S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3074)
+- **Chassis:** 70 tons Quad
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 233 (Light Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
+  - Medium VSP Laser × 2
+  - Light PPC × 2
+  - Medium Pulse Laser
+  - ER Flamer
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1507
+

@@ -168,6 +168,21 @@
   - Heavy Medium Laser
 - **Battle Value:** 2481
 
+## Thor (Summoner) Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - AP Gauss Rifle × 8 (ammo: 40)
+  - ER Large Pulse Laser
+  - iATM 12 (ammo: 15)
+- **Equipment:**
+  - Nova CEWS
+- **Battle Value:** 2714
+
 ## Thor (Summoner) AA
 - **Role:** Undefined
 - **Tech Base:** Clan (3086)

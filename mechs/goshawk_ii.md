@@ -15,3 +15,20 @@
   - ECM Suite
 - **Battle Value:** 1849
 
+## Goshawk II 2
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3086)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 7 / 11 / 7, XL
+- **Armor:** 144
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Inner Sphere ER Flamer × 2
+  - Streak SRM 2 (ammo: 50)
+  - ER Large Laser
+  - Micro Pulse Laser × 2
+- **Equipment:**
+  - Targeting Computer
+  - ECM Suite
+- **Battle Value:** 1746
+

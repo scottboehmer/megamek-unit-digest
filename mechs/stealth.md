@@ -91,3 +91,21 @@
   - Guardian ECM Suite
 - **Battle Value:** 1577
 
+## Stealth STH-5X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3076)
+- **Chassis:** 45 tons (Composite)
+- **Movement:** 7 / 11 (14) / 7, XL
+- **Armor:** 143 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Flamer × 2
+  - Clan ER Medium Laser × 3
+  - Clan Streak SRM 6 (ammo: 15)
+- **Equipment:**
+  - Chameleon LPS
+  - MASC
+  - Clan Active Probe
+  - Clan ECM Suite
+- **Battle Value:** 2155
+

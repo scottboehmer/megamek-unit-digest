@@ -191,7 +191,7 @@
   - MASC
   - Targeting Computer
   - Watchdog CEWS
-- **Battle Value:** unknown
+- **Battle Value:** 3786
 
 ## Gladiator (Executioner) I
 - **Role:** Undefined
@@ -237,5 +237,5 @@
 - **Equipment:**
   - MASC
   - CASE II
-- **Battle Value:** unknown
+- **Battle Value:** 3132
 

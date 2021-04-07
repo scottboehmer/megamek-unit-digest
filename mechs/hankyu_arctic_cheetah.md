@@ -114,5 +114,5 @@
 - **Equipment:**
   - Watchdog CEWS
   - Light TAG
-- **Battle Value:** unknown
+- **Battle Value:** 1373
 

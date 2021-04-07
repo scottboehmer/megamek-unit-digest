@@ -91,7 +91,7 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 2135
+- **Battle Value:** 2167
 
 ## Flamberge D
 - **Role:** Undefined

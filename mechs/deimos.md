@@ -100,5 +100,21 @@
 - **Equipment:**
   - MASC
   - ECM Suite
-- **Battle Value:** 2521
+- **Battle Value:** 2665
+
+## Deimos D
+- **Role:** Undefined
+- **Tech Base:** Clan (3119)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 3 / 5 (6) / 0, XL
+- **Armor:** 232
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Anti-Missile System (ammo: 24)
+  - RAC/2 × 2 (ammo: 135)
+  - Streak LRM 20 × 2 (ammo: 24)
+- **Equipment:**
+  - MASC
+- **Battle Value:** 2574
 

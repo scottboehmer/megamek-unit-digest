@@ -132,7 +132,7 @@
   - MML 9 (ammo: 11 SRM, 13 LRM)
 - **Equipment:**
   - CASE
-- **Battle Value:** 1717
+- **Battle Value:** 1781
 
 ## Charger CGR-3Kr
 - **Role:** Undefined

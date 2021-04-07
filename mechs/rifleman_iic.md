@@ -60,7 +60,7 @@
 - **Weapons:**
   - ER Large Laser × 3
   - Medium Pulse Laser × 2
-- **Battle Value:** 2267
+- **Battle Value:** 2343
 
 ## Rifleman IIC 6
 - **Role:** Undefined

@@ -154,3 +154,21 @@
   - CASE
 - **Battle Value:** 2413
 
+## Highlander HGN-641-X-2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3070)
+- **Chassis:** 90 tons (Reinforced)
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 254 (Light Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - MML 7 w/ Artemis IV × 2 (ammo: 51 LRM, 14 SRM)
+  - Gauss Rifle (ammo: 16)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE II
+  - Angel ECM Suite
+  - C3 Slave
+- **Battle Value:** 2152
+

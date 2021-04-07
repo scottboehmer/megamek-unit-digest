@@ -25,6 +25,21 @@
   - ATM 12 × 2 (ammo: 10)
 - **Battle Value:** 1533
 
+## Pariah (Septicemia) A-Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Improved Heavy Small Laser × 6
+  - iATM 12 × 2 (ammo: 20)
+- **Equipment:**
+  - Light TAG
+  - Nova CEWS
+- **Battle Value:** 2310
+
 ## Pariah (Septicemia) B
 - **Role:** Undefined
 - **Tech Base:** Clan (3072)
@@ -38,6 +53,22 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 2310
+
+## Pariah (Septicemia) B-Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 7, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Small Pulse Laser × 2
+  - Large Pulse Laser × 2
+- **Equipment:**
+  - Targeting Computer
+  - Light TAG
+  - Nova CEWS
+- **Battle Value:** 2349
 
 ## Pariah (Septicemia) C
 - **Role:** Undefined
@@ -55,6 +86,23 @@
   - MG Array × 2
 - **Battle Value:** 2160
 
+## Pariah (Septicemia) C-Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Medium Pulse Laser × 4
+  - Plasma Cannon × 3 (ammo: 20)
+  - AP Gauss Rifle × 6 (ammo: 40)
+  - Machine Gun × 6 (ammo: 100)
+- **Equipment:**
+  - MG Array × 2
+  - Nova CEWS
+- **Battle Value:** 2209
+
 ## Pariah (Septicemia) D
 - **Role:** Undefined
 - **Tech Base:** Clan (3072)
@@ -69,6 +117,37 @@
 - **Equipment:**
   - Targeting Computer
 - **Battle Value:** 2679
+
+## Pariah (Septicemia) D-Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER PPC
+  - Ultra AC/20 (ammo: 10)
+- **Equipment:**
+  - Targeting Computer
+  - Nova CEWS
+- **Battle Value:** 2665
+
+## Pariah (Septicemia) E
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ER Medium Laser × 6
+  - ER PPC × 2
+- **Equipment:**
+  - Light TAG
+  - Targeting Computer
+  - Nova CEWS
+- **Battle Value:** 2950
 
 ## Pariah (Septicemia) F
 - **Role:** Undefined

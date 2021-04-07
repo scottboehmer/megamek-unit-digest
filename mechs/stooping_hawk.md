@@ -88,5 +88,5 @@
   - Medium Pulse Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
   - Heavy Small Laser
-- **Battle Value:** 1953
+- **Battle Value:** 1967
 

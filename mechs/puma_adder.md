@@ -126,6 +126,20 @@
   - HAG 20 (ammo: 18)
 - **Battle Value:** 1209
 
+## Puma (Adder) K
+- **Role:** Undefined
+- **Tech Base:** Clan (3125)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Pulse Laser
+  - RAC/2 (ammo: 45)
+  - Laser Anti-Missile System
+  - Flamer
+- **Battle Value:** 1261
+
 ## Puma (Adder) T
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3142)
@@ -153,5 +167,5 @@
   - Flamer
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1699
 

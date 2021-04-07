@@ -29,5 +29,5 @@
   - CASE II
   - Angel ECM Suite
   - Clan Active Probe
-- **Battle Value:** unknown
+- **Battle Value:** 1707
 

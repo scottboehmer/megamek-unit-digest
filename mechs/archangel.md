@@ -127,3 +127,22 @@
   - Targeting Computer
 - **Battle Value:** unknown
 
+## Archangel C-ANG-OS Caelestis
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3075)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0, Compact
+- **Armor:** 307
+- **Gyroscope:** Compact Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Clan ER Small Laser × 2
+  - Thunderbolt 10 (ammo: 6)
+  - Blazer Cannon × 2
+  - Clan ER Medium Laser × 2
+  - ER Flamer × 2
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
+

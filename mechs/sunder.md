@@ -115,6 +115,22 @@
   - ER Medium Laser
 - **Battle Value:** 1876
 
+## Sunder SD1-OX
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 264
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - NLRM 5 × 8 (ammo: 96)
+  - ER Medium Laser × 3
+  - Medium Pulse Laser
+- **Equipment:**
+  - C3 Slave
+  - B-Pod × 2
+- **Battle Value:** 1761
+
 ## Sunder SD1-OF
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3134)

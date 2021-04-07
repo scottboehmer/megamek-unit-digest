@@ -110,6 +110,22 @@
   - Streak SRM 6 (ammo: 15)
 - **Battle Value:** 2360
 
+## Warhammer IIC 9
+- **Role:** Undefined
+- **Tech Base:** Clan (3086)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XXL
+- **Armor:** 230 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - RAC/5 × 2 (ammo: 120)
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
+  - LRM 10 (ammo: 12)
+- **Equipment:**
+  - ECM Suite
+- **Battle Value:** 2819
+
 ## Warhammer IIC 10
 - **Role:** Undefined
 - **Tech Base:** Clan (3120)

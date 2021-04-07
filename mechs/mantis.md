@@ -62,3 +62,19 @@
   - MASC
 - **Battle Value:** 1380
 
+## Mantis MTS-L
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3064)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 9 (10) / 14 (20) / 0, XL
+- **Armor:** 98 (Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Lance
+  - Medium Pulse Laser × 4
+- **Equipment:**
+  - Supercharger
+- **Battle Value:** 1194
+

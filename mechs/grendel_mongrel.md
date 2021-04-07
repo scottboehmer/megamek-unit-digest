@@ -107,6 +107,20 @@
   - ATM 6 (ammo: 20)
 - **Battle Value:** 1955
 
+## Grendel (Mongrel) M
+- **Role:** Undefined
+- **Tech Base:** Clan (3086)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 7 / 11 / 7, XL
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - RAC/2 (ammo: 45)
+  - ER Large Laser
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1744
+
 ## Grendel (Mongrel) G
 - **Role:** Undefined
 - **Tech Base:** Clan (3090)

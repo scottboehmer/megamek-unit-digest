@@ -191,3 +191,19 @@
   - Supercharger
 - **Battle Value:** 775
 
+## Commando COM-9S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3146)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 0, XL
+- **Armor:** 72
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC
+  - SRM 2 (iOS) × 2
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
+- **Equipment:**
+  - CASE II
+  - Supercharger
+- **Battle Value:** 719
+

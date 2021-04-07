@@ -107,3 +107,18 @@
   - MASC
 - **Battle Value:** 2043
 
+## Black Lanner X
+- **Role:** Undefined
+- **Tech Base:** Clan (3075)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 0, XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - RAC/2 (ammo: 90)
+- **Equipment:**
+  - MASC
+  - CASE II
+- **Battle Value:** 1672
+

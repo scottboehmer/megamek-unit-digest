@@ -26,5 +26,5 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2032
+- **Battle Value:** 2178
 

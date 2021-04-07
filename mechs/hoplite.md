@@ -79,3 +79,18 @@
   - ER Medium Laser
 - **Battle Value:** 1646
 
+## Hoplite HOP-4X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3075)
+- **Chassis:** 55 tons (Composite)
+- **Movement:** 5 / 8 / 0, Light
+- **Armor:** 185 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Clan Streak LRM 15 (ammo: 16)
+  - Clan RAC/5 (ammo: 60)
+- **Equipment:**
+  - CASE
+  - Clan Light Active Probe
+- **Battle Value:** 1880
+

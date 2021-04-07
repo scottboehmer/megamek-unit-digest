@@ -65,3 +65,15 @@
   - Streak SRM 6 × 8 (ammo: 60)
 - **Battle Value:** 2221
 
+## Vulture Mk III (Mad Dog Mk III) D
+- **Role:** Undefined
+- **Tech Base:** Clan (3109)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - RAC/5 × 2 (ammo: 120)
+- **Battle Value:** 2343
+

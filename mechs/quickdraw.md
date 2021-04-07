@@ -49,6 +49,21 @@
   - SRM 4 (ammo: 25)
 - **Battle Value:** 1265
 
+## Quickdraw QKD-5M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3049)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 5
+- **Armor:** 143 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Medium Laser × 4
+  - LRM 10 (ammo: 12)
+  - Streak SRM 4 (OS)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1244
+
 ## Quickdraw QKD-C
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3053)

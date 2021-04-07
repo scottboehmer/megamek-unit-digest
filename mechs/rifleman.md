@@ -253,7 +253,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Improved Heavy Medium Laser × 2
-- **Battle Value:** 1882
+- **Battle Value:** 2150
 
 ## Rifleman C 3
 - **Role:** Undefined

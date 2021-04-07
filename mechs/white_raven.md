@@ -28,5 +28,5 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2390
+- **Battle Value:** 2703
 

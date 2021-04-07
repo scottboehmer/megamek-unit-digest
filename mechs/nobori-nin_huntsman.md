@@ -179,5 +179,5 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 2047
 

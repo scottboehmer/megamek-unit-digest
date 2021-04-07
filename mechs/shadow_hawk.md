@@ -302,6 +302,22 @@
   - CASE
 - **Battle Value:** unknown
 
+## Shadow Hawk SHD-7H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3097)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5, Light
+- **Armor:** 168
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - NLRM 5 (ammo: 24)
+  - SRM 2 (ammo: 50)
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1394
+
 ## Shadow Hawk SHD-4H
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3101)

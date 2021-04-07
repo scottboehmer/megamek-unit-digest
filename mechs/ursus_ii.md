@@ -14,5 +14,5 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 1983
+- **Battle Value:** 2030
 

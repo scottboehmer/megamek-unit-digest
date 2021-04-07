@@ -77,7 +77,7 @@
   - ATM 3 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 1305
+- **Battle Value:** 1405
 
 ## Griffin IIC 8
 - **Role:** Undefined
@@ -92,7 +92,7 @@
   - ER Large Laser
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 1632
+- **Battle Value:** 1715
 
 ## Griffin IIC 7
 - **Role:** Undefined
@@ -105,5 +105,5 @@
   - ER Medium Pulse Laser × 2
   - Streak SRM 6 (ammo: 15)
   - Streak LRM 10 (ammo: 12)
-- **Battle Value:** unknown
+- **Battle Value:** 1910
 

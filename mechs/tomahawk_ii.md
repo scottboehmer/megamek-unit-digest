@@ -44,7 +44,7 @@
   - ER Large Laser × 2
   - ER Medium Laser
   - Laser Anti-Missile System
-- **Battle Value:** unknown
+- **Battle Value:** 3441
 
 ## Tomahawk II C
 - **Role:** Undefined

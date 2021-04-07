@@ -195,7 +195,7 @@
 - **Weapons:**
   - ER Small Laser × 7
   - Improved Heavy Medium Laser × 4
-- **Battle Value:** 2105
+- **Battle Value:** 2134
 
 ## Man O' War (Gargoyle) K
 - **Role:** Undefined

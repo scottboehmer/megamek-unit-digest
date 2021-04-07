@@ -153,3 +153,18 @@
   - Beagle Active Probe
 - **Battle Value:** 887
 
+## Mongoose MON-96
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3129)
+- **Chassis:** 25 tons (Reinforced)
+- **Movement:** 8 / 12 (16) / 0, XL
+- **Armor:** 89 (Heavy Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - ER Small Laser
+- **Equipment:**
+  - Bloodhound Active Probe
+  - Supercharger
+- **Battle Value:** 1011
+

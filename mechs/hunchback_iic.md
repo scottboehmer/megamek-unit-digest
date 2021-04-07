@@ -35,3 +35,17 @@
   - ER Medium Laser × 3
 - **Battle Value:** 1736
 
+## Hunchback IIC 4
+- **Role:** Undefined
+- **Tech Base:** Clan (3075)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 112
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - RAC/5 × 2 (ammo: 80)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - ECM Suite
+- **Battle Value:** 2025
+

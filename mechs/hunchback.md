@@ -178,6 +178,22 @@
   - CASE
 - **Battle Value:** 1097
 
+## Hunchback HBK-7X-4
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3065)
+- **Chassis:** 50 tons (Reinforced)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 161 (Ferro Fibrous)
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Ultra AC/10 (ammo: 20)
+  - ER Small Laser
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1208
+
 ## Hunchback HBK-5SG
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3068)
@@ -223,6 +239,22 @@
   - Guardian ECM Suite
   - C3 Slave
 - **Battle Value:** 1340
+
+## Hunchback HBK-7R
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3085)
+- **Chassis:** 50 tons (Reinforced)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 169 (Light Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Ultra AC/10 (ammo: 20)
+- **Equipment:**
+  - CASE II
+  - Guardian ECM Suite
+  - TAG
+- **Battle Value:** 1248
 
 ## Hunchback HBK-LGN-Pin 'Anastasia'
 - **Role:** Undefined

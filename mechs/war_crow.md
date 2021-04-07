@@ -41,7 +41,7 @@
   - Streak LRM 15 (ammo: 16)
   - Medium Pulse Laser × 2
   - ER Medium Laser
-- **Battle Value:** unknown
+- **Battle Value:** 2748
 
 ## War Crow C
 - **Role:** Undefined

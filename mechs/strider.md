@@ -158,7 +158,7 @@
   - Clan Streak LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1192
 
 ## Strider SR1-OM
 - **Role:** Undefined

@@ -117,3 +117,18 @@
   - Guardian ECM Suite
 - **Battle Value:** 1242
 
+## Hermes II HER-7S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3077)
+- **Chassis:** 40 tons (Composite)
+- **Movement:** 8 / 12 / 8, XXL
+- **Armor:** 120
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Flamer
+  - Light PPC
+  - Clan Large Pulse Laser
+- **Equipment:**
+  - Clan Targeting Computer
+- **Battle Value:** 1525
+

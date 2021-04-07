@@ -27,5 +27,5 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2387
+- **Battle Value:** 2411
 

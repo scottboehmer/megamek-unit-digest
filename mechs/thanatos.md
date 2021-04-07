@@ -64,5 +64,5 @@
   - Medium Laser × 2
 - **Equipment:**
   - C3 Slave
-- **Battle Value:** 1901
+- **Battle Value:** 1936
 

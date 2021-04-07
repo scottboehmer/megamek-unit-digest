@@ -54,5 +54,5 @@
   - Streak LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 1883
 

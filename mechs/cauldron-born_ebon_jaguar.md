@@ -116,3 +116,20 @@
   - ATM 12 (ammo: 5)
 - **Battle Value:** 2183
 
+## Cauldron-Born (Ebon Jaguar) X
+- **Role:** Undefined
+- **Tech Base:** Clan (3075)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Medium Pulse Laser × 3
+  - RAC/5 (ammo: 60)
+  - ER Small Pulse Laser
+- **Equipment:**
+  - Targeting Computer
+  - Angel ECM Suite
+  - CASE II
+- **Battle Value:** 2435
+

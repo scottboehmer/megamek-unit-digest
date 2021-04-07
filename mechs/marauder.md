@@ -424,7 +424,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Battle Value:** 1835
+- **Battle Value:** 1868
 
 ## Marauder MAD-7S
 - **Role:** Undefined

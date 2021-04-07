@@ -205,6 +205,21 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Battle Value:** 2722
 
+## Mad Cat (Timber Wolf) Z
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 230 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ER Medium Pulse Laser × 2
+  - iATM 9 × 2 (ammo: 28)
+- **Equipment:**
+  - Nova CEWS
+- **Battle Value:** 2845
+
 ## Mad Cat (Timber Wolf) W
 - **Role:** Undefined
 - **Tech Base:** Clan (3100)

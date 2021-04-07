@@ -9,7 +9,7 @@
 - **Weapons:**
   - Heavy Large Laser
   - ER Medium Laser × 2
-- **Battle Value:** 1843
+- **Battle Value:** 1952
 
 ## Kuma 2
 - **Role:** Undefined

@@ -12,5 +12,5 @@
   - Streak LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE II
-- **Battle Value:** unknown
+- **Battle Value:** 2475
 

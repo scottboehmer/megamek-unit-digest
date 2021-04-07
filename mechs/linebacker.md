@@ -125,5 +125,5 @@
   - Flamer
 - **Equipment:**
   - Active Probe
-- **Battle Value:** unknown
+- **Battle Value:** 1812
 

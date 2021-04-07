@@ -38,7 +38,7 @@
   - Medium Laser × 4
   - ER PPC
   - Small Pulse Laser
-- **Battle Value:** 1491
+- **Battle Value:** 1525
 
 ## Rook NH-3X
 - **Role:** Undefined

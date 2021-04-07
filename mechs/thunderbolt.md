@@ -286,7 +286,7 @@
   - Targeting Computer
   - CASE
   - Guardian ECM Suite
-- **Battle Value:** 1695
+- **Battle Value:** 1754
 
 ## Thunderbolt TDR-17S
 - **Role:** Undefined

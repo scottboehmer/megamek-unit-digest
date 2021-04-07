@@ -72,3 +72,22 @@
   - C3 Slave
 - **Battle Value:** 1705
 
+## No-Dachi NDA-3S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3081)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Armor:** 216
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Medium VSP Laser × 2
+  - Medium Pulse Laser × 3
+  - Small Pulse Laser
+  - Mace
+  - ER Medium Laser × 2
+  - Small Laser × 3
+- **Equipment:**
+  - Guardian ECM Suite
+- **Battle Value:** 1706
+
