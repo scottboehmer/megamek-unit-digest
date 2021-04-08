@@ -13,3 +13,18 @@
   - Machine Gun × 2 (ammo: 200)
 - **Battle Value:** 802
 
+## Werewolf WER-LF-005
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3060)
+- **Chassis:** 40 tons
+- **Movement:** 5 / 8 / 2, XL
+- **Armor:** 128
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Large X-Pulse Laser
+  - Streak SRM 6 (ammo: 15)
+  - MagShot Gauss Rifle × 2 (ammo: 50)
+- **Equipment:**
+  - Null-Signature System
+- **Battle Value:** 1082
+

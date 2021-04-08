@@ -136,6 +136,19 @@
   - Supercharger
 - **Battle Value:** 2209
 
+## Grendel (Mongrel) I
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3140)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 7 / 11 / 7, XL
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ProtoMech AC/4 (ammo: 20)
+  - ER Medium Laser
+  - Inner Sphere Plasma Rifle (ammo: 10)
+- **Battle Value:** 1654
+
 ## Grendel (Mongrel) J
 - **Role:** Undefined
 - **Tech Base:** Clan (3140)

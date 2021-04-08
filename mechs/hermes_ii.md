@@ -125,7 +125,7 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Flamer
+  - Clan ER Flamer
   - Light PPC
   - Clan Large Pulse Laser
 - **Equipment:**

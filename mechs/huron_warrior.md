@@ -53,3 +53,17 @@
   - Medium Pulse Laser
 - **Battle Value:** 1585
 
+## Huron Warrior HUR-WO-RX4
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3076)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 (10) / 0, XL
+- **Armor:** 160 (Reactive)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large X-Pulse Laser
+  - Silver Bullet (ammo: 16)
+- **Equipment:**
+  - Supercharger
+- **Battle Value:** 1728
+

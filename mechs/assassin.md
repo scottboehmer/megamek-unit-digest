@@ -50,6 +50,21 @@
   - LB 5-X AC (ammo: 20 Cluster)
 - **Battle Value:** 925
 
+## Assassin 'Servitor'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3066)
+- **Chassis:** 40 tons
+- **Movement:** 7 / 11 / 7, XL
+- **Armor:** 128
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Small Vibroblade
+  - Medium X-Pulse Laser
+  - SRM 2 × 2 (ammo: 50)
+  - Small Laser
+  - Small X-Pulse Laser × 2
+- **Battle Value:** 1019
+
 ## Assassin ASN-30 (Alice)
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3066)

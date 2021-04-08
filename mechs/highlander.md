@@ -172,3 +172,20 @@
   - C3 Slave
 - **Battle Value:** 2152
 
+## Highlander HGN-740
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3115)
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 3
+- **Armor:** 271 (Light Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Streak SRM 6 (ammo: 15)
+  - ER PPC w/ PPC Capacitor
+  - LRM 20 w/ Artemis IV (ammo: 12)
+  - ER Medium Laser × 2
+  - M-Pod × 4
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 2232
+

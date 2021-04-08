@@ -32,6 +32,22 @@
   - Nova CEWS
 - **Battle Value:** unknown
 
+## Osteon B
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3072)
+- **Chassis:** 85 tons (Reinforced)
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 252 (Ferro Lamellor)
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - ER Large Laser × 3
+  - Inner Sphere Large Vibroblade
+  - Improved Heavy Large Laser × 2
+- **Equipment:**
+  - Nova CEWS
+- **Battle Value:** 2625
+
 ## Osteon C
 - **Role:** Undefined
 - **Tech Base:** Clan (3072)

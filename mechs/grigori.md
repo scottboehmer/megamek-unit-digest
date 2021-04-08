@@ -151,3 +151,21 @@
   - CASE
 - **Battle Value:** unknown
 
+## Grigori C-GRG-OS Caelestis
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3075)
+- **Chassis:** 60 tons
+- **Movement:** 4 / 6 / 0, Light
+- **Armor:** 186 (Light Ferro Fibrous)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Silver Bullet (ammo: 16)
+  - Clan Streak LRM 10 (ammo: 12)
+  - Medium X-Pulse Laser × 2
+- **Equipment:**
+  - C3i
+  - CASE II
+- **Battle Value:** unknown
+

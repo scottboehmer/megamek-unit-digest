@@ -50,3 +50,22 @@
   - CASE II
 - **Battle Value:** 2242
 
+## Doloire DLR-OD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3121)
+- **Chassis:** 80 tons (Endo Composite)
+- **Movement:** 4 / 6 (8) / 0, XL
+- **Armor:** 232
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Clan ER Medium Laser × 2
+  - Large Vibroblade
+  - Clan Streak SRM 4 × 4 (ammo: 50)
+  - TSEMP × 2
+  - Clan ER Micro Laser × 2
+- **Equipment:**
+  - AES × 2
+  - Supercharger
+  - CASE II
+- **Battle Value:** 3071
+

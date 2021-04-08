@@ -1,50 +1,26 @@
 Unable to convert data from 'Cyclops CP-10-HQ.mtf': Unrecognized component type: ISCollapsibleCommandModule
-Unable to convert data from 'Assassin Servitor.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Awesome AWS-9Ma.mtf': Unrecognized component type: Communications Equipment (2 ton)
 Invalid design in file 'Daishi (Dire Wolf) X.mtf': Design is overweight by 1.00 tons
 Unable to convert data from 'Jenner JR7-K Grace.mtf': Unrecognized structure type: endo steel prototype
 Invalid design in file 'Quickdraw QKD-5M.mtf': Design is overweight by 1.00 tons
 Unable to convert data from 'Stalker STK-3F (Jamison).mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLLRM20' instead
-Unable to convert data from 'Thug THG-13K.mtf': Expected additional critical of type 'ISHeavyPPC' but found 'ISHeavyPPC)' instead
 Unable to convert data from 'Wolfhound WLF-1 (Allard).mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLERMediumLaser' instead
-Unable to convert data from 'Aquagladius AQS-3.mtf': Unrecognized component type: Mek Taser
+Unable to convert data from 'Aquagladius AQS-3.mtf': Unrecognized component type: IS Flail
 Unable to convert data from 'Aquagladius AQS-4.mtf': Unrecognized component type: ISUMU
-Unable to convert data from 'Bombard BMB-013.mtf': Unrecognized component type: Spikes
-Unable to convert data from 'Bombard BMB-1X.mtf': Unrecognized component type: ISMPod
 Unable to convert data from 'Colossus CLS-4S.mtf': Unrecognized component type: ISSmallShield
-Unable to convert data from 'Copperhead CPR-HD-003.mtf': Unrecognized component type: ISMagshotGR Ammo
-Unable to convert data from 'Copperhead CPR-HD-004.mtf': Unrecognized component type: ISMagshotGR Ammo
 Unable to convert data from 'Flashfire FLS-P5.mtf': Unrecognized component type: IS Fluid Gun
 Unable to convert data from 'Great Turtle GTR-2.mtf': Unrecognized component type: Hip (armored)
-Unable to convert data from 'Hachiwara HCA-3T.mtf': Unrecognized component type: ISLargeVibroblade
-Unable to convert data from 'Hachiwara HCA-4T.mtf': Unrecognized component type: ISLargeVibroblade
-Unable to convert data from 'Hachiwara HCA-4U.mtf': Unrecognized component type: ISLargeVibroblade
-Unable to convert data from 'Hachiwara HCA-6P.mtf': Unrecognized component type: Spikes
-Unable to convert data from 'Juggernaut JG-R9T3.mtf': Unrecognized component type: ISMagshotGR
-Unable to convert data from 'Longshot LNG-2.mtf': Unrecognized armor type: reactive(inner sphere)
-Unable to convert data from 'Mantis MTS-T3.mtf': Unrecognized armor type: reactive(inner sphere)
-Unable to convert data from 'Morpheus MRP-3S.mtf': Unrecognized component type: Spikes
-Unable to convert data from 'Morpheus MRP-3T.mtf': Unrecognized armor type: reactive(inner sphere)
-Unable to convert data from 'Morpheus MRP-3W.mtf': Unrecognized component type: Spikes
+Unable to convert data from 'Morpheus MRP-3W.mtf': Unrecognized component type: ISUMU
 Unable to convert data from 'Phantom F.mtf': Unrecognized component type: CLHeavyFlamer
-Unable to convert data from 'Porcupine PRC-1N.mtf': Unrecognized component type: Spikes
 Unable to convert data from 'Pouncer F.mtf': Unrecognized component type: CLHeavyFlamer
-Unable to convert data from 'Ronin SA-RN7.mtf': Unrecognized component type: ISMPod
 Unable to convert data from 'Sasquatch SQS-TH-002.mtf': Unrecognized engine type: large xxl engine
 Unable to convert data from 'Sasquatch SQS-TH-003.mtf': Unrecognized engine type: large xxl engine
-Unable to convert data from 'Silver Fox SVR-5X.mtf': Unrecognized component type: ISMagshotGR
-Unable to convert data from 'Silver Fox SVR-5Y.mtf': Unrecognized component type: ISMagshotGR
-Unable to convert data from 'Tsunami TS-P1D.mtf': Unrecognized component type: ISMagshotGR
-Unable to convert data from 'Werewolf WER-LF-005.mtf': Unrecognized component type: ISMagshotGR
 Unable to convert data from 'Crossbow D.mtf': Unrecognized component type: Clan Mech Mortar-8
 Unable to convert data from 'Turkina C.mtf': Unrecognized component type: CLBAFlamer
-Unable to convert data from 'Turkina X.mtf': Unrecognized component type: Talons
-Unable to convert data from 'Sentry SNT-W5.mtf': Unrecognized component type: ISMagshotGR
-Unable to convert data from 'Stooping Hawk G.mtf': Unrecognized component type: CLProtoMechAC4
 Unable to convert data from 'Blue Flame BLF-21.mtf': Invalid location for this chassis
 Unable to convert data from 'Bloodhound B3-HND.mtf': Unrecognized component type: ISFluidGun
 Unable to convert data from 'Perseus P1E.mtf': Unrecognized component type: Communications Equipment (1 ton)
-Unable to convert data from 'Vanquisher VQR-7U.mtf': Unrecognized component type: RemoteSensorDispenser
+Unable to convert data from 'Vanquisher VQR-7U.mtf': Unrecognized component type: ISHeavyFlamer
 Unable to convert data from 'DemolitionMech WI-DM.mtf': Unrecognized component type: IS Wrecking Ball
 Unable to convert data from 'DemolitionMech WI-DM2.mtf': Unrecognized component type: IS Wrecking Ball
 Unable to convert data from 'Hyena SalvageMech HYN-4A.mtf': Unrecognized component type: Salvage Arm
@@ -69,11 +45,6 @@ Unable to convert data from 'Fwltur FWL-3R SalvageMech.mtf': Unrecognized compon
 Unable to convert data from 'Fwltur FWL-3V SalvageMech.mtf': Unrecognized component type: Salvage Arm
 Unable to convert data from 'Goshawk II 3.mtf': Unrecognized component type: Liquid Storage (1 ton)
 Unable to convert data from 'Kuma 3.mtf': Unrecognized engine type: large xxl (clan) engine
-Unable to convert data from 'Morrigan 3.mtf': Unrecognized component type: Mek Taser
-Unable to convert data from 'Raptor II RPT-2X.mtf': Unrecognized component type: Mek Void Signature System
-Unable to convert data from 'Raptor II RPT-2X1.mtf': Unrecognized component type: Mek Void Signature System
-Unable to convert data from 'Raptor II RPT-3X.mtf': Unrecognized component type: Mek Void Signature System
-Unable to convert data from 'Raptor II RPT-5X.mtf': Unrecognized component type: Mek Void Signature System
 Unable to convert data from 'Shadow Cat II 2.mtf': Unrecognized component type: CLLaserInsulator
 Unable to convert data from 'Sokuryou SKU-181 SurveyMech.mtf': Unrecognized component type: Extended Fuel Tank (1 ton)
 Unable to convert data from 'Sokuryou SKU-197 SurveyMech.mtf': Unrecognized component type: Communications Equipment (1 ton)
@@ -105,17 +76,11 @@ Unable to convert data from 'Turkina U.mtf': Unrecognized component type: Coolan
 Unable to convert data from 'Uller (Kit Fox) U.mtf': Unrecognized component type: CLLRT5
 Unable to convert data from 'Victor VTR-Cr.mtf': Unrecognized component type: Hyper Velocity Auto Cannon/10
 Unable to convert data from 'Vulture (Mad Dog) U.mtf': Unrecognized component type: CLLRT15
-Unable to convert data from 'Archer ARC-9W.mtf': Unrecognized component type: Mek Void Signature System
 Unable to convert data from 'BattleMaster BLR-6X.mtf': Unrecognized engine type: large xxl engine(is)
 Unable to convert data from 'Goliath GOL-6M.mtf': Unrecognized component type: ISGaussRifle (T)
 Unable to convert data from 'Shadow Hawk IIC 7.mtf': Unrecognized component type: Liquid Storage (1 ton)
 Unable to convert data from 'Kodiak II 2.mtf': Unrecognized component type: HarJel III Self-Repair System
 Unable to convert data from 'Loki (Hellbringer) Mk II B.mtf': Unrecognized component type: CLLongTomCannon
-Unable to convert data from 'Warwolf (Prime).mtf': Unrecognized armor type: reactive(clan)
-Unable to convert data from 'Warwolf A.mtf': Unrecognized armor type: reactive(clan)
-Unable to convert data from 'Warwolf B.mtf': Unrecognized armor type: reactive(clan)
-Unable to convert data from 'Warwolf C.mtf': Unrecognized armor type: reactive(clan)
-Unable to convert data from 'Warwolf H.mtf': Unrecognized armor type: reactive(clan)
 Unable to convert data from 'Antlion LK-3D.mtf': Unrecognized component type: Clan Mech Mortar-4
 Unable to convert data from 'Atlas III AS7-D2.mtf': Unrecognized component type: Cockpit (armored)
 Unable to convert data from 'Atlas III AS7-D3.mtf': Incorrect number of heat sink location entries (0 expected)
@@ -127,20 +92,15 @@ Unable to convert data from 'Black Knight BLK-NT-5H.mtf': Expected additional cr
 Unable to convert data from 'Centurion CN11-OD.mtf': Unrecognized component type: ISMediumShield
 Unable to convert data from 'Templar III TLR2-OB.mtf': Unrecognized component type: Chain Whip
 Unable to convert data from 'Hatamoto-Godai HTM-30Z.mtf': Unrecognized component type: Cockpit (armored)
-Unable to convert data from 'Rokurokubi RK-4X.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Agrotera AGT-1A.mtf': Unrecognized component type: ISPartialWing
 Unable to convert data from 'Catapult II CPLT-L7L.mtf': Unrecognized armor type: heat-dissipating(inner sphere)
 Unable to convert data from 'Lu Wei Bing LN-4B.mtf': Unrecognized component type: Cockpit (armored)
-Unable to convert data from 'Vandal LI-OB.mtf': Unrecognized component type: ISMediumVibroblade
-Unable to convert data from 'Yinghuochong YHC-3E.mtf': Unrecognized component type: RemoteSensorDispenser
-Unable to convert data from 'Yinghuochong YHC-3Y.mtf': Unrecognized component type: RemoteSensorDispenser
-Unable to convert data from 'Carronade CRN-7M.mtf': Unrecognized component type: ISSBGR
+Unable to convert data from 'Vandal LI-OB.mtf': Unrecognized component type: ISVehicularMineDispenser
 Unable to convert data from 'Juliano JLN-5A.mtf': Unrecognized component type: Cockpit (armored)
-Unable to convert data from 'Neanderthal NTL-AG.mtf': Unrecognized component type: ISMPod
 Unable to convert data from 'Quasimodo QSM-3D.mtf': Unrecognized component type: Blue Shield Particle Field Damper
-Unable to convert data from 'Sarath SRTH-1O.mtf': Unrecognized component type: Spikes
+Unable to convert data from 'Sarath SRTH-1O.mtf': Unrecognized component type: Heavy PPC (T)
 Unable to convert data from 'Sarath SRTH-1OA.mtf': Unrecognized component type: CLLRM15 (T)
-Unable to convert data from 'Sarath SRTH-1OB.mtf': Unrecognized component type: Talons
+Unable to convert data from 'Sarath SRTH-1OB.mtf': Unrecognized component type: ISPlasmaRifle (T)
 Unable to convert data from 'Violator VT-U1.mtf': Unrecognized component type: Cockpit (armored)
 Unable to convert data from 'Violator VT-U3.mtf': Unrecognized component type: Cockpit (armored)
 Unable to convert data from 'Stalking Spider II.mtf': Unrecognized component type: CLHeavyLargeLaser (T)
@@ -149,14 +109,11 @@ Unable to convert data from 'Cougar X 2.mtf': Index was out of range. Must be no
 Unable to convert data from 'Cougar X 3.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLERLargePulseLaser' instead
 Unable to convert data from 'Cougar X.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLERMediumLaser' instead
 Unable to convert data from 'Crimson Hawk 4.mtf': Unrecognized component type: CLHeavyFlamer
-Unable to convert data from 'Cuirass CDR-2BC.mtf': Unrecognized component type: ISMagshotGR
-Unable to convert data from 'Cuirass CDR-2X.mtf': Unrecognized component type: ISMediumVibroblade
 Unable to convert data from 'Dasher II 4.mtf': Unrecognized component type: Chain Whip
 Unable to convert data from 'Deimos E.mtf': Unrecognized component type: Radical Heat Sink System
 Unable to convert data from 'Diomede D-M3D-M.mtf': Component does not have assignable criticals
 Unable to convert data from 'Ebony MEB-13.mtf': Unrecognized armor type: heat-dissipating(inner sphere)
 Unable to convert data from 'Fennec FEC-5CM.mtf': Incorrect number of heat sink location entries (0 expected)
-Unable to convert data from 'Gallant GLT-10-0.mtf': Unrecognized component type: RemoteSensorDispenser
 Unable to convert data from 'Grand Titan T-IT-N13M.mtf': Unrecognized component type: Shoulder (armored)
 Unable to convert data from 'Hauptmann HA1-OF.mtf': Unrecognized component type: ISImprovedHeavyGaussRifle
 Unable to convert data from 'Hellion G.mtf': Unrecognized component type: TSEMP One-Shot
@@ -171,7 +128,6 @@ Unable to convert data from 'Onager 2.mtf': Unrecognized component type: HarJel 
 Unable to convert data from 'Panther PNT-12KC.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'IS Endo Steel' instead
 Unable to convert data from 'Peacekeeper PKP-2K.mtf': Unrecognized component type: Emergency C3 Master
 Unable to convert data from 'Prefect PRF-3R.mtf': Incorrect number of heat sink location entries (0 expected)
-Unable to convert data from 'Raptor II RPT-2X2.mtf': Unrecognized component type: Mek Void Signature System
 Unable to convert data from 'Sagittaire SGT-14D.mtf': Incorrect number of heat sink location entries (3 expected)
 Unable to convert data from 'Shockwave SKW-8X.mtf': Unrecognized component type: ISThumperCannon
 Unable to convert data from 'Spider SDR-8Xr.mtf': Unrecognized component type: ISPartialWing
@@ -185,16 +141,15 @@ Unable to convert data from 'Ares ARS-V1 Hades.mtf': Unrecognized config: Tripod
 Unable to convert data from 'Ares ARS-V1 Hephaestus.mtf': Unrecognized config: Tripod Omnimech
 Unable to convert data from 'Ares ARS-V1 Hera.mtf': Unrecognized config: Tripod Omnimech
 Unable to convert data from 'Ares ARS-V1 Zeus.mtf': Unrecognized config: Tripod Omnimech
-Unable to convert data from 'Celerity CLR-03-O.mtf': Invalid mech tonnage
-Unable to convert data from 'Celerity CLR-03-OA.mtf': Invalid mech tonnage
-Unable to convert data from 'Celerity CLR-03-OB.mtf': Invalid mech tonnage
-Unable to convert data from 'Celerity CLR-03-OC.mtf': Invalid mech tonnage
-Unable to convert data from 'Celerity CLR-03-OD.mtf': Invalid mech tonnage
-Unable to convert data from 'Celerity CLR-03-OE.mtf': Invalid mech tonnage
+Unable to convert data from 'Celerity CLR-03-O.mtf': Unrecognized component type: ISDroneOperatingSystem
+Unable to convert data from 'Celerity CLR-03-OA.mtf': Unrecognized component type: ISDroneOperatingSystem
+Unable to convert data from 'Celerity CLR-03-OB.mtf': Unrecognized component type: ISDroneOperatingSystem
+Unable to convert data from 'Celerity CLR-03-OC.mtf': Unrecognized component type: ISDroneOperatingSystem
+Unable to convert data from 'Celerity CLR-03-OD.mtf': Unrecognized component type: ISDroneOperatingSystem
+Unable to convert data from 'Celerity CLR-03-OE.mtf': Unrecognized component type: ISDroneOperatingSystem
 Unable to convert data from 'Celerity CLR-04-R.mtf': Invalid location for this chassis
 Unable to convert data from 'Celerity CLR-05-X.mtf': Unrecognized armor type: impact-resistant(inner sphere)
 Unable to convert data from 'Doloire DLR-OA.mtf': Unrecognized component type: Radical Heat Sink System
-Unable to convert data from 'Doloire DLR-OD.mtf': Unrecognized component type: ISLargeVibroblade
 Unable to convert data from 'Lament LMT-2R.mtf': Incorrect number of heat sink location entries (2 expected)
 Unable to convert data from 'Lament LMT-3C.mtf': Incorrect number of heat sink location entries (2 expected)
 Unable to convert data from 'Lament LMT-3R.mtf': Incorrect number of heat sink location entries (2 expected)
@@ -205,16 +160,14 @@ Unable to convert data from 'Poseidon PSD-V2.mtf': Unrecognized config: Tripod B
 Unable to convert data from 'Revenant UBM-2R.mtf': Unrecognized component type: ISDroneOperatingSystem
 Unable to convert data from 'Revenant UBM-2R2.mtf': Unrecognized component type: ISDroneOperatingSystem
 Unable to convert data from 'Revenant UBM-2R3.mtf': Unrecognized component type: ISDroneOperatingSystem
-Unable to convert data from 'Revenant UBM-2R4.mtf': Unrecognized component type: RemoteSensorDispenser
+Unable to convert data from 'Revenant UBM-2R4.mtf': Unrecognized component type: ISDroneOperatingSystem
 Unable to convert data from 'Revenant UBM-2R7.mtf': Unrecognized component type: MediumBridgeLayer
-Unable to convert data from 'Uraeus UAE-7R.mtf': Unrecognized component type: ISMediumVibroblade
+Unable to convert data from 'Uraeus UAE-7R.mtf': Unrecognized component type: Bombast Laser (T)
 Unable to convert data from 'Jaguar (Standard).mtf': Unrecognized component type: CLATM6 (T)
-Unable to convert data from 'Mongrel MGL-T1.mtf': Unrecognized armor type: reactive(clan)
-Unable to convert data from 'Mongrel MGL-T2.mtf': Unrecognized armor type: reactive(clan)
+Unable to convert data from 'Mongrel MGL-T2.mtf': Unrecognized component type: CLAES
 Unable to convert data from 'Storm Raider STM-R4.mtf': Unrecognized armor type: impact-resistant(inner sphere)
 Unable to parse 'Zeus X ZEU-X.mtf': [line 21] Expected a key value pair: LA Armor:Reactive(Inner Sphere):26
 Unable to parse 'Zeus X ZEU-X2.mtf': [line 21] Expected a key value pair: LA Armor:Reactive(Inner Sphere):23
-Unable to convert data from 'Zeus X ZEU-X4.mtf': Unrecognized armor type: reactive(inner sphere)
 Unable to convert data from 'Cestus CTS-6Y-EC.mtf': Expected additional critical of type 'ISDoubleHeatSink' but found 'Improved Large Laser' instead
 Unable to convert data from 'Devastator DVS-2-EC.mtf': Unrecognized component type: Improved Gauss Rifle
 Unable to convert data from 'Emperor EMP-6A-EC.mtf': Unrecognized component type: CLStreakSRM4Prototype
@@ -236,44 +189,32 @@ Unable to convert data from 'Woodsman D.mtf': Unrecognized component type: Clan 
 Unable to convert data from 'Rock Hound ProspectorMech AM-PRM-RH7 Rock Possum.mtf': Component does not have assignable criticals
 Unable to convert data from 'Rock Hound ProspectorMech AM-PRM-RH7.mtf': Component does not have assignable criticals
 Unable to convert data from 'Goliath C.mtf': Unrecognized component type: CLGaussRifle (T)
-Unable to convert data from 'Highlander HGN-740.mtf': Unrecognized component type: ISMPod
 Unable to convert data from 'Man O' War (Gargoyle) F.mtf': Unrecognized component type: CLHeavyFlamer
-Unable to convert data from 'Man O' War (Gargoyle) T.mtf': Unrecognized component type: CLProtoMechAC8
 Unable to convert data from 'Uller (Kit Fox)  J.mtf': Value cannot be null. (Parameter 's')
 Unable to convert data from 'Uller (Kit Fox)  K.mtf': This mechs engine requires at least 10 heat sinks
 Unable to convert data from 'Uller (Kit Fox)  T.mtf': Value cannot be null. (Parameter 's')
 Unable to convert data from 'Uller (Kit Fox)  V.mtf': Value cannot be null. (Parameter 's')
 Unable to convert data from 'Carrion Crow Prime.mtf': Incorrect number of heat sink location entries (3 expected)
 Unable to convert data from 'Shadow Hawk SHD-6D.mtf': Unrecognized component type: ISStreakSRM2IOS
-Unable to convert data from 'Grendel (Mongrel) I.mtf': Unrecognized component type: CLProtoMechAC4
-Unable to convert data from 'Sojourner A.mtf': Unrecognized component type: CLProtoMechAC8
 Unable to convert data from 'Sojourner B.mtf': This mechs engine requires at least 10 heat sinks
 Unable to convert data from 'Sojourner C.mtf': This mechs engine requires at least 10 heat sinks
 Unable to convert data from 'Sojourner D.mtf': This mechs engine requires at least 10 heat sinks
 Unable to convert data from 'Puma (Adder) I.mtf': Expected additional critical of type 'CLDoubleHeatSink ' but found 'CLDoubleHeatSink' instead
 Unable to convert data from 'Puma (Adder) S.mtf': Unrecognized component type: Clan Machine Gun Ammo - Proto
-Unable to convert data from 'Thor (Summoner) T.mtf': Unrecognized component type: CLProtoMechAC8
-Unable to convert data from 'Fenris (Ice Ferret) I.mtf': Unrecognized component type: ISMPod
 Unable to convert data from 'Wasp C.mtf': Unrecognized component type: CLStreakSRM2 (IOS)
 Unable to convert data from 'Mad Cat (Timber Wolf) M.mtf': Unrecognized component type: CL Heavy Flamer Ammo
 Unable to convert data from 'Linebacker F.mtf': Unrecognized component type: CLNarcBeacon (I-OS)
 Unable to convert data from 'Linebacker G.mtf': Unrecognized component type: CLStreakSRM2 (IOS)
-Unable to convert data from 'Marauder MAD-11D.mtf': Unrecognized component type: ISSBGR
-Unable to convert data from 'Koshi (Mist Lynx) K.mtf': Unrecognized component type: CLProtoMechAC4
 Unable to convert data from 'Koshi (Mist Lynx) L.mtf': Unrecognized component type: CLHeavyFlamer
 Unable to convert data from 'Ryoken (Stormcrow) K.mtf': Incorrect number of heat sink location entries (2 expected)
 Unable to convert data from 'Ryoken (Stormcrow) P.mtf': Incorrect number of heat sink location entries (0 expected)
 Unable to convert data from 'Ryoken (Stormcrow) T.mtf': Incorrect number of heat sink location entries (1 expected)
 Unable to convert data from 'Baboon (Howler) 6.mtf': Unrecognized component type: CLSRM6 (T)
-Unable to convert data from 'Dasher (Fire Moth) R.mtf': Unrecognized component type: ISMPod
 Unable to convert data from 'Dasher (Fire Moth) T.mtf': Unrecognized component type: CLStreakSRM4 (IOS)
-Unable to convert data from 'Rifleman RFL-7G.mtf': Unrecognized component type: ISSBGR
 Unable to convert data from 'Gladiator (Executioner) T.mtf': Unrecognized component type: Clan Machine Gun Ammo - Proto
 Unable to convert data from 'Arana MilitiaMech ARA-S-1.mtf': Unrecognized component type: CLERMediumLaser (T)
-Unable to convert data from 'Reptar MilitiaMech EPT-C-1.mtf': Unrecognized component type: CLProtoMechAC8
 Unable to convert data from ''Gestalt' D2X-G.mtf': Unrecognized cockpit type: Interface Cockpit
 Unable to convert data from 'OMEGA SHP-4X.mtf': Invalid mech tonnage
-Unable to convert data from 'Grigori C-GRG-OS Caelestis.mtf': Unrecognized component type: ISSBGR
 Unable to convert data from 'Pulverizer PUL-2V.mtf': Unrecognized component type: ISEHERPPC
 Unable to convert data from 'Stag II ST-24G.mtf': Unrecognized component type: ISEHERPPC
 Unable to convert data from 'Phoenix Hawk LAM Mk I PHX-HK1.mtf': Unrecognized config: LAM
@@ -307,13 +248,11 @@ Unable to convert data from 'Highlander HGN-732 Colleen.mtf': Unrecognized compo
 Unable to convert data from 'Marco MR-8C.mtf': Unrecognized component type: Salvage Arm
 Unable to convert data from 'Barghest BGS-4T.mtf': Unrecognized component type: ISImprovedHeavyGauss Ammo
 Unable to convert data from 'Deep Lord MilitiaMech RCL-Z1M.mtf': Unrecognized component type: Heavy Rifle (T)
-Unable to convert data from 'Dola DOL-1A2 Yoh Ti Ts'angs.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Hatamoto-Kaeru HTM-35K.mtf': Unrecognized component type: ISUMU
 Unable to convert data from 'Sarissa SecurityMech MN2-A.mtf': Component does not have assignable criticals
 Unable to convert data from 'Spindrift Aquatic SecurityMech SDT-1A.mtf': Unrecognized component type: ISUMU
 Unable to convert data from 'Stiletto STO-6S.mtf': Unrecognized component type: ISERMediumLaser (T)
-Unable to convert data from 'Trebuchet TBT-K7R.mtf': Unrecognized component type: Mek Taser
-Unable to convert data from 'Ursus 3.mtf': Unrecognized component type: CLProtoMechAC8
+Unable to convert data from 'Trebuchet TBT-K7R.mtf': Unrecognized component type: Chain Whip
 Unable to parse 'Arion (Standard).mtf': Support for QuadVee units is not implemented
 Unable to parse 'Boreas A.mtf': Support for QuadVee units is not implemented
 Unable to parse 'Boreas B.mtf': Support for QuadVee units is not implemented
@@ -353,7 +292,6 @@ Unable to convert data from 'Harvester Ant KIC-3 Agromech.mtf': Unrecognized com
 Unable to convert data from 'Harvester Ant KIC-3M-B AgroMech MOD.mtf': Invalid location for this chassis
 Unable to convert data from 'Marco MR-6.mtf': Unrecognized component type: Salvage Arm
 Unable to convert data from 'Marco MR-7.mtf': Unrecognized component type: Salvage Arm
-Unable to convert data from 'Peacemaker PM6 PoliceMech (Standard).mtf': Unrecognized component type: Mek Taser
 Unable to convert data from 'Pompier Firemech GM-3CD.mtf': Unrecognized component type: Liquid Storage (1 ton)
 Unable to convert data from 'Pompier Firemech GM-3HT.mtf': Unrecognized component type: Liquid Storage (1 ton)
 Unable to convert data from 'Pompier GM-3A.mtf': Unrecognized component type: Salvage Arm
@@ -366,19 +304,16 @@ Unable to convert data from 'Shugosha LAW-QM2 Q-Mech.mtf': Unrecognized componen
 Unable to convert data from 'Shugosha LAW-QM3 Q-Mech.mtf': Unrecognized component type: ISDroneOperatingSystem
 Unable to convert data from 'Vampyr SC-V-1 SalvageMech (Standard).mtf': Unrecognized component type: Extended Fuel Tank (3 tons)
 Unable to convert data from 'Dig Lord RCL-4M MiningMech MOD.mtf': Unrecognized component type: Extended Fuel Tank
-Unable to convert data from 'Emperor EMP-6ME Mercury Elite.mtf': Unrecognized component type: ISSBGR
 Unable to convert data from 'Jinggau JN-G8BX Rush.mtf': Unrecognized component type: ISSniperCannon
 Unable to convert data from 'Rhino (Standard).mtf': Unrecognized component type: Ram Plate
 Unable to convert data from 'Tolva (Standard).mtf': Unrecognized component type: CLERMediumLaser (T)
 Unable to convert data from 'Lament LMT-2R (Manes).mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'CLERPPC' instead
 Unable to convert data from 'Warhammer WHM-6K (Olesko).mtf': Unrecognized component type: Communications Equipment (4 ton)
 Unable to convert data from 'Zeus X ZEU-9WD Stacy.mtf': Unrecognized component type: Blue Shield Particle Field Damper
-Unable to convert data from 'Cephalus B.mtf': Unrecognized component type: Mek Taser
 Unable to convert data from 'Cephalus Prime.mtf': Unrecognized component type: CLModularArmor
 Unable to convert data from 'Cephalus U.mtf': Unrecognized component type: CLUMU
 Unable to convert data from 'Koshi (Mist Lynx) Z.mtf': Unrecognized component type: CLModularArmor
 Unable to convert data from 'Osteon A.mtf': Unrecognized component type: Clan Mech Mortar-8
-Unable to convert data from 'Osteon B.mtf': Unrecognized component type: ISLargeVibroblade
 Unable to convert data from 'Osteon U.mtf': Unrecognized component type: CLLRT15
 Unable to convert data from 'Pariah (Septicemia) US.mtf': Unrecognized component type: Spot Welder
 Unable to convert data from 'Pariah (Septicemia) UW.mtf': Unrecognized component type: Clan HarJel
@@ -387,7 +322,6 @@ Unable to convert data from 'Merlin MLN-SX.mtf': Unrecognized component type: IS
 Unable to parse 'Spindrift Aquatic SecurityMech SDT-1.mtf': [line 22] Expected a key value pair: LA Armor:Reactive(Inner Sphere):8
 Unable to convert data from 'Ha Otoko-HR.mtf': Expected additional critical of type 'ISDoubleHeatSink' but found 'CLLRM20' instead
 Unable to convert data from 'Kraken-XR.mtf': Incorrect number of heat sink location entries (4 expected)
-Unable to convert data from 'Ursus PR.mtf': Unrecognized component type: CLProtoMechAC8
 Unable to convert data from 'Beowulf BEO-X-7a.mtf': Unrecognized component type: BloodhoundActiveProbe (armored)
 Unable to convert data from 'Celerity CLR-02-X-D.mtf': Unrecognized component type: ISDroneOperatingSystem
 Unable to convert data from 'Grim Reaper GRM-R (Einar).mtf': Unrecognized component type: IS Modular Armor
@@ -395,37 +329,29 @@ Unable to convert data from 'Tessen TSN-X-4.mtf': Unrecognized component type: I
 Unable to convert data from 'Arbiter ARB-001.mtf': Unrecognized component type: ISHeavyRifle
 Unable to convert data from 'Charger CGR-1X1.mtf': Unrecognized component type: ISChaffPod
 Unable to convert data from 'Quickdraw QKD-8X.mtf': Unrecognized component type: ISHeadTurret
-Unable to convert data from 'Devastator DVS-X10 MUSE EARTH.mtf': Unrecognized armor type: reactive(inner sphere)
+Unable to convert data from 'Devastator DVS-X10 MUSE EARTH.mtf': Unrecognized component type: Shoulder (armored)
 Unable to convert data from 'Enforcer III ENF-7X MUSE COMPACT.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found '-Empty-' instead
 Unable to convert data from 'Pendragon PDG-1X MUSE RED.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found '-Empty-' instead
-Unable to convert data from 'Crosscut LoggerMech ED-XX Ichabod.mtf': Unrecognized component type: ISMekTaser
-Unable to convert data from 'Juggernaut JG-R9TX1 Leapin' Lil.mtf': Unrecognized component type: ISMPod
+Unable to convert data from 'Juggernaut JG-R9TX1 Leapin' Lil.mtf': Unrecognized component type: Jump Booster
 Unable to convert data from 'Spatha SP2-X Warlord.mtf': Unrecognized component type: Blue Shield Particle Field Damper
-Unable to convert data from 'Valiant VAL-NT-JX Hot Knife.mtf': Unrecognized component type: ISSmallVibroBlade
+Unable to convert data from 'Valiant VAL-NT-JX Hot Knife.mtf': Unrecognized component type: ISSmallShield
 Unable to convert data from 'Warhammer WHM-X7 The Lich.mtf': Unrecognized component type: Fusion Engine (armored)
 Unable to convert data from 'Exterminator EXT-4DX Caine.mtf': Unrecognized component type: ISLaserInsulator
 Unable to convert data from 'Wyvern WVE-5UX City.mtf': Unrecognized component type: ISVehicularGrenadeLauncher
-Unable to convert data from 'Banzai BNZ-X.mtf': Unrecognized component type: ISLargeVibroBlade
 Unable to convert data from 'Hatamoto-Kaeru HTM-35X.mtf': Unrecognized component type: LRT 15
-Unable to convert data from 'No Dashi NDA-3X.mtf': Unrecognized component type: ISLargeVibroBlade
-Unable to convert data from 'Wolf Trap (Tora) WFT-2X 'Bear Trap'.mtf': Unrecognized component type: ISSBGR
-Unable to convert data from 'Dola DOL-1A.mtf': Unrecognized component type: ISMediumVibroblade
+Unable to convert data from 'No Dashi NDA-3X.mtf': Unrecognized component type: Cockpit (armored)
 Unable to convert data from 'Pillager PLG-4x Anvil.mtf': Unrecognized component type: ISLongTomCannon
 Unable to convert data from 'Vindicator Dao.mtf': Incorrect number of heat sink location entries (3 expected)
-Unable to convert data from 'Orion ON3-MX.mtf': Unrecognized component type: ISExtended LRM10 Ammo
-Unable to convert data from 'Pandarus LFA-1X.mtf': Unrecognized component type: ISExtended LRM10 Ammo
+Unable to convert data from 'Orion ON3-MX.mtf': Unrecognized component type: IS Improved Heavy Gauss Rifle Ammo
 Unable to convert data from 'Annihilator ANH-2AX.mtf': Unrecognized component type: IS Improved Heavy Gauss Rifle Ammo
-Unable to convert data from 'Black Knight BL-X-KNT 'Red Reaper'.mtf': Unrecognized component type: ISLargeVibroblade
-Unable to convert data from 'Huron Warrior HUR-WO-RX4.mtf': Unrecognized armor type: reactive(inner sphere)
+Unable to convert data from 'Black Knight BL-X-KNT 'Red Reaper'.mtf': Unrecognized component type: ISLargeShield
 Unable to convert data from 'Mauler MAL-4X 'Todesbote'.mtf': Unrecognized component type: Hyper Velocity Auto Cannon/10
 Unable to convert data from 'Pompier Firemech GM-FL.mtf': Unrecognized component type: IS Fluid Gun
 Unable to convert data from 'Anubis ABS-3MC.mtf': Incorrect number of heat sink location entries (1 expected)
 Unable to convert data from 'Atlas AS-700 Jurn.mtf': Unrecognized component type: IS Ammo HVAC/10
-Unable to convert data from 'Dig Lord RCL-Z1 Armed MiningMech.mtf': Unrecognized component type: ISMediumVibroBlade
+Unable to convert data from 'Dig Lord RCL-Z1 Armed MiningMech.mtf': Unrecognized component type: Heavy Rifle (T)
 Unable to convert data from 'Trebuchet TBT-XK7.mtf': Unrecognized component type: ISSmallShield
 Unable to convert data from 'Grand Titan Vengeance T-IT-N14R.mtf': Unrecognized component type: ISThumperAmmo
-Unable to convert data from 'Warlord BLR-2XC.mtf': Unrecognized component type: RemoteSensorDispenser
-Unable to convert data from 'Dervish DV-8D2 Lightbringer.mtf': Unrecognized component type: Spikes
 Unable to convert data from 'Victor VTR-9K2 St. James.mtf': Unrecognized component type: ISLongTomCannon
 Unable to convert data from 'Wasp WSP-1.mtf': Unrecognized component type: ISPrototypeJumpJet
 Unable to convert data from 'Griffin GRF-1A.mtf': Unrecognized component type: PPCp
@@ -434,7 +360,6 @@ Unable to convert data from 'Phoenix PX-1R.mtf': Unrecognized component type: IS
 Unable to convert data from 'Wolverine WVR-1R.mtf': Unrecognized component type: ISPrototypeJumpJet
 Unable to convert data from 'Wolverine WVR-3R.mtf': Unrecognized component type: ISPrototypeJumpJet
 Unable to convert data from 'Valiant VLT-3E.mtf': Unrecognized component type: IS Fluid Gun
-Unable to convert data from 'Blade BLD-XR.mtf': Unrecognized armor type: reactive(inner sphere)
 Unable to convert data from 'Hornet HNT-181.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Hornet HNT-182.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Orca OC-1X.mtf': Invalid mech tonnage
@@ -451,20 +376,15 @@ Unable to convert data from 'Ryoken III-XP D.mtf': Unrecognized cockpit type: In
 Unable to convert data from 'Ryoken III-XP Prime.mtf': Unrecognized cockpit type: Interface Cockpit
 Unable to convert data from 'Triskelion TRK-4V.mtf': Unrecognized config: Tripod
 Unable to convert data from 'Agrotera AGT-UA _Ariel_.mtf': Unrecognized component type: UMU
-Unable to convert data from 'Buccaneer BCN-6PX _Pan_.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Celerity CLR-03OMM _Rajah_.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found '-Empty-' instead
-Unable to convert data from 'Ghost GST-10A _Aurora_.mtf': Unrecognized component type: Mek Void Signature System
-Unable to convert data from 'Hitotsume Kozo HKZ-1FM _Mulan_.mtf': Unrecognized component type: ISLargeVibroblade
 Unable to convert data from 'Phoenix Hawk PXH-7KJ _Jasmine_.mtf': Unrecognized component type: ISRemoteDroneCommandConsole
 Unable to convert data from 'Tessen TSN-X4R _Rapunzel_.mtf': Unrecognized armor type: impact-resistant(inner sphere)
-Unable to convert data from 'Trebuchet TBT-7MM _Merida_.mtf': Unrecognized component type: ISSmallVibroblade
 Unable to convert data from 'Vulpes VLP-1DX _Beast_.mtf': Expected additional critical of type 'CLDoubleHeatSink' but found 'ISDroneOperatingSystem' instead
 Unable to convert data from 'Watchman WTC-4MB _Belle_.mtf': Unrecognized component type: ISRemoteDroneCommandConsole
 Unable to convert data from 'Banshee BNC-11X.mtf': Unrecognized component type: Shoulder (armored)
 Unable to convert data from 'Barghest BGS-4X.mtf': Unrecognized component type: ISQuadTurret
 Unable to convert data from 'Slagmaiden SLG-X.mtf': Unrecognized component type: ISLargeShield
 Unable to convert data from 'Stiletto STO-6X.mtf': Unrecognized component type: ISERMediumLaser (T)
-Unable to convert data from 'Cataphract CTF-0X.mtf': Unrecognized component type: RemoteSensorDispenser
 Unable to convert data from 'Kiso Command Mech K-3N-KRHQ.mtf': Unrecognized component type: Communications Equipment (3 ton)
 Unable to convert data from 'Marauder MAD-4X.mtf': Unrecognized structure type: endo steel prototype
 Unable to convert data from 'Super Griffin GRF-2N-X.mtf': Incorrect number of heat sink location entries (6 expected)
@@ -472,120 +392,104 @@ Unable to convert data from 'Super Griffin GRF-2N-X.mtf': Incorrect number of he
 --------------------------------------------------
 Unrecognized Components:
 CONFIG: LAM: 13
+ISDroneOperatingSystem: 12
 Liquid Storage (1 ton): 9
 Salvage Arm: 9
-ARMOR: reactive(clan): 7
-Mek Void Signature System: 7
 COCKPIT: Interface Cockpit: 7
-RemoteSensorDispenser: 7
-Spikes: 7
-ISMPod: 7
-ARMOR: reactive(inner sphere): 7
-ISMagshotGR: 7
-ISLargeVibroblade: 7
-ISSBGR: 6
-CLProtoMechAC8: 6
-Cockpit (armored): 6
-ISUMU: 6
-Spot Welder: 5
-CLHeavyFlamer: 5
-ISDroneOperatingSystem: 5
+ISUMU: 7
+Cockpit (armored): 7
 CONFIG: Tripod Omnimech: 5
-ISSmallVibroblade: 5
-Mek Taser: 5
+ISSmallShield: 5
 ARMOR: impact-resistant(inner sphere): 5
-ISPrototypeJumpJet: 4
+CLHeavyFlamer: 5
+Spot Welder: 5
 CLERMediumLaserPrototype: 4
+CLModularArmor: 4
+CLUMU: 4
+ISPrototypeJumpJet: 4
+ISMediumShield: 4
 Backhoe: 4
 STRUCTURE: endo steel prototype: 4
-ISMediumShield: 4
 IS Fluid Gun: 4
-ISMediumVibroblade: 4
-CLModularArmor: 4
-ISSmallShield: 4
-CLUMU: 4
 Combine: 3
-Blue Shield Particle Field Damper: 3
+HarJel II Self-Repair System: 3
+Shoulder (armored): 3
 Radical Heat Sink System: 3
+IS Wrecking Ball: 3
+Blue Shield Particle Field Damper: 3
+ARMOR: heat-dissipating(inner sphere): 3
+Chain Whip: 3
 HarJel III Self-Repair System: 3
+CLLRT15: 3
 ISImprovedHeavyGauss Ammo: 3
 Clan Mech Mortar-4: 3
-CLLRT15: 3
-ARMOR: heat-dissipating(inner sphere): 3
-IS Wrecking Ball: 3
-ISPartialWing: 3
-HarJel II Self-Repair System: 3
-MechSprayer: 3
 Communications Equipment (3 ton): 3
+ISPartialWing: 3
 LRT 15: 3
-CLProtoMechAC4: 3
-Improved Large Laser: 2
-Improved Gauss Rifle: 2
-ISLaserInsulator: 2
-CLWERPPC: 2
-Extended Fuel Tank (3 tons): 2
-ISLargeVibroBlade: 2
-Clan Machine Gun Ammo - Proto: 2
-ISSniperCannon: 2
-Shoulder (armored): 2
-ISBoobyTrap: 2
-ISHeadTurret: 2
-CLStreakSRM2 (IOS): 2
-ISEHERPPC: 2
-ISERMediumLaser (T): 2
-ISRemoteDroneCommandConsole: 2
-ISMagshotGR Ammo: 2
-ENGINE: large xxl engine: 2
-Clan Mech Mortar-8: 2
-Talons: 2
-Communications Equipment (1 ton): 2
-Chain Whip: 2
-Dumper (Rear): 2
-HEAT SINK: compact: 2
+MechSprayer: 3
+CLERMediumLaser (T): 2
 COCKPIT: Primitive Industrial Cockpit: 2
+ISLaserInsulator: 2
+HEAT SINK: compact: 2
+ISEHERPPC: 2
+Communications Equipment (1 ton): 2
+CLWERPPC: 2
+Improved Large Laser: 2
+ISSniperCannon: 2
+Improved SRM 6: 2
+ISRemoteDroneCommandConsole: 2
+ISHeadTurret: 2
+ISBoobyTrap: 2
+Clan Machine Gun Ammo - Proto: 2
+Improved Gauss Rifle: 2
+CLStreakSRM2 (IOS): 2
 Extended Fuel Tank (1 ton): 2
-LRT 10: 2
+ISLargeShield: 2
 Clan HarJel: 2
 CLLRT5: 2
-CLERMediumLaser (T): 2
-Hyper Velocity Auto Cannon/10: 2
-ISExtended LRM10 Ammo: 2
+IS Improved Heavy Gauss Rifle Ammo: 2
+LRT 10: 2
 ISLongTomCannon: 2
+Dumper (Rear): 2
+Hyper Velocity Auto Cannon/10: 2
+Heavy Rifle (T): 2
+Jump Booster: 2
+ISERMediumLaser (T): 2
 Tracks: 2
-Improved SRM 6: 2
-Extended Fuel Tank: 1
-Rifle (Cannon, Heavy): 1
-ISMediumPulseLaserPrototype: 1
-Ram Plate: 1
-Paramedic Equipment: 1
+Clan Mech Mortar-8: 2
+ENGINE: large xxl engine: 2
+Extended Fuel Tank (3 tons): 2
 ISLBXAC10Prototype: 1
-ISCollapsibleCommandModule: 1
-ClanGroundMobileHPG: 1
+ARMOR: ferro-fibrous prototype(inner sphere): 1
+ISGaussRiflePrototype: 1
 UMU: 1
-CONFIG: Tripod: 1
+CLStreakSRM6Prototype: 1
+STRUCTURE: is endo-steel prototype: 1
+CLRocketLauncher10Prototype: 1
 ISRISCEmergencyCoolantSystem: 1
-ISC3EmergencyMaster: 1
-Autocannon/10 Primitive: 1
+Rifle (Cannon, Heavy): 1
 PPCp: 1
 ISThumperAmmo: 1
-ISMediumVibroBlade: 1
+ISC3EmergencyMaster: 1
 IS Ammo HVAC/10: 1
-IS Improved Heavy Gauss Rifle Ammo: 1
 ISVehicularGrenadeLauncher: 1
 Fusion Engine (armored): 1
-ISSmallVibroBlade: 1
-ISMekTaser: 1
 ISChaffPod: 1
 ISHeavyRifle: 1
 ISC3RemoteSensorLauncher: 1
 IS Modular Armor: 1
 BloodhoundActiveProbe (armored): 1
+ClanGroundMobileHPG: 1
 Communications Equipment (4 ton): 1
-STRUCTURE: is endo-steel prototype: 1
-ISERPPC (T): 1
-ARMOR: ferro-fibrous prototype(inner sphere): 1
-CLHeavyLargeLaser (T): 1
-CLLRM15 (T): 1
+Ram Plate: 1
+Extended Fuel Tank: 1
+CONFIG: Tripod: 1
+Paramedic Equipment: 1
+ISMediumPulseLaserPrototype: 1
+Autocannon/10 Primitive: 1
+ISCollapsibleCommandModule: 1
+CLStreakSRM4 (IOS): 1
+ISVehicularMineDispenser: 1
 CLLongTomCannon: 1
 ISGaussRifle (T): 1
 ENGINE: large xxl engine(is): 1
@@ -593,23 +497,19 @@ Coolant Pod  (armored): 1
 SRT 4: 1
 CLLRT10: 1
 LRT 5: 1
-Jump Booster: 1
 CLLaserInsulator: 1
 ENGINE: large xxl (clan) engine: 1
 Heavy-Duty Pile Driver: 1
+ISHeavyFlamer: 1
 ISFluidGun: 1
 CLBAFlamer: 1
 Hip (armored): 1
+IS Flail: 1
 Communications Equipment (2 ton): 1
-ISImprovedHeavyGaussRifle: 1
-ISGaussRiflePrototype: 1
-TSEMP One-Shot: 1
-ISThumperCannon: 1
-Heavy Rifle (T): 1
-CLStreakSRM6Prototype: 1
-CLRocketLauncher10Prototype: 1
-CLRocketLauncher15Prototype: 1
-CLStreakSRM4 (IOS): 1
+Heavy PPC (T): 1
+CLLRM15 (T): 1
+ISPlasmaRifle (T): 1
+CLHeavyLargeLaser (T): 1
 CLSRM6 (T): 1
 CLNarcBeacon (I-OS): 1
 CL Heavy Flamer Ammo: 1
@@ -617,13 +517,19 @@ ISStreakSRM2IOS: 1
 CLGaussRifle (T): 1
 Improved LRM 15: 1
 CLStreakSRM4Prototype: 1
+CLAES: 1
+CLRocketLauncher15Prototype: 1
 CLATM6 (T): 1
 MediumBridgeLayer: 1
 CONFIG: Tripod Battlemech: 1
 ARMOR: heat-dissipating(clan): 1
-ISQuadTurret: 1
+ISERPPC (T): 1
+ISThumperCannon: 1
 Emergency C3 Master: 1
-ISLargeShield: 1
+TSEMP One-Shot: 1
+ISImprovedHeavyGaussRifle: 1
+Bombast Laser (T): 1
+ISQuadTurret: 1
 
 --------------------------------------------------
-3646 mtf files -> 3623 parsed files -> 3179 converted files -> 3176 validated mechs
+3646 mtf files -> 3623 parsed files -> 3259 converted files -> 3256 validated mechs

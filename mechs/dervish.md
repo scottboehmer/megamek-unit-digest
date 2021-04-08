@@ -84,6 +84,21 @@
   - Targeting Computer
 - **Battle Value:** 1518
 
+## Dervish DV-8D2 'Lightbringer'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 55 tons
+- **Movement:** 5 / 8 / 8, XL
+- **Armor:** 143 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Snub-Nose PPC × 2
+  - ER Medium Laser × 4
+- **Equipment:**
+  - Coolant Pod × 2
+  - Spikes
+- **Battle Value:** 1717
+
 ## Dervish DV-6Mr
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3073)

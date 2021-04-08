@@ -57,3 +57,17 @@
   - ER Small Laser
 - **Battle Value:** 1227
 
+## Blade BLD-XR
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3125)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 119 (Reactive)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC × 2
+  - Light AC/2 × 2 (ammo: 90)
+- **Battle Value:** 1101
+

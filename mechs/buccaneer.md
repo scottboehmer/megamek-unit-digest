@@ -44,3 +44,18 @@
   - C3i
 - **Battle Value:** unknown
 
+## Buccaneer BCN-6PX 'Pan'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3120)
+- **Chassis:** 55 tons
+- **Movement:** 6 / 9 / 11, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 10 (23)
+- **Weapons:**
+  - Medium Re-Engineered Laser × 2
+  - ER Medium Laser
+  - Small Vibroblade
+- **Equipment:**
+  - Clan Partial Wing
+- **Battle Value:** 1384
+

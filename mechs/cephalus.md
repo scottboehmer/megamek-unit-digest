@@ -15,6 +15,22 @@
   - TAG
 - **Battle Value:** 809
 
+## Cephalus B
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3072)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 10 / 15 / 0, XXL
+- **Armor:** 84 (Ferro Lamellor)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Inner Sphere BattleMech Taser (ammo: 5)
+- **Equipment:**
+  - Inner Sphere Null-Signature System
+  - Inner Sphere Chameleon LPS
+  - Nova CEWS
+  - Light TAG
+- **Battle Value:** 785
+
 ## Cephalus C
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3072)

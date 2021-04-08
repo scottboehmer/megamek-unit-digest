@@ -183,6 +183,20 @@
   - Active Probe
 - **Battle Value:** 1704
 
+## Koshi (Mist Lynx) K
+- **Role:** Undefined
+- **Tech Base:** Clan (3112)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11 / 6, XL
+- **Armor:** 67 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ProtoMech AC/4 (ammo: 20)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Active Probe
+- **Battle Value:** 955
+
 ## Koshi (Mist Lynx) N
 - **Role:** Undefined
 - **Tech Base:** Clan (3139)

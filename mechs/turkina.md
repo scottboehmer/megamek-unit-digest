@@ -93,3 +93,19 @@
   - Nova CEWS
 - **Battle Value:** 3755
 
+## Turkina X
+- **Role:** Undefined
+- **Tech Base:** Clan (3077)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5 / 3, XL
+- **Armor:** 288
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - LRM 20 w/ Artemis V × 2 (ammo: 36)
+  - Medium Pulse Laser × 6
+- **Equipment:**
+  - CASE II
+  - ECM Suite
+  - Talons
+- **Battle Value:** 3056
+

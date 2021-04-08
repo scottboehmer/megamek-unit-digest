@@ -30,3 +30,18 @@
   - Coolant Pod × 4
 - **Battle Value:** 1916
 
+## Juggernaut JG-R9T3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3065)
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 264
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Large X-Pulse Laser × 3
+  - Medium X-Pulse Laser × 3
+  - MagShot Gauss Rifle × 6 (ammo: 100)
+- **Equipment:**
+  - Coolant Pod × 6
+- **Battle Value:** 1959
+

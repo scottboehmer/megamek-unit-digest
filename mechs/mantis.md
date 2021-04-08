@@ -62,6 +62,22 @@
   - MASC
 - **Battle Value:** 1380
 
+## Mantis MTS-T3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3063)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 9 / 14 (18) / 0, XL
+- **Armor:** 104 (Reactive)
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Claw × 2
+  - ER Medium Laser × 3
+  - ER Small Laser × 2
+- **Equipment:**
+  - MASC
+- **Battle Value:** 1380
+
 ## Mantis MTS-L
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3064)

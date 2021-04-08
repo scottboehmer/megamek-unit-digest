@@ -18,7 +18,7 @@
 
 ## Wyvern IIC 2
 - **Role:** Undefined
-- **Tech Base:** Clan Mixed (3071)
+- **Tech Base:** Clan (3071)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
 - **Armor:** 152
@@ -29,7 +29,7 @@
   - Heavy Small Laser × 2
   - Light Machine Gun × 3 (ammo: 200)
   - ATM 9 (ammo: 14)
-  - Inner Sphere ER Flamer
+  - ER Flamer
 - **Equipment:**
   - MG Array
 - **Battle Value:** 1470

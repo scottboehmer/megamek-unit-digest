@@ -138,6 +138,23 @@
   - Chainsaw
 - **Battle Value:** unknown
 
+## Crosscut ED-XX 'Ichabod'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3075)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 3 / 5 / 0
+- **Armor:** 64
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - BattleMech Taser (ammo: 5)
+  - Chainsaw
+  - ER Small Laser
+  - ER Medium Laser
+- **Equipment:**
+  - CASE
+- **Battle Value:** unknown
+
 ## Crosscut ED-X5M-B LoggerMech MOD
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3079)

@@ -138,6 +138,21 @@
   - CASE
 - **Battle Value:** 2179
 
+## Emperor EMP-6ME 'Mercury Elite'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3075)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 3 / 5 / 0, Light
+- **Armor:** 264
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Silver Bullet × 2 (ammo: 32)
+  - Snub-Nose PPC × 2
+  - Medium Pulse Laser × 2
+- **Equipment:**
+  - C3 Slave
+- **Battle Value:** 2004
+
 ## Emperor EMP-8L
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3127)

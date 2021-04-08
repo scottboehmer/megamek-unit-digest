@@ -120,6 +120,21 @@
   - CASE
 - **Battle Value:** 1278
 
+## Trebuchet TBT-7MM 'Merida'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3100)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 158 (Laser Reflective)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Small Vibroblade
+  - ER Medium Laser × 2
+  - Clan Streak LRM 15 × 2 (ammo: 32)
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 2024
+
 ## Trebuchet TBT-9R
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3131)

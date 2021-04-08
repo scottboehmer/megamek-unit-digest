@@ -30,3 +30,37 @@
   - ER Medium Laser
 - **Battle Value:** 2044
 
+## Ursus PR
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3074)
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 163 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - AP Gauss Rifle × 3 (ammo: 80)
+  - ProtoMech AC/8 × 2 (ammo: 20)
+  - Improved Heavy Medium Laser × 2
+  - ER Flamer
+- **Equipment:**
+  - CASE II
+  - Inner Sphere C3i
+- **Battle Value:** unknown
+
+## Ursus 3
+- **Role:** Undefined
+- **Tech Base:** Clan (3079)
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 163 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - AP Gauss Rifle × 3 (ammo: 80)
+  - ProtoMech AC/8 × 2 (ammo: 30)
+  - Improved Heavy Medium Laser × 2
+  - ER Flamer
+- **Equipment:**
+  - CASE II
+  - Watchdog CEWS
+- **Battle Value:** 1284
+

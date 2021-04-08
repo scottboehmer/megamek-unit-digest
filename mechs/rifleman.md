@@ -255,6 +255,18 @@
   - Improved Heavy Medium Laser × 2
 - **Battle Value:** 2150
 
+## Rifleman RFL-7G
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3086)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 144
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Silver Bullet × 2 (ammo: 32)
+  - ER Medium Laser × 2
+- **Battle Value:** 1302
+
 ## Rifleman C 3
 - **Role:** Undefined
 - **Tech Base:** Clan (3132)

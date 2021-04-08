@@ -30,6 +30,20 @@
   - Targeting Computer
 - **Battle Value:** 1874
 
+## Morrigan 3
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3085)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Inner Sphere BattleMech Taser (ammo: 10)
+  - ER Medium Laser × 2
+  - ER Small Laser × 4
+  - Small Pulse Laser × 2
+- **Battle Value:** 1343
+
 ## Morrigan 4
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3111)

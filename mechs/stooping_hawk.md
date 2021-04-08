@@ -90,3 +90,15 @@
   - Heavy Small Laser
 - **Battle Value:** 1967
 
+## Stooping Hawk G
+- **Role:** Undefined
+- **Tech Base:** Clan (3073)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 4
+  - ProtoMech AC/4 × 3 (ammo: 40)
+- **Battle Value:** 1618
+

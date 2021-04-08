@@ -214,3 +214,16 @@
   - Inner Sphere Supercharger
 - **Battle Value:** 2182
 
+## Man O' War (Gargoyle) T
+- **Role:** Undefined
+- **Tech Base:** Clan (3142)
+- **Chassis:** 80 tons
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 211 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Streak SRM 6 × 2 (ammo: 30)
+  - ProtoMech AC/8 × 2 (ammo: 20)
+  - ER Small Laser
+- **Battle Value:** 1557
+

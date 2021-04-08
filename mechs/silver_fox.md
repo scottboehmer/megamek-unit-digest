@@ -1,0 +1,33 @@
+# Silver Fox
+## Silver Fox SVR-5X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3065)
+- **Chassis:** 35 tons
+- **Movement:** 9 / 14 / 0, XXL
+- **Armor:** 112 (Laser Reflective)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - MagShot Gauss Rifle × 5 (ammo: 50)
+  - ER Medium Laser × 2
+  - ER Small Laser
+- **Equipment:**
+  - Angel ECM Suite
+  - Targeting Computer
+- **Battle Value:** 1432
+
+## Silver Fox SVR-5Y
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3067)
+- **Chassis:** 35 tons
+- **Movement:** 7 / 11 / 0, Light
+- **Armor:** 112 (Laser Reflective)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - MagShot Gauss Rifle × 5 (ammo: 50)
+  - ER Medium Laser × 2
+  - ER Small Laser
+- **Equipment:**
+  - Guardian ECM Suite
+  - Targeting Computer
+- **Battle Value:** 1316
+

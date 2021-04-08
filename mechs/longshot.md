@@ -13,6 +13,19 @@
   - Small Laser × 2
 - **Battle Value:** 899
 
+## Longshot LNG-2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3058)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 96 (Reactive)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRM 6 w/ Artemis IV × 2 (ammo: 15)
+  - Medium X-Pulse Laser × 2
+  - Small X-Pulse Laser × 2
+- **Battle Value:** 1215
+
 ## Longshot LNG-3
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3062)

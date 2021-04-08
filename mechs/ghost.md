@@ -46,6 +46,23 @@
   - CASE
 - **Battle Value:** 1114
 
+## Ghost GST-10A 'Aurora'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3130)
+- **Chassis:** 50 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 163 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - iNarc (ammo: 4)
+  - ER Medium Laser × 3
+  - MML 9 (ammo: 13 LRM, 11 SRM)
+  - Clan ER Small Pulse Laser
+- **Equipment:**
+  - Void-Signature System
+  - Guardian ECM Suite
+- **Battle Value:** 1371
+
 ## Ghost GST-90
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3133)

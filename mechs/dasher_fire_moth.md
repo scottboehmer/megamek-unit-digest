@@ -178,6 +178,24 @@
   - MASC
 - **Battle Value:** 1178
 
+## Dasher (Fire Moth) R
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3110)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15 (20) / 0, XL
+- **Armor:** 38 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - Inner Sphere Medium Laser
+  - ER Small Laser
+  - Inner Sphere M-Pod
+- **Equipment:**
+  - Inner Sphere C3 Slave
+  - ECM Suite
+  - MASC
+- **Battle Value:** 1160
+
 ## Dasher (Fire Moth) P
 - **Role:** Undefined
 - **Tech Base:** Clan (3132)

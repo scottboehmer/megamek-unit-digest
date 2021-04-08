@@ -23,6 +23,25 @@
   - Medium Laser × 12
 - **Battle Value:** 2033
 
+## Warlord BLR-2XC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3075)
+- **Chassis:** 75 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 224
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Medium Laser × 6
+- **Equipment:**
+  - Command Console
+  - Angel ECM Suite
+  - Bloodhound Active Probe
+  - TAG
+  - C3i
+  - Remote Sensor Dispenser
+- **Battle Value:** unknown
+
 ## Warlord BLR-2Dr
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3078)

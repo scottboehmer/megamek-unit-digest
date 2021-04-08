@@ -133,6 +133,21 @@
   - Light TAG
 - **Battle Value:** 1169
 
+## Fenris (Ice Ferret) I
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3099)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - SRM 6 × 2 (ammo: 30)
+  - Inner Sphere M-Pod × 2
+  - ER Small Laser
+- **Equipment:**
+  - Inner Sphere Bloodhound Active Probe
+- **Battle Value:** 1051
+
 ## Fenris (Ice Ferret) J
 - **Role:** Undefined
 - **Tech Base:** Clan (3120)

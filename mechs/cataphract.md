@@ -1,4 +1,20 @@
 # Cataphract
+## Cataphract CTF-0X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3025)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 176
+- **Heat Sinks:** 14 (14)
+- **Weapons:**
+  - Medium Laser × 2
+  - PPC
+  - AC/5 (ammo: 20)
+- **Equipment:**
+  - EW Equipment
+  - Remote Sensor Dispenser
+- **Battle Value:** 1258
+
 ## Cataphract CTF-1X
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3025)

@@ -28,3 +28,20 @@
   - Targeting Computer
 - **Battle Value:** 2178
 
+## Zeus-X ZEU-X4
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3119)
+- **Chassis:** 80 tons (Composite)
+- **Movement:** 5 / 8 / 0, XXL
+- **Armor:** 232 (Reactive)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Light Gauss Rifle (ammo: 16)
+  - LRM 20 (ammo: 12)
+  - ER Large Laser
+  - Medium X-Pulse Laser
+- **Equipment:**
+  - Command Console
+  - CASE II
+- **Battle Value:** 2193
+

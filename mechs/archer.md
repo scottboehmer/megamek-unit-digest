@@ -279,6 +279,22 @@
   - CASE
 - **Battle Value:** 1811
 
+## Archer ARC-9W
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3078)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 168
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Large Laser × 2
+  - LRM 15 w/ Artemis IV × 2 (ammo: 24)
+- **Equipment:**
+  - Void-Signature System
+  - Angel ECM Suite
+  - CASE
+- **Battle Value:** 1774
+
 ## Archer ARC-4M2
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3086)

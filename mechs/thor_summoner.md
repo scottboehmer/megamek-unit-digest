@@ -196,6 +196,19 @@
   - SRM 6 (ammo: 15)
 - **Battle Value:** 2188
 
+## Thor (Summoner) T
+- **Role:** Undefined
+- **Tech Base:** Clan (3142)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ProtoMech AC/8 (ammo: 20)
+  - ER PPC
+  - Streak LRM 15 (ammo: 16)
+- **Battle Value:** 2277
+
 ## Thor (Summoner) J
 - **Role:** Undefined
 - **Tech Base:** Clan (3148)

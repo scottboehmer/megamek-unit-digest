@@ -27,3 +27,19 @@
   - CASE
 - **Battle Value:** unknown
 
+## Gallant GLT-10-0
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3130)
+- **Chassis:** 70 tons
+- **Movement:** 3 / 5 / 5, Light
+- **Armor:** 208
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Large Re-Engineered Laser × 2
+  - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
+  - Flamer
+- **Equipment:**
+  - Remote Sensor Dispenser
+  - CASE II
+- **Battle Value:** 1537
+

@@ -85,6 +85,20 @@
   - C3 Slave
 - **Battle Value:** 1824
 
+## Thug THG-13K
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 240
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+  - Heavy PPC × 3
+- **Equipment:**
+  - C3i
+- **Battle Value:** unknown
+
 ## Thug THG-11E (Reich)
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3071)

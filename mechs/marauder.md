@@ -504,6 +504,22 @@
   - CASE
 - **Battle Value:** 2708
 
+## Marauder MAD-11D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3140)
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 224
+- **Gyroscope:** Extra-Light Gyroscope
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Clan ER PPC × 2
+  - Medium X-Pulse Laser × 2
+  - Silver Bullet (ammo: 16)
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 2263
+
 ## Marauder (Red Hunter-3146)
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3146)
