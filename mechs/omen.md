@@ -13,5 +13,7 @@
   - ER Medium Laser × 2
   - ATM 12 (ammo: 5)
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 2513
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2621
 

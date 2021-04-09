@@ -9,7 +9,9 @@
 - **Weapons:**
   - SRM 6 × 2 (ammo: 30)
   - Streak SRM 4 (ammo: 25)
-- **Battle Value:** 984
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1047
 
 ## Jenner IIC 2
 - **Role:** Undefined
@@ -22,7 +24,9 @@
   - Small Pulse Laser
   - ER Large Laser
   - LRM 5 (ammo: 24)
-- **Battle Value:** 1385
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1406
 
 ## Jenner IIC 3
 - **Role:** Undefined
@@ -34,7 +38,9 @@
 - **Weapons:**
   - Small Pulse Laser × 4
   - Narc (ammo: 12)
-- **Battle Value:** 746
+- **Equipment:**
+  - CASE
+- **Battle Value:** 788
 
 ## Jenner IIC 4
 - **Role:** Undefined
@@ -46,5 +52,7 @@
 - **Weapons:**
   - ATM 3 × 2 (ammo: 40)
   - Streak SRM 4 (ammo: 25)
-- **Battle Value:** 989
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1052
 

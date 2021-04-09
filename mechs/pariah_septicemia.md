@@ -11,7 +11,8 @@
   - HAG 40 (ammo: 12)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2498
+  - CASE
+- **Battle Value:** 2511
 
 ## Pariah (Septicemia) A
 - **Role:** Undefined
@@ -23,7 +24,9 @@
 - **Weapons:**
   - Heavy Small Laser × 6
   - ATM 12 × 2 (ammo: 10)
-- **Battle Value:** 1533
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1650
 
 ## Pariah (Septicemia) A-Z
 - **Role:** Undefined
@@ -37,8 +40,9 @@
   - iATM 12 × 2 (ammo: 20)
 - **Equipment:**
   - Light TAG
+  - CASE
   - Nova CEWS
-- **Battle Value:** 2310
+- **Battle Value:** 2388
 
 ## Pariah (Septicemia) B
 - **Role:** Undefined
@@ -84,7 +88,8 @@
   - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - MG Array × 2
-- **Battle Value:** 2160
+  - CASE
+- **Battle Value:** 2190
 
 ## Pariah (Septicemia) C-Z
 - **Role:** Undefined
@@ -101,7 +106,8 @@
 - **Equipment:**
   - MG Array × 2
   - Nova CEWS
-- **Battle Value:** 2209
+  - CASE
+- **Battle Value:** 2236
 
 ## Pariah (Septicemia) D
 - **Role:** Undefined
@@ -116,7 +122,8 @@
   - Ultra AC/20 (ammo: 10)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2679
+  - CASE
+- **Battle Value:** 2718
 
 ## Pariah (Septicemia) D-Z
 - **Role:** Undefined
@@ -131,7 +138,8 @@
 - **Equipment:**
   - Targeting Computer
   - Nova CEWS
-- **Battle Value:** 2665
+  - CASE
+- **Battle Value:** 2704
 
 ## Pariah (Septicemia) E
 - **Role:** Undefined
@@ -158,5 +166,7 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Arrow IV × 2 (ammo: 20)
-- **Battle Value:** 1350
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1389
 

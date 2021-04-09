@@ -10,7 +10,9 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER PPC × 2
   - LRM 15 × 2 (ammo: 24)
-- **Battle Value:** 2854
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2944
 
 ## Turkina A
 - **Role:** Undefined
@@ -22,7 +24,9 @@
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
   - LRM 20 × 2 (ammo: 24)
-- **Battle Value:** 2820
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2906
 
 ## Turkina B
 - **Role:** Undefined
@@ -50,7 +54,9 @@
 - **Weapons:**
   - ATM 12 × 4 (ammo: 20)
   - ER Medium Laser × 2
-- **Battle Value:** 2565
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2745
 
 ## Turkina H
 - **Role:** Undefined
@@ -64,8 +70,9 @@
   - Ultra AC/10 × 2 (ammo: 40)
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2640
+- **Battle Value:** 2712
 
 ## Turkina E
 - **Role:** Undefined
@@ -77,7 +84,9 @@
 - **Weapons:**
   - Streak SRM 6 × 6 (ammo: 60)
   - HAG 40 (ammo: 12)
-- **Battle Value:** 3099
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3147
 
 ## Turkina Z
 - **Role:** Undefined
@@ -89,9 +98,10 @@
 - **Weapons:**
   - iATM 12 × 4 (ammo: 50)
 - **Equipment:**
+  - CASE
   - Light TAG
   - Nova CEWS
-- **Battle Value:** 3755
+- **Battle Value:** 3935
 
 ## Turkina X
 - **Role:** Undefined

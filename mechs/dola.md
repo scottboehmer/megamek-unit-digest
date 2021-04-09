@@ -5,7 +5,7 @@
 - **Chassis:** 30 tons (Composite)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -10,7 +10,9 @@
   - LRM 20 × 2 (ammo: 24)
   - Streak SRM 6 × 2 (ammo: 15)
   - Ultra AC/20 (ammo: 15)
-- **Battle Value:** 2532
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2676
 
 ## Storm Giant 2
 - **Role:** Undefined
@@ -24,5 +26,7 @@
   - ER Large Laser × 2
   - ER Medium Laser
   - Ultra AC/20 (ammo: 15)
-- **Battle Value:** 2765
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2891
 

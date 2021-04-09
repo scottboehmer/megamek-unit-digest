@@ -93,5 +93,5 @@
   - CASE
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1199
 

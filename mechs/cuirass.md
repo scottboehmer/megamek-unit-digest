@@ -5,7 +5,7 @@
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 128
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - RAC/5 (ammo: 60)
@@ -21,7 +21,7 @@
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 128
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - MagShot Gauss Rifle × 4 (ammo: 50)
@@ -39,7 +39,7 @@
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 128
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy PPC

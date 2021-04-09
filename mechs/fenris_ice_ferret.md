@@ -11,8 +11,9 @@
   - ER Small Laser
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 1657
+- **Battle Value:** 1678
 
 ## Fenris (Ice Ferret) A
 - **Role:** Undefined
@@ -25,7 +26,9 @@
   - LB 2-X AC (ammo: 45)
   - ER Medium Laser × 2
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 1281
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1323
 
 ## Fenris (Ice Ferret) B
 - **Role:** Undefined
@@ -39,7 +42,9 @@
   - SRM 4 (ammo: 25)
   - SRM 6 (ammo: 15)
   - Small Pulse Laser
-- **Battle Value:** 1419
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1461
 
 ## Fenris (Ice Ferret) C
 - **Role:** Undefined
@@ -51,7 +56,9 @@
 - **Weapons:**
   - LRM 5 w/ Artemis IV × 3 (ammo: 72)
   - ER Small Laser
-- **Battle Value:** 1148
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1211
 
 ## Fenris (Ice Ferret) D
 - **Role:** Undefined
@@ -63,7 +70,9 @@
 - **Weapons:**
   - Medium Pulse Laser × 4
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 1632
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1653
 
 ## Fenris (Ice Ferret) E
 - **Role:** Undefined
@@ -76,7 +85,9 @@
   - ATM 9 (ammo: 7)
   - ER Medium Laser
   - ER Small Laser
-- **Battle Value:** 1284
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1347
 
 ## Fenris (Ice Ferret) H
 - **Role:** Undefined
@@ -89,7 +100,9 @@
   - ER Large Laser
   - SRM 6 (ammo: 15)
   - Heavy Medium Laser × 2
-- **Battle Value:** 1598
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1619
 
 ## Fenris (Ice Ferret) L
 - **Role:** Undefined
@@ -102,8 +115,9 @@
   - AP Gauss Rifle × 3 (ammo: 80)
   - Plasma Cannon (ammo: 20)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1376
+- **Battle Value:** 1380
 
 ## Fenris (Ice Ferret) F
 - **Role:** Undefined
@@ -130,8 +144,9 @@
   - AP Gauss Rifle × 4 (ammo: 40)
   - ER Small Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - Light TAG
-- **Battle Value:** 1169
+- **Battle Value:** 1196
 
 ## Fenris (Ice Ferret) I
 - **Role:** Undefined
@@ -145,8 +160,9 @@
   - Inner Sphere M-Pod × 2
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - Inner Sphere Bloodhound Active Probe
-- **Battle Value:** 1051
+- **Battle Value:** 1094
 
 ## Fenris (Ice Ferret) J
 - **Role:** Undefined
@@ -159,9 +175,10 @@
   - ER Small Laser × 10
   - Heavy Machine Gun × 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - Supercharger
   - Targeting Computer
-- **Battle Value:** 1718
+- **Battle Value:** 1739
 
 ## Fenris (Ice Ferret) K
 - **Role:** Undefined
@@ -189,7 +206,8 @@
   - ER Medium Laser
   - SRM 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - Supercharger
   - Active Probe
-- **Battle Value:** 1804
+- **Battle Value:** 1825
 

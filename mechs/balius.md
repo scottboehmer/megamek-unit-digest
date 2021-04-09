@@ -24,7 +24,9 @@
   - ER Large Laser
   - ER Medium Laser × 3
   - HAG 20 (ammo: 18)
-- **Battle Value:** 2193
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2201
 
 ## Balius B
 - **Role:** Undefined
@@ -52,7 +54,9 @@
   - ATM 9 × 2 (ammo: 14)
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
-- **Battle Value:** 1917
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1995
 
 ## Balius D
 - **Role:** Undefined
@@ -81,5 +85,7 @@
   - ER Large Pulse Laser
   - Streak SRM 6 (ammo: 15)
   - Improved Heavy Medium Laser
-- **Battle Value:** 2100
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2158
 

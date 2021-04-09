@@ -11,7 +11,9 @@
   - ER Medium Laser × 2
   - ER Small Laser × 2
   - LRM 10 (ammo: 12)
-- **Battle Value:** 1292
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1331
 
 ## Great Wyrm (Aemelia)
 - **Role:** Undefined
@@ -38,5 +40,7 @@
   - AP Gauss Rifle (ammo: 40)
   - HAG 20 (ammo: 12)
   - ER Medium Laser × 3
-- **Battle Value:** 1658
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1667
 

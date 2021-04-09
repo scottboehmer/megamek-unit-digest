@@ -11,7 +11,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 702
 
 ## Nexus II NXS2-B
 - **Role:** Undefined
@@ -27,5 +27,5 @@
   - Guardian ECM Suite
   - C3i
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 717
 

@@ -107,5 +107,5 @@
   - C3i
   - CASE
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 1949
 

@@ -5,7 +5,7 @@
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4
 - **Armor:** 256
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 3
@@ -21,7 +21,7 @@
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4
 - **Armor:** 305 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Snub-Nose PPC × 2

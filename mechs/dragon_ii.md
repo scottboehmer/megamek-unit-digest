@@ -5,7 +5,7 @@
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 211 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium X-Pulse Laser
@@ -21,7 +21,7 @@
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
 - **Armor:** 211 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan Medium Pulse Laser

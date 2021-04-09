@@ -19,7 +19,7 @@
 - **Chassis:** 25 tons
 - **Movement:** 6 (7) / 9 (11) / 6, XL
 - **Armor:** 80 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

@@ -87,7 +87,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2264
 
 ## King Crab KGC-008
 - **Role:** Undefined
@@ -95,7 +95,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 307
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -106,7 +106,7 @@
   - CASE
   - C3i
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 2369
 
 ## King Crab KGC-005r
 - **Role:** Undefined
@@ -146,7 +146,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
 - **Armor:** 307
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -165,7 +165,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

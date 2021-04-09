@@ -29,5 +29,5 @@
   - Inner Sphere C3i
   - MASC
   - Watchdog CEWS
-- **Battle Value:** unknown
+- **Battle Value:** 1992
 

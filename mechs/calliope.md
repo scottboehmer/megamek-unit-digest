@@ -5,7 +5,7 @@
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 125 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)

@@ -99,7 +99,7 @@
 - **Equipment:**
   - MG Array
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 940
 
 ## Vulcan VT-5Sr
 - **Role:** Undefined

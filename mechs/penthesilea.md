@@ -5,7 +5,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
 - **Armor:** 215 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
@@ -22,7 +22,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 231 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC
@@ -39,7 +39,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 231 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium VSP Laser

@@ -14,7 +14,7 @@
   - CASE
   - C3i
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 1162
 
 ## Tessen TSN-C3
 - **Role:** Undefined

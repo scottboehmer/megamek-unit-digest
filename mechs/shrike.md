@@ -11,9 +11,10 @@
   - ER Large Laser × 2
   - LRM 10 (ammo: 12)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - Partial Wing
-- **Battle Value:** 2911
+- **Battle Value:** 2969
 
 ## Shrike 2
 - **Role:** Undefined
@@ -27,9 +28,10 @@
   - ER Medium Laser × 2
   - LRM 10 (ammo: 12)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - Partial Wing
-- **Battle Value:** 2768
+- **Battle Value:** 2846
 
 ## Shrike 3
 - **Role:** Undefined
@@ -45,5 +47,6 @@
 - **Equipment:**
   - Targeting Computer
   - Partial Wing
-- **Battle Value:** 3678
+  - CASE
+- **Battle Value:** 3698
 

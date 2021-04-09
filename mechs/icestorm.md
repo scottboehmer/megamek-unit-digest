@@ -10,8 +10,9 @@
   - ER Medium Laser
   - SRM 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - TAG
-- **Battle Value:** 706
+- **Battle Value:** 728
 
 ## Icestorm 2
 - **Role:** Undefined

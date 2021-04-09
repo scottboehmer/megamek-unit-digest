@@ -11,7 +11,8 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
 - **Equipment:**
   - A-Pod × 4
-- **Battle Value:** 1438
+  - CASE
+- **Battle Value:** 1546
 
 ## Fire Scorpion 2
 - **Role:** Undefined
@@ -26,8 +27,9 @@
   - Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - A-Pod × 4
+  - CASE
   - Active Probe
-- **Battle Value:** 1623
+- **Battle Value:** 1749
 
 ## Fire Scorpion 3
 - **Role:** Undefined
@@ -40,7 +42,8 @@
   - Ultra AC/20 (ammo: 20)
   - AP Gauss Rifle × 4 (ammo: 80)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - Active Probe
-- **Battle Value:** 1827
+- **Battle Value:** 1904
 

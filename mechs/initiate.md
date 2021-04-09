@@ -22,7 +22,7 @@
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 137
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2
@@ -31,5 +31,5 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 901
 

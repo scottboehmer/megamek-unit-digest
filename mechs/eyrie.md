@@ -12,6 +12,7 @@
   - Micro Pulse Laser × 4
 - **Equipment:**
   - Partial Wing
+  - CASE
   - Talons
-- **Battle Value:** 1359
+- **Battle Value:** 1401
 

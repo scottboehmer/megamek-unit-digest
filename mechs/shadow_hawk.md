@@ -173,7 +173,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1496
 
 ## Shadow Hawk SHD-7M
 - **Role:** Undefined
@@ -205,7 +205,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1700
 
 ## Shadow Hawk SHD-5D (Sandy)
 - **Role:** Undefined
@@ -275,7 +275,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 152
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium VSP Laser

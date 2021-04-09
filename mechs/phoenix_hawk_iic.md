@@ -9,7 +9,9 @@
 - **Weapons:**
   - Ultra AC/10 × 2 (ammo: 60)
   - Machine Gun × 2 (ammo: 100)
-- **Battle Value:** 1920
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2057
 
 ## Phoenix Hawk IIC 2
 - **Role:** Undefined
@@ -20,7 +22,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 20 × 4 (ammo: 48)
-- **Battle Value:** 2736
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2892
 
 ## Phoenix Hawk IIC 3
 - **Role:** Undefined
@@ -46,7 +50,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ATM 9 × 4 (ammo: 21)
-- **Battle Value:** 2113
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2230
 
 ## Phoenix Hawk IIC 5
 - **Role:** Undefined
@@ -58,7 +64,9 @@
 - **Weapons:**
   - AP Gauss Rifle × 4 (ammo: 40)
   - HAG 20 × 2 (ammo: 24)
-- **Battle Value:** 2329
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2350
 
 ## Phoenix Hawk IIC 6
 - **Role:** Undefined
@@ -85,7 +93,9 @@
   - ER Medium Laser × 2
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Streak SRM 4 × 2 (ammo: 25)
-- **Battle Value:** 2141
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2219
 
 ## Phoenix Hawk IIC 8
 - **Role:** Undefined

@@ -28,7 +28,9 @@
   - ER Medium Laser
   - Micro Pulse Laser
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2533
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2560
 
 ## Karhu B
 - **Role:** Undefined
@@ -41,9 +43,10 @@
   - Ultra AC/20 (ammo: 20)
   - ER Medium Laser × 3
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 2709
+- **Battle Value:** 2787
 
 ## Karhu C
 - **Role:** Undefined
@@ -57,6 +60,8 @@
   - ER Medium Laser
   - Inner Sphere Retractable Blade
   - Ultra AC/5 × 2 (ammo: 40)
+- **Equipment:**
+  - CASE
 - **Battle Value:** unknown
 
 ## Karhu D
@@ -72,10 +77,11 @@
   - Streak SRM 6 (ammo: 15)
   - Anti-Missile System × 2 (ammo: 24)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - Active Probe
   - ECM Suite
-- **Battle Value:** 3079
+- **Battle Value:** 3118
 
 ## Karhu (Syngman)
 - **Role:** Undefined
@@ -108,6 +114,7 @@
   - Streak SRM 4 × 4 (ammo: 50)
 - **Equipment:**
   - Light TAG
+  - CASE
   - Supercharger
-- **Battle Value:** 2853
+- **Battle Value:** 2895
 

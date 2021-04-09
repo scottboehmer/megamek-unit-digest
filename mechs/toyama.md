@@ -21,7 +21,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 208
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Heavy PPC
@@ -31,7 +31,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1788
 
 ## Toyama TYM-1C
 - **Role:** Undefined
@@ -39,7 +39,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
@@ -48,5 +48,5 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1727
 

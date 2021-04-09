@@ -11,7 +11,9 @@
   - Ultra AC/5 × 2 (ammo: 40)
   - Medium Pulse Laser × 4
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2658
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2712
 
 ## Daishi (Dire Wolf) A
 - **Role:** Undefined
@@ -25,7 +27,9 @@
   - Large Pulse Laser × 3
   - Streak SRM 6 × 2 (ammo: 30)
   - Anti-Missile System (ammo: 72)
-- **Battle Value:** 2758
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2855
 
 ## Daishi (Dire Wolf) B
 - **Role:** Undefined
@@ -40,7 +44,9 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Ultra AC/2 × 4 (ammo: 90)
   - ER Small Laser
-- **Battle Value:** 2537
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2609
 
 ## Daishi (Dire Wolf) W
 - **Role:** Undefined
@@ -56,7 +62,9 @@
   - Ultra AC/20 (ammo: 10)
   - Medium Pulse Laser × 2
   - ER Small Laser
-- **Battle Value:** 2872
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2951
 
 ## Daishi (Dire Wolf) 'Widowmaker'
 - **Role:** Undefined
@@ -71,7 +79,9 @@
   - Ultra AC/20 (ammo: 10)
   - ER Medium Laser × 2
   - ER Small Laser
-- **Battle Value:** 3005
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3041
 
 ## Daishi (Dire Wolf) S
 - **Role:** Undefined
@@ -87,8 +97,9 @@
   - Medium Pulse Laser × 5
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
+  - CASE
   - A-Pod × 2
-- **Battle Value:** 2877
+- **Battle Value:** 2985
 
 ## Daishi (Dire Wolf) 'Prometheus'
 - **Role:** Undefined
@@ -102,7 +113,9 @@
   - Ultra AC/20 (ammo: 10)
   - Large Pulse Laser × 3
   - SRM 6 (ammo: 15)
-- **Battle Value:** 2846
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2900
 
 ## Daishi (Dire Wolf) (Hohiro)
 - **Role:** Undefined
@@ -117,7 +130,9 @@
   - Large Pulse Laser × 3
   - Streak SRM 6 (ammo: 15)
   - ER Small Laser
-- **Battle Value:** 3023
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3048
 
 ## Daishi (Dire Wolf) C
 - **Role:** Undefined
@@ -132,6 +147,7 @@
   - Medium Pulse Laser × 4
   - SRM 4 (iOS)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
 - **Battle Value:** unknown
@@ -149,8 +165,9 @@
   - Medium Pulse Laser
   - Flamer
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2978
+- **Battle Value:** 2992
 
 ## Daishi (Dire Wolf) X
 - **Role:** Undefined
@@ -171,7 +188,8 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2413
+  - CASE
+- **Battle Value:** 2593
 
 ## Daishi (Dire Wolf) D
 - **Role:** Undefined
@@ -185,7 +203,9 @@
   - Streak SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
   - ER Small Laser
-- **Battle Value:** 3361
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3403
 
 ## Daishi (Dire Wolf) E
 - **Role:** Undefined

@@ -212,7 +212,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 152 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
@@ -274,7 +274,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
@@ -290,7 +290,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - RAC/5 (ammo: 60)
@@ -306,7 +306,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Heavy PPC
@@ -323,7 +323,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 152
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
@@ -341,7 +341,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 152
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
@@ -357,7 +357,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 185 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)

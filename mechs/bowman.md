@@ -9,9 +9,10 @@
 - **Weapons:**
   - Arrow IV × 2 (ammo: 20)
 - **Equipment:**
+  - CASE
   - ECM Suite
   - A-Pod × 4
-- **Battle Value:** 1579
+- **Battle Value:** 1657
 
 ## Bowman (Standard)
 - **Role:** Undefined
@@ -25,9 +26,10 @@
   - Arrow IV (ammo: 20)
   - LRM 20 (ammo: 6)
 - **Equipment:**
+  - CASE
   - ECM Suite
   - A-Pod × 4
-- **Battle Value:** 2112
+- **Battle Value:** 2209
 
 ## Bowman 2
 - **Role:** Undefined
@@ -41,9 +43,10 @@
   - LRM 20 × 2 (ammo: 24)
   - ER Large Laser
 - **Equipment:**
+  - CASE
   - ECM Suite
   - A-Pod × 4
-- **Battle Value:** 2489
+- **Battle Value:** 2567
 
 ## Bowman 3
 - **Role:** Undefined
@@ -57,8 +60,9 @@
   - HAG 20 (ammo: 18)
   - ATM 9 (ammo: 7)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
   - B-Pod × 2
-- **Battle Value:** 2602
+- **Battle Value:** 2668
 

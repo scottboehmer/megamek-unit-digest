@@ -10,7 +10,9 @@
   - SRM 6 × 2 (ammo: 30)
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER Small Laser
-- **Battle Value:** 1459
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1537
 
 ## Man O' War (Gargoyle) A
 - **Role:** Undefined
@@ -38,7 +40,9 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
   - SRM 4 w/ Artemis IV (ammo: 25)
   - Gauss Rifle (ammo: 16)
-- **Battle Value:** 1796
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1843
 
 ## Man O' War (Gargoyle) C
 - **Role:** Undefined
@@ -52,8 +56,9 @@
   - ER Medium Laser × 6
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - A-Pod × 2
-- **Battle Value:** 2398
+- **Battle Value:** 2437
 
 ## Man O' War (Gargoyle) D
 - **Role:** Undefined
@@ -81,10 +86,11 @@
   - ER PPC × 2
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
+  - CASE
   - Light TAG
   - ECM Suite
   - A-Pod × 2
-- **Battle Value:** 2561
+- **Battle Value:** 2580
 
 ## Man O' War (Gargoyle) H
 - **Role:** Undefined
@@ -98,7 +104,9 @@
   - ER Medium Laser × 2
   - Ultra AC/10 (ammo: 20)
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2125
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2183
 
 ## Man O' War (Gargoyle) E
 - **Role:** Undefined
@@ -113,8 +121,9 @@
   - Streak SRM 6 (ammo: 15)
   - ER Micro Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2036
+- **Battle Value:** 2114
 
 ## Man O' War (Gargoyle) M
 - **Role:** Undefined
@@ -127,7 +136,9 @@
   - ER PPC
   - HAG 20 (ammo: 18)
   - SRM 2 × 3 (ammo: 50)
-- **Battle Value:** 2155
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2182
 
 ## Man O' War (Gargoyle) G
 - **Role:** Undefined
@@ -140,7 +151,9 @@
   - AP Gauss Rifle × 3 (ammo: 40)
   - LB 20-X AC (ammo: 15)
   - ER Medium Laser × 4
-- **Battle Value:** 2094
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2156
 
 ## Man O' War (Gargoyle) P
 - **Role:** Undefined
@@ -182,6 +195,7 @@
   - ER Medium Laser × 6
   - Small Pulse Laser
 - **Equipment:**
+  - CASE
   - CASE II
 - **Battle Value:** 2701
 
@@ -225,5 +239,7 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - ProtoMech AC/8 × 2 (ammo: 20)
   - ER Small Laser
-- **Battle Value:** 1557
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1635
 

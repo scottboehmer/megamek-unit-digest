@@ -10,7 +10,9 @@
   - ER Large Laser × 2
   - Medium Pulse Laser × 2
   - Streak SRM 4 × 3 (ammo: 25)
-- **Battle Value:** 2465
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2484
 
 ## Arcas 2
 - **Role:** Undefined
@@ -37,5 +39,6 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2284
+  - CASE
+- **Battle Value:** 2305
 

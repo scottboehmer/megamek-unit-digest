@@ -9,7 +9,9 @@
 - **Weapons:**
   - ER Large Laser × 4
   - Ultra AC/10 × 2 (ammo: 40)
-- **Battle Value:** 2426
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2498
 
 ## Canis 2
 - **Role:** Undefined
@@ -22,5 +24,7 @@
   - Large Pulse Laser × 2
   - HAG 20 × 2 (ammo: 24)
   - ER Large Laser
-- **Battle Value:** 2808
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2822
 

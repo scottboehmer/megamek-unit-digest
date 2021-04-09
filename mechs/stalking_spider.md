@@ -11,8 +11,9 @@
   - SRM 4 × 2 (ammo: 25)
   - ER PPC
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2211
+- **Battle Value:** 2232
 
 ## Stalking Spider 2
 - **Role:** Undefined
@@ -43,6 +44,7 @@
   - SRM 6 (ammo: 15)
   - Heavy Small Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1622
+- **Battle Value:** 1643
 

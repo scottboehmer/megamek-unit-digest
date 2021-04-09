@@ -77,7 +77,9 @@
   - Ultra AC/10 (ammo: 30)
   - Medium Pulse Laser × 2
   - ER Medium Laser
-- **Battle Value:** 1646
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1736
 
 ## Hoplite HOP-4X
 - **Role:** Undefined

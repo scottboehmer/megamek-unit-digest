@@ -10,10 +10,11 @@
   - ER Large Laser × 2
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster)
 - **Equipment:**
+  - CASE
   - Partial Wing
   - MASC
   - Light Active Probe
-- **Battle Value:** 2325
+- **Battle Value:** 2367
 
 ## Gyrfalcon 2
 - **Role:** Undefined
@@ -26,9 +27,10 @@
   - ER Large Laser × 2
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster)
 - **Equipment:**
+  - CASE
   - Partial Wing
   - MASC
-- **Battle Value:** 2063
+- **Battle Value:** 2105
 
 ## Gyrfalcon 3
 - **Role:** Undefined
@@ -42,10 +44,11 @@
   - ER Large Laser × 2
   - Ultra AC/2 × 2 (ammo: 90)
 - **Equipment:**
+  - CASE
   - Partial Wing
   - MASC
   - Targeting Computer
-- **Battle Value:** 2189
+- **Battle Value:** 2228
 
 ## Gyrfalcon 4
 - **Role:** Undefined
@@ -58,7 +61,8 @@
   - ER Large Laser × 2
   - Inner Sphere TSEMP × 2
 - **Equipment:**
+  - CASE
   - Partial Wing
   - MASC
-- **Battle Value:** 3702
+- **Battle Value:** 3716
 

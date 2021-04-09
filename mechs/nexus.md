@@ -25,5 +25,5 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 715
 

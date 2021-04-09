@@ -5,7 +5,7 @@
 - **Chassis:** 30 tons (Composite)
 - **Movement:** 7 / 11 (14) / 6, XXL
 - **Armor:** 105 (Ballistic Reinforced)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -35,7 +35,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 120 (Stealth)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -46,5 +46,5 @@
   - MASC
   - Targeting Computer
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 978
 

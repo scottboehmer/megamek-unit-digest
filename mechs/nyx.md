@@ -60,7 +60,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL
 - **Armor:** 78 (Anti-Penetrative Ablative Armor)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Re-Engineered Laser × 2

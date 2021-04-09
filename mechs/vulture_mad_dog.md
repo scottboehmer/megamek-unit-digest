@@ -10,7 +10,9 @@
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
   - LRM 20 × 2 (ammo: 12)
-- **Battle Value:** 2312
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2351
 
 ## Vulture (Mad Dog) A
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - ER PPC
   - SRM 6 × 6 (ammo: 60)
-- **Battle Value:** 1806
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1923
 
 ## Vulture (Mad Dog) B
 - **Role:** Undefined
@@ -37,7 +41,9 @@
   - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 6)
   - Streak SRM 6 × 2 (ammo: 15)
-- **Battle Value:** 2245
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2284
 
 ## Vulture (Mad Dog) C
 - **Role:** Undefined
@@ -48,7 +54,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
-- **Battle Value:** 1876
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1892
 
 ## Vulture (Mad Dog) DD
 - **Role:** Undefined
@@ -62,7 +70,9 @@
   - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 6)
   - Streak SRM 6 (ammo: 15)
-- **Battle Value:** 1911
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1970
 
 ## Vulture (Mad Dog) S
 - **Role:** Undefined
@@ -90,7 +100,9 @@
   - ER Small Laser × 2
   - ATM 12 × 2 (ammo: 10)
   - Medium Pulse Laser × 2
-- **Battle Value:** 2045
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2162
 
 ## Vulture (Mad Dog) H
 - **Role:** Undefined
@@ -103,7 +115,9 @@
   - Heavy Medium Laser × 3
   - Heavy Large Laser
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
-- **Battle Value:** 2019
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2097
 
 ## Vulture (Mad Dog) E
 - **Role:** Undefined
@@ -114,7 +128,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - HAG 30 × 2 (ammo: 8)
-- **Battle Value:** 2011
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2031
 
 ## Vulture (Mad Dog) F
 - **Role:** Undefined
@@ -126,7 +142,9 @@
 - **Weapons:**
   - HAG 20 × 2 (ammo: 24)
   - ER Medium Laser × 4
-- **Battle Value:** 2284
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2300
 
 ## Vulture (Mad Dog) G
 - **Role:** Undefined
@@ -140,7 +158,9 @@
   - ER Medium Pulse Laser × 3
   - Streak LRM 15 (ammo: 8)
   - Streak SRM 6 × 2 (ammo: 15)
-- **Battle Value:** 2464
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2503
 
 ## Vulture (Mad Dog) V
 - **Role:** Undefined
@@ -154,7 +174,9 @@
   - Medium Pulse Laser
   - Arrow IV (ammo: 10)
   - LRM 20 (ammo: 12)
-- **Battle Value:** 1706
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1784
 
 ## Vulture (Mad Dog) T
 - **Role:** Undefined
@@ -167,7 +189,9 @@
   - ER Large Laser × 2
   - ER Medium Laser × 2
   - LRM 20 w/ Artemis V × 2 (ammo: 24)
-- **Battle Value:** 2477
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2555
 
 ## Vulture (Mad Dog) I
 - **Role:** Undefined
@@ -179,5 +203,7 @@
 - **Weapons:**
   - ER PPC w/ PPC Capacitor
   - RAC/2 × 2 (ammo: 90)
-- **Battle Value:** 1813
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1852
 

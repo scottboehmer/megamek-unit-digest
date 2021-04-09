@@ -13,7 +13,7 @@
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1637
 
 ## White Flame WHF-3C
 - **Role:** Undefined
@@ -21,7 +21,7 @@
 - **Chassis:** 70 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
 - **Armor:** 224
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
@@ -29,7 +29,7 @@
   - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1826
 
 ## White Flame WHF-4C
 - **Role:** Undefined
@@ -46,5 +46,5 @@
 - **Equipment:**
   - C3i
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 1680
 

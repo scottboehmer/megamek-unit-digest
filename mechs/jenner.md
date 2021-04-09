@@ -121,7 +121,7 @@
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 6, XL
 - **Armor:** 109 (Heavy Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -137,7 +137,7 @@
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 118 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

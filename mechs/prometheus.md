@@ -14,5 +14,7 @@
   - LRM 15 × 2 (ammo: 16)
   - SRM 6 × 2 (ammo: 15)
   - Machine Gun × 6 (ammo: 100)
+- **Equipment:**
+  - CASE
 - **Battle Value:** 2401
 

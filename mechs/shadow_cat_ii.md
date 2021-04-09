@@ -10,7 +10,9 @@
   - HAG 20 (ammo: 12)
   - LRM 10 × 2 (ammo: 24)
   - ER Medium Laser
-- **Battle Value:** 2017
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2064
 
 ## Shadow Cat II 3
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - ER Large Laser
   - Streak SRM 6 × 4 (ammo: 30)
   - ER Medium Laser
-- **Battle Value:** 2348
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2387
 
 ## Shadow Cat II 4
 - **Role:** Undefined
@@ -35,5 +39,7 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - LRM 10 × 2 (ammo: 24)
-- **Battle Value:** 1939
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1986
 

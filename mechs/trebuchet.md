@@ -156,7 +156,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 161 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Clan LRM 15 × 2 (ammo: 24)

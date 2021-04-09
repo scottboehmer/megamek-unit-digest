@@ -13,5 +13,6 @@
   - Ultra AC/10 (ammo: 10)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2498
+  - CASE
+- **Battle Value:** 2517
 

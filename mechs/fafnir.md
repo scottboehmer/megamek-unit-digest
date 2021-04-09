@@ -38,7 +38,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Medium Pulse Laser × 3
@@ -63,7 +63,7 @@
   - Plasma Rifle × 4 (ammo: 50)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2449
 
 ## Fafnir FNR-6U
 - **Role:** Undefined

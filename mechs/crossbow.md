@@ -48,7 +48,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-- **Battle Value:** 1751
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1829
 
 ## Crossbow A
 - **Role:** Undefined
@@ -61,7 +63,9 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser × 2
   - LRM 5 × 2 (ammo: 48)
-- **Battle Value:** 1719
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1797
 
 ## Crossbow B
 - **Role:** Undefined
@@ -72,7 +76,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Streak SRM 6 × 4 (ammo: 60)
-- **Battle Value:** 1609
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1687
 
 ## Crossbow H
 - **Role:** Undefined
@@ -86,7 +92,9 @@
   - Heavy Large Laser
   - Heavy Medium Laser
   - Light Machine Gun × 4 (ammo: 100)
-- **Battle Value:** 1648
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1707
 
 ## Crossbow C
 - **Role:** Undefined
@@ -99,8 +107,9 @@
   - ATM 6 × 2 (ammo: 20)
   - Heavy Machine Gun × 2 (ammo: 100)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1278
+- **Battle Value:** 1414
 
 ## Crossbow CRS-9A
 - **Role:** Undefined
@@ -125,6 +134,7 @@
 - **Weapons:**
   - AP Gauss Rifle × 16 (ammo: 240)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1537
+- **Battle Value:** 1558
 

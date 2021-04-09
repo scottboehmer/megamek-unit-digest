@@ -10,6 +10,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - Supercharger
-- **Battle Value:** 879
+- **Battle Value:** 921
 

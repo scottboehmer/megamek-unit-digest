@@ -9,7 +9,9 @@
 - **Weapons:**
   - LRM 10 × 2 (ammo: 24)
   - LRM 20 × 2 (ammo: 36)
-- **Battle Value:** 1729
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1873
 
 ## Ha Otoko HKO-1C
 - **Role:** Undefined
@@ -35,7 +37,9 @@
   - HAG 30 (ammo: 16)
   - ER Medium Laser × 4
   - Plasma Cannon (ammo: 20)
-- **Battle Value:** 2320
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2348
 
 ## Ha Otoko 3
 - **Role:** Undefined
@@ -50,6 +54,7 @@
   - ER Large Laser
   - LRM 20 w/ Artemis IV × 2 (ammo: 36)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2096
+- **Battle Value:** 2206
 

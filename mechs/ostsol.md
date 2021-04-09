@@ -118,7 +118,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 3 (4) / 5 (6) / 0
 - **Armor:** 192
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

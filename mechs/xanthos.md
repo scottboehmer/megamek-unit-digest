@@ -36,7 +36,7 @@
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 323 (Stealth)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Light PPC × 2
@@ -53,7 +53,7 @@
 - **Chassis:** 100 tons Quad (Endo Steel)
 - **Movement:** 3 / 5 / 5, Compact
 - **Armor:** 323 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium Pulse Laser × 5
@@ -67,7 +67,7 @@
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 323 (Stealth)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - PPC × 2
@@ -85,7 +85,7 @@
 - **Chassis:** 100 tons Quad
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 323
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Clan Gauss Rifle × 2 (ammo: 24)

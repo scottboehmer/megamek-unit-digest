@@ -9,5 +9,7 @@
 - **Weapons:**
   - ProtoMech AC/8 (ammo: 20)
   - Light Machine Gun × 2 (ammo: 100)
-- **Battle Value:** 455
+- **Equipment:**
+  - CASE
+- **Battle Value:** 514
 

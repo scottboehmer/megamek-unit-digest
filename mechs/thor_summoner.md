@@ -10,7 +10,9 @@
   - LB 10-X AC (ammo: 10)
   - ER PPC
   - LRM 15 (ammo: 16)
-- **Battle Value:** 2240
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2298
 
 ## Thor (Summoner) A
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - Gauss Rifle (ammo: 8)
   - Large Pulse Laser
   - SRM 6 (ammo: 30)
-- **Battle Value:** 2098
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2145
 
 ## Thor (Summoner) B
 - **Role:** Undefined
@@ -37,7 +41,9 @@
   - SRM 4 × 2 (ammo: 50)
   - Anti-Missile System (ammo: 24)
   - Narc (ammo: 6)
-- **Battle Value:** 2003
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2159
 
 ## Thor (Summoner) C
 - **Role:** Undefined
@@ -51,7 +57,9 @@
   - ER Large Laser
   - ER Small Laser
   - Streak SRM 6 (ammo: 15)
-- **Battle Value:** 2321
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2379
 
 ## Thor (Summoner) D
 - **Role:** Undefined
@@ -66,8 +74,9 @@
   - Machine Gun × 2 (ammo: 200)
   - Anti-Missile System × 2 (ammo: 48)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2584
+- **Battle Value:** 2643
 
 ## Thor (Summoner) M
 - **Role:** Undefined
@@ -81,7 +90,9 @@
   - ER PPC
   - Streak SRM 6 (ammo: 30)
   - ER Small Laser
-- **Battle Value:** 2192
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2251
 
 ## Thor (Summoner) E
 - **Role:** Undefined
@@ -94,7 +105,9 @@
   - ER PPC
   - ATM 12 (ammo: 5)
   - ATM 6 (ammo: 10)
-- **Battle Value:** 2220
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2337
 
 ## Thor (Summoner) F
 - **Role:** Undefined
@@ -107,7 +120,9 @@
   - Ultra AC/5 × 2 (ammo: 40)
   - ER Medium Laser × 3
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2127
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2186
 
 ## Thor (Summoner) H
 - **Role:** Undefined
@@ -121,8 +136,9 @@
   - ER Medium Laser × 2
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2516
+- **Battle Value:** 2536
 
 ## Thor (Summoner) G
 - **Role:** Undefined
@@ -136,7 +152,9 @@
   - ER PPC
   - SRM 4 × 6 (ammo: 50)
   - Heavy Small Laser
-- **Battle Value:** 2413
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2452
 
 ## Thor (Summoner) Q
 - **Role:** Undefined
@@ -151,7 +169,9 @@
   - Heavy Medium Laser
   - SRM 4 × 6 (ammo: 50)
   - Heavy Small Laser
-- **Battle Value:** 2440
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2479
 
 ## Thor (Summoner) HH
 - **Role:** Undefined
@@ -166,7 +186,9 @@
   - HAG 20 (ammo: 18)
   - Plasma Cannon (ammo: 20)
   - Heavy Medium Laser
-- **Battle Value:** 2481
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2490
 
 ## Thor (Summoner) Z
 - **Role:** Undefined
@@ -180,8 +202,9 @@
   - ER Large Pulse Laser
   - iATM 12 (ammo: 15)
 - **Equipment:**
+  - CASE
   - Nova CEWS
-- **Battle Value:** 2714
+- **Battle Value:** 2783
 
 ## Thor (Summoner) AA
 - **Role:** Undefined
@@ -194,7 +217,9 @@
   - Gauss Rifle (ammo: 16)
   - ER Large Pulse Laser
   - SRM 6 (ammo: 15)
-- **Battle Value:** 2188
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2216
 
 ## Thor (Summoner) T
 - **Role:** Undefined
@@ -207,7 +232,9 @@
   - ProtoMech AC/8 (ammo: 20)
   - ER PPC
   - Streak LRM 15 (ammo: 16)
-- **Battle Value:** 2277
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2355
 
 ## Thor (Summoner) J
 - **Role:** Undefined
@@ -220,6 +247,7 @@
   - HAG 40 (ammo: 12)
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 2653
+- **Battle Value:** 2666
 

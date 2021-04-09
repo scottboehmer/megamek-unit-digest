@@ -5,7 +5,7 @@
 - **Chassis:** 15 tons (Endo Steel)
 - **Movement:** 12 / 18 / 0, XXL
 - **Armor:** 55
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

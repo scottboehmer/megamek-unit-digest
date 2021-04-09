@@ -12,7 +12,9 @@
   - LRM 10 (ammo: 24)
   - ER Medium Laser
   - SRM 2 (ammo: 50)
-- **Battle Value:** 1846
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1952
 
 ## Cauldron-Born (Ebon Jaguar) A
 - **Role:** Undefined
@@ -28,7 +30,9 @@
   - Medium Pulse Laser
   - ER Medium Laser × 3
   - Ultra AC/20 (ammo: 15)
-- **Battle Value:** 2351
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2429
 
 ## Cauldron-Born (Ebon Jaguar) B
 - **Role:** Undefined
@@ -57,7 +61,9 @@
   - SRM 6 × 2 (ammo: 60)
   - Ultra AC/2 × 2 (ammo: 90)
   - LRM 15 × 2 (ammo: 32)
-- **Battle Value:** 1636
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1831
 
 ## Cauldron-Born (Ebon Jaguar) (Samantha)
 - **Role:** Undefined
@@ -71,7 +77,9 @@
   - ER PPC
   - ER Small Laser
   - LRM 10 × 3 (ammo: 24)
-- **Battle Value:** 2294
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2372
 
 ## Cauldron-Born (Ebon Jaguar) D
 - **Role:** Undefined
@@ -84,7 +92,9 @@
   - Ultra AC/10 × 2 (ammo: 40)
   - ER Large Laser
   - ER Medium Laser × 2
-- **Battle Value:** 2150
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2228
 
 ## Cauldron-Born (Ebon Jaguar) H
 - **Role:** Undefined
@@ -100,7 +110,8 @@
   - Ultra AC/20 (ammo: 15)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2301
+  - CASE
+- **Battle Value:** 2359
 
 ## Cauldron-Born (Ebon Jaguar) E
 - **Role:** Undefined
@@ -114,7 +125,9 @@
   - Large Pulse Laser
   - ER Medium Laser
   - ATM 12 (ammo: 5)
-- **Battle Value:** 2183
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2249
 
 ## Cauldron-Born (Ebon Jaguar) X
 - **Role:** Undefined

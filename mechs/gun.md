@@ -5,7 +5,7 @@
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 56
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 56
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -32,7 +32,7 @@
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 56
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

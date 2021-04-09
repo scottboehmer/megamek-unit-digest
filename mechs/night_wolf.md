@@ -13,7 +13,8 @@
   - Heavy Large Laser
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 2572
+- **Battle Value:** 2680
 

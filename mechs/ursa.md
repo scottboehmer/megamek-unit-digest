@@ -27,5 +27,6 @@
   - RAC/2 (ammo: 45)
 - **Equipment:**
   - MASC
-- **Battle Value:** 2549
+  - CASE
+- **Battle Value:** 2570
 

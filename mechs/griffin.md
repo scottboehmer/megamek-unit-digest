@@ -125,7 +125,7 @@
   - C3i
   - Guardian ECM Suite
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1695
 
 ## Griffin GRF-5L
 - **Role:** Undefined
@@ -164,7 +164,7 @@
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 8, Light
 - **Armor:** 169 (Light Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC
@@ -224,7 +224,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
 - **Armor:** 152 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
@@ -272,5 +272,7 @@
 - **Weapons:**
   - ER PPC
   - Streak LRM 10 (ammo: 12)
+- **Equipment:**
+  - CASE
 - **Battle Value:** 2131
 

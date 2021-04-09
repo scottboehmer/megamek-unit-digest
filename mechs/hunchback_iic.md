@@ -9,7 +9,9 @@
 - **Weapons:**
   - Ultra AC/20 × 2 (ammo: 10)
   - ER Medium Laser × 2
-- **Battle Value:** 1643
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1679
 
 ## Hunchback IIC 2
 - **Role:** Undefined
@@ -33,7 +35,9 @@
 - **Weapons:**
   - ATM 12 × 3 (ammo: 10)
   - ER Medium Laser × 3
-- **Battle Value:** 1736
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1808
 
 ## Hunchback IIC 4
 - **Role:** Undefined
@@ -46,6 +50,7 @@
   - RAC/5 × 2 (ammo: 80)
   - ER Medium Laser × 2
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2025
+- **Battle Value:** 2097
 

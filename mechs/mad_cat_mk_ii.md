@@ -10,7 +10,9 @@
   - Gauss Rifle × 2 (ammo: 32)
   - ER Medium Laser × 4
   - LRM 10 × 2 (ammo: 24)
-- **Battle Value:** 3085
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3135
 
 ## Mad Cat Mk II 2
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - Gauss Rifle (ammo: 16)
   - Streak SRM 4 × 4 (ammo: 50)
   - ER Medium Laser × 2
-- **Battle Value:** 2743
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2822
 
 ## Mad Cat Mk II 3
 - **Role:** Undefined
@@ -38,8 +42,9 @@
   - ER Medium Laser × 4
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 3113
+- **Battle Value:** 3168
 
 ## Mad Cat Mk II Enhanced
 - **Role:** Undefined
@@ -52,7 +57,9 @@
   - ER Large Pulse Laser × 2
   - ER Medium Laser × 2
   - LRM 10 × 2 (ammo: 24)
-- **Battle Value:** 2696
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2732
 
 ## Mad Cat Mk II 4
 - **Role:** Undefined
@@ -65,8 +72,9 @@
   - ER Large Laser × 4
   - LRM 15 × 2 (ammo: 48)
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 2854
+- **Battle Value:** 2962
 
 ## Mad Cat Mk II 5
 - **Role:** Undefined
@@ -80,6 +88,7 @@
   - Improved Heavy Medium Laser
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 2484
+- **Battle Value:** 2491
 

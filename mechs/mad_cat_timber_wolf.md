@@ -12,7 +12,9 @@
   - LRM 20 × 2 (ammo: 12)
   - Medium Pulse Laser
   - Machine Gun × 2 (ammo: 200)
-- **Battle Value:** 2679
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2737
 
 ## Mad Cat (Timber Wolf) A
 - **Role:** Undefined
@@ -26,7 +28,9 @@
   - Medium Pulse Laser × 3
   - Streak SRM 6 (ammo: 15)
   - ER Small Laser
-- **Battle Value:** 2835
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2854
 
 ## Mad Cat (Timber Wolf) B
 - **Role:** Undefined
@@ -41,7 +45,9 @@
   - Gauss Rifle (ammo: 8)
   - LRM 10 w/ Artemis IV (ammo: 12)
   - SRM 4 w/ Artemis IV (ammo: 25)
-- **Battle Value:** 2177
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2224
 
 ## Mad Cat (Timber Wolf) C
 - **Role:** Undefined
@@ -56,7 +62,9 @@
   - LRM 15 × 2 (ammo: 16)
   - Anti-Missile System (ammo: 24)
   - ER Medium Laser
-- **Battle Value:** 2422
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2500
 
 ## Mad Cat (Timber Wolf) D
 - **Role:** Undefined
@@ -69,7 +77,9 @@
   - ER PPC × 2
   - Streak SRM 6 × 4 (ammo: 45)
   - ER Small Laser
-- **Battle Value:** 2623
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2682
 
 ## Mad Cat (Timber Wolf) N
 - **Role:** Undefined
@@ -83,7 +93,9 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Pulse Laser × 2
   - Machine Gun × 4 (ammo: 100)
-- **Battle Value:** 2823
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2862
 
 ## Mad Cat (Timber Wolf) S
 - **Role:** Undefined
@@ -98,7 +110,9 @@
   - SRM 6 × 4 (ammo: 60)
   - Machine Gun × 2 (ammo: 100)
   - ER Small Laser
-- **Battle Value:** 2365
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2462
 
 ## Mad Cat (Timber Wolf) (Pryde)
 - **Role:** Undefined
@@ -112,7 +126,9 @@
   - ER Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
   - ER Small Laser
-- **Battle Value:** 2861
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2900
 
 ## Mad Cat (Timber Wolf) TC
 - **Role:** Undefined
@@ -126,7 +142,9 @@
   - ER Medium Laser × 2
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Small Laser
-- **Battle Value:** 2864
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2903
 
 ## Mad Cat (Timber Wolf) E
 - **Role:** Undefined
@@ -139,8 +157,9 @@
   - ER Large Laser × 2
   - ATM 9 × 2 (ammo: 14)
 - **Equipment:**
+  - CASE
   - Light TAG
-- **Battle Value:** 2130
+- **Battle Value:** 2247
 
 ## Mad Cat (Timber Wolf) H
 - **Role:** Undefined
@@ -153,7 +172,9 @@
   - Heavy Large Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - ER Small Laser
-- **Battle Value:** 2549
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2627
 
 ## Mad Cat (Timber Wolf) (Bounty Hunter)
 - **Role:** Undefined
@@ -188,8 +209,9 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
+  - CASE
   - Coolant Pod
-- **Battle Value:** 2756
+- **Battle Value:** 2799
 
 ## Mad Cat (Timber Wolf) F
 - **Role:** Undefined
@@ -203,7 +225,9 @@
   - ER Medium Laser × 3
   - LRM 20 × 2 (ammo: 12)
   - AP Gauss Rifle × 3 (ammo: 40)
-- **Battle Value:** 2722
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2764
 
 ## Mad Cat (Timber Wolf) Z
 - **Role:** Undefined
@@ -217,8 +241,9 @@
   - ER Medium Pulse Laser × 2
   - iATM 9 × 2 (ammo: 28)
 - **Equipment:**
+  - CASE
   - Nova CEWS
-- **Battle Value:** 2845
+- **Battle Value:** 2923
 
 ## Mad Cat (Timber Wolf) W
 - **Role:** Undefined
@@ -234,7 +259,8 @@
   - ER Small Laser
 - **Equipment:**
   - Supercharger
-- **Battle Value:** 2686
+  - CASE
+- **Battle Value:** 2791
 
 ## Mad Cat (Timber Wolf) BLO
 - **Role:** Undefined
@@ -251,7 +277,8 @@
   - Inner Sphere C3i
   - Light Active Probe
   - TAG
-- **Battle Value:** unknown
+  - CASE
+- **Battle Value:** 2611
 
 ## Mad Cat (Timber Wolf) T
 - **Role:** Undefined
@@ -266,5 +293,7 @@
   - LRM 20 w/ Artemis V × 2 (ammo: 36)
   - ER Small Pulse Laser
   - ER Small Laser × 2
-- **Battle Value:** 2597
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2714
 

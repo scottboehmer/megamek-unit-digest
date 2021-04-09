@@ -12,8 +12,9 @@
   - Medium Pulse Laser × 2
   - Small Pulse Laser × 4
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2793
+- **Battle Value:** 2813
 
 ## Viper (Black Python) 2
 - **Role:** Undefined
@@ -29,8 +30,9 @@
   - ER Large Laser × 2
 - **Equipment:**
   - ECM Suite
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2461
+- **Battle Value:** 2520
 
 ## Viper (Black Python) 5
 - **Role:** Undefined
@@ -43,7 +45,9 @@
   - Machine Gun × 2 (ammo: 200)
   - Gauss Rifle (ammo: 16)
   - ER PPC × 2
-- **Battle Value:** 2898
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2925
 
 ## Viper (Black Python) 3
 - **Role:** Undefined
@@ -58,8 +62,9 @@
   - Medium Pulse Laser × 2
   - Small Pulse Laser × 4
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2402
+- **Battle Value:** 2421
 
 ## Viper (Black Python) 4
 - **Role:** Undefined

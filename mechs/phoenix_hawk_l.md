@@ -5,7 +5,7 @@
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 104
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - MML 3 (ammo: 40 LRM, 33 SRM)
@@ -22,7 +22,7 @@
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 104
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - MML 3 (ammo: 40 LRM, 33 SRM)

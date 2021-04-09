@@ -5,7 +5,7 @@
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 89 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium X-Pulse Laser × 2

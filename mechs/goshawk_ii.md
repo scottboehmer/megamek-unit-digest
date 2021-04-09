@@ -28,7 +28,8 @@
   - ER Large Laser
   - Micro Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 1746
+- **Battle Value:** 1767
 

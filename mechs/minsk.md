@@ -13,8 +13,9 @@
   - Small Pulse Laser × 2
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
+  - CASE
   - Inner Sphere Beagle Active Probe
-- **Battle Value:** 1937
+- **Battle Value:** 2024
 
 ## Minsk
 - **Role:** Undefined
@@ -30,7 +31,8 @@
   - Small Pulse Laser × 2
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
+  - CASE
   - Active Probe
   - Inner Sphere A-Pod × 2
-- **Battle Value:** 1942
+- **Battle Value:** 2028
 

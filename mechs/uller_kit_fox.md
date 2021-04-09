@@ -11,7 +11,9 @@
   - Small Pulse Laser
   - Streak SRM 4 (ammo: 25)
   - LB 5-X AC (ammo: 20)
-- **Battle Value:** 1046
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1085
 
 ## Uller (Kit Fox) A
 - **Role:** Undefined
@@ -23,7 +25,9 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
-- **Battle Value:** 1302
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1310
 
 ## Uller (Kit Fox) B
 - **Role:** Undefined
@@ -37,7 +41,9 @@
   - ER Small Laser
   - Ultra AC/10 (ammo: 20)
   - SRM 6 (ammo: 15)
-- **Battle Value:** 1028
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1087
 
 ## Uller (Kit Fox) D
 - **Role:** Undefined
@@ -50,7 +56,9 @@
   - LRM 15 × 2 (ammo: 32)
   - LRM 5 (ammo: 24)
   - Narc (ammo: 6)
-- **Battle Value:** 1025
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1142
 
 ## Uller (Kit Fox) C
 - **Role:** Undefined
@@ -68,8 +76,9 @@
   - ECM Suite
   - TAG
   - Active Probe
+  - CASE
   - A-Pod × 2
-- **Battle Value:** 1050
+- **Battle Value:** 1147
 
 ## Uller (Kit Fox) S
 - **Role:** Undefined
@@ -84,7 +93,9 @@
   - Large Pulse Laser
   - Small Pulse Laser
   - Machine Gun × 2 (ammo: 100)
-- **Battle Value:** 1303
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1342
 
 ## Uller (Kit Fox) W
 - **Role:** Undefined
@@ -109,7 +120,9 @@
   - ATM 3 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER PPC
   - ER Small Laser
-- **Battle Value:** 1356
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1415
 
 ## Uller (Kit Fox) G
 - **Role:** Undefined
@@ -124,7 +137,8 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 1329
+  - CASE
+- **Battle Value:** 1368
 
 ## Uller (Kit Fox) H
 - **Role:** Undefined
@@ -136,7 +150,9 @@
 - **Weapons:**
   - Heavy Medium Laser × 2
   - Gauss Rifle (ammo: 16)
-- **Battle Value:** 1206
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1214
 
 ## Uller (Kit Fox) F
 - **Role:** Undefined
@@ -148,7 +164,9 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - HAG 20 (ammo: 12)
-- **Battle Value:** 1211
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1219
 
 ## Uller (Kit Fox) R
 - **Role:** Undefined
@@ -160,7 +178,9 @@
 - **Weapons:**
   - RAC/5 (ammo: 40)
   - Streak SRM 6 (ammo: 15)
-- **Battle Value:** 1174
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1232
 
 ## Uller (Kit Fox) BLO
 - **Role:** Undefined
@@ -175,5 +195,6 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - Inner Sphere C3i
-- **Battle Value:** unknown
+  - CASE
+- **Battle Value:** 988
 

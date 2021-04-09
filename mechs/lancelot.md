@@ -116,7 +116,7 @@
   - ER PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1640
 
 ## Lancelot LNC25-06
 - **Role:** Undefined
@@ -124,7 +124,7 @@
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 179 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -133,7 +133,7 @@
 - **Equipment:**
   - Targeting Computer
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1661
 
 ## Lancelot LNC25-08
 - **Role:** Undefined
@@ -141,7 +141,7 @@
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
 - **Armor:** 152 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -149,5 +149,5 @@
   - PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1162
 

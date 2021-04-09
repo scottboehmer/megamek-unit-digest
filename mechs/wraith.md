@@ -35,7 +35,7 @@
   - Large Pulse Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1310
 
 ## Wraith TR2-X 'Alexander'
 - **Role:** Undefined

@@ -5,7 +5,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -25,7 +25,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -37,7 +37,7 @@
   - C3i
   - MG Array × 2
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 789
 
 ## Malak C-MK-OB Infernus
 - **Role:** Undefined
@@ -45,7 +45,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -54,7 +54,7 @@
 - **Equipment:**
   - C3i
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1047
 
 ## Malak C-MK-OC Comminus
 - **Role:** Undefined
@@ -62,7 +62,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -75,7 +75,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 944
 
 ## Malak C-MK-OD Luminos
 - **Role:** Undefined
@@ -83,7 +83,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -92,7 +92,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1055
 
 ## Malak C-MK-O (Mi)
 - **Role:** Undefined
@@ -100,7 +100,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -109,7 +109,7 @@
 - **Equipment:**
   - C3i
   - Supercharger
-- **Battle Value:** unknown
+- **Battle Value:** 758
 
 ## Malak C-MK-OE Eminus
 - **Role:** Undefined
@@ -117,7 +117,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -135,7 +135,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -143,5 +143,5 @@
   - ER PPC w/ PPC Capacitor
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1121
 

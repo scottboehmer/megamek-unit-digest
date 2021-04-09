@@ -14,7 +14,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1967
 
 ## Legacy LGC-02
 - **Role:** Undefined
@@ -32,7 +32,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 2033
 
 ## Legacy LGC-03
 - **Role:** Undefined
@@ -49,7 +49,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 2121
 
 ## Legacy LGC-04-WVR
 - **Role:** Undefined
@@ -57,7 +57,7 @@
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, Light
 - **Armor:** 245 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Claw × 2
@@ -65,7 +65,7 @@
 - **Equipment:**
   - C3i
   - MASC
-- **Battle Value:** unknown
+- **Battle Value:** 1745
 
 ## Legacy LGC-05
 - **Role:** Undefined
@@ -73,7 +73,7 @@
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 2, Compact
 - **Armor:** 247
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Medium VSP Laser × 2
@@ -83,5 +83,5 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1598
 

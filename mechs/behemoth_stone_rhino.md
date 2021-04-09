@@ -11,7 +11,9 @@
   - Machine Gun × 4 (ammo: 400)
   - Ultra AC/10 × 2 (ammo: 40)
   - LRM 10 × 4 (ammo: 48)
-- **Battle Value:** 2421
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2601
 
 ## Behemoth (Stone Rhino) 5
 - **Role:** Undefined
@@ -23,7 +25,9 @@
 - **Weapons:**
   - ER Medium Laser × 6
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster)
-- **Battle Value:** 2079
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2151
 
 ## Behemoth (Stone Rhino) (Standard)
 - **Role:** Undefined
@@ -36,7 +40,9 @@
   - Large Pulse Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
   - Small Pulse Laser
-- **Battle Value:** 2986
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3001
 
 ## Behemoth (Stone Rhino) 6
 - **Role:** Undefined
@@ -77,8 +83,9 @@
   - Gauss Rifle × 2 (ammo: 32)
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - CASE
   - A-Pod × 2
-- **Battle Value:** 3093
+- **Battle Value:** 3107
 
 ## Behemoth (Stone Rhino) 3
 - **Role:** Undefined
@@ -91,7 +98,9 @@
   - Large Pulse Laser × 4
   - ATM 9 × 2 (ammo: 14)
   - ER Micro Laser × 2
-- **Battle Value:** 2911
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2983
 
 ## Behemoth (Stone Rhino) 8
 - **Role:** Undefined
@@ -106,5 +115,6 @@
   - Small Pulse Laser
 - **Equipment:**
   - AES × 2
-- **Battle Value:** 2790
+  - CASE
+- **Battle Value:** 2804
 

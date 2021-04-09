@@ -9,7 +9,9 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 40)
-- **Battle Value:** 1264
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1336
 
 ## Corvis 2
 - **Role:** Undefined
@@ -22,6 +24,7 @@
   - Heavy Medium Laser × 2
   - HAG 20 (ammo: 18)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1447
+- **Battle Value:** 1455
 

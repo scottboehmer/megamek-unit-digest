@@ -12,7 +12,9 @@
   - Gauss Rifle (ammo: 16)
   - Streak SRM 4 × 2 (ammo: 25)
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2605
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2630
 
 ## Bruin 2
 - **Role:** Undefined
@@ -26,5 +28,7 @@
   - Ultra AC/5 × 2 (ammo: 40)
   - Machine Gun × 6 (ammo: 100)
   - SRM 2 (ammo: 50)
-- **Battle Value:** 2146
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2200
 

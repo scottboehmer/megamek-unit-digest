@@ -10,7 +10,9 @@
   - Medium Pulse Laser × 2
   - ER Micro Laser × 4
   - SRM 6 w/ Artemis IV (ammo: 30)
-- **Battle Value:** 1234
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1276
 
 ## Pack Hunter II (Standard)
 - **Role:** Undefined
@@ -45,7 +47,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 10, XL
 - **Armor:** 67 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC

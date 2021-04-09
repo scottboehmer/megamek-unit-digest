@@ -12,8 +12,9 @@
   - ER Medium Laser
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2230
+- **Battle Value:** 2314
 
 ## Thresher 2
 - **Role:** Undefined
@@ -28,8 +29,9 @@
   - ER Medium Laser
   - LB 5-X AC (ammo: 20 Cluster)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2274
+- **Battle Value:** 2337
 
 ## Thresher (Edward)
 - **Role:** Undefined
@@ -44,6 +46,7 @@
   - ER Medium Laser
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2041
+- **Battle Value:** 2104
 

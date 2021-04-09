@@ -11,6 +11,8 @@
   - Large Pulse Laser × 2
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
+- **Equipment:**
+  - CASE
 - **Battle Value:** 2377
 
 ## Guillotine IIC 2
@@ -26,5 +28,6 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2702
+  - CASE
+- **Battle Value:** 2721
 

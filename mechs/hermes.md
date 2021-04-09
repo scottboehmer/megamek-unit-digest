@@ -136,7 +136,7 @@
   - MASC
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1362
 
 ## Hermes HER-4WB
 - **Role:** Undefined

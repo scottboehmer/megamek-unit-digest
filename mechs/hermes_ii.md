@@ -73,7 +73,7 @@
   - ER Large Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1119
 
 ## Hermes II HER-6D
 - **Role:** Undefined
@@ -107,7 +107,7 @@
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
 - **Armor:** 120
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Flamer

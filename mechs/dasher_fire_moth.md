@@ -12,7 +12,8 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - MASC
-- **Battle Value:** 1206
+  - CASE
+- **Battle Value:** 1251
 
 ## Dasher (Fire Moth) A
 - **Role:** Undefined
@@ -26,9 +27,10 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - MASC
+  - CASE
   - TAG
   - Active Probe
-- **Battle Value:** 594
+- **Battle Value:** 639
 
 ## Dasher (Fire Moth) B
 - **Role:** Undefined
@@ -43,8 +45,9 @@
 - **Equipment:**
   - MASC
   - ECM Suite
+  - CASE
   - A-Pod
-- **Battle Value:** 1041
+- **Battle Value:** 1064
 
 ## Dasher (Fire Moth) C
 - **Role:** Undefined
@@ -58,7 +61,8 @@
   - Anti-Missile System (ammo: 48)
 - **Equipment:**
   - MASC
-- **Battle Value:** 651
+  - CASE
+- **Battle Value:** 741
 
 ## Dasher (Fire Moth) D
 - **Role:** Undefined
@@ -86,7 +90,8 @@
   - ATM 6 (ammo: 10)
 - **Equipment:**
   - MASC
-- **Battle Value:** 599
+  - CASE
+- **Battle Value:** 666
 
 ## Dasher (Fire Moth) H
 - **Role:** Undefined
@@ -129,8 +134,9 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - MASC
+  - CASE
   - Active Probe
-- **Battle Value:** 1457
+- **Battle Value:** 1461
 
 ## Dasher (Fire Moth) K
 - **Role:** Undefined
@@ -145,8 +151,9 @@
 - **Equipment:**
   - MASC
   - MG Array × 2
+  - CASE
   - B-Pod × 2
-- **Battle Value:** 801
+- **Battle Value:** 824
 
 ## Dasher (Fire Moth) G
 - **Role:** Undefined
@@ -175,8 +182,9 @@
   - ER Small Laser × 4
   - LRM 15 (ammo: 8)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 1178
+- **Battle Value:** 1200
 
 ## Dasher (Fire Moth) R
 - **Role:** Undefined
@@ -222,8 +230,9 @@
   - Improved Heavy Small Laser
   - LRM 5 (ammo: 24)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 1238
+- **Battle Value:** 1260
 
 ## Dasher (Fire Moth) J
 - **Role:** Undefined

@@ -13,9 +13,10 @@
   - Streak SRM 4 (ammo: 25)
   - LRM 20 (ammo: 12)
 - **Equipment:**
+  - CASE
   - MASC
   - ECM Suite
-- **Battle Value:** 2897
+- **Battle Value:** 3014
 
 ## Tundra Wolf 2
 - **Role:** Undefined
@@ -32,7 +33,8 @@
 - **Equipment:**
   - Targeting Computer
   - MASC
-- **Battle Value:** 3587
+  - CASE
+- **Battle Value:** 3626
 
 ## Tundra Wolf 3
 - **Role:** Undefined
@@ -49,7 +51,8 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - MASC
-- **Battle Value:** 3233
+  - CASE
+- **Battle Value:** 3292
 
 ## Tundra Wolf 4
 - **Role:** Undefined
@@ -64,9 +67,10 @@
   - AP Gauss Rifle × 2 (ammo: 40)
   - Large Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - MASC
   - ECM Suite
-- **Battle Value:** 2694
+- **Battle Value:** 2755
 
 ## Tundra Wolf 5
 - **Role:** Undefined
@@ -81,5 +85,7 @@
   - ER Large Laser
   - SRM 4 (ammo: 25)
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2595
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2645
 

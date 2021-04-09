@@ -40,7 +40,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1549
 
 ## Bombardier BMB-05A
 - **Role:** Undefined

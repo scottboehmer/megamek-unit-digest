@@ -53,7 +53,7 @@
 - **Equipment:**
   - C3i
   - MASC
-- **Battle Value:** unknown
+- **Battle Value:** 510
 
 ## Mercury MCY-104
 - **Role:** Undefined
@@ -69,5 +69,5 @@
   - C3i
   - MASC
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 683
 

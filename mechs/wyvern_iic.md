@@ -14,7 +14,9 @@
   - SRM 6 (ammo: 30)
   - LRM 10 (ammo: 24)
   - Flamer
-- **Battle Value:** 1534
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1624
 
 ## Wyvern IIC 2
 - **Role:** Undefined
@@ -32,5 +34,6 @@
   - ER Flamer
 - **Equipment:**
   - MG Array
-- **Battle Value:** 1470
+  - CASE
+- **Battle Value:** 1524
 

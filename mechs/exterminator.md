@@ -70,7 +70,7 @@
 - **Equipment:**
   - MASC
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1532
 
 ## Exterminator EXT-5F
 - **Role:** Undefined
@@ -86,7 +86,7 @@
 - **Equipment:**
   - MASC
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1485
 
 ## Exterminator EXT-6CS
 - **Role:** Undefined

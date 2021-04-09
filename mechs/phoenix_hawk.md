@@ -109,7 +109,9 @@
   - Medium Pulse Laser × 2
   - Ultra AC/2 × 2 (ammo: 90)
   - Machine Gun × 2 (ammo: 100)
-- **Battle Value:** 1338
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1396
 
 ## Phoenix Hawk PXH-3S
 - **Role:** Undefined
@@ -285,7 +287,7 @@
   - iNarc (ammo: 12)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1281
 
 ## Phoenix Hawk PXH-7S
 - **Role:** Undefined
@@ -352,7 +354,7 @@
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, Light
 - **Armor:** 136
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2
@@ -367,7 +369,7 @@
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XXL
 - **Armor:** 136
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Snub-Nose PPC × 2

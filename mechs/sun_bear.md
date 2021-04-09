@@ -10,7 +10,9 @@
   - Medium Pulse Laser × 2
   - ER Medium Laser × 2
   - Ultra AC/20 (ammo: 15)
-- **Battle Value:** 1963
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2022
 
 ## Sun Bear A
 - **Role:** Undefined
@@ -34,5 +36,7 @@
   - ER Large Laser × 2
   - ER Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
-- **Battle Value:** 2105
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2144
 

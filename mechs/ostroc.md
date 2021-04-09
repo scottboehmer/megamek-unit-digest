@@ -120,7 +120,7 @@
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
 - **Armor:** 201 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -128,7 +128,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1655
 
 ## Ostroc OSR-4K
 - **Role:** Undefined
@@ -136,7 +136,7 @@
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6
 - **Armor:** 152
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Snub-Nose PPC × 2

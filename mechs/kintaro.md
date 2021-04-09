@@ -101,5 +101,5 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1295
 

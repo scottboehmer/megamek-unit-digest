@@ -14,10 +14,11 @@
   - Flamer
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Equipment:**
+  - CASE
   - TAG
   - Active Probe
   - A-Pod × 2
-- **Battle Value:** 2030
+- **Battle Value:** 2108
 
 ## Nobori-nin (Huntsman) A
 - **Role:** Undefined
@@ -30,7 +31,9 @@
   - Large Pulse Laser × 2
   - LRM 10 (ammo: 12)
   - LB 2-X AC (ammo: 45)
-- **Battle Value:** 1995
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2034
 
 ## Nobori-nin (Huntsman) B
 - **Role:** Undefined
@@ -44,7 +47,9 @@
   - ER PPC
   - Medium Pulse Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Battle Value:** 2098
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2156
 
 ## Nobori-nin (Huntsman) C
 - **Role:** Undefined
@@ -61,7 +66,9 @@
   - ER Small Laser
   - LRM 20 (ammo: 6)
   - Flamer
-- **Battle Value:** 2121
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2199
 
 ## Nobori-nin (Huntsman) D
 - **Role:** Undefined
@@ -75,7 +82,9 @@
   - ATM 6 (ammo: 10)
   - Medium Pulse Laser × 2
   - Small Pulse Laser
-- **Battle Value:** 1818
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1916
 
 ## Nobori-nin (Huntsman) H
 - **Role:** Undefined
@@ -107,8 +116,9 @@
   - ER PPC
   - Heavy Medium Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2406
+- **Battle Value:** 2465
 
 ## Nobori-nin (Huntsman) E
 - **Role:** Undefined
@@ -126,7 +136,8 @@
 - **Equipment:**
   - Light Active Probe
   - Light TAG
-- **Battle Value:** 1935
+  - CASE
+- **Battle Value:** 2013
 
 ## Nobori-nin (Huntsman) I
 - **Role:** Undefined
@@ -140,7 +151,9 @@
   - Plasma Cannon (ammo: 20)
   - HAG 20 (ammo: 18)
   - ER Small Pulse Laser
-- **Battle Value:** 2269
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2277
 
 ## Nobori-nin (Huntsman) G
 - **Role:** Undefined
@@ -178,6 +191,7 @@
   - Streak LRM 5 × 2 (ammo: 24)
   - Micro Pulse Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2047
+- **Battle Value:** 2105
 

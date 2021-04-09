@@ -22,8 +22,9 @@
   - ER Medium Laser × 4
   - Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2641
+- **Battle Value:** 2657
 
 ## Mangonel MNL-4S
 - **Role:** Undefined

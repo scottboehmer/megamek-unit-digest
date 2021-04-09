@@ -27,6 +27,7 @@
   - Flamer × 4
 - **Equipment:**
   - MASC
+  - CASE
 - **Battle Value:** 831
 
 ## Snow Fox (Omni) B

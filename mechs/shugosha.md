@@ -13,3 +13,17 @@
   - Searchlight
 - **Battle Value:** unknown
 
+## Shugosha LAW-QM3 Q-Mech
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3051)
+- **Chassis:** 20 tons (Industrial)
+- **Movement:** 2 / 3 / 0
+- **Armor:** 35 (Commercial)
+- **Cockpit:** Industrial
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - PPC
+- **Equipment:**
+  - Drone Operating System
+- **Battle Value:** 210
+

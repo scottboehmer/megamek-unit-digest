@@ -120,7 +120,9 @@
   - ER Medium Laser × 2
   - Gauss Rifle (ammo: 24)
   - Streak SRM 4 (ammo: 25)
-- **Battle Value:** 1925
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1950
 
 ## Victor VTR-C
 - **Role:** Undefined

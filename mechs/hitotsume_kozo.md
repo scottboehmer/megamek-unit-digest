@@ -5,7 +5,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 8 (10) / 4, XL
 - **Armor:** 116 (Hardened)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 (6) / 7 (8) / 4, XL
 - **Armor:** 116 (Hardened)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

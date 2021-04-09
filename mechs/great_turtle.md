@@ -5,7 +5,7 @@
 - **Chassis:** 100 tons Quad (Endo Steel)
 - **Movement:** 3 / 4 / 3
 - **Armor:** 323 (Hardened)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

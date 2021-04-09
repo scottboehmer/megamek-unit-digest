@@ -40,7 +40,7 @@
   - TAG
   - C3i
   - Remote Sensor Dispenser
-- **Battle Value:** unknown
+- **Battle Value:** 1844
 
 ## Warlord BLR-2Dr
 - **Role:** Undefined

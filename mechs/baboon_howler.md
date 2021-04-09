@@ -8,7 +8,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 5 × 3 (ammo: 72)
-- **Battle Value:** 582
+- **Equipment:**
+  - CASE
+- **Battle Value:** 645
 
 ## Baboon (Howler) 4
 - **Role:** Undefined
@@ -19,7 +21,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 5 (ammo: 24)
-- **Battle Value:** 485
+- **Equipment:**
+  - CASE
+- **Battle Value:** 506
 
 ## Baboon (Howler) 5
 - **Role:** Undefined
@@ -42,8 +46,9 @@
 - **Weapons:**
   - ATM 3 × 4 (ammo: 40)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 715
+- **Battle Value:** 757
 
 ## Baboon (Howler) 3 'Devil'
 - **Role:** Undefined

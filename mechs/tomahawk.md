@@ -13,8 +13,9 @@
   - Medium Pulse Laser × 2
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 3051
+- **Battle Value:** 3101
 
 ## Tomahawk A
 - **Role:** Undefined
@@ -29,7 +30,9 @@
   - ER Large Laser
   - Medium Pulse Laser × 3
   - ER Small Laser
-- **Battle Value:** 2636
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2762
 
 ## Tomahawk B
 - **Role:** Undefined
@@ -44,7 +47,9 @@
   - Medium Pulse Laser × 5
   - ER Medium Laser × 6
   - LRM 10 (ammo: 12)
-- **Battle Value:** 3305
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3323
 
 ## Tomahawk C
 - **Role:** Undefined
@@ -57,5 +62,7 @@
   - Large Pulse Laser × 4
   - ATM 12 × 2 (ammo: 20)
   - ER Small Laser
-- **Battle Value:** 2913
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2985
 

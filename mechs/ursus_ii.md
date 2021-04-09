@@ -13,6 +13,7 @@
   - ER Small Laser × 2
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2030
+- **Battle Value:** 2069
 

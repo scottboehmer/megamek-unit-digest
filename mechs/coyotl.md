@@ -11,7 +11,9 @@
   - ER PPC
   - LRM 10 (ammo: 12)
   - Medium Pulse Laser
-- **Battle Value:** 1932
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1974
 
 ## Coyotl A
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - Large Pulse Laser
   - Streak SRM 4 × 2 (ammo: 25)
   - Small Pulse Laser
-- **Battle Value:** 1732
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1753
 
 ## Coyotl B
 - **Role:** Undefined
@@ -37,7 +41,9 @@
   - SRM 6 (ammo: 15)
   - Ultra AC/10 (ammo: 20)
   - ER Medium Laser
-- **Battle Value:** 1384
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1447
 
 ## Coyotl C
 - **Role:** Undefined
@@ -51,8 +57,9 @@
   - ER Large Laser
   - Plasma Cannon (ammo: 20)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1809
+- **Battle Value:** 1851
 
 ## Coyotl D
 - **Role:** Undefined
@@ -66,8 +73,9 @@
   - Improved Heavy Large Laser
   - AP Gauss Rifle (ammo: 40)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - Supercharger
   - TAG
-- **Battle Value:** 1957
+- **Battle Value:** 1980
 

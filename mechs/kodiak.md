@@ -11,7 +11,9 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - Ultra AC/20 (ammo: 10)
   - ER Large Laser
-- **Battle Value:** 2855
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2927
 
 ## Kodiak 5
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - ER Large Laser × 2
   - ER Medium Laser × 9
   - Gauss Rifle (ammo: 16)
-- **Battle Value:** 3060
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3067
 
 ## Kodiak 2
 - **Role:** Undefined
@@ -38,7 +42,9 @@
   - Streak SRM 6 (ammo: 15)
   - Ultra AC/20 (ammo: 10)
   - ER Large Laser
-- **Battle Value:** 2802
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2856
 
 ## Kodiak 4
 - **Role:** Undefined
@@ -51,7 +57,9 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - ER Medium Laser × 4
   - LB 20-X AC (ammo: 5 Cluster, 5 Standard)
-- **Battle Value:** 2638
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2728
 
 ## Kodiak (Cale)
 - **Role:** Undefined
@@ -69,8 +77,9 @@
   - Inner Sphere AC/10 (ammo: 20)
 - **Equipment:**
   - Inner Sphere C3 Master
+  - CASE
   - Inner Sphere Beagle Active Probe
-- **Battle Value:** 2463
+- **Battle Value:** 2535
 
 ## Kodiak 3
 - **Role:** Undefined
@@ -84,5 +93,6 @@
   - LB 20-X AC × 2 (ammo: 15 Standard, 15 Cluster)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2579
+  - CASE
+- **Battle Value:** 2615
 

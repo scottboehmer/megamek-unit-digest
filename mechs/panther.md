@@ -170,7 +170,7 @@
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 8, XL
 - **Armor:** 96
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Rifle (ammo: 10)

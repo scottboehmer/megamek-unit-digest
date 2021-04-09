@@ -12,7 +12,8 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - MASC
-- **Battle Value:** 1831
+  - CASE
+- **Battle Value:** 1873
 
 ## Hellion A
 - **Role:** Undefined
@@ -26,7 +27,8 @@
   - ER Medium Laser
 - **Equipment:**
   - MASC
-- **Battle Value:** 1501
+  - CASE
+- **Battle Value:** 1543
 
 ## Hellion B
 - **Role:** Undefined
@@ -55,8 +57,9 @@
   - ATM 6 (ammo: 10)
 - **Equipment:**
   - MASC
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1920
+- **Battle Value:** 1983
 
 ## Hellion D
 - **Role:** Undefined
@@ -71,7 +74,8 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - MASC
-- **Battle Value:** 1719
+  - CASE
+- **Battle Value:** 1761
 
 ## Hellion E
 - **Role:** Undefined
@@ -87,8 +91,9 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - MASC
+  - CASE
   - ECM Suite
-- **Battle Value:** 1268
+- **Battle Value:** 1292
 
 ## Hellion F
 - **Role:** Undefined
@@ -105,6 +110,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - MASC
+  - CASE
   - Active Probe
-- **Battle Value:** 1570
+- **Battle Value:** 1594
 

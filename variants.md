@@ -2,6 +2,14 @@
 
 ## 15 Tons
 
+### [Celerity](mechs/celerity.md)
+- **Celerity CLR-02-X-D** *(3052)*
+- **Celerity  CLR-03-O** *(3138)*
+- **Celerity  CLR-03-OB** *(3138)*
+- **Celerity  CLR-03-OC** *(3138)*
+- **Celerity  CLR-03-OD** *(3138)*
+- **Celerity  CLR-03-OE** *(3138)*
+
 ### [Flea](mechs/flea.md)
 - **Flea FLE-14** *(2519)*
 
@@ -134,6 +142,7 @@
 
 ### [Shugosha](mechs/shugosha.md)
 - **Shugosha PTN-LAW LoaderMech** *(2627)*
+- **Shugosha LAW-QM3 Q-Mech** *(3051)*
 
 ### [Snow Fox](mechs/snow_fox.md)
 - **Snow Fox (Standard)** *(3015)*
@@ -650,6 +659,12 @@
 - **Razorback RZK-9T** *(3066)*
 - **Razorback RZK-10T** *(3071)*
 - **Razorback RZK-10S** *(3079)*
+
+### [Revenant](mechs/revenant.md)
+- **Revenant UBM-2R** *(3139)*
+- **Revenant UBM-2R2** *(3139)*
+- **Revenant UBM-2R3** *(3141)*
+- **Revenant UBM-2R4** *(3142)*
 
 ### [Scarabus](mechs/scarabus.md)
 - **Scarabus SCB-9A** *(3053)*
@@ -1426,6 +1441,9 @@
 - **Firestarter  FS9-OF** *(3060)*
 - **Firestarter  FS9-OG** *(3063)*
 - **Firestarter  FS9-OH** *(3069)*
+
+### [Gestalt](mechs/gestalt.md)
+- **Gestalt D2X-G** *(3078)*
 
 ### [Goshawk II](mechs/goshawk_ii.md)
 - **Goshawk II (Standard)** *(3086)*
@@ -2233,6 +2251,12 @@
 - **Ryoken (Stormcrow)  F** *(3069)*
 - **Ryoken (Stormcrow)  Z** *(3072)*
 - **Ryoken (Stormcrow)  J** *(3150)*
+
+### [Ryoken III-XP](mechs/ryoken_iii-xp.md)
+- **Ryoken III-XP  Prime** *(3143)*
+- **Ryoken III-XP  B** *(3143)*
+- **Ryoken III-XP  C** *(3143)*
+- **Ryoken III-XP  D** *(3143)*
 
 ### [Scorpion](mechs/scorpion.md)
 - **Scorpion SCP-1N** *(2570)*

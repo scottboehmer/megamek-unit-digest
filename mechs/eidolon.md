@@ -11,5 +11,5 @@
   - Snub-Nose PPC × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1505
 

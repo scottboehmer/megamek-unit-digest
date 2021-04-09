@@ -10,8 +10,9 @@
   - ER Medium Laser × 2
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 990
+- **Battle Value:** 1029
 
 ## Arbalest 2
 - **Role:** Undefined
@@ -25,8 +26,9 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - MASC
+  - CASE
   - ECM Suite
-- **Battle Value:** 1077
+- **Battle Value:** 1098
 
 ## Arbalest 3
 - **Role:** Undefined
@@ -38,5 +40,7 @@
 - **Weapons:**
   - ER Small Laser × 4
   - LRM 10 × 2 (ammo: 24)
-- **Battle Value:** 882
+- **Equipment:**
+  - CASE
+- **Battle Value:** 921
 

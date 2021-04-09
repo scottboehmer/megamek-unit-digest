@@ -13,8 +13,9 @@
   - LRM 10 × 3 (ammo: 24)
   - Heavy Large Laser
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2075
+- **Battle Value:** 2114
 
 ## Hellfire 2
 - **Role:** Undefined
@@ -30,8 +31,9 @@
   - Heavy Large Laser
   - ATM 6 × 2 (ammo: 20)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2202
+- **Battle Value:** 2286
 
 ## Hellfire 3
 - **Role:** Undefined
@@ -46,6 +48,7 @@
   - Flamer × 2
   - SRM 6 × 2 (ammo: 45)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2099
+- **Battle Value:** 2138
 

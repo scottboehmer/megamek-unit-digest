@@ -5,7 +5,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Compact
 - **Armor:** 231 (Heavy Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

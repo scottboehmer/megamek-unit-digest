@@ -11,6 +11,7 @@
   - LRM 10 (ammo: 12)
   - ER PPC
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2488
+- **Battle Value:** 2506
 

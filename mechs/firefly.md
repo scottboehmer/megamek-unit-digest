@@ -96,7 +96,9 @@
   - ER Small Laser × 4
   - Medium Pulse Laser × 3
   - SRM 2 (ammo: 50)
-- **Battle Value:** 1270
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1290
 
 ## Firefly FFL-4B
 - **Role:** Undefined

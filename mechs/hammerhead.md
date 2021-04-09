@@ -11,6 +11,7 @@
   - Large Pulse Laser
   - ER Medium Laser
 - **Equipment:**
+  - CASE
   - AES × 2
-- **Battle Value:** 1667
+- **Battle Value:** 1686
 

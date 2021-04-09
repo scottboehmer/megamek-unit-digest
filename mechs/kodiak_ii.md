@@ -12,6 +12,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
   - ER PPC
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2976
+- **Battle Value:** 3066
 

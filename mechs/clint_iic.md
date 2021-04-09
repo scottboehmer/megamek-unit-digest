@@ -9,7 +9,9 @@
 - **Weapons:**
   - LB 10-X AC (ammo: 20 Standard, 20 Cluster)
   - ER Medium Laser × 2
-- **Battle Value:** 1317
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1395
 
 ## Clint IIC 2
 - **Role:** Undefined

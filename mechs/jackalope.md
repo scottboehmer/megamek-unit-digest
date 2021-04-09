@@ -11,8 +11,9 @@
   - ATM 6 (ammo: 10)
   - Laser Anti-Missile System
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 1374
+- **Battle Value:** 1395
 
 ## Jackalope JLP-C
 - **Role:** Undefined
@@ -26,9 +27,10 @@
   - SRM 6 (ammo: 30)
   - Laser Anti-Missile System
 - **Equipment:**
+  - CASE
   - Inner Sphere C3 Slave
   - Light Active Probe
-- **Battle Value:** 1211
+- **Battle Value:** 1253
 
 ## Jackalope JLP-KA
 - **Role:** Undefined
@@ -52,7 +54,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 7, XXL
 - **Armor:** 105 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
   - ER Medium Laser × 2

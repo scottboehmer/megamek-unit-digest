@@ -29,7 +29,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1528
 
 ## Shootist ST-9C
 - **Role:** Undefined
@@ -45,5 +45,5 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1727
 

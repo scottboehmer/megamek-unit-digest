@@ -14,7 +14,8 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - MASC
-- **Battle Value:** 2545
+  - CASE
+- **Battle Value:** 2623
 
 ## Woodsman A
 - **Role:** Undefined
@@ -48,7 +49,8 @@
   - Small Pulse Laser
 - **Equipment:**
   - MASC
-- **Battle Value:** 2367
+  - CASE
+- **Battle Value:** 2414
 
 ## Woodsman C
 - **Role:** Undefined
@@ -62,6 +64,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - MASC
+  - CASE
   - Watchdog CEWS
-- **Battle Value:** 2191
+- **Battle Value:** 2230
 

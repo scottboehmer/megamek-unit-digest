@@ -5,7 +5,7 @@
 - **Chassis:** 40 tons (Endo Composite)
 - **Movement:** 5 / 8 / 3, XL
 - **Armor:** 128
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan ER Medium Laser × 3
@@ -26,7 +26,7 @@
 - **Chassis:** 40 tons (Endo Composite)
 - **Movement:** 5 / 8 / 3, XL
 - **Armor:** 128
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan ER Medium Laser × 3

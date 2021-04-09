@@ -13,8 +13,9 @@
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1742
+- **Battle Value:** 1778
 
 ## Ursus 2
 - **Role:** Undefined
@@ -28,7 +29,9 @@
   - Plasma Cannon (ammo: 20)
   - HAG 20 (ammo: 6)
   - ER Medium Laser
-- **Battle Value:** 2044
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2054
 
 ## Ursus PR
 - **Role:** Undefined
@@ -45,7 +48,7 @@
 - **Equipment:**
   - CASE II
   - Inner Sphere C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1194
 
 ## Ursus 3
 - **Role:** Undefined

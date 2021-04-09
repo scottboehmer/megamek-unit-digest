@@ -182,7 +182,7 @@
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 96 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - iNarc (ammo: 12)

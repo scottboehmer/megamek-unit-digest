@@ -9,7 +9,9 @@
 - **Weapons:**
   - Improved Heavy Medium Laser × 2
   - AP Gauss Rifle (ammo: 40)
-- **Battle Value:** 729
+- **Equipment:**
+  - CASE
+- **Battle Value:** 730
 
 ## Stinger IIC 2
 - **Role:** Undefined

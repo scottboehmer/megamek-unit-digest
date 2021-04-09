@@ -24,7 +24,9 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
   - ER Large Laser
-- **Battle Value:** 1919
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2003
 
 ## Crimson Langur B
 - **Role:** Undefined
@@ -37,8 +39,9 @@
   - ER Medium Laser × 3
   - ATM 9 (ammo: 7)
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 1982
+- **Battle Value:** 2045
 
 ## Crimson Langur C
 - **Role:** Undefined
@@ -51,7 +54,9 @@
   - ER Micro Laser × 4
   - Ultra AC/10 (ammo: 20)
   - Micro Pulse Laser × 4
-- **Battle Value:** 1395
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1437
 
 ## Crimson Langur D
 - **Role:** Undefined
@@ -65,9 +70,10 @@
   - SRM 4 × 4 (ammo: 50)
   - ER Micro Laser × 4
 - **Equipment:**
+  - CASE
   - Light TAG
   - Targeting Computer
-- **Battle Value:** 1825
+- **Battle Value:** 1867
 
 ## Crimson Langur E
 - **Role:** Undefined
@@ -80,5 +86,7 @@
   - Medium Pulse Laser × 3
   - ER Small Laser × 6
   - Streak SRM 4 × 2 (ammo: 25)
-- **Battle Value:** 2030
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2051
 

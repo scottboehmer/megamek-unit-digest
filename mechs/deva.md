@@ -5,7 +5,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -23,7 +23,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -36,7 +36,7 @@
   - C3i
   - CASE
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 1727
 
 ## Deva C-DVA-OB Infernus
 - **Role:** Undefined
@@ -44,7 +44,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -54,7 +54,7 @@
   - C3i
   - Targeting Computer
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1713
 
 ## Deva C-DVA-OC Comminus
 - **Role:** Undefined
@@ -62,7 +62,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -73,7 +73,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1749
 
 ## Deva C-DVA-OD Luminos
 - **Role:** Undefined
@@ -81,7 +81,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -91,7 +91,7 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1711
 
 ## Deva C-DVA-O (Achilleus)
 - **Role:** Undefined
@@ -99,7 +99,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -109,7 +109,7 @@
   - C3i
   - Supercharger
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 1595
 
 ## Deva C-DVA-OE Eminus
 - **Role:** Undefined
@@ -117,7 +117,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -135,7 +135,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, Light
 - **Armor:** 216
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

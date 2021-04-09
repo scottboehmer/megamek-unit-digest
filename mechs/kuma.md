@@ -22,5 +22,7 @@
   - Plasma Cannon (ammo: 20)
   - ER Medium Laser × 2
   - ATM 9 (ammo: 14)
-- **Battle Value:** 2095
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2173
 

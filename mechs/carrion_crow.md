@@ -10,7 +10,9 @@
   - HAG 20 (ammo: 18)
   - Improved Heavy Medium Laser
   - ER Small Laser
-- **Battle Value:** 1617
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1625
 
 ## Carrion Crow B
 - **Role:** Undefined
@@ -25,8 +27,9 @@
   - ATM 9 (ammo: 14)
 - **Equipment:**
   - Supercharger
+  - CASE
   - Watchdog CEWS
-- **Battle Value:** 2041
+- **Battle Value:** 2083
 
 ## Carrion Crow C
 - **Role:** Undefined
@@ -54,5 +57,7 @@
   - ER Large Laser
   - Improved Heavy Medium Laser
   - Streak SRM 6 (ammo: 15)
-- **Battle Value:** 1906
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1930
 

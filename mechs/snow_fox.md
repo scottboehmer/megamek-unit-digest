@@ -23,8 +23,9 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 583
+- **Battle Value:** 604
 
 ## Snow Fox 3
 - **Role:** Undefined
@@ -38,6 +39,7 @@
   - ATM 3 (ammo: 40)
   - ER Medium Laser
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 858
+- **Battle Value:** 903
 

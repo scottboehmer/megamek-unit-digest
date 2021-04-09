@@ -123,7 +123,7 @@
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 216 (Stealth)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
@@ -175,7 +175,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
 - **Armor:** 216 (Laser Reflective)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Small VSP Laser × 2

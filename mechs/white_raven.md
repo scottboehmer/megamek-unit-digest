@@ -12,8 +12,9 @@
   - Medium Pulse Laser × 2
   - ER Small Laser × 4
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2938
+- **Battle Value:** 2941
 
 ## White Raven 2
 - **Role:** Undefined

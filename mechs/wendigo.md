@@ -12,7 +12,9 @@
   - ER Medium Laser × 4
   - Ultra AC/2 (ammo: 45)
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2085
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2122
 
 ## Wendigo A
 - **Role:** Undefined
@@ -25,6 +27,8 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - LRM 15 (ammo: 16)
+- **Equipment:**
+  - CASE
 - **Battle Value:** 2072
 
 ## Wendigo B
@@ -56,6 +60,7 @@
   - ER Small Laser
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
+  - CASE
   - Supercharger
-- **Battle Value:** 2588
+- **Battle Value:** 2628
 

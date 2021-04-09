@@ -10,8 +10,9 @@
   - ER PPC × 4
   - LRM 10 (ammo: 12)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 3176
+- **Battle Value:** 3194
 
 ## Masakari (Warhawk) A
 - **Role:** Undefined
@@ -26,8 +27,9 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 15 (ammo: 8)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2327
+- **Battle Value:** 2399
 
 ## Masakari (Warhawk) B
 - **Role:** Undefined
@@ -43,8 +45,9 @@
   - SRM 6 × 2 (ammo: 75)
   - Narc (ammo: 6)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2223
+- **Battle Value:** 2320
 
 ## Masakari (Warhawk) C
 - **Role:** Undefined
@@ -74,8 +77,9 @@
   - ER Large Laser × 2
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2304
+- **Battle Value:** 2394
 
 ## Masakari (Warhawk) F
 - **Role:** Undefined
@@ -90,8 +94,9 @@
   - Ultra AC/2 (ammo: 45)
   - LRM 10 (ammo: 12)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2721
+- **Battle Value:** 2775
 
 ## Masakari (Warhawk) H
 - **Role:** Undefined
@@ -105,8 +110,9 @@
   - Large Pulse Laser × 2
   - LRM 10 (ammo: 12)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2583
+- **Battle Value:** 2601
 
 ## Masakari (Warhawk) E
 - **Role:** Undefined
@@ -121,6 +127,7 @@
   - ER PPC
   - Large Pulse Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2877
+- **Battle Value:** 2895
 

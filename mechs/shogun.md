@@ -27,7 +27,9 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - Streak SRM 6 × 4 (ammo: 30)
   - ER PPC
-- **Battle Value:** 2900
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3008
 
 ## Shogun SHG-2E
 - **Role:** Undefined

@@ -10,7 +10,9 @@
   - Ultra AC/5 × 2 (ammo: 80)
   - ER Large Laser
   - SRM 6 (ammo: 15)
-- **Battle Value:** 1497
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1594
 
 ## Dark Crow 2
 - **Role:** Undefined
@@ -24,8 +26,9 @@
   - ER Large Laser
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1536
+- **Battle Value:** 1575
 
 ## Dark Crow 4
 - **Role:** Undefined
@@ -39,6 +42,7 @@
   - Heavy Medium Laser
   - SRM 6 (ammo: 15)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1440
+- **Battle Value:** 1538
 

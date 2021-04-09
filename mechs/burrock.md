@@ -9,7 +9,9 @@
 - **Weapons:**
   - Heavy Medium Laser × 6
   - Ultra AC/20 (ammo: 20)
-- **Battle Value:** 2152
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2230
 
 ## Burrock 2
 - **Role:** Undefined
@@ -22,5 +24,7 @@
   - Heavy Medium Laser × 3
   - HAG 40 (ammo: 15)
   - ER Medium Laser × 3
-- **Battle Value:** 2851
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2864
 

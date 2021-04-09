@@ -9,9 +9,10 @@
 - **Weapons:**
   - SRM 4 × 4 (ammo: 75)
 - **Equipment:**
+  - CASE
   - Light TAG
   - Active Probe
-- **Battle Value:** 697
+- **Battle Value:** 760
 
 ## Koshi (Standard) 2
 - **Role:** Undefined
@@ -23,8 +24,9 @@
 - **Weapons:**
   - Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
+  - CASE
   - Light TAG
-- **Battle Value:** 906
+- **Battle Value:** 948
 
 ## Koshi (Standard) 3
 - **Role:** Undefined

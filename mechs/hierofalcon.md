@@ -11,9 +11,10 @@
   - HAG 20 (ammo: 12)
 - **Equipment:**
   - Partial Wing
+  - CASE
   - ECM Suite
   - TAG
-- **Battle Value:** 1870
+- **Battle Value:** 1878
 
 ## Hierofalcon A
 - **Role:** Undefined
@@ -29,7 +30,8 @@
   - Large Pulse Laser
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 1950
+  - CASE
+- **Battle Value:** 1953
 
 ## Hierofalcon B
 - **Role:** Undefined
@@ -59,7 +61,8 @@
   - RAC/2 (ammo: 90)
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 1941
+  - CASE
+- **Battle Value:** 1983
 
 ## Hierofalcon D
 - **Role:** Undefined

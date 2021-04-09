@@ -39,7 +39,7 @@
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 152 (Stealth)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -57,7 +57,7 @@
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 152 (Stealth)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

@@ -21,7 +21,9 @@
   - ER PPC × 2
   - Medium Pulse Laser
   - Anti-Missile System × 2 (ammo: 24)
-- **Battle Value:** 2402
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2422
 
 ## Black Hawk (Nova) B
 - **Role:** Undefined
@@ -35,7 +37,9 @@
   - Ultra AC/5 (ammo: 20)
   - Machine Gun × 2 (ammo: 200)
   - ER Small Laser
-- **Battle Value:** 1504
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1543
 
 ## Black Hawk (Nova) C
 - **Role:** Undefined
@@ -48,7 +52,9 @@
   - Gauss Rifle (ammo: 8)
   - SRM 4 (ammo: 25)
   - Small Pulse Laser
-- **Battle Value:** 1488
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1515
 
 ## Black Hawk (Nova) D
 - **Role:** Undefined
@@ -60,7 +66,9 @@
 - **Weapons:**
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - LRM 20 (ammo: 12)
-- **Battle Value:** 1372
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1450
 
 ## Black Hawk (Nova) S
 - **Role:** Undefined
@@ -74,8 +82,9 @@
   - Machine Gun × 4 (ammo: 100)
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 2017
+- **Battle Value:** 2056
 
 ## Black Hawk (Nova) E
 - **Role:** Undefined
@@ -87,7 +96,9 @@
 - **Weapons:**
   - ER Medium Laser × 3
   - ATM 12 (ammo: 10)
-- **Battle Value:** 1771
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1888
 
 ## Black Hawk (Nova) H
 - **Role:** Undefined
@@ -110,7 +121,9 @@
 - **Weapons:**
   - ER Medium Laser × 3
   - HAG 20 (ammo: 18)
-- **Battle Value:** 1968
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1976
 
 ## Black Hawk (Nova) I
 - **Role:** Undefined
@@ -134,5 +147,7 @@
 - **Weapons:**
   - Inner Sphere TSEMP
   - ER Medium Laser × 6
-- **Battle Value:** 2755
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2761
 

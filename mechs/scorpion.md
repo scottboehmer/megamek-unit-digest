@@ -62,7 +62,7 @@
   - iNarc (ammo: 16)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1259
 
 ## Scorpion SCP-12K
 - **Role:** Undefined
@@ -99,7 +99,7 @@
 - **Chassis:** 55 tons Quad (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 144
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 10 (ammo: 12)

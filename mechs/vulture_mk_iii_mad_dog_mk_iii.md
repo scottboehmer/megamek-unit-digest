@@ -9,7 +9,9 @@
 - **Weapons:**
   - ER Medium Laser × 6
   - LRM 20 × 4 (ammo: 24)
-- **Battle Value:** 2651
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2729
 
 ## Vulture Mk III (Mad Dog Mk III) A
 - **Role:** Undefined
@@ -22,7 +24,9 @@
   - Ultra AC/5 × 2 (ammo: 40)
   - SRM 6 × 4 (ammo: 30)
   - Medium Pulse Laser × 2
-- **Battle Value:** 1802
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1880
 
 ## Vulture Mk III (Mad Dog Mk III) B
 - **Role:** Undefined
@@ -35,7 +39,9 @@
   - ER Large Laser × 2
   - LRM 20 × 2 (ammo: 24)
   - ER Medium Laser × 2
-- **Battle Value:** 2494
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2572
 
 ## Vulture Mk III (Mad Dog Mk III) BLO
 - **Role:** Undefined
@@ -50,8 +56,9 @@
   - Inner Sphere Light PPC
   - LRM 15 × 4 (ammo: 32)
 - **Equipment:**
+  - CASE
   - Inner Sphere C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2397
 
 ## Vulture Mk III (Mad Dog Mk III) C
 - **Role:** Undefined
@@ -63,7 +70,9 @@
 - **Weapons:**
   - Micro Pulse Laser × 4
   - Streak SRM 6 × 8 (ammo: 60)
-- **Battle Value:** 2221
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2299
 
 ## Vulture Mk III (Mad Dog Mk III) D
 - **Role:** Undefined
@@ -75,5 +84,7 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - RAC/5 × 2 (ammo: 120)
-- **Battle Value:** 2343
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2421
 

@@ -10,8 +10,9 @@
   - Medium Pulse Laser × 4
   - ATM 12 (ammo: 10)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1861
+- **Battle Value:** 1939
 
 ## Rabid Coyote 2
 - **Role:** Undefined
@@ -24,7 +25,8 @@
   - ER Medium Laser × 4
   - ATM 3 × 6 (ammo: 40 Standard, 40 ER, 40 HE)
 - **Equipment:**
+  - CASE
   - Active Probe
   - ECM Suite
-- **Battle Value:** 1966
+- **Battle Value:** 2083
 

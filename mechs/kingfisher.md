@@ -12,7 +12,9 @@
   - Large Pulse Laser × 2
   - LRM 10 (ammo: 12)
   - Medium Pulse Laser × 2
-- **Battle Value:** 2365
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2401
 
 ## Kingfisher A
 - **Role:** Undefined
@@ -28,7 +30,9 @@
   - SRM 6 (ammo: 15)
   - ER Small Laser
   - ER PPC
-- **Battle Value:** 2207
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2261
 
 ## Kingfisher B
 - **Role:** Undefined
@@ -43,7 +47,9 @@
   - ER Small Laser
   - Ultra AC/20 (ammo: 10)
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 2436
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2472
 
 ## Kingfisher C
 - **Role:** Undefined
@@ -67,7 +73,9 @@
 - **Weapons:**
   - ER Large Laser × 3
   - Ultra AC/10 (ammo: 20)
-- **Battle Value:** 2328
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2364
 
 ## Kingfisher H
 - **Role:** Undefined
@@ -94,7 +102,9 @@
   - ATM 12 (ammo: 5)
   - Large Pulse Laser
   - Medium Pulse Laser × 4
-- **Battle Value:** 2273
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2327
 
 ## Kingfisher F
 - **Role:** Undefined
@@ -108,8 +118,9 @@
   - ER Medium Laser × 3
   - ER Large Laser
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2559
+- **Battle Value:** 2568
 
 ## Kingfisher X
 - **Role:** Undefined
@@ -124,7 +135,8 @@
   - ER Medium Pulse Laser × 2
   - ER PPC
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 2725
+- **Battle Value:** 2761
 

@@ -10,7 +10,9 @@
   - ER PPC × 2
   - Heavy Medium Laser × 2
   - ATM 6 × 2 (ammo: 20)
-- **Battle Value:** 2414
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2522
 
 ## Blood Reaper 2
 - **Role:** Undefined
@@ -24,5 +26,7 @@
   - Heavy Medium Laser × 2
   - Medium Pulse Laser × 2
   - ATM 6 × 2 (ammo: 20)
-- **Battle Value:** 2296
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2404
 

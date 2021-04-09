@@ -10,8 +10,9 @@
   - ER Medium Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 18)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2369
+- **Battle Value:** 2428
 
 ## Lupus A
 - **Role:** Undefined
@@ -24,7 +25,9 @@
   - Large Pulse Laser
   - ER Medium Laser × 2
   - Ultra AC/10 (ammo: 30)
-- **Battle Value:** 1868
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1927
 
 ## Lupus B
 - **Role:** Undefined
@@ -38,7 +41,9 @@
   - Medium Pulse Laser × 2
   - ER Small Laser × 2
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
-- **Battle Value:** 1927
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1985
 
 ## Lupus C
 - **Role:** Undefined
@@ -67,5 +72,7 @@
   - ER Medium Pulse Laser × 2
   - RAC/5 (ammo: 60)
   - Streak LRM 10 (ammo: 12)
-- **Battle Value:** 1952
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2030
 

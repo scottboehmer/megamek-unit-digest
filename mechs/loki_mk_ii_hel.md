@@ -11,7 +11,9 @@
   - Gauss Rifle × 2 (ammo: 24)
   - ER Large Laser × 2
   - Streak SRM 4 (ammo: 25)
-- **Battle Value:** 2159
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2189
 
 ## Loki Mk II (Hel) A
 - **Role:** Undefined
@@ -28,6 +30,7 @@
   - Improved Heavy Medium Laser × 2
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
+  - CASE
   - Angel ECM Suite
-- **Battle Value:** 2212
+- **Battle Value:** 2249
 

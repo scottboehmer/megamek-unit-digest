@@ -5,7 +5,7 @@
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
@@ -23,7 +23,7 @@
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Large Pulse Laser × 2
@@ -39,7 +39,7 @@
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Large Re-Engineered Laser
@@ -57,7 +57,7 @@
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Clan ER PPC
@@ -73,7 +73,7 @@
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Clan ER PPC × 2

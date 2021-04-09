@@ -13,8 +13,9 @@
   - SRM 6 × 4 (ammo: 30)
 - **Equipment:**
   - Partial Wing
+  - CASE
   - Supercharger
-- **Battle Value:** 2118
+- **Battle Value:** 2160
 
 ## Jade Hawk JHK-04
 - **Role:** Undefined
@@ -22,13 +23,15 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
 - **Armor:** 230 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Inner Sphere Claw × 2
   - ER Small Laser × 3
   - Streak LRM 15 × 2 (ammo: 24)
-- **Battle Value:** 2063
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2102
 
 ## Jade Hawk (Standard)
 - **Role:** Undefined
@@ -41,10 +44,11 @@
   - ER Small Laser × 4
   - Streak SRM 6 × 4 (ammo: 60)
 - **Equipment:**
+  - CASE
   - Partial Wing
   - Supercharger
   - Light Active Probe
-- **Battle Value:** 2439
+- **Battle Value:** 2523
 
 ## Jade Hawk 2
 - **Role:** Undefined
@@ -57,7 +61,9 @@
   - ER Large Laser × 2
   - ER Small Laser × 3
   - ATM 6 × 4 (ammo: 20)
-- **Battle Value:** 2306
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2384
 
 ## Jade Hawk 3
 - **Role:** Undefined
@@ -70,5 +76,7 @@
   - Medium Pulse Laser × 2
   - ER Small Laser × 3
   - ATM 6 × 4 (ammo: 20)
-- **Battle Value:** 2328
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2406
 

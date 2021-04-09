@@ -56,5 +56,5 @@
   - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2128
 

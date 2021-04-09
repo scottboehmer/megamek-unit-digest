@@ -10,7 +10,9 @@
   - ER PPC × 2
   - Ultra AC/10 (ammo: 20)
   - Medium Pulse Laser × 3
-- **Battle Value:** 2794
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2830
 
 ## Night Gyr A
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - Medium Pulse Laser × 3
   - Ultra AC/20 (ammo: 15)
   - Streak SRM 6 × 2 (ammo: 15)
-- **Battle Value:** 2608
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2680
 
 ## Night Gyr B
 - **Role:** Undefined
@@ -36,7 +40,9 @@
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 24)
   - LB 2-X AC × 2 (ammo: 45)
-- **Battle Value:** 2107
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2140
 
 ## Night Gyr C
 - **Role:** Undefined
@@ -50,8 +56,9 @@
   - ER Large Laser × 2
   - ER Medium Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2432
+- **Battle Value:** 2468
 
 ## Night Gyr D
 - **Role:** Undefined
@@ -64,7 +71,9 @@
   - LRM 20 w/ Artemis IV × 4 (ammo: 36)
   - Large Pulse Laser
   - Medium Pulse Laser
-- **Battle Value:** 2781
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2889
 
 ## Night Gyr E
 - **Role:** Undefined
@@ -78,7 +87,9 @@
   - Medium Pulse Laser × 6
   - ATM 6 (ammo: 20)
   - SRM 6 (ammo: 15)
-- **Battle Value:** 2663
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2717
 
 ## Night Gyr H
 - **Role:** Undefined
@@ -93,8 +104,9 @@
   - Heavy Large Laser
   - Medium Pulse Laser
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2385
+- **Battle Value:** 2428
 
 ## Night Gyr F
 - **Role:** Undefined
@@ -108,7 +120,8 @@
   - HAG 30 (ammo: 16)
   - ER Medium Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 2942
+- **Battle Value:** 2958
 

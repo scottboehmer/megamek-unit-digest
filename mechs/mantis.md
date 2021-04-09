@@ -35,7 +35,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
 - **Armor:** 98 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Claw × 2
@@ -52,7 +52,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
 - **Armor:** 104 (Laser Reflective)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Claw × 2
@@ -68,7 +68,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
 - **Armor:** 104 (Reactive)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Claw × 2
@@ -84,7 +84,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 (10) / 14 (20) / 0, XL
 - **Armor:** 98 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

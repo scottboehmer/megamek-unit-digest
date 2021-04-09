@@ -37,7 +37,7 @@
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Heavy PPC
@@ -55,7 +55,7 @@
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Snub-Nose PPC
@@ -75,7 +75,7 @@
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 279
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Heavy PPC

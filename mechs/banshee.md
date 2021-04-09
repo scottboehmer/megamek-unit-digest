@@ -177,7 +177,7 @@
 - **Chassis:** 95 tons
 - **Movement:** 4 (5) / 6 (8) / 0, XL
 - **Armor:** 288
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -201,7 +201,7 @@
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 288
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Heavy PPC
@@ -234,7 +234,7 @@
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 288
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Heavy PPC

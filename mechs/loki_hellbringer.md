@@ -16,8 +16,9 @@
   - Active Probe
   - ECM Suite
   - Targeting Computer
+  - CASE
   - Inner Sphere A-Pod × 4
-- **Battle Value:** 2615
+- **Battle Value:** 2654
 
 ## Loki (Hellbringer) A
 - **Role:** Undefined
@@ -34,8 +35,9 @@
   - Machine Gun × 2 (ammo: 200)
   - ER Medium Laser
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 1889
+- **Battle Value:** 1948
 
 ## Loki (Hellbringer) B
 - **Role:** Undefined
@@ -49,7 +51,9 @@
   - Gauss Rifle (ammo: 8)
   - ER Small Laser
   - SRM 6 w/ Artemis IV × 2 (ammo: 30)
-- **Battle Value:** 1526
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1592
 
 ## Loki (Hellbringer) M
 - **Role:** Undefined
@@ -63,7 +67,9 @@
   - Gauss Rifle (ammo: 16)
   - Streak SRM 6 (ammo: 15)
   - SRM 6 (ammo: 15)
-- **Battle Value:** 2153
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2200
 
 ## Loki (Hellbringer) C
 - **Role:** Undefined
@@ -78,7 +84,9 @@
   - ATM 6 (ammo: 10)
   - ER Medium Laser × 2
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
-- **Battle Value:** 1888
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2005
 
 ## Loki (Hellbringer) F
 - **Role:** Undefined
@@ -91,7 +99,9 @@
   - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster)
   - ER Medium Laser × 4
   - SRM 6 (ammo: 15)
-- **Battle Value:** 1781
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1839
 
 ## Loki (Hellbringer) J
 - **Role:** Undefined
@@ -107,8 +117,9 @@
   - Streak SRM 4 (ammo: 25)
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 2376
+- **Battle Value:** 2415
 
 ## Loki (Hellbringer) H
 - **Role:** Undefined
@@ -125,8 +136,9 @@
   - Ultra AC/5 (ammo: 40)
 - **Equipment:**
   - Active Probe
+  - CASE
   - A-Pod × 2
-- **Battle Value:** 1874
+- **Battle Value:** 1952
 
 ## Loki (Hellbringer) D
 - **Role:** Undefined
@@ -154,7 +166,9 @@
   - HAG 20 (ammo: 12)
   - ER Large Laser × 2
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2277
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2304
 
 ## Loki (Hellbringer) T
 - **Role:** Undefined

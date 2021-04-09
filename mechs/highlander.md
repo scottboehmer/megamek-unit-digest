@@ -103,7 +103,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2255
 
 ## Highlander HGN-694
 - **Role:** Undefined
@@ -160,7 +160,7 @@
 - **Chassis:** 90 tons (Reinforced)
 - **Movement:** 3 / 5 / 3, XL
 - **Armor:** 254 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - MML 7 w/ Artemis IV × 2 (ammo: 51 LRM, 14 SRM)

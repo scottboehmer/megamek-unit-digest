@@ -12,7 +12,9 @@
   - Small Pulse Laser
   - Gauss Rifle (ammo: 16)
   - LRM 10 (ammo: 12)
-- **Battle Value:** 2194
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2219
 
 ## Grizzly 2
 - **Role:** Undefined
@@ -26,5 +28,7 @@
   - ER Micro Laser × 6
   - Gauss Rifle (ammo: 16)
   - ATM 9 (ammo: 14)
-- **Battle Value:** 2152
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2195
 

@@ -12,7 +12,9 @@
   - ER PPC
   - Medium Pulse Laser × 2
   - ER Small Laser
-- **Battle Value:** 2323
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2360
 
 ## Wendigo-VP A
 - **Role:** Undefined
@@ -26,6 +28,7 @@
   - ER Large Laser × 2
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2411
+- **Battle Value:** 2414
 

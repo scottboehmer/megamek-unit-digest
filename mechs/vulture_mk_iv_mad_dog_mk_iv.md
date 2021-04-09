@@ -11,7 +11,9 @@
   - ER PPC
   - SRM 6 × 4 (ammo: 30)
   - ER Small Pulse Laser × 2
-- **Battle Value:** 2051
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2110
 
 ## Vulture Mk IV (Mad Dog Mk IV) A
 - **Role:** Undefined
@@ -25,7 +27,9 @@
   - Large Pulse Laser
   - LRM 5 × 4 (ammo: 48)
   - ER Small Laser × 2
-- **Battle Value:** 2099
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2177
 
 ## Vulture Mk IV (Mad Dog Mk IV) B
 - **Role:** Undefined
@@ -39,7 +43,9 @@
   - ER PPC
   - Streak LRM 15 × 2 (ammo: 16)
   - ER Small Laser × 2
-- **Battle Value:** 2610
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2649
 
 ## Vulture Mk IV (Mad Dog Mk IV) C
 - **Role:** Undefined
@@ -53,8 +59,9 @@
   - Improved Heavy Large Laser
   - ER Medium Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2576
+- **Battle Value:** 2584
 
 ## Vulture Mk IV (Mad Dog Mk IV) D
 - **Role:** Undefined
@@ -67,5 +74,7 @@
   - Improved Heavy Medium Laser × 2
   - ATM 12 × 2 (ammo: 10)
   - Micro Pulse Laser × 2
-- **Battle Value:** 1944
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2061
 

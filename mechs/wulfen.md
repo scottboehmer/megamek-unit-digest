@@ -5,7 +5,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Ultra AC/2 (ammo: 45)
@@ -22,7 +22,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC
@@ -36,7 +36,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 6, XXL
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Large Laser
@@ -52,7 +52,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 10, XXL
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Medium Laser × 3
@@ -67,7 +67,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LB 2-X AC (ammo: 45)
@@ -83,7 +83,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XXL
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Medium Laser × 2
@@ -102,7 +102,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Improved Heavy Large Laser

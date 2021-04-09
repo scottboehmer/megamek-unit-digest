@@ -211,7 +211,7 @@
   - C3i
   - Guardian ECM Suite
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 2062
 
 ## Templar TLR1-OR
 - **Role:** Undefined

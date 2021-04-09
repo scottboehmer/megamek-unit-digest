@@ -11,7 +11,9 @@
   - Medium Pulse Laser × 2
   - Gauss Rifle × 2 (ammo: 16)
   - Streak SRM 6 (ammo: 15)
-- **Battle Value:** 2621
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2654
 
 ## Blood Asp A
 - **Role:** Undefined
@@ -40,8 +42,9 @@
   - Medium Pulse Laser × 4
   - Gauss Rifle (ammo: 24)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2806
+- **Battle Value:** 2885
 
 ## Blood Asp C
 - **Role:** Undefined
@@ -54,7 +57,9 @@
   - Ultra AC/10 × 2 (ammo: 40)
   - ER Large Laser
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
-- **Battle Value:** 2198
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2270
 
 ## Blood Asp D
 - **Role:** Undefined
@@ -68,7 +73,9 @@
   - Heavy Medium Laser × 2
   - Gauss Rifle (ammo: 16)
   - Ultra AC/2 × 3 (ammo: 45)
-- **Battle Value:** 2371
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2396
 
 ## Blood Asp E
 - **Role:** Undefined
@@ -82,8 +89,9 @@
   - ER PPC × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 3143
+- **Battle Value:** 3179
 
 ## Blood Asp F
 - **Role:** Undefined
@@ -98,7 +106,9 @@
   - Medium Pulse Laser × 2
   - Streak SRM 6 × 4 (ammo: 45)
   - AP Gauss Rifle × 2 (ammo: 40)
-- **Battle Value:** 2854
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2908
 
 ## Blood Asp G
 - **Role:** Undefined
@@ -113,6 +123,7 @@
   - Heavy Medium Laser × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 3258
+- **Battle Value:** 3270
 

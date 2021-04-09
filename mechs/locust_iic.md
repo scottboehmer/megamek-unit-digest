@@ -21,7 +21,9 @@
 - **Weapons:**
   - Streak SRM 2 × 4 (ammo: 50)
   - ER Medium Laser
-- **Battle Value:** 916
+- **Equipment:**
+  - CASE
+- **Battle Value:** 937
 
 ## Locust IIC 3
 - **Role:** Undefined
@@ -45,7 +47,9 @@
 - **Weapons:**
   - ATM 3 × 2 (ammo: 40)
   - ER Medium Laser
-- **Battle Value:** 836
+- **Equipment:**
+  - CASE
+- **Battle Value:** 878
 
 ## Locust IIC 4
 - **Role:** Undefined
@@ -71,7 +75,8 @@
   - ER Medium Laser
 - **Equipment:**
   - MG Array × 2
-- **Battle Value:** 709
+  - CASE
+- **Battle Value:** 730
 
 ## Locust IIC 7
 - **Role:** Undefined
@@ -84,8 +89,9 @@
   - AP Gauss Rifle × 6 (ammo: 40)
   - ER Medium Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 971
+- **Battle Value:** 980
 
 ## Locust IIC 8
 - **Role:** Undefined
@@ -104,7 +110,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 14 / 21 / 0, XXL
 - **Armor:** 89 (Heavy Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Improved Heavy Medium Laser × 2

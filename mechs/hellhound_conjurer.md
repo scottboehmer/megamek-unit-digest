@@ -10,7 +10,9 @@
   - Large Pulse Laser
   - Streak SRM 2 × 2 (ammo: 50)
   - ER Medium Laser × 2
-- **Battle Value:** 1793
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1813
 
 ## Hellhound (Conjurer) 7
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - Large Pulse Laser
   - LRM 5 × 2 (ammo: 24)
   - ER Medium Laser × 2
-- **Battle Value:** 1825
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1845
 
 ## Hellhound (Conjurer) 2
 - **Role:** Undefined
@@ -36,8 +40,9 @@
   - Medium Pulse Laser × 2
   - ATM 9 (ammo: 7)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1868
+- **Battle Value:** 1931
 
 ## Hellhound (Conjurer) 3
 - **Role:** Undefined
@@ -67,7 +72,8 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2125
+  - CASE
+- **Battle Value:** 2164
 
 ## Hellhound (Conjurer) 5
 - **Role:** Undefined
@@ -79,7 +85,9 @@
 - **Weapons:**
   - ATM 6 × 2 (ammo: 20)
   - ER Medium Laser × 2
-- **Battle Value:** 1683
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1722
 
 ## Hellhound (Conjurer) 8
 - **Role:** Undefined
@@ -93,6 +101,7 @@
   - Streak SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - MASC
 - **Battle Value:** 2155
 

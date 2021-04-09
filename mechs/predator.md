@@ -10,7 +10,9 @@
   - ER Medium Laser × 2
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER Small Laser × 2
-- **Battle Value:** 1676
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1754
 
 ## Predator 2
 - **Role:** Undefined
@@ -23,5 +25,7 @@
   - Medium Pulse Laser × 2
   - HAG 20 × 2 (ammo: 24)
   - ER Small Laser × 2
-- **Battle Value:** 2143
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2159
 

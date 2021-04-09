@@ -108,7 +108,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 667
 
 ## Valkyrie VLK-QT2
 - **Role:** Undefined
@@ -130,7 +130,7 @@
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 7, XL
 - **Armor:** 84 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser
@@ -145,7 +145,7 @@
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 5, XL
 - **Armor:** 105 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser
@@ -173,7 +173,7 @@
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6, Light
 - **Armor:** 105 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser
@@ -188,7 +188,7 @@
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 8, XL
 - **Armor:** 96 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan Medium Pulse Laser

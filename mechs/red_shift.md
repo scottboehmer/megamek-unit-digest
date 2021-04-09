@@ -38,5 +38,5 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 869
 

@@ -13,6 +13,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2209
+- **Battle Value:** 2299
 

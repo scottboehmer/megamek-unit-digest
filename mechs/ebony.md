@@ -5,7 +5,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 88 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -22,7 +22,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 80 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -38,7 +38,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 80 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -53,7 +53,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
 - **Armor:** 80 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

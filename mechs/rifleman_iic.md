@@ -22,7 +22,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Ultra AC/2 × 4 (ammo: 270)
-- **Battle Value:** 1237
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1345
 
 ## Rifleman IIC 3
 - **Role:** Undefined
@@ -35,8 +37,9 @@
   - Heavy Large Laser × 2
   - Ultra AC/2 × 2 (ammo: 90)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 1697
+- **Battle Value:** 1733
 
 ## Rifleman IIC 4
 - **Role:** Undefined
@@ -48,7 +51,9 @@
 - **Weapons:**
   - ATM 9 × 2 (ammo: 14)
   - Large Pulse Laser × 2
-- **Battle Value:** 1979
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2051
 
 ## Rifleman IIC 5
 - **Role:** Undefined
@@ -73,8 +78,9 @@
   - HAG 30 × 2 (ammo: 28)
   - Anti-Missile System × 2 (ammo: 48)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 2165
+- **Battle Value:** 2220
 
 ## Rifleman IIC 7
 - **Role:** Undefined
@@ -103,6 +109,7 @@
   - AP Gauss Rifle × 4 (ammo: 80)
   - Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2497
+- **Battle Value:** 2541
 

@@ -67,7 +67,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1751
 
 ## Thug THG-12K
 - **Role:** Undefined
@@ -97,7 +97,7 @@
   - Heavy PPC × 3
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2086
 
 ## Thug THG-11E (Reich)
 - **Role:** Undefined

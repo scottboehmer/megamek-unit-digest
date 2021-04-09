@@ -68,7 +68,8 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 3760
+  - CASE
+- **Battle Value:** 3767
 
 ## Marauder II MAD-4S
 - **Role:** Undefined
@@ -94,7 +95,9 @@
   - ER PPC × 2
   - ER Medium Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-- **Battle Value:** 2880
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2916
 
 ## Marauder II MAD-4H
 - **Role:** Undefined
@@ -136,7 +139,7 @@
   - Heavy PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2383
 
 ## Marauder II MAD-6M
 - **Role:** Undefined
@@ -205,7 +208,7 @@
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, Light
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER PPC × 2
@@ -221,7 +224,7 @@
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
   - ER PPC × 3
@@ -251,7 +254,7 @@
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 304
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - Clan ER PPC × 2

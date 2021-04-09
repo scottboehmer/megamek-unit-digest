@@ -9,7 +9,9 @@
 - **Weapons:**
   - Ultra AC/2 × 10 (ammo: 180)
   - Machine Gun × 4 (ammo: 100)
-- **Battle Value:** 1860
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1950
 
 ## Kraken (Bane) 2
 - **Role:** Undefined
@@ -21,7 +23,9 @@
 - **Weapons:**
   - Ultra AC/10 × 4 (ammo: 140)
   - Machine Gun × 4 (ammo: 100)
-- **Battle Value:** 2232
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2502
 
 ## Kraken (Bane) 3
 - **Role:** Undefined
@@ -33,6 +37,8 @@
 - **Weapons:**
   - LRM 15 × 8 (ammo: 128)
   - SRM 4 (iOS)
+- **Equipment:**
+  - CASE
 - **Battle Value:** unknown
 
 ## Kraken (Bane) 4
@@ -46,5 +52,7 @@
   - Ultra AC/20 × 2 (ammo: 30)
   - ATM 6 × 3 (ammo: 20)
   - ER Large Laser
-- **Battle Value:** 2477
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2657
 

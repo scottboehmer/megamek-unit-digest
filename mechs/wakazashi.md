@@ -11,5 +11,7 @@
   - ER PPC
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
   - ER Medium Laser × 2
-- **Battle Value:** 2848
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2909
 

@@ -10,7 +10,9 @@
   - LRM 5 × 4 (ammo: 48)
   - ER Large Laser
   - ER Small Laser
-- **Battle Value:** 1569
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1608
 
 ## Griffin IIC 2
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - Streak SRM 2 × 4 (ammo: 100)
   - ER Large Laser
   - ER Small Laser
-- **Battle Value:** 1477
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1516
 
 ## Griffin IIC 3
 - **Role:** Undefined
@@ -37,7 +41,9 @@
   - Streak SRM 2 × 2 (ammo: 100)
   - ER Large Laser
   - Heavy Small Laser
-- **Battle Value:** 1493
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1532
 
 ## Griffin IIC 4
 - **Role:** Undefined
@@ -50,7 +56,9 @@
   - ATM 3 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Large Laser
   - ER Small Laser
-- **Battle Value:** 1416
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1475
 
 ## Griffin IIC 5
 - **Role:** Undefined
@@ -63,7 +71,9 @@
   - Light Machine Gun × 6 (ammo: 100)
   - ER Small Laser
   - ER Large Laser
-- **Battle Value:** 1323
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1344
 
 ## Griffin IIC 6
 - **Role:** Undefined
@@ -77,7 +87,8 @@
   - ATM 3 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 1405
+  - CASE
+- **Battle Value:** 1468
 
 ## Griffin IIC 8
 - **Role:** Undefined
@@ -92,7 +103,8 @@
   - ER Large Laser
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 1715
+  - CASE
+- **Battle Value:** 1736
 
 ## Griffin IIC 7
 - **Role:** Undefined
@@ -105,5 +117,7 @@
   - ER Medium Pulse Laser × 2
   - Streak SRM 6 (ammo: 15)
   - Streak LRM 10 (ammo: 12)
-- **Battle Value:** 1910
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1952
 

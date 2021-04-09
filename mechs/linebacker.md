@@ -11,7 +11,9 @@
   - LRM 5 (ammo: 24)
   - Streak SRM 4 (ammo: 25)
   - ER Small Laser
-- **Battle Value:** 2351
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2390
 
 ## Linebacker A
 - **Role:** Undefined
@@ -25,7 +27,9 @@
   - LRM 15 (ammo: 16)
   - ER Medium Laser × 2
   - LRM 5 (ammo: 24)
-- **Battle Value:** 2205
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2264
 
 ## Linebacker B
 - **Role:** Undefined
@@ -38,7 +42,9 @@
   - ER Medium Laser × 3
   - ER Small Laser
   - Gauss Rifle (ammo: 16)
-- **Battle Value:** 2041
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2048
 
 ## Linebacker C
 - **Role:** Undefined
@@ -53,7 +59,9 @@
   - Ultra AC/5 (ammo: 20)
   - Machine Gun × 2 (ammo: 100)
   - Flamer
-- **Battle Value:** 2036
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2075
 
 ## Linebacker D
 - **Role:** Undefined
@@ -66,7 +74,9 @@
   - Streak SRM 6 × 4 (ammo: 45)
   - ER Medium Laser × 2
   - ER Small Laser
-- **Battle Value:** 1980
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2039
 
 ## Linebacker E
 - **Role:** Undefined
@@ -79,8 +89,9 @@
   - ATM 6 × 2 (ammo: 20)
   - ER Large Laser
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 1573
+- **Battle Value:** 1690
 
 ## Linebacker H
 - **Role:** Undefined
@@ -108,8 +119,9 @@
 - **Equipment:**
   - MG Array × 6
   - Active Probe
+  - CASE
   - Supercharger
-- **Battle Value:** 1685
+- **Battle Value:** 1727
 
 ## Linebacker T
 - **Role:** Undefined
@@ -124,6 +136,7 @@
   - Streak SRM 4 (ammo: 25)
   - Flamer
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 1812
+- **Battle Value:** 1851
 

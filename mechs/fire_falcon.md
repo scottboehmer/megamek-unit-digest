@@ -11,7 +11,9 @@
   - ER Medium Laser × 2
   - ER Small Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
-- **Battle Value:** 1430
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1451
 
 ## Fire Falcon A
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - ER Small Laser
   - Ultra AC/2 (ammo: 45)
   - LRM 10 (ammo: 12)
-- **Battle Value:** 780
+- **Equipment:**
+  - CASE
+- **Battle Value:** 822
 
 ## Fire Falcon B
 - **Role:** Undefined
@@ -53,8 +57,9 @@
   - Machine Gun × 4 (ammo: 100)
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 962
+- **Battle Value:** 1004
 
 ## Fire Falcon D
 - **Role:** Undefined
@@ -68,8 +73,9 @@
   - Narc (ammo: 12)
   - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - TAG
-- **Battle Value:** 742
+- **Battle Value:** 826
 
 ## Fire Falcon E
 - **Role:** Undefined
@@ -80,7 +86,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ATM 12 (ammo: 5)
-- **Battle Value:** 834
+- **Equipment:**
+  - CASE
+- **Battle Value:** 897
 
 ## Fire Falcon H
 - **Role:** Undefined
@@ -109,6 +117,7 @@
   - ER Large Laser
 - **Equipment:**
   - MG Array × 2
+  - CASE
   - Active Probe
 - **Battle Value:** 1084
 

@@ -12,7 +12,7 @@
   - ER PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1101
 
 ## Gurkha GUR-4G
 - **Role:** Undefined
@@ -27,7 +27,7 @@
   - Large Pulse Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 908
 
 ## Gurkha GUR-6G
 - **Role:** Undefined
@@ -43,7 +43,7 @@
   - ER Large Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1134
 
 ## Gurkha GUR-8G
 - **Role:** Undefined

@@ -36,7 +36,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle × 5 (ammo: 64)
-- **Battle Value:** 2422
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2455
 
 ## Annihilator C
 - **Role:** Undefined
@@ -48,7 +50,9 @@
 - **Weapons:**
   - Ultra AC/10 × 4 (ammo: 80)
   - ER Medium Laser × 4
-- **Battle Value:** 2376
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2520
 
 ## Annihilator C 2
 - **Role:** Undefined
@@ -61,7 +65,9 @@
   - Gauss Rifle × 4 (ammo: 80)
   - ER PPC
   - ER Small Laser
-- **Battle Value:** 2695
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2722
 
 ## Annihilator ANH-1A
 - **Role:** Undefined
@@ -107,7 +113,7 @@
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0, Compact
 - **Armor:** 307 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Medium Laser × 4
@@ -123,7 +129,7 @@
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0
 - **Armor:** 232
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Heavy PPC × 2

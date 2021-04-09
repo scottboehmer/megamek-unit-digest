@@ -11,7 +11,9 @@
   - ER Large Laser × 2
   - SRM 4 (ammo: 25)
   - Gauss Rifle (ammo: 16)
-- **Battle Value:** 2313
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2392
 
 ## Orion IIC 'Burton'
 - **Role:** Undefined
@@ -28,5 +30,6 @@
   - Laser Anti-Missile System
 - **Equipment:**
   - Light Active Probe
-- **Battle Value:** 2667
+  - CASE
+- **Battle Value:** 2746
 

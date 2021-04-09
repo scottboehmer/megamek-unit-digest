@@ -30,7 +30,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 1302
 
 ## Preta C-PRT-OB Infernus
 - **Role:** Undefined
@@ -45,7 +45,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1338
 
 ## Preta C-PRT-OC Comminus
 - **Role:** Undefined
@@ -63,7 +63,7 @@
   - C3i
   - TAG
   - Beagle Active Probe
-- **Battle Value:** unknown
+- **Battle Value:** 1187
 
 ## Preta C-PRT-OD Luminos
 - **Role:** Undefined
@@ -79,7 +79,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1158
 
 ## Preta C-PRT-O (Kendali)
 - **Role:** Undefined
@@ -95,7 +95,7 @@
 - **Equipment:**
   - C3i
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 999
 
 ## Preta C-PRT-OE Eminus
 - **Role:** Undefined
@@ -127,5 +127,5 @@
   - Clan ER Large Pulse Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1566
 

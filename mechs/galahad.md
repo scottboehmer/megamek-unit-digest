@@ -35,7 +35,7 @@
 - **Equipment:**
   - C3i
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1268
 
 ## Galahad GLH-3D (Laodices)
 - **Role:** Undefined
@@ -43,7 +43,7 @@
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 201 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -53,5 +53,5 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1549
 

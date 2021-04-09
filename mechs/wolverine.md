@@ -183,7 +183,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 5, Light
 - **Armor:** 185
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -212,7 +212,7 @@
 - **Equipment:**
   - CASE II
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1387
 
 ## Wolverine WVR-9W2
 - **Role:** Undefined

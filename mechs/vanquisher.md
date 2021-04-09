@@ -13,7 +13,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2234
 
 ## Vanquisher VQR-2B
 - **Role:** Undefined
@@ -28,7 +28,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2073
 
 ## Vanquisher VQR-5V
 - **Role:** Undefined
@@ -36,7 +36,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 304 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
@@ -45,7 +45,7 @@
 - **Equipment:**
   - C3i
   - B-Pod × 2
-- **Battle Value:** unknown
+- **Battle Value:** 2332
 
 ## Vanquisher VQR-7V
 - **Role:** Undefined
@@ -53,7 +53,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -63,7 +63,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2420
 
 ## Vanquisher VQR-2A (Pravuil)
 - **Role:** Undefined
@@ -71,7 +71,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 304
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -82,5 +82,5 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2073
 

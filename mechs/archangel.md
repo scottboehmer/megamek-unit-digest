@@ -5,7 +5,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -24,7 +24,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -33,7 +33,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2134
 
 ## Archangel C-ANG-OB Infernus
 - **Role:** Undefined
@@ -41,7 +41,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -50,7 +50,7 @@
   - Snub-Nose PPC × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2069
 
 ## Archangel C-ANG-OC Comminus
 - **Role:** Undefined
@@ -58,7 +58,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -69,7 +69,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 2010
 
 ## Archangel C-ANG-OD Luminos
 - **Role:** Undefined
@@ -77,7 +77,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -88,7 +88,7 @@
 - **Equipment:**
   - C3i
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 2105
 
 ## Archangel C-ANG-O (Berith)
 - **Role:** Undefined
@@ -96,7 +96,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -106,7 +106,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2060
 
 ## Archangel C-ANG-OE Eminus
 - **Role:** Undefined
@@ -114,7 +114,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -125,7 +125,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 2097
 
 ## Archangel C-ANG-OS Caelestis
 - **Role:** Undefined
@@ -133,7 +133,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 307
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

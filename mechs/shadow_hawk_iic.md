@@ -11,7 +11,9 @@
   - Streak SRM 2 × 4 (ammo: 100)
   - ER Small Laser
   - ER Medium Laser
-- **Battle Value:** 1693
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1732
 
 ## Shadow Hawk IIC 2
 - **Role:** Undefined
@@ -51,7 +53,9 @@
   - Medium Pulse Laser × 2
   - ATM 6 (ammo: 10)
   - ER Medium Laser
-- **Battle Value:** 1541
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1600
 
 ## Shadow Hawk IIC 5
 - **Role:** Undefined
@@ -63,7 +67,9 @@
 - **Weapons:**
   - AP Gauss Rifle × 3 (ammo: 40)
   - Plasma Cannon × 2 (ammo: 30)
-- **Battle Value:** 1611
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1614
 
 ## Shadow Hawk IIC 6
 - **Role:** Undefined
@@ -77,7 +83,9 @@
   - HAG 20 (ammo: 18)
   - ER Small Laser
   - Small Pulse Laser
-- **Battle Value:** 1899
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1907
 
 ## Shadow Hawk IIC 8
 - **Role:** Undefined
@@ -92,8 +100,9 @@
   - LRM 10 (ammo: 24)
   - ER Large Laser
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1898
+- **Battle Value:** 1940
 
 ## Shadow Hawk IIC 9
 - **Role:** Undefined
@@ -106,5 +115,7 @@
   - ER Large Laser
   - ER Medium Laser × 2
   - ATM 6 (ammo: 20)
-- **Battle Value:** 1764
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1803
 

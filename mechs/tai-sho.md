@@ -20,7 +20,7 @@
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 263 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Heavy PPC × 2

@@ -11,6 +11,7 @@
   - LRM 10 × 2 (ammo: 24)
   - Laser Anti-Missile System
 - **Equipment:**
+  - CASE
   - CASE II
   - Targeting Computer
   - TAG
@@ -45,7 +46,9 @@
   - Ultra AC/10 (ammo: 30)
   - ER Large Pulse Laser
   - Laser Anti-Missile System
-- **Battle Value:** 2459
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2518
 
 ## Warwolf C
 - **Role:** Undefined
@@ -74,6 +77,7 @@
   - Gauss Rifle (ammo: 16)
   - Improved Heavy Large Laser × 2
 - **Equipment:**
+  - CASE
   - Coolant Pod × 2
   - CASE II
   - Supercharger

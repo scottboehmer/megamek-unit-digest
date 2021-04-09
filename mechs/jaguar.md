@@ -12,8 +12,9 @@
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - MG Array × 2
+  - CASE
   - Targeting Computer
   - Active Probe
   - Light TAG
-- **Battle Value:** 1721
+- **Battle Value:** 1742
 

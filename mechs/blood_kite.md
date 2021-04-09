@@ -10,7 +10,9 @@
   - ER Large Laser × 3
   - LRM 15 × 3 (ammo: 48)
   - SRM 4 × 3 (ammo: 25)
-- **Battle Value:** 2650
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2776
 
 ## Blood Kite 2
 - **Role:** Undefined
@@ -23,6 +25,7 @@
   - ER PPC × 3
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 3050
+- **Battle Value:** 3122
 

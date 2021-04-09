@@ -10,7 +10,9 @@
   - ER Large Laser
   - ER Medium Laser
   - Ultra AC/10 (ammo: 40)
-- **Battle Value:** 1600
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1678
 
 ## Omni-Corvis A
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - Medium Pulse Laser × 6
   - Streak SRM 6 × 2 (ammo: 30)
   - Small Pulse Laser
-- **Battle Value:** 1938
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1977
 
 ## Omni-Corvis B
 - **Role:** Undefined
@@ -36,5 +40,7 @@
   - LRM 20 × 2 (ammo: 36)
   - Machine Gun × 2 (ammo: 100)
   - Narc (ammo: 0)
-- **Battle Value:** 1465
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1640
 

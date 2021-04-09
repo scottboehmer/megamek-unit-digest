@@ -49,7 +49,7 @@
   - Guardian ECM Suite
   - C3i
   - TAG
-- **Battle Value:** unknown
+- **Battle Value:** 930
 
 ## Ostscout OTT-9S
 - **Role:** Undefined
@@ -73,13 +73,13 @@
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL
 - **Armor:** 96
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 862
 
 ## Ostscout OTT-11J
 - **Role:** Undefined
@@ -113,7 +113,7 @@
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 107 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium X-Pulse Laser

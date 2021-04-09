@@ -11,7 +11,8 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - MASC
-- **Battle Value:** 2013
+  - CASE
+- **Battle Value:** 2021
 
 ## Shadow Cat III A
 - **Role:** Undefined
@@ -39,9 +40,10 @@
 - **Equipment:**
   - MASC
   - Inner Sphere Angel ECM Suite
+  - CASE
   - Active Probe
   - Targeting Computer
-- **Battle Value:** 2099
+- **Battle Value:** 2183
 
 ## Shadow Cat III C
 - **Role:** Undefined
@@ -55,6 +57,7 @@
   - Improved Heavy Large Laser
 - **Equipment:**
   - MASC
+  - CASE
   - Supercharger
-- **Battle Value:** 2111
+- **Battle Value:** 2153
 

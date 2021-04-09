@@ -46,7 +46,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1778
 
 ## Viking VKG-3A
 - **Role:** Undefined

@@ -34,7 +34,9 @@
 - **Weapons:**
   - LRM 15 × 6 (ammo: 80)
   - ER Medium Laser × 2
-- **Battle Value:** 2312
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2492
 
 ## Nova Cat C
 - **Role:** Undefined
@@ -47,7 +49,9 @@
   - Large Pulse Laser × 2
   - Ultra AC/5 × 2 (ammo: 40)
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
-- **Battle Value:** 1872
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1944
 
 ## Nova Cat D
 - **Role:** Undefined
@@ -61,7 +65,8 @@
   - Heavy Large Laser × 3
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2048
+  - CASE
+- **Battle Value:** 2084
 
 ## Nova Cat E
 - **Role:** Undefined
@@ -73,7 +78,9 @@
 - **Weapons:**
   - ATM 9 × 4 (ammo: 28)
   - Large Pulse Laser
-- **Battle Value:** 1885
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2029
 
 ## Nova Cat F
 - **Role:** Undefined
@@ -102,9 +109,10 @@
   - ER Large Laser
   - AP Gauss Rifle × 8 (ammo: 40)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 2422
+- **Battle Value:** 2522
 
 ## Nova Cat H
 - **Role:** Undefined
@@ -118,9 +126,10 @@
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Pulse Laser
 - **Equipment:**
+  - CASE
   - Coolant Pod × 3
   - Supercharger
-- **Battle Value:** 2370
+- **Battle Value:** 2452
 
 ## Nova Cat I
 - **Role:** Undefined
@@ -133,5 +142,7 @@
   - Improved Heavy Large Laser × 2
   - Medium Pulse Laser × 4
   - Inner Sphere TSEMP × 2
-- **Battle Value:** 2906
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2918
 

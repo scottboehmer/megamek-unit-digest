@@ -128,7 +128,7 @@
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
 - **Armor:** 161 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER Medium Laser × 3

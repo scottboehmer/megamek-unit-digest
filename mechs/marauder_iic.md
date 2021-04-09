@@ -22,6 +22,8 @@
 - **Weapons:**
   - ER PPC × 3
   - Streak SRM 4 × 2 (ammo: 25)
+- **Equipment:**
+  - CASE
 - **Battle Value:** 2595
 
 ## Marauder IIC 8
@@ -36,7 +38,9 @@
   - ER PPC × 2
   - LRM 10 (ammo: 12)
   - ER Small Laser
-- **Battle Value:** 2536
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2554
 
 ## Marauder IIC 2
 - **Role:** Undefined
@@ -62,7 +66,9 @@
   - ER PPC × 2
   - ATM 12 (ammo: 5)
   - ER Small Laser × 2
-- **Battle Value:** 2274
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2328
 
 ## Marauder IIC 4
 - **Role:** Undefined
@@ -73,7 +79,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - HAG 40 × 2 (ammo: 30)
-- **Battle Value:** 3423
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3447
 
 ## Marauder IIC 5
 - **Role:** Undefined
@@ -86,7 +94,9 @@
   - ER PPC × 2
   - AP Gauss Rifle × 2 (ammo: 40)
   - HAG 20 (ammo: 12)
-- **Battle Value:** 2377
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2386
 
 ## Marauder IIC 6
 - **Role:** Undefined
@@ -100,7 +110,9 @@
   - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
   - Heavy Large Laser
-- **Battle Value:** 2580
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2646
 
 ## Marauder IIC 7
 - **Role:** Undefined
@@ -116,9 +128,10 @@
   - Large Pulse Laser
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 2808
+- **Battle Value:** 2843
 
 ## Marauder IIC 10
 - **Role:** Undefined

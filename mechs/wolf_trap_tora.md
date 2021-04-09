@@ -29,7 +29,7 @@
   - Beagle Active Probe
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1290
 
 ## Wolf Trap (Tora) WFT-C
 - **Role:** Undefined
@@ -61,7 +61,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1021
 
 ## Wolf Trap (Tora) WFT-2
 - **Role:** Undefined

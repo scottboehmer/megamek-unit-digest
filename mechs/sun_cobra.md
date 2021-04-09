@@ -9,8 +9,9 @@
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1662
+- **Battle Value:** 1677
 
 ## Sun Cobra 2
 - **Role:** Undefined

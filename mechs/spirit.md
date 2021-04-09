@@ -13,8 +13,9 @@
   - Heavy Medium Laser
   - Heavy Small Laser
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1631
+- **Battle Value:** 1673
 
 ## Spirit 2
 - **Role:** Undefined
@@ -27,6 +28,7 @@
   - ATM 12 (ammo: 5)
   - ER Large Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1527
+- **Battle Value:** 1590
 

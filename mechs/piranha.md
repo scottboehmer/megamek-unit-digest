@@ -10,7 +10,9 @@
   - ER Medium Laser × 2
   - Machine Gun × 12 (ammo: 200)
   - ER Small Laser
-- **Battle Value:** 956
+- **Equipment:**
+  - CASE
+- **Battle Value:** 998
 
 ## Piranha 2
 - **Role:** Undefined
@@ -54,6 +56,7 @@
   - Light Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - MG Array × 2
+  - CASE
   - Targeting Computer
-- **Battle Value:** 963
+- **Battle Value:** 1005
 

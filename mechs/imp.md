@@ -59,7 +59,9 @@
   - Medium Pulse Laser × 5
   - LRM 20 w/ Artemis IV (ammo: 18)
   - ER PPC × 2
-- **Battle Value:** 3016
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3070
 
 ## Imp IMP-2E
 - **Role:** Undefined

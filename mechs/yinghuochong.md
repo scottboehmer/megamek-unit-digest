@@ -5,7 +5,7 @@
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 8, XL
 - **Armor:** 118 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan ER PPC
@@ -20,7 +20,7 @@
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 8, XL
 - **Armor:** 118 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - TSEMP

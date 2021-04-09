@@ -10,7 +10,9 @@
   - Ultra AC/5 × 4 (ammo: 80)
   - ER PPC × 2
   - LRM 15 × 2 (ammo: 16)
-- **Battle Value:** 2676
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2784
 
 ## Jupiter 2
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - Ultra AC/10 × 2 (ammo: 40)
   - ER PPC × 2
   - LRM 15 w/ Artemis IV × 2 (ammo: 16)
-- **Battle Value:** 3170
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3278
 
 ## Jupiter 3
 - **Role:** Undefined
@@ -36,7 +40,9 @@
   - Ultra AC/10 × 2 (ammo: 40)
   - HAG 30 × 2 (ammo: 24)
   - ER Medium Laser × 2
-- **Battle Value:** 2983
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3074
 
 ## Jupiter 4
 - **Role:** Undefined
@@ -49,5 +55,7 @@
   - Streak SRM 4 × 2 (ammo: 50)
   - ER PPC × 2
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
-- **Battle Value:** 2847
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2955
 

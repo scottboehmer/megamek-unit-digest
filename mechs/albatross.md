@@ -41,7 +41,7 @@
 - **Chassis:** 95 tons
 - **Movement:** 4 (5) / 6 (8) / 0, Light
 - **Armor:** 293 (Heavy Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)

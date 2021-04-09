@@ -13,5 +13,5 @@
 - **Equipment:**
   - Targeting Computer
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1195
 

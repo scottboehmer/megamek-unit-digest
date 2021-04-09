@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2276
 
 ## Grand Crusader II GRN-D-04
 - **Role:** Undefined
@@ -33,5 +33,5 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2292
 

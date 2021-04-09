@@ -77,7 +77,7 @@
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 197 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -86,7 +86,7 @@
   - LRM 15 (ammo: 8)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1672
 
 ## Guillotine GLT-6WB2
 - **Role:** Undefined
@@ -94,7 +94,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
 - **Armor:** 184
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light Gauss Rifle (ammo: 16)
@@ -103,7 +103,7 @@
   - LRM 5 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1635
 
 ## Guillotine GLT-6WB3
 - **Role:** Undefined
@@ -111,7 +111,7 @@
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
 - **Armor:** 197 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

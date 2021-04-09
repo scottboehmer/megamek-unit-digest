@@ -10,7 +10,9 @@
   - ER PPC × 2
   - Streak SRM 6 × 4 (ammo: 30)
   - ER Small Laser
-- **Battle Value:** 2663
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2702
 
 ## Mad Cat Mk IV (Savage Wolf) PR 2
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - ATM 6 × 2 (ammo: 10)
   - ER Small Laser
   - ATM 3 × 2 (ammo: 20 ER, 20 HE, 20 Standard)
-- **Battle Value:** 2555
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2633
 
 ## Mad Cat Mk IV (Savage Wolf) (Prime)
 - **Role:** Undefined
@@ -36,6 +40,8 @@
 - **Weapons:**
   - ER PPC × 2
   - Streak SRM 6 × 4 (ammo: 30)
+- **Equipment:**
+  - CASE
 - **Battle Value:** 2681
 
 ## Mad Cat Mk IV (Savage Wolf) A
@@ -49,6 +55,8 @@
   - ER Large Laser × 2
   - ATM 9 × 2 (ammo: 14)
   - Small Pulse Laser × 4
+- **Equipment:**
+  - CASE
 - **Battle Value:** 2315
 
 ## Mad Cat Mk IV (Savage Wolf) B
@@ -63,6 +71,7 @@
   - HAG 30 (ammo: 12)
   - ATM 9 (ammo: 14)
 - **Equipment:**
+  - CASE
   - CASE II
 - **Battle Value:** 2606
 

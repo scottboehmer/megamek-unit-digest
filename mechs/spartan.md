@@ -58,7 +58,9 @@
   - Medium Pulse Laser × 4
   - Large Pulse Laser × 2
   - Streak SRM 4 × 2 (ammo: 50)
-- **Battle Value:** 2475
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2514
 
 ## Spartan SPT-N3
 - **Role:** Undefined
@@ -74,5 +76,5 @@
 - **Equipment:**
   - TAG
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1631
 

@@ -11,10 +11,11 @@
   - ER Medium Laser
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - TAG
   - ECM Suite
   - Active Probe
-- **Battle Value:** 1138
+- **Battle Value:** 1159
 
 ## Phantom A
 - **Role:** Undefined
@@ -27,7 +28,9 @@
   - ER Small Laser × 5
   - LRM 5 × 2 (ammo: 24)
   - ER Medium Laser
-- **Battle Value:** 1389
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1410
 
 ## Phantom B
 - **Role:** Undefined
@@ -41,8 +44,9 @@
   - ER Small Laser
   - ER Medium Laser
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 1054
+- **Battle Value:** 1096
 
 ## Phantom C
 - **Role:** Undefined
@@ -70,7 +74,9 @@
   - ER Medium Laser × 3
   - Streak SRM 4 (ammo: 25)
   - ER Small Laser
-- **Battle Value:** 1560
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1581
 
 ## Phantom E
 - **Role:** Undefined
@@ -82,7 +88,9 @@
 - **Weapons:**
   - Micro Pulse Laser × 8
   - ATM 3 (ammo: 20)
-- **Battle Value:** 954
+- **Equipment:**
+  - CASE
+- **Battle Value:** 975
 
 ## Phantom H
 - **Role:** Undefined

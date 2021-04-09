@@ -10,7 +10,9 @@
   - Ultra AC/5 × 2 (ammo: 40)
   - ER Medium Laser × 4
   - LRM 15 (ammo: 16)
-- **Battle Value:** 2476
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2554
 
 ## Thor II (Grand Summoner) A
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - ER PPC
   - LRM 15 (ammo: 16)
   - LRM 5 (ammo: 24)
-- **Battle Value:** 2376
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2473
 
 ## Thor II (Grand Summoner) B
 - **Role:** Undefined
@@ -39,7 +43,9 @@
   - ATM 6 (ammo: 20)
   - LRM 5 × 2 (ammo: 24)
   - ER Small Laser × 2
-- **Battle Value:** 2021
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2255
 
 ## Thor II (Grand Summoner) C
 - **Role:** Undefined
@@ -53,7 +59,9 @@
   - Ultra AC/20 (ammo: 15)
   - Streak SRM 4 (ammo: 25)
   - Flamer
-- **Battle Value:** 2273
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2351
 
 ## Thor II (Grand Summoner) D
 - **Role:** Undefined
@@ -67,6 +75,7 @@
   - ER Medium Laser × 2
   - LRM 15 (ammo: 16)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2839
+- **Battle Value:** 2878
 

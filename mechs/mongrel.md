@@ -10,5 +10,7 @@
   - Inner Sphere AC/5 (ammo: 20)
   - Inner Sphere Retractable Blade
   - ER Medium Laser × 3
+- **Equipment:**
+  - CASE
 - **Battle Value:** unknown
 

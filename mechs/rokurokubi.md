@@ -5,7 +5,7 @@
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 10 / 0, XL
 - **Armor:** 108 (Hardened)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
@@ -18,7 +18,7 @@
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 10 / 0, XL
 - **Armor:** 108 (Hardened)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light AC/5 (ammo: 40)
@@ -31,7 +31,7 @@
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
 - **Armor:** 108 (Ballistic Reinforced)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan ER PPC

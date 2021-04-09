@@ -100,7 +100,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2006
 
 ## Goliath GOL-6H
 - **Role:** Undefined

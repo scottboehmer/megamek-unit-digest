@@ -58,7 +58,7 @@
   - C3i
   - Targeting Computer
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 2181
 
 ## Seraph C-SRP-OC Comminus
 - **Role:** Undefined
@@ -79,7 +79,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 2136
 
 ## Seraph C-SRP-OD Luminos
 - **Role:** Undefined
@@ -98,7 +98,7 @@
   - Flamer
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2291
 
 ## Seraph C-SRP-O (Havalah)
 - **Role:** Undefined
@@ -118,7 +118,7 @@
   - C3i
   - Targeting Computer
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1927
 
 ## Seraph C-SRP-OE Eminus
 - **Role:** Undefined
@@ -172,5 +172,5 @@
   - Clan Large Pulse Laser × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2788
 

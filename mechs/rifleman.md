@@ -188,7 +188,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0
 - **Armor:** 148 (Heavy Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -221,7 +221,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, XL
 - **Armor:** 201 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan HAG 20 × 2 (ammo: 24)
@@ -236,7 +236,7 @@
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
 - **Armor:** 161 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Snub-Nose PPC × 2
@@ -278,7 +278,9 @@
   - ER Large Laser × 2
   - Ultra AC/5 × 2 (ammo: 40)
   - ER Medium Laser × 2
-- **Battle Value:** 1835
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1871
 
 ## Rifleman RFL-7N
 - **Role:** Undefined

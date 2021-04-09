@@ -66,7 +66,9 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Pulse Laser × 2
-- **Battle Value:** 2132
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2191
 
 ## Champion CHP-3N
 - **Role:** Undefined
@@ -97,5 +99,5 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1503
 

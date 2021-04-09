@@ -94,7 +94,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1864
 
 ## Perseus P1P
 - **Role:** Undefined

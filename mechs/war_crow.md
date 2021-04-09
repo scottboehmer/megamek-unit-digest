@@ -11,7 +11,9 @@
   - LRM 15 × 2 (ammo: 32)
   - Medium Pulse Laser × 2
   - ER Medium Laser × 2
-- **Battle Value:** 2717
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2799
 
 ## War Crow A
 - **Role:** Undefined
@@ -26,8 +28,9 @@
   - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - Supercharger
-- **Battle Value:** 3018
+- **Battle Value:** 3030
 
 ## War Crow B
 - **Role:** Undefined
@@ -41,7 +44,9 @@
   - Streak LRM 15 (ammo: 16)
   - Medium Pulse Laser × 2
   - ER Medium Laser
-- **Battle Value:** 2748
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2787
 
 ## War Crow C
 - **Role:** Undefined
@@ -56,5 +61,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Inner Sphere Coolant Pod
-- **Battle Value:** 2394
+  - CASE
+- **Battle Value:** 2473
 

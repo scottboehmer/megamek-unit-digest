@@ -76,5 +76,5 @@
   - Angel ECM Suite
   - C3i
   - CASE II
-- **Battle Value:** unknown
+- **Battle Value:** 1893
 

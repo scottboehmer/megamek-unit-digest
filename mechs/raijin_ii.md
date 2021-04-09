@@ -14,7 +14,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1763
 
 ## Raijin II RJN-200-B
 - **Role:** Undefined
@@ -31,7 +31,7 @@
   - Beagle Active Probe
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1439
 
 ## Raijin II RJN-200-C
 - **Role:** Undefined
@@ -47,5 +47,5 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1754
 

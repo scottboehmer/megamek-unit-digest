@@ -10,8 +10,9 @@
   - Ultra AC/10 × 2 (ammo: 60)
   - Medium Pulse Laser × 4
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2475
+- **Battle Value:** 2583
 
 ## Cygnus 2
 - **Role:** Undefined
@@ -23,7 +24,9 @@
 - **Weapons:**
   - HAG 40 × 2 (ammo: 24)
   - ER Medium Laser × 4
-- **Battle Value:** 3397
+- **Equipment:**
+  - CASE
+- **Battle Value:** 3421
 
 ## Cygnus 3
 - **Role:** Undefined
@@ -34,7 +37,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - HAG 20 × 4 (ammo: 36)
-- **Battle Value:** 2540
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2569
 
 ## Cygnus 4
 - **Role:** Undefined
@@ -48,5 +53,7 @@
   - Heavy Medium Laser × 4
   - ER Medium Laser × 2
   - ER Small Laser × 2
-- **Battle Value:** 2426
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2570
 

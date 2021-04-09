@@ -11,8 +11,9 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - MASC
+  - CASE
   - Active Probe
-- **Battle Value:** 2147
+- **Battle Value:** 2156
 
 ## Shadow Cat A
 - **Role:** Undefined
@@ -27,7 +28,8 @@
 - **Equipment:**
   - MASC
   - Active Probe
-- **Battle Value:** 2178
+  - CASE
+- **Battle Value:** 2220
 
 ## Shadow Cat B
 - **Role:** Undefined
@@ -42,8 +44,9 @@
 - **Equipment:**
   - MASC
   - ECM Suite
+  - CASE
   - Active Probe
-- **Battle Value:** 2336
+- **Battle Value:** 2420
 
 ## Shadow Cat TC
 - **Role:** Undefined
@@ -59,7 +62,8 @@
 - **Equipment:**
   - MASC
   - Active Probe
-- **Battle Value:** 1315
+  - CASE
+- **Battle Value:** 1378
 
 ## Shadow Cat M
 - **Role:** Undefined
@@ -88,7 +92,8 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - MASC
-- **Battle Value:** 1974
+  - CASE
+- **Battle Value:** 2079
 
 ## Shadow Cat D
 - **Role:** Undefined
@@ -104,8 +109,9 @@
   - Machine Gun × 2 (ammo: 200)
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2256
+- **Battle Value:** 2298
 
 ## Shadow Cat H
 - **Role:** Undefined
@@ -120,7 +126,8 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
-- **Battle Value:** 2113
+  - CASE
+- **Battle Value:** 2155
 
 ## Shadow Cat J
 - **Role:** Undefined
@@ -134,8 +141,9 @@
   - HAG 20 (ammo: 12)
 - **Equipment:**
   - MASC
+  - CASE
   - Active Probe
-- **Battle Value:** 1785
+- **Battle Value:** 1802
 
 ## Shadow Cat E
 - **Role:** Undefined
@@ -164,7 +172,8 @@
   - Streak SRM 6 (ammo: 30)
 - **Equipment:**
   - MASC
-- **Battle Value:** 2948
+  - CASE
+- **Battle Value:** 2997
 
 ## Shadow Cat I
 - **Role:** Undefined
@@ -179,8 +188,9 @@
   - Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - Targeting Computer
+  - CASE
   - MASC
-- **Battle Value:** 2366
+- **Battle Value:** 2408
 
 ## Shadow Cat T
 - **Role:** Undefined
@@ -194,6 +204,7 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - Active Probe
+  - CASE
   - MASC
-- **Battle Value:** 1810
+- **Battle Value:** 1852
 

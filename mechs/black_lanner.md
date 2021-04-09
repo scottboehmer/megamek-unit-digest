@@ -13,8 +13,9 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - MASC
+  - CASE
   - ECM Suite
-- **Battle Value:** 2226
+- **Battle Value:** 2268
 
 ## Black Lanner A
 - **Role:** Undefined
@@ -44,7 +45,8 @@
   - LRM 20 × 2 (ammo: 18)
 - **Equipment:**
   - MASC
-- **Battle Value:** 1898
+  - CASE
+- **Battle Value:** 1961
 
 ## Black Lanner C
 - **Role:** Undefined
@@ -58,7 +60,8 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - MASC
-- **Battle Value:** 2502
+  - CASE
+- **Battle Value:** 2523
 
 ## Black Lanner D
 - **Role:** Undefined
@@ -75,8 +78,9 @@
   - Flamer
 - **Equipment:**
   - MASC
+  - CASE
   - Active Probe
-- **Battle Value:** 1746
+- **Battle Value:** 1809
 
 ## Black Lanner H
 - **Role:** Undefined
@@ -105,7 +109,8 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - MASC
-- **Battle Value:** 2043
+  - CASE
+- **Battle Value:** 2106
 
 ## Black Lanner X
 - **Role:** Undefined

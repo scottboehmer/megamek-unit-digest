@@ -47,7 +47,8 @@
   - Medium Pulse Laser × 2
   - LRM 20 w/ Artemis IV (ammo: 12)
 - **Equipment:**
+  - CASE
   - Active Probe
   - ECM Suite
-- **Battle Value:** 2687
+- **Battle Value:** 2777
 

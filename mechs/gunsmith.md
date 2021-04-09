@@ -5,7 +5,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XXL
 - **Armor:** 88 (Laser Reflective)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium X-Pulse Laser × 4
@@ -19,7 +19,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
 - **Armor:** 88 (Laser Reflective)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan ER Medium Pulse Laser × 4

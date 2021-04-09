@@ -79,7 +79,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1509
 
 ## Crab CRB-45
 - **Role:** Undefined
@@ -93,7 +93,7 @@
   - ER Large Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1342
 
 ## Crab CRB-54
 - **Role:** Undefined

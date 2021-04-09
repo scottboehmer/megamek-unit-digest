@@ -17,7 +17,7 @@
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 127 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)

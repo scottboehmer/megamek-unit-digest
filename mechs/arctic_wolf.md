@@ -10,7 +10,9 @@
   - SRM 6 × 6 (ammo: 45)
   - SRM 4 × 2 (ammo: 25)
   - Narc (ammo: 6)
-- **Battle Value:** 1225
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1330
 
 ## Arctic Wolf 2
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - SRM 6 × 4 (ammo: 45)
   - Large Pulse Laser
   - Narc (ammo: 6)
-- **Battle Value:** 1427
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1511
 
 ## Arctic Wolf Prime
 - **Role:** Undefined
@@ -34,7 +38,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Streak SRM 6 × 4 (ammo: 60)
-- **Battle Value:** 1563
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1641
 
 ## Arctic Wolf A
 - **Role:** Undefined
@@ -48,8 +54,9 @@
   - Small Pulse Laser × 2
   - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1470
+- **Battle Value:** 1587
 
 ## Arctic Wolf J
 - **Role:** Undefined
@@ -64,6 +71,7 @@
   - Plasma Cannon (ammo: 10)
 - **Equipment:**
   - Active Probe
+  - CASE
   - ECM Suite
-- **Battle Value:** 1747
+- **Battle Value:** 1786
 

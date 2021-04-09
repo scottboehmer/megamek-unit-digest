@@ -200,7 +200,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 168 (Stealth)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
@@ -215,7 +215,7 @@
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 169
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 3

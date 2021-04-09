@@ -48,7 +48,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1858
 
 ## Dragon Fire DGR-6FC2 (Gregory)
 - **Role:** Undefined
@@ -67,5 +67,5 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 2230
 

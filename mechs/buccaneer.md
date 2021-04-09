@@ -28,7 +28,7 @@
 - **Equipment:**
   - C3i
   - MG Array
-- **Battle Value:** unknown
+- **Battle Value:** 1370
 
 ## Buccaneer BCN-6W
 - **Role:** Undefined
@@ -42,7 +42,7 @@
   - MML 5 × 3 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1121
 
 ## Buccaneer BCN-6PX 'Pan'
 - **Role:** Undefined

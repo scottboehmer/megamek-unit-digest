@@ -21,8 +21,9 @@
   - ER Large Laser × 2
   - ATM 9 × 4 (ammo: 14)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2527
+- **Battle Value:** 2563
 
 ## Supernova 3
 - **Role:** Undefined

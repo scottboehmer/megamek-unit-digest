@@ -196,7 +196,7 @@
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 14 / 21 (28) / 0, XL
 - **Armor:** 69 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -219,7 +219,7 @@
   - C3i
   - TAG
   - MASC
-- **Battle Value:** unknown
+- **Battle Value:** 695
 
 ## Locust LCT-5W2
 - **Role:** Undefined

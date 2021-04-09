@@ -9,7 +9,9 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - LRM 10 × 2 (ammo: 24)
-- **Battle Value:** 1446
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1485
 
 ## Cougar A
 - **Role:** Undefined
@@ -22,7 +24,9 @@
   - ER Medium Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - Small Pulse Laser
-- **Battle Value:** 1619
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1697
 
 ## Cougar B
 - **Role:** Undefined
@@ -46,7 +50,9 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - ER Medium Laser × 5
-- **Battle Value:** 1777
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1785
 
 ## Cougar D
 - **Role:** Undefined
@@ -59,7 +65,9 @@
   - ER Large Laser
   - Ultra AC/10 (ammo: 20)
   - SRM 4 × 2 (ammo: 25)
-- **Battle Value:** 1251
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1309
 
 ## Cougar H
 - **Role:** Undefined
@@ -72,9 +80,10 @@
   - Ultra AC/5 (ammo: 20)
   - Heavy Medium Laser × 3
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 1303
+- **Battle Value:** 1323
 
 ## Cougar E
 - **Role:** Undefined
@@ -86,7 +95,9 @@
 - **Weapons:**
   - ATM 6 × 2 (ammo: 20)
   - ER Medium Laser × 3
-- **Battle Value:** 1183
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1300
 
 ## Cougar F
 - **Role:** Undefined
@@ -102,7 +113,8 @@
 - **Equipment:**
   - MG Array × 2
   - B-Pod × 2
-- **Battle Value:** 1303
+  - CASE
+- **Battle Value:** 1345
 
 ## Cougar G
 - **Role:** Undefined
@@ -115,7 +127,9 @@
   - LRM 5 × 2 (ammo: 24)
   - HAG 20 (ammo: 12)
   - ER Large Laser
-- **Battle Value:** 1426
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1453
 
 ## Cougar XR
 - **Role:** Undefined
@@ -130,7 +144,8 @@
   - LRM 15 w/ Artemis V × 2 (ammo: 16)
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 1743
+  - CASE
+- **Battle Value:** 1783
 
 ## Cougar I
 - **Role:** Undefined
@@ -144,6 +159,7 @@
   - LRM 10 × 2 (ammo: 24)
   - Micro Pulse Laser
 - **Equipment:**
+  - CASE
   - Supercharger
-- **Battle Value:** 1696
+- **Battle Value:** 1738
 

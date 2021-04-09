@@ -80,7 +80,7 @@
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, XL
 - **Armor:** 293
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Clan ER Large Laser × 2

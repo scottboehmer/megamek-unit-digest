@@ -10,7 +10,9 @@
   - Medium Pulse Laser × 3
   - Ultra AC/20 (ammo: 15)
   - ER Large Laser × 2
-- **Battle Value:** 2400
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2458
 
 ## Vision Quest 2
 - **Role:** Undefined
@@ -24,6 +26,7 @@
   - Gauss Rifle (ammo: 16)
   - ER Large Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2548
+- **Battle Value:** 2556
 

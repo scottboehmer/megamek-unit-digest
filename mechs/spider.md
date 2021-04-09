@@ -124,7 +124,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
 - **Armor:** 71 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Snub-Nose PPC w/ PPC Capacitor

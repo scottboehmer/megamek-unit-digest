@@ -24,7 +24,9 @@
   - LRM 15 × 2 (ammo: 32)
   - ER Medium Laser × 4
   - ER Small Laser
-- **Battle Value:** 2003
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2081
 
 ## Pouncer B
 - **Role:** Undefined
@@ -37,7 +39,9 @@
   - ER Large Laser × 2
   - SRM 4 × 2 (ammo: 50)
   - LRM 10 (ammo: 12)
-- **Battle Value:** 1777
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1836
 
 ## Pouncer C
 - **Role:** Undefined
@@ -50,7 +54,9 @@
   - ER Medium Laser × 2
   - ER Small Laser × 3
   - Ultra AC/10 (ammo: 20)
-- **Battle Value:** 1614
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1653
 
 ## Pouncer D
 - **Role:** Undefined
@@ -65,7 +71,8 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 2227
+  - CASE
+- **Battle Value:** 2246
 
 ## Pouncer E
 - **Role:** Undefined
@@ -78,7 +85,9 @@
   - ATM 9 × 2 (ammo: 14)
   - ER Medium Laser
   - ER Micro Laser × 2
-- **Battle Value:** 1418
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1496
 
 ## Pouncer H
 - **Role:** Undefined
@@ -93,5 +102,6 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 1764
+  - CASE
+- **Battle Value:** 1784
 

@@ -11,8 +11,9 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Active Probe
+  - CASE
   - ECM Suite
-- **Battle Value:** 1603
+- **Battle Value:** 1645
 
 ## Arctic Wolf II A
 - **Role:** Undefined
@@ -25,7 +26,9 @@
   - ER Medium Laser × 2
   - LRM 15 × 2 (ammo: 24)
   - Small Pulse Laser
-- **Battle Value:** 2048
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2111
 
 ## Arctic Wolf II B
 - **Role:** Undefined
@@ -38,7 +41,9 @@
   - SRM 4 × 4 (ammo: 50)
   - Small Pulse Laser
   - Large Pulse Laser
-- **Battle Value:** 1636
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1678
 
 ## Arctic Wolf II C
 - **Role:** Undefined
@@ -50,5 +55,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - SRM 4 × 2 (ammo: 50)
-- **Battle Value:** 1871
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1913
 

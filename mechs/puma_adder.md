@@ -25,7 +25,9 @@
   - LB 5-X AC (ammo: 20)
   - Large Pulse Laser
   - ER Medium Laser × 2
-- **Battle Value:** 1402
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1422
 
 ## Puma (Adder) D
 - **Role:** Undefined
@@ -39,7 +41,9 @@
   - ER Large Laser
   - Ultra AC/5 (ammo: 20)
   - Streak SRM 2 × 2 (ammo: 100)
-- **Battle Value:** 1197
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1255
 
 ## Puma (Adder) A
 - **Role:** Undefined
@@ -52,7 +56,9 @@
   - Flamer
   - LRM 20 × 2 (ammo: 24)
   - Small Pulse Laser × 2
-- **Battle Value:** 1359
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1437
 
 ## Puma (Adder) C
 - **Role:** Undefined
@@ -66,7 +72,9 @@
   - LRM 15 × 2 (ammo: 32)
   - Medium Pulse Laser
   - Narc (ammo: 6)
-- **Battle Value:** 1275
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1372
 
 ## Puma (Adder) TC
 - **Role:** Undefined
@@ -82,9 +90,10 @@
   - Anti-Missile System (ammo: 24)
   - Large Pulse Laser
 - **Equipment:**
+  - CASE
   - Active Probe
   - Targeting Computer
-- **Battle Value:** 1189
+- **Battle Value:** 1247
 
 ## Puma (Adder) H
 - **Role:** Undefined
@@ -111,7 +120,9 @@
   - Flamer
   - ATM 9 × 2 (ammo: 14)
   - Micro Pulse Laser × 4
-- **Battle Value:** 1086
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1164
 
 ## Puma (Adder) J
 - **Role:** Undefined
@@ -124,7 +135,9 @@
   - Flamer
   - AP Gauss Rifle × 4 (ammo: 40)
   - HAG 20 (ammo: 18)
-- **Battle Value:** 1209
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1222
 
 ## Puma (Adder) K
 - **Role:** Undefined
@@ -138,7 +151,9 @@
   - RAC/2 (ammo: 45)
   - Laser Anti-Missile System
   - Flamer
-- **Battle Value:** 1261
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1281
 
 ## Puma (Adder) T
 - **Role:** Undefined
@@ -166,6 +181,7 @@
   - ER Medium Laser × 2
   - Flamer
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 1699
+- **Battle Value:** 1738
 

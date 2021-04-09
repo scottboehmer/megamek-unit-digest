@@ -12,8 +12,9 @@
   - ER Medium Laser × 2
   - Laser Anti-Missile System
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2316
+- **Battle Value:** 2394
 
 ## Deimos Prime
 - **Role:** Undefined
@@ -29,7 +30,8 @@
   - LRM 15 × 2 (ammo: 24)
 - **Equipment:**
   - MASC
-- **Battle Value:** 2080
+  - CASE
+- **Battle Value:** 2188
 
 ## Deimos A
 - **Role:** Undefined
@@ -46,8 +48,9 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - MASC
+  - CASE
   - ECM Suite
-- **Battle Value:** 2713
+- **Battle Value:** 2785
 
 ## Deimos B
 - **Role:** Undefined
@@ -64,8 +67,9 @@
   - LRM 10 × 4 (ammo: 72)
 - **Equipment:**
   - MASC
+  - CASE
   - ECM Suite
-- **Battle Value:** 2857
+- **Battle Value:** 2965
 
 ## Deimos H
 - **Role:** Undefined
@@ -82,7 +86,8 @@
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - MASC
-- **Battle Value:** 3329
+  - CASE
+- **Battle Value:** 3344
 
 ## Deimos C
 - **Role:** Undefined
@@ -99,8 +104,9 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - MASC
+  - CASE
   - ECM Suite
-- **Battle Value:** 2665
+- **Battle Value:** 2737
 
 ## Deimos D
 - **Role:** Undefined
@@ -116,5 +122,6 @@
   - Streak LRM 20 × 2 (ammo: 24)
 - **Equipment:**
   - MASC
-- **Battle Value:** 2574
+  - CASE
+- **Battle Value:** 2682
 

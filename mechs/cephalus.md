@@ -28,6 +28,7 @@
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
   - Nova CEWS
+  - CASE
   - Light TAG
 - **Battle Value:** 785
 

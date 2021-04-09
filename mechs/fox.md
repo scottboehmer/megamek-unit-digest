@@ -12,5 +12,7 @@
   - Machine Gun × 4 (ammo: 200)
   - ER Large Laser
   - Streak SRM 2 × 2 (ammo: 50)
-- **Battle Value:** 1974
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2091
 

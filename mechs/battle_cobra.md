@@ -45,7 +45,9 @@
 - **Weapons:**
   - ER Medium Laser × 3
   - Ultra AC/5 (ammo: 20)
-- **Battle Value:** 1487
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1507
 
 ## Battle Cobra H
 - **Role:** Undefined
@@ -70,7 +72,9 @@
   - ATM 9 (ammo: 14)
   - Medium Pulse Laser × 3
   - Small Pulse Laser
-- **Battle Value:** 1445
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1484
 
 ## Battle Cobra BTL-C-2O
 - **Role:** Undefined
@@ -83,7 +87,7 @@
   - Large Pulse Laser × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 944
 
 ## Battle Cobra BTL-C-2OA
 - **Role:** Undefined
@@ -101,7 +105,7 @@
   - Beagle Active Probe
   - TAG
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1113
 
 ## Battle Cobra BTL-C-2OB
 - **Role:** Undefined
@@ -114,7 +118,7 @@
   - MRM 10 × 4 (ammo: 72)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 895
 
 ## Battle Cobra BTL-C-2OC
 - **Role:** Undefined
@@ -127,7 +131,7 @@
   - iNarc × 2 (ammo: 20)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 726
 
 ## Battle Cobra BTL-C-2OD
 - **Role:** Undefined
@@ -141,7 +145,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
-- **Battle Value:** unknown
+- **Battle Value:** 1221
 
 ## Battle Cobra BTL-C-2OE
 - **Role:** Undefined
@@ -154,7 +158,7 @@
   - MML 9 × 2 (ammo: 26 LRM, 11 SRM)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 840
 
 ## Battle Cobra BTL-C-2OF
 - **Role:** Undefined
@@ -167,7 +171,7 @@
   - Plasma Rifle × 2 (ammo: 30)
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1300
 
 ## Battle Cobra X
 - **Role:** Undefined

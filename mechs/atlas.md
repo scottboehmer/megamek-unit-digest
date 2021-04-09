@@ -213,7 +213,9 @@
   - LRM 20 (ammo: 12)
   - Streak SRM 6 (ammo: 15)
   - Ultra AC/20 (ammo: 15)
-- **Battle Value:** 2232
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2340
 
 ## Atlas AS7-S2
 - **Role:** Undefined

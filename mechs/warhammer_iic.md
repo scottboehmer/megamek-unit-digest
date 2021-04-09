@@ -10,7 +10,9 @@
   - ER PPC × 2
   - Medium Pulse Laser × 5
   - SRM 6 (ammo: 15)
-- **Battle Value:** 2552
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2570
 
 ## Warhammer IIC 2
 - **Role:** Undefined
@@ -23,7 +25,9 @@
   - ER PPC × 2
   - LRM 15 × 2 (ammo: 24)
   - SRM 6 (ammo: 15)
-- **Battle Value:** 2410
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2482
 
 ## Warhammer IIC 3
 - **Role:** Undefined
@@ -50,7 +54,9 @@
   - ER PPC × 2
   - ATM 6 × 2 (ammo: 30)
   - ER Small Laser
-- **Battle Value:** 2237
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2327
 
 ## Warhammer IIC 5
 - **Role:** Undefined
@@ -63,7 +69,9 @@
   - HAG 20 × 2 (ammo: 24)
   - Heavy Medium Laser × 4
   - Streak SRM 4 (ammo: 25)
-- **Battle Value:** 2171
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2185
 
 ## Warhammer IIC 6
 - **Role:** Undefined
@@ -76,7 +84,9 @@
   - ER PPC × 2
   - HAG 30 (ammo: 16)
   - ER Small Laser
-- **Battle Value:** 2651
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2661
 
 ## Warhammer IIC 7
 - **Role:** Undefined
@@ -92,6 +102,7 @@
   - Micro Pulse Laser × 2
   - ATM 6 (ammo: 10)
 - **Equipment:**
+  - CASE
   - Cargo × 2
   - ECM Suite
 - **Battle Value:** unknown
@@ -108,7 +119,9 @@
   - Plasma Cannon × 2 (ammo: 20)
   - ER Medium Laser × 2
   - Streak SRM 6 (ammo: 15)
-- **Battle Value:** 2360
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2380
 
 ## Warhammer IIC 9
 - **Role:** Undefined
@@ -123,6 +136,7 @@
   - ER Small Laser × 2
   - LRM 10 (ammo: 12)
 - **Equipment:**
+  - CASE
   - ECM Suite
 - **Battle Value:** 2819
 
@@ -137,7 +151,9 @@
   - ER Large Laser × 4
   - SRM 6 × 2 (ammo: 30)
   - ER Small Laser
-- **Battle Value:** 2254
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2290
 
 ## Warhammer IIC 11
 - **Role:** Undefined
@@ -151,8 +167,9 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser
 - **Equipment:**
+  - CASE
   - A-Pod × 2
-- **Battle Value:** 1985
+- **Battle Value:** 2021
 
 ## Warhammer IIC 13
 - **Role:** Undefined
@@ -166,5 +183,7 @@
   - LRM 15 × 2 (ammo: 24)
   - Medium Pulse Laser × 5
   - SRM 6 (ammo: 15)
-- **Battle Value:** 2643
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2715
 

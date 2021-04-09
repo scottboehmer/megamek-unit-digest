@@ -10,7 +10,9 @@
   - Machine Gun × 4 (ammo: 100)
   - ER Medium Laser × 3
   - Ultra AC/2 × 2 (ammo: 90)
-- **Battle Value:** 1689
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1747
 
 ## Goshawk (Vapor Eagle) (Standard)
 - **Role:** Undefined
@@ -25,8 +27,9 @@
   - Medium Pulse Laser × 3
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2329
+- **Battle Value:** 2368
 
 ## Goshawk (Vapor Eagle) 2
 - **Role:** Undefined
@@ -40,8 +43,9 @@
   - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1931
+- **Battle Value:** 1989
 
 ## Goshawk (Vapor Eagle) 5
 - **Role:** Undefined
@@ -55,8 +59,9 @@
   - Medium Pulse Laser × 4
   - LRM 20 w/ Artemis IV (ammo: 18)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2494
+- **Battle Value:** 2572
 
 ## Goshawk (Vapor Eagle) 3
 - **Role:** Undefined
@@ -71,8 +76,9 @@
   - Heavy Medium Laser × 3
   - SRM 2 × 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2427
+- **Battle Value:** 2466
 
 ## Goshawk (Vapor Eagle) 4
 - **Role:** Undefined
@@ -85,7 +91,9 @@
   - ER Small Laser × 3
   - ER Medium Laser × 4
   - ATM 6 × 2 (ammo: 20)
-- **Battle Value:** 1913
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1991
 
 ## Goshawk (Vapor Eagle) 7
 - **Role:** Undefined

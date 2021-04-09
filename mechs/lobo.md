@@ -12,7 +12,9 @@
   - Heavy Small Laser
   - ER Large Laser
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 1539
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1637
 
 ## Lobo 2
 - **Role:** Undefined
@@ -26,7 +28,9 @@
   - ER Medium Laser × 2
   - AP Gauss Rifle × 2 (ammo: 40)
   - Large Pulse Laser
-- **Battle Value:** 1866
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1869
 
 ## Lobo 3
 - **Role:** Undefined
@@ -43,5 +47,6 @@
   - ER PPC
 - **Equipment:**
   - MG Array × 2
-- **Battle Value:** 1743
+  - CASE
+- **Battle Value:** 1784
 

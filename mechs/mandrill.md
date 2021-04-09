@@ -9,5 +9,7 @@
 - **Weapons:**
   - LRM 20 × 2 (ammo: 24)
   - ER Small Laser
-- **Battle Value:** 1137
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1209
 

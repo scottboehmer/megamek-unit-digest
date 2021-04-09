@@ -128,7 +128,7 @@
   - CASE
   - Guardian ECM Suite
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1563
 
 ## Avatar AV1-OF
 - **Role:** Undefined
@@ -204,5 +204,5 @@
   - C3i
   - Guardian ECM Suite
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1550
 

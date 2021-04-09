@@ -290,7 +290,7 @@
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - ER PPC
@@ -350,8 +350,9 @@
   - Medium Pulse Laser × 4
   - ER Medium Laser × 2
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2903
+- **Battle Value:** 2967
 
 ## BattleMaster BLR-4S (Calvin II)
 - **Role:** Undefined
@@ -376,7 +377,7 @@
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, Compact
 - **Armor:** 263
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
   - ER PPC
@@ -396,7 +397,7 @@
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, XL
 - **Armor:** 240
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Large Pulse Laser
@@ -468,6 +469,7 @@
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 6
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2496
+- **Battle Value:** 2532
 

@@ -10,7 +10,9 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser × 4
   - ATM 6 × 2 (ammo: 20)
-- **Battle Value:** 2188
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2266
 
 ## Flamberge A
 - **Role:** Undefined
@@ -24,8 +26,9 @@
   - Large Pulse Laser
   - ER PPC
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2517
+- **Battle Value:** 2575
 
 ## Flamberge B
 - **Role:** Undefined
@@ -40,8 +43,9 @@
   - Plasma Cannon × 3 (ammo: 50)
   - ER Large Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2714
+- **Battle Value:** 2750
 
 ## Flamberge C
 - **Role:** Undefined
@@ -57,9 +61,10 @@
   - Arrow IV (ammo: 15)
   - ER Medium Laser
 - **Equipment:**
+  - CASE
   - TAG
   - Targeting Computer
-- **Battle Value:** 2036
+- **Battle Value:** 2126
 
 ## Flamberge 2
 - **Role:** Undefined
@@ -74,8 +79,9 @@
   - Medium Pulse Laser × 4
   - Micro Pulse Laser
 - **Equipment:**
+  - CASE
   - Partial Wing
-- **Battle Value:** 2426
+- **Battle Value:** 2468
 
 ## Flamberge 3
 - **Role:** Undefined
@@ -90,8 +96,9 @@
   - Medium Pulse Laser × 2
   - Micro Pulse Laser
 - **Equipment:**
+  - CASE
   - Partial Wing
-- **Battle Value:** 2167
+- **Battle Value:** 2209
 
 ## Flamberge D
 - **Role:** Undefined
@@ -104,5 +111,7 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser × 4
   - Inner Sphere Plasma Rifle × 2 (ammo: 40)
-- **Battle Value:** 2321
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2357
 

@@ -11,7 +11,9 @@
   - ER Medium Laser × 2
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - ER Large Laser
-- **Battle Value:** 2807
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2897
 
 ## Scylla 2
 - **Role:** Undefined
@@ -25,7 +27,9 @@
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
   - Small Pulse Laser
-- **Battle Value:** 2824
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2839
 
 ## Scylla 3
 - **Role:** Undefined
@@ -39,5 +43,7 @@
   - HAG 30 (ammo: 12)
   - Heavy Large Laser
   - ER PPC
-- **Battle Value:** 2774
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2820
 

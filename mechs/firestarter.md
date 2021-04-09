@@ -292,7 +292,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 668
 
 ## Firestarter FS9-X81
 - **Role:** Undefined

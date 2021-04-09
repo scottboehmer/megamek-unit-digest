@@ -12,7 +12,8 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - MASC
-- **Battle Value:** 2722
+  - CASE
+- **Battle Value:** 2749
 
 ## Gladiator (Executioner) A
 - **Role:** Undefined
@@ -27,7 +28,8 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - MASC
-- **Battle Value:** 3093
+  - CASE
+- **Battle Value:** 3112
 
 ## Gladiator (Executioner) B
 - **Role:** Undefined
@@ -43,7 +45,8 @@
   - ER Medium Laser
 - **Equipment:**
   - MASC
-- **Battle Value:** 2862
+  - CASE
+- **Battle Value:** 2940
 
 ## Gladiator (Executioner) C
 - **Role:** Undefined
@@ -58,8 +61,9 @@
   - ER Small Laser
 - **Equipment:**
   - MASC
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2642
+- **Battle Value:** 2740
 
 ## Gladiator (Executioner) D
 - **Role:** Undefined
@@ -76,7 +80,8 @@
   - ER Small Laser
 - **Equipment:**
   - MASC
-- **Battle Value:** 2640
+  - CASE
+- **Battle Value:** 2698
 
 ## Gladiator (Executioner) TC
 - **Role:** Undefined
@@ -109,8 +114,9 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - MASC
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2981
+- **Battle Value:** 3059
 
 ## Gladiator (Executioner) E
 - **Role:** Undefined
@@ -126,7 +132,8 @@
   - Heavy Small Laser
 - **Equipment:**
   - MASC
-- **Battle Value:** 2773
+  - CASE
+- **Battle Value:** 2870
 
 ## Gladiator (Executioner) K
 - **Role:** Undefined
@@ -141,8 +148,9 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - MASC
+  - CASE
   - Light Active Probe
-- **Battle Value:** 3117
+- **Battle Value:** 3125
 
 ## Gladiator (Executioner) P
 - **Role:** Undefined
@@ -158,7 +166,8 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - MASC
-- **Battle Value:** 3022
+  - CASE
+- **Battle Value:** 3052
 
 ## Gladiator (Executioner) F
 - **Role:** Undefined
@@ -189,9 +198,10 @@
   - ER Medium Laser × 6
 - **Equipment:**
   - MASC
+  - CASE
   - Targeting Computer
   - Watchdog CEWS
-- **Battle Value:** 3786
+- **Battle Value:** 3825
 
 ## Gladiator (Executioner) I
 - **Role:** Undefined
@@ -205,10 +215,11 @@
   - Improved Heavy Large Laser × 2
 - **Equipment:**
   - MASC
+  - CASE
   - Targeting Computer
   - ECM Suite
   - Supercharger
-- **Battle Value:** 3318
+- **Battle Value:** 3339
 
 ## Gladiator (Executioner) J
 - **Role:** Undefined
@@ -221,8 +232,9 @@
   - SRM 6 × 3 (ammo: 30)
   - HAG 40 (ammo: 12)
 - **Equipment:**
+  - CASE
   - MASC
-- **Battle Value:** 2839
+- **Battle Value:** 2891
 
 ## Gladiator (Executioner) L
 - **Role:** Undefined

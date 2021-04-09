@@ -9,7 +9,9 @@
 - **Weapons:**
   - Streak SRM 4 × 4 (ammo: 100)
   - ER Large Laser × 2
-- **Battle Value:** 2105
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2183
 
 ## Black Hawk 2
 - **Role:** Undefined
@@ -21,7 +23,9 @@
 - **Weapons:**
   - ATM 6 × 2 (ammo: 20)
   - ER Large Laser × 2
-- **Battle Value:** 1992
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2070
 
 ## Black Hawk 3
 - **Role:** Undefined

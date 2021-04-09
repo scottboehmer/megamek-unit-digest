@@ -13,8 +13,9 @@
 - **Equipment:**
   - TAG
   - ECM Suite
+  - CASE
   - Active Probe
-- **Battle Value:** 1292
+- **Battle Value:** 1334
 
 ## Hankyu (Arctic Cheetah) A
 - **Role:** Undefined
@@ -27,7 +28,9 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - Flamer
   - Small Pulse Laser
-- **Battle Value:** 1075
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1117
 
 ## Hankyu (Arctic Cheetah) B
 - **Role:** Undefined
@@ -41,7 +44,9 @@
   - Medium Pulse Laser
   - LB 2-X AC (ammo: 45)
   - Flamer
-- **Battle Value:** 1055
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1076
 
 ## Hankyu (Arctic Cheetah) C
 - **Role:** Undefined
@@ -68,7 +73,9 @@
 - **Weapons:**
   - LRM 10 × 2 (ammo: 48)
   - Flamer
-- **Battle Value:** 996
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1080
 
 ## Hankyu (Arctic Cheetah) H
 - **Role:** Undefined
@@ -97,8 +104,9 @@
   - Flamer
 - **Equipment:**
   - MG Array × 2
+  - CASE
   - B-Pod × 2
-- **Battle Value:** 993
+- **Battle Value:** 1035
 
 ## Hankyu (Arctic Cheetah) F
 - **Role:** Undefined
@@ -114,5 +122,6 @@
 - **Equipment:**
   - Watchdog CEWS
   - Light TAG
-- **Battle Value:** 1373
+  - CASE
+- **Battle Value:** 1394
 

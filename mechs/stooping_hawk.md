@@ -10,7 +10,9 @@
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 30)
-- **Battle Value:** 2088
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2147
 
 ## Stooping Hawk A
 - **Role:** Undefined
@@ -33,7 +35,9 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 3 (ammo: 32)
   - ER Large Laser
-- **Battle Value:** 2033
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2111
 
 ## Stooping Hawk C
 - **Role:** Undefined
@@ -74,7 +78,9 @@
   - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Medium Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-- **Battle Value:** 1576
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1674
 
 ## Stooping Hawk F
 - **Role:** Undefined
@@ -88,7 +94,9 @@
   - Medium Pulse Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
   - Heavy Small Laser
-- **Battle Value:** 1967
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1988
 
 ## Stooping Hawk G
 - **Role:** Undefined
@@ -100,5 +108,7 @@
 - **Weapons:**
   - ER Medium Laser × 4
   - ProtoMech AC/4 × 3 (ammo: 40)
-- **Battle Value:** 1618
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1657
 

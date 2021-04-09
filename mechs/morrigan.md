@@ -11,8 +11,9 @@
   - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - Active Probe
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1460
+- **Battle Value:** 1523
 
 ## Morrigan 2
 - **Role:** Undefined
@@ -42,7 +43,9 @@
   - ER Medium Laser × 2
   - ER Small Laser × 4
   - Small Pulse Laser × 2
-- **Battle Value:** 1343
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1390
 
 ## Morrigan 4
 - **Role:** Undefined
@@ -54,7 +57,9 @@
 - **Weapons:**
   - Inner Sphere TSEMP
   - ER Small Laser × 10
-- **Battle Value:** 2056
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2063
 
 ## Morrigan 5
 - **Role:** Undefined
@@ -67,6 +72,7 @@
   - ER PPC
   - Streak LRM 5 × 2 (ammo: 24)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1883
+- **Battle Value:** 1904
 

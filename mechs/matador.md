@@ -13,7 +13,9 @@
   - Streak SRM 6 (ammo: 15)
   - Small Pulse Laser × 2
   - Streak SRM 4 (ammo: 25)
-- **Battle Value:** 1952
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2006
 
 ## Matador 2
 - **Role:** Undefined
@@ -27,6 +29,7 @@
   - AP Gauss Rifle × 3 (ammo: 80)
   - ATM 9 (ammo: 7)
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 1572
+- **Battle Value:** 1630
 

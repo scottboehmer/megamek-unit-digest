@@ -55,7 +55,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1554
 
 ## Lightray LGH-7W
 - **Role:** Undefined
@@ -63,7 +63,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
 - **Armor:** 185 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Snub-Nose PPC
@@ -71,5 +71,5 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1352
 

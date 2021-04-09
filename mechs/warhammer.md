@@ -115,9 +115,10 @@
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - CASE
   - ECM Suite
   - Inner Sphere A-Pod
-- **Battle Value:** 2482
+- **Battle Value:** 2518
 
 ## Warhammer WHM-7M
 - **Role:** Undefined
@@ -366,7 +367,7 @@
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 212 (Light Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Snub-Nose PPC × 2

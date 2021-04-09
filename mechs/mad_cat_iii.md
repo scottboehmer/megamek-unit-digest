@@ -11,7 +11,9 @@
   - ER Small Laser × 2
   - LRM 20 w/ Artemis V × 2 (ammo: 24)
   - ER Micro Laser × 4
-- **Battle Value:** 2154
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2232
 
 ## Mad Cat III (Eve)
 - **Role:** Undefined
@@ -25,9 +27,10 @@
   - ER PPC
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - TAG
-- **Battle Value:** 2354
+- **Battle Value:** 2393
 
 ## Mad Cat III (Standard)
 - **Role:** Undefined
@@ -40,7 +43,9 @@
   - ER Medium Laser × 4
   - LRM 20 w/ Artemis V × 2 (ammo: 24)
   - ER Micro Laser × 6
-- **Battle Value:** 2322
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2400
 
 ## Mad Cat III 2
 - **Role:** Undefined
@@ -52,7 +57,9 @@
 - **Weapons:**
   - Heavy Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
-- **Battle Value:** 2056
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2095
 
 ## Mad Cat III 3
 - **Role:** Undefined
@@ -65,7 +72,9 @@
   - ER Medium Laser × 2
   - ER PPC
   - LRM 20 w/ Artemis IV × 2 (ammo: 12)
-- **Battle Value:** 2476
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2515
 
 ## Mad Cat III 4
 - **Role:** Undefined
@@ -80,7 +89,9 @@
   - LRM 20 × 2 (ammo: 12)
   - ER Micro Laser × 4
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 2022
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2061
 
 ## Mad Cat III 5
 - **Role:** Undefined
@@ -92,7 +103,9 @@
 - **Weapons:**
   - Heavy Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
-- **Battle Value:** 2056
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2095
 
 ## Mad Cat III (Dark Age RS)
 - **Role:** Undefined
@@ -107,5 +120,7 @@
   - LRM 20 × 2 (ammo: 12)
   - ER Micro Laser × 4
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 2022
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2061
 

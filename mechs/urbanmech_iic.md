@@ -9,7 +9,9 @@
 - **Weapons:**
   - ER Small Laser
   - Ultra AC/10 (ammo: 20)
-- **Battle Value:** 762
+- **Equipment:**
+  - CASE
+- **Battle Value:** 798
 
 ## UrbanMech IIC 2
 - **Role:** Undefined
@@ -21,5 +23,7 @@
 - **Weapons:**
   - Flamer
   - HAG 20 (ammo: 12)
-- **Battle Value:** 848
+- **Equipment:**
+  - CASE
+- **Battle Value:** 855
 

@@ -69,7 +69,7 @@
   - ER PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 977
 
 ## Hussar HSR-900-D
 - **Role:** Undefined

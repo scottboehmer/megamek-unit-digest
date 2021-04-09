@@ -32,7 +32,7 @@
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 6
 - **Armor:** 185
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium Laser × 4

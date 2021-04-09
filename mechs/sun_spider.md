@@ -10,7 +10,9 @@
   - Streak SRM 6 × 4 (ammo: 45)
   - ER Large Laser
   - Ultra AC/10 (ammo: 20)
-- **Battle Value:** 2199
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2257
 
 ## Sun Spider A
 - **Role:** Undefined
@@ -22,7 +24,9 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Ultra AC/2 × 4 (ammo: 90)
-- **Battle Value:** 1892
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1931
 
 ## Sun Spider C
 - **Role:** Undefined
@@ -34,7 +38,9 @@
 - **Weapons:**
   - LRM 15 × 4 (ammo: 32)
   - LRM 20 × 2 (ammo: 12)
-- **Battle Value:** 2463
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2541
 
 ## Sun Spider Manul
 - **Role:** Undefined
@@ -48,7 +54,9 @@
   - ER Large Laser × 2
   - ER Small Laser
   - Anti-Missile System (ammo: 24)
-- **Battle Value:** 2770
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2789
 
 ## Sun Spider Vanguard
 - **Role:** Undefined
@@ -62,7 +70,9 @@
   - Streak SRM 4 × 2 (ammo: 50)
   - ER PPC
   - LB 5-X AC × 2 (ammo: 40 Standard, 20 Cluster)
-- **Battle Value:** 1946
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2044
 
 ## Sun Spider B
 - **Role:** Undefined
@@ -78,8 +88,9 @@
   - ER Large Laser
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
+  - CASE
   - Light Active Probe
-- **Battle Value:** 2450
+- **Battle Value:** 2497
 
 ## Sun Spider D
 - **Role:** Undefined
@@ -93,5 +104,6 @@
   - Heavy Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 2037
+  - CASE
+- **Battle Value:** 2096
 

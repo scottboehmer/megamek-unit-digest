@@ -12,7 +12,8 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Active Probe
-- **Battle Value:** 808
+  - CASE
+- **Battle Value:** 871
 
 ## Koshi (Mist Lynx) A
 - **Role:** Undefined
@@ -28,8 +29,9 @@
 - **Equipment:**
   - Active Probe
   - TAG
+  - CASE
   - A-Pod × 2
-- **Battle Value:** 524
+- **Battle Value:** 608
 
 ## Koshi (Mist Lynx) B
 - **Role:** Undefined
@@ -44,7 +46,8 @@
   - ER Small Laser
 - **Equipment:**
   - Active Probe
-- **Battle Value:** 1167
+  - CASE
+- **Battle Value:** 1209
 
 ## Koshi (Mist Lynx) C
 - **Role:** Undefined
@@ -60,7 +63,8 @@
 - **Equipment:**
   - Active Probe
   - ECM Suite
-- **Battle Value:** 1299
+  - CASE
+- **Battle Value:** 1320
 
 ## Koshi (Mist Lynx) D
 - **Role:** Undefined
@@ -75,7 +79,8 @@
   - ER Small Laser
 - **Equipment:**
   - Active Probe
-- **Battle Value:** 821
+  - CASE
+- **Battle Value:** 842
 
 ## Koshi (Mist Lynx) E
 - **Role:** Undefined
@@ -89,7 +94,8 @@
   - ER Small Laser × 4
 - **Equipment:**
   - Active Probe
-- **Battle Value:** 955
+  - CASE
+- **Battle Value:** 997
 
 ## Koshi (Mist Lynx) H
 - **Role:** Undefined
@@ -105,7 +111,8 @@
   - Heavy Medium Laser
 - **Equipment:**
   - Active Probe
-- **Battle Value:** 940
+  - CASE
+- **Battle Value:** 982
 
 ## Koshi (Mist Lynx) P
 - **Role:** Undefined
@@ -152,7 +159,8 @@
 - **Equipment:**
   - Active Probe
   - MG Array × 2
-- **Battle Value:** 743
+  - CASE
+- **Battle Value:** 764
 
 ## Koshi (Mist Lynx) I
 - **Role:** Undefined
@@ -165,8 +173,9 @@
   - SRM 2 × 5 (ammo: 50)
   - Narc (ammo: 0)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 626
+- **Battle Value:** 689
 
 ## Koshi (Mist Lynx) J
 - **Role:** Undefined
@@ -194,8 +203,9 @@
   - ProtoMech AC/4 (ammo: 20)
   - ER Medium Laser × 2
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 955
+- **Battle Value:** 976
 
 ## Koshi (Mist Lynx) N
 - **Role:** Undefined
@@ -210,8 +220,9 @@
   - Heavy Small Laser
 - **Equipment:**
   - TAG
+  - CASE
   - Active Probe
-- **Battle Value:** 955
+- **Battle Value:** 976
 
 ## Koshi (Mist Lynx) M
 - **Role:** Undefined
@@ -225,8 +236,9 @@
   - Plasma Cannon (ammo: 20)
   - SRM 2 (ammo: 50)
 - **Equipment:**
+  - CASE
   - Active Probe
-- **Battle Value:** 940
+- **Battle Value:** 961
 
 ## Koshi (Mist Lynx) T
 - **Role:** Undefined
@@ -240,7 +252,8 @@
   - SRM 4 (ammo: 25)
   - ER Small Laser × 2
 - **Equipment:**
+  - CASE
   - ECM Suite
   - Active Probe
-- **Battle Value:** 929
+- **Battle Value:** 971
 

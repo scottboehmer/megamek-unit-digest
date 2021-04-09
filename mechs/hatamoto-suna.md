@@ -5,7 +5,7 @@
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
 - **Armor:** 210 (Ballistic Reinforced)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle (ammo: 24)

@@ -172,7 +172,9 @@
   - Large Pulse Laser × 2
   - Inner Sphere Medium Laser × 2
   - Ultra AC/5 (ammo: 20)
-- **Battle Value:** 1693
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1711
 
 ## Marauder MAD-5M
 - **Role:** Undefined
@@ -384,7 +386,7 @@
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 5, Light
 - **Armor:** 200
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser × 2
@@ -392,7 +394,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1788
 
 ## Marauder MAD-7M
 - **Role:** Undefined
@@ -415,7 +417,7 @@
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 5, Light
 - **Armor:** 200
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser × 2
@@ -510,7 +512,7 @@
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 224
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Clan ER PPC × 2

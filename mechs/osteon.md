@@ -12,6 +12,7 @@
 - **Equipment:**
   - Nova CEWS
   - CASE II
+  - CASE
 - **Battle Value:** 3073
 
 ## Osteon (Jaguar)
@@ -30,6 +31,7 @@
   - ER PPC
 - **Equipment:**
   - Nova CEWS
+  - CASE
 - **Battle Value:** unknown
 
 ## Osteon B
@@ -92,8 +94,9 @@
   - ER Medium Laser
 - **Equipment:**
   - Nova CEWS
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2748
+- **Battle Value:** 2762
 
 ## Osteon F
 - **Role:** Undefined
@@ -110,8 +113,9 @@
   - ER Large Laser
 - **Equipment:**
   - Nova CEWS
+  - CASE
   - MG Array × 2
-- **Battle Value:** 2633
+- **Battle Value:** 2691
 
 ## Osteon G
 - **Role:** Undefined
@@ -127,5 +131,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Nova CEWS
-- **Battle Value:** 2217
+  - CASE
+- **Battle Value:** 2251
 

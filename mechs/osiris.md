@@ -30,7 +30,7 @@
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 101 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy PPC

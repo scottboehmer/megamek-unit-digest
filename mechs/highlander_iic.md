@@ -11,7 +11,9 @@
   - Gauss Rifle (ammo: 24)
   - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 24)
-- **Battle Value:** 2882
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2979
 
 ## Highlander IIC 2
 - **Role:** Undefined
@@ -27,8 +29,9 @@
   - ER Medium Laser × 3
   - ATM 6 × 3 (ammo: 20)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2759
+- **Battle Value:** 2863
 
 ## Highlander IIC 3
 - **Role:** Undefined
@@ -43,6 +46,7 @@
   - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 24)
 - **Equipment:**
+  - CASE
   - ECM Suite
-- **Battle Value:** 2904
+- **Battle Value:** 3001
 

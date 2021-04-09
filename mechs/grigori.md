@@ -5,7 +5,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -25,7 +25,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1536
 
 ## Grigori C-GRG-OB Infernus
 - **Role:** Undefined
@@ -44,7 +44,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -55,7 +55,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1374
 
 ## Grigori C-GRG-OC Comminus
 - **Role:** Undefined
@@ -63,7 +63,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -74,7 +74,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1438
 
 ## Grigori C-GRG-OD Luminos
 - **Role:** Undefined
@@ -82,7 +82,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 6, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -92,7 +92,7 @@
   - Light PPC
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1568
 
 ## Grigori C-GRG-O (Rufus)
 - **Role:** Undefined
@@ -100,7 +100,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 (8) / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -112,7 +112,7 @@
   - C3i
   - CASE
   - Supercharger
-- **Battle Value:** unknown
+- **Battle Value:** 1380
 
 ## Grigori C-GRG-O (Tamiel)
 - **Role:** Undefined
@@ -120,7 +120,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -138,7 +138,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -157,7 +157,7 @@
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 186 (Light Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -167,5 +167,5 @@
 - **Equipment:**
   - C3i
   - CASE II
-- **Battle Value:** unknown
+- **Battle Value:** 1378
 

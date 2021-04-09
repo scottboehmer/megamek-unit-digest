@@ -39,7 +39,7 @@
   - Medium Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1779
 
 ## Flashman FLS-C
 - **Role:** Undefined
@@ -62,7 +62,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
 - **Armor:** 220 (Light Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -72,7 +72,7 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1600
 
 ## Flashman FLS-9M
 - **Role:** Undefined

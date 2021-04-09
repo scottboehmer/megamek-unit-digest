@@ -11,7 +11,9 @@
   - LRM 5 (ammo: 24)
   - SRM 4 (ammo: 25)
   - ER Small Laser
-- **Battle Value:** 1010
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1052
 
 ## Bear Cub 2
 - **Role:** Undefined
@@ -24,7 +26,9 @@
   - ER Medium Laser × 2
   - SRM 4 × 2 (ammo: 50)
   - ER Small Laser
-- **Battle Value:** 946
+- **Equipment:**
+  - CASE
+- **Battle Value:** 988
 
 ## Bear Cub 3
 - **Role:** Undefined
@@ -37,5 +41,7 @@
   - ER Medium Laser × 2
   - LRM 5 × 2 (ammo: 48)
   - ER Small Laser
-- **Battle Value:** 1044
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1086
 

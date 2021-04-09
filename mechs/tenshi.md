@@ -5,7 +5,7 @@
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 (6) / 0, Light
 - **Armor:** 293
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Gauss Rifle (ammo: 24)
@@ -23,7 +23,7 @@
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 293
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Large VSP Laser × 3
@@ -39,7 +39,7 @@
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 3, Light
 - **Armor:** 293
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Streak SRM 6 × 2 (ammo: 30)
@@ -54,7 +54,7 @@
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, Light
 - **Armor:** 293
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Clan ER Medium Laser × 5

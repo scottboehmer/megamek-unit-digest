@@ -102,5 +102,6 @@
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 1271
+  - CASE
+- **Battle Value:** 1290
 

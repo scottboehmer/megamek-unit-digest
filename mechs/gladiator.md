@@ -55,7 +55,7 @@
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 (8) / 6, Light
 - **Armor:** 176
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Medium Laser × 2
@@ -64,7 +64,7 @@
 - **Equipment:**
   - C3i
   - Supercharger
-- **Battle Value:** unknown
+- **Battle Value:** 1517
 
 ## Gladiator GLD-5R
 - **Role:** Undefined
@@ -72,7 +72,7 @@
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 6, Light
 - **Armor:** 185
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Medium Laser × 2

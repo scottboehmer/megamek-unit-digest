@@ -104,7 +104,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2090
 
 ## Emperor EMP-6S
 - **Role:** Undefined

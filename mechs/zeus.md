@@ -167,7 +167,7 @@
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0, Light
 - **Armor:** 247 (Ferro Fibrous)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Heavy PPC × 2
@@ -181,7 +181,7 @@
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 241 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyroscope
+- **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Gauss Rifle (ammo: 24)

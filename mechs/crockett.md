@@ -72,7 +72,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1955
 
 ## Crockett CRK-5005-1
 - **Role:** Undefined
@@ -89,5 +89,5 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1908
 

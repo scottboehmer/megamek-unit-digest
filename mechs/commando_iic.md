@@ -10,5 +10,7 @@
   - ER Medium Laser × 2
   - SRM 4 × 3 (ammo: 25)
   - SRM 6 (ammo: 15)
-- **Battle Value:** 939
+- **Equipment:**
+  - CASE
+- **Battle Value:** 978
 

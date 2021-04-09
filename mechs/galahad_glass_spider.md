@@ -8,7 +8,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 40)
-- **Battle Value:** 1811
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1825
 
 ## Galahad (Glass Spider) 2
 - **Role:** Undefined

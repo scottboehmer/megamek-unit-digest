@@ -12,9 +12,10 @@
   - ER Large Laser
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
   - Supercharger
-- **Battle Value:** 2997
+- **Battle Value:** 3018
 
 ## Dominator 2
 - **Role:** Undefined
@@ -29,6 +30,7 @@
   - LRM 20 w/ Artemis V (ammo: 12)
   - ER Small Laser
 - **Equipment:**
+  - CASE
   - Targeting Computer
-- **Battle Value:** 2867
+- **Battle Value:** 2906
 

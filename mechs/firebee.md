@@ -30,7 +30,7 @@
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
 - **Armor:** 104 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

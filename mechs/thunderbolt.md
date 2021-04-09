@@ -294,7 +294,7 @@
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 4, Compact
 - **Armor:** 206 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyroscope
+- **Gyroscope:** Heavy-Duty Gyro
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -392,7 +392,7 @@
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 3, XL
 - **Armor:** 211 (Stealth)
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)

@@ -5,7 +5,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 80
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2
@@ -20,7 +20,7 @@
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
 - **Armor:** 80
-- **Gyroscope:** Extra-Light Gyroscope
+- **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2

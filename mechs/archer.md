@@ -173,7 +173,8 @@
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - ECM Suite
-- **Battle Value:** 2275
+  - CASE
+- **Battle Value:** 2365
 
 ## Archer ARC-6S
 - **Role:** Undefined

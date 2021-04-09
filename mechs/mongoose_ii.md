@@ -13,7 +13,7 @@
   - MASC
   - C3i
   - Guardian ECM Suite
-- **Battle Value:** unknown
+- **Battle Value:** 1085
 
 ## Mongoose II MON-267
 - **Role:** Undefined

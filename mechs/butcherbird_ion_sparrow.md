@@ -12,7 +12,8 @@
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 883
+  - CASE
+- **Battle Value:** 885
 
 ## Butcherbird (Ion Sparrow) A
 - **Role:** Undefined
@@ -28,7 +29,8 @@
   - Partial Wing
   - MG Array × 2
   - Active Probe
-- **Battle Value:** 414
+  - CASE
+- **Battle Value:** 436
 
 ## Butcherbird (Ion Sparrow) B
 - **Role:** Undefined
@@ -42,7 +44,8 @@
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - Partial Wing
-- **Battle Value:** 604
+  - CASE
+- **Battle Value:** 626
 
 ## Butcherbird (Ion Sparrow) C
 - **Role:** Undefined

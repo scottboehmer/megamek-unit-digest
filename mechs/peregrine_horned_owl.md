@@ -20,7 +20,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 5 × 6 (ammo: 96)
-- **Battle Value:** 1113
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1191
 
 ## Peregrine (Horned Owl) 3
 - **Role:** Undefined
@@ -34,7 +36,8 @@
   - ER PPC
 - **Equipment:**
   - Targeting Computer
-- **Battle Value:** 1525
+  - CASE
+- **Battle Value:** 1545
 
 ## Peregrine (Horned Owl) 4
 - **Role:** Undefined
@@ -46,7 +49,9 @@
 - **Weapons:**
   - ATM 3 × 4 (ammo: 40 Standard, 20 ER)
   - ER Medium Laser
-- **Battle Value:** 1140
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1198
 
 ## Peregrine (Horned Owl) 5
 - **Role:** Undefined

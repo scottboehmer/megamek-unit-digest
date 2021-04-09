@@ -26,5 +26,5 @@
   - Large Pulse Laser
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 1389
 

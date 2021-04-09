@@ -11,6 +11,7 @@
   - ER PPC × 2
   - ATM 3 (ammo: 40)
 - **Equipment:**
+  - CASE
   - Angel ECM Suite
-- **Battle Value:** 3005
+- **Battle Value:** 3044
 
