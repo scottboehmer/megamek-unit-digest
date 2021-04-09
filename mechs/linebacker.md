@@ -86,12 +86,12 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Large Laser
 - **Equipment:**
   - CASE
   - Light Active Probe
-- **Battle Value:** 1690
+- **Battle Value:** 1846
 
 ## Linebacker H
 - **Role:** Undefined

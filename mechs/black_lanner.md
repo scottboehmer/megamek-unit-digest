@@ -105,12 +105,12 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 12 (ammo: 5)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - ER Medium Laser × 3
 - **Equipment:**
   - MASC
   - CASE
-- **Battle Value:** 2106
+- **Battle Value:** 2331
 
 ## Black Lanner X
 - **Role:** Undefined

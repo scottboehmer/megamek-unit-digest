@@ -82,12 +82,12 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - ER Medium Laser
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Battle Value:** 1347
+- **Battle Value:** 1483
 
 ## Fenris (Ice Ferret) H
 - **Role:** Undefined

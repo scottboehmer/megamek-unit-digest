@@ -72,9 +72,9 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Improved Heavy Medium Laser × 2
-  - ATM 12 × 2 (ammo: 10)
+  - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
   - Micro Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2061
+- **Battle Value:** 2346
 

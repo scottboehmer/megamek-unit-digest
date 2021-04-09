@@ -346,13 +346,13 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - HAG 30 (ammo: 16)
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - Medium Pulse Laser × 4
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 2967
+- **Battle Value:** 3025
 
 ## BattleMaster BLR-4S (Calvin II)
 - **Role:** Undefined

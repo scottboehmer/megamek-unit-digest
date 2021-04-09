@@ -25,10 +25,10 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 12 (ammo: 5)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - ER Large Laser
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 1590
+- **Battle Value:** 1773
 

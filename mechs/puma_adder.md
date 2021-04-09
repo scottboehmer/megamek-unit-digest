@@ -118,11 +118,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Flamer
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - Micro Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Battle Value:** 1164
+- **Battle Value:** 1272
 
 ## Puma (Adder) J
 - **Role:** Undefined

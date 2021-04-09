@@ -54,12 +54,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 4
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - MASC
   - CASE
   - Targeting Computer
-- **Battle Value:** 1983
+- **Battle Value:** 2095
 
 ## Hellion D
 - **Role:** Undefined

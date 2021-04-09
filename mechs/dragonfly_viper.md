@@ -82,12 +82,12 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 HE, 10 ER)
   - ER Medium Laser
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 1435
+- **Battle Value:** 1561
 
 ## Dragonfly (Viper) H
 - **Role:** Undefined

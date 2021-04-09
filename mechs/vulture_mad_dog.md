@@ -98,11 +98,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - ER Small Laser × 2
-  - ATM 12 × 2 (ammo: 10)
+  - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2162
+- **Battle Value:** 2447
 
 ## Vulture (Mad Dog) H
 - **Role:** Undefined

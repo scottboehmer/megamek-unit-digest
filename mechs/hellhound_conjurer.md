@@ -38,11 +38,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 1931
+- **Battle Value:** 2097
 
 ## Hellhound (Conjurer) 3
 - **Role:** Undefined

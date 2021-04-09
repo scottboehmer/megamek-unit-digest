@@ -117,13 +117,13 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - Heavy Medium Laser × 4
-  - ATM 12 (ammo: 5)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - Streak SRM 6 (ammo: 15)
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 2114
+- **Battle Value:** 2257
 
 ## Man O' War (Gargoyle) M
 - **Role:** Undefined
@@ -190,14 +190,14 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - Inner Sphere TSEMP
   - ER Medium Laser × 6
   - Small Pulse Laser
 - **Equipment:**
   - CASE
   - CASE II
-- **Battle Value:** 2701
+- **Battle Value:** 2800
 
 ## Man O' War (Gargoyle) J
 - **Role:** Undefined

@@ -124,10 +124,10 @@
   - HAG 20 (ammo: 18)
   - Large Pulse Laser
   - ER Medium Laser
-  - ATM 12 (ammo: 5)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2249
+- **Battle Value:** 2391
 
 ## Cauldron-Born (Ebon Jaguar) X
 - **Role:** Undefined

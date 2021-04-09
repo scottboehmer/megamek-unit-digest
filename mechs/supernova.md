@@ -19,11 +19,11 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser × 2
-  - ATM 9 × 4 (ammo: 14)
+  - ATM 9 × 4 (ammo: 14 Standard, 14 ER, 14 HE)
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 2563
+- **Battle Value:** 2741
 
 ## Supernova 3
 - **Role:** Undefined

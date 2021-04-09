@@ -85,10 +85,10 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 12 (ammo: 5)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 897
+- **Battle Value:** 1094
 
 ## Fire Falcon H
 - **Role:** Undefined

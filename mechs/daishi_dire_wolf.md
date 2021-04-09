@@ -183,13 +183,13 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - LRM 15 w/ Artemis IV (ammo: 8)
   - SRM 4 w/ Artemis IV (ammo: 25)
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Micro Laser × 2
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Battle Value:** 2593
+- **Battle Value:** 2645
 
 ## Daishi (Dire Wolf) D
 - **Role:** Undefined

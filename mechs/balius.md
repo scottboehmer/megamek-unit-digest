@@ -51,12 +51,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Flamer
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 1995
+- **Battle Value:** 2103
 
 ## Balius D
 - **Role:** Undefined

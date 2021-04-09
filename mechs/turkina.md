@@ -52,11 +52,11 @@
 - **Armor:** 288
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ATM 12 × 4 (ammo: 20)
+  - ATM 12 × 4 (ammo: 20 Standard, 15 ER, 15 HE)
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2745
+- **Battle Value:** 3132
 
 ## Turkina H
 - **Role:** Undefined

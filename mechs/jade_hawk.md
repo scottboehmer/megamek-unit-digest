@@ -60,10 +60,10 @@
 - **Weapons:**
   - ER Large Laser × 2
   - ER Small Laser × 3
-  - ATM 6 × 4 (ammo: 20)
+  - ATM 6 × 4 (ammo: 20 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2384
+- **Battle Value:** 2455
 
 ## Jade Hawk 3
 - **Role:** Undefined
@@ -75,8 +75,8 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - ER Small Laser × 3
-  - ATM 6 × 4 (ammo: 20)
+  - ATM 6 × 4 (ammo: 20 Standard, 20 ER)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2406
+- **Battle Value:** 2498
 

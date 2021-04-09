@@ -82,12 +82,12 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - ER Medium Laser
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 1496
+- **Battle Value:** 1632
 
 ## Pouncer H
 - **Role:** Undefined

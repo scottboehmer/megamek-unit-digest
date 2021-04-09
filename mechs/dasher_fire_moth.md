@@ -87,11 +87,11 @@
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - MASC
   - CASE
-- **Battle Value:** 666
+- **Battle Value:** 822
 
 ## Dasher (Fire Moth) H
 - **Role:** Undefined

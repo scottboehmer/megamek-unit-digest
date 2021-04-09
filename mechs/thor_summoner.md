@@ -103,11 +103,11 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC
-  - ATM 12 (ammo: 5)
-  - ATM 6 (ammo: 10)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2337
+- **Battle Value:** 2612
 
 ## Thor (Summoner) F
 - **Role:** Undefined

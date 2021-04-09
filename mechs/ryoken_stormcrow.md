@@ -107,13 +107,13 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 14 HE, 14 ER)
   - ER Medium Laser × 2
   - ER Small Laser × 4
 - **Equipment:**
   - CASE
   - Active Probe
-- **Battle Value:** 1894
+- **Battle Value:** 2110
 
 ## Ryoken (Stormcrow) (Kotare)
 - **Role:** Undefined

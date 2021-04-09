@@ -88,10 +88,10 @@
 - **Weapons:**
   - Medium Pulse Laser
   - ER Small Laser
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 20 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 1686
+- **Battle Value:** 1806
 
 ## Grendel (Mongrel) H
 - **Role:** Undefined

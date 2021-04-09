@@ -50,9 +50,9 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Ultra AC/20 × 2 (ammo: 30)
-  - ATM 6 × 3 (ammo: 20)
+  - ATM 6 × 3 (ammo: 20 Standard, 10 ER, 10 HE)
   - ER Large Laser
 - **Equipment:**
   - CASE
-- **Battle Value:** 2657
+- **Battle Value:** 2709
 

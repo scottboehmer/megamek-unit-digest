@@ -58,11 +58,11 @@
 - **Weapons:**
   - ER Medium Laser × 4
   - HAG 20 (ammo: 18)
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
 - **Equipment:**
   - CASE
   - Targeting Computer
   - ECM Suite
   - B-Pod × 2
-- **Battle Value:** 2668
+- **Battle Value:** 2767
 

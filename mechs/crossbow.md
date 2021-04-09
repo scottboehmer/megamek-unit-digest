@@ -104,12 +104,12 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - Heavy Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
   - ECM Suite
-- **Battle Value:** 1414
+- **Battle Value:** 1557
 
 ## Crossbow CRS-9A
 - **Role:** Undefined

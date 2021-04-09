@@ -8,13 +8,13 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy Medium Laser × 2
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
   - Heavy Small Laser
   - ER Large Laser
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
-- **Battle Value:** 1637
+- **Battle Value:** 1715
 
 ## Lobo 2
 - **Role:** Undefined

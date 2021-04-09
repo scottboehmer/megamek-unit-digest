@@ -29,11 +29,11 @@
   - ER Medium Laser × 2
   - ER Small Laser
   - Heavy Large Laser
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
 - **Equipment:**
   - CASE
   - MASC
-- **Battle Value:** 2286
+- **Battle Value:** 2370
 
 ## Hellfire 3
 - **Role:** Undefined

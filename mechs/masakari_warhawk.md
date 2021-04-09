@@ -72,14 +72,14 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - Ultra AC/10 (ammo: 20)
   - ER Large Laser × 2
   - ER Small Laser
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 2394
+- **Battle Value:** 2474
 
 ## Masakari (Warhawk) F
 - **Role:** Undefined

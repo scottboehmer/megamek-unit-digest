@@ -87,13 +87,13 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 10)
+  - ATM 6 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Medium Laser × 3
   - Narc (ammo: 12)
 - **Equipment:**
   - MASC
   - CASE
-- **Battle Value:** 2079
+- **Battle Value:** 2199
 
 ## Shadow Cat D
 - **Role:** Undefined

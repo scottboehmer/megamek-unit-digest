@@ -93,11 +93,11 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Battle Value:** 1300
+- **Battle Value:** 1442
 
 ## Cougar F
 - **Role:** Undefined

@@ -45,12 +45,12 @@
 - **Cockpit:** Interface
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Clan ATM 9 (ammo: 7)
+  - Clan ATM 9 (ammo: 7 ER, 7 Standard, 7 HE)
   - TSEMP
   - Clan ER Medium Laser × 6
 - **Equipment:**
   - Clan Targeting Computer
-- **Battle Value:** 4263
+- **Battle Value:** 4428
 
 ## Ryoken III-XP D
 - **Role:** Undefined

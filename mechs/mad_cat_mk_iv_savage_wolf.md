@@ -23,12 +23,12 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER PPC × 2
-  - ATM 6 × 2 (ammo: 10)
+  - ATM 6 × 2 (ammo: 10 ER, 10 HE, 10 Standard)
   - ER Small Laser
-  - ATM 3 × 2 (ammo: 20 ER, 20 HE, 20 Standard)
+  - ATM 3 × 2 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2633
+- **Battle Value:** 2666
 
 ## Mad Cat Mk IV (Savage Wolf) (Prime)
 - **Role:** Undefined
@@ -53,11 +53,11 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER Large Laser × 2
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Battle Value:** 2315
+- **Battle Value:** 2413
 
 ## Mad Cat Mk IV (Savage Wolf) B
 - **Role:** Undefined

@@ -51,11 +51,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Battle Value:** 1600
+- **Battle Value:** 1698
 
 ## Shadow Hawk IIC 5
 - **Role:** Undefined

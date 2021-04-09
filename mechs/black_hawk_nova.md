@@ -95,10 +95,10 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Medium Laser × 3
-  - ATM 12 (ammo: 10)
+  - ATM 12 (ammo: 10 Standard, 10 HE, 10 ER)
 - **Equipment:**
   - CASE
-- **Battle Value:** 1888
+- **Battle Value:** 2078
 
 ## Black Hawk (Nova) H
 - **Role:** Undefined

@@ -23,10 +23,10 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Heavy Small Laser × 6
-  - ATM 12 × 2 (ammo: 10)
+  - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 1650
+- **Battle Value:** 1935
 
 ## Pariah (Septicemia) A-Z
 - **Role:** Undefined

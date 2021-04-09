@@ -90,10 +90,10 @@
 - **Weapons:**
   - ER Small Laser × 3
   - ER Medium Laser × 4
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 20 Standard, 10 HE, 10 ER)
 - **Equipment:**
   - CASE
-- **Battle Value:** 1991
+- **Battle Value:** 2069
 
 ## Goshawk (Vapor Eagle) 7
 - **Role:** Undefined

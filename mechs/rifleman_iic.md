@@ -49,11 +49,11 @@
 - **Armor:** 211
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - Large Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2051
+- **Battle Value:** 2140
 
 ## Rifleman IIC 5
 - **Role:** Undefined

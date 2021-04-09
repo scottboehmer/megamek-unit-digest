@@ -57,10 +57,10 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser × 2
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - ER Medium Laser × 2
 - **Equipment:**
   - Inner Sphere Coolant Pod
   - CASE
-- **Battle Value:** 2473
+- **Battle Value:** 2572
 

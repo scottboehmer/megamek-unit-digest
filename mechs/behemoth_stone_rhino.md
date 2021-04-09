@@ -96,11 +96,11 @@
 - **Heat Sinks:** 21 (42)
 - **Weapons:**
   - Large Pulse Laser × 4
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2983
+- **Battle Value:** 3072
 
 ## Behemoth (Stone Rhino) 8
 - **Role:** Undefined

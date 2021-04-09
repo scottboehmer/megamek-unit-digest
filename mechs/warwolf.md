@@ -59,12 +59,12 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Large Pulse Laser
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 7 HE, 7 ER)
   - Laser Anti-Missile System
 - **Equipment:**
   - Targeting Computer
   - CASE II
-- **Battle Value:** 2659
+- **Battle Value:** 2776
 
 ## Warwolf H
 - **Role:** Undefined

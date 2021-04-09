@@ -7,7 +7,7 @@
 - **Armor:** 248
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 14 ER, 14 HE)
   - Plasma Cannon (ammo: 20)
   - ER Medium Laser
   - Heavy Large Laser
@@ -16,5 +16,5 @@
   - CASE
   - Targeting Computer
   - ECM Suite
-- **Battle Value:** 2680
+- **Battle Value:** 2878
 

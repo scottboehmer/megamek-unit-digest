@@ -126,14 +126,14 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 21)
+  - ATM 9 × 2 (ammo: 21 Standard, 7 ER, 7 HE)
   - ER Large Laser × 2
   - Heavy Medium Laser × 2
   - Heavy Small Laser
 - **Equipment:**
   - MASC
   - CASE
-- **Battle Value:** 2870
+- **Battle Value:** 2988
 
 ## Gladiator (Executioner) K
 - **Role:** Undefined

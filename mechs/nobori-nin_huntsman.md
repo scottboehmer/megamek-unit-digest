@@ -79,12 +79,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Ultra AC/10 (ammo: 20)
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - Medium Pulse Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Battle Value:** 1916
+- **Battle Value:** 2007
 
 ## Nobori-nin (Huntsman) H
 - **Role:** Undefined
@@ -111,14 +111,14 @@
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Large Laser
   - ER PPC
   - Heavy Medium Laser
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 2465
+- **Battle Value:** 2556
 
 ## Nobori-nin (Huntsman) E
 - **Role:** Undefined
@@ -132,12 +132,12 @@
   - Large Pulse Laser
   - ER Small Laser
   - Anti-Missile System (ammo: 24)
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - Light Active Probe
   - Light TAG
   - CASE
-- **Battle Value:** 2013
+- **Battle Value:** 2104
 
 ## Nobori-nin (Huntsman) I
 - **Role:** Undefined

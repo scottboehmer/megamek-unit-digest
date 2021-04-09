@@ -37,11 +37,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 3
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 ER, 7 Standard, 7 HE)
 - **Equipment:**
   - CASE
   - Light Active Probe
-- **Battle Value:** 2045
+- **Battle Value:** 2210
 
 ## Crimson Langur C
 - **Role:** Undefined

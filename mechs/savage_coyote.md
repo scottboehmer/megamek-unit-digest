@@ -11,10 +11,10 @@
   - ER Medium Laser × 3
   - ER PPC
   - ER Small Laser × 2
-  - ATM 12 × 2 (ammo: 10)
+  - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2405
+- **Battle Value:** 2613
 
 ## Savage Coyote A
 - **Role:** Undefined
@@ -25,13 +25,13 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser
-  - ATM 6 × 3 (ammo: 20)
+  - ATM 6 × 3 (ammo: 20 Standard, 20 ER, 20 HE)
   - Medium Pulse Laser × 3
   - Gauss Rifle (ammo: 16)
   - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2723
+- **Battle Value:** 2852
 
 ## Savage Coyote B
 - **Role:** Undefined
@@ -60,12 +60,12 @@
 - **Weapons:**
   - ER Large Laser × 2
   - ER Medium Laser × 3
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 14 HE, 7 ER)
   - ER PPC
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Battle Value:** 3055
+- **Battle Value:** 3189
 
 ## Savage Coyote Z
 - **Role:** Undefined

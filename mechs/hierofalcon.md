@@ -74,10 +74,10 @@
 - **Weapons:**
   - ER Medium Pulse Laser × 2
   - ER Medium Laser × 2
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 10 HE, 20 Standard, 10 ER)
 - **Equipment:**
   - Partial Wing
   - CASE II
   - Supercharger
-- **Battle Value:** 2084
+- **Battle Value:** 2183
 

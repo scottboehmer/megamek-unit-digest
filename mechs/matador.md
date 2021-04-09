@@ -27,9 +27,9 @@
 - **Weapons:**
   - Heavy Medium Laser × 3
   - AP Gauss Rifle × 3 (ammo: 80)
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Battle Value:** 1630
+- **Battle Value:** 1728
 

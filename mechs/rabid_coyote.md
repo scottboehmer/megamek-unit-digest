@@ -8,11 +8,11 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium Pulse Laser × 4
-  - ATM 12 (ammo: 10)
+  - ATM 12 (ammo: 5 ER, 10 Standard, 5 HE)
 - **Equipment:**
   - CASE
   - ECM Suite
-- **Battle Value:** 1939
+- **Battle Value:** 2081
 
 ## Rabid Coyote 2
 - **Role:** Undefined

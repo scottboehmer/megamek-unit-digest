@@ -52,11 +52,11 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - ER PPC × 2
-  - ATM 6 × 2 (ammo: 30)
+  - ATM 6 × 2 (ammo: 10 ER, 10 HE, 30 Standard)
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Battle Value:** 2327
+- **Battle Value:** 2386
 
 ## Warhammer IIC 5
 - **Role:** Undefined
@@ -100,7 +100,7 @@
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
   - Micro Pulse Laser × 2
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
   - Cargo × 2

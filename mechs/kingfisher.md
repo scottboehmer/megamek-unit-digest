@@ -99,12 +99,12 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ATM 12 (ammo: 5)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - Large Pulse Laser
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Battle Value:** 2327
+- **Battle Value:** 2443
 
 ## Kingfisher F
 - **Role:** Undefined

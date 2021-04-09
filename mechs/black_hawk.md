@@ -21,11 +21,11 @@
 - **Armor:** 152
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 20)
+  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
   - ER Large Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2070
+- **Battle Value:** 2161
 
 ## Black Hawk 3
 - **Role:** Undefined

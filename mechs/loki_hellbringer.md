@@ -81,12 +81,12 @@
 - **Weapons:**
   - ER Large Laser
   - ER Small Laser × 2
-  - ATM 6 (ammo: 10)
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Medium Laser × 2
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2005
+- **Battle Value:** 2076
 
 ## Loki (Hellbringer) F
 - **Role:** Undefined

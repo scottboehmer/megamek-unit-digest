@@ -155,11 +155,11 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER Large Laser × 2
-  - ATM 9 × 2 (ammo: 14)
+  - ATM 9 × 2 (ammo: 14 Standard, 14 ER, 14 HE)
 - **Equipment:**
   - CASE
   - Light TAG
-- **Battle Value:** 2247
+- **Battle Value:** 2444
 
 ## Mad Cat (Timber Wolf) H
 - **Role:** Undefined

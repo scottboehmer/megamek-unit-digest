@@ -64,11 +64,11 @@
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
   - ER PPC × 2
-  - ATM 12 (ammo: 5)
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2328
+- **Battle Value:** 2445
 
 ## Marauder IIC 4
 - **Role:** Undefined

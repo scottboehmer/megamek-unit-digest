@@ -33,11 +33,11 @@
 - **Armor:** 96
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ATM 12 × 3 (ammo: 10)
+  - ATM 12 × 3 (ammo: 10 Standard, 5 ER, 5 HE)
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Battle Value:** 1808
+- **Battle Value:** 1951
 
 ## Hunchback IIC 4
 - **Role:** Undefined

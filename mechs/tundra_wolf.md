@@ -7,7 +7,7 @@
 - **Armor:** 231
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - ER Medium Laser × 4
   - ER Large Laser
   - Streak SRM 4 (ammo: 25)
@@ -16,7 +16,7 @@
   - CASE
   - MASC
   - ECM Suite
-- **Battle Value:** 3014
+- **Battle Value:** 3131
 
 ## Tundra Wolf 2
 - **Role:** Undefined
@@ -62,7 +62,7 @@
 - **Armor:** 231
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - ER Medium Laser × 2
   - AP Gauss Rifle × 2 (ammo: 40)
   - Large Pulse Laser × 2
@@ -70,7 +70,7 @@
   - CASE
   - MASC
   - ECM Suite
-- **Battle Value:** 2755
+- **Battle Value:** 2873
 
 ## Tundra Wolf 5
 - **Role:** Undefined

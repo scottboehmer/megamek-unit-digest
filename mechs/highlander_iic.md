@@ -27,11 +27,11 @@
   - AP Gauss Rifle × 6 (ammo: 40)
   - Gauss Rifle (ammo: 24)
   - ER Medium Laser × 3
-  - ATM 6 × 3 (ammo: 20)
+  - ATM 6 × 3 (ammo: 20 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
   - ECM Suite
-- **Battle Value:** 2863
+- **Battle Value:** 2928
 
 ## Highlander IIC 3
 - **Role:** Undefined

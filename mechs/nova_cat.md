@@ -76,11 +76,11 @@
 - **Armor:** 216
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ATM 9 × 4 (ammo: 28)
+  - ATM 9 × 4 (ammo: 28 Standard, 14 ER, 14 HE)
   - Large Pulse Laser
 - **Equipment:**
   - CASE
-- **Battle Value:** 2029
+- **Battle Value:** 2191
 
 ## Nova Cat F
 - **Role:** Undefined

@@ -39,13 +39,13 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - LRM 15 × 2 (ammo: 48)
-  - ATM 9 (ammo: 7)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - ATM 6 (ammo: 20)
   - LRM 5 × 2 (ammo: 24)
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Battle Value:** 2255
+- **Battle Value:** 2354
 
 ## Thor II (Grand Summoner) C
 - **Role:** Undefined

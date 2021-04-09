@@ -49,10 +49,10 @@
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 9 × 4 (ammo: 21)
+  - ATM 9 × 4 (ammo: 21 Standard, 14 ER, 14 HE)
 - **Equipment:**
   - CASE
-- **Battle Value:** 2230
+- **Battle Value:** 2483
 
 ## Phoenix Hawk IIC 5
 - **Role:** Undefined
