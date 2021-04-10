@@ -76,8 +76,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - HAG 30 × 2 (ammo: 28)
-  - Anti-Missile System × 2 (ammo: 48)
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 48)
   - CASE
   - Active Probe
 - **Battle Value:** 2220

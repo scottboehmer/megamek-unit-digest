@@ -11,9 +11,9 @@
   - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
   - Heavy Small Laser
   - ER Large Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1715
 
 ## Lobo 2

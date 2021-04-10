@@ -184,8 +184,8 @@
   - ER PPC w/ PPC Capacitor
   - LRM 20 w/ Artemis IV (ammo: 12)
   - ER Medium Laser × 2
-  - M-Pod × 4
 - **Equipment:**
   - CASE II
+  - M-Pod × 4
 - **Battle Value:** 2232
 

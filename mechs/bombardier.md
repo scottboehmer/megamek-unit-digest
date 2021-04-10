@@ -9,9 +9,9 @@
 - **Weapons:**
   - SRM 4 (ammo: 25)
   - LRM 20 × 2 (ammo: 12)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1480
 
 ## Bombardier BMB-10D
@@ -53,9 +53,9 @@
   - Arrow IV (ammo: 20)
   - Rocket 20 × 3
   - Small Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1440
 
 ## Bombardier BMB-14K

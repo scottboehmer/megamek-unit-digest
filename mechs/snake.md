@@ -52,8 +52,8 @@
 - **Weapons:**
   - ER PPC
   - LRM 5 (ammo: 24)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - MASC
   - Guardian ECM Suite
 - **Battle Value:** 1477

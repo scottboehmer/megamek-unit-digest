@@ -53,8 +53,8 @@
   - ER PPC × 2
   - ER Large Laser × 2
   - ER Small Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 2789
 
@@ -84,11 +84,11 @@
 - **Weapons:**
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser × 2
-  - Anti-Missile System (ammo: 24)
   - ER Large Laser
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - Light Active Probe
 - **Battle Value:** 2497
 

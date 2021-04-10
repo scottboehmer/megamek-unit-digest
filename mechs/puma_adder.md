@@ -87,10 +87,10 @@
   - Flamer
   - Machine Gun × 10 (ammo: 200)
   - Small Pulse Laser
-  - Anti-Missile System (ammo: 24)
   - Large Pulse Laser
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - Active Probe
   - Targeting Computer
 - **Battle Value:** 1247
@@ -149,10 +149,10 @@
 - **Weapons:**
   - ER Large Pulse Laser
   - RAC/2 (ammo: 45)
-  - Laser Anti-Missile System
   - Flamer
 - **Equipment:**
   - CASE
+  - Laser Anti-Missile System
 - **Battle Value:** 1281
 
 ## Puma (Adder) T

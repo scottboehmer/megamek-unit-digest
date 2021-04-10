@@ -71,8 +71,8 @@
   - ER Large Laser
   - Small Pulse Laser
   - Machine Gun × 2 (ammo: 200)
-  - Anti-Missile System × 3 (ammo: 96)
 - **Equipment:**
+  - Anti-Missile System × 3 (ammo: 96)
   - ECM Suite
   - TAG
   - Active Probe

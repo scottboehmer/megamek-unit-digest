@@ -20,8 +20,8 @@
 - **Weapons:**
   - ER PPC × 2
   - Medium Pulse Laser
-  - Anti-Missile System × 2 (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 24)
   - CASE
 - **Battle Value:** 2422
 
@@ -80,9 +80,9 @@
 - **Weapons:**
   - Medium Pulse Laser × 6
   - Machine Gun × 4 (ammo: 100)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - Active Probe
 - **Battle Value:** 2056
 

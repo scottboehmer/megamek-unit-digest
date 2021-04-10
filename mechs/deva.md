@@ -141,10 +141,10 @@
 - **Weapons:**
   - Blazer Cannon × 2
   - ER Small Laser
-  - Laser Anti-Missile System
 - **Equipment:**
   - C3i
   - Targeting Computer
   - Supercharger
+  - Laser Anti-Missile System
 - **Battle Value:** unknown
 

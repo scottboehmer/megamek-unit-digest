@@ -10,9 +10,9 @@
 - **Weapons:**
   - Medium X-Pulse Laser × 2
   - MRM 20 w/ Apollo FCS (ammo: 12)
-  - Laser Anti-Missile System
 - **Equipment:**
   - CASE
+  - Laser Anti-Missile System
   - Bloodhound Active Probe
   - Angel ECM Suite
 - **Battle Value:** 1021

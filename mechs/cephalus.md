@@ -6,13 +6,12 @@
 - **Movement:** 10 / 15 / 7, XXL
 - **Armor:** 84 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Laser Anti-Missile System
 - **Equipment:**
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
   - Nova CEWS
   - TAG
+  - Laser Anti-Missile System
 - **Battle Value:** 809
 
 ## Cephalus B

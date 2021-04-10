@@ -134,10 +134,10 @@
   - Medium Laser × 2
   - Flamer
   - Machine Gun (ammo: 100)
-  - Anti-Missile System (ammo: 12)
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1408
 
 ## Crusader CRD-5S

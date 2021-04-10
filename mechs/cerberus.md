@@ -10,6 +10,7 @@
   - Gauss Rifle × 2 (ammo: 32)
   - Medium Pulse Laser × 4
   - Machine Gun × 2 (ammo: 100)
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2001
 
@@ -25,6 +26,7 @@
   - ER PPC
   - Medium Pulse Laser × 6
   - Machine Gun × 2 (ammo: 100)
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2057
 
@@ -38,6 +40,7 @@
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
   - Medium Pulse Laser × 4
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2094
 
@@ -53,8 +56,8 @@
   - ER PPC
   - Medium Pulse Laser × 4
   - ER Medium Laser × 2
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - C3i
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2128
 

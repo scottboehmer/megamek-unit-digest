@@ -14,3 +14,20 @@
   - CASE
 - **Battle Value:** unknown
 
+## Mongrel MGL-T2
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3108)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 7 / 11 / 0, XL
+- **Armor:** 168 (Reactive)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ProtoMech AC/8 (ammo: 10)
+  - Inner Sphere Retractable Blade
+  - ER Medium Laser × 3
+- **Equipment:**
+  - CASE
+  - AES
+  - ECM Suite
+- **Battle Value:** unknown
+

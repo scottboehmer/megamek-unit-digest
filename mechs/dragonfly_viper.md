@@ -9,10 +9,10 @@
 - **Weapons:**
   - SRM 4 (ammo: 25)
   - Medium Pulse Laser × 2
-  - Anti-Missile System (ammo: 24)
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1450
 
 ## Dragonfly (Viper) A
@@ -98,10 +98,10 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Heavy Medium Laser × 2
-  - Anti-Missile System (ammo: 24)
   - ER Medium Laser × 2
   - Small Pulse Laser × 2
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 1732
 
@@ -115,9 +115,9 @@
 - **Weapons:**
   - Heavy Medium Laser × 3
   - ATM 3 (ammo: 20)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - Light Active Probe
   - Targeting Computer
 - **Battle Value:** 1580
@@ -163,12 +163,29 @@
 - **Weapons:**
   - Improved Heavy Medium Laser × 3
   - iATM 3 (ammo: 20)
-  - Laser Anti-Missile System
 - **Equipment:**
   - CASE
+  - Laser Anti-Missile System
   - Light TAG
   - Nova CEWS
 - **Battle Value:** 1692
+
+## Dragonfly (Viper) U
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3077)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 / 12 / 8, XL
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Inner Sphere Hatchet
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Anti-Missile System (ammo: 24)
+  - CASE
+  - ECM Suite
+  - Liquid Cargo
+- **Battle Value:** unknown
 
 ## Dragonfly (Viper) R
 - **Role:** Undefined
@@ -196,10 +213,10 @@
 - **Weapons:**
   - Streak SRM 4 (ammo: 25)
   - ER Medium Laser × 2
-  - Anti-Missile System (ammo: 24)
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - Targeting Computer
   - Light Active Probe
 - **Battle Value:** 1704

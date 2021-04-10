@@ -33,9 +33,9 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV (ammo: 16)
   - ER PPC
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
 - **Battle Value:** 1413
 

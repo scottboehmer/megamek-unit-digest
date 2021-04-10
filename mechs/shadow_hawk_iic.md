@@ -87,6 +87,23 @@
   - CASE
 - **Battle Value:** 1907
 
+## Shadow Hawk IIC 7
+- **Role:** Undefined
+- **Tech Base:** Clan (3080)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 5 / 8 / 8, XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - Medium Pulse Laser
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
+  - ER Large Laser
+- **Equipment:**
+  - Liquid Cargo × 2
+  - CASE
+- **Battle Value:** unknown
+
 ## Shadow Hawk IIC 8
 - **Role:** Undefined
 - **Tech Base:** Clan (3081)

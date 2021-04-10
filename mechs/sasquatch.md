@@ -11,7 +11,8 @@
   - Gauss Rifle (ammo: 16)
   - Machine Gun × 2 (ammo: 100)
   - SRM 6 (ammo: 15)
-  - Anti-Missile System (ammo: 12)
   - Small Laser
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1940
 

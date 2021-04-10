@@ -170,3 +170,21 @@
   - CASE
 - **Battle Value:** 1389
 
+## Pariah (Septicemia) US
+- **Role:** Undefined
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 / 7, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Spot Welder × 2
+  - ER Medium Laser × 2
+  - ER PPC
+  - ER Small Laser × 4
+- **Equipment:**
+  - Liquid Cargo × 2
+  - ECM Suite
+  - Talons
+- **Battle Value:** unknown
+

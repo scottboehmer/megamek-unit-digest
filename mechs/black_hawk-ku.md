@@ -21,6 +21,7 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC × 2
+- **Equipment:**
   - Anti-Missile System × 2 (ammo: 24)
 - **Battle Value:** 1770
 
@@ -126,6 +127,20 @@
 - **Equipment:**
   - C3 Master
 - **Battle Value:** 2377
+
+## Black Hawk-KU BHKU-OU
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 200
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - Hatchet
+  - ER Medium Laser × 7
+- **Equipment:**
+  - Liquid Cargo
+- **Battle Value:** unknown
 
 ## Black Hawk-KU BHKU-OG
 - **Role:** Undefined

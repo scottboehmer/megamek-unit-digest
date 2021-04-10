@@ -9,12 +9,12 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - LRM 10 × 2 (ammo: 24)
-  - Laser Anti-Missile System
 - **Equipment:**
   - CASE
   - CASE II
   - Targeting Computer
   - TAG
+  - Laser Anti-Missile System
 - **Battle Value:** 2706
 
 ## Warwolf A
@@ -45,9 +45,9 @@
 - **Weapons:**
   - Ultra AC/10 (ammo: 30)
   - ER Large Pulse Laser
-  - Laser Anti-Missile System
 - **Equipment:**
   - CASE
+  - Laser Anti-Missile System
 - **Battle Value:** 2518
 
 ## Warwolf C
@@ -60,10 +60,10 @@
 - **Weapons:**
   - Large Pulse Laser
   - ATM 9 × 2 (ammo: 14 Standard, 7 HE, 7 ER)
-  - Laser Anti-Missile System
 - **Equipment:**
   - Targeting Computer
   - CASE II
+  - Laser Anti-Missile System
 - **Battle Value:** 2776
 
 ## Warwolf H

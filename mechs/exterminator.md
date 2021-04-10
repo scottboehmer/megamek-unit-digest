@@ -9,11 +9,11 @@
 - **Weapons:**
   - Medium Laser × 4
   - LRM 10 (ammo: 12)
-  - Anti-Missile System (ammo: 12)
   - Small Laser
 - **Equipment:**
   - Chameleon LPS
   - Null-Signature System
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1420
 
 ## Exterminator EXT-4D
@@ -26,8 +26,9 @@
 - **Weapons:**
   - Medium Laser × 4
   - LRM 10 (ammo: 12)
-  - Anti-Missile System (ammo: 12)
   - Small Laser
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1385
 
 ## Exterminator EXT-4Db

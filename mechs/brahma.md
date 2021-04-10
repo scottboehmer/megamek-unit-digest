@@ -11,10 +11,10 @@
   - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
   - Light AC/5 (ammo: 20)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - Targeting Computer
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1572
 
 ## Brahma BRM-5B

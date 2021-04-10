@@ -81,9 +81,9 @@
   - Heavy Medium Laser × 4
   - Heavy Small Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - A-Pod × 2
 - **Battle Value:** 3107
 

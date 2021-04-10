@@ -60,10 +60,10 @@
   - ER Large Laser × 2
   - Ultra AC/5 (ammo: 20)
   - LRM 15 × 2 (ammo: 16)
-  - Anti-Missile System (ammo: 24)
   - ER Medium Laser
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2500
 
 ## Mad Cat (Timber Wolf) D

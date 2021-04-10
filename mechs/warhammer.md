@@ -130,9 +130,10 @@
 - **Weapons:**
   - ER PPC × 2
   - Medium Laser × 2
-  - Anti-Missile System (ammo: 12)
   - SRM 6 (ammo: 15)
   - Machine Gun (ammo: 200)
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1487
 
 ## Warhammer C

@@ -120,12 +120,12 @@
 - **Armor:** 232
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
-  - Anti-Missile System (ammo: 12)
   - ER PPC
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
 - **Equipment:**
   - Command Console
+  - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
 - **Battle Value:** 1563
 

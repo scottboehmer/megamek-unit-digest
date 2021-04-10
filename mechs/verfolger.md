@@ -10,9 +10,9 @@
   - ER PPC
   - Medium Laser × 3
   - LB 10-X AC (ammo: 20 Cluster, 10 Standard)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1639
 
 ## Verfolger VR6-C

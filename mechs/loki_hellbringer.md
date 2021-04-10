@@ -11,12 +11,12 @@
   - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
   - Machine Gun × 2 (ammo: 100)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - Active Probe
   - ECM Suite
   - Targeting Computer
   - CASE
+  - Anti-Missile System (ammo: 24)
   - Inner Sphere A-Pod × 4
 - **Battle Value:** 2654
 
@@ -115,10 +115,10 @@
   - Ultra AC/5 (ammo: 20)
   - ER Medium Laser × 4
   - Streak SRM 4 (ammo: 25)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
   - Active Probe
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2415
 
 ## Loki (Hellbringer) H
@@ -182,8 +182,8 @@
   - ER Medium Laser × 3
   - ATM 6 (ammo: 20)
   - AP Gauss Rifle × 2 (ammo: 40)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE II
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2444
 

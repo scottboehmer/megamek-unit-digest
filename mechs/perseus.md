@@ -45,6 +45,7 @@
   - Large Pulse Laser × 2
   - Gauss Rifle (ammo: 8)
   - ER Large Laser
+- **Equipment:**
   - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1776
 

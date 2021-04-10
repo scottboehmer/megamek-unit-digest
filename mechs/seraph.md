@@ -52,11 +52,11 @@
 - **Weapons:**
   - Heavy PPC
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
-  - Anti-Missile System (ammo: 12)
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
   - Targeting Computer
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 2181
 
@@ -112,11 +112,11 @@
 - **Weapons:**
   - Large VSP Laser
   - Ultra AC/20 (ammo: 30)
-  - Anti-Missile System (ammo: 12)
   - Medium VSP Laser
 - **Equipment:**
   - C3i
   - Targeting Computer
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 1927
 
@@ -150,11 +150,11 @@
   - Retractable Blade
   - Large VSP Laser
   - Thunderbolt 20 (ammo: 12)
-  - Laser Anti-Missile System
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
   - CASE
+  - Laser Anti-Missile System
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OS Caelestis

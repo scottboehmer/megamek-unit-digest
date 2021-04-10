@@ -28,9 +28,9 @@
   - ATM 6 × 3 (ammo: 20 Standard, 20 ER, 20 HE)
   - Medium Pulse Laser × 3
   - Gauss Rifle (ammo: 16)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2852
 
 ## Savage Coyote B

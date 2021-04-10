@@ -56,8 +56,8 @@
 - **Weapons:**
   - ER Medium Laser
   - LB 10-X AC (ammo: 10)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 1465
 

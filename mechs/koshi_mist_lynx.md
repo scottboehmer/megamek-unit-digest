@@ -23,12 +23,12 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Anti-Missile System × 2 (ammo: 72)
   - Flamer
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Active Probe
   - TAG
+  - Anti-Missile System × 2 (ammo: 72)
   - CASE
   - A-Pod × 2
 - **Battle Value:** 608
@@ -57,12 +57,12 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Anti-Missile System (ammo: 24)
   - ER Large Laser
   - ER Medium Laser
 - **Equipment:**
   - Active Probe
   - ECM Suite
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 1320
 
@@ -106,11 +106,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Streak SRM 6 (ammo: 15)
-  - Anti-Missile System (ammo: 24)
   - Heavy Small Laser × 2
   - Heavy Medium Laser
 - **Equipment:**
   - Active Probe
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 982
 
@@ -216,9 +216,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 5 × 4 (ammo: 24)
-  - Laser Anti-Missile System
   - Heavy Small Laser
 - **Equipment:**
+  - Laser Anti-Missile System
   - TAG
   - CASE
   - Active Probe

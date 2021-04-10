@@ -10,6 +10,7 @@
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 36)
+- **Equipment:**
   - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1758
 

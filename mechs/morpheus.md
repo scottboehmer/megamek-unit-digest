@@ -8,11 +8,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - Anti-Missile System (ammo: 12)
   - Medium Laser
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1340
 
 ## Morpheus MRP-3S
@@ -40,6 +40,7 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Medium Laser × 5
+- **Equipment:**
   - Laser Anti-Missile System
 - **Battle Value:** 1925
 

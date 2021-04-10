@@ -1,4 +1,5 @@
-# BattleMechs
+# Mechs
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 ## Variants
 - [List of Variants](variants.md)
 
@@ -68,16 +69,21 @@
 - [Buccaneer](mechs/buccaneer.md)
 - [Burrock](mechs/burrock.md)
 - [Bushwacker](mechs/bushwacker.md)
+- [Buster BC XV HaulerMech](mechs/buster_bc_xv_haulermech.md)
 - [Buster BC XV-M HaulerMech](mechs/buster_bc_xv-m_haulermech.md)
 - [Buster BC XV-M-B HaulerMech](mechs/buster_bc_xv-m-b_haulermech.md)
 - [Buster BC XV-M-C HaulerMech](mechs/buster_bc_xv-m-c_haulermech.md)
+- [Buster BC XXI HaulerMech](mechs/buster_bc_xxi_haulermech.md)
 - [Butcherbird (Ion Sparrow)](mechs/butcherbird_ion_sparrow.md)
 ## C
 - [Cadaver](mechs/cadaver.md)
 - [Caesar](mechs/caesar.md)
 - [Calliope](mechs/calliope.md)
 - [Canis](mechs/canis.md)
+- [Carbine CON-1 ConstructionMech](mechs/carbine_con-1_constructionmech.md)
+- [Carbine CON-7 ConstructionMech](mechs/carbine_con-7_constructionmech.md)
 - [Carbine CON-7M ConstructionMech](mechs/carbine_con-7m_constructionmech.md)
+- [Carbine CON-9 ConstructionMech](mechs/carbine_con-9_constructionmech.md)
 - [Carbine CON-9M ConstructionMech](mechs/carbine_con-9m_constructionmech.md)
 - [Carbine CON-9M-B ConstructionMech](mechs/carbine_con-9m-b_constructionmech.md)
 - [Carrion Crow](mechs/carrion_crow.md)
@@ -138,6 +144,7 @@
 - [Dasher II](mechs/dasher_ii.md)
 - [Defiance](mechs/defiance.md)
 - [Deimos](mechs/deimos.md)
+- [DemolitionMech](mechs/demolitionmech.md)
 - [Dervish](mechs/dervish.md)
 - [Deva](mechs/deva.md)
 - [Devastator](mechs/devastator.md)
@@ -232,6 +239,7 @@
 - [Hammerhead](mechs/hammerhead.md)
 - [Hankyu (Arctic Cheetah)](mechs/hankyu_arctic_cheetah.md)
 - [Harvester Ant](mechs/harvester_ant.md)
+- [Harvester HVR-99 AgroMech](mechs/harvester_hvr-99_agromech.md)
 - [Hatamoto-Chi](mechs/hatamoto-chi.md)
 - [Hatamoto-Hi](mechs/hatamoto-hi.md)
 - [Hatamoto-Kaze](mechs/hatamoto-kaze.md)
@@ -270,6 +278,7 @@
 - [Hunchback IIC](mechs/hunchback_iic.md)
 - [Huron Warrior](mechs/huron_warrior.md)
 - [Hussar](mechs/hussar.md)
+- [Hyena](mechs/hyena.md)
 ## I
 - [Icarus](mechs/icarus.md)
 - [Icarus II](mechs/icarus_ii.md)
@@ -280,6 +289,9 @@
 - [Initiate](mechs/initiate.md)
 - [Inquisitor II](mechs/inquisitor_ii.md)
 ## J
+- [Jabberwocky ConstructionMech](mechs/jabberwocky_constructionmech.md)
+- [Jabberwocky DemolitionMech](mechs/jabberwocky_demolitionmech.md)
+- [Jabberwocky EngineerMech](mechs/jabberwocky_engineermech.md)
 - [Jabberwocky MilitiaMech](mechs/jabberwocky_militiamech.md)
 - [Jackal](mechs/jackal.md)
 - [Jackalope](mechs/jackalope.md)
@@ -409,6 +421,7 @@
 - [Pariah (Septicemia)](mechs/pariah_septicemia.md)
 - [Pathfinder](mechs/pathfinder.md)
 - [Patriot](mechs/patriot.md)
+- [Patron LoaderMech](mechs/patron_loadermech.md)
 - [Patron MilitiaMech](mechs/patron_militiamech.md)
 - [Peacekeeper](mechs/peacekeeper.md)
 - [Peacemaker PM6 PoliceMech](mechs/peacemaker_pm6_policemech.md)
@@ -425,6 +438,7 @@
 - [Pillager](mechs/pillager.md)
 - [Pinion](mechs/pinion.md)
 - [Piranha](mechs/piranha.md)
+- [Pompier Firemech](mechs/pompier_firemech.md)
 - [Porcupine](mechs/porcupine.md)
 - [Pouncer](mechs/pouncer.md)
 - [Powerman SC XI-M LoaderMech](mechs/powerman_sc_xi-m_loadermech.md)

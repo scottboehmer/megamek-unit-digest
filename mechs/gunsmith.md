@@ -23,6 +23,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan ER Medium Pulse Laser × 4
+- **Equipment:**
   - Laser Anti-Missile System
 - **Battle Value:** 1519
 

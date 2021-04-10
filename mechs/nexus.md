@@ -10,6 +10,7 @@
   - Medium Laser
   - Medium Pulse Laser × 2
   - Small Laser × 2
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 643
 

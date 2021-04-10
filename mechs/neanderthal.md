@@ -27,8 +27,8 @@
 - **Weapons:**
   - Hatchet
   - Snub-Nose PPC w/ PPC Capacitor × 2
-  - M-Pod × 3
 - **Equipment:**
+  - M-Pod × 3
   - Guardian ECM Suite
 - **Battle Value:** 2020
 

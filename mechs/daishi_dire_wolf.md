@@ -26,9 +26,9 @@
   - Gauss Rifle (ammo: 24)
   - Large Pulse Laser × 3
   - Streak SRM 6 × 2 (ammo: 30)
-  - Anti-Missile System (ammo: 72)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 72)
 - **Battle Value:** 2855
 
 ## Daishi (Dire Wolf) B

@@ -9,10 +9,10 @@
 - **Weapons:**
   - Medium Pulse Laser × 3
   - ER PPC
-  - Anti-Missile System (ammo: 24)
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - TAG
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1498
 
 ## Spartan SPT-N2
@@ -25,10 +25,10 @@
 - **Weapons:**
   - Medium Pulse Laser × 3
   - ER PPC
-  - Anti-Missile System (ammo: 24)
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - TAG
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1605
 
 ## Spartan SPT-NF
@@ -41,10 +41,10 @@
 - **Weapons:**
   - Medium Pulse Laser × 3
   - ER PPC
-  - Anti-Missile System (ammo: 24)
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1605
 
 ## Spartan C

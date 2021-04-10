@@ -197,9 +197,9 @@
   - Medium Pulse Laser × 2
   - Gauss Rifle (ammo: 16)
   - ER Small Laser
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2546
 
 ## Marauder II MAD-6A

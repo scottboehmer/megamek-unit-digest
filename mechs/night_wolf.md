@@ -11,10 +11,10 @@
   - Plasma Cannon (ammo: 20)
   - ER Medium Laser
   - Heavy Large Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
   - Targeting Computer
   - ECM Suite
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2878
 

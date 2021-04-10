@@ -124,8 +124,8 @@
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
   - Large Pulse Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
   - MASC
 - **Battle Value:** 1237
@@ -141,8 +141,8 @@
   - ER Large Laser × 2
   - Medium Pulse Laser × 2
   - Machine Gun (ammo: 200)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 1307
 
@@ -156,6 +156,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Medium Pulse Laser × 2
+- **Equipment:**
   - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1315
 
@@ -196,8 +197,8 @@
   - Medium Pulse Laser × 2
   - Machine Gun (ammo: 200)
   - ER Large Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 1154
 

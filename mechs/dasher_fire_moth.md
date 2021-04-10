@@ -23,10 +23,10 @@
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Anti-Missile System (ammo: 24)
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - MASC
+  - Anti-Missile System (ammo: 24)
   - CASE
   - TAG
   - Active Probe
@@ -58,10 +58,10 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 5 × 2 (ammo: 48)
-  - Anti-Missile System (ammo: 48)
 - **Equipment:**
   - MASC
   - CASE
+  - Anti-Missile System (ammo: 48)
 - **Battle Value:** 741
 
 ## Dasher (Fire Moth) D
@@ -197,11 +197,11 @@
   - Improved Heavy Medium Laser × 2
   - Inner Sphere Medium Laser
   - ER Small Laser
-  - Inner Sphere M-Pod
 - **Equipment:**
   - Inner Sphere C3 Slave
   - ECM Suite
   - MASC
+  - Inner Sphere M-Pod
 - **Battle Value:** 1160
 
 ## Dasher (Fire Moth) P

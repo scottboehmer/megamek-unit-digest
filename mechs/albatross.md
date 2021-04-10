@@ -51,9 +51,9 @@
   - Medium Pulse Laser × 2
   - ER Medium Laser × 2
   - ER Small Laser
-  - Laser Anti-Missile System
 - **Equipment:**
   - Guardian ECM Suite
+  - Laser Anti-Missile System
 - **Battle Value:** 2296
 
 ## Albatross ALB-3Ur

@@ -108,11 +108,11 @@
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
   - ER Large Laser × 2
-  - Anti-Missile System (ammo: 12)
   - LRM 20 (ammo: 12)
   - Gauss Rifle (ammo: 16)
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 2175
 
@@ -125,11 +125,11 @@
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
   - ER Large Laser × 2
-  - Anti-Missile System (ammo: 12)
   - LRM 20 (ammo: 12)
   - Gauss Rifle (ammo: 16)
   - Medium Pulse Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
   - C3 Slave
 - **Battle Value:** 2163
@@ -142,12 +142,12 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Anti-Missile System (ammo: 12)
   - ER Large Laser
   - LRM 20 (ammo: 12)
   - Gauss Rifle (ammo: 16)
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - C3 Master
   - CASE
 - **Battle Value:** 2036
@@ -177,12 +177,12 @@
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
   - ER Large Laser × 2
-  - Anti-Missile System (ammo: 12)
   - LRM 20 (ammo: 6)
   - Gauss Rifle (ammo: 16)
   - Medium Pulse Laser
 - **Equipment:**
   - Command Console
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 2158
 
@@ -243,10 +243,10 @@
 - **Weapons:**
   - PPC × 2
   - Small Laser × 3
-  - Anti-Missile System (ammo: 12)
   - LRM 15 w/ Artemis IV (ammo: 16)
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
   - CASE
 - **Battle Value:** 2378

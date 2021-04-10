@@ -10,9 +10,9 @@
   - ER Medium Laser × 2
   - Large Pulse Laser
   - Medium Pulse Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - C3i
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1637
 
 ## White Flame WHF-3C
@@ -26,9 +26,9 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Plasma Rifle (ammo: 20)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - C3i
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1826
 
 ## White Flame WHF-4C

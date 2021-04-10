@@ -30,6 +30,22 @@
   - Targeting Computer
 - **Battle Value:** 1575
 
+## Dark Crow 3
+- **Role:** Undefined
+- **Tech Base:** Clan (3084)
+- **Chassis:** 55 tons (Endo Composite)
+- **Movement:** 6 / 9 / 8, XXL
+- **Armor:** 112 (Ferro Lamellor)
+- **Heat Sinks:** 10 (23)
+- **Weapons:**
+  - RAC/2 × 2 (ammo: 90)
+  - Improved Heavy Medium Laser × 2
+- **Equipment:**
+  - Partial Wing
+  - CASE
+  - Liquid Cargo
+- **Battle Value:** unknown
+
 ## Dark Crow 4
 - **Role:** Undefined
 - **Tech Base:** Clan (3087)

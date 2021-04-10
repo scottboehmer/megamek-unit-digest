@@ -8,8 +8,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Medium Laser × 10
-  - Anti-Missile System × 2 (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - TAG
 - **Battle Value:** 1533
@@ -23,9 +23,9 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser
-  - Anti-Missile System × 2 (ammo: 24)
   - Medium Laser × 5
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - TAG
 - **Battle Value:** 1415
@@ -39,8 +39,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Medium Laser × 10
-  - Anti-Missile System × 2 (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - C3 Slave
 - **Battle Value:** 1533
@@ -54,8 +54,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium Laser × 8
-  - Anti-Missile System × 2 (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - C3 Master
 - **Battle Value:** 1371

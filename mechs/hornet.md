@@ -35,9 +35,9 @@
 - **Weapons:**
   - Medium Laser
   - LRM 5 (ammo: 48)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 535
 
 ## Hornet HNT-161

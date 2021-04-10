@@ -151,8 +151,9 @@
   - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
   - SRM 4 (ammo: 25)
-  - Anti-Missile System (ammo: 12)
   - Heavy Gauss Rifle (ammo: 12)
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2034
 
 ## Victor VTR-10D

@@ -108,10 +108,10 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Anti-Missile System (ammo: 12)
   - Medium Laser × 3
   - LRM 5 (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 870
 
@@ -123,10 +123,10 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Anti-Missile System (ammo: 12)
   - Medium Pulse Laser × 3
   - LRM 5 w/ Artemis IV (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 806
 
@@ -138,10 +138,10 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Anti-Missile System (ammo: 12)
   - ER Medium Laser × 3
   - LRM 5 w/ Artemis IV (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 897
 

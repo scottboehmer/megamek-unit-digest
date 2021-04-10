@@ -68,10 +68,11 @@
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
   - AC/5 × 2 (ammo: 40)
-  - Anti-Missile System × 4 (ammo: 48)
   - PPC
   - Medium Laser × 2
   - Large Laser
+- **Equipment:**
+  - Anti-Missile System × 4 (ammo: 48)
 - **Battle Value:** 1805
 
 ## Corsair COR-7R

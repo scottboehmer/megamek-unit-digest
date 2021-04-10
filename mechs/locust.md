@@ -133,9 +133,9 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Small Laser × 4
-  - Anti-Missile System (ammo: 12)
   - Medium Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 522
 

@@ -25,7 +25,8 @@
   - Claw
   - Large Pulse Laser
   - LRM 10 × 2 (ammo: 24)
-  - M-Pod × 2
   - ER Small Laser
+- **Equipment:**
+  - M-Pod × 2
 - **Battle Value:** 1180
 

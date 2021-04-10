@@ -8,9 +8,9 @@
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
   - ER Medium Pulse Laser × 2
-  - Laser Anti-Missile System
 - **Equipment:**
   - Partial Wing
+  - Laser Anti-Missile System
   - Light Active Probe
 - **Battle Value:** 1261
 

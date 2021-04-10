@@ -124,8 +124,8 @@
   - Medium Laser × 4
   - Large Pulse Laser × 2
   - SRM 6 × 2 (ammo: 30)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 1423
 

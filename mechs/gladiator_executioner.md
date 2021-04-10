@@ -41,11 +41,11 @@
 - **Weapons:**
   - Ultra AC/20 (ammo: 15)
   - ER PPC
-  - Anti-Missile System (ammo: 24)
   - ER Medium Laser
 - **Equipment:**
   - MASC
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2940
 
 ## Gladiator (Executioner) C

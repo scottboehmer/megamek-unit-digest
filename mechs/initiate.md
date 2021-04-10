@@ -9,10 +9,10 @@
 - **Weapons:**
   - Medium Laser × 2
   - ER Small Laser × 3
-  - Anti-Missile System (ammo: 12)
   - LRM 15 (ammo: 8)
   - SRM 6 (ammo: 15)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 1036
 

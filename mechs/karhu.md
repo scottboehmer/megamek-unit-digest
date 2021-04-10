@@ -75,8 +75,8 @@
   - ER PPC × 2
   - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
-  - Anti-Missile System × 2 (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 24)
   - CASE
   - Targeting Computer
   - Active Probe

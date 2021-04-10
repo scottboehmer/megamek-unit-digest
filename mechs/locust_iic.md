@@ -114,6 +114,7 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Improved Heavy Medium Laser × 2
+- **Equipment:**
   - Laser Anti-Missile System
 - **Battle Value:** 1133
 

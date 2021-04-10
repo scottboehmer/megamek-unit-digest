@@ -12,6 +12,7 @@
   - Large Pulse Laser × 2
   - SRM 6 w/ Artemis IV × 2 (ammo: 30)
   - Small Pulse Laser × 2
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1817
 

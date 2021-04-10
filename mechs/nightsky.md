@@ -24,9 +24,10 @@
   - ER Large Laser
   - Hatchet
   - Medium Pulse Laser × 2
-  - Anti-Missile System (ammo: 12)
   - Small Laser
   - Small Pulse Laser
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1287
 
 ## Nightsky NGS-5S

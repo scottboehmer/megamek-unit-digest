@@ -9,6 +9,7 @@
 - **Weapons:**
   - Streak SRM 2 (ammo: 50)
   - Medium Pulse Laser × 3
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 771
 
@@ -22,6 +23,7 @@
 - **Weapons:**
   - Streak SRM 4 (ammo: 25)
   - ER Medium Laser × 3
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 926
 

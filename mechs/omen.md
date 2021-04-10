@@ -12,8 +12,8 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
   - ER Medium Laser × 2
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2750
 

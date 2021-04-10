@@ -9,6 +9,7 @@
 - **Weapons:**
   - Streak SRM 2 (ammo: 50)
   - ER PPC
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 918
 
@@ -35,8 +36,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC w/ PPC Capacitor
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - Angel ECM Suite
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1269
 

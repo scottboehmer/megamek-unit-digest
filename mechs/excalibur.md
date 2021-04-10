@@ -10,6 +10,7 @@
   - Small Pulse Laser
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1549
 
@@ -23,9 +24,9 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1533
 
 ## Excalibur EXC-B2b
@@ -38,9 +39,9 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1715
 
 ## Excalibur EXC-C1

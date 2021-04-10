@@ -41,9 +41,9 @@
 - **Weapons:**
   - SRM 4 × 2 (ammo: 25)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Anti-Missile System (ammo: 12)
   - ER Large Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 1293
 
@@ -71,9 +71,9 @@
 - **Weapons:**
   - SRM 4 (ammo: 25)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Anti-Missile System (ammo: 12)
   - Plasma Rifle (ammo: 10)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** 1339
 

@@ -113,6 +113,21 @@
   - Lift Hoist
 - **Battle Value:** unknown
 
+## Crosscut ED-X4B DemolitionMech
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2932)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 3 / 5 / 0, IC
+- **Armor:** 42 (Industrial)
+- **Cockpit:** Industrial
+- **Heat Sinks:** 0 (0)
+- **Weapons:**
+  - Wrecking Ball
+- **Equipment:**
+  - Cargo
+  - Lift Hoist
+- **Battle Value:** unknown
+
 ## Crosscut ED-X4M LoggerMech MOD
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3070)

@@ -27,9 +27,9 @@
   - LB 10-X AC (ammo: 20)
   - Flamer
   - Medium Laser
-  - Anti-Missile System (ammo: 12)
   - Large Pulse Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - MASC
 - **Battle Value:** 2130
 
@@ -46,10 +46,10 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser × 2
   - Flamer
-  - Anti-Missile System (ammo: 12)
   - Large Pulse Laser
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1751
 
 ## Rampage RMP-5G
@@ -65,9 +65,9 @@
   - Medium Laser × 2
   - Flamer
   - Streak SRM 2 × 3 (ammo: 50)
-  - Anti-Missile System (ammo: 12)
   - Large Pulse Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - MASC
 - **Battle Value:** 1933
 

@@ -46,9 +46,9 @@
   - ER Medium Laser × 4
   - ER Small Laser
   - Ultra AC/20 (ammo: 10)
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2472
 
 ## Kingfisher C

@@ -44,6 +44,7 @@
 - **Weapons:**
   - Flamer
   - Medium Laser
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 432
 

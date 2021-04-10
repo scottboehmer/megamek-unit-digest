@@ -34,8 +34,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Clan Gauss Rifle × 2 (ammo: 16)
-  - M-Pod × 3
 - **Equipment:**
+  - M-Pod × 3
   - Supercharger
 - **Battle Value:** 1648
 

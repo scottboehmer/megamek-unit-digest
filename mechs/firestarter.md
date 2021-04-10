@@ -61,9 +61,9 @@
 - **Weapons:**
   - Flamer × 4
   - Medium Laser × 2
-  - Anti-Missile System (ammo: 12)
   - Small Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
 - **Battle Value:** 754
 
@@ -77,9 +77,9 @@
 - **Weapons:**
   - Flamer × 4
   - Medium Laser × 2
-  - Anti-Missile System (ammo: 12)
   - Small Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
 - **Battle Value:** 820
 
@@ -273,11 +273,11 @@
   - Small Pulse Laser × 2
   - Machine Gun × 2 (ammo: 100)
   - ER Medium Laser
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - Beagle Active Probe
   - Guardian ECM Suite
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1119
 
 ## Firestarter FS9-B
@@ -317,9 +317,9 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Flamer × 4
-  - Anti-Missile System (ammo: 12)
   - Small Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
 - **Battle Value:** 842
 
@@ -333,11 +333,26 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Flamer × 4
-  - Anti-Missile System (ammo: 12)
   - Small Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
 - **Battle Value:** 908
+
+## Firestarter FS9-OU
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 136
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Flamer × 2
+  - Medium Pulse Laser × 5
+  - Sword
+- **Equipment:**
+  - Liquid Cargo
+- **Battle Value:** unknown
 
 ## Firestarter FS9-M2
 - **Role:** Undefined

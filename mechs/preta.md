@@ -10,10 +10,10 @@
 - **Weapons:**
   - Retractable Blade
   - Snub-Nose PPC
-  - Anti-Missile System (ammo: 12)
   - Light PPC
 - **Equipment:**
   - C3i
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Battle Value:** unknown
 

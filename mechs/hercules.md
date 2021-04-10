@@ -12,6 +12,7 @@
   - Streak SRM 2 (ammo: 50)
   - Small Pulse Laser × 2
   - ER PPC
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1561
 
@@ -42,8 +43,8 @@
   - Medium Pulse Laser
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
   - Small Pulse Laser × 2
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1532
 

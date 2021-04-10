@@ -1,4 +1,4 @@
-# BattleMechs
+# Mechs
 
 ## 15 Tons
 
@@ -13,9 +13,17 @@
 ### [Flea](mechs/flea.md)
 - **Flea FLE-14** *(2519)*
 
+### [Patron LoaderMech](mechs/patron_loadermech.md)
+- **Patron LoaderMech (Standard)** *(2550)*
+
 ### [Patron MilitiaMech](mechs/patron_militiamech.md)
 - **Patron MilitiaMech PTN-2** *(3076)*
 - **Patron MilitiaMech PTN-2M** *(3083)*
+
+### [Pompier Firemech](mechs/pompier_firemech.md)
+- **Pompier Firemech GM-3A** *(3044)*
+- **Pompier Firemech GM-3HT** *(3060)*
+- **Pompier Firemech GM-3CD** *(3062)*
 
 ### [Prey Seeker](mechs/prey_seeker.md)
 - **Prey Seeker PY-SR10** *(3136)*
@@ -312,6 +320,9 @@
 - **Gunsmith CH11-NG** *(3131)*
 - **Gunsmith CH11-NGC 'Cinderella'** *(3131)*
 
+### [Harvester Ant](mechs/harvester_ant.md)
+- **Harvester Ant KIC-3 AgroMech** *(2650)*
+
 ### [Hermit Crab](mechs/hermit_crab.md)
 - **Hermit Crab HMC-13** *(3104)*
 - **Hermit Crab HMC-14** *(3108)*
@@ -455,8 +466,17 @@
 - **Cadaver CVR-A1** *(3094)*
 - **Cadaver CVR-T1** *(3097)*
 
+### [Carbine CON-1 ConstructionMech](mechs/carbine_con-1_constructionmech.md)
+- **Carbine CON-1 ConstructionMech (Standard)** *(2691)*
+
+### [Carbine CON-7 ConstructionMech](mechs/carbine_con-7_constructionmech.md)
+- **Carbine CON-7 ConstructionMech (Standard)** *(3028)*
+
 ### [Carbine CON-7M ConstructionMech](mechs/carbine_con-7m_constructionmech.md)
 - **Carbine CON-7M ConstructionMech MOD** *(3078)*
+
+### [Carbine CON-9 ConstructionMech](mechs/carbine_con-9_constructionmech.md)
+- **Carbine CON-9 ConstructionMech (Standard)** *(3071)*
 
 ### [Carbine CON-9M ConstructionMech](mechs/carbine_con-9m_constructionmech.md)
 - **Carbine CON-9M ConstructionMech MOD** *(3078)*
@@ -481,6 +501,7 @@
 - **Crosscut ED-X2 (Flamer)** *(2810)*
 - **Crosscut ED-X4X LoggerMech** *(2901)*
 - **Crosscut ED-X4D DemolitionMech** *(2910)*
+- **Crosscut ED-X4B DemolitionMech** *(2932)*
 - **Crosscut ED-X4M LoggerMech MOD** *(3070)*
 - **Crosscut ED-X5M LoggerMech MOD** *(3074)*
 - **Crosscut ED-XX 'Ichabod'** *(3075)*
@@ -539,6 +560,9 @@
 - **Hankyu (Arctic Cheetah)  H** *(3062)*
 - **Hankyu (Arctic Cheetah)  E** *(3071)*
 - **Hankyu (Arctic Cheetah)  F** *(3093)*
+
+### [Harvester HVR-99 AgroMech](mechs/harvester_hvr-99_agromech.md)
+- **Harvester HVR-99 AgroMech (Standard)** *(3049)*
 
 ### [Hellion](mechs/hellion.md)
 - **Hellion  Prime** *(3059)*
@@ -625,6 +649,7 @@
 - **Mantis MTS-L** *(3064)*
 
 ### [Marco](mechs/marco.md)
+- **Marco MR-8C ExplorerMech** *(2719)*
 - **Marco MR-8D** *(2801)*
 - **Marco MR-8E** *(2801)*
 
@@ -778,6 +803,10 @@
 - **Cougar G** *(3071)*
 - **Cougar XR** *(3071)*
 - **Cougar  I** *(3099)*
+
+### [DemolitionMech](mechs/demolitionmech.md)
+- **DemolitionMech WI-DM** *(2513)*
+- **DemolitionMech WI-DM2** *(2514)*
 
 ### [Dig King RCL-1 MiningMech](mechs/dig_king_rcl-1_miningmech.md)
 - **Dig King RCL-1 MiningMech (Standard)** *(2573)*
@@ -1187,6 +1216,7 @@
 - **Dragonfly (Viper)  F** *(3070)*
 - **Dragonfly (Viper)  G** *(3071)*
 - **Dragonfly (Viper)  Z** *(3072)*
+- **Dragonfly (Viper)  U** *(3077)*
 - **Dragonfly (Viper)  R** *(3110)*
 - **Dragonfly (Viper)  T** *(3142)*
 - **Dragonfly (Viper)  J** *(3144)*
@@ -1441,6 +1471,7 @@
 - **Firestarter  FS9-OF** *(3060)*
 - **Firestarter  FS9-OG** *(3063)*
 - **Firestarter  FS9-OH** *(3069)*
+- **Firestarter  FS9-OU** *(3077)*
 
 ### [Gestalt](mechs/gestalt.md)
 - **Gestalt D2X-G** *(3078)*
@@ -1595,6 +1626,7 @@
 - **Shadow Hawk IIC 4** *(3060)*
 - **Shadow Hawk IIC 5** *(3069)*
 - **Shadow Hawk IIC 6** *(3069)*
+- **Shadow Hawk IIC 7** *(3080)*
 - **Shadow Hawk IIC 8** *(3081)*
 - **Shadow Hawk IIC 9** *(3134)*
 
@@ -1703,6 +1735,9 @@
 - **Bombard BMB-013** *(3063)*
 - **Bombard BMB-1X** *(3068)*
 
+### [Buster BC XV HaulerMech](mechs/buster_bc_xv_haulermech.md)
+- **Buster BC XV HaulerMech (Standard)** *(2615)*
+
 ### [Buster BC XV-M HaulerMech](mechs/buster_bc_xv-m_haulermech.md)
 - **Buster BC XV-M HaulerMech MOD** *(2801)*
 
@@ -1711,6 +1746,9 @@
 
 ### [Buster BC XV-M-C HaulerMech](mechs/buster_bc_xv-m-c_haulermech.md)
 - **Buster BC XV-M-C HaulerMech MOD** *(3076)*
+
+### [Buster BC XXI HaulerMech](mechs/buster_bc_xxi_haulermech.md)
+- **Buster BC XXI HaulerMech (Standard)** *(3059)*
 
 ### [Centurion](mechs/centurion.md)
 - **Centurion CN9-A** *(2801)*
@@ -1845,6 +1883,16 @@
 ### [Inquisitor II](mechs/inquisitor_ii.md)
 - **Inquisitor II ITW-200** *(3130)*
 
+### [Jabberwocky ConstructionMech](mechs/jabberwocky_constructionmech.md)
+- **Jabberwocky ConstructionMech JAW-66D** *(3070)*
+
+### [Jabberwocky DemolitionMech](mechs/jabberwocky_demolitionmech.md)
+- **Jabberwocky DemolitionMech JAW-66C** *(3070)*
+
+### [Jabberwocky EngineerMech](mechs/jabberwocky_engineermech.md)
+- **Jabberwocky EngineerMech JAW-65A** *(2549)*
+- **Jabberwocky EngineerMech JAW-66B** *(3070)*
+
 ### [Jabberwocky MilitiaMech](mechs/jabberwocky_militiamech.md)
 - **Jabberwocky MilitiaMech JAW-67** *(3076)*
 
@@ -1860,6 +1908,7 @@
 
 ### [Mongrel](mechs/mongrel.md)
 - **Mongrel MGL-T1** *(3092)*
+- **Mongrel MGL-T2** *(3108)*
 
 ### [Nightsky](mechs/nightsky.md)
 - **Nightsky NGS-4S** *(3053)*
@@ -2042,6 +2091,7 @@
 ### [Dark Crow](mechs/dark_crow.md)
 - **Dark Crow (Standard)** *(3084)*
 - **Dark Crow 2** *(3084)*
+- **Dark Crow 3** *(3084)*
 - **Dark Crow 4** *(3087)*
 
 ### [Dervish](mechs/dervish.md)
@@ -2141,6 +2191,9 @@
 - **Hoplite C** *(3052)*
 - **Hoplite HOP-4X** *(3075)*
 
+### [Hyena](mechs/hyena.md)
+- **Hyena HYN-4A SalvageMech** *(3066)*
+
 ### [Kheper](mechs/kheper.md)
 - **Kheper KPH-7R** *(3135)*
 
@@ -2219,6 +2272,7 @@
 - **Pariah (Septicemia)  D-Z** *(3072)*
 - **Pariah (Septicemia)  E** *(3072)*
 - **Pariah (Septicemia)  F** *(3072)*
+- **Pariah (Septicemia)  US** *(3072)*
 
 ### [Prowler](mechs/prowler.md)
 - **Prowler PWR-1X** *(3068)*
@@ -2382,6 +2436,7 @@
 - **Black Hawk-KU  BHKU-OE** *(3063)*
 - **Black Hawk-KU  BHKU-OF** *(3069)*
 - **Black Hawk-KU  BHKU-O (Albert)** *(3070)*
+- **Black Hawk-KU  BHKU-OU** *(3077)*
 - **Black Hawk-KU  BHKU-OG** *(3089)*
 
 ### [Brahma](mechs/brahma.md)
@@ -3882,6 +3937,7 @@
 - **Deimos  B** *(3085)*
 - **Deimos  H** *(3085)*
 - **Deimos  C** *(3086)*
+- **Deimos  S** *(3086)*
 - **Deimos  D** *(3119)*
 
 ### [Gunslinger](mechs/gunslinger.md)

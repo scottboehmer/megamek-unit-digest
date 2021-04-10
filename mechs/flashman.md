@@ -9,8 +9,9 @@
 - **Weapons:**
   - Large Laser × 3
   - Medium Laser × 5
-  - Anti-Missile System (ammo: 12)
   - Flamer
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1779
 
 ## Flashman FLS-7K
@@ -51,8 +52,8 @@
 - **Weapons:**
   - Large Laser × 3
   - Medium Laser × 5
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - C3 Slave
 - **Battle Value:** 1774
 

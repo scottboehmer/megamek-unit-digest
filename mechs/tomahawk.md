@@ -11,9 +11,9 @@
   - ER Large Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
   - Medium Pulse Laser × 2
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - ECM Suite
 - **Battle Value:** 3101
 

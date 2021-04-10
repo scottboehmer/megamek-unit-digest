@@ -1,4 +1,21 @@
 # Marco
+## Marco MR-8C ExplorerMech
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2719)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 4 / 6 / 3
+- **Armor:** 64
+- **Cockpit:** Industrial
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Small Laser
+- **Equipment:**
+  - Enviro-Sealing
+  - Salvage Arm
+  - Cargo
+  - Searchlight
+- **Battle Value:** unknown
+
 ## Marco MR-8D
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2801)

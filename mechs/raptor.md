@@ -47,6 +47,7 @@
 - **Weapons:**
   - Small Pulse Laser × 2
   - Medium Laser × 6
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 870
 

@@ -10,10 +10,10 @@
   - Large Pulse Laser
   - Gauss Rifle (ammo: 40)
   - Medium Pulse Laser × 2
-  - Anti-Missile System (ammo: 24)
   - Small Pulse Laser
   - Streak SRM 2 (OS) × 2
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - Guardian ECM Suite
 - **Battle Value:** 1814
 

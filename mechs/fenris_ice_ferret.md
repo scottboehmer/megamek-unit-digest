@@ -25,9 +25,9 @@
 - **Weapons:**
   - LB 2-X AC (ammo: 45)
   - ER Medium Laser × 2
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 1323
 
 ## Fenris (Ice Ferret) B
@@ -69,8 +69,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium Pulse Laser × 4
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 1653
 
@@ -157,9 +157,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - SRM 6 × 2 (ammo: 30)
-  - Inner Sphere M-Pod × 2
   - ER Small Laser
 - **Equipment:**
+  - Inner Sphere M-Pod × 2
   - CASE
   - Inner Sphere Bloodhound Active Probe
 - **Battle Value:** 1094
@@ -191,6 +191,7 @@
   - Large Pulse Laser
   - ER Small Laser
   - ER Medium Laser × 2
+- **Equipment:**
   - Laser Anti-Missile System
 - **Battle Value:** 1769
 

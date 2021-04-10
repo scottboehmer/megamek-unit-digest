@@ -71,6 +71,7 @@
 - **Weapons:**
   - Small Laser × 2
   - Medium Pulse Laser
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 649
 
@@ -99,8 +100,8 @@
 - **Weapons:**
   - ER Small Laser × 2
   - ER Large Laser
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - Targeting Computer
   - CASE
 - **Battle Value:** 1290

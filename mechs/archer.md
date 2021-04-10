@@ -170,10 +170,10 @@
   - ER Large Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - Small Pulse Laser × 2
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - ECM Suite
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2365
 
 ## Archer ARC-6S

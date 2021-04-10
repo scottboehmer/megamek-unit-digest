@@ -10,11 +10,11 @@
   - ER PPC
   - Hatchet
   - Large Pulse Laser × 2
-  - Anti-Missile System (ammo: 12)
   - Flamer
 - **Equipment:**
   - MASC
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2117
 
 ## Berserker BRZ-B3
@@ -28,11 +28,11 @@
   - ER PPC
   - Hatchet
   - LRM 10 × 2 (ammo: 48)
-  - Anti-Missile System (ammo: 12)
   - Flamer
 - **Equipment:**
   - MASC
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2020
 
 ## Berserker BRZ-C3
@@ -47,10 +47,10 @@
   - ER PPC
   - Hatchet
   - ER Medium Laser × 6
-  - Anti-Missile System (ammo: 12)
   - Flamer
 - **Equipment:**
   - C3 Slave
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 2395
 

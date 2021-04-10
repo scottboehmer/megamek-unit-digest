@@ -33,9 +33,10 @@
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
   - Medium Laser × 2
-  - Anti-Missile System (ammo: 12)
   - ER Large Laser
   - Streak SRM 2 (ammo: 100)
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1354
 
 ## Grasshopper GHR-C
@@ -47,10 +48,10 @@
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
   - Medium Laser × 2
-  - Anti-Missile System (ammo: 12)
   - ER Large Laser
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - C3 Slave
 - **Battle Value:** 1366
 

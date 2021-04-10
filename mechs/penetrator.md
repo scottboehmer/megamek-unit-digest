@@ -9,6 +9,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Medium Pulse Laser × 6
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1687
 
@@ -22,6 +23,7 @@
 - **Weapons:**
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser × 4
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1564
 
@@ -35,6 +37,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Medium Pulse Laser × 4
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1639
 
@@ -48,9 +51,9 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Medium Pulse Laser × 6
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1689
 
 ## Penetrator PTR-6T
@@ -63,8 +66,8 @@
 - **Weapons:**
   - ER Large Laser × 2
   - ER Medium Laser × 6
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - Targeting Computer
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1994
 

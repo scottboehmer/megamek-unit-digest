@@ -88,9 +88,9 @@
   - ER Small Laser × 2
   - LRM 20 × 2 (ammo: 12)
   - ER Micro Laser × 4
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2061
 
 ## Mad Cat III 5
@@ -119,8 +119,8 @@
   - ER Small Laser × 2
   - LRM 20 × 2 (ammo: 12)
   - ER Micro Laser × 4
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2061
 

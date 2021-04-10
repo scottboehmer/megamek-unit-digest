@@ -9,6 +9,7 @@
 - **Weapons:**
   - ER Small Laser
   - ER Large Laser
+- **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 757
 

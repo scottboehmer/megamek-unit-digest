@@ -11,9 +11,9 @@
   - Medium Pulse Laser
   - ER Large Laser
   - LRM 20 (ammo: 12)
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1469
 
 ## Grim Reaper GRM-R-PR30
@@ -64,9 +64,9 @@
   - MML 9 (ammo: 13 LRM, 11 SRM)
   - ER Medium Laser
   - Snub-Nose PPC
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - Targeting Computer
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1542
 

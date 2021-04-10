@@ -27,9 +27,9 @@
   - ER Large Laser × 2
   - ATM 3 (ammo: 40)
   - HAG 20 (ammo: 12)
-  - Laser Anti-Missile System
 - **Equipment:**
   - Light Active Probe
   - CASE
+  - Laser Anti-Missile System
 - **Battle Value:** 2746
 

@@ -203,9 +203,9 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
   - Flamer × 2
-  - Anti-Missile System (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1494
 
 ## Thunderbolt TDR-10SE

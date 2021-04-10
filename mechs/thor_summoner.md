@@ -39,10 +39,10 @@
 - **Weapons:**
   - LRM 20 × 2 (ammo: 24)
   - SRM 4 × 2 (ammo: 50)
-  - Anti-Missile System (ammo: 24)
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2159
 
 ## Thor (Summoner) C
@@ -72,8 +72,8 @@
   - ER Large Laser × 2
   - ER Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-  - Anti-Missile System × 2 (ammo: 48)
 - **Equipment:**
+  - Anti-Missile System × 2 (ammo: 48)
   - CASE
   - Targeting Computer
 - **Battle Value:** 2643
@@ -134,8 +134,8 @@
 - **Weapons:**
   - Heavy Large Laser × 2
   - ER Medium Laser × 2
-  - Anti-Missile System (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
   - Targeting Computer
 - **Battle Value:** 2536

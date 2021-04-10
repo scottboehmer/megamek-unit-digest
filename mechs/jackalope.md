@@ -9,10 +9,10 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - ATM 6 (ammo: 10)
-  - Laser Anti-Missile System
 - **Equipment:**
   - CASE
   - Light Active Probe
+  - Laser Anti-Missile System
 - **Battle Value:** 1395
 
 ## Jackalope JLP-C
@@ -25,11 +25,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - SRM 6 (ammo: 30)
-  - Laser Anti-Missile System
 - **Equipment:**
   - CASE
   - Inner Sphere C3 Slave
   - Light Active Probe
+  - Laser Anti-Missile System
 - **Battle Value:** 1253
 
 ## Jackalope JLP-KA
@@ -42,10 +42,10 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - ATM 6 (ammo: 10)
-  - Laser Anti-Missile System
 - **Equipment:**
   - CASE II
   - Light Active Probe
+  - Laser Anti-Missile System
 - **Battle Value:** 1488
 
 ## Jackalope JLP-KW 'Wolpertinger'
@@ -59,9 +59,9 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - SRM 4 (ammo: 25)
-  - Laser Anti-Missile System
 - **Equipment:**
   - Partial Wing
   - CASE II
+  - Laser Anti-Missile System
 - **Battle Value:** 1334
 

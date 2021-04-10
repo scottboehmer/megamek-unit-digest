@@ -10,8 +10,8 @@
   - Ultra AC/10 (ammo: 30)
   - Large Vibroblade
   - ER Medium Laser × 2
-  - M-Pod × 4
 - **Equipment:**
+  - M-Pod × 4
   - CASE
   - Supercharger
 - **Battle Value:** 1646
@@ -28,8 +28,8 @@
   - Ultra AC/10 (ammo: 30)
   - Large Vibroblade
   - ER Medium Laser × 2
-  - M-Pod × 4
 - **Equipment:**
+  - M-Pod × 4
   - Supercharger
   - Spikes × 3
   - CASE II
@@ -47,8 +47,8 @@
   - Ultra AC/20 (ammo: 15)
   - Large Vibroblade
   - ER Medium Laser × 2
-  - M-Pod × 4
 - **Equipment:**
+  - M-Pod × 4
   - Supercharger
   - CASE
 - **Battle Value:** 1786

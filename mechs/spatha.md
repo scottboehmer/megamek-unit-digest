@@ -12,6 +12,7 @@
   - Streak SRM 6 (ammo: 15)
   - Sword
   - Medium X-Pulse Laser × 2
+- **Equipment:**
   - Laser Anti-Missile System
 - **Battle Value:** 2222
 

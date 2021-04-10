@@ -10,11 +10,11 @@
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 4
   - Ultra AC/2 (ammo: 45)
-  - Anti-Missile System (ammo: 24)
   - Flamer
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Equipment:**
   - CASE
+  - Anti-Missile System (ammo: 24)
   - TAG
   - Active Probe
   - A-Pod × 2
@@ -131,11 +131,11 @@
   - Medium Pulse Laser × 2
   - Large Pulse Laser
   - ER Small Laser
-  - Anti-Missile System (ammo: 24)
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - Light Active Probe
   - Light TAG
+  - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 2104
 
@@ -187,11 +187,11 @@
   - Ultra AC/2 (ammo: 45)
   - ER Small Laser
   - Flamer
-  - Laser Anti-Missile System
   - Streak LRM 5 × 2 (ammo: 24)
   - Micro Pulse Laser
 - **Equipment:**
   - CASE
+  - Laser Anti-Missile System
   - Targeting Computer
 - **Battle Value:** 2105
 
