@@ -15,6 +15,22 @@
   - CASE
 - **Battle Value:** 1988
 
+## Colossus CLS-4S
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3066)
+- **Chassis:** 95 tons (Endo Steel)
+- **Movement:** 3 / 5 / 3
+- **Armor:** 288
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Large X-Pulse Laser × 2
+  - Medium X-Pulse Laser × 2
+  - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
+- **Equipment:**
+  - Small Shield × 2
+  - CASE
+- **Battle Value:** 2392
+
 ## Colossus CLS-5S
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3067)

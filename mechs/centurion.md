@@ -335,6 +335,25 @@
   - C3 Slave
 - **Battle Value:** 1628
 
+## Centurion CN11-OD
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3111)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4, XL
+- **Armor:** 152
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Hatchet
+  - ER Small Laser
+  - MML 9 w/ Artemis IV (ammo: 13 LRM, 11 SRM)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Medium Shield
+  - CASE II
+  - Beagle Active Probe
+- **Battle Value:** 1153
+
 ## Centurion CN11-OE
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3111)

@@ -15,6 +15,23 @@
   - Angel ECM Suite
 - **Battle Value:** 2561
 
+## Doloire DLR-OA
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3121)
+- **Chassis:** 80 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 232
+- **Heat Sinks:** 12 (32)
+- **Weapons:**
+  - Clan ER Medium Laser × 3
+  - Plasma Rifle × 2 (ammo: 30)
+  - Clan SRM 6 × 2 (ammo: 60)
+- **Equipment:**
+  - AES × 2
+  - Radical Heat Sink System
+  - CASE II
+- **Battle Value:** 2218
+
 ## Doloire DLR-OB
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3121)

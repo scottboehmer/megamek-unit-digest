@@ -155,6 +155,23 @@
   - CASE
 - **Battle Value:** 2277
 
+## Nobori-nin (Huntsman) F
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3132)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8 / 5, XL
+- **Armor:** 169 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Improved Heavy Large Laser
+  - ER Medium Laser × 2
+  - LRM 15 w/ Artemis V (ammo: 16)
+- **Equipment:**
+  - Targeting Computer
+  - Inner Sphere Radical Heat Sink System
+  - CASE II
+- **Battle Value:** 2367
+
 ## Nobori-nin (Huntsman) G
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3139)

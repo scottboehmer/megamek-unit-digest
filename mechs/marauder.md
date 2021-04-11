@@ -491,6 +491,22 @@
   - CASE II
 - **Battle Value:** 1832
 
+## Marauder MAD-9D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3125)
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 224
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Clan ER Large Laser × 2
+  - Medium X-Pulse Laser × 3
+  - Silver Bullet (ammo: 16)
+- **Equipment:**
+  - Radical Heat Sink System
+- **Battle Value:** 1967
+
 ## Marauder Bounty Hunter 3138
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3138)

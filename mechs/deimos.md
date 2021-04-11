@@ -144,3 +144,25 @@
   - Anti-Missile System (ammo: 24)
 - **Battle Value:** 2682
 
+## Deimos E
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3140)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 3 / 5 (8) / 0, XL
+- **Armor:** 232
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Large Pulse Laser × 2
+  - ER Large Laser
+  - ER PPC
+  - Streak SRM 4 × 4 (ammo: 0)
+- **Equipment:**
+  - MASC
+  - CASE
+  - Anti-Missile System (ammo: 24)
+  - Targeting Computer
+  - Inner Sphere Radical Heat Sink System
+  - Supercharger
+- **Battle Value:** 3606
+

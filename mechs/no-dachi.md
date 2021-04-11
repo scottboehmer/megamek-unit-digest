@@ -72,6 +72,23 @@
   - C3 Slave
 - **Battle Value:** 1705
 
+## No-Dachi NDA-3X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3075)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8 (10) / 0, XL
+- **Armor:** 217 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Clan ER PPC
+  - Large Vibroblade
+  - Clan LRM 15 w/ Artemis IV × 2 (ammo: 16)
+  - Clan ER Small Laser
+  - Clan ER Medium Laser
+- **Equipment:**
+  - Clan Supercharger
+- **Battle Value:** 2609
+
 ## No-Dachi NDA-3S
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3081)

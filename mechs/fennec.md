@@ -27,3 +27,19 @@
   - C3 Slave
 - **Battle Value:** 1551
 
+## Fennec FEC-5CM
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3133)
+- **Chassis:** 55 tons (Endo Composite)
+- **Movement:** 5 / 8 / 0, XXL
+- **Armor:** 170 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Large Re-Engineered Laser × 2
+  - Clan ER Medium Laser × 2
+- **Equipment:**
+  - Radical Heat Sink System
+  - C3 BoostedMaster
+  - Clan Light Active Probe
+- **Battle Value:** 1498
+

@@ -44,3 +44,21 @@
   - Medium VSP Laser × 4
 - **Battle Value:** 1794
 
+## Sagittaire SGT-14D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3134)
+- **Chassis:** 95 tons (Endo Composite)
+- **Movement:** 3 / 5 / 3, Light
+- **Armor:** 288
+- **Cockpit:** Small
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Large Re-Engineered Laser × 2
+  - Medium VSP Laser × 3
+  - Medium X-Pulse Laser
+  - ER Large Laser
+- **Equipment:**
+  - Radical Heat Sink System
+  - C3 Boosted Slave
+- **Battle Value:** 1960
+

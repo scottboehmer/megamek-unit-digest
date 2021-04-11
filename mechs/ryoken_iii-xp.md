@@ -15,6 +15,25 @@
   - Clan SRM 6 × 2 (ammo: 30)
 - **Battle Value:** 3063
 
+## Ryoken III-XP A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3143)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 (7) / 9 (11) / 0, XL
+- **Armor:** 161 (Ferro Lamellor)
+- **Gyroscope:** No Gyro
+- **Myomer:** Triple-Strength
+- **Cockpit:** Interface
+- **Heat Sinks:** 11 (24)
+- **Weapons:**
+  - Clan ER Large Laser × 2
+  - Clan ER Medium Laser × 4
+  - Clan ER Small Laser × 6
+- **Equipment:**
+  - Clan Targeting Computer
+  - Radical Heat Sink System
+- **Battle Value:** 3915
+
 ## Ryoken III-XP B
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3143)

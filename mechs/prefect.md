@@ -43,3 +43,20 @@
   - Light PPC × 2
 - **Battle Value:** 1710
 
+## Prefect PRF-3R
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3110)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 224 (Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Heavy PPC
+  - TSEMP
+  - Snub-Nose PPC × 2
+- **Equipment:**
+  - Radical Heat Sink System
+- **Battle Value:** 2412
+

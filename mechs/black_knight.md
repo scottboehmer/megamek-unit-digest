@@ -122,6 +122,73 @@
   - Targeting Computer
 - **Battle Value:** 1840
 
+## Black Knight BL-X-KNT 'Red Reaper'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3069)
+- **Chassis:** 75 tons
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 220 (Light Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Large Vibroblade
+  - Heavy PPC w/ PPC Capacitor
+  - Medium X-Pulse Laser × 5
+- **Equipment:**
+  - Large Shield
+- **Battle Value:** 1858
+
+## Black Knight BLK-NT-2Y
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3091)
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - PPC
+  - Large Laser × 2
+  - Medium Laser × 4
+- **Equipment:**
+  - Medium Shield
+  - Beagle Active Probe
+  - Targeting Computer
+  - Guardian ECM Suite
+  - C3 Slave
+- **Battle Value:** 1847
+
+## Black Knight BLK-NT-3A
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3095)
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ER Medium Laser × 4
+  - Flamer
+  - ER Small Laser × 2
+- **Equipment:**
+  - Medium Shield
+- **Battle Value:** 1707
+
+## Black Knight BLK-NT-3B
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3100)
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 4 (5) / 6 (8) / 0, XL
+- **Armor:** 216
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Small Laser × 2
+  - Small Pulse Laser × 2
+  - Small Laser × 2
+- **Equipment:**
+  - Medium Shield
+- **Battle Value:** 1911
+
 ## Black Knight BL-18-KNT
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3130)
