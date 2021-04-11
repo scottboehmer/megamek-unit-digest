@@ -219,3 +219,48 @@
   - Targeting Computer
 - **Battle Value:** 2300
 
+## Ryoken (Stormcrow) K
+- **Role:** Undefined
+- **Tech Base:** Clan (3150)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - Improved Heavy Medium Laser × 4
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2001
+
+## Ryoken (Stormcrow) P
+- **Role:** Undefined
+- **Tech Base:** Clan (3150)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Large Laser × 2
+  - Medium Pulse Laser × 3
+  - Streak SRM 6 × 2 (ammo: 15)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2213
+
+## Ryoken (Stormcrow) T
+- **Role:** Undefined
+- **Tech Base:** Clan (3150)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Large Pulse Laser × 2
+  - ER Small Pulse Laser × 2
+  - Medium Pulse Laser
+- **Equipment:**
+  - Supercharger
+  - Light Active Probe
+- **Battle Value:** 2280
+

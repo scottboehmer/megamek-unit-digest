@@ -151,3 +151,20 @@
   - CASE
 - **Battle Value:** 1045
 
+## Vindicator VND-3LD (Dao)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3078)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 4 / 6 (8) / 4, Compact
+- **Armor:** 153 (Ferro Fibrous)
+- **Gyroscope:** Compact Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - BattleMech Taser (ammo: 5)
+  - Clan ER PPC
+- **Equipment:**
+  - AES × 2
+  - Supercharger
+- **Battle Value:** 1583
+

@@ -47,6 +47,21 @@
   - Medium Laser × 4
 - **Battle Value:** 1061
 
+## Wolfhound WLF-1 (Allard)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3062)
+- **Chassis:** 35 tons
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 119
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Clan ER PPC
+  - Clan ER Medium Laser × 3
+  - Clan ER Small Laser
+- **Equipment:**
+  - Clan Targeting Computer
+- **Battle Value:** 1941
+
 ## Wolfhound WLF-3S
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3064)

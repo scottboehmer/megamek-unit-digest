@@ -1,4 +1,18 @@
 # Blue Flame
+## Blue Flame BLF-21
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3062)
+- **Chassis:** 45 tons Quad (Endo Steel)
+- **Movement:** 5 / 8 / 0, Light
+- **Armor:** 169
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser × 2
+  - Streak SRM 2 × 3 (ammo: 50)
+- **Equipment:**
+  - C3i
+- **Battle Value:** 1256
+
 ## Blue Flame BLF-40
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3073)

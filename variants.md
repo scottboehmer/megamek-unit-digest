@@ -9,6 +9,7 @@
 - **Celerity  CLR-03-OC** *(3138)*
 - **Celerity  CLR-03-OD** *(3138)*
 - **Celerity  CLR-03-OE** *(3138)*
+- **Celerity CLR-03OMM 'Rajah'** *(3138)*
 
 ### [Flea](mechs/flea.md)
 - **Flea FLE-14** *(2519)*
@@ -93,6 +94,8 @@
 ### [Harvester Ant](mechs/harvester_ant.md)
 - **Harvester Ant KIC-3M AgroMech (MG)** *(2801)*
 - **Harvester Ant KIC-3M AgroMech MOD** *(2801)*
+- **Harvester Ant KIC-3M-B AgroMech (LRM)** *(2801)*
+- **Harvester Ant KIC-3M-B AgroMech MOD** *(2801)*
 
 ### [Hornet](mechs/hornet.md)
 - **Hornet HNT-151** *(2760)*
@@ -425,6 +428,9 @@
 - **Sling SL-1G** *(2766)*
 - **Sling SL-1H** *(2766)*
 
+### [Sokuryou](mechs/sokuryou.md)
+- **Sokuryou SKU-198 SurveyMech** *(3085)*
+
 ### [Solitaire](mechs/solitaire.md)
 - **Solitaire (Standard)** *(3064)*
 - **Solitaire 2** *(3080)*
@@ -445,6 +451,7 @@
 - **Anubis ABS-3L** *(3063)*
 - **Anubis ABS-3R** *(3064)*
 - **Anubis ABS-3T** *(3067)*
+- **Anubis ABS-3MC** *(3081)*
 - **Anubis ABS-4C** *(3082)*
 - **Anubis ABS-5Y** *(3121)*
 - **Anubis ABS-5Z** *(3124)*
@@ -715,15 +722,19 @@
 - **Uller (Kit Fox)  A** *(2890)*
 - **Uller (Kit Fox)  B** *(2890)*
 - **Uller (Kit Fox)  D** *(2890)*
+- **Uller (Kit Fox)  V** *(2921)*
 - **Uller (Kit Fox)  C** *(3050)*
 - **Uller (Kit Fox)  S** *(3050)*
 - **Uller (Kit Fox)  W** *(3051)*
 - **Uller (Kit Fox)  E** *(3054)*
 - **Uller (Kit Fox)  G** *(3054)*
 - **Uller (Kit Fox)  H** *(3059)*
+- **Uller (Kit Fox)  J** *(3060)*
 - **Uller (Kit Fox)  F** *(3069)*
+- **Uller (Kit Fox)  K** *(3088)*
 - **Uller (Kit Fox)  R** *(3121)*
 - **Uller (Kit Fox)  BLO** *(3138)*
+- **Uller (Kit Fox)  T** *(3142)*
 
 ### [UrbanMech](mechs/urbanmech.md)
 - **UrbanMech UM-R60** *(2675)*
@@ -805,7 +816,10 @@
 - **Cougar  F** *(3071)*
 - **Cougar G** *(3071)*
 - **Cougar XR** *(3071)*
+- **Cougar X 2** *(3089)*
+- **Cougar X 3** *(3093)*
 - **Cougar  I** *(3099)*
+- **Cougar X** *(3132)*
 
 ### [DemolitionMech](mechs/demolitionmech.md)
 - **DemolitionMech WI-DM** *(2513)*
@@ -953,9 +967,11 @@
 - **Panther PNT-12K2** *(3074)*
 - **Panther PNT-13K** *(3076)*
 - **Panther PNT-12K** *(3079)*
+- **Panther PNT-12KC** *(3139)*
 
 ### [Parash](mechs/parash.md)
 - **Parash (Standard)** *(3083)*
+- **Parash 3** *(3083)*
 - **Parash 2** *(3084)*
 
 ### [Peacemaker PM6 PoliceMech](mechs/peacemaker_pm6_policemech.md)
@@ -996,6 +1012,7 @@
 - **Puma (Adder)  H** *(3059)*
 - **Puma (Adder)  E** *(3060)*
 - **Puma (Adder)  J** *(3070)*
+- **Puma (Adder)  I** *(3125)*
 - **Puma (Adder)  K** *(3125)*
 - **Puma (Adder)  T** *(3142)*
 - **Puma (Adder)  L** *(3147)*
@@ -1083,6 +1100,7 @@
 - **Wolfhound WLF-1A** *(3028)*
 - **Wolfhound WLF-1B** *(3028)*
 - **Wolfhound WLF-2** *(3052)*
+- **Wolfhound WLF-1 (Allard)** *(3062)*
 - **Wolfhound WLF-3S** *(3064)*
 - **Wolfhound WLF-4W** *(3069)*
 - **Wolfhound WLF-4WA** *(3071)*
@@ -1143,6 +1161,7 @@
 - **Calliope CAL-1MAFSW 'Snow White'** *(3127)*
 
 ### [Carrion Crow](mechs/carrion_crow.md)
+- **Carrion Crow  Prime** *(3145)*
 - **Carrion Crow  A** *(3145)*
 - **Carrion Crow  B** *(3145)*
 - **Carrion Crow  C** *(3145)*
@@ -1308,7 +1327,9 @@
 - **Raven II RVN-5X** *(3123)*
 
 ### [Rock Hound ProspectorMech](mechs/rock_hound_prospectormech.md)
+- **Rock Hound ProspectorMech AM-PRM-RH7** *(3042)*
 - **Rock Hound ProspectorMech AM-PRM-RH7A 'Rock Otter'** *(3043)*
+- **Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'** *(3045)*
 
 ### [Scarecrow](mechs/scarecrow.md)
 - **Scarecrow UCU-F4** *(3099)*
@@ -1428,6 +1449,7 @@
 - **Bloodhound B2-HND** *(3067)*
 
 ### [Blue Flame](mechs/blue_flame.md)
+- **Blue Flame BLF-21** *(3062)*
 - **Blue Flame BLF-40** *(3073)*
 
 ### [Cobra](mechs/cobra.md)
@@ -1664,6 +1686,7 @@
 - **Vindicator VND-4L** *(3063)*
 - **Vindicator VND-6L** *(3068)*
 - **Vindicator VND-3Lr** *(3077)*
+- **Vindicator VND-3LD (Dao)** *(3078)*
 
 ### [Violator](mechs/violator.md)
 - **Violator VT-U1** *(3097)*
@@ -1754,6 +1777,9 @@
 
 ### [Buster BC XV-M-C HaulerMech](mechs/buster_bc_xv-m-c_haulermech.md)
 - **Buster BC XV-M-C HaulerMech MOD** *(3076)*
+
+### [Buster BC XV-M-W HaulerMech](mechs/buster_bc_xv-m-w_haulermech.md)
+- **Buster BC XV-M-W HaulerMech MOD** *(3077)*
 
 ### [Buster BC XXI HaulerMech](mechs/buster_bc_xxi_haulermech.md)
 - **Buster BC XXI HaulerMech (Standard)** *(3059)*
@@ -1978,6 +2004,9 @@
 
 ### [Sarissa](mechs/sarissa.md)
 - **Sarissa MN1-D** *(3080)*
+
+### [Sarissa SecurityMech](mechs/sarissa_securitymech.md)
+- **Sarissa SecurityMech MN2-A** *(3082)*
 
 ### [Shadow Hawk](mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-1R** *(2467)*
@@ -2316,6 +2345,9 @@
 - **Ryoken (Stormcrow)  F** *(3069)*
 - **Ryoken (Stormcrow)  Z** *(3072)*
 - **Ryoken (Stormcrow)  J** *(3150)*
+- **Ryoken (Stormcrow)  K** *(3150)*
+- **Ryoken (Stormcrow)  P** *(3150)*
+- **Ryoken (Stormcrow)  T** *(3150)*
 
 ### [Ryoken III-XP](mechs/ryoken_iii-xp.md)
 - **Ryoken III-XP  Prime** *(3143)*
@@ -2469,6 +2501,10 @@
 - **Crossbow CRS-6B** *(2473)*
 - **Crossbow CRS-6C** *(2481)*
 - **Crossbow CRS-9A** *(3071)*
+
+### [Daedalus](mechs/daedalus.md)
+- **Daedalus GTX2A 'Stevedore'** *(2750)*
+- **Daedalus GTX2B 'Navvy'** *(2750)*
 
 ### [Dragon](mechs/dragon.md)
 - **Dragon DRG-1C** *(2752)*
@@ -2638,6 +2674,9 @@
 ### [Sojourner](mechs/sojourner.md)
 - **Sojourner  Prime** *(3147)*
 - **Sojourner  A** *(3147)*
+- **Sojourner  B** *(3147)*
+- **Sojourner  C** *(3147)*
+- **Sojourner  D** *(3147)*
 
 ### [Spatha](mechs/spatha.md)
 - **Spatha SP1-X** *(3067)*
@@ -2865,8 +2904,10 @@
 
 ### [Lament](mechs/lament.md)
 - **Lament LMT-2R** *(3126)*
+- **Lament LMT-2R (Manes)** *(3126)*
 - **Lament LMT-3C** *(3135)*
 - **Lament LMT-3R** *(3135)*
+- **Lament LMT-4RC** *(3137)*
 
 ### [Linebacker](mechs/linebacker.md)
 - **Linebacker  Prime** *(3052)*
@@ -3355,7 +3396,9 @@
 - **Black Knight BLK-NT-2Y** *(3091)*
 - **Black Knight BLK-NT-3A** *(3095)*
 - **Black Knight BLK-NT-3B** *(3100)*
+- **Black Knight BLK-NT-4D** *(3127)*
 - **Black Knight BL-18-KNT** *(3130)*
+- **Black Knight BLK-NT-5H** *(3138)*
 
 ### [Burrock](mechs/burrock.md)
 - **Burrock (Standard)** *(3066)*
@@ -3711,6 +3754,7 @@
 - **Doloire  DLR-OB** *(3121)*
 - **Doloire  DLR-OC** *(3121)*
 - **Doloire  DLR-OD** *(3121)*
+- **Doloire  DLR-OBLO** *(3140)*
 
 ### [Epimetheus](mechs/epimetheus.md)
 - **Epimetheus Prime** *(3053)*
@@ -4077,6 +4121,7 @@
 - **Stalker STK-3F (Jagawen)** *(3028)*
 - **Stalker STK-5M** *(3050)*
 - **Stalker STK-5S** *(3050)*
+- **Stalker STK-3F (Jamison)** *(3054)*
 - **Stalker STK-6M** *(3062)*
 - **Stalker STK-7D** *(3062)*
 - **Stalker STK-8S** *(3064)*
@@ -4384,6 +4429,7 @@
 - **Peacekeeper PKP-1B** *(3087)*
 
 ### [Pendragon](mechs/pendragon.md)
+- **Pendragon PDG-1X MUSE RED** *(3072)*
 - **Pendragon PDG-1R** *(3083)*
 - **Pendragon PDG-3R** *(3130)*
 
@@ -4521,6 +4567,9 @@
 - **Devastator DVS-2** *(3048)*
 - **Devastator DVS-3** *(3058)*
 
+### [Diomede](mechs/diomede.md)
+- **Diomede D-M3D-M** *(3092)*
+
 ### [Fafnir](mechs/fafnir.md)
 - **Fafnir FNR-5** *(3063)*
 - **Fafnir FNR-5B** *(3065)*
@@ -4580,6 +4629,9 @@
 - **Kraken (Bane) 2** *(3053)*
 - **Kraken (Bane) 3** *(3054)*
 - **Kraken (Bane) 4** *(3066)*
+
+### [Kraken-XR](mechs/kraken-xr.md)
+- **Kraken-XR (Standard)** *(3073)*
 
 ### [Mackie](mechs/mackie.md)
 - **Mackie MSK-5S** *(2439)*

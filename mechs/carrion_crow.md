@@ -1,4 +1,19 @@
 # Carrion Crow
+## Carrion Crow Prime
+- **Role:** Undefined
+- **Tech Base:** Clan Mixed (3145)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 7 / 11 (14) / 0, XL
+- **Armor:** 133 (Ferro Lamellor)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER PPC w/ PPC Capacitor
+  - Improved Heavy Medium Laser × 2
+  - ER Small Laser
+- **Equipment:**
+  - Supercharger
+- **Battle Value:** 2133
+
 ## Carrion Crow A
 - **Role:** Undefined
 - **Tech Base:** Clan (3145)

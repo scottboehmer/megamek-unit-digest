@@ -14,6 +14,22 @@
   - Radical Heat Sink System
 - **Battle Value:** 1999
 
+## Lament LMT-2R (Manes)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3126)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 211 (Light Ferro Fibrous)
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - Clan ER PPC × 2
+  - Clan Improved Heavy Medium Laser × 2
+- **Equipment:**
+  - Radical Heat Sink System
+  - C3 Slave
+- **Battle Value:** 2302
+
 ## Lament LMT-3C
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3135)
@@ -44,4 +60,19 @@
 - **Equipment:**
   - Radical Heat Sink System
 - **Battle Value:** 1888
+
+## Lament LMT-4RC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3137)
+- **Chassis:** 65 tons (Composite)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 211 (Light Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 21 (42)
+- **Weapons:**
+  - Clan Improved Heavy Large Laser × 4
+- **Equipment:**
+  - Radical Heat Sink System
+  - C3 Slave
+- **Battle Value:** 2490
 

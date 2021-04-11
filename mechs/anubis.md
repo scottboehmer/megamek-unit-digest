@@ -44,6 +44,20 @@
   - Guardian ECM Suite
 - **Battle Value:** 1150
 
+## Anubis ABS-3MC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3081)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 8 / 12 / 0, XL
+- **Armor:** 88 (Stealth)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - NLRM 5 × 2 (ammo: 24)
+- **Equipment:**
+  - Angel ECM Suite
+- **Battle Value:** 1074
+
 ## Anubis ABS-4C
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3082)

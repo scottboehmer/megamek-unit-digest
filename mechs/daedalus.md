@@ -1,4 +1,33 @@
 # Daedalus
+## Daedalus GTX2A 'Stevedore'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2750)
+- **Chassis:** 60 tons Quad (Industrial)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 152
+- **Cockpit:** Industrial
+- **Heat Sinks:** 10 (10)
+- **Equipment:**
+  - Lift Hoist × 2
+  - Cargo × 15
+- **Battle Value:** unknown
+
+## Daedalus GTX2B 'Navvy'
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2750)
+- **Chassis:** 60 tons Quad (Industrial)
+- **Movement:** 4 / 6 / 0
+- **Armor:** 152
+- **Cockpit:** Industrial
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Backhoe
+  - Rock-Cutter
+- **Equipment:**
+  - Lift Hoist × 2
+  - Cargo × 5
+- **Battle Value:** unknown
+
 ## Daedalus DAD-3C
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3053)

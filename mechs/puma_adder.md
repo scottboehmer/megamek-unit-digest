@@ -139,6 +139,22 @@
   - CASE
 - **Battle Value:** 1222
 
+## Puma (Adder) I
+- **Role:** Undefined
+- **Tech Base:** Clan (3125)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - ER Medium Laser × 4
+  - SRM 6 × 2 (ammo: 30)
+  - Flamer
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1575
+
 ## Puma (Adder) K
 - **Role:** Undefined
 - **Tech Base:** Clan (3125)

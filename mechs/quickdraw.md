@@ -59,10 +59,10 @@
 - **Weapons:**
   - Medium Laser × 4
   - LRM 10 (ammo: 12)
-  - Streak SRM 4 (OS)
+  - SRM 4 (OS)
 - **Equipment:**
   - CASE
-- **Battle Value:** 1244
+- **Battle Value:** 1237
 
 ## Quickdraw QKD-C
 - **Role:** Undefined

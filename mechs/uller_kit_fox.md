@@ -60,6 +60,20 @@
   - CASE
 - **Battle Value:** 1142
 
+## Uller (Kit Fox) V
+- **Role:** Undefined
+- **Tech Base:** Clan (2921)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 71 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Small Laser × 2
+  - Arrow IV (ammo: 15)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 850
+
 ## Uller (Kit Fox) C
 - **Role:** Undefined
 - **Tech Base:** Clan (3050)
@@ -154,6 +168,21 @@
   - CASE
 - **Battle Value:** 1214
 
+## Uller (Kit Fox) J
+- **Role:** Undefined
+- **Tech Base:** Clan (3060)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 6, XL
+- **Armor:** 71 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Ultra AC/5 (ammo: 20)
+  - Streak SRM 2 (ammo: 50)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1134
+
 ## Uller (Kit Fox) F
 - **Role:** Undefined
 - **Tech Base:** Clan (3069)
@@ -167,6 +196,20 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1219
+
+## Uller (Kit Fox) K
+- **Role:** Undefined
+- **Tech Base:** Clan (3088)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 / 0, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Large Laser
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 1109
 
 ## Uller (Kit Fox) R
 - **Role:** Undefined
@@ -197,4 +240,22 @@
   - Inner Sphere C3i
   - CASE
 - **Battle Value:** 988
+
+## Uller (Kit Fox) T
+- **Role:** Undefined
+- **Tech Base:** Clan (3142)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9 (12) / 0, XL
+- **Armor:** 71 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+  - ER Medium Laser
+  - Streak SRM 4 (ammo: 25)
+  - ProtoMech AC/4 (ammo: 40)
+- **Equipment:**
+  - CASE
+  - Supercharger
+  - Active Probe
+- **Battle Value:** 1380
 

@@ -86,3 +86,20 @@
   - CASE II
 - **Battle Value:** 3071
 
+## Doloire DLR-OBLO
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3140)
+- **Chassis:** 80 tons (Endo Composite)
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 232
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Clan Large Pulse Laser × 2
+  - Clan Gauss Rifle (ammo: 16)
+  - Clan ER Medium Laser × 2
+- **Equipment:**
+  - AES × 2
+  - C3i
+  - Clan Light TAG
+- **Battle Value:** 2441
+

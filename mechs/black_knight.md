@@ -189,6 +189,24 @@
   - Medium Shield
 - **Battle Value:** 1911
 
+## Black Knight BLK-NT-4D
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3127)
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 3 / 5 / 0, XL
+- **Armor:** 216
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - Clan ER PPC
+  - Plasma Rifle × 2 (ammo: 30)
+  - Clan ER Small Laser × 2
+  - Clan ER Medium Laser × 2
+  - Clan Small Pulse Laser × 2
+- **Equipment:**
+  - Medium Shield
+  - Clan Angel ECM Suite
+- **Battle Value:** 2280
+
 ## Black Knight BL-18-KNT
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3130)
@@ -205,4 +223,22 @@
   - Targeting Computer
   - Beagle Active Probe
 - **Battle Value:** 2585
+
+## Black Knight BLK-NT-5H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3138)
+- **Chassis:** 75 tons (Endo Composite)
+- **Movement:** 3 / 5 / 0, Light
+- **Armor:** 216
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Clan ER PPC
+  - Clan ER Large Laser × 2
+  - Clan ER Small Laser × 2
+  - Clan ER Medium Laser × 2
+  - Clan Small Pulse Laser × 2
+- **Equipment:**
+  - Medium Shield
+  - Targeting Computer
+- **Battle Value:** 2423
 

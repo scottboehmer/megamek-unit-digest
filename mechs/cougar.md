@@ -147,6 +147,34 @@
   - CASE
 - **Battle Value:** 1783
 
+## Cougar X 2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3089)
+- **Chassis:** 35 tons (Composite)
+- **Movement:** 5 / 8 / 8, XL
+- **Armor:** 105 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan Streak LRM 15 (ammo: 16)
+  - Clan ER Medium Pulse Laser
+- **Battle Value:** 1293
+
+## Cougar X 3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3093)
+- **Chassis:** 35 tons (Composite)
+- **Movement:** 5 / 8 / 0, XL
+- **Armor:** 105 (Ferro Fibrous)
+- **Gyroscope:** Heavy-Duty Gyro
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Clan ER Large Pulse Laser
+  - Clan ER Medium Pulse Laser
+  - Clan Streak LRM 10 (ammo: 12)
+- **Equipment:**
+  - Clan Targeting Computer
+- **Battle Value:** 1391
+
 ## Cougar I
 - **Role:** Undefined
 - **Tech Base:** Clan (3099)
@@ -162,4 +190,16 @@
   - CASE
   - Supercharger
 - **Battle Value:** 1738
+
+## Cougar X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3132)
+- **Chassis:** 35 tons (Composite)
+- **Movement:** 5 / 8 / 7, XL
+- **Armor:** 67 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan ER Medium Laser × 2
+  - Clan Streak LRM 10 × 2 (ammo: 24)
+- **Battle Value:** 1474
 

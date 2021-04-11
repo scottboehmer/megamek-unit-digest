@@ -129,6 +129,20 @@
   - CASE
 - **Battle Value:** 1423
 
+## Stalker STK-3F (Jamison)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3054)
+- **Chassis:** 85 tons
+- **Movement:** 3 / 5 / 0
+- **Armor:** 259 (Ferro Fibrous)
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - Clan LRM 20 × 2 (ammo: 12)
+  - Clan ER Medium Laser × 4
+  - Clan Large Pulse Laser × 2
+  - Clan Streak SRM 6 × 2 (ammo: 30)
+- **Battle Value:** 2635
+
 ## Stalker STK-6M
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3062)

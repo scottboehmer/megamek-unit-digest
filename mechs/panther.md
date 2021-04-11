@@ -191,3 +191,17 @@
   - CASE
 - **Battle Value:** 930
 
+## Panther PNT-12KC
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3139)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 4 / 6 / 4
+- **Armor:** 108 (Ballistic Reinforced)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER PPC
+  - Medium Laser
+- **Equipment:**
+  - C3 Boosted Slave
+- **Battle Value:** 1036
+
