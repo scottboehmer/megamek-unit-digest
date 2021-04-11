@@ -5,6 +5,7 @@
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 144
+- **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Claw
@@ -20,6 +21,7 @@
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
 - **Armor:** 144
+- **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Claw

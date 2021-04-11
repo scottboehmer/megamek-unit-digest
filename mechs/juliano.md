@@ -5,6 +5,7 @@
 - **Chassis:** 90 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 279 (Light Ferro Fibrous)
+- **Cockpit:** Armored
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Clan Streak SRM 6 × 4 (ammo: 60)

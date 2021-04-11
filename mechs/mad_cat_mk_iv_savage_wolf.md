@@ -36,6 +36,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)
+- **Gyroscope:** Armored
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
@@ -50,6 +51,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)
+- **Gyroscope:** Armored
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER Large Laser × 2
@@ -65,6 +67,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)
+- **Gyroscope:** Armored
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Improved Heavy Large Laser
@@ -81,6 +84,7 @@
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
 - **Armor:** 224 (Ferro Lamellor)
+- **Gyroscope:** Armored
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER Large Laser × 2

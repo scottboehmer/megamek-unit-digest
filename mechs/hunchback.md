@@ -184,6 +184,7 @@
 - **Chassis:** 50 tons (Reinforced)
 - **Movement:** 4 / 6 / 0, XL
 - **Armor:** 161 (Ferro Fibrous)
+- **Gyroscope:** Armored
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

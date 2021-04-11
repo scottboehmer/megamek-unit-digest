@@ -5,6 +5,7 @@
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
 - **Armor:** 256
+- **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2

@@ -6,6 +6,7 @@
 - **Movement:** 3 / 5 / 0
 - **Armor:** 210 (Ballistic Reinforced)
 - **Gyroscope:** XL Gyro
+- **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ELRM 15 (ammo: 18)

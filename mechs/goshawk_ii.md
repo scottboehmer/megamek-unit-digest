@@ -39,6 +39,7 @@
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
 - **Armor:** 144
+- **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser

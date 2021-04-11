@@ -5,6 +5,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
+- **Cockpit:** Armored
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium X-Pulse Laser × 2
@@ -23,6 +24,7 @@
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
 - **Armor:** 307
+- **Cockpit:** Armored
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium X-Pulse Laser × 4
