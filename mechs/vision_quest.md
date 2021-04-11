@@ -12,10 +12,11 @@
   - ER Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2458
 
 ## Vision Quest 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2868)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -28,5 +29,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Succession Wars
 - **Battle Value:** 2556
 

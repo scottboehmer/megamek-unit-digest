@@ -13,6 +13,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1873
 
 ## Hellion A
@@ -28,6 +29,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1543
 
 ## Hellion B
@@ -43,6 +45,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - MASC
+- **Source:** TRO 3067
 - **Battle Value:** 1569
 
 ## Hellion C
@@ -59,6 +62,7 @@
   - MASC
   - CASE
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 2095
 
 ## Hellion D
@@ -75,6 +79,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1761
 
 ## Hellion E
@@ -93,6 +98,7 @@
   - MASC
   - CASE
   - ECM Suite
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1292
 
 ## Hellion F

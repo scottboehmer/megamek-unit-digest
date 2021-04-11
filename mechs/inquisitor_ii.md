@@ -1,6 +1,6 @@
 # Inquisitor II
 ## Inquisitor II ITW-200
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3130)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 4 / 6 / 0
@@ -14,5 +14,6 @@
   - Beagle Active Probe
   - CASE II
   - Searchlight
+- **Source:** TP Irian - Dark Ages
 - **Battle Value:** 1186
 

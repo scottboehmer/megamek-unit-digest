@@ -1,6 +1,6 @@
 # Mad Cat III
 ## Mad Cat III X
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3076)
 - **Chassis:** 55 tons (Endo Composite)
 - **Movement:** 6 / 9 / 0, XL
@@ -13,10 +13,11 @@
   - ER Micro Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** XTRO Clans - Jihad
 - **Battle Value:** 2232
 
 ## Mad Cat III (Eve)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -30,10 +31,11 @@
   - CASE
   - Targeting Computer
   - TAG
+- **Source:** DTP Liao
 - **Battle Value:** 2393
 
 ## Mad Cat III (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3086)
 - **Chassis:** 55 tons (Endo Composite)
 - **Movement:** 6 / 9 / 0, XL
@@ -45,6 +47,7 @@
   - ER Micro Laser × 6
 - **Equipment:**
   - CASE
+- **Source:** TRO Prototypes
 - **Battle Value:** 2400
 
 ## Mad Cat III 2
@@ -62,7 +65,7 @@
 - **Battle Value:** 2095
 
 ## Mad Cat III 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3094)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -74,10 +77,11 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2515
 
 ## Mad Cat III 4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3095)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -91,10 +95,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2061
 
 ## Mad Cat III 5
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3097)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -105,6 +110,7 @@
   - LRM 20 × 2 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2095
 
 ## Mad Cat III (Dark Age RS)

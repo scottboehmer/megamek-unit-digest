@@ -1,6 +1,6 @@
 # Mad Cat Mk IV (Savage Wolf)
 ## Mad Cat Mk IV (Savage Wolf) PR (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3130)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -12,10 +12,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2702
 
 ## Mad Cat Mk IV (Savage Wolf) PR 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3131)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -28,6 +29,7 @@
   - ATM 3 × 2 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2666
 
 ## Mad Cat Mk IV (Savage Wolf) (Prime)
@@ -43,6 +45,7 @@
   - Streak SRM 6 × 4 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2681
 
 ## Mad Cat Mk IV (Savage Wolf) A
@@ -59,6 +62,7 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2413
 
 ## Mad Cat Mk IV (Savage Wolf) B
@@ -76,6 +80,7 @@
 - **Equipment:**
   - CASE
   - CASE II
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2606
 
 ## Mad Cat Mk IV (Savage Wolf) C
@@ -93,5 +98,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2796
 

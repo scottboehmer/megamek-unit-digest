@@ -11,5 +11,6 @@
   - Small Laser × 2
   - Machine Gun (ammo: 100)
   - Flamer
+- **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** 261
 

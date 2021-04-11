@@ -1,6 +1,6 @@
 # Rifleman IIC
 ## Rifleman IIC (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2845)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -11,10 +11,11 @@
   - ER Small Laser
 - **Equipment:**
   - Active Probe
+- **Source:** Succession Wars
 - **Battle Value:** 2307
 
 ## Rifleman IIC 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2997)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
@@ -24,10 +25,11 @@
   - Ultra AC/2 × 4 (ammo: 270)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1345
 
 ## Rifleman IIC 3
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -39,10 +41,11 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** Civil War
 - **Battle Value:** 1733
 
 ## Rifleman IIC 4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3065)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -53,10 +56,11 @@
   - Large Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 2140
 
 ## Rifleman IIC 5
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 5
@@ -65,10 +69,11 @@
 - **Weapons:**
   - ER Large Laser × 3
   - Medium Pulse Laser × 2
+- **Source:** Jihad
 - **Battle Value:** 2343
 
 ## Rifleman IIC 6
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3071)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -80,10 +85,11 @@
   - Anti-Missile System × 2 (ammo: 48)
   - CASE
   - Active Probe
+- **Source:** Jihad
 - **Battle Value:** 2220
 
 ## Rifleman IIC 7
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3078)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 3 / 5 / 5
@@ -95,10 +101,11 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 2205
 
 ## Rifleman IIC 8
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3078)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -111,5 +118,6 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 2541
 

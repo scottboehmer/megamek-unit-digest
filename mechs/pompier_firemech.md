@@ -1,6 +1,6 @@
 # Pompier Firemech
 ## Pompier Firemech GM-3A
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3044)
 - **Chassis:** 15 tons (Industrial)
 - **Movement:** 2 / 3 / 0, Fuel Cell
@@ -12,6 +12,7 @@
   - Searchlight
   - Mech Sprayer
   - Liquid Cargo
+- **Source:** TRO VA - Late Succession War
 - **Battle Value:** unknown
 
 ## Pompier Firemech GM-3HT
@@ -26,10 +27,11 @@
   - Liquid Cargo × 4
   - Searchlight
   - Mech Sprayer
+- **Source:** TRO VA - Clan Invasion
 - **Battle Value:** unknown
 
 ## Pompier Firemech GM-3CD
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 15 tons (Industrial)
 - **Movement:** 2 / 3 / 0, Fuel Cell
@@ -41,5 +43,6 @@
   - Liquid Cargo
   - Searchlight
   - Mech Sprayer
+- **Source:** TRO VA - Civil War
 - **Battle Value:** unknown
 

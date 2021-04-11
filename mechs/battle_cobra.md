@@ -9,6 +9,7 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - Small Pulse Laser × 2
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1487
 
 ## Battle Cobra A
@@ -21,6 +22,7 @@
 - **Weapons:**
   - Medium Pulse Laser × 4
   - Small Pulse Laser × 6
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1466
 
 ## Battle Cobra B
@@ -33,6 +35,7 @@
 - **Weapons:**
   - ER PPC × 2
   - Small Pulse Laser × 2
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1892
 
 ## Battle Cobra F
@@ -47,6 +50,7 @@
   - Ultra AC/5 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1507
 
 ## Battle Cobra H
@@ -59,6 +63,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Heavy Medium Laser × 2
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1592
 
 ## Battle Cobra C
@@ -74,6 +79,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1484
 
 ## Battle Cobra BTL-C-2O
@@ -87,6 +93,7 @@
   - Large Pulse Laser × 2
 - **Equipment:**
   - C3i
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 944
 
 ## Battle Cobra BTL-C-2OA
@@ -105,6 +112,7 @@
   - Beagle Active Probe
   - TAG
   - Guardian ECM Suite
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1113
 
 ## Battle Cobra BTL-C-2OB
@@ -118,6 +126,7 @@
   - MRM 10 × 4 (ammo: 72)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 895
 
 ## Battle Cobra BTL-C-2OC
@@ -131,6 +140,7 @@
   - iNarc × 2 (ammo: 20)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 726
 
 ## Battle Cobra BTL-C-2OD
@@ -145,6 +155,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1221
 
 ## Battle Cobra BTL-C-2OE
@@ -158,6 +169,7 @@
   - MML 9 × 2 (ammo: 26 LRM, 11 SRM)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 840
 
 ## Battle Cobra BTL-C-2OF
@@ -171,6 +183,7 @@
   - Plasma Rifle × 2 (ammo: 30)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1300
 
 ## Battle Cobra X
@@ -184,5 +197,6 @@
   - Improved Heavy Medium Laser × 5
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1492
 

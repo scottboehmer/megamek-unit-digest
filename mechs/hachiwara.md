@@ -1,6 +1,6 @@
 # Hachiwara
 ## Hachiwara HCA-3T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -14,10 +14,11 @@
   - M-Pod × 4
   - CASE
   - Supercharger
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1646
 
 ## Hachiwara HCA-4T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -33,10 +34,11 @@
   - Supercharger
   - Spikes × 3
   - CASE II
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1728
 
 ## Hachiwara HCA-4U
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -51,10 +53,11 @@
   - M-Pod × 4
   - Supercharger
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1786
 
 ## Hachiwara HCA-6P
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 7 (8) / 0, XL
@@ -67,5 +70,6 @@
   - Medium Laser × 5
 - **Equipment:**
   - Spikes × 3
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 2385
 

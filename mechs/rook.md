@@ -1,6 +1,6 @@
 # Rook
 ## Rook NH-1A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons
 - **Movement:** 3 / 5 / 3
@@ -11,10 +11,11 @@
   - Medium Laser × 6
   - PPC
   - Small Laser
+- **Source:** Jihad
 - **Battle Value:** 1197
 
 ## Rook NH-1B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 3
@@ -24,10 +25,11 @@
   - Medium Laser × 6
   - PPC
   - Small Laser
+- **Source:** Jihad
 - **Battle Value:** 1227
 
 ## Rook NH-2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 6
@@ -38,10 +40,11 @@
   - Medium Laser × 4
   - ER PPC
   - Small Pulse Laser
+- **Source:** Jihad
 - **Battle Value:** 1525
 
 ## Rook NH-3X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -53,10 +56,11 @@
   - Small Laser
 - **Equipment:**
   - Supercharger
+- **Source:** Dark Age
 - **Battle Value:** unknown
 
 ## Rook NH-1X 'Rook-X'
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 55 tons
 - **Movement:** 3 / 5 / 0
@@ -68,5 +72,6 @@
   - Medium Laser × 2
   - ER Small Laser × 2
   - ER PPC w/ PPC Capacitor
+- **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 1187
 

@@ -1,6 +1,6 @@
 # Neanderthal
 ## Neanderthal NTL-UG
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3124)
 - **Chassis:** 80 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -14,10 +14,11 @@
   - Small Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 1817
 
 ## Neanderthal NTL-AG
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 80 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -30,5 +31,6 @@
 - **Equipment:**
   - M-Pod × 3
   - Guardian ECM Suite
+- **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 2020
 

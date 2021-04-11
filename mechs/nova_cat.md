@@ -9,6 +9,7 @@
 - **Weapons:**
   - ER Large Laser × 3
   - ER PPC × 2
+- **Source:** TRO 3060
 - **Battle Value:** 2530
 
 ## Nova Cat A
@@ -22,6 +23,7 @@
   - ER Large Laser × 4
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 2629
 
 ## Nova Cat B
@@ -36,6 +38,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2492
 
 ## Nova Cat C
@@ -51,6 +54,7 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1944
 
 ## Nova Cat D
@@ -66,6 +70,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2084
 
 ## Nova Cat E
@@ -80,6 +85,7 @@
   - Large Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2191
 
 ## Nova Cat F
@@ -95,6 +101,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 2706
 
 ## Nova Cat G
@@ -112,6 +119,7 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2522
 
 ## Nova Cat H
@@ -129,6 +137,7 @@
   - CASE
   - Coolant Pod × 3
   - Supercharger
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2452
 
 ## Nova Cat I
@@ -144,5 +153,6 @@
   - Inner Sphere TSEMP × 2
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2918
 

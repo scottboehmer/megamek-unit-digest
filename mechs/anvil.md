@@ -1,6 +1,6 @@
 # Anvil
 ## Anvil ANV-3M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
@@ -11,10 +11,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1441
 
 ## Anvil ANV-5M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -25,10 +26,11 @@
   - Medium Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1687
 
 ## Anvil ANV-6M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
@@ -40,10 +42,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1366
 
 ## Anvil ANV-8M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
@@ -57,10 +60,11 @@
   - MASC
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1690
 
 ## Anvil ANV-3R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -71,10 +75,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1496
 
 ## Anvil ANV-5Q
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
@@ -83,5 +88,6 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - Medium Laser × 2
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1336
 

@@ -1,6 +1,6 @@
 # Jackrabbit
 ## Jackrabbit JKR-8T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Streak SRM 2 (ammo: 50)
   - AC/2 (ammo: 45)
+- **Source:** TRO 3075
 - **Battle Value:** 414
 
 ## Jackrabbit JKR-9R 'Joker'
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2768)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Streak SRM 2 (ammo: 50)
   - Large Laser
+- **Source:** TRO 3075
 - **Battle Value:** 614
 
 ## Jackrabbit JKR-9W
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -34,5 +36,6 @@
   - Streak SRM 2 (ammo: 50)
   - Light AC/5 (ammo: 20)
   - ER Medium Laser
+- **Source:** TRO 3075
 - **Battle Value:** 549
 

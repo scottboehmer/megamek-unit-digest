@@ -1,6 +1,6 @@
 # Bear Cub
 ## Bear Cub (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 25 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -13,10 +13,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1052
 
 ## Bear Cub 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 25 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -28,10 +29,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 988
 
 ## Bear Cub 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 25 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -43,5 +45,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1086
 

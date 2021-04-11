@@ -1,6 +1,6 @@
 # Wolverine
 ## Wolverine WVR-6R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2575)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -10,10 +10,11 @@
   - AC/5 (ammo: 20)
   - SRM 6 (ammo: 15)
   - Medium Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1101
 
 ## Wolverine WVR-6K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2598)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
@@ -24,10 +25,11 @@
   - Medium Laser × 2
   - Small Laser
   - SRM 6 (ammo: 30)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1248
 
 ## Wolverine WVR-6M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2816)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -37,6 +39,7 @@
   - Large Laser
   - Medium Laser × 2
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1291
 
 ## Wolverine WVR-6D
@@ -49,10 +52,11 @@
 - **Weapons:**
   - AC/10 (ammo: 20)
   - Medium Laser
+- **Source:** RS:Succession Wars - Succession Wars
 - **Battle Value:** 1115
 
 ## Wolverine WVR-7D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -65,10 +69,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** Clan Invasion
 - **Battle Value:** 1314
 
 ## Wolverine WVR-7K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -79,10 +84,11 @@
   - Small Pulse Laser
   - SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser
+- **Source:** Clan Invasion
 - **Battle Value:** 1331
 
 ## Wolverine WVR-7M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -94,10 +100,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - MASC
+- **Source:** Clan Invasion
 - **Battle Value:** 1673
 
 ## Wolverine WVR-8K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -110,10 +117,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1576
 
 ## Wolverine WVR-8D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -127,10 +135,11 @@
   - CASE
   - Targeting Computer
   - MASC
+- **Source:** Civil War
 - **Battle Value:** 1547
 
 ## Wolverine WVR-9D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -144,10 +153,11 @@
   - MASC
   - CASE
   - TAG
+- **Source:** Civil War
 - **Battle Value:** 1369
 
 ## Wolverine WVR-8C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -160,10 +170,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** Civil War
 - **Battle Value:** 1447
 
 ## Wolverine WVR-9M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -175,10 +186,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1617
 
 ## Wolverine WVR-9K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 5, Light
@@ -196,10 +208,11 @@
   - B-Pod × 2
   - CASE
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1400
 
 ## Wolverine WVR-9W
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -212,10 +225,11 @@
 - **Equipment:**
   - CASE II
   - C3i
+- **Source:** Jihad
 - **Battle Value:** 1387
 
 ## Wolverine WVR-9W2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -230,5 +244,6 @@
   - CASE
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** Dark Age
 - **Battle Value:** 1463
 

@@ -1,6 +1,6 @@
 # Beowulf
 ## Beowulf BEO-12
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -13,6 +13,7 @@
   - MASC
   - Beagle Active Probe
   - TAG
+- **Source:** TRO 3060
 - **Battle Value:** 1319
 
 ## Beowulf C
@@ -30,10 +31,11 @@
   - Light Active Probe
   - MASC
   - Light TAG
+- **Source:** Jihad
 - **Battle Value:** 2078
 
 ## Beowulf BEO-14
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 45 tons
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -49,5 +51,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - C3 Slave
+- **Source:** TRO 3060
 - **Battle Value:** 1287
 

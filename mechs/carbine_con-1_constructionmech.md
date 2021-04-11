@@ -1,6 +1,6 @@
 # Carbine CON-1 ConstructionMech
 ## Carbine CON-1 ConstructionMech (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2691)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
@@ -11,5 +11,6 @@
   - Backhoe
 - **Equipment:**
   - Lift Hoist
+- **Source:** RS Operation Klondike - Late Succession War
 - **Battle Value:** unknown
 

@@ -1,6 +1,6 @@
 # Quasit MilitiaMech
 ## Quasit MilitiaMech QUA-51T
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2517)
 - **Chassis:** 45 tons (Industrial)
 - **Movement:** 5 / 8 / 0
@@ -13,10 +13,11 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - Enviro-Sealing
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Quasit MilitiaMech QUA-51M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 45 tons (Industrial)
 - **Movement:** 5 / 8 / 0
@@ -28,10 +29,11 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Enviro-Sealing
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Quasit MilitiaMech QUA-51P
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 45 tons (Industrial)
 - **Movement:** 5 / 8 / 0
@@ -42,5 +44,6 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Enviro-Sealing
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 

@@ -1,6 +1,6 @@
 # Hatamoto-Suna
 ## Hatamoto-Suna HTM-30S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -13,5 +13,6 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2086
 

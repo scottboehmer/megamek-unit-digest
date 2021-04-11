@@ -12,6 +12,7 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
+- **Source:** TRO 3060
 - **Battle Value:** 1550
 
 ## Men Shen MS1-OA
@@ -28,6 +29,7 @@
   - MASC
   - Beagle Active Probe
   - TAG
+- **Source:** TRO 3060
 - **Battle Value:** 1529
 
 ## Men Shen MS1-OB
@@ -43,6 +45,7 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
+- **Source:** TRO 3060
 - **Battle Value:** 1484
 
 ## Men Shen MS1-OC
@@ -59,6 +62,7 @@
   - MASC
   - Beagle Active Probe
   - Guardian ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1435
 
 ## Men Shen MS1-OD
@@ -75,6 +79,7 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
+- **Source:** TRO 3060
 - **Battle Value:** 1581
 
 ## Men Shen (Li)
@@ -90,6 +95,7 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
+- **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
 - **Battle Value:** 1550
 
 ## Men Shen MS1-OE
@@ -107,6 +113,7 @@
   - MASC
   - Beagle Active Probe
   - MG Array × 2
+- **Source:** TRO 3060
 - **Battle Value:** 1574
 
 ## Men Shen MS1-OF
@@ -123,6 +130,7 @@
   - Beagle Active Probe
   - Targeting Computer
   - TAG
+- **Source:** TRO 3060
 - **Battle Value:** 1648
 
 ## Men Shen MS1-OG
@@ -139,5 +147,6 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2267
 

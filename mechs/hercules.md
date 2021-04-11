@@ -1,6 +1,6 @@
 # Hercules
 ## Hercules HRC-LS-9000
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -14,10 +14,11 @@
   - ER PPC
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1561
 
 ## Hercules HRC-LS-9001
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -29,10 +30,11 @@
   - Streak SRM 2 × 2 (ammo: 50)
   - Small Pulse Laser × 2
   - ER PPC
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1566
 
 ## Hercules HRC-LS-9000 (Julius)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL

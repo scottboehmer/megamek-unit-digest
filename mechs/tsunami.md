@@ -1,6 +1,6 @@
 # Tsunami
 ## Tsunami TS-P1
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -12,10 +12,11 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 933
 
 ## Tsunami TS-P1D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons
 - **Movement:** 6 (7) / 9 (11) / 4
@@ -28,5 +29,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1298
 

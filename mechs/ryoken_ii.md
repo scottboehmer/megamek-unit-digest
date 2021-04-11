@@ -1,6 +1,6 @@
 # Ryoken II
 ## Ryoken II (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3075)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -11,10 +11,11 @@
   - LB 2-X AC × 4 (ammo: 45 Standard, 45 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1801
 
 ## Ryoken II 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -25,10 +26,11 @@
   - Ultra AC/10 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2141
 
 ## Ryoken II 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -39,6 +41,7 @@
   - HAG 20 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2336
 
 ## Ryoken II (Tassa)

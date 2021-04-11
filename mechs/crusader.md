@@ -1,6 +1,6 @@
 # Crusader
 ## Crusader CRD-2R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2649)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -13,10 +13,11 @@
   - Streak SRM 2 × 4 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1533
 
 ## Crusader CRD-3R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -27,10 +28,11 @@
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
   - SRM 6 × 2 (ammo: 15)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1317
 
 ## Crusader CRD-3L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2753)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -41,10 +43,11 @@
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
   - SRM 4 × 2 (ammo: 25)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1297
 
 ## Crusader CRD-3D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2756)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -54,10 +57,11 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1338
 
 ## Crusader CRD-3K
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -67,10 +71,11 @@
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
   - SRM 6 × 2 (ammo: 15)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1290
 
 ## Crusader CRD-3R (Crael)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3040)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -81,10 +86,11 @@
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
   - SRM 6 × 4 (ammo: 15)
+- **Source:** Succession Wars
 - **Battle Value:** 1204
 
 ## Crusader CRD-4D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -94,10 +100,11 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Pulse Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
+- **Source:** Clan Invasion
 - **Battle Value:** 1309
 
 ## Crusader CRD-4K
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -107,10 +114,11 @@
   - LRM 10 × 2 (ammo: 24)
   - Medium Pulse Laser × 2
   - SRM 6 × 2 (ammo: 15)
+- **Source:** Clan Invasion
 - **Battle Value:** 1268
 
 ## Crusader CRD-4L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -120,10 +128,11 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Pulse Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
+- **Source:** Clan Invasion
 - **Battle Value:** 1309
 
 ## Crusader CRD-5M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -138,10 +147,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** Clan Invasion
 - **Battle Value:** 1408
 
 ## Crusader CRD-5S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -154,10 +164,11 @@
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1446
 
 ## Crusader CRD-4BR
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -170,10 +181,11 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1407
 
 ## Crusader CRD-5K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -186,10 +198,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** Civil War
 - **Battle Value:** 1463
 
 ## Crusader CRD-8S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -201,10 +214,11 @@
   - Heavy Gauss Rifle (ammo: 8)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1698
 
 ## Crusader CRD-7L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons
 - **Movement:** 3 / 5 / 3
@@ -217,10 +231,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1749
 
 ## Crusader CRD-7W
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -233,10 +248,11 @@
   - MML 5 w/ Artemis IV × 2 (ammo: 72 LRM, 40 SRM)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1162
 
 ## Crusader CRD-6M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 65 tons
 - **Movement:** 3 / 5 / 5, XL
@@ -249,10 +265,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1373
 
 ## Crusader CRD-8L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -264,5 +281,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1701
 

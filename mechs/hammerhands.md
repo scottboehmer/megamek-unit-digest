@@ -1,6 +1,6 @@
 # Hammerhands
 ## Hammerhands HMH-3D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 3
@@ -10,10 +10,11 @@
   - AC/10 × 2 (ammo: 40)
   - Medium Laser × 2
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3075
 - **Battle Value:** 1381
 
 ## Hammerhands HMH-4D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2492)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 0
@@ -23,10 +24,11 @@
   - AC/10 × 2 (ammo: 40)
   - Medium Laser × 2
   - PPC
+- **Source:** TRO 3075
 - **Battle Value:** 1356
 
 ## Hammerhands HMH-3D (Kessem)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2725)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 0
@@ -36,10 +38,11 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Medium Laser × 2
   - SRM 6 (ammo: 15)
+- **Source:** ER 2750
 - **Battle Value:** 1413
 
 ## Hammerhands HMH-5D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 5
@@ -50,10 +53,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3075
 - **Battle Value:** 1496
 
 ## Hammerhands HMH-6D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 75 tons
 - **Movement:** 3 (4) / 5 (6) / 5
@@ -66,10 +70,11 @@
 - **Equipment:**
   - C3 Slave
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 2139
 
 ## Hammerhands HMH-6E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 75 tons
 - **Movement:** 3 (4) / 5 (6) / 5
@@ -83,5 +88,6 @@
   - C3 Slave
   - Guardian ECM Suite
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2204
 

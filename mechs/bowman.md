@@ -1,6 +1,6 @@
 # Bowman
 ## Bowman 4
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2923)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -12,10 +12,11 @@
   - CASE
   - ECM Suite
   - A-Pod × 4
+- **Source:** RS:3067U
 - **Battle Value:** 1657
 
 ## Bowman (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2973)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -29,10 +30,11 @@
   - CASE
   - ECM Suite
   - A-Pod × 4
+- **Source:** RS 3068 - Late Succession War - LosTech
 - **Battle Value:** 2209
 
 ## Bowman 2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2974)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -46,10 +48,11 @@
   - CASE
   - ECM Suite
   - A-Pod × 4
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2567
 
 ## Bowman 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3076)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -64,5 +67,6 @@
   - Targeting Computer
   - ECM Suite
   - B-Pod × 2
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2767
 

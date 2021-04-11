@@ -1,6 +1,6 @@
 # Night Stalker
 ## Night Stalker NSR-K1
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -13,10 +13,11 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1149
 
 ## Night Stalker NSR-K3
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -32,10 +33,11 @@
 - **Equipment:**
   - TAG
   - Beagle Active Probe
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1028
 
 ## Night Stalker NSR-K4
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -49,10 +51,11 @@
 - **Equipment:**
   - CASE
   - Beagle Active Probe
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1159
 
 ## Night Stalker NSR-KC
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -66,5 +69,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - C3 Slave
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1037
 

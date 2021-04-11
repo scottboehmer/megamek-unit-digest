@@ -17,6 +17,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Grigori C-GRG-OA Dominus
@@ -36,6 +37,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1536
 
 ## Grigori C-GRG-OB Infernus
@@ -55,6 +57,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1374
 
 ## Grigori C-GRG-OC Comminus
@@ -74,6 +77,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1438
 
 ## Grigori C-GRG-OD Luminos
@@ -92,6 +96,7 @@
   - Light PPC
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 1568
 
 ## Grigori C-GRG-O (Rufus)
@@ -112,6 +117,7 @@
   - C3i
   - CASE
   - Supercharger
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 1380
 
 ## Grigori C-GRG-O (Tamiel)
@@ -130,6 +136,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Grigori C-GRG-OE Eminus
@@ -149,6 +156,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Grigori C-GRG-OS Caelestis

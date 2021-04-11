@@ -1,6 +1,6 @@
 # Annihilator
 ## Annihilator ANH-1X
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2779)
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0
@@ -16,7 +16,7 @@
 - **Battle Value:** 1926
 
 ## Annihilator ANH-1G
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2823)
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0
@@ -28,7 +28,7 @@
 - **Battle Value:** 2274
 
 ## Annihilator C 'Gausszilla'
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (2844)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 2 / 3 / 0
@@ -41,7 +41,7 @@
 - **Battle Value:** 2455
 
 ## Annihilator C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2848)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -52,10 +52,11 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2520
 
 ## Annihilator C 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2850)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 2 / 3 / 0
@@ -70,7 +71,7 @@
 - **Battle Value:** 2722
 
 ## Annihilator ANH-1A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3009)
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0
@@ -79,10 +80,11 @@
 - **Weapons:**
   - AC/10 × 4 (ammo: 40)
   - Medium Laser × 4
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1434
 
 ## Annihilator ANH-1E
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0
@@ -94,7 +96,7 @@
 - **Battle Value:** 1625
 
 ## Annihilator ANH-2A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0
@@ -105,10 +107,11 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1595
 
 ## Annihilator ANH-3A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0, Compact
@@ -121,10 +124,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1712
 
 ## Annihilator ANH-4A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons
 - **Movement:** 2 / 3 / 0
@@ -135,5 +139,6 @@
   - Heavy PPC × 2
   - LB 10-X AC × 2 (ammo: 40)
   - Light AC/2 × 2 (ammo: 90)
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1726
 

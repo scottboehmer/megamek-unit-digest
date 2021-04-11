@@ -15,6 +15,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2623
 
 ## Woodsman A
@@ -31,6 +32,7 @@
   - ER Small Laser
 - **Equipment:**
   - MASC
+- **Source:** Succession Wars
 - **Battle Value:** 2741
 
 ## Woodsman B
@@ -50,6 +52,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2414
 
 ## Woodsman C
@@ -66,5 +69,6 @@
   - MASC
   - CASE
   - Watchdog CEWS
+- **Source:** Dark Age
 - **Battle Value:** 2230
 

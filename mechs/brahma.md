@@ -1,6 +1,6 @@
 # Brahma
 ## Brahma BRM-5A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 3, XL
@@ -15,10 +15,11 @@
   - Targeting Computer
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** Jihad
 - **Battle Value:** 1572
 
 ## Brahma BRM-5B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 3, XL
@@ -32,5 +33,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1730
 

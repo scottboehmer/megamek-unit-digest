@@ -8,6 +8,7 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER Medium Laser × 12
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2663
 
 ## Black Hawk (Nova) A
@@ -23,6 +24,7 @@
 - **Equipment:**
   - Anti-Missile System × 2 (ammo: 24)
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2422
 
 ## Black Hawk (Nova) B
@@ -39,6 +41,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1543
 
 ## Black Hawk (Nova) C
@@ -54,6 +57,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1515
 
 ## Black Hawk (Nova) D
@@ -68,6 +72,7 @@
   - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1450
 
 ## Black Hawk (Nova) S
@@ -84,6 +89,7 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - Active Probe
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2056
 
 ## Black Hawk (Nova) E
@@ -98,6 +104,7 @@
   - ATM 12 (ammo: 10 Standard, 10 HE, 10 ER)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2078
 
 ## Black Hawk (Nova) H
@@ -109,6 +116,7 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - Heavy Medium Laser × 10
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1832
 
 ## Black Hawk (Nova) F
@@ -123,6 +131,7 @@
   - HAG 20 (ammo: 18)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1976
 
 ## Black Hawk (Nova) I
@@ -135,6 +144,7 @@
 - **Weapons:**
   - Improved Heavy Medium Laser × 5
   - ER PPC
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2224
 
 ## Black Hawk (Nova) X
@@ -149,5 +159,6 @@
   - ER Medium Laser × 6
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2761
 

@@ -14,6 +14,7 @@
   - AES
   - Supercharger
   - CASE II
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2491
 
 ## Sojourner A
@@ -32,6 +33,7 @@
   - AES
   - Supercharger
   - CASE II
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 1911
 
 ## Sojourner B
@@ -49,6 +51,7 @@
   - CASE II
   - Supercharger
   - ECM Suite
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2397
 
 ## Sojourner C
@@ -66,6 +69,7 @@
   - AES
   - CASE II
   - Supercharger
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2235
 
 ## Sojourner D
@@ -83,5 +87,6 @@
   - AES
   - CASE II
   - Supercharger
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2452
 

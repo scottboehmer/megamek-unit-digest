@@ -1,6 +1,6 @@
 # Tundra Wolf
 ## Tundra Wolf (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -16,10 +16,11 @@
   - CASE
   - MASC
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 3131
 
 ## Tundra Wolf 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -34,10 +35,11 @@
   - Targeting Computer
   - MASC
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 3626
 
 ## Tundra Wolf 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -52,10 +54,11 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 3292
 
 ## Tundra Wolf 4
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3077)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -70,10 +73,11 @@
   - CASE
   - MASC
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 2873
 
 ## Tundra Wolf 5
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3086)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
@@ -87,5 +91,6 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2645
 

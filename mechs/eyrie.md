@@ -1,6 +1,6 @@
 # Eyrie
 ## Eyrie (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3087)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 7, XL
@@ -14,5 +14,6 @@
   - Partial Wing
   - CASE
   - Talons
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 1401
 

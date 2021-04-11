@@ -1,6 +1,6 @@
 # DemolitionMech
 ## DemolitionMech WI-DM
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2513)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 3 / 5 / 0, Fuel Cell
@@ -13,10 +13,11 @@
   - Small Laser
 - **Equipment:**
   - Cargo
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## DemolitionMech WI-DM2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2514)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 3 / 5 / 0, Fuel Cell
@@ -27,5 +28,6 @@
   - Wrecking Ball
 - **Equipment:**
   - Cargo
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 

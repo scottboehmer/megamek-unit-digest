@@ -1,6 +1,6 @@
 # Cicada
 ## Cicada CDA-2A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2740)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - Small Laser
+- **Source:** Source:TRO 3039 - Star League
 - **Battle Value:** 659
 
 ## Cicada CDA-2B
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2840)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - Flamer
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 626
 
 ## Cicada CDA-3C
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2840)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 0
@@ -33,10 +35,11 @@
 - **Weapons:**
   - PPC
   - Machine Gun × 2 (ammo: 200)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 771
 
 ## Cicada CDA-3M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -48,10 +51,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 812
 
 ## Cicada CDA-3F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -60,10 +64,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - ER PPC
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1329
 
 ## Cicada CDA-3G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -74,10 +79,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1270
 
 ## Cicada CDA-3MA
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -87,10 +93,11 @@
   - Snub-Nose PPC
   - Medium Laser × 2
   - Small Pulse Laser
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1158
 
 ## Cicada CDA-3P
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 0, XL
@@ -99,5 +106,6 @@
 - **Weapons:**
   - Heavy PPC
   - ER Medium Laser × 4
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1502
 

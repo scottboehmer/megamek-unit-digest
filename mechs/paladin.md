@@ -1,6 +1,6 @@
 # Paladin
 ## Paladin PAL-1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -13,10 +13,11 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1361
 
 ## Paladin PAL-2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 60 tons (Composite)
 - **Movement:** 6 (7) / 9 (11) / 6, XXL
@@ -31,10 +32,11 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1617
 
 ## Paladin PAL-3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 60 tons (Reinforced)
 - **Movement:** 6 / 9 / 0, XXL
@@ -48,5 +50,6 @@
   - Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1370
 

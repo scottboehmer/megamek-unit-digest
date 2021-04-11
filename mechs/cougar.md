@@ -11,6 +11,7 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1485
 
 ## Cougar A
@@ -26,6 +27,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1697
 
 ## Cougar B
@@ -38,6 +40,7 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser
+- **Source:** TRO 3060
 - **Battle Value:** 1774
 
 ## Cougar C
@@ -52,6 +55,7 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1785
 
 ## Cougar D
@@ -67,6 +71,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1309
 
 ## Cougar H
@@ -83,6 +88,7 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1323
 
 ## Cougar E
@@ -97,6 +103,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1442
 
 ## Cougar F
@@ -114,10 +121,11 @@
   - MG Array × 2
   - B-Pod × 2
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1345
 
 ## Cougar G
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3071)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -129,10 +137,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1453
 
 ## Cougar XR
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3071)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
@@ -145,10 +154,11 @@
 - **Equipment:**
   - Partial Wing
   - CASE
+- **Source:** XTRO Clans - Jihad
 - **Battle Value:** 1783
 
 ## Cougar X 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3089)
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 5 / 8 / 8, XL
@@ -157,10 +167,11 @@
 - **Weapons:**
   - Clan Streak LRM 15 (ammo: 16)
   - Clan ER Medium Pulse Laser
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1293
 
 ## Cougar X 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3093)
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 5 / 8 / 0, XL
@@ -173,6 +184,7 @@
   - Clan Streak LRM 10 (ammo: 12)
 - **Equipment:**
   - Clan Targeting Computer
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1391
 
 ## Cougar I
@@ -189,10 +201,11 @@
 - **Equipment:**
   - CASE
   - Supercharger
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 1738
 
 ## Cougar X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3132)
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 5 / 8 / 7, XL
@@ -201,5 +214,6 @@
 - **Weapons:**
   - Clan ER Medium Laser × 2
   - Clan Streak LRM 10 × 2 (ammo: 24)
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1474
 

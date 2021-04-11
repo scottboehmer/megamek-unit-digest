@@ -1,6 +1,6 @@
 # Mantis
 ## Mantis SA-MN
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -12,10 +12,11 @@
   - Medium Laser
 - **Equipment:**
   - MASC
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 704
 
 ## Mantis MTS-S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -27,10 +28,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - MASC
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1128
 
 ## Mantis MTS-T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -44,10 +46,11 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1312
 
 ## Mantis MTS-T2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -60,10 +63,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - MASC
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1380
 
 ## Mantis MTS-T3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -76,10 +80,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - MASC
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1380
 
 ## Mantis MTS-L
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 (10) / 14 (20) / 0, XL
@@ -92,5 +97,6 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Supercharger
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1194
 

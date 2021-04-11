@@ -1,6 +1,6 @@
 # Fire Scorpion
 ## Fire Scorpion (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2852)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -12,10 +12,11 @@
 - **Equipment:**
   - A-Pod × 4
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1546
 
 ## Fire Scorpion 2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3060)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -29,10 +30,11 @@
   - A-Pod × 4
   - CASE
   - Active Probe
+- **Source:** TRO 3060
 - **Battle Value:** 1749
 
 ## Fire Scorpion 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3071)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -45,5 +47,6 @@
   - CASE
   - Targeting Computer
   - Active Probe
+- **Source:** TRO 3060
 - **Battle Value:** 1904
 

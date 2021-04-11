@@ -12,6 +12,7 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2298
 
 ## Thor (Summoner) A
@@ -27,6 +28,7 @@
   - SRM 6 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2145
 
 ## Thor (Summoner) B
@@ -43,6 +45,7 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2159
 
 ## Thor (Summoner) C
@@ -59,6 +62,7 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2379
 
 ## Thor (Summoner) D
@@ -76,6 +80,7 @@
   - Anti-Missile System × 2 (ammo: 48)
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2643
 
 ## Thor (Summoner) M
@@ -92,6 +97,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2251
 
 ## Thor (Summoner) E
@@ -107,6 +113,7 @@
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2612
 
 ## Thor (Summoner) F
@@ -122,6 +129,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2186
 
 ## Thor (Summoner) H
@@ -138,6 +146,7 @@
   - Anti-Missile System (ammo: 24)
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2536
 
 ## Thor (Summoner) G
@@ -154,6 +163,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2452
 
 ## Thor (Summoner) Q
@@ -171,6 +181,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2479
 
 ## Thor (Summoner) HH
@@ -188,6 +199,7 @@
   - Heavy Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2490
 
 ## Thor (Summoner) Z
@@ -204,6 +216,7 @@
 - **Equipment:**
   - CASE
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 2783
 
 ## Thor (Summoner) AA
@@ -219,6 +232,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2216
 
 ## Thor (Summoner) T
@@ -234,6 +248,7 @@
   - Streak LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2355
 
 ## Thor (Summoner) J
@@ -249,5 +264,6 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2666
 

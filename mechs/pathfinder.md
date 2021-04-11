@@ -1,6 +1,6 @@
 # Pathfinder
 ## Pathfinder PFF-2
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 25 tons
 - **Movement:** 6 / 9 / 0
@@ -11,6 +11,7 @@
   - ER Medium Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 452
 
 ## Pathfinder PFF-2T
@@ -24,5 +25,6 @@
 - **Equipment:**
   - TAG
   - Beagle Active Probe
+- **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 390
 

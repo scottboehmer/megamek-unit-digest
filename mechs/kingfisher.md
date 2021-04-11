@@ -14,6 +14,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2401
 
 ## Kingfisher A
@@ -32,6 +33,7 @@
   - ER PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2261
 
 ## Kingfisher B
@@ -49,6 +51,7 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2472
 
 ## Kingfisher C
@@ -61,6 +64,7 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser × 4
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2644
 
 ## Kingfisher D
@@ -75,6 +79,7 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2364
 
 ## Kingfisher H
@@ -89,6 +94,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2525
 
 ## Kingfisher E
@@ -104,6 +110,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2443
 
 ## Kingfisher F
@@ -120,6 +127,7 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2568
 
 ## Kingfisher X
@@ -138,5 +146,6 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2761
 

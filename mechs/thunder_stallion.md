@@ -1,6 +1,6 @@
 # Thunder Stallion
 ## Thunder Stallion (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2850)
 - **Chassis:** 85 tons Quad
 - **Movement:** 3 / 5 / 0
@@ -11,10 +11,11 @@
   - LB 20-X AC (ammo: 5 Cluster, 5 Standard)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2306
 
 ## Thunder Stallion 2 'Fire Stallion'
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2877)
 - **Chassis:** 85 tons Quad
 - **Movement:** 3 / 5 / 0
@@ -25,10 +26,11 @@
   - Large Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2575
 
 ## Thunder Stallion 3
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3069)
 - **Chassis:** 85 tons Quad
 - **Movement:** 3 / 5 / 0
@@ -41,5 +43,6 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2667
 

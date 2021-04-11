@@ -13,6 +13,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2712
 
 ## Daishi (Dire Wolf) A
@@ -29,6 +30,7 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 72)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2855
 
 ## Daishi (Dire Wolf) B
@@ -46,6 +48,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2609
 
 ## Daishi (Dire Wolf) W
@@ -64,6 +67,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2951
 
 ## Daishi (Dire Wolf) 'Widowmaker'
@@ -81,6 +85,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 3041
 
 ## Daishi (Dire Wolf) S
@@ -99,6 +104,7 @@
 - **Equipment:**
   - CASE
   - A-Pod × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2985
 
 ## Daishi (Dire Wolf) 'Prometheus'
@@ -115,6 +121,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2900
 
 ## Daishi (Dire Wolf) (Hohiro)
@@ -132,6 +139,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 3048
 
 ## Daishi (Dire Wolf) C
@@ -150,6 +158,7 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** unknown
 
 ## Daishi (Dire Wolf) H
@@ -167,6 +176,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2992
 
 ## Daishi (Dire Wolf) X
@@ -189,6 +199,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2645
 
 ## Daishi (Dire Wolf) D
@@ -205,6 +216,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3403
 
 ## Daishi (Dire Wolf) E
@@ -221,5 +233,6 @@
 - **Equipment:**
   - CASE II
   - Watchdog CEWS
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2814
 

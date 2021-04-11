@@ -1,6 +1,6 @@
 # Pack Hunter
 ## Pack Hunter (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7
@@ -8,10 +8,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
+- **Source:** TRO 3060
 - **Battle Value:** 1369
 
 ## Pack Hunter 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -20,10 +21,11 @@
 - **Weapons:**
   - ER Micro Laser × 8
   - ER PPC
+- **Source:** TRO 3060
 - **Battle Value:** 1598
 
 ## Pack Hunter 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
@@ -34,10 +36,11 @@
   - ER PPC
 - **Equipment:**
   - MASC
+- **Source:** TRO 3060
 - **Battle Value:** 1747
 
 ## Pack Hunter 4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 9, XL
@@ -48,10 +51,11 @@
 - **Equipment:**
   - Targeting Computer
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1257
 
 ## Pack Hunter 5
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3145)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 7, XL
@@ -59,5 +63,6 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
+- **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 1644
 

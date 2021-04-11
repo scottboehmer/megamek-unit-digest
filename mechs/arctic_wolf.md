@@ -1,6 +1,6 @@
 # Arctic Wolf
 ## Arctic Wolf (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -12,10 +12,11 @@
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1330
 
 ## Arctic Wolf 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -27,6 +28,7 @@
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1511
 
 ## Arctic Wolf Prime
@@ -40,6 +42,7 @@
   - Streak SRM 6 × 4 (ammo: 60)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1641
 
 ## Arctic Wolf A
@@ -56,6 +59,7 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1587
 
 ## Arctic Wolf J
@@ -73,5 +77,6 @@
   - Active Probe
   - CASE
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1786
 

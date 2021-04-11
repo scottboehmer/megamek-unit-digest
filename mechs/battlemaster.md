@@ -1,6 +1,6 @@
 # BattleMaster
 ## BattleMaster BLR-1G
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2633)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -11,10 +11,11 @@
   - PPC
   - SRM 6 (ammo: 30)
   - Medium Laser × 6
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1519
 
 ## BattleMaster BLR-1G-DC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2633)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -27,10 +28,11 @@
   - Medium Laser × 4
 - **Equipment:**
   - Command Console
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1494
 
 ## BattleMaster BLR-1GHE 'HellSinger'
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -40,10 +42,11 @@
   - PPC × 2
   - Streak SRM 2 × 3 (ammo: 50)
   - Medium Laser × 4
+- **Source:** ER 2750
 - **Battle Value:** 1712
 
 ## BattleMaster BLR-1Gb
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2760)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -53,10 +56,11 @@
   - ER PPC × 2
   - Medium Laser × 4
   - Large Pulse Laser
+- **Source:** TRO 3075
 - **Battle Value:** 1825
 
 ## BattleMaster BLR-1Gd
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2760)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -67,10 +71,11 @@
   - SRM 6 (ammo: 30)
   - Medium Pulse Laser × 4
   - Medium Laser × 2
+- **Source:** ER 2750
 - **Battle Value:** 1586
 
 ## BattleMaster BLR-1Gbc
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2763)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -82,10 +87,11 @@
   - Large Pulse Laser
 - **Equipment:**
   - Command Console
+- **Source:** TRO 3075
 - **Battle Value:** 1825
 
 ## BattleMaster BLR-1Gc
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2763)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -97,10 +103,11 @@
   - Medium Laser × 6
 - **Equipment:**
   - Command Console
+- **Source:** TRO 3075
 - **Battle Value:** 1577
 
 ## BattleMaster BLR-1D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2867)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -110,10 +117,11 @@
   - Machine Gun × 2 (ammo: 200)
   - PPC
   - Medium Laser × 4
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1522
 
 ## BattleMaster BLR-2C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2925)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -127,10 +135,11 @@
   - Command Console
   - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
+- **Source:** Succession Wars
 - **Battle Value:** 1563
 
 ## BattleMaster BLR-1S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -141,10 +150,11 @@
   - SRM 2 × 2 (ammo: 50)
   - Medium Laser × 4
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1507
 
 ## BattleMaster BLR-3M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -157,10 +167,11 @@
   - Medium Laser × 6
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1679
 
 ## BattleMaster BLR-3S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -172,10 +183,11 @@
   - Medium Pulse Laser × 6
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1441
 
 ## BattleMaster BLR-3M-DC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -189,10 +201,11 @@
 - **Equipment:**
   - Command Console
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1627
 
 ## BattleMaster BLR-1G (Red Corsair)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3055)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -207,7 +220,7 @@
 - **Battle Value:** 2745
 
 ## BattleMaster BLR-3M (Rogers)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -222,7 +235,7 @@
 - **Battle Value:** 1819
 
 ## BattleMaster BLR-4S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -236,10 +249,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 2018
 
 ## BattleMaster BLR-CM
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -252,10 +266,11 @@
 - **Equipment:**
   - C3 Master × 2
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1883
 
 ## BattleMaster BLR-K3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -269,10 +284,11 @@
 - **Equipment:**
   - CASE
   - C3 Master
+- **Source:** Civil War
 - **Battle Value:** 1851
 
 ## BattleMaster BLR-5M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -282,10 +298,11 @@
   - Light Gauss Rifle (ammo: 16)
   - ER Large Laser
   - ER Medium Laser × 6
+- **Source:** Civil War
 - **Battle Value:** 1766
 
 ## BattleMaster BLR-10S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, Compact
@@ -304,7 +321,7 @@
 - **Battle Value:** 1927
 
 ## BattleMaster BLR-4S (Calvin)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -318,10 +335,11 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 2029
 
 ## BattleMaster BLR-M3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -335,10 +353,11 @@
 - **Equipment:**
   - CASE
   - C3 Master
+- **Source:** Jihad
 - **Battle Value:** 1674
 
 ## BattleMaster C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3070)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -352,10 +371,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 3025
 
 ## BattleMaster BLR-4S (Calvin II)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -369,10 +389,11 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 2274
 
 ## BattleMaster BLR-10S2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, Compact
@@ -389,10 +410,11 @@
   - CASE
   - Guardian ECM Suite
   - B-Pod × 2
+- **Source:** Jihad
 - **Battle Value:** 1927
 
 ## BattleMaster BLR-K4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, XL
@@ -404,10 +426,11 @@
   - Snub-Nose PPC
   - Gauss Rifle (ammo: 16)
   - ER Medium Laser × 2
+- **Source:** Jihad
 - **Battle Value:** 2232
 
 ## BattleMaster BLR-4L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 3, Light
@@ -420,10 +443,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1890
 
 ## BattleMaster BLR-6C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -437,10 +461,11 @@
 - **Equipment:**
   - Command Console
   - CASE II
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1557
 
 ## BattleMaster BLR-6G
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3088)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -454,10 +479,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE II
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1960
 
 ## BattleMaster C 3
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3145)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0
@@ -471,5 +497,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2532
 

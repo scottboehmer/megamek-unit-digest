@@ -10,6 +10,7 @@
   - Flamer
   - ER Large Laser × 2
   - Medium Pulse Laser × 4
+- **Source:** TRO 3075
 - **Battle Value:** 2157
 
 ## Balius A
@@ -26,6 +27,7 @@
   - HAG 20 (ammo: 18)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2201
 
 ## Balius B
@@ -40,6 +42,7 @@
   - ER Large Laser × 2
   - Heavy Small Laser × 8
   - Large Pulse Laser
+- **Source:** TRO 3075
 - **Battle Value:** 2029
 
 ## Balius C
@@ -56,6 +59,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2103
 
 ## Balius D
@@ -70,6 +74,7 @@
   - ER PPC
   - ER Medium Laser × 4
   - Medium Pulse Laser × 2
+- **Source:** TRO 3075
 - **Battle Value:** 2417
 
 ## Balius E
@@ -87,5 +92,6 @@
   - Improved Heavy Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2158
 

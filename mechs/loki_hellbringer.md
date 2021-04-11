@@ -18,6 +18,7 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - Inner Sphere A-Pod × 4
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2654
 
 ## Loki (Hellbringer) A
@@ -37,6 +38,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1948
 
 ## Loki (Hellbringer) B
@@ -53,6 +55,7 @@
   - SRM 6 w/ Artemis IV × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1592
 
 ## Loki (Hellbringer) M
@@ -69,6 +72,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 2200
 
 ## Loki (Hellbringer) C
@@ -86,6 +90,7 @@
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2076
 
 ## Loki (Hellbringer) F
@@ -101,6 +106,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1839
 
 ## Loki (Hellbringer) J
@@ -119,6 +125,7 @@
   - CASE
   - Active Probe
   - Anti-Missile System (ammo: 24)
+- **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 2415
 
 ## Loki (Hellbringer) H
@@ -138,6 +145,7 @@
   - Active Probe
   - CASE
   - A-Pod × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1952
 
 ## Loki (Hellbringer) D
@@ -153,6 +161,7 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Inner Sphere B-Pod × 4
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2140
 
 ## Loki (Hellbringer) E
@@ -168,6 +177,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2304
 
 ## Loki (Hellbringer) T
@@ -185,5 +195,6 @@
 - **Equipment:**
   - CASE II
   - Anti-Missile System (ammo: 24)
+- **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 2444
 

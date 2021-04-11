@@ -1,6 +1,6 @@
 # Colossus
 ## Colossus CL-P3
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Coolant Pod × 4
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1988
 
 ## Colossus CLS-4S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -29,10 +30,11 @@
 - **Equipment:**
   - Small Shield × 2
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2392
 
 ## Colossus CLS-5S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -45,5 +47,6 @@
 - **Equipment:**
   - Coolant Pod × 4
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2647
 

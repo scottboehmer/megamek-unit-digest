@@ -1,6 +1,6 @@
 # Blood Kite
 ## Blood Kite (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2907)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -12,10 +12,11 @@
   - SRM 4 × 3 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2776
 
 ## Blood Kite 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3066)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -27,5 +28,6 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** TRO 3067
 - **Battle Value:** 3122
 

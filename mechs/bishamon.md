@@ -1,6 +1,6 @@
 # Bishamon
 ## Bishamon BSN-3K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -10,10 +10,11 @@
   - Medium Pulse Laser × 2
   - ER Medium Laser × 2
   - MRM 20 (ammo: 12)
+- **Source:** TRO 3060
 - **Battle Value:** 1374
 
 ## Bishamon BSN-4K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -25,10 +26,11 @@
   - MRM 10 (ammo: 24)
 - **Equipment:**
   - C3 Master
+- **Source:** TRO 3060
 - **Battle Value:** 1105
 
 ## Bishamon BSN-5KC
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -41,5 +43,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** TRO 3060
 - **Battle Value:** 1443
 

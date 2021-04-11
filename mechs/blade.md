@@ -1,6 +1,6 @@
 # Blade
 ## Blade BLD-XL
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -12,10 +12,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1314
 
 ## Blade BLD-XS
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -27,10 +28,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 944
 
 ## Blade BLD-XX
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -42,10 +44,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1064
 
 ## Blade BLD-7R
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3094)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -55,10 +58,11 @@
   - RAC/5 (ammo: 60)
   - ER Medium Laser
   - ER Small Laser
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1227
 
 ## Blade BLD-XR
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -69,5 +73,6 @@
 - **Weapons:**
   - Light PPC × 2
   - Light AC/2 × 2 (ammo: 90)
+- **Source:** XTRO Republic II - Late Republic
 - **Battle Value:** 1101
 

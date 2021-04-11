@@ -1,6 +1,6 @@
 # Mangonel
 ## Mangonel MNL-3L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -9,10 +9,11 @@
 - **Weapons:**
   - ER Medium Laser × 4
   - Light Gauss Rifle × 2 (ammo: 16)
+- **Source:** Jihad
 - **Battle Value:** 1552
 
 ## Mangonel MNL-3W
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3082)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -24,10 +25,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 2657
 
 ## Mangonel MNL-4S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3088)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -37,5 +39,6 @@
   - Clan Medium Pulse Laser × 2
   - Clan ER Medium Laser × 2
   - Clan HAG 40 (ammo: 15)
+- **Source:** RS 3145  NTNU
 - **Battle Value:** 2659
 

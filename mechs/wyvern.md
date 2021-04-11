@@ -1,6 +1,6 @@
 # Wyvern
 ## Wyvern WVE-5N
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -13,10 +13,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1089
 
 ## Wyvern WVE-5Nb
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -30,10 +31,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1006
 
 ## Wyvern WVE-5Nsl
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -46,10 +48,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** ER 2750
 - **Battle Value:** 1207
 
 ## Wyvern WVE-6N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -60,10 +63,11 @@
   - Small Laser × 2
   - SRM 6 (ammo: 15)
   - LRM 10 (ammo: 12)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1005
 
 ## Wyvern WVE-9N
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -76,10 +80,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1067
 
 ## Wyvern WVE-10N
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -93,5 +98,6 @@
   - CASE
   - Guardian ECM Suite
   - C3i
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1199
 

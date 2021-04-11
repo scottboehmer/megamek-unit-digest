@@ -1,6 +1,6 @@
 # Spirit
 ## Spirit (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3063)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -15,10 +15,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 1673
 
 ## Spirit 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -30,5 +31,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1773
 

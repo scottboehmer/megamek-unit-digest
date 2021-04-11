@@ -1,6 +1,6 @@
 # Violator
 ## Violator VT-U1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -13,10 +13,11 @@
   - MRM 10 w/ Apollo FCS × 2 (ammo: 48)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Free Worlds League - Early Republic
 - **Battle Value:** unknown
 
 ## Violator VT-U3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -30,5 +31,6 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Free Worlds League - Early Republic
 - **Battle Value:** unknown
 

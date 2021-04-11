@@ -1,6 +1,6 @@
 # Vulcan
 ## Vulcan VL-2T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2777)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -11,10 +11,11 @@
   - Flamer
   - Medium Laser
   - AC/2 (ammo: 45)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 642
 
 ## Vulcan VL-5T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2778)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -24,6 +25,7 @@
   - Machine Gun (ammo: 200)
   - Flamer
   - Medium Laser × 4
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 942
 
 ## Vulcan VL-2T (Timms)
@@ -37,10 +39,11 @@
   - Flamer × 3
   - Small Laser
   - AC/2 (ammo: 45)
+- **Source:** Star League
 - **Battle Value:** 603
 
 ## Vulcan VT-5M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -51,10 +54,11 @@
   - Flamer
   - Medium Pulse Laser
   - Large Pulse Laser
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 811
 
 ## Vulcan VT-5S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -68,10 +72,11 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 883
 
 ## Vulcan VT-6M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -82,10 +87,11 @@
   - Flamer
   - ER Medium Laser
   - Light Gauss Rifle (ammo: 32)
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 959
 
 ## Vulcan VT-6C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -99,10 +105,11 @@
 - **Equipment:**
   - MG Array
   - C3i
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 940
 
 ## Vulcan VT-5Sr
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -116,6 +123,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1210
 
 ## Vulcan VT-5ML 'Aladdin'
@@ -130,5 +138,6 @@
   - Thunderbolt 5 × 2 (ammo: 24)
 - **Equipment:**
   - Angel ECM Suite
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** unknown
 

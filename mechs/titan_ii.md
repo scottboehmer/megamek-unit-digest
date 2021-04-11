@@ -1,6 +1,6 @@
 # Titan II
 ## Titan II TI-2P
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -14,10 +14,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2143
 
 ## Titan II TI-2PA
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
@@ -32,5 +33,6 @@
   - MG Array × 2
   - CASE
   - Beagle Active Probe
+- **Source:** TRO 3075
 - **Battle Value:** 2434
 

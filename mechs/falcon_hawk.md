@@ -1,6 +1,6 @@
 # Falcon Hawk
 ## Falcon Hawk FNHK-9K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -11,10 +11,11 @@
   - ER PPC
   - Medium Laser
   - Small Pulse Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1030
 
 ## Falcon Hawk FNHK-9K1A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -25,10 +26,11 @@
   - Medium Laser × 2
   - ER Large Laser
   - Small Pulse Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1040
 
 ## Falcon Hawk FNHK-9K1B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -42,5 +44,6 @@
   - TAG
   - Guardian ECM Suite
   - Beagle Active Probe
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1116
 

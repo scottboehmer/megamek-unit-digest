@@ -1,6 +1,6 @@
 # Raijin
 ## Raijin RJN101-A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -11,10 +11,11 @@
   - SRM 6 (ammo: 15)
   - ER PPC
   - Streak SRM 2 (ammo: 50)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1350
 
 ## Raijin RJN101-C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -26,5 +27,6 @@
   - Large Pulse Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1389
 

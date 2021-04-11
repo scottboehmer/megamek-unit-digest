@@ -1,6 +1,6 @@
 # Onager
 ## Onager (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3083)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 5
@@ -14,5 +14,6 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2732
 

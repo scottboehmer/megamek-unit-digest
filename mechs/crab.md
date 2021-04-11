@@ -1,6 +1,6 @@
 # Crab
 ## Crab CRB-27
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
@@ -10,10 +10,11 @@
   - Large Laser × 2
   - Medium Laser
   - Small Laser
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1198
 
 ## Crab CRB-27b
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
@@ -23,10 +24,11 @@
   - ER Large Laser × 2
   - Medium Laser
   - Small Laser
+- **Source:** TRO 3075
 - **Battle Value:** 1308
 
 ## Crab CRB-27sl
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -36,10 +38,11 @@
   - Large Pulse Laser × 2
   - Medium Pulse Laser
   - Medium Laser
+- **Source:** ER 2750
 - **Battle Value:** 1309
 
 ## Crab CRB-20
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2810)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
@@ -49,10 +52,11 @@
   - Large Laser × 2
   - Medium Laser
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1143
 
 ## Crab CRB-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
@@ -63,10 +67,11 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1135
 
 ## Crab CRB-30
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -79,10 +84,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1509
 
 ## Crab CRB-45
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -93,10 +99,11 @@
   - ER Large Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1342
 
 ## Crab CRB-54
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3144)
 - **Chassis:** 50 tons (Composite)
 - **Movement:** 7 / 11 (14) / 0, XXL

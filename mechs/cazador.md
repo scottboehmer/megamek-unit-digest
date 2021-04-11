@@ -12,5 +12,6 @@
 - **Equipment:**
   - CASE
   - Supercharger
+- **Source:** Dark Age
 - **Battle Value:** 921
 

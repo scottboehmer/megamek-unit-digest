@@ -16,6 +16,7 @@
   - C3i
   - Targeting Computer
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Archangel C-ANG-OA Dominus
@@ -33,6 +34,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 2134
 
 ## Archangel C-ANG-OB Infernus
@@ -50,6 +52,7 @@
   - Snub-Nose PPC × 2
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 2069
 
 ## Archangel C-ANG-OC Comminus
@@ -69,6 +72,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 2010
 
 ## Archangel C-ANG-OD Luminos
@@ -88,6 +92,7 @@
 - **Equipment:**
   - C3i
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 2105
 
 ## Archangel C-ANG-O (Berith)
@@ -106,6 +111,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 2060
 
 ## Archangel C-ANG-OE Eminus
@@ -125,6 +131,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 2097
 
 ## Archangel C-ANG-OS Caelestis

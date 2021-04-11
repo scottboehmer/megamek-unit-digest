@@ -1,6 +1,6 @@
 # Stalking Spider
 ## Stalking Spider (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons Quad
 - **Movement:** 5 / 8 (10) / 5
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3060
 - **Battle Value:** 2232
 
 ## Stalking Spider 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 50 tons Quad
 - **Movement:** 5 / 8 (10) / 5
@@ -30,10 +31,11 @@
   - Targeting Computer
   - Active Probe
   - MASC
+- **Source:** TRO 3060
 - **Battle Value:** 2056
 
 ## Stalking Spider 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 50 tons Quad
 - **Movement:** 5 / 8 / 8
@@ -46,5 +48,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 1643
 

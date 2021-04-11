@@ -1,6 +1,6 @@
 # Jade Hawk
 ## Jade Hawk JHK-03
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (12) / 4, XL
@@ -15,10 +15,11 @@
   - Partial Wing
   - CASE
   - Supercharger
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2160
 
 ## Jade Hawk JHK-04
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -31,10 +32,11 @@
   - Streak LRM 15 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2102
 
 ## Jade Hawk (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 6, XL
@@ -48,10 +50,11 @@
   - Partial Wing
   - Supercharger
   - Light Active Probe
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2523
 
 ## Jade Hawk 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -63,10 +66,11 @@
   - ATM 6 × 4 (ammo: 20 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2455
 
 ## Jade Hawk 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -78,5 +82,6 @@
   - ATM 6 × 4 (ammo: 20 Standard, 20 ER)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2498
 

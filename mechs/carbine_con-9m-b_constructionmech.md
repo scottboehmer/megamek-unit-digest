@@ -1,6 +1,6 @@
 # Carbine CON-9M-B ConstructionMech
 ## Carbine CON-9M-B ConstructionMech MOD
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
@@ -8,5 +8,6 @@
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
   - Light AC/5 (ammo: 40)
+- **Source:** RS IA - Jihad
 - **Battle Value:** 293
 

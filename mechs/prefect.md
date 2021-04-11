@@ -1,6 +1,6 @@
 # Prefect
 ## Prefect PRF-1R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -11,10 +11,11 @@
   - Heavy PPC
   - Snub-Nose PPC
   - ER Medium Laser × 2
+- **Source:** Dark Age
 - **Battle Value:** 1847
 
 ## Prefect PRF-1R (Veronica)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -28,10 +29,11 @@
 - **Equipment:**
   - C3 Slave
   - Guardian ECM Suite
+- **Source:** TRO 3085/Lamenkov's Liability - Jihad
 - **Battle Value:** 1835
 
 ## Prefect PRF-2R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -41,10 +43,11 @@
 - **Weapons:**
   - Snub-Nose PPC × 2
   - Light PPC × 2
+- **Source:** Dark Age
 - **Battle Value:** 1710
 
 ## Prefect PRF-3R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3110)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -58,5 +61,6 @@
   - Snub-Nose PPC × 2
 - **Equipment:**
   - Radical Heat Sink System
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2412
 

@@ -1,6 +1,6 @@
 # Sun Cobra
 ## Sun Cobra (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3074)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -11,10 +11,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 1677
 
 ## Sun Cobra 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3093)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -24,5 +25,6 @@
   - ER PPC × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2394
 

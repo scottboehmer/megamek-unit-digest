@@ -1,6 +1,6 @@
 # Koschei
 ## Koschei KSC-3I
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2504)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - AC/10 (ammo: 20)
   - Medium Laser × 2
+- **Source:** TRO 3075
 - **Battle Value:** 1255
 
 ## Koschei KSC-3L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2634)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
@@ -22,10 +23,11 @@
   - LRM 15 (ammo: 16)
   - Large Laser
   - Medium Laser
+- **Source:** TRO 3075
 - **Battle Value:** 1384
 
 ## Koschei KSC-4I
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -37,10 +39,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1516
 
 ## Koschei KSC-4L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2723)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -52,10 +55,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1503
 
 ## Koschei KSC-5MC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -69,10 +73,11 @@
   - Snub-Nose PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1764
 
 ## Koschei KSC-5I
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -85,10 +90,11 @@
   - Snub-Nose PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1961
 
 ## Koschei KSC-5X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -102,5 +108,6 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1554
 

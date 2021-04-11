@@ -15,6 +15,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1713
 
 ## Perseus P1A
@@ -32,6 +33,7 @@
   - CASE
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3067
 - **Battle Value:** 1661
 
 ## Perseus P1B
@@ -47,6 +49,7 @@
   - ER Large Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3067
 - **Battle Value:** 1776
 
 ## Perseus P1C
@@ -62,6 +65,7 @@
   - Medium Pulse Laser
   - Streak SRM 2 (ammo: 50)
   - ER Medium Laser × 3
+- **Source:** TRO 3067
 - **Battle Value:** 1644
 
 ## Perseus P1D
@@ -80,6 +84,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
+- **Source:** TRO 3067
 - **Battle Value:** 1714
 
 ## Perseus P1W
@@ -95,6 +100,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - C3i
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1864
 
 ## Perseus P1P
@@ -115,5 +121,6 @@
   - Guardian ECM Suite
   - CASE
   - TAG
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1777
 

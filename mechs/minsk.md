@@ -1,6 +1,6 @@
 # Minsk
 ## Minsk MNK-101
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan Mixed (2830)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -15,6 +15,7 @@
 - **Equipment:**
   - CASE
   - Inner Sphere Beagle Active Probe
+- **Source:** Succession Wars
 - **Battle Value:** 2024
 
 ## Minsk
@@ -34,5 +35,6 @@
   - CASE
   - Active Probe
   - Inner Sphere A-Pod × 2
+- **Source:** Succession Wars
 - **Battle Value:** 2028
 

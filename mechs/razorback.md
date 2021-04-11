@@ -1,6 +1,6 @@
 # Razorback
 ## Razorback RZK-9S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -12,10 +12,11 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 855
 
 ## Razorback RZK-9T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -24,10 +25,11 @@
 - **Weapons:**
   - ER PPC
   - ER Medium Laser × 4
+- **Source:** TRO 3067
 - **Battle Value:** 1149
 
 ## Razorback RZK-10T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -36,10 +38,11 @@
 - **Weapons:**
   - Heavy PPC
   - ER Small Laser × 4
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1172
 
 ## Razorback RZK-10S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -54,5 +57,6 @@
 - **Equipment:**
   - CASE
   - Beagle Active Probe
+- **Source:** 3067 Unabridged
 - **Battle Value:** 821
 

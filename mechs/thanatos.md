@@ -1,6 +1,6 @@
 # Thanatos
 ## Thanatos TNS-4S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** TRO 3067
 - **Battle Value:** 1844
 
 ## Thanatos TNS-4T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -30,10 +31,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1760
 
 ## Thanatos TNS-4S (Felix)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -50,7 +52,7 @@
 - **Battle Value:** 2122
 
 ## Thanatos TNS-6S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, Light
@@ -64,5 +66,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1936
 

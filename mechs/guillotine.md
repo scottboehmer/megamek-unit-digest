@@ -1,6 +1,6 @@
 # Guillotine
 ## Guillotine GLT-3N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2499)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -12,10 +12,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Age of War
 - **Battle Value:** 1418
 
 ## Guillotine GLT-4L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2825)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
@@ -25,10 +26,11 @@
   - Large Laser
   - Medium Laser × 4
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1400
 
 ## Guillotine GLT-4P
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2833)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
@@ -38,10 +40,11 @@
   - PPC
   - Medium Laser × 4
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1376
 
 ## Guillotine GLT-5M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -53,10 +56,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1472
 
 ## Guillotine GLT-8D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -69,10 +73,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1891
 
 ## Guillotine GLT-6WB
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
@@ -86,10 +91,11 @@
   - LRM 15 (ammo: 8)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1672
 
 ## Guillotine GLT-6WB2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -103,10 +109,11 @@
   - LRM 5 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1635
 
 ## Guillotine GLT-6WB3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
@@ -121,5 +128,6 @@
 - **Equipment:**
   - C3 Slave
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1741
 

@@ -1,6 +1,6 @@
 # Carbine CON-9M ConstructionMech
 ## Carbine CON-9M ConstructionMech MOD
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -11,5 +11,6 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - Lift Hoist
+- **Source:** RS IA - Jihad
 - **Battle Value:** unknown
 

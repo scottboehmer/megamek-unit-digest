@@ -13,6 +13,7 @@
   - Targeting Computer
   - ECM Suite
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 1464
 
 ## Snow Fox (Omni) A
@@ -28,6 +29,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 831
 
 ## Snow Fox (Omni) B
@@ -42,5 +44,6 @@
   - ER Large Laser
 - **Equipment:**
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 1249
 

@@ -1,6 +1,6 @@
 # Ocelot
 ## Ocelot (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3067)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -11,10 +11,11 @@
   - Heavy Large Laser
 - **Equipment:**
   - Light Active Probe
+- **Source:** TRO 3075
 - **Battle Value:** 1439
 
 ## Ocelot 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -23,10 +24,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - ER PPC
+- **Source:** TRO 3075
 - **Battle Value:** 1734
 
 ## Ocelot 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3075)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -39,10 +41,11 @@
   - ECM Suite
   - Targeting Computer
   - Light Active Probe
+- **Source:** TRO 3075
 - **Battle Value:** 1594
 
 ## Ocelot 4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3096)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -51,5 +54,6 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - Large Pulse Laser
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1468
 

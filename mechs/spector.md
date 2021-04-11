@@ -1,6 +1,6 @@
 # Spector
 ## Spector SPR-4F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2640)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 7, XL
@@ -13,10 +13,11 @@
   - Chameleon LPS
   - Null-Signature System
   - Guardian ECM Suite
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1224
 
 ## Spector SPR-5F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -28,10 +29,11 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1183
 
 ## Spector SPR-5S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -43,10 +45,11 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1155
 
 ## Spector SPR-ST
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -59,5 +62,6 @@
   - Targeting Computer
   - Guardian ECM Suite
   - MASC
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1438
 

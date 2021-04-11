@@ -1,6 +1,6 @@
 # Night Hawk
 ## Night Hawk NTK-2Q
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2656)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -10,10 +10,11 @@
   - Medium Pulse Laser
   - ER Large Laser
   - Large Laser
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 997
 
 ## Night Hawk NTK-2S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -25,5 +26,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1017
 

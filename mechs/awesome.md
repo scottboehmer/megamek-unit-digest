@@ -1,6 +1,6 @@
 # Awesome
 ## Awesome AWS-8Q
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2665)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - PPC × 3
   - Small Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1605
 
 ## Awesome AWS-8R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2683)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -22,10 +23,11 @@
   - Large Laser
   - LRM 15 × 2 (ammo: 16)
   - Small Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1470
 
 ## Awesome AWS-8T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2815)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -35,10 +37,11 @@
   - Large Laser × 2
   - LRM 15 × 2 (ammo: 16)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1593
 
 ## Awesome AWS-8V
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2980)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -49,10 +52,11 @@
   - Large Laser
   - LRM 15 (ammo: 16)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1510
 
 ## Awesome AWS-9M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -63,10 +67,11 @@
   - ER PPC × 3
   - Medium Pulse Laser
   - Small Pulse Laser
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1812
 
 ## Awesome AWS-9Q
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -77,10 +82,11 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1875
 
 ## Awesome AWS-10KM
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -92,10 +98,11 @@
   - Heavy PPC × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1961
 
 ## Awesome AWS-9Q (Klatt)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -106,10 +113,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1805
 
 ## Awesome AWS-8Q (Buck)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -118,10 +126,11 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - PPC × 3
+- **Source:** HTP Tortuga
 - **Battle Value:** 1787
 
 ## Awesome AWS-11M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3079)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -131,10 +140,11 @@
 - **Weapons:**
   - Light PPC × 4
   - Light PPC w/ PPC Capacitor × 4
+- **Source:** XTRO Marik - Jihad
 - **Battle Value:** 1801
 
 ## Awesome AWS-11R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 (6) / 0, XL
@@ -151,10 +161,11 @@
   - Coolant Pod
   - CASE II
   - Supercharger
+- **Source:** XTRO Republic II - Dark Ages  
 - **Battle Value:** 1878
 
 ## Awesome AWS-11H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3142)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0

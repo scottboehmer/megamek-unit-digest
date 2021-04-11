@@ -17,6 +17,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Malak C-MK-OA Dominus
@@ -37,6 +38,7 @@
   - C3i
   - MG Array × 2
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 789
 
 ## Malak C-MK-OB Infernus
@@ -54,6 +56,7 @@
 - **Equipment:**
   - C3i
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1047
 
 ## Malak C-MK-OC Comminus
@@ -75,6 +78,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - TAG
+- **Source:** TRO 3075
 - **Battle Value:** 944
 
 ## Malak C-MK-OD Luminos
@@ -92,6 +96,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 1055
 
 ## Malak C-MK-O (Mi)
@@ -109,6 +114,7 @@
 - **Equipment:**
   - C3i
   - Supercharger
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 758
 
 ## Malak C-MK-OE Eminus
@@ -127,6 +133,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Malak C-MK-OS Caelestis

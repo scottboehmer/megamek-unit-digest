@@ -1,6 +1,6 @@
 # Initiate
 ## Initiate INI-02
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -14,10 +14,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1036
 
 ## Initiate INI-04
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -31,5 +32,6 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 901
 

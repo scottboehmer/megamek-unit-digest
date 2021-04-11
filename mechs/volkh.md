@@ -1,6 +1,6 @@
 # Volkh
 ## Volkh VKH-1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 7 (9) / 0, XXL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - Supercharger
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1635
 
 ## Volkh VKH-7
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 7 (9) / 0, XXL
@@ -31,5 +32,6 @@
 - **Equipment:**
   - Supercharger
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1578
 

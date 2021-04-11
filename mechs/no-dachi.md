@@ -1,6 +1,6 @@
 # No-Dachi
 ## No-Dachi NDA-1K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -14,10 +14,11 @@
   - MRM 20 × 2 (ammo: 24)
   - SRM 4 (ammo: 25)
   - Medium Laser
+- **Source:** TRO 3067
 - **Battle Value:** 1708
 
 ## No-Dachi NDA-2K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -32,10 +33,11 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 1739
 
 ## No-Dachi NDA-2KO
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -50,10 +52,11 @@
   - ER Medium Laser × 2
   - Flamer
   - Small Laser
+- **Source:** TRO 3067
 - **Battle Value:** 1728
 
 ## No-Dachi NDA-2KC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -70,10 +73,11 @@
   - Flamer
 - **Equipment:**
   - C3 Slave
+- **Source:** Dark Age
 - **Battle Value:** 1705
 
 ## No-Dachi NDA-3X
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -88,10 +92,11 @@
   - Clan ER Medium Laser
 - **Equipment:**
   - Clan Supercharger
+- **Source:** XTRO Kurita - Jihad
 - **Battle Value:** 2609
 
 ## No-Dachi NDA-3S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0, XL

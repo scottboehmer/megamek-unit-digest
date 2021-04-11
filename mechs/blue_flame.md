@@ -1,6 +1,6 @@
 # Blue Flame
 ## Blue Flame BLF-21
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -11,10 +11,11 @@
   - Streak SRM 2 × 3 (ammo: 50)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3067
 - **Battle Value:** 1256
 
 ## Blue Flame BLF-40
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 45 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light

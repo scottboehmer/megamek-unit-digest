@@ -17,6 +17,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OA Dominus
@@ -38,6 +39,7 @@
   - C3i
   - TAG
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OB Infernus
@@ -58,6 +60,7 @@
   - Targeting Computer
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2181
 
 ## Seraph C-SRP-OC Comminus
@@ -79,6 +82,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 2136
 
 ## Seraph C-SRP-OD Luminos
@@ -98,6 +102,7 @@
   - Flamer
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 2291
 
 ## Seraph C-SRP-O (Havalah)
@@ -118,6 +123,7 @@
   - Targeting Computer
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 1927
 
 ## Seraph C-SRP-OE Eminus
@@ -135,10 +141,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OR (Ravana)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light

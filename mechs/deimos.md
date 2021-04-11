@@ -1,6 +1,6 @@
 # Deimos
 ## Deimos 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
@@ -14,6 +14,7 @@
   - CASE
   - MASC
   - Laser Anti-Missile System
+- **Source:** Dark Age
 - **Battle Value:** 2394
 
 ## Deimos Prime
@@ -31,6 +32,7 @@
   - MASC
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** Civil War
 - **Battle Value:** 2188
 
 ## Deimos A
@@ -50,6 +52,7 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - ECM Suite
+- **Source:** Civil War
 - **Battle Value:** 2785
 
 ## Deimos B
@@ -69,6 +72,7 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - ECM Suite
+- **Source:** Civil War
 - **Battle Value:** 2965
 
 ## Deimos H
@@ -87,6 +91,7 @@
   - MASC
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** Jihad
 - **Battle Value:** 3344
 
 ## Deimos C
@@ -106,6 +111,7 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - ECM Suite
+- **Source:** Civil War
 - **Battle Value:** 2737
 
 ## Deimos S
@@ -125,6 +131,7 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - Liquid Cargo
+- **Source:** Civil War
 - **Battle Value:** unknown
 
 ## Deimos D
@@ -142,6 +149,7 @@
   - MASC
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2682
 
 ## Deimos E
@@ -164,5 +172,6 @@
   - Targeting Computer
   - Inner Sphere Radical Heat Sink System
   - Supercharger
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 3606
 

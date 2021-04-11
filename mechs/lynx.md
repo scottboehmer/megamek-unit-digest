@@ -1,6 +1,6 @@
 # Lynx
 ## Lynx LNX-9Q
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2761)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -10,10 +10,11 @@
   - Medium Laser × 4
   - ER PPC
   - Large Laser
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1725
 
 ## Lynx C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2848)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -25,10 +26,11 @@
   - ER PPC
   - ER Large Laser
   - ER Small Laser
+- **Source:** Succesion Wars
 - **Battle Value:** 2712
 
 ## Lynx LNX-8Q
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2853)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
@@ -37,10 +39,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - Large Laser × 2
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1292
 
 ## Lynx LNX-9R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -50,10 +53,11 @@
   - ER Large Laser
   - Medium Laser × 4
   - ER PPC
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1755
 
 ## Lynx LNX-9C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -63,5 +67,6 @@
   - Medium Laser × 4
   - ER PPC
   - Streak SRM 2 × 2 (ammo: 100)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1630
 

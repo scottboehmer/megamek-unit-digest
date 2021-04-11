@@ -11,6 +11,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1642
 
 ## Naga A
@@ -26,6 +27,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1791
 
 ## Naga B
@@ -41,6 +43,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1824
 
 ## Naga C
@@ -56,6 +59,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1608
 
 ## Naga D
@@ -72,5 +76,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1662
 

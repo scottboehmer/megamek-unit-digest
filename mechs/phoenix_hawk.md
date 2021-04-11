@@ -1,6 +1,6 @@
 # Phoenix Hawk
 ## Phoenix Hawk PXH-1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2568)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 / 6
@@ -10,10 +10,11 @@
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
   - Large Laser
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1041
 
 ## Phoenix Hawk PXH-1D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2586)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 / 6
@@ -22,10 +23,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - Large Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1083
 
 ## Phoenix Hawk PXH-2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2599)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 / 6
@@ -36,10 +38,11 @@
   - Large Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Star League
 - **Battle Value:** 1145
 
 ## Phoenix Hawk PXH-1K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2603)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 / 0
@@ -49,10 +52,11 @@
   - Medium Laser × 2
   - Large Laser
   - Small Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1073
 
 ## Phoenix Hawk PXH-1Kk
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2725)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 / 0
@@ -62,10 +66,11 @@
   - Medium Pulse Laser × 2
   - ER Large Laser
   - Small Laser
+- **Source:** ER 2750
 - **Battle Value:** 1139
 
 ## Phoenix Hawk PXH-1b (Special)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2760)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -79,10 +84,11 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1512
 
 ## Phoenix Hawk PXH-1c (Special)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -96,10 +102,11 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1443
 
 ## Phoenix Hawk C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2831)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -111,10 +118,11 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 11 - Succession Wars
 - **Battle Value:** 1396
 
 ## Phoenix Hawk PXH-3S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3042)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -128,10 +136,11 @@
   - Anti-Missile System (ammo: 24)
   - CASE
   - MASC
+- **Source:** ilClan Vol 11 - Succession Wars
 - **Battle Value:** 1237
 
 ## Phoenix Hawk PXH-3M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3045)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -144,10 +153,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** ilClan Vol 11 - Succession Wars
 - **Battle Value:** 1307
 
 ## Phoenix Hawk PXH-3D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -158,10 +168,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
+- **Source:** ilClan Vol 11 - Succession Wars
 - **Battle Value:** 1315
 
 ## Phoenix Hawk PXH-2K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 / 0
@@ -171,10 +182,11 @@
   - Medium Laser × 4
   - ER Large Laser
   - Small Laser
+- **Source:** ilClan Vol 11 - Clan Invasion
 - **Battle Value:** 1271
 
 ## Phoenix Hawk PXH-3K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -183,10 +195,11 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Medium Pulse Laser × 2
+- **Source:** ilClan Vol 11 - Clan Invasion
 - **Battle Value:** 1359
 
 ## Phoenix Hawk PXH-3M (Masters)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -200,10 +213,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1154
 
 ## Phoenix Hawk PXH-1bC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -217,6 +231,7 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** Clan Invasion
 - **Battle Value:** 1174
 
 ## Phoenix Hawk PXH-3D (Jiemin)
@@ -229,10 +244,11 @@
 - **Weapons:**
   - Medium X-Pulse Laser
   - Large X-Pulse Laser
+- **Source:** Fronc Reaches
 - **Battle Value:** 1322
 
 ## Phoenix Hawk PXH-4L
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -244,10 +260,11 @@
   - ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 1282
 
 ## Phoenix Hawk PXH-3PL
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -259,10 +276,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 1244
 
 ## Phoenix Hawk PXH-6D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -273,10 +291,11 @@
   - ER PPC
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 1665
 
 ## Phoenix Hawk PXH-7CS
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -288,10 +307,11 @@
   - iNarc (ammo: 12)
 - **Equipment:**
   - C3i
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 1281
 
 ## Phoenix Hawk PXH-7S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, Light
@@ -303,10 +323,11 @@
   - Small Laser
 - **Equipment:**
   - MASC
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 1496
 
 ## Phoenix Hawk PXH-4L (Sante)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3068)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -319,10 +340,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
 - **Battle Value:** 1442
 
 ## Phoenix Hawk PXH-5L
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5
@@ -333,10 +355,11 @@
   - Plasma Rifle (ammo: 20)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1530
 
 ## Phoenix Hawk PXH-7K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 9, Light
@@ -347,10 +370,11 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1241
 
 ## Phoenix Hawk PXH-4W
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, Light
@@ -362,10 +386,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1395
 
 ## Phoenix Hawk PXH-8CS
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XXL
@@ -377,10 +402,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1442
 
 ## Phoenix Hawk PXH-4M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -390,10 +416,11 @@
   - Light PPC × 2
   - Medium X-Pulse Laser × 2
   - Small X-Pulse Laser × 2
+- **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 1327
 
 ## Phoenix Hawk C 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3140)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -406,10 +433,11 @@
 - **Equipment:**
   - Clan Targeting Computer
   - Supercharger
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2187
 
 ## Phoenix Hawk PXH-9
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3140)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -421,5 +449,6 @@
   - Large X-Pulse Laser
 - **Equipment:**
   - CASE II
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 1244
 

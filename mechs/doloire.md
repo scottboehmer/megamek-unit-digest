@@ -13,6 +13,7 @@
 - **Equipment:**
   - AES × 2
   - Angel ECM Suite
+- **Source:** TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 2561
 
 ## Doloire DLR-OA
@@ -30,6 +31,7 @@
   - AES × 2
   - Radical Heat Sink System
   - CASE II
+- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 2218
 
 ## Doloire DLR-OB
@@ -46,6 +48,7 @@
 - **Equipment:**
   - AES × 2
   - CASE II
+- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 2836
 
 ## Doloire DLR-OC
@@ -65,6 +68,7 @@
   - AES × 2
   - C3 Master
   - CASE II
+- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 2242
 
 ## Doloire DLR-OD
@@ -84,6 +88,7 @@
   - AES × 2
   - Supercharger
   - CASE II
+- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 3071
 
 ## Doloire DLR-OBLO
@@ -101,5 +106,6 @@
   - AES × 2
   - C3i
   - Clan Light TAG
+- **Source:** SO: Unending Faith - Late Republic
 - **Battle Value:** 2441
 

@@ -1,6 +1,6 @@
 # Vanquisher
 ## Vanquisher VQR-2A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3067
 - **Battle Value:** 2234
 
 ## Vanquisher VQR-2B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -28,10 +29,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3067
 - **Battle Value:** 2073
 
 ## Vanquisher VQR-5V
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -45,10 +47,11 @@
 - **Equipment:**
   - C3i
   - B-Pod × 2
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2332
 
 ## Vanquisher VQR-7V
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -66,7 +69,7 @@
 - **Battle Value:** 2420
 
 ## Vanquisher VQR-2A (Pravuil)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -82,5 +85,6 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TP:Arcturus - Jihad
 - **Battle Value:** 2073
 

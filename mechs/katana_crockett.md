@@ -1,6 +1,6 @@
 # Katana (Crockett)
 ## Katana (Crockett) CRK-5003-2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -11,10 +11,11 @@
   - Small Laser × 2
   - SRM 6 × 2 (ammo: 30)
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1629
 
 ## Katana (Crockett) CRK-5003-C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -26,10 +27,11 @@
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1618
 
 ## Katana (Crockett) CRK-5003-CM
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -41,10 +43,11 @@
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - C3 Master
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1554
 
 ## Katana (Crockett) CRK-5003-CJ
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5
@@ -57,5 +60,6 @@
   - LB 10-X AC (ammo: 20)
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1844
 

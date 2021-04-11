@@ -1,6 +1,6 @@
 # Cadaver
 ## Cadaver CVR-A1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3094)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE II
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 962
 
 ## Cadaver CVR-T1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -30,5 +31,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - MASC
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 1288
 

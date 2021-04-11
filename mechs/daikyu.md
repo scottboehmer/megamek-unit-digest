@@ -1,6 +1,6 @@
 # Daikyu
 ## Daikyu DAI-01
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -13,10 +13,11 @@
   - Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1603
 
 ## Daikyu DAI-02
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -29,10 +30,11 @@
 - **Equipment:**
   - C3 Slave
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1831
 
 ## Daikyu DAI-01 (Tabitha)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -46,7 +48,7 @@
 - **Battle Value:** 1804
 
 ## Daikyu DAI-03
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light
@@ -60,10 +62,11 @@
   - C3 Slave
   - MASC
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1692
 
 ## Daikyu DAI-01r
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -77,5 +80,6 @@
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
+- **Source:** Jihad
 - **Battle Value:** 1513
 

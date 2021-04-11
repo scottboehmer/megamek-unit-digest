@@ -1,6 +1,6 @@
 # Anzu
 ## Anzu ZU-G60
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - CASE II
   - TAG
+- **Source:** TRO 3145 Free Worlds League - Early Republic
 - **Battle Value:** 1503
 
 ## Anzu ZU-J70
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3106)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -31,5 +32,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 1680
 

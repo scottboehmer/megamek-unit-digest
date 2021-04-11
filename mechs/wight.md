@@ -1,6 +1,6 @@
 # Wight
 ## Wight WGT-1LAW/SC
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Compact
@@ -9,10 +9,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Heavy PPC
+- **Source:** TRO 3075
 - **Battle Value:** 1142
 
 ## Wight WGT-2SC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Compact
@@ -21,10 +22,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Snub-Nose PPC
+- **Source:** TRO 3075
 - **Battle Value:** 1093
 
 ## Wight WGT-1LAW/SC3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Compact
@@ -35,10 +37,11 @@
   - Heavy PPC
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3075
 - **Battle Value:** 1057
 
 ## Wight WGT-4NC 'Dezgra'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3074)
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 8 / 12 / 7, XL
@@ -51,10 +54,11 @@
   - Null-Signature System
   - Chameleon LPS
   - Clan Watchdog CEWS
+- **Source:** XTRO Phantoms - Jihad
 - **Battle Value:** 1578
 
 ## Wight WGT-2LAW
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, Compact
@@ -63,10 +67,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Light PPC
+- **Source:** TRO 3075
 - **Battle Value:** 939
 
 ## Wight WGT-2LAWC3
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, Compact
@@ -77,10 +82,11 @@
   - Light PPC
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3075
 - **Battle Value:** 821
 
 ## Wight WGT-3SC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Compact
@@ -89,5 +95,6 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Plasma Rifle (ammo: 30)
+- **Source:** TRO 3075
 - **Battle Value:** 1125
 

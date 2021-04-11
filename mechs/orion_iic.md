@@ -1,6 +1,6 @@
 # Orion IIC
 ## Orion IIC (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2841)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -13,10 +13,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2392
 
 ## Orion IIC 'Burton'
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3105)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -31,5 +32,6 @@
   - Light Active Probe
   - CASE
   - Laser Anti-Missile System
+- **Source:** OTP Capellan - Dark Age
 - **Battle Value:** 2746
 

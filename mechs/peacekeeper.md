@@ -1,6 +1,6 @@
 # Peacekeeper
 ## Peacekeeper PK-6 SecurityMech
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2522)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Enviro-Sealing
   - Searchlight
+- **Source:** RS VA - Jihad
 - **Battle Value:** unknown
 
 ## Peacekeeper PKP-1A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 3, XL
@@ -32,10 +33,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** Dark Age
 - **Battle Value:** 2824
 
 ## Peacekeeper PKP-1B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 3, XL
@@ -48,5 +50,6 @@
   - Plasma Rifle (ammo: 20)
 - **Equipment:**
   - C3 Slave
+- **Source:** Dark Age
 - **Battle Value:** 2981
 

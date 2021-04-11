@@ -1,6 +1,6 @@
 # Wildfire
 ## Wildfire P1-WF
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -15,5 +15,6 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Unbound - Clan Invasion
 - **Battle Value:** 1292
 

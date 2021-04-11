@@ -13,6 +13,7 @@
   - MASC
   - CASE
   - Supercharger
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** unknown
 
 ## Gauntlet GTL-1OA
@@ -28,6 +29,7 @@
 - **Equipment:**
   - MASC
   - CASE II
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 1420
 
 ## Gauntlet GTL-1OB
@@ -45,6 +47,7 @@
   - Targeting Computer
   - Coolant Pod × 2
   - Guardian ECM Suite
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 2076
 
 ## Gauntlet GTL-1OC
@@ -61,5 +64,6 @@
 - **Equipment:**
   - MASC
   - CASE II
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 2048
 

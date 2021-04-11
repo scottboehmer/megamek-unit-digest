@@ -1,6 +1,6 @@
 # Buster BC XV HaulerMech
 ## Buster BC XV HaulerMech (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2615)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC

@@ -43,6 +43,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1447
 
 ## Coyotl C
@@ -59,6 +60,7 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1851
 
 ## Coyotl D
@@ -77,5 +79,6 @@
   - Targeting Computer
   - Supercharger
   - TAG
+- **Source:** Dark Age
 - **Battle Value:** 1980
 

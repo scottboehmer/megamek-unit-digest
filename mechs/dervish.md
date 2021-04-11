@@ -1,6 +1,6 @@
 # Dervish
 ## Dervish DV-1S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2520)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 3
@@ -10,10 +10,11 @@
 - **Weapons:**
   - SRM 2 × 2 (ammo: 100)
   - LRM 10 × 2 (ammo: 24)
+- **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 864
 
 ## Dervish DV-6M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2610)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -23,10 +24,11 @@
   - Medium Laser × 2
   - SRM 2 × 2 (ammo: 100)
   - LRM 10 × 2 (ammo: 24)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1146
 
 ## Dervish DV-6Md
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -38,10 +40,11 @@
   - LRM 15 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** ER 2750
 - **Battle Value:** 1251
 
 ## Dervish DV-7D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -53,10 +56,11 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1412
 
 ## Dervish DV-8D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -67,10 +71,11 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1765
 
 ## Dervish DV-9D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -82,10 +87,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1518
 
 ## Dervish DV-8D2 'Lightbringer'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 8, XL
@@ -100,7 +106,7 @@
 - **Battle Value:** 1717
 
 ## Dervish DV-6Mr
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -110,5 +116,6 @@
   - Medium Pulse Laser × 2
   - Medium Laser × 2
   - LRM 10 × 2 (ammo: 24)
+- **Source:** Jihad
 - **Battle Value:** 1347
 

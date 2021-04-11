@@ -1,6 +1,6 @@
 # Raptor II
 ## Raptor II RPT-2X
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -15,10 +15,11 @@
   - MASC
   - CASE
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 896
 
 ## Raptor II RPT-2X1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -36,10 +37,11 @@
   - MASC
   - CASE
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1274
 
 ## Raptor II RPT-3X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -53,10 +55,11 @@
   - Void-Signature System
   - MASC
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1304
 
 ## Raptor II RPT-5X
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 5, XL
@@ -70,10 +73,11 @@
 - **Equipment:**
   - Void-Signature System
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1124
 
 ## Raptor II RPT-2X2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -87,5 +91,6 @@
   - Void-Signature System
   - MASC
   - Angel ECM Suite
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1868
 

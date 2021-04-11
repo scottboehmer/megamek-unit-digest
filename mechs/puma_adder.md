@@ -11,6 +11,7 @@
   - ER PPC × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2083
 
 ## Puma (Adder) B
@@ -27,6 +28,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1422
 
 ## Puma (Adder) D
@@ -43,6 +45,7 @@
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1255
 
 ## Puma (Adder) A
@@ -58,6 +61,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1437
 
 ## Puma (Adder) C
@@ -74,6 +78,7 @@
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1372
 
 ## Puma (Adder) TC
@@ -93,6 +98,7 @@
   - Anti-Missile System (ammo: 24)
   - Active Probe
   - Targeting Computer
+- **Source:** Clan Invasion
 - **Battle Value:** 1247
 
 ## Puma (Adder) H
@@ -107,6 +113,7 @@
   - Heavy Large Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1453
 
 ## Puma (Adder) E
@@ -122,6 +129,7 @@
   - Micro Pulse Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1272
 
 ## Puma (Adder) J
@@ -137,6 +145,7 @@
   - HAG 20 (ammo: 18)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1222
 
 ## Puma (Adder) I
@@ -153,6 +162,7 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1575
 
 ## Puma (Adder) K
@@ -169,6 +179,7 @@
 - **Equipment:**
   - CASE
   - Laser Anti-Missile System
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1281
 
 ## Puma (Adder) T
@@ -183,6 +194,7 @@
   - Flamer
 - **Equipment:**
   - Inner Sphere Coolant Pod
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1765
 
 ## Puma (Adder) L
@@ -199,5 +211,6 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1738
 

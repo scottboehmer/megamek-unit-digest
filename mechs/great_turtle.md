@@ -1,6 +1,6 @@
 # Great Turtle
 ## Great Turtle GTR-1
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 100 tons Quad (Endo Steel)
 - **Movement:** 3 / 4 / 3
@@ -13,5 +13,6 @@
   - Large X-Pulse Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 3152
 

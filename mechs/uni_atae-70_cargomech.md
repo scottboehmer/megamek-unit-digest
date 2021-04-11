@@ -11,5 +11,6 @@
   - Enviro-Sealing
   - Lift Hoist × 2
   - Cargo
+- **Source:** RS VA
 - **Battle Value:** unknown
 

@@ -15,6 +15,7 @@
   - MASC
   - CASE
   - ECM Suite
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2268
 
 ## Black Lanner A
@@ -32,6 +33,7 @@
   - TAG
   - Active Probe
   - ECM Suite
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2308
 
 ## Black Lanner B
@@ -46,6 +48,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1961
 
 ## Black Lanner C
@@ -61,6 +64,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2523
 
 ## Black Lanner D
@@ -80,6 +84,7 @@
   - MASC
   - CASE
   - Active Probe
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1809
 
 ## Black Lanner H
@@ -95,6 +100,7 @@
 - **Equipment:**
   - MASC
   - ECM Suite
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1928
 
 ## Black Lanner E
@@ -110,6 +116,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2331
 
 ## Black Lanner X
@@ -125,5 +132,6 @@
 - **Equipment:**
   - MASC
   - CASE II
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1672
 

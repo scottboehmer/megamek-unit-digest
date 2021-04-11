@@ -1,6 +1,6 @@
 # Bellerophon
 ## Bellerophon BEL-1X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2442)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0
@@ -10,5 +10,6 @@
 - **Weapons:**
   - SRM 4 (ammo: 25)
   - Large Laser × 2
+- **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 957
 

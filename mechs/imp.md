@@ -1,6 +1,6 @@
 # Imp
 ## Imp IMP-1A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2793)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -16,7 +16,7 @@
 - **Battle Value:** 2215
 
 ## Imp IMP-1B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -33,7 +33,7 @@
 - **Battle Value:** 2349
 
 ## Imp IMP-1C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2825)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -49,7 +49,7 @@
 - **Battle Value:** 2480
 
 ## Imp C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (2863)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -61,10 +61,11 @@
   - ER PPC × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 3070
 
 ## Imp IMP-2E
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3005)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -74,10 +75,11 @@
   - Medium Laser × 5
   - LRM 15 (ammo: 8)
   - PPC × 2
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1969
 
 ## Imp IMP-3E
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -91,10 +93,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1906
 
 ## Imp IMP-4E
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -108,5 +111,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2263
 

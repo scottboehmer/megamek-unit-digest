@@ -1,6 +1,6 @@
 # Rifleman II
 ## Rifleman II RFL-3N-2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2720)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3075
 - **Battle Value:** 1543
 
 ## Rifleman II RFL-3N-2 (Kataga)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -27,5 +28,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** HTP New Dallas
 - **Battle Value:** 1991
 

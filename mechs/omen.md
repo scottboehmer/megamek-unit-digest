@@ -1,6 +1,6 @@
 # Omen
 ## Omen (Standard)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3087)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -15,5 +15,6 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** Dark Age
 - **Battle Value:** 2750
 

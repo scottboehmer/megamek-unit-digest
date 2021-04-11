@@ -1,6 +1,6 @@
 # Nightstar
 ## Nightstar NSR-9J
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2767)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -11,10 +11,11 @@
   - Medium Pulse Laser × 2
   - ER PPC
   - Small Laser
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 2399
 
 ## Nightstar NSR-9FC
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -26,10 +27,11 @@
   - ER PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1929
 
 ## Nightstar NSR-9J (Brubaker)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3057)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -56,10 +58,11 @@
   - Clan ER Small Laser
 - **Equipment:**
   - Angel ECM Suite
+- **Source:** SO:Holt's Hilltoppers
 - **Battle Value:** 3433
 
 ## Nightstar NSR-9SS
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -72,10 +75,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2145
 
 ## Nightstar NSR-10D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3144)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, XL

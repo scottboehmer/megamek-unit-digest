@@ -13,10 +13,11 @@
 - **Equipment:**
   - TAG
   - CASE
+- **Source:** Op. Klondyke
 - **Battle Value:** 797
 
 ## Firefly FFL-3SLE
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2790)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 4, XL
@@ -32,7 +33,7 @@
 - **Battle Value:** 876
 
 ## Firefly FFL-3PP
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 4, XL
@@ -45,7 +46,7 @@
 - **Battle Value:** 888
 
 ## Firefly FFL-3PP2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 4, XL
@@ -60,7 +61,7 @@
 - **Battle Value:** 873
 
 ## Firefly FFL-3PP3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 4, XL
@@ -73,7 +74,7 @@
 - **Battle Value:** 808
 
 ## Firefly FFL-4A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 4
@@ -83,10 +84,11 @@
   - Small Laser × 4
   - Medium Laser × 3
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 831
 
 ## Firefly C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2839)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4
@@ -98,10 +100,11 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1290
 
 ## Firefly FFL-4B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 4
@@ -113,10 +116,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 870
 
 ## Firefly FFL-4C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
@@ -128,10 +132,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 806
 
 ## Firefly FFL-4D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, Light
@@ -143,10 +148,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 897
 
 ## Firefly FFL-4DA
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, Light
@@ -158,5 +164,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** Starterbook: Wolf & Blake - Civil War
 - **Battle Value:** 921
 

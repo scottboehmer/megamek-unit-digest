@@ -1,6 +1,6 @@
 # Kheper
 ## Kheper KPH-7R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -15,5 +15,6 @@
   - Medium X-Pulse Laser
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1568
 

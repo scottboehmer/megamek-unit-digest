@@ -1,6 +1,6 @@
 # Corvis
 ## Corvis (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2845)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -11,10 +11,11 @@
   - Ultra AC/10 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1336
 
 ## Corvis 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3075)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -26,5 +27,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 1455
 

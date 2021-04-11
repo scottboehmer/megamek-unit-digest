@@ -1,6 +1,6 @@
 # Ostsol
 ## Ostsol OTL-4D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2694)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Large Laser × 2
   - Medium Laser × 4
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1277
 
 ## Ostsol OTL-4F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2871)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -20,10 +21,11 @@
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
   - PPC × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1264
 
 ## Ostsol OTL-5M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -34,10 +36,11 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** Clan Invasion
 - **Battle Value:** 1245
 
 ## Ostsol OTL-6D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 60 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -51,10 +54,11 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** Civil War
 - **Battle Value:** 1880
 
 ## Ostsol OTL-5D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -64,10 +68,11 @@
   - Large Laser × 2
   - Medium Laser × 2
   - Rocket 10 × 5
+- **Source:** Civil War
 - **Battle Value:** 1333
 
 ## Ostsol OTL-7M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -78,10 +83,11 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1581
 
 ## Ostsol OTL-8M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL
@@ -94,10 +100,11 @@
   - PPC
   - ER Medium Laser
   - ER Small Laser
+- **Source:** Civil War
 - **Battle Value:** 1733
 
 ## Ostsol OTL-8D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, Light
@@ -111,10 +118,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 1462
 
 ## Ostsol OTL-9R
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 60 tons
 - **Movement:** 3 (4) / 5 (6) / 0
@@ -131,10 +139,11 @@
   - Large Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1654
 
 ## Ostsol OTL-9M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -148,5 +157,6 @@
 - **Equipment:**
   - MASC
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1871
 

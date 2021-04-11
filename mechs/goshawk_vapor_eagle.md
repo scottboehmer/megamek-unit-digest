@@ -1,6 +1,6 @@
 # Goshawk (Vapor Eagle)
 ## Goshawk (Vapor Eagle) 6
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2840)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -12,10 +12,11 @@
   - Ultra AC/2 × 2 (ammo: 90)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1747
 
 ## Goshawk (Vapor Eagle) (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2863)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -29,10 +30,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2368
 
 ## Goshawk (Vapor Eagle) 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2912)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -45,10 +47,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1989
 
 ## Goshawk (Vapor Eagle) 5
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2922)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -61,10 +64,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Succession Wars
 - **Battle Value:** 2572
 
 ## Goshawk (Vapor Eagle) 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -78,10 +82,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2466
 
 ## Goshawk (Vapor Eagle) 4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -93,10 +98,11 @@
   - ATM 6 × 2 (ammo: 20 Standard, 10 HE, 10 ER)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2069
 
 ## Goshawk (Vapor Eagle) 7
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3136)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (15) / 0, XL
@@ -111,5 +117,6 @@
   - Targeting Computer
   - Supercharger
   - Inner Sphere A-Pod × 2
+- **Source:** Dark Age
 - **Battle Value:** 2876
 

@@ -1,6 +1,6 @@
 # Catapult II
 ## Catapult II CPLT-L7
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -10,5 +10,6 @@
   - LRM 20 × 2 (ammo: 24)
   - TSEMP × 2
   - ER Medium Laser × 2
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 2574
 

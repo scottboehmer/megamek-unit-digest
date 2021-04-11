@@ -1,6 +1,6 @@
 # Buster BC XXI HaulerMech
 ## Buster BC XXI HaulerMech (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -12,5 +12,6 @@
   - Lift Hoist × 2
   - Cargo × 3
   - Tracks
+- **Source:** TRO VA
 - **Battle Value:** unknown
 

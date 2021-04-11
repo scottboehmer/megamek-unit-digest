@@ -1,6 +1,6 @@
 # Shadow Hawk IIC
 ## Shadow Hawk IIC (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2831)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -13,10 +13,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1732
 
 ## Shadow Hawk IIC 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2835)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -26,10 +27,11 @@
   - Small Pulse Laser × 3
   - ER Large Laser × 2
   - ER Small Laser
+- **Source:** Succession Wars
 - **Battle Value:** 1763
 
 ## Shadow Hawk IIC 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -40,10 +42,11 @@
   - ER Micro Laser × 2
   - Heavy Large Laser
   - Medium Pulse Laser
+- **Source:** Clan Invasion
 - **Battle Value:** 1471
 
 ## Shadow Hawk IIC 4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -55,10 +58,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1698
 
 ## Shadow Hawk IIC 5
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -69,10 +73,11 @@
   - Plasma Cannon × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1614
 
 ## Shadow Hawk IIC 6
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -85,10 +90,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1907
 
 ## Shadow Hawk IIC 7
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3080)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, XL
@@ -102,10 +108,11 @@
 - **Equipment:**
   - Liquid Cargo × 2
   - CASE
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Shadow Hawk IIC 8
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3081)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 9, XL
@@ -119,10 +126,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1940
 
 ## Shadow Hawk IIC 9
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3134)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -134,5 +142,6 @@
   - ATM 6 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 1803
 

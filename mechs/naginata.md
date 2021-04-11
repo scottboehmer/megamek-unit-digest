@@ -1,6 +1,6 @@
 # Naginata
 ## Naginata NG-C3A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -12,10 +12,11 @@
 - **Equipment:**
   - C3 Master
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1954
 
 ## Naginata NG-C3B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -30,10 +31,11 @@
   - C3 Master × 2
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1943
 
 ## Naginata NG-C3C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3
@@ -45,10 +47,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2131
 
 ## Naginata NG-C3Ar
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -61,5 +64,6 @@
 - **Equipment:**
   - C3 BoostedMaster
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1879
 

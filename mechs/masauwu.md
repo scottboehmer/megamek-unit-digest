@@ -15,5 +15,6 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - ECM Suite
+- **Source:** Succession Wars
 - **Battle Value:** 2299
 

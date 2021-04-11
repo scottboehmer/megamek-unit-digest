@@ -1,6 +1,6 @@
 # Watchman
 ## Watchman WTC-4M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 5
@@ -12,10 +12,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1067
 
 ## Watchman WTC-4DM
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 / 5
@@ -24,5 +25,6 @@
 - **Weapons:**
   - PPC
   - Medium Laser × 3
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1225
 

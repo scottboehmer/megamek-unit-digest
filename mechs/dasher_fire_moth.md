@@ -13,6 +13,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1251
 
 ## Dasher (Fire Moth) A
@@ -30,6 +31,7 @@
   - CASE
   - TAG
   - Active Probe
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 639
 
 ## Dasher (Fire Moth) B
@@ -47,6 +49,7 @@
   - ECM Suite
   - CASE
   - A-Pod
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1064
 
 ## Dasher (Fire Moth) C
@@ -62,6 +65,7 @@
   - MASC
   - CASE
   - Anti-Missile System (ammo: 48)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 741
 
 ## Dasher (Fire Moth) D
@@ -77,6 +81,7 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2307
 
 ## Dasher (Fire Moth) E
@@ -91,6 +96,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 822
 
 ## Dasher (Fire Moth) H
@@ -105,6 +111,7 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 779
 
 ## Dasher (Fire Moth) (Aletha)
@@ -136,6 +143,7 @@
   - MASC
   - CASE
   - Active Probe
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1461
 
 ## Dasher (Fire Moth) K
@@ -153,6 +161,7 @@
   - MG Array × 2
   - CASE
   - B-Pod × 2
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 824
 
 ## Dasher (Fire Moth) G
@@ -169,6 +178,7 @@
   - Supercharger
   - Targeting Computer
   - Coolant Pod
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2040
 
 ## Dasher (Fire Moth) M
@@ -184,6 +194,7 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 1200
 
 ## Dasher (Fire Moth) R
@@ -202,6 +213,7 @@
   - ECM Suite
   - MASC
   - Inner Sphere M-Pod
+- **Source:** Dark Age
 - **Battle Value:** 1160
 
 ## Dasher (Fire Moth) P
@@ -216,6 +228,7 @@
 - **Equipment:**
   - Supercharger
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 841
 
 ## Dasher (Fire Moth) I
@@ -232,6 +245,7 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 1260
 
 ## Dasher (Fire Moth) J
@@ -247,5 +261,6 @@
   - Plasma Cannon (ammo: 10)
 - **Equipment:**
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 1140
 

@@ -10,10 +10,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - LRM 20 × 2 (ammo: 24)
+- **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** 1269
 
 ## Archer ARC-2R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2474)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -22,10 +23,11 @@
 - **Weapons:**
   - Medium Laser × 4
   - LRM 20 × 2 (ammo: 24)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1477
 
 ## Archer ARC-2Rb
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -39,7 +41,7 @@
 - **Battle Value:** 1705
 
 ## Archer ARC-2K
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2856)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -48,10 +50,11 @@
 - **Weapons:**
   - Large Laser × 2
   - LRM 15 × 2 (ammo: 32)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1356
 
 ## Archer ARC-2S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2915)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -61,10 +64,11 @@
   - Medium Laser × 4
   - LRM 15 × 2 (ammo: 32)
   - SRM 4 × 2 (ammo: 50)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1393
 
 ## Archer ARC-2W
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3010)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -74,10 +78,11 @@
   - Medium Laser × 2
   - LRM 20 × 2 (ammo: 24)
   - SRM 4 × 2 (ammo: 25)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1338
 
 ## Archer ARC-4M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -88,10 +93,11 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1705
 
 ## Archer ARC-5R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -105,7 +111,7 @@
 - **Battle Value:** 1672
 
 ## Archer ARC-5S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -121,7 +127,7 @@
 - **Battle Value:** 1353
 
 ## Archer ARC-5W
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -133,10 +139,11 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1337
 
 ## Archer C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3050)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -145,6 +152,7 @@
 - **Weapons:**
   - Clan ER Medium Laser × 4
   - Clan LRM 20 × 2 (ammo: 24)
+- **Source:** Clan Invasion
 - **Battle Value:** 1811
 
 ## Archer ARC-5CS
@@ -157,10 +165,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - LRM 15 w/ Artemis IV × 4 (ammo: 48)
+- **Source:** Clan Invasion
 - **Battle Value:** 1609
 
 ## Archer (Wolf)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -174,10 +183,11 @@
   - ECM Suite
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** Clan Invasion
 - **Battle Value:** 2365
 
 ## Archer ARC-6S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -190,10 +200,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1694
 
 ## Archer ARC-6W
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -203,10 +214,11 @@
   - Medium Laser × 4
   - Rocket 20 × 8
   - Rocket 10 × 2
+- **Source:** Civil War
 - **Battle Value:** 1405
 
 ## Archer ARC-7L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 3
@@ -218,10 +230,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1881
 
 ## Archer ARC-8M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -233,10 +246,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1759
 
 ## Archer ARC-7S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -249,10 +263,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1658
 
 ## Archer ARC-9K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -263,10 +278,11 @@
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM)
 - **Equipment:**
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1391
 
 ## Archer ARC-9M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 5, Light
@@ -278,10 +294,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1811
 
 ## Archer ARC-9W
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -294,6 +311,7 @@
   - Void-Signature System
   - Angel ECM Suite
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1774
 
 ## Archer ARC-4M2
@@ -308,10 +326,11 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1742
 
 ## Archer ARC-9KC
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3089)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -323,6 +342,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3 Boosted Slave
+- **Source:** RS 3145 NTNU
 - **Battle Value:** 1361
 
 ## Archer ARC-7C
@@ -353,5 +373,6 @@
 - **Equipment:**
   - CASE II
   - C3 Slave
+- **Source:** Dark Age
 - **Battle Value:** 1668
 

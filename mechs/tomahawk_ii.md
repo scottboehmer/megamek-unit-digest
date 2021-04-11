@@ -12,6 +12,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 3210
 
 ## Tomahawk II A
@@ -29,6 +30,7 @@
   - ER Large Laser
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2697
 
 ## Tomahawk II B
@@ -46,6 +48,7 @@
 - **Equipment:**
   - CASE
   - Laser Anti-Missile System
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 3513
 
 ## Tomahawk II C
@@ -60,5 +63,6 @@
   - Large Pulse Laser × 3
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2938
 

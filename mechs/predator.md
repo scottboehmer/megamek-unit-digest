@@ -1,6 +1,6 @@
 # Predator
 ## Predator (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -12,10 +12,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1754
 
 ## Predator 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -27,5 +28,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2159
 

@@ -1,6 +1,6 @@
 # Excalibur
 ## Excalibur EXC-B1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2619)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -12,10 +12,11 @@
   - LRM 20 w/ Artemis IV (ammo: 12)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1549
 
 ## Excalibur EXC-B2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2620)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -27,10 +28,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1533
 
 ## Excalibur EXC-B2b
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -42,10 +44,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3075
 - **Battle Value:** 1715
 
 ## Excalibur EXC-C1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -57,10 +60,11 @@
   - LRM 20 w/ Artemis IV (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1637
 
 ## Excalibur EXC-C1 (Cernunnos)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -76,7 +80,7 @@
 - **Battle Value:** 1778
 
 ## Excalibur EXC-CS
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -91,10 +95,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2174
 
 ## Excalibur EXC-D1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -108,5 +113,6 @@
   - C3i
   - CASE
   - Targeting Computer
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1949
 

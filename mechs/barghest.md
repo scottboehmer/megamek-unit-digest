@@ -1,6 +1,6 @@
 # Barghest
 ## Barghest BGS-1T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 70 tons Quad
 - **Movement:** 5 / 8 / 0, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - ER Large Laser × 2
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
+- **Source:** TRO 3060
 - **Battle Value:** 1787
 
 ## Barghest BGS-2T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons Quad
 - **Movement:** 5 / 8 / 0, XL
@@ -21,10 +22,11 @@
 - **Weapons:**
   - ER PPC
   - Ultra AC/20 (ammo: 20)
+- **Source:** TRO 3060
 - **Battle Value:** 1794
 
 ## Barghest BGS-3T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons Quad
 - **Movement:** 5 / 8 / 0, XL
@@ -33,10 +35,11 @@
 - **Weapons:**
   - ER Large Laser
   - Heavy Gauss Rifle (ammo: 16)
+- **Source:** TRO 3060
 - **Battle Value:** 1900
 
 ## Barghest BGS-7S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 70 tons Quad
 - **Movement:** 5 / 8 / 0, XL
@@ -50,5 +53,6 @@
   - ER Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1507
 

@@ -1,6 +1,6 @@
 # Atlas III
 ## Atlas III AS7-D2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3110)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -16,10 +16,11 @@
   - Targeting Computer
   - CASE II
   - Angel ECM Suite
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 2890
 
 ## Atlas III AS7-D3
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3137)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -36,5 +37,6 @@
   - Radical Heat Sink System
   - CASE II
   - Angel ECM Suite
+- **Source:** TRO 3145 Federated Suns - Dark Ages
 - **Battle Value:** 2553
 

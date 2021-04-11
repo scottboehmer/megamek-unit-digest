@@ -1,6 +1,6 @@
 # Porcupine
 ## Porcupine PRC-1N
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -11,10 +11,11 @@
 - **Equipment:**
   - Spikes × 5
   - Supercharger
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 870
 
 ## Porcupine PRC-2N
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XXL
@@ -26,5 +27,6 @@
   - Small X-Pulse Laser × 2
   - ER Small Laser
   - ER Medium Laser × 2
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 901
 

@@ -1,6 +1,6 @@
 # Helios
 ## Helios HEL-3D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -12,10 +12,11 @@
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1618
 
 ## Helios HEL-4A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -27,10 +28,11 @@
   - MRM 20 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1519
 
 ## Helios HEL-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -43,10 +45,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3060
 - **Battle Value:** 1533
 
 ## Helios HEL-6X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 5, Light
@@ -59,5 +62,6 @@
   - Medium VSP Laser × 2
 - **Equipment:**
   - C3i
+- **Source:** TRO 3060
 - **Battle Value:** 1761
 

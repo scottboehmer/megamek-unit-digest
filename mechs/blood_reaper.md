@@ -1,6 +1,6 @@
 # Blood Reaper
 ## Blood Reaper (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3079)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -12,10 +12,11 @@
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2665
 
 ## Blood Reaper 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3080)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -28,5 +29,6 @@
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2521
 

@@ -1,6 +1,6 @@
 # Shiro
 ## Shiro SH-1V
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 7 / 0, XL
@@ -13,10 +13,11 @@
   - Clan LRM 10 × 4 (ammo: 36)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2016
 
 ## Shiro SH-2P
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -29,5 +30,6 @@
   - Clan LRM 10 × 4 (ammo: 36)
 - **Equipment:**
   - Coolant Pod
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2570
 

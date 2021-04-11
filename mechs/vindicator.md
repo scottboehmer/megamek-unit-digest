@@ -1,6 +1,6 @@
 # Vindicator
 ## Vindicator VND-1R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2826)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -11,10 +11,11 @@
   - PPC
   - LRM 5 (ammo: 24)
   - Medium Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1024
 
 ## Vindicator VND-1X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2826)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -25,10 +26,11 @@
   - PPC
   - LRM 5 (ammo: 24)
   - Medium Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1008
 
 ## Vindicator VND-1AA 'Avenging Angel'
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2863)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5
@@ -39,10 +41,11 @@
   - PPC
   - LRM 5 (ammo: 24)
   - Medium Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 966
 
 ## Vindicator VND-1R (Vong)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3020)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -53,10 +56,11 @@
   - Small Laser
   - PPC
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1024
 
 ## Vindicator VND-1SIC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3031)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -67,10 +71,11 @@
   - Large Laser
   - LRM 10 (ammo: 12)
   - Medium Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1020
 
 ## Vindicator VND-3L
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -82,10 +87,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1105
 
 ## Vindicator VND-5L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons
 - **Movement:** 4 (5) / 6 (8) / 4
@@ -99,10 +105,11 @@
   - Medium Pulse Laser × 2
   - Small Laser
   - Small Pulse Laser
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1484
 
 ## Vindicator VND-4L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -116,10 +123,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1411
 
 ## Vindicator VND-6L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 45 tons
 - **Movement:** 4 (5) / 6 (8) / 4
@@ -134,10 +142,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Targeting Computer
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1739
 
 ## Vindicator VND-3Lr
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -149,10 +158,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1045
 
 ## Vindicator VND-3LD (Dao)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3078)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, Compact
@@ -166,5 +176,6 @@
 - **Equipment:**
   - AES × 2
   - Supercharger
+- **Source:** XTRO Liao - Jihad
 - **Battle Value:** 1583
 

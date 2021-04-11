@@ -1,6 +1,6 @@
 # Tai-sho
 ## Tai-sho TSH-7S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -12,10 +12,11 @@
 - **Equipment:**
   - C3 Master × 2
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1774
 
 ## Tai-sho TSH-8S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -28,5 +29,6 @@
 - **Equipment:**
   - C3 Slave
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2001
 

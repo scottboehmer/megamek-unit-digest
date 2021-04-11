@@ -12,6 +12,7 @@
   - LRM 20 × 2 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2351
 
 ## Vulture (Mad Dog) A
@@ -27,6 +28,7 @@
   - SRM 6 × 6 (ammo: 60)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1923
 
 ## Vulture (Mad Dog) B
@@ -43,6 +45,7 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2284
 
 ## Vulture (Mad Dog) C
@@ -56,6 +59,7 @@
   - Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1892
 
 ## Vulture (Mad Dog) DD
@@ -72,6 +76,7 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1970
 
 ## Vulture (Mad Dog) S
@@ -86,6 +91,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - Active Probe
+- **Source:** Clan Invasion
 - **Battle Value:** 2676
 
 ## Vulture (Mad Dog) D
@@ -102,6 +108,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2447
 
 ## Vulture (Mad Dog) H
@@ -117,6 +124,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2097
 
 ## Vulture (Mad Dog) E
@@ -130,6 +138,7 @@
   - HAG 30 × 2 (ammo: 8)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2031
 
 ## Vulture (Mad Dog) F
@@ -144,6 +153,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2300
 
 ## Vulture (Mad Dog) G
@@ -160,6 +170,7 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2503
 
 ## Vulture (Mad Dog) V
@@ -191,6 +202,7 @@
   - LRM 20 w/ Artemis V × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2555
 
 ## Vulture (Mad Dog) I
@@ -205,5 +217,6 @@
   - RAC/2 × 2 (ammo: 90)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1852
 

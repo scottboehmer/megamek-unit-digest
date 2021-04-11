@@ -1,6 +1,6 @@
 # Phoenix Hawk L
 ## Phoenix Hawk L PXH-11K
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3116)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -14,10 +14,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Late Republic
 - **Battle Value:** 1563
 
 ## Phoenix Hawk L PXH-11K2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3116)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -31,5 +32,6 @@
 - **Equipment:**
   - Coolant Pod
   - CASE II
+- **Source:** TRO 3145 Draconis Combine - Late Republic
 - **Battle Value:** 1233
 

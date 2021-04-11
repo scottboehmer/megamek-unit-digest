@@ -1,6 +1,6 @@
 # Ostwar
 ## Ostwar OWR-2M
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2470)
 - **Chassis:** 65 tons
 - **Movement:** 3 / 5 / 0
@@ -11,10 +11,11 @@
   - SRM 4 × 2 (ammo: 25)
   - Medium Laser × 2
   - LRM 20 (ammo: 18)
+- **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 1205
 
 ## Ostwar OWR-2Mb
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2620)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -25,10 +26,11 @@
   - ER Large Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** Star League
 - **Battle Value:** 1638
 
 ## Ostwar OWR-3M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -41,5 +43,6 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1557
 

@@ -1,6 +1,6 @@
 # Wraith
 ## Wraith TR1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - Large Pulse Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1287
 
 ## Wraith TR2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - ER PPC
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1485
 
 ## Wraith TR3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -35,10 +37,11 @@
   - Large Pulse Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1310
 
 ## Wraith TR2-X 'Alexander'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3076)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 9, XL
@@ -63,5 +66,6 @@
   - Hatchet
 - **Equipment:**
   - MASC
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 2051
 

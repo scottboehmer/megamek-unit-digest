@@ -1,6 +1,6 @@
 # Swordsman
 ## Swordsman SWD-1
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2463)
 - **Chassis:** 40 tons
 - **Movement:** 3 / 5 / 0
@@ -11,10 +11,11 @@
   - Medium Laser × 2
   - AC/5 (ammo: 20)
   - LRM 5 (ammo: 24)
+- **Source:** XTRO Primitives IV - Age of War
 - **Battle Value:** 692
 
 ## Swordsman SWD-2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2482)
 - **Chassis:** 40 tons
 - **Movement:** 4 / 6 / 0
@@ -26,5 +27,6 @@
   - LRM 5 (ammo: 24)
   - SRM 4 (ammo: 25)
   - Small Laser
+- **Source:** XTRO Primitives IV - Age of War
 - **Battle Value:** 803
 

@@ -13,6 +13,7 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1451
 
 ## Fire Falcon A
@@ -28,6 +29,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 822
 
 ## Fire Falcon B
@@ -41,6 +43,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1570
 
 ## Fire Falcon C
@@ -59,6 +62,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1004
 
 ## Fire Falcon D
@@ -75,6 +79,7 @@
 - **Equipment:**
   - CASE
   - TAG
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 826
 
 ## Fire Falcon E
@@ -88,6 +93,7 @@
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1094
 
 ## Fire Falcon H
@@ -101,6 +107,7 @@
   - Heavy Medium Laser × 2
   - Medium Pulse Laser × 2
   - Heavy Small Laser × 2
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1162
 
 ## Fire Falcon F
@@ -119,5 +126,6 @@
   - MG Array × 2
   - CASE
   - Active Probe
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1084
 

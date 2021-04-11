@@ -1,6 +1,6 @@
 # Banshee
 ## Banshee BNC-1E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2445)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -12,10 +12,11 @@
   - PPC
   - Medium Laser × 2
   - Small Laser
+- **Source:** XTRO Primitives II - Age of War
 - **Battle Value:** 1465
 
 ## Banshee BNC-3E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
@@ -25,10 +26,11 @@
   - AC/5 (ammo: 20)
   - PPC
   - Small Laser
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1422
 
 ## Banshee BNC-3M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2579)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
@@ -38,10 +40,11 @@
   - PPC × 2
   - Medium Laser × 2
   - Small Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1595
 
 ## Banshee BNC-3Q
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2915)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
@@ -50,10 +53,11 @@
 - **Weapons:**
   - AC/20 (ammo: 30)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1394
 
 ## Banshee BNC-3S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3026)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -65,10 +69,11 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
   - Small Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1751
 
 ## Banshee BNC-3S (Reinesblatt)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3029)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -81,10 +86,11 @@
   - LRM 10 (ammo: 12)
   - Medium Laser × 4
   - Small Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1678
 
 ## Banshee BNC-3MC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3037)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
@@ -94,10 +100,11 @@
   - AC/10 (ammo: 20)
   - PPC
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1487
 
 ## Banshee BNC-5S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -109,10 +116,11 @@
   - Gauss Rifle (ammo: 8)
   - ER PPC × 2
   - Small Laser × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2065
 
 ## Banshee BNC-5S (Sawyer)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -124,10 +132,11 @@
   - Gauss Rifle (ammo: 8)
   - ER PPC
   - Small Laser × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2094
 
 ## Banshee BNC-5S (Vandergriff)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -138,10 +147,11 @@
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
   - LB 10-X AC (ammo: 10)
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1853
 
 ## Banshee BNC-6S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -153,10 +163,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1889
 
 ## Banshee BNC-7S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -169,10 +180,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2126
 
 ## Banshee BNC-8S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons
 - **Movement:** 4 (5) / 6 (8) / 0, XL
@@ -193,10 +205,11 @@
   - C3 Slave
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2408
 
 ## Banshee BNC-9S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, Light
@@ -216,7 +229,7 @@
 - **Battle Value:** 2496
 
 ## Banshee BNC-3Mr
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0
@@ -226,10 +239,11 @@
   - ER PPC × 2
   - ER Medium Laser × 2
   - Small Laser
+- **Source:** Jihad
 - **Battle Value:** 1801
 
 ## Banshee BNC-9S2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0, Light
@@ -245,5 +259,6 @@
   - CASE
   - Targeting Computer
   - C3 Boosted Slave
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2426
 

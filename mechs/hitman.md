@@ -1,6 +1,6 @@
 # Hitman
 ## Hitman HM-1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -14,10 +14,11 @@
   - Beagle Active Probe
   - TAG
   - MASC
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 925
 
 ## Hitman HM-2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -31,10 +32,11 @@
   - Beagle Active Probe
   - C3 Slave
   - MASC
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 861
 
 ## Hitman HM-1r
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -49,5 +51,6 @@
   - Beagle Active Probe
   - TAG
   - MASC
+- **Source:** Jihad
 - **Battle Value:** 938
 

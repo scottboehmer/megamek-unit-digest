@@ -1,6 +1,6 @@
 # Cudgel
 ## Cudgel CDG-1B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -13,10 +13,11 @@
   - Machine Gun × 10 (ammo: 200)
 - **Equipment:**
   - MASC
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1347
 
 ## Cudgel CDG-2A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -30,10 +31,11 @@
   - ER Medium Laser × 4
   - Medium Laser × 5
   - Small Laser
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1750
 
 ## Cudgel CDG-2B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -46,5 +48,6 @@
   - Claw
   - ER Medium Laser × 5
   - Streak SRM 6 (ammo: 15)
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1762
 

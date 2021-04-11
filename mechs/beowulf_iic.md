@@ -1,6 +1,6 @@
 # Beowulf IIC
 ## Beowulf IIC (Standard)
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3084)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -13,10 +13,11 @@
   - MASC
   - Watchdog CEWS
   - Light TAG
+- **Source:** TRO:Prototypes
 - **Battle Value:** 2048
 
 ## Beowulf IIC PR
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3086)
 - **Chassis:** 45 tons
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -29,5 +30,6 @@
   - Inner Sphere C3i
   - MASC
   - Watchdog CEWS
+- **Source:** XTRO Republic I - Early Republic
 - **Battle Value:** 1992
 

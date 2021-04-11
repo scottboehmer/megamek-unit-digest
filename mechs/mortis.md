@@ -1,6 +1,6 @@
 # Mortis
 ## Mortis MS-1A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -13,10 +13,11 @@
   - Rocket 10
 - **Equipment:**
   - AES × 2
+- **Source:** TRO 3145 Capellan Confederation - Late Republic
 - **Battle Value:** 1834
 
 ## Mortis MS-1P
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3122)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -29,5 +30,6 @@
   - Rocket 10
 - **Equipment:**
   - AES × 2
+- **Source:** TRO 3145 Capellan Confederation - Late Republic
 - **Battle Value:** 2198
 

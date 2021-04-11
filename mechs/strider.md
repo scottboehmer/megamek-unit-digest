@@ -12,6 +12,7 @@
 - **Equipment:**
   - CASE
   - Beagle Active Probe
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 867
 
 ## Strider SR1-OA
@@ -29,6 +30,7 @@
   - TAG
   - C3 Slave
   - Beagle Active Probe
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 723
 
 ## Strider SR1-OB
@@ -42,6 +44,7 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 910
 
 ## Strider SR1-OC
@@ -57,6 +60,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 944
 
 ## Strider SR1-OD
@@ -75,6 +79,7 @@
   - TAG
   - C3 Slave
   - Beagle Active Probe
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 873
 
 ## Strider SR1-OE
@@ -89,6 +94,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 976
 
 ## Strider SR1-OR
@@ -103,6 +109,7 @@
   - Clan Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1339
 
 ## Strider SR1-OF
@@ -117,6 +124,7 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1032
 
 ## Strider SR1-OG
@@ -131,6 +139,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 883
 
 ## Strider SR1-OX
@@ -145,6 +154,7 @@
   - Bombast Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 889
 
 ## Strider SR1-OH
@@ -158,6 +168,7 @@
   - Clan Streak LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 1192
 
 ## Strider SR1-OM
@@ -170,5 +181,6 @@
 - **Equipment:**
   - CASE
   - C3 BoostedMaster × 2
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 607
 

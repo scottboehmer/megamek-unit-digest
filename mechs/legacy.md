@@ -1,6 +1,6 @@
 # Legacy
 ## Legacy LGC-01
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -14,10 +14,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1967
 
 ## Legacy LGC-02
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -32,10 +33,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2033
 
 ## Legacy LGC-03
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, Light
@@ -49,10 +51,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2121
 
 ## Legacy LGC-04-WVR
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4, Light
@@ -65,10 +68,11 @@
 - **Equipment:**
   - C3i
   - MASC
+- **Source:** RS 3067 - Jihad
 - **Battle Value:** 1745
 
 ## Legacy LGC-05
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 2, Compact

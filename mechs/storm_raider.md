@@ -1,6 +1,6 @@
 # Storm Raider
 ## Storm Raider STM-R1
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -11,10 +11,11 @@
   - Mace
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Lyran Commonwealth - Early Republic
 - **Battle Value:** 593
 
 ## Storm Raider STM-R2
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -26,10 +27,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3145 Lyran Commonwealth - Early Republic
 - **Battle Value:** 671
 
 ## Storm Raider STM-R3
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3106)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -41,5 +43,6 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 791
 

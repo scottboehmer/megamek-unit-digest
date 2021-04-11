@@ -14,6 +14,7 @@
   - CASE
   - ECM Suite
   - TAG
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1878
 
 ## Hierofalcon A
@@ -31,6 +32,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1953
 
 ## Hierofalcon B
@@ -47,6 +49,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE II
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1737
 
 ## Hierofalcon C
@@ -62,6 +65,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1983
 
 ## Hierofalcon D
@@ -79,5 +83,6 @@
   - Partial Wing
   - CASE II
   - Supercharger
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2183
 

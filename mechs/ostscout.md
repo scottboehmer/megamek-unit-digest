@@ -1,6 +1,6 @@
 # Ostscout
 ## Ostscout OTT-7J
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2600)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 8
@@ -8,10 +8,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 596
 
 ## Ostscout OTT-7Jb
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2600)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8
@@ -21,10 +22,11 @@
   - Medium Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3075
 - **Battle Value:** 610
 
 ## Ostscout OTT-7K
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 8
@@ -32,10 +34,11 @@
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
   - TAG
+- **Source:** Clan Invasion
 - **Battle Value:** 484
 
 ## Ostscout OTT-9CS
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -49,10 +52,11 @@
   - Guardian ECM Suite
   - C3i
   - TAG
+- **Source:** Civil War
 - **Battle Value:** 930
 
 ## Ostscout OTT-9S
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, Light
@@ -65,10 +69,11 @@
   - Beagle Active Probe
   - TAG
   - A-Pod × 2
+- **Source:** Civil War
 - **Battle Value:** 855
 
 ## Ostscout OTT-10CS
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL
@@ -79,10 +84,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
+- **Source:** Jihad
 - **Battle Value:** 862
 
 ## Ostscout OTT-11J
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 8, XL
@@ -92,10 +98,11 @@
   - Light PPC × 2
 - **Equipment:**
   - TAG
+- **Source:** Jihad
 - **Battle Value:** 908
 
 ## Ostscout OTT-12R
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere Mixed (3145)
 - **Chassis:** 35 tons (Endo Composite)
 - **Movement:** 8 / 12 / 8, Light
@@ -105,10 +112,11 @@
   - Clan ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 1209
 
 ## Ostscout OTT-8J
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3145)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 8, XL
@@ -120,5 +128,6 @@
 - **Equipment:**
   - Bloodhound Active Probe
   - Angel ECM Suite
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 894
 

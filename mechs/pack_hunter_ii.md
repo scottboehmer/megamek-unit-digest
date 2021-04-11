@@ -1,6 +1,6 @@
 # Pack Hunter II
 ## Pack Hunter II (Isis)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3077)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -12,10 +12,11 @@
   - SRM 6 w/ Artemis IV (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1276
 
 ## Pack Hunter II (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3077)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -26,10 +27,11 @@
   - ER PPC
 - **Equipment:**
   - B-Pod × 2
+- **Source:** Jihad
 - **Battle Value:** 1794
 
 ## Pack Hunter II 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3078)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, Light
@@ -39,10 +41,11 @@
   - ER PPC
 - **Equipment:**
   - A-Pod × 2
+- **Source:** Jihad
 - **Battle Value:** 1457
 
 ## Pack Hunter II 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3082)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 10, XL
@@ -51,10 +54,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
+- **Source:** Dark Age
 - **Battle Value:** 1438
 
 ## Pack Hunter II 4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3093)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -64,5 +68,6 @@
   - ER PPC
 - **Equipment:**
   - AES × 4
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1447
 

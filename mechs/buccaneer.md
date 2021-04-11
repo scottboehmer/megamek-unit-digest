@@ -1,6 +1,6 @@
 # Buccaneer
 ## Buccaneer BCN-3R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 55 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -12,10 +12,11 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Pulse Laser
   - Medium Laser × 4
+- **Source:** TRO 3060
 - **Battle Value:** 1434
 
 ## Buccaneer BCN-5W
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -28,10 +29,11 @@
 - **Equipment:**
   - C3i
   - MG Array
+- **Source:** TRO 3060
 - **Battle Value:** 1370
 
 ## Buccaneer BCN-6W
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -42,6 +44,7 @@
   - MML 5 × 3 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - C3i
+- **Source:** TRO 3060
 - **Battle Value:** 1121
 
 ## Buccaneer BCN-6PX 'Pan'
@@ -57,5 +60,6 @@
   - Small Vibroblade
 - **Equipment:**
   - Clan Partial Wing
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1384
 

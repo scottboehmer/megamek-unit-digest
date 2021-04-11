@@ -1,6 +1,6 @@
 # White Flame
 ## White Flame WHF-3B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 70 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -13,10 +13,11 @@
 - **Equipment:**
   - C3i
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3067
 - **Battle Value:** 1637
 
 ## White Flame WHF-3C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -29,10 +30,11 @@
 - **Equipment:**
   - C3i
   - Anti-Missile System (ammo: 12)
+- **Source:** RS:3067U
 - **Battle Value:** 1826
 
 ## White Flame WHF-4C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 70 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -46,5 +48,6 @@
 - **Equipment:**
   - C3i
   - TAG
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1680
 

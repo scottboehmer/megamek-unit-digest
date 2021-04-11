@@ -13,6 +13,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2390
 
 ## Linebacker A
@@ -29,6 +30,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2264
 
 ## Linebacker B
@@ -44,6 +46,7 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2048
 
 ## Linebacker C
@@ -61,6 +64,7 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2075
 
 ## Linebacker D
@@ -76,6 +80,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2039
 
 ## Linebacker E
@@ -91,6 +96,7 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1846
 
 ## Linebacker H
@@ -104,6 +110,7 @@
   - Heavy Large Laser × 2
   - ER Medium Laser × 2
   - ER Small Laser
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2097
 
 ## Linebacker I

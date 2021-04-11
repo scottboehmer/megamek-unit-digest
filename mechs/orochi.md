@@ -1,6 +1,6 @@
 # Orochi
 ## Orochi OR-2I
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -10,5 +10,6 @@
   - Thunderbolt 20 × 2 (ammo: 18)
   - Streak SRM 4 × 2 (ammo: 50)
   - ER Small Laser
+- **Source:** Dark Age
 - **Battle Value:** unknown
 

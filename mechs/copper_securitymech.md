@@ -10,10 +10,11 @@
   - Machine Gun × 4 (ammo: 400)
 - **Equipment:**
   - Searchlight × 2
+- **Source:** RS:VA IM Exo - Star League
 - **Battle Value:** 310
 
 ## Copper SecurityMech CPK-65
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
@@ -24,10 +25,11 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - Searchlight × 2
+- **Source:** RS:VA IM Exo - Civil War
 - **Battle Value:** 325
 
 ## Copper SecurityMech CPK-65KM
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
@@ -37,5 +39,6 @@
   - SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - Searchlight × 2
+- **Source:** Jihad
 - **Battle Value:** 339
 

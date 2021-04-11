@@ -1,6 +1,6 @@
 # Stag
 ## Stag ST-14G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2823)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL

@@ -1,6 +1,6 @@
 # Komodo
 ## Komodo KIM-2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -12,10 +12,11 @@
   - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1533
 
 ## Komodo KIM-2A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -28,10 +29,11 @@
   - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1415
 
 ## Komodo KIM-2C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -43,10 +45,11 @@
   - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1533
 
 ## Komodo KIM-3C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -58,5 +61,6 @@
   - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
   - C3 Master
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1371
 

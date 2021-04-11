@@ -1,6 +1,6 @@
 # Gravedigger
 ## Gravedigger GDR-1C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3102)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 1342
 
 ## Gravedigger GDR-1D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3105)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -29,5 +30,6 @@
   - CASE II
   - Angel ECM Suite
   - Clan Active Probe
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 1707
 

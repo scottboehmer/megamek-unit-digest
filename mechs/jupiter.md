@@ -1,6 +1,6 @@
 # Jupiter
 ## Jupiter (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
@@ -12,10 +12,11 @@
   - LRM 15 × 2 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2784
 
 ## Jupiter 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
@@ -27,10 +28,11 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 3278
 
 ## Jupiter 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3075)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
@@ -42,10 +44,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 3074
 
 ## Jupiter 4
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3093)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -57,5 +60,6 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2955
 

@@ -1,6 +1,6 @@
 # Penthesilea
 ## Penthesilea PEN-2H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
@@ -14,10 +14,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1899
 
 ## Penthesilea PEN-2MAF
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -31,10 +32,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1834
 
 ## Penthesilea PEN-3H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3129)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
@@ -51,5 +53,6 @@
   - AES × 2
   - CASE II
   - MG Array
+- **Source:** XTRO Republic II - Late Republic
 - **Battle Value:** 1654
 

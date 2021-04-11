@@ -1,6 +1,6 @@
 # Caesar
 ## Caesar CES-3R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1578
 
 ## Caesar CES-3R 'Archangel'
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3057)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -28,10 +29,11 @@
   - Clan Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2098
 
 ## Caesar CES-3R (Gertrude)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -43,10 +45,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1833
 
 ## Caesar CES-4S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -57,10 +60,11 @@
   - Large Pulse Laser
   - ER Medium Laser × 2
   - Heavy Gauss Rifle (ammo: 12)
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1739
 
 ## Caesar CES-3S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -73,10 +77,11 @@
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1901
 
 ## Caesar CES-4R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 (8) / 0, XL
@@ -90,5 +95,6 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2024
 

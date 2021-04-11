@@ -1,6 +1,6 @@
 # Albatross
 ## Albatross ALB-3U
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -15,10 +15,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1668
 
 ## Albatross ALB-4U
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -33,10 +34,11 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1907
 
 ## Albatross ALB-5W (Dantalion)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 95 tons
 - **Movement:** 4 (5) / 6 (8) / 0, Light
@@ -57,7 +59,7 @@
 - **Battle Value:** 2296
 
 ## Albatross ALB-3Ur
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -71,5 +73,6 @@
   - MML 9 (ammo: 26 LRM, 22 SRM)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1902
 

@@ -13,6 +13,7 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1450
 
 ## Dragonfly (Viper) A
@@ -27,6 +28,7 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1989
 
 ## Dragonfly (Viper) B
@@ -40,6 +42,7 @@
   - ER PPC
   - Small Pulse Laser × 2
   - Flamer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1830
 
 ## Dragonfly (Viper) C
@@ -56,6 +59,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1344
 
 ## Dragonfly (Viper) D
@@ -72,6 +76,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1779
 
 ## Dragonfly (Viper) E
@@ -87,6 +92,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1561
 
 ## Dragonfly (Viper) H
@@ -103,6 +109,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1732
 
 ## Dragonfly (Viper) I
@@ -120,6 +127,7 @@
   - Anti-Missile System (ammo: 24)
   - Light Active Probe
   - Targeting Computer
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1580
 
 ## Dragonfly (Viper) F
@@ -135,6 +143,7 @@
 - **Equipment:**
   - MG Array × 2
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1610
 
 ## Dragonfly (Viper) G
@@ -151,6 +160,7 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1574
 
 ## Dragonfly (Viper) Z
@@ -168,6 +178,7 @@
   - Laser Anti-Missile System
   - Light TAG
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 1692
 
 ## Dragonfly (Viper) U
@@ -185,6 +196,7 @@
   - CASE
   - ECM Suite
   - Liquid Cargo
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Dragonfly (Viper) R
@@ -201,6 +213,7 @@
   - CASE
   - Inner Sphere Bloodhound Active Probe
   - Light TAG
+- **Source:** Dark Age
 - **Battle Value:** 1335
 
 ## Dragonfly (Viper) T
@@ -219,6 +232,7 @@
   - Anti-Missile System (ammo: 24)
   - Targeting Computer
   - Light Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 1704
 
 ## Dragonfly (Viper) J
@@ -233,6 +247,7 @@
   - ER Micro Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1259
 
 ## Dragonfly (Viper) K
@@ -250,6 +265,7 @@
   - Inner Sphere Angel ECM Suite
   - TAG
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 1545
 
 ## Dragonfly (Viper) L
@@ -264,6 +280,7 @@
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1417
 
 ## Dragonfly (Viper) M
@@ -279,5 +296,6 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 2054
 

@@ -11,6 +11,7 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Plasma Rifle (ammo: 20)
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 775
 
 ## Gun GN-2OA
@@ -24,6 +25,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy PPC
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 685
 
 ## Gun GN-2OB
@@ -41,5 +43,6 @@
   - TAG
   - Bloodhound Active Probe
   - Angel ECM Suite
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 639
 

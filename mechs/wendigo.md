@@ -14,6 +14,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2122
 
 ## Wendigo A
@@ -29,6 +30,7 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2072
 
 ## Wendigo B
@@ -44,6 +46,7 @@
   - ER Small Laser × 5
 - **Equipment:**
   - ECM Suite
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2369
 
 ## Wendigo C
@@ -62,5 +65,6 @@
 - **Equipment:**
   - CASE
   - Supercharger
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2628
 

@@ -13,5 +13,6 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Succession Wars
 - **Battle Value:** 2506
 

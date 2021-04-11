@@ -1,6 +1,6 @@
 # Tiburon
 ## Tiburon (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3099)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -14,5 +14,6 @@
   - CASE II
   - Watchdog CEWS
   - Targeting Computer
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 1841
 

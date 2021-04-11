@@ -1,6 +1,6 @@
 # Victor
 ## Victor VTR-9A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2508)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4
@@ -12,10 +12,11 @@
   - SRM 4 (ammo: 25)
   - Machine Gun (ammo: 100)
   - Flamer × 2
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1236
 
 ## Victor VTR-9A1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2508)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4
@@ -26,10 +27,11 @@
   - AC/20 (ammo: 15)
   - SRM 4 (ammo: 25)
   - Machine Gun × 2 (ammo: 100)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1302
 
 ## Victor VTR-9B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2510)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4
@@ -39,10 +41,11 @@
   - Medium Laser × 2
   - AC/20 (ammo: 15)
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1378
 
 ## Victor VTR-9B (Shoji)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2725)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4
@@ -52,10 +55,11 @@
   - Medium Pulse Laser × 3
   - AC/10 (ammo: 20)
   - SRM 4 (ammo: 0)
+- **Source:** Star League
 - **Battle Value:** 1543
 
 ## Victor VTR-9S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2998)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4
@@ -65,10 +69,11 @@
   - Medium Laser × 2
   - AC/20 (ammo: 15)
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1360
 
 ## Victor VTR-9B (Li)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4
@@ -80,7 +85,7 @@
 - **Battle Value:** 1625
 
 ## Victor VTR-9D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -92,10 +97,11 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1717
 
 ## Victor VTR-9K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -107,10 +113,11 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1717
 
 ## Victor C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3050)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4
@@ -125,7 +132,7 @@
 - **Battle Value:** 1950
 
 ## Victor VTR-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -138,10 +145,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1717
 
 ## Victor VTR-10S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -154,10 +162,11 @@
   - Heavy Gauss Rifle (ammo: 12)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2034
 
 ## Victor VTR-10D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -169,10 +178,11 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1894
 
 ## Victor VTR-11D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -185,10 +195,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2021
 
 ## Victor VTR-10L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -201,10 +212,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2279
 
 ## Victor VTR-9Ka
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 5
@@ -215,5 +227,6 @@
   - AC/20 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1594
 

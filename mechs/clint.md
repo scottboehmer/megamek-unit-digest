@@ -1,6 +1,6 @@
 # Clint
 ## Clint CLNT-1-2R
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2607)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - AC/10 (ammo: 10)
   - Medium Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 707
 
 ## Clint CLNT-2-3T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2608)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -21,10 +22,11 @@
 - **Weapons:**
   - AC/5 (ammo: 20)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 770
 
 ## Clint CLNT-2-4T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2610)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -33,10 +35,11 @@
 - **Weapons:**
   - AC/2 × 2 (ammo: 45)
   - Medium Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 619
 
 ## Clint CLNT-2-3T (Denton)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3033)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -45,10 +48,11 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 873
 
 ## Clint CLNT-2-3U
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -57,10 +61,11 @@
 - **Weapons:**
   - ER PPC
   - Medium Pulse Laser × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1081
 
 ## Clint CLNT-5U
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -72,10 +77,11 @@
 - **Equipment:**
   - C3 Slave
   - TAG
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1275
 
 ## Clint CLNT-2-3UL
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -84,10 +90,11 @@
 - **Weapons:**
   - Plasma Rifle (ammo: 30)
   - ER Medium Laser × 2
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1245
 
 ## Clint CLNT-3-3T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 6
@@ -98,10 +105,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 901
 
 ## Clint CLNT-6S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -112,5 +120,6 @@
   - ER Large Laser × 2
   - ER Medium Laser × 2
   - ER Small Laser
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1334
 

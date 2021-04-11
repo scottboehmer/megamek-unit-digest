@@ -1,6 +1,6 @@
 # Behemoth (Stone Rhino)
 ## Behemoth (Stone Rhino) 4
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (2846)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -13,10 +13,11 @@
   - LRM 10 × 4 (ammo: 48)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2601
 
 ## Behemoth (Stone Rhino) 5
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (2846)
 - **Chassis:** 100 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -27,10 +28,11 @@
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2151
 
 ## Behemoth (Stone Rhino) (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2847)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
@@ -42,10 +44,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 3001
 
 ## Behemoth (Stone Rhino) 6
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2999)
 - **Chassis:** 100 tons
 - **Movement:** 4 / 6 / 2, XL
@@ -54,10 +57,11 @@
 - **Weapons:**
   - Medium Pulse Laser × 14
   - ER Small Laser
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2981
 
 ## Behemoth (Stone Rhino) 7
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3001)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
@@ -67,10 +71,11 @@
   - Large Pulse Laser × 2
   - ER Large Laser × 3
   - Small Pulse Laser
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2916
 
 ## Behemoth (Stone Rhino) 2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3061)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -85,10 +90,11 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - A-Pod × 2
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 3107
 
 ## Behemoth (Stone Rhino) 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -100,10 +106,11 @@
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 3072
 
 ## Behemoth (Stone Rhino) 8
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3128)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -116,5 +123,6 @@
 - **Equipment:**
   - AES × 2
   - CASE
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2804
 

@@ -1,6 +1,6 @@
 # Mercury II
 ## Mercury II MCY-100
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2823)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 / 7, XL

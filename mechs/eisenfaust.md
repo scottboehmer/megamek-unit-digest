@@ -1,6 +1,6 @@
 # Eisenfaust
 ## Eisenfaust EFT-2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2471)
 - **Chassis:** 45 tons
 - **Movement:** 2 / 3 / 0
@@ -11,10 +11,11 @@
   - Large Laser
   - AC/10 (ammo: 10)
   - Medium Laser × 2
+- **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 715
 
 ## Eisenfaust EFT-4J
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2515)
 - **Chassis:** 45 tons
 - **Movement:** 3 / 5 / 0
@@ -25,10 +26,11 @@
   - Small Laser
   - AC/10 (ammo: 20)
   - Medium Laser × 2
+- **Source:** Dark Age
 - **Battle Value:** 977
 
 ## Eisenfaust EFT-7X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -39,10 +41,11 @@
   - ER Small Laser
   - Plasma Rifle (ammo: 20)
   - Medium Pulse Laser × 2
+- **Source:** Jihad
 - **Battle Value:** 1203
 
 ## Eisenfaust EFT-8X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -53,5 +56,6 @@
   - ER Small Laser
   - Blazer Cannon
   - Medium Pulse Laser × 2
+- **Source:** Dark Age
 - **Battle Value:** unknown
 

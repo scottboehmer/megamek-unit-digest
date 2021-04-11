@@ -1,6 +1,6 @@
 # Night Wolf
 ## Night Wolf (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3084)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -16,5 +16,6 @@
   - Targeting Computer
   - ECM Suite
   - Anti-Missile System (ammo: 24)
+- **Source:** Dark Age
 - **Battle Value:** 2878
 

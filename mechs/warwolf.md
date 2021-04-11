@@ -15,6 +15,7 @@
   - Targeting Computer
   - TAG
   - Laser Anti-Missile System
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 2706
 
 ## Warwolf A
@@ -33,6 +34,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 3100
 
 ## Warwolf B
@@ -48,6 +50,7 @@
 - **Equipment:**
   - CASE
   - Laser Anti-Missile System
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 2518
 
 ## Warwolf C
@@ -64,6 +67,7 @@
   - Targeting Computer
   - CASE II
   - Laser Anti-Missile System
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 2776
 
 ## Warwolf H
@@ -81,5 +85,6 @@
   - Coolant Pod × 2
   - CASE II
   - Supercharger
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 3184
 

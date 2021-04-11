@@ -1,5 +1,15 @@
 # Mechs
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
+## Unit Roles
+- [Ambusher](roles/ambusher.md)
+- [Brawler](roles/brawler.md)
+- [Juggernaut](roles/juggernaut.md)
+- [Missile Boat](roles/missile-boat.md)
+- [Scout](roles/scout.md)
+- [Skirmisher](roles/skirmisher.md)
+- [Sniper](roles/sniper.md)
+- [Striker](roles/striker.md)
+
 ## Variants
 - [List of Variants](variants.md)
 

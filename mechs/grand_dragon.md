@@ -1,6 +1,6 @@
 # Grand Dragon
 ## Grand Dragon DRG-1G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -10,10 +10,11 @@
   - Medium Laser × 3
   - PPC
   - LRM 10 (ammo: 24)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1300
 
 ## Grand Dragon DRG-1G (Douglas)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -27,7 +28,7 @@
 - **Battle Value:** 1076
 
 ## Grand Dragon DRG-5K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 60 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -39,10 +40,11 @@
   - LRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1358
 
 ## Grand Dragon DRG-5K-DC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 60 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -55,10 +57,11 @@
 - **Equipment:**
   - Command Console
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1322
 
 ## Grand Dragon DRG-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 60 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -71,10 +74,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1322
 
 ## Grand Dragon DRG-7K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -88,10 +92,11 @@
   - C3 Slave
   - MASC
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1702
 
 ## Grand Dragon DRG-7K (Mark)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light
@@ -105,10 +110,11 @@
   - C3 Slave
   - CASE
   - MASC
+- **Source:** Starterbook: Sword and Dragon - Civil War
 - **Battle Value:** 1817
 
 ## Grand Dragon DRG-9KC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -120,10 +126,11 @@
   - MML 5 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - C3 Master
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1147
 
 ## Grand Dragon DRG-7KC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -137,10 +144,11 @@
 - **Equipment:**
   - C3 Boosted Slave
   - MASC
+- **Source:** Jihad
 - **Battle Value:** 1673
 
 ## Grand Dragon DRG-10K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3114)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -152,5 +160,6 @@
   - MRM 20 w/ Apollo FCS (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU
 - **Battle Value:** 1603
 

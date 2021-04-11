@@ -12,6 +12,7 @@
 - **Equipment:**
   - Targeting Computer
   - Light Active Probe
+- **Source:** TRO 3067
 - **Battle Value:** 1952
 
 ## Crimson Langur A
@@ -26,6 +27,7 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2003
 
 ## Crimson Langur B
@@ -41,6 +43,7 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** TRO 3067
 - **Battle Value:** 2210
 
 ## Crimson Langur C
@@ -56,6 +59,7 @@
   - Micro Pulse Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1437
 
 ## Crimson Langur D
@@ -73,6 +77,7 @@
   - CASE
   - Light TAG
   - Targeting Computer
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1867
 
 ## Crimson Langur E

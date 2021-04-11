@@ -1,6 +1,6 @@
 # Black Hawk
 ## Black Hawk (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3073)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -11,10 +11,11 @@
   - ER Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Jihad
 - **Battle Value:** 2183
 
 ## Black Hawk 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3092)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -25,10 +26,11 @@
   - ER Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 2161
 
 ## Black Hawk 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3092)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -37,5 +39,6 @@
 - **Weapons:**
   - ER Medium Laser × 4
   - ER Large Laser × 2
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 2317
 

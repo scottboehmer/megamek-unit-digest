@@ -1,6 +1,6 @@
 # Exhumer
 ## Exhumer EXR-2X
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3129)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -12,10 +12,11 @@
   - MRM 10 (ammo: 24)
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Draconis Combine - Late Republic
 - **Battle Value:** 1468
 
 ## Exhumer EXR-3P
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3131)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL
@@ -28,5 +29,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1469
 

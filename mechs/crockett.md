@@ -1,6 +1,6 @@
 # Crockett
 ## Crockett CRK-5003-1
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -11,10 +11,11 @@
   - Small Laser × 2
   - SRM 6 × 2 (ammo: 30)
   - LB 10-X AC (ammo: 10 Cluster, 20 Standard)
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1923
 
 ## Crockett CRK-5003-1b
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -28,7 +29,7 @@
 - **Battle Value:** 2307
 
 ## Crockett CRK-5003-0
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2881)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -39,10 +40,11 @@
   - Small Laser × 2
   - AC/10 (ammo: 20)
   - SRM 6 × 2 (ammo: 30)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1704
 
 ## Crockett CRK-5003-3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -55,10 +57,11 @@
   - LB 10-X AC (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1989
 
 ## Crockett CRK-5004-1
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -72,10 +75,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1955
 
 ## Crockett CRK-5005-1
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, Light
@@ -89,5 +93,6 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1908
 

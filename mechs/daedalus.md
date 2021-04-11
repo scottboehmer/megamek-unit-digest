@@ -1,6 +1,6 @@
 # Daedalus
 ## Daedalus GTX2A 'Stevedore'
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 60 tons Quad (Industrial)
 - **Movement:** 4 / 6 / 0
@@ -13,7 +13,7 @@
 - **Battle Value:** unknown
 
 ## Daedalus GTX2B 'Navvy'
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 60 tons Quad (Industrial)
 - **Movement:** 4 / 6 / 0
@@ -29,7 +29,7 @@
 - **Battle Value:** unknown
 
 ## Daedalus DAD-3C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -43,10 +43,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1070
 
 ## Daedalus DAD-3D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -60,10 +61,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1729
 
 ## Daedalus DAD-4A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (14) / 6, XL
@@ -78,10 +80,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Supercharger
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1466
 
 ## Daedalus DAD-4B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -96,5 +99,6 @@
 - **Equipment:**
   - Targeting Computer
   - Supercharger
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1431
 

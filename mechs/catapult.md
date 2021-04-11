@@ -1,6 +1,6 @@
 # Catapult
 ## Catapult CPLT-C1
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2561)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -9,10 +9,11 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
   - Medium Laser × 4
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1399
 
 ## Catapult CPLT-A1
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2563)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -20,10 +21,11 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1285
 
 ## Catapult CPLT-C4
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2565)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -32,10 +34,11 @@
 - **Weapons:**
   - LRM 20 × 2 (ammo: 24)
   - Small Laser × 2
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1358
 
 ## Catapult CPLT-K2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2603)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -45,10 +48,11 @@
   - PPC × 2
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1319
 
 ## Catapult CPLT-C1b
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2688)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -59,10 +63,11 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1570
 
 ## Catapult CPLT-C1 (Jenny) 'Butterbee'
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3027)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -71,10 +76,11 @@
 - **Weapons:**
   - SRM 6 × 4 (ammo: 60)
   - Medium Laser × 4
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1242
 
 ## Catapult CPLT-K3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -84,10 +90,11 @@
   - ER PPC × 2
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1437
 
 ## Catapult CPLT-C3
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -96,10 +103,11 @@
 - **Weapons:**
   - Arrow IV (ammo: 5)
   - Medium Laser × 4
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1368
 
 ## Catapult CPLT-C4C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -111,10 +119,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1449
 
 ## Catapult CPLT-K2K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -123,10 +132,11 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1716
 
 ## Catapult CPLT-K5
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -138,10 +148,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1457
 
 ## Catapult CPLT-C5
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -152,10 +163,11 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1748
 
 ## Catapult CPLT-C2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -164,10 +176,11 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
   - LB 2-X AC × 2 (ammo: 45 Cluster)
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1346
 
 ## Catapult CPLT-H2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -177,10 +190,11 @@
   - PPC
   - Rocket 20 × 8
   - Medium Laser × 2
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1473
 
 ## Catapult CPLT-C5A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -191,10 +205,11 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1772
 
 ## Catapult CPLT-K4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 65 tons
 - **Movement:** 3 / 5 / 3
@@ -205,10 +220,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1880
 
 ## Catapult CPLT-C6
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -219,6 +235,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1874
 
 ## Catapult CPLT-K6

@@ -1,6 +1,6 @@
 # Mackie
 ## Mackie MSK-5S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2439)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -11,10 +11,11 @@
   - PPC
   - AC/5 (ammo: 20)
   - Large Laser
+- **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 1436
 
 ## Mackie MSK-6S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2439)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -25,10 +26,11 @@
   - PPC
   - AC/10 (ammo: 20)
   - Medium Laser × 2
+- **Source:** TRO 3075
 - **Battle Value:** 1461
 
 ## Mackie MSK-7A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2488)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -38,10 +40,11 @@
   - PPC
   - AC/20 (ammo: 20)
   - Large Laser × 2
+- **Source:** RS 3075U
 - **Battle Value:** 1900
 
 ## Mackie MSK-8B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2576)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -53,10 +56,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2019
 
 ## Mackie MSK-9H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2576)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -69,6 +73,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2022
 
 ## Mackie MSK-9HKR 'Kill-Roy's Little Buddy'
@@ -84,5 +89,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Star League
 - **Battle Value:** 2162
 

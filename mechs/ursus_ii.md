@@ -1,6 +1,6 @@
 # Ursus II
 ## Ursus II (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3078)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -15,5 +15,6 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 2069
 

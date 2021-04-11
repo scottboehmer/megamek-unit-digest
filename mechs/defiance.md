@@ -1,6 +1,6 @@
 # Defiance
 ## Defiance DFN-3C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, XL
@@ -15,10 +15,11 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - SRM 6 × 2 (ammo: 15)
   - Machine Gun (ammo: 100)
+- **Source:** TRO 3075
 - **Battle Value:** 1817
 
 ## Defiance DFN-3S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
@@ -32,10 +33,11 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - SRM 6 (ammo: 15)
   - Machine Gun (ammo: 100)
+- **Source:** TRO 3075
 - **Battle Value:** 1940
 
 ## Defiance DFN-3T
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
@@ -49,5 +51,6 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - SRM 6 (ammo: 15)
   - Machine Gun (ammo: 100)
+- **Source:** TRO 3075
 - **Battle Value:** 1981
 

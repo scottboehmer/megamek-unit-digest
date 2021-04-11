@@ -1,6 +1,6 @@
 # Verfolger
 ## Verfolger VR5-R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3067
 - **Battle Value:** 1639
 
 ## Verfolger VR6-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -28,10 +29,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1584
 
 ## Verfolger VR6-T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -44,5 +46,6 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1811
 

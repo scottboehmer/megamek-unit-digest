@@ -1,6 +1,6 @@
 # Patriot
 ## Patriot PKM-2C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -15,10 +15,11 @@
   - CASE
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3075U - Jihad
 - **Battle Value:** 1613
 
 ## Patriot PKM-2D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -34,10 +35,11 @@
   - CASE
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3075 - Jihad
 - **Battle Value:** 1699
 
 ## Patriot PKM-2E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -51,5 +53,6 @@
   - TAG
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3075-Jihad
 - **Battle Value:** 1398
 

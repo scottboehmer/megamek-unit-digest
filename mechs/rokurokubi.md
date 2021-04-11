@@ -1,6 +1,6 @@
 # Rokurokubi
 ## Rokurokubi RK-4K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 10 / 0, XL
@@ -10,10 +10,11 @@
 - **Weapons:**
   - ER PPC
   - Sword
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1286
 
 ## Rokurokubi RK-4T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 10 / 0, XL
@@ -23,10 +24,11 @@
 - **Weapons:**
   - Light AC/5 (ammo: 40)
   - Sword
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 998
 
 ## Rokurokubi RK-4X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3136)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -39,5 +41,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Supercharger
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1858
 

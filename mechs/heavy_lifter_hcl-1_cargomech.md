@@ -1,6 +1,6 @@
 # Heavy Lifter HCL-1 CargoMech
 ## Heavy Lifter HCL-1 CargoMech (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons Quad (Industrial)
 - **Movement:** 4 / 6 / 0
@@ -13,5 +13,6 @@
   - Enviro-Sealing
   - Lift Hoist × 2
   - Cargo × 2
+- **Source:** RS IA
 - **Battle Value:** unknown
 

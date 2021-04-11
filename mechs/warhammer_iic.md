@@ -1,6 +1,6 @@
 # Warhammer IIC
 ## Warhammer IIC (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2829)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -12,10 +12,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2570
 
 ## Warhammer IIC 2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2920)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -27,10 +28,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2482
 
 ## Warhammer IIC 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -41,10 +43,11 @@
   - Medium Pulse Laser × 5
 - **Equipment:**
   - Targeting Computer
+- **Source:** Clan Invasion
 - **Battle Value:** 2382
 
 ## Warhammer IIC 4
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3062)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -56,10 +59,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 2386
 
 ## Warhammer IIC 5
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3070)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -71,10 +75,11 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2185
 
 ## Warhammer IIC 6
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3071)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -86,10 +91,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2661
 
 ## Warhammer IIC 7
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3079)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -105,10 +111,11 @@
   - CASE
   - Cargo × 2
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Warhammer IIC 8
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3079)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -121,10 +128,11 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2380
 
 ## Warhammer IIC 9
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3086)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
@@ -138,10 +146,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 2819
 
 ## Warhammer IIC 10
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3120)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -153,10 +162,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2290
 
 ## Warhammer IIC 11
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3124)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -169,10 +179,11 @@
 - **Equipment:**
   - CASE
   - A-Pod × 2
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2021
 
 ## Warhammer IIC 13
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3150)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL

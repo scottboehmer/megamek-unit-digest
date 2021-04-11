@@ -11,6 +11,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2557
 
 ## Pouncer A
@@ -26,6 +27,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2081
 
 ## Pouncer B
@@ -41,6 +43,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1836
 
 ## Pouncer C
@@ -56,6 +59,7 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1653
 
 ## Pouncer D
@@ -72,6 +76,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2246
 
 ## Pouncer E
@@ -87,6 +92,7 @@
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1632
 
 ## Pouncer H
@@ -103,5 +109,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1784
 

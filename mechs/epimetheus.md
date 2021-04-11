@@ -1,6 +1,6 @@
 # Epimetheus
 ## Epimetheus Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3053)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -14,5 +14,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** Unbound - Clan Invasion
 - **Battle Value:** 2517
 

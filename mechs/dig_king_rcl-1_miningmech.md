@@ -1,6 +1,6 @@
 # Dig King RCL-1 MiningMech
 ## Dig King RCL-1 MiningMech (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
@@ -12,10 +12,11 @@
   - Rock-Cutter
 - **Equipment:**
   - Lift Hoist
+- **Source:** RS VA - Star League
 - **Battle Value:** unknown
 
 ## Dig King RCL-1 MiningMech MOD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 3 / 5 / 0, Fuel Cell
@@ -25,5 +26,6 @@
   - Machine Gun × 2 (ammo: 100)
   - Rock-Cutter
   - SRM 4 × 2 (ammo: 25)
+- **Source:** RS VA - Early Succession War
 - **Battle Value:** unknown
 

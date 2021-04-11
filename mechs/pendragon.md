@@ -1,6 +1,6 @@
 # Pendragon
 ## Pendragon PDG-1X MUSE RED
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3072)
 - **Chassis:** 95 tons (Composite)
 - **Movement:** 3 / 5 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE II
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 2230
 
 ## Pendragon PDG-1R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 95 tons (Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -46,5 +47,6 @@
   - CASE II
   - C3 Master
   - Coolant Pod
+- **Source:** Iron Wind Metals
 - **Battle Value:** 1991
 

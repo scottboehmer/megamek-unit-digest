@@ -12,6 +12,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2021
 
 ## Shadow Cat III A
@@ -25,6 +26,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - MASC
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2005
 
 ## Shadow Cat III B
@@ -43,6 +45,7 @@
   - CASE
   - Active Probe
   - Targeting Computer
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2183
 
 ## Shadow Cat III C
@@ -59,5 +62,6 @@
   - MASC
   - CASE
   - Supercharger
+- **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2153
 

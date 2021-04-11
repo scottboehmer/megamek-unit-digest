@@ -1,6 +1,6 @@
 # Thunderbolt IIC
 ## Thunderbolt IIC (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3085)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL

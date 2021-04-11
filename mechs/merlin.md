@@ -1,6 +1,6 @@
 # Merlin
 ## Merlin MLN-1A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3010)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
@@ -12,10 +12,11 @@
   - Machine Gun (ammo: 100)
   - PPC
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1217
 
 ## Merlin MLN-1B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
@@ -26,10 +27,11 @@
   - Flamer
   - PPC
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1228
 
 ## Merlin MLN-1B (Porter)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
@@ -42,7 +44,7 @@
 - **Battle Value:** 1233
 
 ## Merlin MLN-1C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
@@ -53,5 +55,6 @@
   - Flamer
   - PPC
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1267
 

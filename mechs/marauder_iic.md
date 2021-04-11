@@ -1,6 +1,6 @@
 # Marauder IIC
 ## Marauder IIC (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2828)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
   - ER PPC × 3
   - Medium Pulse Laser × 2
   - ER Small Laser × 4
+- **Source:** Succession Wars
 - **Battle Value:** 2680
 
 ## Marauder IIC 9
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2831)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -27,7 +28,7 @@
 - **Battle Value:** 2595
 
 ## Marauder IIC 8
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3025)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -40,10 +41,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2554
 
 ## Marauder IIC 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3063)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -53,10 +55,11 @@
   - Heavy Large Laser × 2
   - Medium Pulse Laser × 2
   - ER Large Laser
+- **Source:** Civil War
 - **Battle Value:** 2358
 
 ## Marauder IIC 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3064)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -68,10 +71,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 2445
 
 ## Marauder IIC 4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
@@ -81,10 +85,11 @@
   - HAG 40 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 3447
 
 ## Marauder IIC 5
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -96,10 +101,11 @@
   - HAG 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2386
 
 ## Marauder IIC 6
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3077)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -112,10 +118,11 @@
   - Heavy Large Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2646
 
 ## Marauder IIC 7
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3081)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, XL
@@ -131,10 +138,11 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 2843
 
 ## Marauder IIC 10
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3140)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL

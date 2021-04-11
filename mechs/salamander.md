@@ -1,6 +1,6 @@
 # Salamander
 ## Salamander PPR-5S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -11,10 +11,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1769
 
 ## Salamander PPR-5T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -25,10 +26,11 @@
   - Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1589
 
 ## Salamander PPR-6S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -40,10 +42,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1714
 
 ## Salamander PPR-6T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -55,10 +58,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1681
 
 ## Salamander PPR-7S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -69,10 +73,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2023
 
 ## Salamander PPR-7T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -84,5 +89,6 @@
   - ELRM 15 × 2 (ammo: 36)
 - **Equipment:**
   - C3 Boosted Slave
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1647
 

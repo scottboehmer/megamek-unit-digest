@@ -1,6 +1,6 @@
 # Morpheus
 ## Morpheus MR-P1
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 65 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -13,10 +13,11 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1340
 
 ## Morpheus MRP-3S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 65 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -29,10 +30,11 @@
 - **Equipment:**
   - Spikes × 2
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1437
 
 ## Morpheus MRP-3T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 65 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -42,5 +44,6 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - Laser Anti-Missile System
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1925
 

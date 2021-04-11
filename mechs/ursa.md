@@ -1,6 +1,6 @@
 # Ursa
 ## Ursa URA-2A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3122)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -12,10 +12,11 @@
   - RAC/2 (ammo: 45)
 - **Equipment:**
   - MASC
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 1887
 
 ## Ursa URA-2C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3125)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -28,5 +29,6 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 2570
 

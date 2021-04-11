@@ -1,6 +1,6 @@
 # Hatamoto-Mizo
 ## Hatamoto-Mizo HTM-27Y
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -9,5 +9,6 @@
 - **Weapons:**
   - PPC × 2
   - ER Large Laser
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1675
 

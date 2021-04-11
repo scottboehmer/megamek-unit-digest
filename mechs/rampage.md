@@ -1,6 +1,6 @@
 # Rampage
 ## Rampage RMP-2G
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -16,7 +16,7 @@
 - **Battle Value:** 1444
 
 ## Rampage RMP-4G
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2130
 
 ## Rampage RMP-4G (Benboudaoud)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -50,10 +50,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** HTP New Dallas
 - **Battle Value:** 1751
 
 ## Rampage RMP-5G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2767)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL

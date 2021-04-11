@@ -1,6 +1,6 @@
 # Sirocco
 ## Sirocco SRC-3C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
 - **Equipment:**
   - A-Pod × 2
   - Guardian ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2154
 
 ## Sirocco SRC-5C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 0
@@ -31,10 +32,11 @@
   - A-Pod × 4
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2107
 
 ## Sirocco SRC-6C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 5
@@ -48,5 +50,6 @@
 - **Equipment:**
   - C3 Slave
   - Guardian ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2202
 

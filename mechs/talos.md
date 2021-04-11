@@ -1,6 +1,6 @@
 # Talos
 ## Talos TLS-1B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2532)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -10,5 +10,6 @@
   - AC/10 (ammo: 20)
   - SRM 6 (ammo: 15)
   - LRM 5 × 2 (ammo: 24)
+- **Source:** Hist:Reunification
 - **Battle Value:** 924
 

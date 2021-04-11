@@ -1,6 +1,6 @@
 # Thunder
 ## Thunder THR-1L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -12,10 +12,11 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1471
 
 ## Thunder THR-2L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 70 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -30,10 +31,11 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1951
 
 ## Thunder THR-3L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -47,10 +49,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1904
 
 ## Thunder THR-C4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL

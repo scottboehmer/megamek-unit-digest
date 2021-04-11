@@ -1,6 +1,6 @@
 # Carronade
 ## Carronade CRN-7M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3102)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -12,5 +12,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 1799
 

@@ -1,6 +1,6 @@
 # Targe
 ## Targe TRG-1N
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 (16) / 0, Light
@@ -13,10 +13,11 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** Republic
 - **Battle Value:** 813
 
 ## Targe TRG-2N
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 40 tons
 - **Movement:** 7 / 11 (14) / 0, Light
@@ -29,10 +30,11 @@
   - ER Small Laser
 - **Equipment:**
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 1042
 
 ## Targe TRG-3M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 40 tons
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -45,5 +47,6 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1233
 

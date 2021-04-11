@@ -1,6 +1,6 @@
 # Bruin
 ## Bruin (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3081)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -14,10 +14,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2630
 
 ## Bruin 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3083)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -30,5 +31,6 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2200
 

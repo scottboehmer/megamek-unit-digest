@@ -1,6 +1,6 @@
 # Raijin II
 ## Raijin II RJN-200-A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1763
 
 ## Raijin II RJN-200-B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -31,10 +32,11 @@
   - Beagle Active Probe
   - Guardian ECM Suite
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1439
 
 ## Raijin II RJN-200-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, Light
@@ -47,5 +49,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1754
 

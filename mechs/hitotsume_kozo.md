@@ -1,6 +1,6 @@
 # Hitotsume Kozo
 ## Hitotsume Kozo HKZ-1F
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 8 (10) / 4, XL
@@ -12,6 +12,7 @@
   - ER Medium Laser × 2
   - Hatchet
   - Heavy PPC
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1998
 
 ## Hitotsume Kozo HKZ-1FM 'Mulan'
@@ -26,10 +27,11 @@
   - ER Medium Laser × 2
   - Large Vibroblade
   - Heavy PPC
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1772
 
 ## Hitotsume Kozo HKZ-1P
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 (6) / 7 (8) / 4, XL
@@ -41,5 +43,6 @@
   - Medium Pulse Laser × 2
   - Hatchet
   - Ultra AC/10 (ammo: 20)
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1611
 

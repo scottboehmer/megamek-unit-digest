@@ -1,6 +1,6 @@
 # Silver Fox
 ## Silver Fox SVR-5X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 35 tons
 - **Movement:** 9 / 14 / 0, XXL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Angel ECM Suite
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1432
 
 ## Silver Fox SVR-5Y
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 0, Light
@@ -29,5 +30,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1316
 

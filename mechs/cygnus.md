@@ -1,6 +1,6 @@
 # Cygnus
 ## Cygnus (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3075)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 2583
 
 ## Cygnus 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3075)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -26,10 +27,11 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 3421
 
 ## Cygnus 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3075)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -39,10 +41,11 @@
   - HAG 20 × 4 (ammo: 36)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2569
 
 ## Cygnus 4
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3090)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -55,5 +58,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2570
 

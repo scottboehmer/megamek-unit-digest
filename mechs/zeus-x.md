@@ -1,6 +1,6 @@
 # Zeus-X
 ## Zeus-X ZEU-9WD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -12,10 +12,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050U - Civil War
 - **Battle Value:** 1716
 
 ## Zeus-X ZEU-X3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3089)
 - **Chassis:** 80 tons (Composite)
 - **Movement:** 5 / 8 / 8, XXL
@@ -26,10 +27,11 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3145 Lyran Commonwealth - Early Republic
 - **Battle Value:** 2178
 
 ## Zeus-X ZEU-X4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3119)
 - **Chassis:** 80 tons (Composite)
 - **Movement:** 5 / 8 / 0, XXL
@@ -43,5 +45,6 @@
 - **Equipment:**
   - Command Console
   - CASE II
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 2193
 

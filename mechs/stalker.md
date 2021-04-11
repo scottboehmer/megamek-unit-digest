@@ -1,6 +1,6 @@
 # Stalker
 ## Stalker STK-3F
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2594)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -11,10 +11,11 @@
   - Medium Laser × 4
   - Large Laser × 2
   - SRM 6 × 2 (ammo: 30)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1559
 
 ## Stalker STK-3H
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2638)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -24,10 +25,11 @@
   - LRM 20 × 2 (ammo: 12)
   - Medium Laser × 4
   - SRM 6 × 2 (ammo: 30)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1624
 
 ## Stalker STK-3Fb
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2705)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -43,7 +45,7 @@
 - **Battle Value:** 2029
 
 ## Stalker STK-3Fk
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -54,10 +56,11 @@
   - Medium Laser × 4
   - Large Laser × 2
   - Streak SRM 2 × 4 (ammo: 100)
+- **Source:** ER 2750 - Star League
 - **Battle Value:** 1742
 
 ## Stalker STK-4N
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2876)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -68,10 +71,11 @@
   - LRM 10 (ammo: 12)
   - Large Laser × 2
   - SRM 6 × 2 (ammo: 30)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1558
 
 ## Stalker STK-4P
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2998)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 0
@@ -82,10 +86,11 @@
   - LRM 10 (ammo: 12)
   - Large Laser × 2
   - SRM 6 × 2 (ammo: 30)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1461
 
 ## Stalker STK-3F (Jagawen)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -98,7 +103,7 @@
 - **Battle Value:** 1570
 
 ## Stalker STK-5M
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -110,10 +115,11 @@
   - SRM 6 × 2 (ammo: 30)
   - Narc (ammo: 12)
   - ER Large Laser
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1655
 
 ## Stalker STK-5S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -127,10 +133,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1423
 
 ## Stalker STK-3F (Jamison)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3054)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -141,10 +148,11 @@
   - Clan ER Medium Laser × 4
   - Clan Large Pulse Laser × 2
   - Clan Streak SRM 6 × 2 (ammo: 30)
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2635
 
 ## Stalker STK-6M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -156,10 +164,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2029
 
 ## Stalker STK-7D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -173,10 +182,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1872
 
 ## Stalker STK-8S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, Light
@@ -187,10 +197,11 @@
   - Medium Pulse Laser × 2
   - ER Medium Laser × 2
   - Heavy Gauss Rifle (ammo: 8)
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1977
 
 ## Stalker STK-7C3BS
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0
@@ -204,5 +215,6 @@
 - **Equipment:**
   - C3 Boosted Slave
   - CASE II
+- **Source:** Jihad
 - **Battle Value:** 1712
 

@@ -1,6 +1,6 @@
 # Sentinel
 ## Sentinel STN-1S
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2651)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -10,10 +10,11 @@
   - AC/2 (ammo: 45)
   - SRM 4 (ammo: 25)
   - Small Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 632
 
 ## Sentinel STN-3L
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2652)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -23,10 +24,11 @@
   - Ultra AC/5 (ammo: 20)
   - Streak SRM 2 (ammo: 50)
   - Small Laser
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 717
 
 ## Sentinel STN-3Lb
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2715)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -39,7 +41,7 @@
 - **Battle Value:** 1260
 
 ## Sentinel STN-3K
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -49,10 +51,11 @@
   - AC/5 (ammo: 40)
   - SRM 2 (ammo: 50)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 652
 
 ## Sentinel STN-3KA
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -62,10 +65,11 @@
   - Large Laser
   - Small Laser
   - SRM 2 (ammo: 50)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 847
 
 ## Sentinel STN-3KB
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -75,10 +79,11 @@
   - PPC
   - Small Laser
   - SRM 2 (ammo: 50)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 823
 
 ## Sentinel STN-3M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -88,10 +93,11 @@
   - Ultra AC/5 (ammo: 20)
   - SRM 2 (ammo: 50)
   - Medium Laser
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 758
 
 ## Sentinel STN-4D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -102,10 +108,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1179
 
 ## Sentinel STN-C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0
@@ -116,10 +123,11 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 689
 
 ## Sentinel STN-5WB
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9 / 0, Light
@@ -130,5 +138,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 999
 

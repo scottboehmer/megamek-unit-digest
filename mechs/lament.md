@@ -1,6 +1,6 @@
 # Lament
 ## Lament LMT-2R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3126)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -12,10 +12,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - Radical Heat Sink System
+- **Source:** TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 1999
 
 ## Lament LMT-2R (Manes)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3126)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -28,10 +29,11 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Slave
+- **Source:** TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 2302
 
 ## Lament LMT-3C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -44,10 +46,11 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Slave
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1874
 
 ## Lament LMT-3R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -59,10 +62,11 @@
   - Small X-Pulse Laser × 2
 - **Equipment:**
   - Radical Heat Sink System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1888
 
 ## Lament LMT-4RC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3137)
 - **Chassis:** 65 tons (Composite)
 - **Movement:** 5 / 8 / 0, XL
@@ -74,5 +78,6 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Slave
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 2490
 

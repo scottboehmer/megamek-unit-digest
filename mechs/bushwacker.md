@@ -1,6 +1,6 @@
 # Bushwacker
 ## Bushwacker BSW-X1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -13,10 +13,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1223
 
 ## Bushwacker BSW-X2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -29,10 +30,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1193
 
 ## Bushwacker BSW-S2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -45,10 +47,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1293
 
 ## Bushwacker BSW-L1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -59,10 +62,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1513
 
 ## Bushwacker BSW-S2r
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -75,10 +79,11 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1339
 
 ## Bushwacker BSW-X4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -92,5 +97,6 @@
 - **Equipment:**
   - CASE II
   - MASC
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 1751
 

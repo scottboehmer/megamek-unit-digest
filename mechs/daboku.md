@@ -1,6 +1,6 @@
 # Daboku
 ## Daboku DCMS-MX90-D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3038)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
@@ -12,5 +12,6 @@
   - AC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1290
 

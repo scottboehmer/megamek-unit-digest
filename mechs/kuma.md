@@ -1,6 +1,6 @@
 # Kuma
 ## Kuma (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3082)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Heavy Large Laser
   - ER Medium Laser × 2
+- **Source:** Dark Age
 - **Battle Value:** 1952
 
 ## Kuma 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3083)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -24,5 +25,6 @@
   - ATM 9 (ammo: 14 Standard, 7 ER, 7 HE)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2309
 

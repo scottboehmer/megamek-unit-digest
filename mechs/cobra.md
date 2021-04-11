@@ -1,6 +1,6 @@
 # Cobra
 ## Cobra CBR-02
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
   - Medium Laser × 2
+- **Source:** TRO 3060
 - **Battle Value:** 1128
 
 ## Cobra CBR-03
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -24,5 +25,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1324
 

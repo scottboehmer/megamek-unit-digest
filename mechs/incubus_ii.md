@@ -1,6 +1,6 @@
 # Incubus II
 ## Incubus II (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3085)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL
@@ -12,5 +12,6 @@
   - Partial Wing
   - Laser Anti-Missile System
   - Light Active Probe
+- **Source:** TRO:Prototypes
 - **Battle Value:** 1261
 

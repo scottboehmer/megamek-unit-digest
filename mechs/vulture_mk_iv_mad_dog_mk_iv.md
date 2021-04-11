@@ -13,6 +13,7 @@
   - ER Small Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2110
 
 ## Vulture Mk IV (Mad Dog Mk IV) A
@@ -29,6 +30,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2177
 
 ## Vulture Mk IV (Mad Dog Mk IV) B
@@ -45,6 +47,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2649
 
 ## Vulture Mk IV (Mad Dog Mk IV) C
@@ -61,6 +64,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2584
 
 ## Vulture Mk IV (Mad Dog Mk IV) D
@@ -76,5 +80,6 @@
   - Micro Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2346
 

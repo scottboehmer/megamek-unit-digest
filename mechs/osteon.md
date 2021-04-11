@@ -13,6 +13,7 @@
   - Nova CEWS
   - CASE II
   - CASE
+- **Source:** WoR - Jihad
 - **Battle Value:** 3073
 
 ## Osteon (Jaguar)
@@ -32,6 +33,7 @@
 - **Equipment:**
   - Nova CEWS
   - CASE
+- **Source:** WoR - Jihad
 - **Battle Value:** unknown
 
 ## Osteon B
@@ -48,6 +50,7 @@
   - Improved Heavy Large Laser × 2
 - **Equipment:**
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 2625
 
 ## Osteon C
@@ -64,6 +67,7 @@
 - **Equipment:**
   - Nova CEWS
   - Targeting Computer
+- **Source:** WoR - Jihad
 - **Battle Value:** 3139
 
 ## Osteon D
@@ -78,6 +82,7 @@
   - Large Pulse Laser × 4
 - **Equipment:**
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 2587
 
 ## Osteon E
@@ -96,6 +101,7 @@
   - Nova CEWS
   - CASE
   - Targeting Computer
+- **Source:** WoR - Jihad
 - **Battle Value:** 2762
 
 ## Osteon F
@@ -115,6 +121,7 @@
   - Nova CEWS
   - CASE
   - MG Array × 2
+- **Source:** WoR - Jihad
 - **Battle Value:** 2691
 
 ## Osteon G
@@ -132,5 +139,6 @@
 - **Equipment:**
   - Nova CEWS
   - CASE
+- **Source:** WoR - Jihad
 - **Battle Value:** 2251
 

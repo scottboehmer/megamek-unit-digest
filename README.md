@@ -33,9 +33,9 @@ The tool I have written is a work in progress and as a result this set of markdo
 Some of the major known limitations with my generator are:
 - No support for LAMs, QuadVees, super heavy mechs, or tripod mechs
 - Lots of less frequently used components haven't been implemented yet
-- Battle Value is not calculated for all designs that parse, and the calculations likely have bugs so you shouldn't trust those values yet. (Use the [Master Unit List](http://masterunitlist.info/) for that instead.)
+- Battle Value is not calculated for all designs that parse, and the calculations likely have bugs so you shouldn't trust those values yet. Use the [Master Unit List](http://masterunitlist.info/) for that instead.
 - The summaries are intentionally less detailed than Technical Readout entries or record sheets. They are intended as quick summaries of the mechs, not a substitute for the actual board game products.
-- The generated summary format includes an entry for the mech's role, but the MegaMek files don't have that information so it is `Undefined` for all of the summaries. The [Master Unit List](http://masterunitlist.info/) has that info if you need it.
+- The generated summary format includes an entry for the mech's role that is now generated from MegaMek's `unit_roles.txt` file. That file doesn't contain all of the units though, so some mechs will list `Undefined` as their role. As with Battle Value, the [Master Unit List](http://masterunitlist.info/) has that info if you need it.
 
 If you're curious about the errors encountered by my parser, you can see the current list of errors here: [errors.txt](errors.txt).
 

@@ -18,6 +18,7 @@
   - TAG
   - Active Probe
   - A-Pod × 2
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2108
 
 ## Nobori-nin (Huntsman) A
@@ -33,6 +34,7 @@
   - LB 2-X AC (ammo: 45)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2034
 
 ## Nobori-nin (Huntsman) B
@@ -49,6 +51,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2156
 
 ## Nobori-nin (Huntsman) C
@@ -68,6 +71,7 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2199
 
 ## Nobori-nin (Huntsman) D
@@ -84,6 +88,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2007
 
 ## Nobori-nin (Huntsman) H
@@ -101,6 +106,7 @@
   - Targeting Computer
   - ECM Suite
   - Active Probe
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2495
 
 ## Nobori-nin (Huntsman) N
@@ -118,6 +124,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2556
 
 ## Nobori-nin (Huntsman) E
@@ -137,6 +144,7 @@
   - Light TAG
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** ilClan Vol 12 - Jihad
 - **Battle Value:** 2104
 
 ## Nobori-nin (Huntsman) I
@@ -153,6 +161,7 @@
   - ER Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 12 - Early Republic
 - **Battle Value:** 2277
 
 ## Nobori-nin (Huntsman) F
@@ -170,6 +179,7 @@
   - Targeting Computer
   - Inner Sphere Radical Heat Sink System
   - CASE II
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2367
 
 ## Nobori-nin (Huntsman) G
@@ -189,6 +199,7 @@
   - Targeting Computer
   - Active Probe
   - CASE II
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** unknown
 
 ## Nobori-nin (Huntsman) T
@@ -210,5 +221,6 @@
   - CASE
   - Laser Anti-Missile System
   - Targeting Computer
+- **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** 2105
 

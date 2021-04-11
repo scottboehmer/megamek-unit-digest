@@ -14,6 +14,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 839
 
 ## Owens OW-1A
@@ -31,6 +32,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 680
 
 ## Owens OW-1B
@@ -47,6 +49,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 752
 
 ## Owens OW-1C
@@ -63,6 +66,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 964
 
 ## Owens OW-1D
@@ -79,6 +83,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 655
 
 ## Owens OW-1R
@@ -95,6 +100,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1215
 
 ## Owens OW-1E
@@ -112,6 +118,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 833
 
 ## Owens OW-1F
@@ -131,6 +138,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - A-Pod
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 933
 
 ## Owens OW-1G
@@ -147,5 +155,6 @@
   - TAG
   - C3 Slave
   - Supercharger
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 1761
 

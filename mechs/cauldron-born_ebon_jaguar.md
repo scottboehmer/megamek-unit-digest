@@ -14,6 +14,7 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1952
 
 ## Cauldron-Born (Ebon Jaguar) A
@@ -32,6 +33,7 @@
   - Ultra AC/20 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2429
 
 ## Cauldron-Born (Ebon Jaguar) B
@@ -48,6 +50,7 @@
 - **Equipment:**
   - TAG
   - Active Probe
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2535
 
 ## Cauldron-Born (Ebon Jaguar) C
@@ -63,6 +66,7 @@
   - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1831
 
 ## Cauldron-Born (Ebon Jaguar) (Samantha)
@@ -79,6 +83,7 @@
   - LRM 10 × 3 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** HTP Luzerne
 - **Battle Value:** 2372
 
 ## Cauldron-Born (Ebon Jaguar) D
@@ -94,6 +99,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2228
 
 ## Cauldron-Born (Ebon Jaguar) H
@@ -111,6 +117,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2359
 
 ## Cauldron-Born (Ebon Jaguar) E
@@ -127,6 +134,7 @@
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2391
 
 ## Cauldron-Born (Ebon Jaguar) X
@@ -144,5 +152,6 @@
   - Targeting Computer
   - Angel ECM Suite
   - CASE II
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2435
 

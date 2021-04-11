@@ -14,6 +14,7 @@
   - ECM Suite
   - CASE II
   - Cargo
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** unknown
 
 ## Wulfen A
@@ -28,6 +29,7 @@
   - ER PPC
 - **Equipment:**
   - ECM Suite
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 1615
 
 ## Wulfen B
@@ -44,6 +46,7 @@
   - ECM Suite
   - Targeting Computer
   - Supercharger
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 1806
 
 ## Wulfen C
@@ -59,6 +62,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 1334
 
 ## Wulfen D
@@ -75,6 +79,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE II
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 859
 
 ## Wulfen E
@@ -94,6 +99,7 @@
   - Supercharger
   - Targeting Computer
   - CASE II
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 1839
 
 ## Wulfen H
@@ -109,5 +115,6 @@
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - ECM Suite
+- **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 1563
 

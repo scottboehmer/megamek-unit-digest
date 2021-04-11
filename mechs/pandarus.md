@@ -1,6 +1,6 @@
 # Pandarus
 ## Pandarus LFA-1X
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 75 tons (Composite)
 - **Movement:** 4 / 6 / 0
@@ -11,10 +11,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE II
+- **Source:** XTRO Marik - Jihad
 - **Battle Value:** 1486
 
 ## Pandarus LFA-1A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0

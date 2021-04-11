@@ -15,6 +15,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Deva C-DVA-OA Dominus
@@ -36,6 +37,7 @@
   - C3i
   - CASE
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 1727
 
 ## Deva C-DVA-OB Infernus
@@ -54,6 +56,7 @@
   - C3i
   - Targeting Computer
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1713
 
 ## Deva C-DVA-OC Comminus
@@ -73,6 +76,7 @@
   - C3i
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1749
 
 ## Deva C-DVA-OD Luminos
@@ -91,6 +95,7 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 1711
 
 ## Deva C-DVA-O (Achilleus)
@@ -109,6 +114,7 @@
   - C3i
   - Supercharger
   - Targeting Computer
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 1595
 
 ## Deva C-DVA-OE Eminus
@@ -127,6 +133,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Deva C-DVA-OS Caelestis

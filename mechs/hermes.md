@@ -1,6 +1,6 @@
 # Hermes
 ## Hermes HER-1S
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2632)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Flamer
   - Medium Laser × 2
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 716
 
 ## Hermes HER-1Sb
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2740)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -25,10 +26,11 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
+- **Source:** Hist:Op Klondike - Star League
 - **Battle Value:** 1112
 
 ## Hermes HER-1A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2856)
 - **Chassis:** 30 tons
 - **Movement:** 9 / 14 / 0
@@ -37,10 +39,11 @@
 - **Weapons:**
   - Flamer
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 601
 
 ## Hermes HER-1B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2856)
 - **Chassis:** 30 tons
 - **Movement:** 9 / 14 / 0
@@ -48,10 +51,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 3
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 687
 
 ## Hermes HER-3S
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0
@@ -62,10 +66,11 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 649
 
 ## Hermes HER-3S1
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0
@@ -76,10 +81,11 @@
 - **Equipment:**
   - MASC
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 726
 
 ## Hermes HER-3S2
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0
@@ -91,10 +97,11 @@
   - MASC
   - TAG
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 600
 
 ## Hermes HER-4S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -105,10 +112,11 @@
 - **Equipment:**
   - MASC
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1012
 
 ## Hermes HER-4K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -121,10 +129,11 @@
   - MASC
   - C3 Slave
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1470
 
 ## Hermes HER-4M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -136,10 +145,11 @@
   - MASC
   - Guardian ECM Suite
   - C3i
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1362
 
 ## Hermes HER-4WB
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 (18) / 0, XL
@@ -150,5 +160,6 @@
 - **Equipment:**
   - MASC
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1042
 

@@ -1,6 +1,6 @@
 # Centurion
 ## Centurion CN9-A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
   - AC/10 (ammo: 20)
   - LRM 10 (ammo: 24)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 945
 
 ## Centurion CN9-AH
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2874)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -22,10 +23,11 @@
 - **Weapons:**
   - AC/20 (ammo: 10)
   - LRM 10 (ammo: 24)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 945
 
 ## Centurion CN9-AL
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2915)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -36,10 +38,11 @@
   - Small Laser
   - LRM 10 (ammo: 24)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1057
 
 ## Centurion CN9-YLW 'Yen Lo Wang'
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3027)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -49,10 +52,11 @@
   - Hatchet
   - AC/20 (ammo: 15)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 957
 
 ## Centurion CN9-D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -64,10 +68,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1130
 
 ## Centurion CN9-YLW2 'Yen Lo Wang'
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 50 tons
 - **Movement:** 4 (5) / 6 (8) / 0, XL
@@ -78,10 +83,11 @@
   - Medium Pulse Laser × 3
   - Hatchet
   - Gauss Rifle (ammo: 16)
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1435
 
 ## Centurion CN9-D3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL
@@ -94,10 +100,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1324
 
 ## Centurion CN10-B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -110,10 +117,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1243
 
 ## Centurion CN10-J
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -129,7 +137,7 @@
 - **Battle Value:** 1257
 
 ## Centurion CN10-W
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -144,7 +152,7 @@
 - **Battle Value:** 1112
 
 ## Centurion CN9-D3D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -156,10 +164,11 @@
   - ER Medium Laser
 - **Equipment:**
   - MASC
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1373
 
 ## Centurion CN9-D5
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -173,10 +182,11 @@
   - MASC
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1738
 
 ## Centurion CN9-Da
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -189,10 +199,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1035
 
 ## Centurion CN9-D4D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -204,10 +215,11 @@
   - ER Medium Laser
 - **Equipment:**
   - MASC
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1369
 
 ## Centurion CN9-D9
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -220,10 +232,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1638
 
 ## Centurion CN9-Ar
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -235,10 +248,11 @@
   - LRM 10 (ammo: 24)
   - Medium Laser
   - Medium Pulse Laser
+- **Source:** Jihad
 - **Battle Value:** 1226
 
 ## Centurion CN9-H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -249,10 +263,11 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Rocket 10 × 5
   - Medium Laser
+- **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 848
 
 ## Centurion CN9-YLW3 'Yen Lo Wang'
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3101)
 - **Chassis:** 50 tons
 - **Movement:** 4 (5) / 6 (8) / 0, XL
@@ -266,6 +281,7 @@
   - Clan ER Medium Laser
 - **Equipment:**
   - Clan CASE II
+- **Source:** OTP Capellan Crusades - Dark Age
 - **Battle Value:** 1815
 
 ## Centurion CN11-O
@@ -282,6 +298,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1236
 
 ## Centurion CN11-OA
@@ -298,6 +315,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1375
 
 ## Centurion CN11-OB
@@ -315,6 +333,7 @@
   - Guardian ECM Suite
   - CASE II
   - Targeting Computer
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1412
 
 ## Centurion CN11-OC
@@ -333,6 +352,7 @@
   - Guardian ECM Suite
   - CASE II
   - C3 Slave
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1628
 
 ## Centurion CN11-OD
@@ -352,6 +372,7 @@
   - Medium Shield
   - CASE II
   - Beagle Active Probe
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1153
 
 ## Centurion CN11-OE
@@ -368,10 +389,11 @@
 - **Equipment:**
   - Angel ECM Suite
   - C3 Boosted Slave
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1515
 
 ## Centurion CN10-D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3121)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light

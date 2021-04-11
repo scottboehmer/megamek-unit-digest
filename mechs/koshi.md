@@ -1,6 +1,6 @@
 # Koshi
 ## Koshi (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3091)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -12,10 +12,11 @@
   - CASE
   - Light TAG
   - Active Probe
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 760
 
 ## Koshi (Standard) 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3095)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -26,10 +27,11 @@
 - **Equipment:**
   - CASE
   - Light TAG
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 948
 
 ## Koshi (Standard) 3
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3095)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 6, XL
@@ -43,5 +45,6 @@
   - Targeting Computer
   - MASC
   - Active Probe
+- **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 777
 

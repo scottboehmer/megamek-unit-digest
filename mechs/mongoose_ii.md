@@ -1,6 +1,6 @@
 # Mongoose II
 ## Mongoose II MON-266
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -13,10 +13,11 @@
   - MASC
   - C3i
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1085
 
 ## Mongoose II MON-267
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -30,10 +31,11 @@
   - Targeting Computer
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** TRO 3075
 - **Battle Value:** 1237
 
 ## Mongoose II MON-268
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -46,5 +48,6 @@
   - MASC
   - C3 Master
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 1215
 

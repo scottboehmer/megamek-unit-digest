@@ -1,6 +1,6 @@
 # Emperor
 ## Emperor EMP-1A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2442)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
@@ -10,10 +10,11 @@
 - **Weapons:**
   - AC/5 × 2 (ammo: 80)
   - Medium Laser × 3
+- **Source:** XTRO Primitives IV - Age of War
 - **Battle Value:** 1453
 
 ## Emperor EMP-5A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2502)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -23,10 +24,11 @@
   - Large Laser × 2
   - AC/5 × 2 (ammo: 40)
   - Medium Laser × 3
+- **Source:** TRO 3058 - Age of War
 - **Battle Value:** 1830
 
 ## Emperor EMP-6A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2612)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -39,10 +41,11 @@
   - Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1969
 
 ## Emperor EMP-6A (Nerran)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3064)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -58,7 +61,7 @@
 - **Battle Value:** 2247
 
 ## Emperor EMP-6D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -70,10 +73,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2382
 
 ## Emperor EMP-6L
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 (4) / 5 (6) / 3
@@ -87,10 +91,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2681
 
 ## Emperor EMP-6M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 (4) / 5 (6) / 3, Light
@@ -104,10 +109,11 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2090
 
 ## Emperor EMP-6S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -119,10 +125,11 @@
   - Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2065
 
 ## Emperor EMP-7L
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 (4) / 5 (6) / 0
@@ -136,10 +143,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2179
 
 ## Emperor EMP-6ME 'Mercury Elite'
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Light
@@ -154,7 +162,7 @@
 - **Battle Value:** 2004
 
 ## Emperor EMP-8L
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3127)
 - **Chassis:** 90 tons
 - **Movement:** 3 (4) / 5 (6) / 0
@@ -168,5 +176,6 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2385
 

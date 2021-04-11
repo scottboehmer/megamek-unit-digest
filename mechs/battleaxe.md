@@ -1,6 +1,6 @@
 # BattleAxe
 ## BattleAxe BKX-1X
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2459)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 0
@@ -12,10 +12,11 @@
   - LRM 5 × 2 (ammo: 24)
   - SRM 6 (ammo: 15)
   - Machine Gun × 2 (ammo: 100)
+- **Source:** XTRO Primitives II - Age of War
 - **Battle Value:** 1079
 
 ## BattleAxe BKX-7K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4
@@ -25,10 +26,11 @@
   - PPC × 2
   - LRM 5 × 2 (ammo: 24)
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3075
 - **Battle Value:** 1329
 
 ## BattleAxe BKX-7NC
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2480)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -38,10 +40,11 @@
   - PPC × 2
   - LRM 5 × 4 (ammo: 24)
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3075
 - **Battle Value:** 1252
 
 ## BattleAxe BKX-8D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -53,5 +56,6 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3075
 - **Battle Value:** 1592
 

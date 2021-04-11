@@ -1,6 +1,6 @@
 # Bakeneko
 ## Bakeneko BKN-1K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3100)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -13,5 +13,6 @@
   - ER Medium Laser
 - **Equipment:**
   - Clan MASC
+- **Source:** Hist : WOTRA
 - **Battle Value:** 1976
 

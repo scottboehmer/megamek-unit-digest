@@ -1,6 +1,6 @@
 # Crossbow
 ## Crossbow CRS-X
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2468)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0
@@ -11,10 +11,11 @@
   - Medium Laser × 2
   - LRM 5 × 4 (ammo: 48)
   - Large Laser
+- **Source:** XTRO Primitives II - Age of War
 - **Battle Value:** 969
 
 ## Crossbow CRS-6B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2473)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -24,10 +25,11 @@
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
   - PPC
+- **Source:** TRO 3075
 - **Battle Value:** 1210
 
 ## Crossbow CRS-6C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2481)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -37,6 +39,7 @@
   - Medium Laser
   - AC/10 (ammo: 10)
   - PPC
+- **Source:** TRO 3075
 - **Battle Value:** 1204
 
 ## Crossbow Prime
@@ -50,6 +53,7 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1829
 
 ## Crossbow A
@@ -65,6 +69,7 @@
   - LRM 5 × 2 (ammo: 48)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1797
 
 ## Crossbow B
@@ -78,6 +83,7 @@
   - Streak SRM 6 × 4 (ammo: 60)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1687
 
 ## Crossbow H
@@ -94,6 +100,7 @@
   - Light Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1707
 
 ## Crossbow C
@@ -109,10 +116,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1557
 
 ## Crossbow CRS-9A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -122,6 +130,7 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser × 2
   - ER Large Laser
+- **Source:** TRO 3075
 - **Battle Value:** 1583
 
 ## Crossbow E
@@ -136,5 +145,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1558
 

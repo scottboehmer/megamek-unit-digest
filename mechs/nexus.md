@@ -1,6 +1,6 @@
 # Nexus
 ## Nexus NXS1-A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 4
@@ -12,10 +12,11 @@
   - Small Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 643
 
 ## Nexus NXS1-B
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 5
@@ -26,5 +27,6 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 715
 

@@ -10,6 +10,7 @@
   - Medium Laser × 2
   - ER PPC
   - SRM 4 × 2 (ammo: 25)
+- **Source:** TRO 3060
 - **Battle Value:** 983
 
 ## Arctic Fox AF1A
@@ -22,6 +23,7 @@
 - **Weapons:**
   - Medium Pulse Laser × 4
   - Small Pulse Laser × 3
+- **Source:** TRO 3060
 - **Battle Value:** 858
 
 ## Arctic Fox AF1B
@@ -34,6 +36,7 @@
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser
+- **Source:** TRO 3060
 - **Battle Value:** 735
 
 ## Arctic Fox AF1C
@@ -46,6 +49,7 @@
 - **Weapons:**
   - ER PPC
   - Large Pulse Laser
+- **Source:** TRO 3060
 - **Battle Value:** 948
 
 ## Arctic Fox AF1D
@@ -57,6 +61,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
+- **Source:** TRO 3060
 - **Battle Value:** 744
 
 ## Arctic Fox AF1E
@@ -69,6 +74,7 @@
 - **Weapons:**
   - Light PPC × 4
   - ER Medium Laser × 2
+- **Source:** TRO 3060
 - **Battle Value:** 1094
 
 ## Arctic Fox AF1F
@@ -81,5 +87,6 @@
 - **Weapons:**
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM)
   - ER Medium Laser × 3
+- **Source:** TRO 3060
 - **Battle Value:** 891
 

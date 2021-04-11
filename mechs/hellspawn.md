@@ -1,6 +1,6 @@
 # Hellspawn
 ## Hellspawn HSN-7D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -11,10 +11,11 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 1220
 
 ## Hellspawn HSN-8E
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -26,10 +27,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 1341
 
 ## Hellspawn HSN-9F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -38,10 +40,11 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - MRM 20 × 2 (ammo: 24)
+- **Source:** TRO 3067
 - **Battle Value:** 1118
 
 ## Hellspawn HSN-7D2 (Halperin)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -58,7 +61,7 @@
 - **Battle Value:** 1431
 
 ## Hellspawn HSN-10G
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -68,10 +71,11 @@
   - Medium Pulse Laser × 2
   - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
   - Light PPC
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1188
 
 ## Hellspawn HSN-10SR
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -84,5 +88,6 @@
   - Beagle Active Probe
   - TAG
   - Guardian ECM Suite
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1411
 

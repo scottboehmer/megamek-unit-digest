@@ -1,6 +1,6 @@
 # Mad Cat Mk II
 ## Mad Cat Mk II (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3062)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
@@ -12,10 +12,11 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 3135
 
 ## Mad Cat Mk II 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
@@ -28,10 +29,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2822
 
 ## Mad Cat Mk II 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3082)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -44,10 +46,11 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** 3067 Unabridged
 - **Battle Value:** 3168
 
 ## Mad Cat Mk II Enhanced
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3083)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 5 / 4, XL
@@ -62,7 +65,7 @@
 - **Battle Value:** 2732
 
 ## Mad Cat Mk II 4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3090)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -74,10 +77,11 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2962
 
 ## Mad Cat Mk II 5
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3109)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -90,5 +94,6 @@
 - **Equipment:**
   - CASE
   - Light Active Probe
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2491
 

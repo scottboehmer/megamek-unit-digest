@@ -1,6 +1,6 @@
 # Calliope
 ## Calliope CAL-1MAF
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3127)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -12,6 +12,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Capellan Confederation - Late Republic
 - **Battle Value:** 1125
 
 ## Calliope CAL-1MAFSW 'Snow White'
@@ -27,5 +28,6 @@
   - Clan Improved Heavy Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1562
 

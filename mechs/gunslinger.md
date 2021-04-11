@@ -1,6 +1,6 @@
 # Gunslinger
 ## Gunslinger GUN-1ERD
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 2, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2286
 
 ## Gunslinger GUN-2ERD
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -29,10 +30,11 @@
 - **Equipment:**
   - C3 Master
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2423
 
 ## Gunslinger GUN-1ERD (Jared)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -50,7 +52,7 @@
 - **Battle Value:** 1813
 
 ## Gunslinger GUN-2ERDr
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -62,5 +64,6 @@
   - ER Small Laser
 - **Equipment:**
   - C3 BoostedMaster
+- **Source:** Jihad
 - **Battle Value:** 2371
 

@@ -1,6 +1,6 @@
 # Jaguar
 ## Jaguar 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3123)
 - **Chassis:** 35 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -16,5 +16,6 @@
   - Targeting Computer
   - Active Probe
   - Light TAG
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 1742
 

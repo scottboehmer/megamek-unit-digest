@@ -15,6 +15,7 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2157
 
 ## Hauptmann HA1-OA
@@ -30,6 +31,7 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2311
 
 ## Hauptmann HA1-OB
@@ -45,6 +47,7 @@
   - Ultra AC/20 (ammo: 5)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2138
 
 ## Hauptmann HA1-OC
@@ -63,6 +66,7 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2287
 
 ## Hauptmann HA1-OD
@@ -81,6 +85,7 @@
   - CASE
   - C3 Master
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 2359
 
 ## Hauptmann HA1-OE
@@ -96,6 +101,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2298
 
 ## Hauptmann HA1-OM
@@ -111,6 +117,7 @@
 - **Equipment:**
   - CASE
   - C3 BoostedMaster
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2214
 
 ## Hauptmann HA1-OT
@@ -127,5 +134,6 @@
 - **Equipment:**
   - CASE
   - Clan CASE II
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 3031
 

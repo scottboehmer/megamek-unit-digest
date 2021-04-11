@@ -1,6 +1,6 @@
 # Raven II
 ## Raven II RVN-5X
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3123)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -13,5 +13,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - Bloodhound Active Probe
+- **Source:** TRO 3145 Capellan Confederation - Late Republic
 - **Battle Value:** 1858
 

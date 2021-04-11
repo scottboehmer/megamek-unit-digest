@@ -1,6 +1,6 @@
 # Lobo
 ## Lobo (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3067
 - **Battle Value:** 1715
 
 ## Lobo 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3072)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -30,10 +31,11 @@
   - Large Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1869
 
 ## Lobo 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3077)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -48,5 +50,6 @@
 - **Equipment:**
   - MG Array × 2
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1784
 

@@ -1,6 +1,6 @@
 # Mauler
 ## Mauler MAL-1R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -12,10 +12,11 @@
   - AC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1460
 
 ## Mauler MAL-C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -28,10 +29,11 @@
 - **Equipment:**
   - C3 Slave
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1473
 
 ## Mauler MAL-2R
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
@@ -43,10 +45,11 @@
   - Ultra AC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1586
 
 ## Mauler MAL-3R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -58,10 +61,11 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1877
 
 ## Mauler MAL-1K
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -71,5 +75,6 @@
   - Snub-Nose PPC × 2
   - LRM 15 × 2 (ammo: 32)
   - Light AC/5 × 4 (ammo: 80)
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1622
 

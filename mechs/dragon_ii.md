@@ -1,6 +1,6 @@
 # Dragon II
 ## Dragon II DRG-11K
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3099)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -13,10 +13,11 @@
   - Arrow IV (ammo: 15)
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Draconis Combine - Early Republic
 - **Battle Value:** 1598
 
 ## Dragon II DRG-11R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3102)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -31,5 +32,6 @@
   - MASC
   - CASE II
   - Clan B-Pod
+- **Source:** TRO 3145 Draconis Combine - Late Republic
 - **Battle Value:** 2183
 

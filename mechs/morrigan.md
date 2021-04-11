@@ -1,6 +1,6 @@
 # Morrigan
 ## Morrigan (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3083)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -13,10 +13,11 @@
   - Active Probe
   - CASE
   - Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 1523
 
 ## Morrigan 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3084)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -29,10 +30,11 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 1874
 
 ## Morrigan 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3085)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -45,10 +47,11 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1390
 
 ## Morrigan 4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3111)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -59,10 +62,11 @@
   - ER Small Laser × 10
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2063
 
 ## Morrigan 5
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3124)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -74,5 +78,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1904
 

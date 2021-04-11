@@ -30,6 +30,7 @@
   - MG Array × 2
   - Active Probe
   - CASE
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 436
 
 ## Butcherbird (Ion Sparrow) B
@@ -45,6 +46,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 626
 
 ## Butcherbird (Ion Sparrow) C
@@ -60,6 +62,7 @@
 - **Equipment:**
   - Partial Wing
   - Targeting Computer
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 889
 
 ## Butcherbird (Ion Sparrow) D
@@ -75,5 +78,6 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Partial Wing
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 1121
 

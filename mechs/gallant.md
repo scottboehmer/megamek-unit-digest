@@ -1,6 +1,6 @@
 # Gallant
 ## Gallant GLT-7-0
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 5, XL
@@ -11,10 +11,11 @@
   - MRM 20 (ammo: 12)
   - Streak SRM 2 (ammo: 50)
   - Flamer
+- **Source:** Jihad
 - **Battle Value:** 1436
 
 ## Gallant GLT-8-0
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 5, XL
@@ -25,10 +26,11 @@
   - Medium X-Pulse Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Gallant GLT-10-0
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3130)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 5, Light
@@ -41,5 +43,6 @@
 - **Equipment:**
   - Remote Sensor Dispenser
   - CASE II
+- **Source:** RS 3145 NTNU
 - **Battle Value:** 1537
 

@@ -1,6 +1,6 @@
 # Falcon
 ## Falcon FLC-4N
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2582)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 6
@@ -10,10 +10,11 @@
   - Small Laser × 2
   - Medium Laser
   - Machine Gun × 2 (ammo: 200)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 610
 
 ## Falcon FLC-4Nb
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2776)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -25,7 +26,7 @@
 - **Battle Value:** 947
 
 ## Falcon FLC-4Nb-PP
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2792)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -37,7 +38,7 @@
 - **Battle Value:** 881
 
 ## Falcon FLC-4Nb-PP2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2795)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -50,7 +51,7 @@
 - **Battle Value:** 947
 
 ## Falcon FLC-4Nb (Saho)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -62,7 +63,7 @@
 - **Battle Value:** 774
 
 ## Falcon FLC-4P
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 5
@@ -73,10 +74,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 649
 
 ## Falcon FLC-5P
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 (12) / 5, Light
@@ -88,10 +90,11 @@
 - **Equipment:**
   - Targeting Computer
   - MASC
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 945
 
 ## Falcon FLC-6C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 5
@@ -104,5 +107,6 @@
   - Anti-Missile System (ammo: 24)
   - Targeting Computer
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1290
 

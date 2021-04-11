@@ -1,6 +1,6 @@
 # Marauder
 ## Marauder MAD-1R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2612)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -12,10 +12,11 @@
   - AC/5 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1420
 
 ## Marauder MAD-2R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2760)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -27,10 +28,11 @@
   - AC/5 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1630
 
 ## Marauder MAD-3R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -40,10 +42,11 @@
   - PPC × 2
   - Medium Laser × 2
   - AC/5 (ammo: 20)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1363
 
 ## Marauder MAD-3D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2834)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -53,10 +56,11 @@
   - PPC × 2
   - Medium Laser × 2
   - Large Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1470
 
 ## Marauder MAD-3M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2873)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -66,10 +70,11 @@
   - Large Laser × 2
   - Medium Laser × 2
   - AC/5 (ammo: 20)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1335
 
 ## Marauder MAD-3L
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2905)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -80,10 +85,11 @@
   - Medium Laser × 2
   - PPC
   - AC/5 (ammo: 20)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1369
 
 ## Marauder (Bounty Hunter-3015)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3015)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 3
@@ -92,10 +98,11 @@
 - **Weapons:**
   - PPC × 3
   - Medium Laser × 5
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
 - **Battle Value:** 1919
 
 ## Marauder Bounty Hunter 3015
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3015)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 3
@@ -104,10 +111,11 @@
 - **Weapons:**
   - PPC × 3
   - Medium Laser × 5
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
 - **Battle Value:** 1919
 
 ## Marauder MAD-SD (Douglass)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -120,7 +128,7 @@
 - **Battle Value:** 1459
 
 ## Marauder (Bounty Hunter-3044)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3044)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -130,10 +138,11 @@
   - ER PPC × 2
   - Medium Laser × 3
   - Gauss Rifle (ammo: 16)
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
 - **Battle Value:** 2103
 
 ## Marauder Bounty Hunter 3044
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3044)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -143,10 +152,11 @@
   - ER PPC × 2
   - Medium Laser × 3
   - Gauss Rifle (ammo: 16)
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
 - **Battle Value:** 2103
 
 ## Marauder MAD-5D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -159,10 +169,11 @@
   - Large Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1787
 
 ## Marauder C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3050)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -174,10 +185,11 @@
   - Ultra AC/5 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1711
 
 ## Marauder MAD-5M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -189,10 +201,11 @@
   - LB 10-X AC (ammo: 10)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1471
 
 ## Marauder MAD-5S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -204,10 +217,11 @@
   - Gauss Rifle (ammo: 8)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1799
 
 ## Marauder MAD-5CS
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -217,10 +231,11 @@
   - ER PPC × 2
   - Medium Pulse Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+- **Source:** Clan Invasion
 - **Battle Value:** 1648
 
 ## Marauder MAD-5D-DC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -236,7 +251,7 @@
 - **Battle Value:** 1787
 
 ## Marauder MAD-5L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 75 tons
 - **Movement:** 4 (5) / 6 (8) / 0
@@ -249,10 +264,11 @@
   - ER PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Civil War
 - **Battle Value:** 2244
 
 ## Marauder MAD-5R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -266,10 +282,11 @@
   - CASE
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1877
 
 ## Marauder MAD-5T
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -282,10 +299,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1750
 
 ## Marauder MAD-7D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -299,10 +317,11 @@
   - Targeting Computer
   - CASE
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1986
 
 ## Marauder MAD-9M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -314,10 +333,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** Jihad
 - **Battle Value:** 1704
 
 ## Marauder MAD-9M2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -329,10 +349,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** Jihad
 - **Battle Value:** 1875
 
 ## Marauder MAD-9S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -347,10 +368,11 @@
   - Beagle Active Probe
   - CASE
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1786
 
 ## Marauder MAD-6L
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 75 tons
 - **Movement:** 4 (5) / 6 (8) / 0
@@ -362,6 +384,7 @@
   - PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 2322
 
 ## Marauder MAD-7D (Von Staskov)
@@ -378,10 +401,11 @@
   - Light AC/5 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2150
 
 ## Marauder MAD-9W
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 5, Light
@@ -394,10 +418,11 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
+- **Source:** Jihad
 - **Battle Value:** 1788
 
 ## Marauder MAD-7M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -412,7 +437,7 @@
 - **Battle Value:** 1908
 
 ## Marauder MAD-9W2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 5, Light
@@ -426,10 +451,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1868
 
 ## Marauder MAD-7S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -444,7 +470,7 @@
 - **Battle Value:** 1903
 
 ## Marauder MAD-2T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3092)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -459,7 +485,7 @@
 - **Battle Value:** 1646
 
 ## Marauder MAD-7C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3103)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -476,7 +502,7 @@
 - **Battle Value:** 1810
 
 ## Marauder MAD-7R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3103)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -489,10 +515,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** 1832
 
 ## Marauder MAD-9D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3125)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -505,10 +532,11 @@
   - Silver Bullet (ammo: 16)
 - **Equipment:**
   - Radical Heat Sink System
+- **Source:** RS 3145 NY NU
 - **Battle Value:** 1967
 
 ## Marauder Bounty Hunter 3138
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3138)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -523,7 +551,7 @@
 - **Battle Value:** 2708
 
 ## Marauder MAD-11D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3140)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -536,6 +564,7 @@
   - Silver Bullet (ammo: 16)
 - **Equipment:**
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** 2263
 
 ## Marauder (Red Hunter-3146)
@@ -555,7 +584,7 @@
 - **Battle Value:** 2509
 
 ## Marauder Red Hunter
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3146)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 (8) / 0, XL
@@ -571,7 +600,7 @@
 - **Battle Value:** 2509
 
 ## Marauder Red Hunter 3146
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3146)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 (8) / 0, XL

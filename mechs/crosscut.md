@@ -1,6 +1,6 @@
 # Crosscut
 ## Crosscut ED-X1 LoggerMech
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2650)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 5 / 8 / 0
@@ -12,10 +12,11 @@
 - **Equipment:**
   - Lift Hoist
   - Cargo
+- **Source:** RS IA - Star League
 - **Battle Value:** unknown
 
 ## Crosscut ED-X2 ForestryMech
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2715)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -27,10 +28,11 @@
 - **Equipment:**
   - Lift Hoist
   - Cargo × 2
+- **Source:** RS OK - Star League
 - **Battle Value:** unknown
 
 ## Crosscut ED-X4 LoggerMech
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2786)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -42,10 +44,11 @@
 - **Equipment:**
   - Lift Hoist
   - Cargo
+- **Source:** RS IA - Early Succession War
 - **Battle Value:** unknown
 
 ## Crosscut ED-X4K LoggerMech
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2786)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, Fuel Cell
@@ -56,10 +59,11 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - Cargo
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Crosscut ED-X2M LoggerMech MOD
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -71,10 +75,11 @@
   - Chainsaw
 - **Equipment:**
   - Cargo × 2
+- **Source:** RS IA - Early Succession War
 - **Battle Value:** unknown
 
 ## Crosscut ED-X2 (Flamer)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2810)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -85,10 +90,11 @@
   - Chainsaw
 - **Equipment:**
   - Cargo × 2
+- **Source:** RS OK - Early Succession War
 - **Battle Value:** unknown
 
 ## Crosscut ED-X4X LoggerMech
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2901)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -97,6 +103,7 @@
 - **Heat Sinks:** 0 (0)
 - **Weapons:**
   - Chainsaw × 2
+- **Source:** RS IA - Late Succession War
 - **Battle Value:** unknown
 
 ## Crosscut ED-X4D DemolitionMech
@@ -111,6 +118,7 @@
   - Dual Saw
 - **Equipment:**
   - Lift Hoist
+- **Source:** RS IA - Late Succession War
 - **Battle Value:** unknown
 
 ## Crosscut ED-X4B DemolitionMech
@@ -126,10 +134,11 @@
 - **Equipment:**
   - Cargo
   - Lift Hoist
+- **Source:** RS IA - Late Succession War
 - **Battle Value:** unknown
 
 ## Crosscut ED-X4M LoggerMech MOD
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC
@@ -139,10 +148,11 @@
   - Rocket 10 × 8
 - **Equipment:**
   - Lift Hoist
+- **Source:** RS IA - Jihad
 - **Battle Value:** unknown
 
 ## Crosscut ED-X5M LoggerMech MOD
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0, Fuel Cell
@@ -151,10 +161,11 @@
 - **Weapons:**
   - AC/2 (ammo: 45)
   - Chainsaw
+- **Source:** RS IA - Jihad
 - **Battle Value:** unknown
 
 ## Crosscut ED-XX 'Ichabod'
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0
@@ -168,10 +179,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** XTR Gladiators - Jihad
 - **Battle Value:** unknown
 
 ## Crosscut ED-X5M-B LoggerMech MOD
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5 / 0
@@ -180,5 +192,6 @@
 - **Weapons:**
   - Snub-Nose PPC
   - Dual Saw
+- **Source:** RS VA - Jihad
 - **Battle Value:** unknown
 

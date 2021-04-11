@@ -1,6 +1,6 @@
 # Kodiak
 ## Kodiak (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3001)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -13,10 +13,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2927
 
 ## Kodiak 5
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3052)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -28,10 +29,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 3067
 
 ## Kodiak 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3062)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -44,10 +46,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2856
 
 ## Kodiak 4
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3066)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -59,10 +62,11 @@
   - LB 20-X AC (ammo: 5 Cluster, 5 Standard)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2728
 
 ## Kodiak (Cale)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3068)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -82,7 +86,7 @@
 - **Battle Value:** 2535
 
 ## Kodiak 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3068)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -94,5 +98,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2615
 

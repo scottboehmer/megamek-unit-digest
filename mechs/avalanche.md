@@ -11,6 +11,7 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1540
 
 ## Avalanche AVL-1OA
@@ -26,6 +27,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1484
 
 ## Avalanche AVL-1OB
@@ -41,6 +43,7 @@
   - Thunderbolt 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** unknown
 
 ## Avalanche AVL-1OC
@@ -56,6 +59,7 @@
   - Small X-Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1341
 
 ## Avalanche AVL-1ON
@@ -71,6 +75,7 @@
 - **Equipment:**
   - CASE
   - Clan Targeting Computer
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1873
 
 ## Avalanche AVL-1OR
@@ -86,5 +91,6 @@
   - Clan ATM 3 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2043
 

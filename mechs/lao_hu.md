@@ -1,6 +1,6 @@
 # Lao Hu
 ## Lao Hu LHU-2B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -10,10 +10,11 @@
   - ER Large Laser
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
   - LRM 15 (ammo: 16)
+- **Source:** TRO 3067
 - **Battle Value:** 1771
 
 ## Lao Hu LHU-3B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -25,10 +26,11 @@
   - LRM 10 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - C3 Master
+- **Source:** TRO 3067
 - **Battle Value:** 1497
 
 ## Lao Hu LHU-3C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -38,10 +40,11 @@
   - ER Large Laser
   - Gauss Rifle (ammo: 16)
   - LRM 5 × 3 (ammo: 72)
+- **Source:** TRO 3067
 - **Battle Value:** 1878
 
 ## Lao Hu LHU-3L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -53,10 +56,11 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Equipment:**
   - Targeting Computer
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1995
 
 ## Lao Hu LHU-4E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL

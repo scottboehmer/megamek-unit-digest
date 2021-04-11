@@ -1,6 +1,6 @@
 # Stinger IIC
 ## Stinger IIC (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3085)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -14,7 +14,7 @@
 - **Battle Value:** 730
 
 ## Stinger IIC 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3086)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5

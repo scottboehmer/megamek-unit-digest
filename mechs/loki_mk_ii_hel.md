@@ -13,6 +13,7 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2189
 
 ## Loki Mk II (Hel) A
@@ -32,5 +33,6 @@
 - **Equipment:**
   - CASE
   - Angel ECM Suite
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2249
 

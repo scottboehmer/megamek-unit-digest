@@ -1,6 +1,6 @@
 # Hellstar
 ## Hellstar (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3079)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -8,10 +8,11 @@
 - **Heat Sinks:** 30 (60)
 - **Weapons:**
   - ER PPC × 4
+- **Source:** Jihad
 - **Battle Value:** 3084
 
 ## Hellstar 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3079)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -21,10 +22,11 @@
   - ER PPC × 4
 - **Equipment:**
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 3545
 
 ## Hellstar 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3079)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -37,5 +39,6 @@
   - Targeting Computer
   - Active Probe
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 3025
 

@@ -1,6 +1,6 @@
 # Valiant
 ## Valiant V4-LNT-K7
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 30 tons
 - **Movement:** 7 / 11 (14) / 0
@@ -11,10 +11,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - MASC
+- **Source:** TRO 3075
 - **Battle Value:** 894
 
 ## Valiant V4-LNT-J3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 30 tons
 - **Movement:** 7 / 11 / 0, Light
@@ -27,10 +28,11 @@
   - ER Small Laser × 3
 - **Equipment:**
   - Small Shield
+- **Source:** TRO 3075
 - **Battle Value:** 926
 
 ## Valiant VLN-3T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 30 tons
 - **Movement:** 7 / 11 (14) / 0
@@ -42,10 +44,11 @@
 - **Equipment:**
   - Small Shield
   - MASC
+- **Source:** TRO 3075
 - **Battle Value:** 852
 
 ## Valiant VAL-NT-JX 'Hot Knife'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, Light

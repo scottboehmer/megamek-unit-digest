@@ -1,6 +1,6 @@
 # Panther
 ## Panther PNT-8Z
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2739)
 - **Chassis:** 35 tons
 - **Movement:** 4 / 6 / 4
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Large Laser
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 741
 
 ## Panther PNT-9R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2759)
 - **Chassis:** 35 tons
 - **Movement:** 4 / 6 / 4
@@ -21,6 +22,7 @@
 - **Weapons:**
   - PPC
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 769
 
 ## Panther PNT-9ALAG
@@ -33,10 +35,11 @@
 - **Weapons:**
   - PPC
   - SRM 4 (ammo: 25)
+- **Source:** Star League
 - **Battle Value:** 804
 
 ## Panther PNT-10K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -47,10 +50,11 @@
   - SRM 4 w/ Artemis IV (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 838
 
 ## Panther PNT-C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -62,10 +66,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 833
 
 ## Panther PNT-10KA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -76,10 +81,11 @@
   - SRM 4 w/ Artemis IV (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 797
 
 ## Panther PNT-CA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -91,10 +97,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 787
 
 ## Panther PNT-12A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -107,10 +114,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 982
 
 ## Panther PNT-14S
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6
@@ -120,10 +128,11 @@
 - **Weapons:**
   - Snub-Nose PPC
   - Rocket 15 × 2
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 825
 
 ## Panther PNT-16K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -134,10 +143,11 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 988
 
 ## Panther PNT-10K2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -148,10 +158,11 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 913
 
 ## Panther PNT-12K2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -162,10 +173,11 @@
   - MRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 930
 
 ## Panther PNT-13K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 8, XL
@@ -175,10 +187,11 @@
 - **Weapons:**
   - Plasma Rifle (ammo: 10)
   - SRM 4 (ammo: 25)
+- **Source:** Jihad
 - **Battle Value:** 996
 
 ## Panther PNT-12K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -192,7 +205,7 @@
 - **Battle Value:** 930
 
 ## Panther PNT-12KC
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3139)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -203,5 +216,6 @@
   - Medium Laser
 - **Equipment:**
   - C3 Boosted Slave
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1036
 

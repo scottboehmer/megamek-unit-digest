@@ -1,6 +1,6 @@
 # Phoenix Hawk IIC
 ## Phoenix Hawk IIC (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2851)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -11,10 +11,11 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2057
 
 ## Phoenix Hawk IIC 2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2852)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -24,10 +25,11 @@
   - LRM 20 × 4 (ammo: 48)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2892
 
 ## Phoenix Hawk IIC 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -39,10 +41,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** Civil War
 - **Battle Value:** 2448
 
 ## Phoenix Hawk IIC 4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3065)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -52,10 +55,11 @@
   - ATM 9 × 4 (ammo: 21 Standard, 14 ER, 14 HE)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 2483
 
 ## Phoenix Hawk IIC 5
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -66,10 +70,11 @@
   - HAG 20 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2350
 
 ## Phoenix Hawk IIC 6
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, XL
@@ -80,10 +85,11 @@
   - Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 2490
 
 ## Phoenix Hawk IIC 7
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3078)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -95,10 +101,11 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2219
 
 ## Phoenix Hawk IIC 8
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3086)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XXL
@@ -109,5 +116,6 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 2903
 

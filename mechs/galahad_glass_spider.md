@@ -1,6 +1,6 @@
 # Galahad (Glass Spider)
 ## Galahad (Glass Spider) (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2834)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
   - Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1825
 
 ## Galahad (Glass Spider) 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2952)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -25,10 +26,11 @@
   - Small Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2038
 
 ## Galahad (Glass Spider) 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3065)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -40,5 +42,6 @@
   - Heavy Medium Laser × 3
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2508
 

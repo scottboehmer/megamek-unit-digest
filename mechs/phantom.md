@@ -15,6 +15,7 @@
   - TAG
   - ECM Suite
   - Active Probe
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1159
 
 ## Phantom A
@@ -30,6 +31,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1410
 
 ## Phantom B
@@ -46,6 +48,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1096
 
 ## Phantom C
@@ -61,6 +64,7 @@
   - Flamer
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1590
 
 ## Phantom D
@@ -76,6 +80,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1581
 
 ## Phantom E
@@ -90,6 +95,7 @@
   - ATM 3 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 975
 
 ## Phantom H
@@ -105,5 +111,6 @@
   - Flamer
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1178
 

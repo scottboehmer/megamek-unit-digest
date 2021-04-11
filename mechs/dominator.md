@@ -1,6 +1,6 @@
 # Dominator
 ## Dominator (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3148)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -15,10 +15,11 @@
   - CASE
   - Targeting Computer
   - Supercharger
+- **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 3018
 
 ## Dominator 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3149)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -32,5 +33,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 2906
 

@@ -1,6 +1,6 @@
 # Highlander
 ## Highlander HGN-732
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2592)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -13,10 +13,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 2227
 
 ## Highlander HGN-732b
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2598)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -29,10 +30,11 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2335
 
 ## Highlander HGN-732 (Jorgensson)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (2829)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 2
@@ -44,10 +46,11 @@
   - LRM 20 w/ Artemis IV (ammo: 0)
 - **Equipment:**
   - CASE
+- **Source:** OTP Widowmaker
 - **Battle Value:** 2481
 
 ## Highlander HGN-733
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2866)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -58,10 +61,11 @@
   - AC/10 (ammo: 20)
   - LRM 20 (ammo: 18)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1801
 
 ## Highlander HGN-733C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2866)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -72,10 +76,11 @@
   - AC/20 (ammo: 10)
   - LRM 20 (ammo: 12)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1857
 
 ## Highlander HGN-733P
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2866)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -86,10 +91,11 @@
   - PPC
   - LRM 20 (ammo: 18)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1865
 
 ## Highlander HGN-736
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -103,10 +109,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2255
 
 ## Highlander HGN-694
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Light
@@ -118,10 +125,11 @@
   - Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2358
 
 ## Highlander HGN-734
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3, Light
@@ -135,10 +143,11 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2214
 
 ## Highlander HGN-738
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -152,10 +161,11 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2413
 
 ## Highlander HGN-641-X-2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 90 tons (Reinforced)
 - **Movement:** 3 / 5 / 3, XL
@@ -170,10 +180,11 @@
   - CASE II
   - Angel ECM Suite
   - C3 Slave
+- **Source:** XTRO ComStar - Jihad
 - **Battle Value:** 2152
 
 ## Highlander HGN-740
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3115)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -187,5 +198,6 @@
 - **Equipment:**
   - CASE II
   - M-Pod × 4
+- **Source:** Dark Age
 - **Battle Value:** 2232
 

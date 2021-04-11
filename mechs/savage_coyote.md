@@ -14,6 +14,7 @@
   - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2613
 
 ## Savage Coyote A
@@ -31,6 +32,7 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3067
 - **Battle Value:** 2852
 
 ## Savage Coyote B
@@ -48,6 +50,7 @@
   - ATM 3 × 4 (ammo: 40 Standard, 40 HE, 20 ER)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2284
 
 ## Savage Coyote C
@@ -65,6 +68,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 3189
 
 ## Savage Coyote Z
@@ -83,6 +87,7 @@
   - CASE
   - CASE II
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 3026
 
 ## Savage Coyote J
@@ -99,6 +104,7 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2554
 
 ## Savage Coyote W
@@ -116,5 +122,6 @@
 - **Equipment:**
   - Light Active Probe
   - Light TAG
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2792
 

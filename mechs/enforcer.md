@@ -1,6 +1,6 @@
 # Enforcer
 ## Enforcer ENF-4R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2777)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 4
@@ -10,10 +10,11 @@
   - Large Laser
   - AC/10 (ammo: 10)
   - Small Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1032
 
 ## Enforcer ENF-5D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -25,10 +26,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1308
 
 ## Enforcer ENF-5D (Daniel)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -40,5 +42,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** Starterbook: Sword and Dragon - Clan Invasion
 - **Battle Value:** 1738
 

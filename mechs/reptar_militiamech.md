@@ -11,5 +11,6 @@
   - Light Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** ISP 3
 - **Battle Value:** 514
 

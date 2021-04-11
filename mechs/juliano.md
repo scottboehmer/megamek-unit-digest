@@ -1,6 +1,6 @@
 # Juliano
 ## Juliano JLN-5A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3116)
 - **Chassis:** 90 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -13,5 +13,6 @@
   - ER Large Laser × 3
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 2105
 

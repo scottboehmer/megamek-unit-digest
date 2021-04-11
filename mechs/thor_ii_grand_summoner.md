@@ -12,6 +12,7 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2554
 
 ## Thor II (Grand Summoner) A
@@ -28,6 +29,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2473
 
 ## Thor II (Grand Summoner) B
@@ -45,6 +47,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2354
 
 ## Thor II (Grand Summoner) C
@@ -61,6 +64,7 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2351
 
 ## Thor II (Grand Summoner) D
@@ -77,5 +81,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2878
 

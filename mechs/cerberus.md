@@ -1,6 +1,6 @@
 # Cerberus
 ## Cerberus MR-V2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2001
 
 ## Cerberus MR-5M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -28,10 +29,11 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2057
 
 ## Cerberus MR-V3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -42,10 +44,11 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2094
 
 ## Cerberus MR-6B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -59,5 +62,6 @@
 - **Equipment:**
   - C3i
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2128
 

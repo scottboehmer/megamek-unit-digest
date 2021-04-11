@@ -1,6 +1,6 @@
 # Rakshasa
 ## Rakshasa MDG-1A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -11,10 +11,11 @@
   - Medium Laser × 2
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1795
 
 ## Rakshasa MDG-1B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -25,10 +26,11 @@
   - Medium Laser × 2
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1748
 
 ## Rakshasa MDG-2A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -38,10 +40,11 @@
   - RAC/5 (ammo: 60)
   - Large Pulse Laser
   - Medium Pulse Laser × 4
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1766
 
 ## Rakshasa MDG-1Ar
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -53,5 +56,6 @@
   - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1675
 

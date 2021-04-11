@@ -12,10 +12,11 @@
 - **Equipment:**
   - Searchlight
   - Cargo
+- **Source:** RS:VA IM Exo - Late Succession War
 - **Battle Value:** unknown
 
 ## CattleMaster CTL-3R2 'Hunter' IndustrialMech
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
@@ -26,10 +27,11 @@
   - Small Laser × 2
 - **Equipment:**
   - Searchlight
+- **Source:** RS:VA IM Exo - Late Succession War
 - **Battle Value:** 245
 
 ## CattleMaster CTL-3R3 SecurityMech
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 4 / 6 / 0, Fuel Cell
@@ -39,5 +41,6 @@
   - Medium Laser
   - Machine Gun × 2 (ammo: 100)
   - LRM 5 (ammo: 24)
+- **Source:** RS:VA IM Exo - Jihad
 - **Battle Value:** 358
 

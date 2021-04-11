@@ -12,6 +12,7 @@
   - ATM 6 × 2 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2266
 
 ## Flamberge A
@@ -28,6 +29,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 2575
 
 ## Flamberge B
@@ -45,6 +47,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 2750
 
 ## Flamberge C
@@ -64,10 +67,11 @@
   - CASE
   - TAG
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 2126
 
 ## Flamberge 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3087)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 7, XL
@@ -81,10 +85,11 @@
 - **Equipment:**
   - CASE
   - Partial Wing
+- **Source:** Dark Age
 - **Battle Value:** 2468
 
 ## Flamberge 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3087)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 7, XL
@@ -98,6 +103,7 @@
 - **Equipment:**
   - CASE
   - Partial Wing
+- **Source:** Dark Age
 - **Battle Value:** 2209
 
 ## Flamberge D
@@ -113,5 +119,6 @@
   - Inner Sphere Plasma Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2357
 

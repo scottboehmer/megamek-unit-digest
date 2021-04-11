@@ -1,6 +1,6 @@
 # Maelstrom
 ## Maelstrom MTR-5K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -13,10 +13,11 @@
   - Small Laser
 - **Equipment:**
   - TAG
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1694
 
 ## Maelstrom MTR-6E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -31,10 +32,11 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1806
 
 ## Maelstrom MTR-6K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -49,10 +51,11 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1678
 
 ## Maelstrom MTR-7K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3112)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -65,5 +68,6 @@
 - **Equipment:**
   - Supercharger
   - C3 Boosted Slave
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2462
 

@@ -1,6 +1,6 @@
 # Scarabus
 ## Scarabus SCB-9A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 846
 
 ## Scarabus SCB-9T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
@@ -30,5 +31,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 949
 

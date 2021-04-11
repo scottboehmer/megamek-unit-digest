@@ -15,6 +15,7 @@
   - CASE
   - Anti-Missile System (ammo: 24)
   - ECM Suite
+- **Source:** TRO 3145 The Clans - Civil War
 - **Battle Value:** 3101
 
 ## Tomahawk A
@@ -32,6 +33,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Civil War
 - **Battle Value:** 2762
 
 ## Tomahawk B
@@ -49,6 +51,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Civil War
 - **Battle Value:** 3323
 
 ## Tomahawk C
@@ -64,5 +67,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Civil War
 - **Battle Value:** 2985
 

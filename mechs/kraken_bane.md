@@ -1,6 +1,6 @@
 # Kraken (Bane)
 ## Kraken (Bane) (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2827)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -11,10 +11,11 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1950
 
 ## Kraken (Bane) 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3053)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -25,10 +26,11 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2502
 
 ## Kraken (Bane) 3
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3054)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -39,10 +41,11 @@
   - SRM 4 (iOS)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** unknown
 
 ## Kraken (Bane) 4
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3066)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -54,5 +57,6 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2709
 

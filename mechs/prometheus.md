@@ -1,6 +1,6 @@
 # Prometheus
 ## Prometheus (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3053)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -16,5 +16,6 @@
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** Unbound - Clan Invasion
 - **Battle Value:** 2401
 

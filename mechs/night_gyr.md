@@ -12,6 +12,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2830
 
 ## Night Gyr A
@@ -28,6 +29,7 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2680
 
 ## Night Gyr B
@@ -42,6 +44,7 @@
   - LB 2-X AC × 2 (ammo: 45)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2140
 
 ## Night Gyr C
@@ -58,6 +61,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2468
 
 ## Night Gyr D
@@ -73,6 +77,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2889
 
 ## Night Gyr E
@@ -89,6 +94,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2717
 
 ## Night Gyr H
@@ -106,6 +112,7 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2428
 
 ## Night Gyr F
@@ -123,5 +130,6 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2958
 

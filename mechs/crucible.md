@@ -1,6 +1,6 @@
 # Crucible
 ## Crucible (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3149)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
@@ -11,10 +11,11 @@
   - Micro Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 3108
 
 ## Crucible 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3149)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
@@ -30,7 +31,7 @@
 - **Battle Value:** 3598
 
 ## Crucible 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3150)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, XL
@@ -42,5 +43,6 @@
 - **Equipment:**
   - CASE
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** 3230
 

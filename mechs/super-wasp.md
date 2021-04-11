@@ -1,6 +1,6 @@
 # Super-Wasp
 ## Super-Wasp WSP-2A-X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3020)
 - **Chassis:** 25 tons
 - **Movement:** 6 / 9 (12) / 6
@@ -11,5 +11,6 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - Supercharger
+- **Source:** XTRO Succession Wars - Succession Wars
 - **Battle Value:** 635
 

@@ -1,6 +1,6 @@
 # Penetrator
 ## Penetrator PTR-4D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
@@ -11,10 +11,11 @@
   - Medium Pulse Laser × 6
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1687
 
 ## Penetrator PTR-4F
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
@@ -25,10 +26,11 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1564
 
 ## Penetrator PTR-6M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
@@ -39,10 +41,11 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1639
 
 ## Penetrator PTR-6S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
@@ -54,10 +57,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1689
 
 ## Penetrator PTR-6T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 4
@@ -69,5 +73,6 @@
 - **Equipment:**
   - Targeting Computer
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1994
 

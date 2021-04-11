@@ -1,6 +1,6 @@
 # Mjolnir
 ## Mjolnir MLR-B2
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 25 tons
 - **Movement:** 6 (7) / 9 (11) / 6
@@ -11,10 +11,11 @@
   - Mace
   - ER Small Laser
   - ER Medium Laser
+- **Source:** Jihad
 - **Battle Value:** 670
 
 ## Mjolnir MLR-BX
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 25 tons
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -25,5 +26,6 @@
 - **Weapons:**
   - Mace
   - SRM 4 × 2 (ammo: 25)
+- **Source:** Jihad
 - **Battle Value:** 612
 

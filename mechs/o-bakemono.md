@@ -1,6 +1,6 @@
 # O-Bakemono
 ## O-Bakemono OBK-M10
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1659
 
 ## O-Bakemono OBK-M11
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -28,10 +29,11 @@
 - **Equipment:**
   - C3 Slave
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1793
 
 ## O-Bakemono OBK-M12
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -44,5 +46,6 @@
 - **Equipment:**
   - CASE
   - C3 Master
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1732
 

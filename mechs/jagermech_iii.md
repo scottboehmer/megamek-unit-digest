@@ -1,6 +1,6 @@
 # JagerMech III
 ## JagerMech III JM6-D3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -10,10 +10,11 @@
   - PPC × 2
   - Ultra AC/2 × 2 (ammo: 45)
   - Medium Laser × 2
+- **Source:** TRO 3060
 - **Battle Value:** 1537
 
 ## JagerMech III JM6-D4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -23,5 +24,6 @@
   - PPC × 2
   - Light PPC × 2
   - Medium Laser × 4
+- **Source:** TRO 3060
 - **Battle Value:** 1831
 

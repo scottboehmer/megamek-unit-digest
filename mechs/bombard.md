@@ -1,6 +1,6 @@
 # Bombard
 ## Bombard BMB-010
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 2 / 3 / 0, XL
@@ -8,10 +8,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - AC/20 × 2 (ammo: 20)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 850
 
 ## Bombard BMB-013
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 2 / 3 / 0, XL
@@ -23,10 +24,11 @@
 - **Equipment:**
   - CASE
   - Spikes × 2
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** unknown
 
 ## Bombard BMB-1X
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XXL
@@ -37,5 +39,6 @@
 - **Equipment:**
   - M-Pod × 3
   - Supercharger
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1648
 

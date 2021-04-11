@@ -1,6 +1,6 @@
 # Cataphract
 ## Cataphract CTF-0X
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -13,10 +13,11 @@
 - **Equipment:**
   - EW Equipment
   - Remote Sensor Dispenser
+- **Source:** XTRO Succession Wars - Succession Wars
 - **Battle Value:** 1258
 
 ## Cataphract CTF-1X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -26,10 +27,11 @@
   - Medium Laser × 4
   - PPC
   - AC/10 (ammo: 10)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1316
 
 ## Cataphract CTF-2X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3027)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -40,10 +42,11 @@
   - Large Laser
   - Medium Laser × 2
   - AC/10 (ammo: 20)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1344
 
 ## Cataphract CTF-4X
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3029)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5 / 0
@@ -53,10 +56,11 @@
   - AC/5 × 2 (ammo: 80)
   - Large Laser
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1216
 
 ## Cataphract CTF-3D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -68,10 +72,11 @@
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1325
 
 ## Cataphract CTF-3L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 (8) / 0, XL
@@ -83,10 +88,11 @@
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - MASC
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1545
 
 ## Cataphract CTF-3X (Sara)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -99,10 +105,11 @@
   - RAC/5 (ammo: 60)
 - **Equipment:**
   - CASE
+- **Source:** Starterbook: Sword and Dragon - Civil War
 - **Battle Value:** 1734
 
 ## Cataphract CTF-4L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -115,10 +122,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2002
 
 ## Cataphract CTF-5MOC (Naomi)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -137,7 +145,7 @@
 - **Battle Value:** 2028
 
 ## Cataphract CTF-3LL
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 (8) / 0, XL
@@ -150,10 +158,11 @@
   - LB 10-X AC (ammo: 20)
 - **Equipment:**
   - MASC
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1664
 
 ## Cataphract CTF-5D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 6, Light
@@ -167,10 +176,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1742
 
 ## Cataphract CTF-5L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3132)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0

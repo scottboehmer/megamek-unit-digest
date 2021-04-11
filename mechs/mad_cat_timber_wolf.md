@@ -14,6 +14,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2737
 
 ## Mad Cat (Timber Wolf) A
@@ -30,6 +31,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2854
 
 ## Mad Cat (Timber Wolf) B
@@ -47,6 +49,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2224
 
 ## Mad Cat (Timber Wolf) C
@@ -64,6 +67,7 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2500
 
 ## Mad Cat (Timber Wolf) D
@@ -79,6 +83,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2682
 
 ## Mad Cat (Timber Wolf) N
@@ -112,6 +117,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2462
 
 ## Mad Cat (Timber Wolf) (Pryde)
@@ -128,6 +134,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2900
 
 ## Mad Cat (Timber Wolf) TC
@@ -144,6 +151,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 2903
 
 ## Mad Cat (Timber Wolf) E
@@ -159,6 +167,7 @@
 - **Equipment:**
   - CASE
   - Light TAG
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2444
 
 ## Mad Cat (Timber Wolf) H
@@ -174,10 +183,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2627
 
 ## Mad Cat (Timber Wolf) (Bounty Hunter)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -191,10 +201,11 @@
   - ECM Suite
   - Targeting Computer
   - Light TAG
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion
 - **Battle Value:** 2829
 
 ## Mad Cat (Timber Wolf) (Bounty Hunter 2)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3068)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3, XL
@@ -211,6 +222,7 @@
   - Targeting Computer
   - CASE
   - Coolant Pod
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
 - **Battle Value:** 2799
 
 ## Mad Cat (Timber Wolf) F
@@ -227,6 +239,7 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2764
 
 ## Mad Cat (Timber Wolf) Z
@@ -243,6 +256,7 @@
 - **Equipment:**
   - CASE
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 2923
 
 ## Mad Cat (Timber Wolf) W
@@ -278,6 +292,7 @@
   - Light Active Probe
   - TAG
   - CASE
+- **Source:** SO: Unending Faith - Late Republic Era
 - **Battle Value:** 2611
 
 ## Mad Cat (Timber Wolf) T

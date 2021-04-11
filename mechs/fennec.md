@@ -1,6 +1,6 @@
 # Fennec
 ## Fennec FEC-1CM
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -11,10 +11,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - C3 Master
+- **Source:** Jihad
 - **Battle Value:** 1395
 
 ## Fennec FEC-3C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -25,10 +26,11 @@
   - Light PPC × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** Dark Age
 - **Battle Value:** 1551
 
 ## Fennec FEC-5CM
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 55 tons (Endo Composite)
 - **Movement:** 5 / 8 / 0, XXL
@@ -41,5 +43,6 @@
   - Radical Heat Sink System
   - C3 BoostedMaster
   - Clan Light Active Probe
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1498
 

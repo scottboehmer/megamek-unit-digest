@@ -1,6 +1,6 @@
 # Jackal
 ## Jackal JA-KL-1532
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -11,10 +11,11 @@
   - ER PPC
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 918
 
 ## Jackal JA-KL-55
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -25,10 +26,11 @@
   - ER PPC
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1034
 
 ## Jackal JA-KL-1579
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -39,5 +41,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - Anti-Missile System (ammo: 12)
+- **Source:** XTRO Marik - Jihad
 - **Battle Value:** 1269
 

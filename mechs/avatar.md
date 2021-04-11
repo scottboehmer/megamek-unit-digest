@@ -14,6 +14,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1395
 
 ## Avatar AV1-OA
@@ -30,6 +31,7 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1481
 
 ## Avatar AV1-OB
@@ -45,6 +47,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1496
 
 ## Avatar AV1-OC
@@ -62,6 +65,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1406
 
 ## Avatar AV1-OG
@@ -76,6 +80,7 @@
   - Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1775
 
 ## Avatar AV1-OR
@@ -93,6 +98,7 @@
   - Clan ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1833
 
 ## Avatar AV1-OD
@@ -110,6 +116,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1475
 
 ## Avatar AV1-OE
@@ -128,6 +135,7 @@
   - CASE
   - Guardian ECM Suite
   - C3i
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1563
 
 ## Avatar AV1-OF
@@ -143,6 +151,7 @@
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1667
 
 ## Avatar AV1-OH
@@ -158,6 +167,7 @@
   - MML 3 w/ Artemis IV × 2 (ammo: 80 LRM, 33 SRM)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1598
 
 ## Avatar AV1-OI
@@ -173,6 +183,7 @@
   - Thunderbolt 15 × 2 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** unknown
 
 ## Avatar AV1-OJ
@@ -187,6 +198,7 @@
   - Clan HAG 30 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2223
 
 ## Avatar AV1-OBLO
@@ -204,5 +216,6 @@
   - C3i
   - Guardian ECM Suite
   - CASE
+- **Source:** SO:Unending Faith - Late Republic Era
 - **Battle Value:** 1550
 

@@ -1,6 +1,6 @@
 # Diomede
 ## Diomede D-M3D-M
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3092)
 - **Chassis:** 100 tons (Industrial)
 - **Movement:** 2 / 3 / 0
@@ -15,5 +15,6 @@
   - CASE
   - Ejection Seat
   - Tracks
+- **Source:** RS 3145 NT NU
 - **Battle Value:** unknown
 

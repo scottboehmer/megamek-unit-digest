@@ -15,6 +15,7 @@
   - ECM Suite
   - CASE
   - Active Probe
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1334
 
 ## Hankyu (Arctic Cheetah) A
@@ -30,6 +31,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1117
 
 ## Hankyu (Arctic Cheetah) B
@@ -46,6 +48,7 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1076
 
 ## Hankyu (Arctic Cheetah) C
@@ -61,6 +64,7 @@
   - Flamer
 - **Equipment:**
   - Active Probe
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1840
 
 ## Hankyu (Arctic Cheetah) D
@@ -75,6 +79,7 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1080
 
 ## Hankyu (Arctic Cheetah) H
@@ -89,6 +94,7 @@
   - Flamer
   - Heavy Medium Laser
   - Heavy Small Laser × 2
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1264
 
 ## Hankyu (Arctic Cheetah) E
@@ -106,6 +112,7 @@
   - MG Array × 2
   - CASE
   - B-Pod × 2
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1035
 
 ## Hankyu (Arctic Cheetah) F
@@ -123,5 +130,6 @@
   - Watchdog CEWS
   - Light TAG
   - CASE
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 1394
 

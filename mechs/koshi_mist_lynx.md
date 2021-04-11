@@ -13,6 +13,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 871
 
 ## Koshi (Mist Lynx) A
@@ -31,6 +32,7 @@
   - Anti-Missile System × 2 (ammo: 72)
   - CASE
   - A-Pod × 2
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 608
 
 ## Koshi (Mist Lynx) B
@@ -47,6 +49,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1209
 
 ## Koshi (Mist Lynx) C
@@ -64,6 +67,7 @@
   - ECM Suite
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1320
 
 ## Koshi (Mist Lynx) D
@@ -80,6 +84,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 842
 
 ## Koshi (Mist Lynx) E
@@ -95,6 +100,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 997
 
 ## Koshi (Mist Lynx) H
@@ -112,6 +118,7 @@
   - Active Probe
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 982
 
 ## Koshi (Mist Lynx) P
@@ -127,6 +134,7 @@
   - ER Large Laser
 - **Equipment:**
   - Active Probe
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1064
 
 ## Koshi (Mist Lynx) F
@@ -144,6 +152,7 @@
   - Light TAG
   - ECM Suite
   - Targeting Computer
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1173
 
 ## Koshi (Mist Lynx) G
@@ -160,6 +169,7 @@
   - Active Probe
   - MG Array × 2
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 764
 
 ## Koshi (Mist Lynx) I
@@ -175,6 +185,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 689
 
 ## Koshi (Mist Lynx) J
@@ -190,6 +201,7 @@
 - **Equipment:**
   - Supercharger
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 1704
 
 ## Koshi (Mist Lynx) K
@@ -205,6 +217,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 976
 
 ## Koshi (Mist Lynx) N
@@ -222,6 +235,7 @@
   - TAG
   - CASE
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 976
 
 ## Koshi (Mist Lynx) M
@@ -238,6 +252,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 961
 
 ## Koshi (Mist Lynx) T
@@ -255,5 +270,6 @@
   - CASE
   - ECM Suite
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 971
 

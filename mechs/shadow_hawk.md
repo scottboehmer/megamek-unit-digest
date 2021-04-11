@@ -1,6 +1,6 @@
 # Shadow Hawk
 ## Shadow Hawk SHD-1R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2467)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 3
@@ -10,10 +10,11 @@
 - **Weapons:**
   - Medium Laser
   - AC/5 (ammo: 20)
+- **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 851
 
 ## Shadow Hawk SHD-2H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2550)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 3
@@ -24,10 +25,11 @@
   - AC/5 (ammo: 20)
   - LRM 5 (ammo: 24)
   - SRM 2 (ammo: 50)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1064
 
 ## Shadow Hawk SHD-2Hb
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
@@ -39,10 +41,11 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 12 - Star League
 - **Battle Value:** 1354
 
 ## Shadow Hawk SHD-2D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2796)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 3
@@ -53,10 +56,11 @@
   - AC/5 (ammo: 20)
   - LRM 5 (ammo: 24)
   - SRM 2 × 2 (ammo: 100)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 899
 
 ## Shadow Hawk SHD-2K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2803)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 3
@@ -65,10 +69,11 @@
 - **Weapons:**
   - PPC
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1147
 
 ## Shadow Hawk SHD-5M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -81,10 +86,11 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** 1430
 
 ## Shadow Hawk SHD-2D2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 3
@@ -95,10 +101,11 @@
   - AC/5 (ammo: 20)
   - LRM 5 (ammo: 24)
   - Streak SRM 2 × 2 (ammo: 50)
+- **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** 1049
 
 ## Shadow Hawk C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3050)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -109,10 +116,11 @@
   - Clan LB 5-X AC (ammo: 20)
   - Clan LRM 5 (ammo: 24)
   - Clan Streak SRM 2 (ammo: 50)
+- **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** 1309
 
 ## Shadow Hawk SHD-2Ht
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -124,6 +132,7 @@
   - Streak SRM 2 × 5 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1453
 
 ## Shadow Hawk SHD-5S
@@ -142,10 +151,11 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - Cargo
+- **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** unknown
 
 ## Shadow Hawk SHD-5D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -157,10 +167,11 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1684
 
 ## Shadow Hawk SHD-7CS
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -173,10 +184,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1496
 
 ## Shadow Hawk SHD-7M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -189,10 +201,11 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1447
 
 ## Shadow Hawk SHD-11CS
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -205,10 +218,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1700
 
 ## Shadow Hawk SHD-5D (Sandy)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -219,10 +233,11 @@
   - Heavy PPC
 - **Equipment:**
   - TAG
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
 - **Battle Value:** 1517
 
 ## Shadow Hawk SHD-9D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -236,10 +251,11 @@
   - Targeting Computer
   - CASE
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1313
 
 ## Shadow Hawk SHD-3K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -252,10 +268,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1591
 
 ## Shadow Hawk SHD-12C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 4, XL
@@ -267,10 +284,11 @@
   - MML 7 (ammo: 17 LRM, 14 SRM)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1574
 
 ## Shadow Hawk SHD-8L
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
@@ -284,10 +302,11 @@
 - **Equipment:**
   - Beagle Active Probe
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1536
 
 ## Shadow Hawk SHD-5R
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
@@ -300,10 +319,11 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 12 - Early Republic
 - **Battle Value:** unknown
 
 ## Shadow Hawk SHD-7H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -316,10 +336,11 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE II
+- **Source:** ilClan Vol 12 - Early Republic
 - **Battle Value:** 1394
 
 ## Shadow Hawk SHD-4H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -328,5 +349,6 @@
 - **Weapons:**
   - Light PPC
   - Heavy PPC
+- **Source:** ilClan Vol 12 - Early Republic
 - **Battle Value:** 1569
 

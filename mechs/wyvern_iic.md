@@ -1,6 +1,6 @@
 # Wyvern IIC
 ## Wyvern IIC (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2843)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -16,10 +16,11 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1624
 
 ## Wyvern IIC 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3071)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -35,5 +36,6 @@
 - **Equipment:**
   - MG Array
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1524
 

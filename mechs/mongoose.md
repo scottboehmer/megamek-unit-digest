@@ -1,6 +1,6 @@
 # Mongoose
 ## Mongoose MON-66
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
@@ -11,10 +11,11 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 758
 
 ## Mongoose MON-66b
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2740)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -26,10 +27,11 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3075
 - **Battle Value:** 934
 
 ## Mongoose MON-66GX (Gunslinger)
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -41,10 +43,11 @@
 - **Equipment:**
   - Null-Signature System
   - Chameleon LPS
+- **Source:** XTRO Gunslingers - Star League
 - **Battle Value:** 887
 
 ## Mongoose MON-69
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
@@ -54,10 +57,11 @@
   - Medium Laser × 3
   - SRM 2 (ammo: 50)
   - Small Laser
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 737
 
 ## Mongoose MON-70
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0
@@ -66,10 +70,11 @@
 - **Weapons:**
   - Medium Laser × 3
   - Flamer × 2
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 750
 
 ## Mongoose MON-67
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 25 tons
 - **Movement:** 8 / 12 / 0
@@ -78,10 +83,11 @@
 - **Weapons:**
   - Medium Laser × 3
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 741
 
 ## Mongoose C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2833)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -93,10 +99,11 @@
   - ER Small Laser
 - **Equipment:**
   - Active Probe
+- **Source:** Succession Wars
 - **Battle Value:** 1386
 
 ## Mongoose C 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2860)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -109,10 +116,11 @@
 - **Equipment:**
   - Active Probe
   - Targeting Computer
+- **Source:** Succession Wars
 - **Battle Value:** 1620
 
 ## Mongoose MON-68
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3039)
 - **Chassis:** 25 tons
 - **Movement:** 7 / 11 / 0
@@ -120,10 +128,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Large Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 676
 
 ## Mongoose MON-76
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -135,10 +144,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 894
 
 ## Mongoose MON-86
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -151,6 +161,7 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** Jihad
 - **Battle Value:** 887
 
 ## Mongoose MON-96
@@ -166,5 +177,6 @@
 - **Equipment:**
   - Bloodhound Active Probe
   - Supercharger
+- **Source:** Dark Age
 - **Battle Value:** 1011
 

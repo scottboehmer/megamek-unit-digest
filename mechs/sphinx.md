@@ -1,6 +1,6 @@
 # Sphinx
 ## Sphinx (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3078)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - ER Large Laser × 2
   - ER Medium Laser × 10
+- **Source:** Jihad
 - **Battle Value:** 2883
 
 ## Sphinx 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3080)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -24,10 +25,11 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 2753
 
 ## Sphinx 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3091)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -39,10 +41,11 @@
   - MASC
   - Targeting Computer
   - ECM Suite
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 3396
 
 ## Sphinx 4
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3091)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -51,5 +54,6 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - Heavy Small Laser × 10
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1952
 

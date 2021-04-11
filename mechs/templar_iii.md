@@ -15,6 +15,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 2028
 
 ## Templar III TLR2-OA
@@ -31,6 +32,7 @@
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1677
 
 ## Templar III TLR2-OC
@@ -49,6 +51,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1993
 
 ## Templar III TLR2-OD
@@ -65,6 +68,7 @@
   - Medium Re-Engineered Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 2108
 
 ## Templar III TLR2-J 'Arthur'
@@ -84,5 +88,6 @@
   - Command Console
   - Clan Targeting Computer
   - CASE II
+- **Source:** Shattered Fortress - Dark Ages
 - **Battle Value:** 2705
 

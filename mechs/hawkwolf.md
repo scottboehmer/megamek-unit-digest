@@ -1,6 +1,6 @@
 # HawkWolf
 ## HawkWolf HWK-3F
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -12,10 +12,11 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
+- **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 1349
 
 ## HawkWolf HWK-4F
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
@@ -26,5 +27,6 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Mercenaries - Late Republic
 - **Battle Value:** 1428
 

@@ -13,6 +13,7 @@
   - Medium Re-Engineered Laser × 2
 - **Equipment:**
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** 1597
 
 ## Inferno INF-NOA
@@ -29,6 +30,7 @@
   - ER PPC
 - **Equipment:**
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** 1846
 
 ## Inferno INF-NOB
@@ -45,6 +47,7 @@
   - ER PPC
 - **Equipment:**
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** 1658
 
 ## Inferno INF-NOC
@@ -61,6 +64,7 @@
   - Thunderbolt 15 (ammo: 16)
 - **Equipment:**
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** unknown
 
 ## Inferno INF-NOR
@@ -78,5 +82,6 @@
 - **Equipment:**
   - CASE II
   - Clan Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 2360
 

@@ -1,6 +1,6 @@
 # Garm
 ## Garm GRM-01A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -9,10 +9,11 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - LB 5-X AC (ammo: 20)
+- **Source:** TRO 3060
 - **Battle Value:** 701
 
 ## Garm GRM-01B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -21,10 +22,11 @@
 - **Weapons:**
   - LRM 10 w/ Artemis IV (ammo: 12)
   - ER Large Laser
+- **Source:** TRO 3060
 - **Battle Value:** 934
 
 ## Garm GRM-01C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -35,10 +37,11 @@
   - RAC/5 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1140
 
 ## Garm GRM-01A2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -50,5 +53,6 @@
   - Plasma Rifle (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1078
 

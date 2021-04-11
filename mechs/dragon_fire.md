@@ -1,6 +1,6 @@
 # Dragon Fire
 ## Dragon Fire DGR-3F
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1855
 
 ## Dragon Fire DGR-4F
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -31,10 +32,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1900
 
 ## Dragon Fire DGR-6FC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -48,10 +50,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1858
 
 ## Dragon Fire DGR-6FC2 (Gregory)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
@@ -67,5 +70,6 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** JTP Tharkad
 - **Battle Value:** 2230
 

@@ -1,6 +1,6 @@
 # Havoc
 ## Havoc HVC-P6
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3112)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 5, XL
@@ -11,5 +11,6 @@
   - SRM 4 (ammo: 50)
 - **Equipment:**
   - CASE II
+- **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 1255
 

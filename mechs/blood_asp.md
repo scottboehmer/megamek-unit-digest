@@ -13,6 +13,7 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2654
 
 ## Blood Asp A
@@ -28,6 +29,7 @@
 - **Equipment:**
   - Targeting Computer
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 3452
 
 ## Blood Asp B
@@ -44,6 +46,7 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2885
 
 ## Blood Asp C
@@ -59,6 +62,7 @@
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2270
 
 ## Blood Asp D
@@ -75,6 +79,7 @@
   - Ultra AC/2 × 3 (ammo: 45)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2396
 
 ## Blood Asp E
@@ -91,6 +96,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 3179
 
 ## Blood Asp F
@@ -108,6 +114,7 @@
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2908
 
 ## Blood Asp G
@@ -125,5 +132,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 3270
 

@@ -1,6 +1,6 @@
 # Fireball
 ## Fireball ALM-7D
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 11 / 17 / 0, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Streak SRM 2 (ammo: 50)
   - Machine Gun (ammo: 200)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 385
 
 ## Fireball ALM-8D
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 11 / 17 / 0, XL
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - Machine Gun (ammo: 200)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 574
 
 ## Fireball ALM-9D
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 11 / 17 / 0, XL
@@ -33,10 +35,11 @@
 - **Weapons:**
   - Streak SRM 2 (ammo: 50)
   - Medium Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 527
 
 ## Fireball ALM-10D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 11 / 17 (22) / 0, XL
@@ -48,10 +51,11 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 957
 
 ## Fireball ALM-XF
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 16 / 24 (40) / 0, XXL
@@ -63,5 +67,6 @@
 - **Equipment:**
   - MASC
   - Supercharger
+- **Source:** XTRO Most Wanted - Jihad
 - **Battle Value:** unknown
 

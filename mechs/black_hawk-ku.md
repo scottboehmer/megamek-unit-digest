@@ -10,6 +10,7 @@
   - Medium Pulse Laser × 4
   - Medium Laser × 6
   - Small Laser × 2
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1731
 
 ## Black Hawk-KU BHKU-OA
@@ -23,6 +24,7 @@
   - ER PPC × 2
 - **Equipment:**
   - Anti-Missile System × 2 (ammo: 24)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1770
 
 ## Black Hawk-KU BHKU-OB
@@ -35,6 +37,7 @@
 - **Weapons:**
   - Large Pulse Laser
   - Ultra AC/5 (ammo: 20)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1303
 
 ## Black Hawk-KU BHKU-OC
@@ -47,6 +50,7 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 8)
   - Medium Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1597
 
 ## Black Hawk-KU BHKU-OD
@@ -59,6 +63,7 @@
 - **Weapons:**
   - LRM 20 (ammo: 12)
   - ER Large Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1539
 
 ## Black Hawk-KU BHKU-OX
@@ -73,6 +78,7 @@
 - **Equipment:**
   - Coolant Pod × 2
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1941
 
 ## Black Hawk-KU BHKU-OR
@@ -87,6 +93,7 @@
   - Clan ER Large Laser × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2193
 
 ## Black Hawk-KU BHKU-OE
@@ -98,6 +105,7 @@
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
   - ER Medium Laser × 12
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1982
 
 ## Black Hawk-KU BHKU-OF
@@ -112,6 +120,7 @@
   - Light PPC × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1759
 
 ## Black Hawk-KU BHKU-O (Albert)
@@ -140,6 +149,7 @@
   - ER Medium Laser × 7
 - **Equipment:**
   - Liquid Cargo
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Black Hawk-KU BHKU-OG
@@ -156,5 +166,6 @@
   - Angel ECM Suite
   - Bloodhound Active Probe
   - TAG
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 1719
 

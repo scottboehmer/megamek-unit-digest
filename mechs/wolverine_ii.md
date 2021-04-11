@@ -1,6 +1,6 @@
 # Wolverine II
 ## Wolverine II WVR-7H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2770)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -12,5 +12,6 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1301
 

@@ -1,6 +1,6 @@
 # Shootist
 ## Shootist ST-8A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2621)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -13,10 +13,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1507
 
 ## Shootist ST-8C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -29,10 +30,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1528
 
 ## Shootist ST-9C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0
@@ -45,5 +47,6 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1727
 

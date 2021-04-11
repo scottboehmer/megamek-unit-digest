@@ -1,6 +1,6 @@
 # JagerMech
 ## JagerMech JM6-S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2774)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
   - AC/5 × 2 (ammo: 40)
   - AC/2 × 2 (ammo: 45)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 901
 
 ## JagerMech JM6-A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2778)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -23,10 +24,11 @@
   - LRM 15 × 2 (ammo: 16)
   - AC/2 × 2 (ammo: 45)
   - Medium Laser × 2
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1122
 
 ## JagerMech JM6-DD
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -38,6 +40,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 965
 
 ## JagerMech JM6-DG
@@ -52,10 +55,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1625
 
 ## JagerMech JM7-D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -67,10 +71,11 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1500
 
 ## JagerMech JM6-DGr
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -81,10 +86,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1661
 
 ## JagerMech JM7-F
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -97,10 +103,11 @@
   - Guardian ECM Suite
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1774
 
 ## JagerMech JM6-H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -110,10 +117,11 @@
   - LB 2-X AC × 2 (ammo: 45 Cluster)
   - Large Laser × 2
   - Rocket 15 × 6
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1348
 
 ## JagerMech JM7-G
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -125,10 +133,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1278
 
 ## JagerMech JM6-DDa
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -141,10 +150,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 911
 
 ## JagerMech JM7-C3BS
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -157,5 +167,6 @@
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
+- **Source:** Jihad
 - **Battle Value:** 1354
 

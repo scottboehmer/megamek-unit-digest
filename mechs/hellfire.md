@@ -1,6 +1,6 @@
 # Hellfire
 ## Hellfire (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3058)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 (8) / 0
@@ -15,10 +15,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3067
 - **Battle Value:** 2114
 
 ## Hellfire 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3067)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -33,10 +34,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3067
 - **Battle Value:** 2370
 
 ## Hellfire 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 (8) / 0, XL

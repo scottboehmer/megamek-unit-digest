@@ -1,6 +1,6 @@
 # Xanthos
 ## Xanthos XNT-2O
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2564)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
   - Medium Laser × 2
   - Small Laser × 2
   - AC/10 (ammo: 20)
+- **Source:** XTRO Primitives IV - Age of War
 - **Battle Value:** 1300
 
 ## Xanthos XNT-3O
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2579)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 0
@@ -28,10 +29,11 @@
   - Medium Laser × 3
   - Small Laser
   - AC/20 (ammo: 15)
+- **Source:** TRO 3075
 - **Battle Value:** 1948
 
 ## Xanthos XNT-4O
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 3, Compact
@@ -45,10 +47,11 @@
   - Heavy PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 2548
 
 ## Xanthos XNT-5O
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 100 tons Quad (Endo Steel)
 - **Movement:** 3 / 5 / 5, Compact
@@ -59,10 +62,11 @@
   - Medium Pulse Laser × 5
   - ER PPC
   - ER Small Laser
+- **Source:** TRO 3075
 - **Battle Value:** 2146
 
 ## Xanthos XNT-6O
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3094)
 - **Chassis:** 100 tons Quad
 - **Movement:** 3 / 5 / 0, Compact
@@ -77,10 +81,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Coolant Pod
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2320
 
 ## Xanthos XNT-7O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3119)
 - **Chassis:** 100 tons Quad
 - **Movement:** 4 / 6 / 0, XL
@@ -92,5 +97,6 @@
   - Clan ER Medium Laser × 4
 - **Equipment:**
   - CASE II
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2620
 

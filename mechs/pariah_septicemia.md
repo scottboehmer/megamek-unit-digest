@@ -12,6 +12,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2511
 
 ## Pariah (Septicemia) A
@@ -26,6 +27,7 @@
   - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1935
 
 ## Pariah (Septicemia) A-Z
@@ -42,6 +44,7 @@
   - Light TAG
   - CASE
   - Nova CEWS
+- **Source:** Jihad
 - **Battle Value:** 2388
 
 ## Pariah (Septicemia) B
@@ -56,6 +59,7 @@
   - Large Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 2310
 
 ## Pariah (Septicemia) B-Z
@@ -72,6 +76,7 @@
   - Targeting Computer
   - Light TAG
   - Nova CEWS
+- **Source:** Jihad
 - **Battle Value:** 2349
 
 ## Pariah (Septicemia) C
@@ -89,6 +94,7 @@
 - **Equipment:**
   - MG Array × 2
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2190
 
 ## Pariah (Septicemia) C-Z
@@ -107,6 +113,7 @@
   - MG Array × 2
   - Nova CEWS
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2236
 
 ## Pariah (Septicemia) D
@@ -123,6 +130,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2718
 
 ## Pariah (Septicemia) D-Z
@@ -139,6 +147,7 @@
   - Targeting Computer
   - Nova CEWS
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2704
 
 ## Pariah (Septicemia) E
@@ -155,6 +164,7 @@
   - Light TAG
   - Targeting Computer
   - Nova CEWS
+- **Source:** Jihad
 - **Battle Value:** 2950
 
 ## Pariah (Septicemia) F
@@ -168,6 +178,7 @@
   - Arrow IV × 2 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1389
 
 ## Pariah (Septicemia) US
@@ -186,5 +197,6 @@
   - Liquid Cargo × 2
   - ECM Suite
   - Talons
+- **Source:** Jihad
 - **Battle Value:** unknown
 

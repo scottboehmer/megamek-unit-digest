@@ -1,6 +1,6 @@
 # Striker
 ## Striker STC-2C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2571)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
@@ -11,10 +11,11 @@
   - Large Laser
   - PPC
   - Medium Laser × 3
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1488
 
 ## Striker STC-2S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2845)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
@@ -24,10 +25,11 @@
   - AC/10 (ammo: 20)
   - PPC
   - Medium Laser × 3
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1466
 
 ## Striker STC-2D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
@@ -38,5 +40,6 @@
   - Large Laser
   - ER PPC
   - Medium Pulse Laser × 2
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1644
 

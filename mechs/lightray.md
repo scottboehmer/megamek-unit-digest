@@ -1,6 +1,6 @@
 # Lightray
 ## Lightray LGH-4Y
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -11,10 +11,11 @@
   - ER Medium Laser × 2
   - SRM 2 × 2 (ammo: 50)
   - ER Small Laser
+- **Source:** TRO 3067
 - **Battle Value:** 1379
 
 ## Lightray LGH-4W
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -26,10 +27,11 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 1450
 
 ## Lightray LGH-5W
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -41,10 +43,11 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 1674
 
 ## Lightray LGH-6W
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -55,10 +58,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - C3i
+- **Source:** Starterbook: Wolf & Blake - Civil War
 - **Battle Value:** 1554
 
 ## Lightray LGH-7W
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -71,5 +75,6 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1352
 

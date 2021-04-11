@@ -1,6 +1,6 @@
 # Hornet
 ## Hornet HNT-151
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2760)
 - **Chassis:** 20 tons
 - **Movement:** 5 / 8 / 5
@@ -10,10 +10,11 @@
   - Small Laser
   - Medium Laser
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 488
 
 ## Hornet HNT-152
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2997)
 - **Chassis:** 20 tons
 - **Movement:** 5 / 8 / 5
@@ -23,10 +24,11 @@
   - Small Laser
   - Medium Laser
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 475
 
 ## Hornet HNT-171
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
@@ -38,10 +40,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 535
 
 ## Hornet HNT-161
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -53,5 +56,6 @@
   - LRM 5 (ammo: 48)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 511
 

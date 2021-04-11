@@ -1,6 +1,6 @@
 # Anubis
 ## Anubis ABS-3L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -11,10 +11,11 @@
   - LRM 5 × 4 (ammo: 24)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 951
 
 ## Anubis ABS-3R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -27,10 +28,11 @@
   - Rocket 15 × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 970
 
 ## Anubis ABS-3T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -42,10 +44,11 @@
   - ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 1150
 
 ## Anubis ABS-3MC
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -56,10 +59,11 @@
   - NLRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - Angel ECM Suite
+- **Source:** XTRO Periphery - Jihad
 - **Battle Value:** 1074
 
 ## Anubis ABS-4C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -70,10 +74,11 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** 3067 Unabridged
 - **Battle Value:** 833
 
 ## Anubis ABS-5Y
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3121)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -84,10 +89,11 @@
   - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3145 Capellan Confederation - Late Republic
 - **Battle Value:** 1042
 
 ## Anubis ABS-5Z
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3124)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -99,5 +105,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3145 Capellan Confederation - Late Republic
 - **Battle Value:** 1066
 

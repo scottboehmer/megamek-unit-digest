@@ -1,6 +1,6 @@
 # Dragoon
 ## Dragoon AEM-01
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2771)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 3, XL
@@ -11,6 +11,7 @@
   - ER PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Hist LOT II
 - **Battle Value:** 1669
 
 ## Dragoon AEM-02
@@ -27,6 +28,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Hist LOT II
 - **Battle Value:** 1691
 
 ## Dragoon AEM-03
@@ -43,6 +45,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Hist LOT II
 - **Battle Value:** 1562
 
 ## Dragoon AEM-04
@@ -59,10 +62,11 @@
   - Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Hist LOT II
 - **Battle Value:** 1710
 
 ## Dragoon AEM-05C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3136)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 3, XL
@@ -76,5 +80,6 @@
   - Angel ECM Suite
   - C3i
   - CASE II
+- **Source:** TP Epsilon Eridani - Dark Age
 - **Battle Value:** 1893
 

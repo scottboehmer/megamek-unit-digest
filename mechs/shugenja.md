@@ -1,6 +1,6 @@
 # Shugenja
 ## Shugenja SJA-7D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
   - MRM 30 (ammo: 16)
 - **Equipment:**
   - C3 Master
+- **Source:** TRO 3060
 - **Battle Value:** 1656
 
 ## Shugenja SJA-8H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -32,5 +33,6 @@
   - Guardian ECM Suite
   - B-Pod
   - A-Pod
+- **Source:** TRO 3060
 - **Battle Value:** 1691
 

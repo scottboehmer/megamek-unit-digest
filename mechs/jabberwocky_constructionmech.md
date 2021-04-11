@@ -1,6 +1,6 @@
 # Jabberwocky ConstructionMech
 ## Jabberwocky ConstructionMech JAW-66D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 4 / 6 / 3
@@ -18,5 +18,6 @@
   - Cargo
   - Lift Hoist
   - Tracks
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 

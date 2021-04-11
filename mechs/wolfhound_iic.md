@@ -1,6 +1,6 @@
 # Wolfhound IIC
 ## Wolfhound IIC 'Grinner'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3051)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -12,5 +12,6 @@
   - ER Medium Laser
 - **Equipment:**
   - ECM Suite
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1579
 

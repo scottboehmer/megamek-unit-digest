@@ -13,6 +13,7 @@
   - Plasma Cannon (ammo: 10)
 - **Equipment:**
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Karhu A
@@ -30,6 +31,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2560
 
 ## Karhu B
@@ -46,6 +48,7 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 2787
 
 ## Karhu C
@@ -62,6 +65,7 @@
   - Ultra AC/5 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** unknown
 
 ## Karhu D
@@ -81,6 +85,7 @@
   - Targeting Computer
   - Active Probe
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 3118
 
 ## Karhu (Syngman)
@@ -99,6 +104,7 @@
   - Inner Sphere Beagle Active Probe
   - Inner Sphere C3 Slave
   - Inner Sphere Guardian ECM Suite
+- **Source:** TRO 3085/Lamenkov's Liability - Jihad
 - **Battle Value:** unknown
 
 ## Karhu G
@@ -116,5 +122,6 @@
   - Light TAG
   - CASE
   - Supercharger
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2895
 

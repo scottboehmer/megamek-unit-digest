@@ -1,6 +1,6 @@
 # Wasp
 ## Wasp WSP-1A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2471)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 6
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Laser
   - SRM 2 (ammo: 50)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 384
 
 ## Wasp WSP-1L
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2799)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 6
@@ -20,10 +21,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 335
 
 ## Wasp WSP-1K
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2818)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 6
@@ -32,10 +34,11 @@
 - **Weapons:**
   - Medium Laser
   - Machine Gun (ammo: 200)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 376
 
 ## Wasp WSP-1D
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2823)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 6
@@ -45,10 +48,11 @@
   - Medium Laser
   - Small Laser × 2
   - Flamer
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 403
 
 ## Wasp WSP-1W
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3009)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 6
@@ -56,10 +60,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Small Laser × 6
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 373
 
 ## Wasp WSP-1S
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -69,10 +74,11 @@
   - Medium Pulse Laser
   - Flamer
   - Small Laser × 2
+- **Source:** Clan Invasion
 - **Battle Value:** 423
 
 ## Wasp WSP-3W
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 6
@@ -81,10 +87,11 @@
 - **Weapons:**
   - Small Pulse Laser × 2
   - Small Laser × 4
+- **Source:** Clan Invasion
 - **Battle Value:** 342
 
 ## Wasp WSP-3M
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -95,10 +102,11 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 394
 
 ## Wasp WSP-4W
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 6, Light
@@ -110,7 +118,7 @@
 - **Battle Value:** 551
 
 ## Wasp WSP-3L
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -121,10 +129,11 @@
   - Rocket 10
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 534
 
 ## Wasp WSP-3S
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -135,10 +144,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 595
 
 ## Wasp WSP-7MAF
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -149,10 +159,11 @@
 - **Weapons:**
   - ER Medium Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
+- **Source:** Jihad
 - **Battle Value:** 488
 
 ## Wasp WSP-8T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -162,10 +173,11 @@
 - **Weapons:**
   - Light PPC
   - MML 3 (ammo: 40 LRM, 33 SRM)
+- **Source:** Jihad
 - **Battle Value:** 439
 
 ## Wasp WSP-3A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, XL
@@ -174,10 +186,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Pulse Laser
+- **Source:** Jihad
 - **Battle Value:** 401
 
 ## Wasp WSP-3P
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7
@@ -186,10 +199,11 @@
 - **Weapons:**
   - ER Medium Laser
   - Rocket 10
+- **Source:** RS 3145 NT NU 
 - **Battle Value:** 537
 
 ## Wasp WSP-3K
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3110)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -198,10 +212,11 @@
 - **Weapons:**
   - Medium Laser
   - MRM 10 (ammo: 24)
+- **Source:** RS 3145 NT NU 
 - **Battle Value:** 477
 
 ## Wasp WSP-5A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3114)
 - **Chassis:** 20 tons (Endo Composite)
 - **Movement:** 8 / 12 / 8, XL

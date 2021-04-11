@@ -1,6 +1,6 @@
 # Akuma
 ## Akuma AKU-1X
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -14,10 +14,11 @@
   - MRM 30 (ammo: 16)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Streak SRM 6 (ammo: 15)
+- **Source:** TRO 3067
 - **Battle Value:** 1959
 
 ## Akuma AKU-1XJ
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -29,10 +30,11 @@
   - MRM 40 (ammo: 18)
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
   - ER Small Laser
+- **Source:** TRO 3067
 - **Battle Value:** 2203
 
 ## Akuma AKU-2X
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -50,7 +52,7 @@
 - **Battle Value:** 2122
 
 ## Akuma AKU-2XC
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -67,10 +69,11 @@
   - CASE
   - Angel ECM Suite
   - C3 Boosted Slave
+- **Source:** Jihad
 - **Battle Value:** 2134
 
 ## Akuma AKU-2XK
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -87,5 +90,6 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2170
 

@@ -13,6 +13,7 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2290
 
 ## Grendel (Mongrel) A
@@ -28,6 +29,7 @@
   - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2031
 
 ## Grendel (Mongrel) B
@@ -44,6 +46,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1903
 
 ## Grendel (Mongrel) C
@@ -59,6 +62,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1465
 
 ## Grendel (Mongrel) D
@@ -76,6 +80,7 @@
   - ER PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2212
 
 ## Grendel (Mongrel) E
@@ -91,6 +96,7 @@
   - ATM 6 × 2 (ammo: 20 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1806
 
 ## Grendel (Mongrel) H
@@ -107,6 +113,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1965
 
 ## Grendel (Mongrel) F
@@ -121,6 +128,7 @@
   - ATM 6 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1997
 
 ## Grendel (Mongrel) M
@@ -135,6 +143,7 @@
   - ER Large Laser
 - **Equipment:**
   - CASE II
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 1744
 
 ## Grendel (Mongrel) G
@@ -150,6 +159,7 @@
 - **Equipment:**
   - Watchdog CEWS
   - Supercharger
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2209
 
 ## Grendel (Mongrel) I
@@ -165,6 +175,7 @@
   - Inner Sphere Plasma Rifle (ammo: 10)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 1675
 
 ## Grendel (Mongrel) J
@@ -180,6 +191,7 @@
   - ER Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 1811
 
 ## Grendel (Mongrel) T
@@ -197,5 +209,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 1936
 

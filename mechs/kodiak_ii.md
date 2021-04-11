@@ -1,6 +1,6 @@
 # Kodiak II
 ## Kodiak II (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3095)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -14,5 +14,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 3066
 

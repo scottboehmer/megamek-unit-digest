@@ -1,6 +1,6 @@
 # Hunchback
 ## Hunchback HBK-4G
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2572)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
   - Medium Laser × 2
   - AC/20 (ammo: 10)
   - Small Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1041
 
 ## Hunchback HBK-4H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -23,10 +24,11 @@
   - Medium Laser × 4
   - AC/10 (ammo: 20)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1067
 
 ## Hunchback HBK-4J
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2856)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -36,10 +38,11 @@
   - Medium Laser × 5
   - LRM 10 × 2 (ammo: 24)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1143
 
 ## Hunchback HBK-4N
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2920)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -50,10 +53,11 @@
   - AC/5 (ammo: 20)
   - LRM 5 × 2 (ammo: 24)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1087
 
 ## Hunchback HBK-4P
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2937)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -62,10 +66,11 @@
 - **Weapons:**
   - Medium Laser × 8
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1138
 
 ## Hunchback HBK-4SP
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -75,10 +80,11 @@
   - Medium Laser × 4
   - SRM 6 × 2 (ammo: 30)
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1043
 
 ## Hunchback HBK-5M
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3046)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -90,10 +96,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1056
 
 ## Hunchback HBK-4G (Hohiro)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -105,10 +112,11 @@
   - ER Small Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** Starterbook: Sword and Dragon - Clan Invasion
 - **Battle Value:** 1126
 
 ## Hunchback HBK-5N
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -118,10 +126,11 @@
   - Medium Laser × 2
   - AC/20 (ammo: 10)
   - Small Laser
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1041
 
 ## Hunchback HBK-5S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -133,10 +142,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1350
 
 ## Hunchback HBK-6N
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -148,10 +158,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1130
 
 ## Hunchback HBK-6S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -161,10 +172,11 @@
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1380
 
 ## Hunchback HBK-5H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -176,10 +188,11 @@
   - AC/20 (ammo: 10)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1097
 
 ## Hunchback HBK-7X-4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 50 tons (Reinforced)
 - **Movement:** 4 / 6 / 0, XL
@@ -193,10 +206,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE II
+- **Source:** Jihad
 - **Battle Value:** 1208
 
 ## Hunchback HBK-5SG
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -208,10 +222,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1577
 
 ## Hunchback HBK-5SS
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -224,10 +239,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1295
 
 ## Hunchback HBK-5P
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -239,10 +255,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1340
 
 ## Hunchback HBK-7R
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 50 tons (Reinforced)
 - **Movement:** 4 / 6 / 0, XL
@@ -269,6 +286,7 @@
   - AC/20 (ammo: 5)
 - **Equipment:**
   - Clan Targeting Computer
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1289
 
 ## Hunchback HBK-LGN-Pin 'Drizella'
@@ -282,10 +300,11 @@
   - Medium Laser × 2
   - Clan Medium Pulse Laser × 2
   - Clan Micro Pulse Laser × 4
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1492
 
 ## Hunchback HBK-7S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -299,5 +318,6 @@
   - Bloodhound Active Probe
   - Angel ECM Suite
   - TAG
+- **Source:** XTRO Republic II - Late Republic
 - **Battle Value:** 1628
 

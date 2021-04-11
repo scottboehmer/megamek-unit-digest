@@ -1,6 +1,6 @@
 # Atlas II
 ## Atlas II AS7-D-H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -14,10 +14,11 @@
   - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2169
 
 ## Atlas II AS7-D-H2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2780)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -31,10 +32,11 @@
   - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 2340
 
 ## Atlas II AS7-D-H (Kerensky)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (2833)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -50,5 +52,6 @@
   - CASE
   - Active Probe
   - ECM Suite
+- **Source:** OTP Widowmaker
 - **Battle Value:** 2777
 

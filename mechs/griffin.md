@@ -1,6 +1,6 @@
 # Griffin
 ## Griffin GRF-1N
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2492)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -9,10 +9,11 @@
 - **Weapons:**
   - PPC
   - LRM 10 (ammo: 24)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1272
 
 ## Griffin GRF-2N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2751)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -27,7 +28,7 @@
 - **Battle Value:** 1606
 
 ## Griffin GRF-1S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2857)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -37,10 +38,11 @@
   - Large Laser
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1253
 
 ## Griffin GRF-1E 'Sparky'
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -49,10 +51,11 @@
 - **Weapons:**
   - Medium Laser × 5
   - PPC
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1449
 
 ## Griffin GRF-1DS
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -63,10 +66,11 @@
   - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1285
 
 ## Griffin GRF-3M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -78,10 +82,11 @@
   - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1521
 
 ## Griffin GRF-5M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -93,10 +98,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1224
 
 ## Griffin GRF-6S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -108,10 +114,11 @@
   - LRM 15 w/ Artemis IV (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1781
 
 ## Griffin GRF-6CS
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -125,10 +132,11 @@
   - C3i
   - Guardian ECM Suite
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1695
 
 ## Griffin GRF-5L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -140,10 +148,11 @@
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1742
 
 ## Griffin GRF-6S (Francine)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -156,10 +165,11 @@
   - LRM 15 w/ Artemis IV (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 1778
 
 ## Griffin GRF-5K
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 8, Light
@@ -172,10 +182,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1390
 
 ## Griffin GRF-6S (Francine II)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, Light
@@ -188,10 +199,11 @@
 - **Equipment:**
   - Supercharger
   - CASE
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 2249
 
 ## Griffin GRF-1E2 'Sparky 2.0'
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5, Light
@@ -206,7 +218,7 @@
 - **Battle Value:** 1862
 
 ## Griffin GRF-4R
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 9, XL
@@ -216,10 +228,11 @@
   - Snub-Nose PPC
   - ER Medium Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
+- **Source:** Jihad
 - **Battle Value:** 1412
 
 ## Griffin GRF-4N
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -229,10 +242,11 @@
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
   - ER Medium Laser × 3
+- **Source:** Dark Age
 - **Battle Value:** 1591
 
 ## Griffin GRF-3N
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3093)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -243,10 +257,11 @@
   - NLRM 10 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - CASE II
+- **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 1560
 
 ## Griffin GRF-6S2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3123)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -260,10 +275,11 @@
   - C3 Boosted Slave
   - Targeting Computer
   - CASE II
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 1870
 
 ## Griffin C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3144)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 9, XL
@@ -274,5 +290,6 @@
   - Streak LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 2131
 

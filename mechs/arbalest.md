@@ -1,6 +1,6 @@
 # Arbalest
 ## Arbalest (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 0
@@ -12,10 +12,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1029
 
 ## Arbalest 2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3079)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 (10) / 0
@@ -28,10 +29,11 @@
   - MASC
   - CASE
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1098
 
 ## Arbalest 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3081)
 - **Chassis:** 25 tons
 - **Movement:** 5 / 8 / 0
@@ -42,5 +44,6 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 921
 

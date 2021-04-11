@@ -1,6 +1,6 @@
 # Rifleman III
 ## Rifleman III RF2-A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2776)
 - **Chassis:** 90 tons
 - **Movement:** 2 / 3 / 0, XL
@@ -10,5 +10,6 @@
   - Gauss Rifle × 4 (ammo: 16)
 - **Equipment:**
   - Null-Signature System
+- **Source:** XTRO Gunslingers - Star League
 - **Battle Value:** 1819
 

@@ -1,6 +1,6 @@
 # Hatamoto-Godai
 ## Hatamoto-Godai HTM-30Z
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3140)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 0
@@ -17,5 +17,6 @@
   - Bloodhound Active Probe
   - Guardian ECM Suite
   - Clan Laser Anti-Missile System
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1893
 

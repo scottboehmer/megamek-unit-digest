@@ -1,6 +1,6 @@
 # Marauder II
 ## Marauder II MAD-4A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3012)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
@@ -10,10 +10,11 @@
   - PPC × 2
   - Medium Laser × 2
   - Large Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 2073
 
 ## Marauder II MAD-5A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -25,10 +26,11 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 2058
 
 ## Marauder II MAD-5B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
@@ -38,10 +40,11 @@
   - ER PPC × 2
   - Medium Laser × 2
   - Gauss Rifle (ammo: 24)
+- **Source:** Clan Invasion
 - **Battle Value:** 2589
 
 ## Marauder II MAD-5C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -53,10 +56,11 @@
   - Ultra AC/5 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 2024
 
 ## Marauder II (Bounty Hunter)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3064)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -69,10 +73,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** BattleTech Dossiers: The Bounty Hunter - Civil War
 - **Battle Value:** 3767
 
 ## Marauder II MAD-4S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, Light
@@ -82,10 +87,11 @@
   - ER PPC × 2
   - ER Medium Laser × 2
   - Heavy Gauss Rifle (ammo: 16)
+- **Source:** Civil War
 - **Battle Value:** 2623
 
 ## Marauder II C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3066)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -97,10 +103,11 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 2916
 
 ## Marauder II MAD-4H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
@@ -112,10 +119,11 @@
   - Rocket 20 × 4
   - Rocket 15 × 6
   - Rocket 10
+- **Source:** Civil War
 - **Battle Value:** 2180
 
 ## Marauder II MAD-4K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, Light
@@ -125,10 +133,11 @@
   - Heavy PPC × 2
   - ER Small Laser × 2
   - Gauss Rifle (ammo: 16)
+- **Source:** Jihad
 - **Battle Value:** 2626
 
 ## Marauder II MAD-5W
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 5
@@ -139,10 +148,11 @@
   - Heavy PPC
 - **Equipment:**
   - C3i
+- **Source:** Jihad
 - **Battle Value:** 2383
 
 ## Marauder II MAD-6M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -154,10 +164,11 @@
   - ER PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 2218
 
 ## Marauder II MAD-6D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 5, XL
@@ -169,10 +180,11 @@
   - RAC/5 (ammo: 60)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2378
 
 ## Marauder II MAD-4L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, Light
@@ -183,10 +195,11 @@
   - ER PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2839
 
 ## Marauder II MAD-6S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, Light
@@ -200,10 +213,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** TP Irian - Dark Ages
 - **Battle Value:** 2546
 
 ## Marauder II MAD-6A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, Light
@@ -219,7 +233,7 @@
 - **Battle Value:** 2367
 
 ## Marauder II MAD-6C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3
@@ -234,7 +248,7 @@
 - **Battle Value:** 2346
 
 ## Marauder II MAD-8K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -249,7 +263,7 @@
 - **Battle Value:** 2849
 
 ## Marauder II MAD-10D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3141)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 4 / 6 / 4, XL

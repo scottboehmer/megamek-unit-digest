@@ -12,5 +12,6 @@
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - Supercharger
+- **Source:** Dark Age
 - **Battle Value:** 1203
 

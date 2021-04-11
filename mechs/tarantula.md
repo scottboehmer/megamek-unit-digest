@@ -1,6 +1,6 @@
 # Tarantula
 ## Tarantula ZPH-1A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 25 tons Quad
 - **Movement:** 8 / 12 / 8, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 666
 
 ## Tarantula ZPH-2A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 25 tons Quad
 - **Movement:** 8 / 12 / 8, XL
@@ -21,10 +22,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 744
 
 ## Tarantula ZPH-3A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 25 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 / 7, XL
@@ -32,10 +34,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 702
 
 ## Tarantula ZPH-4A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -46,10 +49,11 @@
 - **Equipment:**
   - C3 Slave
   - MASC
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 967
 
 ## Tarantula ZPH-5A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 25 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -60,5 +64,6 @@
 - **Equipment:**
   - C3 Boosted Slave
   - MASC
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 806
 

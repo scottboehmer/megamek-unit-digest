@@ -1,6 +1,6 @@
 # Vixen (Incubus)
 ## Vixen (Incubus) (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2954)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -12,10 +12,11 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1596
 
 ## Vixen (Incubus) 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2960)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -27,6 +28,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1913
 
 ## Vixen (Incubus) 7
@@ -42,6 +44,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1175
 
 ## Vixen (Incubus) 8
@@ -57,10 +60,11 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1557
 
 ## Vixen (Incubus) 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3025)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -72,10 +76,11 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1324
 
 ## Vixen (Incubus) 4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -86,10 +91,11 @@
   - Medium Pulse Laser × 2
   - Micro Pulse Laser × 2
   - ER Micro Laser × 2
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1581
 
 ## Vixen (Incubus) 5
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -101,6 +107,7 @@
   - Light Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1364
 
 ## Vixen (Incubus) 9
@@ -117,5 +124,6 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1849
 

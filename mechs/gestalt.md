@@ -1,6 +1,6 @@
 # Gestalt
 ## Gestalt D2X-G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 45 tons
 - **Movement:** 7 / 11 / 6, XL
@@ -14,5 +14,6 @@
 - **Equipment:**
   - Void-Signature System
   - Angel ECM Suite
+- **Source:** J:Final Reckoning - Jihad
 - **Battle Value:** 2329
 

@@ -11,6 +11,7 @@
   - Large Laser × 2
   - Medium Laser × 2
   - SRM 4 × 3 (ammo: 50)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1747
 
 ## Sunder SD1-OA
@@ -25,6 +26,7 @@
   - ER PPC
   - Medium Pulse Laser × 2
   - LRM 5 × 3 (ammo: 48)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2003
 
 ## Sunder SD1-OB
@@ -41,6 +43,7 @@
   - LRM 10 (ammo: 24)
 - **Equipment:**
   - C3 Master × 2
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1597
 
 ## Sunder SD1-OC
@@ -57,6 +60,7 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1735
 
 ## Sunder SD1-OR
@@ -71,6 +75,7 @@
   - Clan ER Medium Laser × 4
   - Clan Large Pulse Laser × 2
   - Clan Streak SRM 6 × 2 (ammo: 30)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2462
 
 ## Sunder SD1-OD
@@ -83,6 +88,7 @@
 - **Weapons:**
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - PPC × 2
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1947
 
 ## Sunder SD1-O (Samual)
@@ -99,6 +105,7 @@
   - Flamer × 4
 - **Equipment:**
   - A-Pod × 2
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1593
 
 ## Sunder SD1-OE
@@ -113,6 +120,7 @@
   - Snub-Nose PPC × 2
   - Streak SRM 6 × 2 (ammo: 15)
   - ER Medium Laser
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1876
 
 ## Sunder SD1-OX
@@ -129,6 +137,7 @@
 - **Equipment:**
   - C3 Slave
   - B-Pod × 2
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1761
 
 ## Sunder SD1-OF
@@ -145,6 +154,7 @@
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** unknown
 
 ## Sunder SD1-OG
@@ -162,5 +172,6 @@
 - **Equipment:**
   - CASE II
   - C3 Boosted Slave
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2594
 

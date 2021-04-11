@@ -1,6 +1,6 @@
 # Ghost
 ## Ghost GST-10
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Beagle Active Probe
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1353
 
 ## Ghost GST-11
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -29,10 +30,11 @@
 - **Equipment:**
   - Beagle Active Probe
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1244
 
 ## Ghost GST-50
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -44,6 +46,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1114
 
 ## Ghost GST-10A 'Aurora'
@@ -61,10 +64,11 @@
 - **Equipment:**
   - Void-Signature System
   - Guardian ECM Suite
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1371
 
 ## Ghost GST-90
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -73,5 +77,6 @@
 - **Weapons:**
   - Chainsaw
   - Large Pulse Laser × 2
+- **Source:** RS 3145 NT NU
 - **Battle Value:** unknown
 

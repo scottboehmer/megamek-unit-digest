@@ -1,6 +1,6 @@
 # Lu Wei Bing
 ## Lu Wei Bing LN-4B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3110)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -14,5 +14,6 @@
 - **Equipment:**
   - CASE II
   - Angel ECM Suite
+- **Source:** TRO 3145 Capellan Confederation - Late Republic
 - **Battle Value:** 2045
 

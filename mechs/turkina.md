@@ -12,6 +12,7 @@
   - LRM 15 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2944
 
 ## Turkina A
@@ -26,6 +27,7 @@
   - LRM 20 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2906
 
 ## Turkina B
@@ -42,6 +44,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 3420
 
 ## Turkina D
@@ -56,6 +59,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 3132
 
 ## Turkina H
@@ -72,6 +76,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2712
 
 ## Turkina E
@@ -86,6 +91,7 @@
   - HAG 40 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 3147
 
 ## Turkina Z
@@ -101,6 +107,7 @@
   - CASE
   - Light TAG
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 3935
 
 ## Turkina X
@@ -117,5 +124,6 @@
   - CASE II
   - ECM Suite
   - Talons
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 3056
 

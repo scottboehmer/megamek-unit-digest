@@ -1,6 +1,6 @@
 # Buster BC XV-M-B HaulerMech
 ## Buster BC XV-M-B HaulerMech MOD
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 3 / 5 / 0, IC

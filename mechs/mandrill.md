@@ -1,6 +1,6 @@
 # Mandrill
 ## Mandrill (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2829)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -11,5 +11,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1209
 

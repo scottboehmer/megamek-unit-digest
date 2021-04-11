@@ -1,6 +1,6 @@
 # Goshawk II
 ## Goshawk II (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3086)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Targeting Computer
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1849
 
 ## Goshawk II 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3086)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -31,10 +32,11 @@
   - CASE
   - Targeting Computer
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1767
 
 ## Goshawk II 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3086)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -47,5 +49,6 @@
 - **Equipment:**
   - Targeting Computer
   - Liquid Cargo
+- **Source:** Dark Age
 - **Battle Value:** unknown
 

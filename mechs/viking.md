@@ -1,6 +1,6 @@
 # Viking
 ## Viking VKG-2F
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2079
 
 ## Viking VKG-2G
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -30,10 +31,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2152
 
 ## Viking VKG-3W
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -46,10 +48,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3060
 - **Battle Value:** 1778
 
 ## Viking VKG-3A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -62,5 +65,6 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1849
 

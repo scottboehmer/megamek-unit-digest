@@ -1,6 +1,6 @@
 # Patron MilitiaMech
 ## Patron MilitiaMech PTN-2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 15 tons (Industrial)
 - **Movement:** 2 / 3 / 0, Fuel Cell
@@ -12,10 +12,11 @@
   - Rocket 10 × 5
 - **Equipment:**
   - Searchlight
+- **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 143
 
 ## Patron MilitiaMech PTN-2M
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 15 tons (Industrial)
 - **Movement:** 2 / 3 / 0, Fuel Cell
@@ -25,5 +26,6 @@
 - **Weapons:**
   - Light Machine Gun × 4 (ammo: 200)
   - Rocket 10 × 3
+- **Source:** TRO:Prototypes
 - **Battle Value:** 154
 

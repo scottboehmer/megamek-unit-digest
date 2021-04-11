@@ -1,6 +1,6 @@
 # Devil
 ## Devil (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2911)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XL

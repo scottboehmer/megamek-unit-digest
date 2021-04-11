@@ -1,6 +1,6 @@
 # Revenant
 ## Revenant UBM-2R
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3139)
 - **Chassis:** 30 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -12,10 +12,11 @@
   - Light Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - Drone Operating System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 779
 
 ## Revenant UBM-2R2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3139)
 - **Chassis:** 30 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -27,10 +28,11 @@
   - LRM 5 × 2 (ammo: 48)
 - **Equipment:**
   - Drone Operating System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 630
 
 ## Revenant UBM-2R3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3141)
 - **Chassis:** 30 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -41,10 +43,11 @@
   - ER PPC
 - **Equipment:**
   - Drone Operating System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 770
 
 ## Revenant UBM-2R4
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 30 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -60,5 +63,6 @@
   - C3 Slave
   - TAG
   - Drone Operating System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 615
 

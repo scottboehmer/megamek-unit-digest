@@ -1,6 +1,6 @@
 # Raven
 ## Raven RVN-1X
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
@@ -11,10 +11,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - EW Equipment
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 639
 
 ## Raven RVN-3X
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 35 tons
 - **Movement:** 5 (6) / 8 (9) / 0
@@ -26,10 +27,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - EW Equipment
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 691
 
 ## Raven RVN-2X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3030)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
@@ -39,10 +41,11 @@
   - Medium Laser × 2
   - Large Laser
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 887
 
 ## Raven RVN-4X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3031)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 5
@@ -52,10 +55,11 @@
   - Machine Gun × 2 (ammo: 200)
   - Medium Laser × 2
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 820
 
 ## Raven RVN-3L
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -70,10 +74,11 @@
   - CASE
   - TAG
   - Beagle Active Probe
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 708
 
 ## Raven RVN-3M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -86,10 +91,11 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 659
 
 ## Raven RVN-4LC
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -104,10 +110,11 @@
   - Guardian ECM Suite
   - TAG
   - C3 Slave
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 871
 
 ## Raven RVN-4L
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -121,10 +128,11 @@
   - Guardian ECM Suite
   - TAG
   - Beagle Active Probe
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 873
 
 ## Raven RVN-SR 'Shattered Raven'
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -139,10 +147,11 @@
   - Guardian ECM Suite
   - CASE
   - Beagle Active Probe
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 581
 
 ## Raven RVN-SS 'Shattered Raven'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -157,10 +166,11 @@
   - CASE
   - TAG
   - Beagle Active Probe
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 904
 
 ## Raven RVN-4Lr
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -174,10 +184,11 @@
   - TAG
   - CASE
   - Beagle Active Probe
+- **Source:** Jihad
 - **Battle Value:** 923
 
 ## Raven RVN-5L
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL

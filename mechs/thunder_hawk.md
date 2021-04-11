@@ -1,6 +1,6 @@
 # Thunder Hawk
 ## Thunder Hawk TDK-7X
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2771)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Laser × 4
   - Gauss Rifle × 3 (ammo: 48)
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 2577
 
 ## Thunder Hawk TDK-7Y
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Medium Pulse Laser × 2
   - Gauss Rifle × 3 (ammo: 48)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2489
 
 ## Thunder Hawk TDK-7KMA
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -34,10 +36,11 @@
   - Medium Laser × 4
   - Arrow IV (ammo: 10)
   - Gauss Rifle × 2 (ammo: 32)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2449
 
 ## Thunder Hawk TDK-7S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, Light
@@ -46,5 +49,6 @@
 - **Weapons:**
   - Gauss Rifle × 3 (ammo: 32)
   - Medium Laser × 2
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2440
 

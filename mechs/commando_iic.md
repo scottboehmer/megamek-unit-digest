@@ -1,6 +1,6 @@
 # Commando IIC
 ## Commando IIC (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2856)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -12,5 +12,6 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 978
 

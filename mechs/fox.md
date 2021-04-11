@@ -14,5 +14,6 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2091
 

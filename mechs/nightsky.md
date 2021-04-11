@@ -1,6 +1,6 @@
 # Nightsky
 ## Nightsky NGS-4S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -11,10 +11,11 @@
   - Hatchet
   - Medium Pulse Laser × 2
   - Small Pulse Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1159
 
 ## Nightsky NGS-4T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -28,10 +29,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1287
 
 ## Nightsky NGS-5S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 0, XL
@@ -42,10 +44,11 @@
   - Hatchet
   - Medium Pulse Laser × 2
   - Small Pulse Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1045
 
 ## Nightsky NGS-5T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -56,10 +59,11 @@
   - Hatchet
   - Medium Pulse Laser × 2
   - Small Pulse Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1356
 
 ## Nightsky NGS-6S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons
 - **Movement:** 6 / 9 / 6, Light
@@ -68,10 +72,11 @@
 - **Weapons:**
   - ER Medium Laser × 7
   - Hatchet
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1474
 
 ## Nightsky NGS-6T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 50 tons
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -85,5 +90,6 @@
   - ER Small Laser × 2
   - Medium Pulse Laser
   - Small Pulse Laser
+- **Source:** Civil War
 - **Battle Value:** 1462
 

@@ -1,6 +1,6 @@
 # Kyudo
 ## Kyudo KY2-D-01
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2443)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - Large Laser
+- **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 748
 
 ## Kyudo KY2-D-02
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2625)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -24,10 +25,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1286
 
 ## Kyudo KY2-D-03
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -38,5 +40,6 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1131
 

@@ -12,6 +12,7 @@
   - Ultra AC/10 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1678
 
 ## Omni-Corvis A
@@ -27,6 +28,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1977
 
 ## Omni-Corvis B
@@ -42,5 +44,6 @@
   - Narc (ammo: 0)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 1640
 

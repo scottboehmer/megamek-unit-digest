@@ -12,6 +12,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 3194
 
 ## Masakari (Warhawk) A
@@ -29,6 +30,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2399
 
 ## Masakari (Warhawk) B
@@ -47,6 +49,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2320
 
 ## Masakari (Warhawk) C
@@ -62,6 +65,7 @@
   - Flamer
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2998
 
 ## Masakari (Warhawk) D
@@ -79,6 +83,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2474
 
 ## Masakari (Warhawk) F
@@ -96,6 +101,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2775
 
 ## Masakari (Warhawk) H
@@ -112,6 +118,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2601
 
 ## Masakari (Warhawk) E
@@ -129,5 +136,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2895
 

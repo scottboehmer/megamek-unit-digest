@@ -1,6 +1,6 @@
 # Enforcer III
 ## Enforcer III ENF-6M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -10,10 +10,11 @@
   - ER Large Laser
   - Ultra AC/10 (ammo: 20)
   - ER Small Laser
+- **Source:** TRO 3060
 - **Battle Value:** 1460
 
 ## Enforcer III ENF-6G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -24,10 +25,11 @@
   - Medium Pulse Laser
   - ER Medium Laser × 3
   - ER Small Laser
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1858
 
 ## Enforcer III ENF-6T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -38,10 +40,11 @@
   - ER Medium Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1720
 
 ## Enforcer III ENF-6H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -52,10 +55,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1603
 
 ## Enforcer III ENF-6Ma
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -65,10 +69,11 @@
   - ER Large Laser
   - AC/10 (ammo: 30)
   - ER Small Laser
+- **Source:** Civil War
 - **Battle Value:** 1275
 
 ## Enforcer III ENF-6NAIS
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -82,10 +87,11 @@
   - Guardian ECM Suite
   - Targeting Computer
   - C3 Slave
+- **Source:** TRO 3060
 - **Battle Value:** 1475
 
 ## Enforcer III ENF-7C3BS
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -98,10 +104,11 @@
 - **Equipment:**
   - Targeting Computer
   - C3 Boosted Slave
+- **Source:** Jihad
 - **Battle Value:** 1687
 
 ## Enforcer III ENF-7D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3104)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -114,5 +121,6 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE II
+- **Source:** XTRO Republic I - Late Republic
 - **Battle Value:** 1495
 

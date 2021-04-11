@@ -1,6 +1,6 @@
 # Grand Crusader II
 ## Grand Crusader II GRN-D-03
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 4, Light
@@ -15,10 +15,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2276
 
 ## Grand Crusader II GRN-D-04
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 4, Light
@@ -33,5 +34,6 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2292
 

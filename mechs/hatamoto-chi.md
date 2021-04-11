@@ -1,6 +1,6 @@
 # Hatamoto-Chi
 ## Hatamoto-Chi HTM-26T
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3039)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - PPC × 2
   - SRM 6 × 2 (ammo: 15)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1536
 
 ## Hatamoto-Chi HTM-27T
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3042)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -23,10 +24,11 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1607
 
 ## Hatamoto-Chi HTM-27T (Daniel II)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -38,10 +40,11 @@
 - **Equipment:**
   - CASE
   - C3 Master
+- **Source:** Starterbook: Sword and Dragon - Clan Invasion
 - **Battle Value:** 1661
 
 ## Hatamoto-Chi HTM-28T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 3
@@ -54,10 +57,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2039
 
 ## Hatamoto-Chi HTM-28T (Shin)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 80 tons
 - **Movement:** 3 (4) / 5 (6) / 3
@@ -71,10 +75,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2213
 
 ## Hatamoto-Chi HTM-28Tr
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons
 - **Movement:** 3 / 5 / 3
@@ -89,5 +94,6 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 2034
 

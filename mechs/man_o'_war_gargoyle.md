@@ -12,6 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1537
 
 ## Man O' War (Gargoyle) A
@@ -27,6 +28,7 @@
   - ER Medium Laser
   - ER Small Laser
   - ER PPC × 2
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2689
 
 ## Man O' War (Gargoyle) B
@@ -42,6 +44,7 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1843
 
 ## Man O' War (Gargoyle) C
@@ -58,6 +61,7 @@
 - **Equipment:**
   - CASE
   - A-Pod × 2
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2437
 
 ## Man O' War (Gargoyle) D
@@ -73,6 +77,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2499
 
 ## Man O' War (Gargoyle) (Conal)
@@ -106,6 +111,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2183
 
 ## Man O' War (Gargoyle) E
@@ -123,6 +129,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2257
 
 ## Man O' War (Gargoyle) M
@@ -138,6 +145,7 @@
   - SRM 2 × 3 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2182
 
 ## Man O' War (Gargoyle) G
@@ -153,6 +161,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2156
 
 ## Man O' War (Gargoyle) P
@@ -166,6 +175,7 @@
   - Plasma Cannon × 2 (ammo: 30)
   - Large Pulse Laser × 2
   - Micro Pulse Laser
+- **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 2320
 
 ## Man O' War (Gargoyle) I
@@ -180,6 +190,7 @@
   - ER Large Laser × 3
 - **Equipment:**
   - CASE II
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2516
 
 ## Man O' War (Gargoyle) X
@@ -197,6 +208,7 @@
 - **Equipment:**
   - CASE
   - CASE II
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2800
 
 ## Man O' War (Gargoyle) J
@@ -209,6 +221,7 @@
 - **Weapons:**
   - ER Small Laser × 7
   - Improved Heavy Medium Laser × 4
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2134
 
 ## Man O' War (Gargoyle) K
@@ -226,6 +239,7 @@
   - CASE II
   - Active Probe
   - Inner Sphere Supercharger
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2182
 
 ## Man O' War (Gargoyle) T
@@ -241,5 +255,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 1635
 

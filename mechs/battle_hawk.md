@@ -1,6 +1,6 @@
 # Battle Hawk
 ## Battle Hawk BH-K305
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -11,10 +11,11 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 771
 
 ## Battle Hawk BH-K306
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 5, Light
@@ -25,5 +26,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 926
 

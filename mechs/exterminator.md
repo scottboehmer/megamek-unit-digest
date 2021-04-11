@@ -1,6 +1,6 @@
 # Exterminator
 ## Exterminator EXT-4C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2630)
 - **Chassis:** 65 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -14,10 +14,11 @@
   - Chameleon LPS
   - Null-Signature System
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1420
 
 ## Exterminator EXT-4D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2630)
 - **Chassis:** 65 tons
 - **Movement:** 6 / 9 / 6, XL
@@ -29,10 +30,11 @@
   - Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1385
 
 ## Exterminator EXT-4Db
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2718)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -45,7 +47,7 @@
 - **Battle Value:** 1694
 
 ## Exterminator EXT-4A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3007)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 5
@@ -56,10 +58,11 @@
   - LRM 10 (ammo: 12)
   - Machine Gun (ammo: 200)
   - Small Laser
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1372
 
 ## Exterminator EXT-5E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -71,10 +74,11 @@
 - **Equipment:**
   - MASC
   - C3i
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1532
 
 ## Exterminator EXT-5F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -87,10 +91,11 @@
 - **Equipment:**
   - MASC
   - C3i
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1485
 
 ## Exterminator EXT-6CS
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -104,5 +109,6 @@
   - Chameleon LPS
   - Null-Signature System
   - CASE II
+- **Source:** XTRO ComStar - Jihad
 - **Battle Value:** 1592
 

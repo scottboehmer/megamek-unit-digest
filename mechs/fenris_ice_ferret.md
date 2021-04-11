@@ -13,6 +13,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1678
 
 ## Fenris (Ice Ferret) A
@@ -28,6 +29,7 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1323
 
 ## Fenris (Ice Ferret) B
@@ -44,6 +46,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1461
 
 ## Fenris (Ice Ferret) C
@@ -58,6 +61,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1211
 
 ## Fenris (Ice Ferret) D
@@ -72,6 +76,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1653
 
 ## Fenris (Ice Ferret) E
@@ -87,6 +92,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1483
 
 ## Fenris (Ice Ferret) H
@@ -102,6 +108,7 @@
   - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1619
 
 ## Fenris (Ice Ferret) L
@@ -117,6 +124,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1380
 
 ## Fenris (Ice Ferret) F

@@ -13,6 +13,7 @@
   - LB 5-X AC (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1085
 
 ## Uller (Kit Fox) A
@@ -27,6 +28,7 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1310
 
 ## Uller (Kit Fox) B
@@ -43,6 +45,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1087
 
 ## Uller (Kit Fox) D
@@ -58,6 +61,7 @@
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1142
 
 ## Uller (Kit Fox) V
@@ -72,6 +76,7 @@
   - Arrow IV (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 11 - Early Succession War
 - **Battle Value:** 850
 
 ## Uller (Kit Fox) C
@@ -92,6 +97,7 @@
   - Active Probe
   - CASE
   - A-Pod × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1147
 
 ## Uller (Kit Fox) S
@@ -109,6 +115,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1342
 
 ## Uller (Kit Fox) W
@@ -121,6 +128,7 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1431
 
 ## Uller (Kit Fox) E
@@ -136,6 +144,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1415
 
 ## Uller (Kit Fox) G
@@ -152,6 +161,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
+- **Source:** ilClan Vol 11 - Clan Invasion
 - **Battle Value:** 1368
 
 ## Uller (Kit Fox) H
@@ -166,6 +176,7 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1214
 
 ## Uller (Kit Fox) J
@@ -181,6 +192,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 11 - Clan Invasion
 - **Battle Value:** 1134
 
 ## Uller (Kit Fox) F
@@ -195,6 +207,7 @@
   - HAG 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1219
 
 ## Uller (Kit Fox) K
@@ -209,6 +222,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 1109
 
 ## Uller (Kit Fox) R
@@ -223,6 +237,7 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 1232
 
 ## Uller (Kit Fox) BLO
@@ -239,6 +254,7 @@
 - **Equipment:**
   - Inner Sphere C3i
   - CASE
+- **Source:** SO: Unending Faith - Dark Age
 - **Battle Value:** 988
 
 ## Uller (Kit Fox) T
@@ -257,5 +273,6 @@
   - CASE
   - Supercharger
   - Active Probe
+- **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 1380
 

@@ -1,6 +1,6 @@
 # Shadow Cat II
 ## Shadow Cat II (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3076)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -12,10 +12,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2064
 
 ## Shadow Cat II 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3089)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -27,10 +28,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU
 - **Battle Value:** 2387
 
 ## Shadow Cat II 4
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3092)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -41,5 +43,6 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NTNU
 - **Battle Value:** 1986
 

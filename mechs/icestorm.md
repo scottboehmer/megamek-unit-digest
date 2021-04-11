@@ -1,6 +1,6 @@
 # Icestorm
 ## Icestorm (Standard)
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (2830)
 - **Chassis:** 25 tons
 - **Movement:** 12 / 18 / 0, XL
@@ -12,10 +12,11 @@
 - **Equipment:**
   - CASE
   - TAG
+- **Source:** TRO 3060
 - **Battle Value:** 728
 
 ## Icestorm 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 25 tons
 - **Movement:** 12 / 18 / 0, XL
@@ -26,5 +27,6 @@
   - ER Flamer
 - **Equipment:**
   - Light TAG
+- **Source:** TRO 3060
 - **Battle Value:** 868
 

@@ -1,6 +1,6 @@
 # Marshal
 ## Marshal MHL-X1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 4
@@ -13,10 +13,11 @@
   - Medium Pulse Laser
   - LRM 5 (ammo: 24)
   - Flamer
+- **Source:** TRO 3060
 - **Battle Value:** 1163
 
 ## Marshal MHL-2L
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 4
@@ -29,10 +30,11 @@
   - LRM 15 (ammo: 24)
   - Medium Pulse Laser
   - Flamer
+- **Source:** TRO 3060
 - **Battle Value:** 1313
 
 ## Marshal MHL-6MC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -46,6 +48,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - MG Array
+- **Source:** TRO 3060
 - **Battle Value:** 1457
 
 ## Marshal MHL-6FR
@@ -59,10 +62,11 @@
   - Snub-Nose PPC
   - Medium X-Pulse Laser × 3
   - Flamer
+- **Source:** Fronc Reachs
 - **Battle Value:** 1429
 
 ## Marshal MHL-3MC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3119)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6 / 4
@@ -75,5 +79,6 @@
   - Medium Pulse Laser
   - MML 9 (ammo: 13 LRM, 22 SRM)
   - Flamer
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 1714
 

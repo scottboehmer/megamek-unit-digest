@@ -1,6 +1,6 @@
 # Sentry
 ## Sentry SNT-04
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -13,10 +13,11 @@
   - Flamer
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1069
 
 ## Sentry SNT-W5
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -29,5 +30,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1143
 

@@ -1,6 +1,6 @@
 # Hellhound (Conjurer)
 ## Hellhound (Conjurer) (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2829)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -12,10 +12,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1813
 
 ## Hellhound (Conjurer) 7
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2836)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -27,10 +28,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1845
 
 ## Hellhound (Conjurer) 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -42,10 +44,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2097
 
 ## Hellhound (Conjurer) 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3064)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -56,10 +59,11 @@
   - ER Large Laser
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1764
 
 ## Hellhound (Conjurer) 4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -73,10 +77,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2164
 
 ## Hellhound (Conjurer) 5
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3067)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -87,10 +92,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1722
 
 ## Hellhound (Conjurer) 8
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3142)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL

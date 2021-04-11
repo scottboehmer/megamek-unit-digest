@@ -1,6 +1,6 @@
 # Spartan
 ## Spartan SPT-N1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2764)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - TAG
   - Anti-Missile System (ammo: 24)
+- **Source:** Rhonda's Irregulars - Star League
 - **Battle Value:** 1498
 
 ## Spartan SPT-N2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -29,10 +30,11 @@
 - **Equipment:**
   - TAG
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1605
 
 ## Spartan SPT-NF
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2770)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -45,10 +47,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1605
 
 ## Spartan C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2865)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -60,10 +63,11 @@
   - Streak SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2514
 
 ## Spartan SPT-N3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -76,5 +80,6 @@
 - **Equipment:**
   - TAG
   - C3i
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1631
 

@@ -1,6 +1,6 @@
 # Fafnir
 ## Fafnir FNR-5
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 2636
 
 ## Fafnir FNR-5B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -30,10 +31,11 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 2625
 
 ## Fafnir FNR-4A (Peter)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0
@@ -52,7 +54,7 @@
 - **Battle Value:** 2458
 
 ## Fafnir FNR-5WB
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -63,10 +65,11 @@
   - Plasma Rifle × 4 (ammo: 50)
 - **Equipment:**
   - C3i
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2449
 
 ## Fafnir FNR-6U
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, Light
@@ -77,5 +80,6 @@
   - Light PPC × 4
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2234
 

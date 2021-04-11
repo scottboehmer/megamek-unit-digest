@@ -1,6 +1,6 @@
 # Hatamoto-Kaze
 ## Hatamoto-Kaze HTM-27V
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -11,5 +11,6 @@
   - LRM 5 × 2 (ammo: 96)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1595
 

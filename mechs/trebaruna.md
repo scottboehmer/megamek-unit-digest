@@ -1,6 +1,6 @@
 # Trebaruna
 ## Trebaruna TR-XB
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4
@@ -13,10 +13,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 2223
 
 ## Trebaruna TR-XJ
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4
@@ -28,10 +29,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2270
 
 ## Trebaruna TR-XL
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
 - **Movement:** 3 / 5 / 4, Light
@@ -42,5 +44,6 @@
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2244
 

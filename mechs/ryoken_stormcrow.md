@@ -9,6 +9,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - ER Medium Laser × 3
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2073
 
 ## Ryoken (Stormcrow) A
@@ -24,6 +25,7 @@
   - Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2319
 
 ## Ryoken (Stormcrow) B
@@ -38,6 +40,7 @@
   - ER Medium Laser × 6
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2281
 
 ## Ryoken (Stormcrow) C
@@ -53,6 +56,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1881
 
 ## Ryoken (Stormcrow) D
@@ -68,6 +72,7 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1863
 
 ## Ryoken (Stormcrow) Attwater
@@ -82,6 +87,7 @@
   - LRM 5 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1482
 
 ## Ryoken (Stormcrow) TC
@@ -97,6 +103,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Clan Invasion
 - **Battle Value:** 2373
 
 ## Ryoken (Stormcrow) E
@@ -113,6 +120,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2110
 
 ## Ryoken (Stormcrow) (Kotare)
@@ -128,6 +136,7 @@
   - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2382
 
 ## Ryoken (Stormcrow) H
@@ -140,6 +149,7 @@
 - **Weapons:**
   - Heavy Large Laser × 2
   - ER Medium Laser × 3
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2061
 
 ## Ryoken (Stormcrow) I
@@ -156,6 +166,7 @@
 - **Equipment:**
   - CASE
   - Active Probe
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2319
 
 ## Ryoken (Stormcrow) G
@@ -170,6 +181,7 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2152
 
 ## Ryoken (Stormcrow) F
@@ -186,6 +198,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2227
 
 ## Ryoken (Stormcrow) Z
@@ -202,6 +215,7 @@
   - CASE
   - Supercharger
   - Nova CEWS
+- **Source:** WoR - Jihad
 - **Battle Value:** 2855
 
 ## Ryoken (Stormcrow) J
@@ -217,6 +231,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 2300
 
 ## Ryoken (Stormcrow) K
@@ -231,6 +246,7 @@
   - Improved Heavy Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2001
 
 ## Ryoken (Stormcrow) P
@@ -246,6 +262,7 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2213
 
 ## Ryoken (Stormcrow) T
@@ -262,5 +279,6 @@
 - **Equipment:**
   - Supercharger
   - Light Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 2280
 

@@ -1,6 +1,6 @@
 # Toyama
 ## Toyama TYM-1A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -13,10 +13,11 @@
   - LRM 20 (ammo: 12)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1714
 
 ## Toyama TYM-1B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -31,10 +32,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1788
 
 ## Toyama TYM-1C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -48,5 +50,6 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1727
 

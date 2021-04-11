@@ -11,6 +11,7 @@
   - LRM 20 × 4 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2729
 
 ## Vulture Mk III (Mad Dog Mk III) A
@@ -26,6 +27,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 1880
 
 ## Vulture Mk III (Mad Dog Mk III) B
@@ -41,6 +43,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2572
 
 ## Vulture Mk III (Mad Dog Mk III) BLO
@@ -58,6 +61,7 @@
 - **Equipment:**
   - CASE
   - Inner Sphere C3i
+- **Source:** SO: Unending Faith - Late Republic
 - **Battle Value:** 2397
 
 ## Vulture Mk III (Mad Dog Mk III) C
@@ -72,6 +76,7 @@
   - Streak SRM 6 × 8 (ammo: 60)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2299
 
 ## Vulture Mk III (Mad Dog Mk III) D
@@ -86,5 +91,6 @@
   - RAC/5 × 2 (ammo: 120)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2421
 

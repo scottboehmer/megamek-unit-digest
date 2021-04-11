@@ -1,6 +1,6 @@
 # Snake
 ## Snake SNK-1V
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -11,10 +11,11 @@
   - Streak SRM 2 × 3 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 980
 
 ## Snake SNK-1V (Alexi)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -28,7 +29,7 @@
 - **Battle Value:** 1316
 
 ## Snake SNK-2B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -40,10 +41,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1081
 
 ## Snake (Arthur)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -56,10 +58,11 @@
   - Anti-Missile System (ammo: 12)
   - MASC
   - Guardian ECM Suite
+- **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
 - **Battle Value:** 1477
 
 ## Snake SNK-2Br
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -71,5 +74,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1577
 

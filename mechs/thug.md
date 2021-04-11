@@ -1,6 +1,6 @@
 # Thug
 ## Thug THG-11E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2572)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -11,10 +11,11 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1640
 
 ## Thug THG-11Eb
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2760)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -25,10 +26,11 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1759
 
 ## Thug THG-11ECX (Jose)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2772)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -40,10 +42,11 @@
 - **Equipment:**
   - Command Console
   - Null-Signature System
+- **Source:** XTRO Gunslingers - Star League
 - **Battle Value:** 1720
 
 ## Thug THG-10E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2835)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6 / 0
@@ -52,10 +55,11 @@
 - **Weapons:**
   - PPC × 2
   - SRM 4 × 2 (ammo: 25)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1501
 
 ## Thug THG-12E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -67,10 +71,11 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1751
 
 ## Thug THG-12K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -83,10 +88,11 @@
   - CASE
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1824
 
 ## Thug THG-13K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -97,10 +103,11 @@
   - Heavy PPC × 3
 - **Equipment:**
   - C3i
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2086
 
 ## Thug THG-11E (Reich)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3071)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -111,5 +118,6 @@
   - Clan Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** FM:Mercenaries SII - Jihad
 - **Battle Value:** 2612
 

@@ -1,6 +1,6 @@
 # Dark Crow
 ## Dark Crow (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -12,10 +12,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1594
 
 ## Dark Crow 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -28,10 +29,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 1575
 
 ## Dark Crow 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Composite)
 - **Movement:** 6 / 9 / 8, XXL
@@ -44,10 +46,11 @@
   - Partial Wing
   - CASE
   - Liquid Cargo
+- **Source:** Dark Age
 - **Battle Value:** unknown
 
 ## Dark Crow 4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3087)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -60,5 +63,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 1538
 

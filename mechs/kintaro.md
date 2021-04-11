@@ -1,6 +1,6 @@
 # Kintaro
 ## Kintaro KTO-19
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2587)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
@@ -11,10 +11,11 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 2
   - Narc (ammo: 12)
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1160
 
 ## Kintaro KTO-19b
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2731)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -27,10 +28,11 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1265
 
 ## Kintaro KTO-18
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2792)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
@@ -40,10 +42,11 @@
   - SRM 6 × 3 (ammo: 45)
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1187
 
 ## Kintaro KTO-20
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
@@ -54,10 +57,11 @@
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
   - Large Laser
+- **Source:** TRO 3050 - Succession War
 - **Battle Value:** 1357
 
 ## Kintaro KTO-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0
@@ -70,10 +74,11 @@
   - Large Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1294
 
 ## Kintaro KTO-K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 5
@@ -85,10 +90,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1571
 
 ## Kintaro KTO-21
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -101,5 +107,6 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1295
 

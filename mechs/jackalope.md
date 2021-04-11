@@ -1,6 +1,6 @@
 # Jackalope
 ## Jackalope JLP-BD
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3134)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -13,10 +13,11 @@
   - CASE
   - Light Active Probe
   - Laser Anti-Missile System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1395
 
 ## Jackalope JLP-C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3135)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -30,10 +31,11 @@
   - Inner Sphere C3 Slave
   - Light Active Probe
   - Laser Anti-Missile System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1253
 
 ## Jackalope JLP-KA
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3135)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 4, XXL
@@ -46,10 +48,11 @@
   - CASE II
   - Light Active Probe
   - Laser Anti-Missile System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1488
 
 ## Jackalope JLP-KW 'Wolpertinger'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3142)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 7, XXL
@@ -63,5 +66,6 @@
   - Partial Wing
   - CASE II
   - Laser Anti-Missile System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1334
 

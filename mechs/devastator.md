@@ -1,6 +1,6 @@
 # Devastator
 ## Devastator DVS-1D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3036)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0
@@ -10,10 +10,11 @@
   - AC/10 × 2 (ammo: 40)
   - Large Laser × 2
   - Medium Laser × 4
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1858
 
 ## Devastator DVS-2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -23,10 +24,11 @@
   - Gauss Rifle × 2 (ammo: 32)
   - PPC × 2
   - Medium Laser × 4
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2481
 
 ## Devastator DVS-3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -37,5 +39,6 @@
   - PPC × 2
   - Medium Laser
   - Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2452
 

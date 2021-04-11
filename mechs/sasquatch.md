@@ -1,6 +1,6 @@
 # Sasquatch
 ## Sasquatch SQS-TH-001
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -14,5 +14,6 @@
   - Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1940
 

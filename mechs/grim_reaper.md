@@ -1,6 +1,6 @@
 # Grim Reaper
 ## Grim Reaper GRM-R-PR29
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1469
 
 ## Grim Reaper GRM-R-PR30
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -32,10 +33,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1673
 
 ## Grim Reaper GRM-R-PR31
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons
 - **Movement:** 5 (6) / 8 (9) / 0, XL
@@ -50,10 +52,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1655
 
 ## Grim Reaper GRM-R-PR62A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL

@@ -1,6 +1,6 @@
 # Sagittaire
 ## Sagittaire SGT-8R
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -13,10 +13,11 @@
   - ER PPC
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 2088
 
 ## Sagittaire SGT-9D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -29,10 +30,11 @@
   - ER PPC
 - **Equipment:**
   - C3 Master
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2064
 
 ## Sagittaire SGT-10X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 5, Light
@@ -45,7 +47,7 @@
 - **Battle Value:** 1794
 
 ## Sagittaire SGT-14D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 3, Light
@@ -60,5 +62,6 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Boosted Slave
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1960
 

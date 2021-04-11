@@ -12,6 +12,7 @@
   - Ultra AC/10 (ammo: 30)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2147
 
 ## Stooping Hawk A
@@ -23,6 +24,7 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
+- **Source:** TRO 3060
 - **Battle Value:** 2319
 
 ## Stooping Hawk B
@@ -37,6 +39,7 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2111
 
 ## Stooping Hawk C
@@ -51,6 +54,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 2435
 
 ## Stooping Hawk D
@@ -65,6 +69,7 @@
   - ER Small Laser
   - Heavy Medium Laser × 3
   - ER Large Laser
+- **Source:** TRO 3060
 - **Battle Value:** 1838
 
 ## Stooping Hawk E
@@ -80,6 +85,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1674
 
 ## Stooping Hawk F
@@ -96,6 +102,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1988
 
 ## Stooping Hawk G
@@ -110,5 +117,6 @@
   - ProtoMech AC/4 × 3 (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1657
 

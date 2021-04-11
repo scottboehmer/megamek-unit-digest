@@ -1,6 +1,6 @@
 # Hollander III
 ## Hollander III BZK-D1
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3114)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -12,10 +12,11 @@
 - **Equipment:**
   - Supercharger
   - CASE II
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1116
 
 ## Hollander III BZK-D2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3115)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -26,10 +27,11 @@
   - Gauss Rifle (ammo: 24)
 - **Equipment:**
   - Supercharger
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1270
 
 ## Hollander III BZK-D3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3118)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -44,5 +46,6 @@
   - Angel ECM Suite
   - Targeting Computer
   - Supercharger
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1575
 

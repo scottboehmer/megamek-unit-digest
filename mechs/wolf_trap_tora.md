@@ -1,6 +1,6 @@
 # Wolf Trap (Tora)
 ## Wolf Trap (Tora) WFT-1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -12,10 +12,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1070
 
 ## Wolf Trap (Tora) WFT-1 (Daitama)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -32,7 +33,7 @@
 - **Battle Value:** 1290
 
 ## Wolf Trap (Tora) WFT-C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -45,10 +46,11 @@
 - **Equipment:**
   - C3 Slave
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1001
 
 ## Wolf Trap (Tora) WFT-B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -61,10 +63,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1021
 
 ## Wolf Trap (Tora) WFT-2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -78,10 +81,11 @@
 - **Equipment:**
   - MG Array
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1212
 
 ## Wolf Trap (Tora) WFT-2X 'Bear Trap'
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -90,10 +94,11 @@
 - **Weapons:**
   - Silver Bullet (ammo: 16)
   - Medium X-Pulse Laser × 2
+- **Source:** XTRO Kurita - Jihad
 - **Battle Value:** 1211
 
 ## Wolf Trap (Tora) WFT-2B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -102,5 +107,6 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - Medium X-Pulse Laser × 2
+- **Source:** TRO: Prototypes
 - **Battle Value:** 1439
 

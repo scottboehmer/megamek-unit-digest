@@ -1,6 +1,6 @@
 # Grand Titan
 ## Grand Titan T-IT-N10M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -14,10 +14,11 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1817
 
 ## Grand Titan T-IT-N11M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -32,5 +33,6 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2053
 

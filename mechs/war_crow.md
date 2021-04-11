@@ -13,6 +13,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2799
 
 ## War Crow A
@@ -30,6 +31,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
+- **Source:** Dark Age
 - **Battle Value:** 3030
 
 ## War Crow B
@@ -46,6 +48,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2787
 
 ## War Crow C
@@ -62,5 +65,6 @@
 - **Equipment:**
   - Inner Sphere Coolant Pod
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2572
 

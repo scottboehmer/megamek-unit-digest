@@ -1,6 +1,6 @@
 # Marco
 ## Marco MR-8C ExplorerMech
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 3
@@ -17,7 +17,7 @@
 - **Battle Value:** unknown
 
 ## Marco MR-8D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0
@@ -29,10 +29,11 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - Enviro-Sealing
+- **Source:** RS OK - Early Succession War
 - **Battle Value:** unknown
 
 ## Marco MR-8E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0
@@ -44,5 +45,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Enviro-Sealing
+- **Source:** RS OK - Early Succession War
 - **Battle Value:** unknown
 

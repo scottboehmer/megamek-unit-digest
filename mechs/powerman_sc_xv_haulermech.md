@@ -1,6 +1,6 @@
 # Powerman SC XV HaulerMech
 ## Powerman SC XV HaulerMech (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2795)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
@@ -10,5 +10,6 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Cargo × 3
+- **Source:** TRO VA
 - **Battle Value:** unknown
 

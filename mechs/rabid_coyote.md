@@ -1,6 +1,6 @@
 # Rabid Coyote
 ## Rabid Coyote (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3066)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -12,10 +12,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 2081
 
 ## Rabid Coyote 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3071)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -28,5 +29,6 @@
   - CASE
   - Active Probe
   - ECM Suite
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2083
 

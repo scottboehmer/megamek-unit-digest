@@ -16,6 +16,7 @@
   - CASE II
   - Angel ECM Suite
   - C3 Boosted Slave
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 1881
 
 ## Vandal LI-OA
@@ -34,5 +35,6 @@
   - CASE II
   - Laser Anti-Missile System
   - C3 BoostedMaster
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 1865
 

@@ -1,6 +1,6 @@
 # Highlander IIC
 ## Highlander IIC (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2858)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -13,10 +13,11 @@
   - LRM 20 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2979
 
 ## Highlander IIC 2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -31,10 +32,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 2928
 
 ## Highlander IIC 3
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 3
@@ -48,5 +50,6 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 3001
 

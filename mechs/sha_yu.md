@@ -1,6 +1,6 @@
 # Sha Yu
 ## Sha Yu SYU-2B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -12,10 +12,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3067
 - **Battle Value:** 1379
 
 ## Sha Yu SYU-4B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -28,10 +29,11 @@
 - **Equipment:**
   - C3 Slave
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 1267
 
 ## Sha Yu (Bulldog)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -42,10 +44,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
 - **Battle Value:** 1379
 
 ## Sha Yu SYU-6B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -56,5 +59,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1422
 

@@ -1,6 +1,6 @@
 # Great Wyrm
 ## Great Wyrm (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2844)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 0
@@ -13,10 +13,11 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1331
 
 ## Great Wyrm (Aemelia)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 0
@@ -30,7 +31,7 @@
 - **Battle Value:** 1772
 
 ## Great Wyrm 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 0
@@ -42,5 +43,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1667
 

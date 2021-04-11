@@ -1,6 +1,6 @@
 # Yeoman
 ## Yeoman YMN-6Y
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -11,10 +11,11 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1344
 
 ## Yeoman YMN-10-OR
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -26,5 +27,6 @@
   - MML 5 × 4 (ammo: 24 LRM, 40 SRM)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1319
 

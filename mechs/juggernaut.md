@@ -1,6 +1,6 @@
 # Juggernaut
 ## Juggernaut JG-R9T1
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
   - Machine Gun × 16 (ammo: 400)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1719
 
 ## Juggernaut JG-R9T2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
@@ -28,10 +29,11 @@
   - Machine Gun × 12 (ammo: 200)
 - **Equipment:**
   - Coolant Pod × 4
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1916
 
 ## Juggernaut JG-R9T3
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
@@ -43,5 +45,6 @@
   - MagShot Gauss Rifle × 6 (ammo: 100)
 - **Equipment:**
   - Coolant Pod × 6
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1959
 

@@ -1,6 +1,6 @@
 # Tempest
 ## Tempest TMP-3M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -11,10 +11,11 @@
   - Gauss Rifle (ammo: 16)
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1786
 
 ## Tempest TMP-3G
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -25,10 +26,11 @@
   - Gauss Rifle (ammo: 24)
   - SRM 4 (ammo: 25)
   - Medium Laser × 3
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1810
 
 ## Tempest TMP-3MA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -39,10 +41,11 @@
   - AC/10 (ammo: 40)
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1425
 
 ## Tempest TMP-3M2 'Storm Tempest'
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -54,5 +57,6 @@
   - ER Small Laser
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1642
 

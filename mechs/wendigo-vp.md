@@ -14,6 +14,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2360
 
 ## Wendigo-VP A
@@ -30,5 +31,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 2414
 

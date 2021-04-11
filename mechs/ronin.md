@@ -1,6 +1,6 @@
 # Ronin
 ## Ronin SA-RN
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -12,10 +12,11 @@
   - SRM 4 w/ Artemis IV × 4 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1084
 
 ## Ronin SA-RN7
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -28,5 +29,6 @@
   - ER Small Laser
 - **Equipment:**
   - M-Pod × 2
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1180
 

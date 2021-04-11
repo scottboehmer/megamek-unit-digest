@@ -1,6 +1,6 @@
 # Raven X
 ## Raven X RVN-3X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 6 / 9 / 0, XL
@@ -15,5 +15,6 @@
   - Laser Anti-Missile System
   - Bloodhound Active Probe
   - Angel ECM Suite
+- **Source:** XTRO Liao - Jihad
 - **Battle Value:** 1021
 

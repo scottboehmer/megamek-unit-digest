@@ -1,6 +1,6 @@
 # Hyena
 ## Hyena HYN-4A SalvageMech
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Industrial)
 - **Movement:** 5 / 8 / 0
@@ -13,5 +13,6 @@
   - Enviro-Sealing
   - Salvage Arm
   - Lift Hoist × 2
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 

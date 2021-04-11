@@ -12,6 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - Supercharger
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 2133
 
 ## Carrion Crow A
@@ -27,6 +28,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 1625
 
 ## Carrion Crow B
@@ -44,6 +46,7 @@
   - Supercharger
   - CASE
   - Watchdog CEWS
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 2083
 
 ## Carrion Crow C
@@ -58,6 +61,7 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE II
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 1826
 
 ## Carrion Crow D
@@ -74,5 +78,6 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 1930
 

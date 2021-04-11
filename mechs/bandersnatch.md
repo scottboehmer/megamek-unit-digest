@@ -1,6 +1,6 @@
 # Bandersnatch
 ## Bandersnatch BNDR-01A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -12,10 +12,11 @@
   - LRM 5 × 3 (ammo: 48)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1478
 
 ## Bandersnatch BNDR-01A (Horus)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -30,7 +31,7 @@
 - **Battle Value:** 1584
 
 ## Bandersnatch BNDR-01B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -44,10 +45,11 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1630
 
 ## Bandersnatch BNDR-01Ar
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -61,5 +63,6 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1522
 

@@ -1,6 +1,6 @@
 # Osprey
 ## Osprey OSP-15
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2738)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -12,10 +12,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** Star League
 - **Battle Value:** 1564
 
 ## Osprey OSP-25
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -27,10 +28,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1630
 
 ## Osprey OSP-26
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -44,10 +46,11 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1541
 
 ## Osprey OSP-26 (Lawrence)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6 / 5, XL
@@ -62,5 +65,6 @@
   - Beagle Active Probe
   - CASE
   - C3 Slave
+- **Source:** TRO 3085/Lamenkov's Liability - Jihad
 - **Battle Value:** 1461
 

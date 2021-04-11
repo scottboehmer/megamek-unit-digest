@@ -1,6 +1,6 @@
 # Argus
 ## Argus AGS-2D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -11,10 +11,11 @@
   - ER PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1566
 
 ## Argus AGS-4D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -29,10 +30,11 @@
   - Beagle Active Probe
   - CASE
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 1638
 
 ## Argus AGS-5D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -47,10 +49,11 @@
   - MASC
   - Targeting Computer
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2065
 
 ## Argus AGS-8DX
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -64,10 +67,11 @@
   - C3 Boosted Slave
   - CASE
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 1598
 
 ## Argus AGS-6F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, Light
@@ -79,5 +83,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1524
 

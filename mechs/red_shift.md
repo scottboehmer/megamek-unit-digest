@@ -1,6 +1,6 @@
 # Red Shift
 ## Red Shift RDS-2A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -11,10 +11,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** TRO 3067
 - **Battle Value:** 626
 
 ## Red Shift RDS-2B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -25,10 +26,11 @@
 - **Equipment:**
   - Beagle Active Probe
   - TAG
+- **Source:** TRO 3067
 - **Battle Value:** 555
 
 ## Red Shift RDS-3A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -38,5 +40,6 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - C3i
+- **Source:** 3067 Unabridged
 - **Battle Value:** 869
 

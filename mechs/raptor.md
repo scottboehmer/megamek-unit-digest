@@ -11,6 +11,7 @@
   - Small Laser × 2
   - LRM 5 × 3 (ammo: 24)
   - Machine Gun × 2 (ammo: 100)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 721
 
 ## Raptor RTX1-OA
@@ -23,6 +24,7 @@
 - **Weapons:**
   - Small Laser × 3
   - Large Laser × 2
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 783
 
 ## Raptor RTX1-OB
@@ -35,6 +37,7 @@
 - **Weapons:**
   - SRM 6 × 3 (ammo: 30)
   - Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 613
 
 ## Raptor RTX1-OC
@@ -49,6 +52,7 @@
   - Medium Laser × 6
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 870
 
 ## Raptor RTX1-OD
@@ -66,6 +70,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 490
 
 ## Raptor RTX1-OE
@@ -78,6 +83,7 @@
 - **Weapons:**
   - MRM 10 × 3 (ammo: 48)
   - Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 597
 
 ## Raptor RTX1-OR
@@ -93,6 +99,7 @@
   - Clan ER Small Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1393
 
 ## Raptor RTX1-OF
@@ -104,6 +111,7 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Medium Laser × 5
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1029
 
 ## Raptor RTX1-OG
@@ -117,5 +125,6 @@
   - Plasma Rifle (ammo: 20)
   - Small Pulse Laser × 3
   - ER Small Laser
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 857
 

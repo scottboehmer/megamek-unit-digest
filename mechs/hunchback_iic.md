@@ -1,6 +1,6 @@
 # Hunchback IIC
 ## Hunchback IIC (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Clan (2856)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -11,10 +11,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1679
 
 ## Hunchback IIC 2
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -23,10 +24,11 @@
 - **Weapons:**
   - Heavy Large Laser × 4
   - Medium Pulse Laser × 2
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1869
 
 ## Hunchback IIC 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3062)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -37,10 +39,11 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1951
 
 ## Hunchback IIC 4
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3075)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -52,5 +55,6 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 2097
 

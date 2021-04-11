@@ -1,6 +1,6 @@
 # Starslayer
 ## Starslayer STY-2C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2772)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5
@@ -13,10 +13,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1365
 
 ## Starslayer STY-3C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -29,10 +30,11 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1508
 
 ## Starslayer STY-3D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -42,10 +44,11 @@
   - Large Laser
   - Medium Laser × 3
   - ER PPC
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1593
 
 ## Starslayer STY-3Dr
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 5
@@ -57,5 +60,6 @@
   - Heavy PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1781
 

@@ -1,6 +1,6 @@
 # Champion
 ## Champion CHP-1N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2602)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -11,10 +11,11 @@
   - Medium Laser × 2
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Small Laser × 2
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1233
 
 ## Champion CHP-1N2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2667)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -25,10 +26,11 @@
   - Medium Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Laser × 2
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1233
 
 ## Champion CHP-1Nb
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2751)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -40,7 +42,7 @@
 - **Battle Value:** 1632
 
 ## Champion CHP-2N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2810)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -51,10 +53,11 @@
   - Medium Laser × 2
   - AC/10 (ammo: 20)
   - Small Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1116
 
 ## Champion C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2867)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -68,10 +71,11 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2191
 
 ## Champion CHP-3N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -83,10 +87,11 @@
   - Medium Laser × 2
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Small Laser × 2
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1400
 
 ## Champion CHP-3P
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -99,5 +104,6 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1503
 

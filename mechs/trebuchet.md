@@ -1,6 +1,6 @@
 # Trebuchet
 ## Trebuchet TBT-3C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2780)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -11,10 +11,11 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1414
 
 ## Trebuchet TBT-5N
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2799)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
@@ -23,10 +24,11 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
   - Medium Laser × 3
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1191
 
 ## Trebuchet TBT-5J
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2850)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5
@@ -35,10 +37,11 @@
 - **Weapons:**
   - Medium Laser × 3
   - LRM 15 (ammo: 8)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1191
 
 ## Trebuchet TBT-5S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2864)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
@@ -47,6 +50,7 @@
 - **Weapons:**
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 3
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 984
 
 ## Trebuchet TBT-5K
@@ -60,10 +64,11 @@
   - SRM 2 (ammo: 50)
   - AC/5 (ammo: 20)
   - PPC
+- **Source:** Starterbook: Sword and Dragon - Succession Wars
 - **Battle Value:** 996
 
 ## Trebuchet TBT-7K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 0
@@ -73,10 +78,11 @@
   - SRM 2 (ammo: 50)
   - AC/5 (ammo: 20)
   - PPC
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 996
 
 ## Trebuchet TBT-7M
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -88,10 +94,11 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1348
 
 ## Trebuchet TBT-9K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -104,10 +111,11 @@
 - **Equipment:**
   - C3 Slave
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1329
 
 ## Trebuchet TBT-8B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -118,6 +126,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1278
 
 ## Trebuchet TBT-7MM 'Merida'
@@ -133,10 +142,11 @@
   - Clan Streak LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE II
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 2024
 
 ## Trebuchet TBT-9R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3131)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XXL
@@ -148,6 +158,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 2165
 
 ## Trebuchet TBT-9N

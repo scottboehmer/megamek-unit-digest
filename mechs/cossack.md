@@ -1,6 +1,6 @@
 # Cossack
 ## Cossack C-SK1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -10,10 +10,11 @@
   - Medium Laser
   - Small Laser × 2
   - SRM 6 (ammo: 15)
+- **Source:** TRO 3060
 - **Battle Value:** 465
 
 ## Cossack C-1FC
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -22,5 +23,6 @@
 - **Weapons:**
   - Medium VSP Laser
   - Rocket 10 × 3
+- **Source:** TRO 3060
 - **Battle Value:** 483
 

@@ -1,6 +1,6 @@
 # Banzai
 ## Banzai BNZ-X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3076)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 (10) / 0, XL
@@ -14,5 +14,6 @@
 - **Equipment:**
   - MASC
   - Clan Supercharger
+- **Source:** XTRO Kurita - Jihad
 - **Battle Value:** 2647
 

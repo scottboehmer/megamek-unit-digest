@@ -1,6 +1,6 @@
 # Gotterdammerung
 ## Gotterdammerung GTD-20S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Compact
@@ -12,5 +12,6 @@
   - ER PPC
   - ER Medium Laser × 5
   - LRM 15 (ammo: 8)
+- **Source:** TRO 3145 Lyran Commonwealth - Dark Ages
 - **Battle Value:** 1727
 

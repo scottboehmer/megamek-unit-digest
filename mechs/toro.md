@@ -1,6 +1,6 @@
 # Toro
 ## Toro TR-A-1
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2481)
 - **Chassis:** 35 tons
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
 - **Weapons:**
   - Large Laser
   - SRM 2 × 2 (ammo: 50)
+- **Source:** XTRO Primitives IV - Age of War
 - **Battle Value:** 671
 
 ## Toro TR-A-6
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2548)
 - **Chassis:** 35 tons
 - **Movement:** 5 / 8 / 0
@@ -22,5 +23,6 @@
 - **Weapons:**
   - PPC
   - LRM 5 × 2 (ammo: 48)
+- **Source:** TRO 3075
 - **Battle Value:** 864
 

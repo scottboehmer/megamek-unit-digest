@@ -1,6 +1,6 @@
 # Scarecrow
 ## Scarecrow UCU-F4
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3099)
 - **Chassis:** 40 tons (Endo Composite)
 - **Movement:** 5 / 8 / 3, XL
@@ -18,10 +18,11 @@
   - Bloodhound Active Probe
   - CASE II
   - B-Pod × 2
+- **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1429
 
 ## Scarecrow UCU-F4r 'Hobbled Scarecrow'
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3122)
 - **Chassis:** 40 tons (Endo Composite)
 - **Movement:** 5 / 8 / 3, XL
@@ -37,5 +38,6 @@
   - Bloodhound Active Probe
   - CASE II
   - B-Pod × 2
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1431
 

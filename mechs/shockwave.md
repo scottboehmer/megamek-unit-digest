@@ -1,6 +1,6 @@
 # Shockwave
 ## Shockwave SKW-2F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -10,10 +10,11 @@
   - ER Large Laser
   - RAC/5 (ammo: 40)
   - LRM 10 w/ Artemis IV (ammo: 12)
+- **Source:** Jihad
 - **Battle Value:** 1453
 
 ## Shockwave SKW-4G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -23,10 +24,11 @@
   - Large X-Pulse Laser
   - RAC/5 (ammo: 40)
   - LRM 10 (ammo: 12)
+- **Source:** Dark Age
 - **Battle Value:** 1449
 
 ## Shockwave SKW-6H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3102)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -39,5 +41,6 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1364
 

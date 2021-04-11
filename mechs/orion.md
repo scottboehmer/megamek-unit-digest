@@ -10,10 +10,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - AC/5 (ammo: 20)
+- **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** 973
 
 ## Orion ON1-K
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2525)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -24,10 +25,11 @@
   - LRM 15 (ammo: 16)
   - SRM 4 (ammo: 25)
   - AC/10 (ammo: 20)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1429
 
 ## Orion ON1-K (Kerensky)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2753)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -40,10 +42,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050U - Star League
 - **Battle Value:** 1821
 
 ## Orion ON1-V
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2799)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -54,10 +57,11 @@
   - Medium Laser × 2
   - LRM 15 (ammo: 16)
   - AC/10 (ammo: 20)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1298
 
 ## Orion ON1-VA
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2901)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -67,10 +71,11 @@
   - SRM 4 × 2 (ammo: 50)
   - Medium Laser × 2
   - AC/10 (ammo: 20)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1328
 
 ## Orion ON1-V-DC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2913)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -83,10 +88,11 @@
   - AC/10 (ammo: 10)
 - **Equipment:**
   - Command Console
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1310
 
 ## Orion ON1-M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -100,10 +106,11 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1414
 
 ## Orion ON1-MA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -116,10 +123,11 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1501
 
 ## Orion ON1-M-DC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -134,10 +142,11 @@
 - **Equipment:**
   - Command Console
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1444
 
 ## Orion ON1-MB
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -151,10 +160,11 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1472
 
 ## Orion ON1-MC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -168,10 +178,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1501
 
 ## Orion ON1-MD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -185,10 +196,11 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1597
 
 ## Orion ON2-M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -200,10 +212,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1828
 
 ## Orion ON3-M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0, XL

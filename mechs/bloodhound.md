@@ -1,6 +1,6 @@
 # Bloodhound
 ## Bloodhound B1-HND
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE
   - Beagle Active Probe
+- **Source:** TRO 3067
 - **Battle Value:** 1248
 
 ## Bloodhound B2-HND
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -30,5 +31,6 @@
   - Guardian ECM Suite
   - CASE
   - Beagle Active Probe
+- **Source:** TRO 3067
 - **Battle Value:** 1363
 

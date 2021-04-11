@@ -1,6 +1,6 @@
 # Guillotine IIC
 ## Guillotine IIC (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2889)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -13,10 +13,11 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2377
 
 ## Guillotine IIC 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6
@@ -29,5 +30,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2721
 

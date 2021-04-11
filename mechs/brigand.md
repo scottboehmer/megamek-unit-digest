@@ -1,6 +1,6 @@
 # Brigand
 ## Brigand LDT-1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -9,10 +9,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
+- **Source:** TRO 3067
 - **Battle Value:** 771
 
 ## Brigand LDT-X1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Medium Laser × 4
   - ER Medium Laser × 2
+- **Source:** TRO 3067
 - **Battle Value:** 937
 
 ## Brigand LDT-X2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -33,10 +35,11 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Rocket 15 × 4
+- **Source:** TRO 3067
 - **Battle Value:** 764
 
 ## Brigand LDT-X3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -45,10 +48,11 @@
 - **Weapons:**
   - Light PPC × 2
   - Flamer × 2
+- **Source:** 3067 Unabridged
 - **Battle Value:** 695
 
 ## Brigand LDT-XPR1
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -57,10 +61,11 @@
 - **Weapons:**
   - SRM 4 (ammo: 25)
   - Medium X-Pulse Laser × 2
+- **Source:** HTP Tortuga
 - **Battle Value:** 723
 
 ## Brigand LDT-XPR2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -70,10 +75,11 @@
   - Medium Laser × 5
 - **Equipment:**
   - Angel ECM Suite
+- **Source:** HTP Tortuga
 - **Battle Value:** 956
 
 ## Brigand LDT-XPR3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -82,10 +88,11 @@
 - **Weapons:**
   - Mace
   - Medium Laser × 4
+- **Source:** HTP Tortuga
 - **Battle Value:** 752
 
 ## Brigand LDT-XPR4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -93,10 +100,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Laser × 4
+- **Source:** HTP Tortuga
 - **Battle Value:** 739
 
 ## Brigand LDT-XPR5
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 25 tons (Composite)
 - **Movement:** 5 / 8 / 8, XL
@@ -105,10 +113,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Laser × 4
+- **Source:** HTP Tortuga
 - **Battle Value:** 743
 
 ## Brigand LDT-X4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, Light
@@ -118,10 +127,11 @@
 - **Weapons:**
   - ER Medium Laser × 3
   - Light PPC
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1038
 
 ## Brigand LDT-5
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -130,5 +140,6 @@
 - **Weapons:**
   - Mace
   - Medium Laser × 3
+- **Source:** HTP Tortuga
 - **Battle Value:** 762
 

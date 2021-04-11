@@ -1,6 +1,6 @@
 # Stiletto
 ## Stiletto STO-4A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, Light
@@ -12,10 +12,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 859
 
 ## Stiletto STO-4B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, Light
@@ -27,10 +28,11 @@
   - Flamer
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 1164
 
 ## Stiletto STO-4C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, Light
@@ -41,5 +43,6 @@
   - MML 5 (ammo: 48 LRM, 20 SRM)
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 941
 

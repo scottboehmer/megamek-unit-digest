@@ -12,10 +12,11 @@
   - Ultra AC/20 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2676
 
 ## Storm Giant 2
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -28,5 +29,6 @@
   - Ultra AC/20 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2891
 

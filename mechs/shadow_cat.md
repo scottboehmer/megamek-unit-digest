@@ -13,6 +13,7 @@
   - MASC
   - CASE
   - Active Probe
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2156
 
 ## Shadow Cat A
@@ -29,6 +30,7 @@
   - MASC
   - Active Probe
   - CASE
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2220
 
 ## Shadow Cat B
@@ -46,6 +48,7 @@
   - ECM Suite
   - CASE
   - Active Probe
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2420
 
 ## Shadow Cat TC
@@ -63,6 +66,7 @@
   - MASC
   - Active Probe
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1378
 
 ## Shadow Cat M
@@ -77,6 +81,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - MASC
+- **Source:** Clan Invasion
 - **Battle Value:** 2438
 
 ## Shadow Cat C
@@ -93,6 +98,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2199
 
 ## Shadow Cat D
@@ -111,6 +117,7 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** Civil War
 - **Battle Value:** 2298
 
 ## Shadow Cat H
@@ -127,6 +134,7 @@
   - MASC
   - Targeting Computer
   - CASE
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2155
 
 ## Shadow Cat J
@@ -143,6 +151,7 @@
   - MASC
   - CASE
   - Active Probe
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1802
 
 ## Shadow Cat E
@@ -157,6 +166,7 @@
 - **Equipment:**
   - MASC
   - Inner Sphere Coolant Pod × 2
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2081
 
 ## Shadow Cat F
@@ -173,6 +183,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2997
 
 ## Shadow Cat I
@@ -190,6 +201,7 @@
   - Targeting Computer
   - CASE
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 2408
 
 ## Shadow Cat T
@@ -206,5 +218,6 @@
   - Active Probe
   - CASE
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 1852
 

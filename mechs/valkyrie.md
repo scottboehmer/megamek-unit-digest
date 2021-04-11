@@ -1,6 +1,6 @@
 # Valkyrie
 ## Valkyrie VLK-QA
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2787)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 5
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Laser
   - LRM 10 (ammo: 12)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 723
 
 ## Valkyrie VLK-QF
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2967)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 5
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Flamer
   - LRM 10 (ammo: 12)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 653
 
 ## Valkyrie VLK-QD
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -35,10 +37,11 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 807
 
 ## Valkyrie VLK-QD1
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -49,10 +52,11 @@
   - LRM 15 w/ Artemis IV (ammo: 16)
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 878
 
 ## Valkyrie VLK-QD3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6
@@ -63,10 +67,11 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO Project Pheonix - Civil War
 - **Battle Value:** 882
 
 ## Valkyrie VLK-QS5
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -78,10 +83,11 @@
   - MML 9 w/ Artemis IV (ammo: 13 LRM, 11 SRM)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 745
 
 ## Valkyrie VLK-QD2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -92,10 +98,11 @@
   - Light AC/2 × 2 (ammo: 45)
 - **Equipment:**
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 638
 
 ## Valkyrie VLK-QW5
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, Light
@@ -108,10 +115,11 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 667
 
 ## Valkyrie VLK-QT2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -122,10 +130,11 @@
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 863
 
 ## Valkyrie VLK-QD4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -137,6 +146,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 657
 
 ## Valkyrie VLK-QD6
@@ -152,10 +162,11 @@
   - ELRM 10 (ammo: 18)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 827
 
 ## Valkyrie VLK-QD8
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3102)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -165,6 +176,7 @@
 - **Weapons:**
   - Light PPC
   - ELRM 10 (ammo: 18)
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 787
 
 ## Valkyrie VLK-QDD
@@ -180,6 +192,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 834
 
 ## Valkyrie C
@@ -195,5 +208,6 @@
   - Clan LRM 10 (ammo: 24)
 - **Equipment:**
   - Clan CASE II
+- **Source:** Dark Age
 - **Battle Value:** 936
 

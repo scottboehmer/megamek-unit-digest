@@ -1,6 +1,6 @@
 # Harvester HVR-99 AgroMech
 ## Harvester HVR-99 AgroMech (Standard)
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 4 / 6 / 0, IC
@@ -12,5 +12,6 @@
 - **Equipment:**
   - Lift Hoist
   - Cargo
+- **Source:** TRO VA
 - **Battle Value:** unknown
 

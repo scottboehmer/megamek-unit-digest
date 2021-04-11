@@ -13,6 +13,7 @@
   - Active Probe
   - CASE
   - ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1645
 
 ## Arctic Wolf II A
@@ -28,6 +29,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2111
 
 ## Arctic Wolf II B
@@ -43,6 +45,7 @@
   - Large Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1678
 
 ## Arctic Wolf II C
@@ -57,5 +60,6 @@
   - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1913
 

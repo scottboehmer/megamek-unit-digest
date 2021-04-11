@@ -1,6 +1,6 @@
 # Flea
 ## Flea FLE-4
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2501)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 0
@@ -10,10 +10,11 @@
   - Small Laser × 2
   - Large Laser
   - Flamer
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 432
 
 ## Flea FLE-14
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2519)
 - **Chassis:** 15 tons
 - **Movement:** 9 / 14 / 4
@@ -21,10 +22,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser
+- **Source:** XTRO Succession Wars - Age of War
 - **Battle Value:** 270
 
 ## Flea FLE-15
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2523)
 - **Chassis:** 20 tons
 - **Movement:** 6 / 9 / 0
@@ -35,6 +37,7 @@
   - Machine Gun × 2 (ammo: 200)
   - Small Laser × 2
   - Flamer
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 430
 
 ## Flea FLE-16
@@ -47,10 +50,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - Flamer
+- **Source:** TRO Succession Wars - Age of War
 - **Battle Value:** 506
 
 ## Flea FLE-17
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0
@@ -62,10 +66,11 @@
   - Flamer
 - **Equipment:**
   - MASC
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 510
 
 ## Flea 'Fire Ant'
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0
@@ -76,10 +81,11 @@
   - Flamer × 3
 - **Equipment:**
   - MASC
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 332
 
 ## Flea FLE-19
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -91,10 +97,11 @@
   - Flamer
 - **Equipment:**
   - MG Array × 2
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 341
 
 ## Flea FLE-20
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0
@@ -106,5 +113,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 791
 

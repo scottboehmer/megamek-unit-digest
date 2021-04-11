@@ -1,6 +1,6 @@
 # Gurkha
 ## Gurkha GUR-2G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -12,10 +12,11 @@
   - ER PPC
 - **Equipment:**
   - C3i
+- **Source:** TRO 3067
 - **Battle Value:** 1101
 
 ## Gurkha GUR-4G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -27,10 +28,11 @@
   - Large Pulse Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3067
 - **Battle Value:** 908
 
 ## Gurkha GUR-6G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -46,7 +48,7 @@
 - **Battle Value:** 1134
 
 ## Gurkha GUR-8G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 (8) / 11 (12) / 0, XL
@@ -61,5 +63,6 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
+- **Source:** 3067 Unabridged
 - **Battle Value:** unknown
 

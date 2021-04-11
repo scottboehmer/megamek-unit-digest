@@ -1,6 +1,6 @@
 # Sling
 ## Sling SL-1G
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -13,7 +13,7 @@
 - **Battle Value:** 578
 
 ## Sling SL-1H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL

@@ -1,6 +1,6 @@
 # Gallowglas
 ## Gallowglas GAL-1GLS
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
@@ -11,10 +11,11 @@
   - ER PPC
   - Large Laser × 2
   - Small Laser
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1695
 
 ## Gallowglas GAL-2GLS
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
@@ -26,10 +27,11 @@
   - Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1857
 
 ## Gallowglas WD
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3055)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3
@@ -39,10 +41,11 @@
   - Small Pulse Laser × 2
   - ER PPC
   - ER Medium Laser × 2
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2094
 
 ## Gallowglas GAL-3GLS
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 0, Light
@@ -56,10 +59,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2291
 
 ## Gallowglas GAL-4GLS
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -71,10 +75,11 @@
   - ER Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1944
 
 ## Gallowglas GAL-4GLSA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -88,10 +93,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** Starterbook: Wolf & Blake - Civil War
 - **Battle Value:** 2017
 
 ## Gallowglas GAL-2GLSA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3
@@ -104,5 +110,6 @@
   - Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1771
 

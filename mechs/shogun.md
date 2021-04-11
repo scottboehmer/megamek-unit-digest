@@ -1,6 +1,6 @@
 # Shogun
 ## Shogun SHG-2H
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2777)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -17,7 +17,7 @@
 - **Battle Value:** 2087
 
 ## Shogun C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2850)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -29,10 +29,11 @@
   - ER PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 3008
 
 ## Shogun SHG-2E
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3005)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -44,10 +45,11 @@
   - PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1823
 
 ## Shogun SHG-2F
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3029)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -59,10 +61,11 @@
   - ER PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1804
 
 ## Shogun SHG-2F (Trisha)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3
@@ -74,5 +77,6 @@
   - Snub-Nose PPC
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1733
 

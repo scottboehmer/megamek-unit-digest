@@ -1,6 +1,6 @@
 # Axman
 ## Axman AXM-1N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -13,10 +13,11 @@
   - AC/20 (ammo: 10)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1374
 
 ## Axman AXM-2N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -29,10 +30,11 @@
   - LRM 15 × 2 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1458
 
 ## Axman AXM-3S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -45,10 +47,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1649
 
 ## Axman AXM-3Sr
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -63,10 +66,11 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
+- **Source:** TRO 3085 - Jihad
 - **Battle Value:** 1734
 
 ## Axman AXM-4D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -79,10 +83,11 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1222
 
 ## Axman AXM-6X
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3074)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -94,10 +99,11 @@
 - **Equipment:**
   - CASE
   - Supercharger
+- **Source:** XTRO Steiner - Jihad
 - **Battle Value:** unknown
 
 ## Axman AXM-6T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -111,7 +117,7 @@
 - **Battle Value:** unknown
 
 ## Axman AXM-5N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3148)
 - **Chassis:** 65 tons
 - **Movement:** 4 (5) / 6 (8) / 4, XL
@@ -126,5 +132,6 @@
 - **Equipment:**
   - CASE II
   - Guardian ECM Suite
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 2575
 

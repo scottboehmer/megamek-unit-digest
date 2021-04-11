@@ -1,6 +1,6 @@
 # Sarissa SecurityMech
 ## Sarissa SecurityMech MN2-A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 4 / 6 / 0

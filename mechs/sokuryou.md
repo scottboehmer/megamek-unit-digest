@@ -1,6 +1,6 @@
 # Sokuryou
 ## Sokuryou SKU-198 SurveyMech
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 25 tons (Industrial)
 - **Movement:** 6 / 9 / 0
@@ -11,5 +11,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - Ejection Seat
+- **Source:** Dark Age
 - **Battle Value:** unknown
 

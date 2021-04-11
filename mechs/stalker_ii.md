@@ -1,6 +1,6 @@
 # Stalker II
 ## Stalker II STK-9A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3137)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 4 / 0
@@ -14,5 +14,6 @@
 - **Equipment:**
   - CASE II
   - Targeting Computer
+- **Source:** TRO 3145 Free Worlds League - Dark Ages
 - **Battle Value:** 2261
 

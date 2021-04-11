@@ -1,6 +1,6 @@
 # Blackjack
 ## Blackjack BJ-1X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2756)
 - **Chassis:** 45 tons
 - **Movement:** 5 / 8 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Laser × 4
   - Flamer × 4
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 964
 
 ## Blackjack BJ-1
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2757)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -21,10 +22,11 @@
 - **Weapons:**
   - Medium Laser × 4
   - AC/2 × 2 (ammo: 45)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 949
 
 ## Blackjack BJ-1DB
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3023)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -33,10 +35,11 @@
 - **Weapons:**
   - Large Laser × 2
   - Medium Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1015
 
 ## Blackjack BJ-1DC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 0
@@ -46,10 +49,11 @@
   - Medium Laser × 4
   - AC/2 × 2 (ammo: 45)
   - Small Laser × 2
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 917
 
 ## Blackjack BJ-3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3042)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -58,10 +62,11 @@
 - **Weapons:**
   - PPC × 2
   - Medium Laser × 4
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1271
 
 ## Blackjack BJ-2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -70,6 +75,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Streak SRM 2 × 4 (ammo: 50)
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1148
 
 ## Blackjack BJ2-O
@@ -83,6 +89,7 @@
   - Ultra AC/5 × 2 (ammo: 40)
   - Medium Laser × 4
   - Machine Gun × 4 (ammo: 100)
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1201
 
 ## Blackjack BJ2-OA
@@ -96,6 +103,7 @@
   - LRM 20 × 2 (ammo: 24)
   - Medium Laser × 2
   - Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1318
 
 ## Blackjack BJ2-OB
@@ -111,6 +119,7 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1323
 
 ## Blackjack BJ2-OC
@@ -124,6 +133,7 @@
   - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster)
   - Medium Laser × 2
   - Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1189
 
 ## Blackjack BJ2-OD
@@ -139,6 +149,7 @@
   - Large Laser × 2
   - Medium Laser × 2
   - Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1375
 
 ## Blackjack BJ2-OE
@@ -153,6 +164,7 @@
   - ER Large Laser
   - Light Gauss Rifle (ammo: 32)
   - ER Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1260
 
 ## Blackjack BJ2-OR
@@ -167,6 +179,7 @@
   - Clan Large Pulse Laser
   - Clan Medium Pulse Laser × 3
   - Clan ER Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2010
 
 ## Blackjack BJ2-OF
@@ -181,10 +194,11 @@
   - Ultra AC/10 (ammo: 20)
   - ER PPC
   - ER Small Laser
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1405
 
 ## Blackjack BJ-4
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -196,6 +210,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1063
 
 ## Blackjack BJ2-OX
@@ -211,7 +226,7 @@
 - **Battle Value:** 1320
 
 ## Blackjack BJ-5
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3107)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -225,7 +240,7 @@
 - **Battle Value:** 1165
 
 ## Blackjack BJ-2r
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3131)
 - **Chassis:** 45 tons
 - **Movement:** 4 / 6 / 4
@@ -234,6 +249,7 @@
 - **Weapons:**
   - Large Re-Engineered Laser × 2
   - Medium Laser
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1136
 
 ## Blackjack BJ2-OG
@@ -246,5 +262,6 @@
 - **Weapons:**
   - RAC/5 × 2 (ammo: 100)
   - Small Re-Engineered Laser
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 1448
 

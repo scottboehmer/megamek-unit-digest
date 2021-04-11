@@ -1,6 +1,6 @@
 # Matador
 ## Matador (Standard)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (2846)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
@@ -15,10 +15,11 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2006
 
 ## Matador 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4
@@ -31,5 +32,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3060
 - **Battle Value:** 1728
 

@@ -1,6 +1,6 @@
 # Ti Ts'ang
 ## Ti Ts'ang TSG-9H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -13,10 +13,11 @@
   - Hatchet
 - **Equipment:**
   - TAG
+- **Source:** TRO 3060
 - **Battle Value:** 1880
 
 ## Ti Ts'ang TSG-9J
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -28,6 +29,7 @@
   - ER Small Laser × 2
   - Hatchet
   - ER Large Laser
+- **Source:** TRO 3060
 - **Battle Value:** 1909
 
 ## Ti Ts'ang TSG-9 'China Doll'
@@ -58,10 +60,11 @@
   - Small Pulse Laser × 4
   - Hatchet
   - ER Medium Laser
+- **Source:** BD: Jason Zaklan - Jihad
 - **Battle Value:** 1641
 
 ## Ti Ts'ang TSG-9C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 6, XL
@@ -73,6 +76,7 @@
   - Hatchet
   - ER Medium Laser × 2
   - ER Small Laser × 2
+- **Source:** TRO 3060
 - **Battle Value:** 1989
 
 ## Ti Ts'ang TSG-9DDC 'Prototype'
@@ -91,10 +95,11 @@
 - **Equipment:**
   - Targeting Computer
   - Supercharger
+- **Source:** XTRO Liao - Jihad
 - **Battle Value:** 2013
 
 ## Ti Ts'ang TSG-9DDC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (14) / 6, XL

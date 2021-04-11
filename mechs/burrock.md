@@ -1,6 +1,6 @@
 # Burrock
 ## Burrock (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3066)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -11,10 +11,11 @@
   - Ultra AC/20 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2230
 
 ## Burrock 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3073)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -26,5 +27,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2864
 

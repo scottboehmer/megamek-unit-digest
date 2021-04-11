@@ -1,6 +1,6 @@
 # Piranha
 ## Piranha (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3051)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -12,10 +12,11 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 998
 
 ## Piranha 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3067)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -25,10 +26,11 @@
   - Heavy Medium Laser × 2
   - ER Micro Laser × 12
   - Heavy Small Laser
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 853
 
 ## Piranha 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -41,10 +43,11 @@
 - **Equipment:**
   - Light Active Probe
   - Targeting Computer
+- **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1142
 
 ## Piranha 4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -58,5 +61,6 @@
   - MG Array × 2
   - CASE
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 1005
 

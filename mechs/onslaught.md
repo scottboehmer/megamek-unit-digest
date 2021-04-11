@@ -1,6 +1,6 @@
 # Onslaught
 ## Onslaught SA-OS
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -13,10 +13,11 @@
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1562
 
 ## Onslaught SA-OS2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -30,10 +31,11 @@
 - **Equipment:**
   - Angel ECM Suite
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1693
 
 ## Onslaught SA-OS3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons (Composite)
 - **Movement:** 5 / 8 / 5, XL
@@ -46,5 +48,6 @@
   - Machine Gun × 6 (ammo: 200)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1659
 

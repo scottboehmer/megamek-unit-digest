@@ -1,6 +1,6 @@
 # Jenner
 ## Jenner JR7-A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2779)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 5
@@ -8,10 +8,11 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Large Laser
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 712
 
 ## Jenner JR7-F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2784)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 5
@@ -19,10 +20,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 4
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1011
 
 ## Jenner JR7-D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2785)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 5
@@ -31,6 +33,7 @@
 - **Weapons:**
   - Medium Laser × 4
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 875
 
 ## Jenner JR7-F (Smith)
@@ -42,10 +45,11 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 6
+- **Source:** TRO 3039
 - **Battle Value:** 1070
 
 ## Jenner JR7-K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 5
@@ -56,10 +60,11 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 889
 
 ## Jenner JR7-C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 5
@@ -71,10 +76,11 @@
 - **Equipment:**
   - C3 Slave
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 832
 
 ## Jenner JR7-K (Samuli)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 5, XL
@@ -88,7 +94,7 @@
 - **Battle Value:** 1001
 
 ## Jenner JR7-K (Grace II)
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0
@@ -100,10 +106,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** Starterbook: Sword and Dragon - Civil War
 - **Battle Value:** 787
 
 ## Jenner JR7-C3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 5
@@ -113,10 +120,11 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1069
 
 ## Jenner JR7-C2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 6, XL
@@ -129,10 +137,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 769
 
 ## Jenner JR10-X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 7 / 11 / 7, XL
@@ -145,10 +154,11 @@
 - **Equipment:**
   - Null-Signature System
   - Angel ECM Suite
+- **Source:** XTRO Kurita - Jihad
 - **Battle Value:** 1269
 
 ## Jenner JR7-C4
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 7, XL
@@ -160,5 +170,6 @@
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
+- **Source:** Jihad
 - **Battle Value:** 703
 

@@ -1,6 +1,6 @@
 # Copperhead
 ## Copperhead CPR-HD-002
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 / 2, XL
@@ -12,10 +12,11 @@
   - SRM 4 (ammo: 25)
   - Medium Laser × 3
   - Streak SRM 2 (OS)
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 763
 
 ## Copperhead CPR-HD-003
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 (12) / 2, XL
@@ -29,10 +30,11 @@
   - MagShot Gauss Rifle (ammo: 50)
 - **Equipment:**
   - Supercharger
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1117
 
 ## Copperhead CPR-HD-004
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -46,5 +48,6 @@
   - MagShot Gauss Rifle (ammo: 50)
 - **Equipment:**
   - Supercharger
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1151
 

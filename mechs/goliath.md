@@ -1,6 +1,6 @@
 # Goliath
 ## Goliath GOL-1H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2652)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0
@@ -10,10 +10,11 @@
   - LRM 10 × 2 (ammo: 24)
   - Machine Gun × 2 (ammo: 200)
   - PPC
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1449
 
 ## Goliath GOL-3M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0, XL
@@ -25,10 +26,11 @@
   - Gauss Rifle (ammo: 8)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1537
 
 ## Goliath GOL-3S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0, Light
@@ -40,10 +42,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1463
 
 ## Goliath GOL-2H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0
@@ -53,10 +56,11 @@
   - LRM 10 × 2 (ammo: 24)
   - Rocket 10 × 6
   - PPC
+- **Source:** Civil War
 - **Battle Value:** 1583
 
 ## Goliath GOL-4S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0, Light
@@ -68,10 +72,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1912
 
 ## Goliath GOL-5D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0
@@ -84,10 +89,11 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** Civil War
 - **Battle Value:** 1975
 
 ## Goliath GOL-5W
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0
@@ -100,10 +106,11 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
+- **Source:** Jihad
 - **Battle Value:** 2006
 
 ## Goliath GOL-6H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons Quad
 - **Movement:** 4 / 6 / 0, Light
@@ -117,10 +124,11 @@
   - B-Pod × 4
   - MG Array × 2
   - CASE
+- **Source:** Jihad
 - **Battle Value:** 1655
 
 ## Goliath GOL-3L
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 80 tons Quad
 - **Movement:** 5 / 8 / 0, XL
@@ -134,5 +142,6 @@
 - **Equipment:**
   - CASE
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1708
 

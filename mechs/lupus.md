@@ -59,6 +59,7 @@
   - Supercharger
   - Inner Sphere Coolant Pod
   - Targeting Computer
+- **Source:** Dark Age
 - **Battle Value:** 2533
 
 ## Lupus D
@@ -74,5 +75,6 @@
   - Streak LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 2030
 

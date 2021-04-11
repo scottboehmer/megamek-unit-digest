@@ -15,6 +15,7 @@
   - C3i
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Preta C-PRT-OA Dominus
@@ -30,6 +31,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
+- **Source:** TRO 3075
 - **Battle Value:** 1302
 
 ## Preta C-PRT-OB Infernus
@@ -45,6 +47,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 1338
 
 ## Preta C-PRT-OC Comminus
@@ -63,6 +66,7 @@
   - C3i
   - TAG
   - Beagle Active Probe
+- **Source:** TRO 3075
 - **Battle Value:** 1187
 
 ## Preta C-PRT-OD Luminos
@@ -79,6 +83,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3i
+- **Source:** TRO 3075
 - **Battle Value:** 1158
 
 ## Preta C-PRT-O (Kendali)
@@ -95,6 +100,7 @@
 - **Equipment:**
   - C3i
   - TAG
+- **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 999
 
 ## Preta C-PRT-OE Eminus
@@ -112,6 +118,7 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 
 ## Preta C-PRT-OS Caelestis

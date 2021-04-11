@@ -1,6 +1,6 @@
 # Baboon (Howler)
 ## Baboon (Howler) (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2871)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0
@@ -10,6 +10,7 @@
   - LRM 5 × 3 (ammo: 72)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 645
 
 ## Baboon (Howler) 4
@@ -23,6 +24,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 506
 
 ## Baboon (Howler) 5
@@ -34,10 +36,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 6
+- **Source:** Clan Invasion
 - **Battle Value:** 1363
 
 ## Baboon (Howler) 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3063)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -48,10 +51,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 757
 
 ## Baboon (Howler) 3 'Devil'
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3066)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -62,5 +66,6 @@
 - **Equipment:**
   - Targeting Computer
   - MASC
+- **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1277
 

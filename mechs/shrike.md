@@ -1,6 +1,6 @@
 # Shrike
 ## Shrike (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3113)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 5, XL
@@ -14,10 +14,11 @@
   - CASE
   - Targeting Computer
   - Partial Wing
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2969
 
 ## Shrike 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3115)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 5, XL
@@ -31,10 +32,11 @@
   - CASE
   - Targeting Computer
   - Partial Wing
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2846
 
 ## Shrike 3
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3116)
 - **Chassis:** 95 tons (Endo Steel)
 - **Movement:** 4 / 6 / 5, XL
@@ -48,5 +50,6 @@
   - Targeting Computer
   - Partial Wing
   - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 3698
 

@@ -1,6 +1,6 @@
 # Hatamoto-Hi
 ## Hatamoto-Hi HTM-27U
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -9,10 +9,11 @@
 - **Weapons:**
   - PPC × 2
   - Medium Pulse Laser × 4
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1627
 
 ## Hatamoto-Hi HTM-C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -23,10 +24,11 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1627
 
 ## Hatamoto-Hi HTM-CM
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -37,5 +39,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - C3 Master
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1573
 

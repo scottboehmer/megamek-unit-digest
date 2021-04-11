@@ -1,6 +1,6 @@
 # UrbanMech IIC
 ## UrbanMech IIC (Standard)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2849)
 - **Chassis:** 30 tons
 - **Movement:** 3 / 5 / 3
@@ -11,10 +11,11 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 798
 
 ## UrbanMech IIC 2
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 30 tons
 - **Movement:** 3 / 5 / 3
@@ -25,5 +26,6 @@
   - HAG 20 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 855
 

@@ -1,6 +1,6 @@
 # Hermit Crab
 ## Hermit Crab HMC-13
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3104)
 - **Chassis:** 25 tons
 - **Movement:** 7 / 11 / 7
@@ -8,10 +8,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
+- **Source:** Dark Age
 - **Battle Value:** 731
 
 ## Hermit Crab HMC-14
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3108)
 - **Chassis:** 25 tons
 - **Movement:** 7 / 11 / 6
@@ -19,10 +20,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 3
+- **Source:** Dark Age
 - **Battle Value:** 844
 
 ## Hermit Crab HMC-15
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3108)
 - **Chassis:** 25 tons
 - **Movement:** 7 / 11 / 0
@@ -30,5 +32,6 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2
+- **Source:** Dark Age
 - **Battle Value:** 742
 

@@ -1,6 +1,6 @@
 # Jenner IIC
 ## Jenner IIC (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3042)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 7, XL
@@ -11,10 +11,11 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1047
 
 ## Jenner IIC 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3044)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 9, XL
@@ -26,10 +27,11 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1406
 
 ## Jenner IIC 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3048)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 7, XL
@@ -40,10 +42,11 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 788
 
 ## Jenner IIC 4
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14 / 7, XL
@@ -54,5 +57,6 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1052
 

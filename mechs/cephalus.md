@@ -12,6 +12,7 @@
   - Nova CEWS
   - TAG
   - Laser Anti-Missile System
+- **Source:** WoR - Jihad Supplement
 - **Battle Value:** 809
 
 ## Cephalus B
@@ -29,6 +30,7 @@
   - Nova CEWS
   - CASE
   - Light TAG
+- **Source:** WoR - Jihad Supplement
 - **Battle Value:** 785
 
 ## Cephalus C
@@ -45,6 +47,7 @@
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
   - Nova CEWS
+- **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1209
 
 ## Cephalus D
@@ -61,6 +64,7 @@
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
   - Nova CEWS
+- **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1460
 
 ## Cephalus E
@@ -77,5 +81,6 @@
   - Inner Sphere Chameleon LPS
   - Nova CEWS
   - Light TAG
+- **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1284
 

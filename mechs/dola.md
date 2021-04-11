@@ -1,6 +1,6 @@
 # Dola
 ## Dola DOL-1A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 30 tons (Composite)
 - **Movement:** 8 / 12 / 8, XL
@@ -13,10 +13,11 @@
   - Medium Vibroblade
 - **Equipment:**
   - Angel ECM Suite
+- **Source:** XTRO Liao - Jihad
 - **Battle Value:** 911
 
 ## Dola DOL-1A1
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 30 tons
 - **Movement:** 8 / 12 / 8, XL
@@ -27,10 +28,11 @@
   - Sword
 - **Equipment:**
   - Angel ECM Suite
+- **Source:** TRO:Prototypes
 - **Battle Value:** 950
 
 ## Dola DOL-1A2 'Yoh Ti Ts'angs'
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 30 tons
 - **Movement:** 8 / 12 / 8, XL
@@ -41,5 +43,6 @@
   - Small Vibroblade
 - **Equipment:**
   - TAG
+- **Source:** TRO:Prototypes
 - **Battle Value:** 791
 

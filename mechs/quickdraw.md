@@ -1,6 +1,6 @@
 # Quickdraw
 ## Quickdraw QKD-4G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2779)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -10,10 +10,11 @@
   - Medium Laser × 4
   - LRM 10 (ammo: 12)
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1192
 
 ## Quickdraw QKD-4H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2847)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -23,10 +24,11 @@
   - Medium Laser × 4
   - LRM 10 (ammo: 12)
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1242
 
 ## Quickdraw QKD-5A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3002)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -35,10 +37,11 @@
 - **Weapons:**
   - Medium Laser × 6
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1196
 
 ## Quickdraw QKD-5K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -47,10 +50,11 @@
 - **Weapons:**
   - Medium Laser × 6
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1265
 
 ## Quickdraw QKD-5M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -62,10 +66,11 @@
   - SRM 4 (OS)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1237
 
 ## Quickdraw QKD-C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -76,10 +81,11 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1225
 
 ## Quickdraw QKD-5K2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -88,10 +94,11 @@
 - **Weapons:**
   - Medium Laser × 6
   - SRM 4 (ammo: 25)
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1312
 
 ## Quickdraw QKD-8K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -102,10 +109,11 @@
   - MRM 30 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1583
 
 ## Quickdraw QKD-5Mr
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5
@@ -119,10 +127,11 @@
   - Guardian ECM Suite
   - CASE
   - Targeting Computer
+- **Source:** Jihad
 - **Battle Value:** 1465
 
 ## Quickdraw QKD-8P
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 (6) / 8 (9) / 0
@@ -141,7 +150,7 @@
 - **Battle Value:** 1598
 
 ## Quickdraw QKD-9M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -154,5 +163,6 @@
   - CASE II
   - Targeting Computer
   - TAG
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1690
 

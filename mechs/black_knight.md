@@ -1,6 +1,6 @@
 # Black Knight
 ## Black Knight BL-6-KNT
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2578)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -13,10 +13,11 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1551
 
 ## Black Knight BL-6b-KNT
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2751)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -29,10 +30,11 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3050 - Star League
 - **Battle Value:** 1627
 
 ## Black Knight BL-7-KNT
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2809)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -43,10 +45,11 @@
   - PPC
   - Large Laser × 2
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1443
 
 ## Black Knight BL-7-KNT-L
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2809)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6 / 0
@@ -56,10 +59,11 @@
   - Medium Laser × 4
   - Large Laser × 3
   - Small Laser
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1409
 
 ## Black Knight BL-9-KNT
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -71,10 +75,11 @@
   - ER PPC
   - Large Laser × 2
   - Large Pulse Laser
+- **Source:** Clan Invasion
 - **Battle Value:** 1678
 
 ## Black Knight BL-10-KNT (Ross)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 75 tons
 - **Movement:** 4 (5) / 6 (8) / 0
@@ -89,10 +94,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** Starterbook: Sword and Dragon - Clan Invasion
 - **Battle Value:** 2103
 
 ## Black Knight BL-6-RR
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3057)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -105,10 +111,11 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1954
 
 ## Black Knight BL-12-KNT
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -120,10 +127,11 @@
   - Large Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1840
 
 ## Black Knight BL-X-KNT 'Red Reaper'
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -135,10 +143,11 @@
   - Medium X-Pulse Laser × 5
 - **Equipment:**
   - Large Shield
+- **Source:** XTRO Most Wanted - Jihad
 - **Battle Value:** 1858
 
 ## Black Knight BLK-NT-2Y
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3091)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL
@@ -154,10 +163,11 @@
   - Targeting Computer
   - Guardian ECM Suite
   - C3 Slave
+- **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1847
 
 ## Black Knight BLK-NT-3A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3095)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -170,10 +180,11 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Medium Shield
+- **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1707
 
 ## Black Knight BLK-NT-3B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 (5) / 6 (8) / 0, XL
@@ -187,10 +198,11 @@
   - Small Laser × 2
 - **Equipment:**
   - Medium Shield
+- **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1911
 
 ## Black Knight BLK-NT-4D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3127)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL
@@ -205,10 +217,11 @@
 - **Equipment:**
   - Medium Shield
   - Clan Angel ECM Suite
+- **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 2280
 
 ## Black Knight BL-18-KNT
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3130)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, Light
@@ -222,10 +235,11 @@
 - **Equipment:**
   - Targeting Computer
   - Beagle Active Probe
+- **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 2585
 
 ## Black Knight BLK-NT-5H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3138)
 - **Chassis:** 75 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, Light
@@ -240,5 +254,6 @@
 - **Equipment:**
   - Medium Shield
   - Targeting Computer
+- **Source:** TRO 3145 Federated Suns - Dark Ages
 - **Battle Value:** 2423
 

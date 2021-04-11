@@ -1,6 +1,6 @@
 # Ymir
 ## Ymir BWP-X1 'Bipedal Weapons Platform'
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2462)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
   - Vehicle Flamer × 2 (ammo: 20)
   - SRM 2 × 4 (ammo: 100)
   - LRM 5 × 2 (ammo: 24)
+- **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** unknown
 
 ## Ymir BWP-2B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0
@@ -28,10 +29,11 @@
   - Large Laser
   - SRM 2 × 4 (ammo: 50)
   - LRM 5 × 2 (ammo: 24)
+- **Source:** TRO 3075
 - **Battle Value:** 1289
 
 ## Ymir BWP-2E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (2478)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0
@@ -41,10 +43,11 @@
   - PPC × 2
   - SRM 6 (ammo: 15)
   - LRM 10 (ammo: 12)
+- **Source:** TRO 3075
 - **Battle Value:** 1393
 
 ## Ymir BWP-3A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2733)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0
@@ -55,5 +58,6 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
   - LRM 10 w/ Artemis IV (ammo: 12)
   - Medium Laser
+- **Source:** TRO 3075
 - **Battle Value:** 1491
 

@@ -1,6 +1,6 @@
 # Ebony
 ## Ebony MEB-10
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
@@ -14,10 +14,11 @@
   - ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1020
 
 ## Ebony MEB-11
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
@@ -30,10 +31,11 @@
   - Plasma Rifle (ammo: 10)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1135
 
 ## Ebony MEB-9
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
@@ -45,10 +47,11 @@
   - Snub-Nose PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Dark Age
 - **Battle Value:** 1012
 
 ## Ebony MEB-12
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3118)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 (11) / 15 (17) / 0, XL
@@ -60,5 +63,6 @@
   - TSEMP
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** RS 3145 NT NU
 - **Battle Value:** 1837
 

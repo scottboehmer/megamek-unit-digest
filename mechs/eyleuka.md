@@ -1,6 +1,6 @@
 # Eyleuka
 ## Eyleuka EYL-4A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -15,10 +15,11 @@
   - MASC
   - Beagle Active Probe
   - CASE
+- **Source:** TRO 3075
 - **Battle Value:** 1509
 
 ## Eyleuka EYL-35A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -31,10 +32,11 @@
 - **Equipment:**
   - TAG
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1484
 
 ## Eyleuka EYL-45A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -49,10 +51,11 @@
 - **Equipment:**
   - TAG
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1387
 
 ## Eyleuka EYL-45B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -67,5 +70,6 @@
 - **Equipment:**
   - TAG
   - Guardian ECM Suite
+- **Source:** TRO 3075
 - **Battle Value:** 1615
 

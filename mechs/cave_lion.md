@@ -1,6 +1,6 @@
 # Cave Lion
 ## Cave Lion (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3122)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -13,5 +13,6 @@
 - **Equipment:**
   - CASE
   - Angel ECM Suite
+- **Source:** ED: Dark Age
 - **Battle Value:** 3044
 

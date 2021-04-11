@@ -15,6 +15,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 2045
 
 ## Templar TLR1-OA
@@ -32,6 +33,7 @@
   - CASE
   - Targeting Computer
   - Guardian ECM Suite
+- **Source:** TRO 3067
 - **Battle Value:** 2070
 
 ## Templar TLR1-OB
@@ -47,6 +49,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 1806
 
 ## Templar TLR1-OC
@@ -63,6 +66,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2063
 
 ## Templar TLR1-OD
@@ -95,6 +99,7 @@
   - CASE
   - C3 Master
   - Guardian ECM Suite
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1865
 
 ## Templar TLR1-O (Grayson)
@@ -111,6 +116,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 1868
 
 ## Templar TLR1-O (Tancred)
@@ -127,6 +133,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** TRO 3067
 - **Battle Value:** 2273
 
 ## Templar TLR1-OF
@@ -144,6 +151,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2029
 
 ## Templar TLR1-OG
@@ -160,6 +168,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1632
 
 ## Templar TLR1-OH
@@ -192,6 +201,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2202
 
 ## Templar TLR1-OBLO
@@ -211,6 +221,7 @@
   - C3i
   - Guardian ECM Suite
   - CASE
+- **Source:** SO:Unending Faith: Late Republic Era
 - **Battle Value:** 2062
 
 ## Templar TLR1-OR
@@ -227,5 +238,6 @@
 - **Equipment:**
   - CASE
   - Clan CASE II
+- **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2423
 

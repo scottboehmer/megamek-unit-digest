@@ -1,6 +1,6 @@
 # Thunderbolt
 ## Thunderbolt TDR-1C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2491)
 - **Chassis:** 65 tons
 - **Movement:** 3 / 5 / 0
@@ -13,10 +13,11 @@
   - Medium Laser × 3
   - LRM 15 (ammo: 16)
   - SRM 2 (ammo: 50)
+- **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 1237
 
 ## Thunderbolt TDR-5S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2505)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -28,10 +29,11 @@
   - Medium Laser × 3
   - LRM 15 (ammo: 16)
   - SRM 2 (ammo: 50)
+- **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1335
 
 ## Thunderbolt TDR-5Sd
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -42,10 +44,11 @@
   - Large Pulse Laser
   - Ultra AC/5 (ammo: 40)
   - SRM 2 (ammo: 50)
+- **Source:** ER 2750
 - **Battle Value:** 1392
 
 ## Thunderbolt TDR-5Sb
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2753)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -71,6 +74,7 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - AC/20 (ammo: 10)
+- **Source:** RS:Succession Wars - Succession Wars
 - **Battle Value:** 1231
 
 ## Thunderbolt TDR-5L
@@ -88,6 +92,7 @@
   - Streak SRM 2 w/ Artemis IV (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** Hist - 2nd SW
 - **Battle Value:** 1515
 
 ## Thunderbolt TDR-5LS
@@ -103,10 +108,11 @@
   - Medium Laser × 3
   - LRM 15 (ammo: 16)
   - SRM 2 (ammo: 50)
+- **Source:** Hist - 2nd SW
 - **Battle Value:** 1374
 
 ## Thunderbolt TDR-5SE
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2910)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -116,10 +122,11 @@
   - Large Laser
   - LRM 10 (ammo: 24)
   - Medium Laser × 3
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1414
 
 ## Thunderbolt TDR-5SS
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2930)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -130,10 +137,11 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
   - Flamer
+- **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1337
 
 ## Thunderbolt TDR-5S-T (Tallman)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -145,7 +153,7 @@
 - **Battle Value:** 1447
 
 ## Thunderbolt TDR-7M
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -159,10 +167,11 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1495
 
 ## Thunderbolt TDR-9SE
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 4
@@ -174,10 +183,11 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** Clan Invasion
 - **Battle Value:** 1439
 
 ## Thunderbolt C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3050)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -191,7 +201,7 @@
 - **Battle Value:** 1671
 
 ## Thunderbolt TDR-9S
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 0
@@ -206,10 +216,11 @@
 - **Equipment:**
   - CASE
   - Anti-Missile System (ammo: 12)
+- **Source:** Clan Invasion
 - **Battle Value:** 1494
 
 ## Thunderbolt TDR-10SE
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4
@@ -223,10 +234,11 @@
   - Targeting Computer
   - MASC
   - Guardian ECM Suite
+- **Source:** Civil War
 - **Battle Value:** 2008
 
 ## Thunderbolt TDR-7SE
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -237,10 +249,11 @@
   - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Civil War
 - **Battle Value:** 1809
 
 ## Thunderbolt TDR-9M
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4
@@ -252,10 +265,11 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** Civil War
 - **Battle Value:** 1648
 
 ## Thunderbolt TDR-9NAIS
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -269,10 +283,11 @@
   - Targeting Computer
   - CASE
   - Guardian ECM Suite
+- **Source:** Civil War
 - **Battle Value:** 1864
 
 ## Thunderbolt TDR-11SE
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, Light
@@ -286,10 +301,11 @@
   - Targeting Computer
   - CASE
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1754
 
 ## Thunderbolt TDR-17S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (8) / 4, Compact
@@ -302,10 +318,11 @@
   - ER PPC
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** Jihad
 - **Battle Value:** 1803
 
 ## Thunderbolt TDR-60-RLA
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 65 tons
 - **Movement:** 5 (6) / 8 (9) / 5, XL
@@ -318,10 +335,11 @@
   - Small Laser × 2
   - ER Medium Laser × 3
   - Small Pulse Laser
+- **Source:** Jihad
 - **Battle Value:** 1975
 
 ## Thunderbolt TDR-9Nr
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -338,10 +356,11 @@
   - CASE
   - Guardian ECM Suite
   - B-Pod × 2
+- **Source:** Jihad
 - **Battle Value:** 1632
 
 ## Thunderbolt TDR-10M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -353,10 +372,11 @@
   - Light PPC
   - ER Medium Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
+- **Source:** Dark Age
 - **Battle Value:** 1727
 
 ## Thunderbolt TDR-9T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -368,10 +388,11 @@
   - LRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** Dark Age
 - **Battle Value:** 1589
 
 ## Thunderbolt TDR-10M (Ilyena)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -384,10 +405,11 @@
   - MML 5 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - C3 Master
+- **Source:** TRO 3085/Lamenkov's Liability - Jihad
 - **Battle Value:** 1616
 
 ## Thunderbolt TDR-10M (Salazar)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6 / 3, XL
@@ -404,10 +426,11 @@
   - Small VSP Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:**  TRO 3085/BD Salazar Tsakalotos - Jihad
 - **Battle Value:** 1763
 
 ## Thunderbolt TDR-10S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -420,5 +443,6 @@
   - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
+- **Source:** RS 3145 NYNU
 - **Battle Value:** 1766
 

@@ -1,6 +1,6 @@
 # Black Watch
 ## Black Watch BKW-7R
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3060
 - **Battle Value:** 1998
 
 ## Black Watch BKW-9R
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3
@@ -28,5 +29,6 @@
   - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
 - **Equipment:**
   - TAG
+- **Source:** TRO 3060
 - **Battle Value:** 2144
 

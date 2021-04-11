@@ -1,6 +1,6 @@
 # Talon
 ## Talon TLN-5V
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2670)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -9,10 +9,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - PPC
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1075
 
 ## Talon TLN-5W
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2760)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -21,6 +22,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - ER PPC
+- **Source:** TRO 3058 - Star League
 - **Battle Value:** 1175
 
 ## Talon TLN-5VNO
@@ -33,10 +35,11 @@
 - **Weapons:**
   - Medium Laser × 2
   - PPC
+- **Source:** WWE Scorched Earth - Clan Invasion
 - **Battle Value:** 977
 
 ## Talon TLN-5Z
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -46,10 +49,11 @@
   - ER Large Laser × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1168
 
 ## Talon TLN-6W
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -58,5 +62,6 @@
 - **Weapons:**
   - Medium Laser × 2
   - Heavy PPC
+- **Source:** Jihad
 - **Battle Value:** 1341
 

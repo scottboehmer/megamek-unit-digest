@@ -12,6 +12,7 @@
   - Ultra AC/20 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2022
 
 ## Sun Bear A
@@ -23,6 +24,7 @@
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
   - ER Medium Laser × 12
+- **Source:** Succession Wars
 - **Battle Value:** 2418
 
 ## Sun Bear B
@@ -38,5 +40,6 @@
   - LRM 20 × 2 (ammo: 12)
 - **Equipment:**
   - CASE
+- **Source:** Succession Wars
 - **Battle Value:** 2144
 

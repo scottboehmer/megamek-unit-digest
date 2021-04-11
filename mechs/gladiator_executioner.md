@@ -13,6 +13,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2749
 
 ## Gladiator (Executioner) A
@@ -29,6 +30,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 3112
 
 ## Gladiator (Executioner) B
@@ -46,6 +48,7 @@
   - MASC
   - CASE
   - Anti-Missile System (ammo: 24)
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2940
 
 ## Gladiator (Executioner) C
@@ -63,6 +66,7 @@
   - MASC
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2740
 
 ## Gladiator (Executioner) D
@@ -81,6 +85,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2698
 
 ## Gladiator (Executioner) TC
@@ -98,6 +103,7 @@
   - MASC
   - Targeting Computer
   - Active Probe
+- **Source:** Clan Invasion
 - **Battle Value:** 3363
 
 ## Gladiator (Executioner) H
@@ -116,6 +122,7 @@
   - MASC
   - CASE
   - Targeting Computer
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 3059
 
 ## Gladiator (Executioner) E
@@ -133,6 +140,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2988
 
 ## Gladiator (Executioner) K
@@ -150,6 +158,7 @@
   - MASC
   - CASE
   - Light Active Probe
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3125
 
 ## Gladiator (Executioner) P
@@ -167,6 +176,7 @@
 - **Equipment:**
   - MASC
   - CASE
+- **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3052
 
 ## Gladiator (Executioner) F
@@ -183,6 +193,7 @@
   - MASC
   - Targeting Computer
   - Supercharger
+- **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 3606
 
 ## Gladiator (Executioner) G
@@ -201,6 +212,7 @@
   - CASE
   - Targeting Computer
   - Watchdog CEWS
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 3825
 
 ## Gladiator (Executioner) I
@@ -219,6 +231,7 @@
   - Targeting Computer
   - ECM Suite
   - Supercharger
+- **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 3339
 
 ## Gladiator (Executioner) J
@@ -234,6 +247,7 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** Dark Age
 - **Battle Value:** 2891
 
 ## Gladiator (Executioner) L
@@ -249,5 +263,6 @@
 - **Equipment:**
   - MASC
   - CASE II
+- **Source:** Dark Age
 - **Battle Value:** 3132
 

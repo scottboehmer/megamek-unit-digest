@@ -1,6 +1,6 @@
 # Parash
 ## Parash (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3083)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 7, XL
@@ -12,10 +12,11 @@
   - TAG
   - ECM Suite
   - Active Probe
+- **Source:** Dark Age
 - **Battle Value:** 1300
 
 ## Parash 3
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3083)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 7, XL
@@ -29,10 +30,11 @@
   - Clan TAG
   - Bloodhound Active Probe
   - Angel ECM Suite
+- **Source:** XTR Republic III - Jihad
 - **Battle Value:** 1785
 
 ## Parash 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3084)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11 / 7, XL
@@ -44,5 +46,6 @@
 - **Equipment:**
   - Light TAG
   - Watchdog CEWS
+- **Source:** Dark Age
 - **Battle Value:** 1523
 

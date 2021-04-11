@@ -1,6 +1,6 @@
 # Clint IIC
 ## Clint IIC (Standard)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2842)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -11,10 +11,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 1395
 
 ## Clint IIC 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -24,6 +25,7 @@
   - Medium Pulse Laser × 5
 - **Equipment:**
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1890
 
 ## Clint IIC 2L 'Leia'
@@ -39,5 +41,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1497
 

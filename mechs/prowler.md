@@ -1,6 +1,6 @@
 # Prowler
 ## Prowler PWR-1X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3068)
 - **Chassis:** 55 tons (Composite)
 - **Movement:** 7 / 11 (14) / 7, XXL
@@ -14,10 +14,11 @@
   - Clan ER Large Pulse Laser
 - **Equipment:**
   - Supercharger
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 2019
 
 ## Prowler PWR-1X1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3068)
 - **Chassis:** 55 tons (Composite)
 - **Movement:** 7 / 11 / 0, XXL
@@ -30,5 +31,6 @@
   - Clan SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Targeting Computer
+- **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1922
 

@@ -1,6 +1,6 @@
 # Chimera
 ## Chimera CMA-1S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -11,10 +11,11 @@
   - ER Medium Laser
   - Machine Gun (ammo: 100)
   - MRM 20 (ammo: 24)
+- **Source:** TRO 3067
 - **Battle Value:** 1173
 
 ## Chimera CMA-C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -26,10 +27,11 @@
   - MRM 20 (ammo: 24)
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3067
 - **Battle Value:** 1182
 
 ## Chimera CMA-2K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 (8) / 11 (12) / 7, XL
@@ -45,5 +47,6 @@
   - Snub-Nose PPC
 - **Equipment:**
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1528
 

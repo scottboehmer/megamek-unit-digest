@@ -11,10 +11,11 @@
   - Lift Hoist × 2
   - Cargo × 2
   - Searchlight
+- **Source:** RS:VA IM Exo - Star League
 - **Battle Value:** unknown
 
 ## Shugosha LAW-QM3 Q-Mech
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 20 tons (Industrial)
 - **Movement:** 2 / 3 / 0
@@ -25,5 +26,6 @@
   - PPC
 - **Equipment:**
   - Drone Operating System
+- **Source:** RS:VA IM Exo - Clan Invasion
 - **Battle Value:** 210
 

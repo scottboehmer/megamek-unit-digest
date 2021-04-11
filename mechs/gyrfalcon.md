@@ -1,6 +1,6 @@
 # Gyrfalcon
 ## Gyrfalcon (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3112)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 7, XL
@@ -14,10 +14,11 @@
   - Partial Wing
   - MASC
   - Light Active Probe
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2367
 
 ## Gyrfalcon 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3112)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 7, XL
@@ -30,10 +31,11 @@
   - CASE
   - Partial Wing
   - MASC
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2105
 
 ## Gyrfalcon 3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3112)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 7, XL
@@ -48,10 +50,11 @@
   - Partial Wing
   - MASC
   - Targeting Computer
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2228
 
 ## Gyrfalcon 4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3112)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 7, XL
@@ -64,5 +67,6 @@
   - CASE
   - Partial Wing
   - MASC
+- **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 3716
 

@@ -1,6 +1,6 @@
 # Jabberwocky DemolitionMech
 ## Jabberwocky DemolitionMech JAW-66C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 50 tons (Industrial)
 - **Movement:** 4 / 6 / 3
@@ -16,5 +16,6 @@
   - Searchlight
   - Lift Hoist
   - Tracks
+- **Source:** TRO 3075
 - **Battle Value:** unknown
 

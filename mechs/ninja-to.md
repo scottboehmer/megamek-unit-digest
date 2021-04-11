@@ -1,6 +1,6 @@
 # Ninja-To
 ## Ninja-To NJT-2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -13,10 +13,11 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** TRO 3067
 - **Battle Value:** 1527
 
 ## Ninja-To NJT-3
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -27,10 +28,11 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3 Slave
+- **Source:** TRO 3067
 - **Battle Value:** 1605
 
 ## Ninja-To NJT-4
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -42,5 +44,6 @@
 - **Equipment:**
   - Targeting Computer
   - C3 Slave
+- **Source:** 3067 Unabridged
 - **Battle Value:** 1762
 

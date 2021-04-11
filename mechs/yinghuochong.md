@@ -1,6 +1,6 @@
 # Yinghuochong
 ## Yinghuochong YHC-3E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3137)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 8, XL
@@ -12,10 +12,11 @@
 - **Equipment:**
   - TAG
   - Remote Sensor Dispenser
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 1401
 
 ## Yinghuochong YHC-3Y
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3137)
 - **Chassis:** 35 tons
 - **Movement:** 6 / 9 / 8, XL
@@ -27,5 +28,6 @@
 - **Equipment:**
   - TAG
   - Remote Sensor Dispenser
+- **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 1548
 

@@ -1,6 +1,6 @@
 # Thresher
 ## Thresher (Standard)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2849)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -14,10 +14,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2314
 
 ## Thresher 2
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2858)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -31,10 +32,11 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2337
 
 ## Thresher (Edward)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3058)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL

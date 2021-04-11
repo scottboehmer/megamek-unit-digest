@@ -1,6 +1,6 @@
 # Ursus
 ## Ursus (Standard)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -15,10 +15,11 @@
 - **Equipment:**
   - CASE
   - ECM Suite
+- **Source:** TRO 3060
 - **Battle Value:** 1778
 
 ## Ursus 2
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3074)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -31,10 +32,11 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3060
 - **Battle Value:** 2054
 
 ## Ursus PR
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan Mixed (3074)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0
@@ -48,10 +50,11 @@
 - **Equipment:**
   - CASE II
   - Inner Sphere C3i
+- **Source:** XTRO Clans - Jihad
 - **Battle Value:** 1194
 
 ## Ursus 3
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3079)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6 / 0

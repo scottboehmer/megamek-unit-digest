@@ -1,6 +1,6 @@
 # Dragon
 ## Dragon DRG-1C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -10,10 +10,11 @@
   - Medium Laser × 2
   - AC/2 (ammo: 45)
   - LRM 10 (ammo: 24)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1215
 
 ## Dragon DRG-1N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2754)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -23,10 +24,11 @@
   - Medium Laser × 2
   - AC/5 (ammo: 40)
   - LRM 10 (ammo: 24)
+- **Source:** TRO 3039 - Star League
 - **Battle Value:** 1125
 
 ## Dragon DRG-2Y (Yoriyoshi)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -41,7 +43,7 @@
 - **Battle Value:** 1257
 
 ## Dragon DRG-5N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -53,10 +55,11 @@
   - LRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1223
 
 ## Dragon DRG-7N
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -69,10 +72,11 @@
   - MRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1495
 
 ## Dragon DRG-5Nr
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0
@@ -85,5 +89,6 @@
 - **Equipment:**
   - CASE
   - C3 Slave
+- **Source:** Jihad
 - **Battle Value:** 1252
 

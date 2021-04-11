@@ -1,6 +1,6 @@
 # Scylla
 ## Scylla (Standard)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3062)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -13,10 +13,11 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
+- **Source:** TRO 3067
 - **Battle Value:** 2897
 
 ## Scylla 2
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3079)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -29,10 +30,11 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2839
 
 ## Scylla 3
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3082)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -45,5 +47,6 @@
   - ER PPC
 - **Equipment:**
   - CASE
+- **Source:** 3067 Unabridged
 - **Battle Value:** 2820
 
