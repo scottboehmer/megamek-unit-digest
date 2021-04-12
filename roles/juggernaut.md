@@ -55,6 +55,8 @@
 ## K
 - [Katana (Crockett)](../mechs/katana_crockett.md)
 - [King Crab](../mechs/king_crab.md)
+- [Kiso Command Mech](../mechs/kiso_command_mech.md)
+- [Kiso ConstructionMech](../mechs/kiso_constructionmech.md)
 - [Kodiak](../mechs/kodiak.md)
 - [Kraken (Bane)](../mechs/kraken_bane.md)
 ## L

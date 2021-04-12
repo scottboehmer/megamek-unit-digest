@@ -1,5 +1,3 @@
-Unable to convert data from 'Cyclops CP-10-HQ.mtf': Unrecognized component type: ISCollapsibleCommandModule
-Unable to convert data from 'Awesome AWS-9Ma.mtf': Unrecognized component type: Communications Equipment (2 ton)
 Unable to convert data from 'Jenner JR7-K Grace.mtf': Unrecognized structure type: endo steel prototype
 Unable to convert data from 'Aquagladius AQS-3.mtf': Unrecognized component type: IS Flail
 Unable to convert data from 'Aquagladius AQS-4.mtf': Unrecognized component type: ISUMU
@@ -13,10 +11,9 @@ Unable to convert data from 'Sasquatch SQS-TH-003.mtf': Unrecognized engine type
 Unable to convert data from 'Crossbow D.mtf': Unrecognized component type: Clan Mech Mortar-8
 Unable to convert data from 'Turkina C.mtf': Unrecognized component type: CLBAFlamer
 Unable to convert data from 'Bloodhound B3-HND.mtf': Unrecognized component type: ISFluidGun
-Unable to convert data from 'Perseus P1E.mtf': Unrecognized component type: Communications Equipment (1 ton)
+Unable to convert data from 'Perseus P1E.mtf': Unrecognized component type: ISSRM6IOS
 Unable to convert data from 'Vanquisher VQR-7U.mtf': Unrecognized component type: ISHeavyFlamer
-Unable to convert data from 'Kiso K-3N-KR4.mtf': Unrecognized component type: Communications Equipment (3 ton)
-Unable to convert data from 'Kiso K-3N-KR5.mtf': Unrecognized component type: Communications Equipment (3 ton)
+Unable to convert data from 'Kiso K-3N-KR4.mtf': Unrecognized component type: Pile Driver
 Unable to convert data from 'Lumberjack LM1A.mtf': Unrecognized cockpit type: Primitive Industrial Cockpit
 Unable to convert data from 'Lumberjack LM4C.mtf': Unrecognized component type: Dumper (Rear)
 Unable to convert data from 'Lumberjack LM4P.mtf': Unrecognized component type: Dumper (Rear)
@@ -28,7 +25,6 @@ Unable to convert data from 'Fwltur FWL-3V SalvageMech.mtf': Unrecognized compon
 Unable to convert data from 'Kuma 3.mtf': Unrecognized engine type: large xxl (clan) engine
 Unable to convert data from 'Shadow Cat II 2.mtf': Unrecognized component type: CLLaserInsulator
 Unable to convert data from 'Sokuryou SKU-181 SurveyMech.mtf': Unrecognized component type: Extended Fuel Tank (1 ton)
-Unable to convert data from 'Sokuryou SKU-197 SurveyMech.mtf': Unrecognized component type: Communications Equipment (1 ton)
 Unable to convert data from 'Spider SDR-8X.mtf': Unrecognized component type: ISPartialWing
 Unable to convert data from 'Thunder Fox TFT-C3.mtf': Unrecognized component type: Jump Booster
 Unable to convert data from 'Arctic Fox AF1U.mtf': Unrecognized component type: LRT 10
@@ -196,8 +192,6 @@ Unable to convert data from 'Carbine CON-8H HaulerMech.mtf': Unrecognized compon
 Unable to convert data from 'Chaffee Servicemech BT1.mtf': Unrecognized component type: Paramedic Equipment
 Unable to convert data from 'Dig Lord RCL-4 MiningMech.mtf': Unrecognized component type: IS Fluid Gun
 Unable to convert data from 'Grommet D90 MilitiaMech (Standard).mtf': Unrecognized component type: Dumper (Front)
-Unable to convert data from 'Marco MR-6.mtf': Unrecognized component type: Communications Equipment (4 ton)
-Unable to convert data from 'Marco MR-7.mtf': Unrecognized component type: Communications Equipment (2 ton)
 Invalid design in file 'Powerman SC XI-M LoaderMech MOD.mtf': Design is overweight by 0.50 tons
 Unable to convert data from 'Powerman SC XVI HaulerMech.mtf': Unrecognized component type: Lift Hoist/Arresting Hoist
 Unable to convert data from 'ScavengerMech SC-V SalvageMech (Standard).mtf': Unrecognized component type: Light Fluid Suction System (Mech)
@@ -209,7 +203,6 @@ Unable to convert data from 'Dig Lord RCL-4M MiningMech MOD.mtf': Unrecognized c
 Unable to convert data from 'Jinggau JN-G8BX Rush.mtf': Unrecognized component type: ISSniperCannon
 Unable to convert data from 'Rhino (Standard).mtf': Unrecognized component type: Ram Plate
 Unable to convert data from 'Tolva (Standard).mtf': Unrecognized component type: CLERMediumLaser (T)
-Unable to convert data from 'Warhammer WHM-6K (Olesko).mtf': Unrecognized component type: Communications Equipment (4 ton)
 Unable to convert data from 'Zeus X ZEU-9WD Stacy.mtf': Unrecognized component type: Blue Shield Particle Field Damper
 Unable to convert data from 'Cephalus Prime.mtf': Unrecognized component type: CLModularArmor
 Unable to convert data from 'Cephalus U.mtf': Unrecognized component type: CLUMU
@@ -270,7 +263,6 @@ Unable to convert data from 'Banshee BNC-11X.mtf': Unrecognized component type: 
 Unable to convert data from 'Barghest BGS-4X.mtf': Unrecognized component type: ISQuadTurret
 Unable to convert data from 'Slagmaiden SLG-X.mtf': Unrecognized component type: ISLaserInsulator
 Unable to convert data from 'Stiletto STO-6X.mtf': Unrecognized component type: ISERMediumLaser (T)
-Unable to convert data from 'Kiso Command Mech K-3N-KRHQ.mtf': Unrecognized component type: Communications Equipment (3 ton)
 Unable to convert data from 'Marauder MAD-4X.mtf': Unrecognized structure type: endo steel prototype
 Unable to convert data from 'Super Griffin GRF-2N-X.mtf': Incorrect number of heat sink location entries (6 expected, 16 provided)
 
@@ -278,135 +270,315 @@ Unable to convert data from 'Super Griffin GRF-2N-X.mtf': Incorrect number of he
 Unrecognized Components:
 CONFIG: LAM: 13
 ISUMU: 8
-CLHeavyFlamer: 5
 CONFIG: Tripod Omnimech: 5
+CLHeavyFlamer: 5
 ARMOR: impact-resistant(inner sphere): 5
-ISPrototypeJumpJet: 4
+CLERMediumLaserPrototype: 4
 Improved Large Laser: 4
+CLModularArmor: 4
+Chain Whip: 4
+CLUMU: 4
+ISPrototypeJumpJet: 4
 STRUCTURE: endo steel prototype: 4
 IS Fluid Gun: 4
-CLUMU: 4
-CLERMediumLaserPrototype: 4
-Chain Whip: 4
-CLModularArmor: 4
+Clan Mech Mortar-8: 3
 ARMOR: heat-dissipating(inner sphere): 3
-LRT 15: 3
-Clan Mech Mortar-4: 3
-ISImprovedHeavyGauss Ammo: 3
 HarJel III Self-Repair System: 3
+Blue Shield Particle Field Damper: 3
 CLLRT15: 3
+ISLaserInsulator: 3
+ISImprovedHeavyGauss Ammo: 3
+Shoulder (armored): 3
+Clan Mech Mortar-4: 3
+HarJel II Self-Repair System: 3
 Clan HarJel: 3
 ISPartialWing: 3
-Lift Hoist/Arresting Hoist: 3
-Blue Shield Particle Field Damper: 3
-Communications Equipment (3 ton): 3
-Shoulder (armored): 3
-ISRemoteDroneCommandConsole: 3
-Clan Mech Mortar-8: 3
-ISLaserInsulator: 3
-HarJel II Self-Repair System: 3
 Extended Fuel Tank (1 ton): 3
-ISBoobyTrap: 2
-CLWERPPC: 2
-Clan Machine Gun Ammo - Proto: 2
-Improved SRM 6: 2
-ISSniperCannon: 2
-ISLongTomCannon: 2
-CLStreakSRM2 (IOS): 2
-IS Improved Heavy Gauss Rifle Ammo: 2
-Communications Equipment (2 ton): 2
-ISEHERPPC: 2
-ISAPDS: 2
-ENGINE: large xxl engine: 2
-CLERMediumLaser (T): 2
-Communications Equipment (1 ton): 2
-COCKPIT: Primitive Industrial Cockpit: 2
-Hyper Velocity Auto Cannon/10: 2
-Dumper (Rear): 2
-Heavy Rifle (T): 2
-ISERMediumLaser (T): 2
-Jump Booster: 2
-LRT 10: 2
+Lift Hoist/Arresting Hoist: 3
+LRT 15: 3
+ISRemoteDroneCommandConsole: 3
 Improved Gauss Rifle: 2
-Extended Fuel Tank (3 tons): 2
-CLLRT5: 2
-Communications Equipment (4 ton): 2
+ISBoobyTrap: 2
+ISSniperCannon: 2
 HEAT SINK: compact: 2
 ISHeadTurret: 2
-Rifle (Cannon, Heavy): 1
-ISCollapsibleCommandModule: 1
-ISLBXAC10Prototype: 1
+Extended Fuel Tank (3 tons): 2
+Improved SRM 6: 2
+CLWERPPC: 2
+ENGINE: large xxl engine: 2
+ISEHERPPC: 2
+ISAPDS: 2
+ISERMediumLaser (T): 2
+Heavy Rifle (T): 2
+Clan Machine Gun Ammo - Proto: 2
+Hyper Velocity Auto Cannon/10: 2
+CLStreakSRM2 (IOS): 2
+ISLongTomCannon: 2
+CLLRT5: 2
+IS Improved Heavy Gauss Rifle Ammo: 2
+COCKPIT: Primitive Industrial Cockpit: 2
+Dumper (Rear): 2
+CLERMediumLaser (T): 2
+LRT 10: 2
+Jump Booster: 2
 STRUCTURE: is endo-steel prototype: 1
-ISGaussRiflePrototype: 1
-ARMOR: ferro-fibrous prototype(inner sphere): 1
+CLRocketLauncher15Prototype: 1
 CLStreakSRM6Prototype: 1
-ISMediumPulseLaserPrototype: 1
-Paramedic Equipment: 1
-Binary Laser (Blazer) Cannon: 1
-Light Fluid Suction System (Mech): 1
+CLRocketLauncher20Prototype: 1
+ISLBXAC10Prototype: 1
+ISGaussRiflePrototype: 1
 CONFIG: Tripod: 1
-ISRISCEmergencyCoolantSystem: 1
-ISC3EmergencyMaster: 1
+ARMOR: ferro-fibrous prototype(inner sphere): 1
+CLRocketLauncher10Prototype: 1
+ISMediumPulseLaserPrototype: 1
 Autocannon/10 Primitive: 1
+Paramedic Equipment: 1
 PPCp: 1
+ISC3EmergencyMaster: 1
 ISThumperAmmo: 1
+ISRISCEmergencyCoolantSystem: 1
 IS Ammo HVAC/10: 1
 ISVehicularGrenadeLauncher: 1
 Fusion Engine (armored): 1
+Binary Laser (Blazer) Cannon: 1
 ISChaffPod: 1
-ISHeavyRifle: 1
 ISC3RemoteSensorLauncher: 1
 IS Modular Armor: 1
 BloodhoundActiveProbe (armored): 1
 ClanGroundMobileHPG: 1
 Ram Plate: 1
 Extended Fuel Tank: 1
+Light Fluid Suction System (Mech): 1
 Dumper (Front): 1
-CLRocketLauncher20Prototype: 1
+Rifle (Cannon, Heavy): 1
+ISHeavyRifle: 1
 MediumBridgeLayer: 1
-CLRocketLauncher15Prototype: 1
-CLLRM15 (T): 1
-Heavy PPC (T): 1
+CLSRM6 (T): 1
 ISVehicularMineDispenser: 1
 CLLongTomCannon: 1
 ISGaussRifle (T): 1
 ENGINE: large xxl engine(is): 1
 Coolant Pod  (armored): 1
 SRT 4: 1
-ISPlasmaRifle (T): 1
 CLLRT10: 1
+LRT 5: 1
+Heavy PPC (T): 1
 CLLaserInsulator: 1
-ENGINE: large xxl (clan) engine: 1
 Nail Gun: 1
+Pile Driver: 1
 ISHeavyFlamer: 1
+ISSRM6IOS: 1
 ISFluidGun: 1
 CLBAFlamer: 1
 Hip (armored): 1
 IS Flail: 1
-LRT 5: 1
-CLRocketLauncher10Prototype: 1
-CLHeavyLargeLaser (T): 1
-TSEMP One-Shot: 1
+ENGINE: large xxl (clan) engine: 1
 CLStreakSRM4 (IOS): 1
-CLSRM6 (T): 1
+CLLRM15 (T): 1
+CLHeavyLargeLaser (T): 1
 CLNarcBeacon (I-OS): 1
 CL Heavy Flamer Ammo: 1
 ISStreakSRM2IOS: 1
 CLGaussRifle (T): 1
 Improved LRM 15: 1
 CLStreakSRM4Prototype: 1
-ISImprovedHeavyGaussRifle: 1
 CLATM6 (T): 1
+Bombast Laser (T): 1
+ISPlasmaRifle (T): 1
 UMU: 1
-CONFIG: Tripod Battlemech: 1
 ISTSEMPOS: 1
 CLSRM6 (IOS): 1
 ARMOR: heat-dissipating(clan): 1
 ISERPPC (T): 1
 ISThumperCannon: 1
 Emergency C3 Master: 1
-Bombast Laser (T): 1
+TSEMP One-Shot: 1
+ISImprovedHeavyGaussRifle: 1
+CONFIG: Tripod Battlemech: 1
 ISQuadTurret: 1
 
 --------------------------------------------------
-3646 mtf files -> 3623 parsed files -> 3372 converted files -> 3371 validated mechs
+Units without Roles:
+JagerMech JM6-DG
+Fwltur FWL-3R SalvageMech
+Fwltur FWL-3V SalvageMech
+Beowulf C
+Tomahawk C
+Black Hawk (Nova) X
+Man O' War (Gargoyle) X
+Thunder Fox TDF-F11
+Atlas AS7-D-HT
+Ti Ts'ang TSG-9 'China Doll'
+Legionnaire LGN-2D (Raul)
+Mad Cat III 2
+Mad Cat III (Dark Age RS)
+Ryoken II (Tassa)
+Ti Ts'ang Jason
+Mackie MSK-9HKR 'Kill-Roy's Little Buddy'
+Drift Shag
+Fox
+Masauwu
+Minsk
+Naja
+Pulverizer
+Redback
+Storm Giant
+Vision Quest
+Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
+Rock Hound ProspectorMech AM-PRM-RH7
+Rock Hound ProspectorMech AM-PRM-RH7A 'Rock Otter'
+Space Hound ProspectorMech AM-PRM-SH1
+Thunderbolt TDR-5L
+Thunderbolt TDR-5LS
+Dragoon AEM-02
+Dragoon AEM-03
+Dragoon AEM-04
+Archer ARC-4M2
+Archer ARC-7C
+Archer ARC-9R
+Mongoose MON-96
+Vulture (Mad Dog) T
+Vulture (Mad Dog) V
+Uller (Kit Fox) V
+Shadow Hawk SHD-5S
+Thresher Mk II (Standard)
+Trebuchet TBT-9N
+Catapult CPLT-6K
+Catapult CPLT-K6
+Mad Cat (Timber Wolf) T
+Marauder (Red Hunter-3146)
+Koshi (Mist Lynx) I
+Koshi (Mist Lynx) J
+Koshi (Mist Lynx) K
+Koshi (Mist Lynx) L
+Koshi (Mist Lynx) M
+Koshi (Mist Lynx) N
+Koshi (Mist Lynx) T
+Ryoken (Stormcrow) J
+Ryoken (Stormcrow) K
+Ryoken (Stormcrow) P
+Ryoken (Stormcrow) T
+Vixen (Incubus) 7
+Vixen (Incubus) 8
+Vixen (Incubus) 9
+Baboon (Howler) 4
+Baboon (Howler) 5
+Baboon (Howler) 6
+Dasher (Fire Moth) I
+Dasher (Fire Moth) J
+Dasher (Fire Moth) M
+Dasher (Fire Moth) P
+Dasher (Fire Moth) R
+Dasher (Fire Moth) T
+Dragonfly (Viper) J
+Dragonfly (Viper) K
+Dragonfly (Viper) L
+Dragonfly (Viper) M
+Dragonfly (Viper) R
+Dragonfly (Viper) T
+Inferno INF-NOC
+Inferno INF-NOR
+Valkyrie C
+Valkyrie VLK-QD6
+Valkyrie VLK-QDD
+Pendragon PDG-3R
+Arana MilitiaMech ARA-S-1
+Reptar MilitiaMech EPT-C-1
+Corsair COR-5R
+Corsair COR-5T
+Corsair COR-6R
+Corsair COR-7A
+Corsair COR-7R
+Corsair COR-BR Broadside
+Corsair COR-RA Ravager
+Roughneck RGH-1A
+Roughneck RGH-1B
+Roughneck RGH-1C
+Roughneck RGH-2A
+Roughneck RGH-3A
+Roughneck RGH-PH Powerhouse
+Roughneck RGH-R Reaver
+Sun Spider A
+Sun Spider B
+Sun Spider C
+Sun Spider D
+Sun Spider Manul
+Sun Spider Prime
+Sun Spider Vanguard
+Firefly FFL-3A
+Harvester Ant KIC-3M AgroMech (MG)
+Harvester Ant KIC-3M-B AgroMech (LRM)
+Powerman XI LoaderMech (Standard)
+Atlas AS7-D(C)
+Deimos H
+Atlas AS7-A
+Javelin JVN-10A
+Thunderbolt TDR-5D
+Wolverine WVR-6D
+Zeus ZEU-6A
+Templar III TLR2-J 'Arthur'
+Nightstar NSR-9J (Holt)
+Avatar AV1-OBLO
+Doloire DLR-OBLO
+Mad Cat (Timber Wolf) BLO
+Templar TLR1-OBLO
+Uller (Kit Fox) BLO
+Vulture Mk III (Mad Dog Mk III) BLO
+Grand Dragon DRG-1G (Emory)
+Trebuchet TBT-5K
+Carbine CON-7 ConstructionMech (Standard)
+Carbine CON-8 ConstructionMech (Standard)
+CattleMaster CTL-3R 'Herder' IndustrialMech
+Copper SecurityMech CPK-19
+Crosscut ED-X4B DemolitionMech
+Crosscut ED-X4D DemolitionMech
+Pompier Firemech GM-3HT
+Shugosha PTN-LAW LoaderMech
+Uni ATAE-70 CargoMech (Standard)
+Vampyr SC-V-1 SalvageMech (Standard)
+Flea FLE-16
+Archer ARC-5CS
+Locust C
+Loki (Hellbringer) M
+Mad Cat (Timber Wolf) TC
+Puma (Adder) TC
+Ryoken (Stormcrow) Attwater
+Ryoken (Stormcrow) TC
+Marauder MAD-7D (Von Staskov)
+Marshal MHL-6FR
+Phoenix Hawk PXH-3D (Jiemin)
+Surtur STR-6H
+Jenner JR7-F (Smith)
+Panther PNT-9ALAG
+Vulcan VL-2T (Timms)
+Warhammer WHM-6K (Olesko)
+Talon TLN-5VNO
+Ti Ts'ang TSG-9DDC 'Prototype'
+Daimyo DMO-1K2 (Al-Shahab)
+Archer ARC-1A
+Orion ON1-C
+Orion ON1-H
+Trooper TP-1R
+Wolverine WVR-1R
+Wolverine WVR-3R
+Pathfinder PFF-2T
+Agrotera AGT-UA 'Ariel'
+Buccaneer BCN-6PX 'Pan'
+Calliope CAL-1MAFSW 'Snow White'
+Celerity CLR-03OMM 'Rajah'
+Clint IIC 2L 'Leia'
+Ghost GST-10A 'Aurora'
+Gunsmith CH11-NGC 'Cinderella'
+Hitotsume Kozo HKZ-1FM 'Mulan'
+Hunchback HBK-LGN-Pin 'Anastasia'
+Hunchback HBK-LGN-Pin 'Drizella'
+Phoenix Hawk PXH-7KJ 'Jasmine'
+Tessen TSN-X4R 'Rapunzel'
+Trebuchet TBT-7MM 'Merida'
+Vulcan VT-5ML 'Aladdin'
+Vulpes VLP-1DX 'Beast'
+Watchman WTC-4MB 'Belle'
+Wraith TR2-P 'Pocahontas'
+
+--------------------------------------------------
+3646 mtf files -> 3623 parsed files -> 3380 converted files -> 3379 validated mechs

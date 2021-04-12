@@ -119,6 +119,7 @@
 - [Raider Mk II](../mechs/raider_mk_ii.md)
 - [Rampage](../mechs/rampage.md)
 - [Raven X](../mechs/raven_x.md)
+- [Reconquista](../mechs/reconquista.md)
 - [Rifleman](../mechs/rifleman.md)
 - [Rifleman II](../mechs/rifleman_ii.md)
 - [Rifleman III](../mechs/rifleman_iii.md)

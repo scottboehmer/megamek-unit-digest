@@ -16,6 +16,7 @@
 ## C
 - [Cadaver](../mechs/cadaver.md)
 - [CattleMaster](../mechs/cattlemaster.md)
+- [Cazador](../mechs/cazador.md)
 - [Chameleon](../mechs/chameleon.md)
 - [Chimera](../mechs/chimera.md)
 - [Cicada](../mechs/cicada.md)

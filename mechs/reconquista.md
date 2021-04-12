@@ -1,6 +1,6 @@
 # Reconquista
 ## Reconquista
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2862)
 - **Chassis:** 75 tons
 - **Movement:** 2 / 3 / 0, IC

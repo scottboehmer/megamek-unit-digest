@@ -1,6 +1,6 @@
 # Cazador
 ## Cazador
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3145)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0

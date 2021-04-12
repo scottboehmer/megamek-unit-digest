@@ -70,6 +70,23 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1812
 
+## Awesome AWS-9Ma
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3051)
+- **Chassis:** 80 tons
+- **Movement:** 4 / 6 / 0, XL
+- **Armor:** 247
+- **Heat Sinks:** 20 (40)
+- **Weapons:**
+  - Small Laser
+  - ER PPC × 3
+- **Equipment:**
+  - Command Console
+  - Guardian ECM Suite
+  - Communications Equipment
+- **Source:** TRO 3050 - Clan Invasion
+- **Battle Value:** 1836
+
 ## Awesome AWS-9Q
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)

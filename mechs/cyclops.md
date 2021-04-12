@@ -14,6 +14,22 @@
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1317
 
+## Cyclops CP-10-HQ
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere (2753)
+- **Chassis:** 90 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 160
+- **Heat Sinks:** 14 (14)
+- **Weapons:**
+  - Medium Laser × 2
+  - LRM 10 (ammo: 12)
+  - SRM 4 (ammo: 25)
+- **Equipment:**
+  - Collapsible Command Module
+- **Source:** TRO 3039 - Star League
+- **Battle Value:** 1113
+
 ## Cyclops CP-10-Q
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2801)

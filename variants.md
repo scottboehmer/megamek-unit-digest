@@ -429,6 +429,7 @@
 - **Sling SL-1H** *Striker (2766)*
 
 ### [Sokuryou](mechs/sokuryou.md)
+- **Sokuryou SKU-197 SurveyMech** *Scout (3084)*
 - **Sokuryou SKU-198 SurveyMech** *Scout (3085)*
 
 ### [Solitaire](mechs/solitaire.md)
@@ -656,6 +657,8 @@
 - **Mantis MTS-L** *Striker (3064)*
 
 ### [Marco](mechs/marco.md)
+- **Marco MR-6 ExplorerMech** *Ambusher (2712)*
+- **Marco MR-7 ExplorerMech** *Ambusher (2715)*
 - **Marco MR-8C ExplorerMech** *Scout (2719)*
 - **Marco MR-8D** *Brawler (2801)*
 - **Marco MR-8E** *Brawler (2801)*
@@ -803,7 +806,7 @@
 - **Blade BLD-XR** *Sniper (3125)*
 
 ### [Cazador](mechs/cazador.md)
-- **Cazador** *Undefined (3145)*
+- **Cazador** *Striker (3145)*
 
 ### [Cougar](mechs/cougar.md)
 - **Cougar  Prime** *Undefined (3058)*
@@ -3348,6 +3351,7 @@
 - **Warhammer WHM-6K** *Brawler (2830)*
 - **Warhammer WHM-6D** *Brawler (2835)*
 - **Warhammer C 3** *Brawler (2874)*
+- **Warhammer WHM-6K (Olesko)** *Undefined (3023)*
 - **Warhammer WHM-7M** *Brawler (3047)*
 - **Warhammer C** *Brawler (3050)*
 - **Warhammer WHM-7S** *Brawler (3050)*
@@ -3626,7 +3630,7 @@
 - **Rakshasa MDG-1Ar** *Skirmisher (3076)*
 
 ### [Reconquista](mechs/reconquista.md)
-- **Reconquista** *Undefined (2862)*
+- **Reconquista** *Brawler (2862)*
 
 ### [Ryoken II](mechs/ryoken_ii.md)
 - **Ryoken II (Standard)** *Sniper (3075)*
@@ -3714,6 +3718,7 @@
 - **Awesome AWS-8T** *Missile Boat (2815)*
 - **Awesome AWS-8V** *Sniper (2980)*
 - **Awesome AWS-9M** *Brawler (3049)*
+- **Awesome AWS-9Ma** *Sniper (3051)*
 - **Awesome AWS-9Q** *Sniper (3057)*
 - **Awesome AWS-10KM** *Juggernaut (3068)*
 - **Awesome AWS-9Q (Klatt)** *Sniper (3071)*
@@ -4189,6 +4194,7 @@
 
 ### [Cyclops](mechs/cyclops.md)
 - **Cyclops CP-10-Z** *Juggernaut (2710)*
+- **Cyclops CP-10-HQ** *Juggernaut (2753)*
 - **Cyclops CP-10-Q** *Missile Boat (2801)*
 - **Cyclops CP-11-A** *Sniper (3045)*
 - **Cyclops CP-11-A-DC** *Sniper (3045)*
@@ -4612,6 +4618,12 @@
 - **King Crab KGC-008B** *Sniper (3080)*
 - **King Crab KGC-009** *Juggernaut (3104)*
 - **King Crab KGC-011** *Juggernaut (3143)*
+
+### [Kiso Command Mech](mechs/kiso_command_mech.md)
+- **Kiso Command Mech K-3N-KRHQ** *Juggernaut (2823)*
+
+### [Kiso ConstructionMech](mechs/kiso_constructionmech.md)
+- **Kiso ConstructionMech K-3N-KR5** *Juggernaut (2703)*
 
 ### [Kodiak](mechs/kodiak.md)
 - **Kodiak (Standard)** *Brawler (3001)*

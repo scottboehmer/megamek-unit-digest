@@ -127,6 +127,21 @@
 - **Source:** Succession Wars
 - **Battle Value:** 2518
 
+## Warhammer WHM-6K (Olesko)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3023)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6 / 0
+- **Armor:** 176
+- **Heat Sinks:** 20 (20)
+- **Weapons:**
+  - PPC × 2
+  - Medium Laser × 2
+- **Equipment:**
+  - Communications Equipment
+- **Source:** TRO 3039
+- **Battle Value:** 1338
+
 ## Warhammer WHM-7M
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3047)

@@ -329,6 +329,8 @@
 - [King Crab](mechs/king_crab.md)
 - [Kingfisher](mechs/kingfisher.md)
 - [Kintaro](mechs/kintaro.md)
+- [Kiso Command Mech](mechs/kiso_command_mech.md)
+- [Kiso ConstructionMech](mechs/kiso_constructionmech.md)
 - [Kodiak](mechs/kodiak.md)
 - [Kodiak II](mechs/kodiak_ii.md)
 - [Komodo](mechs/komodo.md)
