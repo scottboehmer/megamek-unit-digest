@@ -18,7 +18,7 @@
 - **Battle Value:** 2394
 
 ## Deimos Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 0, XL
@@ -36,7 +36,7 @@
 - **Battle Value:** 2188
 
 ## Deimos A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 0, XL
@@ -56,7 +56,7 @@
 - **Battle Value:** 2785
 
 ## Deimos B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 0, XL
@@ -95,7 +95,7 @@
 - **Battle Value:** 3344
 
 ## Deimos C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 4, XL
@@ -115,7 +115,7 @@
 - **Battle Value:** 2737
 
 ## Deimos S
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 4, XL
@@ -135,7 +135,7 @@
 - **Battle Value:** unknown
 
 ## Deimos D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3119)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6) / 0, XL
@@ -153,7 +153,7 @@
 - **Battle Value:** 2682
 
 ## Deimos E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan Mixed (3140)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (8) / 0, XL

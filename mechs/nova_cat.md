@@ -1,6 +1,6 @@
 # Nova Cat
 ## Nova Cat Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -13,7 +13,7 @@
 - **Battle Value:** 2530
 
 ## Nova Cat A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -27,7 +27,7 @@
 - **Battle Value:** 2629
 
 ## Nova Cat B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -42,7 +42,7 @@
 - **Battle Value:** 2492
 
 ## Nova Cat C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -58,7 +58,7 @@
 - **Battle Value:** 1944
 
 ## Nova Cat D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -74,7 +74,7 @@
 - **Battle Value:** 2084
 
 ## Nova Cat E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3064)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -89,7 +89,7 @@
 - **Battle Value:** 2191
 
 ## Nova Cat F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -105,7 +105,7 @@
 - **Battle Value:** 2706
 
 ## Nova Cat G
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3072)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -123,7 +123,7 @@
 - **Battle Value:** 2522
 
 ## Nova Cat H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3099)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, XL
@@ -141,7 +141,7 @@
 - **Battle Value:** 2452
 
 ## Nova Cat I
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3132)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL

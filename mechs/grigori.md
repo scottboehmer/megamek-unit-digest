@@ -1,6 +1,6 @@
 # Grigori
 ## Grigori C-GRG-O Invictus
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -21,7 +21,7 @@
 - **Battle Value:** unknown
 
 ## Grigori C-GRG-OA Dominus
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -41,7 +41,7 @@
 - **Battle Value:** 1536
 
 ## Grigori C-GRG-OB Infernus
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -61,7 +61,7 @@
 - **Battle Value:** 1374
 
 ## Grigori C-GRG-OC Comminus
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -81,7 +81,7 @@
 - **Battle Value:** 1438
 
 ## Grigori C-GRG-OD Luminos
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 6, Light
@@ -100,7 +100,7 @@
 - **Battle Value:** 1568
 
 ## Grigori C-GRG-O (Rufus)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 (8) / 4, Light
@@ -121,7 +121,7 @@
 - **Battle Value:** 1380
 
 ## Grigori C-GRG-O (Tamiel)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 4, Light
@@ -140,7 +140,7 @@
 - **Battle Value:** unknown
 
 ## Grigori C-GRG-OE Eminus
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light
@@ -160,7 +160,7 @@
 - **Battle Value:** unknown
 
 ## Grigori C-GRG-OS Caelestis
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 60 tons
 - **Movement:** 4 / 6 / 0, Light

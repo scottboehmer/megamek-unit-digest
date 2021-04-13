@@ -1,6 +1,6 @@
 # Dasher (Fire Moth)
 ## Dasher (Fire Moth) Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1251
 
 ## Dasher (Fire Moth) A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 639
 
 ## Dasher (Fire Moth) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 1064
 
 ## Dasher (Fire Moth) C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -69,7 +69,7 @@
 - **Battle Value:** 741
 
 ## Dasher (Fire Moth) D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -85,7 +85,7 @@
 - **Battle Value:** 2307
 
 ## Dasher (Fire Moth) E
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3055)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -100,7 +100,7 @@
 - **Battle Value:** 822
 
 ## Dasher (Fire Moth) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -115,7 +115,7 @@
 - **Battle Value:** 779
 
 ## Dasher (Fire Moth) (Aletha)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -130,7 +130,7 @@
 - **Battle Value:** 1388
 
 ## Dasher (Fire Moth) F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -147,7 +147,7 @@
 - **Battle Value:** 1461
 
 ## Dasher (Fire Moth) K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XL
@@ -165,7 +165,7 @@
 - **Battle Value:** 824
 
 ## Dasher (Fire Moth) G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3098)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (25) / 0, XL

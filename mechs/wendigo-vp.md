@@ -1,6 +1,6 @@
 # Wendigo-VP
 ## Wendigo-VP (Prime)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3134)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 2360
 
 ## Wendigo-VP A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3134)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8, XL

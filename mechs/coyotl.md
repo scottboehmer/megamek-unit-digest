@@ -1,6 +1,6 @@
 # Coyotl
 ## Coyotl Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2854)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 1974
 
 ## Coyotl A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2854)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 1753
 
 ## Coyotl B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2854)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -47,7 +47,7 @@
 - **Battle Value:** 1447
 
 ## Coyotl C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -64,7 +64,7 @@
 - **Battle Value:** 1851
 
 ## Coyotl D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3149)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL

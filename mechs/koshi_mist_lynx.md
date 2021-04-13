@@ -1,6 +1,6 @@
 # Koshi (Mist Lynx)
 ## Koshi (Mist Lynx) Prime
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 871
 
 ## Koshi (Mist Lynx) A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -36,7 +36,7 @@
 - **Battle Value:** 608
 
 ## Koshi (Mist Lynx) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 1209
 
 ## Koshi (Mist Lynx) C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -71,7 +71,7 @@
 - **Battle Value:** 1320
 
 ## Koshi (Mist Lynx) D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -88,7 +88,7 @@
 - **Battle Value:** 842
 
 ## Koshi (Mist Lynx) E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -104,7 +104,7 @@
 - **Battle Value:** 997
 
 ## Koshi (Mist Lynx) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -122,7 +122,7 @@
 - **Battle Value:** 982
 
 ## Koshi (Mist Lynx) P
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3061)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -138,7 +138,7 @@
 - **Battle Value:** 1064
 
 ## Koshi (Mist Lynx) F
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3063)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -156,7 +156,7 @@
 - **Battle Value:** 1173
 
 ## Koshi (Mist Lynx) G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL

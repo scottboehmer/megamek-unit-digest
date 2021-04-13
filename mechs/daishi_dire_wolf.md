@@ -1,6 +1,6 @@
 # Daishi (Dire Wolf)
 ## Daishi (Dire Wolf) Prime
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2712
 
 ## Daishi (Dire Wolf) A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2855
 
 ## Daishi (Dire Wolf) B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 2609
 
 ## Daishi (Dire Wolf) W
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3049)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -71,7 +71,7 @@
 - **Battle Value:** 2951
 
 ## Daishi (Dire Wolf) 'Widowmaker'
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3050)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -89,7 +89,7 @@
 - **Battle Value:** 3041
 
 ## Daishi (Dire Wolf) S
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3050)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -108,7 +108,7 @@
 - **Battle Value:** 2985
 
 ## Daishi (Dire Wolf) 'Prometheus'
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3051)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -125,7 +125,7 @@
 - **Battle Value:** 2900
 
 ## Daishi (Dire Wolf) (Hohiro)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -143,7 +143,7 @@
 - **Battle Value:** 3048
 
 ## Daishi (Dire Wolf) C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3054)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -162,7 +162,7 @@
 - **Battle Value:** unknown
 
 ## Daishi (Dire Wolf) H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -180,7 +180,7 @@
 - **Battle Value:** 2992
 
 ## Daishi (Dire Wolf) X
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3060)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -203,7 +203,7 @@
 - **Battle Value:** 2645
 
 ## Daishi (Dire Wolf) D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3069)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -220,7 +220,7 @@
 - **Battle Value:** 3403
 
 ## Daishi (Dire Wolf) E
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3103)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL

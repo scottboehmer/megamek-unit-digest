@@ -1,6 +1,6 @@
 # Wulfen
 ## Wulfen (Prime)
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
@@ -18,7 +18,7 @@
 - **Battle Value:** unknown
 
 ## Wulfen A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
@@ -33,7 +33,7 @@
 - **Battle Value:** 1615
 
 ## Wulfen B
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 6, XXL
@@ -50,7 +50,7 @@
 - **Battle Value:** 1806
 
 ## Wulfen C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 10, XXL
@@ -66,7 +66,7 @@
 - **Battle Value:** 1334
 
 ## Wulfen D
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
@@ -83,7 +83,7 @@
 - **Battle Value:** 859
 
 ## Wulfen E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 (20) / 0, XXL
@@ -103,7 +103,7 @@
 - **Battle Value:** 1839
 
 ## Wulfen H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL

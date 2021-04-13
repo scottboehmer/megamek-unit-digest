@@ -1,6 +1,6 @@
 # Naga
 ## Naga Prime
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -15,7 +15,7 @@
 - **Battle Value:** 1642
 
 ## Naga A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 1791
 
 ## Naga B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -47,7 +47,7 @@
 - **Battle Value:** 1824
 
 ## Naga C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 1608
 
 ## Naga D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL

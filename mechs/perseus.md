@@ -1,6 +1,6 @@
 # Perseus
 ## Perseus P1
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -19,7 +19,7 @@
 - **Battle Value:** 1713
 
 ## Perseus P1A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -37,7 +37,7 @@
 - **Battle Value:** 1661
 
 ## Perseus P1B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 1776
 
 ## Perseus P1C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -69,7 +69,7 @@
 - **Battle Value:** 1644
 
 ## Perseus P1D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -88,7 +88,7 @@
 - **Battle Value:** 1714
 
 ## Perseus P1W
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -104,7 +104,7 @@
 - **Battle Value:** 1864
 
 ## Perseus P1P
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL

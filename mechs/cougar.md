@@ -1,6 +1,6 @@
 # Cougar
 ## Cougar Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -15,7 +15,7 @@
 - **Battle Value:** 1485
 
 ## Cougar A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 1697
 
 ## Cougar B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -44,7 +44,7 @@
 - **Battle Value:** 1774
 
 ## Cougar C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -59,7 +59,7 @@
 - **Battle Value:** 1785
 
 ## Cougar D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -75,7 +75,7 @@
 - **Battle Value:** 1309
 
 ## Cougar H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3061)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
@@ -92,7 +92,7 @@
 - **Battle Value:** 1323
 
 ## Cougar E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3063)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -107,7 +107,7 @@
 - **Battle Value:** 1442
 
 ## Cougar F
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3071)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -188,7 +188,7 @@
 - **Battle Value:** 1391
 
 ## Cougar I
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3099)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL

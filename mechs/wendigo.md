@@ -1,6 +1,6 @@
 # Wendigo
 ## Wendigo (Prime)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 2122
 
 ## Wendigo A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2072
 
 ## Wendigo B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -50,7 +50,7 @@
 - **Battle Value:** 2369
 
 ## Wendigo C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL

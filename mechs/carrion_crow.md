@@ -1,6 +1,6 @@
 # Carrion Crow
 ## Carrion Crow Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2133
 
 ## Carrion Crow A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -32,7 +32,7 @@
 - **Battle Value:** 1625
 
 ## Carrion Crow B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -50,7 +50,7 @@
 - **Battle Value:** 2083
 
 ## Carrion Crow C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 6, XL
@@ -65,7 +65,7 @@
 - **Battle Value:** 1826
 
 ## Carrion Crow D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL

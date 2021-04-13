@@ -4,11 +4,11 @@
 
 ### [Celerity](mechs/celerity.md)
 - **Celerity CLR-02-X-D** *Scout (3052)*
-- **Celerity  CLR-03-O** *Undefined (3138)*
-- **Celerity  CLR-03-OB** *Undefined (3138)*
-- **Celerity  CLR-03-OC** *Undefined (3138)*
-- **Celerity  CLR-03-OD** *Undefined (3138)*
-- **Celerity  CLR-03-OE** *Undefined (3138)*
+- **Celerity  CLR-03-O** *Scout (3138)*
+- **Celerity  CLR-03-OB** *Scout (3138)*
+- **Celerity  CLR-03-OC** *Scout (3138)*
+- **Celerity  CLR-03-OD** *Scout (3138)*
+- **Celerity  CLR-03-OE** *Scout (3138)*
 - **Celerity CLR-03OMM 'Rajah'** *Undefined (3138)*
 
 ### [Flea](mechs/flea.md)
@@ -42,28 +42,28 @@
 - **Baboon (Howler) 3 'Devil'** *Striker (3066)*
 
 ### [Butcherbird (Ion Sparrow)](mechs/butcherbird_ion_sparrow.md)
-- **Butcherbird (Ion Sparrow)  Prime** *Undefined (3147)*
-- **Butcherbird (Ion Sparrow)  A** *Undefined (3147)*
-- **Butcherbird (Ion Sparrow)  B** *Undefined (3147)*
-- **Butcherbird (Ion Sparrow)  C** *Undefined (3147)*
-- **Butcherbird (Ion Sparrow)  D** *Undefined (3147)*
+- **Butcherbird (Ion Sparrow)  Prime** *Scout (3147)*
+- **Butcherbird (Ion Sparrow)  A** *Scout (3147)*
+- **Butcherbird (Ion Sparrow)  B** *Scout (3147)*
+- **Butcherbird (Ion Sparrow)  C** *Scout (3147)*
+- **Butcherbird (Ion Sparrow)  D** *Scout (3147)*
 
 ### [Cossack](mechs/cossack.md)
 - **Cossack C-SK1** *Striker (3060)*
 - **Cossack C-1FC** *Scout (3076)*
 
 ### [Dasher (Fire Moth)](mechs/dasher_fire_moth.md)
-- **Dasher (Fire Moth)  Prime** *Undefined (2874)*
-- **Dasher (Fire Moth)  A** *Undefined (2874)*
-- **Dasher (Fire Moth)  B** *Undefined (2874)*
-- **Dasher (Fire Moth)  C** *Undefined (2874)*
-- **Dasher (Fire Moth)  D** *Undefined (2874)*
-- **Dasher (Fire Moth)  E** *Undefined (3055)*
-- **Dasher (Fire Moth)  H** *Undefined (3060)*
-- **Dasher (Fire Moth)  (Aletha)** *Undefined (3068)*
-- **Dasher (Fire Moth)  F** *Undefined (3070)*
-- **Dasher (Fire Moth)  K** *Undefined (3071)*
-- **Dasher (Fire Moth)  G** *Undefined (3098)*
+- **Dasher (Fire Moth)  Prime** *Striker (2874)*
+- **Dasher (Fire Moth)  A** *Scout (2874)*
+- **Dasher (Fire Moth)  B** *Striker (2874)*
+- **Dasher (Fire Moth)  C** *Missile Boat (2874)*
+- **Dasher (Fire Moth)  D** *Striker (2874)*
+- **Dasher (Fire Moth)  E** *Scout (3055)*
+- **Dasher (Fire Moth)  H** *Striker (3060)*
+- **Dasher (Fire Moth)  (Aletha)** *Striker (3068)*
+- **Dasher (Fire Moth)  F** *Striker (3070)*
+- **Dasher (Fire Moth)  K** *Striker (3071)*
+- **Dasher (Fire Moth)  G** *Striker (3098)*
 - **Dasher (Fire Moth)  M** *Undefined (3110)*
 - **Dasher (Fire Moth)  R** *Undefined (3110)*
 - **Dasher (Fire Moth)  P** *Undefined (3132)*
@@ -87,9 +87,9 @@
 - **Flea FLE-20** *Striker (3071)*
 
 ### [Gun](mechs/gun.md)
-- **Gun  GN-2O** *Undefined (3134)*
-- **Gun  GN-2OA** *Undefined (3134)*
-- **Gun  GN-2OB** *Undefined (3134)*
+- **Gun  GN-2O** *Striker (3134)*
+- **Gun  GN-2OA** *Sniper (3134)*
+- **Gun  GN-2OB** *Sniper (3134)*
 
 ### [Harvester Ant](mechs/harvester_ant.md)
 - **Harvester Ant KIC-3M AgroMech (MG)** *Undefined (2801)*
@@ -161,9 +161,9 @@
 - **Snow Fox 3** *Striker (3072)*
 
 ### [Snow Fox (Omni)](mechs/snow_fox_omni.md)
-- **Snow Fox (Omni)  Prime** *Undefined (3120)*
-- **Snow Fox (Omni)  A** *Undefined (3120)*
-- **Snow Fox (Omni)  B** *Undefined (3120)*
+- **Snow Fox (Omni)  Prime** *Scout (3120)*
+- **Snow Fox (Omni)  A** *Striker (3120)*
+- **Snow Fox (Omni)  B** *Sniper (3120)*
 
 ### [Stinger](mechs/stinger.md)
 - **Stinger STG-3R** *Scout (2479)*
@@ -244,11 +244,11 @@
 - **CattleMaster CTL-3R3 SecurityMech** *Striker (3072)*
 
 ### [Cephalus](mechs/cephalus.md)
-- **Cephalus  A** *Undefined (3072)*
-- **Cephalus  B** *Undefined (3072)*
-- **Cephalus  C** *Undefined (3072)*
-- **Cephalus  D** *Undefined (3072)*
-- **Cephalus  E** *Undefined (3072)*
+- **Cephalus  A** *Scout (3072)*
+- **Cephalus  B** *Scout (3072)*
+- **Cephalus  C** *Scout (3072)*
+- **Cephalus  D** *Striker (3072)*
+- **Cephalus  E** *Sniper (3072)*
 
 ### [Commando](mechs/commando.md)
 - **Commando COM-1A** *Scout (2463)*
@@ -303,14 +303,14 @@
 - **Ebony MEB-12** *Scout (3118)*
 
 ### [Fire Falcon](mechs/fire_falcon.md)
-- **Fire Falcon  Prime** *Undefined (3052)*
-- **Fire Falcon  A** *Undefined (3052)*
-- **Fire Falcon  B** *Undefined (3052)*
-- **Fire Falcon  C** *Undefined (3052)*
-- **Fire Falcon  D** *Undefined (3052)*
-- **Fire Falcon  E** *Undefined (3061)*
-- **Fire Falcon  H** *Undefined (3062)*
-- **Fire Falcon  F** *Undefined (3072)*
+- **Fire Falcon  Prime** *Striker (3052)*
+- **Fire Falcon  A** *Striker (3052)*
+- **Fire Falcon  B** *Sniper (3052)*
+- **Fire Falcon  C** *Striker (3052)*
+- **Fire Falcon  D** *Striker (3052)*
+- **Fire Falcon  E** *Striker (3061)*
+- **Fire Falcon  H** *Striker (3062)*
+- **Fire Falcon  F** *Striker (3072)*
 
 ### [ForestryMech](mechs/forestrymech.md)
 - **ForestryMech ED-X3** *Ambusher (2865)*
@@ -346,16 +346,16 @@
 - **Koshi (Standard) 3** *Scout (3095)*
 
 ### [Koshi (Mist Lynx)](mechs/koshi_mist_lynx.md)
-- **Koshi (Mist Lynx)  Prime** *Undefined (2926)*
-- **Koshi (Mist Lynx)  A** *Undefined (2926)*
-- **Koshi (Mist Lynx)  B** *Undefined (2926)*
-- **Koshi (Mist Lynx)  C** *Undefined (2926)*
-- **Koshi (Mist Lynx)  D** *Undefined (2926)*
-- **Koshi (Mist Lynx)  E** *Undefined (3054)*
-- **Koshi (Mist Lynx)  H** *Undefined (3059)*
-- **Koshi (Mist Lynx)  P** *Undefined (3061)*
-- **Koshi (Mist Lynx)  F** *Undefined (3063)*
-- **Koshi (Mist Lynx)  G** *Undefined (3068)*
+- **Koshi (Mist Lynx)  Prime** *Scout (2926)*
+- **Koshi (Mist Lynx)  A** *Scout (2926)*
+- **Koshi (Mist Lynx)  B** *Striker (2926)*
+- **Koshi (Mist Lynx)  C** *Striker (2926)*
+- **Koshi (Mist Lynx)  D** *Striker (2926)*
+- **Koshi (Mist Lynx)  E** *Striker (3054)*
+- **Koshi (Mist Lynx)  H** *Striker (3059)*
+- **Koshi (Mist Lynx)  P** *Scout (3061)*
+- **Koshi (Mist Lynx)  F** *Scout (3063)*
+- **Koshi (Mist Lynx)  G** *Striker (3068)*
 - **Koshi (Mist Lynx)  I** *Undefined (3086)*
 - **Koshi (Mist Lynx)  J** *Undefined (3107)*
 - **Koshi (Mist Lynx)  K** *Undefined (3112)*
@@ -414,15 +414,15 @@
 - **Peacekeeper PK-6 SecurityMech** *Brawler (2522)*
 
 ### [Raptor](mechs/raptor.md)
-- **Raptor  RTX1-O** *Undefined (3052)*
-- **Raptor  RTX1-OA** *Undefined (3052)*
-- **Raptor  RTX1-OB** *Undefined (3052)*
-- **Raptor  RTX1-OC** *Undefined (3052)*
-- **Raptor  RTX1-OD** *Undefined (3052)*
-- **Raptor  RTX1-OE** *Undefined (3058)*
-- **Raptor  RTX1-OR** *Undefined (3059)*
-- **Raptor  RTX1-OF** *Undefined (3060)*
-- **Raptor  RTX1-OG** *Undefined (3070)*
+- **Raptor  RTX1-O** *Missile Boat (3052)*
+- **Raptor  RTX1-OA** *Striker (3052)*
+- **Raptor  RTX1-OB** *Striker (3052)*
+- **Raptor  RTX1-OC** *Striker (3052)*
+- **Raptor  RTX1-OD** *Striker (3052)*
+- **Raptor  RTX1-OE** *Striker (3058)*
+- **Raptor  RTX1-OR** *Striker (3059)*
+- **Raptor  RTX1-OF** *Striker (3060)*
+- **Raptor  RTX1-OG** *Striker (3070)*
 
 ### [Sling](mechs/sling.md)
 - **Sling SL-1G** *Missile Boat (2766)*
@@ -458,13 +458,13 @@
 - **Anubis ABS-5Z** *Striker (3124)*
 
 ### [Arctic Fox](mechs/arctic_fox.md)
-- **Arctic Fox  AF1** *Undefined (3059)*
-- **Arctic Fox  AF1A** *Undefined (3059)*
-- **Arctic Fox  AF1B** *Undefined (3059)*
-- **Arctic Fox  AF1C** *Undefined (3059)*
-- **Arctic Fox  AF1D** *Undefined (3059)*
-- **Arctic Fox  AF1E** *Undefined (3069)*
-- **Arctic Fox  AF1F** *Undefined (3072)*
+- **Arctic Fox  AF1** *Brawler (3059)*
+- **Arctic Fox  AF1A** *Striker (3059)*
+- **Arctic Fox  AF1B** *Brawler (3059)*
+- **Arctic Fox  AF1C** *Brawler (3059)*
+- **Arctic Fox  AF1D** *Missile Boat (3059)*
+- **Arctic Fox  AF1E** *Sniper (3069)*
+- **Arctic Fox  AF1F** *Brawler (3072)*
 
 ### [Battle Hawk](mechs/battle_hawk.md)
 - **Battle Hawk BH-K305** *Striker (3053)*
@@ -560,26 +560,26 @@
 - **Hammer HMR-3P 'Pein-Hammer'** *Brawler (3060)*
 
 ### [Hankyu (Arctic Cheetah)](mechs/hankyu_arctic_cheetah.md)
-- **Hankyu (Arctic Cheetah)  Prime** *Undefined (3037)*
-- **Hankyu (Arctic Cheetah)  A** *Undefined (3037)*
-- **Hankyu (Arctic Cheetah)  B** *Undefined (3037)*
-- **Hankyu (Arctic Cheetah)  C** *Undefined (3037)*
-- **Hankyu (Arctic Cheetah)  D** *Undefined (3037)*
-- **Hankyu (Arctic Cheetah)  H** *Undefined (3062)*
-- **Hankyu (Arctic Cheetah)  E** *Undefined (3071)*
-- **Hankyu (Arctic Cheetah)  F** *Undefined (3093)*
+- **Hankyu (Arctic Cheetah)  Prime** *Striker (3037)*
+- **Hankyu (Arctic Cheetah)  A** *Striker (3037)*
+- **Hankyu (Arctic Cheetah)  B** *Striker (3037)*
+- **Hankyu (Arctic Cheetah)  C** *Striker (3037)*
+- **Hankyu (Arctic Cheetah)  D** *Missile Boat (3037)*
+- **Hankyu (Arctic Cheetah)  H** *Striker (3062)*
+- **Hankyu (Arctic Cheetah)  E** *Striker (3071)*
+- **Hankyu (Arctic Cheetah)  F** *Striker (3093)*
 
 ### [Harvester HVR-99 AgroMech](mechs/harvester_hvr-99_agromech.md)
 - **Harvester HVR-99 AgroMech (Standard)** *Ambusher (3049)*
 
 ### [Hellion](mechs/hellion.md)
-- **Hellion  Prime** *Undefined (3059)*
-- **Hellion  A** *Undefined (3059)*
-- **Hellion  B** *Undefined (3059)*
-- **Hellion  C** *Undefined (3061)*
-- **Hellion  D** *Undefined (3068)*
-- **Hellion  E** *Undefined (3070)*
-- **Hellion  F** *Undefined (3077)*
+- **Hellion  Prime** *Striker (3059)*
+- **Hellion  A** *Missile Boat (3059)*
+- **Hellion  B** *Striker (3059)*
+- **Hellion  C** *Striker (3061)*
+- **Hellion  D** *Striker (3068)*
+- **Hellion  E** *Striker (3070)*
+- **Hellion  F** *Striker (3077)*
 
 ### [Hermes](mechs/hermes.md)
 - **Hermes HER-1S** *Scout (2632)*
@@ -636,14 +636,14 @@
 - **Javelin JVN-11P** *Striker (3101)*
 
 ### [Malak](mechs/malak.md)
-- **Malak  C-MK-O Invictus** *Undefined (3069)*
-- **Malak  C-MK-OA Dominus** *Undefined (3069)*
-- **Malak  C-MK-OB Infernus** *Undefined (3069)*
-- **Malak  C-MK-OC Comminus** *Undefined (3069)*
-- **Malak  C-MK-OD Luminos** *Undefined (3069)*
-- **Malak  C-MK-O (Mi)** *Undefined (3071)*
-- **Malak  C-MK-OE Eminus** *Undefined (3072)*
-- **Malak  C-MK-OS Caelestis** *Undefined (3075)*
+- **Malak  C-MK-O Invictus** *Striker (3069)*
+- **Malak  C-MK-OA Dominus** *Striker (3069)*
+- **Malak  C-MK-OB Infernus** *Striker (3069)*
+- **Malak  C-MK-OC Comminus** *Striker (3069)*
+- **Malak  C-MK-OD Luminos** *Striker (3069)*
+- **Malak  C-MK-O (Mi)** *Striker (3071)*
+- **Malak  C-MK-OE Eminus** *Missile Boat (3072)*
+- **Malak  C-MK-OS Caelestis** *Striker (3075)*
 
 ### [Mandrill](mechs/mandrill.md)
 - **Mandrill (Standard)** *Missile Boat (2829)*
@@ -721,23 +721,23 @@
 - **Spider SDR-10K** *Scout (3143)*
 
 ### [Uller (Kit Fox)](mechs/uller_kit_fox.md)
-- **Uller (Kit Fox)  Prime** *Undefined (2890)*
-- **Uller (Kit Fox)  A** *Undefined (2890)*
-- **Uller (Kit Fox)  B** *Undefined (2890)*
-- **Uller (Kit Fox)  D** *Undefined (2890)*
+- **Uller (Kit Fox)  Prime** *Sniper (2890)*
+- **Uller (Kit Fox)  A** *Sniper (2890)*
+- **Uller (Kit Fox)  B** *Striker (2890)*
+- **Uller (Kit Fox)  D** *Missile Boat (2890)*
 - **Uller (Kit Fox)  V** *Undefined (2921)*
-- **Uller (Kit Fox)  C** *Undefined (3050)*
-- **Uller (Kit Fox)  S** *Undefined (3050)*
-- **Uller (Kit Fox)  W** *Undefined (3051)*
-- **Uller (Kit Fox)  E** *Undefined (3054)*
-- **Uller (Kit Fox)  G** *Undefined (3054)*
-- **Uller (Kit Fox)  H** *Undefined (3059)*
-- **Uller (Kit Fox)  J** *Undefined (3060)*
-- **Uller (Kit Fox)  F** *Undefined (3069)*
-- **Uller (Kit Fox)  K** *Undefined (3088)*
-- **Uller (Kit Fox)  R** *Undefined (3121)*
+- **Uller (Kit Fox)  C** *Striker (3050)*
+- **Uller (Kit Fox)  S** *Striker (3050)*
+- **Uller (Kit Fox)  W** *Sniper (3051)*
+- **Uller (Kit Fox)  E** *Striker (3054)*
+- **Uller (Kit Fox)  G** *Sniper (3054)*
+- **Uller (Kit Fox)  H** *Striker (3059)*
+- **Uller (Kit Fox)  J** *Striker (3060)*
+- **Uller (Kit Fox)  F** *Sniper (3069)*
+- **Uller (Kit Fox)  K** *Striker (3088)*
+- **Uller (Kit Fox)  R** *Striker (3121)*
 - **Uller (Kit Fox)  BLO** *Undefined (3138)*
-- **Uller (Kit Fox)  T** *Undefined (3142)*
+- **Uller (Kit Fox)  T** *Scout (3142)*
 
 ### [UrbanMech](mechs/urbanmech.md)
 - **UrbanMech UM-R60** *Ambusher (2675)*
@@ -788,13 +788,13 @@
 - **Vixen (Incubus) 9** *Undefined (3150)*
 
 ### [Wulfen](mechs/wulfen.md)
-- **Wulfen  (Prime)** *Undefined (3137)*
-- **Wulfen  A** *Undefined (3137)*
-- **Wulfen  B** *Undefined (3137)*
-- **Wulfen  C** *Undefined (3137)*
-- **Wulfen  D** *Undefined (3137)*
-- **Wulfen  E** *Undefined (3137)*
-- **Wulfen  H** *Undefined (3137)*
+- **Wulfen  (Prime)** *Scout (3137)*
+- **Wulfen  A** *Striker (3137)*
+- **Wulfen  B** *Scout (3137)*
+- **Wulfen  C** *Striker (3137)*
+- **Wulfen  D** *Scout (3137)*
+- **Wulfen  E** *Striker (3137)*
+- **Wulfen  H** *Striker (3137)*
 
 ## 35 Tons
 
@@ -809,19 +809,19 @@
 - **Cazador** *Striker (3145)*
 
 ### [Cougar](mechs/cougar.md)
-- **Cougar  Prime** *Undefined (3058)*
-- **Cougar  A** *Undefined (3058)*
-- **Cougar  B** *Undefined (3058)*
-- **Cougar  C** *Undefined (3058)*
-- **Cougar  D** *Undefined (3058)*
-- **Cougar  H** *Undefined (3061)*
-- **Cougar  E** *Undefined (3063)*
-- **Cougar  F** *Undefined (3071)*
+- **Cougar  Prime** *Sniper (3058)*
+- **Cougar  A** *Missile Boat (3058)*
+- **Cougar  B** *Sniper (3058)*
+- **Cougar  C** *Brawler (3058)*
+- **Cougar  D** *Sniper (3058)*
+- **Cougar  H** *Brawler (3061)*
+- **Cougar  E** *Brawler (3063)*
+- **Cougar  F** *Brawler (3071)*
 - **Cougar G** *Sniper (3071)*
 - **Cougar XR** *Missile Boat (3071)*
 - **Cougar X 2** *Striker (3089)*
 - **Cougar X 3** *Striker (3093)*
-- **Cougar  I** *Undefined (3099)*
+- **Cougar  I** *Striker (3099)*
 - **Cougar X** *Striker (3132)*
 
 ### [DemolitionMech](mechs/demolitionmech.md)
@@ -945,15 +945,15 @@
 - **Ostscout OTT-8J** *Scout (3145)*
 
 ### [Owens](mechs/owens.md)
-- **Owens  OW-1** *Undefined (3056)*
-- **Owens  OW-1A** *Undefined (3056)*
-- **Owens  OW-1B** *Undefined (3056)*
-- **Owens  OW-1C** *Undefined (3056)*
-- **Owens  OW-1D** *Undefined (3056)*
-- **Owens  OW-1R** *Undefined (3059)*
-- **Owens  OW-1E** *Undefined (3060)*
-- **Owens  OW-1F** *Undefined (3076)*
-- **Owens  OW-1G** *Undefined (3125)*
+- **Owens  OW-1** *Missile Boat (3056)*
+- **Owens  OW-1A** *Scout (3056)*
+- **Owens  OW-1B** *Scout (3056)*
+- **Owens  OW-1C** *Striker (3056)*
+- **Owens  OW-1D** *Scout (3056)*
+- **Owens  OW-1R** *Striker (3059)*
+- **Owens  OW-1E** *Striker (3060)*
+- **Owens  OW-1F** *Striker (3076)*
+- **Owens  OW-1G** *Scout (3125)*
 
 ### [Panther](mechs/panther.md)
 - **Panther PNT-8Z** *Brawler (2739)*
@@ -1006,19 +1006,19 @@
 - **Powerman XI LoaderMech (Standard)** *Undefined (2764)*
 
 ### [Puma (Adder)](mechs/puma_adder.md)
-- **Puma (Adder)  Prime** *Undefined (3010)*
-- **Puma (Adder)  B** *Undefined (3010)*
-- **Puma (Adder)  D** *Undefined (3010)*
-- **Puma (Adder)  A** *Undefined (3012)*
-- **Puma (Adder)  C** *Undefined (3012)*
+- **Puma (Adder)  Prime** *Sniper (3010)*
+- **Puma (Adder)  B** *Sniper (3010)*
+- **Puma (Adder)  D** *Sniper (3010)*
+- **Puma (Adder)  A** *Missile Boat (3012)*
+- **Puma (Adder)  C** *Missile Boat (3012)*
 - **Puma (Adder)  TC** *Undefined (3052)*
-- **Puma (Adder)  H** *Undefined (3059)*
-- **Puma (Adder)  E** *Undefined (3060)*
-- **Puma (Adder)  J** *Undefined (3070)*
-- **Puma (Adder)  I** *Undefined (3125)*
-- **Puma (Adder)  K** *Undefined (3125)*
-- **Puma (Adder)  T** *Undefined (3142)*
-- **Puma (Adder)  L** *Undefined (3147)*
+- **Puma (Adder)  H** *Brawler (3059)*
+- **Puma (Adder)  E** *Sniper (3060)*
+- **Puma (Adder)  J** *Sniper (3070)*
+- **Puma (Adder)  I** *Striker (3125)*
+- **Puma (Adder)  K** *Sniper (3125)*
+- **Puma (Adder)  T** *Sniper (3142)*
+- **Puma (Adder)  L** *Striker (3147)*
 
 ### [Raven](mechs/raven.md)
 - **Raven RVN-1X** *Scout (3024)*
@@ -1124,15 +1124,15 @@
 ### [Arctic Wolf](mechs/arctic_wolf.md)
 - **Arctic Wolf (Standard)** *Striker (3059)*
 - **Arctic Wolf 2** *Striker (3060)*
-- **Arctic Wolf  Prime** *Undefined (3067)*
-- **Arctic Wolf  A** *Undefined (3067)*
-- **Arctic Wolf  J** *Undefined (3070)*
+- **Arctic Wolf  Prime** *Striker (3067)*
+- **Arctic Wolf  A** *Missile Boat (3067)*
+- **Arctic Wolf  J** *Brawler (3070)*
 
 ### [Arctic Wolf II](mechs/arctic_wolf_ii.md)
-- **Arctic Wolf II  Prime** *Undefined (3085)*
-- **Arctic Wolf II  A** *Undefined (3085)*
-- **Arctic Wolf II  B** *Undefined (3085)*
-- **Arctic Wolf II  C** *Undefined (3085)*
+- **Arctic Wolf II  Prime** *Striker (3085)*
+- **Arctic Wolf II  A** *Missile Boat (3085)*
+- **Arctic Wolf II  B** *Striker (3085)*
+- **Arctic Wolf II  C** *Striker (3085)*
 
 ### [Assassin](mechs/assassin.md)
 - **Assassin ASN-21** *Scout (2676)*
@@ -1144,31 +1144,31 @@
 - **Assassin ASN-99** *Scout (3068)*
 
 ### [Battle Cobra](mechs/battle_cobra.md)
-- **Battle Cobra  Prime** *Undefined (2873)*
-- **Battle Cobra  A** *Undefined (2873)*
-- **Battle Cobra  B** *Undefined (2873)*
-- **Battle Cobra  F** *Undefined (3057)*
-- **Battle Cobra  H** *Undefined (3061)*
-- **Battle Cobra  C** *Undefined (3062)*
-- **Battle Cobra  BTL-C-2O** *Undefined (3063)*
-- **Battle Cobra  BTL-C-2OA** *Undefined (3063)*
-- **Battle Cobra  BTL-C-2OB** *Undefined (3063)*
-- **Battle Cobra  BTL-C-2OC** *Undefined (3063)*
-- **Battle Cobra  BTL-C-2OD** *Undefined (3069)*
-- **Battle Cobra  BTL-C-2OE** *Undefined (3070)*
-- **Battle Cobra  BTL-C-2OF** *Undefined (3070)*
-- **Battle Cobra  X** *Undefined (3073)*
+- **Battle Cobra  Prime** *Sniper (2873)*
+- **Battle Cobra  A** *Striker (2873)*
+- **Battle Cobra  B** *Sniper (2873)*
+- **Battle Cobra  F** *Striker (3057)*
+- **Battle Cobra  H** *Striker (3061)*
+- **Battle Cobra  C** *Striker (3062)*
+- **Battle Cobra  BTL-C-2O** *Brawler (3063)*
+- **Battle Cobra  BTL-C-2OA** *Brawler (3063)*
+- **Battle Cobra  BTL-C-2OB** *Brawler (3063)*
+- **Battle Cobra  BTL-C-2OC** *Scout (3063)*
+- **Battle Cobra  BTL-C-2OD** *Sniper (3069)*
+- **Battle Cobra  BTL-C-2OE** *Missile Boat (3070)*
+- **Battle Cobra  BTL-C-2OF** *Brawler (3070)*
+- **Battle Cobra  X** *Striker (3073)*
 
 ### [Calliope](mechs/calliope.md)
 - **Calliope CAL-1MAF** *Brawler (3127)*
 - **Calliope CAL-1MAFSW 'Snow White'** *Undefined (3127)*
 
 ### [Carrion Crow](mechs/carrion_crow.md)
-- **Carrion Crow  Prime** *Undefined (3145)*
-- **Carrion Crow  A** *Undefined (3145)*
-- **Carrion Crow  B** *Undefined (3145)*
-- **Carrion Crow  C** *Undefined (3145)*
-- **Carrion Crow  D** *Undefined (3145)*
+- **Carrion Crow  Prime** *Striker (3145)*
+- **Carrion Crow  A** *Striker (3145)*
+- **Carrion Crow  B** *Sniper (3145)*
+- **Carrion Crow  C** *Striker (3145)*
+- **Carrion Crow  D** *Striker (3145)*
 
 ### [Chimera](mechs/chimera.md)
 - **Chimera CMA-1S** *Striker (3063)*
@@ -1206,11 +1206,11 @@
 - **Corvis 2** *Brawler (3075)*
 
 ### [Coyotl](mechs/coyotl.md)
-- **Coyotl  Prime** *Undefined (2854)*
-- **Coyotl  A** *Undefined (2854)*
-- **Coyotl  B** *Undefined (2854)*
-- **Coyotl  C** *Undefined (3145)*
-- **Coyotl  D** *Undefined (3149)*
+- **Coyotl  Prime** *Striker (2854)*
+- **Coyotl  A** *Striker (2854)*
+- **Coyotl  B** *Striker (2854)*
+- **Coyotl  C** *Striker (3145)*
+- **Coyotl  D** *Striker (3149)*
 
 ### [Cuirass](mechs/cuirass.md)
 - **Cuirass CDR-1X** *Striker (3086)*
@@ -1230,18 +1230,18 @@
 - **Dasher II 3** *Striker (3136)*
 
 ### [Dragonfly (Viper)](mechs/dragonfly_viper.md)
-- **Dragonfly (Viper)  Prime** *Undefined (2940)*
-- **Dragonfly (Viper)  A** *Undefined (2940)*
-- **Dragonfly (Viper)  B** *Undefined (2940)*
-- **Dragonfly (Viper)  C** *Undefined (2940)*
-- **Dragonfly (Viper)  D** *Undefined (2940)*
-- **Dragonfly (Viper)  E** *Undefined (3054)*
-- **Dragonfly (Viper)  H** *Undefined (3062)*
-- **Dragonfly (Viper)  I** *Undefined (3068)*
-- **Dragonfly (Viper)  F** *Undefined (3070)*
-- **Dragonfly (Viper)  G** *Undefined (3071)*
-- **Dragonfly (Viper)  Z** *Undefined (3072)*
-- **Dragonfly (Viper)  U** *Undefined (3077)*
+- **Dragonfly (Viper)  Prime** *Scout (2940)*
+- **Dragonfly (Viper)  A** *Striker (2940)*
+- **Dragonfly (Viper)  B** *Striker (2940)*
+- **Dragonfly (Viper)  C** *Striker (2940)*
+- **Dragonfly (Viper)  D** *Striker (2940)*
+- **Dragonfly (Viper)  E** *Striker (3054)*
+- **Dragonfly (Viper)  H** *Striker (3062)*
+- **Dragonfly (Viper)  I** *Striker (3068)*
+- **Dragonfly (Viper)  F** *Striker (3070)*
+- **Dragonfly (Viper)  G** *Striker (3071)*
+- **Dragonfly (Viper)  Z** *Striker (3072)*
+- **Dragonfly (Viper)  U** *Striker (3077)*
 - **Dragonfly (Viper)  R** *Undefined (3110)*
 - **Dragonfly (Viper)  T** *Undefined (3142)*
 - **Dragonfly (Viper)  J** *Undefined (3144)*
@@ -1302,22 +1302,22 @@
 - **Night Stalker NSR-KC** *Scout (3136)*
 
 ### [Phantom](mechs/phantom.md)
-- **Phantom  Prime** *Undefined (3052)*
-- **Phantom  A** *Undefined (3052)*
-- **Phantom  B** *Undefined (3052)*
-- **Phantom  C** *Undefined (3052)*
-- **Phantom  D** *Undefined (3052)*
-- **Phantom  E** *Undefined (3061)*
-- **Phantom  H** *Undefined (3062)*
+- **Phantom  Prime** *Scout (3052)*
+- **Phantom  A** *Striker (3052)*
+- **Phantom  B** *Scout (3052)*
+- **Phantom  C** *Striker (3052)*
+- **Phantom  D** *Striker (3052)*
+- **Phantom  E** *Striker (3061)*
+- **Phantom  H** *Striker (3062)*
 
 ### [Pouncer](mechs/pouncer.md)
-- **Pouncer  Prime** *Undefined (3050)*
-- **Pouncer  A** *Undefined (3050)*
-- **Pouncer  B** *Undefined (3050)*
-- **Pouncer  C** *Undefined (3050)*
-- **Pouncer  D** *Undefined (3050)*
-- **Pouncer  E** *Undefined (3061)*
-- **Pouncer  H** *Undefined (3062)*
+- **Pouncer  Prime** *Sniper (3050)*
+- **Pouncer  A** *Missile Boat (3050)*
+- **Pouncer  B** *Sniper (3050)*
+- **Pouncer  C** *Striker (3050)*
+- **Pouncer  D** *Striker (3050)*
+- **Pouncer  E** *Striker (3061)*
+- **Pouncer  H** *Striker (3062)*
 
 ### [Raptor II](mechs/raptor_ii.md)
 - **Raptor II RPT-2X** *Scout (3073)*
@@ -1364,18 +1364,18 @@
 - **Space Hound ProspectorMech AM-PRM-SH1** *Undefined (3047)*
 
 ### [Strider](mechs/strider.md)
-- **Strider  SR1-O** *Undefined (3057)*
-- **Strider  SR1-OA** *Undefined (3057)*
-- **Strider  SR1-OB** *Undefined (3057)*
-- **Strider  SR1-OC** *Undefined (3057)*
-- **Strider  SR1-OD** *Undefined (3057)*
-- **Strider  SR1-OE** *Undefined (3058)*
-- **Strider  SR1-OR** *Undefined (3059)*
-- **Strider  SR1-OF** *Undefined (3060)*
-- **Strider  SR1-OG** *Undefined (3070)*
-- **Strider  SR1-OX** *Undefined (3071)*
-- **Strider  SR1-OH** *Undefined (3099)*
-- **Strider  SR1-OM** *Undefined (3135)*
+- **Strider  SR1-O** *Striker (3057)*
+- **Strider  SR1-OA** *Scout (3057)*
+- **Strider  SR1-OB** *Missile Boat (3057)*
+- **Strider  SR1-OC** *Striker (3057)*
+- **Strider  SR1-OD** *Striker (3057)*
+- **Strider  SR1-OE** *Striker (3058)*
+- **Strider  SR1-OR** *Striker (3059)*
+- **Strider  SR1-OF** *Striker (3060)*
+- **Strider  SR1-OG** *Missile Boat (3070)*
+- **Strider  SR1-OX** *Striker (3071)*
+- **Strider  SR1-OH** *Sniper (3099)*
+- **Strider  SR1-OM** *Scout (3135)*
 
 ### [Swordsman](mechs/swordsman.md)
 - **Swordsman SWD-1** *Sniper (2463)*
@@ -1472,34 +1472,34 @@
 - **Eisenfaust EFT-8X** *Brawler (3080)*
 
 ### [Fenris (Ice Ferret)](mechs/fenris_ice_ferret.md)
-- **Fenris (Ice Ferret)  Prime** *Undefined (2948)*
-- **Fenris (Ice Ferret)  A** *Undefined (2948)*
-- **Fenris (Ice Ferret)  B** *Undefined (2948)*
-- **Fenris (Ice Ferret)  C** *Undefined (2948)*
-- **Fenris (Ice Ferret)  D** *Undefined (2948)*
-- **Fenris (Ice Ferret)  E** *Undefined (3056)*
-- **Fenris (Ice Ferret)  H** *Undefined (3061)*
-- **Fenris (Ice Ferret)  L** *Undefined (3069)*
-- **Fenris (Ice Ferret)  F** *Undefined (3084)*
-- **Fenris (Ice Ferret)  G** *Undefined (3088)*
-- **Fenris (Ice Ferret)  I** *Undefined (3099)*
-- **Fenris (Ice Ferret)  J** *Undefined (3120)*
-- **Fenris (Ice Ferret)  K** *Undefined (3135)*
-- **Fenris (Ice Ferret)  T** *Undefined (3142)*
+- **Fenris (Ice Ferret)  Prime** *Striker (2948)*
+- **Fenris (Ice Ferret)  A** *Striker (2948)*
+- **Fenris (Ice Ferret)  B** *Striker (2948)*
+- **Fenris (Ice Ferret)  C** *Missile Boat (2948)*
+- **Fenris (Ice Ferret)  D** *Striker (2948)*
+- **Fenris (Ice Ferret)  E** *Striker (3056)*
+- **Fenris (Ice Ferret)  H** *Striker (3061)*
+- **Fenris (Ice Ferret)  L** *Scout (3069)*
+- **Fenris (Ice Ferret)  F** *Sniper (3084)*
+- **Fenris (Ice Ferret)  G** *Striker (3088)*
+- **Fenris (Ice Ferret)  I** *Scout (3099)*
+- **Fenris (Ice Ferret)  J** *Striker (3120)*
+- **Fenris (Ice Ferret)  K** *Striker (3135)*
+- **Fenris (Ice Ferret)  T** *Scout (3142)*
 
 ### [Firestarter](mechs/firestarter.md)
-- **Firestarter  FS9-O** *Undefined (3056)*
-- **Firestarter  FS9-OA** *Undefined (3057)*
-- **Firestarter  FS9-OB** *Undefined (3057)*
-- **Firestarter  FS9-OC** *Undefined (3057)*
-- **Firestarter  FS9-OD** *Undefined (3057)*
-- **Firestarter  FS9-OE** *Undefined (3058)*
-- **Firestarter  FS9-OR** *Undefined (3059)*
-- **Firestarter  FS9-OX** *Undefined (3059)*
-- **Firestarter  FS9-OF** *Undefined (3060)*
-- **Firestarter  FS9-OG** *Undefined (3063)*
-- **Firestarter  FS9-OH** *Undefined (3069)*
-- **Firestarter  FS9-OU** *Undefined (3077)*
+- **Firestarter  FS9-O** *Striker (3056)*
+- **Firestarter  FS9-OA** *Striker (3057)*
+- **Firestarter  FS9-OB** *Striker (3057)*
+- **Firestarter  FS9-OC** *Missile Boat (3057)*
+- **Firestarter  FS9-OD** *Sniper (3057)*
+- **Firestarter  FS9-OE** *Striker (3058)*
+- **Firestarter  FS9-OR** *Sniper (3059)*
+- **Firestarter  FS9-OX** *Striker (3059)*
+- **Firestarter  FS9-OF** *Sniper (3060)*
+- **Firestarter  FS9-OG** *Striker (3063)*
+- **Firestarter  FS9-OH** *Striker (3069)*
+- **Firestarter  FS9-OU** *Striker (3077)*
 
 ### [Gestalt](mechs/gestalt.md)
 - **Gestalt D2X-G** *Striker (3078)*
@@ -1515,19 +1515,19 @@
 - **Great Wyrm 2** *Skirmisher (3069)*
 
 ### [Grendel (Mongrel)](mechs/grendel_mongrel.md)
-- **Grendel (Mongrel)  Prime** *Undefined (3052)*
-- **Grendel (Mongrel)  A** *Undefined (3053)*
-- **Grendel (Mongrel)  B** *Undefined (3053)*
-- **Grendel (Mongrel)  C** *Undefined (3053)*
-- **Grendel (Mongrel)  D** *Undefined (3053)*
-- **Grendel (Mongrel)  E** *Undefined (3061)*
-- **Grendel (Mongrel)  H** *Undefined (3064)*
-- **Grendel (Mongrel)  F** *Undefined (3069)*
-- **Grendel (Mongrel)  M** *Undefined (3086)*
-- **Grendel (Mongrel)  G** *Undefined (3090)*
-- **Grendel (Mongrel)  I** *Undefined (3140)*
-- **Grendel (Mongrel)  J** *Undefined (3140)*
-- **Grendel (Mongrel)  T** *Undefined (3142)*
+- **Grendel (Mongrel)  Prime** *Striker (3052)*
+- **Grendel (Mongrel)  A** *Missile Boat (3053)*
+- **Grendel (Mongrel)  B** *Striker (3053)*
+- **Grendel (Mongrel)  C** *Striker (3053)*
+- **Grendel (Mongrel)  D** *Striker (3053)*
+- **Grendel (Mongrel)  E** *Striker (3061)*
+- **Grendel (Mongrel)  H** *Striker (3064)*
+- **Grendel (Mongrel)  F** *Striker (3069)*
+- **Grendel (Mongrel)  M** *Sniper (3086)*
+- **Grendel (Mongrel)  G** *Scout (3090)*
+- **Grendel (Mongrel)  I** *Striker (3140)*
+- **Grendel (Mongrel)  J** *Striker (3140)*
+- **Grendel (Mongrel)  T** *Striker (3142)*
 
 ### [Hammerhead](mechs/hammerhead.md)
 - **Hammerhead (Standard)** *Skirmisher (3149)*
@@ -1555,11 +1555,11 @@
 - **Hellspawn HSN-10SR** *Striker (3081)*
 
 ### [Hierofalcon](mechs/hierofalcon.md)
-- **Hierofalcon  Prime** *Undefined (3148)*
-- **Hierofalcon  A** *Undefined (3148)*
-- **Hierofalcon  B** *Undefined (3148)*
-- **Hierofalcon  C** *Undefined (3148)*
-- **Hierofalcon  D** *Undefined (3148)*
+- **Hierofalcon  Prime** *Striker (3148)*
+- **Hierofalcon  A** *Striker (3148)*
+- **Hierofalcon  B** *Striker (3148)*
+- **Hierofalcon  C** *Sniper (3148)*
+- **Hierofalcon  D** *Striker (3148)*
 
 ### [Hollander II](mechs/hollander_ii.md)
 - **Hollander II BZK-F5** *Sniper (3058)*
@@ -1613,14 +1613,14 @@
 - **Pinion 3** *Brawler (3069)*
 
 ### [Preta](mechs/preta.md)
-- **Preta  C-PRT-O Invictus** *Undefined (3069)*
-- **Preta  C-PRT-OA Dominus** *Undefined (3069)*
-- **Preta  C-PRT-OB Infernus** *Undefined (3069)*
-- **Preta  C-PRT-OC Comminus** *Undefined (3069)*
-- **Preta  C-PRT-OD Luminos** *Undefined (3069)*
-- **Preta  C-PRT-O (Kendali)** *Undefined (3071)*
-- **Preta  C-PRT-OE Eminus** *Undefined (3072)*
-- **Preta  C-PRT-OS Caelestis** *Undefined (3075)*
+- **Preta  C-PRT-O Invictus** *Skirmisher (3069)*
+- **Preta  C-PRT-OA Dominus** *Striker (3069)*
+- **Preta  C-PRT-OB Infernus** *Sniper (3069)*
+- **Preta  C-PRT-OC Comminus** *Skirmisher (3069)*
+- **Preta  C-PRT-OD Luminos** *Striker (3069)*
+- **Preta  C-PRT-O (Kendali)** *Scout (3071)*
+- **Preta  C-PRT-OE Eminus** *Missile Boat (3072)*
+- **Preta  C-PRT-OS Caelestis** *Striker (3075)*
 
 ### [Quasit MilitiaMech](mechs/quasit_militiamech.md)
 - **Quasit MilitiaMech QUA-51T** *Brawler (2517)*
@@ -1628,25 +1628,25 @@
 - **Quasit MilitiaMech QUA-51P** *Scout (3074)*
 
 ### [Shadow Cat](mechs/shadow_cat.md)
-- **Shadow Cat  Prime** *Undefined (3003)*
-- **Shadow Cat  A** *Undefined (3003)*
-- **Shadow Cat  B** *Undefined (3003)*
-- **Shadow Cat  TC** *Undefined (3050)*
-- **Shadow Cat  M** *Undefined (3054)*
-- **Shadow Cat  C** *Undefined (3061)*
-- **Shadow Cat  D** *Undefined (3062)*
-- **Shadow Cat  H** *Undefined (3062)*
-- **Shadow Cat  J** *Undefined (3071)*
-- **Shadow Cat  E** *Undefined (3098)*
-- **Shadow Cat  F** *Undefined (3131)*
-- **Shadow Cat  I** *Undefined (3136)*
-- **Shadow Cat  T** *Undefined (3142)*
+- **Shadow Cat  Prime** *Striker (3003)*
+- **Shadow Cat  A** *Sniper (3003)*
+- **Shadow Cat  B** *Missile Boat (3003)*
+- **Shadow Cat  TC** *Scout (3050)*
+- **Shadow Cat  M** *Striker (3054)*
+- **Shadow Cat  C** *Striker (3061)*
+- **Shadow Cat  D** *Striker (3062)*
+- **Shadow Cat  H** *Striker (3062)*
+- **Shadow Cat  J** *Striker (3071)*
+- **Shadow Cat  E** *Striker (3098)*
+- **Shadow Cat  F** *Sniper (3131)*
+- **Shadow Cat  I** *Striker (3136)*
+- **Shadow Cat  T** *Scout (3142)*
 
 ### [Shadow Cat III](mechs/shadow_cat_iii.md)
-- **Shadow Cat III  Prime** *Undefined (3111)*
-- **Shadow Cat III  A** *Undefined (3111)*
-- **Shadow Cat III  B** *Undefined (3111)*
-- **Shadow Cat III  C** *Undefined (3111)*
+- **Shadow Cat III  Prime** *Striker (3111)*
+- **Shadow Cat III  A** *Striker (3111)*
+- **Shadow Cat III  B** *Striker (3111)*
+- **Shadow Cat III  C** *Striker (3111)*
 
 ### [Shadow Hawk IIC](mechs/shadow_hawk_iic.md)
 - **Shadow Hawk IIC (Standard)** *Striker (2831)*
@@ -1723,12 +1723,12 @@
 ## 50 Tons
 
 ### [Avalanche](mechs/avalanche.md)
-- **Avalanche  AVL-1O** *Undefined (3133)*
-- **Avalanche  AVL-1OA** *Undefined (3133)*
-- **Avalanche  AVL-1OB** *Undefined (3133)*
-- **Avalanche  AVL-1OC** *Undefined (3133)*
-- **Avalanche  AVL-1ON** *Undefined (3133)*
-- **Avalanche  AVL-1OR** *Undefined (3133)*
+- **Avalanche  AVL-1O** *Missile Boat (3133)*
+- **Avalanche  AVL-1OA** *Skirmisher (3133)*
+- **Avalanche  AVL-1OB** *Skirmisher (3133)*
+- **Avalanche  AVL-1OC** *Skirmisher (3133)*
+- **Avalanche  AVL-1ON** *Sniper (3133)*
+- **Avalanche  AVL-1OR** *Missile Boat (3133)*
 
 ### [Black Hawk](mechs/black_hawk.md)
 - **Black Hawk (Standard)** *Skirmisher (3073)*
@@ -1736,29 +1736,29 @@
 - **Black Hawk 3** *Skirmisher (3092)*
 
 ### [Black Hawk (Nova)](mechs/black_hawk_nova.md)
-- **Black Hawk (Nova)  Prime** *Undefined (2870)*
-- **Black Hawk (Nova)  A** *Undefined (2870)*
-- **Black Hawk (Nova)  B** *Undefined (2870)*
-- **Black Hawk (Nova)  C** *Undefined (2870)*
-- **Black Hawk (Nova)  D** *Undefined (2870)*
-- **Black Hawk (Nova)  S** *Undefined (3050)*
-- **Black Hawk (Nova)  E** *Undefined (3054)*
-- **Black Hawk (Nova)  H** *Undefined (3059)*
-- **Black Hawk (Nova)  F** *Undefined (3068)*
-- **Black Hawk (Nova)  I** *Undefined (3094)*
+- **Black Hawk (Nova)  Prime** *Skirmisher (2870)*
+- **Black Hawk (Nova)  A** *Sniper (2870)*
+- **Black Hawk (Nova)  B** *Sniper (2870)*
+- **Black Hawk (Nova)  C** *Sniper (2870)*
+- **Black Hawk (Nova)  D** *Missile Boat (2870)*
+- **Black Hawk (Nova)  S** *Skirmisher (3050)*
+- **Black Hawk (Nova)  E** *Skirmisher (3054)*
+- **Black Hawk (Nova)  H** *Skirmisher (3059)*
+- **Black Hawk (Nova)  F** *Skirmisher (3068)*
+- **Black Hawk (Nova)  I** *Skirmisher (3094)*
 - **Black Hawk (Nova)  X** *Undefined (3137)*
 
 ### [Blackjack](mechs/blackjack.md)
-- **Blackjack  BJ2-O** *Undefined (3057)*
-- **Blackjack  BJ2-OA** *Undefined (3057)*
-- **Blackjack  BJ2-OB** *Undefined (3057)*
-- **Blackjack  BJ2-OC** *Undefined (3057)*
-- **Blackjack  BJ2-OD** *Undefined (3057)*
-- **Blackjack  BJ2-OE** *Undefined (3059)*
-- **Blackjack  BJ2-OR** *Undefined (3059)*
-- **Blackjack  BJ2-OF** *Undefined (3061)*
-- **Blackjack  BJ2-OX** *Undefined (3074)*
-- **Blackjack  BJ2-OG** *Undefined (3134)*
+- **Blackjack  BJ2-O** *Brawler (3057)*
+- **Blackjack  BJ2-OA** *Missile Boat (3057)*
+- **Blackjack  BJ2-OB** *Sniper (3057)*
+- **Blackjack  BJ2-OC** *Brawler (3057)*
+- **Blackjack  BJ2-OD** *Brawler (3057)*
+- **Blackjack  BJ2-OE** *Sniper (3059)*
+- **Blackjack  BJ2-OR** *Brawler (3059)*
+- **Blackjack  BJ2-OF** *Sniper (3061)*
+- **Blackjack  BJ2-OX** *Brawler (3074)*
+- **Blackjack  BJ2-OG** *Brawler (3134)*
 
 ### [Blitzkrieg](mechs/blitzkrieg.md)
 - **Blitzkrieg BTZ-3F** *Striker (3061)*
@@ -1803,12 +1803,12 @@
 - **Centurion CN9-Ar** *Sniper (3072)*
 - **Centurion CN9-H** *Brawler (3077)*
 - **Centurion CN9-YLW3 'Yen Lo Wang'** *Brawler (3101)*
-- **Centurion  CN11-O** *Undefined (3111)*
-- **Centurion  CN11-OA** *Undefined (3111)*
-- **Centurion  CN11-OB** *Undefined (3111)*
-- **Centurion  CN11-OC** *Undefined (3111)*
-- **Centurion  CN11-OD** *Undefined (3111)*
-- **Centurion  CN11-OE** *Undefined (3111)*
+- **Centurion  CN11-O** *Brawler (3111)*
+- **Centurion  CN11-OA** *Brawler (3111)*
+- **Centurion  CN11-OB** *Sniper (3111)*
+- **Centurion  CN11-OC** *Skirmisher (3111)*
+- **Centurion  CN11-OD** *Brawler (3111)*
+- **Centurion  CN11-OE** *Sniper (3111)*
 
 ### [Chameleon](mechs/chameleon.md)
 - **Chameleon TRC-4B** *Scout (2510)*
@@ -1828,12 +1828,12 @@
 - **Crab CRB-54** *Skirmisher (3144)*
 
 ### [Crimson Langur](mechs/crimson_langur.md)
-- **Crimson Langur  Prime** *Undefined (3065)*
-- **Crimson Langur  A** *Undefined (3065)*
-- **Crimson Langur  B** *Undefined (3065)*
-- **Crimson Langur  C** *Undefined (3065)*
-- **Crimson Langur  D** *Undefined (3068)*
-- **Crimson Langur  E** *Undefined (3068)*
+- **Crimson Langur  Prime** *Striker (3065)*
+- **Crimson Langur  A** *Missile Boat (3065)*
+- **Crimson Langur  B** *Striker (3065)*
+- **Crimson Langur  C** *Striker (3065)*
+- **Crimson Langur  D** *Striker (3068)*
+- **Crimson Langur  E** *Striker (3068)*
 
 ### [Enfield](mechs/enfield.md)
 - **Enfield END-6Q** *Skirmisher (3055)*
@@ -1957,23 +1957,23 @@
 - **Nightsky NGS-6T** *Striker (3067)*
 
 ### [Nobori-nin (Huntsman)](mechs/nobori-nin_huntsman.md)
-- **Nobori-nin (Huntsman)  Prime** *Undefined (3049)*
-- **Nobori-nin (Huntsman)  A** *Undefined (3049)*
-- **Nobori-nin (Huntsman)  B** *Undefined (3049)*
-- **Nobori-nin (Huntsman)  C** *Undefined (3049)*
-- **Nobori-nin (Huntsman)  D** *Undefined (3061)*
-- **Nobori-nin (Huntsman)  H** *Undefined (3063)*
-- **Nobori-nin (Huntsman)  N** *Undefined (3068)*
-- **Nobori-nin (Huntsman)  E** *Undefined (3070)*
-- **Nobori-nin (Huntsman)  I** *Undefined (3088)*
-- **Nobori-nin (Huntsman)  F** *Undefined (3132)*
-- **Nobori-nin (Huntsman)  G** *Undefined (3139)*
-- **Nobori-nin (Huntsman)  T** *Undefined (3142)*
+- **Nobori-nin (Huntsman)  Prime** *Skirmisher (3049)*
+- **Nobori-nin (Huntsman)  A** *Sniper (3049)*
+- **Nobori-nin (Huntsman)  B** *Skirmisher (3049)*
+- **Nobori-nin (Huntsman)  C** *Missile Boat (3049)*
+- **Nobori-nin (Huntsman)  D** *Skirmisher (3061)*
+- **Nobori-nin (Huntsman)  H** *Skirmisher (3063)*
+- **Nobori-nin (Huntsman)  N** *Sniper (3068)*
+- **Nobori-nin (Huntsman)  E** *Skirmisher (3070)*
+- **Nobori-nin (Huntsman)  I** *Sniper (3088)*
+- **Nobori-nin (Huntsman)  F** *Skirmisher (3132)*
+- **Nobori-nin (Huntsman)  G** *Skirmisher (3139)*
+- **Nobori-nin (Huntsman)  T** *Skirmisher (3142)*
 
 ### [Omni-Corvis](mechs/omni-corvis.md)
-- **Omni-Corvis  Prime** *Undefined (2921)*
-- **Omni-Corvis  A** *Undefined (2921)*
-- **Omni-Corvis  B** *Undefined (2921)*
+- **Omni-Corvis  Prime** *Sniper (2921)*
+- **Omni-Corvis  A** *Brawler (2921)*
+- **Omni-Corvis  B** *Missile Boat (2921)*
 
 ### [Phoenix](mechs/phoenix.md)
 - **Phoenix PX-3R** *Skirmisher (2520)*
@@ -2070,14 +2070,14 @@
 - **Uziel UZL-8S** *Striker (3075)*
 
 ### [Wendigo](mechs/wendigo.md)
-- **Wendigo  (Prime)** *Undefined (3135)*
-- **Wendigo  A** *Undefined (3135)*
-- **Wendigo  B** *Undefined (3135)*
-- **Wendigo  C** *Undefined (3135)*
+- **Wendigo  (Prime)** *Skirmisher (3135)*
+- **Wendigo  A** *Sniper (3135)*
+- **Wendigo  B** *Skirmisher (3135)*
+- **Wendigo  C** *Skirmisher (3135)*
 
 ### [Wendigo-VP](mechs/wendigo-vp.md)
-- **Wendigo-VP  (Prime)** *Undefined (3134)*
-- **Wendigo-VP  A** *Undefined (3134)*
+- **Wendigo-VP  (Prime)** *Skirmisher (3134)*
+- **Wendigo-VP  A** *Skirmisher (3134)*
 
 ## 55 Tons
 
@@ -2096,14 +2096,14 @@
 - **Bakeneko BKN-1K** *Skirmisher (3100)*
 
 ### [Black Lanner](mechs/black_lanner.md)
-- **Black Lanner  Prime** *Undefined (3052)*
-- **Black Lanner  A** *Undefined (3052)*
-- **Black Lanner  B** *Undefined (3052)*
-- **Black Lanner  C** *Undefined (3052)*
-- **Black Lanner  D** *Undefined (3052)*
-- **Black Lanner  H** *Undefined (3061)*
-- **Black Lanner  E** *Undefined (3062)*
-- **Black Lanner  X** *Undefined (3075)*
+- **Black Lanner  Prime** *Skirmisher (3052)*
+- **Black Lanner  A** *Skirmisher (3052)*
+- **Black Lanner  B** *Missile Boat (3052)*
+- **Black Lanner  C** *Skirmisher (3052)*
+- **Black Lanner  D** *Skirmisher (3052)*
+- **Black Lanner  H** *Skirmisher (3061)*
+- **Black Lanner  E** *Skirmisher (3062)*
+- **Black Lanner  X** *Skirmisher (3075)*
 
 ### [Buccaneer](mechs/buccaneer.md)
 - **Buccaneer BCN-3R** *Skirmisher (3055)*
@@ -2165,10 +2165,10 @@
 - **Fennec FEC-5CM** *Skirmisher (3133)*
 
 ### [Gauntlet](mechs/gauntlet.md)
-- **Gauntlet  GTL-1O** *Undefined (3128)*
-- **Gauntlet  GTL-1OA** *Undefined (3128)*
-- **Gauntlet  GTL-1OB** *Undefined (3128)*
-- **Gauntlet  GTL-1OC** *Undefined (3128)*
+- **Gauntlet  GTL-1O** *Skirmisher (3128)*
+- **Gauntlet  GTL-1OA** *Skirmisher (3128)*
+- **Gauntlet  GTL-1OB** *Skirmisher (3128)*
+- **Gauntlet  GTL-1OC** *Skirmisher (3128)*
 
 ### [Gladiator](mechs/gladiator.md)
 - **Gladiator GLD-1R** *Brawler (2468)*
@@ -2287,15 +2287,15 @@
 - **Marshal MHL-3MC** *Brawler (3119)*
 
 ### [Men Shen](mechs/men_shen.md)
-- **Men Shen  MS1-O** *Undefined (3060)*
-- **Men Shen  MS1-OA** *Undefined (3060)*
-- **Men Shen  MS1-OB** *Undefined (3060)*
-- **Men Shen  MS1-OC** *Undefined (3060)*
-- **Men Shen  MS1-OD** *Undefined (3060)*
-- **Men Shen  (Li)** *Undefined (3068)*
-- **Men Shen  MS1-OE** *Undefined (3070)*
-- **Men Shen  MS1-OF** *Undefined (3076)*
-- **Men Shen  MS1-OG** *Undefined (3134)*
+- **Men Shen  MS1-O** *Striker (3060)*
+- **Men Shen  MS1-OA** *Striker (3060)*
+- **Men Shen  MS1-OB** *Striker (3060)*
+- **Men Shen  MS1-OC** *Striker (3060)*
+- **Men Shen  MS1-OD** *Striker (3060)*
+- **Men Shen  (Li)** *Striker (3068)*
+- **Men Shen  MS1-OE** *Striker (3070)*
+- **Men Shen  MS1-OF** *Striker (3076)*
+- **Men Shen  MS1-OG** *Scout (3134)*
 
 ### [Osprey](mechs/osprey.md)
 - **Osprey OSP-15** *Sniper (2738)*
@@ -2304,18 +2304,18 @@
 - **Osprey OSP-26 (Lawrence)** *Skirmisher (3085)*
 
 ### [Pariah (Septicemia)](mechs/pariah_septicemia.md)
-- **Pariah (Septicemia)  Prime** *Undefined (3072)*
-- **Pariah (Septicemia)  A** *Undefined (3072)*
-- **Pariah (Septicemia)  A-Z** *Undefined (3072)*
-- **Pariah (Septicemia)  B** *Undefined (3072)*
-- **Pariah (Septicemia)  B-Z** *Undefined (3072)*
-- **Pariah (Septicemia)  C** *Undefined (3072)*
-- **Pariah (Septicemia)  C-Z** *Undefined (3072)*
-- **Pariah (Septicemia)  D** *Undefined (3072)*
-- **Pariah (Septicemia)  D-Z** *Undefined (3072)*
-- **Pariah (Septicemia)  E** *Undefined (3072)*
-- **Pariah (Septicemia)  F** *Undefined (3072)*
-- **Pariah (Septicemia)  US** *Undefined (3072)*
+- **Pariah (Septicemia)  Prime** *Sniper (3072)*
+- **Pariah (Septicemia)  A** *Scout (3072)*
+- **Pariah (Septicemia)  A-Z** *Brawler (3072)*
+- **Pariah (Septicemia)  B** *Skirmisher (3072)*
+- **Pariah (Septicemia)  B-Z** *Skirmisher (3072)*
+- **Pariah (Septicemia)  C** *Skirmisher (3072)*
+- **Pariah (Septicemia)  C-Z** *Skirmisher (3072)*
+- **Pariah (Septicemia)  D** *Skirmisher (3072)*
+- **Pariah (Septicemia)  D-Z** *Skirmisher (3072)*
+- **Pariah (Septicemia)  E** *Skirmisher (3072)*
+- **Pariah (Septicemia)  F** *Missile Boat (3072)*
+- **Pariah (Septicemia)  US** *Skirmisher (3072)*
 
 ### [Prowler](mechs/prowler.md)
 - **Prowler PWR-1X** *Skirmisher (3068)*
@@ -2333,31 +2333,31 @@
 - **Rook NH-1X 'Rook-X'** *Juggernaut (3077)*
 
 ### [Ryoken (Stormcrow)](mechs/ryoken_stormcrow.md)
-- **Ryoken (Stormcrow)  Prime** *Undefined (2930)*
-- **Ryoken (Stormcrow)  A** *Undefined (2930)*
-- **Ryoken (Stormcrow)  B** *Undefined (2930)*
-- **Ryoken (Stormcrow)  C** *Undefined (2930)*
-- **Ryoken (Stormcrow)  D** *Undefined (2930)*
+- **Ryoken (Stormcrow)  Prime** *Striker (2930)*
+- **Ryoken (Stormcrow)  A** *Striker (2930)*
+- **Ryoken (Stormcrow)  B** *Striker (2930)*
+- **Ryoken (Stormcrow)  C** *Striker (2930)*
+- **Ryoken (Stormcrow)  D** *Missile Boat (2930)*
 - **Ryoken (Stormcrow)  Attwater** *Undefined (3052)*
 - **Ryoken (Stormcrow)  TC** *Undefined (3052)*
-- **Ryoken (Stormcrow)  E** *Undefined (3054)*
-- **Ryoken (Stormcrow)  (Kotare)** *Undefined (3059)*
-- **Ryoken (Stormcrow)  H** *Undefined (3059)*
-- **Ryoken (Stormcrow)  I** *Undefined (3059)*
-- **Ryoken (Stormcrow)  G** *Undefined (3068)*
-- **Ryoken (Stormcrow)  F** *Undefined (3069)*
-- **Ryoken (Stormcrow)  Z** *Undefined (3072)*
+- **Ryoken (Stormcrow)  E** *Striker (3054)*
+- **Ryoken (Stormcrow)  (Kotare)** *Skirmisher (3059)*
+- **Ryoken (Stormcrow)  H** *Striker (3059)*
+- **Ryoken (Stormcrow)  I** *Sniper (3059)*
+- **Ryoken (Stormcrow)  G** *Striker (3068)*
+- **Ryoken (Stormcrow)  F** *Striker (3069)*
+- **Ryoken (Stormcrow)  Z** *Striker (3072)*
 - **Ryoken (Stormcrow)  J** *Undefined (3150)*
 - **Ryoken (Stormcrow)  K** *Undefined (3150)*
 - **Ryoken (Stormcrow)  P** *Undefined (3150)*
 - **Ryoken (Stormcrow)  T** *Undefined (3150)*
 
 ### [Ryoken III-XP](mechs/ryoken_iii-xp.md)
-- **Ryoken III-XP  Prime** *Undefined (3143)*
-- **Ryoken III-XP  A** *Undefined (3143)*
-- **Ryoken III-XP  B** *Undefined (3143)*
-- **Ryoken III-XP  C** *Undefined (3143)*
-- **Ryoken III-XP  D** *Undefined (3143)*
+- **Ryoken III-XP  Prime** *Striker (3143)*
+- **Ryoken III-XP  A** *Striker (3143)*
+- **Ryoken III-XP  B** *Striker (3143)*
+- **Ryoken III-XP  C** *Striker (3143)*
+- **Ryoken III-XP  D** *Striker (3143)*
 
 ### [Scorpion](mechs/scorpion.md)
 - **Scorpion SCP-1N** *Skirmisher (2570)*
@@ -2393,19 +2393,19 @@
 - **Shadow Hawk SHD-4H** *Sniper (3101)*
 
 ### [Stooping Hawk](mechs/stooping_hawk.md)
-- **Stooping Hawk  Prime** *Undefined (2970)*
-- **Stooping Hawk  A** *Undefined (2970)*
-- **Stooping Hawk  B** *Undefined (2970)*
-- **Stooping Hawk  C** *Undefined (2970)*
-- **Stooping Hawk  D** *Undefined (3060)*
-- **Stooping Hawk  E** *Undefined (3061)*
-- **Stooping Hawk  F** *Undefined (3072)*
-- **Stooping Hawk  G** *Undefined (3073)*
+- **Stooping Hawk  Prime** *Skirmisher (2970)*
+- **Stooping Hawk  A** *Sniper (2970)*
+- **Stooping Hawk  B** *Missile Boat (2970)*
+- **Stooping Hawk  C** *Sniper (2970)*
+- **Stooping Hawk  D** *Skirmisher (3060)*
+- **Stooping Hawk  E** *Skirmisher (3061)*
+- **Stooping Hawk  F** *Striker (3072)*
+- **Stooping Hawk  G** *Skirmisher (3073)*
 
 ### [Sun Bear](mechs/sun_bear.md)
-- **Sun Bear  Prime** *Undefined (2966)*
-- **Sun Bear  A** *Undefined (2966)*
-- **Sun Bear  B** *Undefined (2966)*
+- **Sun Bear  Prime** *Brawler (2966)*
+- **Sun Bear  A** *Skirmisher (2966)*
+- **Sun Bear  B** *Missile Boat (2966)*
 
 ### [Sun Cobra](mechs/sun_cobra.md)
 - **Sun Cobra (Standard)** *Sniper (3074)*
@@ -2473,18 +2473,18 @@
 - **Bellerophon BEL-1X** *Brawler (2442)*
 
 ### [Black Hawk-KU](mechs/black_hawk-ku.md)
-- **Black Hawk-KU  BHKU-O** *Undefined (3055)*
-- **Black Hawk-KU  BHKU-OA** *Undefined (3055)*
-- **Black Hawk-KU  BHKU-OB** *Undefined (3055)*
-- **Black Hawk-KU  BHKU-OC** *Undefined (3055)*
-- **Black Hawk-KU  BHKU-OD** *Undefined (3055)*
-- **Black Hawk-KU  BHKU-OX** *Undefined (3058)*
-- **Black Hawk-KU  BHKU-OR** *Undefined (3059)*
-- **Black Hawk-KU  BHKU-OE** *Undefined (3063)*
-- **Black Hawk-KU  BHKU-OF** *Undefined (3069)*
-- **Black Hawk-KU  BHKU-O (Albert)** *Undefined (3070)*
-- **Black Hawk-KU  BHKU-OU** *Undefined (3077)*
-- **Black Hawk-KU  BHKU-OG** *Undefined (3089)*
+- **Black Hawk-KU  BHKU-O** *Skirmisher (3055)*
+- **Black Hawk-KU  BHKU-OA** *Sniper (3055)*
+- **Black Hawk-KU  BHKU-OB** *Skirmisher (3055)*
+- **Black Hawk-KU  BHKU-OC** *Sniper (3055)*
+- **Black Hawk-KU  BHKU-OD** *Missile Boat (3055)*
+- **Black Hawk-KU  BHKU-OX** *Skirmisher (3058)*
+- **Black Hawk-KU  BHKU-OR** *Skirmisher (3059)*
+- **Black Hawk-KU  BHKU-OE** *Skirmisher (3063)*
+- **Black Hawk-KU  BHKU-OF** *Sniper (3069)*
+- **Black Hawk-KU  BHKU-O (Albert)** *Skirmisher (3070)*
+- **Black Hawk-KU  BHKU-OU** *Skirmisher (3077)*
+- **Black Hawk-KU  BHKU-OG** *Skirmisher (3089)*
 
 ### [Brahma](mechs/brahma.md)
 - **Brahma BRM-5A** *Skirmisher (3080)*
@@ -2540,15 +2540,15 @@
 - **Grand Dragon DRG-10K** *Skirmisher (3114)*
 
 ### [Grigori](mechs/grigori.md)
-- **Grigori  C-GRG-O Invictus** *Undefined (3069)*
-- **Grigori  C-GRG-OA Dominus** *Undefined (3069)*
-- **Grigori  C-GRG-OB Infernus** *Undefined (3069)*
-- **Grigori  C-GRG-OC Comminus** *Undefined (3069)*
-- **Grigori  C-GRG-OD Luminos** *Undefined (3069)*
-- **Grigori  C-GRG-O (Rufus)** *Undefined (3071)*
-- **Grigori  C-GRG-O (Tamiel)** *Undefined (3072)*
-- **Grigori  C-GRG-OE Eminus** *Undefined (3072)*
-- **Grigori  C-GRG-OS Caelestis** *Undefined (3075)*
+- **Grigori  C-GRG-O Invictus** *Brawler (3069)*
+- **Grigori  C-GRG-OA Dominus** *Skirmisher (3069)*
+- **Grigori  C-GRG-OB Infernus** *Skirmisher (3069)*
+- **Grigori  C-GRG-OC Comminus** *Skirmisher (3069)*
+- **Grigori  C-GRG-OD Luminos** *Skirmisher (3069)*
+- **Grigori  C-GRG-O (Rufus)** *Skirmisher (3071)*
+- **Grigori  C-GRG-O (Tamiel)** *Missile Boat (3072)*
+- **Grigori  C-GRG-OE Eminus** *Brawler (3072)*
+- **Grigori  C-GRG-OS Caelestis** *Brawler (3075)*
 
 ### [Heavy Lifter HCL-1 CargoMech](mechs/heavy_lifter_hcl-1_cargomech.md)
 - **Heavy Lifter HCL-1 CargoMech (Standard)** *Ambusher (3060)*
@@ -2582,11 +2582,11 @@
 - **Lancelot LNC25-08** *Sniper (3071)*
 
 ### [Lupus](mechs/lupus.md)
-- **Lupus  Prime** *Undefined (2857)*
-- **Lupus  A** *Undefined (2857)*
-- **Lupus  B** *Undefined (2857)*
-- **Lupus  C** *Undefined (3147)*
-- **Lupus  D** *Undefined (3147)*
+- **Lupus  Prime** *Missile Boat (2857)*
+- **Lupus  A** *Skirmisher (2857)*
+- **Lupus  B** *Skirmisher (2857)*
+- **Lupus  C** *Brawler (3147)*
+- **Lupus  D** *Brawler (3147)*
 
 ### [Matador](mechs/matador.md)
 - **Matador (Standard)** *Juggernaut (2846)*
@@ -2675,11 +2675,11 @@
 - **Shadow Cat II 4** *Sniper (3092)*
 
 ### [Sojourner](mechs/sojourner.md)
-- **Sojourner  Prime** *Undefined (3147)*
-- **Sojourner  A** *Undefined (3147)*
-- **Sojourner  B** *Undefined (3147)*
-- **Sojourner  C** *Undefined (3147)*
-- **Sojourner  D** *Undefined (3147)*
+- **Sojourner  Prime** *Sniper (3147)*
+- **Sojourner  A** *Brawler (3147)*
+- **Sojourner  B** *Brawler (3147)*
+- **Sojourner  C** *Missile Boat (3147)*
+- **Sojourner  D** *Brawler (3147)*
 
 ### [Spatha](mechs/spatha.md)
 - **Spatha SP1-X** *Skirmisher (3067)*
@@ -2709,35 +2709,35 @@
 - **Vulpes VLP-1D** *Skirmisher (3133)*
 
 ### [Vulture (Mad Dog)](mechs/vulture_mad_dog.md)
-- **Vulture (Mad Dog)  Prime** *Undefined (2963)*
-- **Vulture (Mad Dog)  A** *Undefined (2963)*
-- **Vulture (Mad Dog)  B** *Undefined (2963)*
-- **Vulture (Mad Dog)  C** *Undefined (2963)*
-- **Vulture (Mad Dog)  DD** *Undefined (3050)*
-- **Vulture (Mad Dog)  S** *Undefined (3052)*
-- **Vulture (Mad Dog)  D** *Undefined (3054)*
-- **Vulture (Mad Dog)  H** *Undefined (3059)*
-- **Vulture (Mad Dog)  E** *Undefined (3069)*
-- **Vulture (Mad Dog)  F** *Undefined (3069)*
-- **Vulture (Mad Dog)  G** *Undefined (3093)*
+- **Vulture (Mad Dog)  Prime** *Missile Boat (2963)*
+- **Vulture (Mad Dog)  A** *Skirmisher (2963)*
+- **Vulture (Mad Dog)  B** *Skirmisher (2963)*
+- **Vulture (Mad Dog)  C** *Sniper (2963)*
+- **Vulture (Mad Dog)  DD** *Brawler (3050)*
+- **Vulture (Mad Dog)  S** *Skirmisher (3052)*
+- **Vulture (Mad Dog)  D** *Skirmisher (3054)*
+- **Vulture (Mad Dog)  H** *Missile Boat (3059)*
+- **Vulture (Mad Dog)  E** *Sniper (3069)*
+- **Vulture (Mad Dog)  F** *Skirmisher (3069)*
+- **Vulture (Mad Dog)  G** *Brawler (3093)*
 - **Vulture (Mad Dog)  V** *Undefined (3098)*
 - **Vulture (Mad Dog)  T** *Undefined (3142)*
-- **Vulture (Mad Dog)  I** *Undefined (3144)*
+- **Vulture (Mad Dog)  I** *Sniper (3144)*
 
 ### [Vulture Mk III (Mad Dog Mk III)](mechs/vulture_mk_iii_mad_dog_mk_iii.md)
-- **Vulture Mk III (Mad Dog Mk III)  (Prime)** *Undefined (3109)*
-- **Vulture Mk III (Mad Dog Mk III)  A** *Undefined (3109)*
-- **Vulture Mk III (Mad Dog Mk III)  B** *Undefined (3109)*
+- **Vulture Mk III (Mad Dog Mk III)  (Prime)** *Missile Boat (3109)*
+- **Vulture Mk III (Mad Dog Mk III)  A** *Skirmisher (3109)*
+- **Vulture Mk III (Mad Dog Mk III)  B** *Missile Boat (3109)*
 - **Vulture Mk III (Mad Dog Mk III)  BLO** *Undefined (3109)*
-- **Vulture Mk III (Mad Dog Mk III)  C** *Undefined (3109)*
-- **Vulture Mk III (Mad Dog Mk III)  D** *Undefined (3109)*
+- **Vulture Mk III (Mad Dog Mk III)  C** *Skirmisher (3109)*
+- **Vulture Mk III (Mad Dog Mk III)  D** *Skirmisher (3109)*
 
 ### [Vulture Mk IV (Mad Dog Mk IV)](mechs/vulture_mk_iv_mad_dog_mk_iv.md)
-- **Vulture Mk IV (Mad Dog Mk IV)  Prime** *Undefined (3137)*
-- **Vulture Mk IV (Mad Dog Mk IV)  A** *Undefined (3137)*
-- **Vulture Mk IV (Mad Dog Mk IV)  B** *Undefined (3137)*
-- **Vulture Mk IV (Mad Dog Mk IV)  C** *Undefined (3137)*
-- **Vulture Mk IV (Mad Dog Mk IV)  D** *Undefined (3137)*
+- **Vulture Mk IV (Mad Dog Mk IV)  Prime** *Brawler (3137)*
+- **Vulture Mk IV (Mad Dog Mk IV)  A** *Sniper (3137)*
+- **Vulture Mk IV (Mad Dog Mk IV)  B** *Brawler (3137)*
+- **Vulture Mk IV (Mad Dog Mk IV)  C** *Brawler (3137)*
+- **Vulture Mk IV (Mad Dog Mk IV)  D** *Brawler (3137)*
 
 ### [Yeoman](mechs/yeoman.md)
 - **Yeoman YMN-6Y** *Missile Boat (3060)*
@@ -2761,12 +2761,12 @@
 - **Axman AXM-5N** *Skirmisher (3148)*
 
 ### [Balius](mechs/balius.md)
-- **Balius  Prime** *Undefined (3075)*
-- **Balius  A** *Undefined (3075)*
-- **Balius  B** *Undefined (3075)*
-- **Balius  C** *Undefined (3075)*
-- **Balius  D** *Undefined (3075)*
-- **Balius  E** *Undefined (3127)*
+- **Balius  Prime** *Skirmisher (3075)*
+- **Balius  A** *Sniper (3075)*
+- **Balius  B** *Sniper (3075)*
+- **Balius  C** *Skirmisher (3075)*
+- **Balius  D** *Skirmisher (3075)*
+- **Balius  E** *Skirmisher (3127)*
 
 ### [Bombardier](mechs/bombardier.md)
 - **Bombardier BMB-12D** *Missile Boat (2735)*
@@ -2797,15 +2797,15 @@
 - **Catapult CPLT-6K** *Undefined (3150)*
 
 ### [Cauldron-Born (Ebon Jaguar)](mechs/cauldron-born_ebon_jaguar.md)
-- **Cauldron-Born (Ebon Jaguar)  Prime** *Undefined (3049)*
-- **Cauldron-Born (Ebon Jaguar)  A** *Undefined (3049)*
-- **Cauldron-Born (Ebon Jaguar)  B** *Undefined (3049)*
-- **Cauldron-Born (Ebon Jaguar)  C** *Undefined (3049)*
-- **Cauldron-Born (Ebon Jaguar)  (Samantha)** *Undefined (3059)*
-- **Cauldron-Born (Ebon Jaguar)  D** *Undefined (3059)*
-- **Cauldron-Born (Ebon Jaguar)  H** *Undefined (3062)*
-- **Cauldron-Born (Ebon Jaguar)  E** *Undefined (3069)*
-- **Cauldron-Born (Ebon Jaguar)  X** *Undefined (3075)*
+- **Cauldron-Born (Ebon Jaguar)  Prime** *Skirmisher (3049)*
+- **Cauldron-Born (Ebon Jaguar)  A** *Skirmisher (3049)*
+- **Cauldron-Born (Ebon Jaguar)  B** *Sniper (3049)*
+- **Cauldron-Born (Ebon Jaguar)  C** *Missile Boat (3049)*
+- **Cauldron-Born (Ebon Jaguar)  (Samantha)** *Skirmisher (3059)*
+- **Cauldron-Born (Ebon Jaguar)  D** *Skirmisher (3059)*
+- **Cauldron-Born (Ebon Jaguar)  H** *Skirmisher (3062)*
+- **Cauldron-Born (Ebon Jaguar)  E** *Skirmisher (3069)*
+- **Cauldron-Born (Ebon Jaguar)  X** *Skirmisher (3075)*
 
 ### [Cestus](mechs/cestus.md)
 - **Cestus CTS-6X** *Brawler (2609)*
@@ -2814,12 +2814,12 @@
 - **Cestus CTS-7A** *Brawler (3070)*
 
 ### [Crossbow](mechs/crossbow.md)
-- **Crossbow  Prime** *Undefined (2870)*
-- **Crossbow  A** *Undefined (2870)*
-- **Crossbow  B** *Undefined (2870)*
-- **Crossbow  H** *Undefined (3061)*
-- **Crossbow  C** *Undefined (3063)*
-- **Crossbow  E** *Undefined (3072)*
+- **Crossbow  Prime** *Missile Boat (2870)*
+- **Crossbow  A** *Skirmisher (2870)*
+- **Crossbow  B** *Skirmisher (2870)*
+- **Crossbow  H** *Skirmisher (3061)*
+- **Crossbow  C** *Skirmisher (3063)*
+- **Crossbow  E** *Skirmisher (3072)*
 
 ### [Crusader](mechs/crusader.md)
 - **Crusader CRD-2R** *Missile Boat (2649)*
@@ -2888,13 +2888,13 @@
 - **Jinggau JN-G9CC** *Skirmisher (3072)*
 
 ### [Karhu](mechs/karhu.md)
-- **Karhu  Prime** *Undefined (3079)*
-- **Karhu  A** *Undefined (3079)*
-- **Karhu  B** *Undefined (3079)*
-- **Karhu  C** *Undefined (3079)*
-- **Karhu  D** *Undefined (3079)*
-- **Karhu  (Syngman)** *Undefined (3085)*
-- **Karhu  G** *Undefined (3099)*
+- **Karhu  Prime** *Skirmisher (3079)*
+- **Karhu  A** *Sniper (3079)*
+- **Karhu  B** *Skirmisher (3079)*
+- **Karhu  C** *Sniper (3079)*
+- **Karhu  D** *Skirmisher (3079)*
+- **Karhu  (Syngman)** *Skirmisher (3085)*
+- **Karhu  G** *Skirmisher (3099)*
 
 ### [Koschei](mechs/koschei.md)
 - **Koschei KSC-3I** *Skirmisher (2504)*
@@ -2913,32 +2913,32 @@
 - **Lament LMT-4RC** *Brawler (3137)*
 
 ### [Linebacker](mechs/linebacker.md)
-- **Linebacker  Prime** *Undefined (3052)*
-- **Linebacker  A** *Undefined (3052)*
-- **Linebacker  B** *Undefined (3052)*
-- **Linebacker  C** *Undefined (3052)*
-- **Linebacker  D** *Undefined (3052)*
-- **Linebacker  E** *Undefined (3061)*
-- **Linebacker  H** *Undefined (3062)*
-- **Linebacker  I** *Undefined (3142)*
-- **Linebacker  T** *Undefined (3142)*
+- **Linebacker  Prime** *Skirmisher (3052)*
+- **Linebacker  A** *Sniper (3052)*
+- **Linebacker  B** *Skirmisher (3052)*
+- **Linebacker  C** *Skirmisher (3052)*
+- **Linebacker  D** *Skirmisher (3052)*
+- **Linebacker  E** *Skirmisher (3061)*
+- **Linebacker  H** *Skirmisher (3062)*
+- **Linebacker  I** *Scout (3142)*
+- **Linebacker  T** *Skirmisher (3142)*
 
 ### [Loki (Hellbringer)](mechs/loki_hellbringer.md)
-- **Loki (Hellbringer)  Prime** *Undefined (2926)*
-- **Loki (Hellbringer)  A** *Undefined (2926)*
-- **Loki (Hellbringer)  B** *Undefined (2926)*
+- **Loki (Hellbringer)  Prime** *Striker (2926)*
+- **Loki (Hellbringer)  A** *Striker (2926)*
+- **Loki (Hellbringer)  B** *Striker (2926)*
 - **Loki (Hellbringer)  M** *Undefined (3052)*
-- **Loki (Hellbringer)  C** *Undefined (3054)*
-- **Loki (Hellbringer)  F** *Undefined (3054)*
-- **Loki (Hellbringer)  J** *Undefined (3058)*
-- **Loki (Hellbringer)  H** *Undefined (3059)*
-- **Loki (Hellbringer)  D** *Undefined (3069)*
-- **Loki (Hellbringer)  E** *Undefined (3069)*
-- **Loki (Hellbringer)  T** *Undefined (3142)*
+- **Loki (Hellbringer)  C** *Striker (3054)*
+- **Loki (Hellbringer)  F** *Striker (3054)*
+- **Loki (Hellbringer)  J** *Scout (3058)*
+- **Loki (Hellbringer)  H** *Sniper (3059)*
+- **Loki (Hellbringer)  D** *Striker (3069)*
+- **Loki (Hellbringer)  E** *Sniper (3069)*
+- **Loki (Hellbringer)  T** *Sniper (3142)*
 
 ### [Loki Mk II (Hel)](mechs/loki_mk_ii_hel.md)
-- **Loki Mk II (Hel)  (Prime)** *Undefined (3121)*
-- **Loki Mk II (Hel)  A** *Undefined (3121)*
+- **Loki Mk II (Hel)  (Prime)** *Sniper (3121)*
+- **Loki Mk II (Hel)  A** *Brawler (3121)*
 
 ### [Morpheus](mechs/morpheus.md)
 - **Morpheus MR-P1** *Scout (3051)*
@@ -3027,8 +3027,8 @@
 - **Ursa URA-2C** *Skirmisher (3125)*
 
 ### [Vandal](mechs/vandal.md)
-- **Vandal  LI-O** *Undefined (3142)*
-- **Vandal  LI-OA** *Undefined (3142)*
+- **Vandal  LI-O** *Skirmisher (3142)*
+- **Vandal  LI-OA** *Skirmisher (3142)*
 
 ### [Verfolger](mechs/verfolger.md)
 - **Verfolger VR5-R** *Skirmisher (3063)*
@@ -3072,18 +3072,18 @@
 - **Archer ARC-9R** *Undefined (3134)*
 
 ### [Avatar](mechs/avatar.md)
-- **Avatar  AV1-O** *Undefined (3056)*
-- **Avatar  AV1-OA** *Undefined (3056)*
-- **Avatar  AV1-OB** *Undefined (3056)*
-- **Avatar  AV1-OC** *Undefined (3056)*
-- **Avatar  AV1-OG** *Undefined (3056)*
-- **Avatar  AV1-OR** *Undefined (3059)*
-- **Avatar  AV1-OD** *Undefined (3060)*
-- **Avatar  AV1-OE** *Undefined (3062)*
-- **Avatar  AV1-OF** *Undefined (3064)*
-- **Avatar  AV1-OH** *Undefined (3069)*
-- **Avatar  AV1-OI** *Undefined (3078)*
-- **Avatar  AV1-OJ** *Undefined (3099)*
+- **Avatar  AV1-O** *Brawler (3056)*
+- **Avatar  AV1-OA** *Brawler (3056)*
+- **Avatar  AV1-OB** *Missile Boat (3056)*
+- **Avatar  AV1-OC** *Sniper (3056)*
+- **Avatar  AV1-OG** *Sniper (3056)*
+- **Avatar  AV1-OR** *Brawler (3059)*
+- **Avatar  AV1-OD** *Brawler (3060)*
+- **Avatar  AV1-OE** *Brawler (3062)*
+- **Avatar  AV1-OF** *Brawler (3064)*
+- **Avatar  AV1-OH** *Sniper (3069)*
+- **Avatar  AV1-OI** *Missile Boat (3078)*
+- **Avatar  AV1-OJ** *Sniper (3099)*
 - **Avatar  AV1-OBLO** *Undefined (3127)*
 
 ### [Barghest](mechs/barghest.md)
@@ -3144,14 +3144,14 @@
 - **Daikyu DAI-01r** *Sniper (3076)*
 
 ### [Deva](mechs/deva.md)
-- **Deva  C-DVA-O Invictus** *Undefined (3069)*
-- **Deva  C-DVA-OA Dominus** *Undefined (3069)*
-- **Deva  C-DVA-OB Infernus** *Undefined (3069)*
-- **Deva  C-DVA-OC Comminus** *Undefined (3069)*
-- **Deva  C-DVA-OD Luminos** *Undefined (3069)*
-- **Deva  C-DVA-O (Achilleus)** *Undefined (3071)*
-- **Deva  C-DVA-OE Eminus** *Undefined (3072)*
-- **Deva  C-DVA-OS Caelestis** *Undefined (3075)*
+- **Deva  C-DVA-O Invictus** *Sniper (3069)*
+- **Deva  C-DVA-OA Dominus** *Brawler (3069)*
+- **Deva  C-DVA-OB Infernus** *Sniper (3069)*
+- **Deva  C-DVA-OC Comminus** *Skirmisher (3069)*
+- **Deva  C-DVA-OD Luminos** *Skirmisher (3069)*
+- **Deva  C-DVA-O (Achilleus)** *Skirmisher (3071)*
+- **Deva  C-DVA-OE Eminus** *Sniper (3072)*
+- **Deva  C-DVA-OS Caelestis** *Skirmisher (3075)*
 
 ### [Dragoon](mechs/dragoon.md)
 - **Dragoon AEM-01** *Sniper (2771)*
@@ -3170,13 +3170,13 @@
 - **Excalibur EXC-D1** *Skirmisher (3067)*
 
 ### [Flamberge](mechs/flamberge.md)
-- **Flamberge  Prime** *Undefined (3077)*
-- **Flamberge  A** *Undefined (3077)*
-- **Flamberge  B** *Undefined (3077)*
-- **Flamberge  C** *Undefined (3077)*
+- **Flamberge  Prime** *Skirmisher (3077)*
+- **Flamberge  A** *Skirmisher (3077)*
+- **Flamberge  B** *Skirmisher (3077)*
+- **Flamberge  C** *Missile Boat (3077)*
 - **Flamberge 2** *Skirmisher (3087)*
 - **Flamberge 3** *Skirmisher (3087)*
-- **Flamberge  D** *Undefined (3115)*
+- **Flamberge  D** *Juggernaut (3115)*
 
 ### [Gallant](mechs/gallant.md)
 - **Gallant GLT-7-0** *Skirmisher (3078)*
@@ -3268,16 +3268,16 @@
 - **No-Dachi NDA-3S** *Brawler (3081)*
 
 ### [Nova Cat](mechs/nova_cat.md)
-- **Nova Cat  Prime** *Undefined (3059)*
-- **Nova Cat  A** *Undefined (3059)*
-- **Nova Cat  B** *Undefined (3059)*
-- **Nova Cat  C** *Undefined (3059)*
-- **Nova Cat  D** *Undefined (3059)*
-- **Nova Cat  E** *Undefined (3064)*
-- **Nova Cat  F** *Undefined (3070)*
-- **Nova Cat  G** *Undefined (3072)*
-- **Nova Cat  H** *Undefined (3099)*
-- **Nova Cat  I** *Undefined (3132)*
+- **Nova Cat  Prime** *Sniper (3059)*
+- **Nova Cat  A** *Sniper (3059)*
+- **Nova Cat  B** *Missile Boat (3059)*
+- **Nova Cat  C** *Sniper (3059)*
+- **Nova Cat  D** *Brawler (3059)*
+- **Nova Cat  E** *Brawler (3064)*
+- **Nova Cat  F** *Skirmisher (3070)*
+- **Nova Cat  G** *Missile Boat (3072)*
+- **Nova Cat  H** *Skirmisher (3099)*
+- **Nova Cat  I** *Juggernaut (3132)*
 
 ### [Shootist](mechs/shootist.md)
 - **Shootist ST-8A** *Brawler (2621)*
@@ -3294,29 +3294,29 @@
 - **Sun Spider  D** *Undefined (3067)*
 
 ### [Thor (Summoner)](mechs/thor_summoner.md)
-- **Thor (Summoner)  Prime** *Undefined (2872)*
-- **Thor (Summoner)  A** *Undefined (2872)*
-- **Thor (Summoner)  B** *Undefined (2872)*
-- **Thor (Summoner)  C** *Undefined (2872)*
-- **Thor (Summoner)  D** *Undefined (2872)*
-- **Thor (Summoner)  M** *Undefined (3051)*
-- **Thor (Summoner)  E** *Undefined (3054)*
-- **Thor (Summoner)  F** *Undefined (3054)*
-- **Thor (Summoner)  H** *Undefined (3059)*
-- **Thor (Summoner)  G** *Undefined (3068)*
-- **Thor (Summoner)  Q** *Undefined (3069)*
-- **Thor (Summoner)  HH** *Undefined (3070)*
-- **Thor (Summoner)  Z** *Undefined (3072)*
-- **Thor (Summoner)  AA** *Undefined (3086)*
-- **Thor (Summoner)  T** *Undefined (3142)*
-- **Thor (Summoner)  J** *Undefined (3148)*
+- **Thor (Summoner)  Prime** *Sniper (2872)*
+- **Thor (Summoner)  A** *Sniper (2872)*
+- **Thor (Summoner)  B** *Missile Boat (2872)*
+- **Thor (Summoner)  C** *Skirmisher (2872)*
+- **Thor (Summoner)  D** *Sniper (2872)*
+- **Thor (Summoner)  M** *Sniper (3051)*
+- **Thor (Summoner)  E** *Skirmisher (3054)*
+- **Thor (Summoner)  F** *Skirmisher (3054)*
+- **Thor (Summoner)  H** *Skirmisher (3059)*
+- **Thor (Summoner)  G** *Skirmisher (3068)*
+- **Thor (Summoner)  Q** *Skirmisher (3069)*
+- **Thor (Summoner)  HH** *Skirmisher (3070)*
+- **Thor (Summoner)  Z** *Skirmisher (3072)*
+- **Thor (Summoner)  AA** *Sniper (3086)*
+- **Thor (Summoner)  T** *Sniper (3142)*
+- **Thor (Summoner)  J** *Skirmisher (3148)*
 
 ### [Thor II (Grand Summoner)](mechs/thor_ii_grand_summoner.md)
-- **Thor II (Grand Summoner)  (Prime)** *Undefined (3093)*
-- **Thor II (Grand Summoner)  A** *Undefined (3093)*
-- **Thor II (Grand Summoner)  B** *Undefined (3093)*
-- **Thor II (Grand Summoner)  C** *Undefined (3093)*
-- **Thor II (Grand Summoner)  D** *Undefined (3093)*
+- **Thor II (Grand Summoner)  (Prime)** *Skirmisher (3093)*
+- **Thor II (Grand Summoner)  A** *Sniper (3093)*
+- **Thor II (Grand Summoner)  B** *Missile Boat (3093)*
+- **Thor II (Grand Summoner)  C** *Skirmisher (3093)*
+- **Thor II (Grand Summoner)  D** *Sniper (3093)*
 
 ### [Thunder](mechs/thunder.md)
 - **Thunder THR-1L** *Skirmisher (3055)*
@@ -3337,10 +3337,10 @@
 - **Uni ATAE-70T CargoMech (Standard)** *Ambusher (3050)*
 
 ### [War Crow](mechs/war_crow.md)
-- **War Crow  Prime** *Undefined (3145)*
-- **War Crow  A** *Undefined (3145)*
-- **War Crow  B** *Undefined (3145)*
-- **War Crow  C** *Undefined (3145)*
+- **War Crow  Prime** *Brawler (3145)*
+- **War Crow  A** *Skirmisher (3145)*
+- **War Crow  B** *Skirmisher (3145)*
+- **War Crow  C** *Sniper (3145)*
 
 ### [Warhammer](mechs/warhammer.md)
 - **Warhammer WHM-6R** *Brawler (2515)*
@@ -3452,9 +3452,9 @@
 - **Helepolis HEP-4H** *Missile Boat (3074)*
 
 ### [Inferno](mechs/inferno.md)
-- **Inferno  INF-NO** *Undefined (3146)*
-- **Inferno  INF-NOA** *Undefined (3146)*
-- **Inferno  INF-NOB** *Undefined (3146)*
+- **Inferno  INF-NO** *Brawler (3146)*
+- **Inferno  INF-NOA** *Brawler (3146)*
+- **Inferno  INF-NOB** *Brawler (3146)*
 - **Inferno  INF-NOC** *Undefined (3146)*
 - **Inferno  INF-NOR** *Undefined (3146)*
 
@@ -3473,32 +3473,32 @@
 - **Lao Hu LHU-4E** *Sniper (3078)*
 
 ### [Mad Cat (Timber Wolf)](mechs/mad_cat_timber_wolf.md)
-- **Mad Cat (Timber Wolf)  Prime** *Undefined (2945)*
-- **Mad Cat (Timber Wolf)  A** *Undefined (2945)*
-- **Mad Cat (Timber Wolf)  B** *Undefined (2945)*
-- **Mad Cat (Timber Wolf)  C** *Undefined (2945)*
-- **Mad Cat (Timber Wolf)  D** *Undefined (2945)*
-- **Mad Cat (Timber Wolf)  N** *Undefined (3050)*
-- **Mad Cat (Timber Wolf)  S** *Undefined (3050)*
-- **Mad Cat (Timber Wolf)  (Pryde)** *Undefined (3052)*
+- **Mad Cat (Timber Wolf)  Prime** *Brawler (2945)*
+- **Mad Cat (Timber Wolf)  A** *Skirmisher (2945)*
+- **Mad Cat (Timber Wolf)  B** *Sniper (2945)*
+- **Mad Cat (Timber Wolf)  C** *Sniper (2945)*
+- **Mad Cat (Timber Wolf)  D** *Skirmisher (2945)*
+- **Mad Cat (Timber Wolf)  N** *Brawler (3050)*
+- **Mad Cat (Timber Wolf)  S** *Skirmisher (3050)*
+- **Mad Cat (Timber Wolf)  (Pryde)** *Missile Boat (3052)*
 - **Mad Cat (Timber Wolf)  TC** *Undefined (3052)*
-- **Mad Cat (Timber Wolf)  E** *Undefined (3054)*
-- **Mad Cat (Timber Wolf)  H** *Undefined (3059)*
+- **Mad Cat (Timber Wolf)  E** *Sniper (3054)*
+- **Mad Cat (Timber Wolf)  H** *Missile Boat (3059)*
 - **Mad Cat (Timber Wolf) (Bounty Hunter)** *Brawler (3060)*
 - **Mad Cat (Timber Wolf) (Bounty Hunter 2)** *Brawler (3068)*
-- **Mad Cat (Timber Wolf)  F** *Undefined (3069)*
-- **Mad Cat (Timber Wolf)  Z** *Undefined (3072)*
-- **Mad Cat (Timber Wolf)  W** *Undefined (3100)*
+- **Mad Cat (Timber Wolf)  F** *Missile Boat (3069)*
+- **Mad Cat (Timber Wolf)  Z** *Skirmisher (3072)*
+- **Mad Cat (Timber Wolf)  W** *Juggernaut (3100)*
 - **Mad Cat (Timber Wolf)  BLO** *Undefined (3129)*
 - **Mad Cat (Timber Wolf)  T** *Undefined (3142)*
 
 ### [Mad Cat Mk IV (Savage Wolf)](mechs/mad_cat_mk_iv_savage_wolf.md)
 - **Mad Cat Mk IV (Savage Wolf) PR (Standard)** *Skirmisher (3130)*
 - **Mad Cat Mk IV (Savage Wolf) PR 2** *Skirmisher (3131)*
-- **Mad Cat Mk IV (Savage Wolf)  (Prime)** *Undefined (3136)*
-- **Mad Cat Mk IV (Savage Wolf)  A** *Undefined (3136)*
-- **Mad Cat Mk IV (Savage Wolf)  B** *Undefined (3136)*
-- **Mad Cat Mk IV (Savage Wolf)  C** *Undefined (3136)*
+- **Mad Cat Mk IV (Savage Wolf)  (Prime)** *Skirmisher (3136)*
+- **Mad Cat Mk IV (Savage Wolf)  A** *Skirmisher (3136)*
+- **Mad Cat Mk IV (Savage Wolf)  B** *Skirmisher (3136)*
+- **Mad Cat Mk IV (Savage Wolf)  C** *Missile Boat (3136)*
 
 ### [Maelstrom](mechs/maelstrom.md)
 - **Maelstrom MTR-5K** *Skirmisher (3056)*
@@ -3555,14 +3555,14 @@
 - **Mortis MS-1P** *Skirmisher (3122)*
 
 ### [Night Gyr](mechs/night_gyr.md)
-- **Night Gyr  Prime** *Undefined (3052)*
-- **Night Gyr  A** *Undefined (3052)*
-- **Night Gyr  B** *Undefined (3052)*
-- **Night Gyr  C** *Undefined (3052)*
-- **Night Gyr  D** *Undefined (3052)*
-- **Night Gyr  E** *Undefined (3061)*
-- **Night Gyr  H** *Undefined (3062)*
-- **Night Gyr  F** *Undefined (3069)*
+- **Night Gyr  Prime** *Skirmisher (3052)*
+- **Night Gyr  A** *Skirmisher (3052)*
+- **Night Gyr  B** *Sniper (3052)*
+- **Night Gyr  C** *Skirmisher (3052)*
+- **Night Gyr  D** *Missile Boat (3052)*
+- **Night Gyr  E** *Skirmisher (3061)*
+- **Night Gyr  H** *Skirmisher (3062)*
+- **Night Gyr  F** *Skirmisher (3069)*
 
 ### [Onslaught](mechs/onslaught.md)
 - **Onslaught SA-OS** *Skirmisher (3052)*
@@ -3606,13 +3606,13 @@
 - **Penthesilea PEN-3H** *Juggernaut (3129)*
 
 ### [Perseus](mechs/perseus.md)
-- **Perseus  P1** *Undefined (3058)*
-- **Perseus  P1A** *Undefined (3058)*
-- **Perseus  P1B** *Undefined (3058)*
-- **Perseus  P1C** *Undefined (3058)*
-- **Perseus  P1D** *Undefined (3058)*
-- **Perseus  P1W** *Undefined (3068)*
-- **Perseus  P1P** *Undefined (3078)*
+- **Perseus  P1** *Brawler (3058)*
+- **Perseus  P1A** *Missile Boat (3058)*
+- **Perseus  P1B** *Brawler (3058)*
+- **Perseus  P1C** *Brawler (3058)*
+- **Perseus  P1D** *Brawler (3058)*
+- **Perseus  P1W** *Brawler (3068)*
+- **Perseus  P1P** *Brawler (3078)*
 
 ### [Prefect](mechs/prefect.md)
 - **Prefect PRF-1R** *Skirmisher (3085)*
@@ -3694,21 +3694,21 @@
 - **Warlord BLR-2XC** *Brawler (3075)*
 
 ### [Warwolf](mechs/warwolf.md)
-- **Warwolf  (Prime)** *Undefined (3138)*
-- **Warwolf  A** *Undefined (3138)*
-- **Warwolf  B** *Undefined (3138)*
-- **Warwolf  C** *Undefined (3138)*
-- **Warwolf  H** *Undefined (3138)*
+- **Warwolf  (Prime)** *Brawler (3138)*
+- **Warwolf  A** *Brawler (3138)*
+- **Warwolf  B** *Sniper (3138)*
+- **Warwolf  C** *Brawler (3138)*
+- **Warwolf  H** *Skirmisher (3138)*
 
 ### [White Raven](mechs/white_raven.md)
 - **White Raven (Standard)** *Skirmisher (3127)*
 - **White Raven 2** *Skirmisher (3149)*
 
 ### [Woodsman](mechs/woodsman.md)
-- **Woodsman  Prime** *Undefined (2866)*
-- **Woodsman  A** *Undefined (2866)*
-- **Woodsman  B** *Undefined (2866)*
-- **Woodsman  C** *Undefined (3149)*
+- **Woodsman  Prime** *Brawler (2866)*
+- **Woodsman  A** *Sniper (2866)*
+- **Woodsman  B** *Brawler (2866)*
+- **Woodsman  C** *Brawler (3149)*
 
 ## 80 Tons
 
@@ -3754,11 +3754,11 @@
 - **Cudgel CDG-2B** *Juggernaut (3068)*
 
 ### [Doloire](mechs/doloire.md)
-- **Doloire  DLR-O** *Undefined (3121)*
-- **Doloire  DLR-OA** *Undefined (3121)*
-- **Doloire  DLR-OB** *Undefined (3121)*
-- **Doloire  DLR-OC** *Undefined (3121)*
-- **Doloire  DLR-OD** *Undefined (3121)*
+- **Doloire  DLR-O** *Brawler (3121)*
+- **Doloire  DLR-OA** *Juggernaut (3121)*
+- **Doloire  DLR-OB** *Brawler (3121)*
+- **Doloire  DLR-OC** *Juggernaut (3121)*
+- **Doloire  DLR-OD** *Skirmisher (3121)*
 - **Doloire  DLR-OBLO** *Undefined (3140)*
 
 ### [Epimetheus](mechs/epimetheus.md)
@@ -3824,29 +3824,29 @@
 - **Legacy LGC-05** *Juggernaut (3073)*
 
 ### [Man O' War (Gargoyle)](mechs/man_o'_war_gargoyle.md)
-- **Man O' War (Gargoyle)  Prime** *Undefined (2945)*
-- **Man O' War (Gargoyle)  A** *Undefined (2945)*
-- **Man O' War (Gargoyle)  B** *Undefined (2945)*
-- **Man O' War (Gargoyle)  C** *Undefined (2945)*
-- **Man O' War (Gargoyle)  D** *Undefined (2945)*
-- **Man O' War (Gargoyle)  (Conal)** *Undefined (3055)*
-- **Man O' War (Gargoyle)  H** *Undefined (3059)*
-- **Man O' War (Gargoyle)  E** *Undefined (3060)*
-- **Man O' War (Gargoyle)  M** *Undefined (3068)*
-- **Man O' War (Gargoyle)  G** *Undefined (3069)*
-- **Man O' War (Gargoyle)  P** *Undefined (3093)*
-- **Man O' War (Gargoyle)  I** *Undefined (3113)*
+- **Man O' War (Gargoyle)  Prime** *Skirmisher (2945)*
+- **Man O' War (Gargoyle)  A** *Skirmisher (2945)*
+- **Man O' War (Gargoyle)  B** *Sniper (2945)*
+- **Man O' War (Gargoyle)  C** *Skirmisher (2945)*
+- **Man O' War (Gargoyle)  D** *Skirmisher (2945)*
+- **Man O' War (Gargoyle)  (Conal)** *Skirmisher (3055)*
+- **Man O' War (Gargoyle)  H** *Skirmisher (3059)*
+- **Man O' War (Gargoyle)  E** *Skirmisher (3060)*
+- **Man O' War (Gargoyle)  M** *Sniper (3068)*
+- **Man O' War (Gargoyle)  G** *Skirmisher (3069)*
+- **Man O' War (Gargoyle)  P** *Skirmisher (3093)*
+- **Man O' War (Gargoyle)  I** *Sniper (3113)*
 - **Man O' War (Gargoyle)  X** *Undefined (3128)*
-- **Man O' War (Gargoyle)  J** *Undefined (3133)*
-- **Man O' War (Gargoyle)  K** *Undefined (3140)*
-- **Man O' War (Gargoyle)  T** *Undefined (3142)*
+- **Man O' War (Gargoyle)  J** *Skirmisher (3133)*
+- **Man O' War (Gargoyle)  K** *Skirmisher (3140)*
+- **Man O' War (Gargoyle)  T** *Skirmisher (3142)*
 
 ### [Naga](mechs/naga.md)
-- **Naga  Prime** *Undefined (2945)*
-- **Naga  A** *Undefined (2945)*
-- **Naga  B** *Undefined (2945)*
-- **Naga  C** *Undefined (2945)*
-- **Naga  D** *Undefined (2945)*
+- **Naga  Prime** *Missile Boat (2945)*
+- **Naga  A** *Missile Boat (2945)*
+- **Naga  B** *Missile Boat (2945)*
+- **Naga  C** *Missile Boat (2945)*
+- **Naga  D** *Missile Boat (2945)*
 
 ### [Neanderthal](mechs/neanderthal.md)
 - **Neanderthal NTL-UG** *Skirmisher (3124)*
@@ -4009,14 +4009,14 @@
 
 ### [Deimos](mechs/deimos.md)
 - **Deimos 2** *Sniper (3084)*
-- **Deimos  Prime** *Undefined (3085)*
-- **Deimos  A** *Undefined (3085)*
-- **Deimos  B** *Undefined (3085)*
+- **Deimos  Prime** *Sniper (3085)*
+- **Deimos  A** *Brawler (3085)*
+- **Deimos  B** *Sniper (3085)*
 - **Deimos  H** *Undefined (3085)*
-- **Deimos  C** *Undefined (3086)*
-- **Deimos  S** *Undefined (3086)*
-- **Deimos  D** *Undefined (3119)*
-- **Deimos  E** *Undefined (3140)*
+- **Deimos  C** *Sniper (3086)*
+- **Deimos  S** *Sniper (3086)*
+- **Deimos  D** *Sniper (3119)*
+- **Deimos  E** *Brawler (3140)*
 
 ### [Gunslinger](mechs/gunslinger.md)
 - **Gunslinger GUN-1ERD** *Juggernaut (3053)*
@@ -4059,27 +4059,27 @@
 - **Marauder IIC 10** *Skirmisher (3140)*
 
 ### [Masakari (Warhawk)](mechs/masakari_warhawk.md)
-- **Masakari (Warhawk)  Prime** *Undefined (2999)*
-- **Masakari (Warhawk)  A** *Undefined (2999)*
-- **Masakari (Warhawk)  B** *Undefined (2999)*
-- **Masakari (Warhawk)  C** *Undefined (2999)*
-- **Masakari (Warhawk)  D** *Undefined (3054)*
-- **Masakari (Warhawk)  F** *Undefined (3054)*
-- **Masakari (Warhawk)  H** *Undefined (3059)*
-- **Masakari (Warhawk)  E** *Undefined (3069)*
+- **Masakari (Warhawk)  Prime** *Sniper (2999)*
+- **Masakari (Warhawk)  A** *Sniper (2999)*
+- **Masakari (Warhawk)  B** *Brawler (2999)*
+- **Masakari (Warhawk)  C** *Sniper (2999)*
+- **Masakari (Warhawk)  D** *Sniper (3054)*
+- **Masakari (Warhawk)  F** *Sniper (3054)*
+- **Masakari (Warhawk)  H** *Brawler (3059)*
+- **Masakari (Warhawk)  E** *Sniper (3069)*
 
 ### [Omen](mechs/omen.md)
 - **Omen (Standard)** *Juggernaut (3087)*
 
 ### [Osteon](mechs/osteon.md)
-- **Osteon  Prime** *Undefined (3072)*
-- **Osteon  (Jaguar)** *Undefined (3072)*
-- **Osteon  B** *Undefined (3072)*
-- **Osteon  C** *Undefined (3072)*
-- **Osteon  D** *Undefined (3072)*
-- **Osteon  E** *Undefined (3072)*
-- **Osteon  F** *Undefined (3072)*
-- **Osteon  G** *Undefined (3072)*
+- **Osteon  Prime** *Juggernaut (3072)*
+- **Osteon  (Jaguar)** *Juggernaut (3072)*
+- **Osteon  B** *Juggernaut (3072)*
+- **Osteon  C** *Juggernaut (3072)*
+- **Osteon  D** *Juggernaut (3072)*
+- **Osteon  E** *Juggernaut (3072)*
+- **Osteon  F** *Juggernaut (3072)*
+- **Osteon  G** *Missile Boat (3072)*
 
 ### [Rampage](mechs/rampage.md)
 - **Rampage RMP-2G** *Juggernaut (2735)*
@@ -4091,24 +4091,24 @@
 - **Sasquatch SQS-TH-001** *Skirmisher (3054)*
 
 ### [Savage Coyote](mechs/savage_coyote.md)
-- **Savage Coyote  Prime** *Undefined (3059)*
-- **Savage Coyote  A** *Undefined (3059)*
-- **Savage Coyote  B** *Undefined (3059)*
-- **Savage Coyote  C** *Undefined (3064)*
-- **Savage Coyote  Z** *Undefined (3072)*
-- **Savage Coyote  J** *Undefined (3073)*
-- **Savage Coyote  W** *Undefined (3073)*
+- **Savage Coyote  Prime** *Juggernaut (3059)*
+- **Savage Coyote  A** *Juggernaut (3059)*
+- **Savage Coyote  B** *Juggernaut (3059)*
+- **Savage Coyote  C** *Juggernaut (3064)*
+- **Savage Coyote  Z** *Juggernaut (3072)*
+- **Savage Coyote  J** *Brawler (3073)*
+- **Savage Coyote  W** *Sniper (3073)*
 
 ### [Seraph](mechs/seraph.md)
-- **Seraph  C-SRP-O Invictus** *Undefined (3069)*
-- **Seraph  C-SRP-OA Dominus** *Undefined (3069)*
-- **Seraph  C-SRP-OB Infernus** *Undefined (3069)*
-- **Seraph  C-SRP-OC Comminus** *Undefined (3069)*
-- **Seraph  C-SRP-OD Luminos** *Undefined (3069)*
-- **Seraph  C-SRP-O (Havalah)** *Undefined (3071)*
-- **Seraph  C-SRP-OE Eminus** *Undefined (3072)*
+- **Seraph  C-SRP-O Invictus** *Juggernaut (3069)*
+- **Seraph  C-SRP-OA Dominus** *Skirmisher (3069)*
+- **Seraph  C-SRP-OB Infernus** *Juggernaut (3069)*
+- **Seraph  C-SRP-OC Comminus** *Juggernaut (3069)*
+- **Seraph  C-SRP-OD Luminos** *Sniper (3069)*
+- **Seraph  C-SRP-O (Havalah)** *Juggernaut (3071)*
+- **Seraph  C-SRP-OE Eminus** *Missile Boat (3072)*
 - **Seraph C-SRP-OR (Ravana)** *Juggernaut (3074)*
-- **Seraph  C-SRP-OS Caelestis** *Undefined (3075)*
+- **Seraph  C-SRP-OS Caelestis** *Sniper (3075)*
 
 ### [Shogun](mechs/shogun.md)
 - **Shogun SHG-2H** *Missile Boat (2777)*
@@ -4140,26 +4140,26 @@
 - **Tai-sho TSH-8S** *Sniper (3073)*
 
 ### [Templar](mechs/templar.md)
-- **Templar  TLR1-O** *Undefined (3062)*
-- **Templar  TLR1-OA** *Undefined (3062)*
-- **Templar  TLR1-OB** *Undefined (3062)*
-- **Templar  TLR1-OC** *Undefined (3062)*
-- **Templar  TLR1-OD** *Undefined (3063)*
-- **Templar  TLR1-OE** *Undefined (3064)*
-- **Templar  TLR1-O (Grayson)** *Undefined (3065)*
-- **Templar  TLR1-O (Tancred)** *Undefined (3067)*
-- **Templar  TLR1-OF** *Undefined (3068)*
-- **Templar  TLR1-OG** *Undefined (3069)*
-- **Templar  TLR1-OH** *Undefined (3080)*
-- **Templar  TLR1-OI** *Undefined (3080)*
+- **Templar  TLR1-O** *Brawler (3062)*
+- **Templar  TLR1-OA** *Brawler (3062)*
+- **Templar  TLR1-OB** *Sniper (3062)*
+- **Templar  TLR1-OC** *Brawler (3062)*
+- **Templar  TLR1-OD** *Brawler (3063)*
+- **Templar  TLR1-OE** *Missile Boat (3064)*
+- **Templar  TLR1-O (Grayson)** *Brawler (3065)*
+- **Templar  TLR1-O (Tancred)** *Brawler (3067)*
+- **Templar  TLR1-OF** *Brawler (3068)*
+- **Templar  TLR1-OG** *Sniper (3069)*
+- **Templar  TLR1-OH** *Brawler (3080)*
+- **Templar  TLR1-OI** *Brawler (3080)*
 - **Templar  TLR1-OBLO** *Undefined (3100)*
-- **Templar  TLR1-OR** *Undefined (3134)*
+- **Templar  TLR1-OR** *Sniper (3134)*
 
 ### [Templar III](mechs/templar_iii.md)
-- **Templar III  TLR2-O** *Undefined (3100)*
-- **Templar III  TLR2-OA** *Undefined (3100)*
-- **Templar III  TLR2-OC** *Undefined (3120)*
-- **Templar III  TLR2-OD** *Undefined (3120)*
+- **Templar III  TLR2-O** *Brawler (3100)*
+- **Templar III  TLR2-OA** *Brawler (3100)*
+- **Templar III  TLR2-OC** *Brawler (3120)*
+- **Templar III  TLR2-OD** *Brawler (3120)*
 - **Templar III TLR2-J 'Arthur'** *Undefined (3120)*
 
 ### [Thunder Stallion](mechs/thunder_stallion.md)
@@ -4183,14 +4183,14 @@
 - **Banzai BNZ-X** *Skirmisher (3076)*
 
 ### [Blood Asp](mechs/blood_asp.md)
-- **Blood Asp  Prime** *Undefined (3060)*
-- **Blood Asp  A** *Undefined (3060)*
-- **Blood Asp  B** *Undefined (3060)*
-- **Blood Asp  C** *Undefined (3060)*
-- **Blood Asp  D** *Undefined (3060)*
-- **Blood Asp  E** *Undefined (3063)*
-- **Blood Asp  F** *Undefined (3071)*
-- **Blood Asp  G** *Undefined (3074)*
+- **Blood Asp  Prime** *Brawler (3060)*
+- **Blood Asp  A** *Brawler (3060)*
+- **Blood Asp  B** *Missile Boat (3060)*
+- **Blood Asp  C** *Brawler (3060)*
+- **Blood Asp  D** *Brawler (3060)*
+- **Blood Asp  E** *Skirmisher (3063)*
+- **Blood Asp  F** *Brawler (3071)*
+- **Blood Asp  G** *Brawler (3074)*
 
 ### [Cyclops](mechs/cyclops.md)
 - **Cyclops CP-10-Z** *Juggernaut (2710)*
@@ -4250,15 +4250,15 @@
 - **Juliano JLN-5A** *Brawler (3116)*
 
 ### [Kingfisher](mechs/kingfisher.md)
-- **Kingfisher  Prime** *Undefined (2887)*
-- **Kingfisher  A** *Undefined (2887)*
-- **Kingfisher  B** *Undefined (2887)*
-- **Kingfisher  C** *Undefined (2887)*
-- **Kingfisher  D** *Undefined (2887)*
-- **Kingfisher  H** *Undefined (3061)*
-- **Kingfisher  E** *Undefined (3063)*
-- **Kingfisher  F** *Undefined (3069)*
-- **Kingfisher  X** *Undefined (3076)*
+- **Kingfisher  Prime** *Brawler (2887)*
+- **Kingfisher  A** *Brawler (2887)*
+- **Kingfisher  B** *Brawler (2887)*
+- **Kingfisher  C** *Brawler (2887)*
+- **Kingfisher  D** *Sniper (2887)*
+- **Kingfisher  H** *Brawler (3061)*
+- **Kingfisher  E** *Brawler (3063)*
+- **Kingfisher  F** *Brawler (3069)*
+- **Kingfisher  X** *Brawler (3076)*
 
 ### [Mad Cat Mk II](mechs/mad_cat_mk_ii.md)
 - **Mad Cat Mk II (Standard)** *Brawler (3062)*
@@ -4291,17 +4291,17 @@
 - **Rifleman III RF2-A** *Brawler (2776)*
 
 ### [Sunder](mechs/sunder.md)
-- **Sunder  SD1-O** *Undefined (3056)*
-- **Sunder  SD1-OA** *Undefined (3056)*
-- **Sunder  SD1-OB** *Undefined (3056)*
-- **Sunder  SD1-OC** *Undefined (3058)*
-- **Sunder  SD1-OR** *Undefined (3059)*
-- **Sunder  SD1-OD** *Undefined (3063)*
-- **Sunder  SD1-O (Samual)** *Undefined (3066)*
-- **Sunder  SD1-OE** *Undefined (3069)*
-- **Sunder  SD1-OX** *Undefined (3073)*
-- **Sunder  SD1-OF** *Undefined (3134)*
-- **Sunder  SD1-OG** *Undefined (3134)*
+- **Sunder  SD1-O** *Brawler (3056)*
+- **Sunder  SD1-OA** *Sniper (3056)*
+- **Sunder  SD1-OB** *Brawler (3056)*
+- **Sunder  SD1-OC** *Brawler (3058)*
+- **Sunder  SD1-OR** *Brawler (3059)*
+- **Sunder  SD1-OD** *Brawler (3063)*
+- **Sunder  SD1-O (Samual)** *Juggernaut (3066)*
+- **Sunder  SD1-OE** *Brawler (3069)*
+- **Sunder  SD1-OX** *Missile Boat (3073)*
+- **Sunder  SD1-OF** *Missile Boat (3134)*
+- **Sunder  SD1-OG** *Brawler (3134)*
 
 ### [Supernova](mechs/supernova.md)
 - **Supernova (Standard)** *Sniper (2846)*
@@ -4385,31 +4385,31 @@
 - **Cygnus 4** *Juggernaut (3090)*
 
 ### [Gladiator (Executioner)](mechs/gladiator_executioner.md)
-- **Gladiator (Executioner)  Prime** *Undefined (3001)*
-- **Gladiator (Executioner)  A** *Undefined (3001)*
-- **Gladiator (Executioner)  B** *Undefined (3001)*
-- **Gladiator (Executioner)  C** *Undefined (3001)*
-- **Gladiator (Executioner)  D** *Undefined (3001)*
-- **Gladiator (Executioner)  TC** *Undefined (3052)*
-- **Gladiator (Executioner)  H** *Undefined (3059)*
-- **Gladiator (Executioner)  E** *Undefined (3060)*
-- **Gladiator (Executioner)  K** *Undefined (3068)*
-- **Gladiator (Executioner)  P** *Undefined (3069)*
-- **Gladiator (Executioner)  F** *Undefined (3089)*
-- **Gladiator (Executioner)  G** *Undefined (3100)*
-- **Gladiator (Executioner)  I** *Undefined (3101)*
-- **Gladiator (Executioner)  J** *Undefined (3104)*
-- **Gladiator (Executioner)  L** *Undefined (3119)*
+- **Gladiator (Executioner)  Prime** *Sniper (3001)*
+- **Gladiator (Executioner)  A** *Skirmisher (3001)*
+- **Gladiator (Executioner)  B** *Skirmisher (3001)*
+- **Gladiator (Executioner)  C** *Missile Boat (3001)*
+- **Gladiator (Executioner)  D** *Skirmisher (3001)*
+- **Gladiator (Executioner)  TC** *Skirmisher (3052)*
+- **Gladiator (Executioner)  H** *Skirmisher (3059)*
+- **Gladiator (Executioner)  E** *Skirmisher (3060)*
+- **Gladiator (Executioner)  K** *Skirmisher (3068)*
+- **Gladiator (Executioner)  P** *Skirmisher (3069)*
+- **Gladiator (Executioner)  F** *Sniper (3089)*
+- **Gladiator (Executioner)  G** *Skirmisher (3100)*
+- **Gladiator (Executioner)  I** *Skirmisher (3101)*
+- **Gladiator (Executioner)  J** *Juggernaut (3104)*
+- **Gladiator (Executioner)  L** *Sniper (3119)*
 
 ### [Hauptmann](mechs/hauptmann.md)
-- **Hauptmann  HA1-O** *Undefined (3060)*
-- **Hauptmann  HA1-OA** *Undefined (3060)*
-- **Hauptmann  HA1-OB** *Undefined (3060)*
-- **Hauptmann  HA1-OC** *Undefined (3061)*
-- **Hauptmann  HA1-OD** *Undefined (3070)*
-- **Hauptmann  HA1-OE** *Undefined (3073)*
-- **Hauptmann  HA1-OM** *Undefined (3120)*
-- **Hauptmann  HA1-OT** *Undefined (3136)*
+- **Hauptmann  HA1-O** *Juggernaut (3060)*
+- **Hauptmann  HA1-OA** *Juggernaut (3060)*
+- **Hauptmann  HA1-OB** *Juggernaut (3060)*
+- **Hauptmann  HA1-OC** *Missile Boat (3061)*
+- **Hauptmann  HA1-OD** *Sniper (3070)*
+- **Hauptmann  HA1-OE** *Juggernaut (3073)*
+- **Hauptmann  HA1-OM** *Missile Boat (3120)*
+- **Hauptmann  HA1-OT** *Juggernaut (3136)*
 
 ### [Hellstar](mechs/hellstar.md)
 - **Hellstar (Standard)** *Sniper (3079)*
@@ -4456,10 +4456,10 @@
 - **Sirocco SRC-6C** *Skirmisher (3070)*
 
 ### [Tenshi](mechs/tenshi.md)
-- **Tenshi  TN-10-O** *Undefined (3101)*
-- **Tenshi  TN-10-OA** *Undefined (3101)*
-- **Tenshi  TN-10-OB** *Undefined (3101)*
-- **Tenshi  TN-10-OR** *Undefined (3101)*
+- **Tenshi  TN-10-O** *Sniper (3101)*
+- **Tenshi  TN-10-OA** *Juggernaut (3101)*
+- **Tenshi  TN-10-OB** *Juggernaut (3101)*
+- **Tenshi  TN-10-OR** *Missile Boat (3101)*
 
 ### [Trebaruna](mechs/trebaruna.md)
 - **Trebaruna TR-XB** *Sniper (3081)*
@@ -4467,14 +4467,14 @@
 - **Trebaruna TR-XL** *Brawler (3081)*
 
 ### [Turkina](mechs/turkina.md)
-- **Turkina  Prime** *Undefined (3052)*
-- **Turkina  A** *Undefined (3052)*
-- **Turkina  B** *Undefined (3052)*
-- **Turkina  D** *Undefined (3061)*
-- **Turkina  H** *Undefined (3062)*
-- **Turkina  E** *Undefined (3070)*
-- **Turkina  Z** *Undefined (3072)*
-- **Turkina  X** *Undefined (3077)*
+- **Turkina  Prime** *Sniper (3052)*
+- **Turkina  A** *Missile Boat (3052)*
+- **Turkina  B** *Juggernaut (3052)*
+- **Turkina  D** *Juggernaut (3061)*
+- **Turkina  H** *Juggernaut (3062)*
+- **Turkina  E** *Juggernaut (3070)*
+- **Turkina  Z** *Juggernaut (3072)*
+- **Turkina  X** *Missile Boat (3077)*
 
 ## 100 Tons
 
@@ -4491,14 +4491,14 @@
 - **Annihilator ANH-4A** *Sniper (3069)*
 
 ### [Archangel](mechs/archangel.md)
-- **Archangel  C-ANG-O Invictus** *Undefined (3069)*
-- **Archangel  C-ANG-OA Dominus** *Undefined (3069)*
-- **Archangel  C-ANG-OB Infernus** *Undefined (3069)*
-- **Archangel  C-ANG-OC Comminus** *Undefined (3069)*
-- **Archangel  C-ANG-OD Luminos** *Undefined (3069)*
-- **Archangel  C-ANG-O (Berith)** *Undefined (3072)*
-- **Archangel  C-ANG-OE Eminus** *Undefined (3072)*
-- **Archangel  C-ANG-OS Caelestis** *Undefined (3075)*
+- **Archangel  C-ANG-O Invictus** *Sniper (3069)*
+- **Archangel  C-ANG-OA Dominus** *Juggernaut (3069)*
+- **Archangel  C-ANG-OB Infernus** *Sniper (3069)*
+- **Archangel  C-ANG-OC Comminus** *Juggernaut (3069)*
+- **Archangel  C-ANG-OD Luminos** *Juggernaut (3069)*
+- **Archangel  C-ANG-O (Berith)** *Juggernaut (3072)*
+- **Archangel  C-ANG-OE Eminus** *Sniper (3072)*
+- **Archangel  C-ANG-OS Caelestis** *Juggernaut (3075)*
 
 ### [Atlas](mechs/atlas.md)
 - **Atlas AS7-D-HT** *Undefined (2750)*
@@ -4554,19 +4554,19 @@
 - **Crucible 3** *Sniper (3150)*
 
 ### [Daishi (Dire Wolf)](mechs/daishi_dire_wolf.md)
-- **Daishi (Dire Wolf)  Prime** *Undefined (3010)*
-- **Daishi (Dire Wolf)  A** *Undefined (3010)*
-- **Daishi (Dire Wolf)  B** *Undefined (3010)*
-- **Daishi (Dire Wolf)  W** *Undefined (3049)*
-- **Daishi (Dire Wolf)  'Widowmaker'** *Undefined (3050)*
-- **Daishi (Dire Wolf)  S** *Undefined (3050)*
-- **Daishi (Dire Wolf)  'Prometheus'** *Undefined (3051)*
-- **Daishi (Dire Wolf)  (Hohiro)** *Undefined (3051)*
-- **Daishi (Dire Wolf)  C** *Undefined (3054)*
-- **Daishi (Dire Wolf)  H** *Undefined (3059)*
-- **Daishi (Dire Wolf)  X** *Undefined (3060)*
-- **Daishi (Dire Wolf)  D** *Undefined (3069)*
-- **Daishi (Dire Wolf)  E** *Undefined (3103)*
+- **Daishi (Dire Wolf)  Prime** *Juggernaut (3010)*
+- **Daishi (Dire Wolf)  A** *Juggernaut (3010)*
+- **Daishi (Dire Wolf)  B** *Sniper (3010)*
+- **Daishi (Dire Wolf)  W** *Juggernaut (3049)*
+- **Daishi (Dire Wolf)  'Widowmaker'** *Juggernaut (3050)*
+- **Daishi (Dire Wolf)  S** *Juggernaut (3050)*
+- **Daishi (Dire Wolf)  'Prometheus'** *Juggernaut (3051)*
+- **Daishi (Dire Wolf)  (Hohiro)** *Sniper (3051)*
+- **Daishi (Dire Wolf)  C** *Juggernaut (3054)*
+- **Daishi (Dire Wolf)  H** *Juggernaut (3059)*
+- **Daishi (Dire Wolf)  X** *Juggernaut (3060)*
+- **Daishi (Dire Wolf)  D** *Juggernaut (3069)*
+- **Daishi (Dire Wolf)  E** *Juggernaut (3103)*
 
 ### [Devastator](mechs/devastator.md)
 - **Devastator DVS-1D** *Juggernaut (3036)*
@@ -4710,16 +4710,16 @@
 - **Titan II TI-2PA** *Juggernaut (3076)*
 
 ### [Tomahawk](mechs/tomahawk.md)
-- **Tomahawk  (Prime)** *Undefined (3065)*
-- **Tomahawk  A** *Undefined (3065)*
-- **Tomahawk  B** *Undefined (3065)*
+- **Tomahawk  (Prime)** *Juggernaut (3065)*
+- **Tomahawk  A** *Juggernaut (3065)*
+- **Tomahawk  B** *Juggernaut (3065)*
 - **Tomahawk  C** *Undefined (3065)*
 
 ### [Tomahawk II](mechs/tomahawk_ii.md)
-- **Tomahawk II  (Prime)** *Undefined (3088)*
-- **Tomahawk II  A** *Undefined (3088)*
-- **Tomahawk II  B** *Undefined (3088)*
-- **Tomahawk II  C** *Undefined (3088)*
+- **Tomahawk II  (Prime)** *Sniper (3088)*
+- **Tomahawk II  A** *Juggernaut (3088)*
+- **Tomahawk II  B** *Sniper (3088)*
+- **Tomahawk II  C** *Missile Boat (3088)*
 
 ### [Vanquisher](mechs/vanquisher.md)
 - **Vanquisher VQR-2A** *Sniper (3063)*

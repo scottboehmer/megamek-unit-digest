@@ -32,7 +32,7 @@
 - **Battle Value:** 1511
 
 ## Arctic Wolf Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3067)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -46,7 +46,7 @@
 - **Battle Value:** 1641
 
 ## Arctic Wolf A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3067)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 1587
 
 ## Arctic Wolf J
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 4, XL

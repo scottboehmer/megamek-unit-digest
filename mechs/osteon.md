@@ -1,6 +1,6 @@
 # Osteon
 ## Osteon Prime
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 3073
 
 ## Osteon (Jaguar)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 0, XL
@@ -37,7 +37,7 @@
 - **Battle Value:** unknown
 
 ## Osteon B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 0, XL
@@ -54,7 +54,7 @@
 - **Battle Value:** 2625
 
 ## Osteon C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 5, XL
@@ -71,7 +71,7 @@
 - **Battle Value:** 3139
 
 ## Osteon D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 0, XL
@@ -86,7 +86,7 @@
 - **Battle Value:** 2587
 
 ## Osteon E
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 0, XL
@@ -105,7 +105,7 @@
 - **Battle Value:** 2762
 
 ## Osteon F
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 0, XL
@@ -125,7 +125,7 @@
 - **Battle Value:** 2691
 
 ## Osteon G
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5 / 0, XL

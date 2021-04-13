@@ -1,6 +1,6 @@
 # Karhu
 ## Karhu Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** unknown
 
 ## Karhu A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 2560
 
 ## Karhu B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 2787
 
 ## Karhu C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -69,7 +69,7 @@
 - **Battle Value:** unknown
 
 ## Karhu D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3079)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -89,7 +89,7 @@
 - **Battle Value:** 3118
 
 ## Karhu (Syngman)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3085)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -108,7 +108,7 @@
 - **Battle Value:** unknown
 
 ## Karhu G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3099)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL

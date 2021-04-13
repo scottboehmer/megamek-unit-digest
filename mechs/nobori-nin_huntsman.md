@@ -1,6 +1,6 @@
 # Nobori-nin (Huntsman)
 ## Nobori-nin (Huntsman) Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -22,7 +22,7 @@
 - **Battle Value:** 2108
 
 ## Nobori-nin (Huntsman) A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3049)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -38,7 +38,7 @@
 - **Battle Value:** 2034
 
 ## Nobori-nin (Huntsman) B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -55,7 +55,7 @@
 - **Battle Value:** 2156
 
 ## Nobori-nin (Huntsman) C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3049)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -75,7 +75,7 @@
 - **Battle Value:** 2199
 
 ## Nobori-nin (Huntsman) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -92,7 +92,7 @@
 - **Battle Value:** 2007
 
 ## Nobori-nin (Huntsman) H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3063)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -110,7 +110,7 @@
 - **Battle Value:** 2495
 
 ## Nobori-nin (Huntsman) N
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -128,7 +128,7 @@
 - **Battle Value:** 2556
 
 ## Nobori-nin (Huntsman) E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -148,7 +148,7 @@
 - **Battle Value:** 2104
 
 ## Nobori-nin (Huntsman) I
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3088)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -165,7 +165,7 @@
 - **Battle Value:** 2277
 
 ## Nobori-nin (Huntsman) F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3132)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -183,7 +183,7 @@
 - **Battle Value:** 2367
 
 ## Nobori-nin (Huntsman) G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3139)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, XL
@@ -203,7 +203,7 @@
 - **Battle Value:** unknown
 
 ## Nobori-nin (Huntsman) T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL

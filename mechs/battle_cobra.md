@@ -1,6 +1,6 @@
 # Battle Cobra
 ## Battle Cobra Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2873)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -13,7 +13,7 @@
 - **Battle Value:** 1487
 
 ## Battle Cobra A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2873)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -26,7 +26,7 @@
 - **Battle Value:** 1466
 
 ## Battle Cobra B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2873)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -39,7 +39,7 @@
 - **Battle Value:** 1892
 
 ## Battle Cobra F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -54,7 +54,7 @@
 - **Battle Value:** 1507
 
 ## Battle Cobra H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -67,7 +67,7 @@
 - **Battle Value:** 1592
 
 ## Battle Cobra C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -83,7 +83,7 @@
 - **Battle Value:** 1484
 
 ## Battle Cobra BTL-C-2O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -97,7 +97,7 @@
 - **Battle Value:** 944
 
 ## Battle Cobra BTL-C-2OA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -116,7 +116,7 @@
 - **Battle Value:** 1113
 
 ## Battle Cobra BTL-C-2OB
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -130,7 +130,7 @@
 - **Battle Value:** 895
 
 ## Battle Cobra BTL-C-2OC
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -144,7 +144,7 @@
 - **Battle Value:** 726
 
 ## Battle Cobra BTL-C-2OD
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -159,7 +159,7 @@
 - **Battle Value:** 1221
 
 ## Battle Cobra BTL-C-2OE
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -173,7 +173,7 @@
 - **Battle Value:** 840
 
 ## Battle Cobra BTL-C-2OF
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -187,7 +187,7 @@
 - **Battle Value:** 1300
 
 ## Battle Cobra X
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3073)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0

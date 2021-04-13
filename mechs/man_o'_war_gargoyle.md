@@ -1,6 +1,6 @@
 # Man O' War (Gargoyle)
 ## Man O' War (Gargoyle) Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 1537
 
 ## Man O' War (Gargoyle) A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -32,7 +32,7 @@
 - **Battle Value:** 2689
 
 ## Man O' War (Gargoyle) B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -48,7 +48,7 @@
 - **Battle Value:** 1843
 
 ## Man O' War (Gargoyle) C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -65,7 +65,7 @@
 - **Battle Value:** 2437
 
 ## Man O' War (Gargoyle) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -81,7 +81,7 @@
 - **Battle Value:** 2499
 
 ## Man O' War (Gargoyle) (Conal)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3055)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -98,7 +98,7 @@
 - **Battle Value:** 2580
 
 ## Man O' War (Gargoyle) H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -115,7 +115,7 @@
 - **Battle Value:** 2183
 
 ## Man O' War (Gargoyle) E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -133,7 +133,7 @@
 - **Battle Value:** 2257
 
 ## Man O' War (Gargoyle) M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -149,7 +149,7 @@
 - **Battle Value:** 2182
 
 ## Man O' War (Gargoyle) G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -165,7 +165,7 @@
 - **Battle Value:** 2156
 
 ## Man O' War (Gargoyle) P
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3093)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -179,7 +179,7 @@
 - **Battle Value:** 2320
 
 ## Man O' War (Gargoyle) I
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3113)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -212,7 +212,7 @@
 - **Battle Value:** 2800
 
 ## Man O' War (Gargoyle) J
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3133)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 7, XL
@@ -225,7 +225,7 @@
 - **Battle Value:** 2134
 
 ## Man O' War (Gargoyle) K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3140)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -243,7 +243,7 @@
 - **Battle Value:** 2182
 
 ## Man O' War (Gargoyle) T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8 / 0, XL

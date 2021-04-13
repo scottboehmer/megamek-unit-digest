@@ -1,6 +1,6 @@
 # Snow Fox (Omni)
 ## Snow Fox (Omni) Prime
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1464
 
 ## Snow Fox (Omni) A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 831
 
 ## Snow Fox (Omni) B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL

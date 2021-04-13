@@ -1,6 +1,6 @@
 # Gauntlet
 ## Gauntlet GTL-1O
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (13) / 0, Light
@@ -17,7 +17,7 @@
 - **Battle Value:** unknown
 
 ## Gauntlet GTL-1OA
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light
@@ -33,7 +33,7 @@
 - **Battle Value:** 1420
 
 ## Gauntlet GTL-1OB
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 5, Light
@@ -51,7 +51,7 @@
 - **Battle Value:** 2076
 
 ## Gauntlet GTL-1OC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, Light

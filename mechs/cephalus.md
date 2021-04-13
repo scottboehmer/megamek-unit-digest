@@ -1,6 +1,6 @@
 # Cephalus
 ## Cephalus A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 / 7, XXL
@@ -16,7 +16,7 @@
 - **Battle Value:** 809
 
 ## Cephalus B
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
@@ -34,7 +34,7 @@
 - **Battle Value:** 785
 
 ## Cephalus C
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
@@ -51,7 +51,7 @@
 - **Battle Value:** 1209
 
 ## Cephalus D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL
@@ -68,7 +68,7 @@
 - **Battle Value:** 1460
 
 ## Cephalus E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 10 / 15 / 0, XXL

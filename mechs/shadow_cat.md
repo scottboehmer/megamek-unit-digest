@@ -1,6 +1,6 @@
 # Shadow Cat
 ## Shadow Cat Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3003)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2156
 
 ## Shadow Cat A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3003)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2220
 
 ## Shadow Cat B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3003)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 2420
 
 ## Shadow Cat TC
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3050)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -70,7 +70,7 @@
 - **Battle Value:** 1378
 
 ## Shadow Cat M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -85,7 +85,7 @@
 - **Battle Value:** 2438
 
 ## Shadow Cat C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -102,7 +102,7 @@
 - **Battle Value:** 2199
 
 ## Shadow Cat D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -121,7 +121,7 @@
 - **Battle Value:** 2298
 
 ## Shadow Cat H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -138,7 +138,7 @@
 - **Battle Value:** 2155
 
 ## Shadow Cat J
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -155,7 +155,7 @@
 - **Battle Value:** 1802
 
 ## Shadow Cat E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3098)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -170,7 +170,7 @@
 - **Battle Value:** 2081
 
 ## Shadow Cat F
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3131)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -187,7 +187,7 @@
 - **Battle Value:** 2997
 
 ## Shadow Cat I
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3136)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -205,7 +205,7 @@
 - **Battle Value:** 2408
 
 ## Shadow Cat T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL

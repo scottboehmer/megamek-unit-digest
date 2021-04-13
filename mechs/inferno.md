@@ -1,6 +1,6 @@
 # Inferno
 ## Inferno INF-NO
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -17,7 +17,7 @@
 - **Battle Value:** 1597
 
 ## Inferno INF-NOA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -34,7 +34,7 @@
 - **Battle Value:** 1846
 
 ## Inferno INF-NOB
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0

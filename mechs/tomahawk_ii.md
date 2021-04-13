@@ -1,6 +1,6 @@
 # Tomahawk II
 ## Tomahawk II (Prime)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 3210
 
 ## Tomahawk II A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2697
 
 ## Tomahawk II B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 3, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 3513
 
 ## Tomahawk II C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, XL

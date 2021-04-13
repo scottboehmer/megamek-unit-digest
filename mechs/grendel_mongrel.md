@@ -1,6 +1,6 @@
 # Grendel (Mongrel)
 ## Grendel (Mongrel) Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2290
 
 ## Grendel (Mongrel) A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 2031
 
 ## Grendel (Mongrel) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -50,7 +50,7 @@
 - **Battle Value:** 1903
 
 ## Grendel (Mongrel) C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -66,7 +66,7 @@
 - **Battle Value:** 1465
 
 ## Grendel (Mongrel) D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3053)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -84,7 +84,7 @@
 - **Battle Value:** 2212
 
 ## Grendel (Mongrel) E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -100,7 +100,7 @@
 - **Battle Value:** 1806
 
 ## Grendel (Mongrel) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3064)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -117,7 +117,7 @@
 - **Battle Value:** 1965
 
 ## Grendel (Mongrel) F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -132,7 +132,7 @@
 - **Battle Value:** 1997
 
 ## Grendel (Mongrel) M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -147,7 +147,7 @@
 - **Battle Value:** 1744
 
 ## Grendel (Mongrel) G
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3090)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 7, XL
@@ -163,7 +163,7 @@
 - **Battle Value:** 2209
 
 ## Grendel (Mongrel) I
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3140)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -179,7 +179,7 @@
 - **Battle Value:** 1675
 
 ## Grendel (Mongrel) J
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3140)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -195,7 +195,7 @@
 - **Battle Value:** 1811
 
 ## Grendel (Mongrel) T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL

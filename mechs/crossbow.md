@@ -43,7 +43,7 @@
 - **Battle Value:** 1204
 
 ## Crossbow Prime
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2870)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
@@ -57,7 +57,7 @@
 - **Battle Value:** 1829
 
 ## Crossbow A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2870)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
@@ -73,7 +73,7 @@
 - **Battle Value:** 1797
 
 ## Crossbow B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2870)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
@@ -87,7 +87,7 @@
 - **Battle Value:** 1687
 
 ## Crossbow H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
@@ -104,7 +104,7 @@
 - **Battle Value:** 1707
 
 ## Crossbow C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3063)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0
@@ -134,7 +134,7 @@
 - **Battle Value:** 1583
 
 ## Crossbow E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0

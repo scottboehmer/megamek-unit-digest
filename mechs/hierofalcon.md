@@ -1,6 +1,6 @@
 # Hierofalcon
 ## Hierofalcon Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 1878
 
 ## Hierofalcon A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 10, XL
@@ -36,7 +36,7 @@
 - **Battle Value:** 1953
 
 ## Hierofalcon B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 1737
 
 ## Hierofalcon C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, XL
@@ -69,7 +69,7 @@
 - **Battle Value:** 1983
 
 ## Hierofalcon D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL

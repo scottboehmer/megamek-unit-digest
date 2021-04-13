@@ -16,7 +16,7 @@
 - **Battle Value:** unknown
 
 ## Celerity CLR-03-O
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
 - **Movement:** 16 / 24 (32) / 0, XXL
@@ -33,7 +33,7 @@
 - **Battle Value:** unknown
 
 ## Celerity CLR-03-OB
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
 - **Movement:** 16 / 24 (32) / 0, XXL
@@ -49,7 +49,7 @@
 - **Battle Value:** unknown
 
 ## Celerity CLR-03-OC
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
 - **Movement:** 16 / 24 (32) / 0, XXL
@@ -66,7 +66,7 @@
 - **Battle Value:** unknown
 
 ## Celerity CLR-03-OD
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
 - **Movement:** 16 / 24 (32) / 0, XXL
@@ -83,7 +83,7 @@
 - **Battle Value:** unknown
 
 ## Celerity CLR-03-OE
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere Mixed (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
 - **Movement:** 16 / 24 (32) / 0, XXL

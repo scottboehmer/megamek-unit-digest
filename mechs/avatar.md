@@ -1,6 +1,6 @@
 # Avatar
 ## Avatar AV1-O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 1395
 
 ## Avatar AV1-OA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 1481
 
 ## Avatar AV1-OB
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -51,7 +51,7 @@
 - **Battle Value:** 1496
 
 ## Avatar AV1-OC
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -69,7 +69,7 @@
 - **Battle Value:** 1406
 
 ## Avatar AV1-OG
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -84,7 +84,7 @@
 - **Battle Value:** 1775
 
 ## Avatar AV1-OR
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -102,7 +102,7 @@
 - **Battle Value:** 1833
 
 ## Avatar AV1-OD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -120,7 +120,7 @@
 - **Battle Value:** 1475
 
 ## Avatar AV1-OE
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -139,7 +139,7 @@
 - **Battle Value:** 1563
 
 ## Avatar AV1-OF
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 4, XL
@@ -155,7 +155,7 @@
 - **Battle Value:** 1667
 
 ## Avatar AV1-OH
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -171,7 +171,7 @@
 - **Battle Value:** 1598
 
 ## Avatar AV1-OI
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -187,7 +187,7 @@
 - **Battle Value:** unknown
 
 ## Avatar AV1-OJ
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3099)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6 / 0, XL

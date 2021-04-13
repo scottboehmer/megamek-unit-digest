@@ -1,6 +1,6 @@
 # Black Hawk (Nova)
 ## Black Hawk (Nova) Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -12,7 +12,7 @@
 - **Battle Value:** 2663
 
 ## Black Hawk (Nova) A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -28,7 +28,7 @@
 - **Battle Value:** 2422
 
 ## Black Hawk (Nova) B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -45,7 +45,7 @@
 - **Battle Value:** 1543
 
 ## Black Hawk (Nova) C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -61,7 +61,7 @@
 - **Battle Value:** 1515
 
 ## Black Hawk (Nova) D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -76,7 +76,7 @@
 - **Battle Value:** 1450
 
 ## Black Hawk (Nova) S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3050)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -93,7 +93,7 @@
 - **Battle Value:** 2056
 
 ## Black Hawk (Nova) E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -108,7 +108,7 @@
 - **Battle Value:** 2078
 
 ## Black Hawk (Nova) H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -120,7 +120,7 @@
 - **Battle Value:** 1832
 
 ## Black Hawk (Nova) F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -135,7 +135,7 @@
 - **Battle Value:** 1976
 
 ## Black Hawk (Nova) I
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3094)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 / 5, XL

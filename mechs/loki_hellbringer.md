@@ -1,6 +1,6 @@
 # Loki (Hellbringer)
 ## Loki (Hellbringer) Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (2926)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -22,7 +22,7 @@
 - **Battle Value:** 2654
 
 ## Loki (Hellbringer) A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -42,7 +42,7 @@
 - **Battle Value:** 1948
 
 ## Loki (Hellbringer) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -76,7 +76,7 @@
 - **Battle Value:** 2200
 
 ## Loki (Hellbringer) C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -94,7 +94,7 @@
 - **Battle Value:** 2076
 
 ## Loki (Hellbringer) F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -110,7 +110,7 @@
 - **Battle Value:** 1839
 
 ## Loki (Hellbringer) J
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3058)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -129,7 +129,7 @@
 - **Battle Value:** 2415
 
 ## Loki (Hellbringer) H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -149,7 +149,7 @@
 - **Battle Value:** 1952
 
 ## Loki (Hellbringer) D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3069)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -165,7 +165,7 @@
 - **Battle Value:** 2140
 
 ## Loki (Hellbringer) E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -181,7 +181,7 @@
 - **Battle Value:** 2304
 
 ## Loki (Hellbringer) T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8 / 0, XL

@@ -1,6 +1,6 @@
 # Omni-Corvis
 ## Omni-Corvis Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -16,7 +16,7 @@
 - **Battle Value:** 1678
 
 ## Omni-Corvis A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -32,7 +32,7 @@
 - **Battle Value:** 1977
 
 ## Omni-Corvis B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan Mixed (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0

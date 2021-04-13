@@ -1,6 +1,6 @@
 # Gun
 ## Gun GN-2O
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -15,7 +15,7 @@
 - **Battle Value:** 775
 
 ## Gun GN-2OA
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -29,7 +29,7 @@
 - **Battle Value:** 685
 
 ## Gun GN-2OB
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0

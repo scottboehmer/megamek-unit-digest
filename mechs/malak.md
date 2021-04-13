@@ -1,6 +1,6 @@
 # Malak
 ## Malak C-MK-O Invictus
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -21,7 +21,7 @@
 - **Battle Value:** unknown
 
 ## Malak C-MK-OA Dominus
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -42,7 +42,7 @@
 - **Battle Value:** 789
 
 ## Malak C-MK-OB Infernus
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -60,7 +60,7 @@
 - **Battle Value:** 1047
 
 ## Malak C-MK-OC Comminus
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -82,7 +82,7 @@
 - **Battle Value:** 944
 
 ## Malak C-MK-OD Luminos
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -100,7 +100,7 @@
 - **Battle Value:** 1055
 
 ## Malak C-MK-O (Mi)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, Light
@@ -118,7 +118,7 @@
 - **Battle Value:** 758
 
 ## Malak C-MK-OE Eminus
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light
@@ -137,7 +137,7 @@
 - **Battle Value:** unknown
 
 ## Malak C-MK-OS Caelestis
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, Light

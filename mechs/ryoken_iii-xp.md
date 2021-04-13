@@ -1,6 +1,6 @@
 # Ryoken III-XP
 ## Ryoken III-XP Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 3063
 
 ## Ryoken III-XP A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 3915
 
 ## Ryoken III-XP B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (14) / 0, XL
@@ -54,7 +54,7 @@
 - **Battle Value:** 3667
 
 ## Ryoken III-XP C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL
@@ -72,7 +72,7 @@
 - **Battle Value:** 4428
 
 ## Ryoken III-XP D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 (7) / 9 (11) / 0, XL

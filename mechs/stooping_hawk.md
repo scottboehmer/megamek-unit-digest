@@ -1,6 +1,6 @@
 # Stooping Hawk
 ## Stooping Hawk Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -16,7 +16,7 @@
 - **Battle Value:** 2147
 
 ## Stooping Hawk A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -28,7 +28,7 @@
 - **Battle Value:** 2319
 
 ## Stooping Hawk B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -43,7 +43,7 @@
 - **Battle Value:** 2111
 
 ## Stooping Hawk C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2970)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -58,7 +58,7 @@
 - **Battle Value:** 2435
 
 ## Stooping Hawk D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -73,7 +73,7 @@
 - **Battle Value:** 1838
 
 ## Stooping Hawk E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -89,7 +89,7 @@
 - **Battle Value:** 1674
 
 ## Stooping Hawk F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 8
@@ -106,7 +106,7 @@
 - **Battle Value:** 1988
 
 ## Stooping Hawk G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3073)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0

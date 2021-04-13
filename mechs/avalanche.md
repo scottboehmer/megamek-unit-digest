@@ -1,6 +1,6 @@
 # Avalanche
 ## Avalanche AVL-1O
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -15,7 +15,7 @@
 - **Battle Value:** 1540
 
 ## Avalanche AVL-1OA
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -31,7 +31,7 @@
 - **Battle Value:** 1484
 
 ## Avalanche AVL-1OB
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -47,7 +47,7 @@
 - **Battle Value:** unknown
 
 ## Avalanche AVL-1OC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -63,7 +63,7 @@
 - **Battle Value:** 1341
 
 ## Avalanche AVL-1ON
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -79,7 +79,7 @@
 - **Battle Value:** 1873
 
 ## Avalanche AVL-1OR
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5

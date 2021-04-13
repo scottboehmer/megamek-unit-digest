@@ -1,6 +1,6 @@
 # Uller (Kit Fox)
 ## Uller (Kit Fox) Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1085
 
 ## Uller (Kit Fox) A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -32,7 +32,7 @@
 - **Battle Value:** 1310
 
 ## Uller (Kit Fox) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 1087
 
 ## Uller (Kit Fox) D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 850
 
 ## Uller (Kit Fox) C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -101,7 +101,7 @@
 - **Battle Value:** 1147
 
 ## Uller (Kit Fox) S
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -119,7 +119,7 @@
 - **Battle Value:** 1342
 
 ## Uller (Kit Fox) W
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -132,7 +132,7 @@
 - **Battle Value:** 1431
 
 ## Uller (Kit Fox) E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -148,7 +148,7 @@
 - **Battle Value:** 1415
 
 ## Uller (Kit Fox) G
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -165,7 +165,7 @@
 - **Battle Value:** 1368
 
 ## Uller (Kit Fox) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -180,7 +180,7 @@
 - **Battle Value:** 1214
 
 ## Uller (Kit Fox) J
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -196,7 +196,7 @@
 - **Battle Value:** 1134
 
 ## Uller (Kit Fox) F
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -211,7 +211,7 @@
 - **Battle Value:** 1219
 
 ## Uller (Kit Fox) K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3088)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -226,7 +226,7 @@
 - **Battle Value:** 1109
 
 ## Uller (Kit Fox) R
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3121)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -258,7 +258,7 @@
 - **Battle Value:** 988
 
 ## Uller (Kit Fox) T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL

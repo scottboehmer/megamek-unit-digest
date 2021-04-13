@@ -1,6 +1,6 @@
 # Hankyu (Arctic Cheetah)
 ## Hankyu (Arctic Cheetah) Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL
@@ -19,7 +19,7 @@
 - **Battle Value:** 1334
 
 ## Hankyu (Arctic Cheetah) A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 1117
 
 ## Hankyu (Arctic Cheetah) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 1076
 
 ## Hankyu (Arctic Cheetah) C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL
@@ -68,7 +68,7 @@
 - **Battle Value:** 1840
 
 ## Hankyu (Arctic Cheetah) D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL
@@ -83,7 +83,7 @@
 - **Battle Value:** 1080
 
 ## Hankyu (Arctic Cheetah) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL
@@ -98,7 +98,7 @@
 - **Battle Value:** 1264
 
 ## Hankyu (Arctic Cheetah) E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL
@@ -116,7 +116,7 @@
 - **Battle Value:** 1035
 
 ## Hankyu (Arctic Cheetah) F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3093)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 8 / 12 / 6, XL

@@ -1,6 +1,6 @@
 # Tenshi
 ## Tenshi TN-10-O
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 (6) / 0, Light
@@ -19,7 +19,7 @@
 - **Battle Value:** 2542
 
 ## Tenshi TN-10-OA
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, Light
@@ -36,7 +36,7 @@
 - **Battle Value:** 1829
 
 ## Tenshi TN-10-OB
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 3, Light
@@ -52,7 +52,7 @@
 - **Battle Value:** 3002
 
 ## Tenshi TN-10-OR
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3101)
 - **Chassis:** 95 tons (Endo Composite)
 - **Movement:** 3 / 5 / 0, Light

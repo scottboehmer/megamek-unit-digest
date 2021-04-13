@@ -1,6 +1,6 @@
 # Butcherbird (Ion Sparrow)
 ## Butcherbird (Ion Sparrow) Prime
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 885
 
 ## Butcherbird (Ion Sparrow) A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 436
 
 ## Butcherbird (Ion Sparrow) B
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL
@@ -50,7 +50,7 @@
 - **Battle Value:** 626
 
 ## Butcherbird (Ion Sparrow) C
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL
@@ -66,7 +66,7 @@
 - **Battle Value:** 889
 
 ## Butcherbird (Ion Sparrow) D
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 8 / 12 / 10, XL

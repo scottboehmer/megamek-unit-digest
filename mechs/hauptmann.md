@@ -1,6 +1,6 @@
 # Hauptmann
 ## Hauptmann HA1-O
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -19,7 +19,7 @@
 - **Battle Value:** 2157
 
 ## Hauptmann HA1-OA
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3
@@ -35,7 +35,7 @@
 - **Battle Value:** 2311
 
 ## Hauptmann HA1-OB
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -51,7 +51,7 @@
 - **Battle Value:** 2138
 
 ## Hauptmann HA1-OC
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -70,7 +70,7 @@
 - **Battle Value:** 2287
 
 ## Hauptmann HA1-OD
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -89,7 +89,7 @@
 - **Battle Value:** 2359
 
 ## Hauptmann HA1-OE
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -105,7 +105,7 @@
 - **Battle Value:** 2298
 
 ## Hauptmann HA1-OM
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0
@@ -121,7 +121,7 @@
 - **Battle Value:** 2214
 
 ## Hauptmann HA1-OT
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3136)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 0

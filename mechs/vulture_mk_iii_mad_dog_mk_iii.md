@@ -1,6 +1,6 @@
 # Vulture Mk III (Mad Dog Mk III)
 ## Vulture Mk III (Mad Dog Mk III) (Prime)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -15,7 +15,7 @@
 - **Battle Value:** 2729
 
 ## Vulture Mk III (Mad Dog Mk III) A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 1880
 
 ## Vulture Mk III (Mad Dog Mk III) B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
@@ -65,7 +65,7 @@
 - **Battle Value:** 2397
 
 ## Vulture Mk III (Mad Dog Mk III) C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 2299
 
 ## Vulture Mk III (Mad Dog Mk III) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL

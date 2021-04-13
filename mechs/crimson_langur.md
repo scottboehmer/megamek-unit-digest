@@ -1,6 +1,6 @@
 # Crimson Langur
 ## Crimson Langur Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 5, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 1952
 
 ## Crimson Langur A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 2003
 
 ## Crimson Langur B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -47,7 +47,7 @@
 - **Battle Value:** 2210
 
 ## Crimson Langur C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 1437
 
 ## Crimson Langur D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 5, XL
@@ -81,7 +81,7 @@
 - **Battle Value:** 1867
 
 ## Crimson Langur E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL

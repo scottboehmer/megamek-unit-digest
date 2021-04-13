@@ -1,6 +1,6 @@
 # Black Lanner
 ## Black Lanner Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -19,7 +19,7 @@
 - **Battle Value:** 2268
 
 ## Black Lanner A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -37,7 +37,7 @@
 - **Battle Value:** 2308
 
 ## Black Lanner B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 1961
 
 ## Black Lanner C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -68,7 +68,7 @@
 - **Battle Value:** 2523
 
 ## Black Lanner D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -88,7 +88,7 @@
 - **Battle Value:** 1809
 
 ## Black Lanner H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -104,7 +104,7 @@
 - **Battle Value:** 1928
 
 ## Black Lanner E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -120,7 +120,7 @@
 - **Battle Value:** 2331
 
 ## Black Lanner X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL

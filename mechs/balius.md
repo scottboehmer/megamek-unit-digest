@@ -1,6 +1,6 @@
 # Balius
 ## Balius Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -14,7 +14,7 @@
 - **Battle Value:** 2157
 
 ## Balius A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 2201
 
 ## Balius B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -46,7 +46,7 @@
 - **Battle Value:** 2029
 
 ## Balius C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 2103
 
 ## Balius D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -78,7 +78,7 @@
 - **Battle Value:** 2417
 
 ## Balius E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3127)
 - **Chassis:** 65 tons Quad (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL

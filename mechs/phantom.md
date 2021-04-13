@@ -1,6 +1,6 @@
 # Phantom
 ## Phantom Prime
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -19,7 +19,7 @@
 - **Battle Value:** 1159
 
 ## Phantom A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 1410
 
 ## Phantom B
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 1096
 
 ## Phantom C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -68,7 +68,7 @@
 - **Battle Value:** 1590
 
 ## Phantom D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -84,7 +84,7 @@
 - **Battle Value:** 1581
 
 ## Phantom E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL
@@ -99,7 +99,7 @@
 - **Battle Value:** 975
 
 ## Phantom H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 9 / 14 / 0, XL

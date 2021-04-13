@@ -1,6 +1,6 @@
 # Mad Cat (Timber Wolf)
 ## Mad Cat (Timber Wolf) Prime
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 2737
 
 ## Mad Cat (Timber Wolf) A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 2854
 
 ## Mad Cat (Timber Wolf) B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 2224
 
 ## Mad Cat (Timber Wolf) C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -71,7 +71,7 @@
 - **Battle Value:** 2500
 
 ## Mad Cat (Timber Wolf) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -87,7 +87,7 @@
 - **Battle Value:** 2682
 
 ## Mad Cat (Timber Wolf) N
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3050)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -103,7 +103,7 @@
 - **Battle Value:** 2862
 
 ## Mad Cat (Timber Wolf) S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3050)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -121,7 +121,7 @@
 - **Battle Value:** 2462
 
 ## Mad Cat (Timber Wolf) (Pryde)
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 4, XL
@@ -155,7 +155,7 @@
 - **Battle Value:** 2903
 
 ## Mad Cat (Timber Wolf) E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -171,7 +171,7 @@
 - **Battle Value:** 2444
 
 ## Mad Cat (Timber Wolf) H
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -226,7 +226,7 @@
 - **Battle Value:** 2799
 
 ## Mad Cat (Timber Wolf) F
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3069)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -243,7 +243,7 @@
 - **Battle Value:** 2764
 
 ## Mad Cat (Timber Wolf) Z
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -260,7 +260,7 @@
 - **Battle Value:** 2923
 
 ## Mad Cat (Timber Wolf) W
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3100)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL

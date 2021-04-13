@@ -1,6 +1,6 @@
 # Vulture Mk IV (Mad Dog Mk IV)
 ## Vulture Mk IV (Mad Dog Mk IV) Prime
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2110
 
 ## Vulture Mk IV (Mad Dog Mk IV) A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2177
 
 ## Vulture Mk IV (Mad Dog Mk IV) B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -51,7 +51,7 @@
 - **Battle Value:** 2649
 
 ## Vulture Mk IV (Mad Dog Mk IV) C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -68,7 +68,7 @@
 - **Battle Value:** 2584
 
 ## Vulture Mk IV (Mad Dog Mk IV) D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL

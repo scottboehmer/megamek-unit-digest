@@ -1,6 +1,6 @@
 # Vulture (Mad Dog)
 ## Vulture (Mad Dog) Prime
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2351
 
 ## Vulture (Mad Dog) A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -32,7 +32,7 @@
 - **Battle Value:** 1923
 
 ## Vulture (Mad Dog) B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 2284
 
 ## Vulture (Mad Dog) C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 1892
 
 ## Vulture (Mad Dog) DD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3050)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 1970
 
 ## Vulture (Mad Dog) S
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -95,7 +95,7 @@
 - **Battle Value:** 2676
 
 ## Vulture (Mad Dog) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -112,7 +112,7 @@
 - **Battle Value:** 2447
 
 ## Vulture (Mad Dog) H
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -128,7 +128,7 @@
 - **Battle Value:** 2097
 
 ## Vulture (Mad Dog) E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -142,7 +142,7 @@
 - **Battle Value:** 2031
 
 ## Vulture (Mad Dog) F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -157,7 +157,7 @@
 - **Battle Value:** 2300
 
 ## Vulture (Mad Dog) G
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3093)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -206,7 +206,7 @@
 - **Battle Value:** 2555
 
 ## Vulture (Mad Dog) I
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3144)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 0, XL

@@ -1,6 +1,6 @@
 # Vandal
 ## Vandal LI-O
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL
@@ -20,7 +20,7 @@
 - **Battle Value:** 1881
 
 ## Vandal LI-OA
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 4, XL

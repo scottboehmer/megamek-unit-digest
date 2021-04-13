@@ -1,6 +1,6 @@
 # Archangel
 ## Archangel C-ANG-O Invictus
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
@@ -20,7 +20,7 @@
 - **Battle Value:** unknown
 
 ## Archangel C-ANG-OA Dominus
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -38,7 +38,7 @@
 - **Battle Value:** 2134
 
 ## Archangel C-ANG-OB Infernus
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -56,7 +56,7 @@
 - **Battle Value:** 2069
 
 ## Archangel C-ANG-OC Comminus
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -76,7 +76,7 @@
 - **Battle Value:** 2010
 
 ## Archangel C-ANG-OD Luminos
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 3, Compact
@@ -96,7 +96,7 @@
 - **Battle Value:** 2105
 
 ## Archangel C-ANG-O (Berith)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -115,7 +115,7 @@
 - **Battle Value:** 2060
 
 ## Archangel C-ANG-OE Eminus
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact
@@ -135,7 +135,7 @@
 - **Battle Value:** 2097
 
 ## Archangel C-ANG-OS Caelestis
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 3 / 5 / 0, Compact

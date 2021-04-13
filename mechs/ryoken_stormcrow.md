@@ -1,6 +1,6 @@
 # Ryoken (Stormcrow)
 ## Ryoken (Stormcrow) Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -13,7 +13,7 @@
 - **Battle Value:** 2073
 
 ## Ryoken (Stormcrow) A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -29,7 +29,7 @@
 - **Battle Value:** 2319
 
 ## Ryoken (Stormcrow) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -44,7 +44,7 @@
 - **Battle Value:** 2281
 
 ## Ryoken (Stormcrow) C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -60,7 +60,7 @@
 - **Battle Value:** 1881
 
 ## Ryoken (Stormcrow) D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -107,7 +107,7 @@
 - **Battle Value:** 2373
 
 ## Ryoken (Stormcrow) E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -124,7 +124,7 @@
 - **Battle Value:** 2110
 
 ## Ryoken (Stormcrow) (Kotare)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -140,7 +140,7 @@
 - **Battle Value:** 2382
 
 ## Ryoken (Stormcrow) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -153,7 +153,7 @@
 - **Battle Value:** 2061
 
 ## Ryoken (Stormcrow) I
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -170,7 +170,7 @@
 - **Battle Value:** 2319
 
 ## Ryoken (Stormcrow) G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -185,7 +185,7 @@
 - **Battle Value:** 2152
 
 ## Ryoken (Stormcrow) F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3069)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -202,7 +202,7 @@
 - **Battle Value:** 2227
 
 ## Ryoken (Stormcrow) Z
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL

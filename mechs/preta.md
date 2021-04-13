@@ -1,6 +1,6 @@
 # Preta
 ## Preta C-PRT-O Invictus
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -19,7 +19,7 @@
 - **Battle Value:** unknown
 
 ## Preta C-PRT-OA Dominus
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, Light
@@ -35,7 +35,7 @@
 - **Battle Value:** 1302
 
 ## Preta C-PRT-OB Infernus
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -51,7 +51,7 @@
 - **Battle Value:** 1338
 
 ## Preta C-PRT-OC Comminus
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -70,7 +70,7 @@
 - **Battle Value:** 1187
 
 ## Preta C-PRT-OD Luminos
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light
@@ -87,7 +87,7 @@
 - **Battle Value:** 1158
 
 ## Preta C-PRT-O (Kendali)
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 8, Light
@@ -104,7 +104,7 @@
 - **Battle Value:** 999
 
 ## Preta C-PRT-OE Eminus
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, Light
@@ -122,7 +122,7 @@
 - **Battle Value:** unknown
 
 ## Preta C-PRT-OS Caelestis
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, Light

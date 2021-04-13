@@ -1,6 +1,6 @@
 # Tomahawk
 ## Tomahawk (Prime)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -19,7 +19,7 @@
 - **Battle Value:** 3101
 
 ## Tomahawk A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -37,7 +37,7 @@
 - **Battle Value:** 2762
 
 ## Tomahawk B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5 / 0, XL

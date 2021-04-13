@@ -1,6 +1,6 @@
 # Gladiator (Executioner)
 ## Gladiator (Executioner) Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2749
 
 ## Gladiator (Executioner) A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 3112
 
 ## Gladiator (Executioner) B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 2940
 
 ## Gladiator (Executioner) C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -70,7 +70,7 @@
 - **Battle Value:** 2740
 
 ## Gladiator (Executioner) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -89,7 +89,7 @@
 - **Battle Value:** 2698
 
 ## Gladiator (Executioner) TC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -107,7 +107,7 @@
 - **Battle Value:** 3363
 
 ## Gladiator (Executioner) H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -126,7 +126,7 @@
 - **Battle Value:** 3059
 
 ## Gladiator (Executioner) E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -144,7 +144,7 @@
 - **Battle Value:** 2988
 
 ## Gladiator (Executioner) K
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -162,7 +162,7 @@
 - **Battle Value:** 3125
 
 ## Gladiator (Executioner) P
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -180,7 +180,7 @@
 - **Battle Value:** 3052
 
 ## Gladiator (Executioner) F
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3089)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (10) / 4, XL
@@ -197,7 +197,7 @@
 - **Battle Value:** 3606
 
 ## Gladiator (Executioner) G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3100)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -216,7 +216,7 @@
 - **Battle Value:** 3825
 
 ## Gladiator (Executioner) I
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3101)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (10) / 4, XL
@@ -235,7 +235,7 @@
 - **Battle Value:** 3339
 
 ## Gladiator (Executioner) J
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3104)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL
@@ -251,7 +251,7 @@
 - **Battle Value:** 2891
 
 ## Gladiator (Executioner) L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3119)
 - **Chassis:** 95 tons
 - **Movement:** 4 / 6 (8) / 4, XL

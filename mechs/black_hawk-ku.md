@@ -1,6 +1,6 @@
 # Black Hawk-KU
 ## Black Hawk-KU BHKU-O
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -14,7 +14,7 @@
 - **Battle Value:** 1731
 
 ## Black Hawk-KU BHKU-OA
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -28,7 +28,7 @@
 - **Battle Value:** 1770
 
 ## Black Hawk-KU BHKU-OB
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -41,7 +41,7 @@
 - **Battle Value:** 1303
 
 ## Black Hawk-KU BHKU-OC
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -54,7 +54,7 @@
 - **Battle Value:** 1597
 
 ## Black Hawk-KU BHKU-OD
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -67,7 +67,7 @@
 - **Battle Value:** 1539
 
 ## Black Hawk-KU BHKU-OX
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -82,7 +82,7 @@
 - **Battle Value:** 1941
 
 ## Black Hawk-KU BHKU-OR
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -97,7 +97,7 @@
 - **Battle Value:** 2193
 
 ## Black Hawk-KU BHKU-OE
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -109,7 +109,7 @@
 - **Battle Value:** 1982
 
 ## Black Hawk-KU BHKU-OF
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -124,7 +124,7 @@
 - **Battle Value:** 1759
 
 ## Black Hawk-KU BHKU-O (Albert)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3070)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -138,7 +138,7 @@
 - **Battle Value:** 2377
 
 ## Black Hawk-KU BHKU-OU
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -153,7 +153,7 @@
 - **Battle Value:** unknown
 
 ## Black Hawk-KU BHKU-OG
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3089)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8 / 5, XL

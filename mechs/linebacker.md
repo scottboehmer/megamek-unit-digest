@@ -1,6 +1,6 @@
 # Linebacker
 ## Linebacker Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2390
 
 ## Linebacker A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2264
 
 ## Linebacker B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -50,7 +50,7 @@
 - **Battle Value:** 2048
 
 ## Linebacker C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -68,7 +68,7 @@
 - **Battle Value:** 2075
 
 ## Linebacker D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -84,7 +84,7 @@
 - **Battle Value:** 2039
 
 ## Linebacker E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -100,7 +100,7 @@
 - **Battle Value:** 1846
 
 ## Linebacker H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -114,7 +114,7 @@
 - **Battle Value:** 2097
 
 ## Linebacker I
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -131,7 +131,7 @@
 - **Battle Value:** 1727
 
 ## Linebacker T
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL

@@ -1,6 +1,6 @@
 # Puma (Adder)
 ## Puma (Adder) Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -15,7 +15,7 @@
 - **Battle Value:** 2083
 
 ## Puma (Adder) B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -32,7 +32,7 @@
 - **Battle Value:** 1422
 
 ## Puma (Adder) D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 1255
 
 ## Puma (Adder) A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3012)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -65,7 +65,7 @@
 - **Battle Value:** 1437
 
 ## Puma (Adder) C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3012)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -102,7 +102,7 @@
 - **Battle Value:** 1247
 
 ## Puma (Adder) H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -117,7 +117,7 @@
 - **Battle Value:** 1453
 
 ## Puma (Adder) E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3060)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -133,7 +133,7 @@
 - **Battle Value:** 1272
 
 ## Puma (Adder) J
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -149,7 +149,7 @@
 - **Battle Value:** 1222
 
 ## Puma (Adder) I
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3125)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -166,7 +166,7 @@
 - **Battle Value:** 1575
 
 ## Puma (Adder) K
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3125)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -183,7 +183,7 @@
 - **Battle Value:** 1281
 
 ## Puma (Adder) T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3142)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0, XL
@@ -198,7 +198,7 @@
 - **Battle Value:** 1765
 
 ## Puma (Adder) L
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3147)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL

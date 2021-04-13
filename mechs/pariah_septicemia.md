@@ -1,6 +1,6 @@
 # Pariah (Septicemia)
 ## Pariah (Septicemia) Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2511
 
 ## Pariah (Septicemia) A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 1935
 
 ## Pariah (Septicemia) A-Z
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -48,7 +48,7 @@
 - **Battle Value:** 2388
 
 ## Pariah (Septicemia) B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 2310
 
 ## Pariah (Septicemia) B-Z
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 2349
 
 ## Pariah (Septicemia) C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -98,7 +98,7 @@
 - **Battle Value:** 2190
 
 ## Pariah (Septicemia) C-Z
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -117,7 +117,7 @@
 - **Battle Value:** 2236
 
 ## Pariah (Septicemia) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -134,7 +134,7 @@
 - **Battle Value:** 2718
 
 ## Pariah (Septicemia) D-Z
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -151,7 +151,7 @@
 - **Battle Value:** 2704
 
 ## Pariah (Septicemia) E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -168,7 +168,7 @@
 - **Battle Value:** 2950
 
 ## Pariah (Septicemia) F
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -182,7 +182,7 @@
 - **Battle Value:** 1389
 
 ## Pariah (Septicemia) US
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 / 7, XL

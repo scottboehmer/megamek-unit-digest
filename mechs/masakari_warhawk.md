@@ -1,6 +1,6 @@
 # Masakari (Warhawk)
 ## Masakari (Warhawk) Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 3194
 
 ## Masakari (Warhawk) A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -34,7 +34,7 @@
 - **Battle Value:** 2399
 
 ## Masakari (Warhawk) B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 2320
 
 ## Masakari (Warhawk) C
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -69,7 +69,7 @@
 - **Battle Value:** 2998
 
 ## Masakari (Warhawk) D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -87,7 +87,7 @@
 - **Battle Value:** 2474
 
 ## Masakari (Warhawk) F
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -105,7 +105,7 @@
 - **Battle Value:** 2775
 
 ## Masakari (Warhawk) H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -122,7 +122,7 @@
 - **Battle Value:** 2601
 
 ## Masakari (Warhawk) E
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 85 tons
 - **Movement:** 4 / 6 / 0, XL

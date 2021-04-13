@@ -1,6 +1,6 @@
 # Sojourner
 ## Sojourner Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 3
@@ -18,7 +18,7 @@
 - **Battle Value:** 2491
 
 ## Sojourner A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
@@ -37,7 +37,7 @@
 - **Battle Value:** 1911
 
 ## Sojourner B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 4
@@ -55,7 +55,7 @@
 - **Battle Value:** 2397
 
 ## Sojourner C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
@@ -73,7 +73,7 @@
 - **Battle Value:** 2235
 
 ## Sojourner D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0

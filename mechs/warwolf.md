@@ -1,6 +1,6 @@
 # Warwolf
 ## Warwolf (Prime)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3, XL
@@ -19,7 +19,7 @@
 - **Battle Value:** 2706
 
 ## Warwolf A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -38,7 +38,7 @@
 - **Battle Value:** 3100
 
 ## Warwolf B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -54,7 +54,7 @@
 - **Battle Value:** 2518
 
 ## Warwolf C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 3, XL
@@ -71,7 +71,7 @@
 - **Battle Value:** 2776
 
 ## Warwolf H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0, XL

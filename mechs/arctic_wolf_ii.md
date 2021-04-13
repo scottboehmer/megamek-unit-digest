@@ -1,6 +1,6 @@
 # Arctic Wolf II
 ## Arctic Wolf II Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1645
 
 ## Arctic Wolf II A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 2111
 
 ## Arctic Wolf II B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 1678
 
 ## Arctic Wolf II C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL

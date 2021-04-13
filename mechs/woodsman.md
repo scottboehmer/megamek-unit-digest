@@ -1,6 +1,6 @@
 # Woodsman
 ## Woodsman Prime
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2866)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
@@ -19,7 +19,7 @@
 - **Battle Value:** 2623
 
 ## Woodsman A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2866)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
@@ -36,7 +36,7 @@
 - **Battle Value:** 2741
 
 ## Woodsman B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2866)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0
@@ -56,7 +56,7 @@
 - **Battle Value:** 2414
 
 ## Woodsman C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3149)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0

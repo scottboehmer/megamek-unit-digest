@@ -1,6 +1,6 @@
 # Doloire
 ## Doloire DLR-O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2561
 
 ## Doloire DLR-OA
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -35,7 +35,7 @@
 - **Battle Value:** 2218
 
 ## Doloire DLR-OB
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -52,7 +52,7 @@
 - **Battle Value:** 2836
 
 ## Doloire DLR-OC
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6 / 0, XL
@@ -72,7 +72,7 @@
 - **Battle Value:** 2242
 
 ## Doloire DLR-OD
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6 (8) / 0, XL

@@ -1,6 +1,6 @@
 # Dragonfly (Viper)
 ## Dragonfly (Viper) Prime
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1450
 
 ## Dragonfly (Viper) A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -32,7 +32,7 @@
 - **Battle Value:** 1989
 
 ## Dragonfly (Viper) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -46,7 +46,7 @@
 - **Battle Value:** 1830
 
 ## Dragonfly (Viper) C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 1344
 
 ## Dragonfly (Viper) D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 1779
 
 ## Dragonfly (Viper) E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -96,7 +96,7 @@
 - **Battle Value:** 1561
 
 ## Dragonfly (Viper) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -113,7 +113,7 @@
 - **Battle Value:** 1732
 
 ## Dragonfly (Viper) I
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -131,7 +131,7 @@
 - **Battle Value:** 1580
 
 ## Dragonfly (Viper) F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -147,7 +147,7 @@
 - **Battle Value:** 1610
 
 ## Dragonfly (Viper) G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -164,7 +164,7 @@
 - **Battle Value:** 1574
 
 ## Dragonfly (Viper) Z
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL
@@ -182,7 +182,7 @@
 - **Battle Value:** 1692
 
 ## Dragonfly (Viper) U
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12 / 8, XL

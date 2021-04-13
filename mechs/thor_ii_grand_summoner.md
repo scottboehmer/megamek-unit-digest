@@ -1,6 +1,6 @@
 # Thor II (Grand Summoner)
 ## Thor II (Grand Summoner) (Prime)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2554
 
 ## Thor II (Grand Summoner) A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 2473
 
 ## Thor II (Grand Summoner) B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -51,7 +51,7 @@
 - **Battle Value:** 2354
 
 ## Thor II (Grand Summoner) C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -68,7 +68,7 @@
 - **Battle Value:** 2351
 
 ## Thor II (Grand Summoner) D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL

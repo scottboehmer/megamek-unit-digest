@@ -1,6 +1,6 @@
 # Templar
 ## Templar TLR1-O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -19,7 +19,7 @@
 - **Battle Value:** 2045
 
 ## Templar TLR1-OA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -37,7 +37,7 @@
 - **Battle Value:** 2070
 
 ## Templar TLR1-OB
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 1806
 
 ## Templar TLR1-OC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -70,7 +70,7 @@
 - **Battle Value:** 2063
 
 ## Templar TLR1-OD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -84,7 +84,7 @@
 - **Battle Value:** 1840
 
 ## Templar TLR1-OE
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -103,7 +103,7 @@
 - **Battle Value:** 1865
 
 ## Templar TLR1-O (Grayson)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
@@ -120,7 +120,7 @@
 - **Battle Value:** 1868
 
 ## Templar TLR1-O (Tancred)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -137,7 +137,7 @@
 - **Battle Value:** 2273
 
 ## Templar TLR1-OF
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -155,7 +155,7 @@
 - **Battle Value:** 2029
 
 ## Templar TLR1-OG
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -172,7 +172,7 @@
 - **Battle Value:** 1632
 
 ## Templar TLR1-OH
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -189,7 +189,7 @@
 - **Battle Value:** 1958
 
 ## Templar TLR1-OI
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -225,7 +225,7 @@
 - **Battle Value:** 2062
 
 ## Templar TLR1-OR
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL

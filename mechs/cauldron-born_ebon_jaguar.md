@@ -1,6 +1,6 @@
 # Cauldron-Born (Ebon Jaguar)
 ## Cauldron-Born (Ebon Jaguar) Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 1952
 
 ## Cauldron-Born (Ebon Jaguar) A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -37,7 +37,7 @@
 - **Battle Value:** 2429
 
 ## Cauldron-Born (Ebon Jaguar) B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -54,7 +54,7 @@
 - **Battle Value:** 2535
 
 ## Cauldron-Born (Ebon Jaguar) C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -70,7 +70,7 @@
 - **Battle Value:** 1831
 
 ## Cauldron-Born (Ebon Jaguar) (Samantha)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -87,7 +87,7 @@
 - **Battle Value:** 2372
 
 ## Cauldron-Born (Ebon Jaguar) D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -103,7 +103,7 @@
 - **Battle Value:** 2228
 
 ## Cauldron-Born (Ebon Jaguar) H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -121,7 +121,7 @@
 - **Battle Value:** 2359
 
 ## Cauldron-Born (Ebon Jaguar) E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -138,7 +138,7 @@
 - **Battle Value:** 2391
 
 ## Cauldron-Born (Ebon Jaguar) X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL

@@ -1,6 +1,6 @@
 # Strider
 ## Strider SR1-O
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -16,7 +16,7 @@
 - **Battle Value:** 867
 
 ## Strider SR1-OA
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -34,7 +34,7 @@
 - **Battle Value:** 723
 
 ## Strider SR1-OB
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -48,7 +48,7 @@
 - **Battle Value:** 910
 
 ## Strider SR1-OC
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -64,7 +64,7 @@
 - **Battle Value:** 944
 
 ## Strider SR1-OD
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -83,7 +83,7 @@
 - **Battle Value:** 873
 
 ## Strider SR1-OE
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -98,7 +98,7 @@
 - **Battle Value:** 976
 
 ## Strider SR1-OR
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -113,7 +113,7 @@
 - **Battle Value:** 1339
 
 ## Strider SR1-OF
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6
@@ -128,7 +128,7 @@
 - **Battle Value:** 1032
 
 ## Strider SR1-OG
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -143,7 +143,7 @@
 - **Battle Value:** 883
 
 ## Strider SR1-OX
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -158,7 +158,7 @@
 - **Battle Value:** 889
 
 ## Strider SR1-OH
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3099)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0
@@ -172,7 +172,7 @@
 - **Battle Value:** 1192
 
 ## Strider SR1-OM
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 0

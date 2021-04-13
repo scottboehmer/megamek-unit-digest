@@ -1,6 +1,6 @@
 # Hellion
 ## Hellion Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1873
 
 ## Hellion A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 1543
 
 ## Hellion B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 1569
 
 ## Hellion C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -66,7 +66,7 @@
 - **Battle Value:** 2095
 
 ## Hellion D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL
@@ -83,7 +83,7 @@
 - **Battle Value:** 1761
 
 ## Hellion E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 5, XL
@@ -102,7 +102,7 @@
 - **Battle Value:** 1292
 
 ## Hellion F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3077)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11 (14) / 0, XL

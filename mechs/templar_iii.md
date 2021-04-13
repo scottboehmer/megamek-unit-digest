@@ -1,6 +1,6 @@
 # Templar III
 ## Templar III TLR2-O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -19,7 +19,7 @@
 - **Battle Value:** 2028
 
 ## Templar III TLR2-OA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -36,7 +36,7 @@
 - **Battle Value:** 1677
 
 ## Templar III TLR2-OC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3120)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -55,7 +55,7 @@
 - **Battle Value:** 1993
 
 ## Templar III TLR2-OD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light

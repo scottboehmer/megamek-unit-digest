@@ -1,6 +1,6 @@
 # Deva
 ## Deva C-DVA-O Invictus
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -19,7 +19,7 @@
 - **Battle Value:** unknown
 
 ## Deva C-DVA-OA Dominus
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -41,7 +41,7 @@
 - **Battle Value:** 1727
 
 ## Deva C-DVA-OB Infernus
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -60,7 +60,7 @@
 - **Battle Value:** 1713
 
 ## Deva C-DVA-OC Comminus
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -80,7 +80,7 @@
 - **Battle Value:** 1749
 
 ## Deva C-DVA-OD Luminos
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, Light
@@ -99,7 +99,7 @@
 - **Battle Value:** 1711
 
 ## Deva C-DVA-O (Achilleus)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, Light
@@ -118,7 +118,7 @@
 - **Battle Value:** 1595
 
 ## Deva C-DVA-OE Eminus
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, Light
@@ -137,7 +137,7 @@
 - **Battle Value:** unknown
 
 ## Deva C-DVA-OS Caelestis
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 (8) / 0, Light

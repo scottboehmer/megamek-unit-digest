@@ -1,6 +1,6 @@
 # Loki Mk II (Hel)
 ## Loki Mk II (Hel) (Prime)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3121)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2189
 
 ## Loki Mk II (Hel) A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3121)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL

@@ -1,6 +1,6 @@
 # Sunder
 ## Sunder SD1-O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -15,7 +15,7 @@
 - **Battle Value:** 1747
 
 ## Sunder SD1-OA
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -30,7 +30,7 @@
 - **Battle Value:** 2003
 
 ## Sunder SD1-OB
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -47,7 +47,7 @@
 - **Battle Value:** 1597
 
 ## Sunder SD1-OC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -64,7 +64,7 @@
 - **Battle Value:** 1735
 
 ## Sunder SD1-OR
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -79,7 +79,7 @@
 - **Battle Value:** 2462
 
 ## Sunder SD1-OD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 3, XL
@@ -92,7 +92,7 @@
 - **Battle Value:** 1947
 
 ## Sunder SD1-O (Samual)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -109,7 +109,7 @@
 - **Battle Value:** 1593
 
 ## Sunder SD1-OE
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -124,7 +124,7 @@
 - **Battle Value:** 1876
 
 ## Sunder SD1-OX
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -141,7 +141,7 @@
 - **Battle Value:** 1761
 
 ## Sunder SD1-OF
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL
@@ -158,7 +158,7 @@
 - **Battle Value:** unknown
 
 ## Sunder SD1-OG
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 90 tons
 - **Movement:** 4 / 6 / 0, XL

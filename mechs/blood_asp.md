@@ -1,6 +1,6 @@
 # Blood Asp
 ## Blood Asp Prime
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 2654
 
 ## Blood Asp A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 3, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 3452
 
 ## Blood Asp B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -50,7 +50,7 @@
 - **Battle Value:** 2885
 
 ## Blood Asp C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -66,7 +66,7 @@
 - **Battle Value:** 2270
 
 ## Blood Asp D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -83,7 +83,7 @@
 - **Battle Value:** 2396
 
 ## Blood Asp E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3063)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -100,7 +100,7 @@
 - **Battle Value:** 3179
 
 ## Blood Asp F
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3071)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -118,7 +118,7 @@
 - **Battle Value:** 2908
 
 ## Blood Asp G
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3074)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL

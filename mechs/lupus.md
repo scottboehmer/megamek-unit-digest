@@ -1,6 +1,6 @@
 # Lupus
 ## Lupus Prime
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5
@@ -15,7 +15,7 @@
 - **Battle Value:** 2428
 
 ## Lupus A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -30,7 +30,7 @@
 - **Battle Value:** 1927
 
 ## Lupus B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0
@@ -46,7 +46,7 @@
 - **Battle Value:** 1985
 
 ## Lupus C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10) / 0
@@ -63,7 +63,7 @@
 - **Battle Value:** 2533
 
 ## Lupus D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0

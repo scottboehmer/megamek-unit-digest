@@ -1,6 +1,6 @@
 # Shadow Cat III
 ## Shadow Cat III Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3111)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2021
 
 ## Shadow Cat III A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3111)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 8, XL
@@ -30,7 +30,7 @@
 - **Battle Value:** 2005
 
 ## Shadow Cat III B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3111)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 6, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 2183
 
 ## Shadow Cat III C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3111)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (15) / 0, XL

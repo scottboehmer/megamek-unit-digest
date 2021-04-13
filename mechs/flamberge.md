@@ -1,6 +1,6 @@
 # Flamberge
 ## Flamberge Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 6, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2266
 
 ## Flamberge A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 5, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 2575
 
 ## Flamberge B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -51,7 +51,7 @@
 - **Battle Value:** 2750
 
 ## Flamberge C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0, XL
@@ -107,7 +107,7 @@
 - **Battle Value:** 2209
 
 ## Flamberge D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3115)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL

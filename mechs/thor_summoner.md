@@ -1,6 +1,6 @@
 # Thor (Summoner)
 ## Thor (Summoner) Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2298
 
 ## Thor (Summoner) A
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -32,7 +32,7 @@
 - **Battle Value:** 2145
 
 ## Thor (Summoner) B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 2159
 
 ## Thor (Summoner) C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -66,7 +66,7 @@
 - **Battle Value:** 2379
 
 ## Thor (Summoner) D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -84,7 +84,7 @@
 - **Battle Value:** 2643
 
 ## Thor (Summoner) M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -101,7 +101,7 @@
 - **Battle Value:** 2251
 
 ## Thor (Summoner) E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -117,7 +117,7 @@
 - **Battle Value:** 2612
 
 ## Thor (Summoner) F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -133,7 +133,7 @@
 - **Battle Value:** 2186
 
 ## Thor (Summoner) H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -150,7 +150,7 @@
 - **Battle Value:** 2536
 
 ## Thor (Summoner) G
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -167,7 +167,7 @@
 - **Battle Value:** 2452
 
 ## Thor (Summoner) Q
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -185,7 +185,7 @@
 - **Battle Value:** 2479
 
 ## Thor (Summoner) HH
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -203,7 +203,7 @@
 - **Battle Value:** 2490
 
 ## Thor (Summoner) Z
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -220,7 +220,7 @@
 - **Battle Value:** 2783
 
 ## Thor (Summoner) AA
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -236,7 +236,7 @@
 - **Battle Value:** 2216
 
 ## Thor (Summoner) T
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3142)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL
@@ -252,7 +252,7 @@
 - **Battle Value:** 2355
 
 ## Thor (Summoner) J
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3148)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8 / 5, XL

@@ -1,6 +1,6 @@
 # Night Gyr
 ## Night Gyr Prime
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2830
 
 ## Night Gyr A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 2680
 
 ## Night Gyr B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -48,7 +48,7 @@
 - **Battle Value:** 2140
 
 ## Night Gyr C
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -65,7 +65,7 @@
 - **Battle Value:** 2468
 
 ## Night Gyr D
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -81,7 +81,7 @@
 - **Battle Value:** 2889
 
 ## Night Gyr E
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -98,7 +98,7 @@
 - **Battle Value:** 2717
 
 ## Night Gyr H
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -116,7 +116,7 @@
 - **Battle Value:** 2428
 
 ## Night Gyr F
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL

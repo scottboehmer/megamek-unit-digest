@@ -1,6 +1,6 @@
 # Savage Coyote
 ## Savage Coyote Prime
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 2613
 
 ## Savage Coyote A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -36,7 +36,7 @@
 - **Battle Value:** 2852
 
 ## Savage Coyote B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -54,7 +54,7 @@
 - **Battle Value:** 2284
 
 ## Savage Coyote C
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3064)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -72,7 +72,7 @@
 - **Battle Value:** 3189
 
 ## Savage Coyote Z
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 0, XL
@@ -91,7 +91,7 @@
 - **Battle Value:** 3026
 
 ## Savage Coyote J
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3073)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, XL
@@ -108,7 +108,7 @@
 - **Battle Value:** 2554
 
 ## Savage Coyote W
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3073)
 - **Chassis:** 85 tons
 - **Movement:** 3 / 5 / 5, XL

@@ -90,7 +90,7 @@
 - **Battle Value:** 820
 
 ## Firestarter FS9-O
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -105,7 +105,7 @@
 - **Battle Value:** 1144
 
 ## Firestarter FS9-OA
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -119,7 +119,7 @@
 - **Battle Value:** 976
 
 ## Firestarter FS9-OB
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -137,7 +137,7 @@
 - **Battle Value:** 1070
 
 ## Firestarter FS9-OC
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -153,7 +153,7 @@
 - **Battle Value:** 1006
 
 ## Firestarter FS9-OD
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -171,7 +171,7 @@
 - **Battle Value:** 1322
 
 ## Firestarter FS9-OE
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -187,7 +187,7 @@
 - **Battle Value:** 998
 
 ## Firestarter FS9-OR
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -201,7 +201,7 @@
 - **Battle Value:** 1713
 
 ## Firestarter FS9-OX
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -218,7 +218,7 @@
 - **Battle Value:** 1190
 
 ## Firestarter FS9-OF
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -233,7 +233,7 @@
 - **Battle Value:** 1446
 
 ## Firestarter FS9-OG
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -279,7 +279,7 @@
 - **Battle Value:** 775
 
 ## Firestarter FS9-OH
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL
@@ -363,7 +363,7 @@
 - **Battle Value:** 908
 
 ## Firestarter FS9-OU
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 / 6, XL

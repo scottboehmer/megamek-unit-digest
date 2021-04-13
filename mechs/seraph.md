@@ -1,6 +1,6 @@
 # Seraph
 ## Seraph C-SRP-O Invictus
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
@@ -21,7 +21,7 @@
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OA Dominus
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 5, Light
@@ -43,7 +43,7 @@
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OB Infernus
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
@@ -64,7 +64,7 @@
 - **Battle Value:** 2181
 
 ## Seraph C-SRP-OC Comminus
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
@@ -86,7 +86,7 @@
 - **Battle Value:** 2136
 
 ## Seraph C-SRP-OD Luminos
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 5, Light
@@ -106,7 +106,7 @@
 - **Battle Value:** 2291
 
 ## Seraph C-SRP-O (Havalah)
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
@@ -127,7 +127,7 @@
 - **Battle Value:** 1927
 
 ## Seraph C-SRP-OE Eminus
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 0, Light
@@ -165,7 +165,7 @@
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OS Caelestis
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 85 tons
 - **Movement:** 3 (4) / 5 (6) / 3, Light

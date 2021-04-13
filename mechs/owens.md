@@ -1,6 +1,6 @@
 # Owens
 ## Owens OW-1
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -18,7 +18,7 @@
 - **Battle Value:** 839
 
 ## Owens OW-1A
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -36,7 +36,7 @@
 - **Battle Value:** 680
 
 ## Owens OW-1B
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -53,7 +53,7 @@
 - **Battle Value:** 752
 
 ## Owens OW-1C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -70,7 +70,7 @@
 - **Battle Value:** 964
 
 ## Owens OW-1D
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -87,7 +87,7 @@
 - **Battle Value:** 655
 
 ## Owens OW-1R
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -104,7 +104,7 @@
 - **Battle Value:** 1215
 
 ## Owens OW-1E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -122,7 +122,7 @@
 - **Battle Value:** 833
 
 ## Owens OW-1F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 / 0, XL
@@ -142,7 +142,7 @@
 - **Battle Value:** 933
 
 ## Owens OW-1G
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 35 tons
 - **Movement:** 8 / 12 (16) / 0, XL

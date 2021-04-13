@@ -1,6 +1,6 @@
 # Fenris (Ice Ferret)
 ## Fenris (Ice Ferret) Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1678
 
 ## Fenris (Ice Ferret) A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 1323
 
 ## Fenris (Ice Ferret) B
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -50,7 +50,7 @@
 - **Battle Value:** 1461
 
 ## Fenris (Ice Ferret) C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -65,7 +65,7 @@
 - **Battle Value:** 1211
 
 ## Fenris (Ice Ferret) D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 1653
 
 ## Fenris (Ice Ferret) E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3056)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -96,7 +96,7 @@
 - **Battle Value:** 1483
 
 ## Fenris (Ice Ferret) H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -112,7 +112,7 @@
 - **Battle Value:** 1619
 
 ## Fenris (Ice Ferret) L
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -128,7 +128,7 @@
 - **Battle Value:** 1380
 
 ## Fenris (Ice Ferret) F
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -141,7 +141,7 @@
 - **Battle Value:** 1771
 
 ## Fenris (Ice Ferret) G
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3088)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -157,7 +157,7 @@
 - **Battle Value:** 1196
 
 ## Fenris (Ice Ferret) I
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3099)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -173,7 +173,7 @@
 - **Battle Value:** 1094
 
 ## Fenris (Ice Ferret) J
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3120)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL
@@ -189,7 +189,7 @@
 - **Battle Value:** 1739
 
 ## Fenris (Ice Ferret) K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3135)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -204,7 +204,7 @@
 - **Battle Value:** 1769
 
 ## Fenris (Ice Ferret) T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 8 / 12 (16) / 0, XL

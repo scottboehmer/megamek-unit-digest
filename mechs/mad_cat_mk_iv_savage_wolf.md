@@ -33,7 +33,7 @@
 - **Battle Value:** 2666
 
 ## Mad Cat Mk IV (Savage Wolf) (Prime)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
@@ -49,7 +49,7 @@
 - **Battle Value:** 2681
 
 ## Mad Cat Mk IV (Savage Wolf) A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
@@ -66,7 +66,7 @@
 - **Battle Value:** 2413
 
 ## Mad Cat Mk IV (Savage Wolf) B
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL
@@ -84,7 +84,7 @@
 - **Battle Value:** 2606
 
 ## Mad Cat Mk IV (Savage Wolf) C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XXL

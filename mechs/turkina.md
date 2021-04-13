@@ -1,6 +1,6 @@
 # Turkina
 ## Turkina Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2944
 
 ## Turkina A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 2906
 
 ## Turkina B
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -48,7 +48,7 @@
 - **Battle Value:** 3420
 
 ## Turkina D
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3061)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 3132
 
 ## Turkina H
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3062)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 2712
 
 ## Turkina E
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3070)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -95,7 +95,7 @@
 - **Battle Value:** 3147
 
 ## Turkina Z
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL
@@ -111,7 +111,7 @@
 - **Battle Value:** 3935
 
 ## Turkina X
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 95 tons
 - **Movement:** 3 / 5 / 3, XL

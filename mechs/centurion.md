@@ -285,7 +285,7 @@
 - **Battle Value:** 1815
 
 ## Centurion CN11-O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -302,7 +302,7 @@
 - **Battle Value:** 1236
 
 ## Centurion CN11-OA
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -319,7 +319,7 @@
 - **Battle Value:** 1375
 
 ## Centurion CN11-OB
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL
@@ -337,7 +337,7 @@
 - **Battle Value:** 1412
 
 ## Centurion CN11-OC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 5, XL
@@ -356,7 +356,7 @@
 - **Battle Value:** 1628
 
 ## Centurion CN11-OD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -376,7 +376,7 @@
 - **Battle Value:** 1153
 
 ## Centurion CN11-OE
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8 / 0, XL

@@ -1,6 +1,6 @@
 # Sun Bear
 ## Sun Bear Prime
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 2022
 
 ## Sun Bear A
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL
@@ -28,7 +28,7 @@
 - **Battle Value:** 2418
 
 ## Sun Bear B
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8 / 0, XL

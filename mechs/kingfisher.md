@@ -1,6 +1,6 @@
 # Kingfisher
 ## Kingfisher Prime
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -18,7 +18,7 @@
 - **Battle Value:** 2401
 
 ## Kingfisher A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -37,7 +37,7 @@
 - **Battle Value:** 2261
 
 ## Kingfisher B
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -55,7 +55,7 @@
 - **Battle Value:** 2472
 
 ## Kingfisher C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -68,7 +68,7 @@
 - **Battle Value:** 2644
 
 ## Kingfisher D
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -83,7 +83,7 @@
 - **Battle Value:** 2364
 
 ## Kingfisher H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3061)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -98,7 +98,7 @@
 - **Battle Value:** 2525
 
 ## Kingfisher E
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3063)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -114,7 +114,7 @@
 - **Battle Value:** 2443
 
 ## Kingfisher F
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3069)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0
@@ -131,7 +131,7 @@
 - **Battle Value:** 2568
 
 ## Kingfisher X
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6 / 0

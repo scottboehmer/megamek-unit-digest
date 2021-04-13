@@ -1,6 +1,6 @@
 # Raptor
 ## Raptor RTX1-O
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -15,7 +15,7 @@
 - **Battle Value:** 721
 
 ## Raptor RTX1-OA
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -28,7 +28,7 @@
 - **Battle Value:** 783
 
 ## Raptor RTX1-OB
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -41,7 +41,7 @@
 - **Battle Value:** 613
 
 ## Raptor RTX1-OC
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -56,7 +56,7 @@
 - **Battle Value:** 870
 
 ## Raptor RTX1-OD
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -74,7 +74,7 @@
 - **Battle Value:** 490
 
 ## Raptor RTX1-OE
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -87,7 +87,7 @@
 - **Battle Value:** 597
 
 ## Raptor RTX1-OR
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL
@@ -103,7 +103,7 @@
 - **Battle Value:** 1393
 
 ## Raptor RTX1-OF
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 7, XL
@@ -115,7 +115,7 @@
 - **Battle Value:** 1029
 
 ## Raptor RTX1-OG
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 / 0, XL

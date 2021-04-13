@@ -1,6 +1,6 @@
 # Men Shen
 ## Men Shen MS1-O
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -16,7 +16,7 @@
 - **Battle Value:** 1550
 
 ## Men Shen MS1-OA
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 1529
 
 ## Men Shen MS1-OB
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -49,7 +49,7 @@
 - **Battle Value:** 1484
 
 ## Men Shen MS1-OC
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -66,7 +66,7 @@
 - **Battle Value:** 1435
 
 ## Men Shen MS1-OD
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -83,7 +83,7 @@
 - **Battle Value:** 1581
 
 ## Men Shen (Li)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -99,7 +99,7 @@
 - **Battle Value:** 1550
 
 ## Men Shen MS1-OE
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -117,7 +117,7 @@
 - **Battle Value:** 1574
 
 ## Men Shen MS1-OF
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL
@@ -134,7 +134,7 @@
 - **Battle Value:** 1648
 
 ## Men Shen MS1-OG
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12) / 0, XL

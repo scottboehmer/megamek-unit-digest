@@ -1,6 +1,6 @@
 # Fire Falcon
 ## Fire Falcon Prime
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -17,7 +17,7 @@
 - **Battle Value:** 1451
 
 ## Fire Falcon A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -33,7 +33,7 @@
 - **Battle Value:** 822
 
 ## Fire Falcon B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -47,7 +47,7 @@
 - **Battle Value:** 1570
 
 ## Fire Falcon C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -66,7 +66,7 @@
 - **Battle Value:** 1004
 
 ## Fire Falcon D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -83,7 +83,7 @@
 - **Battle Value:** 826
 
 ## Fire Falcon E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -97,7 +97,7 @@
 - **Battle Value:** 1094
 
 ## Fire Falcon H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL
@@ -111,7 +111,7 @@
 - **Battle Value:** 1162
 
 ## Fire Falcon F
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12 / 0, XL

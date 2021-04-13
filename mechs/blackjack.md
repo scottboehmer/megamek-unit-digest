@@ -79,7 +79,7 @@
 - **Battle Value:** 1148
 
 ## Blackjack BJ2-O
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -93,7 +93,7 @@
 - **Battle Value:** 1201
 
 ## Blackjack BJ2-OA
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -107,7 +107,7 @@
 - **Battle Value:** 1318
 
 ## Blackjack BJ2-OB
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -123,7 +123,7 @@
 - **Battle Value:** 1323
 
 ## Blackjack BJ2-OC
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -137,7 +137,7 @@
 - **Battle Value:** 1189
 
 ## Blackjack BJ2-OD
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -153,7 +153,7 @@
 - **Battle Value:** 1375
 
 ## Blackjack BJ2-OE
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -168,7 +168,7 @@
 - **Battle Value:** 1260
 
 ## Blackjack BJ2-OR
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -183,7 +183,7 @@
 - **Battle Value:** 2010
 
 ## Blackjack BJ2-OF
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -214,7 +214,7 @@
 - **Battle Value:** 1063
 
 ## Blackjack BJ2-OX
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL
@@ -253,7 +253,7 @@
 - **Battle Value:** 1136
 
 ## Blackjack BJ2-OG
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 4 / 6 / 4, XL

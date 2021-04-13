@@ -1,6 +1,6 @@
 # Pouncer
 ## Pouncer Prime
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -15,7 +15,7 @@
 - **Battle Value:** 2557
 
 ## Pouncer A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -31,7 +31,7 @@
 - **Battle Value:** 2081
 
 ## Pouncer B
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -47,7 +47,7 @@
 - **Battle Value:** 1836
 
 ## Pouncer C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -63,7 +63,7 @@
 - **Battle Value:** 1653
 
 ## Pouncer D
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -80,7 +80,7 @@
 - **Battle Value:** 2246
 
 ## Pouncer E
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
@@ -96,7 +96,7 @@
 - **Battle Value:** 1632
 
 ## Pouncer H
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9 / 5, XL
