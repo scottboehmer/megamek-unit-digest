@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3106)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -45,4 +45,19 @@
   - MASC
 - **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 791
+
+## Storm Raider STM-R4
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3108)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+- **Armor:** 119 (Impact-Resistant)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - RAC/2 (ammo: 45)
+  - Mace
+- **Equipment:**
+  - CASE II
+- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Battle Value:** 732
 

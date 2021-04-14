@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 200
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -23,7 +23,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 4, XL
+- **Movement:** 5 / 8 (10), XL
+  - **Jumping:** 4
 - **Armor:** 200
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 11 (22)

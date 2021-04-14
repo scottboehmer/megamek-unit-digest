@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 224
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

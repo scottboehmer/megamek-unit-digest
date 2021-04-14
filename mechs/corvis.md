@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2845)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3075)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3090)
 - **Chassis:** 75 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3096)
 - **Chassis:** 75 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3140)
 - **Chassis:** 75 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216 (Stealth)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -49,7 +49,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3140)
 - **Chassis:** 75 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216 (Stealth)
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)

@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 62 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -16,7 +17,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -29,7 +31,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -44,7 +47,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 6
 - **Armor:** 67 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2832)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2868)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

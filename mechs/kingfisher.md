@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -21,7 +21,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -40,7 +40,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -58,7 +58,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
@@ -71,7 +71,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2887)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -86,7 +86,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3061)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 26 (52)
 - **Weapons:**
@@ -101,7 +101,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3063)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -117,7 +117,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3069)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -134,7 +134,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

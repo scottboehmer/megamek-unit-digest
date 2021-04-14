@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2660)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -38,7 +40,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -55,7 +58,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 136
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -70,7 +74,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -87,7 +92,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

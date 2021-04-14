@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3, Compact
+- **Movement:** 3 / 5, Compact
+  - **Jumping:** 3
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -23,7 +24,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -41,7 +42,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -59,7 +60,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -79,7 +80,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3, Compact
+- **Movement:** 3 / 5, Compact
+  - **Jumping:** 3
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -99,7 +101,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -118,7 +120,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -138,7 +140,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small

@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 12 (24)
@@ -40,7 +40,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 18 (36)
@@ -57,7 +57,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 5, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 5
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 11 (22)
@@ -74,7 +75,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 21 (42)
@@ -89,7 +90,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 11 (22)
@@ -108,7 +109,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -128,7 +129,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons (Reinforced)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 252 (Ferro Lamellor)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -141,4 +142,22 @@
   - CASE
 - **Source:** WoR - Jihad
 - **Battle Value:** 2251
+
+## Osteon U
+- **Role:** Juggernaut
+- **Tech Base:** Clan (3072)
+- **Chassis:** 85 tons (Reinforced)
+- **Movement:** 3 / 5, XL
+  - **Underwater:** 2
+- **Armor:** 252 (Ferro Lamellor)
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRT 15 w/ Artemis V × 4 (ammo: 72)
+- **Equipment:**
+  - HarJel × 4
+  - Nova CEWS
+  - CASE
+- **Source:** WoR - Jihad
+- **Battle Value:** 2647
 

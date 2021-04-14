@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3042)
 - **Chassis:** 40 tons (Industrial)
-- **Movement:** 4 / 6 / 0, Fuel Cell
+- **Movement:** 4 / 6, Fuel Cell
 - **Armor:** 104
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3043)
 - **Chassis:** 40 tons (Industrial)
-- **Movement:** 4 / 6 / 0, Fuel Cell
+- **Movement:** 4 / 6, Fuel Cell
 - **Armor:** 96
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3045)
 - **Chassis:** 40 tons (Industrial)
-- **Movement:** 4 / 6 / 0, Fuel Cell
+- **Movement:** 4 / 6, Fuel Cell
 - **Armor:** 104
 - **Heat Sinks:** 1 (1)
 - **Weapons:**

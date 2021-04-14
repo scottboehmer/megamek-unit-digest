@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 192
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
@@ -21,7 +21,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 208
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
@@ -40,7 +40,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 216
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
@@ -59,7 +59,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 216
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
@@ -80,7 +80,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 217 (Ferro Fibrous)
 - **Cockpit:** Armored
 - **Heat Sinks:** 15 (30)
@@ -99,7 +99,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 216
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)

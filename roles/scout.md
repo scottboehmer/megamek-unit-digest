@@ -77,6 +77,7 @@
 - [Phantom](../mechs/phantom.md)
 - [Phoenix Hawk L](../mechs/phoenix_hawk_l.md)
 - [Pompier Firemech](../mechs/pompier_firemech.md)
+- [Pouncer](../mechs/pouncer.md)
 - [Preta](../mechs/preta.md)
 ## Q
 - [Quasit MilitiaMech](../mechs/quasit_militiamech.md)
@@ -95,6 +96,7 @@
 - [Snow Fox (Omni)](../mechs/snow_fox_omni.md)
 - [Sokuryou](../mechs/sokuryou.md)
 - [Spider](../mechs/spider.md)
+- [Spindrift Aquatic SecurityMech](../mechs/spindrift_aquatic_securitymech.md)
 - [Stealth](../mechs/stealth.md)
 - [Stinger](../mechs/stinger.md)
 - [Storm Raider](../mechs/storm_raider.md)

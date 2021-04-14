@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -21,7 +21,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
@@ -36,7 +36,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 6, XXL
+- **Movement:** 10 / 15 (20), XXL
+  - **Jumping:** 6
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
@@ -53,7 +54,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 10, XXL
+- **Movement:** 10 / 15, XXL
+  - **Jumping:** 10
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
@@ -69,7 +71,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -86,7 +88,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XXL
+- **Movement:** 10 / 15 (20), XXL
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
@@ -106,7 +108,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)

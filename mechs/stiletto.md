@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, Light
+- **Movement:** 8 / 12, Light
 - **Armor:** 107 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, Light
+- **Movement:** 8 / 12, Light
 - **Armor:** 98 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, Light
+- **Movement:** 8 / 12, Light
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -45,4 +45,35 @@
   - CASE
 - **Source:** 3067 Unabridged
 - **Battle Value:** 941
+
+## Stiletto STO-6X
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3078)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 7 / 11 (14)
+- **Armor:** 114 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 4
+- **Equipment:**
+  - Shoulder Turret × 2
+  - Bloodhound Active Probe
+  - Supercharger
+- **Source:** XTRO Steiner - Jihad
+- **Battle Value:** 1192
+
+## Stiletto STO-6S
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3083)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 7 / 11
+- **Armor:** 116 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 4
+- **Equipment:**
+  - Shoulder Turret × 2
+  - Bloodhound Active Probe
+  - Guardian ECM Suite
+- **Battle Value:** 1171
 

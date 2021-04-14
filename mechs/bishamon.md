@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons Quad (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -17,7 +17,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons Quad (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 45 tons Quad (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

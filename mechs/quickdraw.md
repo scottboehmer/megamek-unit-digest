@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2779)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 128
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -17,7 +18,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2847)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 128
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -31,7 +33,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3002)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 128
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -44,7 +47,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -57,7 +61,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -73,7 +78,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -88,7 +94,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -101,7 +108,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -116,7 +124,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -130,11 +139,32 @@
 - **Source:** Jihad
 - **Battle Value:** 1465
 
+## Quickdraw QKD-8X
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 (6) / 8 (9)
+- **Armor:** 192 (Stealth)
+- **Gyroscope:** Compact Gyro
+- **Myomer:** Triple-Strength
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - Medium Laser × 2
+  - PPC
+- **Equipment:**
+  - Lift Hoist
+  - Guardian ECM Suite
+  - Head Turret
+  - TAG
+- **Source:** Jihad
+- **Battle Value:** unknown
+
 ## Quickdraw QKD-8P
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9) / 0
+- **Movement:** 5 (6) / 8 (9)
 - **Armor:** 192
 - **Gyroscope:** Compact Gyro
 - **Myomer:** Triple-Strength
@@ -153,7 +183,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 178 (Light Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

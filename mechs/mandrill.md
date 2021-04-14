@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2829)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 96 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

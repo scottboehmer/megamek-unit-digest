@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, Light
+- **Movement:** 6 / 9, Light
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
@@ -22,7 +22,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 8, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 8
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
@@ -38,7 +39,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 6
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
@@ -54,7 +56,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, Light
+- **Movement:** 6 / 9, Light
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -73,7 +75,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 6
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -90,7 +93,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 8, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 8
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -107,7 +111,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, Light
+- **Movement:** 6 / 9, Light
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -125,7 +129,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 6
 - **Armor:** 144
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
@@ -135,4 +140,23 @@
 - **Equipment:**
   - C3i
 - **Battle Value:** 1566
+
+## Preta C-PRT-OU Exanimus
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 6 / 9, Light
+  - **Underwater:** 6
+- **Armor:** 144
+- **Cockpit:** Small
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Retractable Blade
+  - Snub-Nose PPC
+  - ER Small Laser
+- **Equipment:**
+  - C3i
+  - Laser Anti-Missile System
+- **Source:** Jihad
+- **Battle Value:** unknown
 

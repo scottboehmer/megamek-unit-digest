@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 71 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -15,7 +15,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 107 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

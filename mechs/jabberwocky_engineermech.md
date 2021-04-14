@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2549)
 - **Chassis:** 50 tons (Industrial)
-- **Movement:** 3 / 5 / 0, Fuel Cell
+- **Movement:** 3 / 5, Fuel Cell
 - **Armor:** 32 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 8 (8)
@@ -21,7 +21,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 50 tons (Industrial)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 56
 - **Myomer:** Industrial Triple-Strength
 - **Cockpit:** Industrial

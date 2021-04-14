@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3131)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XXL
+- **Movement:** 10 / 15 (20), XXL
 - **Armor:** 88 (Laser Reflective)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -18,7 +18,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3131)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 88 (Laser Reflective)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 / 10, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 10
 - **Armor:** 57 (Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)
@@ -19,7 +20,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 / 10, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 10
 - **Armor:** 57 (Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)
@@ -37,7 +39,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 / 10, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 10
 - **Armor:** 57 (Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)
@@ -53,7 +56,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 / 10, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 10
 - **Armor:** 57 (Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)
@@ -69,7 +73,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 / 10, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 10
 - **Armor:** 57 (Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)

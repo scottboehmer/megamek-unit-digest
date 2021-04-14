@@ -3,7 +3,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2712)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 64
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -21,7 +21,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2715)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 64
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -41,7 +41,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2719)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 64
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -58,7 +59,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 64
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -74,7 +75,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 64
 - **Cockpit:** Industrial
 - **Heat Sinks:** 12 (12)

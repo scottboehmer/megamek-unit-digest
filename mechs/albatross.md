@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 208
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -22,7 +22,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 293 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -41,7 +41,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 95 tons
-- **Movement:** 4 (5) / 6 (8) / 0, Light
+- **Movement:** 4 (5) / 6 (8), Light
 - **Armor:** 293 (Heavy Ferro Fibrous)
 - **Gyroscope:** Heavy-Duty Gyro
 - **Myomer:** Triple-Strength
@@ -62,7 +62,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 208
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

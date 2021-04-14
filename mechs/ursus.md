@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -22,7 +22,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3074)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -39,7 +40,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan Mixed (3074)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -57,7 +58,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3079)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

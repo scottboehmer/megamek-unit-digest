@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons Quad (Industrial)
-- **Movement:** 3 / 5 / 0, Fuel Cell
+- **Movement:** 3 / 5, Fuel Cell
 - **Armor:** 216 (Commercial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)

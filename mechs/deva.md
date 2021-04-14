@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -22,7 +22,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -44,7 +44,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -63,7 +63,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -83,7 +84,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -102,7 +104,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, Light
+- **Movement:** 4 / 6 (8), Light
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -121,7 +123,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -140,7 +142,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, Light
+- **Movement:** 4 / 6 (8), Light
 - **Armor:** 216
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -154,4 +156,25 @@
   - Supercharger
   - Laser Anti-Missile System
 - **Battle Value:** unknown
+
+## Deva C-DVA-OU Exanimus
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6, Light
+  - **Underwater:** 4
+- **Armor:** 216
+- **Gyroscope:** Heavy-Duty Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - LRT 15 × 2 (ammo: 48)
+  - ER Small Laser
+- **Equipment:**
+  - C3i
+  - CASE
+  - MASS
+- **Source:** Jihad
+- **Battle Value:** 1685
 

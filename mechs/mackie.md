@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2439)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 214 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 17 (17)
@@ -18,7 +18,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2439)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 214 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 15 (15)
@@ -33,7 +33,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2488)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
@@ -47,7 +47,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2576)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 307
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
@@ -63,7 +63,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2576)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -80,7 +80,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

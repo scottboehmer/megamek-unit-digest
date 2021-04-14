@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2564)
 - **Chassis:** 100 tons Quad
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 160 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 18 (18)
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2579)
 - **Chassis:** 100 tons Quad
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 323
 - **Heat Sinks:** 23 (23)
 - **Weapons:**
@@ -36,7 +36,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons Quad
-- **Movement:** 3 / 5 / 3, Compact
+- **Movement:** 3 / 5, Compact
+  - **Jumping:** 3
 - **Armor:** 323 (Stealth)
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 15 (30)
@@ -54,7 +55,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 100 tons Quad (Endo Steel)
-- **Movement:** 3 / 5 / 5, Compact
+- **Movement:** 3 / 5, Compact
+  - **Jumping:** 5
 - **Armor:** 323 (Light Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
@@ -69,7 +71,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3094)
 - **Chassis:** 100 tons Quad
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 323 (Stealth)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 15 (30)
@@ -88,7 +90,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3119)
 - **Chassis:** 100 tons Quad
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 323
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)

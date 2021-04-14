@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3015)
 - **Chassis:** 20 tons Quad
-- **Movement:** 8 / 12 (16) / 0
+- **Movement:** 8 / 12 (16)
 - **Armor:** 73 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3015)
 - **Chassis:** 20 tons Quad
-- **Movement:** 8 / 12 (16) / 0
+- **Movement:** 8 / 12 (16)
 - **Armor:** 48 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 20 tons Quad (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 57 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

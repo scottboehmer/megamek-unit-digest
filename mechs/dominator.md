@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3148)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 5, XL
+- **Movement:** 5 / 8 (10), XL
+  - **Jumping:** 5
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -22,7 +23,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3149)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

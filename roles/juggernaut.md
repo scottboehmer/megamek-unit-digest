@@ -2,6 +2,7 @@
 ## A
 - [Akuma](../mechs/akuma.md)
 - [Annihilator](../mechs/annihilator.md)
+- [Aquagladius](../mechs/aquagladius.md)
 - [Archangel](../mechs/archangel.md)
 - [Atlas](../mechs/atlas.md)
 - [Atlas II](../mechs/atlas_ii.md)

@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2600)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 8
+- **Movement:** 8 / 12
+  - **Jumping:** 8
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -15,7 +16,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2600)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8
+- **Movement:** 8 / 12
+  - **Jumping:** 8
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -29,7 +31,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 8
+- **Movement:** 8 / 12
+  - **Jumping:** 8
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
@@ -41,7 +44,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 8
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -59,7 +63,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 8, Light
+- **Movement:** 8 / 12, Light
+  - **Jumping:** 8
 - **Armor:** 71 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -76,7 +81,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 10, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 10
 - **Armor:** 96
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -91,7 +97,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 9 / 14 / 8, XL
+- **Movement:** 9 / 14, XL
+  - **Jumping:** 8
 - **Armor:** 71 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -105,7 +112,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere Mixed (3145)
 - **Chassis:** 35 tons (Endo Composite)
-- **Movement:** 8 / 12 / 8, Light
+- **Movement:** 8 / 12, Light
+  - **Jumping:** 8
 - **Armor:** 72 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -119,7 +127,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3145)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 8, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 8
 - **Armor:** 107 (Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)

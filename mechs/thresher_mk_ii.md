@@ -3,7 +3,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3149)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 (13) / 5, XL
+- **Movement:** 5 / 8 (13), XL
+  - **Jumping:** 5
 - **Armor:** 152 (Laser Reflective)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

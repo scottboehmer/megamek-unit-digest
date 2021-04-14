@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2852)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 224
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3060)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 224
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -37,7 +37,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3071)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 224
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

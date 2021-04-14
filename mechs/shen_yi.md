@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 208 (Stealth)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3093)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 208 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

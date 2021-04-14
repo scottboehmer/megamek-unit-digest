@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 264
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 264
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 264
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

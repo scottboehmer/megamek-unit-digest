@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2621)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

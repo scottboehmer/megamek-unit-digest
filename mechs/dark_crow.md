@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -36,7 +36,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3084)
 - **Chassis:** 55 tons (Endo Composite)
-- **Movement:** 6 / 9 / 8, XXL
+- **Movement:** 6 / 9, XXL
+  - **Jumping:** 8
 - **Armor:** 112 (Ferro Lamellor)
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
@@ -53,7 +54,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3087)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

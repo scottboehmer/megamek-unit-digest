@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -21,7 +21,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -40,7 +40,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -57,7 +57,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -73,7 +73,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -90,7 +90,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -106,7 +106,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -124,7 +124,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -141,7 +141,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -154,4 +154,21 @@
   - CASE II
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2435
+
+## Cauldron-Born (Ebon Jaguar) U
+- **Role:** Sniper
+- **Tech Base:** Clan (3077)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Underwater:** 5
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Large Pulse Laser × 2
+  - ER Small Laser × 2
+  - LRT 15 × 2 (ammo: 16)
+- **Equipment:**
+  - CASE
+- **Source:** Jihad
+- **Battle Value:** 2593
 

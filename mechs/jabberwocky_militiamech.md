@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 50 tons (Industrial)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 136
 - **Myomer:** Industrial Triple-Strength
 - **Heat Sinks:** 11 (11)

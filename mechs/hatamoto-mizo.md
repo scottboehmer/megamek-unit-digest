@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 247
 - **Heat Sinks:** 22 (22)
 - **Weapons:**

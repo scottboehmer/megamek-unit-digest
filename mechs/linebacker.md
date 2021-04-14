@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -53,7 +53,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -71,7 +71,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -87,7 +87,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -103,7 +103,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -117,7 +118,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -134,7 +135,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

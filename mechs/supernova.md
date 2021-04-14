@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2846)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 232
 - **Heat Sinks:** 26 (52)
 - **Weapons:**
@@ -15,7 +16,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3062)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 272
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -31,7 +33,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3064)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 272
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -47,7 +50,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3067)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 272
 - **Heat Sinks:** 18 (36)
 - **Weapons:**

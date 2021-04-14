@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -35,7 +37,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -52,7 +55,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -69,7 +73,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -87,7 +92,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -104,7 +110,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -120,7 +127,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -136,7 +144,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -153,7 +162,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -170,7 +180,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -188,7 +199,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -206,7 +218,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -219,11 +232,29 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2783
 
+## Thor (Summoner) U
+- **Role:** Sniper
+- **Tech Base:** Clan (3078)
+- **Chassis:** 70 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER PPC × 2
+  - LRT 15 (ammo: 16)
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+- **Source:** Jihad
+- **Battle Value:** 3092
+
 ## Thor (Summoner) AA
 - **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -239,7 +270,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3142)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -255,7 +287,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3148)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

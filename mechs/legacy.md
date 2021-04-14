@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 247
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -21,7 +22,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 247
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -40,7 +42,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 3
 - **Armor:** 247
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -58,7 +61,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 4, Light
+- **Movement:** 4 / 6 (8), Light
+  - **Jumping:** 4
 - **Armor:** 245 (Light Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)
@@ -75,7 +79,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 3 / 5 / 2, Compact
+- **Movement:** 3 / 5, Compact
+  - **Jumping:** 2
 - **Armor:** 247
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)

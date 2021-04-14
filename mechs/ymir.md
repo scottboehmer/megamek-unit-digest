@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2462)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 166 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 16 (16)
@@ -20,7 +20,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 168
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2478)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 176
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
@@ -50,7 +50,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2733)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

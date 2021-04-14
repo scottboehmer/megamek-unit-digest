@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -38,7 +38,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -56,7 +56,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -72,7 +72,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -88,7 +88,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3055)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -103,7 +103,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -118,7 +118,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -133,7 +133,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -150,7 +150,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -168,7 +168,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3098)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (25) / 0, XL
+- **Movement:** 10 / 15 (25), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -185,7 +185,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3110)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -201,7 +201,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3110)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -220,7 +220,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3132)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (25) / 0, XL
+- **Movement:** 10 / 15 (25), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -235,7 +235,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3139)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -252,7 +252,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3145)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 10 / 15 (20) / 0, XL
+- **Movement:** 10 / 15 (20), XL
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 307
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 307
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -38,7 +38,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 307
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
@@ -57,7 +57,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 307
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -68,11 +68,27 @@
 - **Source:** 3067 Unabridged
 - **Battle Value:** 2449
 
+## Fafnir FNR-5X
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3078)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 / 5
+- **Armor:** 307
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Improved Heavy Gauss Rifle × 2 (ammo: 24)
+- **Equipment:**
+  - CASE
+  - Guardian ECM Suite
+- **Source:** Jihad
+- **Battle Value:** 2610
+
 ## Fafnir FNR-6U
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, Light
+- **Movement:** 3 / 5, Light
 - **Armor:** 307 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -17,7 +17,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -49,7 +49,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -66,7 +66,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -77,11 +78,29 @@
 - **Source:** TRO 3075
 - **Battle Value:** 2417
 
+## Balius U
+- **Role:** Sniper
+- **Tech Base:** Clan (3077)
+- **Chassis:** 65 tons Quad (Endo Steel)
+- **Movement:** 6 / 9, XL
+  - **Underwater:** 5
+- **Armor:** 211 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Flamer
+  - ER Large Laser
+  - SRT 6 × 4 (ammo: 60)
+- **Equipment:**
+  - CASE
+  - ECM Suite
+- **Source:** Jihad
+- **Battle Value:** 2014
+
 ## Balius E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3127)
 - **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

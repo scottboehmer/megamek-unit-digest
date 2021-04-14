@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 3
+- **Movement:** 4 / 6 (8)
+  - **Jumping:** 3
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -21,7 +22,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0
+- **Movement:** 4 / 6 (8)
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -40,7 +41,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 4
+- **Movement:** 4 / 6 (8)
+  - **Jumping:** 4
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -58,7 +60,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0
+- **Movement:** 4 / 6 (8)
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -76,7 +78,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0
+- **Movement:** 4 / 6 (8)
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

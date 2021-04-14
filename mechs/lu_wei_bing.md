@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3110)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 256
 - **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 272
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -36,7 +37,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 272
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -52,7 +54,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 272
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -69,7 +72,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 272
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -84,7 +88,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 272
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)

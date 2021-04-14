@@ -3,7 +3,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons Quad (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 155 (Industrial)
 - **Myomer:** Industrial Triple-Strength
 - **Cockpit:** Industrial

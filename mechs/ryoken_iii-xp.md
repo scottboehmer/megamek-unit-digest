@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 0, XL
+- **Movement:** 6 (7) / 9 (11), XL
 - **Armor:** 161 (Ferro Lamellor)
 - **Gyroscope:** No Gyro
 - **Myomer:** Triple-Strength
@@ -19,7 +19,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 0, XL
+- **Movement:** 6 (7) / 9 (11), XL
 - **Armor:** 161 (Ferro Lamellor)
 - **Gyroscope:** No Gyro
 - **Myomer:** Triple-Strength
@@ -38,7 +38,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (14) / 0, XL
+- **Movement:** 6 (7) / 9 (14), XL
 - **Armor:** 161 (Ferro Lamellor)
 - **Gyroscope:** No Gyro
 - **Myomer:** Triple-Strength
@@ -57,7 +57,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 0, XL
+- **Movement:** 6 (7) / 9 (11), XL
 - **Armor:** 161 (Ferro Lamellor)
 - **Gyroscope:** No Gyro
 - **Myomer:** Triple-Strength
@@ -75,7 +75,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3143)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 0, XL
+- **Movement:** 6 (7) / 9 (11), XL
 - **Armor:** 161 (Ferro Lamellor)
 - **Gyroscope:** No Gyro
 - **Myomer:** Triple-Strength

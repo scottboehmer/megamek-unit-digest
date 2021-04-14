@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 263
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 17 (34)
@@ -22,7 +22,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 263
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
@@ -35,11 +35,32 @@
 - **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1677
 
+## Templar III TLR2-OB
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3100)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6 (8), Light
+  - **Jumping:** 4
+- **Armor:** 263
+- **Gyroscope:** Heavy-Duty Gyro
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Chain Whip
+  - Hatchet
+  - ER PPC
+  - Small X-Pulse Laser × 6
+  - ER Small Laser
+- **Equipment:**
+  - CASE
+  - Supercharger
+- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Battle Value:** 1919
+
 ## Templar III TLR2-OC
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3120)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 263
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
@@ -58,7 +79,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 263
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
@@ -75,7 +96,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 263
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 17 (34)

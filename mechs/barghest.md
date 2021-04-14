@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 70 tons Quad
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons Quad
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -29,7 +29,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons Quad
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 224
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -42,7 +42,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 70 tons Quad
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 233 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -55,4 +55,41 @@
   - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 1507
+
+## Barghest BGS-4X
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3078)
+- **Chassis:** 70 tons Quad (Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 200
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC w/ PPC Capacitor × 2
+  - Improved Heavy Gauss Rifle (ammo: 8)
+- **Equipment:**
+  - Quad Turret
+  - CASE II
+  - C3 Slave
+- **Source:** XTRO Steiner - Jihad
+- **Battle Value:** 1667
+
+## Barghest BGS-4T
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3083)
+- **Chassis:** 70 tons Quad (Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 200
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+  - ER Medium Laser
+  - Improved Heavy Gauss Rifle (ammo: 16)
+- **Equipment:**
+  - Quad Turret
+  - CASE II
+  - C3 Slave
+- **Source:** TRO:Prototypes
+- **Battle Value:** 1734
 

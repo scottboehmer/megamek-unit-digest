@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2651)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 96
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -17,7 +17,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2652)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2715)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -44,7 +44,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -58,7 +58,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 128
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -72,7 +72,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 96
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -86,7 +86,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -100,7 +100,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 125 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -115,7 +115,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -130,7 +130,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0, Light
+- **Movement:** 6 / 9, Light
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

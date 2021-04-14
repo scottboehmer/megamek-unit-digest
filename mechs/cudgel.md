@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 247 (Light Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -38,7 +38,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 247 (Light Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small

@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -38,7 +38,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 240
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -54,7 +55,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

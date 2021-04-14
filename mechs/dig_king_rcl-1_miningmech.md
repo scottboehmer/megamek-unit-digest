@@ -3,7 +3,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 35 tons (Industrial)
-- **Movement:** 4 / 6 / 0, Fuel Cell
+- **Movement:** 4 / 6, Fuel Cell
 - **Armor:** 96
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
@@ -19,7 +19,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2573)
 - **Chassis:** 35 tons (Industrial)
-- **Movement:** 3 / 5 / 0, Fuel Cell
+- **Movement:** 3 / 5, Fuel Cell
 - **Armor:** 96
 - **Heat Sinks:** 2 (2)
 - **Weapons:**

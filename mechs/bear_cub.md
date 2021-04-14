@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 25 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 72
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 25 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 72
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 25 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 72
 - **Heat Sinks:** 12 (12)
 - **Weapons:**

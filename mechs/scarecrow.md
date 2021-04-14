@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3099)
 - **Chassis:** 40 tons (Endo Composite)
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 128
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
@@ -25,7 +26,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3122)
 - **Chassis:** 40 tons (Endo Composite)
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 128
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)

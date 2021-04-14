@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 307
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 307
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 304 (Ferro Fibrous)
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 12 (24)
@@ -50,11 +50,33 @@
 - **Source:** 3067 Unabridged
 - **Battle Value:** 2332
 
+## Vanquisher VQR-7U
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere (3071)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 (4) / 5 (6), Compact
+- **Armor:** 304
+- **Gyroscope:** Compact Gyro
+- **Myomer:** Triple-Strength
+- **Cockpit:** Small
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Plasma Rifle × 2 (ammo: 40)
+  - ER Flamer × 2
+  - Small VSP Laser × 2
+  - Snub-Nose PPC
+  - Heavy Flamer (ammo: 10)
+- **Equipment:**
+  - Remote Sensor Dispenser
+  - Beagle Active Probe
+  - C3i
+- **Battle Value:** 2144
+
 ## Vanquisher VQR-7V
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Gyroscope:** Heavy-Duty Gyro
 - **Cockpit:** Small
@@ -72,7 +94,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small

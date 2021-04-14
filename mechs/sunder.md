@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -50,7 +50,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -67,7 +67,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -82,7 +82,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 3, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 3
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -95,7 +96,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -112,7 +113,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -127,7 +128,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -144,7 +145,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -161,7 +162,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 264
 - **Heat Sinks:** 18 (36)
 - **Weapons:**

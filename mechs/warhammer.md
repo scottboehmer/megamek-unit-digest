@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2515)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2599)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2745)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 208
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -51,7 +51,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2761)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -67,7 +67,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2825)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
@@ -83,7 +83,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2830)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -98,7 +98,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2835)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 217
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -112,7 +112,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan Mixed (2874)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 217
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -131,7 +131,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3023)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 176
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -146,7 +146,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -163,7 +163,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3050)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -179,7 +179,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -194,7 +194,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3052)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -210,7 +210,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 217
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -226,7 +227,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -243,7 +244,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -260,7 +261,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -278,7 +279,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216 (Stealth)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -295,7 +296,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 216
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -310,7 +312,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 208
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -326,7 +328,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -342,7 +344,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 216
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -354,7 +357,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 217 (Light Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -370,7 +373,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 70 tons
-- **Movement:** 3 / 5 / 5
+- **Movement:** 3 / 5
+  - **Jumping:** 5
 - **Armor:** 184
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -386,7 +390,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 5, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 5
 - **Armor:** 178 (Light Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -403,7 +408,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 212 (Light Ferro Fibrous)
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
@@ -423,7 +428,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -441,7 +446,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3090)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -459,7 +464,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3105)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 216
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -474,7 +479,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3147)
 - **Chassis:** 70 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 216 (Ballistic Reinforced)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

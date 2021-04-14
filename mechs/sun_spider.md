@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2865)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2865)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -32,7 +32,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2865)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -46,7 +46,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2865)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 21 (42)
 - **Weapons:**
@@ -62,7 +62,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2865)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -78,7 +78,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3067)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -96,7 +96,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3067)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

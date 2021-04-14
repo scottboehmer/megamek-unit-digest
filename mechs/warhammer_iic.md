@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2829)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2920)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 240 (Ferro Fibrous)
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -50,7 +50,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3062)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -66,7 +66,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3070)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -82,7 +82,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3071)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -98,7 +98,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3079)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 6
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -118,7 +119,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3079)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -135,7 +136,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3086)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XXL
+- **Movement:** 5 / 8, XXL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -153,7 +154,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3120)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -169,7 +170,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3124)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 232
 - **Heat Sinks:** 24 (48)
 - **Weapons:**
@@ -182,11 +183,29 @@
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2021
 
+## Warhammer IIC 12
+- **Role:** Brawler
+- **Tech Base:** Clan (3130)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 5 / 8, XXL
+- **Armor:** 230 (Heat-Dissipating)
+- **Heat Sinks:** 20 (40)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
+  - SRM 6 (ammo: 15)
+- **Equipment:**
+  - CASE
+  - ECM Suite
+- **Source:** RS 3145 NT NU
+- **Battle Value:** 2680
+
 ## Warhammer IIC 13
 - **Role:** Brawler
 - **Tech Base:** Clan (3150)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 21 (42)
 - **Weapons:**

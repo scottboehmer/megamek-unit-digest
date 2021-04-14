@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 200
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -22,7 +23,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 200
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

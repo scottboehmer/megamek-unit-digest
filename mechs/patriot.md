@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
@@ -22,7 +22,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
@@ -42,7 +42,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)

@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, Light
+- **Movement:** 8 / 12, Light
+  - **Jumping:** 6
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +19,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, Light
+- **Movement:** 8 / 12, Light
 - **Armor:** 56 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

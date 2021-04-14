@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2607)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -16,7 +16,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2608)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -29,7 +30,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2610)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -42,7 +43,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3033)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 72
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -55,7 +57,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 72
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -68,7 +71,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 6
 - **Armor:** 128
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -84,7 +88,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 72
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -97,7 +102,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 107 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -112,7 +118,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 128 (Heavy Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)

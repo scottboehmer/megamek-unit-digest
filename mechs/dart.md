@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 25 tons
-- **Movement:** 9 / 14 / 0
+- **Movement:** 9 / 14
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -15,7 +15,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 25 tons
-- **Movement:** 9 / 14 / 0
+- **Movement:** 9 / 14
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -27,7 +27,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 25 tons
-- **Movement:** 9 / 14 / 0
+- **Movement:** 9 / 14
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -39,7 +39,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 25 tons
-- **Movement:** 9 / 14 / 0, Light
+- **Movement:** 9 / 14, Light
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

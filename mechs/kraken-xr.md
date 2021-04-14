@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3073)
 - **Chassis:** 100 tons (Endo Composite)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304 (Laser Reflective)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

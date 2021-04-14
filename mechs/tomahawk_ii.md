@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -37,7 +37,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 304
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -55,7 +56,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3088)
 - **Chassis:** 100 tons (Endo Composite)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 18 (36)
 - **Weapons:**

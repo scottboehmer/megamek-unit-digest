@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3100)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

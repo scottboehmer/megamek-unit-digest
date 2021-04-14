@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3081)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 240
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -21,7 +22,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3083)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 240
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

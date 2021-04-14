@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2522)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -20,7 +20,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 95 tons (Endo Steel)
-- **Movement:** 4 (5) / 6 (8) / 3, XL
+- **Movement:** 4 (5) / 6 (8), XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 15 (30)
@@ -40,7 +41,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 95 tons (Endo Steel)
-- **Movement:** 4 (5) / 6 (8) / 3, XL
+- **Movement:** 4 (5) / 6 (8), XL
+  - **Jumping:** 3
 - **Armor:** 293 (Light Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 15 (30)

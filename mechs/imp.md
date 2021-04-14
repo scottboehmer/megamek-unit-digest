@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2793)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2825)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -52,7 +52,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (2863)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
@@ -68,7 +68,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3005)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 288
 - **Heat Sinks:** 30 (30)
 - **Weapons:**
@@ -82,7 +82,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 288
 - **Heat Sinks:** 30 (30)
 - **Weapons:**
@@ -100,7 +100,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 296
 - **Heat Sinks:** 21 (42)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 17 (34)
@@ -20,7 +20,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
@@ -37,7 +37,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
@@ -54,7 +54,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
@@ -71,7 +71,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3146)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 19 (38)

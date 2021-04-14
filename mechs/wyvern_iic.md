@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2843)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -23,7 +24,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3071)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 144
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 144
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 144
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -50,7 +50,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 144
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -66,7 +66,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 144
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

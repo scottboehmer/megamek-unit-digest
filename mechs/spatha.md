@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 60 tons
-- **Movement:** 6 (7) / 9 (11) / 0, XXL
+- **Movement:** 6 (7) / 9 (11), XXL
 - **Armor:** 176 (Laser Reflective)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 13 (26)

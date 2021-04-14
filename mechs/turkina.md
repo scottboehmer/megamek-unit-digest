@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -34,7 +36,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
@@ -47,11 +50,34 @@
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 3420
 
+## Turkina C
+- **Role:** Juggernaut
+- **Tech Base:** Clan (3052)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
+- **Armor:** 288
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
+  - Large Pulse Laser × 2
+  - Medium Pulse Laser × 2
+  - Streak SRM 6 (ammo: 15)
+  - Machine Gun × 2 (ammo: 100)
+  - Flamer × 2
+- **Equipment:**
+  - CASE
+  - Active Probe
+  - A-Pod × 2
+- **Source:** TRO 3058 - Clan Invasion
+- **Battle Value:** 2798
+
 ## Turkina D
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3061)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -66,7 +92,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3062)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -83,7 +110,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3070)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -98,7 +126,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -114,7 +143,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

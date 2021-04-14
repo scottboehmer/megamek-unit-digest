@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -53,7 +53,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -68,7 +68,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -83,7 +83,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3056)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -99,7 +99,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -115,7 +115,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -127,11 +127,28 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1380
 
+## Fenris (Ice Ferret) U
+- **Role:** Striker
+- **Tech Base:** Clan (3077)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 8 / 12, XL
+  - **Underwater:** 7
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - LRT 5 (ammo: 24)
+  - SRT 4 (ammo: 25)
+- **Equipment:**
+  - CASE
+- **Source:** Jihad
+- **Battle Value:** 1549
+
 ## Fenris (Ice Ferret) F
 - **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -144,7 +161,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3088)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -160,7 +177,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3099)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -176,7 +193,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3120)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -192,7 +209,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3135)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -207,7 +224,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
@@ -16,7 +16,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 216
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
@@ -30,7 +31,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -45,7 +46,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -61,7 +62,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -77,7 +78,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3064)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -92,7 +93,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 6
 - **Armor:** 216
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -108,7 +110,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3072)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -126,7 +128,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3099)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, XL
+- **Movement:** 4 / 6 (8), XL
 - **Armor:** 216
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -144,7 +146,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3132)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 21 (42)
 - **Weapons:**

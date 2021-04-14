@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2570)
 - **Chassis:** 55 tons Quad
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3030)
 - **Chassis:** 55 tons Quad
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 144
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -29,7 +29,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 55 tons Quad
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 112
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -42,7 +42,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0, Light
+- **Movement:** 6 / 9, Light
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -57,7 +57,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 55 tons Quad
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -73,7 +73,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 55 tons Quad
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -89,7 +89,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 55 tons Quad
-- **Movement:** 6 / 9 (12) / 0, Light
+- **Movement:** 6 / 9 (12), Light
 - **Armor:** 112
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -104,7 +104,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 55 tons Quad (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 144
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

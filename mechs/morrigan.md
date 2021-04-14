@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3083)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3084)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3085)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -54,7 +54,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3111)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -69,7 +69,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3124)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

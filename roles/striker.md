@@ -1,5 +1,6 @@
 # Striker Units
 ## A
+- [Agrotera](../mechs/agrotera.md)
 - [Anubis](../mechs/anubis.md)
 - [Arctic Fox](../mechs/arctic_fox.md)
 - [Arctic Wolf](../mechs/arctic_wolf.md)
@@ -12,6 +13,7 @@
 - [Bear Cub](../mechs/bear_cub.md)
 - [Beowulf IIC](../mechs/beowulf_iic.md)
 - [Bishamon](../mechs/bishamon.md)
+- [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
 - [Blade](../mechs/blade.md)
 - [Blitzkrieg](../mechs/blitzkrieg.md)
 - [Bloodhound](../mechs/bloodhound.md)
@@ -33,6 +35,7 @@
 - [Cossack](../mechs/cossack.md)
 - [Cougar](../mechs/cougar.md)
 - [Coyotl](../mechs/coyotl.md)
+- [Crimson Hawk](../mechs/crimson_hawk.md)
 - [Crimson Langur](../mechs/crimson_langur.md)
 - [Cronus](../mechs/cronus.md)
 - [Cuirass](../mechs/cuirass.md)
@@ -46,6 +49,7 @@
 - [Duan Gung](../mechs/duan_gung.md)
 ## E
 - [Eidolon](../mechs/eidolon.md)
+- [Enforcer III](../mechs/enforcer_iii.md)
 - [Eyleuka](../mechs/eyleuka.md)
 - [Eyrie](../mechs/eyrie.md)
 ## F

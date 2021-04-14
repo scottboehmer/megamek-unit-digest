@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 144
 - **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
@@ -20,7 +20,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 144
 - **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)

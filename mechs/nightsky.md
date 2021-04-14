@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 152
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 152
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -36,7 +38,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 152
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -51,7 +53,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 152
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -66,7 +69,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 6, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 6
 - **Armor:** 152
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -79,7 +83,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 50 tons
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 152
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)

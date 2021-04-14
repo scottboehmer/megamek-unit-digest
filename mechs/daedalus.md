@@ -3,7 +3,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 60 tons Quad (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 152
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -16,7 +16,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 60 tons Quad (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 152
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -32,7 +32,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -50,7 +51,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 153
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -68,7 +70,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (14) / 6, XL
+- **Movement:** 6 (7) / 9 (14), XL
+  - **Jumping:** 6
 - **Armor:** 136
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -87,7 +90,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 152
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)

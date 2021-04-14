@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 293
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -22,7 +22,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 293
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -38,7 +39,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 293
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -54,7 +55,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 293
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -73,7 +74,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 293
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -92,7 +93,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 293
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -104,11 +105,29 @@
 - **Source:** TRO 3060
 - **Battle Value:** 2298
 
+## Hauptmann HA1-OF
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3094)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5
+- **Armor:** 293
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Medium X-Pulse Laser × 3
+  - Heavy PPC
+  - Improved Heavy Gauss Rifle (ammo: 16)
+- **Equipment:**
+  - CASE
+  - CASE II
+  - Angel ECM Suite
+- **Source:** RS 3145 NTNU - Early Republic
+- **Battle Value:** 2484
+
 ## Hauptmann HA1-OM
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 293
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -124,7 +143,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3136)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 293
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

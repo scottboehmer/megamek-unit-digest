@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -52,7 +52,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -69,7 +69,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -86,7 +86,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -102,7 +102,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -120,7 +120,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -133,11 +133,30 @@
 - **Source:** TRO 3060
 - **Battle Value:** 1648
 
+## Men Shen MS1-OU
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 (12), XL
+  - **Underwater:** 6
+- **Armor:** 176
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRT 4 × 2 (ammo: 25)
+  - ER Medium Laser × 2
+  - Snub-Nose PPC
+- **Equipment:**
+  - MASC
+  - Beagle Active Probe
+  - TAG
+- **Source:** Jihad
+- **Battle Value:** 1725
+
 ## Men Shen MS1-OG
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

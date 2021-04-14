@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2470)
 - **Chassis:** 65 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 187 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 12 (12)
@@ -18,7 +18,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2620)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 192
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 195 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 168 (Stealth)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 168
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, Light
+- **Movement:** 6 / 9, Light
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -53,7 +53,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3130)
 - **Chassis:** 50 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -71,7 +71,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, Light
+- **Movement:** 6 / 9, Light
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan Mixed (3053)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 206 (Ferro Fibrous)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 13 (26)

@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 45 tons
-- **Movement:** 7 / 11 / 6, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 6
 - **Armor:** 148 (Heavy Ferro Fibrous)
 - **Gyroscope:** No Gyro
 - **Cockpit:** Interface

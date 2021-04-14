@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 88 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 105 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 88 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -51,7 +51,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 88 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -66,7 +66,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -81,7 +81,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3121)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 88 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -96,7 +96,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3124)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 104 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

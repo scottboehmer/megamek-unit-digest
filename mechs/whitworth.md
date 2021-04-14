@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2610)
 - **Chassis:** 40 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -16,7 +17,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2689)
 - **Chassis:** 40 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -29,7 +31,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2754)
 - **Chassis:** 40 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -43,7 +46,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -56,7 +60,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 40 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -70,7 +75,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -87,7 +93,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6
+- **Movement:** 4 / 6
+  - **Jumping:** 6
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -101,7 +108,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 4 / 6 / 5
+- **Movement:** 4 / 6
+  - **Jumping:** 5
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -116,7 +124,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 40 tons (Composite)
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

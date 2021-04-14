@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3134)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 4, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 4
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -21,7 +22,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3134)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 8, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 8
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 14 (28)

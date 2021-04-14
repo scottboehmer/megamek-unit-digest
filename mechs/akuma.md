@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -21,7 +21,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 279
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -37,7 +38,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
@@ -55,7 +56,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
@@ -76,7 +77,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)

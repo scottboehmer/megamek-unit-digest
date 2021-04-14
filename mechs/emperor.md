@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2442)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 273 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -17,7 +17,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2502)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 279
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
@@ -31,7 +32,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2612)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 279
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -48,7 +50,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3064)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 279
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -64,7 +67,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 279
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -80,7 +84,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
-- **Movement:** 3 (4) / 5 (6) / 3
+- **Movement:** 3 (4) / 5 (6)
+  - **Jumping:** 3
 - **Armor:** 279 (Stealth)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
@@ -98,7 +103,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 (4) / 5 (6) / 3, Light
+- **Movement:** 3 (4) / 5 (6), Light
+  - **Jumping:** 3
 - **Armor:** 272
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
@@ -116,7 +122,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 279
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -132,7 +139,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 90 tons
-- **Movement:** 3 (4) / 5 (6) / 0
+- **Movement:** 3 (4) / 5 (6)
 - **Armor:** 279 (Stealth)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
@@ -150,7 +157,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Light
+- **Movement:** 3 / 5, Light
 - **Armor:** 264
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -165,7 +172,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3127)
 - **Chassis:** 90 tons
-- **Movement:** 3 (4) / 5 (6) / 0
+- **Movement:** 3 (4) / 5 (6)
 - **Armor:** 279 (Stealth)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)

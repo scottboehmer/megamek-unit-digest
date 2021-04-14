@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 120
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 45 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 120
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -36,7 +38,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 120
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -52,7 +55,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 45 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 120
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

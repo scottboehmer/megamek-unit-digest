@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -20,7 +20,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3135)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -40,7 +40,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -54,11 +54,28 @@
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1159
 
+## Night Stalker NSR-K7
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3136)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 8 (9) / 12 (14), XL
+- **Armor:** 119 (Impact-Resistant)
+- **Myomer:** Triple-Strength
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Lance
+  - Chain Whip
+  - Small Re-Engineered Laser × 3
+  - ER Small Laser
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Battle Value:** 857
+
 ## Night Stalker NSR-KC
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)

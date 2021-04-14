@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 263 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 263 (Ferro Fibrous)
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)

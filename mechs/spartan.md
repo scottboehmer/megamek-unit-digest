@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2764)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 224
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 224
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2770)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 224
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -54,7 +54,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2865)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 240 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -70,7 +70,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 224
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

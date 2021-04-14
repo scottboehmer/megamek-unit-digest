@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 50 tons (Industrial)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 56
 - **Myomer:** Industrial Triple-Strength
 - **Cockpit:** Industrial

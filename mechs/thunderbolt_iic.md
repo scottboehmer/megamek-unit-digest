@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3085)
 - **Chassis:** 70 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 216
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

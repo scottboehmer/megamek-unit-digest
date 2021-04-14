@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -52,7 +52,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -66,7 +66,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3050)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -83,7 +83,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -98,7 +99,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -115,7 +116,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -131,7 +132,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -145,7 +146,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -156,11 +157,29 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2300
 
+## Vulture (Mad Dog) U
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3077)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8, XL
+  - **Underwater:** 5
+- **Armor:** 163 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Medium Pulse Laser × 2
+  - LRT 15 w/ Artemis V × 2 (ammo: 32)
+- **Equipment:**
+  - HarJel × 3
+  - CASE
+- **Source:** RS 3085 - Jihad
+- **Battle Value:** 2488
+
 ## Vulture (Mad Dog) G
 - **Role:** Brawler
 - **Tech Base:** Clan (3093)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -177,7 +196,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3098)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -193,7 +212,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3142)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -209,7 +228,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan Mixed (3144)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

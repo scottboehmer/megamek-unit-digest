@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2627)
 - **Chassis:** 20 tons (Industrial)
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 35 (Commercial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -18,7 +18,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 20 tons (Industrial)
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 35 (Commercial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)

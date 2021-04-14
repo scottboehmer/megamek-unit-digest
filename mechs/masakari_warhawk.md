@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -56,7 +56,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -72,7 +72,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -90,7 +90,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -108,7 +108,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
@@ -125,7 +125,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 85 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**

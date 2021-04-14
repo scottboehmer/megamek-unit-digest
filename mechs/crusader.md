@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2649)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -35,7 +35,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2753)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -50,7 +51,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2756)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -64,7 +65,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2765)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
@@ -78,7 +79,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3040)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -93,7 +94,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -107,7 +108,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -121,7 +122,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -135,7 +136,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -154,7 +156,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -171,7 +173,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -188,7 +190,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -205,7 +208,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -221,7 +225,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 200 (Stealth)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -238,7 +243,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 203 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -255,7 +260,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 65 tons
-- **Movement:** 3 / 5 / 5, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 5
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -272,7 +278,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3140)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 185
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

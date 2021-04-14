@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, Light
+- **Movement:** 5 / 8, Light
 - **Armor:** 127 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

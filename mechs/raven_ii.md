@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3123)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 112 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

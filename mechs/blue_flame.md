@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons Quad (Endo Steel)
-- **Movement:** 5 / 8 / 0, Light
+- **Movement:** 5 / 8, Light
 - **Armor:** 169
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 45 tons Quad (Endo Steel)
-- **Movement:** 5 / 8 / 0, Light
+- **Movement:** 5 / 8, Light
 - **Armor:** 168
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)

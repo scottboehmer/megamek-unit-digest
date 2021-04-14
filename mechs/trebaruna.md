@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
-- **Movement:** 3 / 5 / 4
+- **Movement:** 3 / 5
+  - **Jumping:** 4
 - **Armor:** 256
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -20,7 +21,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
-- **Movement:** 3 / 5 / 4
+- **Movement:** 3 / 5
+  - **Jumping:** 4
 - **Armor:** 305 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
@@ -36,7 +38,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 95 tons Quad
-- **Movement:** 3 / 5 / 4, Light
+- **Movement:** 3 / 5, Light
+  - **Jumping:** 4
 - **Armor:** 280
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -46,4 +49,20 @@
   - CASE
 - **Source:** Dark Age
 - **Battle Value:** 2244
+
+## Trebaruna TR-XH
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3115)
+- **Chassis:** 95 tons Quad (Composite)
+- **Movement:** 3 / 4, XL
+  - **Jumping:** 4
+- **Armor:** 204 (Hardened)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER PPC
+  - Improved Heavy Gauss Rifle (ammo: 24)
+- **Equipment:**
+  - Quad Turret
+- **Source:** RS 3145 NT NU
+- **Battle Value:** 2453
 

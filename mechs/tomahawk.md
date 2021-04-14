@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -22,7 +22,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -40,7 +40,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 26 (52)
 - **Weapons:**
@@ -58,7 +58,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3065)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 23 (46)
 - **Weapons:**

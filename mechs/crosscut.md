@@ -3,7 +3,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2650)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 42 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
@@ -19,7 +19,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2715)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 42 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -35,7 +35,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2786)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 42 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -51,7 +51,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2786)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, Fuel Cell
+- **Movement:** 3 / 5, Fuel Cell
 - **Armor:** 80
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
@@ -66,7 +66,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 53 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
@@ -82,7 +82,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2810)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 53 (Commercial)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
@@ -97,7 +97,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2901)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 42 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -110,7 +110,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2910)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 42 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -125,7 +125,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2932)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 42 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -141,7 +141,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 64
 - **Heat Sinks:** 3 (3)
 - **Weapons:**
@@ -155,7 +155,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0, Fuel Cell
+- **Movement:** 3 / 5, Fuel Cell
 - **Armor:** 64
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
@@ -168,7 +168,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 64
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (10)
@@ -186,7 +186,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

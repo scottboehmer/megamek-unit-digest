@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, Compact
+- **Movement:** 5 / 8, Compact
 - **Armor:** 109 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -16,7 +16,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, Compact
+- **Movement:** 5 / 8, Compact
+  - **Jumping:** 5
 - **Armor:** 119 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -29,7 +30,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, Compact
+- **Movement:** 5 / 8, Compact
 - **Armor:** 109 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -44,7 +45,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3074)
 - **Chassis:** 35 tons (Composite)
-- **Movement:** 8 / 12 / 7, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 7
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -61,7 +63,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, Compact
+- **Movement:** 5 / 8, Compact
+  - **Jumping:** 7
 - **Armor:** 93 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -74,7 +77,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, Compact
+- **Movement:** 5 / 8, Compact
+  - **Jumping:** 7
 - **Armor:** 93 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -89,7 +93,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, Compact
+- **Movement:** 5 / 8, Compact
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

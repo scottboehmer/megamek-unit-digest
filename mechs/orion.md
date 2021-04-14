@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2453)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 155 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -17,7 +17,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2525)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 231
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -32,7 +32,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2753)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 231 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -49,7 +49,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2799)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 184
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -64,7 +64,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2901)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 231
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
@@ -78,7 +78,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2913)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 184
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -95,7 +95,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -113,7 +113,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -130,7 +130,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -149,7 +149,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -167,7 +167,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -185,7 +185,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -203,7 +203,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 224 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -215,11 +215,27 @@
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1828
 
+## Orion ON3-MX
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3075)
+- **Chassis:** 75 tons
+- **Movement:** 4 / 6, XL
+- **Armor:** 231
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ELRM 10 (ammo: 27)
+  - ER Medium Laser × 2
+  - Improved Heavy Gauss Rifle (ammo: 16)
+- **Equipment:**
+  - CASE
+- **Source:** XTRO Marik - Jihad
+- **Battle Value:** 1849
+
 ## Orion ON3-M
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

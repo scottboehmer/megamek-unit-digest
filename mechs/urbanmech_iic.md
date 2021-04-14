@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2849)
 - **Chassis:** 30 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 30 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

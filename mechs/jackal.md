@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -36,7 +38,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -51,7 +54,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -68,7 +72,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -84,7 +89,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -101,7 +107,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -119,7 +126,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

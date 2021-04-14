@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3145)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0
+- **Movement:** 5 / 8 (10)
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

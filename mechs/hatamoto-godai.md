@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3140)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 210 (Ballistic Reinforced)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Armored

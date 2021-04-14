@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2871)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0
+- **Movement:** 7 / 11
 - **Armor:** 57 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -17,7 +17,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2877)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11 / 7
+- **Movement:** 7 / 11
+  - **Jumping:** 7
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -31,7 +32,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3053)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0
+- **Movement:** 7 / 11
 - **Armor:** 57 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -43,7 +44,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3063)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 57 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -58,7 +59,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3066)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 57 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -68,4 +69,19 @@
   - MASC
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1277
+
+## Baboon (Howler) 6
+- **Role:** Undefined
+- **Tech Base:** Clan (3086)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 7 / 11
+- **Armor:** 57 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - SRM 6 × 2 (ammo: 30)
+- **Equipment:**
+  - Shoulder Turret
+  - CASE II
+- **Source:** Dark Age
+- **Battle Value:** 550
 

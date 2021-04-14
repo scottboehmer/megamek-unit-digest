@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2665)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 160
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -15,7 +15,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3022)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -28,7 +28,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3023)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 240
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -43,7 +43,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 247
 - **Heat Sinks:** 28 (28)
 - **Weapons:**
@@ -56,7 +56,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3034)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 160
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
@@ -70,7 +71,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -85,7 +87,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -101,7 +104,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, Light
+- **Movement:** 4 / 6 (8), Light
 - **Armor:** 247
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -118,7 +121,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -131,7 +134,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 6, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 6
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -148,7 +152,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 80 tons
-- **Movement:** 5 (6) / 8 (9) / 5, XL
+- **Movement:** 5 (6) / 8 (9), XL
+  - **Jumping:** 5
 - **Armor:** 212 (Light Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)

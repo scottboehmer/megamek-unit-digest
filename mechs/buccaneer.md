@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 55 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -36,7 +37,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -51,7 +53,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3120)
 - **Chassis:** 55 tons
-- **Movement:** 6 / 9 / 11, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 11
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (23)
 - **Weapons:**

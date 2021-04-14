@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 75 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 231 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 231
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)

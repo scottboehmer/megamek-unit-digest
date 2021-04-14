@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 168
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 168
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 168
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

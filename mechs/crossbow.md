@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2468)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 123 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -18,7 +18,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2473)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -32,7 +32,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2481)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -46,7 +46,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2870)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -60,7 +60,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2870)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -76,7 +76,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2870)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -90,7 +90,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 192
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -107,7 +107,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3063)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -123,7 +123,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -137,7 +137,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -147,4 +147,21 @@
   - Targeting Computer
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1558
+
+## Crossbow U
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3077)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8
+  - **Underwater:** 5
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRT 10 × 2 (ammo: 24)
+  - ER Medium Laser × 2
+  - SRT 2 × 2 (ammo: 50)
+- **Equipment:**
+  - CASE
+- **Source:** Jihad
+- **Battle Value:** 1856
 

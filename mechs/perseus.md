@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -22,7 +22,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -40,7 +40,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -56,7 +56,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -72,7 +72,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -91,7 +91,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -103,11 +103,30 @@
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1864
 
+## Perseus P1E
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3072)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+- **Armor:** 224
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Large VSP Laser
+  - Medium VSP Laser
+  - Gauss Rifle (ammo: 16)
+  - ER Medium Laser
+  - SRM 6 (iOS)
+  - ER Small Laser
+- **Equipment:**
+  - Beagle Active Probe
+  - Communications Equipment × 3
+- **Battle Value:** 1641
+
 ## Perseus P1P
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

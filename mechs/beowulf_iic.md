@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3084)
 - **Chassis:** 45 tons
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3086)
 - **Chassis:** 45 tons
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

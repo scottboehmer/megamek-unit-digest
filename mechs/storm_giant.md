@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 296
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 297 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**

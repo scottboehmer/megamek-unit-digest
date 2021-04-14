@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3060)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3074)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 208
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -48,7 +48,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3082)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

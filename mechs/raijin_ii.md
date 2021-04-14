@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 169
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
@@ -21,7 +22,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, Light
+- **Movement:** 6 / 9, Light
+  - **Jumping:** 6
 - **Armor:** 169 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -39,7 +41,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, Light
+- **Movement:** 6 (7) / 9 (11), Light
+  - **Jumping:** 6
 - **Armor:** 169 (Stealth)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)

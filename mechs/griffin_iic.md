@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2852)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2973)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -35,7 +37,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -52,7 +55,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -68,7 +72,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 7
+- **Movement:** 6 / 9
+  - **Jumping:** 7
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -84,7 +89,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3073)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 5 / 8 / 8
+- **Movement:** 5 / 8
+  - **Jumping:** 8
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -100,7 +106,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3078)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 9, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 9
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -117,7 +124,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3083)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 / 7, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
 - **Armor:** 124 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

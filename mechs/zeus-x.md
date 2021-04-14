@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 195 (Light Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -19,7 +19,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3089)
 - **Chassis:** 80 tons (Composite)
-- **Movement:** 5 / 8 / 8, XXL
+- **Movement:** 5 / 8, XXL
+  - **Jumping:** 8
 - **Armor:** 232
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -34,7 +35,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3119)
 - **Chassis:** 80 tons (Composite)
-- **Movement:** 5 / 8 / 0, XXL
+- **Movement:** 5 / 8, XXL
 - **Armor:** 232 (Reactive)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

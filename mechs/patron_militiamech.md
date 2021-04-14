@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 15 tons (Industrial)
-- **Movement:** 2 / 3 / 0, Fuel Cell
+- **Movement:** 2 / 3, Fuel Cell
 - **Armor:** 24 (Commercial)
 - **Cockpit:** Industrial (w/ Adv. FCS)
 - **Heat Sinks:** 1 (1)
@@ -19,7 +19,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 15 tons (Industrial)
-- **Movement:** 2 / 3 / 0, Fuel Cell
+- **Movement:** 2 / 3, Fuel Cell
 - **Armor:** 32
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)

@@ -41,6 +41,7 @@
 ## D
 - [Dasher (Fire Moth)](../mechs/dasher_fire_moth.md)
 - [Dervish](../mechs/dervish.md)
+- [Diomede](../mechs/diomede.md)
 - [Dragon II](../mechs/dragon_ii.md)
 - [Duan Gung](../mechs/duan_gung.md)
 ## E
@@ -135,6 +136,7 @@
 - [Ryoken (Stormcrow)](../mechs/ryoken_stormcrow.md)
 ## S
 - [Salamander](../mechs/salamander.md)
+- [Sarath](../mechs/sarath.md)
 - [Scorpion](../mechs/scorpion.md)
 - [Scylla](../mechs/scylla.md)
 - [Seraph](../mechs/seraph.md)

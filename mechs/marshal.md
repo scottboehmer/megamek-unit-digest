@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -37,7 +39,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -55,7 +58,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 6, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 6
 - **Armor:** 185
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -69,7 +73,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3119)
 - **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

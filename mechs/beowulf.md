@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 45 tons
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3074)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 7, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 7
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -38,7 +40,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 45 tons
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 152 (Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)

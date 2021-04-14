@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2742)
 - **Chassis:** 20 tons
-- **Movement:** 8 / 12 (16) / 0
+- **Movement:** 8 / 12 (16)
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2810)
 - **Chassis:** 20 tons
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 20 tons
-- **Movement:** 8 / 12 (16) / 0
+- **Movement:** 8 / 12 (16)
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -47,7 +47,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0
+- **Movement:** 8 / 12 (16)
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -63,7 +63,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 69 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

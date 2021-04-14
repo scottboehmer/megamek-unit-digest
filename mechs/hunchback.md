@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2572)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -17,7 +17,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2819)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2856)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -45,7 +45,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2920)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -60,7 +60,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2937)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 23 (23)
 - **Weapons:**
@@ -73,7 +73,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
@@ -87,7 +87,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3046)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -103,7 +103,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -119,7 +119,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -133,7 +133,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 169
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -149,7 +150,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -165,7 +166,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -179,7 +180,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -195,7 +196,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 50 tons (Reinforced)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 161 (Ferro Fibrous)
 - **Gyroscope:** Armored
 - **Cockpit:** Torso-Mounted
@@ -213,7 +214,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 168 (Stealth)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
@@ -229,7 +231,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 169
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
@@ -246,7 +249,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 169
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -262,7 +265,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 50 tons (Reinforced)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -278,7 +281,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3100)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -293,7 +296,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3100)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 6, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 6
 - **Armor:** 152
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -307,7 +311,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3086)
 - **Chassis:** 35 tons (Industrial)
-- **Movement:** 5 / 8 / 0, Fuel Cell
+- **Movement:** 5 / 8, Fuel Cell
 - **Armor:** 80
 - **Heat Sinks:** 2 (2)
 - **Weapons:**

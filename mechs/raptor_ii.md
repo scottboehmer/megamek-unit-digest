@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, XL
+- **Movement:** 7 / 11 (14), XL
 - **Armor:** 118 (Light Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -22,7 +22,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, XL
+- **Movement:** 7 / 11 (14), XL
 - **Armor:** 118 (Light Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -44,7 +44,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, XL
+- **Movement:** 7 / 11 (14), XL
 - **Armor:** 127 (Light Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
@@ -62,7 +62,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 / 5, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 5
 - **Armor:** 118 (Light Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -80,7 +81,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, XL
+- **Movement:** 7 / 11 (14), XL
 - **Armor:** 118 (Light Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)

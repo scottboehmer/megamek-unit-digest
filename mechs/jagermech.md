@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2774)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -17,7 +17,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2778)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -47,7 +47,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -62,7 +62,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -78,7 +78,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -93,7 +93,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -110,7 +110,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -124,7 +124,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -140,7 +140,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -157,7 +157,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

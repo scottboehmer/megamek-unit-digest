@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +19,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -33,7 +34,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -49,7 +50,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0
+- **Movement:** 5 / 8 (10)
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -66,7 +67,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

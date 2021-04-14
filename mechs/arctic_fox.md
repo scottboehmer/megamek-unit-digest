@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -17,7 +17,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -30,7 +31,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -43,7 +44,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -56,7 +57,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -68,7 +69,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -81,7 +82,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -89,4 +90,20 @@
   - ER Medium Laser × 3
 - **Source:** TRO 3060
 - **Battle Value:** 891
+
+## Arctic Fox AF1U
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3072)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+  - **Underwater:** 5
+- **Armor:** 96
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC
+  - LRT 10 w/ Artemis IV (ammo: 12)
+- **Equipment:**
+  - MASS
+- **Source:** Jihad
+- **Battle Value:** 821
 

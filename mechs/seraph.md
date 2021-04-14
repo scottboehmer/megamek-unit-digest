@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Movement:** 3 (4) / 5 (6), Light
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -24,7 +24,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 5, Light
+- **Movement:** 3 (4) / 5 (6), Light
+  - **Jumping:** 5
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -46,7 +47,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Movement:** 3 (4) / 5 (6), Light
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -67,7 +68,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Movement:** 3 (4) / 5 (6), Light
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -89,7 +90,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 5, Light
+- **Movement:** 3 (4) / 5 (6), Light
+  - **Jumping:** 5
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -109,7 +111,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Movement:** 3 (4) / 5 (6), Light
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -130,7 +132,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Movement:** 3 (4) / 5 (6), Light
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -148,7 +150,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 0, Light
+- **Movement:** 3 (4) / 5 (6), Light
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -168,7 +170,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6) / 3, Light
+- **Movement:** 3 (4) / 5 (6), Light
+  - **Jumping:** 3
 - **Armor:** 256
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small

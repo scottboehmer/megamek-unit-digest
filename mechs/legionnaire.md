@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 136
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -45,7 +45,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -59,7 +59,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -72,7 +72,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3077)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
@@ -86,7 +86,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -101,7 +102,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3132)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons Quad
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 309
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 95 tons Quad
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 309
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -39,7 +39,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 95 tons Quad
-- **Movement:** 3 / 5 / 5
+- **Movement:** 3 / 5
+  - **Jumping:** 5
 - **Armor:** 309 (Light Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)

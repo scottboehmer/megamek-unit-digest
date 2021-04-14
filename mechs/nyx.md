@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XL
+- **Movement:** 10 / 15, XL
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XL
+- **Movement:** 10 / 15, XL
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XL
+- **Movement:** 10 / 15, XL
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -49,7 +49,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3095)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XL
+- **Movement:** 10 / 15, XL
 - **Armor:** 89 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -62,7 +62,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3141)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XL
+- **Movement:** 10 / 15, XL
 - **Armor:** 78 (Anti-Penetrative Ablative Armor)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

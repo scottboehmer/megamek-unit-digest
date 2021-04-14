@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3116)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 104
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -21,7 +22,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3116)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 104
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

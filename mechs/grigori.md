@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -24,7 +24,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -44,7 +45,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -64,7 +66,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -84,7 +87,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 6, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 6
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -103,7 +107,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 (8) / 4, Light
+- **Movement:** 4 / 6 (8), Light
+  - **Jumping:** 4
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -124,7 +129,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -143,7 +149,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -163,7 +169,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3075)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -176,4 +182,26 @@
   - C3i
   - CASE II
 - **Battle Value:** 1378
+
+## Grigori C-GRG-OU Exanimus
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 60 tons
+- **Movement:** 4 / 6, Light
+  - **Underwater:** 4
+- **Armor:** 186 (Light Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER Small Laser × 2
+  - Heavy PPC
+  - ER Medium Laser × 2
+  - ER PPC
+- **Equipment:**
+  - C3i
+  - Beagle Active Probe
+  - MASS
+- **Source:** Jihad
+- **Battle Value:** 1604
 

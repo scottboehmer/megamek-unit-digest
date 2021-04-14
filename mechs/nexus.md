@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 4
+- **Movement:** 7 / 11
+  - **Jumping:** 4
 - **Armor:** 35 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 5
+- **Movement:** 7 / 11
+  - **Jumping:** 5
 - **Armor:** 71 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

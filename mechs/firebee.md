@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2483)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 69 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -17,7 +17,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2524)
 - **Chassis:** 35 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -30,7 +31,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 35 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 104 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small

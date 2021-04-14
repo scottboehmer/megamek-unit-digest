@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -51,7 +51,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -68,7 +68,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -84,7 +84,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3055)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -101,7 +101,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -118,7 +118,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -136,7 +136,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -152,7 +152,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -168,7 +168,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3093)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -182,7 +182,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3113)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -193,11 +193,28 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2516
 
+## Man O' War (Gargoyle) F
+- **Role:** Brawler
+- **Tech Base:** Clan (3127)
+- **Chassis:** 80 tons
+- **Movement:** 5 / 8, XL
+- **Armor:** 211 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - RAC/2 (ammo: 90)
+  - Improved Heavy Large Laser
+  - ATM 3 × 2 (ammo: 40)
+  - Heavy Flamer (ammo: 10)
+- **Equipment:**
+  - CASE
+- **Source:** ilClan Vol 11 - Dark Age
+- **Battle Value:** 1894
+
 ## Man O' War (Gargoyle) X
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3128)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -215,7 +232,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3133)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -228,7 +246,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3140)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -246,7 +264,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
-- **Movement:** 3 / 5 / 5, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 5
 - **Armor:** 208
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
-- **Movement:** 3 / 5 / 5, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 5
 - **Armor:** 208
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -33,7 +35,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3130)
 - **Chassis:** 70 tons
-- **Movement:** 3 / 5 / 5, Light
+- **Movement:** 3 / 5, Light
+  - **Jumping:** 5
 - **Armor:** 208
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

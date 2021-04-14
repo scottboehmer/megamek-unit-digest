@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 7 / 0, XL
+- **Movement:** 5 / 7, XL
 - **Armor:** 168 (Hardened)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
@@ -20,7 +20,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 231 (Ballistic Reinforced)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 13 (26)

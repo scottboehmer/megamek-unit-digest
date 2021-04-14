@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2771)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 307
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 307
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -29,7 +29,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 307
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -43,7 +43,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, Light
+- **Movement:** 3 / 5, Light
 - **Armor:** 296
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

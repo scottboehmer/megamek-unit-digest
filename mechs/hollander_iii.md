@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3114)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 96 (Laser Reflective)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
@@ -19,7 +19,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3115)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 80 (Laser Reflective)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
@@ -34,7 +34,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3118)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 96 (Laser Reflective)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)

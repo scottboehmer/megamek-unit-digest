@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3085)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -17,7 +18,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3086)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

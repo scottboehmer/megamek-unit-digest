@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -21,7 +21,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -39,7 +39,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -56,7 +56,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -73,7 +73,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -90,7 +90,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -107,7 +107,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -125,7 +125,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -145,7 +145,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 35 tons
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

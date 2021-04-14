@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XL
+- **Movement:** 10 / 15, XL
 - **Armor:** 98 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 (11) / 15 (17) / 0, XL
+- **Movement:** 10 (11) / 15 (17), XL
 - **Armor:** 98 (Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (10)

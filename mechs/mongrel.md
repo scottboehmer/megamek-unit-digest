@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3092)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 168 (Reactive)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3108)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 168 (Reactive)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

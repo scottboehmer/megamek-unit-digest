@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -22,7 +22,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -38,7 +38,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -55,7 +55,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -71,7 +71,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -87,7 +87,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -102,7 +102,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -113,4 +113,21 @@
   - Targeting Computer
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1178
+
+## Phantom F
+- **Role:** Striker
+- **Tech Base:** Clan (3068)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 9 / 14, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Heavy Flamer (ammo: 10)
+  - Heavy Medium Laser
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+  - ECM Suite
+- **Source:** TRO 3055 - Jihad
+- **Battle Value:** 1375
 

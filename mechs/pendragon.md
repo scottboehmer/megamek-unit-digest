@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3072)
 - **Chassis:** 95 tons (Composite)
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 95 tons (Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 293 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3130)
 - **Chassis:** 95 tons (Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 293 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

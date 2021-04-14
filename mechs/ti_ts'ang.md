@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 200
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 13 (26)
@@ -20,7 +21,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 200
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
@@ -36,7 +38,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 8, XL
+- **Movement:** 5 / 8 (10), XL
+  - **Jumping:** 8
 - **Armor:** 200
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -51,7 +54,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 200
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
@@ -67,7 +71,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 200
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
@@ -83,7 +88,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (14) / 6, XL
+- **Movement:** 6 (7) / 9 (14), XL
+  - **Jumping:** 6
 - **Armor:** 184
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small
@@ -102,7 +108,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (14) / 6, XL
+- **Movement:** 6 (7) / 9 (14), XL
+  - **Jumping:** 6
 - **Armor:** 184
 - **Myomer:** Triple-Strength
 - **Cockpit:** Small

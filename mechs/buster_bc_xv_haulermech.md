@@ -3,7 +3,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2615)
 - **Chassis:** 50 tons (Industrial)
-- **Movement:** 3 / 5 / 0, IC
+- **Movement:** 3 / 5, IC
 - **Armor:** 48 (Commercial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)

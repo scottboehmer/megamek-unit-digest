@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3132)
 - **Chassis:** 30 tons (Composite)
-- **Movement:** 7 / 11 (14) / 6, XXL
+- **Movement:** 7 / 11 (14), XXL
+  - **Jumping:** 6
 - **Armor:** 105 (Ballistic Reinforced)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small

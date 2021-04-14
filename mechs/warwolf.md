@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 231 (Reactive)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -22,7 +23,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 231 (Reactive)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -41,7 +42,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 231 (Reactive)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -57,7 +59,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 231 (Reactive)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -74,7 +77,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3138)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 231 (Reactive)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

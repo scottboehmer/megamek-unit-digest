@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3076)
 - **Chassis:** 55 tons (Endo Composite)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 140 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -38,7 +38,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3086)
 - **Chassis:** 55 tons (Endo Composite)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -54,7 +54,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3089)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -68,7 +69,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3094)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -84,7 +85,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3095)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -102,7 +103,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3097)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -117,7 +119,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3132)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

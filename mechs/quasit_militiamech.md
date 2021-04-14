@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2517)
 - **Chassis:** 45 tons (Industrial)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 45 tons (Industrial)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 45 tons (Industrial)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

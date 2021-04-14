@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -36,7 +38,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -53,7 +56,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -70,7 +74,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -85,7 +90,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 152 (Stealth)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -100,7 +106,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3076)
 - **Chassis:** 45 tons (Composite)
-- **Movement:** 7 / 11 (14) / 7, XL
+- **Movement:** 7 / 11 (14), XL
+  - **Jumping:** 7
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

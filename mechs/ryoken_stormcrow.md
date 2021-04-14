@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -32,7 +32,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -47,7 +47,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -63,7 +63,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -79,7 +79,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -94,7 +95,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -110,7 +111,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -127,7 +128,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -143,7 +144,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -156,7 +157,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -173,7 +174,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -188,7 +189,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3069)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -205,7 +206,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -222,7 +223,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -238,7 +239,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -253,7 +254,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -269,7 +270,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

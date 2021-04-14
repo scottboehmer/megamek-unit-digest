@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -34,7 +36,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -50,7 +53,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -66,7 +70,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -83,7 +88,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -99,7 +105,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -111,4 +118,24 @@
   - CASE
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1784
+
+## Pouncer F
+- **Role:** Scout
+- **Tech Base:** Clan (3069)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Heavy Flamer × 2 (ammo: 30)
+  - ER Flamer × 2
+  - Plasma Cannon (ammo: 20)
+  - ER Medium Laser
+- **Equipment:**
+  - CASE
+  - Remote Sensor Dispenser
+  - Active Probe
+- **Source:** TRO 3055 - Jihad
+- **Battle Value:** 1308
 

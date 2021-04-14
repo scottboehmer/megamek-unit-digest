@@ -33,6 +33,7 @@
 - [Caesar](../mechs/caesar.md)
 - [Cataphract](../mechs/cataphract.md)
 - [Catapult](../mechs/catapult.md)
+- [Catapult II](../mechs/catapult_ii.md)
 - [Cauldron-Born (Ebon Jaguar)](../mechs/cauldron-born_ebon_jaguar.md)
 - [Cave Lion](../mechs/cave_lion.md)
 - [Centurion](../mechs/centurion.md)
@@ -105,6 +106,7 @@
 - [Lightray](../mechs/lightray.md)
 - [Linebacker](../mechs/linebacker.md)
 - [Lineholder](../mechs/lineholder.md)
+- [Loki (Hellbringer)](../mechs/loki_hellbringer.md)
 - [Lupus](../mechs/lupus.md)
 - [Lynx](../mechs/lynx.md)
 ## M
@@ -159,6 +161,7 @@
 - [Rook](../mechs/rook.md)
 - [Ryoken (Stormcrow)](../mechs/ryoken_stormcrow.md)
 ## S
+- [Sarath](../mechs/sarath.md)
 - [Sasquatch](../mechs/sasquatch.md)
 - [Scorpion](../mechs/scorpion.md)
 - [Scourge](../mechs/scourge.md)
@@ -174,10 +177,12 @@
 - [Spatha](../mechs/spatha.md)
 - [Sphinx](../mechs/sphinx.md)
 - [Stalking Spider](../mechs/stalking_spider.md)
+- [Stalking Spider II](../mechs/stalking_spider_ii.md)
 - [Starslayer](../mechs/starslayer.md)
 - [Stooping Hawk](../mechs/stooping_hawk.md)
 - [Sun Bear](../mechs/sun_bear.md)
 ## T
+- [Templar III](../mechs/templar_iii.md)
 - [Tessen](../mechs/tessen.md)
 - [Thanatos](../mechs/thanatos.md)
 - [Thor (Summoner)](../mechs/thor_summoner.md)
@@ -187,6 +192,7 @@
 - [Thunder Fox](../mechs/thunder_fox.md)
 - [Thunderbolt](../mechs/thunderbolt.md)
 - [Ti Ts'ang](../mechs/ti_ts'ang.md)
+- [Tolva](../mechs/tolva.md)
 - [Trebuchet](../mechs/trebuchet.md)
 ## U
 - [Ursa](../mechs/ursa.md)

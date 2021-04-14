@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 75 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 184
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -17,7 +18,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2492)
 - **Chassis:** 75 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 184
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -31,7 +32,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2725)
 - **Chassis:** 75 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 216
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
@@ -45,7 +46,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 75 tons
-- **Movement:** 3 / 5 / 5
+- **Movement:** 3 / 5
+  - **Jumping:** 5
 - **Armor:** 188 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -60,7 +62,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 75 tons
-- **Movement:** 3 (4) / 5 (6) / 5
+- **Movement:** 3 (4) / 5 (6)
+  - **Jumping:** 5
 - **Armor:** 168
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
@@ -77,7 +80,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 75 tons
-- **Movement:** 3 (4) / 5 (6) / 5
+- **Movement:** 3 (4) / 5 (6)
+  - **Jumping:** 5
 - **Armor:** 168
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)

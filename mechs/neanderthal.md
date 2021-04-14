@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3124)
 - **Chassis:** 80 tons
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 232 (Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
@@ -21,7 +21,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3128)
 - **Chassis:** 80 tons
-- **Movement:** 5 (6) / 8 (9) / 0, XL
+- **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 232 (Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)

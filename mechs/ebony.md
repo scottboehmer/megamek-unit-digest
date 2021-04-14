@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 (11) / 15 (17) / 0, XL
+- **Movement:** 10 (11) / 15 (17), XL
 - **Armor:** 88 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
@@ -21,7 +21,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 (11) / 15 (17) / 0, XL
+- **Movement:** 10 (11) / 15 (17), XL
 - **Armor:** 80 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
@@ -38,7 +38,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 (11) / 15 (17) / 0, XL
+- **Movement:** 10 (11) / 15 (17), XL
 - **Armor:** 80 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
@@ -54,7 +54,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3118)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 (11) / 15 (17) / 0, XL
+- **Movement:** 10 (11) / 15 (17), XL
 - **Armor:** 80 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength
@@ -65,4 +65,18 @@
   - Guardian ECM Suite
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1837
+
+## Ebony MEB-13
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3137)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 9 (10) / 14 (15), XL
+- **Armor:** 60 (Heat-Dissipating)
+- **Gyroscope:** XL Gyro
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Large Re-Engineered Laser
+- **Source:** RS 3145 NT NU
+- **Battle Value:** 750
 

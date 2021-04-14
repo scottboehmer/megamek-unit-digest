@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2518)
 - **Chassis:** 40 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -17,7 +18,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 40 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 11 (11)
 - **Weapons:**

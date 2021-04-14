@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3058)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 (8) / 0
+- **Movement:** 4 / 6 (8)
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -22,7 +22,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3067)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -41,7 +41,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 (8) / 0, XL
+- **Movement:** 4 / 6 (8), XL
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

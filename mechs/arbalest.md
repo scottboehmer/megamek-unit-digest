@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 25 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3079)
 - **Chassis:** 25 tons
-- **Movement:** 5 / 8 (10) / 0
+- **Movement:** 5 / 8 (10)
 - **Armor:** 89
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3081)
 - **Chassis:** 25 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

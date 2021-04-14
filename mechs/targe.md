@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3081)
 - **Chassis:** 40 tons
-- **Movement:** 8 / 12 (16) / 0, Light
+- **Movement:** 8 / 12 (16), Light
 - **Armor:** 99 (Heavy Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -20,7 +20,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 40 tons
-- **Movement:** 7 / 11 (14) / 0, Light
+- **Movement:** 7 / 11 (14), Light
 - **Armor:** 109 (Heavy Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -37,7 +37,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3109)
 - **Chassis:** 40 tons
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 119 (Heavy Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)

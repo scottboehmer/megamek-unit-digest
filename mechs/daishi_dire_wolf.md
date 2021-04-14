@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 21 (42)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -55,7 +55,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3049)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -74,7 +74,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
@@ -92,7 +92,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 304
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -111,7 +112,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3051)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -128,7 +129,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -146,7 +147,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3054)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 304
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
@@ -165,7 +167,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -183,7 +185,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3060)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -206,7 +208,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3069)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -219,11 +221,31 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3403
 
+## Daishi (Dire Wolf) U
+- **Role:** Juggernaut
+- **Tech Base:** Clan (3077)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5, XL
+  - **Underwater:** 3
+- **Armor:** 304
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER PPC × 2
+  - Medium Pulse Laser × 4
+  - SRT 6 × 6 (ammo: 60)
+- **Equipment:**
+  - HarJel × 5
+  - Targeting Computer
+  - CASE
+  - MASS
+- **Source:** Jihad
+- **Battle Value:** 3360
+
 ## Daishi (Dire Wolf) E
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3103)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

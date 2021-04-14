@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 14 (28)
@@ -21,7 +21,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 14 (28)
@@ -37,7 +37,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 8, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 8
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 16 (32)
@@ -53,7 +54,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3135)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 0, XL
+- **Movement:** 6 / 9 (12), XL
 - **Armor:** 152 (Laser Reflective)
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 15 (30)

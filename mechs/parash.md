@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3083)
 - **Chassis:** 35 tons
-- **Movement:** 7 / 11 / 7, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
 - **Armor:** 112
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3083)
 - **Chassis:** 35 tons
-- **Movement:** 7 / 11 / 7, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
 - **Armor:** 112
 - **Gyroscope:** No Gyro
 - **Cockpit:** Interface
@@ -37,7 +39,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3084)
 - **Chassis:** 35 tons
-- **Movement:** 7 / 11 / 7, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
 - **Armor:** 112
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

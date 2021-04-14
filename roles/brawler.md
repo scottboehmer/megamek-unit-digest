@@ -12,6 +12,7 @@
 ## B
 - [Bandersnatch](../mechs/bandersnatch.md)
 - [Banshee](../mechs/banshee.md)
+- [Barghest](../mechs/barghest.md)
 - [Battle Cobra](../mechs/battle_cobra.md)
 - [BattleMaster](../mechs/battlemaster.md)
 - [Behemoth (Stone Rhino)](../mechs/behemoth_stone_rhino.md)
@@ -69,6 +70,7 @@
 - [Hammer](../mechs/hammer.md)
 - [Hatamoto-Chi](../mechs/hatamoto-chi.md)
 - [Hatamoto-Hi](../mechs/hatamoto-hi.md)
+- [Hatamoto-Kaeru](../mechs/hatamoto-kaeru.md)
 - [Hatamoto-Ku](../mechs/hatamoto-ku.md)
 - [Hatchetman](../mechs/hatchetman.md)
 - [Hector](../mechs/hector.md)
@@ -93,6 +95,7 @@
 - [Kheper](../mechs/kheper.md)
 - [Kingfisher](../mechs/kingfisher.md)
 - [Kodiak](../mechs/kodiak.md)
+- [Kodiak II](../mechs/kodiak_ii.md)
 ## L
 - [Lament](../mechs/lament.md)
 - [Lancelot](../mechs/lancelot.md)
@@ -104,6 +107,7 @@
 ## M
 - [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
 - [Mad Cat Mk II](../mechs/mad_cat_mk_ii.md)
+- [Man O' War (Gargoyle)](../mechs/man_o'_war_gargoyle.md)
 - [Mangonel](../mechs/mangonel.md)
 - [Marauder](../mechs/marauder.md)
 - [Marauder IIC](../mechs/marauder_iic.md)

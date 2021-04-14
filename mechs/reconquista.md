@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2862)
 - **Chassis:** 75 tons
-- **Movement:** 2 / 3 / 0, IC
+- **Movement:** 2 / 3, IC
 - **Armor:** 187 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 7 (7)

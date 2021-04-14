@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3139)
 - **Chassis:** 30 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 112
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -19,7 +19,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3139)
 - **Chassis:** 30 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 112
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -35,7 +35,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3141)
 - **Chassis:** 30 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 112
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -50,7 +50,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3142)
 - **Chassis:** 30 tons Quad (Endo Steel)
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 112
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)

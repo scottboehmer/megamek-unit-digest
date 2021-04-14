@@ -3,7 +3,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 40 tons (Industrial)
-- **Movement:** 4 / 6 / 1
+- **Movement:** 4 / 6
+  - **Jumping:** 1
 - **Armor:** 104
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

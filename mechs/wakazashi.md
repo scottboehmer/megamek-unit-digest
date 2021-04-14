@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (2830)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

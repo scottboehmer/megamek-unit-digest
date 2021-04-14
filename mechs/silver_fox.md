@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 35 tons
-- **Movement:** 9 / 14 / 0, XXL
+- **Movement:** 9 / 14, XXL
 - **Armor:** 112 (Laser Reflective)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 112 (Laser Reflective)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

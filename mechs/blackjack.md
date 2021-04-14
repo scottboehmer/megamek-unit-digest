@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2756)
 - **Chassis:** 45 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 136
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
@@ -16,7 +16,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2757)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 136
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -29,7 +30,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3023)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 120
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -42,7 +44,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 136
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -56,7 +58,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3042)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 136
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -69,7 +72,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 136
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -82,7 +86,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -96,7 +101,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -110,7 +116,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -126,7 +133,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -140,7 +148,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -156,7 +165,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -171,7 +181,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -186,7 +197,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -201,7 +213,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 135 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -217,7 +230,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -225,11 +239,29 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Battle Value:** 1320
 
+## Blackjack BJ2-OU
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRT 5 × 6 (ammo: 72)
+  - ER Small Laser
+  - Light PPC × 2
+- **Equipment:**
+  - HarJel × 5
+- **Source:** Jihad
+- **Battle Value:** 1223
+
 ## Blackjack BJ-5
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3107)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 135 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -243,7 +275,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3131)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 136
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -256,7 +289,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

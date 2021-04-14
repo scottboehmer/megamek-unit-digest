@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3149)
 - **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 8 / 0, XL
+- **Movement:** 6 / 8, XL
 - **Armor:** 120 (Hardened)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Industrial)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 80
 - **Myomer:** Industrial Triple-Strength
 - **Heat Sinks:** 10 (10)

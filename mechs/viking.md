@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 248
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -38,7 +38,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -55,7 +55,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 279
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

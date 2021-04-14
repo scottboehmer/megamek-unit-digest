@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2777)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2778)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 112
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -32,7 +34,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3034)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -46,7 +49,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 80
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -61,7 +65,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -79,7 +84,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 93 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -94,7 +100,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -112,7 +119,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 40 tons
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -130,7 +138,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 80 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

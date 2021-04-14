@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 307
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3139)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 307
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -30,7 +30,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3140)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 307
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

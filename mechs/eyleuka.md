@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 184
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -22,7 +23,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 176 (Stealth)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -39,7 +41,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 152 (Stealth)
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -58,7 +61,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 152 (Stealth)
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small

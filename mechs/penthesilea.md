@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 215 (Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
@@ -21,7 +22,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 231 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
@@ -39,7 +40,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3129)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3, Compact
+- **Movement:** 3 / 5, Compact
+  - **Jumping:** 3
 - **Armor:** 231 (Light Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)

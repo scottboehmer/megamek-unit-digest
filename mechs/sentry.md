@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 136
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, Light
+- **Movement:** 5 / 8, Light
+  - **Jumping:** 5
 - **Armor:** 137 (Light Ferro Fibrous)
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)

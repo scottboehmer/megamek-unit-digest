@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3112)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 5, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 5
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

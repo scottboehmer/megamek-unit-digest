@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 55 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 160 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 14 (14)
@@ -18,7 +19,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 136
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -32,7 +34,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons
-- **Movement:** 4 / 6 / 6
+- **Movement:** 4 / 6
+  - **Jumping:** 6
 - **Armor:** 185
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
@@ -47,7 +50,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 55 tons
-- **Movement:** 6 / 9 (12) / 6, XL
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
 - **Armor:** 185
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -63,7 +67,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 55 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 160 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 16 (16)

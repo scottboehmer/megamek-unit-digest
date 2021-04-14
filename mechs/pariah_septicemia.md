@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -51,7 +51,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -66,7 +67,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -83,7 +85,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -101,7 +103,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -120,7 +122,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -137,7 +140,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -154,7 +158,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -171,7 +175,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -185,7 +189,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -199,4 +204,22 @@
   - Talons
 - **Source:** Jihad
 - **Battle Value:** unknown
+
+## Pariah (Septicemia) UW
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Underwater:** 5
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - LRT 15 × 2 (ammo: 32)
+  - SRT 4 × 6 (ammo: 50)
+- **Equipment:**
+  - HarJel × 5
+  - CASE
+  - MASS
+- **Source:** Jihad
+- **Battle Value:** 1913
 

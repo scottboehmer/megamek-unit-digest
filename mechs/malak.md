@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -24,7 +24,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -45,7 +45,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -63,7 +63,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -85,7 +85,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -103,7 +103,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 (14) / 0, Light
+- **Movement:** 7 / 11 (14), Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -121,7 +121,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -140,7 +140,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, Light
+- **Movement:** 7 / 11, Light
 - **Armor:** 101 (Light Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small

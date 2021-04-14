@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 50 tons (Industrial)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 104
 - **Cockpit:** Industrial
 - **Heat Sinks:** 18 (18)

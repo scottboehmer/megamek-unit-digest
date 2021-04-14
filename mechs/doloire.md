@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 232
 - **Heat Sinks:** 12 (32)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 232
 - **Heat Sinks:** 12 (32)
 - **Weapons:**
@@ -38,7 +38,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 232
 - **Heat Sinks:** 12 (34)
 - **Weapons:**
@@ -55,7 +55,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 232
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -75,7 +75,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3121)
 - **Chassis:** 80 tons (Endo Composite)
-- **Movement:** 4 / 6 (8) / 0, XL
+- **Movement:** 4 / 6 (8), XL
 - **Armor:** 232
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -95,7 +95,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3140)
 - **Chassis:** 80 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 232
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

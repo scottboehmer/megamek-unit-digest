@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3074)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3093)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 184
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 25 tons
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 64 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -18,7 +18,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 25 tons
-- **Movement:** 7 / 11 / 0
+- **Movement:** 7 / 11
 - **Armor:** 64 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)

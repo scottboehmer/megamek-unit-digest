@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2827)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3053)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3054)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -48,7 +48,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3066)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

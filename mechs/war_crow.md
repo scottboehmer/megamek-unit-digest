@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan Mixed (3145)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 217 (Ferro Lamellor)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3145)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 217 (Ferro Lamellor)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -38,7 +38,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3145)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 217 (Ferro Lamellor)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -55,7 +56,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan Mixed (3145)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 217 (Ferro Lamellor)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

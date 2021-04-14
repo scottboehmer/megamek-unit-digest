@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 6
 - **Armor:** 216
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 5, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 5
 - **Armor:** 216
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -36,7 +38,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 216
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -54,7 +57,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 216
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -74,7 +77,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3087)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 7, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 7
 - **Armor:** 216
 - **Heat Sinks:** 14 (31)
 - **Weapons:**
@@ -92,7 +96,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3087)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 7, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 7
 - **Armor:** 216
 - **Heat Sinks:** 11 (25)
 - **Weapons:**
@@ -110,7 +115,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3115)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 216
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

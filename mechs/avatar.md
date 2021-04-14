@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -21,7 +21,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -38,7 +39,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -54,7 +55,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -72,7 +73,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3056)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -87,7 +88,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -105,7 +106,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -123,7 +124,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -142,7 +143,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -158,7 +160,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -170,11 +172,29 @@
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1598
 
+## Avatar AV1-OU
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6, XL
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Laser × 2
+  - LRT 15 w/ Artemis IV × 2 (ammo: 32)
+  - SRT 4 w/ Artemis IV × 2 (ammo: 50)
+  - Small Pulse Laser
+- **Equipment:**
+  - CASE
+  - C3 Master
+- **Source:** Jihad
+- **Battle Value:** 1359
+
 ## Avatar AV1-OI
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -190,7 +210,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3099)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -205,7 +225,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3127)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

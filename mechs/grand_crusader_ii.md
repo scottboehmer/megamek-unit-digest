@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 (5) / 6 (8) / 4, Light
+- **Movement:** 4 (5) / 6 (8), Light
+  - **Jumping:** 4
 - **Armor:** 247
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
@@ -22,7 +23,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 (5) / 6 (8) / 4, Light
+- **Movement:** 4 (5) / 6 (8), Light
+  - **Jumping:** 4
 - **Armor:** 247
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)

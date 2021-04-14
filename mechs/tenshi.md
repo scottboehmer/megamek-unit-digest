@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
-- **Movement:** 3 / 5 (6) / 0, Light
+- **Movement:** 3 / 5 (6), Light
 - **Armor:** 293
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 14 (28)
@@ -22,7 +22,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
-- **Movement:** 3 / 5 / 0, Light
+- **Movement:** 3 / 5, Light
 - **Armor:** 293
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)
@@ -39,7 +39,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 95 tons (Endo Composite)
-- **Movement:** 3 / 5 / 3, Light
+- **Movement:** 3 / 5, Light
+  - **Jumping:** 3
 - **Armor:** 293
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)
@@ -55,7 +56,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3101)
 - **Chassis:** 95 tons (Endo Composite)
-- **Movement:** 3 / 5 / 0, Light
+- **Movement:** 3 / 5, Light
 - **Armor:** 293
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)

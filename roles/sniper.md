@@ -70,6 +70,7 @@
 - [Epimetheus](../mechs/epimetheus.md)
 - [Exhumer](../mechs/exhumer.md)
 ## F
+- [Fafnir](../mechs/fafnir.md)
 - [Falcon](../mechs/falcon.md)
 - [Fennec](../mechs/fennec.md)
 - [Fenris (Ice Ferret)](../mechs/fenris_ice_ferret.md)
@@ -86,6 +87,7 @@
 - [Gravedigger](../mechs/gravedigger.md)
 - [Grendel (Mongrel)](../mechs/grendel_mongrel.md)
 - [Griffin](../mechs/griffin.md)
+- [Grigori](../mechs/grigori.md)
 - [Guillotine](../mechs/guillotine.md)
 - [Gun](../mechs/gun.md)
 ## H
@@ -121,6 +123,7 @@
 ## L
 - [Lancelot](../mechs/lancelot.md)
 - [Lao Hu](../mechs/lao_hu.md)
+- [Lich](../mechs/lich.md)
 - [Linebacker](../mechs/linebacker.md)
 - [Lineholder](../mechs/lineholder.md)
 - [Loki (Hellbringer)](../mechs/loki_hellbringer.md)
@@ -144,6 +147,7 @@
 - [Nova Cat](../mechs/nova_cat.md)
 ## O
 - [Omni-Corvis](../mechs/omni-corvis.md)
+- [Onager](../mechs/onager.md)
 - [Orion](../mechs/orion.md)
 - [Orion IIC](../mechs/orion_iic.md)
 - [Osprey](../mechs/osprey.md)
@@ -163,6 +167,8 @@
 - [Preta](../mechs/preta.md)
 - [Prometheus](../mechs/prometheus.md)
 - [Puma (Adder)](../mechs/puma_adder.md)
+## Q
+- [Quickdraw](../mechs/quickdraw.md)
 ## R
 - [Rampage](../mechs/rampage.md)
 - [Raptor II](../mechs/raptor_ii.md)

@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
@@ -18,7 +18,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3085)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 6 / 9 / 0
+- **Movement:** 6 / 9
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

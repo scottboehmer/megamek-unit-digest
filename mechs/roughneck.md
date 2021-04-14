@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 200
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 200
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -51,7 +51,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 200
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -64,7 +64,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 200
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -77,7 +77,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 192
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -91,7 +91,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 200
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

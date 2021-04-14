@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3136)
 - **Chassis:** 15 tons (Endo Steel)
-- **Movement:** 12 / 18 / 0, XXL
+- **Movement:** 12 / 18, XXL
 - **Armor:** 55
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small

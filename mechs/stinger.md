@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2479)
 - **Chassis:** 20 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 48
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -16,7 +17,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2581)
 - **Chassis:** 20 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -28,7 +30,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2720)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11 / 7, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
 - **Armor:** 69
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -40,7 +43,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -55,7 +59,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 20 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -68,7 +73,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 69 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -82,7 +87,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -94,7 +100,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 20 tons
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -106,7 +113,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 20 tons
-- **Movement:** 7 / 11 (14) / 7, Light
+- **Movement:** 7 / 11 (14), Light
+  - **Jumping:** 7
 - **Armor:** 59 (Heavy Ferro Fibrous)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (10)
@@ -122,7 +130,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11 / 6, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 6
 - **Armor:** 69
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -134,7 +143,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 / 8, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 8
 - **Armor:** 48
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

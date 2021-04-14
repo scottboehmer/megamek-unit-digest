@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 240
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -21,7 +21,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 240
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -39,7 +40,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 240
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -57,7 +58,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3064)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 240
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -75,7 +77,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 240
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -94,7 +96,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3073)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 5, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 5
 - **Armor:** 240
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -111,7 +114,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3073)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 5, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 5
 - **Armor:** 240
 - **Heat Sinks:** 20 (40)
 - **Weapons:**

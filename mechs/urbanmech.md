@@ -3,7 +3,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2675)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 3 / 2
+- **Movement:** 2 / 3
+  - **Jumping:** 2
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -16,7 +17,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2925)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 3 / 2
+- **Movement:** 2 / 3
+  - **Jumping:** 2
 - **Armor:** 64
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -29,7 +31,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 3 / 2
+- **Movement:** 2 / 3
+  - **Jumping:** 2
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -43,7 +46,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 3 / 2
+- **Movement:** 2 / 3
+  - **Jumping:** 2
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -57,7 +61,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 3 / 2
+- **Movement:** 2 / 3
+  - **Jumping:** 2
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -71,7 +76,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 3 / 2
+- **Movement:** 2 / 3
+  - **Jumping:** 2
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -85,7 +91,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 2 / 3 / 2, XL
+- **Movement:** 2 / 3, XL
+  - **Jumping:** 2
 - **Armor:** 96
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -100,7 +107,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 3 / 3
+- **Movement:** 2 / 3
+  - **Jumping:** 3
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -118,7 +126,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3130)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 2 / 2
+- **Movement:** 2 / 2
+  - **Jumping:** 2
 - **Armor:** 96 (Hardened)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -132,7 +141,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3149)
 - **Chassis:** 30 tons
-- **Movement:** 2 / 2 / 2
+- **Movement:** 2 / 2
+  - **Jumping:** 2
 - **Armor:** 92 (Hardened)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6 / 0, IC
+- **Movement:** 4 / 6, IC
 - **Armor:** 48 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -19,7 +19,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6 / 0, IC
+- **Movement:** 4 / 6, IC
 - **Armor:** 48 (Industrial)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6 / 0, Fuel Cell
+- **Movement:** 4 / 6, Fuel Cell
 - **Armor:** 64
 - **Heat Sinks:** 3 (3)
 - **Weapons:**

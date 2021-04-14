@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2954)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2960)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -35,7 +35,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2961)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -51,7 +51,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2962)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -67,7 +67,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3025)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -83,7 +83,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -98,7 +98,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XL
+- **Movement:** 9 / 14, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -114,7 +114,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 / 0, XXL
+- **Movement:** 9 / 14, XXL
 - **Armor:** 104 (Laser Reflective)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

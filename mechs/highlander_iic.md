@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2858)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3072)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 264
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -39,7 +41,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

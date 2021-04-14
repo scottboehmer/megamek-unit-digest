@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, XL
+- **Movement:** 4 / 6 (8), XL
 - **Armor:** 249 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -21,7 +21,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 0, XL
+- **Movement:** 3 / 5 (6), XL
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -39,7 +39,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 0, XL
+- **Movement:** 3 / 5 (6), XL
 - **Armor:** 232
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -59,7 +59,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 0, XL
+- **Movement:** 3 / 5 (6), XL
 - **Armor:** 232
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -79,7 +79,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 3, XL
+- **Movement:** 3 / 5 (6), XL
+  - **Jumping:** 3
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -98,7 +99,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 4, XL
+- **Movement:** 3 / 5 (6), XL
+  - **Jumping:** 4
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -118,7 +120,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 4, XL
+- **Movement:** 3 / 5 (6), XL
+  - **Jumping:** 4
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -138,7 +141,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3119)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6) / 0, XL
+- **Movement:** 3 / 5 (6), XL
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -156,7 +159,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan Mixed (3140)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (8) / 0, XL
+- **Movement:** 3 / 5 (8), XL
 - **Armor:** 232
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

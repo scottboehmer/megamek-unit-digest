@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2823)
 - **Chassis:** 100 tons Quad (Industrial)
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 248
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

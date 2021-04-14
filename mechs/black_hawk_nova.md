@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -15,7 +16,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -31,7 +33,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -48,7 +51,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -64,7 +68,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -79,7 +84,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3050)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -96,7 +102,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -111,7 +118,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -123,7 +131,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -134,11 +143,35 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1976
 
+## Black Hawk (Nova) U
+- **Role:** Striker
+- **Tech Base:** Clan Mixed (3077)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Micro Pulse Laser × 3
+  - Inner Sphere Sword
+  - Heavy Medium Laser × 3
+  - Spot Welder
+  - Machine Gun × 8 (ammo: 100)
+- **Equipment:**
+  - HarJel
+  - Light Active Probe
+  - Liquid Cargo × 2
+  - CASE
+  - ECM Suite
+- **Source:** Jihad
+- **Battle Value:** unknown
+
 ## Black Hawk (Nova) I
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3094)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -151,7 +184,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 50 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 18 (36)
 - **Weapons:**

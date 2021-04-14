@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 73 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +20,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 73 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3120)
 - **Chassis:** 20 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 73 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2923)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 200
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2973)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2974)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 200
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -55,7 +55,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3076)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 217 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

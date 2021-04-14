@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3068)
 - **Chassis:** 55 tons (Composite)
-- **Movement:** 7 / 11 (14) / 7, XXL
+- **Movement:** 7 / 11 (14), XXL
+  - **Jumping:** 7
 - **Armor:** 185 (Heavy Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -21,7 +22,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3068)
 - **Chassis:** 55 tons (Composite)
-- **Movement:** 7 / 11 / 0, XXL
+- **Movement:** 7 / 11, XXL
 - **Armor:** 185 (Heavy Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2665)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 28 (28)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2683)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 28 (28)
 - **Weapons:**
@@ -30,7 +30,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2815)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 23 (23)
 - **Weapons:**
@@ -44,7 +44,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2980)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 28 (28)
 - **Weapons:**
@@ -59,7 +59,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 247
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -74,7 +74,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 80 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 247
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -91,7 +91,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 247
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -106,7 +106,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0, Compact
+- **Movement:** 3 / 5, Compact
 - **Armor:** 247
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 18 (36)
@@ -122,7 +122,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 247
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -137,7 +137,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 80 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 241 (Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 16 (32)
@@ -150,7 +150,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3079)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 20 (40)
@@ -164,7 +164,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 80 tons
-- **Movement:** 3 / 5 (6) / 0, XL
+- **Movement:** 3 / 5 (6), XL
 - **Armor:** 208 (Stealth)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
@@ -185,7 +185,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3142)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 240
 - **Heat Sinks:** 23 (46)
 - **Weapons:**

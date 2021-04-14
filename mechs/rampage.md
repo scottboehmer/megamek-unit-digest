@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2735)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 224
 - **Heat Sinks:** 23 (23)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, XL
+- **Movement:** 4 / 6 (8), XL
 - **Armor:** 248
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -37,7 +37,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -57,7 +57,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2767)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 0, XL
+- **Movement:** 4 / 6 (8), XL
 - **Armor:** 256
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

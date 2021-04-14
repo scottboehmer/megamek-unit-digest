@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2652)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 232
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -17,7 +17,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3047)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 240
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -49,7 +49,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 241 (Ferro Fibrous)
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -63,7 +63,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 256
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -79,7 +79,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 263
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -96,7 +96,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 263 (Stealth)
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
@@ -113,7 +113,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6 / 0, Light
+- **Movement:** 4 / 6, Light
 - **Armor:** 240
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -131,7 +131,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 80 tons Quad
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 263 (Stealth)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
@@ -144,4 +144,45 @@
   - Guardian ECM Suite
 - **Source:** Dark Age
 - **Battle Value:** 1708
+
+## Goliath GOL-6M
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3083)
+- **Chassis:** 80 tons Quad
+- **Movement:** 3 / 5
+- **Armor:** 232
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Small VSP Laser × 2
+  - ER Medium Laser × 2
+  - Gauss Rifle (ammo: 16)
+  - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
+- **Equipment:**
+  - Quad Turret
+  - CASE
+- **Source:** Dark Age
+- **Battle Value:** 1742
+
+## Goliath C
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere Mixed (3143)
+- **Chassis:** 80 tons Quad
+- **Movement:** 3 / 5
+- **Armor:** 232
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Clan Gauss Rifle (ammo: 16)
+  - Clan ER Large Laser
+  - Clan Micro Pulse Laser
+  - Clan ATM 9 (ammo: 14)
+  - Clan ER Medium Laser
+- **Equipment:**
+  - B-Pod × 4
+  - Quad Turret
+  - Clan CASE II
+  - Clan Targeting Computer
+- **Source:** ilClan Vol 1 - Dark Age
+- **Battle Value:** 2224
 

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -47,7 +47,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -62,7 +62,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3058)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -78,7 +78,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3061)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 4, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 4
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -95,7 +96,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3063)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -110,7 +111,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3071)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -128,7 +130,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3071)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -144,7 +146,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3071)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 112 (Laser Reflective)
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)
@@ -161,7 +164,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3089)
 - **Chassis:** 35 tons (Composite)
-- **Movement:** 5 / 8 / 8, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 8
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -174,7 +178,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3093)
 - **Chassis:** 35 tons (Composite)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 11 (22)
@@ -191,7 +195,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3099)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -208,7 +212,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3132)
 - **Chassis:** 35 tons (Composite)
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

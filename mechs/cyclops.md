@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2710)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2753)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -34,7 +34,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 272
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -48,7 +48,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3045)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -63,7 +63,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3045)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 160
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -80,7 +80,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -96,7 +96,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 268 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -113,7 +113,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 216
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -130,7 +130,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -144,7 +144,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 90 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 241 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -161,7 +161,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 192
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -178,7 +178,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 90 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 238 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

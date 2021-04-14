@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 35 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 64
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 35 tons
-- **Movement:** 5 (6) / 8 (9) / 0
+- **Movement:** 5 (6) / 8 (9)
 - **Armor:** 64
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (12)
@@ -34,7 +34,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3030)
 - **Chassis:** 35 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 104
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -48,7 +48,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3031)
 - **Chassis:** 35 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 112
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -62,7 +63,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -81,7 +82,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3053)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -98,7 +99,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -117,7 +118,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -135,7 +136,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
@@ -154,7 +155,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -173,7 +174,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 35 tons
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -191,7 +192,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0, XL
+- **Movement:** 8 / 12, XL
 - **Armor:** 96 (Stealth)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)

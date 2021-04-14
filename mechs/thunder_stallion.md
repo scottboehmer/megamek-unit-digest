@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2850)
 - **Chassis:** 85 tons Quad
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2877)
 - **Chassis:** 85 tons Quad
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -33,7 +33,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3069)
 - **Chassis:** 85 tons Quad
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 279
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

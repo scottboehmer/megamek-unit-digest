@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 56
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -18,7 +18,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 56
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -32,7 +32,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 56
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small

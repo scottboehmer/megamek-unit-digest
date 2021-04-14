@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -21,7 +21,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -38,7 +38,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -56,7 +56,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -74,7 +74,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -90,7 +90,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3050)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -106,7 +106,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3050)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -124,7 +125,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 4, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 4
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -141,7 +143,8 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -158,7 +161,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -174,7 +177,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -190,7 +193,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -204,11 +207,28 @@
 - **Source:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion
 - **Battle Value:** 2829
 
+## Mad Cat (Timber Wolf) M
+- **Role:** Brawler
+- **Tech Base:** Clan (3068)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 230 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER PPC × 2
+  - Large Pulse Laser
+  - LRM 5 × 4 (ammo: 48)
+  - Heavy Flamer (ammo: 10)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2741
+
 ## Mad Cat (Timber Wolf) (Bounty Hunter 2)
 - **Role:** Brawler
 - **Tech Base:** Clan (3068)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 3, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 3
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -229,7 +249,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3069)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -246,7 +266,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -259,11 +279,29 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2923
 
+## Mad Cat (Timber Wolf) U
+- **Role:** Sniper
+- **Tech Base:** Clan (3077)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Underwater:** 4
+- **Armor:** 230 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ER Micro Laser × 2
+  - LRT 15 w/ Artemis IV × 2 (ammo: 16)
+- **Equipment:**
+  - HarJel × 3
+  - CASE
+- **Source:** RS 3085 - Jihad
+- **Battle Value:** 2627
+
 ## Mad Cat (Timber Wolf) W
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3100)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -280,7 +318,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3129)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -299,7 +337,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3142)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

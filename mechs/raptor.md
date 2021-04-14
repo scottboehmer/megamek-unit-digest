@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -44,7 +44,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -59,7 +59,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -77,7 +77,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -90,7 +90,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -106,7 +106,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 7, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
 - **Armor:** 56
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -118,7 +119,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 0, XL
+- **Movement:** 7 / 11, XL
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -127,4 +128,18 @@
   - ER Small Laser
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 857
+
+## Raptor RTX1-OU
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 / 11, XL
+  - **Underwater:** 7
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - SRT 4 × 2 (ammo: 25)
+- **Source:** TRO 3085 - Jihad
+- **Battle Value:** 914
 

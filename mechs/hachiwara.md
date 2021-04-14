@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 200
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -21,7 +21,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 200
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
@@ -41,7 +41,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 (10) / 0, XL
+- **Movement:** 5 / 8 (10), XL
 - **Armor:** 200
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
@@ -60,7 +60,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 (6) / 7 (8) / 0, XL
+- **Movement:** 5 (6) / 7 (8), XL
 - **Armor:** 208 (Hardened)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)

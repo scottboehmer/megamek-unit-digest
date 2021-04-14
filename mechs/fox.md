@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (2835)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 / 0, XL
+- **Movement:** 6 / 9, XL
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**

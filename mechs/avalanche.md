@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -34,7 +36,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -50,7 +53,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -66,7 +70,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -82,7 +87,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3133)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

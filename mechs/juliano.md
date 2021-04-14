@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3116)
 - **Chassis:** 90 tons (Endo Composite)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 279 (Light Ferro Fibrous)
 - **Cockpit:** Armored
 - **Heat Sinks:** 16 (32)

@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2851)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2852)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -32,7 +34,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -48,7 +51,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3065)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -62,7 +66,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -77,7 +82,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 8, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 8
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -92,7 +98,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3078)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 6
 - **Armor:** 232
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -108,7 +115,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3086)
 - **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, XXL
+- **Movement:** 5 / 8, XXL
+  - **Jumping:** 7
 - **Armor:** 232
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

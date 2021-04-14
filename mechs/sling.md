@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 6, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 6
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
@@ -16,7 +17,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2766)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 / 6, XL
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 6
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**

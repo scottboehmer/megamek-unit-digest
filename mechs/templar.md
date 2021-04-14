@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -22,7 +22,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -40,7 +41,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -56,7 +57,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -73,7 +75,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -87,7 +89,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -106,7 +108,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 3
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -123,7 +126,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -140,7 +143,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -158,7 +162,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -171,11 +175,32 @@
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1632
 
+## Templar TLR1-OU
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3078)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+  - **Underwater:** 4
+- **Armor:** 263
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - LRT 10 × 2 (ammo: 24)
+  - Large Pulse Laser
+  - SRT 6 (ammo: 15)
+  - Medium Pulse Laser × 3
+- **Equipment:**
+  - HarJel × 4
+  - CASE
+  - C3 Slave
+- **Source:** Jihad
+- **Battle Value:** 1747
+
 ## Templar TLR1-OH
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 263
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -192,7 +217,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3080)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -208,7 +233,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3100)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -228,7 +253,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3134)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 263
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

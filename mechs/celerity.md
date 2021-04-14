@@ -3,7 +3,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 15 tons Quad (Endo Steel)
-- **Movement:** 16 / 24 (32) / 0, XXL
+- **Movement:** 16 / 24 (32), XXL
 - **Armor:** 16
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -19,7 +19,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
-- **Movement:** 16 / 24 (32) / 0, XXL
+- **Movement:** 16 / 24 (32), XXL
 - **Armor:** 24
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -36,7 +36,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
-- **Movement:** 16 / 24 (32) / 0, XXL
+- **Movement:** 16 / 24 (32), XXL
 - **Armor:** 24
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -52,7 +52,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
-- **Movement:** 16 / 24 (32) / 0, XXL
+- **Movement:** 16 / 24 (32), XXL
 - **Armor:** 24
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -69,7 +69,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
-- **Movement:** 16 / 24 (32) / 0, XXL
+- **Movement:** 16 / 24 (32), XXL
 - **Armor:** 24
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -86,7 +86,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere Mixed (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
-- **Movement:** 16 / 24 (32) / 0, XXL
+- **Movement:** 16 / 24 (32), XXL
 - **Armor:** 24
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small
@@ -104,7 +104,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere Mixed (3138)
 - **Chassis:** 15 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 24
 - **Gyroscope:** XL Gyro
 - **Cockpit:** Small

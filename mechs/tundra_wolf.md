@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 231
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -23,7 +24,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 224
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -42,7 +44,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3076)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 176
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -61,7 +64,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3077)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 231
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -80,7 +84,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3086)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 231
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

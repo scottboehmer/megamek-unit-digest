@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3066)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 200
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -18,7 +18,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3073)
 - **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 200
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

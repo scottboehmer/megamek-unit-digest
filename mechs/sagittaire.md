@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 3, XL
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
 - **Armor:** 288
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -37,7 +39,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3084)
 - **Chassis:** 95 tons
-- **Movement:** 3 / 5 / 5, Light
+- **Movement:** 3 / 5, Light
+  - **Jumping:** 5
 - **Armor:** 288
 - **Cockpit:** Small
 - **Heat Sinks:** 18 (36)
@@ -50,7 +53,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 95 tons (Endo Composite)
-- **Movement:** 3 / 5 / 3, Light
+- **Movement:** 3 / 5, Light
+  - **Jumping:** 3
 - **Armor:** 288
 - **Cockpit:** Small
 - **Heat Sinks:** 14 (28)

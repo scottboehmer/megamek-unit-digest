@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3137)
 - **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 4 / 0
+- **Movement:** 3 / 4
 - **Armor:** 216 (Hardened)
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Torso-Mounted

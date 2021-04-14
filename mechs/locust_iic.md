@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2832)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -16,7 +16,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2837)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2853)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -44,7 +44,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -59,7 +59,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3064)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -72,7 +72,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3075)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -88,7 +88,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3076)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12 / 0
+- **Movement:** 8 / 12
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -104,7 +104,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3084)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 12 / 18 / 0, XL
+- **Movement:** 12 / 18, XL
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -116,7 +116,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3085)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 14 / 21 / 0, XXL
+- **Movement:** 14 / 21, XXL
 - **Armor:** 89 (Heavy Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)

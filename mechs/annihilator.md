@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2779)
 - **Chassis:** 100 tons
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 304
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -19,7 +19,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2823)
 - **Chassis:** 100 tons
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 296
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (2844)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -44,7 +44,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2848)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 256
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -59,7 +59,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (2850)
 - **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 256
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -74,7 +74,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3009)
 - **Chassis:** 100 tons
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 200
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
@@ -87,7 +87,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 100 tons
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 216
 - **Heat Sinks:** 41 (41)
 - **Weapons:**
@@ -99,7 +99,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 100 tons
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 200
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -114,7 +114,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 100 tons
-- **Movement:** 2 / 3 / 0, Compact
+- **Movement:** 2 / 3, Compact
 - **Armor:** 307 (Light Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
@@ -131,7 +131,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 100 tons
-- **Movement:** 2 / 3 / 0
+- **Movement:** 2 / 3
 - **Armor:** 232
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 15 (30)

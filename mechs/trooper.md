@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 20 tons
-- **Movement:** 7 / 11 / 0
+- **Movement:** 7 / 11
 - **Armor:** 32 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)

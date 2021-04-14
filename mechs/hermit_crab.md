@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3104)
 - **Chassis:** 25 tons
-- **Movement:** 7 / 11 / 7
+- **Movement:** 7 / 11
+  - **Jumping:** 7
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -15,7 +16,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3108)
 - **Chassis:** 25 tons
-- **Movement:** 7 / 11 / 6
+- **Movement:** 7 / 11
+  - **Jumping:** 6
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -27,7 +29,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3108)
 - **Chassis:** 25 tons
-- **Movement:** 7 / 11 / 0
+- **Movement:** 7 / 11
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

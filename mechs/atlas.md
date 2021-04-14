@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2750)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -21,7 +21,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2755)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -36,7 +36,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2776)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -53,7 +53,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2892)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -68,7 +68,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2954)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -83,7 +83,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3025)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 26 (26)
 - **Weapons:**
@@ -95,7 +95,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
@@ -108,7 +108,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -126,7 +126,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
@@ -145,7 +145,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -164,7 +164,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -180,7 +180,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, XL
+- **Movement:** 3 / 5, XL
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -199,7 +199,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -215,7 +215,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3050)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 26 (26)
 - **Weapons:**
@@ -231,7 +231,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3061)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, Light
+- **Movement:** 3 / 5, Light
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -248,7 +248,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0, Light
+- **Movement:** 3 / 5, Light
 - **Armor:** 304
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -267,7 +267,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 100 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 304
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
@@ -285,7 +285,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3074)
 - **Chassis:** 100 tons
-- **Movement:** 3 (4) / 5 (6) / 0
+- **Movement:** 3 (4) / 5 (6)
 - **Armor:** 307
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
@@ -305,7 +305,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 100 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 295 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -322,7 +322,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 100 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 295 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -338,7 +338,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3083)
 - **Chassis:** 100 tons
-- **Movement:** 4 / 6 / 3, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 3
 - **Armor:** 307 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -355,7 +356,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3098)
 - **Chassis:** 100 tons
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 295 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**

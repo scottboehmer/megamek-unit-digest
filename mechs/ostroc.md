@@ -3,7 +3,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2511)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -17,7 +17,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2729)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -31,7 +31,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2793)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -43,7 +44,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2876)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -55,7 +56,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2884)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -69,7 +70,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3028)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 184
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -82,7 +84,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 144
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -96,7 +98,7 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -111,7 +113,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 168 (Stealth)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -126,7 +129,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, Light
+- **Movement:** 5 / 8, Light
+  - **Jumping:** 5
 - **Armor:** 201 (Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
 - **Cockpit:** Small
@@ -143,7 +147,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6
+- **Movement:** 4 / 6
+  - **Jumping:** 6
 - **Armor:** 152
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 11 (22)
@@ -157,7 +162,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3082)
 - **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 188 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

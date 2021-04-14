@@ -3,7 +3,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Clan (2856)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 96
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Ambusher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 112
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -31,7 +33,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3062)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 96
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -46,7 +49,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3075)
 - **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 112
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3062)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 3
 - **Armor:** 249 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -19,7 +20,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3069)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 3
 - **Armor:** 249 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -36,7 +38,7 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3082)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 0, XL
+- **Movement:** 4 / 6, XL
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -53,7 +55,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3083)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 5 / 4, XL
+- **Movement:** 4 / 5, XL
+  - **Jumping:** 4
 - **Armor:** 200 (Hardened)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -68,7 +71,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3090)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
@@ -84,7 +88,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3109)
 - **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6 / 6, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 6
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -96,4 +101,20 @@
   - Light Active Probe
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2491
+
+## Mad Cat Mk II 6
+- **Role:** Sniper
+- **Tech Base:** Clan (3139)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
+- **Armor:** 249 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Medium Laser × 4
+- **Equipment:**
+  - HarJel III × 7
+- **Source:** RS 3145 NT NU
+- **Battle Value:** 2671
 

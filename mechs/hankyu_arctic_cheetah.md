@@ -3,7 +3,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -22,7 +23,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -38,7 +40,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -55,7 +58,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -71,7 +75,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -86,7 +91,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -101,7 +107,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -119,7 +126,8 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3093)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12 / 6, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 6
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

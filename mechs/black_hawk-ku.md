@@ -3,7 +3,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -17,7 +18,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -31,7 +33,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -44,7 +47,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -57,7 +61,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -70,7 +75,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -85,7 +91,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3059)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -100,7 +107,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -112,7 +120,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
@@ -127,7 +136,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3070)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -141,7 +151,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -156,7 +167,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3089)
 - **Chassis:** 60 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2459)
 - **Chassis:** 70 tons
-- **Movement:** 3 / 5 / 0
+- **Movement:** 3 / 5
 - **Armor:** 144 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 18 (18)
@@ -19,7 +19,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -33,7 +34,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2480)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
@@ -47,7 +48,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3073)
 - **Chassis:** 70 tons
-- **Movement:** 4 / 6 / 4, Light
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
 - **Armor:** 217 (Light Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

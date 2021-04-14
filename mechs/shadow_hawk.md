@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2467)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 150 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -17,7 +18,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2550)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 3
+- **Movement:** 5 / 8
+  - **Jumping:** 3
 - **Armor:** 152
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -32,7 +34,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 3
+- **Movement:** 5 / 8
+  - **Jumping:** 3
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -48,7 +51,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2796)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 3
+- **Movement:** 5 / 8
+  - **Jumping:** 3
 - **Armor:** 72
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
@@ -63,7 +67,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2803)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 3
+- **Movement:** 5 / 8
+  - **Jumping:** 3
 - **Armor:** 152
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -76,7 +81,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3048)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -93,7 +99,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 3
+- **Movement:** 5 / 8
+  - **Jumping:** 3
 - **Armor:** 104
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -108,7 +115,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3050)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 152
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
@@ -123,7 +131,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -139,7 +148,8 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 5, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 5
 - **Armor:** 184
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -158,7 +168,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 170 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -174,7 +185,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -191,7 +203,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -208,7 +221,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, Light
+- **Movement:** 5 / 8, Light
+  - **Jumping:** 5
 - **Armor:** 178 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -225,7 +239,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3068)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -240,7 +255,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, Light
+- **Movement:** 5 / 8, Light
+  - **Jumping:** 5
 - **Armor:** 185 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -258,7 +274,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3075)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 158 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -275,7 +292,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 / 4, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 4
 - **Armor:** 178 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -291,7 +309,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 7, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 7
 - **Armor:** 152
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
@@ -309,7 +328,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3, XL
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 3
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -326,7 +346,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 / 5, Light
+- **Movement:** 5 / 8, Light
+  - **Jumping:** 5
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -343,7 +364,8 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3101)
 - **Chassis:** 55 tons
-- **Movement:** 5 / 8 / 5
+- **Movement:** 5 / 8
+  - **Jumping:** 5
 - **Armor:** 168
 - **Heat Sinks:** 12 (24)
 - **Weapons:**

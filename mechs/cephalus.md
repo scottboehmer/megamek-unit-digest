@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 / 15 / 7, XXL
+- **Movement:** 10 / 15, XXL
+  - **Jumping:** 7
 - **Armor:** 84 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Equipment:**
@@ -19,7 +20,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 84 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -37,7 +38,7 @@
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 84 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -54,7 +55,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 84 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -71,7 +72,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 10 / 15 / 0, XXL
+- **Movement:** 10 / 15, XXL
 - **Armor:** 84 (Ferro Lamellor)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -83,4 +84,22 @@
   - Light TAG
 - **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1284
+
+## Cephalus U
+- **Role:** Scout
+- **Tech Base:** Clan Mixed (3072)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 10 / 15, XXL
+  - **Underwater:** 7
+- **Armor:** 84 (Ferro Lamellor)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRT 5 (ammo: 24)
+- **Equipment:**
+  - Inner Sphere Null-Signature System
+  - Inner Sphere Chameleon LPS
+  - Nova CEWS
+  - CASE
+- **Source:** WoR - Jihad Supplement
+- **Battle Value:** 878
 

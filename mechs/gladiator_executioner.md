@@ -3,7 +3,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -37,7 +39,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -55,7 +58,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -73,7 +77,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
@@ -92,7 +97,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -110,7 +116,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -129,7 +136,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -147,7 +155,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -165,7 +174,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -183,7 +193,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3089)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (10) / 4, XL
+- **Movement:** 4 / 6 (10), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -200,7 +211,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3100)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
@@ -219,7 +231,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3101)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (10) / 4, XL
+- **Movement:** 4 / 6 (10), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
@@ -238,7 +251,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3104)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -254,7 +268,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3119)
 - **Chassis:** 95 tons
-- **Movement:** 4 / 6 (8) / 4, XL
+- **Movement:** 4 / 6 (8), XL
+  - **Jumping:** 4
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**

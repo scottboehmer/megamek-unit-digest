@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Clan (2846)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
@@ -22,7 +23,8 @@
 - **Role:** Brawler
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

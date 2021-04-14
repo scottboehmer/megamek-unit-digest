@@ -3,7 +3,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (2926)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -25,7 +25,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -45,7 +45,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -62,7 +62,7 @@
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -79,7 +79,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -97,7 +97,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -113,7 +113,8 @@
 - **Role:** Scout
 - **Tech Base:** Clan (3058)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -132,7 +133,7 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -152,7 +153,7 @@
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3069)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -168,7 +169,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 5, XL
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -180,11 +182,27 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2304
 
+## Loki (Hellbringer) G
+- **Role:** Skirmisher
+- **Tech Base:** Clan Mixed (3112)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8, XL
+- **Armor:** 128
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Improved Heavy Large Laser
+  - ER Small Laser × 3
+  - Inner Sphere Improved Heavy Gauss Rifle (ammo: 12)
+- **Equipment:**
+  - CASE
+- **Source:** RS 3145 NTNU - Late Republic
+- **Battle Value:** 1956
+
 ## Loki (Hellbringer) T
 - **Role:** Sniper
 - **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons
-- **Movement:** 5 / 8 / 0, XL
+- **Movement:** 5 / 8, XL
 - **Armor:** 128
 - **Heat Sinks:** 17 (34)
 - **Weapons:**

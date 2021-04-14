@@ -3,7 +3,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 192
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3055)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -34,7 +36,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3055)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 / 3
+- **Movement:** 5 / 8
+  - **Jumping:** 3
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
@@ -48,7 +51,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 (5) / 6 (8) / 0, Light
+- **Movement:** 4 (5) / 6 (8), Light
 - **Armor:** 208
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
@@ -66,7 +69,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -82,7 +86,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 4
+- **Movement:** 4 / 6
+  - **Jumping:** 4
 - **Armor:** 192
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
@@ -100,7 +105,8 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6 / 3
+- **Movement:** 4 / 6
+  - **Jumping:** 3
 - **Armor:** 192
 - **Heat Sinks:** 14 (28)
 - **Weapons:**

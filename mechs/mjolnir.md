@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3077)
 - **Chassis:** 25 tons
-- **Movement:** 6 (7) / 9 (11) / 6
+- **Movement:** 6 (7) / 9 (11)
+  - **Jumping:** 6
 - **Armor:** 80 (Ferro Fibrous)
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (10)
@@ -18,7 +19,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 25 tons
-- **Movement:** 6 (7) / 9 (11) / 6, XL
+- **Movement:** 6 (7) / 9 (11), XL
+  - **Jumping:** 6
 - **Armor:** 80 (Ferro Fibrous)
 - **Gyroscope:** XL Gyro
 - **Myomer:** Triple-Strength

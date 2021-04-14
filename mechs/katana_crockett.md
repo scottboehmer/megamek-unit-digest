@@ -3,7 +3,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3035)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 200
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -18,7 +19,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 200
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -34,7 +36,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 200
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
@@ -50,7 +53,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 5
+- **Movement:** 3 / 5
+  - **Jumping:** 5
 - **Armor:** 200
 - **Heat Sinks:** 15 (30)
 - **Weapons:**

@@ -3,7 +3,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2777)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2850)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 232 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
@@ -36,7 +38,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3005)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 248
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -52,7 +55,8 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3029)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 248
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
@@ -68,7 +72,8 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3071)
 - **Chassis:** 85 tons
-- **Movement:** 3 / 5 / 3
+- **Movement:** 3 / 5
+  - **Jumping:** 3
 - **Armor:** 248
 - **Heat Sinks:** 16 (16)
 - **Weapons:**

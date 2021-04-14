@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2481)
 - **Chassis:** 35 tons
-- **Movement:** 4 / 6 / 0
+- **Movement:** 4 / 6
 - **Armor:** 112 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -17,7 +17,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2548)
 - **Chassis:** 35 tons
-- **Movement:** 5 / 8 / 0
+- **Movement:** 5 / 8
 - **Armor:** 104
 - **Heat Sinks:** 10 (10)
 - **Weapons:**

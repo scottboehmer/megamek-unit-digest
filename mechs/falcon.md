@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2582)
 - **Chassis:** 30 tons
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 96
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -17,7 +18,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2776)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -29,7 +31,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2792)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -41,7 +44,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2795)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -54,7 +58,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9 / 6
+- **Movement:** 6 / 9
+  - **Jumping:** 6
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -66,7 +71,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3050)
 - **Chassis:** 30 tons
-- **Movement:** 6 / 9 / 5
+- **Movement:** 6 / 9
+  - **Jumping:** 5
 - **Armor:** 96
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -81,7 +87,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 30 tons
-- **Movement:** 6 / 9 (12) / 5, Light
+- **Movement:** 6 / 9 (12), Light
+  - **Jumping:** 5
 - **Armor:** 80
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
@@ -97,7 +104,8 @@
 - **Role:** Sniper
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons
-- **Movement:** 6 / 9 / 5
+- **Movement:** 6 / 9
+  - **Jumping:** 5
 - **Armor:** 96 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

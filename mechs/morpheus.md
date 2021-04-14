@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3051)
 - **Chassis:** 65 tons
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -20,7 +21,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3062)
 - **Chassis:** 65 tons
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 208 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -37,7 +39,8 @@
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3064)
 - **Chassis:** 65 tons
-- **Movement:** 6 / 9 / 6, XL
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
 - **Armor:** 208 (Reactive)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
@@ -46,4 +49,23 @@
   - Laser Anti-Missile System
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1925
+
+## Morpheus MRP-3W
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3066)
+- **Chassis:** 65 tons
+- **Movement:** 6 / 9, XL
+  - **Underwater:** 6
+- **Armor:** 198 (Heavy Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Claw
+  - MagShot Gauss Rifle (ammo: 50)
+- **Equipment:**
+  - Spikes × 2
+  - Guardian ECM Suite
+  - MASS
+- **Source:** TRO 3055 - Civil War
+- **Battle Value:** 1299
 

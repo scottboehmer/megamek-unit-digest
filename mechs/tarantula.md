@@ -3,7 +3,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 25 tons Quad
-- **Movement:** 8 / 12 / 8, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 8
 - **Armor:** 72
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -16,7 +17,8 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3060)
 - **Chassis:** 25 tons Quad
-- **Movement:** 8 / 12 / 8, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 8
 - **Armor:** 72
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -29,7 +31,8 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3063)
 - **Chassis:** 25 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 / 7, XL
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 7
 - **Armor:** 97
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -41,7 +44,7 @@
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 25 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
@@ -56,7 +59,7 @@
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3111)
 - **Chassis:** 25 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 (16) / 0, XL
+- **Movement:** 8 / 12 (16), XL
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**

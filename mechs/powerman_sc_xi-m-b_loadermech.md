@@ -3,7 +3,7 @@
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 35 tons (Industrial)
-- **Movement:** 4 / 6 / 0, IC
+- **Movement:** 4 / 6, IC
 - **Armor:** 60 (Commercial)
 - **Heat Sinks:** 3 (3)
 - **Weapons:**
