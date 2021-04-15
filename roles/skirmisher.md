@@ -1,4 +1,5 @@
 # Skirmisher Units
+
 ## A
 - [Alfar](../mechs/alfar.md)
 - [Anvil](../mechs/anvil.md)
@@ -7,6 +8,7 @@
 - [Argus](../mechs/argus.md)
 - [Avalanche](../mechs/avalanche.md)
 - [Axman](../mechs/axman.md)
+
 ## B
 - [Bakeneko](../mechs/bakeneko.md)
 - [Balius](../mechs/balius.md)
@@ -29,6 +31,7 @@
 - [Bruin](../mechs/bruin.md)
 - [Buccaneer](../mechs/buccaneer.md)
 - [Bushwacker](../mechs/bushwacker.md)
+
 ## C
 - [Caesar](../mechs/caesar.md)
 - [Cataphract](../mechs/cataphract.md)
@@ -43,6 +46,7 @@
 - [Cronus](../mechs/cronus.md)
 - [Crossbow](../mechs/crossbow.md)
 - [Crusader](../mechs/crusader.md)
+
 ## D
 - [Daikyu](../mechs/daikyu.md)
 - [Dark Crow](../mechs/dark_crow.md)
@@ -50,6 +54,7 @@
 - [Doloire](../mechs/doloire.md)
 - [Dominator](../mechs/dominator.md)
 - [Dragon](../mechs/dragon.md)
+
 ## E
 - [Enfield](../mechs/enfield.md)
 - [Enforcer](../mechs/enforcer.md)
@@ -57,12 +62,14 @@
 - [Excalibur](../mechs/excalibur.md)
 - [Exhumer](../mechs/exhumer.md)
 - [Exterminator](../mechs/exterminator.md)
+
 ## F
 - [Falconer](../mechs/falconer.md)
 - [Fennec](../mechs/fennec.md)
 - [Fire Scorpion](../mechs/fire_scorpion.md)
 - [Flamberge](../mechs/flamberge.md)
 - [Flashman](../mechs/flashman.md)
+
 ## G
 - [Gallant](../mechs/gallant.md)
 - [Gallowglas](../mechs/gallowglas.md)
@@ -80,6 +87,7 @@
 - [Guillotine](../mechs/guillotine.md)
 - [Guillotine IIC](../mechs/guillotine_iic.md)
 - [Gyrfalcon](../mechs/gyrfalcon.md)
+
 ## H
 - [Hachiwara](../mechs/hachiwara.md)
 - [Hammerhands](../mechs/hammerhands.md)
@@ -90,16 +98,19 @@
 - [Hellhound (Conjurer)](../mechs/hellhound_conjurer.md)
 - [Hercules](../mechs/hercules.md)
 - [Huron Warrior](../mechs/huron_warrior.md)
+
 ## J
 - [Jade Hawk](../mechs/jade_hawk.md)
 - [JagerMech III](../mechs/jagermech_iii.md)
 - [Jinggau](../mechs/jinggau.md)
+
 ## K
 - [Karhu](../mechs/karhu.md)
 - [Katana (Crockett)](../mechs/katana_crockett.md)
 - [Kintaro](../mechs/kintaro.md)
 - [Koschei](../mechs/koschei.md)
 - [Kuma](../mechs/kuma.md)
+
 ## L
 - [Lancelot](../mechs/lancelot.md)
 - [Lao Hu](../mechs/lao_hu.md)
@@ -109,6 +120,7 @@
 - [Loki (Hellbringer)](../mechs/loki_hellbringer.md)
 - [Lupus](../mechs/lupus.md)
 - [Lynx](../mechs/lynx.md)
+
 ## M
 - [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
 - [Mad Cat III](../mechs/mad_cat_iii.md)
@@ -123,6 +135,7 @@
 - [Merlin](../mechs/merlin.md)
 - [Morpheus](../mechs/morpheus.md)
 - [Mortis](../mechs/mortis.md)
+
 ## N
 - [Neanderthal](../mechs/neanderthal.md)
 - [Night Gyr](../mechs/night_gyr.md)
@@ -131,12 +144,14 @@
 - [No-Dachi](../mechs/no-dachi.md)
 - [Nobori-nin (Huntsman)](../mechs/nobori-nin_huntsman.md)
 - [Nova Cat](../mechs/nova_cat.md)
+
 ## O
 - [Onager](../mechs/onager.md)
 - [Onslaught](../mechs/onslaught.md)
 - [Osprey](../mechs/osprey.md)
 - [Ostroc](../mechs/ostroc.md)
 - [Ostsol](../mechs/ostsol.md)
+
 ## P
 - [Paladin](../mechs/paladin.md)
 - [Pariah (Septicemia)](../mechs/pariah_septicemia.md)
@@ -148,8 +163,10 @@
 - [Prefect](../mechs/prefect.md)
 - [Preta](../mechs/preta.md)
 - [Prowler](../mechs/prowler.md)
+
 ## Q
 - [Quickdraw](../mechs/quickdraw.md)
+
 ## R
 - [Rabid Coyote](../mechs/rabid_coyote.md)
 - [Raijin II](../mechs/raijin_ii.md)
@@ -160,6 +177,7 @@
 - [Ronin](../mechs/ronin.md)
 - [Rook](../mechs/rook.md)
 - [Ryoken (Stormcrow)](../mechs/ryoken_stormcrow.md)
+
 ## S
 - [Sarath](../mechs/sarath.md)
 - [Sasquatch](../mechs/sasquatch.md)
@@ -181,6 +199,7 @@
 - [Starslayer](../mechs/starslayer.md)
 - [Stooping Hawk](../mechs/stooping_hawk.md)
 - [Sun Bear](../mechs/sun_bear.md)
+
 ## T
 - [Templar III](../mechs/templar_iii.md)
 - [Tessen](../mechs/tessen.md)
@@ -194,9 +213,11 @@
 - [Ti Ts'ang](../mechs/ti_ts'ang.md)
 - [Tolva](../mechs/tolva.md)
 - [Trebuchet](../mechs/trebuchet.md)
+
 ## U
 - [Ursa](../mechs/ursa.md)
 - [Ursus II](../mechs/ursus_ii.md)
+
 ## V
 - [Vandal](../mechs/vandal.md)
 - [Verfolger](../mechs/verfolger.md)
@@ -209,6 +230,7 @@
 - [Vulpes](../mechs/vulpes.md)
 - [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
 - [Vulture Mk III (Mad Dog Mk III)](../mechs/vulture_mk_iii_mad_dog_mk_iii.md)
+
 ## W
 - [War Crow](../mechs/war_crow.md)
 - [Warhammer](../mechs/warhammer.md)
@@ -227,9 +249,12 @@
 - [Wraith](../mechs/wraith.md)
 - [Wyvern](../mechs/wyvern.md)
 - [Wyvern IIC](../mechs/wyvern_iic.md)
+
 ## X
 - [Xanthos](../mechs/xanthos.md)
+
 ## Y
 - [Yu Huang](../mechs/yu_huang.md)
+
 ## Z
 - [Zeus-X](../mechs/zeus-x.md)

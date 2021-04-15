@@ -13,6 +13,7 @@
 ## Variants
 - [List of Variants](variants.md)
 
+
 ## A
 - [Agrotera](mechs/agrotera.md)
 - [Akuma](mechs/akuma.md)
@@ -41,6 +42,7 @@
 - [Avatar](mechs/avatar.md)
 - [Awesome](mechs/awesome.md)
 - [Axman](mechs/axman.md)
+
 ## B
 - [Baboon (Howler)](mechs/baboon_howler.md)
 - [Bakeneko](mechs/bakeneko.md)
@@ -90,6 +92,7 @@
 - [Buster BC XV-M-W HaulerMech](mechs/buster_bc_xv-m-w_haulermech.md)
 - [Buster BC XXI HaulerMech](mechs/buster_bc_xxi_haulermech.md)
 - [Butcherbird (Ion Sparrow)](mechs/butcherbird_ion_sparrow.md)
+
 ## C
 - [Cadaver](mechs/cadaver.md)
 - [Caesar](mechs/caesar.md)
@@ -147,6 +150,7 @@
 - [Cuirass](mechs/cuirass.md)
 - [Cyclops](mechs/cyclops.md)
 - [Cygnus](mechs/cygnus.md)
+
 ## D
 - [Daboku](mechs/daboku.md)
 - [Daedalus](mechs/daedalus.md)
@@ -176,6 +180,7 @@
 - [Dragoon](mechs/dragoon.md)
 - [Drift Shag](mechs/drift_shag.md)
 - [Duan Gung](mechs/duan_gung.md)
+
 ## E
 - [Eagle](mechs/eagle.md)
 - [Ebony](mechs/ebony.md)
@@ -191,6 +196,7 @@
 - [Exterminator](mechs/exterminator.md)
 - [Eyleuka](mechs/eyleuka.md)
 - [Eyrie](mechs/eyrie.md)
+
 ## F
 - [Fafnir](mechs/fafnir.md)
 - [Falcon](mechs/falcon.md)
@@ -211,6 +217,7 @@
 - [ForestryMech](mechs/forestrymech.md)
 - [Fox](mechs/fox.md)
 - [Fwltur](mechs/fwltur.md)
+
 ## G
 - [Galahad](mechs/galahad.md)
 - [Galahad (Glass Spider)](mechs/galahad_glass_spider.md)
@@ -248,6 +255,7 @@
 - [Gunsmith](mechs/gunsmith.md)
 - [Gurkha](mechs/gurkha.md)
 - [Gyrfalcon](mechs/gyrfalcon.md)
+
 ## H
 - [Ha Otoko](mechs/ha_otoko.md)
 - [Hachiwara](mechs/hachiwara.md)
@@ -298,6 +306,7 @@
 - [Huron Warrior](mechs/huron_warrior.md)
 - [Hussar](mechs/hussar.md)
 - [Hyena](mechs/hyena.md)
+
 ## I
 - [Icarus](mechs/icarus.md)
 - [Icarus II](mechs/icarus_ii.md)
@@ -307,6 +316,7 @@
 - [Inferno](mechs/inferno.md)
 - [Initiate](mechs/initiate.md)
 - [Inquisitor II](mechs/inquisitor_ii.md)
+
 ## J
 - [Jabberwocky ConstructionMech](mechs/jabberwocky_constructionmech.md)
 - [Jabberwocky DemolitionMech](mechs/jabberwocky_demolitionmech.md)
@@ -326,6 +336,7 @@
 - [Juggernaut](mechs/juggernaut.md)
 - [Juliano](mechs/juliano.md)
 - [Jupiter](mechs/jupiter.md)
+
 ## K
 - [Kabuto](mechs/kabuto.md)
 - [Karhu](mechs/karhu.md)
@@ -347,6 +358,7 @@
 - [Kraken-XR](mechs/kraken-xr.md)
 - [Kuma](mechs/kuma.md)
 - [Kyudo](mechs/kyudo.md)
+
 ## L
 - [Lament](mechs/lament.md)
 - [Lancelot](mechs/lancelot.md)
@@ -368,6 +380,7 @@
 - [Lumberjack](mechs/lumberjack.md)
 - [Lupus](mechs/lupus.md)
 - [Lynx](mechs/lynx.md)
+
 ## M
 - [Mackie](mechs/mackie.md)
 - [Mad Cat (Timber Wolf)](mechs/mad_cat_timber_wolf.md)
@@ -402,6 +415,7 @@
 - [Morpheus](mechs/morpheus.md)
 - [Morrigan](mechs/morrigan.md)
 - [Mortis](mechs/mortis.md)
+
 ## N
 - [Naga](mechs/naga.md)
 - [Naginata](mechs/naginata.md)
@@ -419,6 +433,7 @@
 - [Nobori-nin (Huntsman)](mechs/nobori-nin_huntsman.md)
 - [Nova Cat](mechs/nova_cat.md)
 - [Nyx](mechs/nyx.md)
+
 ## O
 - [O-Bakemono](mechs/o-bakemono.md)
 - [Ocelot](mechs/ocelot.md)
@@ -437,6 +452,7 @@
 - [Ostsol](mechs/ostsol.md)
 - [Ostwar](mechs/ostwar.md)
 - [Owens](mechs/owens.md)
+
 ## P
 - [Pack Hunter](mechs/pack_hunter.md)
 - [Pack Hunter II](mechs/pack_hunter_ii.md)
@@ -479,9 +495,11 @@
 - [Prowler](mechs/prowler.md)
 - [Pulverizer](mechs/pulverizer.md)
 - [Puma (Adder)](mechs/puma_adder.md)
+
 ## Q
 - [Quasit MilitiaMech](mechs/quasit_militiamech.md)
 - [Quickdraw](mechs/quickdraw.md)
+
 ## R
 - [Rabid Coyote](mechs/rabid_coyote.md)
 - [Raider](mechs/raider.md)
@@ -513,6 +531,7 @@
 - [Ryoken (Stormcrow)](mechs/ryoken_stormcrow.md)
 - [Ryoken II](mechs/ryoken_ii.md)
 - [Ryoken III-XP](mechs/ryoken_iii-xp.md)
+
 ## S
 - [Sagittaire](mechs/sagittaire.md)
 - [Salamander](mechs/salamander.md)
@@ -583,6 +602,7 @@
 - [Supernova](mechs/supernova.md)
 - [Surtur](mechs/surtur.md)
 - [Swordsman](mechs/swordsman.md)
+
 ## T
 - [Tai-sho](mechs/tai-sho.md)
 - [Talon](mechs/talon.md)
@@ -623,6 +643,7 @@
 - [Tsunami](mechs/tsunami.md)
 - [Tundra Wolf](mechs/tundra_wolf.md)
 - [Turkina](mechs/turkina.md)
+
 ## U
 - [Uller (Kit Fox)](mechs/uller_kit_fox.md)
 - [Uni ATAE-70 CargoMech](mechs/uni_atae-70_cargomech.md)
@@ -634,6 +655,7 @@
 - [Ursus](mechs/ursus.md)
 - [Ursus II](mechs/ursus_ii.md)
 - [Uziel](mechs/uziel.md)
+
 ## V
 - [Valiant](mechs/valiant.md)
 - [Valkyrie](mechs/valkyrie.md)
@@ -656,6 +678,7 @@
 - [Vulture (Mad Dog)](mechs/vulture_mad_dog.md)
 - [Vulture Mk III (Mad Dog Mk III)](mechs/vulture_mk_iii_mad_dog_mk_iii.md)
 - [Vulture Mk IV (Mad Dog Mk IV)](mechs/vulture_mk_iv_mad_dog_mk_iv.md)
+
 ## W
 - [Wakazashi](mechs/wakazashi.md)
 - [War Crow](mechs/war_crow.md)
@@ -684,14 +707,17 @@
 - [Wulfen](mechs/wulfen.md)
 - [Wyvern](mechs/wyvern.md)
 - [Wyvern IIC](mechs/wyvern_iic.md)
+
 ## X
 - [Xanthos](mechs/xanthos.md)
+
 ## Y
 - [Yao Lien](mechs/yao_lien.md)
 - [Yeoman](mechs/yeoman.md)
 - [Yinghuochong](mechs/yinghuochong.md)
 - [Ymir](mechs/ymir.md)
 - [Yu Huang](mechs/yu_huang.md)
+
 ## Z
 - [Zeus](mechs/zeus.md)
 - [Zeus-X](mechs/zeus-x.md)

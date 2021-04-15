@@ -1,4 +1,5 @@
 # Brawler Units
+
 ## A
 - [Albatross](../mechs/albatross.md)
 - [Arbalest](../mechs/arbalest.md)
@@ -9,6 +10,7 @@
 - [Avatar](../mechs/avatar.md)
 - [Awesome](../mechs/awesome.md)
 - [Axman](../mechs/axman.md)
+
 ## B
 - [Bandersnatch](../mechs/bandersnatch.md)
 - [Banshee](../mechs/banshee.md)
@@ -23,6 +25,7 @@
 - [Blood Asp](../mechs/blood_asp.md)
 - [Blood Reaper](../mechs/blood_reaper.md)
 - [Burrock](../mechs/burrock.md)
+
 ## C
 - [Caesar](../mechs/caesar.md)
 - [Calliope](../mechs/calliope.md)
@@ -36,6 +39,7 @@
 - [Crusader](../mechs/crusader.md)
 - [Cyclops](../mechs/cyclops.md)
 - [Cygnus](../mechs/cygnus.md)
+
 ## D
 - [Daimyo](../mechs/daimyo.md)
 - [Defiance](../mechs/defiance.md)
@@ -46,13 +50,16 @@
 - [Doloire](../mechs/doloire.md)
 - [Dragon Fire](../mechs/dragon_fire.md)
 - [Dragoon](../mechs/dragoon.md)
+
 ## E
 - [Eagle](../mechs/eagle.md)
 - [Eisenfaust](../mechs/eisenfaust.md)
+
 ## F
 - [Falcon Hawk](../mechs/falcon_hawk.md)
 - [Firebee](../mechs/firebee.md)
 - [Flashman](../mechs/flashman.md)
+
 ## G
 - [Gallowglas](../mechs/gallowglas.md)
 - [Garm](../mechs/garm.md)
@@ -65,6 +72,7 @@
 - [Great Wyrm](../mechs/great_wyrm.md)
 - [Grigori](../mechs/grigori.md)
 - [Guillotine](../mechs/guillotine.md)
+
 ## H
 - [Ha Otoko](../mechs/ha_otoko.md)
 - [Hammer](../mechs/hammer.md)
@@ -80,22 +88,26 @@
 - [Hoplite](../mechs/hoplite.md)
 - [Hunchback](../mechs/hunchback.md)
 - [Hunchback IIC](../mechs/hunchback_iic.md)
+
 ## I
 - [Icarus](../mechs/icarus.md)
 - [Icarus II](../mechs/icarus_ii.md)
 - [Inferno](../mechs/inferno.md)
 - [Initiate](../mechs/initiate.md)
+
 ## J
 - [Jabberwocky MilitiaMech](../mechs/jabberwocky_militiamech.md)
 - [Jackrabbit](../mechs/jackrabbit.md)
 - [JagerMech](../mechs/jagermech.md)
 - [Juliano](../mechs/juliano.md)
 - [Jupiter](../mechs/jupiter.md)
+
 ## K
 - [Kheper](../mechs/kheper.md)
 - [Kingfisher](../mechs/kingfisher.md)
 - [Kodiak](../mechs/kodiak.md)
 - [Kodiak II](../mechs/kodiak_ii.md)
+
 ## L
 - [Lament](../mechs/lament.md)
 - [Lancelot](../mechs/lancelot.md)
@@ -104,6 +116,7 @@
 - [Loki Mk II (Hel)](../mechs/loki_mk_ii_hel.md)
 - [Lu Wei Bing](../mechs/lu_wei_bing.md)
 - [Lupus](../mechs/lupus.md)
+
 ## M
 - [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
 - [Mad Cat Mk II](../mechs/mad_cat_mk_ii.md)
@@ -117,13 +130,16 @@
 - [Matador](../mechs/matador.md)
 - [Merlin](../mechs/merlin.md)
 - [Minsk](../mechs/minsk.md)
+
 ## N
 - [No-Dachi](../mechs/no-dachi.md)
 - [Nova Cat](../mechs/nova_cat.md)
+
 ## O
 - [Omni-Corvis](../mechs/omni-corvis.md)
 - [Orion](../mechs/orion.md)
 - [Ostwar](../mechs/ostwar.md)
+
 ## P
 - [Panther](../mechs/panther.md)
 - [Pariah (Septicemia)](../mechs/pariah_septicemia.md)
@@ -137,8 +153,10 @@
 - [Powerman SC XI-M LoaderMech](../mechs/powerman_sc_xi-m_loadermech.md)
 - [Powerman SC XI-M-B LoaderMech](../mechs/powerman_sc_xi-m-b_loadermech.md)
 - [Puma (Adder)](../mechs/puma_adder.md)
+
 ## Q
 - [Quasit MilitiaMech](../mechs/quasit_militiamech.md)
+
 ## R
 - [Raider Mk II](../mechs/raider_mk_ii.md)
 - [Rampage](../mechs/rampage.md)
@@ -148,6 +166,7 @@
 - [Rifleman II](../mechs/rifleman_ii.md)
 - [Rifleman III](../mechs/rifleman_iii.md)
 - [Rook](../mechs/rook.md)
+
 ## S
 - [Sagittaire](../mechs/sagittaire.md)
 - [Sarissa](../mechs/sarissa.md)
@@ -166,6 +185,7 @@
 - [Sun Bear](../mechs/sun_bear.md)
 - [Sunder](../mechs/sunder.md)
 - [Swordsman](../mechs/swordsman.md)
+
 ## T
 - [Talos](../mechs/talos.md)
 - [Tempest](../mechs/tempest.md)
@@ -177,13 +197,16 @@
 - [Toro](../mechs/toro.md)
 - [Trebaruna](../mechs/trebaruna.md)
 - [Tundra Wolf](../mechs/tundra_wolf.md)
+
 ## U
 - [Ursus](../mechs/ursus.md)
+
 ## V
 - [Victor](../mechs/victor.md)
 - [Vindicator](../mechs/vindicator.md)
 - [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
 - [Vulture Mk IV (Mad Dog Mk IV)](../mechs/vulture_mk_iv_mad_dog_mk_iv.md)
+
 ## W
 - [War Crow](../mechs/war_crow.md)
 - [War Dog](../mechs/war_dog.md)
@@ -195,10 +218,13 @@
 - [Wight](../mechs/wight.md)
 - [Woodsman](../mechs/woodsman.md)
 - [Wyvern](../mechs/wyvern.md)
+
 ## X
 - [Xanthos](../mechs/xanthos.md)
+
 ## Y
 - [Ymir](../mechs/ymir.md)
+
 ## Z
 - [Zeus](../mechs/zeus.md)
 - [Zeus-X](../mechs/zeus-x.md)
