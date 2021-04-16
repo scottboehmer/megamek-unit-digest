@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2467)
 - **Chassis:** 50 tons
-- **Movement:** 4 / 6
+- **Movement:** 4 / 6, Primitive
   - **Jumping:** 3
 - **Armor:** 150 (Primitive)
 - **Cockpit:** Primitive

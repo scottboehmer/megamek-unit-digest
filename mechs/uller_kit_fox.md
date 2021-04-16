@@ -244,6 +244,24 @@
 - **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 1109
 
+## Uller (Kit Fox) I
+- **Role:** Brawler
+- **Tech Base:** Clan (3101)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 6 (5) / 9 (10), XL
+- **Armor:** 76+60 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - ER Small Laser
+  - ER PPC
+- **Equipment:**
+  - Modular Armor × 6
+  - Supercharger
+  - Targeting Computer
+- **Source:** RS 3145 NTNU - Late Republic
+- **Battle Value:** 1936
+
 ## Uller (Kit Fox) R
 - **Role:** Striker
 - **Tech Base:** Clan (3121)

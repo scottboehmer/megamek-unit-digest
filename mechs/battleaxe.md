@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2459)
 - **Chassis:** 70 tons
-- **Movement:** 3 / 5
+- **Movement:** 3 / 5, Primitive
 - **Armor:** 144 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 18 (18)

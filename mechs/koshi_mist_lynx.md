@@ -182,6 +182,24 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 764
 
+## Koshi (Mist Lynx) Z
+- **Role:** Striker
+- **Tech Base:** Clan (3072)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 7 (6) / 11 (9), XL
+  - **Jumping:** 6
+- **Armor:** 67+10 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - iATM 3 × 2 (ammo: 40)
+- **Equipment:**
+  - Active Probe
+  - CASE
+  - Nova CEWS
+  - Modular Armor
+- **Source:** WoR - Jihad
+- **Battle Value:** 970
+
 ## Koshi (Mist Lynx) I
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3086)

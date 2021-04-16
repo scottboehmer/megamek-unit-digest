@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2619)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6, IC
+- **Movement:** 4 / 6, ICE
 - **Armor:** 80
 - **Heat Sinks:** 0 (0)
 - **Weapons:**

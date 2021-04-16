@@ -246,6 +246,7 @@
 - **CattleMaster CTL-3R3 SecurityMech** *Striker (3072)*
 
 ### [Cephalus](mechs/cephalus.md)
+- **Cephalus  Prime** *Scout (3072)*
 - **Cephalus  A** *Scout (3072)*
 - **Cephalus  B** *Scout (3072)*
 - **Cephalus  C** *Scout (3072)*
@@ -361,6 +362,7 @@
 - **Koshi (Mist Lynx)  P** *Scout (3061)*
 - **Koshi (Mist Lynx)  F** *Scout (3063)*
 - **Koshi (Mist Lynx)  G** *Striker (3068)*
+- **Koshi (Mist Lynx)  Z** *Striker (3072)*
 - **Koshi (Mist Lynx)  I** *Undefined (3086)*
 - **Koshi (Mist Lynx)  J** *Undefined (3107)*
 - **Koshi (Mist Lynx)  K** *Undefined (3112)*
@@ -750,6 +752,7 @@
 - **Uller (Kit Fox)  F** *Sniper (3069)*
 - **Uller (Kit Fox)  U** *Sniper (3077)*
 - **Uller (Kit Fox)  K** *Striker (3088)*
+- **Uller (Kit Fox)  I** *Brawler (3101)*
 - **Uller (Kit Fox)  R** *Striker (3121)*
 - **Uller (Kit Fox)  BLO** *Undefined (3138)*
 - **Uller (Kit Fox)  T** *Scout (3142)*
@@ -1021,6 +1024,9 @@
 
 ### [Powerman SC XV HaulerMech](mechs/powerman_sc_xv_haulermech.md)
 - **Powerman SC XV HaulerMech (Standard)** *Ambusher (2795)*
+
+### [Powerman SC XVI HaulerMech](mechs/powerman_sc_xvi_haulermech.md)
+- **Powerman SC XVI HaulerMech (Standard)** *Ambusher (3068)*
 
 ### [Powerman XI LoaderMech](mechs/powerman_xi_loadermech.md)
 - **Powerman XI LoaderMech (Standard)** *Undefined (2764)*
@@ -2103,6 +2109,7 @@
 - **Trebuchet TBT-7M** *Missile Boat (3048)*
 - **Trebuchet TBT-9K** *Striker (3059)*
 - **Trebuchet TBT-8B** *Missile Boat (3071)*
+- **Trebuchet TBT-XK7** *Skirmisher (3081)*
 - **Trebuchet TBT-K7R** *Skirmisher (3088)*
 - **Trebuchet TBT-7MM 'Merida'** *Undefined (3100)*
 - **Trebuchet TBT-9R** *Missile Boat (3131)*
@@ -2268,6 +2275,7 @@
 - **Grim Reaper GRM-R-PR30** *Skirmisher (3066)*
 - **Grim Reaper GRM-R-PR31** *Skirmisher (3066)*
 - **Grim Reaper GRM-R-PR62A** *Skirmisher (3072)*
+- **Grim Reaper GRM-R (Einar)** *Missile Boat (3073)*
 
 ### [Gyrfalcon](mechs/gyrfalcon.md)
 - **Gyrfalcon (Standard)** *Skirmisher (3112)*
@@ -3439,6 +3447,7 @@
 - **Warhammer WHM-8M** *Sniper (3069)*
 - **Warhammer WHM-10T** *Skirmisher (3073)*
 - **Warhammer WHM-8K** *Sniper (3073)*
+- **Warhammer WHM-X7 'The Lich'** *Brawler (3077)*
 - **Warhammer WHM-5L** *Skirmisher (3081)*
 - **Warhammer WHM-11T** *Skirmisher (3084)*
 - **Warhammer WHD-10CT** *Brawler (3085)*
@@ -4450,6 +4459,7 @@
 - **Banshee BNC-8S** *Brawler (3070)*
 - **Banshee BNC-9S** *Juggernaut (3071)*
 - **Banshee BNC-3Mr** *Sniper (3073)*
+- **Banshee BNC-11X** *Juggernaut (3076)*
 - **Banshee BNC-9S2** *Sniper (3109)*
 
 ### [Cerberus](mechs/cerberus.md)
@@ -4673,6 +4683,7 @@
 - **Devastator DVS-3** *Sniper (3058)*
 
 ### [Diomede](mechs/diomede.md)
+- **Diomede D-M3D-3 ConstructionMech** *Missile Boat (3084)*
 - **Diomede D-M3D-4 DemolitionMech** *Missile Boat (3084)*
 - **Diomede D-M3D-M** *Juggernaut (3092)*
 
@@ -4687,6 +4698,8 @@
 ### [Grand Titan](mechs/grand_titan.md)
 - **Grand Titan T-IT-N10M** *Brawler (3054)*
 - **Grand Titan T-IT-N11M** *Brawler (3058)*
+- **Grand Titan T-IT-N14R 'Vengeance'** *Missile Boat (3075)*
+- **Grand Titan T-IT-N13M** *Sniper (3091)*
 
 ### [Great Turtle](mechs/great_turtle.md)
 - **Great Turtle GTR-1** *Juggernaut (3067)*
@@ -4759,6 +4772,7 @@
 - **Malice MAL-XT** *Juggernaut (3134)*
 - **Malice MAL-XP** *Juggernaut (3139)*
 - **Malice MAL-XV** *Juggernaut (3140)*
+- **Malice MAL-YZ** *Sniper (3142)*
 
 ### [Marauder II](mechs/marauder_ii.md)
 - **Marauder II MAD-4A** *Juggernaut (3012)*

@@ -3,7 +3,7 @@
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 50 tons (Industrial)
-- **Movement:** 3 / 5, IC
+- **Movement:** 3 / 5, ICE
 - **Armor:** 96 (Commercial)
 - **Heat Sinks:** 5 (5)
 - **Weapons:**

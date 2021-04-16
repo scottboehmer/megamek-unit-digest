@@ -42,3 +42,26 @@
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1996
 
+## Malice MAL-YZ
+- **Role:** Sniper
+- **Tech Base:** Clan Mixed (3142)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 4 (3) / 6 (5), Armored XXL
+- **Armor:** 301+70 (Ferro Lamellor)
+- **Gyroscope:** Armored Compact Gyro
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Large Pulse Laser × 2
+  - ER Large Laser × 2
+- **Equipment:**
+  - Laser Anti-Missile System × 2
+  - Modular Armor × 7
+  - Remote Sensor Dispenser × 2
+  - Coolant Pod × 2
+  - Angel ECM Suite
+  - Inner Sphere C3 Slave
+  - TAG
+  - Armored Actuator × 2
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Battle Value:** 2982
+

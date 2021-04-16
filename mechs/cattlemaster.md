@@ -3,7 +3,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6, IC
+- **Movement:** 4 / 6, ICE
 - **Armor:** 48 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -19,7 +19,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3024)
 - **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6, IC
+- **Movement:** 4 / 6, ICE
 - **Armor:** 48 (Industrial)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**

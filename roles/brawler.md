@@ -199,6 +199,7 @@
 - [Tundra Wolf](../mechs/tundra_wolf.md)
 
 ## U
+- [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
 - [Ursus](../mechs/ursus.md)
 
 ## V

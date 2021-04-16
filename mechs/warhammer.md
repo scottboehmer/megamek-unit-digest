@@ -369,6 +369,23 @@
 - **Source:** Jihad
 - **Battle Value:** 1748
 
+## Warhammer WHM-X7 'The Lich'
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere Mixed (3077)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 4 / 6, Armored Light
+- **Armor:** 212 (Light Ferro Fibrous)
+- **Gyroscope:** Heavy-Duty Gyro
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Snub-Nose PPC w/ PPC Capacitor × 2
+  - ER Medium Laser × 4
+  - Clan Streak SRM 6 (ammo: 15)
+- **Equipment:**
+  - CASE II
+- **Source:** XTRO:Gladiators - Jihad
+- **Battle Value:** 1785
+
 ## Warhammer WHM-5L
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3081)

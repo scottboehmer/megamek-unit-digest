@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5, IC
+- **Movement:** 3 / 5, ICE
 - **Armor:** 40
 - **Heat Sinks:** 1 (1)
 - **Weapons:**

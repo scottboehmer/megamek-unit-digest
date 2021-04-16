@@ -74,3 +74,22 @@
   - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1542
 
+## Grim Reaper GRM-R (Einar)
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere Mixed (3073)
+- **Chassis:** 55 tons (Reinforced)
+- **Movement:** 5 (4) / 8 (6), XL
+- **Armor:** 185+40 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan ER Large Laser
+  - Clan ER Medium Laser
+  - Clan LRM 20 w/ Artemis V (ammo: 12)
+- **Equipment:**
+  - Modular Armor × 4
+  - Clan Light TAG
+  - Clan CASE II
+  - Clan Laser Anti-Missile System
+- **Source:** XTRO ComStar - Jihad
+- **Battle Value:** 2121
+

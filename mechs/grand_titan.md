@@ -36,3 +36,44 @@
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2053
 
+## Grand Titan T-IT-N14R 'Vengeance'
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere Mixed (3075)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 4, Armored
+  - **Jumping:** 2
+- **Armor:** 276 (Hardened)
+- **Gyroscope:** Armored Compact Gyro
+- **Cockpit:** Armored
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan ER Medium Laser × 2
+  - Thumper (ammo: 40)
+- **Equipment:**
+  - CASE II
+- **Source:** XTRO Phantoms - Jihad
+- **Battle Value:** 2237
+
+## Grand Titan T-IT-N13M
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3091)
+- **Chassis:** 100 tons (Endo Steel)
+- **Movement:** 3 (4) / 5 (6), Armored
+  - **Jumping:** 3
+- **Armor:** 288
+- **Gyroscope:** Armored Heavy-Duty Gyro
+- **Myomer:** Triple-Strength
+- **Cockpit:** Armored
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Heavy PPC
+  - ER Large Laser
+  - ER Medium Laser × 2
+  - Sword
+  - Medium Laser × 2
+  - Small Pulse Laser
+- **Equipment:**
+  - Armored Actuator × 16
+- **Source:** RS 3145 NT NU
+- **Battle Value:** 2533
+

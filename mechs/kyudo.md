@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2443)
 - **Chassis:** 45 tons
-- **Movement:** 4 / 6
+- **Movement:** 4 / 6, Primitive
 - **Armor:** 101 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 12 (12)

@@ -486,6 +486,7 @@
 - [Powerman SC XI-M LoaderMech](mechs/powerman_sc_xi-m_loadermech.md)
 - [Powerman SC XI-M-B LoaderMech](mechs/powerman_sc_xi-m-b_loadermech.md)
 - [Powerman SC XV HaulerMech](mechs/powerman_sc_xv_haulermech.md)
+- [Powerman SC XVI HaulerMech](mechs/powerman_sc_xvi_haulermech.md)
 - [Powerman XI LoaderMech](mechs/powerman_xi_loadermech.md)
 - [Predator](mechs/predator.md)
 - [Prefect](mechs/prefect.md)

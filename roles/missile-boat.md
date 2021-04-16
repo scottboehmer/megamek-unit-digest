@@ -66,10 +66,12 @@
 - [Gladiator (Executioner)](../mechs/gladiator_executioner.md)
 - [Goliath](../mechs/goliath.md)
 - [Grand Crusader](../mechs/grand_crusader.md)
+- [Grand Titan](../mechs/grand_titan.md)
 - [Grendel (Mongrel)](../mechs/grendel_mongrel.md)
 - [Griffin](../mechs/griffin.md)
 - [Griffin IIC](../mechs/griffin_iic.md)
 - [Grigori](../mechs/grigori.md)
+- [Grim Reaper](../mechs/grim_reaper.md)
 - [Gunslinger](../mechs/gunslinger.md)
 
 ## H

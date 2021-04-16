@@ -3,7 +3,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2650)
 - **Chassis:** 25 tons Quad (Industrial)
-- **Movement:** 3 / 5, IC
+- **Movement:** 3 / 5, ICE
 - **Armor:** 48 (Commercial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
@@ -18,7 +18,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 20 tons Quad (Industrial)
-- **Movement:** 3 / 5, IC
+- **Movement:** 3 / 5, ICE
 - **Armor:** 48 (Commercial)
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
@@ -31,7 +31,7 @@
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 20 tons Quad (Industrial)
-- **Movement:** 3 / 5, IC
+- **Movement:** 3 / 5, ICE
 - **Armor:** 48 (Commercial)
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
@@ -44,7 +44,7 @@
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 20 tons Quad (Industrial)
-- **Movement:** 3 / 5, IC
+- **Movement:** 3 / 5, ICE
 - **Armor:** 48 (Commercial)
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
@@ -56,7 +56,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2801)
 - **Chassis:** 20 tons Quad (Industrial)
-- **Movement:** 3 / 5, IC
+- **Movement:** 3 / 5, ICE
 - **Armor:** 48 (Commercial)
 - **Heat Sinks:** 2 (2)
 - **Weapons:**

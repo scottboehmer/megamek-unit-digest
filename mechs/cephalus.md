@@ -1,4 +1,21 @@
 # Cephalus
+## Cephalus Prime
+- **Role:** Scout
+- **Tech Base:** Clan Mixed (3072)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 10 (9) / 15 (14), XXL
+- **Armor:** 84+30 (Ferro Lamellor)
+- **Heat Sinks:** 10 (20)
+- **Equipment:**
+  - Inner Sphere Null-Signature System
+  - Inner Sphere Chameleon LPS
+  - Nova CEWS
+  - Light TAG
+  - Laser Anti-Missile System × 2
+  - Modular Armor × 3
+- **Source:** WoR - Jihad Supplement
+- **Battle Value:** 1038
+
 ## Cephalus A
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3072)

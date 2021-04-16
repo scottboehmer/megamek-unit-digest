@@ -3,7 +3,7 @@
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 50 tons
-- **Movement:** 4 (5) / 6 (8), IC
+- **Movement:** 4 (5) / 6 (8), ICE
 - **Armor:** 112
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 2 (2)

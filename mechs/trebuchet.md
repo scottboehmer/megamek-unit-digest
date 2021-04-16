@@ -133,6 +133,27 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1278
 
+## Trebuchet TBT-XK7
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3081)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 168+30
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak SRM 6 × 2 (ammo: 15)
+  - ER Medium Laser
+  - Chain Whip
+  - ER Flamer
+  - Medium Pulse Laser
+- **Equipment:**
+  - Small Shield
+  - Modular Armor × 3
+- **Source:** XTRO Periphery - Jihad
+- **Battle Value:** 1549
+
 ## Trebuchet TBT-K7R
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3088)

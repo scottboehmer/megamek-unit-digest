@@ -35,6 +35,7 @@
 - [Peacemaker PM6 PoliceMech](../mechs/peacemaker_pm6_policemech.md)
 - [Pompier Firemech](../mechs/pompier_firemech.md)
 - [Powerman SC XV HaulerMech](../mechs/powerman_sc_xv_haulermech.md)
+- [Powerman SC XVI HaulerMech](../mechs/powerman_sc_xvi_haulermech.md)
 
 ## U
 - [Uni ATAE-70T CargoMech](../mechs/uni_atae-70t_cargomech.md)

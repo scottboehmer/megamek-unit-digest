@@ -244,6 +244,24 @@
 - **Source:** Jihad
 - **Battle Value:** 1801
 
+## Banshee BNC-11X
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere Mixed (3076)
+- **Chassis:** 95 tons (Endo Steel)
+- **Movement:** 4 (3) / 6 (5), XL
+- **Armor:** 288+70
+- **Cockpit:** Armored
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Silver Bullet (ammo: 8)
+  - Bombast Laser × 2
+  - ER Small Laser
+- **Equipment:**
+  - Modular Armor × 7
+  - Armored Actuator × 4
+- **Source:** XTRO Steiner - Jihad
+- **Battle Value:** 2030
+
 ## Banshee BNC-9S2
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3109)
