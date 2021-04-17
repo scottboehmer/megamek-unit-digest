@@ -78,8 +78,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Pulse Laser
-  - Flamer
   - Small Laser × 2
+  - Flamer
 - **Source:** Clan Invasion
 - **Battle Value:** 423
 
@@ -226,8 +226,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
   - MRM 10 (ammo: 24)
+  - Medium Laser
 - **Source:** RS 3145 NT NU 
 - **Battle Value:** 477
 

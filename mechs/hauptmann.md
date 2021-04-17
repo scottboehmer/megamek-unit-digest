@@ -7,14 +7,14 @@
 - **Armor:** 293
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - ER Large Laser × 2
   - Medium Pulse Laser × 2
-  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - Streak SRM 2 × 2 (ammo: 50)
   - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 2157
 
@@ -27,9 +27,9 @@
 - **Armor:** 293
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ER Medium Laser × 4
-  - SRM 6 w/ Artemis IV × 2 (ammo: 30)
   - Gauss Rifle (ammo: 16)
+  - SRM 6 w/ Artemis IV × 2 (ammo: 30)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -43,9 +43,9 @@
 - **Armor:** 293
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - Ultra AC/20 (ammo: 5)
   - ER PPC × 2
   - Medium Pulse Laser × 3
-  - Ultra AC/20 (ammo: 5)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -59,14 +59,14 @@
 - **Armor:** 293
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Pulse Laser
-  - ER Medium Laser × 2
-  - LRM 20 w/ Artemis IV (ammo: 0)
   - Heavy Gauss Rifle (ammo: 16)
+  - LRM 20 w/ Artemis IV (ammo: 0)
+  - ER Medium Laser × 2
+  - Medium Pulse Laser
   - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 2287
 
@@ -78,10 +78,10 @@
 - **Armor:** 293
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy PPC
-  - Rocket 10 × 2
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Heavy PPC
+  - ER Medium Laser × 2
+  - Rocket 10 × 2
 - **Equipment:**
   - CASE
   - C3 Master
@@ -97,8 +97,8 @@
 - **Armor:** 293
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Plasma Rifle × 2 (ammo: 30)
   - Gauss Rifle (ammo: 16)
+  - Plasma Rifle × 2 (ammo: 30)
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM)
 - **Equipment:**
   - CASE
@@ -113,13 +113,13 @@
 - **Armor:** 293
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium X-Pulse Laser × 3
-  - Heavy PPC
   - Improved Heavy Gauss Rifle (ammo: 16)
+  - Heavy PPC
+  - Medium X-Pulse Laser × 3
 - **Equipment:**
+  - Angel ECM Suite
   - CASE
   - CASE II
-  - Angel ECM Suite
 - **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2484
 
@@ -131,8 +131,8 @@
 - **Armor:** 293
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - LRM 15 × 3 (ammo: 48)
   - Clan ER PPC
+  - LRM 15 × 3 (ammo: 48)
 - **Equipment:**
   - CASE
   - C3 BoostedMaster

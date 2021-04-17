@@ -8,12 +8,12 @@
 - **Armor:** 192
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 3
-  - Machine Gun × 4 (ammo: 100)
-  - ER Medium Laser × 2
   - Streak SRM 6 (ammo: 15)
-  - Small Pulse Laser × 2
+  - Medium Pulse Laser × 3
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
+  - Small Pulse Laser × 2
+  - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -28,9 +28,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - Heavy Medium Laser × 3
   - AP Gauss Rifle × 3 (ammo: 80)
-  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
 - **Equipment:**
   - CASE
   - Targeting Computer

@@ -8,13 +8,13 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium X-Pulse Laser × 2
   - MRM 20 w/ Apollo FCS (ammo: 12)
+  - Medium X-Pulse Laser × 2
 - **Equipment:**
-  - CASE
+  - Angel ECM Suite
   - Laser Anti-Missile System
   - Bloodhound Active Probe
-  - Angel ECM Suite
+  - CASE
 - **Source:** XTRO Liao - Jihad
 - **Battle Value:** 1021
 

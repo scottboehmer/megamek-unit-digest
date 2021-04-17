@@ -19,8 +19,8 @@
 - **Armor:** 107 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 873
 

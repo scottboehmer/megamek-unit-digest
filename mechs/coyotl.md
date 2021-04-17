@@ -7,10 +7,10 @@
 - **Armor:** 136
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Streak SRM 4 (ammo: 25)
   - ER PPC
-  - LRM 10 (ammo: 12)
   - Medium Pulse Laser
+  - LRM 10 (ammo: 12)
+  - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
 - **Battle Value:** 1974
@@ -39,9 +39,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 (ammo: 15)
   - Ultra AC/10 (ammo: 20)
   - ER Medium Laser
+  - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars
@@ -55,12 +55,12 @@
 - **Armor:** 136
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 (ammo: 20)
   - ER Large Laser
   - Plasma Cannon (ammo: 20)
+  - ATM 6 (ammo: 20)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 1851
 
@@ -72,8 +72,8 @@
 - **Armor:** 136
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Streak LRM 10 (ammo: 12)
   - Improved Heavy Large Laser
+  - Streak LRM 10 (ammo: 12)
   - AP Gauss Rifle (ammo: 40)
 - **Equipment:**
   - CASE

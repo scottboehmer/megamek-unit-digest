@@ -8,10 +8,10 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 3
   - ER Large Laser
-  - ER Small Laser
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 3
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -26,9 +26,9 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 15 × 2 (ammo: 32)
   - Medium Pulse Laser
   - ER Small Laser
-  - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -43,8 +43,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Ultra AC/5 (ammo: 20)
+  - Medium Pulse Laser × 2
   - ER Medium Laser
   - ER Small Laser
 - **Equipment:**
@@ -61,8 +61,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - LB 10-X AC (ammo: 10)
+  - ER Medium Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
@@ -78,11 +78,11 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
-  - Medium Pulse Laser
-  - Small Pulse Laser
-  - SRM 6 (ammo: 30)
   - ER PPC
+  - Medium Pulse Laser
+  - ER Medium Laser
+  - SRM 6 (ammo: 30)
+  - Small Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -98,8 +98,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser
-  - ER Small Laser
   - ATM 6 × 2 (ammo: 20 Standard, 10 ER, 10 HE)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -114,8 +114,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Heavy Large Laser
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
   - ER Small Laser
 - **Equipment:**
@@ -148,8 +148,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - RAC/2 (ammo: 45)
   - ER Large Laser
+  - RAC/2 (ammo: 45)
 - **Equipment:**
   - CASE II
 - **Source:** ilClan Vol 2 - Dark Age
@@ -164,8 +164,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Micro Pulse Laser × 5
   - Medium Pulse Laser × 4
+  - Micro Pulse Laser × 5
 - **Equipment:**
   - Watchdog CEWS
   - Supercharger
@@ -181,9 +181,9 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ProtoMech AC/4 (ammo: 20)
-  - ER Medium Laser
   - Inner Sphere Plasma Rifle (ammo: 10)
+  - ER Medium Laser
+  - ProtoMech AC/4 (ammo: 20)
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 2 - Dark Age
@@ -198,9 +198,9 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Improved Heavy Small Laser × 2
   - Streak SRM 6 × 3 (ammo: 30)
   - ER Small Pulse Laser
+  - Improved Heavy Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 2 - Dark Age
@@ -215,11 +215,11 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 2
   - Large Pulse Laser
-  - Improved Heavy Small Laser
+  - Improved Heavy Medium Laser × 2
   - SRM 6 (ammo: 15)
   - ER Small Laser
+  - Improved Heavy Small Laser
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 2 - Dark Age

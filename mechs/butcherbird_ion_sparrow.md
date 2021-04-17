@@ -28,9 +28,9 @@
 - **Weapons:**
   - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
-  - Partial Wing
   - Machine Gun Array × 2
   - Active Probe
+  - Partial Wing
   - CASE
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 501
@@ -79,8 +79,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Medium Pulse Laser
+  - ER Medium Laser × 2
 - **Equipment:**
   - Partial Wing
 - **Source:** ilClan Vol 11 - Dark Age

@@ -8,9 +8,9 @@
 - **Armor:** 104
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
+  - AC/10 (ammo: 20)
   - Medium Laser × 2
   - Hatchet
-  - AC/10 (ammo: 20)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 854
 
@@ -23,9 +23,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Cluster)
   - Medium Pulse Laser × 3
   - Hatchet
-  - LB 10-X AC (ammo: 10 Cluster)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -40,9 +40,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - ER Medium Laser × 3
   - Hatchet
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - CASE
 - **Source:** Starterbook: Sword and Dragon - Clan Invasion
@@ -57,9 +57,9 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
-  - ER Medium Laser
   - Ultra AC/10 (ammo: 20)
+  - ER Medium Laser
+  - Hatchet
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3050 - Civil War
@@ -74,9 +74,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - RAC/5 (ammo: 40)
   - ER Medium Laser × 3
   - Hatchet
-  - RAC/5 (ammo: 40)
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3050 - Civil War
@@ -91,9 +91,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 20)
   - ER Medium Laser × 3
   - Hatchet
-  - LB 10-X AC (ammo: 20)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -108,9 +108,9 @@
 - **Armor:** 153
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
-  - ER Medium Laser
   - RAC/2 (ammo: 90)
+  - ER Medium Laser
+  - Hatchet
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3050 - Civil War
@@ -125,10 +125,10 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - MRM 30 (ammo: 16)
+  - ER Medium Laser
   - Medium Pulse Laser × 2
   - Sword
-  - ER Medium Laser
-  - MRM 30 (ammo: 16)
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -144,9 +144,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - Heavy PPC
   - Medium Pulse Laser × 3
   - Hatchet
-  - Heavy PPC
 - **Equipment:**
   - Beagle Active Probe
 - **Source:** Dark Age
@@ -161,9 +161,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - MML 9 (ammo: 13 LRM, 22 SRM)
   - ER Medium Laser × 2
   - Hatchet
-  - MML 9 (ammo: 13 LRM, 22 SRM)
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -179,9 +179,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Hatchet
   - Medium X-Pulse Laser
   - Medium Laser × 6
+  - Hatchet
 - **Equipment:**
   - AES × 2
 - **Source:** XTRO Republic I - Late Republic
@@ -196,9 +196,9 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Clan ER Medium Laser × 2
   - Hatchet
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - AES
   - CASE

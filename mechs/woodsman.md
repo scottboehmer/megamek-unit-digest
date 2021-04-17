@@ -8,8 +8,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 3
   - LRM 15 × 2 (ammo: 24)
+  - ER Medium Laser × 3
   - ER Small Laser
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
@@ -27,8 +27,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
   - MASC
@@ -43,10 +43,10 @@
 - **Armor:** 216
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Large Laser
-  - ER Medium Laser
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - LRM 10 w/ Artemis IV (ammo: 12)
+  - ER Medium Laser
   - SRM 4 w/ Artemis IV (ammo: 25)
   - Small Pulse Laser
 - **Equipment:**
@@ -66,9 +66,9 @@
   - Improved Heavy Large Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
+  - Watchdog CEWS
   - MASC
   - CASE
-  - Watchdog CEWS
 - **Source:** Dark Age
 - **Battle Value:** 2230
 

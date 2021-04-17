@@ -9,8 +9,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Large Laser × 2
-  - SRM 4 (ammo: 25)
   - Medium Laser × 2
+  - SRM 4 (ammo: 25)
   - Small Laser
 - **Equipment:**
   - CASE
@@ -27,8 +27,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Large Laser × 2
-  - SRM 4 (ammo: 25)
   - Medium Laser × 2
+  - SRM 4 (ammo: 25)
   - Small Laser
 - **Equipment:**
   - CASE
@@ -44,9 +44,9 @@
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - ER PPC
   - Large Laser
   - Medium Laser × 3
-  - ER PPC
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1593
 
@@ -60,8 +60,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Laser × 3
   - Heavy PPC
+  - Medium Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Jihad

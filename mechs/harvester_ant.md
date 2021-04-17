@@ -22,8 +22,8 @@
 - **Armor:** 48 (Commercial)
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
-  - Machine Gun × 4 (ammo: 200)
   - SRM 2 (ammo: 50)
+  - Machine Gun × 4 (ammo: 200)
 - **Source:** RS OK - Early Succession War
 - **Battle Value:** 127
 
@@ -35,8 +35,8 @@
 - **Armor:** 48 (Commercial)
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
-  - Machine Gun × 4 (ammo: 200)
   - SRM 2 (ammo: 50)
+  - Machine Gun × 4 (ammo: 200)
 - **Source:** RS VA IM Exo - Early Succession War
 - **Battle Value:** 127
 

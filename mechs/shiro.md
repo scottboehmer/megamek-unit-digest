@@ -8,9 +8,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Clan LRM 10 × 4 (ammo: 36)
   - LB 2-X AC (ammo: 45)
   - Sword
-  - Clan LRM 10 × 4 (ammo: 36)
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
@@ -26,8 +26,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Clan ER PPC
-  - Sword
   - Clan LRM 10 × 4 (ammo: 36)
+  - Sword
 - **Equipment:**
   - Coolant Pod
 - **Source:** TRO 3145 Draconis Combine - Dark Ages

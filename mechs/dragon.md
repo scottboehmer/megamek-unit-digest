@@ -7,9 +7,9 @@
 - **Armor:** 201
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - LRM 10 (ammo: 24)
   - Medium Laser × 2
   - AC/2 (ammo: 45)
-  - LRM 10 (ammo: 24)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1215
 
@@ -21,9 +21,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
-  - AC/5 (ammo: 40)
   - LRM 10 (ammo: 24)
+  - AC/5 (ammo: 40)
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1125
 
@@ -35,11 +35,11 @@
 - **Armor:** 200
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - Medium Laser
   - Large Laser
+  - Medium Laser
   - SRM 4 (ammo: 25)
-  - Flamer
   - Small Laser
+  - Flamer
 - **Battle Value:** 1257
 
 ## Dragon DRG-5N
@@ -50,9 +50,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
   - Ultra AC/5 (ammo: 20)
   - LRM 10 (ammo: 24)
+  - Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -66,10 +66,10 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - AC/5 (ammo: 20)
   - Gauss Rifle (ammo: 16)
-  - Medium Laser
+  - AC/5 (ammo: 20)
   - MRM 10 (ammo: 24)
+  - Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -83,9 +83,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 3
-  - Light AC/5 (ammo: 40)
   - LRM 10 (ammo: 24)
+  - Light AC/5 (ammo: 40)
+  - Medium Laser × 3
 - **Equipment:**
   - CASE
   - C3 Slave

@@ -56,13 +56,13 @@
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Arrow IV (ammo: 15)
   - ER Large Laser
   - ER Medium Laser × 2
-  - Arrow IV (ammo: 15)
 - **Equipment:**
+  - Guardian ECM Suite
   - MASC
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1690
 

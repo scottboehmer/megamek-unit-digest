@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - AC/5 × 2 (ammo: 40)
-  - AC/2 × 2 (ammo: 45)
   - Medium Laser × 2
+  - AC/2 × 2 (ammo: 45)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 901
 
@@ -22,8 +22,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
-  - AC/2 × 2 (ammo: 45)
   - Medium Laser × 2
+  - AC/2 × 2 (ammo: 45)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1122
 
@@ -36,8 +36,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Ultra AC/5 × 2 (ammo: 40)
-  - AC/2 × 2 (ammo: 90)
   - Medium Pulse Laser × 2
+  - AC/2 × 2 (ammo: 90)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -114,8 +114,8 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 2-X AC × 2 (ammo: 45 Cluster)
   - Large Laser × 2
+  - LB 2-X AC × 2 (ammo: 45 Cluster)
   - Rocket 15 × 6
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1348
@@ -129,8 +129,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - RAC/2 × 2 (ammo: 90)
-  - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster)
   - ER Medium Laser × 2
+  - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -145,8 +145,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - AC/5 × 2 (ammo: 60)
-  - Light AC/2 × 2 (ammo: 90)
   - Medium Laser × 2
+  - Light AC/2 × 2 (ammo: 90)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -162,8 +162,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Snub-Nose PPC × 2
-  - Light AC/2 × 4 (ammo: 90)
   - ER Medium Laser
+  - Light AC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE
   - C3 Boosted Slave

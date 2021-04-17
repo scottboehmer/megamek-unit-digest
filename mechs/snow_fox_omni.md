@@ -9,9 +9,9 @@
 - **Weapons:**
   - ER Medium Laser × 3
 - **Equipment:**
+  - ECM Suite
   - Active Probe
   - Targeting Computer
-  - ECM Suite
   - MASC
 - **Source:** Dark Age
 - **Battle Value:** 1464
@@ -40,8 +40,8 @@
 - **Armor:** 73 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser
   - ER Large Laser
+  - Medium Pulse Laser
 - **Equipment:**
   - MASC
 - **Source:** Dark Age

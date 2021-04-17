@@ -9,10 +9,10 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - HAG 30 (ammo: 16)
-  - SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser × 2
-  - Micro Pulse Laser × 2
+  - SRM 6 × 2 (ammo: 30)
   - Small Pulse Laser
+  - Micro Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -30,8 +30,8 @@
   - HAG 30 (ammo: 16)
   - Large Pulse Laser × 2
   - SRM 6 × 2 (ammo: 30)
-  - Micro Pulse Laser × 2
   - Small Pulse Laser
+  - Micro Pulse Laser × 2
 - **Equipment:**
   - CASE
   - HarJel II × 3

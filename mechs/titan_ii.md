@@ -7,10 +7,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 30)
-  - ER Medium Laser × 4
   - Heavy PPC
+  - Streak SRM 6 (ammo: 30)
   - MML 9 × 2 (ammo: 22 SRM, 26 LRM)
+  - ER Medium Laser × 4
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -27,13 +27,13 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Plasma Rifle × 2 (ammo: 40)
-  - Medium Laser × 4
   - Streak SRM 6 (ammo: 15)
+  - Medium Laser × 4
   - Machine Gun × 8 (ammo: 200)
 - **Equipment:**
+  - Beagle Active Probe
   - Machine Gun Array × 2
   - CASE
-  - Beagle Active Probe
 - **Source:** TRO 3075
 - **Battle Value:** 2434
 

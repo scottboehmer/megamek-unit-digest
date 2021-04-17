@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - Small Laser × 2
   - Medium Laser × 2
+  - Small Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe

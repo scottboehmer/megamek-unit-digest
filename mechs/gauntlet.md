@@ -7,8 +7,8 @@
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Thunderbolt 10 (ammo: 12)
   - Heavy PPC
+  - Thunderbolt 10 (ammo: 12)
 - **Equipment:**
   - MASC
   - CASE
@@ -41,13 +41,13 @@
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 10
   - Medium Pulse Laser
+  - Medium Laser × 10
 - **Equipment:**
+  - Guardian ECM Suite
   - MASC
   - Targeting Computer
   - Coolant Pod × 2
-  - Guardian ECM Suite
 - **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 2076
 

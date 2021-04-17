@@ -9,9 +9,9 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Large Laser
-  - Small Laser × 2
-  - SRM 6 (ammo: 15)
   - LRM 10 (ammo: 12)
+  - SRM 6 (ammo: 15)
+  - Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Star League
@@ -27,10 +27,10 @@
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
   - Large Pulse Laser
+  - LRM 10 (ammo: 12)
+  - SRM 6 (ammo: 15)
   - Medium Laser
   - Small Laser
-  - SRM 6 (ammo: 15)
-  - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -46,9 +46,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - Small Laser × 3
-  - Streak SRM 2 × 3 (ammo: 50)
   - LRM 10 (ammo: 12)
+  - Streak SRM 2 × 3 (ammo: 50)
+  - Small Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** ER 2750
@@ -64,9 +64,9 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Large Laser
-  - Small Laser × 2
-  - SRM 6 (ammo: 15)
   - LRM 10 (ammo: 12)
+  - SRM 6 (ammo: 15)
+  - Small Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1005
 
@@ -80,9 +80,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Large Pulse Laser
+  - LRM 10 (ammo: 12)
   - Medium Pulse Laser × 2
   - Streak SRM 2 (ammo: 50)
-  - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -98,11 +98,11 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER PPC
-  - Medium Pulse Laser
   - LRM 10 (ammo: 12)
+  - Medium Pulse Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
   - C3i
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1199

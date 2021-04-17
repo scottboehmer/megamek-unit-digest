@@ -23,7 +23,7 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 2
   - Improved Heavy Large Laser
+  - Improved Heavy Medium Laser × 2
 - **Battle Value:** 1097
 

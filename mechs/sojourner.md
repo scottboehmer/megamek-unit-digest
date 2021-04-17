@@ -26,10 +26,10 @@
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Micro Laser × 4
   - Large Pulse Laser
   - RAC/2 (ammo: 90)
   - ProtoMech AC/8 (ammo: 20)
+  - ER Micro Laser × 4
 - **Equipment:**
   - AES
   - Supercharger
@@ -46,13 +46,13 @@
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 15)
   - ER Large Pulse Laser × 2
+  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
+  - ECM Suite
   - AES
   - CASE II
   - Supercharger
-  - ECM Suite
 - **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2397
 
@@ -82,9 +82,9 @@
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER PPC
   - Ultra AC/10 (ammo: 30)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - AES
   - CASE II

@@ -24,10 +24,10 @@
 - **Armor:** 279
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 3
-  - Large Pulse Laser
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Gauss Rifle (ammo: 16)
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Large Pulse Laser
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -59,8 +59,8 @@
 - **Armor:** 279
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 28 SRM)
   - Arrow IV (ammo: 20)
+  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 28 SRM)
   - Medium Pulse Laser × 2
   - Small Pulse Laser
 - **Equipment:**

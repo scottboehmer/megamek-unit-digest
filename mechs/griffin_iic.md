@@ -8,8 +8,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 5 × 4 (ammo: 48)
   - ER Large Laser
+  - LRM 5 × 4 (ammo: 48)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -25,8 +25,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 2 × 4 (ammo: 100)
   - ER Large Laser
+  - Streak SRM 2 × 4 (ammo: 100)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -42,9 +42,9 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
   - Heavy Medium Laser × 2
   - Streak SRM 2 × 2 (ammo: 100)
-  - ER Large Laser
   - Heavy Small Laser
 - **Equipment:**
   - CASE
@@ -60,8 +60,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 3 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Large Laser
+  - ATM 3 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -77,9 +77,9 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Machine Gun × 6 (ammo: 100)
-  - ER Small Laser
   - ER Large Laser
+  - ER Small Laser
+  - Light Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -111,9 +111,9 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
   - Heavy Medium Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
-  - ER Large Laser
 - **Equipment:**
   - ECM Suite
   - CASE
@@ -129,9 +129,9 @@
 - **Armor:** 124 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Pulse Laser × 2
-  - Streak SRM 6 (ammo: 15)
   - Streak LRM 10 (ammo: 12)
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Dark Age

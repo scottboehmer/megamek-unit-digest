@@ -42,8 +42,8 @@
   - Heavy Large Laser × 2
   - Ultra AC/2 × 2 (ammo: 90)
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** Civil War
 - **Battle Value:** 1733
 
@@ -56,8 +56,8 @@
 - **Armor:** 211
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
   - Large Pulse Laser × 2
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -88,8 +88,8 @@
   - HAG 30 × 2 (ammo: 28)
 - **Equipment:**
   - Anti-Missile System × 2 (ammo: 48)
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 2220
 
@@ -120,11 +120,11 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser × 2
-  - AP Gauss Rifle × 4 (ammo: 80)
   - Streak SRM 6 × 2 (ammo: 30)
+  - AP Gauss Rifle × 4 (ammo: 80)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 2541
 

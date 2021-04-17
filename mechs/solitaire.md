@@ -7,9 +7,9 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Heavy Large Laser
   - Heavy Medium Laser × 2
   - Heavy Small Laser
-  - Heavy Large Laser
 - **Source:** TRO 3067
 - **Battle Value:** 1284
 
@@ -21,9 +21,9 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Heavy Large Laser
   - Heavy Medium Laser
   - Heavy Small Laser
-  - Heavy Large Laser
 - **Equipment:**
   - MASC
 - **Source:** 3067 Unabridged

@@ -8,10 +8,10 @@
 - **Armor:** 203 (Ferro Lamellor)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - AP Gauss Rifle × 2 (ammo: 40)
   - ER Large Laser × 2
   - Medium Pulse Laser × 2
   - ER Small Laser × 4
+  - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -27,9 +27,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 4
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
+  - ER Small Laser × 4
 - **Equipment:**
   - Targeting Computer
 - **Source:** ilClan Vol 12 - Clan Invasion

@@ -8,10 +8,10 @@
 - **Armor:** 247
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
-  - ER Medium Laser × 2
   - Ultra AC/10 × 2 (ammo: 40)
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
+  - ER Small Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -27,11 +27,11 @@
 - **Armor:** 247
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
-  - ER Medium Laser × 2
   - LRM 20 × 2 (ammo: 36)
-  - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
+  - Medium Pulse Laser × 2
+  - ER Small Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -47,10 +47,10 @@
 - **Armor:** 247
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Small Laser
-  - ER Medium Laser × 2
   - Heavy PPC × 2
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
+  - ER Small Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -67,8 +67,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Claw × 2
   - Snub-Nose PPC × 2
+  - Claw × 2
 - **Equipment:**
   - C3i
   - MASC
@@ -85,9 +85,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium VSP Laser × 2
   - Light PPC × 2
   - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 14 SRM)
+  - Medium VSP Laser × 2
   - ER Small Laser
 - **Equipment:**
   - C3i

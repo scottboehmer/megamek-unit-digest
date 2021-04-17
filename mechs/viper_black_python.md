@@ -8,10 +8,10 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
   - Small Pulse Laser × 4
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -27,10 +27,10 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
+  - ER Large Laser × 2
   - Ultra AC/2 (ammo: 90)
   - Small Pulse Laser × 5
-  - ER Large Laser × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - ECM Suite
   - CASE
@@ -47,9 +47,9 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
-  - Gauss Rifle (ammo: 16)
   - ER PPC × 2
+  - Gauss Rifle (ammo: 16)
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 12 - Clan Invasion
@@ -64,10 +64,10 @@
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - Heavy Large Laser × 2
   - Medium Pulse Laser × 2
   - Small Pulse Laser × 4
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -83,9 +83,9 @@
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - ER Medium Laser
   - Heavy Large Laser × 2
   - Medium Pulse Laser × 2
+  - ER Medium Laser
   - Small Pulse Laser × 4
 - **Equipment:**
   - Targeting Computer

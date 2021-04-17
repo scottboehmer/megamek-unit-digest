@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 2
-  - Flamer × 4
   - Small Laser × 2
+  - Flamer × 4
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 773
 
@@ -23,8 +23,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser × 2
   - Large Laser
+  - Small Laser × 2
   - Flamer × 2
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 763
@@ -68,9 +68,9 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer × 4
   - Medium Laser × 2
   - Small Laser
+  - Flamer × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
@@ -86,12 +86,12 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer × 4
   - Medium Laser × 2
   - Small Laser
+  - Flamer × 4
 - **Equipment:**
-  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 820
 
@@ -104,8 +104,8 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 4
   - Large Laser × 2
+  - Flamer × 4
 - **Equipment:**
   - Beagle Active Probe
 - **Source:** TRO 3058 - Clan Invasion
@@ -120,9 +120,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
-  - Small Laser
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Small Laser
+  - Flamer × 2
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 976
 
@@ -135,10 +135,10 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
   - Small Laser
+  - Flamer × 2
 - **Equipment:**
   - C3 Slave
   - TAG
@@ -154,9 +154,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
   - LRM 10 × 2 (ammo: 24)
   - Small Laser
+  - Flamer × 2
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3058 - Clan Invasion
@@ -171,13 +171,13 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
   - ER PPC
   - Medium Laser
   - LRM 5 (ammo: 24)
+  - Flamer × 2
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1322
 
@@ -190,11 +190,11 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
-  - Sword
   - MRM 20 (ammo: 12)
   - Medium Pulse Laser
   - Small Pulse Laser
+  - Sword
+  - Flamer × 2
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 998
 
@@ -207,9 +207,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
   - Clan ER Large Laser × 2
   - Clan LRM 10 w/ Artemis IV (ammo: 24)
+  - Flamer × 2
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1713
 
@@ -222,9 +222,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
-  - Streak SRM 2 (ammo: 50)
   - Large X-Pulse Laser
+  - Streak SRM 2 (ammo: 50)
+  - Flamer × 2
 - **Equipment:**
   - Angel ECM Suite
   - Bloodhound Active Probe
@@ -240,10 +240,10 @@
 - **Armor:** 136
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Flamer × 2
   - ER Large Laser × 2
   - ER Medium Laser × 2
   - ER Small Laser
+  - Flamer × 2
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1446
 
@@ -256,9 +256,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
-  - Medium Laser × 3
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
+  - Medium Laser × 3
+  - Flamer × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Civil War
@@ -273,10 +273,10 @@
 - **Armor:** 98 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer × 2
   - Medium Laser × 2
-  - Rocket 10 × 4
   - Rocket 15 × 2
+  - Rocket 10 × 4
+  - Flamer × 2
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 940
 
@@ -289,10 +289,10 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer × 4
   - Medium Laser × 2
-  - Small Laser × 2
   - SRM 2 × 2 (ammo: 50)
+  - Small Laser × 2
+  - Flamer × 4
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 775
 
@@ -305,16 +305,16 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
+  - ER Medium Laser
   - Medium Pulse Laser × 2
   - Small Pulse Laser × 2
+  - Flamer × 2
   - Machine Gun × 2 (ammo: 100)
-  - ER Medium Laser
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - Beagle Active Probe
+  - CASE
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1119
 
@@ -327,8 +327,8 @@
 - **Armor:** 93 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer × 3
   - ER Medium Laser
+  - Flamer × 3
 - **Equipment:**
   - C3i
 - **Source:** TRO 3050 - Jihad
@@ -343,9 +343,9 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer × 3
-  - Medium X-Pulse Laser × 2
   - Plasma Rifle (ammo: 10)
+  - Medium X-Pulse Laser × 2
+  - Flamer × 3
 - **Source:** Jihad
 - **Battle Value:** 1065
 
@@ -359,8 +359,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Flamer × 4
   - Small Laser
+  - Flamer × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
@@ -377,11 +377,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Flamer × 4
   - Small Laser
+  - Flamer × 4
 - **Equipment:**
-  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 908
 
@@ -394,9 +394,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 2
   - Medium Pulse Laser × 5
   - Sword
+  - Flamer × 2
 - **Equipment:**
   - Liquid Cargo
 - **Source:** Jihad
@@ -411,8 +411,8 @@
 - **Armor:** 112
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Flamer × 6
   - ER Medium Laser
+  - Flamer × 6
 - **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 751
 
@@ -425,9 +425,9 @@
 - **Armor:** 119
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Medium Laser
   - ER Small Laser
   - Flamer × 3
-  - ER Medium Laser
 - **Equipment:**
   - TAG
   - MASC

@@ -10,8 +10,8 @@
 - **Weapons:**
   - ER PPC w/ PPC Capacitor
   - Streak SRM 6 (ammo: 15)
-  - Sword
   - Medium X-Pulse Laser × 2
+  - Sword
 - **Equipment:**
   - Laser Anti-Missile System
 - **Source:** TRO 3055 - Civil War

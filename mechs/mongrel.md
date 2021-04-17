@@ -7,9 +7,9 @@
 - **Armor:** 168 (Reactive)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Medium Laser × 3
   - Inner Sphere AC/5 (ammo: 20)
   - Inner Sphere Retractable Blade
-  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Lyran Commonwealth - Early Republic
@@ -23,13 +23,13 @@
 - **Armor:** 168 (Reactive)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Medium Laser × 3
   - ProtoMech AC/8 (ammo: 10)
   - Inner Sphere Retractable Blade
-  - ER Medium Laser × 3
 - **Equipment:**
+  - ECM Suite
   - CASE
   - AES
-  - ECM Suite
 - **Source:** TRO 3145 Lyran Commonwealth - Early Republic
 - **Battle Value:** unknown
 

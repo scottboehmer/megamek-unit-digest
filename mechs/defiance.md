@@ -10,10 +10,10 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Pulse Laser × 2
-  - Small Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser × 2
+  - Small Laser × 2
   - Machine Gun (ammo: 100)
 - **Source:** TRO 3075
 - **Battle Value:** 1817
@@ -28,10 +28,10 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER PPC × 2
-  - ER Medium Laser × 2
-  - ER Small Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - ER Small Laser × 2
   - Machine Gun (ammo: 100)
 - **Source:** TRO 3075
 - **Battle Value:** 1940
@@ -46,10 +46,10 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - PPC × 2
-  - ER Medium Laser × 2
-  - ER Small Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - ER Small Laser × 2
   - Machine Gun (ammo: 100)
 - **Source:** TRO 3075
 - **Battle Value:** 1981

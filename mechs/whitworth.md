@@ -8,8 +8,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 3
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 3
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 917
 
@@ -22,8 +22,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 3
   - LRM 10 × 2 (ammo: 24)
+  - Medium Laser × 3
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 982
 
@@ -36,9 +36,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Flamer
-  - Medium Laser × 2
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 2
+  - Flamer
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 863
 
@@ -65,8 +65,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 3
   - SRM 6 (ammo: 15)
+  - Medium Laser × 3
   - Rocket 10 × 8
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 993
@@ -80,8 +80,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Streak SRM 4 × 4 (ammo: 25)
+  - Medium Laser × 2
   - Small Laser
 - **Equipment:**
   - CASE
@@ -113,8 +113,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Medium Laser × 2
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3050 - Jihad
@@ -129,12 +129,12 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium X-Pulse Laser × 2
   - Streak SRM 6 × 2 (ammo: 15)
+  - Medium X-Pulse Laser × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - AES × 2
   - CASE II
   - Supercharger
-  - Guardian ECM Suite
 - **Battle Value:** 1230
 

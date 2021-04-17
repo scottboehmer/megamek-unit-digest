@@ -9,8 +9,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Large Pulse Laser
-  - Hatchet
   - Medium Pulse Laser × 2
+  - Hatchet
   - Small Pulse Laser
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1159
@@ -25,10 +25,10 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Large Laser
-  - Hatchet
   - Medium Pulse Laser × 2
-  - Small Laser
+  - Hatchet
   - Small Pulse Laser
+  - Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3055 - Clan Invasion
@@ -43,8 +43,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Large Pulse Laser
-  - Hatchet
   - Medium Pulse Laser × 2
+  - Hatchet
   - Small Pulse Laser
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1045
@@ -59,8 +59,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER PPC
-  - Hatchet
   - Medium Pulse Laser × 2
+  - Hatchet
   - Small Pulse Laser
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1356
@@ -90,10 +90,10 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Large Pulse Laser
-  - Hatchet
   - ER Medium Laser
-  - ER Small Laser × 2
   - Medium Pulse Laser
+  - Hatchet
+  - ER Small Laser × 2
   - Small Pulse Laser
 - **Source:** Civil War
 - **Battle Value:** 1462

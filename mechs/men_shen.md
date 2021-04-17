@@ -7,11 +7,11 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - LRM 15 w/ Artemis IV (ammo: 8)
+  - Medium Pulse Laser × 4
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3060
 - **Battle Value:** 1550
 
@@ -23,11 +23,11 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Medium Laser × 3
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
   - TAG
 - **Source:** TRO 3060
 - **Battle Value:** 1529
@@ -40,11 +40,11 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 2-X AC × 2 (ammo: 45)
   - ER Medium Laser × 4
+  - LB 2-X AC × 2 (ammo: 45)
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3060
 - **Battle Value:** 1484
 
@@ -59,9 +59,9 @@
   - Large Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
-  - MASC
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3060
 - **Battle Value:** 1435
 
@@ -73,12 +73,12 @@
 - **Armor:** 176
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 25)
-  - Medium Pulse Laser × 2
   - ER PPC
+  - Medium Pulse Laser × 2
+  - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3060
 - **Battle Value:** 1581
 
@@ -90,11 +90,11 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - LRM 15 w/ Artemis IV (ammo: 8)
+  - Medium Pulse Laser × 4
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
 - **Battle Value:** 1550
 
@@ -106,13 +106,13 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Machine Gun × 8 (ammo: 400)
-  - Medium Laser × 2
   - Plasma Rifle (ammo: 20)
+  - Medium Laser × 2
+  - Light Machine Gun × 8 (ammo: 400)
 - **Equipment:**
-  - MASC
-  - Beagle Active Probe
   - Machine Gun Array × 2
+  - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3060
 - **Battle Value:** 1625
 
@@ -126,8 +126,8 @@
 - **Weapons:**
   - Snub-Nose PPC × 2
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
   - Targeting Computer
   - TAG
 - **Source:** TRO 3060
@@ -142,12 +142,12 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRT 4 × 2 (ammo: 25)
-  - ER Medium Laser × 2
   - Snub-Nose PPC
+  - ER Medium Laser × 2
+  - SRT 4 × 2 (ammo: 25)
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
   - TAG
 - **Source:** Jihad
 - **Battle Value:** 1725
@@ -160,12 +160,12 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium X-Pulse Laser × 2
   - TSEMP
+  - Medium X-Pulse Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2267
 

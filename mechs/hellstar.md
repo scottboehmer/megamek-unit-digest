@@ -36,9 +36,9 @@
   - ER Large Laser × 4
   - Medium Pulse Laser × 2
 - **Equipment:**
-  - Targeting Computer
-  - Active Probe
   - ECM Suite
+  - Active Probe
+  - Targeting Computer
 - **Source:** Jihad
 - **Battle Value:** 3025
 

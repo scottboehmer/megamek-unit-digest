@@ -7,11 +7,11 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 15)
-  - ER Small Laser
   - Large Pulse Laser × 2
-  - LRM 10 (ammo: 12)
+  - Streak SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
+  - LRM 10 (ammo: 12)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Succession Wars
@@ -25,12 +25,12 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ER Medium Laser
-  - Medium Pulse Laser
+  - ER PPC
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Pulse Laser
+  - ER Medium Laser
   - SRM 6 (ammo: 15)
   - ER Small Laser
-  - ER PPC
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Succession Wars
@@ -44,13 +44,13 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - Ultra AC/20 (ammo: 10)
   - ER Large Laser
   - ER Medium Laser × 4
   - ER Small Laser
-  - Ultra AC/20 (ammo: 10)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2472
 
@@ -105,8 +105,8 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - Large Pulse Laser
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
@@ -122,11 +122,11 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - HAG 30 (ammo: 12)
-  - ER Medium Laser × 3
   - ER Large Laser
+  - ER Medium Laser × 3
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2568
 
@@ -138,14 +138,14 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 3
+  - ER PPC
   - LRM 15 w/ Artemis V (ammo: 16)
   - ER Medium Pulse Laser × 2
-  - ER PPC
+  - Improved Heavy Medium Laser × 3
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2761
 

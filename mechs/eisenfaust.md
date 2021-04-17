@@ -23,9 +23,9 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Large Laser
-  - Small Laser
   - AC/10 (ammo: 20)
   - Medium Laser × 2
+  - Small Laser
 - **Source:** Dark Age
 - **Battle Value:** 977
 
@@ -37,10 +37,10 @@
 - **Armor:** 152
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Large Laser
-  - ER Small Laser
   - Plasma Rifle (ammo: 20)
+  - ER Large Laser
   - Medium Pulse Laser × 2
+  - ER Small Laser
 - **Source:** Jihad
 - **Battle Value:** 1203
 
@@ -52,10 +52,10 @@
 - **Armor:** 152
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium VSP Laser
-  - ER Small Laser
   - Blazer Cannon
+  - Medium VSP Laser
   - Medium Pulse Laser × 2
+  - ER Small Laser
 - **Source:** Dark Age
 - **Battle Value:** 1039
 

@@ -12,9 +12,9 @@
 - **Weapons:**
   - Rock-Cutter
 - **Equipment:**
-  - Enviro-Sealing
   - Salvage Arm
   - Searchlight
+  - Enviro-Sealing
   - Lift Hoist
   - Tracks
 - **Source:** TRO 3075

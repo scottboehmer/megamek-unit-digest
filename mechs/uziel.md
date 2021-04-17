@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - PPC × 2
-  - Machine Gun × 2 (ammo: 100)
   - SRM 6 (ammo: 15)
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Beagle Active Probe
 - **Source:** TRO 3067
@@ -26,10 +26,10 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Large Pulse Laser
-  - LB 2-X AC (ammo: 45 Cluster)
   - ER Medium Laser
-  - ER Small Laser × 2
   - SRM 6 (ammo: 15)
+  - LB 2-X AC (ammo: 45 Cluster)
+  - ER Small Laser × 2
 - **Source:** TRO 3067
 - **Battle Value:** 1189
 
@@ -43,8 +43,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - RAC/5 × 2 (ammo: 60)
-  - ER Small Laser × 2
   - SRM 6 (ammo: 15)
+  - ER Small Laser × 2
 - **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 1513
 
@@ -57,9 +57,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Streak SRM 6 (ammo: 15)
   - Light AC/5 × 2 (ammo: 80)
   - Medium Pulse Laser × 2
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - AES × 2
   - Supercharger
@@ -75,8 +75,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - Streak SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** 3067 Unabridged

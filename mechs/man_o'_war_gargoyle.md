@@ -7,8 +7,8 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - SRM 6 × 2 (ammo: 30)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -23,11 +23,11 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - ER PPC × 2
   - Large Pulse Laser
   - Medium Pulse Laser
   - ER Medium Laser
   - ER Small Laser
-  - ER PPC × 2
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2689
 
@@ -39,9 +39,9 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - LRM 10 w/ Artemis IV (ammo: 12)
   - SRM 4 w/ Artemis IV (ammo: 25)
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -59,8 +59,8 @@
   - ER Medium Laser × 6
   - ER Small Laser
 - **Equipment:**
-  - CASE
   - A-Pod × 2
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2437
 
@@ -91,10 +91,10 @@
   - ER PPC × 2
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
-  - CASE
-  - Light TAG
   - ECM Suite
   - A-Pod × 2
+  - CASE
+  - Light TAG
 - **Battle Value:** 2580
 
 ## Man O' War (Gargoyle) H
@@ -106,9 +106,9 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Heavy Large Laser
-  - ER Medium Laser × 2
   - Ultra AC/10 (ammo: 20)
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -122,9 +122,9 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Heavy Medium Laser × 4
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - Streak SRM 6 (ammo: 15)
+  - Heavy Medium Laser × 4
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
@@ -156,9 +156,9 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - AP Gauss Rifle × 3 (ammo: 40)
   - LB 20-X AC (ammo: 15)
   - ER Medium Laser × 4
+  - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -172,8 +172,8 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Plasma Cannon × 2 (ammo: 30)
   - Large Pulse Laser × 2
+  - Plasma Cannon × 2 (ammo: 30)
   - Micro Pulse Laser
 - **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 2320
@@ -201,8 +201,8 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - RAC/2 (ammo: 90)
   - Improved Heavy Large Laser
+  - RAC/2 (ammo: 90)
   - ATM 3 × 2 (ammo: 40)
   - Heavy Flamer (ammo: 10)
 - **Equipment:**
@@ -218,8 +218,8 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - Inner Sphere TSEMP
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - ER Medium Laser × 6
   - Small Pulse Laser
 - **Equipment:**
@@ -237,8 +237,8 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Small Laser × 7
   - Improved Heavy Medium Laser × 4
+  - ER Small Laser × 7
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2134
 
@@ -251,11 +251,11 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Improved Heavy Medium Laser × 4
-  - Inner Sphere Hatchet
   - Streak SRM 4 × 3 (ammo: 25)
+  - Inner Sphere Hatchet
 - **Equipment:**
-  - CASE II
   - Active Probe
+  - CASE II
   - Inner Sphere Supercharger
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2182

@@ -8,14 +8,14 @@
 - **Armor:** 168
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - LRM 10 w/ Artemis IV (ammo: 12)
   - ER Large Laser
+  - LRM 10 w/ Artemis IV (ammo: 12)
+  - Streak SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
   - ER Small Laser × 2
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 2069
 

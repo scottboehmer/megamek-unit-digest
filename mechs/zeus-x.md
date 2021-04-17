@@ -7,8 +7,8 @@
 - **Armor:** 195 (Light Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
   - Heavy PPC
+  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
@@ -39,9 +39,9 @@
 - **Armor:** 232 (Reactive)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 16)
   - LRM 20 (ammo: 12)
   - ER Large Laser
+  - Light Gauss Rifle (ammo: 16)
   - Medium X-Pulse Laser
 - **Equipment:**
   - Command Console

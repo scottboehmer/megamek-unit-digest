@@ -11,10 +11,10 @@
   - ER Large Laser × 2
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster)
 - **Equipment:**
+  - Light Active Probe
   - CASE
   - Partial Wing
   - MASC
-  - Light Active Probe
 - **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2367
 
@@ -65,8 +65,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 13 (29)
 - **Weapons:**
-  - ER Large Laser × 2
   - Inner Sphere TSEMP × 2
+  - ER Large Laser × 2
 - **Equipment:**
   - CASE
   - Partial Wing

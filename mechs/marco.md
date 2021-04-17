@@ -10,10 +10,10 @@
 - **Weapons:**
   - Small Laser
 - **Equipment:**
-  - Enviro-Sealing
   - Salvage Arm
   - Communications Equipment
   - Searchlight
+  - Enviro-Sealing
 - **Source:** RS IA - Star League
 - **Battle Value:** unknown
 
@@ -28,12 +28,12 @@
 - **Weapons:**
   - Small Laser
 - **Equipment:**
-  - Enviro-Sealing
   - Salvage Arm
   - Remote Sensor Dispenser
   - Communications Equipment
-  - Cargo
   - Searchlight
+  - Enviro-Sealing
+  - Cargo
 - **Source:** RS IA - Star League
 - **Battle Value:** unknown
 
@@ -49,10 +49,10 @@
 - **Weapons:**
   - Small Laser
 - **Equipment:**
-  - Enviro-Sealing
   - Salvage Arm
-  - Cargo
   - Searchlight
+  - Enviro-Sealing
+  - Cargo
 - **Battle Value:** unknown
 
 ## Marco MR-8D
@@ -80,8 +80,8 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - Medium Pulse Laser × 2
+  - Medium Laser × 2
 - **Equipment:**
   - Enviro-Sealing
 - **Source:** RS OK - Early Succession War

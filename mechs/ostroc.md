@@ -76,8 +76,8 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - Large Laser × 2
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Battle Value:** 1321
 
 ## Ostroc OSR-2D
@@ -167,10 +167,10 @@
 - **Armor:** 188 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Light PPC
-  - Medium Pulse Laser
   - Heavy PPC
+  - Light PPC
   - ER Medium Laser
+  - Medium Pulse Laser
 - **Source:** Dark Age
 - **Battle Value:** 1788
 

@@ -42,8 +42,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
-  - SRM 4 × 2 (ammo: 50)
   - LRM 10 (ammo: 12)
+  - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -58,9 +58,9 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Ultra AC/10 (ammo: 20)
   - ER Medium Laser × 2
   - ER Small Laser × 3
-  - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -75,8 +75,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 6
   - Streak SRM 6 × 2 (ammo: 15)
+  - ER Medium Laser × 6
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
@@ -110,9 +110,9 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - Streak SRM 6 × 2 (ammo: 15)
   - Heavy Medium Laser × 4
   - Heavy Small Laser
-  - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -128,14 +128,14 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy Flamer × 2 (ammo: 30)
-  - ER Flamer × 2
   - Plasma Cannon (ammo: 20)
   - ER Medium Laser
+  - ER Flamer × 2
+  - Heavy Flamer × 2 (ammo: 30)
 - **Equipment:**
+  - Active Probe
   - CASE
   - Remote Sensor Dispenser
-  - Active Probe
 - **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1308
 

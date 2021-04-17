@@ -8,9 +8,9 @@
 - **Cockpit:** Armored
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - ER Large Laser × 3
   - Clan Streak SRM 6 × 4 (ammo: 60)
   - ER Medium Laser × 3
-  - ER Large Laser × 3
 - **Equipment:**
   - CASE II
 - **Source:** TRO 3145 Free Worlds League - Late Republic

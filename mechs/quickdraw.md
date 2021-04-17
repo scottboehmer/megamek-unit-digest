@@ -8,8 +8,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 10 (ammo: 12)
+  - Medium Laser × 4
   - SRM 4 (ammo: 25)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1192
@@ -23,8 +23,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 10 (ammo: 12)
+  - Medium Laser × 4
   - SRM 4 (ammo: 25)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1242
@@ -66,8 +66,8 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 10 (ammo: 12)
+  - Medium Laser × 4
   - SRM 4 (OS)
 - **Equipment:**
   - CASE
@@ -113,8 +113,8 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 4
   - MRM 30 (ammo: 16)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -129,8 +129,8 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LRM 10 w/ Artemis IV (ammo: 12)
+  - ER Medium Laser × 2
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
@@ -150,13 +150,13 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - PPC
+  - Medium Laser × 2
 - **Equipment:**
-  - Lift Hoist
   - Guardian ECM Suite
   - Head Turret
   - TAG
+  - Lift Hoist
 - **Source:** Jihad
 - **Battle Value:** unknown
 
@@ -171,9 +171,9 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
+  - PPC
   - Streak SRM 4 (ammo: 25)
   - Medium Laser × 2
-  - PPC
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
@@ -188,8 +188,8 @@
 - **Armor:** 178 (Light Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Large Laser × 2
   - LRM 15 (ammo: 24)
+  - Large Laser × 2
 - **Equipment:**
   - CASE II
   - Targeting Computer

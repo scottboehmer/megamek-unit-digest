@@ -7,8 +7,8 @@
 - **Armor:** 88 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
   - LRM 5 × 4 (ammo: 24)
+  - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3067
@@ -22,10 +22,10 @@
 - **Armor:** 105 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
-  - Rocket 10
   - LRM 5 × 2 (ammo: 24)
   - Rocket 15 × 2
+  - Rocket 10
+  - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3067
@@ -39,9 +39,9 @@
 - **Armor:** 88 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - ER Large Laser
   - ER Medium Laser × 2
   - ER Small Laser
-  - ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3067
@@ -70,8 +70,8 @@
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 2
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
+  - ER Small Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** 3067 Unabridged

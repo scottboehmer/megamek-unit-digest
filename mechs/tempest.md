@@ -8,8 +8,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Large Pulse Laser
   - Gauss Rifle (ammo: 16)
+  - Large Pulse Laser
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
 - **Source:** TRO 3055 - Clan Invasion
@@ -24,10 +24,10 @@
 - **Armor:** 200
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Large Pulse Laser
   - Gauss Rifle (ammo: 24)
-  - SRM 4 (ammo: 25)
+  - Large Pulse Laser
   - Medium Laser × 3
+  - SRM 4 (ammo: 25)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1810
 
@@ -40,8 +40,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Large Pulse Laser
   - AC/10 (ammo: 40)
+  - Large Pulse Laser
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
 - **Source:** TRO 3055 - Clan Invasion
@@ -56,11 +56,11 @@
 - **Armor:** 211
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Large Pulse Laser
   - Light Gauss Rifle (ammo: 16)
-  - ER Small Laser
+  - Large Pulse Laser
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
+  - ER Small Laser
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1642
 

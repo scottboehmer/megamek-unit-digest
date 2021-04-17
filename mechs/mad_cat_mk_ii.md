@@ -9,8 +9,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
-  - ER Medium Laser × 4
   - LRM 10 × 2 (ammo: 24)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3067
@@ -25,10 +25,10 @@
 - **Armor:** 249 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - Gauss Rifle (ammo: 16)
-  - Streak SRM 4 × 4 (ammo: 50)
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - ER Medium Laser × 2
+  - Streak SRM 4 × 4 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** 3067 Unabridged
@@ -43,11 +43,11 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - HAG 30 × 2 (ammo: 32)
-  - ER Medium Laser × 4
   - LRM 10 × 2 (ammo: 24)
+  - ER Medium Laser × 4
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** 3067 Unabridged
 - **Battle Value:** 3168
 
@@ -61,8 +61,8 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER Large Pulse Laser × 2
-  - ER Medium Laser × 2
   - LRM 10 × 2 (ammo: 24)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 2732
@@ -79,8 +79,8 @@
   - ER Large Laser × 4
   - LRM 15 × 2 (ammo: 48)
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2962
 
@@ -93,12 +93,12 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - Improved Heavy Large Laser
   - Improved Heavy Medium Laser
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2491
 

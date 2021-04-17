@@ -8,10 +8,10 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
+  - Ultra AC/10 (ammo: 20)
   - Medium Pulse Laser × 2
   - ER Medium Laser
-  - Ultra AC/10 (ammo: 20)
+  - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
   - MASC
@@ -27,10 +27,10 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
   - ER Large Laser × 2
   - ER Medium Laser
   - LB 5-X AC (ammo: 20 Cluster)
+  - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
   - MASC
@@ -46,10 +46,10 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Inner Sphere ER Medium Laser × 2
+  - Ultra AC/10 (ammo: 20)
   - Inner Sphere MRM 20 (ammo: 12)
   - ER Medium Laser
-  - Ultra AC/10 (ammo: 20)
+  - Inner Sphere ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - MASC

@@ -8,8 +8,8 @@
 - **Armor:** 96 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1434
 
@@ -37,8 +37,8 @@
 - **Armor:** 96 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Machine Gun × 6 (ammo: 100)
   - ER PPC
+  - Light Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -54,8 +54,8 @@
 - **Armor:** 96 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 3 × 4 (ammo: 40 Standard, 20 ER)
   - ER Medium Laser
+  - ATM 3 × 4 (ammo: 40 Standard, 20 ER)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Civil War
@@ -84,8 +84,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER Large Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Partial Wing
   - Targeting Computer
@@ -101,8 +101,8 @@
 - **Armor:** 96 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
 - **Source:** ilClan Vol 11 - Dark Age

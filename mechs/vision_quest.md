@@ -7,9 +7,9 @@
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - Ultra AC/20 (ammo: 15)
   - ER Large Laser × 2
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars
@@ -23,9 +23,9 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Small Laser × 3
   - Gauss Rifle (ammo: 16)
   - ER Large Laser × 2
+  - ER Small Laser × 3
 - **Equipment:**
   - CASE
   - Targeting Computer

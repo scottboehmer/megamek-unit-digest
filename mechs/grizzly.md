@@ -8,11 +8,11 @@
 - **Armor:** 208
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - Large Pulse Laser
   - Medium Pulse Laser
-  - Small Pulse Laser
-  - Gauss Rifle (ammo: 16)
   - LRM 10 (ammo: 12)
+  - Small Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Succession Wars
@@ -27,10 +27,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Large Laser
-  - ER Micro Laser × 6
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - ATM 9 (ammo: 14)
+  - ER Micro Laser × 6
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Civil War

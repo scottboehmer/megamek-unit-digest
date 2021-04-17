@@ -7,10 +7,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 6
   - PPC × 2
-  - SRM 4 × 4 (ammo: 50)
   - SRM 6 (ammo: 15)
+  - Medium Laser × 6
+  - SRM 4 × 4 (ammo: 50)
 - **Source:** TRO 3075
 - **Battle Value:** 1959
 
@@ -23,8 +23,8 @@
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Laser × 7
   - ER PPC × 2
+  - Medium Laser × 7
   - SRM 4 × 5 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -39,8 +39,8 @@
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Laser × 6
   - PPC × 3
+  - Medium Laser × 6
   - SRM 4 × 5 (ammo: 50)
 - **Equipment:**
   - CASE

@@ -8,11 +8,11 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - LRM 15 w/ Artemis IV × 2 (ammo: 24)
-  - Streak SRM 2 × 4 (ammo: 50)
   - ER PPC
-  - Medium Laser
+  - LRM 15 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser
+  - Medium Laser
+  - Streak SRM 2 × 4 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Battle Value:** 2087
@@ -26,9 +26,9 @@
 - **Armor:** 232 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - ER PPC
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - Streak SRM 6 × 4 (ammo: 30)
-  - ER PPC
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -43,9 +43,9 @@
 - **Armor:** 248
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
+  - PPC
   - LRM 15 × 2 (ammo: 16)
   - SRM 6 × 2 (ammo: 30)
-  - PPC
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -60,9 +60,9 @@
 - **Armor:** 248
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
+  - ER PPC
   - LRM 15 × 2 (ammo: 16)
   - SRM 6 × 2 (ammo: 30)
-  - ER PPC
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -77,9 +77,9 @@
 - **Armor:** 248
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
+  - Snub-Nose PPC
   - LB 5-X AC × 2 (ammo: 20 Cluster, 20 Standard)
   - SRM 6 × 2 (ammo: 30)
-  - Snub-Nose PPC
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad

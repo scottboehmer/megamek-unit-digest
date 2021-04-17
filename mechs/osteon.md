@@ -25,11 +25,11 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Inner Sphere Retractable Blade
+  - ER PPC
   - Ultra AC/20 (ammo: 15)
   - Large Pulse Laser
   - ER Small Laser × 2
-  - ER PPC
+  - Inner Sphere Retractable Blade
 - **Equipment:**
   - Nova CEWS
   - CASE
@@ -45,9 +45,9 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
+  - Improved Heavy Large Laser × 2
   - ER Large Laser × 3
   - Inner Sphere Large Vibroblade
-  - Improved Heavy Large Laser × 2
 - **Equipment:**
   - Nova CEWS
 - **Source:** WoR - Jihad
@@ -63,8 +63,8 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - Large Pulse Laser × 2
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - Nova CEWS
   - Targeting Computer
@@ -114,14 +114,14 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Gauss Rifle (ammo: 16)
   - RAC/5 (ammo: 80)
-  - Machine Gun × 8 (ammo: 100)
+  - Gauss Rifle (ammo: 16)
   - ER Large Laser
+  - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Nova CEWS
-  - CASE
   - Machine Gun Array × 2
+  - CASE
 - **Source:** WoR - Jihad
 - **Battle Value:** 2716
 
@@ -135,8 +135,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Arrow IV × 2 (ammo: 25)
-  - ER Medium Laser × 2
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
   - Nova CEWS
   - CASE
@@ -155,8 +155,8 @@
 - **Weapons:**
   - LRT 15 w/ Artemis V × 4 (ammo: 72)
 - **Equipment:**
-  - HarJel × 4
   - Nova CEWS
+  - HarJel × 4
   - CASE
 - **Source:** WoR - Jihad
 - **Battle Value:** 2647

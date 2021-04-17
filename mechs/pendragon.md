@@ -7,8 +7,8 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ELRM 20 × 2 (ammo: 32)
   - ER PPC w/ PPC Capacitor
+  - ELRM 20 × 2 (ammo: 32)
   - Clan ER Medium Laser × 3
 - **Equipment:**
   - CASE II
@@ -24,8 +24,8 @@
 - **Armor:** 293 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ELRM 15 × 2 (ammo: 24)
   - ER PPC w/ PPC Capacitor
+  - ELRM 15 × 2 (ammo: 24)
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE II
@@ -40,8 +40,8 @@
 - **Armor:** 293 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - RAC/2 × 2 (ammo: 180)
   - ER PPC w/ PPC Capacitor
+  - RAC/2 × 2 (ammo: 180)
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE II

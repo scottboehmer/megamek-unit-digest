@@ -9,8 +9,8 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Large Laser
-  - Machine Gun × 2 (ammo: 200)
   - Medium Laser × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion

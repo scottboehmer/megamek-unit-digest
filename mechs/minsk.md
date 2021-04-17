@@ -13,8 +13,8 @@
   - Small Pulse Laser × 2
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - CASE
   - Inner Sphere Beagle Active Probe
+  - CASE
 - **Source:** Succession Wars
 - **Battle Value:** 2024
 
@@ -32,9 +32,9 @@
   - Small Pulse Laser × 2
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
-  - CASE
   - Active Probe
   - Inner Sphere A-Pod × 2
+  - CASE
 - **Source:** Succession Wars
 - **Battle Value:** 2028
 

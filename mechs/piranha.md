@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Machine Gun × 12 (ammo: 200)
   - ER Small Laser
+  - Machine Gun × 12 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Heavy Medium Laser × 2
-  - ER Micro Laser × 12
   - Heavy Small Laser
+  - ER Micro Laser × 12
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 853
 

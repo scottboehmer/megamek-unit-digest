@@ -40,9 +40,9 @@
   - Large Re-Engineered Laser × 2
   - Clan ER Medium Laser × 2
 - **Equipment:**
+  - Clan Light Active Probe
   - Radical Heat Sink System
   - C3 BoostedMaster
-  - Clan Light Active Probe
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1498
 

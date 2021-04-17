@@ -64,8 +64,8 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - RAC/5 (ammo: 60)
+  - ER Medium Laser × 2
 - **Battle Value:** 1808
 
 ## Legionnaire LGN-2X1 MUSE FIRE
@@ -77,8 +77,8 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Clan RAC/5 (ammo: 60)
+  - ER Medium Laser × 2
 - **Source:** Jihad
 - **Battle Value:** 2032
 

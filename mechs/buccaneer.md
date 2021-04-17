@@ -7,11 +7,11 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
   - ER Large Laser
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Pulse Laser
   - Medium Laser × 4
+  - Hatchet
 - **Source:** TRO 3060
 - **Battle Value:** 1434
 
@@ -24,8 +24,8 @@
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
   - Plasma Rifle (ammo: 20)
+  - Hatchet
   - Heavy Machine Gun × 3 (ammo: 50)
 - **Equipment:**
   - C3i
@@ -42,8 +42,8 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
   - MML 5 × 3 (ammo: 20 SRM, 24 LRM)
+  - Hatchet
 - **Equipment:**
   - C3i
 - **Source:** TRO 3060

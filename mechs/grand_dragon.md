@@ -7,9 +7,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 3
   - PPC
   - LRM 10 (ammo: 24)
+  - Medium Laser × 3
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1300
 
@@ -21,8 +21,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - SRM 6 (ammo: 15)
   - AC/5 (ammo: 20)
+  - SRM 6 (ammo: 15)
   - Medium Laser
   - LRM 5 (ammo: 24)
 - **Battle Value:** 1076
@@ -35,9 +35,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 3
   - ER PPC
   - LRM 10 (ammo: 24)
+  - Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -51,9 +51,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - ER PPC
   - LRM 10 (ammo: 24)
+  - Medium Laser × 2
 - **Equipment:**
   - Command Console
   - CASE
@@ -68,9 +68,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 2
   - ER PPC
   - LRM 10 (ammo: 24)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -85,8 +85,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 3
   - ER PPC
+  - ER Medium Laser × 3
   - MRM 10 (ammo: 24)
 - **Equipment:**
   - C3 Slave
@@ -103,9 +103,9 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser
   - Heavy PPC
   - LRM 15 (ammo: 16)
+  - ER Medium Laser
 - **Equipment:**
   - C3 Slave
   - CASE
@@ -121,8 +121,8 @@
 - **Armor:** 161 (Light Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 2
   - Snub-Nose PPC
+  - Medium Laser × 2
   - MML 5 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - C3 Master
@@ -138,8 +138,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 3
   - ER PPC
+  - ER Medium Laser × 3
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - C3 Boosted Slave
@@ -155,9 +155,9 @@
 - **Armor:** 192 (Anti-Penetrative Ablative Armor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Snub-Nose PPC
   - MRM 20 w/ Apollo FCS (ammo: 12)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NTNU

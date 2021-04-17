@@ -12,10 +12,10 @@
   - LRM 5 × 2 (ammo: 48)
   - Flamer
 - **Equipment:**
-  - TAG
   - ECM Suite
-  - CASE
   - Active Probe
+  - TAG
+  - CASE
 - **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1334
 
@@ -29,8 +29,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Streak SRM 6 × 2 (ammo: 30)
-  - Flamer
   - Small Pulse Laser
+  - Flamer
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Succession Wars
@@ -45,8 +45,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Medium Pulse Laser
+  - ER Medium Laser
   - LB 2-X AC (ammo: 45)
   - Flamer
 - **Equipment:**
@@ -63,8 +63,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 4
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 4
   - Flamer
 - **Equipment:**
   - Active Probe
@@ -97,9 +97,9 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser
-  - Flamer
   - Heavy Medium Laser
   - Heavy Small Laser × 2
+  - Flamer
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1264
 
@@ -112,13 +112,13 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Machine Gun × 6 (ammo: 200)
   - Medium Pulse Laser × 2
   - Flamer
+  - Light Machine Gun × 6 (ammo: 200)
 - **Equipment:**
   - Machine Gun Array × 2
-  - CASE
   - B-Pod × 2
+  - CASE
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1081
 

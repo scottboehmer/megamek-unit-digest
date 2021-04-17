@@ -7,8 +7,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - Medium Laser
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 432
 
@@ -20,8 +20,8 @@
 - **Armor:** 48
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 2 × 2 (ammo: 50)
   - Medium Laser
+  - SRM 2 × 2 (ammo: 50)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 440
 
@@ -33,8 +33,8 @@
 - **Armor:** 16
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - LRM 5 × 2 (ammo: 24)
   - Medium Laser
+  - LRM 5 × 2 (ammo: 24)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 424
 
@@ -47,8 +47,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - Small Pulse Laser × 2
   - Medium Laser
+  - Small Pulse Laser × 2
 - **Battle Value:** 642
 
 ## Locust LCT-1E
@@ -72,8 +72,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 100)
   - Medium Laser × 2
+  - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 490
 
@@ -86,8 +86,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - Medium Laser
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 474
 
@@ -113,8 +113,8 @@
 - **Armor:** 44 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Streak SRM 2 × 2 (ammo: 50)
   - Medium Laser
+  - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -128,8 +128,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Clan ER Small Laser × 2
   - Clan Medium Pulse Laser
+  - Clan ER Small Laser × 2
 - **Battle Value:** 672
 
 ## Locust LCT-3M
@@ -140,8 +140,8 @@
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser × 4
   - Medium Laser
+  - Small Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
@@ -156,8 +156,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Rocket 10 × 4
   - Medium Laser
+  - Rocket 10 × 4
 - **Source:** Civil War
 - **Battle Value:** 568
 
@@ -169,8 +169,8 @@
 - **Armor:** 69 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Small Laser × 4
   - ER Medium Laser
+  - ER Small Laser × 4
 - **Source:** Civil War
 - **Battle Value:** 719
 
@@ -182,8 +182,8 @@
 - **Armor:** 69 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Rocket 10 × 2
   - ER Medium Laser × 2
+  - Rocket 10 × 2
 - **Source:** Jihad
 - **Battle Value:** 665
 
@@ -195,8 +195,8 @@
 - **Armor:** 69 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Light Machine Gun × 6 (ammo: 100)
   - ER Medium Laser
+  - Light Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
@@ -261,8 +261,8 @@
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER Medium Laser
+  - Medium Pulse Laser × 2
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 693
 
@@ -274,8 +274,8 @@
 - **Armor:** 62 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
+  - ER Medium Laser × 2
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 929
 

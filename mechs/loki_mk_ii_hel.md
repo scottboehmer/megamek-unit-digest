@@ -26,13 +26,13 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Pulse Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Pulse Laser × 2
   - Improved Heavy Medium Laser × 2
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
-  - CASE
   - Angel ECM Suite
+  - CASE
 - **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2249
 

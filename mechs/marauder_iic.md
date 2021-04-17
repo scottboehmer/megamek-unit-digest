@@ -35,8 +35,8 @@
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 21 (42)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - ER PPC × 2
+  - Medium Pulse Laser × 4
   - LRM 10 (ammo: 12)
   - ER Small Laser
 - **Equipment:**
@@ -53,9 +53,9 @@
 - **Armor:** 240 (Ferro Fibrous)
 - **Heat Sinks:** 24 (48)
 - **Weapons:**
+  - ER Large Laser
   - Heavy Large Laser × 2
   - Medium Pulse Laser × 2
-  - ER Large Laser
 - **Source:** Civil War
 - **Battle Value:** 2358
 
@@ -99,8 +99,8 @@
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
   - ER PPC × 2
-  - AP Gauss Rifle × 2 (ammo: 40)
   - HAG 20 (ammo: 12)
+  - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -115,10 +115,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
   - Heavy Large Laser
+  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -132,15 +132,15 @@
 - **Armor:** 263
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - Streak SRM 4 × 2 (ammo: 25)
   - HAG 30 (ammo: 12)
+  - Gauss Rifle (ammo: 16)
   - Large Pulse Laser
+  - Streak SRM 4 × 2 (ammo: 25)
   - ER Small Laser
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** Dark Age
 - **Battle Value:** 2843
 
@@ -153,10 +153,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
+  - ER PPC
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
-  - ER PPC
-  - Small Pulse Laser × 2
   - ER Small Laser × 2
+  - Small Pulse Laser × 2
 - **Battle Value:** 2877
 

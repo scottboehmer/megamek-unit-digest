@@ -8,9 +8,9 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 25)
-  - Medium Laser × 2
   - LRM 20 (ammo: 18)
+  - Medium Laser × 2
+  - SRM 4 × 2 (ammo: 25)
 - **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 1205
 
@@ -22,8 +22,8 @@
 - **Armor:** 192
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 15)
   - ER Large Laser × 3
+  - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** Star League
@@ -37,12 +37,12 @@
 - **Armor:** 195 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Streak SRM 4 × 2 (ammo: 25)
-  - ER Medium Laser × 2
   - LRM 20 w/ Artemis IV (ammo: 18)
+  - ER Medium Laser × 2
+  - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 1557
 

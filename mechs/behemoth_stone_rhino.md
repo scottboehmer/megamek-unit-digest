@@ -8,10 +8,10 @@
 - **Armor:** 264
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
-  - ER Medium Laser × 4
-  - Machine Gun × 4 (ammo: 400)
   - Ultra AC/10 × 2 (ammo: 40)
   - LRM 10 × 4 (ammo: 48)
+  - ER Medium Laser × 4
+  - Machine Gun × 4 (ammo: 400)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Succession Wars
@@ -41,8 +41,8 @@
 - **Armor:** 288
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large Pulse Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
+  - Large Pulse Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -87,14 +87,14 @@
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - Gauss Rifle × 2 (ammo: 32)
   - Heavy Large Laser × 2
   - Heavy Medium Laser × 4
   - Heavy Small Laser × 2
-  - Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
   - A-Pod × 2
+  - CASE
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 3107
 
@@ -123,8 +123,8 @@
 - **Armor:** 288
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large Pulse Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
+  - Large Pulse Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - AES × 2

@@ -7,9 +7,9 @@
 - **Armor:** 264
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Gauss Rifle × 2 (ammo: 32)
   - Light PPC × 2
   - ER Medium Laser × 4
-  - Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** DTP Liao
@@ -24,12 +24,12 @@
 - **Armor:** 272
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Large Laser
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - ER Medium Laser × 6
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
 - **Source:** TRO 3060
 - **Battle Value:** 2433
 
@@ -42,11 +42,11 @@
 - **Armor:** 272
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - ER PPC
+  - LRM 10 (ammo: 12)
   - Medium Pulse Laser
   - Medium Laser × 2
-  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
-  - LRM 10 (ammo: 12)
 - **Source:** TRO 3060
 - **Battle Value:** 2074
 
@@ -59,10 +59,10 @@
 - **Armor:** 272
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - ER PPC
   - Medium Pulse Laser
   - Medium Laser × 2
-  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
 - **Equipment:**
   - C3 Master
 - **Source:** TRO 3060
@@ -77,10 +77,10 @@
 - **Armor:** 272
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Large Laser
-  - Medium Laser × 3
   - Ultra AC/20 (ammo: 15)
+  - Large Laser
   - LRM 10 (ammo: 12)
+  - Medium Laser × 3
 - **Source:** TRO 3060
 - **Battle Value:** 2039
 

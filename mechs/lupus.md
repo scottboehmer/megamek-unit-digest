@@ -8,11 +8,11 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 18)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Battle Value:** 2428
 
 ## Lupus A
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Large Pulse Laser
-  - ER Medium Laser × 2
   - Ultra AC/10 (ammo: 30)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 1927
@@ -38,10 +38,10 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Medium Pulse Laser × 2
-  - ER Small Laser × 2
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 1985
@@ -54,8 +54,8 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 2
   - Improved Heavy Large Laser × 2
+  - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - Supercharger
   - Inner Sphere Coolant Pod
@@ -71,9 +71,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Pulse Laser × 2
   - RAC/5 (ammo: 60)
   - Streak LRM 10 (ammo: 12)
+  - ER Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Dark Age

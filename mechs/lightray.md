@@ -71,8 +71,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Snub-Nose PPC
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
   - ER Medium Laser
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
 - **Equipment:**
   - C3i
 - **Source:** 3067 Unabridged

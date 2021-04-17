@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - ER Micro Laser × 4
   - SRM 6 w/ Artemis IV (ammo: 30)
+  - ER Micro Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -25,8 +25,8 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
+  - ER Medium Laser × 2
 - **Equipment:**
   - B-Pod × 2
 - **Source:** Jihad

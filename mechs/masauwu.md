@@ -10,12 +10,12 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
-  - ER Small Laser
   - Streak SRM 2 × 2 (ammo: 50)
+  - ER Small Laser
 - **Equipment:**
-  - CASE
-  - Anti-Missile System (ammo: 24)
   - ECM Suite
+  - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** Succession Wars
 - **Battle Value:** 2299
 

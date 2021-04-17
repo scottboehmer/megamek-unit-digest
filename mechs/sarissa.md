@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser
   - Blazer Cannon
+  - Medium Laser
   - Small Laser
   - Machine Gun (ammo: 100)
 - **Source:** XTRO Marik - Jihad

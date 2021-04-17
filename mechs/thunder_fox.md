@@ -9,9 +9,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
+  - Light Gauss Rifle (ammo: 16)
   - Streak SRM 4 (ammo: 25)
   - ER Small Laser
-  - Light Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** Jihad

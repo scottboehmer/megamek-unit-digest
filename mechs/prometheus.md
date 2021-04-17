@@ -8,10 +8,10 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Large Pulse Laser
-  - Medium Pulse Laser
   - ER PPC
+  - Large Pulse Laser
   - LRM 15 × 2 (ammo: 16)
+  - Medium Pulse Laser
   - SRM 6 × 2 (ammo: 15)
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**

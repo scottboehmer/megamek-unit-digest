@@ -28,8 +28,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Large Pulse Laser × 2
-  - Medium Pulse Laser × 2
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Federated Suns - Early Republic
@@ -45,11 +45,11 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Chain Whip
-  - Hatchet
   - ER PPC
+  - Hatchet
   - Small X-Pulse Laser × 6
   - ER Small Laser
+  - Chain Whip
 - **Equipment:**
   - CASE
   - Supercharger
@@ -65,8 +65,8 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Large Re-Engineered Laser
   - RAC/5 (ammo: 60)
+  - Large Re-Engineered Laser
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
   - ER Small Laser
@@ -102,8 +102,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Clan ER PPC × 2
-  - Clan ER Medium Laser × 2
   - Clan Streak SRM 6 (ammo: 0)
+  - Clan ER Medium Laser × 2
   - Clan ER Small Laser
 - **Equipment:**
   - Command Console

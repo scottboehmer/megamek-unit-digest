@@ -9,9 +9,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Mace
-  - ER Small Laser
   - ER Medium Laser
+  - ER Small Laser
+  - Mace
 - **Source:** Jihad
 - **Battle Value:** 670
 
@@ -26,8 +26,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Mace
   - SRM 4 × 2 (ammo: 25)
+  - Mace
 - **Source:** Jihad
 - **Battle Value:** 612
 

@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - AC/10 (ammo: 10)
-  - Small Laser
   - Medium Laser × 2
+  - Small Laser
 - **Source:** TRO 3075
 - **Battle Value:** 869
 
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Small Laser
   - Medium Pulse Laser
+  - Small Laser
 - **Source:** TRO 3075
 - **Battle Value:** 986
 

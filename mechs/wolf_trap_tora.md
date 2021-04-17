@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
-  - Medium Laser × 2
   - LRM 10 (ammo: 12)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
-  - Medium Laser × 2
   - LRM 10 (ammo: 12)
+  - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe
   - C3i
@@ -41,8 +41,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
-  - Medium Laser
   - LRM 10 (ammo: 12)
+  - Medium Laser
 - **Equipment:**
   - C3 Slave
   - CASE

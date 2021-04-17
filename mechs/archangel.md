@@ -10,13 +10,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Retractable Blade
   - Heavy PPC
   - Plasma Rifle (ammo: 20)
+  - Retractable Blade
 - **Equipment:**
+  - Guardian ECM Suite
   - C3i
   - Targeting Computer
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** unknown
 
@@ -31,8 +31,8 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - Heavy PPC × 2
-  - ER Medium Laser × 2
   - Snub-Nose PPC
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3i
 - **Source:** TRO 3075
@@ -48,9 +48,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Light PPC × 2
   - Heavy PPC
   - Snub-Nose PPC × 2
+  - Light PPC × 2
 - **Equipment:**
   - C3i
 - **Source:** TRO 3075
@@ -70,9 +70,9 @@
   - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - C3i
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** 2010
 
@@ -89,11 +89,11 @@
 - **Weapons:**
   - ER PPC × 2
   - Medium Pulse Laser × 4
-  - Small Pulse Laser
   - ER Small Laser
+  - Small Pulse Laser
 - **Equipment:**
-  - C3i
   - Guardian ECM Suite
+  - C3i
 - **Source:** TRO 3075
 - **Battle Value:** 2105
 
@@ -107,10 +107,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - Light PPC w/ PPC Capacitor × 2
   - Heavy PPC w/ PPC Capacitor
-  - Medium VSP Laser
   - Snub-Nose PPC
+  - Light PPC w/ PPC Capacitor × 2
+  - Medium VSP Laser
 - **Equipment:**
   - C3i
 - **Source:** Starterbook: Wolf & Blake - Jihad
@@ -127,9 +127,9 @@
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
   - ER PPC × 2
-  - ER Small Laser × 2
-  - Light PPC
   - ER Large Laser
+  - Light PPC
+  - ER Small Laser × 2
 - **Equipment:**
   - C3i
   - Targeting Computer
@@ -146,10 +146,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Clan ER Small Laser × 2
-  - Thunderbolt 10 (ammo: 6)
   - Blazer Cannon × 2
+  - Thunderbolt 10 (ammo: 6)
   - Clan ER Medium Laser × 2
+  - Clan ER Small Laser × 2
   - ER Flamer × 2
 - **Equipment:**
   - C3i

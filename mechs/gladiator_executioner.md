@@ -44,13 +44,13 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - Ultra AC/20 (ammo: 15)
   - ER PPC
+  - Ultra AC/20 (ammo: 15)
   - ER Medium Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2940
 
@@ -63,8 +63,8 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - LRM 20 w/ Artemis IV (ammo: 12)
   - Ultra AC/20 (ammo: 15)
+  - LRM 20 w/ Artemis IV (ammo: 12)
   - ER Small Laser
 - **Equipment:**
   - MASC
@@ -82,11 +82,11 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 45)
   - Large Pulse Laser
   - Medium Pulse Laser × 3
-  - Small Pulse Laser × 5
+  - SRM 6 × 2 (ammo: 45)
   - ER Small Laser
+  - Small Pulse Laser × 5
 - **Equipment:**
   - MASC
   - CASE
@@ -103,12 +103,12 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER PPC
-  - ER Small Laser × 3
   - Large Pulse Laser × 2
+  - ER Small Laser × 3
 - **Equipment:**
+  - Active Probe
   - MASC
   - Targeting Computer
-  - Active Probe
 - **Source:** Clan Invasion
 - **Battle Value:** 3363
 
@@ -123,8 +123,8 @@
 - **Weapons:**
   - Ultra AC/20 (ammo: 20)
   - Heavy Large Laser
-  - Flamer
   - ER Medium Laser × 2
+  - Flamer
 - **Equipment:**
   - MASC
   - CASE
@@ -141,8 +141,8 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 21 Standard, 7 ER, 7 HE)
   - ER Large Laser × 2
+  - ATM 9 × 2 (ammo: 21 Standard, 7 ER, 7 HE)
   - Heavy Medium Laser × 2
   - Heavy Small Laser
 - **Equipment:**
@@ -164,9 +164,9 @@
   - ER Large Laser × 2
   - ER Medium Laser × 3
 - **Equipment:**
+  - Light Active Probe
   - MASC
   - CASE
-  - Light Active Probe
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3125
 
@@ -179,10 +179,10 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Plasma Cannon (ammo: 10)
   - HAG 30 (ammo: 12)
-  - Heavy Medium Laser × 3
+  - Plasma Cannon (ammo: 10)
   - LRM 10 (ammo: 12)
+  - Heavy Medium Laser × 3
 - **Equipment:**
   - MASC
   - CASE
@@ -220,10 +220,10 @@
   - Streak LRM 15 (ammo: 16)
   - ER Medium Laser × 6
 - **Equipment:**
+  - Watchdog CEWS
   - MASC
   - CASE
   - Targeting Computer
-  - Watchdog CEWS
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 3825
 
@@ -236,13 +236,13 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
-  - Streak SRM 6 × 2 (ammo: 15)
   - Improved Heavy Large Laser × 2
+  - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
+  - ECM Suite
   - MASC
   - CASE
   - Targeting Computer
-  - ECM Suite
   - Supercharger
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 3339
@@ -256,8 +256,8 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - SRM 6 × 3 (ammo: 30)
   - HAG 40 (ammo: 12)
+  - SRM 6 × 3 (ammo: 30)
 - **Equipment:**
   - CASE
   - MASC

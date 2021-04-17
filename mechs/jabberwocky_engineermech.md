@@ -10,8 +10,8 @@
 - **Weapons:**
   - Spot Welder
 - **Equipment:**
-  - Enviro-Sealing
   - Salvage Arm
+  - Enviro-Sealing
   - Lift Hoist
   - Tracks
 - **Source:** RS 3075 Unabrided
@@ -30,10 +30,10 @@
 - **Weapons:**
   - Spot Welder
 - **Equipment:**
-  - Enviro-Sealing
   - Salvage Arm
-  - Lift Hoist × 2
   - Searchlight
+  - Enviro-Sealing
+  - Lift Hoist × 2
   - Tracks
 - **Source:** TRO 3075
 - **Battle Value:** unknown

@@ -154,8 +154,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - PPC
-  - Medium Pulse Laser × 2
   - Large Laser × 2
+  - Medium Pulse Laser × 2
   - Medium Laser × 2
   - Small Laser
 - **Source:** TRO 3058 - Clan Invasion
@@ -170,9 +170,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 10 (ammo: 24)
   - ER Large Laser
   - Light Gauss Rifle (ammo: 32)
+  - LRM 10 (ammo: 24)
   - ER Small Laser
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1260
@@ -202,9 +202,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Ultra AC/10 (ammo: 20)
   - ER PPC
+  - Ultra AC/10 (ammo: 20)
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1405
@@ -248,9 +248,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Light PPC × 2
   - LRT 5 × 6 (ammo: 72)
   - ER Small Laser
-  - Light PPC × 2
 - **Equipment:**
   - HarJel × 5
 - **Source:** Jihad

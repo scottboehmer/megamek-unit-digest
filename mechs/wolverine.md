@@ -23,9 +23,9 @@
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
   - Large Laser
+  - SRM 6 (ammo: 30)
   - Medium Laser × 2
   - Small Laser
-  - SRM 6 (ammo: 30)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1248
 
@@ -39,8 +39,8 @@
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
   - Large Laser
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1291
 
@@ -86,9 +86,9 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Large Pulse Laser
-  - Small Pulse Laser
   - SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser
+  - Small Pulse Laser
 - **Source:** Clan Invasion
 - **Battle Value:** 1331
 
@@ -119,8 +119,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER PPC
-  - ER Medium Laser
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
@@ -174,9 +174,9 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Large Pulse Laser
-  - Small Pulse Laser
   - Streak SRM 6 × 2 (ammo: 15)
   - Medium Pulse Laser
+  - Small Pulse Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** Civil War
@@ -210,13 +210,13 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Sword
   - Snub-Nose PPC
-  - Light Machine Gun × 3 (ammo: 100)
   - SRM 4 (ammo: 25)
+  - Sword
+  - Light Machine Gun × 3 (ammo: 100)
 - **Equipment:**
-  - Machine Gun Array
   - B-Pod × 2
+  - Machine Gun Array
   - CASE
   - C3 Slave
 - **Source:** Jihad
@@ -231,9 +231,9 @@
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM)
   - Light PPC × 2
   - ER Medium Laser
+  - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE II
   - C3i
@@ -249,13 +249,13 @@
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM)
-  - ER Small Laser
   - Light PPC × 2
   - ER Medium Laser
+  - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM)
+  - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
   - C3 Slave
 - **Source:** Dark Age
 - **Battle Value:** 1463

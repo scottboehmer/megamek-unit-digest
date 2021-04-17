@@ -10,11 +10,11 @@
 - **Cockpit:** Interface
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Heavy PPC w/ PPC Capacitor
+  - ER Medium Laser × 2
 - **Equipment:**
-  - Void-Signature System
   - Angel ECM Suite
+  - Void-Signature System
 - **Source:** J:Final Reckoning - Jihad
 - **Battle Value:** 2329
 

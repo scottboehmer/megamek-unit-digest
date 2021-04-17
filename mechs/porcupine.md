@@ -23,10 +23,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Medium Laser × 2
   - Medium Laser × 4
   - Small X-Pulse Laser × 2
   - ER Small Laser
-  - ER Medium Laser × 2
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 901
 

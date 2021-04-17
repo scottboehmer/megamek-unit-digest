@@ -47,8 +47,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Streak SRM 2 × 2 (ammo: 50)
   - SRM 6 (ammo: 15)
+  - Streak SRM 2 × 2 (ammo: 50)
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 590
 
@@ -76,8 +76,8 @@
   - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - Guardian ECM Suite
-  - CASE
   - Beagle Active Probe
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 678
 
@@ -90,8 +90,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER Medium Laser × 3
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
   - C3 Slave
@@ -110,8 +110,8 @@
   - Medium X-Pulse Laser × 2
   - ER Medium Laser × 3
 - **Equipment:**
-  - Targeting Computer
   - Clan Active Probe
+  - Targeting Computer
 - **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
 - **Battle Value:** 1155
 
@@ -124,8 +124,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Machine Gun × 6 (ammo: 200)
   - Snub-Nose PPC
+  - Machine Gun × 6 (ammo: 200)
 - **Equipment:**
   - Machine Gun Array × 2
 - **Source:** TRO 3050 - Jihad

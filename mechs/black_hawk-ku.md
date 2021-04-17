@@ -96,8 +96,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Clan Streak SRM 6 × 2 (ammo: 30)
   - Clan ER Large Laser × 2
+  - Clan Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3058 - Clan Invasion
@@ -141,8 +141,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
   - Clan ER PPC
+  - Clan ER Medium Laser × 4
 - **Equipment:**
   - C3 Master
 - **Battle Value:** 2377
@@ -156,8 +156,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - Hatchet
   - ER Medium Laser × 7
+  - Hatchet
 - **Equipment:**
   - Liquid Cargo
 - **Source:** Jihad
@@ -172,8 +172,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium X-Pulse Laser × 3
   - Snub-Nose PPC
+  - Medium X-Pulse Laser × 3
 - **Equipment:**
   - Angel ECM Suite
   - Bloodhound Active Probe

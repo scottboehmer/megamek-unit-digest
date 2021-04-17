@@ -23,9 +23,9 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC
-  - ER Small Laser
   - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
+  - ER Small Laser
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -42,8 +42,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Claw × 2
   - Small VSP Laser × 3
+  - Claw × 2
 - **Equipment:**
   - Guardian ECM Suite
   - MASC

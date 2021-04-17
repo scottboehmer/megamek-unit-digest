@@ -8,12 +8,12 @@
 - **Armor:** 233
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Large Pulse Laser
+  - ER Medium Laser × 2
   - Medium Pulse Laser
 - **Equipment:**
-  - C3i
   - Anti-Missile System (ammo: 24)
+  - C3i
 - **Source:** TRO 3067
 - **Battle Value:** 1637
 
@@ -27,11 +27,11 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Plasma Rifle (ammo: 20)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - C3i
   - Anti-Missile System (ammo: 12)
+  - C3i
 - **Source:** RS:3067U
 - **Battle Value:** 1826
 
@@ -45,9 +45,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Snub-Nose PPC
   - ER Medium Laser × 2
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - C3i
   - TAG

@@ -8,11 +8,11 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER PPC
-  - ER Small Laser
   - Streak SRM 2 (ammo: 50)
+  - ER Small Laser
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1678
 
@@ -24,11 +24,11 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LB 2-X AC (ammo: 45)
   - ER Medium Laser × 2
+  - LB 2-X AC (ammo: 45)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1323
 
@@ -41,8 +41,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser
-  - SRM 4 (ammo: 25)
   - SRM 6 (ammo: 15)
+  - SRM 4 (ammo: 25)
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -104,8 +104,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser
-  - SRM 6 (ammo: 15)
   - Heavy Medium Laser × 2
+  - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -119,8 +119,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - AP Gauss Rifle × 3 (ammo: 80)
   - Plasma Cannon (ammo: 20)
+  - AP Gauss Rifle × 3 (ammo: 80)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -166,8 +166,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - SRM 4 × 2 (ammo: 25)
-  - AP Gauss Rifle × 4 (ammo: 40)
   - ER Small Pulse Laser × 2
+  - AP Gauss Rifle × 4 (ammo: 40)
 - **Equipment:**
   - CASE
   - Light TAG
@@ -184,9 +184,9 @@
   - SRM 6 × 2 (ammo: 30)
   - ER Small Laser
 - **Equipment:**
+  - Inner Sphere Bloodhound Active Probe
   - Inner Sphere M-Pod × 2
   - CASE
-  - Inner Sphere Bloodhound Active Probe
 - **Battle Value:** 1094
 
 ## Fenris (Ice Ferret) J
@@ -214,8 +214,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Large Pulse Laser
-  - ER Small Laser
   - ER Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
   - Laser Anti-Missile System
 - **Battle Value:** 1769
@@ -232,8 +232,8 @@
   - ER Medium Laser
   - SRM 2 (ammo: 50)
 - **Equipment:**
+  - Active Probe
   - CASE
   - Supercharger
-  - Active Probe
 - **Battle Value:** 1825
 

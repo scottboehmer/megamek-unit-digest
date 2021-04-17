@@ -86,8 +86,8 @@
   - ER PPC × 2
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
   - C3 Slave
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1824
@@ -100,8 +100,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Heavy PPC × 3
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - C3i
 - **Source:** TRO 3050 - Jihad

@@ -7,8 +7,8 @@
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Mace
   - SRM 6 (ammo: 15)
+  - Mace
   - Small Pulse Laser × 2
   - Machine Gun × 10 (ammo: 200)
 - **Equipment:**
@@ -26,10 +26,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Mace
-  - Claw
   - ER Medium Laser × 4
   - Medium Laser × 5
+  - Mace
+  - Claw
   - Small Laser
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1750
@@ -44,10 +44,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 5
   - Mace
   - Claw
-  - ER Medium Laser × 5
-  - Streak SRM 6 (ammo: 15)
 - **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1762
 

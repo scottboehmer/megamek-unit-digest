@@ -9,8 +9,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
-  - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 10)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
   - CASE

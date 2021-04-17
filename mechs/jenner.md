@@ -93,8 +93,8 @@
 - **Armor:** 62 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 15 (ammo: 16)
+  - Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Battle Value:** 1001
@@ -161,8 +161,8 @@
 - **Weapons:**
   - Medium Laser × 6
 - **Equipment:**
-  - Null-Signature System
   - Angel ECM Suite
+  - Null-Signature System
 - **Source:** XTRO Kurita - Jihad
 - **Battle Value:** 1269
 

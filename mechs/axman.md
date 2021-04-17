@@ -8,10 +8,10 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large Pulse Laser
-  - Hatchet
-  - Medium Laser × 3
   - AC/20 (ammo: 10)
+  - Large Pulse Laser
+  - Medium Laser × 3
+  - Hatchet
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -26,10 +26,10 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large Pulse Laser
-  - Hatchet
-  - Medium Laser × 3
   - LRM 15 × 2 (ammo: 16)
+  - Large Pulse Laser
+  - Medium Laser × 3
+  - Hatchet
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -44,9 +44,9 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 20-X AC (ammo: 10 Cluster, 10 Standard)
   - ER Medium Laser × 3
   - Hatchet
-  - LB 20-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -62,10 +62,10 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - Hatchet
   - RAC/5 (ammo: 80)
+  - ER Medium Laser × 3
   - Medium Pulse Laser
+  - Hatchet
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -81,9 +81,9 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - Light AC/5 × 4 (ammo: 40)
   - Medium Laser × 2
   - Hatchet
-  - Light AC/5 × 4 (ammo: 40)
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -131,12 +131,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Clan ER PPC
+  - Clan HAG 20 (ammo: 18)
   - ER Medium Laser × 3
   - Hatchet
-  - Clan HAG 20 (ammo: 18)
 - **Equipment:**
-  - CASE II
   - Guardian ECM Suite
+  - CASE II
 - **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 2575
 

@@ -7,9 +7,9 @@
 - **Armor:** 119
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER PPC
   - ER Small Laser × 4
   - Sword
-  - ER PPC
 - **Equipment:**
   - C3i
 - **Source:** TRO 3067
@@ -23,9 +23,9 @@
 - **Armor:** 119
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Large Pulse Laser
   - ER Small Laser × 4
   - Sword
-  - Large Pulse Laser
 - **Equipment:**
   - C3i
 - **Source:** TRO 3067
@@ -39,10 +39,10 @@
 - **Armor:** 112
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - ER Large Laser
+  - ER Medium Laser × 2
   - ER Small Laser × 3
   - Sword
-  - ER Medium Laser × 2
-  - ER Large Laser
 - **Equipment:**
   - C3i
 - **Battle Value:** 1134
@@ -57,10 +57,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - Retractable Blade
   - Snub-Nose PPC
+  - ER Medium Laser × 3
   - ER Small Laser
+  - Retractable Blade
 - **Equipment:**
   - C3i
 - **Source:** 3067 Unabridged

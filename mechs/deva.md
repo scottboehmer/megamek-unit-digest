@@ -9,9 +9,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Retractable Blade
   - Gauss Rifle (ammo: 8)
   - Light PPC × 3
+  - Retractable Blade
 - **Equipment:**
   - C3i
   - CASE
@@ -29,10 +29,10 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - RAC/5 (ammo: 60)
-  - ER Small Laser
+  - Light PPC
   - MML 7 (ammo: 17 LRM, 14 SRM)
   - ER Medium Laser × 2
-  - Light PPC
+  - ER Small Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -53,9 +53,9 @@
   - ER PPC × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - C3i
   - Targeting Computer
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** 1713
 
@@ -70,13 +70,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Ultra AC/20 (ammo: 15)
+  - ER Medium Laser × 3
   - ER Small Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - C3i
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** 1749
 
@@ -91,8 +91,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Heavy PPC
+  - ER Medium Laser × 3
   - Medium Pulse Laser × 4
   - ER Small Laser
 - **Equipment:**
@@ -151,10 +151,10 @@
   - Blazer Cannon × 2
   - ER Small Laser
 - **Equipment:**
+  - Laser Anti-Missile System
   - C3i
   - Targeting Computer
   - Supercharger
-  - Laser Anti-Missile System
 - **Battle Value:** 1785
 
 ## Deva C-DVA-OU Exanimus
@@ -168,13 +168,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 3
   - LRT 15 × 2 (ammo: 48)
+  - ER Medium Laser × 3
   - ER Small Laser
 - **Equipment:**
+  - MASS
   - C3i
   - CASE
-  - MASS
 - **Source:** Jihad
 - **Battle Value:** 1685
 

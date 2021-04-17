@@ -37,8 +37,8 @@
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
   - LRM 20 × 2 (ammo: 24)
-  - LRM 5 × 2 (ammo: 24)
   - Medium Laser × 2
+  - LRM 5 × 2 (ammo: 24)
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1618
 
@@ -51,8 +51,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - LRM 20 w/ Artemis IV × 2 (ammo: 36)
-  - Medium Pulse Laser × 5
   - ER Large Laser
+  - Medium Pulse Laser × 5
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -83,8 +83,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Arrow IV × 2 (ammo: 40)
-  - Medium Pulse Laser × 2
   - ER Large Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -99,13 +99,13 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light AC/5 × 6 (ammo: 140)
-  - ER Small Laser
   - ER Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
-  - C3 Slave
   - B-Pod × 2
+  - CASE
+  - C3 Slave
 - **Source:** Jihad
 - **Battle Value:** 1804
 
@@ -148,8 +148,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - LRM 15 × 4 (ammo: 64)
   - ER Large Laser
+  - LRM 15 × 4 (ammo: 64)
   - ER Medium Laser
 - **Equipment:**
   - CASE

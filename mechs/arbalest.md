@@ -7,11 +7,11 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LRM 10 × 2 (ammo: 24)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 1029
 
@@ -23,12 +23,12 @@
 - **Armor:** 89
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 2
 - **Equipment:**
+  - ECM Suite
   - MASC
   - CASE
-  - ECM Suite
 - **Source:** Jihad
 - **Battle Value:** 1098
 
@@ -40,8 +40,8 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 4
   - LRM 10 × 2 (ammo: 24)
+  - ER Small Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** Dark Age

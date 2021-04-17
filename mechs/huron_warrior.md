@@ -7,8 +7,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - ER Large Laser
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - Medium Pulse Laser
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1530
@@ -21,8 +21,8 @@
 - **Armor:** 169
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - ER Large Laser
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - Medium Laser
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1556
@@ -38,8 +38,8 @@
   - LRM 15 × 2 (ammo: 32)
   - Medium Laser × 4
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1489
 
@@ -51,8 +51,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser
   - Gauss Rifle (ammo: 24)
+  - ER Large Laser
   - Medium Pulse Laser
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1585
@@ -65,8 +65,8 @@
 - **Armor:** 160 (Reactive)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large X-Pulse Laser
   - Silver Bullet (ammo: 16)
+  - Large X-Pulse Laser
 - **Equipment:**
   - Supercharger
 - **Source:** XTRO Most Wanted - Jihad

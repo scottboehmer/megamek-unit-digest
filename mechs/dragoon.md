@@ -8,8 +8,8 @@
 - **Armor:** 206 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster)
   - ER PPC
+  - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster)
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Hist LOT II
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
-  - Medium Laser × 5
   - AC/20 (ammo: 10)
+  - Medium Laser × 5
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -40,8 +40,8 @@
 - **Armor:** 206 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - LRM 15 w/ Artemis IV × 3 (ammo: 48)
+  - Medium Pulse Laser × 2
   - Medium Laser
   - Small Pulse Laser × 2
 - **Equipment:**
@@ -57,10 +57,10 @@
 - **Armor:** 206 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER PPC
-  - SRM 4 × 5 (ammo: 50)
   - Gauss Rifle (ammo: 16)
+  - ER PPC
   - Medium Laser
+  - SRM 4 × 5 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** Hist LOT II
@@ -76,8 +76,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
-  - Medium X-Pulse Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium X-Pulse Laser × 2
 - **Equipment:**
   - Angel ECM Suite
   - C3i

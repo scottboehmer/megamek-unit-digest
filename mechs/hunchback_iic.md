@@ -57,8 +57,8 @@
   - RAC/5 × 2 (ammo: 80)
   - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 2097
 

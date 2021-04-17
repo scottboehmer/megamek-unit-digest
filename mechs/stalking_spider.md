@@ -8,9 +8,9 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - ER PPC
   - Medium Pulse Laser × 2
   - SRM 4 × 2 (ammo: 25)
-  - ER PPC
 - **Equipment:**
   - CASE
   - MASC
@@ -26,12 +26,12 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Heavy Large Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
+  - Active Probe
   - TAG
   - Targeting Computer
-  - Active Probe
   - MASC
 - **Source:** TRO 3060
 - **Battle Value:** 2056

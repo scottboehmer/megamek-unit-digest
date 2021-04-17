@@ -22,8 +22,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+  - ER Medium Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -86,9 +86,9 @@
   - Ultra AC/5 (ammo: 20)
   - Heavy Medium Laser × 3
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** TRO 3060
 - **Battle Value:** 1323
 
@@ -100,8 +100,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Medium Laser × 3
+  - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -117,8 +117,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 3
-  - Heavy Machine Gun × 8 (ammo: 100)
   - Streak SRM 4 (ammo: 25)
+  - Heavy Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array × 2
   - B-Pod × 2
@@ -134,9 +134,9 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 5 × 2 (ammo: 24)
   - HAG 20 (ammo: 12)
   - ER Large Laser
+  - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -152,8 +152,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
-  - ER Medium Pulse Laser
   - LRM 15 w/ Artemis V × 2 (ammo: 16)
+  - ER Medium Pulse Laser
 - **Equipment:**
   - Partial Wing
   - CASE
@@ -184,8 +184,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Clan ER Large Pulse Laser
-  - Clan ER Medium Pulse Laser
   - Clan Streak LRM 10 (ammo: 12)
+  - Clan ER Medium Pulse Laser
 - **Equipment:**
   - Clan Targeting Computer
 - **Source:** RS 3145 NT NU
@@ -217,8 +217,8 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Clan ER Medium Laser × 2
   - Clan Streak LRM 10 × 2 (ammo: 24)
+  - Clan ER Medium Laser × 2
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1474
 

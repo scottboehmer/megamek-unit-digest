@@ -7,9 +7,9 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - Medium Laser
   - LRM 5 × 2 (ammo: 24)
   - Small Laser × 2
-  - Medium Laser
 - **Equipment:**
   - Beagle Active Probe
   - TAG
@@ -26,8 +26,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Streak SRM 2 × 2 (ammo: 50)
-  - Machine Gun × 2 (ammo: 200)
   - Small Pulse Laser
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - Beagle Active Probe
   - TAG
@@ -43,8 +43,8 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser × 4
   - SRM 6 w/ Artemis IV (ammo: 15)
+  - Small Laser × 4
 - **Equipment:**
   - Beagle Active Probe
   - TAG
@@ -77,8 +77,8 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Narc (ammo: 6)
   - SRM 4 (ammo: 25)
+  - Narc (ammo: 6)
 - **Equipment:**
   - Beagle Active Probe
   - TAG
@@ -111,9 +111,9 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - MRM 10 (ammo: 24)
   - Medium Pulse Laser
   - Medium Laser
-  - MRM 10 (ammo: 24)
 - **Equipment:**
   - Beagle Active Probe
   - TAG
@@ -129,15 +129,15 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Small Laser × 2
   - Light PPC
+  - ER Small Laser × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - Beagle Active Probe
+  - A-Pod
   - TAG
   - C3 Slave
-  - Guardian ECM Suite
   - Targeting Computer
-  - A-Pod
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 933
 

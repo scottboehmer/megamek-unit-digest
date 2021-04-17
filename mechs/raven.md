@@ -7,8 +7,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Equipment:**
   - EW Equipment
 - **Source:** TRO 3039 - Succession Wars
@@ -23,8 +23,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Equipment:**
   - EW Equipment
 - **Source:** TRO 3039 - Succession Wars
@@ -38,9 +38,9 @@
 - **Armor:** 104
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 887
 
@@ -53,9 +53,9 @@
 - **Armor:** 112
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 820
 
@@ -67,14 +67,14 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Narc (ammo: 12)
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
+  - Narc (ammo: 12)
 - **Equipment:**
   - Guardian ECM Suite
+  - Beagle Active Probe
   - CASE
   - TAG
-  - Beagle Active Probe
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 708
 
@@ -86,10 +86,10 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - LRM 15 (ammo: 16)
   - Narc (ammo: 12)
   - Small Pulse Laser
   - Small Laser × 2
-  - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -103,9 +103,9 @@
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Narc (ammo: 12)
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Narc (ammo: 12)
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -122,13 +122,13 @@
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Narc (ammo: 12)
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Narc (ammo: 12)
 - **Equipment:**
   - Guardian ECM Suite
-  - TAG
   - Beagle Active Probe
+  - TAG
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 873
 
@@ -140,14 +140,14 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
+  - SRM 6 (ammo: 15)
   - Narc (ammo: 12)
   - Machine Gun × 4 (ammo: 100)
-  - SRM 6 (ammo: 15)
 - **Equipment:**
-  - Machine Gun Array
   - Guardian ECM Suite
-  - CASE
   - Beagle Active Probe
+  - Machine Gun Array
+  - CASE
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 581
 
@@ -159,14 +159,14 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
+  - Streak SRM 6 (ammo: 15)
   - Medium Laser × 4
   - Small Laser
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - Guardian ECM Suite
+  - Beagle Active Probe
   - CASE
   - TAG
-  - Beagle Active Probe
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 904
 
@@ -178,13 +178,13 @@
 - **Armor:** 96 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
+  - Beagle Active Probe
   - TAG
   - CASE
-  - Beagle Active Probe
 - **Source:** Jihad
 - **Battle Value:** 923
 

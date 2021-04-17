@@ -36,8 +36,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Laser × 3
   - LRM 15 (ammo: 8)
+  - Medium Laser × 3
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1191
 
@@ -62,9 +62,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - SRM 2 (ammo: 50)
-  - AC/5 (ammo: 20)
   - PPC
+  - AC/5 (ammo: 20)
+  - SRM 2 (ammo: 50)
 - **Source:** Starterbook: Sword and Dragon - Succession Wars
 - **Battle Value:** 996
 
@@ -76,9 +76,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - SRM 2 (ammo: 50)
-  - AC/5 (ammo: 20)
   - PPC
+  - AC/5 (ammo: 20)
+  - SRM 2 (ammo: 50)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 996
 
@@ -109,8 +109,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - MRM 20 × 2 (ammo: 36)
-  - Medium Laser
   - Medium Pulse Laser × 2
+  - Medium Laser
 - **Equipment:**
   - C3 Slave
   - CASE
@@ -126,8 +126,8 @@
 - **Armor:** 120
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - MML 5 × 4 (ammo: 48 LRM, 20 SRM)
   - ER Medium Laser × 4
+  - MML 5 × 4 (ammo: 48 LRM, 20 SRM)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -145,9 +145,9 @@
 - **Weapons:**
   - Streak SRM 6 × 2 (ammo: 15)
   - ER Medium Laser
-  - Chain Whip
-  - ER Flamer
   - Medium Pulse Laser
+  - ER Flamer
+  - Chain Whip
 - **Equipment:**
   - Small Shield
   - Modular Armor × 3
@@ -164,11 +164,11 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
   - BattleMech Taser (ammo: 10)
-  - Chain Whip
   - ER Flamer × 2
-  - Streak SRM 6 (ammo: 15)
+  - Chain Whip
 - **Equipment:**
   - CASE
 - **Battle Value:** 1415
@@ -181,9 +181,9 @@
 - **Armor:** 158 (Laser Reflective)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Vibroblade
-  - ER Medium Laser × 2
   - Clan Streak LRM 15 × 2 (ammo: 32)
+  - ER Medium Laser × 2
+  - Small Vibroblade
 - **Equipment:**
   - CASE II
 - **Source:** XTRO Royal Fantasy

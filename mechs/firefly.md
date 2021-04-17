@@ -8,9 +8,9 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Laser × 4
   - Medium Laser × 3
   - LRM 5 (ammo: 48)
+  - Small Laser × 4
 - **Equipment:**
   - TAG
   - CASE
@@ -26,9 +26,9 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Laser × 4
   - Medium Laser × 3
   - LRM 5 (ammo: 48)
+  - Small Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -43,9 +43,9 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Laser × 4
-  - Medium Laser × 3
   - LRM 10 (ammo: 12)
+  - Medium Laser × 3
+  - Small Laser × 4
 - **Battle Value:** 888
 
 ## Firefly FFL-3PP2
@@ -57,9 +57,9 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Laser × 4
   - Medium Laser × 3
   - LRM 5 (ammo: 48)
+  - Small Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
 - **Battle Value:** 873
@@ -73,9 +73,9 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Laser × 4
-  - Medium Laser × 3
   - LRM 5 w/ Artemis IV (ammo: 48)
+  - Medium Laser × 3
+  - Small Laser × 4
 - **Battle Value:** 808
 
 ## Firefly FFL-4A
@@ -87,9 +87,9 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser × 4
   - Medium Laser × 3
   - LRM 5 (ammo: 24)
+  - Small Laser × 4
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 831
 
@@ -102,8 +102,8 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 4
   - Medium Pulse Laser × 3
+  - ER Small Laser × 4
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -136,8 +136,8 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - LRM 5 w/ Artemis IV (ammo: 24)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE

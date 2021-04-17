@@ -7,11 +7,11 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Heavy Medium Laser × 2
-  - ER Medium Laser × 2
-  - Heavy Small Laser × 2
-  - LRM 10 × 3 (ammo: 24)
   - Heavy Large Laser
+  - LRM 10 × 3 (ammo: 24)
+  - ER Medium Laser × 2
+  - Heavy Medium Laser × 2
+  - Heavy Small Laser × 2
 - **Equipment:**
   - CASE
   - MASC
@@ -26,11 +26,11 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Heavy Medium Laser × 2
-  - ER Medium Laser × 2
-  - ER Small Laser
   - Heavy Large Laser
+  - ER Medium Laser × 2
   - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
+  - Heavy Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
   - CASE
   - MASC
@@ -46,9 +46,9 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Plasma Cannon × 4 (ammo: 40)
+  - SRM 6 × 2 (ammo: 45)
   - ER Flamer × 2
   - Flamer × 2
-  - SRM 6 × 2 (ammo: 45)
 - **Equipment:**
   - CASE
   - MASC

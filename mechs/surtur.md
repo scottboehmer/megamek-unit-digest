@@ -7,9 +7,9 @@
 - **Armor:** 185
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Flamer × 7
-  - Sword
   - SRM 6 × 2 (ammo: 15)
+  - Sword
+  - Flamer × 7
 - **Equipment:**
   - Supercharger
 - **Source:** Dark Age

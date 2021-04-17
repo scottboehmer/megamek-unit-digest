@@ -7,10 +7,10 @@
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LRM 20 (ammo: 18)
-  - ER Large Laser × 2
-  - SRM 4 (ammo: 25)
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser × 2
+  - LRM 20 (ammo: 18)
+  - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -25,14 +25,14 @@
 - **Armor:** 231 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - HAG 20 (ammo: 12)
   - Streak LRM 15 (ammo: 16)
   - ER Large Laser × 2
   - ATM 3 (ammo: 40)
-  - HAG 20 (ammo: 12)
 - **Equipment:**
+  - Laser Anti-Missile System
   - Light Active Probe
   - CASE
-  - Laser Anti-Missile System
 - **Source:** OTP Capellan - Dark Age
 - **Battle Value:** 2746
 

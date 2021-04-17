@@ -8,8 +8,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser
-  - Medium Pulse Laser × 2
   - MRM 20 × 2 (ammo: 48)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Jihad
@@ -23,8 +23,8 @@
 - **Armor:** 208 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Large Laser
   - LRM 20 × 2 (ammo: 24)
+  - Large Laser
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** RS 3145 NTNU

@@ -63,8 +63,8 @@
 - **Armor:** 256
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Gauss Rifle × 4 (ammo: 80)
   - ER PPC
+  - Gauss Rifle × 4 (ammo: 80)
   - ER Small Laser
 - **Equipment:**
   - CASE

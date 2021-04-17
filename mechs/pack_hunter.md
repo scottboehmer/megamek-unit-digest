@@ -21,8 +21,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Micro Laser × 8
   - ER PPC
+  - ER Micro Laser × 8
 - **Source:** TRO 3060
 - **Battle Value:** 1598
 
@@ -35,8 +35,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Micro Laser × 4
   - ER PPC
+  - ER Micro Laser × 4
 - **Equipment:**
   - MASC
 - **Source:** TRO 3060
@@ -53,8 +53,8 @@
 - **Weapons:**
   - ER Large Laser
 - **Equipment:**
-  - Targeting Computer
   - ECM Suite
+  - Targeting Computer
 - **Source:** TRO 3060
 - **Battle Value:** 1257
 

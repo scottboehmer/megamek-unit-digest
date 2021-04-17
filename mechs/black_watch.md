@@ -8,9 +8,9 @@
 - **Armor:** 240
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 16)
-  - Ultra AC/10 (ammo: 20)
   - MRM 40 (ammo: 12)
+  - Ultra AC/10 (ammo: 20)
+  - Light Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
   - C3 Slave

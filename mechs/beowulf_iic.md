@@ -8,11 +8,11 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Pulse Laser × 2
   - ER Large Pulse Laser
+  - ER Medium Pulse Laser × 2
 - **Equipment:**
-  - MASC
   - Watchdog CEWS
+  - MASC
   - Light TAG
 - **Source:** TRO:Prototypes
 - **Battle Value:** 2048
@@ -26,12 +26,12 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Pulse Laser × 2
   - ER Large Laser
+  - ER Medium Pulse Laser × 2
 - **Equipment:**
+  - Watchdog CEWS
   - Inner Sphere C3i
   - MASC
-  - Watchdog CEWS
 - **Source:** XTRO Republic I - Early Republic
 - **Battle Value:** 1992
 

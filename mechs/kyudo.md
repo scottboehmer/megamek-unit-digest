@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - LRM 10 (ammo: 12)
   - Large Laser
+  - LRM 10 (ammo: 12)
 - **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 748
 
@@ -36,8 +36,8 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 14 SRM)
   - ER Large Laser
+  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 14 SRM)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075

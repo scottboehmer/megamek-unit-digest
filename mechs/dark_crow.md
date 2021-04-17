@@ -7,8 +7,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Ultra AC/5 × 2 (ammo: 80)
   - ER Large Laser
+  - Ultra AC/5 × 2 (ammo: 80)
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
@@ -23,8 +23,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER Large Laser
+  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER Small Laser
 - **Equipment:**
   - CASE

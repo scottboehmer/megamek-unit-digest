@@ -8,8 +8,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER PPC
-  - Medium Laser × 2
   - SRM 6 (ammo: 30)
+  - Medium Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1148
 
@@ -22,8 +22,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser
-  - Medium Laser × 2
   - SRM 6 (ammo: 30)
+  - Medium Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1057
 

@@ -9,8 +9,8 @@
 - **Heat Sinks:** 29 (29)
 - **Weapons:**
   - PPC × 2
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 2073
 
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 29 (29)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Laser × 2
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -40,9 +40,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - Gauss Rifle (ammo: 24)
   - ER PPC × 2
   - Medium Laser × 2
-  - Gauss Rifle (ammo: 24)
 - **Source:** Clan Invasion
 - **Battle Value:** 2589
 
@@ -56,8 +56,8 @@
 - **Heat Sinks:** 32 (32)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Laser × 2
   - Ultra AC/5 (ammo: 40)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -73,8 +73,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Pulse Laser × 4
   - Gauss Rifle (ammo: 16)
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -90,9 +90,9 @@
 - **Armor:** 307
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - Heavy Gauss Rifle (ammo: 16)
   - ER PPC × 2
   - ER Medium Laser × 2
-  - Heavy Gauss Rifle (ammo: 16)
 - **Source:** Civil War
 - **Battle Value:** 2623
 
@@ -106,8 +106,8 @@
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
   - ER PPC × 2
-  - ER Medium Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -139,9 +139,9 @@
 - **Armor:** 307
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - Heavy PPC × 2
   - ER Small Laser × 2
-  - Gauss Rifle (ammo: 16)
 - **Source:** Jihad
 - **Battle Value:** 2626
 
@@ -154,8 +154,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Snub-Nose PPC × 2
   - Heavy PPC
+  - Snub-Nose PPC × 2
 - **Equipment:**
   - C3i
 - **Source:** Jihad
@@ -170,9 +170,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
+  - ER PPC
   - Large X-Pulse Laser × 2
   - Medium X-Pulse Laser × 2
-  - ER PPC
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Jihad
@@ -187,9 +187,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - RAC/5 (ammo: 60)
   - Snub-Nose PPC × 2
   - Light PPC × 2
-  - RAC/5 (ammo: 60)
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -220,13 +220,13 @@
 - **Armor:** 304
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - ER PPC × 2
   - Medium Pulse Laser × 2
-  - Gauss Rifle (ammo: 16)
   - ER Small Laser
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** TP Irian - Dark Ages
 - **Battle Value:** 2546
 
@@ -241,8 +241,8 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER PPC × 2
-  - Medium X-Pulse Laser × 2
   - Ultra AC/10 (ammo: 30)
+  - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 2367
@@ -272,9 +272,9 @@
 - **Armor:** 306 (Ballistic Reinforced)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - PPC × 2
   - Light PPC × 2
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE II
 - **Battle Value:** 2849
@@ -290,7 +290,7 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - Clan ER PPC × 2
-  - Medium X-Pulse Laser × 2
   - Large Re-Engineered Laser
+  - Medium X-Pulse Laser × 2
 - **Battle Value:** 2741
 

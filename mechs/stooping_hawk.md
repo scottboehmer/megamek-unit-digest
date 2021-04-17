@@ -8,9 +8,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 30)
+  - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -37,8 +37,8 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 15 w/ Artemis IV × 3 (ammo: 32)
   - ER Large Laser
+  - LRM 15 w/ Artemis IV × 3 (ammo: 32)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -53,8 +53,8 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3060
@@ -68,10 +68,10 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - ER Small Laser
-  - Heavy Medium Laser × 3
   - ER Large Laser
+  - ER Medium Laser × 2
+  - Heavy Medium Laser × 3
+  - ER Small Laser
 - **Source:** TRO 3060
 - **Battle Value:** 1838
 
@@ -83,9 +83,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE)
-  - ER Medium Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Medium Laser × 2
+  - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -100,9 +100,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - Medium Pulse Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
+  - Heavy Medium Laser × 2
   - Heavy Small Laser
 - **Equipment:**
   - CASE

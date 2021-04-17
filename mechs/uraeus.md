@@ -9,10 +9,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Vibroblade
   - Ultra AC/10 (ammo: 30)
   - Bombast Laser
   - Streak SRM 4 (ammo: 25)
+  - Medium Vibroblade
 - **Equipment:**
   - Armored Shoulder Turret
   - CASE II

@@ -7,11 +7,11 @@
 - **Armor:** 304 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - LRM 20 (ammo: 12)
   - ER Large Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
-  - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -25,11 +25,11 @@
 - **Armor:** 304 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER PPC
   - Gauss Rifle (ammo: 16)
+  - ER PPC
+  - LRM 20 (ammo: 12)
   - SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
-  - LRM 20 (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -43,15 +43,15 @@
 - **Armor:** 307 (Ferro Fibrous)
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
+  - LRM 20 w/ Artemis IV (ammo: 12)
   - ER Large Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - SRM 6 w/ Artemis IV × 2 (ammo: 15)
   - Medium Pulse Laser × 2
-  - LRM 20 w/ Artemis IV (ammo: 12)
+  - SRM 6 w/ Artemis IV × 2 (ammo: 15)
 - **Equipment:**
-  - CASE
-  - Active Probe
   - ECM Suite
+  - Active Probe
+  - CASE
 - **Source:** OTP Widowmaker
 - **Battle Value:** 2777
 

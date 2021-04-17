@@ -27,8 +27,8 @@
   - Snub-Nose PPC
   - ER Medium Laser × 2
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
 - **Source:** TRO 3085/Lamenkov's Liability - Jihad
 - **Battle Value:** 1835
 
@@ -56,8 +56,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Heavy PPC
   - TSEMP
+  - Heavy PPC
   - Snub-Nose PPC × 2
 - **Equipment:**
   - Radical Heat Sink System

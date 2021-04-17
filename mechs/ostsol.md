@@ -95,10 +95,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Large Pulse Laser
-  - Medium Pulse Laser × 3
   - PPC
+  - Large Pulse Laser
   - ER Medium Laser
+  - Medium Pulse Laser × 3
   - ER Small Laser
 - **Source:** Civil War
 - **Battle Value:** 1733
@@ -112,9 +112,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Light PPC
   - Light AC/5 × 2 (ammo: 80)
   - ER Medium Laser × 2
-  - Light PPC
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -132,11 +132,11 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Heavy PPC
-  - Small Laser
   - Snub-Nose PPC
+  - Large Laser
   - ER Medium Laser
   - ER Small Laser
-  - Large Laser
+  - Small Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** Jihad
@@ -150,13 +150,13 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Snub-Nose PPC
   - ER Large Laser
   - ER Medium Laser × 2
-  - Snub-Nose PPC
   - Medium Pulse Laser
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
+  - MASC
 - **Source:** Jihad
 - **Battle Value:** 1871
 

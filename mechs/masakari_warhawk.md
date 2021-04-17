@@ -24,9 +24,9 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - ER Large Laser × 2
-  - Streak SRM 6 (ammo: 15)
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 15 (ammo: 8)
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -42,9 +42,9 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - ER Small Laser
   - ER Medium Laser × 3
   - SRM 6 × 2 (ammo: 75)
+  - ER Small Laser
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
@@ -76,9 +76,9 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
-  - Ultra AC/10 (ammo: 20)
   - ER Large Laser × 2
+  - Ultra AC/10 (ammo: 20)
+  - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -96,8 +96,8 @@
 - **Weapons:**
   - ER PPC × 2
   - LRM 20 (ammo: 12)
-  - Ultra AC/2 (ammo: 45)
   - LRM 10 (ammo: 12)
+  - Ultra AC/2 (ammo: 45)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -112,8 +112,8 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
-  - Heavy Large Laser × 2
   - Large Pulse Laser × 2
+  - Heavy Large Laser × 2
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
@@ -129,10 +129,10 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Plasma Cannon × 3 (ammo: 40)
-  - SRM 6 (ammo: 15)
   - ER PPC
   - Large Pulse Laser
+  - Plasma Cannon × 3 (ammo: 40)
+  - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
   - Targeting Computer

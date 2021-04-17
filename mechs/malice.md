@@ -7,8 +7,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 4
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster)
+  - ER Medium Laser × 4
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1852
 
@@ -54,11 +54,11 @@
   - Large Pulse Laser × 2
   - ER Large Laser × 2
 - **Equipment:**
+  - Angel ECM Suite
   - Laser Anti-Missile System × 2
   - Modular Armor × 7
   - Remote Sensor Dispenser × 2
   - Coolant Pod × 2
-  - Angel ECM Suite
   - Inner Sphere C3 Slave
   - TAG
   - Armored Actuator × 2

@@ -20,9 +20,9 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - LRM 20 (ammo: 12)
   - Streak SRM 6 × 2 (ammo: 30)
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -51,8 +51,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
   - Large Pulse Laser
+  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
@@ -68,8 +68,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 20 × 2 (ammo: 36)
-  - SRM 2 × 2 (ammo: 100)
   - Narc (ammo: 12)
+  - SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -119,8 +119,8 @@
   - ER Medium Laser × 2
   - ER Small Laser × 4
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2110
 
@@ -132,9 +132,9 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 5
-  - Streak SRM 6 × 2 (ammo: 30)
   - LRM 20 (ammo: 12)
+  - Streak SRM 6 × 2 (ammo: 30)
+  - ER Medium Laser × 5
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -162,11 +162,11 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 2
   - LRM 15 × 2 (ammo: 16)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2319
 
@@ -194,9 +194,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Plasma Cannon × 2 (ammo: 60)
-  - AP Gauss Rifle × 4 (ammo: 80)
   - ER Medium Laser × 4
   - ER Small Laser × 2
+  - AP Gauss Rifle × 4 (ammo: 80)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -213,9 +213,9 @@
   - iATM 9 × 2 (ammo: 42)
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
+  - Nova CEWS
   - CASE
   - Supercharger
-  - Nova CEWS
 - **Source:** WoR - Jihad
 - **Battle Value:** 2855
 
@@ -259,8 +259,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
-  - Medium Pulse Laser × 3
   - Streak SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -275,11 +275,11 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Large Pulse Laser × 2
-  - ER Small Pulse Laser × 2
   - Medium Pulse Laser
+  - ER Small Pulse Laser × 2
 - **Equipment:**
-  - Supercharger
   - Light Active Probe
+  - Supercharger
 - **Source:** Dark Age
 - **Battle Value:** 2280
 

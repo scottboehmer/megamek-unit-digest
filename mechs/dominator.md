@@ -9,8 +9,8 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER PPC
-  - Streak SRM 6 (ammo: 15)
   - ER Large Laser
+  - Streak SRM 6 (ammo: 15)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -28,9 +28,9 @@
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - LRM 20 w/ Artemis V (ammo: 12)
   - ER Large Laser × 2
   - ER Medium Laser
-  - LRM 20 w/ Artemis V (ammo: 12)
   - ER Small Laser
 - **Equipment:**
   - CASE

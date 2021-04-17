@@ -9,8 +9,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC × 3
   - Gauss Rifle (ammo: 16)
+  - Light PPC × 3
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -27,8 +27,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Snub-Nose PPC × 2
   - Gauss Rifle (ammo: 16)
+  - Snub-Nose PPC × 2
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -43,8 +43,8 @@
 - **Armor:** 280
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Plasma Rifle × 2 (ammo: 30)
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
+  - Plasma Rifle × 2 (ammo: 30)
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -59,8 +59,8 @@
 - **Armor:** 204 (Hardened)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER PPC
   - Improved Heavy Gauss Rifle (ammo: 24)
+  - ER PPC
 - **Equipment:**
   - Quad Turret
 - **Source:** RS 3145 NT NU

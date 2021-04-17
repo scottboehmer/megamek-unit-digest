@@ -8,8 +8,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 4
   - Large Laser
+  - Medium Laser × 4
   - LRM 5 (ammo: 24)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1427
@@ -23,8 +23,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 5
   - PPC
+  - Medium Laser × 5
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1511
 
@@ -37,8 +37,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - ER Large Laser
+  - Medium Laser × 2
   - Streak SRM 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
@@ -54,8 +54,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - ER Large Laser
+  - Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
@@ -72,8 +72,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
   - Clan ER Large Laser × 3
+  - Clan ER Medium Laser × 4
 - **Source:** Star League
 - **Battle Value:** 2344
 
@@ -86,9 +86,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Medium Pulse Laser × 5
   - ER Large Laser
   - Streak SRM 4 (ammo: 25)
+  - Medium Pulse Laser × 5
 - **Equipment:**
   - C3 Slave
   - CASE
@@ -104,12 +104,12 @@
 - **Armor:** 208
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Light PPC × 2
   - Snub-Nose PPC × 2
+  - Light PPC × 2
   - ER Medium Laser
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1806
 
@@ -123,8 +123,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Light PPC × 2
   - Snub-Nose PPC × 2
+  - Light PPC × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
@@ -172,8 +172,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Light PPC × 4
   - ER Large Laser
+  - Light PPC × 4
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE II

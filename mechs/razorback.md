@@ -7,8 +7,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 4 (ammo: 25)
   - ER Large Laser
+  - Streak SRM 4 (ammo: 25)
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
@@ -51,12 +51,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 5 (ammo: 24 LRM, 20 SRM)
   - Snub-Nose PPC
+  - MML 5 (ammo: 24 LRM, 20 SRM)
   - ER Small Laser × 2
 - **Equipment:**
-  - CASE
   - Beagle Active Probe
+  - CASE
 - **Source:** 3067 Unabridged
 - **Battle Value:** 821
 

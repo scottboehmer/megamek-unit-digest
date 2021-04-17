@@ -7,8 +7,8 @@
 - **Armor:** 120 (Hardened)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 15)
   - Large Pulse Laser
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser
 - **Equipment:**
   - CASE

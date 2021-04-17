@@ -8,8 +8,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER PPC
   - Gauss Rifle (ammo: 16)
+  - ER PPC
   - Medium Laser × 4
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2231

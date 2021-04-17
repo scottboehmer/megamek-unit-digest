@@ -7,10 +7,10 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
   - Medium Laser
-  - Machine Gun (ammo: 100)
   - LRM 5 (ammo: 24)
+  - SRM 4 (ammo: 25)
+  - Machine Gun (ammo: 100)
 - **Equipment:**
   - Enviro-Sealing
 - **Source:** TRO 3075
@@ -24,8 +24,8 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - MML 5 (ammo: 20 SRM, 24 LRM)
   - Medium Laser × 2
+  - MML 5 (ammo: 20 SRM, 24 LRM)
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Enviro-Sealing

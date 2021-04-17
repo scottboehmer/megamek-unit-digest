@@ -8,8 +8,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
-  - Medium X-Pulse Laser × 4
   - RAC/2 (ammo: 45)
+  - Medium X-Pulse Laser × 4
 - **Equipment:**
   - MASC
 - **Source:** TRO 3145 Lyran Commonwealth - Late Republic
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC
-  - ER Medium Pulse Laser × 4
   - RAC/2 (ammo: 45)
+  - ER Medium Pulse Laser × 4
 - **Equipment:**
   - MASC
   - CASE

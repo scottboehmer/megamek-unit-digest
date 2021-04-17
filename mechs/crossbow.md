@@ -8,9 +8,9 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - Large Laser
   - Medium Laser × 2
   - LRM 5 × 4 (ammo: 48)
-  - Large Laser
 - **Source:** XTRO Primitives II - Age of War
 - **Battle Value:** 969
 
@@ -22,9 +22,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - PPC
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
-  - PPC
 - **Source:** TRO 3075
 - **Battle Value:** 1210
 
@@ -36,9 +36,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
-  - AC/10 (ammo: 10)
   - PPC
+  - AC/10 (ammo: 10)
+  - Medium Laser
 - **Source:** TRO 3075
 - **Battle Value:** 1204
 
@@ -94,8 +94,8 @@
 - **Armor:** 192
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LRM 15 (ammo: 16)
   - Heavy Large Laser
+  - LRM 15 (ammo: 16)
   - Heavy Medium Laser
   - Light Machine Gun × 4 (ammo: 100)
 - **Equipment:**
@@ -114,8 +114,8 @@
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - Heavy Machine Gun × 2 (ammo: 100)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1557
 
@@ -127,9 +127,9 @@
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser × 2
-  - ER Large Laser
 - **Source:** TRO 3075
 - **Battle Value:** 1583
 

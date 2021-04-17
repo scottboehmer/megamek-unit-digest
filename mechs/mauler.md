@@ -40,8 +40,8 @@
 - **Armor:** 206 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 4
   - LRM 10 × 2 (ammo: 24)
+  - ER Medium Laser × 4
   - Ultra AC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE

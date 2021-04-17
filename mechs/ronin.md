@@ -7,9 +7,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Claw
   - Large Pulse Laser
   - SRM 4 w/ Artemis IV × 4 (ammo: 50)
+  - Claw
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -23,10 +23,10 @@
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Claw
   - Large Pulse Laser
   - LRM 10 × 2 (ammo: 24)
   - ER Small Laser
+  - Claw
 - **Equipment:**
   - M-Pod × 2
 - **Source:** TRO 3055 - Civil War

@@ -8,12 +8,12 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
   - Small Pulse Laser × 2
   - Micro Pulse Laser × 6
-  - ER Large Laser
 - **Equipment:**
-  - Targeting Computer
   - ECM Suite
+  - Targeting Computer
 - **Source:** Dark Age
 - **Battle Value:** 1849
 
@@ -26,14 +26,14 @@
 - **Armor:** 144
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Flamer × 2
-  - Streak SRM 2 (ammo: 50)
   - ER Large Laser
+  - Streak SRM 2 (ammo: 50)
+  - ER Flamer × 2
   - Micro Pulse Laser × 2
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** Dark Age
 - **Battle Value:** 1767
 

@@ -11,11 +11,11 @@
   - Gauss Rifle (ammo: 16)
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
+  - Laser Anti-Missile System
   - CASE
   - CASE II
   - Targeting Computer
   - TAG
-  - Laser Anti-Missile System
 - **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 2706
 
@@ -28,10 +28,10 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC
-  - Medium Pulse Laser × 2
-  - Streak SRM 6 (ammo: 15)
-  - Streak LRM 10 (ammo: 12)
   - ER Large Laser
+  - Streak LRM 10 (ammo: 12)
+  - Streak SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 2
   - ER Medium Laser
 - **Equipment:**
   - CASE II
@@ -47,11 +47,11 @@
 - **Armor:** 231 (Reactive)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Ultra AC/10 (ammo: 30)
   - ER Large Pulse Laser
+  - Ultra AC/10 (ammo: 30)
 - **Equipment:**
-  - CASE
   - Laser Anti-Missile System
+  - CASE
 - **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 2518
 
@@ -67,9 +67,9 @@
   - Large Pulse Laser
   - ATM 9 × 2 (ammo: 14 Standard, 7 HE, 7 ER)
 - **Equipment:**
+  - Laser Anti-Missile System
   - Targeting Computer
   - CASE II
-  - Laser Anti-Missile System
 - **Source:** TRO 3145 The Clans - Dark Ages
 - **Battle Value:** 2776
 

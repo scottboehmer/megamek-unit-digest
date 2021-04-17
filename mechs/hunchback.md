@@ -7,8 +7,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 10)
+  - Medium Laser × 2
   - Small Laser
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1041
@@ -21,8 +21,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 4
   - AC/10 (ammo: 20)
+  - Medium Laser × 4
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1067
@@ -35,8 +35,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 5
   - LRM 10 × 2 (ammo: 24)
+  - Medium Laser × 5
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1143
@@ -49,8 +49,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 4
   - AC/5 (ammo: 20)
+  - Medium Laser × 4
   - LRM 5 × 2 (ammo: 24)
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
@@ -77,8 +77,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
-  - Medium Laser × 4
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 4
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1043
@@ -91,8 +91,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 5)
+  - Medium Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -107,8 +107,8 @@
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 20)
+  - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
   - C3 Slave
@@ -123,8 +123,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 10)
+  - Medium Laser × 2
   - Small Laser
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1041
@@ -138,8 +138,8 @@
 - **Armor:** 169
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - LB 20-X AC (ammo: 10 Cluster, 10 Standard)
+  - Medium Pulse Laser × 2
   - Small Laser
 - **Equipment:**
   - CASE
@@ -154,8 +154,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 20)
+  - Medium Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -170,9 +170,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
-  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1380
 
@@ -184,9 +184,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - AC/20 (ammo: 10)
   - Medium Laser × 2
   - Rocket 20 × 3
-  - AC/20 (ammo: 10)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -202,8 +202,8 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Ultra AC/10 (ammo: 20)
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - CASE II
@@ -220,8 +220,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3050 - Jihad
@@ -237,8 +237,8 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - MML 9 w/ Artemis IV × 2 (ammo: 26 LRM, 11 SRM)
+  - ER Medium Laser × 3
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -253,8 +253,8 @@
 - **Armor:** 169
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER Medium Laser × 6
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
@@ -269,11 +269,11 @@
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Ultra AC/10 (ammo: 20)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - CASE II
   - Guardian ECM Suite
+  - CASE II
   - TAG
 - **Battle Value:** 1248
 
@@ -301,8 +301,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 2
   - Clan Medium Pulse Laser × 2
+  - Medium Laser × 2
   - Clan Micro Pulse Laser × 4
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1492
@@ -318,9 +318,9 @@
   - ER Medium Laser × 4
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
-  - Supercharger
-  - Bloodhound Active Probe
   - Angel ECM Suite
+  - Bloodhound Active Probe
+  - Supercharger
   - TAG
 - **Source:** XTRO Republic II - Late Republic
 - **Battle Value:** 1628

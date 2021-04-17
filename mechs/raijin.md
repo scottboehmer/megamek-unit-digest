@@ -8,9 +8,9 @@
 - **Armor:** 125 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 3
-  - SRM 6 (ammo: 15)
   - ER PPC
+  - SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 3
   - Streak SRM 2 (ammo: 50)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1350
@@ -24,9 +24,9 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - Streak SRM 6 (ammo: 15)
   - Large Pulse Laser
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 3
 - **Equipment:**
   - C3i
 - **Source:** TRO 3055 - Civil War

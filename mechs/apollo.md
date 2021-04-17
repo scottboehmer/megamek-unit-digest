@@ -46,8 +46,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - LRM 10 w/ Artemis IV × 2 (ammo: 48)
+  - Medium Pulse Laser × 2
   - Medium Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1240

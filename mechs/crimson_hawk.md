@@ -34,8 +34,8 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - ER Large Laser
+  - ER Medium Laser
 - **Source:** TRO 3075
 - **Battle Value:** 1029
 
@@ -48,9 +48,9 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
   - ER Medium Laser × 2
   - Heavy Flamer (ammo: 10)
-  - ER Large Laser
 - **Equipment:**
   - CASE
   - Targeting Computer

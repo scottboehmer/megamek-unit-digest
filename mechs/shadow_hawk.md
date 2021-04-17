@@ -9,8 +9,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
   - AC/5 (ammo: 20)
+  - Medium Laser
 - **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 851
 
@@ -23,8 +23,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser
   - AC/5 (ammo: 20)
+  - Medium Laser
   - LRM 5 (ammo: 24)
   - SRM 2 (ammo: 50)
 - **Source:** TRO 3039 - Age of War
@@ -39,8 +39,8 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -56,8 +56,8 @@
 - **Armor:** 72
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/5 (ammo: 20)
+  - Medium Laser × 2
   - LRM 5 (ammo: 24)
   - SRM 2 × 2 (ammo: 100)
 - **Source:** TRO 3039 - Succession Wars
@@ -86,9 +86,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser
-  - Ultra AC/5 (ammo: 20)
   - LRM 20 (ammo: 6)
+  - Ultra AC/5 (ammo: 20)
+  - Medium Laser
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -104,8 +104,8 @@
 - **Armor:** 104
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/5 (ammo: 20)
+  - Medium Laser × 2
   - LRM 5 (ammo: 24)
   - Streak SRM 2 × 2 (ammo: 50)
 - **Source:** ilClan Vol 12 - Clan Invasion
@@ -136,8 +136,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
   - Streak SRM 2 × 5 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -153,13 +153,13 @@
 - **Armor:** 184
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Pulse Laser
   - Large Laser
+  - Medium Pulse Laser
   - Medium Laser × 4
 - **Equipment:**
-  - TAG
   - Guardian ECM Suite
   - Beagle Active Probe
+  - TAG
   - Cargo
 - **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** unknown
@@ -173,9 +173,9 @@
 - **Armor:** 170 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - RAC/5 (ammo: 40)
   - Streak SRM 4 (ammo: 25)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -190,9 +190,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Ultra AC/5 (ammo: 20)
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - Ultra AC/5 (ammo: 20)
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3i
   - CASE
@@ -208,9 +208,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser
   - Light Gauss Rifle (ammo: 16)
   - LRM 15 (ammo: 8)
+  - Medium Laser
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -226,9 +226,9 @@
 - **Armor:** 178 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Snub-Nose PPC
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3i
   - CASE
@@ -244,8 +244,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Light PPC
   - Heavy PPC
+  - Light PPC
 - **Equipment:**
   - TAG
 - **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
@@ -260,9 +260,9 @@
 - **Armor:** 185 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Light AC/5 (ammo: 20)
   - Medium Pulse Laser
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM)
-  - Light AC/5 (ammo: 20)
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -279,8 +279,8 @@
 - **Armor:** 158 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Heavy PPC
+  - ER Medium Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
@@ -297,9 +297,9 @@
 - **Armor:** 178 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser
   - Heavy PPC
   - MML 7 (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -315,12 +315,12 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium VSP Laser
   - Plasma Rifle (ammo: 20)
+  - Medium VSP Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
 - **Source:** Jihad
 - **Battle Value:** 1536
 
@@ -333,9 +333,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Thunderbolt 5 × 5 (ammo: 48)
   - ER Medium Laser
   - Light AC/5 (ammo: 20)
-  - Thunderbolt 5 × 5 (ammo: 48)
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -351,8 +351,8 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Medium Laser
   - NLRM 5 (ammo: 24)
   - SRM 2 (ammo: 50)
 - **Equipment:**
@@ -369,8 +369,8 @@
 - **Armor:** 168
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Light PPC
   - Heavy PPC
+  - Light PPC
 - **Source:** ilClan Vol 12 - Early Republic
 - **Battle Value:** 1569
 
@@ -383,8 +383,8 @@
 - **Armor:** 170 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Re-Engineered Laser
   - Large Re-Engineered Laser
+  - Medium Re-Engineered Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
   - Streak SRM 2 (iOS)
 - **Equipment:**

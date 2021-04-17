@@ -96,8 +96,8 @@
 - **Armor:** 158 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Light PPC × 3
   - ER Large Laser
+  - Light PPC × 3
 - **Equipment:**
   - C3i
 - **Source:** TRO 3050 - Jihad

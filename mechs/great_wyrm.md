@@ -7,10 +7,10 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Ultra AC/2 × 2 (ammo: 45)
-  - ER Medium Laser × 2
-  - ER Small Laser × 2
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 2
+  - Ultra AC/2 × 2 (ammo: 45)
+  - ER Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -38,9 +38,9 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle (ammo: 40)
   - HAG 20 (ammo: 12)
   - ER Medium Laser × 3
+  - AP Gauss Rifle (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060

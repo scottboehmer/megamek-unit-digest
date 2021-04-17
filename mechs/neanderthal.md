@@ -8,9 +8,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Large Laser × 2
   - Large Pulse Laser
   - Hatchet
-  - Large Laser × 2
   - Small Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
@@ -26,11 +26,11 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Hatchet
   - Snub-Nose PPC w/ PPC Capacitor × 2
+  - Hatchet
 - **Equipment:**
-  - M-Pod × 3
   - Guardian ECM Suite
+  - M-Pod × 3
 - **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 2020
 

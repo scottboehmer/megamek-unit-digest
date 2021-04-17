@@ -55,8 +55,8 @@
 - **Armor:** 80
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
-  - Chainsaw
   - SRM 4 (ammo: 25)
+  - Chainsaw
 - **Equipment:**
   - Cargo
 - **Source:** Jihad
@@ -173,10 +173,10 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - BattleMech Taser (ammo: 5)
-  - Chainsaw
-  - ER Small Laser
   - ER Medium Laser
+  - BattleMech Taser (ammo: 5)
+  - ER Small Laser
+  - Chainsaw
 - **Equipment:**
   - CASE
 - **Source:** XTR Gladiators - Jihad

@@ -7,8 +7,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - ER Medium Laser × 2
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
@@ -23,8 +23,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - HAG 20 × 2 (ammo: 24)
+  - Medium Pulse Laser × 2
   - ER Small Laser × 2
 - **Equipment:**
   - CASE

@@ -61,9 +61,9 @@
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
   - ER PPC
   - iNarc (ammo: 16)
+  - ER Small Laser
 - **Equipment:**
   - C3i
 - **Source:** Civil War
@@ -77,9 +77,9 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Snub-Nose PPC
   - MML 9 (ammo: 13 LRM, 11 SRM)
+  - ER Medium Laser
 - **Equipment:**
   - C3 Master
 - **Source:** Jihad
@@ -109,8 +109,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 10 (ammo: 12)
   - Heavy PPC
+  - LRM 10 (ammo: 12)
 - **Source:** Jihad
 - **Battle Value:** 1458
 

@@ -7,8 +7,8 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer
   - Medium Laser × 2
+  - Flamer
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 716
 
@@ -20,12 +20,12 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer
   - Medium Laser × 4
   - Small Laser
+  - Flamer
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** Hist:Op Klondike - Star League
 - **Battle Value:** 1112
 
@@ -37,8 +37,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer
   - Medium Laser × 2
+  - Flamer
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 601
 
@@ -64,8 +64,8 @@
 - **Weapons:**
   - Medium Laser × 2
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 649
 
@@ -79,8 +79,8 @@
 - **Weapons:**
   - Medium Laser × 2
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
+  - MASC
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 726
 
@@ -94,9 +94,9 @@
 - **Weapons:**
   - Medium Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - MASC
   - TAG
-  - Guardian ECM Suite
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 600
 
@@ -110,8 +110,8 @@
 - **Weapons:**
   - Medium Pulse Laser × 3
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
+  - MASC
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1012
 
@@ -126,9 +126,9 @@
   - ER Medium Laser × 6
   - ER Small Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - MASC
   - C3 Slave
-  - Guardian ECM Suite
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1470
 
@@ -142,8 +142,8 @@
 - **Weapons:**
   - ER Medium Laser × 5
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
+  - MASC
   - C3i
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1362
@@ -158,8 +158,8 @@
 - **Weapons:**
   - Medium Pulse Laser × 3
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
+  - MASC
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1042
 

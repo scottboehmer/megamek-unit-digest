@@ -8,12 +8,12 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Mining Drill
   - Small Laser
+  - Mining Drill
 - **Equipment:**
+  - Searchlight
   - Lift Hoist
   - Enviro-Sealing
   - Cargo × 3
-  - Searchlight
 - **Battle Value:** unknown
 

@@ -11,10 +11,10 @@
   - Clan ER Large Laser × 2
   - Light Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
+  - Angel ECM Suite
   - Clan HarJel II × 3
   - CASE II
   - Drone Operating System
-  - Angel ECM Suite
 - **Source:** XTRO Republic III - Dark Ag
 - **Battle Value:** 1719
 

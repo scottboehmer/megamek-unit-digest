@@ -37,8 +37,8 @@
 - **Armor:** 247
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - SRM 6 w/ Artemis IV (ammo: 15)
   - LRM 20 w/ Artemis IV × 2 (ammo: 48)
+  - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
@@ -53,8 +53,8 @@
 - **Armor:** 247
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser
   - LRM 20 × 2 (ammo: 36)
+  - Large Pulse Laser
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
@@ -86,8 +86,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ELRM 10 (ammo: 18)
   - ELRM 15 × 2 (ammo: 36)
+  - ELRM 10 (ammo: 18)
 - **Equipment:**
   - C3 Boosted Slave
 - **Source:** RS 3145 NT NU

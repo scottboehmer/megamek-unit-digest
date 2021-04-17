@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Flamer
   - MRM 10 (ammo: 48)
+  - Flamer
 - **Equipment:**
   - Guardian ECM Suite
   - CASE II
@@ -24,10 +24,10 @@
 - **Armor:** 105 (Laser Reflective)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
-  - ER Flamer
   - Light PPC
+  - ER Medium Laser
   - Rocket 10
+  - ER Flamer
 - **Equipment:**
   - Angel ECM Suite
   - MASC

@@ -8,9 +8,9 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance
-  - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 3
+  - Lance
 - **Equipment:**
   - Beagle Active Probe
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
@@ -25,14 +25,14 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
   - ER Small Laser
   - Small Pulse Laser
+  - Lance
 - **Equipment:**
-  - TAG
   - Beagle Active Probe
+  - TAG
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1028
 
@@ -45,12 +45,12 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance
   - ER Medium Laser × 4
   - SRM 4 (ammo: 25)
+  - Lance
 - **Equipment:**
-  - CASE
   - Beagle Active Probe
+  - CASE
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1159
 
@@ -64,10 +64,10 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance
-  - Chain Whip
-  - Small Re-Engineered Laser × 3
   - ER Small Laser
+  - Lance
+  - Small Re-Engineered Laser × 3
+  - Chain Whip
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 857
 
@@ -80,9 +80,9 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance
-  - ER Medium Laser × 2
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
+  - Lance
 - **Equipment:**
   - Beagle Active Probe
   - C3 Slave

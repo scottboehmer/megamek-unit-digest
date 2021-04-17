@@ -7,14 +7,14 @@
 - **Armor:** 304
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
   - Heavy-Duty Pile Driver
   - Nail/Rivet Gun × 2 (ammo: 600)
-  - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
 - **Equipment:**
   - Mech Sprayer × 2
-  - Lift Hoist × 2
   - Searchlight × 2
   - CASE
+  - Lift Hoist × 2
   - Liquid Cargo × 2
   - Ejection Seat
   - Tracks
@@ -29,16 +29,16 @@
 - **Armor:** 304
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Dual Saw
-  - Spot Welder
-  - Nail/Rivet Gun × 2 (ammo: 600)
   - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
+  - Spot Welder
+  - Dual Saw
+  - Nail/Rivet Gun × 2 (ammo: 600)
 - **Equipment:**
   - Mech Sprayer × 3
-  - Liquid Cargo × 3
-  - Lift Hoist × 2
   - Searchlight × 2
   - CASE
+  - Liquid Cargo × 3
+  - Lift Hoist × 2
   - Ejection Seat
   - Tracks
 - **Source:** Dark Age
@@ -53,9 +53,9 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - Machine Gun × 2 (ammo: 200)
   - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
   - Medium Laser × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
   - Ejection Seat

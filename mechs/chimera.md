@@ -9,9 +9,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
+  - MRM 20 (ammo: 24)
   - ER Medium Laser
   - Machine Gun (ammo: 100)
-  - MRM 20 (ammo: 24)
 - **Source:** TRO 3067
 - **Battle Value:** 1173
 
@@ -25,8 +25,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - ER Medium Laser
   - MRM 20 (ammo: 24)
+  - ER Medium Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3067
@@ -43,11 +43,11 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Snub-Nose PPC
   - Medium Laser × 4
   - Sword
   - Small Pulse Laser
   - Small Laser
-  - Snub-Nose PPC
 - **Equipment:**
   - C3 Slave
 - **Source:** 3067 Unabridged

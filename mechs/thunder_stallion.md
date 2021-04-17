@@ -7,8 +7,8 @@
 - **Armor:** 279
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LRM 15 × 4 (ammo: 64)
   - LB 20-X AC (ammo: 5 Cluster, 5 Standard)
+  - LRM 15 × 4 (ammo: 64)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -22,8 +22,8 @@
 - **Armor:** 279
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - LRM 15 × 4 (ammo: 64)
   - Large Pulse Laser × 2
+  - LRM 15 × 4 (ammo: 64)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -41,8 +41,8 @@
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - ER Medium Laser
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 2667
 

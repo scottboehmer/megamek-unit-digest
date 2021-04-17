@@ -40,8 +40,8 @@
 - **Weapons:**
   - Large Pulse Laser
   - Ultra AC/5 (ammo: 20)
-  - Machine Gun × 2 (ammo: 200)
   - ER Small Laser
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -73,8 +73,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - LRM 20 (ammo: 12)
+  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -92,9 +92,9 @@
   - Medium Pulse Laser × 6
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
   - Active Probe
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2056
 
@@ -107,8 +107,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 3
   - ATM 12 (ammo: 10 Standard, 10 HE, 10 ER)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -136,8 +136,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 3
   - HAG 20 (ammo: 18)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -152,17 +152,17 @@
 - **Armor:** 160
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Heavy Medium Laser × 3
   - Micro Pulse Laser × 3
   - Inner Sphere Sword
-  - Heavy Medium Laser × 3
   - Spot Welder
   - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
-  - HarJel
-  - Light Active Probe
-  - Liquid Cargo × 2
-  - CASE
   - ECM Suite
+  - Light Active Probe
+  - HarJel
+  - CASE
+  - Liquid Cargo × 2
 - **Source:** Jihad
 - **Battle Value:** unknown
 
@@ -175,8 +175,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 5
   - ER PPC
+  - Improved Heavy Medium Laser × 5
 - **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2224
 

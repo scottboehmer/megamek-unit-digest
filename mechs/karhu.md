@@ -9,9 +9,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER PPC
+  - Plasma Cannon (ammo: 10)
   - ER Medium Laser
   - Inner Sphere Retractable Blade
-  - Plasma Cannon (ammo: 10)
 - **Equipment:**
   - ECM Suite
 - **Source:** Jihad
@@ -28,9 +28,9 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - Large Pulse Laser
+  - LRM 10 (ammo: 12)
   - ER Medium Laser
   - Micro Pulse Laser
-  - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -48,9 +48,9 @@
   - Ultra AC/20 (ammo: 20)
   - ER Medium Laser × 3
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** Jihad
 - **Battle Value:** 2787
 
@@ -64,9 +64,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser
+  - Ultra AC/5 × 2 (ammo: 40)
   - ER Medium Laser
   - Inner Sphere Retractable Blade
-  - Ultra AC/5 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -81,14 +81,14 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER PPC × 2
-  - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 3
 - **Equipment:**
+  - ECM Suite
   - Anti-Missile System × 2 (ammo: 24)
+  - Active Probe
   - CASE
   - Targeting Computer
-  - Active Probe
-  - ECM Suite
 - **Source:** Jihad
 - **Battle Value:** 3118
 
@@ -101,13 +101,13 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Inner Sphere Heavy PPC
-  - Inner Sphere ER Medium Laser
   - Inner Sphere Plasma Rifle (ammo: 20)
+  - Inner Sphere ER Medium Laser
   - Inner Sphere Retractable Blade
 - **Equipment:**
+  - Inner Sphere Guardian ECM Suite
   - Inner Sphere Beagle Active Probe
   - Inner Sphere C3 Slave
-  - Inner Sphere Guardian ECM Suite
 - **Source:** TRO 3085/Lamenkov's Liability - Jihad
 - **Battle Value:** unknown
 

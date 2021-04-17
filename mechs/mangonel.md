@@ -7,8 +7,8 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 4
   - Light Gauss Rifle × 2 (ammo: 16)
+  - ER Medium Laser × 4
 - **Source:** Jihad
 - **Battle Value:** 1552
 
@@ -20,11 +20,11 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 4
   - Gauss Rifle × 2 (ammo: 32)
+  - ER Medium Laser × 4
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 2657
 
@@ -36,9 +36,9 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Clan HAG 40 (ammo: 15)
   - Clan Medium Pulse Laser × 2
   - Clan ER Medium Laser × 2
-  - Clan HAG 40 (ammo: 15)
 - **Source:** RS 3145  NTNU
 - **Battle Value:** 2659
 

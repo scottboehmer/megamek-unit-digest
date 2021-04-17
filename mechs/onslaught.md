@@ -45,8 +45,8 @@
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium X-Pulse Laser
   - Ultra AC/10 (ammo: 20)
+  - Medium X-Pulse Laser
   - SRM 6 × 2 (ammo: 15)
   - Machine Gun × 6 (ammo: 200)
 - **Equipment:**

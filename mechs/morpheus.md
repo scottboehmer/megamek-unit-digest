@@ -12,8 +12,8 @@
   - Medium Laser
 - **Equipment:**
   - Guardian ECM Suite
-  - Beagle Active Probe
   - Anti-Missile System (ammo: 12)
+  - Beagle Active Probe
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1340
 
@@ -27,11 +27,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 3
-  - Claw
   - MagShot Gauss Rifle (ammo: 50)
+  - Claw
 - **Equipment:**
-  - Spikes × 2
   - Guardian ECM Suite
+  - Spikes × 2
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1437
 
@@ -60,12 +60,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Claw
   - MagShot Gauss Rifle (ammo: 50)
+  - Claw
 - **Equipment:**
-  - Spikes × 2
   - Guardian ECM Suite
   - MASS
+  - Spikes × 2
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1299
 

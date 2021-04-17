@@ -9,8 +9,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Heavy PPC
-  - Hatchet
   - MML 5 (ammo: 24 LRM, 20 SRM)
+  - Hatchet
   - Rocket 10
 - **Equipment:**
   - AES × 2
@@ -26,9 +26,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - TSEMP
   - Large VSP Laser
   - Hatchet
-  - TSEMP
   - Rocket 10
 - **Equipment:**
   - AES × 2

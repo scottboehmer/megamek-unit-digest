@@ -9,8 +9,8 @@
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
   - Searchlight
-  - Lift Hoist
   - Mech Sprayer
+  - Lift Hoist
   - Cargo
 - **Source:** TRO 3075
 - **Battle Value:** unknown

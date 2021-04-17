@@ -7,9 +7,9 @@
 - **Armor:** 112 (Laser Reflective)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MagShot Gauss Rifle × 5 (ammo: 50)
   - ER Medium Laser × 2
   - ER Small Laser
+  - MagShot Gauss Rifle × 5 (ammo: 50)
 - **Equipment:**
   - Angel ECM Suite
   - Targeting Computer
@@ -24,9 +24,9 @@
 - **Armor:** 112 (Laser Reflective)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MagShot Gauss Rifle × 5 (ammo: 50)
   - ER Medium Laser × 2
   - ER Small Laser
+  - MagShot Gauss Rifle × 5 (ammo: 50)
 - **Equipment:**
   - Guardian ECM Suite
   - Targeting Computer

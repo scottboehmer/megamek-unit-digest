@@ -8,8 +8,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Large Laser
   - Ultra AC/10 (ammo: 20)
+  - ER Large Laser
   - ER Small Laser
 - **Source:** TRO 3060
 - **Battle Value:** 1460
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - Medium Pulse Laser
   - ER Medium Laser × 3
+  - Medium Pulse Laser
   - ER Small Laser
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1858
@@ -120,8 +120,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Heavy PPC
-  - Medium Pulse Laser
   - ER Medium Laser
+  - Medium Pulse Laser
 - **Equipment:**
   - Targeting Computer
   - C3 Boosted Slave

@@ -8,9 +8,9 @@
 - **Armor:** 184
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - ER Medium Laser × 4
   - Medium Pulse Laser
-  - Gauss Rifle (ammo: 16)
 - **Source:** TRO 3060
 - **Battle Value:** 2072
 
@@ -23,8 +23,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Laser × 6
   - Plasma Rifle × 2 (ammo: 30)
+  - Medium Laser × 6
 - **Source:** TRO 3060
 - **Battle Value:** 2137
 
@@ -39,8 +39,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium X-Pulse Laser × 4
   - Sniper Cannon (ammo: 20)
+  - Medium X-Pulse Laser × 4
 - **Equipment:**
   - C3 Slave
   - TAG
@@ -55,14 +55,14 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Small VSP Laser × 3
-  - Large VSP Laser
   - Snub-Nose PPC
+  - Large VSP Laser
+  - Small VSP Laser × 3
 - **Equipment:**
+  - Guardian ECM Suite
+  - Beagle Active Probe
   - Command Console
   - MASC
-  - Beagle Active Probe
-  - Guardian ECM Suite
 - **Source:** TRO 3060
 - **Battle Value:** 1656
 

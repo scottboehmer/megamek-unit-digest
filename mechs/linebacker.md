@@ -8,8 +8,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC × 2
-  - LRM 5 (ammo: 24)
   - Streak SRM 4 (ammo: 25)
+  - LRM 5 (ammo: 24)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -41,9 +41,9 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - ER Medium Laser × 3
   - ER Small Laser
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -58,10 +58,10 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser
-  - ER Medium Laser × 4
   - Ultra AC/5 (ammo: 20)
-  - Machine Gun × 2 (ammo: 100)
+  - ER Medium Laser × 4
   - Flamer
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -91,11 +91,11 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Large Laser
+  - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1846
 
@@ -122,9 +122,9 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - ER PPC
   - SRM 6 × 4 (ammo: 45)
   - Narc (iOS)
-  - ER PPC
 - **Equipment:**
   - CASE
 - **Source:** ilClan Rec Guide 6 - Jihad
@@ -154,11 +154,11 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Machine Gun × 20 (ammo: 300)
   - ER Large Pulse Laser
+  - Machine Gun × 20 (ammo: 300)
 - **Equipment:**
-  - Machine Gun Array × 6
   - Active Probe
+  - Machine Gun Array × 6
   - CASE
   - Supercharger
 - **Battle Value:** 1853
@@ -176,7 +176,7 @@
   - Streak SRM 4 (ammo: 25)
   - Flamer
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Battle Value:** 1851
 

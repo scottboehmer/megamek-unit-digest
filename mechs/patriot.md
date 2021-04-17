@@ -8,13 +8,13 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Arrow IV (ammo: 20)
   - Heavy PPC
+  - Arrow IV (ammo: 20)
 - **Equipment:**
-  - TAG
-  - CASE
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+  - TAG
+  - CASE
 - **Source:** TRO 3075U - Jihad
 - **Battle Value:** 1613
 
@@ -27,14 +27,14 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - Heavy PPC
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - ER Medium Laser × 2
 - **Equipment:**
-  - TAG
-  - CASE
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+  - TAG
+  - CASE
 - **Source:** TRO 3075 - Jihad
 - **Battle Value:** 1699
 
@@ -47,12 +47,12 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 7 w/ Artemis IV × 3 (ammo: 34 LRM, 28 SRM)
   - Heavy PPC
+  - MML 7 w/ Artemis IV × 3 (ammo: 34 LRM, 28 SRM)
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - TAG
   - CASE
-  - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3075-Jihad
 - **Battle Value:** 1398
 

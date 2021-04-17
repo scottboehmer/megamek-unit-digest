@@ -8,10 +8,10 @@
 - **Armor:** 144
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - Small Laser
   - PPC
-  - LRM 5 (ammo: 24)
   - Medium Laser
+  - LRM 5 (ammo: 24)
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1024
 
@@ -24,10 +24,10 @@
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 100)
   - PPC
-  - LRM 5 (ammo: 24)
   - Medium Laser
+  - LRM 5 (ammo: 24)
+  - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1008
 
@@ -40,10 +40,10 @@
 - **Armor:** 72
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - Small Laser
   - PPC
-  - LRM 5 (ammo: 24)
   - Medium Laser
+  - LRM 5 (ammo: 24)
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 966
 
@@ -56,10 +56,10 @@
 - **Armor:** 144
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - Medium Laser
-  - Small Laser
   - PPC
+  - Medium Laser
   - LRM 5 (ammo: 24)
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1024
 
@@ -72,10 +72,10 @@
 - **Armor:** 144
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Small Laser
   - Large Laser
   - LRM 10 (ammo: 12)
   - Medium Laser
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1020
 
@@ -89,8 +89,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER PPC
-  - LRM 5 (ammo: 24)
   - Medium Pulse Laser
+  - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -106,12 +106,12 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Sword
   - ER PPC
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
-  - Small Laser
+  - Sword
   - Small Pulse Laser
+  - Small Laser
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1484
 
@@ -125,9 +125,9 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
-  - LRM 5 (ammo: 24)
   - ER Medium Laser
   - Medium Pulse Laser
+  - LRM 5 (ammo: 24)
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -144,10 +144,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Sword
-  - Rocket 10 × 2
   - Plasma Rifle (ammo: 20)
   - ER Medium Laser × 2
+  - Sword
+  - Rocket 10 × 2
 - **Equipment:**
   - Guardian ECM Suite
   - Targeting Computer
@@ -164,8 +164,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Snub-Nose PPC
-  - MML 5 (ammo: 24 LRM, 20 SRM)
   - ER Medium Laser
+  - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -182,8 +182,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - BattleMech Taser (ammo: 5)
   - Clan ER PPC
+  - BattleMech Taser (ammo: 5)
 - **Equipment:**
   - AES × 2
   - Supercharger

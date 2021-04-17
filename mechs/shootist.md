@@ -8,8 +8,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - AC/20 (ammo: 10)
-  - Medium Pulse Laser × 2
   - ER Large Laser
+  - Medium Pulse Laser × 2
   - Small Laser
 - **Equipment:**
   - CASE
@@ -25,8 +25,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - AC/20 (ammo: 10)
-  - ER Medium Laser × 2
   - ER Large Laser
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3i
@@ -42,8 +42,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - ER Medium Laser × 2
   - ER Large Laser
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3i

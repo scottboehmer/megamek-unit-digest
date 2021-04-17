@@ -89,9 +89,9 @@
 - **Armor:** 119
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Light PPC × 3
   - ER Medium Laser
   - ER Small Laser
-  - Light PPC × 3
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1090
 

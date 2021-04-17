@@ -8,9 +8,9 @@
 - **Armor:** 288
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - AC/20 (ammo: 10)
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
-  - AC/20 (ammo: 10)
 - **Equipment:**
   - Coolant Pod × 4
   - CASE
@@ -26,9 +26,9 @@
 - **Armor:** 288
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
   - Large X-Pulse Laser × 2
   - Medium X-Pulse Laser × 2
-  - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - Small Shield × 2
   - CASE
@@ -44,9 +44,9 @@
 - **Armor:** 288
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - Gauss Rifle (ammo: 24)
   - PPC w/ PPC Capacitor × 2
   - ER Medium Laser × 2
-  - Gauss Rifle (ammo: 24)
 - **Equipment:**
   - Coolant Pod × 4
   - CASE

@@ -8,9 +8,9 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
-  - Lift Hoist × 2
-  - Cargo × 2
   - Searchlight
+  - Cargo × 2
+  - Lift Hoist × 2
 - **Source:** RS:VA IM Exo - Star League
 - **Battle Value:** unknown
 

@@ -8,9 +8,9 @@
 - **Armor:** 288
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER PPC × 2
   - LRM 15 × 2 (ammo: 24)
+  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -43,8 +43,8 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - ER Large Laser × 2
-  - ER Medium Laser × 2
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3058 - Clan Invasion
@@ -59,16 +59,16 @@
 - **Armor:** 288
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
   - Large Pulse Laser × 2
-  - Medium Pulse Laser × 2
+  - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
   - Streak SRM 6 (ammo: 15)
-  - Machine Gun × 2 (ammo: 100)
+  - Medium Pulse Laser × 2
   - Flamer × 2
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
-  - CASE
   - Active Probe
   - A-Pod × 2
+  - CASE
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2798
 
@@ -97,9 +97,9 @@
 - **Armor:** 288
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Heavy Medium Laser × 3
   - Ultra AC/10 × 2 (ammo: 40)
   - Medium Pulse Laser × 2
+  - Heavy Medium Laser × 3
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -115,8 +115,8 @@
 - **Armor:** 288
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Streak SRM 6 × 6 (ammo: 60)
   - HAG 40 (ammo: 12)
+  - Streak SRM 6 × 6 (ammo: 60)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Jihad
@@ -133,9 +133,9 @@
 - **Weapons:**
   - iATM 12 × 4 (ammo: 50)
 - **Equipment:**
+  - Nova CEWS
   - CASE
   - Light TAG
-  - Nova CEWS
 - **Source:** WoR - Jihad
 - **Battle Value:** 3935
 
@@ -151,9 +151,9 @@
   - LRM 20 w/ Artemis V × 2 (ammo: 36)
   - Medium Pulse Laser × 6
 - **Equipment:**
-  - CASE II
   - ECM Suite
   - Talons
+  - CASE II
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 3056
 

@@ -8,9 +8,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - Large Laser
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-  - Large Laser
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1041
 
@@ -23,8 +23,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1083
 
@@ -37,8 +37,8 @@
 - **Armor:** 136
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Star League
@@ -52,8 +52,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
   - Small Laser
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1073
@@ -66,8 +66,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER Large Laser
+  - Medium Pulse Laser × 2
   - Small Laser
 - **Source:** ER 2750
 - **Battle Value:** 1139
@@ -81,13 +81,13 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - ER PPC
   - ER Large Laser
+  - Medium Laser × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3075
 - **Battle Value:** 1512
 
@@ -100,13 +100,13 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - Snub-Nose PPC
   - ER Large Laser
+  - Medium Laser × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3075
 - **Battle Value:** 1443
 
@@ -136,9 +136,9 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Large Pulse Laser
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-  - Large Pulse Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
@@ -188,8 +188,8 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Laser × 4
   - ER Large Laser
+  - Medium Laser × 4
   - Small Laser
 - **Source:** ilClan Vol 11 - Clan Invasion
 - **Battle Value:** 1271
@@ -217,10 +217,10 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 25)
-  - Medium Pulse Laser × 2
-  - Machine Gun (ammo: 200)
   - ER Large Laser
+  - Medium Pulse Laser × 2
+  - SRM 4 × 2 (ammo: 25)
+  - Machine Gun (ammo: 200)
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
@@ -236,13 +236,13 @@
 - **Armor:** 128
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - ER Large Laser
   - Medium Laser × 2
   - Narc (ammo: 18)
-  - ER Large Laser
   - Flamer
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** Clan Invasion
 - **Battle Value:** 1174
 
@@ -255,8 +255,8 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium X-Pulse Laser
   - Large X-Pulse Laser
+  - Medium X-Pulse Laser
 - **Source:** Fronc Reaches
 - **Battle Value:** 1322
 
@@ -269,9 +269,9 @@
 - **Armor:** 128 (Stealth)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - ER Large Laser
   - ER Medium Laser × 2
   - Machine Gun × 2 (ammo: 100)
-  - ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO Project Pheonix - Civil War
@@ -286,8 +286,8 @@
 - **Armor:** 144
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
   - ER Small Laser × 2
 - **Equipment:**
   - Targeting Computer
@@ -303,8 +303,8 @@
 - **Armor:** 153
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 4
   - ER PPC
+  - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO Project Pheonix - Civil War
@@ -319,9 +319,9 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
   - iNarc (ammo: 12)
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3i
 - **Source:** TRO Project Pheonix - Civil War
@@ -336,8 +336,8 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - Large Pulse Laser
+  - Medium Laser × 4
   - Small Laser
 - **Equipment:**
   - MASC
@@ -353,9 +353,9 @@
 - **Armor:** 128 (Stealth)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - Clan ER Large Laser
   - ER Medium Laser × 2
   - Machine Gun × 2 (ammo: 100)
-  - Clan ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
@@ -371,8 +371,8 @@
 - **Armor:** 128 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Plasma Rifle (ammo: 20)
+  - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Jihad
@@ -387,8 +387,8 @@
 - **Armor:** 144 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Snub-Nose PPC
+  - ER Medium Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** Jihad
@@ -452,9 +452,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Clan Large Pulse Laser
   - Clan Medium Pulse Laser × 2
   - Clan AP Gauss Rifle × 2 (ammo: 40)
-  - Clan Large Pulse Laser
 - **Equipment:**
   - Clan Targeting Computer
   - Supercharger
@@ -470,9 +470,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - Large X-Pulse Laser
   - Medium Laser × 2
   - Light Machine Gun × 2 (ammo: 100)
-  - Large X-Pulse Laser
 - **Equipment:**
   - CASE II
 - **Source:** ilClan Vol 11 - Dark Age

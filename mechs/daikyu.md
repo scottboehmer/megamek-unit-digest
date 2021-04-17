@@ -7,10 +7,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Ultra AC/5 × 2 (ammo: 40)
   - ER PPC
-  - LRM 5 (ammo: 24)
+  - Ultra AC/5 × 2 (ammo: 40)
   - Medium Laser
+  - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -42,10 +42,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - LB 5-X AC × 2 (ammo: 40 Cluster, 40 Standard)
   - Clan ER PPC
-  - LRM 5 (ammo: 24)
+  - LB 5-X AC × 2 (ammo: 40 Cluster, 40 Standard)
   - Medium Laser
+  - LRM 5 (ammo: 24)
 - **Battle Value:** 1804
 
 ## Daikyu DAI-03
@@ -57,8 +57,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC
-  - ER Medium Laser
   - MRM 20 (ammo: 24)
+  - ER Medium Laser
 - **Equipment:**
   - C3 Slave
   - MASC
@@ -74,8 +74,8 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER PPC
+  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Medium Laser
   - LRM 5 (ammo: 24)
 - **Equipment:**

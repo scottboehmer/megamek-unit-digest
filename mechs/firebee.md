@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 2 × 3 (ammo: 100)
   - LRM 5 (ammo: 24)
+  - SRM 2 × 3 (ammo: 100)
 - **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 534
 
@@ -22,8 +22,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 2 × 4 (ammo: 100)
   - Large Laser
+  - SRM 2 × 4 (ammo: 100)
 - **Source:** TRO 3075
 - **Battle Value:** 808
 
@@ -40,8 +40,8 @@
   - Plasma Rifle (ammo: 20)
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3075
 - **Battle Value:** 1067
 

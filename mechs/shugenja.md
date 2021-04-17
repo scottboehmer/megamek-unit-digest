@@ -8,8 +8,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER PPC
-  - Large Laser × 2
   - MRM 30 (ammo: 16)
+  - Large Laser × 2
 - **Equipment:**
   - C3 Master
 - **Source:** TRO 3060
@@ -25,14 +25,14 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER PPC
-  - Light PPC × 2
   - MRM 30 (ammo: 16)
+  - Light PPC × 2
 - **Equipment:**
-  - CASE
-  - C3 Master
   - Guardian ECM Suite
   - B-Pod
   - A-Pod
+  - CASE
+  - C3 Master
 - **Source:** TRO 3060
 - **Battle Value:** 1691
 

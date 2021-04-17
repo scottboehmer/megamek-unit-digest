@@ -8,8 +8,8 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1287
 
@@ -22,8 +22,8 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER PPC
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1485
 
@@ -36,8 +36,8 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Large Pulse Laser
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3i
 - **Source:** TRO 3055 - Civil War
@@ -52,8 +52,8 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
-  - Clan ER Medium Laser × 2
   - Snub-Nose PPC
+  - Clan ER Medium Laser × 2
 - **Equipment:**
   - Clan Partial Wing
 - **Battle Value:** 1816

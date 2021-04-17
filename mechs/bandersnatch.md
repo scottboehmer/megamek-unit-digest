@@ -24,8 +24,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - AC/20 × 2 (ammo: 20)
-  - Medium Laser × 2
   - ER Large Laser
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 1584
@@ -39,8 +39,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Ultra AC/10 (ammo: 20)
-  - Medium Laser × 4
   - PPC
+  - Medium Laser × 4
   - LRM 5 × 2 (ammo: 24)
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
@@ -61,8 +61,8 @@
   - LRM 5 × 3 (ammo: 48)
   - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 1522
 

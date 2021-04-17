@@ -7,9 +7,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Small Pulse Laser
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - Small Pulse Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3058 - Star League
@@ -26,8 +26,8 @@
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1533
 
@@ -42,8 +42,8 @@
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** TRO 3075
 - **Battle Value:** 1715
 
@@ -55,9 +55,9 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -71,9 +71,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
-  - ER PPC
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - ER PPC
+  - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -107,9 +107,9 @@
 - **Armor:** 184
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
   - RAC/5 (ammo: 60)
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3i
   - CASE

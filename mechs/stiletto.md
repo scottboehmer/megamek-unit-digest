@@ -7,8 +7,8 @@
 - **Armor:** 107 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 2 × 2 (ammo: 50)
   - LRM 5 (ammo: 24)
+  - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -23,8 +23,8 @@
 - **Armor:** 98 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
+  - ER Medium Laser × 2
   - Flamer
 - **Equipment:**
   - Guardian ECM Suite
@@ -56,8 +56,8 @@
 - **Weapons:**
   - ER Medium Laser × 4
 - **Equipment:**
-  - Shoulder Turret × 2
   - Bloodhound Active Probe
+  - Shoulder Turret × 2
   - Supercharger
 - **Source:** XTRO Steiner - Jihad
 - **Battle Value:** 1192
@@ -72,8 +72,8 @@
 - **Weapons:**
   - ER Medium Laser × 4
 - **Equipment:**
-  - Shoulder Turret × 2
-  - Bloodhound Active Probe
   - Guardian ECM Suite
+  - Bloodhound Active Probe
+  - Shoulder Turret × 2
 - **Battle Value:** 1171
 

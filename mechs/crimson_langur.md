@@ -11,8 +11,8 @@
   - ER Large Laser
   - Heavy Medium Laser × 2
 - **Equipment:**
-  - Targeting Computer
   - Light Active Probe
+  - Targeting Computer
 - **Source:** TRO 3067
 - **Battle Value:** 1952
 
@@ -24,8 +24,8 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 15 × 2 (ammo: 32)
   - ER Large Laser
+  - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3067
@@ -40,11 +40,11 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - ATM 9 (ammo: 7 ER, 7 Standard, 7 HE)
+  - ER Medium Laser × 3
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 2210
 
@@ -56,9 +56,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Micro Laser × 4
   - Ultra AC/10 (ammo: 20)
   - Micro Pulse Laser × 4
+  - ER Micro Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3067
@@ -92,8 +92,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Medium Pulse Laser × 3
-  - ER Small Laser × 6
   - Streak SRM 4 × 2 (ammo: 25)
+  - ER Small Laser × 6
 - **Equipment:**
   - CASE
 - **Battle Value:** 2051

@@ -76,8 +76,8 @@
   - ER Large Laser × 2
   - ER Medium Laser × 6
 - **Equipment:**
-  - Targeting Computer
   - Anti-Missile System (ammo: 12)
+  - Targeting Computer
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1994
 

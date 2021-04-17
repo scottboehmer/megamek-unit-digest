@@ -8,9 +8,9 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance × 2
-  - SRM 4 (ammo: 25)
   - ER Medium Laser × 4
+  - SRM 4 (ammo: 25)
+  - Lance × 2
 - **Equipment:**
   - Supercharger
   - Targeting Computer
@@ -26,9 +26,9 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance × 2
   - ER Large Laser
   - ER Medium Laser
+  - Lance × 2
 - **Equipment:**
   - Supercharger
   - Targeting Computer

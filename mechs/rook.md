@@ -9,8 +9,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 6
   - PPC
+  - Medium Laser × 6
   - Small Laser
 - **Source:** Jihad
 - **Battle Value:** 1197
@@ -24,8 +24,8 @@
 - **Armor:** 136
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Medium Laser × 6
   - PPC
+  - Medium Laser × 6
   - Small Laser
 - **Source:** Jihad
 - **Battle Value:** 1227
@@ -40,8 +40,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Laser × 4
   - ER PPC
+  - Medium Laser × 4
   - Small Pulse Laser
 - **Source:** Jihad
 - **Battle Value:** 1525
@@ -55,8 +55,8 @@
 - **Armor:** 185
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - Blazer Cannon
+  - Medium Laser × 4
   - Small Laser
 - **Equipment:**
   - Supercharger
@@ -72,10 +72,10 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
+  - ER PPC w/ PPC Capacitor
   - ER Medium Laser × 2
   - Medium Laser × 2
   - ER Small Laser × 2
-  - ER PPC w/ PPC Capacitor
 - **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 1187
 

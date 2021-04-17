@@ -7,8 +7,8 @@
 - **Armor:** 153
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Laser × 2
   - ER Large Laser
+  - Medium Laser × 2
   - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - Beagle Active Probe

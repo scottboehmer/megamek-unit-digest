@@ -28,8 +28,8 @@
   - ER PPC × 3
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 3122
 

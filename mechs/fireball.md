@@ -33,8 +33,8 @@
 - **Armor:** 69
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Streak SRM 2 (ammo: 50)
   - Medium Laser
+  - Streak SRM 2 (ammo: 50)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 527
 
@@ -46,8 +46,8 @@
 - **Armor:** 69 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Small Laser
   - ER Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
   - MASC
   - Targeting Computer

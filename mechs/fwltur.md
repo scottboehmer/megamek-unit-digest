@@ -8,11 +8,11 @@
 - **Armor:** 84 (Commercial)
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
+  - Beagle Active Probe
   - Salvage Arm × 2
+  - Searchlight
   - Enviro-Sealing
   - Lift Hoist
-  - Beagle Active Probe
-  - Searchlight
 - **Source:** Dark Age
 - **Battle Value:** unknown
 

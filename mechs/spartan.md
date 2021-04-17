@@ -7,12 +7,12 @@
 - **Armor:** 224
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - ER PPC
+  - Medium Pulse Laser × 3
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
-  - TAG
   - Anti-Missile System (ammo: 24)
+  - TAG
 - **Source:** Rhonda's Irregulars - Star League
 - **Battle Value:** 1498
 
@@ -24,12 +24,12 @@
 - **Armor:** 224
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - ER PPC
+  - Medium Pulse Laser × 3
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
-  - TAG
   - Anti-Missile System (ammo: 24)
+  - TAG
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1605
 
@@ -41,12 +41,12 @@
 - **Armor:** 224
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - ER PPC
+  - Medium Pulse Laser × 3
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1605
 
@@ -58,8 +58,8 @@
 - **Armor:** 240 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - Large Pulse Laser × 2
+  - Medium Pulse Laser × 4
   - Streak SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -74,8 +74,8 @@
 - **Armor:** 224
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Medium Laser × 3
   - ER PPC
+  - ER Medium Laser × 3
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - TAG

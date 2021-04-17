@@ -7,8 +7,8 @@
 - **Armor:** 109 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Heavy PPC
+  - ER Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1142
 
@@ -21,8 +21,8 @@
 - **Armor:** 119 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Snub-Nose PPC
+  - ER Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1093
 
@@ -34,8 +34,8 @@
 - **Armor:** 109 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Heavy PPC
+  - ER Medium Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3075
@@ -50,12 +50,12 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Clan Medium Pulse Laser
   - Clan Large Pulse Laser
+  - Clan Medium Pulse Laser
 - **Equipment:**
+  - Clan Watchdog CEWS
   - Null-Signature System
   - Chameleon LPS
-  - Clan Watchdog CEWS
 - **Source:** XTRO Phantoms - Jihad
 - **Battle Value:** 1578
 
@@ -68,8 +68,8 @@
 - **Armor:** 93 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Light PPC
+  - ER Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 939
 
@@ -82,8 +82,8 @@
 - **Armor:** 93 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Light PPC
+  - ER Medium Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3075
@@ -97,8 +97,8 @@
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Plasma Rifle (ammo: 30)
+  - ER Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1125
 

@@ -9,8 +9,8 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER PPC × 2
-  - Heavy Medium Laser × 2
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -25,9 +25,9 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER PPC × 2
-  - Heavy Medium Laser × 2
   - Medium Pulse Laser × 2
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad

@@ -8,11 +8,11 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - LRM 20 w/ Artemis IV (ammo: 12)
-  - Medium Pulse Laser
   - Ultra AC/10 (ammo: 20)
+  - ER Medium Laser × 4
+  - Medium Pulse Laser
   - SRM 4 w/ Artemis IV (ammo: 25)
   - ER Small Laser
-  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3067
@@ -30,8 +30,8 @@
   - SRM 6 w/ Artemis IV (ammo: 30)
   - Medium Pulse Laser × 2
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
   - TAG
 - **Source:** TRO 3067
 - **Battle Value:** 1661
@@ -44,9 +44,9 @@
 - **Armor:** 224
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser × 2
   - Gauss Rifle (ammo: 8)
   - ER Large Laser
+  - Large Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
 - **Source:** TRO 3067
@@ -60,11 +60,11 @@
 - **Armor:** 224
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 32)
   - Ultra AC/10 (ammo: 30)
+  - Light Gauss Rifle (ammo: 32)
+  - ER Medium Laser × 3
   - Medium Pulse Laser
   - Streak SRM 2 (ammo: 50)
-  - ER Medium Laser × 3
 - **Source:** TRO 3067
 - **Battle Value:** 1644
 
@@ -78,8 +78,8 @@
 - **Weapons:**
   - LRM 20 w/ Artemis IV (ammo: 18)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - ER Medium Laser × 3
   - SRM 6 w/ Artemis IV (ammo: 30)
+  - ER Medium Laser × 3
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -111,12 +111,12 @@
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Large VSP Laser
-  - Medium VSP Laser
   - Gauss Rifle (ammo: 16)
+  - Large VSP Laser
   - ER Medium Laser
-  - SRM 6 (iOS)
+  - Medium VSP Laser
   - ER Small Laser
+  - SRM 6 (iOS)
 - **Equipment:**
   - Beagle Active Probe
   - Communications Equipment × 3
@@ -130,11 +130,11 @@
 - **Armor:** 224
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - MRM 20 (ammo: 24)
-  - PPC
-  - Medium Laser
   - RAC/5 (ammo: 60)
+  - PPC
+  - MRM 20 (ammo: 24)
   - Streak SRM 4 (ammo: 25)
+  - Medium Laser
   - ER Small Laser × 4
 - **Equipment:**
   - Guardian ECM Suite

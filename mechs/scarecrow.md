@@ -11,14 +11,14 @@
 - **Weapons:**
   - Clan ER Medium Laser × 3
   - Medium Pulse Laser × 2
-  - Clan Light Machine Gun × 8 (ammo: 100)
   - ER Flamer × 2
+  - Clan Light Machine Gun × 8 (ammo: 100)
 - **Equipment:**
+  - Bloodhound Active Probe
+  - B-Pod × 2
   - Clan Machine Gun Array × 2
   - Chameleon LPS
-  - Bloodhound Active Probe
   - CASE II
-  - B-Pod × 2
 - **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1429
 
@@ -38,8 +38,8 @@
   - ER Flamer × 2
 - **Equipment:**
   - Bloodhound Active Probe
-  - CASE II
   - B-Pod × 2
+  - CASE II
 - **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1431
 

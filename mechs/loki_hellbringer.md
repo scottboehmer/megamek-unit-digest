@@ -8,16 +8,16 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC × 2
-  - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 3
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
-  - Active Probe
   - ECM Suite
+  - Anti-Missile System (ammo: 24)
+  - Active Probe
+  - Inner Sphere A-Pod × 4
   - Targeting Computer
   - CASE
-  - Anti-Missile System (ammo: 24)
-  - Inner Sphere A-Pod × 4
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2654
 
@@ -30,14 +30,14 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser × 2
-  - Ultra AC/5 (ammo: 20)
-  - Narc (ammo: 6)
   - LRM 20 (ammo: 6)
-  - Machine Gun × 2 (ammo: 200)
+  - Ultra AC/5 (ammo: 20)
   - ER Medium Laser
+  - Narc (ammo: 6)
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1948
 
@@ -49,10 +49,10 @@
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - LB 5-X AC (ammo: 20)
   - Gauss Rifle (ammo: 8)
-  - ER Small Laser
+  - LB 5-X AC (ammo: 20)
   - SRM 6 w/ Artemis IV × 2 (ammo: 30)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -66,8 +66,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Large Laser × 2
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser × 2
   - Streak SRM 6 (ammo: 15)
   - SRM 6 (ammo: 15)
 - **Equipment:**
@@ -84,10 +84,10 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser
-  - ER Small Laser × 2
-  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
-  - ER Medium Laser × 2
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
+  - ER Medium Laser × 2
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
+  - ER Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -123,9 +123,9 @@
   - ER Medium Laser × 4
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
-  - CASE
-  - Active Probe
   - Anti-Missile System (ammo: 24)
+  - Active Probe
+  - CASE
 - **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 2415
 
@@ -137,15 +137,15 @@
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Heavy Large Laser
   - ER PPC
-  - Heavy Small Laser × 4
+  - Heavy Large Laser
   - LRM 15 (ammo: 16)
   - Ultra AC/5 (ammo: 40)
+  - Heavy Small Laser × 4
 - **Equipment:**
   - Active Probe
-  - CASE
   - A-Pod × 2
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1952
 
@@ -190,9 +190,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - Inner Sphere Improved Heavy Gauss Rifle (ammo: 12)
   - Improved Heavy Large Laser
   - ER Small Laser × 3
-  - Inner Sphere Improved Heavy Gauss Rifle (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NTNU - Late Republic
@@ -211,8 +211,8 @@
   - ATM 6 (ammo: 20)
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
-  - CASE II
   - Anti-Missile System (ammo: 24)
+  - CASE II
 - **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 2444
 

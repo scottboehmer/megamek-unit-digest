@@ -7,9 +7,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - PPC
   - Large Laser × 2
+  - Medium Laser × 4
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
@@ -24,9 +24,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Laser × 4
   - ER PPC
   - Large Pulse Laser × 2
+  - Medium Laser × 4
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
@@ -41,9 +41,9 @@
 - **Armor:** 176
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - PPC
   - Large Laser × 2
+  - Medium Laser × 4
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1443
@@ -56,8 +56,8 @@
 - **Armor:** 176
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 4
   - Large Laser × 3
+  - Medium Laser × 4
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1409
@@ -70,11 +70,11 @@
 - **Armor:** 216
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Pulse Laser × 4
-  - Hatchet
   - ER PPC
   - Large Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 4
+  - Hatchet
 - **Source:** Clan Invasion
 - **Battle Value:** 1678
 
@@ -87,11 +87,11 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - ER PPC
+  - ER Medium Laser × 2
+  - Medium Pulse Laser × 3
   - Hatchet
   - ER Small Laser
-  - ER PPC
-  - Medium Pulse Laser × 3
-  - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
 - **Source:** Starterbook: Sword and Dragon - Clan Invasion
@@ -105,9 +105,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
   - Clan ER PPC
   - Large Laser × 2
+  - Clan ER Medium Laser × 4
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
@@ -122,9 +122,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Medium Laser × 4
   - ER PPC
   - Large Laser × 2
+  - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3050 - Civil War
@@ -138,9 +138,9 @@
 - **Armor:** 220 (Light Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Large Vibroblade
   - Heavy PPC w/ PPC Capacitor
   - Medium X-Pulse Laser × 5
+  - Large Vibroblade
 - **Equipment:**
   - Large Shield
 - **Source:** XTRO Most Wanted - Jihad
@@ -159,9 +159,9 @@
   - Medium Laser × 4
 - **Equipment:**
   - Medium Shield
+  - Guardian ECM Suite
   - Beagle Active Probe
   - Targeting Computer
-  - Guardian ECM Suite
   - C3 Slave
 - **Source:** TRO 3145 Federated Suns - Early Republic
 - **Battle Value:** 1847
@@ -176,8 +176,8 @@
 - **Weapons:**
   - ER Large Laser × 2
   - ER Medium Laser × 4
-  - Flamer
   - ER Small Laser × 2
+  - Flamer
 - **Equipment:**
   - Medium Shield
 - **Source:** TRO 3145 Federated Suns - Early Republic
@@ -211,8 +211,8 @@
 - **Weapons:**
   - Clan ER PPC
   - Plasma Rifle × 2 (ammo: 30)
-  - Clan ER Small Laser × 2
   - Clan ER Medium Laser × 2
+  - Clan ER Small Laser × 2
   - Clan Small Pulse Laser × 2
 - **Equipment:**
   - Medium Shield
@@ -228,13 +228,13 @@
 - **Armor:** 208
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
   - Clan ER PPC
   - Clan ER Large Laser × 2
+  - Clan ER Medium Laser × 4
   - Clan Small Pulse Laser
 - **Equipment:**
-  - Targeting Computer
   - Beagle Active Probe
+  - Targeting Computer
 - **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 2585
 
@@ -248,8 +248,8 @@
 - **Weapons:**
   - Clan ER PPC
   - Clan ER Large Laser × 2
-  - Clan ER Small Laser × 2
   - Clan ER Medium Laser × 2
+  - Clan ER Small Laser × 2
   - Clan Small Pulse Laser × 2
 - **Equipment:**
   - Medium Shield

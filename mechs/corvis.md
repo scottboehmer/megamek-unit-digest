@@ -8,8 +8,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 40)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -24,8 +24,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - HAG 20 (ammo: 18)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
   - Targeting Computer

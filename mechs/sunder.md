@@ -38,9 +38,9 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - LRM 20 (ammo: 18)
+  - LRM 10 (ammo: 24)
   - Medium Pulse Laser × 2
   - Medium Laser × 2
-  - LRM 10 (ammo: 24)
 - **Equipment:**
   - C3 Master × 2
 - **Source:** TRO 3058 - Clan Invasion
@@ -56,8 +56,8 @@
 - **Weapons:**
   - MRM 40 (ammo: 18)
   - MRM 30 (ammo: 16)
-  - Medium Laser
   - Streak SRM 4 × 2 (ammo: 25)
+  - Medium Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3058 - Clan Invasion
@@ -71,10 +71,10 @@
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Clan LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Clan ER Medium Laser × 4
   - Clan Large Pulse Laser × 2
+  - Clan LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Clan Streak SRM 6 × 2 (ammo: 30)
+  - Clan ER Medium Laser × 4
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2462
 
@@ -100,10 +100,10 @@
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - SRM 4 × 6 (ammo: 100)
-  - Machine Gun × 12 (ammo: 400)
   - ER PPC
+  - SRM 4 × 6 (ammo: 100)
   - Flamer × 4
+  - Machine Gun × 12 (ammo: 400)
 - **Equipment:**
   - A-Pod × 2
 - **Source:** TRO 3058 - Civil War
@@ -117,8 +117,8 @@
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Snub-Nose PPC × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Streak SRM 6 × 2 (ammo: 15)
   - ER Medium Laser
 - **Source:** TRO 3058 - Jihad
@@ -132,12 +132,12 @@
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - NLRM 5 × 8 (ammo: 96)
   - ER Medium Laser × 3
+  - NLRM 5 × 8 (ammo: 96)
   - Medium Pulse Laser
 - **Equipment:**
-  - C3 Slave
   - B-Pod × 2
+  - C3 Slave
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1761
 
@@ -149,9 +149,9 @@
 - **Armor:** 264
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Clan LRM 5 × 5 (ammo: 72)
-  - Thunderbolt 5 × 6 (ammo: 60)
   - Clan ER Medium Laser
+  - Thunderbolt 5 × 6 (ammo: 60)
+  - Clan LRM 5 × 5 (ammo: 72)
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
@@ -166,10 +166,10 @@
 - **Armor:** 264
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
+  - TSEMP
+  - Clan ER PPC
   - Clan LB 20-X AC (ammo: 10 Standard, 10 Cluster)
   - Clan ER Medium Laser
-  - Clan ER PPC
-  - TSEMP
 - **Equipment:**
   - CASE II
   - C3 Boosted Slave

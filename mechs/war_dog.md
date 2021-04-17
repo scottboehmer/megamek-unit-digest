@@ -7,14 +7,14 @@
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large Pulse Laser
   - Gauss Rifle (ammo: 40)
+  - Large Pulse Laser
   - Medium Pulse Laser × 2
   - Small Pulse Laser
   - Streak SRM 2 (OS) × 2
 - **Equipment:**
-  - Anti-Missile System (ammo: 24)
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 24)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1814
 
@@ -26,10 +26,10 @@
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser × 2
-  - ER Medium Laser × 3
   - Heavy Gauss Rifle (ammo: 16)
+  - ER PPC
+  - ER Medium Laser × 3
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3055 - Civil War

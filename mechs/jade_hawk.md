@@ -9,9 +9,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (27)
 - **Weapons:**
-  - Inner Sphere Claw × 2
-  - ER Small Laser × 4
   - SRM 6 × 4 (ammo: 30)
+  - ER Small Laser × 4
+  - Inner Sphere Claw × 2
 - **Equipment:**
   - Partial Wing
   - CASE
@@ -28,9 +28,9 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Inner Sphere Claw × 2
-  - ER Small Laser × 3
   - Streak LRM 15 × 2 (ammo: 24)
+  - ER Small Laser × 3
+  - Inner Sphere Claw × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Mercenaries - Dark Ages
@@ -45,13 +45,13 @@
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 13 (29)
 - **Weapons:**
-  - ER Small Laser × 4
   - Streak SRM 6 × 4 (ammo: 60)
+  - ER Small Laser × 4
 - **Equipment:**
+  - Light Active Probe
   - CASE
   - Partial Wing
   - Supercharger
-  - Light Active Probe
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2523
 
@@ -64,8 +64,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Small Laser × 3
   - ATM 6 × 4 (ammo: 20 Standard, 10 ER, 10 HE)
+  - ER Small Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Mercenaries - Dark Ages
@@ -81,8 +81,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - ER Small Laser × 3
   - ATM 6 × 4 (ammo: 20 Standard, 20 ER)
+  - ER Small Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Mercenaries - Dark Ages

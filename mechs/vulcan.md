@@ -8,10 +8,10 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
-  - Flamer
   - Medium Laser
   - AC/2 (ammo: 45)
+  - Flamer
+  - Machine Gun (ammo: 200)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 642
 
@@ -24,9 +24,9 @@
 - **Armor:** 112
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
-  - Flamer
   - Medium Laser × 4
+  - Flamer
+  - Machine Gun (ammo: 200)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 942
 
@@ -39,9 +39,9 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer × 3
-  - Small Laser
   - AC/2 (ammo: 45)
+  - Small Laser
+  - Flamer × 3
 - **Source:** Star League
 - **Battle Value:** 603
 
@@ -54,10 +54,10 @@
 - **Armor:** 80
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
-  - Flamer
-  - Medium Pulse Laser
   - Large Pulse Laser
+  - Medium Pulse Laser
+  - Flamer
+  - Machine Gun (ammo: 200)
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 811
 
@@ -70,10 +70,10 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
-  - Flamer
-  - Medium Laser
   - Ultra AC/5 (ammo: 20)
+  - Medium Laser
+  - Flamer
+  - Machine Gun (ammo: 200)
 - **Equipment:**
   - MASC
   - CASE
@@ -89,10 +89,10 @@
 - **Armor:** 93 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
-  - Flamer
-  - ER Medium Laser
   - Light Gauss Rifle (ammo: 32)
+  - ER Medium Laser
+  - Flamer
+  - Machine Gun (ammo: 200)
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 959
 
@@ -105,10 +105,10 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Machine Gun × 3 (ammo: 200)
-  - Flamer
-  - ER Medium Laser
   - ER Large Laser
+  - ER Medium Laser
+  - Flamer
+  - Light Machine Gun × 3 (ammo: 200)
 - **Equipment:**
   - Machine Gun Array
   - C3i
@@ -124,10 +124,10 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
-  - Flamer
-  - Medium Laser
   - Plasma Rifle (ammo: 20)
+  - Medium Laser
+  - Flamer
+  - Machine Gun (ammo: 200)
 - **Equipment:**
   - MASC
   - CASE
@@ -143,8 +143,8 @@
 - **Armor:** 80 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Retractable Blade
   - Thunderbolt 5 × 2 (ammo: 24)
+  - Retractable Blade
 - **Equipment:**
   - Angel ECM Suite
 - **Source:** XTRO Royal Fantasy

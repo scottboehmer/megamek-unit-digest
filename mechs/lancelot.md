@@ -7,8 +7,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Large Laser × 2
   - PPC
+  - Large Laser × 2
   - Medium Laser
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 1422
@@ -21,9 +21,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - PPC
   - Large Laser × 2
   - Machine Gun × 4 (ammo: 200)
-  - PPC
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 1365
 
@@ -49,8 +49,8 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Large Laser × 2
   - PPC
+  - ER Large Laser × 2
   - Medium Laser
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1659
@@ -75,8 +75,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ER Large Laser × 2
   - ER PPC
+  - ER Large Laser × 2
   - Flamer × 2
 - **Equipment:**
   - MASC
@@ -91,8 +91,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
-  - Large Laser × 2
   - PPC
+  - Large Laser × 2
   - Medium Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1236
@@ -105,8 +105,8 @@
 - **Armor:** 201
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AC/5 × 2 (ammo: 20)
   - PPC
+  - AC/5 × 2 (ammo: 20)
   - Medium Laser
 - **Equipment:**
   - CASE
@@ -121,8 +121,8 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Large Laser × 2
   - ER PPC
+  - ER Large Laser × 2
 - **Equipment:**
   - C3i
 - **Source:** TRO 3050 - Clan Invasion
@@ -138,8 +138,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Large Laser × 2
   - PPC
+  - ER Large Laser × 2
 - **Equipment:**
   - Targeting Computer
   - C3i
@@ -156,8 +156,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - PPC
+  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - C3i
 - **Source:** TRO 3050 - Jihad

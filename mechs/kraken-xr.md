@@ -7,9 +7,9 @@
 - **Armor:** 304 (Laser Reflective)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - RAC/2 × 4 (ammo: 90)
-  - Streak LRM 10 × 2 (ammo: 24)
   - ER Large Laser
+  - Streak LRM 10 × 2 (ammo: 24)
+  - RAC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE II
 - **Source:** XTRO Clans - Jihad

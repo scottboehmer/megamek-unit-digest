@@ -9,8 +9,8 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Medium Pulse Laser × 2
   - Large Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -26,9 +26,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Pulse Laser × 2
-  - ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -44,9 +44,9 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - ER Medium Laser × 2
-  - ER Large Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -63,9 +63,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Light PPC
-  - Plasma Rifle (ammo: 20)
   - Heavy Gauss Rifle (ammo: 8)
+  - Plasma Rifle (ammo: 20)
+  - Light PPC
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i

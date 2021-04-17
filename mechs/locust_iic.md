@@ -7,8 +7,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 8
   - Medium Pulse Laser
+  - ER Small Laser × 8
 - **Source:** Succession Wars
 - **Battle Value:** 1100
 
@@ -20,8 +20,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 2 × 4 (ammo: 50)
   - ER Medium Laser
+  - Streak SRM 2 × 4 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars
@@ -35,8 +35,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - ER Large Laser
+  - Small Pulse Laser × 2
 - **Source:** Succession Wars
 - **Battle Value:** 980
 
@@ -48,8 +48,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 3 × 2 (ammo: 40)
   - ER Medium Laser
+  - ATM 3 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -63,8 +63,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy Small Laser × 6
   - ER Medium Laser
+  - Heavy Small Laser × 6
 - **Source:** Civil War
 - **Battle Value:** 795
 
@@ -76,8 +76,8 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Heavy Machine Gun × 6 (ammo: 100)
   - ER Medium Laser
+  - Heavy Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
@@ -92,8 +92,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 6 (ammo: 40)
   - ER Medium Laser
+  - AP Gauss Rifle × 6 (ammo: 40)
 - **Equipment:**
   - CASE
   - Targeting Computer

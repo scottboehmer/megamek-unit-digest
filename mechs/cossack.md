@@ -8,9 +8,9 @@
 - **Armor:** 48
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - SRM 6 (ammo: 15)
   - Medium Laser
   - Small Laser × 2
-  - SRM 6 (ammo: 15)
 - **Source:** TRO 3060
 - **Battle Value:** 465
 

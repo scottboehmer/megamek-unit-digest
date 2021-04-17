@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - SRM 4 × 3 (ammo: 25)
   - SRM 6 (ammo: 15)
+  - SRM 4 × 3 (ammo: 25)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060

@@ -7,9 +7,9 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 100)
   - Large Pulse Laser
   - Small Laser
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -23,8 +23,8 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Large X-Pulse Laser
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 977
@@ -37,8 +37,8 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Pulse Laser
+  - Medium Laser × 2
   - Small Laser
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 806
@@ -51,8 +51,8 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1073

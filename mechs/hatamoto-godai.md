@@ -12,11 +12,11 @@
   - ELRM 15 (ammo: 18)
   - Clan ER Medium Laser × 2
 - **Equipment:**
-  - Command Console
-  - C3 BoostedMaster × 2
-  - Bloodhound Active Probe
   - Guardian ECM Suite
   - Clan Laser Anti-Missile System
+  - Bloodhound Active Probe
+  - Command Console
+  - C3 BoostedMaster × 2
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1893
 

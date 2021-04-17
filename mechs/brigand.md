@@ -22,8 +22,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - ER Medium Laser × 2
+  - Medium Laser × 4
 - **Source:** TRO 3067
 - **Battle Value:** 937
 
@@ -64,8 +64,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
   - Medium X-Pulse Laser × 2
+  - SRM 4 (ammo: 25)
 - **Source:** HTP Tortuga
 - **Battle Value:** 723
 
@@ -93,8 +93,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Mace
   - Medium Laser × 4
+  - Mace
 - **Source:** HTP Tortuga
 - **Battle Value:** 752
 
@@ -135,8 +135,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Light PPC
+  - ER Medium Laser × 3
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1038
 
@@ -149,8 +149,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Mace
   - Medium Laser × 3
+  - Mace
 - **Source:** HTP Tortuga
 - **Battle Value:** 762
 

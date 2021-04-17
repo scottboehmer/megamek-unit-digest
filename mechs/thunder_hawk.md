@@ -7,8 +7,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 4
   - Gauss Rifle × 3 (ammo: 48)
+  - Medium Laser × 4
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 2577
 
@@ -20,8 +20,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Gauss Rifle × 3 (ammo: 48)
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2489
 
@@ -33,9 +33,9 @@
 - **Armor:** 307
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
-  - Arrow IV (ammo: 10)
   - Gauss Rifle × 2 (ammo: 32)
+  - Arrow IV (ammo: 10)
+  - Medium Laser × 4
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2449
 

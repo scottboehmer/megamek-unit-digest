@@ -7,10 +7,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
-  - Medium Pulse Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 10 w/ Artemis IV × 2 (ammo: 36)
+  - Medium Pulse Laser × 2
+  - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
@@ -26,10 +26,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
-  - ER Large Laser
   - AC/20 (ammo: 15)
+  - ER Large Laser
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -43,9 +43,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -59,10 +59,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - PPC
   - Ultra AC/5 (ammo: 20)
   - LRM 10 × 2 (ammo: 24)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3 Master
@@ -77,8 +77,8 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -92,11 +92,11 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Clan Gauss Rifle (ammo: 8)
+  - Clan ER Large Laser
   - MRM 40 (ammo: 12)
   - Clan Streak SRM 4 (ammo: 25)
-  - Clan ER Large Laser
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -110,10 +110,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Laser × 2
-  - ER Medium Laser × 2
   - Light Gauss Rifle (ammo: 16)
   - MRM 20 × 2 (ammo: 24)
+  - ER Medium Laser × 2
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -128,13 +128,13 @@
 - **Armor:** 192
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Laser × 2
   - ER PPC
-  - ER Medium Laser
   - Ultra AC/10 (ammo: 30)
+  - ER Medium Laser
+  - Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
   - C3i
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1563
@@ -148,9 +148,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Laser × 2
-  - ER PPC
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER PPC
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Civil War
@@ -164,8 +164,8 @@
 - **Armor:** 192
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Laser × 2
   - Heavy PPC × 2
+  - Medium Laser × 2
   - MML 3 w/ Artemis IV × 2 (ammo: 80 LRM, 33 SRM)
 - **Equipment:**
   - CASE
@@ -180,9 +180,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - LRT 15 w/ Artemis IV × 2 (ammo: 32)
   - SRT 4 w/ Artemis IV × 2 (ammo: 50)
+  - Medium Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -198,9 +198,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Laser × 2
-  - ER Medium Laser × 2
   - Thunderbolt 15 × 2 (ammo: 16)
+  - ER Medium Laser × 2
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Jihad
@@ -214,8 +214,8 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Clan HAG 30 × 2 (ammo: 32)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NTNU - Early Republic
@@ -234,8 +234,8 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
   - Medium Laser × 2
 - **Equipment:**
-  - C3i
   - Guardian ECM Suite
+  - C3i
   - CASE
 - **Source:** SO:Unending Faith - Late Republic Era
 - **Battle Value:** 1550

@@ -10,9 +10,9 @@
 - **Weapons:**
   - Large Pulse Laser
   - Medium Pulse Laser
+  - Streak SRM 2 × 2 (ammo: 50)
   - Small Pulse Laser
   - Machine Gun × 2 (ammo: 200)
-  - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** Unbound - Clan Invasion

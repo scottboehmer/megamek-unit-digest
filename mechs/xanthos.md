@@ -9,10 +9,10 @@
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
   - Large Laser
-  - SRM 4 (ammo: 25)
-  - Medium Laser × 2
-  - Small Laser × 2
   - AC/10 (ammo: 20)
+  - Medium Laser × 2
+  - SRM 4 (ammo: 25)
+  - Small Laser × 2
 - **Source:** XTRO Primitives IV - Age of War
 - **Battle Value:** 1300
 
@@ -24,11 +24,11 @@
 - **Armor:** 323
 - **Heat Sinks:** 23 (23)
 - **Weapons:**
+  - AC/20 (ammo: 15)
   - PPC
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
   - Small Laser
-  - AC/20 (ammo: 15)
 - **Source:** TRO 3075
 - **Battle Value:** 1948
 
@@ -42,10 +42,10 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - Heavy PPC
   - Light PPC × 2
   - ER Medium Laser × 3
   - ER Small Laser
-  - Heavy PPC
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3075
@@ -61,8 +61,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 5
   - ER PPC
+  - Medium Pulse Laser × 5
   - ER Small Laser
 - **Source:** TRO 3075
 - **Battle Value:** 2146
@@ -77,8 +77,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - PPC × 2
-  - ER Medium Laser × 4
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 4
   - Small Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite

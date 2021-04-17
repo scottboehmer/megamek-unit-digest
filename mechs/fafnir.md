@@ -7,12 +7,12 @@
 - **Armor:** 307
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Heavy Gauss Rifle × 2 (ammo: 32)
+  - ER Medium Laser × 2
   - Medium Pulse Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 2636
 
@@ -24,13 +24,13 @@
 - **Armor:** 307
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - ER Large Laser
   - Gauss Rifle × 2 (ammo: 32)
+  - ER Large Laser
+  - ER Medium Laser × 3
   - Medium Pulse Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 2625
 
@@ -43,13 +43,13 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - Heavy Gauss Rifle (ammo: 16)
+  - ER Large Laser × 2
   - Medium Pulse Laser × 3
   - Rocket 10 × 10
-  - ER Large Laser × 2
-  - Heavy Gauss Rifle (ammo: 16)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
   - C3 Slave
 - **Battle Value:** 2458
 
@@ -61,8 +61,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Plasma Rifle × 4 (ammo: 50)
+  - ER Medium Laser × 2
 - **Equipment:**
   - C3i
 - **Source:** 3067 Unabridged
@@ -76,11 +76,11 @@
 - **Armor:** 307
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Improved Heavy Gauss Rifle × 2 (ammo: 24)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 2610
 

@@ -7,14 +7,14 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
 - **Equipment:**
+  - ECM Suite
   - MASC
   - CASE
-  - ECM Suite
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2268
 
@@ -26,13 +26,13 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER PPC
+  - Medium Pulse Laser × 2
 - **Equipment:**
+  - ECM Suite
+  - Active Probe
   - MASC
   - TAG
-  - Active Probe
-  - ECM Suite
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2308
 
@@ -59,8 +59,8 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 6
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 6
 - **Equipment:**
   - MASC
   - CASE
@@ -76,14 +76,14 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - ER Small Laser × 2
-  - Machine Gun × 4 (ammo: 100)
   - SRM 6 × 2 (ammo: 30)
+  - ER Small Laser × 2
   - Flamer
+  - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
+  - Active Probe
   - MASC
   - CASE
-  - Active Probe
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1809
 
@@ -95,11 +95,11 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Heavy Large Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
-  - MASC
   - ECM Suite
+  - MASC
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1928
 
@@ -127,8 +127,8 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 2
   - RAC/2 (ammo: 90)
+  - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - MASC
   - CASE II

@@ -9,11 +9,11 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Retractable Blade
-  - Flamer
-  - SRM 2 (ammo: 50)
   - Light PPC
   - ER Medium Laser
+  - SRM 2 (ammo: 50)
+  - Flamer
+  - Retractable Blade
 - **Equipment:**
   - C3i
   - CASE
@@ -31,12 +31,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Light Machine Gun × 6 (ammo: 100)
-  - Flamer × 2
   - ER Small Laser
+  - Flamer × 2
+  - Light Machine Gun × 6 (ammo: 100)
 - **Equipment:**
-  - C3i
   - Machine Gun Array × 2
+  - C3i
   - CASE
 - **Source:** TRO 3075
 - **Battle Value:** 823
@@ -51,11 +51,11 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Snub-Nose PPC
+  - ER Medium Laser × 2
 - **Equipment:**
-  - C3i
   - Guardian ECM Suite
+  - C3i
 - **Source:** TRO 3075
 - **Battle Value:** 1047
 
@@ -69,13 +69,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 3
   - ER Medium Laser × 2
+  - ER Small Laser × 3
 - **Equipment:**
-  - C3i
+  - Guardian ECM Suite
   - Beagle Active Probe
   - B-Pod
-  - Guardian ECM Suite
+  - C3i
   - Targeting Computer
   - TAG
 - **Source:** TRO 3075
@@ -127,9 +127,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Light PPC
   - Thunderbolt 5 (ammo: 12)
   - ER Medium Laser × 2
-  - Light PPC
 - **Equipment:**
   - C3i
   - CASE
@@ -146,8 +146,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 3
   - ER PPC w/ PPC Capacitor
+  - ER Small Laser × 3
 - **Equipment:**
   - C3i
 - **Battle Value:** 1121

@@ -7,8 +7,8 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
   - ER Medium Laser × 3
+  - Hatchet
 - **Equipment:**
   - MASC
 - **Source:** TRO 3075
@@ -22,10 +22,10 @@
 - **Armor:** 105 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
-  - Flamer
   - ER Medium Laser × 2
   - ER Small Laser × 3
+  - Hatchet
+  - Flamer
 - **Equipment:**
   - Small Shield
 - **Source:** TRO 3075
@@ -39,8 +39,8 @@
 - **Armor:** 48
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
   - ER Medium Laser × 3
+  - Hatchet
 - **Equipment:**
   - Small Shield
   - MASC
@@ -56,11 +56,11 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Vibroblade
   - ER Medium Laser × 3
+  - Small Vibroblade
 - **Equipment:**
-  - AES
   - Small Shield
+  - AES
   - Supercharger
 - **Battle Value:** 989
 
@@ -73,9 +73,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Fluid Gun (ammo: 20)
   - Light AC/5 (ammo: 20)
   - ER Medium Laser × 3
+  - Fluid Gun (ammo: 20)
 - **Equipment:**
   - Targeting Computer
 - **Source:** XTRO Republic I - Early Republic

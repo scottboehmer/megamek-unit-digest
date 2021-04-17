@@ -42,10 +42,10 @@
   - ER Medium Laser × 2
   - ATM 3 × 4 (ammo: 40 Standard, 20 ER, 20 HE)
 - **Equipment:**
-  - MASC
   - Inner Sphere Angel ECM Suite
-  - CASE
   - Active Probe
+  - MASC
+  - CASE
   - Targeting Computer
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2183
@@ -58,8 +58,8 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - Improved Heavy Large Laser
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
 - **Equipment:**
   - MASC
   - CASE

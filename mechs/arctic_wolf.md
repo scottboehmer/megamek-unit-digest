@@ -23,8 +23,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 × 4 (ammo: 45)
   - Large Pulse Laser
+  - SRM 6 × 4 (ammo: 45)
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
@@ -54,12 +54,12 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 15 × 2 (ammo: 32)
   - SRM 6 × 2 (ammo: 30)
   - Small Pulse Laser × 2
-  - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 1587
 
@@ -72,13 +72,13 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Heavy Medium Laser
-  - Streak SRM 4 × 4 (ammo: 50)
   - Plasma Cannon (ammo: 10)
+  - Streak SRM 4 × 4 (ammo: 50)
+  - Heavy Medium Laser
 - **Equipment:**
+  - ECM Suite
   - Active Probe
   - CASE
-  - ECM Suite
 - **Source:** TRO 3060
 - **Battle Value:** 1786
 

@@ -36,9 +36,9 @@
   - ER PPC × 2
   - ER Medium Laser × 6
 - **Equipment:**
-  - Command Console
   - Angel ECM Suite
   - Bloodhound Active Probe
+  - Command Console
   - TAG
   - C3i
   - Remote Sensor Dispenser
@@ -56,9 +56,9 @@
 - **Weapons:**
   - Heavy PPC
   - ER PPC
-  - Medium Laser
   - ER Medium Laser × 4
   - Medium Pulse Laser
+  - Medium Laser
   - Small Pulse Laser
 - **Equipment:**
   - C3 Slave

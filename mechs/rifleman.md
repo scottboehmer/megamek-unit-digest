@@ -226,9 +226,9 @@
   - Light AC/5 × 2 (ammo: 40)
   - ER Medium Laser × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - CASE
   - Targeting Computer
-  - Guardian ECM Suite
 - **Source:** Jihad
 - **Battle Value:** 1503
 

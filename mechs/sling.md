@@ -22,8 +22,8 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - Medium Pulse Laser
+  - Medium Laser × 2
 - **Equipment:**
   - TAG
 - **Battle Value:** 731

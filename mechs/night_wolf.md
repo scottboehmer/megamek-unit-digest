@@ -8,15 +8,15 @@
 - **Armor:** 248
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - ATM 9 × 2 (ammo: 14 Standard, 14 ER, 14 HE)
-  - Plasma Cannon (ammo: 20)
-  - ER Medium Laser
   - Heavy Large Laser
+  - Plasma Cannon (ammo: 20)
+  - ATM 9 × 2 (ammo: 14 Standard, 14 ER, 14 HE)
+  - ER Medium Laser
 - **Equipment:**
-  - CASE
-  - Targeting Computer
   - ECM Suite
   - Anti-Missile System (ammo: 24)
+  - CASE
+  - Targeting Computer
 - **Source:** Dark Age
 - **Battle Value:** 2878
 

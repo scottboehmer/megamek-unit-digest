@@ -7,12 +7,12 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun (ammo: 100)
   - Medium Laser × 2
   - SRM 2 (ammo: 50)
+  - Machine Gun (ammo: 100)
 - **Equipment:**
-  - Enviro-Sealing
   - Searchlight
+  - Enviro-Sealing
 - **Source:** RS VA - Jihad
 - **Battle Value:** unknown
 
@@ -26,10 +26,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER PPC
   - Heavy PPC
-  - ER Large Laser
+  - ER PPC
   - Plasma Rifle (ammo: 20)
+  - ER Large Laser
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -48,8 +48,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Heavy PPC × 2
-  - ER Large Laser
   - Plasma Rifle (ammo: 20)
+  - ER Large Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** Dark Age

@@ -7,9 +7,9 @@
 - **Armor:** 296
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - Ultra AC/20 (ammo: 15)
   - LRM 20 × 2 (ammo: 24)
   - Streak SRM 6 × 2 (ammo: 15)
-  - Ultra AC/20 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars
@@ -23,10 +23,10 @@
 - **Armor:** 297 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - LRM 20 × 2 (ammo: 24)
-  - ER Large Laser × 2
-  - ER Medium Laser
   - Ultra AC/20 (ammo: 15)
+  - ER Large Laser × 2
+  - LRM 20 × 2 (ammo: 24)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars

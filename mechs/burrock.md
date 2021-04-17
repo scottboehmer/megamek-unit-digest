@@ -7,8 +7,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Heavy Medium Laser × 6
   - Ultra AC/20 (ammo: 20)
+  - Heavy Medium Laser × 6
 - **Equipment:**
   - CASE
 - **Source:** TRO 3067
@@ -22,9 +22,9 @@
 - **Armor:** 200
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Heavy Medium Laser × 3
   - HAG 40 (ammo: 15)
   - ER Medium Laser × 3
+  - Heavy Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** 3067 Unabridged

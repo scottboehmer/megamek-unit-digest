@@ -8,9 +8,9 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
   - Medium Pulse Laser
+  - ER Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
@@ -26,8 +26,8 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Pulse Laser × 3
   - Streak SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 3
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -42,11 +42,11 @@
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Large Pulse Laser
-  - Small Pulse Laser
   - Gauss Rifle (ammo: 8)
+  - Large Pulse Laser
   - LRM 10 w/ Artemis IV (ammo: 12)
   - SRM 4 w/ Artemis IV (ammo: 25)
+  - Small Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -61,12 +61,12 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER Large Laser × 2
-  - Ultra AC/5 (ammo: 20)
   - LRM 15 × 2 (ammo: 16)
+  - Ultra AC/5 (ammo: 20)
   - ER Medium Laser
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2500
 
@@ -114,8 +114,8 @@
   - Large Pulse Laser
   - Medium Pulse Laser × 2
   - SRM 6 × 4 (ammo: 60)
-  - Machine Gun × 2 (ammo: 100)
   - ER Small Laser
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -131,8 +131,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -149,8 +149,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Large Pulse Laser × 2
-  - ER Medium Laser × 2
   - Streak SRM 6 × 2 (ammo: 30)
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -181,8 +181,8 @@
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Heavy Large Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+  - Heavy Large Laser × 2
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -200,8 +200,8 @@
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 4
 - **Equipment:**
-  - Active Probe
   - ECM Suite
+  - Active Probe
   - Targeting Computer
   - Light TAG
 - **Source:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion
@@ -234,10 +234,10 @@
 - **Weapons:**
   - Large Pulse Laser
   - ER Medium Laser × 2
-  - SRM 4 × 3 (ammo: 25)
-  - AP Gauss Rifle × 2 (ammo: 40)
   - Streak SRM 4 × 3 (ammo: 25)
+  - SRM 4 × 3 (ammo: 25)
   - ER Small Laser
+  - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -254,8 +254,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 3
   - LRM 20 × 2 (ammo: 12)
+  - ER Medium Laser × 3
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
@@ -271,11 +271,11 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Pulse Laser × 2
   - iATM 9 × 2 (ammo: 28)
+  - ER Medium Pulse Laser × 2
 - **Equipment:**
-  - CASE
   - Nova CEWS
+  - CASE
 - **Source:** WoR - Jihad
 - **Battle Value:** 2923
 
@@ -289,8 +289,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Micro Laser × 2
   - LRT 15 w/ Artemis IV × 2 (ammo: 16)
+  - ER Micro Laser × 2
 - **Equipment:**
   - HarJel × 3
   - CASE
@@ -305,9 +305,9 @@
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Ultra AC/20 (ammo: 20)
   - Streak SRM 6 × 2 (ammo: 15)
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - Supercharger
@@ -326,8 +326,8 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Small Laser
 - **Equipment:**
-  - Inner Sphere C3i
   - Light Active Probe
+  - Inner Sphere C3i
   - TAG
   - CASE
 - **Source:** SO: Unending Faith - Late Republic Era
@@ -341,9 +341,9 @@
 - **Armor:** 230 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 2
-  - ER Medium Laser × 2
   - LRM 20 w/ Artemis V × 2 (ammo: 36)
+  - ER Medium Laser × 2
+  - Improved Heavy Medium Laser × 2
   - ER Small Pulse Laser
   - ER Small Laser × 2
 - **Equipment:**

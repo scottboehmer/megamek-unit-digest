@@ -22,8 +22,8 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - ER Large Laser
+  - Medium Laser × 2
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
@@ -38,8 +38,8 @@
 - **Armor:** 89
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - SRM 6 (ammo: 15)
+  - Medium Laser × 4
 - **Equipment:**
   - Null-Signature System
   - Chameleon LPS
@@ -94,8 +94,8 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - Active Probe
@@ -110,8 +110,8 @@
 - **Armor:** 86 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - Active Probe
@@ -155,9 +155,9 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - Light PPC
   - Medium Laser × 2
   - ER Small Laser
-  - Light PPC
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe

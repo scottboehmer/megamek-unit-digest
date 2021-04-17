@@ -7,8 +7,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
-  - ER Large Laser × 3
   - ER PPC × 2
+  - ER Large Laser × 3
 - **Source:** TRO 3060
 - **Battle Value:** 2530
 
@@ -66,8 +66,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Heavy Large Laser × 3
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -82,8 +82,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ATM 9 × 4 (ammo: 28 Standard, 14 ER, 14 HE)
   - Large Pulse Laser
+  - ATM 9 × 4 (ammo: 28 Standard, 14 ER, 14 HE)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -98,8 +98,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - Large Pulse Laser × 2
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
@@ -118,9 +118,9 @@
   - ER Large Laser
   - AP Gauss Rifle × 8 (ammo: 40)
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** TRO 3060
 - **Battle Value:** 2522
 
@@ -150,9 +150,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 21 (42)
 - **Weapons:**
+  - Inner Sphere TSEMP × 2
   - Improved Heavy Large Laser × 2
   - Medium Pulse Laser × 4
-  - Inner Sphere TSEMP × 2
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NTNU - Dark Ages

@@ -9,12 +9,12 @@
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
   - ER Large Laser × 2
-  - Streak SRM 4 × 2 (ammo: 25)
   - Medium Pulse Laser × 2
+  - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
-  - CASE
-  - Anti-Missile System (ammo: 24)
   - ECM Suite
+  - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3145 The Clans - Civil War
 - **Battle Value:** 3101
 
@@ -27,8 +27,8 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - Ultra AC/20 × 2 (ammo: 30)
-  - Streak SRM 6 × 2 (ammo: 15)
   - ER Large Laser
+  - Streak SRM 6 × 2 (ammo: 15)
   - Medium Pulse Laser × 3
   - ER Small Laser
 - **Equipment:**
@@ -47,8 +47,8 @@
   - ER PPC × 2
   - ER Large Laser × 2
   - Medium Pulse Laser × 5
-  - ER Medium Laser × 6
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 6
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 The Clans - Civil War

@@ -13,8 +13,8 @@
   - Heavy Medium Laser
   - Heavy Small Laser
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 1673
 
@@ -26,8 +26,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
   - ER Large Laser
+  - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
 - **Equipment:**
   - CASE
   - Targeting Computer

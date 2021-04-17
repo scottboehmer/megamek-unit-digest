@@ -8,12 +8,12 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1231
 
@@ -26,11 +26,11 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 3
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1508
 
@@ -43,11 +43,11 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
   - C3 Slave
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1339
@@ -61,11 +61,11 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
   - TAG
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1339
@@ -82,8 +82,8 @@
   - Medium Pulse Laser × 2
   - Medium Laser × 4
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
 - **Battle Value:** 1540
 
 ## Stealth STH-3S
@@ -97,8 +97,8 @@
 - **Weapons:**
   - ER PPC
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
+  - MASC
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1577
 
@@ -111,14 +111,14 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Flamer × 2
-  - Clan ER Medium Laser × 3
   - Clan Streak SRM 6 (ammo: 15)
+  - Clan ER Medium Laser × 3
+  - ER Flamer × 2
 - **Equipment:**
+  - Clan ECM Suite
+  - Clan Active Probe
   - Chameleon LPS
   - MASC
-  - Clan Active Probe
-  - Clan ECM Suite
 - **Source:** XTRO Steiner - Jihad
 - **Battle Value:** 2155
 

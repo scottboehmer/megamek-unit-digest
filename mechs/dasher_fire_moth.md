@@ -26,11 +26,11 @@
 - **Weapons:**
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
-  - MASC
   - Anti-Missile System (ammo: 24)
+  - Active Probe
+  - MASC
   - CASE
   - TAG
-  - Active Probe
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 639
 
@@ -45,10 +45,10 @@
   - Medium Pulse Laser × 2
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
-  - MASC
   - ECM Suite
-  - CASE
   - A-Pod
+  - MASC
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1064
 
@@ -62,9 +62,9 @@
 - **Weapons:**
   - LRM 5 × 2 (ammo: 48)
 - **Equipment:**
+  - Anti-Missile System (ammo: 48)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 48)
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 741
 
@@ -122,11 +122,11 @@
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 3
   - ER Large Laser
+  - ER Small Laser × 3
 - **Equipment:**
-  - MASC
   - ECM Suite
+  - MASC
 - **Battle Value:** 1388
 
 ## Dasher (Fire Moth) F
@@ -140,9 +140,9 @@
   - ER Medium Laser × 3
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
+  - Active Probe
   - MASC
   - CASE
-  - Active Probe
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1461
 
@@ -157,10 +157,10 @@
   - Heavy Medium Laser × 2
   - Light Machine Gun × 6 (ammo: 100)
 - **Equipment:**
-  - MASC
   - Machine Gun Array × 2
-  - CASE
   - B-Pod × 2
+  - MASC
+  - CASE
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 884
 
@@ -189,8 +189,8 @@
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 4
   - LRM 15 (ammo: 8)
+  - ER Small Laser × 4
 - **Equipment:**
   - CASE
   - MASC
@@ -209,10 +209,10 @@
   - Inner Sphere Medium Laser
   - ER Small Laser
 - **Equipment:**
-  - Inner Sphere C3 Slave
   - ECM Suite
-  - MASC
   - Inner Sphere M-Pod
+  - Inner Sphere C3 Slave
+  - MASC
 - **Source:** Dark Age
 - **Battle Value:** 1160
 
@@ -240,8 +240,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - Improved Heavy Small Laser
   - LRM 5 (ammo: 24)
+  - Improved Heavy Small Laser
 - **Equipment:**
   - CASE
   - MASC
@@ -274,9 +274,9 @@
 - **Armor:** 38 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Plasma Cannon (ammo: 10)
   - ER Small Pulse Laser
   - ER Small Laser × 2
-  - Plasma Cannon (ammo: 10)
 - **Equipment:**
   - MASC
 - **Source:** Dark Age

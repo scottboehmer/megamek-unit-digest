@@ -8,11 +8,11 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - AC/5 (ammo: 20)
   - Large Laser
-  - Vehicle Flamer × 2 (ammo: 20)
-  - SRM 2 × 4 (ammo: 100)
+  - AC/5 (ammo: 20)
   - LRM 5 × 2 (ammo: 24)
+  - SRM 2 × 4 (ammo: 100)
+  - Vehicle Flamer × 2 (ammo: 20)
 - **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** unknown
 
@@ -24,11 +24,11 @@
 - **Armor:** 168
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - AC/5 (ammo: 20)
-  - Small Laser
   - Large Laser
-  - SRM 2 × 4 (ammo: 50)
+  - AC/5 (ammo: 20)
   - LRM 5 × 2 (ammo: 24)
+  - SRM 2 × 4 (ammo: 50)
+  - Small Laser
 - **Source:** TRO 3075
 - **Battle Value:** 1289
 
@@ -41,8 +41,8 @@
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
   - PPC × 2
-  - SRM 6 (ammo: 15)
   - LRM 10 (ammo: 12)
+  - SRM 6 (ammo: 15)
 - **Source:** TRO 3075
 - **Battle Value:** 1393
 
@@ -55,8 +55,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Large Laser × 2
-  - SRM 6 w/ Artemis IV (ammo: 15)
   - LRM 10 w/ Artemis IV (ammo: 12)
+  - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser
 - **Source:** TRO 3075
 - **Battle Value:** 1491

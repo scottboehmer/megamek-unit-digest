@@ -7,9 +7,9 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser × 2
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Small Laser × 2
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 1233
@@ -22,9 +22,9 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser × 2
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Laser × 2
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1233
@@ -37,8 +37,8 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER PPC
   - Gauss Rifle (ammo: 16)
+  - ER PPC
 - **Battle Value:** 1632
 
 ## Champion CHP-2N
@@ -49,9 +49,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - AC/10 (ammo: 20)
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
-  - AC/10 (ammo: 20)
   - Small Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1116
@@ -65,10 +65,10 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Medium Pulse Laser × 2
-  - SRM 6 w/ Artemis IV (ammo: 15)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
+  - SRM 6 w/ Artemis IV (ammo: 15)
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
@@ -83,10 +83,10 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Large Laser × 2
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser × 2
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Small Laser × 2
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1400
@@ -99,9 +99,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 4
-  - iNarc (ammo: 8)
   - Ultra AC/10 (ammo: 30)
+  - iNarc (ammo: 8)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
   - C3i

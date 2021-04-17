@@ -8,8 +8,8 @@
 - **Armor:** 136
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Streak SRM 4 × 4 (ammo: 100)
   - ER Large Laser × 2
+  - Streak SRM 4 × 4 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Mercenaries - Jihad
@@ -24,8 +24,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
   - ER Large Laser × 2
+  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Mercenaries - Early Republic
@@ -40,8 +40,8 @@
 - **Armor:** 136
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
-  - ER Medium Laser × 4
   - ER Large Laser × 2
+  - ER Medium Laser × 4
 - **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 2317
 

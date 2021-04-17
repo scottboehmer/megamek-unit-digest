@@ -7,11 +7,11 @@
 - **Armor:** 200
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
   - LRM 20 × 2 (ammo: 12)
+  - SRM 4 (ammo: 25)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 1480
 
@@ -23,8 +23,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
   - LRM 20 × 2 (ammo: 12)
+  - SRM 4 (ammo: 25)
   - Machine Gun (ammo: 200)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1340
@@ -57,8 +57,8 @@
   - Rocket 20 × 3
   - Small Laser
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1440
 
@@ -70,8 +70,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Machine Gun × 3 (ammo: 100)
   - MML 7 × 4 (ammo: 28 SRM, 51 LRM)
+  - Machine Gun × 3 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array
   - C3 Slave

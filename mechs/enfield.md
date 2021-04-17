@@ -7,9 +7,9 @@
 - **Armor:** 169
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Large Pulse Laser
   - Medium Laser × 2
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Laser
 - **Equipment:**
   - CASE
@@ -25,9 +25,9 @@
 - **Armor:** 169
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Large Laser
   - Medium Laser × 2
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -41,9 +41,9 @@
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Large Laser
   - Medium Laser × 2
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -60,8 +60,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Large Laser
-  - Medium Laser × 2
   - Light AC/5 × 2 (ammo: 60)
+  - Medium Laser × 2
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite

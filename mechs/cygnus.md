@@ -53,8 +53,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - LB 20-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - Heavy Medium Laser × 4
   - ER Medium Laser × 2
+  - Heavy Medium Laser × 4
   - ER Small Laser × 2
 - **Equipment:**
   - CASE

@@ -8,9 +8,9 @@
 - **Armor:** 277 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - SRM 6 (ammo: 30)
   - Gauss Rifle (ammo: 16)
   - LRM 20 (ammo: 12)
+  - SRM 6 (ammo: 30)
   - Medium Laser × 2
 - **Equipment:**
   - CASE
@@ -26,9 +26,9 @@
 - **Armor:** 277 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 w/ Artemis IV (ammo: 15)
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser × 3
 - **Equipment:**
   - CASE
@@ -44,8 +44,8 @@
 - **Armor:** 277 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Clan ER Large Laser × 2
   - Clan Gauss Rifle (ammo: 16)
+  - Clan ER Large Laser × 2
   - LRM 20 w/ Artemis IV (ammo: 0)
 - **Equipment:**
   - CASE
@@ -61,9 +61,9 @@
 - **Armor:** 279
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - SRM 6 (ammo: 30)
-  - AC/10 (ammo: 20)
   - LRM 20 (ammo: 18)
+  - AC/10 (ammo: 20)
+  - SRM 6 (ammo: 30)
   - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1801
@@ -77,9 +77,9 @@
 - **Armor:** 279
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - SRM 6 (ammo: 15)
-  - AC/20 (ammo: 10)
   - LRM 20 (ammo: 12)
+  - AC/20 (ammo: 10)
+  - SRM 6 (ammo: 15)
   - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1857
@@ -93,9 +93,9 @@
 - **Armor:** 279
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - SRM 6 (ammo: 30)
-  - PPC
   - LRM 20 (ammo: 18)
+  - PPC
+  - SRM 6 (ammo: 30)
   - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1865
@@ -109,9 +109,9 @@
 - **Armor:** 277 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 4 (ammo: 25)
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - Streak SRM 4 (ammo: 25)
   - Medium Laser × 2
 - **Equipment:**
   - CASE
@@ -127,8 +127,8 @@
 - **Armor:** 279
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Gauss Rifle (ammo: 24)
   - Heavy Gauss Rifle (ammo: 16)
+  - Gauss Rifle (ammo: 24)
   - Large Laser × 2
 - **Equipment:**
   - CASE
@@ -144,10 +144,10 @@
 - **Armor:** 279
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LB 20-X AC (ammo: 5 Cluster, 10 Standard)
-  - Streak SRM 6 × 2 (ammo: 15)
   - ER Large Laser
+  - Streak SRM 6 × 2 (ammo: 15)
+  - ER Medium Laser × 2
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
@@ -163,10 +163,10 @@
 - **Armor:** 279
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - ER Large Laser
-  - LRM 15 w/ Artemis IV (ammo: 8)
   - Heavy Gauss Rifle (ammo: 12)
+  - LRM 15 w/ Artemis IV (ammo: 8)
+  - ER Large Laser
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -183,12 +183,12 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 7 w/ Artemis IV × 2 (ammo: 51 LRM, 14 SRM)
   - Gauss Rifle (ammo: 16)
+  - MML 7 w/ Artemis IV × 2 (ammo: 51 LRM, 14 SRM)
   - ER Medium Laser × 2
 - **Equipment:**
-  - CASE II
   - Angel ECM Suite
+  - CASE II
   - C3 Slave
 - **Source:** XTRO ComStar - Jihad
 - **Battle Value:** 2152
@@ -202,13 +202,13 @@
 - **Armor:** 271 (Light Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 15)
   - ER PPC w/ PPC Capacitor
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
 - **Equipment:**
-  - CASE II
   - M-Pod × 4
+  - CASE II
 - **Source:** Dark Age
 - **Battle Value:** 2232
 

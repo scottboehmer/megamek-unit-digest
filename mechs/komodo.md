@@ -10,8 +10,8 @@
 - **Weapons:**
   - Medium Laser × 10
 - **Equipment:**
-  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
+  - Anti-Missile System × 2 (ammo: 24)
   - TAG
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1533
@@ -28,8 +28,8 @@
   - ER Large Laser
   - Medium Laser × 5
 - **Equipment:**
-  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
+  - Anti-Missile System × 2 (ammo: 24)
   - TAG
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1415
@@ -45,8 +45,8 @@
 - **Weapons:**
   - Medium Laser × 10
 - **Equipment:**
-  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
+  - Anti-Missile System × 2 (ammo: 24)
   - C3 Slave
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1533
@@ -62,8 +62,8 @@
 - **Weapons:**
   - Medium Laser × 8
 - **Equipment:**
-  - Anti-Missile System × 2 (ammo: 24)
   - Guardian ECM Suite
+  - Anti-Missile System × 2 (ammo: 24)
   - C3 Master
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1371

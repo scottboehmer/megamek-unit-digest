@@ -35,9 +35,9 @@
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
   - Large Laser
-  - Small Laser
   - LRM 10 (ammo: 24)
   - Medium Laser × 2
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1057
 
@@ -49,9 +49,9 @@
 - **Armor:** 136
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Hatchet
   - AC/20 (ammo: 15)
   - Medium Laser × 2
+  - Hatchet
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 957
 
@@ -80,9 +80,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - Medium Pulse Laser × 3
   - Hatchet
-  - Gauss Rifle (ammo: 16)
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1435
 
@@ -113,8 +113,8 @@
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 10 w/ Artemis IV (ammo: 24)
-  - Medium Laser
   - Medium Pulse Laser
+  - Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -131,8 +131,8 @@
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 10 w/ Artemis IV (ammo: 24)
-  - Medium Laser
   - Medium Pulse Laser
+  - Medium Laser
 - **Equipment:**
   - CASE
 - **Battle Value:** 1257
@@ -145,8 +145,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - PPC
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 10 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - CASE
@@ -194,8 +194,8 @@
 - **Armor:** 136
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - AC/5 (ammo: 40)
   - LRM 10 w/ Artemis IV (ammo: 24)
+  - AC/5 (ammo: 40)
   - Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
@@ -211,8 +211,8 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 16)
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - Light Gauss Rifle (ammo: 16)
   - ER Medium Laser
 - **Equipment:**
   - MASC
@@ -246,10 +246,10 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy PPC
-  - Light PPC
   - LRM 10 (ammo: 24)
-  - Medium Laser
+  - Light PPC
   - Medium Pulse Laser
+  - Medium Laser
 - **Source:** Jihad
 - **Battle Value:** 1226
 
@@ -263,8 +263,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Rocket 10 × 5
   - Medium Laser
+  - Rocket 10 × 5
 - **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 848
 
@@ -277,10 +277,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
   - Clan Gauss Rifle (ammo: 16)
   - Clan LRM 20 (ammo: 12)
   - Clan ER Medium Laser
+  - Hatchet
 - **Equipment:**
   - Clan CASE II
 - **Source:** OTP Capellan Crusades - Dark Age
@@ -368,14 +368,14 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Hatchet
-  - ER Small Laser
   - MML 9 w/ Artemis IV (ammo: 13 LRM, 11 SRM)
   - ER Medium Laser × 2
+  - ER Small Laser
+  - Hatchet
 - **Equipment:**
   - Medium Shield
-  - CASE II
   - Beagle Active Probe
+  - CASE II
 - **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 1153
 

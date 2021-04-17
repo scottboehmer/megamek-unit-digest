@@ -72,8 +72,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
-  - Medium Pulse Laser × 2
   - ER Medium Laser × 2
+  - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
   - C3i
@@ -89,8 +89,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Heavy PPC × 2
-  - Medium Laser × 4
   - Medium Pulse Laser × 4
+  - Medium Laser × 4
   - Small Laser
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1895

@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - Streak SRM 2 (ammo: 50)
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -26,9 +26,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MagShot Gauss Rifle × 2 (ammo: 50)
-  - Streak SRM 4 (ammo: 25)
   - ER Medium Laser × 3
+  - Streak SRM 4 (ammo: 25)
+  - MagShot Gauss Rifle × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Civil War

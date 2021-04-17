@@ -21,8 +21,8 @@
 - **Weapons:**
   - ER Large Laser
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
 - **Source:** TRO 3075
 - **Battle Value:** 934
 
@@ -46,8 +46,8 @@
 - **Armor:** 40
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 731
 
@@ -99,8 +99,8 @@
 - **Armor:** 105 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Snub-Nose PPC
+  - ER Medium Laser × 2
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1131
 

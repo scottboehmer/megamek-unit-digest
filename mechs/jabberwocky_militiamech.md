@@ -9,12 +9,12 @@
 - **Myomer:** Industrial Triple-Strength
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
   - LRM 5 (ammo: 24)
 - **Equipment:**
-  - Enviro-Sealing
   - Searchlight
+  - Enviro-Sealing
 - **Source:** RS VA
 - **Battle Value:** unknown
 

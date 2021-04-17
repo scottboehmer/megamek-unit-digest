@@ -7,8 +7,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Streak SRM 2 (ammo: 50)
   - ER PPC
+  - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3055 - Clan Invasion
@@ -22,8 +22,8 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 2 (ammo: 50)
   - ER PPC
+  - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3055 - Civil War

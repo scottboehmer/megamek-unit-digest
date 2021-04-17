@@ -21,9 +21,9 @@
 - **Armor:** 211
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Gauss Rifle (ammo: 24)
   - Large Laser × 2
   - Medium Laser × 2
-  - Gauss Rifle (ammo: 24)
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1701
 
@@ -49,10 +49,10 @@
 - **Armor:** 211
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
+  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
   - ER Medium Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
-  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1519
 

@@ -7,12 +7,12 @@
 - **Armor:** 309
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 6
   - Ultra AC/10 × 2 (ammo: 40)
+  - ER Medium Laser × 6
   - Medium Pulse Laser
 - **Equipment:**
-  - A-Pod × 2
   - Guardian ECM Suite
+  - A-Pod × 2
 - **Source:** TRO 3060
 - **Battle Value:** 2154
 
@@ -26,12 +26,12 @@
 - **Weapons:**
   - Light Gauss Rifle × 2 (ammo: 32)
   - ER Medium Laser × 4
-  - SRM 4 × 2 (ammo: 25)
   - Medium Pulse Laser
+  - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
+  - Guardian ECM Suite
   - A-Pod × 4
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3060
 - **Battle Value:** 2107
 
@@ -46,11 +46,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - ER Medium Laser × 4
   - Light Gauss Rifle (ammo: 32)
+  - ER Medium Laser × 4
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
 - **Source:** TRO 3060
 - **Battle Value:** 2202
 

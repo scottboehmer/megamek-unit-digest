@@ -7,9 +7,9 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Narc (ammo: 6)
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 2
+  - Narc (ammo: 6)
   - Small Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 899
@@ -22,8 +22,8 @@
 - **Armor:** 96 (Reactive)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 w/ Artemis IV × 2 (ammo: 15)
   - Medium X-Pulse Laser × 2
+  - SRM 6 w/ Artemis IV × 2 (ammo: 15)
   - Small X-Pulse Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1215
@@ -36,9 +36,9 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Narc (ammo: 6)
-  - SRM 6 × 2 (ammo: 30)
   - Medium X-Pulse Laser × 2
+  - SRM 6 × 2 (ammo: 30)
+  - Narc (ammo: 6)
   - ER Small Laser × 2
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 955
@@ -52,8 +52,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - iNarc (ammo: 4)
-  - SRM 4 × 2 (ammo: 50)
   - Medium X-Pulse Laser × 2
+  - SRM 4 × 2 (ammo: 50)
   - ER Small Laser × 2
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 971

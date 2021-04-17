@@ -39,8 +39,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - ER PPC
+  - Medium Laser × 2
   - Small Laser
 - **Equipment:**
   - Angel ECM Suite

@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Laser × 2
-  - Small Laser × 2
   - LRM 5 × 3 (ammo: 24)
+  - Small Laser × 2
   - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 721
@@ -22,8 +22,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Laser × 3
   - Large Laser × 2
+  - Small Laser × 3
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 783
 
@@ -48,8 +48,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - Medium Laser × 6
+  - Small Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3058 - Clan Invasion
@@ -63,8 +63,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Laser × 2
   - Streak SRM 2 × 3 (ammo: 50)
+  - Small Laser × 2
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Beagle Active Probe
@@ -124,8 +124,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
-  - Small Pulse Laser × 3
   - ER Small Laser
+  - Small Pulse Laser × 3
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 857
 

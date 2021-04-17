@@ -10,9 +10,9 @@
 - **Weapons:**
   - Large Pulse Laser
 - **Equipment:**
-  - TAG
   - ECM Suite
   - Active Probe
+  - TAG
 - **Source:** Dark Age
 - **Battle Value:** 1300
 
@@ -29,9 +29,9 @@
 - **Weapons:**
   - Clan Large Pulse Laser
 - **Equipment:**
-  - Clan TAG
-  - Bloodhound Active Probe
   - Angel ECM Suite
+  - Bloodhound Active Probe
+  - Clan TAG
 - **Source:** XTR Republic III - Jihad
 - **Battle Value:** 1785
 
@@ -44,11 +44,11 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Improved Heavy Medium Laser
   - ER Large Pulse Laser
+  - Improved Heavy Medium Laser
 - **Equipment:**
-  - Light TAG
   - Watchdog CEWS
+  - Light TAG
 - **Source:** Dark Age
 - **Battle Value:** 1523
 

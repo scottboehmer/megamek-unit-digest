@@ -9,8 +9,8 @@
 - **Heat Sinks:** 25 (25)
 - **Weapons:**
   - Large Laser
-  - Medium Laser × 4
   - SRM 6 (ammo: 15)
+  - Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Age of War
@@ -26,8 +26,8 @@
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
   - Large Laser
-  - Medium Laser × 4
   - SRM 6 (ammo: 15)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1400
 
@@ -41,8 +41,8 @@
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
   - PPC
-  - Medium Laser × 4
   - SRM 6 (ammo: 15)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1376
 
@@ -56,8 +56,8 @@
 - **Heat Sinks:** 25 (25)
 - **Weapons:**
   - ER Large Laser
-  - Medium Laser × 4
   - SRM 6 (ammo: 15)
+  - Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -73,8 +73,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 4
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -93,8 +93,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Heavy PPC
-  - ER Medium Laser × 4
   - LRM 15 (ammo: 8)
+  - ER Medium Laser × 4
 - **Equipment:**
   - C3i
 - **Source:** TRO 3050 - Jihad
@@ -131,11 +131,11 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Heavy PPC
-  - ER Medium Laser × 4
   - LRM 15 (ammo: 8)
+  - ER Medium Laser × 4
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1741
 

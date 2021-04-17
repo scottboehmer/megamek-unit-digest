@@ -8,8 +8,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
-  - MRM 10 (ammo: 24)
   - ER Medium Laser × 2
+  - MRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
   - C3 Slave

@@ -7,8 +7,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - ER PPC
+  - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
 - **Source:** TRO 3060
 - **Battle Value:** 983
@@ -100,8 +100,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC
   - LRT 10 w/ Artemis IV (ammo: 12)
+  - Light PPC
 - **Equipment:**
   - MASS
 - **Source:** Jihad

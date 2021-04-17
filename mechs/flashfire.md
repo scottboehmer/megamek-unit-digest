@@ -7,9 +7,9 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - SRM 6 × 2 (ammo: 15)
   - Medium Pulse Laser × 2
   - Flamer × 4
-  - SRM 6 × 2 (ammo: 15)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 718
 
@@ -22,9 +22,9 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
   - Flamer × 4
-  - SRM 6 (ammo: 15)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 712
 
@@ -37,9 +37,9 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - SRM 6 (ammo: 15)
   - ER Small Laser × 4
   - Fluid Gun × 2 (ammo: 40)
-  - SRM 6 (ammo: 15)
 - **Equipment:**
   - Spikes
 - **Source:** TRO 3055 - Civil War

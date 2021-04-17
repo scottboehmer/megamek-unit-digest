@@ -7,10 +7,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - ER Large Laser × 2
-  - Medium Laser × 3
   - LRM 20 (ammo: 12)
+  - ER Large Laser × 2
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3060
@@ -26,9 +26,9 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Heavy PPC
+  - LRM 15 (ammo: 16)
   - Light PPC × 2
   - ER Medium Laser × 2
-  - LRM 15 (ammo: 16)
 - **Equipment:**
   - C3i
   - CASE
@@ -45,8 +45,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - Medium VSP Laser × 2
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - Medium VSP Laser × 2
 - **Equipment:**
   - C3i
   - CASE

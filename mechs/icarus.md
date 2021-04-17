@@ -9,9 +9,9 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Large Laser
+  - SRM 2 × 2 (ammo: 50)
   - Small Laser
   - Machine Gun × 2 (ammo: 200)
-  - SRM 2 × 2 (ammo: 50)
 - **Source:** XTRO Primitives II - Age of War
 - **Battle Value:** 700
 

@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
 - **Source:** XTRO Primitives II - Age of War
 - **Battle Value:** 1027
 
@@ -21,8 +21,8 @@
 - **Armor:** 185
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1184
 
@@ -35,8 +35,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 10 × 2 (ammo: 24)
+  - Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1282
 
@@ -49,9 +49,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 2
   - PPC
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1291
 
@@ -65,8 +65,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Snub-Nose PPC w/ PPC Capacitor
+  - ER Medium Laser × 2
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - C3i
@@ -83,8 +83,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Snub-Nose PPC
+  - ER Medium Laser × 2
   - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - Guardian ECM Suite

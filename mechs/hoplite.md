@@ -7,8 +7,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - LRM 5 (ammo: 24)
   - AC/10 (ammo: 10)
+  - LRM 5 (ammo: 24)
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 986
 
@@ -20,8 +20,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - LRM 15 (ammo: 16)
   - PPC
+  - LRM 15 (ammo: 16)
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 1162
 
@@ -33,12 +33,12 @@
 - **Armor:** 184
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - LRM 15 w/ Artemis IV (ammo: 16)
   - ER PPC
+  - LRM 15 w/ Artemis IV (ammo: 16)
 - **Equipment:**
-  - CASE
-  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
+  - CASE
 - **Battle Value:** 1413
 
 ## Hoplite HOP-4Cb
@@ -49,8 +49,8 @@
 - **Armor:** 184 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 (ammo: 15)
   - Gauss Rifle (ammo: 24)
+  - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Battle Value:** 1377
@@ -63,8 +63,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - LRM 5 (ammo: 24)
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
+  - LRM 5 (ammo: 24)
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1022
 
@@ -76,8 +76,8 @@
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 15 (ammo: 16)
   - Ultra AC/10 (ammo: 30)
+  - LRM 15 (ammo: 16)
   - Medium Pulse Laser × 2
   - ER Medium Laser
 - **Equipment:**
@@ -93,10 +93,10 @@
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Clan Streak LRM 15 (ammo: 16)
   - Clan RAC/5 (ammo: 60)
+  - Clan Streak LRM 15 (ammo: 16)
 - **Equipment:**
-  - CASE
   - Clan Light Active Probe
+  - CASE
 - **Battle Value:** 1880
 

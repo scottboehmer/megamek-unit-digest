@@ -8,9 +8,9 @@
 - **Armor:** 185
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Laser × 4
   - ER PPC
   - Large Laser
+  - Medium Laser × 4
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1725
 
@@ -23,10 +23,10 @@
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Large Pulse Laser
-  - ER Medium Laser × 2
   - ER PPC
+  - Large Pulse Laser
   - ER Large Laser
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Source:** Succesion Wars
 - **Battle Value:** 2712
@@ -39,8 +39,8 @@
 - **Armor:** 176
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser × 2
+  - Medium Laser × 2
 - **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1292
 
@@ -53,9 +53,9 @@
 - **Armor:** 185
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - ER PPC
   - ER Large Laser
   - Medium Laser × 4
-  - ER PPC
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1755
 
@@ -68,8 +68,8 @@
 - **Armor:** 185
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Laser × 4
   - ER PPC
+  - Medium Laser × 4
   - Streak SRM 2 × 2 (ammo: 100)
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1630

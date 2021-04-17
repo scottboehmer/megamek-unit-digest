@@ -8,8 +8,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Large Pulse Laser × 2
-  - Medium Pulse Laser × 2
   - LRM 20 × 2 (ammo: 12)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -23,8 +23,8 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - ER PPC
+  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - SRM 6 × 6 (ammo: 60)
 - **Equipment:**
   - CASE
@@ -39,10 +39,10 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Large Laser × 2
-  - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 6)
+  - ER Large Laser × 2
   - Streak SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -70,10 +70,10 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LB 2-X AC × 2 (ammo: 45)
-  - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 6)
   - Streak SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 3
+  - LB 2-X AC × 2 (ammo: 45)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -103,10 +103,10 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - ER Small Laser × 2
   - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -120,9 +120,9 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Heavy Medium Laser × 3
   - Heavy Large Laser
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
+  - Heavy Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -166,9 +166,9 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Medium Pulse Laser × 2
   - LRT 15 w/ Artemis V × 2 (ammo: 32)
+  - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
   - HarJel × 3
   - CASE
@@ -184,9 +184,9 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
-  - ER Medium Pulse Laser × 3
   - Streak LRM 15 (ammo: 8)
   - Streak SRM 6 × 2 (ammo: 15)
+  - ER Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NTNU - Early Republic
@@ -200,10 +200,10 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser
-  - Medium Pulse Laser
-  - Arrow IV (ammo: 10)
   - LRM 20 (ammo: 12)
+  - Arrow IV (ammo: 10)
+  - Medium Pulse Laser
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Battle Value:** 1784
@@ -216,9 +216,9 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - LRM 20 w/ Artemis V × 2 (ammo: 24)
   - ER Large Laser × 2
   - ER Medium Laser × 2
-  - LRM 20 w/ Artemis V × 2 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** Dark Age

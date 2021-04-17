@@ -8,8 +8,8 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - LRM 10 × 2 (ammo: 24)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3067
@@ -24,8 +24,8 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
+  - ER Medium Laser × 2
   - Medium Pulse Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -41,8 +41,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - MRM 20 × 2 (ammo: 24)
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3067
 - **Battle Value:** 1118
 
@@ -56,12 +56,12 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Rocket 20 × 2
   - ER Medium Laser × 4
+  - Rocket 20 × 2
   - ER Small Laser × 2
 - **Equipment:**
-  - Coolant Pod × 3
   - Angel ECM Suite
+  - Coolant Pod × 3
 - **Battle Value:** 1431
 
 ## Hellspawn HSN-10G
@@ -73,9 +73,9 @@
 - **Armor:** 127 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
-  - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
   - Light PPC
+  - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
+  - Medium Pulse Laser × 2
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1188
 
@@ -91,9 +91,9 @@
   - Light PPC × 2
   - ER Medium Laser × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
-  - Guardian ECM Suite
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1411
 

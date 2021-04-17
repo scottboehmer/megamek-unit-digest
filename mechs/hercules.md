@@ -7,11 +7,11 @@
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser
+  - ER PPC
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Pulse Laser
   - Streak SRM 2 (ammo: 50)
   - Small Pulse Laser × 2
-  - ER PPC
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3055 - Clan Invasion
@@ -25,11 +25,11 @@
 - **Armor:** 197 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser
+  - ER PPC
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Pulse Laser
   - Streak SRM 2 × 2 (ammo: 50)
   - Small Pulse Laser × 2
-  - ER PPC
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1566
 
@@ -41,12 +41,12 @@
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Laser
-  - Medium Pulse Laser
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - Medium Pulse Laser
+  - Medium Laser
   - Small Pulse Laser × 2
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Battle Value:** 1532
 

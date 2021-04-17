@@ -8,9 +8,9 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10)
   - ER PPC
   - LRM 15 (ammo: 16)
+  - LB 10-X AC (ammo: 10)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -46,8 +46,8 @@
   - SRM 4 × 2 (ammo: 50)
   - Narc (ammo: 6)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2159
 
@@ -62,8 +62,8 @@
 - **Weapons:**
   - Ultra AC/20 (ammo: 10)
   - ER Large Laser
-  - ER Small Laser
   - Streak SRM 6 (ammo: 15)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -97,8 +97,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10)
   - ER PPC
+  - LB 10-X AC (ammo: 10)
   - Streak SRM 6 (ammo: 30)
   - ER Small Laser
 - **Equipment:**
@@ -133,8 +133,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Ultra AC/5 × 2 (ammo: 40)
-  - ER Medium Laser × 3
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -167,8 +167,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - ER Large Laser
   - ER PPC
+  - ER Large Laser
   - SRM 4 × 6 (ammo: 50)
   - Heavy Small Laser
 - **Equipment:**
@@ -185,8 +185,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Large Pulse Laser
   - ER PPC
+  - Large Pulse Laser
   - Heavy Medium Laser
   - SRM 4 × 6 (ammo: 50)
   - Heavy Small Laser
@@ -204,11 +204,11 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - AP Gauss Rifle (ammo: 40)
   - HAG 20 (ammo: 18)
   - Plasma Cannon (ammo: 20)
+  - ER Medium Laser × 2
   - Heavy Medium Laser
+  - AP Gauss Rifle (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -223,12 +223,12 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - AP Gauss Rifle × 8 (ammo: 40)
-  - ER Large Pulse Laser
   - iATM 12 (ammo: 15)
+  - ER Large Pulse Laser
+  - AP Gauss Rifle × 8 (ammo: 40)
 - **Equipment:**
-  - CASE
   - Nova CEWS
+  - CASE
 - **Source:** WoR - Jihad
 - **Battle Value:** 2783
 
@@ -275,9 +275,9 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ProtoMech AC/8 (ammo: 20)
   - ER PPC
   - Streak LRM 15 (ammo: 16)
+  - ProtoMech AC/8 (ammo: 20)
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 3 - Dark Age
@@ -295,8 +295,8 @@
   - HAG 40 (ammo: 12)
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2666
 

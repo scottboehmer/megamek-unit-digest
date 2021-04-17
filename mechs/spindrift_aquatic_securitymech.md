@@ -9,8 +9,8 @@
 - **Cockpit:** Industrial (w/ Adv. FCS)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Small Laser
   - SRT 6 (ammo: 15)
+  - ER Small Laser
 - **Equipment:**
   - Enviro-Sealing
 - **Source:** TRO:Prototypes

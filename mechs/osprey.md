@@ -8,9 +8,9 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 3
-  - LRM 10 (ammo: 24)
   - Gauss Rifle (ammo: 16)
+  - LRM 10 (ammo: 24)
+  - Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** Star League
@@ -25,9 +25,9 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - LRM 10 (ammo: 24)
   - Gauss Rifle (ammo: 16)
+  - LRM 10 (ammo: 24)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -42,10 +42,10 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - MML 7 (ammo: 17 LRM, 14 SRM)
   - ER Medium Laser × 2
   - ER Small Laser
-  - MML 7 (ammo: 17 LRM, 14 SRM)
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - Beagle Active Probe
   - CASE
@@ -62,9 +62,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
-  - MML 7 (ammo: 17 LRM, 14 SRM)
   - Heavy PPC
+  - MML 7 (ammo: 17 LRM, 14 SRM)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Beagle Active Probe
   - CASE

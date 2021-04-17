@@ -9,8 +9,8 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 16)
   - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - Streak SRM 2 × 4 (ammo: 50)
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -25,9 +25,9 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
+  - SRM 6 × 2 (ammo: 15)
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-  - SRM 6 × 2 (ammo: 15)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1317
 
@@ -42,8 +42,8 @@
 - **Weapons:**
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - SRM 4 × 2 (ammo: 25)
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1297
 
@@ -70,8 +70,8 @@
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
   - LRM 10 × 2 (ammo: 24)
-  - Medium Laser × 2
   - SRM 6 × 2 (ammo: 15)
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1290
 
@@ -83,10 +83,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Claw × 2
-  - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - SRM 6 × 4 (ammo: 15)
+  - Medium Laser × 2
+  - Claw × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** Succession Wars
 - **Battle Value:** 1204
 
@@ -113,8 +113,8 @@
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
   - LRM 10 × 2 (ammo: 24)
-  - Medium Pulse Laser × 2
   - SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser × 2
 - **Source:** Clan Invasion
 - **Battle Value:** 1268
 
@@ -143,12 +143,12 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
   - Medium Laser × 2
+  - Streak SRM 2 × 2 (ammo: 50)
   - Flamer
   - Machine Gun (ammo: 100)
-  - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** Clan Invasion
 - **Battle Value:** 1408
 
@@ -161,9 +161,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
+  - SRM 6 × 2 (ammo: 15)
   - Medium Laser × 2
   - Flamer
-  - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -179,8 +179,8 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
   - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - Streak SRM 2 × 2 (ammo: 50)
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -196,8 +196,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - MRM 30 × 2 (ammo: 32)
-  - Medium Laser × 2
   - Medium Pulse Laser × 2
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -213,9 +213,9 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Heavy Gauss Rifle (ammo: 8)
   - LRM 10 × 2 (ammo: 12)
   - Medium Laser × 2
-  - Heavy Gauss Rifle (ammo: 8)
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -231,8 +231,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
-  - Streak SRM 4 × 2 (ammo: 25)
   - ER Medium Laser × 2
+  - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -265,8 +265,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
   - Light PPC × 2
+  - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE

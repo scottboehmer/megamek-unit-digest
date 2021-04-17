@@ -8,9 +8,9 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 3 (3)
 - **Weapons:**
+  - Fluid Gun × 4 (ammo: 200)
   - Mining Drill
   - Rock-Cutter
-  - Fluid Gun × 4 (ammo: 200)
 - **Equipment:**
   - Extended Fuel Tank
 - **Source:** TRO VA - Clan Invasion
@@ -25,10 +25,10 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 3 (3)
 - **Weapons:**
-  - Mining Drill
-  - Rock-Cutter
   - AC/10 (ammo: 20)
   - SRM 4 (ammo: 50)
+  - Mining Drill
+  - Rock-Cutter
 - **Equipment:**
   - Extended Fuel Tank
 - **Source:** DTP: Vega - Dark Ages

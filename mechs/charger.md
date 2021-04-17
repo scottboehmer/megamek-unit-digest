@@ -32,8 +32,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 15)
   - AC/20 (ammo: 10)
+  - SRM 6 × 2 (ammo: 15)
   - Medium Laser
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
@@ -61,8 +61,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 20 (ammo: 12)
+  - Medium Laser × 4
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1397
@@ -76,8 +76,8 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -92,8 +92,8 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 18)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -108,9 +108,9 @@
 - **Armor:** 247
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
   - Streak SRM 6 × 2 (ammo: 15)
   - ER Medium Laser × 3
-  - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
 - **Equipment:**
   - MASC
   - CASE
@@ -125,8 +125,8 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Rocket 10 × 5
   - Medium Laser
+  - Rocket 10 × 5
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1109
 
@@ -139,10 +139,10 @@
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Light PPC × 2
-  - Sword
   - Heavy PPC
+  - Light PPC × 2
   - MML 9 (ammo: 11 SRM, 13 LRM)
+  - Sword
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -160,11 +160,11 @@
 - **Weapons:**
   - Snub-Nose PPC
   - Light PPC
-  - Sword
   - ER Medium Laser × 2
   - Medium Laser
-  - Small Laser
+  - Sword
   - ER Small Laser
+  - Small Laser
 - **Equipment:**
   - Targeting Computer
 - **Source:** Jihad

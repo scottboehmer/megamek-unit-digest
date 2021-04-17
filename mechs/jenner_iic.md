@@ -8,8 +8,8 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
   - Streak SRM 4 (ammo: 25)
+  - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Succession Wars
@@ -24,9 +24,9 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Pulse Laser
   - ER Large Laser
   - LRM 5 (ammo: 24)
+  - Small Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Succession Wars
@@ -41,8 +41,8 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Pulse Laser × 4
   - Narc (ammo: 12)
+  - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Succession Wars
@@ -57,8 +57,8 @@
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 3 × 2 (ammo: 40)
   - Streak SRM 4 (ammo: 25)
+  - ATM 3 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion

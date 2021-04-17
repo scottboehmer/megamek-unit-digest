@@ -8,8 +8,8 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
   - ER Large Laser
+  - ER Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3060
@@ -24,8 +24,8 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - ER Large Laser
+  - ER Medium Laser
 - **Equipment:**
   - TAG
 - **Source:** TRO 3060
@@ -40,8 +40,8 @@
 - **Armor:** 89
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium VSP Laser
   - Light PPC
+  - Medium VSP Laser
 - **Source:** TRO 3060
 - **Battle Value:** 645
 

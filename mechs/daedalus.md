@@ -37,11 +37,11 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Machine Gun (ammo: 100)
   - Large Pulse Laser
   - SRM 6 (ammo: 15)
   - SRM 4 × 2 (ammo: 25)
   - Small Laser
+  - Machine Gun (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -58,8 +58,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 4
   - Large X-Pulse Laser
+  - ER Medium Laser × 4
   - ER Small Laser × 2
 - **Equipment:**
   - Targeting Computer
@@ -77,8 +77,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser
   - Streak SRM 4 × 2 (ammo: 50)
   - ER Small Laser × 2
 - **Equipment:**
@@ -96,8 +96,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser
   - Medium Pulse Laser × 2
   - ER Small Laser × 2
 - **Equipment:**

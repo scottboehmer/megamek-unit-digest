@@ -7,9 +7,9 @@
 - **Armor:** 140 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 20 w/ Artemis V × 2 (ammo: 24)
   - ER Medium Laser × 2
   - ER Small Laser × 2
-  - LRM 20 w/ Artemis V × 2 (ammo: 24)
   - ER Micro Laser × 4
 - **Equipment:**
   - CASE
@@ -24,9 +24,9 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -42,8 +42,8 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 4
   - LRM 20 w/ Artemis V × 2 (ammo: 24)
+  - ER Medium Laser × 4
   - ER Micro Laser × 6
 - **Equipment:**
   - CASE
@@ -59,8 +59,8 @@
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 2095
@@ -73,9 +73,9 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
   - LRM 20 w/ Artemis IV × 2 (ammo: 12)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NT NU
@@ -89,13 +89,13 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - LRM 20 × 2 (ammo: 12)
   - ER Medium Laser × 2
   - ER Small Laser × 2
-  - LRM 20 × 2 (ammo: 12)
   - ER Micro Laser × 4
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2061
 
@@ -108,8 +108,8 @@
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NT NU
@@ -123,12 +123,12 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - LRM 20 × 2 (ammo: 12)
   - ER Medium Laser × 2
   - ER Small Laser × 2
-  - LRM 20 × 2 (ammo: 12)
   - ER Micro Laser × 4
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Battle Value:** 2061
 

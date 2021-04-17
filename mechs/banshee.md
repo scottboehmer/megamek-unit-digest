@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - AC/5 (ammo: 40)
   - PPC
+  - AC/5 (ammo: 40)
   - Medium Laser × 2
   - Small Laser
 - **Source:** XTRO Primitives II - Age of War
@@ -23,8 +23,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - AC/5 (ammo: 20)
   - PPC
+  - AC/5 (ammo: 20)
   - Small Laser
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1422
@@ -80,11 +80,11 @@
 - **Armor:** 240
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
-  - Hatchet
   - Large Laser
   - AC/10 (ammo: 20)
   - LRM 10 (ammo: 12)
   - Medium Laser × 4
+  - Hatchet
   - Small Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1678
@@ -97,8 +97,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - AC/10 (ammo: 20)
   - PPC
+  - AC/10 (ammo: 20)
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1487
@@ -111,10 +111,10 @@
 - **Armor:** 240
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Laser × 4
-  - SRM 6 (ammo: 15)
   - Gauss Rifle (ammo: 8)
   - ER PPC × 2
+  - SRM 6 (ammo: 15)
+  - Medium Laser × 4
   - Small Laser × 2
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2065
@@ -128,10 +128,10 @@
 - **Armor:** 240
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 4
-  - SRM 6 (ammo: 15)
   - Gauss Rifle (ammo: 8)
   - ER PPC
+  - SRM 6 (ammo: 15)
+  - Medium Laser × 4
   - Small Laser × 2
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2094
@@ -146,9 +146,9 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC × 2
+  - LB 10-X AC (ammo: 10)
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-  - LB 10-X AC (ammo: 10)
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1853
 
@@ -176,9 +176,9 @@
 - **Armor:** 248
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - ER PPC
   - ER Medium Laser × 4
-  - Gauss Rifle (ammo: 16)
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
@@ -195,18 +195,18 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Hatchet
-  - ER Medium Laser × 2
   - Snub-Nose PPC
-  - LB 10-X AC (ammo: 20)
   - ER Large Laser
+  - LB 10-X AC (ammo: 20)
+  - ER Medium Laser × 2
+  - Hatchet
   - Medium Laser × 2
   - ER Small Laser
   - Small Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - C3 Slave
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2408
 
@@ -219,12 +219,12 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - Heavy PPC
   - Light PPC
   - ER Medium Laser × 3
-  - Gauss Rifle (ammo: 16)
-  - Medium Laser
   - SRM 6 (ammo: 15)
+  - Medium Laser
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -271,9 +271,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Gauss Rifle (ammo: 24)
   - Heavy PPC
   - Light PPC × 2
-  - Gauss Rifle (ammo: 24)
   - ER Medium Laser
 - **Equipment:**
   - CASE

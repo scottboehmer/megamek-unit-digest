@@ -25,8 +25,8 @@
 - **Weapons:**
   - ER PPC × 2
   - ATM 6 × 2 (ammo: 10 ER, 10 HE, 10 Standard)
-  - ER Small Laser
   - ATM 3 × 2 (ammo: 20)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Mercenaries - Dark Ages
@@ -74,8 +74,8 @@
 - **Gyroscope:** Armored
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Improved Heavy Large Laser
   - HAG 30 (ammo: 12)
+  - Improved Heavy Large Laser
   - ATM 9 (ammo: 14)
 - **Equipment:**
   - CASE
@@ -93,9 +93,9 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 2
   - LRM 15 w/ Artemis V × 2 (ammo: 24)
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE II
 - **Source:** TRO 3145 Mercenaries - Dark Ages

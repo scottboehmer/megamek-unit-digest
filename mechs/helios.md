@@ -8,8 +8,8 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
+  - ER Medium Laser × 2
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
@@ -25,9 +25,9 @@
 - **Armor:** 176
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Laser × 3
   - ER PPC
   - MRM 20 (ammo: 24)
+  - Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -42,8 +42,8 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Gauss Rifle (ammo: 16)
+  - ER Medium Laser
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
@@ -61,8 +61,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Heavy PPC
+  - ER Medium Laser × 2
   - Medium VSP Laser × 2
 - **Equipment:**
   - C3i

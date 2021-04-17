@@ -8,9 +8,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Medium Laser × 2
-  - Large Laser
   - LRM 15 × 2 (ammo: 32)
+  - Large Laser
+  - Medium Laser × 2
 - **Source:** RS 3075
 - **Battle Value:** 1360
 

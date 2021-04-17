@@ -7,13 +7,13 @@
 - **Armor:** 185 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 20 (ammo: 12)
+  - ER Large Laser
   - SRM 6 (ammo: 15)
   - Medium Pulse Laser
-  - ER Large Laser
-  - LRM 20 (ammo: 12)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1469
 
@@ -26,10 +26,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 15)
-  - ER Medium Laser
   - ER PPC
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -45,10 +45,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser
   - ER PPC
-  - ER Small Laser
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - ER Medium Laser
+  - ER Small Laser
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -65,13 +65,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Snub-Nose PPC
   - MML 9 (ammo: 13 LRM, 11 SRM)
   - ER Medium Laser
-  - Snub-Nose PPC
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Targeting Computer
   - CASE
-  - Anti-Missile System (ammo: 12)
 - **Battle Value:** 1542
 
 ## Grim Reaper GRM-R (Einar)
@@ -82,14 +82,14 @@
 - **Armor:** 185+40 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Clan LRM 20 w/ Artemis V (ammo: 12)
   - Clan ER Large Laser
   - Clan ER Medium Laser
-  - Clan LRM 20 w/ Artemis V (ammo: 12)
 - **Equipment:**
+  - Clan Laser Anti-Missile System
   - Modular Armor × 4
   - Clan Light TAG
   - Clan CASE II
-  - Clan Laser Anti-Missile System
 - **Source:** XTRO ComStar - Jihad
 - **Battle Value:** 2121
 

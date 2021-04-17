@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 4
-  - SRM 2 × 2 (ammo: 50)
   - ATM 6 (ammo: 20)
+  - SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
   - Quad Turret
@@ -24,14 +24,14 @@
 - **Armor:** 127 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
+  - Active Probe
   - Machine Gun Array × 2
   - CASE
   - Targeting Computer
-  - Active Probe
   - Light TAG
 - **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 1742

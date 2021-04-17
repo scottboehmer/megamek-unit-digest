@@ -23,9 +23,9 @@
 - **Armor:** 96
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
+  - SRM 4 × 2 (ammo: 25)
   - Machine Gun × 2 (ammo: 100)
   - Rock-Cutter
-  - SRM 4 × 2 (ammo: 25)
 - **Source:** RS VA - Early Succession War
 - **Battle Value:** unknown
 

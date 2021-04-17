@@ -7,12 +7,12 @@
 - **Armor:** 168 (Stealth)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser
   - Light PPC × 2
+  - ER Medium Laser
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
 - **Source:** Jihad
 - **Battle Value:** 1353
 
@@ -24,12 +24,12 @@
 - **Armor:** 168
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser
   - Light PPC × 2
+  - ER Medium Laser
   - MML 3 × 2 (ammo: 33 SRM, 40 LRM)
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
 - **Source:** Dark Age
 - **Battle Value:** 1244
 
@@ -41,9 +41,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
   - Large Pulse Laser × 2
   - SRM 6 (ammo: 15)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NT NU
@@ -57,13 +57,13 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - MML 9 (ammo: 13 LRM, 11 SRM)
   - iNarc (ammo: 4)
   - ER Medium Laser × 3
-  - MML 9 (ammo: 13 LRM, 11 SRM)
   - Clan ER Small Pulse Laser
 - **Equipment:**
-  - Void-Signature System
   - Guardian ECM Suite
+  - Void-Signature System
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1371
 
@@ -75,8 +75,8 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Chainsaw
   - Large Pulse Laser × 2
+  - Chainsaw
 - **Source:** RS 3145 NT NU
 - **Battle Value:** unknown
 

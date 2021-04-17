@@ -7,8 +7,8 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - iNarc (ammo: 16)
   - ER PPC
+  - iNarc (ammo: 16)
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
@@ -25,8 +25,8 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - iNarc (ammo: 16)
   - ER PPC
+  - iNarc (ammo: 16)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - C3 Slave
@@ -42,13 +42,13 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - iNarc (ammo: 16)
   - ER PPC
+  - iNarc (ammo: 16)
   - Medium Pulse Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - C3 Slave
   - CASE
-  - Guardian ECM Suite
   - TAG
 - **Source:** Jihad
 - **Battle Value:** 1241
@@ -61,8 +61,8 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Snub-Nose PPC
   - ER PPC
+  - Snub-Nose PPC
   - Small Pulse Laser
 - **Equipment:**
   - MASC

@@ -8,9 +8,9 @@
 - **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - MRM 10 w/ Apollo FCS × 2 (ammo: 48)
   - Claw
   - Mining Drill
-  - MRM 10 w/ Apollo FCS × 2 (ammo: 48)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Free Worlds League - Early Republic
@@ -25,10 +25,10 @@
 - **Cockpit:** Armored
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Claw
-  - Mining Drill
   - SRM 6 × 2 (ammo: 15)
   - LRM 5 (ammo: 24)
+  - Claw
+  - Mining Drill
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Free Worlds League - Early Republic

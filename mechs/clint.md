@@ -34,8 +34,8 @@
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - AC/2 × 2 (ammo: 45)
   - Medium Laser
+  - AC/2 × 2 (ammo: 45)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 619
 

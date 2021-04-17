@@ -7,11 +7,11 @@
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser
-  - Medium Pulse Laser
   - Gauss Rifle (ammo: 16)
-  - Streak SRM 4 (ammo: 25)
+  - Large Pulse Laser
   - ER Medium Laser × 2
+  - Streak SRM 4 (ammo: 25)
+  - Medium Pulse Laser
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -31,9 +31,9 @@
   - Ultra AC/10 (ammo: 30)
   - Streak SRM 6 (ammo: 15)
 - **Equipment:**
+  - Guardian ECM Suite
   - CASE
   - Targeting Computer
-  - Guardian ECM Suite
 - **Source:** TRO 3067
 - **Battle Value:** 2070
 
@@ -62,10 +62,10 @@
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser × 5
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - ER PPC
   - ER Medium Laser
+  - Medium Pulse Laser × 5
 - **Equipment:**
   - CASE
 - **Source:** TRO 3067
@@ -98,9 +98,9 @@
   - Medium Pulse Laser × 2
   - Small Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - CASE
   - C3 Master
-  - Guardian ECM Suite
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1865
 
@@ -114,8 +114,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - AC/5 × 2 (ammo: 80)
-  - Streak SRM 4 × 2 (ammo: 25)
   - ER Medium Laser × 4
+  - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -148,10 +148,10 @@
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Pulse Laser × 3
+  - Heavy PPC
   - Light Gauss Rifle (ammo: 16)
   - ER Medium Laser
-  - Heavy PPC
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
   - C3 Master
@@ -184,8 +184,8 @@
 - **Armor:** 263
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - LRT 10 × 2 (ammo: 24)
   - Large Pulse Laser
+  - LRT 10 × 2 (ammo: 24)
   - SRT 6 (ammo: 15)
   - Medium Pulse Laser × 3
 - **Equipment:**
@@ -205,8 +205,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - MRM 30 w/ Apollo FCS × 2 (ammo: 32)
-  - ER Flamer
   - Light PPC × 2
+  - ER Flamer
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -221,8 +221,8 @@
 - **Armor:** 263
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Heavy PPC × 2
   - Gauss Rifle (ammo: 16)
+  - Heavy PPC × 2
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -237,14 +237,14 @@
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser
-  - Medium Pulse Laser
   - Gauss Rifle (ammo: 16)
+  - Large Pulse Laser
   - ER Medium Laser × 2
+  - Medium Pulse Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - Targeting Computer
   - C3i
-  - Guardian ECM Suite
   - CASE
 - **Source:** SO:Unending Faith: Late Republic Era
 - **Battle Value:** 2062
@@ -258,8 +258,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Clan ER PPC × 2
-  - Medium Re-Engineered Laser × 5
   - Clan LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+  - Medium Re-Engineered Laser × 5
 - **Equipment:**
   - CASE
   - Clan CASE II

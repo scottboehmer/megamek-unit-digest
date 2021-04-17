@@ -7,8 +7,8 @@
 - **Armor:** 231
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - ER Large Laser
   - ER PPC
+  - ER Large Laser
   - Medium Pulse Laser × 2
   - Small Laser
 - **Equipment:**
@@ -24,10 +24,10 @@
 - **Armor:** 231
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ER Large Laser
   - ER PPC
-  - Small Laser × 3
+  - ER Large Laser
   - Medium Laser × 2
+  - Small Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
@@ -43,10 +43,10 @@
 - **Armor:** 231
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Large Laser
   - PPC
-  - Small Laser × 3
+  - Large Laser
   - Medium Laser × 2
+  - Small Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
@@ -62,8 +62,8 @@
 - **Armor:** 231
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - Clan Heavy Large Laser
   - Clan ER PPC
+  - Clan Heavy Large Laser
   - Medium X-Pulse Laser × 3
 - **Equipment:**
   - Supercharger

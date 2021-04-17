@@ -24,8 +24,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Large Pulse Laser × 2
   - HAG 20 × 2 (ammo: 24)
+  - Large Pulse Laser × 2
   - ER Large Laser
 - **Equipment:**
   - CASE

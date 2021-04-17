@@ -7,8 +7,8 @@
 - **Armor:** 248
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Rock-Cutter
   - Heavy-Duty Pile Driver
+  - Rock-Cutter
 - **Equipment:**
   - Command Console
   - Searchlight × 8

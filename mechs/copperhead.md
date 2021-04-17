@@ -9,9 +9,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Medium Pulse Laser
-  - Small Pulse Laser
-  - SRM 4 (ammo: 25)
   - Medium Laser × 3
+  - SRM 4 (ammo: 25)
+  - Small Pulse Laser
   - Streak SRM 2 (OS)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 763
@@ -27,8 +27,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Medium X-Pulse Laser
-  - Streak SRM 4 (ammo: 25)
   - ER Medium Laser × 3
+  - Streak SRM 4 (ammo: 25)
   - MagShot Gauss Rifle (ammo: 50)
 - **Equipment:**
   - Supercharger
@@ -45,8 +45,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Medium X-Pulse Laser
-  - Streak SRM 4 (ammo: 25)
   - ER Medium Laser × 3
+  - Streak SRM 4 (ammo: 25)
   - MagShot Gauss Rifle (ammo: 50)
 - **Equipment:**
   - Supercharger

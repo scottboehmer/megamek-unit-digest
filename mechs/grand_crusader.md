@@ -7,9 +7,9 @@
 - **Armor:** 247
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 20 w/ Artemis IV × 2 (ammo: 36)
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
-  - LRM 20 w/ Artemis IV × 2 (ammo: 36)
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
 - **Source:** TRO 3055 - Clan Invasion
@@ -23,9 +23,9 @@
 - **Armor:** 240
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 20 w/ Artemis IV × 2 (ammo: 36)
   - Large Pulse Laser × 2
   - LRM 5 w/ Artemis IV × 2 (ammo: 24)
-  - LRM 20 w/ Artemis IV × 2 (ammo: 36)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1702
 

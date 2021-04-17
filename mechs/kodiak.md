@@ -7,10 +7,10 @@
 - **Armor:** 280
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - ER Medium Laser × 8
-  - Streak SRM 6 × 2 (ammo: 30)
   - Ultra AC/20 (ammo: 10)
   - ER Large Laser
+  - Streak SRM 6 × 2 (ammo: 30)
+  - ER Medium Laser × 8
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Succession Wars
@@ -24,9 +24,9 @@
 - **Armor:** 280
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - ER Large Laser × 2
   - ER Medium Laser × 9
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -41,10 +41,10 @@
 - **Armor:** 280
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - ER Medium Laser × 4
-  - Streak SRM 6 (ammo: 15)
   - Ultra AC/20 (ammo: 10)
   - ER Large Laser
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Civil War
@@ -59,8 +59,8 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-  - ER Medium Laser × 4
   - LB 20-X AC (ammo: 5 Cluster, 5 Standard)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Civil War
@@ -74,16 +74,16 @@
 - **Armor:** 307
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - Inner Sphere Heavy PPC
+  - Inner Sphere AC/10 (ammo: 20)
+  - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser × 3
   - Inner Sphere ER Medium Laser × 2
   - Inner Sphere Medium Laser × 2
-  - Inner Sphere Heavy PPC
-  - Streak SRM 6 × 2 (ammo: 30)
-  - Inner Sphere AC/10 (ammo: 20)
 - **Equipment:**
+  - Inner Sphere Beagle Active Probe
   - Inner Sphere C3 Master
   - CASE
-  - Inner Sphere Beagle Active Probe
 - **Battle Value:** 2535
 
 ## Kodiak 3
@@ -94,8 +94,8 @@
 - **Armor:** 280
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 4
   - LB 20-X AC × 2 (ammo: 15 Standard, 15 Cluster)
+  - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
   - CASE

@@ -9,9 +9,9 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Streak SRM 6 (ammo: 15)
+  - LRM 10 (ammo: 12)
   - ER Medium Laser × 4
   - Ultra AC/2 (ammo: 45)
-  - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
@@ -59,10 +59,10 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Streak LRM 15 (ammo: 16)
   - Improved Heavy Large Laser
-  - ER Small Laser
+  - Streak LRM 15 (ammo: 16)
   - Improved Heavy Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
   - CASE
   - Supercharger

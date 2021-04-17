@@ -35,8 +35,8 @@
 - **Weapons:**
   - Light Gauss Rifle × 2 (ammo: 64)
 - **Equipment:**
-  - C3i
   - Guardian ECM Suite
+  - C3i
 - **Source:** TRO 3075
 - **Battle Value:** 1268
 
@@ -50,8 +50,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 48)
   - ER PPC w/ PPC Capacitor
+  - Light Gauss Rifle (ammo: 48)
   - Light PPC
 - **Equipment:**
   - Guardian ECM Suite

@@ -8,14 +8,14 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
   - Heavy PPC
   - Light PPC
   - ER Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
-  - Quad Turret
-  - Spikes × 5
   - Beagle Active Probe
+  - Spikes × 5
+  - Quad Turret
 - **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 1630
 
@@ -29,10 +29,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
   - Clan LRM 15 × 2 (ammo: 32)
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
   - Clan ER Small Laser
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
+  - ER Small Laser
 - **Equipment:**
   - Quad Turret
 - **Source:** TRO 3145 Free Worlds League - Late Republic
@@ -47,13 +47,13 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Small Laser
   - Plasma Rifle (ammo: 20)
   - Medium Laser × 2
+  - ER Small Laser
   - ER Flamer × 4
 - **Equipment:**
-  - Quad Turret
   - Clan Talons
+  - Quad Turret
 - **Source:** TRO 3145 Free Worlds League - Late Republic
 - **Battle Value:** 1475
 

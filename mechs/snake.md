@@ -59,9 +59,9 @@
   - ER PPC
   - LRM 5 (ammo: 24)
 - **Equipment:**
+  - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
   - MASC
-  - Guardian ECM Suite
 - **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
 - **Battle Value:** 1477
 

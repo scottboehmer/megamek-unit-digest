@@ -8,13 +8,13 @@
 - **Armor:** 184
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser
   - ER Large Laser
+  - ER Medium Laser
   - Machine Gun × 8 (ammo: 200)
 - **Equipment:**
+  - Beagle Active Probe
   - Machine Gun Array × 2
   - MASC
-  - Beagle Active Probe
   - CASE
 - **Source:** TRO 3075
 - **Battle Value:** 1509
@@ -32,8 +32,8 @@
   - LRM 10 × 2 (ammo: 48)
   - ER Medium Laser × 2
 - **Equipment:**
-  - TAG
   - Guardian ECM Suite
+  - TAG
 - **Source:** TRO 3075
 - **Battle Value:** 1484
 
@@ -48,12 +48,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 9 (ammo: 11 SRM, 26 LRM)
   - ER Large Laser
+  - MML 9 (ammo: 11 SRM, 26 LRM)
   - ER Medium Laser × 2
 - **Equipment:**
-  - TAG
   - Guardian ECM Suite
+  - TAG
 - **Source:** TRO 3075
 - **Battle Value:** 1387
 
@@ -68,12 +68,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - Snub-Nose PPC
   - ER Large Laser
   - ER Medium Laser × 2
-  - Snub-Nose PPC
 - **Equipment:**
-  - TAG
   - Guardian ECM Suite
+  - TAG
 - **Source:** TRO 3075
 - **Battle Value:** 1615
 

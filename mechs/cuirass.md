@@ -10,8 +10,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - RAC/5 (ammo: 60)
-  - Sword
   - ER Medium Laser
+  - Sword
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -27,10 +27,10 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MagShot Gauss Rifle × 4 (ammo: 50)
-  - Medium Vibroblade
   - Medium X-Pulse Laser × 2
+  - Medium Vibroblade
   - ER Small Laser
+  - MagShot Gauss Rifle × 4 (ammo: 50)
 - **Equipment:**
   - CASE II
   - C3 Boosted Slave

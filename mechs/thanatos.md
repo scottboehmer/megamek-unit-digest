@@ -9,9 +9,9 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser
-  - Medium Pulse Laser
   - MRM 20 (ammo: 24)
   - ER Medium Laser × 2
+  - Medium Pulse Laser
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
@@ -46,9 +46,9 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER Large Laser
+  - ER Medium Laser × 2
   - Medium Pulse Laser × 2
   - Rocket 10 × 9
-  - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - Targeting Computer
@@ -65,9 +65,9 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Heavy PPC
-  - LRM 5 × 3 (ammo: 48)
   - ER Medium Laser × 2
   - Medium Laser × 2
+  - LRM 5 × 3 (ammo: 48)
 - **Equipment:**
   - C3 Slave
 - **Source:** 3067 Unabridged

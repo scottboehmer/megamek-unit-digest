@@ -7,11 +7,11 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - ATM 12 (ammo: 5 ER, 10 Standard, 5 HE)
+  - Medium Pulse Laser × 4
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 2081
 
@@ -26,9 +26,9 @@
   - ER Medium Laser × 4
   - ATM 3 × 6 (ammo: 40 Standard, 40 ER, 40 HE)
 - **Equipment:**
-  - CASE
-  - Active Probe
   - ECM Suite
+  - Active Probe
+  - CASE
 - **Source:** 3067 Unabridged
 - **Battle Value:** 2083
 

@@ -10,9 +10,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Clan ER Large Pulse Laser
   - Clan ER Medium Pulse Laser × 2
   - Clan ER Small Pulse Laser × 2
-  - Clan ER Large Pulse Laser
 - **Equipment:**
   - Supercharger
 - **Source:** TRO 3055 - Jihad

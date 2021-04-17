@@ -7,8 +7,8 @@
 - **Armor:** 96 (Commercial)
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
-  - Rocket 10 × 2
   - Gauss Rifle (ammo: 16)
+  - Rocket 10 × 2
 - **Source:** RS IA
 - **Battle Value:** 726
 

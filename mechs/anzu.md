@@ -10,8 +10,8 @@
 - **Weapons:**
   - Ultra AC/10 (ammo: 30)
   - Light PPC w/ PPC Capacitor
-  - ER Medium Laser
   - LRM 10 (ammo: 24)
+  - ER Medium Laser
 - **Equipment:**
   - CASE II
   - TAG
@@ -29,8 +29,8 @@
 - **Weapons:**
   - RAC/5 (ammo: 80)
   - Snub-Nose PPC
-  - ER Medium Laser
   - MML 7 (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser
   - ER Small Laser
 - **Equipment:**
   - CASE II

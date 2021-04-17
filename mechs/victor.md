@@ -8,11 +8,11 @@
 - **Armor:** 136
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 15)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
-  - Machine Gun (ammo: 100)
   - Flamer × 2
+  - Machine Gun (ammo: 100)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1236
 
@@ -25,8 +25,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 15)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
   - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3039 - Age of War
@@ -41,8 +41,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 15)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1378
@@ -56,8 +56,8 @@
 - **Armor:** 247
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - AC/10 (ammo: 20)
+  - Medium Pulse Laser × 3
   - SRM 4 (ammo: 0)
 - **Source:** Star League
 - **Battle Value:** 1543
@@ -71,9 +71,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/20 (ammo: 15)
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1360
 
@@ -86,8 +86,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
-  - Medium Laser × 10
   - LRM 15 (ammo: 8)
+  - Medium Laser × 10
 - **Battle Value:** 1625
 
 ## Victor VTR-9D
@@ -99,8 +99,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Medium Pulse Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -116,8 +116,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Medium Pulse Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -133,8 +133,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 24)
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -149,8 +149,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Medium Pulse Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -166,10 +166,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Gauss Rifle (ammo: 16)
-  - SRM 4 (ammo: 25)
   - Heavy Gauss Rifle (ammo: 12)
+  - Gauss Rifle (ammo: 16)
+  - ER Medium Laser × 2
+  - SRM 4 (ammo: 25)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3050 - Civil War
@@ -184,8 +184,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Ultra AC/20 (ammo: 30)
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -201,8 +201,8 @@
 - **Armor:** 232
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Large Laser × 2
   - RAC/5 (ammo: 60)
+  - ER Large Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -219,8 +219,8 @@
 - **Armor:** 247 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Gauss Rifle (ammo: 24)
+  - ER Medium Laser × 3
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - Guardian ECM Suite
@@ -236,8 +236,8 @@
 - **Armor:** 244 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium X-Pulse Laser × 2
   - Long Tom Cannon (ammo: 15)
+  - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE
   - Supercharger
@@ -252,8 +252,8 @@
 - **Armor:** 200
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser
   - AC/20 (ammo: 30)
+  - Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Jihad

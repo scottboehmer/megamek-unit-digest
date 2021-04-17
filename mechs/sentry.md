@@ -9,9 +9,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - PPC
-  - Machine Gun × 4 (ammo: 200)
   - Small Pulse Laser × 2
   - Flamer
+  - Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -28,8 +28,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Large VSP Laser
-  - MagShot Gauss Rifle × 2 (ammo: 50)
   - ER Medium Laser × 2
+  - MagShot Gauss Rifle × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060

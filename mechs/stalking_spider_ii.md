@@ -8,9 +8,9 @@
 - **Armor:** 152
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Heavy Machine Gun × 2 (ammo: 50)
   - Heavy Large Laser
   - SRM 4 × 2 (ammo: 25)
+  - Heavy Machine Gun × 2 (ammo: 50)
 - **Equipment:**
   - CASE
   - Quad Turret

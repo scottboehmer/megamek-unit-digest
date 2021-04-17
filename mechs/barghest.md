@@ -7,8 +7,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser × 2
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Large Laser × 2
 - **Source:** TRO 3060
 - **Battle Value:** 1787
 
@@ -20,8 +20,8 @@
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER PPC
   - Ultra AC/20 (ammo: 20)
+  - ER PPC
 - **Source:** TRO 3060
 - **Battle Value:** 1794
 
@@ -33,8 +33,8 @@
 - **Armor:** 224
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser
   - Heavy Gauss Rifle (ammo: 16)
+  - ER Large Laser
 - **Source:** TRO 3060
 - **Battle Value:** 1900
 
@@ -46,9 +46,9 @@
 - **Armor:** 233 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Light PPC × 2
   - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
   - Medium VSP Laser × 2
-  - Light PPC × 2
   - Medium Pulse Laser
   - ER Flamer
 - **Equipment:**
@@ -65,8 +65,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC w/ PPC Capacitor × 2
   - Improved Heavy Gauss Rifle (ammo: 8)
+  - Light PPC w/ PPC Capacitor × 2
 - **Equipment:**
   - Quad Turret
   - CASE II
@@ -83,9 +83,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Improved Heavy Gauss Rifle (ammo: 16)
   - ER Large Laser
   - ER Medium Laser
-  - Improved Heavy Gauss Rifle (ammo: 16)
 - **Equipment:**
   - Quad Turret
   - CASE II

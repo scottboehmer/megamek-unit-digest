@@ -10,8 +10,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
-  - Light PPC
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Light PPC
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
@@ -27,9 +27,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - ER PPC
   - ER Large Laser
-  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - ER Medium Laser
 - **Equipment:**
   - CASE
@@ -46,9 +46,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium VSP Laser
-  - Light AC/5 (ammo: 60)
   - Bombast Laser
+  - Light AC/5 (ammo: 60)
+  - Medium VSP Laser
   - Medium Laser × 3
   - Light Machine Gun × 5 (ammo: 100)
 - **Equipment:**

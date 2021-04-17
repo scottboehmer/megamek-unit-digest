@@ -8,11 +8,11 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
-  - Medium Laser × 3
   - LB 10-X AC (ammo: 20 Cluster, 10 Standard)
+  - Medium Laser × 3
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 1639
 
@@ -41,8 +41,8 @@
 - **Armor:** 211
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser
   - Snub-Nose PPC
+  - Large Pulse Laser
   - ER Medium Laser
   - Medium Pulse Laser
 - **Equipment:**

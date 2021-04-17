@@ -8,13 +8,13 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 10 (ammo: 12)
+  - Medium Laser × 4
   - Small Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Chameleon LPS
   - Null-Signature System
-  - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 1420
 
@@ -27,8 +27,8 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 10 (ammo: 12)
+  - Medium Laser × 4
   - Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
@@ -58,10 +58,10 @@
 - **Armor:** 176
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 10 (ammo: 12)
-  - Machine Gun (ammo: 200)
+  - Medium Laser × 4
   - Small Laser
+  - Machine Gun (ammo: 200)
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1372
 
@@ -73,8 +73,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 4
   - iNarc (ammo: 16)
+  - ER Medium Laser × 4
 - **Equipment:**
   - MASC
   - C3i

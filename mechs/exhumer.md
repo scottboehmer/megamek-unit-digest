@@ -8,8 +8,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
-  - LRM 5 × 2 (ammo: 24)
   - MRM 10 (ammo: 24)
+  - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE II
 - **Source:** TRO 3145 Draconis Combine - Late Republic

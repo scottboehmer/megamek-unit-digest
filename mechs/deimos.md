@@ -7,13 +7,13 @@
 - **Armor:** 249 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Ultra AC/2 × 6 (ammo: 90)
   - LRM 15 × 2 (ammo: 16)
   - ER Medium Laser × 2
+  - Ultra AC/2 × 6 (ammo: 90)
 - **Equipment:**
+  - Laser Anti-Missile System
   - CASE
   - MASC
-  - Laser Anti-Missile System
 - **Source:** Dark Age
 - **Battle Value:** 2394
 
@@ -25,13 +25,13 @@
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - LRM 15 × 2 (ammo: 24)
   - ER Medium Laser × 2
   - Ultra AC/2 × 6 (ammo: 135)
-  - LRM 15 × 2 (ammo: 24)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
 - **Source:** Civil War
 - **Battle Value:** 2188
 
@@ -43,15 +43,15 @@
 - **Armor:** 232
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - ER PPC × 2
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
+  - ECM Suite
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
-  - ECM Suite
 - **Source:** Civil War
 - **Battle Value:** 2785
 
@@ -63,15 +63,15 @@
 - **Armor:** 232
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC × 2
   - Large Pulse Laser × 2
   - LRM 10 × 4 (ammo: 72)
+  - ER Medium Laser × 2
 - **Equipment:**
+  - ECM Suite
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
-  - ECM Suite
 - **Source:** Civil War
 - **Battle Value:** 2965
 
@@ -84,14 +84,14 @@
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
   - ER Large Laser × 2
   - Heavy Large Laser
+  - ER Medium Laser × 2
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
 - **Source:** Jihad
 - **Battle Value:** 3344
 
@@ -104,15 +104,15 @@
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Ultra AC/10 × 2 (ammo: 40)
   - ER Large Laser × 2
+  - Ultra AC/10 × 2 (ammo: 40)
+  - ER Medium Laser × 2
   - Small Pulse Laser × 2
 - **Equipment:**
+  - ECM Suite
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
-  - ECM Suite
 - **Source:** Civil War
 - **Battle Value:** 2737
 
@@ -125,14 +125,14 @@
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Ultra AC/10 × 2 (ammo: 40)
   - ER Large Laser × 2
+  - Ultra AC/10 × 2 (ammo: 40)
+  - ER Medium Laser × 2
   - Small Pulse Laser × 2
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
   - Liquid Cargo
 - **Source:** Civil War
 - **Battle Value:** unknown
@@ -145,13 +145,13 @@
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - RAC/2 × 2 (ammo: 135)
   - Streak LRM 20 × 2 (ammo: 24)
+  - RAC/2 × 2 (ammo: 135)
+  - ER Medium Laser × 2
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2682
 
@@ -163,15 +163,15 @@
 - **Armor:** 232
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Medium Laser × 2
+  - ER PPC
   - Large Pulse Laser × 2
   - ER Large Laser
-  - ER PPC
+  - ER Medium Laser × 2
   - Streak SRM 4 × 4 (ammo: 0)
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-  - Anti-Missile System (ammo: 24)
   - Targeting Computer
   - Inner Sphere Radical Heat Sink System
   - Supercharger

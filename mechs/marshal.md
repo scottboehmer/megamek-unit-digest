@@ -8,12 +8,12 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
-  - Medium Laser
   - Large Laser
-  - Machine Gun × 2 (ammo: 100)
   - Medium Pulse Laser
+  - Medium Laser
   - LRM 5 (ammo: 24)
   - Flamer
+  - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3060
 - **Battle Value:** 1163
 
@@ -26,12 +26,12 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser
-  - Large Laser
-  - Machine Gun × 2 (ammo: 100)
   - LRM 15 (ammo: 24)
+  - Large Laser
   - Medium Pulse Laser
+  - Medium Laser
   - Flamer
+  - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3060
 - **Battle Value:** 1313
 
@@ -44,11 +44,11 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC
   - Plasma Rifle (ammo: 30)
-  - Light Machine Gun × 2 (ammo: 100)
+  - Light PPC
   - MML 9 (ammo: 13 LRM, 11 SRM)
   - Medium Pulse Laser
+  - Light Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array
 - **Source:** TRO 3060
@@ -78,12 +78,12 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser
   - TSEMP
-  - Machine Gun × 2 (ammo: 100)
-  - Medium Pulse Laser
   - MML 9 (ammo: 13 LRM, 22 SRM)
+  - Medium Pulse Laser
+  - Medium Laser
   - Flamer
+  - Machine Gun × 2 (ammo: 100)
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 1714
 

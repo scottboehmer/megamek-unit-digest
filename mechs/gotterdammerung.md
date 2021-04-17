@@ -10,8 +10,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER PPC
-  - ER Medium Laser × 5
   - LRM 15 (ammo: 8)
+  - ER Medium Laser × 5
 - **Source:** TRO 3145 Lyran Commonwealth - Dark Ages
 - **Battle Value:** 1727
 

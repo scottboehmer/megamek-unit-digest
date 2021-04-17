@@ -24,8 +24,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Large Pulse Laser × 2
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe

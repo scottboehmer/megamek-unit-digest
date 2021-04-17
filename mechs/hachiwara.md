@@ -8,8 +8,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Ultra AC/10 (ammo: 30)
-  - Large Vibroblade
   - ER Medium Laser × 2
+  - Large Vibroblade
 - **Equipment:**
   - M-Pod × 4
   - CASE
@@ -27,12 +27,12 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Ultra AC/10 (ammo: 30)
-  - Large Vibroblade
   - ER Medium Laser × 2
+  - Large Vibroblade
 - **Equipment:**
   - M-Pod × 4
-  - Supercharger
   - Spikes × 3
+  - Supercharger
   - CASE II
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1728
@@ -47,8 +47,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Ultra AC/20 (ammo: 15)
-  - Large Vibroblade
   - ER Medium Laser × 2
+  - Large Vibroblade
 - **Equipment:**
   - M-Pod × 4
   - Supercharger
@@ -66,8 +66,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC w/ PPC Capacitor
-  - Lance
   - Medium Laser × 5
+  - Lance
 - **Equipment:**
   - Spikes × 3
 - **Source:** TRO 3055 - Jihad

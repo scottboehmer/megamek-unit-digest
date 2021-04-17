@@ -9,13 +9,13 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - Large Pulse Laser
-  - Medium Pulse Laser × 2
-  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
-  - ER Medium Laser × 2
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
+  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+  - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 2750
 
@@ -29,14 +29,14 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Large Pulse Laser
-  - Medium Pulse Laser
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
-  - ER Medium Laser
   - ATM 9 (ammo: 14)
+  - Medium Pulse Laser
+  - ER Medium Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 24)
   - CASE
   - HarJel III × 3
-  - Anti-Missile System (ammo: 24)
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2384
 

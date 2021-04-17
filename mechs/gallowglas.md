@@ -8,9 +8,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER PPC
   - Large Laser × 2
+  - Medium Pulse Laser × 2
   - Small Laser
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1695
@@ -24,9 +24,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser
   - Gauss Rifle (ammo: 16)
   - Large Laser × 2
+  - Medium Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -41,9 +41,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - ER PPC
   - ER Medium Laser × 2
+  - Small Pulse Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2094
 
@@ -56,9 +56,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Gauss Rifle (ammo: 16)
   - ER Large Laser × 2
+  - ER Medium Laser
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -74,9 +74,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - Gauss Rifle (ammo: 16)
   - ER Large Laser × 2
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Civil War
@@ -91,9 +91,9 @@
 - **Armor:** 192
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Gauss Rifle (ammo: 16)
   - ER Large Laser
+  - ER Medium Laser × 3
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -110,10 +110,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Pulse Laser
   - Heavy PPC
-  - Light PPC
   - Large Laser × 2
+  - Light PPC
+  - Medium Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** Jihad

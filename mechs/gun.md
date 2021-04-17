@@ -9,8 +9,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Plasma Rifle (ammo: 20)
+  - ER Medium Laser × 2
 - **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 775
 
@@ -40,9 +40,9 @@
 - **Weapons:**
   - ER Large Laser
 - **Equipment:**
-  - TAG
-  - Bloodhound Active Probe
   - Angel ECM Suite
+  - Bloodhound Active Probe
+  - TAG
 - **Source:** TRO 3145 Capellan Confederation - Dark Ages
 - **Battle Value:** 639
 

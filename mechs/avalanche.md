@@ -8,8 +8,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 4
   - LRM 10 × 2 (ammo: 24)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
@@ -42,8 +42,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2
-  - ER Medium Laser × 2
   - Thunderbolt 5 × 2 (ammo: 24)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
@@ -92,8 +92,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
   - Clan LRM 10 × 2 (ammo: 24)
+  - Clan ER Medium Laser × 4
   - Clan ATM 3 × 2 (ammo: 40)
 - **Equipment:**
   - CASE

@@ -7,8 +7,8 @@
 - **Armor:** 201 (Ferro Lamellor)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LB 5-X AC (ammo: 20 Cluster)
   - ER PPC
+  - LB 5-X AC (ammo: 20 Cluster)
   - SRM 6 × 4 (ammo: 30)
   - ER Small Pulse Laser × 2
 - **Equipment:**
@@ -24,8 +24,8 @@
 - **Armor:** 201 (Ferro Lamellor)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Ultra AC/10 (ammo: 20)
   - Large Pulse Laser
+  - Ultra AC/10 (ammo: 20)
   - LRM 5 × 4 (ammo: 48)
   - ER Small Laser × 2
 - **Equipment:**
@@ -41,9 +41,9 @@
 - **Armor:** 201 (Ferro Lamellor)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser
   - ER PPC
   - Streak LRM 15 × 2 (ammo: 16)
+  - Medium Pulse Laser
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
@@ -75,8 +75,8 @@
 - **Armor:** 201 (Ferro Lamellor)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 2
   - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
+  - Improved Heavy Medium Laser × 2
   - Micro Pulse Laser × 2
 - **Equipment:**
   - CASE

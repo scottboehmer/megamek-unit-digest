@@ -10,9 +10,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Heavy PPC
   - ER Medium Laser × 2
   - Hatchet
-  - Heavy PPC
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1998
 
@@ -26,9 +26,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Heavy PPC
   - ER Medium Laser × 2
   - Large Vibroblade
-  - Heavy PPC
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1772
 
@@ -43,9 +43,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Ultra AC/10 (ammo: 20)
   - Medium Pulse Laser × 2
   - Hatchet
-  - Ultra AC/10 (ammo: 20)
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
 - **Battle Value:** 1611
 

@@ -7,9 +7,9 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 10 (ammo: 12)
   - ER Medium Laser × 4
   - Streak SRM 2 × 3 (ammo: 50)
-  - LRM 10 (ammo: 12)
 - **Equipment:**
   - MASC
   - CASE
@@ -74,8 +74,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - Heavy Medium Laser × 2
   - LRM 15 (ammo: 16)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - MASC
   - CASE
@@ -92,13 +92,13 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy Medium Laser × 2
-  - Flamer × 4
-  - AP Gauss Rifle × 2 (ammo: 40)
   - SRM 4 (ammo: 25)
+  - AP Gauss Rifle × 2 (ammo: 40)
+  - Flamer × 4
 - **Equipment:**
+  - ECM Suite
   - MASC
   - CASE
-  - ECM Suite
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1292
 
@@ -110,14 +110,14 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
-  - ER Flamer
   - ER Large Laser
-  - AP Gauss Rifle × 2 (ammo: 40)
+  - ER Medium Laser
   - SRM 6 (ammo: 15)
+  - AP Gauss Rifle × 2 (ammo: 40)
+  - ER Flamer
 - **Equipment:**
+  - Active Probe
   - MASC
   - CASE
-  - Active Probe
 - **Battle Value:** 1594
 

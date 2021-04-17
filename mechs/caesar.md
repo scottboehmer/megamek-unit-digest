@@ -7,9 +7,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Medium Pulse Laser × 4
-  - ER PPC
   - Gauss Rifle (ammo: 16)
+  - ER PPC
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -23,10 +23,10 @@
 - **Armor:** 184
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Clan Medium Pulse Laser × 3
   - Clan ER PPC
-  - Medium Pulse Laser × 2
   - Clan Gauss Rifle (ammo: 16)
+  - Clan Medium Pulse Laser × 3
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -40,9 +40,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Medium Laser × 8
-  - ER PPC
   - Gauss Rifle (ammo: 16)
+  - ER PPC
+  - ER Medium Laser × 8
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -56,10 +56,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
+  - Heavy Gauss Rifle (ammo: 12)
   - Large Pulse Laser
   - ER Medium Laser × 2
-  - Heavy Gauss Rifle (ammo: 12)
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1739
 
@@ -71,9 +71,9 @@
 - **Armor:** 217 (Light Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
-  - Heavy PPC
   - Gauss Rifle (ammo: 16)
+  - Heavy PPC
+  - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -88,10 +88,10 @@
 - **Armor:** 206 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Pulse Laser × 2
+  - Gauss Rifle (ammo: 16)
   - Snub-Nose PPC
   - ER Medium Laser × 3
-  - Gauss Rifle (ammo: 16)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - MASC
   - CASE

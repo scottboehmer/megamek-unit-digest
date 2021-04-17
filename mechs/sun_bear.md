@@ -7,9 +7,9 @@
 - **Armor:** 168
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Ultra AC/20 (ammo: 15)
   - Medium Pulse Laser × 2
   - ER Medium Laser × 2
-  - Ultra AC/20 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars
@@ -36,8 +36,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 2
   - LRM 20 × 2 (ammo: 12)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars

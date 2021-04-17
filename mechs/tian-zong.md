@@ -7,8 +7,8 @@
 - **Armor:** 216 (Stealth)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
+  - ER Medium Laser × 2
 - **Equipment:**
   - Angel ECM Suite
 - **Source:** TRO 3145 Capellan Confederation - Early Republic
@@ -38,8 +38,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC × 2
   - Gauss Rifle × 2 (ammo: 24)
+  - Light PPC × 2
 - **Equipment:**
   - Angel ECM Suite
 - **Source:** TRO 3145 Capellan Confederation - Dark Ages
@@ -54,9 +54,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
   - Light Gauss Rifle × 2 (ammo: 48)
+  - ER Medium Laser × 2
 - **Equipment:**
   - Angel ECM Suite
 - **Source:** OTP Capellan Crusades - Dark Age

@@ -7,8 +7,8 @@
 - **Armor:** 119 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ER PPC
+  - Medium Pulse Laser × 2
   - Medium Laser
   - Small Pulse Laser
 - **Source:** TRO 3058 - Clan Invasion
@@ -22,9 +22,9 @@
 - **Armor:** 119 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - ER Large Laser
   - Large Laser
   - Medium Laser × 2
-  - ER Large Laser
   - Small Pulse Laser
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1040
@@ -37,13 +37,13 @@
 - **Armor:** 119 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER Medium Laser × 3
   - ER Large Laser
+  - ER Medium Laser × 3
   - Medium Laser
 - **Equipment:**
-  - TAG
   - Guardian ECM Suite
   - Beagle Active Probe
+  - TAG
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1116
 

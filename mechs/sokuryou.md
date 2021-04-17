@@ -22,8 +22,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
-  - TAG
   - Beagle Active Probe
+  - TAG
   - Communications Equipment
   - Ejection Seat
 - **Source:** Dark Age

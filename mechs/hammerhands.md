@@ -9,8 +9,8 @@
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
   - AC/10 × 2 (ammo: 40)
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1381
 
@@ -22,9 +22,9 @@
 - **Armor:** 184
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
+  - PPC
   - AC/10 × 2 (ammo: 40)
   - Medium Laser × 2
-  - PPC
 - **Source:** TRO 3075
 - **Battle Value:** 1356
 
@@ -37,8 +37,8 @@
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - Medium Laser × 2
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Source:** ER 2750
 - **Battle Value:** 1413
 
@@ -89,8 +89,8 @@
   - RAC/5 × 2 (ammo: 120)
   - Medium Laser × 2
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 2204

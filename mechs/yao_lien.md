@@ -11,8 +11,8 @@
 - **Weapons:**
   - Snub-Nose PPC × 2
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
 - **Source:** Jihad
 - **Battle Value:** 1586
 

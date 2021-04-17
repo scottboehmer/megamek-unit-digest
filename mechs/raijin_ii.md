@@ -9,9 +9,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - ER PPC
   - ER Medium Laser × 3
   - Streak SRM 4 (ammo: 25)
-  - ER PPC
 - **Equipment:**
   - CASE
   - C3i
@@ -30,9 +30,9 @@
   - ER Medium Laser × 4
   - ER Small Laser
 - **Equipment:**
-  - TAG
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
+  - TAG
   - C3i
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1439
@@ -47,8 +47,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
+  - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - C3i

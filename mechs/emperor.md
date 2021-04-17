@@ -55,10 +55,10 @@
 - **Armor:** 279
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Laser
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Clan Gauss Rifle (ammo: 16)
   - ER PPC
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
+  - Large Laser
 - **Equipment:**
   - CASE
 - **Battle Value:** 2247
@@ -90,8 +90,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER PPC
   - Gauss Rifle (ammo: 24)
+  - ER PPC
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
@@ -109,10 +109,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light Gauss Rifle × 2 (ammo: 32)
   - ER Large Laser × 2
-  - Medium Pulse Laser × 3
+  - Light Gauss Rifle × 2 (ammo: 32)
   - ER Medium Laser
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - C3i
 - **Source:** TRO 3058 - Jihad
@@ -144,8 +144,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - AC/10 × 2 (ammo: 60)
   - ER Large Laser
+  - AC/10 × 2 (ammo: 60)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
@@ -177,12 +177,12 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Plasma Rifle (ammo: 20)
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Medium Re-Engineered Laser × 2
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2385
 

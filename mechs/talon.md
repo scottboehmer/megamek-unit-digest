@@ -7,8 +7,8 @@
 - **Armor:** 119
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - PPC
+  - Medium Laser × 2
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1075
 
@@ -20,8 +20,8 @@
 - **Armor:** 119
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - ER PPC
+  - Medium Laser × 2
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1175
 
@@ -33,8 +33,8 @@
 - **Armor:** 119
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - PPC
+  - Medium Laser × 2
 - **Source:** WWE Scorched Earth - Clan Invasion
 - **Battle Value:** 977
 
@@ -60,8 +60,8 @@
 - **Armor:** 119 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - Heavy PPC
+  - Medium Laser × 2
 - **Source:** Jihad
 - **Battle Value:** 1341
 

@@ -33,8 +33,8 @@
 - **Armor:** 137 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Inner Sphere Claw × 2
   - ER PPC
+  - Inner Sphere Claw × 2
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1496
 
@@ -49,12 +49,12 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Clan ER Small Laser
-  - Clan Micro Pulse Laser
-  - Chain Whip
   - Clan ER Large Laser
   - Clan ER Medium Laser
   - Clan LRM 5 × 2 (ammo: 24)
+  - Clan ER Small Laser
+  - Clan Micro Pulse Laser
+  - Chain Whip
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1749
 

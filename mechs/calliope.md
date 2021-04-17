@@ -23,9 +23,9 @@
 - **Armor:** 126 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 4 × 2 (ammo: 25)
   - Clan ER PPC w/ PPC Capacitor
   - Clan Improved Heavy Medium Laser
+  - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
 - **Source:** XTRO Royal Fantasy

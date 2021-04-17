@@ -7,8 +7,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 6
   - LRM 20 × 4 (ammo: 24)
+  - ER Medium Laser × 6
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 The Clans - Late Republic
@@ -23,8 +23,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Ultra AC/5 × 2 (ammo: 40)
-  - SRM 6 × 4 (ammo: 30)
   - Medium Pulse Laser × 2
+  - SRM 6 × 4 (ammo: 30)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 The Clans - Late Republic
@@ -55,10 +55,10 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - ER Small Laser
-  - Inner Sphere Light PPC
   - LRM 15 × 4 (ammo: 32)
+  - ER Medium Laser × 3
+  - Inner Sphere Light PPC
+  - ER Small Laser
 - **Equipment:**
   - CASE
   - Inner Sphere C3i
@@ -73,8 +73,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Micro Pulse Laser × 4
   - Streak SRM 6 × 8 (ammo: 60)
+  - Micro Pulse Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 The Clans - Late Republic
@@ -88,8 +88,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - RAC/5 × 2 (ammo: 120)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 The Clans - Late Republic

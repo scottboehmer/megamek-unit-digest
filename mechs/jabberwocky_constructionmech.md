@@ -10,12 +10,12 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Nail/Rivet Gun × 2 (ammo: 300)
   - Spot Welder
+  - Nail/Rivet Gun × 2 (ammo: 300)
 - **Equipment:**
-  - Enviro-Sealing
   - Salvage Arm
   - Searchlight
+  - Enviro-Sealing
   - Cargo
   - Lift Hoist
   - Tracks

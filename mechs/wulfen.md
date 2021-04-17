@@ -94,8 +94,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Micro Pulse Laser
   - ATM 3 × 2 (ammo: 20)
+  - Micro Pulse Laser
 - **Equipment:**
   - ECM Suite
   - Supercharger

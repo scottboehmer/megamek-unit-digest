@@ -8,11 +8,11 @@
 - **Armor:** 152 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Large Pulse Laser
+  - ER Medium Laser × 2
 - **Equipment:**
-  - MASC
   - Beagle Active Probe
+  - MASC
   - TAG
 - **Source:** TRO 3060
 - **Battle Value:** 1319
@@ -29,10 +29,10 @@
 - **Weapons:**
   - ER Medium Laser × 4
 - **Equipment:**
+  - Armored Angel ECM Suite
   - Armored Bloodhound Active Probe
   - TAG
   - MASC
-  - Armored Angel ECM Suite
 - **Source:** XTRO ComStar - Jihad
 - **Battle Value:** 1473
 
@@ -45,8 +45,8 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - ECM Suite
   - Light Active Probe
@@ -65,8 +65,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium VSP Laser × 2
   - ER Medium Laser
+  - Medium VSP Laser × 2
   - Sword
   - ER Small Laser × 2
   - Small Laser

@@ -8,8 +8,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Small Laser × 4
   - ER Large Laser
   - Medium Pulse Laser
+  - ER Small Laser × 4
 - **Battle Value:** 1512
 

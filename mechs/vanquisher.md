@@ -7,8 +7,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Light Gauss Rifle × 2 (ammo: 64)
   - ER Large Laser × 2
+  - Light Gauss Rifle × 2 (ammo: 64)
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
@@ -41,12 +41,12 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Large Laser × 2
   - Heavy Gauss Rifle (ammo: 16)
+  - ER Large Laser × 2
   - ER Medium Laser × 2
 - **Equipment:**
-  - C3i
   - B-Pod × 2
+  - C3i
 - **Source:** 3067 Unabridged
 - **Battle Value:** 2332
 
@@ -62,13 +62,13 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Plasma Rifle × 2 (ammo: 40)
-  - ER Flamer × 2
-  - Small VSP Laser × 2
   - Snub-Nose PPC
+  - Small VSP Laser × 2
+  - ER Flamer × 2
   - Heavy Flamer (ammo: 10)
 - **Equipment:**
-  - Remote Sensor Dispenser
   - Beagle Active Probe
+  - Remote Sensor Dispenser
   - C3i
 - **Battle Value:** 2144
 
@@ -82,9 +82,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - Heavy PPC
   - RAC/5 × 2 (ammo: 100)
   - Light PPC × 2
-  - Heavy PPC
 - **Equipment:**
   - CASE
   - C3i
@@ -100,10 +100,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Large VSP Laser × 2
   - Gauss Rifle (ammo: 16)
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
+  - Large VSP Laser × 2
   - ER Medium Laser × 2
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
 - **Equipment:**
   - CASE
   - C3i

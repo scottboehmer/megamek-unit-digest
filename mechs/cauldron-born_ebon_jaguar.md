@@ -7,10 +7,10 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - Gauss Rifle (ammo: 16)
   - LRM 10 (ammo: 24)
   - ER Medium Laser
+  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -25,12 +25,12 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - Ultra AC/20 (ammo: 15)
   - ER Large Laser × 2
-  - Flamer
-  - Machine Gun × 2 (ammo: 200)
   - Medium Pulse Laser
   - ER Medium Laser × 3
-  - Ultra AC/20 (ammo: 15)
+  - Flamer
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -48,8 +48,8 @@
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
-  - TAG
   - Active Probe
+  - TAG
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2535
 
@@ -61,9 +61,9 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 60)
-  - Ultra AC/2 × 2 (ammo: 90)
   - LRM 15 × 2 (ammo: 32)
+  - Ultra AC/2 × 2 (ammo: 90)
+  - SRM 6 × 2 (ammo: 60)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -77,10 +77,10 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Ultra AC/20 (ammo: 10)
   - ER PPC
-  - ER Small Laser
+  - Ultra AC/20 (ammo: 10)
   - LRM 10 × 3 (ammo: 24)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** HTP Luzerne
@@ -94,8 +94,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Ultra AC/10 × 2 (ammo: 40)
   - ER Large Laser
+  - Ultra AC/10 × 2 (ammo: 40)
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
@@ -110,10 +110,10 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Heavy Medium Laser × 2
+  - Ultra AC/20 (ammo: 15)
   - Heavy Large Laser
   - Medium Pulse Laser
-  - Ultra AC/20 (ammo: 15)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -130,8 +130,8 @@
 - **Weapons:**
   - HAG 20 (ammo: 18)
   - Large Pulse Laser
-  - ER Medium Laser
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Jihad
@@ -145,12 +145,12 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Medium Pulse Laser × 3
   - RAC/5 (ammo: 60)
+  - ER Medium Pulse Laser × 3
   - ER Small Pulse Laser
 - **Equipment:**
-  - Targeting Computer
   - Angel ECM Suite
+  - Targeting Computer
   - CASE II
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2435
@@ -165,8 +165,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Large Pulse Laser × 2
-  - ER Small Laser × 2
   - LRT 15 × 2 (ammo: 16)
+  - ER Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad

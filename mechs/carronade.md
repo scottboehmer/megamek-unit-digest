@@ -7,8 +7,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Silver Bullet (ammo: 16)
   - Gauss Rifle (ammo: 16)
+  - Silver Bullet (ammo: 16)
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE II

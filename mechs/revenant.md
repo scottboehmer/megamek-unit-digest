@@ -24,8 +24,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 2
   - LRM 5 × 2 (ammo: 48)
+  - ER Small Laser × 2
 - **Equipment:**
   - Drone Operating System
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
@@ -58,8 +58,8 @@
   - ER Flamer
 - **Equipment:**
   - Guardian ECM Suite
-  - Remote Sensor Dispenser × 2
   - Beagle Active Probe
+  - Remote Sensor Dispenser × 2
   - C3 Slave
   - TAG
   - Drone Operating System

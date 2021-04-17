@@ -8,9 +8,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - Small Pulse Laser
-  - Streak SRM 4 (ammo: 25)
   - LB 5-X AC (ammo: 20)
+  - Streak SRM 4 (ammo: 25)
+  - Small Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -24,8 +24,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -39,10 +39,10 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
-  - ER Small Laser
   - Ultra AC/10 (ammo: 20)
+  - ER Medium Laser
   - SRM 6 (ammo: 15)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -72,8 +72,8 @@
 - **Armor:** 71 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 2
   - Arrow IV (ammo: 15)
+  - ER Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 11 - Early Succession War
@@ -91,12 +91,12 @@
   - Small Pulse Laser
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - Anti-Missile System × 3 (ammo: 96)
   - ECM Suite
-  - TAG
+  - Anti-Missile System × 3 (ammo: 96)
   - Active Probe
-  - CASE
   - A-Pod × 2
+  - TAG
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1147
 
@@ -109,9 +109,9 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Large Pulse Laser
   - Medium Pulse Laser
   - Streak SRM 4 (ammo: 25)
-  - Large Pulse Laser
   - Small Pulse Laser
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
@@ -141,8 +141,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ATM 3 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER PPC
+  - ATM 3 (ammo: 20 Standard, 20 ER, 20 HE)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -158,8 +158,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser
-  - ER Medium Laser
   - LRM 10 × 2 (ammo: 24)
+  - ER Medium Laser
 - **Equipment:**
   - ECM Suite
   - CASE
@@ -174,8 +174,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -190,8 +190,8 @@
 - **Armor:** 71 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Ultra AC/5 (ammo: 20)
+  - ER Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -206,8 +206,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - HAG 20 (ammo: 12)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -222,8 +222,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRT 5 × 8 (ammo: 96)
   - ER Medium Laser
+  - LRT 5 × 8 (ammo: 96)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -252,9 +252,9 @@
 - **Armor:** 76+60 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER PPC
   - ER Medium Laser
   - ER Small Laser
-  - ER PPC
 - **Equipment:**
   - Modular Armor × 6
   - Supercharger
@@ -285,9 +285,9 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Ultra AC/10 (ammo: 20)
   - ER Medium Laser
   - ER Small Laser
-  - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - Inner Sphere C3i
   - CASE
@@ -307,9 +307,9 @@
   - Streak SRM 4 (ammo: 25)
   - ProtoMech AC/4 (ammo: 40)
 - **Equipment:**
+  - Active Probe
   - CASE
   - Supercharger
-  - Active Probe
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 1380
 

@@ -23,8 +23,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Arrow IV × 2 (ammo: 25)
-  - ER Small Laser
   - ER Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Succession Wars
@@ -71,8 +71,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Arrow IV × 2 (ammo: 20)
-  - SRM 4 (ammo: 25)
   - ER Medium Laser
+  - SRM 4 (ammo: 25)
   - ER Small Laser
 - **Equipment:**
   - CASE

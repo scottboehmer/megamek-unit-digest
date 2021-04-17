@@ -23,8 +23,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Plasma Cannon (ammo: 20)
-  - ER Medium Laser × 2
   - ATM 9 (ammo: 14 Standard, 7 ER, 7 HE)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Dark Age

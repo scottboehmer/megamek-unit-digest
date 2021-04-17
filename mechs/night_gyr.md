@@ -25,10 +25,10 @@
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Large Pulse Laser
-  - Medium Pulse Laser × 3
   - Ultra AC/20 (ammo: 15)
+  - Large Pulse Laser
   - Streak SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -59,9 +59,9 @@
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Ultra AC/2 × 3 (ammo: 90)
   - ER Large Laser × 2
   - ER Medium Laser × 2
+  - Ultra AC/2 × 3 (ammo: 90)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -77,8 +77,8 @@
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LRM 20 w/ Artemis IV × 4 (ammo: 36)
   - Large Pulse Laser
+  - LRM 20 w/ Artemis IV × 4 (ammo: 36)
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
@@ -112,13 +112,13 @@
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Ultra AC/10 (ammo: 20)
   - Gauss Rifle (ammo: 16)
   - Heavy Large Laser
+  - Ultra AC/10 (ammo: 20)
   - Medium Pulse Laser
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2428
 
@@ -131,13 +131,13 @@
 - **Armor:** 220 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - HAG 20 (ammo: 18)
   - HAG 30 (ammo: 16)
+  - HAG 20 (ammo: 18)
   - ER Medium Laser × 2
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2958
 

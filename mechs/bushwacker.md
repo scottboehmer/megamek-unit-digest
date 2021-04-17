@@ -7,10 +7,10 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - LRM 5 × 2 (ammo: 24)
-  - AC/10 (ammo: 10)
-  - Machine Gun × 2 (ammo: 100)
   - ER Large Laser
+  - AC/10 (ammo: 10)
+  - LRM 5 × 2 (ammo: 24)
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -24,10 +24,10 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 5 × 3 (ammo: 24)
   - AC/10 (ammo: 10)
-  - Machine Gun × 2 (ammo: 100)
   - Medium Pulse Laser × 2
+  - LRM 5 × 3 (ammo: 24)
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -41,9 +41,9 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 25)
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - ER Large Laser
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
@@ -73,9 +73,9 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Plasma Rifle (ammo: 10)
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - SRM 4 (ammo: 25)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
@@ -90,10 +90,10 @@
 - **Armor:** 169 (Light Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
   - Plasma Rifle (ammo: 20)
-  - Medium Laser × 2
   - ER Large Laser
+  - Medium Laser × 2
+  - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE II
   - MASC

@@ -8,8 +8,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Medium Laser
   - LRM 10 (ammo: 12)
+  - Medium Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 723
 
@@ -22,8 +22,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Flamer
   - LRM 10 (ammo: 12)
+  - Flamer
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 653
 
@@ -36,8 +36,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Pulse Laser
   - LRM 10 w/ Artemis IV (ammo: 12)
+  - Medium Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -52,8 +52,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - ER Medium Laser
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO Project Pheonix - Civil War
@@ -85,8 +85,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
   - MML 9 w/ Artemis IV (ammo: 13 LRM, 11 SRM)
+  - Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -118,8 +118,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
   - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
+  - Medium Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -135,8 +135,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC
   - Streak SRM 6 (ammo: 15)
+  - Light PPC
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -152,8 +152,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - MML 7 (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -169,8 +169,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - ELRM 10 (ammo: 18)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -186,8 +186,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC
   - ELRM 10 (ammo: 18)
+  - Light PPC
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 787
 
@@ -201,8 +201,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - LRM 10 w/ Artemis IV (ammo: 12)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Dark Age

@@ -7,9 +7,9 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Streak SRM 6 × 4 (ammo: 45)
   - ER Large Laser
   - Ultra AC/10 (ammo: 20)
+  - Streak SRM 6 × 4 (ammo: 45)
 - **Equipment:**
   - CASE
 - **Battle Value:** 2257
@@ -36,8 +36,8 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - LRM 15 × 4 (ammo: 32)
   - LRM 20 × 2 (ammo: 12)
+  - LRM 15 × 4 (ammo: 32)
 - **Equipment:**
   - CASE
 - **Battle Value:** 2541
@@ -66,10 +66,10 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Streak SRM 2 (ammo: 50)
-  - Streak SRM 4 × 2 (ammo: 50)
   - ER PPC
   - LB 5-X AC × 2 (ammo: 40 Standard, 20 Cluster)
+  - Streak SRM 4 × 2 (ammo: 50)
+  - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Battle Value:** 2044
@@ -82,14 +82,14 @@
 - **Armor:** 182 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser × 2
-  - ER Large Laser
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
   - Light Active Probe
+  - CASE
 - **Battle Value:** 2497
 
 ## Sun Spider D

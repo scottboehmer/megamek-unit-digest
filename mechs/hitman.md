@@ -7,8 +7,8 @@
 - **Armor:** 80
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 3
   - LRM 5 w/ Artemis IV (ammo: 24)
+  - Medium Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
@@ -44,8 +44,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Medium Laser × 2
   - MML 7 (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe

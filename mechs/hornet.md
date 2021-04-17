@@ -8,9 +8,9 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser
   - Medium Laser
   - LRM 5 (ammo: 24)
+  - Small Laser
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 488
 
@@ -23,9 +23,9 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser
   - Medium Laser
   - SRM 4 (ammo: 25)
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 475
 
@@ -41,8 +41,8 @@
   - Medium Laser
   - LRM 5 (ammo: 48)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 535
 
@@ -55,9 +55,9 @@
 - **Armor:** 62 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser
   - Medium Laser
   - LRM 5 (ammo: 48)
+  - Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion

@@ -7,8 +7,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - ER Large Laser
   - LRM 15 (ammo: 16)
 - **Source:** TRO 3067
 - **Battle Value:** 1771
@@ -37,8 +37,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser
   - LRM 5 × 3 (ammo: 72)
 - **Source:** TRO 3067
 - **Battle Value:** 1878
@@ -51,8 +51,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Plasma Rifle (ammo: 10)
   - RAC/5 (ammo: 60)
+  - Plasma Rifle (ammo: 10)
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Equipment:**
   - Targeting Computer
@@ -69,8 +69,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Heavy PPC
   - Gauss Rifle (ammo: 16)
+  - Heavy PPC
   - Rocket 10 × 3
 - **Equipment:**
   - Guardian ECM Suite

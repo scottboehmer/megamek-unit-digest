@@ -7,9 +7,9 @@
 - **Armor:** 112
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser
   - ER Large Laser
   - Large Laser
+  - Medium Pulse Laser
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 997
 

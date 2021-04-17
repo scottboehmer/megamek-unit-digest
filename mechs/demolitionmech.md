@@ -8,9 +8,9 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
+  - Small Laser
   - Wrecking Ball
   - Rock-Cutter
-  - Small Laser
 - **Equipment:**
   - Cargo
 - **Source:** TRO 3075
@@ -24,8 +24,8 @@
 - **Armor:** 75 (Industrial)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Dual Saw
   - Wrecking Ball
+  - Dual Saw
 - **Equipment:**
   - Cargo
 - **Source:** TRO 3075

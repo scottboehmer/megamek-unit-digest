@@ -28,8 +28,8 @@
   - Large Pulse Laser × 3
   - Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 72)
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2855
 
@@ -42,8 +42,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Pulse Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Pulse Laser × 2
   - Ultra AC/2 × 4 (ammo: 90)
   - ER Small Laser
 - **Equipment:**
@@ -59,10 +59,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
+  - Ultra AC/20 (ammo: 10)
   - Gauss Rifle (ammo: 32)
   - ER Large Laser
   - LRM 20 (ammo: 12)
-  - Ultra AC/20 (ammo: 10)
   - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
@@ -78,9 +78,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 25 (50)
 - **Weapons:**
-  - Large Pulse Laser × 2
   - ER PPC × 2
   - Ultra AC/20 (ammo: 10)
+  - Large Pulse Laser × 2
   - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
@@ -99,12 +99,12 @@
 - **Weapons:**
   - Large Pulse Laser
   - LB 20-X AC (ammo: 10 Cluster, 10 Standard)
-  - Streak SRM 4 × 2 (ammo: 25)
   - Medium Pulse Laser × 5
+  - Streak SRM 4 × 2 (ammo: 25)
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - CASE
   - A-Pod × 2
+  - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2985
 
@@ -116,9 +116,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
-  - ER Large Laser × 2
   - Ultra AC/20 (ammo: 10)
   - Large Pulse Laser × 3
+  - ER Large Laser × 2
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
@@ -153,13 +153,13 @@
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
   - ER PPC × 2
-  - ATM 6 × 2 (ammo: 20)
   - Medium Pulse Laser × 4
+  - ATM 6 × 2 (ammo: 20)
   - SRM 4 (iOS)
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Targeting Computer
-  - ECM Suite
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** unknown
 
@@ -190,14 +190,14 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Large Pulse Laser
-  - Heavy Medium Laser
   - Ultra AC/10 (ammo: 20)
-  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
   - LRM 15 w/ Artemis IV (ammo: 8)
-  - SRM 4 w/ Artemis IV (ammo: 25)
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
-  - ER Micro Laser × 2
+  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
+  - Heavy Medium Laser
+  - SRM 4 w/ Artemis IV (ammo: 25)
   - Streak SRM 2 (ammo: 50)
+  - ER Micro Laser × 2
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -234,10 +234,10 @@
   - Medium Pulse Laser × 4
   - SRT 6 × 6 (ammo: 60)
 - **Equipment:**
+  - MASS
   - HarJel × 5
   - Targeting Computer
   - CASE
-  - MASS
 - **Source:** Jihad
 - **Battle Value:** 3360
 
@@ -249,12 +249,12 @@
 - **Armor:** 304
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Medium Pulse Laser × 8
-  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Streak LRM 10 (ammo: 12)
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - Medium Pulse Laser × 8
 - **Equipment:**
-  - CASE II
   - Watchdog CEWS
+  - CASE II
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2814
 

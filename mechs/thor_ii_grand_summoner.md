@@ -8,9 +8,9 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - LRM 15 (ammo: 16)
   - Ultra AC/5 × 2 (ammo: 40)
   - ER Medium Laser × 4
-  - LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 The Clans - Early Republic
@@ -25,9 +25,9 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - ER PPC
   - LRM 15 (ammo: 16)
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
@@ -60,8 +60,8 @@
 - **Armor:** 192 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser × 2
   - Ultra AC/20 (ammo: 15)
+  - Large Pulse Laser × 2
   - Streak SRM 4 (ammo: 25)
   - Flamer
 - **Equipment:**
@@ -79,8 +79,8 @@
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
   - ER Large Laser × 2
-  - ER Medium Laser × 2
   - LRM 15 (ammo: 16)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - Targeting Computer

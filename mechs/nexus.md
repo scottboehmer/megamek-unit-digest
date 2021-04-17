@@ -8,8 +8,8 @@
 - **Armor:** 35 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser
   - Medium Pulse Laser × 2
+  - Medium Laser
   - Small Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)

@@ -7,9 +7,9 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - LRM 5 (ammo: 24)
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 2
+  - LRM 5 (ammo: 24)
   - Narc (ammo: 12)
 - **Source:** TRO 3050 - Star League
 - **Battle Value:** 1160
@@ -53,10 +53,10 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Large Laser
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
-  - Large Laser
 - **Source:** TRO 3050 - Succession War
 - **Battle Value:** 1357
 
@@ -68,10 +68,10 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Large Laser
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser
   - LRM 5 (ammo: 24)
-  - Large Laser
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3050 - Clan Invasion
@@ -102,9 +102,9 @@
 - **Armor:** 170 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
-  - ER Medium Laser × 2
   - iNarc (ammo: 12)
+  - ER Medium Laser × 2
+  - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
   - C3i

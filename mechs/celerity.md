@@ -59,9 +59,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Equipment:**
-  - MASC
-  - Drone Operating System
   - Angel ECM Suite
+  - Drone Operating System
+  - MASC
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** unknown
 
@@ -75,10 +75,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Equipment:**
+  - Beagle Active Probe
   - MASC
   - Drone Operating System
   - Remote Sensor Dispenser
-  - Beagle Active Probe
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** unknown
 
@@ -94,8 +94,8 @@
 - **Weapons:**
   - ER Flamer × 2
 - **Equipment:**
-  - MASC
   - Drone Operating System
+  - MASC
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** unknown
 

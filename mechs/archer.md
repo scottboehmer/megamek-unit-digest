@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 20 × 2 (ammo: 24)
+  - Medium Laser × 2
 - **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** 1269
 
@@ -21,8 +21,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 20 × 2 (ammo: 24)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1477
 
@@ -34,8 +34,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 3
   - LRM 20 w/ Artemis IV × 2 (ammo: 30)
+  - Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Battle Value:** 1705
@@ -48,8 +48,8 @@
 - **Armor:** 176
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Large Laser × 2
   - LRM 15 × 2 (ammo: 32)
+  - Large Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1356
 
@@ -61,8 +61,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 15 × 2 (ammo: 32)
+  - Medium Laser × 4
   - SRM 4 × 2 (ammo: 50)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1393
@@ -75,8 +75,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 20 × 2 (ammo: 24)
+  - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1338
@@ -89,8 +89,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+  - Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -104,8 +104,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Large Laser × 2
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
+  - ER Large Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 1672
@@ -118,9 +118,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 15 × 2 (ammo: 32)
   - Medium Pulse Laser × 4
   - Streak SRM 2 × 2 (ammo: 100)
-  - LRM 15 × 2 (ammo: 32)
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
@@ -134,8 +134,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 50)
   - LRM 20 × 2 (ammo: 24)
+  - SRM 4 × 2 (ammo: 50)
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
@@ -150,8 +150,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
   - Clan LRM 20 × 2 (ammo: 24)
+  - Clan ER Medium Laser × 4
 - **Source:** Clan Invasion
 - **Battle Value:** 1811
 
@@ -163,8 +163,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 15 w/ Artemis IV × 4 (ammo: 48)
+  - Medium Laser × 2
 - **Source:** Clan Invasion
 - **Battle Value:** 1609
 
@@ -176,13 +176,13 @@
 - **Armor:** 211 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Large Laser × 2
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+  - ER Large Laser × 2
   - Small Pulse Laser × 2
 - **Equipment:**
   - ECM Suite
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** Clan Invasion
 - **Battle Value:** 2365
 
@@ -194,9 +194,9 @@
 - **Armor:** 217
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 2 × 2 (ammo: 100)
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - Medium Laser × 2
+  - Streak SRM 2 × 2 (ammo: 100)
   - ER Small Laser
 - **Equipment:**
   - CASE
@@ -242,9 +242,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 3
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
   - ER Large Laser
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -258,9 +258,9 @@
 - **Armor:** 217 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 2 × 2 (ammo: 100)
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
   - ER Medium Laser
+  - Streak SRM 2 × 2 (ammo: 100)
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -291,8 +291,8 @@
 - **Armor:** 186 (Light Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC × 2
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
+  - Light PPC × 2
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
@@ -307,11 +307,11 @@
 - **Armor:** 168
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Large Laser × 2
   - LRM 15 w/ Artemis IV × 2 (ammo: 24)
+  - ER Large Laser × 2
 - **Equipment:**
-  - Void-Signature System
   - Angel ECM Suite
+  - Void-Signature System
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 1774
@@ -324,8 +324,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 4
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -340,8 +340,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Light PPC × 2
-  - MML 5 × 4 (ammo: 72 LRM, 60 SRM)
   - ER Medium Laser
+  - MML 5 × 4 (ammo: 72 LRM, 60 SRM)
 - **Equipment:**
   - C3 Boosted Slave
 - **Source:** RS 3145 NTNU
@@ -355,8 +355,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Clan ER Medium Laser × 4
   - Clan LRM 20 w/ Artemis V × 2 (ammo: 24)
+  - Clan ER Medium Laser × 4
 - **Equipment:**
   - CASE II
   - Targeting Computer
@@ -370,8 +370,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ELRM 15 × 2 (ammo: 36)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE II
   - C3 Slave

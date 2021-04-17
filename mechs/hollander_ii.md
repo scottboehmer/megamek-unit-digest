@@ -7,9 +7,9 @@
 - **Armor:** 107 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - Medium Laser
   - Streak SRM 2 (ammo: 50)
-  - Gauss Rifle (ammo: 16)
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1214
 

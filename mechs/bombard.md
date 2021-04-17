@@ -22,8 +22,8 @@
   - Thunderbolt 15 × 2 (ammo: 24)
   - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Spikes × 2
+  - CASE
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1019
 

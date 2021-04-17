@@ -7,9 +7,9 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Claw × 2
-  - Small Laser × 2
   - Medium Laser
+  - Small Laser × 2
+  - Claw × 2
 - **Equipment:**
   - MASC
 - **Source:** TRO 3055 - Clan Invasion
@@ -23,9 +23,9 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Claw × 2
   - ER Medium Laser × 3
   - ER Small Laser × 2
+  - Claw × 2
 - **Equipment:**
   - MASC
 - **Source:** TRO 3055 - Clan Invasion
@@ -40,9 +40,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Claw × 2
   - ER Medium Laser × 3
   - ER Small Laser × 2
+  - Claw × 2
 - **Equipment:**
   - MASC
   - Targeting Computer
@@ -58,9 +58,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Claw × 2
   - ER Medium Laser × 3
   - ER Small Laser × 2
+  - Claw × 2
 - **Equipment:**
   - MASC
 - **Source:** TRO 3055 - Civil War
@@ -75,9 +75,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Claw × 2
   - ER Medium Laser × 3
   - ER Small Laser × 2
+  - Claw × 2
 - **Equipment:**
   - MASC
 - **Source:** TRO 3055 - Civil War
@@ -93,8 +93,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance
   - Medium Pulse Laser × 4
+  - Lance
 - **Equipment:**
   - Supercharger
 - **Source:** TRO 3055 - Civil War

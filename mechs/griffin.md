@@ -53,8 +53,8 @@
 - **Armor:** 168
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - Medium Laser × 5
   - PPC
+  - Medium Laser × 5
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1449
 
@@ -67,8 +67,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser
   - LRM 20 (ammo: 12)
+  - Large Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -84,8 +84,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
-  - Small Laser
   - LRM 20 (ammo: 12)
+  - Small Laser
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -101,8 +101,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Light Gauss Rifle (ammo: 16)
-  - Small Laser
   - LRM 10 (ammo: 12)
+  - Small Laser
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -117,9 +117,9 @@
 - **Armor:** 185
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -134,12 +134,12 @@
 - **Armor:** 160
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - ER Medium Laser × 2
 - **Equipment:**
-  - C3i
   - Guardian ECM Suite
+  - C3i
   - CASE
 - **Source:** Civil War
 - **Battle Value:** 1695
@@ -153,8 +153,8 @@
 - **Armor:** 184 (Stealth)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Laser × 3
   - Plasma Rifle (ammo: 20)
+  - Medium Laser × 3
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - Guardian ECM Suite
@@ -170,10 +170,10 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Snub-Nose PPC
-  - Small Laser
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - ER Medium Laser × 3
+  - Small Laser
 - **Equipment:**
   - CASE
 - **Source:** Starterbook: Wolf & Blake - Jihad
@@ -189,8 +189,8 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Light PPC
   - LRM 10 (ammo: 12)
+  - Light PPC
   - ER Medium Laser
 - **Equipment:**
   - CASE
@@ -206,9 +206,9 @@
 - **Armor:** 184 (Laser Reflective)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Snub-Nose PPC
   - LRM 15 (ammo: 16)
+  - ER Medium Laser × 3
 - **Equipment:**
   - Supercharger
   - CASE

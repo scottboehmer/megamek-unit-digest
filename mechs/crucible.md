@@ -25,8 +25,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC × 2
-  - LRM 15 w/ Artemis V × 2 (ammo: 32)
   - Gauss Rifle × 2 (ammo: 32)
+  - LRM 15 w/ Artemis V × 2 (ammo: 32)
 - **Equipment:**
   - CASE
   - Inner Sphere Coolant Pod

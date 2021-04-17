@@ -52,8 +52,8 @@
   - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
   - C3i
   - TAG
 - **Source:** Civil War
@@ -72,8 +72,8 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
-  - TAG
   - A-Pod × 2
+  - TAG
 - **Source:** Civil War
 - **Battle Value:** 855
 
@@ -135,8 +135,8 @@
 - **Weapons:**
   - Medium X-Pulse Laser
 - **Equipment:**
-  - Bloodhound Active Probe
   - Angel ECM Suite
+  - Bloodhound Active Probe
 - **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 894
 

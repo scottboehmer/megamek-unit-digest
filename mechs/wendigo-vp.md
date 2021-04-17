@@ -9,8 +9,8 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - ER PPC
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**

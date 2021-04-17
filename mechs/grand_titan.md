@@ -8,9 +8,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - LRM 15 w/ Artemis IV (ammo: 16)
-  - Medium Pulse Laser × 2
   - Large Pulse Laser × 2
   - SRM 6 w/ Artemis IV × 2 (ammo: 30)
+  - Medium Pulse Laser × 2
   - Small Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
@@ -25,14 +25,14 @@
 - **Armor:** 288
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 16)
   - ER PPC
-  - Medium Pulse Laser × 4
+  - Light Gauss Rifle (ammo: 16)
   - Streak SRM 4 × 2 (ammo: 25)
+  - Medium Pulse Laser × 4
   - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2053
 
@@ -69,8 +69,8 @@
   - Heavy PPC
   - ER Large Laser
   - ER Medium Laser × 2
-  - Sword
   - Medium Laser × 2
+  - Sword
   - Small Pulse Laser
 - **Equipment:**
   - Armored Actuator × 16

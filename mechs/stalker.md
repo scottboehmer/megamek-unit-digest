@@ -7,10 +7,10 @@
 - **Armor:** 216
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - LRM 10 × 2 (ammo: 24)
-  - Medium Laser × 4
   - Large Laser × 2
+  - LRM 10 × 2 (ammo: 24)
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1559
 
@@ -23,8 +23,8 @@
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
   - LRM 20 × 2 (ammo: 12)
-  - Medium Laser × 4
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1624
 
@@ -37,11 +37,11 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 24)
-  - Medium Laser × 4
   - ER Large Laser × 2
+  - Medium Laser × 4
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Battle Value:** 2029
 
 ## Stalker STK-3Fk
@@ -52,9 +52,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
+  - Large Laser × 2
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Laser × 4
-  - Large Laser × 2
   - Streak SRM 2 × 4 (ammo: 100)
 - **Source:** ER 2750 - Star League
 - **Battle Value:** 1742
@@ -67,10 +67,10 @@
 - **Armor:** 216
 - **Heat Sinks:** 26 (26)
 - **Weapons:**
-  - Medium Laser × 4
-  - LRM 10 (ammo: 12)
   - Large Laser × 2
+  - LRM 10 (ammo: 12)
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1558
 
@@ -82,10 +82,10 @@
 - **Armor:** 216
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Medium Laser × 4
-  - LRM 10 (ammo: 12)
   - Large Laser × 2
+  - LRM 10 (ammo: 12)
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1461
 
@@ -97,9 +97,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 26 (26)
 - **Weapons:**
-  - Medium Laser × 4
   - Large Laser × 2
   - SRM 6 × 4 (ammo: 30)
+  - Medium Laser × 4
 - **Battle Value:** 1570
 
 ## Stalker STK-5M
@@ -110,11 +110,11 @@
 - **Armor:** 232
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - LRM 10 × 2 (ammo: 48)
-  - Medium Laser × 4
-  - SRM 6 × 2 (ammo: 30)
-  - Narc (ammo: 12)
   - ER Large Laser
+  - LRM 10 × 2 (ammo: 48)
+  - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 4
+  - Narc (ammo: 12)
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1655
 
@@ -126,10 +126,10 @@
 - **Armor:** 216
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - LRM 10 × 2 (ammo: 24)
-  - Medium Laser × 4
   - Large Pulse Laser × 2
+  - LRM 10 × 2 (ammo: 24)
   - SRM 6 × 2 (ammo: 30)
+  - Medium Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
@@ -144,10 +144,10 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Clan LRM 20 × 2 (ammo: 12)
-  - Clan ER Medium Laser × 4
   - Clan Large Pulse Laser × 2
+  - Clan LRM 20 × 2 (ammo: 12)
   - Clan Streak SRM 6 × 2 (ammo: 30)
+  - Clan ER Medium Laser × 4
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2635
 
@@ -160,8 +160,8 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 48)
-  - ER Medium Laser × 5
   - ER Large Laser
+  - ER Medium Laser × 5
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -175,8 +175,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Streak SRM 4 × 2 (ammo: 25)
   - ER PPC × 2
+  - Streak SRM 4 × 2 (ammo: 25)
   - Medium Pulse Laser × 4
   - Small Laser
 - **Equipment:**
@@ -193,10 +193,10 @@
 - **Armor:** 216
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER PPC × 2
-  - Medium Pulse Laser × 2
-  - ER Medium Laser × 2
   - Heavy Gauss Rifle (ammo: 8)
+  - ER PPC × 2
+  - ER Medium Laser × 2
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1977
 
@@ -208,9 +208,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
-  - Medium Pulse Laser × 4
   - ER PPC × 2
+  - Medium Pulse Laser × 4
+  - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
   - Small VSP Laser
 - **Equipment:**
   - C3 Boosted Slave

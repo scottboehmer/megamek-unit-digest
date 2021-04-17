@@ -8,8 +8,8 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 (ammo: 15)
   - ER Medium Laser × 5
+  - SRM 6 (ammo: 15)
   - Machine Gun (ammo: 100)
 - **Source:** TRO 3067
 - **Battle Value:** 1138

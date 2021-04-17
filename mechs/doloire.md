@@ -7,12 +7,12 @@
 - **Armor:** 232
 - **Heat Sinks:** 12 (32)
 - **Weapons:**
-  - Clan ER Medium Laser × 2
-  - Clan Large Pulse Laser × 2
   - Clan Gauss Rifle (ammo: 16)
+  - Clan Large Pulse Laser × 2
+  - Clan ER Medium Laser × 2
 - **Equipment:**
-  - AES × 2
   - Angel ECM Suite
+  - AES × 2
 - **Source:** TRO 3145 Republic of the Sphere - Late Republic
 - **Battle Value:** 2561
 
@@ -24,8 +24,8 @@
 - **Armor:** 232
 - **Heat Sinks:** 12 (32)
 - **Weapons:**
-  - Clan ER Medium Laser × 3
   - Plasma Rifle × 2 (ammo: 30)
+  - Clan ER Medium Laser × 3
   - Clan SRM 6 × 2 (ammo: 60)
 - **Equipment:**
   - AES × 2
@@ -42,9 +42,9 @@
 - **Armor:** 232
 - **Heat Sinks:** 12 (34)
 - **Weapons:**
-  - Clan ER Medium Laser × 2
   - Clan ER PPC × 2
   - RAC/5 (ammo: 80)
+  - Clan ER Medium Laser × 2
 - **Equipment:**
   - AES × 2
   - CASE II
@@ -59,11 +59,11 @@
 - **Armor:** 232
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Clan ER Medium Laser × 2
-  - Lance
   - Clan LRM 20 w/ Artemis V (ammo: 18)
-  - Clan ER Small Pulse Laser
   - Clan Streak SRM 6 × 3 (ammo: 30)
+  - Clan ER Medium Laser × 2
+  - Clan ER Small Pulse Laser
+  - Lance
 - **Equipment:**
   - AES × 2
   - C3 Master
@@ -79,10 +79,10 @@
 - **Armor:** 232
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Clan ER Medium Laser × 2
-  - Large Vibroblade
-  - Clan Streak SRM 4 × 4 (ammo: 50)
   - TSEMP × 2
+  - Clan ER Medium Laser × 2
+  - Clan Streak SRM 4 × 4 (ammo: 50)
+  - Large Vibroblade
   - Clan ER Micro Laser × 2
 - **Equipment:**
   - AES × 2
@@ -99,8 +99,8 @@
 - **Armor:** 232
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Clan Large Pulse Laser × 2
   - Clan Gauss Rifle (ammo: 16)
+  - Clan Large Pulse Laser × 2
   - Clan ER Medium Laser × 2
 - **Equipment:**
   - AES × 2

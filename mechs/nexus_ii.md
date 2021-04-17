@@ -25,8 +25,8 @@
 - **Weapons:**
   - ER Medium Laser × 2
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
   - C3i
   - TAG
 - **Source:** TRO 3055 - Civil War

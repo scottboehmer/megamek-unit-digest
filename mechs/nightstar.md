@@ -8,8 +8,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 56)
-  - Medium Pulse Laser × 2
   - ER PPC
+  - Medium Pulse Laser × 2
   - Small Laser
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 2399
@@ -22,9 +22,9 @@
 - **Armor:** 293
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - ER PPC
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Medium Laser × 3
-  - ER PPC
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -53,9 +53,9 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Clan ER PPC
   - Clan Gauss Rifle × 2 (ammo: 32)
   - Clan Large Pulse Laser
-  - Clan ER PPC
   - Clan ER Small Laser
 - **Equipment:**
   - Angel ECM Suite
@@ -89,9 +89,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - Clan ER PPC
   - Clan ER Large Laser × 2
   - Light Gauss Rifle × 2 (ammo: 64)
-  - Clan ER PPC
   - Medium X-Pulse Laser
 - **Equipment:**
   - Coolant Pod × 2

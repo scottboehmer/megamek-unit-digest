@@ -24,8 +24,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Large Laser
-  - Sniper (ammo: 20)
   - LRM 10 (ammo: 12)
+  - Sniper (ammo: 20)
   - SRM 6 (ammo: 15)
   - Medium Laser
 - **Equipment:**
@@ -42,8 +42,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - Sniper (ammo: 20)
   - LRM 10 (ammo: 12)
+  - Sniper (ammo: 20)
   - SRM 6 (ammo: 15)
   - Medium Laser
 - **Equipment:**
@@ -61,9 +61,9 @@
 - **Weapons:**
   - ER Large Laser
   - Sniper (ammo: 20)
-  - LRM 5 × 2 (ammo: 24)
   - SRM 6 (ammo: 15)
   - Medium Laser
+  - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075

@@ -7,10 +7,10 @@
 - **Armor:** 232
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - PPC
   - SRM 6 (ammo: 30)
   - Medium Laser × 6
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1519
 
@@ -22,10 +22,10 @@
 - **Armor:** 232
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - PPC
   - SRM 6 (ammo: 30)
   - Medium Laser × 4
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - Command Console
 - **Source:** TRO 3039 - Succession Wars
@@ -40,8 +40,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - PPC × 2
-  - Streak SRM 2 × 3 (ammo: 50)
   - Medium Laser × 4
+  - Streak SRM 2 × 3 (ammo: 50)
 - **Source:** ER 2750
 - **Battle Value:** 1712
 
@@ -54,8 +54,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Laser × 4
   - Large Pulse Laser
+  - Medium Laser × 4
 - **Source:** TRO 3075
 - **Battle Value:** 1825
 
@@ -83,8 +83,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Laser × 4
   - Large Pulse Laser
+  - Medium Laser × 4
 - **Equipment:**
   - Command Console
 - **Source:** TRO 3075
@@ -114,9 +114,9 @@
 - **Armor:** 248
 - **Heat Sinks:** 24 (24)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - PPC
   - Medium Laser × 4
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1522
 
@@ -132,9 +132,9 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
 - **Equipment:**
-  - Command Console
   - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
+  - Command Console
 - **Source:** Succession Wars
 - **Battle Value:** 1563
 
@@ -147,9 +147,9 @@
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
   - LRM 15 (ammo: 8)
-  - SRM 2 × 2 (ammo: 50)
   - Medium Laser × 4
   - LRM 5 (ammo: 24)
+  - SRM 2 × 2 (ammo: 50)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1507
 
@@ -161,10 +161,10 @@
 - **Armor:** 232
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
   - ER PPC
   - SRM 6 (ammo: 30)
   - Medium Laser × 6
+  - Machine Gun (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -194,10 +194,10 @@
 - **Armor:** 232
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Machine Gun (ammo: 200)
   - ER PPC
   - SRM 6 (ammo: 30)
   - Medium Laser × 4
+  - Machine Gun (ammo: 200)
 - **Equipment:**
   - Command Console
   - CASE
@@ -213,8 +213,8 @@
 - **Heat Sinks:** 21 (42)
 - **Weapons:**
   - ER PPC × 2
-  - Medium Pulse Laser × 6
   - Large Pulse Laser
+  - Medium Pulse Laser × 6
 - **Equipment:**
   - Command Console
 - **Battle Value:** 2745
@@ -227,8 +227,8 @@
 - **Armor:** 259 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Medium Laser × 6
   - ER PPC
+  - Medium Laser × 6
   - Streak SRM 2 × 7 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -242,11 +242,11 @@
 - **Armor:** 241 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - Gauss Rifle (ammo: 24)
   - SRM 6 w/ Artemis IV (ammo: 30)
   - ER Medium Laser × 4
   - Medium Laser × 2
+  - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -278,10 +278,10 @@
 - **Armor:** 256
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - ER Medium Laser × 4
   - ER PPC
   - ER Large Laser × 2
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
   - C3 Master
@@ -296,8 +296,8 @@
 - **Armor:** 232
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 16)
   - ER Large Laser
+  - Light Gauss Rifle (ammo: 16)
   - ER Medium Laser × 6
 - **Source:** Civil War
 - **Battle Value:** 1766
@@ -316,9 +316,9 @@
   - Streak SRM 4 (ammo: 25)
   - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
   - B-Pod × 2
+  - CASE
 - **Battle Value:** 1927
 
 ## BattleMaster BLR-4S (Calvin)
@@ -329,11 +329,11 @@
 - **Armor:** 241 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Light PPC × 2
   - RAC/5 (ammo: 40)
+  - Streak SRM 6 (ammo: 15)
+  - Light PPC × 2
   - ER Medium Laser × 4
   - Medium Laser × 2
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** Starterbook: Wolf & Blake - Jihad
@@ -347,9 +347,9 @@
 - **Armor:** 263 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Light Gauss Rifle (ammo: 16)
   - Light PPC × 2
+  - Medium Pulse Laser × 2
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
@@ -366,9 +366,9 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - HAG 30 (ammo: 16)
-  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - Medium Pulse Laser × 4
   - ER Medium Laser × 2
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -383,11 +383,11 @@
 - **Armor:** 224 (Laser Reflective)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Light PPC × 2
   - RAC/5 (ammo: 40)
+  - Streak SRM 6 (ammo: 15)
+  - Light PPC × 2
   - ER Medium Laser × 4
   - Machine Gun × 2 (ammo: 100)
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** Starterbook: Wolf & Blake - Jihad
@@ -407,10 +407,10 @@
   - Streak SRM 4 (ammo: 25)
   - ER Small Laser
 - **Equipment:**
-  - C3 Slave
-  - CASE
   - Guardian ECM Suite
   - B-Pod × 2
+  - C3 Slave
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 1927
 
@@ -424,9 +424,9 @@
 - **Gyroscope:** Heavy-Duty Gyro
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Pulse Laser
-  - Snub-Nose PPC
   - Gauss Rifle (ammo: 16)
+  - Snub-Nose PPC
+  - Large Pulse Laser
   - ER Medium Laser × 2
 - **Source:** Jihad
 - **Battle Value:** 2232
@@ -441,8 +441,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Light Gauss Rifle (ammo: 32)
-  - MML 7 (ammo: 34 LRM, 14 SRM)
   - Light PPC × 2
+  - MML 7 (ammo: 34 LRM, 14 SRM)
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
@@ -457,9 +457,9 @@
 - **Armor:** 248
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small X-Pulse Laser × 2
   - Streak SRM 6 (ammo: 15)
   - Light AC/5 × 4 (ammo: 80)
+  - Small X-Pulse Laser × 2
   - ER Small Laser × 2
 - **Equipment:**
   - Command Console
@@ -475,10 +475,10 @@
 - **Armor:** 248
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Small X-Pulse Laser × 2
   - Heavy PPC
   - Streak SRM 6 (ammo: 15)
   - Light PPC × 4
+  - Small X-Pulse Laser × 2
   - ER Small Laser × 2
 - **Equipment:**
   - CASE II
@@ -493,10 +493,10 @@
 - **Armor:** 232
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 100)
   - ER PPC
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 6
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
   - Targeting Computer

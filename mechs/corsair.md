@@ -7,11 +7,11 @@
 - **Armor:** 256
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - SRM 6 (ammo: 30)
-  - Large Laser
-  - Medium Laser × 3
-  - AC/10 (ammo: 30)
   - LRM 15 (ammo: 16)
+  - Large Laser
+  - AC/10 (ammo: 30)
+  - SRM 6 (ammo: 30)
+  - Medium Laser × 3
 - **Battle Value:** 1704
 
 ## Corsair COR-5T
@@ -22,8 +22,8 @@
 - **Armor:** 256
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - AC/2 × 6 (ammo: 270)
   - Medium Laser × 4
+  - AC/2 × 6 (ammo: 270)
 - **Battle Value:** 1454
 
 ## Corsair COR-6R
@@ -34,14 +34,14 @@
 - **Armor:** 240
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
+  - LRM 15 (ammo: 8)
   - Large Laser
+  - AC/10 (ammo: 20)
   - LRM 10 (ammo: 12)
   - Medium Laser
-  - Machine Gun (ammo: 200)
   - SRM 2 (ammo: 50)
-  - AC/10 (ammo: 20)
-  - LRM 15 (ammo: 8)
   - Small Laser
+  - Machine Gun (ammo: 200)
 - **Battle Value:** 1636
 
 ## Corsair COR-RA Ravager
@@ -53,10 +53,10 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - Medium Laser × 3
   - Large Laser × 2
-  - Ultra AC/5 (ammo: 40)
   - Large Pulse Laser
+  - Ultra AC/5 (ammo: 40)
+  - Medium Laser × 3
 - **Battle Value:** 2122
 
 ## Corsair COR-7A
@@ -67,10 +67,10 @@
 - **Armor:** 256
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
-  - AC/5 × 2 (ammo: 40)
   - PPC
-  - Medium Laser × 2
   - Large Laser
+  - AC/5 × 2 (ammo: 40)
+  - Medium Laser × 2
 - **Equipment:**
   - Anti-Missile System × 4 (ammo: 48)
 - **Battle Value:** 1805
@@ -83,9 +83,9 @@
 - **Armor:** 280
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Rocket 20 × 2
-  - Large Laser × 2
   - AC/20 (ammo: 25)
+  - Large Laser × 2
+  - Rocket 20 × 2
   - Rocket 10 × 3
 - **Battle Value:** 1781
 

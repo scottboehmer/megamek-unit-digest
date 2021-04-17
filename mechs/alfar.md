@@ -8,9 +8,9 @@
 - **Armor:** 179 (Ferro Fibrous)
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Medium Laser × 3
   - PPC
   - SRM 6 (ammo: 15)
+  - Medium Laser × 3
 - **Source:** Hist:Reunification War
 - **Battle Value:** 1447
 

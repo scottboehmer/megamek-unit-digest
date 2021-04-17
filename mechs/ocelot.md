@@ -8,8 +8,8 @@
 - **Armor:** 119 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Heavy Large Laser
+  - ER Medium Laser × 2
 - **Equipment:**
   - Light Active Probe
 - **Source:** TRO 3075
@@ -24,8 +24,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER PPC
+  - ER Medium Laser × 2
 - **Source:** TRO 3075
 - **Battle Value:** 1734
 
@@ -38,12 +38,12 @@
 - **Armor:** 119 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - ER Large Laser
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - ECM Suite
-  - Targeting Computer
   - Light Active Probe
+  - Targeting Computer
 - **Source:** TRO 3075
 - **Battle Value:** 1594
 
@@ -56,8 +56,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Large Pulse Laser
+  - Medium Pulse Laser × 2
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1468
 

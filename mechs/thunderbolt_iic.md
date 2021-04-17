@@ -8,8 +8,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Improved Heavy Large Laser × 2
-  - ER Medium Laser × 3
   - Streak LRM 15 (ammo: 16)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE II
 - **Battle Value:** 2475

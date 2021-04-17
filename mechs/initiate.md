@@ -7,10 +7,10 @@
 - **Armor:** 136
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
-  - ER Small Laser × 3
   - LRM 15 (ammo: 8)
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
+  - ER Small Laser × 3
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
@@ -27,8 +27,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC × 2
-  - Small Pulse Laser × 3
   - MML 7 (ammo: 17 LRM, 14 SRM)
+  - Small Pulse Laser × 3
 - **Equipment:**
   - C3i
   - CASE

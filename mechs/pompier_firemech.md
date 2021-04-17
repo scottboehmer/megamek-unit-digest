@@ -24,9 +24,9 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
-  - Liquid Cargo × 4
   - Searchlight
   - Mech Sprayer
+  - Liquid Cargo × 4
 - **Source:** TRO VA - Clan Invasion
 - **Battle Value:** unknown
 
@@ -38,11 +38,11 @@
 - **Armor:** 24
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
-  - Enviro-Sealing
   - Beagle Active Probe
-  - Liquid Cargo
   - Searchlight
   - Mech Sprayer
+  - Enviro-Sealing
+  - Liquid Cargo
 - **Source:** TRO VA - Civil War
 - **Battle Value:** unknown
 
@@ -54,9 +54,9 @@
 - **Armor:** 12 (Commercial)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 100)
   - Flamer
   - Fluid Gun (ammo: 20)
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Supercharger
 - **Source:** XTRO Most Wanted - Jihad

@@ -8,9 +8,9 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER Large Laser × 2
-  - Medium Laser × 2
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser
+  - Medium Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1795
 
@@ -23,9 +23,9 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Large Laser × 2
-  - Medium Laser × 2
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser
+  - Medium Laser × 2
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1748
 
@@ -52,8 +52,8 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Snub-Nose PPC × 2
-  - Medium Laser × 2
   - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad

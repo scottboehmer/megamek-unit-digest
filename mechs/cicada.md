@@ -46,8 +46,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - Ultra AC/5 (ammo: 20)
+  - Medium Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -63,8 +63,8 @@
 - **Armor:** 116 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - ER PPC
+  - Medium Laser × 2
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1329
 

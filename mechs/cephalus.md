@@ -7,11 +7,11 @@
 - **Armor:** 84+30 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Equipment:**
+  - Nova CEWS
+  - Laser Anti-Missile System × 2
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-  - Nova CEWS
   - Light TAG
-  - Laser Anti-Missile System × 2
   - Modular Armor × 3
 - **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1038
@@ -25,11 +25,11 @@
 - **Armor:** 84 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Equipment:**
+  - Nova CEWS
+  - Laser Anti-Missile System
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-  - Nova CEWS
   - TAG
-  - Laser Anti-Missile System
 - **Source:** WoR - Jihad Supplement
 - **Battle Value:** 809
 
@@ -43,9 +43,9 @@
 - **Weapons:**
   - Inner Sphere BattleMech Taser (ammo: 5)
 - **Equipment:**
+  - Nova CEWS
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-  - Nova CEWS
   - CASE
   - Light TAG
 - **Source:** WoR - Jihad Supplement
@@ -62,9 +62,9 @@
   - Plasma Cannon (ammo: 20)
   - Flamer
 - **Equipment:**
+  - Nova CEWS
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-  - Nova CEWS
 - **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1209
 
@@ -79,9 +79,9 @@
   - Improved Heavy Large Laser
   - Improved Heavy Small Laser × 3
 - **Equipment:**
+  - Nova CEWS
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-  - Nova CEWS
 - **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1460
 
@@ -95,9 +95,9 @@
 - **Weapons:**
   - ER Large Laser
 - **Equipment:**
+  - Nova CEWS
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-  - Nova CEWS
   - Light TAG
 - **Source:** WoR - Jihad Supplement
 - **Battle Value:** 1284
@@ -113,9 +113,9 @@
 - **Weapons:**
   - LRT 5 (ammo: 24)
 - **Equipment:**
+  - Nova CEWS
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-  - Nova CEWS
   - CASE
 - **Source:** WoR - Jihad Supplement
 - **Battle Value:** 878

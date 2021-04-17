@@ -8,8 +8,8 @@
 - **Armor:** 48
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - Medium Laser
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 359
 
@@ -48,8 +48,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer
   - Medium Laser
+  - Flamer
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** Clan Invasion
@@ -119,8 +119,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Light Machine Gun × 2 (ammo: 100)
   - ER Medium Laser
+  - Light Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - MASC
 - **Source:** Jihad

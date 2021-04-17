@@ -8,13 +8,13 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER PPC
-  - Hatchet
   - Large Pulse Laser × 2
+  - Hatchet
   - Flamer
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+  - MASC
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2117
 
@@ -27,13 +27,13 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER PPC
-  - Hatchet
   - LRM 10 × 2 (ammo: 48)
+  - Hatchet
   - Flamer
 - **Equipment:**
-  - MASC
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+  - MASC
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2020
 
@@ -47,13 +47,13 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER PPC
-  - Hatchet
   - ER Medium Laser × 6
+  - Hatchet
   - Flamer
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
+  - C3 Slave
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2395
 
@@ -69,8 +69,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Bombast Laser
-  - Hatchet
   - Clan ER Medium Laser × 4
+  - Hatchet
   - Flamer
 - **Equipment:**
   - Angel ECM Suite

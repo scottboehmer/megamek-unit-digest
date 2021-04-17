@@ -199,8 +199,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - PPC
-  - Rocket 20 × 8
   - Medium Laser × 2
+  - Rocket 20 × 8
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1473
 

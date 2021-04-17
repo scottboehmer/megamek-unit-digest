@@ -10,8 +10,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Sword
   - ER Large Laser
+  - Sword
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Dark Age

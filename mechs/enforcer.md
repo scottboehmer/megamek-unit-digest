@@ -40,8 +40,8 @@
 - **Armor:** 161 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 24)
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - CASE

@@ -8,9 +8,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - MML 5 × 2 (ammo: 20 SRM, 24 LRM)
   - Heavy PPC
   - Medium Re-Engineered Laser × 2
+  - MML 5 × 2 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - CASE II
 - **Source:** Dark Age
@@ -26,8 +26,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - Medium X-Pulse Laser × 2
   - ER PPC
+  - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE II
 - **Source:** Dark Age
@@ -42,9 +42,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - ER PPC
   - LRM 15 × 2 (ammo: 32)
   - ER Small Laser × 2
-  - ER PPC
 - **Equipment:**
   - CASE II
 - **Source:** Dark Age
@@ -59,9 +59,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - MML 5 × 2 (ammo: 48 LRM, 20 SRM)
-  - ER Medium Laser × 3
   - Thunderbolt 15 (ammo: 16)
+  - ER Medium Laser × 3
+  - MML 5 × 2 (ammo: 48 LRM, 20 SRM)
 - **Equipment:**
   - CASE II
 - **Source:** Dark Age
@@ -76,9 +76,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
-  - Clan SRM 6 × 2 (ammo: 15)
   - Clan ER PPC
   - Clan ER Large Laser × 2
+  - Clan SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE II
   - Clan Targeting Computer

@@ -8,9 +8,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Machine Gun × 4 (ammo: 100)
   - ER Medium Laser × 3
   - Ultra AC/2 × 2 (ammo: 90)
+  - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars
@@ -25,10 +25,10 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Machine Gun × 4 (ammo: 100)
   - Large Pulse Laser
   - Medium Pulse Laser × 3
   - Streak SRM 2 × 2 (ammo: 50)
+  - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -44,9 +44,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Machine Gun × 4 (ammo: 100)
-  - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 20)
+  - Medium Pulse Laser × 2
+  - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -62,9 +62,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Machine Gun × 4 (ammo: 100)
-  - Medium Pulse Laser × 4
   - LRM 20 w/ Artemis IV (ammo: 18)
+  - Medium Pulse Laser × 4
+  - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -80,9 +80,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ATM 3 (ammo: 20)
   - ER PPC
   - Heavy Medium Laser × 3
+  - ATM 3 (ammo: 20)
   - SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
@@ -98,9 +98,9 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - ER Small Laser × 3
   - ER Medium Laser × 4
   - ATM 6 × 2 (ammo: 20 Standard, 10 HE, 10 ER)
+  - ER Small Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Civil War
@@ -114,14 +114,14 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Plasma Cannon (ammo: 10)
   - ER PPC
+  - Plasma Cannon (ammo: 10)
   - Micro Pulse Laser × 10
 - **Equipment:**
+  - Inner Sphere A-Pod × 2
   - MASC
   - Targeting Computer
   - Supercharger
-  - Inner Sphere A-Pod × 2
 - **Source:** Dark Age
 - **Battle Value:** 2876
 

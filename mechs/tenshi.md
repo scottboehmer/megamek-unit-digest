@@ -27,8 +27,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Large VSP Laser × 3
   - MRM 30 w/ Apollo FCS (ammo: 16)
+  - Large VSP Laser × 3
 - **Equipment:**
   - CASE II
   - Coolant Pod × 2
@@ -45,10 +45,10 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Streak SRM 6 × 2 (ammo: 30)
   - TSEMP × 2
-  - Medium Pulse Laser × 2
   - Heavy PPC
+  - Streak SRM 6 × 2 (ammo: 30)
+  - Medium Pulse Laser × 2
 - **Source:** TRO 3145 Draconis Combine - Late Republic
 - **Battle Value:** 3002
 
@@ -61,8 +61,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Clan ER Medium Laser × 5
   - ELRM 20 × 2 (ammo: 24)
+  - Clan ER Medium Laser × 5
 - **Source:** TRO 3145 Draconis Combine - Late Republic
 - **Battle Value:** 2183
 

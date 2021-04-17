@@ -9,10 +9,10 @@
 - **Weapons:**
   - ER Large Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - Beagle Active Probe
   - MASC
   - C3i
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** 1085
 
@@ -26,10 +26,10 @@
 - **Weapons:**
   - ER Large Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - Beagle Active Probe
   - MASC
   - Targeting Computer
-  - Guardian ECM Suite
   - C3 Slave
 - **Source:** TRO 3075
 - **Battle Value:** 1237

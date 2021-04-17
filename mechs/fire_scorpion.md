@@ -27,9 +27,9 @@
   - LRM 10 × 2 (ammo: 24)
   - Machine Gun × 4 (ammo: 200)
 - **Equipment:**
+  - Active Probe
   - A-Pod × 4
   - CASE
-  - Active Probe
 - **Source:** TRO 3060
 - **Battle Value:** 1749
 
@@ -45,9 +45,9 @@
   - Ultra AC/20 (ammo: 20)
   - AP Gauss Rifle × 4 (ammo: 80)
 - **Equipment:**
+  - Active Probe
   - CASE
   - Targeting Computer
-  - Active Probe
 - **Source:** TRO 3060
 - **Battle Value:** 1904
 

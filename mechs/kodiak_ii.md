@@ -7,10 +7,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-  - ER Small Laser × 8
-  - LRM 10 w/ Artemis IV (ammo: 12)
   - ER PPC
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
+  - LRM 10 w/ Artemis IV (ammo: 12)
+  - ER Small Laser × 8
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -25,9 +25,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
+  - ER PPC
   - Streak LRM 20 × 2 (ammo: 24)
   - ER Small Laser × 8
-  - ER PPC
 - **Equipment:**
   - HarJel III × 3
   - CASE II

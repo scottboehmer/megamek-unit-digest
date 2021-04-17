@@ -7,8 +7,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Large Laser
   - RAC/5 (ammo: 40)
+  - ER Large Laser
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Source:** Jihad
 - **Battle Value:** 1453
@@ -21,8 +21,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large X-Pulse Laser
   - RAC/5 (ammo: 40)
+  - Large X-Pulse Laser
   - LRM 10 (ammo: 12)
 - **Source:** Dark Age
 - **Battle Value:** 1449
@@ -36,8 +36,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser
   - Ultra AC/10 (ammo: 20)
+  - ER Large Laser
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
@@ -53,8 +53,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Thumper Cannon (ammo: 0)
   - Ultra AC/10 (ammo: 20)
+  - Thumper Cannon (ammo: 0)
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NT NU

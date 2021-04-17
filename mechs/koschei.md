@@ -35,8 +35,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Medium Laser × 2
   - Medium Pulse Laser × 2
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -68,9 +68,9 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - RAC/5 (ammo: 60)
+  - Snub-Nose PPC
   - ER Large Laser
   - ER Small Laser × 5
-  - Snub-Nose PPC
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -87,8 +87,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Heavy PPC
-  - ER Small Laser × 5
   - Snub-Nose PPC
+  - ER Small Laser × 5
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3075
@@ -104,10 +104,10 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Claw × 2
-  - ER Medium Laser × 2
   - Large Pulse Laser
+  - ER Medium Laser × 2
   - Medium Pulse Laser
+  - Claw × 2
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3075

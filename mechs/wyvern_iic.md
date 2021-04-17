@@ -8,13 +8,13 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
-  - ER Small Laser × 2
-  - Machine Gun × 2 (ammo: 200)
-  - SRM 6 (ammo: 30)
   - LRM 10 (ammo: 24)
+  - ER Medium Laser × 2
+  - SRM 6 (ammo: 30)
+  - ER Small Laser × 2
   - Flamer
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -29,12 +29,12 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - Heavy Large Laser
+  - ATM 9 (ammo: 14)
+  - Heavy Medium Laser × 2
+  - ER Flamer
   - Heavy Small Laser × 2
   - Light Machine Gun × 3 (ammo: 200)
-  - ATM 9 (ammo: 14)
-  - ER Flamer
 - **Equipment:**
   - Machine Gun Array
   - CASE

@@ -20,8 +20,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 28 (28)
 - **Weapons:**
-  - Large Laser
   - LRM 15 × 2 (ammo: 16)
+  - Large Laser
   - Small Laser
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1470
@@ -34,8 +34,8 @@
 - **Armor:** 240
 - **Heat Sinks:** 23 (23)
 - **Weapons:**
-  - Large Laser × 2
   - LRM 15 × 2 (ammo: 16)
+  - Large Laser × 2
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1593
@@ -49,8 +49,8 @@
 - **Heat Sinks:** 28 (28)
 - **Weapons:**
   - PPC
-  - Large Laser
   - LRM 15 (ammo: 16)
+  - Large Laser
   - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1510
@@ -63,9 +63,9 @@
 - **Armor:** 247
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Streak SRM 2 × 2 (ammo: 50)
   - ER PPC × 3
   - Medium Pulse Laser
+  - Streak SRM 2 × 2 (ammo: 50)
   - Small Pulse Laser
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1812
@@ -78,11 +78,11 @@
 - **Armor:** 247
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Small Laser
   - ER PPC × 3
+  - Small Laser
 - **Equipment:**
-  - Command Console
   - Guardian ECM Suite
+  - Command Console
   - Communications Equipment
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1836
@@ -111,8 +111,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Snub-Nose PPC
   - Heavy PPC × 2
+  - Snub-Nose PPC
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** TRO 3050 - Jihad
@@ -155,8 +155,8 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
-  - Light PPC × 4
   - Light PPC w/ PPC Capacitor × 4
+  - Light PPC × 4
 - **Source:** XTRO Marik - Jihad
 - **Battle Value:** 1801
 
@@ -169,9 +169,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ELRM 15 (ammo: 18)
   - Light Gauss Rifle (ammo: 32)
   - LRM 15 (ammo: 16)
-  - ELRM 15 (ammo: 18)
   - ER Medium Laser
 - **Equipment:**
   - Guardian ECM Suite

@@ -39,8 +39,8 @@
 - **Armor:** 304
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 10-X AC × 2 (ammo: 30 Standard, 30 Cluster)
   - PPC × 2
+  - LB 10-X AC × 2 (ammo: 30 Standard, 30 Cluster)
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
@@ -71,8 +71,8 @@
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
   - LRM 15 (ammo: 8)
-  - Streak SRM 2 × 2 (ammo: 100)
   - Large Pulse Laser
+  - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -87,8 +87,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - LB 20-X AC × 2 (ammo: 15 Standard, 15 Cluster)
-  - Streak SRM 4 × 2 (ammo: 25)
   - ER Large Laser
+  - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
   - C3i
@@ -107,12 +107,12 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Heavy PPC × 2
-  - Light AC/2 × 2 (ammo: 45)
   - ER Medium Laser × 2
+  - Light AC/2 × 2 (ammo: 45)
 - **Equipment:**
+  - Guardian ECM Suite
   - CASE
   - C3i
-  - Guardian ECM Suite
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2369
 
@@ -124,9 +124,9 @@
 - **Armor:** 288
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Heavy PPC
   - LB 20-X AC × 2 (ammo: 15 Standard, 15 Cluster)
   - Streak SRM 4 (ammo: 25)
-  - Heavy PPC
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -142,9 +142,9 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - RAC/5 × 2 (ammo: 120)
-  - Light PPC × 2
   - Plasma Rifle (ammo: 20)
   - Streak SRM 6 (ammo: 15)
+  - Light PPC × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -162,12 +162,12 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - Heavy PPC × 2
-  - Light AC/2 × 2 (ammo: 90)
   - ER Medium Laser × 2
+  - Light AC/2 × 2 (ammo: 90)
 - **Equipment:**
+  - Guardian ECM Suite
   - CASE
   - C3 Slave
-  - Guardian ECM Suite
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2374
 
@@ -182,12 +182,12 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Plasma Rifle × 2 (ammo: 40)
-  - Light AC/5 × 2 (ammo: 40)
   - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
+  - Light AC/5 × 2 (ammo: 40)
   - Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3145 Lyran Commonwealth - Late Republic
 - **Battle Value:** 2260
 
@@ -200,8 +200,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - LB 20-X AC × 2 (ammo: 15 Standard, 15 Cluster)
-  - Rocket 15
   - Plasma Rifle (ammo: 20)
+  - Rocket 15
 - **Equipment:**
   - Supercharger
 - **Battle Value:** 2406

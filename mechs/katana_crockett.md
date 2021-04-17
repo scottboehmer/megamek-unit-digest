@@ -8,10 +8,10 @@
 - **Armor:** 200
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Large Laser × 2
-  - Small Laser × 2
-  - SRM 6 × 2 (ammo: 30)
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
+  - Large Laser × 2
+  - SRM 6 × 2 (ammo: 30)
+  - Small Laser × 2
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1629
 
@@ -24,9 +24,9 @@
 - **Armor:** 200
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Large Laser × 2
   - SRM 6 × 2 (ammo: 30)
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3050 - Clan Invasion
@@ -41,9 +41,9 @@
 - **Armor:** 200
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Large Laser × 2
   - SRM 6 (ammo: 15)
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
 - **Equipment:**
   - C3 Master
 - **Source:** TRO 3050 - Clan Invasion
@@ -58,10 +58,10 @@
 - **Armor:** 200
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - LB 10-X AC (ammo: 20)
   - Light PPC × 2
   - ER Medium Laser × 2
   - SRM 6 × 2 (ammo: 30)
-  - LB 10-X AC (ammo: 20)
 - **Equipment:**
   - C3 Slave
 - **Source:** TRO 3050 - Jihad

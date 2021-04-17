@@ -7,8 +7,8 @@
 - **Armor:** 32
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Small Laser × 2
   - Large Laser
+  - Small Laser × 2
   - Flamer
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 432
@@ -35,9 +35,9 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
   - Small Laser × 2
   - Flamer
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 430
 
@@ -78,8 +78,8 @@
 - **Armor:** 40
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 6 (ammo: 100)
   - Flamer × 3
+  - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - MASC
 - **Source:** TRO 3050 - Civil War
@@ -93,9 +93,9 @@
 - **Armor:** 48
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Light Machine Gun × 8 (ammo: 100)
   - Rocket 10
   - Flamer
+  - Light Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array × 2
 - **Source:** TRO 3050 - Jihad
@@ -109,8 +109,8 @@
 - **Armor:** 40 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Light PPC
+  - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - MASC

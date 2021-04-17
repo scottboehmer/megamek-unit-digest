@@ -8,8 +8,8 @@
 - **Cockpit:** Industrial (w/ Adv. FCS)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Light Machine Gun × 4 (ammo: 100)
   - Rocket 10 × 5
+  - Light Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - Searchlight
 - **Source:** XTRO RetroTech - Jihad
@@ -24,8 +24,8 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Light Machine Gun × 4 (ammo: 200)
   - Rocket 10 × 3
+  - Light Machine Gun × 4 (ammo: 200)
 - **Source:** TRO:Prototypes
 - **Battle Value:** 154
 

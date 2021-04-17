@@ -7,9 +7,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
-  - LRM 10 (ammo: 12)
   - AC/20 (ammo: 20)
+  - LRM 10 (ammo: 12)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1317
@@ -22,8 +22,8 @@
 - **Armor:** 160
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 10 (ammo: 12)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - Collapsible Command Module
@@ -38,8 +38,8 @@
 - **Armor:** 272
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - Medium Laser × 3
   - LRM 10 × 2 (ammo: 48)
+  - Medium Laser × 3
   - SRM 4 (ammo: 25)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1584
@@ -52,9 +52,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
-  - LRM 10 (ammo: 24)
   - Gauss Rifle (ammo: 16)
+  - LRM 10 (ammo: 24)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1547
@@ -67,9 +67,9 @@
 - **Armor:** 160
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Medium Laser × 2
-  - LRM 10 (ammo: 12)
   - Gauss Rifle (ammo: 8)
+  - LRM 10 (ammo: 12)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - Command Console
@@ -84,8 +84,8 @@
 - **Armor:** 192
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Medium Laser × 2
   - Gauss Rifle (ammo: 16)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - C3 Master
@@ -100,9 +100,9 @@
 - **Armor:** 268 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - LRM 10 (ammo: 12)
   - Gauss Rifle (ammo: 16)
+  - LRM 10 (ammo: 12)
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -117,9 +117,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - MRM 20 (ammo: 12)
   - Ultra AC/10 (ammo: 20)
+  - MRM 20 (ammo: 12)
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -134,9 +134,9 @@
 - **Armor:** 215 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - AC/20 (ammo: 10)
   - Medium Laser × 2
   - Rocket 20 × 6
-  - AC/20 (ammo: 10)
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1525
 
@@ -148,9 +148,9 @@
 - **Armor:** 241 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Gauss Rifle × 2 (ammo: 32)
   - LRM 10 (ammo: 24)
+  - Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
@@ -165,10 +165,10 @@
 - **Armor:** 192
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Medium Laser × 2
   - ER PPC
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
+  - Medium Laser × 2
 - **Equipment:**
   - C3 Master × 2
 - **Source:** Jihad
@@ -182,8 +182,8 @@
 - **Armor:** 238 (Heavy Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
+  - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - C3 BoostedMaster

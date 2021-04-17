@@ -10,8 +10,8 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Medium Laser × 5
-  - ER Small Laser × 4
   - Hatchet
+  - ER Small Laser × 4
 - **Equipment:**
   - TAG
 - **Source:** TRO 3060
@@ -27,10 +27,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - ER Small Laser × 2
-  - Hatchet
   - ER Large Laser
+  - ER Medium Laser × 3
+  - Hatchet
+  - ER Small Laser × 2
 - **Source:** TRO 3060
 - **Battle Value:** 1909
 
@@ -44,8 +44,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Medium Laser × 5
-  - ER Small Laser × 2
   - Hatchet
+  - ER Small Laser × 2
 - **Equipment:**
   - Supercharger
 - **Battle Value:** 1739
@@ -60,10 +60,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 3
-  - Small Pulse Laser × 4
-  - Hatchet
   - ER Medium Laser
+  - Medium Pulse Laser × 3
+  - Hatchet
+  - Small Pulse Laser × 4
 - **Source:** BD: Jason Zaklan - Jihad
 - **Battle Value:** 1641
 
@@ -78,8 +78,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
-  - Hatchet
   - ER Medium Laser × 2
+  - Hatchet
   - ER Small Laser × 2
 - **Source:** TRO 3060
 - **Battle Value:** 1989
@@ -96,8 +96,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 5
-  - Small X-Pulse Laser × 4
   - Lance
+  - Small X-Pulse Laser × 4
 - **Equipment:**
   - Targeting Computer
   - Supercharger
@@ -116,8 +116,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 5
-  - Small X-Pulse Laser × 4
   - Lance
+  - Small X-Pulse Laser × 4
 - **Equipment:**
   - Targeting Computer
   - Supercharger

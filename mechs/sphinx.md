@@ -20,8 +20,8 @@
 - **Armor:** 216
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
-  - ER Small Laser × 10
   - ER Large Laser × 2
+  - ER Small Laser × 10
 - **Equipment:**
   - MASC
   - Targeting Computer
@@ -38,9 +38,9 @@
 - **Weapons:**
   - ER Medium Laser × 10
 - **Equipment:**
+  - ECM Suite
   - MASC
   - Targeting Computer
-  - ECM Suite
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 3396
 

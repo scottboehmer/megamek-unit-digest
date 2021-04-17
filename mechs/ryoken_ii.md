@@ -22,8 +22,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 15 × 2 (ammo: 16)
   - Ultra AC/10 × 2 (ammo: 40)
+  - LRM 15 × 2 (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -37,8 +37,8 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 15 × 2 (ammo: 16)
   - HAG 20 × 2 (ammo: 24)
+  - LRM 15 × 2 (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -53,8 +53,8 @@
 - **Armor:** 231 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Streak SRM 6 × 2 (ammo: 30)
   - ER PPC × 2
+  - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE

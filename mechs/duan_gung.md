@@ -8,8 +8,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 10 (ammo: 12)
+  - Medium Laser × 2
 - **Source:** TRO 3060
 - **Battle Value:** 737
 
@@ -36,8 +36,8 @@
 - **Armor:** 64 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Light PPC
+  - Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite

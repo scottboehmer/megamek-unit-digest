@@ -8,8 +8,8 @@
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
   - Large Laser
-  - LRM 5 × 2 (ammo: 24)
   - Medium Laser × 4
+  - LRM 5 × 2 (ammo: 24)
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1280
 
@@ -22,8 +22,8 @@
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
   - ER Large Laser
-  - LRM 5 × 2 (ammo: 24)
   - Medium Pulse Laser × 2
+  - LRM 5 × 2 (ammo: 24)
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1214
 
@@ -49,8 +49,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser
-  - LRM 5 × 2 (ammo: 24)
   - ER Medium Laser × 4
+  - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - C3i
 - **Source:** TRO 3058 - Civil War

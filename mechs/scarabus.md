@@ -26,8 +26,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 2
-  - Small Laser × 2
   - Hatchet
+  - Small Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - TAG

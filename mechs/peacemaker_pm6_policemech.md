@@ -7,12 +7,12 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun (ammo: 100)
   - BattleMech Taser (ammo: 5)
   - SRM 2 (ammo: 50)
+  - Machine Gun (ammo: 100)
 - **Equipment:**
-  - Enviro-Sealing
   - Searchlight
+  - Enviro-Sealing
 - **Source:** TRO: Vehicle Annex
 - **Battle Value:** unknown
 

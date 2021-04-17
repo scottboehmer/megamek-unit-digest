@@ -7,11 +7,11 @@
 - **Armor:** 104
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
-  - Mining Drill
   - SRM 4 × 2 (ammo: 25)
+  - Mining Drill
 - **Equipment:**
-  - Lift Hoist
   - Searchlight
+  - Lift Hoist
   - Ejection Seat
 - **Battle Value:** unknown
 
@@ -23,12 +23,12 @@
 - **Armor:** 96
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Mining Drill
   - SRM 4 (ammo: 25)
+  - Mining Drill
 - **Equipment:**
+  - Searchlight
   - Lift Hoist
   - Enviro-Sealing
-  - Searchlight
 - **Battle Value:** unknown
 
 ## Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
@@ -39,12 +39,12 @@
 - **Armor:** 104
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Mining Drill
   - SRM 4 (ammo: 25)
+  - Mining Drill
 - **Equipment:**
+  - Searchlight
   - Lift Hoist
   - Cargo × 3
-  - Searchlight
   - Ejection Seat
 - **Battle Value:** unknown
 

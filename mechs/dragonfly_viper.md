@@ -8,12 +8,12 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
   - Medium Pulse Laser × 2
+  - SRM 4 (ammo: 25)
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1450
 
@@ -26,8 +26,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - SRM 6 w/ Artemis IV (ammo: 15)
   - ER Medium Laser × 5
+  - SRM 6 w/ Artemis IV (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -77,8 +77,8 @@
 - **Weapons:**
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
-  - ER Small Laser
   - LRM 5 (ammo: 24)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -93,8 +93,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 (ammo: 10 Standard, 10 HE, 10 ER)
   - ER Medium Laser
+  - ATM 6 (ammo: 10 Standard, 10 HE, 10 ER)
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
@@ -110,8 +110,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - ER Medium Laser × 2
+  - Heavy Medium Laser × 2
   - Small Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
@@ -131,9 +131,9 @@
   - Heavy Medium Laser × 3
   - ATM 3 (ammo: 20)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
   - Light Active Probe
+  - CASE
   - Targeting Computer
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1580
@@ -147,8 +147,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Heavy Machine Gun × 8 (ammo: 100)
   - ER Medium Laser × 3
+  - Heavy Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
@@ -165,11 +165,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Plasma Cannon (ammo: 10)
-  - AP Gauss Rifle × 4 (ammo: 40)
   - Heavy Medium Laser
+  - AP Gauss Rifle × 4 (ammo: 40)
 - **Equipment:**
-  - CASE
   - Light Active Probe
+  - CASE
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1574
 
@@ -185,10 +185,10 @@
   - Improved Heavy Medium Laser × 3
   - iATM 3 (ammo: 20)
 - **Equipment:**
-  - CASE
-  - Laser Anti-Missile System
-  - Light TAG
   - Nova CEWS
+  - Laser Anti-Missile System
+  - CASE
+  - Light TAG
 - **Source:** WoR - Jihad
 - **Battle Value:** 1692
 
@@ -201,12 +201,12 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Inner Sphere Hatchet
   - ER Medium Laser × 2
+  - Inner Sphere Hatchet
 - **Equipment:**
+  - ECM Suite
   - Anti-Missile System (ammo: 24)
   - CASE
-  - ECM Suite
   - Liquid Cargo
 - **Source:** Jihad
 - **Battle Value:** unknown
@@ -220,11 +220,11 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Narc (ammo: 0)
   - ER Medium Laser × 2
+  - Narc (ammo: 0)
 - **Equipment:**
-  - CASE
   - Inner Sphere Bloodhound Active Probe
+  - CASE
   - Light TAG
 - **Source:** Dark Age
 - **Battle Value:** 1335
@@ -238,14 +238,14 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 4 (ammo: 25)
   - ER Medium Laser × 2
+  - Streak SRM 4 (ammo: 25)
   - ER Micro Laser × 2
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
-  - Targeting Computer
   - Light Active Probe
+  - CASE
+  - Targeting Computer
 - **Source:** Dark Age
 - **Battle Value:** 1704
 
@@ -274,13 +274,13 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 3 (ammo: 40)
   - ER Medium Laser × 2
+  - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
-  - CASE
   - Inner Sphere Angel ECM Suite
-  - TAG
   - Active Probe
+  - CASE
+  - TAG
 - **Source:** Dark Age
 - **Battle Value:** 1545
 
@@ -309,8 +309,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Medium Pulse Laser × 2
+  - ER Medium Laser × 2
   - Micro Pulse Laser
 - **Equipment:**
   - Targeting Computer

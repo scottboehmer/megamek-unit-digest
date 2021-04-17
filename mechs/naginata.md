@@ -28,9 +28,9 @@
   - ER Medium Laser
   - ER Small Laser
 - **Equipment:**
+  - Guardian ECM Suite
   - C3 Master × 2
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1943
 

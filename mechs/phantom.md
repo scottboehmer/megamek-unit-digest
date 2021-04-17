@@ -7,14 +7,14 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - LRM 5 (ammo: 24)
   - ER Medium Laser
+  - LRM 5 (ammo: 24)
   - ER Small Laser
 - **Equipment:**
-  - CASE
-  - TAG
   - ECM Suite
   - Active Probe
+  - CASE
+  - TAG
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1159
 
@@ -26,9 +26,9 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Small Laser × 5
-  - LRM 5 × 2 (ammo: 24)
   - ER Medium Laser
+  - LRM 5 × 2 (ammo: 24)
+  - ER Small Laser × 5
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -42,12 +42,12 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - ER Medium Laser
   - SRM 4 × 2 (ammo: 50)
   - ER Small Laser
-  - ER Medium Laser
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1096
 
@@ -59,8 +59,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Small Laser × 8
   - ER Medium Laser
+  - ER Small Laser × 8
   - Flamer
 - **Equipment:**
   - Targeting Computer
@@ -91,8 +91,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Micro Pulse Laser × 8
   - ATM 3 (ammo: 20)
+  - Micro Pulse Laser × 8
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -106,8 +106,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy Small Laser × 6
   - Medium Pulse Laser
+  - Heavy Small Laser × 6
   - Flamer
 - **Equipment:**
   - Targeting Computer
@@ -122,12 +122,12 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Heavy Flamer (ammo: 10)
-  - Heavy Medium Laser
   - ER Medium Laser × 2
+  - Heavy Medium Laser
+  - Heavy Flamer (ammo: 10)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3055 - Jihad
 - **Battle Value:** 1375
 

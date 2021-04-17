@@ -7,8 +7,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
-  - LRM 10 × 2 (ammo: 24)
   - LRM 20 × 2 (ammo: 36)
+  - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -22,8 +22,8 @@
 - **Armor:** 152
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 10 × 2 (ammo: 24)
   - LRM 20 × 2 (ammo: 24)
+  - LRM 10 × 2 (ammo: 24)
 - **Source:** TRO 3060
 - **Battle Value:** 1288
 
@@ -35,10 +35,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - LRM 10 (ammo: 12)
   - HAG 30 (ammo: 16)
-  - ER Medium Laser × 4
   - Plasma Cannon (ammo: 20)
+  - LRM 10 (ammo: 12)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -52,13 +52,13 @@
 - **Armor:** 208
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - LRM 20 w/ Artemis IV × 2 (ammo: 36)
+  - ER Large Laser
   - ER Medium Laser
   - AP Gauss Rifle × 2 (ammo: 40)
-  - ER Large Laser
-  - LRM 20 w/ Artemis IV × 2 (ammo: 36)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 2206
 

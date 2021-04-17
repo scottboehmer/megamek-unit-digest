@@ -9,8 +9,8 @@
 - **Weapons:**
   - Medium Pulse Laser
   - ER Medium Laser × 2
-  - ER Small Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
+  - ER Small Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -24,9 +24,9 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
-  - Ultra AC/2 (ammo: 45)
   - LRM 10 (ammo: 12)
+  - Ultra AC/2 (ammo: 45)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -55,13 +55,13 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser
+  - SRM 6 × 2 (ammo: 15)
   - ER Small Laser
   - Small Pulse Laser
   - Machine Gun × 4 (ammo: 100)
-  - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1004
 
@@ -74,8 +74,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser
-  - Narc (ammo: 12)
   - SRM 4 × 2 (ammo: 50)
+  - Narc (ammo: 12)
 - **Equipment:**
   - CASE
   - TAG
@@ -104,8 +104,8 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - Medium Pulse Laser × 2
+  - Heavy Medium Laser × 2
   - Heavy Small Laser × 2
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1162
@@ -118,14 +118,14 @@
 - **Armor:** 76 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
   - ER Small Laser × 2
   - ER Micro Laser × 2
   - Machine Gun × 8 (ammo: 200)
-  - ER Large Laser
 - **Equipment:**
   - Machine Gun Array × 2
-  - CASE
   - Active Probe
+  - CASE
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1135
 

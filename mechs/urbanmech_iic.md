@@ -8,8 +8,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Small Laser
   - Ultra AC/10 (ammo: 20)
+  - ER Small Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -24,8 +24,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer
   - HAG 20 (ammo: 12)
+  - Flamer
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060

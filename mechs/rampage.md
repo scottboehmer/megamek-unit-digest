@@ -7,12 +7,12 @@
 - **Armor:** 224
 - **Heat Sinks:** 23 (23)
 - **Weapons:**
-  - LRM 10 (ammo: 24)
   - AC/10 (ammo: 20)
+  - Large Laser
+  - LRM 10 (ammo: 24)
   - Medium Laser × 2
   - Flamer
   - Machine Gun (ammo: 200)
-  - Large Laser
 - **Battle Value:** 1444
 
 ## Rampage RMP-4G
@@ -25,9 +25,9 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - LB 10-X AC (ammo: 20)
-  - Flamer
-  - Medium Laser
   - Large Pulse Laser
+  - Medium Laser
+  - Flamer
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - MASC
@@ -42,14 +42,14 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - LRM 20 (ammo: 12)
-  - SRM 4 (ammo: 25)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Medium Laser × 2
-  - Flamer
   - Large Pulse Laser
+  - Medium Laser × 2
+  - SRM 4 (ammo: 25)
+  - Flamer
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** HTP New Dallas
 - **Battle Value:** 1751
 
@@ -61,12 +61,12 @@
 - **Armor:** 256
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - LRM 10 w/ Artemis IV (ammo: 12)
   - LB 10-X AC (ammo: 20)
-  - Medium Laser × 2
-  - Flamer
-  - Streak SRM 2 × 3 (ammo: 50)
   - Large Pulse Laser
+  - LRM 10 w/ Artemis IV (ammo: 12)
+  - Medium Laser × 2
+  - Streak SRM 2 × 3 (ammo: 50)
+  - Flamer
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - MASC

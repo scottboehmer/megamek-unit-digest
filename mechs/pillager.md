@@ -8,8 +8,8 @@
 - **Armor:** 272
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - Medium Laser × 3
   - AC/20 × 2 (ammo: 20)
+  - Medium Laser × 3
   - SRM 4 (ammo: 25)
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1812
@@ -23,9 +23,9 @@
 - **Armor:** 307
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Laser × 4
-  - Large Laser
   - Gauss Rifle × 2 (ammo: 48)
+  - Large Laser
+  - Medium Laser × 4
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 2697
 
@@ -55,10 +55,10 @@
 - **Armor:** 307
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Gauss Rifle (ammo: 32)
   - Arrow IV (ammo: 15)
   - ER PPC
   - ER Medium Laser × 2
-  - Gauss Rifle (ammo: 32)
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -74,12 +74,12 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - ER PPC
   - Gauss Rifle × 2 (ammo: 32)
+  - ER PPC
+  - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2939
 
@@ -94,8 +94,8 @@
 - **Weapons:**
   - Long Tom Cannon × 2 (ammo: 20)
 - **Equipment:**
-  - Coolant Pod × 2
   - Laser Anti-Missile System
+  - Coolant Pod × 2
 - **Source:** XTRO Liao - Jihad
 - **Battle Value:** 1884
 

@@ -8,8 +8,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 3
   - MRM 10 (ammo: 24)
+  - ER Small Laser × 3
 - **Equipment:**
   - MASC
   - CASE
@@ -25,8 +25,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - MML 9 w/ Artemis IV (ammo: 11 SRM, 13 LRM)
+  - ER Medium Laser × 2
   - ER Small Laser
 - **Equipment:**
   - MASC
@@ -42,8 +42,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - LRM 10 (ammo: 24)
+  - ER Medium Laser × 3
 - **Equipment:**
   - MASC
   - CASE

@@ -9,8 +9,8 @@
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
   - Large Laser × 2
-  - LRM 5 × 2 (ammo: 24)
   - SRM 6 (ammo: 15)
+  - LRM 5 × 2 (ammo: 24)
   - Machine Gun × 2 (ammo: 100)
 - **Source:** XTRO Primitives II - Age of War
 - **Battle Value:** 1079
@@ -25,8 +25,8 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - PPC × 2
-  - LRM 5 × 2 (ammo: 24)
   - SRM 6 (ammo: 15)
+  - LRM 5 × 2 (ammo: 24)
 - **Source:** TRO 3075
 - **Battle Value:** 1329
 
@@ -39,8 +39,8 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - PPC × 2
-  - LRM 5 × 4 (ammo: 24)
   - SRM 6 (ammo: 15)
+  - LRM 5 × 4 (ammo: 24)
 - **Source:** TRO 3075
 - **Battle Value:** 1252
 
@@ -53,8 +53,8 @@
 - **Armor:** 217 (Light Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 4
   - MML 7 × 3 (ammo: 34 LRM, 28 SRM)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
   - C3 Slave

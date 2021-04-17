@@ -9,8 +9,8 @@
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
   - PPC
-  - AC/5 (ammo: 20)
   - Large Laser
+  - AC/5 (ammo: 20)
 - **Source:** XTRO Primitives I - Age of War
 - **Battle Value:** 1436
 
@@ -37,8 +37,8 @@
 - **Armor:** 304
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
-  - PPC
   - AC/20 (ammo: 20)
+  - PPC
   - Large Laser × 2
 - **Source:** RS 3075U
 - **Battle Value:** 1900
@@ -51,8 +51,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
-  - PPC × 2
   - AC/20 (ammo: 20)
+  - PPC × 2
   - Medium Laser × 2
 - **Equipment:**
   - CASE
@@ -67,8 +67,8 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - PPC × 2
   - AC/20 (ammo: 20)
+  - PPC × 2
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe

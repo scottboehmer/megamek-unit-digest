@@ -11,9 +11,9 @@
   - Streak SRM 4 × 4 (ammo: 50)
   - Small Pulse Laser × 2
 - **Equipment:**
+  - ECM Suite
   - Active Probe
   - CASE
-  - ECM Suite
 - **Source:** Dark Age
 - **Battle Value:** 1645
 
@@ -26,8 +26,8 @@
 - **Armor:** 124 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LRM 15 × 2 (ammo: 24)
+  - ER Medium Laser × 2
   - Small Pulse Laser
 - **Equipment:**
   - CASE
@@ -43,9 +43,9 @@
 - **Armor:** 124 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - Large Pulse Laser
   - SRM 4 × 4 (ammo: 50)
   - Small Pulse Laser
-  - Large Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** Dark Age

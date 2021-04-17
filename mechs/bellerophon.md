@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
   - Large Laser × 2
+  - SRM 4 (ammo: 25)
 - **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 957
 

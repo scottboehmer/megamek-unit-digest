@@ -23,12 +23,12 @@
 - **Armor:** 136 (Stealth)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - ER Medium Laser × 2
+  - Medium Pulse Laser × 3
   - LRM 5 (ammo: 48)
 - **Equipment:**
-  - C3 Slave
   - Guardian ECM Suite
+  - C3 Slave
 - **Source:** TRO 3067
 - **Battle Value:** 1267
 

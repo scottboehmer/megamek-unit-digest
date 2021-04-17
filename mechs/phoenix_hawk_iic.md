@@ -40,8 +40,8 @@
 - **Heat Sinks:** 22 (44)
 - **Weapons:**
   - Heavy Large Laser × 2
-  - Small Pulse Laser × 2
   - Medium Pulse Laser
+  - Small Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
 - **Source:** Civil War
@@ -71,8 +71,8 @@
 - **Armor:** 201 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 4 (ammo: 40)
   - HAG 20 × 2 (ammo: 24)
+  - AP Gauss Rifle × 4 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -103,8 +103,8 @@
 - **Armor:** 232
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - ER Medium Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE

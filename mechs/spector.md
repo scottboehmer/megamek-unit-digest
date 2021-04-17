@@ -8,12 +8,12 @@
 - **Armor:** 119
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - Chameleon LPS
   - Null-Signature System
-  - Guardian ECM Suite
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1224
 
@@ -26,8 +26,8 @@
 - **Armor:** 119
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -43,8 +43,8 @@
 - **Armor:** 119 (Stealth)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Pulse Laser
   - Large Laser
+  - Medium Pulse Laser
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -59,11 +59,11 @@
 - **Armor:** 119 (Stealth)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
   - ER Large Laser
+  - ER Medium Laser × 2
 - **Equipment:**
-  - Targeting Computer
   - Guardian ECM Suite
+  - Targeting Computer
   - MASC
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1438

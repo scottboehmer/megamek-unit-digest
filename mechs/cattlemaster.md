@@ -23,8 +23,8 @@
 - **Armor:** 48 (Industrial)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Machine Gun × 3 (ammo: 100)
   - Small Laser × 2
+  - Machine Gun × 3 (ammo: 100)
 - **Equipment:**
   - Searchlight
 - **Source:** RS:VA IM Exo - Late Succession War
@@ -39,8 +39,8 @@
 - **Heat Sinks:** 3 (3)
 - **Weapons:**
   - Medium Laser
-  - Machine Gun × 2 (ammo: 100)
   - LRM 5 (ammo: 24)
+  - Machine Gun × 2 (ammo: 100)
 - **Source:** RS:VA IM Exo - Jihad
 - **Battle Value:** 358
 

@@ -8,8 +8,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - ER Small Laser
   - SRM 6 (ammo: 15)
+  - ER Small Laser
 - **Equipment:**
   - Beagle Active Probe
 - **Source:** Jihad
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - ER Small Laser
   - SRM 4 (ammo: 25)
+  - ER Small Laser
 - **Equipment:**
   - Beagle Active Probe
   - C3 Slave
@@ -40,8 +40,8 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Lance × 2
   - SRM 6 (ammo: 15)
+  - Lance × 2
 - **Source:** Jihad
 - **Battle Value:** 613
 

@@ -21,8 +21,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - Medium Laser
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 503
 
@@ -35,8 +35,8 @@
 - **Armor:** 56
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer
   - Medium Laser
+  - Flamer
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 524
 
@@ -189,8 +189,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (23)
 - **Weapons:**
-  - Sword
   - ER Small Laser × 5
+  - Sword
 - **Equipment:**
   - Partial Wing
 - **Source:** RS 3145 NT NU

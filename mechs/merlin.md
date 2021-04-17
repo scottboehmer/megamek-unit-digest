@@ -8,11 +8,11 @@
 - **Armor:** 168
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
+  - PPC
   - Medium Laser × 2
+  - LRM 5 (ammo: 24)
   - Flamer
   - Machine Gun (ammo: 100)
-  - PPC
-  - LRM 5 (ammo: 24)
 - **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 1217
 
@@ -25,10 +25,10 @@
 - **Armor:** 168
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
-  - Medium Laser × 2
-  - Flamer
   - PPC
+  - Medium Laser × 2
   - LRM 5 (ammo: 24)
+  - Flamer
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1228
 
@@ -41,9 +41,9 @@
 - **Armor:** 200
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
+  - Large Laser
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-  - Large Laser
 - **Battle Value:** 1233
 
 ## Merlin MLN-1C
@@ -55,10 +55,10 @@
 - **Armor:** 168
 - **Heat Sinks:** 19 (19)
 - **Weapons:**
-  - ER Medium Laser × 2
-  - Flamer
   - PPC
+  - ER Medium Laser × 2
   - LRM 5 (ammo: 24)
+  - Flamer
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1267
 

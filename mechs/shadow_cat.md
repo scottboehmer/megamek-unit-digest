@@ -8,12 +8,12 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
+  - ER Medium Laser × 2
 - **Equipment:**
+  - Active Probe
   - MASC
   - CASE
-  - Active Probe
 - **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2156
 
@@ -29,8 +29,8 @@
   - ER Large Laser × 2
   - Streak SRM 6 (ammo: 30)
 - **Equipment:**
-  - MASC
   - Active Probe
+  - MASC
   - CASE
 - **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2220
@@ -47,10 +47,10 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
   - ER Medium Laser × 2
 - **Equipment:**
-  - MASC
   - ECM Suite
-  - CASE
   - Active Probe
+  - MASC
+  - CASE
 - **Source:** TRO 3058 - Succession Wars
 - **Battle Value:** 2420
 
@@ -63,12 +63,12 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - SRM 4 (ammo: 25)
+  - Small Pulse Laser × 2
 - **Equipment:**
-  - MASC
   - Active Probe
+  - MASC
   - CASE
 - **Source:** Clan Invasion
 - **Battle Value:** 1378
@@ -98,8 +98,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Medium Laser × 3
+  - ATM 6 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
   - Narc (ammo: 12)
 - **Equipment:**
   - MASC
@@ -116,11 +116,11 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Medium Pulse Laser × 3
   - ER Large Laser
+  - Streak SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 3
   - ER Small Laser
   - Machine Gun × 2 (ammo: 200)
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
   - MASC
@@ -136,8 +136,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Heavy Large Laser
   - LRM 20 w/ Artemis IV (ammo: 12)
+  - Heavy Large Laser
 - **Equipment:**
   - MASC
   - Targeting Computer
@@ -154,12 +154,12 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 6 (ammo: 40)
   - HAG 20 (ammo: 12)
+  - AP Gauss Rifle × 6 (ammo: 40)
 - **Equipment:**
+  - Active Probe
   - MASC
   - CASE
-  - Active Probe
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1802
 
@@ -206,9 +206,9 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Improved Heavy Medium Laser × 2
-  - ER Medium Pulse Laser × 2
   - Streak SRM 6 × 2 (ammo: 30)
+  - ER Medium Pulse Laser × 2
+  - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -225,8 +225,8 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Ultra AC/10 (ammo: 20)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - Active Probe
   - CASE

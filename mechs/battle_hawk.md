@@ -8,8 +8,8 @@
 - **Armor:** 98 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Streak SRM 2 (ammo: 50)
   - Medium Pulse Laser × 3
+  - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3055 - Clan Invasion
@@ -24,8 +24,8 @@
 - **Armor:** 98 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Streak SRM 4 (ammo: 25)
   - ER Medium Laser × 3
+  - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3055 - Civil War

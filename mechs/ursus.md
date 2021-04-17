@@ -7,14 +7,14 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - LRM 10 (ammo: 12)
   - ER Large Laser
   - Medium Pulse Laser × 2
+  - LRM 10 (ammo: 12)
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 1778
 
@@ -27,10 +27,10 @@
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - AP Gauss Rifle × 2 (ammo: 40)
-  - Plasma Cannon (ammo: 20)
   - HAG 20 (ammo: 6)
+  - Plasma Cannon (ammo: 20)
   - ER Medium Laser
+  - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -44,9 +44,9 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 3 (ammo: 80)
-  - ProtoMech AC/8 × 2 (ammo: 20)
   - Improved Heavy Medium Laser × 2
+  - ProtoMech AC/8 × 2 (ammo: 20)
+  - AP Gauss Rifle × 3 (ammo: 80)
   - ER Flamer
 - **Equipment:**
   - CASE II
@@ -62,12 +62,12 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 3 (ammo: 80)
-  - ProtoMech AC/8 × 2 (ammo: 30)
   - Improved Heavy Medium Laser × 2
+  - ProtoMech AC/8 × 2 (ammo: 30)
+  - AP Gauss Rifle × 3 (ammo: 80)
   - ER Flamer
 - **Equipment:**
-  - CASE II
   - Watchdog CEWS
+  - CASE II
 - **Battle Value:** 1284
 

@@ -10,8 +10,8 @@
   - SRM 6 w/ Artemis IV × 2 (ammo: 30)
   - Small Laser
 - **Equipment:**
-  - CASE
   - Beagle Active Probe
+  - CASE
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 867
 
@@ -26,10 +26,10 @@
   - Narc × 2 (ammo: 12)
   - Small Laser
 - **Equipment:**
+  - Beagle Active Probe
   - CASE
   - TAG
   - C3 Slave
-  - Beagle Active Probe
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 723
 
@@ -55,8 +55,8 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - LRM 5 × 2 (ammo: 48)
   - Large Laser
+  - LRM 5 × 2 (ammo: 48)
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -75,10 +75,10 @@
   - Streak SRM 2 × 2 (ammo: 50)
   - Small Laser
 - **Equipment:**
+  - Beagle Active Probe
   - CASE
   - TAG
   - C3 Slave
-  - Beagle Active Probe
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 873
 
@@ -121,8 +121,8 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - Streak SRM 4 × 2 (ammo: 25)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -151,8 +151,8 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
   - Bombast Laser
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Jihad

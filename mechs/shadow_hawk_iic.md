@@ -9,9 +9,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
+  - ER Medium Laser
   - Streak SRM 2 × 4 (ammo: 100)
   - ER Small Laser
-  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Succession Wars
@@ -26,9 +26,9 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Pulse Laser × 3
   - ER Large Laser × 2
   - ER Small Laser
+  - Small Pulse Laser × 3
 - **Source:** Succession Wars
 - **Battle Value:** 1763
 
@@ -41,10 +41,10 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Micro Pulse Laser × 2
-  - ER Micro Laser × 2
   - Heavy Large Laser
   - Medium Pulse Laser
+  - Micro Pulse Laser × 2
+  - ER Micro Laser × 2
 - **Source:** Clan Invasion
 - **Battle Value:** 1471
 
@@ -58,8 +58,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Medium Laser
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -74,8 +74,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 3 (ammo: 40)
   - Plasma Cannon × 2 (ammo: 30)
+  - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -90,8 +90,8 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - HAG 20 (ammo: 18)
+  - Medium Pulse Laser × 2
   - ER Small Laser
   - Small Pulse Laser
 - **Equipment:**
@@ -108,13 +108,13 @@
 - **Armor:** 153 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
-  - Medium Pulse Laser
-  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
   - ER Large Laser
+  - Medium Pulse Laser
+  - ER Medium Laser
+  - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
-  - Liquid Cargo × 2
   - CASE
+  - Liquid Cargo × 2
 - **Source:** Jihad
 - **Battle Value:** unknown
 
@@ -127,13 +127,13 @@
 - **Armor:** 144 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
+  - LRM 10 (ammo: 24)
   - Heavy Medium Laser × 2
   - Micro Pulse Laser × 2
-  - LRM 10 (ammo: 24)
-  - ER Large Laser
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 1940
 

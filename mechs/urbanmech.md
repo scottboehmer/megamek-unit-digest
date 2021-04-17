@@ -8,8 +8,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Small Laser
   - AC/10 (ammo: 10)
+  - Small Laser
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 504
 
@@ -22,8 +22,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Small Laser
   - AC/20 (ammo: 5)
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 470
 
@@ -36,9 +36,9 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Small Laser
   - LB 10-X AC (ammo: 10)
   - Small Pulse Laser
+  - Small Laser
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 540
 
@@ -51,8 +51,8 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Small Laser
   - Ultra AC/10 (ammo: 10)
+  - ER Small Laser
   - Small Pulse Laser
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 589
@@ -66,9 +66,9 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Small Laser
   - MRM 30 (ammo: 16)
   - Small Pulse Laser
+  - Small Laser
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 561
 
@@ -81,9 +81,9 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - ER Small Laser
   - RAC/5 (ammo: 40)
   - ER Medium Laser
+  - ER Small Laser
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 724
 
@@ -98,8 +98,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Medium Laser
   - Arrow IV (ammo: 10)
+  - ER Medium Laser
 - **Source:** Jihad
 - **Battle Value:** 603
 
@@ -112,13 +112,13 @@
 - **Armor:** 96
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Small Laser
   - Snub-Nose PPC
   - Small Pulse Laser
+  - Small Laser
 - **Equipment:**
-  - TAG
   - Guardian ECM Suite
   - Beagle Active Probe
+  - TAG
 - **Source:** Jihad
 - **Battle Value:** 699
 
@@ -131,9 +131,9 @@
 - **Armor:** 96 (Hardened)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser
   - Plasma Rifle (ammo: 10)
   - ER Medium Laser
+  - ER Small Laser
 - **Source:** XTRO Republic II - Late Republic
 - **Battle Value:** 894
 
@@ -146,8 +146,8 @@
 - **Armor:** 92 (Hardened)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small X-Pulse Laser
   - Snub-Nose PPC
+  - Small X-Pulse Laser
 - **Source:** XTRO Republic II - Late Republic
 - **Battle Value:** 773
 

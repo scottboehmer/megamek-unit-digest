@@ -11,8 +11,8 @@
   - ER Small Laser × 2
   - SRM 2 × 2 (ammo: 50)
 - **Equipment:**
-  - CASE II
   - Watchdog CEWS
+  - CASE II
   - Targeting Computer
 - **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 1841

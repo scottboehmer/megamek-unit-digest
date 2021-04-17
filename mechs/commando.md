@@ -33,9 +33,9 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - SRM 6 (ammo: 15)
   - Medium Laser
   - SRM 4 (ammo: 25)
-  - SRM 6 (ammo: 15)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 541
 
@@ -47,8 +47,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
   - Large Laser
+  - Medium Laser
   - SRM 2 (ammo: 50)
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 616
@@ -74,8 +74,8 @@
 - **Armor:** 48
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser
   - SRM 6 × 2 (ammo: 15)
+  - Medium Laser
   - Flamer
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 540
@@ -88,9 +88,9 @@
 - **Armor:** 53 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - SRM 6 w/ Artemis IV (ammo: 30)
   - Medium Laser
   - Streak SRM 2 (ammo: 50)
-  - SRM 6 w/ Artemis IV (ammo: 30)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -105,8 +105,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 2
-  - Streak SRM 2 × 2 (ammo: 50)
   - SRM 4 w/ Artemis IV (ammo: 25)
+  - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -136,8 +136,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser
-  - Flamer × 2
   - SRM 4 × 2 (ammo: 25)
+  - Flamer × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Jihad
@@ -182,8 +182,8 @@
 - **Armor:** 64
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Medium Laser
   - MML 7 (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -215,8 +215,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC
-  - SRM 2 (iOS) × 2
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
+  - SRM 2 (iOS) × 2
 - **Equipment:**
   - CASE II
   - Supercharger

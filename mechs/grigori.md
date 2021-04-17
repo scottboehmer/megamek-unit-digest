@@ -9,11 +9,11 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Retractable Blade
-  - MRM 20 (ammo: 12)
   - LRM 15 (ammo: 16)
-  - Streak SRM 4 (ammo: 25)
+  - MRM 20 (ammo: 12)
   - Light PPC
+  - Streak SRM 4 (ammo: 25)
+  - Retractable Blade
 - **Equipment:**
   - C3i
   - CASE
@@ -32,9 +32,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Heavy PPC
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - C3i
   - CASE
@@ -52,10 +52,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 14 SRM)
-  - ER Small Laser
   - Plasma Rifle (ammo: 20)
+  - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 14 SRM)
   - Medium Pulse Laser
+  - ER Small Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -73,13 +73,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MRM 10 × 3 (ammo: 24)
   - Streak SRM 6 × 2 (ammo: 15)
   - ER Medium Laser × 2
+  - MRM 10 × 3 (ammo: 24)
 - **Equipment:**
+  - Guardian ECM Suite
   - C3i
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** 1438
 
@@ -94,10 +94,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 2
   - Heavy PPC
-  - ER Medium Laser × 2
   - Light PPC
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
 - **Equipment:**
   - C3i
 - **Source:** TRO 3075
@@ -114,10 +114,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 7 w/ Artemis IV × 2 (ammo: 14 SRM, 34 LRM)
-  - ER Small Laser
   - Light PPC w/ PPC Capacitor
+  - MML 7 w/ Artemis IV × 2 (ammo: 14 SRM, 34 LRM)
   - Medium VSP Laser
+  - ER Small Laser
 - **Equipment:**
   - C3i
   - CASE
@@ -139,9 +139,9 @@
   - Snub-Nose PPC
   - Thunderbolt 10 × 2 (ammo: 12)
 - **Equipment:**
+  - Guardian ECM Suite
   - C3i
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** 1426
 
@@ -194,14 +194,14 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Small Laser × 2
   - Heavy PPC
-  - ER Medium Laser × 2
   - ER PPC
+  - ER Medium Laser × 2
+  - ER Small Laser × 2
 - **Equipment:**
-  - C3i
   - Beagle Active Probe
   - MASS
+  - C3i
 - **Source:** Jihad
 - **Battle Value:** 1604
 

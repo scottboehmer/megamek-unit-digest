@@ -7,9 +7,9 @@
 - **Armor:** 232
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
+  - PPC
   - LRM 10 × 2 (ammo: 24)
   - Machine Gun × 2 (ammo: 200)
-  - PPC
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1449
 
@@ -21,9 +21,9 @@
 - **Armor:** 240
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
+  - Gauss Rifle (ammo: 8)
   - LRM 10 × 2 (ammo: 24)
   - Machine Gun × 2 (ammo: 400)
-  - Gauss Rifle (ammo: 8)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -37,9 +37,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - LRM 10 w/ Artemis IV (ammo: 24)
   - ER Large Laser
+  - LRM 10 w/ Artemis IV (ammo: 24)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -53,9 +53,9 @@
 - **Armor:** 241 (Ferro Fibrous)
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
+  - PPC
   - LRM 10 × 2 (ammo: 24)
   - Rocket 10 × 6
-  - PPC
 - **Source:** Civil War
 - **Battle Value:** 1583
 
@@ -117,9 +117,9 @@
 - **Armor:** 240
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Heavy PPC
   - LRM 10 × 2 (ammo: 24)
   - Light Machine Gun × 6 (ammo: 100)
-  - Heavy PPC
 - **Equipment:**
   - B-Pod × 4
   - Machine Gun Array × 2
@@ -136,12 +136,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
   - ER PPC
+  - MML 7 × 2 (ammo: 34 LRM, 14 SRM)
   - Medium Pulse Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 1708
 
@@ -154,10 +154,10 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small VSP Laser × 2
-  - ER Medium Laser × 2
   - Gauss Rifle (ammo: 16)
   - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
+  - ER Medium Laser × 2
+  - Small VSP Laser × 2
 - **Equipment:**
   - Quad Turret
   - CASE
@@ -175,9 +175,9 @@
 - **Weapons:**
   - Clan Gauss Rifle (ammo: 16)
   - Clan ER Large Laser
-  - Clan Micro Pulse Laser
   - Clan ATM 9 (ammo: 14)
   - Clan ER Medium Laser
+  - Clan Micro Pulse Laser
 - **Equipment:**
   - B-Pod × 4
   - Quad Turret

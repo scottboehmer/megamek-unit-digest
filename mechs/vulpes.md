@@ -10,9 +10,9 @@
   - Clan ER Large Laser × 2
   - RAC/5 (ammo: 40)
 - **Equipment:**
+  - Guardian ECM Suite
   - MASC
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3145 Federated Suns - Dark Ages
 - **Battle Value:** 2225
 

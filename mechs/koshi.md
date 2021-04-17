@@ -10,9 +10,9 @@
 - **Weapons:**
   - SRM 4 × 4 (ammo: 75)
 - **Equipment:**
+  - Active Probe
   - CASE
   - Light TAG
-  - Active Probe
 - **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 760
 
@@ -44,10 +44,10 @@
   - Heavy Small Laser × 6
 - **Equipment:**
   - ECM Suite
+  - Active Probe
   - Light TAG
   - Targeting Computer
   - MASC
-  - Active Probe
 - **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 777
 

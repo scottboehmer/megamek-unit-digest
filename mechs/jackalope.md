@@ -11,9 +11,9 @@
   - ER Medium Laser × 2
   - ATM 6 (ammo: 10)
 - **Equipment:**
-  - CASE
-  - Light Active Probe
   - Laser Anti-Missile System
+  - Light Active Probe
+  - CASE
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1395
 
@@ -29,10 +29,10 @@
   - ER Medium Laser × 2
   - SRM 6 (ammo: 30)
 - **Equipment:**
+  - Laser Anti-Missile System
+  - Light Active Probe
   - CASE
   - Inner Sphere C3 Slave
-  - Light Active Probe
-  - Laser Anti-Missile System
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1253
 
@@ -48,9 +48,9 @@
   - ER Medium Laser × 2
   - ATM 6 (ammo: 10)
 - **Equipment:**
-  - CASE II
-  - Light Active Probe
   - Laser Anti-Missile System
+  - Light Active Probe
+  - CASE II
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1488
 
@@ -67,9 +67,9 @@
   - ER Medium Laser × 2
   - SRM 4 (ammo: 25)
 - **Equipment:**
+  - Laser Anti-Missile System
   - Partial Wing
   - CASE II
-  - Laser Anti-Missile System
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 1334
 

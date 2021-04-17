@@ -71,8 +71,8 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - HAG 20 × 2 (ammo: 24)
-  - Heavy Medium Laser × 4
   - Streak SRM 4 (ammo: 25)
+  - Heavy Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -104,14 +104,14 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - ER PPC × 2
-  - ER Medium Laser × 2
   - Medium Pulse Laser × 2
-  - Micro Pulse Laser × 2
+  - ER Medium Laser × 2
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
+  - Micro Pulse Laser × 2
 - **Equipment:**
+  - ECM Suite
   - CASE
   - Cargo × 2
-  - ECM Suite
 - **Source:** Jihad
 - **Battle Value:** unknown
 
@@ -125,8 +125,8 @@
 - **Weapons:**
   - Heavy Large Laser × 2
   - Plasma Cannon × 2 (ammo: 20)
-  - ER Medium Laser × 2
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad
@@ -141,12 +141,12 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - RAC/5 × 2 (ammo: 120)
+  - LRM 10 (ammo: 12)
   - ER Medium Laser × 2
   - ER Small Laser × 2
-  - LRM 10 (ammo: 12)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 2819
 
@@ -178,8 +178,8 @@
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser
 - **Equipment:**
-  - CASE
   - A-Pod × 2
+  - CASE
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2021
 
@@ -193,11 +193,11 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser × 2
-  - ER Small Laser × 2
   - SRM 6 (ammo: 15)
+  - ER Small Laser × 2
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2680
 

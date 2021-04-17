@@ -7,13 +7,13 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Heavy Medium Laser × 2
-  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
-  - Heavy Small Laser
   - ER Large Laser
+  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
+  - Heavy Medium Laser × 2
+  - Heavy Small Laser
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 24)
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 1715
 
@@ -25,10 +25,10 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - Large Pulse Laser
   - Plasma Cannon × 2 (ammo: 20)
   - ER Medium Laser × 2
   - AP Gauss Rifle × 2 (ammo: 40)
-  - Large Pulse Laser
 - **Equipment:**
   - CASE
 - **Source:** 3067 Unabridged
@@ -42,11 +42,11 @@
 - **Armor:** 134 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Machine Gun × 8 (ammo: 100)
+  - ER PPC
   - Medium Pulse Laser
   - Streak SRM 4 × 2 (ammo: 25)
   - AP Gauss Rifle × 2 (ammo: 40)
-  - ER PPC
+  - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE

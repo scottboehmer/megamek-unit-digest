@@ -8,8 +8,8 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 18 (18)
 - **Weapons:**
-  - Medium Laser
   - Blazer Cannon
+  - Medium Laser
   - Small Laser
   - Machine Gun (ammo: 100)
 - **Equipment:**

@@ -7,8 +7,8 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Large Laser
   - HAG 40 (ammo: 12)
+  - ER Large Laser
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -23,8 +23,8 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Heavy Small Laser × 6
   - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
+  - Heavy Small Laser × 6
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -38,12 +38,12 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - Improved Heavy Small Laser × 6
   - iATM 12 × 2 (ammo: 20)
+  - Improved Heavy Small Laser × 6
 - **Equipment:**
+  - Nova CEWS
   - Light TAG
   - CASE
-  - Nova CEWS
 - **Source:** Jihad
 - **Battle Value:** 2388
 
@@ -56,8 +56,8 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Small Pulse Laser × 3
   - Large Pulse Laser × 2
+  - Small Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3075
@@ -72,12 +72,12 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - Large Pulse Laser × 2
+  - Small Pulse Laser × 2
 - **Equipment:**
+  - Nova CEWS
   - Targeting Computer
   - Light TAG
-  - Nova CEWS
 - **Source:** Jihad
 - **Battle Value:** 2349
 
@@ -89,8 +89,8 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - Plasma Cannon × 3 (ammo: 20)
+  - Medium Pulse Laser × 4
   - AP Gauss Rifle × 8 (ammo: 40)
   - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
@@ -107,13 +107,13 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - Plasma Cannon × 3 (ammo: 20)
+  - Medium Pulse Laser × 4
   - AP Gauss Rifle × 6 (ammo: 40)
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
-  - Machine Gun Array × 2
   - Nova CEWS
+  - Machine Gun Array × 2
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 2264
@@ -128,8 +128,8 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER PPC
-  - ER Small Laser × 3
   - Ultra AC/20 (ammo: 10)
+  - ER Small Laser × 3
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -148,8 +148,8 @@
   - ER PPC
   - Ultra AC/20 (ammo: 10)
 - **Equipment:**
-  - Targeting Computer
   - Nova CEWS
+  - Targeting Computer
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 2704
@@ -162,12 +162,12 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - ER Medium Laser × 6
   - ER PPC × 2
+  - ER Medium Laser × 6
 - **Equipment:**
+  - Nova CEWS
   - Light TAG
   - Targeting Computer
-  - Nova CEWS
 - **Source:** Jihad
 - **Battle Value:** 2950
 
@@ -194,14 +194,14 @@
 - **Armor:** 172 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Spot Welder × 2
-  - ER Medium Laser × 2
   - ER PPC
+  - ER Medium Laser × 2
   - ER Small Laser × 4
+  - Spot Welder × 2
 - **Equipment:**
-  - Liquid Cargo × 2
   - ECM Suite
   - Talons
+  - Liquid Cargo × 2
 - **Source:** Jihad
 - **Battle Value:** unknown
 
@@ -217,9 +217,9 @@
   - LRT 15 × 2 (ammo: 32)
   - SRT 4 × 6 (ammo: 50)
 - **Equipment:**
+  - MASS
   - HarJel × 5
   - CASE
-  - MASS
 - **Source:** Jihad
 - **Battle Value:** 1913
 

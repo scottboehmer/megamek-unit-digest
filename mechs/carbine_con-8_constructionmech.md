@@ -11,8 +11,8 @@
 - **Weapons:**
   - Backhoe
 - **Equipment:**
-  - Lift Hoist
   - Extended Fuel Tank
+  - Lift Hoist
 - **Source:** RS VA - Civil War
 - **Battle Value:** unknown
 

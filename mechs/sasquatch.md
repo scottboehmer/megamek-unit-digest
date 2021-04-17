@@ -8,11 +8,11 @@
 - **Armor:** 248
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - Gauss Rifle (ammo: 16)
-  - Machine Gun × 2 (ammo: 100)
   - SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 4
   - Small Laser
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3055 - Clan Invasion

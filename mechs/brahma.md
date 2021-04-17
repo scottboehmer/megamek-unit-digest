@@ -8,14 +8,14 @@
 - **Armor:** 200
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Flamer
-  - ER Medium Laser × 3
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 3
   - Light AC/5 (ammo: 20)
+  - Flamer
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - Targeting Computer
   - CASE
-  - Anti-Missile System (ammo: 12)
 - **Source:** Jihad
 - **Battle Value:** 1572
 
@@ -28,9 +28,9 @@
 - **Armor:** 200
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
+  - Large X-Pulse Laser
   - ER Medium Laser × 3
   - SRM 6 (ammo: 15)
-  - Large X-Pulse Laser
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer

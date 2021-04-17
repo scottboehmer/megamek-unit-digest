@@ -8,8 +8,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Small Laser × 2
   - Medium Laser
+  - Small Laser × 2
   - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 610
@@ -23,8 +23,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - Snub-Nose PPC
+  - Medium Laser × 2
 - **Battle Value:** 947
 
 ## Falcon FLC-4Nb-PP
@@ -36,8 +36,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser
   - PPC
+  - Medium Laser
 - **Battle Value:** 881
 
 ## Falcon FLC-4Nb-PP2
@@ -49,8 +49,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser
   - ER Large Laser
+  - Medium Pulse Laser
   - Medium Laser
 - **Battle Value:** 947
 
@@ -63,8 +63,8 @@
 - **Armor:** 88
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser
   - Large Pulse Laser
+  - Medium Laser
 - **Battle Value:** 774
 
 ## Falcon FLC-4P
@@ -76,8 +76,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - Small Laser × 2
   - Medium Pulse Laser
+  - Small Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
 - **Source:** TRO 3050 - Clan Invasion
@@ -109,8 +109,8 @@
 - **Armor:** 96 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Small Laser × 2
   - ER Large Laser
+  - ER Small Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - Targeting Computer

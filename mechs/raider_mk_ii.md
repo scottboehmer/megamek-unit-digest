@@ -8,8 +8,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
-  - Dual Saw
   - RAC/2 (ammo: 90)
+  - Dual Saw
 - **Source:** ED: Dark Age
 - **Battle Value:** unknown
 

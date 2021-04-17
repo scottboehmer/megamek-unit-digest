@@ -9,11 +9,11 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Retractable Blade
   - Ultra AC/10 (ammo: 30)
-  - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
-  - Streak SRM 6 (ammo: 15)
   - Snub-Nose PPC
+  - Streak SRM 6 (ammo: 15)
+  - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
+  - Retractable Blade
 - **Equipment:**
   - C3i
   - CASE
@@ -31,11 +31,11 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Retractable Blade
   - Heavy PPC
-  - Medium Pulse Laser
-  - ER Medium Laser
   - Plasma Rifle (ammo: 20)
+  - ER Medium Laser
+  - Medium Pulse Laser
+  - Retractable Blade
 - **Equipment:**
   - C3i
   - TAG
@@ -57,9 +57,9 @@
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
   - Snub-Nose PPC
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - C3i
   - Targeting Computer
-  - Anti-Missile System (ammo: 12)
   - CASE
 - **Source:** TRO 3075
 - **Battle Value:** 2181
@@ -75,14 +75,14 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Heavy PPC
+  - MRM 40 (ammo: 12)
   - Plasma Rifle (ammo: 20)
   - ER Medium Laser × 2
-  - MRM 40 (ammo: 12)
   - Flamer × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - C3i
   - CASE
-  - Guardian ECM Suite
 - **Source:** TRO 3075
 - **Battle Value:** 2136
 
@@ -98,9 +98,9 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Heavy PPC × 2
+  - Light PPC
   - Medium Pulse Laser × 3
   - Small Laser × 2
-  - Light PPC
   - Flamer
 - **Equipment:**
   - C3i
@@ -117,13 +117,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Large VSP Laser
   - Ultra AC/20 (ammo: 30)
+  - Large VSP Laser
   - Medium VSP Laser
 - **Equipment:**
+  - Anti-Missile System (ammo: 12)
   - C3i
   - Targeting Computer
-  - Anti-Missile System (ammo: 12)
   - CASE
 - **Source:** Starterbook: Wolf & Blake - Jihad
 - **Battle Value:** 1927
@@ -156,14 +156,14 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Retractable Blade
-  - Large VSP Laser
   - Thunderbolt 20 (ammo: 12)
   - Snub-Nose PPC
+  - Large VSP Laser
+  - Retractable Blade
 - **Equipment:**
+  - Laser Anti-Missile System
   - C3i
   - CASE
-  - Laser Anti-Missile System
 - **Battle Value:** unknown
 
 ## Seraph C-SRP-OS Caelestis
@@ -177,9 +177,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - Clan Large Pulse Laser × 2
   - Clan Streak LRM 10 × 3 (ammo: 24)
   - Clan Medium Pulse Laser × 2
-  - Clan Large Pulse Laser × 2
 - **Equipment:**
   - C3i
 - **Battle Value:** 2788

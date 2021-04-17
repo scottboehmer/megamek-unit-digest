@@ -7,10 +7,10 @@
 - **Armor:** 279
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Large Vibroblade
   - Clan Large Pulse Laser × 2
   - Clan Medium Pulse Laser × 2
   - Clan ER Small Laser
+  - Large Vibroblade
 - **Equipment:**
   - MASC
   - Clan Supercharger

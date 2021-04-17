@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Large Pulse Laser
-  - Streak SRM 2 × 2 (ammo: 50)
   - ER Medium Laser × 2
+  - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Succession Wars
@@ -26,8 +26,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Large Pulse Laser
-  - LRM 5 × 2 (ammo: 24)
   - ER Medium Laser × 2
+  - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Succession Wars
@@ -42,8 +42,8 @@
 - **Armor:** 169 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
   - Targeting Computer
@@ -59,8 +59,8 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Heavy Medium Laser × 2
   - ER Large Laser
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3055 - Civil War
@@ -75,10 +75,10 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Heavy Medium Laser × 4
-  - Medium Pulse Laser
-  - Light Machine Gun × 2 (ammo: 200)
   - Streak SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser
+  - Heavy Medium Laser × 4
+  - Light Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - Targeting Computer
   - CASE
@@ -94,8 +94,8 @@
 - **Armor:** 163 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 × 2 (ammo: 20)
   - ER Medium Laser × 2
+  - ATM 6 × 2 (ammo: 20)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Civil War

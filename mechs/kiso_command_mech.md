@@ -12,8 +12,8 @@
   - Command Console
   - Searchlight × 8
   - Communications Equipment
-  - Lift Hoist
   - Collapsible Command Module
+  - Lift Hoist
   - Cargo Container × 2
 - **Source:** XTRO Succession Wars - Succession Wars
 - **Battle Value:** unknown

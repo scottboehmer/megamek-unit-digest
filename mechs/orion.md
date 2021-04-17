@@ -8,8 +8,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - AC/5 (ammo: 20)
+  - Medium Laser × 2
 - **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** 973
 
@@ -21,10 +21,10 @@
 - **Armor:** 231
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 15 (ammo: 16)
-  - SRM 4 (ammo: 25)
   - AC/10 (ammo: 20)
+  - Medium Laser × 2
+  - SRM 4 (ammo: 25)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1429
 
@@ -36,10 +36,10 @@
 - **Armor:** 231 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 2
+  - Gauss Rifle (ammo: 16)
   - Snub-Nose PPC
   - SRM 4 w/ Artemis IV (ammo: 25)
-  - Gauss Rifle (ammo: 16)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050U - Star League
@@ -53,10 +53,10 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 50)
-  - Medium Laser × 2
   - LRM 15 (ammo: 16)
   - AC/10 (ammo: 20)
+  - Medium Laser × 2
+  - SRM 4 × 2 (ammo: 50)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1298
 
@@ -68,9 +68,9 @@
 - **Armor:** 231
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 50)
-  - Medium Laser × 2
   - AC/10 (ammo: 20)
+  - Medium Laser × 2
+  - SRM 4 × 2 (ammo: 50)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1328
 
@@ -82,10 +82,10 @@
 - **Armor:** 184
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 4 × 2 (ammo: 25)
-  - Medium Laser × 2
   - LRM 15 (ammo: 8)
   - AC/10 (ammo: 10)
+  - Medium Laser × 2
+  - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Command Console
 - **Source:** TRO 3039 - Succession Wars
@@ -100,9 +100,9 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - LRM 20 (ammo: 12)
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser × 2
   - SRM 4 (ammo: 50)
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
@@ -118,9 +118,9 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - LRM 20 w/ Artemis IV (ammo: 12)
-  - Medium Pulse Laser × 2
-  - SRM 6 w/ Artemis IV (ammo: 30)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - SRM 6 w/ Artemis IV (ammo: 30)
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -135,9 +135,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 20 (ammo: 12)
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Narc (ammo: 6)
 - **Equipment:**
   - Command Console
@@ -154,9 +154,9 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - LRM 20 (ammo: 12)
+  - Light Gauss Rifle (ammo: 16)
   - ER Medium Laser × 2
   - SRM 4 (ammo: 50)
-  - Light Gauss Rifle (ammo: 16)
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
@@ -171,10 +171,10 @@
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - MRM 20 (ammo: 12)
-  - Medium Laser × 2
   - MRM 30 (ammo: 16)
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - MRM 20 (ammo: 12)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -189,10 +189,10 @@
 - **Armor:** 224
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
+  - RAC/5 (ammo: 80)
   - LRM 20 (ammo: 12)
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-  - RAC/5 (ammo: 80)
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
@@ -207,9 +207,9 @@
 - **Armor:** 224 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 3
-  - LRM 15 w/ Artemis IV (ammo: 16)
   - Gauss Rifle (ammo: 16)
+  - LRM 15 w/ Artemis IV (ammo: 16)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -223,9 +223,9 @@
 - **Armor:** 231
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Improved Heavy Gauss Rifle (ammo: 16)
   - ELRM 10 (ammo: 27)
   - ER Medium Laser × 2
-  - Improved Heavy Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE
 - **Source:** XTRO Marik - Jihad
@@ -239,9 +239,9 @@
 - **Armor:** 224
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Gauss Rifle (ammo: 16)
   - ELRM 15 (ammo: 24)
   - ER Medium Laser × 2
-  - Gauss Rifle (ammo: 16)
 - **Equipment:**
   - CASE II
   - TAG

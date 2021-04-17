@@ -7,9 +7,9 @@
 - **Armor:** 307
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Ultra AC/5 × 4 (ammo: 80)
   - ER PPC × 2
   - LRM 15 × 2 (ammo: 16)
+  - Ultra AC/5 × 4 (ammo: 80)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3075
@@ -24,8 +24,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
-  - Ultra AC/10 × 2 (ammo: 40)
   - ER PPC × 2
+  - Ultra AC/10 × 2 (ammo: 40)
   - LRM 15 w/ Artemis IV × 2 (ammo: 16)
 - **Equipment:**
   - CASE
@@ -40,8 +40,8 @@
 - **Armor:** 307
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Ultra AC/10 × 2 (ammo: 40)
   - HAG 30 × 2 (ammo: 24)
+  - Ultra AC/10 × 2 (ammo: 40)
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
@@ -56,9 +56,9 @@
 - **Armor:** 307
 - **Heat Sinks:** 21 (42)
 - **Weapons:**
-  - Streak SRM 4 × 2 (ammo: 50)
   - ER PPC × 2
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
+  - Streak SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NT NU

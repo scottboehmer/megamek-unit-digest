@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser
-  - SRM 2 (ammo: 50)
   - LRM 5 (ammo: 24)
+  - SRM 2 (ammo: 50)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 749
 
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser
-  - SRM 2 (ammo: 50)
   - LRM 5 (ammo: 24)
+  - SRM 2 (ammo: 50)
   - Small Laser × 3
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 757
@@ -39,8 +39,8 @@
 - **Armor:** 72
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Pulse Laser
   - LRM 5 w/ Artemis IV (ammo: 24)
+  - Medium Pulse Laser
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 740
 
@@ -53,8 +53,8 @@
 - **Armor:** 104
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - LB 5-X AC (ammo: 20 Cluster)
+  - ER Medium Laser
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 925
 
@@ -67,11 +67,11 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Small Vibroblade
   - Medium X-Pulse Laser
   - SRM 2 × 2 (ammo: 50)
-  - Small Laser
   - Small X-Pulse Laser × 2
+  - Small Vibroblade
+  - Small Laser
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1019
 
@@ -86,8 +86,8 @@
 - **Weapons:**
   - ER Medium Laser × 4
 - **Equipment:**
-  - Beagle Active Probe
   - Guardian ECM Suite
+  - Beagle Active Probe
   - Targeting Computer
   - C3 Slave
 - **Battle Value:** 1507
@@ -101,9 +101,9 @@
 - **Armor:** 128 (Stealth)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Sword
   - Light PPC
   - SRM 2 × 2 (ammo: 50)
+  - Sword
 - **Equipment:**
   - Guardian ECM Suite
   - TAG

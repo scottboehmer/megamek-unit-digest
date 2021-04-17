@@ -7,9 +7,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Flamer
-  - Medium Laser
   - AC/5 (ammo: 20)
+  - Medium Laser
+  - Flamer
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 784
 
@@ -21,8 +21,8 @@
 - **Armor:** 120
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
-  - Flamer
   - Medium Laser × 3
+  - Flamer
   - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 910
@@ -47,9 +47,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer
-  - Medium Pulse Laser
   - Ultra AC/5 (ammo: 20)
+  - Medium Pulse Laser
+  - Flamer
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 857
 
@@ -73,9 +73,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - ER Large Laser
   - iNarc (ammo: 12)
   - ER Medium Laser × 3
-  - ER Large Laser
 - **Equipment:**
   - C3i
 - **Source:** TRO 3050 - Civil War
@@ -89,9 +89,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer
-  - ER Medium Laser
   - RAC/5 (ammo: 20)
+  - ER Medium Laser
+  - Flamer
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1106
 
@@ -103,9 +103,9 @@
 - **Armor:** 128
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer
   - Large Pulse Laser
   - Ultra AC/5 (ammo: 20)
+  - Flamer
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 924
 
@@ -118,9 +118,9 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Flamer
-  - Medium Pulse Laser
   - Heavy PPC
+  - Medium Pulse Laser
+  - Flamer
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Jihad
@@ -135,9 +135,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Clan ER Flamer
-  - Light PPC
   - Clan Large Pulse Laser
+  - Light PPC
+  - Clan ER Flamer
 - **Equipment:**
   - Clan Targeting Computer
 - **Source:** XTRO Marik - Jihad

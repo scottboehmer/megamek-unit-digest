@@ -8,10 +8,10 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Streak SRM 6 × 2 (ammo: 15)
   - Gauss Rifle (ammo: 24)
-  - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 24)
+  - Streak SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -26,14 +26,14 @@
 - **Armor:** 264
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 15)
-  - AP Gauss Rifle × 6 (ammo: 40)
   - Gauss Rifle (ammo: 24)
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
   - ATM 6 × 3 (ammo: 20 Standard, 10 ER, 10 HE)
+  - AP Gauss Rifle × 6 (ammo: 40)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 2928
 
@@ -46,13 +46,13 @@
 - **Armor:** 278 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Streak SRM 6 × 2 (ammo: 15)
   - HAG 20 (ammo: 24)
-  - Medium Pulse Laser × 3
   - LRM 20 w/ Artemis IV (ammo: 24)
+  - Streak SRM 6 × 2 (ammo: 15)
+  - Medium Pulse Laser × 3
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** Jihad
 - **Battle Value:** 3001
 

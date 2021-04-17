@@ -38,9 +38,9 @@
 - **Armor:** 114 (Ballistic Reinforced)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Inner Sphere Medium Re-Engineered Laser
   - Inner Sphere Large VSP Laser
   - ER Medium Laser × 2
+  - Inner Sphere Medium Re-Engineered Laser
 - **Equipment:**
   - Targeting Computer
 - **Source:** XTRO Royal Fantasy

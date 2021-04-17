@@ -47,8 +47,8 @@
 - **Armor:** 124 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Ultra AC/5 (ammo: 20)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Clan Invasion
@@ -106,13 +106,13 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Medium Pulse Laser × 3
-  - Small Pulse Laser
   - Medium Laser × 3
+  - Small Pulse Laser
 - **Equipment:**
-  - C3i
-  - Beagle Active Probe
-  - TAG
   - Guardian ECM Suite
+  - Beagle Active Probe
+  - C3i
+  - TAG
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1113
 

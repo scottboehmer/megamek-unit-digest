@@ -48,9 +48,9 @@
   - Clan Ultra AC/20 (ammo: 15)
   - Clan Improved Heavy Medium Laser × 5
 - **Equipment:**
+  - Clan ECM Suite
   - Clan Supercharger
   - Clan CASE II
-  - Clan ECM Suite
 - **Battle Value:** 3667
 
 ## Ryoken III-XP C
@@ -64,8 +64,8 @@
 - **Cockpit:** Interface
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Clan ATM 9 (ammo: 7 ER, 7 Standard, 7 HE)
   - TSEMP
+  - Clan ATM 9 (ammo: 7 ER, 7 Standard, 7 HE)
   - Clan ER Medium Laser × 6
 - **Equipment:**
   - Clan Targeting Computer
@@ -83,10 +83,10 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - Clan RAC/2 (ammo: 90)
-  - Lance
+  - Bombast Laser
   - Clan ER Medium Laser
   - Clan ER Small Laser × 2
-  - Bombast Laser
+  - Lance
   - Clan ER Micro Laser × 2
 - **Equipment:**
   - Clan CASE II

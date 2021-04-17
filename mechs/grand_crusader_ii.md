@@ -9,10 +9,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 3
+  - LRM 15 w/ Artemis IV (ammo: 8)
   - ER Large Laser × 2
   - Streak SRM 6 (ammo: 15)
-  - LRM 15 w/ Artemis IV (ammo: 8)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
   - C3i
@@ -29,10 +29,10 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Light Gauss Rifle (ammo: 32)
-  - ER Medium Laser × 2
   - ER PPC
+  - Light Gauss Rifle (ammo: 32)
   - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3i

@@ -40,12 +40,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - Improved Heavy Medium Laser
   - ATM 9 (ammo: 14)
+  - Improved Heavy Medium Laser
 - **Equipment:**
+  - Watchdog CEWS
   - Supercharger
   - CASE
-  - Watchdog CEWS
 - **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** 2083
 
@@ -58,8 +58,8 @@
 - **Armor:** 133 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Pulse Laser × 2
   - Streak SRM 6 × 2 (ammo: 15)
+  - ER Medium Pulse Laser × 2
 - **Equipment:**
   - CASE II
 - **Source:** ilClan Vol 12 - Dark Age
@@ -74,10 +74,10 @@
 - **Armor:** 133 (Ferro Lamellor)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 2 (ammo: 40)
   - ER Large Laser
-  - Improved Heavy Medium Laser
   - Streak SRM 6 (ammo: 15)
+  - Improved Heavy Medium Laser
+  - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 12 - Dark Age

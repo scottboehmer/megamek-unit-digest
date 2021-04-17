@@ -24,13 +24,13 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Small Laser
   - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
+  - ER Small Laser
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1951
 
@@ -61,9 +61,9 @@
 - **Armor:** 216
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 3
   - Thunderbolt 20 (ammo: 12)
   - Medium X-Pulse Laser
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE II
 - **Battle Value:** 2028

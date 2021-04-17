@@ -23,8 +23,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
-  - TAG
   - Beagle Active Probe
+  - TAG
 - **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 390
 

@@ -9,9 +9,9 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 40)
+  - Medium Pulse Laser × 2
   - Medium Laser × 4
   - Small Laser
-  - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
@@ -30,8 +30,8 @@
   - Gauss Rifle × 2 (ammo: 40)
   - ER Medium Laser × 4
 - **Equipment:**
-  - C3 Master
   - Guardian ECM Suite
+  - C3 Master
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2423
 
@@ -45,9 +45,9 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 24)
   - Streak SRM 4 × 4 (ammo: 100)
+  - Medium Pulse Laser × 2
   - Medium Laser × 4
   - Small Laser
-  - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe

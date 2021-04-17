@@ -7,8 +7,8 @@
 - **Armor:** 40
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 100)
   - LRM 10 (ammo: 12)
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Lift Hoist
 - **Source:** RS IA - Jihad

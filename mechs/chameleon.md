@@ -8,8 +8,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
   - Small Laser × 4
   - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3058 - Age of War
@@ -24,8 +24,8 @@
 - **Armor:** 112
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Medium Laser × 2
   - Large Laser
+  - Medium Laser × 2
   - Small Laser × 3
   - Machine Gun × 2 (ammo: 100)
 - **Source:** TRO 3058 - Clan Invasion
@@ -40,8 +40,8 @@
 - **Armor:** 144
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser
   - ER Large Laser
+  - Medium Pulse Laser
   - Medium Laser
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 1243
@@ -69,11 +69,11 @@
 - **Armor:** 144
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Clan Improved Heavy Medium Laser × 3
   - Heavy PPC w/ PPC Capacitor
+  - Clan Improved Heavy Medium Laser × 3
 - **Equipment:**
-  - Clan Targeting Computer
   - Angel ECM Suite
+  - Clan Targeting Computer
 - **Source:** XTRO Phantoms - Jihad
 - **Battle Value:** 2113
 

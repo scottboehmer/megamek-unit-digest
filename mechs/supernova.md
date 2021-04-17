@@ -56,8 +56,8 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - Large Pulse Laser × 4
-  - Heavy Medium Laser × 2
   - ER Medium Laser × 2
+  - Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3058 - Civil War

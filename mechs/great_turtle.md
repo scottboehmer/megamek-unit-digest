@@ -10,8 +10,8 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Medium X-Pulse Laser × 3
   - Large X-Pulse Laser
+  - Medium X-Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3055 - Civil War
@@ -28,9 +28,9 @@
 - **Cockpit:** Armored Torso-Mounted, Armored Life Support, Armored Sensors
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - Armored ER PPC w/ PPC Capacitor
   - Armored Medium X-Pulse Laser × 2
   - Armored ER Medium Laser
-  - Armored ER PPC w/ PPC Capacitor
 - **Equipment:**
   - Armored Actuator × 4
 - **Source:** TRO 3055 - Jihad

@@ -9,8 +9,8 @@
 - **Cockpit:** Torso-Mounted
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Laser × 8
   - ELRM 10 × 2 (ammo: 36)
+  - Medium Laser × 8
 - **Equipment:**
   - CASE II
   - Targeting Computer

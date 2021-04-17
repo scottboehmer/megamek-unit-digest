@@ -8,8 +8,8 @@
 - **Armor:** 288 (Ferro Fibrous)
 - **Heat Sinks:** 12 (27)
 - **Weapons:**
-  - Ultra AC/5 × 2 (ammo: 40)
   - ER Large Laser × 2
+  - Ultra AC/5 × 2 (ammo: 40)
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
@@ -28,8 +28,8 @@
 - **Heat Sinks:** 11 (25)
 - **Weapons:**
   - Ultra AC/10 × 2 (ammo: 30)
-  - ER Medium Laser × 2
   - LRM 10 (ammo: 12)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - Targeting Computer

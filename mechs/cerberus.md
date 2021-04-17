@@ -57,11 +57,11 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - ER PPC
-  - Medium Pulse Laser × 4
   - ER Medium Laser × 2
+  - Medium Pulse Laser × 4
 - **Equipment:**
-  - C3i
   - Anti-Missile System (ammo: 12)
+  - C3i
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2128
 

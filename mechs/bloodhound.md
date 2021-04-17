@@ -7,12 +7,12 @@
 - **Armor:** 152
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
   - ER Small Laser
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
-  - CASE
   - Beagle Active Probe
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 1248
 
@@ -24,13 +24,13 @@
 - **Armor:** 152
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
   - ER Small Laser × 2
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - Guardian ECM Suite
-  - CASE
   - Beagle Active Probe
+  - CASE
 - **Source:** TRO 3067
 - **Battle Value:** 1363
 

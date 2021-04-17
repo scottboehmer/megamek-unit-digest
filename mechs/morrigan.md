@@ -41,8 +41,8 @@
 - **Armor:** 115 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Inner Sphere BattleMech Taser (ammo: 10)
   - ER Medium Laser × 2
+  - Inner Sphere BattleMech Taser (ammo: 10)
   - ER Small Laser × 4
   - Small Pulse Laser × 2
 - **Equipment:**

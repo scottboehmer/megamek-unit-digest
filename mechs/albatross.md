@@ -7,12 +7,12 @@
 - **Armor:** 208
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Large Pulse Laser
-  - Medium Laser × 2
   - ER Large Laser
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - LRM 15 (ammo: 16)
+  - Large Pulse Laser
   - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
@@ -27,11 +27,11 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Light Gauss Rifle (ammo: 16)
+  - LRM 15 (ammo: 16)
   - Large Pulse Laser
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
   - ER Small Laser
-  - LRM 15 (ammo: 16)
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Civil War
@@ -50,8 +50,8 @@
 - **Weapons:**
   - ER PPC w/ PPC Capacitor
   - Large VSP Laser
-  - Medium Pulse Laser × 2
   - ER Medium Laser × 2
+  - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -68,9 +68,9 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - Snub-Nose PPC
-  - Medium Laser × 2
   - ER Large Laser
   - MML 9 (ammo: 26 LRM, 22 SRM)
+  - Medium Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Jihad

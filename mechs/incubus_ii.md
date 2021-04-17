@@ -10,9 +10,9 @@
 - **Weapons:**
   - ER Medium Pulse Laser × 2
 - **Equipment:**
-  - Partial Wing
   - Laser Anti-Missile System
   - Light Active Probe
+  - Partial Wing
 - **Source:** TRO:Prototypes
 - **Battle Value:** 1261
 

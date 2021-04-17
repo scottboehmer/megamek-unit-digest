@@ -7,10 +7,10 @@
 - **Armor:** 304 (Ferro Fibrous)
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Large Laser × 2
   - LRM 20 (ammo: 12)
-  - SRM 6 (ammo: 15)
   - AC/20 (ammo: 10)
+  - ER Large Laser × 2
+  - SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
@@ -25,10 +25,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 20 (ammo: 12)
-  - SRM 6 (ammo: 15)
   - AC/20 (ammo: 10)
+  - SRM 6 (ammo: 15)
+  - Medium Laser × 4
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1897
 
@@ -40,10 +40,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Medium Laser × 2
   - LRM 20 (ammo: 6)
-  - SRM 6 (ammo: 15)
   - AC/20 (ammo: 10)
+  - SRM 6 (ammo: 15)
+  - Medium Laser × 2
 - **Equipment:**
   - Command Console
 - **Source:** TRO 3039 - Star League
@@ -57,10 +57,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Large Laser × 2
   - LRM 15 (ammo: 16)
-  - SRM 4 (ammo: 25)
+  - Large Laser × 2
   - AC/10 (ammo: 20)
+  - SRM 4 (ammo: 25)
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1849
 
@@ -72,10 +72,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Medium Laser × 2
-  - AC/5 (ammo: 20)
   - LRM 10 (ammo: 12)
+  - AC/5 (ammo: 20)
   - SRM 6 × 5 (ammo: 60)
+  - Medium Laser × 2
 - **Source:** RS:Succession Wars - Succession Wars
 - **Battle Value:** 1787
 
@@ -87,8 +87,8 @@
 - **Armor:** 304
 - **Heat Sinks:** 26 (26)
 - **Weapons:**
-  - PPC × 2
   - AC/20 (ammo: 10)
+  - PPC × 2
 - **Battle Value:** 1884
 
 ## Atlas AS7-D (Danielle)
@@ -99,9 +99,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 6
   - LRM 20 (ammo: 12)
   - AC/20 (ammo: 10)
+  - Medium Laser × 6
 - **Battle Value:** 1976
 
 ## Atlas AS7-K
@@ -112,9 +112,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - ER Large Laser × 2
-  - LRM 20 (ammo: 12)
   - Gauss Rifle (ammo: 16)
+  - LRM 20 (ammo: 12)
+  - ER Large Laser × 2
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
@@ -130,9 +130,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 21 (21)
 - **Weapons:**
-  - ER Large Laser × 2
-  - LRM 20 (ammo: 12)
   - Gauss Rifle (ammo: 16)
+  - LRM 20 (ammo: 12)
+  - ER Large Laser × 2
   - Medium Pulse Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
@@ -149,9 +149,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - ER Large Laser
-  - LRM 20 (ammo: 12)
   - Gauss Rifle (ammo: 16)
+  - LRM 20 (ammo: 12)
+  - ER Large Laser
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
@@ -168,10 +168,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - Inner Sphere Medium Laser × 4
+  - Ultra AC/20 (ammo: 15)
   - LRM 20 (ammo: 12)
   - Streak SRM 6 (ammo: 15)
-  - Ultra AC/20 (ammo: 15)
+  - Inner Sphere Medium Laser × 4
 - **Equipment:**
   - Inner Sphere CASE
 - **Battle Value:** 2306
@@ -184,13 +184,13 @@
 - **Armor:** 304
 - **Heat Sinks:** 20 (20)
 - **Weapons:**
-  - ER Large Laser × 2
-  - LRM 20 (ammo: 6)
   - Gauss Rifle (ammo: 16)
+  - LRM 20 (ammo: 6)
+  - ER Large Laser × 2
   - Medium Pulse Laser
 - **Equipment:**
-  - Command Console
   - Anti-Missile System (ammo: 12)
+  - Command Console
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2158
@@ -203,11 +203,11 @@
 - **Armor:** 304
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Medium Laser × 4
   - LRM 20 (ammo: 12)
-  - SRM 6 (ammo: 15)
-  - Streak SRM 2 × 2 (ammo: 50)
   - AC/20 (ammo: 15)
+  - SRM 6 (ammo: 15)
+  - Medium Laser × 4
+  - Streak SRM 2 × 2 (ammo: 50)
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1929
 
@@ -219,10 +219,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 26 (26)
 - **Weapons:**
-  - Inner Sphere Medium Laser × 4
+  - Ultra AC/20 (ammo: 15)
   - LRM 20 (ammo: 12)
   - Streak SRM 6 (ammo: 15)
-  - Ultra AC/20 (ammo: 15)
+  - Inner Sphere Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Battle Value:** 2340
@@ -235,9 +235,9 @@
 - **Armor:** 304
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
-  - ER Large Laser × 2
-  - LRM 15 w/ Artemis IV (ammo: 16)
   - Heavy Gauss Rifle (ammo: 16)
+  - LRM 15 w/ Artemis IV (ammo: 16)
+  - ER Large Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
@@ -252,13 +252,13 @@
 - **Armor:** 304
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - PPC × 2
-  - Small Laser × 3
-  - LRM 15 w/ Artemis IV (ammo: 16)
   - Gauss Rifle (ammo: 16)
+  - PPC × 2
+  - LRM 15 w/ Artemis IV (ammo: 16)
+  - Small Laser × 3
 - **Equipment:**
-  - Anti-Missile System (ammo: 12)
   - Guardian ECM Suite
+  - Anti-Missile System (ammo: 12)
   - CASE
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2378
@@ -271,10 +271,10 @@
 - **Armor:** 304
 - **Heat Sinks:** 22 (22)
 - **Weapons:**
-  - Medium Laser × 4
+  - Heavy PPC
   - LRM 20 (ammo: 12)
   - Streak SRM 6 (ammo: 15)
-  - Heavy PPC
+  - Medium Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
@@ -290,11 +290,11 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Light PPC × 2
   - RAC/5 (ammo: 60)
+  - Snub-Nose PPC
+  - Light PPC × 2
   - MML 9 × 2 (ammo: 13 LRM, 11 SRM)
   - ER Small Laser × 2
-  - Snub-Nose PPC
   - Small Laser × 2
 - **Equipment:**
   - CASE
@@ -309,12 +309,12 @@
 - **Armor:** 295 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser × 2
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser × 2
   - Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 2160
 
@@ -343,8 +343,8 @@
 - **Armor:** 307 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Large Laser × 2
   - Gauss Rifle (ammo: 16)
+  - ER Large Laser × 2
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - Guardian ECM Suite
@@ -360,12 +360,12 @@
 - **Armor:** 295 (Ferro Fibrous)
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - ER PPC × 2
   - RAC/5 (ammo: 60)
+  - ER PPC × 2
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
-  - CASE
   - Guardian ECM Suite
+  - CASE
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2153
 

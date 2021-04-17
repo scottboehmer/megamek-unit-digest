@@ -8,9 +8,9 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium X-Pulse Laser
-  - ER PPC
   - Arrow IV (ammo: 15)
+  - ER PPC
+  - Medium X-Pulse Laser
 - **Equipment:**
   - CASE II
 - **Source:** TRO 3145 Draconis Combine - Early Republic
@@ -25,13 +25,13 @@
 - **Gyroscope:** Compact Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Clan Medium Pulse Laser
   - Clan ER PPC
   - Clan Arrow IV (ammo: 15)
+  - Clan Medium Pulse Laser
 - **Equipment:**
+  - Clan B-Pod
   - MASC
   - CASE II
-  - Clan B-Pod
 - **Source:** TRO 3145 Draconis Combine - Late Republic
 - **Battle Value:** 2183
 

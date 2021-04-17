@@ -8,14 +8,14 @@
 - **Cockpit:** Armored
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium X-Pulse Laser × 2
   - Clan HAG 30 (ammo: 16)
-  - Streak SRM 6 (ammo: 15)
   - Clan Streak LRM 20 (ammo: 12)
+  - Streak SRM 6 (ammo: 15)
+  - Medium X-Pulse Laser × 2
 - **Equipment:**
+  - Angel ECM Suite
   - Targeting Computer
   - CASE II
-  - Angel ECM Suite
 - **Source:** TRO 3145 Federated Suns - Late Republic
 - **Battle Value:** 2890
 
@@ -28,15 +28,15 @@
 - **Cockpit:** Armored
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium X-Pulse Laser × 4
+  - Clan Streak LRM 20 (ammo: 12)
   - RAC/2 (ammo: 90)
   - Streak SRM 6 (ammo: 0)
-  - Clan Streak LRM 20 (ammo: 12)
+  - Medium X-Pulse Laser × 4
 - **Equipment:**
+  - Angel ECM Suite
   - Small Shield × 2
   - Radical Heat Sink System
   - CASE II
-  - Angel ECM Suite
 - **Source:** TRO 3145 Federated Suns - Dark Ages
 - **Battle Value:** 2553
 

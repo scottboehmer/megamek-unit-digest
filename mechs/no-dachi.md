@@ -9,11 +9,11 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
-  - SRM 2 (ammo: 50)
-  - Sword
   - MRM 20 × 2 (ammo: 24)
-  - SRM 4 (ammo: 25)
   - Medium Laser
+  - SRM 4 (ammo: 25)
+  - Sword
+  - SRM 2 (ammo: 50)
 - **Source:** TRO 3067
 - **Battle Value:** 1708
 
@@ -27,9 +27,9 @@
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Large Laser
+  - MRM 10 × 2 (ammo: 96)
   - Medium Pulse Laser × 5
   - Sword
-  - MRM 10 × 2 (ammo: 96)
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
@@ -46,12 +46,12 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Large Pulse Laser
-  - Medium Pulse Laser × 6
-  - Small Pulse Laser
-  - Sword
   - ER Medium Laser × 2
-  - Flamer
+  - Medium Pulse Laser × 6
+  - Sword
+  - Small Pulse Laser
   - Small Laser
+  - Flamer
 - **Source:** TRO 3067
 - **Battle Value:** 1728
 
@@ -65,10 +65,10 @@
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
   - Large Pulse Laser
-  - Medium Pulse Laser × 6
-  - Small Pulse Laser
-  - Sword
   - ER Medium Laser
+  - Medium Pulse Laser × 6
+  - Sword
+  - Small Pulse Laser
   - Small Laser
   - Flamer
 - **Equipment:**
@@ -86,10 +86,10 @@
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Clan ER PPC
-  - Large Vibroblade
   - Clan LRM 15 w/ Artemis IV × 2 (ammo: 16)
-  - Clan ER Small Laser
   - Clan ER Medium Laser
+  - Clan ER Small Laser
+  - Large Vibroblade
 - **Equipment:**
   - Clan Supercharger
 - **Source:** XTRO Kurita - Jihad
@@ -104,11 +104,11 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
+  - ER Medium Laser × 2
   - Medium VSP Laser × 2
   - Medium Pulse Laser × 3
-  - Small Pulse Laser
   - Mace
-  - ER Medium Laser × 2
+  - Small Pulse Laser
   - Small Laser × 3
 - **Equipment:**
   - Guardian ECM Suite

@@ -39,8 +39,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Ultra AC/2 (ammo: 45)
   - ER Medium Laser × 2
+  - Ultra AC/2 (ammo: 45)
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
@@ -102,8 +102,8 @@
 - **Armor:** 105 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ATM 6 (ammo: 20)
   - ER Medium Laser × 2
+  - ATM 6 (ammo: 20)
   - Light Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE

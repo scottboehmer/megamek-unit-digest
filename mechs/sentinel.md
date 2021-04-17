@@ -7,8 +7,8 @@
 - **Armor:** 96
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - AC/2 (ammo: 45)
   - SRM 4 (ammo: 25)
+  - AC/2 (ammo: 45)
   - Small Laser
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 632
@@ -63,8 +63,8 @@
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
   - Large Laser
-  - Small Laser
   - SRM 2 (ammo: 50)
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 847
 
@@ -77,8 +77,8 @@
 - **Heat Sinks:** 13 (13)
 - **Weapons:**
   - PPC
-  - Small Laser
   - SRM 2 (ammo: 50)
+  - Small Laser
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 823
 
@@ -91,8 +91,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Ultra AC/5 (ammo: 20)
-  - SRM 2 (ammo: 50)
   - Medium Laser
+  - SRM 2 (ammo: 50)
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 758
 

@@ -22,8 +22,8 @@
 - **Armor:** 80 (Ferro Fibrous)
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
-  - LRM 10 w/ Artemis IV (ammo: 12)
   - ER Large Laser
+  - LRM 10 w/ Artemis IV (ammo: 12)
 - **Source:** TRO 3060
 - **Battle Value:** 934
 
@@ -36,8 +36,8 @@
 - **Armor:** 89 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Medium Laser
   - RAC/5 (ammo: 40)
+  - ER Medium Laser
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060
@@ -53,8 +53,8 @@
 - **Gyroscope:** XL Gyro
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LRM 10 (ammo: 12)
   - Plasma Rifle (ammo: 20)
+  - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3060

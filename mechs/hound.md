@@ -7,10 +7,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - SRM 4 (ammo: 25)
-  - Light PPC × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Light PPC × 2
   - Medium Laser
+  - SRM 4 (ammo: 25)
 - **Source:** TRO 3145 Mercenaries - Early Republic
 - **Battle Value:** 1389
 

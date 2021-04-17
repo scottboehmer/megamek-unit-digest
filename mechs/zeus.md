@@ -22,9 +22,9 @@
 - **Armor:** 184
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Ultra AC/5 (ammo: 40)
   - LRM 15 w/ Artemis IV (ammo: 8)
   - ER Large Laser
+  - Ultra AC/5 (ammo: 40)
   - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1474
@@ -37,9 +37,9 @@
 - **Armor:** 184
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
-  - AC/5 (ammo: 20)
   - LRM 15 (ammo: 8)
   - Large Laser
+  - AC/5 (ammo: 20)
   - Medium Laser × 2
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1348
@@ -52,9 +52,9 @@
 - **Armor:** 184
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
-  - AC/5 (ammo: 20)
-  - LRM 10 (ammo: 12)
   - Blazer Cannon
+  - LRM 10 (ammo: 12)
+  - AC/5 (ammo: 20)
 - **Source:** XTRO Succession Wars
 - **Battle Value:** 1323
 
@@ -67,8 +67,8 @@
 - **Heat Sinks:** 17 (17)
 - **Weapons:**
   - PPC
-  - SRM 6 × 3 (ammo: 15)
   - Large Laser
+  - SRM 6 × 3 (ammo: 15)
   - Medium Laser × 2
 - **Source:** RS:Succession Wars - Succession Wars
 - **Battle Value:** 1405
@@ -97,8 +97,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC
-  - LRM 15 (ammo: 8)
   - ER Large Laser
+  - LRM 15 (ammo: 8)
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
@@ -114,8 +114,8 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - ER PPC
-  - LRM 15 (ammo: 8)
   - ER Large Laser
+  - LRM 15 (ammo: 8)
   - Medium Pulse Laser
 - **Equipment:**
   - Command Console
@@ -132,8 +132,8 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-  - LRM 15 × 2 (ammo: 32)
   - ER Large Laser
+  - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Clan Invasion
@@ -149,8 +149,8 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - LRM 20 w/ Artemis IV (ammo: 12)
-  - Medium Pulse Laser × 2
   - ER Large Laser
+  - Medium Pulse Laser × 2
 - **Battle Value:** 1878
 
 ## Zeus ZEU-9T
@@ -164,8 +164,8 @@
   - ER PPC
   - LRM 15 w/ Artemis IV (ammo: 16)
   - ER Large Laser
-  - Medium Pulse Laser × 2
   - ER Medium Laser
+  - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -196,12 +196,12 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Gauss Rifle (ammo: 24)
-  - Clan LRM 15 w/ Artemis IV (ammo: 24)
   - Clan ER Large Laser
+  - Clan LRM 15 w/ Artemis IV (ammo: 24)
   - Clan ER Medium Laser × 2
 - **Equipment:**
-  - CASE II
   - Beagle Active Probe
+  - CASE II
 - **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2280
 

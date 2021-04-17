@@ -10,8 +10,8 @@
 - **Weapons:**
   - Clan Large Pulse Laser
   - Light PPC w/ PPC Capacitor
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
   - ER Medium Laser
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
 - **Equipment:**
   - Clan MASC
 - **Source:** Hist : WOTRA

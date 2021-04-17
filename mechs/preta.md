@@ -8,12 +8,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Retractable Blade
   - Snub-Nose PPC
   - Light PPC
+  - Retractable Blade
 - **Equipment:**
-  - C3i
   - Anti-Missile System (ammo: 12)
+  - C3i
   - CASE
 - **Source:** TRO 3075
 - **Battle Value:** unknown
@@ -61,13 +61,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 2
   - Plasma Rifle (ammo: 20)
+  - Medium Pulse Laser × 2
   - ER Small Laser
 - **Equipment:**
+  - Beagle Active Probe
   - C3i
   - TAG
-  - Beagle Active Probe
 - **Source:** TRO 3075
 - **Battle Value:** 1187
 
@@ -81,9 +81,9 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - Snub-Nose PPC
   - Medium Pulse Laser × 2
   - Small Pulse Laser × 2
-  - Snub-Nose PPC
 - **Equipment:**
   - C3i
 - **Source:** TRO 3075
@@ -135,8 +135,8 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Clan ER Medium Pulse Laser × 2
   - Clan ER Large Pulse Laser
+  - Clan ER Medium Pulse Laser × 2
 - **Equipment:**
   - C3i
 - **Battle Value:** 1566
@@ -151,12 +151,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - Retractable Blade
   - Snub-Nose PPC
   - ER Small Laser
+  - Retractable Blade
 - **Equipment:**
-  - C3i
   - Laser Anti-Missile System
+  - C3i
 - **Source:** Jihad
 - **Battle Value:** unknown
 

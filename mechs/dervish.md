@@ -9,8 +9,8 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - SRM 2 × 2 (ammo: 100)
   - LRM 10 × 2 (ammo: 24)
+  - SRM 2 × 2 (ammo: 100)
 - **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 864
 
@@ -23,9 +23,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
+  - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
   - SRM 2 × 2 (ammo: 100)
-  - LRM 10 × 2 (ammo: 24)
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1146
 
@@ -38,9 +38,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
+  - LRM 15 × 2 (ammo: 24)
   - Medium Laser × 2
   - SRM 2 × 2 (ammo: 100)
-  - LRM 15 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** ER 2750
@@ -55,9 +55,9 @@
 - **Armor:** 143 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
   - Streak SRM 2 × 2 (ammo: 100)
-  - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Succession Wars
@@ -72,8 +72,8 @@
 - **Armor:** 168
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser × 4
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
+  - ER Medium Laser × 4
 - **Equipment:**
   - CASE
 - **Source:** TRO 3050 - Civil War
@@ -108,8 +108,8 @@
   - Snub-Nose PPC × 2
   - ER Medium Laser × 4
 - **Equipment:**
-  - Coolant Pod × 2
   - Spikes
+  - Coolant Pod × 2
 - **Battle Value:** 1717
 
 ## Dervish DV-6Mr
@@ -121,9 +121,9 @@
 - **Armor:** 120
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
+  - LRM 10 × 2 (ammo: 24)
   - Medium Pulse Laser × 2
   - Medium Laser × 2
-  - LRM 10 × 2 (ammo: 24)
 - **Source:** Jihad
 - **Battle Value:** 1347
 

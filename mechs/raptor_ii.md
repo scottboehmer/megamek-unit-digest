@@ -8,13 +8,13 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - BattleMech Taser (ammo: 10)
   - Medium VSP Laser × 2
+  - BattleMech Taser (ammo: 10)
 - **Equipment:**
+  - Guardian ECM Suite
   - Void-Signature System
   - MASC
   - CASE
-  - Guardian ECM Suite
 - **Source:** Jihad
 - **Battle Value:** 896
 
@@ -27,16 +27,16 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Streak SRM 6 (ammo: 15)
   - ER Large Laser
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser
   - ER Small Laser
 - **Equipment:**
-  - Void-Signature System
+  - Guardian ECM Suite
   - Bloodhound Active Probe
+  - Void-Signature System
   - MASC
   - CASE
-  - Guardian ECM Suite
 - **Source:** Jihad
 - **Battle Value:** 1274
 
@@ -49,12 +49,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 11 (22)
 - **Weapons:**
-  - ER Medium Laser × 2
   - Streak SRM 6 × 2 (ammo: 30)
+  - ER Medium Laser × 2
 - **Equipment:**
+  - Guardian ECM Suite
   - Void-Signature System
   - MASC
-  - Guardian ECM Suite
 - **Source:** Dark Age
 - **Battle Value:** 1304
 
@@ -68,12 +68,12 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - ER Medium Laser
   - ER Large Laser
+  - ER Medium Laser
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
-  - Void-Signature System
   - Guardian ECM Suite
+  - Void-Signature System
 - **Source:** Dark Age
 - **Battle Value:** 1124
 
@@ -89,9 +89,9 @@
   - TSEMP
   - Medium VSP Laser × 2
 - **Equipment:**
+  - Angel ECM Suite
   - Void-Signature System
   - MASC
-  - Angel ECM Suite
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1868
 

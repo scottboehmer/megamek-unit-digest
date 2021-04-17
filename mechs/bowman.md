@@ -9,9 +9,9 @@
 - **Weapons:**
   - Arrow IV × 2 (ammo: 20)
 - **Equipment:**
-  - CASE
   - ECM Suite
   - A-Pod × 4
+  - CASE
 - **Source:** RS:3067U
 - **Battle Value:** 1657
 
@@ -23,13 +23,13 @@
 - **Armor:** 200
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - Arrow IV (ammo: 20)
   - LRM 20 (ammo: 6)
+  - Arrow IV (ammo: 20)
+  - ER Medium Laser × 3
 - **Equipment:**
-  - CASE
   - ECM Suite
   - A-Pod × 4
+  - CASE
 - **Source:** RS 3068 - Late Succession War - LosTech
 - **Battle Value:** 2209
 
@@ -41,13 +41,13 @@
 - **Armor:** 200
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - ER Medium Laser × 3
-  - LRM 20 × 2 (ammo: 24)
   - ER Large Laser
+  - LRM 20 × 2 (ammo: 24)
+  - ER Medium Laser × 3
 - **Equipment:**
-  - CASE
   - ECM Suite
   - A-Pod × 4
+  - CASE
 - **Source:** 3067 Unabridged
 - **Battle Value:** 2567
 
@@ -59,14 +59,14 @@
 - **Armor:** 217 (Ferro Fibrous)
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - ER Medium Laser × 4
   - HAG 20 (ammo: 18)
   - ATM 9 (ammo: 7 Standard, 7 ER, 7 HE)
+  - ER Medium Laser × 4
 - **Equipment:**
-  - CASE
-  - Targeting Computer
   - ECM Suite
   - B-Pod × 2
+  - CASE
+  - Targeting Computer
 - **Source:** 3067 Unabridged
 - **Battle Value:** 2767
 

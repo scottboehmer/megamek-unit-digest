@@ -7,8 +7,8 @@
 - **Armor:** 73 (Ferro Fibrous)
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - ER Small Laser × 2
   - ER Medium Laser
+  - ER Small Laser × 2
 - **Equipment:**
   - MASC
 - **Source:** TRO 3060
@@ -24,8 +24,8 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
 - **Equipment:**
-  - CASE
   - MASC
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 604
 
@@ -37,12 +37,12 @@
 - **Armor:** 57 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - AP Gauss Rifle × 2 (ammo: 40)
-  - ATM 3 (ammo: 40)
   - ER Medium Laser
+  - ATM 3 (ammo: 40)
+  - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
-  - CASE
   - ECM Suite
+  - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 903
 

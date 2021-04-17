@@ -9,8 +9,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Small Laser × 2
-  - Machine Gun (ammo: 100)
   - Flamer
+  - Machine Gun (ammo: 100)
 - **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** 261
 

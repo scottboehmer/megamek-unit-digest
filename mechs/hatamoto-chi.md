@@ -53,8 +53,8 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
-  - ER Medium Laser × 2
   - Streak SRM 6 × 2 (ammo: 30)
+  - ER Medium Laser × 2
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -72,8 +72,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Gauss Rifle (ammo: 24)
-  - Sword
   - Medium Pulse Laser × 6
+  - Sword
 - **Equipment:**
   - CASE
   - C3 Slave
@@ -90,9 +90,9 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
+  - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 2
   - Streak SRM 4 (ammo: 25)
-  - Streak SRM 6 (ammo: 15)
 - **Equipment:**
   - Guardian ECM Suite
   - CASE

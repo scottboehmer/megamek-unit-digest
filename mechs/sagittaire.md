@@ -8,10 +8,10 @@
 - **Armor:** 288
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
+  - ER PPC
   - Large Pulse Laser × 2
   - Medium Pulse Laser × 5
   - Small Pulse Laser
-  - ER PPC
 - **Equipment:**
   - Targeting Computer
 - **Source:** TRO 3067
@@ -26,10 +26,10 @@
 - **Armor:** 288
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
+  - ER PPC
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Medium Laser × 5
   - Small Pulse Laser
-  - ER PPC
 - **Equipment:**
   - C3 Master
 - **Source:** 3067 Unabridged
@@ -59,10 +59,10 @@
 - **Cockpit:** Small
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Large Re-Engineered Laser × 2
-  - Medium VSP Laser × 3
-  - Medium X-Pulse Laser
   - ER Large Laser
+  - Large Re-Engineered Laser × 2
+  - Medium X-Pulse Laser
+  - Medium VSP Laser × 3
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Boosted Slave

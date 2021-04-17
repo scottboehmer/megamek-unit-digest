@@ -8,11 +8,11 @@
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 100)
+  - LRM 15 (ammo: 16)
   - Large Laser
   - Medium Laser × 3
-  - LRM 15 (ammo: 16)
   - SRM 2 (ammo: 50)
+  - Machine Gun × 2 (ammo: 100)
 - **Source:** XTRO Primitives III - Age of War
 - **Battle Value:** 1237
 
@@ -24,11 +24,11 @@
 - **Armor:** 208
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
+  - LRM 15 (ammo: 16)
   - Large Laser
   - Medium Laser × 3
-  - LRM 15 (ammo: 16)
   - SRM 2 (ammo: 50)
+  - Machine Gun × 2 (ammo: 200)
 - **Source:** TRO 3039 - Age of War
 - **Battle Value:** 1335
 
@@ -40,9 +40,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
-  - Medium Laser × 4
   - Large Pulse Laser
   - Ultra AC/5 (ammo: 40)
+  - Medium Laser × 4
   - SRM 2 (ammo: 50)
 - **Source:** ER 2750
 - **Battle Value:** 1392
@@ -55,11 +55,11 @@
 - **Armor:** 208
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - ER PPC
-  - Medium Laser × 3
   - LRM 15 w/ Artemis IV (ammo: 16)
+  - Medium Laser × 3
   - Streak SRM 2 (ammo: 50)
+  - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Battle Value:** 1613
@@ -72,8 +72,8 @@
 - **Armor:** 208
 - **Heat Sinks:** 14 (14)
 - **Weapons:**
-  - LRM 10 (ammo: 12)
   - AC/20 (ammo: 10)
+  - LRM 10 (ammo: 12)
 - **Source:** RS:Succession Wars - Succession Wars
 - **Battle Value:** 1231
 
@@ -85,11 +85,11 @@
 - **Armor:** 208
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - ER Large Laser
-  - Medium Laser × 3
   - LRM 15 (ammo: 16)
+  - Medium Laser × 3
   - Streak SRM 2 w/ Artemis IV (ammo: 50)
+  - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
 - **Source:** Hist - 2nd SW
@@ -103,11 +103,11 @@
 - **Armor:** 208
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
-  - Small Pulse Laser × 2
   - ER Large Laser
-  - Medium Laser × 3
   - LRM 15 (ammo: 16)
+  - Medium Laser × 3
   - SRM 2 (ammo: 50)
+  - Small Pulse Laser × 2
 - **Source:** Hist - 2nd SW
 - **Battle Value:** 1374
 
@@ -161,11 +161,11 @@
 - **Armor:** 206 (Ferro Fibrous)
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - ER Large Laser
+  - LRM 15 (ammo: 16)
   - Medium Laser × 3
   - Streak SRM 2 (ammo: 50)
-  - LRM 15 (ammo: 16)
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
 - **Source:** Clan Invasion
@@ -196,10 +196,10 @@
 - **Armor:** 208
 - **Heat Sinks:** 24 (24)
 - **Weapons:**
-  - ER Medium Laser
-  - ER Small Laser × 2
   - Large Pulse Laser
   - ER Large Laser
+  - ER Medium Laser
+  - ER Small Laser × 2
 - **Battle Value:** 1671
 
 ## Thunderbolt TDR-9S
@@ -210,14 +210,14 @@
 - **Armor:** 211
 - **Heat Sinks:** 15 (30)
 - **Weapons:**
-  - Machine Gun × 2 (ammo: 200)
   - ER PPC
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
   - Flamer × 2
+  - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - CASE
   - Anti-Missile System (ammo: 12)
+  - CASE
 - **Source:** Clan Invasion
 - **Battle Value:** 1494
 
@@ -234,9 +234,9 @@
   - LRM 10 (ammo: 12)
   - ER Medium Laser × 3
 - **Equipment:**
+  - Guardian ECM Suite
   - Targeting Computer
   - MASC
-  - Guardian ECM Suite
 - **Source:** Civil War
 - **Battle Value:** 2008
 
@@ -249,8 +249,8 @@
 - **Armor:** 206 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - Gauss Rifle (ammo: 16)
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Civil War
@@ -266,8 +266,8 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light Gauss Rifle (ammo: 16)
-  - ER Medium Laser × 3
   - LRM 15 (ammo: 16)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** Civil War
@@ -285,9 +285,9 @@
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
 - **Equipment:**
+  - Guardian ECM Suite
   - Targeting Computer
   - CASE
-  - Guardian ECM Suite
 - **Source:** Civil War
 - **Battle Value:** 1864
 
@@ -301,12 +301,12 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Snub-Nose PPC
-  - ER Medium Laser × 3
   - MML 7 (ammo: 17 LRM, 14 SRM)
+  - ER Medium Laser × 3
 - **Equipment:**
+  - Guardian ECM Suite
   - Targeting Computer
   - CASE
-  - Guardian ECM Suite
 - **Source:** Jihad
 - **Battle Value:** 1754
 
@@ -321,8 +321,8 @@
 - **Myomer:** Triple-Strength
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Medium Pulse Laser × 4
   - ER PPC
+  - Medium Pulse Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:** Jihad
@@ -339,10 +339,10 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Snub-Nose PPC × 2
-  - Medium Pulse Laser × 2
-  - Small Laser × 2
   - ER Medium Laser × 3
+  - Medium Pulse Laser × 2
   - Small Pulse Laser
+  - Small Laser × 2
 - **Source:** Jihad
 - **Battle Value:** 1975
 
@@ -355,15 +355,15 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - Large VSP Laser
-  - Light PPC
   - Streak SRM 6 (ammo: 15)
+  - Light PPC
   - ER Medium Laser × 3
 - **Equipment:**
+  - Guardian ECM Suite
   - Bloodhound Active Probe
+  - B-Pod × 2
   - C3 Slave
   - CASE
-  - Guardian ECM Suite
-  - B-Pod × 2
 - **Source:** Jihad
 - **Battle Value:** 1632
 
@@ -392,9 +392,9 @@
 - **Armor:** 208
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
+  - LRM 10 (ammo: 24)
   - Light PPC × 2
   - ER Medium Laser × 3
-  - LRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
@@ -433,8 +433,8 @@
   - Light PPC
   - Medium Pulse Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
-  - Flamer
   - Small VSP Laser
+  - Flamer
 - **Equipment:**
   - Guardian ECM Suite
 - **Source:**  TRO 3085/BD Salazar Tsakalotos - Jihad
@@ -451,8 +451,8 @@
 - **Weapons:**
   - ER PPC
   - ER Large Laser
-  - ER Medium Laser × 3
   - LRM 15 (ammo: 16)
+  - ER Medium Laser × 3
 - **Equipment:**
   - CASE
 - **Source:** RS 3145 NYNU
