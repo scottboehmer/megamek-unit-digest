@@ -654,6 +654,7 @@
 - [Uni ATAE-70 CargoMech](mechs/uni_atae-70_cargomech.md)
 - [Uni ATAE-70 MilitiaMech](mechs/uni_atae-70_militiamech.md)
 - [Uni ATAE-70T CargoMech](mechs/uni_atae-70t_cargomech.md)
+- [Uraeus](mechs/uraeus.md)
 - [UrbanMech](mechs/urbanmech.md)
 - [UrbanMech IIC](mechs/urbanmech_iic.md)
 - [Ursa](mechs/ursa.md)

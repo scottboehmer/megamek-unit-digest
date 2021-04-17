@@ -1473,6 +1473,7 @@
 
 ### [Beowulf](mechs/beowulf.md)
 - **Beowulf BEO-12** *Skirmisher (3059)*
+- **Beowulf BEO-X-7a** *Skirmisher (3068)*
 - **Beowulf C** *Undefined (3074)*
 - **Beowulf BEO-14** *Skirmisher (3075)*
 
@@ -3786,6 +3787,9 @@
 - **Tundra Wolf 4** *Brawler (3077)*
 - **Tundra Wolf 5** *Juggernaut (3086)*
 
+### [Uraeus](mechs/uraeus.md)
+- **Uraeus UAE-7R** *Brawler (3135)*
+
 ### [Viper (Black Python)](mechs/viper_black_python.md)
 - **Viper (Black Python) (Standard)** *Skirmisher (3051)*
 - **Viper (Black Python) 2** *Skirmisher (3052)*
@@ -4621,6 +4625,7 @@
 - **Annihilator ANH-2A** *Juggernaut (3048)*
 - **Annihilator ANH-3A** *Juggernaut (3068)*
 - **Annihilator ANH-4A** *Sniper (3069)*
+- **Annihilator ANH-2AX** *Sniper (3074)*
 
 ### [Archangel](mechs/archangel.md)
 - **Archangel  C-ANG-O Invictus** *Sniper (3069)*
@@ -4706,6 +4711,7 @@
 - **Devastator DVS-1D** *Juggernaut (3036)*
 - **Devastator DVS-2** *Juggernaut (3048)*
 - **Devastator DVS-3** *Sniper (3058)*
+- **Devastator DVS-X10 MUSE EARTH** *Skirmisher (3075)*
 
 ### [Diomede](mechs/diomede.md)
 - **Diomede D-M3D-3 ConstructionMech** *Missile Boat (3084)*
@@ -4728,6 +4734,7 @@
 
 ### [Great Turtle](mechs/great_turtle.md)
 - **Great Turtle GTR-1** *Juggernaut (3067)*
+- **Great Turtle GTR-2** *Juggernaut (3068)*
 
 ### [Imp](mechs/imp.md)
 - **Imp IMP-1A** *Juggernaut (2793)*

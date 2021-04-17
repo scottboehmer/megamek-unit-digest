@@ -201,6 +201,7 @@
 
 ## U
 - [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
+- [Uraeus](../mechs/uraeus.md)
 - [Ursus](../mechs/ursus.md)
 
 ## V

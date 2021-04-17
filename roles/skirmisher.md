@@ -51,6 +51,7 @@
 - [Daikyu](../mechs/daikyu.md)
 - [Dark Crow](../mechs/dark_crow.md)
 - [Deva](../mechs/deva.md)
+- [Devastator](../mechs/devastator.md)
 - [Doloire](../mechs/doloire.md)
 - [Dominator](../mechs/dominator.md)
 - [Dragon](../mechs/dragon.md)

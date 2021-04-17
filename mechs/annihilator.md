@@ -142,3 +142,18 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1726
 
+## Annihilator ANH-2AX
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3074)
+- **Chassis:** 100 tons
+- **Movement:** 2 / 3, Compact
+- **Armor:** 304 (Laser Reflective)
+- **Gyroscope:** Compact Gyro
+- **Cockpit:** Armored, Armored Life Support, Armored Sensors
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Improved Heavy Gauss Rifle × 2 (ammo: 32)
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2553
+

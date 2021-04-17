@@ -17,6 +17,25 @@
 - **Source:** TRO 3060
 - **Battle Value:** 1319
 
+## Beowulf BEO-X-7a
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 45 tons (Composite)
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 7
+- **Armor:** 152 (Stealth)
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 4
+- **Equipment:**
+  - Armored Bloodhound Active Probe
+  - TAG
+  - MASC
+  - Armored Angel ECM Suite
+- **Source:** XTRO ComStar - Jihad
+- **Battle Value:** 1473
+
 ## Beowulf C
 - **Role:** Undefined
 - **Tech Base:** Clan (3074)

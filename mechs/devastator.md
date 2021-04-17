@@ -42,3 +42,21 @@
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2452
 
+## Devastator DVS-X10 MUSE EARTH
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere Mixed (3075)
+- **Chassis:** 100 tons (Endo Composite)
+- **Movement:** 4 / 6 (10), XXL
+- **Armor:** 307 (Reactive)
+- **Gyroscope:** Armored Compact Gyro
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Heavy PPC w/ PPC Capacitor × 2
+  - Medium VSP Laser × 2
+- **Equipment:**
+  - MASC
+  - Armored Supercharger
+  - Armored Actuator × 4
+- **Source:** Jihad
+- **Battle Value:** 3250
+
