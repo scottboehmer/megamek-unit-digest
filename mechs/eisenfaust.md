@@ -57,5 +57,5 @@
   - Blazer Cannon
   - Medium Pulse Laser × 2
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 1039
 

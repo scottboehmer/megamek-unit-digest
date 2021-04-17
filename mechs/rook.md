@@ -61,7 +61,7 @@
 - **Equipment:**
   - Supercharger
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 1746
 
 ## Rook NH-1X 'Rook-X'
 - **Role:** Juggernaut

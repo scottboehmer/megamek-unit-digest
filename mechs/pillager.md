@@ -83,3 +83,19 @@
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2939
 
+## Pillager PLG-4X 'Anvil'
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere (3077)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5, Light
+- **Armor:** 272
+- **Cockpit:** Small
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Long Tom Cannon × 2 (ammo: 20)
+- **Equipment:**
+  - Coolant Pod × 2
+  - Laser Anti-Missile System
+- **Source:** XTRO Liao - Jihad
+- **Battle Value:** 1884
+

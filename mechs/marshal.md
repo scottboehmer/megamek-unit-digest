@@ -50,7 +50,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM)
   - Medium Pulse Laser
 - **Equipment:**
-  - MG Array
+  - Machine Gun Array
 - **Source:** TRO 3060
 - **Battle Value:** 1457
 

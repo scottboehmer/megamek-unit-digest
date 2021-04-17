@@ -156,7 +156,7 @@
   - CASE
   - C3 Boosted Slave
 - **Source:** RS 3145 NTNU - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 1854
 
 ## Sunder SD1-OG
 - **Role:** Brawler

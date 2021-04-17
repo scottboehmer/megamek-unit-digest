@@ -150,10 +150,10 @@
   - Heavy Machine Gun × 8 (ammo: 100)
   - ER Medium Laser × 3
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
 - **Source:** TRO 3050 - Jihad
-- **Battle Value:** 1610
+- **Battle Value:** 1689
 
 ## Dragonfly (Viper) G
 - **Role:** Striker

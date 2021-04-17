@@ -36,3 +36,20 @@
 - **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2249
 
+## Loki Mk II (Hel) B
+- **Role:** Brawler
+- **Tech Base:** Clan (3121)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Cockpit:** Small
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Long Tom Cannon (ammo: 15)
+  - ER Large Laser
+  - Medium Pulse Laser × 4
+- **Equipment:**
+  - CASE
+- **Source:** TRO 3145 The Clans - Late Republic
+- **Battle Value:** 1798
+

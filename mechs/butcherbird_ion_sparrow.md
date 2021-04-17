@@ -29,11 +29,11 @@
   - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Partial Wing
-  - MG Array × 2
+  - Machine Gun Array × 2
   - Active Probe
   - CASE
 - **Source:** ilClan Vol 11 - Dark Age
-- **Battle Value:** 436
+- **Battle Value:** 501
 
 ## Butcherbird (Ion Sparrow) B
 - **Role:** Scout

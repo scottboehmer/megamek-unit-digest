@@ -104,7 +104,7 @@
   - CASE
   - Supercharger
 - **Source:** XTRO Steiner - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 2132
 
 ## Axman AXM-6T
 - **Role:** Missile Boat
@@ -118,7 +118,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1830
 
 ## Axman AXM-5N
 - **Role:** Skirmisher

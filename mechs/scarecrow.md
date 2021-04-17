@@ -14,7 +14,7 @@
   - Clan Light Machine Gun × 8 (ammo: 100)
   - ER Flamer × 2
 - **Equipment:**
-  - Clan MG Array × 2
+  - Clan Machine Gun Array × 2
   - Chameleon LPS
   - Bloodhound Active Probe
   - CASE II

@@ -198,7 +198,7 @@
   - Light Machine Gun × 6 (ammo: 100)
   - ER Medium Laser
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 482

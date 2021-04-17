@@ -58,7 +58,7 @@
   - Machine Gun × 4 (ammo: 100)
   - Light Machine Gun × 4 (ammo: 100)
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
   - Targeting Computer
 - **Source:** Jihad

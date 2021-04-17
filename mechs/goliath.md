@@ -122,7 +122,7 @@
   - Heavy PPC
 - **Equipment:**
   - B-Pod × 4
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 1655

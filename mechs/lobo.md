@@ -48,7 +48,7 @@
   - AP Gauss Rifle × 2 (ammo: 40)
   - ER PPC
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
 - **Source:** 3067 Unabridged
 - **Battle Value:** 1784

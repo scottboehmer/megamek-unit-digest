@@ -12,7 +12,7 @@
   - ER Large Laser
   - Machine Gun × 8 (ammo: 200)
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - MASC
   - Beagle Active Probe
   - CASE

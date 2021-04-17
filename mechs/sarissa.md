@@ -13,5 +13,5 @@
   - Small Laser
   - Machine Gun (ammo: 100)
 - **Source:** XTRO Marik - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 850
 

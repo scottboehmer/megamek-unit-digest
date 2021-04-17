@@ -123,9 +123,9 @@
   - Machine Gun × 8 (ammo: 200)
   - ER Large Laser
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
   - Active Probe
 - **Source:** TRO 3058 - Jihad
-- **Battle Value:** 1084
+- **Battle Value:** 1135
 

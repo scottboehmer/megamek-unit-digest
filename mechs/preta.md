@@ -123,7 +123,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1211
 
 ## Preta C-PRT-OS Caelestis
 - **Role:** Striker

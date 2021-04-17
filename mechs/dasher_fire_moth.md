@@ -158,11 +158,11 @@
   - Light Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - MASC
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
   - B-Pod × 2
 - **Source:** TRO 3050 - Jihad
-- **Battle Value:** 824
+- **Battle Value:** 884
 
 ## Dasher (Fire Moth) G
 - **Role:** Striker
@@ -247,6 +247,24 @@
   - MASC
 - **Source:** Dark Age
 - **Battle Value:** 1260
+
+## Dasher (Fire Moth) T
+- **Role:** Undefined
+- **Tech Base:** Clan (3142)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15 (25), XL
+- **Armor:** 38 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - SRM 6 (ammo: 15)
+  - Streak SRM 4 (iOS)
+- **Equipment:**
+  - CASE
+  - Supercharger
+  - MASC
+- **Source:** Dark Age
+- **Battle Value:** 1305
 
 ## Dasher (Fire Moth) J
 - **Role:** Undefined

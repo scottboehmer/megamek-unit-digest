@@ -153,5 +153,5 @@
   - ER Flamer × 2
 - **Equipment:**
   - C3i
-- **Battle Value:** unknown
+- **Battle Value:** 2026
 

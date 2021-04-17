@@ -33,6 +33,7 @@
 - [Daishi (Dire Wolf)](../mechs/daishi_dire_wolf.md)
 - [DemolitionMech](../mechs/demolitionmech.md)
 - [Devastator](../mechs/devastator.md)
+- [Dig Lord](../mechs/dig_lord.md)
 - [Diomede](../mechs/diomede.md)
 - [Doloire](../mechs/doloire.md)
 

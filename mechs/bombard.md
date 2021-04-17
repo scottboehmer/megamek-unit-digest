@@ -25,7 +25,7 @@
   - CASE
   - Spikes × 2
 - **Source:** TRO 3055 - Civil War
-- **Battle Value:** unknown
+- **Battle Value:** 1019
 
 ## Bombard BMB-1X
 - **Role:** Sniper

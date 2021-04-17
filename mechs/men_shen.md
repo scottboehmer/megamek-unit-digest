@@ -112,9 +112,9 @@
 - **Equipment:**
   - MASC
   - Beagle Active Probe
-  - MG Array × 2
+  - Machine Gun Array × 2
 - **Source:** TRO 3060
-- **Battle Value:** 1574
+- **Battle Value:** 1625
 
 ## Men Shen MS1-OF
 - **Role:** Striker

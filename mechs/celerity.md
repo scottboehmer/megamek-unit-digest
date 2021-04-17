@@ -32,6 +32,23 @@
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** unknown
 
+## Celerity CLR-03-OA
+- **Role:** Scout
+- **Tech Base:** Inner Sphere Mixed (3138)
+- **Chassis:** 15 tons Quad (Endo Steel)
+- **Movement:** 16 / 24 (32), XXL
+- **Armor:** 24
+- **Gyroscope:** XL Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan SRM 6 (iOS) × 2
+- **Equipment:**
+  - MASC
+  - Drone Operating System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Battle Value:** unknown
+
 ## Celerity CLR-03-OB
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3138)

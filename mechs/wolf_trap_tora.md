@@ -79,7 +79,7 @@
   - ER Medium Laser
   - Light Machine Gun × 3 (ammo: 200)
 - **Equipment:**
-  - MG Array
+  - Machine Gun Array
   - CASE
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1212

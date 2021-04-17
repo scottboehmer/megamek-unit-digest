@@ -340,7 +340,7 @@
 - **Equipment:**
   - CASE
 - **Source:** ilClan Vol 12 - Early Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1296
 
 ## Shadow Hawk SHD-7H
 - **Role:** Skirmisher
@@ -373,4 +373,22 @@
   - Heavy PPC
 - **Source:** ilClan Vol 12 - Early Republic
 - **Battle Value:** 1569
+
+## Shadow Hawk SHD-6D
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3141)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8
+  - **Jumping:** 5
+- **Armor:** 170 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Medium Re-Engineered Laser
+  - Large Re-Engineered Laser
+  - MML 5 (ammo: 24 LRM, 20 SRM)
+  - Streak SRM 2 (iOS)
+- **Equipment:**
+  - CASE II
+- **Source:** ilClan Vol 12 - Clan Invasion
+- **Battle Value:** 1371
 

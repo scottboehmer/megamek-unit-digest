@@ -5,6 +5,7 @@
 ### [Celerity](mechs/celerity.md)
 - **Celerity CLR-02-X-D** *Scout (3052)*
 - **Celerity  CLR-03-O** *Scout (3138)*
+- **Celerity  CLR-03-OA** *Scout (3138)*
 - **Celerity  CLR-03-OB** *Scout (3138)*
 - **Celerity  CLR-03-OC** *Scout (3138)*
 - **Celerity  CLR-03-OD** *Scout (3138)*
@@ -70,6 +71,7 @@
 - **Dasher (Fire Moth)  R** *Undefined (3110)*
 - **Dasher (Fire Moth)  P** *Undefined (3132)*
 - **Dasher (Fire Moth)  I** *Undefined (3139)*
+- **Dasher (Fire Moth)  T** *Undefined (3142)*
 - **Dasher (Fire Moth)  J** *Undefined (3145)*
 
 ### [Fireball](mechs/fireball.md)
@@ -214,6 +216,7 @@
 - **Wasp WSP-3P** *Scout (3086)*
 - **Wasp WSP-3K** *Scout (3110)*
 - **Wasp WSP-5A** *Scout (3114)*
+- **Wasp C** *Sniper (3143)*
 
 ## 25 Tons
 
@@ -438,6 +441,7 @@
 - **Sling SL-1H** *Striker (2766)*
 
 ### [Sokuryou](mechs/sokuryou.md)
+- **Sokuryou SKU-181 SurveyMech** *Scout (3084)*
 - **Sokuryou SKU-197 SurveyMech** *Scout (3084)*
 - **Sokuryou SKU-198 SurveyMech** *Scout (3085)*
 
@@ -492,6 +496,12 @@
 
 ### [Carbine CON-7M ConstructionMech](mechs/carbine_con-7m_constructionmech.md)
 - **Carbine CON-7M ConstructionMech MOD** *Ambusher (3078)*
+
+### [Carbine CON-8 ConstructionMech](mechs/carbine_con-8_constructionmech.md)
+- **Carbine CON-8 ConstructionMech (Standard)** *Undefined (3066)*
+
+### [Carbine CON-8H HaulerMech](mechs/carbine_con-8h_haulermech.md)
+- **Carbine CON-8H HaulerMech (Standard)** *Ambusher (3070)*
 
 ### [Carbine CON-9 ConstructionMech](mechs/carbine_con-9_constructionmech.md)
 - **Carbine CON-9 ConstructionMech (Standard)** *Ambusher (3071)*
@@ -2078,6 +2088,7 @@
 - **Shockwave SKW-2F** *Skirmisher (3082)*
 - **Shockwave SKW-4G** *Skirmisher (3083)*
 - **Shockwave SKW-6H** *Sniper (3102)*
+- **Shockwave SKW-8X** *Brawler (3134)*
 
 ### [Stalking Spider](mechs/stalking_spider.md)
 - **Stalking Spider (Standard)** *Skirmisher (3059)*
@@ -2456,6 +2467,7 @@
 - **Shadow Hawk SHD-5R** *Scout (3087)*
 - **Shadow Hawk SHD-7H** *Skirmisher (3097)*
 - **Shadow Hawk SHD-4H** *Sniper (3101)*
+- **Shadow Hawk SHD-6D** *Skirmisher (3141)*
 
 ### [Stooping Hawk](mechs/stooping_hawk.md)
 - **Stooping Hawk  Prime** *Skirmisher (2970)*
@@ -2914,6 +2926,10 @@
 - **Crusader CRD-6M** *Skirmisher (3074)*
 - **Crusader CRD-8L** *Skirmisher (3083)*
 
+### [Dig Lord](mechs/dig_lord.md)
+- **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
+- **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)*
+
 ### [Dominator](mechs/dominator.md)
 - **Dominator (Standard)** *Skirmisher (3148)*
 - **Dominator 2** *Sniper (3149)*
@@ -2958,6 +2974,7 @@
 ### [Jinggau](mechs/jinggau.md)
 - **Jinggau JN-G8A** *Skirmisher (3060)*
 - **Jinggau JN-G7L** *Skirmisher (3068)*
+- **Jinggau JN-G8BX (Rush)** *Missile Boat (3070)*
 - **Jinggau JN-G9CC** *Skirmisher (3072)*
 
 ### [Karhu](mechs/karhu.md)
@@ -2977,6 +2994,7 @@
 - **Koschei KSC-5MC** *Skirmisher (3068)*
 - **Koschei KSC-5I** *Skirmisher (3071)*
 - **Koschei KSC-5X** *Skirmisher (3075)*
+- **Koschei KSC-6L** *Skirmisher (3105)*
 
 ### [Lament](mechs/lament.md)
 - **Lament LMT-2R** *Brawler (3126)*
@@ -2993,6 +3011,8 @@
 - **Linebacker  D** *Skirmisher (3052)*
 - **Linebacker  E** *Skirmisher (3061)*
 - **Linebacker  H** *Skirmisher (3062)*
+- **Linebacker  F** *Skirmisher (3068)*
+- **Linebacker  G** *Skirmisher (3114)*
 - **Linebacker  I** *Scout (3142)*
 - **Linebacker  T** *Skirmisher (3142)*
 
@@ -3013,6 +3033,7 @@
 ### [Loki Mk II (Hel)](mechs/loki_mk_ii_hel.md)
 - **Loki Mk II (Hel)  (Prime)** *Sniper (3121)*
 - **Loki Mk II (Hel)  A** *Brawler (3121)*
+- **Loki Mk II (Hel)  B** *Brawler (3121)*
 
 ### [Morpheus](mechs/morpheus.md)
 - **Morpheus MR-P1** *Scout (3051)*
@@ -3972,6 +3993,9 @@
 - **Salamander PPR-7S** *Missile Boat (3064)*
 - **Salamander PPR-7T** *Missile Boat (3111)*
 
+### [ScavengerMech SC-V-M MilitiaMech](mechs/scavengermech_sc-v-m_militiamech.md)
+- **ScavengerMech SC-V-M MilitiaMech (Standard)** *Ambusher (2800)*
+
 ### [Spartan](mechs/spartan.md)
 - **Spartan SPT-N1** *Skirmisher (2764)*
 - **Spartan SPT-N2** *Skirmisher (2765)*
@@ -4009,6 +4033,7 @@
 - **Victor VTR-10D** *Skirmisher (3064)*
 - **Victor VTR-11D** *Skirmisher (3065)*
 - **Victor VTR-10L** *Skirmisher (3066)*
+- **Victor VTR-9K2 (St. James)** *Missile Boat (3069)*
 - **Victor VTR-9Ka** *Skirmisher (3076)*
 
 ### [Warhammer IIC](mechs/warhammer_iic.md)
@@ -4737,6 +4762,7 @@
 - **Kiso Command Mech K-3N-KRHQ** *Juggernaut (2823)*
 
 ### [Kiso ConstructionMech](mechs/kiso_constructionmech.md)
+- **Kiso ConstructionMech K-3N-KR4** *Juggernaut (2703)*
 - **Kiso ConstructionMech K-3N-KR5** *Juggernaut (2703)*
 
 ### [Kodiak](mechs/kodiak.md)
@@ -4800,6 +4826,7 @@
 - **Pillager PLG-4Z** *Sniper (3064)*
 - **Pillager PLG-5L** *Missile Boat (3068)*
 - **Pillager PLG-5Z** *Sniper (3070)*
+- **Pillager PLG-4X 'Anvil'** *Missile Boat (3077)*
 
 ### [Scylla](mechs/scylla.md)
 - **Scylla (Standard)** *Missile Boat (3062)*

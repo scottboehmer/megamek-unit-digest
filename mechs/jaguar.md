@@ -28,7 +28,7 @@
   - Medium Pulse Laser × 2
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
   - Targeting Computer
   - Active Probe

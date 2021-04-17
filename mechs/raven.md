@@ -144,7 +144,7 @@
   - Machine Gun × 4 (ammo: 100)
   - SRM 6 (ammo: 15)
 - **Equipment:**
-  - MG Array
+  - Machine Gun Array
   - Guardian ECM Suite
   - CASE
   - Beagle Active Probe

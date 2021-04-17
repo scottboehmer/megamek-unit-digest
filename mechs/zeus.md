@@ -56,7 +56,7 @@
   - LRM 10 (ammo: 12)
   - Blazer Cannon
 - **Source:** XTRO Succession Wars
-- **Battle Value:** unknown
+- **Battle Value:** 1323
 
 ## Zeus ZEU-6A
 - **Role:** Undefined

@@ -47,7 +47,7 @@
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Draconis Combine - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 1529
 
 ## Avalanche AVL-1OC
 - **Role:** Skirmisher

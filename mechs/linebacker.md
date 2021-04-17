@@ -114,6 +114,38 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2097
 
+## Linebacker F
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3068)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+- **Armor:** 192 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - SRM 6 × 4 (ammo: 45)
+  - Narc (iOS)
+  - ER PPC
+- **Equipment:**
+  - CASE
+- **Source:** ilClan Rec Guide 6 - Jihad
+- **Battle Value:** 1928
+
+## Linebacker G
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3114)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 6 / 9 (12), XL
+- **Armor:** 192 (Ferro Fibrous)
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - Improved Heavy Large Laser × 2
+  - Streak SRM 2 (iOS) × 2
+- **Equipment:**
+  - Targeting Computer
+  - Supercharger
+- **Source:** ilClan Rec Guide 6 - Late Republic
+- **Battle Value:** 2433
+
 ## Linebacker I
 - **Role:** Scout
 - **Tech Base:** Clan (3142)
@@ -125,11 +157,11 @@
   - Machine Gun × 20 (ammo: 300)
   - ER Large Pulse Laser
 - **Equipment:**
-  - MG Array × 6
+  - Machine Gun Array × 6
   - Active Probe
   - CASE
   - Supercharger
-- **Battle Value:** 1727
+- **Battle Value:** 1853
 
 ## Linebacker T
 - **Role:** Skirmisher

@@ -66,5 +66,5 @@
   - Medium X-Pulse Laser
 - **Equipment:**
   - CASE II
-- **Battle Value:** unknown
+- **Battle Value:** 2028
 

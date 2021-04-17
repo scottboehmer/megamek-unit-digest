@@ -36,7 +36,7 @@
   - ATM 9 (ammo: 14)
   - ER Flamer
 - **Equipment:**
-  - MG Array
+  - Machine Gun Array
   - CASE
 - **Source:** TRO 3060
 - **Battle Value:** 1524

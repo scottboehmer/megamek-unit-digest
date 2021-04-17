@@ -110,7 +110,7 @@
   - ER Medium Laser
   - ER Large Laser
 - **Equipment:**
-  - MG Array
+  - Machine Gun Array
   - C3i
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 940

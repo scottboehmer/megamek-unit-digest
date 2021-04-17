@@ -7,6 +7,7 @@
 ## C
 - [Carbine CON-1 ConstructionMech](../mechs/carbine_con-1_constructionmech.md)
 - [Carbine CON-7M ConstructionMech](../mechs/carbine_con-7m_constructionmech.md)
+- [Carbine CON-8H HaulerMech](../mechs/carbine_con-8h_haulermech.md)
 - [Carbine CON-9 ConstructionMech](../mechs/carbine_con-9_constructionmech.md)
 - [Carbine CON-9M-B ConstructionMech](../mechs/carbine_con-9m-b_constructionmech.md)
 - [CattleMaster](../mechs/cattlemaster.md)
@@ -36,6 +37,9 @@
 - [Pompier Firemech](../mechs/pompier_firemech.md)
 - [Powerman SC XV HaulerMech](../mechs/powerman_sc_xv_haulermech.md)
 - [Powerman SC XVI HaulerMech](../mechs/powerman_sc_xvi_haulermech.md)
+
+## S
+- [ScavengerMech SC-V-M MilitiaMech](../mechs/scavengermech_sc-v-m_militiamech.md)
 
 ## U
 - [Uni ATAE-70T CargoMech](../mechs/uni_atae-70t_cargomech.md)

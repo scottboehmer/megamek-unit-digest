@@ -54,7 +54,7 @@
 - **Equipment:**
   - AES × 2
   - CASE II
-  - MG Array
+  - Machine Gun Array
 - **Source:** XTRO Republic II - Late Republic
 - **Battle Value:** 1654
 

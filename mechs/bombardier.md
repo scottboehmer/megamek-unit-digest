@@ -73,7 +73,7 @@
   - Machine Gun × 3 (ammo: 100)
   - MML 7 × 4 (ammo: 28 SRM, 51 LRM)
 - **Equipment:**
-  - MG Array
+  - Machine Gun Array
   - C3 Slave
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1235

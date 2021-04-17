@@ -44,3 +44,19 @@
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 1364
 
+## Shockwave SKW-8X
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3134)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 160
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Thumper Cannon (ammo: 0)
+  - Ultra AC/10 (ammo: 20)
+- **Equipment:**
+  - CASE
+- **Source:** RS 3145 NT NU
+- **Battle Value:** 1059
+

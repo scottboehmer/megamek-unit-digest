@@ -108,7 +108,7 @@
 - **Weapons:**
   - Blazer Cannon × 2
 - **Source:** XTRO Davion - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1670
 
 ## Enforcer III ENF-7C3BS
 - **Role:** Sniper

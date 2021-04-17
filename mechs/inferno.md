@@ -65,7 +65,7 @@
 - **Equipment:**
   - CASE II
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 1698
 
 ## Inferno INF-NOR
 - **Role:** Undefined

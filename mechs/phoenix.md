@@ -70,5 +70,5 @@
   - Thunderbolt 10 (ammo: 12)
   - SRM 2 × 2 (ammo: 50)
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 857
 

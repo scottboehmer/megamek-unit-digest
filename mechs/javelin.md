@@ -127,7 +127,7 @@
   - Machine Gun × 6 (ammo: 200)
   - Snub-Nose PPC
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 789
 

@@ -136,7 +136,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1686
 
 ## Deva C-DVA-OS Caelestis
 - **Role:** Skirmisher
@@ -155,7 +155,7 @@
   - Targeting Computer
   - Supercharger
   - Laser Anti-Missile System
-- **Battle Value:** unknown
+- **Battle Value:** 1785
 
 ## Deva C-DVA-OU Exanimus
 - **Role:** Brawler

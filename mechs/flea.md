@@ -97,7 +97,7 @@
   - Rocket 10
   - Flamer
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 341
 

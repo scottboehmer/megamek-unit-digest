@@ -1,4 +1,19 @@
 # Sokuryou
+## Sokuryou SKU-181 SurveyMech
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3084)
+- **Chassis:** 25 tons (Industrial)
+- **Movement:** 4 / 6, ICE
+- **Armor:** 88
+- **Heat Sinks:** 0 (0)
+- **Equipment:**
+  - TAG
+  - Extended Fuel Tank
+  - Communications Equipment
+  - Ejection Seat
+- **Source:** Dark Age
+- **Battle Value:** unknown
+
 ## Sokuryou SKU-197 SurveyMech
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3084)

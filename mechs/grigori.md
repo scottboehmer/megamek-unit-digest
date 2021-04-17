@@ -143,7 +143,7 @@
   - CASE
   - Guardian ECM Suite
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1426
 
 ## Grigori C-GRG-OE Eminus
 - **Role:** Brawler
@@ -163,7 +163,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1544
 
 ## Grigori C-GRG-OS Caelestis
 - **Role:** Brawler

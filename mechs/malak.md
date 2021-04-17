@@ -36,10 +36,10 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** 789
+- **Battle Value:** 823
 
 ## Malak C-MK-OB Infernus
 - **Role:** Striker
@@ -134,7 +134,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 957
 
 ## Malak C-MK-OS Caelestis
 - **Role:** Striker

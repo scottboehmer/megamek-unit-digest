@@ -247,3 +247,16 @@
   - CASE II
 - **Battle Value:** 517
 
+## Wasp C
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere Mixed (3143)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9
+  - **Jumping:** 6
+- **Armor:** 48 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan ER Large Laser
+  - Clan Streak SRM 2 (iOS)
+- **Battle Value:** 755
+

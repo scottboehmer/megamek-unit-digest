@@ -120,11 +120,11 @@
   - Heavy Machine Gun × 8 (ammo: 100)
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - B-Pod × 2
   - CASE
 - **Source:** TRO 3060
-- **Battle Value:** 1345
+- **Battle Value:** 1401
 
 ## Cougar G
 - **Role:** Sniper

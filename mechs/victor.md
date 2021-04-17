@@ -228,6 +228,21 @@
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 2279
 
+## Victor VTR-9K2 (St. James)
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere (3069)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 4 / 6 (8)
+- **Armor:** 244 (Light Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Medium X-Pulse Laser × 2
+  - Long Tom Cannon (ammo: 15)
+- **Equipment:**
+  - CASE
+  - Supercharger
+- **Battle Value:** 2006
+
 ## Victor VTR-9Ka
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)

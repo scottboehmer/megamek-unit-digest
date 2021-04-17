@@ -121,9 +121,9 @@
 - **Equipment:**
   - Nova CEWS
   - CASE
-  - MG Array × 2
+  - Machine Gun Array × 2
 - **Source:** WoR - Jihad
-- **Battle Value:** 2691
+- **Battle Value:** 2716
 
 ## Osteon G
 - **Role:** Missile Boat

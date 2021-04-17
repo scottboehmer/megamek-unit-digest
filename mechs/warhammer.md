@@ -457,7 +457,7 @@
   - CASE
   - C3 Boosted Slave
 - **Source:** RS 3145 NTNU
-- **Battle Value:** unknown
+- **Battle Value:** 1654
 
 ## Warhammer WHM-8R
 - **Role:** Brawler

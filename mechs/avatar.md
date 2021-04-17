@@ -204,7 +204,7 @@
 - **Equipment:**
   - CASE
 - **Source:** TRO 3058 - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1606
 
 ## Avatar AV1-OJ
 - **Role:** Sniper

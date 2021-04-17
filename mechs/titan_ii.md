@@ -31,7 +31,7 @@
   - Streak SRM 6 (ammo: 15)
   - Machine Gun × 8 (ammo: 200)
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
   - Beagle Active Probe
 - **Source:** TRO 3075

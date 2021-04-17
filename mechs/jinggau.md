@@ -28,6 +28,24 @@
 - **Source:** TRO 3060
 - **Battle Value:** 2137
 
+## Jinggau JN-G8BX (Rush)
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere (3070)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 4
+- **Armor:** 195 (Light Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Medium X-Pulse Laser × 4
+  - Sniper Cannon (ammo: 20)
+- **Equipment:**
+  - C3 Slave
+  - TAG
+- **Battle Value:** 1337
+
 ## Jinggau JN-G9CC
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3072)

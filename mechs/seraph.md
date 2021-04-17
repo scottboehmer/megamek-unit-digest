@@ -144,7 +144,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 2148
 
 ## Seraph C-SRP-OR (Ravana)
 - **Role:** Juggernaut

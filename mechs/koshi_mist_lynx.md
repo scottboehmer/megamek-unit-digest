@@ -177,10 +177,10 @@
   - Heavy Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Active Probe
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
 - **Source:** TRO 3050 - Jihad
-- **Battle Value:** 764
+- **Battle Value:** 834
 
 ## Koshi (Mist Lynx) Z
 - **Role:** Striker

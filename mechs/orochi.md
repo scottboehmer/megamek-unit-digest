@@ -11,5 +11,5 @@
   - Streak SRM 4 × 2 (ammo: 50)
   - ER Small Laser
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 2077
 

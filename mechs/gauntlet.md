@@ -14,7 +14,7 @@
   - CASE
   - Supercharger
 - **Source:** TRO 3145 Lyran Commonwealth - Late Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1846
 
 ## Gauntlet GTL-1OA
 - **Role:** Skirmisher

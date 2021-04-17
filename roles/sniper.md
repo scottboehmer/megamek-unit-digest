@@ -261,6 +261,7 @@
 - [Warhammer](../mechs/warhammer.md)
 - [Warhammer IIC](../mechs/warhammer_iic.md)
 - [Warwolf](../mechs/warwolf.md)
+- [Wasp](../mechs/wasp.md)
 - [Wendigo](../mechs/wendigo.md)
 - [Wight](../mechs/wight.md)
 - [Wolf Trap (Tora)](../mechs/wolf_trap_tora.md)

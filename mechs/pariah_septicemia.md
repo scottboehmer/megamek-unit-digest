@@ -94,10 +94,10 @@
   - AP Gauss Rifle × 8 (ammo: 40)
   - Machine Gun × 8 (ammo: 100)
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** 2190
+- **Battle Value:** 2227
 
 ## Pariah (Septicemia) C-Z
 - **Role:** Skirmisher
@@ -112,11 +112,11 @@
   - AP Gauss Rifle × 6 (ammo: 40)
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - Nova CEWS
   - CASE
 - **Source:** Jihad
-- **Battle Value:** 2236
+- **Battle Value:** 2264
 
 ## Pariah (Septicemia) D
 - **Role:** Skirmisher

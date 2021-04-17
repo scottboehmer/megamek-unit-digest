@@ -215,7 +215,7 @@
   - Light Machine Gun × 3 (ammo: 100)
   - SRM 4 (ammo: 25)
 - **Equipment:**
-  - MG Array
+  - Machine Gun Array
   - B-Pod × 2
   - CASE
   - C3 Slave

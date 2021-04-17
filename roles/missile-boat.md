@@ -92,6 +92,7 @@
 - [Jade Hawk](../mechs/jade_hawk.md)
 - [JagerMech](../mechs/jagermech.md)
 - [Jenner](../mechs/jenner.md)
+- [Jinggau](../mechs/jinggau.md)
 
 ## K
 - [Kodiak](../mechs/kodiak.md)
@@ -196,6 +197,7 @@
 
 ## V
 - [Valkyrie](../mechs/valkyrie.md)
+- [Victor](../mechs/victor.md)
 - [Viking](../mechs/viking.md)
 - [Viking IIC](../mechs/viking_iic.md)
 - [Von Rohrs (Hebis)](../mechs/von_rohrs_hebis.md)

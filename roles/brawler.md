@@ -176,6 +176,7 @@
 - [Scylla](../mechs/scylla.md)
 - [Shadow Hawk](../mechs/shadow_hawk.md)
 - [Shen Yi](../mechs/shen_yi.md)
+- [Shockwave](../mechs/shockwave.md)
 - [Shootist](../mechs/shootist.md)
 - [Shugenja](../mechs/shugenja.md)
 - [Snake](../mechs/snake.md)

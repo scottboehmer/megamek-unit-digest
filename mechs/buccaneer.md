@@ -29,7 +29,7 @@
   - Heavy Machine Gun × 3 (ammo: 50)
 - **Equipment:**
   - C3i
-  - MG Array
+  - Machine Gun Array
 - **Source:** TRO 3060
 - **Battle Value:** 1370
 

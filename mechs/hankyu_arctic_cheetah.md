@@ -116,11 +116,11 @@
   - Medium Pulse Laser × 2
   - Flamer
 - **Equipment:**
-  - MG Array × 2
+  - Machine Gun Array × 2
   - CASE
   - B-Pod × 2
 - **Source:** TRO 3058 - Jihad
-- **Battle Value:** 1035
+- **Battle Value:** 1081
 
 ## Hankyu (Arctic Cheetah) F
 - **Role:** Striker

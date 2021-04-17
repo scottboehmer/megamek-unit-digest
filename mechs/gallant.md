@@ -29,7 +29,7 @@
 - **Equipment:**
   - CASE
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1666
 
 ## Gallant GLT-10-0
 - **Role:** Skirmisher
