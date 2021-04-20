@@ -119,6 +119,20 @@
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 1557
 
+## Crossbow D
+- **Role:** Missile Boat
+- **Tech Base:** Clan (3064)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - 'Mech Mortar/8 × 2 (ammo: 24)
+- **Equipment:**
+  - CASE
+- **Source:** TRO 3058 - Civil War
+- **Battle Value:** 1154
+
 ## Crossbow CRS-9A
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3071)

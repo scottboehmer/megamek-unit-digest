@@ -15,6 +15,24 @@
 - **Source:** TRO 3050U - Civil War
 - **Battle Value:** 1716
 
+## Zeus-X ZEU-9WD (Stacy)
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3070)
+- **Chassis:** 80 tons
+- **Movement:** 4 / 6, Light
+- **Armor:** 220 (Light Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Heavy PPC
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Blue Shield PFD
+  - AES
+  - CASE
+- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Battle Value:** 1921
+
 ## Zeus-X ZEU-X3
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3089)

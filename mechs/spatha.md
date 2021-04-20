@@ -17,3 +17,22 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2222
 
+## Spatha SP2-X 'Warlord'
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3069)
+- **Chassis:** 60 tons
+- **Movement:** 6 (7) / 9 (11), XXL
+- **Armor:** 184 (Laser Reflective)
+- **Myomer:** Triple-Strength
+- **Cockpit:** Small
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER Large Laser
+  - Medium VSP Laser × 2
+  - Sword
+- **Equipment:**
+  - Angel ECM Suite
+  - Laser Anti-Missile System
+  - Blue Shield PFD
+- **Battle Value:** 1973
+

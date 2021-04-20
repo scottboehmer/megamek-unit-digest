@@ -29,5 +29,5 @@
 - **Equipment:**
   - CASE
 - **Source:** XTRO Royal Fantasy
-- **Battle Value:** 1562
+- **Battle Value:** 1481
 

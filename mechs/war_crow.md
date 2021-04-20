@@ -14,7 +14,7 @@
 - **Equipment:**
   - CASE
 - **Source:** Dark Age
-- **Battle Value:** 2799
+- **Battle Value:** 2649
 
 ## War Crow A
 - **Role:** Skirmisher

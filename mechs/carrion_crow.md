@@ -13,7 +13,7 @@
 - **Equipment:**
   - Supercharger
 - **Source:** ilClan Vol 12 - Dark Age
-- **Battle Value:** 2133
+- **Battle Value:** 2099
 
 ## Carrion Crow A
 - **Role:** Striker

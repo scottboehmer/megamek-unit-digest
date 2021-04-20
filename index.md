@@ -20,6 +20,7 @@
 - [Albatross](mechs/albatross.md)
 - [Alfar](mechs/alfar.md)
 - [Annihilator](mechs/annihilator.md)
+- [Antlion](mechs/antlion.md)
 - [Anubis](mechs/anubis.md)
 - [Anvil](mechs/anvil.md)
 - [Anzu](mechs/anzu.md)
@@ -261,6 +262,7 @@
 
 ## H
 - [Ha Otoko](mechs/ha_otoko.md)
+- [Ha Otoko-HR](mechs/ha_otoko-hr.md)
 - [Hachiwara](mechs/hachiwara.md)
 - [Hammer](mechs/hammer.md)
 - [Hammerhands](mechs/hammerhands.md)
@@ -501,6 +503,7 @@
 - [Puma (Adder)](mechs/puma_adder.md)
 
 ## Q
+- [Quasimodo](mechs/quasimodo.md)
 - [Quasit MilitiaMech](mechs/quasit_militiamech.md)
 - [Quickdraw](mechs/quickdraw.md)
 

@@ -166,6 +166,7 @@
 - [Prowler](../mechs/prowler.md)
 
 ## Q
+- [Quasimodo](../mechs/quasimodo.md)
 - [Quickdraw](../mechs/quickdraw.md)
 
 ## R

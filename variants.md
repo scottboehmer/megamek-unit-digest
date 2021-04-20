@@ -1453,6 +1453,7 @@
 ### [Watchman](mechs/watchman.md)
 - **Watchman WTC-4M** *Skirmisher (3055)*
 - **Watchman WTC-4DM** *Skirmisher (3063)*
+- **Watchman WTC-4MB 'Belle'** *Undefined (3125)*
 
 ### [Werewolf](mechs/werewolf.md)
 - **Werewolf WER-LF-004** *Striker (3056)*
@@ -1470,6 +1471,9 @@
 - **Whitworth WTH-5S** *Brawler (3074)*
 
 ## 45 Tons
+
+### [Antlion](mechs/antlion.md)
+- **Antlion LK-3D** *Missile Boat (3117)*
 
 ### [Beowulf](mechs/beowulf.md)
 - **Beowulf BEO-12** *Skirmisher (3059)*
@@ -1656,6 +1660,7 @@
 - **Phoenix Hawk PXH-4W** *Striker (3079)*
 - **Phoenix Hawk PXH-8CS** *Striker (3080)*
 - **Phoenix Hawk PXH-4M** *Striker (3087)*
+- **Phoenix Hawk PXH-7KJ 'Jasmine'** *Undefined (3125)*
 - **Phoenix Hawk C 2** *Striker (3140)*
 - **Phoenix Hawk PXH-9** *Striker (3140)*
 
@@ -2398,6 +2403,9 @@
 - **Prowler PWR-1X** *Skirmisher (3068)*
 - **Prowler PWR-1X1** *Skirmisher (3068)*
 
+### [Quasimodo](mechs/quasimodo.md)
+- **Quasimodo QSM-3D** *Skirmisher (3140)*
+
 ### [Rabid Coyote](mechs/rabid_coyote.md)
 - **Rabid Coyote (Standard)** *Skirmisher (3066)*
 - **Rabid Coyote 2** *Skirmisher (3071)*
@@ -2765,6 +2773,7 @@
 
 ### [Spatha](mechs/spatha.md)
 - **Spatha SP1-X** *Skirmisher (3067)*
+- **Spatha SP2-X 'Warlord'** *Skirmisher (3069)*
 
 ### [Thresher](mechs/thresher.md)
 - **Thresher (Standard)** *Skirmisher (2849)*
@@ -2904,6 +2913,7 @@
 - **Crossbow  B** *Skirmisher (2870)*
 - **Crossbow  H** *Skirmisher (3061)*
 - **Crossbow  C** *Skirmisher (3063)*
+- **Crossbow  D** *Missile Boat (3064)*
 - **Crossbow  E** *Skirmisher (3072)*
 - **Crossbow  U** *Skirmisher (3077)*
 
@@ -2959,6 +2969,9 @@
 - **Ha Otoko 2** *Brawler (3074)*
 - **Ha Otoko 3** *Missile Boat (3082)*
 
+### [Ha Otoko-HR](mechs/ha_otoko-hr.md)
+- **Ha Otoko-HR (Standard)** *Missile Boat (3077)*
+
 ### [JagerMech](mechs/jagermech.md)
 - **JagerMech JM6-S** *Sniper (2774)*
 - **JagerMech JM6-A** *Missile Boat (2778)*
@@ -3003,6 +3016,7 @@
 - **Lament LMT-3C** *Brawler (3135)*
 - **Lament LMT-3R** *Brawler (3135)*
 - **Lament LMT-4RC** *Brawler (3137)*
+- **Lament LMT-2D** *Brawler (3147)*
 
 ### [Linebacker](mechs/linebacker.md)
 - **Linebacker  Prime** *Skirmisher (3052)*
@@ -3360,6 +3374,7 @@
 ### [Minsk](mechs/minsk.md)
 - **Minsk MNK-101** *Brawler (2830)*
 - **Minsk** *Undefined (2862)*
+- **Minsk 2** *Brawler (3148)*
 
 ### [No-Dachi](mechs/no-dachi.md)
 - **No-Dachi NDA-1K** *Brawler (3058)*
@@ -3820,6 +3835,7 @@
 - **Woodsman  A** *Sniper (2866)*
 - **Woodsman  B** *Brawler (2866)*
 - **Woodsman  C** *Brawler (3149)*
+- **Woodsman  D** *Missile Boat (3149)*
 
 ## 80 Tons
 
@@ -4077,6 +4093,7 @@
 
 ### [Zeus-X](mechs/zeus-x.md)
 - **Zeus-X ZEU-9WD** *Brawler (3067)*
+- **Zeus-X ZEU-9WD (Stacy)** *Sniper (3070)*
 - **Zeus-X ZEU-X3** *Skirmisher (3089)*
 - **Zeus-X ZEU-X4** *Sniper (3119)*
 
@@ -4198,6 +4215,7 @@
 ### [Osteon](mechs/osteon.md)
 - **Osteon  Prime** *Juggernaut (3072)*
 - **Osteon  (Jaguar)** *Juggernaut (3072)*
+- **Osteon  A** *Juggernaut (3072)*
 - **Osteon  B** *Juggernaut (3072)*
 - **Osteon  C** *Juggernaut (3072)*
 - **Osteon  D** *Juggernaut (3072)*
@@ -4610,6 +4628,7 @@
 - **Turkina  H** *Juggernaut (3062)*
 - **Turkina  E** *Juggernaut (3070)*
 - **Turkina  Z** *Juggernaut (3072)*
+- **Turkina  U** *Juggernaut (3077)*
 - **Turkina  X** *Missile Boat (3077)*
 
 ## 100 Tons

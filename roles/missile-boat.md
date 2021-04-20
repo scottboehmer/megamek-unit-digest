@@ -1,6 +1,7 @@
 # Missile Boat Units
 
 ## A
+- [Antlion](../mechs/antlion.md)
 - [Anubis](../mechs/anubis.md)
 - [Anvil](../mechs/anvil.md)
 - [Apollo](../mechs/apollo.md)
@@ -76,6 +77,7 @@
 
 ## H
 - [Ha Otoko](../mechs/ha_otoko.md)
+- [Ha Otoko-HR](../mechs/ha_otoko-hr.md)
 - [Hankyu (Arctic Cheetah)](../mechs/hankyu_arctic_cheetah.md)
 - [Harvester Ant](../mechs/harvester_ant.md)
 - [Hauptmann](../mechs/hauptmann.md)
@@ -207,6 +209,7 @@
 ## W
 - [Warhammer IIC](../mechs/warhammer_iic.md)
 - [Whitworth](../mechs/whitworth.md)
+- [Woodsman](../mechs/woodsman.md)
 - [Wyvern](../mechs/wyvern.md)
 
 ## Y

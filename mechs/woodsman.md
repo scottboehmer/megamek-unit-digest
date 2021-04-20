@@ -72,3 +72,20 @@
 - **Source:** Dark Age
 - **Battle Value:** 2230
 
+## Woodsman D
+- **Role:** Missile Boat
+- **Tech Base:** Clan (3149)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 4 / 6 (8)
+- **Armor:** 216
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Medium Laser × 4
+  - 'Mech Mortar/4 × 4 (ammo: 48)
+- **Equipment:**
+  - Watchdog CEWS
+  - MASC
+  - CASE
+- **Source:** Dark Age
+- **Battle Value:** 1902
+

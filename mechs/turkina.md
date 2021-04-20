@@ -139,6 +139,29 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 3935
 
+## Turkina U
+- **Role:** Juggernaut
+- **Tech Base:** Clan Mixed (3077)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
+- **Armor:** 288
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - LRM 15 × 2 (ammo: 16)
+  - ATM 9 (ammo: 14)
+  - ER Small Laser × 10
+- **Equipment:**
+  - Active Probe
+  - Talons
+  - Armored Inner Sphere HarJel × 5
+  - Targeting Computer
+  - Inner Sphere Coolant Pod
+  - CASE
+  - Liquid Cargo × 2
+- **Source:** Jihad
+- **Battle Value:** unknown
+
 ## Turkina X
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3077)

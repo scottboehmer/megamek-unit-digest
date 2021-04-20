@@ -125,7 +125,7 @@
   - Machine Gun Array × 2
   - CASE
 - **Source:** Jihad
-- **Battle Value:** 1655
+- **Battle Value:** 1653
 
 ## Goliath GOL-3L
 - **Role:** Missile Boat
@@ -184,5 +184,5 @@
   - Clan CASE II
   - Clan Targeting Computer
 - **Source:** ilClan Vol 1 - Dark Age
-- **Battle Value:** 2224
+- **Battle Value:** 2222
 

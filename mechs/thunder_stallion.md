@@ -44,5 +44,5 @@
   - ECM Suite
   - CASE
 - **Source:** TRO 3060
-- **Battle Value:** 2667
+- **Battle Value:** 2631
 
