@@ -64,3 +64,21 @@
 - **Source:** RS 3145 NT NU
 - **Battle Value:** 2412
 
+## Prefect PRF-1C
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3133)
+- **Chassis:** 75 tons (Endo Steel)
+- **Movement:** 5 / 8, Light
+- **Armor:** 215 (Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER PPC
+  - Snub-Nose PPC
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Angel ECM Suite
+  - C3 Emergency Master
+- **Source:** XTRO Republic II - Dark Ages
+- **Battle Value:** 1857
+

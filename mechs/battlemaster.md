@@ -467,6 +467,23 @@
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1557
 
+## BattleMaster BLR-6X
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3085)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 5 / 8, Large XXL
+- **Armor:** 240
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Heavy PPC
+  - ER PPC
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Dark Age
+- **Battle Value:** 1966
+
 ## BattleMaster BLR-6G
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3088)

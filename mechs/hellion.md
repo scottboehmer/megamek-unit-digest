@@ -121,3 +121,20 @@
   - CASE
 - **Battle Value:** 1594
 
+## Hellion G
+- **Role:** Striker
+- **Tech Base:** Clan Mixed (3119)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 7 / 11 (14), XL
+- **Armor:** 105 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - LRM 10 (ammo: 12)
+  - Inner Sphere TSEMP OS
+  - Improved Heavy Medium Laser × 3
+- **Equipment:**
+  - MASC
+  - CASE
+- **Source:** RS 3145 NTNU - Late Republic
+- **Battle Value:** 1513
+

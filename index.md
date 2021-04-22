@@ -4,7 +4,7 @@
 - [Ambusher](roles/ambusher.md)
 - [Brawler](roles/brawler.md)
 - [Juggernaut](roles/juggernaut.md)
-- [Missile Boat](roles/missile-boat.md)
+- [Missile Boat](roles/missile_boat.md)
 - [Scout](roles/scout.md)
 - [Skirmisher](roles/skirmisher.md)
 - [Sniper](roles/sniper.md)

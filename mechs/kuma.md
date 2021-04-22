@@ -30,6 +30,17 @@
 - **Source:** Dark Age
 - **Battle Value:** 2309
 
+## Kuma 3
+- **Role:** Scout
+- **Tech Base:** Clan (3085)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 7 / 11, Large XXL
+  - **Jumping:** 10
+- **Armor:** 86 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Source:** Dark Age
+- **Battle Value:** 625
+
 ## Kuma 4
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3141)

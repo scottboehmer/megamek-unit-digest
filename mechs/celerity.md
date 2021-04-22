@@ -134,3 +134,19 @@
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 272
 
+## Celerity CLR-04-R
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3138)
+- **Chassis:** 15 tons Quad (Endo Steel)
+- **Movement:** 15 / 23, XXL
+- **Armor:** 16
+- **Gyroscope:** XL Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - TSEMP OS
+- **Equipment:**
+  - Drone Operating System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Battle Value:** 384
+
