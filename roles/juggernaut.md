@@ -315,6 +315,7 @@
 ### [Mauler](../mechs/mauler.md)
 - **Mauler MAL-2R** *Juggernaut (3060)*
 - **Mauler MAL-1K** *Juggernaut (3069)*
+- **Mauler MAL-4X 'Todesbote'** *Juggernaut (3070)*
 
 ### [Sunder](../mechs/sunder.md)
 - **Sunder  SD1-O (Samual)** *Juggernaut (3066)*

@@ -62,3 +62,17 @@
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 1267
 
+## Merlin MLN-SX
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3075)
+- **Chassis:** 60 tons (Endo Composite)
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
+- **Armor:** 176
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Bombast Laser w/ Laser Insulator
+  - Medium VSP Laser w/ Laser Insulator × 2
+- **Source:** XTRO Boondocks - Jihad
+- **Battle Value:** 1121
+

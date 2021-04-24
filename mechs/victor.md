@@ -243,6 +243,24 @@
   - Supercharger
 - **Battle Value:** 2006
 
+## Victor VTR-Cr
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3069)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 4 / 6
+  - **Jumping:** 4
+- **Armor:** 200
+- **Heat Sinks:** 14 (14)
+- **Weapons:**
+  - HVAC/10 (ammo: 16)
+  - Streak SRM 4 (ammo: 25)
+  - Medium Laser × 2
+- **Equipment:**
+  - C3 Boosted Slave
+  - CASE
+- **Source:** Jihad
+- **Battle Value:** 1465
+
 ## Victor VTR-9Ka
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)

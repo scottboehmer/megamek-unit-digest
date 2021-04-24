@@ -925,6 +925,7 @@
 - **Atlas AS7-K-DC** *Sniper (3050)* `Command Console`
 - **Atlas AS7-S2** *Sniper (3061)* `ECM`
 - **Atlas AS7-S3** *Sniper (3062)* `ECM`
+- **Atlas AS7-00 (Jurn)** *Sniper (3081)* `Active Probe`, `Command Console`
 - **Atlas AS7-K2** *Sniper (3082)* `ECM`
 - **Atlas AS7-K3** *Sniper (3083)* `ECM`
 

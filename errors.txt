@@ -5,9 +5,7 @@ Unable to convert data from 'Lumberjack LM4C.mtf': Unrecognized component type: 
 Unable to convert data from 'Lumberjack LM4P.mtf': Unrecognized component type: Dumper (Rear)
 Unable to convert data from 'Patron-I LoaderMech.mtf': Unrecognized cockpit type: Primitive Industrial Cockpit
 Unable to convert data from 'Fwltur FWL-3V SalvageMech.mtf': Unrecognized component type: MechanicalJumpBooster
-Unable to convert data from 'Shadow Cat II 2.mtf': Unrecognized component type: CLLaserInsulator
 Unable to convert data from 'Thunder Fox TFT-C3.mtf': Unrecognized component type: Jump Booster
-Unable to convert data from 'Victor VTR-Cr.mtf': Unrecognized component type: Hyper Velocity Auto Cannon/10
 Unable to convert data from 'Vandal LI-OB.mtf': Unrecognized component type: ISVehicularMineDispenser
 Unable to convert data from 'Ti Ts'ang TSG-10L.mtf': Unrecognized component type: ISChaffPod
 Unable to convert data from 'Ares ARS-V1 Aphrodite.mtf': Unrecognized config: Tripod Omnimech
@@ -96,17 +94,13 @@ Unable to convert data from 'Shugosha LAW-QM2 Q-Mech.mtf': Unrecognized componen
 Unable to convert data from 'Vampyr SC-V-1 SalvageMech (Standard).mtf': Unrecognized component type: Light Fluid Suction System (Mech)
 Unable to convert data from 'Rhino (Standard).mtf': Unrecognized component type: Ram Plate
 Unable to convert data from 'Pariah (Septicemia) Z.mtf': Unrecognized component type: ClanGroundMobileHPG
-Unable to convert data from 'Merlin MLN-SX.mtf': Unrecognized component type: ISLaserInsulator
 Unable to convert data from 'Spindrift Aquatic SecurityMech SDT-1.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Tessen TSN-X-4.mtf': Unrecognized component type: ISC3RemoteSensorLauncher
 Unable to convert data from 'Arbiter ARB-001.mtf': Unrecognized component type: ISHeavyRifle
 Unable to convert data from 'Charger CGR-1X1.mtf': Unrecognized component type: ISChaffPod
 Invalid design in file 'Enforcer III ENF-7X MUSE COMPACT.mtf': Design has 6 criticals over-allocated
 Unable to convert data from 'Juggernaut JG-R9TX1 Leapin' Lil.mtf': Unrecognized component type: Jump Booster
-Unable to convert data from 'Exterminator EXT-4DX Caine.mtf': Unrecognized component type: ISLaserInsulator
 Unable to convert data from 'Wyvern WVE-5UX City.mtf': Unrecognized component type: ISVehicularGrenadeLauncher
-Unable to convert data from 'Mauler MAL-4X 'Todesbote'.mtf': Unrecognized component type: Hyper Velocity Auto Cannon/10
-Unable to convert data from 'Atlas AS-700 Jurn.mtf': Unrecognized component type: IS Ammo HVAC/10
 Unable to convert data from 'Dig Lord RCL-Z1 Armed MiningMech.mtf': Unrecognized component type: Heavy Rifle
 Unable to convert data from 'Wasp WSP-1.mtf': Unrecognized component type: ISPrototypeJumpJet
 Unable to convert data from 'Griffin GRF-1A.mtf': Unrecognized component type: PPCp
@@ -122,7 +116,6 @@ Unable to convert data from 'Osprey OSP-36.mtf': Unrecognized component type: IS
 Unable to convert data from 'Triskelion TRK-4V.mtf': Unrecognized config: Tripod
 Unable to convert data from 'Tessen TSN-X4R _Rapunzel_.mtf': Unrecognized component type: ISC3RemoteSensorLauncher
 Unable to convert data from 'Vulpes VLP-1DX _Beast_.mtf': Unrecognized component type: ISAPDS
-Unable to convert data from 'Slagmaiden SLG-X.mtf': Unrecognized component type: ISLaserInsulator
 Unable to convert data from 'Marauder MAD-4X.mtf': Unrecognized structure type: endo steel prototype
 Unable to convert data from 'Super Griffin GRF-2N-X.mtf': Incorrect number of heat sink location entries (6 expected, 16 provided)
 
@@ -132,55 +125,51 @@ CONFIG: LAM: 20
 CONFIG: QuadVee: 13
 CONFIG: Tripod Omnimech: 5
 STRUCTURE: endo steel prototype: 4
-Improved Large Laser: 4
-ISPrototypeJumpJet: 4
 CLERMediumLaserPrototype: 4
-ISLaserInsulator: 3
+ISPrototypeJumpJet: 4
+Improved Large Laser: 4
 ARMOR: patchwork: 3
-Hyper Velocity Auto Cannon/10: 2
-Light Fluid Suction System (Mech): 2
-ISBoobyTrap: 2
-Heavy Rifle: 2
-ISAPDS: 2
+ISChaffPod: 2
 ISC3RemoteSensorLauncher: 2
-COCKPIT: Primitive Industrial Cockpit: 2
 ISEHERPPC: 2
 Clan Machine Gun Ammo - Proto: 2
-Jump Booster: 2
 CLWERPPC: 2
-Improved Gauss Rifle: 2
-Dumper (Rear): 2
-HEAT SINK: compact: 2
-ISChaffPod: 2
 Improved SRM 6: 2
-ISHeavyRifle: 1
+Heavy Rifle: 2
+COCKPIT: Primitive Industrial Cockpit: 2
+Dumper (Rear): 2
+Improved Gauss Rifle: 2
+HEAT SINK: compact: 2
+ISBoobyTrap: 2
+Jump Booster: 2
+Light Fluid Suction System (Mech): 2
+ISAPDS: 2
+Ram Plate: 1
 Dumper (Front): 1
+ISHeavyRifle: 1
+Paramedic Equipment: 1
 ISVehicularGrenadeLauncher: 1
-IS Ammo HVAC/10: 1
-ClanGroundMobileHPG: 1
+PPCp: 1
 Autocannon/10 Primitive: 1
 ISRISCEmergencyCoolantSystem: 1
-Ram Plate: 1
-PPCp: 1
-Paramedic Equipment: 1
-CLRocketLauncher20Prototype: 1
-ISMediumPulseLaserPrototype: 1
-IS Flail: 1
-MechanicalJumpBooster: 1
-CLLaserInsulator: 1
-ISVehicularMineDispenser: 1
-CONFIG: Tripod Battlemech: 1
-MediumBridgeLayer: 1
-CLStreakSRM4Prototype: 1
-Improved LRM 15: 1
-CLRocketLauncher15Prototype: 1
-CLRocketLauncher10Prototype: 1
-CLStreakSRM6Prototype: 1
-ARMOR: ferro-fibrous prototype(inner sphere): 1
-ISGaussRiflePrototype: 1
-STRUCTURE: is endo-steel prototype: 1
-ISLBXAC10Prototype: 1
+ClanGroundMobileHPG: 1
 Rifle (Cannon, Heavy): 1
+CLRocketLauncher20Prototype: 1
+ISLBXAC10Prototype: 1
+STRUCTURE: is endo-steel prototype: 1
+ISGaussRiflePrototype: 1
+ARMOR: ferro-fibrous prototype(inner sphere): 1
+CLStreakSRM6Prototype: 1
+CLRocketLauncher10Prototype: 1
+CLRocketLauncher15Prototype: 1
+Improved LRM 15: 1
+CLStreakSRM4Prototype: 1
+MediumBridgeLayer: 1
+CONFIG: Tripod Battlemech: 1
+ISVehicularMineDispenser: 1
+MechanicalJumpBooster: 1
+IS Flail: 1
+ISMediumPulseLaserPrototype: 1
 CONFIG: Tripod: 1
 
 --------------------------------------------------
@@ -367,4 +356,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3646 mtf files -> 3646 parsed files -> 3520 converted files -> 3519 validated mechs
+3646 mtf files -> 3646 parsed files -> 3527 converted files -> 3526 validated mechs

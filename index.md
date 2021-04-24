@@ -572,6 +572,7 @@
 - [Shugosha](mechs/shugosha.md)
 - [Silver Fox](mechs/silver_fox.md)
 - [Sirocco](mechs/sirocco.md)
+- [Slagmaiden](mechs/slagmaiden.md)
 - [Sling](mechs/sling.md)
 - [Snake](mechs/snake.md)
 - [Snow Fox](mechs/snow_fox.md)

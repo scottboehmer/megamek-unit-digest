@@ -2480,6 +2480,9 @@
 - **Shadow Hawk SHD-4H** *Sniper (3101)*
 - **Shadow Hawk SHD-6D** *Skirmisher (3141)*
 
+### [Slagmaiden](mechs/slagmaiden.md)
+- **Slagmaiden SLG-X** *Skirmisher (3076)*
+
 ### [Stooping Hawk](mechs/stooping_hawk.md)
 - **Stooping Hawk  Prime** *Skirmisher (2970)*
 - **Stooping Hawk  A** *Sniper (2970)*
@@ -2689,6 +2692,7 @@
 - **Merlin MLN-1B** *Brawler (3053)*
 - **Merlin MLN-1B (Porter)** *Skirmisher (3064)*
 - **Merlin MLN-1C** *Brawler (3068)*
+- **Merlin MLN-SX** *Skirmisher (3075)*
 
 ### [Ostroc](mechs/ostroc.md)
 - **Ostroc OSR-2C** *Skirmisher (2511)*
@@ -2764,6 +2768,7 @@
 
 ### [Shadow Cat II](mechs/shadow_cat_ii.md)
 - **Shadow Cat II (Standard)** *Skirmisher (3076)*
+- **Shadow Cat II 2** *Skirmisher (3077)*
 - **Shadow Cat II 3** *Skirmisher (3089)*
 - **Shadow Cat II 4** *Sniper (3092)*
 
@@ -2956,6 +2961,7 @@
 - **Exterminator EXT-4C** *Skirmisher (2630)* `Stealth`
 - **Exterminator EXT-4D** *Skirmisher (2630)*
 - **Exterminator EXT-4Db** *Skirmisher (2718)*
+- **Exterminator EXT-4DX (Caine)** *Skirmisher (2754)*
 - **Exterminator EXT-4A** *Skirmisher (3007)*
 - **Exterminator EXT-5E** *Skirmisher (3060)* `C3i`
 - **Exterminator EXT-5F** *Skirmisher (3074)* `C3i`
@@ -4058,6 +4064,7 @@
 - **Victor VTR-11D** *Skirmisher (3065)* `C3 Slave`
 - **Victor VTR-10L** *Skirmisher (3066)* `ECM`, `Stealth`
 - **Victor VTR-9K2 (St. James)** *Missile Boat (3069)*
+- **Victor VTR-Cr** *Skirmisher (3069)* `C3 Slave`
 - **Victor VTR-9Ka** *Skirmisher (3076)*
 
 ### [Warhammer IIC](mechs/warhammer_iic.md)
@@ -4430,6 +4437,7 @@
 - **Mauler MAL-2R** *Juggernaut (3060)*
 - **Mauler MAL-3R** *Sniper (3062)* `C3 Slave`
 - **Mauler MAL-1K** *Juggernaut (3069)*
+- **Mauler MAL-4X 'Todesbote'** *Juggernaut (3070)*
 
 ### [Night Wolf](mechs/night_wolf.md)
 - **Night Wolf (Standard)** *Skirmisher (3084)* `ECM`
@@ -4683,6 +4691,7 @@
 - **Atlas AS7-S3** *Sniper (3062)* `ECM`
 - **Atlas AS7-Dr** *Juggernaut (3070)* `C3 Slave`, `ECM`
 - **Atlas AS8-D** *Juggernaut (3074)*
+- **Atlas AS7-00 (Jurn)** *Sniper (3081)* `Active Probe`, `Command Console`
 - **Atlas AS7-K2** *Sniper (3082)* `ECM`
 - **Atlas AS7-K2 (Jedra)** *Juggernaut (3082)*
 - **Atlas AS7-K3** *Sniper (3083)* `ECM`

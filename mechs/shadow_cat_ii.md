@@ -16,6 +16,24 @@
 - **Source:** Jihad
 - **Battle Value:** 2064
 
+## Shadow Cat II 2
+- **Role:** Skirmisher
+- **Tech Base:** Clan Mixed (3077)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 7
+- **Armor:** 144 (Ferro Fibrous)
+- **Heat Sinks:** 11 (25)
+- **Weapons:**
+  - ER Large Pulse Laser w/ Laser Insulator
+  - ER Medium Pulse Laser w/ Laser Insulator
+  - LRM 10 × 2 (ammo: 24)
+- **Equipment:**
+  - Partial Wing
+  - CASE
+- **Source:** Jihad
+- **Battle Value:** 2106
+
 ## Shadow Cat II 3
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3089)

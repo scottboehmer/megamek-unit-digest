@@ -49,6 +49,23 @@
   - Small Laser
 - **Battle Value:** 1694
 
+## Exterminator EXT-4DX (Caine)
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (2754)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 (13), XL
+  - **Jumping:** 5
+- **Armor:** 211
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser w/ Laser Insulator × 6
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
+  - MASC
+  - Supercharger
+- **Source:** XTRO Gunslingers - Star League
+- **Battle Value:** 1794
+
 ## Exterminator EXT-4A
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3007)

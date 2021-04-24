@@ -301,6 +301,27 @@
 - **Source:** Jihad
 - **Battle Value:** 2432
 
+## Atlas AS7-00 (Jurn)
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3081)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5, XL
+- **Armor:** 304
+- **Cockpit:** Armored
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - Thunderbolt 15 (ammo: 8)
+  - Snub-Nose PPC
+  - HVAC/10 (ammo: 16)
+  - Light PPC × 2
+- **Equipment:**
+  - Beagle Active Probe
+  - Command Console
+  - CASE II
+  - Remote Sensor Dispenser × 2
+- **Source:** XTRO Periphery - Jihad
+- **Battle Value:** 2053
+
 ## Atlas AS7-K2
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3082)
