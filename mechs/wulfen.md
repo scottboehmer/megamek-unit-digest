@@ -15,7 +15,7 @@
   - CASE II
   - Cargo
 - **Source:** TRO 3145 The Clans - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 983
 
 ## Wulfen A
 - **Role:** Striker

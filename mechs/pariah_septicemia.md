@@ -203,7 +203,7 @@
   - Talons
   - Liquid Cargo × 2
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 2298
 
 ## Pariah (Septicemia) UW
 - **Role:** Skirmisher

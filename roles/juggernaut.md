@@ -80,6 +80,9 @@
 
 ## 65 Tons
 
+### [Deep Lord MilitiaMech](../mechs/deep_lord_militiamech.md)
+- **Deep Lord MilitiaMech RCL-Z1M** *Juggernaut (3085)*
+
 ### [Dig Lord](../mechs/dig_lord.md)
 - **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
 - **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)*

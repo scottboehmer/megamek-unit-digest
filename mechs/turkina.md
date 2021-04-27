@@ -160,7 +160,7 @@
   - CASE
   - Liquid Cargo × 2
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 2502
 
 ## Turkina X
 - **Role:** Missile Boat

@@ -12,7 +12,7 @@
   - Communications Equipment
   - Ejection Seat
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 346
 
 ## Sokuryou SKU-197 SurveyMech
 - **Role:** Scout
@@ -27,7 +27,7 @@
   - Communications Equipment
   - Ejection Seat
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 395
 
 ## Sokuryou SKU-198 SurveyMech
 - **Role:** Scout
@@ -42,5 +42,5 @@
   - Beagle Active Probe
   - Ejection Seat
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 581
 

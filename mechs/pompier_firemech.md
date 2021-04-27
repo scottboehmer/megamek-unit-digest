@@ -13,7 +13,7 @@
   - Mech Sprayer
   - Liquid Cargo
 - **Source:** TRO VA - Late Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 106
 
 ## Pompier Firemech GM-3HT
 - **Role:** Undefined
@@ -24,11 +24,11 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
+  - Liquid Cargo × 4
   - Searchlight
   - Mech Sprayer
-  - Liquid Cargo × 4
 - **Source:** TRO VA - Clan Invasion
-- **Battle Value:** unknown
+- **Battle Value:** 106
 
 ## Pompier Firemech GM-3CD
 - **Role:** Scout
@@ -39,10 +39,10 @@
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
   - Beagle Active Probe
+  - Liquid Cargo
   - Searchlight
   - Mech Sprayer
   - Enviro-Sealing
-  - Liquid Cargo
 - **Source:** TRO VA - Civil War
 - **Battle Value:** unknown
 

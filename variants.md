@@ -16,6 +16,9 @@
 ### [Flea](mechs/flea.md)
 - **Flea FLE-14** *Scout (2519)*
 
+### [Patron I LoaderMech](mechs/patron_i_loadermech.md)
+- **Patron I LoaderMech** *Ambusher (2470)*
+
 ### [Patron LoaderMech](mechs/patron_loadermech.md)
 - **Patron LoaderMech (Standard)** *Ambusher (2550)*
 
@@ -828,6 +831,9 @@
 - **Wulfen  H** *Striker (3137)* `ECM`, `Stealth`
 
 ## 35 Tons
+
+### [Arbiter SecurityMech](mechs/arbiter_securitymech.md)
+- **Arbiter SecurityMech ARB-001** *Sniper (3074)*
 
 ### [Blade](mechs/blade.md)
 - **Blade BLD-XL** *Striker (3087)*
@@ -1790,6 +1796,7 @@
 - **Agrotera AGT-UA 'Ariel'** *Undefined (3137)*
 
 ### [Aquagladius](mechs/aquagladius.md)
+- **Aquagladius AQS-3** *Striker (3065)*
 - **Aquagladius AQS-4** *Juggernaut (3066)*
 
 ### [Avalanche](mechs/avalanche.md)
@@ -2054,6 +2061,7 @@
 - **Phoenix PX-1KC** *Brawler (3065)*
 - **Phoenix PX-1KL** *Brawler (3070)*
 - **Phoenix PX-1KT** *Missile Boat (3070)*
+- **Phoenix PX-1KR** *Brawler (3079)*
 
 ### [Raider](mechs/raider.md)
 - **Raider JL-1** *Juggernaut (3134)*
@@ -2676,6 +2684,9 @@
 - **Lancelot LNC25-06** *Sniper (3071)* `C3i`
 - **Lancelot LNC25-08** *Sniper (3071)* `C3i`
 
+### [Lumberjack](mechs/lumberjack.md)
+- **Lumberjack LM1/A** *Ambusher (2355)*
+
 ### [Lupus](mechs/lupus.md)
 - **Lupus  Prime** *Missile Boat (2857)* `ECM`
 - **Lupus  A** *Skirmisher (2857)*
@@ -2945,8 +2956,12 @@
 - **Crusader CRD-6M** *Skirmisher (3074)* `C3 Slave`
 - **Crusader CRD-8L** *Skirmisher (3083)*
 
+### [Deep Lord MilitiaMech](mechs/deep_lord_militiamech.md)
+- **Deep Lord MilitiaMech RCL-Z1M** *Juggernaut (3085)*
+
 ### [Dig Lord](mechs/dig_lord.md)
 - **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
+- **Dig Lord RCL-Z1 Armed MiningMech** *Ambusher (3081)*
 - **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)*
 
 ### [Dominator](mechs/dominator.md)
@@ -3373,6 +3388,8 @@
 - **JagerMech JM7-C3BS** *Brawler (3075)* `C3 Slave`
 
 ### [Lumberjack](mechs/lumberjack.md)
+- **Lumberjack LM4/C** *Ambusher (2489)*
+- **Lumberjack LM4/P** *Missile Boat (2811)*
 - **Lumberjack LM5/M** *Missile Boat (3070)*
 
 ### [Mangonel](mechs/mangonel.md)
@@ -3564,6 +3581,9 @@
 
 ### [Gotterdammerung](mechs/gotterdammerung.md)
 - **Gotterdammerung GTD-20S** *Brawler (3138)*
+
+### [Grommet D90 MilitiaMech](mechs/grommet_d90_militiamech.md)
+- **Grommet D90 MilitiaMech (Standard)** *Brawler (3000)*
 
 ### [Hammerhands](mechs/hammerhands.md)
 - **Hammerhands HMH-3D** *Juggernaut (2475)*

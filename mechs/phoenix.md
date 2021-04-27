@@ -72,3 +72,17 @@
 - **Source:** Jihad
 - **Battle Value:** 857
 
+## Phoenix PX-1KR
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3079)
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6
+- **Armor:** 134 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Heavy Rifle (ammo: 12)
+  - SRM 2 × 2 (ammo: 50)
+- **Source:** Jihad
+- **Battle Value:** 760
+

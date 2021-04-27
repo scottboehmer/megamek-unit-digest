@@ -27,5 +27,5 @@
   - Rocket 10 × 3
   - Light Machine Gun × 4 (ammo: 200)
 - **Source:** TRO:Prototypes
-- **Battle Value:** 154
+- **Battle Value:** 147
 

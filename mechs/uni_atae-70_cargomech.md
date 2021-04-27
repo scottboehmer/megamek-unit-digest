@@ -8,9 +8,9 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
-  - Enviro-Sealing
   - Lift Hoist × 2
   - Cargo
+  - Enviro-Sealing
 - **Source:** RS VA
 - **Battle Value:** unknown
 

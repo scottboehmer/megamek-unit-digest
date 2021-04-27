@@ -154,11 +154,11 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
+  - Lift Hoist
   - Head Turret
   - TAG
-  - Lift Hoist
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1612
 
 ## Quickdraw QKD-8P
 - **Role:** Skirmisher

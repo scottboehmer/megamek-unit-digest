@@ -934,6 +934,9 @@
 ### [Agrotera](../mechs/agrotera.md)
 - **Agrotera AGT-1A** *Striker (3108)* `TAG`
 
+### [Aquagladius](../mechs/aquagladius.md)
+- **Aquagladius AQS-3** *Striker (3065)*
+
 ### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
 - **Black Hawk (Nova)  U** *Striker (3077)* `Active Probe`, `ECM`
 

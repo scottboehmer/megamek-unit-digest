@@ -463,6 +463,7 @@
 - **Gallant GLT-8-0** *Missile Boat (3078)*
 
 ### [Lumberjack](../mechs/lumberjack.md)
+- **Lumberjack LM4/P** *Missile Boat (2811)*
 - **Lumberjack LM5/M** *Missile Boat (3070)*
 
 ### [No-Dachi](../mechs/no-dachi.md)

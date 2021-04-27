@@ -10,5 +10,5 @@
 - **Weapons:**
   - Chainsaw
 - **Source:** RS VA - Late Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 202
 

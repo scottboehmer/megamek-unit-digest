@@ -12,7 +12,7 @@
 - **Equipment:**
   - Cargo
 - **Source:** TRO VA - Star League
-- **Battle Value:** unknown
+- **Battle Value:** 161
 
 ## Harvester Ant KIC-3M AgroMech (MG)
 - **Role:** Undefined

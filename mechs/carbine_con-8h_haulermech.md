@@ -9,9 +9,9 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
 - **Equipment:**
-  - Extended Fuel Tank
-  - Cargo × 2
   - Lift Hoist × 2
+  - Cargo × 2
+  - Extended Fuel Tank
 - **Source:** TRO VA - Civil War
-- **Battle Value:** unknown
+- **Battle Value:** 190
 

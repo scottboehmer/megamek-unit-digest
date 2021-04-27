@@ -16,6 +16,24 @@
 - **Source:** TRO VA - Clan Invasion
 - **Battle Value:** unknown
 
+## Dig Lord RCL-Z1 Armed MiningMech
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (3081)
+- **Chassis:** 65 tons (Industrial)
+- **Movement:** 3 / 5, Fuel Cell
+- **Armor:** 128
+- **Cockpit:** Industrial
+- **Heat Sinks:** 7 (7)
+- **Weapons:**
+  - Heavy Rifle (ammo: 12)
+  - MML 5 (ammo: 24 LRM, 20 SRM)
+  - Medium Vibroblade
+- **Equipment:**
+  - AES
+  - Shoulder Turret
+- **Source:** XTRO Periphery - Jihad
+- **Battle Value:** 681
+
 ## Dig Lord RCL-4M MiningMech MOD
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3132)

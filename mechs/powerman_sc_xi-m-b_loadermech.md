@@ -10,5 +10,5 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Cargo × 3
-- **Battle Value:** unknown
+- **Battle Value:** 277
 

@@ -15,9 +15,9 @@
 - **Equipment:**
   - Salvage Arm
   - Searchlight
-  - Enviro-Sealing
   - Cargo
   - Lift Hoist
+  - Enviro-Sealing
   - Tracks
 - **Source:** TRO 3075
 - **Battle Value:** unknown

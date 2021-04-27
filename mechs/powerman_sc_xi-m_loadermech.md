@@ -11,5 +11,5 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Cargo × 2
-- **Battle Value:** unknown
+- **Battle Value:** 294
 

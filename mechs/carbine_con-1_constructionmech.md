@@ -12,5 +12,5 @@
 - **Equipment:**
   - Lift Hoist
 - **Source:** RS Operation Klondike - Late Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 198
 

@@ -11,5 +11,5 @@
 - **Equipment:**
   - Ejection Seat
 - **Source:** RS IA
-- **Battle Value:** unknown
+- **Battle Value:** 713
 

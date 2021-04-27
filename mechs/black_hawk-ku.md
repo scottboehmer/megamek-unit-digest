@@ -161,7 +161,7 @@
 - **Equipment:**
   - Liquid Cargo
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1687
 
 ## Black Hawk-KU BHKU-OG
 - **Role:** Skirmisher

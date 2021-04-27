@@ -8,8 +8,8 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Mining Drill
   - Rock-Cutter
+  - Mining Drill
 - **Equipment:**
   - Lift Hoist
 - **Source:** RS VA - Star League

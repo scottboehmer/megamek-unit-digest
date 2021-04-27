@@ -13,7 +13,7 @@
   - Lift Hoist
   - Cargo
 - **Source:** RS IA - Star League
-- **Battle Value:** unknown
+- **Battle Value:** 251
 
 ## Crosscut ED-X2 ForestryMech
 - **Role:** Ambusher
@@ -29,7 +29,7 @@
   - Lift Hoist
   - Cargo × 2
 - **Source:** RS OK - Star League
-- **Battle Value:** unknown
+- **Battle Value:** 223
 
 ## Crosscut ED-X4 LoggerMech
 - **Role:** Ambusher
@@ -45,7 +45,7 @@
   - Lift Hoist
   - Cargo
 - **Source:** RS IA - Early Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 223
 
 ## Crosscut ED-X4K LoggerMech
 - **Role:** Ambusher
@@ -60,7 +60,7 @@
 - **Equipment:**
   - Cargo
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 367
 
 ## Crosscut ED-X2M LoggerMech MOD
 - **Role:** Ambusher
@@ -71,8 +71,8 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Vehicle Flamer (ammo: 20)
   - Chainsaw
+  - Vehicle Flamer (ammo: 20)
 - **Equipment:**
   - Cargo × 2
 - **Source:** RS IA - Early Succession War
@@ -86,8 +86,8 @@
 - **Armor:** 53 (Commercial)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Vehicle Flamer (ammo: 20)
   - Chainsaw
+  - Vehicle Flamer (ammo: 20)
 - **Equipment:**
   - Cargo × 2
 - **Source:** RS OK - Early Succession War
@@ -104,7 +104,7 @@
 - **Weapons:**
   - Chainsaw × 2
 - **Source:** RS IA - Late Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 230
 
 ## Crosscut ED-X4D DemolitionMech
 - **Role:** Undefined
@@ -135,7 +135,7 @@
   - Cargo
   - Lift Hoist
 - **Source:** RS IA - Late Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 224
 
 ## Crosscut ED-X4M LoggerMech MOD
 - **Role:** Ambusher
@@ -149,7 +149,7 @@
 - **Equipment:**
   - Lift Hoist
 - **Source:** RS IA - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 430
 
 ## Crosscut ED-X5M LoggerMech MOD
 - **Role:** Ambusher
@@ -162,7 +162,7 @@
   - AC/2 (ammo: 45)
   - Chainsaw
 - **Source:** RS IA - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 317
 
 ## Crosscut ED-XX 'Ichabod'
 - **Role:** Ambusher
@@ -180,7 +180,7 @@
 - **Equipment:**
   - CASE
 - **Source:** XTR Gladiators - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 442
 
 ## Crosscut ED-X5M-B LoggerMech MOD
 - **Role:** Ambusher

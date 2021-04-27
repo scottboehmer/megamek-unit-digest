@@ -10,8 +10,8 @@
   - SRM 4 × 2 (ammo: 25)
   - Mining Drill
 - **Equipment:**
-  - Searchlight
   - Lift Hoist
+  - Searchlight
   - Ejection Seat
 - **Battle Value:** unknown
 
@@ -26,8 +26,8 @@
   - SRM 4 (ammo: 25)
   - Mining Drill
 - **Equipment:**
-  - Searchlight
   - Lift Hoist
+  - Searchlight
   - Enviro-Sealing
 - **Battle Value:** unknown
 
@@ -42,9 +42,9 @@
   - SRM 4 (ammo: 25)
   - Mining Drill
 - **Equipment:**
-  - Searchlight
   - Lift Hoist
   - Cargo × 3
+  - Searchlight
   - Ejection Seat
 - **Battle Value:** unknown
 

@@ -11,8 +11,8 @@
   - Small Laser
 - **Equipment:**
   - Salvage Arm
-  - Enviro-Sealing
   - Lift Hoist × 2
+  - Enviro-Sealing
 - **Source:** TRO 3075
 - **Battle Value:** unknown
 

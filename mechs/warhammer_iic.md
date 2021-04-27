@@ -113,7 +113,7 @@
   - CASE
   - Cargo × 2
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 2915
 
 ## Warhammer IIC 8
 - **Role:** Skirmisher

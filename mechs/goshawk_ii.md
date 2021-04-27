@@ -53,5 +53,5 @@
   - Targeting Computer
   - Liquid Cargo
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 2115
 

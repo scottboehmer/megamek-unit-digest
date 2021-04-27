@@ -12,5 +12,5 @@
   - Quad Turret
   - Ejection Seat
 - **Source:** ISP3
-- **Battle Value:** unknown
+- **Battle Value:** 1092
 

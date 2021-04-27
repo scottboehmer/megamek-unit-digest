@@ -162,7 +162,7 @@
   - TAG
   - Cargo
 - **Source:** ilClan Vol 12 - Clan Invasion
-- **Battle Value:** unknown
+- **Battle Value:** 1590
 
 ## Shadow Hawk SHD-5D
 - **Role:** Skirmisher

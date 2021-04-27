@@ -400,7 +400,7 @@
 - **Equipment:**
   - Liquid Cargo
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1120
 
 ## Firestarter FS9-M2
 - **Role:** Scout

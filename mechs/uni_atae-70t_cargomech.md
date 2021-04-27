@@ -13,5 +13,5 @@
   - Cargo × 2
   - Cargo Container
 - **Source:** RS VA
-- **Battle Value:** unknown
+- **Battle Value:** 533
 

@@ -209,7 +209,7 @@
   - CASE
   - Liquid Cargo
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1417
 
 ## Dragonfly (Viper) R
 - **Role:** Undefined

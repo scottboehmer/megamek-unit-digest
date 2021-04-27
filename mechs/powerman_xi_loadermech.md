@@ -10,5 +10,5 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Cargo × 5
-- **Battle Value:** unknown
+- **Battle Value:** 198
 

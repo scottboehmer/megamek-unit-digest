@@ -2,6 +2,9 @@
 
 ## 15 Tons
 
+### [Patron I LoaderMech](../mechs/patron_i_loadermech.md)
+- **Patron I LoaderMech** *Ambusher (2470)*
+
 ### [Patron LoaderMech](../mechs/patron_loadermech.md)
 - **Patron LoaderMech (Standard)** *Ambusher (2550)*
 
@@ -113,7 +116,18 @@
 ### [Heavy Lifter HCL-1 CargoMech](../mechs/heavy_lifter_hcl-1_cargomech.md)
 - **Heavy Lifter HCL-1 CargoMech (Standard)** *Ambusher (3060)*
 
+### [Lumberjack](../mechs/lumberjack.md)
+- **Lumberjack LM1/A** *Ambusher (2355)*
+
+## 65 Tons
+
+### [Dig Lord](../mechs/dig_lord.md)
+- **Dig Lord RCL-Z1 Armed MiningMech** *Ambusher (3081)*
+
 ## 70 Tons
+
+### [Lumberjack](../mechs/lumberjack.md)
+- **Lumberjack LM4/C** *Ambusher (2489)*
 
 ### [Uni ATAE-70T CargoMech](../mechs/uni_atae-70t_cargomech.md)
 - **Uni ATAE-70T CargoMech (Standard)** *Ambusher (3050)*

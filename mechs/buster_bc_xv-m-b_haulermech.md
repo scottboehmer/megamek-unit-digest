@@ -10,5 +10,5 @@
   - PPC
 - **Equipment:**
   - Cargo
-- **Battle Value:** unknown
+- **Battle Value:** 475
 

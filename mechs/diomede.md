@@ -12,9 +12,9 @@
   - Nail/Rivet Gun × 2 (ammo: 600)
 - **Equipment:**
   - Mech Sprayer × 2
+  - Lift Hoist × 2
   - Searchlight × 2
   - CASE
-  - Lift Hoist × 2
   - Liquid Cargo × 2
   - Ejection Seat
   - Tracks
@@ -35,10 +35,10 @@
   - Nail/Rivet Gun × 2 (ammo: 600)
 - **Equipment:**
   - Mech Sprayer × 3
-  - Searchlight × 2
-  - CASE
   - Liquid Cargo × 3
   - Lift Hoist × 2
+  - Searchlight × 2
+  - CASE
   - Ejection Seat
   - Tracks
 - **Source:** Dark Age

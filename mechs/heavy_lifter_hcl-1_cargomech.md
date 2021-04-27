@@ -10,9 +10,9 @@
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
   - Searchlight × 4
-  - Enviro-Sealing
   - Lift Hoist × 2
   - Cargo × 2
+  - Enviro-Sealing
 - **Source:** RS IA
 - **Battle Value:** unknown
 

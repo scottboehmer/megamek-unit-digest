@@ -31,9 +31,9 @@
   - Salvage Arm
   - Remote Sensor Dispenser
   - Communications Equipment
+  - Cargo
   - Searchlight
   - Enviro-Sealing
-  - Cargo
 - **Source:** RS IA - Star League
 - **Battle Value:** unknown
 
@@ -50,9 +50,9 @@
   - Small Laser
 - **Equipment:**
   - Salvage Arm
+  - Cargo
   - Searchlight
   - Enviro-Sealing
-  - Cargo
 - **Battle Value:** unknown
 
 ## Marco MR-8D

@@ -161,10 +161,10 @@
   - ECM Suite
   - Light Active Probe
   - HarJel
-  - CASE
   - Liquid Cargo × 2
+  - CASE
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1413
 
 ## Black Hawk (Nova) I
 - **Role:** Skirmisher

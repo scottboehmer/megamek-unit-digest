@@ -80,6 +80,9 @@
 
 ## 35 Tons
 
+### [Arbiter SecurityMech](../mechs/arbiter_securitymech.md)
+- **Arbiter SecurityMech ARB-001** *Sniper (3074)*
+
 ### [Blade](../mechs/blade.md)
 - **Blade BLD-XR** *Sniper (3125)*
 

@@ -8,11 +8,11 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
-  - Searchlight
-  - Cargo × 2
   - Lift Hoist × 2
+  - Cargo × 2
+  - Searchlight
 - **Source:** RS:VA IM Exo - Star League
-- **Battle Value:** unknown
+- **Battle Value:** 100
 
 ## Shugosha LAW-QM3 Q-Mech
 - **Role:** Sniper
@@ -27,5 +27,5 @@
 - **Equipment:**
   - Drone Operating System
 - **Source:** RS:VA IM Exo - Clan Invasion
-- **Battle Value:** 210
+- **Battle Value:** 198
 

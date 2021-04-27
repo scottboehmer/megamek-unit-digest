@@ -239,6 +239,7 @@
 ### [Phoenix](../mechs/phoenix.md)
 - **Phoenix PX-1KC** *Brawler (3065)*
 - **Phoenix PX-1KL** *Brawler (3070)*
+- **Phoenix PX-1KR** *Brawler (3079)*
 
 ### [Raider Mk II](../mechs/raider_mk_ii.md)
 - **Raider Mk II JL-2** *Brawler (3134)*
@@ -564,6 +565,9 @@
 
 ### [Gotterdammerung](../mechs/gotterdammerung.md)
 - **Gotterdammerung GTD-20S** *Brawler (3138)*
+
+### [Grommet D90 MilitiaMech](../mechs/grommet_d90_militiamech.md)
+- **Grommet D90 MilitiaMech (Standard)** *Brawler (3000)*
 
 ### [Inferno](../mechs/inferno.md)
 - **Inferno  INF-NO** *Brawler (3146)*

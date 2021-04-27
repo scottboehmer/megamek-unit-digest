@@ -113,10 +113,10 @@
   - ER Medium Laser
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
-  - CASE
   - Liquid Cargo × 2
+  - CASE
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1999
 
 ## Shadow Hawk IIC 8
 - **Role:** Missile Boat

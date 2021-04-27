@@ -12,5 +12,5 @@
 - **Equipment:**
   - Lift Hoist
 - **Source:** RS IA - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 246
 

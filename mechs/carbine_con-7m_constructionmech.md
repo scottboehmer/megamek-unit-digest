@@ -10,5 +10,5 @@
 - **Weapons:**
   - Rocket 15 × 5
 - **Source:** RS VA - Jihad
-- **Battle Value:** 322
+- **Battle Value:** 306
 

@@ -10,9 +10,9 @@
 - **Equipment:**
   - Beagle Active Probe
   - Salvage Arm × 2
+  - Lift Hoist
   - Searchlight
   - Enviro-Sealing
-  - Lift Hoist
 - **Source:** Dark Age
 - **Battle Value:** unknown
 

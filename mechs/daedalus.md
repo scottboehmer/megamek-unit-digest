@@ -10,7 +10,7 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Cargo × 15
-- **Battle Value:** unknown
+- **Battle Value:** 649
 
 ## Daedalus GTX2B 'Navvy'
 - **Role:** Ambusher

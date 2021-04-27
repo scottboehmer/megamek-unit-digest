@@ -48,7 +48,7 @@
   - CASE
   - Liquid Cargo
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 1687
 
 ## Dark Crow 4
 - **Role:** Skirmisher

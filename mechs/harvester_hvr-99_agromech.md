@@ -13,5 +13,5 @@
   - Lift Hoist
   - Cargo
 - **Source:** TRO VA
-- **Battle Value:** unknown
+- **Battle Value:** 339
 

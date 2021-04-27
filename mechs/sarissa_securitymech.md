@@ -14,5 +14,5 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Ejection Seat
-- **Battle Value:** unknown
+- **Battle Value:** 734
 

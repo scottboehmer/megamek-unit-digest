@@ -135,7 +135,7 @@
   - CASE
   - Liquid Cargo
 - **Source:** Civil War
-- **Battle Value:** unknown
+- **Battle Value:** 2664
 
 ## Deimos D
 - **Role:** Sniper
