@@ -30,3 +30,19 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 901
 
+## Porcupine PRC-3N
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3132)
+- **Chassis:** 20 tons
+- **Movement:** 9 / 14 (23), XXL
+- **Armor:** 69 (Impact-Resistant)
+- **Heat Sinks:** 10 (20)
+- **Equipment:**
+  - Laser Anti-Missile System
+  - Spikes × 5
+  - Null-Signature System
+  - MASC
+  - Supercharger
+- **Source:** Dark Age
+- **Battle Value:** 511
+

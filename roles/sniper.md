@@ -37,11 +37,22 @@
 ### [Jackrabbit](../mechs/jackrabbit.md)
 - **Jackrabbit JKR-8T** *Sniper (2765)*
 
+### [Opossum SalvageMech](../mechs/opossum_salvagemech.md)
+- **Opossum SalvageMech OPO-3 MOD** *Sniper (3145)*
+
 ## 30 Tons
 
 ### [Arctic Fox](../mechs/arctic_fox.md)
 - **Arctic Fox  AF1E** *Sniper (3069)*
 - **Arctic Fox  AF1U** *Sniper (3072)*
+
+### [Carbine CON-9M](../mechs/carbine_con-9m.md)
+- **Carbine CON-9M Karenna** *Sniper (3131)*
+
+### [Crosscut](../mechs/crosscut.md)
+- **Crosscut ED-X4M-A LoggerMech MOD** *Sniper (3131)*
+- **Crosscut ED-X4M-E LoggerMech MOD** *Sniper (3131)*
+- **Crosscut ED-X4M-L LoggerMech MOD** *Sniper (3131)*
 
 ### [Devil](../mechs/devil.md)
 - **Devil (Standard)** *Sniper (2911)*
@@ -58,6 +69,9 @@
 
 ### [Revenant](../mechs/revenant.md)
 - **Revenant UBM-2R3** *Sniper (3141)* `Drone`
+
+### [SuburbanMech](../mechs/suburbanmech.md)
+- **SuburbanMech UM-R100** *Sniper (3045)*
 
 ### [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
 - **Uller (Kit Fox)  Prime** *Sniper (2890)*
@@ -145,6 +159,10 @@
 
 ### [Cuirass](../mechs/cuirass.md)
 - **Cuirass CDR-2X** *Sniper (3134)*
+
+### [Harvester](../mechs/harvester.md)
+- **Harvester HVR-199M AgroMech MOD** *Sniper (3130)*
+- **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)*
 
 ### [Hermes II](../mechs/hermes_ii.md)
 - **Hermes II HER-5ME 'Mercury Elite'** *Sniper (3056)*
@@ -380,6 +398,7 @@
 
 ### [Thunder Fox](../mechs/thunder_fox.md)
 - **Thunder Fox TFT-A9** *Sniper (3077)*
+- **Thunder Fox TFT-F11** *Sniper (3119)*
 
 ## 60 Tons
 
@@ -771,7 +790,6 @@
 ### [Marauder IIC](../mechs/marauder_iic.md)
 - **Marauder IIC 9** *Sniper (2831)*
 - **Marauder IIC 4** *Sniper (3070)*
-- **Marauder IIC 5** *Sniper (3070)*
 
 ### [Masakari (Warhawk)](../mechs/masakari_warhawk.md)
 - **Masakari (Warhawk)  Prime** *Sniper (2999)*

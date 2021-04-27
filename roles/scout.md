@@ -274,6 +274,9 @@
 - **Firestarter FS9-M3** *Scout (3104)* `TAG`
 - **Firestarter FS9-M4** *Scout (3109)*
 
+### [Inquisitor](../mechs/inquisitor.md)
+- **Inquisitor ITW-85 SecurityMech** *Scout (3120)* `Active Probe`
+
 ### [Jenner](../mechs/jenner.md)
 - **Jenner JR7-A** *Scout (2779)*
 - **Jenner JR7-K (Grace II)** *Scout (3067)* `C3 Slave`

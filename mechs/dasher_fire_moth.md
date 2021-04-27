@@ -192,8 +192,8 @@
   - LRM 15 (ammo: 8)
   - ER Small Laser × 4
 - **Equipment:**
-  - CASE
   - MASC
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 1200
 
@@ -211,8 +211,8 @@
 - **Equipment:**
   - ECM Suite
   - Inner Sphere M-Pod
-  - Inner Sphere C3 Slave
   - MASC
+  - Inner Sphere C3 Slave
 - **Source:** Dark Age
 - **Battle Value:** 1160
 
@@ -226,8 +226,8 @@
 - **Weapons:**
   - Micro Pulse Laser × 12
 - **Equipment:**
-  - Supercharger
   - MASC
+  - Supercharger
 - **Source:** Dark Age
 - **Battle Value:** 841
 
@@ -243,8 +243,8 @@
   - LRM 5 (ammo: 24)
   - Improved Heavy Small Laser
 - **Equipment:**
-  - CASE
   - MASC
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 1260
 
@@ -260,9 +260,9 @@
   - SRM 6 (ammo: 15)
   - Streak SRM 4 (iOS)
 - **Equipment:**
+  - MASC
   - CASE
   - Supercharger
-  - MASC
 - **Source:** Dark Age
 - **Battle Value:** 1305
 

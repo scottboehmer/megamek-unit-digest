@@ -299,6 +299,7 @@
 - **Gyrfalcon 2** *Skirmisher (3112)*
 - **Gyrfalcon 3** *Skirmisher (3112)*
 - **Gyrfalcon 4** *Skirmisher (3112)*
+- **Gyrfalcon 5** *Skirmisher (3133)*
 
 ### [Kintaro](../mechs/kintaro.md)
 - **Kintaro KTO-19** *Skirmisher (2587)*
@@ -1100,7 +1101,6 @@
 
 ### [Marauder IIC](../mechs/marauder_iic.md)
 - **Marauder IIC 2** *Skirmisher (3063)*
-- **Marauder IIC 6** *Skirmisher (3077)*
 - **Marauder IIC 10** *Skirmisher (3140)*
 
 ### [Rampage](../mechs/rampage.md)

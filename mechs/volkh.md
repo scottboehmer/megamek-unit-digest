@@ -35,3 +35,23 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1578
 
+## Volkh VKH-68
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3133)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 5 / 7 (12), XXL
+- **Armor:** 112 (Hardened)
+- **Gyroscope:** Compact Gyro
+- **Cockpit:** Torso-Mounted
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium X-Pulse Laser × 4
+  - Lance
+- **Equipment:**
+  - Supercharger
+  - MASC
+  - Targeting Computer
+  - Head Turret
+- **Source:** Dark Age
+- **Battle Value:** 1679
+

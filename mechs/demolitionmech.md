@@ -31,3 +31,17 @@
 - **Source:** TRO 3075
 - **Battle Value:** unknown
 
+## DemolitionMech WI-DMM MOD
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (3100)
+- **Chassis:** 35 tons (Industrial)
+- **Movement:** 3 / 5, Fuel Cell
+- **Armor:** 85 (Industrial)
+- **Heat Sinks:** 4 (4)
+- **Weapons:**
+  - Medium Laser
+  - MagShot Gauss Rifle × 2 (ammo: 50)
+  - Wrecking Ball
+- **Source:** Dark Age
+- **Battle Value:** 444
+

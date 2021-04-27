@@ -57,9 +57,9 @@
   - Improved Heavy Large Laser × 2
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
-  - Supercharger
   - Inner Sphere Coolant Pod
   - Targeting Computer
+  - Supercharger
 - **Source:** Dark Age
 - **Battle Value:** 2533
 

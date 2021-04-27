@@ -269,6 +269,7 @@
 
 ### [Thunder Stallion](../mechs/thunder_stallion.md)
 - **Thunder Stallion 3** *Juggernaut (3069)* `ECM`
+- **Thunder Stallion 4** *Juggernaut (3138)*
 
 ### [Wakazashi](../mechs/wakazashi.md)
 - **Wakazashi (Standard)** *Juggernaut (2830)*

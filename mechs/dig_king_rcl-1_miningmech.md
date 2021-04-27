@@ -17,7 +17,7 @@
 
 ## Dig King RCL-1 MiningMech MOD
 - **Role:** Brawler
-- **Tech Base:** Inner Sphere (2573)
+- **Tech Base:** Inner Sphere (2802)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 3 / 5, Fuel Cell
 - **Armor:** 96

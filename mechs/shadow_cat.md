@@ -122,8 +122,8 @@
   - ER Small Laser
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
-  - CASE
   - MASC
+  - CASE
 - **Source:** Civil War
 - **Battle Value:** 2298
 
@@ -210,9 +210,9 @@
   - ER Medium Pulse Laser × 2
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
+  - MASC
   - Targeting Computer
   - CASE
-  - MASC
 - **Source:** Dark Age
 - **Battle Value:** 2408
 
@@ -229,8 +229,8 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Active Probe
-  - CASE
   - MASC
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 1852
 

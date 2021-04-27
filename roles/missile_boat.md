@@ -85,6 +85,9 @@
 - **Cougar  A** *Missile Boat (3058)*
 - **Cougar XR** *Missile Boat (3071)*
 
+### [Firebee](../mechs/firebee.md)
+- **Firebee WI-WAM MilitiaMech** *Missile Boat (3130)*
+
 ### [Garm](../mechs/garm.md)
 - **Garm GRM-01A** *Missile Boat (3058)*
 - **Garm GRM-01B** *Missile Boat (3059)*
@@ -465,6 +468,9 @@
 ### [Lumberjack](../mechs/lumberjack.md)
 - **Lumberjack LM4/P** *Missile Boat (2811)*
 - **Lumberjack LM5/M** *Missile Boat (3070)*
+
+### [MuckRaker](../mechs/muckraker.md)
+- **MuckRaker GMMM-2M-B MiningMech MOD** *Missile Boat (3132)*
 
 ### [No-Dachi](../mechs/no-dachi.md)
 - **No-Dachi NDA-3X** *Missile Boat (3075)*

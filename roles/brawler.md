@@ -47,7 +47,7 @@
 - **Cougar  F** *Brawler (3071)*
 
 ### [Dig King RCL-1 MiningMech](../mechs/dig_king_rcl-1_miningmech.md)
-- **Dig King RCL-1 MiningMech MOD** *Brawler (2573)*
+- **Dig King RCL-1 MiningMech MOD** *Brawler (2802)*
 
 ### [Falcon Hawk](../mechs/falcon_hawk.md)
 - **Falcon Hawk FNHK-9K** *Brawler (3057)*
@@ -212,6 +212,9 @@
 - **Centurion CN9-AL** *Brawler (2915)*
 - **Centurion CN9-YLW2 'Yen Lo Wang'** *Brawler (3051)*
 - **Centurion CN9-H** *Brawler (3077)*
+- **Centurion CN9-H2 MilitiaMech** *Brawler (3100)*
+- **Centurion CN9-H2H MilitiaMech** *Brawler (3100)*
+- **Centurion CN9-H3 MilitiaMech** *Brawler (3100)*
 - **Centurion CN9-YLW3 'Yen Lo Wang'** *Brawler (3101)*
 - **Centurion  CN11-O** *Brawler (3111)*
 - **Centurion  CN11-OA** *Brawler (3111)*
@@ -367,6 +370,9 @@
 
 ### [Crusader](../mechs/crusader.md)
 - **Crusader CRD-3R (Crael)** *Brawler (3040)*
+
+### [Deep Lord MilitiaMech](../mechs/deep_lord_militiamech.md)
+- **Deep Lord MilitiaMech RCL-Z1M-B** *Brawler (3118)*
 
 ### [Ha Otoko](../mechs/ha_otoko.md)
 - **Ha Otoko 2** *Brawler (3074)*

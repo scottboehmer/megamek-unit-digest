@@ -31,22 +31,6 @@
 - **Source:** RS OK - Star League
 - **Battle Value:** 223
 
-## Crosscut ED-X4 LoggerMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (2786)
-- **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5, ICE
-- **Armor:** 42 (Industrial)
-- **Cockpit:** Industrial
-- **Heat Sinks:** 0 (0)
-- **Weapons:**
-  - Chainsaw
-- **Equipment:**
-  - Lift Hoist
-  - Cargo
-- **Source:** RS IA - Early Succession War
-- **Battle Value:** 223
-
 ## Crosscut ED-X4K LoggerMech
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2786)
@@ -182,8 +166,8 @@
 - **Source:** XTR Gladiators - Jihad
 - **Battle Value:** 442
 
-## Crosscut ED-X5M-B LoggerMech MOD
-- **Role:** Ambusher
+## Crosscut ED-X5M-B DemolitionMech MOD
+- **Role:** Undefined
 - **Tech Base:** Inner Sphere (3079)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5
@@ -194,4 +178,43 @@
   - Dual Saw
 - **Source:** RS VA - Jihad
 - **Battle Value:** unknown
+
+## Crosscut ED-X4M-A LoggerMech MOD
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3131)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 2 / 3, ICE
+- **Armor:** 64
+- **Heat Sinks:** 1 (1)
+- **Weapons:**
+  - AC/2 (ammo: 45)
+  - Chainsaw
+- **Source:** Dark Age
+- **Battle Value:** 279
+
+## Crosscut ED-X4M-E LoggerMech MOD
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3131)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 4 / 6
+- **Armor:** 64
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - ER Large Laser
+  - Chainsaw
+- **Source:** Dark Age
+- **Battle Value:** 480
+
+## Crosscut ED-X4M-L LoggerMech MOD
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3131)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 2 / 3, ICE
+- **Armor:** 32
+- **Heat Sinks:** 1 (1)
+- **Weapons:**
+  - LB 5-X AC (ammo: 20)
+  - Chainsaw
+- **Source:** Dark Age
+- **Battle Value:** 230
 

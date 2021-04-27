@@ -31,6 +31,27 @@ Unable to convert data from 'Talon TLN-5W-EC.mtf': Unrecognized component type: 
 Unable to convert data from 'Vision Quest VQ-1NC.mtf': Unrecognized component type: Improved Gauss Rifle
 Unable to convert data from 'Puma (Adder) S.mtf': Unrecognized component type: Clan Machine Gun Ammo - Proto
 Unable to convert data from 'Gladiator (Executioner) T.mtf': Unrecognized component type: Clan Machine Gun Ammo - Proto
+Unable to convert data from 'Buster BC XXI-M HaulerMech MOD.mtf': Unrecognized component type: Industrial Triple Strength Myomer
+Unable to convert data from 'Demeter WLD-1-M AgroMech MOD.mtf': Unrecognized component type: Flamer (Vehicle)
+Unable to convert data from 'Dig Lord RCL-4M-B MiningMech MOD.mtf': Unrecognized component type: IS Heavy Machine Gun Ammo - Full
+Unable to convert data from 'Exo Haulermech HMX-2.mtf': Unrecognized component type: Industrial Triple Strength Myomer
+Unable to convert data from 'Exo Haulermech HMX-3.mtf': Unrecognized component type: Industrial Triple Strength Myomer
+Unable to convert data from 'Exo Haulermech HMX-3M.mtf': Unrecognized component type: Industrial Triple Strength Myomer
+Unable to convert data from 'Ground Pounder DVM-2 MiningMech.mtf': Unrecognized component type: Liquid Storage:size:2.0
+Unable to convert data from 'Guard GS-107X SecurityMech.mtf': Unrecognized component type: Ejection Seat
+Unable to convert data from 'Gulon GLN-1A MiningMech.mtf': Unrecognized engine type: fission engine(is)
+Unable to convert data from 'Gulon GLN-1B SecurityMech.mtf': Unrecognized engine type: fission engine(is)
+Unable to convert data from 'Harvester HVR-199M-M AgroMech MOD.mtf': Unrecognized component type: ISVehicularMineDispenser
+Unable to convert data from 'Heavy Forester HFL-1M LoggerMech MOD.mtf': Unrecognized component type: Ejection Seat
+Unable to convert data from 'Heavy Lifter HCL-1M CargoMech MOD.mtf': Unrecognized component type: Industrial Triple Strength Myomer
+Unable to convert data from 'Heavy Lifter HCL-1MM MilitiaMech.mtf': Unrecognized component type: Industrial Triple Strength Myomer
+Unable to convert data from 'Inquisitor ITW-80 SecurityMech.mtf': Unrecognized component type: Communications Equipment:size:2.0
+Unable to convert data from 'MuckRaker GMMM-2 MiningMech.mtf': Unrecognized component type: Cargo:size:11.0
+Unable to convert data from 'Pacifier SecurityMech CCU-36.mtf': Unrecognized component type: Liquid Storage:size:0.5
+Unable to convert data from 'Pacifier SecurityMech CCU-40.mtf': Unrecognized component type: Liquid Storage:size:0.5
+Unable to convert data from 'Pompier GM-4P PoliceMech.mtf': Unrecognized component type: Flamer (Vehicle)
+Unable to convert data from 'St. Florian FLN-366-M FireMech MOD.mtf': Unrecognized component type: Heavy Flamer
+Unable to convert data from 'StrongArm SC CV-M ConstructionMech MOD.mtf': Unrecognized component type: Heavy Flamer
 Unable to convert data from 'OMEGA SHP-4X.mtf': Invalid mech tonnage
 Unable to convert data from 'Pulverizer PUL-2V.mtf': Unrecognized component type: ISEHERPPC
 Unable to convert data from 'Stag II ST-24G.mtf': Unrecognized component type: ISEHERPPC
@@ -54,6 +75,7 @@ Unable to convert data from 'Wasp LAM WSP-105.mtf': Support for LAMs is not impl
 Unable to convert data from 'Wasp LAM WSP-105M.mtf': Support for LAMs is not implemented.
 Unable to convert data from 'Wasp LAM WSP-110.mtf': Support for LAMs is not implemented.
 Unable to convert data from 'Yurei S-YR-1LAM.mtf': Support for LAMs is not implemented.
+Unable to convert data from 'Bull Shark BSK-M3.mtf': Unrecognized component type: Improved Autocannon/10
 Unable to convert data from 'Carbine ConstructionMech CON-1 (Rocket).mtf': Unrecognized component type: CLRocketLauncher15Prototype
 Unable to convert data from 'Crosscut ED-X2 (Rocket).mtf': Unrecognized component type: CLRocketLauncher10Prototype
 Unable to convert data from 'Daedalus GTX2 (Militarized).mtf': Unrecognized component type: CLRocketLauncher20Prototype
@@ -80,13 +102,21 @@ Unable to convert data from 'Hatamoto-Chi HTM-27T Daniel.mtf': Unrecognized stru
 Unable to convert data from 'Hatchetman HCT-3F Austin.mtf': Unrecognized component type: ISLBXAC10Prototype
 Unable to convert data from 'Hunchback HBK-4G Shakir.mtf': Unrecognized component type: ISMediumPulseLaserPrototype
 Unable to convert data from 'Chaffee Servicemech BT1.mtf': Unrecognized component type: Paramedic Equipment
+Unable to convert data from 'Crosscut ED-X4 LoggerMech.mtf': Unrecognized component type: Cargo:SIZE:2.0
+Unable to convert data from 'Heavy Lifter HCL-1 CargoMech (Standard).mtf': Unrecognized component type: Cargo:SIZE:1.0
+Unable to convert data from 'Powerman SC XV HaulerMech.mtf': Unrecognized component type: Cargo:SIZE:2.0
 Unable to convert data from 'ScavengerMech SC-V SalvageMech (Standard).mtf': Unrecognized component type: Light Fluid Suction System (Mech)
 Unable to convert data from 'Shugosha LAW-QM1 Q-Mech.mtf': Unrecognized component type: ISBoobyTrap
 Unable to convert data from 'Shugosha LAW-QM2 Q-Mech.mtf': Unrecognized component type: ISBoobyTrap
+Unable to convert data from 'Uni ATAE-70T CargoMech (Standard).mtf': Unrecognized component type: Industrial Triple Strength Myomer
 Unable to convert data from 'Vampyr SC-V-1 SalvageMech (Standard).mtf': Unrecognized component type: Light Fluid Suction System (Mech)
 Unable to convert data from 'Rhino (Standard).mtf': Unrecognized component type: Ram Plate
 Unable to convert data from 'Pariah (Septicemia) Z.mtf': Unrecognized component type: ClanGroundMobileHPG
 Unable to convert data from 'Spindrift Aquatic SecurityMech SDT-1.mtf': Unrecognized armor type: patchwork
+Unable to convert data from 'Aquagladius AQS-5 MAM.mtf': Unrecognized armor type: patchwork
+Unable to convert data from 'Phoenix Hawk PXH-99.mtf': Unrecognized component type: ISModularArmor
+Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to convert data from 'Wasp WSP-3X.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Tessen TSN-X-4.mtf': Unrecognized component type: ISC3RemoteSensorLauncher
 Unable to convert data from 'Charger CGR-1X1.mtf': Unrecognized component type: ISChaffPod
 Invalid design in file 'Enforcer III ENF-7X MUSE COMPACT.mtf': Design has 6 criticals over-allocated
@@ -113,46 +143,60 @@ Unable to convert data from 'Super Griffin GRF-2N-X.mtf': Incorrect number of he
 Unrecognized Components:
 CONFIG: LAM: 20
 CONFIG: QuadVee: 13
+Industrial Triple Strength Myomer: 7
 CONFIG: Tripod Omnimech: 5
-STRUCTURE: endo steel prototype: 4
-Improved Large Laser: 4
-CLERMediumLaserPrototype: 4
 ISPrototypeJumpJet: 4
-ARMOR: patchwork: 3
-ISEHERPPC: 2
+CLERMediumLaserPrototype: 4
+Improved Large Laser: 4
+ARMOR: patchwork: 4
+STRUCTURE: endo steel prototype: 4
+HEAT SINK: compact: 3
+Jump Booster: 2
+Liquid Storage:size:0.5: 2
+ISC3RemoteSensorLauncher: 2
+Cargo:SIZE:2.0: 2
+ENGINE: fission engine(is): 2
+Ejection Seat: 2
+ISBoobyTrap: 2
+Heavy Flamer: 2
+Flamer (Vehicle): 2
 Clan Machine Gun Ammo - Proto: 2
 CLWERPPC: 2
 Improved SRM 6: 2
-Improved Gauss Rifle: 2
-ISBoobyTrap: 2
-ISChaffPod: 2
-HEAT SINK: compact: 2
-Jump Booster: 2
 Light Fluid Suction System (Mech): 2
-ISC3RemoteSensorLauncher: 2
+ISChaffPod: 2
 ISAPDS: 2
+Improved Gauss Rifle: 2
+ISVehicularMineDispenser: 2
+ISEHERPPC: 2
+CONFIG: Tripod Battlemech: 1
+Cargo:SIZE:1.0: 1
 Ram Plate: 1
 ISVehicularGrenadeLauncher: 1
-Paramedic Equipment: 1
+ISModularArmor: 1
+MechanicalJumpBooster: 1
 PPCp: 1
 Autocannon/10 Primitive: 1
 ISRISCEmergencyCoolantSystem: 1
 ClanGroundMobileHPG: 1
-ISMediumPulseLaserPrototype: 1
+Paramedic Equipment: 1
 CLRocketLauncher20Prototype: 1
-STRUCTURE: is endo-steel prototype: 1
-ISGaussRiflePrototype: 1
-ARMOR: ferro-fibrous prototype(inner sphere): 1
-CLStreakSRM6Prototype: 1
-CLRocketLauncher10Prototype: 1
-CLRocketLauncher15Prototype: 1
-Improved LRM 15: 1
-CLStreakSRM4Prototype: 1
-MediumBridgeLayer: 1
-CONFIG: Tripod Battlemech: 1
-ISVehicularMineDispenser: 1
-MechanicalJumpBooster: 1
 ISLBXAC10Prototype: 1
+CLStreakSRM4Prototype: 1
+Improved LRM 15: 1
+IS Heavy Machine Gun Ammo - Full: 1
+Liquid Storage:size:2.0: 1
+Communications Equipment:size:2.0: 1
+Cargo:size:11.0: 1
+ISMediumPulseLaserPrototype: 1
+Improved Autocannon/10: 1
+CLRocketLauncher10Prototype: 1
+MediumBridgeLayer: 1
+CLStreakSRM6Prototype: 1
+ARMOR: ferro-fibrous prototype(inner sphere): 1
+ISGaussRiflePrototype: 1
+STRUCTURE: is endo-steel prototype: 1
+CLRocketLauncher15Prototype: 1
 CONFIG: Tripod: 1
 
 --------------------------------------------------
@@ -164,7 +208,6 @@ Beowulf C
 Tomahawk C
 Black Hawk (Nova) X
 Man O' War (Gargoyle) X
-Thunder Fox TDF-F11
 Atlas AS7-D-HT
 Ti Ts'ang TSG-9 'China Doll'
 Legionnaire LGN-2D (Raul)
@@ -201,10 +244,8 @@ Uller (Kit Fox) V
 Shadow Hawk SHD-5S
 Thresher Mk II (Standard)
 Trebuchet TBT-9N
-Catapult CPLT-6K
 Catapult CPLT-K6
 Mad Cat (Timber Wolf) T
-Marauder (Red Hunter-3146)
 Koshi (Mist Lynx) I
 Koshi (Mist Lynx) J
 Koshi (Mist Lynx) K
@@ -240,8 +281,23 @@ Valkyrie C
 Valkyrie VLK-QD6
 Valkyrie VLK-QDD
 Pendragon PDG-3R
+Burrower DTM-1 MiningMech
+Demeter WLD-1 AgroMech
+Exo HaulerMech HMX-1
+Exo HaulerMech HMX-2
+Exo HaulerMech HMX-3
+Exo HaulerMech HMX-3M
+Harvester HVR-199 AgroMech
+Heavy Forester HFL-1 LoggerMech
+MuckRaker GMMM-2 MiningMech
+Opossum SalvageMech OPO-2
+St. Florian FLN-366 FireMech
+StrongArm SC CV ConstructionMech
+StrongArm SC CVI ConstructionMech
 Arana MilitiaMech ARA-S-1
 Reptar MilitiaMech EPT-C-1
+Bull Shark BSK-M3
+Bull Shark BSK-MAZ
 Corsair COR-5R
 Corsair COR-5T
 Corsair COR-6R
@@ -290,6 +346,8 @@ CattleMaster CTL-3R 'Herder' IndustrialMech
 Copper SecurityMech CPK-19
 Crosscut ED-X4B DemolitionMech
 Crosscut ED-X4D DemolitionMech
+Crosscut ED-X5M-B DemolitionMech MOD
+Peacemaker PM-6 PoliceMech (Standard)
 Pompier Firemech GM-3HT
 Shugosha PTN-LAW LoaderMech
 Uni ATAE-70 CargoMech (Standard)
@@ -311,6 +369,20 @@ Panther PNT-9ALAG
 Vulcan VL-2T (Timms)
 Warhammer WHM-6K (Olesko)
 Talon TLN-5VNO
+Aquagladius AQS-5 MAM
+Carbine CON-9M-D ConstructionMech MOD
+Crosscut IIC SolahmaMech
+Daedalus DAD-DX
+Gauss-Buster MilitiaMech
+OmniMarauder MAD-BR-OA
+OmniMarauder MAD-BR-O
+Phoenix Hawk PXH-99
+Porcupine PRC-3N
+Scourge SCG-WX1
+Uni ATAE-70 ArtilleryMech
+Valkyrie VLK-QD5
+Volkh VKH-68
+Wasp WSP-3X
 Ti Ts'ang TSG-9DDC 'Prototype'
 Daimyo DMO-1K2 (Al-Shahab)
 Archer ARC-1A
@@ -339,4 +411,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3646 mtf files -> 3646 parsed files -> 3537 converted files -> 3536 validated mechs
+3716 mtf files -> 3716 parsed files -> 3577 converted files -> 3576 validated mechs

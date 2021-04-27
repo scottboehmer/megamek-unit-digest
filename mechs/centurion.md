@@ -268,6 +268,52 @@
 - **Source:** XTRO RetroTech - Jihad
 - **Battle Value:** 848
 
+## Centurion CN9-H2 MilitiaMech
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3100)
+- **Chassis:** 50 tons (Industrial)
+- **Movement:** 4 / 6
+- **Armor:** 96 (Industrial)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Laser × 2
+  - Rocket 10 × 5
+- **Source:** Dark Age
+- **Battle Value:** 799
+
+## Centurion CN9-H2H MilitiaMech
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3100)
+- **Chassis:** 50 tons (Industrial)
+- **Movement:** 4 / 6
+- **Armor:** 136
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Medium Laser × 2
+  - Rocket 10 × 5
+- **Equipment:**
+  - Ejection Seat
+- **Source:** Dark Age
+- **Battle Value:** 919
+
+## Centurion CN9-H3 MilitiaMech
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3100)
+- **Chassis:** 50 tons (Industrial)
+- **Movement:** 4 / 6
+- **Armor:** 134 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Ultra AC/10 (ammo: 20)
+  - Medium Laser
+  - Rocket 10 × 5
+- **Equipment:**
+  - Ejection Seat
+- **Source:** Dark Age
+- **Battle Value:** 962
+
 ## Centurion CN9-YLW3 'Yen Lo Wang'
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3101)
@@ -409,5 +455,7 @@
   - LRM 10 w/ Artemis IV (ammo: 24)
   - Light PPC
   - ER Medium Laser
-- **Battle Value:** 1188
+- **Equipment:**
+  - CASE II
+- **Battle Value:** 1260
 

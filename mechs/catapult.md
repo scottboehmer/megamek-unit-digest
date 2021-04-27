@@ -267,18 +267,3 @@
   - AES × 2
 - **Battle Value:** 1619
 
-## Catapult CPLT-6K
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (3150)
-- **Chassis:** 65 tons
-- **Movement:** 3 / 5, XL
-  - **Jumping:** 3
-- **Armor:** 211 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ELRM 15 × 2 (ammo: 24)
-  - ER Small Laser × 4
-- **Equipment:**
-  - AES × 2
-- **Battle Value:** 1619
-

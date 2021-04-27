@@ -2,6 +2,9 @@
 
 ## 15 Tons
 
+### [Guard SecurityMech](../mechs/guard_securitymech.md)
+- **Guard SecurityMech GS-54** *Ambusher (2914)*
+
 ### [Patron I LoaderMech](../mechs/patron_i_loadermech.md)
 - **Patron I LoaderMech** *Ambusher (2470)*
 
@@ -32,6 +35,9 @@
 ### [ForestryMech](../mechs/forestrymech.md)
 - **ForestryMech ED-X3** *Ambusher (2865)*
 
+### [Gulon SolahmaMech](../mechs/gulon_solahmamech.md)
+- **Gulon SolahmaMech C** *Ambusher (3145)*
+
 ### [Harvester Ant](../mechs/harvester_ant.md)
 - **Harvester Ant KIC-3 AgroMech** *Ambusher (2650)*
 
@@ -52,10 +58,15 @@
 ### [Carbine CON-9M-B ConstructionMech](../mechs/carbine_con-9m-b_constructionmech.md)
 - **Carbine CON-9M-B ConstructionMech MOD** *Ambusher (3078)*
 
+### [Carbine CON-9M-J ConstructionMech](../mechs/carbine_con-9m-j_constructionmech.md)
+- **Carbine CON-9M-J ConstructionMech MOD** *Ambusher (3145)*
+
+### [Carbine CON-9M-JB ConstructionMech](../mechs/carbine_con-9m-jb_constructionmech.md)
+- **Carbine CON-9M-JB ConstructionMech MOD** *Ambusher (3145)*
+
 ### [Crosscut](../mechs/crosscut.md)
 - **Crosscut ED-X1 LoggerMech** *Ambusher (2650)*
 - **Crosscut ED-X2 ForestryMech** *Ambusher (2715)*
-- **Crosscut ED-X4 LoggerMech** *Ambusher (2786)*
 - **Crosscut ED-X4K LoggerMech** *Ambusher (2786)*
 - **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)*
 - **Crosscut ED-X2 (Flamer)** *Ambusher (2810)*
@@ -63,7 +74,6 @@
 - **Crosscut ED-X4M LoggerMech MOD** *Ambusher (3070)*
 - **Crosscut ED-X5M LoggerMech MOD** *Ambusher (3074)*
 - **Crosscut ED-XX 'Ichabod'** *Ambusher (3075)*
-- **Crosscut ED-X5M-B LoggerMech MOD** *Ambusher (3079)*
 
 ### [Harvester HVR-99 AgroMech](../mechs/harvester_hvr-99_agromech.md)
 - **Harvester HVR-99 AgroMech (Standard)** *Ambusher (3049)*
@@ -71,6 +81,9 @@
 ### [Marco](../mechs/marco.md)
 - **Marco MR-6 ExplorerMech** *Ambusher (2712)*
 - **Marco MR-7 ExplorerMech** *Ambusher (2715)*
+
+### [SuburbanMech](../mechs/suburbanmech.md)
+- **SuburbanMech UM-R90** *Ambusher (3018)*
 
 ### [UrbanMech](../mechs/urbanmech.md)
 - **UrbanMech UM-R60** *Ambusher (2675)*
@@ -83,17 +96,19 @@
 
 ## 35 Tons
 
+### [DemolitionMech](../mechs/demolitionmech.md)
+- **DemolitionMech WI-DMM MOD** *Ambusher (3100)*
+
 ### [Dig King RCL-1 MiningMech](../mechs/dig_king_rcl-1_miningmech.md)
 - **Dig King RCL-1 MiningMech (Standard)** *Ambusher (2573)*
 
-### [Peacemaker PM6 PoliceMech](../mechs/peacemaker_pm6_policemech.md)
-- **Peacemaker PM6 PoliceMech (Standard)** *Ambusher (3070)*
-
-### [Powerman SC XV HaulerMech](../mechs/powerman_sc_xv_haulermech.md)
-- **Powerman SC XV HaulerMech (Standard)** *Ambusher (2795)*
-
 ### [Powerman SC XVI HaulerMech](../mechs/powerman_sc_xvi_haulermech.md)
 - **Powerman SC XVI HaulerMech (Standard)** *Ambusher (3068)*
+
+## 40 Tons
+
+### [Harvester](../mechs/harvester.md)
+- **Harvester HVR-199M-A AgroMech MOD** *Ambusher (3130)*
 
 ## 50 Tons
 
@@ -113,26 +128,29 @@
 - **Daedalus GTX2A 'Stevedore'** *Ambusher (2750)*
 - **Daedalus GTX2B 'Navvy'** *Ambusher (2750)*
 
-### [Heavy Lifter HCL-1 CargoMech](../mechs/heavy_lifter_hcl-1_cargomech.md)
-- **Heavy Lifter HCL-1 CargoMech (Standard)** *Ambusher (3060)*
-
 ### [Lumberjack](../mechs/lumberjack.md)
 - **Lumberjack LM1/A** *Ambusher (2355)*
 
 ## 65 Tons
 
+### [Burrower](../mechs/burrower.md)
+- **Burrower DTM-1M MiningMech MOD** *Ambusher (3132)*
+
 ### [Dig Lord](../mechs/dig_lord.md)
 - **Dig Lord RCL-Z1 Armed MiningMech** *Ambusher (3081)*
+
+### [Ground Pounder](../mechs/ground_pounder.md)
+- **Ground Pounder DVM-2M MiningMech MOD** *Ambusher (3133)*
 
 ## 70 Tons
 
 ### [Lumberjack](../mechs/lumberjack.md)
 - **Lumberjack LM4/C** *Ambusher (2489)*
 
-### [Uni ATAE-70T CargoMech](../mechs/uni_atae-70t_cargomech.md)
-- **Uni ATAE-70T CargoMech (Standard)** *Ambusher (3050)*
+### [MuckRaker](../mechs/muckraker.md)
+- **MuckRaker GMMM-2M MiningMech MOD** *Ambusher (3132)*
 
 ## 80 Tons
 
 ### [ScavengerMech SC-V-M MilitiaMech](../mechs/scavengermech_sc-v-m_militiamech.md)
-- **ScavengerMech SC-V-M MilitiaMech (Standard)** *Ambusher (2800)*
+- **ScavengerMech SC-V-M MilitiaMech (Standard)** *Ambusher (2990)*

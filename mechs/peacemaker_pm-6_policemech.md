@@ -1,7 +1,7 @@
-# Peacemaker PM6 PoliceMech
-## Peacemaker PM6 PoliceMech (Standard)
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3070)
+# Peacemaker PM-6 PoliceMech
+## Peacemaker PM-6 PoliceMech (Standard)
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3067)
 - **Chassis:** 35 tons (Industrial)
 - **Movement:** 4 / 6
 - **Armor:** 96

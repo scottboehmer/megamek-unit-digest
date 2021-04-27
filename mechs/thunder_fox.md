@@ -32,8 +32,8 @@
 - **Source:** Dark Age
 - **Battle Value:** 1513
 
-## Thunder Fox TDF-F11
-- **Role:** Undefined
+## Thunder Fox TFT-F11
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3119)
 - **Chassis:** 55 tons Quad (Endo Steel)
 - **Movement:** 5 / 7, XXL

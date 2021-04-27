@@ -159,6 +159,24 @@
 - **Source:** Dark Age
 - **Battle Value:** 657
 
+## Valkyrie VLK-QD5
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere Mixed (3101)
+- **Chassis:** 30 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 84 (Light Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - MML 7 (ammo: 17 LRM, 14 SRM)
+  - Clan ATM 3 (ammo: 40)
+  - Medium Pulse Laser
+- **Equipment:**
+  - CASE
+- **Source:** Dark Age
+- **Battle Value:** 690
+
 ## Valkyrie VLK-QD6
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3102)

@@ -1,7 +1,7 @@
 # ScavengerMech SC-V-M MilitiaMech
 ## ScavengerMech SC-V-M MilitiaMech (Standard)
 - **Role:** Ambusher
-- **Tech Base:** Inner Sphere (2800)
+- **Tech Base:** Inner Sphere (2990)
 - **Chassis:** 80 tons Quad (Industrial)
 - **Movement:** 4 / 6, Fuel Cell
 - **Armor:** 112
