@@ -429,6 +429,9 @@
 ### [Grigori](../mechs/grigori.md)
 - **Grigori  C-GRG-OU Exanimus** *Sniper (3077)* `Active Probe`, `C3i`
 
+### [Heavy Forester](../mechs/heavy_forester.md)
+- **Heavy Forester HFL-1M LoggerMech MOD** *Sniper (3015)*
+
 ### [Lancelot](../mechs/lancelot.md)
 - **Lancelot LNC25-01sl** *Sniper (2750)*
 - **Lancelot LNC25-01X** *Sniper (2765)*

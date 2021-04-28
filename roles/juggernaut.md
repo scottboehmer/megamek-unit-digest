@@ -86,6 +86,7 @@
 ### [Dig Lord](../mechs/dig_lord.md)
 - **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
 - **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)*
+- **Dig Lord RCL-4M-B MiningMech MOD** *Juggernaut (3132)*
 
 ### [Ostwar](../mechs/ostwar.md)
 - **Ostwar OWR-2M** *Juggernaut (2470)*
@@ -320,6 +321,9 @@
 - **Mauler MAL-2R** *Juggernaut (3060)*
 - **Mauler MAL-1K** *Juggernaut (3069)*
 - **Mauler MAL-4X 'Todesbote'** *Juggernaut (3070)*
+
+### [St. Florian](../mechs/st._florian.md)
+- **St. Florian FLN-366-M FireMech MOD** *Juggernaut (3133)*
 
 ### [Sunder](../mechs/sunder.md)
 - **Sunder  SD1-O (Samual)** *Juggernaut (3066)*

@@ -1,4 +1,20 @@
 # MuckRaker
+## MuckRaker GMMM-2 MiningMech
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2737)
+- **Chassis:** 70 tons (Industrial)
+- **Movement:** 2 / 3, ICE
+- **Armor:** 192
+- **Cockpit:** Industrial
+- **Heat Sinks:** 0 (0)
+- **Weapons:**
+  - Backhoe
+- **Equipment:**
+  - Cargo × 2
+  - Dumper × 2
+- **Source:** Star League
+- **Battle Value:** 709
+
 ## MuckRaker GMMM-2M MiningMech MOD
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3132)

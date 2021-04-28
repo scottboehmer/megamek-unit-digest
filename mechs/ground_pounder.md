@@ -1,4 +1,22 @@
 # Ground Pounder
+## Ground Pounder DVM-2 MiningMech
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (3125)
+- **Chassis:** 65 tons (Industrial)
+- **Movement:** 3 / 5, ICE
+- **Armor:** 88
+- **Cockpit:** Industrial
+- **Heat Sinks:** 0 (0)
+- **Weapons:**
+  - Heavy-Duty Pile Driver
+  - Mining Drill
+- **Equipment:**
+  - Mech Sprayer × 4
+  - Liquid Cargo × 2
+  - Tracks
+- **Source:** Dark Age
+- **Battle Value:** unknown
+
 ## Ground Pounder DVM-2M MiningMech MOD
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3133)

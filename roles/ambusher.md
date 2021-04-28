@@ -4,6 +4,7 @@
 
 ### [Guard SecurityMech](../mechs/guard_securitymech.md)
 - **Guard SecurityMech GS-54** *Ambusher (2914)*
+- **Guard SecurityMech GS-107X** *Ambusher (3068)*
 
 ### [Patron I LoaderMech](../mechs/patron_i_loadermech.md)
 - **Patron I LoaderMech** *Ambusher (2470)*
@@ -17,6 +18,9 @@
 ### [Pompier Firemech](../mechs/pompier_firemech.md)
 - **Pompier Firemech GM-3A** *Ambusher (3044)*
 - **Pompier Firemech GM-FL** *Ambusher (3076)*
+
+### [Pompier PoliceMech](../mechs/pompier_policemech.md)
+- **Pompier PoliceMech GM-4P** *Ambusher (3085)*
 
 ## 20 Tons
 
@@ -70,10 +74,14 @@
 - **Crosscut ED-X4K LoggerMech** *Ambusher (2786)*
 - **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)*
 - **Crosscut ED-X2 (Flamer)** *Ambusher (2810)*
+- **Crosscut ED-X4 LoggerMech** *Ambusher (2876)*
 - **Crosscut ED-X4X LoggerMech** *Ambusher (2901)*
 - **Crosscut ED-X4M LoggerMech MOD** *Ambusher (3070)*
 - **Crosscut ED-X5M LoggerMech MOD** *Ambusher (3074)*
 - **Crosscut ED-XX 'Ichabod'** *Ambusher (3075)*
+
+### [Demeter](../mechs/demeter.md)
+- **Demeter WLD-1-M AgroMech MOD** *Ambusher (3130)*
 
 ### [Harvester HVR-99 AgroMech](../mechs/harvester_hvr-99_agromech.md)
 - **Harvester HVR-99 AgroMech (Standard)** *Ambusher (3049)*
@@ -81,6 +89,10 @@
 ### [Marco](../mechs/marco.md)
 - **Marco MR-6 ExplorerMech** *Ambusher (2712)*
 - **Marco MR-7 ExplorerMech** *Ambusher (2715)*
+
+### [Pacifier SecurityMech](../mechs/pacifier_securitymech.md)
+- **Pacifier SecurityMech CCU-36** *Ambusher (3031)*
+- **Pacifier SecurityMech CCU-40** *Ambusher (3130)*
 
 ### [SuburbanMech](../mechs/suburbanmech.md)
 - **SuburbanMech UM-R90** *Ambusher (3018)*
@@ -102,8 +114,14 @@
 ### [Dig King RCL-1 MiningMech](../mechs/dig_king_rcl-1_miningmech.md)
 - **Dig King RCL-1 MiningMech (Standard)** *Ambusher (2573)*
 
+### [Powerman SC XV HaulerMech](../mechs/powerman_sc_xv_haulermech.md)
+- **Powerman SC XV HaulerMech (Standard)** *Ambusher (2895)*
+
 ### [Powerman SC XVI HaulerMech](../mechs/powerman_sc_xvi_haulermech.md)
 - **Powerman SC XVI HaulerMech (Standard)** *Ambusher (3068)*
+
+### [StrongArm](../mechs/strongarm.md)
+- **StrongArm SC CV-M ConstructionMech MOD** *Ambusher (3132)*
 
 ## 40 Tons
 
@@ -118,6 +136,9 @@
 ### [Buster BC XXI HaulerMech](../mechs/buster_bc_xxi_haulermech.md)
 - **Buster BC XXI HaulerMech (Standard)** *Ambusher (3059)*
 
+### [Buster BC XXI-M HaulerMech MOD](../mechs/buster_bc_xxi-m_haulermech_mod.md)
+- **Buster BC XXI-M HaulerMech MOD** *Ambusher (3059)*
+
 ### [Hunchback IIC](../mechs/hunchback_iic.md)
 - **Hunchback IIC (Standard)** *Ambusher (2856)*
 - **Hunchback IIC 2** *Ambusher (3061)*
@@ -127,6 +148,9 @@
 ### [Daedalus](../mechs/daedalus.md)
 - **Daedalus GTX2A 'Stevedore'** *Ambusher (2750)*
 - **Daedalus GTX2B 'Navvy'** *Ambusher (2750)*
+
+### [Heavy Lifter HCL-1 CargoMech](../mechs/heavy_lifter_hcl-1_cargomech.md)
+- **Heavy Lifter HCL-1 CargoMech (Standard)** *Ambusher (3066)*
 
 ### [Lumberjack](../mechs/lumberjack.md)
 - **Lumberjack LM1/A** *Ambusher (2355)*
@@ -140,6 +164,7 @@
 - **Dig Lord RCL-Z1 Armed MiningMech** *Ambusher (3081)*
 
 ### [Ground Pounder](../mechs/ground_pounder.md)
+- **Ground Pounder DVM-2 MiningMech** *Ambusher (3125)*
 - **Ground Pounder DVM-2M MiningMech MOD** *Ambusher (3133)*
 
 ## 70 Tons
@@ -149,6 +174,9 @@
 
 ### [MuckRaker](../mechs/muckraker.md)
 - **MuckRaker GMMM-2M MiningMech MOD** *Ambusher (3132)*
+
+### [Uni ATAE-70T CargoMech](../mechs/uni_atae-70t_cargomech.md)
+- **Uni ATAE-70T CargoMech (Standard)** *Ambusher (3074)*
 
 ## 80 Tons
 

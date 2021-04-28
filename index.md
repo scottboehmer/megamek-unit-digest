@@ -95,6 +95,7 @@
 - [Buster BC XV-M-C HaulerMech](mechs/buster_bc_xv-m-c_haulermech.md)
 - [Buster BC XV-M-W HaulerMech](mechs/buster_bc_xv-m-w_haulermech.md)
 - [Buster BC XXI HaulerMech](mechs/buster_bc_xxi_haulermech.md)
+- [Buster BC XXI-M HaulerMech MOD](mechs/buster_bc_xxi-m_haulermech_mod.md)
 - [Butcherbird (Ion Sparrow)](mechs/butcherbird_ion_sparrow.md)
 
 ## C
@@ -300,6 +301,8 @@
 - [Havoc](mechs/havoc.md)
 - [HawkWolf](mechs/hawkwolf.md)
 - [Heavy Forester](mechs/heavy_forester.md)
+- [Heavy Lifter](mechs/heavy_lifter.md)
+- [Heavy Lifter HCL-1 CargoMech](mechs/heavy_lifter_hcl-1_cargomech.md)
 - [Hector](mechs/hector.md)
 - [Helepolis](mechs/helepolis.md)
 - [Helios](mechs/helios.md)
@@ -480,6 +483,7 @@
 - [Owens](mechs/owens.md)
 
 ## P
+- [Pacifier SecurityMech](mechs/pacifier_securitymech.md)
 - [Pack Hunter](mechs/pack_hunter.md)
 - [Pack Hunter II](mechs/pack_hunter_ii.md)
 - [Paladin](mechs/paladin.md)
@@ -508,10 +512,12 @@
 - [Pinion](mechs/pinion.md)
 - [Piranha](mechs/piranha.md)
 - [Pompier Firemech](mechs/pompier_firemech.md)
+- [Pompier PoliceMech](mechs/pompier_policemech.md)
 - [Porcupine](mechs/porcupine.md)
 - [Pouncer](mechs/pouncer.md)
 - [Powerman SC XI-M LoaderMech](mechs/powerman_sc_xi-m_loadermech.md)
 - [Powerman SC XI-M-B LoaderMech](mechs/powerman_sc_xi-m-b_loadermech.md)
+- [Powerman SC XV HaulerMech](mechs/powerman_sc_xv_haulermech.md)
 - [Powerman SC XVI HaulerMech](mechs/powerman_sc_xvi_haulermech.md)
 - [Powerman XI LoaderMech](mechs/powerman_xi_loadermech.md)
 - [Predator](mechs/predator.md)
@@ -631,6 +637,7 @@
 - [Sun Cobra](mechs/sun_cobra.md)
 - [Sun Spider](mechs/sun_spider.md)
 - [Sunder](mechs/sunder.md)
+- [Super-Griffin](mechs/super-griffin.md)
 - [Super-Wasp](mechs/super-wasp.md)
 - [Supernova](mechs/supernova.md)
 - [Surtur](mechs/surtur.md)
@@ -681,6 +688,7 @@
 - [Uller (Kit Fox)](mechs/uller_kit_fox.md)
 - [Uni ATAE-70 CargoMech](mechs/uni_atae-70_cargomech.md)
 - [Uni ATAE-70 MilitiaMech](mechs/uni_atae-70_militiamech.md)
+- [Uni ATAE-70T CargoMech](mechs/uni_atae-70t_cargomech.md)
 - [Uraeus](mechs/uraeus.md)
 - [UrbanMech](mechs/urbanmech.md)
 - [UrbanMech IIC](mechs/urbanmech_iic.md)

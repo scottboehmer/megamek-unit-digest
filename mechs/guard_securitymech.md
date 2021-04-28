@@ -13,3 +13,17 @@
 - **Source:** Succession Wars
 - **Battle Value:** 156
 
+## Guard SecurityMech GS-107X
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (3068)
+- **Chassis:** 15 tons Quad (Industrial)
+- **Movement:** 4 / 6
+- **Armor:** 59
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Ejection Seat
+- **Source:** Jihad
+- **Battle Value:** 367
+

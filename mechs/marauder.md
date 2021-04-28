@@ -129,6 +129,19 @@
   - SRM 4 × 2 (ammo: 25)
 - **Battle Value:** 1459
 
+## Marauder MAD-4X
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3039)
+- **Chassis:** 75 tons (Prototype Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 192
+- **Heat Sinks:** 18 (24)
+- **Weapons:**
+  - Blazer Cannon × 2
+  - SRM 6 × 2 (ammo: 30)
+- **Source:** XTRO Succession Wars
+- **Battle Value:** 1453
+
 ## Marauder (Bounty Hunter-3044)
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3044)

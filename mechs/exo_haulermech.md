@@ -10,3 +10,42 @@
 - **Source:** Jihad
 - **Battle Value:** 96
 
+## Exo HaulerMech HMX-2
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3081)
+- **Chassis:** 10 tons (Industrial)
+- **Movement:** 4 / 6, ICE
+- **Armor:** 21 (Industrial)
+- **Myomer:** Industrial Triple-Strength
+- **Cockpit:** Industrial
+- **Heat Sinks:** 0 (0)
+- **Source:** Jihad
+- **Battle Value:** 96
+
+## Exo HaulerMech HMX-3
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3081)
+- **Chassis:** 10 tons (Industrial)
+- **Movement:** 4 / 6, Fuel Cell
+- **Armor:** 24
+- **Myomer:** Industrial Triple-Strength
+- **Cockpit:** Industrial
+- **Heat Sinks:** 1 (1)
+- **Equipment:**
+  - Enviro-Sealing
+- **Source:** Jihad
+- **Battle Value:** unknown
+
+## Exo HaulerMech HMX-3M
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3132)
+- **Chassis:** 10 tons (Industrial)
+- **Movement:** 4 / 6, Fuel Cell
+- **Armor:** 24
+- **Myomer:** Industrial Triple-Strength
+- **Heat Sinks:** 1 (1)
+- **Equipment:**
+  - Enviro-Sealing
+- **Source:** Dark Age
+- **Battle Value:** unknown
+

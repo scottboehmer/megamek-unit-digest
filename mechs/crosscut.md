@@ -77,6 +77,22 @@
 - **Source:** RS OK - Early Succession War
 - **Battle Value:** unknown
 
+## Crosscut ED-X4 LoggerMech
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (2876)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 3 / 5, ICE
+- **Armor:** 42 (Industrial)
+- **Cockpit:** Industrial
+- **Heat Sinks:** 0 (0)
+- **Weapons:**
+  - Chainsaw
+- **Equipment:**
+  - Lift Hoist
+  - Cargo
+- **Source:** RS IA - Early Succession War
+- **Battle Value:** 223
+
 ## Crosscut ED-X4X LoggerMech
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2901)

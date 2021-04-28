@@ -320,6 +320,9 @@
 ### [Sojourner](../mechs/sojourner.md)
 - **Sojourner  C** *Missile Boat (3147)*
 
+### [Super-Griffin](../mechs/super-griffin.md)
+- **Super-Griffin GRF-2N-X** *Missile Boat (3020)*
+
 ### [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
 - **Vulture (Mad Dog)  Prime** *Missile Boat (2963)*
 - **Vulture (Mad Dog)  H** *Missile Boat (3059)*

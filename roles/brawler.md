@@ -316,6 +316,10 @@
 - **Grigori  C-GRG-OE Eminus** *Brawler (3072)* `C3i`
 - **Grigori  C-GRG-OS Caelestis** *Brawler (3075)* `C3i`
 
+### [Heavy Lifter](../mechs/heavy_lifter.md)
+- **Heavy Lifter HCL-1MM MilitiaMech** *Brawler (3066)*
+- **Heavy Lifter HCL-1M CargoMech MOD** *Brawler (3132)*
+
 ### [Hellfire](../mechs/hellfire.md)
 - **Hellfire (Standard)** *Brawler (3058)*
 
@@ -542,6 +546,7 @@
 - **Black Knight BL-6b-KNT** *Brawler (2751)* `Active Probe`
 - **Black Knight BL-7-KNT** *Brawler (2809)*
 - **Black Knight BL-7-KNT-L** *Brawler (2809)*
+- **Black Knight BL-6-KNT (Ian)** *Brawler (3039)*
 - **Black Knight BL-9-KNT** *Brawler (3052)*
 - **Black Knight BL-10-KNT (Ross)** *Brawler (3055)*
 - **Black Knight BL-6-RR** *Brawler (3057)* `Active Probe`
@@ -592,6 +597,7 @@
 - **Marauder MAD-3M** *Brawler (2873)*
 - **Marauder MAD-3L** *Brawler (2905)*
 - **Marauder MAD-SD (Douglass)** *Brawler (3025)*
+- **Marauder MAD-4X** *Brawler (3039)*
 - **Marauder MAD-5D-DC** *Brawler (3055)* `Command Console`
 - **Marauder MAD-5R** *Brawler (3068)* `C3 Slave`, `ECM`
 - **Marauder MAD-5T** *Brawler (3068)*

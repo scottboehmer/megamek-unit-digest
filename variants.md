@@ -4,6 +4,9 @@
 
 ### [Exo HaulerMech](mechs/exo_haulermech.md)
 - **Exo HaulerMech HMX-1** *Undefined (3080)*
+- **Exo HaulerMech HMX-2** *Undefined (3081)*
+- **Exo HaulerMech HMX-3** *Undefined (3081)*
+- **Exo HaulerMech HMX-3M** *Undefined (3132)*
 
 ## 15 Tons
 
@@ -23,6 +26,7 @@
 
 ### [Guard SecurityMech](mechs/guard_securitymech.md)
 - **Guard SecurityMech GS-54** *Ambusher (2914)*
+- **Guard SecurityMech GS-107X** *Ambusher (3068)*
 
 ### [Patron I LoaderMech](mechs/patron_i_loadermech.md)
 - **Patron I LoaderMech** *Ambusher (2470)*
@@ -39,6 +43,9 @@
 - **Pompier Firemech GM-3HT** *Undefined (3060)*
 - **Pompier Firemech GM-3CD** *Scout (3062)* `Active Probe`
 - **Pompier Firemech GM-FL** *Ambusher (3076)*
+
+### [Pompier PoliceMech](mechs/pompier_policemech.md)
+- **Pompier PoliceMech GM-4P** *Ambusher (3085)*
 
 ### [Prey Seeker](mechs/prey_seeker.md)
 - **Prey Seeker PY-SR10** *Striker (3136)*
@@ -558,6 +565,7 @@
 - **Crosscut ED-X4K LoggerMech** *Ambusher (2786)*
 - **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)*
 - **Crosscut ED-X2 (Flamer)** *Ambusher (2810)*
+- **Crosscut ED-X4 LoggerMech** *Ambusher (2876)*
 - **Crosscut ED-X4X LoggerMech** *Ambusher (2901)*
 - **Crosscut ED-X4D DemolitionMech** *Undefined (2910)*
 - **Crosscut ED-X4B DemolitionMech** *Undefined (2932)*
@@ -574,6 +582,7 @@
 
 ### [Demeter](mechs/demeter.md)
 - **Demeter WLD-1 AgroMech** *Undefined (3130)*
+- **Demeter WLD-1-M AgroMech MOD** *Ambusher (3130)*
 
 ### [Devil](mechs/devil.md)
 - **Devil (Standard)** *Sniper (2911)*
@@ -736,6 +745,10 @@
 - **Osiris OSR-3D** *Striker (3063)*
 - **Osiris OSR-4D** *Striker (3067)*
 - **Osiris OSR-5D** *Striker (3081)*
+
+### [Pacifier SecurityMech](mechs/pacifier_securitymech.md)
+- **Pacifier SecurityMech CCU-36** *Ambusher (3031)*
+- **Pacifier SecurityMech CCU-40** *Ambusher (3130)*
 
 ### [Pack Hunter](mechs/pack_hunter.md)
 - **Pack Hunter (Standard)** *Striker (3059)*
@@ -970,6 +983,7 @@
 - **Hollander III BZK-D3** *Striker (3118)* `ECM`
 
 ### [Inquisitor](mechs/inquisitor.md)
+- **Inquisitor ITW-80 SecurityMech** *Scout (3062)*
 - **Inquisitor ITW-85 SecurityMech** *Scout (3120)* `Active Probe`
 
 ### [Jaguar](mechs/jaguar.md)
@@ -981,6 +995,7 @@
 - **Jenner JR7-F** *Striker (2784)*
 - **Jenner JR7-D** *Striker (2785)*
 - **Jenner JR7-F (Smith)** *Undefined (3030)*
+- **Jenner JR7-K (Grace)** *Scout (3039)*
 - **Jenner JR7-K** *Striker (3047)*
 - **Jenner JR7-C** *Striker (3050)* `C3 Slave`
 - **Jenner JR7-K (Samuli)** *Missile Boat (3060)*
@@ -1086,6 +1101,9 @@
 ### [Powerman SC XI-M-B LoaderMech](mechs/powerman_sc_xi-m-b_loadermech.md)
 - **Powerman SC XI-M-B LoaderMech MOD** *Brawler (2801)*
 
+### [Powerman SC XV HaulerMech](mechs/powerman_sc_xv_haulermech.md)
+- **Powerman SC XV HaulerMech (Standard)** *Ambusher (2895)*
+
 ### [Powerman SC XVI HaulerMech](mechs/powerman_sc_xvi_haulermech.md)
 - **Powerman SC XVI HaulerMech (Standard)** *Ambusher (3068)*
 
@@ -1162,6 +1180,7 @@
 ### [StrongArm](mechs/strongarm.md)
 - **StrongArm SC CV ConstructionMech** *Undefined (3094)*
 - **StrongArm SC CVI ConstructionMech** *Undefined (3094)*
+- **StrongArm SC CV-M ConstructionMech MOD** *Ambusher (3132)*
 
 ### [Talon](mechs/talon.md)
 - **Talon TLN-5V** *Striker (2670)*
@@ -1723,6 +1742,7 @@
 - **Phoenix Hawk PXH-8CS** *Striker (3080)* `C3 Slave`, `ECM`
 - **Phoenix Hawk PXH-4M** *Striker (3087)*
 - **Phoenix Hawk PXH-7KJ 'Jasmine'** *Undefined (3125)* `ECM`, `Remote Drone Command Console`
+- **Phoenix Hawk PXH-99** *Undefined (3134)*
 - **Phoenix Hawk C 2** *Striker (3140)*
 - **Phoenix Hawk PXH-9** *Striker (3140)*
 
@@ -1920,6 +1940,9 @@
 
 ### [Buster BC XXI HaulerMech](mechs/buster_bc_xxi_haulermech.md)
 - **Buster BC XXI HaulerMech (Standard)** *Ambusher (3059)*
+
+### [Buster BC XXI-M HaulerMech MOD](mechs/buster_bc_xxi-m_haulermech_mod.md)
+- **Buster BC XXI-M HaulerMech MOD** *Ambusher (3059)*
 
 ### [Centurion](mechs/centurion.md)
 - **Centurion CN9-A** *Brawler (2801)*
@@ -2715,6 +2738,14 @@
 
 ### [Heavy Forester](mechs/heavy_forester.md)
 - **Heavy Forester HFL-1 LoggerMech** *Undefined (2700)*
+- **Heavy Forester HFL-1M LoggerMech MOD** *Sniper (3015)*
+
+### [Heavy Lifter](mechs/heavy_lifter.md)
+- **Heavy Lifter HCL-1MM MilitiaMech** *Brawler (3066)*
+- **Heavy Lifter HCL-1M CargoMech MOD** *Brawler (3132)*
+
+### [Heavy Lifter HCL-1 CargoMech](mechs/heavy_lifter_hcl-1_cargomech.md)
+- **Heavy Lifter HCL-1 CargoMech (Standard)** *Ambusher (3066)*
 
 ### [Helios](mechs/helios.md)
 - **Helios HEL-3D** *Skirmisher (3058)*
@@ -2855,6 +2886,9 @@
 ### [Spatha](mechs/spatha.md)
 - **Spatha SP1-X** *Skirmisher (3067)*
 - **Spatha SP2-X 'Warlord'** *Skirmisher (3069)* `ECM`
+
+### [Super-Griffin](mechs/super-griffin.md)
+- **Super-Griffin GRF-2N-X** *Missile Boat (3020)*
 
 ### [Thresher](mechs/thresher.md)
 - **Thresher (Standard)** *Skirmisher (2849)*
@@ -3029,6 +3063,7 @@
 - **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
 - **Dig Lord RCL-Z1 Armed MiningMech** *Ambusher (3081)*
 - **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)*
+- **Dig Lord RCL-4M-B MiningMech MOD** *Juggernaut (3132)*
 
 ### [Dominator](mechs/dominator.md)
 - **Dominator (Standard)** *Skirmisher (3148)*
@@ -3054,6 +3089,7 @@
 - **Fire Scorpion 3** *Skirmisher (3071)* `Active Probe`
 
 ### [Ground Pounder](mechs/ground_pounder.md)
+- **Ground Pounder DVM-2 MiningMech** *Ambusher (3125)*
 - **Ground Pounder DVM-2M MiningMech MOD** *Ambusher (3133)*
 
 ### [Ha Otoko](mechs/ha_otoko.md)
@@ -3473,6 +3509,7 @@
 - **Minsk 2** *Brawler (3148)* `Active Probe`, `ECM`
 
 ### [MuckRaker](mechs/muckraker.md)
+- **MuckRaker GMMM-2 MiningMech** *Undefined (2737)*
 - **MuckRaker GMMM-2M MiningMech MOD** *Ambusher (3132)*
 - **MuckRaker GMMM-2M-B MiningMech MOD** *Missile Boat (3132)*
 
@@ -3551,6 +3588,9 @@
 ### [Uni ATAE-70 MilitiaMech](mechs/uni_atae-70_militiamech.md)
 - **Uni ATAE-70 MilitiaMech (Standard)** *Sniper (3053)*
 
+### [Uni ATAE-70T CargoMech](mechs/uni_atae-70t_cargomech.md)
+- **Uni ATAE-70T CargoMech (Standard)** *Ambusher (3074)*
+
 ### [War Crow](mechs/war_crow.md)
 - **War Crow  Prime** *Brawler (3145)*
 - **War Crow  A** *Skirmisher (3145)*
@@ -3608,6 +3648,7 @@
 - **Black Knight BL-6b-KNT** *Brawler (2751)* `Active Probe`
 - **Black Knight BL-7-KNT** *Brawler (2809)*
 - **Black Knight BL-7-KNT-L** *Brawler (2809)*
+- **Black Knight BL-6-KNT (Ian)** *Brawler (3039)*
 - **Black Knight BL-9-KNT** *Brawler (3052)*
 - **Black Knight BL-10-KNT (Ross)** *Brawler (3055)*
 - **Black Knight BL-6-RR** *Brawler (3057)* `Active Probe`
@@ -3737,6 +3778,7 @@
 - **Marauder (Bounty Hunter-3015)** *Juggernaut (3015)*
 - **Marauder Bounty Hunter 3015** *Juggernaut (3015)*
 - **Marauder MAD-SD (Douglass)** *Brawler (3025)*
+- **Marauder MAD-4X** *Brawler (3039)*
 - **Marauder (Bounty Hunter-3044)** *Sniper (3044)*
 - **Marauder Bounty Hunter 3044** *Sniper (3044)*
 - **Marauder MAD-5D** *Skirmisher (3047)*
@@ -4550,6 +4592,7 @@
 
 ### [St. Florian](mechs/st._florian.md)
 - **St. Florian FLN-366 FireMech** *Undefined (3100)*
+- **St. Florian FLN-366-M FireMech MOD** *Juggernaut (3133)*
 
 ### [Sunder](mechs/sunder.md)
 - **Sunder  SD1-O** *Brawler (3056)*

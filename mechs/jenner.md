@@ -51,6 +51,20 @@
 - **Source:** TRO 3039
 - **Battle Value:** 1070
 
+## Jenner JR7-K (Grace)
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3039)
+- **Chassis:** 35 tons (Prototype Endo Steel)
+- **Movement:** 7 / 11
+  - **Jumping:** 5
+- **Armor:** 80 (Prototype Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 2
+  - Narc (ammo: 18)
+- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Battle Value:** 702
+
 ## Jenner JR7-K
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3047)
