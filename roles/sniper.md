@@ -723,6 +723,7 @@
 - **Goliath C** *Sniper (3143)*
 
 ### [Hatamoto-Chi](../mechs/hatamoto-chi.md)
+- **Hatamoto-Chi HTM-27T (Daniel)** *Sniper (3039)*
 - **Hatamoto-Chi HTM-28T** *Sniper (3059)* `C3 Slave`
 
 ### [Hatamoto-Kaze](../mechs/hatamoto-kaze.md)

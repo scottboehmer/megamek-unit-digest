@@ -12,6 +12,21 @@
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1536
 
+## Hatamoto-Chi HTM-27T (Daniel)
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3039)
+- **Chassis:** 80 tons (Prototype Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 216
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Prototype LB 10-X AC × 2 (ammo: 20 Cluster, 20 Standard)
+  - SRM 4 × 2 (ammo: 50)
+- **Equipment:**
+  - CASE
+- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Battle Value:** 1435
+
 ## Hatamoto-Chi HTM-27T
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3042)

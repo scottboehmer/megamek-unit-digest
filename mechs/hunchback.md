@@ -83,6 +83,20 @@
 - **Source:** TRO 3039 - Succession Wars
 - **Battle Value:** 1043
 
+## Hunchback HBK-4G (Shakir)
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3039)
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6
+- **Armor:** 160
+- **Heat Sinks:** 13 (13)
+- **Weapons:**
+  - AC/10 (ammo: 20)
+  - Prototype Medium Pulse Laser × 2
+  - Small Laser
+- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Battle Value:** 952
+
 ## Hunchback HBK-5M
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3046)

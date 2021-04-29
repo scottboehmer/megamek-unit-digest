@@ -478,6 +478,7 @@
 ### [Grand Dragon](../mechs/grand_dragon.md)
 - **Grand Dragon DRG-1G** *Skirmisher (3024)*
 - **Grand Dragon DRG-1G (Douglas)** *Skirmisher (3028)*
+- **Grand Dragon DRG-5K (Emory)** *Skirmisher (3039)*
 - **Grand Dragon DRG-5K** *Skirmisher (3050)*
 - **Grand Dragon DRG-5K-DC** *Skirmisher (3050)* `Command Console`
 - **Grand Dragon DRG-C** *Skirmisher (3050)* `C3 Slave`

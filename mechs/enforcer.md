@@ -14,6 +14,21 @@
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 1032
 
+## Enforcer ENF-4R (Daniel)
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3039)
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6
+  - **Jumping:** 4
+- **Armor:** 144
+- **Heat Sinks:** 11 (11)
+- **Weapons:**
+  - Prototype Gauss Rifle (ammo: 16)
+  - Medium Laser × 2
+  - Small Laser
+- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Battle Value:** 1247
+
 ## Enforcer ENF-5D
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3050)

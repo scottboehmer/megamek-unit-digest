@@ -59,6 +59,21 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1216
 
+## Cataphract CTF-2X (George)
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3039)
+- **Chassis:** 70 tons
+- **Movement:** 4 / 6
+- **Armor:** 208
+- **Heat Sinks:** 14 (17)
+- **Weapons:**
+  - Prototype ER Large Laser
+  - AC/10 (ammo: 20)
+  - Medium Laser × 2
+  - SRM 4 (ammo: 25)
+- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Battle Value:** 1337
+
 ## Cataphract CTF-3D
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3050)

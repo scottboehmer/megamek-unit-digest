@@ -1671,6 +1671,7 @@
 
 ### [Hatchetman](mechs/hatchetman.md)
 - **Hatchetman HCT-3F** *Brawler (3023)*
+- **Hatchetman HCT-3F (Austin)** *Brawler (3039)*
 - **Hatchetman HCT-5S** *Brawler (3049)*
 - **Hatchetman HCT-5S (Austin)** *Brawler (3059)*
 - **Hatchetman HCT-5D** *Brawler (3062)*
@@ -2003,6 +2004,7 @@
 
 ### [Enforcer](mechs/enforcer.md)
 - **Enforcer ENF-4R** *Skirmisher (2777)*
+- **Enforcer ENF-4R (Daniel)** *Brawler (3039)*
 - **Enforcer ENF-5D** *Skirmisher (3050)*
 - **Enforcer ENF-5D (Daniel)** *Skirmisher (3054)*
 
@@ -2053,6 +2055,7 @@
 - **Hunchback HBK-4N** *Brawler (2920)*
 - **Hunchback HBK-4P** *Juggernaut (2937)*
 - **Hunchback HBK-4SP** *Juggernaut (3025)*
+- **Hunchback HBK-4G (Shakir)** *Brawler (3039)*
 - **Hunchback HBK-5M** *Juggernaut (3046)*
 - **Hunchback HBK-4G (Hohiro)** *Brawler (3056)* `C3 Slave`
 - **Hunchback HBK-5N** *Juggernaut (3057)*
@@ -2715,6 +2718,8 @@
 ### [Grand Dragon](mechs/grand_dragon.md)
 - **Grand Dragon DRG-1G** *Skirmisher (3024)*
 - **Grand Dragon DRG-1G (Douglas)** *Skirmisher (3028)*
+- **Grand Dragon DRG-1G (Emory)** *Undefined (3039)*
+- **Grand Dragon DRG-5K (Emory)** *Skirmisher (3039)*
 - **Grand Dragon DRG-5K** *Skirmisher (3050)*
 - **Grand Dragon DRG-5K-DC** *Skirmisher (3050)* `Command Console`
 - **Grand Dragon DRG-C** *Skirmisher (3050)* `C3 Slave`
@@ -3368,6 +3373,7 @@
 - **Cataphract CTF-1X** *Brawler (3025)*
 - **Cataphract CTF-2X** *Brawler (3027)*
 - **Cataphract CTF-4X** *Sniper (3029)*
+- **Cataphract CTF-2X (George)** *Brawler (3039)*
 - **Cataphract CTF-3D** *Sniper (3050)*
 - **Cataphract CTF-3L** *Sniper (3050)*
 - **Cataphract CTF-3X (Sara)** *Brawler (3062)*
@@ -4060,6 +4066,7 @@
 
 ### [Hatamoto-Chi](mechs/hatamoto-chi.md)
 - **Hatamoto-Chi HTM-26T** *Brawler (3039)*
+- **Hatamoto-Chi HTM-27T (Daniel)** *Sniper (3039)*
 - **Hatamoto-Chi HTM-27T** *Brawler (3042)*
 - **Hatamoto-Chi HTM-27T (Daniel II)** *Juggernaut (3052)* `C3 Master`, `TAG`
 - **Hatamoto-Chi HTM-28T** *Sniper (3059)* `C3 Slave`

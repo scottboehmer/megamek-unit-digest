@@ -161,6 +161,7 @@
 
 ### [Hatchetman](../mechs/hatchetman.md)
 - **Hatchetman HCT-3F** *Brawler (3023)*
+- **Hatchetman HCT-3F (Austin)** *Brawler (3039)*
 - **Hatchetman HCT-5S** *Brawler (3049)*
 - **Hatchetman HCT-5S (Austin)** *Brawler (3059)*
 - **Hatchetman HCT-5D** *Brawler (3062)*
@@ -220,11 +221,15 @@
 - **Centurion  CN11-OA** *Brawler (3111)*
 - **Centurion  CN11-OD** *Brawler (3111)* `Active Probe`
 
+### [Enforcer](../mechs/enforcer.md)
+- **Enforcer ENF-4R (Daniel)** *Brawler (3039)*
+
 ### [Gravedigger](../mechs/gravedigger.md)
 - **Gravedigger GDR-1C** *Brawler (3102)*
 
 ### [Hunchback](../mechs/hunchback.md)
 - **Hunchback HBK-4N** *Brawler (2920)*
+- **Hunchback HBK-4G (Shakir)** *Brawler (3039)*
 - **Hunchback HBK-4G (Hohiro)** *Brawler (3056)* `C3 Slave`
 - **Hunchback HBK-5SG** *Brawler (3068)* `ECM`, `Stealth`
 - **Hunchback HBK-7R** *Brawler (3085)* `ECM`, `TAG`
@@ -451,6 +456,7 @@
 ### [Cataphract](../mechs/cataphract.md)
 - **Cataphract CTF-1X** *Brawler (3025)*
 - **Cataphract CTF-2X** *Brawler (3027)*
+- **Cataphract CTF-2X (George)** *Brawler (3039)*
 - **Cataphract CTF-3X (Sara)** *Brawler (3062)*
 - **Cataphract CTF-5MOC (Naomi)** *Brawler (3067)* `ECM`, `Stealth`
 
