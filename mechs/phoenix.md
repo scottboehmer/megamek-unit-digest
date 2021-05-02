@@ -1,4 +1,19 @@
 # Phoenix
+## Phoenix PX-1R
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (2474)
+- **Chassis:** 50 tons
+- **Movement:** 4 / 6
+  - **Jumping:** 3
+- **Armor:** 128 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 12 (12)
+- **Weapons:**
+  - PPC
+  - SRM 2 × 2 (ammo: 50)
+- **Source:** XTRO Primitives V - Age of War
+- **Battle Value:** 917
+
 ## Phoenix PX-3R
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2520)

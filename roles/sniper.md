@@ -426,6 +426,9 @@
 ### [Grand Dragon](../mechs/grand_dragon.md)
 - **Grand Dragon DRG-7K (Mark)** *Sniper (3067)* `C3 Slave`
 
+### [Griffin](../mechs/griffin.md)
+- **Griffin GRF-1A** *Sniper (2465)*
+
 ### [Grigori](../mechs/grigori.md)
 - **Grigori  C-GRG-OU Exanimus** *Sniper (3077)* `Active Probe`, `C3i`
 

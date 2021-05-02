@@ -87,6 +87,7 @@
 - **Stinger STG-7S** *Scout (3077)*
 
 ### [Wasp](../mechs/wasp.md)
+- **Wasp WSP-1** *Scout (2464)*
 - **Wasp WSP-1A** *Scout (2471)*
 - **Wasp WSP-1L** *Scout (2799)*
 - **Wasp WSP-1K** *Scout (2818)*
@@ -465,3 +466,4 @@
 ### [Charger](../mechs/charger.md)
 - **Charger CGR-1A1** *Scout (2665)*
 - **Charger CGR-2A2** *Scout (3064)*
+- **Charger CGR-1X1** *Scout (3076)* `Active Probe`, `C3 Slave`, `ECM`, `TAG`

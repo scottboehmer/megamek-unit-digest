@@ -13,6 +13,22 @@
 - **Source:** XTRO Primitives V - Age of War
 - **Battle Value:** 973
 
+## Orion ON1-H
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2456)
+- **Chassis:** 75 tons
+- **Movement:** 3 / 5
+- **Armor:** 225 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Primitive AC/10 (ammo: 16)
+  - Medium Laser × 2
+  - LRM 5 × 2 (ammo: 24)
+  - SRM 4 (ammo: 25)
+- **Source:** XTRO Primitives V - Age of War
+- **Battle Value:** 1307
+
 ## Orion ON1-K
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (2525)

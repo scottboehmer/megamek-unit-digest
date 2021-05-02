@@ -219,6 +219,7 @@
 - **Trooper TP-1R** *Undefined (2475)*
 
 ### [Wasp](mechs/wasp.md)
+- **Wasp WSP-1** *Scout (2464)*
 - **Wasp WSP-1A** *Scout (2471)*
 - **Wasp WSP-1L** *Scout (2799)*
 - **Wasp WSP-1K** *Scout (2818)*
@@ -2143,6 +2144,7 @@
 - **Omni-Corvis  B** *Missile Boat (2921)*
 
 ### [Phoenix](mechs/phoenix.md)
+- **Phoenix PX-1R** *Brawler (2474)*
 - **Phoenix PX-3R** *Skirmisher (2520)*
 - **Phoenix PX-4R** *Skirmisher (2581)*
 - **Phoenix PX-1KC** *Brawler (3065)*
@@ -2607,6 +2609,8 @@
 - **Thunder Fox TFT-F11** *Sniper (3119)*
 
 ### [Wolverine](mechs/wolverine.md)
+- **Wolverine WVR-1R** *Undefined (2471)*
+- **Wolverine WVR-3R** *Undefined (2490)*
 - **Wolverine WVR-6R** *Skirmisher (2575)*
 - **Wolverine WVR-6K** *Skirmisher (2598)*
 - **Wolverine WVR-6M** *Skirmisher (2816)*
@@ -2728,6 +2732,9 @@
 - **Grand Dragon DRG-9KC** *Skirmisher (3071)* `C3 Master`, `TAG`
 - **Grand Dragon DRG-7KC** *Skirmisher (3077)* `C3 Slave`
 - **Grand Dragon DRG-10K** *Skirmisher (3114)*
+
+### [Griffin](mechs/griffin.md)
+- **Griffin GRF-1A** *Sniper (2465)*
 
 ### [Grigori](mechs/grigori.md)
 - **Grigori  C-GRG-O Invictus** *Brawler (3069)* `C3i`
@@ -2911,6 +2918,7 @@
 - **Ti Ts'ang TSG-9C** *Skirmisher (3069)*
 - **Ti Ts'ang TSG-9DDC 'Prototype'** *Undefined (3076)*
 - **Ti Ts'ang TSG-9DDC** *Skirmisher (3083)*
+- **Ti Ts'ang TSG-10L** *Skirmisher (3125)* `TAG`
 
 ### [Vision Quest](mechs/vision_quest.md)
 - **Vision Quest** *Undefined (2832)*
@@ -3843,6 +3851,7 @@
 
 ### [Orion](mechs/orion.md)
 - **Orion ON1-C** *Undefined (2453)*
+- **Orion ON1-H** *Undefined (2456)*
 - **Orion ON1-K** *Brawler (2525)*
 - **Orion ON1-K (Kerensky)** *Brawler (2753)*
 - **Orion ON1-V** *Brawler (2799)*
@@ -4025,6 +4034,7 @@
 - **Charger CGR-SA5** *Juggernaut (3063)*
 - **Charger CGR-2A2** *Scout (3064)*
 - **Charger CGR-KMZ** *Sniper (3071)*
+- **Charger CGR-1X1** *Scout (3076)* `Active Probe`, `C3 Slave`, `ECM`, `TAG`
 - **Charger CGR-3Kr** *Skirmisher (3078)*
 
 ### [Cudgel](mechs/cudgel.md)

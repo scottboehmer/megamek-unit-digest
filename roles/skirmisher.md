@@ -593,6 +593,7 @@
 - **Ti Ts'ang TSG-9J** *Skirmisher (3060)*
 - **Ti Ts'ang TSG-9C** *Skirmisher (3069)*
 - **Ti Ts'ang TSG-9DDC** *Skirmisher (3083)*
+- **Ti Ts'ang TSG-10L** *Skirmisher (3125)* `TAG`
 
 ### [Vulpes](../mechs/vulpes.md)
 - **Vulpes VLP-1D** *Skirmisher (3133)* `ECM`, `Stealth`

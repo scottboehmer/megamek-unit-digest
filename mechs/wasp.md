@@ -1,4 +1,18 @@
 # Wasp
+## Wasp WSP-1
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (2464)
+- **Chassis:** 20 tons
+- **Movement:** 6 / 9
+  - **Jumping:** 5
+- **Armor:** 37 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser
+- **Source:** XTRO Primitives II - Age of War
+- **Battle Value:** 322
+
 ## Wasp WSP-1A
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2471)

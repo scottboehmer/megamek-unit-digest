@@ -1,4 +1,35 @@
 # Wolverine
+## Wolverine WVR-1R
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2471)
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6
+  - **Jumping:** 4
+- **Armor:** 155 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - AC/5 (ammo: 40)
+  - Medium Laser
+- **Source:** XTRO Primitives V - Age of War
+- **Battle Value:** 885
+
+## Wolverine WVR-3R
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2490)
+- **Chassis:** 55 tons
+- **Movement:** 4 / 6
+  - **Jumping:** 4
+- **Armor:** 123 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - AC/5 (ammo: 20)
+  - SRM 6 (ammo: 15)
+  - Medium Laser
+- **Source:** XTRO Primitives V - Age of War
+- **Battle Value:** 867
+
 ## Wolverine WVR-6R
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2575)

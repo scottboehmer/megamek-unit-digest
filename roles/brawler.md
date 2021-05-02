@@ -245,6 +245,7 @@
 - **Omni-Corvis  A** *Brawler (2921)*
 
 ### [Phoenix](../mechs/phoenix.md)
+- **Phoenix PX-1R** *Brawler (2474)*
 - **Phoenix PX-1KC** *Brawler (3065)*
 - **Phoenix PX-1KL** *Brawler (3070)*
 - **Phoenix PX-1KR** *Brawler (3079)*

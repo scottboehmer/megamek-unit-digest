@@ -123,3 +123,23 @@
   - Supercharger
 - **Battle Value:** 2013
 
+## Ti Ts'ang TSG-10L
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3125)
+- **Chassis:** 60 tons (Endo Composite)
+- **Movement:** 6 (7) / 9 (14), XXL
+- **Armor:** 200 (Heat-Dissipating)
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium VSP Laser
+  - Medium Laser × 4
+  - Hatchet
+  - Small Laser × 4
+- **Equipment:**
+  - Chaff Pod
+  - Supercharger
+  - TAG
+- **Source:** RS 3145 NTNU
+- **Battle Value:** 1728
+
