@@ -47,6 +47,25 @@
 - **Source:** TRO 3075
 - **Battle Value:** 1715
 
+## Excalibur EXC-B2b-EC
+- **Role:** Missile Boat
+- **Tech Base:** Clan Mixed (2822)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 217
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Improved Gauss Rifle (ammo: 24)
+  - Improved LRM 20 w/ Artemis IV (ammo: 12)
+  - Prototype ER Medium Laser
+  - Prototype ER Small Laser
+- **Equipment:**
+  - Inner Sphere Anti-Missile System (ammo: 12)
+  - CASE
+  - Inner Sphere CASE
+- **Source:** Succession Wars
+- **Battle Value:** 2001
+
 ## Excalibur EXC-C1
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3058)

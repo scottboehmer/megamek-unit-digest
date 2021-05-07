@@ -27,6 +27,22 @@
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1701
 
+## Cestus CTS-6Y-EC
+- **Role:** Brawler
+- **Tech Base:** Clan Mixed (2822)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6, XL
+- **Armor:** 211
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Improved Gauss Rifle (ammo: 32)
+  - Improved Large Laser × 2
+  - Prototype ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Succession Wars
+- **Battle Value:** 1783
+
 ## Cestus CTS-6Z
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3058)

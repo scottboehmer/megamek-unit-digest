@@ -1028,6 +1028,7 @@
 
 ### [Night Hawk](mechs/night_hawk.md)
 - **Night Hawk NTK-2Q** *Striker (2656)*
+- **Night Hawk NTK-2Q-EC** *Striker (2819)*
 - **Night Hawk NTK-2S** *Striker (3059)* `Active Probe`, `ECM`
 
 ### [Ocelot](mechs/ocelot.md)
@@ -1117,6 +1118,7 @@
 - **Puma (Adder)  D** *Sniper (3010)*
 - **Puma (Adder)  A** *Missile Boat (3012)*
 - **Puma (Adder)  C** *Missile Boat (3012)*
+- **Puma (Adder)  S** *Scout (3050)* `Active Probe`, `ECM`
 - **Puma (Adder)  TC** *Undefined (3052)* `Active Probe`
 - **Puma (Adder)  H** *Brawler (3059)*
 - **Puma (Adder)  E** *Sniper (3060)*
@@ -1186,6 +1188,7 @@
 ### [Talon](mechs/talon.md)
 - **Talon TLN-5V** *Striker (2670)*
 - **Talon TLN-5W** *Striker (2760)*
+- **Talon TLN-5W-EC** *Striker (2823)*
 - **Talon TLN-5VNO** *Undefined (3049)*
 - **Talon TLN-5Z** *Sniper (3062)* `C3 Slave`
 - **Talon TLN-6W** *Striker (3076)*
@@ -1723,6 +1726,7 @@
 - **Phoenix Hawk PXH-1Kk** *Skirmisher (2725)*
 - **Phoenix Hawk PXH-1b (Special)** *Skirmisher (2760)* `ECM`
 - **Phoenix Hawk PXH-1c (Special)** *Striker (2765)* `ECM`
+- **Phoenix Hawk PXH-1-EC** *Skirmisher (2819)*
 - **Phoenix Hawk C** *Striker (2831)*
 - **Phoenix Hawk PXH-3S** *Striker (3042)*
 - **Phoenix Hawk PXH-3M** *Striker (3045)*
@@ -1810,6 +1814,9 @@
 
 ### [Stag](mechs/stag.md)
 - **Stag ST-14G** *Striker (2823)* `Active Probe`
+
+### [Stag II](mechs/stag_ii.md)
+- **Stag II ST-24G** *Striker (2823)*
 
 ### [Stalking Spider II](mechs/stalking_spider_ii.md)
 - **Stalking Spider II (Standard)** *Skirmisher (3110)*
@@ -2021,6 +2028,7 @@
 - **Enforcer III ENF-7D** *Sniper (3104)*
 
 ### [Fox](mechs/fox.md)
+- **Fox CS-1** *Missile Boat (2824)*
 - **Fox** *Undefined (2835)*
 
 ### [Galahad](mechs/galahad.md)
@@ -2478,6 +2486,10 @@
 - **Men Shen  MS1-OU** *Striker (3077)* `Active Probe`, `TAG`
 - **Men Shen  MS1-OG** *Scout (3134)* `Active Probe`
 
+### [Naja](mechs/naja.md)
+- **Naja KTO-19b-EC** *Skirmisher (2824)*
+- **Naja** *Undefined (2826)*
+
 ### [Osprey](mechs/osprey.md)
 - **Osprey OSP-15** *Sniper (2738)*
 - **Osprey OSP-25** *Sniper (3074)*
@@ -2921,6 +2933,7 @@
 - **Ti Ts'ang TSG-10L** *Skirmisher (3125)* `TAG`
 
 ### [Vision Quest](mechs/vision_quest.md)
+- **Vision Quest VQ-1NC** *Sniper (2828)*
 - **Vision Quest** *Undefined (2832)*
 - **Vision Quest 2** *Sniper (2868)*
 
@@ -3035,6 +3048,7 @@
 ### [Cestus](mechs/cestus.md)
 - **Cestus CTS-6X** *Brawler (2609)*
 - **Cestus CTS-6Y** *Brawler (2766)*
+- **Cestus CTS-6Y-EC** *Brawler (2822)*
 - **Cestus CTS-6Z** *Brawler (3058)*
 - **Cestus CTS-7A** *Brawler (3070)*
 
@@ -3091,6 +3105,7 @@
 - **Exterminator EXT-4D** *Skirmisher (2630)*
 - **Exterminator EXT-4Db** *Skirmisher (2718)*
 - **Exterminator EXT-4DX (Caine)** *Skirmisher (2754)*
+- **Exterminator EXT-4Db-EC** *Skirmisher (2819)*
 - **Exterminator EXT-4A** *Skirmisher (3007)*
 - **Exterminator EXT-5E** *Skirmisher (3060)* `C3i`
 - **Exterminator EXT-5F** *Skirmisher (3074)* `C3i`
@@ -3424,6 +3439,7 @@
 - **Excalibur EXC-B1** *Skirmisher (2619)*
 - **Excalibur EXC-B2** *Skirmisher (2620)*
 - **Excalibur EXC-B2b** *Missile Boat (2735)*
+- **Excalibur EXC-B2b-EC** *Missile Boat (2822)*
 - **Excalibur EXC-C1** *Skirmisher (3058)*
 - **Excalibur EXC-C1 (Cernunnos)** *Skirmisher (3062)* `ECM`
 - **Excalibur EXC-CS** *Skirmisher (3067)*
@@ -3915,6 +3931,9 @@
 
 ### [Reconquista](mechs/reconquista.md)
 - **Reconquista** *Brawler (2862)*
+
+### [Redback](mechs/redback.md)
+- **Redback** *Undefined (2828)* `TAG`
 
 ### [Ryoken II](mechs/ryoken_ii.md)
 - **Ryoken II (Standard)** *Sniper (3075)*
@@ -4602,6 +4621,8 @@
 - **Orochi OR-2I** *Missile Boat (3084)*
 
 ### [Pulverizer](mechs/pulverizer.md)
+- **Pulverizer PUL-2V** *Brawler (2823)* `ECM`
+- **Pulverizer PUL-3R** *Brawler (2823)* `ECM`
 - **Pulverizer** *Undefined (2845)* `ECM`
 
 ### [Rifleman III](mechs/rifleman_iii.md)
@@ -4681,6 +4702,7 @@
 - **Banshee BNC-9S2** *Sniper (3109)* `C3 Slave`
 
 ### [Bull Shark](mechs/bull_shark.md)
+- **Bull Shark BSK-M3** *Undefined (2825)*
 - **Bull Shark BSK-MAZ** *Undefined (3050)*
 
 ### [Cerberus](mechs/cerberus.md)
@@ -4725,6 +4747,7 @@
 - **Gladiator (Executioner)  I** *Skirmisher (3101)* `ECM`
 - **Gladiator (Executioner)  J** *Juggernaut (3104)*
 - **Gladiator (Executioner)  L** *Sniper (3119)*
+- **Gladiator (Executioner)  T** *Sniper (3142)* `ECM`
 
 ### [Hauptmann](mechs/hauptmann.md)
 - **Hauptmann  HA1-O** *Juggernaut (3060)* `ECM`
@@ -4903,6 +4926,7 @@
 - **Daishi (Dire Wolf)  E** *Juggernaut (3103)* `Active Probe`, `ECM`
 
 ### [Devastator](mechs/devastator.md)
+- **Devastator DVS-2-EC** *Juggernaut (2827)*
 - **Devastator DVS-1D** *Juggernaut (3036)*
 - **Devastator DVS-2** *Juggernaut (3048)*
 - **Devastator DVS-3** *Sniper (3058)*

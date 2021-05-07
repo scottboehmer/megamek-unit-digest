@@ -110,6 +110,22 @@
 - **Source:** TRO 3075
 - **Battle Value:** 1443
 
+## Phoenix Hawk PXH-1-EC
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere Mixed (2819)
+- **Chassis:** 45 tons
+- **Movement:** 6 / 9
+  - **Jumping:** 6
+- **Armor:** 136
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan Improved Large Laser
+  - Clan Prototype ER Medium Laser × 2
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
+- **Source:** Succession Wars
+- **Battle Value:** 1206
+
 ## Phoenix Hawk C
 - **Role:** Striker
 - **Tech Base:** Clan (2831)

@@ -25,6 +25,19 @@
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1175
 
+## Talon TLN-5W-EC
+- **Role:** Striker
+- **Tech Base:** Clan Mixed (2823)
+- **Chassis:** 35 tons
+- **Movement:** 8 / 12, XL
+- **Armor:** 119
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Enhanced PPC
+  - Inner Sphere Medium Laser × 2
+- **Source:** Succession Wars
+- **Battle Value:** 1364
+
 ## Talon TLN-5VNO
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3049)

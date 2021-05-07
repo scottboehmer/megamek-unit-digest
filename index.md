@@ -446,6 +446,7 @@
 ## N
 - [Naga](mechs/naga.md)
 - [Naginata](mechs/naginata.md)
+- [Naja](mechs/naja.md)
 - [Neanderthal](mechs/neanderthal.md)
 - [Nexus](mechs/nexus.md)
 - [Nexus II](mechs/nexus_ii.md)
@@ -550,6 +551,7 @@
 - [Razorback](mechs/razorback.md)
 - [Reconquista](mechs/reconquista.md)
 - [Red Shift](mechs/red_shift.md)
+- [Redback](mechs/redback.md)
 - [Reptar MilitiaMech](mechs/reptar_militiamech.md)
 - [Revenant](mechs/revenant.md)
 - [Rifleman](mechs/rifleman.md)
@@ -617,6 +619,7 @@
 - [Spirit](mechs/spirit.md)
 - [St. Florian](mechs/st._florian.md)
 - [Stag](mechs/stag.md)
+- [Stag II](mechs/stag_ii.md)
 - [Stalker](mechs/stalker.md)
 - [Stalker II](mechs/stalker_ii.md)
 - [Stalking Spider](mechs/stalking_spider.md)

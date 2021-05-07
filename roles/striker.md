@@ -503,6 +503,7 @@
 
 ### [Night Hawk](../mechs/night_hawk.md)
 - **Night Hawk NTK-2Q** *Striker (2656)*
+- **Night Hawk NTK-2Q-EC** *Striker (2819)*
 - **Night Hawk NTK-2S** *Striker (3059)* `Active Probe`, `ECM`
 
 ### [Ocelot](../mechs/ocelot.md)
@@ -574,6 +575,7 @@
 ### [Talon](../mechs/talon.md)
 - **Talon TLN-5V** *Striker (2670)*
 - **Talon TLN-5W** *Striker (2760)*
+- **Talon TLN-5W-EC** *Striker (2823)*
 - **Talon TLN-6W** *Striker (3076)*
 
 ### [Tiburon](../mechs/tiburon.md)
@@ -913,6 +915,9 @@
 
 ### [Stag](../mechs/stag.md)
 - **Stag ST-14G** *Striker (2823)* `Active Probe`
+
+### [Stag II](../mechs/stag_ii.md)
+- **Stag II ST-24G** *Striker (2823)*
 
 ### [Stealth](../mechs/stealth.md)
 - **Stealth STH-1D** *Striker (3054)* `Active Probe`

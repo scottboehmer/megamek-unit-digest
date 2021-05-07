@@ -455,6 +455,7 @@
 - **Daishi (Dire Wolf)  E** *Juggernaut (3103)* `Active Probe`, `ECM`
 
 ### [Devastator](../mechs/devastator.md)
+- **Devastator DVS-2-EC** *Juggernaut (2827)*
 - **Devastator DVS-1D** *Juggernaut (3036)*
 - **Devastator DVS-2** *Juggernaut (3048)*
 

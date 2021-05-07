@@ -13,6 +13,20 @@
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 997
 
+## Night Hawk NTK-2Q-EC
+- **Role:** Striker
+- **Tech Base:** Inner Sphere Mixed (2819)
+- **Chassis:** 35 tons
+- **Movement:** 6 / 9, XL
+- **Armor:** 119
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - ER Large Laser
+  - Large Laser
+  - Clan Prototype ER Medium Laser
+- **Source:** Succession Wars
+- **Battle Value:** 1041
+
 ## Night Hawk NTK-2S
 - **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)

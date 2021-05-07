@@ -1,4 +1,18 @@
 # Vision Quest
+## Vision Quest VQ-1NC
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere Mixed (2828)
+- **Chassis:** 60 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 188 (Ferro Fibrous)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Clan Improved Gauss Rifle (ammo: 16)
+  - Clan ER Large Laser × 2
+  - Medium Pulse Laser × 3
+- **Source:** Succession Wars
+- **Battle Value:** 2180
+
 ## Vision Quest
 - **Role:** Undefined
 - **Tech Base:** Clan (2832)

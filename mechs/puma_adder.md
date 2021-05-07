@@ -81,6 +81,24 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1372
 
+## Puma (Adder) S
+- **Role:** Scout
+- **Tech Base:** Clan (3050)
+- **Chassis:** 35 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+- **Armor:** 115 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 4
+  - Flamer
+  - Machine Gun × 16 (ammo: 400)
+- **Equipment:**
+  - ECM Suite
+  - Active Probe
+  - CASE
+- **Source:** ilClan Vol 3 - Dark Age
+- **Battle Value:** 1427
+
 ## Puma (Adder) TC
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)

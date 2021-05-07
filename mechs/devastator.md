@@ -1,4 +1,20 @@
 # Devastator
+## Devastator DVS-2-EC
+- **Role:** Juggernaut
+- **Tech Base:** Clan Mixed (2827)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5, XL
+- **Armor:** 296
+- **Heat Sinks:** 20 (40)
+- **Weapons:**
+  - Enhanced PPC × 2
+  - Improved Gauss Rifle × 2 (ammo: 32)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Succession Wars
+- **Battle Value:** 2844
+
 ## Devastator DVS-1D
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3036)

@@ -375,6 +375,7 @@
 ### [Cestus](../mechs/cestus.md)
 - **Cestus CTS-6X** *Brawler (2609)*
 - **Cestus CTS-6Y** *Brawler (2766)*
+- **Cestus CTS-6Y-EC** *Brawler (2822)*
 - **Cestus CTS-6Z** *Brawler (3058)*
 - **Cestus CTS-7A** *Brawler (3070)*
 
@@ -863,6 +864,10 @@
 - **Mad Cat Mk II 2** *Brawler (3069)*
 - **Mad Cat Mk II 3** *Brawler (3082)* `Active Probe`
 - **Mad Cat Mk II 5** *Brawler (3109)* `Active Probe`
+
+### [Pulverizer](../mechs/pulverizer.md)
+- **Pulverizer PUL-2V** *Brawler (2823)* `ECM`
+- **Pulverizer PUL-3R** *Brawler (2823)* `ECM`
 
 ### [Rifleman III](../mechs/rifleman_iii.md)
 - **Rifleman III RF2-A** *Brawler (2776)* `Stealth`

@@ -44,6 +44,7 @@
 - **Phoenix Hawk PXH-1K** *Skirmisher (2603)*
 - **Phoenix Hawk PXH-1Kk** *Skirmisher (2725)*
 - **Phoenix Hawk PXH-1b (Special)** *Skirmisher (2760)* `ECM`
+- **Phoenix Hawk PXH-1-EC** *Skirmisher (2819)*
 - **Phoenix Hawk PXH-1bC** *Skirmisher (3052)* `ECM`
 - **Phoenix Hawk PXH-7CS** *Skirmisher (3067)* `C3i`
 
@@ -337,6 +338,9 @@
 - **Marshal MHL-X1** *Skirmisher (3059)*
 - **Marshal MHL-2L** *Skirmisher (3063)*
 - **Marshal MHL-6MC** *Skirmisher (3073)*
+
+### [Naja](../mechs/naja.md)
+- **Naja KTO-19b-EC** *Skirmisher (2824)*
 
 ### [Osprey](../mechs/osprey.md)
 - **Osprey OSP-26** *Skirmisher (3076)* `Active Probe`
@@ -669,6 +673,7 @@
 - **Exterminator EXT-4D** *Skirmisher (2630)*
 - **Exterminator EXT-4Db** *Skirmisher (2718)*
 - **Exterminator EXT-4DX (Caine)** *Skirmisher (2754)*
+- **Exterminator EXT-4Db-EC** *Skirmisher (2819)*
 - **Exterminator EXT-4A** *Skirmisher (3007)*
 - **Exterminator EXT-5E** *Skirmisher (3060)* `C3i`
 - **Exterminator EXT-5F** *Skirmisher (3074)* `C3i`

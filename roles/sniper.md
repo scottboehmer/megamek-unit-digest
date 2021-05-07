@@ -469,6 +469,7 @@
 - **Sojourner  Prime** *Sniper (3147)*
 
 ### [Vision Quest](../mechs/vision_quest.md)
+- **Vision Quest VQ-1NC** *Sniper (2828)*
 - **Vision Quest 2** *Sniper (2868)*
 
 ### [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
@@ -901,6 +902,7 @@
 - **Gladiator (Executioner)  Prime** *Sniper (3001)*
 - **Gladiator (Executioner)  F** *Sniper (3089)*
 - **Gladiator (Executioner)  L** *Sniper (3119)*
+- **Gladiator (Executioner)  T** *Sniper (3142)* `ECM`
 
 ### [Hauptmann](../mechs/hauptmann.md)
 - **Hauptmann  HA1-OD** *Sniper (3070)* `C3 Master`, `TAG`

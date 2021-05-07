@@ -201,6 +201,9 @@
 ### [Crimson Langur](../mechs/crimson_langur.md)
 - **Crimson Langur  A** *Missile Boat (3065)*
 
+### [Fox](../mechs/fox.md)
+- **Fox CS-1** *Missile Boat (2824)*
+
 ### [Hunchback](../mechs/hunchback.md)
 - **Hunchback HBK-4J** *Missile Boat (2856)*
 - **Hunchback HBK-5SS** *Missile Boat (3068)*
@@ -461,6 +464,7 @@
 
 ### [Excalibur](../mechs/excalibur.md)
 - **Excalibur EXC-B2b** *Missile Boat (2735)*
+- **Excalibur EXC-B2b-EC** *Missile Boat (2822)*
 
 ### [Flamberge](../mechs/flamberge.md)
 - **Flamberge  C** *Missile Boat (3077)* `TAG`

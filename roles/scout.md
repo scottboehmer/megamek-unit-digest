@@ -307,6 +307,9 @@
 ### [Phoenix Hawk L](../mechs/phoenix_hawk_l.md)
 - **Phoenix Hawk L PXH-11K** *Scout (3116)*
 
+### [Puma (Adder)](../mechs/puma_adder.md)
+- **Puma (Adder)  S** *Scout (3050)* `Active Probe`, `ECM`
+
 ### [Raven](../mechs/raven.md)
 - **Raven RVN-1X** *Scout (3024)* `Active Probe`, `ECM`
 - **Raven RVN-3X** *Scout (3028)* `Active Probe`, `ECM`
