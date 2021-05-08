@@ -294,6 +294,7 @@
 - **Emperor EMP-1A** *Juggernaut (2442)*
 - **Emperor EMP-5A** *Juggernaut (2502)*
 - **Emperor EMP-6A** *Juggernaut (2612)*
+- **Emperor EMP-6A-EC** *Juggernaut (2826)*
 - **Emperor EMP-6D** *Juggernaut (3069)*
 - **Emperor EMP-6L** *Juggernaut (3069)* `ECM`, `Stealth`
 - **Emperor EMP-6S** *Juggernaut (3069)*
@@ -302,6 +303,7 @@
 - **Emperor EMP-8L** *Juggernaut (3127)* `ECM`, `Stealth`
 
 ### [Highlander](../mechs/highlander.md)
+- **Highlander HGN-732 (Colleen)** *Juggernaut (2801)*
 - **Highlander HGN-733** *Juggernaut (2866)*
 - **Highlander HGN-733C** *Juggernaut (2866)*
 - **Highlander HGN-694** *Juggernaut (3062)*

@@ -46,6 +46,25 @@
 - **Source:** TRO 3058 - Star League
 - **Battle Value:** 1969
 
+## Emperor EMP-6A-EC
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere Mixed (2826)
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
+- **Armor:** 279
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Clan ER Large Laser × 2
+  - Clan LB 10-X AC (ammo: 10 Standard, 10 Cluster)
+  - Clan LB 5-X AC (ammo: 20 Standard, 20 Cluster)
+  - Clan Prototype Streak SRM 4 (ammo: 0)
+  - Medium Pulse Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Succession Wars
+- **Battle Value:** 2150
+
 ## Emperor EMP-6A (Nerran)
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3064)

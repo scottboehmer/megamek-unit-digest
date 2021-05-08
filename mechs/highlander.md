@@ -35,6 +35,23 @@
 - **Source:** TRO 3075
 - **Battle Value:** 2335
 
+## Highlander HGN-732 (Colleen)
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere Mixed (2801)
+- **Chassis:** 90 tons
+- **Movement:** 3 / 5
+  - **Jumping:** 3
+- **Armor:** 277 (Ferro Fibrous)
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER PPC
+  - LRM 15 × 2 (ammo: 32)
+  - Clan Prototype Streak SRM 6 (ammo: 0)
+  - Medium Pulse Laser × 2
+- **Equipment:**
+  - CASE
+- **Battle Value:** 2150
+
 ## Highlander HGN-732 (Jorgensson)
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (2829)

@@ -124,6 +124,7 @@
 - **Crab CRB-54** *Skirmisher (3144)*
 
 ### [Enfield](../mechs/enfield.md)
+- **Enfield END-6J-EC** *Skirmisher (2825)*
 - **Enfield END-6Q** *Skirmisher (3055)*
 - **Enfield END-6J** *Skirmisher (3060)*
 - **Enfield END-6S** *Skirmisher (3070)* `ECM`
@@ -191,6 +192,7 @@
 
 ### [Starslayer](../mechs/starslayer.md)
 - **Starslayer STY-2C** *Skirmisher (2772)*
+- **Starslayer STY-2C-EC** *Skirmisher (2823)*
 - **Starslayer STY-3C** *Skirmisher (3056)*
 - **Starslayer STY-3D** *Skirmisher (3057)*
 

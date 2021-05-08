@@ -2005,6 +2005,7 @@
 - **Crimson Langur  E** *Striker (3068)*
 
 ### [Enfield](mechs/enfield.md)
+- **Enfield END-6J-EC** *Skirmisher (2825)*
 - **Enfield END-6Q** *Skirmisher (3055)*
 - **Enfield END-6J** *Skirmisher (3060)*
 - **Enfield END-6S** *Skirmisher (3070)* `ECM`
@@ -2210,6 +2211,7 @@
 
 ### [Starslayer](mechs/starslayer.md)
 - **Starslayer STY-2C** *Skirmisher (2772)*
+- **Starslayer STY-2C-EC** *Skirmisher (2823)*
 - **Starslayer STY-3C** *Skirmisher (3056)*
 - **Starslayer STY-3D** *Skirmisher (3057)*
 - **Starslayer STY-3Dr** *Sniper (3075)* `ECM`
@@ -4543,6 +4545,7 @@
 - **Emperor EMP-1A** *Juggernaut (2442)*
 - **Emperor EMP-5A** *Juggernaut (2502)*
 - **Emperor EMP-6A** *Juggernaut (2612)*
+- **Emperor EMP-6A-EC** *Juggernaut (2826)*
 - **Emperor EMP-6A (Nerran)** *Sniper (3064)*
 - **Emperor EMP-6D** *Juggernaut (3069)*
 - **Emperor EMP-6L** *Juggernaut (3069)* `ECM`, `Stealth`
@@ -4555,6 +4558,7 @@
 ### [Highlander](mechs/highlander.md)
 - **Highlander HGN-732** *Sniper (2592)*
 - **Highlander HGN-732b** *Missile Boat (2598)*
+- **Highlander HGN-732 (Colleen)** *Juggernaut (2801)*
 - **Highlander HGN-732 (Jorgensson)** *Sniper (2829)*
 - **Highlander HGN-733** *Juggernaut (2866)*
 - **Highlander HGN-733C** *Juggernaut (2866)*
