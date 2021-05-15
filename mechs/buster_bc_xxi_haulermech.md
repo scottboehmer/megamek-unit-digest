@@ -13,5 +13,5 @@
   - Cargo × 3
   - Tracks
 - **Source:** TRO VA
-- **Battle Value:** unknown
+- **Battle Value:** 222
 

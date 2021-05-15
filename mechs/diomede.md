@@ -61,5 +61,5 @@
   - Ejection Seat
   - Tracks
 - **Source:** RS 3145 NT NU
-- **Battle Value:** unknown
+- **Battle Value:** 1609
 

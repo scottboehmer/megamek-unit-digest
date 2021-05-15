@@ -251,6 +251,9 @@
 - **Cronus CNS-3M** *Skirmisher (3031)*
 - **Cronus CNS-5M** *Skirmisher (3060)* `C3 Slave`
 
+### [Cyllaros](../mechs/cyllaros.md)
+- **Cyllaros (Standard)** *Skirmisher (3136)* `ECM`
+
 ### [Dark Crow](../mechs/dark_crow.md)
 - **Dark Crow 4** *Skirmisher (3087)*
 
@@ -457,6 +460,11 @@
 - **Black Hawk-KU  BHKU-OU** *Skirmisher (3077)*
 - **Black Hawk-KU  BHKU-OG** *Skirmisher (3089)* `Active Probe`, `ECM`, `TAG`
 
+### [Boreas](../mechs/boreas.md)
+- **Boreas  Prime** *Skirmisher (3132)*
+- **Boreas  C** *Skirmisher (3132)*
+- **Boreas  D** *Skirmisher (3132)*
+
 ### [Brahma](../mechs/brahma.md)
 - **Brahma BRM-5A** *Skirmisher (3080)*
 - **Brahma BRM-5B** *Skirmisher (3080)*
@@ -527,6 +535,13 @@
 ### [Merlin](../mechs/merlin.md)
 - **Merlin MLN-1B (Porter)** *Skirmisher (3064)*
 - **Merlin MLN-SX** *Skirmisher (3075)*
+
+### [Notos](../mechs/notos.md)
+- **Notos  Prime** *Skirmisher (3145)*
+- **Notos  A** *Skirmisher (3145)*
+- **Notos  B** *Skirmisher (3145)*
+- **Notos  C** *Skirmisher (3145)* `Active Probe`, `ECM`, `TAG`
+- **Notos  D** *Skirmisher (3145)*
 
 ### [Ostroc](../mechs/ostroc.md)
 - **Ostroc OSR-2C** *Skirmisher (2511)*

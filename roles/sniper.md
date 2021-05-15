@@ -410,6 +410,10 @@
 - **Black Hawk-KU  BHKU-OC** *Sniper (3055)*
 - **Black Hawk-KU  BHKU-OF** *Sniper (3069)* `C3 Slave`
 
+### [Boreas](../mechs/boreas.md)
+- **Boreas  A** *Sniper (3132)*
+- **Boreas  B** *Sniper (3132)*
+
 ### [Champion](../mechs/champion.md)
 - **Champion CHP-1Nb** *Sniper (2751)*
 
@@ -628,6 +632,9 @@
 - **Warhammer WHM-8K** *Sniper (3073)* `C3 Slave`
 
 ## 75 Tons
+
+### [Harpagos](../mechs/harpagos.md)
+- **Harpagos (Standard)** *Sniper (3136)*
 
 ### [Lao Hu](../mechs/lao_hu.md)
 - **Lao Hu LHU-3C** *Sniper (3064)*

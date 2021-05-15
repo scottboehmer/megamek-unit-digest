@@ -432,6 +432,9 @@
 
 ## 35 Tons
 
+### [Arion](../mechs/arion.md)
+- **Arion (Standard)** *Striker (3136)*
+
 ### [Blade](../mechs/blade.md)
 - **Blade BLD-XL** *Striker (3087)*
 - **Blade BLD-XS** *Striker (3087)*

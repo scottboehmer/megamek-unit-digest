@@ -36,6 +36,7 @@
 - [Arctic Wolf](mechs/arctic_wolf.md)
 - [Arctic Wolf II](mechs/arctic_wolf_ii.md)
 - [Argus](mechs/argus.md)
+- [Arion](mechs/arion.md)
 - [Assassin](mechs/assassin.md)
 - [Atlas](mechs/atlas.md)
 - [Atlas II](mechs/atlas_ii.md)
@@ -80,6 +81,7 @@
 - [Blue Flame](mechs/blue_flame.md)
 - [Bombard](mechs/bombard.md)
 - [Bombardier](mechs/bombardier.md)
+- [Boreas](mechs/boreas.md)
 - [Bowman](mechs/bowman.md)
 - [Brahma](mechs/brahma.md)
 - [Brigand](mechs/brigand.md)
@@ -162,6 +164,7 @@
 - [Cuirass](mechs/cuirass.md)
 - [Cyclops](mechs/cyclops.md)
 - [Cygnus](mechs/cygnus.md)
+- [Cyllaros](mechs/cyllaros.md)
 
 ## D
 - [Daboku](mechs/daboku.md)
@@ -285,6 +288,7 @@
 - [Hammerhands](mechs/hammerhands.md)
 - [Hammerhead](mechs/hammerhead.md)
 - [Hankyu (Arctic Cheetah)](mechs/hankyu_arctic_cheetah.md)
+- [Harpagos](mechs/harpagos.md)
 - [Harvester](mechs/harvester.md)
 - [Harvester Ant](mechs/harvester_ant.md)
 - [Harvester HVR-99 AgroMech](mechs/harvester_hvr-99_agromech.md)
@@ -459,6 +463,7 @@
 - [Ninja-To](mechs/ninja-to.md)
 - [No-Dachi](mechs/no-dachi.md)
 - [Nobori-nin (Huntsman)](mechs/nobori-nin_huntsman.md)
+- [Notos](mechs/notos.md)
 - [Nova Cat](mechs/nova_cat.md)
 - [Nyx](mechs/nyx.md)
 

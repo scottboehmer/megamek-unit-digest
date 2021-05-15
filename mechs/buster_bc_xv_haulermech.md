@@ -11,5 +11,5 @@
   - Lift Hoist × 2
   - Cargo × 3
   - Tracks
-- **Battle Value:** unknown
+- **Battle Value:** 222
 

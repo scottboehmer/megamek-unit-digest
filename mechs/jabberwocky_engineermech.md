@@ -12,8 +12,8 @@
 - **Equipment:**
   - Salvage Arm
   - Lift Hoist
-  - Enviro-Sealing
   - Tracks
+  - Enviro-Sealing
 - **Source:** RS 3075 Unabrided
 - **Battle Value:** unknown
 
@@ -33,8 +33,8 @@
   - Salvage Arm
   - Lift Hoist × 2
   - Searchlight
-  - Enviro-Sealing
   - Tracks
+  - Enviro-Sealing
 - **Source:** TRO 3075
 - **Battle Value:** unknown
 

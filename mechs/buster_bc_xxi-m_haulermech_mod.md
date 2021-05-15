@@ -13,5 +13,5 @@
 - **Equipment:**
   - Tracks
 - **Source:** Clan Invasion
-- **Battle Value:** unknown
+- **Battle Value:** 483
 

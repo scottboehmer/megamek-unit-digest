@@ -17,8 +17,8 @@
   - Searchlight
   - Cargo
   - Lift Hoist
-  - Enviro-Sealing
   - Tracks
+  - Enviro-Sealing
 - **Source:** TRO 3075
 - **Battle Value:** unknown
 

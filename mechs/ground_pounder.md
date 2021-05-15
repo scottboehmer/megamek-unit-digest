@@ -31,5 +31,5 @@
 - **Equipment:**
   - Tracks
 - **Source:** Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 548
 

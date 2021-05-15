@@ -890,6 +890,9 @@
 ### [Arbiter SecurityMech](mechs/arbiter_securitymech.md)
 - **Arbiter SecurityMech ARB-001** *Sniper (3074)*
 
+### [Arion](mechs/arion.md)
+- **Arion (Standard)** *Striker (3136)*
+
 ### [Blade](mechs/blade.md)
 - **Blade BLD-XL** *Striker (3087)*
 - **Blade BLD-XS** *Striker (3087)*
@@ -2318,6 +2321,9 @@
 - **Cronus CNS-5M** *Skirmisher (3060)* `C3 Slave`
 - **Cronus CNS-TD9** *Striker (3072)* `C3i`, `ECM`, `Stealth`
 
+### [Cyllaros](mechs/cyllaros.md)
+- **Cyllaros (Standard)** *Skirmisher (3136)* `ECM`
+
 ### [Dark Crow](mechs/dark_crow.md)
 - **Dark Crow (Standard)** *Sniper (3084)*
 - **Dark Crow 2** *Sniper (3084)*
@@ -2692,6 +2698,13 @@
 - **Black Hawk-KU  BHKU-OU** *Skirmisher (3077)*
 - **Black Hawk-KU  BHKU-OG** *Skirmisher (3089)* `Active Probe`, `ECM`, `TAG`
 
+### [Boreas](mechs/boreas.md)
+- **Boreas  Prime** *Skirmisher (3132)*
+- **Boreas  A** *Sniper (3132)*
+- **Boreas  B** *Sniper (3132)*
+- **Boreas  C** *Skirmisher (3132)*
+- **Boreas  D** *Skirmisher (3132)*
+
 ### [Brahma](mechs/brahma.md)
 - **Brahma BRM-5A** *Skirmisher (3080)*
 - **Brahma BRM-5B** *Skirmisher (3080)*
@@ -2823,6 +2836,13 @@
 - **Merlin MLN-1B (Porter)** *Skirmisher (3064)*
 - **Merlin MLN-1C** *Brawler (3068)*
 - **Merlin MLN-SX** *Skirmisher (3075)*
+
+### [Notos](mechs/notos.md)
+- **Notos  Prime** *Skirmisher (3145)*
+- **Notos  A** *Skirmisher (3145)*
+- **Notos  B** *Skirmisher (3145)*
+- **Notos  C** *Skirmisher (3145)* `Active Probe`, `ECM`, `TAG`
+- **Notos  D** *Skirmisher (3145)*
 
 ### [Ostroc](mechs/ostroc.md)
 - **Ostroc OSR-2C** *Skirmisher (2511)*
@@ -3736,6 +3756,9 @@
 - **Hammerhands HMH-5D** *Skirmisher (3071)* `C3 Slave`
 - **Hammerhands HMH-6D** *Skirmisher (3072)* `C3 Slave`
 - **Hammerhands HMH-6E** *Skirmisher (3077)* `C3 Slave`, `ECM`
+
+### [Harpagos](mechs/harpagos.md)
+- **Harpagos (Standard)** *Sniper (3136)*
 
 ### [Helepolis](mechs/helepolis.md)
 - **Helepolis HEP-1H** *Missile Boat (2460)*
