@@ -62,3 +62,19 @@
 - **Source:** Jihad
 - **Battle Value:** 2097
 
+## Hunchback IIC 5
+- **Role:** Ambusher
+- **Tech Base:** Clan (3130)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
+- **Armor:** 96
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LB 20-X AC × 2 (ammo: 5 Standard, 5 Cluster)
+  - Medium Pulse Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** RecGuide 13 - Dark Ages
+- **Battle Value:** 1534
+

@@ -51,8 +51,8 @@
 - **Equipment:**
   - ECM Suite
   - AES
-  - CASE II
   - Supercharger
+  - CASE II
 - **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2397
 
@@ -69,8 +69,8 @@
   - Micro Pulse Laser
 - **Equipment:**
   - AES
-  - CASE II
   - Supercharger
+  - CASE II
 - **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2235
 
@@ -87,8 +87,8 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - AES
-  - CASE II
   - Supercharger
+  - CASE II
 - **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2452
 

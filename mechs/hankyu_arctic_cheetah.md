@@ -16,7 +16,7 @@
   - Active Probe
   - TAG
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1334
 
 ## Hankyu (Arctic Cheetah) A
@@ -33,7 +33,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1117
 
 ## Hankyu (Arctic Cheetah) B
@@ -51,7 +51,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1076
 
 ## Hankyu (Arctic Cheetah) C
@@ -68,7 +68,7 @@
   - Flamer
 - **Equipment:**
   - Active Probe
-- **Source:** TRO 3058 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1840
 
 ## Hankyu (Arctic Cheetah) D
@@ -84,7 +84,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1080
 
 ## Hankyu (Arctic Cheetah) H
@@ -100,7 +100,7 @@
   - Heavy Medium Laser
   - Heavy Small Laser × 2
   - Flamer
-- **Source:** TRO 3058 - Civil War
+- **Source:** TRO Clan Invasion - Civil War
 - **Battle Value:** 1264
 
 ## Hankyu (Arctic Cheetah) E
@@ -119,7 +119,7 @@
   - Machine Gun Array × 2
   - B-Pod × 2
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 1081
 
 ## Hankyu (Arctic Cheetah) F

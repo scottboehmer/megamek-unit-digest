@@ -259,8 +259,8 @@
   - HAG 40 (ammo: 12)
   - SRM 6 × 3 (ammo: 30)
 - **Equipment:**
-  - CASE
   - MASC
+  - CASE
 - **Source:** Dark Age
 - **Battle Value:** 2891
 

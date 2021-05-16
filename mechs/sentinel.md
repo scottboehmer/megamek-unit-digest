@@ -141,3 +141,20 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 999
 
+## Sentinel STN-6S
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere Mixed (3145)
+- **Chassis:** 40 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+- **Armor:** 104
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Ultra AC/5 (ammo: 20)
+  - Clan ER Medium Laser
+  - Thunderbolt 5 × 2 (ammo: 24)
+- **Equipment:**
+  - CASE II
+- **Source:** Dark AGe
+- **Battle Value:** 1089
+

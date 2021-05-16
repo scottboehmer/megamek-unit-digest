@@ -13,7 +13,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1678
 
 ## Fenris (Ice Ferret) A
@@ -29,7 +29,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1323
 
 ## Fenris (Ice Ferret) B
@@ -46,7 +46,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1461
 
 ## Fenris (Ice Ferret) C
@@ -61,7 +61,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1211
 
 ## Fenris (Ice Ferret) D
@@ -76,7 +76,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1653
 
 ## Fenris (Ice Ferret) E
@@ -92,7 +92,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1483
 
 ## Fenris (Ice Ferret) H
@@ -108,7 +108,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1619
 
 ## Fenris (Ice Ferret) L
@@ -124,7 +124,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 1380
 
 ## Fenris (Ice Ferret) U
@@ -141,7 +141,7 @@
   - SRT 4 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 1549
 
 ## Fenris (Ice Ferret) F
@@ -155,6 +155,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - Watchdog CEWS
+- **Source:** Rec Guide 4 - Early Republic
 - **Battle Value:** 1771
 
 ## Fenris (Ice Ferret) G
@@ -171,6 +172,7 @@
 - **Equipment:**
   - CASE
   - Light TAG
+- **Source:** Rec Guide 4 - Early Republic
 - **Battle Value:** 1196
 
 ## Fenris (Ice Ferret) I
@@ -187,6 +189,7 @@
   - Inner Sphere Bloodhound Active Probe
   - Inner Sphere M-Pod × 2
   - CASE
+- **Source:** Rec Guide 4 - Early Republic
 - **Battle Value:** 1094
 
 ## Fenris (Ice Ferret) J
@@ -203,6 +206,7 @@
   - CASE
   - Supercharger
   - Targeting Computer
+- **Source:** Rec Guide 4 - Dark Age 
 - **Battle Value:** 1739
 
 ## Fenris (Ice Ferret) K
@@ -218,6 +222,7 @@
   - ER Small Laser
 - **Equipment:**
   - Laser Anti-Missile System
+- **Source:** Rec Guide 4 - Dark Age 
 - **Battle Value:** 1769
 
 ## Fenris (Ice Ferret) T
@@ -235,5 +240,6 @@
   - Active Probe
   - CASE
   - Supercharger
+- **Source:** Rec Guide 4 - Dark Age 
 - **Battle Value:** 1825
 

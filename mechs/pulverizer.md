@@ -32,8 +32,8 @@
 - **Source:** Succession Wars
 - **Battle Value:** 2068
 
-## Pulverizer
-- **Role:** Undefined
+## Pulverizer (Standard)
+- **Role:** Brawler
 - **Tech Base:** Clan (2845)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6

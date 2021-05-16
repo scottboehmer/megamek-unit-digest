@@ -1,7 +1,7 @@
 # Nobori-nin (Huntsman)
 ## Nobori-nin (Huntsman) Prime
 - **Role:** Skirmisher
-- **Tech Base:** Clan (3049)
+- **Tech Base:** Clan Mixed (3049)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8, XL
   - **Jumping:** 5
@@ -16,7 +16,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - Active Probe
-  - A-Pod × 2
+  - Inner Sphere A-Pod × 2
   - CASE
   - TAG
 - **Source:** TRO 3058 - Clan Invasion

@@ -159,7 +159,7 @@
 
 ## Vulture (Mad Dog) U
 - **Role:** Skirmisher
-- **Tech Base:** Clan (3077)
+- **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8, XL
   - **Underwater:** 5
@@ -170,7 +170,7 @@
   - Medium Pulse Laser × 2
   - ER Medium Laser × 2
 - **Equipment:**
-  - HarJel × 3
+  - Inner Sphere HarJel × 3
   - CASE
 - **Source:** RS 3085 - Jihad
 - **Battle Value:** 2488

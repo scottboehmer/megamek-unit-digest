@@ -142,6 +142,7 @@
 ### [Hunchback IIC](../mechs/hunchback_iic.md)
 - **Hunchback IIC (Standard)** *Ambusher (2856)*
 - **Hunchback IIC 2** *Ambusher (3061)*
+- **Hunchback IIC 5** *Ambusher (3130)*
 
 ## 60 Tons
 

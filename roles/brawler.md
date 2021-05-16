@@ -199,6 +199,9 @@
 
 ## 50 Tons
 
+### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
+- **Black Hawk (Nova)  K** *Brawler (3150)*
+
 ### [Blackjack](../mechs/blackjack.md)
 - **Blackjack  BJ2-O** *Brawler (3057)*
 - **Blackjack  BJ2-OC** *Brawler (3057)*
@@ -596,9 +599,8 @@
 ### [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
 - **Mad Cat (Timber Wolf)  Prime** *Brawler (2945)*
 - **Mad Cat (Timber Wolf)  N** *Brawler (3050)*
-- **Mad Cat (Timber Wolf) (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
+- **Mad Cat (Timber Wolf)  (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
 - **Mad Cat (Timber Wolf)  M** *Brawler (3068)*
-- **Mad Cat (Timber Wolf) (Bounty Hunter 2)** *Brawler (3068)*
 
 ### [Marauder](../mechs/marauder.md)
 - **Marauder MAD-3D** *Brawler (2834)*
@@ -868,6 +870,7 @@
 ### [Pulverizer](../mechs/pulverizer.md)
 - **Pulverizer PUL-2V** *Brawler (2823)* `ECM`
 - **Pulverizer PUL-3R** *Brawler (2823)* `ECM`
+- **Pulverizer (Standard)** *Brawler (2845)* `ECM`
 
 ### [Rifleman III](../mechs/rifleman_iii.md)
 - **Rifleman III RF2-A** *Brawler (2776)* `Stealth`

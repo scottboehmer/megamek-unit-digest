@@ -1,7 +1,7 @@
 # Snow Fox (Omni)
 ## Snow Fox (Omni) Prime
 - **Role:** Scout
-- **Tech Base:** Clan (3120)
+- **Tech Base:** Clan (3111)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16), XL
 - **Armor:** 73 (Ferro Fibrous)
@@ -11,14 +11,14 @@
 - **Equipment:**
   - ECM Suite
   - Active Probe
-  - Targeting Computer
   - MASC
-- **Source:** Dark Age
+  - Targeting Computer
+- **Source:** OTP: Hanseatic Crusade - Dark Age
 - **Battle Value:** 1464
 
 ## Snow Fox (Omni) A
 - **Role:** Striker
-- **Tech Base:** Clan (3120)
+- **Tech Base:** Clan (3111)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16), XL
 - **Armor:** 73 (Ferro Fibrous)
@@ -29,12 +29,12 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Dark Age
+- **Source:** OTP: Hanseatic Crusade - Dark Age
 - **Battle Value:** 831
 
 ## Snow Fox (Omni) B
 - **Role:** Sniper
-- **Tech Base:** Clan (3120)
+- **Tech Base:** Clan (3111)
 - **Chassis:** 20 tons Quad (Endo Steel)
 - **Movement:** 8 / 12 (16), XL
 - **Armor:** 73 (Ferro Fibrous)
@@ -44,6 +44,6 @@
   - Medium Pulse Laser
 - **Equipment:**
   - MASC
-- **Source:** Dark Age
+- **Source:** OTP: Hanseatic Crusade - Dark Age
 - **Battle Value:** 1249
 

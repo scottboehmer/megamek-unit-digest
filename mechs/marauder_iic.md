@@ -90,6 +90,40 @@
 - **Source:** Jihad
 - **Battle Value:** 3447
 
+## Marauder IIC 5
+- **Role:** Sniper
+- **Tech Base:** Clan (3070)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 220 (Ferro Fibrous)
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - ER PPC × 2
+  - HAG 20 (ammo: 12)
+  - AP Gauss Rifle × 2 (ammo: 40)
+- **Equipment:**
+  - CASE
+- **Source:** Jihad
+- **Battle Value:** 2386
+
+## Marauder IIC 6
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3077)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 6
+- **Armor:** 208
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - Heavy Large Laser
+  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Jihad
+- **Battle Value:** 2646
+
 ## Marauder IIC 7
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3081)

@@ -64,3 +64,20 @@
 - **Source:** Jihad
 - **Battle Value:** 1005
 
+## Piranha 5
+- **Role:** Striker
+- **Tech Base:** Clan (3140)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 9 / 14 (18), XL
+- **Armor:** 67 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - ER Small Laser
+  - Machine Gun × 12 (ammo: 200)
+- **Equipment:**
+  - CASE
+  - Supercharger
+- **Source:** RecGuide 13 - Dark Ages
+- **Battle Value:** 1132
+

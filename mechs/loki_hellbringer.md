@@ -18,7 +18,7 @@
   - Inner Sphere A-Pod × 4
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2654
 
 ## Loki (Hellbringer) A
@@ -38,7 +38,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1948
 
 ## Loki (Hellbringer) B
@@ -55,7 +55,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1592
 
 ## Loki (Hellbringer) M
@@ -72,7 +72,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2200
 
 ## Loki (Hellbringer) C
@@ -90,7 +90,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2076
 
 ## Loki (Hellbringer) F
@@ -106,7 +106,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1839
 
 ## Loki (Hellbringer) J
@@ -146,7 +146,7 @@
   - Active Probe
   - A-Pod × 2
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1952
 
 ## Loki (Hellbringer) D
@@ -162,7 +162,7 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Inner Sphere B-Pod × 4
-- **Source:** TRO 3050 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2140
 
 ## Loki (Hellbringer) E
@@ -179,7 +179,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2304
 
 ## Loki (Hellbringer) G

@@ -13,7 +13,7 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2944
 
 ## Turkina A
@@ -29,7 +29,7 @@
   - LRM 20 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2906
 
 ## Turkina B
@@ -47,7 +47,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 3420
 
 ## Turkina C
@@ -69,7 +69,7 @@
   - Active Probe
   - A-Pod × 2
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2798
 
 ## Turkina D
@@ -85,7 +85,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 3132
 
 ## Turkina H
@@ -103,7 +103,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3058 - Civil War
+- **Source:** TRO Clan Invasion - Civil War
 - **Battle Value:** 2712
 
 ## Turkina E
@@ -119,7 +119,7 @@
   - Streak SRM 6 × 6 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 3147
 
 ## Turkina Z
@@ -139,29 +139,6 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 3935
 
-## Turkina U
-- **Role:** Juggernaut
-- **Tech Base:** Clan Mixed (3077)
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5, XL
-  - **Jumping:** 3
-- **Armor:** 288
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 16)
-  - ATM 9 (ammo: 14)
-  - ER Small Laser × 10
-- **Equipment:**
-  - Active Probe
-  - Talons
-  - Armored Inner Sphere HarJel × 5
-  - Targeting Computer
-  - Inner Sphere Coolant Pod
-  - CASE
-  - Liquid Cargo × 2
-- **Source:** Jihad
-- **Battle Value:** 2502
-
 ## Turkina X
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3077)
@@ -177,6 +154,6 @@
   - ECM Suite
   - Talons
   - CASE II
-- **Source:** TRO 3058 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 3056
 

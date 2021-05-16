@@ -14,7 +14,7 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1952
 
 ## Cauldron-Born (Ebon Jaguar) A
@@ -33,7 +33,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2429
 
 ## Cauldron-Born (Ebon Jaguar) B
@@ -50,7 +50,7 @@
 - **Equipment:**
   - Active Probe
   - TAG
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2535
 
 ## Cauldron-Born (Ebon Jaguar) C
@@ -66,7 +66,7 @@
   - SRM 6 × 2 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1831
 
 ## Cauldron-Born (Ebon Jaguar) (Samantha)
@@ -83,7 +83,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** HTP Luzerne
+- **Source:** HTP Luzerne - Clan Invasion
 - **Battle Value:** 2372
 
 ## Cauldron-Born (Ebon Jaguar) D
@@ -99,7 +99,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2228
 
 ## Cauldron-Born (Ebon Jaguar) H
@@ -117,7 +117,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Source:** TRO Clan Invasion - Civil War
 - **Battle Value:** 2359
 
 ## Cauldron-Born (Ebon Jaguar) E
@@ -134,7 +134,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2391
 
 ## Cauldron-Born (Ebon Jaguar) X
@@ -152,7 +152,7 @@
   - Angel ECM Suite
   - Targeting Computer
   - CASE II
-- **Source:** TRO 3058 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2435
 
 ## Cauldron-Born (Ebon Jaguar) U
@@ -169,6 +169,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2593
 

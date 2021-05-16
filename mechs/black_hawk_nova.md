@@ -143,29 +143,6 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1976
 
-## Black Hawk (Nova) U
-- **Role:** Striker
-- **Tech Base:** Clan Mixed (3077)
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Heavy Medium Laser × 3
-  - Micro Pulse Laser × 3
-  - Inner Sphere Sword
-  - Spot Welder
-  - Machine Gun × 8 (ammo: 100)
-- **Equipment:**
-  - ECM Suite
-  - Light Active Probe
-  - HarJel
-  - Liquid Cargo × 2
-  - CASE
-- **Source:** Jihad
-- **Battle Value:** 1413
-
 ## Black Hawk (Nova) I
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3094)
@@ -195,4 +172,86 @@
   - CASE
 - **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2761
+
+## Black Hawk (Nova) G
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3150)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - ProtoMech AC/8 (ammo: 20)
+  - ER Small Laser × 7
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+- **Source:** Dark Age
+- **Battle Value:** 1822
+
+## Black Hawk (Nova) J
+- **Role:** Skirmisher
+- **Tech Base:** Clan Mixed (3150)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER PPC w/ PPC Capacitor
+  - Streak LRM 15 (ammo: 16)
+- **Equipment:**
+  - CASE
+- **Source:** Dark Age
+- **Battle Value:** 2052
+
+## Black Hawk (Nova) K
+- **Role:** Brawler
+- **Tech Base:** Clan (3150)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Large Laser
+  - RAC/2 (ammo: 90)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Dark Age
+- **Battle Value:** 1932
+
+## Black Hawk (Nova) L
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3150)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Improved Heavy Large Laser × 2
+  - Plasma Cannon × 2 (ammo: 20)
+- **Source:** Dark Age
+- **Battle Value:** 2177
+
+## Black Hawk (Nova) R
+- **Role:** Skirmisher
+- **Tech Base:** Clan Mixed (3150)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8 (10), XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Inner Sphere Medium Re-Engineered Laser × 4
+  - AP Gauss Rifle × 6 (ammo: 80)
+- **Equipment:**
+  - CASE
+  - Supercharger
+- **Source:** Dark Age
+- **Battle Value:** 1597
 

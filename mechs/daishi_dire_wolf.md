@@ -187,7 +187,7 @@
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5, XL
 - **Armor:** 304
-- **Heat Sinks:** 15 (30)
+- **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Large Pulse Laser
   - Ultra AC/10 (ammo: 20)
@@ -201,7 +201,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** RecGuide 13 - Civil War
 - **Battle Value:** 2645
 
 ## Daishi (Dire Wolf) D
@@ -223,7 +223,7 @@
 
 ## Daishi (Dire Wolf) U
 - **Role:** Juggernaut
-- **Tech Base:** Clan (3077)
+- **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5, XL
   - **Underwater:** 3
@@ -234,9 +234,9 @@
   - Medium Pulse Laser × 4
   - SRT 6 × 6 (ammo: 60)
 - **Equipment:**
-  - MASS
-  - HarJel × 5
+  - Inner Sphere MASS
   - Targeting Computer
+  - Inner Sphere HarJel × 5
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 3360
@@ -255,6 +255,25 @@
 - **Equipment:**
   - Watchdog CEWS
   - CASE II
-- **Source:** RS 3145 NTNU - Late Republic
+- **Source:** RecGuide 13 - Dark Ages
 - **Battle Value:** 2814
+
+## Daishi (Dire Wolf) T
+- **Role:** Juggernaut
+- **Tech Base:** Clan (3142)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5 (6), XL
+- **Armor:** 304
+- **Heat Sinks:** 20 (40)
+- **Weapons:**
+  - HAG 20 × 2 (ammo: 36)
+  - Streak LRM 10 (ammo: 12)
+  - Medium Pulse Laser × 4
+  - ER Medium Laser × 4
+- **Equipment:**
+  - Light Active Probe
+  - CASE
+  - Supercharger
+- **Source:** RecGuide 13 - Dark Ages
+- **Battle Value:** 3317
 

@@ -148,3 +148,23 @@
 - **Source:** XTRO ComStar - Jihad
 - **Battle Value:** 1592
 
+## Exterminator EXT-7X
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3150)
+- **Chassis:** 65 tons (Composite)
+- **Movement:** 5 / 8 (10), XXL
+  - **Jumping:** 5
+- **Armor:** 208 (Stealth)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - Medium VSP Laser × 4
+  - MRM 10 (ammo: 24)
+  - ER Small Laser
+- **Equipment:**
+  - Guardian ECM Suite
+  - Laser Anti-Missile System
+  - Coolant Pod
+  - Supercharger
+- **Source:** Dark Age
+- **Battle Value:** 1674
+

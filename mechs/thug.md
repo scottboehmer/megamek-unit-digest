@@ -123,3 +123,20 @@
 - **Source:** FM:Mercenaries SII - Jihad
 - **Battle Value:** 2612
 
+## Thug THG-13U
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere (3120)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 4 (5) / 6 (10)
+- **Armor:** 247 (Ballistic Reinforced)
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Snub-Nose PPC × 2
+  - MML 3 × 4 (ammo: 40 LRM, 33 SRM)
+- **Equipment:**
+  - CASE II
+  - Supercharger
+- **Source:** Dark Age
+- **Battle Value:** 2545
+

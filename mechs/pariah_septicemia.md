@@ -12,7 +12,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3075
+- **Source:** TRO 3075- Jihad
 - **Battle Value:** 2511
 
 ## Pariah (Septicemia) A
@@ -27,7 +27,7 @@
   - Heavy Small Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Source:** TRO 3075- Jihad
 - **Battle Value:** 1935
 
 ## Pariah (Septicemia) A-Z
@@ -44,7 +44,7 @@
   - Nova CEWS
   - Light TAG
   - CASE
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 2388
 
 ## Pariah (Septicemia) B
@@ -60,7 +60,7 @@
   - Small Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3075
+- **Source:** TRO 3075- Jihad
 - **Battle Value:** 2310
 
 ## Pariah (Septicemia) B-Z
@@ -78,7 +78,7 @@
   - Nova CEWS
   - Targeting Computer
   - Light TAG
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 2349
 
 ## Pariah (Septicemia) C
@@ -96,7 +96,7 @@
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
-- **Source:** TRO 3075
+- **Source:** TRO 3075- Jihad
 - **Battle Value:** 2227
 
 ## Pariah (Septicemia) C-Z
@@ -115,7 +115,7 @@
   - Nova CEWS
   - Machine Gun Array × 2
   - CASE
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 2264
 
 ## Pariah (Septicemia) D
@@ -133,7 +133,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3075
+- **Source:** TRO 3075- Jihad
 - **Battle Value:** 2718
 
 ## Pariah (Septicemia) D-Z
@@ -151,7 +151,7 @@
   - Nova CEWS
   - Targeting Computer
   - CASE
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 2704
 
 ## Pariah (Septicemia) E
@@ -168,7 +168,7 @@
   - Nova CEWS
   - Light TAG
   - Targeting Computer
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 2950
 
 ## Pariah (Septicemia) F
@@ -182,7 +182,7 @@
   - Arrow IV × 2 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 1389
 
 ## Pariah (Septicemia) US
@@ -202,12 +202,12 @@
   - ECM Suite
   - Talons
   - Liquid Cargo × 2
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 2298
 
 ## Pariah (Septicemia) UW
 - **Role:** Skirmisher
-- **Tech Base:** Clan (3072)
+- **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8, XL
   - **Underwater:** 5
@@ -217,9 +217,9 @@
   - LRT 15 × 2 (ammo: 32)
   - SRT 4 × 6 (ammo: 50)
 - **Equipment:**
-  - MASS
-  - HarJel × 5
+  - Inner Sphere MASS
+  - Inner Sphere HarJel × 5
   - CASE
-- **Source:** Jihad
+- **Source:** WoR - Jihad
 - **Battle Value:** 1913
 

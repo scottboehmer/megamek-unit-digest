@@ -160,3 +160,64 @@
 - **Source:** Jihad
 - **Battle Value:** 1871
 
+## Ostsol C
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3150)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8
+- **Armor:** 144 (Laser Reflective)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ER Medium Laser × 2
+  - Improved Heavy Medium Laser × 2
+- **Equipment:**
+  - Targeting Computer
+- **Source:** Dark Age
+- **Battle Value:** 2277
+
+## Ostsol OTL-8E
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3150)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8, XL
+- **Armor:** 197 (Ferro Fibrous)
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Large X-Pulse Laser × 2
+  - Medium X-Pulse Laser × 2
+  - ER Small Laser × 2
+- **Source:** Dark Age
+- **Battle Value:** 1552
+
+## Ostsol OTL-8E3
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3150)
+- **Chassis:** 60 tons
+- **Movement:** 5 (6) / 8 (9), XL
+- **Armor:** 197 (Ferro Fibrous)
+- **Gyroscope:** Compact Gyro
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Large X-Pulse Laser × 2
+  - Medium X-Pulse Laser × 2
+  - ER Small Laser × 2
+- **Source:** Dark Age
+- **Battle Value:** 1671
+
+## Ostsol OTL-8F
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3150)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8, XL
+- **Armor:** 197 (Ferro Fibrous)
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Medium Laser × 4
+- **Source:** Dark Age
+- **Battle Value:** 1698
+

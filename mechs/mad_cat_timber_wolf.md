@@ -223,28 +223,6 @@
   - CASE
 - **Battle Value:** 2741
 
-## Mad Cat (Timber Wolf) (Bounty Hunter 2)
-- **Role:** Brawler
-- **Tech Base:** Clan (3068)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 3
-- **Armor:** 230 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Large Pulse Laser
-  - ER Medium Laser × 2
-  - Streak SRM 4 × 3 (ammo: 25)
-  - SRM 4 × 3 (ammo: 25)
-  - ER Small Laser
-  - AP Gauss Rifle × 2 (ammo: 40)
-- **Equipment:**
-  - Targeting Computer
-  - CASE
-  - Coolant Pod
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
-- **Battle Value:** 2799
-
 ## Mad Cat (Timber Wolf) F
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3069)

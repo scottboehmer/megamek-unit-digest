@@ -10,7 +10,7 @@
   - Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Source:** RecGuide 13 - Succession Wars
 - **Battle Value:** 1825
 
 ## Galahad (Glass Spider) 2
@@ -26,7 +26,7 @@
   - Small Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Succession Wars
+- **Source:** RecGuide 13 - Succession Wars
 - **Battle Value:** 2038
 
 ## Galahad (Glass Spider) 3

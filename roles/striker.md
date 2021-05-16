@@ -59,6 +59,7 @@
 - **Piranha 2** *Striker (3067)*
 - **Piranha 3** *Striker (3068)* `Active Probe`
 - **Piranha 4** *Striker (3072)*
+- **Piranha 5** *Striker (3140)*
 
 ### [Porcupine](../mechs/porcupine.md)
 - **Porcupine PRC-1N** *Striker (3063)*
@@ -74,7 +75,7 @@
 - **Snow Fox 3** *Striker (3072)* `ECM`
 
 ### [Snow Fox (Omni)](../mechs/snow_fox_omni.md)
-- **Snow Fox (Omni)  A** *Striker (3120)*
+- **Snow Fox (Omni)  A** *Striker (3111)*
 
 ### [Stinger](../mechs/stinger.md)
 - **Stinger STG-3Gb** *Striker (2720)*
@@ -402,7 +403,6 @@
 - **Uller (Kit Fox)  E** *Striker (3054)*
 - **Uller (Kit Fox)  H** *Striker (3059)*
 - **Uller (Kit Fox)  J** *Striker (3060)*
-- **Uller (Kit Fox)  K** *Striker (3088)*
 - **Uller (Kit Fox)  R** *Striker (3121)*
 
 ### [Valiant](../mechs/valiant.md)
@@ -704,6 +704,7 @@
 - **Griffin IIC 6** *Striker (3073)*
 - **Griffin IIC 8** *Striker (3078)* `ECM`
 - **Griffin IIC 7** *Striker (3083)*
+- **Griffin IIC 9** *Striker (3150)*
 
 ### [Hermes II](../mechs/hermes_ii.md)
 - **Hermes II HER-2M 'Mercury'** *Striker (2802)*
@@ -944,9 +945,6 @@
 
 ### [Aquagladius](../mechs/aquagladius.md)
 - **Aquagladius AQS-3** *Striker (3065)*
-
-### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
-- **Black Hawk (Nova)  U** *Striker (3077)* `Active Probe`, `ECM`
 
 ### [Blitzkrieg](../mechs/blitzkrieg.md)
 - **Blitzkrieg BTZ-3F** *Striker (3061)*

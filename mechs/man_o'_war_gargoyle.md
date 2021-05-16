@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1537
 
 ## Man O' War (Gargoyle) A
@@ -28,7 +28,7 @@
   - Medium Pulse Laser
   - ER Medium Laser
   - ER Small Laser
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2689
 
 ## Man O' War (Gargoyle) B
@@ -44,7 +44,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1843
 
 ## Man O' War (Gargoyle) C
@@ -61,7 +61,7 @@
 - **Equipment:**
   - A-Pod × 2
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2437
 
 ## Man O' War (Gargoyle) D
@@ -77,7 +77,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3050 - Succession Wars
+- **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2499
 
 ## Man O' War (Gargoyle) (Conal)
@@ -95,6 +95,7 @@
   - A-Pod × 2
   - CASE
   - Light TAG
+- **Source:** OTP: Red Corsair - Clan Invasion 
 - **Battle Value:** 2580
 
 ## Man O' War (Gargoyle) H
@@ -111,7 +112,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2183
 
 ## Man O' War (Gargoyle) E
@@ -129,7 +130,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2257
 
 ## Man O' War (Gargoyle) M
@@ -145,7 +146,7 @@
   - SRM 2 × 3 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2182
 
 ## Man O' War (Gargoyle) G
@@ -161,7 +162,7 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2156
 
 ## Man O' War (Gargoyle) P

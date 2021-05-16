@@ -102,6 +102,10 @@
 - **Black Hawk (Nova)  H** *Skirmisher (3059)*
 - **Black Hawk (Nova)  F** *Skirmisher (3068)*
 - **Black Hawk (Nova)  I** *Skirmisher (3094)*
+- **Black Hawk (Nova)  G** *Skirmisher (3150)*
+- **Black Hawk (Nova)  J** *Skirmisher (3150)*
+- **Black Hawk (Nova)  L** *Skirmisher (3150)*
+- **Black Hawk (Nova)  R** *Skirmisher (3150)*
 
 ### [Blitzkrieg](../mechs/blitzkrieg.md)
 - **Blitzkrieg BTZ-4F** *Skirmisher (3074)* `C3 Slave`
@@ -140,6 +144,9 @@
 - **Enforcer III ENF-6H** *Skirmisher (3064)*
 - **Enforcer III ENF-6Ma** *Skirmisher (3065)*
 - **Enforcer III ENF-6NAIS** *Skirmisher (3074)* `C3 Slave`, `ECM`
+
+### [Firestorm](../mechs/firestorm.md)
+- **Firestorm (Standard)** *Skirmisher (3145)*
 
 ### [Hellhound (Conjurer)](../mechs/hellhound_conjurer.md)
 - **Hellhound (Conjurer) (Standard)** *Skirmisher (2829)*
@@ -566,6 +573,10 @@
 - **Ostsol OTL-8M** *Skirmisher (3066)*
 - **Ostsol OTL-8D** *Skirmisher (3069)*
 - **Ostsol OTL-9M** *Skirmisher (3079)* `ECM`
+- **Ostsol C** *Skirmisher (3150)*
+- **Ostsol OTL-8E** *Skirmisher (3150)*
+- **Ostsol OTL-8E3** *Skirmisher (3150)*
+- **Ostsol OTL-8F** *Skirmisher (3150)*
 
 ### [Paladin](../mechs/paladin.md)
 - **Paladin PAL-1** *Skirmisher (3053)*
@@ -695,6 +706,7 @@
 - **Exterminator EXT-5E** *Skirmisher (3060)* `C3i`
 - **Exterminator EXT-5F** *Skirmisher (3074)* `C3i`
 - **Exterminator EXT-6CS** *Skirmisher (3079)* `Stealth`
+- **Exterminator EXT-7X** *Skirmisher (3150)* `ECM`, `Stealth`
 
 ### [Fire Scorpion](../mechs/fire_scorpion.md)
 - **Fire Scorpion 3** *Skirmisher (3071)* `Active Probe`
@@ -1125,6 +1137,7 @@
 
 ### [Marauder IIC](../mechs/marauder_iic.md)
 - **Marauder IIC 2** *Skirmisher (3063)*
+- **Marauder IIC 6** *Skirmisher (3077)*
 - **Marauder IIC 10** *Skirmisher (3140)*
 
 ### [Rampage](../mechs/rampage.md)

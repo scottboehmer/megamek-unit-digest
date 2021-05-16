@@ -164,6 +164,7 @@
 - **Piranha 2** *Striker (3067)*
 - **Piranha 3** *Striker (3068)* `Active Probe`
 - **Piranha 4** *Striker (3072)*
+- **Piranha 5** *Striker (3140)*
 
 ### [Porcupine](mechs/porcupine.md)
 - **Porcupine PRC-1N** *Striker (3063)*
@@ -185,22 +186,28 @@
 - **Snow Fox 3** *Striker (3072)* `ECM`
 
 ### [Snow Fox (Omni)](mechs/snow_fox_omni.md)
-- **Snow Fox (Omni)  Prime** *Scout (3120)* `Active Probe`, `ECM`
-- **Snow Fox (Omni)  A** *Striker (3120)*
-- **Snow Fox (Omni)  B** *Sniper (3120)*
+- **Snow Fox (Omni)  Prime** *Scout (3111)* `Active Probe`, `ECM`
+- **Snow Fox (Omni)  A** *Striker (3111)*
+- **Snow Fox (Omni)  B** *Sniper (3111)*
 
 ### [Stinger](mechs/stinger.md)
 - **Stinger STG-3R** *Scout (2479)*
 - **Stinger STG-3G** *Scout (2581)*
 - **Stinger STG-3Gb** *Striker (2720)*
+- **Stinger C** *Undefined (2832)*
+- **Stinger C 2** *Undefined (2838)*
 - **Stinger STG-5M** *Scout (3050)*
 - **Stinger STG-5R** *Scout (3067)*
 - **Stinger STG-6L** *Scout (3067)* `ECM`, `Stealth`
 - **Stinger STG-3P** *Scout (3068)*
 - **Stinger STG-5T** *Scout (3068)*
 - **Stinger STG-6S** *Scout (3069)*
+- **Stinger STG-4G** *Scout (3074)*
 - **Stinger STG-5G** *Scout (3076)*
 - **Stinger STG-7S** *Scout (3077)*
+- **Stinger STG-6M** *Scout (3097)*
+- **Stinger STG-6G** *Scout (3103)*
+- **Stinger STG-6R** *Scout (3120)*
 
 ### [Stinger IIC](mechs/stinger_iic.md)
 - **Stinger IIC (Standard)** *Striker (3085)*
@@ -820,7 +827,6 @@
 - **Uller (Kit Fox)  J** *Striker (3060)*
 - **Uller (Kit Fox)  F** *Sniper (3069)*
 - **Uller (Kit Fox)  U** *Sniper (3077)*
-- **Uller (Kit Fox)  K** *Striker (3088)*
 - **Uller (Kit Fox)  I** *Brawler (3101)*
 - **Uller (Kit Fox)  R** *Striker (3121)*
 - **Uller (Kit Fox)  BLO** *Undefined (3138)* `C3i`
@@ -1382,6 +1388,7 @@
 - **Griffin IIC 6** *Striker (3073)*
 - **Griffin IIC 8** *Striker (3078)* `ECM`
 - **Griffin IIC 7** *Striker (3083)*
+- **Griffin IIC 9** *Striker (3150)*
 
 ### [Harvester](mechs/harvester.md)
 - **Harvester HVR-199 AgroMech** *Undefined (3128)*
@@ -1482,6 +1489,7 @@
 - **Sentinel STN-4D** *Striker (3063)*
 - **Sentinel STN-C** *Sniper (3065)* `C3 Slave`
 - **Sentinel STN-5WB** *Striker (3070)*
+- **Sentinel STN-6S** *Sniper (3145)*
 
 ### [Sentry](mechs/sentry.md)
 - **Sentry SNT-04** *Sniper (3056)*
@@ -1909,9 +1917,13 @@
 - **Black Hawk (Nova)  E** *Skirmisher (3054)*
 - **Black Hawk (Nova)  H** *Skirmisher (3059)*
 - **Black Hawk (Nova)  F** *Skirmisher (3068)*
-- **Black Hawk (Nova)  U** *Striker (3077)* `Active Probe`, `ECM`
 - **Black Hawk (Nova)  I** *Skirmisher (3094)*
 - **Black Hawk (Nova)  X** *Undefined (3137)*
+- **Black Hawk (Nova)  G** *Skirmisher (3150)*
+- **Black Hawk (Nova)  J** *Skirmisher (3150)*
+- **Black Hawk (Nova)  K** *Brawler (3150)*
+- **Black Hawk (Nova)  L** *Skirmisher (3150)*
+- **Black Hawk (Nova)  R** *Skirmisher (3150)*
 
 ### [Blackjack](mechs/blackjack.md)
 - **Blackjack  BJ2-O** *Brawler (3057)*
@@ -2031,6 +2043,9 @@
 - **Enforcer III ENF-7C3BS** *Sniper (3075)* `C3 Slave`
 - **Enforcer III ENF-7D** *Sniper (3104)*
 
+### [Firestorm](mechs/firestorm.md)
+- **Firestorm (Standard)** *Skirmisher (3145)*
+
 ### [Fox](mechs/fox.md)
 - **Fox CS-1** *Missile Boat (2824)*
 - **Fox** *Undefined (2835)*
@@ -2090,6 +2105,7 @@
 - **Hunchback IIC 2** *Ambusher (3061)*
 - **Hunchback IIC 3** *Brawler (3062)*
 - **Hunchback IIC 4** *Brawler (3075)* `ECM`
+- **Hunchback IIC 5** *Ambusher (3130)*
 
 ### [Huron Warrior](mechs/huron_warrior.md)
 - **Huron Warrior HUR-WO-R4L** *Skirmisher (3055)*
@@ -2746,6 +2762,9 @@
 - **Galahad (Glass Spider) 2** *Sniper (2952)*
 - **Galahad (Glass Spider) 3** *Sniper (3065)*
 
+### [Glass Spider (Galahad)](mechs/glass_spider_galahad.md)
+- **Glass Spider (Galahad) 4** *Undefined (3148)*
+
 ### [Grand Dragon](mechs/grand_dragon.md)
 - **Grand Dragon DRG-1G** *Skirmisher (3024)*
 - **Grand Dragon DRG-1G (Douglas)** *Skirmisher (3028)*
@@ -2869,6 +2888,10 @@
 - **Ostsol OTL-8D** *Skirmisher (3069)*
 - **Ostsol OTL-9R** *Juggernaut (3077)* `C3 Slave`
 - **Ostsol OTL-9M** *Skirmisher (3079)* `ECM`
+- **Ostsol C** *Skirmisher (3150)*
+- **Ostsol OTL-8E** *Skirmisher (3150)*
+- **Ostsol OTL-8E3** *Skirmisher (3150)*
+- **Ostsol OTL-8F** *Skirmisher (3150)*
 
 ### [Paladin](mechs/paladin.md)
 - **Paladin PAL-1** *Skirmisher (3053)*
@@ -3132,6 +3155,7 @@
 - **Exterminator EXT-5E** *Skirmisher (3060)* `C3i`
 - **Exterminator EXT-5F** *Skirmisher (3074)* `C3i`
 - **Exterminator EXT-6CS** *Skirmisher (3079)* `Stealth`
+- **Exterminator EXT-7X** *Skirmisher (3150)* `ECM`, `Stealth`
 
 ### [Fire Scorpion](mechs/fire_scorpion.md)
 - **Fire Scorpion (Standard)** *Sniper (2852)*
@@ -3545,6 +3569,9 @@
 - **JagerMech JM7-G** *Sniper (3068)*
 - **JagerMech JM7-C3BS** *Brawler (3075)* `C3 Slave`
 
+### [Lightning](mechs/lightning.md)
+- **Lightning LHN-C5** *Sniper (3150)*
+
 ### [Lumberjack](mechs/lumberjack.md)
 - **Lumberjack LM4/C** *Ambusher (2489)*
 - **Lumberjack LM4/P** *Missile Boat (2811)*
@@ -3799,9 +3826,8 @@
 - **Mad Cat (Timber Wolf)  TC** *Undefined (3052)*
 - **Mad Cat (Timber Wolf)  E** *Sniper (3054)* `TAG`
 - **Mad Cat (Timber Wolf)  H** *Missile Boat (3059)*
-- **Mad Cat (Timber Wolf) (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
+- **Mad Cat (Timber Wolf)  (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
 - **Mad Cat (Timber Wolf)  M** *Brawler (3068)*
-- **Mad Cat (Timber Wolf) (Bounty Hunter 2)** *Brawler (3068)*
 - **Mad Cat (Timber Wolf)  F** *Missile Boat (3069)*
 - **Mad Cat (Timber Wolf)  Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
 - **Mad Cat (Timber Wolf)  U** *Sniper (3077)*
@@ -4244,6 +4270,7 @@
 - **Thug THG-12K** *Brawler (3067)* `C3 Slave`, `ECM`
 - **Thug THG-13K** *Brawler (3068)* `C3i`
 - **Thug THG-11E (Reich)** *Brawler (3071)*
+- **Thug THG-13U** *Juggernaut (3120)*
 
 ### [Victor](mechs/victor.md)
 - **Victor VTR-9A** *Skirmisher (2508)*
@@ -4402,6 +4429,8 @@
 - **Marauder IIC 2** *Skirmisher (3063)*
 - **Marauder IIC 3** *Brawler (3064)*
 - **Marauder IIC 4** *Sniper (3070)*
+- **Marauder IIC 5** *Sniper (3070)*
+- **Marauder IIC 6** *Skirmisher (3077)*
 - **Marauder IIC 7** *Juggernaut (3081)* `ECM`
 - **Marauder IIC 10** *Skirmisher (3140)*
 
@@ -4512,9 +4541,9 @@
 - **Templar III  TLR2-O** *Brawler (3100)*
 - **Templar III  TLR2-OA** *Brawler (3100)*
 - **Templar III  TLR2-OB** *Skirmisher (3100)*
+- **Templar III  TLR2-J 'Arthur'** *Undefined (3120)* `Command Console`
 - **Templar III  TLR2-OC** *Brawler (3120)*
 - **Templar III  TLR2-OD** *Brawler (3120)*
-- **Templar III TLR2-J 'Arthur'** *Undefined (3120)* `Command Console`
 
 ### [Thunder Stallion](mechs/thunder_stallion.md)
 - **Thunder Stallion (Standard)** *Missile Boat (2850)*
@@ -4650,7 +4679,7 @@
 ### [Pulverizer](mechs/pulverizer.md)
 - **Pulverizer PUL-2V** *Brawler (2823)* `ECM`
 - **Pulverizer PUL-3R** *Brawler (2823)* `ECM`
-- **Pulverizer** *Undefined (2845)* `ECM`
+- **Pulverizer (Standard)** *Brawler (2845)* `ECM`
 
 ### [Rifleman III](mechs/rifleman_iii.md)
 - **Rifleman III RF2-A** *Brawler (2776)* `Stealth`
@@ -4677,6 +4706,7 @@
 - **Supernova 2** *Juggernaut (3062)*
 - **Supernova 3** *Sniper (3064)*
 - **Supernova 4** *Juggernaut (3067)*
+- **Supernova 5** *Sniper (3144)*
 
 ### [Viking](mechs/viking.md)
 - **Viking VKG-2F** *Missile Boat (3059)*
@@ -4853,7 +4883,6 @@
 - **Turkina  H** *Juggernaut (3062)*
 - **Turkina  E** *Juggernaut (3070)*
 - **Turkina  Z** *Juggernaut (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
-- **Turkina  U** *Juggernaut (3077)* `Active Probe`
 - **Turkina  X** *Missile Boat (3077)* `ECM`
 
 ## 100 Tons
@@ -4951,6 +4980,7 @@
 - **Daishi (Dire Wolf)  D** *Juggernaut (3069)*
 - **Daishi (Dire Wolf)  U** *Juggernaut (3077)*
 - **Daishi (Dire Wolf)  E** *Juggernaut (3103)* `Active Probe`, `ECM`
+- **Daishi (Dire Wolf)  T** *Juggernaut (3142)* `Active Probe`
 
 ### [Devastator](mechs/devastator.md)
 - **Devastator DVS-2-EC** *Juggernaut (2827)*

@@ -14,7 +14,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2290
 
 ## Grendel (Mongrel) A
@@ -31,7 +31,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2031
 
 ## Grendel (Mongrel) B
@@ -49,7 +49,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1903
 
 ## Grendel (Mongrel) C
@@ -66,7 +66,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1465
 
 ## Grendel (Mongrel) D
@@ -85,7 +85,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2212
 
 ## Grendel (Mongrel) E
@@ -102,7 +102,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1806
 
 ## Grendel (Mongrel) H
@@ -120,7 +120,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Source:** TRO Clan Invasion - Civil War
 - **Battle Value:** 1965
 
 ## Grendel (Mongrel) F
@@ -136,7 +136,7 @@
   - ATM 6 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 1997
 
 ## Grendel (Mongrel) M

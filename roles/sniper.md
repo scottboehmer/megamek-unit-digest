@@ -15,7 +15,7 @@
 - **Shugosha LAW-QM3 Q-Mech** *Sniper (3051)* `Drone`
 
 ### [Snow Fox (Omni)](../mechs/snow_fox_omni.md)
-- **Snow Fox (Omni)  B** *Sniper (3120)*
+- **Snow Fox (Omni)  B** *Sniper (3111)*
 
 ### [Thorn](../mechs/thorn.md)
 - **Thorn THE-N1** *Sniper (3051)*
@@ -182,6 +182,7 @@
 ### [Sentinel](../mechs/sentinel.md)
 - **Sentinel STN-3Lb** *Sniper (2715)*
 - **Sentinel STN-C** *Sniper (3065)* `C3 Slave`
+- **Sentinel STN-6S** *Sniper (3145)*
 
 ### [Sentry](../mechs/sentry.md)
 - **Sentry SNT-04** *Sniper (3056)*
@@ -599,6 +600,9 @@
 - **JagerMech JM7-D** *Sniper (3057)*
 - **JagerMech JM7-G** *Sniper (3068)*
 
+### [Lightning](../mechs/lightning.md)
+- **Lightning LHN-C5** *Sniper (3150)*
+
 ### [Nova Cat](../mechs/nova_cat.md)
 - **Nova Cat  Prime** *Sniper (3059)*
 - **Nova Cat  A** *Sniper (3059)*
@@ -805,6 +809,7 @@
 ### [Marauder IIC](../mechs/marauder_iic.md)
 - **Marauder IIC 9** *Sniper (2831)*
 - **Marauder IIC 4** *Sniper (3070)*
+- **Marauder IIC 5** *Sniper (3070)*
 
 ### [Masakari (Warhawk)](../mechs/masakari_warhawk.md)
 - **Masakari (Warhawk)  Prime** *Sniper (2999)*
@@ -882,6 +887,7 @@
 ### [Supernova](../mechs/supernova.md)
 - **Supernova (Standard)** *Sniper (2846)*
 - **Supernova 3** *Sniper (3064)*
+- **Supernova 5** *Sniper (3144)*
 
 ### [Ymir](../mechs/ymir.md)
 - **Ymir BWP-2E** *Sniper (2478)*

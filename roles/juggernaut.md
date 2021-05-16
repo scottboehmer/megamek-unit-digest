@@ -182,6 +182,9 @@
 - **O-Bakemono OBK-M11** *Juggernaut (3068)* `C3 Slave`
 - **O-Bakemono OBK-M12** *Juggernaut (3070)* `C3 Master`, `TAG`
 
+### [Thug](../mechs/thug.md)
+- **Thug THG-13U** *Juggernaut (3120)*
+
 ### [Warhammer IIC](../mechs/warhammer_iic.md)
 - **Warhammer IIC 11** *Juggernaut (3124)*
 
@@ -391,7 +394,6 @@
 - **Turkina  H** *Juggernaut (3062)*
 - **Turkina  E** *Juggernaut (3070)*
 - **Turkina  Z** *Juggernaut (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
-- **Turkina  U** *Juggernaut (3077)* `Active Probe`
 
 ## 100 Tons
 
@@ -455,6 +457,7 @@
 - **Daishi (Dire Wolf)  D** *Juggernaut (3069)*
 - **Daishi (Dire Wolf)  U** *Juggernaut (3077)*
 - **Daishi (Dire Wolf)  E** *Juggernaut (3103)* `Active Probe`, `ECM`
+- **Daishi (Dire Wolf)  T** *Juggernaut (3142)* `Active Probe`
 
 ### [Devastator](../mechs/devastator.md)
 - **Devastator DVS-2-EC** *Juggernaut (2827)*

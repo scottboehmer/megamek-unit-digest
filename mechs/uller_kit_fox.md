@@ -229,21 +229,6 @@
 - **Source:** Jihad
 - **Battle Value:** 1486
 
-## Uller (Kit Fox) K
-- **Role:** Striker
-- **Tech Base:** Clan (3088)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Improved Heavy Large Laser
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-- **Equipment:**
-  - CASE
-- **Source:** ilClan Vol 11 - Early Republic
-- **Battle Value:** 1109
-
 ## Uller (Kit Fox) I
 - **Role:** Brawler
 - **Tech Base:** Clan (3101)

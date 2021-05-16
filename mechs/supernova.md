@@ -63,3 +63,18 @@
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 3158
 
+## Supernova 5
+- **Role:** Sniper
+- **Tech Base:** Clan Mixed (3144)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 3 / 5
+  - **Jumping:** 3
+- **Armor:** 272
+- **Heat Sinks:** 24 (48)
+- **Weapons:**
+  - ER Large Laser × 6
+- **Equipment:**
+  - Inner Sphere Coolant Pod × 4
+- **Source:** RecGuide 13 - Dark Ages
+- **Battle Value:** 3070
+

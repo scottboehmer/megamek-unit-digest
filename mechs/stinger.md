@@ -39,6 +39,37 @@
   - Small Laser
 - **Battle Value:** 674
 
+## Stinger C
+- **Role:** Undefined
+- **Tech Base:** Clan (2832)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9
+  - **Jumping:** 6
+- **Armor:** 64
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - ER Medium Laser
+  - Small Pulse Laser
+  - Machine Gun × 2 (ammo: 100)
+- **Equipment:**
+  - CASE
+- **Source:** RecGuide 13 - Succession Wars
+- **Battle Value:** 592
+
+## Stinger C 2
+- **Role:** Undefined
+- **Tech Base:** Clan (2838)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9
+  - **Jumping:** 6
+- **Armor:** 64
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Small Pulse Laser
+- **Source:** RecGuide 13 - Succession Wars
+- **Battle Value:** 754
+
 ## Stinger STG-5M
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3050)
@@ -52,7 +83,7 @@
   - Flamer
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** Clan Invasion
+- **Source:** RecGuide 13 - Clan Invasion
 - **Battle Value:** 432
 
 ## Stinger STG-5R
@@ -126,6 +157,19 @@
 - **Source:** Jihad
 - **Battle Value:** 478
 
+## Stinger STG-4G
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3074)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 6
+- **Armor:** 69
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 2
+- **Source:** RecGuide 13 - Jihad
+- **Battle Value:** 541
+
 ## Stinger STG-5G
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3076)
@@ -136,7 +180,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light PPC w/ PPC Capacitor
-- **Source:** Jihad
+- **Source:** RecGuide 13 - Jihad
 - **Battle Value:** 614
 
 ## Stinger STG-7S
@@ -151,4 +195,48 @@
   - ER Medium Laser
 - **Source:** Jihad
 - **Battle Value:** 382
+
+## Stinger STG-6M
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3097)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9
+  - **Jumping:** 6
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - ER Flamer
+- **Equipment:**
+  - Laser Anti-Missile System
+- **Source:** RecGuide 13 - Dark Ages
+- **Battle Value:** 503
+
+## Stinger STG-6G
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3103)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
+- **Armor:** 69
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium X-Pulse Laser
+  - Machine Gun × 2 (ammo: 100)
+- **Source:** RecGuide 13 - Dark Ages
+- **Battle Value:** 503
+
+## Stinger STG-6R
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3120)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 8 / 12, XL
+  - **Jumping:** 8
+- **Armor:** 56
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - Heavy Machine Gun × 2 (ammo: 50)
+- **Source:** RecGuide 13 - Dark Ages
+- **Battle Value:** 454
 

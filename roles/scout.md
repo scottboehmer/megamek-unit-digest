@@ -72,7 +72,7 @@
 - **Mercury MCY-102** *Scout (3067)* `C3i`
 
 ### [Snow Fox (Omni)](../mechs/snow_fox_omni.md)
-- **Snow Fox (Omni)  Prime** *Scout (3120)* `Active Probe`, `ECM`
+- **Snow Fox (Omni)  Prime** *Scout (3111)* `Active Probe`, `ECM`
 
 ### [Stinger](../mechs/stinger.md)
 - **Stinger STG-3R** *Scout (2479)*
@@ -83,8 +83,12 @@
 - **Stinger STG-3P** *Scout (3068)*
 - **Stinger STG-5T** *Scout (3068)*
 - **Stinger STG-6S** *Scout (3069)*
+- **Stinger STG-4G** *Scout (3074)*
 - **Stinger STG-5G** *Scout (3076)*
 - **Stinger STG-7S** *Scout (3077)*
+- **Stinger STG-6M** *Scout (3097)*
+- **Stinger STG-6G** *Scout (3103)*
+- **Stinger STG-6R** *Scout (3120)*
 
 ### [Wasp](../mechs/wasp.md)
 - **Wasp WSP-1** *Scout (2464)*

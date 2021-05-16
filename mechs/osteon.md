@@ -164,7 +164,7 @@
 
 ## Osteon U
 - **Role:** Juggernaut
-- **Tech Base:** Clan (3072)
+- **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 85 tons (Reinforced)
 - **Movement:** 3 / 5, XL
   - **Underwater:** 2
@@ -175,7 +175,7 @@
   - LRT 15 w/ Artemis V × 4 (ammo: 72)
 - **Equipment:**
   - Nova CEWS
-  - HarJel × 4
+  - Inner Sphere HarJel × 4
   - CASE
 - **Source:** WoR - Jihad
 - **Battle Value:** 2647
