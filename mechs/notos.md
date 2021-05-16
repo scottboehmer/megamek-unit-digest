@@ -4,23 +4,25 @@
 - **Tech Base:** Clan (3145)
 - **Chassis:** 60 tons QuadVee (Endo Steel)
 - **Movement:** 5 / 8 (10), XL
+  - **Vehicle Mode:** 6 / 9 (12)
 - **Armor:** 200
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 5
 - **Equipment:**
+  - Wheels
   - Targeting Computer
   - Supercharger
-  - Wheels
 - **Source:** XTRO Republic III - Late Republic
-- **Battle Value:** unknown
+- **Battle Value:** 2335
 
 ## Notos A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3145)
 - **Chassis:** 60 tons QuadVee (Endo Steel)
 - **Movement:** 5 / 8, XL
+  - **Vehicle Mode:** 6 / 9
 - **Armor:** 200
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
@@ -28,16 +30,17 @@
   - HAG 20 (ammo: 12)
   - ER Small Laser × 2
 - **Equipment:**
-  - CASE
   - Wheels
+  - CASE
 - **Source:** XTRO Republic III - Late Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1528
 
 ## Notos B
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3145)
 - **Chassis:** 60 tons QuadVee (Endo Steel)
 - **Movement:** 5 / 8, XL
+  - **Vehicle Mode:** 6 / 9
 - **Armor:** 200
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
@@ -45,16 +48,17 @@
   - LRM 15 × 2 (ammo: 32)
   - ER Medium Laser × 2
 - **Equipment:**
-  - CASE
   - Wheels
+  - CASE
 - **Source:** XTRO Republic III - Late Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1877
 
 ## Notos C
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3145)
 - **Chassis:** 60 tons QuadVee (Endo Steel)
 - **Movement:** 5 / 8, XL
+  - **Vehicle Mode:** 6 / 9
 - **Armor:** 200
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
@@ -65,25 +69,26 @@
 - **Equipment:**
   - ECM Suite
   - Active Probe
+  - Wheels
   - Light TAG
   - CASE
-  - Wheels
 - **Source:** XTRO Republic III - Late Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1632
 
 ## Notos D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3145)
 - **Chassis:** 60 tons QuadVee (Endo Steel)
 - **Movement:** 5 / 8, XL
+  - **Vehicle Mode:** 6 / 9
 - **Armor:** 200
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Large Laser × 2
 - **Equipment:**
-  - Targeting Computer
   - Wheels
+  - Targeting Computer
 - **Source:** XTRO Republic III - Late Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1865
 

@@ -4,6 +4,7 @@
 - **Tech Base:** Clan (3136)
 - **Chassis:** 35 tons QuadVee (Endo Steel)
 - **Movement:** 6 / 9
+  - **Vehicle Mode:** 6 / 9
 - **Armor:** 48 (Ferro Fibrous)
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)

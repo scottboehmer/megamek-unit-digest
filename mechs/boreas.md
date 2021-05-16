@@ -4,6 +4,7 @@
 - **Tech Base:** Clan (3132)
 - **Chassis:** 60 tons QuadVee
 - **Movement:** 4 / 6
+  - **Vehicle Mode:** 4 / 6
 - **Armor:** 184
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
@@ -22,6 +23,7 @@
 - **Tech Base:** Clan (3132)
 - **Chassis:** 60 tons QuadVee
 - **Movement:** 4 / 6
+  - **Vehicle Mode:** 4 / 6
 - **Armor:** 184
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
@@ -38,6 +40,7 @@
 - **Tech Base:** Clan (3132)
 - **Chassis:** 60 tons QuadVee
 - **Movement:** 4 / 6
+  - **Vehicle Mode:** 4 / 6
 - **Armor:** 184
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
@@ -54,6 +57,7 @@
 - **Tech Base:** Clan (3132)
 - **Chassis:** 60 tons QuadVee
 - **Movement:** 4 / 6
+  - **Vehicle Mode:** 4 / 6
 - **Armor:** 184
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 10 (20)
@@ -71,6 +75,7 @@
 - **Tech Base:** Clan (3132)
 - **Chassis:** 60 tons QuadVee
 - **Movement:** 4 / 6
+  - **Vehicle Mode:** 4 / 6
 - **Armor:** 184
 - **Cockpit:** QuadVee
 - **Heat Sinks:** 14 (28)
