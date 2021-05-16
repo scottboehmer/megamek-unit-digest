@@ -600,6 +600,7 @@
 - **Mad Cat (Timber Wolf)  Prime** *Brawler (2945)*
 - **Mad Cat (Timber Wolf)  N** *Brawler (3050)*
 - **Mad Cat (Timber Wolf)  (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
+- **Mad Cat (Timber Wolf)  (Bounty Hunter 2)** *Brawler (3068)*
 - **Mad Cat (Timber Wolf)  M** *Brawler (3068)*
 
 ### [Marauder](../mechs/marauder.md)

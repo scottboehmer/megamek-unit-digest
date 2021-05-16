@@ -1,7 +1,5 @@
 Unable to convert data from 'Fwltur FWL-3V SalvageMech.mtf': Unrecognized component type: MechanicalJumpBooster
 Unable to convert data from 'Thunder Fox TFT-C3.mtf': Unrecognized component type: Jump Booster
-Unable to convert data from 'Black Hawk (Nova) U.mtf': Unrecognized component type: Liquid Storage :SIZE:1.0
-Unable to convert data from 'Turkina U.mtf': Unrecognized component type: Liquid Storage :SIZE:1.0
 Unable to convert data from 'Vandal LI-OB.mtf': Unrecognized component type: ISVehicularMineDispenser
 Unable to convert data from 'Ares ARS-V1 Aphrodite.mtf': Unrecognized config: Tripod Omnimech
 Unable to convert data from 'Ares ARS-V1 Hades.mtf': Unrecognized config: Tripod Omnimech
@@ -13,9 +11,6 @@ Unable to convert data from 'Poseidon PSD-V2.mtf': Unrecognized config: Tripod B
 Unable to convert data from 'Revenant UBM-2R7.mtf': Unrecognized component type: MediumBridgeLayer
 Unable to convert data from 'Zeus X ZEU-X.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Zeus X ZEU-X2.mtf': Unrecognized armor type: patchwork
-Unable to convert data from 'Mad Cat (Timber Wolf) Bounty Hunter 2.mtf': Value cannot be null. (Parameter 's')
-Unable to convert data from 'Uller (Kit Fox) K.mtf': This mechs engine requires at least 10 heat sinks
-Invalid design in file 'Daishi (Dire Wolf) X.mtf': Design is overweight by 1.00 tons
 Unable to convert data from 'Black Hawk (Nova) T.mtf': Unrecognized component type: CLMediumChemLaser
 Unable to convert data from 'Gulon GLN-1A MiningMech.mtf': This mechs engine requires at least 10 heat sinks
 Unable to convert data from 'Gulon GLN-1B SecurityMech.mtf': This mechs engine requires at least 10 heat sinks
@@ -75,7 +70,6 @@ CONFIG: Tripod Omnimech: 5
 ARMOR: patchwork: 4
 HEAT SINK: compact: 3
 Jump Booster: 2
-Liquid Storage :SIZE:1.0: 2
 ISVehicularMineDispenser: 2
 ISC3RemoteSensorLauncher: 2
 ISAPDS: 2
@@ -86,8 +80,8 @@ ISRISCEmergencyCoolantSystem: 1
 ISVehicularGrenadeLauncher: 1
 ClanGroundMobileHPG: 1
 Ram Plate: 1
-CLRocketLauncher10Prototype: 1
 CLRocketLauncher20Prototype: 1
+CLRocketLauncher10Prototype: 1
 CLRocketLauncher15Prototype: 1
 CLMediumChemLaser: 1
 MediumBridgeLayer: 1
@@ -309,4 +303,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3689 converted files -> 3687 validated mechs
+3756 mtf files -> 3756 parsed files -> 3693 converted files -> 3692 validated mechs

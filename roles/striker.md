@@ -403,6 +403,7 @@
 - **Uller (Kit Fox)  E** *Striker (3054)*
 - **Uller (Kit Fox)  H** *Striker (3059)*
 - **Uller (Kit Fox)  J** *Striker (3060)*
+- **Uller (Kit Fox)  K** *Striker (3088)*
 - **Uller (Kit Fox)  R** *Striker (3121)*
 
 ### [Valiant](../mechs/valiant.md)
@@ -945,6 +946,9 @@
 
 ### [Aquagladius](../mechs/aquagladius.md)
 - **Aquagladius AQS-3** *Striker (3065)*
+
+### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
+- **Black Hawk (Nova)  U** *Striker (3077)* `Active Probe`, `ECM`
 
 ### [Blitzkrieg](../mechs/blitzkrieg.md)
 - **Blitzkrieg BTZ-3F** *Striker (3061)*

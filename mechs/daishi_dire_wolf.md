@@ -187,7 +187,7 @@
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5, XL
 - **Armor:** 304
-- **Heat Sinks:** 16 (32)
+- **Heat Sinks:** 15 (30)
 - **Weapons:**
   - Large Pulse Laser
   - Ultra AC/10 (ammo: 20)

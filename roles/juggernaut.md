@@ -394,6 +394,7 @@
 - **Turkina  H** *Juggernaut (3062)*
 - **Turkina  E** *Juggernaut (3070)*
 - **Turkina  Z** *Juggernaut (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
+- **Turkina  U** *Juggernaut (3077)* `Active Probe`
 
 ## 100 Tons
 

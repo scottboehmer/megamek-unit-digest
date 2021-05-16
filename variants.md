@@ -827,6 +827,7 @@
 - **Uller (Kit Fox)  J** *Striker (3060)*
 - **Uller (Kit Fox)  F** *Sniper (3069)*
 - **Uller (Kit Fox)  U** *Sniper (3077)*
+- **Uller (Kit Fox)  K** *Striker (3088)*
 - **Uller (Kit Fox)  I** *Brawler (3101)*
 - **Uller (Kit Fox)  R** *Striker (3121)*
 - **Uller (Kit Fox)  BLO** *Undefined (3138)* `C3i`
@@ -1917,6 +1918,7 @@
 - **Black Hawk (Nova)  E** *Skirmisher (3054)*
 - **Black Hawk (Nova)  H** *Skirmisher (3059)*
 - **Black Hawk (Nova)  F** *Skirmisher (3068)*
+- **Black Hawk (Nova)  U** *Striker (3077)* `Active Probe`, `ECM`
 - **Black Hawk (Nova)  I** *Skirmisher (3094)*
 - **Black Hawk (Nova)  X** *Undefined (3137)*
 - **Black Hawk (Nova)  G** *Skirmisher (3150)*
@@ -3827,6 +3829,7 @@
 - **Mad Cat (Timber Wolf)  E** *Sniper (3054)* `TAG`
 - **Mad Cat (Timber Wolf)  H** *Missile Boat (3059)*
 - **Mad Cat (Timber Wolf)  (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
+- **Mad Cat (Timber Wolf)  (Bounty Hunter 2)** *Brawler (3068)*
 - **Mad Cat (Timber Wolf)  M** *Brawler (3068)*
 - **Mad Cat (Timber Wolf)  F** *Missile Boat (3069)*
 - **Mad Cat (Timber Wolf)  Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
@@ -4883,6 +4886,7 @@
 - **Turkina  H** *Juggernaut (3062)*
 - **Turkina  E** *Juggernaut (3070)*
 - **Turkina  Z** *Juggernaut (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
+- **Turkina  U** *Juggernaut (3077)* `Active Probe`
 - **Turkina  X** *Missile Boat (3077)* `ECM`
 
 ## 100 Tons

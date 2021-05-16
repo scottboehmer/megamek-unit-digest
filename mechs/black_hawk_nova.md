@@ -143,6 +143,29 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1976
 
+## Black Hawk (Nova) U
+- **Role:** Striker
+- **Tech Base:** Clan Mixed (3077)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Heavy Medium Laser × 3
+  - Micro Pulse Laser × 3
+  - Inner Sphere Sword
+  - Spot Welder
+  - Machine Gun × 8 (ammo: 100)
+- **Equipment:**
+  - ECM Suite
+  - Light Active Probe
+  - Liquid Cargo × 2
+  - CASE
+  - Inner Sphere HarJel
+- **Source:** Jihad
+- **Battle Value:** 1413
+
 ## Black Hawk (Nova) I
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3094)
