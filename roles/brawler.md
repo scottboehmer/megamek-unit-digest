@@ -655,6 +655,9 @@
 ### [Sphinx](../mechs/sphinx.md)
 - **Sphinx 4** *Brawler (3091)*
 
+### [Triskelion](../mechs/triskelion.md)
+- **Triskelion TRK-4V** *Brawler (3146)* `ECM`
+
 ### [Tundra Wolf](../mechs/tundra_wolf.md)
 - **Tundra Wolf (Standard)** *Brawler (3076)* `ECM`
 - **Tundra Wolf 2** *Brawler (3076)*

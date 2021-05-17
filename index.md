@@ -690,6 +690,7 @@
 - [Toyama](mechs/toyama.md)
 - [Trebaruna](mechs/trebaruna.md)
 - [Trebuchet](mechs/trebuchet.md)
+- [Triskelion](mechs/triskelion.md)
 - [Trooper](mechs/trooper.md)
 - [Tsunami](mechs/tsunami.md)
 - [Tundra Wolf](mechs/tundra_wolf.md)

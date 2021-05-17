@@ -4029,6 +4029,9 @@
 - **Toyama TYM-1B** *Sniper (3070)* `C3i`
 - **Toyama TYM-1C** *Missile Boat (3072)* `C3i`
 
+### [Triskelion](mechs/triskelion.md)
+- **Triskelion TRK-4V** *Brawler (3146)* `ECM`
+
 ### [Tundra Wolf](mechs/tundra_wolf.md)
 - **Tundra Wolf (Standard)** *Brawler (3076)* `ECM`
 - **Tundra Wolf 2** *Brawler (3076)*
