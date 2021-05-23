@@ -140,7 +140,7 @@
 - **Locust LCT-1L** *Scout (3030)*
 - **Locust LCT-3D** *Missile Boat (3049)*
 - **Locust LCT-3S** *Striker (3049)*
-- **Locust C** *Undefined (3050)*
+- **Locust C** *Striker (3050)*
 - **Locust LCT-3M** *Scout (3050)*
 - **Locust LCT-1V2** *Scout (3065)*
 - **Locust LCT-5M** *Striker (3066)*
@@ -827,7 +827,7 @@
 - **Uller (Kit Fox)  A** *Sniper (2890)*
 - **Uller (Kit Fox)  B** *Striker (2890)*
 - **Uller (Kit Fox)  D** *Missile Boat (2890)*
-- **Uller (Kit Fox)  V** *Undefined (2921)*
+- **Uller (Kit Fox)  V** *Missile Boat (2921)*
 - **Uller (Kit Fox)  C** *Striker (3050)* `Active Probe`, `ECM`, `TAG`
 - **Uller (Kit Fox)  S** *Striker (3050)*
 - **Uller (Kit Fox)  W** *Sniper (3051)*
@@ -878,10 +878,10 @@
 - **Valkyrie VLK-QT2** *Striker (3081)*
 - **Valkyrie VLK-QD4** *Striker (3085)*
 - **Valkyrie VLK-QD5** *Undefined (3101)*
-- **Valkyrie VLK-QD6** *Undefined (3102)*
+- **Valkyrie VLK-QD6** *Missile Boat (3102)*
 - **Valkyrie VLK-QD8** *Missile Boat (3102)*
-- **Valkyrie VLK-QDD** *Undefined (3106)*
-- **Valkyrie C** *Undefined (3139)*
+- **Valkyrie VLK-QDD** *Missile Boat (3106)*
+- **Valkyrie C** *Missile Boat (3139)*
 
 ### [Vixen (Incubus)](mechs/vixen_incubus.md)
 - **Vixen (Incubus) (Standard)** *Striker (2954)*
@@ -2292,7 +2292,7 @@
 - **Trebuchet TBT-K7R** *Skirmisher (3088)*
 - **Trebuchet TBT-7MM 'Merida'** *Undefined (3100)*
 - **Trebuchet TBT-9R** *Missile Boat (3131)*
-- **Trebuchet TBT-9N** *Undefined (3136)*
+- **Trebuchet TBT-9N** *Missile Boat (3136)*
 
 ### [Ursus](mechs/ursus.md)
 - **Ursus (Standard)** *Brawler (3059)* `ECM`
@@ -2636,7 +2636,7 @@
 - **Shadow Hawk SHD-2D2** *Brawler (3049)*
 - **Shadow Hawk C** *Skirmisher (3050)*
 - **Shadow Hawk SHD-2Ht** *Skirmisher (3052)*
-- **Shadow Hawk SHD-5S** *Undefined (3054)* `Active Probe`, `ECM`, `TAG`
+- **Shadow Hawk SHD-5S** *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
 - **Shadow Hawk SHD-5D** *Skirmisher (3066)*
 - **Shadow Hawk SHD-7CS** *Missile Boat (3066)* `C3i`
 - **Shadow Hawk SHD-7M** *Missile Boat (3066)*
@@ -3042,8 +3042,8 @@
 - **Vulture (Mad Dog)  F** *Skirmisher (3069)*
 - **Vulture (Mad Dog)  U** *Skirmisher (3077)*
 - **Vulture (Mad Dog)  G** *Brawler (3093)*
-- **Vulture (Mad Dog)  V** *Undefined (3098)*
-- **Vulture (Mad Dog)  T** *Undefined (3142)*
+- **Vulture (Mad Dog)  V** *Missile Boat (3098)*
+- **Vulture (Mad Dog)  T** *Missile Boat (3142)*
 - **Vulture (Mad Dog)  I** *Sniper (3144)*
 
 ### [Vulture Mk III (Mad Dog Mk III)](mechs/vulture_mk_iii_mad_dog_mk_iii.md)
@@ -3120,7 +3120,7 @@
 - **Catapult CPLT-C5A** *Missile Boat (3068)*
 - **Catapult CPLT-K4** *Sniper (3068)* `C3 Slave`
 - **Catapult CPLT-C6** *Skirmisher (3069)*
-- **Catapult CPLT-K6** *Undefined (3086)*
+- **Catapult CPLT-K6** *Missile Boat (3086)*
 
 ### [Cauldron-Born (Ebon Jaguar)](mechs/cauldron-born_ebon_jaguar.md)
 - **Cauldron-Born (Ebon Jaguar)  Prime** *Skirmisher (3049)*
@@ -3415,7 +3415,7 @@
 - **Archer ARC-5S** *Missile Boat (3050)*
 - **Archer ARC-5W** *Missile Boat (3050)*
 - **Archer C** *Missile Boat (3050)*
-- **Archer ARC-5CS** *Undefined (3052)*
+- **Archer ARC-5CS** *Missile Boat (3052)*
 - **Archer (Wolf)** *Missile Boat (3055)* `ECM`
 - **Archer ARC-6S** *Missile Boat (3067)*
 - **Archer ARC-6W** *Brawler (3067)*
@@ -3425,10 +3425,10 @@
 - **Archer ARC-9K** *Sniper (3071)* `C3 Slave`
 - **Archer ARC-9M** *Missile Boat (3076)*
 - **Archer ARC-9W** *Missile Boat (3078)* `ECM`, `Stealth`
-- **Archer ARC-4M2** *Undefined (3086)*
+- **Archer ARC-4M2** *Missile Boat (3086)*
 - **Archer ARC-9KC** *Sniper (3089)* `C3 Slave`
-- **Archer ARC-7C** *Undefined (3119)*
-- **Archer ARC-9R** *Undefined (3134)* `C3 Slave`
+- **Archer ARC-7C** *Missile Boat (3119)*
+- **Archer ARC-9R** *Missile Boat (3134)* `C3 Slave`
 
 ### [Avatar](mechs/avatar.md)
 - **Avatar  AV1-O** *Brawler (3056)*
@@ -3841,8 +3841,8 @@
 - **Inferno  INF-NO** *Brawler (3146)*
 - **Inferno  INF-NOA** *Brawler (3146)*
 - **Inferno  INF-NOB** *Brawler (3146)*
-- **Inferno  INF-NOC** *Undefined (3146)*
-- **Inferno  INF-NOR** *Undefined (3146)*
+- **Inferno  INF-NOC** *Missile Boat (3146)*
+- **Inferno  INF-NOR** *Missile Boat (3146)*
 
 ### [Jade Hawk](mechs/jade_hawk.md)
 - **Jade Hawk JHK-03** *Skirmisher (3135)*
@@ -3878,7 +3878,7 @@
 - **Mad Cat (Timber Wolf)  U** *Sniper (3077)*
 - **Mad Cat (Timber Wolf)  W** *Juggernaut (3100)*
 - **Mad Cat (Timber Wolf)  BLO** *Undefined (3129)* `Active Probe`, `C3i`, `TAG`
-- **Mad Cat (Timber Wolf)  T** *Undefined (3142)*
+- **Mad Cat (Timber Wolf)  T** *Missile Boat (3142)*
 
 ### [Mad Cat Mk IV (Savage Wolf)](mechs/mad_cat_mk_iv_savage_wolf.md)
 - **Mad Cat Mk IV (Savage Wolf) PR (Standard)** *Skirmisher (3130)*

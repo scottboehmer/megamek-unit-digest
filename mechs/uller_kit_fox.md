@@ -65,7 +65,7 @@
 - **Battle Value:** 1142
 
 ## Uller (Kit Fox) V
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2921)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

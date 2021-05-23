@@ -121,7 +121,7 @@
 - **Battle Value:** 483
 
 ## Locust C
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere Mixed (3050)
 - **Chassis:** 20 tons
 - **Movement:** 8 / 12

@@ -206,7 +206,7 @@
 - **Battle Value:** 2165
 
 ## Trebuchet TBT-9N
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3136)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

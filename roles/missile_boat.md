@@ -66,6 +66,7 @@
 
 ### [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
 - **Uller (Kit Fox)  D** *Missile Boat (2890)*
+- **Uller (Kit Fox)  V** *Missile Boat (2921)*
 
 ### [UrbanMech](../mechs/urbanmech.md)
 - **UrbanMech UM-AIV** *Missile Boat (3072)*
@@ -77,7 +78,10 @@
 - **Valkyrie VLK-QD1** *Missile Boat (3067)*
 - **Valkyrie VLK-QS5** *Missile Boat (3070)*
 - **Valkyrie VLK-QW5** *Missile Boat (3072)* `C3i`
+- **Valkyrie VLK-QD6** *Missile Boat (3102)*
 - **Valkyrie VLK-QD8** *Missile Boat (3102)*
+- **Valkyrie VLK-QDD** *Missile Boat (3106)*
+- **Valkyrie C** *Missile Boat (3139)*
 
 ## 35 Tons
 
@@ -232,6 +236,7 @@
 - **Trebuchet TBT-7M** *Missile Boat (3048)*
 - **Trebuchet TBT-8B** *Missile Boat (3071)*
 - **Trebuchet TBT-9R** *Missile Boat (3131)*
+- **Trebuchet TBT-9N** *Missile Boat (3136)*
 
 ## 55 Tons
 
@@ -286,6 +291,7 @@
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-5M** *Missile Boat (3048)*
+- **Shadow Hawk SHD-5S** *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
 - **Shadow Hawk SHD-7CS** *Missile Boat (3066)* `C3i`
 - **Shadow Hawk SHD-7M** *Missile Boat (3066)*
 - **Shadow Hawk SHD-11CS** *Missile Boat (3068)* `C3i`
@@ -329,6 +335,8 @@
 ### [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
 - **Vulture (Mad Dog)  Prime** *Missile Boat (2963)*
 - **Vulture (Mad Dog)  H** *Missile Boat (3059)*
+- **Vulture (Mad Dog)  V** *Missile Boat (3098)*
+- **Vulture (Mad Dog)  T** *Missile Boat (3142)*
 
 ### [Vulture Mk III (Mad Dog Mk III)](../mechs/vulture_mk_iii_mad_dog_mk_iii.md)
 - **Vulture Mk III (Mad Dog Mk III)  (Prime)** *Missile Boat (3109)*
@@ -361,6 +369,7 @@
 - **Catapult CPLT-C5** *Missile Boat (3061)*
 - **Catapult CPLT-C2** *Missile Boat (3062)*
 - **Catapult CPLT-C5A** *Missile Boat (3068)*
+- **Catapult CPLT-K6** *Missile Boat (3086)*
 
 ### [Cauldron-Born (Ebon Jaguar)](../mechs/cauldron-born_ebon_jaguar.md)
 - **Cauldron-Born (Ebon Jaguar)  C** *Missile Boat (3049)*
@@ -435,6 +444,7 @@
 - **Archer ARC-5S** *Missile Boat (3050)*
 - **Archer ARC-5W** *Missile Boat (3050)*
 - **Archer C** *Missile Boat (3050)*
+- **Archer ARC-5CS** *Missile Boat (3052)*
 - **Archer (Wolf)** *Missile Boat (3055)* `ECM`
 - **Archer ARC-6S** *Missile Boat (3067)*
 - **Archer ARC-7L** *Missile Boat (3067)* `ECM`, `Stealth`
@@ -442,6 +452,9 @@
 - **Archer ARC-7S** *Missile Boat (3070)*
 - **Archer ARC-9M** *Missile Boat (3076)*
 - **Archer ARC-9W** *Missile Boat (3078)* `ECM`, `Stealth`
+- **Archer ARC-4M2** *Missile Boat (3086)*
+- **Archer ARC-7C** *Missile Boat (3119)*
+- **Archer ARC-9R** *Missile Boat (3134)* `C3 Slave`
 
 ### [Avatar](../mechs/avatar.md)
 - **Avatar  AV1-OB** *Missile Boat (3056)*
@@ -503,6 +516,10 @@
 - **Helepolis HEP-3H** *Missile Boat (2625)*
 - **Helepolis HEP-4H** *Missile Boat (3074)*
 
+### [Inferno](../mechs/inferno.md)
+- **Inferno  INF-NOC** *Missile Boat (3146)*
+- **Inferno  INF-NOR** *Missile Boat (3146)*
+
 ### [Jade Hawk](../mechs/jade_hawk.md)
 - **Jade Hawk JHK-04** *Missile Boat (3135)*
 
@@ -510,6 +527,7 @@
 - **Mad Cat (Timber Wolf)  (Pryde)** *Missile Boat (3052)*
 - **Mad Cat (Timber Wolf)  H** *Missile Boat (3059)*
 - **Mad Cat (Timber Wolf)  F** *Missile Boat (3069)*
+- **Mad Cat (Timber Wolf)  T** *Missile Boat (3142)*
 
 ### [Mad Cat Mk IV (Savage Wolf)](../mechs/mad_cat_mk_iv_savage_wolf.md)
 - **Mad Cat Mk IV (Savage Wolf)  C** *Missile Boat (3136)*

@@ -145,7 +145,7 @@
 - **Battle Value:** 1453
 
 ## Shadow Hawk SHD-5S
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

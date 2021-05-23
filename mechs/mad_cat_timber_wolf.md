@@ -334,7 +334,7 @@
 - **Battle Value:** 2611
 
 ## Mad Cat (Timber Wolf) T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3142)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8, XL

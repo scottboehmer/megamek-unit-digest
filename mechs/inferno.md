@@ -51,7 +51,7 @@
 - **Battle Value:** 1658
 
 ## Inferno INF-NOC
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6
@@ -68,7 +68,7 @@
 - **Battle Value:** 1698
 
 ## Inferno INF-NOR
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6

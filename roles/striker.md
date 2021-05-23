@@ -47,6 +47,7 @@
 ### [Locust](../mechs/locust.md)
 - **Locust LCT-1Vb** *Striker (2610)*
 - **Locust LCT-3S** *Striker (3049)*
+- **Locust C** *Striker (3050)*
 - **Locust LCT-5M** *Striker (3066)*
 - **Locust LCT-5V** *Striker (3068)*
 - **Locust LCT-6M** *Striker (3071)*

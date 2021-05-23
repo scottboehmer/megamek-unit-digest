@@ -99,21 +99,11 @@ Thunderbolt TDR-5LS
 Dragoon AEM-02
 Dragoon AEM-03
 Dragoon AEM-04
-Archer ARC-4M2
-Archer ARC-7C
-Archer ARC-9R
 Mongoose MON-96
-Vulture (Mad Dog) T
-Vulture (Mad Dog) V
-Uller (Kit Fox) V
-Shadow Hawk SHD-5S
 Glass Spider (Galahad) 4
 Stinger C 2
 Stinger C
 Thresher Mk II (Standard)
-Trebuchet TBT-9N
-Catapult CPLT-K6
-Mad Cat (Timber Wolf) T
 Koshi (Mist Lynx) I
 Koshi (Mist Lynx) J
 Koshi (Mist Lynx) K
@@ -143,11 +133,6 @@ Dragonfly (Viper) L
 Dragonfly (Viper) M
 Dragonfly (Viper) R
 Dragonfly (Viper) T
-Inferno INF-NOC
-Inferno INF-NOR
-Valkyrie C
-Valkyrie VLK-QD6
-Valkyrie VLK-QDD
 Pendragon PDG-3R
 Burrower DTM-1 MiningMech
 Demeter WLD-1 AgroMech
@@ -221,8 +206,6 @@ Shugosha PTN-LAW LoaderMech
 Uni ATAE-70 CargoMech (Standard)
 Vampyr SC-V-1 SalvageMech (Standard)
 Flea FLE-16
-Archer ARC-5CS
-Locust C
 Loki (Hellbringer) M
 Mad Cat (Timber Wolf) TC
 Puma (Adder) TC

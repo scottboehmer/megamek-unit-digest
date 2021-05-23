@@ -253,7 +253,7 @@
 - **Battle Value:** 1874
 
 ## Catapult CPLT-K6
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 65 tons
 - **Movement:** 3 / 5, XL

@@ -178,7 +178,7 @@
 - **Battle Value:** 690
 
 ## Valkyrie VLK-QD6
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3102)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8, XL
@@ -210,7 +210,7 @@
 - **Battle Value:** 787
 
 ## Valkyrie VLK-QDD
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3106)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9, Light
@@ -227,7 +227,7 @@
 - **Battle Value:** 834
 
 ## Valkyrie C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3139)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8, XL

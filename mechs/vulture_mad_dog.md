@@ -193,7 +193,7 @@
 - **Battle Value:** 2503
 
 ## Vulture (Mad Dog) V
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3098)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8, XL
@@ -209,7 +209,7 @@
 - **Battle Value:** 1784
 
 ## Vulture (Mad Dog) T
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3142)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8, XL

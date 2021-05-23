@@ -156,7 +156,7 @@
 - **Battle Value:** 1811
 
 ## Archer ARC-5CS
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3052)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6, XL
@@ -317,7 +317,7 @@
 - **Battle Value:** 1774
 
 ## Archer ARC-4M2
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6
@@ -348,7 +348,7 @@
 - **Battle Value:** 1361
 
 ## Archer ARC-7C
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3119)
 - **Chassis:** 70 tons
 - **Movement:** 5 / 8, XL
@@ -363,7 +363,7 @@
 - **Battle Value:** 2408
 
 ## Archer ARC-9R
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 4 / 6, Light
