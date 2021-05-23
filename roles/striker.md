@@ -380,6 +380,9 @@
 - **Pack Hunter II 2** *Striker (3078)*
 - **Pack Hunter II 3** *Striker (3082)*
 
+### [Pwwka](../mechs/pwwka.md)
+- **Pwwka S-PW-1LAM** *Striker (3078)*
+
 ### [Razorback](../mechs/razorback.md)
 - **Razorback RZK-9S** *Striker (3063)*
 - **Razorback RZK-9T** *Striker (3066)*
@@ -996,6 +999,15 @@
 - **Nightsky NGS-6S** *Striker (3066)*
 - **Nightsky NGS-6T** *Striker (3067)*
 
+### [Phoenix Hawk LAM](../mechs/phoenix_hawk_lam.md)
+- **Phoenix Hawk LAM PHX-HK2** *Striker (2701)*
+- **Phoenix Hawk LAM PHX-HK2M** *Striker (2953)*
+- **Phoenix Hawk LAM PHX-HK1RB** *Striker (3077)* `C3i`
+
+### [Phoenix Hawk LAM Mk I](../mechs/phoenix_hawk_lam_mk_i.md)
+- **Phoenix Hawk LAM Mk I PHX-HK1** *Striker (2692)*
+- **Phoenix Hawk LAM Mk I PHX-HK1R** *Striker (2695)* `Active Probe`
+
 ### [Raijin](../mechs/raijin.md)
 - **Raijin RJN101-A** *Striker (3053)*
 - **Raijin RJN101-C** *Striker (3062)* `C3i`
@@ -1073,6 +1085,9 @@
 - **Ryoken III-XP  B** *Striker (3143)* `ECM`
 - **Ryoken III-XP  C** *Striker (3143)*
 - **Ryoken III-XP  D** *Striker (3143)*
+
+### [Screamer LAM](../mechs/screamer_lam.md)
+- **Screamer LAM SCR-1X-LAM** *Striker (2774)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-2D** *Striker (2796)*

@@ -16,6 +16,9 @@
 - **Whitworth WTH-1S** *Skirmisher (2610)*
 - **Whitworth WTH-0** *Skirmisher (2754)*
 
+### [Yurei](../mechs/yurei.md)
+- **Yurei S-YR-1LAM** *Skirmisher (3077)*
+
 ## 45 Tons
 
 ### [Beowulf](../mechs/beowulf.md)
@@ -416,6 +419,9 @@
 
 ### [Thunder Fox](../mechs/thunder_fox.md)
 - **Thunder Fox TFT-L8** *Skirmisher (3082)*
+
+### [Waneta](../mechs/waneta.md)
+- **Waneta S-WN-2LAM** *Skirmisher (3078)*
 
 ### [Wolverine](../mechs/wolverine.md)
 - **Wolverine WVR-6R** *Skirmisher (2575)*

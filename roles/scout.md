@@ -255,8 +255,25 @@
 ### [Spindrift Aquatic SecurityMech](../mechs/spindrift_aquatic_securitymech.md)
 - **Spindrift Aquatic SecurityMech SDT-1A** *Scout (3083)*
 
+### [Stinger LAM](../mechs/stinger_lam.md)
+- **Stinger LAM STG-A5** *Scout (2701)*
+- **Stinger LAM STG-A10** *Scout (2927)*
+
+### [Stinger LAM Mk I](../mechs/stinger_lam_mk_i.md)
+- **Stinger LAM Mk I STG-A1** *Scout (2688)*
+
 ### [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
 - **Uller (Kit Fox)  T** *Scout (3142)* `Active Probe`
+
+### [Wasp LAM](../mechs/wasp_lam.md)
+- **Wasp LAM WSP-105** *Scout (2701)*
+- **Wasp LAM WSP-105M** *Scout (3024)*
+- **Wasp LAM WSP-110** *Scout (3075)*
+
+### [Wasp LAM Mk I](../mechs/wasp_lam_mk_i.md)
+- **Wasp LAM Mk I WSP-100** *Scout (2690)*
+- **Wasp LAM Mk I WSP-100A** *Scout (2697)*
+- **Wasp LAM Mk I WSP-100b** *Scout (2703)* `ECM`
 
 ### [Wulfen](../mechs/wulfen.md)
 - **Wulfen  (Prime)** *Scout (3137)* `ECM`, `Stealth`

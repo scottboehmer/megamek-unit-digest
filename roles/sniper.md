@@ -389,6 +389,10 @@
 - **Shadow Hawk SHD-12C** *Sniper (3079)*
 - **Shadow Hawk SHD-4H** *Sniper (3101)*
 
+### [Shadow Hawk LAM](../mechs/shadow_hawk_lam.md)
+- **Shadow Hawk LAM SHD-X1** *Sniper (2680)*
+- **Shadow Hawk LAM SHD-X2** *Sniper (2684)*
+
 ### [Stooping Hawk](../mechs/stooping_hawk.md)
 - **Stooping Hawk  A** *Sniper (2970)*
 - **Stooping Hawk  C** *Sniper (2970)*

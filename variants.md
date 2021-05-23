@@ -772,6 +772,9 @@
 - **Pack Hunter II 3** *Striker (3082)*
 - **Pack Hunter II 4** *Sniper (3093)*
 
+### [Pwwka](mechs/pwwka.md)
+- **Pwwka S-PW-1LAM** *Striker (3078)*
+
 ### [Razorback](mechs/razorback.md)
 - **Razorback RZK-9S** *Striker (3063)*
 - **Razorback RZK-9T** *Striker (3066)*
@@ -807,6 +810,13 @@
 
 ### [Spindrift Aquatic SecurityMech](mechs/spindrift_aquatic_securitymech.md)
 - **Spindrift Aquatic SecurityMech SDT-1A** *Scout (3083)*
+
+### [Stinger LAM](mechs/stinger_lam.md)
+- **Stinger LAM STG-A5** *Scout (2701)*
+- **Stinger LAM STG-A10** *Scout (2927)*
+
+### [Stinger LAM Mk I](mechs/stinger_lam_mk_i.md)
+- **Stinger LAM Mk I STG-A1** *Scout (2688)*
 
 ### [SuburbanMech](mechs/suburbanmech.md)
 - **SuburbanMech UM-R90** *Ambusher (3018)*
@@ -882,6 +892,16 @@
 - **Vixen (Incubus) 4** *Striker (3065)*
 - **Vixen (Incubus) 5** *Striker (3065)*
 - **Vixen (Incubus) 9** *Undefined (3150)*
+
+### [Wasp LAM](mechs/wasp_lam.md)
+- **Wasp LAM WSP-105** *Scout (2701)*
+- **Wasp LAM WSP-105M** *Scout (3024)*
+- **Wasp LAM WSP-110** *Scout (3075)*
+
+### [Wasp LAM Mk I](mechs/wasp_lam_mk_i.md)
+- **Wasp LAM Mk I WSP-100** *Scout (2690)*
+- **Wasp LAM Mk I WSP-100A** *Scout (2697)*
+- **Wasp LAM Mk I WSP-100b** *Scout (2703)* `ECM`
 
 ### [Wulfen](mechs/wulfen.md)
 - **Wulfen  (Prime)** *Scout (3137)* `ECM`, `Stealth`
@@ -1566,6 +1586,9 @@
 - **Whitworth WTH-K** *Missile Boat (3070)* `C3 Slave`
 - **Whitworth WTH-5S** *Brawler (3074)* `ECM`
 
+### [Yurei](mechs/yurei.md)
+- **Yurei S-YR-1LAM** *Skirmisher (3077)*
+
 ## 45 Tons
 
 ### [Antlion](mechs/antlion.md)
@@ -2182,6 +2205,15 @@
 - **Phoenix PX-1KT** *Missile Boat (3070)*
 - **Phoenix PX-1KR** *Brawler (3079)*
 
+### [Phoenix Hawk LAM](mechs/phoenix_hawk_lam.md)
+- **Phoenix Hawk LAM PHX-HK2** *Striker (2701)*
+- **Phoenix Hawk LAM PHX-HK2M** *Striker (2953)*
+- **Phoenix Hawk LAM PHX-HK1RB** *Striker (3077)* `C3i`
+
+### [Phoenix Hawk LAM Mk I](mechs/phoenix_hawk_lam_mk_i.md)
+- **Phoenix Hawk LAM Mk I PHX-HK1** *Striker (2692)*
+- **Phoenix Hawk LAM Mk I PHX-HK1R** *Striker (2695)* `Active Probe`
+
 ### [Raider](mechs/raider.md)
 - **Raider JL-1** *Juggernaut (3134)*
 
@@ -2592,6 +2624,9 @@
 - **Scorpion SCP-1TB** *Missile Boat (3072)*
 - **Scorpion SCP-10M** *Sniper (3080)*
 
+### [Screamer LAM](mechs/screamer_lam.md)
+- **Screamer LAM SCR-1X-LAM** *Striker (2774)*
+
 ### [Shadow Hawk](mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-2H** *Skirmisher (2550)*
 - **Shadow Hawk SHD-2Hb** *Skirmisher (2752)*
@@ -2615,6 +2650,10 @@
 - **Shadow Hawk SHD-7H** *Skirmisher (3097)*
 - **Shadow Hawk SHD-4H** *Sniper (3101)*
 - **Shadow Hawk SHD-6D** *Skirmisher (3141)*
+
+### [Shadow Hawk LAM](mechs/shadow_hawk_lam.md)
+- **Shadow Hawk LAM SHD-X1** *Sniper (2680)*
+- **Shadow Hawk LAM SHD-X2** *Sniper (2684)*
 
 ### [Slagmaiden](mechs/slagmaiden.md)
 - **Slagmaiden SLG-X** *Skirmisher (3076)*
@@ -2645,6 +2684,9 @@
 - **Thunder Fox TFT-A9** *Sniper (3077)*
 - **Thunder Fox TFT-L8** *Skirmisher (3082)*
 - **Thunder Fox TFT-F11** *Sniper (3119)*
+
+### [Waneta](mechs/waneta.md)
+- **Waneta S-WN-2LAM** *Skirmisher (3078)*
 
 ### [Wolverine](mechs/wolverine.md)
 - **Wolverine WVR-1R** *Undefined (2471)*

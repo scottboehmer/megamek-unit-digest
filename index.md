@@ -517,6 +517,8 @@
 - [Phoenix Hawk](mechs/phoenix_hawk.md)
 - [Phoenix Hawk IIC](mechs/phoenix_hawk_iic.md)
 - [Phoenix Hawk L](mechs/phoenix_hawk_l.md)
+- [Phoenix Hawk LAM](mechs/phoenix_hawk_lam.md)
+- [Phoenix Hawk LAM Mk I](mechs/phoenix_hawk_lam_mk_i.md)
 - [Pillager](mechs/pillager.md)
 - [Pinion](mechs/pinion.md)
 - [Piranha](mechs/piranha.md)
@@ -537,6 +539,7 @@
 - [Prowler](mechs/prowler.md)
 - [Pulverizer](mechs/pulverizer.md)
 - [Puma (Adder)](mechs/puma_adder.md)
+- [Pwwka](mechs/pwwka.md)
 
 ## Q
 - [Quasimodo](mechs/quasimodo.md)
@@ -589,6 +592,7 @@
 - [ScavengerMech SC-V-M MilitiaMech](mechs/scavengermech_sc-v-m_militiamech.md)
 - [Scorpion](mechs/scorpion.md)
 - [Scourge](mechs/scourge.md)
+- [Screamer LAM](mechs/screamer_lam.md)
 - [Scylla](mechs/scylla.md)
 - [Sentinel](mechs/sentinel.md)
 - [Sentry](mechs/sentry.md)
@@ -599,6 +603,7 @@
 - [Shadow Cat III](mechs/shadow_cat_iii.md)
 - [Shadow Hawk](mechs/shadow_hawk.md)
 - [Shadow Hawk IIC](mechs/shadow_hawk_iic.md)
+- [Shadow Hawk LAM](mechs/shadow_hawk_lam.md)
 - [Shen Yi](mechs/shen_yi.md)
 - [Shiro](mechs/shiro.md)
 - [Shockwave](mechs/shockwave.md)
@@ -637,6 +642,8 @@
 - [Stiletto](mechs/stiletto.md)
 - [Stinger](mechs/stinger.md)
 - [Stinger IIC](mechs/stinger_iic.md)
+- [Stinger LAM](mechs/stinger_lam.md)
+- [Stinger LAM Mk I](mechs/stinger_lam_mk_i.md)
 - [Stooping Hawk](mechs/stooping_hawk.md)
 - [Storm Giant](mechs/storm_giant.md)
 - [Storm Raider](mechs/storm_raider.md)
@@ -734,6 +741,7 @@
 
 ## W
 - [Wakazashi](mechs/wakazashi.md)
+- [Waneta](mechs/waneta.md)
 - [War Crow](mechs/war_crow.md)
 - [War Dog](mechs/war_dog.md)
 - [Warhammer](mechs/warhammer.md)
@@ -741,6 +749,8 @@
 - [Warlord](mechs/warlord.md)
 - [Warwolf](mechs/warwolf.md)
 - [Wasp](mechs/wasp.md)
+- [Wasp LAM](mechs/wasp_lam.md)
+- [Wasp LAM Mk I](mechs/wasp_lam_mk_i.md)
 - [Watchman](mechs/watchman.md)
 - [Wendigo](mechs/wendigo.md)
 - [Wendigo-VP](mechs/wendigo-vp.md)
@@ -770,6 +780,7 @@
 - [Yinghuochong](mechs/yinghuochong.md)
 - [Ymir](mechs/ymir.md)
 - [Yu Huang](mechs/yu_huang.md)
+- [Yurei](mechs/yurei.md)
 
 ## Z
 - [Zeus](mechs/zeus.md)

@@ -16,26 +16,7 @@ Unable to convert data from 'Gulon GLN-1A MiningMech.mtf': This mechs engine req
 Unable to convert data from 'Gulon GLN-1B SecurityMech.mtf': This mechs engine requires at least 10 heat sinks
 Unable to convert data from 'Harvester HVR-199M-M AgroMech MOD.mtf': Unrecognized component type: ISVehicularMineDispenser
 Unable to convert data from 'OMEGA SHP-4X.mtf': Invalid mech tonnage
-Unable to convert data from 'Phoenix Hawk LAM Mk I PHX-HK1.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Phoenix Hawk LAM Mk I PHX-HK1R.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Phoenix Hawk LAM PHX-HK1RB.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Phoenix Hawk LAM PHX-HK2.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Phoenix Hawk LAM PHX-HK2M.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Pwwka S-PW-1LAM.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Screamer LAM SCR-1X-LAM.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Shadow Hawk LAM SHD-X1.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Shadow Hawk LAM SHD-X2.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Stinger LAM Mk I STG-A1.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Stinger LAM STG-A10.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Stinger LAM STG-A5.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Waneta S-WN-2LAM.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Wasp LAM Mk I WSP-100.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Wasp LAM Mk I WSP-100A.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Wasp LAM Mk I WSP-100b.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Wasp LAM WSP-105.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Wasp LAM WSP-105M.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Wasp LAM WSP-110.mtf': Support for LAMs is not implemented.
-Unable to convert data from 'Yurei S-YR-1LAM.mtf': Support for LAMs is not implemented.
+Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Carbine ConstructionMech CON-1 (Rocket).mtf': Unrecognized component type: CLRocketLauncher15Prototype
 Unable to convert data from 'Crosscut ED-X2 (Rocket).mtf': Unrecognized component type: CLRocketLauncher10Prototype
 Unable to convert data from 'Daedalus GTX2 (Militarized).mtf': Unrecognized component type: CLRocketLauncher20Prototype
@@ -64,7 +45,6 @@ Unable to convert data from 'Vulpes VLP-1DX _Beast_.mtf': Unrecognized component
 
 --------------------------------------------------
 Unrecognized Components:
-CONFIG: LAM: 20
 ARMOR: patchwork: 4
 HEAT SINK: compact: 3
 ISAPDS: 2
@@ -76,13 +56,13 @@ Light Fluid Suction System (Mech): 2
 ISVehicularGrenadeLauncher: 1
 ClanGroundMobileHPG: 1
 Ram Plate: 1
+Paramedic Equipment: 1
 CLRocketLauncher20Prototype: 1
-ISRISCEmergencyCoolantSystem: 1
 CLRocketLauncher10Prototype: 1
 CLRocketLauncher15Prototype: 1
 CLMediumChemLaser: 1
 MediumBridgeLayer: 1
-Paramedic Equipment: 1
+ISRISCEmergencyCoolantSystem: 1
 MechanicalJumpBooster: 1
 
 --------------------------------------------------
@@ -299,4 +279,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3694 converted files -> 3693 validated mechs
+3756 mtf files -> 3756 parsed files -> 3714 converted files -> 3712 validated mechs
