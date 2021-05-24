@@ -1,0 +1,20 @@
+---
+---
+
+@import "jekyll-theme-slate";
+
+body {
+  font-family: 'Open Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
+
+th {
+  font-family: 'Bebas Neue', 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;  
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bebas Neue', 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+}
