@@ -4,16 +4,56 @@
 @import "jekyll-theme-slate";
 
 body {
-  font-family: 'Open Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #333333;
 }
 
 h1, h2, h3, h4, h5, h6, th {
-  font-family: 'Open Sans', 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  letter-spacing: 0px;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: normal;
+  color: #bd2d21;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+a {
+  color: #d57b26;
+}
+
+footer a {
+    color: #d57b26;
+    text-decoration: none;
 }
 
 h1#project_title {
-  font-family: 'Bebas Neue', 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
-  letter-spacing: 1px;
-  font-size: 64px;
+  font-family: 'Michroma', sans-serif;
+  letter-spacing: normal;
+  font-size: 42px;
+  color: #eeeeee;
+}
+
+h2#project_tagline {
+  font-size: 18px;
+  color: #eeeeee;
+}
+
+#header_wrap {
+  background: linear-gradient(to top, #333333, #212121);
+}
+
+#forkme_banner {
+  background-color: #d57b26;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+pre, code {
+  font-family: 'Roboto Mono', monospace;
 }
