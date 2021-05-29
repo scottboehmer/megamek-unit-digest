@@ -1,5 +1,5 @@
 # Peregrine (Horned Owl)
-## Peregrine (Horned Owl) (Standard)
+## Horned Owl (Standard) "Peregrine"
 - **Role:** Striker
 - **Tech Base:** Clan (2835)
 - **Chassis:** 35 tons (Endo Steel)
@@ -13,7 +13,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1434
 
-## Peregrine (Horned Owl) 2
+## Horned Owl 2 "Peregrine"
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2856)
 - **Chassis:** 35 tons (Endo Steel)
@@ -28,7 +28,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1191
 
-## Peregrine (Horned Owl) 3
+## Horned Owl 3 "Peregrine"
 - **Role:** Sniper
 - **Tech Base:** Clan (3061)
 - **Chassis:** 35 tons (Endo Steel)
@@ -45,7 +45,7 @@
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 1545
 
-## Peregrine (Horned Owl) 4
+## Horned Owl 4 "Peregrine"
 - **Role:** Striker
 - **Tech Base:** Clan (3064)
 - **Chassis:** 35 tons (Endo Steel)
@@ -61,7 +61,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1198
 
-## Peregrine (Horned Owl) 5
+## Horned Owl 5 "Peregrine"
 - **Role:** Sniper
 - **Tech Base:** Clan (3066)
 - **Chassis:** 35 tons (Endo Steel)
@@ -75,7 +75,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1523
 
-## Peregrine (Horned Owl) 7
+## Horned Owl 7 "Peregrine"
 - **Role:** Striker
 - **Tech Base:** Clan (3088)
 - **Chassis:** 35 tons (Endo Steel)
@@ -93,7 +93,7 @@
 - **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 1725
 
-## Peregrine (Horned Owl) 6
+## Horned Owl 6 "Peregrine"
 - **Role:** Striker
 - **Tech Base:** Clan (3132)
 - **Chassis:** 35 tons (Endo Steel)

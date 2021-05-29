@@ -1,5 +1,5 @@
 # Ryoken (Stormcrow)
-## Ryoken (Stormcrow) Prime
+## Stormcrow "Ryoken" Prime
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
@@ -12,7 +12,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2073
 
-## Ryoken (Stormcrow) A
+## Stormcrow "Ryoken" A
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
@@ -28,7 +28,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2319
 
-## Ryoken (Stormcrow) B
+## Stormcrow "Ryoken" B
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
@@ -43,7 +43,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2281
 
-## Ryoken (Stormcrow) C
+## Stormcrow "Ryoken" C
 - **Role:** Striker
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
@@ -59,7 +59,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1881
 
-## Ryoken (Stormcrow) D
+## Stormcrow "Ryoken" D
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2930)
 - **Chassis:** 55 tons (Endo Steel)
@@ -75,7 +75,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1863
 
-## Ryoken (Stormcrow) Attwater
+## Stormcrow "Ryoken" Attwater
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
@@ -91,7 +91,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 1482
 
-## Ryoken (Stormcrow) TC
+## Stormcrow "Ryoken" TC
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
@@ -107,7 +107,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 2373
 
-## Ryoken (Stormcrow) E
+## Stormcrow "Ryoken" E
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 55 tons (Endo Steel)
@@ -124,7 +124,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2110
 
-## Ryoken (Stormcrow) (Kotare)
+## Stormcrow "Ryoken" (Kotare)
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
@@ -140,7 +140,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2382
 
-## Ryoken (Stormcrow) H
+## Stormcrow "Ryoken" H
 - **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
@@ -153,7 +153,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2061
 
-## Ryoken (Stormcrow) I
+## Stormcrow "Ryoken" I
 - **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 55 tons (Endo Steel)
@@ -170,7 +170,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2319
 
-## Ryoken (Stormcrow) G
+## Stormcrow "Ryoken" G
 - **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 55 tons (Endo Steel)
@@ -185,7 +185,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2152
 
-## Ryoken (Stormcrow) F
+## Stormcrow "Ryoken" F
 - **Role:** Striker
 - **Tech Base:** Clan (3069)
 - **Chassis:** 55 tons (Endo Steel)
@@ -202,7 +202,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2227
 
-## Ryoken (Stormcrow) Z
+## Stormcrow "Ryoken" Z
 - **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -219,7 +219,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2855
 
-## Ryoken (Stormcrow) J
+## Stormcrow "Ryoken" J
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
@@ -235,7 +235,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 2300
 
-## Ryoken (Stormcrow) K
+## Stormcrow "Ryoken" K
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
@@ -250,7 +250,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 2001
 
-## Ryoken (Stormcrow) P
+## Stormcrow "Ryoken" P
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
@@ -266,7 +266,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 2213
 
-## Ryoken (Stormcrow) T
+## Stormcrow "Ryoken" T
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)

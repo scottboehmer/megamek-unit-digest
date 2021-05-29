@@ -1,5 +1,5 @@
 # Kraken (Bane)
-## Kraken (Bane) (Standard)
+## Bane (Standard) "Kraken"
 - **Role:** Sniper
 - **Tech Base:** Clan (2827)
 - **Chassis:** 100 tons
@@ -14,7 +14,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1950
 
-## Kraken (Bane) 2
+## Bane 2 "Kraken"
 - **Role:** Sniper
 - **Tech Base:** Clan (3053)
 - **Chassis:** 100 tons
@@ -29,7 +29,7 @@
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** 2502
 
-## Kraken (Bane) 3
+## Bane 3 "Kraken"
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3054)
 - **Chassis:** 100 tons
@@ -44,7 +44,7 @@
 - **Source:** TRO 3055 - Clan Invasion
 - **Battle Value:** unknown
 
-## Kraken (Bane) 4
+## Bane 4 "Kraken"
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3066)
 - **Chassis:** 100 tons

@@ -1,5 +1,5 @@
 # Gladiator (Executioner)
-## Gladiator (Executioner) Prime
+## Executioner "Gladiator" Prime
 - **Role:** Sniper
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
@@ -17,7 +17,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2749
 
-## Gladiator (Executioner) A
+## Executioner "Gladiator" A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
@@ -35,7 +35,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 3112
 
-## Gladiator (Executioner) B
+## Executioner "Gladiator" B
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
@@ -54,7 +54,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2940
 
-## Gladiator (Executioner) C
+## Executioner "Gladiator" C
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
@@ -73,7 +73,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2740
 
-## Gladiator (Executioner) D
+## Executioner "Gladiator" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3001)
 - **Chassis:** 95 tons
@@ -93,7 +93,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2698
 
-## Gladiator (Executioner) TC
+## Executioner "Gladiator" TC
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 95 tons
@@ -112,7 +112,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 3363
 
-## Gladiator (Executioner) H
+## Executioner "Gladiator" H
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 95 tons
@@ -132,7 +132,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 3059
 
-## Gladiator (Executioner) E
+## Executioner "Gladiator" E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 95 tons
@@ -151,7 +151,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2988
 
-## Gladiator (Executioner) K
+## Executioner "Gladiator" K
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 95 tons
@@ -170,7 +170,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3125
 
-## Gladiator (Executioner) P
+## Executioner "Gladiator" P
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 95 tons
@@ -189,7 +189,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3052
 
-## Gladiator (Executioner) F
+## Executioner "Gladiator" F
 - **Role:** Sniper
 - **Tech Base:** Clan (3089)
 - **Chassis:** 95 tons
@@ -207,7 +207,7 @@
 - **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 3606
 
-## Gladiator (Executioner) G
+## Executioner "Gladiator" G
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3100)
 - **Chassis:** 95 tons
@@ -227,7 +227,7 @@
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 3825
 
-## Gladiator (Executioner) I
+## Executioner "Gladiator" I
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3101)
 - **Chassis:** 95 tons
@@ -247,7 +247,7 @@
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 3339
 
-## Gladiator (Executioner) J
+## Executioner "Gladiator" J
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3104)
 - **Chassis:** 95 tons
@@ -264,7 +264,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 2891
 
-## Gladiator (Executioner) L
+## Executioner "Gladiator" L
 - **Role:** Sniper
 - **Tech Base:** Clan (3119)
 - **Chassis:** 95 tons
@@ -281,7 +281,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 3132
 
-## Gladiator (Executioner) T
+## Executioner "Gladiator" T
 - **Role:** Sniper
 - **Tech Base:** Clan (3142)
 - **Chassis:** 95 tons

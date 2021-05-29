@@ -2,14 +2,14 @@
 
 ## 20 Tons
 
-### [Baboon (Howler)](../mechs/baboon_howler.md)
-- **Baboon (Howler) (Standard)** *Missile Boat (2871)*
-
-### [Dasher (Fire Moth)](../mechs/dasher_fire_moth.md)
-- **Dasher (Fire Moth)  C** *Missile Boat (2874)*
+### [Fire Moth](../mechs/fire_moth.md)
+- **Fire Moth  C** *Missile Boat (2874)*
 
 ### [Harvester Ant](../mechs/harvester_ant.md)
 - **Harvester Ant KIC-3M-B AgroMech MOD** *Missile Boat (2801)*
+
+### [Howler](../mechs/howler.md)
+- **Howler (Standard)** *Missile Boat (2871)*
 
 ### [Locust](../mechs/locust.md)
 - **Locust LCT-1M** *Missile Boat (2571)*
@@ -43,17 +43,21 @@
 - **Anubis ABS-4C** *Missile Boat (3082)* `ECM`, `Stealth`
 - **Anubis ABS-5Y** *Missile Boat (3121)* `ECM`, `Stealth`
 
+### [Arctic Cheetah](../mechs/arctic_cheetah.md)
+- **Arctic Cheetah  D** *Missile Boat (3037)*
+
 ### [Arctic Fox](../mechs/arctic_fox.md)
 - **Arctic Fox  AF1D** *Missile Boat (3059)*
 
-### [Carbine CON-9M ConstructionMech](../mechs/carbine_con-9m_constructionmech.md)
+### [Carbine](../mechs/carbine.md)
 - **Carbine CON-9M ConstructionMech MOD** *Missile Boat (3078)*
-
-### [Hankyu (Arctic Cheetah)](../mechs/hankyu_arctic_cheetah.md)
-- **Hankyu (Arctic Cheetah)  D** *Missile Boat (3037)*
 
 ### [Hellion](../mechs/hellion.md)
 - **Hellion  A** *Missile Boat (3059)*
+
+### [Kit Fox](../mechs/kit_fox.md)
+- **Kit Fox  D** *Missile Boat (2890)*
+- **Kit Fox  V** *Missile Boat (2921)*
 
 ### [Malak](../mechs/malak.md)
 - **Malak  C-MK-OE Eminus** *Missile Boat (3072)* `C3i`
@@ -63,10 +67,6 @@
 
 ### [Revenant](../mechs/revenant.md)
 - **Revenant UBM-2R2** *Missile Boat (3139)* `Drone`
-
-### [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
-- **Uller (Kit Fox)  D** *Missile Boat (2890)*
-- **Uller (Kit Fox)  V** *Missile Boat (2921)*
 
 ### [UrbanMech](../mechs/urbanmech.md)
 - **UrbanMech UM-AIV** *Missile Boat (3072)*
@@ -85,6 +85,10 @@
 
 ## 35 Tons
 
+### [Adder](../mechs/adder.md)
+- **Adder  A** *Missile Boat (3012)*
+- **Adder  C** *Missile Boat (3012)*
+
 ### [Cougar](../mechs/cougar.md)
 - **Cougar  A** *Missile Boat (3058)*
 - **Cougar XR** *Missile Boat (3071)*
@@ -97,6 +101,9 @@
 - **Garm GRM-01B** *Missile Boat (3059)*
 - **Garm GRM-01A2** *Missile Boat (3076)*
 
+### [Horned Owl](../mechs/horned_owl.md)
+- **Horned Owl 2** *Missile Boat (2856)*
+
 ### [Jenner](../mechs/jenner.md)
 - **Jenner JR7-K (Samuli)** *Missile Boat (3060)*
 - **Jenner JR7-C2** *Missile Boat (3071)* `C3 Slave`
@@ -104,13 +111,6 @@
 
 ### [Owens](../mechs/owens.md)
 - **Owens  OW-1** *Missile Boat (3056)* `Active Probe`, `C3 Slave`, `TAG`
-
-### [Peregrine (Horned Owl)](../mechs/peregrine_horned_owl.md)
-- **Peregrine (Horned Owl) 2** *Missile Boat (2856)*
-
-### [Puma (Adder)](../mechs/puma_adder.md)
-- **Puma (Adder)  A** *Missile Boat (3012)*
-- **Puma (Adder)  C** *Missile Boat (3012)*
 
 ### [Raven](../mechs/raven.md)
 - **Raven RVN-3M** *Missile Boat (3053)*
@@ -155,19 +155,19 @@
 - **Cobra CBR-02** *Missile Boat (3060)*
 - **Cobra CBR-03** *Missile Boat (3075)*
 
-### [Fenris (Ice Ferret)](../mechs/fenris_ice_ferret.md)
-- **Fenris (Ice Ferret)  C** *Missile Boat (2948)*
-
 ### [Firestarter](../mechs/firestarter.md)
 - **Firestarter  FS9-OC** *Missile Boat (3057)* `C3 Slave`
 
-### [Grendel (Mongrel)](../mechs/grendel_mongrel.md)
-- **Grendel (Mongrel)  A** *Missile Boat (3053)*
+### [Grendel](../mechs/grendel.md)
+- **Grendel  A** *Missile Boat (3053)*
 
 ### [Hellspawn](../mechs/hellspawn.md)
 - **Hellspawn HSN-7D** *Missile Boat (3062)* `ECM`
 - **Hellspawn HSN-8E** *Missile Boat (3068)* `ECM`
 - **Hellspawn HSN-10G** *Missile Boat (3076)*
+
+### [Ice Ferret](../mechs/ice_ferret.md)
+- **Ice Ferret  C** *Missile Boat (2948)*
 
 ### [Kyudo](../mechs/kyudo.md)
 - **Kyudo KY2-D-01** *Missile Boat (2443)*
@@ -193,9 +193,6 @@
 - **Avalanche  AVL-1O** *Missile Boat (3133)*
 - **Avalanche  AVL-1OR** *Missile Boat (3133)*
 
-### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
-- **Black Hawk (Nova)  D** *Missile Boat (2870)*
-
 ### [Blackjack](../mechs/blackjack.md)
 - **Blackjack  BJ2-OA** *Missile Boat (3057)*
 
@@ -212,14 +209,17 @@
 - **Hunchback HBK-4J** *Missile Boat (2856)*
 - **Hunchback HBK-5SS** *Missile Boat (3068)*
 
+### [Huntsman](../mechs/huntsman.md)
+- **Huntsman  C** *Missile Boat (3049)*
+
 ### [Huron Warrior](../mechs/huron_warrior.md)
 - **Huron Warrior HUR-WO-R4N** *Missile Boat (3063)* `ECM`, `Stealth`
 
 ### [Legionnaire](../mechs/legionnaire.md)
 - **Legionnaire LGN-2XA** *Missile Boat (3075)*
 
-### [Nobori-nin (Huntsman)](../mechs/nobori-nin_huntsman.md)
-- **Nobori-nin (Huntsman)  C** *Missile Boat (3049)*
+### [Nova](../mechs/nova.md)
+- **Nova  D** *Missile Boat (2870)*
 
 ### [Omni-Corvis](../mechs/omni-corvis.md)
 - **Omni-Corvis  B** *Missile Boat (2921)*
@@ -279,15 +279,12 @@
 - **Mad Cat III X** *Missile Boat (3076)*
 - **Mad Cat III (Standard)** *Missile Boat (3086)*
 
-### [Pariah (Septicemia)](../mechs/pariah_septicemia.md)
-- **Pariah (Septicemia)  F** *Missile Boat (3072)*
-
-### [Ryoken (Stormcrow)](../mechs/ryoken_stormcrow.md)
-- **Ryoken (Stormcrow)  D** *Missile Boat (2930)*
-
 ### [Scorpion](../mechs/scorpion.md)
 - **Scorpion SCP-12K** *Missile Boat (3071)* `C3 Master`, `TAG`
 - **Scorpion SCP-1TB** *Missile Boat (3072)*
+
+### [Septicemia](../mechs/septicemia.md)
+- **Septicemia  F** *Missile Boat (3072)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-5M** *Missile Boat (3048)*
@@ -298,6 +295,9 @@
 
 ### [Stooping Hawk](../mechs/stooping_hawk.md)
 - **Stooping Hawk  B** *Missile Boat (2970)*
+
+### [Stormcrow](../mechs/stormcrow.md)
+- **Stormcrow  D** *Missile Boat (2930)*
 
 ### [Sun Bear](../mechs/sun_bear.md)
 - **Sun Bear  B** *Missile Boat (2966)*
@@ -323,6 +323,16 @@
 ### [Lupus](../mechs/lupus.md)
 - **Lupus  Prime** *Missile Boat (2857)* `ECM`
 
+### [Mad Dog](../mechs/mad_dog.md)
+- **Mad Dog  Prime** *Missile Boat (2963)*
+- **Mad Dog  H** *Missile Boat (3059)*
+- **Mad Dog  V** *Missile Boat (3098)*
+- **Mad Dog  T** *Missile Boat (3142)*
+
+### [Mad Dog Mk III](../mechs/mad_dog_mk_iii.md)
+- **Mad Dog Mk III  (Prime)** *Missile Boat (3109)*
+- **Mad Dog Mk III  B** *Missile Boat (3109)*
+
 ### [Quickdraw](../mechs/quickdraw.md)
 - **Quickdraw QKD-5Mr** *Missile Boat (3070)* `ECM`
 
@@ -331,16 +341,6 @@
 
 ### [Super-Griffin](../mechs/super-griffin.md)
 - **Super-Griffin GRF-2N-X** *Missile Boat (3020)*
-
-### [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
-- **Vulture (Mad Dog)  Prime** *Missile Boat (2963)*
-- **Vulture (Mad Dog)  H** *Missile Boat (3059)*
-- **Vulture (Mad Dog)  V** *Missile Boat (3098)*
-- **Vulture (Mad Dog)  T** *Missile Boat (3142)*
-
-### [Vulture Mk III (Mad Dog Mk III)](../mechs/vulture_mk_iii_mad_dog_mk_iii.md)
-- **Vulture Mk III (Mad Dog Mk III)  (Prime)** *Missile Boat (3109)*
-- **Vulture Mk III (Mad Dog Mk III)  B** *Missile Boat (3109)*
 
 ### [Yeoman](../mechs/yeoman.md)
 - **Yeoman YMN-6Y** *Missile Boat (3060)*
@@ -371,9 +371,6 @@
 - **Catapult CPLT-C5A** *Missile Boat (3068)*
 - **Catapult CPLT-K6** *Missile Boat (3086)*
 
-### [Cauldron-Born (Ebon Jaguar)](../mechs/cauldron-born_ebon_jaguar.md)
-- **Cauldron-Born (Ebon Jaguar)  C** *Missile Boat (3049)*
-
 ### [Crossbow](../mechs/crossbow.md)
 - **Crossbow  Prime** *Missile Boat (2870)*
 - **Crossbow  D** *Missile Boat (3064)*
@@ -395,6 +392,9 @@
 ### [Dragon II](../mechs/dragon_ii.md)
 - **Dragon II DRG-11K** *Missile Boat (3099)*
 - **Dragon II DRG-11R** *Missile Boat (3102)*
+
+### [Ebon Jaguar](../mechs/ebon_jaguar.md)
+- **Ebon Jaguar  C** *Missile Boat (3049)*
 
 ### [Fire Scorpion](../mechs/fire_scorpion.md)
 - **Fire Scorpion 2** *Missile Boat (3060)* `Active Probe`
@@ -428,8 +428,8 @@
 - **Thunderbolt TDR-10SE** *Missile Boat (3067)* `ECM`
 - **Thunderbolt TDR-9T** *Missile Boat (3083)*
 
-### [Von Rohrs (Hebis)](../mechs/von_rohrs_hebis.md)
-- **Von Rohrs (Hebis) VON 4RH-5** *Missile Boat (2487)*
+### [Von Rohrs](../mechs/von_rohrs.md)
+- **Von Rohrs VON 4RH-5** *Missile Boat (2487)*
 
 ## 70 Tons
 
@@ -485,6 +485,9 @@
 ### [Gallant](../mechs/gallant.md)
 - **Gallant GLT-8-0** *Missile Boat (3078)*
 
+### [Grand Summoner](../mechs/grand_summoner.md)
+- **Grand Summoner  B** *Missile Boat (3093)*
+
 ### [Lumberjack](../mechs/lumberjack.md)
 - **Lumberjack LM4/P** *Missile Boat (2811)*
 - **Lumberjack LM5/M** *Missile Boat (3070)*
@@ -499,11 +502,8 @@
 - **Nova Cat  B** *Missile Boat (3059)*
 - **Nova Cat  G** *Missile Boat (3072)* `ECM`
 
-### [Thor (Summoner)](../mechs/thor_summoner.md)
-- **Thor (Summoner)  B** *Missile Boat (2872)*
-
-### [Thor II (Grand Summoner)](../mechs/thor_ii_grand_summoner.md)
-- **Thor II (Grand Summoner)  B** *Missile Boat (3093)*
+### [Summoner](../mechs/summoner.md)
+- **Summoner  B** *Missile Boat (2872)*
 
 ### [Thunder](../mechs/thunder.md)
 - **Thunder THR-3L** *Missile Boat (3066)* `ECM`, `Stealth`
@@ -523,15 +523,6 @@
 ### [Jade Hawk](../mechs/jade_hawk.md)
 - **Jade Hawk JHK-04** *Missile Boat (3135)*
 
-### [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
-- **Mad Cat (Timber Wolf)  (Pryde)** *Missile Boat (3052)*
-- **Mad Cat (Timber Wolf)  H** *Missile Boat (3059)*
-- **Mad Cat (Timber Wolf)  F** *Missile Boat (3069)*
-- **Mad Cat (Timber Wolf)  T** *Missile Boat (3142)*
-
-### [Mad Cat Mk IV (Savage Wolf)](../mechs/mad_cat_mk_iv_savage_wolf.md)
-- **Mad Cat Mk IV (Savage Wolf)  C** *Missile Boat (3136)*
-
 ### [Night Gyr](../mechs/night_gyr.md)
 - **Night Gyr  D** *Missile Boat (3052)*
 
@@ -545,9 +536,18 @@
 ### [Perseus](../mechs/perseus.md)
 - **Perseus  P1A** *Missile Boat (3058)* `ECM`, `TAG`
 
+### [Savage Wolf](../mechs/savage_wolf.md)
+- **Savage Wolf  C** *Missile Boat (3136)*
+
 ### [Shiro](../mechs/shiro.md)
 - **Shiro SH-1V** *Missile Boat (3135)* `ECM`
 - **Shiro SH-2P** *Missile Boat (3135)*
+
+### [Timber Wolf](../mechs/timber_wolf.md)
+- **Timber Wolf  (Pryde)** *Missile Boat (3052)*
+- **Timber Wolf  H** *Missile Boat (3059)*
+- **Timber Wolf  F** *Missile Boat (3069)*
+- **Timber Wolf  T** *Missile Boat (3142)*
 
 ### [Toyama](../mechs/toyama.md)
 - **Toyama TYM-1C** *Missile Boat (3072)* `C3i`
@@ -679,8 +679,8 @@
 
 ## 95 Tons
 
-### [Gladiator (Executioner)](../mechs/gladiator_executioner.md)
-- **Gladiator (Executioner)  C** *Missile Boat (3001)*
+### [Executioner](../mechs/executioner.md)
+- **Executioner  C** *Missile Boat (3001)*
 
 ### [Hauptmann](../mechs/hauptmann.md)
 - **Hauptmann  HA1-OC** *Missile Boat (3061)* `ECM`
@@ -705,6 +705,9 @@
 
 ## 100 Tons
 
+### [Bane](../mechs/bane.md)
+- **Bane 3** *Missile Boat (3054)*
+
 ### [Diomede](../mechs/diomede.md)
 - **Diomede D-M3D-3 ConstructionMech** *Missile Boat (3084)*
 - **Diomede D-M3D-4 DemolitionMech** *Missile Boat (3084)*
@@ -717,9 +720,6 @@
 
 ### [Kodiak II](../mechs/kodiak_ii.md)
 - **Kodiak II (Standard)** *Missile Boat (3095)*
-
-### [Kraken (Bane)](../mechs/kraken_bane.md)
-- **Kraken (Bane) 3** *Missile Boat (3054)*
 
 ### [Pillager](../mechs/pillager.md)
 - **Pillager PLG-5L** *Missile Boat (3068)* `ECM`

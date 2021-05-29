@@ -1,5 +1,5 @@
 # Thor (Summoner)
-## Thor (Summoner) Prime
+## Summoner "Thor" Prime
 - **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
@@ -16,7 +16,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2298
 
-## Thor (Summoner) A
+## Summoner "Thor" A
 - **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
@@ -33,7 +33,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2145
 
-## Thor (Summoner) B
+## Summoner "Thor" B
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
@@ -51,7 +51,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2159
 
-## Thor (Summoner) C
+## Summoner "Thor" C
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
@@ -69,7 +69,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2379
 
-## Thor (Summoner) D
+## Summoner "Thor" D
 - **Role:** Sniper
 - **Tech Base:** Clan (2872)
 - **Chassis:** 70 tons
@@ -88,7 +88,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2643
 
-## Thor (Summoner) M
+## Summoner "Thor" M
 - **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 70 tons
@@ -106,7 +106,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2251
 
-## Thor (Summoner) E
+## Summoner "Thor" E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
@@ -123,7 +123,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2612
 
-## Thor (Summoner) F
+## Summoner "Thor" F
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 70 tons
@@ -140,7 +140,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2186
 
-## Thor (Summoner) H
+## Summoner "Thor" H
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 70 tons
@@ -158,7 +158,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2536
 
-## Thor (Summoner) G
+## Summoner "Thor" G
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 70 tons
@@ -176,7 +176,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2452
 
-## Thor (Summoner) Q
+## Summoner "Thor" Q
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 70 tons
@@ -195,7 +195,7 @@
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2479
 
-## Thor (Summoner) HH
+## Summoner "Thor" HH
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 70 tons
@@ -214,7 +214,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2490
 
-## Thor (Summoner) Z
+## Summoner "Thor" Z
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 70 tons
@@ -232,7 +232,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2783
 
-## Thor (Summoner) U
+## Summoner "Thor" U
 - **Role:** Sniper
 - **Tech Base:** Clan (3078)
 - **Chassis:** 70 tons
@@ -249,7 +249,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 3092
 
-## Thor (Summoner) AA
+## Summoner "Thor" AA
 - **Role:** Sniper
 - **Tech Base:** Clan (3086)
 - **Chassis:** 70 tons
@@ -266,7 +266,7 @@
 - **Source:** ilClan Vol 3 - Early Republic
 - **Battle Value:** 2216
 
-## Thor (Summoner) T
+## Summoner "Thor" T
 - **Role:** Sniper
 - **Tech Base:** Clan (3142)
 - **Chassis:** 70 tons
@@ -283,7 +283,7 @@
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 2355
 
-## Thor (Summoner) J
+## Summoner "Thor" J
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3148)
 - **Chassis:** 70 tons

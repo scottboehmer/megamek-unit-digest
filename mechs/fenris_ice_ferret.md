@@ -1,5 +1,5 @@
 # Fenris (Ice Ferret)
-## Fenris (Ice Ferret) Prime
+## Ice Ferret "Fenris" Prime
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
@@ -16,7 +16,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1678
 
-## Fenris (Ice Ferret) A
+## Ice Ferret "Fenris" A
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
@@ -32,7 +32,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1323
 
-## Fenris (Ice Ferret) B
+## Ice Ferret "Fenris" B
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
@@ -49,7 +49,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1461
 
-## Fenris (Ice Ferret) C
+## Ice Ferret "Fenris" C
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
@@ -64,7 +64,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1211
 
-## Fenris (Ice Ferret) D
+## Ice Ferret "Fenris" D
 - **Role:** Striker
 - **Tech Base:** Clan (2948)
 - **Chassis:** 45 tons (Endo Steel)
@@ -79,7 +79,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1653
 
-## Fenris (Ice Ferret) E
+## Ice Ferret "Fenris" E
 - **Role:** Striker
 - **Tech Base:** Clan (3056)
 - **Chassis:** 45 tons (Endo Steel)
@@ -95,7 +95,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1483
 
-## Fenris (Ice Ferret) H
+## Ice Ferret "Fenris" H
 - **Role:** Striker
 - **Tech Base:** Clan (3061)
 - **Chassis:** 45 tons (Endo Steel)
@@ -111,7 +111,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1619
 
-## Fenris (Ice Ferret) L
+## Ice Ferret "Fenris" L
 - **Role:** Scout
 - **Tech Base:** Clan (3069)
 - **Chassis:** 45 tons (Endo Steel)
@@ -127,7 +127,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 1380
 
-## Fenris (Ice Ferret) U
+## Ice Ferret "Fenris" U
 - **Role:** Striker
 - **Tech Base:** Clan (3077)
 - **Chassis:** 45 tons (Endo Steel)
@@ -144,7 +144,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 1549
 
-## Fenris (Ice Ferret) F
+## Ice Ferret "Fenris" F
 - **Role:** Sniper
 - **Tech Base:** Clan (3084)
 - **Chassis:** 45 tons (Endo Steel)
@@ -158,7 +158,7 @@
 - **Source:** Rec Guide 4 - Early Republic
 - **Battle Value:** 1771
 
-## Fenris (Ice Ferret) G
+## Ice Ferret "Fenris" G
 - **Role:** Striker
 - **Tech Base:** Clan (3088)
 - **Chassis:** 45 tons (Endo Steel)
@@ -175,7 +175,7 @@
 - **Source:** Rec Guide 4 - Early Republic
 - **Battle Value:** 1196
 
-## Fenris (Ice Ferret) I
+## Ice Ferret "Fenris" I
 - **Role:** Scout
 - **Tech Base:** Clan Mixed (3099)
 - **Chassis:** 45 tons (Endo Steel)
@@ -192,7 +192,7 @@
 - **Source:** Rec Guide 4 - Early Republic
 - **Battle Value:** 1094
 
-## Fenris (Ice Ferret) J
+## Ice Ferret "Fenris" J
 - **Role:** Striker
 - **Tech Base:** Clan (3120)
 - **Chassis:** 45 tons (Endo Steel)
@@ -209,7 +209,7 @@
 - **Source:** Rec Guide 4 - Dark Age 
 - **Battle Value:** 1739
 
-## Fenris (Ice Ferret) K
+## Ice Ferret "Fenris" K
 - **Role:** Striker
 - **Tech Base:** Clan (3135)
 - **Chassis:** 45 tons (Endo Steel)
@@ -225,7 +225,7 @@
 - **Source:** Rec Guide 4 - Dark Age 
 - **Battle Value:** 1769
 
-## Fenris (Ice Ferret) T
+## Ice Ferret "Fenris" T
 - **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 45 tons (Endo Steel)

@@ -1,5 +1,5 @@
 # Vulture Mk IV (Mad Dog Mk IV)
-## Vulture Mk IV (Mad Dog Mk IV) Prime
+## Mad Dog Mk IV "Vulture Mk IV" Prime
 - **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
@@ -16,7 +16,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2110
 
-## Vulture Mk IV (Mad Dog Mk IV) A
+## Mad Dog Mk IV "Vulture Mk IV" A
 - **Role:** Sniper
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
@@ -33,7 +33,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2177
 
-## Vulture Mk IV (Mad Dog Mk IV) B
+## Mad Dog Mk IV "Vulture Mk IV" B
 - **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
@@ -50,7 +50,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2649
 
-## Vulture Mk IV (Mad Dog Mk IV) C
+## Mad Dog Mk IV "Vulture Mk IV" C
 - **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)
@@ -67,7 +67,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2584
 
-## Vulture Mk IV (Mad Dog Mk IV) D
+## Mad Dog Mk IV "Vulture Mk IV" D
 - **Role:** Brawler
 - **Tech Base:** Clan (3137)
 - **Chassis:** 60 tons (Endo Steel)

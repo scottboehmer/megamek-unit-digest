@@ -1,5 +1,5 @@
 # Thor II (Grand Summoner)
-## Thor II (Grand Summoner) (Prime)
+## Grand Summoner "Thor II" (Prime)
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
@@ -16,7 +16,7 @@
 - **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2554
 
-## Thor II (Grand Summoner) A
+## Grand Summoner "Thor II" A
 - **Role:** Sniper
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
@@ -34,7 +34,7 @@
 - **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2473
 
-## Thor II (Grand Summoner) B
+## Grand Summoner "Thor II" B
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
@@ -52,7 +52,7 @@
 - **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2354
 
-## Thor II (Grand Summoner) C
+## Grand Summoner "Thor II" C
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)
@@ -69,7 +69,7 @@
 - **Source:** TRO 3145 The Clans - Early Republic
 - **Battle Value:** 2351
 
-## Thor II (Grand Summoner) D
+## Grand Summoner "Thor II" D
 - **Role:** Sniper
 - **Tech Base:** Clan (3093)
 - **Chassis:** 70 tons (Endo Steel)

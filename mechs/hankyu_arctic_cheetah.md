@@ -1,5 +1,5 @@
 # Hankyu (Arctic Cheetah)
-## Hankyu (Arctic Cheetah) Prime
+## Arctic Cheetah "Hankyu" Prime
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
@@ -19,7 +19,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1334
 
-## Hankyu (Arctic Cheetah) A
+## Arctic Cheetah "Hankyu" A
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
@@ -36,7 +36,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1117
 
-## Hankyu (Arctic Cheetah) B
+## Arctic Cheetah "Hankyu" B
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
@@ -54,7 +54,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1076
 
-## Hankyu (Arctic Cheetah) C
+## Arctic Cheetah "Hankyu" C
 - **Role:** Striker
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
@@ -71,7 +71,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1840
 
-## Hankyu (Arctic Cheetah) D
+## Arctic Cheetah "Hankyu" D
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3037)
 - **Chassis:** 30 tons (Endo Steel)
@@ -87,7 +87,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1080
 
-## Hankyu (Arctic Cheetah) H
+## Arctic Cheetah "Hankyu" H
 - **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 30 tons (Endo Steel)
@@ -103,7 +103,7 @@
 - **Source:** TRO Clan Invasion - Civil War
 - **Battle Value:** 1264
 
-## Hankyu (Arctic Cheetah) E
+## Arctic Cheetah "Hankyu" E
 - **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 30 tons (Endo Steel)
@@ -122,7 +122,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 1081
 
-## Hankyu (Arctic Cheetah) F
+## Arctic Cheetah "Hankyu" F
 - **Role:** Striker
 - **Tech Base:** Clan (3093)
 - **Chassis:** 30 tons (Endo Steel)

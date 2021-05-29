@@ -31,14 +31,17 @@
 ### [Hammer](../mechs/hammer.md)
 - **Hammer HMR-3P 'Pein-Hammer'** *Brawler (3060)* `TAG`
 
+### [Kit Fox](../mechs/kit_fox.md)
+- **Kit Fox  I** *Brawler (3101)*
+
 ### [Marco](../mechs/marco.md)
 - **Marco MR-8D** *Brawler (2801)*
 - **Marco MR-8E** *Brawler (2801)*
 
-### [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
-- **Uller (Kit Fox)  I** *Brawler (3101)*
-
 ## 35 Tons
+
+### [Adder](../mechs/adder.md)
+- **Adder  H** *Brawler (3059)*
 
 ### [Cougar](../mechs/cougar.md)
 - **Cougar  C** *Brawler (3058)*
@@ -46,7 +49,7 @@
 - **Cougar  E** *Brawler (3063)*
 - **Cougar  F** *Brawler (3071)*
 
-### [Dig King RCL-1 MiningMech](../mechs/dig_king_rcl-1_miningmech.md)
+### [Dig King](../mechs/dig_king.md)
 - **Dig King RCL-1 MiningMech MOD** *Brawler (2802)*
 
 ### [Falcon Hawk](../mechs/falcon_hawk.md)
@@ -75,14 +78,9 @@
 - **Panther PNT-12K2** *Brawler (3074)*
 - **Panther PNT-12K** *Brawler (3079)*
 
-### [Powerman SC XI-M LoaderMech](../mechs/powerman_sc_xi-m_loadermech.md)
+### [Powerman](../mechs/powerman.md)
 - **Powerman SC XI-M LoaderMech MOD** *Brawler (2801)*
-
-### [Powerman SC XI-M-B LoaderMech](../mechs/powerman_sc_xi-m-b_loadermech.md)
 - **Powerman SC XI-M-B LoaderMech MOD** *Brawler (2801)*
-
-### [Puma (Adder)](../mechs/puma_adder.md)
-- **Puma (Adder)  H** *Brawler (3059)*
 
 ### [Raven X](../mechs/raven_x.md)
 - **Raven X RVN-3X** *Brawler (3078)* `Active Probe`, `ECM`
@@ -178,9 +176,9 @@
 - **Pinion 2** *Brawler (3068)*
 - **Pinion 3** *Brawler (3069)*
 
-### [Quasit MilitiaMech](../mechs/quasit_militiamech.md)
-- **Quasit MilitiaMech QUA-51T** *Brawler (2517)*
-- **Quasit MilitiaMech QUA-51M** *Brawler (3073)*
+### [Quasit](../mechs/quasit.md)
+- **Quasit QUA-51T MilitiaMech** *Brawler (2517)*
+- **Quasit QUA-51M MilitiaMech** *Brawler (3073)*
 
 ### [Snake](../mechs/snake.md)
 - **Snake SNK-2Br** *Brawler (3070)* `ECM`, `Stealth`
@@ -198,9 +196,6 @@
 - **Wyvern WVE-10N** *Brawler (3065)* `C3i`, `ECM`
 
 ## 50 Tons
-
-### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
-- **Black Hawk (Nova)  K** *Brawler (3150)*
 
 ### [Blackjack](../mechs/blackjack.md)
 - **Blackjack  BJ2-O** *Brawler (3057)*
@@ -241,8 +236,11 @@
 - **Hunchback IIC 3** *Brawler (3062)*
 - **Hunchback IIC 4** *Brawler (3075)* `ECM`
 
-### [Jabberwocky MilitiaMech](../mechs/jabberwocky_militiamech.md)
-- **Jabberwocky MilitiaMech JAW-67** *Brawler (3076)*
+### [Jabberwocky](../mechs/jabberwocky.md)
+- **Jabberwocky JAW-67 MilitiaMech** *Brawler (3076)*
+
+### [Nova](../mechs/nova.md)
+- **Nova  K** *Brawler (3150)*
 
 ### [Omni-Corvis](../mechs/omni-corvis.md)
 - **Omni-Corvis  A** *Brawler (2921)*
@@ -300,14 +298,14 @@
 ### [Marshal](../mechs/marshal.md)
 - **Marshal MHL-3MC** *Brawler (3119)*
 
-### [Pariah (Septicemia)](../mechs/pariah_septicemia.md)
-- **Pariah (Septicemia)  A-Z** *Brawler (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
-
 ### [Rook](../mechs/rook.md)
 - **Rook NH-1B** *Brawler (3075)*
 
 ### [Scorpion](../mechs/scorpion.md)
 - **Scorpion SCP-1O** *Brawler (3049)*
+
+### [Septicemia](../mechs/septicemia.md)
+- **Septicemia  A-Z** *Brawler (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-2D2** *Brawler (3049)*
@@ -339,6 +337,16 @@
 - **Lupus  C** *Brawler (3147)*
 - **Lupus  D** *Brawler (3147)*
 
+### [Mad Dog](../mechs/mad_dog.md)
+- **Mad Dog  DD** *Brawler (3050)*
+- **Mad Dog  G** *Brawler (3093)*
+
+### [Mad Dog Mk IV](../mechs/mad_dog_mk_iv.md)
+- **Mad Dog Mk IV  Prime** *Brawler (3137)*
+- **Mad Dog Mk IV  B** *Brawler (3137)*
+- **Mad Dog Mk IV  C** *Brawler (3137)*
+- **Mad Dog Mk IV  D** *Brawler (3137)*
+
 ### [Matador](../mechs/matador.md)
 - **Matador 2** *Brawler (3069)*
 
@@ -360,16 +368,6 @@
 - **Sojourner  B** *Brawler (3147)* `ECM`
 - **Sojourner  D** *Brawler (3147)*
 
-### [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
-- **Vulture (Mad Dog)  DD** *Brawler (3050)*
-- **Vulture (Mad Dog)  G** *Brawler (3093)*
-
-### [Vulture Mk IV (Mad Dog Mk IV)](../mechs/vulture_mk_iv_mad_dog_mk_iv.md)
-- **Vulture Mk IV (Mad Dog Mk IV)  Prime** *Brawler (3137)*
-- **Vulture Mk IV (Mad Dog Mk IV)  B** *Brawler (3137)*
-- **Vulture Mk IV (Mad Dog Mk IV)  C** *Brawler (3137)*
-- **Vulture Mk IV (Mad Dog Mk IV)  D** *Brawler (3137)*
-
 ## 65 Tons
 
 ### [Axman](../mechs/axman.md)
@@ -385,11 +383,15 @@
 ### [Crusader](../mechs/crusader.md)
 - **Crusader CRD-3R (Crael)** *Brawler (3040)*
 
-### [Deep Lord MilitiaMech](../mechs/deep_lord_militiamech.md)
-- **Deep Lord MilitiaMech RCL-Z1M-B** *Brawler (3118)*
+### [Deep Lord](../mechs/deep_lord.md)
+- **Deep Lord RCL-Z1M-B MilitiaMech** *Brawler (3118)*
 
 ### [Ha Otoko](../mechs/ha_otoko.md)
 - **Ha Otoko 2** *Brawler (3074)*
+
+### [Hel](../mechs/hel.md)
+- **Hel  A** *Brawler (3121)* `ECM`
+- **Hel  B** *Brawler (3121)*
 
 ### [JagerMech](../mechs/jagermech.md)
 - **JagerMech JM6-H** *Brawler (3064)*
@@ -401,10 +403,6 @@
 - **Lament LMT-3R** *Brawler (3135)*
 - **Lament LMT-4RC** *Brawler (3137)* `C3 Slave`
 - **Lament LMT-2D** *Brawler (3147)* `ECM`, `Remote Drone Command Console`
-
-### [Loki Mk II (Hel)](../mechs/loki_mk_ii_hel.md)
-- **Loki Mk II (Hel)  A** *Brawler (3121)* `ECM`
-- **Loki Mk II (Hel)  B** *Brawler (3121)*
 
 ### [Ostwar](../mechs/ostwar.md)
 - **Ostwar OWR-2Mb** *Brawler (2620)*
@@ -585,23 +583,16 @@
 - **Flashman FLS-7K** *Brawler (2796)*
 - **Flashman FLS-9M** *Brawler (3070)*
 
-### [Gotterdammerung](../mechs/gotterdammerung.md)
-- **Gotterdammerung GTD-20S** *Brawler (3138)*
+### [Götterdämmerung](../mechs/götterdämmerung.md)
+- **Götterdämmerung GTD-20S** *Brawler (3138)*
 
-### [Grommet D90 MilitiaMech](../mechs/grommet_d90_militiamech.md)
-- **Grommet D90 MilitiaMech (Standard)** *Brawler (3000)*
+### [Grommet](../mechs/grommet.md)
+- **Grommet D90 MilitiaMech** *Brawler (3000)*
 
 ### [Inferno](../mechs/inferno.md)
 - **Inferno  INF-NO** *Brawler (3146)*
 - **Inferno  INF-NOA** *Brawler (3146)*
 - **Inferno  INF-NOB** *Brawler (3146)*
-
-### [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
-- **Mad Cat (Timber Wolf)  Prime** *Brawler (2945)*
-- **Mad Cat (Timber Wolf)  N** *Brawler (3050)*
-- **Mad Cat (Timber Wolf)  (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
-- **Mad Cat (Timber Wolf)  (Bounty Hunter 2)** *Brawler (3068)*
-- **Mad Cat (Timber Wolf)  M** *Brawler (3068)*
 
 ### [Marauder](../mechs/marauder.md)
 - **Marauder MAD-3D** *Brawler (2834)*
@@ -655,6 +646,13 @@
 ### [Sphinx](../mechs/sphinx.md)
 - **Sphinx 4** *Brawler (3091)*
 
+### [Timber Wolf](../mechs/timber_wolf.md)
+- **Timber Wolf  Prime** *Brawler (2945)*
+- **Timber Wolf  N** *Brawler (3050)*
+- **Timber Wolf  (Bounty Hunter)** *Brawler (3060)* `Active Probe`, `ECM`, `TAG`
+- **Timber Wolf  (Bounty Hunter 2)** *Brawler (3068)*
+- **Timber Wolf  M** *Brawler (3068)*
+
 ### [Triskelion](../mechs/triskelion.md)
 - **Triskelion TRK-4V** *Brawler (3146)* `ECM`
 
@@ -693,6 +691,9 @@
 - **Doloire  DLR-O** *Brawler (3121)* `ECM`
 - **Doloire  DLR-OB** *Brawler (3121)*
 
+### [Gargoyle](../mechs/gargoyle.md)
+- **Gargoyle  F** *Brawler (3127)*
+
 ### [Goliath](../mechs/goliath.md)
 - **Goliath GOL-4S** *Brawler (3067)*
 - **Goliath GOL-5D** *Brawler (3067)*
@@ -722,9 +723,6 @@
 ### [Legacy](../mechs/legacy.md)
 - **Legacy LGC-03** *Brawler (3070)* `C3i`
 - **Legacy LGC-04-WVR** *Brawler (3072)* `C3i`
-
-### [Man O' War (Gargoyle)](../mechs/man_o'_war_gargoyle.md)
-- **Man O' War (Gargoyle)  F** *Brawler (3127)*
 
 ### [Rifleman II](../mechs/rifleman_ii.md)
 - **Rifleman II RFL-3N-2** *Brawler (2720)* `Active Probe`
@@ -805,10 +803,6 @@
 - **Marauder IIC 8** *Brawler (3025)*
 - **Marauder IIC 3** *Brawler (3064)*
 
-### [Masakari (Warhawk)](../mechs/masakari_warhawk.md)
-- **Masakari (Warhawk)  B** *Brawler (2999)*
-- **Masakari (Warhawk)  H** *Brawler (3059)*
-
 ### [Rampage](../mechs/rampage.md)
 - **Rampage RMP-4G (Benboudaoud)** *Brawler (2766)*
 
@@ -835,6 +829,10 @@
 - **Templar III  TLR2-OA** *Brawler (3100)*
 - **Templar III  TLR2-OC** *Brawler (3120)*
 - **Templar III  TLR2-OD** *Brawler (3120)*
+
+### [Warhawk](../mechs/warhawk.md)
+- **Warhawk  B** *Brawler (2999)*
+- **Warhawk  H** *Brawler (3059)*
 
 ## 90 Tons
 
@@ -930,9 +928,6 @@
 ### [Atlas](../mechs/atlas.md)
 - **Atlas AS7-K4** *Brawler (3098)* `ECM`
 
-### [Behemoth (Stone Rhino)](../mechs/behemoth_stone_rhino.md)
-- **Behemoth (Stone Rhino) 6** *Brawler (2999)*
-
 ### [Berserker](../mechs/berserker.md)
 - **Berserker BRZ-B3** *Brawler (3056)* `ECM`
 
@@ -955,6 +950,9 @@
 ### [Scylla](../mechs/scylla.md)
 - **Scylla 2** *Brawler (3079)*
 - **Scylla 3** *Brawler (3082)*
+
+### [Stone Rhino](../mechs/stone_rhino.md)
+- **Stone Rhino 6** *Brawler (2999)*
 
 ### [Xanthos](../mechs/xanthos.md)
 - **Xanthos XNT-7O** *Brawler (3119)*

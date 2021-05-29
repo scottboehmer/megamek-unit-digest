@@ -1,5 +1,5 @@
 # Butcherbird (Ion Sparrow)
-## Butcherbird (Ion Sparrow) Prime
+## Ion Sparrow "Butcherbird" Prime
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
@@ -16,7 +16,7 @@
   - CASE
 - **Battle Value:** 885
 
-## Butcherbird (Ion Sparrow) A
+## Ion Sparrow "Butcherbird" A
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
@@ -35,7 +35,7 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 501
 
-## Butcherbird (Ion Sparrow) B
+## Ion Sparrow "Butcherbird" B
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
@@ -52,7 +52,7 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 626
 
-## Butcherbird (Ion Sparrow) C
+## Ion Sparrow "Butcherbird" C
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)
@@ -69,7 +69,7 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 889
 
-## Butcherbird (Ion Sparrow) D
+## Ion Sparrow "Butcherbird" D
 - **Role:** Scout
 - **Tech Base:** Clan (3147)
 - **Chassis:** 20 tons (Endo Steel)

@@ -1,5 +1,5 @@
 # Hellhound (Conjurer)
-## Hellhound (Conjurer) (Standard)
+## Conjurer (Standard) "Hellhound"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2829)
 - **Chassis:** 50 tons (Endo Steel)
@@ -16,7 +16,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1813
 
-## Hellhound (Conjurer) 7
+## Conjurer 7 "Hellhound"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2836)
 - **Chassis:** 50 tons (Endo Steel)
@@ -33,7 +33,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1845
 
-## Hellhound (Conjurer) 2
+## Conjurer 2 "Hellhound"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 50 tons (Endo Steel)
@@ -50,7 +50,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2097
 
-## Hellhound (Conjurer) 3
+## Conjurer 3 "Hellhound"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3064)
 - **Chassis:** 50 tons (Endo Steel)
@@ -66,7 +66,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1764
 
-## Hellhound (Conjurer) 4
+## Conjurer 4 "Hellhound"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3065)
 - **Chassis:** 50 tons (Endo Steel)
@@ -85,7 +85,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2164
 
-## Hellhound (Conjurer) 5
+## Conjurer 5 "Hellhound"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3067)
 - **Chassis:** 50 tons (Endo Steel)
@@ -101,7 +101,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1722
 
-## Hellhound (Conjurer) 8
+## Conjurer 8 "Hellhound"
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3142)
 - **Chassis:** 50 tons (Endo Steel)

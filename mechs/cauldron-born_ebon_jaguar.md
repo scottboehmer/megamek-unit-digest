@@ -1,5 +1,5 @@
 # Cauldron-Born (Ebon Jaguar)
-## Cauldron-Born (Ebon Jaguar) Prime
+## Ebon Jaguar "Cauldron-Born" Prime
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
@@ -17,7 +17,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1952
 
-## Cauldron-Born (Ebon Jaguar) A
+## Ebon Jaguar "Cauldron-Born" A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
@@ -36,7 +36,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2429
 
-## Cauldron-Born (Ebon Jaguar) B
+## Ebon Jaguar "Cauldron-Born" B
 - **Role:** Sniper
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
@@ -53,7 +53,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2535
 
-## Cauldron-Born (Ebon Jaguar) C
+## Ebon Jaguar "Cauldron-Born" C
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3049)
 - **Chassis:** 65 tons (Endo Steel)
@@ -69,7 +69,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1831
 
-## Cauldron-Born (Ebon Jaguar) (Samantha)
+## Ebon Jaguar "Cauldron-Born" (Samantha)
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons (Endo Steel)
@@ -86,7 +86,7 @@
 - **Source:** HTP Luzerne - Clan Invasion
 - **Battle Value:** 2372
 
-## Cauldron-Born (Ebon Jaguar) D
+## Ebon Jaguar "Cauldron-Born" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons (Endo Steel)
@@ -102,7 +102,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2228
 
-## Cauldron-Born (Ebon Jaguar) H
+## Ebon Jaguar "Cauldron-Born" H
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 65 tons (Endo Steel)
@@ -120,7 +120,7 @@
 - **Source:** TRO Clan Invasion - Civil War
 - **Battle Value:** 2359
 
-## Cauldron-Born (Ebon Jaguar) E
+## Ebon Jaguar "Cauldron-Born" E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons (Endo Steel)
@@ -137,7 +137,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2391
 
-## Cauldron-Born (Ebon Jaguar) X
+## Ebon Jaguar "Cauldron-Born" X
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3075)
 - **Chassis:** 65 tons (Endo Steel)
@@ -155,7 +155,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2435
 
-## Cauldron-Born (Ebon Jaguar) U
+## Ebon Jaguar "Cauldron-Born" U
 - **Role:** Sniper
 - **Tech Base:** Clan (3077)
 - **Chassis:** 65 tons (Endo Steel)

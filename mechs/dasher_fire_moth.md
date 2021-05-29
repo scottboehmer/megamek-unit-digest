@@ -1,5 +1,5 @@
 # Dasher (Fire Moth)
-## Dasher (Fire Moth) Prime
+## Fire Moth "Dasher" Prime
 - **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
@@ -16,7 +16,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1251
 
-## Dasher (Fire Moth) A
+## Fire Moth "Dasher" A
 - **Role:** Scout
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
@@ -34,7 +34,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 639
 
-## Dasher (Fire Moth) B
+## Fire Moth "Dasher" B
 - **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
@@ -52,7 +52,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1064
 
-## Dasher (Fire Moth) C
+## Fire Moth "Dasher" C
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
@@ -68,7 +68,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 741
 
-## Dasher (Fire Moth) D
+## Fire Moth "Dasher" D
 - **Role:** Striker
 - **Tech Base:** Clan (2874)
 - **Chassis:** 20 tons (Endo Steel)
@@ -84,7 +84,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2307
 
-## Dasher (Fire Moth) E
+## Fire Moth "Dasher" E
 - **Role:** Scout
 - **Tech Base:** Clan (3055)
 - **Chassis:** 20 tons (Endo Steel)
@@ -99,7 +99,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 822
 
-## Dasher (Fire Moth) H
+## Fire Moth "Dasher" H
 - **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 20 tons (Endo Steel)
@@ -114,7 +114,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 779
 
-## Dasher (Fire Moth) (Aletha)
+## Fire Moth "Dasher" (Aletha)
 - **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 20 tons (Endo Steel)
@@ -129,7 +129,7 @@
   - MASC
 - **Battle Value:** 1388
 
-## Dasher (Fire Moth) F
+## Fire Moth "Dasher" F
 - **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 20 tons (Endo Steel)
@@ -146,7 +146,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1461
 
-## Dasher (Fire Moth) K
+## Fire Moth "Dasher" K
 - **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 20 tons (Endo Steel)
@@ -164,7 +164,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 884
 
-## Dasher (Fire Moth) G
+## Fire Moth "Dasher" G
 - **Role:** Striker
 - **Tech Base:** Clan (3098)
 - **Chassis:** 20 tons (Endo Steel)
@@ -181,7 +181,7 @@
 - **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2040
 
-## Dasher (Fire Moth) M
+## Fire Moth "Dasher" M
 - **Role:** Undefined
 - **Tech Base:** Clan (3110)
 - **Chassis:** 20 tons (Endo Steel)
@@ -197,7 +197,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1200
 
-## Dasher (Fire Moth) R
+## Fire Moth "Dasher" R
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3110)
 - **Chassis:** 20 tons (Endo Steel)
@@ -216,7 +216,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1160
 
-## Dasher (Fire Moth) P
+## Fire Moth "Dasher" P
 - **Role:** Undefined
 - **Tech Base:** Clan (3132)
 - **Chassis:** 20 tons (Endo Steel)
@@ -231,7 +231,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 841
 
-## Dasher (Fire Moth) I
+## Fire Moth "Dasher" I
 - **Role:** Undefined
 - **Tech Base:** Clan (3139)
 - **Chassis:** 20 tons (Endo Steel)
@@ -248,7 +248,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1260
 
-## Dasher (Fire Moth) T
+## Fire Moth "Dasher" T
 - **Role:** Undefined
 - **Tech Base:** Clan (3142)
 - **Chassis:** 20 tons (Endo Steel)
@@ -266,7 +266,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1305
 
-## Dasher (Fire Moth) J
+## Fire Moth "Dasher" J
 - **Role:** Undefined
 - **Tech Base:** Clan (3145)
 - **Chassis:** 20 tons (Endo Steel)

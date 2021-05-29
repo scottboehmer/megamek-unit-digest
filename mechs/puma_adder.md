@@ -1,5 +1,5 @@
 # Puma (Adder)
-## Puma (Adder) Prime
+## Adder "Puma" Prime
 - **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
@@ -14,7 +14,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2083
 
-## Puma (Adder) B
+## Adder "Puma" B
 - **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
@@ -31,7 +31,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1422
 
-## Puma (Adder) D
+## Adder "Puma" D
 - **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 35 tons (Endo Steel)
@@ -48,7 +48,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1255
 
-## Puma (Adder) A
+## Adder "Puma" A
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3012)
 - **Chassis:** 35 tons (Endo Steel)
@@ -64,7 +64,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1437
 
-## Puma (Adder) C
+## Adder "Puma" C
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3012)
 - **Chassis:** 35 tons (Endo Steel)
@@ -81,7 +81,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1372
 
-## Puma (Adder) S
+## Adder "Puma" S
 - **Role:** Scout
 - **Tech Base:** Clan (3050)
 - **Chassis:** 35 tons (Endo Steel)
@@ -99,7 +99,7 @@
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1427
 
-## Puma (Adder) TC
+## Adder "Puma" TC
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 35 tons (Endo Steel)
@@ -119,7 +119,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 1247
 
-## Puma (Adder) H
+## Adder "Puma" H
 - **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 35 tons (Endo Steel)
@@ -134,7 +134,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1453
 
-## Puma (Adder) E
+## Adder "Puma" E
 - **Role:** Sniper
 - **Tech Base:** Clan (3060)
 - **Chassis:** 35 tons (Endo Steel)
@@ -150,7 +150,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1272
 
-## Puma (Adder) J
+## Adder "Puma" J
 - **Role:** Sniper
 - **Tech Base:** Clan (3070)
 - **Chassis:** 35 tons (Endo Steel)
@@ -166,7 +166,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1222
 
-## Puma (Adder) I
+## Adder "Puma" I
 - **Role:** Striker
 - **Tech Base:** Clan (3125)
 - **Chassis:** 35 tons (Endo Steel)
@@ -183,7 +183,7 @@
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1575
 
-## Puma (Adder) K
+## Adder "Puma" K
 - **Role:** Sniper
 - **Tech Base:** Clan (3125)
 - **Chassis:** 35 tons (Endo Steel)
@@ -200,7 +200,7 @@
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1281
 
-## Puma (Adder) T
+## Adder "Puma" T
 - **Role:** Sniper
 - **Tech Base:** Clan Mixed (3142)
 - **Chassis:** 35 tons (Endo Steel)
@@ -215,7 +215,7 @@
 - **Source:** ilClan Vol 3 - Dark Age
 - **Battle Value:** 1765
 
-## Puma (Adder) L
+## Adder "Puma" L
 - **Role:** Striker
 - **Tech Base:** Clan (3147)
 - **Chassis:** 35 tons (Endo Steel)

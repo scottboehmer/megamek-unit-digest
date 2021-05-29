@@ -1,5 +1,5 @@
 # Koshi (Mist Lynx)
-## Koshi (Mist Lynx) Prime
+## Mist Lynx "Koshi" Prime
 - **Role:** Scout
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
@@ -17,7 +17,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 871
 
-## Koshi (Mist Lynx) A
+## Mist Lynx "Koshi" A
 - **Role:** Scout
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
@@ -37,7 +37,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 608
 
-## Koshi (Mist Lynx) B
+## Mist Lynx "Koshi" B
 - **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
@@ -55,7 +55,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1209
 
-## Koshi (Mist Lynx) C
+## Mist Lynx "Koshi" C
 - **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
@@ -74,7 +74,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1320
 
-## Koshi (Mist Lynx) D
+## Mist Lynx "Koshi" D
 - **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 25 tons (Endo Steel)
@@ -92,7 +92,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 842
 
-## Koshi (Mist Lynx) E
+## Mist Lynx "Koshi" E
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 25 tons (Endo Steel)
@@ -109,7 +109,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 997
 
-## Koshi (Mist Lynx) H
+## Mist Lynx "Koshi" H
 - **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 25 tons (Endo Steel)
@@ -128,7 +128,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 982
 
-## Koshi (Mist Lynx) P
+## Mist Lynx "Koshi" P
 - **Role:** Scout
 - **Tech Base:** Clan (3061)
 - **Chassis:** 25 tons (Endo Steel)
@@ -145,7 +145,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1064
 
-## Koshi (Mist Lynx) F
+## Mist Lynx "Koshi" F
 - **Role:** Scout
 - **Tech Base:** Clan (3063)
 - **Chassis:** 25 tons (Endo Steel)
@@ -164,7 +164,7 @@
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1173
 
-## Koshi (Mist Lynx) G
+## Mist Lynx "Koshi" G
 - **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 25 tons (Endo Steel)
@@ -182,7 +182,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 834
 
-## Koshi (Mist Lynx) Z
+## Mist Lynx "Koshi" Z
 - **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 25 tons (Endo Steel)
@@ -200,7 +200,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 970
 
-## Koshi (Mist Lynx) I
+## Mist Lynx "Koshi" I
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3086)
 - **Chassis:** 25 tons (Endo Steel)
@@ -217,7 +217,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 689
 
-## Koshi (Mist Lynx) J
+## Mist Lynx "Koshi" J
 - **Role:** Undefined
 - **Tech Base:** Clan (3107)
 - **Chassis:** 25 tons (Endo Steel)
@@ -234,7 +234,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1704
 
-## Koshi (Mist Lynx) K
+## Mist Lynx "Koshi" K
 - **Role:** Undefined
 - **Tech Base:** Clan (3112)
 - **Chassis:** 25 tons (Endo Steel)
@@ -251,7 +251,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 976
 
-## Koshi (Mist Lynx) L
+## Mist Lynx "Koshi" L
 - **Role:** Undefined
 - **Tech Base:** Clan (3124)
 - **Chassis:** 25 tons (Endo Steel)
@@ -270,7 +270,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 901
 
-## Koshi (Mist Lynx) N
+## Mist Lynx "Koshi" N
 - **Role:** Undefined
 - **Tech Base:** Clan (3139)
 - **Chassis:** 25 tons (Endo Steel)
@@ -289,7 +289,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 976
 
-## Koshi (Mist Lynx) M
+## Mist Lynx "Koshi" M
 - **Role:** Undefined
 - **Tech Base:** Clan (3140)
 - **Chassis:** 25 tons (Endo Steel)
@@ -307,7 +307,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 961
 
-## Koshi (Mist Lynx) T
+## Mist Lynx "Koshi" T
 - **Role:** Undefined
 - **Tech Base:** Clan (3142)
 - **Chassis:** 25 tons (Endo Steel)

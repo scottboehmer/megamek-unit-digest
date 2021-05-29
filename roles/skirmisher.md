@@ -76,8 +76,8 @@
 - **Volkh VKH-1** *Skirmisher (3063)*
 - **Volkh VKH-7** *Skirmisher (3066)*
 
-### [Wolf Trap (Tora)](../mechs/wolf_trap_tora.md)
-- **Wolf Trap (Tora) WFT-2X 'Bear Trap'** *Skirmisher (3075)*
+### [Wolf Trap](../mechs/wolf_trap.md)
+- **Wolf Trap WFT-2X** *Skirmisher (3075)*
 
 ### [Wyvern](../mechs/wyvern.md)
 - **Wyvern WVE-6N** *Skirmisher (2821)*
@@ -98,18 +98,6 @@
 - **Black Hawk 2** *Skirmisher (3092)*
 - **Black Hawk 3** *Skirmisher (3092)*
 
-### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
-- **Black Hawk (Nova)  Prime** *Skirmisher (2870)*
-- **Black Hawk (Nova)  S** *Skirmisher (3050)* `Active Probe`
-- **Black Hawk (Nova)  E** *Skirmisher (3054)*
-- **Black Hawk (Nova)  H** *Skirmisher (3059)*
-- **Black Hawk (Nova)  F** *Skirmisher (3068)*
-- **Black Hawk (Nova)  I** *Skirmisher (3094)*
-- **Black Hawk (Nova)  G** *Skirmisher (3150)*
-- **Black Hawk (Nova)  J** *Skirmisher (3150)*
-- **Black Hawk (Nova)  L** *Skirmisher (3150)*
-- **Black Hawk (Nova)  R** *Skirmisher (3150)*
-
 ### [Blitzkrieg](../mechs/blitzkrieg.md)
 - **Blitzkrieg BTZ-4F** *Skirmisher (3074)* `C3 Slave`
 
@@ -122,6 +110,15 @@
 - **Centurion CN9-D4D** *Skirmisher (3066)*
 - **Centurion CN9-D9** *Skirmisher (3071)*
 - **Centurion  CN11-OC** *Skirmisher (3111)* `C3 Slave`, `ECM`
+
+### [Conjurer](../mechs/conjurer.md)
+- **Conjurer (Standard)** *Skirmisher (2829)*
+- **Conjurer 7** *Skirmisher (2836)*
+- **Conjurer 2** *Skirmisher (3062)*
+- **Conjurer 3** *Skirmisher (3064)*
+- **Conjurer 4** *Skirmisher (3065)*
+- **Conjurer 5** *Skirmisher (3067)*
+- **Conjurer 8** *Skirmisher (3142)*
 
 ### [Crab](../mechs/crab.md)
 - **Crab CRB-27** *Skirmisher (2719)*
@@ -151,14 +148,15 @@
 ### [Firestorm](../mechs/firestorm.md)
 - **Firestorm (Standard)** *Skirmisher (3145)*
 
-### [Hellhound (Conjurer)](../mechs/hellhound_conjurer.md)
-- **Hellhound (Conjurer) (Standard)** *Skirmisher (2829)*
-- **Hellhound (Conjurer) 7** *Skirmisher (2836)*
-- **Hellhound (Conjurer) 2** *Skirmisher (3062)*
-- **Hellhound (Conjurer) 3** *Skirmisher (3064)*
-- **Hellhound (Conjurer) 4** *Skirmisher (3065)*
-- **Hellhound (Conjurer) 5** *Skirmisher (3067)*
-- **Hellhound (Conjurer) 8** *Skirmisher (3142)*
+### [Huntsman](../mechs/huntsman.md)
+- **Huntsman  Prime** *Skirmisher (3049)* `Active Probe`, `TAG`
+- **Huntsman  B** *Skirmisher (3049)*
+- **Huntsman  D** *Skirmisher (3061)*
+- **Huntsman  H** *Skirmisher (3063)* `Active Probe`, `ECM`
+- **Huntsman  E** *Skirmisher (3070)* `Active Probe`, `TAG`
+- **Huntsman  F** *Skirmisher (3132)*
+- **Huntsman  G** *Skirmisher (3139)* `Active Probe`
+- **Huntsman  T** *Skirmisher (3142)*
 
 ### [Huron Warrior](../mechs/huron_warrior.md)
 - **Huron Warrior HUR-WO-R4L** *Skirmisher (3055)*
@@ -166,15 +164,17 @@
 - **Huron Warrior HUR-WO-R4O** *Skirmisher (3065)*
 - **Huron Warrior HUR-WO-RX4** *Skirmisher (3076)*
 
-### [Nobori-nin (Huntsman)](../mechs/nobori-nin_huntsman.md)
-- **Nobori-nin (Huntsman)  Prime** *Skirmisher (3049)* `Active Probe`, `TAG`
-- **Nobori-nin (Huntsman)  B** *Skirmisher (3049)*
-- **Nobori-nin (Huntsman)  D** *Skirmisher (3061)*
-- **Nobori-nin (Huntsman)  H** *Skirmisher (3063)* `Active Probe`, `ECM`
-- **Nobori-nin (Huntsman)  E** *Skirmisher (3070)* `Active Probe`, `TAG`
-- **Nobori-nin (Huntsman)  F** *Skirmisher (3132)*
-- **Nobori-nin (Huntsman)  G** *Skirmisher (3139)* `Active Probe`
-- **Nobori-nin (Huntsman)  T** *Skirmisher (3142)*
+### [Nova](../mechs/nova.md)
+- **Nova  Prime** *Skirmisher (2870)*
+- **Nova  S** *Skirmisher (3050)* `Active Probe`
+- **Nova  E** *Skirmisher (3054)*
+- **Nova  H** *Skirmisher (3059)*
+- **Nova  F** *Skirmisher (3068)*
+- **Nova  I** *Skirmisher (3094)*
+- **Nova  G** *Skirmisher (3150)*
+- **Nova  J** *Skirmisher (3150)*
+- **Nova  L** *Skirmisher (3150)*
+- **Nova  R** *Skirmisher (3150)*
 
 ### [Phoenix](../mechs/phoenix.md)
 - **Phoenix PX-3R** *Skirmisher (2520)*
@@ -286,15 +286,6 @@
 - **Gladiator (Keller)** *Skirmisher (3071)* `C3i`
 - **Gladiator GLD-5R** *Skirmisher (3075)* `C3 Slave`, `ECM`
 
-### [Goshawk (Vapor Eagle)](../mechs/goshawk_vapor_eagle.md)
-- **Goshawk (Vapor Eagle) 6** *Skirmisher (2840)*
-- **Goshawk (Vapor Eagle) (Standard)** *Skirmisher (2863)*
-- **Goshawk (Vapor Eagle) 2** *Skirmisher (2912)*
-- **Goshawk (Vapor Eagle) 5** *Skirmisher (2922)*
-- **Goshawk (Vapor Eagle) 3** *Skirmisher (3062)*
-- **Goshawk (Vapor Eagle) 4** *Skirmisher (3066)*
-- **Goshawk (Vapor Eagle) 7** *Skirmisher (3136)*
-
 ### [Griffin](../mechs/griffin.md)
 - **Griffin GRF-2N** *Skirmisher (2751)* `ECM`
 - **Griffin GRF-1S** *Skirmisher (2857)*
@@ -361,17 +352,6 @@
 - **Osprey OSP-26** *Skirmisher (3076)* `Active Probe`
 - **Osprey OSP-26 (Lawrence)** *Skirmisher (3085)* `Active Probe`, `C3 Slave`
 
-### [Pariah (Septicemia)](../mechs/pariah_septicemia.md)
-- **Pariah (Septicemia)  B** *Skirmisher (3072)*
-- **Pariah (Septicemia)  B-Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
-- **Pariah (Septicemia)  C** *Skirmisher (3072)*
-- **Pariah (Septicemia)  C-Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
-- **Pariah (Septicemia)  D** *Skirmisher (3072)*
-- **Pariah (Septicemia)  D-Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
-- **Pariah (Septicemia)  E** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
-- **Pariah (Septicemia)  US** *Skirmisher (3072)* `ECM`
-- **Pariah (Septicemia)  UW** *Skirmisher (3072)*
-
 ### [Prowler](../mechs/prowler.md)
 - **Prowler PWR-1X** *Skirmisher (3068)*
 - **Prowler PWR-1X1** *Skirmisher (3068)*
@@ -386,14 +366,22 @@
 ### [Rook](../mechs/rook.md)
 - **Rook NH-2** *Skirmisher (3076)*
 
-### [Ryoken (Stormcrow)](../mechs/ryoken_stormcrow.md)
-- **Ryoken (Stormcrow)  (Kotare)** *Skirmisher (3059)*
-
 ### [Scorpion](../mechs/scorpion.md)
 - **Scorpion SCP-1N** *Skirmisher (2570)*
 - **Scorpion SCP-1N (Wendall)** *Skirmisher (3030)*
 - **Scorpion SCP-12S** *Skirmisher (3066)*
 - **Scorpion SCP-12C** *Skirmisher (3067)* `C3i`
+
+### [Septicemia](../mechs/septicemia.md)
+- **Septicemia  B** *Skirmisher (3072)*
+- **Septicemia  B-Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
+- **Septicemia  C** *Skirmisher (3072)*
+- **Septicemia  C-Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
+- **Septicemia  D** *Skirmisher (3072)*
+- **Septicemia  D-Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
+- **Septicemia  E** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
+- **Septicemia  US** *Skirmisher (3072)* `ECM`
+- **Septicemia  UW** *Skirmisher (3072)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-2H** *Skirmisher (2550)*
@@ -414,11 +402,23 @@
 - **Stooping Hawk  E** *Skirmisher (3061)*
 - **Stooping Hawk  G** *Skirmisher (3073)*
 
+### [Stormcrow](../mechs/stormcrow.md)
+- **Stormcrow  (Kotare)** *Skirmisher (3059)*
+
 ### [Sun Bear](../mechs/sun_bear.md)
 - **Sun Bear  A** *Skirmisher (2966)*
 
 ### [Thunder Fox](../mechs/thunder_fox.md)
 - **Thunder Fox TFT-L8** *Skirmisher (3082)*
+
+### [Vapor Eagle](../mechs/vapor_eagle.md)
+- **Vapor Eagle 6** *Skirmisher (2840)*
+- **Vapor Eagle (Standard)** *Skirmisher (2863)*
+- **Vapor Eagle 2** *Skirmisher (2912)*
+- **Vapor Eagle 5** *Skirmisher (2922)*
+- **Vapor Eagle 3** *Skirmisher (3062)*
+- **Vapor Eagle 4** *Skirmisher (3066)*
+- **Vapor Eagle 7** *Skirmisher (3136)*
 
 ### [Waneta](../mechs/waneta.md)
 - **Waneta S-WN-2LAM** *Skirmisher (3078)*
@@ -545,6 +545,19 @@
 - **Lupus  A** *Skirmisher (2857)*
 - **Lupus  B** *Skirmisher (2857)*
 
+### [Mad Dog](../mechs/mad_dog.md)
+- **Mad Dog  A** *Skirmisher (2963)*
+- **Mad Dog  B** *Skirmisher (2963)*
+- **Mad Dog  S** *Skirmisher (3052)* `Active Probe`
+- **Mad Dog  D** *Skirmisher (3054)*
+- **Mad Dog  F** *Skirmisher (3069)*
+- **Mad Dog  U** *Skirmisher (3077)*
+
+### [Mad Dog Mk III](../mechs/mad_dog_mk_iii.md)
+- **Mad Dog Mk III  A** *Skirmisher (3109)*
+- **Mad Dog Mk III  C** *Skirmisher (3109)*
+- **Mad Dog Mk III  D** *Skirmisher (3109)*
+
 ### [Merlin](../mechs/merlin.md)
 - **Merlin MLN-1B (Porter)** *Skirmisher (3064)*
 - **Merlin MLN-SX** *Skirmisher (3075)*
@@ -636,19 +649,6 @@
 ### [Vulpes](../mechs/vulpes.md)
 - **Vulpes VLP-1D** *Skirmisher (3133)* `ECM`, `Stealth`
 
-### [Vulture (Mad Dog)](../mechs/vulture_mad_dog.md)
-- **Vulture (Mad Dog)  A** *Skirmisher (2963)*
-- **Vulture (Mad Dog)  B** *Skirmisher (2963)*
-- **Vulture (Mad Dog)  S** *Skirmisher (3052)* `Active Probe`
-- **Vulture (Mad Dog)  D** *Skirmisher (3054)*
-- **Vulture (Mad Dog)  F** *Skirmisher (3069)*
-- **Vulture (Mad Dog)  U** *Skirmisher (3077)*
-
-### [Vulture Mk III (Mad Dog Mk III)](../mechs/vulture_mk_iii_mad_dog_mk_iii.md)
-- **Vulture Mk III (Mad Dog Mk III)  A** *Skirmisher (3109)*
-- **Vulture Mk III (Mad Dog Mk III)  C** *Skirmisher (3109)*
-- **Vulture Mk III (Mad Dog Mk III)  D** *Skirmisher (3109)*
-
 ## 65 Tons
 
 ### [Arcas](../mechs/arcas.md)
@@ -675,15 +675,6 @@
 - **Catapult CPLT-H2** *Skirmisher (3064)*
 - **Catapult CPLT-C6** *Skirmisher (3069)*
 
-### [Cauldron-Born (Ebon Jaguar)](../mechs/cauldron-born_ebon_jaguar.md)
-- **Cauldron-Born (Ebon Jaguar)  Prime** *Skirmisher (3049)*
-- **Cauldron-Born (Ebon Jaguar)  A** *Skirmisher (3049)*
-- **Cauldron-Born (Ebon Jaguar)  (Samantha)** *Skirmisher (3059)*
-- **Cauldron-Born (Ebon Jaguar)  D** *Skirmisher (3059)*
-- **Cauldron-Born (Ebon Jaguar)  H** *Skirmisher (3062)*
-- **Cauldron-Born (Ebon Jaguar)  E** *Skirmisher (3069)*
-- **Cauldron-Born (Ebon Jaguar)  X** *Skirmisher (3075)* `ECM`
-
 ### [Crossbow](../mechs/crossbow.md)
 - **Crossbow  A** *Skirmisher (2870)*
 - **Crossbow  B** *Skirmisher (2870)*
@@ -702,6 +693,15 @@
 ### [Dominator](../mechs/dominator.md)
 - **Dominator (Standard)** *Skirmisher (3148)*
 
+### [Ebon Jaguar](../mechs/ebon_jaguar.md)
+- **Ebon Jaguar  Prime** *Skirmisher (3049)*
+- **Ebon Jaguar  A** *Skirmisher (3049)*
+- **Ebon Jaguar  (Samantha)** *Skirmisher (3059)*
+- **Ebon Jaguar  D** *Skirmisher (3059)*
+- **Ebon Jaguar  H** *Skirmisher (3062)*
+- **Ebon Jaguar  E** *Skirmisher (3069)*
+- **Ebon Jaguar  X** *Skirmisher (3075)* `ECM`
+
 ### [Exterminator](../mechs/exterminator.md)
 - **Exterminator EXT-4C** *Skirmisher (2630)* `Stealth`
 - **Exterminator EXT-4D** *Skirmisher (2630)*
@@ -716,6 +716,9 @@
 
 ### [Fire Scorpion](../mechs/fire_scorpion.md)
 - **Fire Scorpion 3** *Skirmisher (3071)* `Active Probe`
+
+### [Hellbringer](../mechs/hellbringer.md)
+- **Hellbringer  G** *Skirmisher (3112)*
 
 ### [JagerMech III](../mechs/jagermech_iii.md)
 - **JagerMech III JM6-D4** *Skirmisher (3073)*
@@ -750,9 +753,6 @@
 - **Linebacker  F** *Skirmisher (3068)*
 - **Linebacker  G** *Skirmisher (3114)*
 - **Linebacker  T** *Skirmisher (3142)* `Active Probe`
-
-### [Loki (Hellbringer)](../mechs/loki_hellbringer.md)
-- **Loki (Hellbringer)  G** *Skirmisher (3112)*
 
 ### [Morpheus](../mechs/morpheus.md)
 - **Morpheus MRP-3S** *Skirmisher (3062)* `ECM`
@@ -797,8 +797,8 @@
 - **Verfolger VR6-C** *Skirmisher (3068)*
 - **Verfolger VR6-T** *Skirmisher (3082)*
 
-### [Von Rohrs (Hebis)](../mechs/von_rohrs_hebis.md)
-- **Von Rohrs (Hebis) VON 4RH-6** *Skirmisher (2510)*
+### [Von Rohrs](../mechs/von_rohrs.md)
+- **Von Rohrs VON 4RH-6** *Skirmisher (2510)*
 
 ### [Wildfire](../mechs/wildfire.md)
 - **Wildfire P1-WF** *Skirmisher (3053)*
@@ -860,6 +860,10 @@
 ### [Gallowglas](../mechs/gallowglas.md)
 - **Gallowglas WD** *Skirmisher (3055)*
 
+### [Grand Summoner](../mechs/grand_summoner.md)
+- **Grand Summoner  (Prime)** *Skirmisher (3093)*
+- **Grand Summoner  C** *Skirmisher (3093)*
+
 ### [Grasshopper](../mechs/grasshopper.md)
 - **Grasshopper GHR-5H** *Skirmisher (2780)*
 - **Grasshopper GHR-5N** *Skirmisher (3040)*
@@ -909,20 +913,16 @@
 - **Nova Cat  F** *Skirmisher (3070)* `ECM`
 - **Nova Cat  H** *Skirmisher (3099)*
 
-### [Thor (Summoner)](../mechs/thor_summoner.md)
-- **Thor (Summoner)  C** *Skirmisher (2872)*
-- **Thor (Summoner)  E** *Skirmisher (3054)*
-- **Thor (Summoner)  F** *Skirmisher (3054)*
-- **Thor (Summoner)  H** *Skirmisher (3059)*
-- **Thor (Summoner)  G** *Skirmisher (3068)*
-- **Thor (Summoner)  Q** *Skirmisher (3069)*
-- **Thor (Summoner)  HH** *Skirmisher (3070)*
-- **Thor (Summoner)  Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
-- **Thor (Summoner)  J** *Skirmisher (3148)* `Active Probe`
-
-### [Thor II (Grand Summoner)](../mechs/thor_ii_grand_summoner.md)
-- **Thor II (Grand Summoner)  (Prime)** *Skirmisher (3093)*
-- **Thor II (Grand Summoner)  C** *Skirmisher (3093)*
+### [Summoner](../mechs/summoner.md)
+- **Summoner  C** *Skirmisher (2872)*
+- **Summoner  E** *Skirmisher (3054)*
+- **Summoner  F** *Skirmisher (3054)*
+- **Summoner  H** *Skirmisher (3059)*
+- **Summoner  G** *Skirmisher (3068)*
+- **Summoner  Q** *Skirmisher (3069)*
+- **Summoner  HH** *Skirmisher (3070)*
+- **Summoner  Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
+- **Summoner  J** *Skirmisher (3148)* `Active Probe`
 
 ### [Thunder](../mechs/thunder.md)
 - **Thunder THR-1L** *Skirmisher (3055)*
@@ -945,6 +945,13 @@
 - **White Flame WHF-4C** *Skirmisher (3077)* `C3i`, `TAG`
 
 ## 75 Tons
+
+### [Black Python](../mechs/black_python.md)
+- **Black Python (Standard)** *Skirmisher (3051)*
+- **Black Python 2** *Skirmisher (3052)* `ECM`
+- **Black Python 5** *Skirmisher (3055)*
+- **Black Python 3** *Skirmisher (3066)*
+- **Black Python 4** *Skirmisher (3067)*
 
 ### [Cave Lion](../mechs/cave_lion.md)
 - **Cave Lion (Standard)** *Skirmisher (3122)* `ECM`
@@ -974,19 +981,6 @@
 - **Lao Hu LHU-2B** *Skirmisher (3062)*
 - **Lao Hu LHU-3B** *Skirmisher (3063)* `C3 Master`, `TAG`
 - **Lao Hu LHU-3L** *Skirmisher (3069)*
-
-### [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
-- **Mad Cat (Timber Wolf)  A** *Skirmisher (2945)*
-- **Mad Cat (Timber Wolf)  D** *Skirmisher (2945)*
-- **Mad Cat (Timber Wolf)  S** *Skirmisher (3050)*
-- **Mad Cat (Timber Wolf)  Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
-
-### [Mad Cat Mk IV (Savage Wolf)](../mechs/mad_cat_mk_iv_savage_wolf.md)
-- **Mad Cat Mk IV (Savage Wolf) PR (Standard)** *Skirmisher (3130)*
-- **Mad Cat Mk IV (Savage Wolf) PR 2** *Skirmisher (3131)*
-- **Mad Cat Mk IV (Savage Wolf)  (Prime)** *Skirmisher (3136)*
-- **Mad Cat Mk IV (Savage Wolf)  A** *Skirmisher (3136)*
-- **Mad Cat Mk IV (Savage Wolf)  B** *Skirmisher (3136)*
 
 ### [Maelstrom](../mechs/maelstrom.md)
 - **Maelstrom MTR-5K** *Skirmisher (3056)* `TAG`
@@ -1036,6 +1030,13 @@
 - **Rakshasa MDG-2A** *Skirmisher (3064)*
 - **Rakshasa MDG-1Ar** *Skirmisher (3076)*
 
+### [Savage Wolf](../mechs/savage_wolf.md)
+- **Savage Wolf PR** *Skirmisher (3130)*
+- **Savage Wolf PR 2** *Skirmisher (3131)*
+- **Savage Wolf  (Prime)** *Skirmisher (3136)*
+- **Savage Wolf  A** *Skirmisher (3136)*
+- **Savage Wolf  B** *Skirmisher (3136)*
+
 ### [Sphinx](../mechs/sphinx.md)
 - **Sphinx (Standard)** *Skirmisher (3078)*
 - **Sphinx 2** *Skirmisher (3080)*
@@ -1047,12 +1048,11 @@
 - **Thanatos TNS-4S (Felix)** *Skirmisher (3063)* `ECM`
 - **Thanatos TNS-6S** *Skirmisher (3081)* `C3 Slave`
 
-### [Viper (Black Python)](../mechs/viper_black_python.md)
-- **Viper (Black Python) (Standard)** *Skirmisher (3051)*
-- **Viper (Black Python) 2** *Skirmisher (3052)* `ECM`
-- **Viper (Black Python) 5** *Skirmisher (3055)*
-- **Viper (Black Python) 3** *Skirmisher (3066)*
-- **Viper (Black Python) 4** *Skirmisher (3067)*
+### [Timber Wolf](../mechs/timber_wolf.md)
+- **Timber Wolf  A** *Skirmisher (2945)*
+- **Timber Wolf  D** *Skirmisher (2945)*
+- **Timber Wolf  S** *Skirmisher (3050)*
+- **Timber Wolf  Z** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`
 
 ### [Warwolf](../mechs/warwolf.md)
 - **Warwolf  H** *Skirmisher (3138)*
@@ -1076,19 +1076,19 @@
 ### [Doloire](../mechs/doloire.md)
 - **Doloire  DLR-OD** *Skirmisher (3121)*
 
-### [Man O' War (Gargoyle)](../mechs/man_o'_war_gargoyle.md)
-- **Man O' War (Gargoyle)  Prime** *Skirmisher (2945)*
-- **Man O' War (Gargoyle)  A** *Skirmisher (2945)*
-- **Man O' War (Gargoyle)  C** *Skirmisher (2945)*
-- **Man O' War (Gargoyle)  D** *Skirmisher (2945)*
-- **Man O' War (Gargoyle)  (Conal)** *Skirmisher (3055)* `ECM`, `TAG`
-- **Man O' War (Gargoyle)  H** *Skirmisher (3059)*
-- **Man O' War (Gargoyle)  E** *Skirmisher (3060)*
-- **Man O' War (Gargoyle)  G** *Skirmisher (3069)*
-- **Man O' War (Gargoyle)  P** *Skirmisher (3093)*
-- **Man O' War (Gargoyle)  J** *Skirmisher (3133)*
-- **Man O' War (Gargoyle)  K** *Skirmisher (3140)* `Active Probe`
-- **Man O' War (Gargoyle)  T** *Skirmisher (3142)*
+### [Gargoyle](../mechs/gargoyle.md)
+- **Gargoyle  Prime** *Skirmisher (2945)*
+- **Gargoyle  A** *Skirmisher (2945)*
+- **Gargoyle  C** *Skirmisher (2945)*
+- **Gargoyle  D** *Skirmisher (2945)*
+- **Gargoyle  (Conal)** *Skirmisher (3055)* `ECM`, `TAG`
+- **Gargoyle  H** *Skirmisher (3059)*
+- **Gargoyle  E** *Skirmisher (3060)*
+- **Gargoyle  G** *Skirmisher (3069)*
+- **Gargoyle  P** *Skirmisher (3093)*
+- **Gargoyle  J** *Skirmisher (3133)*
+- **Gargoyle  K** *Skirmisher (3140)* `Active Probe`
+- **Gargoyle  T** *Skirmisher (3142)*
 
 ### [Neanderthal](../mechs/neanderthal.md)
 - **Neanderthal NTL-UG** *Skirmisher (3124)* `ECM`
@@ -1138,8 +1138,8 @@
 - **BattleMaster BLR-K4** *Skirmisher (3073)*
 - **BattleMaster BLR-6X** *Skirmisher (3085)*
 
-### [Katana (Crockett)](../mechs/katana_crockett.md)
-- **Katana (Crockett) CRK-5003-CJ** *Skirmisher (3071)* `C3 Slave`
+### [Katana](../mechs/katana.md)
+- **Katana CRK-5003-CJ** *Skirmisher (3071)* `C3 Slave`
 
 ### [Marauder IIC](../mechs/marauder_iic.md)
 - **Marauder IIC 2** *Skirmisher (3063)*
@@ -1185,17 +1185,17 @@
 ### [Banshee](../mechs/banshee.md)
 - **Banshee BNC-5S (Vandergriff)** *Skirmisher (3062)*
 
-### [Gladiator (Executioner)](../mechs/gladiator_executioner.md)
-- **Gladiator (Executioner)  A** *Skirmisher (3001)*
-- **Gladiator (Executioner)  B** *Skirmisher (3001)*
-- **Gladiator (Executioner)  D** *Skirmisher (3001)*
-- **Gladiator (Executioner)  TC** *Skirmisher (3052)* `Active Probe`
-- **Gladiator (Executioner)  H** *Skirmisher (3059)*
-- **Gladiator (Executioner)  E** *Skirmisher (3060)*
-- **Gladiator (Executioner)  K** *Skirmisher (3068)* `Active Probe`
-- **Gladiator (Executioner)  P** *Skirmisher (3069)*
-- **Gladiator (Executioner)  G** *Skirmisher (3100)* `Active Probe`, `ECM`
-- **Gladiator (Executioner)  I** *Skirmisher (3101)* `ECM`
+### [Executioner](../mechs/executioner.md)
+- **Executioner  A** *Skirmisher (3001)*
+- **Executioner  B** *Skirmisher (3001)*
+- **Executioner  D** *Skirmisher (3001)*
+- **Executioner  TC** *Skirmisher (3052)* `Active Probe`
+- **Executioner  H** *Skirmisher (3059)*
+- **Executioner  E** *Skirmisher (3060)*
+- **Executioner  K** *Skirmisher (3068)* `Active Probe`
+- **Executioner  P** *Skirmisher (3069)*
+- **Executioner  G** *Skirmisher (3100)* `Active Probe`, `ECM`
+- **Executioner  I** *Skirmisher (3101)* `ECM`
 
 ### [Shrike](../mechs/shrike.md)
 - **Shrike 2** *Skirmisher (3115)*

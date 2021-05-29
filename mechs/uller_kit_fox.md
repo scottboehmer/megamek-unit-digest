@@ -1,5 +1,5 @@
 # Uller (Kit Fox)
-## Uller (Kit Fox) Prime
+## Kit Fox "Uller" Prime
 - **Role:** Sniper
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
@@ -16,7 +16,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1085
 
-## Uller (Kit Fox) A
+## Kit Fox "Uller" A
 - **Role:** Sniper
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
@@ -31,7 +31,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1310
 
-## Uller (Kit Fox) B
+## Kit Fox "Uller" B
 - **Role:** Striker
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
@@ -48,7 +48,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1087
 
-## Uller (Kit Fox) D
+## Kit Fox "Uller" D
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2890)
 - **Chassis:** 30 tons (Endo Steel)
@@ -64,7 +64,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1142
 
-## Uller (Kit Fox) V
+## Kit Fox "Uller" V
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2921)
 - **Chassis:** 30 tons (Endo Steel)
@@ -79,7 +79,7 @@
 - **Source:** ilClan Vol 11 - Early Succession War
 - **Battle Value:** 850
 
-## Uller (Kit Fox) C
+## Kit Fox "Uller" C
 - **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 30 tons (Endo Steel)
@@ -100,7 +100,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1147
 
-## Uller (Kit Fox) S
+## Kit Fox "Uller" S
 - **Role:** Striker
 - **Tech Base:** Clan (3050)
 - **Chassis:** 30 tons (Endo Steel)
@@ -119,7 +119,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1342
 
-## Uller (Kit Fox) W
+## Kit Fox "Uller" W
 - **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 30 tons (Endo Steel)
@@ -132,7 +132,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1431
 
-## Uller (Kit Fox) E
+## Kit Fox "Uller" E
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 30 tons (Endo Steel)
@@ -149,7 +149,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1415
 
-## Uller (Kit Fox) G
+## Kit Fox "Uller" G
 - **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 30 tons (Endo Steel)
@@ -166,7 +166,7 @@
 - **Source:** ilClan Vol 11 - Clan Invasion
 - **Battle Value:** 1368
 
-## Uller (Kit Fox) H
+## Kit Fox "Uller" H
 - **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 30 tons (Endo Steel)
@@ -181,7 +181,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1214
 
-## Uller (Kit Fox) J
+## Kit Fox "Uller" J
 - **Role:** Striker
 - **Tech Base:** Clan (3060)
 - **Chassis:** 30 tons (Endo Steel)
@@ -198,7 +198,7 @@
 - **Source:** ilClan Vol 11 - Clan Invasion
 - **Battle Value:** 1134
 
-## Uller (Kit Fox) F
+## Kit Fox "Uller" F
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 30 tons (Endo Steel)
@@ -213,7 +213,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1219
 
-## Uller (Kit Fox) U
+## Kit Fox "Uller" U
 - **Role:** Sniper
 - **Tech Base:** Clan (3077)
 - **Chassis:** 30 tons (Endo Steel)
@@ -229,7 +229,7 @@
 - **Source:** Jihad
 - **Battle Value:** 1486
 
-## Uller (Kit Fox) K
+## Kit Fox "Uller" K
 - **Role:** Striker
 - **Tech Base:** Clan (3088)
 - **Chassis:** 30 tons (Endo Steel)
@@ -244,7 +244,7 @@
 - **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 1109
 
-## Uller (Kit Fox) I
+## Kit Fox "Uller" I
 - **Role:** Brawler
 - **Tech Base:** Clan (3101)
 - **Chassis:** 30 tons (Endo Steel)
@@ -262,7 +262,7 @@
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 1936
 
-## Uller (Kit Fox) R
+## Kit Fox "Uller" R
 - **Role:** Striker
 - **Tech Base:** Clan (3121)
 - **Chassis:** 30 tons (Endo Steel)
@@ -277,7 +277,7 @@
 - **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 1232
 
-## Uller (Kit Fox) BLO
+## Kit Fox "Uller" BLO
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3138)
 - **Chassis:** 30 tons (Endo Steel)
@@ -294,7 +294,7 @@
 - **Source:** SO: Unending Faith - Dark Age
 - **Battle Value:** 988
 
-## Uller (Kit Fox) T
+## Kit Fox "Uller" T
 - **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 30 tons (Endo Steel)

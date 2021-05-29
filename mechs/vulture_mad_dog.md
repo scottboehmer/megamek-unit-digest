@@ -1,5 +1,5 @@
 # Vulture (Mad Dog)
-## Vulture (Mad Dog) Prime
+## Mad Dog "Vulture" Prime
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
@@ -15,7 +15,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2351
 
-## Vulture (Mad Dog) A
+## Mad Dog "Vulture" A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
@@ -31,7 +31,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1923
 
-## Vulture (Mad Dog) B
+## Mad Dog "Vulture" B
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
@@ -48,7 +48,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2284
 
-## Vulture (Mad Dog) C
+## Mad Dog "Vulture" C
 - **Role:** Sniper
 - **Tech Base:** Clan (2963)
 - **Chassis:** 60 tons
@@ -62,7 +62,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1892
 
-## Vulture (Mad Dog) DD
+## Mad Dog "Vulture" DD
 - **Role:** Brawler
 - **Tech Base:** Clan (3050)
 - **Chassis:** 60 tons
@@ -79,7 +79,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 1970
 
-## Vulture (Mad Dog) S
+## Mad Dog "Vulture" S
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 60 tons
@@ -95,7 +95,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 2676
 
-## Vulture (Mad Dog) D
+## Mad Dog "Vulture" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 60 tons
@@ -112,7 +112,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2447
 
-## Vulture (Mad Dog) H
+## Mad Dog "Vulture" H
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 60 tons
@@ -128,7 +128,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2097
 
-## Vulture (Mad Dog) E
+## Mad Dog "Vulture" E
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
@@ -142,7 +142,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2031
 
-## Vulture (Mad Dog) F
+## Mad Dog "Vulture" F
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 60 tons
@@ -157,7 +157,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2300
 
-## Vulture (Mad Dog) U
+## Mad Dog "Vulture" U
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 60 tons
@@ -175,7 +175,7 @@
 - **Source:** RS 3085 - Jihad
 - **Battle Value:** 2488
 
-## Vulture (Mad Dog) G
+## Mad Dog "Vulture" G
 - **Role:** Brawler
 - **Tech Base:** Clan (3093)
 - **Chassis:** 60 tons
@@ -192,7 +192,7 @@
 - **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2503
 
-## Vulture (Mad Dog) V
+## Mad Dog "Vulture" V
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3098)
 - **Chassis:** 60 tons
@@ -208,7 +208,7 @@
   - CASE
 - **Battle Value:** 1784
 
-## Vulture (Mad Dog) T
+## Mad Dog "Vulture" T
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3142)
 - **Chassis:** 60 tons
@@ -224,7 +224,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 2555
 
-## Vulture (Mad Dog) I
+## Mad Dog "Vulture" I
 - **Role:** Sniper
 - **Tech Base:** Clan Mixed (3144)
 - **Chassis:** 60 tons

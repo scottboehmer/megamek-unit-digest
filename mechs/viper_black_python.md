@@ -1,5 +1,5 @@
 # Viper (Black Python)
-## Viper (Black Python) (Standard)
+## Black Python (Standard) "Viper"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3051)
 - **Chassis:** 75 tons (Endo Steel)
@@ -18,7 +18,7 @@
 - **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** 2813
 
-## Viper (Black Python) 2
+## Black Python 2 "Viper"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
@@ -38,7 +38,7 @@
 - **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** 2520
 
-## Viper (Black Python) 5
+## Black Python 5 "Viper"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3055)
 - **Chassis:** 75 tons (Endo Steel)
@@ -55,7 +55,7 @@
 - **Source:** ilClan Vol 12 - Clan Invasion
 - **Battle Value:** 2925
 
-## Viper (Black Python) 3
+## Black Python 3 "Viper"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3066)
 - **Chassis:** 75 tons (Endo Steel)
@@ -74,7 +74,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2421
 
-## Viper (Black Python) 4
+## Black Python 4 "Viper"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3067)
 - **Chassis:** 75 tons (Endo Steel)

@@ -1,4 +1,20 @@
 # Harvester
+## Harvester HVR-99 AgroMech
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (3049)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 4 / 6, ICE
+- **Armor:** 80
+- **Cockpit:** Industrial
+- **Heat Sinks:** 0 (0)
+- **Weapons:**
+  - Combine
+- **Equipment:**
+  - Lift Hoist
+  - Cargo
+- **Source:** TRO VA
+- **Battle Value:** 339
+
 ## Harvester HVR-199 AgroMech
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3128)

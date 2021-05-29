@@ -1,5 +1,5 @@
 # Man O' War (Gargoyle)
-## Man O' War (Gargoyle) Prime
+## Gargoyle "Man O' War" Prime
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
@@ -15,7 +15,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1537
 
-## Man O' War (Gargoyle) A
+## Gargoyle "Man O' War" A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
@@ -31,7 +31,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2689
 
-## Man O' War (Gargoyle) B
+## Gargoyle "Man O' War" B
 - **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
@@ -47,7 +47,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1843
 
-## Man O' War (Gargoyle) C
+## Gargoyle "Man O' War" C
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
@@ -64,7 +64,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2437
 
-## Man O' War (Gargoyle) D
+## Gargoyle "Man O' War" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 80 tons
@@ -80,7 +80,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2499
 
-## Man O' War (Gargoyle) (Conal)
+## Gargoyle "Man O' War" (Conal)
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3055)
 - **Chassis:** 80 tons
@@ -98,7 +98,7 @@
 - **Source:** OTP: Red Corsair - Clan Invasion 
 - **Battle Value:** 2580
 
-## Man O' War (Gargoyle) H
+## Gargoyle "Man O' War" H
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 80 tons
@@ -115,7 +115,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2183
 
-## Man O' War (Gargoyle) E
+## Gargoyle "Man O' War" E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3060)
 - **Chassis:** 80 tons
@@ -133,7 +133,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2257
 
-## Man O' War (Gargoyle) M
+## Gargoyle "Man O' War" M
 - **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 80 tons
@@ -149,7 +149,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2182
 
-## Man O' War (Gargoyle) G
+## Gargoyle "Man O' War" G
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3069)
 - **Chassis:** 80 tons
@@ -165,7 +165,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2156
 
-## Man O' War (Gargoyle) P
+## Gargoyle "Man O' War" P
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3093)
 - **Chassis:** 80 tons
@@ -179,7 +179,7 @@
 - **Source:** ilClan Vol 11 - Early Republic
 - **Battle Value:** 2320
 
-## Man O' War (Gargoyle) I
+## Gargoyle "Man O' War" I
 - **Role:** Sniper
 - **Tech Base:** Clan (3113)
 - **Chassis:** 80 tons
@@ -194,7 +194,7 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2516
 
-## Man O' War (Gargoyle) F
+## Gargoyle "Man O' War" F
 - **Role:** Brawler
 - **Tech Base:** Clan (3127)
 - **Chassis:** 80 tons
@@ -211,7 +211,7 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 1894
 
-## Man O' War (Gargoyle) X
+## Gargoyle "Man O' War" X
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3128)
 - **Chassis:** 80 tons
@@ -229,7 +229,7 @@
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 2800
 
-## Man O' War (Gargoyle) J
+## Gargoyle "Man O' War" J
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3133)
 - **Chassis:** 80 tons
@@ -243,7 +243,7 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2134
 
-## Man O' War (Gargoyle) K
+## Gargoyle "Man O' War" K
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3140)
 - **Chassis:** 80 tons
@@ -261,7 +261,7 @@
 - **Source:** ilClan Vol 11 - Dark Age
 - **Battle Value:** 2182
 
-## Man O' War (Gargoyle) T
+## Gargoyle "Man O' War" T
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
 - **Chassis:** 80 tons

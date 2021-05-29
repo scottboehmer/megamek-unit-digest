@@ -1,5 +1,5 @@
 # Masakari (Warhawk)
-## Masakari (Warhawk) Prime
+## Warhawk "Masakari" Prime
 - **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
@@ -15,7 +15,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 3194
 
-## Masakari (Warhawk) A
+## Warhawk "Masakari" A
 - **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
@@ -33,7 +33,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2399
 
-## Masakari (Warhawk) B
+## Warhawk "Masakari" B
 - **Role:** Brawler
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
@@ -52,7 +52,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2320
 
-## Masakari (Warhawk) C
+## Warhawk "Masakari" C
 - **Role:** Sniper
 - **Tech Base:** Clan (2999)
 - **Chassis:** 85 tons
@@ -68,7 +68,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2998
 
-## Masakari (Warhawk) D
+## Warhawk "Masakari" D
 - **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
@@ -86,7 +86,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2474
 
-## Masakari (Warhawk) F
+## Warhawk "Masakari" F
 - **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 85 tons
@@ -104,7 +104,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2775
 
-## Masakari (Warhawk) H
+## Warhawk "Masakari" H
 - **Role:** Brawler
 - **Tech Base:** Clan (3059)
 - **Chassis:** 85 tons
@@ -121,7 +121,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2601
 
-## Masakari (Warhawk) E
+## Warhawk "Masakari" E
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 85 tons

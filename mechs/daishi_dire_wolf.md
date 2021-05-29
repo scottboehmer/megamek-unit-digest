@@ -1,5 +1,5 @@
 # Daishi (Dire Wolf)
-## Daishi (Dire Wolf) Prime
+## Dire Wolf "Daishi" Prime
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
@@ -16,7 +16,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2712
 
-## Daishi (Dire Wolf) A
+## Dire Wolf "Daishi" A
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
@@ -33,7 +33,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2855
 
-## Daishi (Dire Wolf) B
+## Dire Wolf "Daishi" B
 - **Role:** Sniper
 - **Tech Base:** Clan (3010)
 - **Chassis:** 100 tons
@@ -51,7 +51,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2609
 
-## Daishi (Dire Wolf) W
+## Dire Wolf "Daishi" W
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3049)
 - **Chassis:** 100 tons
@@ -70,7 +70,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2951
 
-## Daishi (Dire Wolf) 'Widowmaker'
+## Dire Wolf "Daishi" 'Widowmaker'
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3050)
 - **Chassis:** 100 tons
@@ -88,7 +88,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 3041
 
-## Daishi (Dire Wolf) S
+## Dire Wolf "Daishi" S
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3050)
 - **Chassis:** 100 tons
@@ -108,7 +108,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2985
 
-## Daishi (Dire Wolf) 'Prometheus'
+## Dire Wolf "Daishi" 'Prometheus'
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3051)
 - **Chassis:** 100 tons
@@ -125,7 +125,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2900
 
-## Daishi (Dire Wolf) (Hohiro)
+## Dire Wolf "Daishi" (Hohiro)
 - **Role:** Sniper
 - **Tech Base:** Clan (3051)
 - **Chassis:** 100 tons
@@ -143,7 +143,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 3048
 
-## Daishi (Dire Wolf) C
+## Dire Wolf "Daishi" C
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3054)
 - **Chassis:** 100 tons
@@ -163,7 +163,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** unknown
 
-## Daishi (Dire Wolf) H
+## Dire Wolf "Daishi" H
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3059)
 - **Chassis:** 100 tons
@@ -181,7 +181,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2992
 
-## Daishi (Dire Wolf) X
+## Dire Wolf "Daishi" X
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3060)
 - **Chassis:** 100 tons
@@ -204,7 +204,7 @@
 - **Source:** RecGuide 13 - Civil War
 - **Battle Value:** 2645
 
-## Daishi (Dire Wolf) D
+## Dire Wolf "Daishi" D
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3069)
 - **Chassis:** 100 tons
@@ -221,7 +221,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 3403
 
-## Daishi (Dire Wolf) U
+## Dire Wolf "Daishi" U
 - **Role:** Juggernaut
 - **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 100 tons
@@ -241,7 +241,7 @@
 - **Source:** Jihad
 - **Battle Value:** 3360
 
-## Daishi (Dire Wolf) E
+## Dire Wolf "Daishi" E
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3103)
 - **Chassis:** 100 tons
@@ -258,7 +258,7 @@
 - **Source:** RecGuide 13 - Dark Ages
 - **Battle Value:** 2814
 
-## Daishi (Dire Wolf) T
+## Dire Wolf "Daishi" T
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3142)
 - **Chassis:** 100 tons

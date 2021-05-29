@@ -1,4 +1,21 @@
 # Heavy Lifter
+## Heavy Lifter HCL-1 CargoMech
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (3066)
+- **Chassis:** 60 tons Quad (Industrial)
+- **Movement:** 4 / 6
+- **Armor:** 155 (Industrial)
+- **Myomer:** Industrial Triple-Strength
+- **Cockpit:** Industrial
+- **Heat Sinks:** 10 (10)
+- **Equipment:**
+  - Searchlight × 4
+  - Lift Hoist × 2
+  - Cargo × 2
+  - Enviro-Sealing
+- **Source:** RS IA
+- **Battle Value:** unknown
+
 ## Heavy Lifter HCL-1MM MilitiaMech
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3066)

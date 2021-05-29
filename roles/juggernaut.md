@@ -45,21 +45,17 @@
 - **Hunchback HBK-5H** *Juggernaut (3064)*
 - **Hunchback HBK-5P** *Juggernaut (3069)* `C3 Slave`, `ECM`
 
-### [Jabberwocky ConstructionMech](../mechs/jabberwocky_constructionmech.md)
-- **Jabberwocky ConstructionMech JAW-66D** *Juggernaut (3070)*
-
-### [Jabberwocky DemolitionMech](../mechs/jabberwocky_demolitionmech.md)
-- **Jabberwocky DemolitionMech JAW-66C** *Juggernaut (3070)*
-
-### [Jabberwocky EngineerMech](../mechs/jabberwocky_engineermech.md)
-- **Jabberwocky EngineerMech JAW-65A** *Juggernaut (2549)*
-- **Jabberwocky EngineerMech JAW-66B** *Juggernaut (3070)*
+### [Jabberwocky](../mechs/jabberwocky.md)
+- **Jabberwocky JAW-65A EngineerMech** *Juggernaut (2549)*
+- **Jabberwocky JAW-66B EngineerMech** *Juggernaut (3070)*
+- **Jabberwocky JAW-66C DemolitionMech** *Juggernaut (3070)*
+- **Jabberwocky JAW-66D ConstructionMech** *Juggernaut (3070)*
 
 ### [Raider](../mechs/raider.md)
 - **Raider JL-1** *Juggernaut (3134)*
 
-### [Sarissa SecurityMech](../mechs/sarissa_securitymech.md)
-- **Sarissa SecurityMech MN2-A** *Juggernaut (3082)*
+### [Sarissa](../mechs/sarissa.md)
+- **Sarissa MN2-A SecurityMech** *Juggernaut (3082)*
 
 ### [Ursus](../mechs/ursus.md)
 - **Ursus 3** *Juggernaut (3079)* `Active Probe`, `ECM`
@@ -80,8 +76,8 @@
 
 ## 65 Tons
 
-### [Deep Lord MilitiaMech](../mechs/deep_lord_militiamech.md)
-- **Deep Lord MilitiaMech RCL-Z1M** *Juggernaut (3085)*
+### [Deep Lord](../mechs/deep_lord.md)
+- **Deep Lord RCL-Z1M MilitiaMech** *Juggernaut (3085)*
 
 ### [Dig Lord](../mechs/dig_lord.md)
 - **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
@@ -121,9 +117,6 @@
 - **Hammerhands HMH-4D** *Juggernaut (2492)*
 - **Hammerhands HMH-3D (Kessem)** *Juggernaut (2725)*
 
-### [Mad Cat (Timber Wolf)](../mechs/mad_cat_timber_wolf.md)
-- **Mad Cat (Timber Wolf)  W** *Juggernaut (3100)*
-
 ### [Marauder](../mechs/marauder.md)
 - **Marauder (Bounty Hunter-3015)** *Juggernaut (3015)*
 - **Marauder Bounty Hunter 3015** *Juggernaut (3015)*
@@ -138,6 +131,9 @@
 
 ### [Stalker](../mechs/stalker.md)
 - **Stalker STK-4P** *Juggernaut (2998)*
+
+### [Timber Wolf](../mechs/timber_wolf.md)
+- **Timber Wolf  W** *Juggernaut (3100)*
 
 ### [Tundra Wolf](../mechs/tundra_wolf.md)
 - **Tundra Wolf 5** *Juggernaut (3086)*
@@ -210,10 +206,10 @@
 - **Gunslinger GUN-2ERD** *Juggernaut (3062)* `C3 Master`, `ECM`, `TAG`
 - **Gunslinger GUN-2ERDr** *Juggernaut (3078)* `C3 Master`, `TAG`
 
-### [Katana (Crockett)](../mechs/katana_crockett.md)
-- **Katana (Crockett) CRK-5003-2** *Juggernaut (3035)*
-- **Katana (Crockett) CRK-5003-C** *Juggernaut (3057)* `C3 Slave`
-- **Katana (Crockett) CRK-5003-CM** *Juggernaut (3057)* `C3 Master`, `TAG`
+### [Katana](../mechs/katana.md)
+- **Katana CRK-5003-2** *Juggernaut (3035)*
+- **Katana CRK-5003-C** *Juggernaut (3057)* `C3 Slave`
+- **Katana CRK-5003-CM** *Juggernaut (3057)* `C3 Master`, `TAG`
 
 ### [Longbow](../mechs/longbow.md)
 - **Longbow LGB-13NAIS** *Juggernaut (3069)* `C3 Slave`, `ECM`
@@ -356,8 +352,8 @@
 ### [Cygnus](../mechs/cygnus.md)
 - **Cygnus 4** *Juggernaut (3090)*
 
-### [Gladiator (Executioner)](../mechs/gladiator_executioner.md)
-- **Gladiator (Executioner)  J** *Juggernaut (3104)*
+### [Executioner](../mechs/executioner.md)
+- **Executioner  J** *Juggernaut (3104)*
 
 ### [Hauptmann](../mechs/hauptmann.md)
 - **Hauptmann  HA1-O** *Juggernaut (3060)* `ECM`
@@ -435,30 +431,13 @@
 - **Atlas III AS7-D2** *Juggernaut (3110)* `ECM`
 - **Atlas III AS7-D3** *Juggernaut (3137)* `ECM`
 
-### [Behemoth (Stone Rhino)](../mechs/behemoth_stone_rhino.md)
-- **Behemoth (Stone Rhino) 4** *Juggernaut (2846)*
-- **Behemoth (Stone Rhino) 5** *Juggernaut (2846)*
-- **Behemoth (Stone Rhino) 2** *Juggernaut (3061)*
+### [Bane](../mechs/bane.md)
+- **Bane 4** *Juggernaut (3066)*
 
 ### [Berserker](../mechs/berserker.md)
 - **Berserker BRZ-A3** *Juggernaut (3056)* `ECM`
 - **Berserker BRZ-C3** *Juggernaut (3067)* `C3 Slave`, `ECM`
 - **Berserker BRZ-D4** *Juggernaut (3112)* `ECM`
-
-### [Daishi (Dire Wolf)](../mechs/daishi_dire_wolf.md)
-- **Daishi (Dire Wolf)  Prime** *Juggernaut (3010)*
-- **Daishi (Dire Wolf)  A** *Juggernaut (3010)*
-- **Daishi (Dire Wolf)  W** *Juggernaut (3049)*
-- **Daishi (Dire Wolf)  'Widowmaker'** *Juggernaut (3050)*
-- **Daishi (Dire Wolf)  S** *Juggernaut (3050)*
-- **Daishi (Dire Wolf)  'Prometheus'** *Juggernaut (3051)*
-- **Daishi (Dire Wolf)  C** *Juggernaut (3054)* `ECM`
-- **Daishi (Dire Wolf)  H** *Juggernaut (3059)*
-- **Daishi (Dire Wolf)  X** *Juggernaut (3060)*
-- **Daishi (Dire Wolf)  D** *Juggernaut (3069)*
-- **Daishi (Dire Wolf)  U** *Juggernaut (3077)*
-- **Daishi (Dire Wolf)  E** *Juggernaut (3103)* `Active Probe`, `ECM`
-- **Daishi (Dire Wolf)  T** *Juggernaut (3142)* `Active Probe`
 
 ### [Devastator](../mechs/devastator.md)
 - **Devastator DVS-2-EC** *Juggernaut (2827)*
@@ -467,6 +446,21 @@
 
 ### [Diomede](../mechs/diomede.md)
 - **Diomede D-M3D-M** *Juggernaut (3092)*
+
+### [Dire Wolf](../mechs/dire_wolf.md)
+- **Dire Wolf  Prime** *Juggernaut (3010)*
+- **Dire Wolf  A** *Juggernaut (3010)*
+- **Dire Wolf  W** *Juggernaut (3049)*
+- **Dire Wolf  'Widowmaker'** *Juggernaut (3050)*
+- **Dire Wolf  S** *Juggernaut (3050)*
+- **Dire Wolf  'Prometheus'** *Juggernaut (3051)*
+- **Dire Wolf  C** *Juggernaut (3054)* `ECM`
+- **Dire Wolf  H** *Juggernaut (3059)*
+- **Dire Wolf  X** *Juggernaut (3060)*
+- **Dire Wolf  D** *Juggernaut (3069)*
+- **Dire Wolf  U** *Juggernaut (3077)*
+- **Dire Wolf  E** *Juggernaut (3103)* `Active Probe`, `ECM`
+- **Dire Wolf  T** *Juggernaut (3142)* `Active Probe`
 
 ### [Fafnir](../mechs/fafnir.md)
 - **Fafnir FNR-5** *Juggernaut (3063)* `ECM`
@@ -499,18 +493,13 @@
 - **King Crab KGC-009** *Juggernaut (3104)* `ECM`
 - **King Crab KGC-011** *Juggernaut (3143)*
 
-### [Kiso Command Mech](../mechs/kiso_command_mech.md)
-- **Kiso Command Mech K-3N-KRHQ** *Juggernaut (2823)* `Collapsible Command Module`, `Command Console`
-
-### [Kiso ConstructionMech](../mechs/kiso_constructionmech.md)
-- **Kiso ConstructionMech K-3N-KR4** *Juggernaut (2703)* `Command Console`
-- **Kiso ConstructionMech K-3N-KR5** *Juggernaut (2703)* `Command Console`
+### [Kiso](../mechs/kiso.md)
+- **Kiso K-3N-KR4 ConstructionMech** *Juggernaut (2703)* `Command Console`
+- **Kiso K-3N-KR5 ConstructionMech** *Juggernaut (2703)* `Command Console`
+- **Kiso K-3N-KRHQ CommandMech** *Juggernaut (2823)* `Collapsible Command Module`, `Command Console`
 
 ### [Kodiak](../mechs/kodiak.md)
 - **Kodiak (Cale)** *Juggernaut (3068)* `Active Probe`, `C3 Master`, `TAG`
-
-### [Kraken (Bane)](../mechs/kraken_bane.md)
-- **Kraken (Bane) 4** *Juggernaut (3066)*
 
 ### [Mackie](../mechs/mackie.md)
 - **Mackie MSK-6S** *Juggernaut (2439)*
@@ -531,6 +520,11 @@
 ### [Pillager](../mechs/pillager.md)
 - **Pillager PLG-1N** *Juggernaut (2575)*
 - **Pillager PLG-3Z** *Juggernaut (2594)*
+
+### [Stone Rhino](../mechs/stone_rhino.md)
+- **Stone Rhino 4** *Juggernaut (2846)*
+- **Stone Rhino 5** *Juggernaut (2846)*
+- **Stone Rhino 2** *Juggernaut (3061)*
 
 ### [Storm Giant](../mechs/storm_giant.md)
 - **Storm Giant 2** *Juggernaut (2862)*

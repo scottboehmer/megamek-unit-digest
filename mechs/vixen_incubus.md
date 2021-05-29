@@ -1,5 +1,5 @@
 # Vixen (Incubus)
-## Vixen (Incubus) (Standard)
+## Incubus (Standard) "Vixen"
 - **Role:** Striker
 - **Tech Base:** Clan (2954)
 - **Chassis:** 30 tons (Endo Steel)
@@ -15,7 +15,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1596
 
-## Vixen (Incubus) 2
+## Incubus 2 "Vixen"
 - **Role:** Striker
 - **Tech Base:** Clan (2960)
 - **Chassis:** 30 tons (Endo Steel)
@@ -31,7 +31,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1913
 
-## Vixen (Incubus) 7
+## Incubus 7 "Vixen"
 - **Role:** Undefined
 - **Tech Base:** Clan (2961)
 - **Chassis:** 30 tons (Endo Steel)
@@ -47,7 +47,7 @@
 - **Source:** Succession Wars
 - **Battle Value:** 1175
 
-## Vixen (Incubus) 8
+## Incubus 8 "Vixen"
 - **Role:** Undefined
 - **Tech Base:** Clan (2962)
 - **Chassis:** 30 tons (Endo Steel)
@@ -63,7 +63,7 @@
 - **Source:** Succession Wars
 - **Battle Value:** 1557
 
-## Vixen (Incubus) 3
+## Incubus 3 "Vixen"
 - **Role:** Striker
 - **Tech Base:** Clan (3025)
 - **Chassis:** 30 tons (Endo Steel)
@@ -79,7 +79,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1324
 
-## Vixen (Incubus) 4
+## Incubus 4 "Vixen"
 - **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons (Endo Steel)
@@ -94,7 +94,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1581
 
-## Vixen (Incubus) 5
+## Incubus 5 "Vixen"
 - **Role:** Striker
 - **Tech Base:** Clan (3065)
 - **Chassis:** 30 tons (Endo Steel)
@@ -110,7 +110,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1364
 
-## Vixen (Incubus) 9
+## Incubus 9 "Vixen"
 - **Role:** Undefined
 - **Tech Base:** Clan (3150)
 - **Chassis:** 30 tons (Endo Steel)

@@ -1,5 +1,5 @@
 # Baboon (Howler)
-## Baboon (Howler) (Standard)
+## Howler (Standard) "Baboon"
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2871)
 - **Chassis:** 20 tons (Endo Steel)
@@ -13,7 +13,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 645
 
-## Baboon (Howler) 4
+## Howler 4 "Baboon"
 - **Role:** Undefined
 - **Tech Base:** Clan (2877)
 - **Chassis:** 20 tons (Endo Steel)
@@ -28,7 +28,7 @@
 - **Source:** Succession Wars
 - **Battle Value:** 506
 
-## Baboon (Howler) 5
+## Howler 5 "Baboon"
 - **Role:** Undefined
 - **Tech Base:** Clan (3053)
 - **Chassis:** 20 tons (Endo Steel)
@@ -40,7 +40,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 1363
 
-## Baboon (Howler) 2
+## Howler 2 "Baboon"
 - **Role:** Striker
 - **Tech Base:** Clan (3063)
 - **Chassis:** 20 tons (Endo Steel)
@@ -55,7 +55,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 757
 
-## Baboon (Howler) 3 'Devil'
+## Howler 3
 - **Role:** Striker
 - **Tech Base:** Clan (3066)
 - **Chassis:** 20 tons (Endo Steel)
@@ -70,7 +70,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 1277
 
-## Baboon (Howler) 6
+## Howler 6 "Baboon"
 - **Role:** Undefined
 - **Tech Base:** Clan (3086)
 - **Chassis:** 20 tons (Endo Steel)

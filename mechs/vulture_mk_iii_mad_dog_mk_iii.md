@@ -1,5 +1,5 @@
 # Vulture Mk III (Mad Dog Mk III)
-## Vulture Mk III (Mad Dog Mk III) (Prime)
+## Mad Dog Mk III "Vulture Mk III" (Prime)
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
@@ -14,7 +14,7 @@
 - **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2729
 
-## Vulture Mk III (Mad Dog Mk III) A
+## Mad Dog Mk III "Vulture Mk III" A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
@@ -30,7 +30,7 @@
 - **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 1880
 
-## Vulture Mk III (Mad Dog Mk III) B
+## Mad Dog Mk III "Vulture Mk III" B
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
@@ -47,7 +47,7 @@
 - **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2572
 
-## Vulture Mk III (Mad Dog Mk III) BLO
+## Mad Dog Mk III "Vulture Mk III" BLO
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3109)
 - **Chassis:** 60 tons (Endo Steel)
@@ -65,7 +65,7 @@
 - **Source:** SO: Unending Faith - Late Republic
 - **Battle Value:** 2397
 
-## Vulture Mk III (Mad Dog Mk III) C
+## Mad Dog Mk III "Vulture Mk III" C
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)
@@ -80,7 +80,7 @@
 - **Source:** TRO 3145 The Clans - Late Republic
 - **Battle Value:** 2299
 
-## Vulture Mk III (Mad Dog Mk III) D
+## Mad Dog Mk III "Vulture Mk III" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3109)
 - **Chassis:** 60 tons (Endo Steel)

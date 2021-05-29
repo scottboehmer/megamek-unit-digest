@@ -1,5 +1,5 @@
 # Loki (Hellbringer)
-## Loki (Hellbringer) Prime
+## Hellbringer "Loki" Prime
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (2926)
 - **Chassis:** 65 tons
@@ -21,7 +21,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 2654
 
-## Loki (Hellbringer) A
+## Hellbringer "Loki" A
 - **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
@@ -41,7 +41,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1948
 
-## Loki (Hellbringer) B
+## Hellbringer "Loki" B
 - **Role:** Striker
 - **Tech Base:** Clan (2926)
 - **Chassis:** 65 tons
@@ -58,7 +58,7 @@
 - **Source:** TRO Clan Invasion - Succession Wars
 - **Battle Value:** 1592
 
-## Loki (Hellbringer) M
+## Hellbringer "Loki" M
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons
@@ -75,7 +75,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2200
 
-## Loki (Hellbringer) C
+## Hellbringer "Loki" C
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
@@ -93,7 +93,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 2076
 
-## Loki (Hellbringer) F
+## Hellbringer "Loki" F
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 65 tons
@@ -109,7 +109,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1839
 
-## Loki (Hellbringer) J
+## Hellbringer "Loki" J
 - **Role:** Scout
 - **Tech Base:** Clan (3058)
 - **Chassis:** 65 tons
@@ -129,7 +129,7 @@
 - **Source:** ilClan Vol 1 - Dark Age
 - **Battle Value:** 2415
 
-## Loki (Hellbringer) H
+## Hellbringer "Loki" H
 - **Role:** Sniper
 - **Tech Base:** Clan (3059)
 - **Chassis:** 65 tons
@@ -149,7 +149,7 @@
 - **Source:** TRO Clan Invasion - Clan Invasion
 - **Battle Value:** 1952
 
-## Loki (Hellbringer) D
+## Hellbringer "Loki" D
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3069)
 - **Chassis:** 65 tons
@@ -165,7 +165,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2140
 
-## Loki (Hellbringer) E
+## Hellbringer "Loki" E
 - **Role:** Sniper
 - **Tech Base:** Clan (3069)
 - **Chassis:** 65 tons
@@ -182,7 +182,7 @@
 - **Source:** TRO Clan Invasion - Jihad
 - **Battle Value:** 2304
 
-## Loki (Hellbringer) G
+## Hellbringer "Loki" G
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3112)
 - **Chassis:** 65 tons
@@ -198,7 +198,7 @@
 - **Source:** RS 3145 NTNU - Late Republic
 - **Battle Value:** 1956
 
-## Loki (Hellbringer) T
+## Hellbringer "Loki" T
 - **Role:** Sniper
 - **Tech Base:** Clan (3142)
 - **Chassis:** 65 tons

@@ -7,22 +7,18 @@
 
 ## 20 Tons
 
-### [Baboon (Howler)](../mechs/baboon_howler.md)
-- **Baboon (Howler) 2** *Striker (3063)*
-- **Baboon (Howler) 3 'Devil'** *Striker (3066)*
-
 ### [Cossack](../mechs/cossack.md)
 - **Cossack C-SK1** *Striker (3060)*
 
-### [Dasher (Fire Moth)](../mechs/dasher_fire_moth.md)
-- **Dasher (Fire Moth)  Prime** *Striker (2874)*
-- **Dasher (Fire Moth)  B** *Striker (2874)* `ECM`
-- **Dasher (Fire Moth)  D** *Striker (2874)*
-- **Dasher (Fire Moth)  H** *Striker (3060)*
-- **Dasher (Fire Moth)  (Aletha)** *Striker (3068)* `ECM`
-- **Dasher (Fire Moth)  F** *Striker (3070)* `Active Probe`
-- **Dasher (Fire Moth)  K** *Striker (3071)*
-- **Dasher (Fire Moth)  G** *Striker (3098)*
+### [Fire Moth](../mechs/fire_moth.md)
+- **Fire Moth  Prime** *Striker (2874)*
+- **Fire Moth  B** *Striker (2874)* `ECM`
+- **Fire Moth  D** *Striker (2874)*
+- **Fire Moth  H** *Striker (3060)*
+- **Fire Moth  (Aletha)** *Striker (3068)* `ECM`
+- **Fire Moth  F** *Striker (3070)* `Active Probe`
+- **Fire Moth  K** *Striker (3071)*
+- **Fire Moth  G** *Striker (3098)*
 
 ### [Fireball](../mechs/fireball.md)
 - **Fireball ALM-10D** *Striker (3076)*
@@ -32,14 +28,18 @@
 - **Flea FLE-19** *Striker (3068)*
 - **Flea FLE-20** *Striker (3071)* `ECM`, `Stealth`
 
-### [Gun](../mechs/gun.md)
-- **Gun  GN-2O** *Striker (3134)*
+### [Gùn](../mechs/gùn.md)
+- **Gùn  GN-2O** *Striker (3134)*
 
 ### [Hornet](../mechs/hornet.md)
 - **Hornet HNT-151** *Striker (2760)*
 - **Hornet HNT-152** *Striker (2997)*
 - **Hornet HNT-171** *Striker (3051)*
 - **Hornet HNT-161** *Striker (3052)*
+
+### [Howler](../mechs/howler.md)
+- **Howler 2** *Striker (3063)*
+- **Howler 3** *Striker (3066)*
 
 ### [Kabuto](../mechs/kabuto.md)
 - **Kabuto KBO-7A** *Striker (3059)*
@@ -173,15 +173,6 @@
 - **Koshi (Standard)** *Striker (3091)* `Active Probe`, `TAG`
 - **Koshi (Standard) 2** *Striker (3095)* `TAG`
 
-### [Koshi (Mist Lynx)](../mechs/koshi_mist_lynx.md)
-- **Koshi (Mist Lynx)  B** *Striker (2926)* `Active Probe`
-- **Koshi (Mist Lynx)  C** *Striker (2926)* `Active Probe`, `ECM`
-- **Koshi (Mist Lynx)  D** *Striker (2926)* `Active Probe`
-- **Koshi (Mist Lynx)  E** *Striker (3054)* `Active Probe`
-- **Koshi (Mist Lynx)  H** *Striker (3059)* `Active Probe`
-- **Koshi (Mist Lynx)  G** *Striker (3068)* `Active Probe`
-- **Koshi (Mist Lynx)  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`
-
 ### [Koto](../mechs/koto.md)
 - **Koto KTO-2A** *Striker (3057)*
 - **Koto KTO-3A** *Striker (3062)*
@@ -194,6 +185,15 @@
 - **Locust IIC 5** *Striker (3060)*
 - **Locust IIC 7** *Striker (3076)*
 - **Locust IIC 9** *Striker (3085)*
+
+### [Mist Lynx](../mechs/mist_lynx.md)
+- **Mist Lynx  B** *Striker (2926)* `Active Probe`
+- **Mist Lynx  C** *Striker (2926)* `Active Probe`, `ECM`
+- **Mist Lynx  D** *Striker (2926)* `Active Probe`
+- **Mist Lynx  E** *Striker (3054)* `Active Probe`
+- **Mist Lynx  H** *Striker (3059)* `Active Probe`
+- **Mist Lynx  G** *Striker (3068)* `Active Probe`
+- **Mist Lynx  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`
 
 ### [Mjolnir](../mechs/mjolnir.md)
 - **Mjolnir MLR-BX** *Striker (3078)*
@@ -242,6 +242,15 @@
 - **Anubis ABS-3T** *Striker (3067)* `ECM`, `Stealth`
 - **Anubis ABS-5Z** *Striker (3124)* `ECM`, `Stealth`, `TAG`
 
+### [Arctic Cheetah](../mechs/arctic_cheetah.md)
+- **Arctic Cheetah  Prime** *Striker (3037)* `Active Probe`, `ECM`, `TAG`
+- **Arctic Cheetah  A** *Striker (3037)*
+- **Arctic Cheetah  B** *Striker (3037)*
+- **Arctic Cheetah  C** *Striker (3037)* `Active Probe`
+- **Arctic Cheetah  H** *Striker (3062)*
+- **Arctic Cheetah  E** *Striker (3071)*
+- **Arctic Cheetah  F** *Striker (3093)* `Active Probe`, `ECM`, `TAG`
+
 ### [Arctic Fox](../mechs/arctic_fox.md)
 - **Arctic Fox  AF1A** *Striker (3059)*
 
@@ -287,15 +296,6 @@
 - **Hammer HMR-3S 'Slammer'** *Striker (3054)*
 - **Hammer HMR-3C 'Claw-Hammer'** *Striker (3056)*
 
-### [Hankyu (Arctic Cheetah)](../mechs/hankyu_arctic_cheetah.md)
-- **Hankyu (Arctic Cheetah)  Prime** *Striker (3037)* `Active Probe`, `ECM`, `TAG`
-- **Hankyu (Arctic Cheetah)  A** *Striker (3037)*
-- **Hankyu (Arctic Cheetah)  B** *Striker (3037)*
-- **Hankyu (Arctic Cheetah)  C** *Striker (3037)* `Active Probe`
-- **Hankyu (Arctic Cheetah)  H** *Striker (3062)*
-- **Hankyu (Arctic Cheetah)  E** *Striker (3071)*
-- **Hankyu (Arctic Cheetah)  F** *Striker (3093)* `Active Probe`, `ECM`, `TAG`
-
 ### [Hellion](../mechs/hellion.md)
 - **Hellion  Prime** *Striker (3059)*
 - **Hellion  B** *Striker (3059)*
@@ -322,6 +322,13 @@
 - **Hussar HSR-350-D** *Striker (3038)*
 - **Hussar HSR-950-D** *Striker (3070)*
 
+### [Incubus](../mechs/incubus.md)
+- **Incubus (Standard)** *Striker (2954)*
+- **Incubus 2** *Striker (2960)*
+- **Incubus 3** *Striker (3025)*
+- **Incubus 4** *Striker (3065)*
+- **Incubus 5** *Striker (3065)*
+
 ### [Incubus II](../mechs/incubus_ii.md)
 - **Incubus II (Standard)** *Striker (3085)* `Active Probe`
 
@@ -344,6 +351,16 @@
 - **Javelin JVN-11D** *Striker (3062)* `C3 Slave`
 - **Javelin JVN-11D (Farrell)** *Striker (3068)* `Active Probe`
 - **Javelin JVN-11P** *Striker (3101)*
+
+### [Kit Fox](../mechs/kit_fox.md)
+- **Kit Fox  B** *Striker (2890)*
+- **Kit Fox  C** *Striker (3050)* `Active Probe`, `ECM`, `TAG`
+- **Kit Fox  S** *Striker (3050)*
+- **Kit Fox  E** *Striker (3054)*
+- **Kit Fox  H** *Striker (3059)*
+- **Kit Fox  J** *Striker (3060)*
+- **Kit Fox  K** *Striker (3088)*
+- **Kit Fox  R** *Striker (3121)*
 
 ### [Malak](../mechs/malak.md)
 - **Malak  C-MK-O Invictus** *Striker (3069)* `C3i`
@@ -400,16 +417,6 @@
 - **Spider SDR-7K** *Striker (3067)*
 - **Spider SDR-8X** *Striker (3078)*
 
-### [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
-- **Uller (Kit Fox)  B** *Striker (2890)*
-- **Uller (Kit Fox)  C** *Striker (3050)* `Active Probe`, `ECM`, `TAG`
-- **Uller (Kit Fox)  S** *Striker (3050)*
-- **Uller (Kit Fox)  E** *Striker (3054)*
-- **Uller (Kit Fox)  H** *Striker (3059)*
-- **Uller (Kit Fox)  J** *Striker (3060)*
-- **Uller (Kit Fox)  K** *Striker (3088)*
-- **Uller (Kit Fox)  R** *Striker (3121)*
-
 ### [Valiant](../mechs/valiant.md)
 - **Valiant V4-LNT-K7** *Striker (3068)*
 - **Valiant V4-LNT-J3** *Striker (3074)*
@@ -422,13 +429,6 @@
 - **Valkyrie VLK-QT2** *Striker (3081)*
 - **Valkyrie VLK-QD4** *Striker (3085)*
 
-### [Vixen (Incubus)](../mechs/vixen_incubus.md)
-- **Vixen (Incubus) (Standard)** *Striker (2954)*
-- **Vixen (Incubus) 2** *Striker (2960)*
-- **Vixen (Incubus) 3** *Striker (3025)*
-- **Vixen (Incubus) 4** *Striker (3065)*
-- **Vixen (Incubus) 5** *Striker (3065)*
-
 ### [Wulfen](../mechs/wulfen.md)
 - **Wulfen  A** *Striker (3137)* `ECM`, `Stealth`
 - **Wulfen  C** *Striker (3137)* `ECM`, `Stealth`
@@ -436,6 +436,10 @@
 - **Wulfen  H** *Striker (3137)* `ECM`, `Stealth`
 
 ## 35 Tons
+
+### [Adder](../mechs/adder.md)
+- **Adder  I** *Striker (3125)*
+- **Adder  L** *Striker (3147)* `ECM`
 
 ### [Arion](../mechs/arion.md)
 - **Arion (Standard)** *Striker (3136)*
@@ -477,6 +481,12 @@
 
 ### [Hollander III](../mechs/hollander_iii.md)
 - **Hollander III BZK-D3** *Striker (3118)* `ECM`
+
+### [Horned Owl](../mechs/horned_owl.md)
+- **Horned Owl (Standard)** *Striker (2835)*
+- **Horned Owl 4** *Striker (3064)*
+- **Horned Owl 7** *Striker (3088)* `TAG`
+- **Horned Owl 6** *Striker (3132)*
 
 ### [Jaguar](../mechs/jaguar.md)
 - **Jaguar (Standard)** *Striker (3121)*
@@ -534,18 +544,8 @@
 - **Parash 3** *Striker (3083)* `Active Probe`, `ECM`, `TAG`
 - **Parash 2** *Striker (3084)* `Active Probe`, `ECM`, `TAG`
 
-### [Peregrine (Horned Owl)](../mechs/peregrine_horned_owl.md)
-- **Peregrine (Horned Owl) (Standard)** *Striker (2835)*
-- **Peregrine (Horned Owl) 4** *Striker (3064)*
-- **Peregrine (Horned Owl) 7** *Striker (3088)* `TAG`
-- **Peregrine (Horned Owl) 6** *Striker (3132)*
-
 ### [Phoenix Hawk L](../mechs/phoenix_hawk_l.md)
 - **Phoenix Hawk L PXH-11K2** *Striker (3116)*
-
-### [Puma (Adder)](../mechs/puma_adder.md)
-- **Puma (Adder)  I** *Striker (3125)*
-- **Puma (Adder)  L** *Striker (3147)* `ECM`
 
 ### [Raven](../mechs/raven.md)
 - **Raven RVN-2X** *Striker (3030)*
@@ -688,19 +688,6 @@
 - **Dasher II 3** *Striker (3136)*
 - **Dasher II 4** *Striker (3136)*
 
-### [Dragonfly (Viper)](../mechs/dragonfly_viper.md)
-- **Dragonfly (Viper)  A** *Striker (2940)*
-- **Dragonfly (Viper)  B** *Striker (2940)*
-- **Dragonfly (Viper)  C** *Striker (2940)* `Active Probe`
-- **Dragonfly (Viper)  D** *Striker (2940)*
-- **Dragonfly (Viper)  E** *Striker (3054)*
-- **Dragonfly (Viper)  H** *Striker (3062)*
-- **Dragonfly (Viper)  I** *Striker (3068)* `Active Probe`
-- **Dragonfly (Viper)  F** *Striker (3070)*
-- **Dragonfly (Viper)  G** *Striker (3071)* `Active Probe`
-- **Dragonfly (Viper)  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
-- **Dragonfly (Viper)  U** *Striker (3077)* `ECM`
-
 ### [Griffin IIC](../mechs/griffin_iic.md)
 - **Griffin IIC 2** *Striker (2973)*
 - **Griffin IIC 3** *Striker (3060)*
@@ -772,6 +759,19 @@
 ### [Tsunami](../mechs/tsunami.md)
 - **Tsunami TS-P1D** *Striker (3063)*
 
+### [Viper](../mechs/viper.md)
+- **Viper  A** *Striker (2940)*
+- **Viper  B** *Striker (2940)*
+- **Viper  C** *Striker (2940)* `Active Probe`
+- **Viper  D** *Striker (2940)*
+- **Viper  E** *Striker (3054)*
+- **Viper  H** *Striker (3062)*
+- **Viper  I** *Striker (3068)* `Active Probe`
+- **Viper  F** *Striker (3070)*
+- **Viper  G** *Striker (3071)* `Active Probe`
+- **Viper  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
+- **Viper  U** *Striker (3077)* `ECM`
+
 ### [Vulcan](../mechs/vulcan.md)
 - **Vulcan VL-5T** *Striker (2778)*
 - **Vulcan VT-5M** *Striker (3050)*
@@ -804,18 +804,6 @@
 - **Daedalus DAD-4A** *Striker (3064)*
 - **Daedalus DAD-4B** *Striker (3067)*
 
-### [Fenris (Ice Ferret)](../mechs/fenris_ice_ferret.md)
-- **Fenris (Ice Ferret)  Prime** *Striker (2948)* `Active Probe`
-- **Fenris (Ice Ferret)  A** *Striker (2948)*
-- **Fenris (Ice Ferret)  B** *Striker (2948)*
-- **Fenris (Ice Ferret)  D** *Striker (2948)*
-- **Fenris (Ice Ferret)  E** *Striker (3056)*
-- **Fenris (Ice Ferret)  H** *Striker (3061)*
-- **Fenris (Ice Ferret)  U** *Striker (3077)*
-- **Fenris (Ice Ferret)  G** *Striker (3088)* `TAG`
-- **Fenris (Ice Ferret)  J** *Striker (3120)*
-- **Fenris (Ice Ferret)  K** *Striker (3135)*
-
 ### [Firestarter](../mechs/firestarter.md)
 - **Firestarter  FS9-O** *Striker (3056)* `Active Probe`
 - **Firestarter  FS9-OA** *Striker (3057)*
@@ -834,17 +822,17 @@
 - **Goshawk II 2** *Striker (3086)* `ECM`
 - **Goshawk II 3** *Striker (3086)*
 
-### [Grendel (Mongrel)](../mechs/grendel_mongrel.md)
-- **Grendel (Mongrel)  Prime** *Striker (3052)*
-- **Grendel (Mongrel)  B** *Striker (3053)*
-- **Grendel (Mongrel)  C** *Striker (3053)*
-- **Grendel (Mongrel)  D** *Striker (3053)*
-- **Grendel (Mongrel)  E** *Striker (3061)*
-- **Grendel (Mongrel)  H** *Striker (3064)*
-- **Grendel (Mongrel)  F** *Striker (3069)*
-- **Grendel (Mongrel)  I** *Striker (3140)*
-- **Grendel (Mongrel)  J** *Striker (3140)*
-- **Grendel (Mongrel)  T** *Striker (3142)*
+### [Grendel](../mechs/grendel.md)
+- **Grendel  Prime** *Striker (3052)*
+- **Grendel  B** *Striker (3053)*
+- **Grendel  C** *Striker (3053)*
+- **Grendel  D** *Striker (3053)*
+- **Grendel  E** *Striker (3061)*
+- **Grendel  H** *Striker (3064)*
+- **Grendel  F** *Striker (3069)*
+- **Grendel  I** *Striker (3140)*
+- **Grendel  J** *Striker (3140)*
+- **Grendel  T** *Striker (3142)*
 
 ### [Hatchetman](../mechs/hatchetman.md)
 - **Hatchetman HCT-8S** *Striker (3140)*
@@ -859,6 +847,18 @@
 - **Hierofalcon  A** *Striker (3148)*
 - **Hierofalcon  B** *Striker (3148)*
 - **Hierofalcon  D** *Striker (3148)*
+
+### [Ice Ferret](../mechs/ice_ferret.md)
+- **Ice Ferret  Prime** *Striker (2948)* `Active Probe`
+- **Ice Ferret  A** *Striker (2948)*
+- **Ice Ferret  B** *Striker (2948)*
+- **Ice Ferret  D** *Striker (2948)*
+- **Ice Ferret  E** *Striker (3056)*
+- **Ice Ferret  H** *Striker (3061)*
+- **Ice Ferret  U** *Striker (3077)*
+- **Ice Ferret  G** *Striker (3088)* `TAG`
+- **Ice Ferret  J** *Striker (3120)*
+- **Ice Ferret  K** *Striker (3135)*
 
 ### [Komodo](../mechs/komodo.md)
 - **Komodo KIM-2** *Striker (3053)* `ECM`, `TAG`
@@ -936,12 +936,12 @@
 - **Stealth STH-1D (Anna)** *Striker (3065)* `Active Probe`
 - **Stealth STH-5X** *Striker (3076)* `Active Probe`, `ECM`, `Stealth`
 
-### [Wolf Trap (Tora)](../mechs/wolf_trap_tora.md)
-- **Wolf Trap (Tora) WFT-1** *Striker (3051)*
-- **Wolf Trap (Tora) WFT-C** *Striker (3060)* `C3 Slave`
-- **Wolf Trap (Tora) WFT-B** *Striker (3069)* `C3i`
-- **Wolf Trap (Tora) WFT-2** *Striker (3071)*
-- **Wolf Trap (Tora) WFT-2B** *Striker (3080)*
+### [Wolf Trap](../mechs/wolf_trap.md)
+- **Wolf Trap WFT-1** *Striker (3051)*
+- **Wolf Trap WFT-C** *Striker (3060)* `C3 Slave`
+- **Wolf Trap WFT-B** *Striker (3069)* `C3i`
+- **Wolf Trap WFT-2** *Striker (3071)*
+- **Wolf Trap WFT-2B** *Striker (3080)*
 
 ## 50 Tons
 
@@ -950,9 +950,6 @@
 
 ### [Aquagladius](../mechs/aquagladius.md)
 - **Aquagladius AQS-3** *Striker (3065)*
-
-### [Black Hawk (Nova)](../mechs/black_hawk_nova.md)
-- **Black Hawk (Nova)  U** *Striker (3077)* `Active Probe`, `ECM`
 
 ### [Blitzkrieg](../mechs/blitzkrieg.md)
 - **Blitzkrieg BTZ-3F** *Striker (3061)*
@@ -999,6 +996,9 @@
 - **Nightsky NGS-5T** *Striker (3057)*
 - **Nightsky NGS-6S** *Striker (3066)*
 - **Nightsky NGS-6T** *Striker (3067)*
+
+### [Nova](../mechs/nova.md)
+- **Nova  U** *Striker (3077)* `Active Probe`, `ECM`
 
 ### [Phoenix Hawk LAM](../mechs/phoenix_hawk_lam.md)
 - **Phoenix Hawk LAM PHX-HK2** *Striker (2701)*
@@ -1069,17 +1069,6 @@
 ### [Rook](../mechs/rook.md)
 - **Rook NH-3X** *Striker (3076)*
 
-### [Ryoken (Stormcrow)](../mechs/ryoken_stormcrow.md)
-- **Ryoken (Stormcrow)  Prime** *Striker (2930)*
-- **Ryoken (Stormcrow)  A** *Striker (2930)*
-- **Ryoken (Stormcrow)  B** *Striker (2930)*
-- **Ryoken (Stormcrow)  C** *Striker (2930)*
-- **Ryoken (Stormcrow)  E** *Striker (3054)* `Active Probe`
-- **Ryoken (Stormcrow)  H** *Striker (3059)*
-- **Ryoken (Stormcrow)  G** *Striker (3068)*
-- **Ryoken (Stormcrow)  F** *Striker (3069)*
-- **Ryoken (Stormcrow)  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`
-
 ### [Ryoken III-XP](../mechs/ryoken_iii-xp.md)
 - **Ryoken III-XP  Prime** *Striker (3143)*
 - **Ryoken III-XP  A** *Striker (3143)*
@@ -1097,6 +1086,17 @@
 ### [Stooping Hawk](../mechs/stooping_hawk.md)
 - **Stooping Hawk  F** *Striker (3072)*
 
+### [Stormcrow](../mechs/stormcrow.md)
+- **Stormcrow  Prime** *Striker (2930)*
+- **Stormcrow  A** *Striker (2930)*
+- **Stormcrow  B** *Striker (2930)*
+- **Stormcrow  C** *Striker (2930)*
+- **Stormcrow  E** *Striker (3054)* `Active Probe`
+- **Stormcrow  H** *Striker (3059)*
+- **Stormcrow  G** *Striker (3068)*
+- **Stormcrow  F** *Striker (3069)*
+- **Stormcrow  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`
+
 ### [Wolverine](../mechs/wolverine.md)
 - **Wolverine WVR-9W** *Striker (3077)* `C3i`
 - **Wolverine WVR-9W2** *Striker (3084)* `C3 Slave`, `ECM`
@@ -1109,10 +1109,10 @@
 
 ## 65 Tons
 
-### [Loki (Hellbringer)](../mechs/loki_hellbringer.md)
-- **Loki (Hellbringer)  Prime** *Striker (2926)* `Active Probe`, `ECM`
-- **Loki (Hellbringer)  A** *Striker (2926)* `Active Probe`
-- **Loki (Hellbringer)  B** *Striker (2926)*
-- **Loki (Hellbringer)  C** *Striker (3054)*
-- **Loki (Hellbringer)  F** *Striker (3054)*
-- **Loki (Hellbringer)  D** *Striker (3069)*
+### [Hellbringer](../mechs/hellbringer.md)
+- **Hellbringer  Prime** *Striker (2926)* `Active Probe`, `ECM`
+- **Hellbringer  A** *Striker (2926)* `Active Probe`
+- **Hellbringer  B** *Striker (2926)*
+- **Hellbringer  C** *Striker (3054)*
+- **Hellbringer  F** *Striker (3054)*
+- **Hellbringer  D** *Striker (3069)*

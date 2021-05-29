@@ -1,5 +1,5 @@
 # Black Hawk (Nova)
-## Black Hawk (Nova) Prime
+## Nova "Black Hawk" Prime
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
@@ -12,7 +12,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2663
 
-## Black Hawk (Nova) A
+## Nova "Black Hawk" A
 - **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
@@ -29,7 +29,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2422
 
-## Black Hawk (Nova) B
+## Nova "Black Hawk" B
 - **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
@@ -47,7 +47,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1543
 
-## Black Hawk (Nova) C
+## Nova "Black Hawk" C
 - **Role:** Sniper
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
@@ -64,7 +64,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1515
 
-## Black Hawk (Nova) D
+## Nova "Black Hawk" D
 - **Role:** Missile Boat
 - **Tech Base:** Clan (2870)
 - **Chassis:** 50 tons
@@ -80,7 +80,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1450
 
-## Black Hawk (Nova) S
+## Nova "Black Hawk" S
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3050)
 - **Chassis:** 50 tons
@@ -98,7 +98,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2056
 
-## Black Hawk (Nova) E
+## Nova "Black Hawk" E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3054)
 - **Chassis:** 50 tons
@@ -114,7 +114,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2078
 
-## Black Hawk (Nova) H
+## Nova "Black Hawk" H
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3059)
 - **Chassis:** 50 tons
@@ -127,7 +127,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1832
 
-## Black Hawk (Nova) F
+## Nova "Black Hawk" F
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons
@@ -143,7 +143,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1976
 
-## Black Hawk (Nova) U
+## Nova "Black Hawk" U
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 50 tons
@@ -166,7 +166,7 @@
 - **Source:** Jihad
 - **Battle Value:** 1413
 
-## Black Hawk (Nova) I
+## Nova "Black Hawk" I
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3094)
 - **Chassis:** 50 tons
@@ -180,7 +180,7 @@
 - **Source:** RS 3145 NTNU - Early Republic
 - **Battle Value:** 2224
 
-## Black Hawk (Nova) X
+## Nova "Black Hawk" X
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 50 tons
@@ -196,7 +196,7 @@
 - **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2761
 
-## Black Hawk (Nova) G
+## Nova "Black Hawk" G
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3150)
 - **Chassis:** 50 tons
@@ -214,7 +214,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1822
 
-## Black Hawk (Nova) J
+## Nova "Black Hawk" J
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3150)
 - **Chassis:** 50 tons
@@ -230,7 +230,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 2052
 
-## Black Hawk (Nova) K
+## Nova "Black Hawk" K
 - **Role:** Brawler
 - **Tech Base:** Clan (3150)
 - **Chassis:** 50 tons
@@ -247,7 +247,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1932
 
-## Black Hawk (Nova) L
+## Nova "Black Hawk" L
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3150)
 - **Chassis:** 50 tons
@@ -261,7 +261,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 2177
 
-## Black Hawk (Nova) R
+## Nova "Black Hawk" R
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3150)
 - **Chassis:** 50 tons

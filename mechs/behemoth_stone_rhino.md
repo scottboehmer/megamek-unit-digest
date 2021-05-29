@@ -1,5 +1,5 @@
 # Behemoth (Stone Rhino)
-## Behemoth (Stone Rhino) 4
+## Stone Rhino 4 "Behemoth"
 - **Role:** Juggernaut
 - **Tech Base:** Clan (2846)
 - **Chassis:** 100 tons
@@ -17,7 +17,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2601
 
-## Behemoth (Stone Rhino) 5
+## Stone Rhino 5 "Behemoth"
 - **Role:** Juggernaut
 - **Tech Base:** Clan (2846)
 - **Chassis:** 100 tons
@@ -32,7 +32,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2151
 
-## Behemoth (Stone Rhino) (Standard)
+## Stone Rhino (Standard) "Behemoth"
 - **Role:** Sniper
 - **Tech Base:** Clan (2847)
 - **Chassis:** 100 tons
@@ -49,7 +49,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 3001
 
-## Behemoth (Stone Rhino) 6
+## Stone Rhino 6 "Behemoth"
 - **Role:** Brawler
 - **Tech Base:** Clan (2999)
 - **Chassis:** 100 tons
@@ -63,7 +63,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2981
 
-## Behemoth (Stone Rhino) 7
+## Stone Rhino 7 "Behemoth"
 - **Role:** Sniper
 - **Tech Base:** Clan (3001)
 - **Chassis:** 100 tons
@@ -78,7 +78,7 @@
 - **Source:** ilClan Vol 2 - Dark Age
 - **Battle Value:** 2916
 
-## Behemoth (Stone Rhino) 2
+## Stone Rhino 2 "Behemoth"
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3061)
 - **Chassis:** 100 tons
@@ -98,7 +98,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 3107
 
-## Behemoth (Stone Rhino) 3
+## Stone Rhino 3 "Behemoth"
 - **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 100 tons
@@ -115,7 +115,7 @@
 - **Source:** TRO 3055 - Jihad
 - **Battle Value:** 3072
 
-## Behemoth (Stone Rhino) 8
+## Stone Rhino 8 "Behemoth"
 - **Role:** Sniper
 - **Tech Base:** Clan (3128)
 - **Chassis:** 100 tons

@@ -1,5 +1,5 @@
 # Mad Cat (Timber Wolf)
-## Mad Cat (Timber Wolf) Prime
+## Timber Wolf "Mad Cat" Prime
 - **Role:** Brawler
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
@@ -17,7 +17,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2737
 
-## Mad Cat (Timber Wolf) A
+## Timber Wolf "Mad Cat" A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
@@ -34,7 +34,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2854
 
-## Mad Cat (Timber Wolf) B
+## Timber Wolf "Mad Cat" B
 - **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
@@ -52,7 +52,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2224
 
-## Mad Cat (Timber Wolf) C
+## Timber Wolf "Mad Cat" C
 - **Role:** Sniper
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
@@ -70,7 +70,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2500
 
-## Mad Cat (Timber Wolf) D
+## Timber Wolf "Mad Cat" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2945)
 - **Chassis:** 75 tons (Endo Steel)
@@ -86,7 +86,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 2682
 
-## Mad Cat (Timber Wolf) N
+## Timber Wolf "Mad Cat" N
 - **Role:** Brawler
 - **Tech Base:** Clan (3050)
 - **Chassis:** 75 tons (Endo Steel)
@@ -102,7 +102,7 @@
   - CASE
 - **Battle Value:** 2862
 
-## Mad Cat (Timber Wolf) S
+## Timber Wolf "Mad Cat" S
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3050)
 - **Chassis:** 75 tons (Endo Steel)
@@ -121,7 +121,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2462
 
-## Mad Cat (Timber Wolf) (Pryde)
+## Timber Wolf "Mad Cat" (Pryde)
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
@@ -139,7 +139,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2900
 
-## Mad Cat (Timber Wolf) TC
+## Timber Wolf "Mad Cat" TC
 - **Role:** Undefined
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
@@ -157,7 +157,7 @@
 - **Source:** Clan Invasion
 - **Battle Value:** 2903
 
-## Mad Cat (Timber Wolf) E
+## Timber Wolf "Mad Cat" E
 - **Role:** Sniper
 - **Tech Base:** Clan (3054)
 - **Chassis:** 75 tons (Endo Steel)
@@ -173,7 +173,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2444
 
-## Mad Cat (Timber Wolf) H
+## Timber Wolf "Mad Cat" H
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3059)
 - **Chassis:** 75 tons (Endo Steel)
@@ -189,7 +189,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 2627
 
-## Mad Cat (Timber Wolf) (Bounty Hunter)
+## Timber Wolf "Mad Cat" (Bounty Hunter)
 - **Role:** Brawler
 - **Tech Base:** Clan (3060)
 - **Chassis:** 75 tons (Endo Steel)
@@ -207,7 +207,7 @@
 - **Source:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion
 - **Battle Value:** 2829
 
-## Mad Cat (Timber Wolf) (Bounty Hunter 2)
+## Timber Wolf "Mad Cat" (Bounty Hunter 2)
 - **Role:** Brawler
 - **Tech Base:** Clan (3068)
 - **Chassis:** 75 tons (Endo Steel)
@@ -229,7 +229,7 @@
 - **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
 - **Battle Value:** 2799
 
-## Mad Cat (Timber Wolf) M
+## Timber Wolf "Mad Cat" M
 - **Role:** Brawler
 - **Tech Base:** Clan (3068)
 - **Chassis:** 75 tons (Endo Steel)
@@ -245,7 +245,7 @@
   - CASE
 - **Battle Value:** 2741
 
-## Mad Cat (Timber Wolf) F
+## Timber Wolf "Mad Cat" F
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3069)
 - **Chassis:** 75 tons (Endo Steel)
@@ -262,7 +262,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 2764
 
-## Mad Cat (Timber Wolf) Z
+## Timber Wolf "Mad Cat" Z
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 75 tons (Endo Steel)
@@ -279,7 +279,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2923
 
-## Mad Cat (Timber Wolf) U
+## Timber Wolf "Mad Cat" U
 - **Role:** Sniper
 - **Tech Base:** Clan (3077)
 - **Chassis:** 75 tons (Endo Steel)
@@ -297,7 +297,7 @@
 - **Source:** RS 3085 - Jihad
 - **Battle Value:** 2627
 
-## Mad Cat (Timber Wolf) W
+## Timber Wolf "Mad Cat" W
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3100)
 - **Chassis:** 75 tons (Endo Steel)
@@ -314,7 +314,7 @@
   - CASE
 - **Battle Value:** 2791
 
-## Mad Cat (Timber Wolf) BLO
+## Timber Wolf "Mad Cat" BLO
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3129)
 - **Chassis:** 75 tons (Endo Steel)
@@ -333,7 +333,7 @@
 - **Source:** SO: Unending Faith - Late Republic Era
 - **Battle Value:** 2611
 
-## Mad Cat (Timber Wolf) T
+## Timber Wolf "Mad Cat" T
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3142)
 - **Chassis:** 75 tons (Endo Steel)

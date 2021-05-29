@@ -1,5 +1,5 @@
 # Pariah (Septicemia)
-## Pariah (Septicemia) Prime
+## Septicemia "Pariah" Prime
 - **Role:** Sniper
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -15,7 +15,7 @@
 - **Source:** TRO 3075- Jihad
 - **Battle Value:** 2511
 
-## Pariah (Septicemia) A
+## Septicemia "Pariah" A
 - **Role:** Scout
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -30,7 +30,7 @@
 - **Source:** TRO 3075- Jihad
 - **Battle Value:** 1935
 
-## Pariah (Septicemia) A-Z
+## Septicemia "Pariah" A-Z
 - **Role:** Brawler
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -47,7 +47,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2388
 
-## Pariah (Septicemia) B
+## Septicemia "Pariah" B
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -63,7 +63,7 @@
 - **Source:** TRO 3075- Jihad
 - **Battle Value:** 2310
 
-## Pariah (Septicemia) B-Z
+## Septicemia "Pariah" B-Z
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -81,7 +81,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2349
 
-## Pariah (Septicemia) C
+## Septicemia "Pariah" C
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -99,7 +99,7 @@
 - **Source:** TRO 3075- Jihad
 - **Battle Value:** 2227
 
-## Pariah (Septicemia) C-Z
+## Septicemia "Pariah" C-Z
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -118,7 +118,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2264
 
-## Pariah (Septicemia) D
+## Septicemia "Pariah" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -136,7 +136,7 @@
 - **Source:** TRO 3075- Jihad
 - **Battle Value:** 2718
 
-## Pariah (Septicemia) D-Z
+## Septicemia "Pariah" D-Z
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -154,7 +154,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2704
 
-## Pariah (Septicemia) E
+## Septicemia "Pariah" E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -171,7 +171,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2950
 
-## Pariah (Septicemia) F
+## Septicemia "Pariah" F
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -185,7 +185,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 1389
 
-## Pariah (Septicemia) US
+## Septicemia "Pariah" US
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3072)
 - **Chassis:** 55 tons (Endo Steel)
@@ -205,7 +205,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 2298
 
-## Pariah (Septicemia) UW
+## Septicemia "Pariah" UW
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3072)
 - **Chassis:** 55 tons (Endo Steel)

@@ -1,5 +1,5 @@
 # Mad Cat Mk IV (Savage Wolf)
-## Mad Cat Mk IV (Savage Wolf) PR (Standard)
+## Savage Wolf PR "Mad Cat Mk IV"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3130)
 - **Chassis:** 75 tons (Endo Steel)
@@ -15,7 +15,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2702
 
-## Mad Cat Mk IV (Savage Wolf) PR 2
+## Savage Wolf PR 2 "Mad Cat Mk IV"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3131)
 - **Chassis:** 75 tons (Endo Steel)
@@ -32,7 +32,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2666
 
-## Mad Cat Mk IV (Savage Wolf) (Prime)
+## Savage Wolf "Mad Cat Mk IV" (Prime)
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
@@ -48,7 +48,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2681
 
-## Mad Cat Mk IV (Savage Wolf) A
+## Savage Wolf "Mad Cat Mk IV" A
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
@@ -65,7 +65,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2413
 
-## Mad Cat Mk IV (Savage Wolf) B
+## Savage Wolf "Mad Cat Mk IV" B
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)
@@ -83,7 +83,7 @@
 - **Source:** TRO 3145 Mercenaries - Dark Ages
 - **Battle Value:** 2606
 
-## Mad Cat Mk IV (Savage Wolf) C
+## Savage Wolf "Mad Cat Mk IV" C
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3136)
 - **Chassis:** 75 tons (Endo Steel)

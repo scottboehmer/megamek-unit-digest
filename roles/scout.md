@@ -12,30 +12,23 @@
 - **Celerity  CLR-03-OE** *Scout (3138)* `Drone`
 - **Celerity CLR-04-R** *Scout (3138)* `Drone`
 
+### [Emerald Harrier](../mechs/emerald_harrier.md)
+- **Emerald Harrier RD-1R** *Scout (3112)*
+
 ### [Flea](../mechs/flea.md)
 - **Flea FLE-14** *Scout (2519)*
 
-### [Pompier Firemech](../mechs/pompier_firemech.md)
-- **Pompier Firemech GM-3CD** *Scout (3062)* `Active Probe`
-
-### [Roadrunner (Emerald Harrier)](../mechs/roadrunner_emerald_harrier.md)
-- **Roadrunner (Emerald Harrier) RD-1R** *Scout (3112)*
+### [Pompier](../mechs/pompier.md)
+- **Pompier GM-3CD FireMech** *Scout (3062)* `Active Probe`
 
 ## 20 Tons
-
-### [Butcherbird (Ion Sparrow)](../mechs/butcherbird_ion_sparrow.md)
-- **Butcherbird (Ion Sparrow)  Prime** *Scout (3147)*
-- **Butcherbird (Ion Sparrow)  A** *Scout (3147)* `Active Probe`
-- **Butcherbird (Ion Sparrow)  B** *Scout (3147)*
-- **Butcherbird (Ion Sparrow)  C** *Scout (3147)*
-- **Butcherbird (Ion Sparrow)  D** *Scout (3147)*
 
 ### [Cossack](../mechs/cossack.md)
 - **Cossack C-1FC** *Scout (3076)*
 
-### [Dasher (Fire Moth)](../mechs/dasher_fire_moth.md)
-- **Dasher (Fire Moth)  A** *Scout (2874)* `Active Probe`, `TAG`
-- **Dasher (Fire Moth)  E** *Scout (3055)*
+### [Fire Moth](../mechs/fire_moth.md)
+- **Fire Moth  A** *Scout (2874)* `Active Probe`, `TAG`
+- **Fire Moth  E** *Scout (3055)*
 
 ### [Fireball](../mechs/fireball.md)
 - **Fireball ALM-7D** *Scout (3053)*
@@ -47,6 +40,13 @@
 - **Flea FLE-4** *Scout (2501)*
 - **Flea FLE-15** *Scout (2523)*
 - **Flea 'Fire Ant'** *Scout (3063)*
+
+### [Ion Sparrow](../mechs/ion_sparrow.md)
+- **Ion Sparrow  Prime** *Scout (3147)*
+- **Ion Sparrow  A** *Scout (3147)* `Active Probe`
+- **Ion Sparrow  B** *Scout (3147)*
+- **Ion Sparrow  C** *Scout (3147)*
+- **Ion Sparrow  D** *Scout (3147)*
 
 ### [Kabuto](../mechs/kabuto.md)
 - **Kabuto KBO-7B** *Scout (3068)*
@@ -145,12 +145,6 @@
 ### [Koshi](../mechs/koshi.md)
 - **Koshi (Standard) 3** *Scout (3095)* `Active Probe`, `ECM`, `TAG`
 
-### [Koshi (Mist Lynx)](../mechs/koshi_mist_lynx.md)
-- **Koshi (Mist Lynx)  Prime** *Scout (2926)* `Active Probe`
-- **Koshi (Mist Lynx)  A** *Scout (2926)* `Active Probe`, `TAG`
-- **Koshi (Mist Lynx)  P** *Scout (3061)* `Active Probe`
-- **Koshi (Mist Lynx)  F** *Scout (3063)* `Active Probe`, `ECM`, `TAG`
-
 ### [Koto](../mechs/koto.md)
 - **Koto KT-P2** *Scout (3052)*
 
@@ -158,6 +152,12 @@
 - **Locust IIC 4** *Scout (3064)*
 - **Locust IIC 6** *Scout (3075)*
 - **Locust IIC 8** *Scout (3084)*
+
+### [Mist Lynx](../mechs/mist_lynx.md)
+- **Mist Lynx  Prime** *Scout (2926)* `Active Probe`
+- **Mist Lynx  A** *Scout (2926)* `Active Probe`, `TAG`
+- **Mist Lynx  P** *Scout (3061)* `Active Probe`
+- **Mist Lynx  F** *Scout (3063)* `Active Probe`, `ECM`, `TAG`
 
 ### [Mjolnir](../mechs/mjolnir.md)
 - **Mjolnir MLR-B2** *Scout (3077)*
@@ -222,6 +222,9 @@
 ### [Javelin](../mechs/javelin.md)
 - **Javelin JVN-11F** *Scout (3070)*
 
+### [Kit Fox](../mechs/kit_fox.md)
+- **Kit Fox  T** *Scout (3142)* `Active Probe`
+
 ### [Mantis](../mechs/mantis.md)
 - **Mantis SA-MN** *Scout (3052)*
 
@@ -252,8 +255,8 @@
 - **Spider SDR-8Xr** *Scout (3103)*
 - **Spider SDR-10K** *Scout (3143)*
 
-### [Spindrift Aquatic SecurityMech](../mechs/spindrift_aquatic_securitymech.md)
-- **Spindrift Aquatic SecurityMech SDT-1A** *Scout (3083)*
+### [Spindrift](../mechs/spindrift.md)
+- **Spindrift SDT-1A Aquatic SecurityMech** *Scout (3083)*
 
 ### [Stinger LAM](../mechs/stinger_lam.md)
 - **Stinger LAM STG-A5** *Scout (2701)*
@@ -261,9 +264,6 @@
 
 ### [Stinger LAM Mk I](../mechs/stinger_lam_mk_i.md)
 - **Stinger LAM Mk I STG-A1** *Scout (2688)*
-
-### [Uller (Kit Fox)](../mechs/uller_kit_fox.md)
-- **Uller (Kit Fox)  T** *Scout (3142)* `Active Probe`
 
 ### [Wasp LAM](../mechs/wasp_lam.md)
 - **Wasp LAM WSP-105** *Scout (2701)*
@@ -282,11 +282,14 @@
 
 ## 35 Tons
 
+### [Adder](../mechs/adder.md)
+- **Adder  S** *Scout (3050)* `Active Probe`, `ECM`
+
 ### [Firestarter](../mechs/firestarter.md)
 - **Firestarter FS9-A** *Scout (2550)*
 - **Firestarter FS9-K** *Scout (2550)*
 - **Firestarter FS9-H** *Scout (2703)*
-- **Firestarter FS9-M 'Mirage'** *Scout (2893)*
+- **Firestarter FS9-M** *Scout (2893)*
 - **Firestarter FS9-S** *Scout (3049)* `Active Probe`
 - **Firestarter FS9-S1** *Scout (3049)* `ECM`
 - **Firestarter FS9-B** *Scout (3070)* `C3i`
@@ -328,9 +331,6 @@
 ### [Phoenix Hawk L](../mechs/phoenix_hawk_l.md)
 - **Phoenix Hawk L PXH-11K** *Scout (3116)*
 
-### [Puma (Adder)](../mechs/puma_adder.md)
-- **Puma (Adder)  S** *Scout (3050)* `Active Probe`, `ECM`
-
 ### [Raven](../mechs/raven.md)
 - **Raven RVN-1X** *Scout (3024)* `Active Probe`, `ECM`
 - **Raven RVN-3X** *Scout (3028)* `Active Probe`, `ECM`
@@ -368,9 +368,6 @@
 
 ### [Dasher II](../mechs/dasher_ii.md)
 - **Dasher II (Standard)** *Scout (3077)*
-
-### [Dragonfly (Viper)](../mechs/dragonfly_viper.md)
-- **Dragonfly (Viper)  Prime** *Scout (2940)*
 
 ### [Hermes II](../mechs/hermes_ii.md)
 - **Hermes II HER-2S** *Scout (2798)*
@@ -412,6 +409,9 @@
 ### [Tsunami](../mechs/tsunami.md)
 - **Tsunami TS-P1** *Scout (3052)*
 
+### [Viper](../mechs/viper.md)
+- **Viper  Prime** *Scout (2940)*
+
 ### [Vulcan](../mechs/vulcan.md)
 - **Vulcan VL-2T** *Scout (2777)*
 - **Vulcan VT-5Sr** *Scout (3075)*
@@ -421,20 +421,20 @@
 ### [Beowulf IIC](../mechs/beowulf_iic.md)
 - **Beowulf IIC (Standard)** *Scout (3084)* `Active Probe`, `ECM`, `TAG`
 
-### [Fenris (Ice Ferret)](../mechs/fenris_ice_ferret.md)
-- **Fenris (Ice Ferret)  L** *Scout (3069)*
-- **Fenris (Ice Ferret)  I** *Scout (3099)* `Active Probe`
-- **Fenris (Ice Ferret)  T** *Scout (3142)* `Active Probe`
+### [Grendel](../mechs/grendel.md)
+- **Grendel  G** *Scout (3090)* `Active Probe`, `ECM`
 
-### [Grendel (Mongrel)](../mechs/grendel_mongrel.md)
-- **Grendel (Mongrel)  G** *Scout (3090)* `Active Probe`, `ECM`
+### [Ice Ferret](../mechs/ice_ferret.md)
+- **Ice Ferret  L** *Scout (3069)*
+- **Ice Ferret  I** *Scout (3099)* `Active Probe`
+- **Ice Ferret  T** *Scout (3142)* `Active Probe`
 
 ### [Preta](../mechs/preta.md)
 - **Preta  C-PRT-O (Kendali)** *Scout (3071)* `C3i`, `TAG`
 - **Preta  C-PRT-OU Exanimus** *Scout (3077)* `C3i`
 
-### [Quasit MilitiaMech](../mechs/quasit_militiamech.md)
-- **Quasit MilitiaMech QUA-51P** *Scout (3074)*
+### [Quasit](../mechs/quasit.md)
+- **Quasit QUA-51P MilitiaMech** *Scout (3074)*
 
 ### [Shadow Cat](../mechs/shadow_cat.md)
 - **Shadow Cat  TC** *Scout (3050)* `Active Probe`
@@ -463,8 +463,8 @@
 ### [Men Shen](../mechs/men_shen.md)
 - **Men Shen  MS1-OG** *Scout (3134)* `Active Probe`
 
-### [Pariah (Septicemia)](../mechs/pariah_septicemia.md)
-- **Pariah (Septicemia)  A** *Scout (3072)*
+### [Septicemia](../mechs/septicemia.md)
+- **Septicemia  A** *Scout (3072)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-5R** *Scout (3087)*
@@ -476,11 +476,11 @@
 
 ## 65 Tons
 
+### [Hellbringer](../mechs/hellbringer.md)
+- **Hellbringer  J** *Scout (3058)* `Active Probe`
+
 ### [Linebacker](../mechs/linebacker.md)
 - **Linebacker  I** *Scout (3142)* `Active Probe`
-
-### [Loki (Hellbringer)](../mechs/loki_hellbringer.md)
-- **Loki (Hellbringer)  J** *Scout (3058)* `Active Probe`
 
 ### [Morpheus](../mechs/morpheus.md)
 - **Morpheus MR-P1** *Scout (3051)* `Active Probe`, `ECM`

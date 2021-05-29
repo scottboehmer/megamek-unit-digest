@@ -1,5 +1,5 @@
 # Dragonfly (Viper)
-## Dragonfly (Viper) Prime
+## Viper "Dragonfly" Prime
 - **Role:** Scout
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
@@ -17,7 +17,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1450
 
-## Dragonfly (Viper) A
+## Viper "Dragonfly" A
 - **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
@@ -33,7 +33,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1989
 
-## Dragonfly (Viper) B
+## Viper "Dragonfly" B
 - **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
@@ -48,7 +48,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1830
 
-## Dragonfly (Viper) C
+## Viper "Dragonfly" C
 - **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
@@ -66,7 +66,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1344
 
-## Dragonfly (Viper) D
+## Viper "Dragonfly" D
 - **Role:** Striker
 - **Tech Base:** Clan (2940)
 - **Chassis:** 40 tons (Endo Steel)
@@ -84,7 +84,7 @@
 - **Source:** TRO 3050 - Succession Wars
 - **Battle Value:** 1779
 
-## Dragonfly (Viper) E
+## Viper "Dragonfly" E
 - **Role:** Striker
 - **Tech Base:** Clan (3054)
 - **Chassis:** 40 tons (Endo Steel)
@@ -101,7 +101,7 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 1561
 
-## Dragonfly (Viper) H
+## Viper "Dragonfly" H
 - **Role:** Striker
 - **Tech Base:** Clan (3062)
 - **Chassis:** 40 tons (Endo Steel)
@@ -119,7 +119,7 @@
 - **Source:** TRO 3050 - Civil War
 - **Battle Value:** 1732
 
-## Dragonfly (Viper) I
+## Viper "Dragonfly" I
 - **Role:** Striker
 - **Tech Base:** Clan (3068)
 - **Chassis:** 40 tons (Endo Steel)
@@ -138,7 +138,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1580
 
-## Dragonfly (Viper) F
+## Viper "Dragonfly" F
 - **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 40 tons (Endo Steel)
@@ -155,7 +155,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1689
 
-## Dragonfly (Viper) G
+## Viper "Dragonfly" G
 - **Role:** Striker
 - **Tech Base:** Clan (3071)
 - **Chassis:** 40 tons (Endo Steel)
@@ -173,7 +173,7 @@
 - **Source:** TRO 3050 - Jihad
 - **Battle Value:** 1574
 
-## Dragonfly (Viper) Z
+## Viper "Dragonfly" Z
 - **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 40 tons (Endo Steel)
@@ -192,7 +192,7 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 1692
 
-## Dragonfly (Viper) U
+## Viper "Dragonfly" U
 - **Role:** Striker
 - **Tech Base:** Clan Mixed (3077)
 - **Chassis:** 40 tons (Endo Steel)
@@ -211,7 +211,7 @@
 - **Source:** Jihad
 - **Battle Value:** 1417
 
-## Dragonfly (Viper) R
+## Viper "Dragonfly" R
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3110)
 - **Chassis:** 40 tons (Endo Steel)
@@ -229,7 +229,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1335
 
-## Dragonfly (Viper) T
+## Viper "Dragonfly" T
 - **Role:** Undefined
 - **Tech Base:** Clan (3142)
 - **Chassis:** 40 tons (Endo Steel)
@@ -249,7 +249,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1704
 
-## Dragonfly (Viper) J
+## Viper "Dragonfly" J
 - **Role:** Undefined
 - **Tech Base:** Clan (3144)
 - **Chassis:** 40 tons (Endo Steel)
@@ -265,7 +265,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1259
 
-## Dragonfly (Viper) K
+## Viper "Dragonfly" K
 - **Role:** Undefined
 - **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 40 tons (Endo Steel)
@@ -284,7 +284,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1545
 
-## Dragonfly (Viper) L
+## Viper "Dragonfly" L
 - **Role:** Undefined
 - **Tech Base:** Clan (3147)
 - **Chassis:** 40 tons (Endo Steel)
@@ -300,7 +300,7 @@
 - **Source:** Dark Age
 - **Battle Value:** 1417
 
-## Dragonfly (Viper) M
+## Viper "Dragonfly" M
 - **Role:** Undefined
 - **Tech Base:** Clan (3149)
 - **Chassis:** 40 tons (Endo Steel)

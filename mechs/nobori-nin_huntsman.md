@@ -1,5 +1,5 @@
 # Nobori-nin (Huntsman)
-## Nobori-nin (Huntsman) Prime
+## Huntsman "Nobori-nin" Prime
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3049)
 - **Chassis:** 50 tons (Endo Steel)
@@ -22,7 +22,7 @@
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2108
 
-## Nobori-nin (Huntsman) A
+## Huntsman "Nobori-nin" A
 - **Role:** Sniper
 - **Tech Base:** Clan (3049)
 - **Chassis:** 50 tons (Endo Steel)
@@ -39,7 +39,7 @@
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2034
 
-## Nobori-nin (Huntsman) B
+## Huntsman "Nobori-nin" B
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3049)
 - **Chassis:** 50 tons (Endo Steel)
@@ -57,7 +57,7 @@
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2156
 
-## Nobori-nin (Huntsman) C
+## Huntsman "Nobori-nin" C
 - **Role:** Missile Boat
 - **Tech Base:** Clan (3049)
 - **Chassis:** 50 tons (Endo Steel)
@@ -78,7 +78,7 @@
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2199
 
-## Nobori-nin (Huntsman) D
+## Huntsman "Nobori-nin" D
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3061)
 - **Chassis:** 50 tons (Endo Steel)
@@ -96,7 +96,7 @@
 - **Source:** TRO 3058 - Clan Invasion
 - **Battle Value:** 2007
 
-## Nobori-nin (Huntsman) H
+## Huntsman "Nobori-nin" H
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3063)
 - **Chassis:** 50 tons (Endo Steel)
@@ -115,7 +115,7 @@
 - **Source:** TRO 3058 - Civil War
 - **Battle Value:** 2495
 
-## Nobori-nin (Huntsman) N
+## Huntsman "Nobori-nin" N
 - **Role:** Sniper
 - **Tech Base:** Clan (3068)
 - **Chassis:** 50 tons (Endo Steel)
@@ -134,7 +134,7 @@
 - **Source:** TRO 3058 - Jihad
 - **Battle Value:** 2556
 
-## Nobori-nin (Huntsman) E
+## Huntsman "Nobori-nin" E
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3070)
 - **Chassis:** 50 tons (Endo Steel)
@@ -155,7 +155,7 @@
 - **Source:** ilClan Vol 12 - Jihad
 - **Battle Value:** 2104
 
-## Nobori-nin (Huntsman) I
+## Huntsman "Nobori-nin" I
 - **Role:** Sniper
 - **Tech Base:** Clan (3088)
 - **Chassis:** 50 tons (Endo Steel)
@@ -173,7 +173,7 @@
 - **Source:** ilClan Vol 12 - Early Republic
 - **Battle Value:** 2277
 
-## Nobori-nin (Huntsman) F
+## Huntsman "Nobori-nin" F
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3132)
 - **Chassis:** 50 tons (Endo Steel)
@@ -192,7 +192,7 @@
 - **Source:** RS 3145 NTNU - Dark Ages
 - **Battle Value:** 2367
 
-## Nobori-nin (Huntsman) G
+## Huntsman "Nobori-nin" G
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3139)
 - **Chassis:** 50 tons (Endo Steel)
@@ -213,7 +213,7 @@
 - **Source:** ilClan Vol 12 - Dark Age
 - **Battle Value:** unknown
 
-## Nobori-nin (Huntsman) T
+## Huntsman "Nobori-nin" T
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
 - **Chassis:** 50 tons (Endo Steel)

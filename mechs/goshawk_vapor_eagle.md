@@ -1,5 +1,5 @@
 # Goshawk (Vapor Eagle)
-## Goshawk (Vapor Eagle) 6
+## Vapor Eagle 6 "Goshawk"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2840)
 - **Chassis:** 55 tons (Endo Steel)
@@ -16,7 +16,7 @@
 - **Source:** Succession Wars
 - **Battle Value:** 1747
 
-## Goshawk (Vapor Eagle) (Standard)
+## Vapor Eagle (Standard) "Goshawk"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2863)
 - **Chassis:** 55 tons (Endo Steel)
@@ -35,7 +35,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 2368
 
-## Goshawk (Vapor Eagle) 2
+## Vapor Eagle 2 "Goshawk"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2912)
 - **Chassis:** 55 tons (Endo Steel)
@@ -53,7 +53,7 @@
 - **Source:** TRO 3055 - Succession Wars
 - **Battle Value:** 1989
 
-## Goshawk (Vapor Eagle) 5
+## Vapor Eagle 5 "Goshawk"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (2922)
 - **Chassis:** 55 tons (Endo Steel)
@@ -71,7 +71,7 @@
 - **Source:** Succession Wars
 - **Battle Value:** 2572
 
-## Goshawk (Vapor Eagle) 3
+## Vapor Eagle 3 "Goshawk"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3062)
 - **Chassis:** 55 tons (Endo Steel)
@@ -90,7 +90,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2466
 
-## Goshawk (Vapor Eagle) 4
+## Vapor Eagle 4 "Goshawk"
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3066)
 - **Chassis:** 55 tons (Endo Steel)
@@ -106,7 +106,7 @@
 - **Source:** TRO 3055 - Civil War
 - **Battle Value:** 2069
 
-## Goshawk (Vapor Eagle) 7
+## Vapor Eagle 7 "Goshawk"
 - **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3136)
 - **Chassis:** 55 tons (Endo Steel)

@@ -44,7 +44,7 @@
 - **Source:** TRO 3039 - Star League
 - **Battle Value:** 694
 
-## Firestarter FS9-M 'Mirage'
+## Firestarter FS9-M "Mirage"
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (2893)
 - **Chassis:** 35 tons
