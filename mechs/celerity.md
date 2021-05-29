@@ -150,3 +150,20 @@
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 384
 
+## Celerity CLR-05-X
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3138)
+- **Chassis:** 15 tons Quad (Composite)
+- **Movement:** 16 / 24 (40), XXL
+- **Armor:** 28 (Impact-Resistant)
+- **Gyroscope:** XL Gyro
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Equipment:**
+  - Spikes × 2
+  - MASC
+  - Drone Operating System
+  - Supercharger
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Battle Value:** unknown
+

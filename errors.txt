@@ -6,7 +6,6 @@ Unable to convert data from 'Ares ARS-V1 Hades.mtf': Invalid mech tonnage
 Unable to convert data from 'Ares ARS-V1 Hephaestus.mtf': Invalid mech tonnage
 Unable to convert data from 'Ares ARS-V1 Hera.mtf': Invalid mech tonnage
 Unable to convert data from 'Ares ARS-V1 Zeus.mtf': Invalid mech tonnage
-Unable to convert data from 'Celerity CLR-05-X.mtf': Invalid location for this chassis
 Unable to convert data from 'Poseidon PSD-V2.mtf': Invalid mech tonnage
 Unable to convert data from 'Revenant UBM-2R7.mtf': Unrecognized component type: MediumBridgeLayer
 Unable to convert data from 'Zeus X ZEU-X.mtf': Unrecognized armor type: patchwork
@@ -32,7 +31,6 @@ Unable to convert data from 'Aquagladius AQS-5 MAM.mtf': Unrecognized armor type
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
 Unable to convert data from 'Wasp WSP-3X.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Tessen TSN-X-4.mtf': Unrecognized component type: ISC3RemoteSensorLauncher
-Invalid design in file 'Enforcer III ENF-7X MUSE COMPACT.mtf': Design has 6 criticals over-allocated
 Unable to convert data from 'Juggernaut JG-R9TX1 Leapin' Lil.mtf': Unrecognized component type: Jump Booster
 Unable to convert data from 'Wyvern WVE-5UX City.mtf': Unrecognized component type: ISVehicularGrenadeLauncher
 Unable to convert data from 'Hornet HNT-181.mtf': Unrecognized heat sink type: compact
@@ -262,4 +260,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3714 converted files -> 3712 validated mechs
+3756 mtf files -> 3756 parsed files -> 3715 converted files -> 3714 validated mechs
