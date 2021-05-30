@@ -16,7 +16,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1064
 
 ## Preta C-PRT-OA Dominus
 - **Role:** Striker
@@ -158,5 +158,5 @@
   - Laser Anti-Missile System
   - C3i
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1052
 

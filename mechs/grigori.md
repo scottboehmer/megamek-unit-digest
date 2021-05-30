@@ -18,7 +18,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1245
 
 ## Grigori C-GRG-OA Dominus
 - **Role:** Skirmisher

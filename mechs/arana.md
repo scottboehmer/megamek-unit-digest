@@ -1,5 +1,5 @@
-# Arana MilitiaMech
-## Arana MilitiaMech ARA-S-1
+# Arana
+## Arana ARA-S-1 MilitiaMech
 - **Role:** Undefined
 - **Tech Base:** Clan (3087)
 - **Chassis:** 40 tons Quad (Industrial)

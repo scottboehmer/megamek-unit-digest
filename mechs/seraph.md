@@ -18,7 +18,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1807
 
 ## Seraph C-SRP-OA Dominus
 - **Role:** Skirmisher
@@ -41,7 +41,7 @@
   - TAG
   - Targeting Computer
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 2355
 
 ## Seraph C-SRP-OB Infernus
 - **Role:** Juggernaut
@@ -164,7 +164,7 @@
   - Laser Anti-Missile System
   - C3i
   - CASE
-- **Battle Value:** unknown
+- **Battle Value:** 1954
 
 ## Seraph C-SRP-OS Caelestis
 - **Role:** Sniper

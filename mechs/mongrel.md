@@ -13,7 +13,7 @@
 - **Equipment:**
   - CASE
 - **Source:** TRO 3145 Lyran Commonwealth - Early Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1860
 
 ## Mongrel MGL-T2
 - **Role:** Striker
@@ -31,5 +31,5 @@
   - CASE
   - AES
 - **Source:** TRO 3145 Lyran Commonwealth - Early Republic
-- **Battle Value:** unknown
+- **Battle Value:** 1949
 

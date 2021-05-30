@@ -34,7 +34,7 @@
   - Nova CEWS
   - CASE
 - **Source:** WoR - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 2526
 
 ## Osteon A
 - **Role:** Juggernaut

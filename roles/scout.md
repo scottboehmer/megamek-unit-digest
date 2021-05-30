@@ -13,6 +13,9 @@
 - **Celerity CLR-04-R** *Scout (3138)* `Drone`
 - **Celerity CLR-05-X** *Scout (3138)* `Drone`
 
+### [Chaffee](../mechs/chaffee.md)
+- **Chaffee BT1 ServiceMech** *Scout (3081)*
+
 ### [Emerald Harrier](../mechs/emerald_harrier.md)
 - **Emerald Harrier RD-1R** *Scout (3112)*
 

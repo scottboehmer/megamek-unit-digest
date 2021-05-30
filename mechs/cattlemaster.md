@@ -13,7 +13,7 @@
   - Searchlight
   - Cargo
 - **Source:** RS:VA IM Exo - Late Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 226
 
 ## CattleMaster CTL-3R2 'Hunter' IndustrialMech
 - **Role:** Ambusher

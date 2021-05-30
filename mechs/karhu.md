@@ -15,7 +15,7 @@
 - **Equipment:**
   - ECM Suite
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 2484
 
 ## Karhu A
 - **Role:** Sniper
@@ -70,7 +70,7 @@
 - **Equipment:**
   - CASE
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 2089
 
 ## Karhu D
 - **Role:** Skirmisher
@@ -109,7 +109,7 @@
   - Inner Sphere Beagle Active Probe
   - Inner Sphere C3 Slave
 - **Source:** TRO 3085/Lamenkov's Liability - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 1921
 
 ## Karhu G
 - **Role:** Skirmisher

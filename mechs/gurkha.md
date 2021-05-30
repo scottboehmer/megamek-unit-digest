@@ -64,5 +64,5 @@
 - **Equipment:**
   - C3i
 - **Source:** 3067 Unabridged
-- **Battle Value:** unknown
+- **Battle Value:** 1235
 

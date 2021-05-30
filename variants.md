@@ -22,6 +22,9 @@
 - **Celerity CLR-04-R** *Scout (3138)* `Drone`
 - **Celerity CLR-05-X** *Scout (3138)* `Drone`
 
+### [Chaffee](mechs/chaffee.md)
+- **Chaffee BT1 ServiceMech** *Scout (3081)*
+
 ### [Emerald Harrier](mechs/emerald_harrier.md)
 - **Emerald Harrier RD-1R** *Scout (3112)*
 
@@ -352,6 +355,8 @@
 - **Gambit GBT-1L** *Striker (3136)* `TAG`
 
 ### [Gulon](mechs/gulon.md)
+- **Gulon GLN-1A MiningMech** *Ambusher (3000)*
+- **Gulon GLN-1B SecurityMech** *Ambusher (3000)*
 - **Gulon C SolahmaMech** *Ambusher (3145)*
 
 ### [Gunsmith](mechs/gunsmith.md)
@@ -1233,8 +1238,8 @@
 
 ## 40 Tons
 
-### [Arana MilitiaMech](mechs/arana_militiamech.md)
-- **Arana MilitiaMech ARA-S-1** *Undefined (3087)*
+### [Arana](mechs/arana.md)
+- **Arana ARA-S-1 MilitiaMech** *Undefined (3087)*
 
 ### [Arctic Wolf](mechs/arctic_wolf.md)
 - **Arctic Wolf (Standard)** *Striker (3059)*

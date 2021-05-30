@@ -211,7 +211,7 @@
   - Targeting Computer
   - CASE II
 - **Source:** ilClan Vol 12 - Dark Age
-- **Battle Value:** unknown
+- **Battle Value:** 2377
 
 ## Huntsman "Nobori-nin" T
 - **Role:** Skirmisher

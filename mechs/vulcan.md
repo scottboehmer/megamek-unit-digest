@@ -148,5 +148,5 @@
 - **Equipment:**
   - Angel ECM Suite
 - **Source:** XTRO Royal Fantasy
-- **Battle Value:** unknown
+- **Battle Value:** 947
 

@@ -34,6 +34,8 @@
 - **ForestryMech ED-X3** *Ambusher (2865)*
 
 ### [Gulon](../mechs/gulon.md)
+- **Gulon GLN-1A MiningMech** *Ambusher (3000)*
+- **Gulon GLN-1B SecurityMech** *Ambusher (3000)*
 - **Gulon C SolahmaMech** *Ambusher (3145)*
 
 ### [Harvester Ant](../mechs/harvester_ant.md)

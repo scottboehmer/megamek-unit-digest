@@ -16,7 +16,7 @@
   - C3i
   - CASE
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 1584
 
 ## Deva C-DVA-OA Dominus
 - **Role:** Brawler

@@ -18,7 +18,7 @@
   - C3i
   - Targeting Computer
 - **Source:** TRO 3075
-- **Battle Value:** unknown
+- **Battle Value:** 2237
 
 ## Archangel C-ANG-OA Dominus
 - **Role:** Juggernaut
