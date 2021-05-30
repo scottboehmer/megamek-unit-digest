@@ -10,6 +10,19 @@
 - [Sniper](roles/sniper.md)
 - [Striker](roles/striker.md)
 
+## Eras
+- [Age of War](eras/age_of_war.md)
+- [Star League](eras/star_league.md)
+- [Early Succession War](eras/early_succession_war.md)
+- [Late Succession War - LosTech](eras/late_succession_war_-_lostech.md)
+- [Late Succession War - Renaissance](eras/late_succession_war_-_renaissance.md)
+- [Clan Invasion](eras/clan_invasion.md)
+- [Civil War](eras/civil_war.md)
+- [Jihad](eras/jihad.md)
+- [Early Republic](eras/early_republic.md)
+- [Late Republic](eras/late_republic.md)
+- [Dark Age](eras/dark_age.md)
+
 ## Variants
 - [List of Variants](variants.md)
 
