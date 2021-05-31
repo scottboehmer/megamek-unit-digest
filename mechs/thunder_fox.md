@@ -32,6 +32,24 @@
 - **Source:** Dark Age
 - **Battle Value:** 1513
 
+## Thunder Fox TFT-C3
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3085)
+- **Chassis:** 55 tons Quad
+- **Movement:** 4 / 6, Light
+  - **Jumping:** 4
+- **Armor:** 152 (Light Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+  - Medium X-Pulse Laser
+  - ER Medium Laser
+- **Equipment:**
+  - Command Console
+  - C3 Master
+- **Source:** Dark Age
+- **Battle Value:** unknown
+
 ## Thunder Fox TFT-F11
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3119)

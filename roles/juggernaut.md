@@ -317,6 +317,7 @@
 - **Juggernaut JG-R9T1** *Juggernaut (3053)*
 - **Juggernaut JG-R9T2** *Juggernaut (3057)*
 - **Juggernaut JG-R9T3** *Juggernaut (3065)*
+- **Juggernaut JG-R9TX1 'Leapin' Lil'** *Juggernaut (3074)*
 
 ### [Mauler](../mechs/mauler.md)
 - **Mauler MAL-2R** *Juggernaut (3060)*

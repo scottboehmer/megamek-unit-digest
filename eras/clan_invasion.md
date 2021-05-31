@@ -40,6 +40,8 @@
 - **Piranha (Standard)** *Striker (3051)*
 
 ### [Shugosha](../mechs/shugosha.md)
+- **Shugosha LAW-QM1 Q-Mech** *Ambusher (3051)* `Drone`
+- **Shugosha LAW-QM2 Q-Mech** *Ambusher (3051)* `Drone`
 - **Shugosha LAW-QM3 Q-Mech** *Sniper (3051)* `Drone`
 
 ### [Stinger](../mechs/stinger.md)

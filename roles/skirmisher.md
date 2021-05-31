@@ -382,6 +382,7 @@
 - **Septicemia  E** *Skirmisher (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
 - **Septicemia  US** *Skirmisher (3072)* `ECM`
 - **Septicemia  UW** *Skirmisher (3072)*
+- **Septicemia  Z** *Skirmisher (3072)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-2H** *Skirmisher (2550)*
@@ -410,6 +411,7 @@
 
 ### [Thunder Fox](../mechs/thunder_fox.md)
 - **Thunder Fox TFT-L8** *Skirmisher (3082)*
+- **Thunder Fox TFT-C3** *Skirmisher (3085)* `C3 Master`, `Command Console`, `TAG`
 
 ### [Vapor Eagle](../mechs/vapor_eagle.md)
 - **Vapor Eagle 6** *Skirmisher (2840)*

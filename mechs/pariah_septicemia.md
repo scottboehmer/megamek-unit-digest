@@ -223,3 +223,20 @@
 - **Source:** WoR - Jihad
 - **Battle Value:** 1913
 
+## Septicemia "Pariah" Z
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3072)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 172 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - iATM 12 (ammo: 15)
+  - ER Large Laser
+  - Medium Pulse Laser
+- **Equipment:**
+  - CASE
+  - Ground-Mobile HPG
+- **Source:** WoR - Jihad
+- **Battle Value:** 2072
+

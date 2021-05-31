@@ -21,6 +21,10 @@
 ### [Harvester Ant](../mechs/harvester_ant.md)
 - **Harvester Ant KIC-3M AgroMech MOD** *Ambusher (2801)*
 
+### [Shugosha](../mechs/shugosha.md)
+- **Shugosha LAW-QM1 Q-Mech** *Ambusher (3051)* `Drone`
+- **Shugosha LAW-QM2 Q-Mech** *Ambusher (3051)* `Drone`
+
 ## 25 Tons
 
 ### [CattleMaster](../mechs/cattlemaster.md)

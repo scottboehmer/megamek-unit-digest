@@ -1,5 +1,3 @@
-Unable to convert data from 'Fwltur FWL-3V SalvageMech.mtf': Unrecognized component type: MechanicalJumpBooster
-Unable to convert data from 'Thunder Fox TFT-C3.mtf': Unrecognized component type: Jump Booster
 Unable to convert data from 'Vandal LI-OB.mtf': Unrecognized component type: ISVehicularMineDispenser
 Unable to convert data from 'Ares ARS-V1 Aphrodite.mtf': Invalid mech tonnage
 Unable to convert data from 'Ares ARS-V1 Hades.mtf': Invalid mech tonnage
@@ -18,17 +16,13 @@ Unable to convert data from 'Carbine ConstructionMech CON-1 (Rocket).mtf': Unrec
 Unable to convert data from 'Crosscut ED-X2 (Rocket).mtf': Unrecognized component type: CLRocketLauncher10Prototype
 Unable to convert data from 'Daedalus GTX2 (Militarized).mtf': Unrecognized component type: CLRocketLauncher20Prototype
 Unable to convert data from 'ScavengerMech SC-V SalvageMech (Standard).mtf': Unrecognized component type: Light Fluid Suction System (Mech)
-Unable to convert data from 'Shugosha LAW-QM1 Q-Mech.mtf': Unrecognized component type: ISBoobyTrap
-Unable to convert data from 'Shugosha LAW-QM2 Q-Mech.mtf': Unrecognized component type: ISBoobyTrap
 Unable to convert data from 'Vampyr SC-V-1 SalvageMech (Standard).mtf': Unrecognized component type: Light Fluid Suction System (Mech)
 Unable to convert data from 'Rhino (Standard).mtf': Unrecognized component type: Ram Plate
-Unable to convert data from 'Pariah (Septicemia) Z.mtf': Unrecognized component type: ClanGroundMobileHPG
 Unable to convert data from 'Spindrift Aquatic SecurityMech SDT-1.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Aquagladius AQS-5 MAM.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
 Unable to convert data from 'Wasp WSP-3X.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Tessen TSN-X-4.mtf': Unrecognized component type: ISC3RemoteSensorLauncher
-Unable to convert data from 'Juggernaut JG-R9TX1 Leapin' Lil.mtf': Unrecognized component type: Jump Booster
 Unable to convert data from 'Wyvern WVE-5UX City.mtf': Unrecognized component type: ISVehicularGrenadeLauncher
 Unable to convert data from 'Hornet HNT-181.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Hornet HNT-182.mtf': Unrecognized heat sink type: compact
@@ -42,22 +36,18 @@ Unable to convert data from 'Vulpes VLP-1DX _Beast_.mtf': Unrecognized component
 Unrecognized Components:
 ARMOR: patchwork: 4
 HEAT SINK: compact: 3
-ISAPDS: 2
-Jump Booster: 2
 ISVehicularMineDispenser: 2
-ISC3RemoteSensorLauncher: 2
 Light Fluid Suction System (Mech): 2
-ISBoobyTrap: 2
-ISVehicularGrenadeLauncher: 1
-ClanGroundMobileHPG: 1
-Ram Plate: 1
-CLRocketLauncher20Prototype: 1
-CLRocketLauncher10Prototype: 1
-CLRocketLauncher15Prototype: 1
-CLMediumChemLaser: 1
+ISC3RemoteSensorLauncher: 2
+ISAPDS: 2
 MediumBridgeLayer: 1
+CLMediumChemLaser: 1
+CLRocketLauncher15Prototype: 1
+CLRocketLauncher10Prototype: 1
+CLRocketLauncher20Prototype: 1
+Ram Plate: 1
+ISVehicularGrenadeLauncher: 1
 ISRISCEmergencyCoolantSystem: 1
-MechanicalJumpBooster: 1
 
 --------------------------------------------------
 Units without Roles:
@@ -256,4 +246,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3718 converted files -> 3717 validated mechs
+3756 mtf files -> 3756 parsed files -> 3724 converted files -> 3723 validated mechs

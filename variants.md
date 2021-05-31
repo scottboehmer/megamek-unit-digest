@@ -176,6 +176,8 @@
 
 ### [Shugosha](mechs/shugosha.md)
 - **Shugosha PTN-LAW LoaderMech** *Undefined (2627)*
+- **Shugosha LAW-QM1 Q-Mech** *Ambusher (3051)* `Drone`
+- **Shugosha LAW-QM2 Q-Mech** *Ambusher (3051)* `Drone`
 - **Shugosha LAW-QM3 Q-Mech** *Sniper (3051)* `Drone`
 
 ### [Snow Fox](mechs/snow_fox.md)
@@ -982,6 +984,7 @@
 
 ### [Fwltur](mechs/fwltur.md)
 - **Fwltur FWL-3R SalvageMech** *Undefined (3081)* `Active Probe`
+- **Fwltur FWL-3V SalvageMech** *Undefined (3085)*
 
 ### [Garm](mechs/garm.md)
 - **Garm GRM-01A** *Missile Boat (3058)*
@@ -2547,6 +2550,7 @@
 - **Septicemia  F** *Missile Boat (3072)*
 - **Septicemia  US** *Skirmisher (3072)* `ECM`
 - **Septicemia  UW** *Skirmisher (3072)*
+- **Septicemia  Z** *Skirmisher (3072)*
 
 ### [Shadow Hawk](mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-2H** *Skirmisher (2550)*
@@ -2624,6 +2628,7 @@
 ### [Thunder Fox](mechs/thunder_fox.md)
 - **Thunder Fox TFT-A9** *Sniper (3077)*
 - **Thunder Fox TFT-L8** *Skirmisher (3082)*
+- **Thunder Fox TFT-C3** *Skirmisher (3085)* `C3 Master`, `Command Console`, `TAG`
 - **Thunder Fox TFT-F11** *Sniper (3119)*
 
 ### [Vapor Eagle](mechs/vapor_eagle.md)
@@ -4621,6 +4626,7 @@
 - **Juggernaut JG-R9T1** *Juggernaut (3053)*
 - **Juggernaut JG-R9T2** *Juggernaut (3057)*
 - **Juggernaut JG-R9T3** *Juggernaut (3065)*
+- **Juggernaut JG-R9TX1 'Leapin' Lil'** *Juggernaut (3074)*
 
 ### [Juliano](mechs/juliano.md)
 - **Juliano JLN-5A** *Brawler (3116)*

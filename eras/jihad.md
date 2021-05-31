@@ -343,6 +343,7 @@
 
 ### [Fwltur](../mechs/fwltur.md)
 - **Fwltur FWL-3R SalvageMech** *Undefined (3081)* `Active Probe`
+- **Fwltur FWL-3V SalvageMech** *Undefined (3085)*
 
 ### [Garm](../mechs/garm.md)
 - **Garm GRM-01A2** *Missile Boat (3076)*
@@ -902,6 +903,7 @@
 - **Septicemia  F** *Missile Boat (3072)*
 - **Septicemia  US** *Skirmisher (3072)* `ECM`
 - **Septicemia  UW** *Skirmisher (3072)*
+- **Septicemia  Z** *Skirmisher (3072)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - **Shadow Hawk SHD-11CS** *Missile Boat (3068)* `C3i`
@@ -929,6 +931,7 @@
 ### [Thunder Fox](../mechs/thunder_fox.md)
 - **Thunder Fox TFT-A9** *Sniper (3077)*
 - **Thunder Fox TFT-L8** *Skirmisher (3082)*
+- **Thunder Fox TFT-C3** *Skirmisher (3085)* `C3 Master`, `Command Console`, `TAG`
 
 ### [Waneta](../mechs/waneta.md)
 - **Waneta S-WN-2LAM** *Skirmisher (3078)*
@@ -1635,6 +1638,9 @@
 ### [Highlander IIC](../mechs/highlander_iic.md)
 - **Highlander IIC 2** *Juggernaut (3072)* `ECM`
 - **Highlander IIC 3** *Missile Boat (3077)* `ECM`
+
+### [Juggernaut](../mechs/juggernaut.md)
+- **Juggernaut JG-R9TX1 'Leapin' Lil'** *Juggernaut (3074)*
 
 ### [Kingfisher](../mechs/kingfisher.md)
 - **Kingfisher  F** *Brawler (3069)* `ECM`
