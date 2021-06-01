@@ -175,6 +175,7 @@
 - **Nova  J** *Skirmisher (3150)*
 - **Nova  L** *Skirmisher (3150)*
 - **Nova  R** *Skirmisher (3150)*
+- **Nova  T** *Skirmisher (3150)*
 
 ### [Phoenix](../mechs/phoenix.md)
 - **Phoenix PX-3R** *Skirmisher (2520)*

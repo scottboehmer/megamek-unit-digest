@@ -2145,6 +2145,7 @@
 - **Nova  K** *Brawler (3150)*
 - **Nova  L** *Skirmisher (3150)*
 - **Nova  R** *Skirmisher (3150)*
+- **Nova  T** *Skirmisher (3150)*
 
 ### [Omni-Corvis](mechs/omni-corvis.md)
 - **Omni-Corvis  Prime** *Sniper (2921)*

@@ -315,6 +315,7 @@
 - **Nova  K** *Brawler (3150)*
 - **Nova  L** *Skirmisher (3150)*
 - **Nova  R** *Skirmisher (3150)*
+- **Nova  T** *Skirmisher (3150)*
 
 ### [Raider](../mechs/raider.md)
 - **Raider JL-1** *Juggernaut (3134)*

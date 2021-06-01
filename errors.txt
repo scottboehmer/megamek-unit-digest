@@ -8,7 +8,6 @@ Unable to convert data from 'Poseidon PSD-V2.mtf': Invalid mech tonnage
 Unable to convert data from 'Revenant UBM-2R7.mtf': Unrecognized component type: MediumBridgeLayer
 Unable to convert data from 'Zeus X ZEU-X.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Zeus X ZEU-X2.mtf': Unrecognized armor type: patchwork
-Unable to convert data from 'Black Hawk (Nova) T.mtf': Unrecognized component type: CLMediumChemLaser
 Unable to convert data from 'Harvester HVR-199M-M AgroMech MOD.mtf': Unrecognized component type: ISVehicularMineDispenser
 Unable to convert data from 'OMEGA SHP-4X.mtf': Invalid mech tonnage
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
@@ -41,7 +40,6 @@ Light Fluid Suction System (Mech): 2
 ISC3RemoteSensorLauncher: 2
 ISAPDS: 2
 MediumBridgeLayer: 1
-CLMediumChemLaser: 1
 CLRocketLauncher15Prototype: 1
 CLRocketLauncher10Prototype: 1
 CLRocketLauncher20Prototype: 1
@@ -246,4 +244,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3724 converted files -> 3723 validated mechs
+3756 mtf files -> 3756 parsed files -> 3725 converted files -> 3724 validated mechs

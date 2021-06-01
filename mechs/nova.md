@@ -278,3 +278,18 @@
 - **Source:** Dark Age
 - **Battle Value:** 1597
 
+## Nova "Black Hawk" T
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3150)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Medium Chemical Laser × 12 (ammo: 120)
+- **Equipment:**
+  - CASE
+- **Source:** Dark Age
+- **Battle Value:** 1579
+
