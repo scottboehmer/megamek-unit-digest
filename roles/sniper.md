@@ -367,6 +367,7 @@
 ### [Osprey](../mechs/osprey.md)
 - **Osprey OSP-15** *Sniper (2738)*
 - **Osprey OSP-25** *Sniper (3074)*
+- **Osprey OSP-36** *Sniper (3139)*
 
 ### [Scorpion](../mechs/scorpion.md)
 - **Scorpion SCP-10M** *Sniper (3080)*

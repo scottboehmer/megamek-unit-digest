@@ -13,25 +13,17 @@ Unable to convert data from 'Spindrift Aquatic SecurityMech SDT-1.mtf': Unrecogn
 Unable to convert data from 'Aquagladius AQS-5 MAM.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
 Unable to convert data from 'Wasp WSP-3X.mtf': Unrecognized heat sink type: compact
-Unable to convert data from 'Tessen TSN-X-4.mtf': Unrecognized component type: ISC3RemoteSensorLauncher
-Unable to convert data from 'Wyvern WVE-5UX City.mtf': Unrecognized component type: ISVehicularGrenadeLauncher
 Unable to convert data from 'Hornet HNT-181.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Hornet HNT-182.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Orca OC-1X.mtf': Invalid mech tonnage
-Unable to convert data from 'Goshawk II RISC.mtf': Unrecognized component type: ISRISCEmergencyCoolantSystem
-Unable to convert data from 'Osprey OSP-36.mtf': Unrecognized component type: ISAPDS
-Unable to convert data from 'Tessen TSN-X4R _Rapunzel_.mtf': Unrecognized component type: ISC3RemoteSensorLauncher
-Unable to convert data from 'Vulpes VLP-1DX _Beast_.mtf': Unrecognized component type: ISAPDS
+Unable to convert data from 'Tessen TSN-X4R _Rapunzel_.mtf': Unrecognized component type: ISRISCLaserPulseModule
 
 --------------------------------------------------
 Unrecognized Components:
 ARMOR: patchwork: 4
 HEAT SINK: compact: 3
-ISC3RemoteSensorLauncher: 2
-ISAPDS: 2
 Ram Plate: 1
-ISVehicularGrenadeLauncher: 1
-ISRISCEmergencyCoolantSystem: 1
+ISRISCLaserPulseModule: 1
 
 --------------------------------------------------
 Units without Roles:
@@ -230,4 +222,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3733 converted files -> 3732 validated mechs
+3756 mtf files -> 3756 parsed files -> 3738 converted files -> 3737 validated mechs

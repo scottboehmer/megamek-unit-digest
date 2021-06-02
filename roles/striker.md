@@ -821,6 +821,7 @@
 - **Goshawk II (Standard)** *Striker (3086)* `ECM`
 - **Goshawk II 2** *Striker (3086)* `ECM`
 - **Goshawk II 3** *Striker (3086)*
+- **Goshawk II RISC** *Striker (3136)*
 
 ### [Grendel](../mechs/grendel.md)
 - **Grendel  Prime** *Striker (3052)*

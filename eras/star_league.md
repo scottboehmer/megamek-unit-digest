@@ -175,6 +175,7 @@
 ### [Wyvern](../mechs/wyvern.md)
 - **Wyvern WVE-5N** *Brawler (2660)*
 - **Wyvern WVE-5Nb** *Missile Boat (2660)*
+- **Wyvern WVE-5UX (City)** *Brawler (2686)* `Command Console`
 - **Wyvern WVE-5Nsl** *Missile Boat (2750)*
 
 ## 50 Tons

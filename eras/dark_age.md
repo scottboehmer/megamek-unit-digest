@@ -233,6 +233,9 @@
 ### [Blackjack](../mechs/blackjack.md)
 - **Blackjack BJ-2r** *Brawler (3131)*
 
+### [Goshawk II](../mechs/goshawk_ii.md)
+- **Goshawk II RISC** *Striker (3136)*
+
 ### [Grendel](../mechs/grendel.md)
 - **Grendel  I** *Striker (3140)*
 - **Grendel  J** *Striker (3140)*
@@ -373,6 +376,9 @@
 ### [Men Shen](../mechs/men_shen.md)
 - **Men Shen  MS1-OG** *Scout (3134)* `Active Probe`
 
+### [Osprey](../mechs/osprey.md)
+- **Osprey OSP-36** *Sniper (3139)*
+
 ### [Quasimodo](../mechs/quasimodo.md)
 - **Quasimodo QSM-3D** *Skirmisher (3140)*
 
@@ -461,6 +467,7 @@
 
 ### [Vulpes](../mechs/vulpes.md)
 - **Vulpes VLP-1D** *Skirmisher (3133)* `ECM`, `Stealth`
+- **Vulpes VLP-1DX 'Beast'** *Undefined (3134)* `Drone`
 
 ## 65 Tons
 

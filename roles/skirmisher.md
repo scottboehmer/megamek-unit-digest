@@ -211,6 +211,7 @@
 - **Tessen TSN-1C** *Skirmisher (3061)* `C3i`, `TAG`
 - **Tessen TSN-C3** *Skirmisher (3062)* `C3 Slave`, `TAG`
 - **Tessen TSN-1Cr** *Skirmisher (3069)* `C3 Slave`, `ECM`, `TAG`
+- **Tessen TSN-X-4** *Skirmisher (3074)* `Active Probe`, `ECM`, `TAG`
 - **Tessen TSN-C3M** *Skirmisher (3077)* `C3 Master`, `TAG`
 
 ### [Trebuchet](../mechs/trebuchet.md)

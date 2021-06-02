@@ -771,6 +771,7 @@
 
 ### [Tessen](../mechs/tessen.md)
 - **Tessen TSN-1Cr** *Skirmisher (3069)* `C3 Slave`, `ECM`, `TAG`
+- **Tessen TSN-X-4** *Skirmisher (3074)* `Active Probe`, `ECM`, `TAG`
 - **Tessen TSN-C3M** *Skirmisher (3077)* `C3 Master`, `TAG`
 
 ### [Trebuchet](../mechs/trebuchet.md)

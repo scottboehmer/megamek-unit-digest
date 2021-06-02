@@ -192,6 +192,7 @@
 
 ### [Wyvern](../mechs/wyvern.md)
 - **Wyvern WVE-5N** *Brawler (2660)*
+- **Wyvern WVE-5UX (City)** *Brawler (2686)* `Command Console`
 - **Wyvern WVE-9N** *Brawler (3052)*
 - **Wyvern WVE-10N** *Brawler (3065)* `C3i`, `ECM`
 

@@ -1644,6 +1644,7 @@
 - **Goshawk II (Standard)** *Striker (3086)* `ECM`
 - **Goshawk II 2** *Striker (3086)* `ECM`
 - **Goshawk II 3** *Striker (3086)*
+- **Goshawk II RISC** *Striker (3136)*
 
 ### [Great Wyrm](mechs/great_wyrm.md)
 - **Great Wyrm (Standard)** *Brawler (2844)*
@@ -1876,6 +1877,7 @@
 ### [Wyvern](mechs/wyvern.md)
 - **Wyvern WVE-5N** *Brawler (2660)*
 - **Wyvern WVE-5Nb** *Missile Boat (2660)*
+- **Wyvern WVE-5UX (City)** *Brawler (2686)* `Command Console`
 - **Wyvern WVE-5Nsl** *Missile Boat (2750)*
 - **Wyvern WVE-6N** *Skirmisher (2821)*
 - **Wyvern WVE-9N** *Brawler (3052)*
@@ -2234,6 +2236,7 @@
 - **Tessen TSN-1C** *Skirmisher (3061)* `C3i`, `TAG`
 - **Tessen TSN-C3** *Skirmisher (3062)* `C3 Slave`, `TAG`
 - **Tessen TSN-1Cr** *Skirmisher (3069)* `C3 Slave`, `ECM`, `TAG`
+- **Tessen TSN-X-4** *Skirmisher (3074)* `Active Probe`, `ECM`, `TAG`
 - **Tessen TSN-C3M** *Skirmisher (3077)* `C3 Master`, `TAG`
 
 ### [Trebuchet](mechs/trebuchet.md)
@@ -2502,6 +2505,7 @@
 - **Osprey OSP-25** *Sniper (3074)*
 - **Osprey OSP-26** *Skirmisher (3076)* `Active Probe`
 - **Osprey OSP-26 (Lawrence)** *Skirmisher (3085)* `Active Probe`, `C3 Slave`
+- **Osprey OSP-36** *Sniper (3139)*
 
 ### [Prowler](mechs/prowler.md)
 - **Prowler PWR-1X** *Skirmisher (3068)*
@@ -3017,6 +3021,7 @@
 
 ### [Vulpes](mechs/vulpes.md)
 - **Vulpes VLP-1D** *Skirmisher (3133)* `ECM`, `Stealth`
+- **Vulpes VLP-1DX 'Beast'** *Undefined (3134)* `Drone`
 
 ### [Yeoman](mechs/yeoman.md)
 - **Yeoman YMN-6Y** *Missile Boat (3060)*

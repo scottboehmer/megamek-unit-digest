@@ -36,6 +36,25 @@
 - **Source:** TRO 3075
 - **Battle Value:** 1006
 
+## Wyvern WVE-5UX (City)
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (2686)
+- **Chassis:** 45 tons (Endo Steel)
+- **Movement:** 4 / 6 (8)
+  - **Jumping:** 4
+- **Armor:** 152
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Large Laser
+  - SRM 6 × 2 (ammo: 30)
+  - Vehicular Grenade Launcher × 2
+- **Equipment:**
+  - Command Console
+  - CASE
+  - Supercharger
+- **Source:** XTRO Gunslingers - Star League
+- **Battle Value:** 1273
+
 ## Wyvern WVE-5Nsl
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2750)
