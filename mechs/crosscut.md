@@ -77,6 +77,20 @@
 - **Source:** RS OK - Early Succession War
 - **Battle Value:** unknown
 
+## Crosscut ED-X2 (RL)
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere Mixed (2810)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 3 / 5, ICE
+- **Armor:** 64
+- **Heat Sinks:** 3 (3)
+- **Weapons:**
+  - Clan Prototype Rocket 10 × 8
+- **Equipment:**
+  - Lift Hoist
+- **Source:** RS OK - Early Succession War
+- **Battle Value:** 422
+
 ## Crosscut ED-X4 LoggerMech
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2876)

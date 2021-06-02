@@ -59,10 +59,14 @@
 
 ## 30 Tons
 
+### [Carbine](../mechs/carbine.md)
+- **Carbine CON-1 ConstructionMech (RL)** *Ambusher (2801)*
+
 ### [Crosscut](../mechs/crosscut.md)
 - **Crosscut ED-X4K LoggerMech** *Ambusher (2786)*
 - **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)*
 - **Crosscut ED-X2 (Flamer)** *Ambusher (2810)*
+- **Crosscut ED-X2 (RL)** *Ambusher (2810)*
 - **Crosscut ED-X4 LoggerMech** *Ambusher (2876)*
 
 ### [Drift Shag](../mechs/drift_shag.md)
@@ -288,6 +292,9 @@
 ### [Champion](../mechs/champion.md)
 - **Champion CHP-2N** *Skirmisher (2810)*
 - **Champion C** *Skirmisher (2867)*
+
+### [Daedalus](../mechs/daedalus.md)
+- **Daedalus GTX2 (Militarized)** *Brawler (2801)*
 
 ### [Glass Spider](../mechs/glass_spider.md)
 - **Glass Spider (Standard)** *Sniper (2834)*

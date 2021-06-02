@@ -49,6 +49,7 @@
 
 ### [Carbine](../mechs/carbine.md)
 - **Carbine CON-1 ConstructionMech** *Ambusher (2691)*
+- **Carbine CON-1 ConstructionMech (RL)** *Ambusher (2801)*
 - **Carbine CON-8H HaulerMech** *Ambusher (3070)*
 - **Carbine CON-9 ConstructionMech** *Ambusher (3071)*
 - **Carbine CON-7M ConstructionMech MOD** *Ambusher (3078)*
@@ -62,6 +63,7 @@
 - **Crosscut ED-X4K LoggerMech** *Ambusher (2786)*
 - **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)*
 - **Crosscut ED-X2 (Flamer)** *Ambusher (2810)*
+- **Crosscut ED-X2 (RL)** *Ambusher (2810)*
 - **Crosscut ED-X4 LoggerMech** *Ambusher (2876)*
 - **Crosscut ED-X4X LoggerMech** *Ambusher (2901)*
 - **Crosscut ED-X4M LoggerMech MOD** *Ambusher (3070)*

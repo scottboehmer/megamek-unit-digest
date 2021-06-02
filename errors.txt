@@ -8,9 +8,6 @@ Unable to convert data from 'Zeus X ZEU-X.mtf': Unrecognized armor type: patchwo
 Unable to convert data from 'Zeus X ZEU-X2.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'OMEGA SHP-4X.mtf': Invalid mech tonnage
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
-Unable to convert data from 'Carbine ConstructionMech CON-1 (Rocket).mtf': Unrecognized component type: CLRocketLauncher15Prototype
-Unable to convert data from 'Crosscut ED-X2 (Rocket).mtf': Unrecognized component type: CLRocketLauncher10Prototype
-Unable to convert data from 'Daedalus GTX2 (Militarized).mtf': Unrecognized component type: CLRocketLauncher20Prototype
 Unable to convert data from 'Rhino (Standard).mtf': Unrecognized component type: Ram Plate
 Unable to convert data from 'Spindrift Aquatic SecurityMech SDT-1.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Aquagladius AQS-5 MAM.mtf': Unrecognized armor type: patchwork
@@ -32,9 +29,6 @@ ARMOR: patchwork: 4
 HEAT SINK: compact: 3
 ISC3RemoteSensorLauncher: 2
 ISAPDS: 2
-CLRocketLauncher15Prototype: 1
-CLRocketLauncher10Prototype: 1
-CLRocketLauncher20Prototype: 1
 Ram Plate: 1
 ISVehicularGrenadeLauncher: 1
 ISRISCEmergencyCoolantSystem: 1
@@ -236,4 +230,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3730 converted files -> 3729 validated mechs
+3756 mtf files -> 3756 parsed files -> 3733 converted files -> 3732 validated mechs

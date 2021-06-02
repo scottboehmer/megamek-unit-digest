@@ -537,6 +537,7 @@
 
 ### [Carbine](mechs/carbine.md)
 - **Carbine CON-1 ConstructionMech** *Ambusher (2691)*
+- **Carbine CON-1 ConstructionMech (RL)** *Ambusher (2801)*
 - **Carbine CON-7 ConstructionMech** *Undefined (3028)*
 - **Carbine CON-8 ConstructionMech** *Undefined (3066)*
 - **Carbine CON-8H HaulerMech** *Ambusher (3070)*
@@ -563,6 +564,7 @@
 - **Crosscut ED-X4K LoggerMech** *Ambusher (2786)*
 - **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)*
 - **Crosscut ED-X2 (Flamer)** *Ambusher (2810)*
+- **Crosscut ED-X2 (RL)** *Ambusher (2810)*
 - **Crosscut ED-X4 LoggerMech** *Ambusher (2876)*
 - **Crosscut ED-X4X LoggerMech** *Ambusher (2901)*
 - **Crosscut ED-X4D DemolitionMech** *Undefined (2910)*
@@ -2745,6 +2747,7 @@
 ### [Daedalus](mechs/daedalus.md)
 - **Daedalus GTX2A 'Stevedore'** *Ambusher (2750)*
 - **Daedalus GTX2B 'Navvy'** *Ambusher (2750)*
+- **Daedalus GTX2 (Militarized)** *Brawler (2801)*
 
 ### [Dragon](mechs/dragon.md)
 - **Dragon DRG-1C** *Skirmisher (2752)*

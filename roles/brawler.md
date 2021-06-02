@@ -318,6 +318,9 @@
 ### [Bellerophon](../mechs/bellerophon.md)
 - **Bellerophon BEL-1X** *Brawler (2442)*
 
+### [Daedalus](../mechs/daedalus.md)
+- **Daedalus GTX2 (Militarized)** *Brawler (2801)*
+
 ### [Grigori](../mechs/grigori.md)
 - **Grigori  C-GRG-O Invictus** *Brawler (3069)* `C3i`
 - **Grigori  C-GRG-OE Eminus** *Brawler (3072)* `C3i`

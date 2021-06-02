@@ -14,6 +14,19 @@
 - **Source:** RS Operation Klondike - Late Succession War
 - **Battle Value:** 198
 
+## Carbine CON-1 ConstructionMech (RL)
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere Mixed (2801)
+- **Chassis:** 30 tons (Industrial)
+- **Movement:** 4 / 6, ICE
+- **Armor:** 32 (Industrial)
+- **Cockpit:** Industrial
+- **Heat Sinks:** 3 (3)
+- **Weapons:**
+  - Clan Prototype Rocket 15 × 5
+- **Source:** RS VA - Early Succession War
+- **Battle Value:** 296
+
 ## Carbine CON-7 ConstructionMech
 - **Role:** Undefined
 - **Tech Base:** Inner Sphere (3028)
