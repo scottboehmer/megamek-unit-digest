@@ -797,6 +797,7 @@
 - **Revenant UBM-2R2** *Missile Boat (3139)* `Drone`
 - **Revenant UBM-2R3** *Sniper (3141)* `Drone`
 - **Revenant UBM-2R4** *Scout (3142)* `Active Probe`, `C3 Slave`, `Drone`, `ECM`, `TAG`
+- **Revenant UBM-2R7** *Scout (3144)* `Drone`
 
 ### [Scarabus](mechs/scarabus.md)
 - **Scarabus SCB-9A** *Scout (3053)* `ECM`, `TAG`
@@ -1369,6 +1370,7 @@
 - **Harvester HVR-199M AgroMech MOD** *Sniper (3130)*
 - **Harvester HVR-199M-A AgroMech MOD** *Ambusher (3130)*
 - **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)*
+- **Harvester HVR-199M-M AgroMech MOD** *Sniper (3134)*
 
 ### [Hermes II](mechs/hermes_ii.md)
 - **Hermes II HER-2S** *Scout (2798)*
@@ -3340,6 +3342,7 @@
 ### [Vandal](mechs/vandal.md)
 - **Vandal  LI-O** *Skirmisher (3142)* `C3 Slave`, `ECM`
 - **Vandal  LI-OA** *Skirmisher (3142)* `C3 Master`, `TAG`
+- **Vandal  LI-OB** *Skirmisher (3142)* `C3 Slave`, `ECM`, `TAG`
 
 ### [Verfolger](mechs/verfolger.md)
 - **Verfolger VR5-R** *Skirmisher (3063)*
@@ -4243,6 +4246,7 @@
 - **Salamander PPR-7T** *Missile Boat (3111)* `C3 Slave`
 
 ### [ScavengerMech](mechs/scavengermech.md)
+- **ScavengerMech SC-V SalvageMech** *Ambusher (2613)*
 - **ScavengerMech SC-V-M MilitiaMech** *Ambusher (2990)*
 
 ### [Spartan](mechs/spartan.md)
@@ -4267,6 +4271,9 @@
 - **Thug THG-13K** *Brawler (3068)* `C3i`
 - **Thug THG-11E (Reich)** *Brawler (3071)*
 - **Thug THG-13U** *Juggernaut (3120)*
+
+### [Vampyr](mechs/vampyr.md)
+- **Vampyr SC-V-1 SalvageMech** *Undefined (3066)*
 
 ### [Victor](mechs/victor.md)
 - **Victor VTR-9A** *Skirmisher (2508)*

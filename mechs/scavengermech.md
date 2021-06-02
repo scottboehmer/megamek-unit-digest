@@ -1,4 +1,21 @@
 # ScavengerMech
+## ScavengerMech SC-V SalvageMech
+- **Role:** Ambusher
+- **Tech Base:** Inner Sphere (2613)
+- **Chassis:** 80 tons Quad (Industrial)
+- **Movement:** 4 / 6, Fuel Cell
+- **Armor:** 112
+- **Cockpit:** Industrial
+- **Heat Sinks:** 2 (2)
+- **Equipment:**
+  - Cargo × 12
+  - Searchlight
+  - Mech Sprayer
+  - Light Fluid Suction System
+  - Liquid Cargo × 2
+- **Source:** RS VA
+- **Battle Value:** 582
+
 ## ScavengerMech SC-V-M MilitiaMech
 - **Role:** Ambusher
 - **Tech Base:** Inner Sphere (2990)

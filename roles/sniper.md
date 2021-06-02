@@ -163,6 +163,7 @@
 ### [Harvester](../mechs/harvester.md)
 - **Harvester HVR-199M AgroMech MOD** *Sniper (3130)*
 - **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)*
+- **Harvester HVR-199M-M AgroMech MOD** *Sniper (3134)*
 
 ### [Hermes II](../mechs/hermes_ii.md)
 - **Hermes II HER-5ME 'Mercury Elite'** *Sniper (3056)*

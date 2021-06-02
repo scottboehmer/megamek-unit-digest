@@ -66,3 +66,18 @@
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
 - **Battle Value:** 615
 
+## Revenant UBM-2R7
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3144)
+- **Chassis:** 30 tons Quad (Endo Steel)
+- **Movement:** 6 / 9
+- **Armor:** 96
+- **Cockpit:** Small
+- **Heat Sinks:** 10 (20)
+- **Equipment:**
+  - Medium Bridgelayer
+  - Lift Hoist × 2
+  - Drone Operating System
+- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Battle Value:** 460
+

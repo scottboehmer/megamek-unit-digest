@@ -121,6 +121,7 @@
 - **Revenant UBM-2R2** *Missile Boat (3139)* `Drone`
 - **Revenant UBM-2R3** *Sniper (3141)* `Drone`
 - **Revenant UBM-2R4** *Scout (3142)* `Active Probe`, `C3 Slave`, `Drone`, `ECM`, `TAG`
+- **Revenant UBM-2R7** *Scout (3144)* `Drone`
 
 ### [Spider](../mechs/spider.md)
 - **Spider SDR-10K** *Scout (3143)*
@@ -202,6 +203,7 @@
 
 ### [Harvester](../mechs/harvester.md)
 - **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)*
+- **Harvester HVR-199M-M AgroMech MOD** *Sniper (3134)*
 
 ### [Night Stalker](../mechs/night_stalker.md)
 - **Night Stalker NSR-K1** *Scout (3134)* `Active Probe`
@@ -503,6 +505,7 @@
 ### [Vandal](../mechs/vandal.md)
 - **Vandal  LI-O** *Skirmisher (3142)* `C3 Slave`, `ECM`
 - **Vandal  LI-OA** *Skirmisher (3142)* `C3 Master`, `TAG`
+- **Vandal  LI-OB** *Skirmisher (3142)* `C3 Slave`, `ECM`, `TAG`
 
 ## 70 Tons
 

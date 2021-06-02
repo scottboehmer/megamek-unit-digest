@@ -740,6 +740,7 @@
 ## V
 - [Valiant](mechs/valiant.md)
 - [Valkyrie](mechs/valkyrie.md)
+- [Vampyr](mechs/vampyr.md)
 - [Vandal](mechs/vandal.md)
 - [Vanquisher](mechs/vanquisher.md)
 - [Vapor Eagle](mechs/vapor_eagle.md)

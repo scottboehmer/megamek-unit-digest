@@ -402,6 +402,9 @@
 - **Rifleman II RFL-3N-2** *Brawler (2720)* `Active Probe`
 - **Rifleman II RFL-3N-2 (Kataga)** *Brawler (2766)* `Active Probe`
 
+### [ScavengerMech](../mechs/scavengermech.md)
+- **ScavengerMech SC-V SalvageMech** *Ambusher (2613)*
+
 ### [Spartan](../mechs/spartan.md)
 - **Spartan SPT-N1** *Skirmisher (2764)* `TAG`
 - **Spartan SPT-N2** *Skirmisher (2765)* `TAG`

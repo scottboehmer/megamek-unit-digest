@@ -164,4 +164,5 @@
 ## 80 Tons
 
 ### [ScavengerMech](../mechs/scavengermech.md)
+- **ScavengerMech SC-V SalvageMech** *Ambusher (2613)*
 - **ScavengerMech SC-V-M MilitiaMech** *Ambusher (2990)*

@@ -242,6 +242,7 @@
 
 ### [Revenant](../mechs/revenant.md)
 - **Revenant UBM-2R4** *Scout (3142)* `Active Probe`, `C3 Slave`, `Drone`, `ECM`, `TAG`
+- **Revenant UBM-2R7** *Scout (3144)* `Drone`
 
 ### [Scarabus](../mechs/scarabus.md)
 - **Scarabus SCB-9A** *Scout (3053)* `ECM`, `TAG`

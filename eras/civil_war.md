@@ -783,6 +783,9 @@
 - **Thug THG-12E** *Brawler (3067)* `C3i`
 - **Thug THG-12K** *Brawler (3067)* `C3 Slave`, `ECM`
 
+### [Vampyr](../mechs/vampyr.md)
+- **Vampyr SC-V-1 SalvageMech** *Undefined (3066)*
+
 ### [Victor](../mechs/victor.md)
 - **Victor VTR-10S** *Brawler (3062)*
 - **Victor VTR-10D** *Skirmisher (3064)*

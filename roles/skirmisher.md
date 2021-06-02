@@ -794,6 +794,7 @@
 ### [Vandal](../mechs/vandal.md)
 - **Vandal  LI-O** *Skirmisher (3142)* `C3 Slave`, `ECM`
 - **Vandal  LI-OA** *Skirmisher (3142)* `C3 Master`, `TAG`
+- **Vandal  LI-OB** *Skirmisher (3142)* `C3 Slave`, `ECM`, `TAG`
 
 ### [Verfolger](../mechs/verfolger.md)
 - **Verfolger VR5-R** *Skirmisher (3063)*
