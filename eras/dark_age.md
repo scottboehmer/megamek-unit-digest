@@ -328,6 +328,9 @@
 ### [Raider Mk II](../mechs/raider_mk_ii.md)
 - **Raider Mk II JL-2** *Brawler (3134)*
 
+### [Rhino](../mechs/rhino.md)
+- **Rhino** *Skirmisher (3140)*
+
 ### [Shockwave](../mechs/shockwave.md)
 - **Shockwave SKW-8X** *Brawler (3134)*
 

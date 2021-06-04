@@ -186,6 +186,9 @@
 - **Raijin II RJN-200-B** *Skirmisher (3066)* `Active Probe`, `C3i`, `ECM`, `Stealth`, `TAG`
 - **Raijin II RJN-200-C** *Skirmisher (3066)* `C3i`, `ECM`, `Stealth`
 
+### [Rhino](../mechs/rhino.md)
+- **Rhino** *Skirmisher (3140)*
+
 ### [Ronin](../mechs/ronin.md)
 - **Ronin SA-RN7** *Skirmisher (3063)*
 

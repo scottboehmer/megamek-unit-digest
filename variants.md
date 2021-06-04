@@ -2191,6 +2191,9 @@
 - **Raijin II RJN-200-B** *Skirmisher (3066)* `Active Probe`, `C3i`, `ECM`, `Stealth`, `TAG`
 - **Raijin II RJN-200-C** *Skirmisher (3066)* `C3i`, `ECM`, `Stealth`
 
+### [Rhino](mechs/rhino.md)
+- **Rhino** *Skirmisher (3140)*
+
 ### [Rifleman](mechs/rifleman.md)
 - **Rifleman RFL-1N** *Brawler (2504)*
 - **Rifleman RFL-2N** *Sniper (2556)*
@@ -5173,3 +5176,13 @@
 - **Xanthos XNT-5O** *Skirmisher (3076)*
 - **Xanthos XNT-6O** *Juggernaut (3094)* `ECM`, `Stealth`
 - **Xanthos XNT-7O** *Brawler (3119)*
+
+## 150 Tons
+
+### [OMEGA](mechs/omega.md)
+- **OMEGA SHP-4X** *Sniper (3078)* `C3i`
+
+## 200 Tons
+
+### [Orca](mechs/orca.md)
+- **Orca OC-1X** *Sniper (3103)* `ECM`

@@ -1051,3 +1051,13 @@
 
 ### [Xanthos](../mechs/xanthos.md)
 - **Xanthos XNT-4O** *Sniper (3068)* `ECM`, `Stealth`
+
+## 150 Tons
+
+### [OMEGA](../mechs/omega.md)
+- **OMEGA SHP-4X** *Sniper (3078)* `C3i`
+
+## 200 Tons
+
+### [Orca](../mechs/orca.md)
+- **Orca OC-1X** *Sniper (3103)* `ECM`

@@ -517,3 +517,8 @@
 
 ### [Xanthos](../mechs/xanthos.md)
 - **Xanthos XNT-7O** *Brawler (3119)*
+
+## 200 Tons
+
+### [Orca](../mechs/orca.md)
+- **Orca OC-1X** *Sniper (3103)* `ECM`

@@ -1830,3 +1830,8 @@
 ### [Xanthos](../mechs/xanthos.md)
 - **Xanthos XNT-4O** *Sniper (3068)* `ECM`, `Stealth`
 - **Xanthos XNT-5O** *Skirmisher (3076)*
+
+## 150 Tons
+
+### [OMEGA](../mechs/omega.md)
+- **OMEGA SHP-4X** *Sniper (3078)* `C3i`

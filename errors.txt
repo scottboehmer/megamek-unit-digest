@@ -1,28 +1,25 @@
-Unable to convert data from 'Ares ARS-V1 Aphrodite.mtf': Invalid mech tonnage
-Unable to convert data from 'Ares ARS-V1 Hades.mtf': Invalid mech tonnage
-Unable to convert data from 'Ares ARS-V1 Hephaestus.mtf': Invalid mech tonnage
-Unable to convert data from 'Ares ARS-V1 Hera.mtf': Invalid mech tonnage
-Unable to convert data from 'Ares ARS-V1 Zeus.mtf': Invalid mech tonnage
-Unable to convert data from 'Poseidon PSD-V2.mtf': Invalid mech tonnage
+Unable to convert data from 'Ares ARS-V1 Aphrodite.mtf': Unrecognized cockpit type: Superheavy Tripod Cockpit
+Unable to convert data from 'Ares ARS-V1 Hades.mtf': Unrecognized cockpit type: Superheavy Tripod Cockpit
+Unable to convert data from 'Ares ARS-V1 Hephaestus.mtf': Unrecognized cockpit type: Superheavy Tripod Cockpit
+Unable to convert data from 'Ares ARS-V1 Hera.mtf': Unrecognized cockpit type: Superheavy Tripod Cockpit
+Unable to convert data from 'Ares ARS-V1 Zeus.mtf': Unrecognized cockpit type: Superheavy Tripod Cockpit
+Unable to convert data from 'Poseidon PSD-V2.mtf': Unrecognized cockpit type: Superheavy Tripod Cockpit
 Unable to convert data from 'Zeus X ZEU-X.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Zeus X ZEU-X2.mtf': Unrecognized armor type: patchwork
-Unable to convert data from 'OMEGA SHP-4X.mtf': Invalid mech tonnage
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
-Unable to convert data from 'Rhino (Standard).mtf': Unrecognized component type: Ram Plate
 Unable to convert data from 'Spindrift Aquatic SecurityMech SDT-1.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Aquagladius AQS-5 MAM.mtf': Unrecognized armor type: patchwork
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
 Unable to convert data from 'Wasp WSP-3X.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Hornet HNT-181.mtf': Unrecognized heat sink type: compact
 Unable to convert data from 'Hornet HNT-182.mtf': Unrecognized heat sink type: compact
-Unable to convert data from 'Orca OC-1X.mtf': Invalid mech tonnage
 Unable to convert data from 'Tessen TSN-X4R _Rapunzel_.mtf': Unrecognized component type: ISRISCLaserPulseModule
 
 --------------------------------------------------
 Unrecognized Components:
+COCKPIT: Superheavy Tripod Cockpit: 6
 ARMOR: patchwork: 4
 HEAT SINK: compact: 3
-Ram Plate: 1
 ISRISCLaserPulseModule: 1
 
 --------------------------------------------------
@@ -222,4 +219,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3738 converted files -> 3737 validated mechs
+3756 mtf files -> 3756 parsed files -> 3741 converted files -> 3740 validated mechs
