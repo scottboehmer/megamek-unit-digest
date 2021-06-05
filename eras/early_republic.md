@@ -20,6 +20,7 @@
 
 ### [Wasp](../mechs/wasp.md)
 - **Wasp WSP-3P** *Scout (3086)*
+- **Wasp WSP-3X** *Undefined (3088)*
 
 ## 25 Tons
 

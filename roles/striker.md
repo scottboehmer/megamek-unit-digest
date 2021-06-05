@@ -36,6 +36,8 @@
 - **Hornet HNT-152** *Striker (2997)*
 - **Hornet HNT-171** *Striker (3051)*
 - **Hornet HNT-161** *Striker (3052)*
+- **Hornet HNT-181** *Striker (3130)*
+- **Hornet HNT-182** *Striker (3130)*
 
 ### [Howler](../mechs/howler.md)
 - **Howler 2** *Striker (3063)*

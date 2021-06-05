@@ -108,6 +108,8 @@
 - **Hornet HNT-152** *Striker (2997)*
 - **Hornet HNT-171** *Striker (3051)*
 - **Hornet HNT-161** *Striker (3052)*
+- **Hornet HNT-181** *Striker (3130)*
+- **Hornet HNT-182** *Striker (3130)*
 
 ### [Howler](mechs/howler.md)
 - **Howler (Standard)** *Missile Boat (2871)*
@@ -242,6 +244,7 @@
 - **Wasp WSP-8T** *Scout (3075)*
 - **Wasp WSP-3A** *Scout (3082)*
 - **Wasp WSP-3P** *Scout (3086)*
+- **Wasp WSP-3X** *Undefined (3088)*
 - **Wasp WSP-3K** *Scout (3110)*
 - **Wasp WSP-5A** *Scout (3114)*
 - **Wasp C** *Sniper (3143)*

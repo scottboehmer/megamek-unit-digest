@@ -11,6 +11,10 @@
 - **Fire Moth  M** *Undefined (3110)*
 - **Fire Moth  R** *Undefined (3110)* `C3 Slave`, `ECM`
 
+### [Hornet](../mechs/hornet.md)
+- **Hornet HNT-181** *Striker (3130)*
+- **Hornet HNT-182** *Striker (3130)*
+
 ### [Snow Fox (Omni)](../mechs/snow_fox_omni.md)
 - **Snow Fox (Omni)  Prime** *Scout (3111)* `Active Probe`, `ECM`
 - **Snow Fox (Omni)  A** *Striker (3111)*

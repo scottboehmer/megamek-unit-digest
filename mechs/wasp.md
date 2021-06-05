@@ -231,6 +231,21 @@
 - **Source:** RS 3145 NT NU 
 - **Battle Value:** 537
 
+## Wasp WSP-3X
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (3088)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
+- **Armor:** 35 (Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Thunderbolt 5 × 2 (ammo: 12)
+  - Medium Laser
+- **Source:** Jihad
+- **Battle Value:** 521
+
 ## Wasp WSP-3K
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3110)

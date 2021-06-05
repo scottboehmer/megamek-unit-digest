@@ -63,3 +63,36 @@
 - **Source:** TRO 3050 - Clan Invasion
 - **Battle Value:** 511
 
+## Hornet HNT-181
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3130)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 62 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - MML 5 (ammo: 24 LRM, 20 SRM)
+  - ER Small Laser
+  - Small Re-Engineered Laser
+- **Equipment:**
+  - CASE
+- **Source:** XTRO Republic II - Late Republic
+- **Battle Value:** 398
+
+## Hornet HNT-182
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3130)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 62 (Ferro Fibrous)
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Medium Laser × 2
+  - MML 5 (ammo: 24 LRM, 20 SRM)
+- **Equipment:**
+  - CASE
+- **Source:** XTRO Republic II - Late Republic
+- **Battle Value:** 505
+
