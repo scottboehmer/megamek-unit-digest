@@ -5179,8 +5179,8 @@
 
 ## 150 Tons
 
-### [OMEGA](mechs/omega.md)
-- **OMEGA SHP-4X** *Sniper (3078)* `C3i`
+### [Omega](mechs/omega.md)
+- **Omega SHP-4X** *Sniper (3078)* `C3i`
 
 ## 200 Tons
 

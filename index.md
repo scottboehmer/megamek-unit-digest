@@ -497,7 +497,7 @@
 ## O
 - [O-Bakemono](mechs/o-bakemono.md)
 - [Ocelot](mechs/ocelot.md)
-- [OMEGA](mechs/omega.md)
+- [Omega](mechs/omega.md)
 - [Omen](mechs/omen.md)
 - [Omni-Corvis](mechs/omni-corvis.md)
 - [OmniMarauder](mechs/omnimarauder.md)
