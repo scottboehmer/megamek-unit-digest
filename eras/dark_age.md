@@ -752,3 +752,17 @@
 - **Marauder II MAD-6C** *Sniper (3134)* `Command Console`
 - **Marauder II MAD-8K** *Sniper (3138)*
 - **Marauder II MAD-10D** *Sniper (3141)*
+
+## 125 Tons
+
+### [Poseidon](../mechs/poseidon.md)
+- **Poseidon PSD-V2** *Juggernaut (3136)*
+
+## 135 Tons
+
+### [Ares](../mechs/ares.md)
+- **Ares  ARS-V1 Zeus** *Juggernaut (3136)*
+- **Ares  ARS-V1A Hera** *Juggernaut (3136)*
+- **Ares  ARS-V1B Hades** *Juggernaut (3136)*
+- **Ares  ARS-V1C Aphrodite** *Juggernaut (3136)* `C3 Master`, `ECM`, `TAG`
+- **Ares  ARS-V1D Hephaestus** *Juggernaut (3136)* `C3 Slave`

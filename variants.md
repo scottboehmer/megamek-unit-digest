@@ -5177,6 +5177,20 @@
 - **Xanthos XNT-6O** *Juggernaut (3094)* `ECM`, `Stealth`
 - **Xanthos XNT-7O** *Brawler (3119)*
 
+## 125 Tons
+
+### [Poseidon](mechs/poseidon.md)
+- **Poseidon PSD-V2** *Juggernaut (3136)*
+
+## 135 Tons
+
+### [Ares](mechs/ares.md)
+- **Ares  ARS-V1 Zeus** *Juggernaut (3136)*
+- **Ares  ARS-V1A Hera** *Juggernaut (3136)*
+- **Ares  ARS-V1B Hades** *Juggernaut (3136)*
+- **Ares  ARS-V1C Aphrodite** *Juggernaut (3136)* `C3 Master`, `ECM`, `TAG`
+- **Ares  ARS-V1D Hephaestus** *Juggernaut (3136)* `C3 Slave`
+
 ## 150 Tons
 
 ### [Omega](mechs/omega.md)
