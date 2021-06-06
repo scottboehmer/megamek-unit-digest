@@ -1,4 +1,20 @@
 # Zeus-X
+## Zeus-X ZEU-X
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3054)
+- **Chassis:** 80 tons (Composite)
+- **Movement:** 5 / 8, XXL
+- **Armor:** 247 (Patchwork (Standard, Reactive))
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
+  - MRM 30 (ammo: 16)
+  - Medium X-Pulse Laser × 2
+- **Equipment:**
+  - CASE II
+- **Source:** TRO 3145 Lyran Commonwealth - Clan Invasion
+- **Battle Value:** 2119
+
 ## Zeus-X ZEU-9WD
 - **Role:** Brawler
 - **Tech Base:** Inner Sphere (3067)
@@ -14,6 +30,22 @@
   - CASE
 - **Source:** TRO 3050U - Civil War
 - **Battle Value:** 1716
+
+## Zeus-X ZEU-X2
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3069)
+- **Chassis:** 80 tons (Composite)
+- **Movement:** 5 / 8, Armored XXL
+- **Armor:** 232 (Patchwork (Standard, Reactive))
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - ER PPC
+  - MRM 20 (ammo: 12)
+  - Medium X-Pulse Laser × 2
+- **Equipment:**
+  - CASE II
+- **Source:** TRO 3145 Lyran Commonwealth - Jihad
+- **Battle Value:** 1915
 
 ## Zeus-X ZEU-9WD (Stacy)
 - **Role:** Sniper

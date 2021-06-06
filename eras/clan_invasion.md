@@ -1042,6 +1042,9 @@
 - **Zeus ZEU-9S2** *Sniper (3051)*
 - **Zeus (Leonidas)** *Sniper (3056)*
 
+### [Zeus-X](../mechs/zeus-x.md)
+- **Zeus-X ZEU-X** *Skirmisher (3054)*
+
 ## 85 Tons
 
 ### [BattleMaster](../mechs/battlemaster.md)

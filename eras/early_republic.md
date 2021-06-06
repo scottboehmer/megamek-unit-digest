@@ -142,6 +142,9 @@
 
 ## 50 Tons
 
+### [Aquagladius](../mechs/aquagladius.md)
+- **Aquagladius AQS-5 MAM** *Undefined (3090)*
+
 ### [Black Hawk](../mechs/black_hawk.md)
 - **Black Hawk 2** *Skirmisher (3092)*
 - **Black Hawk 3** *Skirmisher (3092)*

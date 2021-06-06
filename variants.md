@@ -826,6 +826,7 @@
 - **Spider SDR-10K** *Scout (3143)*
 
 ### [Spindrift](mechs/spindrift.md)
+- **Spindrift SDT-1 Aquatic SecurityMech** *Ambusher (3069)*
 - **Spindrift SDT-1A Aquatic SecurityMech** *Scout (3083)*
 
 ### [Stinger LAM](mechs/stinger_lam.md)
@@ -1899,6 +1900,7 @@
 ### [Aquagladius](mechs/aquagladius.md)
 - **Aquagladius AQS-3** *Striker (3065)*
 - **Aquagladius AQS-4** *Juggernaut (3066)*
+- **Aquagladius AQS-5 MAM** *Undefined (3090)*
 
 ### [Avalanche](mechs/avalanche.md)
 - **Avalanche  AVL-1O** *Missile Boat (3133)*
@@ -4344,7 +4346,9 @@
 - **Zeus ZEU-11S** *Sniper (3130)* `Active Probe`
 
 ### [Zeus-X](mechs/zeus-x.md)
+- **Zeus-X ZEU-X** *Skirmisher (3054)*
 - **Zeus-X ZEU-9WD** *Brawler (3067)*
+- **Zeus-X ZEU-X2** *Skirmisher (3069)*
 - **Zeus-X ZEU-9WD (Stacy)** *Sniper (3070)*
 - **Zeus-X ZEU-X3** *Skirmisher (3089)*
 - **Zeus-X ZEU-X4** *Sniper (3119)* `Command Console`

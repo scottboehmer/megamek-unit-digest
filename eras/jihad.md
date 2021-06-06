@@ -294,6 +294,7 @@
 - **Spider SDR-8R** *Scout (3084)*
 
 ### [Spindrift](../mechs/spindrift.md)
+- **Spindrift SDT-1 Aquatic SecurityMech** *Ambusher (3069)*
 - **Spindrift SDT-1A Aquatic SecurityMech** *Scout (3083)*
 
 ### [UrbanMech](../mechs/urbanmech.md)
@@ -1504,6 +1505,7 @@
 - **Zeus ZEU-10WB** *Sniper (3070)*
 
 ### [Zeus-X](../mechs/zeus-x.md)
+- **Zeus-X ZEU-X2** *Skirmisher (3069)*
 - **Zeus-X ZEU-9WD (Stacy)** *Sniper (3070)*
 
 ## 85 Tons

@@ -84,6 +84,9 @@
 - **Pacifier CCU-36 SecurityMech** *Ambusher (3031)*
 - **Pacifier CCU-40 SecurityMech** *Ambusher (3130)*
 
+### [Spindrift](../mechs/spindrift.md)
+- **Spindrift SDT-1 Aquatic SecurityMech** *Ambusher (3069)*
+
 ### [SuburbanMech](../mechs/suburbanmech.md)
 - **SuburbanMech UM-R90** *Ambusher (3018)*
 

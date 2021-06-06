@@ -1138,6 +1138,8 @@
 - **Warhammer IIC 9** *Skirmisher (3086)* `ECM`
 
 ### [Zeus-X](../mechs/zeus-x.md)
+- **Zeus-X ZEU-X** *Skirmisher (3054)*
+- **Zeus-X ZEU-X2** *Skirmisher (3069)*
 - **Zeus-X ZEU-X3** *Skirmisher (3089)*
 
 ## 85 Tons
