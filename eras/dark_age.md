@@ -334,6 +334,9 @@
 ### [Shockwave](../mechs/shockwave.md)
 - **Shockwave SKW-8X** *Brawler (3134)*
 
+### [Tessen](../mechs/tessen.md)
+- **Tessen TSN-X4R 'Rapunzel'** *Undefined (3137)* `ECM`
+
 ### [Trebuchet](../mechs/trebuchet.md)
 - **Trebuchet TBT-9R** *Missile Boat (3131)*
 - **Trebuchet TBT-9N** *Missile Boat (3136)*
