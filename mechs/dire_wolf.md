@@ -155,13 +155,13 @@
   - ER PPC × 2
   - Medium Pulse Laser × 4
   - ATM 6 × 2 (ammo: 20)
-  - SRM 4 (iOS)
+  - Streak SRM 4 (iOS)
 - **Equipment:**
   - ECM Suite
   - CASE
   - Targeting Computer
 - **Source:** TRO 3050 - Clan Invasion
-- **Battle Value:** unknown
+- **Battle Value:** 3610
 
 ## Dire Wolf "Daishi" H
 - **Role:** Juggernaut

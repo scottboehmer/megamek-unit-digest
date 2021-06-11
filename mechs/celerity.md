@@ -13,7 +13,7 @@
   - Drone Operating System
   - C3i
 - **Source:** XTRO ComStar - Clan Invasion
-- **Battle Value:** unknown
+- **Battle Value:** 157
 
 ## Celerity CLR-03-O
 - **Role:** Scout
@@ -30,7 +30,7 @@
   - TAG
   - C3 Slave
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 187
 
 ## Celerity CLR-03-OA
 - **Role:** Scout
@@ -44,10 +44,10 @@
 - **Weapons:**
   - Clan SRM 6 (iOS) × 2
 - **Equipment:**
-  - MASC
   - Drone Operating System
+  - MASC
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 275
 
 ## Celerity CLR-03-OB
 - **Role:** Scout
@@ -63,7 +63,7 @@
   - Drone Operating System
   - MASC
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 339
 
 ## Celerity CLR-03-OC
 - **Role:** Scout
@@ -80,7 +80,7 @@
   - Drone Operating System
   - Remote Sensor Dispenser
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 202
 
 ## Celerity CLR-03-OD
 - **Role:** Scout
@@ -97,7 +97,7 @@
   - Drone Operating System
   - MASC
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 304
 
 ## Celerity CLR-03-OE
 - **Role:** Scout
@@ -115,7 +115,7 @@
   - MASC
   - Drone Operating System
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 921
 
 ## Celerity CLR-03OMM 'Rajah'
 - **Role:** Undefined
@@ -165,5 +165,5 @@
   - Drone Operating System
   - Supercharger
 - **Source:** TRO 3145 Republic of the Sphere - Dark Ages
-- **Battle Value:** unknown
+- **Battle Value:** 225
 

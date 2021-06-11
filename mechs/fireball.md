@@ -68,5 +68,5 @@
   - MASC
   - Supercharger
 - **Source:** XTRO Most Wanted - Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 612
 

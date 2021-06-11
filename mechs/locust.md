@@ -218,7 +218,7 @@
 - **Equipment:**
   - MASC
 - **Source:** Jihad
-- **Battle Value:** unknown
+- **Battle Value:** 956
 
 ## Locust LCT-5W
 - **Role:** Scout

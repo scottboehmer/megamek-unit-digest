@@ -38,11 +38,11 @@
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
   - LRM 15 × 8 (ammo: 128)
-  - SRM 4 (iOS)
+  - Streak SRM 4 (iOS)
 - **Equipment:**
   - CASE
 - **Source:** TRO 3055 - Clan Invasion
-- **Battle Value:** unknown
+- **Battle Value:** 2941
 
 ## Bane 4 "Kraken"
 - **Role:** Juggernaut
