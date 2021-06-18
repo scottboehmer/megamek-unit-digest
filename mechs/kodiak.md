@@ -13,7 +13,7 @@
   - ER Medium Laser × 8
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1805/kodiak-standard)
 - **Battle Value:** 2927
 
 ## Kodiak 5
@@ -29,7 +29,7 @@
   - ER Medium Laser × 9
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1809/kodiak-5)
 - **Battle Value:** 3067
 
 ## Kodiak 2
@@ -47,7 +47,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1806/kodiak-2)
 - **Battle Value:** 2856
 
 ## Kodiak 4
@@ -63,7 +63,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1808/kodiak-4)
 - **Battle Value:** 2728
 
 ## Kodiak (Cale)
@@ -84,6 +84,7 @@
   - Inner Sphere Beagle Active Probe
   - Inner Sphere C3 Master
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1804/kodiak-cale)
 - **Battle Value:** 2535
 
 ## Kodiak 3
@@ -99,6 +100,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1807/kodiak-3)
 - **Battle Value:** 2615
 

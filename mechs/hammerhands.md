@@ -11,7 +11,7 @@
   - AC/10 × 2 (ammo: 40)
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1369/hammerhands-hmh-3d)
 - **Battle Value:** 1381
 
 ## Hammerhands HMH-4D
@@ -25,7 +25,7 @@
   - PPC
   - AC/10 × 2 (ammo: 40)
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1370/hammerhands-hmh-4d)
 - **Battle Value:** 1356
 
 ## Hammerhands HMH-3D (Kessem)
@@ -39,7 +39,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem)
 - **Battle Value:** 1413
 
 ## Hammerhands HMH-5D
@@ -55,7 +55,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1371/hammerhands-hmh-5d)
 - **Battle Value:** 1496
 
 ## Hammerhands HMH-6D
@@ -73,7 +73,7 @@
 - **Equipment:**
   - C3 Slave
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1372/hammerhands-hmh-6d)
 - **Battle Value:** 2139
 
 ## Hammerhands HMH-6E
@@ -92,6 +92,6 @@
   - Guardian ECM Suite
   - C3 Slave
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1373/hammerhands-hmh-6e)
 - **Battle Value:** 2204
 

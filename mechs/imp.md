@@ -13,6 +13,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1607/imp-imp-1a)
 - **Battle Value:** 2215
 
 ## Imp IMP-1B
@@ -30,6 +31,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1608/imp-imp-1b)
 - **Battle Value:** 2349
 
 ## Imp IMP-1C
@@ -46,6 +48,7 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1609/imp-imp-1c)
 - **Battle Value:** 2480
 
 ## Imp C
@@ -61,7 +64,7 @@
   - Medium Pulse Laser × 5
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1606/imp-c)
 - **Battle Value:** 3070
 
 ## Imp IMP-2E
@@ -75,7 +78,7 @@
   - PPC × 2
   - LRM 15 (ammo: 8)
   - Medium Laser × 5
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4358/imp-imp-2e)
 - **Battle Value:** 1969
 
 ## Imp IMP-3E
@@ -93,7 +96,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1610/imp-imp-3e)
 - **Battle Value:** 1906
 
 ## Imp IMP-4E
@@ -111,6 +114,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1611/imp-imp-4e)
 - **Battle Value:** 2263
 

@@ -12,7 +12,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7623/sun-bear-prime)
 - **Battle Value:** 2022
 
 ## Sun Bear A
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 23 (46)
 - **Weapons:**
   - ER Medium Laser × 12
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a)
 - **Battle Value:** 2418
 
 ## Sun Bear B
@@ -40,6 +40,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7625/sun-bear-b)
 - **Battle Value:** 2144
 

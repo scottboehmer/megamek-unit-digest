@@ -9,7 +9,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Large Laser
-- **Source:** XTRO Primitives I - Age of War
+- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/666/commando-com-1a)
 - **Battle Value:** 475
 
 ## Commando COM-1D
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Large Laser
   - SRM 6 (ammo: 15)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/669/commando-com-1d)
 - **Battle Value:** 558
 
 ## Commando COM-2D
@@ -36,7 +36,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/670/commando-com-2d)
 - **Battle Value:** 541
 
 ## Commando COM-1B
@@ -50,7 +50,7 @@
   - Large Laser
   - Medium Laser
   - SRM 2 (ammo: 50)
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/667/commando-com-1b)
 - **Battle Value:** 616
 
 ## Commando COM-1C
@@ -63,7 +63,7 @@
 - **Weapons:**
   - Medium Laser
   - AC/2 (ammo: 45)
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/668/commando-com-1c)
 - **Battle Value:** 458
 
 ## Commando COM-3A
@@ -77,7 +77,7 @@
   - SRM 6 × 2 (ammo: 15)
   - Medium Laser
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/672/commando-com-3a)
 - **Battle Value:** 540
 
 ## Commando COM-5S
@@ -93,7 +93,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/674/commando-com-5s)
 - **Battle Value:** 557
 
 ## Commando COM-7S
@@ -109,7 +109,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/676/commando-com-7s)
 - **Battle Value:** 658
 
 ## Commando COM-4H
@@ -122,7 +122,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Rocket 15 × 6
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/673/commando-com-4h)
 - **Battle Value:** 691
 
 ## Commando COM-7B
@@ -140,7 +140,7 @@
   - Flamer × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/675/commando-com-7b)
 - **Battle Value:** 602
 
 ## Commando COM-7S2 (Freyr)
@@ -158,6 +158,7 @@
   - Clan Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/677/commando-com-7s2-freyr)
 - **Battle Value:** 1105
 
 ## Commando COM-1AK
@@ -171,7 +172,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Small Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak)
 - **Battle Value:** 549
 
 ## Commando COM-2Dr
@@ -186,7 +187,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/671/commando-com-2dr)
 - **Battle Value:** 563
 
 ## Commando COM-8S
@@ -203,7 +204,7 @@
   - C3 Boosted Slave
   - CASE II
   - Supercharger
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s)
 - **Battle Value:** 775
 
 ## Commando COM-9S
@@ -220,6 +221,6 @@
 - **Equipment:**
   - CASE II
   - Supercharger
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7439/commando-com-9s)
 - **Battle Value:** 719
 

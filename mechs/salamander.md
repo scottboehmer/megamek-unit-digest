@@ -11,7 +11,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2782/salamander-ppr-5s)
 - **Battle Value:** 1769
 
 ## Salamander PPR-5T
@@ -26,7 +26,7 @@
   - Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2783/salamander-ppr-5t)
 - **Battle Value:** 1589
 
 ## Salamander PPR-6S
@@ -42,7 +42,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2784/salamander-ppr-6s)
 - **Battle Value:** 1714
 
 ## Salamander PPR-6T
@@ -58,7 +58,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2785/salamander-ppr-6t)
 - **Battle Value:** 1681
 
 ## Salamander PPR-7S
@@ -74,7 +74,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2786/salamander-ppr-7s)
 - **Battle Value:** 2023
 
 ## Salamander PPR-7T
@@ -90,6 +90,6 @@
   - ELRM 10 (ammo: 18)
 - **Equipment:**
   - C3 Boosted Slave
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6860/salamander-ppr-7t)
 - **Battle Value:** 1647
 

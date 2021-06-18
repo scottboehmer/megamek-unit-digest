@@ -13,7 +13,7 @@
   - Mech Sprayer
   - Light Fluid Suction System
   - Liquid Cargo × 2
-- **Source:** RS VA
+- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4987/scavenger-sc-v-salvagemech)
 - **Battle Value:** 582
 
 ## ScavengerMech SC-V-M MilitiaMech
@@ -28,6 +28,6 @@
 - **Equipment:**
   - Extended Fuel Tank
   - Searchlight
-- **Source:** RS VA
+- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7174/scavenger-sc-v-m-militiamech)
 - **Battle Value:** 726
 

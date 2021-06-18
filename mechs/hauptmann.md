@@ -15,7 +15,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1420/hauptmann-ha1-o)
 - **Battle Value:** 2157
 
 ## Hauptmann HA1-OA
@@ -32,7 +32,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1421/hauptmann-ha1-oa)
 - **Battle Value:** 2311
 
 ## Hauptmann HA1-OB
@@ -48,7 +48,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob)
 - **Battle Value:** 2138
 
 ## Hauptmann HA1-OC
@@ -67,7 +67,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc)
 - **Battle Value:** 2287
 
 ## Hauptmann HA1-OD
@@ -86,7 +86,7 @@
   - CASE
   - C3 Master
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od)
 - **Battle Value:** 2359
 
 ## Hauptmann HA1-OE
@@ -102,7 +102,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1425/hauptmann-ha1-oe)
 - **Battle Value:** 2298
 
 ## Hauptmann HA1-OF
@@ -120,7 +120,7 @@
   - Angel ECM Suite
   - CASE
   - CASE II
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of)
 - **Battle Value:** 2484
 
 ## Hauptmann HA1-OM
@@ -136,7 +136,7 @@
 - **Equipment:**
   - CASE
   - C3 BoostedMaster
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6838/hauptmann-ha1-om)
 - **Battle Value:** 2214
 
 ## Hauptmann HA1-OT
@@ -153,6 +153,6 @@
 - **Equipment:**
   - CASE
   - Clan CASE II
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6837/hauptmann-ha1-ot)
 - **Battle Value:** 3031
 

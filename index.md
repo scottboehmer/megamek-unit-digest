@@ -40,7 +40,7 @@
 - [Anzu](mechs/anzu.md)
 - [Apollo](mechs/apollo.md)
 - [Aquagladius](mechs/aquagladius.md)
-- [Arana](mechs/arana.md)
+- [Araña](mechs/araña.md)
 - [Arbalest](mechs/arbalest.md)
 - [Arbiter](mechs/arbiter.md)
 - [Arcas](mechs/arcas.md)

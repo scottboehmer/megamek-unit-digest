@@ -11,6 +11,6 @@
   - Light Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** ISP 3
+- **Sources:** ISP 3, [Master Unit List](http://masterunitlist.info/Unit/Details/5797/reptar-ept-c-1-militiamech)
 - **Battle Value:** 514
 

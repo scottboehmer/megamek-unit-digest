@@ -14,7 +14,7 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/496/cauldron-born-ebon-jaguar-prime)
 - **Battle Value:** 1952
 
 ## Ebon Jaguar "Cauldron-Born" A
@@ -33,7 +33,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/490/cauldron-born-ebon-jaguar-a)
 - **Battle Value:** 2429
 
 ## Ebon Jaguar "Cauldron-Born" B
@@ -50,7 +50,7 @@
 - **Equipment:**
   - Active Probe
   - TAG
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/491/cauldron-born-ebon-jaguar-b)
 - **Battle Value:** 2535
 
 ## Ebon Jaguar "Cauldron-Born" C
@@ -66,7 +66,7 @@
   - SRM 6 × 2 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/492/cauldron-born-ebon-jaguar-c)
 - **Battle Value:** 1831
 
 ## Ebon Jaguar "Cauldron-Born" (Samantha)
@@ -83,7 +83,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** HTP Luzerne - Clan Invasion
+- **Sources:** HTP Luzerne - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5862/cauldron-born-ebon-jaguar-samantha)
 - **Battle Value:** 2372
 
 ## Ebon Jaguar "Cauldron-Born" D
@@ -99,7 +99,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/493/cauldron-born-ebon-jaguar-d)
 - **Battle Value:** 2228
 
 ## Ebon Jaguar "Cauldron-Born" H
@@ -117,7 +117,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO Clan Invasion - Civil War
+- **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/495/cauldron-born-ebon-jaguar-h)
 - **Battle Value:** 2359
 
 ## Ebon Jaguar "Cauldron-Born" E
@@ -134,7 +134,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e)
 - **Battle Value:** 2391
 
 ## Ebon Jaguar "Cauldron-Born" X
@@ -152,7 +152,7 @@
   - Angel ECM Suite
   - Targeting Computer
   - CASE II
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x)
 - **Battle Value:** 2435
 
 ## Ebon Jaguar "Cauldron-Born" U
@@ -169,6 +169,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/497/cauldron-born-ebon-jaguar-u)
 - **Battle Value:** 2593
 

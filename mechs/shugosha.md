@@ -11,7 +11,7 @@
   - Lift Hoist × 2
   - Cargo × 2
   - Searchlight
-- **Source:** RS:VA IM Exo - Star League
+- **Sources:** RS:VA IM Exo - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7157/shugosha-ptn-law-loadermech)
 - **Battle Value:** 100
 
 ## Shugosha LAW-QM1 Q-Mech
@@ -27,7 +27,7 @@
 - **Equipment:**
   - Booby Trap
   - Drone Operating System
-- **Source:** RS:VA IM Exo - Clan Invasion
+- **Sources:** RS:VA IM Exo - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7154/shugosha-law-qm1-q-mech)
 - **Battle Value:** 168
 
 ## Shugosha LAW-QM2 Q-Mech
@@ -44,7 +44,7 @@
 - **Equipment:**
   - Booby Trap
   - Drone Operating System
-- **Source:** RS:VA IM Exo - Clan Invasion
+- **Sources:** RS:VA IM Exo - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7155/shugosha-law-qm2-q-mech)
 - **Battle Value:** 164
 
 ## Shugosha LAW-QM3 Q-Mech
@@ -59,6 +59,6 @@
   - PPC
 - **Equipment:**
   - Drone Operating System
-- **Source:** RS:VA IM Exo - Clan Invasion
+- **Sources:** RS:VA IM Exo - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7156/shugosha-law-qm3-q-mech)
 - **Battle Value:** 198
 

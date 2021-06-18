@@ -405,7 +405,7 @@
 - **Stormcrow  T** *Undefined (3150)* `Active Probe`
 
 ### [Surtur](../mechs/surtur.md)
-- **Surtur STR-6H** *Undefined (3140)*
+- **Surtur SUR-T1** *Undefined (3140)*
 
 ### [Vapor Eagle](../mechs/vapor_eagle.md)
 - **Vapor Eagle 7** *Skirmisher (3136)*

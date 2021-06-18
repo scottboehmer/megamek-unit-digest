@@ -11,7 +11,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 6
   - SRM 4 × 4 (ammo: 50)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3257/titan-ti-1a)
 - **Battle Value:** 1959
 
 ## Titan TI-1Aj
@@ -28,7 +28,7 @@
   - SRM 4 × 5 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6827/titan-ti-1aj)
 - **Battle Value:** 2328
 
 ## Titan TI-1Ar
@@ -44,6 +44,6 @@
   - SRM 4 × 5 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6826/titan-ti-1ar)
 - **Battle Value:** 2165
 

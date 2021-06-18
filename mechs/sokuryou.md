@@ -11,7 +11,7 @@
   - Extended Fuel Tank
   - Communications Equipment
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2982/sokuryou-sku-181-surveymech)
 - **Battle Value:** 346
 
 ## Sokuryou SKU-197 SurveyMech
@@ -26,7 +26,7 @@
   - TAG
   - Communications Equipment
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2983/sokuryou-sku-197-surveymech)
 - **Battle Value:** 395
 
 ## Sokuryou SKU-198 SurveyMech
@@ -41,6 +41,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2984/sokuryou-sku-198-surveymech)
 - **Battle Value:** 581
 

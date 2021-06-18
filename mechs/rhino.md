@@ -12,6 +12,6 @@
   - Inner Sphere Spikes × 3
   - MASC
   - Ram Plate
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7883/rhino-standard)
 - **Battle Value:** unknown
 

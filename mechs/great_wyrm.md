@@ -13,7 +13,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1284/great-wyrm-standard)
 - **Battle Value:** 1331
 
 ## Great Wyrm (Aemelia)
@@ -28,6 +28,7 @@
   - ER Large Laser
   - ER Medium Laser × 2
   - ER Small Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1283/great-wyrm-aemelia)
 - **Battle Value:** 1772
 
 ## Great Wyrm 2
@@ -43,6 +44,6 @@
   - AP Gauss Rifle (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1285/great-wyrm-2)
 - **Battle Value:** 1667
 

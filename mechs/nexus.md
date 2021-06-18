@@ -13,7 +13,7 @@
   - Small Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2259/nexus-nxs1-a)
 - **Battle Value:** 643
 
 ## Nexus NXS1-B
@@ -29,6 +29,6 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2260/nexus-nxs1-b)
 - **Battle Value:** 715
 

@@ -13,7 +13,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/797/daikyu-dai-01)
 - **Battle Value:** 1603
 
 ## Daikyu DAI-02
@@ -31,7 +31,7 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/800/daikyu-dai-02)
 - **Battle Value:** 1831
 
 ## Daikyu DAI-01 (Tabitha)
@@ -46,6 +46,7 @@
   - LB 5-X AC × 2 (ammo: 40 Cluster, 40 Standard)
   - Medium Laser
   - LRM 5 (ammo: 24)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798/daikyu-dai-01-tabitha)
 - **Battle Value:** 1804
 
 ## Daikyu DAI-03
@@ -63,7 +64,7 @@
   - C3 Slave
   - MASC
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/801/daikyu-dai-03)
 - **Battle Value:** 1692
 
 ## Daikyu DAI-01r
@@ -81,6 +82,6 @@
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/799/daikyu-dai-01r)
 - **Battle Value:** 1513
 

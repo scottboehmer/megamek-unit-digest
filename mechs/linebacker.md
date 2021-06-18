@@ -13,7 +13,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1892/linebacker-prime)
 - **Battle Value:** 2390
 
 ## Linebacker A
@@ -30,7 +30,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1886/linebacker-a)
 - **Battle Value:** 2264
 
 ## Linebacker B
@@ -46,7 +46,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1887/linebacker-b)
 - **Battle Value:** 2048
 
 ## Linebacker C
@@ -64,7 +64,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1888/linebacker-c)
 - **Battle Value:** 2075
 
 ## Linebacker D
@@ -80,7 +80,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1889/linebacker-d)
 - **Battle Value:** 2039
 
 ## Linebacker E
@@ -96,7 +96,7 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1890/linebacker-e)
 - **Battle Value:** 1846
 
 ## Linebacker H
@@ -111,7 +111,7 @@
   - Heavy Large Laser × 2
   - ER Medium Laser × 2
   - ER Small Laser
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1891/linebacker-h)
 - **Battle Value:** 2097
 
 ## Linebacker F
@@ -127,7 +127,7 @@
   - Narc (iOS)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Rec Guide 6 - Jihad
+- **Sources:** ilClan Rec Guide 6 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f)
 - **Battle Value:** 1928
 
 ## Linebacker G
@@ -143,7 +143,7 @@
 - **Equipment:**
   - Targeting Computer
   - Supercharger
-- **Source:** ilClan Rec Guide 6 - Late Republic
+- **Sources:** ilClan Rec Guide 6 - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6880/linebacker-g)
 - **Battle Value:** 2433
 
 ## Linebacker I
@@ -161,6 +161,7 @@
   - Machine Gun Array × 6
   - CASE
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7525/linebacker-i)
 - **Battle Value:** 1853
 
 ## Linebacker T
@@ -178,5 +179,6 @@
 - **Equipment:**
   - Active Probe
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7526/linebacker-t)
 - **Battle Value:** 1851
 

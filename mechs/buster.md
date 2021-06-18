@@ -11,6 +11,7 @@
   - Lift Hoist × 2
   - Cargo × 3
   - Tracks
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/452/buster-bc-xv-haulermech)
 - **Battle Value:** 222
 
 ## Buster BC XV-M HaulerMech MOD
@@ -23,7 +24,7 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - AC/5 (ammo: 20)
-- **Source:** RS IA
+- **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/453/buster-bc-xv-m-haulermech-mod-bc-xv-ac)
 - **Battle Value:** 443
 
 ## Buster BC XV-M-B HaulerMech MOD
@@ -37,6 +38,7 @@
   - PPC
 - **Equipment:**
   - Cargo
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/454/buster-bc-xv-m-b-haulermech-mod-bc-xv-ppc)
 - **Battle Value:** 475
 
 ## Buster BC XXI HaulerMech
@@ -52,7 +54,7 @@
   - Lift Hoist × 2
   - Cargo × 3
   - Tracks
-- **Source:** TRO VA
+- **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7220/buster-bc-xxi-haulermech)
 - **Battle Value:** 222
 
 ## Buster BC XXI-M HaulerMech MOD
@@ -68,7 +70,7 @@
   - SRM 2 × 4 (ammo: 100)
 - **Equipment:**
   - Tracks
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7865/buster-bc-xxi-m-haulermech-mod)
 - **Battle Value:** 483
 
 ## Buster BC XV-M-C HaulerMech MOD
@@ -81,7 +83,7 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - Rocket 10 × 2
-- **Source:** RS IA
+- **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/7178/buster-bc-xv-m-c-haulermech-mod)
 - **Battle Value:** 726
 
 ## Buster BC XV-M-W HaulerMech MOD
@@ -95,6 +97,6 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Equipment:**
   - Ejection Seat
-- **Source:** RS IA
+- **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/7179/buster-bc-xv-m-w-haulermech-mod)
 - **Battle Value:** 713
 

@@ -9,6 +9,6 @@
 - **Heat Sinks:** 0 (0)
 - **Weapons:**
   - Chainsaw
-- **Source:** RS VA - Late Succession War
+- **Sources:** RS VA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7160/forestrymech-ed-x3)
 - **Battle Value:** 202
 

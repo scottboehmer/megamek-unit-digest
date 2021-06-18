@@ -12,7 +12,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard)
 - **Battle Value:** 2057
 
 ## Phoenix Hawk IIC 2
@@ -27,7 +27,7 @@
   - LRM 20 × 4 (ammo: 48)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2)
 - **Battle Value:** 2892
 
 ## Phoenix Hawk IIC 3
@@ -44,7 +44,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2513/phoenix-hawk-iic-3)
 - **Battle Value:** 2448
 
 ## Phoenix Hawk IIC 4
@@ -59,7 +59,7 @@
   - ATM 9 × 4 (ammo: 21 Standard, 14 ER, 14 HE)
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4)
 - **Battle Value:** 2483
 
 ## Phoenix Hawk IIC 5
@@ -75,7 +75,7 @@
   - AP Gauss Rifle × 4 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2515/phoenix-hawk-iic-5)
 - **Battle Value:** 2350
 
 ## Phoenix Hawk IIC 6
@@ -91,7 +91,7 @@
   - Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2516/phoenix-hawk-iic-6)
 - **Battle Value:** 2490
 
 ## Phoenix Hawk IIC 7
@@ -108,7 +108,7 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2517/phoenix-hawk-iic-7)
 - **Battle Value:** 2219
 
 ## Phoenix Hawk IIC 8
@@ -124,6 +124,6 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - ECM Suite
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2518/phoenix-hawk-iic-8)
 - **Battle Value:** 2903
 

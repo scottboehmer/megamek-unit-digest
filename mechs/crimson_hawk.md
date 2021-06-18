@@ -9,7 +9,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/721/crimson-hawk-standard)
 - **Battle Value:** 1285
 
 ## Crimson Hawk 2
@@ -22,7 +22,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy Large Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/722/crimson-hawk-2)
 - **Battle Value:** 1271
 
 ## Crimson Hawk 3
@@ -36,7 +36,7 @@
 - **Weapons:**
   - ER Large Laser
   - ER Medium Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/723/crimson-hawk-3)
 - **Battle Value:** 1029
 
 ## Crimson Hawk 4
@@ -54,6 +54,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3145 NT NU
+- **Sources:** TRO 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6944/crimson-hawk-4)
 - **Battle Value:** 1372
 

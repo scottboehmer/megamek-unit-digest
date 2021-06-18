@@ -15,7 +15,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h)
 - **Battle Value:** 1899
 
 ## Penthesilea PEN-2MAF
@@ -33,7 +33,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2471/penthesilea-pen-2maf)
 - **Battle Value:** 1834
 
 ## Penthesilea PEN-3H
@@ -55,6 +55,6 @@
   - AES × 2
   - CASE II
   - Machine Gun Array
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7347/penthesilea-pen-3h)
 - **Battle Value:** 1654
 

@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - Supercharger
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7775/carrion-crow-prime)
 - **Battle Value:** 2099
 
 ## Carrion Crow A
@@ -28,7 +28,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7776/carrion-crow-a)
 - **Battle Value:** 1625
 
 ## Carrion Crow B
@@ -46,7 +46,7 @@
   - Watchdog CEWS
   - Supercharger
   - CASE
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7777/carrion-crow-b)
 - **Battle Value:** 2083
 
 ## Carrion Crow C
@@ -62,7 +62,7 @@
   - ER Medium Pulse Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7778/carrion-crow-c)
 - **Battle Value:** 1826
 
 ## Carrion Crow D
@@ -80,6 +80,6 @@
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7779/carrion-crow-d)
 - **Battle Value:** 1930
 

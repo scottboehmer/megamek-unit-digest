@@ -12,7 +12,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/275/battle-hawk-bh-k305)
 - **Battle Value:** 771
 
 ## Battle Hawk BH-K306
@@ -28,6 +28,6 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/276/battle-hawk-bh-k306)
 - **Battle Value:** 926
 

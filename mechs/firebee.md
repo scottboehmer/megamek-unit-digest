@@ -10,7 +10,7 @@
 - **Weapons:**
   - LRM 5 (ammo: 24)
   - SRM 2 × 3 (ammo: 100)
-- **Source:** XTRO Primitives III - Age of War
+- **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1078/firebee-frb-1e-wam-b)
 - **Battle Value:** 534
 
 ## Firebee FRB-2E
@@ -24,7 +24,7 @@
 - **Weapons:**
   - Large Laser
   - SRM 2 × 4 (ammo: 100)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1079/firebee-frb-2e)
 - **Battle Value:** 808
 
 ## Firebee FRB-3E
@@ -42,7 +42,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1080/firebee-frb-3e)
 - **Battle Value:** 1067
 
 ## Firebee WI-WAM MilitiaMech
@@ -57,6 +57,6 @@
   - Rocket 10
 - **Equipment:**
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7838/firebee-wi-wam-militiamech)
 - **Battle Value:** 456
 

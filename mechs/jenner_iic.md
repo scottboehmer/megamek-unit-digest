@@ -12,7 +12,7 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard)
 - **Battle Value:** 1047
 
 ## Jenner IIC 2
@@ -29,7 +29,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2)
 - **Battle Value:** 1406
 
 ## Jenner IIC 3
@@ -45,7 +45,7 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3)
 - **Battle Value:** 788
 
 ## Jenner IIC 4
@@ -61,6 +61,6 @@
   - ATM 3 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1701/jenner-iic-4)
 - **Battle Value:** 1052
 

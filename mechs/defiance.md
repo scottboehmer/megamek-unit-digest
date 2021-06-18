@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2
   - Small Laser × 2
   - Machine Gun (ammo: 100)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/849/defiance-dfn-3c)
 - **Battle Value:** 1817
 
 ## Defiance DFN-3S
@@ -33,7 +33,7 @@
   - SRM 6 (ammo: 15)
   - ER Small Laser × 2
   - Machine Gun (ammo: 100)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/850/defiance-dfn-3s)
 - **Battle Value:** 1940
 
 ## Defiance DFN-3T
@@ -51,6 +51,6 @@
   - SRM 6 (ammo: 15)
   - ER Small Laser × 2
   - Machine Gun (ammo: 100)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/851/defiance-dfn-3t)
 - **Battle Value:** 1981
 

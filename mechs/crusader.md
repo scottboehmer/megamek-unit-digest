@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/748/crusader-crd-2r)
 - **Battle Value:** 1533
 
 ## Crusader CRD-3R
@@ -28,7 +28,7 @@
   - SRM 6 × 2 (ammo: 15)
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/752/crusader-crd-3r)
 - **Battle Value:** 1317
 
 ## Crusader CRD-3L
@@ -44,7 +44,7 @@
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/751/crusader-crd-3l)
 - **Battle Value:** 1297
 
 ## Crusader CRD-3D
@@ -58,7 +58,7 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/749/crusader-crd-3d)
 - **Battle Value:** 1338
 
 ## Crusader CRD-3K
@@ -72,7 +72,7 @@
   - LRM 10 × 2 (ammo: 24)
   - SRM 6 × 2 (ammo: 15)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/750/crusader-crd-3k)
 - **Battle Value:** 1290
 
 ## Crusader CRD-3R (Crael)
@@ -87,7 +87,7 @@
   - Medium Laser × 2
   - Claw × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael)
 - **Battle Value:** 1204
 
 ## Crusader CRD-4D
@@ -101,7 +101,7 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Pulse Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d)
 - **Battle Value:** 1309
 
 ## Crusader CRD-4K
@@ -115,7 +115,7 @@
   - LRM 10 × 2 (ammo: 24)
   - SRM 6 × 2 (ammo: 15)
   - Medium Pulse Laser × 2
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k)
 - **Battle Value:** 1268
 
 ## Crusader CRD-4L
@@ -129,7 +129,7 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Pulse Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/757/crusader-crd-4l)
 - **Battle Value:** 1309
 
 ## Crusader CRD-5M
@@ -149,7 +149,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m)
 - **Battle Value:** 1408
 
 ## Crusader CRD-5S
@@ -166,7 +166,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s)
 - **Battle Value:** 1446
 
 ## Crusader CRD-4BR
@@ -183,7 +183,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br)
 - **Battle Value:** 1407
 
 ## Crusader CRD-5K
@@ -201,7 +201,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/758/crusader-crd-5k)
 - **Battle Value:** 1463
 
 ## Crusader CRD-8S
@@ -218,7 +218,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/765/crusader-crd-8s)
 - **Battle Value:** 1698
 
 ## Crusader CRD-7L
@@ -236,7 +236,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/762/crusader-crd-7l)
 - **Battle Value:** 1749
 
 ## Crusader CRD-7W
@@ -253,7 +253,7 @@
   - MML 5 w/ Artemis IV × 2 (ammo: 72 LRM, 40 SRM)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/763/crusader-crd-7w)
 - **Battle Value:** 1162
 
 ## Crusader CRD-6M
@@ -271,7 +271,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m)
 - **Battle Value:** 1373
 
 ## Crusader CRD-8L
@@ -287,6 +287,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/764/crusader-crd-8l)
 - **Battle Value:** 1701
 

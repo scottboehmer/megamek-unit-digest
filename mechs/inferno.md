@@ -13,7 +13,7 @@
   - MML 5 × 2 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7715/inferno-inf-no)
 - **Battle Value:** 1597
 
 ## Inferno INF-NOA
@@ -30,7 +30,7 @@
   - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7716/inferno-inf-noa)
 - **Battle Value:** 1846
 
 ## Inferno INF-NOB
@@ -47,7 +47,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7717/inferno-inf-nob)
 - **Battle Value:** 1658
 
 ## Inferno INF-NOC
@@ -64,7 +64,7 @@
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM)
 - **Equipment:**
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7718/inferno-inf-noc)
 - **Battle Value:** 1698
 
 ## Inferno INF-NOR
@@ -82,6 +82,6 @@
 - **Equipment:**
   - CASE II
   - Clan Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7719/inferno-inf-nor)
 - **Battle Value:** 2360
 

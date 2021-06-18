@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE II
   - TAG
-- **Source:** TRO 3145 Free Worlds League - Early Republic
+- **Sources:** TRO 3145 Free Worlds League - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6510/anzu-zu-g60)
 - **Battle Value:** 1503
 
 ## Anzu ZU-J70
@@ -34,6 +34,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Free Worlds League - Late Republic
+- **Sources:** TRO 3145 Free Worlds League - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6511/anzu-zu-j70)
 - **Battle Value:** 1680
 

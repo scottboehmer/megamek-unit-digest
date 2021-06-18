@@ -13,7 +13,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3417/viking-vkg-2f)
 - **Battle Value:** 2079
 
 ## Viking VKG-2G
@@ -31,7 +31,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3418/viking-vkg-2g)
 - **Battle Value:** 2152
 
 ## Viking VKG-3W
@@ -48,7 +48,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3420/viking-vkg-3w)
 - **Battle Value:** 1778
 
 ## Viking VKG-3A
@@ -65,6 +65,6 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3419/viking-vkg-3a)
 - **Battle Value:** 1849
 

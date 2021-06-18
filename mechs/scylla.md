@@ -14,7 +14,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5000/scylla-standard)
 - **Battle Value:** 2897
 
 ## Scylla 2
@@ -32,7 +32,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5723/scylla-2)
 - **Battle Value:** 2839
 
 ## Scylla 3
@@ -49,6 +49,6 @@
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5724/scylla-3)
 - **Battle Value:** 2820
 

@@ -9,7 +9,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2392/pack-hunter-standard)
 - **Battle Value:** 1369
 
 ## Pack Hunter 2
@@ -23,7 +23,7 @@
 - **Weapons:**
   - ER PPC
   - ER Micro Laser × 8
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2393/pack-hunter-2)
 - **Battle Value:** 1598
 
 ## Pack Hunter 3
@@ -39,7 +39,7 @@
   - ER Micro Laser × 4
 - **Equipment:**
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2394/pack-hunter-3)
 - **Battle Value:** 1747
 
 ## Pack Hunter 4
@@ -55,7 +55,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2395/pack-hunter-4)
 - **Battle Value:** 1257
 
 ## Pack Hunter 5
@@ -68,6 +68,6 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7440/pack-hunter-5)
 - **Battle Value:** 1644
 

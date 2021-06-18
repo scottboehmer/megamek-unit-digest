@@ -11,7 +11,7 @@
   - Backhoe
 - **Equipment:**
   - Lift Hoist
-- **Source:** RS Operation Klondike - Late Succession War
+- **Sources:** RS Operation Klondike - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/461/carbine-con-1-constructionmech)
 - **Battle Value:** 198
 
 ## Carbine CON-1 ConstructionMech (RL)
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 3 (3)
 - **Weapons:**
   - Clan Prototype Rocket 15 × 5
-- **Source:** RS VA - Early Succession War
+- **Sources:** RS VA - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/462/carbine-con-1-constructionmech-rl)
 - **Battle Value:** 296
 
 ## Carbine CON-7 ConstructionMech
@@ -39,7 +39,7 @@
   - Backhoe
 - **Equipment:**
   - Lift Hoist
-- **Source:** RS VA - Late Succession War
+- **Sources:** RS VA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/3894/carbine-con-7-constructionmech)
 - **Battle Value:** 198
 
 ## Carbine CON-8 ConstructionMech
@@ -56,7 +56,7 @@
 - **Equipment:**
   - Lift Hoist
   - Extended Fuel Tank
-- **Source:** RS VA - Civil War
+- **Sources:** RS VA - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3895/carbine-con-8-constructionmech)
 - **Battle Value:** 198
 
 ## Carbine CON-8H HaulerMech
@@ -72,7 +72,7 @@
   - Lift Hoist × 2
   - Cargo × 2
   - Extended Fuel Tank
-- **Source:** TRO VA - Civil War
+- **Sources:** TRO VA - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/7162/carbine-con-8h-haulermech)
 - **Battle Value:** 190
 
 ## Carbine CON-9 ConstructionMech
@@ -87,7 +87,7 @@
   - Backhoe
 - **Equipment:**
   - Lift Hoist
-- **Source:** RS IA - Jihad
+- **Sources:** RS IA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7163/carbine-con-9-constructionmech)
 - **Battle Value:** 246
 
 ## Carbine CON-7M ConstructionMech MOD
@@ -100,7 +100,7 @@
 - **Heat Sinks:** 0 (0)
 - **Weapons:**
   - Rocket 15 × 5
-- **Source:** RS VA - Jihad
+- **Sources:** RS VA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7161/carbine-con-7m-constructionmech-mod)
 - **Battle Value:** 306
 
 ## Carbine CON-9M ConstructionMech MOD
@@ -115,7 +115,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Lift Hoist
-- **Source:** RS IA - Jihad
+- **Sources:** RS IA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7164/carbine-con-9m-constructionmech-mod)
 - **Battle Value:** 289
 
 ## Carbine CON-9M-B ConstructionMech MOD
@@ -127,7 +127,7 @@
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
   - Light AC/5 (ammo: 40)
-- **Source:** RS IA - Jihad
+- **Sources:** RS IA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7165/carbine-con-9m-b-constructionmech-mod)
 - **Battle Value:** 293
 
 ## Carbine CON-9M Karenna
@@ -141,7 +141,7 @@
   - Light AC/5 (ammo: 40)
 - **Equipment:**
   - Lift Hoist
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7851/carbine-con-9m-karenna)
 - **Battle Value:** 280
 
 ## Carbine CON-9M-D ConstructionMech MOD
@@ -156,7 +156,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - Lift Hoist
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8098/carbine-con-9m-d-constructionmech-mod)
 - **Battle Value:** 257
 
 ## Carbine CON-9M-J ConstructionMech MOD
@@ -171,7 +171,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Lift Hoist
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7849/carbine-con-9m-j-constructionmech-mod)
 - **Battle Value:** 271
 
 ## Carbine CON-9M-JB ConstructionMech MOD
@@ -185,6 +185,6 @@
   - Heavy Machine Gun × 4 (ammo: 50)
 - **Equipment:**
   - Machine Gun Array
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7850/carbine-con-9m-jb-constructionmech-mod)
 - **Battle Value:** 280
 

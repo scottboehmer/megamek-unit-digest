@@ -8,7 +8,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1585/hussar-hsr-200-d)
 - **Battle Value:** 636
 
 ## Hussar HSR-200-Db
@@ -23,7 +23,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1586/hussar-hsr-200-db)
 - **Battle Value:** 934
 
 ## Hussar HSR-300-D
@@ -35,7 +35,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Large Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1587/hussar-hsr-300-d)
 - **Battle Value:** 543
 
 ## Hussar HSR-350-D
@@ -48,7 +48,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1588/hussar-hsr-350-d)
 - **Battle Value:** 731
 
 ## Hussar HSR-400-D
@@ -60,7 +60,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Cluster)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1589/hussar-hsr-400-d)
 - **Battle Value:** 611
 
 ## Hussar HSR-500-D
@@ -74,7 +74,7 @@
   - ER PPC
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1590/hussar-hsr-500-d)
 - **Battle Value:** 977
 
 ## Hussar HSR-900-D
@@ -88,7 +88,7 @@
   - Light AC/2 (ammo: 45)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1591/hussar-hsr-900-d)
 - **Battle Value:** 551
 
 ## Hussar HSR-950-D
@@ -101,6 +101,6 @@
 - **Weapons:**
   - Snub-Nose PPC
   - ER Medium Laser × 2
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1592/hussar-hsr-950-d)
 - **Battle Value:** 1131
 

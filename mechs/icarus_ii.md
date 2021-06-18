@@ -11,7 +11,7 @@
   - AC/10 (ammo: 10)
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1600/icarus-ii-icr-1s)
 - **Battle Value:** 869
 
 ## Icarus II ICR-2S
@@ -26,6 +26,6 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Pulse Laser
   - Small Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1601/icarus-ii-icr-2s)
 - **Battle Value:** 986
 

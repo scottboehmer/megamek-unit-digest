@@ -12,7 +12,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1862/legionnaire-lgn-1x)
 - **Battle Value:** 1322
 
 ## Legionnaire LGN-2D
@@ -26,7 +26,7 @@
   - RAC/5 (ammo: 60)
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1863/legionnaire-lgn-2d)
 - **Battle Value:** 1386
 
 ## Legionnaire LGN-2XA
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Arrow IV (ammo: 10)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1865/legionnaire-lgn-2xa)
 - **Battle Value:** 1172
 
 ## Legionnaire LGN-2XU
@@ -52,7 +52,7 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1866/legionnaire-lgn-2xu)
 - **Battle Value:** 1128
 
 ## Legionnaire LGN-2F
@@ -66,6 +66,7 @@
 - **Weapons:**
   - RAC/5 (ammo: 60)
   - ER Medium Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4491/legionnaire-lgn-2f)
 - **Battle Value:** 1808
 
 ## Legionnaire LGN-2X1 MUSE FIRE
@@ -79,7 +80,7 @@
 - **Weapons:**
   - Clan RAC/5 (ammo: 60)
   - ER Medium Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1864/legionnaire-lgn-2x1-muse-fire)
 - **Battle Value:** 2032
 
 ## Legionnaire LGN-2K
@@ -95,7 +96,7 @@
 - **Equipment:**
   - Targeting Computer
   - MASC
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k)
 - **Battle Value:** 1597
 
 ## Legionnaire LGN-2D (Raul)

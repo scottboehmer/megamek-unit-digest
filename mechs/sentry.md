@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04)
 - **Battle Value:** 1069
 
 ## Sentry SNT-W5
@@ -32,6 +32,6 @@
   - MagShot Gauss Rifle × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2867/sentry-snt-w5)
 - **Battle Value:** 1143
 

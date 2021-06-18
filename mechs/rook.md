@@ -12,7 +12,7 @@
   - PPC
   - Medium Laser × 6
   - Small Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2740/rook-nh-1a)
 - **Battle Value:** 1197
 
 ## Rook NH-1B
@@ -27,7 +27,7 @@
   - PPC
   - Medium Laser × 6
   - Small Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2741/rook-nh-1b)
 - **Battle Value:** 1227
 
 ## Rook NH-2
@@ -43,7 +43,7 @@
   - ER PPC
   - Medium Laser × 4
   - Small Pulse Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2742/rook-nh-2)
 - **Battle Value:** 1525
 
 ## Rook NH-3X
@@ -60,7 +60,7 @@
   - Small Laser
 - **Equipment:**
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2743/rook-nh-3x)
 - **Battle Value:** 1746
 
 ## Rook NH-1X 'Rook-X'
@@ -76,6 +76,6 @@
   - ER Medium Laser × 2
   - Medium Laser × 2
   - ER Small Laser × 2
-- **Source:** XTRO RetroTech - Jihad
+- **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4935/rook-nh-1x-rook-x)
 - **Battle Value:** 1187
 

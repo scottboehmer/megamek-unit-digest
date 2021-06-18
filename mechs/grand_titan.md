@@ -14,7 +14,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1265/grand-titan-t-it-n10m)
 - **Battle Value:** 1817
 
 ## Grand Titan T-IT-N11M
@@ -33,7 +33,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1266/grand-titan-t-it-n11m)
 - **Battle Value:** 2053
 
 ## Grand Titan T-IT-N14R 'Vengeance'
@@ -51,7 +51,7 @@
   - Thumper (ammo: 40)
 - **Equipment:**
   - CASE II
-- **Source:** XTRO Phantoms - Jihad
+- **Sources:** XTRO Phantoms - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5604/grand-titan-t-it-n14r-vengeance)
 - **Battle Value:** 2237
 
 ## Grand Titan T-IT-N13M
@@ -74,6 +74,6 @@
   - Small Pulse Laser
 - **Equipment:**
   - Armored Actuator × 16
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6830/grand-titan-t-it-n13m)
 - **Battle Value:** 2533
 

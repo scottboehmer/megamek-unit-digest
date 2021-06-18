@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5331/uziel-uzl-2s)
 - **Battle Value:** 1352
 
 ## Uziel UZL-3S
@@ -30,7 +30,7 @@
   - SRM 6 (ammo: 15)
   - LB 2-X AC (ammo: 45 Cluster)
   - ER Small Laser × 2
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5332/uziel-uzl-3s)
 - **Battle Value:** 1189
 
 ## Uziel UZL-2S (Jacob)
@@ -45,7 +45,7 @@
   - RAC/5 × 2 (ammo: 60)
   - SRM 6 (ammo: 15)
   - ER Small Laser × 2
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3367/uziel-uzl-2s-jacob)
 - **Battle Value:** 1513
 
 ## Uziel UZL-2S (Jacob II)
@@ -63,7 +63,7 @@
 - **Equipment:**
   - AES × 2
   - Supercharger
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3366/uziel-uzl-2s-jacob-ii)
 - **Battle Value:** 1271
 
 ## Uziel UZL-8S
@@ -79,6 +79,6 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5679/uziel-uzl-8s)
 - **Battle Value:** 1393
 

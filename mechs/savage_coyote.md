@@ -14,7 +14,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4985/savage-coyote-prime)
 - **Battle Value:** 2613
 
 ## Savage Coyote A
@@ -33,7 +33,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4982/savage-coyote-a)
 - **Battle Value:** 2852
 
 ## Savage Coyote B
@@ -51,7 +51,7 @@
   - Small Pulse Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4983/savage-coyote-b)
 - **Battle Value:** 2284
 
 ## Savage Coyote C
@@ -70,7 +70,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4984/savage-coyote-c)
 - **Battle Value:** 3189
 
 ## Savage Coyote Z
@@ -89,7 +89,7 @@
   - Nova CEWS
   - CASE
   - CASE II
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5831/savage-coyote-z)
 - **Battle Value:** 3026
 
 ## Savage Coyote J
@@ -107,7 +107,7 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5705/savage-coyote-j)
 - **Battle Value:** 2554
 
 ## Savage Coyote W
@@ -126,6 +126,6 @@
 - **Equipment:**
   - Light Active Probe
   - Light TAG
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5706/savage-coyote-w)
 - **Battle Value:** 2792
 

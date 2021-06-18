@@ -11,7 +11,7 @@
   - Heavy PPC
   - Snub-Nose PPC
   - ER Medium Laser × 2
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2569/prefect-prf-1r)
 - **Battle Value:** 1847
 
 ## Prefect PRF-1R (Veronica)
@@ -29,7 +29,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3085/Lamenkov's Liability - Jihad
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2570/prefect-prf-1r-veronica)
 - **Battle Value:** 1835
 
 ## Prefect PRF-2R
@@ -43,7 +43,7 @@
 - **Weapons:**
   - Snub-Nose PPC × 2
   - Light PPC × 2
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2571/prefect-prf-2r)
 - **Battle Value:** 1710
 
 ## Prefect PRF-3R
@@ -61,7 +61,7 @@
   - Snub-Nose PPC × 2
 - **Equipment:**
   - Radical Heat Sink System
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6865/prefect-prf-3r)
 - **Battle Value:** 2412
 
 ## Prefect PRF-1C
@@ -79,6 +79,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - C3 Emergency Master
-- **Source:** XTRO Republic II - Dark Ages
+- **Sources:** XTRO Republic II - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/7348/prefect-prf-1c)
 - **Battle Value:** 1857
 

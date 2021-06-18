@@ -13,7 +13,7 @@
   - Lift Hoist
   - Searchlight
   - Enviro-Sealing
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1162/fwltur-fwl-3r-salvagemech)
 - **Battle Value:** unknown
 
 ## Fwltur FWL-3V SalvageMech
@@ -28,6 +28,6 @@
 - **Equipment:**
   - Salvage Arm × 2
   - Lift Hoist × 2
-- **Source:** TRO3085 - Jihad
+- **Sources:** TRO3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1163/fwltur-fwl-3v-salvagemech)
 - **Battle Value:** unknown
 

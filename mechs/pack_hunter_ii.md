@@ -13,7 +13,7 @@
   - ER Micro Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5540/pack-hunter-ii-isis)
 - **Battle Value:** 1276
 
 ## Pack Hunter II (Standard)
@@ -29,7 +29,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - B-Pod × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard)
 - **Battle Value:** 1794
 
 ## Pack Hunter II 2
@@ -44,7 +44,7 @@
   - ER PPC
 - **Equipment:**
   - A-Pod × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2397/pack-hunter-ii-2)
 - **Battle Value:** 1457
 
 ## Pack Hunter II 3
@@ -58,7 +58,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER PPC
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2398/pack-hunter-ii-3)
 - **Battle Value:** 1438
 
 ## Pack Hunter II 4
@@ -73,6 +73,6 @@
   - ER PPC
 - **Equipment:**
   - AES × 4
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6935/pack-hunter-ii-4)
 - **Battle Value:** 1447
 

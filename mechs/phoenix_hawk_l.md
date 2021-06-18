@@ -15,7 +15,7 @@
   - Heavy Machine Gun × 3 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Draconis Combine - Late Republic
+- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6390/phoenix-hawk-l-fenikkusu-taka-pxh-11k)
 - **Battle Value:** 1563
 
 ## Phoenix Hawk L PXH-11K2
@@ -34,6 +34,6 @@
 - **Equipment:**
   - Coolant Pod
   - CASE II
-- **Source:** TRO 3145 Draconis Combine - Late Republic
+- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6391/phoenix-hawk-l-fenikkusu-taka-pxh-11k2)
 - **Battle Value:** 1233
 

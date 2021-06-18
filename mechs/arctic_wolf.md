@@ -12,7 +12,7 @@
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/99/arctic-wolf-standard)
 - **Battle Value:** 1330
 
 ## Arctic Wolf 2
@@ -28,7 +28,7 @@
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/100/arctic-wolf-2)
 - **Battle Value:** 1511
 
 ## Arctic Wolf Prime
@@ -43,7 +43,7 @@
   - Streak SRM 6 × 4 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/103/arctic-wolf-prime)
 - **Battle Value:** 1641
 
 ## Arctic Wolf A
@@ -60,7 +60,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/101/arctic-wolf-a)
 - **Battle Value:** 1587
 
 ## Arctic Wolf J
@@ -79,6 +79,6 @@
   - ECM Suite
   - Active Probe
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/102/arctic-wolf-j)
 - **Battle Value:** 1786
 

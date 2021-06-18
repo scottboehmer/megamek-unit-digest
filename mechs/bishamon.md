@@ -10,7 +10,7 @@
   - MRM 20 (ammo: 12)
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/332/bishamon-bsn-3k)
 - **Battle Value:** 1374
 
 ## Bishamon BSN-4K
@@ -26,7 +26,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - C3 Master
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/333/bishamon-bsn-4k)
 - **Battle Value:** 1105
 
 ## Bishamon BSN-5KC
@@ -43,6 +43,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/334/bishamon-bsn-5kc)
 - **Battle Value:** 1443
 

@@ -10,7 +10,7 @@
   - SRM 6 × 2 (ammo: 15)
   - Medium Pulse Laser × 2
   - Flamer × 4
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1120/flashfire-fls-p2)
 - **Battle Value:** 718
 
 ## Flashfire FLS-P4
@@ -25,7 +25,7 @@
   - SRM 6 (ammo: 15)
   - Medium Pulse Laser × 2
   - Flamer × 4
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1121/flashfire-fls-p4)
 - **Battle Value:** 712
 
 ## Flashfire FLS-P5
@@ -42,6 +42,6 @@
   - Fluid Gun × 2 (ammo: 40)
 - **Equipment:**
   - Spikes
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1122/flashfire-fls-p5)
 - **Battle Value:** 654
 

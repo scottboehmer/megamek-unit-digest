@@ -10,6 +10,6 @@
   - AC/10 (ammo: 20)
   - SRM 6 (ammo: 15)
   - LRM 5 × 2 (ammo: 24)
-- **Source:** Hist:Reunification
+- **Sources:** Hist:Reunification, [Master Unit List](http://masterunitlist.info/Unit/Details/5175/talos-tls-1b)
 - **Battle Value:** 924
 

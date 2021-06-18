@@ -14,7 +14,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4967/sagittaire-sgt-8r)
 - **Battle Value:** 2088
 
 ## Sagittaire SGT-9D
@@ -32,7 +32,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - C3 Master
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5717/sagittaire-sgt-9d)
 - **Battle Value:** 2064
 
 ## Sagittaire SGT-10X
@@ -47,6 +47,7 @@
 - **Weapons:**
   - Light PPC × 2
   - Medium VSP Laser × 4
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718/sagittaire-sgt-10x)
 - **Battle Value:** 1794
 
 ## Sagittaire SGT-14D
@@ -66,6 +67,6 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Boosted Slave
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6835/sagittaire-sgt-14d)
 - **Battle Value:** 1960
 

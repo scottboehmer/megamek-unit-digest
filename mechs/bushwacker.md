@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/450/bushwacker-bsw-x1)
 - **Battle Value:** 1223
 
 ## Bushwacker BSW-X2
@@ -30,7 +30,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/451/bushwacker-bsw-x2)
 - **Battle Value:** 1193
 
 ## Bushwacker BSW-S2
@@ -47,7 +47,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/448/bushwacker-bsw-s2)
 - **Battle Value:** 1293
 
 ## Bushwacker BSW-L1
@@ -62,7 +62,7 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/447/bushwacker-bsw-l1)
 - **Battle Value:** 1513
 
 ## Bushwacker BSW-S2r
@@ -79,7 +79,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/449/bushwacker-bsw-s2r)
 - **Battle Value:** 1339
 
 ## Bushwacker BSW-X4
@@ -97,6 +97,6 @@
 - **Equipment:**
   - CASE II
   - MASC
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7454/bushwacker-bsw-x4)
 - **Battle Value:** 1751
 

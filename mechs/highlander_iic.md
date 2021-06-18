@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1524/highlander-iic-standard)
 - **Battle Value:** 2979
 
 ## Highlander IIC 2
@@ -34,7 +34,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1525/highlander-iic-2)
 - **Battle Value:** 2928
 
 ## Highlander IIC 3
@@ -53,6 +53,6 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1523/highlander-iic-3)
 - **Battle Value:** 3001
 

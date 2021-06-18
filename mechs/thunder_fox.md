@@ -14,7 +14,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3217/thunder-fox-tft-a9)
 - **Battle Value:** 1325
 
 ## Thunder Fox TFT-L8
@@ -29,7 +29,7 @@
 - **Weapons:**
   - Snub-Nose PPC × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3219/thunder-fox-tft-l8)
 - **Battle Value:** 1513
 
 ## Thunder Fox TFT-C3
@@ -47,7 +47,7 @@
 - **Equipment:**
   - Command Console
   - C3 Master
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3218/thunder-fox-tft-c3)
 - **Battle Value:** unknown
 
 ## Thunder Fox TFT-F11
@@ -65,6 +65,6 @@
 - **Equipment:**
   - Head Turret
   - Targeting Computer
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6892/thunder-fox-tft-f11)
 - **Battle Value:** 2426
 

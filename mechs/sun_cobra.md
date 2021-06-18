@@ -11,7 +11,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3122/sun-cobra-standard)
 - **Battle Value:** 1677
 
 ## Sun Cobra 2
@@ -25,6 +25,6 @@
   - ER PPC × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6893/sun-cobra-2)
 - **Battle Value:** 2394
 

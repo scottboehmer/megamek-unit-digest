@@ -11,7 +11,7 @@
   - LRM 10 × 2 (ammo: 24)
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3035/stalker-stk-3f)
 - **Battle Value:** 1559
 
 ## Stalker STK-3H
@@ -25,7 +25,7 @@
   - LRM 20 × 2 (ammo: 12)
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3038/stalker-stk-3h)
 - **Battle Value:** 1624
 
 ## Stalker STK-3Fb
@@ -42,6 +42,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037/stalker-stk-3fb)
 - **Battle Value:** 2029
 
 ## Stalker STK-3Fk
@@ -56,7 +57,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Laser × 4
   - Streak SRM 2 × 4 (ammo: 100)
-- **Source:** ER 2750 - Star League
+- **Sources:** ER 2750 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/5870/stalker-stk-3fk)
 - **Battle Value:** 1742
 
 ## Stalker STK-4N
@@ -71,7 +72,7 @@
   - LRM 10 (ammo: 12)
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3039/stalker-stk-4n)
 - **Battle Value:** 1558
 
 ## Stalker STK-4P
@@ -86,7 +87,7 @@
   - LRM 10 (ammo: 12)
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5120/stalker-stk-4p)
 - **Battle Value:** 1461
 
 ## Stalker STK-3F (Jagawen)
@@ -100,6 +101,7 @@
   - Large Laser × 2
   - SRM 6 × 4 (ammo: 30)
   - Medium Laser × 4
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3036/stalker-stk-3f-jagawen)
 - **Battle Value:** 1570
 
 ## Stalker STK-5M
@@ -115,7 +117,7 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 4
   - Narc (ammo: 12)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3040/stalker-stk-5m)
 - **Battle Value:** 1655
 
 ## Stalker STK-5S
@@ -133,7 +135,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3041/stalker-stk-5s)
 - **Battle Value:** 1423
 
 ## Stalker STK-3F (Jamison)
@@ -148,7 +150,7 @@
   - Clan LRM 20 × 2 (ammo: 12)
   - Clan Streak SRM 6 × 2 (ammo: 30)
   - Clan ER Medium Laser × 4
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5119/stalker-stk-3f-jamison)
 - **Battle Value:** 2635
 
 ## Stalker STK-6M
@@ -164,7 +166,7 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5121/stalker-stk-6m)
 - **Battle Value:** 2029
 
 ## Stalker STK-7D
@@ -182,7 +184,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3043/stalker-stk-7d)
 - **Battle Value:** 1872
 
 ## Stalker STK-8S
@@ -197,7 +199,7 @@
   - ER PPC × 2
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3044/stalker-stk-8s)
 - **Battle Value:** 1977
 
 ## Stalker STK-7C3BS
@@ -215,6 +217,6 @@
 - **Equipment:**
   - C3 Boosted Slave
   - CASE II
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3042/stalker-stk-7c3bs)
 - **Battle Value:** 1712
 

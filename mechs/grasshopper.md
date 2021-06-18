@@ -11,7 +11,7 @@
   - Large Laser
   - Medium Laser × 4
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1267/grasshopper-ghr-5h)
 - **Battle Value:** 1427
 
 ## Grasshopper GHR-5N
@@ -25,7 +25,7 @@
 - **Weapons:**
   - PPC
   - Medium Laser × 5
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4232/grasshopper-ghr-5n)
 - **Battle Value:** 1511
 
 ## Grasshopper GHR-5J
@@ -42,7 +42,7 @@
   - Streak SRM 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1268/grasshopper-ghr-5j)
 - **Battle Value:** 1354
 
 ## Grasshopper GHR-C
@@ -60,7 +60,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1272/grasshopper-ghr-c)
 - **Battle Value:** 1366
 
 ## Grasshopper (Reynolds)
@@ -74,7 +74,7 @@
 - **Weapons:**
   - Clan ER Large Laser × 3
   - Clan ER Medium Laser × 4
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/5861/grasshopper-reynolds)
 - **Battle Value:** 2344
 
 ## Grasshopper GHR-6K
@@ -92,7 +92,7 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1269/grasshopper-ghr-6k)
 - **Battle Value:** 1597
 
 ## Grasshopper GHR-7K
@@ -110,7 +110,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1270/grasshopper-ghr-7k)
 - **Battle Value:** 1806
 
 ## Grasshopper GHR-7K 'Gravedigger'
@@ -128,7 +128,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4233/grasshopper-ghr-7k-gravedigger)
 - **Battle Value:** 2084
 
 ## Grasshopper GHR-7X
@@ -145,6 +145,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Bloodhound Active Probe
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1271/grasshopper-ghr-7x)
 - **Battle Value:** 1587
 
 ## Grasshopper GHR-7P
@@ -161,6 +162,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - Bloodhound Active Probe
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4234/grasshopper-ghr-7p)
 - **Battle Value:** 1806
 
 ## Grasshopper GHR-8K
@@ -177,6 +179,6 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7450/grasshopper-ghr-8k)
 - **Battle Value:** 1754
 

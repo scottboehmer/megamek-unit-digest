@@ -10,7 +10,7 @@
   - Machine Gun × 4 (ammo: 400)
 - **Equipment:**
   - Searchlight × 2
-- **Source:** RS:VA IM Exo - Star League
+- **Sources:** RS:VA IM Exo - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3993/copper-cpk-19-securitymech)
 - **Battle Value:** 310
 
 ## Copper CPK-65 SecurityMech
@@ -25,7 +25,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - Searchlight × 2
-- **Source:** RS:VA IM Exo - Civil War
+- **Sources:** RS:VA IM Exo - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3994/copper-cpk-65-securitymech)
 - **Battle Value:** 325
 
 ## Copper CPK-65KM SecurityMech
@@ -39,6 +39,6 @@
   - SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - Searchlight × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7465/copper-cpk-65km-securitymech)
 - **Battle Value:** 339
 

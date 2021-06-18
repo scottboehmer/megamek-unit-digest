@@ -11,7 +11,7 @@
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3702/anubis-abs-3l)
 - **Battle Value:** 951
 
 ## Anubis ABS-3R
@@ -28,7 +28,7 @@
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3703/anubis-abs-3r)
 - **Battle Value:** 970
 
 ## Anubis ABS-3T
@@ -44,7 +44,7 @@
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3704/anubis-abs-3t)
 - **Battle Value:** 1150
 
 ## Anubis ABS-3MC
@@ -59,7 +59,7 @@
   - NLRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - Angel ECM Suite
-- **Source:** XTRO Periphery - Jihad
+- **Sources:** XTRO Periphery - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5562/anubis-abs-3mc)
 - **Battle Value:** 1074
 
 ## Anubis ABS-4C
@@ -74,7 +74,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5656/anubis-abs-4c)
 - **Battle Value:** 833
 
 ## Anubis ABS-5Y
@@ -89,7 +89,7 @@
   - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3145 Capellan Confederation - Late Republic
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6453/anubis-abs-5y)
 - **Battle Value:** 1042
 
 ## Anubis ABS-5Z
@@ -105,6 +105,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** TRO 3145 Capellan Confederation - Late Republic
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6454/anubis-abs-5z)
 - **Battle Value:** 1066
 

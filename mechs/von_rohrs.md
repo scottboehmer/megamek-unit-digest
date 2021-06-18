@@ -10,7 +10,7 @@
   - PPC
   - LRM 10 (ammo: 12)
   - Flamer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3455/von-rohrs-hebi-von-4rh-5)
 - **Battle Value:** 1170
 
 ## Von Rohrs VON 4RH-6 "Hebis"
@@ -24,6 +24,6 @@
   - PPC
   - SRM 4 × 2 (ammo: 25)
   - Flamer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3456/von-rohrs-hebi-von-4rh-6)
 - **Battle Value:** 1146
 

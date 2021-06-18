@@ -9,7 +9,7 @@
 - **Weapons:**
   - AC/2 (ammo: 45)
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1656/jackrabbit-jkr-8t)
 - **Battle Value:** 414
 
 ## Jackrabbit JKR-9R 'Joker'
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Large Laser
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1657/jackrabbit-jkr-9r-joker)
 - **Battle Value:** 614
 
 ## Jackrabbit JKR-9W
@@ -36,6 +36,6 @@
   - Light AC/5 (ammo: 20)
   - ER Medium Laser
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1658/jackrabbit-jkr-9w)
 - **Battle Value:** 549
 

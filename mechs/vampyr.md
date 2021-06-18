@@ -15,6 +15,6 @@
   - Light Fluid Suction System
   - Liquid Cargo × 2
   - Enviro-Sealing
-- **Source:** RS VA
+- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/5334/vampyr-sc-v-1-salvagemech)
 - **Battle Value:** unknown
 

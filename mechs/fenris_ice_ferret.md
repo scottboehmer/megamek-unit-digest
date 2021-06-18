@@ -13,7 +13,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1053/fenris-ice-ferret-prime)
 - **Battle Value:** 1678
 
 ## Ice Ferret "Fenris" A
@@ -29,7 +29,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1046/fenris-ice-ferret-a)
 - **Battle Value:** 1323
 
 ## Ice Ferret "Fenris" B
@@ -46,7 +46,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1047/fenris-ice-ferret-b)
 - **Battle Value:** 1461
 
 ## Ice Ferret "Fenris" C
@@ -61,7 +61,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1048/fenris-ice-ferret-c)
 - **Battle Value:** 1211
 
 ## Ice Ferret "Fenris" D
@@ -76,7 +76,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1049/fenris-ice-ferret-d)
 - **Battle Value:** 1653
 
 ## Ice Ferret "Fenris" E
@@ -92,7 +92,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1050/fenris-ice-ferret-e)
 - **Battle Value:** 1483
 
 ## Ice Ferret "Fenris" H
@@ -108,7 +108,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1051/fenris-ice-ferret-h)
 - **Battle Value:** 1619
 
 ## Ice Ferret "Fenris" L
@@ -124,7 +124,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1052/fenris-ice-ferret-l)
 - **Battle Value:** 1380
 
 ## Ice Ferret "Fenris" U
@@ -141,7 +141,7 @@
   - SRT 4 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1054/fenris-ice-ferret-u)
 - **Battle Value:** 1549
 
 ## Ice Ferret "Fenris" F
@@ -155,7 +155,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - Watchdog CEWS
-- **Source:** Rec Guide 4 - Early Republic
+- **Sources:** Rec Guide 4 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f)
 - **Battle Value:** 1771
 
 ## Ice Ferret "Fenris" G
@@ -172,7 +172,7 @@
 - **Equipment:**
   - CASE
   - Light TAG
-- **Source:** Rec Guide 4 - Early Republic
+- **Sources:** Rec Guide 4 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g)
 - **Battle Value:** 1196
 
 ## Ice Ferret "Fenris" I
@@ -189,7 +189,7 @@
   - Inner Sphere Bloodhound Active Probe
   - Inner Sphere M-Pod × 2
   - CASE
-- **Source:** Rec Guide 4 - Early Republic
+- **Sources:** Rec Guide 4 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i)
 - **Battle Value:** 1094
 
 ## Ice Ferret "Fenris" J
@@ -206,7 +206,7 @@
   - CASE
   - Supercharger
   - Targeting Computer
-- **Source:** Rec Guide 4 - Dark Age 
+- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j)
 - **Battle Value:** 1739
 
 ## Ice Ferret "Fenris" K
@@ -222,7 +222,7 @@
   - ER Small Laser
 - **Equipment:**
   - Laser Anti-Missile System
-- **Source:** Rec Guide 4 - Dark Age 
+- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504/fenris-ice-ferret-k)
 - **Battle Value:** 1769
 
 ## Ice Ferret "Fenris" T
@@ -240,6 +240,6 @@
   - Active Probe
   - CASE
   - Supercharger
-- **Source:** Rec Guide 4 - Dark Age 
+- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t)
 - **Battle Value:** 1825
 

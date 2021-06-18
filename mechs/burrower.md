@@ -12,7 +12,7 @@
   - Rock-Cutter
 - **Equipment:**
   - Tracks
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7874/burrower-dtm-1-miningmech)
 - **Battle Value:** unknown
 
 ## Burrower DTM-1M MiningMech MOD
@@ -28,6 +28,6 @@
   - Rock-Cutter
 - **Equipment:**
   - Tracks
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7875/burrower-dtm-1m-miningmech-mod)
 - **Battle Value:** unknown
 

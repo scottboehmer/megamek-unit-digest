@@ -9,7 +9,7 @@
 - **Weapons:**
   - Streak SRM 2 (ammo: 50)
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1075/fireball-alm-7d)
 - **Battle Value:** 385
 
 ## Fireball ALM-8D
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1076/fireball-alm-8d)
 - **Battle Value:** 574
 
 ## Fireball ALM-9D
@@ -35,7 +35,7 @@
 - **Weapons:**
   - Medium Laser
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1077/fireball-alm-9d)
 - **Battle Value:** 527
 
 ## Fireball ALM-10D
@@ -51,7 +51,7 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1074/fireball-alm-10d)
 - **Battle Value:** 957
 
 ## Fireball ALM-XF
@@ -67,6 +67,6 @@
 - **Equipment:**
   - MASC
   - Supercharger
-- **Source:** XTRO Most Wanted - Jihad
+- **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5781/fireball-alm-xf)
 - **Battle Value:** 612
 

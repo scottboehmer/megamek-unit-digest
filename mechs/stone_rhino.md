@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 400)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4)
 - **Battle Value:** 2601
 
 ## Stone Rhino 5 "Behemoth"
@@ -29,7 +29,7 @@
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3815/behemoth-stone-rhino-5)
 - **Battle Value:** 2151
 
 ## Stone Rhino (Standard) "Behemoth"
@@ -46,7 +46,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard)
 - **Battle Value:** 3001
 
 ## Stone Rhino 6 "Behemoth"
@@ -60,7 +60,7 @@
 - **Weapons:**
   - Medium Pulse Laser × 14
   - ER Small Laser
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3816/behemoth-stone-rhino-6)
 - **Battle Value:** 2981
 
 ## Stone Rhino 7 "Behemoth"
@@ -75,7 +75,7 @@
   - Large Pulse Laser × 2
   - ER Large Laser × 3
   - Small Pulse Laser
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7)
 - **Battle Value:** 2916
 
 ## Stone Rhino 2 "Behemoth"
@@ -95,7 +95,7 @@
   - Anti-Missile System (ammo: 24)
   - A-Pod × 2
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2)
 - **Battle Value:** 3107
 
 ## Stone Rhino 3 "Behemoth"
@@ -112,7 +112,7 @@
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3)
 - **Battle Value:** 3072
 
 ## Stone Rhino 8 "Behemoth"
@@ -129,6 +129,6 @@
 - **Equipment:**
   - AES × 2
   - CASE
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8)
 - **Battle Value:** 2804
 

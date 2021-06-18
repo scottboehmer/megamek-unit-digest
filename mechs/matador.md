@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2098/matador-standard)
 - **Battle Value:** 2006
 
 ## Matador 2
@@ -34,6 +34,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2099/matador-2)
 - **Battle Value:** 1728
 

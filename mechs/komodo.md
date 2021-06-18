@@ -13,7 +13,7 @@
   - Guardian ECM Suite
   - Anti-Missile System × 2 (ammo: 24)
   - TAG
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1810/komodo-kim-2)
 - **Battle Value:** 1533
 
 ## Komodo KIM-2A
@@ -31,7 +31,7 @@
   - Guardian ECM Suite
   - Anti-Missile System × 2 (ammo: 24)
   - TAG
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1811/komodo-kim-2a)
 - **Battle Value:** 1415
 
 ## Komodo KIM-2C
@@ -48,7 +48,7 @@
   - Guardian ECM Suite
   - Anti-Missile System × 2 (ammo: 24)
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1812/komodo-kim-2c)
 - **Battle Value:** 1533
 
 ## Komodo KIM-3C
@@ -65,6 +65,6 @@
   - Guardian ECM Suite
   - Anti-Missile System × 2 (ammo: 24)
   - C3 Master
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1813/komodo-kim-3c)
 - **Battle Value:** 1371
 

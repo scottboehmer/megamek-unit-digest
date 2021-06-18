@@ -15,7 +15,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5218/thanatos-tns-4s)
 - **Battle Value:** 1844
 
 ## Thanatos TNS-4T
@@ -33,7 +33,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5700/thanatos-tns-4t)
 - **Battle Value:** 1760
 
 ## Thanatos TNS-4S (Felix)
@@ -52,6 +52,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Targeting Computer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3173/thanatos-tns-4s-felix)
 - **Battle Value:** 2122
 
 ## Thanatos TNS-6S
@@ -70,6 +71,6 @@
   - LRM 5 × 3 (ammo: 48)
 - **Equipment:**
   - C3 Slave
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5701/thanatos-tns-6s)
 - **Battle Value:** 1936
 

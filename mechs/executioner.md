@@ -14,7 +14,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1211/gladiator-executioner-prime)
 - **Battle Value:** 2749
 
 ## Executioner "Gladiator" A
@@ -32,7 +32,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1203/gladiator-executioner-a)
 - **Battle Value:** 3112
 
 ## Executioner "Gladiator" B
@@ -51,7 +51,7 @@
   - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1204/gladiator-executioner-b)
 - **Battle Value:** 2940
 
 ## Executioner "Gladiator" C
@@ -70,7 +70,7 @@
   - MASC
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1205/gladiator-executioner-c)
 - **Battle Value:** 2740
 
 ## Executioner "Gladiator" D
@@ -90,7 +90,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1206/gladiator-executioner-d)
 - **Battle Value:** 2698
 
 ## Executioner "Gladiator" TC
@@ -109,7 +109,7 @@
   - Active Probe
   - MASC
   - Targeting Computer
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7596/gladiator-executioner-tc)
 - **Battle Value:** 3363
 
 ## Executioner "Gladiator" H
@@ -129,7 +129,7 @@
   - MASC
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1208/gladiator-executioner-h)
 - **Battle Value:** 3059
 
 ## Executioner "Gladiator" E
@@ -148,7 +148,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1207/gladiator-executioner-e)
 - **Battle Value:** 2988
 
 ## Executioner "Gladiator" K
@@ -167,7 +167,7 @@
   - Light Active Probe
   - MASC
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1209/gladiator-executioner-k)
 - **Battle Value:** 3125
 
 ## Executioner "Gladiator" P
@@ -186,7 +186,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1210/gladiator-executioner-p)
 - **Battle Value:** 3052
 
 ## Executioner "Gladiator" F
@@ -204,7 +204,7 @@
   - MASC
   - Targeting Computer
   - Supercharger
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6842/gladiator-executioner-f)
 - **Battle Value:** 3606
 
 ## Executioner "Gladiator" G
@@ -224,7 +224,7 @@
   - MASC
   - CASE
   - Targeting Computer
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g)
 - **Battle Value:** 3825
 
 ## Executioner "Gladiator" I
@@ -244,7 +244,7 @@
   - CASE
   - Targeting Computer
   - Supercharger
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6840/gladiator-executioner-i)
 - **Battle Value:** 3339
 
 ## Executioner "Gladiator" J
@@ -261,7 +261,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7712/gladiator-executioner-j)
 - **Battle Value:** 2891
 
 ## Executioner "Gladiator" L
@@ -278,7 +278,7 @@
 - **Equipment:**
   - MASC
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7713/gladiator-executioner-l)
 - **Battle Value:** 3132
 
 ## Executioner "Gladiator" T
@@ -297,6 +297,6 @@
   - ECM Suite
   - MASC
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7714/gladiator-executioner-t)
 - **Battle Value:** 2558
 

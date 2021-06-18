@@ -13,7 +13,7 @@
   - Streak SRM 4 × 3 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3717/arcas-standard)
 - **Battle Value:** 2484
 
 ## Arcas 2
@@ -27,7 +27,7 @@
 - **Weapons:**
   - ER PPC × 2
   - Medium Pulse Laser × 2
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3718/arcas-2)
 - **Battle Value:** 2835
 
 ## Arcas 3
@@ -45,6 +45,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5686/arcas-3)
 - **Battle Value:** 2305
 

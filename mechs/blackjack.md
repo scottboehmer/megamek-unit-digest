@@ -9,7 +9,7 @@
 - **Weapons:**
   - Medium Laser × 4
   - Flamer × 4
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/376/blackjack-bj-1x)
 - **Battle Value:** 964
 
 ## Blackjack BJ-1
@@ -23,7 +23,7 @@
 - **Weapons:**
   - Medium Laser × 4
   - AC/2 × 2 (ammo: 45)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/373/blackjack-bj-1)
 - **Battle Value:** 949
 
 ## Blackjack BJ-1DB
@@ -37,7 +37,7 @@
 - **Weapons:**
   - Large Laser × 2
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/374/blackjack-bj-1db)
 - **Battle Value:** 1015
 
 ## Blackjack BJ-1DC
@@ -51,7 +51,7 @@
   - Medium Laser × 4
   - AC/2 × 2 (ammo: 45)
   - Small Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/375/blackjack-bj-1dc)
 - **Battle Value:** 917
 
 ## Blackjack BJ-3
@@ -65,7 +65,7 @@
 - **Weapons:**
   - PPC × 2
   - Medium Laser × 4
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/388/blackjack-bj-3)
 - **Battle Value:** 1271
 
 ## Blackjack BJ-2
@@ -79,7 +79,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Streak SRM 2 × 4 (ammo: 50)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/377/blackjack-bj-2)
 - **Battle Value:** 1148
 
 ## Blackjack BJ2-O
@@ -94,7 +94,7 @@
   - Ultra AC/5 × 2 (ammo: 40)
   - Medium Laser × 4
   - Machine Gun × 4 (ammo: 100)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/378/blackjack-bj2-o)
 - **Battle Value:** 1201
 
 ## Blackjack BJ2-OA
@@ -109,7 +109,7 @@
   - LRM 20 × 2 (ammo: 24)
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/379/blackjack-bj2-oa)
 - **Battle Value:** 1318
 
 ## Blackjack BJ2-OB
@@ -126,7 +126,7 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/380/blackjack-bj2-ob)
 - **Battle Value:** 1323
 
 ## Blackjack BJ2-OC
@@ -141,7 +141,7 @@
   - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster)
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/381/blackjack-bj2-oc)
 - **Battle Value:** 1189
 
 ## Blackjack BJ2-OD
@@ -158,7 +158,7 @@
   - Medium Pulse Laser × 2
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/382/blackjack-bj2-od)
 - **Battle Value:** 1375
 
 ## Blackjack BJ2-OE
@@ -174,7 +174,7 @@
   - Light Gauss Rifle (ammo: 32)
   - LRM 10 (ammo: 24)
   - ER Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/383/blackjack-bj2-oe)
 - **Battle Value:** 1260
 
 ## Blackjack BJ2-OR
@@ -190,7 +190,7 @@
   - Clan Large Pulse Laser
   - Clan Medium Pulse Laser × 3
   - Clan ER Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/385/blackjack-bj2-or)
 - **Battle Value:** 2010
 
 ## Blackjack BJ2-OF
@@ -206,7 +206,7 @@
   - Ultra AC/10 (ammo: 20)
   - ER Medium Laser × 2
   - ER Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/384/blackjack-bj2-of)
 - **Battle Value:** 1405
 
 ## Blackjack BJ-4
@@ -223,7 +223,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/389/blackjack-bj-4)
 - **Battle Value:** 1063
 
 ## Blackjack BJ2-OX
@@ -237,6 +237,7 @@
 - **Weapons:**
   - Light PPC w/ PPC Capacitor × 4
   - Streak SRM 4 × 2 (ammo: 25)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387/blackjack-bj2-ox)
 - **Battle Value:** 1320
 
 ## Blackjack BJ2-OU
@@ -253,7 +254,7 @@
   - ER Small Laser
 - **Equipment:**
   - HarJel × 5
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/386/blackjack-bj2-ou)
 - **Battle Value:** 1223
 
 ## Blackjack BJ-5
@@ -269,6 +270,7 @@
   - Light AC/2 × 2 (ammo: 45)
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7499/blackjack-bj-5)
 - **Battle Value:** 1165
 
 ## Blackjack BJ-2r
@@ -282,7 +284,7 @@
 - **Weapons:**
   - Large Re-Engineered Laser × 2
   - Medium Laser
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6914/blackjack-bj-2r)
 - **Battle Value:** 1136
 
 ## Blackjack BJ2-OG
@@ -296,6 +298,6 @@
 - **Weapons:**
   - RAC/5 × 2 (ammo: 100)
   - Small Re-Engineered Laser
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6908/blackjack-bj2-og)
 - **Battle Value:** 1448
 

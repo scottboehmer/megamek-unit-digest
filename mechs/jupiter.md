@@ -12,7 +12,7 @@
   - Ultra AC/5 × 4 (ammo: 80)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1725/jupiter-standard)
 - **Battle Value:** 2784
 
 ## Jupiter 2
@@ -29,7 +29,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 16)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1726/jupiter-2)
 - **Battle Value:** 3278
 
 ## Jupiter 3
@@ -45,7 +45,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1727/jupiter-3)
 - **Battle Value:** 3074
 
 ## Jupiter 4
@@ -61,6 +61,6 @@
   - Streak SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6829/jupiter-4)
 - **Battle Value:** 2955
 

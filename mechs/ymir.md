@@ -13,7 +13,7 @@
   - LRM 5 × 2 (ammo: 24)
   - SRM 2 × 4 (ammo: 100)
   - Vehicle Flamer × 2 (ammo: 20)
-- **Source:** XTRO Primitives V - Age of War
+- **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3623/ymir-bwp-x1-bipedal-weapons-platform)
 - **Battle Value:** unknown
 
 ## Ymir BWP-2B
@@ -29,7 +29,7 @@
   - LRM 5 × 2 (ammo: 24)
   - SRM 2 × 4 (ammo: 50)
   - Small Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3620/ymir-bwp-2b)
 - **Battle Value:** 1289
 
 ## Ymir BWP-2E
@@ -43,7 +43,7 @@
   - PPC × 2
   - LRM 10 (ammo: 12)
   - SRM 6 (ammo: 15)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/5429/ymir-bwp-2e)
 - **Battle Value:** 1393
 
 ## Ymir BWP-3A
@@ -58,6 +58,6 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3622/ymir-bwp-3a)
 - **Battle Value:** 1491
 

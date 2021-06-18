@@ -12,7 +12,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3500/warhammer-iic-standard)
 - **Battle Value:** 2570
 
 ## Warhammer IIC 2
@@ -28,7 +28,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2)
 - **Battle Value:** 2482
 
 ## Warhammer IIC 3
@@ -43,7 +43,7 @@
   - Medium Pulse Laser × 5
 - **Equipment:**
   - Targeting Computer
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3502/warhammer-iic-3)
 - **Battle Value:** 2382
 
 ## Warhammer IIC 4
@@ -59,7 +59,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3503/warhammer-iic-4)
 - **Battle Value:** 2386
 
 ## Warhammer IIC 5
@@ -75,7 +75,7 @@
   - Heavy Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3504/warhammer-iic-5)
 - **Battle Value:** 2185
 
 ## Warhammer IIC 6
@@ -91,7 +91,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3505/warhammer-iic-6)
 - **Battle Value:** 2661
 
 ## Warhammer IIC 7
@@ -112,7 +112,7 @@
   - ECM Suite
   - CASE
   - Cargo × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3506/warhammer-iic-7)
 - **Battle Value:** 2915
 
 ## Warhammer IIC 8
@@ -129,7 +129,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3507/warhammer-iic-8)
 - **Battle Value:** 2380
 
 ## Warhammer IIC 9
@@ -147,7 +147,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3508/warhammer-iic-9)
 - **Battle Value:** 2819
 
 ## Warhammer IIC 10
@@ -163,7 +163,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6859/warhammer-iic-10)
 - **Battle Value:** 2290
 
 ## Warhammer IIC 11
@@ -180,7 +180,7 @@
 - **Equipment:**
   - A-Pod × 2
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6858/warhammer-iic-11)
 - **Battle Value:** 2021
 
 ## Warhammer IIC 12
@@ -198,7 +198,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6857/warhammer-iic-12)
 - **Battle Value:** 2680
 
 ## Warhammer IIC 13
@@ -215,5 +215,6 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13)
 - **Battle Value:** 2715
 

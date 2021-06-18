@@ -11,7 +11,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3295/trebuchet-tbt-3c)
 - **Battle Value:** 1414
 
 ## Trebuchet TBT-5N
@@ -24,7 +24,7 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
   - Medium Laser × 3
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3297/trebuchet-tbt-5n)
 - **Battle Value:** 1191
 
 ## Trebuchet TBT-5J
@@ -38,7 +38,7 @@
 - **Weapons:**
   - LRM 15 (ammo: 8)
   - Medium Laser × 3
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3296/trebuchet-tbt-5j)
 - **Battle Value:** 1191
 
 ## Trebuchet TBT-5S
@@ -51,7 +51,7 @@
 - **Weapons:**
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 3
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3298/trebuchet-tbt-5s)
 - **Battle Value:** 984
 
 ## Trebuchet TBT-5K
@@ -79,7 +79,7 @@
   - PPC
   - AC/5 (ammo: 20)
   - SRM 2 (ammo: 50)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3299/trebuchet-tbt-7k)
 - **Battle Value:** 996
 
 ## Trebuchet TBT-7M
@@ -96,7 +96,7 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3300/trebuchet-tbt-7m)
 - **Battle Value:** 1348
 
 ## Trebuchet TBT-9K
@@ -114,7 +114,7 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3302/trebuchet-tbt-9k)
 - **Battle Value:** 1329
 
 ## Trebuchet TBT-8B
@@ -130,7 +130,7 @@
   - MML 5 × 4 (ammo: 48 LRM, 20 SRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3301/trebuchet-tbt-8b)
 - **Battle Value:** 1278
 
 ## Trebuchet TBT-XK7
@@ -151,7 +151,7 @@
 - **Equipment:**
   - Small Shield
   - Modular Armor × 3
-- **Source:** XTRO Periphery - Jihad
+- **Sources:** XTRO Periphery - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5563/trebuchet-tbt-xk7)
 - **Battle Value:** 1549
 
 ## Trebuchet TBT-K7R
@@ -171,6 +171,7 @@
   - Chain Whip
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5275/trebuchet-tbt-k7r)
 - **Battle Value:** 1415
 
 ## Trebuchet TBT-7MM 'Merida'
@@ -202,7 +203,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6901/trebuchet-tbt-9r)
 - **Battle Value:** 2165
 
 ## Trebuchet TBT-9N
@@ -218,5 +219,6 @@
   - Medium VSP Laser × 3
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7500/trebuchet-tbt-9n)
 - **Battle Value:** 1550
 

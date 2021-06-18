@@ -11,7 +11,7 @@
   - Small Laser × 2
 - **Equipment:**
   - MASC
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2172/mercury-mcy-99)
 - **Battle Value:** 586
 
 ## Mercury MCY-98
@@ -24,7 +24,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Small Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4624/mercury-mcy-98)
 - **Battle Value:** 553
 
 ## Mercury MCY-97
@@ -40,7 +40,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2171/mercury-mcy-97)
 - **Battle Value:** 466
 
 ## Mercury MCY-102
@@ -56,7 +56,7 @@
 - **Equipment:**
   - C3i
   - MASC
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2169/mercury-mcy-102)
 - **Battle Value:** 510
 
 ## Mercury MCY-104
@@ -73,6 +73,6 @@
   - C3i
   - MASC
   - TAG
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2170/mercury-mcy-104)
 - **Battle Value:** 683
 

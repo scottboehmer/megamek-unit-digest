@@ -10,7 +10,7 @@
   - SRM 4 (ammo: 25)
   - AC/2 (ammo: 45)
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2856/sentinel-stn-1s)
 - **Battle Value:** 632
 
 ## Sentinel STN-3L
@@ -24,7 +24,7 @@
   - Ultra AC/5 (ammo: 20)
   - Streak SRM 2 (ammo: 50)
   - Small Laser
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l)
 - **Battle Value:** 717
 
 ## Sentinel STN-3Lb
@@ -38,6 +38,7 @@
   - Gauss Rifle (ammo: 16)
   - Medium Laser
   - Small Laser
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2861/sentinel-stn-3lb)
 - **Battle Value:** 1260
 
 ## Sentinel STN-3K
@@ -51,7 +52,7 @@
   - AC/5 (ammo: 40)
   - SRM 2 (ammo: 50)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2857/sentinel-stn-3k)
 - **Battle Value:** 652
 
 ## Sentinel STN-3KA
@@ -65,7 +66,7 @@
   - Large Laser
   - SRM 2 (ammo: 50)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2858/sentinel-stn-3ka)
 - **Battle Value:** 847
 
 ## Sentinel STN-3KB
@@ -79,7 +80,7 @@
   - PPC
   - SRM 2 (ammo: 50)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2859/sentinel-stn-3kb)
 - **Battle Value:** 823
 
 ## Sentinel STN-3M
@@ -93,7 +94,7 @@
   - Ultra AC/5 (ammo: 20)
   - Medium Laser
   - SRM 2 (ammo: 50)
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2862/sentinel-stn-3m)
 - **Battle Value:** 758
 
 ## Sentinel STN-4D
@@ -108,7 +109,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2863/sentinel-stn-4d)
 - **Battle Value:** 1179
 
 ## Sentinel STN-C
@@ -123,7 +124,7 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c)
 - **Battle Value:** 689
 
 ## Sentinel STN-5WB
@@ -138,7 +139,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2864/sentinel-stn-5wb)
 - **Battle Value:** 999
 
 ## Sentinel STN-6S
@@ -155,6 +156,6 @@
   - Thunderbolt 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE II
-- **Source:** Dark AGe
+- **Sources:** Dark AGe, [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s)
 - **Battle Value:** 1089
 

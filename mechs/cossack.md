@@ -11,7 +11,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser
   - Small Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/703/cossack-c-sk1)
 - **Battle Value:** 465
 
 ## Cossack C-1FC
@@ -25,6 +25,6 @@
 - **Weapons:**
   - Medium VSP Laser
   - Rocket 10 × 3
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/702/cossack-c-1fc)
 - **Battle Value:** 483
 

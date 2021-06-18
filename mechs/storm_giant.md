@@ -12,7 +12,7 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7649/storm-giant-standard)
 - **Battle Value:** 2676
 
 ## Storm Giant 2
@@ -29,6 +29,6 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5145/storm-giant-2)
 - **Battle Value:** 2891
 

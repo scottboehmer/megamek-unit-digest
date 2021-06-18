@@ -14,7 +14,7 @@
   - Medium Vibroblade
 - **Equipment:**
   - Angel ECM Suite
-- **Source:** XTRO Liao - Jihad
+- **Sources:** XTRO Liao - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/903/dola-dol-1a)
 - **Battle Value:** 911
 
 ## Dola DOL-1A1
@@ -30,7 +30,7 @@
   - Sword
 - **Equipment:**
   - Angel ECM Suite
-- **Source:** TRO:Prototypes
+- **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4086/dola-dol-1a1)
 - **Battle Value:** 950
 
 ## Dola DOL-1A2 'Yoh Ti Ts'angs'
@@ -46,6 +46,6 @@
   - Small Vibroblade
 - **Equipment:**
   - TAG
-- **Source:** TRO:Prototypes
+- **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4087/dola-dol-1a2-yoh-ti-tsang)
 - **Battle Value:** 791
 

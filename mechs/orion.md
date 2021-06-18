@@ -10,7 +10,7 @@
 - **Weapons:**
   - AC/5 (ammo: 20)
   - Medium Laser × 2
-- **Source:** XTRO Primitives V - Age of War
+- **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/4755/orion-on1-c)
 - **Battle Value:** 973
 
 ## Orion ON1-H
@@ -26,7 +26,7 @@
   - Medium Laser × 2
   - LRM 5 × 2 (ammo: 24)
   - SRM 4 (ammo: 25)
-- **Source:** XTRO Primitives V - Age of War
+- **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7405/orion-on1-h)
 - **Battle Value:** 1307
 
 ## Orion ON1-K
@@ -41,7 +41,7 @@
   - AC/10 (ammo: 20)
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2332/orion-on1-k)
 - **Battle Value:** 1429
 
 ## Orion ON1-K (Kerensky)
@@ -58,7 +58,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050U - Star League
+- **Sources:** TRO 3050U - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2333/orion-on1-k-kerensky)
 - **Battle Value:** 1821
 
 ## Orion ON1-V
@@ -73,7 +73,7 @@
   - AC/10 (ammo: 20)
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 50)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2335/orion-on1-v)
 - **Battle Value:** 1298
 
 ## Orion ON1-VA
@@ -87,7 +87,7 @@
   - AC/10 (ammo: 20)
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 50)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2336/orion-on1-va)
 - **Battle Value:** 1328
 
 ## Orion ON1-V-DC
@@ -104,7 +104,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Command Console
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2337/orion-on1-v-dc)
 - **Battle Value:** 1310
 
 ## Orion ON1-M
@@ -122,7 +122,7 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2334/orion-on1-m)
 - **Battle Value:** 1414
 
 ## Orion ON1-MA
@@ -139,7 +139,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4756/orion-on1-ma)
 - **Battle Value:** 1501
 
 ## Orion ON1-M-DC
@@ -158,7 +158,7 @@
 - **Equipment:**
   - Command Console
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4760/orion-on1-m-dc)
 - **Battle Value:** 1444
 
 ## Orion ON1-MB
@@ -176,7 +176,7 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4757/orion-on1-mb)
 - **Battle Value:** 1472
 
 ## Orion ON1-MC
@@ -194,7 +194,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4758/orion-on1-mc)
 - **Battle Value:** 1501
 
 ## Orion ON1-MD
@@ -212,7 +212,7 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4759/orion-on1-md)
 - **Battle Value:** 1597
 
 ## Orion ON2-M
@@ -228,7 +228,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2338/orion-on2-m)
 - **Battle Value:** 1828
 
 ## Orion ON3-MX
@@ -244,7 +244,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** XTRO Marik - Jihad
+- **Sources:** XTRO Marik - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2339/orion-on3-mx)
 - **Battle Value:** 1849
 
 ## Orion ON3-M
@@ -261,5 +261,6 @@
 - **Equipment:**
   - CASE II
   - TAG
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m)
 - **Battle Value:** 1826
 

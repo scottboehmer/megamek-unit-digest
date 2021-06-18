@@ -12,7 +12,7 @@
 - **Equipment:**
   - Extended Fuel Tank
   - Cargo
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7855/demeter-wld-1-agromech)
 - **Battle Value:** 339
 
 ## Demeter WLD-1-M AgroMech MOD
@@ -25,6 +25,6 @@
 - **Weapons:**
   - Combine
   - Vehicle Flamer (ammo: 20)
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7856/demeter-wld-1-m-agromech-mod)
 - **Battle Value:** unknown
 

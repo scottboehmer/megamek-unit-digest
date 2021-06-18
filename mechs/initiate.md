@@ -14,7 +14,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1620/initiate-ini-02)
 - **Battle Value:** 1036
 
 ## Initiate INI-04
@@ -32,6 +32,6 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1621/initiate-ini-04)
 - **Battle Value:** 901
 

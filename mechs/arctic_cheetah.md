@@ -16,7 +16,7 @@
   - Active Probe
   - TAG
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1384/hankyu-arctic-cheetah-prime)
 - **Battle Value:** 1334
 
 ## Arctic Cheetah "Hankyu" A
@@ -33,7 +33,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1378/hankyu-arctic-cheetah-a)
 - **Battle Value:** 1117
 
 ## Arctic Cheetah "Hankyu" B
@@ -51,7 +51,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1379/hankyu-arctic-cheetah-b)
 - **Battle Value:** 1076
 
 ## Arctic Cheetah "Hankyu" C
@@ -68,7 +68,7 @@
   - Flamer
 - **Equipment:**
   - Active Probe
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1380/hankyu-arctic-cheetah-c)
 - **Battle Value:** 1840
 
 ## Arctic Cheetah "Hankyu" D
@@ -84,7 +84,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1381/hankyu-arctic-cheetah-d)
 - **Battle Value:** 1080
 
 ## Arctic Cheetah "Hankyu" H
@@ -100,7 +100,7 @@
   - Heavy Medium Laser
   - Heavy Small Laser × 2
   - Flamer
-- **Source:** TRO Clan Invasion - Civil War
+- **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1383/hankyu-arctic-cheetah-h)
 - **Battle Value:** 1264
 
 ## Arctic Cheetah "Hankyu" E
@@ -119,7 +119,7 @@
   - Machine Gun Array × 2
   - B-Pod × 2
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e)
 - **Battle Value:** 1081
 
 ## Arctic Cheetah "Hankyu" F
@@ -138,6 +138,6 @@
   - Watchdog CEWS
   - Light TAG
   - CASE
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6940/hankyu-arctic-cheetah-f)
 - **Battle Value:** 1394
 

@@ -12,7 +12,7 @@
   - Streak SRM 2 × 3 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2974/snake-snk-1v)
 - **Battle Value:** 980
 
 ## Snake SNK-1V (Alexi)
@@ -28,6 +28,7 @@
   - Streak SRM 2 × 3 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975/snake-snk-1v-alexi)
 - **Battle Value:** 1316
 
 ## Snake SNK-2B
@@ -44,7 +45,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2976/snake-snk-2b)
 - **Battle Value:** 1081
 
 ## Snake (Arthur)
@@ -62,7 +63,7 @@
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
   - MASC
-- **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6982/snake-arthur)
 - **Battle Value:** 1477
 
 ## Snake SNK-2Br
@@ -79,6 +80,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2977/snake-snk-2br)
 - **Battle Value:** 1577
 

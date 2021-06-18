@@ -11,7 +11,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2251/naga-prime)
 - **Battle Value:** 1642
 
 ## Naga A
@@ -27,7 +27,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2247/naga-a)
 - **Battle Value:** 1791
 
 ## Naga B
@@ -43,7 +43,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2248/naga-b)
 - **Battle Value:** 1824
 
 ## Naga C
@@ -59,7 +59,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2249/naga-c)
 - **Battle Value:** 1608
 
 ## Naga D
@@ -76,6 +76,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2250/naga-d)
 - **Battle Value:** 1662
 

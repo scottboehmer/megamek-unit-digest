@@ -14,7 +14,7 @@
   - Laser Anti-Missile System
   - Light Active Probe
   - CASE
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6672/jackalope-jlp-bd)
 - **Battle Value:** 1395
 
 ## Jackalope JLP-C
@@ -33,7 +33,7 @@
   - Light Active Probe
   - CASE
   - Inner Sphere C3 Slave
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6711/jackalope-jlp-c)
 - **Battle Value:** 1253
 
 ## Jackalope JLP-KA
@@ -51,7 +51,7 @@
   - Laser Anti-Missile System
   - Light Active Probe
   - CASE II
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6712/jackalope-jlp-ka)
 - **Battle Value:** 1488
 
 ## Jackalope JLP-KW 'Wolpertinger'
@@ -70,6 +70,6 @@
   - Laser Anti-Missile System
   - Partial Wing
   - CASE II
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6713/jackalope-jlp-kw-wolpertinger)
 - **Battle Value:** 1334
 

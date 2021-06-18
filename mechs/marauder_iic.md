@@ -10,7 +10,7 @@
   - ER PPC × 3
   - Medium Pulse Laser × 2
   - ER Small Laser × 4
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2065/marauder-iic-standard)
 - **Battle Value:** 2680
 
 ## Marauder IIC 9
@@ -25,6 +25,7 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7537/marauder-iic-9)
 - **Battle Value:** 2595
 
 ## Marauder IIC 8
@@ -41,7 +42,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2072/marauder-iic-8)
 - **Battle Value:** 2554
 
 ## Marauder IIC 2
@@ -56,7 +57,7 @@
   - ER Large Laser
   - Heavy Large Laser × 2
   - Medium Pulse Laser × 2
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2066/marauder-iic-2)
 - **Battle Value:** 2358
 
 ## Marauder IIC 3
@@ -72,7 +73,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2067/marauder-iic-3)
 - **Battle Value:** 2445
 
 ## Marauder IIC 4
@@ -87,7 +88,7 @@
   - HAG 40 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2068/marauder-iic-4)
 - **Battle Value:** 3447
 
 ## Marauder IIC 5
@@ -103,7 +104,7 @@
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2069/marauder-iic-5)
 - **Battle Value:** 2386
 
 ## Marauder IIC 6
@@ -121,7 +122,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2070/marauder-iic-6)
 - **Battle Value:** 2646
 
 ## Marauder IIC 7
@@ -141,7 +142,7 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2071/marauder-iic-7)
 - **Battle Value:** 2843
 
 ## Marauder IIC 10
@@ -158,5 +159,6 @@
   - Medium Pulse Laser × 2
   - ER Small Laser × 2
   - Small Pulse Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7538/marauder-iic-10)
 - **Battle Value:** 2877
 

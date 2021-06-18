@@ -11,7 +11,7 @@
 - **Equipment:**
   - Spikes × 5
   - Supercharger
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2555/porcupine-prc-1n)
 - **Battle Value:** 870
 
 ## Porcupine PRC-2N
@@ -27,7 +27,7 @@
   - Medium Laser × 4
   - Small X-Pulse Laser × 2
   - ER Small Laser
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2556/porcupine-prc-2n)
 - **Battle Value:** 901
 
 ## Porcupine PRC-3N
@@ -43,6 +43,6 @@
   - Null-Signature System
   - MASC
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8102/porcupine-prc-3n)
 - **Battle Value:** 511
 

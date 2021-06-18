@@ -14,7 +14,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard)
 - **Battle Value:** 1732
 
 ## Shadow Hawk IIC 2
@@ -29,7 +29,7 @@
   - ER Large Laser × 2
   - ER Small Laser
   - Small Pulse Laser × 3
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2)
 - **Battle Value:** 1763
 
 ## Shadow Hawk IIC 3
@@ -45,7 +45,7 @@
   - Medium Pulse Laser
   - Micro Pulse Laser × 2
   - ER Micro Laser × 2
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2913/shadow-hawk-iic-3)
 - **Battle Value:** 1471
 
 ## Shadow Hawk IIC 4
@@ -62,7 +62,7 @@
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2914/shadow-hawk-iic-4)
 - **Battle Value:** 1698
 
 ## Shadow Hawk IIC 5
@@ -78,7 +78,7 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2915/shadow-hawk-iic-5)
 - **Battle Value:** 1614
 
 ## Shadow Hawk IIC 6
@@ -96,7 +96,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2916/shadow-hawk-iic-6)
 - **Battle Value:** 1907
 
 ## Shadow Hawk IIC 7
@@ -115,7 +115,7 @@
 - **Equipment:**
   - Liquid Cargo × 2
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2917/shadow-hawk-iic-7)
 - **Battle Value:** 1999
 
 ## Shadow Hawk IIC 8
@@ -134,7 +134,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2918/shadow-hawk-iic-8)
 - **Battle Value:** 1940
 
 ## Shadow Hawk IIC 9
@@ -151,6 +151,6 @@
   - ATM 6 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6911/shadow-hawk-iic-9)
 - **Battle Value:** 1803
 

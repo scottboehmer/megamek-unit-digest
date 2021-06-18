@@ -10,7 +10,7 @@
 - **Weapons:**
   - Large Pulse Laser
   - Medium Pulse Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3588/wraith-tr1)
 - **Battle Value:** 1287
 
 ## Wraith TR2
@@ -24,7 +24,7 @@
 - **Weapons:**
   - ER PPC
   - Medium Pulse Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3589/wraith-tr2)
 - **Battle Value:** 1485
 
 ## Wraith TR3
@@ -40,7 +40,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3591/wraith-tr3)
 - **Battle Value:** 1310
 
 ## Wraith TR2-X 'Alexander'

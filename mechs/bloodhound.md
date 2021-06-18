@@ -13,7 +13,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3838/bloodhound-b1-hnd)
 - **Battle Value:** 1248
 
 ## Bloodhound B2-HND
@@ -31,7 +31,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3839/bloodhound-b2-hnd)
 - **Battle Value:** 1363
 
 ## Bloodhound B3-HND
@@ -48,5 +48,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - B-Pod
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671/bloodhound-b3-hnd)
 - **Battle Value:** 1005
 

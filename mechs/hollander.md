@@ -8,7 +8,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1536/hollander-bzk-f3)
 - **Battle Value:** 953
 
 ## Hollander BZK-G1
@@ -21,6 +21,6 @@
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1537/hollander-bzk-g1)
 - **Battle Value:** 873
 

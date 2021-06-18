@@ -14,7 +14,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3045/stalking-spider-standard)
 - **Battle Value:** 2232
 
 ## Stalking Spider 2
@@ -33,7 +33,7 @@
   - TAG
   - Targeting Computer
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3046/stalking-spider-2)
 - **Battle Value:** 2056
 
 ## Stalking Spider 3
@@ -51,6 +51,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3047/stalking-spider-3)
 - **Battle Value:** 1643
 

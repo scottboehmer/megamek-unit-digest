@@ -14,7 +14,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2384/owens-ow-1)
 - **Battle Value:** 839
 
 ## Owens OW-1A
@@ -32,7 +32,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2385/owens-ow-1a)
 - **Battle Value:** 680
 
 ## Owens OW-1B
@@ -49,7 +49,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2386/owens-ow-1b)
 - **Battle Value:** 752
 
 ## Owens OW-1C
@@ -66,7 +66,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2387/owens-ow-1c)
 - **Battle Value:** 964
 
 ## Owens OW-1D
@@ -83,7 +83,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2388/owens-ow-1d)
 - **Battle Value:** 655
 
 ## Owens OW-1R
@@ -100,7 +100,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2391/owens-ow-1r)
 - **Battle Value:** 1215
 
 ## Owens OW-1E
@@ -118,7 +118,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2389/owens-ow-1e)
 - **Battle Value:** 833
 
 ## Owens OW-1F
@@ -138,7 +138,7 @@
   - TAG
   - C3 Slave
   - Targeting Computer
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2390/owens-ow-1f)
 - **Battle Value:** 933
 
 ## Owens OW-1G
@@ -155,6 +155,6 @@
   - TAG
   - C3 Slave
   - Supercharger
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6924/owens-ow-1g)
 - **Battle Value:** 1761
 

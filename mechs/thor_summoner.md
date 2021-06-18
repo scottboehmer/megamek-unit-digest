@@ -13,7 +13,7 @@
   - LB 10-X AC (ammo: 10)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3183/thor-summoner-prime)
 - **Battle Value:** 2298
 
 ## Summoner "Thor" A
@@ -30,7 +30,7 @@
   - SRM 6 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3174/thor-summoner-a)
 - **Battle Value:** 2145
 
 ## Summoner "Thor" B
@@ -48,7 +48,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3175/thor-summoner-b)
 - **Battle Value:** 2159
 
 ## Summoner "Thor" C
@@ -66,7 +66,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3176/thor-summoner-c)
 - **Battle Value:** 2379
 
 ## Summoner "Thor" D
@@ -85,7 +85,7 @@
   - Anti-Missile System × 2 (ammo: 48)
   - CASE
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3177/thor-summoner-d)
 - **Battle Value:** 2643
 
 ## Summoner "Thor" M
@@ -103,7 +103,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3182/thor-summoner-m)
 - **Battle Value:** 2251
 
 ## Summoner "Thor" E
@@ -120,7 +120,7 @@
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3178/thor-summoner-e)
 - **Battle Value:** 2612
 
 ## Summoner "Thor" F
@@ -137,7 +137,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5490/thor-summoner-f)
 - **Battle Value:** 2186
 
 ## Summoner "Thor" H
@@ -155,7 +155,7 @@
   - Anti-Missile System (ammo: 24)
   - CASE
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3180/thor-summoner-h)
 - **Battle Value:** 2536
 
 ## Summoner "Thor" G
@@ -173,7 +173,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3179/thor-summoner-g)
 - **Battle Value:** 2452
 
 ## Summoner "Thor" Q
@@ -192,7 +192,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3184/thor-summoner-q)
 - **Battle Value:** 2479
 
 ## Summoner "Thor" HH
@@ -211,7 +211,7 @@
   - AP Gauss Rifle (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3181/thor-summoner-hh)
 - **Battle Value:** 2490
 
 ## Summoner "Thor" Z
@@ -229,7 +229,7 @@
 - **Equipment:**
   - Nova CEWS
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5821/thor-summoner-z)
 - **Battle Value:** 2783
 
 ## Summoner "Thor" U
@@ -246,7 +246,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3185/thor-summoner-u)
 - **Battle Value:** 3092
 
 ## Summoner "Thor" AA
@@ -263,7 +263,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 3 - Early Republic
+- **Sources:** ilClan Vol 3 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa)
 - **Battle Value:** 2216
 
 ## Summoner "Thor" T
@@ -280,7 +280,7 @@
   - ProtoMech AC/8 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7490/thor-summoner-t)
 - **Battle Value:** 2355
 
 ## Summoner "Thor" J
@@ -297,6 +297,6 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7489/thor-summoner-j)
 - **Battle Value:** 2666
 

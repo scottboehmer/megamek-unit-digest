@@ -14,7 +14,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1482/hercules-hrc-ls-9000)
 - **Battle Value:** 1561
 
 ## Hercules HRC-LS-9001
@@ -30,7 +30,7 @@
   - Medium Pulse Laser
   - Streak SRM 2 × 2 (ammo: 50)
   - Small Pulse Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1484/hercules-hrc-ls-9001)
 - **Battle Value:** 1566
 
 ## Hercules HRC-LS-9000 (Julius)
@@ -48,5 +48,6 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483/hercules-hrc-ls-9000-julius)
 - **Battle Value:** 1532
 

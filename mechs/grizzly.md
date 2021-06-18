@@ -15,7 +15,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1332/grizzly-standard)
 - **Battle Value:** 2219
 
 ## Grizzly 2
@@ -33,6 +33,6 @@
   - ER Micro Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1333/grizzly-2)
 - **Battle Value:** 2195
 

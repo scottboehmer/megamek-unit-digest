@@ -12,7 +12,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5026/sha-yu-syu-2b)
 - **Battle Value:** 1379
 
 ## Sha Yu SYU-4B
@@ -29,7 +29,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5027/sha-yu-syu-4b)
 - **Battle Value:** 1267
 
 ## Sha Yu (Bulldog)
@@ -44,7 +44,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6980/sha-yu-bulldog)
 - **Battle Value:** 1379
 
 ## Sha Yu SYU-6B
@@ -59,6 +59,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5670/sha-yu-syu-6b)
 - **Battle Value:** 1422
 

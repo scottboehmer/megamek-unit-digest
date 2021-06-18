@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 2
   - Hatchet
   - Small Pulse Laser
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2279/nightsky-ngs-4s)
 - **Battle Value:** 1159
 
 ## Nightsky NGS-4T
@@ -31,7 +31,7 @@
   - Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2280/nightsky-ngs-4t)
 - **Battle Value:** 1287
 
 ## Nightsky NGS-5S
@@ -46,7 +46,7 @@
   - Medium Pulse Laser × 2
   - Hatchet
   - Small Pulse Laser
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2281/nightsky-ngs-5s)
 - **Battle Value:** 1045
 
 ## Nightsky NGS-5T
@@ -62,7 +62,7 @@
   - Medium Pulse Laser × 2
   - Hatchet
   - Small Pulse Laser
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2282/nightsky-ngs-5t)
 - **Battle Value:** 1356
 
 ## Nightsky NGS-6S
@@ -76,7 +76,7 @@
 - **Weapons:**
   - ER Medium Laser × 7
   - Hatchet
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2283/nightsky-ngs-6s)
 - **Battle Value:** 1474
 
 ## Nightsky NGS-6T
@@ -95,6 +95,6 @@
   - Hatchet
   - ER Small Laser × 2
   - Small Pulse Laser
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2284/nightsky-ngs-6t)
 - **Battle Value:** 1462
 

@@ -12,7 +12,7 @@
   - AC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2101/mauler-mal-1r)
 - **Battle Value:** 1460
 
 ## Mauler MAL-C
@@ -29,7 +29,7 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2103/mauler-mal-c)
 - **Battle Value:** 1473
 
 ## Mauler MAL-2R
@@ -45,7 +45,7 @@
   - Ultra AC/2 × 4 (ammo: 90)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5460/mauler-mal-2r)
 - **Battle Value:** 1586
 
 ## Mauler MAL-3R
@@ -62,7 +62,7 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r)
 - **Battle Value:** 1877
 
 ## Mauler MAL-1K
@@ -76,7 +76,7 @@
   - Snub-Nose PPC × 2
   - LRM 15 × 2 (ammo: 32)
   - Light AC/5 × 4 (ammo: 80)
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2100/mauler-mal-1k)
 - **Battle Value:** 1622
 
 ## Mauler MAL-4X 'Todesbote'
@@ -91,6 +91,6 @@
   - MML 7 × 2 (ammo: 17 LRM)
 - **Equipment:**
   - CASE II
-- **Source:** XTRO Most Wanted - Jihad
+- **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5784/mauler-mal-4x-todesbote)
 - **Battle Value:** 1904
 

@@ -8,7 +8,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - AC/20 × 2 (ammo: 20)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/418/bombard-bmb-010)
 - **Battle Value:** 850
 
 ## Bombard BMB-013
@@ -24,7 +24,7 @@
 - **Equipment:**
   - Spikes × 2
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/419/bombard-bmb-013)
 - **Battle Value:** 1019
 
 ## Bombard BMB-1X
@@ -39,6 +39,6 @@
 - **Equipment:**
   - M-Pod × 3
   - Supercharger
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/420/bombard-bmb-1x)
 - **Battle Value:** 1648
 

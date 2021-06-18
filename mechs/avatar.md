@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/160/avatar-av1-o)
 - **Battle Value:** 1395
 
 ## Avatar AV1-OA
@@ -32,7 +32,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/161/avatar-av1-oa)
 - **Battle Value:** 1481
 
 ## Avatar AV1-OB
@@ -48,7 +48,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/162/avatar-av1-ob)
 - **Battle Value:** 1496
 
 ## Avatar AV1-OC
@@ -66,7 +66,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/163/avatar-av1-oc)
 - **Battle Value:** 1406
 
 ## Avatar AV1-OG
@@ -81,7 +81,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/167/avatar-av1-og)
 - **Battle Value:** 1775
 
 ## Avatar AV1-OR
@@ -99,7 +99,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/170/avatar-av1-or)
 - **Battle Value:** 1833
 
 ## Avatar AV1-OD
@@ -117,7 +117,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/164/avatar-av1-od)
 - **Battle Value:** 1475
 
 ## Avatar AV1-OE
@@ -136,7 +136,7 @@
   - Guardian ECM Suite
   - CASE
   - C3i
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/165/avatar-av1-oe)
 - **Battle Value:** 1563
 
 ## Avatar AV1-OF
@@ -153,7 +153,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/166/avatar-av1-of)
 - **Battle Value:** 1667
 
 ## Avatar AV1-OH
@@ -169,7 +169,7 @@
   - MML 3 w/ Artemis IV × 2 (ammo: 80 LRM, 33 SRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/168/avatar-av1-oh)
 - **Battle Value:** 1598
 
 ## Avatar AV1-OU
@@ -187,7 +187,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/171/avatar-av1-ou)
 - **Battle Value:** 1359
 
 ## Avatar AV1-OI
@@ -203,7 +203,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/169/avatar-av1-oi)
 - **Battle Value:** 1606
 
 ## Avatar AV1-OJ
@@ -218,7 +218,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6874/avatar-av1-oj)
 - **Battle Value:** 2223
 
 ## Avatar AV1-OBLO
@@ -237,6 +237,6 @@
   - Guardian ECM Suite
   - C3i
   - CASE
-- **Source:** SO:Unending Faith - Late Republic Era
+- **Sources:** SO:Unending Faith - Late Republic Era, [Master Unit List](http://masterunitlist.info/Unit/Details/7634/avatar-av1-oblo)
 - **Battle Value:** 1550
 

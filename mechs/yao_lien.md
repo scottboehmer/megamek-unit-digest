@@ -13,6 +13,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3609/yao-lien-yol-4c)
 - **Battle Value:** 1586
 

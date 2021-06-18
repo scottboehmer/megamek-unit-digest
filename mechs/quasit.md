@@ -13,7 +13,7 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2609/quasit-qua-51t-militiamech)
 - **Battle Value:** unknown
 
 ## Quasit QUA-51M MilitiaMech
@@ -29,7 +29,7 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2607/quasit-qua-51m-militiamech)
 - **Battle Value:** unknown
 
 ## Quasit QUA-51P MilitiaMech
@@ -44,6 +44,6 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2608/quasit-qua-51p-militiamech)
 - **Battle Value:** unknown
 

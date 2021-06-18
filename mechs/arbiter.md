@@ -11,5 +11,6 @@
   - Heavy Rifle (ammo: 6)
 - **Equipment:**
   - Ejection Seat
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3714/arbiter-arb-001-securitymech)
 - **Battle Value:** 507
 

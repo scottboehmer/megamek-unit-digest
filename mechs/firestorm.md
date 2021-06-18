@@ -15,6 +15,6 @@
   - Flamer
 - **Equipment:**
   - MASC
-- **Source:** RecGuide 13 - Dark Ages
+- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8129/firestorm-standard)
 - **Battle Value:** 2330
 

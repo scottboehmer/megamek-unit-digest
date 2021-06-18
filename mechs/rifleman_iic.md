@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - Active Probe
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2710/rifleman-iic-standard)
 - **Battle Value:** 2307
 
 ## Rifleman IIC 2
@@ -27,7 +27,7 @@
   - Ultra AC/2 × 4 (ammo: 270)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2711/rifleman-iic-2)
 - **Battle Value:** 1345
 
 ## Rifleman IIC 3
@@ -44,7 +44,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2712/rifleman-iic-3)
 - **Battle Value:** 1733
 
 ## Rifleman IIC 4
@@ -60,7 +60,7 @@
   - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2713/rifleman-iic-4)
 - **Battle Value:** 2140
 
 ## Rifleman IIC 5
@@ -74,7 +74,7 @@
 - **Weapons:**
   - ER Large Laser × 3
   - Medium Pulse Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2714/rifleman-iic-5)
 - **Battle Value:** 2343
 
 ## Rifleman IIC 6
@@ -90,7 +90,7 @@
   - Anti-Missile System × 2 (ammo: 48)
   - Active Probe
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2715/rifleman-iic-6)
 - **Battle Value:** 2220
 
 ## Rifleman IIC 7
@@ -107,7 +107,7 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2716/rifleman-iic-7)
 - **Battle Value:** 2205
 
 ## Rifleman IIC 8
@@ -125,6 +125,6 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2717/rifleman-iic-8)
 - **Battle Value:** 2541
 

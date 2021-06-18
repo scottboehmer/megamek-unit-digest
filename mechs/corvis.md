@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/700/corvis-standard)
 - **Battle Value:** 1336
 
 ## Corvis 2
@@ -29,6 +29,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/701/corvis-2)
 - **Battle Value:** 1455
 

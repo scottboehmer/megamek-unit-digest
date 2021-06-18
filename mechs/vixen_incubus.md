@@ -12,7 +12,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3441/vixen-incubus-standard)
 - **Battle Value:** 1596
 
 ## Incubus 2 "Vixen"
@@ -28,7 +28,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3442/vixen-incubus-2)
 - **Battle Value:** 1913
 
 ## Incubus 7 "Vixen"
@@ -44,7 +44,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7541/vixen-incubus-7)
 - **Battle Value:** 1175
 
 ## Incubus 8 "Vixen"
@@ -60,7 +60,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7543/vixen-incubus-8)
 - **Battle Value:** 1557
 
 ## Incubus 3 "Vixen"
@@ -76,7 +76,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3443/vixen-incubus-3)
 - **Battle Value:** 1324
 
 ## Incubus 4 "Vixen"
@@ -91,7 +91,7 @@
   - Medium Pulse Laser × 2
   - Micro Pulse Laser × 2
   - ER Micro Laser × 2
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3444/vixen-incubus-4)
 - **Battle Value:** 1581
 
 ## Incubus 5 "Vixen"
@@ -107,7 +107,7 @@
   - Light Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3445/vixen-incubus-5)
 - **Battle Value:** 1364
 
 ## Incubus 9 "Vixen"
@@ -124,6 +124,6 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7544/vixen-incubus-9)
 - **Battle Value:** 1849
 

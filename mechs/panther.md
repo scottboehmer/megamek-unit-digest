@@ -10,7 +10,7 @@
 - **Weapons:**
   - Large Laser
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2424/panther-pnt-8z)
 - **Battle Value:** 741
 
 ## Panther PNT-9R
@@ -24,7 +24,7 @@
 - **Weapons:**
   - PPC
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2425/panther-pnt-9r)
 - **Battle Value:** 769
 
 ## Panther PNT-9ALAG
@@ -37,7 +37,7 @@
 - **Weapons:**
   - PPC
   - SRM 4 (ammo: 25)
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7417/panther-pnt-9alag)
 - **Battle Value:** 804
 
 ## Panther PNT-10K
@@ -53,7 +53,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2416/panther-pnt-10k)
 - **Battle Value:** 838
 
 ## Panther PNT-C
@@ -70,7 +70,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2426/panther-pnt-c)
 - **Battle Value:** 833
 
 ## Panther PNT-10KA
@@ -86,7 +86,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4785/panther-pnt-10ka)
 - **Battle Value:** 797
 
 ## Panther PNT-CA
@@ -103,7 +103,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5443/panther-pnt-ca)
 - **Battle Value:** 787
 
 ## Panther PNT-12A
@@ -121,7 +121,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2418/panther-pnt-12a)
 - **Battle Value:** 982
 
 ## Panther PNT-14S
@@ -136,7 +136,7 @@
 - **Weapons:**
   - Snub-Nose PPC
   - Rocket 15 × 2
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2422/panther-pnt-14s)
 - **Battle Value:** 825
 
 ## Panther PNT-16K
@@ -152,7 +152,7 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2423/panther-pnt-16k)
 - **Battle Value:** 988
 
 ## Panther PNT-10K2
@@ -168,7 +168,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2417/panther-pnt-10k2)
 - **Battle Value:** 913
 
 ## Panther PNT-12K2
@@ -184,7 +184,7 @@
   - MRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2420/panther-pnt-12k2)
 - **Battle Value:** 930
 
 ## Panther PNT-13K
@@ -199,7 +199,7 @@
 - **Weapons:**
   - Plasma Rifle (ammo: 10)
   - SRM 4 (ammo: 25)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2421/panther-pnt-13k)
 - **Battle Value:** 996
 
 ## Panther PNT-12K
@@ -215,6 +215,7 @@
   - MRM 10 (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419/panther-pnt-12k)
 - **Battle Value:** 930
 
 ## Panther PNT-12KC
@@ -230,6 +231,6 @@
   - Medium Laser
 - **Equipment:**
   - C3 Boosted Slave
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6923/panther-pnt-12kc)
 - **Battle Value:** 1036
 

@@ -11,7 +11,7 @@
   - AC/20 × 2 (ammo: 20)
   - Medium Laser × 3
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2524/pillager-plg-1n)
 - **Battle Value:** 1812
 
 ## Pillager PLG-3Z
@@ -26,7 +26,7 @@
   - Gauss Rifle × 2 (ammo: 48)
   - Large Laser
   - Medium Laser × 4
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2525/pillager-plg-3z)
 - **Battle Value:** 2697
 
 ## Pillager PLG-4Z
@@ -43,7 +43,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2527/pillager-plg-4z)
 - **Battle Value:** 2868
 
 ## Pillager PLG-5L
@@ -62,7 +62,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2528/pillager-plg-5l)
 - **Battle Value:** 2618
 
 ## Pillager PLG-5Z
@@ -80,7 +80,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2529/pillager-plg-5z)
 - **Battle Value:** 2939
 
 ## Pillager PLG-4X 'Anvil'
@@ -96,6 +96,6 @@
 - **Equipment:**
   - Laser Anti-Missile System
   - Coolant Pod × 2
-- **Source:** XTRO Liao - Jihad
+- **Sources:** XTRO Liao - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2526/pillager-plg-4x-anvil)
 - **Battle Value:** 1884
 

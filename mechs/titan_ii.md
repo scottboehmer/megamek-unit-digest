@@ -14,7 +14,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3258/titan-ii-ti-2p)
 - **Battle Value:** 2143
 
 ## Titan II TI-2PA
@@ -34,6 +34,6 @@
   - Beagle Active Probe
   - Machine Gun Array × 2
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3259/titan-ii-ti-2pa)
 - **Battle Value:** 2434
 

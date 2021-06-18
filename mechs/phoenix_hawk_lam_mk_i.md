@@ -12,7 +12,7 @@
 - **Weapons:**
   - ER Large Laser
   - Medium Laser × 4
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/4824/phoenix-hawk-lam-mk-i-phx-hk1)
 - **Battle Value:** 1942
 
 ## Phoenix Hawk LAM Mk I PHX-HK1R
@@ -30,6 +30,6 @@
   - Medium Laser × 3
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/4825/phoenix-hawk-lam-mk-i-phx-hk1r)
 - **Battle Value:** 1858
 

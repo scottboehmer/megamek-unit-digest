@@ -14,7 +14,7 @@
 - **Equipment:**
   - HarJel
   - Enviro-Sealing
-- **Source:** XTRO Boondocks
+- **Sources:** XTRO Boondocks, [Master Unit List](http://masterunitlist.info/Unit/Details/3021/spindrift-aquatic-securitymech-sdt-1)
 - **Battle Value:** unknown
 
 ## Spindrift SDT-1A Aquatic SecurityMech
@@ -31,6 +31,6 @@
   - ER Small Laser
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** TRO:Prototypes
+- **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/5106/spindrift-aquatic-securitymech-sdt-1a)
 - **Battle Value:** unknown
 

@@ -13,7 +13,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6)
 - **Battle Value:** 1747
 
 ## Vapor Eagle (Standard) "Goshawk"
@@ -32,7 +32,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard)
 - **Battle Value:** 2368
 
 ## Vapor Eagle 2 "Goshawk"
@@ -50,7 +50,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2)
 - **Battle Value:** 1989
 
 ## Vapor Eagle 5 "Goshawk"
@@ -68,7 +68,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7710/goshawk-vapor-eagle-5)
 - **Battle Value:** 2572
 
 ## Vapor Eagle 3 "Goshawk"
@@ -87,7 +87,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1245/goshawk-vapor-eagle-3)
 - **Battle Value:** 2466
 
 ## Vapor Eagle 4 "Goshawk"
@@ -103,7 +103,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1246/goshawk-vapor-eagle-4)
 - **Battle Value:** 2069
 
 ## Vapor Eagle 7 "Goshawk"
@@ -122,6 +122,6 @@
   - MASC
   - Targeting Computer
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7)
 - **Battle Value:** 2876
 

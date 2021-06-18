@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3601/wyvern-iic-standard)
 - **Battle Value:** 1624
 
 ## Wyvern IIC 2
@@ -38,6 +38,6 @@
 - **Equipment:**
   - Machine Gun Array
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3602/wyvern-iic-2)
 - **Battle Value:** 1524
 

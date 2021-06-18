@@ -11,7 +11,7 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3205/thug-thg-11e)
 - **Battle Value:** 1640
 
 ## Thug THG-11Eb
@@ -26,7 +26,7 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3206/thug-thg-11eb)
 - **Battle Value:** 1759
 
 ## Thug THG-11ECX (Jose)
@@ -43,7 +43,7 @@
 - **Equipment:**
   - Command Console
   - Null-Signature System
-- **Source:** XTRO Gunslingers - Star League
+- **Sources:** XTRO Gunslingers - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7322/thug-thg-11ecx-jose)
 - **Battle Value:** 1720
 
 ## Thug THG-10E
@@ -56,7 +56,7 @@
 - **Weapons:**
   - PPC × 2
   - SRM 4 × 2 (ammo: 25)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3204/thug-thg-10e)
 - **Battle Value:** 1501
 
 ## Thug THG-12E
@@ -72,7 +72,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3207/thug-thg-12e)
 - **Battle Value:** 1751
 
 ## Thug THG-12K
@@ -89,7 +89,7 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3208/thug-thg-12k)
 - **Battle Value:** 1824
 
 ## Thug THG-13K
@@ -104,7 +104,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3209/thug-thg-13k)
 - **Battle Value:** 2086
 
 ## Thug THG-11E (Reich)
@@ -120,7 +120,7 @@
   - Clan Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** FM:Mercenaries SII - Jihad
+- **Sources:** FM:Mercenaries SII - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5228/thug-thg-11e-reich)
 - **Battle Value:** 2612
 
 ## Thug THG-13U
@@ -137,6 +137,6 @@
 - **Equipment:**
   - CASE II
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u)
 - **Battle Value:** 2545
 

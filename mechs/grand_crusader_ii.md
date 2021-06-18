@@ -16,7 +16,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1254/grand-crusader-ii-grn-d-03)
 - **Battle Value:** 2276
 
 ## Grand Crusader II GRN-D-04
@@ -36,6 +36,6 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1255/grand-crusader-ii-grn-d-04)
 - **Battle Value:** 2292
 

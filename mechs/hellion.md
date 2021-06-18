@@ -13,7 +13,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4306/hellion-prime)
 - **Battle Value:** 1873
 
 ## Hellion A
@@ -29,7 +29,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4303/hellion-a)
 - **Battle Value:** 1543
 
 ## Hellion B
@@ -45,7 +45,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - MASC
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4304/hellion-b)
 - **Battle Value:** 1569
 
 ## Hellion C
@@ -62,7 +62,7 @@
   - MASC
   - CASE
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4305/hellion-c)
 - **Battle Value:** 2095
 
 ## Hellion D
@@ -79,7 +79,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5657/hellion-d)
 - **Battle Value:** 1761
 
 ## Hellion E
@@ -99,7 +99,7 @@
   - ECM Suite
   - MASC
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5658/hellion-e)
 - **Battle Value:** 1292
 
 ## Hellion F
@@ -119,6 +119,7 @@
   - Active Probe
   - MASC
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5659/hellion-f)
 - **Battle Value:** 1594
 
 ## Hellion G
@@ -135,6 +136,6 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6939/hellion-g)
 - **Battle Value:** 1513
 

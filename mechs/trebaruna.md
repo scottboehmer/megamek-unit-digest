@@ -14,7 +14,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3292/trebaruna-tr-xb)
 - **Battle Value:** 2223
 
 ## Trebaruna TR-XJ
@@ -31,7 +31,7 @@
   - Snub-Nose PPC × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3293/trebaruna-tr-xj)
 - **Battle Value:** 2270
 
 ## Trebaruna TR-XL
@@ -47,7 +47,7 @@
   - Plasma Rifle × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3294/trebaruna-tr-xl)
 - **Battle Value:** 2244
 
 ## Trebaruna TR-XH
@@ -63,6 +63,6 @@
   - ER PPC
 - **Equipment:**
   - Quad Turret
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6834/trebaruna-tr-xh)
 - **Battle Value:** 2453
 

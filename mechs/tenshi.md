@@ -15,7 +15,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - Supercharger
-- **Source:** TRO 3145 Draconis Combine - Late Republic
+- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6421/tenshi-tn-10-o)
 - **Battle Value:** 2542
 
 ## Tenshi TN-10-OA
@@ -32,7 +32,7 @@
 - **Equipment:**
   - CASE II
   - Coolant Pod × 2
-- **Source:** TRO 3145 Draconis Combine - Late Republic
+- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6422/tenshi-tn-10-oa)
 - **Battle Value:** 1829
 
 ## Tenshi TN-10-OB
@@ -49,7 +49,7 @@
   - Heavy PPC
   - Streak SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser × 2
-- **Source:** TRO 3145 Draconis Combine - Late Republic
+- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6423/tenshi-tn-10-ob)
 - **Battle Value:** 3002
 
 ## Tenshi TN-10-OR
@@ -63,6 +63,6 @@
 - **Weapons:**
   - ELRM 20 × 2 (ammo: 24)
   - Clan ER Medium Laser × 5
-- **Source:** TRO 3145 Draconis Combine - Late Republic
+- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6424/tenshi-tn-10-or)
 - **Battle Value:** 2183
 

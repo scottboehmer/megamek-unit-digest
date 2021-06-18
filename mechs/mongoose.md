@@ -11,7 +11,7 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2208/mongoose-mon-66)
 - **Battle Value:** 758
 
 ## Mongoose MON-66b
@@ -27,7 +27,7 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2209/mongoose-mon-66b)
 - **Battle Value:** 934
 
 ## Mongoose MON-66GX (Gunslinger)
@@ -43,7 +43,7 @@
 - **Equipment:**
   - Null-Signature System
   - Chameleon LPS
-- **Source:** XTRO Gunslingers - Star League
+- **Sources:** XTRO Gunslingers - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7318/mongoose-gunslinger-mon-66gx)
 - **Battle Value:** 887
 
 ## Mongoose MON-69
@@ -57,7 +57,7 @@
   - Medium Laser × 3
   - SRM 2 (ammo: 50)
   - Small Laser
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4656/mongoose-mon-69)
 - **Battle Value:** 737
 
 ## Mongoose MON-70
@@ -70,7 +70,7 @@
 - **Weapons:**
   - Medium Laser × 3
   - Flamer × 2
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2213/mongoose-mon-70)
 - **Battle Value:** 750
 
 ## Mongoose MON-67
@@ -83,7 +83,7 @@
 - **Weapons:**
   - Medium Laser × 3
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2210/mongoose-mon-67)
 - **Battle Value:** 741
 
 ## Mongoose C
@@ -99,7 +99,7 @@
   - ER Small Laser
 - **Equipment:**
   - Active Probe
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7603/mongoose-c)
 - **Battle Value:** 1386
 
 ## Mongoose C 2
@@ -116,7 +116,7 @@
 - **Equipment:**
   - Active Probe
   - Targeting Computer
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7604/mongoose-c-2)
 - **Battle Value:** 1620
 
 ## Mongoose MON-68
@@ -128,7 +128,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Large Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4655/mongoose-mon-68)
 - **Battle Value:** 676
 
 ## Mongoose MON-76
@@ -144,7 +144,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2214/mongoose-mon-76)
 - **Battle Value:** 894
 
 ## Mongoose MON-86
@@ -161,7 +161,7 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2215/mongoose-mon-86)
 - **Battle Value:** 887
 
 ## Mongoose MON-96
@@ -177,6 +177,6 @@
 - **Equipment:**
   - Bloodhound Active Probe
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7724/mongoose-mon-96)
 - **Battle Value:** 1011
 

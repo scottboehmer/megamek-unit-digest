@@ -11,7 +11,7 @@
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
   - Medium Laser × 3
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5139/stinger-lam-stg-a5)
 - **Battle Value:** 1073
 
 ## Stinger LAM STG-A10
@@ -27,6 +27,6 @@
 - **Weapons:**
   - Medium Laser
   - Small Laser × 4
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5138/stinger-lam-stg-a10)
 - **Battle Value:** 881
 

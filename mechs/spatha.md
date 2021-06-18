@@ -14,7 +14,7 @@
   - Sword
 - **Equipment:**
   - Laser Anti-Missile System
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2998/spatha-sp1-x)
 - **Battle Value:** 2222
 
 ## Spatha SP2-X 'Warlord'
@@ -34,5 +34,6 @@
   - Angel ECM Suite
   - Laser Anti-Missile System
   - Blue Shield PFD
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2999/spatha-sp2-x-warlord)
 - **Battle Value:** 1973
 

@@ -11,7 +11,7 @@
   - ER Medium Laser × 5
   - SRM 6 (ammo: 15)
   - Machine Gun (ammo: 100)
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4763/osiris-osr-3d)
 - **Battle Value:** 1138
 
 ## Osiris OSR-4D
@@ -25,7 +25,7 @@
 - **Weapons:**
   - ER Medium Laser × 5
   - Medium Pulse Laser
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4764/osiris-osr-4d)
 - **Battle Value:** 1230
 
 ## Osiris OSR-5D
@@ -39,6 +39,6 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Heavy PPC
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5660/osiris-osr-5d)
 - **Battle Value:** 1226
 

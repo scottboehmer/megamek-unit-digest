@@ -13,7 +13,7 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2340/orion-iic-standard)
 - **Battle Value:** 2392
 
 ## Orion IIC 'Burton'
@@ -33,6 +33,6 @@
   - Laser Anti-Missile System
   - Light Active Probe
   - CASE
-- **Source:** OTP Capellan - Dark Age
+- **Sources:** OTP Capellan - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7403/orion-iic-burton)
 - **Battle Value:** 2746
 

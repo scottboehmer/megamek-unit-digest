@@ -12,7 +12,7 @@
   - ECM Suite
   - A-Pod × 4
   - CASE
-- **Source:** RS:3067U
+- **Sources:** RS:3067U, [Master Unit List](http://masterunitlist.info/Unit/Details/5691/bowman-4)
 - **Battle Value:** 1657
 
 ## Bowman (Standard)
@@ -30,7 +30,7 @@
   - ECM Suite
   - A-Pod × 4
   - CASE
-- **Source:** RS 3068 - Late Succession War - LosTech
+- **Sources:** RS 3068 - Late Succession War - LosTech, [Master Unit List](http://masterunitlist.info/Unit/Details/3857/bowman-standard)
 - **Battle Value:** 2209
 
 ## Bowman 2
@@ -48,7 +48,7 @@
   - ECM Suite
   - A-Pod × 4
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/3858/bowman-2)
 - **Battle Value:** 2567
 
 ## Bowman 3
@@ -67,6 +67,6 @@
   - B-Pod × 2
   - CASE
   - Targeting Computer
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5690/bowman-3)
 - **Battle Value:** 2767
 

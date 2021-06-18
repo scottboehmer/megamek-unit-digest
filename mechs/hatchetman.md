@@ -11,7 +11,7 @@
   - AC/10 (ammo: 20)
   - Medium Laser × 2
   - Hatchet
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1410/hatchetman-hct-3f)
 - **Battle Value:** 854
 
 ## Hatchetman HCT-3F (Austin)
@@ -26,7 +26,7 @@
   - Prototype LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - Medium Laser × 3
   - Hatchet
-- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1411/hatchetman-hct-3f-austin)
 - **Battle Value:** 910
 
 ## Hatchetman HCT-5S
@@ -43,7 +43,7 @@
   - Hatchet
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1413/hatchetman-hct-5s)
 - **Battle Value:** 1039
 
 ## Hatchetman HCT-5S (Austin)
@@ -60,7 +60,7 @@
   - Hatchet
 - **Equipment:**
   - CASE
-- **Source:** Starterbook: Sword and Dragon - Clan Invasion
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1414/hatchetman-hct-5s-austin)
 - **Battle Value:** 1174
 
 ## Hatchetman HCT-5D
@@ -77,7 +77,7 @@
   - Hatchet
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5445/hatchetman-hct-5d)
 - **Battle Value:** 1012
 
 ## Hatchetman HCT-6D
@@ -94,7 +94,7 @@
   - Hatchet
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1415/hatchetman-hct-6d)
 - **Battle Value:** 1611
 
 ## Hatchetman HCT-6S
@@ -111,7 +111,7 @@
   - Hatchet
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1417/hatchetman-hct-6s)
 - **Battle Value:** 1174
 
 ## Hatchetman HCT-5DD
@@ -128,7 +128,7 @@
   - Hatchet
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd)
 - **Battle Value:** 1112
 
 ## Hatchetman HCT-5K
@@ -147,7 +147,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1412/hatchetman-hct-5k)
 - **Battle Value:** 1070
 
 ## Hatchetman HCT-6M
@@ -164,7 +164,7 @@
   - Hatchet
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1416/hatchetman-hct-6m)
 - **Battle Value:** 1274
 
 ## Hatchetman HCT-7S
@@ -182,7 +182,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1418/hatchetman-hct-7s)
 - **Battle Value:** 1243
 
 ## Hatchetman HCT-7R
@@ -199,7 +199,7 @@
   - Hatchet
 - **Equipment:**
   - AES × 2
-- **Source:** XTRO Republic I - Late Republic
+- **Sources:** XTRO Republic I - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7295/hatchetman-hct-7r)
 - **Battle Value:** 1521
 
 ## Hatchetman HCT-8S
@@ -217,6 +217,6 @@
 - **Equipment:**
   - AES
   - CASE
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s)
 - **Battle Value:** 1479
 

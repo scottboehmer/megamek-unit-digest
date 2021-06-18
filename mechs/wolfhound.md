@@ -9,7 +9,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3560/wolfhound-wlf-1)
 - **Battle Value:** 949
 
 ## Wolfhound WLF-1A
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 3
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3561/wolfhound-wlf-1a)
 - **Battle Value:** 967
 
 ## Wolfhound WLF-1B
@@ -35,7 +35,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3562/wolfhound-wlf-1b)
 - **Battle Value:** 967
 
 ## Wolfhound WLF-2
@@ -48,7 +48,7 @@
 - **Weapons:**
   - ER Large Laser
   - Medium Laser × 4
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3563/wolfhound-wlf-2)
 - **Battle Value:** 1061
 
 ## Wolfhound WLF-1 (Allard)
@@ -64,7 +64,7 @@
   - Clan ER Small Laser
 - **Equipment:**
   - Clan Targeting Computer
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5416/wolfhound-wlf-1-allard)
 - **Battle Value:** 1941
 
 ## Wolfhound WLF-3S
@@ -78,7 +78,7 @@
   - ER PPC
   - ER Medium Laser × 3
   - ER Small Laser
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3566/wolfhound-wlf-3s)
 - **Battle Value:** 1176
 
 ## Wolfhound WLF-4W
@@ -92,7 +92,7 @@
   - Light PPC × 3
   - ER Medium Laser
   - ER Small Laser
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3567/wolfhound-wlf-4w)
 - **Battle Value:** 1090
 
 ## Wolfhound WLF-4WA
@@ -106,7 +106,7 @@
   - Light PPC × 3
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3568/wolfhound-wlf-4wa)
 - **Battle Value:** 1050
 
 ## Wolfhound WLF-2X
@@ -123,7 +123,7 @@
 - **Equipment:**
   - AES
   - Supercharger
-- **Source:** XTR Mercs - Jihad
+- **Sources:** XTR Mercs - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3564/wolfhound-wlf-2x)
 - **Battle Value:** 1842
 
 ## Wolfhound WLF-3M
@@ -135,7 +135,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light Gauss Rifle (ammo: 16)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3565/wolfhound-wlf-3m)
 - **Battle Value:** 786
 
 ## Wolfhound WLF-5
@@ -150,7 +150,7 @@
   - Light PPC × 2
 - **Equipment:**
   - MASC
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5)
 - **Battle Value:** 1290
 
 ## Wolfhound WLF-2H
@@ -166,5 +166,6 @@
   - ER Small Laser
 - **Equipment:**
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417/wolfhound-wlf-2h)
 - **Battle Value:** 1511
 

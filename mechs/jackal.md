@@ -11,7 +11,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1653/jackal-ja-kl-1532)
 - **Battle Value:** 918
 
 ## Jackal JA-KL-55
@@ -26,7 +26,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1655/jackal-ja-kl-55)
 - **Battle Value:** 1034
 
 ## Jackal JA-KL-1579
@@ -41,6 +41,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - Anti-Missile System (ammo: 12)
-- **Source:** XTRO Marik - Jihad
+- **Sources:** XTRO Marik - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1654/jackal-ja-kl-1579)
 - **Battle Value:** 1269
 

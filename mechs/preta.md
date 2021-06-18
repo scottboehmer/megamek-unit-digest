@@ -15,7 +15,7 @@
   - Anti-Missile System (ammo: 12)
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2573/preta-c-prt-o-invictus)
 - **Battle Value:** 1064
 
 ## Preta C-PRT-OA Dominus
@@ -32,7 +32,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2574/preta-c-prt-oa-dominus)
 - **Battle Value:** 1302
 
 ## Preta C-PRT-OB Infernus
@@ -49,7 +49,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2575/preta-c-prt-ob-infernus)
 - **Battle Value:** 1338
 
 ## Preta C-PRT-OC Comminus
@@ -68,7 +68,7 @@
   - Beagle Active Probe
   - C3i
   - TAG
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2576/preta-c-prt-oc-comminus)
 - **Battle Value:** 1187
 
 ## Preta C-PRT-OD Luminos
@@ -86,7 +86,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2577/preta-c-prt-od-luminos)
 - **Battle Value:** 1158
 
 ## Preta C-PRT-O (Kendali)
@@ -104,7 +104,7 @@
 - **Equipment:**
   - C3i
   - TAG
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2572/preta-c-prt-o-kendali)
 - **Battle Value:** 999
 
 ## Preta C-PRT-OE Eminus
@@ -122,7 +122,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2578/preta-c-prt-oe-eminus)
 - **Battle Value:** 1211
 
 ## Preta C-PRT-OS Caelestis
@@ -139,6 +139,7 @@
   - Clan ER Medium Pulse Laser × 2
 - **Equipment:**
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2579/preta-c-prt-os-caelestis)
 - **Battle Value:** 1566
 
 ## Preta C-PRT-OU Exanimus
@@ -157,6 +158,6 @@
 - **Equipment:**
   - Laser Anti-Missile System
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2580/preta-c-prt-ou-exanimus)
 - **Battle Value:** 1052
 

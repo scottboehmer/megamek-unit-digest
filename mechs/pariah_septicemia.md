@@ -12,7 +12,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3075- Jihad
+- **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5024/pariah-septicemia-prime)
 - **Battle Value:** 2511
 
 ## Septicemia "Pariah" A
@@ -27,7 +27,7 @@
   - Heavy Small Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075- Jihad
+- **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5019/pariah-septicemia-a)
 - **Battle Value:** 1935
 
 ## Septicemia "Pariah" A-Z
@@ -44,7 +44,7 @@
   - Nova CEWS
   - Light TAG
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5812/pariah-septicemia-a-z)
 - **Battle Value:** 2388
 
 ## Septicemia "Pariah" B
@@ -60,7 +60,7 @@
   - Small Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3075- Jihad
+- **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5020/pariah-septicemia-b)
 - **Battle Value:** 2310
 
 ## Septicemia "Pariah" B-Z
@@ -78,7 +78,7 @@
   - Nova CEWS
   - Targeting Computer
   - Light TAG
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5813/pariah-septicemia-b-z)
 - **Battle Value:** 2349
 
 ## Septicemia "Pariah" C
@@ -96,7 +96,7 @@
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
-- **Source:** TRO 3075- Jihad
+- **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5021/pariah-septicemia-c)
 - **Battle Value:** 2227
 
 ## Septicemia "Pariah" C-Z
@@ -115,7 +115,7 @@
   - Nova CEWS
   - Machine Gun Array × 2
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5814/pariah-septicemia-c-z)
 - **Battle Value:** 2264
 
 ## Septicemia "Pariah" D
@@ -133,7 +133,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3075- Jihad
+- **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5022/pariah-septicemia-d)
 - **Battle Value:** 2718
 
 ## Septicemia "Pariah" D-Z
@@ -151,7 +151,7 @@
   - Nova CEWS
   - Targeting Computer
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5815/pariah-septicemia-d-z)
 - **Battle Value:** 2704
 
 ## Septicemia "Pariah" E
@@ -168,7 +168,7 @@
   - Nova CEWS
   - Light TAG
   - Targeting Computer
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5023/pariah-septicemia-e)
 - **Battle Value:** 2950
 
 ## Septicemia "Pariah" F
@@ -182,7 +182,7 @@
   - Arrow IV × 2 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5816/pariah-septicemia-f)
 - **Battle Value:** 1389
 
 ## Septicemia "Pariah" US
@@ -202,7 +202,7 @@
   - ECM Suite
   - Talons
   - Liquid Cargo × 2
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us)
 - **Battle Value:** 2298
 
 ## Septicemia "Pariah" UW
@@ -220,7 +220,7 @@
   - Inner Sphere MASS
   - Inner Sphere HarJel × 5
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5818/pariah-septicemia-uw)
 - **Battle Value:** 1913
 
 ## Septicemia "Pariah" Z
@@ -237,6 +237,6 @@
 - **Equipment:**
   - CASE
   - Ground-Mobile HPG
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5819/pariah-septicemia-z)
 - **Battle Value:** 2072
 

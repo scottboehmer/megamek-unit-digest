@@ -11,7 +11,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1841/kraken-bane-standard)
 - **Battle Value:** 1950
 
 ## Bane 2 "Kraken"
@@ -26,7 +26,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2)
 - **Battle Value:** 2502
 
 ## Bane 3 "Kraken"
@@ -41,7 +41,7 @@
   - Streak SRM 4 (iOS)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1843/kraken-bane-3)
 - **Battle Value:** 2941
 
 ## Bane 4 "Kraken"
@@ -57,6 +57,6 @@
   - ATM 6 × 3 (ammo: 20 Standard, 10 ER, 10 HE)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1844/kraken-bane-4)
 - **Battle Value:** 2709
 

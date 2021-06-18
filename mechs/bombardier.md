@@ -12,7 +12,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/423/bombardier-bmb-12d)
 - **Battle Value:** 1480
 
 ## Bombardier BMB-10D
@@ -26,7 +26,7 @@
   - LRM 20 × 2 (ammo: 12)
   - SRM 4 (ammo: 25)
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/422/bombardier-bmb-10d)
 - **Battle Value:** 1340
 
 ## Bombardier BMB-14C
@@ -42,7 +42,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/424/bombardier-bmb-14c)
 - **Battle Value:** 1549
 
 ## Bombardier BMB-05A
@@ -59,7 +59,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/421/bombardier-bmb-05a)
 - **Battle Value:** 1440
 
 ## Bombardier BMB-14K
@@ -75,6 +75,6 @@
 - **Equipment:**
   - Machine Gun Array
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/425/bombardier-bmb-14k)
 - **Battle Value:** 1235
 

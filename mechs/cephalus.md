@@ -13,7 +13,7 @@
   - Inner Sphere Chameleon LPS
   - Light TAG
   - Modular Armor × 3
-- **Source:** WoR - Jihad Supplement
+- **Sources:** WoR - Jihad Supplement, [Master Unit List](http://masterunitlist.info/Unit/Details/3930/cephalus-prime)
 - **Battle Value:** 1038
 
 ## Cephalus A
@@ -30,7 +30,7 @@
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
   - TAG
-- **Source:** WoR - Jihad Supplement
+- **Sources:** WoR - Jihad Supplement, [Master Unit List](http://masterunitlist.info/Unit/Details/3929/cephalus-a)
 - **Battle Value:** 809
 
 ## Cephalus B
@@ -48,7 +48,7 @@
   - Inner Sphere Chameleon LPS
   - CASE
   - Light TAG
-- **Source:** WoR - Jihad Supplement
+- **Sources:** WoR - Jihad Supplement, [Master Unit List](http://masterunitlist.info/Unit/Details/5638/cephalus-b)
 - **Battle Value:** 785
 
 ## Cephalus C
@@ -65,7 +65,7 @@
   - Nova CEWS
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-- **Source:** WoR - Jihad Supplement
+- **Sources:** WoR - Jihad Supplement, [Master Unit List](http://masterunitlist.info/Unit/Details/5639/cephalus-c)
 - **Battle Value:** 1209
 
 ## Cephalus D
@@ -82,7 +82,7 @@
   - Nova CEWS
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
-- **Source:** WoR - Jihad Supplement
+- **Sources:** WoR - Jihad Supplement, [Master Unit List](http://masterunitlist.info/Unit/Details/5640/cephalus-d)
 - **Battle Value:** 1460
 
 ## Cephalus E
@@ -99,7 +99,7 @@
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
   - Light TAG
-- **Source:** WoR - Jihad Supplement
+- **Sources:** WoR - Jihad Supplement, [Master Unit List](http://masterunitlist.info/Unit/Details/5641/cephalus-e)
 - **Battle Value:** 1284
 
 ## Cephalus U
@@ -117,6 +117,6 @@
   - Inner Sphere Null-Signature System
   - Inner Sphere Chameleon LPS
   - CASE
-- **Source:** WoR - Jihad Supplement
+- **Sources:** WoR - Jihad Supplement, [Master Unit List](http://masterunitlist.info/Unit/Details/5642/cephalus-u)
 - **Battle Value:** 878
 

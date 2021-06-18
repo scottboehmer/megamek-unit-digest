@@ -12,7 +12,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Capellan Confederation - Late Republic
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6457/calliope-cal-1maf)
 - **Battle Value:** 1125
 
 ## Calliope CAL-1MAFSW 'Snow White'

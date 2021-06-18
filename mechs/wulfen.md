@@ -14,7 +14,7 @@
   - ECM Suite
   - CASE II
   - Cargo
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6256/wulfen-prime)
 - **Battle Value:** 983
 
 ## Wulfen A
@@ -29,7 +29,7 @@
   - ER PPC
 - **Equipment:**
   - ECM Suite
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6257/wulfen-a)
 - **Battle Value:** 1615
 
 ## Wulfen B
@@ -47,7 +47,7 @@
   - ECM Suite
   - Targeting Computer
   - Supercharger
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6258/wulfen-b)
 - **Battle Value:** 1806
 
 ## Wulfen C
@@ -64,7 +64,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6259/wulfen-c)
 - **Battle Value:** 1334
 
 ## Wulfen D
@@ -81,7 +81,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE II
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6260/wulfen-d)
 - **Battle Value:** 859
 
 ## Wulfen E
@@ -101,7 +101,7 @@
   - Supercharger
   - Targeting Computer
   - CASE II
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6261/wulfen-e)
 - **Battle Value:** 1839
 
 ## Wulfen H
@@ -117,6 +117,6 @@
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - ECM Suite
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6262/wulfen-h)
 - **Battle Value:** 1563
 

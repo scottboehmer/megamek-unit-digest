@@ -13,6 +13,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/38/annihilator-anh-1x)
 - **Battle Value:** 1926
 
 ## Annihilator ANH-1G
@@ -25,6 +26,7 @@
 - **Weapons:**
   - Gauss Rifle × 3 (ammo: 48)
   - ER PPC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/37/annihilator-anh-1g)
 - **Battle Value:** 2274
 
 ## Annihilator C 'Gausszilla'
@@ -38,6 +40,7 @@
   - Gauss Rifle × 5 (ammo: 64)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/44/annihilator-c-gausszilla)
 - **Battle Value:** 2455
 
 ## Annihilator C
@@ -52,7 +55,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/43/annihilator-c)
 - **Battle Value:** 2520
 
 ## Annihilator C 2
@@ -68,6 +71,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45/annihilator-c-2)
 - **Battle Value:** 2722
 
 ## Annihilator ANH-1A
@@ -80,7 +84,7 @@
 - **Weapons:**
   - AC/10 × 4 (ammo: 40)
   - Medium Laser × 4
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3700/annihilator-anh-1a)
 - **Battle Value:** 1434
 
 ## Annihilator ANH-1E
@@ -93,6 +97,7 @@
 - **Weapons:**
   - PPC × 4
   - Medium Laser × 4
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/36/annihilator-anh-1e)
 - **Battle Value:** 1625
 
 ## Annihilator ANH-2A
@@ -107,7 +112,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/39/annihilator-anh-2a)
 - **Battle Value:** 1595
 
 ## Annihilator ANH-3A
@@ -124,7 +129,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/41/annihilator-anh-3a)
 - **Battle Value:** 1712
 
 ## Annihilator ANH-4A
@@ -139,7 +144,7 @@
   - Heavy PPC × 2
   - LB 10-X AC × 2 (ammo: 40)
   - Light AC/2 × 2 (ammo: 90)
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/42/annihilator-anh-4a)
 - **Battle Value:** 1726
 
 ## Annihilator ANH-2AX
@@ -155,5 +160,6 @@
   - Improved Heavy Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40/annihilator-anh-2ax)
 - **Battle Value:** 2553
 

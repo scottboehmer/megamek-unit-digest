@@ -14,7 +14,7 @@
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2225/morpheus-mr-p1)
 - **Battle Value:** 1340
 
 ## Morpheus MRP-3S
@@ -32,7 +32,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Spikes × 2
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2226/morpheus-mrp-3s)
 - **Battle Value:** 1437
 
 ## Morpheus MRP-3T
@@ -47,7 +47,7 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - Laser Anti-Missile System
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2227/morpheus-mrp-3t)
 - **Battle Value:** 1925
 
 ## Morpheus MRP-3W
@@ -66,6 +66,6 @@
   - Guardian ECM Suite
   - MASS
   - Spikes × 2
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2228/morpheus-mrp-3w)
 - **Battle Value:** 1299
 

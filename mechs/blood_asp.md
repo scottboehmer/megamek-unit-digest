@@ -13,7 +13,7 @@
   - Heavy Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/406/blood-asp-prime)
 - **Battle Value:** 2654
 
 ## Blood Asp A
@@ -30,7 +30,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/399/blood-asp-a)
 - **Battle Value:** 3452
 
 ## Blood Asp B
@@ -47,7 +47,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/400/blood-asp-b)
 - **Battle Value:** 2885
 
 ## Blood Asp C
@@ -63,7 +63,7 @@
   - Ultra AC/10 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/401/blood-asp-c)
 - **Battle Value:** 2270
 
 ## Blood Asp D
@@ -80,7 +80,7 @@
   - Ultra AC/2 × 3 (ammo: 45)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/402/blood-asp-d)
 - **Battle Value:** 2396
 
 ## Blood Asp E
@@ -98,7 +98,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/403/blood-asp-e)
 - **Battle Value:** 3179
 
 ## Blood Asp F
@@ -116,7 +116,7 @@
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/404/blood-asp-f)
 - **Battle Value:** 2908
 
 ## Blood Asp G
@@ -134,6 +134,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/405/blood-asp-g)
 - **Battle Value:** 3270
 

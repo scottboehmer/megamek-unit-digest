@@ -12,7 +12,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7491/shadow-cat-iii-prime)
 - **Battle Value:** 2021
 
 ## Shadow Cat III A
@@ -27,7 +27,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - MASC
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7492/shadow-cat-iii-a)
 - **Battle Value:** 2005
 
 ## Shadow Cat III B
@@ -47,7 +47,7 @@
   - MASC
   - CASE
   - Targeting Computer
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7493/shadow-cat-iii-b)
 - **Battle Value:** 2183
 
 ## Shadow Cat III C
@@ -64,6 +64,6 @@
   - MASC
   - CASE
   - Supercharger
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7494/shadow-cat-iii-c)
 - **Battle Value:** 2153
 

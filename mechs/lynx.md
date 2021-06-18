@@ -11,7 +11,7 @@
   - ER PPC
   - Large Laser
   - Medium Laser × 4
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1968/lynx-lnx-9q)
 - **Battle Value:** 1725
 
 ## Lynx C
@@ -28,7 +28,7 @@
   - ER Large Laser
   - ER Medium Laser × 2
   - ER Small Laser
-- **Source:** Succesion Wars
+- **Sources:** Succesion Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7620/lynx-c)
 - **Battle Value:** 2712
 
 ## Lynx LNX-8Q
@@ -41,7 +41,7 @@
 - **Weapons:**
   - Large Laser × 2
   - Medium Laser × 2
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1966/lynx-lnx-8q)
 - **Battle Value:** 1292
 
 ## Lynx LNX-9R
@@ -56,7 +56,7 @@
   - ER PPC
   - ER Large Laser
   - Medium Laser × 4
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1969/lynx-lnx-9r)
 - **Battle Value:** 1755
 
 ## Lynx LNX-9C
@@ -71,6 +71,6 @@
   - ER PPC
   - Medium Laser × 4
   - Streak SRM 2 × 2 (ammo: 100)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1967/lynx-lnx-9c)
 - **Battle Value:** 1630
 

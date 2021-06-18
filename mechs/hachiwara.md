@@ -14,7 +14,7 @@
   - M-Pod × 4
   - CASE
   - Supercharger
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1360/hachiwara-hca-3t)
 - **Battle Value:** 1646
 
 ## Hachiwara HCA-4T
@@ -34,7 +34,7 @@
   - Spikes × 3
   - Supercharger
   - CASE II
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1361/hachiwara-hca-4t)
 - **Battle Value:** 1728
 
 ## Hachiwara HCA-4U
@@ -53,7 +53,7 @@
   - M-Pod × 4
   - Supercharger
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1362/hachiwara-hca-4u)
 - **Battle Value:** 1786
 
 ## Hachiwara HCA-6P
@@ -70,6 +70,6 @@
   - Lance
 - **Equipment:**
   - Spikes × 3
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1363/hachiwara-hca-6p)
 - **Battle Value:** 2385
 

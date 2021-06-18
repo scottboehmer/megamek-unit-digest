@@ -8,7 +8,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Small Laser × 5
-- **Source:** Source:TRO 3039 - Star League
+- **Sources:** Source:TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/559/charger-cgr-1a1)
 - **Battle Value:** 981
 
 ## Charger CGR-1L
@@ -21,7 +21,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/562/charger-cgr-1l)
 - **Battle Value:** 980
 
 ## Charger CGR-1A5
@@ -36,7 +36,7 @@
   - SRM 6 × 2 (ammo: 15)
   - Medium Laser
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/560/charger-cgr-1a5)
 - **Battle Value:** 1468
 
 ## Charger CGR-SB 'Challenger'
@@ -49,7 +49,7 @@
 - **Weapons:**
   - Large Laser × 4
   - Medium Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger)
 - **Battle Value:** 1604
 
 ## Charger CGR-1A9
@@ -64,7 +64,7 @@
   - LRM 20 (ammo: 12)
   - Medium Laser × 4
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/561/charger-cgr-1a9)
 - **Battle Value:** 1397
 
 ## Charger CGR-3K
@@ -80,7 +80,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/565/charger-cgr-3k)
 - **Battle Value:** 1656
 
 ## Charger CGR-C
@@ -97,7 +97,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/567/charger-cgr-c)
 - **Battle Value:** 1592
 
 ## Charger CGR-SA5
@@ -114,7 +114,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/569/charger-cgr-sa5)
 - **Battle Value:** 2105
 
 ## Charger CGR-2A2
@@ -127,7 +127,7 @@
 - **Weapons:**
   - Medium Laser
   - Rocket 10 × 5
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/564/charger-cgr-2a2)
 - **Battle Value:** 1109
 
 ## Charger CGR-KMZ
@@ -145,7 +145,7 @@
   - Sword
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/568/charger-cgr-kmz)
 - **Battle Value:** 1781
 
 ## Charger CGR-1X1
@@ -167,7 +167,7 @@
   - C3 Boosted Slave
   - MASC
   - TAG
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1)
 - **Battle Value:** 2009
 
 ## Charger CGR-3Kr
@@ -189,6 +189,6 @@
   - Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/566/charger-cgr-3kr)
 - **Battle Value:** 2121
 

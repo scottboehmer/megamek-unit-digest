@@ -11,7 +11,7 @@
   - Lift Hoist × 2
   - Cargo
   - Enviro-Sealing
-- **Source:** RS VA
+- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/5321/uni-atae-70-cargomech)
 - **Battle Value:** unknown
 
 ## Uni ATAE-70 MilitiaMech
@@ -26,6 +26,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Enviro-Sealing
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6977/uni-atae-70m-miltiamech)
 - **Battle Value:** unknown
 
 ## Uni ATAE-70T CargoMech
@@ -41,6 +42,6 @@
   - Lift Hoist × 2
   - Cargo × 2
   - Cargo Container
-- **Source:** RS VA
+- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7175/uni-atae-70t-cargomech)
 - **Battle Value:** 533
 

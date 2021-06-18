@@ -11,7 +11,7 @@
   - Medium Pulse Laser × 4
   - Medium Laser × 6
   - Small Laser × 2
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/345/black-hawk-ku-bhku-o)
 - **Battle Value:** 1731
 
 ## Black Hawk-KU BHKU-OA
@@ -26,7 +26,7 @@
   - ER PPC × 2
 - **Equipment:**
   - Anti-Missile System × 2 (ammo: 24)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/347/black-hawk-ku-bhku-oa)
 - **Battle Value:** 1770
 
 ## Black Hawk-KU BHKU-OB
@@ -40,7 +40,7 @@
 - **Weapons:**
   - Large Pulse Laser
   - Ultra AC/5 (ammo: 20)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/348/black-hawk-ku-bhku-ob)
 - **Battle Value:** 1303
 
 ## Black Hawk-KU BHKU-OC
@@ -54,7 +54,7 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 8)
   - Medium Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/349/black-hawk-ku-bhku-oc)
 - **Battle Value:** 1597
 
 ## Black Hawk-KU BHKU-OD
@@ -68,7 +68,7 @@
 - **Weapons:**
   - LRM 20 (ammo: 12)
   - ER Large Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/350/black-hawk-ku-bhku-od)
 - **Battle Value:** 1539
 
 ## Black Hawk-KU BHKU-OX
@@ -84,7 +84,7 @@
 - **Equipment:**
   - Coolant Pod × 2
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/354/black-hawk-ku-bhku-ox)
 - **Battle Value:** 1941
 
 ## Black Hawk-KU BHKU-OR
@@ -100,7 +100,7 @@
   - Clan Streak SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3825/black-hawk-ku-bhku-or)
 - **Battle Value:** 2193
 
 ## Black Hawk-KU BHKU-OE
@@ -113,7 +113,7 @@
 - **Heat Sinks:** 19 (38)
 - **Weapons:**
   - ER Medium Laser × 12
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/351/black-hawk-ku-bhku-oe)
 - **Battle Value:** 1982
 
 ## Black Hawk-KU BHKU-OF
@@ -129,7 +129,7 @@
   - Light PPC × 2
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/352/black-hawk-ku-bhku-of)
 - **Battle Value:** 1759
 
 ## Black Hawk-KU BHKU-O (Albert)
@@ -145,6 +145,7 @@
   - Clan ER Medium Laser × 4
 - **Equipment:**
   - C3 Master
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346/black-hawk-ku-bhku-o-albert)
 - **Battle Value:** 2377
 
 ## Black Hawk-KU BHKU-OU
@@ -160,7 +161,7 @@
   - Hatchet
 - **Equipment:**
   - Liquid Cargo
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/353/black-hawk-ku-bhku-ou)
 - **Battle Value:** 1687
 
 ## Black Hawk-KU BHKU-OG
@@ -178,6 +179,6 @@
   - Angel ECM Suite
   - Bloodhound Active Probe
   - TAG
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6890/black-hawk-ku-bhku-og)
 - **Battle Value:** 1719
 

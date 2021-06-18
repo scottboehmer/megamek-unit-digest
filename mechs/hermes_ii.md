@@ -10,7 +10,7 @@
   - AC/5 (ammo: 20)
   - Medium Laser
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1497/hermes-ii-her-2s)
 - **Battle Value:** 784
 
 ## Hermes II HER-2M 'Mercury'
@@ -24,7 +24,7 @@
   - Medium Laser × 3
   - Flamer
   - Machine Gun × 2 (ammo: 100)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1496/hermes-ii-her-2m-mercury)
 - **Battle Value:** 910
 
 ## Hermes II HER-4K 'Hermes III'
@@ -36,7 +36,7 @@
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
   - Large Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1498/hermes-ii-her-4k-hermes-iii)
 - **Battle Value:** 976
 
 ## Hermes II HER-5S
@@ -50,7 +50,7 @@
   - Ultra AC/5 (ammo: 20)
   - Medium Pulse Laser
   - Flamer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1501/hermes-ii-her-5s)
 - **Battle Value:** 857
 
 ## Hermes II HER-5ME 'Mercury Elite'
@@ -62,7 +62,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Light Gauss Rifle (ammo: 32)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1500/hermes-ii-her-5me-mercury-elite)
 - **Battle Value:** 847
 
 ## Hermes II HER-5C
@@ -78,7 +78,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1499/hermes-ii-her-5c)
 - **Battle Value:** 1119
 
 ## Hermes II HER-6D
@@ -92,7 +92,7 @@
   - RAC/5 (ammo: 20)
   - ER Medium Laser
   - Flamer
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1504/hermes-ii-her-6d)
 - **Battle Value:** 1106
 
 ## Hermes II HER-5SA
@@ -106,7 +106,7 @@
   - Large Pulse Laser
   - Ultra AC/5 (ammo: 20)
   - Flamer
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1502/hermes-ii-her-5sa)
 - **Battle Value:** 924
 
 ## Hermes II HER-5Sr
@@ -123,7 +123,7 @@
   - Flamer
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1503/hermes-ii-her-5sr)
 - **Battle Value:** 1242
 
 ## Hermes II HER-7S
@@ -140,6 +140,6 @@
   - Clan ER Flamer
 - **Equipment:**
   - Clan Targeting Computer
-- **Source:** XTRO Marik - Jihad
+- **Sources:** XTRO Marik - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1505/hermes-ii-her-7s)
 - **Battle Value:** 1525
 

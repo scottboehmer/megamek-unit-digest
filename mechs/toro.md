@@ -10,7 +10,7 @@
 - **Weapons:**
   - Large Laser
   - SRM 2 × 2 (ammo: 50)
-- **Source:** XTRO Primitives IV - Age of War
+- **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3276/toro-tr-a-1)
 - **Battle Value:** 671
 
 ## Toro TR-A-6
@@ -23,6 +23,6 @@
 - **Weapons:**
   - PPC
   - LRM 5 × 2 (ammo: 48)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3277/toro-tr-a-6)
 - **Battle Value:** 864
 

@@ -10,7 +10,7 @@
 - **Weapons:**
   - Large Pulse Laser
   - Medium Pulse Laser × 2
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2472/peregrine-horned-owl-standard)
 - **Battle Value:** 1434
 
 ## Horned Owl 2 "Peregrine"
@@ -25,7 +25,7 @@
   - LRM 5 × 6 (ammo: 96)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2473/peregrine-horned-owl-2)
 - **Battle Value:** 1191
 
 ## Horned Owl 3 "Peregrine"
@@ -42,7 +42,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2474/peregrine-horned-owl-3)
 - **Battle Value:** 1545
 
 ## Horned Owl 4 "Peregrine"
@@ -58,7 +58,7 @@
   - ATM 3 × 4 (ammo: 40 Standard, 20 ER)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2475/peregrine-horned-owl-4)
 - **Battle Value:** 1198
 
 ## Horned Owl 5 "Peregrine"
@@ -72,7 +72,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Heavy Medium Laser
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2476/peregrine-horned-owl-5)
 - **Battle Value:** 1523
 
 ## Horned Owl 7 "Peregrine"
@@ -90,7 +90,7 @@
   - Partial Wing
   - Targeting Computer
   - Light TAG
-- **Source:** ilClan Vol 11 - Early Republic
+- **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7749/peregrine-horned-owl-7-shimafukuro)
 - **Battle Value:** 1725
 
 ## Horned Owl 6 "Peregrine"
@@ -105,6 +105,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7748/peregrine-horned-owl-6)
 - **Battle Value:** 1413
 

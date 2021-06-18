@@ -15,7 +15,7 @@
   - ECM Suite
   - MASC
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/369/black-lanner-prime)
 - **Battle Value:** 2268
 
 ## Black Lanner A
@@ -33,7 +33,7 @@
   - Active Probe
   - MASC
   - TAG
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/363/black-lanner-a)
 - **Battle Value:** 2308
 
 ## Black Lanner B
@@ -48,7 +48,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/364/black-lanner-b)
 - **Battle Value:** 1961
 
 ## Black Lanner C
@@ -64,7 +64,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/365/black-lanner-c)
 - **Battle Value:** 2523
 
 ## Black Lanner D
@@ -84,7 +84,7 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/366/black-lanner-d)
 - **Battle Value:** 1809
 
 ## Black Lanner H
@@ -100,7 +100,7 @@
 - **Equipment:**
   - ECM Suite
   - MASC
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/368/black-lanner-h)
 - **Battle Value:** 1928
 
 ## Black Lanner E
@@ -116,7 +116,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/367/black-lanner-e)
 - **Battle Value:** 2331
 
 ## Black Lanner X
@@ -132,6 +132,6 @@
 - **Equipment:**
   - MASC
   - CASE II
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x)
 - **Battle Value:** 1672
 

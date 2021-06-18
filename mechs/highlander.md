@@ -14,7 +14,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1514/highlander-hgn-732)
 - **Battle Value:** 2227
 
 ## Highlander HGN-732b
@@ -32,7 +32,7 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1516/highlander-hgn-732b)
 - **Battle Value:** 2335
 
 ## Highlander HGN-732 (Colleen)
@@ -50,6 +50,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4323/highlander-hgn-732-colleen)
 - **Battle Value:** 2150
 
 ## Highlander HGN-732 (Jorgensson)
@@ -66,7 +67,7 @@
   - LRM 20 w/ Artemis IV (ammo: 0)
 - **Equipment:**
   - CASE
-- **Source:** OTP Widowmaker
+- **Sources:** OTP Widowmaker, [Master Unit List](http://masterunitlist.info/Unit/Details/7309/highlander-hgn-732-jorgensson)
 - **Battle Value:** 2481
 
 ## Highlander HGN-733
@@ -82,7 +83,7 @@
   - AC/10 (ammo: 20)
   - SRM 6 (ammo: 30)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1517/highlander-hgn-733)
 - **Battle Value:** 1801
 
 ## Highlander HGN-733C
@@ -98,7 +99,7 @@
   - AC/20 (ammo: 10)
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1518/highlander-hgn-733c)
 - **Battle Value:** 1857
 
 ## Highlander HGN-733P
@@ -114,7 +115,7 @@
   - PPC
   - SRM 6 (ammo: 30)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1519/highlander-hgn-733p)
 - **Battle Value:** 1865
 
 ## Highlander HGN-736
@@ -133,7 +134,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1521/highlander-hgn-736)
 - **Battle Value:** 2255
 
 ## Highlander HGN-694
@@ -149,7 +150,7 @@
   - Large Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5493/highlander-hgn-694)
 - **Battle Value:** 2358
 
 ## Highlander HGN-734
@@ -168,7 +169,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1520/highlander-hgn-734)
 - **Battle Value:** 2214
 
 ## Highlander HGN-738
@@ -187,7 +188,7 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1522/highlander-hgn-738)
 - **Battle Value:** 2413
 
 ## Highlander HGN-641-X-2
@@ -207,7 +208,7 @@
   - Angel ECM Suite
   - CASE II
   - C3 Slave
-- **Source:** XTRO ComStar - Jihad
+- **Sources:** XTRO ComStar - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5552/highlander-hgn-641-x-2)
 - **Battle Value:** 2152
 
 ## Highlander HGN-740
@@ -226,6 +227,6 @@
 - **Equipment:**
   - M-Pod × 4
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7733/highlander-hgn-740)
 - **Battle Value:** 2232
 

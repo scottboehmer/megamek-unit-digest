@@ -11,6 +11,6 @@
   - LRM 5 × 2 (ammo: 96)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1407/hatamoto-kaze-htm-27v)
 - **Battle Value:** 1595
 

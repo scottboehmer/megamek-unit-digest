@@ -14,6 +14,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7738/butcherbird-ion-sparrow-prime)
 - **Battle Value:** 885
 
 ## Ion Sparrow "Butcherbird" A
@@ -32,7 +33,7 @@
   - Active Probe
   - Partial Wing
   - CASE
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7739/butcherbird-ion-sparrow-a)
 - **Battle Value:** 501
 
 ## Ion Sparrow "Butcherbird" B
@@ -49,7 +50,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7740/butcherbird-ion-sparrow-b)
 - **Battle Value:** 626
 
 ## Ion Sparrow "Butcherbird" C
@@ -66,7 +67,7 @@
 - **Equipment:**
   - Partial Wing
   - Targeting Computer
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7741/butcherbird-ion-sparrow-c)
 - **Battle Value:** 889
 
 ## Ion Sparrow "Butcherbird" D
@@ -83,6 +84,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Partial Wing
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7742/butcherbird-ion-sparrow-d)
 - **Battle Value:** 1121
 

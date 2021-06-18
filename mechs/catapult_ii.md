@@ -11,7 +11,7 @@
   - TSEMP × 2
   - LRM 20 × 2 (ammo: 24)
   - ER Medium Laser × 2
-- **Source:** TRO 3145 Capellan Confederation - Dark Ages
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6464/catapult-ii-cplt-l7)
 - **Battle Value:** 2574
 
 ## Catapult II CPLT-L7L
@@ -25,6 +25,6 @@
 - **Weapons:**
   - Plasma Rifle × 2 (ammo: 20)
   - MML 9 × 2 (ammo: 26 LRM, 22 SRM)
-- **Source:** TRO 3145 Capellan Confederation - Dark Ages
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6465/catapult-ii-cplt-l7l)
 - **Battle Value:** 1656
 

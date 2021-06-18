@@ -13,7 +13,7 @@
 - **Equipment:**
   - Mech Sprayer × 2
   - Liquid Cargo × 2
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4780/pacifier-ccu-36-securitymech)
 - **Battle Value:** 299
 
 ## Pacifier CCU-40 SecurityMech
@@ -30,6 +30,6 @@
   - Mech Sprayer × 2
   - Liquid Cargo × 2
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7824/pacifier-ccu-40-securitymech)
 - **Battle Value:** 356
 

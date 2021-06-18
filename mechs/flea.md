@@ -10,7 +10,7 @@
   - Large Laser
   - Small Laser × 2
   - Flamer
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1140/flea-fle-4)
 - **Battle Value:** 432
 
 ## Flea FLE-14
@@ -23,7 +23,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser
-- **Source:** XTRO Succession Wars - Age of War
+- **Sources:** XTRO Succession Wars - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14)
 - **Battle Value:** 270
 
 ## Flea FLE-15
@@ -38,7 +38,7 @@
   - Small Laser × 2
   - Flamer
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1136/flea-fle-15)
 - **Battle Value:** 430
 
 ## Flea FLE-16
@@ -51,7 +51,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Flamer
-- **Source:** TRO Succession Wars - Age of War
+- **Sources:** TRO Succession Wars - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16)
 - **Battle Value:** 506
 
 ## Flea FLE-17
@@ -67,7 +67,7 @@
   - Flamer
 - **Equipment:**
   - MASC
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1137/flea-fle-17)
 - **Battle Value:** 510
 
 ## Flea 'Fire Ant'
@@ -82,7 +82,7 @@
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - MASC
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1135/flea-fire-ant)
 - **Battle Value:** 332
 
 ## Flea FLE-19
@@ -98,7 +98,7 @@
   - Light Machine Gun × 8 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array × 2
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1138/flea-fle-19)
 - **Battle Value:** 341
 
 ## Flea FLE-20
@@ -114,6 +114,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1139/flea-fle-20)
 - **Battle Value:** 791
 

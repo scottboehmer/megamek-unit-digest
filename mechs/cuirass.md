@@ -14,7 +14,7 @@
   - Sword
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/769/cuirass-cdr-1x)
 - **Battle Value:** 1301
 
 ## Cuirass CDR-2BC
@@ -34,7 +34,7 @@
 - **Equipment:**
   - CASE II
   - C3 Boosted Slave
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6922/cuirass-cdr-2bc3)
 - **Battle Value:** 990
 
 ## Cuirass CDR-2X
@@ -50,6 +50,6 @@
   - Heavy PPC
   - Medium Vibroblade
   - Small Re-Engineered Laser
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6921/cuirass-cdr-2x)
 - **Battle Value:** 1227
 

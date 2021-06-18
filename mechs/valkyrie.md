@@ -10,7 +10,7 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - Medium Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3372/valkyrie-vlk-qa)
 - **Battle Value:** 723
 
 ## Valkyrie VLK-QF
@@ -24,7 +24,7 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3378/valkyrie-vlk-qf)
 - **Battle Value:** 653
 
 ## Valkyrie VLK-QD
@@ -40,7 +40,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3373/valkyrie-vlk-qd)
 - **Battle Value:** 807
 
 ## Valkyrie VLK-QD1
@@ -56,7 +56,7 @@
   - ER Medium Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3374/valkyrie-vlk-qd1)
 - **Battle Value:** 878
 
 ## Valkyrie VLK-QD3
@@ -72,7 +72,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3376/valkyrie-vlk-qd3)
 - **Battle Value:** 882
 
 ## Valkyrie VLK-QS5
@@ -89,7 +89,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3379/valkyrie-vlk-qs5)
 - **Battle Value:** 745
 
 ## Valkyrie VLK-QD2
@@ -105,7 +105,7 @@
   - Light AC/2 × 2 (ammo: 45)
 - **Equipment:**
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2)
 - **Battle Value:** 638
 
 ## Valkyrie VLK-QW5
@@ -123,7 +123,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5)
 - **Battle Value:** 667
 
 ## Valkyrie VLK-QT2
@@ -139,7 +139,7 @@
   - Light PPC
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3380/valkyrie-vlk-qt2)
 - **Battle Value:** 863
 
 ## Valkyrie VLK-QD4
@@ -156,7 +156,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4)
 - **Battle Value:** 657
 
 ## Valkyrie VLK-QD5
@@ -174,7 +174,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8104/valkyrie-vlk-qd5)
 - **Battle Value:** 690
 
 ## Valkyrie VLK-QD6
@@ -191,7 +191,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7703/valkyrie-vlk-qd6)
 - **Battle Value:** 827
 
 ## Valkyrie VLK-QD8
@@ -206,7 +206,7 @@
 - **Weapons:**
   - ELRM 10 (ammo: 18)
   - Light PPC
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8)
 - **Battle Value:** 787
 
 ## Valkyrie VLK-QDD
@@ -223,7 +223,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7702/valkyrie-vlk-qdd)
 - **Battle Value:** 834
 
 ## Valkyrie C
@@ -240,6 +240,6 @@
   - Clan LRM 10 (ammo: 24)
 - **Equipment:**
   - Clan CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7701/valkyrie-c)
 - **Battle Value:** 936
 

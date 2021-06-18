@@ -7,7 +7,7 @@
 - **Armor:** 21 (Industrial)
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7840/exo-hmx-1-haulermech)
 - **Battle Value:** 96
 
 ## Exo HMX-2 HaulerMech
@@ -19,7 +19,7 @@
 - **Myomer:** Industrial Triple-Strength
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7841/exo-hmx-2-haulermech)
 - **Battle Value:** 96
 
 ## Exo HMX-3 HaulerMech
@@ -33,7 +33,7 @@
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7842/exo-hmx-3-haulermech)
 - **Battle Value:** unknown
 
 ## Exo HMX-3M HaulerMech
@@ -46,6 +46,6 @@
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7843/exo-hmx-3m-haulermech)
 - **Battle Value:** unknown
 

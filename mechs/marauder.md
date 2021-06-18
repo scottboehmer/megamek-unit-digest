@@ -12,7 +12,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2033/marauder-mad-1r)
 - **Battle Value:** 1420
 
 ## Marauder MAD-2R
@@ -28,7 +28,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2034/marauder-mad-2r)
 - **Battle Value:** 1630
 
 ## Marauder MAD-3R
@@ -42,7 +42,7 @@
   - PPC × 2
   - AC/5 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2038/marauder-mad-3r)
 - **Battle Value:** 1363
 
 ## Marauder MAD-3D
@@ -56,7 +56,7 @@
   - PPC × 2
   - Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2035/marauder-mad-3d)
 - **Battle Value:** 1470
 
 ## Marauder MAD-3M
@@ -70,7 +70,7 @@
   - Large Laser × 2
   - AC/5 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2037/marauder-mad-3m)
 - **Battle Value:** 1335
 
 ## Marauder MAD-3L
@@ -85,7 +85,7 @@
   - Large Laser
   - AC/5 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2036/marauder-mad-3l)
 - **Battle Value:** 1369
 
 ## Marauder (Bounty Hunter-3015)
@@ -99,7 +99,7 @@
 - **Weapons:**
   - PPC × 3
   - Medium Laser × 5
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015)
 - **Battle Value:** 1919
 
 ## Marauder Bounty Hunter 3015
@@ -113,7 +113,7 @@
 - **Weapons:**
   - PPC × 3
   - Medium Laser × 5
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015)
 - **Battle Value:** 1919
 
 ## Marauder MAD-SD (Douglass)
@@ -127,6 +127,7 @@
   - Large Laser × 2
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052/marauder-mad-sd-douglass)
 - **Battle Value:** 1459
 
 ## Marauder MAD-4X
@@ -139,7 +140,7 @@
 - **Weapons:**
   - Blazer Cannon × 2
   - SRM 6 × 2 (ammo: 30)
-- **Source:** XTRO Succession Wars
+- **Sources:** XTRO Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x)
 - **Battle Value:** 1453
 
 ## Marauder (Bounty Hunter-3044)
@@ -154,7 +155,7 @@
   - Gauss Rifle (ammo: 16)
   - ER PPC × 2
   - Medium Laser × 3
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044)
 - **Battle Value:** 2103
 
 ## Marauder Bounty Hunter 3044
@@ -169,7 +170,7 @@
   - Gauss Rifle (ammo: 16)
   - ER PPC × 2
   - Medium Laser × 3
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Succession Wars
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044)
 - **Battle Value:** 2103
 
 ## Marauder MAD-5D
@@ -187,7 +188,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d)
 - **Battle Value:** 1787
 
 ## Marauder C
@@ -203,7 +204,7 @@
   - Inner Sphere Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c)
 - **Battle Value:** 1711
 
 ## Marauder MAD-5M
@@ -220,7 +221,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2041/marauder-mad-5m)
 - **Battle Value:** 1471
 
 ## Marauder MAD-5S
@@ -236,7 +237,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s)
 - **Battle Value:** 1799
 
 ## Marauder MAD-5CS
@@ -250,7 +251,7 @@
   - ER PPC × 2
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Pulse Laser × 2
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7600/marauder-mad-5cs)
 - **Battle Value:** 1648
 
 ## Marauder MAD-5D-DC
@@ -268,6 +269,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - Command Console
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc)
 - **Battle Value:** 1787
 
 ## Marauder MAD-5L
@@ -284,7 +286,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2040/marauder-mad-5l)
 - **Battle Value:** 2244
 
 ## Marauder MAD-5R
@@ -302,7 +304,7 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2042/marauder-mad-5r)
 - **Battle Value:** 1877
 
 ## Marauder MAD-5T
@@ -319,7 +321,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t)
 - **Battle Value:** 1750
 
 ## Marauder MAD-7D
@@ -337,7 +339,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d)
 - **Battle Value:** 1986
 
 ## Marauder MAD-9M
@@ -353,7 +355,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2047/marauder-mad-9m)
 - **Battle Value:** 1704
 
 ## Marauder MAD-9M2
@@ -369,7 +371,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2048/marauder-mad-9m2)
 - **Battle Value:** 1875
 
 ## Marauder MAD-9S
@@ -388,7 +390,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2049/marauder-mad-9s)
 - **Battle Value:** 1786
 
 ## Marauder MAD-6L
@@ -404,7 +406,7 @@
   - PPC
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2045/marauder-mad-6l)
 - **Battle Value:** 2322
 
 ## Marauder MAD-7D (Von Staskov)
@@ -422,7 +424,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7697/marauder-mad-7d-von-staskov)
 - **Battle Value:** 2150
 
 ## Marauder MAD-9W
@@ -440,7 +442,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2050/marauder-mad-9w)
 - **Battle Value:** 1788
 
 ## Marauder MAD-7M
@@ -457,6 +459,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7531/marauder-mad-7m)
 - **Battle Value:** 1908
 
 ## Marauder MAD-9W2
@@ -475,7 +478,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2051/marauder-mad-9w2)
 - **Battle Value:** 1868
 
 ## Marauder MAD-7S
@@ -491,6 +494,7 @@
   - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7533/marauder-mad-7s)
 - **Battle Value:** 1903
 
 ## Marauder MAD-2T
@@ -506,6 +510,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7528/marauder-mad-2t)
 - **Battle Value:** 1646
 
 ## Marauder MAD-7C
@@ -523,6 +528,7 @@
   - Guardian ECM Suite
   - CASE II
   - C3 Slave
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7530/marauder-mad-7c)
 - **Battle Value:** 1810
 
 ## Marauder MAD-7R
@@ -539,7 +545,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7532/marauder-mad-7r)
 - **Battle Value:** 1832
 
 ## Marauder MAD-9D
@@ -556,7 +562,7 @@
   - Medium X-Pulse Laser × 3
 - **Equipment:**
   - Radical Heat Sink System
-- **Source:** RS 3145 NY NU
+- **Sources:** RS 3145 NY NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6866/marauder-mad-9d)
 - **Battle Value:** 1967
 
 ## Marauder Bounty Hunter 3138
@@ -573,6 +579,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7535/marauder-bounty-hunter-3138)
 - **Battle Value:** 2708
 
 ## Marauder MAD-11D
@@ -589,7 +596,7 @@
   - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7534/marauder-mad-11d)
 - **Battle Value:** 2263
 
 ## Marauder Red Hunter
@@ -606,6 +613,7 @@
 - **Equipment:**
   - CASE II
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146)
 - **Battle Value:** 2509
 
 ## Marauder Red Hunter 3146
@@ -622,5 +630,6 @@
 - **Equipment:**
   - CASE II
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146)
 - **Battle Value:** 2509
 

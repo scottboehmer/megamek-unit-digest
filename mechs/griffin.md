@@ -11,7 +11,7 @@
 - **Weapons:**
   - Primitive PPC
   - LRM 5 (ammo: 24)
-- **Source:** XTRO Primitives IV - Age of War
+- **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7185/griffin-grf-1a)
 - **Battle Value:** 1024
 
 ## Griffin GRF-1N
@@ -25,7 +25,7 @@
 - **Weapons:**
   - PPC
   - LRM 10 (ammo: 24)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1297/griffin-grf-1n)
 - **Battle Value:** 1272
 
 ## Griffin GRF-2N
@@ -42,6 +42,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299/griffin-grf-2n)
 - **Battle Value:** 1606
 
 ## Griffin GRF-1S
@@ -56,7 +57,7 @@
   - Large Laser
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s)
 - **Battle Value:** 1253
 
 ## Griffin GRF-1E 'Sparky'
@@ -70,7 +71,7 @@
 - **Weapons:**
   - PPC
   - Medium Laser × 5
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1295/griffin-grf-1e-sparky)
 - **Battle Value:** 1449
 
 ## Griffin GRF-1DS
@@ -86,7 +87,7 @@
   - Large Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds)
 - **Battle Value:** 1285
 
 ## Griffin GRF-3M
@@ -103,7 +104,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1300/griffin-grf-3m)
 - **Battle Value:** 1521
 
 ## Griffin GRF-5M
@@ -120,7 +121,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m)
 - **Battle Value:** 1224
 
 ## Griffin GRF-6S
@@ -137,7 +138,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s)
 - **Battle Value:** 1781
 
 ## Griffin GRF-6CS
@@ -156,7 +157,7 @@
   - Guardian ECM Suite
   - C3i
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs)
 - **Battle Value:** 1695
 
 ## Griffin GRF-5L
@@ -173,7 +174,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1304/griffin-grf-5l)
 - **Battle Value:** 1742
 
 ## Griffin GRF-6S (Francine)
@@ -191,7 +192,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1309/griffin-grf-6s-francine)
 - **Battle Value:** 1778
 
 ## Griffin GRF-5K
@@ -209,7 +210,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k)
 - **Battle Value:** 1390
 
 ## Griffin GRF-6S (Francine II)
@@ -227,7 +228,7 @@
 - **Equipment:**
   - Supercharger
   - CASE
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1308/griffin-grf-6s-francine-ii)
 - **Battle Value:** 2249
 
 ## Griffin GRF-1E2 'Sparky 2.0'
@@ -244,6 +245,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296/griffin-grf-1e2-sparky-20)
 - **Battle Value:** 1862
 
 ## Griffin GRF-4R
@@ -258,7 +260,7 @@
   - Snub-Nose PPC
   - ER Medium Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1302/griffin-grf-4r)
 - **Battle Value:** 1412
 
 ## Griffin GRF-4N
@@ -273,7 +275,7 @@
 - **Weapons:**
   - Plasma Rifle (ammo: 20)
   - ER Medium Laser × 3
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n)
 - **Battle Value:** 1591
 
 ## Griffin GRF-3N
@@ -289,7 +291,7 @@
   - NLRM 10 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n)
 - **Battle Value:** 1560
 
 ## Griffin GRF-6S2
@@ -308,7 +310,7 @@
   - C3 Boosted Slave
   - Targeting Computer
   - CASE II
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2)
 - **Battle Value:** 1870
 
 ## Griffin C
@@ -324,6 +326,6 @@
   - Streak LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c)
 - **Battle Value:** 2131
 

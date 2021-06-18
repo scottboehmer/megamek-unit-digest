@@ -10,6 +10,7 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Cargo × 15
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore)
 - **Battle Value:** 649
 
 ## Daedalus GTX2B 'Navvy'
@@ -26,6 +27,7 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Cargo × 5
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy)
 - **Battle Value:** unknown
 
 ## Daedalus GTX2 (Militarized)
@@ -42,6 +44,7 @@
   - Backhoe
   - Chainsaw
   - Machine Gun × 4 (ammo: 200)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/793/daedalus-gtx2-militarized)
 - **Battle Value:** 849
 
 ## Daedalus DAD-3C
@@ -60,7 +63,7 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/789/daedalus-dad-3c)
 - **Battle Value:** 1070
 
 ## Daedalus DAD-3D
@@ -79,7 +82,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/790/daedalus-dad-3d)
 - **Battle Value:** 1729
 
 ## Daedalus DAD-4A
@@ -99,7 +102,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Supercharger
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/791/daedalus-dad-4a)
 - **Battle Value:** 1466
 
 ## Daedalus DAD-4B
@@ -119,7 +122,7 @@
 - **Equipment:**
   - Targeting Computer
   - Supercharger
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/792/daedalus-dad-4b)
 - **Battle Value:** 1431
 
 ## Daedalus DAD-DX
@@ -138,6 +141,6 @@
   - ER Small Laser
 - **Equipment:**
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8105/daedalus-dad-dx)
 - **Battle Value:** 1606
 

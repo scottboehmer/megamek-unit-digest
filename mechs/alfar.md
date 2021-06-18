@@ -11,7 +11,7 @@
   - PPC
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
-- **Source:** Hist:Reunification War
+- **Sources:** Hist:Reunification War, [Master Unit List](http://masterunitlist.info/Unit/Details/3694/alfar-al-a1)
 - **Battle Value:** 1447
 
 ## Alfar AL-D1 "Dokkalfar"
@@ -24,6 +24,6 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - PPC × 2
-- **Source:** Hist:Reunification War
+- **Sources:** Hist:Reunification War, [Master Unit List](http://masterunitlist.info/Unit/Details/3693/alfar-al-d1-dokkalfar)
 - **Battle Value:** 1458
 

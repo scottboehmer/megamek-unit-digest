@@ -15,7 +15,7 @@
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
   - MASC
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/329/berserker-brz-a3)
 - **Battle Value:** 2117
 
 ## Berserker BRZ-B3
@@ -34,7 +34,7 @@
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
   - MASC
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/330/berserker-brz-b3)
 - **Battle Value:** 2020
 
 ## Berserker BRZ-C3
@@ -54,7 +54,7 @@
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/331/berserker-brz-c3)
 - **Battle Value:** 2395
 
 ## Berserker BRZ-D4
@@ -74,6 +74,6 @@
   - Flamer
 - **Equipment:**
   - Angel ECM Suite
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6831/berserker-brz-d4)
 - **Battle Value:** 2659
 

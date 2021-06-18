@@ -14,5 +14,6 @@
 - **Equipment:**
   - CASE II
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4746/omega-shp-x4)
 - **Battle Value:** 3001
 

@@ -17,7 +17,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1320/grigori-c-grg-o-invictus)
 - **Battle Value:** 1245
 
 ## Grigori C-GRG-OA Dominus
@@ -38,7 +38,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1321/grigori-c-grg-oa-dominus)
 - **Battle Value:** 1536
 
 ## Grigori C-GRG-OB Infernus
@@ -59,7 +59,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1322/grigori-c-grg-ob-infernus)
 - **Battle Value:** 1374
 
 ## Grigori C-GRG-OC Comminus
@@ -80,7 +80,7 @@
   - Guardian ECM Suite
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1323/grigori-c-grg-oc-comminus)
 - **Battle Value:** 1438
 
 ## Grigori C-GRG-OD Luminos
@@ -100,7 +100,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1324/grigori-c-grg-od-luminos)
 - **Battle Value:** 1568
 
 ## Grigori C-GRG-O (Rufus)
@@ -122,7 +122,7 @@
   - C3i
   - CASE
   - Supercharger
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1318/grigori-c-grg-o-rufus)
 - **Battle Value:** 1380
 
 ## Grigori C-GRG-O (Tamiel)
@@ -142,7 +142,7 @@
   - Guardian ECM Suite
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1319/grigori-c-grg-o-tamiel)
 - **Battle Value:** 1426
 
 ## Grigori C-GRG-OE Eminus
@@ -162,7 +162,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1325/grigori-c-grg-oe-eminus)
 - **Battle Value:** 1544
 
 ## Grigori C-GRG-OS Caelestis
@@ -181,6 +181,7 @@
 - **Equipment:**
   - C3i
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1326/grigori-c-grg-os-caelestis)
 - **Battle Value:** 1378
 
 ## Grigori C-GRG-OU Exanimus
@@ -202,6 +203,6 @@
   - Beagle Active Probe
   - MASS
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1327/grigori-c-grg-ou-exanimus)
 - **Battle Value:** 1604
 

@@ -9,7 +9,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2366/ostscout-ott-7j)
 - **Battle Value:** 596
 
 ## Ostscout OTT-7Jb
@@ -24,7 +24,7 @@
   - Medium Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2367/ostscout-ott-7jb)
 - **Battle Value:** 610
 
 ## Ostscout OTT-7K
@@ -37,7 +37,7 @@
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
   - TAG
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2368/ostscout-ott-7k)
 - **Battle Value:** 484
 
 ## Ostscout OTT-9CS
@@ -56,7 +56,7 @@
   - Beagle Active Probe
   - C3i
   - TAG
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs)
 - **Battle Value:** 930
 
 ## Ostscout OTT-9S
@@ -74,7 +74,7 @@
   - Beagle Active Probe
   - A-Pod × 2
   - TAG
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s)
 - **Battle Value:** 855
 
 ## Ostscout OTT-10CS
@@ -90,7 +90,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2364/ostscout-ott-10cs)
 - **Battle Value:** 862
 
 ## Ostscout OTT-11J
@@ -105,7 +105,7 @@
   - Light PPC × 2
 - **Equipment:**
   - TAG
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j)
 - **Battle Value:** 908
 
 ## Ostscout OTT-12R
@@ -120,7 +120,7 @@
   - Clan ER Large Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r)
 - **Battle Value:** 1209
 
 ## Ostscout OTT-8J
@@ -137,6 +137,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - Bloodhound Active Probe
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j)
 - **Battle Value:** 894
 

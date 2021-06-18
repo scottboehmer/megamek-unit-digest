@@ -9,7 +9,7 @@
 - **Weapons:**
   - AC/10 (ammo: 10)
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4331/hoplite-hop-4c)
 - **Battle Value:** 986
 
 ## Hoplite HOP-4B
@@ -22,7 +22,7 @@
 - **Weapons:**
   - PPC
   - LRM 15 (ammo: 16)
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4330/hoplite-hop-4b)
 - **Battle Value:** 1162
 
 ## Hoplite HOP-4Bb
@@ -39,6 +39,7 @@
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1541/hoplite-hop-4bb)
 - **Battle Value:** 1413
 
 ## Hoplite HOP-4Cb
@@ -53,6 +54,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542/hoplite-hop-4cb)
 - **Battle Value:** 1377
 
 ## Hoplite HOP-4D
@@ -65,7 +67,7 @@
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1543/hoplite-hop-4d)
 - **Battle Value:** 1022
 
 ## Hoplite C
@@ -82,7 +84,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1540/hoplite-c)
 - **Battle Value:** 1736
 
 ## Hoplite HOP-4X
@@ -98,5 +100,6 @@
 - **Equipment:**
   - Clan Light Active Probe
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544/hoplite-hop-4x)
 - **Battle Value:** 1880
 

@@ -13,6 +13,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - CASE
-- **Source:** ED: Dark Age
+- **Sources:** ED: Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/6954/cave-lion-standard)
 - **Battle Value:** 3044
 

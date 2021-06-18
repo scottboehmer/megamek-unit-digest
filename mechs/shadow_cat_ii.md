@@ -13,7 +13,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard)
 - **Battle Value:** 2064
 
 ## Shadow Cat II 2
@@ -31,7 +31,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2893/shadow-cat-ii-2)
 - **Battle Value:** 2106
 
 ## Shadow Cat II 3
@@ -48,7 +48,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU
+- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6886/shadow-cat-ii-3)
 - **Battle Value:** 2387
 
 ## Shadow Cat II 4
@@ -64,6 +64,6 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU
+- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6885/shadow-cat-ii-4)
 - **Battle Value:** 1986
 

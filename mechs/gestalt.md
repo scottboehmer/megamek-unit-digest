@@ -15,6 +15,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - Void-Signature System
-- **Source:** J:Final Reckoning - Jihad
+- **Sources:** J:Final Reckoning - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4209/gestalt-d2x-g)
 - **Battle Value:** 2329
 

@@ -10,7 +10,7 @@
   - PPC
   - Large Laser × 2
   - Medium Laser
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1853/lancelot-lnc25-01)
 - **Battle Value:** 1422
 
 ## Lancelot LNC25-05
@@ -24,7 +24,7 @@
   - PPC
   - Large Laser × 2
   - Machine Gun × 4 (ammo: 200)
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1858/lancelot-lnc25-05)
 - **Battle Value:** 1365
 
 ## Lancelot LNC25-01sl
@@ -37,7 +37,7 @@
 - **Weapons:**
   - ER Large Laser × 3
   - Medium Laser
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5874/lancelot-lnc25-01sl)
 - **Battle Value:** 1546
 
 ## Lancelot LNC25-01X
@@ -52,7 +52,7 @@
   - PPC
   - ER Large Laser × 2
   - Medium Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1854/lancelot-lnc25-01x)
 - **Battle Value:** 1659
 
 ## Lancelot C
@@ -64,7 +64,7 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - Large Pulse Laser × 3
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7626/lancelot-c)
 - **Battle Value:** 1960
 
 ## Lancelot C 2
@@ -80,7 +80,7 @@
   - Flamer × 2
 - **Equipment:**
   - MASC
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7627/lancelot-c-2)
 - **Battle Value:** 2571
 
 ## Lancelot LNC25-02
@@ -94,7 +94,7 @@
   - PPC
   - Large Laser × 2
   - Medium Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1855/lancelot-lnc25-02)
 - **Battle Value:** 1236
 
 ## Lancelot LNC25-03
@@ -110,7 +110,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1856/lancelot-lnc25-03)
 - **Battle Value:** 1360
 
 ## Lancelot LNC25-04
@@ -125,7 +125,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1857/lancelot-lnc25-04)
 - **Battle Value:** 1640
 
 ## Lancelot LNC25-06
@@ -143,7 +143,7 @@
 - **Equipment:**
   - Targeting Computer
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1859/lancelot-lnc25-06)
 - **Battle Value:** 1661
 
 ## Lancelot LNC25-08
@@ -160,6 +160,6 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1860/lancelot-lnc25-08)
 - **Battle Value:** 1162
 

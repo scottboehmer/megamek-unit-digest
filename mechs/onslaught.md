@@ -14,7 +14,7 @@
   - Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2321/onslaught-sa-os)
 - **Battle Value:** 1562
 
 ## Onslaught SA-OS2
@@ -33,7 +33,7 @@
 - **Equipment:**
   - Angel ECM Suite
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2322/onslaught-sa-os2)
 - **Battle Value:** 1693
 
 ## Onslaught SA-OS3
@@ -51,6 +51,6 @@
   - Machine Gun × 6 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2323/onslaught-sa-os3)
 - **Battle Value:** 1659
 

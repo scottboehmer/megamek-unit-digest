@@ -13,7 +13,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5338/vanquisher-vqr-2a)
 - **Battle Value:** 2234
 
 ## Vanquisher VQR-2B
@@ -29,7 +29,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5339/vanquisher-vqr-2b)
 - **Battle Value:** 2073
 
 ## Vanquisher VQR-5V
@@ -47,7 +47,7 @@
 - **Equipment:**
   - B-Pod × 2
   - C3i
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5340/vanquisher-vqr-5v)
 - **Battle Value:** 2332
 
 ## Vanquisher VQR-7U
@@ -70,6 +70,7 @@
   - Beagle Active Probe
   - Remote Sensor Dispenser
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721/vanquisher-vqr-7u)
 - **Battle Value:** 2144
 
 ## Vanquisher VQR-7V
@@ -88,6 +89,7 @@
 - **Equipment:**
   - CASE
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5722/vanquisher-vqr-7v)
 - **Battle Value:** 2420
 
 ## Vanquisher VQR-2A (Pravuil)
@@ -107,6 +109,6 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TP:Arcturus - Jihad
+- **Sources:** TP:Arcturus - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil)
 - **Battle Value:** 2073
 

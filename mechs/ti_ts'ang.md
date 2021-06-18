@@ -14,7 +14,7 @@
   - ER Small Laser × 4
 - **Equipment:**
   - TAG
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3254/ti-tsang-tsg-9h)
 - **Battle Value:** 1880
 
 ## Ti Ts'ang TSG-9J
@@ -31,7 +31,7 @@
   - ER Medium Laser × 3
   - Hatchet
   - ER Small Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3255/ti-tsang-tsg-9j)
 - **Battle Value:** 1909
 
 ## Ti Ts'ang TSG-9 'China Doll'
@@ -48,6 +48,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241/ti-tsang-china-doll)
 - **Battle Value:** 1739
 
 ## Ti Ts'ang Jason
@@ -64,7 +65,7 @@
   - Medium Pulse Laser × 3
   - Hatchet
   - Small Pulse Laser × 4
-- **Source:** BD: Jason Zaklan - Jihad
+- **Sources:** BD: Jason Zaklan - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7395/ti-tsang-tsg-9h-jason)
 - **Battle Value:** 1641
 
 ## Ti Ts'ang TSG-9C
@@ -81,7 +82,7 @@
   - ER Medium Laser × 2
   - Hatchet
   - ER Small Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3252/ti-tsang-tsg-9c)
 - **Battle Value:** 1989
 
 ## Ti Ts'ang TSG-9DDC 'Prototype'
@@ -101,7 +102,7 @@
 - **Equipment:**
   - Targeting Computer
   - Supercharger
-- **Source:** XTRO Liao - Jihad
+- **Sources:** XTRO Liao - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc)
 - **Battle Value:** 2013
 
 ## Ti Ts'ang TSG-9DDC
@@ -121,6 +122,7 @@
 - **Equipment:**
   - Targeting Computer
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc)
 - **Battle Value:** 2013
 
 ## Ti Ts'ang TSG-10L
@@ -140,6 +142,6 @@
   - Chaff Pod
   - Supercharger
   - TAG
-- **Source:** RS 3145 NTNU
+- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6884/ti-tsang-tsg-10l)
 - **Battle Value:** 1728
 

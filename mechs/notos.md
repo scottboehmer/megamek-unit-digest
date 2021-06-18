@@ -14,7 +14,7 @@
   - Wheels
   - Targeting Computer
   - Supercharger
-- **Source:** XTRO Republic III - Late Republic
+- **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7370/notos-prime)
 - **Battle Value:** 2335
 
 ## Notos A
@@ -32,7 +32,7 @@
 - **Equipment:**
   - Wheels
   - CASE
-- **Source:** XTRO Republic III - Late Republic
+- **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7371/notos-a)
 - **Battle Value:** 1528
 
 ## Notos B
@@ -50,7 +50,7 @@
 - **Equipment:**
   - Wheels
   - CASE
-- **Source:** XTRO Republic III - Late Republic
+- **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7372/notos-b)
 - **Battle Value:** 1877
 
 ## Notos C
@@ -72,7 +72,7 @@
   - Wheels
   - Light TAG
   - CASE
-- **Source:** XTRO Republic III - Late Republic
+- **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7373/notos-c)
 - **Battle Value:** 1632
 
 ## Notos D
@@ -89,6 +89,6 @@
 - **Equipment:**
   - Wheels
   - Targeting Computer
-- **Source:** XTRO Republic III - Late Republic
+- **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7374/notos-d)
 - **Battle Value:** 1865
 

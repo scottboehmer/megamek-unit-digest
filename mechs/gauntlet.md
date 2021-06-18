@@ -13,7 +13,7 @@
   - MASC
   - CASE
   - Supercharger
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6621/gauntlet-gtl-1o)
 - **Battle Value:** 1846
 
 ## Gauntlet GTL-1OA
@@ -29,7 +29,7 @@
 - **Equipment:**
   - MASC
   - CASE II
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6622/gauntlet-gtl-1oa)
 - **Battle Value:** 1420
 
 ## Gauntlet GTL-1OB
@@ -48,7 +48,7 @@
   - MASC
   - Targeting Computer
   - Coolant Pod × 2
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6623/gauntlet-gtl-1ob)
 - **Battle Value:** 2076
 
 ## Gauntlet GTL-1OC
@@ -65,6 +65,6 @@
 - **Equipment:**
   - MASC
   - CASE II
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6624/gauntlet-gtl-1oc)
 - **Battle Value:** 2048
 

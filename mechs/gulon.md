@@ -13,7 +13,7 @@
 - **Equipment:**
   - Mech Sprayer
   - Liquid Cargo
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7844/gulon-gln-1a-miningmech)
 - **Battle Value:** unknown
 
 ## Gulon GLN-1B SecurityMech
@@ -27,7 +27,7 @@
   - Medium Laser
   - Small Laser × 3
   - Mining Drill
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7845/gulon-gln-1b-securitymech)
 - **Battle Value:** unknown
 
 ## Gulon C SolahmaMech
@@ -41,6 +41,6 @@
   - Medium Pulse Laser
   - Small Pulse Laser × 3
   - Mining Drill
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7846/gulon-c-solahmamech)
 - **Battle Value:** unknown
 

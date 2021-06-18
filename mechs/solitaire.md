@@ -10,7 +10,7 @@
   - Heavy Large Laser
   - Heavy Medium Laser × 2
   - Heavy Small Laser
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5097/solitaire-standard)
 - **Battle Value:** 1284
 
 ## Solitaire 2
@@ -26,6 +26,6 @@
   - Heavy Small Laser
 - **Equipment:**
   - MASC
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5655/solitaire-2)
 - **Battle Value:** 1471
 

@@ -9,7 +9,7 @@
 - **Weapons:**
   - LRM 5 w/ Artemis IV × 2 (ammo: 48)
   - Medium Laser × 3
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1366/hammer-hmr-3m)
 - **Battle Value:** 787
 
 ## Hammer HMR-3S 'Slammer'
@@ -22,7 +22,7 @@
 - **Weapons:**
   - LRM 5 w/ Artemis IV × 2 (ammo: 96)
   - Medium Laser
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1368/hammer-hmr-3s-slammer)
 - **Battle Value:** 638
 
 ## Hammer HMR-3C 'Claw-Hammer'
@@ -35,7 +35,7 @@
 - **Weapons:**
   - LRM 5 w/ Artemis IV (ammo: 24)
   - Medium Laser × 7
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1365/hammer-hmr-3c-claw-hammer)
 - **Battle Value:** 976
 
 ## Hammer HMR-3P 'Pein-Hammer'
@@ -51,6 +51,6 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - TAG
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1367/hammer-hmr-3p-pein-hammer)
 - **Battle Value:** 827
 

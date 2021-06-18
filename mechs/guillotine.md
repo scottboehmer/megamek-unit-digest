@@ -13,7 +13,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Age of War
+- **Sources:** TRO 3050 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1338/guillotine-glt-3n)
 - **Battle Value:** 1418
 
 ## Guillotine GLT-4L
@@ -28,7 +28,7 @@
   - Large Laser
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1339/guillotine-glt-4l)
 - **Battle Value:** 1400
 
 ## Guillotine GLT-4P
@@ -43,7 +43,7 @@
   - PPC
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1340/guillotine-glt-4p)
 - **Battle Value:** 1376
 
 ## Guillotine GLT-5M
@@ -60,7 +60,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1341/guillotine-glt-5m)
 - **Battle Value:** 1472
 
 ## Guillotine GLT-8D
@@ -78,7 +78,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1344/guillotine-glt-8d)
 - **Battle Value:** 1891
 
 ## Guillotine GLT-6WB
@@ -97,7 +97,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1342/guillotine-glt-6wb)
 - **Battle Value:** 1672
 
 ## Guillotine GLT-6WB2
@@ -116,7 +116,7 @@
   - LRM 5 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1343/guillotine-glt-6wb2)
 - **Battle Value:** 1635
 
 ## Guillotine GLT-6WB3
@@ -136,6 +136,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5492/guillotine-glt-6wb3)
 - **Battle Value:** 1741
 

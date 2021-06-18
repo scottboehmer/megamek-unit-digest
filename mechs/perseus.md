@@ -15,7 +15,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4807/perseus-p1)
 - **Battle Value:** 1713
 
 ## Perseus P1A
@@ -33,7 +33,7 @@
   - Guardian ECM Suite
   - CASE
   - TAG
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4809/perseus-p1a)
 - **Battle Value:** 1661
 
 ## Perseus P1B
@@ -49,7 +49,7 @@
   - Large Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4810/perseus-p1b)
 - **Battle Value:** 1776
 
 ## Perseus P1C
@@ -65,7 +65,7 @@
   - ER Medium Laser × 3
   - Medium Pulse Laser
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c)
 - **Battle Value:** 1644
 
 ## Perseus P1D
@@ -84,7 +84,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4812/perseus-p1d)
 - **Battle Value:** 1714
 
 ## Perseus P1W
@@ -100,7 +100,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - C3i
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w)
 - **Battle Value:** 1864
 
 ## Perseus P1E
@@ -120,6 +120,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - Communications Equipment × 3
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697/perseus-p1e)
 - **Battle Value:** 1641
 
 ## Perseus P1P
@@ -140,6 +141,6 @@
   - Guardian ECM Suite
   - CASE
   - TAG
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5698/perseus-p1p)
 - **Battle Value:** 1777
 

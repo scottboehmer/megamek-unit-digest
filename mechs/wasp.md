@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser
-- **Source:** XTRO Primitives II - Age of War
+- **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3519/wasp-wsp-1)
 - **Battle Value:** 322
 
 ## Wasp WSP-1A
@@ -24,7 +24,7 @@
 - **Weapons:**
   - Medium Laser
   - SRM 2 (ammo: 50)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3520/wasp-wsp-1a)
 - **Battle Value:** 384
 
 ## Wasp WSP-1L
@@ -37,7 +37,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3523/wasp-wsp-1l)
 - **Battle Value:** 335
 
 ## Wasp WSP-1K
@@ -51,7 +51,7 @@
 - **Weapons:**
   - Medium Laser
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3522/wasp-wsp-1k)
 - **Battle Value:** 376
 
 ## Wasp WSP-1D
@@ -66,7 +66,7 @@
   - Medium Laser
   - Small Laser × 2
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3521/wasp-wsp-1d)
 - **Battle Value:** 403
 
 ## Wasp WSP-1W
@@ -79,7 +79,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Small Laser × 6
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3525/wasp-wsp-1w)
 - **Battle Value:** 373
 
 ## Wasp WSP-1S
@@ -94,7 +94,7 @@
   - Medium Pulse Laser
   - Small Laser × 2
   - Flamer
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3524/wasp-wsp-1s)
 - **Battle Value:** 423
 
 ## Wasp WSP-3W
@@ -108,7 +108,7 @@
 - **Weapons:**
   - Small Pulse Laser × 2
   - Small Laser × 4
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w)
 - **Battle Value:** 342
 
 ## Wasp WSP-3M
@@ -124,7 +124,7 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3528/wasp-wsp-3m)
 - **Battle Value:** 394
 
 ## Wasp WSP-4W
@@ -138,6 +138,7 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Small Pulse Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w)
 - **Battle Value:** 551
 
 ## Wasp WSP-3L
@@ -153,7 +154,7 @@
   - Rocket 10
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3527/wasp-wsp-3l)
 - **Battle Value:** 534
 
 ## Wasp WSP-3S
@@ -169,7 +170,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3529/wasp-wsp-3s)
 - **Battle Value:** 595
 
 ## Wasp WSP-7MAF
@@ -185,7 +186,7 @@
 - **Weapons:**
   - ER Medium Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3531/wasp-wsp-7maf)
 - **Battle Value:** 488
 
 ## Wasp WSP-8T
@@ -200,7 +201,7 @@
 - **Weapons:**
   - Light PPC
   - MML 3 (ammo: 40 LRM, 33 SRM)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3532/wasp-wsp-8t)
 - **Battle Value:** 439
 
 ## Wasp WSP-3A
@@ -214,7 +215,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Pulse Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3526/wasp-wsp-3a)
 - **Battle Value:** 401
 
 ## Wasp WSP-3P
@@ -228,7 +229,7 @@
 - **Weapons:**
   - ER Medium Laser
   - Rocket 10
-- **Source:** RS 3145 NT NU 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6950/wasp-wsp-3p)
 - **Battle Value:** 537
 
 ## Wasp WSP-3X
@@ -243,7 +244,7 @@
 - **Weapons:**
   - Thunderbolt 5 × 2 (ammo: 12)
   - Medium Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/8103/wasp-wsp-3x)
 - **Battle Value:** 521
 
 ## Wasp WSP-3K
@@ -257,7 +258,7 @@
 - **Weapons:**
   - MRM 10 (ammo: 24)
   - Medium Laser
-- **Source:** RS 3145 NT NU 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6949/wasp-wsp-3k)
 - **Battle Value:** 477
 
 ## Wasp WSP-5A
@@ -274,6 +275,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a)
 - **Battle Value:** 517
 
 ## Wasp C
@@ -287,5 +289,6 @@
 - **Weapons:**
   - Clan ER Large Laser
   - Clan Streak SRM 2 (iOS)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c)
 - **Battle Value:** 755
 

@@ -11,7 +11,7 @@
   - PPC
   - Large Laser
   - AC/5 (ammo: 20)
-- **Source:** XTRO Primitives I - Age of War
+- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s)
 - **Battle Value:** 1436
 
 ## Mackie MSK-6S
@@ -26,7 +26,7 @@
   - PPC
   - AC/10 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1973/mackie-msk-6s)
 - **Battle Value:** 1461
 
 ## Mackie MSK-7A
@@ -40,7 +40,7 @@
   - AC/20 (ammo: 20)
   - PPC
   - Large Laser × 2
-- **Source:** RS 3075U
+- **Sources:** RS 3075U, [Master Unit List](http://masterunitlist.info/Unit/Details/4556/mackie-msk-7a)
 - **Battle Value:** 1900
 
 ## Mackie MSK-8B
@@ -56,7 +56,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1974/mackie-msk-8b)
 - **Battle Value:** 2019
 
 ## Mackie MSK-9H
@@ -73,7 +73,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1975/mackie-msk-9h)
 - **Battle Value:** 2022
 
 ## Mackie MSK-9HKR 'Kill-Roy's Little Buddy'
@@ -89,6 +89,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/5876/mackie-msh-9hkr-kill-roys-little-buddy)
 - **Battle Value:** 2162
 

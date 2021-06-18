@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3534/watchman-wtc-4m)
 - **Battle Value:** 1067
 
 ## Watchman WTC-4DM
@@ -27,7 +27,7 @@
 - **Weapons:**
   - PPC
   - Medium Laser × 3
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3533/watchman-wtc-4dm)
 - **Battle Value:** 1225
 
 ## Watchman WTC-4MB 'Belle'

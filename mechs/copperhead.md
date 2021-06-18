@@ -13,7 +13,7 @@
   - SRM 4 (ammo: 25)
   - Small Pulse Laser
   - Streak SRM 2 (OS)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/690/copperhead-cpr-hd-002)
 - **Battle Value:** 763
 
 ## Copperhead CPR-HD-003
@@ -32,7 +32,7 @@
   - MagShot Gauss Rifle (ammo: 50)
 - **Equipment:**
   - Supercharger
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/691/copperhead-cpr-hd-003)
 - **Battle Value:** 1117
 
 ## Copperhead CPR-HD-004
@@ -50,6 +50,6 @@
   - MagShot Gauss Rifle (ammo: 50)
 - **Equipment:**
   - Supercharger
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/692/copperhead-cpr-hd-004)
 - **Battle Value:** 1151
 

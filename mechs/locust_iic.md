@@ -9,7 +9,7 @@
 - **Weapons:**
   - Medium Pulse Laser
   - ER Small Laser × 8
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard)
 - **Battle Value:** 1100
 
 ## Locust IIC 2
@@ -24,7 +24,7 @@
   - Streak SRM 2 × 4 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2)
 - **Battle Value:** 937
 
 ## Locust IIC 3
@@ -37,7 +37,7 @@
 - **Weapons:**
   - ER Large Laser
   - Small Pulse Laser × 2
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3)
 - **Battle Value:** 980
 
 ## Locust IIC 5
@@ -52,7 +52,7 @@
   - ATM 3 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1918/locust-iic-5)
 - **Battle Value:** 878
 
 ## Locust IIC 4
@@ -65,7 +65,7 @@
 - **Weapons:**
   - ER Medium Laser
   - Heavy Small Laser × 6
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4)
 - **Battle Value:** 795
 
 ## Locust IIC 6
@@ -81,7 +81,7 @@
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6)
 - **Battle Value:** 730
 
 ## Locust IIC 7
@@ -97,7 +97,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7)
 - **Battle Value:** 980
 
 ## Locust IIC 8
@@ -109,7 +109,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1921/locust-iic-8)
 - **Battle Value:** 1119
 
 ## Locust IIC 9
@@ -124,6 +124,6 @@
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - Laser Anti-Missile System
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9)
 - **Battle Value:** 1133
 

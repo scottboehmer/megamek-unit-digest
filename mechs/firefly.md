@@ -14,7 +14,7 @@
 - **Equipment:**
   - TAG
   - CASE
-- **Source:** Op. Klondyke
+- **Sources:** Op. Klondyke, [Master Unit List](http://masterunitlist.info/Unit/Details/4172/firefly-ffl-3a)
 - **Battle Value:** 797
 
 ## Firefly FFL-3SLE
@@ -32,6 +32,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1086/firefly-ffl-3sle)
 - **Battle Value:** 876
 
 ## Firefly FFL-3PP
@@ -46,6 +47,7 @@
   - LRM 10 (ammo: 12)
   - Medium Laser × 3
   - Small Laser × 4
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1083/firefly-ffl-3pp)
 - **Battle Value:** 888
 
 ## Firefly FFL-3PP2
@@ -62,6 +64,7 @@
   - Small Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1084/firefly-ffl-3pp2)
 - **Battle Value:** 873
 
 ## Firefly FFL-3PP3
@@ -76,6 +79,7 @@
   - LRM 5 w/ Artemis IV (ammo: 48)
   - Medium Laser × 3
   - Small Laser × 4
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1085/firefly-ffl-3pp3)
 - **Battle Value:** 808
 
 ## Firefly FFL-4A
@@ -90,7 +94,7 @@
   - Medium Laser × 3
   - LRM 5 (ammo: 24)
   - Small Laser × 4
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1087/firefly-ffl-4a)
 - **Battle Value:** 831
 
 ## Firefly C
@@ -107,7 +111,7 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1082/firefly-c)
 - **Battle Value:** 1290
 
 ## Firefly FFL-4B
@@ -124,7 +128,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1088/firefly-ffl-4b)
 - **Battle Value:** 870
 
 ## Firefly FFL-4C
@@ -141,7 +145,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1089/firefly-ffl-4c)
 - **Battle Value:** 806
 
 ## Firefly FFL-4D
@@ -158,7 +162,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1090/firefly-ffl-4d)
 - **Battle Value:** 897
 
 ## Firefly FFL-4DA
@@ -175,6 +179,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Starterbook: Wolf & Blake - Civil War
+- **Sources:** Starterbook: Wolf & Blake - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1091/firefly-ffl-4da)
 - **Battle Value:** 921
 

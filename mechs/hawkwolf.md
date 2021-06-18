@@ -12,7 +12,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
-- **Source:** XTRO RetroTech - Jihad
+- **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4273/hawkwolf-hwk-3f)
 - **Battle Value:** 1349
 
 ## HawkWolf HWK-4F
@@ -27,6 +27,6 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Late Republic
+- **Sources:** TRO 3145 Mercenaries - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6576/hawkwolf-hwk-4f)
 - **Battle Value:** 1428
 

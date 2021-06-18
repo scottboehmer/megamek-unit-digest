@@ -11,7 +11,7 @@
   - ER PPC
   - Medium Pulse Laser × 2
   - Small Laser
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2286/nightstar-nsr-9j)
 - **Battle Value:** 2399
 
 ## Nightstar NSR-9FC
@@ -27,7 +27,7 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2285/nightstar-nsr-9fc)
 - **Battle Value:** 1929
 
 ## Nightstar NSR-9J (Brubaker)
@@ -41,6 +41,7 @@
   - Clan Gauss Rifle × 2 (ammo: 48)
   - Clan Large Pulse Laser × 3
   - Clan ER Small Laser
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723/nightstar-nsr-9j-brubaker)
 - **Battle Value:** 2838
 
 ## Nightstar NSR-9J (Holt)
@@ -59,7 +60,7 @@
   - Clan ER Small Laser
 - **Equipment:**
   - Angel ECM Suite
-- **Source:** SO:Holt's Hilltoppers
+- **Sources:** SO:Holt's Hilltoppers, [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt)
 - **Battle Value:** 3433
 
 ## Nightstar NSR-9SS
@@ -77,7 +78,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2287/nightstar-nsr-9ss)
 - **Battle Value:** 2145
 
 ## Nightstar NSR-10D
@@ -96,5 +97,6 @@
 - **Equipment:**
   - Coolant Pod × 2
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d)
 - **Battle Value:** 2539
 

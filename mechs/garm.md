@@ -10,7 +10,7 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - LB 5-X AC (ammo: 20)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1189/garm-grm-01a)
 - **Battle Value:** 701
 
 ## Garm GRM-01B
@@ -24,7 +24,7 @@
 - **Weapons:**
   - ER Large Laser
   - LRM 10 w/ Artemis IV (ammo: 12)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1191/garm-grm-01b)
 - **Battle Value:** 934
 
 ## Garm GRM-01C
@@ -40,7 +40,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1192/garm-grm-01c)
 - **Battle Value:** 1140
 
 ## Garm GRM-01A2
@@ -57,6 +57,6 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1190/garm-grm-01a2)
 - **Battle Value:** 1078
 

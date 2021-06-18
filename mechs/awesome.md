@@ -9,7 +9,7 @@
 - **Weapons:**
   - PPC × 3
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/174/awesome-aws-8q)
 - **Battle Value:** 1605
 
 ## Awesome AWS-8R
@@ -23,7 +23,7 @@
   - LRM 15 × 2 (ammo: 16)
   - Large Laser
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/175/awesome-aws-8r)
 - **Battle Value:** 1470
 
 ## Awesome AWS-8T
@@ -37,7 +37,7 @@
   - LRM 15 × 2 (ammo: 16)
   - Large Laser × 2
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/176/awesome-aws-8t)
 - **Battle Value:** 1593
 
 ## Awesome AWS-8V
@@ -52,7 +52,7 @@
   - LRM 15 (ammo: 16)
   - Large Laser
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/177/awesome-aws-8v)
 - **Battle Value:** 1510
 
 ## Awesome AWS-9M
@@ -67,7 +67,7 @@
   - Medium Pulse Laser
   - Streak SRM 2 × 2 (ammo: 50)
   - Small Pulse Laser
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/178/awesome-aws-9m)
 - **Battle Value:** 1812
 
 ## Awesome AWS-9Ma
@@ -84,7 +84,7 @@
   - Guardian ECM Suite
   - Command Console
   - Communications Equipment
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma)
 - **Battle Value:** 1836
 
 ## Awesome AWS-9Q
@@ -99,7 +99,7 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/179/awesome-aws-9q)
 - **Battle Value:** 1875
 
 ## Awesome AWS-10KM
@@ -115,7 +115,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km)
 - **Battle Value:** 1961
 
 ## Awesome AWS-9Q (Klatt)
@@ -130,7 +130,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3770/awesome-aws-9q-klatt)
 - **Battle Value:** 1805
 
 ## Awesome AWS-8Q (Buck)
@@ -143,7 +143,7 @@
 - **Heat Sinks:** 16 (32)
 - **Weapons:**
   - PPC × 3
-- **Source:** HTP Tortuga
+- **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7311/awesome-aws-8q-buck)
 - **Battle Value:** 1787
 
 ## Awesome AWS-11M
@@ -157,7 +157,7 @@
 - **Weapons:**
   - Light PPC w/ PPC Capacitor × 4
   - Light PPC × 4
-- **Source:** XTRO Marik - Jihad
+- **Sources:** XTRO Marik - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/173/awesome-aws-11m)
 - **Battle Value:** 1801
 
 ## Awesome AWS-11R
@@ -178,7 +178,7 @@
   - Coolant Pod
   - CASE II
   - Supercharger
-- **Source:** XTRO Republic II - Dark Ages  
+- **Sources:** XTRO Republic II - Dark Ages  , [Master Unit List](http://masterunitlist.info/Unit/Details/7349/awesome-aws-11r)
 - **Battle Value:** 1878
 
 ## Awesome AWS-11H
@@ -191,5 +191,6 @@
 - **Weapons:**
   - Heavy PPC × 3
   - ER Small Laser
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7501/awesome-aws-11h)
 - **Battle Value:** 2036
 

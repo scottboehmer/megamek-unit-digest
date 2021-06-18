@@ -17,7 +17,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1994/malak-c-mk-o-invictus)
 - **Battle Value:** 792
 
 ## Malak C-MK-OA Dominus
@@ -38,7 +38,7 @@
   - Machine Gun Array × 2
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1995/malak-c-mk-oa-dominus)
 - **Battle Value:** 823
 
 ## Malak C-MK-OB Infernus
@@ -56,7 +56,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1996/malak-c-mk-ob-infernus)
 - **Battle Value:** 1047
 
 ## Malak C-MK-OC Comminus
@@ -78,7 +78,7 @@
   - C3i
   - Targeting Computer
   - TAG
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1997/malak-c-mk-oc-comminus)
 - **Battle Value:** 944
 
 ## Malak C-MK-OD Luminos
@@ -96,7 +96,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1998/malak-c-mk-od-luminos)
 - **Battle Value:** 1055
 
 ## Malak C-MK-O (Mi)
@@ -114,7 +114,7 @@
 - **Equipment:**
   - C3i
   - Supercharger
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1993/malak-c-mk-o-mi)
 - **Battle Value:** 758
 
 ## Malak C-MK-OE Eminus
@@ -133,7 +133,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1999/malak-c-mk-oe-eminus)
 - **Battle Value:** 957
 
 ## Malak C-MK-OS Caelestis
@@ -150,5 +150,6 @@
   - ER Small Laser × 3
 - **Equipment:**
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2000/malak-c-mk-os-caelestis)
 - **Battle Value:** 1121
 

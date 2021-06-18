@@ -13,7 +13,7 @@
   - Machine Gun × 16 (ammo: 400)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1713/juggernaut-jg-r9t1)
 - **Battle Value:** 1719
 
 ## Juggernaut JG-R9T2
@@ -29,7 +29,7 @@
   - Machine Gun × 12 (ammo: 200)
 - **Equipment:**
   - Coolant Pod × 4
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1714/juggernaut-jg-r9t2)
 - **Battle Value:** 1916
 
 ## Juggernaut JG-R9T3
@@ -45,7 +45,7 @@
   - MagShot Gauss Rifle × 6 (ammo: 100)
 - **Equipment:**
   - Coolant Pod × 6
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1715/juggernaut-jg-r9t3)
 - **Battle Value:** 1959
 
 ## Juggernaut JG-R9TX1 'Leapin' Lil'
@@ -64,5 +64,6 @@
 - **Equipment:**
   - M-Pod × 4
   - Coolant Pod × 4
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1716/juggernaut-jg-r9tx1-leapin-lil)
 - **Battle Value:** unknown
 

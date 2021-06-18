@@ -15,7 +15,7 @@
   - Anti-Missile System (ammo: 12)
   - TAG
   - CASE
-- **Source:** TRO 3075U - Jihad
+- **Sources:** TRO 3075U - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2447/patriot-pkm-2c)
 - **Battle Value:** 1613
 
 ## Patriot PKM-2D
@@ -35,7 +35,7 @@
   - Anti-Missile System (ammo: 12)
   - TAG
   - CASE
-- **Source:** TRO 3075 - Jihad
+- **Sources:** TRO 3075 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2448/patriot-pkm-2d)
 - **Battle Value:** 1699
 
 ## Patriot PKM-2E
@@ -53,6 +53,6 @@
   - Anti-Missile System (ammo: 12)
   - TAG
   - CASE
-- **Source:** TRO 3075-Jihad
+- **Sources:** TRO 3075-Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2449/patriot-pkm-2e)
 - **Battle Value:** 1398
 

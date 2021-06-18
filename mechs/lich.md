@@ -15,6 +15,6 @@
   - Clan HarJel II × 3
   - CASE II
   - Drone Operating System
-- **Source:** XTRO Republic III - Dark Ag
+- **Sources:** XTRO Republic III - Dark Ag, [Master Unit List](http://masterunitlist.info/Unit/Details/7385/lich-uabm-2r)
 - **Battle Value:** 1719
 

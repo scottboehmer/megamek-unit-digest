@@ -12,7 +12,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/62/arbalest-standard)
 - **Battle Value:** 1029
 
 ## Arbalest 2
@@ -29,7 +29,7 @@
   - ECM Suite
   - MASC
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/60/arbalest-2)
 - **Battle Value:** 1098
 
 ## Arbalest 3
@@ -44,6 +44,6 @@
   - ER Small Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/61/arbalest-3)
 - **Battle Value:** 921
 

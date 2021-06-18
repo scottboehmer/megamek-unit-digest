@@ -15,7 +15,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 24)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3476/war-dog-wr-dg-02fc)
 - **Battle Value:** 1814
 
 ## War Dog WR-DG-03FC
@@ -32,6 +32,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3477/war-dog-wr-dg-03fc)
 - **Battle Value:** 1962
 

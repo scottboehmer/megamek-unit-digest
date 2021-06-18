@@ -11,7 +11,7 @@
   - LRM 10 (ammo: 12)
   - Medium Laser × 4
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2610/quickdraw-qkd-4g)
 - **Battle Value:** 1192
 
 ## Quickdraw QKD-4H
@@ -26,7 +26,7 @@
   - LRM 10 (ammo: 12)
   - Medium Laser × 4
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2611/quickdraw-qkd-4h)
 - **Battle Value:** 1242
 
 ## Quickdraw QKD-5A
@@ -40,7 +40,7 @@
 - **Weapons:**
   - Medium Laser × 6
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2612/quickdraw-qkd-5a)
 - **Battle Value:** 1196
 
 ## Quickdraw QKD-5K
@@ -54,7 +54,7 @@
 - **Weapons:**
   - Medium Laser × 6
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2613/quickdraw-qkd-5k)
 - **Battle Value:** 1265
 
 ## Quickdraw QKD-5M
@@ -71,7 +71,7 @@
   - SRM 4 (OS)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2614/quickdraw-qkd-5m)
 - **Battle Value:** 1237
 
 ## Quickdraw QKD-C
@@ -87,7 +87,7 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2618/quickdraw-qkd-c)
 - **Battle Value:** 1225
 
 ## Quickdraw QKD-5K2
@@ -101,7 +101,7 @@
 - **Weapons:**
   - Medium Laser × 6
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4886/quickdraw-qkd-5k2)
 - **Battle Value:** 1312
 
 ## Quickdraw QKD-8K
@@ -117,7 +117,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2616/quickdraw-qkd-8k)
 - **Battle Value:** 1583
 
 ## Quickdraw QKD-5Mr
@@ -136,7 +136,7 @@
   - Guardian ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2615/quickdraw-qkd-5mr)
 - **Battle Value:** 1465
 
 ## Quickdraw QKD-8X
@@ -157,7 +157,7 @@
   - Lift Hoist
   - Head Turret
   - TAG
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2617/quickdraw-qkd-8x)
 - **Battle Value:** 1612
 
 ## Quickdraw QKD-8P
@@ -177,6 +177,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887/quickdraw-qkd-8p)
 - **Battle Value:** 1598
 
 ## Quickdraw QKD-9M
@@ -194,6 +195,6 @@
   - CASE II
   - Targeting Computer
   - TAG
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6887/quickdraw-qkd-9m)
 - **Battle Value:** 1690
 

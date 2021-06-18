@@ -15,7 +15,7 @@
   - ECM Suite
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3145 The Clans - Civil War
+- **Sources:** TRO 3145 The Clans - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/6298/tomahawk-prime)
 - **Battle Value:** 3101
 
 ## Tomahawk A
@@ -33,7 +33,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Civil War
+- **Sources:** TRO 3145 The Clans - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/6299/tomahawk-a)
 - **Battle Value:** 2762
 
 ## Tomahawk B
@@ -51,7 +51,7 @@
   - ER Medium Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Civil War
+- **Sources:** TRO 3145 The Clans - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/6300/tomahawk-b)
 - **Battle Value:** 3323
 
 ## Tomahawk C
@@ -67,6 +67,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Civil War
+- **Sources:** TRO 3145 The Clans - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/6301/tomahawk-c)
 - **Battle Value:** 2985
 

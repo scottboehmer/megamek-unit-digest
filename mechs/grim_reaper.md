@@ -14,7 +14,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1328/grim-reaper-grm-r-pr29)
 - **Battle Value:** 1469
 
 ## Grim Reaper GRM-R-PR30
@@ -33,7 +33,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1329/grim-reaper-grm-r-pr30)
 - **Battle Value:** 1673
 
 ## Grim Reaper GRM-R-PR31
@@ -52,7 +52,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1330/grim-reaper-grm-r-pr31)
 - **Battle Value:** 1655
 
 ## Grim Reaper GRM-R-PR62A
@@ -72,6 +72,7 @@
   - Anti-Missile System (ammo: 12)
   - Targeting Computer
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1331/grim-reaper-grm-r-pr62a)
 - **Battle Value:** 1542
 
 ## Grim Reaper GRM-R (Einar)
@@ -90,6 +91,6 @@
   - Modular Armor × 4
   - Clan Light TAG
   - Clan CASE II
-- **Source:** XTRO ComStar - Jihad
+- **Sources:** XTRO ComStar - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5550/grim-reaper-grm-r-einar)
 - **Battle Value:** 2121
 

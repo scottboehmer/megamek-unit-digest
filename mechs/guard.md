@@ -10,7 +10,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Ejection Seat
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4253/guard-gs-54-securitymech)
 - **Battle Value:** 156
 
 ## Guard GS-107X SecurityMech
@@ -24,6 +24,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Ejection Seat
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7823/guard-gs-107x-securitymech)
 - **Battle Value:** 367
 

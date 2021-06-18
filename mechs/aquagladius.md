@@ -12,7 +12,7 @@
   - Flail
 - **Equipment:**
   - HarJel × 3
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/58/aquagladius-aqs-3)
 - **Battle Value:** 834
 
 ## Aquagladius AQS-4
@@ -28,7 +28,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - HarJel × 3
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/59/aquagladius-aqs-4)
 - **Battle Value:** 1486
 
 ## Aquagladius AQS-5 MAM
@@ -47,6 +47,6 @@
   - ER Flamer × 2
 - **Equipment:**
   - MASS
-- **Source:** XTRO Ray
+- **Sources:** XTRO Ray, [Master Unit List](http://masterunitlist.info/Unit/Details/8108/aquagladius-aqs-5-mam)
 - **Battle Value:** 1946
 

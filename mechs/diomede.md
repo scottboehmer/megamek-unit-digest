@@ -18,7 +18,7 @@
   - Liquid Cargo × 2
   - Ejection Seat
   - Tracks
-- **Source:** TRO 3085 - Jihad
+- **Sources:** TRO 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/901/diomede-d-m3d-3-constructionmech)
 - **Battle Value:** unknown
 
 ## Diomede D-M3D-4 DemolitionMech
@@ -41,7 +41,7 @@
   - CASE
   - Ejection Seat
   - Tracks
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/902/diomede-d-m3d-4-demolitionmech)
 - **Battle Value:** unknown
 
 ## Diomede D-M3D-M
@@ -60,6 +60,6 @@
   - CASE
   - Ejection Seat
   - Tracks
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6823/diomede-d-m3d-m)
 - **Battle Value:** 1609
 

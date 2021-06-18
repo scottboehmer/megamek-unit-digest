@@ -11,7 +11,7 @@
   - Medium Laser
   - LRM 5 (ammo: 24)
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1545/hornet-hnt-151)
 - **Battle Value:** 488
 
 ## Hornet HNT-152
@@ -26,7 +26,7 @@
   - Medium Laser
   - SRM 4 (ammo: 25)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1546/hornet-hnt-152)
 - **Battle Value:** 475
 
 ## Hornet HNT-171
@@ -43,7 +43,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1548/hornet-hnt-171)
 - **Battle Value:** 535
 
 ## Hornet HNT-161
@@ -60,7 +60,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1547/hornet-hnt-161)
 - **Battle Value:** 511
 
 ## Hornet HNT-181
@@ -77,7 +77,7 @@
   - Small Re-Engineered Laser
 - **Equipment:**
   - CASE
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181)
 - **Battle Value:** 398
 
 ## Hornet HNT-182
@@ -93,6 +93,6 @@
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Equipment:**
   - CASE
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7343/hornet-hnt-182)
 - **Battle Value:** 505
 

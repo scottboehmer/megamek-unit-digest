@@ -14,7 +14,7 @@
   - Communications Equipment
   - Searchlight
   - Enviro-Sealing
-- **Source:** RS IA - Star League
+- **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4594/marco-mr-6-explorermech)
 - **Battle Value:** unknown
 
 ## Marco MR-7 ExplorerMech
@@ -34,7 +34,7 @@
   - Cargo
   - Searchlight
   - Enviro-Sealing
-- **Source:** RS IA - Star League
+- **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4595/marco-mr-7-explorermech)
 - **Battle Value:** unknown
 
 ## Marco MR-8C ExplorerMech
@@ -53,6 +53,7 @@
   - Cargo
   - Searchlight
   - Enviro-Sealing
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4596/marco-mr-8c-explorermech)
 - **Battle Value:** unknown
 
 ## Marco MR-8D
@@ -68,7 +69,7 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** RS OK - Early Succession War
+- **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/2073/marco-mr-8d)
 - **Battle Value:** unknown
 
 ## Marco MR-8E
@@ -84,6 +85,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - Enviro-Sealing
-- **Source:** RS OK - Early Succession War
+- **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/2074/marco-mr-8e)
 - **Battle Value:** unknown
 

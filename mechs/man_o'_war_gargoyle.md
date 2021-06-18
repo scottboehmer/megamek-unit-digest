@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2010/man-o-war-gargoyle-prime)
 - **Battle Value:** 1537
 
 ## Gargoyle "Man O' War" A
@@ -28,7 +28,7 @@
   - Medium Pulse Laser
   - ER Medium Laser
   - ER Small Laser
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2002/man-o-war-gargoyle-a)
 - **Battle Value:** 2689
 
 ## Gargoyle "Man O' War" B
@@ -44,7 +44,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2003/man-o-war-gargoyle-b)
 - **Battle Value:** 1843
 
 ## Gargoyle "Man O' War" C
@@ -61,7 +61,7 @@
 - **Equipment:**
   - A-Pod × 2
   - CASE
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2004/man-o-war-gargoyle-c)
 - **Battle Value:** 2437
 
 ## Gargoyle "Man O' War" D
@@ -77,7 +77,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Succession Wars
+- **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2005/man-o-war-gargoyle-d)
 - **Battle Value:** 2499
 
 ## Gargoyle "Man O' War" (Conal)
@@ -95,7 +95,7 @@
   - A-Pod × 2
   - CASE
   - Light TAG
-- **Source:** OTP: Red Corsair - Clan Invasion 
+- **Sources:** OTP: Red Corsair - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2001/man-o-war-gargoyle-conal)
 - **Battle Value:** 2580
 
 ## Gargoyle "Man O' War" H
@@ -112,7 +112,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2008/man-o-war-gargoyle-h)
 - **Battle Value:** 2183
 
 ## Gargoyle "Man O' War" E
@@ -130,7 +130,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2006/man-o-war-gargoyle-e)
 - **Battle Value:** 2257
 
 ## Gargoyle "Man O' War" M
@@ -146,7 +146,7 @@
   - SRM 2 × 3 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2009/man-o-war-gargoyle-m)
 - **Battle Value:** 2182
 
 ## Gargoyle "Man O' War" G
@@ -162,7 +162,7 @@
   - AP Gauss Rifle × 3 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2007/man-o-war-gargoyle-g)
 - **Battle Value:** 2156
 
 ## Gargoyle "Man O' War" P
@@ -176,7 +176,7 @@
   - Large Pulse Laser × 2
   - Plasma Cannon × 2 (ammo: 30)
   - Micro Pulse Laser
-- **Source:** ilClan Vol 11 - Early Republic
+- **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7758/man-o-war-gargoyle-p)
 - **Battle Value:** 2320
 
 ## Gargoyle "Man O' War" I
@@ -191,7 +191,7 @@
   - ER Large Laser × 3
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7756/man-o-war-gargoyle-i)
 - **Battle Value:** 2516
 
 ## Gargoyle "Man O' War" F
@@ -208,7 +208,7 @@
   - Heavy Flamer (ammo: 10)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7755/man-o-war-gargoyle-f)
 - **Battle Value:** 1894
 
 ## Gargoyle "Man O' War" X
@@ -226,7 +226,7 @@
 - **Equipment:**
   - CASE
   - CASE II
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6861/man-o-war-gargoyle-x)
 - **Battle Value:** 2800
 
 ## Gargoyle "Man O' War" J
@@ -240,7 +240,7 @@
 - **Weapons:**
   - Improved Heavy Medium Laser × 4
   - ER Small Laser × 7
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7757/man-o-war-gargoyle-j)
 - **Battle Value:** 2134
 
 ## Gargoyle "Man O' War" K
@@ -258,7 +258,7 @@
   - Active Probe
   - CASE II
   - Inner Sphere Supercharger
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7759/man-o-war-gargoyle-k)
 - **Battle Value:** 2182
 
 ## Gargoyle "Man O' War" T
@@ -274,6 +274,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7754/man-o-war-gargoyle-t)
 - **Battle Value:** 1635
 

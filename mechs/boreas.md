@@ -15,7 +15,7 @@
 - **Equipment:**
   - Tracks
   - CASE
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7351/boreas-prime)
 - **Battle Value:** 1583
 
 ## Boreas A
@@ -32,7 +32,7 @@
 - **Equipment:**
   - Tracks
   - CASE
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7352/boreas-a)
 - **Battle Value:** 1221
 
 ## Boreas B
@@ -49,7 +49,7 @@
 - **Equipment:**
   - Tracks
   - CASE
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7353/boreas-b)
 - **Battle Value:** 1331
 
 ## Boreas C
@@ -67,7 +67,7 @@
 - **Equipment:**
   - Tracks
   - CASE
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7354/boreas-c)
 - **Battle Value:** 1502
 
 ## Boreas D
@@ -83,6 +83,6 @@
   - Heavy Large Laser × 2
 - **Equipment:**
   - Tracks
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7355/boreas-d)
 - **Battle Value:** 1394
 

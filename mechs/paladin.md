@@ -13,7 +13,7 @@
   - Machine Gun × 7 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2408/paladin-pal-1)
 - **Battle Value:** 1361
 
 ## Paladin PAL-2
@@ -33,7 +33,7 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2409/paladin-pal-2)
 - **Battle Value:** 1617
 
 ## Paladin PAL-3
@@ -51,6 +51,6 @@
   - Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2410/paladin-pal-3)
 - **Battle Value:** 1370
 

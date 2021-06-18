@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2798/sasquatch-sqs-th-001)
 - **Battle Value:** 1940
 
 ## Sasquatch SQS-TH-002
@@ -31,7 +31,7 @@
   - Small Laser
 - **Equipment:**
   - Large Shield
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2799/sasquatch-sqs-th-002)
 - **Battle Value:** 1993
 
 ## Sasquatch SQS-TH-003
@@ -46,6 +46,6 @@
   - Large Pulse Laser
   - Medium X-Pulse Laser × 2
   - Small Laser
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2800/sasquatch-sqs-th-003)
 - **Battle Value:** 1667
 

@@ -11,6 +11,7 @@
   - LRM 5 × 3 (ammo: 48)
 - **Equipment:**
   - TAG
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2967/sling-sl-1g)
 - **Battle Value:** 578
 
 ## Sling SL-1H
@@ -26,5 +27,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - TAG
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2968/sling-sl-1h)
 - **Battle Value:** 731
 

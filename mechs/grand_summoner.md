@@ -13,7 +13,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6281/thor-ii-grand-summoner-prime)
 - **Battle Value:** 2554
 
 ## Grand Summoner "Thor II" A
@@ -31,7 +31,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6282/thor-ii-grand-summoner-a)
 - **Battle Value:** 2473
 
 ## Grand Summoner "Thor II" B
@@ -49,7 +49,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6283/thor-ii-grand-summoner-b)
 - **Battle Value:** 2354
 
 ## Grand Summoner "Thor II" C
@@ -66,7 +66,7 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6284/thor-ii-grand-summoner-c)
 - **Battle Value:** 2351
 
 ## Grand Summoner "Thor II" D
@@ -84,6 +84,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6285/thor-ii-grand-summoner-d)
 - **Battle Value:** 2878
 

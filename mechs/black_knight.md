@@ -13,7 +13,7 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/358/black-knight-bl-6-knt)
 - **Battle Value:** 1551
 
 ## Black Knight BL-6b-KNT
@@ -30,7 +30,7 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/357/black-knight-bl-6b-knt)
 - **Battle Value:** 1627
 
 ## Black Knight BL-7-KNT
@@ -45,7 +45,7 @@
   - Large Laser × 2
   - Medium Laser × 4
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/360/black-knight-bl-7-knt)
 - **Battle Value:** 1443
 
 ## Black Knight BL-7-KNT-L
@@ -59,7 +59,7 @@
   - Large Laser × 3
   - Medium Laser × 4
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/361/black-knight-bl-7-knt-l)
 - **Battle Value:** 1409
 
 ## Black Knight BL-6-KNT (Ian)
@@ -75,7 +75,7 @@
   - Large Laser × 2
   - Medium Laser × 4
   - Hatchet
-- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/359/black-knight-bl-6-knt-ian)
 - **Battle Value:** 1861
 
 ## Black Knight BL-9-KNT
@@ -91,7 +91,7 @@
   - Large Pulse Laser
   - Medium Pulse Laser × 4
   - Hatchet
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/362/black-knight-bl-9-knt)
 - **Battle Value:** 1678
 
 ## Black Knight BL-10-KNT (Ross)
@@ -110,7 +110,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** Starterbook: Sword and Dragon - Clan Invasion
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/355/black-knight-bl-10-knt-ross)
 - **Battle Value:** 2103
 
 ## Black Knight BL-6-RR
@@ -127,7 +127,7 @@
   - Small Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3826/black-knight-bl-6-rr)
 - **Battle Value:** 1954
 
 ## Black Knight BL-12-KNT
@@ -143,7 +143,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/356/black-knight-bl-12-knt)
 - **Battle Value:** 1840
 
 ## Black Knight BL-X-KNT 'Red Reaper'
@@ -159,7 +159,7 @@
   - Large Vibroblade
 - **Equipment:**
   - Large Shield
-- **Source:** XTRO Most Wanted - Jihad
+- **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5783/black-knight-bl-x-knt-red-reaper)
 - **Battle Value:** 1858
 
 ## Black Knight BLK-NT-2Y
@@ -179,7 +179,7 @@
   - Beagle Active Probe
   - Targeting Computer
   - C3 Slave
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6347/black-knight-blk-nt-2y)
 - **Battle Value:** 1847
 
 ## Black Knight BLK-NT-3A
@@ -196,7 +196,7 @@
   - Flamer
 - **Equipment:**
   - Medium Shield
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6348/black-knight-blk-nt-3a)
 - **Battle Value:** 1707
 
 ## Black Knight BLK-NT-3B
@@ -214,7 +214,7 @@
   - Small Laser × 2
 - **Equipment:**
   - Medium Shield
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6349/black-knight-blk-nt-3b)
 - **Battle Value:** 1911
 
 ## Black Knight BLK-NT-4D
@@ -233,7 +233,7 @@
 - **Equipment:**
   - Medium Shield
   - Clan Angel ECM Suite
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6350/black-knight-blk-nt-4d)
 - **Battle Value:** 2280
 
 ## Black Knight BL-18-KNT
@@ -251,7 +251,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - Targeting Computer
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7791/black-knight-bl-18-knt)
 - **Battle Value:** 2585
 
 ## Black Knight BLK-NT-5H
@@ -270,6 +270,6 @@
 - **Equipment:**
   - Medium Shield
   - Targeting Computer
-- **Source:** TRO 3145 Federated Suns - Dark Ages
+- **Sources:** TRO 3145 Federated Suns - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6351/black-knight-blk-nt-5h)
 - **Battle Value:** 2423
 

@@ -11,7 +11,7 @@
   - Large Laser
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2491/phoenix-hawk-pxh-1)
 - **Battle Value:** 1041
 
 ## Phoenix Hawk PXH-1D
@@ -25,7 +25,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2494/phoenix-hawk-pxh-1d)
 - **Battle Value:** 1083
 
 ## Phoenix Hawk PXH-2
@@ -41,7 +41,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2)
 - **Battle Value:** 1145
 
 ## Phoenix Hawk PXH-1K
@@ -55,7 +55,7 @@
   - Large Laser
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k)
 - **Battle Value:** 1073
 
 ## Phoenix Hawk PXH-1Kk
@@ -69,7 +69,7 @@
   - ER Large Laser
   - Medium Pulse Laser × 2
   - Small Laser
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5872/phoenix-hawk-pxh-1kk)
 - **Battle Value:** 1139
 
 ## Phoenix Hawk PXH-1b (Special)
@@ -88,7 +88,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2492/phoenix-hawk-pxh-1b-special)
 - **Battle Value:** 1512
 
 ## Phoenix Hawk PXH-1c (Special)
@@ -107,7 +107,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2493/phoenix-hawk-pxh-1c-special)
 - **Battle Value:** 1443
 
 ## Phoenix Hawk PXH-1-EC
@@ -123,7 +123,7 @@
   - Clan Prototype ER Medium Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7678/phoenix-hawk-pxh-1-ec)
 - **Battle Value:** 1206
 
 ## Phoenix Hawk C
@@ -140,7 +140,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 11 - Succession Wars
+- **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7752/phoenix-hawk-c)
 - **Battle Value:** 1396
 
 ## Phoenix Hawk PXH-3S
@@ -159,7 +159,7 @@
   - Anti-Missile System (ammo: 24)
   - CASE
   - MASC
-- **Source:** ilClan Vol 11 - Succession Wars
+- **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2502/phoenix-hawk-pxh-3s)
 - **Battle Value:** 1237
 
 ## Phoenix Hawk PXH-3M
@@ -177,7 +177,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** ilClan Vol 11 - Succession Wars
+- **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m)
 - **Battle Value:** 1307
 
 ## Phoenix Hawk PXH-3D
@@ -193,7 +193,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
-- **Source:** ilClan Vol 11 - Succession Wars
+- **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d)
 - **Battle Value:** 1315
 
 ## Phoenix Hawk PXH-2K
@@ -207,7 +207,7 @@
   - ER Large Laser
   - Medium Laser × 4
   - Small Laser
-- **Source:** ilClan Vol 11 - Clan Invasion
+- **Sources:** ilClan Vol 11 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2497/phoenix-hawk-pxh-2k)
 - **Battle Value:** 1271
 
 ## Phoenix Hawk PXH-3K
@@ -221,7 +221,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Medium Pulse Laser × 2
-- **Source:** ilClan Vol 11 - Clan Invasion
+- **Sources:** ilClan Vol 11 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2498/phoenix-hawk-pxh-3k)
 - **Battle Value:** 1359
 
 ## Phoenix Hawk PXH-3M (Masters)
@@ -240,7 +240,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2500/phoenix-hawk-pxh-3m-masters)
 - **Battle Value:** 1154
 
 ## Phoenix Hawk PXH-1bC
@@ -259,7 +259,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7602/phoenix-hawk-pxh-1bc)
 - **Battle Value:** 1174
 
 ## Phoenix Hawk PXH-3D (Jiemin)
@@ -273,7 +273,7 @@
 - **Weapons:**
   - Large X-Pulse Laser
   - Medium X-Pulse Laser
-- **Source:** Fronc Reaches
+- **Sources:** Fronc Reaches, [Master Unit List](http://masterunitlist.info/Unit/Details/7699/phoenix-hawk-pxh-3d-jiemin)
 - **Battle Value:** 1322
 
 ## Phoenix Hawk PXH-4L
@@ -290,7 +290,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2503/phoenix-hawk-pxh-4l)
 - **Battle Value:** 1282
 
 ## Phoenix Hawk PXH-3PL
@@ -307,7 +307,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2501/phoenix-hawk-pxh-3pl)
 - **Battle Value:** 1244
 
 ## Phoenix Hawk PXH-6D
@@ -323,7 +323,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2506/phoenix-hawk-pxh-6d)
 - **Battle Value:** 1665
 
 ## Phoenix Hawk PXH-7CS
@@ -340,7 +340,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2507/phoenix-hawk-pxh-7cs)
 - **Battle Value:** 1281
 
 ## Phoenix Hawk PXH-7S
@@ -357,7 +357,7 @@
   - Small Laser
 - **Equipment:**
   - MASC
-- **Source:** TRO Project Pheonix - Civil War
+- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2509/phoenix-hawk-pxh-7s)
 - **Battle Value:** 1496
 
 ## Phoenix Hawk PXH-4L (Sante)
@@ -375,7 +375,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5807/phoenix-hawk-pxh-4l-sante)
 - **Battle Value:** 1442
 
 ## Phoenix Hawk PXH-5L
@@ -391,7 +391,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2505/phoenix-hawk-pxh-5l)
 - **Battle Value:** 1530
 
 ## Phoenix Hawk PXH-7K
@@ -407,7 +407,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k)
 - **Battle Value:** 1241
 
 ## Phoenix Hawk PXH-4W
@@ -424,7 +424,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2504/phoenix-hawk-pxh-4w)
 - **Battle Value:** 1395
 
 ## Phoenix Hawk PXH-8CS
@@ -441,7 +441,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs)
 - **Battle Value:** 1442
 
 ## Phoenix Hawk PXH-4M
@@ -456,7 +456,7 @@
   - Light PPC × 2
   - Medium X-Pulse Laser × 2
   - Small X-Pulse Laser × 2
-- **Source:** ilClan Vol 11 - Early Republic
+- **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7750/phoenix-hawk-pxh-4m)
 - **Battle Value:** 1327
 
 ## Phoenix Hawk PXH-7KJ 'Jasmine'
@@ -492,7 +492,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - Modular Armor × 4
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8106/phoenix-hawk-pxh-99)
 - **Battle Value:** 1444
 
 ## Phoenix Hawk C 2
@@ -510,7 +510,7 @@
 - **Equipment:**
   - Clan Targeting Computer
   - Supercharger
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7753/phoenix-hawk-c-2)
 - **Battle Value:** 2187
 
 ## Phoenix Hawk PXH-9
@@ -527,6 +527,6 @@
   - Light Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 11 - Dark Age
+- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7751/phoenix-hawk-pxh-9)
 - **Battle Value:** 1244
 

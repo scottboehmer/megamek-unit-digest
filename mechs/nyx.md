@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2307/nyx-nx-80)
 - **Battle Value:** 924
 
 ## Nyx NX-80C
@@ -29,7 +29,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - C3 Slave
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c)
 - **Battle Value:** 874
 
 ## Nyx NX-90
@@ -42,7 +42,7 @@
 - **Weapons:**
   - SRM 6 (ammo: 15)
   - Lance × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2309/nyx-nx-90)
 - **Battle Value:** 613
 
 ## Nyx NX-100
@@ -55,7 +55,7 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - MML 3 × 3 (ammo: 40 LRM, 33 SRM)
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6937/nyx-nx-100)
 - **Battle Value:** 917
 
 ## Nyx NX-110
@@ -71,6 +71,6 @@
 - **Equipment:**
   - Bloodhound Active Probe
   - C3 Slave
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6936/nyx-nx-110)
 - **Battle Value:** 805
 

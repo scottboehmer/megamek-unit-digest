@@ -16,7 +16,7 @@
   - CASE II
   - Targeting Computer
   - TAG
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6287/warwolf-prime)
 - **Battle Value:** 2706
 
 ## Warwolf A
@@ -35,7 +35,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6288/warwolf-a)
 - **Battle Value:** 3100
 
 ## Warwolf B
@@ -52,7 +52,7 @@
 - **Equipment:**
   - Laser Anti-Missile System
   - CASE
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6289/warwolf-b)
 - **Battle Value:** 2518
 
 ## Warwolf C
@@ -70,7 +70,7 @@
   - Laser Anti-Missile System
   - Targeting Computer
   - CASE II
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6290/warwolf-c)
 - **Battle Value:** 2776
 
 ## Warwolf H
@@ -88,6 +88,6 @@
   - Coolant Pod × 2
   - CASE II
   - Supercharger
-- **Source:** TRO 3145 The Clans - Dark Ages
+- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6291/warwolf-h)
 - **Battle Value:** 3184
 

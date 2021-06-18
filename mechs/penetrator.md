@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 6
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2465/penetrator-ptr-4d)
 - **Battle Value:** 1687
 
 ## Penetrator PTR-4F
@@ -28,7 +28,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2466/penetrator-ptr-4f)
 - **Battle Value:** 1564
 
 ## Penetrator PTR-6M
@@ -44,7 +44,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2467/penetrator-ptr-6m)
 - **Battle Value:** 1639
 
 ## Penetrator PTR-6S
@@ -61,7 +61,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2468/penetrator-ptr-6s)
 - **Battle Value:** 1689
 
 ## Penetrator PTR-6T
@@ -78,6 +78,6 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2469/penetrator-ptr-6t)
 - **Battle Value:** 1994
 

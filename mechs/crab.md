@@ -10,7 +10,7 @@
   - Large Laser × 2
   - Medium Laser
   - Small Laser
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/716/crab-crb-27)
 - **Battle Value:** 1198
 
 ## Crab CRB-27b
@@ -24,7 +24,7 @@
   - ER Large Laser × 2
   - Medium Laser
   - Small Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/717/crab-crb-27b)
 - **Battle Value:** 1308
 
 ## Crab CRB-27sl
@@ -39,7 +39,7 @@
   - Large Pulse Laser × 2
   - Medium Pulse Laser
   - Medium Laser
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5873/crab-crb-27sl)
 - **Battle Value:** 1309
 
 ## Crab CRB-20
@@ -53,7 +53,7 @@
   - Large Laser × 2
   - Medium Laser
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/715/crab-crb-20)
 - **Battle Value:** 1143
 
 ## Crab CRB-C
@@ -68,7 +68,7 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/720/crab-crb-c)
 - **Battle Value:** 1135
 
 ## Crab CRB-30
@@ -85,7 +85,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/718/crab-crb-30)
 - **Battle Value:** 1509
 
 ## Crab CRB-45
@@ -100,7 +100,7 @@
   - Light PPC × 3
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/719/crab-crb-45)
 - **Battle Value:** 1342
 
 ## Crab CRB-54
@@ -116,5 +116,6 @@
   - ER Small Laser
 - **Equipment:**
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7510/crab-crb-54)
 - **Battle Value:** 1964
 

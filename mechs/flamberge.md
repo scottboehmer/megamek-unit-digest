@@ -13,7 +13,7 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1119/flamberge-prime)
 - **Battle Value:** 2266
 
 ## Flamberge A
@@ -31,7 +31,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1116/flamberge-a)
 - **Battle Value:** 2575
 
 ## Flamberge B
@@ -50,7 +50,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1117/flamberge-b)
 - **Battle Value:** 2750
 
 ## Flamberge C
@@ -70,7 +70,7 @@
   - CASE
   - TAG
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1118/flamberge-c)
 - **Battle Value:** 2126
 
 ## Flamberge 2
@@ -89,7 +89,7 @@
 - **Equipment:**
   - CASE
   - Partial Wing
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1114/flamberge-2)
 - **Battle Value:** 2468
 
 ## Flamberge 3
@@ -108,7 +108,7 @@
 - **Equipment:**
   - CASE
   - Partial Wing
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1115/flamberge-3)
 - **Battle Value:** 2209
 
 ## Flamberge D
@@ -125,6 +125,6 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6873/flamberge-d)
 - **Battle Value:** 2357
 

@@ -12,7 +12,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** DTP Liao
+- **Sources:** DTP Liao, [Master Unit List](http://masterunitlist.info/Unit/Details/5544/yu-huang-carson)
 - **Battle Value:** 2464
 
 ## Yu Huang Y-H10G
@@ -30,7 +30,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3624/yu-huang-y-h10g)
 - **Battle Value:** 2433
 
 ## Yu Huang Y-H9G
@@ -47,7 +47,7 @@
   - LRM 10 (ammo: 12)
   - Medium Pulse Laser
   - Medium Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3626/yu-huang-y-h9g)
 - **Battle Value:** 2074
 
 ## Yu Huang Y-H9GC
@@ -65,7 +65,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - C3 Master
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3628/yu-huang-y-h9gc)
 - **Battle Value:** 2017
 
 ## Yu Huang Y-H9GB
@@ -81,7 +81,7 @@
   - Large Laser
   - LRM 10 (ammo: 12)
   - Medium Laser × 3
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3627/yu-huang-y-h9gb)
 - **Battle Value:** 2039
 
 ## Yu Huang Y-H11G
@@ -100,6 +100,6 @@
   - MML 5 × 2 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3625/yu-huang-y-h11g)
 - **Battle Value:** 2131
 

@@ -11,7 +11,7 @@
   - LRM 5 × 3 (ammo: 24)
   - Small Laser × 2
   - Machine Gun × 2 (ammo: 100)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2647/raptor-rtx1-o)
 - **Battle Value:** 721
 
 ## Raptor RTX1-OA
@@ -24,7 +24,7 @@
 - **Weapons:**
   - Large Laser × 2
   - Small Laser × 3
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2648/raptor-rtx1-oa)
 - **Battle Value:** 783
 
 ## Raptor RTX1-OB
@@ -37,7 +37,7 @@
 - **Weapons:**
   - SRM 6 × 3 (ammo: 30)
   - Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2649/raptor-rtx1-ob)
 - **Battle Value:** 613
 
 ## Raptor RTX1-OC
@@ -52,7 +52,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2650/raptor-rtx1-oc)
 - **Battle Value:** 870
 
 ## Raptor RTX1-OD
@@ -70,7 +70,7 @@
   - Beagle Active Probe
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2651/raptor-rtx1-od)
 - **Battle Value:** 490
 
 ## Raptor RTX1-OE
@@ -83,7 +83,7 @@
 - **Weapons:**
   - MRM 10 × 3 (ammo: 48)
   - Small Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2652/raptor-rtx1-oe)
 - **Battle Value:** 597
 
 ## Raptor RTX1-OR
@@ -99,7 +99,7 @@
   - Clan ER Small Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2655/raptor-rtx1-or)
 - **Battle Value:** 1393
 
 ## Raptor RTX1-OF
@@ -112,7 +112,7 @@
 - **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER Medium Laser × 5
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2653/raptor-rtx1-of)
 - **Battle Value:** 1029
 
 ## Raptor RTX1-OG
@@ -126,7 +126,7 @@
   - Plasma Rifle (ammo: 20)
   - ER Small Laser
   - Small Pulse Laser × 3
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2654/raptor-rtx1-og)
 - **Battle Value:** 857
 
 ## Raptor RTX1-OU
@@ -140,6 +140,6 @@
 - **Weapons:**
   - ER Medium Laser × 3
   - SRT 4 × 2 (ammo: 25)
-- **Source:** TRO 3085 - Jihad
+- **Sources:** TRO 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2656/raptor-rtx1-ou)
 - **Battle Value:** 914
 

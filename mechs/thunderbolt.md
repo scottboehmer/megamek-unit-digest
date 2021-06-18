@@ -13,7 +13,7 @@
   - Medium Laser × 3
   - SRM 2 (ammo: 50)
   - Machine Gun × 2 (ammo: 100)
-- **Source:** XTRO Primitives III - Age of War
+- **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5237/thunderbolt-tdr-1c)
 - **Battle Value:** 1237
 
 ## Thunderbolt TDR-5S
@@ -29,7 +29,7 @@
   - Medium Laser × 3
   - SRM 2 (ammo: 50)
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3238/thunderbolt-tdr-5s)
 - **Battle Value:** 1335
 
 ## Thunderbolt TDR-5Sd
@@ -44,7 +44,7 @@
   - Ultra AC/5 (ammo: 40)
   - Medium Laser × 4
   - SRM 2 (ammo: 50)
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5868/thunderbolt-tdr-5sd)
 - **Battle Value:** 1392
 
 ## Thunderbolt TDR-5Sb
@@ -62,6 +62,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3239/thunderbolt-tdr-5sb)
 - **Battle Value:** 1613
 
 ## Thunderbolt TDR-5D
@@ -74,7 +75,7 @@
 - **Weapons:**
   - AC/20 (ammo: 10)
   - LRM 10 (ammo: 12)
-- **Source:** RS:Succession Wars - Succession Wars
+- **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7431/thunderbolt-tdr-5d)
 - **Battle Value:** 1231
 
 ## Thunderbolt TDR-5L
@@ -92,7 +93,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Hist - 2nd SW
+- **Sources:** Hist - 2nd SW, [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l)
 - **Battle Value:** 1515
 
 ## Thunderbolt TDR-5LS
@@ -108,7 +109,7 @@
   - Medium Laser × 3
   - SRM 2 (ammo: 50)
   - Small Pulse Laser × 2
-- **Source:** Hist - 2nd SW
+- **Sources:** Hist - 2nd SW, [Master Unit List](http://masterunitlist.info/Unit/Details/7763/thunderbolt-tdr-5ls)
 - **Battle Value:** 1374
 
 ## Thunderbolt TDR-5SE
@@ -123,7 +124,7 @@
   - Large Laser
   - LRM 10 (ammo: 24)
   - Medium Laser × 3
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3240/thunderbolt-tdr-5se)
 - **Battle Value:** 1414
 
 ## Thunderbolt TDR-5SS
@@ -138,7 +139,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3241/thunderbolt-tdr-5ss)
 - **Battle Value:** 1337
 
 ## Thunderbolt TDR-5S-T (Tallman)
@@ -151,6 +152,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 8
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242/thunderbolt-tdr-5s-t-tallman)
 - **Battle Value:** 1447
 
 ## Thunderbolt TDR-7M
@@ -168,7 +170,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m)
 - **Battle Value:** 1495
 
 ## Thunderbolt TDR-9SE
@@ -185,7 +187,7 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se)
 - **Battle Value:** 1439
 
 ## Thunderbolt C
@@ -200,6 +202,7 @@
   - ER Large Laser
   - ER Medium Laser
   - ER Small Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c)
 - **Battle Value:** 1671
 
 ## Thunderbolt TDR-9S
@@ -218,7 +221,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s)
 - **Battle Value:** 1494
 
 ## Thunderbolt TDR-10SE
@@ -237,7 +240,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - MASC
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3235/thunderbolt-tdr-10se)
 - **Battle Value:** 2008
 
 ## Thunderbolt TDR-7SE
@@ -253,7 +256,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3245/thunderbolt-tdr-7se)
 - **Battle Value:** 1809
 
 ## Thunderbolt TDR-9M
@@ -270,7 +273,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3246/thunderbolt-tdr-9m)
 - **Battle Value:** 1648
 
 ## Thunderbolt TDR-9NAIS
@@ -288,7 +291,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3247/thunderbolt-tdr-9nais)
 - **Battle Value:** 1864
 
 ## Thunderbolt TDR-11SE
@@ -307,7 +310,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3236/thunderbolt-tdr-11se)
 - **Battle Value:** 1754
 
 ## Thunderbolt TDR-17S
@@ -325,7 +328,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3237/thunderbolt-tdr-17s)
 - **Battle Value:** 1803
 
 ## Thunderbolt TDR-60-RLA
@@ -343,7 +346,7 @@
   - Medium Pulse Laser × 2
   - Small Pulse Laser
   - Small Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3243/thunderbolt-tdr-60-rla)
 - **Battle Value:** 1975
 
 ## Thunderbolt TDR-9Nr
@@ -364,7 +367,7 @@
   - B-Pod × 2
   - C3 Slave
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3248/thunderbolt-tdr-9nr)
 - **Battle Value:** 1632
 
 ## Thunderbolt TDR-10M
@@ -381,7 +384,7 @@
   - Light PPC
   - ER Medium Laser
   - MML 5 (ammo: 24 LRM, 20 SRM)
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3232/thunderbolt-tdr-10m)
 - **Battle Value:** 1727
 
 ## Thunderbolt TDR-9T
@@ -397,7 +400,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3251/thunderbolt-tdr-9t)
 - **Battle Value:** 1589
 
 ## Thunderbolt TDR-10M (Ilyena)
@@ -415,7 +418,7 @@
   - MML 5 (ammo: 20 SRM, 24 LRM)
 - **Equipment:**
   - C3 Master
-- **Source:** TRO 3085/Lamenkov's Liability - Jihad
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3233/thunderbolt-tdr-10m-ilyena)
 - **Battle Value:** 1616
 
 ## Thunderbolt TDR-10M (Salazar)
@@ -437,7 +440,7 @@
   - Flamer
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:**  TRO 3085/BD Salazar Tsakalotos - Jihad
+- **Sources:**  TRO 3085/BD Salazar Tsakalotos - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3234/thunderbolt-tdr-10m-salazar)
 - **Battle Value:** 1763
 
 ## Thunderbolt TDR-10S
@@ -455,6 +458,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NYNU
+- **Sources:** RS 3145 NYNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6877/thunderbolt-tdr-10s)
 - **Battle Value:** 1766
 

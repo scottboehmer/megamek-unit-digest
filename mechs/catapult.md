@@ -10,7 +10,7 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 16)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/478/catapult-cplt-c1)
 - **Battle Value:** 1399
 
 ## Catapult CPLT-A1
@@ -23,7 +23,7 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/477/catapult-cplt-a1)
 - **Battle Value:** 1285
 
 ## Catapult CPLT-C4
@@ -37,7 +37,7 @@
 - **Weapons:**
   - LRM 20 × 2 (ammo: 24)
   - Small Laser × 2
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/482/catapult-cplt-c4)
 - **Battle Value:** 1358
 
 ## Catapult CPLT-K2
@@ -51,7 +51,7 @@
   - PPC × 2
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/487/catapult-cplt-k2)
 - **Battle Value:** 1319
 
 ## Catapult CPLT-C1b
@@ -67,7 +67,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/480/catapult-cplt-c1b)
 - **Battle Value:** 1570
 
 ## Catapult CPLT-C1 (Jenny) 'Butterbee'
@@ -81,7 +81,7 @@
 - **Weapons:**
   - SRM 6 × 4 (ammo: 60)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/479/catapult-cplt-c1-jenny-butterbee)
 - **Battle Value:** 1242
 
 ## Catapult CPLT-K3
@@ -95,7 +95,7 @@
   - ER PPC × 2
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3903/catapult-cplt-k3)
 - **Battle Value:** 1437
 
 ## Catapult CPLT-C3
@@ -109,7 +109,7 @@
 - **Weapons:**
   - Arrow IV (ammo: 5)
   - Medium Laser × 4
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/481/catapult-cplt-c3)
 - **Battle Value:** 1368
 
 ## Catapult CPLT-C4C
@@ -126,7 +126,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5453/catapult-cplt-c4c)
 - **Battle Value:** 1449
 
 ## Catapult CPLT-K2K
@@ -139,7 +139,7 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser × 2
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5454/catapult-cplt-k2k)
 - **Battle Value:** 1716
 
 ## Catapult CPLT-K5
@@ -156,7 +156,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/489/catapult-cplt-k5)
 - **Battle Value:** 1457
 
 ## Catapult CPLT-C5
@@ -172,7 +172,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/483/catapult-cplt-c5)
 - **Battle Value:** 1748
 
 ## Catapult CPLT-C2
@@ -186,7 +186,7 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
   - LB 2-X AC × 2 (ammo: 45 Cluster)
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5452/catapult-cplt-c2)
 - **Battle Value:** 1346
 
 ## Catapult CPLT-H2
@@ -201,7 +201,7 @@
   - PPC
   - Medium Laser × 2
   - Rocket 20 × 8
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/486/catapult-cplt-h2)
 - **Battle Value:** 1473
 
 ## Catapult CPLT-C5A
@@ -217,7 +217,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/484/catapult-cplt-c5a)
 - **Battle Value:** 1772
 
 ## Catapult CPLT-K4
@@ -233,7 +233,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/488/catapult-cplt-k4)
 - **Battle Value:** 1880
 
 ## Catapult CPLT-C6
@@ -249,7 +249,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/485/catapult-cplt-c6)
 - **Battle Value:** 1874
 
 ## Catapult CPLT-K6
@@ -265,5 +265,6 @@
   - ER Small Laser × 4
 - **Equipment:**
   - AES × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7509/catapult-cplt-k6)
 - **Battle Value:** 1619
 

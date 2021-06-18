@@ -11,7 +11,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4906/red-shift-rds-2a)
 - **Battle Value:** 626
 
 ## Red Shift RDS-2B
@@ -26,7 +26,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - TAG
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4907/red-shift-rds-2b)
 - **Battle Value:** 555
 
 ## Red Shift RDS-3A
@@ -40,6 +40,6 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - C3i
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5652/red-shift-rds-3a)
 - **Battle Value:** 869
 

@@ -13,7 +13,7 @@
 - **Equipment:**
   - CASE
   - Quad Turret
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6612/jaguar-standard)
 - **Battle Value:** 1791
 
 ## Jaguar 2
@@ -33,6 +33,6 @@
   - CASE
   - Targeting Computer
   - Light TAG
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6613/jaguar-2)
 - **Battle Value:** 1742
 

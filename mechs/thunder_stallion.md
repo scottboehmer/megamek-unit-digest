@@ -11,7 +11,7 @@
   - LRM 15 × 4 (ammo: 64)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3224/thunder-stallion-standard)
 - **Battle Value:** 2306
 
 ## Thunder Stallion 2 'Fire Stallion'
@@ -26,7 +26,7 @@
   - LRM 15 × 4 (ammo: 64)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3225/thunder-stallion-2-fire-stallion)
 - **Battle Value:** 2575
 
 ## Thunder Stallion 3
@@ -43,7 +43,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3226/thunder-stallion-3)
 - **Battle Value:** 2631
 
 ## Thunder Stallion 4
@@ -62,6 +62,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Shrapnel 3:Dark Age
+- **Sources:** Shrapnel 3:Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7720/thunder-stallion-4)
 - **Battle Value:** 2607
 

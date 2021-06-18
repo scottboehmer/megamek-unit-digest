@@ -13,7 +13,7 @@
 - **Equipment:**
   - CASE II
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2464/pendragon-pdg-1x-muse-red)
 - **Battle Value:** 2230
 
 ## Pendragon PDG-1R
@@ -30,6 +30,7 @@
 - **Equipment:**
   - CASE II
   - C3 Slave
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799/pendragon-pdg-1r)
 - **Battle Value:** 2151
 
 ## Pendragon PDG-3R

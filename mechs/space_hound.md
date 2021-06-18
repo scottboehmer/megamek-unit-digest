@@ -15,5 +15,6 @@
   - Cargo × 3
   - Searchlight
   - Enviro-Sealing
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5101/space-hound-am-prm-sh1-prospectormech)
 - **Battle Value:** unknown
 

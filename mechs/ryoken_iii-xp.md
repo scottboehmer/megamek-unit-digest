@@ -13,6 +13,7 @@
   - Clan ER Large Pulse Laser × 2
   - Clan ER Medium Pulse Laser × 2
   - Clan SRM 6 × 2 (ammo: 30)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7378/ryoken-iii-xp-skinwalker-prime)
 - **Battle Value:** 3063
 
 ## Ryoken III-XP A
@@ -32,6 +33,7 @@
 - **Equipment:**
   - Clan Targeting Computer
   - Radical Heat Sink System
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379/ryoken-iii-xp-skinwalker-a)
 - **Battle Value:** 3915
 
 ## Ryoken III-XP B
@@ -51,6 +53,7 @@
   - Clan ECM Suite
   - Clan Supercharger
   - Clan CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380/ryoken-iii-xp-skinwalker-b)
 - **Battle Value:** 3667
 
 ## Ryoken III-XP C
@@ -69,6 +72,7 @@
   - Clan ER Medium Laser × 6
 - **Equipment:**
   - Clan Targeting Computer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381/ryoken-iii-xp-skinwalker-c)
 - **Battle Value:** 4428
 
 ## Ryoken III-XP D
@@ -90,5 +94,6 @@
   - Clan ER Micro Laser × 2
 - **Equipment:**
   - Clan CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382/ryoken-iii-xp-skinwalker-d)
 - **Battle Value:** 2533
 

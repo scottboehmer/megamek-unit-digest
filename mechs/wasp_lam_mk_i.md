@@ -14,7 +14,7 @@
   - SRM 2 (OS)
 - **Equipment:**
   - Bomb Bay × 5
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5392/wasp-lam-mk-i-wsp-100)
 - **Battle Value:** 489
 
 ## Wasp LAM Mk I WSP-100A
@@ -30,7 +30,7 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - Medium Laser
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5393/wasp-lam-mk-i-wsp-100a)
 - **Battle Value:** 909
 
 ## Wasp LAM Mk I WSP-100b
@@ -48,6 +48,6 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5394/wasp-lam-mk-i-wsp-100b)
 - **Battle Value:** 876
 

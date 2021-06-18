@@ -11,6 +11,6 @@
   - Chainsaw
 - **Equipment:**
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8099/crosscut-iic-solahmamech)
 - **Battle Value:** 571
 

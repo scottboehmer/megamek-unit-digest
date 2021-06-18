@@ -8,7 +8,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Streak SRM 4 × 2 (ammo: 25)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1728/kabuto-kbo-7a)
 - **Battle Value:** 524
 
 ## Kabuto KBO-7B
@@ -20,6 +20,6 @@
 - **Heat Sinks:** 11 (11)
 - **Weapons:**
   - Light PPC × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1729/kabuto-kbo-7b)
 - **Battle Value:** 635
 

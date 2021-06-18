@@ -13,7 +13,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Republic
+- **Sources:** Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/3164/targe-trg-1n)
 - **Battle Value:** 813
 
 ## Targe TRG-2N
@@ -30,7 +30,7 @@
   - ER Small Laser
 - **Equipment:**
   - MASC
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3165/targe-trg-2n)
 - **Battle Value:** 1042
 
 ## Targe TRG-3M
@@ -47,6 +47,6 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6915/targe-trg-3m)
 - **Battle Value:** 1233
 

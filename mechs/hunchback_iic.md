@@ -12,7 +12,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1568/hunchback-iic-standard)
 - **Battle Value:** 1679
 
 ## Hunchback IIC 2
@@ -26,7 +26,7 @@
 - **Weapons:**
   - Heavy Large Laser × 4
   - Medium Pulse Laser × 2
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1569/hunchback-iic-2)
 - **Battle Value:** 1869
 
 ## Hunchback IIC 3
@@ -42,7 +42,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1570/hunchback-iic-3)
 - **Battle Value:** 1951
 
 ## Hunchback IIC 4
@@ -59,7 +59,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1571/hunchback-iic-4)
 - **Battle Value:** 2097
 
 ## Hunchback IIC 5
@@ -75,6 +75,6 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** RecGuide 13 - Dark Ages
+- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8130/hunchback-iic-5)
 - **Battle Value:** 1534
 

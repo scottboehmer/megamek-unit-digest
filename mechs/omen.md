@@ -16,7 +16,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2318/omen-standard)
 - **Battle Value:** 2750
 
 ## Omen 2
@@ -37,6 +37,6 @@
   - Anti-Missile System (ammo: 24)
   - CASE
   - HarJel III × 3
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6853/omen-2)
 - **Battle Value:** 2384
 

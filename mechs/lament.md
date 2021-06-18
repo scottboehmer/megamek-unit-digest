@@ -12,7 +12,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - Radical Heat Sink System
-- **Source:** TRO 3145 Republic of the Sphere - Late Republic
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6676/lament-lmt-2r)
 - **Battle Value:** 1999
 
 ## Lament LMT-2R (Manes)
@@ -29,7 +29,7 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Slave
-- **Source:** TRO 3145 Republic of the Sphere - Late Republic
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7400/lament-lmt-2r-manes)
 - **Battle Value:** 2302
 
 ## Lament LMT-3C
@@ -46,7 +46,7 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Slave
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6722/lament-lmt-3c)
 - **Battle Value:** 1874
 
 ## Lament LMT-3R
@@ -62,7 +62,7 @@
   - Small X-Pulse Laser × 2
 - **Equipment:**
   - Radical Heat Sink System
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6723/lament-lmt-3r)
 - **Battle Value:** 1888
 
 ## Lament LMT-4RC
@@ -78,7 +78,7 @@
 - **Equipment:**
   - Radical Heat Sink System
   - C3 Slave
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc)
 - **Battle Value:** 2490
 
 ## Lament LMT-2D
@@ -96,6 +96,6 @@
   - Angel ECM Suite
   - Radical Heat Sink System
   - Remote Drone Command Console
-- **Source:** XTRO Republic III - Dark Age
+- **Sources:** XTRO Republic III - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7383/lament-lmt-2d)
 - **Battle Value:** 2044
 

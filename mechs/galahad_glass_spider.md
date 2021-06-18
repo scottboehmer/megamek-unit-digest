@@ -10,7 +10,7 @@
   - Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** RecGuide 13 - Succession Wars
+- **Sources:** RecGuide 13 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1170/galahad-glass-spider-standard)
 - **Battle Value:** 1825
 
 ## Glass Spider 2 "Galahad"
@@ -26,7 +26,7 @@
   - Small Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
-- **Source:** RecGuide 13 - Succession Wars
+- **Sources:** RecGuide 13 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1171/galahad-glass-spider-2)
 - **Battle Value:** 2038
 
 ## Glass Spider 3 "Galahad"
@@ -42,7 +42,7 @@
   - Heavy Medium Laser × 3
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1172/galahad-glass-spider-3)
 - **Battle Value:** 2508
 
 ## Glass Spider 4 "Galahad"
@@ -59,6 +59,6 @@
   - CASE
   - Targeting Computer
   - Supercharger
-- **Source:** RecGuide 13 - Dark Ages
+- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8131/galahad-glass-spider-4)
 - **Battle Value:** 2309
 

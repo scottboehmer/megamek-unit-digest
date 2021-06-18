@@ -11,7 +11,7 @@
 - **Weapons:**
   - LRM 10 × 2 (ammo: 24)
   - SRM 2 × 2 (ammo: 100)
-- **Source:** XTRO Primitives III - Age of War
+- **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/877/dervish-dv-1s)
 - **Battle Value:** 864
 
 ## Dervish DV-6M
@@ -26,7 +26,7 @@
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
   - SRM 2 × 2 (ammo: 100)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/878/dervish-dv-6m)
 - **Battle Value:** 1146
 
 ## Dervish DV-6Md
@@ -43,7 +43,7 @@
   - SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5869/dervish-dv-6md)
 - **Battle Value:** 1251
 
 ## Dervish DV-7D
@@ -60,7 +60,7 @@
   - Streak SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/880/dervish-dv-7d)
 - **Battle Value:** 1412
 
 ## Dervish DV-8D
@@ -76,7 +76,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/881/dervish-dv-8d)
 - **Battle Value:** 1765
 
 ## Dervish DV-9D
@@ -93,7 +93,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/883/dervish-dv-9d)
 - **Battle Value:** 1518
 
 ## Dervish DV-8D2 'Lightbringer'
@@ -110,6 +110,7 @@
 - **Equipment:**
   - Spikes
   - Coolant Pod × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882/dervish-dv-8d2-lightbringer)
 - **Battle Value:** 1717
 
 ## Dervish DV-6Mr
@@ -124,6 +125,6 @@
   - LRM 10 × 2 (ammo: 24)
   - Medium Pulse Laser × 2
   - Medium Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr)
 - **Battle Value:** 1347
 

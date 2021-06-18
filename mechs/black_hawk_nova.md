@@ -9,7 +9,7 @@
 - **Heat Sinks:** 18 (36)
 - **Weapons:**
   - ER Medium Laser × 12
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/342/black-hawk-nova-prime)
 - **Battle Value:** 2663
 
 ## Nova "Black Hawk" A
@@ -26,7 +26,7 @@
 - **Equipment:**
   - Anti-Missile System × 2 (ammo: 24)
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/335/black-hawk-nova-a)
 - **Battle Value:** 2422
 
 ## Nova "Black Hawk" B
@@ -44,7 +44,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/336/black-hawk-nova-b)
 - **Battle Value:** 1543
 
 ## Nova "Black Hawk" C
@@ -61,7 +61,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/337/black-hawk-nova-c)
 - **Battle Value:** 1515
 
 ## Nova "Black Hawk" D
@@ -77,7 +77,7 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/338/black-hawk-nova-d)
 - **Battle Value:** 1450
 
 ## Nova "Black Hawk" S
@@ -95,7 +95,7 @@
   - Anti-Missile System (ammo: 24)
   - Active Probe
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/343/black-hawk-nova-s)
 - **Battle Value:** 2056
 
 ## Nova "Black Hawk" E
@@ -111,7 +111,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/339/black-hawk-nova-e)
 - **Battle Value:** 2078
 
 ## Nova "Black Hawk" H
@@ -124,7 +124,7 @@
 - **Heat Sinks:** 20 (40)
 - **Weapons:**
   - Heavy Medium Laser × 10
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/341/black-hawk-nova-h)
 - **Battle Value:** 1832
 
 ## Nova "Black Hawk" F
@@ -140,7 +140,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/340/black-hawk-nova-f)
 - **Battle Value:** 1976
 
 ## Nova "Black Hawk" U
@@ -163,7 +163,7 @@
   - Liquid Cargo × 2
   - CASE
   - Inner Sphere HarJel
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/344/black-hawk-nova-u)
 - **Battle Value:** 1413
 
 ## Nova "Black Hawk" I
@@ -177,7 +177,7 @@
 - **Weapons:**
   - ER PPC
   - Improved Heavy Medium Laser × 5
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i)
 - **Battle Value:** 2224
 
 ## Nova "Black Hawk" X
@@ -193,7 +193,7 @@
   - ER Medium Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6910/black-hawk-nova-x)
 - **Battle Value:** 2761
 
 ## Nova "Black Hawk" G
@@ -211,7 +211,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g)
 - **Battle Value:** 1822
 
 ## Nova "Black Hawk" J
@@ -227,7 +227,7 @@
   - Streak LRM 15 (ammo: 16)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j)
 - **Battle Value:** 2052
 
 ## Nova "Black Hawk" K
@@ -244,7 +244,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k)
 - **Battle Value:** 1932
 
 ## Nova "Black Hawk" L
@@ -258,7 +258,7 @@
 - **Weapons:**
   - Improved Heavy Large Laser × 2
   - Plasma Cannon × 2 (ammo: 20)
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l)
 - **Battle Value:** 2177
 
 ## Nova "Black Hawk" R
@@ -275,7 +275,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r)
 - **Battle Value:** 1597
 
 ## Nova "Black Hawk" T
@@ -290,6 +290,6 @@
   - Medium Chemical Laser × 12 (ammo: 120)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t)
 - **Battle Value:** 1579
 

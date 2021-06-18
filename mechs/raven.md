@@ -11,7 +11,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - EW Equipment
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2662/raven-rvn-1x)
 - **Battle Value:** 639
 
 ## Raven RVN-3X
@@ -27,7 +27,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - EW Equipment
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2665/raven-rvn-3x)
 - **Battle Value:** 691
 
 ## Raven RVN-2X
@@ -41,7 +41,7 @@
   - Large Laser
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2663/raven-rvn-2x)
 - **Battle Value:** 887
 
 ## Raven RVN-4X
@@ -56,7 +56,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2669/raven-rvn-4x)
 - **Battle Value:** 820
 
 ## Raven RVN-3L
@@ -75,7 +75,7 @@
   - Beagle Active Probe
   - CASE
   - TAG
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2664/raven-rvn-3l)
 - **Battle Value:** 708
 
 ## Raven RVN-3M
@@ -92,7 +92,7 @@
   - Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5444/raven-rvn-3m)
 - **Battle Value:** 659
 
 ## Raven RVN-4LC
@@ -111,7 +111,7 @@
   - Guardian ECM Suite
   - TAG
   - C3 Slave
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2667/raven-rvn-4lc)
 - **Battle Value:** 871
 
 ## Raven RVN-4L
@@ -129,7 +129,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2666/raven-rvn-4l)
 - **Battle Value:** 873
 
 ## Raven RVN-SR 'Shattered Raven'
@@ -148,7 +148,7 @@
   - Beagle Active Probe
   - Machine Gun Array
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2670/raven-rvn-sr-shattered-raven)
 - **Battle Value:** 581
 
 ## Raven RVN-SS 'Shattered Raven'
@@ -167,7 +167,7 @@
   - Beagle Active Probe
   - CASE
   - TAG
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2671/raven-rvn-ss-shattered-raven)
 - **Battle Value:** 904
 
 ## Raven RVN-4Lr
@@ -185,7 +185,7 @@
   - Beagle Active Probe
   - TAG
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2668/raven-rvn-4lr)
 - **Battle Value:** 923
 
 ## Raven RVN-5L
@@ -203,5 +203,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - TAG
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l)
 - **Battle Value:** 1035
 

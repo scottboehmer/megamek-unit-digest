@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 25)
   - Sword
   - SRM 2 (ammo: 50)
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4730/no-dachi-nda-1k)
 - **Battle Value:** 1708
 
 ## No-Dachi NDA-2K
@@ -33,7 +33,7 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4732/no-dachi-nda-2k)
 - **Battle Value:** 1739
 
 ## No-Dachi NDA-2KO
@@ -52,7 +52,7 @@
   - Small Pulse Laser
   - Small Laser
   - Flamer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4733/no-dachi-nda-2ko)
 - **Battle Value:** 1728
 
 ## No-Dachi NDA-2KC
@@ -73,7 +73,7 @@
   - Flamer
 - **Equipment:**
   - C3 Slave
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2297/no-dachi-nda-2kc)
 - **Battle Value:** 1705
 
 ## No-Dachi NDA-3X
@@ -92,7 +92,7 @@
   - Large Vibroblade
 - **Equipment:**
   - Clan Supercharger
-- **Source:** XTRO Kurita - Jihad
+- **Sources:** XTRO Kurita - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2298/no-dachi-nda-3x)
 - **Battle Value:** 2609
 
 ## No-Dachi NDA-3S
@@ -112,5 +112,6 @@
   - Small Laser × 3
 - **Equipment:**
   - Guardian ECM Suite
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692/no-dachi-nda-3s)
 - **Battle Value:** 1706
 

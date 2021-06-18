@@ -13,7 +13,7 @@
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1464/helios-hel-3d)
 - **Battle Value:** 1618
 
 ## Helios HEL-4A
@@ -30,7 +30,7 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1465/helios-hel-4a)
 - **Battle Value:** 1519
 
 ## Helios HEL-C
@@ -48,7 +48,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1467/helios-hel-c)
 - **Battle Value:** 1533
 
 ## Helios HEL-6X
@@ -66,6 +66,6 @@
   - Medium VSP Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1466/helios-hel-6x)
 - **Battle Value:** 1761
 

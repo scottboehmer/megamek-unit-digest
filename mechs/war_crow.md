@@ -13,7 +13,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7545/war-crow-prime)
 - **Battle Value:** 2649
 
 ## War Crow A
@@ -31,7 +31,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7546/war-crow-a)
 - **Battle Value:** 3030
 
 ## War Crow B
@@ -49,7 +49,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7547/war-crow-b)
 - **Battle Value:** 2787
 
 ## War Crow C
@@ -66,6 +66,6 @@
 - **Equipment:**
   - Inner Sphere Coolant Pod
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7548/war-crow-c)
 - **Battle Value:** 2572
 

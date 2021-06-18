@@ -12,7 +12,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2097/masakari-warhawk-prime)
 - **Battle Value:** 3194
 
 ## Warhawk "Masakari" A
@@ -30,7 +30,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2091/masakari-warhawk-a)
 - **Battle Value:** 2399
 
 ## Warhawk "Masakari" B
@@ -49,7 +49,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2092/masakari-warhawk-b)
 - **Battle Value:** 2320
 
 ## Warhawk "Masakari" C
@@ -65,7 +65,7 @@
   - Flamer
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2093/masakari-warhawk-c)
 - **Battle Value:** 2998
 
 ## Warhawk "Masakari" D
@@ -83,7 +83,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2094/masakari-warhawk-d)
 - **Battle Value:** 2474
 
 ## Warhawk "Masakari" F
@@ -101,7 +101,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5491/masakari-warhawk-f)
 - **Battle Value:** 2775
 
 ## Warhawk "Masakari" H
@@ -118,7 +118,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2096/masakari-warhawk-h)
 - **Battle Value:** 2601
 
 ## Warhawk "Masakari" E
@@ -136,6 +136,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2095/masakari-warhawk-e)
 - **Battle Value:** 2895
 

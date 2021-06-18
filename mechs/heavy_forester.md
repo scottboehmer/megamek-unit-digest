@@ -14,7 +14,7 @@
   - Lift Hoist × 2
   - Cargo × 2
   - Ejection Seat
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4529/heavy-forester-hfl-1-loggermech)
 - **Battle Value:** 433
 
 ## Heavy Forester HFL-1M LoggerMech MOD
@@ -31,6 +31,6 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Ejection Seat
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7871/heavy-forester-hfl-1m-loggermech-mod)
 - **Battle Value:** 465
 

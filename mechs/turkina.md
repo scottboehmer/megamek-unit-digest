@@ -13,7 +13,7 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3332/turkina-prime)
 - **Battle Value:** 2944
 
 ## Turkina A
@@ -29,7 +29,7 @@
   - LRM 20 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3326/turkina-a)
 - **Battle Value:** 2906
 
 ## Turkina B
@@ -47,7 +47,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3327/turkina-b)
 - **Battle Value:** 3420
 
 ## Turkina C
@@ -69,7 +69,7 @@
   - Active Probe
   - A-Pod × 2
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3328/turkina-c)
 - **Battle Value:** 2798
 
 ## Turkina D
@@ -85,7 +85,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3329/turkina-d)
 - **Battle Value:** 3132
 
 ## Turkina H
@@ -103,7 +103,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO Clan Invasion - Civil War
+- **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3331/turkina-h)
 - **Battle Value:** 2712
 
 ## Turkina E
@@ -119,7 +119,7 @@
   - Streak SRM 6 × 6 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e)
 - **Battle Value:** 3147
 
 ## Turkina Z
@@ -136,7 +136,7 @@
   - Nova CEWS
   - CASE
   - Light TAG
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5832/turkina-z)
 - **Battle Value:** 3935
 
 ## Turkina U
@@ -159,7 +159,7 @@
   - Inner Sphere HarJel × 5
   - CASE
   - Liquid Cargo × 2
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u)
 - **Battle Value:** 2472
 
 ## Turkina X
@@ -177,6 +177,6 @@
   - ECM Suite
   - Talons
   - CASE II
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x)
 - **Battle Value:** 3056
 

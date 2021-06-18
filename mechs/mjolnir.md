@@ -12,7 +12,7 @@
   - ER Medium Laser
   - ER Small Laser
   - Mace
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2194/mjolnir-mlr-b2)
 - **Battle Value:** 670
 
 ## Mjolnir MLR-BX
@@ -28,6 +28,6 @@
 - **Weapons:**
   - SRM 4 × 2 (ammo: 25)
   - Mace
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2195/mjolnir-mlr-bx)
 - **Battle Value:** 612
 

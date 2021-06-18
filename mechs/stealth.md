@@ -14,7 +14,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3052/stealth-sth-1d)
 - **Battle Value:** 1231
 
 ## Stealth STH-2D
@@ -31,7 +31,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3054/stealth-sth-2d)
 - **Battle Value:** 1508
 
 ## Stealth STH-2D1
@@ -49,7 +49,7 @@
   - Beagle Active Probe
   - MASC
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3055/stealth-sth-2d1)
 - **Battle Value:** 1339
 
 ## Stealth STH-2D2
@@ -67,7 +67,7 @@
   - Beagle Active Probe
   - MASC
   - TAG
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3056/stealth-sth-2d2)
 - **Battle Value:** 1339
 
 ## Stealth STH-1D (Anna)
@@ -84,6 +84,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3053/stealth-sth-1d-anna)
 - **Battle Value:** 1540
 
 ## Stealth STH-3S
@@ -99,7 +100,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3057/stealth-sth-3s)
 - **Battle Value:** 1577
 
 ## Stealth STH-5X
@@ -119,6 +120,6 @@
   - Clan Active Probe
   - Chameleon LPS
   - MASC
-- **Source:** XTRO Steiner - Jihad
+- **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5130/stealth-sth-5x)
 - **Battle Value:** 2155
 

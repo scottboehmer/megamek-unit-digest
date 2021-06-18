@@ -11,7 +11,7 @@
   - Mace
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Lyran Commonwealth - Early Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6615/storm-raider-stm-r1)
 - **Battle Value:** 593
 
 ## Storm Raider STM-R2
@@ -27,7 +27,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Source:** TRO 3145 Lyran Commonwealth - Early Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6616/storm-raider-stm-r2)
 - **Battle Value:** 671
 
 ## Storm Raider STM-R3
@@ -43,7 +43,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6614/storm-raider-stm-r3)
 - **Battle Value:** 791
 
 ## Storm Raider STM-R4
@@ -58,6 +58,6 @@
   - Mace
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6617/storm-raider-stm-r4)
 - **Battle Value:** 732
 

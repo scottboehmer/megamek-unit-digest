@@ -10,7 +10,7 @@
   - Large Laser × 2
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2348/ostroc-osr-2c)
 - **Battle Value:** 1228
 
 ## Ostroc OSR-2Cb
@@ -24,7 +24,7 @@
   - ER Large Laser × 2
   - Medium Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2350/ostroc-osr-2cb)
 - **Battle Value:** 1478
 
 ## Ostroc OSR-2M
@@ -37,7 +37,7 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - Large Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2353/ostroc-osr-2m)
 - **Battle Value:** 1239
 
 ## Ostroc OSR-3C
@@ -49,7 +49,7 @@
 - **Heat Sinks:** 15 (15)
 - **Weapons:**
   - Large Laser × 3
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2354/ostroc-osr-3c)
 - **Battle Value:** 1288
 
 ## Ostroc OSR-2L
@@ -63,7 +63,7 @@
   - Large Laser × 2
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2352/ostroc-osr-2l)
 - **Battle Value:** 1233
 
 ## Ostroc OSR-2C (Michi)
@@ -78,6 +78,7 @@
   - Large Laser × 2
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349/ostroc-osr-2c-michi)
 - **Battle Value:** 1321
 
 ## Ostroc OSR-2D
@@ -91,7 +92,7 @@
   - ER Large Laser × 2
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2351/ostroc-osr-2d)
 - **Battle Value:** 1396
 
 ## Ostroc OSR-4C
@@ -106,7 +107,7 @@
   - Medium Laser × 2
   - Rocket 15 × 2
   - Rocket 10 × 2
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c)
 - **Battle Value:** 1325
 
 ## Ostroc OSR-4L
@@ -122,7 +123,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2357/ostroc-osr-4l)
 - **Battle Value:** 1778
 
 ## Ostroc OSR-5W
@@ -140,7 +141,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2359/ostroc-osr-5w)
 - **Battle Value:** 1655
 
 ## Ostroc OSR-4K
@@ -155,7 +156,7 @@
 - **Weapons:**
   - Snub-Nose PPC × 2
   - ER Medium Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2356/ostroc-osr-4k)
 - **Battle Value:** 1490
 
 ## Ostroc OSR-5C
@@ -171,6 +172,6 @@
   - Light PPC
   - ER Medium Laser
   - Medium Pulse Laser
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c)
 - **Battle Value:** 1788
 

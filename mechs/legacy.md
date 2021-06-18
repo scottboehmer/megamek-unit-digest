@@ -15,7 +15,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4488/legacy-lgc-01)
 - **Battle Value:** 1967
 
 ## Legacy LGC-02
@@ -35,7 +35,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4489/legacy-lgc-02)
 - **Battle Value:** 2033
 
 ## Legacy LGC-03
@@ -54,7 +54,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/4490/legacy-lgc-03)
 - **Battle Value:** 2121
 
 ## Legacy LGC-04-WVR
@@ -72,7 +72,7 @@
 - **Equipment:**
   - C3i
   - MASC
-- **Source:** RS 3067 - Jihad
+- **Sources:** RS 3067 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5702/legacy-lgc-04-wvr)
 - **Battle Value:** 1745
 
 ## Legacy LGC-05
@@ -92,5 +92,6 @@
 - **Equipment:**
   - C3i
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5703/legacy-lgc-05)
 - **Battle Value:** 1598
 

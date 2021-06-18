@@ -10,7 +10,7 @@
   - ER PPC
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/91/arctic-fox-af1)
 - **Battle Value:** 983
 
 ## Arctic Fox AF1A
@@ -24,7 +24,7 @@
 - **Weapons:**
   - Medium Pulse Laser × 4
   - Small Pulse Laser × 3
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/92/arctic-fox-af1a)
 - **Battle Value:** 858
 
 ## Arctic Fox AF1B
@@ -37,7 +37,7 @@
 - **Weapons:**
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/93/arctic-fox-af1b)
 - **Battle Value:** 735
 
 ## Arctic Fox AF1C
@@ -50,7 +50,7 @@
 - **Weapons:**
   - ER PPC
   - Large Pulse Laser
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/94/arctic-fox-af1c)
 - **Battle Value:** 948
 
 ## Arctic Fox AF1D
@@ -62,7 +62,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/95/arctic-fox-af1d)
 - **Battle Value:** 744
 
 ## Arctic Fox AF1E
@@ -75,7 +75,7 @@
 - **Weapons:**
   - Light PPC × 4
   - ER Medium Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/96/arctic-fox-af1e)
 - **Battle Value:** 1094
 
 ## Arctic Fox AF1F
@@ -88,7 +88,7 @@
 - **Weapons:**
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM)
   - ER Medium Laser × 3
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/97/arctic-fox-af1f)
 - **Battle Value:** 891
 
 ## Arctic Fox AF1U
@@ -104,6 +104,6 @@
   - Light PPC
 - **Equipment:**
   - MASS
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/98/arctic-fox-af1u)
 - **Battle Value:** 821
 

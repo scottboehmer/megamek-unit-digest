@@ -9,7 +9,7 @@
 - **Weapons:**
   - PPC
   - Medium Laser × 2
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3152/talon-tln-5v)
 - **Battle Value:** 1075
 
 ## Talon TLN-5W
@@ -22,7 +22,7 @@
 - **Weapons:**
   - ER PPC
   - Medium Laser × 2
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3153/talon-tln-5w)
 - **Battle Value:** 1175
 
 ## Talon TLN-5W-EC
@@ -35,7 +35,7 @@
 - **Weapons:**
   - Enhanced PPC
   - Inner Sphere Medium Laser × 2
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7677/talon-tln-5w-ec)
 - **Battle Value:** 1364
 
 ## Talon TLN-5VNO
@@ -62,7 +62,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3154/talon-tln-5z)
 - **Battle Value:** 1168
 
 ## Talon TLN-6W
@@ -75,6 +75,6 @@
 - **Weapons:**
   - Heavy PPC
   - Medium Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3155/talon-tln-6w)
 - **Battle Value:** 1341
 

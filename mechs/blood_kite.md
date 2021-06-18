@@ -13,7 +13,7 @@
   - SRM 4 × 3 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3836/blood-kite-standard)
 - **Battle Value:** 2776
 
 ## Blood Kite 2
@@ -30,6 +30,6 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3837/blood-kite-2)
 - **Battle Value:** 3122
 

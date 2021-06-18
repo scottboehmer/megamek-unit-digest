@@ -9,7 +9,7 @@
 - **Weapons:**
   - Large Laser × 2
   - Medium Laser × 4
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2371/ostsol-otl-4d)
 - **Battle Value:** 1277
 
 ## Ostsol OTL-4F
@@ -21,7 +21,7 @@
 - **Heat Sinks:** 16 (16)
 - **Weapons:**
   - PPC × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2372/ostsol-otl-4f)
 - **Battle Value:** 1264
 
 ## Ostsol OTL-5M
@@ -36,7 +36,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m)
 - **Battle Value:** 1245
 
 ## Ostsol OTL-6D
@@ -54,7 +54,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2375/ostsol-otl-6d)
 - **Battle Value:** 1880
 
 ## Ostsol OTL-5D
@@ -68,7 +68,7 @@
   - Large Laser × 2
   - Medium Laser × 2
   - Rocket 10 × 5
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2373/ostsol-otl-5d)
 - **Battle Value:** 1333
 
 ## Ostsol OTL-7M
@@ -83,7 +83,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2376/ostsol-otl-7m)
 - **Battle Value:** 1581
 
 ## Ostsol OTL-8M
@@ -100,7 +100,7 @@
   - ER Medium Laser
   - Medium Pulse Laser × 3
   - ER Small Laser
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2378/ostsol-otl-8m)
 - **Battle Value:** 1733
 
 ## Ostsol OTL-8D
@@ -118,7 +118,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2377/ostsol-otl-8d)
 - **Battle Value:** 1462
 
 ## Ostsol OTL-9R
@@ -139,7 +139,7 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2380/ostsol-otl-9r)
 - **Battle Value:** 1654
 
 ## Ostsol OTL-9M
@@ -157,7 +157,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2379/ostsol-otl-9m)
 - **Battle Value:** 1871
 
 ## Ostsol C
@@ -173,7 +173,7 @@
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c)
 - **Battle Value:** 2277
 
 ## Ostsol OTL-8E
@@ -188,7 +188,7 @@
   - Large X-Pulse Laser × 2
   - Medium X-Pulse Laser × 2
   - ER Small Laser × 2
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e)
 - **Battle Value:** 1552
 
 ## Ostsol OTL-8E3
@@ -204,7 +204,7 @@
   - Large X-Pulse Laser × 2
   - Medium X-Pulse Laser × 2
   - ER Small Laser × 2
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3)
 - **Battle Value:** 1671
 
 ## Ostsol OTL-8F
@@ -218,6 +218,6 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser × 4
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f)
 - **Battle Value:** 1698
 

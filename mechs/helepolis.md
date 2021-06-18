@@ -12,7 +12,7 @@
   - Sniper (ammo: 20)
   - SRM 6 (ammo: 15)
   - Medium Laser
-- **Source:** XTRO Primitives I - Age of War
+- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1460/helepolis-hep-1h)
 - **Battle Value:** 1063
 
 ## Helepolis HEP-2H
@@ -30,7 +30,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1461/helepolis-hep-2h)
 - **Battle Value:** 1369
 
 ## Helepolis HEP-3H
@@ -48,7 +48,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1462/helepolis-hep-3h)
 - **Battle Value:** 1380
 
 ## Helepolis HEP-4H
@@ -66,6 +66,6 @@
   - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1463/helepolis-hep-4h)
 - **Battle Value:** 1366
 

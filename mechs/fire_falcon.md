@@ -13,7 +13,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1070/fire-falcon-prime)
 - **Battle Value:** 1451
 
 ## Fire Falcon A
@@ -29,7 +29,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1063/fire-falcon-a)
 - **Battle Value:** 822
 
 ## Fire Falcon B
@@ -43,7 +43,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1064/fire-falcon-b)
 - **Battle Value:** 1570
 
 ## Fire Falcon C
@@ -62,7 +62,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1065/fire-falcon-c)
 - **Battle Value:** 1004
 
 ## Fire Falcon D
@@ -79,7 +79,7 @@
 - **Equipment:**
   - CASE
   - TAG
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1066/fire-falcon-d)
 - **Battle Value:** 826
 
 ## Fire Falcon E
@@ -93,7 +93,7 @@
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1067/fire-falcon-e)
 - **Battle Value:** 1094
 
 ## Fire Falcon H
@@ -107,7 +107,7 @@
   - Medium Pulse Laser × 2
   - Heavy Medium Laser × 2
   - Heavy Small Laser × 2
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1069/fire-falcon-h)
 - **Battle Value:** 1162
 
 ## Fire Falcon F
@@ -126,6 +126,6 @@
   - Machine Gun Array × 2
   - Active Probe
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f)
 - **Battle Value:** 1135
 

@@ -13,7 +13,7 @@
   - ECM Suite
   - Active Probe
   - TAG
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2428/parash-standard)
 - **Battle Value:** 1300
 
 ## Parash 3
@@ -32,7 +32,7 @@
   - Angel ECM Suite
   - Bloodhound Active Probe
   - Clan TAG
-- **Source:** XTR Republic III - Jihad
+- **Sources:** XTR Republic III - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7375/parash-3)
 - **Battle Value:** 1785
 
 ## Parash 2
@@ -49,6 +49,6 @@
 - **Equipment:**
   - Watchdog CEWS
   - Light TAG
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2427/parash-2)
 - **Battle Value:** 1523
 

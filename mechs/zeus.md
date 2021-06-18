@@ -11,7 +11,7 @@
   - LRM 15 w/ Artemis IV (ammo: 8)
   - ER Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3641/zeus-zeu-5t)
 - **Battle Value:** 1729
 
 ## Zeus ZEU-5S
@@ -26,7 +26,7 @@
   - ER Large Laser
   - Ultra AC/5 (ammo: 40)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3640/zeus-zeu-5s)
 - **Battle Value:** 1474
 
 ## Zeus ZEU-6S
@@ -41,7 +41,7 @@
   - Large Laser
   - AC/5 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3642/zeus-zeu-6s)
 - **Battle Value:** 1348
 
 ## Zeus ZEU-6Y
@@ -55,7 +55,7 @@
   - Blazer Cannon
   - LRM 10 (ammo: 12)
   - AC/5 (ammo: 20)
-- **Source:** XTRO Succession Wars
+- **Sources:** XTRO Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y)
 - **Battle Value:** 1323
 
 ## Zeus ZEU-6A
@@ -70,7 +70,7 @@
   - Large Laser
   - SRM 6 × 3 (ammo: 15)
   - Medium Laser × 2
-- **Source:** RS:Succession Wars - Succession Wars
+- **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7432/zeus-zeu-6a)
 - **Battle Value:** 1405
 
 ## Zeus ZEU-6T
@@ -85,7 +85,7 @@
   - LRM 15 (ammo: 8)
   - Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3643/zeus-zeu-6t)
 - **Battle Value:** 1436
 
 ## Zeus ZEU-9S
@@ -102,7 +102,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3644/zeus-zeu-9s)
 - **Battle Value:** 1639
 
 ## Zeus ZEU-9S-DC
@@ -120,7 +120,7 @@
 - **Equipment:**
   - Command Console
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5438/zeus-zeu-9s-dc)
 - **Battle Value:** 1612
 
 ## Zeus ZEU-9S2
@@ -136,7 +136,7 @@
   - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5459/zeus-zeu-9s2)
 - **Battle Value:** 1769
 
 ## Zeus (Leonidas)
@@ -151,6 +151,7 @@
   - LRM 20 w/ Artemis IV (ammo: 12)
   - ER Large Laser
   - Medium Pulse Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3638/zeus-leonidas)
 - **Battle Value:** 1878
 
 ## Zeus ZEU-9T
@@ -168,7 +169,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3645/zeus-zeu-9t)
 - **Battle Value:** 1832
 
 ## Zeus ZEU-10WB
@@ -183,7 +184,7 @@
   - Heavy PPC × 2
   - ER Large Laser
   - ER Medium Laser × 4
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3639/zeus-zeu-10wb)
 - **Battle Value:** 2075
 
 ## Zeus ZEU-11S
@@ -202,6 +203,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE II
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7455/zeus-zeu-11s)
 - **Battle Value:** 2280
 

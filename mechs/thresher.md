@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3198/thresher-standard)
 - **Battle Value:** 2314
 
 ## Thresher 2
@@ -34,7 +34,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3199/thresher-2)
 - **Battle Value:** 2337
 
 ## Thresher (Edward)
@@ -53,5 +53,6 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3197/thresher-edward)
 - **Battle Value:** 2104
 

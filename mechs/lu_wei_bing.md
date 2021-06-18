@@ -15,6 +15,6 @@
 - **Equipment:**
   - Angel ECM Suite
   - CASE II
-- **Source:** TRO 3145 Capellan Confederation - Late Republic
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6471/lu-wei-bing-ln-4b)
 - **Battle Value:** 2045
 

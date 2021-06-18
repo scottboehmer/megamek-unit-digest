@@ -12,7 +12,7 @@
   - LRM 5 × 3 (ammo: 48)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a)
 - **Battle Value:** 1478
 
 ## Bandersnatch BNDR-01A (Horus)
@@ -28,6 +28,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780/bandersnatch-bndr-01a-horus)
 - **Battle Value:** 1584
 
 ## Bandersnatch BNDR-01B
@@ -45,7 +46,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/219/bandersnatch-bndr-01b)
 - **Battle Value:** 1630
 
 ## Bandersnatch BNDR-01Ar
@@ -63,6 +64,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/218/bandersnatch-bndr-01ar)
 - **Battle Value:** 1522
 

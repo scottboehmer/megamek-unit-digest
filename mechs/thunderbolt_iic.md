@@ -12,5 +12,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard)
 - **Battle Value:** 2475
 

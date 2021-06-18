@@ -12,7 +12,7 @@
   - AC/2 (ammo: 45)
   - Flamer
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3458/vulcan-vl-2t)
 - **Battle Value:** 642
 
 ## Vulcan VL-5T
@@ -27,7 +27,7 @@
   - Medium Laser × 4
   - Flamer
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3459/vulcan-vl-5t)
 - **Battle Value:** 942
 
 ## Vulcan VL-2T (Timms)
@@ -42,7 +42,7 @@
   - AC/2 (ammo: 45)
   - Small Laser
   - Flamer × 3
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7797/vulcan-vl-2t-timms)
 - **Battle Value:** 603
 
 ## Vulcan VT-5M
@@ -58,7 +58,7 @@
   - Medium Pulse Laser
   - Flamer
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3461/vulcan-vt-5m)
 - **Battle Value:** 811
 
 ## Vulcan VT-5S
@@ -77,7 +77,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3462/vulcan-vt-5s)
 - **Battle Value:** 883
 
 ## Vulcan VT-6M
@@ -93,7 +93,7 @@
   - ER Medium Laser
   - Flamer
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3465/vulcan-vt-6m)
 - **Battle Value:** 959
 
 ## Vulcan VT-6C
@@ -112,7 +112,7 @@
 - **Equipment:**
   - Machine Gun Array
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3464/vulcan-vt-6c)
 - **Battle Value:** 940
 
 ## Vulcan VT-5Sr
@@ -131,7 +131,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3463/vulcan-vt-5sr)
 - **Battle Value:** 1210
 
 ## Vulcan VT-5ML 'Aladdin'

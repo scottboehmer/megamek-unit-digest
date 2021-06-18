@@ -15,7 +15,7 @@
   - Partial Wing
   - CASE
   - TAG
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7484/hierofalcon-prime)
 - **Battle Value:** 1878
 
 ## Hierofalcon A
@@ -34,7 +34,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7485/hierofalcon-a)
 - **Battle Value:** 1953
 
 ## Hierofalcon B
@@ -52,7 +52,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE II
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7486/hierofalcon-b)
 - **Battle Value:** 1737
 
 ## Hierofalcon C
@@ -69,7 +69,7 @@
 - **Equipment:**
   - Partial Wing
   - CASE
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7487/hierofalcon-c)
 - **Battle Value:** 1983
 
 ## Hierofalcon D
@@ -87,6 +87,6 @@
   - Partial Wing
   - CASE II
   - Supercharger
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7488/hierofalcon-d)
 - **Battle Value:** 2183
 

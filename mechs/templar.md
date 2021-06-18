@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5191/templar-tlr1-o)
 - **Battle Value:** 2045
 
 ## Templar TLR1-OA
@@ -34,7 +34,7 @@
   - Guardian ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5195/templar-tlr1-oa)
 - **Battle Value:** 2070
 
 ## Templar TLR1-OB
@@ -50,7 +50,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5196/templar-tlr1-ob)
 - **Battle Value:** 1806
 
 ## Templar TLR1-OC
@@ -68,7 +68,7 @@
   - Medium Pulse Laser × 5
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5197/templar-tlr1-oc)
 - **Battle Value:** 2063
 
 ## Templar TLR1-OD
@@ -83,6 +83,7 @@
   - Light Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5707/templar-tlr1-od)
 - **Battle Value:** 1840
 
 ## Templar TLR1-OE
@@ -101,7 +102,7 @@
   - Guardian ECM Suite
   - CASE
   - C3 Master
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5708/templar-tlr1-oe)
 - **Battle Value:** 1865
 
 ## Templar TLR1-O (Grayson)
@@ -119,7 +120,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5192/templar-tlr1-o-grayson)
 - **Battle Value:** 1868
 
 ## Templar TLR1-O (Tancred)
@@ -136,7 +137,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5193/templar-tlr1-o-tancred)
 - **Battle Value:** 2273
 
 ## Templar TLR1-OF
@@ -155,7 +156,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5709/templar-tlr1-of)
 - **Battle Value:** 2029
 
 ## Templar TLR1-OG
@@ -172,7 +173,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5710/templar-tlr1-og)
 - **Battle Value:** 1632
 
 ## Templar TLR1-OU
@@ -192,7 +193,7 @@
   - HarJel × 4
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3171/templar-tlr1-ou)
 - **Battle Value:** 1747
 
 ## Templar TLR1-OH
@@ -211,6 +212,7 @@
   - CASE
   - Targeting Computer
   - C3 Slave
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5711/templar-tlr1-oh)
 - **Battle Value:** 1958
 
 ## Templar TLR1-OI
@@ -226,7 +228,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5712/templar-tlr1-oi)
 - **Battle Value:** 2202
 
 ## Templar TLR1-OBLO
@@ -246,7 +248,7 @@
   - Targeting Computer
   - C3i
   - CASE
-- **Source:** SO:Unending Faith: Late Republic Era
+- **Sources:** SO:Unending Faith: Late Republic Era, [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo)
 - **Battle Value:** 2062
 
 ## Templar TLR1-OR
@@ -263,6 +265,6 @@
 - **Equipment:**
   - CASE
   - Clan CASE II
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6852/templar-tlr1-or)
 - **Battle Value:** 2423
 

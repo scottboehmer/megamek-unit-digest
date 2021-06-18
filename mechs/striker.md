@@ -11,7 +11,7 @@
   - Large Laser
   - AC/5 (ammo: 20)
   - Medium Laser × 3
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3094/striker-stc-2c)
 - **Battle Value:** 1488
 
 ## Striker STC-2S
@@ -25,7 +25,7 @@
   - PPC
   - AC/10 (ammo: 20)
   - Medium Laser × 3
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3096/striker-stc-2s)
 - **Battle Value:** 1466
 
 ## Striker STC-2D
@@ -40,6 +40,6 @@
   - Large Laser
   - AC/5 (ammo: 20)
   - Medium Pulse Laser × 2
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3095/striker-stc-2d)
 - **Battle Value:** 1644
 

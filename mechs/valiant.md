@@ -11,7 +11,7 @@
   - Hatchet
 - **Equipment:**
   - MASC
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3369/valiant-v4-lnt-k7)
 - **Battle Value:** 894
 
 ## Valiant V4-LNT-J3
@@ -28,7 +28,7 @@
   - Flamer
 - **Equipment:**
   - Small Shield
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3368/valiant-v4-lnt-j3)
 - **Battle Value:** 926
 
 ## Valiant VLN-3T
@@ -44,7 +44,7 @@
 - **Equipment:**
   - Small Shield
   - MASC
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t)
 - **Battle Value:** 852
 
 ## Valiant VAL-NT-JX 'Hot Knife'
@@ -62,6 +62,7 @@
   - Small Shield
   - AES
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3370/valiant-val-nt-jx-hot-knife)
 - **Battle Value:** 989
 
 ## Valiant VLT-3E
@@ -78,6 +79,6 @@
   - Fluid Gun (ammo: 20)
 - **Equipment:**
   - Targeting Computer
-- **Source:** XTRO Republic I - Early Republic
+- **Sources:** XTRO Republic I - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7293/valiant-vlt-3e)
 - **Battle Value:** 1019
 

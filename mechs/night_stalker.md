@@ -13,7 +13,7 @@
   - Lance
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6718/night-stalker-nsr-k1)
 - **Battle Value:** 1149
 
 ## Night Stalker NSR-K3
@@ -33,7 +33,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - TAG
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6674/night-stalker-nsr-k3)
 - **Battle Value:** 1028
 
 ## Night Stalker NSR-K4
@@ -51,7 +51,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6719/night-stalker-nsr-k4)
 - **Battle Value:** 1159
 
 ## Night Stalker NSR-K7
@@ -68,7 +68,7 @@
   - Lance
   - Small Re-Engineered Laser × 3
   - Chain Whip
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6720/night-stalker-nsr-k7)
 - **Battle Value:** 857
 
 ## Night Stalker NSR-KC
@@ -86,6 +86,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - C3 Slave
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6721/night-stalker-nsr-kc)
 - **Battle Value:** 1037
 

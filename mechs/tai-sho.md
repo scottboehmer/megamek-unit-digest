@@ -12,7 +12,7 @@
 - **Equipment:**
   - C3 Master × 2
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3150/tai-sho-tsh-7s)
 - **Battle Value:** 1774
 
 ## Tai-sho TSH-8S
@@ -29,6 +29,6 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3151/tai-sho-tsh-8s)
 - **Battle Value:** 2001
 

@@ -9,7 +9,7 @@
 - **Weapons:**
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster)
   - ER Large Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/252/barghest-bgs-1t)
 - **Battle Value:** 1787
 
 ## Barghest BGS-2T
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Ultra AC/20 (ammo: 20)
   - ER PPC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/253/barghest-bgs-2t)
 - **Battle Value:** 1794
 
 ## Barghest BGS-3T
@@ -35,7 +35,7 @@
 - **Weapons:**
   - Heavy Gauss Rifle (ammo: 16)
   - ER Large Laser
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/254/barghest-bgs-3t)
 - **Battle Value:** 1900
 
 ## Barghest BGS-7S
@@ -53,7 +53,7 @@
   - ER Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/255/barghest-bgs-7s)
 - **Battle Value:** 1507
 
 ## Barghest BGS-4X
@@ -71,7 +71,7 @@
   - Quad Turret
   - CASE II
   - C3 Slave
-- **Source:** XTRO Steiner - Jihad
+- **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3791/barghest-bgs-4x)
 - **Battle Value:** 1667
 
 ## Barghest BGS-4T
@@ -90,6 +90,6 @@
   - Quad Turret
   - CASE II
   - C3 Slave
-- **Source:** TRO:Prototypes
+- **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/3790/barghest-bgs-4t)
 - **Battle Value:** 1734
 

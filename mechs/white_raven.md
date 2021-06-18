@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7794/white-raven-standard)
 - **Battle Value:** 2941
 
 ## White Raven 2
@@ -32,6 +32,6 @@
   - ER Small Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7795/white-raven-2)
 - **Battle Value:** 2703
 

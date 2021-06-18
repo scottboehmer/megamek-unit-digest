@@ -13,7 +13,7 @@
   - Lift Hoist × 2
   - Cargo × 2
   - Enviro-Sealing
-- **Source:** RS IA
+- **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/4274/heavy-lifter-hcl-1-cargomech)
 - **Battle Value:** unknown
 
 ## Heavy Lifter HCL-1MM MilitiaMech
@@ -31,7 +31,7 @@
 - **Equipment:**
   - Searchlight × 4
   - Enviro-Sealing
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/7870/heavy-lifter-hcl-1mm-militiamech)
 - **Battle Value:** unknown
 
 ## Heavy Lifter HCL-1M CargoMech MOD
@@ -48,6 +48,6 @@
 - **Equipment:**
   - Searchlight × 4
   - Enviro-Sealing
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7869/heavy-lifter-hcl-1m-cargomech-mod)
 - **Battle Value:** unknown
 

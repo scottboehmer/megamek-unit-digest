@@ -12,7 +12,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3084/strider-sr1-o)
 - **Battle Value:** 867
 
 ## Strider SR1-OA
@@ -30,7 +30,7 @@
   - CASE
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3085/strider-sr1-oa)
 - **Battle Value:** 723
 
 ## Strider SR1-OB
@@ -44,7 +44,7 @@
   - LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3086/strider-sr1-ob)
 - **Battle Value:** 910
 
 ## Strider SR1-OC
@@ -60,7 +60,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3087/strider-sr1-oc)
 - **Battle Value:** 944
 
 ## Strider SR1-OD
@@ -79,7 +79,7 @@
   - CASE
   - TAG
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3088/strider-sr1-od)
 - **Battle Value:** 873
 
 ## Strider SR1-OE
@@ -94,7 +94,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3089/strider-sr1-oe)
 - **Battle Value:** 976
 
 ## Strider SR1-OR
@@ -109,7 +109,7 @@
   - Clan Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3092/strider-sr1-or)
 - **Battle Value:** 1339
 
 ## Strider SR1-OF
@@ -125,7 +125,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3090/strider-sr1-of)
 - **Battle Value:** 1032
 
 ## Strider SR1-OG
@@ -140,7 +140,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3091/strider-sr1-og)
 - **Battle Value:** 883
 
 ## Strider SR1-OX
@@ -155,7 +155,7 @@
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3093/strider-sr1-ox)
 - **Battle Value:** 889
 
 ## Strider SR1-OH
@@ -169,7 +169,7 @@
   - Clan Streak LRM 10 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6917/strider-sr1-oh)
 - **Battle Value:** 1192
 
 ## Strider SR1-OM
@@ -182,6 +182,6 @@
 - **Equipment:**
   - CASE
   - C3 BoostedMaster × 2
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6916/strider-sr1-om)
 - **Battle Value:** 607
 

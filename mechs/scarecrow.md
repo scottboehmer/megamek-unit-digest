@@ -19,7 +19,7 @@
   - Clan Machine Gun Array × 2
   - Chameleon LPS
   - CASE II
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6336/scarecrow-ucu-f4)
 - **Battle Value:** 1429
 
 ## Scarecrow UCU-F4r 'Hobbled Scarecrow'
@@ -40,6 +40,6 @@
   - Bloodhound Active Probe
   - B-Pod × 2
   - CASE II
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6337/scarecrow-ucu-f4r)
 - **Battle Value:** 1431
 

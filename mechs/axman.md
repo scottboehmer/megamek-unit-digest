@@ -14,7 +14,7 @@
   - Hatchet
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/184/axman-axm-1n)
 - **Battle Value:** 1374
 
 ## Axman AXM-2N
@@ -32,7 +32,7 @@
   - Hatchet
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n)
 - **Battle Value:** 1458
 
 ## Axman AXM-3S
@@ -50,7 +50,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/186/axman-axm-3s)
 - **Battle Value:** 1649
 
 ## Axman AXM-3Sr
@@ -70,7 +70,7 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
-- **Source:** TRO 3085 - Jihad
+- **Sources:** TRO 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr)
 - **Battle Value:** 1734
 
 ## Axman AXM-4D
@@ -87,7 +87,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d)
 - **Battle Value:** 1222
 
 ## Axman AXM-6X
@@ -103,7 +103,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Source:** XTRO Steiner - Jihad
+- **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x)
 - **Battle Value:** 2132
 
 ## Axman AXM-6T
@@ -118,6 +118,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t)
 - **Battle Value:** 1830
 
 ## Axman AXM-5N
@@ -137,6 +138,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE II
-- **Source:** ilClan Vol 12 - Dark Age
+- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n)
 - **Battle Value:** 2575
 

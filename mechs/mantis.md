@@ -12,7 +12,7 @@
   - Claw × 2
 - **Equipment:**
   - MASC
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2027/mantis-sa-mn)
 - **Battle Value:** 704
 
 ## Mantis MTS-S
@@ -28,7 +28,7 @@
   - Claw × 2
 - **Equipment:**
   - MASC
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2023/mantis-mts-s)
 - **Battle Value:** 1128
 
 ## Mantis MTS-T
@@ -46,7 +46,7 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2024/mantis-mts-t)
 - **Battle Value:** 1312
 
 ## Mantis MTS-T2
@@ -63,7 +63,7 @@
   - Claw × 2
 - **Equipment:**
   - MASC
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2025/mantis-mts-t2)
 - **Battle Value:** 1380
 
 ## Mantis MTS-T3
@@ -80,7 +80,7 @@
   - Claw × 2
 - **Equipment:**
   - MASC
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2026/mantis-mts-t3)
 - **Battle Value:** 1380
 
 ## Mantis MTS-L
@@ -97,6 +97,6 @@
   - Lance
 - **Equipment:**
   - Supercharger
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2022/mantis-mts-l)
 - **Battle Value:** 1194
 

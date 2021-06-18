@@ -15,7 +15,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1347/gunslinger-gun-1erd)
 - **Battle Value:** 2286
 
 ## Gunslinger GUN-2ERD
@@ -32,7 +32,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Master
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1349/gunslinger-gun-2erd)
 - **Battle Value:** 2423
 
 ## Gunslinger GUN-1ERD (Jared)
@@ -51,6 +51,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1348/gunslinger-gun-1erd-jared)
 - **Battle Value:** 1813
 
 ## Gunslinger GUN-2ERDr
@@ -67,6 +68,6 @@
   - ER Small Laser
 - **Equipment:**
   - C3 BoostedMaster
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1350/gunslinger-gun-2erdr)
 - **Battle Value:** 2371
 

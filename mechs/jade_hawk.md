@@ -16,7 +16,7 @@
   - Partial Wing
   - CASE
   - Supercharger
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6564/jade-hawk-jhk-03)
 - **Battle Value:** 2160
 
 ## Jade Hawk JHK-04
@@ -33,7 +33,7 @@
   - Inner Sphere Claw × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6565/jade-hawk-jhk-04)
 - **Battle Value:** 2102
 
 ## Jade Hawk (Standard)
@@ -52,7 +52,7 @@
   - CASE
   - Partial Wing
   - Supercharger
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6566/jade-hawk-standard)
 - **Battle Value:** 2523
 
 ## Jade Hawk 2
@@ -68,7 +68,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6567/jade-hawk-2)
 - **Battle Value:** 2455
 
 ## Jade Hawk 3
@@ -85,6 +85,6 @@
   - ER Small Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6568/jade-hawk-3)
 - **Battle Value:** 2498
 

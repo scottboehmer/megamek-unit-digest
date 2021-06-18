@@ -9,7 +9,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - ER Medium Laser × 3
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2757/ryoken-stormcrow-prime)
 - **Battle Value:** 2073
 
 ## Stormcrow "Ryoken" A
@@ -25,7 +25,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2749/ryoken-stormcrow-a)
 - **Battle Value:** 2319
 
 ## Stormcrow "Ryoken" B
@@ -40,7 +40,7 @@
   - ER Medium Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2750/ryoken-stormcrow-b)
 - **Battle Value:** 2281
 
 ## Stormcrow "Ryoken" C
@@ -56,7 +56,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2751/ryoken-stormcrow-c)
 - **Battle Value:** 1881
 
 ## Stormcrow "Ryoken" D
@@ -72,7 +72,7 @@
   - SRM 2 × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2752/ryoken-stormcrow-d)
 - **Battle Value:** 1863
 
 ## Stormcrow "Ryoken" Attwater
@@ -88,7 +88,7 @@
   - LRM 5 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7591/ryoken-stormcrow-attwater)
 - **Battle Value:** 1482
 
 ## Stormcrow "Ryoken" TC
@@ -104,7 +104,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7592/ryoken-stormcrow-tc)
 - **Battle Value:** 2373
 
 ## Stormcrow "Ryoken" E
@@ -121,7 +121,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2753/ryoken-stormcrow-e)
 - **Battle Value:** 2110
 
 ## Stormcrow "Ryoken" (Kotare)
@@ -137,7 +137,7 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5488/ryoken-stormcrow-kotare)
 - **Battle Value:** 2382
 
 ## Stormcrow "Ryoken" H
@@ -150,7 +150,7 @@
 - **Weapons:**
   - Heavy Large Laser × 2
   - ER Medium Laser × 3
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2756/ryoken-stormcrow-h)
 - **Battle Value:** 2061
 
 ## Stormcrow "Ryoken" I
@@ -167,7 +167,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5487/ryoken-stormcrow-i)
 - **Battle Value:** 2319
 
 ## Stormcrow "Ryoken" G
@@ -182,7 +182,7 @@
   - ER Medium Laser × 5
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2755/ryoken-stormcrow-g)
 - **Battle Value:** 2152
 
 ## Stormcrow "Ryoken" F
@@ -199,7 +199,7 @@
   - AP Gauss Rifle × 4 (ammo: 80)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2754/ryoken-stormcrow-f)
 - **Battle Value:** 2227
 
 ## Stormcrow "Ryoken" Z
@@ -216,7 +216,7 @@
   - Nova CEWS
   - CASE
   - Supercharger
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5820/ryoken-stormcrow-z)
 - **Battle Value:** 2855
 
 ## Stormcrow "Ryoken" J
@@ -232,7 +232,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7553/ryoken-stormcrow-j)
 - **Battle Value:** 2300
 
 ## Stormcrow "Ryoken" K
@@ -247,7 +247,7 @@
   - Improved Heavy Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7554/ryoken-stormcrow-k)
 - **Battle Value:** 2001
 
 ## Stormcrow "Ryoken" P
@@ -263,7 +263,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7555/ryoken-stormcrow-p)
 - **Battle Value:** 2213
 
 ## Stormcrow "Ryoken" T
@@ -280,6 +280,6 @@
 - **Equipment:**
   - Light Active Probe
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7550/ryoken-stormcrow-t)
 - **Battle Value:** 2280
 

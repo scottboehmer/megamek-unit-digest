@@ -10,7 +10,7 @@
   - LRM 10 (ammo: 24)
   - Medium Laser × 2
   - AC/2 (ammo: 45)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/908/dragon-drg-1c)
 - **Battle Value:** 1215
 
 ## Dragon DRG-1N
@@ -24,7 +24,7 @@
   - LRM 10 (ammo: 24)
   - AC/5 (ammo: 40)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/909/dragon-drg-1n)
 - **Battle Value:** 1125
 
 ## Dragon DRG-2Y (Yoriyoshi)
@@ -40,6 +40,7 @@
   - SRM 4 (ammo: 25)
   - Small Laser
   - Flamer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/910/dragon-drg-2y-yoriyoshi)
 - **Battle Value:** 1257
 
 ## Dragon DRG-5N
@@ -55,7 +56,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/911/dragon-drg-5n)
 - **Battle Value:** 1223
 
 ## Dragon DRG-7N
@@ -72,7 +73,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5450/dragon-drg-7n)
 - **Battle Value:** 1495
 
 ## Dragon DRG-5Nr
@@ -89,6 +90,6 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/912/dragon-drg-5nr)
 - **Battle Value:** 1252
 

@@ -15,7 +15,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3363/ursus-standard)
 - **Battle Value:** 1778
 
 ## Ursus 2
@@ -33,7 +33,7 @@
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3364/ursus-2)
 - **Battle Value:** 2054
 
 ## Ursus PR
@@ -51,7 +51,7 @@
 - **Equipment:**
   - CASE II
   - Inner Sphere C3i
-- **Source:** XTRO Clans - Jihad
+- **Sources:** XTRO Clans - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr)
 - **Battle Value:** 1194
 
 ## Ursus 3
@@ -69,5 +69,6 @@
 - **Equipment:**
   - Watchdog CEWS
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329/ursus-3)
 - **Battle Value:** 1284
 

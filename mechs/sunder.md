@@ -11,7 +11,7 @@
   - Large Laser × 2
   - Medium Laser × 2
   - SRM 4 × 3 (ammo: 50)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3123/sunder-sd1-o)
 - **Battle Value:** 1747
 
 ## Sunder SD1-OA
@@ -26,7 +26,7 @@
   - ER PPC
   - Medium Pulse Laser × 2
   - LRM 5 × 3 (ammo: 48)
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3125/sunder-sd1-oa)
 - **Battle Value:** 2003
 
 ## Sunder SD1-OB
@@ -43,7 +43,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - C3 Master × 2
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3126/sunder-sd1-ob)
 - **Battle Value:** 1597
 
 ## Sunder SD1-OC
@@ -60,7 +60,7 @@
   - Medium Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3127/sunder-sd1-oc)
 - **Battle Value:** 1735
 
 ## Sunder SD1-OR
@@ -75,7 +75,7 @@
   - Clan LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Clan Streak SRM 6 × 2 (ammo: 30)
   - Clan ER Medium Laser × 4
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3130/sunder-sd1-or)
 - **Battle Value:** 2462
 
 ## Sunder SD1-OD
@@ -89,7 +89,7 @@
 - **Weapons:**
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - PPC × 2
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3128/sunder-sd1-od)
 - **Battle Value:** 1947
 
 ## Sunder SD1-O (Samual)
@@ -106,7 +106,7 @@
   - Machine Gun × 12 (ammo: 400)
 - **Equipment:**
   - A-Pod × 2
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3124/sunder-sd1-o-samual)
 - **Battle Value:** 1593
 
 ## Sunder SD1-OE
@@ -121,7 +121,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Streak SRM 6 × 2 (ammo: 15)
   - ER Medium Laser
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3129/sunder-sd1-oe)
 - **Battle Value:** 1876
 
 ## Sunder SD1-OX
@@ -138,7 +138,7 @@
 - **Equipment:**
   - B-Pod × 2
   - C3 Slave
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox)
 - **Battle Value:** 1761
 
 ## Sunder SD1-OF
@@ -155,7 +155,7 @@
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6846/sunder-sd1-of)
 - **Battle Value:** 1854
 
 ## Sunder SD1-OG
@@ -173,6 +173,6 @@
 - **Equipment:**
   - CASE II
   - C3 Boosted Slave
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6845/sunder-sd1-og)
 - **Battle Value:** 2594
 

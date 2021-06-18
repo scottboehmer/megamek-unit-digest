@@ -10,6 +10,6 @@
   - Gauss Rifle × 4 (ammo: 16)
 - **Equipment:**
   - Null-Signature System
-- **Source:** XTRO Gunslingers - Star League
+- **Sources:** XTRO Gunslingers - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7323/rifleman-iii-rf2-a)
 - **Battle Value:** 1819
 

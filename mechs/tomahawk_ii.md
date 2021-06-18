@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6303/tomahawk-ii-prime)
 - **Battle Value:** 3210
 
 ## Tomahawk II A
@@ -30,7 +30,7 @@
   - AP Gauss Rifle × 4 (ammo: 80)
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6304/tomahawk-ii-a)
 - **Battle Value:** 2697
 
 ## Tomahawk II B
@@ -49,7 +49,7 @@
 - **Equipment:**
   - Laser Anti-Missile System
   - CASE
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6305/tomahawk-ii-b)
 - **Battle Value:** 3513
 
 ## Tomahawk II C
@@ -64,6 +64,6 @@
   - LRM 15 × 6 (ammo: 80)
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 The Clans - Early Republic
+- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6306/tomahawk-ii-c)
 - **Battle Value:** 2938
 

@@ -8,7 +8,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Ultra AC/20 (ammo: 20)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/394/blitzkrieg-btz-3f)
 - **Battle Value:** 1273
 
 ## Blitzkrieg BTZ-4F
@@ -25,6 +25,6 @@
 - **Equipment:**
   - Targeting Computer
   - C3 Slave
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/395/blitzkrieg-btz-4f)
 - **Battle Value:** 1740
 

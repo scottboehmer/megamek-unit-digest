@@ -10,6 +10,7 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Cargo × 5
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2564/powerman-sc-xi-loadermech)
 - **Battle Value:** 198
 
 ## Powerman SC XI-M LoaderMech MOD
@@ -24,6 +25,7 @@
   - Machine Gun (ammo: 100)
 - **Equipment:**
   - Cargo × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2565/powerman-sc-xi-m-haulermech-mod)
 - **Battle Value:** 294
 
 ## Powerman SC XI-M-B LoaderMech MOD
@@ -37,6 +39,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Cargo × 3
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2566/powerman-sc-xi-m-b-haulermech-mod)
 - **Battle Value:** 277
 
 ## Powerman SC XV HaulerMech
@@ -50,7 +53,7 @@
 - **Equipment:**
   - Lift Hoist × 2
   - Cargo × 3
-- **Source:** TRO VA
+- **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4852/powerman-sc-xv-haulermech)
 - **Battle Value:** 198
 
 ## Powerman SC XVI HaulerMech
@@ -65,6 +68,6 @@
   - Salvage Arm
   - Lift Hoist
   - Cargo × 3
-- **Source:** TRO VA
+- **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4853/powerman-sc-xvi-haulermech)
 - **Battle Value:** 198
 

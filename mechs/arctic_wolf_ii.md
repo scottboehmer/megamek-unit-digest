@@ -14,7 +14,7 @@
   - ECM Suite
   - Active Probe
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/107/arctic-wolf-ii-prime)
 - **Battle Value:** 1645
 
 ## Arctic Wolf II A
@@ -31,7 +31,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/104/arctic-wolf-ii-a)
 - **Battle Value:** 2111
 
 ## Arctic Wolf II B
@@ -48,7 +48,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/105/arctic-wolf-ii-b)
 - **Battle Value:** 1678
 
 ## Arctic Wolf II C
@@ -64,6 +64,6 @@
   - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/106/arctic-wolf-ii-c)
 - **Battle Value:** 1913
 

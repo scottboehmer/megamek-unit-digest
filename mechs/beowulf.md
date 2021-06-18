@@ -14,7 +14,7 @@
   - Beagle Active Probe
   - MASC
   - TAG
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/327/beowulf-beo-12)
 - **Battle Value:** 1319
 
 ## Beowulf BEO-X-7a
@@ -33,7 +33,7 @@
   - Armored Bloodhound Active Probe
   - TAG
   - MASC
-- **Source:** XTRO ComStar - Jihad
+- **Sources:** XTRO ComStar - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5548/beowulf-beo-x-7a)
 - **Battle Value:** 1473
 
 ## Beowulf C
@@ -73,6 +73,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - C3 Slave
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/328/beowulf-beo-14)
 - **Battle Value:** 1287
 

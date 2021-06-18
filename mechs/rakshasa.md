@@ -11,7 +11,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser
   - Medium Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2631/rakshasa-mdg-1a)
 - **Battle Value:** 1795
 
 ## Rakshasa MDG-1B
@@ -26,7 +26,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Pulse Laser
   - Medium Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2633/rakshasa-mdg-1b)
 - **Battle Value:** 1748
 
 ## Rakshasa MDG-2A
@@ -40,7 +40,7 @@
   - RAC/5 (ammo: 60)
   - Large Pulse Laser
   - Medium Pulse Laser × 4
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a)
 - **Battle Value:** 1766
 
 ## Rakshasa MDG-1Ar
@@ -56,6 +56,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2632/rakshasa-mdg-1ar)
 - **Battle Value:** 1675
 

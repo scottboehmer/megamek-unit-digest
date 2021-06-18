@@ -11,7 +11,7 @@
 - **Weapons:**
   - AC/5 (ammo: 40)
   - Medium Laser
-- **Source:** XTRO Primitives V - Age of War
+- **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r)
 - **Battle Value:** 885
 
 ## Wolverine WVR-3R
@@ -27,7 +27,7 @@
   - AC/5 (ammo: 20)
   - SRM 6 (ammo: 15)
   - Medium Laser
-- **Source:** XTRO Primitives V - Age of War
+- **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7408/wolverine-wvr-3r)
 - **Battle Value:** 867
 
 ## Wolverine WVR-6R
@@ -42,7 +42,7 @@
   - AC/5 (ammo: 20)
   - SRM 6 (ammo: 15)
   - Medium Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3573/wolverine-wvr-6r)
 - **Battle Value:** 1101
 
 ## Wolverine WVR-6K
@@ -57,7 +57,7 @@
   - SRM 6 (ammo: 30)
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3571/wolverine-wvr-6k)
 - **Battle Value:** 1248
 
 ## Wolverine WVR-6M
@@ -72,7 +72,7 @@
   - Large Laser
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m)
 - **Battle Value:** 1291
 
 ## Wolverine WVR-6D
@@ -86,7 +86,7 @@
 - **Weapons:**
   - AC/10 (ammo: 20)
   - Medium Laser
-- **Source:** RS:Succession Wars - Succession Wars
+- **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7430/wolverine-wvr-6d)
 - **Battle Value:** 1115
 
 ## Wolverine WVR-7D
@@ -104,7 +104,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d)
 - **Battle Value:** 1314
 
 ## Wolverine WVR-7K
@@ -120,7 +120,7 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser
   - Small Pulse Laser
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k)
 - **Battle Value:** 1331
 
 ## Wolverine WVR-7M
@@ -137,7 +137,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - MASC
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m)
 - **Battle Value:** 1673
 
 ## Wolverine WVR-8K
@@ -155,7 +155,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k)
 - **Battle Value:** 1576
 
 ## Wolverine WVR-8D
@@ -174,7 +174,7 @@
   - CASE
   - Targeting Computer
   - MASC
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3578/wolverine-wvr-8d)
 - **Battle Value:** 1547
 
 ## Wolverine WVR-9D
@@ -192,7 +192,7 @@
   - MASC
   - CASE
   - TAG
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3580/wolverine-wvr-9d)
 - **Battle Value:** 1369
 
 ## Wolverine WVR-8C
@@ -210,7 +210,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c)
 - **Battle Value:** 1447
 
 ## Wolverine WVR-9M
@@ -227,7 +227,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3582/wolverine-wvr-9m)
 - **Battle Value:** 1617
 
 ## Wolverine WVR-9K
@@ -250,7 +250,7 @@
   - Machine Gun Array
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k)
 - **Battle Value:** 1400
 
 ## Wolverine WVR-9W
@@ -268,7 +268,7 @@
 - **Equipment:**
   - CASE II
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w)
 - **Battle Value:** 1387
 
 ## Wolverine WVR-9W2
@@ -288,6 +288,6 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2)
 - **Battle Value:** 1463
 

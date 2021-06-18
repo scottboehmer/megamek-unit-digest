@@ -13,7 +13,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3083/stooping-hawk-prime)
 - **Battle Value:** 2147
 
 ## Stooping Hawk A
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 17 (34)
 - **Weapons:**
   - ER PPC × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3076/stooping-hawk-a)
 - **Battle Value:** 2319
 
 ## Stooping Hawk B
@@ -41,7 +41,7 @@
   - LRM 15 w/ Artemis IV × 3 (ammo: 32)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3077/stooping-hawk-b)
 - **Battle Value:** 2111
 
 ## Stooping Hawk C
@@ -57,7 +57,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3078/stooping-hawk-c)
 - **Battle Value:** 2435
 
 ## Stooping Hawk D
@@ -72,7 +72,7 @@
   - ER Medium Laser × 2
   - Heavy Medium Laser × 3
   - ER Small Laser
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3079/stooping-hawk-d)
 - **Battle Value:** 1838
 
 ## Stooping Hawk E
@@ -88,7 +88,7 @@
   - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3080/stooping-hawk-e)
 - **Battle Value:** 1674
 
 ## Stooping Hawk F
@@ -106,7 +106,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3081/stooping-hawk-f)
 - **Battle Value:** 1988
 
 ## Stooping Hawk G
@@ -121,6 +121,6 @@
   - ProtoMech AC/4 × 3 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3082/stooping-hawk-g)
 - **Battle Value:** 1657
 

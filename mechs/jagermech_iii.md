@@ -10,7 +10,7 @@
   - PPC × 2
   - Ultra AC/2 × 2 (ammo: 45)
   - Medium Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1672/jagermech-iii-jm6-d3)
 - **Battle Value:** 1537
 
 ## JagerMech III JM6-D4
@@ -24,6 +24,6 @@
   - PPC × 2
   - Light PPC × 2
   - Medium Laser × 4
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1673/jagermech-iii-jm6-d4)
 - **Battle Value:** 1831
 

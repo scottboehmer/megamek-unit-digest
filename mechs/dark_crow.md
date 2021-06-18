@@ -12,7 +12,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/827/dark-crow-standard)
 - **Battle Value:** 1594
 
 ## Dark Crow 2
@@ -29,7 +29,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/824/dark-crow-2)
 - **Battle Value:** 1575
 
 ## Dark Crow 3
@@ -47,7 +47,7 @@
   - Partial Wing
   - CASE
   - Liquid Cargo
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/825/dark-crow-3)
 - **Battle Value:** 1687
 
 ## Dark Crow 4
@@ -64,6 +64,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/826/dark-crow-4)
 - **Battle Value:** 1538
 

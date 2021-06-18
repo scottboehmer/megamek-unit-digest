@@ -11,7 +11,7 @@
 - **Weapons:**
   - AC/5 (ammo: 20)
   - Medium Laser
-- **Source:** XTRO Primitives I - Age of War
+- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r)
 - **Battle Value:** 851
 
 ## Shadow Hawk SHD-2H
@@ -27,7 +27,7 @@
   - Medium Laser
   - LRM 5 (ammo: 24)
   - SRM 2 (ammo: 50)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2901/shadow-hawk-shd-2h)
 - **Battle Value:** 1064
 
 ## Shadow Hawk SHD-2Hb
@@ -44,7 +44,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 12 - Star League
+- **Sources:** ilClan Vol 12 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb)
 - **Battle Value:** 1354
 
 ## Shadow Hawk SHD-2D
@@ -60,7 +60,7 @@
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
   - SRM 2 × 2 (ammo: 100)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2899/shadow-hawk-shd-2d)
 - **Battle Value:** 899
 
 ## Shadow Hawk SHD-2K
@@ -74,7 +74,7 @@
 - **Weapons:**
   - PPC
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2903/shadow-hawk-shd-2k)
 - **Battle Value:** 1147
 
 ## Shadow Hawk SHD-5M
@@ -92,7 +92,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m)
 - **Battle Value:** 1430
 
 ## Shadow Hawk SHD-2D2
@@ -108,7 +108,7 @@
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
   - Streak SRM 2 × 2 (ammo: 50)
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2900/shadow-hawk-shd-2d2)
 - **Battle Value:** 1049
 
 ## Shadow Hawk C
@@ -124,7 +124,7 @@
   - Clan LB 5-X AC (ammo: 20)
   - Clan LRM 5 (ammo: 24)
   - Clan Streak SRM 2 (ammo: 50)
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2895/shadow-hawk-c)
 - **Battle Value:** 1309
 
 ## Shadow Hawk SHD-2Ht
@@ -141,7 +141,7 @@
   - Streak SRM 2 × 5 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7737/shadow-hawk-shd-2ht)
 - **Battle Value:** 1453
 
 ## Shadow Hawk SHD-5S
@@ -161,7 +161,7 @@
   - Beagle Active Probe
   - TAG
   - Cargo
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7786/shadow-hawk-shd-5s)
 - **Battle Value:** 1590
 
 ## Shadow Hawk SHD-5D
@@ -178,7 +178,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d)
 - **Battle Value:** 1684
 
 ## Shadow Hawk SHD-7CS
@@ -196,7 +196,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2907/shadow-hawk-shd-7cs)
 - **Battle Value:** 1496
 
 ## Shadow Hawk SHD-7M
@@ -214,7 +214,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2908/shadow-hawk-shd-7m)
 - **Battle Value:** 1447
 
 ## Shadow Hawk SHD-11CS
@@ -232,7 +232,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs)
 - **Battle Value:** 1700
 
 ## Shadow Hawk SHD-5D (Sandy)
@@ -248,7 +248,7 @@
   - Light PPC
 - **Equipment:**
   - TAG
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5806/shadow-hawk-shd-5d-sandy)
 - **Battle Value:** 1517
 
 ## Shadow Hawk SHD-9D
@@ -267,7 +267,7 @@
   - Targeting Computer
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2910/shadow-hawk-shd-9d)
 - **Battle Value:** 1313
 
 ## Shadow Hawk SHD-3K
@@ -285,7 +285,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2904/shadow-hawk-shd-3k)
 - **Battle Value:** 1591
 
 ## Shadow Hawk SHD-12C
@@ -302,7 +302,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c)
 - **Battle Value:** 1574
 
 ## Shadow Hawk SHD-8L
@@ -321,7 +321,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2909/shadow-hawk-shd-8l)
 - **Battle Value:** 1536
 
 ## Shadow Hawk SHD-5R
@@ -339,7 +339,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 12 - Early Republic
+- **Sources:** ilClan Vol 12 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7787/shadow-hawk-shd-5r)
 - **Battle Value:** 1296
 
 ## Shadow Hawk SHD-7H
@@ -357,7 +357,7 @@
   - SRM 2 (ammo: 50)
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 12 - Early Republic
+- **Sources:** ilClan Vol 12 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7789/shadow-hawk-shd-7h)
 - **Battle Value:** 1394
 
 ## Shadow Hawk SHD-4H
@@ -371,7 +371,7 @@
 - **Weapons:**
   - Heavy PPC
   - Light PPC
-- **Source:** ilClan Vol 12 - Early Republic
+- **Sources:** ilClan Vol 12 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7785/shadow-hawk-shd-4h)
 - **Battle Value:** 1569
 
 ## Shadow Hawk SHD-6D
@@ -389,6 +389,6 @@
   - Streak SRM 2 (iOS)
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7788/shadow-hawk-shd-6d)
 - **Battle Value:** 1371
 

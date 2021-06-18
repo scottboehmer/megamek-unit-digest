@@ -9,7 +9,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - SRM 6 × 2 (ammo: 30)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1675/javelin-jvn-10n)
 - **Battle Value:** 594
 
 ## Javelin JVN-10A
@@ -22,7 +22,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - LRM 15 (ammo: 8)
-- **Source:** RS:Succession Wars - Succession Wars
+- **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7429/javelin-jvn-10a)
 - **Battle Value:** 653
 
 ## Javelin JVN-10F 'Fire Javelin'
@@ -35,7 +35,7 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1674/javelin-jvn-10f-fire-javelin)
 - **Battle Value:** 835
 
 ## Javelin JVN-10P
@@ -49,7 +49,7 @@
 - **Weapons:**
   - SRM 6 (ammo: 15)
   - Streak SRM 2 × 2 (ammo: 50)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1676/javelin-jvn-10p)
 - **Battle Value:** 590
 
 ## Javelin JVN-11A 'Fire Javelin'
@@ -62,7 +62,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Laser × 7
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1677/javelin-jvn-11a-fire-javelin)
 - **Battle Value:** 1073
 
 ## Javelin JVN-11B
@@ -78,7 +78,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1678/javelin-jvn-11b)
 - **Battle Value:** 678
 
 ## Javelin JVN-11D
@@ -95,7 +95,7 @@
 - **Equipment:**
   - Targeting Computer
   - C3 Slave
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1679/javelin-jvn-11d)
 - **Battle Value:** 1104
 
 ## Javelin JVN-11D (Farrell)
@@ -112,7 +112,7 @@
 - **Equipment:**
   - Clan Active Probe
   - Targeting Computer
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Jihad
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5808/javelin-jvn-11d-farrell)
 - **Battle Value:** 1155
 
 ## Javelin JVN-11F
@@ -128,7 +128,7 @@
   - Machine Gun × 6 (ammo: 200)
 - **Equipment:**
   - Machine Gun Array × 2
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1680/javelin-jvn-11f)
 - **Battle Value:** 789
 
 ## Javelin JVN-11P
@@ -141,6 +141,6 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Streak SRM 2 × 4 (ammo: 50)
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6938/javelin-jvn-11p)
 - **Battle Value:** 680
 

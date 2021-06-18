@@ -13,7 +13,7 @@
   - Rock-Cutter
 - **Equipment:**
   - Cargo
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/868/demolitionmech-wi-dm)
 - **Battle Value:** unknown
 
 ## DemolitionMech WI-DM2
@@ -28,7 +28,7 @@
   - Dual Saw
 - **Equipment:**
   - Cargo
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/869/demolitionmech-wi-dm2)
 - **Battle Value:** unknown
 
 ## DemolitionMech WI-DMM MOD
@@ -42,6 +42,6 @@
   - Medium Laser
   - MagShot Gauss Rifle × 2 (ammo: 50)
   - Wrecking Ball
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7839/demolitionmech-wi-dmm-mod)
 - **Battle Value:** 444
 

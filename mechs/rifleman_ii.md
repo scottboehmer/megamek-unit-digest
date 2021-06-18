@@ -12,7 +12,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2709/rifleman-ii-rfl-3n-2)
 - **Battle Value:** 1543
 
 ## Rifleman II RFL-3N-2 (Kataga)
@@ -29,6 +29,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** HTP New Dallas
+- **Sources:** HTP New Dallas, [Master Unit List](http://masterunitlist.info/Unit/Details/6969/rifleman-ii-rfl-3n-2-kataga)
 - **Battle Value:** 1991
 

@@ -14,6 +14,6 @@
 - **Equipment:**
   - CASE
   - Quad Turret
-- **Source:** TRO 3145 Mercenaries - Late Republic
+- **Sources:** TRO 3145 Mercenaries - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6553/stalking-spider-ii-standard)
 - **Battle Value:** 1362
 

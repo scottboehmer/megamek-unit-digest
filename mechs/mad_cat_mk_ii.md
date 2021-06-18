@@ -13,7 +13,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4565/mad-cat-mk-ii-standard)
 - **Battle Value:** 3135
 
 ## Mad Cat Mk II 2
@@ -31,7 +31,7 @@
   - Streak SRM 4 × 4 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5715/mad-cat-mk-ii-2)
 - **Battle Value:** 2822
 
 ## Mad Cat Mk II 3
@@ -48,7 +48,7 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5716/mad-cat-mk-ii-3)
 - **Battle Value:** 3168
 
 ## Mad Cat Mk II Enhanced
@@ -65,6 +65,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4564/mad-cat-mk-ii-enhanced)
 - **Battle Value:** 2732
 
 ## Mad Cat Mk II 4
@@ -81,7 +82,7 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6850/mad-cat-mk-ii-4)
 - **Battle Value:** 2962
 
 ## Mad Cat Mk II 5
@@ -99,7 +100,7 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6849/mad-cat-mk-ii-5)
 - **Battle Value:** 2491
 
 ## Mad Cat Mk II 6
@@ -115,6 +116,6 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - HarJel III × 7
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6848/mad-cat-mk-ii-6)
 - **Battle Value:** 2671
 

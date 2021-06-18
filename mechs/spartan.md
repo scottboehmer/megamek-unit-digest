@@ -13,7 +13,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - TAG
-- **Source:** Rhonda's Irregulars - Star League
+- **Sources:** Rhonda's Irregulars - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2994/spartan-spt-n1)
 - **Battle Value:** 1498
 
 ## Spartan SPT-N2
@@ -30,7 +30,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - TAG
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2995/spartan-spt-n2)
 - **Battle Value:** 1605
 
 ## Spartan SPT-NF
@@ -47,7 +47,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2997/spartan-spt-nf)
 - **Battle Value:** 1605
 
 ## Spartan C
@@ -63,7 +63,7 @@
   - Streak SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7646/spartan-c)
 - **Battle Value:** 2514
 
 ## Spartan SPT-N3
@@ -80,6 +80,6 @@
 - **Equipment:**
   - TAG
   - C3i
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2996/spartan-spt-n3)
 - **Battle Value:** 1631
 

@@ -1,4 +1,22 @@
 # Atlas II
+## Atlas II AS7-D-HT
+- **Role:** Undefined
+- **Tech Base:** Inner Sphere (2750)
+- **Chassis:** 100 tons
+- **Movement:** 3 / 5
+- **Armor:** 304 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - LRM 20 (ammo: 12)
+  - AC/20 (ammo: 10)
+  - ER Large Laser × 2
+  - SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 2
+- **Equipment:**
+  - CASE
+- **Sources:** Arano Restoration, [Master Unit List](http://masterunitlist.info/Unit/Details/7618/atlas-ii-as7-d-ht)
+- **Battle Value:** 2205
+
 ## Atlas II AS7-D-H
 - **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2765)
@@ -14,7 +32,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/152/atlas-ii-as7-d-h)
 - **Battle Value:** 2169
 
 ## Atlas II AS7-D-H2
@@ -32,7 +50,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/153/atlas-ii-as7-d-h2)
 - **Battle Value:** 2340
 
 ## Atlas II AS7-D-H (Kerensky)
@@ -52,6 +70,6 @@
   - ECM Suite
   - Active Probe
   - CASE
-- **Source:** OTP Widowmaker
+- **Sources:** OTP Widowmaker, [Master Unit List](http://masterunitlist.info/Unit/Details/7310/atlas-ii-as7-d-h-kerensky)
 - **Battle Value:** 2777
 

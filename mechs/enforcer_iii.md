@@ -11,7 +11,7 @@
   - Ultra AC/10 (ammo: 20)
   - ER Large Laser
   - ER Small Laser
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m)
 - **Battle Value:** 1460
 
 ## Enforcer III ENF-6G
@@ -27,7 +27,7 @@
   - ER Medium Laser × 3
   - Medium Pulse Laser
   - ER Small Laser
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/980/enforcer-iii-enf-6g)
 - **Battle Value:** 1858
 
 ## Enforcer III ENF-6T
@@ -43,7 +43,7 @@
   - ER Medium Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/985/enforcer-iii-enf-6t)
 - **Battle Value:** 1720
 
 ## Enforcer III ENF-6H
@@ -59,7 +59,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h)
 - **Battle Value:** 1603
 
 ## Enforcer III ENF-6Ma
@@ -74,7 +74,7 @@
   - ER Large Laser
   - AC/10 (ammo: 30)
   - ER Small Laser
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma)
 - **Battle Value:** 1275
 
 ## Enforcer III ENF-6NAIS
@@ -93,7 +93,7 @@
   - Guardian ECM Suite
   - Targeting Computer
   - C3 Slave
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais)
 - **Battle Value:** 1475
 
 ## Enforcer III ENF-7X MUSE COMPACT
@@ -107,7 +107,7 @@
 - **Heat Sinks:** 12 (24)
 - **Weapons:**
   - Blazer Cannon × 2
-- **Source:** XTRO Davion - Jihad
+- **Sources:** XTRO Davion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/987/enforcer-iii-enf-7x-muse-compact)
 - **Battle Value:** 1670
 
 ## Enforcer III ENF-7C3BS
@@ -125,7 +125,7 @@
 - **Equipment:**
   - Targeting Computer
   - C3 Boosted Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs)
 - **Battle Value:** 1687
 
 ## Enforcer III ENF-7D
@@ -143,6 +143,6 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE II
-- **Source:** XTRO Republic I - Late Republic
+- **Sources:** XTRO Republic I - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d)
 - **Battle Value:** 1495
 

@@ -12,7 +12,7 @@
 - **Equipment:**
   - A-Pod × 4
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1071/fire-scorpion-standard)
 - **Battle Value:** 1546
 
 ## Fire Scorpion 2
@@ -30,7 +30,7 @@
   - Active Probe
   - A-Pod × 4
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1072/fire-scorpion-2)
 - **Battle Value:** 1749
 
 ## Fire Scorpion 3
@@ -48,6 +48,6 @@
   - Active Probe
   - CASE
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3)
 - **Battle Value:** 1904
 

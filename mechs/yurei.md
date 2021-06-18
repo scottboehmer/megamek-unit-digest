@@ -16,6 +16,6 @@
 - **Equipment:**
   - Bomb Bay
   - Clan CASE II
-- **Source:** J:FR
+- **Sources:** J:FR, [Master Unit List](http://masterunitlist.info/Unit/Details/5431/yurei-s-yr-1lam)
 - **Battle Value:** 2106
 

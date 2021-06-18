@@ -10,7 +10,7 @@
   - AC/10 (ammo: 20)
   - LRM 10 (ammo: 24)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/516/centurion-cn9-a)
 - **Battle Value:** 945
 
 ## Centurion CN9-AH
@@ -23,7 +23,7 @@
 - **Weapons:**
   - AC/20 (ammo: 10)
   - LRM 10 (ammo: 24)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/517/centurion-cn9-ah)
 - **Battle Value:** 945
 
 ## Centurion CN9-AL
@@ -38,7 +38,7 @@
   - LRM 10 (ammo: 24)
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/518/centurion-cn9-al)
 - **Battle Value:** 1057
 
 ## Centurion CN9-YLW 'Yen Lo Wang'
@@ -52,7 +52,7 @@
   - AC/20 (ammo: 15)
   - Medium Laser × 2
   - Hatchet
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/525/centurion-cn9-ylw-yen-lo-wang)
 - **Battle Value:** 957
 
 ## Centurion CN9-D
@@ -68,7 +68,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/520/centurion-cn9-d)
 - **Battle Value:** 1130
 
 ## Centurion CN9-YLW2 'Yen Lo Wang'
@@ -83,7 +83,7 @@
   - Gauss Rifle (ammo: 16)
   - Medium Pulse Laser × 3
   - Hatchet
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3923/centurion-cn9-ylw2-yen-lo-wang)
 - **Battle Value:** 1435
 
 ## Centurion CN9-D3
@@ -100,7 +100,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/521/centurion-cn9-d3)
 - **Battle Value:** 1324
 
 ## Centurion CN10-B
@@ -117,7 +117,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3921/centurion-cn10-b)
 - **Battle Value:** 1243
 
 ## Centurion CN10-J
@@ -135,6 +135,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7696/centurion-cn10-j)
 - **Battle Value:** 1257
 
 ## Centurion CN10-W
@@ -150,6 +151,7 @@
   - LRM 10 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7695/centurion-cn10-w)
 - **Battle Value:** 1112
 
 ## Centurion CN9-D3D
@@ -165,7 +167,7 @@
   - ER Medium Laser
 - **Equipment:**
   - MASC
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5448/centurion-cn9-d3d)
 - **Battle Value:** 1373
 
 ## Centurion CN9-D5
@@ -183,7 +185,7 @@
   - MASC
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/522/centurion-cn9-d5)
 - **Battle Value:** 1738
 
 ## Centurion CN9-Da
@@ -200,7 +202,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/524/centurion-cn9-da)
 - **Battle Value:** 1035
 
 ## Centurion CN9-D4D
@@ -216,7 +218,7 @@
   - ER Medium Laser
 - **Equipment:**
   - MASC
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5449/centurion-cn9-d4d)
 - **Battle Value:** 1369
 
 ## Centurion CN9-D9
@@ -234,7 +236,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/523/centurion-cn9-d9)
 - **Battle Value:** 1638
 
 ## Centurion CN9-Ar
@@ -250,7 +252,7 @@
   - Light PPC
   - Medium Pulse Laser
   - Medium Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/519/centurion-cn9-ar)
 - **Battle Value:** 1226
 
 ## Centurion CN9-H
@@ -265,7 +267,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser
   - Rocket 10 × 5
-- **Source:** XTRO RetroTech - Jihad
+- **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3922/centurion-cn9-h)
 - **Battle Value:** 848
 
 ## Centurion CN9-H2 MilitiaMech
@@ -279,7 +281,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
   - Medium Laser × 2
   - Rocket 10 × 5
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7866/centurion-cn9-h2)
 - **Battle Value:** 799
 
 ## Centurion CN9-H2H MilitiaMech
@@ -295,7 +297,7 @@
   - Rocket 10 × 5
 - **Equipment:**
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7867/centurion-cn9-h2h-militiamech)
 - **Battle Value:** 919
 
 ## Centurion CN9-H3 MilitiaMech
@@ -311,7 +313,7 @@
   - Rocket 10 × 5
 - **Equipment:**
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7868/centurion-cn9-h3-militiamech)
 - **Battle Value:** 962
 
 ## Centurion CN9-YLW3 'Yen Lo Wang'
@@ -329,7 +331,7 @@
   - Hatchet
 - **Equipment:**
   - Clan CASE II
-- **Source:** OTP Capellan Crusades - Dark Age
+- **Sources:** OTP Capellan Crusades - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7404/centurion-cn9-ylw3-yen-lo-wang)
 - **Battle Value:** 1815
 
 ## Centurion CN11-O
@@ -346,7 +348,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6340/centurion-cn11-o)
 - **Battle Value:** 1236
 
 ## Centurion CN11-OA
@@ -363,7 +365,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6341/centurion-cn11-oa)
 - **Battle Value:** 1375
 
 ## Centurion CN11-OB
@@ -381,7 +383,7 @@
   - Guardian ECM Suite
   - CASE II
   - Targeting Computer
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6342/centurion-cn11-ob)
 - **Battle Value:** 1412
 
 ## Centurion CN11-OC
@@ -401,7 +403,7 @@
   - Guardian ECM Suite
   - CASE II
   - C3 Slave
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6343/centurion-cn11-oc)
 - **Battle Value:** 1628
 
 ## Centurion CN11-OD
@@ -422,7 +424,7 @@
   - Medium Shield
   - Beagle Active Probe
   - CASE II
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6344/centurion-cn11-od)
 - **Battle Value:** 1153
 
 ## Centurion CN11-OE
@@ -439,7 +441,7 @@
 - **Equipment:**
   - Angel ECM Suite
   - C3 Boosted Slave
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6345/centurion-cn11-oe)
 - **Battle Value:** 1515
 
 ## Centurion CN10-D
@@ -457,5 +459,6 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7725/centurion-cn10-d)
 - **Battle Value:** 1260
 

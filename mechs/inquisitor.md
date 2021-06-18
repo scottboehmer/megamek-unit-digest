@@ -14,7 +14,7 @@
   - Communications Equipment
   - Searchlight
   - Ejection Seat
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4364/inquisitor-itw-80-securitymech)
 - **Battle Value:** 613
 
 ## Inquisitor ITW-85 SecurityMech
@@ -33,6 +33,6 @@
   - CASE II
   - Searchlight
   - Ejection Seat
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7825/inquisitor-itw-85-securitymech)
 - **Battle Value:** 664
 

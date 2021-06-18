@@ -11,5 +11,6 @@
   - AC/10 (ammo: 20)
   - LRM 10 (ammo: 24)
   - Machine Gun (ammo: 100)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7472/reconquista-standard)
 - **Battle Value:** 927
 

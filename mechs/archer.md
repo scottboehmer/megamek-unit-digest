@@ -10,7 +10,7 @@
 - **Weapons:**
   - LRM 20 × 2 (ammo: 24)
   - Medium Laser × 2
-- **Source:** XTRO Primitives V - Age of War
+- **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3721/archer-arc-1a)
 - **Battle Value:** 1269
 
 ## Archer ARC-2R
@@ -23,7 +23,7 @@
 - **Weapons:**
   - LRM 20 × 2 (ammo: 24)
   - Medium Laser × 4
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/74/archer-arc-2r)
 - **Battle Value:** 1477
 
 ## Archer ARC-2Rb
@@ -38,6 +38,7 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb)
 - **Battle Value:** 1705
 
 ## Archer ARC-2K
@@ -50,7 +51,7 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
   - Large Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/73/archer-arc-2k)
 - **Battle Value:** 1356
 
 ## Archer ARC-2S
@@ -64,7 +65,7 @@
   - LRM 15 × 2 (ammo: 32)
   - Medium Laser × 4
   - SRM 4 × 2 (ammo: 50)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/76/archer-arc-2s)
 - **Battle Value:** 1393
 
 ## Archer ARC-2W
@@ -78,7 +79,7 @@
   - LRM 20 × 2 (ammo: 24)
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/77/archer-arc-2w)
 - **Battle Value:** 1338
 
 ## Archer ARC-4M
@@ -93,7 +94,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m)
 - **Battle Value:** 1705
 
 ## Archer ARC-5R
@@ -108,6 +109,7 @@
   - ER Large Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r)
 - **Battle Value:** 1672
 
 ## Archer ARC-5S
@@ -124,6 +126,7 @@
   - Narc (ammo: 6)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s)
 - **Battle Value:** 1353
 
 ## Archer ARC-5W
@@ -139,7 +142,7 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/81/archer-arc-5w)
 - **Battle Value:** 1337
 
 ## Archer C
@@ -152,7 +155,7 @@
 - **Weapons:**
   - Clan LRM 20 × 2 (ammo: 24)
   - Clan ER Medium Laser × 4
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c)
 - **Battle Value:** 1811
 
 ## Archer ARC-5CS
@@ -165,7 +168,7 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 4 (ammo: 48)
   - Medium Laser × 2
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7598/archer-arc-5cs)
 - **Battle Value:** 1609
 
 ## Archer (Wolf)
@@ -183,7 +186,7 @@
   - ECM Suite
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf)
 - **Battle Value:** 2365
 
 ## Archer ARC-6S
@@ -200,7 +203,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/82/archer-arc-6s)
 - **Battle Value:** 1694
 
 ## Archer ARC-6W
@@ -214,7 +217,7 @@
   - Medium Laser × 4
   - Rocket 20 × 8
   - Rocket 10 × 2
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/83/archer-arc-6w)
 - **Battle Value:** 1405
 
 ## Archer ARC-7L
@@ -231,7 +234,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/84/archer-arc-7l)
 - **Battle Value:** 1881
 
 ## Archer ARC-8M
@@ -247,7 +250,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/86/archer-arc-8m)
 - **Battle Value:** 1759
 
 ## Archer ARC-7S
@@ -264,7 +267,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/85/archer-arc-7s)
 - **Battle Value:** 1658
 
 ## Archer ARC-9K
@@ -279,7 +282,7 @@
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM)
 - **Equipment:**
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/87/archer-arc-9k)
 - **Battle Value:** 1391
 
 ## Archer ARC-9M
@@ -296,7 +299,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/88/archer-arc-9m)
 - **Battle Value:** 1811
 
 ## Archer ARC-9W
@@ -313,7 +316,7 @@
   - Angel ECM Suite
   - Void-Signature System
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/89/archer-arc-9w)
 - **Battle Value:** 1774
 
 ## Archer ARC-4M2
@@ -328,7 +331,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7730/archer-arc-4m2)
 - **Battle Value:** 1742
 
 ## Archer ARC-9KC
@@ -344,7 +347,7 @@
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM)
 - **Equipment:**
   - C3 Boosted Slave
-- **Source:** RS 3145 NTNU
+- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc)
 - **Battle Value:** 1361
 
 ## Archer ARC-7C
@@ -360,6 +363,7 @@
 - **Equipment:**
   - CASE II
   - Targeting Computer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c)
 - **Battle Value:** 2408
 
 ## Archer ARC-9R
@@ -375,6 +379,6 @@
 - **Equipment:**
   - CASE II
   - C3 Slave
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r)
 - **Battle Value:** 1668
 

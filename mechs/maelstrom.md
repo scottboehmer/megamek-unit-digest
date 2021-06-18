@@ -13,7 +13,7 @@
   - Small Laser
 - **Equipment:**
   - TAG
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1988/maelstrom-mtr-5k)
 - **Battle Value:** 1694
 
 ## Maelstrom MTR-6E
@@ -32,7 +32,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1989/maelstrom-mtr-6e)
 - **Battle Value:** 1806
 
 ## Maelstrom MTR-6K
@@ -51,7 +51,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1990/maelstrom-mtr-6k)
 - **Battle Value:** 1678
 
 ## Maelstrom MTR-7K
@@ -68,6 +68,6 @@
 - **Equipment:**
   - Supercharger
   - C3 Boosted Slave
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6867/maelstrom-mtr-7k)
 - **Battle Value:** 2462
 

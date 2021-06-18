@@ -16,7 +16,7 @@
   - CASE
   - Targeting Computer
   - Supercharger
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7434/dominator-standard)
 - **Battle Value:** 3018
 
 ## Dominator 2
@@ -35,6 +35,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7435/dominator-2)
 - **Battle Value:** 2906
 

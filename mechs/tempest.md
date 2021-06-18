@@ -12,7 +12,7 @@
   - Large Pulse Laser
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3169/tempest-tmp-3m)
 - **Battle Value:** 1786
 
 ## Tempest TMP-3G
@@ -28,7 +28,7 @@
   - Large Pulse Laser
   - Medium Laser × 3
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5188/tempest-tmp-3g)
 - **Battle Value:** 1810
 
 ## Tempest TMP-3MA
@@ -44,7 +44,7 @@
   - Large Pulse Laser
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5189/tempest-tmp-3ma)
 - **Battle Value:** 1425
 
 ## Tempest TMP-3M2 'Storm Tempest'
@@ -61,6 +61,6 @@
   - Streak SRM 6 (ammo: 15)
   - ER Medium Laser × 3
   - ER Small Laser
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3170/tempest-tmp-3m2-storm-tempest)
 - **Battle Value:** 1642
 

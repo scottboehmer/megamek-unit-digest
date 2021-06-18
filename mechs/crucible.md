@@ -12,7 +12,7 @@
   - Micro Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7734/crucible-standard)
 - **Battle Value:** 3108
 
 ## Crucible 2
@@ -30,6 +30,7 @@
 - **Equipment:**
   - CASE
   - Inner Sphere Coolant Pod
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7735/crucible-2)
 - **Battle Value:** 3598
 
 ## Crucible 3
@@ -46,6 +47,6 @@
 - **Equipment:**
   - CASE
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7736/crucible-3)
 - **Battle Value:** 3230
 

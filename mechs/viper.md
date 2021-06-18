@@ -14,7 +14,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/926/dragonfly-viper-prime)
 - **Battle Value:** 1450
 
 ## Viper "Dragonfly" A
@@ -30,7 +30,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/917/dragonfly-viper-a)
 - **Battle Value:** 1989
 
 ## Viper "Dragonfly" B
@@ -45,7 +45,7 @@
   - ER PPC
   - Small Pulse Laser × 2
   - Flamer
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/918/dragonfly-viper-b)
 - **Battle Value:** 1830
 
 ## Viper "Dragonfly" C
@@ -63,7 +63,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/919/dragonfly-viper-c)
 - **Battle Value:** 1344
 
 ## Viper "Dragonfly" D
@@ -81,7 +81,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/920/dragonfly-viper-d)
 - **Battle Value:** 1779
 
 ## Viper "Dragonfly" E
@@ -98,7 +98,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/921/dragonfly-viper-e)
 - **Battle Value:** 1561
 
 ## Viper "Dragonfly" H
@@ -116,7 +116,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/924/dragonfly-viper-h)
 - **Battle Value:** 1732
 
 ## Viper "Dragonfly" I
@@ -135,7 +135,7 @@
   - Light Active Probe
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/925/dragonfly-viper-i)
 - **Battle Value:** 1580
 
 ## Viper "Dragonfly" F
@@ -152,7 +152,7 @@
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/922/dragonfly-viper-f)
 - **Battle Value:** 1689
 
 ## Viper "Dragonfly" G
@@ -170,7 +170,7 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/923/dragonfly-viper-g)
 - **Battle Value:** 1574
 
 ## Viper "Dragonfly" Z
@@ -189,7 +189,7 @@
   - Laser Anti-Missile System
   - CASE
   - Light TAG
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5644/dragonfly-viper-z)
 - **Battle Value:** 1692
 
 ## Viper "Dragonfly" U
@@ -208,7 +208,7 @@
   - Anti-Missile System (ammo: 24)
   - CASE
   - Liquid Cargo
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/927/dragonfly-viper-u)
 - **Battle Value:** 1417
 
 ## Viper "Dragonfly" R
@@ -226,7 +226,7 @@
   - Inner Sphere Bloodhound Active Probe
   - CASE
   - Light TAG
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7588/dragonfly-viper-r)
 - **Battle Value:** 1335
 
 ## Viper "Dragonfly" T
@@ -246,7 +246,7 @@
   - Light Active Probe
   - CASE
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7583/dragonfly-viper-t)
 - **Battle Value:** 1704
 
 ## Viper "Dragonfly" J
@@ -262,7 +262,7 @@
   - ER Micro Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7584/dragonfly-viper-j)
 - **Battle Value:** 1259
 
 ## Viper "Dragonfly" K
@@ -281,7 +281,7 @@
   - Active Probe
   - CASE
   - TAG
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7585/dragonfly-viper-k)
 - **Battle Value:** 1545
 
 ## Viper "Dragonfly" L
@@ -297,7 +297,7 @@
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7586/dragonfly-viper-l)
 - **Battle Value:** 1417
 
 ## Viper "Dragonfly" M
@@ -314,6 +314,6 @@
   - Micro Pulse Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m)
 - **Battle Value:** 2054
 

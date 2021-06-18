@@ -10,7 +10,7 @@
   - Gauss Rifle (ammo: 16)
   - ER Large Laser
   - Medium Pulse Laser
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1580/huron-warrior-hur-wo-r4l)
 - **Battle Value:** 1530
 
 ## Huron Warrior HUR-WO-R4M
@@ -24,7 +24,7 @@
   - Gauss Rifle (ammo: 16)
   - ER Large Laser
   - Medium Laser
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1581/huron-warrior-hur-wo-r4m)
 - **Battle Value:** 1556
 
 ## Huron Warrior HUR-WO-R4N
@@ -40,7 +40,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1582/huron-warrior-hur-wo-r4n)
 - **Battle Value:** 1489
 
 ## Huron Warrior HUR-WO-R4O
@@ -54,10 +54,10 @@
   - Gauss Rifle (ammo: 24)
   - ER Large Laser
   - Medium Pulse Laser
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1583/huron-warrior-hur-wo-r4o)
 - **Battle Value:** 1585
 
-## Huron Warrior HUR-WO-RX4
+## Huron Warrior HUR-WO-R4X
 - **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3076)
 - **Chassis:** 50 tons (Endo Steel)
@@ -69,6 +69,6 @@
   - Large X-Pulse Laser
 - **Equipment:**
   - Supercharger
-- **Source:** XTRO Most Wanted - Jihad
+- **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5782/huron-warrior-hur-wo-r4x)
 - **Battle Value:** 1728
 

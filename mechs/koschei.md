@@ -9,7 +9,7 @@
 - **Weapons:**
   - AC/10 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1820/koschei-ksc-3i)
 - **Battle Value:** 1255
 
 ## Koschei KSC-3L
@@ -23,7 +23,7 @@
   - LRM 15 (ammo: 16)
   - Large Laser
   - Medium Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1821/koschei-ksc-3l)
 - **Battle Value:** 1384
 
 ## Koschei KSC-4I
@@ -39,7 +39,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1822/koschei-ksc-4i)
 - **Battle Value:** 1516
 
 ## Koschei KSC-4L
@@ -55,7 +55,7 @@
   - Medium Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1823/koschei-ksc-4l)
 - **Battle Value:** 1503
 
 ## Koschei KSC-5MC
@@ -73,7 +73,7 @@
   - ER Small Laser × 5
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc)
 - **Battle Value:** 1764
 
 ## Koschei KSC-5I
@@ -91,7 +91,7 @@
   - ER Small Laser × 5
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1824/koschei-ksc-5i)
 - **Battle Value:** 1961
 
 ## Koschei KSC-5X
@@ -110,7 +110,7 @@
   - Claw × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1826/koschei-ksc-5x)
 - **Battle Value:** 1554
 
 ## Koschei KSC-6L
@@ -127,6 +127,6 @@
 - **Equipment:**
   - CASE II
   - Targeting Computer
-- **Source:** RS 3145 NTNU
+- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6881/koschei-ksc-6l)
 - **Battle Value:** 1465
 

@@ -13,7 +13,7 @@
   - LRM 10 (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/818/daishi-dire-wolf-prime)
 - **Battle Value:** 2712
 
 ## Dire Wolf "Daishi" A
@@ -30,7 +30,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 72)
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/813/daishi-dire-wolf-a)
 - **Battle Value:** 2855
 
 ## Dire Wolf "Daishi" B
@@ -48,7 +48,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/814/daishi-dire-wolf-b)
 - **Battle Value:** 2609
 
 ## Dire Wolf "Daishi" W
@@ -67,7 +67,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/821/daishi-dire-wolf-w)
 - **Battle Value:** 2951
 
 ## Dire Wolf "Daishi" 'Widowmaker'
@@ -85,7 +85,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/811/daishi-dire-wolf-widowmaker)
 - **Battle Value:** 3041
 
 ## Dire Wolf "Daishi" S
@@ -105,7 +105,7 @@
 - **Equipment:**
   - A-Pod × 2
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/819/daishi-dire-wolf-s)
 - **Battle Value:** 2985
 
 ## Dire Wolf "Daishi" 'Prometheus'
@@ -122,7 +122,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/810/daishi-dire-wolf-prometheus)
 - **Battle Value:** 2900
 
 ## Dire Wolf "Daishi" (Hohiro)
@@ -140,7 +140,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/812/daishi-dire-wolf-hohiro)
 - **Battle Value:** 3048
 
 ## Dire Wolf "Daishi" C
@@ -160,7 +160,7 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/815/daishi-dire-wolf-c)
 - **Battle Value:** 3610
 
 ## Dire Wolf "Daishi" H
@@ -178,7 +178,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/817/daishi-dire-wolf-h)
 - **Battle Value:** 2992
 
 ## Dire Wolf "Daishi" X
@@ -201,7 +201,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** RecGuide 13 - Civil War
+- **Sources:** RecGuide 13 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4046/daishi-dire-wolf-x)
 - **Battle Value:** 2645
 
 ## Dire Wolf "Daishi" D
@@ -218,7 +218,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/816/daishi-dire-wolf-d)
 - **Battle Value:** 3403
 
 ## Dire Wolf "Daishi" U
@@ -238,7 +238,7 @@
   - Targeting Computer
   - Inner Sphere HarJel × 5
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/820/daishi-dire-wolf-u)
 - **Battle Value:** 3360
 
 ## Dire Wolf "Daishi" E
@@ -255,7 +255,7 @@
 - **Equipment:**
   - Watchdog CEWS
   - CASE II
-- **Source:** RecGuide 13 - Dark Ages
+- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e)
 - **Battle Value:** 2814
 
 ## Dire Wolf "Daishi" T
@@ -274,6 +274,6 @@
   - Light Active Probe
   - CASE
   - Supercharger
-- **Source:** RecGuide 13 - Dark Ages
+- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8133/daishi-dire-wolf-t)
 - **Battle Value:** 3317
 

@@ -10,7 +10,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3160/tarantula-zph-1)
 - **Battle Value:** 666
 
 ## Tarantula ZPH-2A
@@ -24,7 +24,7 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3161/tarantula-zph-2a)
 - **Battle Value:** 744
 
 ## Tarantula ZPH-3A
@@ -37,7 +37,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Medium Pulse Laser × 2
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3162/tarantula-zph-3a)
 - **Battle Value:** 702
 
 ## Tarantula ZPH-4A
@@ -52,7 +52,7 @@
 - **Equipment:**
   - C3 Slave
   - MASC
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3163/tarantula-zph-4a)
 - **Battle Value:** 967
 
 ## Tarantula ZPH-5A
@@ -67,6 +67,6 @@
 - **Equipment:**
   - C3 Boosted Slave
   - MASC
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6941/tarantula-zph-5a)
 - **Battle Value:** 806
 

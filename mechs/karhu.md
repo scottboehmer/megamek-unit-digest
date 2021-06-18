@@ -14,7 +14,7 @@
   - Inner Sphere Retractable Blade
 - **Equipment:**
   - ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1752/karhu-prime)
 - **Battle Value:** 2484
 
 ## Karhu A
@@ -33,7 +33,7 @@
   - Micro Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1748/karhu-a)
 - **Battle Value:** 2560
 
 ## Karhu B
@@ -51,7 +51,7 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b)
 - **Battle Value:** 2787
 
 ## Karhu C
@@ -69,7 +69,7 @@
   - Inner Sphere Retractable Blade
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1750/karhu-c)
 - **Battle Value:** 2089
 
 ## Karhu D
@@ -89,7 +89,7 @@
   - Active Probe
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1751/karhu-d)
 - **Battle Value:** 3118
 
 ## Karhu (Syngman)
@@ -108,7 +108,7 @@
   - Inner Sphere Guardian ECM Suite
   - Inner Sphere Beagle Active Probe
   - Inner Sphere C3 Slave
-- **Source:** TRO 3085/Lamenkov's Liability - Jihad
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1747/karhu-syngman)
 - **Battle Value:** 1921
 
 ## Karhu G
@@ -127,6 +127,6 @@
   - Light TAG
   - CASE
   - Supercharger
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6882/karhu-g)
 - **Battle Value:** 2895
 

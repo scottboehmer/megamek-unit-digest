@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3361/urbanmech-iic-standard)
 - **Battle Value:** 798
 
 ## UrbanMech IIC 2
@@ -28,6 +28,6 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3362/urbanmech-iic-2)
 - **Battle Value:** 855
 

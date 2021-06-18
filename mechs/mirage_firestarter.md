@@ -11,6 +11,6 @@
   - Medium Laser × 2
   - Small Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1098/firestarter-fs9-m-mirage)
 - **Battle Value:** 798
 

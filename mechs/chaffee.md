@@ -12,6 +12,6 @@
   - Paramedic Equipment × 2
   - Searchlight
   - Enviro-Sealing
-- **Source:** TRO VA - Jihad
+- **Sources:** TRO VA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7151/chaffee-bt1-servicemech)
 - **Battle Value:** unknown
 

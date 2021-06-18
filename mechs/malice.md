@@ -9,7 +9,7 @@
 - **Weapons:**
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster)
   - ER Medium Laser × 4
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6683/malice-mal-xt)
 - **Battle Value:** 1852
 
 ## Malice MAL-XP
@@ -23,7 +23,7 @@
   - Clan LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
   - Clan ER Medium Laser × 2
   - Clan LB 5-X AC × 2 (ammo: 40 Cluster)
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6725/malice-mal-xp)
 - **Battle Value:** 2016
 
 ## Malice MAL-XV
@@ -39,7 +39,7 @@
 - **Equipment:**
   - Clan CASE II
   - C3 Slave
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6726/malice-mal-xv)
 - **Battle Value:** 1996
 
 ## Malice MAL-YZ
@@ -62,6 +62,6 @@
   - Inner Sphere C3 Slave
   - TAG
   - Armored Actuator × 2
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6727/malice-mal-yz)
 - **Battle Value:** 2982
 

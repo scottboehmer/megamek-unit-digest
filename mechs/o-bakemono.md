@@ -12,7 +12,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2310/o-bakemono-obk-m10)
 - **Battle Value:** 1659
 
 ## O-Bakemono OBK-M11
@@ -29,7 +29,7 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2311/o-bakemono-obk-m11)
 - **Battle Value:** 1793
 
 ## O-Bakemono OBK-M12
@@ -46,6 +46,6 @@
 - **Equipment:**
   - CASE
   - C3 Master
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2312/o-bakemono-obk-m12)
 - **Battle Value:** 1732
 

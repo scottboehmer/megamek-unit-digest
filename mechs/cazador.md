@@ -12,6 +12,6 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7881/cazador-standard)
 - **Battle Value:** 921
 

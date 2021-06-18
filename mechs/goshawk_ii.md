@@ -14,7 +14,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1249/goshawk-ii-standard)
 - **Battle Value:** 1849
 
 ## Goshawk II 2
@@ -34,7 +34,7 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1247/goshawk-ii-2)
 - **Battle Value:** 1767
 
 ## Goshawk II 3
@@ -52,7 +52,7 @@
 - **Equipment:**
   - Targeting Computer
   - Liquid Cargo
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1248/goshawk-ii-3)
 - **Battle Value:** 2115
 
 ## Goshawk II RISC
@@ -70,6 +70,6 @@
 - **Equipment:**
   - CASE
   - Inner Sphere Emergency Coolant System
-- **Source:** XTRO Republic III - Dark Age
+- **Sources:** XTRO Republic III - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7376/goshawk-ii-risc)
 - **Battle Value:** 1871
 

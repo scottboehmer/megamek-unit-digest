@@ -13,7 +13,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5346/verfolger-vr5-r)
 - **Battle Value:** 1639
 
 ## Verfolger VR6-C
@@ -29,7 +29,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5688/verfolger-vr6-c)
 - **Battle Value:** 1584
 
 ## Verfolger VR6-T
@@ -47,6 +47,6 @@
   - Medium Pulse Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5689/verfolger-vr6-t)
 - **Battle Value:** 1811
 

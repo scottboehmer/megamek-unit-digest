@@ -10,7 +10,7 @@
   - PPC
   - LRM 10 × 2 (ammo: 24)
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1229/goliath-gol-1h)
 - **Battle Value:** 1449
 
 ## Goliath GOL-3M
@@ -26,7 +26,7 @@
   - Machine Gun × 2 (ammo: 400)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m)
 - **Battle Value:** 1537
 
 ## Goliath GOL-3S
@@ -42,7 +42,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1233/goliath-gol-3s)
 - **Battle Value:** 1463
 
 ## Goliath GOL-2H
@@ -56,7 +56,7 @@
   - PPC
   - LRM 10 × 2 (ammo: 24)
   - Rocket 10 × 6
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1230/goliath-gol-2h)
 - **Battle Value:** 1583
 
 ## Goliath GOL-4S
@@ -72,7 +72,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1234/goliath-gol-4s)
 - **Battle Value:** 1912
 
 ## Goliath GOL-5D
@@ -89,7 +89,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1235/goliath-gol-5d)
 - **Battle Value:** 1975
 
 ## Goliath GOL-5W
@@ -106,7 +106,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1236/goliath-gol-5w)
 - **Battle Value:** 2006
 
 ## Goliath GOL-6H
@@ -124,7 +124,7 @@
   - B-Pod × 4
   - Machine Gun Array × 2
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1237/goliath-gol-6h)
 - **Battle Value:** 1653
 
 ## Goliath GOL-3L
@@ -142,7 +142,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1231/goliath-gol-3l)
 - **Battle Value:** 1708
 
 ## Goliath GOL-6M
@@ -161,7 +161,7 @@
 - **Equipment:**
   - Quad Turret
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1238/goliath-gol-6m)
 - **Battle Value:** 1742
 
 ## Goliath C
@@ -183,6 +183,6 @@
   - Quad Turret
   - Clan CASE II
   - Clan Targeting Computer
-- **Source:** ilClan Vol 1 - Dark Age
+- **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7438/goliath-c)
 - **Battle Value:** 2222
 

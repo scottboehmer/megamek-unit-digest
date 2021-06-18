@@ -15,7 +15,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/885/deva-c-dva-o-invictus)
 - **Battle Value:** 1584
 
 ## Deva C-DVA-OA Dominus
@@ -37,7 +37,7 @@
   - C3i
   - CASE
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/886/deva-c-dva-oa-dominus)
 - **Battle Value:** 1727
 
 ## Deva C-DVA-OB Infernus
@@ -56,7 +56,7 @@
   - Guardian ECM Suite
   - C3i
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/887/deva-c-dva-ob-infernus)
 - **Battle Value:** 1713
 
 ## Deva C-DVA-OC Comminus
@@ -77,7 +77,7 @@
   - Guardian ECM Suite
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/888/deva-c-dva-oc-comminus)
 - **Battle Value:** 1749
 
 ## Deva C-DVA-OD Luminos
@@ -97,7 +97,7 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/889/deva-c-dva-od-luminos)
 - **Battle Value:** 1711
 
 ## Deva C-DVA-O (Achilleus)
@@ -116,7 +116,7 @@
   - C3i
   - Supercharger
   - Targeting Computer
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/884/deva-c-dva-o-achillius)
 - **Battle Value:** 1595
 
 ## Deva C-DVA-OE Eminus
@@ -135,7 +135,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/890/deva-c-dva-oe-eminus)
 - **Battle Value:** 1686
 
 ## Deva C-DVA-OS Caelestis
@@ -155,6 +155,7 @@
   - C3i
   - Targeting Computer
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/891/deva-c-dva-os-caelestis)
 - **Battle Value:** 1785
 
 ## Deva C-DVA-OU Exanimus
@@ -175,6 +176,6 @@
   - MASS
   - C3i
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/892/deva-c-dva-ou-exanimus)
 - **Battle Value:** 1685
 

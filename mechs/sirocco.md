@@ -13,7 +13,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - A-Pod × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2951/sirocco-src-3c)
 - **Battle Value:** 2154
 
 ## Sirocco SRC-5C
@@ -32,7 +32,7 @@
   - Guardian ECM Suite
   - A-Pod × 4
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2952/sirocco-src-5c)
 - **Battle Value:** 2107
 
 ## Sirocco SRC-6C
@@ -51,6 +51,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2953/sirocco-src-6c)
 - **Battle Value:** 2202
 

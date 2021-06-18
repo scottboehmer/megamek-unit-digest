@@ -14,7 +14,7 @@
 - **Equipment:**
   - Coolant Pod × 4
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/661/colossus-cl-p3)
 - **Battle Value:** 1988
 
 ## Colossus CLS-4S
@@ -32,7 +32,7 @@
 - **Equipment:**
   - Small Shield × 2
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/662/colossus-cls-4s)
 - **Battle Value:** 2392
 
 ## Colossus CLS-5S
@@ -50,6 +50,6 @@
 - **Equipment:**
   - Coolant Pod × 4
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/663/colossus-cls-5s)
 - **Battle Value:** 2647
 

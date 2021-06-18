@@ -12,7 +12,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5131/stiletto-sto-4a)
 - **Battle Value:** 859
 
 ## Stiletto STO-4B
@@ -28,7 +28,7 @@
   - Flamer
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5132/stiletto-sto-4b)
 - **Battle Value:** 1164
 
 ## Stiletto STO-4C
@@ -43,7 +43,7 @@
   - MML 5 (ammo: 48 LRM, 20 SRM)
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5666/stiletto-sto-4c)
 - **Battle Value:** 941
 
 ## Stiletto STO-6X
@@ -59,7 +59,7 @@
   - Bloodhound Active Probe
   - Shoulder Turret × 2
   - Supercharger
-- **Source:** XTRO Steiner - Jihad
+- **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5134/stiletto-sto-6x)
 - **Battle Value:** 1192
 
 ## Stiletto STO-6S
@@ -75,5 +75,6 @@
   - Guardian ECM Suite
   - Bloodhound Active Probe
   - Shoulder Turret × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5133/stiletto-sto-6s)
 - **Battle Value:** 1171
 

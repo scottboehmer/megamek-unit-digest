@@ -12,7 +12,7 @@
   - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Lyran Commonwealth - Clan Invasion
+- **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/6631/zeus-x-zeu-x)
 - **Battle Value:** 2119
 
 ## Zeus-X ZEU-9WD
@@ -28,7 +28,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050U - Civil War
+- **Sources:** TRO 3050U - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3646/zeus-x-zeu-9wd)
 - **Battle Value:** 1716
 
 ## Zeus-X ZEU-X2
@@ -44,7 +44,7 @@
   - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Lyran Commonwealth - Jihad
+- **Sources:** TRO 3145 Lyran Commonwealth - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6632/zeus-x-zeu-x2)
 - **Battle Value:** 1915
 
 ## Zeus-X ZEU-9WD (Stacy)
@@ -62,7 +62,7 @@
   - Blue Shield PFD
   - AES
   - CASE
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3647/zeus-x-zeu-9wd-stacy)
 - **Battle Value:** 1921
 
 ## Zeus-X ZEU-X3
@@ -78,7 +78,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3145 Lyran Commonwealth - Early Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6633/zeus-x-zeu-x3)
 - **Battle Value:** 2178
 
 ## Zeus-X ZEU-X4
@@ -96,6 +96,6 @@
 - **Equipment:**
   - Command Console
   - CASE II
-- **Source:** TRO 3145 Lyran Commonwealth - Late Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6630/zeus-x-zeu-x4)
 - **Battle Value:** 2193
 

@@ -12,6 +12,6 @@
 - **Equipment:**
   - Quad Turret
   - Targeting Computer
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7882/tolva-standard)
 - **Battle Value:** 1449
 

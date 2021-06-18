@@ -11,7 +11,7 @@
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
   - Narc (ammo: 12)
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1791/kintaro-kto-19)
 - **Battle Value:** 1160
 
 ## Kintaro KTO-19b
@@ -28,7 +28,7 @@
   - Narc (ammo: 12)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1792/kintaro-kto-19b)
 - **Battle Value:** 1265
 
 ## Kintaro KTO-18
@@ -42,7 +42,7 @@
   - SRM 6 × 3 (ammo: 45)
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1790/kintaro-kto-18)
 - **Battle Value:** 1187
 
 ## Kintaro KTO-20
@@ -57,7 +57,7 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
-- **Source:** TRO 3050 - Succession War
+- **Sources:** TRO 3050 - Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/1793/kintaro-kto-20)
 - **Battle Value:** 1357
 
 ## Kintaro KTO-C
@@ -74,7 +74,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1795/kintaro-kto-c)
 - **Battle Value:** 1294
 
 ## Kintaro KTO-K
@@ -91,7 +91,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1796/kintaro-kto-k)
 - **Battle Value:** 1571
 
 ## Kintaro KTO-21
@@ -108,6 +108,6 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1794/kintaro-kto-21)
 - **Battle Value:** 1295
 

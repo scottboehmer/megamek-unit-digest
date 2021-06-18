@@ -1248,8 +1248,8 @@
 
 ## 40 Tons
 
-### [Arana](mechs/arana.md)
-- **Arana ARA-S-1 MilitiaMech** *Undefined (3087)*
+### [Araña](mechs/araña.md)
+- **Araña ARA-S-1 MilitiaMech** *Undefined (3087)*
 
 ### [Arctic Wolf](mechs/arctic_wolf.md)
 - **Arctic Wolf (Standard)** *Striker (3059)*
@@ -2104,7 +2104,7 @@
 - **Huron Warrior HUR-WO-R4M** *Skirmisher (3056)*
 - **Huron Warrior HUR-WO-R4N** *Missile Boat (3063)* `ECM`, `Stealth`
 - **Huron Warrior HUR-WO-R4O** *Skirmisher (3065)*
-- **Huron Warrior HUR-WO-RX4** *Skirmisher (3076)*
+- **Huron Warrior HUR-WO-R4X** *Skirmisher (3076)*
 
 ### [Inquisitor II](mechs/inquisitor_ii.md)
 - **Inquisitor II ITW-200** *Sniper (3130)* `Active Probe`
@@ -2641,7 +2641,7 @@
 - **Sun Cobra 2** *Sniper (3093)*
 
 ### [Surtur](mechs/surtur.md)
-- **Surtur STR-6H** *Undefined (3140)*
+- **Surtur SUR-T1** *Undefined (3140)*
 
 ### [Thunder Fox](mechs/thunder_fox.md)
 - **Thunder Fox TFT-A9** *Sniper (3077)*
@@ -4935,7 +4935,6 @@
 - **Archangel  C-ANG-OS Caelestis** *Juggernaut (3075)* `C3i`
 
 ### [Atlas](mechs/atlas.md)
-- **Atlas AS7-D-HT** *Undefined (2750)*
 - **Atlas AS7-D** *Juggernaut (2755)*
 - **Atlas AS7-D-DC** *Juggernaut (2776)* `Command Console`
 - **Atlas AS7-RS** *Juggernaut (2892)*
@@ -4960,6 +4959,7 @@
 - **Atlas AS7-K4** *Brawler (3098)* `ECM`
 
 ### [Atlas II](mechs/atlas_ii.md)
+- **Atlas II AS7-D-HT** *Undefined (2750)*
 - **Atlas II AS7-D-H** *Juggernaut (2765)*
 - **Atlas II AS7-D-H2** *Juggernaut (2780)*
 - **Atlas II AS7-D-H (Kerensky)** *Juggernaut (2833)* `Active Probe`, `ECM`

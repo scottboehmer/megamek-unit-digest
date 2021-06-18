@@ -13,7 +13,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard)
 - **Battle Value:** 1608
 
 ## Griffin IIC 2
@@ -30,7 +30,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2)
 - **Battle Value:** 1516
 
 ## Griffin IIC 3
@@ -48,7 +48,7 @@
   - Heavy Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1312/griffin-iic-3)
 - **Battle Value:** 1532
 
 ## Griffin IIC 4
@@ -65,7 +65,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1313/griffin-iic-4)
 - **Battle Value:** 1475
 
 ## Griffin IIC 5
@@ -82,7 +82,7 @@
   - Light Machine Gun × 6 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1314/griffin-iic-5)
 - **Battle Value:** 1344
 
 ## Griffin IIC 6
@@ -99,7 +99,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1315/griffin-iic-6)
 - **Battle Value:** 1468
 
 ## Griffin IIC 8
@@ -117,7 +117,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1317/griffin-iic-8)
 - **Battle Value:** 1736
 
 ## Griffin IIC 7
@@ -134,7 +134,7 @@
   - ER Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1316/griffin-iic-7)
 - **Battle Value:** 1952
 
 ## Griffin IIC 9
@@ -151,6 +151,6 @@
   - Inner Sphere ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9)
 - **Battle Value:** 1106
 

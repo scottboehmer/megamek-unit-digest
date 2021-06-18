@@ -11,7 +11,7 @@
   - PPC
   - Medium Laser × 2
   - Small Laser
-- **Source:** Shrapnel 4 - Succession Wars
+- **Sources:** Shrapnel 4 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7928/suburbanmech-um-r90)
 - **Battle Value:** 773
 
 ## SuburbanMech UM-R100
@@ -26,6 +26,6 @@
   - ER PPC
   - Medium Laser × 2
   - Small Laser
-- **Source:** Shrapnel 4 - Succession Wars
+- **Sources:** Shrapnel 4 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7929/suburbanmech-um-r100)
 - **Battle Value:** 915
 

@@ -12,7 +12,7 @@
   - Flamer
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1124/flashman-fls-8k)
 - **Battle Value:** 1779
 
 ## Flashman FLS-7K
@@ -26,7 +26,7 @@
   - Large Laser × 2
   - Medium Laser × 5
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1123/flashman-fls-7k)
 - **Battle Value:** 1480
 
 ## Flashman FLS-9C
@@ -42,7 +42,7 @@
   - Medium Laser
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1126/flashman-fls-9c)
 - **Battle Value:** 1779
 
 ## Flashman FLS-C
@@ -58,7 +58,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - C3 Slave
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1128/flashman-fls-c)
 - **Battle Value:** 1774
 
 ## Flashman FLS-9B
@@ -77,7 +77,7 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1125/flashman-fls-9b)
 - **Battle Value:** 1600
 
 ## Flashman FLS-9M
@@ -92,6 +92,6 @@
   - Medium Pulse Laser × 4
   - Medium Laser × 4
   - Small Laser
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1127/flashman-fls-9m)
 - **Battle Value:** 1895
 

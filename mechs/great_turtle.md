@@ -14,7 +14,7 @@
   - Medium X-Pulse Laser × 3
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1281/great-turtle-gtr-1)
 - **Battle Value:** 3152
 
 ## Great Turtle GTR-2
@@ -33,6 +33,6 @@
   - Armored ER Medium Laser
 - **Equipment:**
   - Armored Actuator × 4
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1282/great-turtle-gtr-2)
 - **Battle Value:** 2355
 

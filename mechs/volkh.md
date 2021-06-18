@@ -14,7 +14,7 @@
 - **Equipment:**
   - Supercharger
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3447/volkh-vkh-1)
 - **Battle Value:** 1635
 
 ## Volkh VKH-7
@@ -32,7 +32,7 @@
 - **Equipment:**
   - Supercharger
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3448/volkh-vkh-7)
 - **Battle Value:** 1578
 
 ## Volkh VKH-68
@@ -52,6 +52,6 @@
   - MASC
   - Targeting Computer
   - Head Turret
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8107/volkh-vkh-68)
 - **Battle Value:** 1679
 

@@ -12,7 +12,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/997/excalibur-exc-b1)
 - **Battle Value:** 1549
 
 ## Excalibur EXC-B2
@@ -28,7 +28,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/998/excalibur-exc-b2)
 - **Battle Value:** 1533
 
 ## Excalibur EXC-B2b
@@ -44,7 +44,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/999/excalibur-exc-b2b)
 - **Battle Value:** 1715
 
 ## Excalibur EXC-B2b-EC
@@ -63,7 +63,7 @@
   - Inner Sphere Anti-Missile System (ammo: 12)
   - CASE
   - Inner Sphere CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7683/excalibur-exc-b2b-ec)
 - **Battle Value:** 2001
 
 ## Excalibur EXC-C1
@@ -79,7 +79,7 @@
   - Medium Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1000/excalibur-exc-c1)
 - **Battle Value:** 1637
 
 ## Excalibur EXC-C1 (Cernunnos)
@@ -96,6 +96,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1001/excalibur-exc-c1-cernunnos)
 - **Battle Value:** 1778
 
 ## Excalibur EXC-CS
@@ -114,7 +115,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1002/excalibur-exc-cs)
 - **Battle Value:** 2174
 
 ## Excalibur EXC-D1
@@ -133,6 +134,6 @@
   - C3i
   - CASE
   - Targeting Computer
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1003/excalibur-exc-d1)
 - **Battle Value:** 1949
 

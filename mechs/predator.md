@@ -12,7 +12,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2567/predator-standard)
 - **Battle Value:** 1754
 
 ## Predator 2
@@ -28,6 +28,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2568/predator-2)
 - **Battle Value:** 2159
 

@@ -14,5 +14,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Beagle Active Probe
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2173/mercury-ii-mcy-100)
 - **Battle Value:** 1376
 

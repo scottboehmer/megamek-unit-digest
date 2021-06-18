@@ -9,7 +9,7 @@
 - **Weapons:**
   - Gauss Rifle × 3 (ammo: 48)
   - Medium Laser × 4
-- **Source:** TRO 3058 - Star League
+- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3222/thunder-hawk-tdk-7x)
 - **Battle Value:** 2577
 
 ## Thunder Hawk TDK-7Y
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Gauss Rifle × 3 (ammo: 48)
   - Medium Pulse Laser × 2
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3223/thunder-hawk-tdk-7y)
 - **Battle Value:** 2489
 
 ## Thunder Hawk TDK-7KMA
@@ -36,7 +36,7 @@
   - Gauss Rifle × 2 (ammo: 32)
   - Arrow IV (ammo: 10)
   - Medium Laser × 4
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3220/thunder-hawk-tdk-7kma)
 - **Battle Value:** 2449
 
 ## Thunder Hawk TDK-7S
@@ -49,6 +49,6 @@
 - **Weapons:**
   - Gauss Rifle × 3 (ammo: 32)
   - Medium Laser × 2
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3221/thunder-hawk-tdk-7s)
 - **Battle Value:** 2440
 

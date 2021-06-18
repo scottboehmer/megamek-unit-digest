@@ -12,7 +12,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/652/clint-iic-standard)
 - **Battle Value:** 1395
 
 ## Clint IIC 2
@@ -27,7 +27,7 @@
   - Medium Pulse Laser × 5
 - **Equipment:**
   - ECM Suite
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/653/clint-iic-2)
 - **Battle Value:** 1890
 
 ## Clint IIC 2L 'Leia'

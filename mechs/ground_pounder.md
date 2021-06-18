@@ -14,7 +14,7 @@
   - Mech Sprayer × 4
   - Liquid Cargo × 2
   - Tracks
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7872/ground-pounder-dvm-2-miningmech)
 - **Battle Value:** unknown
 
 ## Ground Pounder DVM-2M MiningMech MOD
@@ -30,6 +30,6 @@
   - Heavy-Duty Pile Driver
 - **Equipment:**
   - Tracks
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7873/ground-pounder-dvm-2m-miningmech-mod)
 - **Battle Value:** 548
 

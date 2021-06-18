@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2563/pouncer-prime)
 - **Battle Value:** 2557
 
 ## Pouncer A
@@ -29,7 +29,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2557/pouncer-a)
 - **Battle Value:** 2081
 
 ## Pouncer B
@@ -46,7 +46,7 @@
   - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2558/pouncer-b)
 - **Battle Value:** 1836
 
 ## Pouncer C
@@ -63,7 +63,7 @@
   - ER Small Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2559/pouncer-c)
 - **Battle Value:** 1653
 
 ## Pouncer D
@@ -81,7 +81,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2560/pouncer-d)
 - **Battle Value:** 2246
 
 ## Pouncer E
@@ -98,7 +98,7 @@
   - ER Micro Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2561/pouncer-e)
 - **Battle Value:** 1632
 
 ## Pouncer H
@@ -116,7 +116,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2562/pouncer-h)
 - **Battle Value:** 1784
 
 ## Pouncer F
@@ -136,6 +136,6 @@
   - Active Probe
   - CASE
   - Remote Sensor Dispenser
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4850/pouncer-f)
 - **Battle Value:** 1308
 

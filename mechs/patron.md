@@ -10,7 +10,7 @@
 - **Equipment:**
   - Mech Sprayer
   - Lift Hoist
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/4793/patron-ptn-1-loadermech)
 - **Battle Value:** 73
 
 ## Patron LoaderMech
@@ -26,7 +26,7 @@
   - Lift Hoist
   - Mech Sprayer
   - Cargo
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/4792/patron-ptn-loadermech)
 - **Battle Value:** 106
 
 ## Patron PTN-2 MilitiaMech
@@ -42,7 +42,7 @@
   - Light Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - Searchlight
-- **Source:** XTRO RetroTech - Jihad
+- **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4794/patron-ptn-2-militiamech)
 - **Battle Value:** 143
 
 ## Patron PTN-2M MilitiaMech
@@ -56,6 +56,6 @@
 - **Weapons:**
   - Rocket 10 × 3
   - Light Machine Gun × 4 (ammo: 200)
-- **Source:** TRO:Prototypes
+- **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4795/patron-ptn-2m-patrolmech)
 - **Battle Value:** 147
 

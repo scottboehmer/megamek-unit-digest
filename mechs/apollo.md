@@ -9,7 +9,7 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
   - Small Pulse Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/54/apollo-apl-1m)
 - **Battle Value:** 1207
 
 ## Apollo APL-1R
@@ -22,7 +22,7 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 48)
   - Small Pulse Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/55/apollo-apl-1r)
 - **Battle Value:** 1148
 
 ## Apollo APL-2S
@@ -35,7 +35,7 @@
 - **Weapons:**
   - LRM 15 w/ Artemis IV × 2 (ammo: 32)
   - Medium Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s)
 - **Battle Value:** 1283
 
 ## Apollo APL-3T
@@ -49,7 +49,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 48)
   - Medium Pulse Laser × 2
   - Medium Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/57/apollo-apl-3t)
 - **Battle Value:** 1240
 
 ## Apollo APL-4M
@@ -64,5 +64,6 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706/apollo-apl-4m)
 - **Battle Value:** 1302
 

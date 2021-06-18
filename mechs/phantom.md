@@ -15,7 +15,7 @@
   - Active Probe
   - CASE
   - TAG
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2487/phantom-prime)
 - **Battle Value:** 1159
 
 ## Phantom A
@@ -31,7 +31,7 @@
   - ER Small Laser × 5
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2481/phantom-a)
 - **Battle Value:** 1410
 
 ## Phantom B
@@ -48,7 +48,7 @@
 - **Equipment:**
   - Active Probe
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2482/phantom-b)
 - **Battle Value:** 1096
 
 ## Phantom C
@@ -64,7 +64,7 @@
   - Flamer
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2483/phantom-c)
 - **Battle Value:** 1590
 
 ## Phantom D
@@ -80,7 +80,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2484/phantom-d)
 - **Battle Value:** 1581
 
 ## Phantom E
@@ -95,7 +95,7 @@
   - Micro Pulse Laser × 8
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2485/phantom-e)
 - **Battle Value:** 975
 
 ## Phantom H
@@ -111,7 +111,7 @@
   - Flamer
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2486/phantom-h)
 - **Battle Value:** 1178
 
 ## Phantom F
@@ -128,6 +128,6 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4818/phantom-f)
 - **Battle Value:** 1375
 

@@ -13,7 +13,7 @@
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
   - Small Laser × 2
-- **Source:** XTRO Primitives IV - Age of War
+- **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3603/xanthos-xnt-2o)
 - **Battle Value:** 1300
 
 ## Xanthos XNT-3O
@@ -29,7 +29,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
   - Small Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3604/xanthos-xnt-3o)
 - **Battle Value:** 1948
 
 ## Xanthos XNT-4O
@@ -48,7 +48,7 @@
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3605/xanthos-xnt-4o)
 - **Battle Value:** 2548
 
 ## Xanthos XNT-5O
@@ -64,7 +64,7 @@
   - ER PPC
   - Medium Pulse Laser × 5
   - ER Small Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3606/xanthos-xnt-5o)
 - **Battle Value:** 2146
 
 ## Xanthos XNT-6O
@@ -83,7 +83,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Coolant Pod
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6825/xanthos-xnt-6o)
 - **Battle Value:** 2320
 
 ## Xanthos XNT-7O
@@ -99,6 +99,6 @@
   - Clan ER Medium Laser × 4
 - **Equipment:**
   - CASE II
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6824/xanthos-xnt-7o)
 - **Battle Value:** 2620
 

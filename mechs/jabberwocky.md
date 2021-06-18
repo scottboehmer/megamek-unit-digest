@@ -14,7 +14,7 @@
   - Lift Hoist
   - Tracks
   - Enviro-Sealing
-- **Source:** RS 3075 Unabrided
+- **Sources:** RS 3075 Unabrided, [Master Unit List](http://masterunitlist.info/Unit/Details/4383/jabberwocky-jaw-65a-engineermech)
 - **Battle Value:** unknown
 
 ## Jabberwocky JAW-66B EngineerMech
@@ -35,7 +35,7 @@
   - Searchlight
   - Tracks
   - Enviro-Sealing
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1650/jabberwocky-jaw-66b-engineermech)
 - **Battle Value:** unknown
 
 ## Jabberwocky JAW-66C DemolitionMech
@@ -56,7 +56,7 @@
   - Lift Hoist
   - Tracks
   - Enviro-Sealing
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1651/jabberwocky-jaw-66c-demolitionmech)
 - **Battle Value:** unknown
 
 ## Jabberwocky JAW-66D ConstructionMech
@@ -79,7 +79,7 @@
   - Lift Hoist
   - Tracks
   - Enviro-Sealing
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1652/jabberwocky-jaw-66d-constructionmech)
 - **Battle Value:** unknown
 
 ## Jabberwocky JAW-67 MilitiaMech
@@ -98,6 +98,6 @@
 - **Equipment:**
   - Searchlight
   - Enviro-Sealing
-- **Source:** RS VA
+- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7176/jabberwocky-jaw-67-militiamech)
 - **Battle Value:** unknown
 

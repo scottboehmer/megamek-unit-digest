@@ -13,7 +13,7 @@
   - Beagle Active Probe
   - MASC
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2216/mongoose-ii-mon-266)
 - **Battle Value:** 1085
 
 ## Mongoose II MON-267
@@ -31,7 +31,7 @@
   - MASC
   - Targeting Computer
   - C3 Slave
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2217/mongoose-ii-mon-267)
 - **Battle Value:** 1237
 
 ## Mongoose II MON-268
@@ -48,6 +48,6 @@
   - MASC
   - C3 Master
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2218/mongoose-ii-mon-268)
 - **Battle Value:** 1215
 

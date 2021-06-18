@@ -14,5 +14,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3475/wakazashi-standard)
 - **Battle Value:** 2909
 

@@ -10,7 +10,7 @@
 - **Weapons:**
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 3
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3540/whitworth-wth-1s)
 - **Battle Value:** 917
 
 ## Whitworth WTH-1
@@ -24,7 +24,7 @@
 - **Weapons:**
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 3
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3538/whitworth-wth-1)
 - **Battle Value:** 982
 
 ## Whitworth WTH-0
@@ -39,7 +39,7 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 2
   - Flamer
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3537/whitworth-wth-0)
 - **Battle Value:** 863
 
 ## Whitworth WTH-2
@@ -53,7 +53,7 @@
 - **Weapons:**
   - LRM 10 w/ Artemis IV × 2 (ammo: 24)
   - Medium Laser
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3541/whitworth-wth-2)
 - **Battle Value:** 936
 
 ## Whitworth WTH-1H
@@ -68,7 +68,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 3
   - Rocket 10 × 8
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3539/whitworth-wth-1h)
 - **Battle Value:** 993
 
 ## Whitworth WTH-2A
@@ -86,7 +86,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3542/whitworth-wth-2a)
 - **Battle Value:** 1055
 
 ## Whitworth WTH-3
@@ -101,7 +101,7 @@
   - LRM 5 × 4 (ammo: 96)
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3543/whitworth-wth-3)
 - **Battle Value:** 861
 
 ## Whitworth WTH-K
@@ -117,7 +117,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3545/whitworth-wth-k)
 - **Battle Value:** 958
 
 ## Whitworth WTH-5S
@@ -136,5 +136,6 @@
   - AES × 2
   - CASE II
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544/whitworth-wth-5s)
 - **Battle Value:** 1230
 

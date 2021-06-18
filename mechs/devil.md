@@ -10,5 +10,6 @@
   - ER PPC
 - **Equipment:**
   - Targeting Computer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7571/devil-standard)
 - **Battle Value:** 1691
 

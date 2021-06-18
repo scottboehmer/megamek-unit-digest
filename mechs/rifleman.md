@@ -10,7 +10,7 @@
 - **Weapons:**
   - Large Laser × 2
   - Medium Laser × 2
-- **Source:** XTRO Primitives IV - Age of War
+- **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7183/rifleman-rfl-1n)
 - **Battle Value:** 931
 
 ## Rifleman RFL-2N
@@ -23,7 +23,7 @@
 - **Weapons:**
   - PPC × 2
   - Medium Laser × 4
-- **Source:** XTRO Primitives IV - Age of War
+- **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7184/rifleman-rfl-2n)
 - **Battle Value:** 1093
 
 ## Rifleman RFL-3N
@@ -37,7 +37,7 @@
   - Large Laser × 2
   - AC/5 × 2 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2697/rifleman-rfl-3n)
 - **Battle Value:** 1039
 
 ## Rifleman RFL-4D
@@ -50,7 +50,7 @@
 - **Weapons:**
   - PPC × 2
   - Large Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d)
 - **Battle Value:** 1173
 
 ## Rifleman RFL-3C
@@ -63,7 +63,7 @@
 - **Weapons:**
   - AC/10 × 2 (ammo: 20)
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2695/rifleman-rfl-3c)
 - **Battle Value:** 1066
 
 ## Rifleman RFL-5M
@@ -79,7 +79,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m)
 - **Battle Value:** 1227
 
 ## Rifleman RFL-5D
@@ -93,7 +93,7 @@
   - ER PPC × 2
   - Large Laser × 2
   - Medium Laser × 2
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d)
 - **Battle Value:** 1395
 
 ## Rifleman C
@@ -106,7 +106,7 @@
 - **Weapons:**
   - Clan Large Pulse Laser × 2
   - Clan LB 5-X AC × 2 (ammo: 20)
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c)
 - **Battle Value:** 1335
 
 ## Rifleman RFL-5CS
@@ -119,7 +119,7 @@
 - **Weapons:**
   - Large Laser × 2
   - Ultra AC/5 × 2 (ammo: 40)
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7597/rifleman-rfl-5cs)
 - **Battle Value:** 1303
 
 ## Rifleman RFL-6X
@@ -135,7 +135,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2702/rifleman-rfl-6x)
 - **Battle Value:** 1464
 
 ## Rifleman RFL-8D
@@ -149,7 +149,7 @@
 - **Weapons:**
   - RAC/5 × 2 (ammo: 120)
   - ER Medium Laser × 2
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d)
 - **Battle Value:** 1777
 
 ## Rifleman RFL-7M
@@ -165,7 +165,7 @@
   - Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2703/rifleman-rfl-7m)
 - **Battle Value:** 1521
 
 ## Rifleman RFL-8X
@@ -178,7 +178,7 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser × 4
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x)
 - **Battle Value:** 1798
 
 ## Rifleman RFL-6D
@@ -194,7 +194,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2701/rifleman-rfl-6d)
 - **Battle Value:** 1274
 
 ## Rifleman RFL-3Cr
@@ -211,7 +211,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2696/rifleman-rfl-3cr)
 - **Battle Value:** 1129
 
 ## Rifleman RFL-9T
@@ -229,7 +229,7 @@
   - Guardian ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t)
 - **Battle Value:** 1503
 
 ## Rifleman RFL-X3 MUSE WIND
@@ -246,7 +246,7 @@
   - Clan Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind)
 - **Battle Value:** 2012
 
 ## Rifleman RFL-7X
@@ -261,7 +261,7 @@
 - **Weapons:**
   - Snub-Nose PPC × 2
   - Light PPC × 2
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2704/rifleman-rfl-7x)
 - **Battle Value:** 1645
 
 ## Rifleman C 2
@@ -275,7 +275,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Improved Heavy Medium Laser × 2
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2)
 - **Battle Value:** 2150
 
 ## Rifleman RFL-7G
@@ -288,7 +288,7 @@
 - **Weapons:**
   - Silver Bullet × 2 (ammo: 32)
   - ER Medium Laser × 2
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g)
 - **Battle Value:** 1302
 
 ## Rifleman C 3
@@ -304,7 +304,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7576/rifleman-c-3)
 - **Battle Value:** 1871
 
 ## Rifleman RFL-7N
@@ -320,7 +320,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7574/rifleman-rfl-7n)
 - **Battle Value:** 1398
 
 ## Rifleman RFL-7N2
@@ -336,6 +336,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7575/rifleman-rfl-7n2)
 - **Battle Value:** 1452
 

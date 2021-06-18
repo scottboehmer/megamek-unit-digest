@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2922/shen-yi-shy-3b)
 - **Battle Value:** 1507
 
 ## Shen Yi SHY-5B
@@ -27,6 +27,6 @@
   - Large Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** RS 3145 NTNU
+- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6878/shen-yi-shy-5b)
 - **Battle Value:** 1603
 

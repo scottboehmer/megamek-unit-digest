@@ -14,7 +14,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1293/grendel-mongrel-prime)
 - **Battle Value:** 2290
 
 ## Grendel "Mongrel" A
@@ -31,7 +31,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1286/grendel-mongrel-a)
 - **Battle Value:** 2031
 
 ## Grendel "Mongrel" B
@@ -49,7 +49,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1287/grendel-mongrel-b)
 - **Battle Value:** 1903
 
 ## Grendel "Mongrel" C
@@ -66,7 +66,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1288/grendel-mongrel-c)
 - **Battle Value:** 1465
 
 ## Grendel "Mongrel" D
@@ -85,7 +85,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1289/grendel-mongrel-d)
 - **Battle Value:** 2212
 
 ## Grendel "Mongrel" E
@@ -102,7 +102,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Clan Invasion
+- **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1290/grendel-mongrel-e)
 - **Battle Value:** 1806
 
 ## Grendel "Mongrel" H
@@ -120,7 +120,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Civil War
+- **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1292/grendel-mongrel-h)
 - **Battle Value:** 1965
 
 ## Grendel "Mongrel" F
@@ -136,7 +136,7 @@
   - ATM 6 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** TRO Clan Invasion - Jihad
+- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1291/grendel-mongrel-f)
 - **Battle Value:** 1997
 
 ## Grendel "Mongrel" M
@@ -152,7 +152,7 @@
   - RAC/2 (ammo: 45)
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m)
 - **Battle Value:** 1744
 
 ## Grendel "Mongrel" G
@@ -169,7 +169,7 @@
 - **Equipment:**
   - Watchdog CEWS
   - Supercharger
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7459/grendel-mongrel-g)
 - **Battle Value:** 2209
 
 ## Grendel "Mongrel" I
@@ -186,7 +186,7 @@
   - ProtoMech AC/4 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i)
 - **Battle Value:** 1675
 
 ## Grendel "Mongrel" J
@@ -203,7 +203,7 @@
   - Improved Heavy Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7460/grendel-mongrel-j)
 - **Battle Value:** 1811
 
 ## Grendel "Mongrel" T
@@ -222,6 +222,6 @@
   - Improved Heavy Small Laser
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 2 - Dark Age
+- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7456/grendel-mongrel-t)
 - **Battle Value:** 1936
 

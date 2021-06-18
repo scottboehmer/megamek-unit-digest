@@ -12,7 +12,7 @@
   - AC/5 (ammo: 40)
   - Medium Laser × 2
   - Small Laser
-- **Source:** XTRO Primitives II - Age of War
+- **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3785/banshee-bnc-1e)
 - **Battle Value:** 1465
 
 ## Banshee BNC-3E
@@ -26,7 +26,7 @@
   - PPC
   - AC/5 (ammo: 20)
   - Small Laser
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/240/banshee-bnc-3e)
 - **Battle Value:** 1422
 
 ## Banshee BNC-3M
@@ -40,7 +40,7 @@
   - PPC × 2
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/241/banshee-bnc-3m)
 - **Battle Value:** 1595
 
 ## Banshee BNC-3Q
@@ -53,7 +53,7 @@
 - **Weapons:**
   - AC/20 (ammo: 30)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/244/banshee-bnc-3q)
 - **Battle Value:** 1394
 
 ## Banshee BNC-3S
@@ -69,7 +69,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
   - Small Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/245/banshee-bnc-3s)
 - **Battle Value:** 1751
 
 ## Banshee BNC-3S (Reinesblatt)
@@ -86,7 +86,7 @@
   - Medium Laser × 4
   - Hatchet
   - Small Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/246/banshee-bnc-3s-reinesblatt)
 - **Battle Value:** 1678
 
 ## Banshee BNC-3MC
@@ -100,7 +100,7 @@
   - PPC
   - AC/10 (ammo: 20)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/242/banshee-bnc-3mc)
 - **Battle Value:** 1487
 
 ## Banshee BNC-5S
@@ -116,7 +116,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
   - Small Laser × 2
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/247/banshee-bnc-5s)
 - **Battle Value:** 2065
 
 ## Banshee BNC-5S (Sawyer)
@@ -133,7 +133,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 4
   - Small Laser × 2
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3786/banshee-bnc-5s-sawyer)
 - **Battle Value:** 2094
 
 ## Banshee BNC-5S (Vandergriff)
@@ -149,7 +149,7 @@
   - LB 10-X AC (ammo: 10)
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3787/banshee-bnc-5s-vandergriff)
 - **Battle Value:** 1853
 
 ## Banshee BNC-6S
@@ -165,7 +165,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/248/banshee-bnc-6s)
 - **Battle Value:** 1889
 
 ## Banshee BNC-7S
@@ -182,7 +182,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/249/banshee-bnc-7s)
 - **Battle Value:** 2126
 
 ## Banshee BNC-8S
@@ -207,7 +207,7 @@
   - Guardian ECM Suite
   - C3 Slave
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/250/banshee-bnc-8s)
 - **Battle Value:** 2408
 
 ## Banshee BNC-9S
@@ -228,6 +228,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788/banshee-bnc-9s)
 - **Battle Value:** 2496
 
 ## Banshee BNC-3Mr
@@ -241,7 +242,7 @@
   - ER PPC × 2
   - ER Medium Laser × 2
   - Small Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/243/banshee-bnc-3mr)
 - **Battle Value:** 1801
 
 ## Banshee BNC-11X
@@ -259,7 +260,7 @@
 - **Equipment:**
   - Modular Armor × 7
   - Armored Actuator × 4
-- **Source:** XTRO Steiner - Jihad
+- **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3784/banshee-bnc-11x)
 - **Battle Value:** 2030
 
 ## Banshee BNC-9S2
@@ -279,6 +280,6 @@
   - CASE
   - Targeting Computer
   - C3 Boosted Slave
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6844/banshee-bnc-9s2)
 - **Battle Value:** 2426
 

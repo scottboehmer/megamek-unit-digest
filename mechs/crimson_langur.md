@@ -13,7 +13,7 @@
 - **Equipment:**
   - Light Active Probe
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4019/crimson-langur-prime)
 - **Battle Value:** 1952
 
 ## Crimson Langur A
@@ -28,7 +28,7 @@
   - LRM 15 × 2 (ammo: 32)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4016/crimson-langur-a)
 - **Battle Value:** 2003
 
 ## Crimson Langur B
@@ -45,7 +45,7 @@
 - **Equipment:**
   - Light Active Probe
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b)
 - **Battle Value:** 2210
 
 ## Crimson Langur C
@@ -61,7 +61,7 @@
   - ER Micro Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4018/crimson-langur-c)
 - **Battle Value:** 1437
 
 ## Crimson Langur D
@@ -80,7 +80,7 @@
   - CASE
   - Light TAG
   - Targeting Computer
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5676/crimson-langur-d)
 - **Battle Value:** 1867
 
 ## Crimson Langur E
@@ -96,5 +96,6 @@
   - ER Small Laser × 6
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677/crimson-langur-e)
 - **Battle Value:** 2051
 

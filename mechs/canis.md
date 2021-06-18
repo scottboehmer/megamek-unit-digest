@@ -12,7 +12,7 @@
   - Ultra AC/10 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/459/canis-standard)
 - **Battle Value:** 2498
 
 ## Canis 2
@@ -29,6 +29,6 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/460/canis-2)
 - **Battle Value:** 2822
 

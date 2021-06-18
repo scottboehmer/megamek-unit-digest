@@ -13,6 +13,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2590/pulverizer-pul-2v)
 - **Battle Value:** 2065
 
 ## Pulverizer PUL-3R
@@ -29,7 +30,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7647/pulverizer-pul-3r)
 - **Battle Value:** 2068
 
 ## Pulverizer (Standard)
@@ -46,6 +47,6 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7648/pulverizer-standard)
 - **Battle Value:** 2506
 

@@ -9,7 +9,7 @@
 - **Weapons:**
   - LRM 15 × 2 (ammo: 32)
   - Medium Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/655/cobra-cbr-02)
 - **Battle Value:** 1128
 
 ## Cobra CBR-03
@@ -25,6 +25,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/656/cobra-cbr-03)
 - **Battle Value:** 1324
 

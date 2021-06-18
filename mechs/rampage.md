@@ -13,6 +13,7 @@
   - Medium Laser × 2
   - Flamer
   - Machine Gun (ammo: 200)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2635/rampage-rmp-2g)
 - **Battle Value:** 1444
 
 ## Rampage RMP-4G
@@ -31,6 +32,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - MASC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2636/rampage-rmp-4g)
 - **Battle Value:** 2130
 
 ## Rampage RMP-4G (Benboudaoud)
@@ -50,7 +52,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** HTP New Dallas
+- **Sources:** HTP New Dallas, [Master Unit List](http://masterunitlist.info/Unit/Details/6974/rampage-rmp-4g-benboudaoud)
 - **Battle Value:** 1751
 
 ## Rampage RMP-5G
@@ -70,5 +72,6 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - MASC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2637/rampage-rmp-5g)
 - **Battle Value:** 1933
 

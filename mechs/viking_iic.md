@@ -13,6 +13,6 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Lyran Commonwealth - Early Republic
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6634/viking-iic-standard)
 - **Battle Value:** 2780
 

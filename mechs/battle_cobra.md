@@ -9,7 +9,7 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - Small Pulse Laser × 2
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/273/battle-cobra-prime)
 - **Battle Value:** 1487
 
 ## Battle Cobra A
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Medium Pulse Laser × 4
   - Small Pulse Laser × 6
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/261/battle-cobra-a)
 - **Battle Value:** 1466
 
 ## Battle Cobra B
@@ -35,7 +35,7 @@
 - **Weapons:**
   - ER PPC × 2
   - Small Pulse Laser × 2
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/262/battle-cobra-b)
 - **Battle Value:** 1892
 
 ## Battle Cobra F
@@ -51,7 +51,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/271/battle-cobra-f)
 - **Battle Value:** 1507
 
 ## Battle Cobra H
@@ -64,7 +64,7 @@
 - **Weapons:**
   - ER Large Laser × 2
   - Heavy Medium Laser × 2
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/272/battle-cobra-h)
 - **Battle Value:** 1592
 
 ## Battle Cobra C
@@ -80,7 +80,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/270/battle-cobra-c)
 - **Battle Value:** 1484
 
 ## Battle Cobra BTL-C-2O
@@ -94,7 +94,7 @@
   - Large Pulse Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/263/battle-cobra-btl-c-2o)
 - **Battle Value:** 944
 
 ## Battle Cobra BTL-C-2OA
@@ -113,7 +113,7 @@
   - Beagle Active Probe
   - C3i
   - TAG
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/264/battle-cobra-btl-c-2oa)
 - **Battle Value:** 1113
 
 ## Battle Cobra BTL-C-2OB
@@ -127,7 +127,7 @@
   - MRM 10 × 4 (ammo: 72)
 - **Equipment:**
   - C3i
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/265/battle-cobra-btl-c-2ob)
 - **Battle Value:** 895
 
 ## Battle Cobra BTL-C-2OC
@@ -141,7 +141,7 @@
   - iNarc × 2 (ammo: 20)
 - **Equipment:**
   - C3i
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/266/battle-cobra-btl-c-2oc)
 - **Battle Value:** 726
 
 ## Battle Cobra BTL-C-2OD
@@ -156,7 +156,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/267/battle-cobra-btl-c-2od)
 - **Battle Value:** 1221
 
 ## Battle Cobra BTL-C-2OE
@@ -170,7 +170,7 @@
   - MML 9 × 2 (ammo: 26 LRM, 11 SRM)
 - **Equipment:**
   - C3i
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/268/battle-cobra-btl-c-2oe)
 - **Battle Value:** 840
 
 ## Battle Cobra BTL-C-2OF
@@ -184,7 +184,7 @@
   - Plasma Rifle × 2 (ammo: 30)
 - **Equipment:**
   - C3i
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/269/battle-cobra-btl-c-2of)
 - **Battle Value:** 1300
 
 ## Battle Cobra X
@@ -198,6 +198,6 @@
   - Improved Heavy Medium Laser × 5
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/274/battle-cobra-x)
 - **Battle Value:** 1492
 

@@ -13,7 +13,7 @@
   - ER Micro Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** XTRO Clans - Jihad
+- **Sources:** XTRO Clans - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4563/mad-cat-iii-x)
 - **Battle Value:** 2232
 
 ## Mad Cat III (Eve)
@@ -31,7 +31,7 @@
   - CASE
   - Targeting Computer
   - TAG
-- **Source:** DTP Liao
+- **Sources:** DTP Liao, [Master Unit List](http://masterunitlist.info/Unit/Details/5543/mad-cat-iii-eve)
 - **Battle Value:** 2393
 
 ## Mad Cat III (Standard)
@@ -47,7 +47,7 @@
   - ER Micro Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** TRO Prototypes
+- **Sources:** TRO Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4561/mad-cat-iii-standard)
 - **Battle Value:** 2400
 
 ## Mad Cat III 2
@@ -63,6 +63,7 @@
   - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2)
 - **Battle Value:** 2095
 
 ## Mad Cat III 3
@@ -78,7 +79,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6896/mad-cat-iii-3)
 - **Battle Value:** 2515
 
 ## Mad Cat III 4
@@ -96,7 +97,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6897/mad-cat-iii-4)
 - **Battle Value:** 2061
 
 ## Mad Cat III 5
@@ -112,7 +113,7 @@
   - Heavy Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6898/mad-cat-iii-5)
 - **Battle Value:** 2095
 
 ## Mad Cat III (Dark Age RS)

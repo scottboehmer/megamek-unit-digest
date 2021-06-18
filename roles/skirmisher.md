@@ -162,7 +162,7 @@
 - **Huron Warrior HUR-WO-R4L** *Skirmisher (3055)*
 - **Huron Warrior HUR-WO-R4M** *Skirmisher (3056)*
 - **Huron Warrior HUR-WO-R4O** *Skirmisher (3065)*
-- **Huron Warrior HUR-WO-RX4** *Skirmisher (3076)*
+- **Huron Warrior HUR-WO-R4X** *Skirmisher (3076)*
 
 ### [Nova](../mechs/nova.md)
 - **Nova  Prime** *Skirmisher (2870)*

@@ -14,6 +14,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** Unbound - Clan Invasion
+- **Sources:** Unbound - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4129/epimetheus-prime)
 - **Battle Value:** 2517
 

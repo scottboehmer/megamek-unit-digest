@@ -14,7 +14,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1345/guillotine-iic-standard)
 - **Battle Value:** 2377
 
 ## Guillotine IIC 2
@@ -32,6 +32,6 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1346/guillotine-iic-2)
 - **Battle Value:** 2721
 

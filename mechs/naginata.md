@@ -12,7 +12,7 @@
 - **Equipment:**
   - C3 Master
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2252/naginata-ng-c3a)
 - **Battle Value:** 1954
 
 ## Naginata NG-C3B
@@ -31,7 +31,7 @@
   - Guardian ECM Suite
   - C3 Master × 2
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2254/naginata-ng-c3b)
 - **Battle Value:** 1943
 
 ## Naginata NG-C3C
@@ -48,7 +48,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2255/naginata-ng-c3c)
 - **Battle Value:** 2131
 
 ## Naginata NG-C3Ar
@@ -65,6 +65,6 @@
 - **Equipment:**
   - C3 BoostedMaster
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2253/naginata-ng-c3ar)
 - **Battle Value:** 1879
 

@@ -9,7 +9,7 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Large Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1687/jenner-jr7-a)
 - **Battle Value:** 712
 
 ## Jenner JR7-F
@@ -22,7 +22,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 4
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1693/jenner-jr7-f)
 - **Battle Value:** 1011
 
 ## Jenner JR7-D
@@ -36,7 +36,7 @@
 - **Weapons:**
   - Medium Laser × 4
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1692/jenner-jr7-d)
 - **Battle Value:** 875
 
 ## Jenner JR7-F (Smith)
@@ -48,7 +48,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 6
-- **Source:** TRO 3039
+- **Sources:** TRO 3039, [Master Unit List](http://masterunitlist.info/Unit/Details/7796/jenner-jr7-f-smith)
 - **Battle Value:** 1070
 
 ## Jenner JR7-K (Grace)
@@ -62,7 +62,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Narc (ammo: 18)
-- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1696/jenner-jr7-k-grace)
 - **Battle Value:** 702
 
 ## Jenner JR7-K
@@ -78,7 +78,7 @@
   - SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1694/jenner-jr7-k)
 - **Battle Value:** 889
 
 ## Jenner JR7-C
@@ -95,7 +95,7 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1688/jenner-jr7-c)
 - **Battle Value:** 832
 
 ## Jenner JR7-K (Samuli)
@@ -111,6 +111,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1697/jenner-jr7-k-samuli)
 - **Battle Value:** 1001
 
 ## Jenner JR7-K (Grace II)
@@ -126,7 +127,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** Starterbook: Sword and Dragon - Civil War
+- **Sources:** Starterbook: Sword and Dragon - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1695/jenner-jr7-k-grace-ii)
 - **Battle Value:** 787
 
 ## Jenner JR7-C3
@@ -141,7 +142,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1690/jenner-jr7-c3)
 - **Battle Value:** 1069
 
 ## Jenner JR7-C2
@@ -159,7 +160,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1689/jenner-jr7-c2)
 - **Battle Value:** 769
 
 ## Jenner JR10-X
@@ -177,7 +178,7 @@
 - **Equipment:**
   - Angel ECM Suite
   - Null-Signature System
-- **Source:** XTRO Kurita - Jihad
+- **Sources:** XTRO Kurita - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1686/jenner-jr10-x)
 - **Battle Value:** 1269
 
 ## Jenner JR7-C4
@@ -194,6 +195,6 @@
 - **Equipment:**
   - CASE
   - C3 Boosted Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4)
 - **Battle Value:** 703
 

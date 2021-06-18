@@ -13,7 +13,7 @@
   - Rock-Cutter
 - **Equipment:**
   - Extended Fuel Tank
-- **Source:** TRO VA - Clan Invasion
+- **Sources:** TRO VA - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4079/dig-lord-rcl-4-miningmech)
 - **Battle Value:** unknown
 
 ## Dig Lord RCL-Z1 Armed MiningMech
@@ -31,7 +31,7 @@
 - **Equipment:**
   - AES
   - Shoulder Turret
-- **Source:** XTRO Periphery - Jihad
+- **Sources:** XTRO Periphery - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5565/dig-lord-rcl-z1-armed-miningmech)
 - **Battle Value:** 681
 
 ## Dig Lord RCL-4M MiningMech MOD
@@ -49,7 +49,7 @@
   - Rock-Cutter
 - **Equipment:**
   - Extended Fuel Tank
-- **Source:** DTP: Vega - Dark Ages
+- **Sources:** DTP: Vega - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/5542/dig-lord-rcl-4m-miningmech-mod)
 - **Battle Value:** unknown
 
 ## Dig Lord RCL-4M-B MiningMech MOD
@@ -64,6 +64,6 @@
   - SRM 4 × 2 (ammo: 50)
   - Heavy Machine Gun × 4 (ammo: 50)
   - Mining Drill
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7829/dig-lord-rcl-4m-b-miningmech-mod)
 - **Battle Value:** unknown
 

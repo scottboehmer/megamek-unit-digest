@@ -13,7 +13,7 @@
 - **Equipment:**
   - Angel ECM Suite
   - AES × 2
-- **Source:** TRO 3145 Republic of the Sphere - Late Republic
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6678/doloire-dlr-o)
 - **Battle Value:** 2561
 
 ## Doloire DLR-OA
@@ -31,7 +31,7 @@
   - AES × 2
   - Radical Heat Sink System
   - CASE II
-- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6679/doloire-dlr-oa)
 - **Battle Value:** 2218
 
 ## Doloire DLR-OB
@@ -48,7 +48,7 @@
 - **Equipment:**
   - AES × 2
   - CASE II
-- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6680/doloire-dlr-ob)
 - **Battle Value:** 2836
 
 ## Doloire DLR-OC
@@ -68,7 +68,7 @@
   - AES × 2
   - C3 Master
   - CASE II
-- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6681/doloire-dlr-oc)
 - **Battle Value:** 2242
 
 ## Doloire DLR-OD
@@ -88,7 +88,7 @@
   - AES × 2
   - Supercharger
   - CASE II
-- **Source:** Source:TRO 3145 Republic of the Sphere - Late Republic
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6682/doloire-dlr-od)
 - **Battle Value:** 3071
 
 ## Doloire DLR-OBLO
@@ -106,6 +106,6 @@
   - AES × 2
   - C3i
   - Clan Light TAG
-- **Source:** SO: Unending Faith - Late Republic
+- **Sources:** SO: Unending Faith - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7636/doloire-dlr-oblo)
 - **Battle Value:** 2441
 

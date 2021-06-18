@@ -12,7 +12,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/48/anvil-anv-3m)
 - **Battle Value:** 1441
 
 ## Anvil ANV-5M
@@ -28,7 +28,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/50/anvil-anv-5m)
 - **Battle Value:** 1687
 
 ## Anvil ANV-6M
@@ -45,7 +45,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - TAG
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/52/anvil-anv-6m)
 - **Battle Value:** 1366
 
 ## Anvil ANV-8M
@@ -63,7 +63,7 @@
   - Guardian ECM Suite
   - MASC
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/53/anvil-anv-8m)
 - **Battle Value:** 1690
 
 ## Anvil ANV-3R
@@ -78,7 +78,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/49/anvil-anv-3r)
 - **Battle Value:** 1496
 
 ## Anvil ANV-5Q
@@ -92,6 +92,6 @@
 - **Weapons:**
   - Large Pulse Laser × 2
   - Medium Laser × 2
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/51/anvil-anv-5q)
 - **Battle Value:** 1336
 

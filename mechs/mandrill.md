@@ -12,6 +12,6 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2011/mandrill-standard)
 - **Battle Value:** 1209
 

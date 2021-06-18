@@ -16,6 +16,6 @@
   - Cargo
   - Dumper
   - Lift Hoist
-- **Source:** RS VA
+- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7180/grommet-d90-militiamech)
 - **Battle Value:** unknown
 

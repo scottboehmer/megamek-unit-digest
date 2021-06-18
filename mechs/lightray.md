@@ -11,7 +11,7 @@
   - ER Medium Laser × 2
   - SRM 2 × 2 (ammo: 50)
   - ER Small Laser
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4520/lightray-lgh-4y)
 - **Battle Value:** 1379
 
 ## Lightray LGH-4W
@@ -27,7 +27,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4519/lightray-lgh-4w)
 - **Battle Value:** 1450
 
 ## Lightray LGH-5W
@@ -43,7 +43,7 @@
   - ER Small Laser
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4521/lightray-lgh-5w)
 - **Battle Value:** 1674
 
 ## Lightray LGH-6W
@@ -58,7 +58,7 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - C3i
-- **Source:** Starterbook: Wolf & Blake - Civil War
+- **Sources:** Starterbook: Wolf & Blake - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1885/lightray-lgh-6w)
 - **Battle Value:** 1554
 
 ## Lightray LGH-7W
@@ -75,6 +75,6 @@
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM)
 - **Equipment:**
   - C3i
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5681/lightray-lgh-7w)
 - **Battle Value:** 1352
 

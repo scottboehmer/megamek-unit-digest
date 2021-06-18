@@ -12,7 +12,7 @@
 - **Equipment:**
   - Cargo × 2
   - Dumper × 2
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4220/muckraker-gmmm-2-miningmech)
 - **Battle Value:** 709
 
 ## MuckRaker GMMM-2M MiningMech MOD
@@ -25,7 +25,7 @@
 - **Weapons:**
   - RAC/5 (ammo: 60)
   - MRM 20 (ammo: 12)
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7827/muckraker-gmmm-2m-miningmech-mod)
 - **Battle Value:** 1001
 
 ## MuckRaker GMMM-2M-B MiningMech MOD
@@ -38,6 +38,6 @@
 - **Weapons:**
   - MML 7 × 3 (ammo: 34 LRM, 28 SRM)
   - Heavy Machine Gun × 2 (ammo: 50)
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7828/muckraker-gmmm-2m-b-miningmech-mod)
 - **Battle Value:** 815
 

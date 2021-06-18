@@ -11,6 +11,6 @@
   - Light PPC × 2
   - Medium Laser
   - SRM 4 (ammo: 25)
-- **Source:** TRO 3145 Mercenaries - Early Republic
+- **Sources:** TRO 3145 Mercenaries - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6563/hound-hd-2f)
 - **Battle Value:** 1389
 

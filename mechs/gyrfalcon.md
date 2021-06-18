@@ -15,7 +15,7 @@
   - CASE
   - Partial Wing
   - MASC
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6266/gyrfalcon-standard)
 - **Battle Value:** 2367
 
 ## Gyrfalcon 2
@@ -33,7 +33,7 @@
   - CASE
   - Partial Wing
   - MASC
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6267/gyrfalcon-2)
 - **Battle Value:** 2105
 
 ## Gyrfalcon 3
@@ -53,7 +53,7 @@
   - Partial Wing
   - MASC
   - Targeting Computer
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6268/gyrfalcon-3)
 - **Battle Value:** 2228
 
 ## Gyrfalcon 4
@@ -71,7 +71,7 @@
   - CASE
   - Partial Wing
   - MASC
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6269/gyrfalcon-4)
 - **Battle Value:** 3716
 
 ## Gyrfalcon 5
@@ -89,6 +89,6 @@
   - Partial Wing
   - MASC
   - CASE
-- **Source:** Shrapnel 2 - Late Republic
+- **Sources:** Shrapnel 2 - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7694/gyrfalcon-5)
 - **Battle Value:** 2151
 

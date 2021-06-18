@@ -10,7 +10,7 @@
   - ER PPC
   - SRM 6 (ammo: 30)
   - Medium Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/802/daimyo-dmo-1k)
 - **Battle Value:** 1148
 
 ## Daimyo DMO-2K
@@ -24,7 +24,7 @@
   - ER Large Laser
   - SRM 6 (ammo: 30)
   - Medium Laser × 2
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/804/daimyo-dmo-2k)
 - **Battle Value:** 1057
 
 ## Daimyo DMO-4K
@@ -37,7 +37,7 @@
 - **Weapons:**
   - ER PPC
   - Medium Laser × 3
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/805/daimyo-dmo-4k)
 - **Battle Value:** 1150
 
 ## Daimyo DMO-5K
@@ -52,7 +52,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - C3 Master
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/806/daimyo-dmo-5k)
 - **Battle Value:** 1087
 
 ## Daimyo DMO-1K2 (Al-Shahab)
@@ -67,5 +67,6 @@
   - Small X-Pulse Laser × 2
 - **Equipment:**
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/803/daimyo-dmo-1k2-al-shahab)
 - **Battle Value:** 1332
 

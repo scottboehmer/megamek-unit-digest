@@ -11,7 +11,7 @@
   - SRM 6 (ammo: 30)
   - Medium Laser × 6
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/283/battlemaster-blr-1g)
 - **Battle Value:** 1519
 
 ## BattleMaster BLR-1G-DC
@@ -28,7 +28,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - Command Console
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/288/battlemaster-blr-1g-dc)
 - **Battle Value:** 1494
 
 ## BattleMaster BLR-1GHE 'HellSinger'
@@ -42,7 +42,7 @@
   - PPC × 2
   - Medium Laser × 4
   - Streak SRM 2 × 3 (ammo: 50)
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5877/battlemaster-blr-1ghe-hellslinger)
 - **Battle Value:** 1712
 
 ## BattleMaster BLR-1Gb
@@ -56,7 +56,7 @@
   - ER PPC × 2
   - Large Pulse Laser
   - Medium Laser × 4
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/285/battlemaster-blr-1gb)
 - **Battle Value:** 1825
 
 ## BattleMaster BLR-1Gd
@@ -71,7 +71,7 @@
   - SRM 6 (ammo: 30)
   - Medium Pulse Laser × 4
   - Medium Laser × 2
-- **Source:** ER 2750
+- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5867/battlemaster-blr-1gd)
 - **Battle Value:** 1586
 
 ## BattleMaster BLR-1Gbc
@@ -87,7 +87,7 @@
   - Medium Laser × 4
 - **Equipment:**
   - Command Console
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/286/battlemaster-blr-1gbc)
 - **Battle Value:** 1825
 
 ## BattleMaster BLR-1Gc
@@ -103,7 +103,7 @@
   - Medium Laser × 6
 - **Equipment:**
   - Command Console
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/287/battlemaster-blr-1gc)
 - **Battle Value:** 1577
 
 ## BattleMaster BLR-1D
@@ -117,7 +117,7 @@
   - PPC
   - Medium Laser × 4
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/282/battlemaster-blr-1d)
 - **Battle Value:** 1522
 
 ## BattleMaster BLR-2C
@@ -135,7 +135,7 @@
   - Anti-Missile System (ammo: 12)
   - Beagle Active Probe
   - Command Console
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/290/battlemaster-blr-2c)
 - **Battle Value:** 1563
 
 ## BattleMaster BLR-1S
@@ -150,7 +150,7 @@
   - Medium Laser × 4
   - LRM 5 (ammo: 24)
   - SRM 2 × 2 (ammo: 50)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/289/battlemaster-blr-1s)
 - **Battle Value:** 1507
 
 ## BattleMaster BLR-3M
@@ -167,7 +167,7 @@
   - Machine Gun (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/291/battlemaster-blr-3m)
 - **Battle Value:** 1679
 
 ## BattleMaster BLR-3S
@@ -183,7 +183,7 @@
   - Medium Pulse Laser × 6
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/292/battlemaster-blr-3s)
 - **Battle Value:** 1441
 
 ## BattleMaster BLR-3M-DC
@@ -201,7 +201,7 @@
 - **Equipment:**
   - Command Console
   - CASE
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3806/battlemaster-blr-3m-dc)
 - **Battle Value:** 1627
 
 ## BattleMaster BLR-1G (Red Corsair)
@@ -217,6 +217,7 @@
   - Medium Pulse Laser × 6
 - **Equipment:**
   - Command Console
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/284/battlemaster-blr-1g-red-corsair)
 - **Battle Value:** 2745
 
 ## BattleMaster BLR-3M (Rogers)
@@ -232,6 +233,7 @@
   - Streak SRM 2 × 7 (ammo: 50)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3805/battlemaster-blr-3m-rogers)
 - **Battle Value:** 1819
 
 ## BattleMaster BLR-4S
@@ -249,7 +251,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/294/battlemaster-blr-4s)
 - **Battle Value:** 2018
 
 ## BattleMaster BLR-CM
@@ -267,7 +269,7 @@
 - **Equipment:**
   - C3 Master × 2
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm)
 - **Battle Value:** 1883
 
 ## BattleMaster BLR-K3
@@ -285,7 +287,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/300/battlemaster-blr-k3)
 - **Battle Value:** 1851
 
 ## BattleMaster BLR-5M
@@ -299,7 +301,7 @@
   - ER Large Laser
   - Light Gauss Rifle (ammo: 16)
   - ER Medium Laser × 6
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/297/battlemaster-blr-5m)
 - **Battle Value:** 1766
 
 ## BattleMaster BLR-10S
@@ -319,6 +321,7 @@
   - Guardian ECM Suite
   - B-Pod × 2
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/280/battlemaster-blr-10s)
 - **Battle Value:** 1927
 
 ## BattleMaster BLR-4S (Calvin)
@@ -336,7 +339,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/296/battlemaster-blr-4s-calvin)
 - **Battle Value:** 2029
 
 ## BattleMaster BLR-M3
@@ -354,7 +357,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/302/battlemaster-blr-m3)
 - **Battle Value:** 1674
 
 ## BattleMaster C
@@ -372,7 +375,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/303/battlemaster-c)
 - **Battle Value:** 3025
 
 ## BattleMaster BLR-4S (Calvin II)
@@ -390,7 +393,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/295/battlemaster-blr-4s-calvin-ii)
 - **Battle Value:** 2274
 
 ## BattleMaster BLR-10S2
@@ -411,7 +414,7 @@
   - B-Pod × 2
   - C3 Slave
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/281/battlemaster-blr-10s2)
 - **Battle Value:** 1927
 
 ## BattleMaster BLR-K4
@@ -428,7 +431,7 @@
   - Snub-Nose PPC
   - Large Pulse Laser
   - ER Medium Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/301/battlemaster-blr-k4)
 - **Battle Value:** 2232
 
 ## BattleMaster BLR-4L
@@ -446,7 +449,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/293/battlemaster-blr-4l)
 - **Battle Value:** 1890
 
 ## BattleMaster BLR-6C
@@ -464,7 +467,7 @@
 - **Equipment:**
   - Command Console
   - CASE II
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7476/battlemaster-blr-6c)
 - **Battle Value:** 1557
 
 ## BattleMaster BLR-6X
@@ -481,7 +484,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/298/battlemaster-blr-6x)
 - **Battle Value:** 1966
 
 ## BattleMaster BLR-6G
@@ -499,7 +502,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7475/battlemaster-blr-6g)
 - **Battle Value:** 1960
 
 ## BattleMaster C 3
@@ -517,6 +520,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** ilClan Vol 3 - Dark Age
+- **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7477/battlemaster-c-3)
 - **Battle Value:** 2532
 

@@ -12,7 +12,7 @@
   - Searchlight
   - Mech Sprayer
   - Liquid Cargo
-- **Source:** TRO VA - Late Succession War
+- **Sources:** TRO VA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/4842/pompier-gm-3a-firemech)
 - **Battle Value:** 106
 
 ## Pompier GM-3HT FireMech
@@ -27,7 +27,7 @@
   - Liquid Cargo × 4
   - Searchlight
   - Mech Sprayer
-- **Source:** TRO VA - Clan Invasion
+- **Sources:** TRO VA - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4844/pompier-gm-3ht-firemech)
 - **Battle Value:** 106
 
 ## Pompier GM-3CD FireMech
@@ -43,7 +43,7 @@
   - Searchlight
   - Mech Sprayer
   - Enviro-Sealing
-- **Source:** TRO VA - Civil War
+- **Sources:** TRO VA - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4843/pompier-gm-3cd-firemech)
 - **Battle Value:** unknown
 
 ## Pompier GM-FL FireMech
@@ -59,7 +59,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Supercharger
-- **Source:** XTRO Most Wanted - Jihad
+- **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5780/pompier-gm-fl-firemech)
 - **Battle Value:** 88
 
 ## Pompier GM-4P PoliceMech
@@ -75,6 +75,6 @@
   - Vehicle Flamer (ammo: 20)
 - **Equipment:**
   - Ejection Seat
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7837/pompier-gm-4p-policemech)
 - **Battle Value:** unknown
 

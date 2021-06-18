@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/455/caesar-ces-3r)
 - **Battle Value:** 1578
 
 ## Caesar CES-3R 'Archangel'
@@ -29,7 +29,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3883/caesar-ces-3r-archangel)
 - **Battle Value:** 2098
 
 ## Caesar CES-3R (Gertrude)
@@ -45,7 +45,7 @@
   - ER Medium Laser × 8
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3884/caesar-ces-3r-gertrude)
 - **Battle Value:** 1833
 
 ## Caesar CES-4S
@@ -60,7 +60,7 @@
   - Large Pulse Laser
   - ER Medium Laser × 2
   - Medium Pulse Laser × 2
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/458/caesar-ces-4s)
 - **Battle Value:** 1739
 
 ## Caesar CES-3S
@@ -77,7 +77,7 @@
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/456/caesar-ces-3s)
 - **Battle Value:** 1901
 
 ## Caesar CES-4R
@@ -95,6 +95,6 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/457/caesar-ces-4r)
 - **Battle Value:** 2024
 

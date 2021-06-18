@@ -13,7 +13,7 @@
   - LRM 5 (ammo: 24)
   - Flamer
   - Machine Gun (ammo: 100)
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2177/merlin-mln-1a)
 - **Battle Value:** 1217
 
 ## Merlin MLN-1B
@@ -29,7 +29,7 @@
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
   - Flamer
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2178/merlin-mln-1b)
 - **Battle Value:** 1228
 
 ## Merlin MLN-1B (Porter)
@@ -44,6 +44,7 @@
   - Large Laser
   - Medium Laser × 2
   - SRM 4 (ammo: 25)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179/merlin-mln-1b-porter)
 - **Battle Value:** 1233
 
 ## Merlin MLN-1C
@@ -59,7 +60,7 @@
   - ER Medium Laser × 2
   - LRM 5 (ammo: 24)
   - Flamer
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2180/merlin-mln-1c)
 - **Battle Value:** 1267
 
 ## Merlin MLN-SX
@@ -73,6 +74,6 @@
 - **Weapons:**
   - Bombast Laser w/ Laser Insulator
   - Medium VSP Laser w/ Laser Insulator × 2
-- **Source:** XTRO Boondocks - Jihad
+- **Sources:** XTRO Boondocks - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2181/merlin-mln-sx)
 - **Battle Value:** 1121
 

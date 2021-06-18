@@ -13,7 +13,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/846/dasher-fire-moth-prime)
 - **Battle Value:** 1251
 
 ## Fire Moth "Dasher" A
@@ -31,7 +31,7 @@
   - MASC
   - CASE
   - TAG
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/838/dasher-fire-moth-a)
 - **Battle Value:** 639
 
 ## Fire Moth "Dasher" B
@@ -49,7 +49,7 @@
   - A-Pod
   - MASC
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/839/dasher-fire-moth-b)
 - **Battle Value:** 1064
 
 ## Fire Moth "Dasher" C
@@ -65,7 +65,7 @@
   - Anti-Missile System (ammo: 48)
   - MASC
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/840/dasher-fire-moth-c)
 - **Battle Value:** 741
 
 ## Fire Moth "Dasher" D
@@ -81,7 +81,7 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/841/dasher-fire-moth-d)
 - **Battle Value:** 2307
 
 ## Fire Moth "Dasher" E
@@ -96,7 +96,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/842/dasher-fire-moth-e)
 - **Battle Value:** 822
 
 ## Fire Moth "Dasher" H
@@ -111,7 +111,7 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/844/dasher-fire-moth-h)
 - **Battle Value:** 779
 
 ## Fire Moth "Dasher" (Aletha)
@@ -127,6 +127,7 @@
 - **Equipment:**
   - ECM Suite
   - MASC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/837/dasher-fire-moth-aletha)
 - **Battle Value:** 1388
 
 ## Fire Moth "Dasher" F
@@ -143,7 +144,7 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/843/dasher-fire-moth-f)
 - **Battle Value:** 1461
 
 ## Fire Moth "Dasher" K
@@ -161,7 +162,7 @@
   - B-Pod × 2
   - MASC
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/845/dasher-fire-moth-k)
 - **Battle Value:** 884
 
 ## Fire Moth "Dasher" G
@@ -178,7 +179,7 @@
   - Supercharger
   - Targeting Computer
   - Coolant Pod
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6946/dasher-fire-moth-g)
 - **Battle Value:** 2040
 
 ## Fire Moth "Dasher" M
@@ -194,7 +195,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7580/dasher-fire-moth-m)
 - **Battle Value:** 1200
 
 ## Fire Moth "Dasher" R
@@ -213,7 +214,7 @@
   - Inner Sphere M-Pod
   - MASC
   - Inner Sphere C3 Slave
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7582/dasher-fire-moth-r)
 - **Battle Value:** 1160
 
 ## Fire Moth "Dasher" P
@@ -228,7 +229,7 @@
 - **Equipment:**
   - MASC
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7581/dasher-fire-moth-p)
 - **Battle Value:** 841
 
 ## Fire Moth "Dasher" I
@@ -245,7 +246,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7578/dasher-fire-moth-i)
 - **Battle Value:** 1260
 
 ## Fire Moth "Dasher" T
@@ -263,7 +264,7 @@
   - MASC
   - CASE
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7577/dasher-fire-moth-t)
 - **Battle Value:** 1305
 
 ## Fire Moth "Dasher" J
@@ -279,6 +280,6 @@
   - ER Small Laser × 2
 - **Equipment:**
   - MASC
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7579/dasher-fire-moth-j)
 - **Battle Value:** 1140
 

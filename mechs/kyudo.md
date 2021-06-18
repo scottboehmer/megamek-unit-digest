@@ -10,7 +10,7 @@
 - **Weapons:**
   - Large Laser
   - LRM 10 (ammo: 12)
-- **Source:** XTRO Primitives I - Age of War
+- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1850/kyudo-ky2-d-01)
 - **Battle Value:** 748
 
 ## Kyudo KY2-D-02
@@ -25,7 +25,7 @@
   - ER Large Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1851/kyudo-ky2-d-02)
 - **Battle Value:** 1286
 
 ## Kyudo KY2-D-03
@@ -40,6 +40,6 @@
   - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 14 SRM)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1852/kyudo-ky2-d-03)
 - **Battle Value:** 1131
 

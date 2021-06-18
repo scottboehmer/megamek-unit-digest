@@ -13,7 +13,7 @@
   - Medium X-Pulse Laser
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Draconis Combine - Early Republic
+- **Sources:** TRO 3145 Draconis Combine - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6414/dragon-ii-drg-11k)
 - **Battle Value:** 1598
 
 ## Dragon II DRG-11R
@@ -32,6 +32,6 @@
   - Clan B-Pod
   - MASC
   - CASE II
-- **Source:** TRO 3145 Draconis Combine - Late Republic
+- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6415/dragon-ii-drg-11r)
 - **Battle Value:** 2183
 

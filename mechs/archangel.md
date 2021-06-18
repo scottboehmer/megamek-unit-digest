@@ -17,7 +17,7 @@
   - Guardian ECM Suite
   - C3i
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/65/archangel-c-ang-o-invictus)
 - **Battle Value:** 2237
 
 ## Archangel C-ANG-OA Dominus
@@ -35,7 +35,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/66/archangel-c-ang-oa-dominus)
 - **Battle Value:** 2134
 
 ## Archangel C-ANG-OB Infernus
@@ -53,7 +53,7 @@
   - Light PPC × 2
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/67/archangel-c-ang-ob-infernus)
 - **Battle Value:** 2069
 
 ## Archangel C-ANG-OC Comminus
@@ -73,7 +73,7 @@
   - Guardian ECM Suite
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/68/archangel-c-ang-oc-comminus)
 - **Battle Value:** 2010
 
 ## Archangel C-ANG-OD Luminos
@@ -94,7 +94,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/69/archangel-c-ang-od-luminos)
 - **Battle Value:** 2105
 
 ## Archangel C-ANG-O (Berith)
@@ -113,7 +113,7 @@
   - Medium VSP Laser
 - **Equipment:**
   - C3i
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/64/archangel-c-ang-o-berith)
 - **Battle Value:** 2060
 
 ## Archangel C-ANG-OE Eminus
@@ -133,7 +133,7 @@
 - **Equipment:**
   - C3i
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus)
 - **Battle Value:** 2097
 
 ## Archangel C-ANG-OS Caelestis
@@ -153,5 +153,6 @@
   - ER Flamer × 2
 - **Equipment:**
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/71/archangel-c-ang-os-caelestis)
 - **Battle Value:** 2026
 

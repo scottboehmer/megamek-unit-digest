@@ -11,7 +11,7 @@
   - Large Laser
   - Medium Laser × 2
   - LRM 5 × 4 (ammo: 48)
-- **Source:** XTRO Primitives II - Age of War
+- **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x)
 - **Battle Value:** 969
 
 ## Crossbow CRS-6B
@@ -25,7 +25,7 @@
   - PPC
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b)
 - **Battle Value:** 1210
 
 ## Crossbow CRS-6C
@@ -39,7 +39,7 @@
   - PPC
   - AC/10 (ammo: 10)
   - Medium Laser
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c)
 - **Battle Value:** 1204
 
 ## Crossbow Prime
@@ -53,7 +53,7 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/739/crossbow-prime)
 - **Battle Value:** 1829
 
 ## Crossbow A
@@ -69,7 +69,7 @@
   - LRM 5 × 2 (ammo: 48)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/730/crossbow-a)
 - **Battle Value:** 1797
 
 ## Crossbow B
@@ -83,7 +83,7 @@
   - Streak SRM 6 × 4 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/731/crossbow-b)
 - **Battle Value:** 1687
 
 ## Crossbow H
@@ -100,7 +100,7 @@
   - Light Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/738/crossbow-h)
 - **Battle Value:** 1707
 
 ## Crossbow C
@@ -116,7 +116,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/732/crossbow-c)
 - **Battle Value:** 1557
 
 ## Crossbow D
@@ -130,7 +130,7 @@
   - 'Mech Mortar/8 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/736/crossbow-d)
 - **Battle Value:** 1154
 
 ## Crossbow CRS-9A
@@ -144,7 +144,7 @@
   - ER Large Laser
   - Streak SRM 6 × 2 (ammo: 30)
   - ER Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a)
 - **Battle Value:** 1583
 
 ## Crossbow E
@@ -159,7 +159,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e)
 - **Battle Value:** 1558
 
 ## Crossbow U
@@ -176,6 +176,6 @@
   - SRT 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/740/crossbow-u)
 - **Battle Value:** 1856
 

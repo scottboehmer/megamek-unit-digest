@@ -14,7 +14,7 @@
   - Laser Anti-Missile System
   - CASE
   - MASC
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/852/deimos-2)
 - **Battle Value:** 2394
 
 ## Deimos Prime
@@ -32,7 +32,7 @@
   - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/856/deimos-prime)
 - **Battle Value:** 2188
 
 ## Deimos A
@@ -52,7 +52,7 @@
   - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/853/deimos-a)
 - **Battle Value:** 2785
 
 ## Deimos B
@@ -72,7 +72,7 @@
   - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/854/deimos-b)
 - **Battle Value:** 2965
 
 ## Deimos H
@@ -113,7 +113,7 @@
   - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/855/deimos-c)
 - **Battle Value:** 2737
 
 ## Deimos S
@@ -134,7 +134,7 @@
   - MASC
   - CASE
   - Liquid Cargo
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/857/deimos-s)
 - **Battle Value:** 2664
 
 ## Deimos D
@@ -152,7 +152,7 @@
   - Anti-Missile System (ammo: 24)
   - MASC
   - CASE
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6856/deimos-d)
 - **Battle Value:** 2682
 
 ## Deimos E
@@ -175,6 +175,6 @@
   - Targeting Computer
   - Inner Sphere Radical Heat Sink System
   - Supercharger
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6855/deimos-e)
 - **Battle Value:** 3606
 

@@ -12,7 +12,7 @@
   - MASC
   - Drone Operating System
   - C3i
-- **Source:** XTRO ComStar - Clan Invasion
+- **Sources:** XTRO ComStar - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5553/celerity-clr-02-x-d)
 - **Battle Value:** 157
 
 ## Celerity CLR-03-O
@@ -29,7 +29,7 @@
   - Drone Operating System
   - TAG
   - C3 Slave
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6671/celerity-clr-03-o)
 - **Battle Value:** 187
 
 ## Celerity CLR-03-OA
@@ -46,7 +46,7 @@
 - **Equipment:**
   - Drone Operating System
   - MASC
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6704/celerity-clr-03-oa)
 - **Battle Value:** 275
 
 ## Celerity CLR-03-OB
@@ -62,7 +62,7 @@
   - Angel ECM Suite
   - Drone Operating System
   - MASC
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6705/celerity-clr-03-ob)
 - **Battle Value:** 339
 
 ## Celerity CLR-03-OC
@@ -79,7 +79,7 @@
   - MASC
   - Drone Operating System
   - Remote Sensor Dispenser
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6706/celerity-clr-03-oc)
 - **Battle Value:** 202
 
 ## Celerity CLR-03-OD
@@ -96,7 +96,7 @@
 - **Equipment:**
   - Drone Operating System
   - MASC
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6707/celerity-clr-03-od)
 - **Battle Value:** 304
 
 ## Celerity CLR-03-OE
@@ -114,7 +114,7 @@
 - **Equipment:**
   - MASC
   - Drone Operating System
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6708/celerity-clr-03-oe)
 - **Battle Value:** 921
 
 ## Celerity CLR-03OMM 'Rajah'
@@ -147,7 +147,7 @@
   - TSEMP OS
 - **Equipment:**
   - Drone Operating System
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6709/celerity-clr-04-r)
 - **Battle Value:** 384
 
 ## Celerity CLR-05-X
@@ -164,6 +164,6 @@
   - MASC
   - Drone Operating System
   - Supercharger
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6710/celerity-clr-05-x)
 - **Battle Value:** 225
 

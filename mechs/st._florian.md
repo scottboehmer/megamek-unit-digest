@@ -11,7 +11,7 @@
 - **Equipment:**
   - Searchlight × 2
   - Enviro-Sealing
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5118/st-florian-fln-366-firemech)
 - **Battle Value:** unknown
 
 ## St. Florian FLN-366-M FireMech MOD
@@ -28,6 +28,6 @@
   - Coolant Pod × 3
   - Searchlight × 2
   - Enviro-Sealing
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7826/st-florian-fln-366-m-firemech-mod)
 - **Battle Value:** unknown
 

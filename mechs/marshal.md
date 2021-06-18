@@ -14,7 +14,7 @@
   - LRM 5 (ammo: 24)
   - Flamer
   - Machine Gun × 2 (ammo: 100)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2090/marshal-mhl-x1)
 - **Battle Value:** 1163
 
 ## Marshal MHL-2L
@@ -32,7 +32,7 @@
   - Medium Laser
   - Flamer
   - Machine Gun × 2 (ammo: 100)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l)
 - **Battle Value:** 1313
 
 ## Marshal MHL-6MC
@@ -51,7 +51,7 @@
   - Light Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Machine Gun Array
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2089/marshal-mhl-6mc)
 - **Battle Value:** 1457
 
 ## Marshal MHL-6FR
@@ -66,7 +66,7 @@
   - Snub-Nose PPC
   - Medium X-Pulse Laser × 3
   - Flamer
-- **Source:** Fronc Reachs
+- **Sources:** Fronc Reachs, [Master Unit List](http://masterunitlist.info/Unit/Details/7698/marshal-mhl-6fr)
 - **Battle Value:** 1429
 
 ## Marshal MHL-3MC
@@ -84,6 +84,6 @@
   - Medium Laser
   - Flamer
   - Machine Gun × 2 (ammo: 100)
-- **Source:** RS 3145 NTNU - Late Republic
+- **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6895/marshal-mhl-3mc)
 - **Battle Value:** 1714
 

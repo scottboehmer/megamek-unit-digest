@@ -12,6 +12,7 @@
   - AP Gauss Rifle (ammo: 40)
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135/stinger-iic-standard)
 - **Battle Value:** 730
 
 ## Stinger IIC 2
@@ -25,5 +26,6 @@
 - **Weapons:**
   - Improved Heavy Large Laser
   - Improved Heavy Medium Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5136/stinger-iic-2)
 - **Battle Value:** 1097
 

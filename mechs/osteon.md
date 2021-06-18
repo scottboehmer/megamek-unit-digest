@@ -13,7 +13,7 @@
   - Nova CEWS
   - CASE II
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4767/osteon-prime)
 - **Battle Value:** 3073
 
 ## Osteon (Jaguar)
@@ -33,7 +33,7 @@
 - **Equipment:**
   - Nova CEWS
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5830/osteon-jaguar)
 - **Battle Value:** 2526
 
 ## Osteon A
@@ -52,7 +52,7 @@
 - **Equipment:**
   - Nova CEWS
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4766/osteon-a)
 - **Battle Value:** 2291
 
 ## Osteon B
@@ -69,7 +69,7 @@
   - Inner Sphere Large Vibroblade
 - **Equipment:**
   - Nova CEWS
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5823/osteon-b)
 - **Battle Value:** 2625
 
 ## Osteon C
@@ -87,7 +87,7 @@
 - **Equipment:**
   - Nova CEWS
   - Targeting Computer
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5824/osteon-c)
 - **Battle Value:** 3139
 
 ## Osteon D
@@ -102,7 +102,7 @@
   - Large Pulse Laser × 4
 - **Equipment:**
   - Nova CEWS
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5825/osteon-d)
 - **Battle Value:** 2587
 
 ## Osteon E
@@ -121,7 +121,7 @@
   - Nova CEWS
   - CASE
   - Targeting Computer
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5826/osteon-e)
 - **Battle Value:** 2762
 
 ## Osteon F
@@ -141,7 +141,7 @@
   - Nova CEWS
   - Machine Gun Array × 2
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5827/osteon-f)
 - **Battle Value:** 2716
 
 ## Osteon G
@@ -159,7 +159,7 @@
 - **Equipment:**
   - Nova CEWS
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5828/osteon-g)
 - **Battle Value:** 2251
 
 ## Osteon U
@@ -177,6 +177,6 @@
   - Nova CEWS
   - Inner Sphere HarJel × 4
   - CASE
-- **Source:** WoR - Jihad
+- **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5829/osteon-u)
 - **Battle Value:** 2647
 

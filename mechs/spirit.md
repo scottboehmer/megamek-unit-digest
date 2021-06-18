@@ -15,7 +15,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5108/spirit-standard)
 - **Battle Value:** 1673
 
 ## Spirit 2
@@ -31,6 +31,6 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5665/spirit-2)
 - **Battle Value:** 1773
 

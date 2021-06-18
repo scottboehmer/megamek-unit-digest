@@ -11,7 +11,7 @@
   - Medium Laser
   - Small Laser × 2
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1022/falcon-flc-4n)
 - **Battle Value:** 610
 
 ## Falcon FLC-4Nb
@@ -25,6 +25,7 @@
 - **Weapons:**
   - Snub-Nose PPC
   - Medium Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1023/falcon-flc-4nb)
 - **Battle Value:** 947
 
 ## Falcon FLC-4Nb-PP
@@ -38,6 +39,7 @@
 - **Weapons:**
   - PPC
   - Medium Laser
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1025/falcon-flc-4nb-pp)
 - **Battle Value:** 881
 
 ## Falcon FLC-4Nb-PP2
@@ -52,6 +54,7 @@
   - ER Large Laser
   - Medium Pulse Laser
   - Medium Laser
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1026/falcon-flc-4nb-pp2)
 - **Battle Value:** 947
 
 ## Falcon FLC-4Nb (Saho)
@@ -65,6 +68,7 @@
 - **Weapons:**
   - Large Pulse Laser
   - Medium Laser
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1024/falcon-flc-4nb-saho)
 - **Battle Value:** 774
 
 ## Falcon FLC-4P
@@ -80,7 +84,7 @@
   - Small Laser × 2
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1027/falcon-flc-4p)
 - **Battle Value:** 649
 
 ## Falcon FLC-5P
@@ -97,7 +101,7 @@
 - **Equipment:**
   - Targeting Computer
   - MASC
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1028/falcon-flc-5p)
 - **Battle Value:** 945
 
 ## Falcon FLC-6C
@@ -115,6 +119,6 @@
   - Anti-Missile System (ammo: 24)
   - Targeting Computer
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1029/falcon-flc-6c)
 - **Battle Value:** 1290
 

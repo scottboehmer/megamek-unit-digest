@@ -9,7 +9,7 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Medium Pulse Laser × 4
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3398/venom-sdr-9k)
 - **Battle Value:** 798
 
 ## Venom SDR-9KA
@@ -22,7 +22,7 @@
 - **Heat Sinks:** 12 (12)
 - **Weapons:**
   - Medium Pulse Laser × 3
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3399/venom-sdr-9ka)
 - **Battle Value:** 865
 
 ## Venom SDR-9KB
@@ -36,7 +36,7 @@
 - **Weapons:**
   - Medium Pulse Laser × 3
   - Machine Gun (ammo: 100)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3400/venom-sdr-9kb)
 - **Battle Value:** 769
 
 ## Venom SDR-9KC
@@ -51,6 +51,6 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3401/venom-sdr-9kc)
 - **Battle Value:** 939
 

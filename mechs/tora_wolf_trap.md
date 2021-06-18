@@ -12,7 +12,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3554/wolf-trap-tora-wft-1)
 - **Battle Value:** 1070
 
 ## Wolf Trap WFT-1 (Daitama) "Tora"
@@ -30,6 +30,7 @@
   - Beagle Active Probe
   - C3i
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555/wolf-trap-tora-wft-1-daitama)
 - **Battle Value:** 1290
 
 ## Wolf Trap WFT-C "Tora"
@@ -46,7 +47,7 @@
 - **Equipment:**
   - C3 Slave
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3559/wolf-trap-tora-wft-c)
 - **Battle Value:** 1001
 
 ## Wolf Trap WFT-B "Tora"
@@ -63,7 +64,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3558/wolf-trap-tora-wft-b)
 - **Battle Value:** 1021
 
 ## Wolf Trap WFT-2 "Tora"
@@ -81,7 +82,7 @@
 - **Equipment:**
   - Machine Gun Array
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3556/wolf-trap-tora-wft-2)
 - **Battle Value:** 1212
 
 ## Wolf Trap WFT-2X
@@ -94,7 +95,7 @@
 - **Weapons:**
   - Silver Bullet (ammo: 16)
   - Medium X-Pulse Laser × 2
-- **Source:** XTRO Kurita - Jihad
+- **Sources:** XTRO Kurita - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3557/wolf-trap-tora-wft-2x-bear-trap)
 - **Battle Value:** 1211
 
 ## Wolf Trap WFT-2B "Tora"
@@ -107,6 +108,6 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - Medium X-Pulse Laser × 2
-- **Source:** TRO: Prototypes
+- **Sources:** TRO: Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/5415/wolf-trap-tora-wft-2b)
 - **Battle Value:** 1439
 

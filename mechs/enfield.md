@@ -13,7 +13,7 @@
   - Inner Sphere Medium Laser
 - **Equipment:**
   - Inner Sphere CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7679/enfield-end-6j-ec)
 - **Battle Value:** 1379
 
 ## Enfield END-6Q
@@ -30,7 +30,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/973/enfield-end-6q)
 - **Battle Value:** 1248
 
 ## Enfield END-6J
@@ -47,7 +47,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/972/enfield-end-6j)
 - **Battle Value:** 1417
 
 ## Enfield END-6S
@@ -65,7 +65,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/974/enfield-end-6s)
 - **Battle Value:** 1413
 
 ## Enfield END-6Sr
@@ -83,6 +83,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/975/enfield-end-6sr)
 - **Battle Value:** 1361
 

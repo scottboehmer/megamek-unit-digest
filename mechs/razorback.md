@@ -12,7 +12,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4904/razorback-rzk-9s)
 - **Battle Value:** 855
 
 ## Razorback RZK-9T
@@ -25,7 +25,7 @@
 - **Weapons:**
   - ER PPC
   - ER Medium Laser × 4
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4905/razorback-rzk-9t)
 - **Battle Value:** 1149
 
 ## Razorback RZK-10T
@@ -38,7 +38,7 @@
 - **Weapons:**
   - Heavy PPC
   - ER Small Laser × 4
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5662/razorback-rzk-10t)
 - **Battle Value:** 1172
 
 ## Razorback RZK-10S
@@ -57,6 +57,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5661/razorback-rzk-10s)
 - **Battle Value:** 821
 

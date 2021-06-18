@@ -14,7 +14,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1786/kingfisher-prime)
 - **Battle Value:** 2401
 
 ## Kingfisher A
@@ -33,7 +33,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1779/kingfisher-a)
 - **Battle Value:** 2261
 
 ## Kingfisher B
@@ -51,7 +51,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1780/kingfisher-b)
 - **Battle Value:** 2472
 
 ## Kingfisher C
@@ -64,7 +64,7 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Medium Laser × 4
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1781/kingfisher-c)
 - **Battle Value:** 2644
 
 ## Kingfisher D
@@ -79,7 +79,7 @@
   - Ultra AC/10 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1782/kingfisher-d)
 - **Battle Value:** 2364
 
 ## Kingfisher H
@@ -94,7 +94,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1785/kingfisher-h)
 - **Battle Value:** 2525
 
 ## Kingfisher E
@@ -110,7 +110,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1783/kingfisher-e)
 - **Battle Value:** 2443
 
 ## Kingfisher F
@@ -127,7 +127,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f)
 - **Battle Value:** 2568
 
 ## Kingfisher X
@@ -146,6 +146,6 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x)
 - **Battle Value:** 2761
 

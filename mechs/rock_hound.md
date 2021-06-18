@@ -13,6 +13,7 @@
   - Lift Hoist
   - Searchlight
   - Ejection Seat
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4926/rock-hound-am-prm-rh7-prospectormech)
 - **Battle Value:** unknown
 
 ## Rock Hound AM-PRM-RH7A 'Rock Otter' ProspectorMech
@@ -29,6 +30,7 @@
   - Lift Hoist
   - Searchlight
   - Enviro-Sealing
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4927/rock-hound-am-prm-rh7a-rock-otter-prospectormech)
 - **Battle Value:** unknown
 
 ## Rock Hound AM-PRM-RH7C 'Rock Possum' ProspectorMech
@@ -46,5 +48,6 @@
   - Cargo × 3
   - Searchlight
   - Ejection Seat
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4928/rock-hound-am-prm-rh7c-rock-possum-prospectormech)
 - **Battle Value:** unknown
 

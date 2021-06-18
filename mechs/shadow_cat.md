@@ -14,7 +14,7 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2892/shadow-cat-prime)
 - **Battle Value:** 2156
 
 ## Shadow Cat A
@@ -32,7 +32,7 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2887/shadow-cat-a)
 - **Battle Value:** 2220
 
 ## Shadow Cat B
@@ -51,7 +51,7 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** TRO 3058 - Succession Wars
+- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2888/shadow-cat-b)
 - **Battle Value:** 2420
 
 ## Shadow Cat TC
@@ -70,7 +70,7 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7590/shadow-cat-tc)
 - **Battle Value:** 1378
 
 ## Shadow Cat M
@@ -86,7 +86,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - MASC
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7707/shadow-cat-m)
 - **Battle Value:** 2438
 
 ## Shadow Cat C
@@ -104,7 +104,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2889/shadow-cat-c)
 - **Battle Value:** 2199
 
 ## Shadow Cat D
@@ -124,7 +124,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/7704/shadow-cat-d)
 - **Battle Value:** 2298
 
 ## Shadow Cat H
@@ -142,7 +142,7 @@
   - MASC
   - Targeting Computer
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2890/shadow-cat-h)
 - **Battle Value:** 2155
 
 ## Shadow Cat J
@@ -160,7 +160,7 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2891/shadow-cat-j)
 - **Battle Value:** 1802
 
 ## Shadow Cat E
@@ -176,7 +176,7 @@
 - **Equipment:**
   - MASC
   - Inner Sphere Coolant Pod × 2
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6913/shadow-cat-e)
 - **Battle Value:** 2081
 
 ## Shadow Cat F
@@ -194,7 +194,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6912/shadow-cat-f)
 - **Battle Value:** 2997
 
 ## Shadow Cat I
@@ -213,7 +213,7 @@
   - MASC
   - Targeting Computer
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7706/shadow-cat-i)
 - **Battle Value:** 2408
 
 ## Shadow Cat T
@@ -231,6 +231,6 @@
   - Active Probe
   - MASC
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7708/shadow-cat-t)
 - **Battle Value:** 1852
 

@@ -13,7 +13,7 @@
   - Streak SRM 4 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6277/loki-mk-ii-hel-prime)
 - **Battle Value:** 2189
 
 ## Hel "Loki Mk II" A
@@ -33,7 +33,7 @@
 - **Equipment:**
   - Angel ECM Suite
   - CASE
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6278/loki-mk-ii-hel-a)
 - **Battle Value:** 2249
 
 ## Hel "Loki Mk II" B
@@ -50,6 +50,6 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6279/loki-mk-ii-hel-b)
 - **Battle Value:** 1798
 

@@ -11,7 +11,7 @@
   - Combine × 2
 - **Equipment:**
   - Cargo
-- **Source:** TRO VA - Star League
+- **Sources:** TRO VA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4265/harvester-ant-kic-3-agromech)
 - **Battle Value:** 161
 
 ## Harvester Ant KIC-3M AgroMech (MG)
@@ -24,7 +24,7 @@
 - **Weapons:**
   - SRM 2 (ammo: 50)
   - Machine Gun × 4 (ammo: 200)
-- **Source:** RS OK - Early Succession War
+- **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7152/harvester-ant-kic-3m-agromech-mod-kic-3-mg)
 - **Battle Value:** 127
 
 ## Harvester Ant KIC-3M AgroMech MOD
@@ -37,7 +37,7 @@
 - **Weapons:**
   - SRM 2 (ammo: 50)
   - Machine Gun × 4 (ammo: 200)
-- **Source:** RS VA IM Exo - Early Succession War
+- **Sources:** RS VA IM Exo - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7152/harvester-ant-kic-3m-agromech-mod-kic-3-mg)
 - **Battle Value:** 127
 
 ## Harvester Ant KIC-3M-B AgroMech (LRM)
@@ -49,7 +49,7 @@
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
   - LRM 5 × 2 (ammo: 24)
-- **Source:** RS OK - Early Succession War
+- **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7153/harvester-ant-kic-3m-b-agromech-mod-kic-3-lrm)
 - **Battle Value:** 214
 
 ## Harvester Ant KIC-3M-B AgroMech MOD
@@ -61,6 +61,6 @@
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
   - LRM 5 × 2 (ammo: 24)
-- **Source:** RS:VA - Early Succession War
+- **Sources:** RS:VA - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7153/harvester-ant-kic-3m-b-agromech-mod-kic-3-lrm)
 - **Battle Value:** 214
 

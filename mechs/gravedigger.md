@@ -12,7 +12,7 @@
   - Large Laser
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6265/gravedigger-gdr-1c)
 - **Battle Value:** 1342
 
 ## Gravedigger GDR-1D
@@ -30,6 +30,6 @@
   - Angel ECM Suite
   - Clan Active Probe
   - CASE II
-- **Source:** TRO 3145 The Clans - Late Republic
+- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6264/gravedigger-gdr-1d)
 - **Battle Value:** 1707
 

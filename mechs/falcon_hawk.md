@@ -11,7 +11,7 @@
   - Medium Pulse Laser × 2
   - Medium Laser
   - Small Pulse Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1030/falcon-hawk-fnhk-9k)
 - **Battle Value:** 1030
 
 ## Falcon Hawk FNHK-9K1A
@@ -26,7 +26,7 @@
   - Large Laser
   - Medium Laser × 2
   - Small Pulse Laser
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1031/falcon-hawk-fnhk-9k1a)
 - **Battle Value:** 1040
 
 ## Falcon Hawk FNHK-9K1B
@@ -44,6 +44,6 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1032/falcon-hawk-fnhk-9k1b)
 - **Battle Value:** 1116
 

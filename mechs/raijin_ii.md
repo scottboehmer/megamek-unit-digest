@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2628/raijin-ii-rjn-200-a)
 - **Battle Value:** 1763
 
 ## Raijin II RJN-200-B
@@ -34,7 +34,7 @@
   - Beagle Active Probe
   - TAG
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2629/raijin-ii-rjn-200-b)
 - **Battle Value:** 1439
 
 ## Raijin II RJN-200-C
@@ -52,6 +52,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2630/raijin-ii-rjn-200-c)
 - **Battle Value:** 1754
 

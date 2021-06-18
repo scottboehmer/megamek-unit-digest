@@ -13,7 +13,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard)
 - **Battle Value:** 1813
 
 ## Conjurer 7 "Hellhound"
@@ -30,7 +30,7 @@
   - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7)
 - **Battle Value:** 1845
 
 ## Conjurer 2 "Hellhound"
@@ -47,7 +47,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1474/hellhound-conjurer-2)
 - **Battle Value:** 2097
 
 ## Conjurer 3 "Hellhound"
@@ -63,7 +63,7 @@
   - Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1475/hellhound-conjurer-3)
 - **Battle Value:** 1764
 
 ## Conjurer 4 "Hellhound"
@@ -82,7 +82,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1476/hellhound-conjurer-4)
 - **Battle Value:** 2164
 
 ## Conjurer 5 "Hellhound"
@@ -98,7 +98,7 @@
   - ATM 6 × 2 (ammo: 20)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1477/hellhound-conjurer-5)
 - **Battle Value:** 1722
 
 ## Conjurer 8 "Hellhound"
@@ -116,5 +116,6 @@
 - **Equipment:**
   - CASE
   - MASC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7513/hellhound-conjurer-8)
 - **Battle Value:** 2155
 

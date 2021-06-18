@@ -9,7 +9,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Small Laser
-- **Source:** Source:TRO 3039 - Star League
+- **Sources:** Source:TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/591/cicada-cda-2a)
 - **Battle Value:** 659
 
 ## Cicada CDA-2B
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/592/cicada-cda-2b)
 - **Battle Value:** 626
 
 ## Cicada CDA-3C
@@ -35,7 +35,7 @@
 - **Weapons:**
   - PPC
   - Machine Gun × 2 (ammo: 200)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/593/cicada-cda-3c)
 - **Battle Value:** 771
 
 ## Cicada CDA-3M
@@ -51,7 +51,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/596/cicada-cda-3m)
 - **Battle Value:** 812
 
 ## Cicada CDA-3F
@@ -65,7 +65,7 @@
 - **Weapons:**
   - ER PPC
   - Medium Laser × 2
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/594/cicada-cda-3f)
 - **Battle Value:** 1329
 
 ## Cicada CDA-3G
@@ -81,7 +81,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - Beagle Active Probe
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g)
 - **Battle Value:** 1270
 
 ## Cicada CDA-3MA
@@ -95,7 +95,7 @@
   - Snub-Nose PPC
   - Medium Laser × 2
   - Small Pulse Laser
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/597/cicada-cda-3ma)
 - **Battle Value:** 1158
 
 ## Cicada CDA-3P
@@ -108,6 +108,6 @@
 - **Weapons:**
   - Heavy PPC
   - ER Medium Laser × 4
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/598/cicada-cda-3p)
 - **Battle Value:** 1502
 

@@ -9,7 +9,7 @@
 - **Weapons:**
   - PPC × 2
   - AC/5 (ammo: 20)
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1408/hatamoto-ku-htm-27w)
 - **Battle Value:** 1563
 
 ## Hatamoto-Ku HTM-27W2
@@ -25,6 +25,6 @@
 - **Equipment:**
   - C3 Boosted Slave
   - CASE II
-- **Source:** XTRO Republic II - Late Republic 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350/hatamoto-ku-htm-27w2)
 - **Battle Value:** 1699
 

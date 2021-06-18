@@ -9,7 +9,7 @@
 - **Weapons:**
   - ER PPC × 2
   - ER Large Laser × 3
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2306/nova-cat-prime)
 - **Battle Value:** 2530
 
 ## Nova Cat A
@@ -24,7 +24,7 @@
   - ER Large Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2299/nova-cat-a)
 - **Battle Value:** 2629
 
 ## Nova Cat B
@@ -39,7 +39,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2300/nova-cat-b)
 - **Battle Value:** 2492
 
 ## Nova Cat C
@@ -55,7 +55,7 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2301/nova-cat-c)
 - **Battle Value:** 1944
 
 ## Nova Cat D
@@ -71,7 +71,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2302/nova-cat-d)
 - **Battle Value:** 2084
 
 ## Nova Cat E
@@ -86,7 +86,7 @@
   - ATM 9 × 4 (ammo: 28 Standard, 14 ER, 14 HE)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2303/nova-cat-e)
 - **Battle Value:** 2191
 
 ## Nova Cat F
@@ -103,7 +103,7 @@
 - **Equipment:**
   - ECM Suite
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2304/nova-cat-f)
 - **Battle Value:** 2706
 
 ## Nova Cat G
@@ -121,7 +121,7 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2305/nova-cat-g)
 - **Battle Value:** 2522
 
 ## Nova Cat H
@@ -139,7 +139,7 @@
   - CASE
   - Coolant Pod × 3
   - Supercharger
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6869/nova-cat-h)
 - **Battle Value:** 2452
 
 ## Nova Cat I
@@ -155,6 +155,6 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU - Dark Ages
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6870/nova-cat-i)
 - **Battle Value:** 2918
 

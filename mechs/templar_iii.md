@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6353/templar-iii-tlr2-o)
 - **Battle Value:** 2028
 
 ## Templar III TLR2-OA
@@ -32,7 +32,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6354/templar-iii-tlr2-oa)
 - **Battle Value:** 1677
 
 ## Templar III TLR2-OB
@@ -53,7 +53,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6355/templar-iii-tlr2-ob)
 - **Battle Value:** 1919
 
 ## Templar III TLR2-J 'Arthur'
@@ -73,7 +73,7 @@
   - Command Console
   - CASE II
   - Clan Targeting Computer
-- **Source:** Shattered Fortress - Dark Ages
+- **Sources:** Shattered Fortress - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/7955/templar-iii-tlr-2j-arthur)
 - **Battle Value:** 2705
 
 ## Templar III TLR2-OC
@@ -92,7 +92,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6356/templar-iii-tlr2-oc)
 - **Battle Value:** 1993
 
 ## Templar III TLR2-OD
@@ -109,6 +109,6 @@
   - Medium Re-Engineered Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Federated Suns - Early Republic
+- **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6357/templar-iii-tlr2-od)
 - **Battle Value:** 2108
 

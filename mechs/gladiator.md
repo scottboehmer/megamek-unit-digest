@@ -10,7 +10,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 2
-- **Source:** XTRO Primitives II - Age of War
+- **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1198/gladiator-gld-1r)
 - **Battle Value:** 1027
 
 ## Gladiator GLD-2R
@@ -23,7 +23,7 @@
 - **Weapons:**
   - Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1199/gladiator-gld-2r)
 - **Battle Value:** 1184
 
 ## Gladiator GLD-3R
@@ -37,7 +37,7 @@
 - **Weapons:**
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1200/gladiator-gld-3r)
 - **Battle Value:** 1282
 
 ## Gladiator GLD-4R
@@ -52,7 +52,7 @@
   - PPC
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1201/gladiator-gld-4r)
 - **Battle Value:** 1291
 
 ## Gladiator (Keller)
@@ -71,6 +71,7 @@
 - **Equipment:**
   - C3i
   - Supercharger
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197/gladiator-keller)
 - **Battle Value:** 1517
 
 ## Gladiator GLD-5R
@@ -89,6 +90,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1202/gladiator-gld-5r)
 - **Battle Value:** 1412
 

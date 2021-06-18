@@ -9,7 +9,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Flamer
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1487/hermes-her-1s)
 - **Battle Value:** 716
 
 ## Hermes HER-1Sb
@@ -26,7 +26,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** Hist:Op Klondike - Star League
+- **Sources:** Hist:Op Klondike - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1488/hermes-her-1sb)
 - **Battle Value:** 1112
 
 ## Hermes HER-1A
@@ -39,7 +39,7 @@
 - **Weapons:**
   - Medium Laser × 2
   - Flamer
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1485/hermes-her-1a)
 - **Battle Value:** 601
 
 ## Hermes HER-1B
@@ -51,7 +51,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Medium Laser × 3
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1486/hermes-her-1b)
 - **Battle Value:** 687
 
 ## Hermes HER-3S
@@ -66,7 +66,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1489/hermes-her-3s)
 - **Battle Value:** 649
 
 ## Hermes HER-3S1
@@ -81,7 +81,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1490/hermes-her-3s1)
 - **Battle Value:** 726
 
 ## Hermes HER-3S2
@@ -97,7 +97,7 @@
   - Guardian ECM Suite
   - MASC
   - TAG
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1491/hermes-her-3s2)
 - **Battle Value:** 600
 
 ## Hermes HER-4S
@@ -112,7 +112,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1494/hermes-her-4s)
 - **Battle Value:** 1012
 
 ## Hermes HER-4K
@@ -129,7 +129,7 @@
   - Guardian ECM Suite
   - MASC
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1492/hermes-her-4k)
 - **Battle Value:** 1470
 
 ## Hermes HER-4M
@@ -145,7 +145,7 @@
   - Guardian ECM Suite
   - MASC
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1493/hermes-her-4m)
 - **Battle Value:** 1362
 
 ## Hermes HER-4WB
@@ -160,6 +160,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - MASC
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1495/hermes-her-4wb)
 - **Battle Value:** 1042
 

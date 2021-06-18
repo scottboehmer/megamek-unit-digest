@@ -10,7 +10,7 @@
   - LRM 5 × 3 (ammo: 72)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Succession Wars
+- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/189/baboon-howler-standard)
 - **Battle Value:** 645
 
 ## Howler 4 "Baboon"
@@ -25,7 +25,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7568/baboon-howler-4)
 - **Battle Value:** 506
 
 ## Howler 5 "Baboon"
@@ -37,7 +37,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Medium Laser × 6
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5)
 - **Battle Value:** 1363
 
 ## Howler 2 "Baboon"
@@ -52,7 +52,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/190/baboon-howler-2)
 - **Battle Value:** 757
 
 ## Howler 3
@@ -67,7 +67,7 @@
 - **Equipment:**
   - Targeting Computer
   - MASC
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/191/baboon-howler-3-devil)
 - **Battle Value:** 1277
 
 ## Howler 6 "Baboon"
@@ -82,6 +82,6 @@
 - **Equipment:**
   - Shoulder Turret
   - CASE II
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6)
 - **Battle Value:** 550
 

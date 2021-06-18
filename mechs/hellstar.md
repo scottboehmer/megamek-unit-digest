@@ -8,7 +8,7 @@
 - **Heat Sinks:** 30 (60)
 - **Weapons:**
   - ER PPC × 4
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1481/hellstar-standard)
 - **Battle Value:** 3084
 
 ## Hellstar 2
@@ -22,7 +22,7 @@
   - ER PPC × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1479/hellstar-2)
 - **Battle Value:** 3545
 
 ## Hellstar 3
@@ -39,6 +39,6 @@
   - ECM Suite
   - Active Probe
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1480/hellstar-3)
 - **Battle Value:** 3025
 

@@ -9,7 +9,7 @@
 - **Weapons:**
   - PPC × 2
   - Large Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1167/galahad-glh-1d)
 - **Battle Value:** 1307
 
 ## Galahad GLH-2D
@@ -21,7 +21,7 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Gauss Rifle × 2 (ammo: 32)
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1168/galahad-glh-2d)
 - **Battle Value:** 1648
 
 ## Galahad GLH-3D
@@ -37,7 +37,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1169/galahad-glh-3d)
 - **Battle Value:** 1268
 
 ## Galahad GLH-3D (Laodices)
@@ -56,6 +56,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6978/galahad-glh-3d-laodices)
 - **Battle Value:** 1549
 

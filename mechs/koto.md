@@ -12,7 +12,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1840/koto-kt-p2)
 - **Battle Value:** 631
 
 ## Koto KTO-2A
@@ -26,7 +26,7 @@
   - Large X-Pulse Laser
   - ER Medium Laser × 2
   - ER Small Laser
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1837/koto-kto-2a)
 - **Battle Value:** 977
 
 ## Koto KTO-3A
@@ -40,7 +40,7 @@
   - Large Pulse Laser
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1838/koto-kto-3a)
 - **Battle Value:** 806
 
 ## Koto KTO-4A
@@ -54,6 +54,6 @@
   - ER PPC
   - ER Medium Laser × 2
   - ER Small Laser
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1839/koto-kto-4a)
 - **Battle Value:** 1073
 

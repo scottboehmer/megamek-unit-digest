@@ -14,7 +14,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/913/dragon-fire-dgr-3f)
 - **Battle Value:** 1855
 
 ## Dragon Fire DGR-4F
@@ -32,7 +32,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/914/dragon-fire-dgr-4f)
 - **Battle Value:** 1900
 
 ## Dragon Fire DGR-6FC
@@ -50,7 +50,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/915/dragon-fire-dgr-6fc)
 - **Battle Value:** 1858
 
 ## Dragon Fire DGR-6FC2 (Gregory)
@@ -70,6 +70,6 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** JTP Tharkad
+- **Sources:** JTP Tharkad, [Master Unit List](http://masterunitlist.info/Unit/Details/916/dragon-fire-dgr-6fc2-gregory)
 - **Battle Value:** 2230
 

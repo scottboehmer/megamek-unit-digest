@@ -12,7 +12,7 @@
   - Machine Gun × 12 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3058 - Clan Invasion
+- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2535/piranha-standard)
 - **Battle Value:** 998
 
 ## Piranha 2
@@ -26,7 +26,7 @@
   - Heavy Medium Laser × 2
   - Heavy Small Laser
   - ER Micro Laser × 12
-- **Source:** TRO 3058 - Civil War
+- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2536/piranha-2)
 - **Battle Value:** 853
 
 ## Piranha 3
@@ -43,7 +43,7 @@
 - **Equipment:**
   - Light Active Probe
   - Targeting Computer
-- **Source:** TRO 3058 - Jihad
+- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2537/piranha-3)
 - **Battle Value:** 1142
 
 ## Piranha 4
@@ -61,7 +61,7 @@
   - Machine Gun Array × 2
   - CASE
   - Targeting Computer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2534/piranha-4)
 - **Battle Value:** 1005
 
 ## Piranha 5
@@ -78,6 +78,6 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Source:** RecGuide 13 - Dark Ages
+- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8122/piranha-5)
 - **Battle Value:** 1132
 

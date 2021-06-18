@@ -12,7 +12,7 @@
   - MRM 20 (ammo: 12)
   - Streak SRM 2 (ammo: 50)
   - Flamer
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1173/gallant-glt-7-0)
 - **Battle Value:** 1436
 
 ## Gallant GLT-8-0
@@ -28,7 +28,7 @@
   - Medium X-Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1174/gallant-glt-8-0)
 - **Battle Value:** 1666
 
 ## Gallant GLT-10-0
@@ -46,6 +46,6 @@
 - **Equipment:**
   - Remote Sensor Dispenser
   - CASE II
-- **Source:** RS 3145 NTNU
+- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6872/gallant-glt-10-0)
 - **Battle Value:** 1537
 

@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/936/eagle-egl-1m)
 - **Battle Value:** 757
 
 ## Eagle EGL-2M
@@ -28,7 +28,7 @@
   - ER Medium Laser
 - **Equipment:**
   - TAG
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/937/eagle-egl-2m)
 - **Battle Value:** 800
 
 ## Eagle EGL-3M
@@ -42,6 +42,6 @@
 - **Weapons:**
   - Light PPC
   - Medium VSP Laser
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/938/eagle-egl-3m)
 - **Battle Value:** 645
 

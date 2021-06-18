@@ -14,7 +14,7 @@
   - Sword
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/940/ebony-meb-10)
 - **Battle Value:** 1020
 
 ## Ebony MEB-11
@@ -31,7 +31,7 @@
   - Plasma Rifle (ammo: 10)
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/941/ebony-meb-11)
 - **Battle Value:** 1135
 
 ## Ebony MEB-9
@@ -47,7 +47,7 @@
   - Snub-Nose PPC
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/942/ebony-meb-9)
 - **Battle Value:** 1012
 
 ## Ebony MEB-12
@@ -63,7 +63,7 @@
   - TSEMP
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6942/ebony-meb-12)
 - **Battle Value:** 1837
 
 ## Ebony MEB-13
@@ -77,6 +77,6 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - Large Re-Engineered Laser
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6943/ebony-meb-13)
 - **Battle Value:** 750
 

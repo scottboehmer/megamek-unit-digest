@@ -97,8 +97,8 @@
 
 ## 40 Tons
 
-### [Arana](../mechs/arana.md)
-- **Arana ARA-S-1 MilitiaMech** *Undefined (3087)*
+### [Araña](../mechs/araña.md)
+- **Araña ARA-S-1 MilitiaMech** *Undefined (3087)*
 
 ### [Cuirass](../mechs/cuirass.md)
 - **Cuirass CDR-1X** *Striker (3086)*

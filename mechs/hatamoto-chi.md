@@ -9,7 +9,7 @@
 - **Weapons:**
   - PPC × 2
   - SRM 6 × 2 (ammo: 15)
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1397/hatamoto-chi-htm-26t)
 - **Battle Value:** 1536
 
 ## Hatamoto-Chi HTM-27T (Daniel)
@@ -24,7 +24,7 @@
   - SRM 4 × 2 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1400/hatamoto-chi-htm-27t-daniel)
 - **Battle Value:** 1435
 
 ## Hatamoto-Chi HTM-27T
@@ -39,7 +39,7 @@
   - SRM 6 × 2 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1398/hatamoto-chi-htm-27t)
 - **Battle Value:** 1607
 
 ## Hatamoto-Chi HTM-27T (Daniel II)
@@ -55,7 +55,7 @@
 - **Equipment:**
   - CASE
   - C3 Master
-- **Source:** Starterbook: Sword and Dragon - Clan Invasion
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii)
 - **Battle Value:** 1661
 
 ## Hatamoto-Chi HTM-28T
@@ -73,7 +73,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1401/hatamoto-chi-htm-28t)
 - **Battle Value:** 2039
 
 ## Hatamoto-Chi HTM-28T (Shin)
@@ -92,7 +92,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5457/hatamoto-chi-htm-28t-shin)
 - **Battle Value:** 2213
 
 ## Hatamoto-Chi HTM-28Tr
@@ -112,6 +112,6 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1402/hatamoto-chi-htm-28tr)
 - **Battle Value:** 2034
 

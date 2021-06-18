@@ -12,7 +12,7 @@
   - Large Laser × 2
 - **Equipment:**
   - C3 Master
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2942/shugenja-sja-7d)
 - **Battle Value:** 1656
 
 ## Shugenja SJA-8H
@@ -33,6 +33,6 @@
   - A-Pod
   - CASE
   - C3 Master
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2943/shugenja-sja-8h)
 - **Battle Value:** 1691
 

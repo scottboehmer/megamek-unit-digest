@@ -15,6 +15,6 @@
   - Bloodhound Active Probe
   - Remote Sensor Dispenser
   - CASE II
-- **Source:** TRO 3145 Federated Suns - Late Republic
+- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6338/antlion-lk-3d)
 - **Battle Value:** 859
 

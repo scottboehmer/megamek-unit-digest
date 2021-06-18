@@ -12,7 +12,7 @@
   - Sword
 - **Equipment:**
   - C3i
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/1351/gurkha-gur-2g)
 - **Battle Value:** 1101
 
 ## Gurkha GUR-4G
@@ -28,7 +28,7 @@
   - Sword
 - **Equipment:**
   - C3i
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4254/gurkha-gur-4g)
 - **Battle Value:** 908
 
 ## Gurkha GUR-6G
@@ -45,6 +45,7 @@
   - Sword
 - **Equipment:**
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5663/gurkha-gur-6g)
 - **Battle Value:** 1134
 
 ## Gurkha GUR-8G
@@ -63,6 +64,6 @@
   - Retractable Blade
 - **Equipment:**
   - C3i
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5664/gurkha-gur-8g)
 - **Battle Value:** 1235
 

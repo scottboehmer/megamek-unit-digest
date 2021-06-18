@@ -10,7 +10,7 @@
   - Gauss Rifle (ammo: 16)
   - Medium Laser
   - Streak SRM 2 (ammo: 50)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1538/hollander-ii-bzk-f5)
 - **Battle Value:** 1214
 
 ## Hollander II BZK-F7
@@ -22,6 +22,6 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - Heavy Gauss Rifle (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1539/hollander-ii-bzk-f7)
 - **Battle Value:** 1192
 

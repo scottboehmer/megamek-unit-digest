@@ -9,7 +9,7 @@
 - **Weapons:**
   - Heavy PPC
   - ER Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3546/wight-wgt-1lawsc)
 - **Battle Value:** 1142
 
 ## Wight WGT-2SC
@@ -23,7 +23,7 @@
 - **Weapons:**
   - Snub-Nose PPC
   - ER Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3550/wight-wgt-2sc)
 - **Battle Value:** 1093
 
 ## Wight WGT-1LAW/SC3
@@ -38,7 +38,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3547/wight-wgt-1lawsc3)
 - **Battle Value:** 1057
 
 ## Wight WGT-4NC 'Dezgra'
@@ -56,7 +56,7 @@
   - Clan Watchdog CEWS
   - Null-Signature System
   - Chameleon LPS
-- **Source:** XTRO Phantoms - Jihad
+- **Sources:** XTRO Phantoms - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5600/wight-wgt-4nc-dezgra)
 - **Battle Value:** 1578
 
 ## Wight WGT-2LAW
@@ -70,7 +70,7 @@
 - **Weapons:**
   - Light PPC
   - ER Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3548/wight-wgt-2law)
 - **Battle Value:** 939
 
 ## Wight WGT-2LAWC3
@@ -86,7 +86,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3549/wight-wgt-2lawc3)
 - **Battle Value:** 821
 
 ## Wight WGT-3SC
@@ -99,6 +99,6 @@
 - **Weapons:**
   - Plasma Rifle (ammo: 30)
   - ER Medium Laser × 2
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3551/wight-wgt-3sc)
 - **Battle Value:** 1125
 

@@ -11,7 +11,7 @@
   - LRM 20 (ammo: 18)
   - Medium Laser × 2
   - SRM 4 × 2 (ammo: 25)
-- **Source:** XTRO Primitives I - Age of War
+- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/4769/ostwar-owr-2m)
 - **Battle Value:** 1205
 
 ## Ostwar OWR-2Mb
@@ -26,7 +26,7 @@
   - SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** Star League
+- **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2382/ostwar-owr-2mb)
 - **Battle Value:** 1638
 
 ## Ostwar OWR-3M
@@ -43,6 +43,6 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2383/ostwar-owr-3m)
 - **Battle Value:** 1557
 

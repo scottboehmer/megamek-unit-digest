@@ -11,7 +11,7 @@
   - PPC × 2
   - Large Laser
   - Medium Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2055/marauder-ii-mad-4a)
 - **Battle Value:** 2073
 
 ## Marauder II MAD-5A
@@ -28,7 +28,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2059/marauder-ii-mad-5a)
 - **Battle Value:** 2058
 
 ## Marauder II MAD-5B
@@ -43,7 +43,7 @@
   - Gauss Rifle (ammo: 24)
   - ER PPC × 2
   - Medium Laser × 2
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b)
 - **Battle Value:** 2589
 
 ## Marauder II MAD-5C
@@ -60,7 +60,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2061/marauder-ii-mad-5c)
 - **Battle Value:** 2024
 
 ## Marauder II (Bounty Hunter)
@@ -78,7 +78,7 @@
 - **Equipment:**
   - Targeting Computer
   - CASE
-- **Source:** BattleTech Dossiers: The Bounty Hunter - Civil War
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2053/marauder-ii-bounty-hunter)
 - **Battle Value:** 3767
 
 ## Marauder II MAD-4S
@@ -93,7 +93,7 @@
   - Heavy Gauss Rifle (ammo: 16)
   - ER PPC × 2
   - ER Medium Laser × 2
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s)
 - **Battle Value:** 2623
 
 ## Marauder II C
@@ -110,7 +110,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c)
 - **Battle Value:** 2916
 
 ## Marauder II MAD-4H
@@ -127,7 +127,7 @@
   - Rocket 20 × 4
   - Rocket 15 × 6
   - Rocket 10
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h)
 - **Battle Value:** 2180
 
 ## Marauder II MAD-4K
@@ -142,7 +142,7 @@
   - Gauss Rifle (ammo: 16)
   - Heavy PPC × 2
   - ER Small Laser × 2
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2057/marauder-ii-mad-4k)
 - **Battle Value:** 2626
 
 ## Marauder II MAD-5W
@@ -158,7 +158,7 @@
   - Snub-Nose PPC × 2
 - **Equipment:**
   - C3i
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2062/marauder-ii-mad-5w)
 - **Battle Value:** 2383
 
 ## Marauder II MAD-6M
@@ -175,7 +175,7 @@
   - Medium X-Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2064/marauder-ii-mad-6m)
 - **Battle Value:** 2218
 
 ## Marauder II MAD-6D
@@ -192,7 +192,7 @@
   - Light PPC × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d)
 - **Battle Value:** 2378
 
 ## Marauder II MAD-4L
@@ -208,7 +208,7 @@
   - ER PPC
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6828/marauder-ii-mad-4l)
 - **Battle Value:** 2839
 
 ## Marauder II MAD-6S
@@ -227,7 +227,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Source:** TP Irian - Dark Ages
+- **Sources:** TP Irian - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/7331/marauder-ii-mad-6s)
 - **Battle Value:** 2546
 
 ## Marauder II MAD-6A
@@ -245,6 +245,7 @@
   - Medium X-Pulse Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7520/marauder-ii-mad-6a)
 - **Battle Value:** 2367
 
 ## Marauder II MAD-6C
@@ -261,6 +262,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - Command Console
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7521/marauder-ii-mad-6c)
 - **Battle Value:** 2346
 
 ## Marauder II MAD-8K
@@ -277,6 +279,7 @@
   - Light PPC × 2
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7522/marauder-ii-mad-8k)
 - **Battle Value:** 2849
 
 ## Marauder II MAD-10D
@@ -292,5 +295,6 @@
   - Clan ER PPC × 2
   - Large Re-Engineered Laser
   - Medium X-Pulse Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7519/marauder-ii-mad-10d)
 - **Battle Value:** 2741
 

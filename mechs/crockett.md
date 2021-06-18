@@ -12,7 +12,7 @@
   - LB 10-X AC (ammo: 10 Cluster, 20 Standard)
   - SRM 6 × 2 (ammo: 30)
   - Small Laser × 2
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/725/crockett-crk-5003-1)
 - **Battle Value:** 1923
 
 ## Crockett CRK-5003-1b
@@ -28,6 +28,7 @@
   - ER Large Laser × 2
   - Medium Pulse Laser × 4
   - Medium Laser × 2
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726/crockett-crk-5003-1b)
 - **Battle Value:** 2307
 
 ## Crockett CRK-5003-0
@@ -43,7 +44,7 @@
   - AC/10 (ammo: 20)
   - SRM 6 × 2 (ammo: 30)
   - Small Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/724/crockett-crk-5003-0)
 - **Battle Value:** 1704
 
 ## Crockett CRK-5003-3
@@ -61,7 +62,7 @@
   - Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/727/crockett-crk-5003-3)
 - **Battle Value:** 1989
 
 ## Crockett CRK-5004-1
@@ -80,7 +81,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/728/crockett-crk-5004-1)
 - **Battle Value:** 1955
 
 ## Crockett CRK-5005-1
@@ -99,6 +100,6 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/729/crockett-crk-5005-1)
 - **Battle Value:** 1908
 

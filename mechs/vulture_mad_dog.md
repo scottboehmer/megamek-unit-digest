@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3473/vulture-mad-dog-prime)
 - **Battle Value:** 2351
 
 ## Mad Dog "Vulture" A
@@ -28,7 +28,7 @@
   - SRM 6 × 6 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3466/vulture-mad-dog-a)
 - **Battle Value:** 1923
 
 ## Mad Dog "Vulture" B
@@ -45,7 +45,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3467/vulture-mad-dog-b)
 - **Battle Value:** 2284
 
 ## Mad Dog "Vulture" C
@@ -59,7 +59,7 @@
   - Gauss Rifle × 2 (ammo: 32)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3468/vulture-mad-dog-c)
 - **Battle Value:** 1892
 
 ## Mad Dog "Vulture" DD
@@ -76,7 +76,7 @@
   - LB 2-X AC × 2 (ammo: 45)
 - **Equipment:**
   - CASE
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd)
 - **Battle Value:** 1970
 
 ## Mad Dog "Vulture" S
@@ -92,7 +92,7 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - Active Probe
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7593/vulture-mad-dog-s)
 - **Battle Value:** 2676
 
 ## Mad Dog "Vulture" D
@@ -109,7 +109,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3469/vulture-mad-dog-d)
 - **Battle Value:** 2447
 
 ## Mad Dog "Vulture" H
@@ -125,7 +125,7 @@
   - Heavy Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3472/vulture-mad-dog-h)
 - **Battle Value:** 2097
 
 ## Mad Dog "Vulture" E
@@ -139,7 +139,7 @@
   - HAG 30 × 2 (ammo: 8)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3470/vulture-mad-dog-e)
 - **Battle Value:** 2031
 
 ## Mad Dog "Vulture" F
@@ -154,7 +154,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3471/vulture-mad-dog-f)
 - **Battle Value:** 2300
 
 ## Mad Dog "Vulture" U
@@ -172,7 +172,7 @@
 - **Equipment:**
   - Inner Sphere HarJel × 3
   - CASE
-- **Source:** RS 3085 - Jihad
+- **Sources:** RS 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3474/vulture-mad-dog-u)
 - **Battle Value:** 2488
 
 ## Mad Dog "Vulture" G
@@ -189,7 +189,7 @@
   - ER Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NTNU - Early Republic
+- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6891/vulture-mad-dog-g)
 - **Battle Value:** 2503
 
 ## Mad Dog "Vulture" V
@@ -206,6 +206,7 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7729/vulture-mad-dog-v)
 - **Battle Value:** 1784
 
 ## Mad Dog "Vulture" T
@@ -221,7 +222,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t)
 - **Battle Value:** 2555
 
 ## Mad Dog "Vulture" I
@@ -236,6 +237,6 @@
   - RAC/2 × 2 (ammo: 90)
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7728/vulture-mad-dog-i)
 - **Battle Value:** 1852
 

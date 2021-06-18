@@ -17,7 +17,7 @@
   - ECM Suite
   - CASE
   - MASC
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3315/tundra-wolf-standard)
 - **Battle Value:** 3131
 
 ## Tundra Wolf 2
@@ -37,7 +37,7 @@
   - Targeting Computer
   - MASC
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3316/tundra-wolf-2)
 - **Battle Value:** 3626
 
 ## Tundra Wolf 3
@@ -57,7 +57,7 @@
 - **Equipment:**
   - MASC
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3)
 - **Battle Value:** 3292
 
 ## Tundra Wolf 4
@@ -77,7 +77,7 @@
   - ECM Suite
   - CASE
   - MASC
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3318/tundra-wolf-4)
 - **Battle Value:** 2873
 
 ## Tundra Wolf 5
@@ -96,6 +96,6 @@
   - ER Small Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6862/tundra-wolf-5)
 - **Battle Value:** 2645
 

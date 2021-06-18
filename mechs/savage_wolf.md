@@ -12,7 +12,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6574/mad-cat-mk-iv-savage-wolf-pr-standard)
 - **Battle Value:** 2702
 
 ## Savage Wolf PR 2 "Mad Cat Mk IV"
@@ -29,7 +29,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6575/mad-cat-mk-iv-savage-wolf-pr-2)
 - **Battle Value:** 2666
 
 ## Savage Wolf "Mad Cat Mk IV" (Prime)
@@ -45,7 +45,7 @@
   - Streak SRM 6 × 4 (ammo: 30)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6570/mad-cat-mk-iv-savage-wolf-prime)
 - **Battle Value:** 2681
 
 ## Savage Wolf "Mad Cat Mk IV" A
@@ -62,7 +62,7 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6571/mad-cat-mk-iv-savage-wolf-a)
 - **Battle Value:** 2413
 
 ## Savage Wolf "Mad Cat Mk IV" B
@@ -80,7 +80,7 @@
 - **Equipment:**
   - CASE
   - CASE II
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6572/mad-cat-mk-iv-savage-wolf-b)
 - **Battle Value:** 2606
 
 ## Savage Wolf "Mad Cat Mk IV" C
@@ -98,6 +98,6 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE II
-- **Source:** TRO 3145 Mercenaries - Dark Ages
+- **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6573/mad-cat-mk-iv-savage-wolf-c)
 - **Battle Value:** 2796
 

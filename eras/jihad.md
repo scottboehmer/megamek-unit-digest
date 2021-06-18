@@ -728,7 +728,7 @@
 - **Huntsman  E** *Skirmisher (3070)* `Active Probe`, `TAG`
 
 ### [Huron Warrior](../mechs/huron_warrior.md)
-- **Huron Warrior HUR-WO-RX4** *Skirmisher (3076)*
+- **Huron Warrior HUR-WO-R4X** *Skirmisher (3076)*
 
 ### [Jabberwocky](../mechs/jabberwocky.md)
 - **Jabberwocky JAW-66B EngineerMech** *Juggernaut (3070)*

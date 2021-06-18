@@ -12,7 +12,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2160/men-shen-ms1-o)
 - **Battle Value:** 1550
 
 ## Men Shen MS1-OA
@@ -29,7 +29,7 @@
   - Beagle Active Probe
   - MASC
   - TAG
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2161/men-shen-ms1-oa)
 - **Battle Value:** 1529
 
 ## Men Shen MS1-OB
@@ -45,7 +45,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2162/men-shen-ms1-ob)
 - **Battle Value:** 1484
 
 ## Men Shen MS1-OC
@@ -62,7 +62,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2163/men-shen-ms1-oc)
 - **Battle Value:** 1435
 
 ## Men Shen MS1-OD
@@ -79,7 +79,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2164/men-shen-ms1-od)
 - **Battle Value:** 1581
 
 ## Men Shen (Li)
@@ -95,7 +95,7 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6981/men-shen-ms1-o-li)
 - **Battle Value:** 1550
 
 ## Men Shen MS1-OE
@@ -113,7 +113,7 @@
   - Machine Gun Array × 2
   - Beagle Active Probe
   - MASC
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2165/men-shen-ms1-oe)
 - **Battle Value:** 1625
 
 ## Men Shen MS1-OF
@@ -130,7 +130,7 @@
   - MASC
   - Targeting Computer
   - TAG
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2166/men-shen-ms1-of)
 - **Battle Value:** 1648
 
 ## Men Shen MS1-OU
@@ -149,7 +149,7 @@
   - Beagle Active Probe
   - MASC
   - TAG
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2167/men-shen-ms1-ou)
 - **Battle Value:** 1725
 
 ## Men Shen MS1-OG
@@ -166,6 +166,6 @@
 - **Equipment:**
   - Beagle Active Probe
   - MASC
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6894/men-shen-ms1-og)
 - **Battle Value:** 2267
 

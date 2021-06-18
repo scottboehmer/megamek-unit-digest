@@ -15,7 +15,7 @@
   - Clan ER Small Pulse Laser × 2
 - **Equipment:**
   - Supercharger
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2581/prowler-pwr-1x)
 - **Battle Value:** 2019
 
 ## Prowler PWR-1X1
@@ -32,6 +32,6 @@
   - Clan SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Jihad
+- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2582/prowler-pwr-1x1)
 - **Battle Value:** 1922
 

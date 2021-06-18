@@ -11,7 +11,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser × 2
   - Small Laser × 2
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/548/champion-chp-1n)
 - **Battle Value:** 1233
 
 ## Champion CHP-1N2
@@ -26,7 +26,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser × 2
   - Small Laser × 2
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/549/champion-chp-1n2)
 - **Battle Value:** 1233
 
 ## Champion CHP-1Nb
@@ -39,6 +39,7 @@
 - **Weapons:**
   - Gauss Rifle (ammo: 16)
   - ER PPC
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/550/champion-chp-1nb)
 - **Battle Value:** 1632
 
 ## Champion CHP-2N
@@ -53,7 +54,7 @@
   - SRM 6 (ammo: 15)
   - Medium Laser × 2
   - Small Laser × 2
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/551/champion-chp-2n)
 - **Battle Value:** 1116
 
 ## Champion C
@@ -72,7 +73,7 @@
   - Small Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/547/champion-c)
 - **Battle Value:** 2191
 
 ## Champion CHP-3N
@@ -88,7 +89,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15)
   - Medium Laser × 2
   - Small Laser × 2
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/552/champion-chp-3n)
 - **Battle Value:** 1400
 
 ## Champion CHP-3P
@@ -105,6 +106,6 @@
 - **Equipment:**
   - CASE
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/553/champion-chp-3p)
 - **Battle Value:** 1503
 

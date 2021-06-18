@@ -12,6 +12,6 @@
 - **Weapons:**
   - Medium Pulse Laser
   - Small Pulse Laser × 2
-- **Source:** TRO3085
+- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5140/stinger-lam-mk-i-stg-a1)
 - **Battle Value:** 846
 

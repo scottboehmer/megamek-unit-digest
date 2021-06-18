@@ -14,5 +14,6 @@
 - **Equipment:**
   - MASC
   - Targeting Computer
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7523/cricket-rwn-01)
 - **Battle Value:** 1169
 

@@ -9,7 +9,7 @@
 - **Weapons:**
   - PPC
   - SRM 6 (ammo: 15)
-- **Source:** TRO 3039 - Age of War
+- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2837/scorpion-scp-1n)
 - **Battle Value:** 1019
 
 ## Scorpion SCP-1N (Wendall)
@@ -22,7 +22,7 @@
 - **Weapons:**
   - Large Laser
   - SRM 6 (ammo: 15)
-- **Source:** TRO 3039
+- **Sources:** TRO 3039, [Master Unit List](http://masterunitlist.info/Unit/Details/2838/scorpion-scp-1n-wendall)
 - **Battle Value:** 1043
 
 ## Scorpion SCP-1O
@@ -35,7 +35,7 @@
 - **Weapons:**
   - ER PPC
   - SRM 6 (ammo: 15)
-- **Source:** Clan Invasion
+- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o)
 - **Battle Value:** 1098
 
 ## Scorpion SCP-12S
@@ -50,7 +50,7 @@
   - SRM 6 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2836/scorpion-scp-12s)
 - **Battle Value:** 1109
 
 ## Scorpion SCP-12C
@@ -66,7 +66,7 @@
   - ER Small Laser
 - **Equipment:**
   - C3i
-- **Source:** Civil War
+- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2834/scorpion-scp-12c)
 - **Battle Value:** 1259
 
 ## Scorpion SCP-12K
@@ -82,7 +82,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3 Master
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k)
 - **Battle Value:** 1260
 
 ## Scorpion SCP-1TB
@@ -97,7 +97,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM)
 - **Equipment:**
   - MASC
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb)
 - **Battle Value:** 1185
 
 ## Scorpion SCP-10M
@@ -111,6 +111,6 @@
 - **Weapons:**
   - Heavy PPC
   - LRM 10 (ammo: 12)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m)
 - **Battle Value:** 1458
 

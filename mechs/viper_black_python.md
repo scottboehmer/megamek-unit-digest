@@ -15,7 +15,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3432/viper-black-python-standard)
 - **Battle Value:** 2813
 
 ## Black Python 2 "Viper"
@@ -35,7 +35,7 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3433/viper-black-python-2)
 - **Battle Value:** 2520
 
 ## Black Python 5 "Viper"
@@ -52,7 +52,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** ilClan Vol 12 - Clan Invasion
+- **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7792/viper-black-python-5)
 - **Battle Value:** 2925
 
 ## Black Python 3 "Viper"
@@ -71,7 +71,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3434/viper-black-python-3)
 - **Battle Value:** 2421
 
 ## Black Python 4 "Viper"
@@ -89,6 +89,6 @@
   - Small Pulse Laser × 4
 - **Equipment:**
   - Targeting Computer
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3435/viper-black-python-4)
 - **Battle Value:** 2594
 

@@ -488,11 +488,11 @@
 - **Annihilator ANH-1X** *Juggernaut (2779)*
 
 ### [Atlas](../mechs/atlas.md)
-- **Atlas AS7-D-HT** *Undefined (2750)*
 - **Atlas AS7-D** *Juggernaut (2755)*
 - **Atlas AS7-D-DC** *Juggernaut (2776)* `Command Console`
 
 ### [Atlas II](../mechs/atlas_ii.md)
+- **Atlas II AS7-D-HT** *Undefined (2750)*
 - **Atlas II AS7-D-H** *Juggernaut (2765)*
 - **Atlas II AS7-D-H2** *Juggernaut (2780)*
 

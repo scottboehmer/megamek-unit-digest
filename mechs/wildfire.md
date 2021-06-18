@@ -15,6 +15,6 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Source:** Unbound - Clan Invasion
+- **Sources:** Unbound - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5409/wildfire-p1-wf)
 - **Battle Value:** 1292
 

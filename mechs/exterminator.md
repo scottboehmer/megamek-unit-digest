@@ -15,7 +15,7 @@
   - Anti-Missile System (ammo: 12)
   - Chameleon LPS
   - Null-Signature System
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4148/exterminator-ext-4c)
 - **Battle Value:** 1420
 
 ## Exterminator EXT-4D
@@ -32,7 +32,7 @@
   - Small Laser
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3050 - Star League
+- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1004/exterminator-ext-4d)
 - **Battle Value:** 1385
 
 ## Exterminator EXT-4Db
@@ -47,6 +47,7 @@
   - ER Large Laser
   - Medium Laser × 6
   - Small Laser
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1005/exterminator-ext-4db)
 - **Battle Value:** 1694
 
 ## Exterminator EXT-4DX (Caine)
@@ -63,7 +64,7 @@
   - Anti-Missile System (ammo: 12)
   - MASC
   - Supercharger
-- **Source:** XTRO Gunslingers - Star League
+- **Sources:** XTRO Gunslingers - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7321/exterminator-ext-4dx)
 - **Battle Value:** 1794
 
 ## Exterminator EXT-4Db-EC
@@ -78,7 +79,7 @@
   - Inner Sphere ER Large Laser
   - Prototype ER Medium Laser × 4
   - Inner Sphere Small Laser
-- **Source:** Succession Wars
+- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7682/exterminator-ext-4db-ec)
 - **Battle Value:** 1611
 
 ## Exterminator EXT-4A
@@ -94,7 +95,7 @@
   - Medium Laser × 4
   - Small Laser
   - Machine Gun (ammo: 200)
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4147/exterminator-ext-4a)
 - **Battle Value:** 1372
 
 ## Exterminator EXT-5E
@@ -110,7 +111,7 @@
 - **Equipment:**
   - MASC
   - C3i
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1006/exterminator-ext-5e)
 - **Battle Value:** 1532
 
 ## Exterminator EXT-5F
@@ -127,7 +128,7 @@
 - **Equipment:**
   - MASC
   - C3i
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1007/exterminator-ext-5f)
 - **Battle Value:** 1485
 
 ## Exterminator EXT-6CS
@@ -145,7 +146,7 @@
   - Chameleon LPS
   - Null-Signature System
   - CASE II
-- **Source:** XTRO ComStar - Jihad
+- **Sources:** XTRO ComStar - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5551/exterminator-ext-6cs)
 - **Battle Value:** 1592
 
 ## Exterminator EXT-7X
@@ -165,6 +166,6 @@
   - Laser Anti-Missile System
   - Coolant Pod
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8161/exterminator-ext-7x)
 - **Battle Value:** 1674
 

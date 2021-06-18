@@ -9,6 +9,6 @@
 - **Weapons:**
   - Improved Heavy Gauss Rifle (ammo: 12)
   - Heavy PPC
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8170/lightning-lhn-c5)
 - **Battle Value:** 2024
 

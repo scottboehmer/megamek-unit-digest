@@ -12,7 +12,7 @@
   - MRM 20 (ammo: 24)
   - ER Medium Laser
   - Machine Gun (ammo: 100)
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3950/chimera-cma-1s)
 - **Battle Value:** 1173
 
 ## Chimera CMA-C
@@ -29,7 +29,7 @@
   - ER Medium Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3951/chimera-cma-c)
 - **Battle Value:** 1182
 
 ## Chimera CMA-2K
@@ -50,6 +50,6 @@
   - Small Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5667/chimera-cma-2k)
 - **Battle Value:** 1528
 

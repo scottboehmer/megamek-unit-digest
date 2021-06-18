@@ -15,7 +15,7 @@
   - Micro Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2319/onager-standard)
 - **Battle Value:** 2732
 
 ## Onager 2
@@ -35,6 +35,6 @@
 - **Equipment:**
   - CASE
   - HarJel II × 3
-- **Source:** RS 3145 NT NU
+- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6847/onager-2)
 - **Battle Value:** 2847
 

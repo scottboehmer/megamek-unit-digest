@@ -12,7 +12,7 @@
   - LRM 5 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3214/thunder-thr-1l)
 - **Battle Value:** 1471
 
 ## Thunder THR-2L
@@ -31,7 +31,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3215/thunder-thr-2l)
 - **Battle Value:** 1951
 
 ## Thunder THR-3L
@@ -49,7 +49,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3216/thunder-thr-3l)
 - **Battle Value:** 1904
 
 ## Thunder THR-C4
@@ -66,5 +66,6 @@
   - ER Medium Laser × 3
 - **Equipment:**
   - CASE II
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230/thunder-thr-c4)
 - **Battle Value:** 2028
 

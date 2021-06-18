@@ -12,7 +12,7 @@
   - Mining Drill
 - **Equipment:**
   - Lift Hoist
-- **Source:** RS VA - Star League
+- **Sources:** RS VA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4078/dig-king-rcl-1-miningmech)
 - **Battle Value:** unknown
 
 ## Dig King RCL-1 MiningMech MOD
@@ -26,6 +26,6 @@
   - SRM 4 × 2 (ammo: 25)
   - Machine Gun × 2 (ammo: 100)
   - Rock-Cutter
-- **Source:** RS VA - Early Succession War
+- **Sources:** RS VA - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7172/dig-king-rcl-1m-miningmech-mod)
 - **Battle Value:** unknown
 

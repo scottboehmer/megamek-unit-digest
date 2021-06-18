@@ -10,7 +10,7 @@
 - **Weapons:**
   - LRM 10 (ammo: 12)
   - Medium Laser × 2
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/935/duan-gung-d9-g9)
 - **Battle Value:** 737
 
 ## Duan Gung (Vaughn)
@@ -24,7 +24,7 @@
 - **Weapons:**
   - ER Medium Laser × 2
   - LRM 5 × 2 (ammo: 24)
-- **Source:** BattleTech Dossiers: Youling Zhanshi - Jihad
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6979/duan-gung-vaughn)
 - **Battle Value:** 851
 
 ## Duan Gung D9-G10
@@ -41,6 +41,6 @@
   - ER Small Laser
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3060
+- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/934/duan-gung-d9-g10)
 - **Battle Value:** 886
 

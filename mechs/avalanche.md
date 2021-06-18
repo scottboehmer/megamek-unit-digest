@@ -12,7 +12,7 @@
   - ER Medium Laser × 4
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Draconis Combine - Dark Ages
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6396/avalanche-avl-1o)
 - **Battle Value:** 1540
 
 ## Avalanche AVL-1OA
@@ -29,7 +29,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Draconis Combine - Dark Ages
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6397/avalanche-avl-1oa)
 - **Battle Value:** 1484
 
 ## Avalanche AVL-1OB
@@ -46,7 +46,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Draconis Combine - Dark Ages
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6398/avalanche-avl-1ob)
 - **Battle Value:** 1529
 
 ## Avalanche AVL-1OC
@@ -63,7 +63,7 @@
   - Small X-Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Draconis Combine - Dark Ages
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6399/avalanche-avl-1oc)
 - **Battle Value:** 1341
 
 ## Avalanche AVL-1ON
@@ -80,7 +80,7 @@
 - **Equipment:**
   - CASE
   - Clan Targeting Computer
-- **Source:** TRO 3145 Draconis Combine - Dark Ages
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6400/avalanche-avl-1on)
 - **Battle Value:** 1873
 
 ## Avalanche AVL-1OR
@@ -97,6 +97,6 @@
   - Clan ATM 3 × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** TRO 3145 Draconis Combine - Dark Ages
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6401/avalanche-avl-1or)
 - **Battle Value:** 2043
 

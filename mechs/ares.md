@@ -19,7 +19,7 @@
   - A-Pod × 6
   - CASE II
   - Targeting Computer
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6685/ares-ars-v1-zeus)
 - **Battle Value:** 3247
 
 ## Ares ARS-V1A Hera
@@ -41,7 +41,7 @@
 - **Equipment:**
   - A-Pod × 6
   - CASE II
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6686/ares-ars-v1a-hera)
 - **Battle Value:** 2944
 
 ## Ares ARS-V1B Hades
@@ -64,7 +64,7 @@
 - **Equipment:**
   - A-Pod × 6
   - CASE II
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6687/ares-ars-v1b-hades)
 - **Battle Value:** 2839
 
 ## Ares ARS-V1C Aphrodite
@@ -88,7 +88,7 @@
   - A-Pod × 6
   - CASE II
   - C3 Master × 2
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6688/ares-ars-v1c-aphrodite)
 - **Battle Value:** 2903
 
 ## Ares ARS-V1D Hephaestus
@@ -113,6 +113,6 @@
   - CASE II
   - C3 Slave
   - Radical Heat Sink System
-- **Source:** TRO 3145 Republic of the Sphere - Dark Ages
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6689/ares-ars-v1d-hephaestus)
 - **Battle Value:** 2960
 

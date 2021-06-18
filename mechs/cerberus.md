@@ -12,7 +12,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/528/cerberus-mr-v2)
 - **Battle Value:** 2001
 
 ## Cerberus MR-5M
@@ -29,7 +29,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/526/cerberus-mr-5m)
 - **Battle Value:** 2057
 
 ## Cerberus MR-V3
@@ -44,7 +44,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/529/cerberus-mr-v3)
 - **Battle Value:** 2094
 
 ## Cerberus MR-6B
@@ -62,6 +62,6 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - C3i
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/527/cerberus-mr-6b)
 - **Battle Value:** 2128
 

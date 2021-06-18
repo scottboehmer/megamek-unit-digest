@@ -10,7 +10,7 @@
   - AC/20 (ammo: 10)
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1552/hunchback-hbk-4g)
 - **Battle Value:** 1041
 
 ## Hunchback HBK-4H
@@ -24,7 +24,7 @@
   - AC/10 (ammo: 20)
   - Medium Laser × 4
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1555/hunchback-hbk-4h)
 - **Battle Value:** 1067
 
 ## Hunchback HBK-4J
@@ -38,7 +38,7 @@
   - LRM 10 × 2 (ammo: 24)
   - Medium Laser × 5
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1556/hunchback-hbk-4j)
 - **Battle Value:** 1143
 
 ## Hunchback HBK-4N
@@ -53,7 +53,7 @@
   - Medium Laser × 4
   - LRM 5 × 2 (ammo: 24)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1557/hunchback-hbk-4n)
 - **Battle Value:** 1087
 
 ## Hunchback HBK-4P
@@ -66,7 +66,7 @@
 - **Weapons:**
   - Medium Laser × 8
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1558/hunchback-hbk-4p)
 - **Battle Value:** 1138
 
 ## Hunchback HBK-4SP
@@ -80,7 +80,7 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Laser × 4
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1559/hunchback-hbk-4sp)
 - **Battle Value:** 1043
 
 ## Hunchback HBK-4G (Shakir)
@@ -94,7 +94,7 @@
   - AC/10 (ammo: 20)
   - Prototype Medium Pulse Laser × 2
   - Small Laser
-- **Source:** Starterbook: Sword and Dragon - Succession Wars
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1554/hunchback-hbk-4g-shakir)
 - **Battle Value:** 952
 
 ## Hunchback HBK-5M
@@ -110,7 +110,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Succession Wars
+- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1561/hunchback-hbk-5m)
 - **Battle Value:** 1056
 
 ## Hunchback HBK-4G (Hohiro)
@@ -126,7 +126,7 @@
   - ER Small Laser
 - **Equipment:**
   - C3 Slave
-- **Source:** Starterbook: Sword and Dragon - Clan Invasion
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro)
 - **Battle Value:** 1126
 
 ## Hunchback HBK-5N
@@ -140,7 +140,7 @@
   - AC/20 (ammo: 10)
   - Medium Laser × 2
   - Small Laser
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1562/hunchback-hbk-5n)
 - **Battle Value:** 1041
 
 ## Hunchback HBK-5S
@@ -157,7 +157,7 @@
   - Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1564/hunchback-hbk-5s)
 - **Battle Value:** 1350
 
 ## Hunchback HBK-6N
@@ -173,7 +173,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4337/hunchback-hbk-6n)
 - **Battle Value:** 1130
 
 ## Hunchback HBK-6S
@@ -187,7 +187,7 @@
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
   - ER Medium Laser × 2
   - SRM 6 (ammo: 15)
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5447/hunchback-hbk-6s)
 - **Battle Value:** 1380
 
 ## Hunchback HBK-5H
@@ -203,7 +203,7 @@
   - Rocket 20 × 3
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1560/hunchback-hbk-5h)
 - **Battle Value:** 1097
 
 ## Hunchback HBK-7X-4
@@ -221,7 +221,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE II
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1567/hunchback-hbk-7x-4)
 - **Battle Value:** 1208
 
 ## Hunchback HBK-5SG
@@ -238,7 +238,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - Guardian ECM Suite
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1565/hunchback-hbk-5sg)
 - **Battle Value:** 1577
 
 ## Hunchback HBK-5SS
@@ -256,7 +256,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1566/hunchback-hbk-5ss)
 - **Battle Value:** 1295
 
 ## Hunchback HBK-5P
@@ -272,7 +272,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - C3 Slave
-- **Source:** TRO 3050 - Jihad
+- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1563/hunchback-hbk-5p)
 - **Battle Value:** 1340
 
 ## Hunchback HBK-7R
@@ -289,6 +289,7 @@
   - Guardian ECM Suite
   - CASE II
   - TAG
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338/hunchback-hbk-7r)
 - **Battle Value:** 1248
 
 ## Hunchback HBK-LGN-Pin 'Anastasia'
@@ -336,6 +337,6 @@
   - Bloodhound Active Probe
   - Supercharger
   - TAG
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7346/hunchback-hbk-7s)
 - **Battle Value:** 1628
 

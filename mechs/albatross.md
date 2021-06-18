@@ -15,7 +15,7 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Clan Invasion
+- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/27/albatross-alb-3u)
 - **Battle Value:** 1668
 
 ## Albatross ALB-4U
@@ -34,7 +34,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Source:** TRO 3055 - Civil War
+- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/29/albatross-alb-4u)
 - **Battle Value:** 1907
 
 ## Albatross ALB-5W (Dantalion)
@@ -56,6 +56,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - Laser Anti-Missile System
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/30/albatross-alb-5w-dantalion)
 - **Battle Value:** 2296
 
 ## Albatross ALB-3Ur
@@ -73,6 +74,6 @@
   - Medium Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur)
 - **Battle Value:** 1902
 

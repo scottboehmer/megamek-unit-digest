@@ -17,7 +17,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2869/seraph-c-srp-o-invictus)
 - **Battle Value:** 1807
 
 ## Seraph C-SRP-OA Dominus
@@ -40,7 +40,7 @@
   - C3i
   - TAG
   - Targeting Computer
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2870/seraph-c-srp-oa-dominus)
 - **Battle Value:** 2355
 
 ## Seraph C-SRP-OB Infernus
@@ -61,7 +61,7 @@
   - C3i
   - Targeting Computer
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2871/seraph-c-srp-ob-infernus)
 - **Battle Value:** 2181
 
 ## Seraph C-SRP-OC Comminus
@@ -83,7 +83,7 @@
   - Guardian ECM Suite
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2872/seraph-c-srp-oc-comminus)
 - **Battle Value:** 2136
 
 ## Seraph C-SRP-OD Luminos
@@ -104,7 +104,7 @@
   - Flamer
 - **Equipment:**
   - C3i
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2873/seraph-c-srp-od-luminos)
 - **Battle Value:** 2291
 
 ## Seraph C-SRP-O (Havalah)
@@ -125,7 +125,7 @@
   - C3i
   - Targeting Computer
   - CASE
-- **Source:** Starterbook: Wolf & Blake - Jihad
+- **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2868/seraph-c-srp-o-havalah)
 - **Battle Value:** 1927
 
 ## Seraph C-SRP-OE Eminus
@@ -143,7 +143,7 @@
 - **Equipment:**
   - C3i
   - CASE
-- **Source:** TRO 3075
+- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2874/seraph-c-srp-oe-eminus)
 - **Battle Value:** 2148
 
 ## Seraph C-SRP-OR (Ravana)
@@ -164,6 +164,7 @@
   - Laser Anti-Missile System
   - C3i
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2875/seraph-c-srp-or-ravana)
 - **Battle Value:** 1954
 
 ## Seraph C-SRP-OS Caelestis
@@ -182,5 +183,6 @@
   - Clan Medium Pulse Laser × 2
 - **Equipment:**
   - C3i
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2876/seraph-c-srp-os-caelestis)
 - **Battle Value:** 2788
 

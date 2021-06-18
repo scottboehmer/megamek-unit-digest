@@ -14,7 +14,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard)
 - **Battle Value:** 1715
 
 ## Lobo 2
@@ -31,7 +31,7 @@
   - AP Gauss Rifle × 2 (ammo: 40)
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5668/lobo-2)
 - **Battle Value:** 1869
 
 ## Lobo 3
@@ -50,6 +50,6 @@
 - **Equipment:**
   - Machine Gun Array × 2
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5669/lobo-3)
 - **Battle Value:** 1784
 

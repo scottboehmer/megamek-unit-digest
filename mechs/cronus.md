@@ -11,6 +11,7 @@
   - Large Laser
   - Medium Laser × 3
   - SRM 4 (ammo: 25)
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4020/cronus-cns-3m)
 - **Battle Value:** 1339
 
 ## Cronus CNS-5M
@@ -29,7 +30,7 @@
 - **Equipment:**
   - CASE
   - C3 Slave
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4021/cronus-cns-5m)
 - **Battle Value:** 1579
 
 ## Cronus CNS-TD9
@@ -49,6 +50,6 @@
   - MASC
   - Targeting Computer
   - C3i
-- **Source:** TRO3067U
+- **Sources:** TRO3067U, [Master Unit List](http://masterunitlist.info/Unit/Details/5680/cronus-cns-td9)
 - **Battle Value:** 978
 

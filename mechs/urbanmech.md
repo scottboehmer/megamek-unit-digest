@@ -10,7 +10,7 @@
 - **Weapons:**
   - AC/10 (ammo: 10)
   - Small Laser
-- **Source:** TRO 3039 - Star League
+- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3354/urbanmech-um-r60)
 - **Battle Value:** 504
 
 ## UrbanMech UM-R60L
@@ -24,7 +24,7 @@
 - **Weapons:**
   - AC/20 (ammo: 5)
   - Small Laser
-- **Source:** TRO 3039 - Succession Wars
+- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3355/urbanmech-um-r60l)
 - **Battle Value:** 470
 
 ## UrbanMech UM-R63
@@ -39,7 +39,7 @@
   - LB 10-X AC (ammo: 10)
   - Small Pulse Laser
   - Small Laser
-- **Source:** TRO 3050 - Clan Invasion
+- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3356/urbanmech-um-r63)
 - **Battle Value:** 540
 
 ## UrbanMech UM-R69
@@ -54,7 +54,7 @@
   - Ultra AC/10 (ammo: 10)
   - ER Small Laser
   - Small Pulse Laser
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3358/urbanmech-um-r69)
 - **Battle Value:** 589
 
 ## UrbanMech UM-R68
@@ -69,7 +69,7 @@
   - MRM 30 (ammo: 16)
   - Small Pulse Laser
   - Small Laser
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3357/urbanmech-um-r68)
 - **Battle Value:** 561
 
 ## UrbanMech UM-R70
@@ -84,7 +84,7 @@
   - RAC/5 (ammo: 40)
   - ER Medium Laser
   - ER Small Laser
-- **Source:** TRO 3050 - Civil War
+- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3359/urbanmech-um-r70)
 - **Battle Value:** 724
 
 ## UrbanMech UM-AIV
@@ -100,7 +100,7 @@
 - **Weapons:**
   - Arrow IV (ammo: 10)
   - ER Medium Laser
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3353/urbanmech-um-aiv)
 - **Battle Value:** 603
 
 ## UrbanMech UM-R80
@@ -119,7 +119,7 @@
   - Guardian ECM Suite
   - Beagle Active Probe
   - TAG
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3360/urbanmech-um-r80)
 - **Battle Value:** 699
 
 ## UrbanMech UM-R93
@@ -134,7 +134,7 @@
   - Plasma Rifle (ammo: 10)
   - ER Medium Laser
   - ER Small Laser
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7344/urbanmech-um-r93)
 - **Battle Value:** 894
 
 ## UrbanMech UM-R96
@@ -148,6 +148,6 @@
 - **Weapons:**
   - Snub-Nose PPC
   - Small X-Pulse Laser
-- **Source:** XTRO Republic II - Late Republic
+- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7453/urbanmech-um-r96)
 - **Battle Value:** 773
 

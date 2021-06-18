@@ -13,6 +13,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965/lupus-prime)
 - **Battle Value:** 2428
 
 ## Lupus A
@@ -28,6 +29,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1963/lupus-a)
 - **Battle Value:** 1927
 
 ## Lupus B
@@ -44,6 +46,7 @@
   - ER Small Laser × 2
 - **Equipment:**
   - CASE
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1964/lupus-b)
 - **Battle Value:** 1985
 
 ## Lupus C
@@ -60,7 +63,7 @@
   - Inner Sphere Coolant Pod
   - Targeting Computer
   - Supercharger
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c)
 - **Battle Value:** 2533
 
 ## Lupus D
@@ -76,6 +79,6 @@
   - ER Medium Pulse Laser × 2
 - **Equipment:**
   - CASE
-- **Source:** Dark Age
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d)
 - **Battle Value:** 2030
 

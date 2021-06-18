@@ -8,6 +8,6 @@
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
   - Heavy Gauss Rifle (ammo: 4)
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/8100/gauss-buster-millitiamech)
 - **Battle Value:** 675
 

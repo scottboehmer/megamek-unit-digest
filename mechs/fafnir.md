@@ -13,7 +13,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4152/fafnir-fnr-5)
 - **Battle Value:** 2636
 
 ## Fafnir FNR-5B
@@ -31,7 +31,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** TRO 3067
+- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4153/fafnir-fnr-5b)
 - **Battle Value:** 2625
 
 ## Fafnir FNR-4A (Peter)
@@ -51,6 +51,7 @@
   - Guardian ECM Suite
   - CASE
   - C3 Slave
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1020/fafnir-fnr-4a-peter)
 - **Battle Value:** 2458
 
 ## Fafnir FNR-5WB
@@ -65,7 +66,7 @@
   - ER Medium Laser × 2
 - **Equipment:**
   - C3i
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5719/fafnir-fnr-5wb)
 - **Battle Value:** 2449
 
 ## Fafnir FNR-5X
@@ -81,7 +82,7 @@
 - **Equipment:**
   - Guardian ECM Suite
   - CASE
-- **Source:** Jihad
+- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1021/fafnir-fnr-5x)
 - **Battle Value:** 2610
 
 ## Fafnir FNR-6U
@@ -96,6 +97,6 @@
   - Light PPC × 4
 - **Equipment:**
   - CASE
-- **Source:** 3067 Unabridged
+- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5720/fafnir-fnr-6u)
 - **Battle Value:** 2234
 
