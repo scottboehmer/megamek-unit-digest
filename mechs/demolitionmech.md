@@ -14,7 +14,7 @@
 - **Equipment:**
   - Cargo
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/868/demolitionmech-wi-dm)
-- **Battle Value:** unknown
+- **Battle Value:** 380
 
 ## DemolitionMech WI-DM2
 - **Role:** Juggernaut
@@ -24,12 +24,12 @@
 - **Armor:** 75 (Industrial)
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Wrecking Ball
   - Dual Saw
+  - Wrecking Ball
 - **Equipment:**
   - Cargo
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/869/demolitionmech-wi-dm2)
-- **Battle Value:** unknown
+- **Battle Value:** 350
 
 ## DemolitionMech WI-DMM MOD
 - **Role:** Ambusher

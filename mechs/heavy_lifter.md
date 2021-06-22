@@ -10,11 +10,11 @@
 - **Heat Sinks:** 10 (10)
 - **Equipment:**
   - Searchlight × 4
+  - Enviro-Sealing
   - Lift Hoist × 2
   - Cargo × 2
-  - Enviro-Sealing
 - **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/4274/heavy-lifter-hcl-1-cargomech)
-- **Battle Value:** unknown
+- **Battle Value:** 658
 
 ## Heavy Lifter HCL-1MM MilitiaMech
 - **Role:** Brawler
@@ -32,7 +32,7 @@
   - Searchlight × 4
   - Enviro-Sealing
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/7870/heavy-lifter-hcl-1mm-militiamech)
-- **Battle Value:** unknown
+- **Battle Value:** 981
 
 ## Heavy Lifter HCL-1M CargoMech MOD
 - **Role:** Brawler
@@ -49,5 +49,5 @@
   - Searchlight × 4
   - Enviro-Sealing
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7869/heavy-lifter-hcl-1m-cargomech-mod)
-- **Battle Value:** unknown
+- **Battle Value:** 905
 

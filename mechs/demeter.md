@@ -26,5 +26,5 @@
   - Combine
   - Vehicle Flamer (ammo: 20)
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7856/demeter-wld-1-m-agromech-mod)
-- **Battle Value:** unknown
+- **Battle Value:** 332
 

@@ -10,12 +10,12 @@
 - **Weapons:**
   - Spot Welder
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Lift Hoist
   - Tracks
-  - Enviro-Sealing
 - **Sources:** RS 3075 Unabrided, [Master Unit List](http://masterunitlist.info/Unit/Details/4383/jabberwocky-jaw-65a-engineermech)
-- **Battle Value:** unknown
+- **Battle Value:** 250
 
 ## Jabberwocky JAW-66B EngineerMech
 - **Role:** Juggernaut
@@ -30,13 +30,13 @@
 - **Weapons:**
   - Spot Welder
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Lift Hoist × 2
   - Searchlight
   - Tracks
-  - Enviro-Sealing
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1650/jabberwocky-jaw-66b-engineermech)
-- **Battle Value:** unknown
+- **Battle Value:** 341
 
 ## Jabberwocky JAW-66C DemolitionMech
 - **Role:** Juggernaut
@@ -51,13 +51,13 @@
 - **Weapons:**
   - Rock-Cutter
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Searchlight
   - Lift Hoist
   - Tracks
-  - Enviro-Sealing
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1651/jabberwocky-jaw-66c-demolitionmech)
-- **Battle Value:** unknown
+- **Battle Value:** 342
 
 ## Jabberwocky JAW-66D ConstructionMech
 - **Role:** Juggernaut
@@ -73,14 +73,14 @@
   - Spot Welder
   - Nail/Rivet Gun × 2 (ammo: 300)
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Searchlight
   - Cargo
   - Lift Hoist
   - Tracks
-  - Enviro-Sealing
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1652/jabberwocky-jaw-66d-constructionmech)
-- **Battle Value:** unknown
+- **Battle Value:** 343
 
 ## Jabberwocky JAW-67 MilitiaMech
 - **Role:** Brawler
@@ -96,8 +96,8 @@
   - Medium Laser × 2
   - LRM 5 (ammo: 24)
 - **Equipment:**
-  - Searchlight
   - Enviro-Sealing
+  - Searchlight
 - **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7176/jabberwocky-jaw-67-militiamech)
-- **Battle Value:** unknown
+- **Battle Value:** 897
 

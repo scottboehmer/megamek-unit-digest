@@ -39,12 +39,12 @@
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
   - Beagle Active Probe
+  - Enviro-Sealing
   - Liquid Cargo
   - Searchlight
   - Mech Sprayer
-  - Enviro-Sealing
 - **Sources:** TRO VA - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4843/pompier-gm-3cd-firemech)
-- **Battle Value:** unknown
+- **Battle Value:** 118
 
 ## Pompier GM-FL FireMech
 - **Role:** Ambusher
@@ -76,5 +76,5 @@
 - **Equipment:**
   - Ejection Seat
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7837/pompier-gm-4p-policemech)
-- **Battle Value:** unknown
+- **Battle Value:** 148
 

@@ -19,7 +19,7 @@
   - Ejection Seat
   - Tracks
 - **Sources:** TRO 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/901/diomede-d-m3d-3-constructionmech)
-- **Battle Value:** unknown
+- **Battle Value:** 1227
 
 ## Diomede D-M3D-4 DemolitionMech
 - **Role:** Missile Boat
@@ -30,8 +30,8 @@
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
   - MML 7 × 2 (ammo: 34 LRM, 28 SRM)
-  - Spot Welder
   - Dual Saw
+  - Spot Welder
   - Nail/Rivet Gun × 2 (ammo: 600)
 - **Equipment:**
   - Mech Sprayer × 3
@@ -42,7 +42,7 @@
   - Ejection Seat
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/902/diomede-d-m3d-4-demolitionmech)
-- **Battle Value:** unknown
+- **Battle Value:** 1234
 
 ## Diomede D-M3D-M
 - **Role:** Juggernaut

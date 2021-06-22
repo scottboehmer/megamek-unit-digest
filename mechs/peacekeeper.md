@@ -11,10 +11,10 @@
   - SRM 2 (ammo: 50)
   - Machine Gun (ammo: 100)
 - **Equipment:**
-  - Searchlight
   - Enviro-Sealing
+  - Searchlight
 - **Sources:** RS VA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7159/peacekeeper-pk-6-securitymech)
-- **Battle Value:** unknown
+- **Battle Value:** 422
 
 ## Peacekeeper PKP-1A
 - **Role:** Sniper

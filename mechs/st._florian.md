@@ -9,10 +9,10 @@
 - **Weapons:**
   - Fluid Gun × 8 (ammo: 260)
 - **Equipment:**
-  - Searchlight × 2
   - Enviro-Sealing
+  - Searchlight × 2
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5118/st-florian-fln-366-firemech)
-- **Battle Value:** unknown
+- **Battle Value:** 833
 
 ## St. Florian FLN-366-M FireMech MOD
 - **Role:** Juggernaut
@@ -25,9 +25,9 @@
   - Plasma Rifle × 2 (ammo: 40)
   - Heavy Flamer × 4 (ammo: 40)
 - **Equipment:**
+  - Enviro-Sealing
   - Coolant Pod × 3
   - Searchlight × 2
-  - Enviro-Sealing
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7826/st-florian-fln-366-m-firemech-mod)
-- **Battle Value:** unknown
+- **Battle Value:** 1266
 

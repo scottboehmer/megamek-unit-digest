@@ -60,7 +60,7 @@
 - **Equipment:**
   - Cargo × 2
 - **Source:** RS IA - Early Succession War
-- **Battle Value:** unknown
+- **Battle Value:** 244
 
 ## Crosscut ED-X2 (Flamer)
 - **Role:** Ambusher
@@ -75,7 +75,7 @@
 - **Equipment:**
   - Cargo × 2
 - **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7167/crosscut-ed-x2m-loggermech-mod-ed-x2-flamer)
-- **Battle Value:** unknown
+- **Battle Value:** 168
 
 ## Crosscut ED-X2 (RL)
 - **Role:** Ambusher
@@ -133,7 +133,7 @@
 - **Equipment:**
   - Lift Hoist
 - **Sources:** RS IA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/4025/crosscut-ed-x4d-demolitionmech)
-- **Battle Value:** unknown
+- **Battle Value:** 225
 
 ## Crosscut ED-X4B DemolitionMech
 - **Role:** Undefined
@@ -207,7 +207,7 @@
   - Snub-Nose PPC
   - Dual Saw
 - **Sources:** RS VA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7171/crosscut-ed-x5m-b-demolitionmech-mod)
-- **Battle Value:** unknown
+- **Battle Value:** 460
 
 ## Crosscut ED-X4M-A LoggerMech MOD
 - **Role:** Sniper

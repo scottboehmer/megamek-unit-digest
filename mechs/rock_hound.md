@@ -14,7 +14,7 @@
   - Searchlight
   - Ejection Seat
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4926/rock-hound-am-prm-rh7-prospectormech)
-- **Battle Value:** unknown
+- **Battle Value:** 523
 
 ## Rock Hound AM-PRM-RH7A 'Rock Otter' ProspectorMech
 - **Role:** Undefined
@@ -28,10 +28,10 @@
   - Mining Drill
 - **Equipment:**
   - Lift Hoist
-  - Searchlight
   - Enviro-Sealing
+  - Searchlight
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4927/rock-hound-am-prm-rh7a-rock-otter-prospectormech)
-- **Battle Value:** unknown
+- **Battle Value:** 455
 
 ## Rock Hound AM-PRM-RH7C 'Rock Possum' ProspectorMech
 - **Role:** Undefined
@@ -49,5 +49,5 @@
   - Searchlight
   - Ejection Seat
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4928/rock-hound-am-prm-rh7c-rock-possum-prospectormech)
-- **Battle Value:** unknown
+- **Battle Value:** 479
 

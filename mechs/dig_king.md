@@ -8,12 +8,12 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Rock-Cutter
   - Mining Drill
+  - Rock-Cutter
 - **Equipment:**
   - Lift Hoist
 - **Sources:** RS VA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4078/dig-king-rcl-1-miningmech)
-- **Battle Value:** unknown
+- **Battle Value:** 409
 
 ## Dig King RCL-1 MiningMech MOD
 - **Role:** Brawler
@@ -24,8 +24,8 @@
 - **Heat Sinks:** 2 (2)
 - **Weapons:**
   - SRM 4 × 2 (ammo: 25)
-  - Machine Gun × 2 (ammo: 100)
   - Rock-Cutter
+  - Machine Gun × 2 (ammo: 100)
 - **Sources:** RS VA - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7172/dig-king-rcl-1m-miningmech-mod)
-- **Battle Value:** unknown
+- **Battle Value:** 460
 

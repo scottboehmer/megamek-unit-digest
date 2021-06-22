@@ -10,12 +10,12 @@
 - **Weapons:**
   - Small Laser
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Communications Equipment
   - Searchlight
-  - Enviro-Sealing
 - **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4594/marco-mr-6-explorermech)
-- **Battle Value:** unknown
+- **Battle Value:** 295
 
 ## Marco MR-7 ExplorerMech
 - **Role:** Ambusher
@@ -28,14 +28,14 @@
 - **Weapons:**
   - Small Laser
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Remote Sensor Dispenser
   - Communications Equipment
   - Cargo
   - Searchlight
-  - Enviro-Sealing
 - **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4595/marco-mr-7-explorermech)
-- **Battle Value:** unknown
+- **Battle Value:** 295
 
 ## Marco MR-8C ExplorerMech
 - **Role:** Scout
@@ -49,12 +49,12 @@
 - **Weapons:**
   - Small Laser
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Cargo
   - Searchlight
-  - Enviro-Sealing
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4596/marco-mr-8c-explorermech)
-- **Battle Value:** unknown
+- **Battle Value:** 304
 
 ## Marco MR-8D
 - **Role:** Brawler
@@ -70,7 +70,7 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/2073/marco-mr-8d)
-- **Battle Value:** unknown
+- **Battle Value:** 436
 
 ## Marco MR-8E
 - **Role:** Brawler
@@ -86,5 +86,5 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/2074/marco-mr-8e)
-- **Battle Value:** unknown
+- **Battle Value:** 476
 

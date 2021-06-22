@@ -10,9 +10,9 @@
 - **Weapons:**
   - Small Laser
 - **Equipment:**
+  - Enviro-Sealing
   - Salvage Arm
   - Lift Hoist × 2
-  - Enviro-Sealing
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1598/hyena-hyn-4a-salvagemech)
-- **Battle Value:** unknown
+- **Battle Value:** 472
 

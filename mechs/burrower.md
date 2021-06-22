@@ -7,13 +7,13 @@
 - **Armor:** 88
 - **Heat Sinks:** 1 (1)
 - **Weapons:**
-  - Fluid Gun × 2 (ammo: 120)
   - Mining Drill
   - Rock-Cutter
+  - Fluid Gun × 2 (ammo: 120)
 - **Equipment:**
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7874/burrower-dtm-1-miningmech)
-- **Battle Value:** unknown
+- **Battle Value:** 492
 
 ## Burrower DTM-1M MiningMech MOD
 - **Role:** Ambusher
@@ -24,10 +24,10 @@
 - **Heat Sinks:** 4 (4)
 - **Weapons:**
   - MML 9 (ammo: 13 LRM, 11 SRM)
-  - Machine Gun × 2 (ammo: 100)
   - Rock-Cutter
+  - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7875/burrower-dtm-1m-miningmech-mod)
-- **Battle Value:** unknown
+- **Battle Value:** 556
 

@@ -11,8 +11,8 @@
   - SRM 2 (ammo: 50)
   - Machine Gun (ammo: 100)
 - **Equipment:**
-  - Searchlight
   - Enviro-Sealing
+  - Searchlight
 - **Sources:** TRO: Vehicle Annex, [Master Unit List](http://masterunitlist.info/Unit/Details/7173/peacemaker-pm-6-policemech)
-- **Battle Value:** unknown
+- **Battle Value:** 426
 

@@ -12,10 +12,10 @@
   - SRT 6 (ammo: 15)
   - ER Small Laser
 - **Equipment:**
-  - HarJel
   - Enviro-Sealing
+  - HarJel
 - **Sources:** XTRO Boondocks, [Master Unit List](http://masterunitlist.info/Unit/Details/3021/spindrift-aquatic-securitymech-sdt-1)
-- **Battle Value:** unknown
+- **Battle Value:** 441
 
 ## Spindrift SDT-1A Aquatic SecurityMech
 - **Role:** Scout
@@ -32,5 +32,5 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/5106/spindrift-aquatic-securitymech-sdt-1a)
-- **Battle Value:** unknown
+- **Battle Value:** 450
 

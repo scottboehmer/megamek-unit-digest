@@ -7,8 +7,8 @@
 - **Armor:** 248
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Heavy-Duty Pile Driver
   - Rock-Cutter
+  - Heavy-Duty Pile Driver
 - **Equipment:**
   - Command Console
   - Searchlight × 8
@@ -16,7 +16,7 @@
   - Lift Hoist × 2
   - Cargo Container × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1802/kiso-k-3n-kr4-constructionmech)
-- **Battle Value:** unknown
+- **Battle Value:** 954
 
 ## Kiso K-3N-KR5 ConstructionMech
 - **Role:** Juggernaut
@@ -26,8 +26,8 @@
 - **Armor:** 248
 - **Heat Sinks:** 10 (10)
 - **Weapons:**
-  - Backhoe
   - Dual Saw
+  - Backhoe
 - **Equipment:**
   - Command Console
   - Searchlight × 8
@@ -35,7 +35,7 @@
   - Lift Hoist × 2
   - Cargo Container × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1803/kiso-k-3n-kr5-constructionmech)
-- **Battle Value:** unknown
+- **Battle Value:** 959
 
 ## Kiso K-3N-KRHQ CommandMech
 - **Role:** Juggernaut

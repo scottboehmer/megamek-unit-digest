@@ -14,7 +14,7 @@
   - SRM 2 × 4 (ammo: 100)
   - Vehicle Flamer × 2 (ammo: 20)
 - **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3623/ymir-bwp-x1-bipedal-weapons-platform)
-- **Battle Value:** unknown
+- **Battle Value:** 1194
 
 ## Ymir BWP-2B
 - **Role:** Missile Boat

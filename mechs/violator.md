@@ -14,7 +14,7 @@
 - **Equipment:**
   - CASE
 - **Sources:** TRO 3145 Free Worlds League - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6503/violator-vt-u1)
-- **Battle Value:** unknown
+- **Battle Value:** 928
 
 ## Violator VT-U3
 - **Role:** Skirmisher
@@ -32,5 +32,5 @@
 - **Equipment:**
   - CASE
 - **Sources:** TRO 3145 Free Worlds League - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6504/violator-vt-u3)
-- **Battle Value:** unknown
+- **Battle Value:** 973
 

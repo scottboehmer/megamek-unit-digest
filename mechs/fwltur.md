@@ -10,11 +10,11 @@
 - **Equipment:**
   - Beagle Active Probe
   - Salvage Arm × 2
+  - Enviro-Sealing
   - Lift Hoist
   - Searchlight
-  - Enviro-Sealing
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1162/fwltur-fwl-3r-salvagemech)
-- **Battle Value:** unknown
+- **Battle Value:** 255
 
 ## Fwltur FWL-3V SalvageMech
 - **Role:** Undefined
@@ -29,5 +29,5 @@
   - Salvage Arm × 2
   - Lift Hoist × 2
 - **Sources:** TRO3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1163/fwltur-fwl-3v-salvagemech)
-- **Battle Value:** unknown
+- **Battle Value:** 252
 

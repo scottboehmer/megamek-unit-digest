@@ -10,8 +10,8 @@
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
   - Paramedic Equipment × 2
-  - Searchlight
   - Enviro-Sealing
+  - Searchlight
 - **Sources:** TRO VA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7151/chaffee-bt1-servicemech)
-- **Battle Value:** unknown
+- **Battle Value:** 210
 

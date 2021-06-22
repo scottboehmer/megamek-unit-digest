@@ -8,11 +8,11 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 1 (1)
 - **Equipment:**
+  - Enviro-Sealing
   - Lift Hoist × 2
   - Cargo
-  - Enviro-Sealing
 - **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/5321/uni-atae-70-cargomech)
-- **Battle Value:** unknown
+- **Battle Value:** 533
 
 ## Uni ATAE-70 MilitiaMech
 - **Role:** Sniper
@@ -27,7 +27,7 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6977/uni-atae-70m-miltiamech)
-- **Battle Value:** unknown
+- **Battle Value:** 736
 
 ## Uni ATAE-70T CargoMech
 - **Role:** Ambusher

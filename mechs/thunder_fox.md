@@ -48,7 +48,7 @@
   - Command Console
   - C3 Master
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3218/thunder-fox-tft-c3)
-- **Battle Value:** unknown
+- **Battle Value:** 1104
 
 ## Thunder Fox TFT-F11
 - **Role:** Sniper

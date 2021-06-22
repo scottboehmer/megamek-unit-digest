@@ -10,12 +10,12 @@
   - Large Laser
   - AC/5 (ammo: 20)
   - Chainsaw
-  - Combine
   - Vehicle Flamer × 3 (ammo: 60)
+  - Combine
 - **Equipment:**
   - Cargo
   - Dumper
   - Lift Hoist
 - **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7180/grommet-d90-militiamech)
-- **Battle Value:** unknown
+- **Battle Value:** 836
 

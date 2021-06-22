@@ -14,7 +14,7 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2609/quasit-qua-51t-militiamech)
-- **Battle Value:** unknown
+- **Battle Value:** 696
 
 ## Quasit QUA-51M MilitiaMech
 - **Role:** Brawler
@@ -30,7 +30,7 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2607/quasit-qua-51m-militiamech)
-- **Battle Value:** unknown
+- **Battle Value:** 707
 
 ## Quasit QUA-51P MilitiaMech
 - **Role:** Scout
@@ -45,5 +45,5 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2608/quasit-qua-51p-militiamech)
-- **Battle Value:** unknown
+- **Battle Value:** 865
 

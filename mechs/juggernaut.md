@@ -65,5 +65,5 @@
   - M-Pod × 4
   - Coolant Pod × 4
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1716/juggernaut-jg-r9tx1-leapin-lil)
-- **Battle Value:** unknown
+- **Battle Value:** 1946
 

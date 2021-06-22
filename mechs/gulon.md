@@ -14,7 +14,7 @@
   - Mech Sprayer
   - Liquid Cargo
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7844/gulon-gln-1a-miningmech)
-- **Battle Value:** unknown
+- **Battle Value:** 352
 
 ## Gulon GLN-1B SecurityMech
 - **Role:** Ambusher
@@ -28,7 +28,7 @@
   - Small Laser × 3
   - Mining Drill
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7845/gulon-gln-1b-securitymech)
-- **Battle Value:** unknown
+- **Battle Value:** 410
 
 ## Gulon C SolahmaMech
 - **Role:** Ambusher
@@ -42,5 +42,5 @@
   - Small Pulse Laser × 3
   - Mining Drill
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7846/gulon-c-solahmamech)
-- **Battle Value:** unknown
+- **Battle Value:** 533
 

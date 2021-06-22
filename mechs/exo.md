@@ -34,7 +34,7 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7842/exo-hmx-3-haulermech)
-- **Battle Value:** unknown
+- **Battle Value:** 105
 
 ## Exo HMX-3M HaulerMech
 - **Role:** Undefined
@@ -47,5 +47,5 @@
 - **Equipment:**
   - Enviro-Sealing
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7843/exo-hmx-3m-haulermech)
-- **Battle Value:** unknown
+- **Battle Value:** 106
 

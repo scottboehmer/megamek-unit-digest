@@ -8,14 +8,14 @@
 - **Cockpit:** Industrial
 - **Heat Sinks:** 0 (0)
 - **Weapons:**
-  - Heavy-Duty Pile Driver
   - Mining Drill
+  - Heavy-Duty Pile Driver
 - **Equipment:**
   - Mech Sprayer × 4
   - Liquid Cargo × 2
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7872/ground-pounder-dvm-2-miningmech)
-- **Battle Value:** unknown
+- **Battle Value:** 465
 
 ## Ground Pounder DVM-2M MiningMech MOD
 - **Role:** Ambusher

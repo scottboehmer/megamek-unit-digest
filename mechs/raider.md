@@ -11,5 +11,5 @@
   - MRM 10 × 2 (ammo: 24)
   - Dual Saw
 - **Sources:** ED: Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/6955/raider-jl-1)
-- **Battle Value:** unknown
+- **Battle Value:** 817
 
