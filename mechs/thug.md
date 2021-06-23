@@ -125,7 +125,7 @@
 
 ## Thug THG-13U
 - **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3120)
+- **Tech Base:** Inner Sphere (3137)
 - **Chassis:** 80 tons (Endo Steel)
 - **Movement:** 4 (5) / 6 (10)
 - **Armor:** 247 (Ballistic Reinforced)
@@ -137,6 +137,6 @@
 - **Equipment:**
   - CASE II
   - Supercharger
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u)
 - **Battle Value:** 2545
 

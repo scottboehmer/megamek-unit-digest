@@ -62,7 +62,7 @@
 - **Armor:** 263
 - **Heat Sinks:** 14 (28)
 - **Weapons:**
-  - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
   - ER PPC
   - ER Medium Laser
   - Medium Pulse Laser × 5

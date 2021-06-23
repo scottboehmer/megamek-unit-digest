@@ -27,7 +27,7 @@
 - **Hornet HNT-161** *Striker (3052)*
 
 ### [Howler](../mechs/howler.md)
-- **Howler 5** *Undefined (3053)*
+- **Howler 5** *Striker (3053)*
 
 ### [Kabuto](../mechs/kabuto.md)
 - **Kabuto KBO-7A** *Striker (3059)*

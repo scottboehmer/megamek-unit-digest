@@ -6,7 +6,7 @@
 - **Fire Moth  G** *Striker (3098)*
 
 ### [Howler](../mechs/howler.md)
-- **Howler 6** *Undefined (3086)*
+- **Howler 6** *Striker (3086)*
 
 ### [Locust](../mechs/locust.md)
 - **Locust LCT-5M2** *Scout (3087)*
@@ -171,6 +171,7 @@
 - **Mongrel MGL-T1** *Striker (3092)*
 
 ### [Nova](../mechs/nova.md)
+- **Nova  G** *Skirmisher (3092)*
 - **Nova  I** *Skirmisher (3094)*
 
 ### [Trebuchet](../mechs/trebuchet.md)
@@ -271,6 +272,7 @@
 - **Grand Summoner  B** *Missile Boat (3093)*
 - **Grand Summoner  C** *Skirmisher (3093)*
 - **Grand Summoner  D** *Sniper (3093)*
+- **Grand Summoner  E** *Sniper (3093)*
 
 ### [Grasshopper](../mechs/grasshopper.md)
 - **Grasshopper GHR-8K** *Skirmisher (3091)*
@@ -286,6 +288,9 @@
 
 ### [Summoner](../mechs/summoner.md)
 - **Summoner  AA** *Sniper (3086)*
+
+### [Thunderbolt IIC](../mechs/thunderbolt_iic.md)
+- **Thunderbolt IIC 2** *Skirmisher (3088)* `ECM`
 
 ### [Warhammer](../mechs/warhammer.md)
 - **Warhammer WHM-8D2** *Brawler (3087)* `C3 Slave`

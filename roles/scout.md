@@ -33,6 +33,7 @@
 ### [Fire Moth](../mechs/fire_moth.md)
 - **Fire Moth  A** *Scout (2874)* `Active Probe`, `TAG`
 - **Fire Moth  E** *Scout (3055)*
+- **Fire Moth  R** *Scout (3110)* `C3 Slave`, `ECM`
 
 ### [Fireball](../mechs/fireball.md)
 - **Fireball ALM-7D** *Scout (3053)*
@@ -44,6 +45,9 @@
 - **Flea FLE-4** *Scout (2501)*
 - **Flea FLE-15** *Scout (2523)*
 - **Flea 'Fire Ant'** *Scout (3063)*
+
+### [Howler](../mechs/howler.md)
+- **Howler 4** *Scout (2877)*
 
 ### [Ion Sparrow](../mechs/ion_sparrow.md)
 - **Ion Sparrow  Prime** *Scout (3147)*
@@ -416,6 +420,9 @@
 
 ### [Viper](../mechs/viper.md)
 - **Viper  Prime** *Scout (2940)*
+- **Viper  R** *Scout (3110)* `Active Probe`, `TAG`
+- **Viper  T** *Scout (3142)* `Active Probe`
+- **Viper  K** *Scout (3147)* `Active Probe`, `ECM`, `TAG`
 
 ### [Vulcan](../mechs/vulcan.md)
 - **Vulcan VL-2T** *Scout (2777)*

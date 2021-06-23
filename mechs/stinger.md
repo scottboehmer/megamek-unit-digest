@@ -37,7 +37,7 @@
 - **Weapons:**
   - Medium Laser × 3
   - Small Laser
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3059/stinger-stg-3gb)
+- **Sources:** RecGuide 13 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3059/stinger-stg-3gb)
 - **Battle Value:** 674
 
 ## Stinger C

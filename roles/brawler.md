@@ -31,6 +31,9 @@
 ### [Hammer](../mechs/hammer.md)
 - **Hammer HMR-3P 'Pein-Hammer'** *Brawler (3060)* `TAG`
 
+### [Incubus](../mechs/incubus.md)
+- **Incubus 6** *Brawler (3113)*
+
 ### [Kit Fox](../mechs/kit_fox.md)
 - **Kit Fox  I** *Brawler (3101)*
 
@@ -241,7 +244,7 @@
 - **Jabberwocky JAW-67 MilitiaMech** *Brawler (3076)*
 
 ### [Nova](../mechs/nova.md)
-- **Nova  K** *Brawler (3150)*
+- **Nova  K** *Brawler (3134)*
 
 ### [Omni-Corvis](../mechs/omni-corvis.md)
 - **Omni-Corvis  A** *Brawler (2921)*

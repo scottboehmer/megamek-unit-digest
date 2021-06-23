@@ -36,7 +36,7 @@
   - Medium Pulse Laser × 4
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m)
 - **Battle Value:** 1245
 
 ## Ostsol OTL-6D
@@ -160,9 +160,24 @@
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2379/ostsol-otl-9m)
 - **Battle Value:** 1871
 
+## Ostsol OTL-8E
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3144)
+- **Chassis:** 60 tons
+- **Movement:** 5 / 8, XL
+- **Armor:** 197 (Ferro Fibrous)
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Large X-Pulse Laser × 2
+  - Medium X-Pulse Laser × 2
+  - ER Small Laser × 2
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e)
+- **Battle Value:** 1552
+
 ## Ostsol C
 - **Role:** Skirmisher
-- **Tech Base:** Clan (3150)
+- **Tech Base:** Clan (3145)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8
 - **Armor:** 144 (Laser Reflective)
@@ -173,27 +188,26 @@
   - Improved Heavy Medium Laser × 2
 - **Equipment:**
   - Targeting Computer
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c)
 - **Battle Value:** 2277
 
-## Ostsol OTL-8E
+## Ostsol OTL-8F
 - **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3150)
+- **Tech Base:** Inner Sphere (3145)
 - **Chassis:** 60 tons
 - **Movement:** 5 / 8, XL
 - **Armor:** 197 (Ferro Fibrous)
 - **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 17 (34)
+- **Heat Sinks:** 18 (36)
 - **Weapons:**
-  - Large X-Pulse Laser × 2
-  - Medium X-Pulse Laser × 2
-  - ER Small Laser × 2
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e)
-- **Battle Value:** 1552
+  - ER PPC × 2
+  - ER Medium Laser × 4
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f)
+- **Battle Value:** 1698
 
 ## Ostsol OTL-8E3
 - **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3150)
+- **Tech Base:** Inner Sphere (3149)
 - **Chassis:** 60 tons
 - **Movement:** 5 (6) / 8 (9), XL
 - **Armor:** 197 (Ferro Fibrous)
@@ -204,20 +218,6 @@
   - Large X-Pulse Laser × 2
   - Medium X-Pulse Laser × 2
   - ER Small Laser × 2
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3)
 - **Battle Value:** 1671
-
-## Ostsol OTL-8F
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3150)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 197 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Medium Laser × 4
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f)
-- **Battle Value:** 1698
 

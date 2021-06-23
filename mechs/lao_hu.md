@@ -7,7 +7,7 @@
 - **Armor:** 216
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - LB 20-X AC (ammo: 10 Cluster, 5 Standard)
+  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
   - ER Large Laser
   - LRM 15 (ammo: 16)
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4478/lao-hu-lhu-2b)
@@ -22,7 +22,7 @@
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
   - ER Large Laser
-  - LB 10-X AC (ammo: 20 Cluster, 10 Standard)
+  - LB 10-X AC (ammo: 10 Standard, 20 Cluster)
   - LRM 10 w/ Artemis IV (ammo: 24)
 - **Equipment:**
   - C3 Master

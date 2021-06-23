@@ -17,7 +17,7 @@
 
 ### [Howler](../mechs/howler.md)
 - **Howler (Standard)** *Missile Boat (2871)*
-- **Howler 4** *Undefined (2877)*
+- **Howler 4** *Scout (2877)*
 
 ### [Locust](../mechs/locust.md)
 - **Locust LCT-1E** *Scout (2811)*

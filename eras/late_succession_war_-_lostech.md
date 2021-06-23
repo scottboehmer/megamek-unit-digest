@@ -49,8 +49,8 @@
 ### [Incubus](../mechs/incubus.md)
 - **Incubus (Standard)** *Striker (2954)*
 - **Incubus 2** *Striker (2960)*
-- **Incubus 7** *Undefined (2961)*
-- **Incubus 8** *Undefined (2962)*
+- **Incubus 7** *Striker (2961)*
+- **Incubus 8** *Striker (2962)*
 
 ### [Kit Fox](../mechs/kit_fox.md)
 - **Kit Fox  V** *Missile Boat (2921)*

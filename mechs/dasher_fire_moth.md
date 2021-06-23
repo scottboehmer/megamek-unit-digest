@@ -183,7 +183,7 @@
 - **Battle Value:** 2040
 
 ## Fire Moth "Dasher" M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3110)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20), XL
@@ -199,7 +199,7 @@
 - **Battle Value:** 1200
 
 ## Fire Moth "Dasher" R
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3110)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20), XL
@@ -218,7 +218,7 @@
 - **Battle Value:** 1160
 
 ## Fire Moth "Dasher" P
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3132)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (25), XL
@@ -233,7 +233,7 @@
 - **Battle Value:** 841
 
 ## Fire Moth "Dasher" I
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3139)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20), XL
@@ -250,7 +250,7 @@
 - **Battle Value:** 1260
 
 ## Fire Moth "Dasher" T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3142)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (25), XL
@@ -268,7 +268,7 @@
 - **Battle Value:** 1305
 
 ## Fire Moth "Dasher" J
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3145)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 10 / 15 (20), XL

@@ -220,7 +220,7 @@
 - **Battle Value:** 2855
 
 ## Stormcrow "Ryoken" J
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -236,7 +236,7 @@
 - **Battle Value:** 2300
 
 ## Stormcrow "Ryoken" K
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -251,7 +251,7 @@
 - **Battle Value:** 2001
 
 ## Stormcrow "Ryoken" P
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -267,7 +267,7 @@
 - **Battle Value:** 2213
 
 ## Stormcrow "Ryoken" T
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3150)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12), XL

@@ -14,7 +14,7 @@
 - **Battle Value:** 645
 
 ## Howler 4 "Baboon"
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (2877)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 7 / 11
@@ -29,7 +29,7 @@
 - **Battle Value:** 506
 
 ## Howler 5 "Baboon"
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3053)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 7 / 11
@@ -71,7 +71,7 @@
 - **Battle Value:** 1277
 
 ## Howler 6 "Baboon"
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3086)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 7 / 11

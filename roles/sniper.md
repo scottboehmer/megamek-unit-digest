@@ -7,6 +7,9 @@
 
 ## 20 Tons
 
+### [Fire Moth](../mechs/fire_moth.md)
+- **Fire Moth  I** *Sniper (3139)*
+
 ### [Gùn](../mechs/gùn.md)
 - **Gùn  GN-2OA** *Sniper (3134)*
 - **Gùn  GN-2OB** *Sniper (3134)* `Active Probe`, `ECM`, `TAG`
@@ -183,7 +186,7 @@
 ### [Sentinel](../mechs/sentinel.md)
 - **Sentinel STN-3Lb** *Sniper (2715)*
 - **Sentinel STN-C** *Sniper (3065)* `C3 Slave`
-- **Sentinel STN-6S** *Sniper (3145)*
+- **Sentinel STN-6S** *Sniper (3135)*
 
 ### [Sentry](../mechs/sentry.md)
 - **Sentry SNT-04** *Sniper (3056)*
@@ -196,6 +199,9 @@
 
 ### [Swordsman](../mechs/swordsman.md)
 - **Swordsman SWD-1** *Sniper (2463)*
+
+### [Viper](../mechs/viper.md)
+- **Viper  L** *Sniper (3147)*
 
 ## 45 Tons
 
@@ -593,6 +599,7 @@
 ### [Grand Summoner](../mechs/grand_summoner.md)
 - **Grand Summoner  A** *Sniper (3093)*
 - **Grand Summoner  D** *Sniper (3093)*
+- **Grand Summoner  E** *Sniper (3093)*
 
 ### [Guillotine](../mechs/guillotine.md)
 - **Guillotine GLT-6WB2** *Sniper (3070)* `C3i`
@@ -605,7 +612,7 @@
 - **JagerMech JM7-G** *Sniper (3068)*
 
 ### [Lightning](../mechs/lightning.md)
-- **Lightning LHN-C5** *Sniper (3150)*
+- **Lightning LHN-C5** *Sniper (3119)*
 
 ### [Nova Cat](../mechs/nova_cat.md)
 - **Nova Cat  Prime** *Sniper (3059)*
@@ -802,6 +809,7 @@
 - **Deimos 2** *Sniper (3084)*
 - **Deimos  Prime** *Sniper (3085)*
 - **Deimos  B** *Sniper (3085)* `ECM`
+- **Deimos  H** *Sniper (3085)*
 - **Deimos  C** *Sniper (3086)* `ECM`
 - **Deimos  S** *Sniper (3086)*
 - **Deimos  D** *Sniper (3119)*
@@ -933,6 +941,9 @@
 - **Peacekeeper PKP-1A** *Sniper (3086)* `C3 Slave`
 - **Peacekeeper PKP-1B** *Sniper (3087)* `C3 Slave`
 - **Peacekeeper PKP-2K** *Sniper (3116)* `C3 Master`, `C3 Slave`
+
+### [Pendragon](../mechs/pendragon.md)
+- **Pendragon PDG-3R** *Sniper (3134)* `C3 Master`, `TAG`
 
 ### [Shrike](../mechs/shrike.md)
 - **Shrike (Standard)** *Sniper (3113)*

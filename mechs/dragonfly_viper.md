@@ -212,7 +212,7 @@
 - **Battle Value:** 1417
 
 ## Viper "Dragonfly" R
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3110)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12, XL
@@ -230,7 +230,7 @@
 - **Battle Value:** 1335
 
 ## Viper "Dragonfly" T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12, XL
@@ -250,7 +250,7 @@
 - **Battle Value:** 1704
 
 ## Viper "Dragonfly" J
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3144)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12, XL
@@ -266,7 +266,7 @@
 - **Battle Value:** 1259
 
 ## Viper "Dragonfly" K
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12, XL
@@ -285,7 +285,7 @@
 - **Battle Value:** 1545
 
 ## Viper "Dragonfly" L
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3147)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12, XL
@@ -301,7 +301,7 @@
 - **Battle Value:** 1417
 
 ## Viper "Dragonfly" M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3149)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 8 / 12, XL

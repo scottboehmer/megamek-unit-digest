@@ -179,7 +179,7 @@
 - **O-Bakemono OBK-M12** *Juggernaut (3070)* `C3 Master`, `TAG`
 
 ### [Thug](../mechs/thug.md)
-- **Thug THG-13U** *Juggernaut (3120)*
+- **Thug THG-13U** *Juggernaut (3137)*
 
 ### [Warhammer IIC](../mechs/warhammer_iic.md)
 - **Warhammer IIC 11** *Juggernaut (3124)*

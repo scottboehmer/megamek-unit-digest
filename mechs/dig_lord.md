@@ -40,7 +40,6 @@
 - **Chassis:** 65 tons (Industrial)
 - **Movement:** 3 / 5, Fuel Cell
 - **Armor:** 128
-- **Cockpit:** Industrial
 - **Heat Sinks:** 3 (3)
 - **Weapons:**
   - AC/10 (ammo: 20)
@@ -49,8 +48,8 @@
   - Rock-Cutter
 - **Equipment:**
   - Extended Fuel Tank
-- **Sources:** DTP: Vega - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/5542/dig-lord-rcl-4m-miningmech-mod)
-- **Battle Value:** 696
+- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/5542/dig-lord-rcl-4m-miningmech-mod)
+- **Battle Value:** 724
 
 ## Dig Lord RCL-4M-B MiningMech MOD
 - **Role:** Juggernaut

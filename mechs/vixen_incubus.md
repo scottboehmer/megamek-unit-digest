@@ -32,7 +32,7 @@
 - **Battle Value:** 1913
 
 ## Incubus 7 "Vixen"
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2961)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14, XL
@@ -48,7 +48,7 @@
 - **Battle Value:** 1175
 
 ## Incubus 8 "Vixen"
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (2962)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14, XL
@@ -110,8 +110,25 @@
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3445/vixen-incubus-5)
 - **Battle Value:** 1364
 
+## Incubus 6 "Vixen"
+- **Role:** Brawler
+- **Tech Base:** Clan (3113)
+- **Chassis:** 30 tons (Endo Steel)
+- **Movement:** 9 / 14, XXL
+- **Armor:** 105 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER PPC
+  - SRM 6 (ammo: 15)
+  - ER Micro Laser × 6
+- **Equipment:**
+  - Talons
+  - CASE
+- **Source:** Ice Wind Metals - Dark Age
+- **Battle Value:** 1578
+
 ## Incubus 9 "Vixen"
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3150)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14, XXL

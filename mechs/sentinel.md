@@ -144,7 +144,7 @@
 
 ## Sentinel STN-6S
 - **Role:** Sniper
-- **Tech Base:** Inner Sphere Mixed (3145)
+- **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
 - **Armor:** 104
@@ -156,6 +156,6 @@
   - Thunderbolt 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE II
-- **Sources:** Dark AGe, [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s)
 - **Battle Value:** 1089
 

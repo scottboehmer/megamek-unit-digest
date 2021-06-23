@@ -166,6 +166,24 @@
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/344/black-hawk-nova-u)
 - **Battle Value:** 1413
 
+## Nova "Black Hawk" G
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3092)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Improved Heavy Medium Laser × 2
+  - ProtoMech AC/8 (ammo: 20)
+  - ER Small Laser × 7
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+- **Sources:** ilClan Rec Guide 13 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g)
+- **Battle Value:** 1822
+
 ## Nova "Black Hawk" I
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3094)
@@ -177,8 +195,55 @@
 - **Weapons:**
   - ER PPC
   - Improved Heavy Medium Laser × 5
-- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i)
+- **Sources:** ilClan Rec Guide 13 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i)
 - **Battle Value:** 2224
+
+## Nova "Black Hawk" J
+- **Role:** Skirmisher
+- **Tech Base:** Clan Mixed (3128)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER PPC w/ PPC Capacitor
+  - Streak LRM 15 (ammo: 16)
+- **Equipment:**
+  - CASE
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j)
+- **Battle Value:** 2052
+
+## Nova "Black Hawk" K
+- **Role:** Brawler
+- **Tech Base:** Clan (3134)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Large Laser
+  - RAC/2 (ammo: 90)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k)
+- **Battle Value:** 1932
+
+## Nova "Black Hawk" L
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3134)
+- **Chassis:** 50 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - Improved Heavy Large Laser × 2
+  - Plasma Cannon × 2 (ammo: 20)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l)
+- **Battle Value:** 2177
 
 ## Nova "Black Hawk" X
 - **Role:** Undefined
@@ -196,74 +261,9 @@
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6910/black-hawk-nova-x)
 - **Battle Value:** 2761
 
-## Nova "Black Hawk" G
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3150)
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Improved Heavy Medium Laser × 2
-  - ProtoMech AC/8 (ammo: 20)
-  - ER Small Laser × 7
-- **Equipment:**
-  - CASE
-  - Targeting Computer
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g)
-- **Battle Value:** 1822
-
-## Nova "Black Hawk" J
-- **Role:** Skirmisher
-- **Tech Base:** Clan Mixed (3150)
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER PPC w/ PPC Capacitor
-  - Streak LRM 15 (ammo: 16)
-- **Equipment:**
-  - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j)
-- **Battle Value:** 2052
-
-## Nova "Black Hawk" K
-- **Role:** Brawler
-- **Tech Base:** Clan (3150)
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Large Laser
-  - RAC/2 (ammo: 90)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k)
-- **Battle Value:** 1932
-
-## Nova "Black Hawk" L
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3150)
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Improved Heavy Large Laser × 2
-  - Plasma Cannon × 2 (ammo: 20)
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l)
-- **Battle Value:** 2177
-
 ## Nova "Black Hawk" R
 - **Role:** Skirmisher
-- **Tech Base:** Clan Mixed (3150)
+- **Tech Base:** Clan Mixed (3140)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8 (10), XL
   - **Jumping:** 5
@@ -275,12 +275,12 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r)
 - **Battle Value:** 1597
 
 ## Nova "Black Hawk" T
 - **Role:** Skirmisher
-- **Tech Base:** Clan (3150)
+- **Tech Base:** Clan (3142)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8, XL
   - **Jumping:** 5
@@ -290,6 +290,6 @@
   - Medium Chemical Laser × 12 (ammo: 120)
 - **Equipment:**
   - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t)
 - **Battle Value:** 1579
 

@@ -76,7 +76,7 @@
 - **Battle Value:** 2965
 
 ## Deimos H
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3085)
 - **Chassis:** 85 tons (Endo Steel)
 - **Movement:** 3 / 5 (6), XL

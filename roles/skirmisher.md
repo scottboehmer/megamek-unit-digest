@@ -170,12 +170,12 @@
 - **Nova  E** *Skirmisher (3054)*
 - **Nova  H** *Skirmisher (3059)*
 - **Nova  F** *Skirmisher (3068)*
+- **Nova  G** *Skirmisher (3092)*
 - **Nova  I** *Skirmisher (3094)*
-- **Nova  G** *Skirmisher (3150)*
-- **Nova  J** *Skirmisher (3150)*
-- **Nova  L** *Skirmisher (3150)*
-- **Nova  R** *Skirmisher (3150)*
-- **Nova  T** *Skirmisher (3150)*
+- **Nova  J** *Skirmisher (3128)*
+- **Nova  L** *Skirmisher (3134)*
+- **Nova  R** *Skirmisher (3140)*
+- **Nova  T** *Skirmisher (3142)*
 
 ### [Phoenix](../mechs/phoenix.md)
 - **Phoenix PX-3R** *Skirmisher (2520)*
@@ -599,10 +599,10 @@
 - **Ostsol OTL-8M** *Skirmisher (3066)*
 - **Ostsol OTL-8D** *Skirmisher (3069)*
 - **Ostsol OTL-9M** *Skirmisher (3079)* `ECM`
-- **Ostsol C** *Skirmisher (3150)*
-- **Ostsol OTL-8E** *Skirmisher (3150)*
-- **Ostsol OTL-8E3** *Skirmisher (3150)*
-- **Ostsol OTL-8F** *Skirmisher (3150)*
+- **Ostsol OTL-8E** *Skirmisher (3144)*
+- **Ostsol C** *Skirmisher (3145)*
+- **Ostsol OTL-8F** *Skirmisher (3145)*
+- **Ostsol OTL-8E3** *Skirmisher (3149)*
 
 ### [Paladin](../mechs/paladin.md)
 - **Paladin PAL-1** *Skirmisher (3053)*
@@ -719,7 +719,7 @@
 - **Exterminator EXT-5E** *Skirmisher (3060)* `C3i`
 - **Exterminator EXT-5F** *Skirmisher (3074)* `C3i`
 - **Exterminator EXT-6CS** *Skirmisher (3079)* `Stealth`
-- **Exterminator EXT-7X** *Skirmisher (3150)* `ECM`, `Stealth`
+- **Exterminator EXT-7X** *Skirmisher (3148)* `ECM`, `Stealth`
 
 ### [Fire Scorpion](../mechs/fire_scorpion.md)
 - **Fire Scorpion 3** *Skirmisher (3071)* `Active Probe`
@@ -936,6 +936,9 @@
 - **Thunder THR-1L** *Skirmisher (3055)*
 - **Thunder THR-2L** *Skirmisher (3063)* `ECM`, `Stealth`
 - **Thunder THR-C4** *Skirmisher (3083)*
+
+### [Thunderbolt IIC](../mechs/thunderbolt_iic.md)
+- **Thunderbolt IIC 2** *Skirmisher (3088)* `ECM`
 
 ### [War Crow](../mechs/war_crow.md)
 - **War Crow  A** *Skirmisher (3145)*

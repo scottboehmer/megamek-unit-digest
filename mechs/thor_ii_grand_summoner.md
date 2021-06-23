@@ -87,3 +87,17 @@
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6285/thor-ii-grand-summoner-d)
 - **Battle Value:** 2878
 
+## Grand Summoner "Thor II" E
+- **Role:** Sniper
+- **Tech Base:** Clan (3093)
+- **Chassis:** 70 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 8
+- **Armor:** 192 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER PPC × 2
+  - ER Small Laser
+- **Source:** Iron Wind Metals - Early Republic
+- **Battle Value:** 2638
+

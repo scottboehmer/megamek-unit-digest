@@ -19,6 +19,10 @@
 - **Fire Moth  F** *Striker (3070)* `Active Probe`
 - **Fire Moth  K** *Striker (3071)*
 - **Fire Moth  G** *Striker (3098)*
+- **Fire Moth  M** *Striker (3110)*
+- **Fire Moth  P** *Striker (3132)*
+- **Fire Moth  T** *Striker (3142)*
+- **Fire Moth  J** *Striker (3145)*
 
 ### [Fireball](../mechs/fireball.md)
 - **Fireball ALM-10D** *Striker (3076)*
@@ -40,8 +44,10 @@
 - **Hornet HNT-182** *Striker (3130)*
 
 ### [Howler](../mechs/howler.md)
+- **Howler 5** *Striker (3053)*
 - **Howler 2** *Striker (3063)*
 - **Howler 3** *Striker (3066)*
+- **Howler 6** *Striker (3086)*
 
 ### [Kabuto](../mechs/kabuto.md)
 - **Kabuto KBO-7A** *Striker (3059)*
@@ -327,9 +333,12 @@
 ### [Incubus](../mechs/incubus.md)
 - **Incubus (Standard)** *Striker (2954)*
 - **Incubus 2** *Striker (2960)*
+- **Incubus 7** *Striker (2961)*
+- **Incubus 8** *Striker (2962)*
 - **Incubus 3** *Striker (3025)*
 - **Incubus 4** *Striker (3065)*
 - **Incubus 5** *Striker (3065)*
+- **Incubus 9** *Striker (3150)*
 
 ### [Incubus II](../mechs/incubus_ii.md)
 - **Incubus II (Standard)** *Striker (3085)* `Active Probe`
@@ -698,7 +707,7 @@
 - **Griffin IIC 6** *Striker (3073)*
 - **Griffin IIC 8** *Striker (3078)* `ECM`
 - **Griffin IIC 7** *Striker (3083)*
-- **Griffin IIC 9** *Striker (3150)*
+- **Griffin IIC 9** *Striker (3144)*
 
 ### [Hermes II](../mechs/hermes_ii.md)
 - **Hermes II HER-2M 'Mercury'** *Striker (2802)*
@@ -773,6 +782,8 @@
 - **Viper  G** *Striker (3071)* `Active Probe`
 - **Viper  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
 - **Viper  U** *Striker (3077)* `ECM`
+- **Viper  J** *Striker (3144)*
+- **Viper  M** *Striker (3149)*
 
 ### [Vulcan](../mechs/vulcan.md)
 - **Vulcan VL-5T** *Striker (2778)*
@@ -1099,6 +1110,10 @@
 - **Stormcrow  G** *Striker (3068)*
 - **Stormcrow  F** *Striker (3069)*
 - **Stormcrow  Z** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`
+- **Stormcrow  J** *Striker (3150)*
+- **Stormcrow  K** *Striker (3150)*
+- **Stormcrow  P** *Striker (3150)*
+- **Stormcrow  T** *Striker (3150)* `Active Probe`
 
 ### [Wolverine](../mechs/wolverine.md)
 - **Wolverine WVR-9W** *Striker (3077)* `C3i`

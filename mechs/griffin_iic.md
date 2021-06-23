@@ -13,7 +13,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard)
+- **Sources:** ilClan Rec Guide 13 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard)
 - **Battle Value:** 1608
 
 ## Griffin IIC 2
@@ -30,7 +30,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2)
+- **Sources:** ilClan Rec Guide 13 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2)
 - **Battle Value:** 1516
 
 ## Griffin IIC 3
@@ -139,7 +139,7 @@
 
 ## Griffin IIC 9
 - **Role:** Striker
-- **Tech Base:** Clan Mixed (3150)
+- **Tech Base:** Clan Mixed (3144)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9
   - **Jumping:** 6
@@ -151,6 +151,6 @@
   - Inner Sphere ER Small Laser
 - **Equipment:**
   - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9)
+- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9)
 - **Battle Value:** 1106
 

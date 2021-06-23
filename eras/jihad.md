@@ -1533,7 +1533,7 @@
 - **Deimos  Prime** *Sniper (3085)*
 - **Deimos  A** *Brawler (3085)* `ECM`
 - **Deimos  B** *Sniper (3085)* `ECM`
-- **Deimos  H** *Undefined (3085)*
+- **Deimos  H** *Sniper (3085)*
 
 ### [Gunslinger](../mechs/gunslinger.md)
 - **Gunslinger GUN-2ERDr** *Juggernaut (3078)* `C3 Master`, `TAG`

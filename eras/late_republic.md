@@ -8,8 +8,8 @@
 ## 20 Tons
 
 ### [Fire Moth](../mechs/fire_moth.md)
-- **Fire Moth  M** *Undefined (3110)*
-- **Fire Moth  R** *Undefined (3110)* `C3 Slave`, `ECM`
+- **Fire Moth  M** *Striker (3110)*
+- **Fire Moth  R** *Scout (3110)* `C3 Slave`, `ECM`
 
 ### [Hornet](../mechs/hornet.md)
 - **Hornet HNT-181** *Striker (3130)*
@@ -64,6 +64,9 @@
 
 ### [Hellion](../mechs/hellion.md)
 - **Hellion  G** *Striker (3119)*
+
+### [Incubus](../mechs/incubus.md)
+- **Incubus 6** *Brawler (3113)*
 
 ### [Javelin](../mechs/javelin.md)
 - **Javelin JVN-11P** *Striker (3101)*
@@ -167,7 +170,7 @@
 - **Targe TRG-3M** *Striker (3109)*
 
 ### [Viper](../mechs/viper.md)
-- **Viper  R** *Undefined (3110)* `Active Probe`, `TAG`
+- **Viper  R** *Scout (3110)* `Active Probe`, `TAG`
 
 ### [Watchman](../mechs/watchman.md)
 - **Watchman WTC-4MB 'Belle'** *Undefined (3125)* `Active Probe`, `ECM`, `Remote Drone Command Console`
@@ -233,6 +236,9 @@
 
 ### [Mongrel](../mechs/mongrel.md)
 - **Mongrel MGL-T2** *Striker (3108)* `ECM`
+
+### [Nova](../mechs/nova.md)
+- **Nova  J** *Skirmisher (3128)*
 
 ### [Sarath](../mechs/sarath.md)
 - **Sarath  SRTH-1O** *Skirmisher (3122)* `Active Probe`
@@ -358,6 +364,9 @@
 ### [Gallant](../mechs/gallant.md)
 - **Gallant GLT-10-0** *Skirmisher (3130)*
 
+### [Lightning](../mechs/lightning.md)
+- **Lightning LHN-C5** *Sniper (3119)*
+
 ### [Warhammer](../mechs/warhammer.md)
 - **Warhammer WHM-9K** *Brawler (3105)*
 
@@ -424,9 +433,6 @@
 ### [Salamander](../mechs/salamander.md)
 - **Salamander PPR-7T** *Missile Boat (3111)* `C3 Slave`
 
-### [Thug](../mechs/thug.md)
-- **Thug THG-13U** *Juggernaut (3120)*
-
 ### [Warhammer IIC](../mechs/warhammer_iic.md)
 - **Warhammer IIC 10** *Sniper (3120)*
 - **Warhammer IIC 11** *Juggernaut (3124)*
@@ -480,9 +486,6 @@
 
 ### [Peacekeeper](../mechs/peacekeeper.md)
 - **Peacekeeper PKP-2K** *Sniper (3116)* `C3 Master`, `C3 Slave`
-
-### [Pendragon](../mechs/pendragon.md)
-- **Pendragon PDG-3R** *Undefined (3130)* `C3 Master`, `TAG`
 
 ### [Shrike](../mechs/shrike.md)
 - **Shrike (Standard)** *Sniper (3113)*

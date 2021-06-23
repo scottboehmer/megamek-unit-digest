@@ -15,8 +15,8 @@
   - Retractable Blade
 - **Equipment:**
   - Guardian ECM Suite
-  - C3i
   - Targeting Computer
+  - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/65/archangel-c-ang-o-invictus)
 - **Battle Value:** 2237
 

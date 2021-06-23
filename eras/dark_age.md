@@ -24,10 +24,10 @@
 ## 20 Tons
 
 ### [Fire Moth](../mechs/fire_moth.md)
-- **Fire Moth  P** *Undefined (3132)*
-- **Fire Moth  I** *Undefined (3139)*
-- **Fire Moth  T** *Undefined (3142)*
-- **Fire Moth  J** *Undefined (3145)*
+- **Fire Moth  P** *Striker (3132)*
+- **Fire Moth  I** *Sniper (3139)*
+- **Fire Moth  T** *Striker (3142)*
+- **Fire Moth  J** *Striker (3145)*
 
 ### [Gùn](../mechs/gùn.md)
 - **Gùn  GN-2O** *Striker (3134)*
@@ -98,7 +98,7 @@
 - **Crosscut IIC SolahmaMech** *Undefined (3133)*
 
 ### [Incubus](../mechs/incubus.md)
-- **Incubus 9** *Undefined (3150)*
+- **Incubus 9** *Striker (3150)*
 
 ### [Jackalope](../mechs/jackalope.md)
 - **Jackalope JLP-BD** *Striker (3134)* `Active Probe`
@@ -199,7 +199,7 @@
 - **Dasher II 4** *Striker (3136)*
 
 ### [Griffin IIC](../mechs/griffin_iic.md)
-- **Griffin IIC 9** *Striker (3150)*
+- **Griffin IIC 9** *Striker (3144)*
 
 ### [Harvester](../mechs/harvester.md)
 - **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)*
@@ -213,7 +213,7 @@
 - **Night Stalker NSR-KC** *Scout (3136)* `Active Probe`, `C3 Slave`
 
 ### [Sentinel](../mechs/sentinel.md)
-- **Sentinel STN-6S** *Sniper (3145)*
+- **Sentinel STN-6S** *Sniper (3135)*
 
 ### [Strider](../mechs/strider.md)
 - **Strider  SR1-OM** *Scout (3135)* `C3 Master`, `TAG`
@@ -222,11 +222,11 @@
 - **Tolva** *Skirmisher (3145)*
 
 ### [Viper](../mechs/viper.md)
-- **Viper  T** *Undefined (3142)* `Active Probe`
-- **Viper  J** *Undefined (3144)*
-- **Viper  K** *Undefined (3147)* `Active Probe`, `ECM`, `TAG`
-- **Viper  L** *Undefined (3147)*
-- **Viper  M** *Undefined (3149)*
+- **Viper  T** *Scout (3142)* `Active Probe`
+- **Viper  J** *Striker (3144)*
+- **Viper  K** *Scout (3147)* `Active Probe`, `ECM`, `TAG`
+- **Viper  L** *Sniper (3147)*
+- **Viper  M** *Striker (3149)*
 
 ## 45 Tons
 
@@ -314,13 +314,11 @@
 - **Legionnaire LGN-2D (Raul)** *Undefined (3132)*
 
 ### [Nova](../mechs/nova.md)
+- **Nova  K** *Brawler (3134)*
+- **Nova  L** *Skirmisher (3134)*
 - **Nova  X** *Undefined (3137)*
-- **Nova  G** *Skirmisher (3150)*
-- **Nova  J** *Skirmisher (3150)*
-- **Nova  K** *Brawler (3150)*
-- **Nova  L** *Skirmisher (3150)*
-- **Nova  R** *Skirmisher (3150)*
-- **Nova  T** *Skirmisher (3150)*
+- **Nova  R** *Skirmisher (3140)*
+- **Nova  T** *Skirmisher (3142)*
 
 ### [Raider](../mechs/raider.md)
 - **Raider JL-1** *Juggernaut (3134)*
@@ -399,10 +397,10 @@
 - **Shadow Hawk SHD-6D** *Skirmisher (3141)*
 
 ### [Stormcrow](../mechs/stormcrow.md)
-- **Stormcrow  J** *Undefined (3150)*
-- **Stormcrow  K** *Undefined (3150)*
-- **Stormcrow  P** *Undefined (3150)*
-- **Stormcrow  T** *Undefined (3150)* `Active Probe`
+- **Stormcrow  J** *Striker (3150)*
+- **Stormcrow  K** *Striker (3150)*
+- **Stormcrow  P** *Striker (3150)*
+- **Stormcrow  T** *Striker (3150)* `Active Probe`
 
 ### [Surtur](../mechs/surtur.md)
 - **Surtur SUR-T1** *Undefined (3140)*
@@ -451,10 +449,10 @@
 - **Notos  D** *Skirmisher (3145)*
 
 ### [Ostsol](../mechs/ostsol.md)
-- **Ostsol C** *Skirmisher (3150)*
-- **Ostsol OTL-8E** *Skirmisher (3150)*
-- **Ostsol OTL-8E3** *Skirmisher (3150)*
-- **Ostsol OTL-8F** *Skirmisher (3150)*
+- **Ostsol OTL-8E** *Skirmisher (3144)*
+- **Ostsol C** *Skirmisher (3145)*
+- **Ostsol OTL-8F** *Skirmisher (3145)*
+- **Ostsol OTL-8E3** *Skirmisher (3149)*
 
 ### [Rifleman](../mechs/rifleman.md)
 - **Rifleman C 3** *Sniper (3132)*
@@ -492,7 +490,7 @@
 - **Dominator 2** *Sniper (3149)*
 
 ### [Exterminator](../mechs/exterminator.md)
-- **Exterminator EXT-7X** *Skirmisher (3150)* `ECM`, `Stealth`
+- **Exterminator EXT-7X** *Skirmisher (3148)* `ECM`, `Stealth`
 
 ### [Ground Pounder](../mechs/ground_pounder.md)
 - **Ground Pounder DVM-2M MiningMech MOD** *Ambusher (3133)*
@@ -534,9 +532,6 @@
 
 ### [Dragoon](../mechs/dragoon.md)
 - **Dragoon AEM-05C** *Brawler (3136)* `C3i`, `ECM`
-
-### [Lightning](../mechs/lightning.md)
-- **Lightning LHN-C5** *Sniper (3150)*
 
 ### [Minsk](../mechs/minsk.md)
 - **Minsk 2** *Brawler (3148)* `Active Probe`, `ECM`
@@ -663,6 +658,9 @@
 ### [Hatamoto-Suna](../mechs/hatamoto-suna.md)
 - **Hatamoto-Suna HTM-30S** *Juggernaut (3138)*
 
+### [Thug](../mechs/thug.md)
+- **Thug THG-13U** *Juggernaut (3137)*
+
 ### [Warhammer IIC](../mechs/warhammer_iic.md)
 - **Warhammer IIC 13** *Brawler (3150)*
 
@@ -720,6 +718,9 @@
 
 ### [Nightstar](../mechs/nightstar.md)
 - **Nightstar NSR-10D** *Sniper (3144)*
+
+### [Pendragon](../mechs/pendragon.md)
+- **Pendragon PDG-3R** *Sniper (3134)* `C3 Master`, `TAG`
 
 ### [Sagittaire](../mechs/sagittaire.md)
 - **Sagittaire SGT-14D** *Juggernaut (3134)* `C3 Slave`

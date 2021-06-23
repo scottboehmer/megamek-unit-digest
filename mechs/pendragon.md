@@ -34,8 +34,8 @@
 - **Battle Value:** 2151
 
 ## Pendragon PDG-3R
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (3130)
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 95 tons (Composite)
 - **Movement:** 4 / 6, XL
 - **Armor:** 293 (Ferro Fibrous)

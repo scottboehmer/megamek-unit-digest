@@ -43,41 +43,6 @@ Thunderbolt TDR-5LS
 Dragoon AEM-02
 Dragoon AEM-03
 Dragoon AEM-04
-Mongoose MON-96
-Glass Spider (Galahad) 4
-Stinger C 2
-Stinger C
-Thresher Mk II (Standard)
-Koshi (Mist Lynx) I
-Koshi (Mist Lynx) J
-Koshi (Mist Lynx) K
-Koshi (Mist Lynx) L
-Koshi (Mist Lynx) M
-Koshi (Mist Lynx) N
-Koshi (Mist Lynx) T
-Ryoken (Stormcrow) J
-Ryoken (Stormcrow) K
-Ryoken (Stormcrow) P
-Ryoken (Stormcrow) T
-Vixen (Incubus) 7
-Vixen (Incubus) 8
-Vixen (Incubus) 9
-Baboon (Howler) 4
-Baboon (Howler) 5
-Baboon (Howler) 6
-Dasher (Fire Moth) I
-Dasher (Fire Moth) J
-Dasher (Fire Moth) M
-Dasher (Fire Moth) P
-Dasher (Fire Moth) R
-Dasher (Fire Moth) T
-Dragonfly (Viper) J
-Dragonfly (Viper) K
-Dragonfly (Viper) L
-Dragonfly (Viper) M
-Dragonfly (Viper) R
-Dragonfly (Viper) T
-Pendragon PDG-3R
 Burrower DTM-1 MiningMech
 Demeter WLD-1 AgroMech
 Exo HaulerMech HMX-1
@@ -120,8 +85,19 @@ Firefly FFL-3A
 Harvester Ant KIC-3M AgroMech (MG)
 Harvester Ant KIC-3M-B AgroMech (LRM)
 Powerman XI LoaderMech (Standard)
+Mongoose MON-96
+Glass Spider (Galahad) 4
+Stinger C 2
+Stinger C
+Thresher Mk II (Standard)
+Koshi (Mist Lynx) I
+Koshi (Mist Lynx) J
+Koshi (Mist Lynx) K
+Koshi (Mist Lynx) L
+Koshi (Mist Lynx) M
+Koshi (Mist Lynx) N
+Koshi (Mist Lynx) T
 Atlas AS7-D(C)
-Deimos H
 Atlas AS7-A
 Javelin JVN-10A
 Thunderbolt TDR-5D
@@ -206,4 +182,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3756 mtf files -> 3756 parsed files -> 3755 converted files -> 3754 validated mechs
+3747 mtf files -> 3747 parsed files -> 3746 converted files -> 3745 validated mechs
