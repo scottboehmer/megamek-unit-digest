@@ -1,4 +1,4 @@
-# ClanGoliathScorpion - ClanInvasion
+# Clan Goliath Scorpion / Clan Invasion
 
 ## 20 Tons
 

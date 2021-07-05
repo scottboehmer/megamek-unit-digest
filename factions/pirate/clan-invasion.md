@@ -1,4 +1,4 @@
-# Pirate - ClanInvasion
+# Pirate / Clan Invasion
 
 ## 20 Tons
 

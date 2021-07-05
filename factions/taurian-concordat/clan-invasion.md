@@ -1,4 +1,4 @@
-# TaurianConcordat - ClanInvasion
+# Taurian Concordat / Clan Invasion
 
 ## 20 Tons
 

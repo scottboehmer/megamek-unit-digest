@@ -1,4 +1,4 @@
-# ClanStarAdder - LateSuccessionWarsLostech
+# Clan Star Adder / Late Succession Wars - LosTech
 
 ## 20 Tons
 

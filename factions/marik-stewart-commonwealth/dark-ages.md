@@ -1,4 +1,4 @@
-# MarikStewartCommonwealth - DarkAges
+# Marik-Stewart Commonwealth / Dark Ages
 
 ## 10 Tons
 

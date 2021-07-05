@@ -1,4 +1,4 @@
-# TaurianConcordat - Jihad
+# Taurian Concordat / Jihad
 
 ## 15 Tons
 

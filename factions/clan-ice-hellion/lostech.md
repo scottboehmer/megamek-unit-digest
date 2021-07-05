@@ -1,4 +1,4 @@
-# ClanIceHellion - LateSuccessionWarsLostech
+# Clan Ice Hellion / Late Succession Wars - LosTech
 
 ## 20 Tons
 

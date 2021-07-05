@@ -1,4 +1,4 @@
-# FederatedSuns - LateSuccessionWarsRenaissance
+# Federated Suns / Late Succession Wars - Renaissance
 
 ## 15 Tons
 

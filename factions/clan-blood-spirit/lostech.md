@@ -1,4 +1,4 @@
-# ClanBloodSpirit - LateSuccessionWarsLostech
+# Clan Blood Spirit / Late Succession Wars - LosTech
 
 ## 20 Tons
 

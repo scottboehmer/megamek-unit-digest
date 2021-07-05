@@ -1,4 +1,4 @@
-# ClanCloudCobra - Jihad
+# Clan Cloud Cobra / Jihad
 
 ## 20 Tons
 

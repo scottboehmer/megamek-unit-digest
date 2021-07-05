@@ -1,4 +1,4 @@
-# TaurianConcordat - LateSuccessionWarsLostech
+# Taurian Concordat / Late Succession Wars - LosTech
 
 ## 20 Tons
 

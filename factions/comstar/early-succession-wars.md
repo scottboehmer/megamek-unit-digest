@@ -1,4 +1,4 @@
-# ComStar - EarlySuccessionWars
+# ComStar / Early Succession Wars
 
 ## 20 Tons
 

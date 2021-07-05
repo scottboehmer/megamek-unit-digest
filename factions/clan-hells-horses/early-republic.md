@@ -1,4 +1,4 @@
-# ClanHellsHorses - EarlyRepublic
+# Clan Hell's Horses / Early Republic
 
 ## 10 Tons
 

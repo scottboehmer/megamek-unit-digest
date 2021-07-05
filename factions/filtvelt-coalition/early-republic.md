@@ -1,4 +1,4 @@
-# FiltveltCoalition - EarlyRepublic
+# Filtvelt Coalition / Early Republic
 
 ## 10 Tons
 

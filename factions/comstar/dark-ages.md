@@ -1,4 +1,4 @@
-# ComStar - DarkAges
+# ComStar / Dark Ages
 
 ## 30 Tons
 

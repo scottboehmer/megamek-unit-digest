@@ -1,4 +1,4 @@
-# RepublicOfTheSphere - EarlyRepublic
+# Republic of the Sphere / Early Republic
 
 ## 10 Tons
 

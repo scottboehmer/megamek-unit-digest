@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - ClanInvasion
+# Magistracy of Canopus / Clan Invasion
 
 ## 20 Tons
 

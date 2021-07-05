@@ -1,4 +1,4 @@
-# FreeWorldsLeague - LateSuccessionWarsLostech
+# Free Worlds League / Late Succession Wars - LosTech
 
 ## 15 Tons
 

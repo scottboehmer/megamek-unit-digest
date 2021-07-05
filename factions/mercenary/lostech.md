@@ -1,4 +1,4 @@
-# Mercenary - LateSuccessionWarsLostech
+# Mercenary / Late Succession Wars - LosTech
 
 ## 20 Tons
 

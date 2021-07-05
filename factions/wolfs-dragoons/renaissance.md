@@ -1,4 +1,4 @@
-# WolfsDragoons - LateSuccessionWarsRenaissance
+# Wolf's Dragoons / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

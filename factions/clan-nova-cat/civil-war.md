@@ -1,4 +1,4 @@
-# ClanNovaCat - CivilWar
+# Clan Nova Cat / Civil War
 
 ## 20 Tons
 

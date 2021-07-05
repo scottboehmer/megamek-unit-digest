@@ -1,4 +1,4 @@
-# LyranAlliance - Jihad
+# Lyran Alliance / Jihad
 
 ## 15 Tons
 

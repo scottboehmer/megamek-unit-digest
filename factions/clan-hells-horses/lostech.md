@@ -1,4 +1,4 @@
-# ClanHellsHorses - LateSuccessionWarsLostech
+# Clan Hell's Horses / Late Succession Wars - LosTech
 
 ## 20 Tons
 

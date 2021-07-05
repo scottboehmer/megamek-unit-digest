@@ -1,4 +1,4 @@
-# Mercenary - CivilWar
+# Mercenary / Civil War
 
 ## 20 Tons
 

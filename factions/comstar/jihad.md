@@ -1,4 +1,4 @@
-# ComStar - Jihad
+# ComStar / Jihad
 
 ## 15 Tons
 

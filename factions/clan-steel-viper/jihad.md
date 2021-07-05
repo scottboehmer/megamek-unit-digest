@@ -1,4 +1,4 @@
-# ClanSteelViper - Jihad
+# Clan Steel Viper / Jihad
 
 ## 20 Tons
 

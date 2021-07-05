@@ -1,4 +1,4 @@
-# ClanSeaFox - EarlyRepublic
+# Clan Sea Fox / Early Republic
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# OutworldsAlliance - Jihad
+# Outworlds Alliance / Jihad
 
 ## 15 Tons
 

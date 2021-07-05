@@ -1,4 +1,4 @@
-# ClanGoliathScorpion - CivilWar
+# Clan Goliath Scorpion / Civil War
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# ClanDiamondShark - ClanInvasion
+# Clan Diamond Shark / Clan Invasion
 
 ## 20 Tons
 

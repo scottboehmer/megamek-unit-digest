@@ -1,4 +1,4 @@
-# LyranCommonwealth - ClanInvasion
+# Lyran Commonwealth / Clan Invasion
 
 ## 20 Tons
 

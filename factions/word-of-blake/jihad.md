@@ -1,4 +1,4 @@
-# WordOfBlake - Jihad
+# Word of Blake / Jihad
 
 ## 15 Tons
 

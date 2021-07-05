@@ -1,4 +1,4 @@
-# LyranCommonwealth - LateRepublic
+# Lyran Commonwealth / Late Republic
 
 ## 10 Tons
 

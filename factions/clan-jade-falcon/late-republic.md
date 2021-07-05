@@ -1,4 +1,4 @@
-# ClanJadeFalcon - LateRepublic
+# Clan Jade Falcon / Late Republic
 
 ## 10 Tons
 

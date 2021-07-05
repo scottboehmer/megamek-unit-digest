@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - CivilWar
+# Magistracy of Canopus / Civil War
 
 ## 15 Tons
 

@@ -1,4 +1,4 @@
-# Society - Jihad
+# Society / Jihad
 
 ## 20 Tons
 

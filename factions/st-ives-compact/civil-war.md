@@ -1,4 +1,4 @@
-# StIvesCompact - CivilWar
+# St. Ives Compact / Civil War
 
 ## 15 Tons
 

@@ -1,4 +1,4 @@
-# ClanSmokeJaguar - LateSuccessionWarsRenaissance
+# Clan Smoke Jaguar / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

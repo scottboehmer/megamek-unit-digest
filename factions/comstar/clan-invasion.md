@@ -1,4 +1,4 @@
-# ComStar - ClanInvasion
+# ComStar / Clan Invasion
 
 ## 15 Tons
 

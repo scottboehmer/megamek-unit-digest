@@ -1,4 +1,4 @@
-# Solaris7 - LateSuccessionWarsLostech
+# Solaris 7 / Late Succession Wars - LosTech
 
 ## 80 Tons
 

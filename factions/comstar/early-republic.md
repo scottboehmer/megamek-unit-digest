@@ -1,4 +1,4 @@
-# ComStar - EarlyRepublic
+# ComStar / Early Republic
 
 ## 15 Tons
 

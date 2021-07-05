@@ -1,4 +1,4 @@
-# MarianHegemony - ClanInvasion
+# Marian Hegemony / Clan Invasion
 
 ## 20 Tons
 

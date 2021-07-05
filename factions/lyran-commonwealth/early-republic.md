@@ -1,4 +1,4 @@
-# LyranCommonwealth - EarlyRepublic
+# Lyran Commonwealth / Early Republic
 
 ## 10 Tons
 

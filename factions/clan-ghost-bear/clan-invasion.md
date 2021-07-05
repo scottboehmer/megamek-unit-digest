@@ -1,4 +1,4 @@
-# ClanGhostBear - ClanInvasion
+# Clan Ghost Bear / Clan Invasion
 
 ## 20 Tons
 

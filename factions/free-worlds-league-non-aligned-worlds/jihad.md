@@ -1,4 +1,4 @@
-# FreeWorldsLeagueNonAlignedWorlds - Jihad
+# Free Worlds League - Non-Aligned Worlds / Jihad
 
 ## 10 Tons
 

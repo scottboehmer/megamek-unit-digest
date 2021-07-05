@@ -1,4 +1,4 @@
-# ClanWolf - ClanInvasion
+# Clan Wolf / Clan Invasion
 
 ## 20 Tons
 

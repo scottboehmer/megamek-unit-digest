@@ -1,4 +1,4 @@
-# ClanSteelViper - CivilWar
+# Clan Steel Viper / Civil War
 
 ## 20 Tons
 

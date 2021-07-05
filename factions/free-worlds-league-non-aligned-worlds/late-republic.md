@@ -1,4 +1,4 @@
-# FreeWorldsLeagueNonAlignedWorlds - LateRepublic
+# Free Worlds League - Non-Aligned Worlds / Late Republic
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# ClanDiamondShark - EarlyRepublic
+# Clan Diamond Shark / Early Republic
 
 ## 10 Tons
 

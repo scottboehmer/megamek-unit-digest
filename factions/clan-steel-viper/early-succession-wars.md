@@ -1,4 +1,4 @@
-# ClanSteelViper - EarlySuccessionWars
+# Clan Steel Viper / Early Succession Wars
 
 ## 20 Tons
 

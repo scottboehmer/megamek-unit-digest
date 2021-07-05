@@ -1,4 +1,4 @@
-# FederatedSuns - EarlyRepublic
+# Federated Suns / Early Republic
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# FederatedSuns - Jihad
+# Federated Suns / Jihad
 
 ## 15 Tons
 

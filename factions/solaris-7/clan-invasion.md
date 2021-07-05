@@ -1,4 +1,4 @@
-# Solaris7 - ClanInvasion
+# Solaris 7 / Clan Invasion
 
 ## 25 Tons
 

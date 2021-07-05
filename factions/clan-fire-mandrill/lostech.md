@@ -1,4 +1,4 @@
-# ClanFireMandrill - LateSuccessionWarsLostech
+# Clan Fire Mandrill / Late Succession Wars - LosTech
 
 ## 20 Tons
 

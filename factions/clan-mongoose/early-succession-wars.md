@@ -1,4 +1,4 @@
-# ClanMongoose - EarlySuccessionWars
+# Clan Mongoose / Early Succession Wars
 
 ## 20 Tons
 

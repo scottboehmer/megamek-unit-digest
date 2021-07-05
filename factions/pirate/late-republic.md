@@ -1,4 +1,4 @@
-# Pirate - LateRepublic
+# Pirate / Late Republic
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# ComStar - LateRepublic
+# ComStar / Late Republic
 
 ## 70 Tons
 

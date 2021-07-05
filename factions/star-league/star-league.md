@@ -1,4 +1,4 @@
-# StarLeague - StarLeague
+# Star League / Star League
 
 ## 20 Tons
 

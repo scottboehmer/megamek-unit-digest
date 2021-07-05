@@ -1,4 +1,4 @@
-# ClanFireMandrill - LateSuccessionWarsRenaissance
+# Clan Fire Mandrill / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

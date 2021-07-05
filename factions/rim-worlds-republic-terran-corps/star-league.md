@@ -1,4 +1,4 @@
-# RimWorldsRepublicTerranCorps - StarLeague
+# Rim Worlds Republic - Terran Corps / Star League
 
 ## 20 Tons
 

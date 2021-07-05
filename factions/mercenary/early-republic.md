@@ -1,4 +1,4 @@
-# Mercenary - EarlyRepublic
+# Mercenary / Early Republic
 
 ## 10 Tons
 

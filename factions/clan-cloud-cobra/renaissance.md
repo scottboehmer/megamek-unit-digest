@@ -1,4 +1,4 @@
-# ClanCloudCobra - LateSuccessionWarsRenaissance
+# Clan Cloud Cobra / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# ClanCloudCobra - LateSuccessionWarsLostech
+# Clan Cloud Cobra / Late Succession Wars - LosTech
 
 ## 20 Tons
 

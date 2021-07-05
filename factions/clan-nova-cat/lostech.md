@@ -1,4 +1,4 @@
-# ClanNovaCat - LateSuccessionWarsLostech
+# Clan Nova Cat / Late Succession Wars - LosTech
 
 ## 20 Tons
 

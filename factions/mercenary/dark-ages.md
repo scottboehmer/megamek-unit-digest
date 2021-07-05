@@ -1,4 +1,4 @@
-# Mercenary - DarkAges
+# Mercenary / Dark Ages
 
 ## 10 Tons
 

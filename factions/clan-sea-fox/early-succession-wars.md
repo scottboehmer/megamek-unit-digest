@@ -1,4 +1,4 @@
-# ClanSeaFox - EarlySuccessionWars
+# Clan Sea Fox / Early Succession Wars
 
 ## 20 Tons
 

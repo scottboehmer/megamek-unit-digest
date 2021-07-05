@@ -1,4 +1,4 @@
-# DuchyOfTamarindAbbey - Jihad
+# Duchy of Tamarind-Abbey / Jihad
 
 ## 10 Tons
 

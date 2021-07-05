@@ -1,4 +1,4 @@
-# ClanHellsHorses - LateRepublic
+# Clan Hell's Horses / Late Republic
 
 ## 10 Tons
 

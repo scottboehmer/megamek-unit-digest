@@ -1,4 +1,4 @@
-# ComStar - CivilWar
+# ComStar / Civil War
 
 ## 15 Tons
 

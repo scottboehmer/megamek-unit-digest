@@ -1,4 +1,4 @@
-# RepublicOfTheSphere - LateRepublic
+# Republic of the Sphere / Late Republic
 
 ## 10 Tons
 

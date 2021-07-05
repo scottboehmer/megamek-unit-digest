@@ -1,4 +1,4 @@
-# ClanWolf - EarlyRepublic
+# Clan Wolf / Early Republic
 
 ## 10 Tons
 

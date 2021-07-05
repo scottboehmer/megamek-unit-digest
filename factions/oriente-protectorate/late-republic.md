@@ -1,4 +1,4 @@
-# OrienteProtectorate - LateRepublic
+# Oriente Protectorate / Late Republic
 
 ## 10 Tons
 

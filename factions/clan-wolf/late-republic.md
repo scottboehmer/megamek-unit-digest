@@ -1,4 +1,4 @@
-# ClanWolf - LateRepublic
+# Clan Wolf / Late Republic
 
 ## 10 Tons
 

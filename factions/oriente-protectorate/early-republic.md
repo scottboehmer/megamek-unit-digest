@@ -1,4 +1,4 @@
-# OrienteProtectorate - EarlyRepublic
+# Oriente Protectorate / Early Republic
 
 ## 10 Tons
 

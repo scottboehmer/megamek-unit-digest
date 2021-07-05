@@ -1,4 +1,4 @@
-# StIvesCompact - ClanInvasion
+# St. Ives Compact / Clan Invasion
 
 ## 15 Tons
 

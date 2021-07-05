@@ -1,4 +1,4 @@
-# ClanIceHellion - CivilWar
+# Clan Ice Hellion / Civil War
 
 ## 20 Tons
 

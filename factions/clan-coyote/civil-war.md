@@ -1,4 +1,4 @@
-# ClanCoyote - CivilWar
+# Clan Coyote / Civil War
 
 ## 20 Tons
 

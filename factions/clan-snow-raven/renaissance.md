@@ -1,4 +1,4 @@
-# ClanSnowRaven - LateSuccessionWarsRenaissance
+# Clan Snow Raven / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

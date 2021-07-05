@@ -1,4 +1,4 @@
-# ClanStarAdder - EarlySuccessionWars
+# Clan Star Adder / Early Succession Wars
 
 ## 20 Tons
 

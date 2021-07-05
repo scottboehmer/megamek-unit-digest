@@ -1,4 +1,4 @@
-# Pirate - DarkAges
+# Pirate / Dark Ages
 
 ## 10 Tons
 

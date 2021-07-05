@@ -1,4 +1,4 @@
-# Pirate - EarlyRepublic
+# Pirate / Early Republic
 
 ## 10 Tons
 

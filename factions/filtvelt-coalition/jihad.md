@@ -1,4 +1,4 @@
-# FiltveltCoalition - Jihad
+# Filtvelt Coalition / Jihad
 
 ## 15 Tons
 

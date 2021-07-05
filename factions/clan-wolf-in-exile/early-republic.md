@@ -1,4 +1,4 @@
-# ClanWolfInExile - EarlyRepublic
+# Clan Wolf-in-Exile / Early Republic
 
 ## 10 Tons
 

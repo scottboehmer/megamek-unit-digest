@@ -1,4 +1,4 @@
-# DraconisCombine - Jihad
+# Draconis Combine / Jihad
 
 ## 15 Tons
 

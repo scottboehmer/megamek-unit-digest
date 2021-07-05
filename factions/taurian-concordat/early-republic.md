@@ -1,4 +1,4 @@
-# TaurianConcordat - EarlyRepublic
+# Taurian Concordat / Early Republic
 
 ## 10 Tons
 

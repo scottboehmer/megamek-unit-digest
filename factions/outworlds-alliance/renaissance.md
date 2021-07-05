@@ -1,4 +1,4 @@
-# OutworldsAlliance - LateSuccessionWarsRenaissance
+# Outworlds Alliance / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

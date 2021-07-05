@@ -1,4 +1,4 @@
-# ClanSnowRaven - ClanInvasion
+# Clan Snow Raven / Clan Invasion
 
 ## 20 Tons
 

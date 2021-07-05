@@ -1,4 +1,4 @@
-# MarikStewartCommonwealth - EarlyRepublic
+# Marik-Stewart Commonwealth / Early Republic
 
 ## 10 Tons
 

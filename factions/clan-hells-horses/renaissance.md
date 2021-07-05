@@ -1,4 +1,4 @@
-# ClanHellsHorses - LateSuccessionWarsRenaissance
+# Clan Hell's Horses / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

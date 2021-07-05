@@ -1,4 +1,4 @@
-# ClanGoliathScorpion - LateSuccessionWarsLostech
+# Clan Goliath Scorpion / Late Succession Wars - LosTech
 
 ## 20 Tons
 

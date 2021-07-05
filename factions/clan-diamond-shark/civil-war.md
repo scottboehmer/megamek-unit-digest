@@ -1,4 +1,4 @@
-# ClanDiamondShark - CivilWar
+# Clan Diamond Shark / Civil War
 
 ## 20 Tons
 

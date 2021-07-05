@@ -1,4 +1,4 @@
-# ClanNovaCat - LateSuccessionWarsRenaissance
+# Clan Nova Cat / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

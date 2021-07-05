@@ -1,4 +1,4 @@
-# ClanBloodSpirit - EarlySuccessionWars
+# Clan Blood Spirit / Early Succession Wars
 
 ## 20 Tons
 

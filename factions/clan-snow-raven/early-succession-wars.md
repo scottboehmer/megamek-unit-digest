@@ -1,4 +1,4 @@
-# ClanSnowRaven - EarlySuccessionWars
+# Clan Snow Raven / Early Succession Wars
 
 ## 20 Tons
 

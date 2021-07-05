@@ -1,4 +1,4 @@
-# DraconisCombine - StarLeague
+# Draconis Combine / Star League
 
 ## 20 Tons
 

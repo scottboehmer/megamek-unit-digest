@@ -1,4 +1,4 @@
-# ClanJadeFalcon - DarkAges
+# Clan Jade Falcon / Dark Ages
 
 ## 10 Tons
 

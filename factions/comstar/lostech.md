@@ -1,4 +1,4 @@
-# ComStar - LateSuccessionWarsLostech
+# ComStar / Late Succession Wars - LosTech
 
 ## 20 Tons
 

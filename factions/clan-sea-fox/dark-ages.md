@@ -1,4 +1,4 @@
-# ClanSeaFox - DarkAges
+# Clan Sea Fox / Dark Ages
 
 ## 10 Tons
 

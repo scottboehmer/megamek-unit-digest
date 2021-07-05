@@ -1,4 +1,4 @@
-# ClanNovaCat - DarkAges
+# Clan Nova Cat / Dark Ages
 
 ## 10 Tons
 

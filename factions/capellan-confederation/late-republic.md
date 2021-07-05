@@ -1,4 +1,4 @@
-# CapellanConfederation - LateRepublic
+# Capellan Confederation / Late Republic
 
 ## 10 Tons
 

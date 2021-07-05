@@ -1,4 +1,4 @@
-# ClanSmokeJaguar - EarlySuccessionWars
+# Clan Smoke Jaguar / Early Succession Wars
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# Mercenary - EarlySuccessionWars
+# Mercenary / Early Succession Wars
 
 ## 20 Tons
 

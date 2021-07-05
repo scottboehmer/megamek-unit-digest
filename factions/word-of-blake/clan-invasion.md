@@ -1,4 +1,4 @@
-# WordOfBlake - ClanInvasion
+# Word of Blake / Clan Invasion
 
 ## 20 Tons
 

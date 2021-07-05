@@ -1,4 +1,4 @@
-# ClanGoliathScorpion - Jihad
+# Clan Goliath Scorpion / Jihad
 
 ## 20 Tons
 

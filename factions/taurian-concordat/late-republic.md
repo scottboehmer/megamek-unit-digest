@@ -1,4 +1,4 @@
-# TaurianConcordat - LateRepublic
+# Taurian Concordat / Late Republic
 
 ## 10 Tons
 

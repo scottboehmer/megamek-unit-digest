@@ -1,4 +1,4 @@
-# RepublicOfTheSphere - DarkAges
+# Republic of the Sphere / Dark Ages
 
 ## 10 Tons
 

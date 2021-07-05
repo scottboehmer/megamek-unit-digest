@@ -1,4 +1,4 @@
-# RavenAlliance - EarlyRepublic
+# Raven Alliance / Early Republic
 
 ## 10 Tons
 

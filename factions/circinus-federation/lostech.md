@@ -1,4 +1,4 @@
-# CircinusFederation - LateSuccessionWarsLostech
+# Circinus Federation / Late Succession Wars - LosTech
 
 ## 20 Tons
 

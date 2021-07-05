@@ -1,4 +1,4 @@
-# ClanJadeFalcon - LateSuccessionWarsLostech
+# Clan Jade Falcon / Late Succession Wars - LosTech
 
 ## 15 Tons
 

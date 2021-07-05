@@ -1,4 +1,4 @@
-# RegulanFiefs - LateRepublic
+# Regulan Fiefs / Late Republic
 
 ## 10 Tons
 

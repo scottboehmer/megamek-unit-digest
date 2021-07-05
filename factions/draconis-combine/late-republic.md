@@ -1,4 +1,4 @@
-# DraconisCombine - LateRepublic
+# Draconis Combine / Late Republic
 
 ## 10 Tons
 

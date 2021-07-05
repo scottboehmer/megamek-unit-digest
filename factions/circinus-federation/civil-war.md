@@ -1,4 +1,4 @@
-# CircinusFederation - CivilWar
+# Circinus Federation / Civil War
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# WolfsDragoons - DarkAges
+# Wolf's Dragoons / Dark Ages
 
 ## 20 Tons
 

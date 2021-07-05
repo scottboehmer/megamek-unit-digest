@@ -1,4 +1,4 @@
-# WolfsDragoons - EarlyRepublic
+# Wolf's Dragoons / Early Republic
 
 ## 20 Tons
 

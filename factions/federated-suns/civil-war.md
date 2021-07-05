@@ -1,4 +1,4 @@
-# FederatedSuns - CivilWar
+# Federated Suns / Civil War
 
 ## 15 Tons
 

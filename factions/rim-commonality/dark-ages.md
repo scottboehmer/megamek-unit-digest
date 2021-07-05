@@ -1,4 +1,4 @@
-# RimCommonality - DarkAges
+# Rim Commonality / Dark Ages
 
 ## 10 Tons
 

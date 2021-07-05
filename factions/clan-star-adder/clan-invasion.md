@@ -1,4 +1,4 @@
-# ClanStarAdder - ClanInvasion
+# Clan Star Adder / Clan Invasion
 
 ## 20 Tons
 

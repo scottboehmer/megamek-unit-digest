@@ -1,4 +1,4 @@
-# Mercenary - LateSuccessionWarsRenaissance
+# Mercenary / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

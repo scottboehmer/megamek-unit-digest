@@ -1,4 +1,4 @@
-# FiltveltCoalition - DarkAges
+# Filtvelt Coalition / Dark Ages
 
 ## 10 Tons
 

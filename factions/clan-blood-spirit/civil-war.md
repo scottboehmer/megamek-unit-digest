@@ -1,4 +1,4 @@
-# ClanBloodSpirit - CivilWar
+# Clan Blood Spirit / Civil War
 
 ## 20 Tons
 

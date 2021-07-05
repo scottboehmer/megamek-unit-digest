@@ -1,4 +1,4 @@
-# OutworldsAlliance - EarlySuccessionWars
+# Outworlds Alliance / Early Succession Wars
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# ClanCloudCobra - ClanInvasion
+# Clan Cloud Cobra / Clan Invasion
 
 ## 20 Tons
 

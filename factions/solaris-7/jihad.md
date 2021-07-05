@@ -1,4 +1,4 @@
-# Solaris7 - Jihad
+# Solaris 7 / Jihad
 
 ## 20 Tons
 

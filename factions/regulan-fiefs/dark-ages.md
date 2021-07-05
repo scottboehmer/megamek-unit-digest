@@ -1,4 +1,4 @@
-# RegulanFiefs - DarkAges
+# Regulan Fiefs / Dark Ages
 
 ## 10 Tons
 

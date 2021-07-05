@@ -1,4 +1,4 @@
-# ClanCoyote - Jihad
+# Clan Coyote / Jihad
 
 ## 20 Tons
 

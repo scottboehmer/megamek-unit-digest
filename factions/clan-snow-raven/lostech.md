@@ -1,4 +1,4 @@
-# ClanSnowRaven - LateSuccessionWarsLostech
+# Clan Snow Raven / Late Succession Wars - LosTech
 
 ## 20 Tons
 

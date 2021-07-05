@@ -1,4 +1,4 @@
-# ClanFireMandrill - CivilWar
+# Clan Fire Mandrill / Civil War
 
 ## 20 Tons
 

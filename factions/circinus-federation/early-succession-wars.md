@@ -1,4 +1,4 @@
-# CircinusFederation - EarlySuccessionWars
+# Circinus Federation / Early Succession Wars
 
 ## 20 Tons
 

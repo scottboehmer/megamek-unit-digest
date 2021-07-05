@@ -1,4 +1,4 @@
-# ClanJadeFalcon - EarlySuccessionWars
+# Clan Jade Falcon / Early Succession Wars
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# KellHounds - LateSuccessionWarsLostech
+# Kell Hounds / Late Succession Wars - LosTech
 
 ## 20 Tons
 

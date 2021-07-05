@@ -1,4 +1,4 @@
-# ClanBurrock - LateSuccessionWarsLostech
+# Clan Burrock / Late Succession Wars - LosTech
 
 ## 20 Tons
 

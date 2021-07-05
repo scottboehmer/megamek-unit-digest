@@ -1,4 +1,4 @@
-# ClanGhostBear - CivilWar
+# Clan Ghost Bear / Civil War
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# FreeWorldsLeague - CivilWar
+# Free Worlds League / Civil War
 
 ## 15 Tons
 

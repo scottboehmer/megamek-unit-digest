@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - EarlySuccessionWars
+# Magistracy of Canopus / Early Succession Wars
 
 ## 20 Tons
 

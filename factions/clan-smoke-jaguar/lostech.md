@@ -1,4 +1,4 @@
-# ClanSmokeJaguar - LateSuccessionWarsLostech
+# Clan Smoke Jaguar / Late Succession Wars - LosTech
 
 ## 20 Tons
 

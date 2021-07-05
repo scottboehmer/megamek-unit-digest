@@ -1,4 +1,4 @@
-# CapellanConfederation - ClanInvasion
+# Capellan Confederation / Clan Invasion
 
 ## 15 Tons
 

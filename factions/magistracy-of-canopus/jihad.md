@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - Jihad
+# Magistracy of Canopus / Jihad
 
 ## 15 Tons
 

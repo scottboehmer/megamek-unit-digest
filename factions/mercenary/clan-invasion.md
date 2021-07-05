@@ -1,4 +1,4 @@
-# Mercenary - ClanInvasion
+# Mercenary / Clan Invasion
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# ClanWolf - EarlySuccessionWars
+# Clan Wolf / Early Succession Wars
 
 ## 20 Tons
 

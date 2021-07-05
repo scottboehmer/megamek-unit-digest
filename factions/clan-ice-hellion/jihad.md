@@ -1,4 +1,4 @@
-# ClanIceHellion - Jihad
+# Clan Ice Hellion / Jihad
 
 ## 20 Tons
 

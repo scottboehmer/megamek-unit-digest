@@ -1,4 +1,4 @@
-# DuchyOfTamarindAbbey - DarkAges
+# Duchy of Tamarind-Abbey / Dark Ages
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - LateSuccessionWarsRenaissance
+# Magistracy of Canopus / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

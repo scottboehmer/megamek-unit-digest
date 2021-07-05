@@ -1,4 +1,4 @@
-# MarianHegemony - CivilWar
+# Marian Hegemony / Civil War
 
 ## 20 Tons
 

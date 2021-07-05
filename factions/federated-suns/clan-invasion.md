@@ -1,4 +1,4 @@
-# FederatedSuns - ClanInvasion
+# Federated Suns / Clan Invasion
 
 ## 15 Tons
 

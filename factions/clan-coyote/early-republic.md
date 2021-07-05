@@ -1,4 +1,4 @@
-# ClanCoyote - EarlyRepublic
+# Clan Coyote / Early Republic
 
 ## 30 Tons
 

@@ -1,4 +1,4 @@
-# Solaris7 - EarlySuccessionWars
+# Solaris 7 / Early Succession Wars
 
 ## 80 Tons
 

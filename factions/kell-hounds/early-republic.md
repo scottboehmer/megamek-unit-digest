@@ -1,4 +1,4 @@
-# KellHounds - EarlyRepublic
+# Kell Hounds / Early Republic
 
 ## 20 Tons
 

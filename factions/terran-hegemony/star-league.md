@@ -1,4 +1,4 @@
-# TerranHegemony - StarLeague
+# Terran Hegemony / Star League
 
 ## 20 Tons
 

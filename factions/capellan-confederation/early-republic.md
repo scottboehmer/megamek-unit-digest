@@ -1,4 +1,4 @@
-# CapellanConfederation - EarlyRepublic
+# Capellan Confederation / Early Republic
 
 ## 10 Tons
 

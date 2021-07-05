@@ -1,4 +1,4 @@
-# FederatedSuns - DarkAges
+# Federated Suns / Dark Ages
 
 ## 10 Tons
 

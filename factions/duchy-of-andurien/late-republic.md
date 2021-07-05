@@ -1,4 +1,4 @@
-# DuchyOfAndurien - LateRepublic
+# Duchy of Andurien / Late Republic
 
 ## 10 Tons
 

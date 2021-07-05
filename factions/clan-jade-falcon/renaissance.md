@@ -1,4 +1,4 @@
-# ClanJadeFalcon - LateSuccessionWarsRenaissance
+# Clan Jade Falcon / Late Succession Wars - Renaissance
 
 ## 15 Tons
 

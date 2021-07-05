@@ -1,4 +1,4 @@
-# RimWorldsRepublic - StarLeague
+# Rim Worlds Republic / Star League
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# ClanBloodSpirit - LateSuccessionWarsRenaissance
+# Clan Blood Spirit / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

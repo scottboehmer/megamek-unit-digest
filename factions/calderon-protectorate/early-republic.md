@@ -1,4 +1,4 @@
-# CalderonProtectorate - EarlyRepublic
+# Calderon Protectorate / Early Republic
 
 ## 10 Tons
 

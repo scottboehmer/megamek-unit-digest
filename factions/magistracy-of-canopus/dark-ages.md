@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - DarkAges
+# Magistracy of Canopus / Dark Ages
 
 ## 10 Tons
 

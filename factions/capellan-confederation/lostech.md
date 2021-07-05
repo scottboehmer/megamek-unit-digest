@@ -1,4 +1,4 @@
-# CapellanConfederation - LateSuccessionWarsLostech
+# Capellan Confederation / Late Succession Wars - LosTech
 
 ## 15 Tons
 

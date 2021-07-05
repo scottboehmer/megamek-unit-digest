@@ -1,4 +1,4 @@
-# KellHounds - CivilWar
+# Kell Hounds / Civil War
 
 ## 20 Tons
 

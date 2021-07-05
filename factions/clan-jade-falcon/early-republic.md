@@ -1,4 +1,4 @@
-# ClanJadeFalcon - EarlyRepublic
+# Clan Jade Falcon / Early Republic
 
 ## 10 Tons
 

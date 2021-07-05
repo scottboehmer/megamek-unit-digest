@@ -1,4 +1,4 @@
-# ClanStoneLion - Jihad
+# Clan Stone Lion / Jihad
 
 ## 20 Tons
 

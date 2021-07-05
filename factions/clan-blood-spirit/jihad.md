@@ -1,4 +1,4 @@
-# ClanBloodSpirit - Jihad
+# Clan Blood Spirit / Jihad
 
 ## 20 Tons
 

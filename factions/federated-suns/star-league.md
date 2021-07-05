@@ -1,4 +1,4 @@
-# FederatedSuns - StarLeague
+# Federated Suns / Star League
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# CapellanConfederation - CivilWar
+# Capellan Confederation / Civil War
 
 ## 15 Tons
 

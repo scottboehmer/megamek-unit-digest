@@ -1,4 +1,4 @@
-# ClanGhostBear - Jihad
+# Clan Ghost Bear / Jihad
 
 ## 20 Tons
 

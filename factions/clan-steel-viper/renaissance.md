@@ -1,4 +1,4 @@
-# ClanSteelViper - LateSuccessionWarsRenaissance
+# Clan Steel Viper / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

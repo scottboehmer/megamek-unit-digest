@@ -1,4 +1,4 @@
-# ClanBurrock - Jihad
+# Clan Burrock / Jihad
 
 ## 20 Tons
 

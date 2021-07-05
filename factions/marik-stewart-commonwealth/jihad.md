@@ -1,4 +1,4 @@
-# MarikStewartCommonwealth - Jihad
+# Marik-Stewart Commonwealth / Jihad
 
 ## 10 Tons
 

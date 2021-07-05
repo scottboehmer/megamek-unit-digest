@@ -1,4 +1,4 @@
-# EscorpionImperio - Jihad
+# Escorpión Imperio / Jihad
 
 ## 20 Tons
 

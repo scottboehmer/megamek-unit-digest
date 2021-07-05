@@ -1,4 +1,4 @@
-# KellHounds - Jihad
+# Kell Hounds / Jihad
 
 ## 20 Tons
 

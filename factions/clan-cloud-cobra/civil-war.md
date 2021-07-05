@@ -1,4 +1,4 @@
-# ClanCloudCobra - CivilWar
+# Clan Cloud Cobra / Civil War
 
 ## 20 Tons
 

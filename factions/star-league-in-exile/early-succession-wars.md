@@ -1,4 +1,4 @@
-# StarLeagueInExile - EarlySuccessionWars
+# Star League-in-Exile / Early Succession Wars
 
 ## 20 Tons
 

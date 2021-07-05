@@ -1,4 +1,4 @@
-# FiltveltCoalition - LateRepublic
+# Filtvelt Coalition / Late Republic
 
 ## 10 Tons
 

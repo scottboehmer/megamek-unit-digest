@@ -1,4 +1,4 @@
-# DraconisCombine - DarkAges
+# Draconis Combine / Dark Ages
 
 ## 10 Tons
 

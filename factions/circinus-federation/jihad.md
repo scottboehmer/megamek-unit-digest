@@ -1,4 +1,4 @@
-# CircinusFederation - Jihad
+# Circinus Federation / Jihad
 
 ## 15 Tons
 

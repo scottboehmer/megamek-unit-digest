@@ -1,4 +1,4 @@
-# FreeRasalhagueRepublic - LateSuccessionWarsRenaissance
+# Free Rasalhague Republic / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

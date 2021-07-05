@@ -1,4 +1,4 @@
-# RavenAlliance - LateRepublic
+# Raven Alliance / Late Republic
 
 ## 10 Tons
 

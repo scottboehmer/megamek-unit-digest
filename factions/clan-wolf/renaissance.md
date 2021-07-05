@@ -1,4 +1,4 @@
-# ClanWolf - LateSuccessionWarsRenaissance
+# Clan Wolf / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

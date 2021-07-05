@@ -1,4 +1,4 @@
-# CircinusFederation - ClanInvasion
+# Circinus Federation / Clan Invasion
 
 ## 20 Tons
 

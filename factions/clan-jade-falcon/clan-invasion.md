@@ -1,4 +1,4 @@
-# ClanJadeFalcon - ClanInvasion
+# Clan Jade Falcon / Clan Invasion
 
 ## 15 Tons
 

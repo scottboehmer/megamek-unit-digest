@@ -1,4 +1,4 @@
-# CapellanConfederation - EarlySuccessionWars
+# Capellan Confederation / Early Succession Wars
 
 ## 20 Tons
 

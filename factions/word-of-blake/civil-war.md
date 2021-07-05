@@ -1,4 +1,4 @@
-# WordOfBlake - CivilWar
+# Word of Blake / Civil War
 
 ## 20 Tons
 

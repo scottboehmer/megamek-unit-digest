@@ -1,4 +1,4 @@
-# OutworldsAlliance - StarLeague
+# Outworlds Alliance / Star League
 
 ## 20 Tons
 

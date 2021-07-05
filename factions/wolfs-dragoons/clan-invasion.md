@@ -1,4 +1,4 @@
-# WolfsDragoons - ClanInvasion
+# Wolf's Dragoons / Clan Invasion
 
 ## 20 Tons
 

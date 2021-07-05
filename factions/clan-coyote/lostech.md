@@ -1,4 +1,4 @@
-# ClanCoyote - LateSuccessionWarsLostech
+# Clan Coyote / Late Succession Wars - LosTech
 
 ## 20 Tons
 

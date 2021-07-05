@@ -1,4 +1,4 @@
-# RasalhagueDominion - DarkAges
+# Rasalhague Dominion / Dark Ages
 
 ## 10 Tons
 

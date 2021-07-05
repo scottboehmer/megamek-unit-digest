@@ -1,4 +1,4 @@
-# StIvesCompact - LateSuccessionWarsRenaissance
+# St. Ives Compact / Late Succession Wars - Renaissance
 
 ## 15 Tons
 

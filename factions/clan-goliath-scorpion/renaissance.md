@@ -1,4 +1,4 @@
-# ClanGoliathScorpion - LateSuccessionWarsRenaissance
+# Clan Goliath Scorpion / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

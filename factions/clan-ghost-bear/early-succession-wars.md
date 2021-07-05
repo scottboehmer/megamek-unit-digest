@@ -1,4 +1,4 @@
-# ClanGhostBear - EarlySuccessionWars
+# Clan Ghost Bear / Early Succession Wars
 
 ## 20 Tons
 

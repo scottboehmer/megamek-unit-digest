@@ -1,4 +1,4 @@
-# ClanWolf - DarkAges
+# Clan Wolf / Dark Ages
 
 ## 10 Tons
 

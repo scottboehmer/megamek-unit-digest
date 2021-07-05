@@ -1,4 +1,4 @@
-# Pirate - EarlySuccessionWars
+# Pirate / Early Succession Wars
 
 ## 20 Tons
 

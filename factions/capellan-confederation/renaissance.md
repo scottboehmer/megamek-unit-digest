@@ -1,4 +1,4 @@
-# CapellanConfederation - LateSuccessionWarsRenaissance
+# Capellan Confederation / Late Succession Wars - Renaissance
 
 ## 15 Tons
 

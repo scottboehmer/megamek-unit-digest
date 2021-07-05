@@ -1,4 +1,4 @@
-# ClanStarAdder - LateSuccessionWarsRenaissance
+# Clan Star Adder / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

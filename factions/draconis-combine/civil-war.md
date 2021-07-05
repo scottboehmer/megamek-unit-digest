@@ -1,4 +1,4 @@
-# DraconisCombine - CivilWar
+# Draconis Combine / Civil War
 
 ## 20 Tons
 

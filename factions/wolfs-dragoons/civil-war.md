@@ -1,4 +1,4 @@
-# WolfsDragoons - CivilWar
+# Wolf's Dragoons / Civil War
 
 ## 20 Tons
 

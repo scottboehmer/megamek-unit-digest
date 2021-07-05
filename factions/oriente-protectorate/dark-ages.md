@@ -1,4 +1,4 @@
-# OrienteProtectorate - DarkAges
+# Oriente Protectorate / Dark Ages
 
 ## 10 Tons
 

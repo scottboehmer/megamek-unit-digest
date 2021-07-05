@@ -1,4 +1,4 @@
-# ClanCoyote - EarlySuccessionWars
+# Clan Coyote / Early Succession Wars
 
 ## 20 Tons
 

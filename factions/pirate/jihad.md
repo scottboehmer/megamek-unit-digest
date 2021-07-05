@@ -1,4 +1,4 @@
-# Pirate - Jihad
+# Pirate / Jihad
 
 ## 15 Tons
 

@@ -1,4 +1,4 @@
-# ClanSteelViper - LateSuccessionWarsLostech
+# Clan Steel Viper / Late Succession Wars - LosTech
 
 ## 20 Tons
 

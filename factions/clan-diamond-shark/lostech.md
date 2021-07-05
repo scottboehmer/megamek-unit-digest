@@ -1,4 +1,4 @@
-# ClanDiamondShark - LateSuccessionWarsLostech
+# Clan Diamond Shark / Late Succession Wars - LosTech
 
 ## 20 Tons
 

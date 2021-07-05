@@ -1,4 +1,4 @@
-# Mercenary - LateRepublic
+# Mercenary / Late Republic
 
 ## 10 Tons
 

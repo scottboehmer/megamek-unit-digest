@@ -1,4 +1,4 @@
-# ClanWolverine - EarlySuccessionWars
+# Clan Wolverine / Early Succession Wars
 
 ## 20 Tons
 

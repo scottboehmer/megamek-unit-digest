@@ -1,4 +1,4 @@
-# CalderonProtectorate - Jihad
+# Calderon Protectorate / Jihad
 
 ## 15 Tons
 

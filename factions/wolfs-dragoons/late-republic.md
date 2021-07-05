@@ -1,4 +1,4 @@
-# WolfsDragoons - LateRepublic
+# Wolf's Dragoons / Late Republic
 
 ## 20 Tons
 

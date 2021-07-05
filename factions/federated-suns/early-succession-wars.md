@@ -1,4 +1,4 @@
-# FederatedSuns - EarlySuccessionWars
+# Federated Suns / Early Succession Wars
 
 ## 20 Tons
 

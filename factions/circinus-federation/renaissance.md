@@ -1,4 +1,4 @@
-# CircinusFederation - LateSuccessionWarsRenaissance
+# Circinus Federation / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

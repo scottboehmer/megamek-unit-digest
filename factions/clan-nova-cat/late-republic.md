@@ -1,4 +1,4 @@
-# ClanNovaCat - LateRepublic
+# Clan Nova Cat / Late Republic
 
 ## 10 Tons
 

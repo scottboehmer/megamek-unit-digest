@@ -1,4 +1,4 @@
-# FreeWorldsLeague - Jihad
+# Free Worlds League / Jihad
 
 ## 15 Tons
 

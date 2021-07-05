@@ -1,4 +1,4 @@
-# FreeWorldsLeague - LateSuccessionWarsRenaissance
+# Free Worlds League / Late Succession Wars - Renaissance
 
 ## 15 Tons
 

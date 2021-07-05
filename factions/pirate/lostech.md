@@ -1,4 +1,4 @@
-# Pirate - LateSuccessionWarsLostech
+# Pirate / Late Succession Wars - LosTech
 
 ## 20 Tons
 

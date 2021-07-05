@@ -1,4 +1,4 @@
-# DraconisCombine - LateSuccessionWarsRenaissance
+# Draconis Combine / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

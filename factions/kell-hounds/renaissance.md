@@ -1,4 +1,4 @@
-# KellHounds - LateSuccessionWarsRenaissance
+# Kell Hounds / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

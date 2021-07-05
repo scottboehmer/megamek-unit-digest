@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - LateRepublic
+# Magistracy of Canopus / Late Republic
 
 ## 10 Tons
 

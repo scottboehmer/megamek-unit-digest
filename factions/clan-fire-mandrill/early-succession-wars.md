@@ -1,4 +1,4 @@
-# ClanFireMandrill - EarlySuccessionWars
+# Clan Fire Mandrill / Early Succession Wars
 
 ## 20 Tons
 

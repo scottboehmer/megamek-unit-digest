@@ -1,4 +1,4 @@
-# ClanDiamondShark - LateSuccessionWarsRenaissance
+# Clan Diamond Shark / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

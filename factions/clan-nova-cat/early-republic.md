@@ -1,4 +1,4 @@
-# ClanNovaCat - EarlyRepublic
+# Clan Nova Cat / Early Republic
 
 ## 10 Tons
 

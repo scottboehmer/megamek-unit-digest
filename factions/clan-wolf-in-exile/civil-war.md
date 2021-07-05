@@ -1,4 +1,4 @@
-# ClanWolfInExile - CivilWar
+# Clan Wolf-in-Exile / Civil War
 
 ## 20 Tons
 

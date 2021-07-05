@@ -1,4 +1,4 @@
-# FreeWorldsLeagueNonAlignedWorlds - DarkAges
+# Free Worlds League - Non-Aligned Worlds / Dark Ages
 
 ## 10 Tons
 

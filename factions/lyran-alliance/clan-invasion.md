@@ -1,4 +1,4 @@
-# LyranAlliance - ClanInvasion
+# Lyran Alliance / Clan Invasion
 
 ## 20 Tons
 

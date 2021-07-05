@@ -1,4 +1,4 @@
-# ClanSmokeJaguar - ClanInvasion
+# Clan Smoke Jaguar / Clan Invasion
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# RegulanFiefs - Jihad
+# Regulan Fiefs / Jihad
 
 ## 10 Tons
 

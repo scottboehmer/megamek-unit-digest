@@ -1,4 +1,4 @@
-# OutworldsAlliance - LateSuccessionWarsLostech
+# Outworlds Alliance / Late Succession Wars - LosTech
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# WolfsDragoons - LateSuccessionWarsLostech
+# Wolf's Dragoons / Late Succession Wars - LosTech
 
 ## 20 Tons
 

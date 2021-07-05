@@ -1,4 +1,4 @@
-# ClanHellsHorses - EarlySuccessionWars
+# Clan Hell's Horses / Early Succession Wars
 
 ## 20 Tons
 

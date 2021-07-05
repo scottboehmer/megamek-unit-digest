@@ -1,4 +1,4 @@
-# ClanSeaFox - LateSuccessionWarsLostech
+# Clan Sea Fox / Late Succession Wars - LosTech
 
 ## 20 Tons
 

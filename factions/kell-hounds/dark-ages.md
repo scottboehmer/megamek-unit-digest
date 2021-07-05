@@ -1,4 +1,4 @@
-# KellHounds - DarkAges
+# Kell Hounds / Dark Ages
 
 ## 20 Tons
 

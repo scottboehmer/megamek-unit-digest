@@ -1,4 +1,4 @@
-# Pirate - LateSuccessionWarsRenaissance
+# Pirate / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

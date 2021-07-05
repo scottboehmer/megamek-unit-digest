@@ -1,4 +1,4 @@
-# DuchyOfAndurien - DarkAges
+# Duchy of Andurien / Dark Ages
 
 ## 10 Tons
 

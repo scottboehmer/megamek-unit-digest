@@ -1,4 +1,4 @@
-# ClanWolfInExile - DarkAges
+# Clan Wolf-in-Exile / Dark Ages
 
 ## 10 Tons
 

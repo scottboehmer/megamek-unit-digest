@@ -1,4 +1,4 @@
-# ClanDiamondShark - LateRepublic
+# Clan Diamond Shark / Late Republic
 
 ## 10 Tons
 

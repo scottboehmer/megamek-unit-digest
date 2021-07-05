@@ -1,4 +1,4 @@
-# FreeWorldsLeague - DarkAges
+# Free Worlds League / Dark Ages
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# SecondStarLeague - CivilWar
+# Second Star League / Civil War
 
 ## 20 Tons
 

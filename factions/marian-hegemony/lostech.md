@@ -1,4 +1,4 @@
-# MarianHegemony - LateSuccessionWarsLostech
+# Marian Hegemony / Late Succession Wars - LosTech
 
 ## 40 Tons
 

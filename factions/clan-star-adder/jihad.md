@@ -1,4 +1,4 @@
-# ClanStarAdder - Jihad
+# Clan Star Adder / Jihad
 
 ## 20 Tons
 

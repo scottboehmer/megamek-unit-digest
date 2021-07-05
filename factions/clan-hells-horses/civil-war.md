@@ -1,4 +1,4 @@
-# ClanHellsHorses - CivilWar
+# Clan Hell's Horses / Civil War
 
 ## 20 Tons
 

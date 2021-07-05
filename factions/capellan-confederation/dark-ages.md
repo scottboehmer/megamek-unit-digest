@@ -1,4 +1,4 @@
-# CapellanConfederation - DarkAges
+# Capellan Confederation / Dark Ages
 
 ## 10 Tons
 

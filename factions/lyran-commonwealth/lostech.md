@@ -1,4 +1,4 @@
-# LyranCommonwealth - LateSuccessionWarsLostech
+# Lyran Commonwealth / Late Succession Wars - LosTech
 
 ## 20 Tons
 

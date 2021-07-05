@@ -1,4 +1,4 @@
-# KellHounds - LateRepublic
+# Kell Hounds / Late Republic
 
 ## 20 Tons
 

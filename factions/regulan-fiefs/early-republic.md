@@ -1,4 +1,4 @@
-# RegulanFiefs - EarlyRepublic
+# Regulan Fiefs / Early Republic
 
 ## 10 Tons
 

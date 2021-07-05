@@ -1,4 +1,4 @@
-# ClanCoyote - LateSuccessionWarsRenaissance
+# Clan Coyote / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

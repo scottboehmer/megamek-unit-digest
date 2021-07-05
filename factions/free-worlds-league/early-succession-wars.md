@@ -1,4 +1,4 @@
-# FreeWorldsLeague - EarlySuccessionWars
+# Free Worlds League / Early Succession Wars
 
 ## 15 Tons
 

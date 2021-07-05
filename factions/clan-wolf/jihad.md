@@ -1,4 +1,4 @@
-# ClanWolf - Jihad
+# Clan Wolf / Jihad
 
 ## 20 Tons
 

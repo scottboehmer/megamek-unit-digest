@@ -1,4 +1,4 @@
-# ClanNovaCat - EarlySuccessionWars
+# Clan Nova Cat / Early Succession Wars
 
 ## 20 Tons
 

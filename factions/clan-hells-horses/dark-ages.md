@@ -1,4 +1,4 @@
-# ClanHellsHorses - DarkAges
+# Clan Hell's Horses / Dark Ages
 
 ## 10 Tons
 

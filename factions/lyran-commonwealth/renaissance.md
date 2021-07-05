@@ -1,4 +1,4 @@
-# LyranCommonwealth - LateSuccessionWarsRenaissance
+# Lyran Commonwealth / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

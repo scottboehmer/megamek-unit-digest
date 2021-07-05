@@ -1,4 +1,4 @@
-# ScorpionEmpire - DarkAges
+# Scorpion Empire / Dark Ages
 
 ## 20 Tons
 

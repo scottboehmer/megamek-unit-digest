@@ -1,4 +1,4 @@
-# ClanBurrock - LateSuccessionWarsRenaissance
+# Clan Burrock / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

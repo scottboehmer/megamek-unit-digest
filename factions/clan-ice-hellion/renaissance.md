@@ -1,4 +1,4 @@
-# ClanIceHellion - LateSuccessionWarsRenaissance
+# Clan Ice Hellion / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

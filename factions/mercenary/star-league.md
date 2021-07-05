@@ -1,4 +1,4 @@
-# Mercenary - StarLeague
+# Mercenary / Star League
 
 ## 20 Tons
 

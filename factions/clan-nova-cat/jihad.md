@@ -1,4 +1,4 @@
-# ClanNovaCat - Jihad
+# Clan Nova Cat / Jihad
 
 ## 20 Tons
 

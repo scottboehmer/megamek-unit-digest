@@ -1,4 +1,4 @@
-# TaurianConcordat - CivilWar
+# Taurian Concordat / Civil War
 
 ## 15 Tons
 

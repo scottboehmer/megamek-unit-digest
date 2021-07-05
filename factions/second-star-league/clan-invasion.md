@@ -1,4 +1,4 @@
-# SecondStarLeague - ClanInvasion
+# Second Star League / Clan Invasion
 
 ## 20 Tons
 

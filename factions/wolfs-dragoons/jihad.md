@@ -1,4 +1,4 @@
-# WolfsDragoons - Jihad
+# Wolf's Dragoons / Jihad
 
 ## 20 Tons
 

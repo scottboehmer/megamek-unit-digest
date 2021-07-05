@@ -1,4 +1,4 @@
-# ClanJadeFalcon - CivilWar
+# Clan Jade Falcon / Civil War
 
 ## 20 Tons
 

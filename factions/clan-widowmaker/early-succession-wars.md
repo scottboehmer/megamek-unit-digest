@@ -1,4 +1,4 @@
-# ClanWidowmaker - EarlySuccessionWars
+# Clan Widowmaker / Early Succession Wars
 
 ## 20 Tons
 

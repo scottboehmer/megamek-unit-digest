@@ -1,4 +1,4 @@
-# TaurianConcordat - DarkAges
+# Taurian Concordat / Dark Ages
 
 ## 10 Tons
 

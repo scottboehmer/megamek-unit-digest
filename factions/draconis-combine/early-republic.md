@@ -1,4 +1,4 @@
-# DraconisCombine - EarlyRepublic
+# Draconis Combine / Early Republic
 
 ## 10 Tons
 

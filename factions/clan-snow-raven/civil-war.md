@@ -1,4 +1,4 @@
-# ClanSnowRaven - CivilWar
+# Clan Snow Raven / Civil War
 
 ## 20 Tons
 

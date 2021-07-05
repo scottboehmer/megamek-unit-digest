@@ -1,4 +1,4 @@
-# TaurianConcordat - LateSuccessionWarsRenaissance
+# Taurian Concordat / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

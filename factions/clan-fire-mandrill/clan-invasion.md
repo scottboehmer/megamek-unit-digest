@@ -1,4 +1,4 @@
-# ClanFireMandrill - ClanInvasion
+# Clan Fire Mandrill / Clan Invasion
 
 ## 20 Tons
 

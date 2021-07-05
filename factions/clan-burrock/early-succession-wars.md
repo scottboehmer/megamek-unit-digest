@@ -1,4 +1,4 @@
-# ClanBurrock - EarlySuccessionWars
+# Clan Burrock / Early Succession Wars
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# Solaris7 - EarlyRepublic
+# Solaris 7 / Early Republic
 
 ## 25 Tons
 

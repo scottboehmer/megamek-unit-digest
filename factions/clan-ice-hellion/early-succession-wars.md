@@ -1,4 +1,4 @@
-# ClanIceHellion - EarlySuccessionWars
+# Clan Ice Hellion / Early Succession Wars
 
 ## 20 Tons
 

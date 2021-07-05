@@ -1,4 +1,4 @@
-# FreeRasalhagueRepublic - CivilWar
+# Free Rasalhague Republic / Civil War
 
 ## 20 Tons
 

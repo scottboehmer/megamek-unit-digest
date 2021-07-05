@@ -1,4 +1,4 @@
-# ClanHellsHorses - ClanInvasion
+# Clan Hell's Horses / Clan Invasion
 
 ## 20 Tons
 

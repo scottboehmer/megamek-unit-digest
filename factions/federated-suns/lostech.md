@@ -1,4 +1,4 @@
-# FederatedSuns - LateSuccessionWarsLostech
+# Federated Suns / Late Succession Wars - LosTech
 
 ## 20 Tons
 

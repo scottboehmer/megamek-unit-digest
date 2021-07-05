@@ -1,4 +1,4 @@
-# ClanGoliathScorpion - EarlySuccessionWars
+# Clan Goliath Scorpion / Early Succession Wars
 
 ## 20 Tons
 

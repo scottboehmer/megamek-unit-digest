@@ -1,4 +1,4 @@
-# ClanDiamondShark - Jihad
+# Clan Diamond Shark / Jihad
 
 ## 20 Tons
 

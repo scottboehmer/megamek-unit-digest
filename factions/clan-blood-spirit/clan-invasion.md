@@ -1,4 +1,4 @@
-# ClanBloodSpirit - ClanInvasion
+# Clan Blood Spirit / Clan Invasion
 
 ## 20 Tons
 

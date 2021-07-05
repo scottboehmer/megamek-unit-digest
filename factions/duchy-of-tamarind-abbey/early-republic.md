@@ -1,4 +1,4 @@
-# DuchyOfTamarindAbbey - EarlyRepublic
+# Duchy of Tamarind-Abbey / Early Republic
 
 ## 10 Tons
 

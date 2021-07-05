@@ -1,4 +1,4 @@
-# ClanBurrock - ClanInvasion
+# Clan Burrock / Clan Invasion
 
 ## 20 Tons
 

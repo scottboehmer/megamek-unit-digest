@@ -1,4 +1,4 @@
-# MarianHegemony - LateRepublic
+# Marian Hegemony / Late Republic
 
 ## 10 Tons
 

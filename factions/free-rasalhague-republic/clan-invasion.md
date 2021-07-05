@@ -1,4 +1,4 @@
-# FreeRasalhagueRepublic - ClanInvasion
+# Free Rasalhague Republic / Clan Invasion
 
 ## 20 Tons
 

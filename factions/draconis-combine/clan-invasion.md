@@ -1,4 +1,4 @@
-# DraconisCombine - ClanInvasion
+# Draconis Combine / Clan Invasion
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# ClanGhostBear - LateSuccessionWarsLostech
+# Clan Ghost Bear / Late Succession Wars - LosTech
 
 ## 20 Tons
 

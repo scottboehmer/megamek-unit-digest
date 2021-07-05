@@ -1,4 +1,4 @@
-# ClanNovaCat - ClanInvasion
+# Clan Nova Cat / Clan Invasion
 
 ## 20 Tons
 

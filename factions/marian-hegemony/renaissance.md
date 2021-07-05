@@ -1,4 +1,4 @@
-# MarianHegemony - LateSuccessionWarsRenaissance
+# Marian Hegemony / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

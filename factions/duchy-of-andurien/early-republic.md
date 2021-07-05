@@ -1,4 +1,4 @@
-# DuchyOfAndurien - EarlyRepublic
+# Duchy of Andurien / Early Republic
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# Solaris7 - DarkAges
+# Solaris 7 / Dark Ages
 
 ## 20 Tons
 

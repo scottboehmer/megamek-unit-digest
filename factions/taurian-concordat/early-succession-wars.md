@@ -1,4 +1,4 @@
-# TaurianConcordat - EarlySuccessionWars
+# Taurian Concordat / Early Succession Wars
 
 ## 20 Tons
 

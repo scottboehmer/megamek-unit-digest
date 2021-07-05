@@ -1,4 +1,4 @@
-# MarianHegemony - Jihad
+# Marian Hegemony / Jihad
 
 ## 15 Tons
 

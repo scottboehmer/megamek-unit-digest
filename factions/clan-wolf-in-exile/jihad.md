@@ -1,4 +1,4 @@
-# ClanWolfInExile - Jihad
+# Clan Wolf-in-Exile / Jihad
 
 ## 20 Tons
 

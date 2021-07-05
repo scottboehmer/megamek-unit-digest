@@ -1,4 +1,4 @@
-# Solaris7 - LateSuccessionWarsRenaissance
+# Solaris 7 / Late Succession Wars - Renaissance
 
 ## 80 Tons
 

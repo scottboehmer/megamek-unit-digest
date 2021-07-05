@@ -1,4 +1,4 @@
-# OrienteProtectorate - Jihad
+# Oriente Protectorate / Jihad
 
 ## 10 Tons
 

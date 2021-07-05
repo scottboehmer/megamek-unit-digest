@@ -1,4 +1,4 @@
-# ClanWolf - CivilWar
+# Clan Wolf / Civil War
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# TaurianConcordat - StarLeague
+# Taurian Concordat / Star League
 
 ## 20 Tons
 

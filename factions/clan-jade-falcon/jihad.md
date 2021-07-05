@@ -1,4 +1,4 @@
-# ClanJadeFalcon - Jihad
+# Clan Jade Falcon / Jihad
 
 ## 20 Tons
 

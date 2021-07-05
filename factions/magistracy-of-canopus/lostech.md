@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - LateSuccessionWarsLostech
+# Magistracy of Canopus / Late Succession Wars - LosTech
 
 ## 20 Tons
 

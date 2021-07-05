@@ -1,4 +1,4 @@
-# ClanWolf - LateSuccessionWarsLostech
+# Clan Wolf / Late Succession Wars - LosTech
 
 ## 20 Tons
 

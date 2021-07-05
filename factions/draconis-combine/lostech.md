@@ -1,4 +1,4 @@
-# DraconisCombine - LateSuccessionWarsLostech
+# Draconis Combine / Late Succession Wars - LosTech
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# Solaris7 - LateRepublic
+# Solaris 7 / Late Republic
 
 ## 25 Tons
 

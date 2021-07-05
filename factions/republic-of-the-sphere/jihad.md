@@ -1,4 +1,4 @@
-# RepublicOfTheSphere - Jihad
+# Republic of the Sphere / Jihad
 
 ## 10 Tons
 

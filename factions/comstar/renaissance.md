@@ -1,4 +1,4 @@
-# ComStar - LateSuccessionWarsRenaissance
+# ComStar / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

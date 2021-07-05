@@ -1,4 +1,4 @@
-# RimCommonality - Jihad
+# Rim Commonality / Jihad
 
 ## 10 Tons
 

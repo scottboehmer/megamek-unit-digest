@@ -1,4 +1,4 @@
-# ClanSnowRaven - Jihad
+# Clan Snow Raven / Jihad
 
 ## 20 Tons
 

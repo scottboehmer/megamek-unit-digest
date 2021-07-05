@@ -1,4 +1,4 @@
-# Pirate - CivilWar
+# Pirate / Civil War
 
 ## 20 Tons
 

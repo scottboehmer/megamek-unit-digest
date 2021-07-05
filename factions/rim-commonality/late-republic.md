@@ -1,4 +1,4 @@
-# RimCommonality - LateRepublic
+# Rim Commonality / Late Republic
 
 ## 10 Tons
 

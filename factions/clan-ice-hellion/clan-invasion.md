@@ -1,4 +1,4 @@
-# ClanIceHellion - ClanInvasion
+# Clan Ice Hellion / Clan Invasion
 
 ## 20 Tons
 

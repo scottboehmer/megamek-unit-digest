@@ -1,4 +1,4 @@
-# MarianHegemony - DarkAges
+# Marian Hegemony / Dark Ages
 
 ## 10 Tons
 

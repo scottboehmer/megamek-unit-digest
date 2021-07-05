@@ -1,4 +1,4 @@
-# EscorpionImperio - DarkAges
+# Escorpión Imperio / Dark Ages
 
 ## 20 Tons
 

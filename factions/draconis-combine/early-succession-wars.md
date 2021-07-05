@@ -1,4 +1,4 @@
-# DraconisCombine - EarlySuccessionWars
+# Draconis Combine / Early Succession Wars
 
 ## 20 Tons
 

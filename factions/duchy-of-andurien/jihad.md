@@ -1,4 +1,4 @@
-# DuchyOfAndurien - Jihad
+# Duchy of Andurien / Jihad
 
 ## 10 Tons
 

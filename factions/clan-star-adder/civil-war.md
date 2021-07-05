@@ -1,4 +1,4 @@
-# ClanStarAdder - CivilWar
+# Clan Star Adder / Civil War
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# KellHounds - ClanInvasion
+# Kell Hounds / Clan Invasion
 
 ## 20 Tons
 

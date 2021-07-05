@@ -1,4 +1,4 @@
-# FreeWorldsLeague - ClanInvasion
+# Free Worlds League / Clan Invasion
 
 ## 15 Tons
 

@@ -1,4 +1,4 @@
-# ClanCoyote - ClanInvasion
+# Clan Coyote / Clan Invasion
 
 ## 20 Tons
 

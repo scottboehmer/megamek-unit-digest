@@ -1,4 +1,4 @@
-# MarianHegemony - EarlyRepublic
+# Marian Hegemony / Early Republic
 
 ## 10 Tons
 

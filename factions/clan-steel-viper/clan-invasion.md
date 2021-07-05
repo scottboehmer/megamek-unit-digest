@@ -1,4 +1,4 @@
-# ClanSteelViper - ClanInvasion
+# Clan Steel Viper / Clan Invasion
 
 ## 20 Tons
 

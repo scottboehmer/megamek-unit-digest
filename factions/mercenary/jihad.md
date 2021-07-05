@@ -1,4 +1,4 @@
-# Mercenary - Jihad
+# Mercenary / Jihad
 
 ## 20 Tons
 

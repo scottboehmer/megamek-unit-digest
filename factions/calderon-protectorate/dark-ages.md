@@ -1,4 +1,4 @@
-# CalderonProtectorate - DarkAges
+# Calderon Protectorate / Dark Ages
 
 ## 10 Tons
 

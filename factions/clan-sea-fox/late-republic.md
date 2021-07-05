@@ -1,4 +1,4 @@
-# ClanSeaFox - LateRepublic
+# Clan Sea Fox / Late Republic
 
 ## 10 Tons
 

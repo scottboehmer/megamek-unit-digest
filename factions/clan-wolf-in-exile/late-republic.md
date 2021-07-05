@@ -1,4 +1,4 @@
-# ClanWolfInExile - LateRepublic
+# Clan Wolf-in-Exile / Late Republic
 
 ## 10 Tons
 

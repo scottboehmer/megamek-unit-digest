@@ -1,4 +1,4 @@
-# CapellanConfederation - StarLeague
+# Capellan Confederation / Star League
 
 ## 20 Tons
 

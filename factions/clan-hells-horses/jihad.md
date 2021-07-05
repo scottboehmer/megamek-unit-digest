@@ -1,4 +1,4 @@
-# ClanHellsHorses - Jihad
+# Clan Hell's Horses / Jihad
 
 ## 20 Tons
 

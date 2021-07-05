@@ -1,4 +1,4 @@
-# ClanCloudCobra - EarlySuccessionWars
+# Clan Cloud Cobra / Early Succession Wars
 
 ## 20 Tons
 

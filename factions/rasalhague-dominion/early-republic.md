@@ -1,4 +1,4 @@
-# RasalhagueDominion - EarlyRepublic
+# Rasalhague Dominion / Early Republic
 
 ## 10 Tons
 

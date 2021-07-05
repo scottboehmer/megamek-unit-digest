@@ -1,4 +1,4 @@
-# FreeRasalhagueRepublic - Jihad
+# Free Rasalhague Republic / Jihad
 
 ## 15 Tons
 

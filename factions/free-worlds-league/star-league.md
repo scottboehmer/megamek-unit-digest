@@ -1,4 +1,4 @@
-# FreeWorldsLeague - StarLeague
+# Free Worlds League / Star League
 
 ## 15 Tons
 

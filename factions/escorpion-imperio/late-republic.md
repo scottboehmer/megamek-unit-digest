@@ -1,4 +1,4 @@
-# EscorpionImperio - LateRepublic
+# Escorpión Imperio / Late Republic
 
 ## 20 Tons
 

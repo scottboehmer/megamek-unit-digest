@@ -1,4 +1,4 @@
-# OutworldsAlliance - ClanInvasion
+# Outworlds Alliance / Clan Invasion
 
 ## 20 Tons
 

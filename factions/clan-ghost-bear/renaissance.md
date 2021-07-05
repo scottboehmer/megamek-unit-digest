@@ -1,4 +1,4 @@
-# ClanGhostBear - LateSuccessionWarsRenaissance
+# Clan Ghost Bear / Late Succession Wars - Renaissance
 
 ## 20 Tons
 

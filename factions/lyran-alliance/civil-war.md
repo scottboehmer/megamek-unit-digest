@@ -1,4 +1,4 @@
-# LyranAlliance - CivilWar
+# Lyran Alliance / Civil War
 
 ## 20 Tons
 

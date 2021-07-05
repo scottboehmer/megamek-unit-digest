@@ -1,4 +1,4 @@
-# LyranCommonwealth - EarlySuccessionWars
+# Lyran Commonwealth / Early Succession Wars
 
 ## 20 Tons
 

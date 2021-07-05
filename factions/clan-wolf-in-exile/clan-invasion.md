@@ -1,4 +1,4 @@
-# ClanWolfInExile - ClanInvasion
+# Clan Wolf-in-Exile / Clan Invasion
 
 ## 20 Tons
 

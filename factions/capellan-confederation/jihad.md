@@ -1,4 +1,4 @@
-# CapellanConfederation - Jihad
+# Capellan Confederation / Jihad
 
 ## 15 Tons
 

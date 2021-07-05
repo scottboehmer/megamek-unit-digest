@@ -1,4 +1,4 @@
-# LyranCommonwealth - StarLeague
+# Lyran Commonwealth / Star League
 
 ## 20 Tons
 

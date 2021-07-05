@@ -1,4 +1,4 @@
-# MagistracyOfCanopus - StarLeague
+# Magistracy of Canopus / Star League
 
 ## 20 Tons
 

@@ -1,4 +1,4 @@
-# ClanFireMandrill - Jihad
+# Clan Fire Mandrill / Jihad
 
 ## 20 Tons
 

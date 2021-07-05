@@ -1,4 +1,4 @@
-# RimCommonality - EarlyRepublic
+# Rim Commonality / Early Republic
 
 ## 10 Tons
 

@@ -1,4 +1,4 @@
-# FederatedCommonwealth - CivilWar
+# Federated Commonwealth / Civil War
 
 ## 15 Tons
 

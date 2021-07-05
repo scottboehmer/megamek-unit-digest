@@ -1,4 +1,4 @@
-# Solaris7 - CivilWar
+# Solaris 7 / Civil War
 
 ## 20 Tons
 

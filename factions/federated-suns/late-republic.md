@@ -1,4 +1,4 @@
-# FederatedSuns - LateRepublic
+# Federated Suns / Late Republic
 
 ## 10 Tons
 

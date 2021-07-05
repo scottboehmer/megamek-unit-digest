@@ -1,4 +1,4 @@
-# FederatedCommonwealth - ClanInvasion
+# Federated Commonwealth / Clan Invasion
 
 ## 15 Tons
 

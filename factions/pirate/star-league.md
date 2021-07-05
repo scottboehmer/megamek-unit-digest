@@ -1,4 +1,4 @@
-# Pirate - StarLeague
+# Pirate / Star League
 
 ## 20 Tons
 
