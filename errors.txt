@@ -11,12 +11,10 @@ Tessen TSN-X4R 'Rapunzel' - unknown battle value
 
 --------------------------------------------------
 Units without Roles:
-JagerMech JM6-DG
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
 Tomahawk C
-Black Hawk (Nova) X
 Man O' War (Gargoyle) X
 Atlas AS7-D-HT
 Ti Ts'ang TSG-9 'China Doll'
@@ -160,8 +158,6 @@ Archer ARC-1A
 Orion ON1-C
 Orion ON1-H
 Trooper TP-1R
-Wolverine WVR-1R
-Wolverine WVR-3R
 Pathfinder PFF-2T
 Agrotera AGT-UA 'Ariel'
 Buccaneer BCN-6PX 'Pan'

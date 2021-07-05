@@ -18,7 +18,7 @@
 - **Jackrabbit JKR-9R 'Joker'** *Brawler (2768)*
 
 ### [Peacekeeper](../mechs/peacekeeper.md)
-- **Peacekeeper PK-6 SecurityMech** *Brawler (2522)*
+- **Peacekeeper PK-6 SecurityMech** *Brawler (2522)* `IndustrialMech`
 
 ## 30 Tons
 
@@ -38,8 +38,8 @@
 - **Kit Fox  I** *Brawler (3101)*
 
 ### [Marco](../mechs/marco.md)
-- **Marco MR-8D** *Brawler (2801)*
-- **Marco MR-8E** *Brawler (2801)*
+- **Marco MR-8D** *Brawler (2801)* `IndustrialMech`
+- **Marco MR-8E** *Brawler (2801)* `IndustrialMech`
 
 ## 35 Tons
 
@@ -53,7 +53,7 @@
 - **Cougar  F** *Brawler (3071)*
 
 ### [Dig King](../mechs/dig_king.md)
-- **Dig King RCL-1 MiningMech MOD** *Brawler (2802)*
+- **Dig King RCL-1 MiningMech MOD** *Brawler (2802)* `IndustrialMech`
 
 ### [Falcon Hawk](../mechs/falcon_hawk.md)
 - **Falcon Hawk FNHK-9K** *Brawler (3057)*
@@ -82,8 +82,8 @@
 - **Panther PNT-12K** *Brawler (3079)*
 
 ### [Powerman](../mechs/powerman.md)
-- **Powerman SC XI-M LoaderMech MOD** *Brawler (2801)*
-- **Powerman SC XI-M-B LoaderMech MOD** *Brawler (2801)*
+- **Powerman SC XI-M LoaderMech MOD** *Brawler (2801)* `IndustrialMech`
+- **Powerman SC XI-M-B LoaderMech MOD** *Brawler (2801)* `IndustrialMech`
 
 ### [Raven X](../mechs/raven_x.md)
 - **Raven X RVN-3X** *Brawler (3078)* `Active Probe`, `ECM`
@@ -180,8 +180,8 @@
 - **Pinion 3** *Brawler (3069)*
 
 ### [Quasit](../mechs/quasit.md)
-- **Quasit QUA-51T MilitiaMech** *Brawler (2517)*
-- **Quasit QUA-51M MilitiaMech** *Brawler (3073)*
+- **Quasit QUA-51T MilitiaMech** *Brawler (2517)* `IndustrialMech`
+- **Quasit QUA-51M MilitiaMech** *Brawler (3073)* `IndustrialMech`
 
 ### [Snake](../mechs/snake.md)
 - **Snake SNK-2Br** *Brawler (3070)* `ECM`, `Stealth`
@@ -215,9 +215,9 @@
 - **Centurion CN9-AL** *Brawler (2915)*
 - **Centurion CN9-YLW2 'Yen Lo Wang'** *Brawler (3051)*
 - **Centurion CN9-H** *Brawler (3077)*
-- **Centurion CN9-H2 MilitiaMech** *Brawler (3100)*
-- **Centurion CN9-H2H MilitiaMech** *Brawler (3100)*
-- **Centurion CN9-H3 MilitiaMech** *Brawler (3100)*
+- **Centurion CN9-H2 MilitiaMech** *Brawler (3100)* `IndustrialMech`
+- **Centurion CN9-H2H MilitiaMech** *Brawler (3100)* `IndustrialMech`
+- **Centurion CN9-H3 MilitiaMech** *Brawler (3100)* `IndustrialMech`
 - **Centurion CN9-YLW3 'Yen Lo Wang'** *Brawler (3101)*
 - **Centurion  CN11-O** *Brawler (3111)*
 - **Centurion  CN11-OA** *Brawler (3111)*
@@ -241,7 +241,7 @@
 - **Hunchback IIC 4** *Brawler (3075)* `ECM`
 
 ### [Jabberwocky](../mechs/jabberwocky.md)
-- **Jabberwocky JAW-67 MilitiaMech** *Brawler (3076)*
+- **Jabberwocky JAW-67 MilitiaMech** *Brawler (3076)* `IndustrialMech`
 
 ### [Nova](../mechs/nova.md)
 - **Nova  K** *Brawler (3134)*
@@ -323,7 +323,7 @@
 - **Bellerophon BEL-1X** *Brawler (2442)*
 
 ### [Daedalus](../mechs/daedalus.md)
-- **Daedalus GTX2 (Militarized)** *Brawler (2801)*
+- **Daedalus GTX2 (Militarized)** *Brawler (2801)* `IndustrialMech`
 
 ### [Grigori](../mechs/grigori.md)
 - **Grigori  C-GRG-O Invictus** *Brawler (3069)* `C3i`
@@ -331,8 +331,8 @@
 - **Grigori  C-GRG-OS Caelestis** *Brawler (3075)* `C3i`
 
 ### [Heavy Lifter](../mechs/heavy_lifter.md)
-- **Heavy Lifter HCL-1MM MilitiaMech** *Brawler (3066)*
-- **Heavy Lifter HCL-1M CargoMech MOD** *Brawler (3132)*
+- **Heavy Lifter HCL-1MM MilitiaMech** *Brawler (3066)* `IndustrialMech`
+- **Heavy Lifter HCL-1M CargoMech MOD** *Brawler (3132)* `IndustrialMech`
 
 ### [Hellfire](../mechs/hellfire.md)
 - **Hellfire (Standard)** *Brawler (3058)*
@@ -391,7 +391,7 @@
 - **Crusader CRD-3R (Crael)** *Brawler (3040)*
 
 ### [Deep Lord](../mechs/deep_lord.md)
-- **Deep Lord RCL-Z1M-B MilitiaMech** *Brawler (3118)*
+- **Deep Lord RCL-Z1M-B MilitiaMech** *Brawler (3118)* `IndustrialMech`
 
 ### [Ha Otoko](../mechs/ha_otoko.md)
 - **Ha Otoko 2** *Brawler (3074)*
@@ -594,7 +594,7 @@
 - **Götterdämmerung GTD-20S** *Brawler (3138)*
 
 ### [Grommet](../mechs/grommet.md)
-- **Grommet D90 MilitiaMech** *Brawler (3000)*
+- **Grommet D90 MilitiaMech** *Brawler (3000)* `IndustrialMech`
 
 ### [Inferno](../mechs/inferno.md)
 - **Inferno  INF-NO** *Brawler (3146)*

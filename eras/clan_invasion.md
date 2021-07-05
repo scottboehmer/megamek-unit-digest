@@ -6,7 +6,7 @@
 - **Celerity CLR-02-X-D** *Scout (3052)* `C3i`, `Drone`
 
 ### [Pompier](../mechs/pompier.md)
-- **Pompier GM-3HT FireMech** *Undefined (3060)*
+- **Pompier GM-3HT FireMech** *Undefined (3060)* `IndustrialMech`
 
 ## 20 Tons
 
@@ -40,9 +40,9 @@
 - **Piranha (Standard)** *Striker (3051)*
 
 ### [Shugosha](../mechs/shugosha.md)
-- **Shugosha LAW-QM1 Q-Mech** *Ambusher (3051)* `Drone`
-- **Shugosha LAW-QM2 Q-Mech** *Ambusher (3051)* `Drone`
-- **Shugosha LAW-QM3 Q-Mech** *Sniper (3051)* `Drone`
+- **Shugosha LAW-QM1 Q-Mech** *Ambusher (3051)* `Drone`, `IndustrialMech`
+- **Shugosha LAW-QM2 Q-Mech** *Ambusher (3051)* `Drone`, `IndustrialMech`
+- **Shugosha LAW-QM3 Q-Mech** *Sniper (3051)* `Drone`, `IndustrialMech`
 
 ### [Stinger](../mechs/stinger.md)
 - **Stinger STG-5M** *Scout (3050)*
@@ -465,8 +465,8 @@
 - **Bombard BMB-010** *Juggernaut (3054)*
 
 ### [Buster](../mechs/buster.md)
-- **Buster BC XXI HaulerMech** *Ambusher (3059)*
-- **Buster BC XXI-M HaulerMech MOD** *Ambusher (3059)*
+- **Buster BC XXI HaulerMech** *Ambusher (3059)* `IndustrialMech`
+- **Buster BC XXI-M HaulerMech MOD** *Ambusher (3059)* `IndustrialMech`
 
 ### [Centurion](../mechs/centurion.md)
 - **Centurion CN9-YLW2 'Yen Lo Wang'** *Brawler (3051)*
@@ -733,7 +733,7 @@
 - **Crusader CRD-4BR** *Missile Boat (3054)*
 
 ### [Dig Lord](../mechs/dig_lord.md)
-- **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
+- **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)* `IndustrialMech`
 
 ### [Ebon Jaguar](../mechs/ebon_jaguar.md)
 - **Ebon Jaguar  (Samantha)** *Skirmisher (3059)*
@@ -757,7 +757,7 @@
 - **Hellbringer  H** *Sniper (3059)* `Active Probe`
 
 ### [JagerMech](../mechs/jagermech.md)
-- **JagerMech JM6-DG** *Undefined (3054)*
+- **JagerMech JM6-DG** *Sniper (3054)*
 - **JagerMech JM6-DGr** *Sniper (3058)*
 
 ### [JagerMech III](../mechs/jagermech_iii.md)
@@ -872,8 +872,8 @@
 - **Thunder THR-1L** *Skirmisher (3055)*
 
 ### [Uni](../mechs/uni.md)
-- **Uni ATAE-70 CargoMech** *Undefined (3050)*
-- **Uni ATAE-70 MilitiaMech** *Sniper (3053)*
+- **Uni ATAE-70 CargoMech** *Undefined (3050)* `IndustrialMech`
+- **Uni ATAE-70 MilitiaMech** *Sniper (3053)* `IndustrialMech`
 
 ### [Warhammer](../mechs/warhammer.md)
 - **Warhammer C** *Brawler (3050)*

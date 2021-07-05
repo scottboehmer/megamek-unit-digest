@@ -3,7 +3,7 @@
 ## 15 Tons
 
 ### [Patron](../mechs/patron.md)
-- **Patron PTN-2 MilitiaMech** *Sniper (3076)*
+- **Patron PTN-2 MilitiaMech** *Sniper (3076)* `IndustrialMech`
 
 ## 20 Tons
 
@@ -15,7 +15,7 @@
 - **Gùn  GN-2OB** *Sniper (3134)* `Active Probe`, `ECM`, `TAG`
 
 ### [Shugosha](../mechs/shugosha.md)
-- **Shugosha LAW-QM3 Q-Mech** *Sniper (3051)* `Drone`
+- **Shugosha LAW-QM3 Q-Mech** *Sniper (3051)* `Drone`, `IndustrialMech`
 
 ### [Snow Fox (Omni)](../mechs/snow_fox_omni.md)
 - **Snow Fox (Omni)  B** *Sniper (3111)*
@@ -41,7 +41,7 @@
 - **Jackrabbit JKR-8T** *Sniper (2765)*
 
 ### [Opossum](../mechs/opossum.md)
-- **Opossum OPO-3 SalvageMech MOD** *Sniper (3145)*
+- **Opossum OPO-3 SalvageMech MOD** *Sniper (3145)* `IndustrialMech`
 
 ## 30 Tons
 
@@ -50,12 +50,12 @@
 - **Arctic Fox  AF1U** *Sniper (3072)*
 
 ### [Carbine](../mechs/carbine.md)
-- **Carbine CON-9M Karenna** *Sniper (3131)*
+- **Carbine CON-9M Karenna** *Sniper (3131)* `IndustrialMech`
 
 ### [Crosscut](../mechs/crosscut.md)
-- **Crosscut ED-X4M-A LoggerMech MOD** *Sniper (3131)*
-- **Crosscut ED-X4M-E LoggerMech MOD** *Sniper (3131)*
-- **Crosscut ED-X4M-L LoggerMech MOD** *Sniper (3131)*
+- **Crosscut ED-X4M-A LoggerMech MOD** *Sniper (3131)* `IndustrialMech`
+- **Crosscut ED-X4M-E LoggerMech MOD** *Sniper (3131)* `IndustrialMech`
+- **Crosscut ED-X4M-L LoggerMech MOD** *Sniper (3131)* `IndustrialMech`
 
 ### [Devil](../mechs/devil.md)
 - **Devil (Standard)** *Sniper (2911)*
@@ -107,7 +107,7 @@
 - **Adder  T** *Sniper (3142)*
 
 ### [Arbiter](../mechs/arbiter.md)
-- **Arbiter ARB-001 SecurityMech** *Sniper (3074)*
+- **Arbiter ARB-001 SecurityMech** *Sniper (3074)* `IndustrialMech`
 
 ### [Blade](../mechs/blade.md)
 - **Blade BLD-XR** *Sniper (3125)*
@@ -164,9 +164,9 @@
 - **Cuirass CDR-2X** *Sniper (3134)*
 
 ### [Harvester](../mechs/harvester.md)
-- **Harvester HVR-199M AgroMech MOD** *Sniper (3130)*
-- **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)*
-- **Harvester HVR-199M-M AgroMech MOD** *Sniper (3134)*
+- **Harvester HVR-199M AgroMech MOD** *Sniper (3130)* `IndustrialMech`
+- **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)* `IndustrialMech`
+- **Harvester HVR-199M-M AgroMech MOD** *Sniper (3134)* `IndustrialMech`
 
 ### [Hermes II](../mechs/hermes_ii.md)
 - **Hermes II HER-5ME 'Mercury Elite'** *Sniper (3056)*
@@ -262,10 +262,10 @@
 - **Bombard BMB-1X** *Sniper (3068)*
 
 ### [Buster](../mechs/buster.md)
-- **Buster BC XV-M HaulerMech MOD** *Sniper (2801)*
-- **Buster BC XV-M-B HaulerMech MOD** *Sniper (2801)*
-- **Buster BC XV-M-C HaulerMech MOD** *Sniper (3076)*
-- **Buster BC XV-M-W HaulerMech MOD** *Sniper (3077)*
+- **Buster BC XV-M HaulerMech MOD** *Sniper (2801)* `IndustrialMech`
+- **Buster BC XV-M-B HaulerMech MOD** *Sniper (2801)* `IndustrialMech`
+- **Buster BC XV-M-C HaulerMech MOD** *Sniper (3076)* `IndustrialMech`
+- **Buster BC XV-M-W HaulerMech MOD** *Sniper (3077)* `IndustrialMech`
 
 ### [Centurion](../mechs/centurion.md)
 - **Centurion CN9-Ar** *Sniper (3072)*
@@ -299,7 +299,7 @@
 - **Huntsman  I** *Sniper (3088)*
 
 ### [Inquisitor II](../mechs/inquisitor_ii.md)
-- **Inquisitor II ITW-200** *Sniper (3130)* `Active Probe`
+- **Inquisitor II ITW-200** *Sniper (3130)* `Active Probe`, `IndustrialMech`
 
 ### [Nova](../mechs/nova.md)
 - **Nova  A** *Sniper (2870)*
@@ -444,7 +444,7 @@
 - **Grigori  C-GRG-OU Exanimus** *Sniper (3077)* `Active Probe`, `C3i`
 
 ### [Heavy Forester](../mechs/heavy_forester.md)
-- **Heavy Forester HFL-1M LoggerMech MOD** *Sniper (3015)*
+- **Heavy Forester HFL-1M LoggerMech MOD** *Sniper (3015)* `IndustrialMech`
 
 ### [Lancelot](../mechs/lancelot.md)
 - **Lancelot LNC25-01sl** *Sniper (2750)*
@@ -525,6 +525,7 @@
 ### [JagerMech](../mechs/jagermech.md)
 - **JagerMech JM6-S** *Sniper (2774)*
 - **JagerMech JM6-DD** *Sniper (3049)*
+- **JagerMech JM6-DG** *Sniper (3054)*
 - **JagerMech JM6-DGr** *Sniper (3058)*
 - **JagerMech JM6-DDa** *Sniper (3070)*
 
@@ -632,7 +633,7 @@
 - **Summoner  T** *Sniper (3142)*
 
 ### [Uni](../mechs/uni.md)
-- **Uni ATAE-70 MilitiaMech** *Sniper (3053)*
+- **Uni ATAE-70 MilitiaMech** *Sniper (3053)* `IndustrialMech`
 
 ### [War Crow](../mechs/war_crow.md)
 - **War Crow  C** *Sniper (3145)*

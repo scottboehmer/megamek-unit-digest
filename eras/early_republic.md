@@ -70,7 +70,7 @@
 - **Cougar  I** *Striker (3099)*
 
 ### [DemolitionMech](../mechs/demolitionmech.md)
-- **DemolitionMech WI-DMM MOD** *Ambusher (3100)*
+- **DemolitionMech WI-DMM MOD** *Ambusher (3100)* `IndustrialMech`
 
 ### [Eyrie](../mechs/eyrie.md)
 - **Eyrie (Standard)** *Striker (3087)*
@@ -82,15 +82,15 @@
 - **Ocelot 4** *Striker (3096)*
 
 ### [Reptar](../mechs/reptar.md)
-- **Reptar EPT-C-1 MilitiaMech** *Undefined (3086)*
+- **Reptar EPT-C-1 MilitiaMech** *Undefined (3086)* `IndustrialMech`
 
 ### [Storm Raider](../mechs/storm_raider.md)
 - **Storm Raider STM-R1** *Scout (3097)*
 - **Storm Raider STM-R2** *Scout (3098)*
 
 ### [StrongArm](../mechs/strongarm.md)
-- **StrongArm SC CV ConstructionMech** *Undefined (3094)*
-- **StrongArm SC CVI ConstructionMech** *Undefined (3094)*
+- **StrongArm SC CV ConstructionMech** *Undefined (3094)* `IndustrialMech`
+- **StrongArm SC CVI ConstructionMech** *Undefined (3094)* `IndustrialMech`
 
 ### [Tiburon](../mechs/tiburon.md)
 - **Tiburon (Standard)** *Striker (3099)* `Active Probe`, `ECM`
@@ -98,7 +98,7 @@
 ## 40 Tons
 
 ### [Araña](../mechs/araña.md)
-- **Araña ARA-S-1 MilitiaMech** *Undefined (3087)*
+- **Araña ARA-S-1 MilitiaMech** *Undefined (3087)* `IndustrialMech`
 
 ### [Cuirass](../mechs/cuirass.md)
 - **Cuirass CDR-1X** *Striker (3086)*
@@ -150,12 +150,12 @@
 - **Black Hawk 3** *Skirmisher (3092)*
 
 ### [Centurion](../mechs/centurion.md)
-- **Centurion CN9-H2 MilitiaMech** *Brawler (3100)*
-- **Centurion CN9-H2H MilitiaMech** *Brawler (3100)*
-- **Centurion CN9-H3 MilitiaMech** *Brawler (3100)*
+- **Centurion CN9-H2 MilitiaMech** *Brawler (3100)* `IndustrialMech`
+- **Centurion CN9-H2H MilitiaMech** *Brawler (3100)* `IndustrialMech`
+- **Centurion CN9-H3 MilitiaMech** *Brawler (3100)* `IndustrialMech`
 
 ### [Gauss-Buster](../mechs/gauss-buster.md)
-- **Gauss-Buster MilitiaMech** *Undefined (3090)*
+- **Gauss-Buster MilitiaMech** *Undefined (3090)* `IndustrialMech`
 
 ### [Ghost](../mechs/ghost.md)
 - **Ghost GST-50** *Striker (3087)*
@@ -370,7 +370,7 @@
 - **Mad Cat Mk II 4** *Sniper (3090)* `Active Probe`
 
 ### [St. Florian](../mechs/st._florian.md)
-- **St. Florian FLN-366 FireMech** *Undefined (3100)*
+- **St. Florian FLN-366 FireMech** *Undefined (3100)* `IndustrialMech`
 
 ### [Viking IIC](../mechs/viking_iic.md)
 - **Viking IIC (Standard)** *Missile Boat (3095)*
@@ -397,7 +397,7 @@
 - **Atlas AS7-K4** *Brawler (3098)* `ECM`
 
 ### [Diomede](../mechs/diomede.md)
-- **Diomede D-M3D-M** *Juggernaut (3092)*
+- **Diomede D-M3D-M** *Juggernaut (3092)* `IndustrialMech`
 
 ### [Grand Titan](../mechs/grand_titan.md)
 - **Grand Titan T-IT-N13M** *Sniper (3091)*

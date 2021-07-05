@@ -174,6 +174,7 @@
 - **Nova  I** *Skirmisher (3094)*
 - **Nova  J** *Skirmisher (3128)*
 - **Nova  L** *Skirmisher (3134)*
+- **Nova  X** *Skirmisher (3137)*
 - **Nova  R** *Skirmisher (3140)*
 - **Nova  T** *Skirmisher (3142)*
 
@@ -431,6 +432,8 @@
 - **Waneta S-WN-2LAM** *Skirmisher (3078)*
 
 ### [Wolverine](../mechs/wolverine.md)
+- **Wolverine WVR-1R** *Skirmisher (2471)*
+- **Wolverine WVR-3R** *Skirmisher (2490)*
 - **Wolverine WVR-6R** *Skirmisher (2575)*
 - **Wolverine WVR-6K** *Skirmisher (2598)*
 - **Wolverine WVR-6M** *Skirmisher (2816)*

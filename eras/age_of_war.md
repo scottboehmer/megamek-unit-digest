@@ -6,8 +6,8 @@
 - **Flea FLE-14** *Scout (2519)*
 
 ### [Patron](../mechs/patron.md)
-- **Patron I LoaderMech** *Ambusher (2470)*
-- **Patron LoaderMech** *Ambusher (2550)*
+- **Patron I LoaderMech** *Ambusher (2470)* `IndustrialMech`
+- **Patron LoaderMech** *Ambusher (2550)* `IndustrialMech`
 
 ## 20 Tons
 
@@ -41,13 +41,13 @@
 - **Commando COM-2D** *Striker (2486)*
 
 ### [Peacekeeper](../mechs/peacekeeper.md)
-- **Peacekeeper PK-6 SecurityMech** *Brawler (2522)*
+- **Peacekeeper PK-6 SecurityMech** *Brawler (2522)* `IndustrialMech`
 
 ## 35 Tons
 
 ### [DemolitionMech](../mechs/demolitionmech.md)
-- **DemolitionMech WI-DM** *Juggernaut (2513)*
-- **DemolitionMech WI-DM2** *Juggernaut (2514)*
+- **DemolitionMech WI-DM** *Juggernaut (2513)* `IndustrialMech`
+- **DemolitionMech WI-DM2** *Juggernaut (2514)* `IndustrialMech`
 
 ### [Firebee](../mechs/firebee.md)
 - **Firebee FRB-1E (WAM-B)** *Brawler (2483)*
@@ -86,7 +86,7 @@
 - **Phoenix Hawk PXH-1** *Skirmisher (2568)*
 
 ### [Quasit](../mechs/quasit.md)
-- **Quasit QUA-51T MilitiaMech** *Brawler (2517)*
+- **Quasit QUA-51T MilitiaMech** *Brawler (2517)* `IndustrialMech`
 
 ## 50 Tons
 
@@ -97,7 +97,7 @@
 - **Galahad GLH-1D** *Juggernaut (2570)*
 
 ### [Jabberwocky](../mechs/jabberwocky.md)
-- **Jabberwocky JAW-65A EngineerMech** *Juggernaut (2549)*
+- **Jabberwocky JAW-65A EngineerMech** *Juggernaut (2549)* `IndustrialMech`
 
 ### [Phoenix](../mechs/phoenix.md)
 - **Phoenix PX-1R** *Brawler (2474)*
@@ -134,8 +134,8 @@
 - **Shadow Hawk SHD-2H** *Skirmisher (2550)*
 
 ### [Wolverine](../mechs/wolverine.md)
-- **Wolverine WVR-1R** *Undefined (2471)*
-- **Wolverine WVR-3R** *Undefined (2490)*
+- **Wolverine WVR-1R** *Skirmisher (2471)*
+- **Wolverine WVR-3R** *Skirmisher (2490)*
 
 ## 60 Tons
 
@@ -151,7 +151,7 @@
 - **Griffin GRF-1A** *Sniper (2465)*
 
 ### [Lumberjack](../mechs/lumberjack.md)
-- **Lumberjack LM1/A** *Ambusher (2355)*
+- **Lumberjack LM1/A** *Ambusher (2355)* `IndustrialMech`
 
 ### [Ostroc](../mechs/ostroc.md)
 - **Ostroc OSR-2C** *Skirmisher (2511)*
@@ -196,7 +196,7 @@
 - **Hector HOR-1C** *Brawler (2476)*
 
 ### [Lumberjack](../mechs/lumberjack.md)
-- **Lumberjack LM4/C** *Ambusher (2489)*
+- **Lumberjack LM4/C** *Ambusher (2489)* `IndustrialMech`
 
 ### [Warhammer](../mechs/warhammer.md)
 - **Warhammer WHM-6R** *Brawler (2515)*

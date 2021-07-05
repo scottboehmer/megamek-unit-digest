@@ -10,10 +10,10 @@
 - **Fire Moth  D** *Striker (2874)*
 
 ### [Harvester Ant](../mechs/harvester_ant.md)
-- **Harvester Ant KIC-3M AgroMech (MG)** *Undefined (2801)*
-- **Harvester Ant KIC-3M AgroMech MOD** *Ambusher (2801)*
-- **Harvester Ant KIC-3M-B AgroMech (LRM)** *Undefined (2801)*
-- **Harvester Ant KIC-3M-B AgroMech MOD** *Missile Boat (2801)*
+- **Harvester Ant KIC-3M AgroMech (MG)** *Undefined (2801)* `IndustrialMech`
+- **Harvester Ant KIC-3M AgroMech MOD** *Ambusher (2801)* `IndustrialMech`
+- **Harvester Ant KIC-3M-B AgroMech (LRM)** *Undefined (2801)* `IndustrialMech`
+- **Harvester Ant KIC-3M-B AgroMech MOD** *Missile Boat (2801)* `IndustrialMech`
 
 ### [Howler](../mechs/howler.md)
 - **Howler (Standard)** *Missile Boat (2871)*
@@ -40,7 +40,7 @@
 - **Commando IIC (Standard)** *Striker (2856)*
 
 ### [ForestryMech](../mechs/forestrymech.md)
-- **ForestryMech ED-X3** *Ambusher (2865)*
+- **ForestryMech ED-X3** *Ambusher (2865)* `IndustrialMech`
 
 ### [Icestorm](../mechs/icestorm.md)
 - **Icestorm (Standard)** *Scout (2830)* `TAG`
@@ -60,14 +60,14 @@
 ## 30 Tons
 
 ### [Carbine](../mechs/carbine.md)
-- **Carbine CON-1 ConstructionMech (RL)** *Ambusher (2801)*
+- **Carbine CON-1 ConstructionMech (RL)** *Ambusher (2801)* `IndustrialMech`
 
 ### [Crosscut](../mechs/crosscut.md)
-- **Crosscut ED-X4K LoggerMech** *Ambusher (2786)*
-- **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)*
-- **Crosscut ED-X2 (Flamer)** *Ambusher (2810)*
-- **Crosscut ED-X2 (RL)** *Ambusher (2810)*
-- **Crosscut ED-X4 LoggerMech** *Ambusher (2876)*
+- **Crosscut ED-X4K LoggerMech** *Ambusher (2786)* `IndustrialMech`
+- **Crosscut ED-X2M LoggerMech MOD** *Ambusher (2801)* `IndustrialMech`
+- **Crosscut ED-X2 (Flamer)** *Ambusher (2810)* `IndustrialMech`
+- **Crosscut ED-X2 (RL)** *Ambusher (2810)* `IndustrialMech`
+- **Crosscut ED-X4 LoggerMech** *Ambusher (2876)* `IndustrialMech`
 
 ### [Drift Shag](../mechs/drift_shag.md)
 - **Drift Shag** *Undefined (2827)*
@@ -102,8 +102,8 @@
 - **Mandrill (Standard)** *Missile Boat (2829)*
 
 ### [Marco](../mechs/marco.md)
-- **Marco MR-8D** *Brawler (2801)*
-- **Marco MR-8E** *Brawler (2801)*
+- **Marco MR-8D** *Brawler (2801)* `IndustrialMech`
+- **Marco MR-8E** *Brawler (2801)* `IndustrialMech`
 
 ### [Spider](../mechs/spider.md)
 - **Spider SDR-5K** *Scout (2850)*
@@ -118,7 +118,7 @@
 ## 35 Tons
 
 ### [Dig King](../mechs/dig_king.md)
-- **Dig King RCL-1 MiningMech MOD** *Brawler (2802)*
+- **Dig King RCL-1 MiningMech MOD** *Brawler (2802)* `IndustrialMech`
 
 ### [Firestarter](../mechs/firestarter.md)
 - **Firestarter FS9-M** *Scout (2893)*
@@ -135,9 +135,9 @@
 - **Night Hawk NTK-2Q-EC** *Striker (2819)*
 
 ### [Powerman](../mechs/powerman.md)
-- **Powerman SC XI-M LoaderMech MOD** *Brawler (2801)*
-- **Powerman SC XI-M-B LoaderMech MOD** *Brawler (2801)*
-- **Powerman SC XV HaulerMech** *Ambusher (2895)*
+- **Powerman SC XI-M LoaderMech MOD** *Brawler (2801)* `IndustrialMech`
+- **Powerman SC XI-M-B LoaderMech MOD** *Brawler (2801)* `IndustrialMech`
+- **Powerman SC XV HaulerMech** *Ambusher (2895)* `IndustrialMech`
 
 ### [Talon](../mechs/talon.md)
 - **Talon TLN-5W-EC** *Striker (2823)*
@@ -212,8 +212,8 @@
 ## 50 Tons
 
 ### [Buster](../mechs/buster.md)
-- **Buster BC XV-M HaulerMech MOD** *Sniper (2801)*
-- **Buster BC XV-M-B HaulerMech MOD** *Sniper (2801)*
+- **Buster BC XV-M HaulerMech MOD** *Sniper (2801)* `IndustrialMech`
+- **Buster BC XV-M-B HaulerMech MOD** *Sniper (2801)* `IndustrialMech`
 
 ### [Centurion](../mechs/centurion.md)
 - **Centurion CN9-A** *Brawler (2801)*
@@ -294,7 +294,7 @@
 - **Champion C** *Skirmisher (2867)*
 
 ### [Daedalus](../mechs/daedalus.md)
-- **Daedalus GTX2 (Militarized)** *Brawler (2801)*
+- **Daedalus GTX2 (Militarized)** *Brawler (2801)* `IndustrialMech`
 
 ### [Glass Spider](../mechs/glass_spider.md)
 - **Glass Spider (Standard)** *Sniper (2834)*
@@ -376,7 +376,7 @@
 - **Guillotine IIC (Standard)** *Skirmisher (2889)*
 
 ### [Lumberjack](../mechs/lumberjack.md)
-- **Lumberjack LM4/P** *Missile Boat (2811)*
+- **Lumberjack LM4/P** *Missile Boat (2811)* `IndustrialMech`
 
 ### [Minsk](../mechs/minsk.md)
 - **Minsk MNK-101** *Brawler (2830)* `Active Probe`
@@ -555,7 +555,7 @@
 - **King Crab KGC-0000** *Juggernaut (2815)*
 
 ### [Kiso](../mechs/kiso.md)
-- **Kiso K-3N-KRHQ CommandMech** *Juggernaut (2823)* `Collapsible Command Module`, `Command Console`
+- **Kiso K-3N-KRHQ CommandMech** *Juggernaut (2823)* `Collapsible Command Module`, `Command Console`, `IndustrialMech`
 
 ### [Stone Rhino](../mechs/stone_rhino.md)
 - **Stone Rhino 4** *Juggernaut (2846)*

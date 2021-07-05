@@ -44,7 +44,7 @@
 - **Battle Value:** 965
 
 ## JagerMech JM6-DG
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3054)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6, XL

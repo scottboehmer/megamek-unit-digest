@@ -3,7 +3,7 @@
 ## 10 Tons
 
 ### [Exo](../mechs/exo.md)
-- **Exo HMX-3M HaulerMech** *Undefined (3132)*
+- **Exo HMX-3M HaulerMech** *Undefined (3132)* `IndustrialMech`
 
 ## 15 Tons
 
@@ -63,7 +63,7 @@
 - **Gambit GBT-1L** *Striker (3136)* `TAG`
 
 ### [Gulon](../mechs/gulon.md)
-- **Gulon C SolahmaMech** *Ambusher (3145)*
+- **Gulon C SolahmaMech** *Ambusher (3145)* `IndustrialMech`
 
 ### [Gunsmith](../mechs/gunsmith.md)
 - **Gunsmith CH11-NG** *Striker (3131)*
@@ -75,27 +75,27 @@
 - **Mist Lynx  T** *Undefined (3142)* `Active Probe`, `ECM`
 
 ### [Opossum](../mechs/opossum.md)
-- **Opossum OPO-2 SalvageMech** *Undefined (3145)* `Active Probe`
-- **Opossum OPO-3 SalvageMech MOD** *Sniper (3145)*
+- **Opossum OPO-2 SalvageMech** *Undefined (3145)* `Active Probe`, `IndustrialMech`
+- **Opossum OPO-3 SalvageMech MOD** *Sniper (3145)* `IndustrialMech`
 
 ## 30 Tons
 
 ### [Carbine](../mechs/carbine.md)
-- **Carbine CON-9M Karenna** *Sniper (3131)*
-- **Carbine CON-9M-D ConstructionMech MOD** *Undefined (3133)*
-- **Carbine CON-9M-J ConstructionMech MOD** *Ambusher (3145)*
-- **Carbine CON-9M-JB ConstructionMech MOD** *Ambusher (3145)*
+- **Carbine CON-9M Karenna** *Sniper (3131)* `IndustrialMech`
+- **Carbine CON-9M-D ConstructionMech MOD** *Undefined (3133)* `IndustrialMech`
+- **Carbine CON-9M-J ConstructionMech MOD** *Ambusher (3145)* `IndustrialMech`
+- **Carbine CON-9M-JB ConstructionMech MOD** *Ambusher (3145)* `IndustrialMech`
 
 ### [Cricket](../mechs/cricket.md)
 - **Cricket RWN-01** *Scout (3132)*
 
 ### [Crosscut](../mechs/crosscut.md)
-- **Crosscut ED-X4M-A LoggerMech MOD** *Sniper (3131)*
-- **Crosscut ED-X4M-E LoggerMech MOD** *Sniper (3131)*
-- **Crosscut ED-X4M-L LoggerMech MOD** *Sniper (3131)*
+- **Crosscut ED-X4M-A LoggerMech MOD** *Sniper (3131)* `IndustrialMech`
+- **Crosscut ED-X4M-E LoggerMech MOD** *Sniper (3131)* `IndustrialMech`
+- **Crosscut ED-X4M-L LoggerMech MOD** *Sniper (3131)* `IndustrialMech`
 
 ### [Crosscut IIC](../mechs/crosscut_iic.md)
-- **Crosscut IIC SolahmaMech** *Undefined (3133)*
+- **Crosscut IIC SolahmaMech** *Undefined (3133)* `IndustrialMech`
 
 ### [Incubus](../mechs/incubus.md)
 - **Incubus 9** *Striker (3150)*
@@ -172,7 +172,7 @@
 - **Rokurokubi RK-4X** *Striker (3136)* `ECM`
 
 ### [StrongArm](../mechs/strongarm.md)
-- **StrongArm SC CV-M ConstructionMech MOD** *Ambusher (3132)*
+- **StrongArm SC CV-M ConstructionMech MOD** *Ambusher (3132)* `IndustrialMech`
 
 ### [Yinghuochong](../mechs/yinghuochong.md)
 - **Yinghuochong YHC-3E** *Striker (3137)* `TAG`
@@ -202,8 +202,8 @@
 - **Griffin IIC 9** *Striker (3144)*
 
 ### [Harvester](../mechs/harvester.md)
-- **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)*
-- **Harvester HVR-199M-M AgroMech MOD** *Sniper (3134)*
+- **Harvester HVR-199M-B AgroMech MOD** *Sniper (3132)* `IndustrialMech`
+- **Harvester HVR-199M-M AgroMech MOD** *Sniper (3134)* `IndustrialMech`
 
 ### [Night Stalker](../mechs/night_stalker.md)
 - **Night Stalker NSR-K1** *Scout (3134)* `Active Probe`
@@ -316,7 +316,7 @@
 ### [Nova](../mechs/nova.md)
 - **Nova  K** *Brawler (3134)*
 - **Nova  L** *Skirmisher (3134)*
-- **Nova  X** *Undefined (3137)*
+- **Nova  X** *Skirmisher (3137)*
 - **Nova  R** *Skirmisher (3140)*
 - **Nova  T** *Skirmisher (3142)*
 
@@ -421,7 +421,7 @@
 - **Glass Spider 4** *Undefined (3148)*
 
 ### [Heavy Lifter](../mechs/heavy_lifter.md)
-- **Heavy Lifter HCL-1M CargoMech MOD** *Brawler (3132)*
+- **Heavy Lifter HCL-1M CargoMech MOD** *Brawler (3132)* `IndustrialMech`
 
 ### [Kuma](../mechs/kuma.md)
 - **Kuma 4** *Skirmisher (3141)*
@@ -479,11 +479,11 @@
 - **Axman AXM-5N** *Skirmisher (3148)* `ECM`
 
 ### [Burrower](../mechs/burrower.md)
-- **Burrower DTM-1M MiningMech MOD** *Ambusher (3132)*
+- **Burrower DTM-1M MiningMech MOD** *Ambusher (3132)* `IndustrialMech`
 
 ### [Dig Lord](../mechs/dig_lord.md)
-- **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)*
-- **Dig Lord RCL-4M-B MiningMech MOD** *Juggernaut (3132)*
+- **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)* `IndustrialMech`
+- **Dig Lord RCL-4M-B MiningMech MOD** *Juggernaut (3132)* `IndustrialMech`
 
 ### [Dominator](../mechs/dominator.md)
 - **Dominator (Standard)** *Skirmisher (3148)*
@@ -493,7 +493,7 @@
 - **Exterminator EXT-7X** *Skirmisher (3148)* `ECM`, `Stealth`
 
 ### [Ground Pounder](../mechs/ground_pounder.md)
-- **Ground Pounder DVM-2M MiningMech MOD** *Ambusher (3133)*
+- **Ground Pounder DVM-2M MiningMech MOD** *Ambusher (3133)* `IndustrialMech`
 
 ### [Hellbringer](../mechs/hellbringer.md)
 - **Hellbringer  T** *Sniper (3142)*
@@ -537,8 +537,8 @@
 - **Minsk 2** *Brawler (3148)* `Active Probe`, `ECM`
 
 ### [MuckRaker](../mechs/muckraker.md)
-- **MuckRaker GMMM-2M MiningMech MOD** *Ambusher (3132)*
-- **MuckRaker GMMM-2M-B MiningMech MOD** *Missile Boat (3132)*
+- **MuckRaker GMMM-2M MiningMech MOD** *Ambusher (3132)* `IndustrialMech`
+- **MuckRaker GMMM-2M-B MiningMech MOD** *Missile Boat (3132)* `IndustrialMech`
 
 ### [Nova Cat](../mechs/nova_cat.md)
 - **Nova Cat  I** *Juggernaut (3132)*
@@ -699,7 +699,7 @@
 - **Onager 2** *Sniper (3137)*
 
 ### [St. Florian](../mechs/st._florian.md)
-- **St. Florian FLN-366-M FireMech MOD** *Juggernaut (3133)*
+- **St. Florian FLN-366-M FireMech MOD** *Juggernaut (3133)* `IndustrialMech`
 
 ### [Sunder](../mechs/sunder.md)
 - **Sunder  SD1-OF** *Missile Boat (3134)* `C3 Slave`

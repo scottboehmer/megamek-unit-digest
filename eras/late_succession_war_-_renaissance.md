@@ -3,7 +3,7 @@
 ## 15 Tons
 
 ### [Pompier](../mechs/pompier.md)
-- **Pompier GM-3A FireMech** *Ambusher (3044)*
+- **Pompier GM-3A FireMech** *Ambusher (3044)* `IndustrialMech`
 
 ## 20 Tons
 
@@ -29,8 +29,8 @@
 ## 25 Tons
 
 ### [CattleMaster](../mechs/cattlemaster.md)
-- **CattleMaster CTL-3R 'Herder' IndustrialMech** *Undefined (3024)*
-- **CattleMaster CTL-3R2 'Hunter' IndustrialMech** *Ambusher (3024)*
+- **CattleMaster CTL-3R 'Herder' IndustrialMech** *Undefined (3024)* `IndustrialMech`
+- **CattleMaster CTL-3R2 'Hunter' IndustrialMech** *Ambusher (3024)* `IndustrialMech`
 
 ### [Commando](../mechs/commando.md)
 - **Commando COM-1C** *Striker (3020)*
@@ -52,14 +52,14 @@
 - **Arctic Cheetah  D** *Missile Boat (3037)*
 
 ### [Carbine](../mechs/carbine.md)
-- **Carbine CON-7 ConstructionMech** *Undefined (3028)*
+- **Carbine CON-7 ConstructionMech** *Undefined (3028)* `IndustrialMech`
 
 ### [Firefly](../mechs/firefly.md)
 - **Firefly FFL-4B** *Striker (3047)*
 - **Firefly FFL-4C** *Striker (3048)*
 
 ### [Harvester](../mechs/harvester.md)
-- **Harvester HVR-99 AgroMech** *Ambusher (3049)*
+- **Harvester HVR-99 AgroMech** *Ambusher (3049)* `IndustrialMech`
 
 ### [Hermes](../mechs/hermes.md)
 - **Hermes HER-3S** *Scout (3047)* `Active Probe`
@@ -77,7 +77,7 @@
 - **Javelin JVN-10P** *Striker (3049)*
 
 ### [Pacifier](../mechs/pacifier.md)
-- **Pacifier CCU-36 SecurityMech** *Ambusher (3031)*
+- **Pacifier CCU-36 SecurityMech** *Ambusher (3031)* `IndustrialMech`
 
 ### [SuburbanMech](../mechs/suburbanmech.md)
 - **SuburbanMech UM-R100** *Sniper (3045)*
@@ -137,15 +137,15 @@
 - **Hermes II HER-4K 'Hermes III'** *Scout (3025)*
 
 ### [Rock Hound](../mechs/rock_hound.md)
-- **Rock Hound AM-PRM-RH7 ProspectorMech** *Undefined (3042)*
-- **Rock Hound AM-PRM-RH7A 'Rock Otter' ProspectorMech** *Undefined (3043)*
-- **Rock Hound AM-PRM-RH7C 'Rock Possum' ProspectorMech** *Undefined (3045)*
+- **Rock Hound AM-PRM-RH7 ProspectorMech** *Undefined (3042)* `IndustrialMech`
+- **Rock Hound AM-PRM-RH7A 'Rock Otter' ProspectorMech** *Undefined (3043)* `IndustrialMech`
+- **Rock Hound AM-PRM-RH7C 'Rock Possum' ProspectorMech** *Undefined (3045)* `IndustrialMech`
 
 ### [Sentinel](../mechs/sentinel.md)
 - **Sentinel STN-3M** *Striker (3035)*
 
 ### [Space Hound](../mechs/space_hound.md)
-- **Space Hound AM-PRM-SH1 ProspectorMech** *Undefined (3047)*
+- **Space Hound AM-PRM-SH1 ProspectorMech** *Undefined (3047)* `IndustrialMech`
 
 ### [Vulcan](../mechs/vulcan.md)
 - **Vulcan VL-2T (Timms)** *Undefined (3034)*

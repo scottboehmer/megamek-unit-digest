@@ -3,7 +3,7 @@
 ## 15 Tons
 
 ### [Guard](../mechs/guard.md)
-- **Guard GS-54 SecurityMech** *Ambusher (2914)*
+- **Guard GS-54 SecurityMech** *Ambusher (2914)* `IndustrialMech`
 
 ## 20 Tons
 
@@ -26,8 +26,8 @@
 - **Commando COM-1B** *Striker (3015)*
 
 ### [Gulon](../mechs/gulon.md)
-- **Gulon GLN-1A MiningMech** *Ambusher (3000)*
-- **Gulon GLN-1B SecurityMech** *Ambusher (3000)*
+- **Gulon GLN-1A MiningMech** *Ambusher (3000)* `IndustrialMech`
+- **Gulon GLN-1B SecurityMech** *Ambusher (3000)* `IndustrialMech`
 
 ### [Mist Lynx](../mechs/mist_lynx.md)
 - **Mist Lynx  Prime** *Scout (2926)* `Active Probe`
@@ -39,9 +39,9 @@
 ## 30 Tons
 
 ### [Crosscut](../mechs/crosscut.md)
-- **Crosscut ED-X4X LoggerMech** *Ambusher (2901)*
-- **Crosscut ED-X4D DemolitionMech** *Undefined (2910)*
-- **Crosscut ED-X4B DemolitionMech** *Undefined (2932)*
+- **Crosscut ED-X4X LoggerMech** *Ambusher (2901)* `IndustrialMech`
+- **Crosscut ED-X4D DemolitionMech** *Undefined (2910)* `IndustrialMech`
+- **Crosscut ED-X4B DemolitionMech** *Undefined (2932)* `IndustrialMech`
 
 ### [Devil](../mechs/devil.md)
 - **Devil (Standard)** *Sniper (2911)*
@@ -152,7 +152,7 @@
 - **Glass Spider 2** *Sniper (2952)*
 
 ### [Heavy Forester](../mechs/heavy_forester.md)
-- **Heavy Forester HFL-1M LoggerMech MOD** *Sniper (3015)*
+- **Heavy Forester HFL-1M LoggerMech MOD** *Sniper (3015)* `IndustrialMech`
 
 ### [Mad Dog](../mechs/mad_dog.md)
 - **Mad Dog  Prime** *Missile Boat (2963)*
@@ -200,7 +200,7 @@
 ## 75 Tons
 
 ### [Grommet](../mechs/grommet.md)
-- **Grommet D90 MilitiaMech** *Brawler (3000)*
+- **Grommet D90 MilitiaMech** *Brawler (3000)* `IndustrialMech`
 
 ### [Marauder](../mechs/marauder.md)
 - **Marauder MAD-3L** *Brawler (2905)*
@@ -241,7 +241,7 @@
 - **Naga  D** *Missile Boat (2945)*
 
 ### [ScavengerMech](../mechs/scavengermech.md)
-- **ScavengerMech SC-V-M MilitiaMech** *Ambusher (2990)*
+- **ScavengerMech SC-V-M MilitiaMech** *Ambusher (2990)* `IndustrialMech`
 
 ### [Victor](../mechs/victor.md)
 - **Victor VTR-9S** *Skirmisher (2998)*

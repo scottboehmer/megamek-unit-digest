@@ -3,7 +3,7 @@
 ## 15 Tons
 
 ### [Pompier](../mechs/pompier.md)
-- **Pompier GM-3CD FireMech** *Scout (3062)* `Active Probe`
+- **Pompier GM-3CD FireMech** *Scout (3062)* `Active Probe`, `IndustrialMech`
 
 ## 20 Tons
 
@@ -52,8 +52,8 @@
 - **Commando COM-4H** *Striker (3064)*
 
 ### [Copper](../mechs/copper.md)
-- **Copper CPK-65 SecurityMech** *Ambusher (3065)*
-- **Copper CPK-65KM SecurityMech** *Ambusher (3065)*
+- **Copper CPK-65 SecurityMech** *Ambusher (3065)* `IndustrialMech`
+- **Copper CPK-65KM SecurityMech** *Ambusher (3065)* `IndustrialMech`
 
 ### [Fire Falcon](../mechs/fire_falcon.md)
 - **Fire Falcon  H** *Striker (3062)*
@@ -95,7 +95,7 @@
 - **Battle Hawk BH-K306** *Striker (3067)*
 
 ### [Carbine](../mechs/carbine.md)
-- **Carbine CON-8 ConstructionMech** *Undefined (3066)*
+- **Carbine CON-8 ConstructionMech** *Undefined (3066)* `IndustrialMech`
 
 ### [Copperhead](../mechs/copperhead.md)
 - **Copperhead CPR-HD-003** *Striker (3065)*
@@ -176,7 +176,7 @@
 - **Horned Owl 5** *Sniper (3066)*
 
 ### [Inquisitor](../mechs/inquisitor.md)
-- **Inquisitor ITW-80 SecurityMech** *Scout (3062)*
+- **Inquisitor ITW-80 SecurityMech** *Scout (3062)* `IndustrialMech`
 
 ### [Jenner](../mechs/jenner.md)
 - **Jenner JR7-K (Grace II)** *Scout (3067)* `C3 Slave`
@@ -196,7 +196,7 @@
 - **Panther PNT-12A** *Brawler (3064)*
 
 ### [Peacemaker](../mechs/peacemaker.md)
-- **Peacemaker PM-6 PoliceMech** *Undefined (3067)*
+- **Peacemaker PM-6 PoliceMech** *Undefined (3067)* `IndustrialMech`
 
 ### [Raven](../mechs/raven.md)
 - **Raven RVN-4LC** *Striker (3062)* `C3 Slave`, `ECM`, `Stealth`, `TAG`
@@ -450,7 +450,7 @@
 - **Grim Reaper GRM-R-PR31** *Skirmisher (3066)* `C3 Slave`
 
 ### [Hyena](../mechs/hyena.md)
-- **Hyena HYN-4A SalvageMech** *Scout (3066)*
+- **Hyena HYN-4A SalvageMech** *Scout (3066)* `IndustrialMech`
 
 ### [Lightray](../mechs/lightray.md)
 - **Lightray LGH-4Y** *Skirmisher (3064)*
@@ -514,8 +514,8 @@
 - **Grand Dragon DRG-7K (Mark)** *Sniper (3067)* `C3 Slave`
 
 ### [Heavy Lifter](../mechs/heavy_lifter.md)
-- **Heavy Lifter HCL-1 CargoMech** *Ambusher (3066)*
-- **Heavy Lifter HCL-1MM MilitiaMech** *Brawler (3066)*
+- **Heavy Lifter HCL-1 CargoMech** *Ambusher (3066)* `IndustrialMech`
+- **Heavy Lifter HCL-1MM MilitiaMech** *Brawler (3066)* `IndustrialMech`
 
 ### [Hellfire](../mechs/hellfire.md)
 - **Hellfire 2** *Skirmisher (3067)*
@@ -784,7 +784,7 @@
 - **Thug THG-12K** *Brawler (3067)* `C3 Slave`, `ECM`
 
 ### [Vampyr](../mechs/vampyr.md)
-- **Vampyr SC-V-1 SalvageMech** *Undefined (3066)*
+- **Vampyr SC-V-1 SalvageMech** *Undefined (3066)* `IndustrialMech`
 
 ### [Victor](../mechs/victor.md)
 - **Victor VTR-10S** *Brawler (3062)*

@@ -59,8 +59,8 @@
 - **Anubis ABS-5Z** *Striker (3124)* `ECM`, `Stealth`, `TAG`
 
 ### [Demeter](../mechs/demeter.md)
-- **Demeter WLD-1 AgroMech** *Undefined (3130)*
-- **Demeter WLD-1-M AgroMech MOD** *Ambusher (3130)*
+- **Demeter WLD-1 AgroMech** *Undefined (3130)* `IndustrialMech`
+- **Demeter WLD-1-M AgroMech MOD** *Ambusher (3130)* `IndustrialMech`
 
 ### [Hellion](../mechs/hellion.md)
 - **Hellion  G** *Striker (3119)*
@@ -76,7 +76,7 @@
 - **Kit Fox  R** *Striker (3121)*
 
 ### [Pacifier](../mechs/pacifier.md)
-- **Pacifier CCU-40 SecurityMech** *Ambusher (3130)*
+- **Pacifier CCU-40 SecurityMech** *Ambusher (3130)* `IndustrialMech`
 
 ### [Spider](../mechs/spider.md)
 - **Spider SDR-8Xr** *Scout (3103)*
@@ -100,7 +100,7 @@
 - **Blade BLD-XR** *Sniper (3125)*
 
 ### [Firebee](../mechs/firebee.md)
-- **Firebee WI-WAM MilitiaMech** *Missile Boat (3130)*
+- **Firebee WI-WAM MilitiaMech** *Missile Boat (3130)* `IndustrialMech`
 
 ### [Firestarter](../mechs/firestarter.md)
 - **Firestarter FS9-M2** *Scout (3101)*
@@ -116,7 +116,7 @@
 - **Hollander III BZK-D3** *Striker (3118)* `ECM`
 
 ### [Inquisitor](../mechs/inquisitor.md)
-- **Inquisitor ITW-85 SecurityMech** *Scout (3120)* `Active Probe`
+- **Inquisitor ITW-85 SecurityMech** *Scout (3120)* `Active Probe`, `IndustrialMech`
 
 ### [Jaguar](../mechs/jaguar.md)
 - **Jaguar (Standard)** *Striker (3121)*
@@ -153,9 +153,9 @@
 - **Cuirass CDR-2BC** *Striker (3119)* `C3 Slave`
 
 ### [Harvester](../mechs/harvester.md)
-- **Harvester HVR-199 AgroMech** *Undefined (3128)*
-- **Harvester HVR-199M AgroMech MOD** *Sniper (3130)*
-- **Harvester HVR-199M-A AgroMech MOD** *Ambusher (3130)*
+- **Harvester HVR-199 AgroMech** *Undefined (3128)* `IndustrialMech`
+- **Harvester HVR-199M AgroMech MOD** *Sniper (3130)* `IndustrialMech`
+- **Harvester HVR-199M-A AgroMech MOD** *Ambusher (3130)* `IndustrialMech`
 
 ### [Raptor II](../mechs/raptor_ii.md)
 - **Raptor II RPT-2X2** *Striker (3109)* `ECM`, `Stealth`
@@ -229,7 +229,7 @@
 - **Hunchback IIC 5** *Ambusher (3130)*
 
 ### [Inquisitor II](../mechs/inquisitor_ii.md)
-- **Inquisitor II ITW-200** *Sniper (3130)* `Active Probe`
+- **Inquisitor II ITW-200** *Sniper (3130)* `Active Probe`, `IndustrialMech`
 
 ### [Legionnaire](../mechs/legionnaire.md)
 - **Legionnaire LGN-2K** *Striker (3128)*
@@ -314,16 +314,16 @@
 - **Balius  E** *Skirmisher (3127)*
 
 ### [Burrower](../mechs/burrower.md)
-- **Burrower DTM-1 MiningMech** *Undefined (3115)*
+- **Burrower DTM-1 MiningMech** *Undefined (3115)* `IndustrialMech`
 
 ### [Deep Lord](../mechs/deep_lord.md)
-- **Deep Lord RCL-Z1M-B MilitiaMech** *Brawler (3118)*
+- **Deep Lord RCL-Z1M-B MilitiaMech** *Brawler (3118)* `IndustrialMech`
 
 ### [Dragon II](../mechs/dragon_ii.md)
 - **Dragon II DRG-11R** *Missile Boat (3102)*
 
 ### [Ground Pounder](../mechs/ground_pounder.md)
-- **Ground Pounder DVM-2 MiningMech** *Ambusher (3125)*
+- **Ground Pounder DVM-2 MiningMech** *Ambusher (3125)* `IndustrialMech`
 
 ### [Hel](../mechs/hel.md)
 - **Hel  (Prime)** *Sniper (3121)*

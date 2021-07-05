@@ -13,7 +13,7 @@
 - **Mercury MCY-99** *Scout (2742)*
 
 ### [Shugosha](../mechs/shugosha.md)
-- **Shugosha PTN-LAW LoaderMech** *Undefined (2627)*
+- **Shugosha PTN-LAW LoaderMech** *Undefined (2627)* `IndustrialMech`
 
 ### [Stinger](../mechs/stinger.md)
 - **Stinger STG-3G** *Scout (2581)*
@@ -25,10 +25,10 @@
 ## 25 Tons
 
 ### [Copper](../mechs/copper.md)
-- **Copper CPK-19 SecurityMech** *Undefined (2619)*
+- **Copper CPK-19 SecurityMech** *Undefined (2619)* `IndustrialMech`
 
 ### [Harvester Ant](../mechs/harvester_ant.md)
-- **Harvester Ant KIC-3 AgroMech** *Ambusher (2650)*
+- **Harvester Ant KIC-3 AgroMech** *Ambusher (2650)* `IndustrialMech`
 
 ### [Jackrabbit](../mechs/jackrabbit.md)
 - **Jackrabbit JKR-8T** *Sniper (2765)*
@@ -46,11 +46,11 @@
 ## 30 Tons
 
 ### [Carbine](../mechs/carbine.md)
-- **Carbine CON-1 ConstructionMech** *Ambusher (2691)*
+- **Carbine CON-1 ConstructionMech** *Ambusher (2691)* `IndustrialMech`
 
 ### [Crosscut](../mechs/crosscut.md)
-- **Crosscut ED-X1 LoggerMech** *Ambusher (2650)*
-- **Crosscut ED-X2 ForestryMech** *Ambusher (2715)*
+- **Crosscut ED-X1 LoggerMech** *Ambusher (2650)* `IndustrialMech`
+- **Crosscut ED-X2 ForestryMech** *Ambusher (2715)* `IndustrialMech`
 
 ### [Falcon](../mechs/falcon.md)
 - **Falcon FLC-4N** *Scout (2582)*
@@ -72,9 +72,9 @@
 - **Javelin JVN-10A** *Undefined (2752)*
 
 ### [Marco](../mechs/marco.md)
-- **Marco MR-6 ExplorerMech** *Ambusher (2712)*
-- **Marco MR-7 ExplorerMech** *Ambusher (2715)*
-- **Marco MR-8C ExplorerMech** *Scout (2719)*
+- **Marco MR-6 ExplorerMech** *Ambusher (2712)* `IndustrialMech`
+- **Marco MR-7 ExplorerMech** *Ambusher (2715)* `IndustrialMech`
+- **Marco MR-8C ExplorerMech** *Scout (2719)* `IndustrialMech`
 
 ### [Spider](../mechs/spider.md)
 - **Spider SDR-5V** *Scout (2650)*
@@ -99,7 +99,7 @@
 ## 35 Tons
 
 ### [Dig King](../mechs/dig_king.md)
-- **Dig King RCL-1 MiningMech** *Ambusher (2573)*
+- **Dig King RCL-1 MiningMech** *Ambusher (2573)* `IndustrialMech`
 
 ### [Firestarter](../mechs/firestarter.md)
 - **Firestarter FS9-H** *Scout (2703)*
@@ -119,7 +119,7 @@
 - **Panther PNT-9R** *Brawler (2759)*
 
 ### [Powerman](../mechs/powerman.md)
-- **Powerman XI LoaderMech** *Undefined (2764)*
+- **Powerman XI LoaderMech** *Undefined (2764)* `IndustrialMech`
 
 ### [Spector](../mechs/spector.md)
 - **Spector SPR-4F** *Striker (2640)* `ECM`, `Stealth`
@@ -181,7 +181,7 @@
 ## 50 Tons
 
 ### [Buster](../mechs/buster.md)
-- **Buster BC XV HaulerMech** *Ambusher (2615)*
+- **Buster BC XV HaulerMech** *Ambusher (2615)* `IndustrialMech`
 
 ### [Crab](../mechs/crab.md)
 - **Crab CRB-27** *Skirmisher (2719)*
@@ -262,8 +262,8 @@
 - **Champion CHP-1Nb** *Sniper (2751)*
 
 ### [Daedalus](../mechs/daedalus.md)
-- **Daedalus GTX2A 'Stevedore'** *Ambusher (2750)*
-- **Daedalus GTX2B 'Navvy'** *Ambusher (2750)*
+- **Daedalus GTX2A 'Stevedore'** *Ambusher (2750)* `IndustrialMech`
+- **Daedalus GTX2B 'Navvy'** *Ambusher (2750)* `IndustrialMech`
 
 ### [Dragon](../mechs/dragon.md)
 - **Dragon DRG-1C** *Skirmisher (2752)*
@@ -273,7 +273,7 @@
 - **Galahad GLH-2D** *Sniper (2594)*
 
 ### [Heavy Forester](../mechs/heavy_forester.md)
-- **Heavy Forester HFL-1 LoggerMech** *Undefined (2700)*
+- **Heavy Forester HFL-1 LoggerMech** *Undefined (2700)* `IndustrialMech`
 
 ### [Lancelot](../mechs/lancelot.md)
 - **Lancelot LNC25-01** *Skirmisher (2581)*
@@ -355,7 +355,7 @@
 - **Grasshopper GHR-5H** *Skirmisher (2780)*
 
 ### [MuckRaker](../mechs/muckraker.md)
-- **MuckRaker GMMM-2 MiningMech** *Undefined (2737)*
+- **MuckRaker GMMM-2 MiningMech** *Undefined (2737)* `IndustrialMech`
 
 ### [Shootist](../mechs/shootist.md)
 - **Shootist ST-8A** *Brawler (2621)*
@@ -404,7 +404,7 @@
 - **Rifleman II RFL-3N-2 (Kataga)** *Brawler (2766)* `Active Probe`
 
 ### [ScavengerMech](../mechs/scavengermech.md)
-- **ScavengerMech SC-V SalvageMech** *Ambusher (2613)*
+- **ScavengerMech SC-V SalvageMech** *Ambusher (2613)* `IndustrialMech`
 
 ### [Spartan](../mechs/spartan.md)
 - **Spartan SPT-N1** *Skirmisher (2764)* `TAG`
@@ -502,8 +502,8 @@
 - **King Crab KGC-010** *Sniper (2743)*
 
 ### [Kiso](../mechs/kiso.md)
-- **Kiso K-3N-KR4 ConstructionMech** *Juggernaut (2703)* `Command Console`
-- **Kiso K-3N-KR5 ConstructionMech** *Juggernaut (2703)* `Command Console`
+- **Kiso K-3N-KR4 ConstructionMech** *Juggernaut (2703)* `Command Console`, `IndustrialMech`
+- **Kiso K-3N-KR5 ConstructionMech** *Juggernaut (2703)* `Command Console`, `IndustrialMech`
 
 ### [Mackie](../mechs/mackie.md)
 - **Mackie MSK-8B** *Juggernaut (2576)*

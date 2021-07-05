@@ -6,7 +6,7 @@
 - **Fire Moth  C** *Missile Boat (2874)*
 
 ### [Harvester Ant](../mechs/harvester_ant.md)
-- **Harvester Ant KIC-3M-B AgroMech MOD** *Missile Boat (2801)*
+- **Harvester Ant KIC-3M-B AgroMech MOD** *Missile Boat (2801)* `IndustrialMech`
 
 ### [Howler](../mechs/howler.md)
 - **Howler (Standard)** *Missile Boat (2871)*
@@ -50,7 +50,7 @@
 - **Arctic Fox  AF1D** *Missile Boat (3059)*
 
 ### [Carbine](../mechs/carbine.md)
-- **Carbine CON-9M ConstructionMech MOD** *Missile Boat (3078)*
+- **Carbine CON-9M ConstructionMech MOD** *Missile Boat (3078)* `IndustrialMech`
 
 ### [Hellion](../mechs/hellion.md)
 - **Hellion  A** *Missile Boat (3059)*
@@ -94,7 +94,7 @@
 - **Cougar XR** *Missile Boat (3071)*
 
 ### [Firebee](../mechs/firebee.md)
-- **Firebee WI-WAM MilitiaMech** *Missile Boat (3130)*
+- **Firebee WI-WAM MilitiaMech** *Missile Boat (3130)* `IndustrialMech`
 
 ### [Garm](../mechs/garm.md)
 - **Garm GRM-01A** *Missile Boat (3058)*
@@ -489,11 +489,11 @@
 - **Grand Summoner  B** *Missile Boat (3093)*
 
 ### [Lumberjack](../mechs/lumberjack.md)
-- **Lumberjack LM4/P** *Missile Boat (2811)*
-- **Lumberjack LM5/M** *Missile Boat (3070)*
+- **Lumberjack LM4/P** *Missile Boat (2811)* `IndustrialMech`
+- **Lumberjack LM5/M** *Missile Boat (3070)* `IndustrialMech`
 
 ### [MuckRaker](../mechs/muckraker.md)
-- **MuckRaker GMMM-2M-B MiningMech MOD** *Missile Boat (3132)*
+- **MuckRaker GMMM-2M-B MiningMech MOD** *Missile Boat (3132)* `IndustrialMech`
 
 ### [No-Dachi](../mechs/no-dachi.md)
 - **No-Dachi NDA-3X** *Missile Boat (3075)*
@@ -709,8 +709,8 @@
 - **Bane 3** *Missile Boat (3054)*
 
 ### [Diomede](../mechs/diomede.md)
-- **Diomede D-M3D-3 ConstructionMech** *Missile Boat (3084)*
-- **Diomede D-M3D-4 DemolitionMech** *Missile Boat (3084)*
+- **Diomede D-M3D-3 ConstructionMech** *Missile Boat (3084)* `IndustrialMech`
+- **Diomede D-M3D-4 DemolitionMech** *Missile Boat (3084)* `IndustrialMech`
 
 ### [Grand Titan](../mechs/grand_titan.md)
 - **Grand Titan T-IT-N14R 'Vengeance'** *Missile Boat (3075)*

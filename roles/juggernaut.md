@@ -3,8 +3,8 @@
 ## 35 Tons
 
 ### [DemolitionMech](../mechs/demolitionmech.md)
-- **DemolitionMech WI-DM** *Juggernaut (2513)*
-- **DemolitionMech WI-DM2** *Juggernaut (2514)*
+- **DemolitionMech WI-DM** *Juggernaut (2513)* `IndustrialMech`
+- **DemolitionMech WI-DM2** *Juggernaut (2514)* `IndustrialMech`
 
 ## 40 Tons
 
@@ -46,16 +46,16 @@
 - **Hunchback HBK-5P** *Juggernaut (3069)* `C3 Slave`, `ECM`
 
 ### [Jabberwocky](../mechs/jabberwocky.md)
-- **Jabberwocky JAW-65A EngineerMech** *Juggernaut (2549)*
-- **Jabberwocky JAW-66B EngineerMech** *Juggernaut (3070)*
-- **Jabberwocky JAW-66C DemolitionMech** *Juggernaut (3070)*
-- **Jabberwocky JAW-66D ConstructionMech** *Juggernaut (3070)*
+- **Jabberwocky JAW-65A EngineerMech** *Juggernaut (2549)* `IndustrialMech`
+- **Jabberwocky JAW-66B EngineerMech** *Juggernaut (3070)* `IndustrialMech`
+- **Jabberwocky JAW-66C DemolitionMech** *Juggernaut (3070)* `IndustrialMech`
+- **Jabberwocky JAW-66D ConstructionMech** *Juggernaut (3070)* `IndustrialMech`
 
 ### [Raider](../mechs/raider.md)
 - **Raider JL-1** *Juggernaut (3134)*
 
 ### [Sarissa](../mechs/sarissa.md)
-- **Sarissa MN2-A SecurityMech** *Juggernaut (3082)*
+- **Sarissa MN2-A SecurityMech** *Juggernaut (3082)* `IndustrialMech`
 
 ### [Ursus](../mechs/ursus.md)
 - **Ursus 3** *Juggernaut (3079)* `Active Probe`, `ECM`
@@ -77,12 +77,12 @@
 ## 65 Tons
 
 ### [Deep Lord](../mechs/deep_lord.md)
-- **Deep Lord RCL-Z1M MilitiaMech** *Juggernaut (3085)*
+- **Deep Lord RCL-Z1M MilitiaMech** *Juggernaut (3085)* `IndustrialMech`
 
 ### [Dig Lord](../mechs/dig_lord.md)
-- **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)*
-- **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)*
-- **Dig Lord RCL-4M-B MiningMech MOD** *Juggernaut (3132)*
+- **Dig Lord RCL-4 MiningMech** *Juggernaut (3057)* `IndustrialMech`
+- **Dig Lord RCL-4M MiningMech MOD** *Juggernaut (3132)* `IndustrialMech`
+- **Dig Lord RCL-4M-B MiningMech MOD** *Juggernaut (3132)* `IndustrialMech`
 
 ### [Ostwar](../mechs/ostwar.md)
 - **Ostwar OWR-2M** *Juggernaut (2470)*
@@ -325,7 +325,7 @@
 - **Mauler MAL-4X 'Todesbote'** *Juggernaut (3070)*
 
 ### [St. Florian](../mechs/st._florian.md)
-- **St. Florian FLN-366-M FireMech MOD** *Juggernaut (3133)*
+- **St. Florian FLN-366-M FireMech MOD** *Juggernaut (3133)* `IndustrialMech`
 
 ### [Sunder](../mechs/sunder.md)
 - **Sunder  SD1-O (Samual)** *Juggernaut (3066)*
@@ -446,7 +446,7 @@
 - **Devastator DVS-2** *Juggernaut (3048)*
 
 ### [Diomede](../mechs/diomede.md)
-- **Diomede D-M3D-M** *Juggernaut (3092)*
+- **Diomede D-M3D-M** *Juggernaut (3092)* `IndustrialMech`
 
 ### [Dire Wolf](../mechs/dire_wolf.md)
 - **Dire Wolf  Prime** *Juggernaut (3010)*
@@ -495,9 +495,9 @@
 - **King Crab KGC-011** *Juggernaut (3143)*
 
 ### [Kiso](../mechs/kiso.md)
-- **Kiso K-3N-KR4 ConstructionMech** *Juggernaut (2703)* `Command Console`
-- **Kiso K-3N-KR5 ConstructionMech** *Juggernaut (2703)* `Command Console`
-- **Kiso K-3N-KRHQ CommandMech** *Juggernaut (2823)* `Collapsible Command Module`, `Command Console`
+- **Kiso K-3N-KR4 ConstructionMech** *Juggernaut (2703)* `Command Console`, `IndustrialMech`
+- **Kiso K-3N-KR5 ConstructionMech** *Juggernaut (2703)* `Command Console`, `IndustrialMech`
+- **Kiso K-3N-KRHQ CommandMech** *Juggernaut (2823)* `Collapsible Command Module`, `Command Console`, `IndustrialMech`
 
 ### [Kodiak](../mechs/kodiak.md)
 - **Kodiak (Cale)** *Juggernaut (3068)* `Active Probe`, `C3 Master`, `TAG`

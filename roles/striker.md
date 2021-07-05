@@ -122,7 +122,7 @@
 - **Brigand LDT-5** *Striker (3083)*
 
 ### [CattleMaster](../mechs/cattlemaster.md)
-- **CattleMaster CTL-3R3 SecurityMech** *Striker (3072)*
+- **CattleMaster CTL-3R3 SecurityMech** *Striker (3072)* `IndustrialMech`
 
 ### [Cephalus](../mechs/cephalus.md)
 - **Cephalus  D** *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`, `Stealth`

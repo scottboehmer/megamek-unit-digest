@@ -246,7 +246,7 @@
 - **Battle Value:** 2177
 
 ## Nova "Black Hawk" X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3137)
 - **Chassis:** 50 tons
 - **Movement:** 5 / 8, XL

@@ -1,6 +1,6 @@
 # Wolverine
 ## Wolverine WVR-1R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2471)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6
@@ -15,7 +15,7 @@
 - **Battle Value:** 885
 
 ## Wolverine WVR-3R
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2490)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6

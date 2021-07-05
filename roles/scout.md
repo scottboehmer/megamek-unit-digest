@@ -14,7 +14,7 @@
 - **Celerity CLR-05-X** *Scout (3138)* `Drone`
 
 ### [Chaffee](../mechs/chaffee.md)
-- **Chaffee BT1 ServiceMech** *Scout (3081)*
+- **Chaffee BT1 ServiceMech** *Scout (3081)* `IndustrialMech`
 
 ### [Emerald Harrier](../mechs/emerald_harrier.md)
 - **Emerald Harrier RD-1R** *Scout (3112)*
@@ -23,7 +23,7 @@
 - **Flea FLE-14** *Scout (2519)*
 
 ### [Pompier](../mechs/pompier.md)
-- **Pompier GM-3CD FireMech** *Scout (3062)* `Active Probe`
+- **Pompier GM-3CD FireMech** *Scout (3062)* `Active Probe`, `IndustrialMech`
 
 ## 20 Tons
 
@@ -186,9 +186,9 @@
 - **Pathfinder PFF-2** *Scout (3075)* `Active Probe`
 
 ### [Sokuryou](../mechs/sokuryou.md)
-- **Sokuryou SKU-181 SurveyMech** *Scout (3084)* `TAG`
-- **Sokuryou SKU-197 SurveyMech** *Scout (3084)* `Active Probe`, `TAG`
-- **Sokuryou SKU-198 SurveyMech** *Scout (3085)* `Active Probe`
+- **Sokuryou SKU-181 SurveyMech** *Scout (3084)* `IndustrialMech`, `TAG`
+- **Sokuryou SKU-197 SurveyMech** *Scout (3084)* `Active Probe`, `IndustrialMech`, `TAG`
+- **Sokuryou SKU-198 SurveyMech** *Scout (3085)* `Active Probe`, `IndustrialMech`
 
 ### [Tarantula](../mechs/tarantula.md)
 - **Tarantula ZPH-1A** *Scout (3054)*
@@ -237,7 +237,7 @@
 - **Mantis SA-MN** *Scout (3052)*
 
 ### [Marco](../mechs/marco.md)
-- **Marco MR-8C ExplorerMech** *Scout (2719)*
+- **Marco MR-8C ExplorerMech** *Scout (2719)* `IndustrialMech`
 
 ### [Nyx](../mechs/nyx.md)
 - **Nyx NX-90** *Scout (3080)*
@@ -265,7 +265,7 @@
 - **Spider SDR-10K** *Scout (3143)*
 
 ### [Spindrift](../mechs/spindrift.md)
-- **Spindrift SDT-1A Aquatic SecurityMech** *Scout (3083)*
+- **Spindrift SDT-1A Aquatic SecurityMech** *Scout (3083)* `IndustrialMech`
 
 ### [Stinger LAM](../mechs/stinger_lam.md)
 - **Stinger LAM STG-A5** *Scout (2701)*
@@ -309,8 +309,8 @@
 - **Firestarter FS9-M4** *Scout (3109)*
 
 ### [Inquisitor](../mechs/inquisitor.md)
-- **Inquisitor ITW-80 SecurityMech** *Scout (3062)*
-- **Inquisitor ITW-85 SecurityMech** *Scout (3120)* `Active Probe`
+- **Inquisitor ITW-80 SecurityMech** *Scout (3062)* `IndustrialMech`
+- **Inquisitor ITW-85 SecurityMech** *Scout (3120)* `Active Probe`, `IndustrialMech`
 
 ### [Jenner](../mechs/jenner.md)
 - **Jenner JR7-A** *Scout (2779)*
@@ -446,7 +446,7 @@
 - **Preta  C-PRT-OU Exanimus** *Scout (3077)* `C3i`
 
 ### [Quasit](../mechs/quasit.md)
-- **Quasit QUA-51P MilitiaMech** *Scout (3074)*
+- **Quasit QUA-51P MilitiaMech** *Scout (3074)* `IndustrialMech`
 
 ### [Shadow Cat](../mechs/shadow_cat.md)
 - **Shadow Cat  TC** *Scout (3050)* `Active Probe`
@@ -470,7 +470,7 @@
 - **Buccaneer BCN-5W** *Scout (3069)* `C3i`
 
 ### [Hyena](../mechs/hyena.md)
-- **Hyena HYN-4A SalvageMech** *Scout (3066)*
+- **Hyena HYN-4A SalvageMech** *Scout (3066)* `IndustrialMech`
 
 ### [Men Shen](../mechs/men_shen.md)
 - **Men Shen  MS1-OG** *Scout (3134)* `Active Probe`
