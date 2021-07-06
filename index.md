@@ -26,6 +26,9 @@
 ## Variants
 - [List of Variants](variants.md)
 
+## Factions
+- [Faction Availability by Era](factions/factions.md)
+
 
 ## A
 - [Adder](mechs/adder.md)
