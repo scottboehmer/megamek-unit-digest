@@ -12,6 +12,7 @@
   - Medium Pulse Laser
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1580/huron-warrior-hur-wo-r4l)
 - **Battle Value:** 1530
+- [*More Info*](huron_warrior/huron_warrior_hur-wo-r4l.md)
 
 ## Huron Warrior HUR-WO-R4M
 - **Role:** Skirmisher
@@ -26,6 +27,7 @@
   - Medium Laser
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1581/huron-warrior-hur-wo-r4m)
 - **Battle Value:** 1556
+- [*More Info*](huron_warrior/huron_warrior_hur-wo-r4m.md)
 
 ## Huron Warrior HUR-WO-R4N
 - **Role:** Missile Boat
@@ -42,6 +44,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1582/huron-warrior-hur-wo-r4n)
 - **Battle Value:** 1489
+- [*More Info*](huron_warrior/huron_warrior_hur-wo-r4n.md)
 
 ## Huron Warrior HUR-WO-R4O
 - **Role:** Skirmisher
@@ -56,6 +59,7 @@
   - Medium Pulse Laser
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1583/huron-warrior-hur-wo-r4o)
 - **Battle Value:** 1585
+- [*More Info*](huron_warrior/huron_warrior_hur-wo-r4o.md)
 
 ## Huron Warrior HUR-WO-R4X
 - **Role:** Skirmisher
@@ -71,4 +75,5 @@
   - Supercharger
 - **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5782/huron-warrior-hur-wo-r4x)
 - **Battle Value:** 1728
+- [*More Info*](huron_warrior/huron_warrior_hur-wo-r4x.md)
 

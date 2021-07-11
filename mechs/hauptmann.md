@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1420/hauptmann-ha1-o)
 - **Battle Value:** 2157
+- [*More Info*](hauptmann/hauptmann_ha1-o.md)
 
 ## Hauptmann HA1-OA
 - **Role:** Juggernaut
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1421/hauptmann-ha1-oa)
 - **Battle Value:** 2311
+- [*More Info*](hauptmann/hauptmann_ha1-oa.md)
 
 ## Hauptmann HA1-OB
 - **Role:** Juggernaut
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob)
 - **Battle Value:** 2138
+- [*More Info*](hauptmann/hauptmann_ha1-ob.md)
 
 ## Hauptmann HA1-OC
 - **Role:** Missile Boat
@@ -69,6 +72,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc)
 - **Battle Value:** 2287
+- [*More Info*](hauptmann/hauptmann_ha1-oc.md)
 
 ## Hauptmann HA1-OD
 - **Role:** Sniper
@@ -88,6 +92,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od)
 - **Battle Value:** 2359
+- [*More Info*](hauptmann/hauptmann_ha1-od.md)
 
 ## Hauptmann HA1-OE
 - **Role:** Juggernaut
@@ -104,6 +109,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1425/hauptmann-ha1-oe)
 - **Battle Value:** 2298
+- [*More Info*](hauptmann/hauptmann_ha1-oe.md)
 
 ## Hauptmann HA1-OF
 - **Role:** Sniper
@@ -122,6 +128,7 @@
   - CASE II
 - **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of)
 - **Battle Value:** 2484
+- [*More Info*](hauptmann/hauptmann_ha1-of.md)
 
 ## Hauptmann HA1-OM
 - **Role:** Missile Boat
@@ -138,6 +145,7 @@
   - C3 BoostedMaster
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6838/hauptmann-ha1-om)
 - **Battle Value:** 2214
+- [*More Info*](hauptmann/hauptmann_ha1-om.md)
 
 ## Hauptmann HA1-OT
 - **Role:** Juggernaut
@@ -155,4 +163,5 @@
   - Clan CASE II
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6837/hauptmann-ha1-ot)
 - **Battle Value:** 3031
+- [*More Info*](hauptmann/hauptmann_ha1-ot.md)
 

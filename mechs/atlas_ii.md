@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** Arano Restoration, [Master Unit List](http://masterunitlist.info/Unit/Details/7618/atlas-ii-as7-d-ht)
 - **Battle Value:** 2205
+- [*More Info*](atlas_ii/atlas_ii_as7-d-ht.md)
 
 ## Atlas II AS7-D-H
 - **Role:** Juggernaut
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/152/atlas-ii-as7-d-h)
 - **Battle Value:** 2169
+- [*More Info*](atlas_ii/atlas_ii_as7-d-h.md)
 
 ## Atlas II AS7-D-H2
 - **Role:** Juggernaut
@@ -52,6 +54,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/153/atlas-ii-as7-d-h2)
 - **Battle Value:** 2340
+- [*More Info*](atlas_ii/atlas_ii_as7-d-h2.md)
 
 ## Atlas II AS7-D-H (Kerensky)
 - **Role:** Juggernaut
@@ -72,4 +75,5 @@
   - CASE
 - **Sources:** OTP Widowmaker, [Master Unit List](http://masterunitlist.info/Unit/Details/7310/atlas-ii-as7-d-h-kerensky)
 - **Battle Value:** 2777
+- [*More Info*](atlas_ii/atlas_ii_as7-d-h_kerensky.md)
 

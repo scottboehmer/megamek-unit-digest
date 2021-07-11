@@ -14,6 +14,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3535/werewolf-wer-lf-004)
 - **Battle Value:** 802
+- [*More Info*](werewolf/werewolf_wer-lf-004.md)
 
 ## Werewolf WER-LF-005
 - **Role:** Striker
@@ -31,4 +32,5 @@
   - Null-Signature System
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3536/werewolf-wer-lf-005)
 - **Battle Value:** 1082
+- [*More Info*](werewolf/werewolf_wer-lf-005.md)
 

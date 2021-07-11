@@ -15,4 +15,5 @@
   - CASE
 - **Sources:** ED: Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/6954/cave-lion-standard)
 - **Battle Value:** 3044
+- [*More Info*](cave_lion/cave_lion_standard.md)
 

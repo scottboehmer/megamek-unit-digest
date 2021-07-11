@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2408/paladin-pal-1)
 - **Battle Value:** 1361
+- [*More Info*](paladin/paladin_pal-1.md)
 
 ## Paladin PAL-2
 - **Role:** Skirmisher
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2409/paladin-pal-2)
 - **Battle Value:** 1617
+- [*More Info*](paladin/paladin_pal-2.md)
 
 ## Paladin PAL-3
 - **Role:** Skirmisher
@@ -53,4 +55,5 @@
   - CASE
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2410/paladin-pal-3)
 - **Battle Value:** 1370
+- [*More Info*](paladin/paladin_pal-3.md)
 

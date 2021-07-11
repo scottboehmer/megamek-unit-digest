@@ -15,6 +15,7 @@
   - Remote Sensor Dispenser
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6455/yinghuochong-yhc-3e)
 - **Battle Value:** 1401
+- [*More Info*](yinghuochong/yinghuochong_yhc-3e.md)
 
 ## Yinghuochong YHC-3Y
 - **Role:** Scout
@@ -32,4 +33,5 @@
   - Remote Sensor Dispenser
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6456/yinghuochong-yhc-3y)
 - **Battle Value:** 1548
+- [*More Info*](yinghuochong/yinghuochong_yhc-3y.md)
 

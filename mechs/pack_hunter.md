@@ -11,6 +11,7 @@
   - ER PPC
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2392/pack-hunter-standard)
 - **Battle Value:** 1369
+- [*More Info*](pack_hunter/pack_hunter_standard.md)
 
 ## Pack Hunter 2
 - **Role:** Striker
@@ -25,6 +26,7 @@
   - ER Micro Laser × 8
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2393/pack-hunter-2)
 - **Battle Value:** 1598
+- [*More Info*](pack_hunter/pack_hunter_2.md)
 
 ## Pack Hunter 3
 - **Role:** Striker
@@ -41,6 +43,7 @@
   - MASC
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2394/pack-hunter-3)
 - **Battle Value:** 1747
+- [*More Info*](pack_hunter/pack_hunter_3.md)
 
 ## Pack Hunter 4
 - **Role:** Sniper
@@ -57,6 +60,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2395/pack-hunter-4)
 - **Battle Value:** 1257
+- [*More Info*](pack_hunter/pack_hunter_4.md)
 
 ## Pack Hunter 5
 - **Role:** Sniper
@@ -70,4 +74,5 @@
   - ER PPC
 - **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7440/pack-hunter-5)
 - **Battle Value:** 1644
+- [*More Info*](pack_hunter/pack_hunter_5.md)
 

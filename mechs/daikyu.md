@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/797/daikyu-dai-01)
 - **Battle Value:** 1603
+- [*More Info*](daikyu/daikyu_dai-01.md)
 
 ## Daikyu DAI-02
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/800/daikyu-dai-02)
 - **Battle Value:** 1831
+- [*More Info*](daikyu/daikyu_dai-02.md)
 
 ## Daikyu DAI-01 (Tabitha)
 - **Role:** Sniper
@@ -48,6 +50,7 @@
   - LRM 5 (ammo: 24)
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798/daikyu-dai-01-tabitha)
 - **Battle Value:** 1804
+- [*More Info*](daikyu/daikyu_dai-01_tabitha.md)
 
 ## Daikyu DAI-03
 - **Role:** Skirmisher
@@ -66,6 +69,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/801/daikyu-dai-03)
 - **Battle Value:** 1692
+- [*More Info*](daikyu/daikyu_dai-03.md)
 
 ## Daikyu DAI-01r
 - **Role:** Sniper
@@ -84,4 +88,5 @@
   - C3 Boosted Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/799/daikyu-dai-01r)
 - **Battle Value:** 1513
+- [*More Info*](daikyu/daikyu_dai-01r.md)
 

@@ -15,6 +15,7 @@
   - Machine Gun (ammo: 200)
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2635/rampage-rmp-2g)
 - **Battle Value:** 1444
+- [*More Info*](rampage/rampage_rmp-2g.md)
 
 ## Rampage RMP-4G
 - **Role:** Sniper
@@ -34,6 +35,7 @@
   - MASC
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2636/rampage-rmp-4g)
 - **Battle Value:** 2130
+- [*More Info*](rampage/rampage_rmp-4g.md)
 
 ## Rampage RMP-4G (Benboudaoud)
 - **Role:** Brawler
@@ -54,6 +56,7 @@
   - CASE
 - **Sources:** HTP New Dallas, [Master Unit List](http://masterunitlist.info/Unit/Details/6974/rampage-rmp-4g-benboudaoud)
 - **Battle Value:** 1751
+- [*More Info*](rampage/rampage_rmp-4g_benboudaoud.md)
 
 ## Rampage RMP-5G
 - **Role:** Skirmisher
@@ -74,4 +77,5 @@
   - MASC
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2637/rampage-rmp-5g)
 - **Battle Value:** 1933
+- [*More Info*](rampage/rampage_rmp-5g.md)
 

@@ -16,6 +16,7 @@
   - MASC
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/852/deimos-2)
 - **Battle Value:** 2394
+- [*More Info*](deimos/deimos_2.md)
 
 ## Deimos Prime
 - **Role:** Sniper
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/856/deimos-prime)
 - **Battle Value:** 2188
+- [*More Info*](deimos/deimos_prime.md)
 
 ## Deimos A
 - **Role:** Brawler
@@ -54,6 +56,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/853/deimos-a)
 - **Battle Value:** 2785
+- [*More Info*](deimos/deimos_a.md)
 
 ## Deimos B
 - **Role:** Sniper
@@ -74,6 +77,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/854/deimos-b)
 - **Battle Value:** 2965
+- [*More Info*](deimos/deimos_b.md)
 
 ## Deimos H
 - **Role:** Sniper
@@ -94,6 +98,7 @@
   - CASE
 - **Source:** Jihad
 - **Battle Value:** 3344
+- [*More Info*](deimos/deimos_h.md)
 
 ## Deimos C
 - **Role:** Sniper
@@ -115,6 +120,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/855/deimos-c)
 - **Battle Value:** 2737
+- [*More Info*](deimos/deimos_c.md)
 
 ## Deimos S
 - **Role:** Sniper
@@ -136,6 +142,7 @@
   - Liquid Cargo
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/857/deimos-s)
 - **Battle Value:** 2664
+- [*More Info*](deimos/deimos_s.md)
 
 ## Deimos D
 - **Role:** Sniper
@@ -154,6 +161,7 @@
   - CASE
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6856/deimos-d)
 - **Battle Value:** 2682
+- [*More Info*](deimos/deimos_d.md)
 
 ## Deimos E
 - **Role:** Brawler
@@ -177,4 +185,5 @@
   - Supercharger
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6855/deimos-e)
 - **Battle Value:** 3606
+- [*More Info*](deimos/deimos_e.md)
 

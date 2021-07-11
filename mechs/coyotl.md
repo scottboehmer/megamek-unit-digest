@@ -15,6 +15,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/714/coyotl-prime)
 - **Battle Value:** 1974
+- [*More Info*](coyotl/coyotl_prime.md)
 
 ## Coyotl A
 - **Role:** Striker
@@ -32,6 +33,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/713/coyotl-a)
 - **Battle Value:** 1753
+- [*More Info*](coyotl/coyotl_a.md)
 
 ## Coyotl B
 - **Role:** Striker
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7606/coyotl-b)
 - **Battle Value:** 1447
+- [*More Info*](coyotl/coyotl_b.md)
 
 ## Coyotl C
 - **Role:** Striker
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7607/coyotl-c)
 - **Battle Value:** 1851
+- [*More Info*](coyotl/coyotl_c.md)
 
 ## Coyotl D
 - **Role:** Striker
@@ -84,4 +88,5 @@
   - TAG
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7608/coyotl-d)
 - **Battle Value:** 1980
+- [*More Info*](coyotl/coyotl_d.md)
 

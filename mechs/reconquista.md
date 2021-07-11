@@ -13,4 +13,5 @@
   - Machine Gun (ammo: 100)
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7472/reconquista-standard)
 - **Battle Value:** 927
+- [*More Info*](reconquista/reconquista.md)
 

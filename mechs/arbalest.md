@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/62/arbalest-standard)
 - **Battle Value:** 1029
+- [*More Info*](arbalest/arbalest_standard.md)
 
 ## Arbalest 2
 - **Role:** Missile Boat
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/60/arbalest-2)
 - **Battle Value:** 1098
+- [*More Info*](arbalest/arbalest_2.md)
 
 ## Arbalest 3
 - **Role:** Brawler
@@ -46,4 +48,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/61/arbalest-3)
 - **Battle Value:** 921
+- [*More Info*](arbalest/arbalest_3.md)
 

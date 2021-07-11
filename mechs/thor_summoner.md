@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3183/thor-summoner-prime)
 - **Battle Value:** 2298
+- [*More Info*](summoner/summoner_prime.md)
 
 ## Summoner "Thor" A
 - **Role:** Sniper
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3174/thor-summoner-a)
 - **Battle Value:** 2145
+- [*More Info*](summoner/summoner_a.md)
 
 ## Summoner "Thor" B
 - **Role:** Missile Boat
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3175/thor-summoner-b)
 - **Battle Value:** 2159
+- [*More Info*](summoner/summoner_b.md)
 
 ## Summoner "Thor" C
 - **Role:** Skirmisher
@@ -68,6 +71,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3176/thor-summoner-c)
 - **Battle Value:** 2379
+- [*More Info*](summoner/summoner_c.md)
 
 ## Summoner "Thor" D
 - **Role:** Sniper
@@ -87,6 +91,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3177/thor-summoner-d)
 - **Battle Value:** 2643
+- [*More Info*](summoner/summoner_d.md)
 
 ## Summoner "Thor" M
 - **Role:** Sniper
@@ -105,6 +110,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3182/thor-summoner-m)
 - **Battle Value:** 2251
+- [*More Info*](summoner/summoner_m.md)
 
 ## Summoner "Thor" E
 - **Role:** Skirmisher
@@ -122,6 +128,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3178/thor-summoner-e)
 - **Battle Value:** 2612
+- [*More Info*](summoner/summoner_e.md)
 
 ## Summoner "Thor" F
 - **Role:** Skirmisher
@@ -139,6 +146,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5490/thor-summoner-f)
 - **Battle Value:** 2186
+- [*More Info*](summoner/summoner_f.md)
 
 ## Summoner "Thor" H
 - **Role:** Skirmisher
@@ -157,6 +165,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3180/thor-summoner-h)
 - **Battle Value:** 2536
+- [*More Info*](summoner/summoner_h.md)
 
 ## Summoner "Thor" G
 - **Role:** Skirmisher
@@ -175,6 +184,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3179/thor-summoner-g)
 - **Battle Value:** 2452
+- [*More Info*](summoner/summoner_g.md)
 
 ## Summoner "Thor" Q
 - **Role:** Skirmisher
@@ -194,6 +204,7 @@
   - CASE
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3184/thor-summoner-q)
 - **Battle Value:** 2479
+- [*More Info*](summoner/summoner_q.md)
 
 ## Summoner "Thor" HH
 - **Role:** Skirmisher
@@ -213,6 +224,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3181/thor-summoner-hh)
 - **Battle Value:** 2490
+- [*More Info*](summoner/summoner_hh.md)
 
 ## Summoner "Thor" Z
 - **Role:** Skirmisher
@@ -231,6 +243,7 @@
   - CASE
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5821/thor-summoner-z)
 - **Battle Value:** 2783
+- [*More Info*](summoner/summoner_z.md)
 
 ## Summoner "Thor" U
 - **Role:** Sniper
@@ -248,6 +261,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3185/thor-summoner-u)
 - **Battle Value:** 3092
+- [*More Info*](summoner/summoner_u.md)
 
 ## Summoner "Thor" AA
 - **Role:** Sniper
@@ -265,6 +279,7 @@
   - CASE
 - **Sources:** ilClan Vol 3 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa)
 - **Battle Value:** 2216
+- [*More Info*](summoner/summoner_aa.md)
 
 ## Summoner "Thor" T
 - **Role:** Sniper
@@ -282,6 +297,7 @@
   - CASE
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7490/thor-summoner-t)
 - **Battle Value:** 2355
+- [*More Info*](summoner/summoner_t.md)
 
 ## Summoner "Thor" J
 - **Role:** Skirmisher
@@ -299,4 +315,5 @@
   - CASE
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7489/thor-summoner-j)
 - **Battle Value:** 2666
+- [*More Info*](summoner/summoner_j.md)
 

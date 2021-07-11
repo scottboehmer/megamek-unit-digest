@@ -14,6 +14,7 @@
   - Cargo
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7855/demeter-wld-1-agromech)
 - **Battle Value:** 339
+- [*More Info*](demeter/demeter_wld-1_agromech.md)
 
 ## Demeter WLD-1-M AgroMech MOD
 - **Role:** Ambusher
@@ -27,4 +28,5 @@
   - Vehicle Flamer (ammo: 20)
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7856/demeter-wld-1-m-agromech-mod)
 - **Battle Value:** 332
+- [*More Info*](demeter/demeter_wld-1-m_agromech_mod.md)
 

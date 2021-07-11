@@ -16,6 +16,7 @@
   - MASC
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1533/hitman-hm-1)
 - **Battle Value:** 925
+- [*More Info*](hitman/hitman_hm-1.md)
 
 ## Hitman HM-2
 - **Role:** Striker
@@ -34,6 +35,7 @@
   - MASC
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1535/hitman-hm-2)
 - **Battle Value:** 861
+- [*More Info*](hitman/hitman_hm-2.md)
 
 ## Hitman HM-1r
 - **Role:** Striker
@@ -53,4 +55,5 @@
   - MASC
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1534/hitman-hm-1r)
 - **Battle Value:** 938
+- [*More Info*](hitman/hitman_hm-1r.md)
 

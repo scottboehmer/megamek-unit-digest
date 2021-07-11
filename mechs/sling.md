@@ -13,6 +13,7 @@
   - TAG
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2967/sling-sl-1g)
 - **Battle Value:** 578
+- [*More Info*](sling/sling_sl-1g.md)
 
 ## Sling SL-1H
 - **Role:** Striker
@@ -29,4 +30,5 @@
   - TAG
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2968/sling-sl-1h)
 - **Battle Value:** 731
+- [*More Info*](sling/sling_sl-1h.md)
 

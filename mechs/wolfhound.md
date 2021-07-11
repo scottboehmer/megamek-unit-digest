@@ -11,6 +11,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3560/wolfhound-wlf-1)
 - **Battle Value:** 949
+- [*More Info*](wolfhound/wolfhound_wlf-1.md)
 
 ## Wolfhound WLF-1A
 - **Role:** Striker
@@ -24,6 +25,7 @@
   - Medium Laser × 3
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3561/wolfhound-wlf-1a)
 - **Battle Value:** 967
+- [*More Info*](wolfhound/wolfhound_wlf-1a.md)
 
 ## Wolfhound WLF-1B
 - **Role:** Striker
@@ -37,6 +39,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3562/wolfhound-wlf-1b)
 - **Battle Value:** 967
+- [*More Info*](wolfhound/wolfhound_wlf-1b.md)
 
 ## Wolfhound WLF-2
 - **Role:** Striker
@@ -50,6 +53,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3563/wolfhound-wlf-2)
 - **Battle Value:** 1061
+- [*More Info*](wolfhound/wolfhound_wlf-2.md)
 
 ## Wolfhound WLF-1 (Allard)
 - **Role:** Striker
@@ -66,6 +70,7 @@
   - Clan Targeting Computer
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5416/wolfhound-wlf-1-allard)
 - **Battle Value:** 1941
+- [*More Info*](wolfhound/wolfhound_wlf-1_allard.md)
 
 ## Wolfhound WLF-3S
 - **Role:** Striker
@@ -80,6 +85,7 @@
   - ER Small Laser
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3566/wolfhound-wlf-3s)
 - **Battle Value:** 1176
+- [*More Info*](wolfhound/wolfhound_wlf-3s.md)
 
 ## Wolfhound WLF-4W
 - **Role:** Sniper
@@ -94,6 +100,7 @@
   - ER Small Laser
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3567/wolfhound-wlf-4w)
 - **Battle Value:** 1090
+- [*More Info*](wolfhound/wolfhound_wlf-4w.md)
 
 ## Wolfhound WLF-4WA
 - **Role:** Sniper
@@ -108,6 +115,7 @@
   - Guardian ECM Suite
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3568/wolfhound-wlf-4wa)
 - **Battle Value:** 1050
+- [*More Info*](wolfhound/wolfhound_wlf-4wa.md)
 
 ## Wolfhound WLF-2X
 - **Role:** Striker
@@ -125,6 +133,7 @@
   - Supercharger
 - **Sources:** XTR Mercs - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3564/wolfhound-wlf-2x)
 - **Battle Value:** 1842
+- [*More Info*](wolfhound/wolfhound_wlf-2x.md)
 
 ## Wolfhound WLF-3M
 - **Role:** Sniper
@@ -137,6 +146,7 @@
   - Light Gauss Rifle (ammo: 16)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3565/wolfhound-wlf-3m)
 - **Battle Value:** 786
+- [*More Info*](wolfhound/wolfhound_wlf-3m.md)
 
 ## Wolfhound WLF-5
 - **Role:** Striker
@@ -152,6 +162,7 @@
   - MASC
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5)
 - **Battle Value:** 1290
+- [*More Info*](wolfhound/wolfhound_wlf-5.md)
 
 ## Wolfhound WLF-2H
 - **Role:** Striker
@@ -168,4 +179,5 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417/wolfhound-wlf-2h)
 - **Battle Value:** 1511
+- [*More Info*](wolfhound/wolfhound_wlf-2h.md)
 

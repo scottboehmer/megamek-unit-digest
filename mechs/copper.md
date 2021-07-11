@@ -12,6 +12,7 @@
   - Searchlight × 2
 - **Sources:** RS:VA IM Exo - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3993/copper-cpk-19-securitymech)
 - **Battle Value:** 310
+- [*More Info*](copper/copper_cpk-19_securitymech.md)
 
 ## Copper CPK-65 SecurityMech
 - **Role:** Ambusher
@@ -27,6 +28,7 @@
   - Searchlight × 2
 - **Sources:** RS:VA IM Exo - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3994/copper-cpk-65-securitymech)
 - **Battle Value:** 325
+- [*More Info*](copper/copper_cpk-65_securitymech.md)
 
 ## Copper CPK-65KM SecurityMech
 - **Role:** Ambusher
@@ -41,4 +43,5 @@
   - Searchlight × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7465/copper-cpk-65km-securitymech)
 - **Battle Value:** 339
+- [*More Info*](copper/copper_cpk-65km_securitymech.md)
 

@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3836/blood-kite-standard)
 - **Battle Value:** 2776
+- [*More Info*](blood_kite/blood_kite_standard.md)
 
 ## Blood Kite 2
 - **Role:** Sniper
@@ -32,4 +33,5 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3837/blood-kite-2)
 - **Battle Value:** 3122
+- [*More Info*](blood_kite/blood_kite_2.md)
 

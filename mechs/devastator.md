@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7686/devastator-dvs-2-ec)
 - **Battle Value:** 2844
+- [*More Info*](devastator/devastator_dvs-2-ec.md)
 
 ## Devastator DVS-1D
 - **Role:** Juggernaut
@@ -28,6 +29,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/893/devastator-dvs-1d)
 - **Battle Value:** 1858
+- [*More Info*](devastator/devastator_dvs-1d.md)
 
 ## Devastator DVS-2
 - **Role:** Juggernaut
@@ -42,6 +44,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/894/devastator-dvs-2)
 - **Battle Value:** 2481
+- [*More Info*](devastator/devastator_dvs-2.md)
 
 ## Devastator DVS-3
 - **Role:** Sniper
@@ -57,6 +60,7 @@
   - Small Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/895/devastator-dvs-3)
 - **Battle Value:** 2452
+- [*More Info*](devastator/devastator_dvs-3.md)
 
 ## Devastator DVS-X10 MUSE EARTH
 - **Role:** Skirmisher
@@ -75,4 +79,5 @@
   - Armored Actuator × 4
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/896/devastator-dvs-x10-muse-earth)
 - **Battle Value:** 3250
+- [*More Info*](devastator/devastator_dvs-x10_muse_earth.md)
 

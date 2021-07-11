@@ -10,4 +10,5 @@
   - ER Medium Laser × 2
 - **Sources:** XTRO Republic I - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7292/roadrunner-emerald-harrier-rd-1r)
 - **Battle Value:** 888
+- [*More Info*](emerald_harrier/emerald_harrier_rd-1r.md)
 

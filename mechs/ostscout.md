@@ -11,6 +11,7 @@
   - Medium Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2366/ostscout-ott-7j)
 - **Battle Value:** 596
+- [*More Info*](ostscout/ostscout_ott-7j.md)
 
 ## Ostscout OTT-7Jb
 - **Role:** Scout
@@ -26,6 +27,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2367/ostscout-ott-7jb)
 - **Battle Value:** 610
+- [*More Info*](ostscout/ostscout_ott-7jb.md)
 
 ## Ostscout OTT-7K
 - **Role:** Scout
@@ -39,6 +41,7 @@
   - TAG
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2368/ostscout-ott-7k)
 - **Battle Value:** 484
+- [*More Info*](ostscout/ostscout_ott-7k.md)
 
 ## Ostscout OTT-9CS
 - **Role:** Scout
@@ -58,6 +61,7 @@
   - TAG
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs)
 - **Battle Value:** 930
+- [*More Info*](ostscout/ostscout_ott-9cs.md)
 
 ## Ostscout OTT-9S
 - **Role:** Scout
@@ -76,6 +80,7 @@
   - TAG
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s)
 - **Battle Value:** 855
+- [*More Info*](ostscout/ostscout_ott-9s.md)
 
 ## Ostscout OTT-10CS
 - **Role:** Scout
@@ -92,6 +97,7 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2364/ostscout-ott-10cs)
 - **Battle Value:** 862
+- [*More Info*](ostscout/ostscout_ott-10cs.md)
 
 ## Ostscout OTT-11J
 - **Role:** Scout
@@ -107,6 +113,7 @@
   - TAG
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j)
 - **Battle Value:** 908
+- [*More Info*](ostscout/ostscout_ott-11j.md)
 
 ## Ostscout OTT-12R
 - **Role:** Scout
@@ -122,6 +129,7 @@
   - Guardian ECM Suite
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r)
 - **Battle Value:** 1209
+- [*More Info*](ostscout/ostscout_ott-12r.md)
 
 ## Ostscout OTT-8J
 - **Role:** Scout
@@ -139,4 +147,5 @@
   - Bloodhound Active Probe
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j)
 - **Battle Value:** 894
+- [*More Info*](ostscout/ostscout_ott-8j.md)
 

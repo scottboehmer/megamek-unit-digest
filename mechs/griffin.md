@@ -13,6 +13,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7185/griffin-grf-1a)
 - **Battle Value:** 1024
+- [*More Info*](griffin/griffin_grf-1a.md)
 
 ## Griffin GRF-1N
 - **Role:** Sniper
@@ -27,6 +28,7 @@
   - LRM 10 (ammo: 24)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1297/griffin-grf-1n)
 - **Battle Value:** 1272
+- [*More Info*](griffin/griffin_grf-1n.md)
 
 ## Griffin GRF-2N
 - **Role:** Skirmisher
@@ -44,6 +46,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299/griffin-grf-2n)
 - **Battle Value:** 1606
+- [*More Info*](griffin/griffin_grf-2n.md)
 
 ## Griffin GRF-1S
 - **Role:** Skirmisher
@@ -59,6 +62,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s)
 - **Battle Value:** 1253
+- [*More Info*](griffin/griffin_grf-1s.md)
 
 ## Griffin GRF-1E 'Sparky'
 - **Role:** Skirmisher
@@ -73,6 +77,7 @@
   - Medium Laser × 5
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1295/griffin-grf-1e-sparky)
 - **Battle Value:** 1449
+- [*More Info*](griffin/griffin_grf-1e_'sparky'.md)
 
 ## Griffin GRF-1DS
 - **Role:** Missile Boat
@@ -89,6 +94,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds)
 - **Battle Value:** 1285
+- [*More Info*](griffin/griffin_grf-1ds.md)
 
 ## Griffin GRF-3M
 - **Role:** Sniper
@@ -106,6 +112,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1300/griffin-grf-3m)
 - **Battle Value:** 1521
+- [*More Info*](griffin/griffin_grf-3m.md)
 
 ## Griffin GRF-5M
 - **Role:** Missile Boat
@@ -123,6 +130,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m)
 - **Battle Value:** 1224
+- [*More Info*](griffin/griffin_grf-5m.md)
 
 ## Griffin GRF-6S
 - **Role:** Sniper
@@ -140,6 +148,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s)
 - **Battle Value:** 1781
+- [*More Info*](griffin/griffin_grf-6s.md)
 
 ## Griffin GRF-6CS
 - **Role:** Sniper
@@ -159,6 +168,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs)
 - **Battle Value:** 1695
+- [*More Info*](griffin/griffin_grf-6cs.md)
 
 ## Griffin GRF-5L
 - **Role:** Skirmisher
@@ -176,6 +186,7 @@
   - Guardian ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1304/griffin-grf-5l)
 - **Battle Value:** 1742
+- [*More Info*](griffin/griffin_grf-5l.md)
 
 ## Griffin GRF-6S (Francine)
 - **Role:** Skirmisher
@@ -194,6 +205,7 @@
   - CASE
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1309/griffin-grf-6s-francine)
 - **Battle Value:** 1778
+- [*More Info*](griffin/griffin_grf-6s_francine.md)
 
 ## Griffin GRF-5K
 - **Role:** Missile Boat
@@ -212,6 +224,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k)
 - **Battle Value:** 1390
+- [*More Info*](griffin/griffin_grf-5k.md)
 
 ## Griffin GRF-6S (Francine II)
 - **Role:** Skirmisher
@@ -230,6 +243,7 @@
   - CASE
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1308/griffin-grf-6s-francine-ii)
 - **Battle Value:** 2249
+- [*More Info*](griffin/griffin_grf-6s_francine_ii.md)
 
 ## Griffin GRF-1E2 'Sparky 2.0'
 - **Role:** Skirmisher
@@ -247,6 +261,7 @@
   - Targeting Computer
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296/griffin-grf-1e2-sparky-20)
 - **Battle Value:** 1862
+- [*More Info*](griffin/griffin_grf-1e2_'sparky_2.0'.md)
 
 ## Griffin GRF-4R
 - **Role:** Striker
@@ -262,6 +277,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1302/griffin-grf-4r)
 - **Battle Value:** 1412
+- [*More Info*](griffin/griffin_grf-4r.md)
 
 ## Griffin GRF-4N
 - **Role:** Striker
@@ -277,6 +293,7 @@
   - ER Medium Laser × 3
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n)
 - **Battle Value:** 1591
+- [*More Info*](griffin/griffin_grf-4n.md)
 
 ## Griffin GRF-3N
 - **Role:** Sniper
@@ -293,6 +310,7 @@
   - CASE II
 - **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n)
 - **Battle Value:** 1560
+- [*More Info*](griffin/griffin_grf-3n.md)
 
 ## Griffin GRF-6S2
 - **Role:** Sniper
@@ -312,6 +330,7 @@
   - CASE II
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2)
 - **Battle Value:** 1870
+- [*More Info*](griffin/griffin_grf-6s2.md)
 
 ## Griffin C
 - **Role:** Sniper
@@ -328,4 +347,5 @@
   - CASE
 - **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c)
 - **Battle Value:** 2131
+- [*More Info*](griffin/griffin_c.md)
 

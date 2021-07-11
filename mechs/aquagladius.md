@@ -14,6 +14,7 @@
   - HarJel × 3
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/58/aquagladius-aqs-3)
 - **Battle Value:** 834
+- [*More Info*](aquagladius/aquagladius_aqs-3.md)
 
 ## Aquagladius AQS-4
 - **Role:** Juggernaut
@@ -30,6 +31,7 @@
   - HarJel × 3
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/59/aquagladius-aqs-4)
 - **Battle Value:** 1486
+- [*More Info*](aquagladius/aquagladius_aqs-4.md)
 
 ## Aquagladius AQS-5 MAM
 - **Role:** Undefined
@@ -49,4 +51,5 @@
   - MASS
 - **Sources:** XTRO Ray, [Master Unit List](http://masterunitlist.info/Unit/Details/8108/aquagladius-aqs-5-mam)
 - **Battle Value:** 1946
+- [*More Info*](aquagladius/aquagladius_aqs-5_mam.md)
 

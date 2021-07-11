@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2573/preta-c-prt-o-invictus)
 - **Battle Value:** 1064
+- [*More Info*](preta/preta_c-prt-o_invictus.md)
 
 ## Preta C-PRT-OA Dominus
 - **Role:** Striker
@@ -34,6 +35,7 @@
   - Targeting Computer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2574/preta-c-prt-oa-dominus)
 - **Battle Value:** 1302
+- [*More Info*](preta/preta_c-prt-oa_dominus.md)
 
 ## Preta C-PRT-OB Infernus
 - **Role:** Sniper
@@ -51,6 +53,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2575/preta-c-prt-ob-infernus)
 - **Battle Value:** 1338
+- [*More Info*](preta/preta_c-prt-ob_infernus.md)
 
 ## Preta C-PRT-OC Comminus
 - **Role:** Skirmisher
@@ -70,6 +73,7 @@
   - TAG
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2576/preta-c-prt-oc-comminus)
 - **Battle Value:** 1187
+- [*More Info*](preta/preta_c-prt-oc_comminus.md)
 
 ## Preta C-PRT-OD Luminos
 - **Role:** Striker
@@ -88,6 +92,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2577/preta-c-prt-od-luminos)
 - **Battle Value:** 1158
+- [*More Info*](preta/preta_c-prt-od_luminos.md)
 
 ## Preta C-PRT-O (Kendali)
 - **Role:** Scout
@@ -106,6 +111,7 @@
   - TAG
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2572/preta-c-prt-o-kendali)
 - **Battle Value:** 999
+- [*More Info*](preta/preta_c-prt-o_kendali.md)
 
 ## Preta C-PRT-OE Eminus
 - **Role:** Missile Boat
@@ -124,6 +130,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2578/preta-c-prt-oe-eminus)
 - **Battle Value:** 1211
+- [*More Info*](preta/preta_c-prt-oe_eminus.md)
 
 ## Preta C-PRT-OS Caelestis
 - **Role:** Striker
@@ -141,6 +148,7 @@
   - C3i
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2579/preta-c-prt-os-caelestis)
 - **Battle Value:** 1566
+- [*More Info*](preta/preta_c-prt-os_caelestis.md)
 
 ## Preta C-PRT-OU Exanimus
 - **Role:** Scout
@@ -160,4 +168,5 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2580/preta-c-prt-ou-exanimus)
 - **Battle Value:** 1052
+- [*More Info*](preta/preta_c-prt-ou_exanimus.md)
 

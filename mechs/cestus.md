@@ -12,6 +12,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/532/cestus-cts-6x)
 - **Battle Value:** 1424
+- [*More Info*](cestus/cestus_cts-6x.md)
 
 ## Cestus CTS-6Y
 - **Role:** Brawler
@@ -26,6 +27,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/533/cestus-cts-6y)
 - **Battle Value:** 1701
+- [*More Info*](cestus/cestus_cts-6y.md)
 
 ## Cestus CTS-6Y-EC
 - **Role:** Brawler
@@ -42,6 +44,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7681/cestus-cts-6y-ec)
 - **Battle Value:** 1783
+- [*More Info*](cestus/cestus_cts-6y-ec.md)
 
 ## Cestus CTS-6Z
 - **Role:** Brawler
@@ -56,6 +59,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/534/cestus-cts-6z)
 - **Battle Value:** 1560
+- [*More Info*](cestus/cestus_cts-6z.md)
 
 ## Cestus CTS-7A
 - **Role:** Brawler
@@ -71,4 +75,5 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/535/cestus-cts-7a)
 - **Battle Value:** 1519
+- [*More Info*](cestus/cestus_cts-7a.md)
 

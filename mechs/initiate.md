@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1620/initiate-ini-02)
 - **Battle Value:** 1036
+- [*More Info*](initiate/initiate_ini-02.md)
 
 ## Initiate INI-04
 - **Role:** Sniper
@@ -34,4 +35,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1621/initiate-ini-04)
 - **Battle Value:** 901
+- [*More Info*](initiate/initiate_ini-04.md)
 

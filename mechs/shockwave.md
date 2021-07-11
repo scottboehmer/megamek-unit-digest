@@ -12,6 +12,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2929/shockwave-skw-2f)
 - **Battle Value:** 1453
+- [*More Info*](shockwave/shockwave_skw-2f.md)
 
 ## Shockwave SKW-4G
 - **Role:** Skirmisher
@@ -26,6 +27,7 @@
   - LRM 10 (ammo: 12)
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2930/shockwave-skw-4g)
 - **Battle Value:** 1449
+- [*More Info*](shockwave/shockwave_skw-4g.md)
 
 ## Shockwave SKW-6H
 - **Role:** Sniper
@@ -43,6 +45,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6903/shockwave-skw-6h)
 - **Battle Value:** 1364
+- [*More Info*](shockwave/shockwave_skw-6h.md)
 
 ## Shockwave SKW-8X
 - **Role:** Brawler
@@ -59,4 +62,5 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6902/shockwave-skw-8x)
 - **Battle Value:** 1059
+- [*More Info*](shockwave/shockwave_skw-8x.md)
 

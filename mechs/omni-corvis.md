@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7610/omni-corvis-prime)
 - **Battle Value:** 1678
+- [*More Info*](omni-corvis/omni-corvis_prime.md)
 
 ## Omni-Corvis A
 - **Role:** Brawler
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7611/omni-corvis-a)
 - **Battle Value:** 1977
+- [*More Info*](omni-corvis/omni-corvis_a.md)
 
 ## Omni-Corvis B
 - **Role:** Missile Boat
@@ -46,4 +48,5 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7612/omni-corvis-b)
 - **Battle Value:** 1640
+- [*More Info*](omni-corvis/omni-corvis_b.md)
 

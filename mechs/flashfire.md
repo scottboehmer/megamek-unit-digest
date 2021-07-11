@@ -12,6 +12,7 @@
   - Flamer × 4
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1120/flashfire-fls-p2)
 - **Battle Value:** 718
+- [*More Info*](flashfire/flashfire_fls-p2.md)
 
 ## Flashfire FLS-P4
 - **Role:** Striker
@@ -27,6 +28,7 @@
   - Flamer × 4
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1121/flashfire-fls-p4)
 - **Battle Value:** 712
+- [*More Info*](flashfire/flashfire_fls-p4.md)
 
 ## Flashfire FLS-P5
 - **Role:** Striker
@@ -44,4 +46,5 @@
   - Spikes
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1122/flashfire-fls-p5)
 - **Battle Value:** 654
+- [*More Info*](flashfire/flashfire_fls-p5.md)
 

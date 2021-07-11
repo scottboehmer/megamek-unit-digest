@@ -15,4 +15,5 @@
   - CASE II
 - **Sources:** TRO 3145 Free Worlds League - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6516/juliano-jln-5a)
 - **Battle Value:** 2105
+- [*More Info*](juliano/juliano_jln-5a.md)
 

@@ -14,6 +14,7 @@
   - Guardian ECM Suite
 - **Sources:** Hist LOT II, [Master Unit List](http://masterunitlist.info/Unit/Details/6780/dragoon-aem-01)
 - **Battle Value:** 1669
+- [*More Info*](dragoon/dragoon_aem-01.md)
 
 ## Dragoon AEM-02
 - **Role:** Undefined
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** Hist LOT II, [Master Unit List](http://masterunitlist.info/Unit/Details/6781/dragoon-aem-02)
 - **Battle Value:** 1691
+- [*More Info*](dragoon/dragoon_aem-02.md)
 
 ## Dragoon AEM-03
 - **Role:** Undefined
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** Hist LOT II, [Master Unit List](http://masterunitlist.info/Unit/Details/6782/dragoon-aem-03)
 - **Battle Value:** 1562
+- [*More Info*](dragoon/dragoon_aem-03.md)
 
 ## Dragoon AEM-04
 - **Role:** Undefined
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** Hist LOT II, [Master Unit List](http://masterunitlist.info/Unit/Details/6783/dragoon-aem-04)
 - **Battle Value:** 1710
+- [*More Info*](dragoon/dragoon_aem-04.md)
 
 ## Dragoon AEM-05C
 - **Role:** Brawler
@@ -84,4 +88,5 @@
   - CASE II
 - **Sources:** TP Epsilon Eridani - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7399/dragoon-aem-05c)
 - **Battle Value:** 1893
+- [*More Info*](dragoon/dragoon_aem-05c.md)
 

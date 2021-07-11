@@ -14,6 +14,7 @@
   - Flamer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1173/gallant-glt-7-0)
 - **Battle Value:** 1436
+- [*More Info*](gallant/gallant_glt-7-0.md)
 
 ## Gallant GLT-8-0
 - **Role:** Missile Boat
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1174/gallant-glt-8-0)
 - **Battle Value:** 1666
+- [*More Info*](gallant/gallant_glt-8-0.md)
 
 ## Gallant GLT-10-0
 - **Role:** Skirmisher
@@ -48,4 +50,5 @@
   - CASE II
 - **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6872/gallant-glt-10-0)
 - **Battle Value:** 1537
+- [*More Info*](gallant/gallant_glt-10-0.md)
 

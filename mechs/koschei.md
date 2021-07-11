@@ -11,6 +11,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1820/koschei-ksc-3i)
 - **Battle Value:** 1255
+- [*More Info*](koschei/koschei_ksc-3i.md)
 
 ## Koschei KSC-3L
 - **Role:** Missile Boat
@@ -25,6 +26,7 @@
   - Medium Laser
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1821/koschei-ksc-3l)
 - **Battle Value:** 1384
+- [*More Info*](koschei/koschei_ksc-3l.md)
 
 ## Koschei KSC-4I
 - **Role:** Skirmisher
@@ -41,6 +43,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1822/koschei-ksc-4i)
 - **Battle Value:** 1516
+- [*More Info*](koschei/koschei_ksc-4i.md)
 
 ## Koschei KSC-4L
 - **Role:** Missile Boat
@@ -57,6 +60,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1823/koschei-ksc-4l)
 - **Battle Value:** 1503
+- [*More Info*](koschei/koschei_ksc-4l.md)
 
 ## Koschei KSC-5MC
 - **Role:** Skirmisher
@@ -75,6 +79,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc)
 - **Battle Value:** 1764
+- [*More Info*](koschei/koschei_ksc-5mc.md)
 
 ## Koschei KSC-5I
 - **Role:** Skirmisher
@@ -93,6 +98,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1824/koschei-ksc-5i)
 - **Battle Value:** 1961
+- [*More Info*](koschei/koschei_ksc-5i.md)
 
 ## Koschei KSC-5X
 - **Role:** Skirmisher
@@ -112,6 +118,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1826/koschei-ksc-5x)
 - **Battle Value:** 1554
+- [*More Info*](koschei/koschei_ksc-5x.md)
 
 ## Koschei KSC-6L
 - **Role:** Skirmisher
@@ -129,4 +136,5 @@
   - Targeting Computer
 - **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6881/koschei-ksc-6l)
 - **Battle Value:** 1465
+- [*More Info*](koschei/koschei_ksc-6l.md)
 

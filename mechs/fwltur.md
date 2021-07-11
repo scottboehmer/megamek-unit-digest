@@ -15,6 +15,7 @@
   - Searchlight
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1162/fwltur-fwl-3r-salvagemech)
 - **Battle Value:** 255
+- [*More Info*](fwltur/fwltur_fwl-3r_salvagemech.md)
 
 ## Fwltur FWL-3V SalvageMech
 - **Role:** Undefined
@@ -30,4 +31,5 @@
   - Lift Hoist × 2
 - **Sources:** TRO3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1163/fwltur-fwl-3v-salvagemech)
 - **Battle Value:** 252
+- [*More Info*](fwltur/fwltur_fwl-3v_salvagemech.md)
 

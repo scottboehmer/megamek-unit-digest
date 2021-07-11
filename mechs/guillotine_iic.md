@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1345/guillotine-iic-standard)
 - **Battle Value:** 2377
+- [*More Info*](guillotine_iic/guillotine_iic_standard.md)
 
 ## Guillotine IIC 2
 - **Role:** Skirmisher
@@ -34,4 +35,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1346/guillotine-iic-2)
 - **Battle Value:** 2721
+- [*More Info*](guillotine_iic/guillotine_iic_2.md)
 

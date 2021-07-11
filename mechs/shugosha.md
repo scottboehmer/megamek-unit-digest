@@ -13,6 +13,7 @@
   - Searchlight
 - **Sources:** RS:VA IM Exo - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7157/shugosha-ptn-law-loadermech)
 - **Battle Value:** 100
+- [*More Info*](shugosha/shugosha_ptn-law_loadermech.md)
 
 ## Shugosha LAW-QM1 Q-Mech
 - **Role:** Ambusher
@@ -29,6 +30,7 @@
   - Drone Operating System
 - **Sources:** RS:VA IM Exo - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7154/shugosha-law-qm1-q-mech)
 - **Battle Value:** 168
+- [*More Info*](shugosha/shugosha_law-qm1_q-mech.md)
 
 ## Shugosha LAW-QM2 Q-Mech
 - **Role:** Ambusher
@@ -46,6 +48,7 @@
   - Drone Operating System
 - **Sources:** RS:VA IM Exo - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7155/shugosha-law-qm2-q-mech)
 - **Battle Value:** 164
+- [*More Info*](shugosha/shugosha_law-qm2_q-mech.md)
 
 ## Shugosha LAW-QM3 Q-Mech
 - **Role:** Sniper
@@ -61,4 +64,5 @@
   - Drone Operating System
 - **Sources:** RS:VA IM Exo - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7156/shugosha-law-qm3-q-mech)
 - **Battle Value:** 198
+- [*More Info*](shugosha/shugosha_law-qm3_q-mech.md)
 

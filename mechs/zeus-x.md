@@ -14,6 +14,7 @@
   - CASE II
 - **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/6631/zeus-x-zeu-x)
 - **Battle Value:** 2119
+- [*More Info*](zeus-x/zeus-x_zeu-x.md)
 
 ## Zeus-X ZEU-9WD
 - **Role:** Brawler
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3050U - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3646/zeus-x-zeu-9wd)
 - **Battle Value:** 1716
+- [*More Info*](zeus-x/zeus-x_zeu-9wd.md)
 
 ## Zeus-X ZEU-X2
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - CASE II
 - **Sources:** TRO 3145 Lyran Commonwealth - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6632/zeus-x-zeu-x2)
 - **Battle Value:** 1915
+- [*More Info*](zeus-x/zeus-x_zeu-x2.md)
 
 ## Zeus-X ZEU-9WD (Stacy)
 - **Role:** Sniper
@@ -64,6 +67,7 @@
   - CASE
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3647/zeus-x-zeu-9wd-stacy)
 - **Battle Value:** 1921
+- [*More Info*](zeus-x/zeus-x_zeu-9wd_stacy.md)
 
 ## Zeus-X ZEU-X3
 - **Role:** Skirmisher
@@ -80,6 +84,7 @@
   - Targeting Computer
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6633/zeus-x-zeu-x3)
 - **Battle Value:** 2178
+- [*More Info*](zeus-x/zeus-x_zeu-x3.md)
 
 ## Zeus-X ZEU-X4
 - **Role:** Sniper
@@ -98,4 +103,5 @@
   - CASE II
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6630/zeus-x-zeu-x4)
 - **Battle Value:** 2193
+- [*More Info*](zeus-x/zeus-x_zeu-x4.md)
 

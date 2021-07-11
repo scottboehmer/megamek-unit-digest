@@ -12,6 +12,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/478/catapult-cplt-c1)
 - **Battle Value:** 1399
+- [*More Info*](catapult/catapult_cplt-c1.md)
 
 ## Catapult CPLT-A1
 - **Role:** Missile Boat
@@ -25,6 +26,7 @@
   - LRM 15 × 2 (ammo: 32)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/477/catapult-cplt-a1)
 - **Battle Value:** 1285
+- [*More Info*](catapult/catapult_cplt-a1.md)
 
 ## Catapult CPLT-C4
 - **Role:** Missile Boat
@@ -39,6 +41,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/482/catapult-cplt-c4)
 - **Battle Value:** 1358
+- [*More Info*](catapult/catapult_cplt-c4.md)
 
 ## Catapult CPLT-K2
 - **Role:** Sniper
@@ -53,6 +56,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/487/catapult-cplt-k2)
 - **Battle Value:** 1319
+- [*More Info*](catapult/catapult_cplt-k2.md)
 
 ## Catapult CPLT-C1b
 - **Role:** Missile Boat
@@ -69,6 +73,7 @@
   - CASE
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/480/catapult-cplt-c1b)
 - **Battle Value:** 1570
+- [*More Info*](catapult/catapult_cplt-c1b.md)
 
 ## Catapult CPLT-C1 (Jenny) 'Butterbee'
 - **Role:** Skirmisher
@@ -83,6 +88,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/479/catapult-cplt-c1-jenny-butterbee)
 - **Battle Value:** 1242
+- [*More Info*](catapult/catapult_cplt-c1_jenny_'butterbee'.md)
 
 ## Catapult CPLT-K3
 - **Role:** Sniper
@@ -97,6 +103,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3903/catapult-cplt-k3)
 - **Battle Value:** 1437
+- [*More Info*](catapult/catapult_cplt-k3.md)
 
 ## Catapult CPLT-C3
 - **Role:** Missile Boat
@@ -111,6 +118,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/481/catapult-cplt-c3)
 - **Battle Value:** 1368
+- [*More Info*](catapult/catapult_cplt-c3.md)
 
 ## Catapult CPLT-C4C
 - **Role:** Missile Boat
@@ -128,6 +136,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5453/catapult-cplt-c4c)
 - **Battle Value:** 1449
+- [*More Info*](catapult/catapult_cplt-c4c.md)
 
 ## Catapult CPLT-K2K
 - **Role:** Sniper
@@ -141,6 +150,7 @@
   - ER Medium Laser × 2
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5454/catapult-cplt-k2k)
 - **Battle Value:** 1716
+- [*More Info*](catapult/catapult_cplt-k2k.md)
 
 ## Catapult CPLT-K5
 - **Role:** Skirmisher
@@ -158,6 +168,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/489/catapult-cplt-k5)
 - **Battle Value:** 1457
+- [*More Info*](catapult/catapult_cplt-k5.md)
 
 ## Catapult CPLT-C5
 - **Role:** Missile Boat
@@ -174,6 +185,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/483/catapult-cplt-c5)
 - **Battle Value:** 1748
+- [*More Info*](catapult/catapult_cplt-c5.md)
 
 ## Catapult CPLT-C2
 - **Role:** Missile Boat
@@ -188,6 +200,7 @@
   - LB 2-X AC × 2 (ammo: 45 Cluster)
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5452/catapult-cplt-c2)
 - **Battle Value:** 1346
+- [*More Info*](catapult/catapult_cplt-c2.md)
 
 ## Catapult CPLT-H2
 - **Role:** Skirmisher
@@ -203,6 +216,7 @@
   - Rocket 20 × 8
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/486/catapult-cplt-h2)
 - **Battle Value:** 1473
+- [*More Info*](catapult/catapult_cplt-h2.md)
 
 ## Catapult CPLT-C5A
 - **Role:** Missile Boat
@@ -219,6 +233,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/484/catapult-cplt-c5a)
 - **Battle Value:** 1772
+- [*More Info*](catapult/catapult_cplt-c5a.md)
 
 ## Catapult CPLT-K4
 - **Role:** Sniper
@@ -235,6 +250,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/488/catapult-cplt-k4)
 - **Battle Value:** 1880
+- [*More Info*](catapult/catapult_cplt-k4.md)
 
 ## Catapult CPLT-C6
 - **Role:** Skirmisher
@@ -251,6 +267,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/485/catapult-cplt-c6)
 - **Battle Value:** 1874
+- [*More Info*](catapult/catapult_cplt-c6.md)
 
 ## Catapult CPLT-K6
 - **Role:** Missile Boat
@@ -267,4 +284,5 @@
   - AES × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7509/catapult-cplt-k6)
 - **Battle Value:** 1619
+- [*More Info*](catapult/catapult_cplt-k6.md)
 

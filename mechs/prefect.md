@@ -13,6 +13,7 @@
   - ER Medium Laser × 2
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2569/prefect-prf-1r)
 - **Battle Value:** 1847
+- [*More Info*](prefect/prefect_prf-1r.md)
 
 ## Prefect PRF-1R (Veronica)
 - **Role:** Skirmisher
@@ -31,6 +32,7 @@
   - C3 Slave
 - **Sources:** TRO 3085/Lamenkov's Liability - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2570/prefect-prf-1r-veronica)
 - **Battle Value:** 1835
+- [*More Info*](prefect/prefect_prf-1r_veronica.md)
 
 ## Prefect PRF-2R
 - **Role:** Skirmisher
@@ -45,6 +47,7 @@
   - Light PPC × 2
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2571/prefect-prf-2r)
 - **Battle Value:** 1710
+- [*More Info*](prefect/prefect_prf-2r.md)
 
 ## Prefect PRF-3R
 - **Role:** Skirmisher
@@ -63,6 +66,7 @@
   - Radical Heat Sink System
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6865/prefect-prf-3r)
 - **Battle Value:** 2412
+- [*More Info*](prefect/prefect_prf-3r.md)
 
 ## Prefect PRF-1C
 - **Role:** Skirmisher
@@ -81,4 +85,5 @@
   - C3 Emergency Master
 - **Sources:** XTRO Republic II - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/7348/prefect-prf-1c)
 - **Battle Value:** 1857
+- [*More Info*](prefect/prefect_prf-1c.md)
 

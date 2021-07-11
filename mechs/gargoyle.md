@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2010/man-o-war-gargoyle-prime)
 - **Battle Value:** 1537
+- [*More Info*](gargoyle/gargoyle_prime.md)
 
 ## Gargoyle "Man O' War" A
 - **Role:** Skirmisher
@@ -30,6 +31,7 @@
   - ER Small Laser
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2002/man-o-war-gargoyle-a)
 - **Battle Value:** 2689
+- [*More Info*](gargoyle/gargoyle_a.md)
 
 ## Gargoyle "Man O' War" B
 - **Role:** Sniper
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2003/man-o-war-gargoyle-b)
 - **Battle Value:** 1843
+- [*More Info*](gargoyle/gargoyle_b.md)
 
 ## Gargoyle "Man O' War" C
 - **Role:** Skirmisher
@@ -63,6 +66,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2004/man-o-war-gargoyle-c)
 - **Battle Value:** 2437
+- [*More Info*](gargoyle/gargoyle_c.md)
 
 ## Gargoyle "Man O' War" D
 - **Role:** Skirmisher
@@ -79,6 +83,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2005/man-o-war-gargoyle-d)
 - **Battle Value:** 2499
+- [*More Info*](gargoyle/gargoyle_d.md)
 
 ## Gargoyle "Man O' War" (Conal)
 - **Role:** Skirmisher
@@ -97,6 +102,7 @@
   - Light TAG
 - **Sources:** OTP: Red Corsair - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2001/man-o-war-gargoyle-conal)
 - **Battle Value:** 2580
+- [*More Info*](gargoyle/gargoyle_conal.md)
 
 ## Gargoyle "Man O' War" H
 - **Role:** Skirmisher
@@ -114,6 +120,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2008/man-o-war-gargoyle-h)
 - **Battle Value:** 2183
+- [*More Info*](gargoyle/gargoyle_h.md)
 
 ## Gargoyle "Man O' War" E
 - **Role:** Skirmisher
@@ -132,6 +139,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2006/man-o-war-gargoyle-e)
 - **Battle Value:** 2257
+- [*More Info*](gargoyle/gargoyle_e.md)
 
 ## Gargoyle "Man O' War" M
 - **Role:** Sniper
@@ -148,6 +156,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2009/man-o-war-gargoyle-m)
 - **Battle Value:** 2182
+- [*More Info*](gargoyle/gargoyle_m.md)
 
 ## Gargoyle "Man O' War" G
 - **Role:** Skirmisher
@@ -164,6 +173,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2007/man-o-war-gargoyle-g)
 - **Battle Value:** 2156
+- [*More Info*](gargoyle/gargoyle_g.md)
 
 ## Gargoyle "Man O' War" P
 - **Role:** Skirmisher
@@ -178,6 +188,7 @@
   - Micro Pulse Laser
 - **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7758/man-o-war-gargoyle-p)
 - **Battle Value:** 2320
+- [*More Info*](gargoyle/gargoyle_p.md)
 
 ## Gargoyle "Man O' War" I
 - **Role:** Sniper
@@ -193,6 +204,7 @@
   - CASE II
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7756/man-o-war-gargoyle-i)
 - **Battle Value:** 2516
+- [*More Info*](gargoyle/gargoyle_i.md)
 
 ## Gargoyle "Man O' War" F
 - **Role:** Brawler
@@ -210,6 +222,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7755/man-o-war-gargoyle-f)
 - **Battle Value:** 1894
+- [*More Info*](gargoyle/gargoyle_f.md)
 
 ## Gargoyle "Man O' War" X
 - **Role:** Undefined
@@ -228,6 +241,7 @@
   - CASE II
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6861/man-o-war-gargoyle-x)
 - **Battle Value:** 2800
+- [*More Info*](gargoyle/gargoyle_x.md)
 
 ## Gargoyle "Man O' War" J
 - **Role:** Skirmisher
@@ -242,6 +256,7 @@
   - ER Small Laser × 7
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7757/man-o-war-gargoyle-j)
 - **Battle Value:** 2134
+- [*More Info*](gargoyle/gargoyle_j.md)
 
 ## Gargoyle "Man O' War" K
 - **Role:** Skirmisher
@@ -260,6 +275,7 @@
   - Inner Sphere Supercharger
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7759/man-o-war-gargoyle-k)
 - **Battle Value:** 2182
+- [*More Info*](gargoyle/gargoyle_k.md)
 
 ## Gargoyle "Man O' War" T
 - **Role:** Skirmisher
@@ -276,4 +292,5 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7754/man-o-war-gargoyle-t)
 - **Battle Value:** 1635
+- [*More Info*](gargoyle/gargoyle_t.md)
 

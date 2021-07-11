@@ -15,6 +15,7 @@
   - Ejection Seat
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4926/rock-hound-am-prm-rh7-prospectormech)
 - **Battle Value:** 523
+- [*More Info*](rock_hound/rock_hound_am-prm-rh7_prospectormech.md)
 
 ## Rock Hound AM-PRM-RH7A 'Rock Otter' ProspectorMech
 - **Role:** Undefined
@@ -32,6 +33,7 @@
   - Searchlight
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4927/rock-hound-am-prm-rh7a-rock-otter-prospectormech)
 - **Battle Value:** 455
+- [*More Info*](rock_hound/rock_hound_am-prm-rh7a_'rock_otter'_prospectormech.md)
 
 ## Rock Hound AM-PRM-RH7C 'Rock Possum' ProspectorMech
 - **Role:** Undefined
@@ -50,4 +52,5 @@
   - Ejection Seat
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4928/rock-hound-am-prm-rh7c-rock-possum-prospectormech)
 - **Battle Value:** 479
+- [*More Info*](rock_hound/rock_hound_am-prm-rh7c_'rock_possum'_prospectormech.md)
 

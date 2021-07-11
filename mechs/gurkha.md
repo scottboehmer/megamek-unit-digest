@@ -14,6 +14,7 @@
   - C3i
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/1351/gurkha-gur-2g)
 - **Battle Value:** 1101
+- [*More Info*](gurkha/gurkha_gur-2g.md)
 
 ## Gurkha GUR-4G
 - **Role:** Striker
@@ -30,6 +31,7 @@
   - C3i
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4254/gurkha-gur-4g)
 - **Battle Value:** 908
+- [*More Info*](gurkha/gurkha_gur-4g.md)
 
 ## Gurkha GUR-6G
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - C3i
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5663/gurkha-gur-6g)
 - **Battle Value:** 1134
+- [*More Info*](gurkha/gurkha_gur-6g.md)
 
 ## Gurkha GUR-8G
 - **Role:** Striker
@@ -66,4 +69,5 @@
   - C3i
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5664/gurkha-gur-8g)
 - **Battle Value:** 1235
+- [*More Info*](gurkha/gurkha_gur-8g.md)
 

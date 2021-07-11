@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1770/king-crab-kgc-000)
 - **Battle Value:** 1906
+- [*More Info*](king_crab/king_crab_kgc-000.md)
 
 ## King Crab KGC-000b
 - **Role:** Juggernaut
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1772/king-crab-kgc-000b)
 - **Battle Value:** 2039
+- [*More Info*](king_crab/king_crab_kgc-000b.md)
 
 ## King Crab KGC-010
 - **Role:** Sniper
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1778/king-crab-kgc-010)
 - **Battle Value:** 2181
+- [*More Info*](king_crab/king_crab_kgc-010.md)
 
 ## King Crab KGC-0000
 - **Role:** Juggernaut
@@ -60,6 +63,7 @@
   - Large Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1771/king-crab-kgc-0000)
 - **Battle Value:** 1810
+- [*More Info*](king_crab/king_crab_kgc-0000.md)
 
 ## King Crab KGC-001
 - **Role:** Juggernaut
@@ -77,6 +81,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1773/king-crab-kgc-001)
 - **Battle Value:** 2221
+- [*More Info*](king_crab/king_crab_kgc-001.md)
 
 ## King Crab KGC-005
 - **Role:** Juggernaut
@@ -94,6 +99,7 @@
   - C3i
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1774/king-crab-kgc-005)
 - **Battle Value:** 2264
+- [*More Info*](king_crab/king_crab_kgc-005.md)
 
 ## King Crab KGC-008
 - **Role:** Sniper
@@ -115,6 +121,7 @@
   - C3i
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1777/king-crab-kgc-008)
 - **Battle Value:** 2369
+- [*More Info*](king_crab/king_crab_kgc-008.md)
 
 ## King Crab KGC-005r
 - **Role:** Juggernaut
@@ -132,6 +139,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1775/king-crab-kgc-005r)
 - **Battle Value:** 2335
+- [*More Info*](king_crab/king_crab_kgc-005r.md)
 
 ## King Crab KGC-007
 - **Role:** Juggernaut
@@ -149,6 +157,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1776/king-crab-kgc-007)
 - **Battle Value:** 2523
+- [*More Info*](king_crab/king_crab_kgc-007.md)
 
 ## King Crab KGC-008B
 - **Role:** Sniper
@@ -170,6 +179,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5494/king-crab-kgc-008b)
 - **Battle Value:** 2374
+- [*More Info*](king_crab/king_crab_kgc-008b.md)
 
 ## King Crab KGC-009
 - **Role:** Juggernaut
@@ -190,6 +200,7 @@
   - CASE
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6635/king-crab-kgc-009)
 - **Battle Value:** 2260
+- [*More Info*](king_crab/king_crab_kgc-009.md)
 
 ## King Crab KGC-011
 - **Role:** Juggernaut
@@ -206,4 +217,5 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7514/king-crab-kgc-011)
 - **Battle Value:** 2406
+- [*More Info*](king_crab/king_crab_kgc-011.md)
 

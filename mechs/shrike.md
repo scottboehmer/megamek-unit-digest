@@ -17,6 +17,7 @@
   - Partial Wing
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6292/shrike-standard)
 - **Battle Value:** 2969
+- [*More Info*](shrike/shrike_standard.md)
 
 ## Shrike 2
 - **Role:** Skirmisher
@@ -36,6 +37,7 @@
   - Partial Wing
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6293/shrike-2)
 - **Battle Value:** 2846
+- [*More Info*](shrike/shrike_2.md)
 
 ## Shrike 3
 - **Role:** Sniper
@@ -55,4 +57,5 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6294/shrike-3)
 - **Battle Value:** 3698
+- [*More Info*](shrike/shrike_3.md)
 

@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard)
 - **Battle Value:** 1813
+- [*More Info*](conjurer/conjurer_standard.md)
 
 ## Conjurer 7 "Hellhound"
 - **Role:** Skirmisher
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7)
 - **Battle Value:** 1845
+- [*More Info*](conjurer/conjurer_7.md)
 
 ## Conjurer 2 "Hellhound"
 - **Role:** Skirmisher
@@ -49,6 +51,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1474/hellhound-conjurer-2)
 - **Battle Value:** 2097
+- [*More Info*](conjurer/conjurer_2.md)
 
 ## Conjurer 3 "Hellhound"
 - **Role:** Skirmisher
@@ -65,6 +68,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1475/hellhound-conjurer-3)
 - **Battle Value:** 1764
+- [*More Info*](conjurer/conjurer_3.md)
 
 ## Conjurer 4 "Hellhound"
 - **Role:** Skirmisher
@@ -84,6 +88,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1476/hellhound-conjurer-4)
 - **Battle Value:** 2164
+- [*More Info*](conjurer/conjurer_4.md)
 
 ## Conjurer 5 "Hellhound"
 - **Role:** Skirmisher
@@ -100,6 +105,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1477/hellhound-conjurer-5)
 - **Battle Value:** 1722
+- [*More Info*](conjurer/conjurer_5.md)
 
 ## Conjurer 8 "Hellhound"
 - **Role:** Skirmisher
@@ -118,4 +124,5 @@
   - MASC
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7513/hellhound-conjurer-8)
 - **Battle Value:** 2155
+- [*More Info*](conjurer/conjurer_8.md)
 

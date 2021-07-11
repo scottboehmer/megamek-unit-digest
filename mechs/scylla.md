@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5000/scylla-standard)
 - **Battle Value:** 2897
+- [*More Info*](scylla/scylla_standard.md)
 
 ## Scylla 2
 - **Role:** Brawler
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5723/scylla-2)
 - **Battle Value:** 2839
+- [*More Info*](scylla/scylla_2.md)
 
 ## Scylla 3
 - **Role:** Brawler
@@ -51,4 +53,5 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5724/scylla-3)
 - **Battle Value:** 2820
+- [*More Info*](scylla/scylla_3.md)
 

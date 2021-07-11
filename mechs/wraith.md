@@ -12,6 +12,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3588/wraith-tr1)
 - **Battle Value:** 1287
+- [*More Info*](wraith/wraith_tr1.md)
 
 ## Wraith TR2
 - **Role:** Skirmisher
@@ -26,6 +27,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3589/wraith-tr2)
 - **Battle Value:** 1485
+- [*More Info*](wraith/wraith_tr2.md)
 
 ## Wraith TR3
 - **Role:** Skirmisher
@@ -42,6 +44,7 @@
   - C3i
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3591/wraith-tr3)
 - **Battle Value:** 1310
+- [*More Info*](wraith/wraith_tr3.md)
 
 ## Wraith TR2-X 'Alexander'
 - **Role:** Striker
@@ -57,6 +60,7 @@
 - **Equipment:**
   - Clan Partial Wing
 - **Battle Value:** 1816
+- [*More Info*](wraith/wraith_tr2-x_'alexander'.md)
 
 ## Wraith TR2-P 'Pocahontas'
 - **Role:** Undefined
@@ -73,4 +77,5 @@
   - MASC
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 2051
+- [*More Info*](wraith/wraith_tr2-p_'pocahontas'.md)
 

@@ -14,4 +14,5 @@
   - CASE II
 - **Sources:** XTRO Clans - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr)
 - **Battle Value:** 3055
+- [*More Info*](kraken-xr/kraken-xr_standard.md)
 

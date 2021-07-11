@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1119/flamberge-prime)
 - **Battle Value:** 2266
+- [*More Info*](flamberge/flamberge_prime.md)
 
 ## Flamberge A
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1116/flamberge-a)
 - **Battle Value:** 2575
+- [*More Info*](flamberge/flamberge_a.md)
 
 ## Flamberge B
 - **Role:** Skirmisher
@@ -52,6 +54,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1117/flamberge-b)
 - **Battle Value:** 2750
+- [*More Info*](flamberge/flamberge_b.md)
 
 ## Flamberge C
 - **Role:** Missile Boat
@@ -72,6 +75,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1118/flamberge-c)
 - **Battle Value:** 2126
+- [*More Info*](flamberge/flamberge_c.md)
 
 ## Flamberge 2
 - **Role:** Skirmisher
@@ -91,6 +95,7 @@
   - Partial Wing
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1114/flamberge-2)
 - **Battle Value:** 2468
+- [*More Info*](flamberge/flamberge_2.md)
 
 ## Flamberge 3
 - **Role:** Skirmisher
@@ -110,6 +115,7 @@
   - Partial Wing
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1115/flamberge-3)
 - **Battle Value:** 2209
+- [*More Info*](flamberge/flamberge_3.md)
 
 ## Flamberge D
 - **Role:** Juggernaut
@@ -127,4 +133,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6873/flamberge-d)
 - **Battle Value:** 2357
+- [*More Info*](flamberge/flamberge_d.md)
 

@@ -14,6 +14,7 @@
   - Small Laser
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1182/gallowglas-gal-1gls)
 - **Battle Value:** 1695
+- [*More Info*](gallowglas/gallowglas_gal-1gls.md)
 
 ## Gallowglas GAL-2GLS
 - **Role:** Brawler
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1183/gallowglas-gal-2gls)
 - **Battle Value:** 1857
+- [*More Info*](gallowglas/gallowglas_gal-2gls.md)
 
 ## Gallowglas WD
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1188/gallowglas-wd)
 - **Battle Value:** 2094
+- [*More Info*](gallowglas/gallowglas_wd.md)
 
 ## Gallowglas GAL-3GLS
 - **Role:** Brawler
@@ -64,6 +67,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1185/gallowglas-gal-3gls)
 - **Battle Value:** 2291
+- [*More Info*](gallowglas/gallowglas_gal-3gls.md)
 
 ## Gallowglas GAL-4GLS
 - **Role:** Brawler
@@ -81,6 +85,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1186/gallowglas-gal-4gls)
 - **Battle Value:** 1944
+- [*More Info*](gallowglas/gallowglas_gal-4gls.md)
 
 ## Gallowglas GAL-4GLSA
 - **Role:** Brawler
@@ -100,6 +105,7 @@
   - CASE
 - **Sources:** Starterbook: Wolf & Blake - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1187/gallowglas-gal-4glsa)
 - **Battle Value:** 2017
+- [*More Info*](gallowglas/gallowglas_gal-4glsa.md)
 
 ## Gallowglas GAL-2GLSA
 - **Role:** Brawler
@@ -118,4 +124,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1184/gallowglas-gal-2glsa)
 - **Battle Value:** 1771
+- [*More Info*](gallowglas/gallowglas_gal-2glsa.md)
 

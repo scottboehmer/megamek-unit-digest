@@ -11,6 +11,7 @@
   - Medium Pulse Laser × 4
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1403/hatamoto-hi-htm-27u)
 - **Battle Value:** 1627
+- [*More Info*](hatamoto-hi/hatamoto-hi_htm-27u.md)
 
 ## Hatamoto-Hi HTM-C
 - **Role:** Brawler
@@ -26,6 +27,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1404/hatamoto-hi-htm-c)
 - **Battle Value:** 1627
+- [*More Info*](hatamoto-hi/hatamoto-hi_htm-c.md)
 
 ## Hatamoto-Hi HTM-CM
 - **Role:** Brawler
@@ -41,4 +43,5 @@
   - C3 Master
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1405/hatamoto-hi-htm-cm)
 - **Battle Value:** 1573
+- [*More Info*](hatamoto-hi/hatamoto-hi_htm-cm.md)
 

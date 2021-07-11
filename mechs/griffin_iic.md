@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** ilClan Rec Guide 13 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard)
 - **Battle Value:** 1608
+- [*More Info*](griffin_iic/griffin_iic_standard.md)
 
 ## Griffin IIC 2
 - **Role:** Striker
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** ilClan Rec Guide 13 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2)
 - **Battle Value:** 1516
+- [*More Info*](griffin_iic/griffin_iic_2.md)
 
 ## Griffin IIC 3
 - **Role:** Striker
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1312/griffin-iic-3)
 - **Battle Value:** 1532
+- [*More Info*](griffin_iic/griffin_iic_3.md)
 
 ## Griffin IIC 4
 - **Role:** Striker
@@ -67,6 +70,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1313/griffin-iic-4)
 - **Battle Value:** 1475
+- [*More Info*](griffin_iic/griffin_iic_4.md)
 
 ## Griffin IIC 5
 - **Role:** Striker
@@ -84,6 +88,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1314/griffin-iic-5)
 - **Battle Value:** 1344
+- [*More Info*](griffin_iic/griffin_iic_5.md)
 
 ## Griffin IIC 6
 - **Role:** Striker
@@ -101,6 +106,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1315/griffin-iic-6)
 - **Battle Value:** 1468
+- [*More Info*](griffin_iic/griffin_iic_6.md)
 
 ## Griffin IIC 8
 - **Role:** Striker
@@ -119,6 +125,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1317/griffin-iic-8)
 - **Battle Value:** 1736
+- [*More Info*](griffin_iic/griffin_iic_8.md)
 
 ## Griffin IIC 7
 - **Role:** Striker
@@ -136,6 +143,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1316/griffin-iic-7)
 - **Battle Value:** 1952
+- [*More Info*](griffin_iic/griffin_iic_7.md)
 
 ## Griffin IIC 9
 - **Role:** Striker
@@ -153,4 +161,5 @@
   - CASE
 - **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9)
 - **Battle Value:** 1106
+- [*More Info*](griffin_iic/griffin_iic_9.md)
 

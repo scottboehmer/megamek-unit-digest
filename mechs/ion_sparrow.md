@@ -16,6 +16,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7738/butcherbird-ion-sparrow-prime)
 - **Battle Value:** 885
+- [*More Info*](ion_sparrow/ion_sparrow_prime.md)
 
 ## Ion Sparrow "Butcherbird" A
 - **Role:** Scout
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7739/butcherbird-ion-sparrow-a)
 - **Battle Value:** 501
+- [*More Info*](ion_sparrow/ion_sparrow_a.md)
 
 ## Ion Sparrow "Butcherbird" B
 - **Role:** Scout
@@ -52,6 +54,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7740/butcherbird-ion-sparrow-b)
 - **Battle Value:** 626
+- [*More Info*](ion_sparrow/ion_sparrow_b.md)
 
 ## Ion Sparrow "Butcherbird" C
 - **Role:** Scout
@@ -69,6 +72,7 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7741/butcherbird-ion-sparrow-c)
 - **Battle Value:** 889
+- [*More Info*](ion_sparrow/ion_sparrow_c.md)
 
 ## Ion Sparrow "Butcherbird" D
 - **Role:** Scout
@@ -86,4 +90,5 @@
   - Partial Wing
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7742/butcherbird-ion-sparrow-d)
 - **Battle Value:** 1121
+- [*More Info*](ion_sparrow/ion_sparrow_d.md)
 

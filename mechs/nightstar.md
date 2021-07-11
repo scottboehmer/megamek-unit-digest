@@ -13,6 +13,7 @@
   - Small Laser
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2286/nightstar-nsr-9j)
 - **Battle Value:** 2399
+- [*More Info*](nightstar/nightstar_nsr-9j.md)
 
 ## Nightstar NSR-9FC
 - **Role:** Juggernaut
@@ -29,6 +30,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2285/nightstar-nsr-9fc)
 - **Battle Value:** 1929
+- [*More Info*](nightstar/nightstar_nsr-9fc.md)
 
 ## Nightstar NSR-9J (Brubaker)
 - **Role:** Sniper
@@ -43,6 +45,7 @@
   - Clan ER Small Laser
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723/nightstar-nsr-9j-brubaker)
 - **Battle Value:** 2838
+- [*More Info*](nightstar/nightstar_nsr-9j_brubaker.md)
 
 ## Nightstar NSR-9J (Holt)
 - **Role:** Undefined
@@ -62,6 +65,7 @@
   - Angel ECM Suite
 - **Sources:** SO:Holt's Hilltoppers, [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt)
 - **Battle Value:** 3433
+- [*More Info*](nightstar/nightstar_nsr-9j_holt.md)
 
 ## Nightstar NSR-9SS
 - **Role:** Juggernaut
@@ -80,6 +84,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2287/nightstar-nsr-9ss)
 - **Battle Value:** 2145
+- [*More Info*](nightstar/nightstar_nsr-9ss.md)
 
 ## Nightstar NSR-10D
 - **Role:** Sniper
@@ -99,4 +104,5 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d)
 - **Battle Value:** 2539
+- [*More Info*](nightstar/nightstar_nsr-10d.md)
 

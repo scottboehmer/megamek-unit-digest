@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1786/kingfisher-prime)
 - **Battle Value:** 2401
+- [*More Info*](kingfisher/kingfisher_prime.md)
 
 ## Kingfisher A
 - **Role:** Brawler
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1779/kingfisher-a)
 - **Battle Value:** 2261
+- [*More Info*](kingfisher/kingfisher_a.md)
 
 ## Kingfisher B
 - **Role:** Brawler
@@ -53,6 +55,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1780/kingfisher-b)
 - **Battle Value:** 2472
+- [*More Info*](kingfisher/kingfisher_b.md)
 
 ## Kingfisher C
 - **Role:** Brawler
@@ -66,6 +69,7 @@
   - ER Medium Laser × 4
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1781/kingfisher-c)
 - **Battle Value:** 2644
+- [*More Info*](kingfisher/kingfisher_c.md)
 
 ## Kingfisher D
 - **Role:** Sniper
@@ -81,6 +85,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1782/kingfisher-d)
 - **Battle Value:** 2364
+- [*More Info*](kingfisher/kingfisher_d.md)
 
 ## Kingfisher H
 - **Role:** Brawler
@@ -96,6 +101,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1785/kingfisher-h)
 - **Battle Value:** 2525
+- [*More Info*](kingfisher/kingfisher_h.md)
 
 ## Kingfisher E
 - **Role:** Brawler
@@ -112,6 +118,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1783/kingfisher-e)
 - **Battle Value:** 2443
+- [*More Info*](kingfisher/kingfisher_e.md)
 
 ## Kingfisher F
 - **Role:** Brawler
@@ -129,6 +136,7 @@
   - CASE
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f)
 - **Battle Value:** 2568
+- [*More Info*](kingfisher/kingfisher_f.md)
 
 ## Kingfisher X
 - **Role:** Brawler
@@ -148,4 +156,5 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x)
 - **Battle Value:** 2761
+- [*More Info*](kingfisher/kingfisher_x.md)
 

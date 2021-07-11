@@ -16,6 +16,7 @@
   - MASC
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3052/stealth-sth-1d)
 - **Battle Value:** 1231
+- [*More Info*](stealth/stealth_sth-1d.md)
 
 ## Stealth STH-2D
 - **Role:** Striker
@@ -33,6 +34,7 @@
   - MASC
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3054/stealth-sth-2d)
 - **Battle Value:** 1508
+- [*More Info*](stealth/stealth_sth-2d.md)
 
 ## Stealth STH-2D1
 - **Role:** Striker
@@ -51,6 +53,7 @@
   - C3 Slave
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3055/stealth-sth-2d1)
 - **Battle Value:** 1339
+- [*More Info*](stealth/stealth_sth-2d1.md)
 
 ## Stealth STH-2D2
 - **Role:** Striker
@@ -69,6 +72,7 @@
   - TAG
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3056/stealth-sth-2d2)
 - **Battle Value:** 1339
+- [*More Info*](stealth/stealth_sth-2d2.md)
 
 ## Stealth STH-1D (Anna)
 - **Role:** Striker
@@ -86,6 +90,7 @@
   - MASC
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3053/stealth-sth-1d-anna)
 - **Battle Value:** 1540
+- [*More Info*](stealth/stealth_sth-1d_anna.md)
 
 ## Stealth STH-3S
 - **Role:** Scout
@@ -102,6 +107,7 @@
   - MASC
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3057/stealth-sth-3s)
 - **Battle Value:** 1577
+- [*More Info*](stealth/stealth_sth-3s.md)
 
 ## Stealth STH-5X
 - **Role:** Striker
@@ -122,4 +128,5 @@
   - MASC
 - **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5130/stealth-sth-5x)
 - **Battle Value:** 2155
+- [*More Info*](stealth/stealth_sth-5x.md)
 

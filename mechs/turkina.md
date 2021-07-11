@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3332/turkina-prime)
 - **Battle Value:** 2944
+- [*More Info*](turkina/turkina_prime.md)
 
 ## Turkina A
 - **Role:** Missile Boat
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3326/turkina-a)
 - **Battle Value:** 2906
+- [*More Info*](turkina/turkina_a.md)
 
 ## Turkina B
 - **Role:** Juggernaut
@@ -49,6 +51,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3327/turkina-b)
 - **Battle Value:** 3420
+- [*More Info*](turkina/turkina_b.md)
 
 ## Turkina C
 - **Role:** Juggernaut
@@ -71,6 +74,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3328/turkina-c)
 - **Battle Value:** 2798
+- [*More Info*](turkina/turkina_c.md)
 
 ## Turkina D
 - **Role:** Juggernaut
@@ -87,6 +91,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3329/turkina-d)
 - **Battle Value:** 3132
+- [*More Info*](turkina/turkina_d.md)
 
 ## Turkina H
 - **Role:** Juggernaut
@@ -105,6 +110,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3331/turkina-h)
 - **Battle Value:** 2712
+- [*More Info*](turkina/turkina_h.md)
 
 ## Turkina E
 - **Role:** Juggernaut
@@ -121,6 +127,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e)
 - **Battle Value:** 3147
+- [*More Info*](turkina/turkina_e.md)
 
 ## Turkina Z
 - **Role:** Juggernaut
@@ -138,6 +145,7 @@
   - Light TAG
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5832/turkina-z)
 - **Battle Value:** 3935
+- [*More Info*](turkina/turkina_z.md)
 
 ## Turkina U
 - **Role:** Juggernaut
@@ -161,6 +169,7 @@
   - Liquid Cargo × 2
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u)
 - **Battle Value:** 2472
+- [*More Info*](turkina/turkina_u.md)
 
 ## Turkina X
 - **Role:** Missile Boat
@@ -179,4 +188,5 @@
   - CASE II
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x)
 - **Battle Value:** 3056
+- [*More Info*](turkina/turkina_x.md)
 

@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2657/raptor-ii-rpt-2x)
 - **Battle Value:** 896
+- [*More Info*](raptor_ii/raptor_ii_rpt-2x.md)
 
 ## Raptor II RPT-2X1
 - **Role:** Striker
@@ -39,6 +40,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2658/raptor-ii-rpt-2x1)
 - **Battle Value:** 1274
+- [*More Info*](raptor_ii/raptor_ii_rpt-2x1.md)
 
 ## Raptor II RPT-3X
 - **Role:** Striker
@@ -57,6 +59,7 @@
   - MASC
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2659/raptor-ii-rpt-3x)
 - **Battle Value:** 1304
+- [*More Info*](raptor_ii/raptor_ii_rpt-3x.md)
 
 ## Raptor II RPT-5X
 - **Role:** Sniper
@@ -76,6 +79,7 @@
   - Void-Signature System
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2660/raptor-ii-rpt-5x)
 - **Battle Value:** 1124
+- [*More Info*](raptor_ii/raptor_ii_rpt-5x.md)
 
 ## Raptor II RPT-2X2
 - **Role:** Striker
@@ -94,4 +98,5 @@
   - MASC
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6918/raptor-ii-rpt-2x2)
 - **Battle Value:** 1868
+- [*More Info*](raptor_ii/raptor_ii_rpt-2x2.md)
 

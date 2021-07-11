@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6672/jackalope-jlp-bd)
 - **Battle Value:** 1395
+- [*More Info*](jackalope/jackalope_jlp-bd.md)
 
 ## Jackalope JLP-C
 - **Role:** Striker
@@ -35,6 +36,7 @@
   - Inner Sphere C3 Slave
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6711/jackalope-jlp-c)
 - **Battle Value:** 1253
+- [*More Info*](jackalope/jackalope_jlp-c.md)
 
 ## Jackalope JLP-KA
 - **Role:** Striker
@@ -53,6 +55,7 @@
   - CASE II
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6712/jackalope-jlp-ka)
 - **Battle Value:** 1488
+- [*More Info*](jackalope/jackalope_jlp-ka.md)
 
 ## Jackalope JLP-KW 'Wolpertinger'
 - **Role:** Striker
@@ -72,4 +75,5 @@
   - CASE II
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6713/jackalope-jlp-kw-wolpertinger)
 - **Battle Value:** 1334
+- [*More Info*](jackalope/jackalope_jlp-kw_'wolpertinger'.md)
 

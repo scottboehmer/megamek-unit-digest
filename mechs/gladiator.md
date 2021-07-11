@@ -12,6 +12,7 @@
   - Medium Laser × 2
 - **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1198/gladiator-gld-1r)
 - **Battle Value:** 1027
+- [*More Info*](gladiator/gladiator_gld-1r.md)
 
 ## Gladiator GLD-2R
 - **Role:** Skirmisher
@@ -25,6 +26,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1199/gladiator-gld-2r)
 - **Battle Value:** 1184
+- [*More Info*](gladiator/gladiator_gld-2r.md)
 
 ## Gladiator GLD-3R
 - **Role:** Missile Boat
@@ -39,6 +41,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1200/gladiator-gld-3r)
 - **Battle Value:** 1282
+- [*More Info*](gladiator/gladiator_gld-3r.md)
 
 ## Gladiator GLD-4R
 - **Role:** Skirmisher
@@ -54,6 +57,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1201/gladiator-gld-4r)
 - **Battle Value:** 1291
+- [*More Info*](gladiator/gladiator_gld-4r.md)
 
 ## Gladiator (Keller)
 - **Role:** Skirmisher
@@ -73,6 +77,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197/gladiator-keller)
 - **Battle Value:** 1517
+- [*More Info*](gladiator/gladiator_keller.md)
 
 ## Gladiator GLD-5R
 - **Role:** Skirmisher
@@ -92,4 +97,5 @@
   - C3 Slave
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1202/gladiator-gld-5r)
 - **Battle Value:** 1412
+- [*More Info*](gladiator/gladiator_gld-5r.md)
 

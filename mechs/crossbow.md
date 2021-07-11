@@ -13,6 +13,7 @@
   - LRM 5 × 4 (ammo: 48)
 - **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x)
 - **Battle Value:** 969
+- [*More Info*](crossbow/crossbow_crs-x.md)
 
 ## Crossbow CRS-6B
 - **Role:** Missile Boat
@@ -27,6 +28,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b)
 - **Battle Value:** 1210
+- [*More Info*](crossbow/crossbow_crs-6b.md)
 
 ## Crossbow CRS-6C
 - **Role:** Skirmisher
@@ -41,6 +43,7 @@
   - Medium Laser
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c)
 - **Battle Value:** 1204
+- [*More Info*](crossbow/crossbow_crs-6c.md)
 
 ## Crossbow Prime
 - **Role:** Missile Boat
@@ -55,6 +58,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/739/crossbow-prime)
 - **Battle Value:** 1829
+- [*More Info*](crossbow/crossbow_prime.md)
 
 ## Crossbow A
 - **Role:** Skirmisher
@@ -71,6 +75,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/730/crossbow-a)
 - **Battle Value:** 1797
+- [*More Info*](crossbow/crossbow_a.md)
 
 ## Crossbow B
 - **Role:** Skirmisher
@@ -85,6 +90,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/731/crossbow-b)
 - **Battle Value:** 1687
+- [*More Info*](crossbow/crossbow_b.md)
 
 ## Crossbow H
 - **Role:** Skirmisher
@@ -102,6 +108,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/738/crossbow-h)
 - **Battle Value:** 1707
+- [*More Info*](crossbow/crossbow_h.md)
 
 ## Crossbow C
 - **Role:** Skirmisher
@@ -118,6 +125,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/732/crossbow-c)
 - **Battle Value:** 1557
+- [*More Info*](crossbow/crossbow_c.md)
 
 ## Crossbow D
 - **Role:** Missile Boat
@@ -132,6 +140,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/736/crossbow-d)
 - **Battle Value:** 1154
+- [*More Info*](crossbow/crossbow_d.md)
 
 ## Crossbow CRS-9A
 - **Role:** Skirmisher
@@ -146,6 +155,7 @@
   - ER Medium Laser × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a)
 - **Battle Value:** 1583
+- [*More Info*](crossbow/crossbow_crs-9a.md)
 
 ## Crossbow E
 - **Role:** Skirmisher
@@ -161,6 +171,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e)
 - **Battle Value:** 1558
+- [*More Info*](crossbow/crossbow_e.md)
 
 ## Crossbow U
 - **Role:** Skirmisher
@@ -178,4 +189,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/740/crossbow-u)
 - **Battle Value:** 1856
+- [*More Info*](crossbow/crossbow_u.md)
 

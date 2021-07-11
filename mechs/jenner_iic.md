@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard)
 - **Battle Value:** 1047
+- [*More Info*](jenner_iic/jenner_iic_standard.md)
 
 ## Jenner IIC 2
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2)
 - **Battle Value:** 1406
+- [*More Info*](jenner_iic/jenner_iic_2.md)
 
 ## Jenner IIC 3
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3)
 - **Battle Value:** 788
+- [*More Info*](jenner_iic/jenner_iic_3.md)
 
 ## Jenner IIC 4
 - **Role:** Striker
@@ -63,4 +66,5 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1701/jenner-iic-4)
 - **Battle Value:** 1052
+- [*More Info*](jenner_iic/jenner_iic_4.md)
 

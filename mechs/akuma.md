@@ -16,6 +16,7 @@
   - Medium Laser
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3691/akuma-aku-1x)
 - **Battle Value:** 1959
+- [*More Info*](akuma/akuma_aku-1x.md)
 
 ## Akuma AKU-1XJ
 - **Role:** Juggernaut
@@ -33,6 +34,7 @@
   - ER Small Laser
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3692/akuma-aku-1xj)
 - **Battle Value:** 2203
+- [*More Info*](akuma/akuma_aku-1xj.md)
 
 ## Akuma AKU-2X
 - **Role:** Juggernaut
@@ -52,6 +54,7 @@
   - C3 Slave
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5713/akuma-aku-2x)
 - **Battle Value:** 2122
+- [*More Info*](akuma/akuma_aku-2x.md)
 
 ## Akuma AKU-2XC
 - **Role:** Juggernaut
@@ -73,6 +76,7 @@
   - C3 Boosted Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/22/akuma-aku-2xc)
 - **Battle Value:** 2134
+- [*More Info*](akuma/akuma_aku-2xc.md)
 
 ## Akuma AKU-2XK
 - **Role:** Juggernaut
@@ -94,4 +98,5 @@
   - C3 Slave
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5714/akuma-aku-2xk)
 - **Battle Value:** 2170
+- [*More Info*](akuma/akuma_aku-2xk.md)
 

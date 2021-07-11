@@ -14,6 +14,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5389/wasp-lam-wsp-105)
 - **Battle Value:** 814
+- [*More Info*](wasp_lam/wasp_lam_wsp-105.md)
 
 ## Wasp LAM WSP-105M
 - **Role:** Scout
@@ -30,6 +31,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5390/wasp-lam-wsp-105m)
 - **Battle Value:** 907
+- [*More Info*](wasp_lam/wasp_lam_wsp-105m.md)
 
 ## Wasp LAM WSP-110
 - **Role:** Scout
@@ -47,4 +49,5 @@
   - Bomb Bay × 5
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5391/wasp-lam-wsp-110)
 - **Battle Value:** 639
+- [*More Info*](wasp_lam/wasp_lam_wsp-110.md)
 

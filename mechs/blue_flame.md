@@ -13,6 +13,7 @@
   - C3i
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3840/blue-flame-blf-21)
 - **Battle Value:** 1256
+- [*More Info*](blue_flame/blue_flame_blf-21.md)
 
 ## Blue Flame BLF-40
 - **Role:** Sniper
@@ -30,4 +31,5 @@
   - C3i
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5672/blue-flame-blf-40)
 - **Battle Value:** 1195
+- [*More Info*](blue_flame/blue_flame_blf-40.md)
 

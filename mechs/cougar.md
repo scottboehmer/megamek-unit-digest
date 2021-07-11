@@ -13,6 +13,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/712/cougar-prime)
 - **Battle Value:** 1485
+- [*More Info*](cougar/cougar_prime.md)
 
 ## Cougar A
 - **Role:** Missile Boat
@@ -29,6 +30,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/704/cougar-a)
 - **Battle Value:** 1697
+- [*More Info*](cougar/cougar_a.md)
 
 ## Cougar B
 - **Role:** Sniper
@@ -42,6 +44,7 @@
   - ER Medium Laser
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/705/cougar-b)
 - **Battle Value:** 1774
+- [*More Info*](cougar/cougar_b.md)
 
 ## Cougar C
 - **Role:** Brawler
@@ -57,6 +60,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/706/cougar-c)
 - **Battle Value:** 1785
+- [*More Info*](cougar/cougar_c.md)
 
 ## Cougar D
 - **Role:** Sniper
@@ -73,6 +77,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/707/cougar-d)
 - **Battle Value:** 1309
+- [*More Info*](cougar/cougar_d.md)
 
 ## Cougar H
 - **Role:** Brawler
@@ -91,6 +96,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h)
 - **Battle Value:** 1323
+- [*More Info*](cougar/cougar_h.md)
 
 ## Cougar E
 - **Role:** Brawler
@@ -106,6 +112,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e)
 - **Battle Value:** 1442
+- [*More Info*](cougar/cougar_e.md)
 
 ## Cougar F
 - **Role:** Brawler
@@ -125,6 +132,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f)
 - **Battle Value:** 1401
+- [*More Info*](cougar/cougar_f.md)
 
 ## Cougar G
 - **Role:** Sniper
@@ -141,6 +149,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g)
 - **Battle Value:** 1453
+- [*More Info*](cougar/cougar_g.md)
 
 ## Cougar XR
 - **Role:** Missile Boat
@@ -159,6 +168,7 @@
   - CASE
 - **Sources:** XTRO Clans - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4013/cougar-xr-standard)
 - **Battle Value:** 1783
+- [*More Info*](cougar/cougar_xr.md)
 
 ## Cougar X 2
 - **Role:** Striker
@@ -173,6 +183,7 @@
   - Clan ER Medium Pulse Laser
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6952/cougar-x-2)
 - **Battle Value:** 1293
+- [*More Info*](cougar/cougar_x_2.md)
 
 ## Cougar X 3
 - **Role:** Striker
@@ -190,6 +201,7 @@
   - Clan Targeting Computer
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6953/cougar-x-3)
 - **Battle Value:** 1391
+- [*More Info*](cougar/cougar_x_3.md)
 
 ## Cougar I
 - **Role:** Striker
@@ -207,6 +219,7 @@
   - Supercharger
 - **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i)
 - **Battle Value:** 1738
+- [*More Info*](cougar/cougar_i.md)
 
 ## Cougar X
 - **Role:** Striker
@@ -221,4 +234,5 @@
   - Clan ER Medium Laser × 2
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard)
 - **Battle Value:** 1474
+- [*More Info*](cougar/cougar_x.md)
 

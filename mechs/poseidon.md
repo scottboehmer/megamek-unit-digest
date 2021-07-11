@@ -21,4 +21,5 @@
   - Clan CASE II
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6684/poseidon-psd-v2)
 - **Battle Value:** 3357
+- [*More Info*](poseidon/poseidon_psd-v2.md)
 

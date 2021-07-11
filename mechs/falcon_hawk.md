@@ -13,6 +13,7 @@
   - Small Pulse Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1030/falcon-hawk-fnhk-9k)
 - **Battle Value:** 1030
+- [*More Info*](falcon_hawk/falcon_hawk_fnhk-9k.md)
 
 ## Falcon Hawk FNHK-9K1A
 - **Role:** Brawler
@@ -28,6 +29,7 @@
   - Small Pulse Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1031/falcon-hawk-fnhk-9k1a)
 - **Battle Value:** 1040
+- [*More Info*](falcon_hawk/falcon_hawk_fnhk-9k1a.md)
 
 ## Falcon Hawk FNHK-9K1B
 - **Role:** Brawler
@@ -46,4 +48,5 @@
   - TAG
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1032/falcon-hawk-fnhk-9k1b)
 - **Battle Value:** 1116
+- [*More Info*](falcon_hawk/falcon_hawk_fnhk-9k1b.md)
 

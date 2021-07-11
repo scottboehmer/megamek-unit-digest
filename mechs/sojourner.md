@@ -17,6 +17,7 @@
   - CASE II
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7443/sojourner-prime)
 - **Battle Value:** 2491
+- [*More Info*](sojourner/sojourner_prime.md)
 
 ## Sojourner A
 - **Role:** Brawler
@@ -36,6 +37,7 @@
   - CASE II
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7444/sojourner-a)
 - **Battle Value:** 1911
+- [*More Info*](sojourner/sojourner_a.md)
 
 ## Sojourner B
 - **Role:** Brawler
@@ -55,6 +57,7 @@
   - CASE II
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7445/sojourner-b)
 - **Battle Value:** 2397
+- [*More Info*](sojourner/sojourner_b.md)
 
 ## Sojourner C
 - **Role:** Missile Boat
@@ -73,6 +76,7 @@
   - CASE II
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7446/sojourner-c)
 - **Battle Value:** 2235
+- [*More Info*](sojourner/sojourner_c.md)
 
 ## Sojourner D
 - **Role:** Brawler
@@ -91,4 +95,5 @@
   - CASE II
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7447/sojourner-d)
 - **Battle Value:** 2452
+- [*More Info*](sojourner/sojourner_d.md)
 

@@ -15,4 +15,5 @@
   - Partial Wing
 - **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4363/incubus-ii-standard)
 - **Battle Value:** 1261
+- [*More Info*](incubus_ii/incubus_ii_standard.md)
 

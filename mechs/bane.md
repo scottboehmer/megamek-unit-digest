@@ -13,6 +13,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1841/kraken-bane-standard)
 - **Battle Value:** 1950
+- [*More Info*](bane/bane_standard.md)
 
 ## Bane 2 "Kraken"
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2)
 - **Battle Value:** 2502
+- [*More Info*](bane/bane_2.md)
 
 ## Bane 3 "Kraken"
 - **Role:** Missile Boat
@@ -43,6 +45,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1843/kraken-bane-3)
 - **Battle Value:** 2941
+- [*More Info*](bane/bane_3.md)
 
 ## Bane 4 "Kraken"
 - **Role:** Juggernaut
@@ -59,4 +62,5 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1844/kraken-bane-4)
 - **Battle Value:** 2709
+- [*More Info*](bane/bane_4.md)
 

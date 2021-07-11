@@ -13,6 +13,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1033/falconer-flc-8r)
 - **Battle Value:** 2231
+- [*More Info*](falconer/falconer_flc-8r.md)
 
 ## Falconer FLC-9R
 - **Role:** Skirmisher
@@ -28,4 +29,5 @@
   - Medium Laser × 4
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1034/falconer-flc-9r)
 - **Battle Value:** 1979
+- [*More Info*](falconer/falconer_flc-9r.md)
 

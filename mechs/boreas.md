@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7351/boreas-prime)
 - **Battle Value:** 1583
+- [*More Info*](boreas/boreas_prime.md)
 
 ## Boreas A
 - **Role:** Sniper
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7352/boreas-a)
 - **Battle Value:** 1221
+- [*More Info*](boreas/boreas_a.md)
 
 ## Boreas B
 - **Role:** Sniper
@@ -51,6 +53,7 @@
   - CASE
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7353/boreas-b)
 - **Battle Value:** 1331
+- [*More Info*](boreas/boreas_b.md)
 
 ## Boreas C
 - **Role:** Skirmisher
@@ -69,6 +72,7 @@
   - CASE
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7354/boreas-c)
 - **Battle Value:** 1502
+- [*More Info*](boreas/boreas_c.md)
 
 ## Boreas D
 - **Role:** Skirmisher
@@ -85,4 +89,5 @@
   - Tracks
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7355/boreas-d)
 - **Battle Value:** 1394
+- [*More Info*](boreas/boreas_d.md)
 

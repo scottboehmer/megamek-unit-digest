@@ -16,6 +16,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2090/marshal-mhl-x1)
 - **Battle Value:** 1163
+- [*More Info*](marshal/marshal_mhl-x1.md)
 
 ## Marshal MHL-2L
 - **Role:** Skirmisher
@@ -34,6 +35,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l)
 - **Battle Value:** 1313
+- [*More Info*](marshal/marshal_mhl-2l.md)
 
 ## Marshal MHL-6MC
 - **Role:** Skirmisher
@@ -53,6 +55,7 @@
   - Machine Gun Array
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2089/marshal-mhl-6mc)
 - **Battle Value:** 1457
+- [*More Info*](marshal/marshal_mhl-6mc.md)
 
 ## Marshal MHL-6FR
 - **Role:** Undefined
@@ -68,6 +71,7 @@
   - Flamer
 - **Sources:** Fronc Reachs, [Master Unit List](http://masterunitlist.info/Unit/Details/7698/marshal-mhl-6fr)
 - **Battle Value:** 1429
+- [*More Info*](marshal/marshal_mhl-6fr.md)
 
 ## Marshal MHL-3MC
 - **Role:** Brawler
@@ -86,4 +90,5 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6895/marshal-mhl-3mc)
 - **Battle Value:** 1714
+- [*More Info*](marshal/marshal_mhl-3mc.md)
 

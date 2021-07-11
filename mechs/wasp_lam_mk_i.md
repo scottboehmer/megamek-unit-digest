@@ -16,6 +16,7 @@
   - Bomb Bay × 5
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5392/wasp-lam-mk-i-wsp-100)
 - **Battle Value:** 489
+- [*More Info*](wasp_lam_mk_i/wasp_lam_mk_i_wsp-100.md)
 
 ## Wasp LAM Mk I WSP-100A
 - **Role:** Scout
@@ -32,6 +33,7 @@
   - Medium Laser
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5393/wasp-lam-mk-i-wsp-100a)
 - **Battle Value:** 909
+- [*More Info*](wasp_lam_mk_i/wasp_lam_mk_i_wsp-100a.md)
 
 ## Wasp LAM Mk I WSP-100b
 - **Role:** Scout
@@ -50,4 +52,5 @@
   - Guardian ECM Suite
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5394/wasp-lam-mk-i-wsp-100b)
 - **Battle Value:** 876
+- [*More Info*](wasp_lam_mk_i/wasp_lam_mk_i_wsp-100b.md)
 

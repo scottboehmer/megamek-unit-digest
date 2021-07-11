@@ -13,4 +13,5 @@
   - ER Small Laser × 4
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7605/drift-shag-standard)
 - **Battle Value:** 1512
+- [*More Info*](drift_shag/drift_shag.md)
 

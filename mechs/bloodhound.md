@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3838/bloodhound-b1-hnd)
 - **Battle Value:** 1248
+- [*More Info*](bloodhound/bloodhound_b1-hnd.md)
 
 ## Bloodhound B2-HND
 - **Role:** Striker
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3839/bloodhound-b2-hnd)
 - **Battle Value:** 1363
+- [*More Info*](bloodhound/bloodhound_b2-hnd.md)
 
 ## Bloodhound B3-HND
 - **Role:** Striker
@@ -50,4 +52,5 @@
   - B-Pod
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671/bloodhound-b3-hnd)
 - **Battle Value:** 1005
+- [*More Info*](bloodhound/bloodhound_b3-hnd.md)
 

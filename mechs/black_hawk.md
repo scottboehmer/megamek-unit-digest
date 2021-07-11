@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3145 Mercenaries - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/6554/black-hawk-standard)
 - **Battle Value:** 2183
+- [*More Info*](black_hawk/black_hawk_standard.md)
 
 ## Black Hawk 2
 - **Role:** Skirmisher
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3145 Mercenaries - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6555/black-hawk-2)
 - **Battle Value:** 2161
+- [*More Info*](black_hawk/black_hawk_2.md)
 
 ## Black Hawk 3
 - **Role:** Skirmisher
@@ -44,4 +46,5 @@
   - ER Medium Laser × 4
 - **Sources:** TRO 3145 Mercenaries - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6556/black-hawk-3)
 - **Battle Value:** 2317
+- [*More Info*](black_hawk/black_hawk_3.md)
 

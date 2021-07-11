@@ -14,6 +14,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5584/battleaxe-bkx-1x)
 - **Battle Value:** 1079
+- [*More Info*](battleaxe/battleaxe_bkx-1x.md)
 
 ## BattleAxe BKX-7K
 - **Role:** Sniper
@@ -29,6 +30,7 @@
   - LRM 5 × 2 (ammo: 24)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/277/battleaxe-bkx-7k)
 - **Battle Value:** 1329
+- [*More Info*](battleaxe/battleaxe_bkx-7k.md)
 
 ## BattleAxe BKX-7NC
 - **Role:** Missile Boat
@@ -43,6 +45,7 @@
   - LRM 5 × 4 (ammo: 24)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/278/battleaxe-bkx-7nc)
 - **Battle Value:** 1252
+- [*More Info*](battleaxe/battleaxe_bkx-7nc.md)
 
 ## BattleAxe BKX-8D
 - **Role:** Skirmisher
@@ -60,4 +63,5 @@
   - C3 Slave
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/279/battleaxe-bkx-8d)
 - **Battle Value:** 1592
+- [*More Info*](battleaxe/battleaxe_bkx-8d.md)
 

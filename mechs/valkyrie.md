@@ -12,6 +12,7 @@
   - Medium Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3372/valkyrie-vlk-qa)
 - **Battle Value:** 723
+- [*More Info*](valkyrie/valkyrie_vlk-qa.md)
 
 ## Valkyrie VLK-QF
 - **Role:** Missile Boat
@@ -26,6 +27,7 @@
   - Flamer
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3378/valkyrie-vlk-qf)
 - **Battle Value:** 653
+- [*More Info*](valkyrie/valkyrie_vlk-qf.md)
 
 ## Valkyrie VLK-QD
 - **Role:** Missile Boat
@@ -42,6 +44,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3373/valkyrie-vlk-qd)
 - **Battle Value:** 807
+- [*More Info*](valkyrie/valkyrie_vlk-qd.md)
 
 ## Valkyrie VLK-QD1
 - **Role:** Missile Boat
@@ -58,6 +61,7 @@
   - Targeting Computer
 - **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3374/valkyrie-vlk-qd1)
 - **Battle Value:** 878
+- [*More Info*](valkyrie/valkyrie_vlk-qd1.md)
 
 ## Valkyrie VLK-QD3
 - **Role:** Striker
@@ -74,6 +78,7 @@
   - CASE
 - **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3376/valkyrie-vlk-qd3)
 - **Battle Value:** 882
+- [*More Info*](valkyrie/valkyrie_vlk-qd3.md)
 
 ## Valkyrie VLK-QS5
 - **Role:** Missile Boat
@@ -91,6 +96,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3379/valkyrie-vlk-qs5)
 - **Battle Value:** 745
+- [*More Info*](valkyrie/valkyrie_vlk-qs5.md)
 
 ## Valkyrie VLK-QD2
 - **Role:** Sniper
@@ -107,6 +113,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2)
 - **Battle Value:** 638
+- [*More Info*](valkyrie/valkyrie_vlk-qd2.md)
 
 ## Valkyrie VLK-QW5
 - **Role:** Missile Boat
@@ -125,6 +132,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5)
 - **Battle Value:** 667
+- [*More Info*](valkyrie/valkyrie_vlk-qw5.md)
 
 ## Valkyrie VLK-QT2
 - **Role:** Striker
@@ -141,6 +149,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3380/valkyrie-vlk-qt2)
 - **Battle Value:** 863
+- [*More Info*](valkyrie/valkyrie_vlk-qt2.md)
 
 ## Valkyrie VLK-QD4
 - **Role:** Striker
@@ -158,6 +167,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4)
 - **Battle Value:** 657
+- [*More Info*](valkyrie/valkyrie_vlk-qd4.md)
 
 ## Valkyrie VLK-QD5
 - **Role:** Undefined
@@ -176,6 +186,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8104/valkyrie-vlk-qd5)
 - **Battle Value:** 690
+- [*More Info*](valkyrie/valkyrie_vlk-qd5.md)
 
 ## Valkyrie VLK-QD6
 - **Role:** Missile Boat
@@ -193,6 +204,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7703/valkyrie-vlk-qd6)
 - **Battle Value:** 827
+- [*More Info*](valkyrie/valkyrie_vlk-qd6.md)
 
 ## Valkyrie VLK-QD8
 - **Role:** Missile Boat
@@ -208,6 +220,7 @@
   - Light PPC
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8)
 - **Battle Value:** 787
+- [*More Info*](valkyrie/valkyrie_vlk-qd8.md)
 
 ## Valkyrie VLK-QDD
 - **Role:** Missile Boat
@@ -225,6 +238,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7702/valkyrie-vlk-qdd)
 - **Battle Value:** 834
+- [*More Info*](valkyrie/valkyrie_vlk-qdd.md)
 
 ## Valkyrie C
 - **Role:** Missile Boat
@@ -242,4 +256,5 @@
   - Clan CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7701/valkyrie-c)
 - **Battle Value:** 936
+- [*More Info*](valkyrie/valkyrie_c.md)
 

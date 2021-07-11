@@ -17,6 +17,7 @@
   - MASC
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/329/berserker-brz-a3)
 - **Battle Value:** 2117
+- [*More Info*](berserker/berserker_brz-a3.md)
 
 ## Berserker BRZ-B3
 - **Role:** Brawler
@@ -36,6 +37,7 @@
   - MASC
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/330/berserker-brz-b3)
 - **Battle Value:** 2020
+- [*More Info*](berserker/berserker_brz-b3.md)
 
 ## Berserker BRZ-C3
 - **Role:** Juggernaut
@@ -56,6 +58,7 @@
   - C3 Slave
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/331/berserker-brz-c3)
 - **Battle Value:** 2395
+- [*More Info*](berserker/berserker_brz-c3.md)
 
 ## Berserker BRZ-D4
 - **Role:** Juggernaut
@@ -76,4 +79,5 @@
   - Angel ECM Suite
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6831/berserker-brz-d4)
 - **Battle Value:** 2659
+- [*More Info*](berserker/berserker_brz-d4.md)
 

@@ -14,6 +14,7 @@
   - Small Laser
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2740/rook-nh-1a)
 - **Battle Value:** 1197
+- [*More Info*](rook/rook_nh-1a.md)
 
 ## Rook NH-1B
 - **Role:** Brawler
@@ -29,6 +30,7 @@
   - Small Laser
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2741/rook-nh-1b)
 - **Battle Value:** 1227
+- [*More Info*](rook/rook_nh-1b.md)
 
 ## Rook NH-2
 - **Role:** Skirmisher
@@ -45,6 +47,7 @@
   - Small Pulse Laser
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2742/rook-nh-2)
 - **Battle Value:** 1525
+- [*More Info*](rook/rook_nh-2.md)
 
 ## Rook NH-3X
 - **Role:** Striker
@@ -62,6 +65,7 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2743/rook-nh-3x)
 - **Battle Value:** 1746
+- [*More Info*](rook/rook_nh-3x.md)
 
 ## Rook NH-1X 'Rook-X'
 - **Role:** Juggernaut
@@ -78,4 +82,5 @@
   - ER Small Laser × 2
 - **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4935/rook-nh-1x-rook-x)
 - **Battle Value:** 1187
+- [*More Info*](rook/rook_nh-1x_'rook-x'.md)
 

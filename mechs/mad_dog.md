@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3473/vulture-mad-dog-prime)
 - **Battle Value:** 2351
+- [*More Info*](mad_dog/mad_dog_prime.md)
 
 ## Mad Dog "Vulture" A
 - **Role:** Skirmisher
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3466/vulture-mad-dog-a)
 - **Battle Value:** 1923
+- [*More Info*](mad_dog/mad_dog_a.md)
 
 ## Mad Dog "Vulture" B
 - **Role:** Skirmisher
@@ -47,6 +49,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3467/vulture-mad-dog-b)
 - **Battle Value:** 2284
+- [*More Info*](mad_dog/mad_dog_b.md)
 
 ## Mad Dog "Vulture" C
 - **Role:** Sniper
@@ -61,6 +64,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3468/vulture-mad-dog-c)
 - **Battle Value:** 1892
+- [*More Info*](mad_dog/mad_dog_c.md)
 
 ## Mad Dog "Vulture" DD
 - **Role:** Brawler
@@ -78,6 +82,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd)
 - **Battle Value:** 1970
+- [*More Info*](mad_dog/mad_dog_dd.md)
 
 ## Mad Dog "Vulture" S
 - **Role:** Skirmisher
@@ -94,6 +99,7 @@
   - Active Probe
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7593/vulture-mad-dog-s)
 - **Battle Value:** 2676
+- [*More Info*](mad_dog/mad_dog_s.md)
 
 ## Mad Dog "Vulture" D
 - **Role:** Skirmisher
@@ -111,6 +117,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3469/vulture-mad-dog-d)
 - **Battle Value:** 2447
+- [*More Info*](mad_dog/mad_dog_d.md)
 
 ## Mad Dog "Vulture" H
 - **Role:** Missile Boat
@@ -127,6 +134,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3472/vulture-mad-dog-h)
 - **Battle Value:** 2097
+- [*More Info*](mad_dog/mad_dog_h.md)
 
 ## Mad Dog "Vulture" E
 - **Role:** Sniper
@@ -141,6 +149,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3470/vulture-mad-dog-e)
 - **Battle Value:** 2031
+- [*More Info*](mad_dog/mad_dog_e.md)
 
 ## Mad Dog "Vulture" F
 - **Role:** Skirmisher
@@ -156,6 +165,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3471/vulture-mad-dog-f)
 - **Battle Value:** 2300
+- [*More Info*](mad_dog/mad_dog_f.md)
 
 ## Mad Dog "Vulture" U
 - **Role:** Skirmisher
@@ -174,6 +184,7 @@
   - CASE
 - **Sources:** RS 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3474/vulture-mad-dog-u)
 - **Battle Value:** 2488
+- [*More Info*](mad_dog/mad_dog_u.md)
 
 ## Mad Dog "Vulture" G
 - **Role:** Brawler
@@ -191,6 +202,7 @@
   - CASE
 - **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6891/vulture-mad-dog-g)
 - **Battle Value:** 2503
+- [*More Info*](mad_dog/mad_dog_g.md)
 
 ## Mad Dog "Vulture" V
 - **Role:** Missile Boat
@@ -208,6 +220,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7729/vulture-mad-dog-v)
 - **Battle Value:** 1784
+- [*More Info*](mad_dog/mad_dog_v.md)
 
 ## Mad Dog "Vulture" T
 - **Role:** Missile Boat
@@ -224,6 +237,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t)
 - **Battle Value:** 2555
+- [*More Info*](mad_dog/mad_dog_t.md)
 
 ## Mad Dog "Vulture" I
 - **Role:** Sniper
@@ -239,4 +253,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7728/vulture-mad-dog-i)
 - **Battle Value:** 1852
+- [*More Info*](mad_dog/mad_dog_i.md)
 

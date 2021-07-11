@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1053/fenris-ice-ferret-prime)
 - **Battle Value:** 1678
+- [*More Info*](ice_ferret/ice_ferret_prime.md)
 
 ## Ice Ferret "Fenris" A
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1046/fenris-ice-ferret-a)
 - **Battle Value:** 1323
+- [*More Info*](ice_ferret/ice_ferret_a.md)
 
 ## Ice Ferret "Fenris" B
 - **Role:** Striker
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1047/fenris-ice-ferret-b)
 - **Battle Value:** 1461
+- [*More Info*](ice_ferret/ice_ferret_b.md)
 
 ## Ice Ferret "Fenris" C
 - **Role:** Missile Boat
@@ -63,6 +66,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1048/fenris-ice-ferret-c)
 - **Battle Value:** 1211
+- [*More Info*](ice_ferret/ice_ferret_c.md)
 
 ## Ice Ferret "Fenris" D
 - **Role:** Striker
@@ -78,6 +82,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1049/fenris-ice-ferret-d)
 - **Battle Value:** 1653
+- [*More Info*](ice_ferret/ice_ferret_d.md)
 
 ## Ice Ferret "Fenris" E
 - **Role:** Striker
@@ -94,6 +99,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1050/fenris-ice-ferret-e)
 - **Battle Value:** 1483
+- [*More Info*](ice_ferret/ice_ferret_e.md)
 
 ## Ice Ferret "Fenris" H
 - **Role:** Striker
@@ -110,6 +116,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1051/fenris-ice-ferret-h)
 - **Battle Value:** 1619
+- [*More Info*](ice_ferret/ice_ferret_h.md)
 
 ## Ice Ferret "Fenris" L
 - **Role:** Scout
@@ -126,6 +133,7 @@
   - Targeting Computer
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1052/fenris-ice-ferret-l)
 - **Battle Value:** 1380
+- [*More Info*](ice_ferret/ice_ferret_l.md)
 
 ## Ice Ferret "Fenris" U
 - **Role:** Striker
@@ -143,6 +151,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1054/fenris-ice-ferret-u)
 - **Battle Value:** 1549
+- [*More Info*](ice_ferret/ice_ferret_u.md)
 
 ## Ice Ferret "Fenris" F
 - **Role:** Sniper
@@ -157,6 +166,7 @@
   - Watchdog CEWS
 - **Sources:** Rec Guide 4 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f)
 - **Battle Value:** 1771
+- [*More Info*](ice_ferret/ice_ferret_f.md)
 
 ## Ice Ferret "Fenris" G
 - **Role:** Striker
@@ -174,6 +184,7 @@
   - Light TAG
 - **Sources:** Rec Guide 4 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g)
 - **Battle Value:** 1196
+- [*More Info*](ice_ferret/ice_ferret_g.md)
 
 ## Ice Ferret "Fenris" I
 - **Role:** Scout
@@ -191,6 +202,7 @@
   - CASE
 - **Sources:** Rec Guide 4 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i)
 - **Battle Value:** 1094
+- [*More Info*](ice_ferret/ice_ferret_i.md)
 
 ## Ice Ferret "Fenris" J
 - **Role:** Striker
@@ -208,6 +220,7 @@
   - Targeting Computer
 - **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j)
 - **Battle Value:** 1739
+- [*More Info*](ice_ferret/ice_ferret_j.md)
 
 ## Ice Ferret "Fenris" K
 - **Role:** Striker
@@ -224,6 +237,7 @@
   - Laser Anti-Missile System
 - **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504/fenris-ice-ferret-k)
 - **Battle Value:** 1769
+- [*More Info*](ice_ferret/ice_ferret_k.md)
 
 ## Ice Ferret "Fenris" T
 - **Role:** Scout
@@ -242,4 +256,5 @@
   - Supercharger
 - **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t)
 - **Battle Value:** 1825
+- [*More Info*](ice_ferret/ice_ferret_t.md)
 

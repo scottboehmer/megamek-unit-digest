@@ -16,4 +16,5 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6252/arion-standard)
 - **Battle Value:** 849
+- [*More Info*](arion/arion_standard.md)
 

@@ -15,6 +15,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6718/night-stalker-nsr-k1)
 - **Battle Value:** 1149
+- [*More Info*](night_stalker/night_stalker_nsr-k1.md)
 
 ## Night Stalker NSR-K3
 - **Role:** Scout
@@ -35,6 +36,7 @@
   - TAG
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6674/night-stalker-nsr-k3)
 - **Battle Value:** 1028
+- [*More Info*](night_stalker/night_stalker_nsr-k3.md)
 
 ## Night Stalker NSR-K4
 - **Role:** Scout
@@ -53,6 +55,7 @@
   - CASE
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6719/night-stalker-nsr-k4)
 - **Battle Value:** 1159
+- [*More Info*](night_stalker/night_stalker_nsr-k4.md)
 
 ## Night Stalker NSR-K7
 - **Role:** Scout
@@ -70,6 +73,7 @@
   - Chain Whip
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6720/night-stalker-nsr-k7)
 - **Battle Value:** 857
+- [*More Info*](night_stalker/night_stalker_nsr-k7.md)
 
 ## Night Stalker NSR-KC
 - **Role:** Scout
@@ -88,4 +92,5 @@
   - C3 Slave
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6721/night-stalker-nsr-kc)
 - **Battle Value:** 1037
+- [*More Info*](night_stalker/night_stalker_nsr-kc.md)
 

@@ -14,6 +14,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3058 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/546/chameleon-trc-4b)
 - **Battle Value:** 999
+- [*More Info*](chameleon/chameleon_trc-4b.md)
 
 ## Chameleon CLN-7V
 - **Role:** Scout
@@ -30,6 +31,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/543/chameleon-cln-7v)
 - **Battle Value:** 1042
+- [*More Info*](chameleon/chameleon_cln-7v.md)
 
 ## Chameleon CLN-7W
 - **Role:** Striker
@@ -45,6 +47,7 @@
   - Medium Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/544/chameleon-cln-7w)
 - **Battle Value:** 1243
+- [*More Info*](chameleon/chameleon_cln-7w.md)
 
 ## Chameleon CLN-7Z
 - **Role:** Striker
@@ -59,6 +62,7 @@
   - Large Laser × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/545/chameleon-cln-7z)
 - **Battle Value:** 1527
+- [*More Info*](chameleon/chameleon_cln-7z.md)
 
 ## Chameleon CLN-7VQ 'Q-'Mech'
 - **Role:** Striker
@@ -76,4 +80,5 @@
   - Clan Targeting Computer
 - **Sources:** XTRO Phantoms - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5601/chameleon-cln-7vq-q-mech)
 - **Battle Value:** 2113
+- [*More Info*](chameleon/chameleon_cln-7vq_'q-'mech'.md)
 

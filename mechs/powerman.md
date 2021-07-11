@@ -12,6 +12,7 @@
   - Cargo × 5
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2564/powerman-sc-xi-loadermech)
 - **Battle Value:** 198
+- [*More Info*](powerman/powerman_xi_loadermech.md)
 
 ## Powerman SC XI-M LoaderMech MOD
 - **Role:** Brawler
@@ -27,6 +28,7 @@
   - Cargo × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2565/powerman-sc-xi-m-haulermech-mod)
 - **Battle Value:** 294
+- [*More Info*](powerman/powerman_sc_xi-m_loadermech_mod.md)
 
 ## Powerman SC XI-M-B LoaderMech MOD
 - **Role:** Brawler
@@ -41,6 +43,7 @@
   - Cargo × 3
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2566/powerman-sc-xi-m-b-haulermech-mod)
 - **Battle Value:** 277
+- [*More Info*](powerman/powerman_sc_xi-m-b_loadermech_mod.md)
 
 ## Powerman SC XV HaulerMech
 - **Role:** Ambusher
@@ -55,6 +58,7 @@
   - Cargo × 3
 - **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4852/powerman-sc-xv-haulermech)
 - **Battle Value:** 198
+- [*More Info*](powerman/powerman_sc_xv_haulermech.md)
 
 ## Powerman SC XVI HaulerMech
 - **Role:** Ambusher
@@ -70,4 +74,5 @@
   - Cargo × 3
 - **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4853/powerman-sc-xvi-haulermech)
 - **Battle Value:** 198
+- [*More Info*](powerman/powerman_sc_xvi_haulermech.md)
 

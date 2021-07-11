@@ -17,6 +17,7 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7794/white-raven-standard)
 - **Battle Value:** 2941
+- [*More Info*](white_raven/white_raven_standard.md)
 
 ## White Raven 2
 - **Role:** Skirmisher
@@ -34,4 +35,5 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7795/white-raven-2)
 - **Battle Value:** 2703
+- [*More Info*](white_raven/white_raven_2.md)
 

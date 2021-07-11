@@ -18,4 +18,5 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6253/cyllaros-standard)
 - **Battle Value:** 1450
+- [*More Info*](cyllaros/cyllaros_standard.md)
 

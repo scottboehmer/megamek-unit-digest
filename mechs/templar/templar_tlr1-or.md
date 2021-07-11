@@ -1,0 +1,26 @@
+# Templar TLR1-OR
+
+[Other Templar variants](../templar.md)
+
+## Templar TLR1-OR
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere Mixed (3134)
+- **Chassis:** 85 tons (Endo Steel)
+- **Movement:** 4 / 6, XL
+- **Armor:** 263
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Clan ER PPC × 2
+  - Clan LB 10-X AC (ammo: 20 Standard, 10 Cluster)
+  - Medium Re-Engineered Laser × 5
+- **Equipment:**
+  - CASE
+  - Clan CASE II
+- **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6852/templar-tlr1-or)
+- **Battle Value:** 2423
+
+## Availability
+
+### Dark Ages
+- Federated Suns
+

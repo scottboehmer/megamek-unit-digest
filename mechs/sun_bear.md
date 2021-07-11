@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7623/sun-bear-prime)
 - **Battle Value:** 2022
+- [*More Info*](sun_bear/sun_bear_prime.md)
 
 ## Sun Bear A
 - **Role:** Skirmisher
@@ -26,6 +27,7 @@
   - ER Medium Laser × 12
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a)
 - **Battle Value:** 2418
+- [*More Info*](sun_bear/sun_bear_a.md)
 
 ## Sun Bear B
 - **Role:** Missile Boat
@@ -42,4 +44,5 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7625/sun-bear-b)
 - **Battle Value:** 2144
+- [*More Info*](sun_bear/sun_bear_b.md)
 

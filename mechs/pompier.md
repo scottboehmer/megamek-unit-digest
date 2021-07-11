@@ -14,6 +14,7 @@
   - Liquid Cargo
 - **Sources:** TRO VA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/4842/pompier-gm-3a-firemech)
 - **Battle Value:** 106
+- [*More Info*](pompier/pompier_gm-3a_firemech.md)
 
 ## Pompier GM-3HT FireMech
 - **Role:** Undefined
@@ -29,6 +30,7 @@
   - Mech Sprayer
 - **Sources:** TRO VA - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4844/pompier-gm-3ht-firemech)
 - **Battle Value:** 106
+- [*More Info*](pompier/pompier_gm-3ht_firemech.md)
 
 ## Pompier GM-3CD FireMech
 - **Role:** Scout
@@ -45,6 +47,7 @@
   - Mech Sprayer
 - **Sources:** TRO VA - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4843/pompier-gm-3cd-firemech)
 - **Battle Value:** 118
+- [*More Info*](pompier/pompier_gm-3cd_firemech.md)
 
 ## Pompier GM-FL FireMech
 - **Role:** Ambusher
@@ -61,6 +64,7 @@
   - Supercharger
 - **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5780/pompier-gm-fl-firemech)
 - **Battle Value:** 88
+- [*More Info*](pompier/pompier_gm-fl_firemech.md)
 
 ## Pompier GM-4P PoliceMech
 - **Role:** Ambusher
@@ -77,4 +81,5 @@
   - Ejection Seat
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7837/pompier-gm-4p-policemech)
 - **Battle Value:** 148
+- [*More Info*](pompier/pompier_gm-4p_policemech.md)
 

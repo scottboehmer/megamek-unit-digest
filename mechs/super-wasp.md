@@ -14,4 +14,5 @@
   - Supercharger
 - **Sources:** XTRO Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5770/super-wasp-wsp-2a-x)
 - **Battle Value:** 635
+- [*More Info*](super-wasp/super-wasp_wsp-2a-x.md)
 

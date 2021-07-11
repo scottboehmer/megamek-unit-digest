@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3145 Free Worlds League - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6500/gambit-gbt-1g)
 - **Battle Value:** 777
+- [*More Info*](gambit/gambit_gbt-1g.md)
 
 ## Gambit GBT-1L
 - **Role:** Striker
@@ -30,4 +31,5 @@
   - TAG
 - **Sources:** TRO 3145 Free Worlds League - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6501/gambit-gbt-1l)
 - **Battle Value:** 796
+- [*More Info*](gambit/gambit_gbt-1l.md)
 

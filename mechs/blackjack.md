@@ -11,6 +11,7 @@
   - Flamer × 4
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/376/blackjack-bj-1x)
 - **Battle Value:** 964
+- [*More Info*](blackjack/blackjack_bj-1x.md)
 
 ## Blackjack BJ-1
 - **Role:** Sniper
@@ -25,6 +26,7 @@
   - AC/2 × 2 (ammo: 45)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/373/blackjack-bj-1)
 - **Battle Value:** 949
+- [*More Info*](blackjack/blackjack_bj-1.md)
 
 ## Blackjack BJ-1DB
 - **Role:** Brawler
@@ -39,6 +41,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/374/blackjack-bj-1db)
 - **Battle Value:** 1015
+- [*More Info*](blackjack/blackjack_bj-1db.md)
 
 ## Blackjack BJ-1DC
 - **Role:** Brawler
@@ -53,6 +56,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/375/blackjack-bj-1dc)
 - **Battle Value:** 917
+- [*More Info*](blackjack/blackjack_bj-1dc.md)
 
 ## Blackjack BJ-3
 - **Role:** Brawler
@@ -67,6 +71,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/388/blackjack-bj-3)
 - **Battle Value:** 1271
+- [*More Info*](blackjack/blackjack_bj-3.md)
 
 ## Blackjack BJ-2
 - **Role:** Sniper
@@ -81,6 +86,7 @@
   - Streak SRM 2 × 4 (ammo: 50)
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/377/blackjack-bj-2)
 - **Battle Value:** 1148
+- [*More Info*](blackjack/blackjack_bj-2.md)
 
 ## Blackjack BJ2-O
 - **Role:** Brawler
@@ -96,6 +102,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/378/blackjack-bj2-o)
 - **Battle Value:** 1201
+- [*More Info*](blackjack/blackjack_bj2-o.md)
 
 ## Blackjack BJ2-OA
 - **Role:** Missile Boat
@@ -111,6 +118,7 @@
   - Small Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/379/blackjack-bj2-oa)
 - **Battle Value:** 1318
+- [*More Info*](blackjack/blackjack_bj2-oa.md)
 
 ## Blackjack BJ2-OB
 - **Role:** Sniper
@@ -128,6 +136,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/380/blackjack-bj2-ob)
 - **Battle Value:** 1323
+- [*More Info*](blackjack/blackjack_bj2-ob.md)
 
 ## Blackjack BJ2-OC
 - **Role:** Brawler
@@ -143,6 +152,7 @@
   - Small Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/381/blackjack-bj2-oc)
 - **Battle Value:** 1189
+- [*More Info*](blackjack/blackjack_bj2-oc.md)
 
 ## Blackjack BJ2-OD
 - **Role:** Brawler
@@ -160,6 +170,7 @@
   - Small Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/382/blackjack-bj2-od)
 - **Battle Value:** 1375
+- [*More Info*](blackjack/blackjack_bj2-od.md)
 
 ## Blackjack BJ2-OE
 - **Role:** Sniper
@@ -176,6 +187,7 @@
   - ER Small Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/383/blackjack-bj2-oe)
 - **Battle Value:** 1260
+- [*More Info*](blackjack/blackjack_bj2-oe.md)
 
 ## Blackjack BJ2-OR
 - **Role:** Brawler
@@ -192,6 +204,7 @@
   - Clan ER Small Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/385/blackjack-bj2-or)
 - **Battle Value:** 2010
+- [*More Info*](blackjack/blackjack_bj2-or.md)
 
 ## Blackjack BJ2-OF
 - **Role:** Sniper
@@ -208,6 +221,7 @@
   - ER Small Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/384/blackjack-bj2-of)
 - **Battle Value:** 1405
+- [*More Info*](blackjack/blackjack_bj2-of.md)
 
 ## Blackjack BJ-4
 - **Role:** Brawler
@@ -225,6 +239,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/389/blackjack-bj-4)
 - **Battle Value:** 1063
+- [*More Info*](blackjack/blackjack_bj-4.md)
 
 ## Blackjack BJ2-OX
 - **Role:** Brawler
@@ -239,6 +254,7 @@
   - Streak SRM 4 × 2 (ammo: 25)
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387/blackjack-bj2-ox)
 - **Battle Value:** 1320
+- [*More Info*](blackjack/blackjack_bj2-ox.md)
 
 ## Blackjack BJ2-OU
 - **Role:** Brawler
@@ -256,6 +272,7 @@
   - HarJel × 5
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/386/blackjack-bj2-ou)
 - **Battle Value:** 1223
+- [*More Info*](blackjack/blackjack_bj2-ou.md)
 
 ## Blackjack BJ-5
 - **Role:** Sniper
@@ -272,6 +289,7 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7499/blackjack-bj-5)
 - **Battle Value:** 1165
+- [*More Info*](blackjack/blackjack_bj-5.md)
 
 ## Blackjack BJ-2r
 - **Role:** Brawler
@@ -286,6 +304,7 @@
   - Medium Laser
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6914/blackjack-bj-2r)
 - **Battle Value:** 1136
+- [*More Info*](blackjack/blackjack_bj-2r.md)
 
 ## Blackjack BJ2-OG
 - **Role:** Brawler
@@ -300,4 +319,5 @@
   - Small Re-Engineered Laser
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6908/blackjack-bj2-og)
 - **Battle Value:** 1448
+- [*More Info*](blackjack/blackjack_bj2-og.md)
 

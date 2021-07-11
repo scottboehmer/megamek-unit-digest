@@ -14,6 +14,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2563/pouncer-prime)
 - **Battle Value:** 2557
+- [*More Info*](pouncer/pouncer_prime.md)
 
 ## Pouncer A
 - **Role:** Missile Boat
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2557/pouncer-a)
 - **Battle Value:** 2081
+- [*More Info*](pouncer/pouncer_a.md)
 
 ## Pouncer B
 - **Role:** Sniper
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2558/pouncer-b)
 - **Battle Value:** 1836
+- [*More Info*](pouncer/pouncer_b.md)
 
 ## Pouncer C
 - **Role:** Striker
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2559/pouncer-c)
 - **Battle Value:** 1653
+- [*More Info*](pouncer/pouncer_c.md)
 
 ## Pouncer D
 - **Role:** Striker
@@ -83,6 +87,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2560/pouncer-d)
 - **Battle Value:** 2246
+- [*More Info*](pouncer/pouncer_d.md)
 
 ## Pouncer E
 - **Role:** Striker
@@ -100,6 +105,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2561/pouncer-e)
 - **Battle Value:** 1632
+- [*More Info*](pouncer/pouncer_e.md)
 
 ## Pouncer H
 - **Role:** Striker
@@ -118,6 +124,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2562/pouncer-h)
 - **Battle Value:** 1784
+- [*More Info*](pouncer/pouncer_h.md)
 
 ## Pouncer F
 - **Role:** Scout
@@ -138,4 +145,5 @@
   - Remote Sensor Dispenser
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4850/pouncer-f)
 - **Battle Value:** 1308
+- [*More Info*](pouncer/pouncer_f.md)
 

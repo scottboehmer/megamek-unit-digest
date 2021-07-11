@@ -13,4 +13,5 @@
   - CASE
 - **Sources:** ISP 3, [Master Unit List](http://masterunitlist.info/Unit/Details/5797/reptar-ept-c-1-militiamech)
 - **Battle Value:** 514
+- [*More Info*](reptar/reptar_ept-c-1_militiamech.md)
 

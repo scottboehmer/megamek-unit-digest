@@ -14,6 +14,7 @@
   - CASE II
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6303/tomahawk-ii-prime)
 - **Battle Value:** 3210
+- [*More Info*](tomahawk_ii/tomahawk_ii_prime.md)
 
 ## Tomahawk II A
 - **Role:** Juggernaut
@@ -32,6 +33,7 @@
   - CASE II
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6304/tomahawk-ii-a)
 - **Battle Value:** 2697
+- [*More Info*](tomahawk_ii/tomahawk_ii_a.md)
 
 ## Tomahawk II B
 - **Role:** Sniper
@@ -51,6 +53,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6305/tomahawk-ii-b)
 - **Battle Value:** 3513
+- [*More Info*](tomahawk_ii/tomahawk_ii_b.md)
 
 ## Tomahawk II C
 - **Role:** Missile Boat
@@ -66,4 +69,5 @@
   - CASE II
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6306/tomahawk-ii-c)
 - **Battle Value:** 2938
+- [*More Info*](tomahawk_ii/tomahawk_ii_c.md)
 

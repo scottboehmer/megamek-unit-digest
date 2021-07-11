@@ -12,6 +12,7 @@
   - Cargo × 15
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore)
 - **Battle Value:** 649
+- [*More Info*](daedalus/daedalus_gtx2a_'stevedore'.md)
 
 ## Daedalus GTX2B 'Navvy'
 - **Role:** Ambusher
@@ -29,6 +30,7 @@
   - Cargo × 5
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy)
 - **Battle Value:** 663
+- [*More Info*](daedalus/daedalus_gtx2b_'navvy'.md)
 
 ## Daedalus GTX2 (Militarized)
 - **Role:** Brawler
@@ -46,6 +48,7 @@
   - Machine Gun × 4 (ammo: 200)
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/793/daedalus-gtx2-militarized)
 - **Battle Value:** 849
+- [*More Info*](daedalus/daedalus_gtx2_militarized.md)
 
 ## Daedalus DAD-3C
 - **Role:** Striker
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/789/daedalus-dad-3c)
 - **Battle Value:** 1070
+- [*More Info*](daedalus/daedalus_dad-3c.md)
 
 ## Daedalus DAD-3D
 - **Role:** Striker
@@ -84,6 +88,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/790/daedalus-dad-3d)
 - **Battle Value:** 1729
+- [*More Info*](daedalus/daedalus_dad-3d.md)
 
 ## Daedalus DAD-4A
 - **Role:** Striker
@@ -104,6 +109,7 @@
   - Supercharger
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/791/daedalus-dad-4a)
 - **Battle Value:** 1466
+- [*More Info*](daedalus/daedalus_dad-4a.md)
 
 ## Daedalus DAD-4B
 - **Role:** Striker
@@ -124,6 +130,7 @@
   - Supercharger
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/792/daedalus-dad-4b)
 - **Battle Value:** 1431
+- [*More Info*](daedalus/daedalus_dad-4b.md)
 
 ## Daedalus DAD-DX
 - **Role:** Undefined
@@ -143,4 +150,5 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8105/daedalus-dad-dx)
 - **Battle Value:** 1606
+- [*More Info*](daedalus/daedalus_dad-dx.md)
 

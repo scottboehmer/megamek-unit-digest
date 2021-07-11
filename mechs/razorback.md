@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4904/razorback-rzk-9s)
 - **Battle Value:** 855
+- [*More Info*](razorback/razorback_rzk-9s.md)
 
 ## Razorback RZK-9T
 - **Role:** Striker
@@ -27,6 +28,7 @@
   - ER Medium Laser × 4
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4905/razorback-rzk-9t)
 - **Battle Value:** 1149
+- [*More Info*](razorback/razorback_rzk-9t.md)
 
 ## Razorback RZK-10T
 - **Role:** Striker
@@ -40,6 +42,7 @@
   - ER Small Laser × 4
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5662/razorback-rzk-10t)
 - **Battle Value:** 1172
+- [*More Info*](razorback/razorback_rzk-10t.md)
 
 ## Razorback RZK-10S
 - **Role:** Striker
@@ -59,4 +62,5 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5661/razorback-rzk-10s)
 - **Battle Value:** 821
+- [*More Info*](razorback/razorback_rzk-10s.md)
 

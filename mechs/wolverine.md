@@ -13,6 +13,7 @@
   - Medium Laser
 - **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r)
 - **Battle Value:** 885
+- [*More Info*](wolverine/wolverine_wvr-1r.md)
 
 ## Wolverine WVR-3R
 - **Role:** Skirmisher
@@ -29,6 +30,7 @@
   - Medium Laser
 - **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7408/wolverine-wvr-3r)
 - **Battle Value:** 867
+- [*More Info*](wolverine/wolverine_wvr-3r.md)
 
 ## Wolverine WVR-6R
 - **Role:** Skirmisher
@@ -44,6 +46,7 @@
   - Medium Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3573/wolverine-wvr-6r)
 - **Battle Value:** 1101
+- [*More Info*](wolverine/wolverine_wvr-6r.md)
 
 ## Wolverine WVR-6K
 - **Role:** Skirmisher
@@ -59,6 +62,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3571/wolverine-wvr-6k)
 - **Battle Value:** 1248
+- [*More Info*](wolverine/wolverine_wvr-6k.md)
 
 ## Wolverine WVR-6M
 - **Role:** Skirmisher
@@ -74,6 +78,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m)
 - **Battle Value:** 1291
+- [*More Info*](wolverine/wolverine_wvr-6m.md)
 
 ## Wolverine WVR-6D
 - **Role:** Undefined
@@ -88,6 +93,7 @@
   - Medium Laser
 - **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7430/wolverine-wvr-6d)
 - **Battle Value:** 1115
+- [*More Info*](wolverine/wolverine_wvr-6d.md)
 
 ## Wolverine WVR-7D
 - **Role:** Skirmisher
@@ -106,6 +112,7 @@
   - MASC
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d)
 - **Battle Value:** 1314
+- [*More Info*](wolverine/wolverine_wvr-7d.md)
 
 ## Wolverine WVR-7K
 - **Role:** Skirmisher
@@ -122,6 +129,7 @@
   - Small Pulse Laser
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k)
 - **Battle Value:** 1331
+- [*More Info*](wolverine/wolverine_wvr-7k.md)
 
 ## Wolverine WVR-7M
 - **Role:** Skirmisher
@@ -139,6 +147,7 @@
   - MASC
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m)
 - **Battle Value:** 1673
+- [*More Info*](wolverine/wolverine_wvr-7m.md)
 
 ## Wolverine WVR-8K
 - **Role:** Skirmisher
@@ -157,6 +166,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k)
 - **Battle Value:** 1576
+- [*More Info*](wolverine/wolverine_wvr-8k.md)
 
 ## Wolverine WVR-8D
 - **Role:** Skirmisher
@@ -176,6 +186,7 @@
   - MASC
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3578/wolverine-wvr-8d)
 - **Battle Value:** 1547
+- [*More Info*](wolverine/wolverine_wvr-8d.md)
 
 ## Wolverine WVR-9D
 - **Role:** Skirmisher
@@ -194,6 +205,7 @@
   - TAG
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3580/wolverine-wvr-9d)
 - **Battle Value:** 1369
+- [*More Info*](wolverine/wolverine_wvr-9d.md)
 
 ## Wolverine WVR-8C
 - **Role:** Skirmisher
@@ -212,6 +224,7 @@
   - C3 Slave
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c)
 - **Battle Value:** 1447
+- [*More Info*](wolverine/wolverine_wvr-8c.md)
 
 ## Wolverine WVR-9M
 - **Role:** Skirmisher
@@ -229,6 +242,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3582/wolverine-wvr-9m)
 - **Battle Value:** 1617
+- [*More Info*](wolverine/wolverine_wvr-9m.md)
 
 ## Wolverine WVR-9K
 - **Role:** Skirmisher
@@ -252,6 +266,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k)
 - **Battle Value:** 1400
+- [*More Info*](wolverine/wolverine_wvr-9k.md)
 
 ## Wolverine WVR-9W
 - **Role:** Striker
@@ -270,6 +285,7 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w)
 - **Battle Value:** 1387
+- [*More Info*](wolverine/wolverine_wvr-9w.md)
 
 ## Wolverine WVR-9W2
 - **Role:** Striker
@@ -290,4 +306,5 @@
   - C3 Slave
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2)
 - **Battle Value:** 1463
+- [*More Info*](wolverine/wolverine_wvr-9w2.md)
 

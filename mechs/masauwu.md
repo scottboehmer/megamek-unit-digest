@@ -18,4 +18,5 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7642/masauwu-standard)
 - **Battle Value:** 2299
+- [*More Info*](masauwu/masauwu.md)
 

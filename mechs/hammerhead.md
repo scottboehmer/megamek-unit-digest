@@ -15,4 +15,5 @@
   - AES × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7511/hammerhead-standard)
 - **Battle Value:** 1686
+- [*More Info*](hammerhead/hammerhead_standard.md)
 

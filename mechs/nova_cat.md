@@ -11,6 +11,7 @@
   - ER Large Laser × 3
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2306/nova-cat-prime)
 - **Battle Value:** 2530
+- [*More Info*](nova_cat/nova_cat_prime.md)
 
 ## Nova Cat A
 - **Role:** Sniper
@@ -26,6 +27,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2299/nova-cat-a)
 - **Battle Value:** 2629
+- [*More Info*](nova_cat/nova_cat_a.md)
 
 ## Nova Cat B
 - **Role:** Missile Boat
@@ -41,6 +43,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2300/nova-cat-b)
 - **Battle Value:** 2492
+- [*More Info*](nova_cat/nova_cat_b.md)
 
 ## Nova Cat C
 - **Role:** Sniper
@@ -57,6 +60,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2301/nova-cat-c)
 - **Battle Value:** 1944
+- [*More Info*](nova_cat/nova_cat_c.md)
 
 ## Nova Cat D
 - **Role:** Brawler
@@ -73,6 +77,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2302/nova-cat-d)
 - **Battle Value:** 2084
+- [*More Info*](nova_cat/nova_cat_d.md)
 
 ## Nova Cat E
 - **Role:** Brawler
@@ -88,6 +93,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2303/nova-cat-e)
 - **Battle Value:** 2191
+- [*More Info*](nova_cat/nova_cat_e.md)
 
 ## Nova Cat F
 - **Role:** Skirmisher
@@ -105,6 +111,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2304/nova-cat-f)
 - **Battle Value:** 2706
+- [*More Info*](nova_cat/nova_cat_f.md)
 
 ## Nova Cat G
 - **Role:** Missile Boat
@@ -123,6 +130,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2305/nova-cat-g)
 - **Battle Value:** 2522
+- [*More Info*](nova_cat/nova_cat_g.md)
 
 ## Nova Cat H
 - **Role:** Skirmisher
@@ -141,6 +149,7 @@
   - Supercharger
 - **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6869/nova-cat-h)
 - **Battle Value:** 2452
+- [*More Info*](nova_cat/nova_cat_h.md)
 
 ## Nova Cat I
 - **Role:** Juggernaut
@@ -157,4 +166,5 @@
   - CASE
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6870/nova-cat-i)
 - **Battle Value:** 2918
+- [*More Info*](nova_cat/nova_cat_i.md)
 

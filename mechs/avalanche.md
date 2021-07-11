@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6396/avalanche-avl-1o)
 - **Battle Value:** 1540
+- [*More Info*](avalanche/avalanche_avl-1o.md)
 
 ## Avalanche AVL-1OA
 - **Role:** Skirmisher
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6397/avalanche-avl-1oa)
 - **Battle Value:** 1484
+- [*More Info*](avalanche/avalanche_avl-1oa.md)
 
 ## Avalanche AVL-1OB
 - **Role:** Skirmisher
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6398/avalanche-avl-1ob)
 - **Battle Value:** 1529
+- [*More Info*](avalanche/avalanche_avl-1ob.md)
 
 ## Avalanche AVL-1OC
 - **Role:** Skirmisher
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6399/avalanche-avl-1oc)
 - **Battle Value:** 1341
+- [*More Info*](avalanche/avalanche_avl-1oc.md)
 
 ## Avalanche AVL-1ON
 - **Role:** Sniper
@@ -82,6 +86,7 @@
   - Clan Targeting Computer
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6400/avalanche-avl-1on)
 - **Battle Value:** 1873
+- [*More Info*](avalanche/avalanche_avl-1on.md)
 
 ## Avalanche AVL-1OR
 - **Role:** Missile Boat
@@ -99,4 +104,5 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6401/avalanche-avl-1or)
 - **Battle Value:** 2043
+- [*More Info*](avalanche/avalanche_avl-1or.md)
 

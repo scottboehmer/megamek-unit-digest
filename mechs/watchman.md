@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3534/watchman-wtc-4m)
 - **Battle Value:** 1067
+- [*More Info*](watchman/watchman_wtc-4m.md)
 
 ## Watchman WTC-4DM
 - **Role:** Skirmisher
@@ -29,6 +30,7 @@
   - Medium Laser × 3
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3533/watchman-wtc-4dm)
 - **Battle Value:** 1225
+- [*More Info*](watchman/watchman_wtc-4dm.md)
 
 ## Watchman WTC-4MB 'Belle'
 - **Role:** Undefined
@@ -45,4 +47,5 @@
   - Remote Drone Command Console
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1234
+- [*More Info*](watchman/watchman_wtc-4mb_'belle'.md)
 

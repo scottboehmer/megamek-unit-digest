@@ -14,6 +14,7 @@
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7874/burrower-dtm-1-miningmech)
 - **Battle Value:** 492
+- [*More Info*](burrower/burrower_dtm-1_miningmech.md)
 
 ## Burrower DTM-1M MiningMech MOD
 - **Role:** Ambusher
@@ -30,4 +31,5 @@
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7875/burrower-dtm-1m-miningmech-mod)
 - **Battle Value:** 556
+- [*More Info*](burrower/burrower_dtm-1m_miningmech_mod.md)
 

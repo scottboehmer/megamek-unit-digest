@@ -16,6 +16,7 @@
   - Ejection Seat
 - **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4529/heavy-forester-hfl-1-loggermech)
 - **Battle Value:** 433
+- [*More Info*](heavy_forester/heavy_forester_hfl-1_loggermech.md)
 
 ## Heavy Forester HFL-1M LoggerMech MOD
 - **Role:** Sniper
@@ -33,4 +34,5 @@
   - Ejection Seat
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7871/heavy-forester-hfl-1m-loggermech-mod)
 - **Battle Value:** 465
+- [*More Info*](heavy_forester/heavy_forester_hfl-1m_loggermech_mod.md)
 

@@ -14,6 +14,7 @@
   - Beagle Active Probe
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2307/nyx-nx-80)
 - **Battle Value:** 924
+- [*More Info*](nyx/nyx_nx-80.md)
 
 ## Nyx NX-80C
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - C3 Slave
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c)
 - **Battle Value:** 874
+- [*More Info*](nyx/nyx_nx-80c.md)
 
 ## Nyx NX-90
 - **Role:** Scout
@@ -44,6 +46,7 @@
   - Lance × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2309/nyx-nx-90)
 - **Battle Value:** 613
+- [*More Info*](nyx/nyx_nx-90.md)
 
 ## Nyx NX-100
 - **Role:** Scout
@@ -57,6 +60,7 @@
   - MML 3 × 3 (ammo: 40 LRM, 33 SRM)
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6937/nyx-nx-100)
 - **Battle Value:** 917
+- [*More Info*](nyx/nyx_nx-100.md)
 
 ## Nyx NX-110
 - **Role:** Scout
@@ -73,4 +77,5 @@
   - C3 Slave
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6936/nyx-nx-110)
 - **Battle Value:** 805
+- [*More Info*](nyx/nyx_nx-110.md)
 

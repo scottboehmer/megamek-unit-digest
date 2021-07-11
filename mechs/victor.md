@@ -15,6 +15,7 @@
   - Machine Gun (ammo: 100)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3407/victor-vtr-9a)
 - **Battle Value:** 1236
+- [*More Info*](victor/victor_vtr-9a.md)
 
 ## Victor VTR-9A1
 - **Role:** Skirmisher
@@ -31,6 +32,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3408/victor-vtr-9a1)
 - **Battle Value:** 1302
+- [*More Info*](victor/victor_vtr-9a1.md)
 
 ## Victor VTR-9B
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3409/victor-vtr-9b)
 - **Battle Value:** 1378
+- [*More Info*](victor/victor_vtr-9b.md)
 
 ## Victor VTR-9B (Shoji)
 - **Role:** Skirmisher
@@ -61,6 +64,7 @@
   - SRM 4 (ammo: 0)
 - **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/5864/victor-vtr-9b-shoji)
 - **Battle Value:** 1543
+- [*More Info*](victor/victor_vtr-9b_shoji.md)
 
 ## Victor VTR-9S
 - **Role:** Skirmisher
@@ -76,6 +80,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3414/victor-vtr-9s)
 - **Battle Value:** 1360
+- [*More Info*](victor/victor_vtr-9s.md)
 
 ## Victor VTR-9B (Li)
 - **Role:** Skirmisher
@@ -90,6 +95,7 @@
   - Medium Laser × 10
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3402/victor-vtr-9b-li)
 - **Battle Value:** 1625
+- [*More Info*](victor/victor_vtr-9b_li.md)
 
 ## Victor VTR-9D
 - **Role:** Skirmisher
@@ -107,6 +113,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3410/victor-vtr-9d)
 - **Battle Value:** 1717
+- [*More Info*](victor/victor_vtr-9d.md)
 
 ## Victor VTR-9K
 - **Role:** Skirmisher
@@ -124,6 +131,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3411/victor-vtr-9k)
 - **Battle Value:** 1717
+- [*More Info*](victor/victor_vtr-9k.md)
 
 ## Victor C
 - **Role:** Skirmisher
@@ -141,6 +149,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3403/victor-c)
 - **Battle Value:** 1950
+- [*More Info*](victor/victor_c.md)
 
 ## Victor VTR-C
 - **Role:** Skirmisher
@@ -159,6 +168,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3415/victor-vtr-c)
 - **Battle Value:** 1717
+- [*More Info*](victor/victor_vtr-c.md)
 
 ## Victor VTR-10S
 - **Role:** Brawler
@@ -176,6 +186,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5458/victor-vtr-10s)
 - **Battle Value:** 2034
+- [*More Info*](victor/victor_vtr-10s.md)
 
 ## Victor VTR-10D
 - **Role:** Skirmisher
@@ -193,6 +204,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3404/victor-vtr-10d)
 - **Battle Value:** 1894
+- [*More Info*](victor/victor_vtr-10d.md)
 
 ## Victor VTR-11D
 - **Role:** Skirmisher
@@ -211,6 +223,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3406/victor-vtr-11d)
 - **Battle Value:** 2021
+- [*More Info*](victor/victor_vtr-11d.md)
 
 ## Victor VTR-10L
 - **Role:** Skirmisher
@@ -229,6 +242,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3405/victor-vtr-10l)
 - **Battle Value:** 2279
+- [*More Info*](victor/victor_vtr-10l.md)
 
 ## Victor VTR-9K2 (St. James)
 - **Role:** Missile Boat
@@ -245,6 +259,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3412/victor-vtr-9k2-stjames)
 - **Battle Value:** 2006
+- [*More Info*](victor/victor_vtr-9k2_st._james.md)
 
 ## Victor VTR-Cr
 - **Role:** Skirmisher
@@ -263,6 +278,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3416/victor-vtr-cr)
 - **Battle Value:** 1465
+- [*More Info*](victor/victor_vtr-cr.md)
 
 ## Victor VTR-9Ka
 - **Role:** Skirmisher
@@ -279,4 +295,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3413/victor-vtr-9ka)
 - **Battle Value:** 1594
+- [*More Info*](victor/victor_vtr-9ka.md)
 

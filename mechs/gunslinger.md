@@ -17,6 +17,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1347/gunslinger-gun-1erd)
 - **Battle Value:** 2286
+- [*More Info*](gunslinger/gunslinger_gun-1erd.md)
 
 ## Gunslinger GUN-2ERD
 - **Role:** Juggernaut
@@ -34,6 +35,7 @@
   - C3 Master
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1349/gunslinger-gun-2erd)
 - **Battle Value:** 2423
+- [*More Info*](gunslinger/gunslinger_gun-2erd.md)
 
 ## Gunslinger GUN-1ERD (Jared)
 - **Role:** Missile Boat
@@ -53,6 +55,7 @@
   - Beagle Active Probe
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1348/gunslinger-gun-1erd-jared)
 - **Battle Value:** 1813
+- [*More Info*](gunslinger/gunslinger_gun-1erd_jared.md)
 
 ## Gunslinger GUN-2ERDr
 - **Role:** Juggernaut
@@ -70,4 +73,5 @@
   - C3 BoostedMaster
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1350/gunslinger-gun-2erdr)
 - **Battle Value:** 2371
+- [*More Info*](gunslinger/gunslinger_gun-2erdr.md)
 

@@ -11,6 +11,7 @@
   - ER Medium Laser × 3
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2757/ryoken-stormcrow-prime)
 - **Battle Value:** 2073
+- [*More Info*](stormcrow/stormcrow_prime.md)
 
 ## Stormcrow "Ryoken" A
 - **Role:** Striker
@@ -27,6 +28,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2749/ryoken-stormcrow-a)
 - **Battle Value:** 2319
+- [*More Info*](stormcrow/stormcrow_a.md)
 
 ## Stormcrow "Ryoken" B
 - **Role:** Striker
@@ -42,6 +44,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2750/ryoken-stormcrow-b)
 - **Battle Value:** 2281
+- [*More Info*](stormcrow/stormcrow_b.md)
 
 ## Stormcrow "Ryoken" C
 - **Role:** Striker
@@ -58,6 +61,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2751/ryoken-stormcrow-c)
 - **Battle Value:** 1881
+- [*More Info*](stormcrow/stormcrow_c.md)
 
 ## Stormcrow "Ryoken" D
 - **Role:** Missile Boat
@@ -74,6 +78,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2752/ryoken-stormcrow-d)
 - **Battle Value:** 1863
+- [*More Info*](stormcrow/stormcrow_d.md)
 
 ## Stormcrow "Ryoken" Attwater
 - **Role:** Undefined
@@ -90,6 +95,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7591/ryoken-stormcrow-attwater)
 - **Battle Value:** 1482
+- [*More Info*](stormcrow/stormcrow_attwater.md)
 
 ## Stormcrow "Ryoken" TC
 - **Role:** Undefined
@@ -106,6 +112,7 @@
   - Targeting Computer
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7592/ryoken-stormcrow-tc)
 - **Battle Value:** 2373
+- [*More Info*](stormcrow/stormcrow_tc.md)
 
 ## Stormcrow "Ryoken" E
 - **Role:** Striker
@@ -123,6 +130,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2753/ryoken-stormcrow-e)
 - **Battle Value:** 2110
+- [*More Info*](stormcrow/stormcrow_e.md)
 
 ## Stormcrow "Ryoken" (Kotare)
 - **Role:** Skirmisher
@@ -139,6 +147,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5488/ryoken-stormcrow-kotare)
 - **Battle Value:** 2382
+- [*More Info*](stormcrow/stormcrow_kotare.md)
 
 ## Stormcrow "Ryoken" H
 - **Role:** Striker
@@ -152,6 +161,7 @@
   - ER Medium Laser × 3
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2756/ryoken-stormcrow-h)
 - **Battle Value:** 2061
+- [*More Info*](stormcrow/stormcrow_h.md)
 
 ## Stormcrow "Ryoken" I
 - **Role:** Sniper
@@ -169,6 +179,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5487/ryoken-stormcrow-i)
 - **Battle Value:** 2319
+- [*More Info*](stormcrow/stormcrow_i.md)
 
 ## Stormcrow "Ryoken" G
 - **Role:** Striker
@@ -184,6 +195,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2755/ryoken-stormcrow-g)
 - **Battle Value:** 2152
+- [*More Info*](stormcrow/stormcrow_g.md)
 
 ## Stormcrow "Ryoken" F
 - **Role:** Striker
@@ -201,6 +213,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2754/ryoken-stormcrow-f)
 - **Battle Value:** 2227
+- [*More Info*](stormcrow/stormcrow_f.md)
 
 ## Stormcrow "Ryoken" Z
 - **Role:** Striker
@@ -218,6 +231,7 @@
   - Supercharger
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5820/ryoken-stormcrow-z)
 - **Battle Value:** 2855
+- [*More Info*](stormcrow/stormcrow_z.md)
 
 ## Stormcrow "Ryoken" J
 - **Role:** Striker
@@ -234,6 +248,7 @@
   - Targeting Computer
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7553/ryoken-stormcrow-j)
 - **Battle Value:** 2300
+- [*More Info*](stormcrow/stormcrow_j.md)
 
 ## Stormcrow "Ryoken" K
 - **Role:** Striker
@@ -249,6 +264,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7554/ryoken-stormcrow-k)
 - **Battle Value:** 2001
+- [*More Info*](stormcrow/stormcrow_k.md)
 
 ## Stormcrow "Ryoken" P
 - **Role:** Striker
@@ -265,6 +281,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7555/ryoken-stormcrow-p)
 - **Battle Value:** 2213
+- [*More Info*](stormcrow/stormcrow_p.md)
 
 ## Stormcrow "Ryoken" T
 - **Role:** Striker
@@ -282,4 +299,5 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7550/ryoken-stormcrow-t)
 - **Battle Value:** 2280
+- [*More Info*](stormcrow/stormcrow_t.md)
 

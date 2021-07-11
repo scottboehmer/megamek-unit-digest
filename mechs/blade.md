@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/391/blade-bld-xl)
 - **Battle Value:** 1314
+- [*More Info*](blade/blade_bld-xl.md)
 
 ## Blade BLD-XS
 - **Role:** Striker
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/392/blade-bld-xs)
 - **Battle Value:** 944
+- [*More Info*](blade/blade_bld-xs.md)
 
 ## Blade BLD-XX
 - **Role:** Striker
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/393/blade-bld-xx)
 - **Battle Value:** 1064
+- [*More Info*](blade/blade_bld-xx.md)
 
 ## Blade BLD-7R
 - **Role:** Striker
@@ -60,6 +63,7 @@
   - ER Small Laser
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r)
 - **Battle Value:** 1227
+- [*More Info*](blade/blade_bld-7r.md)
 
 ## Blade BLD-XR
 - **Role:** Sniper
@@ -75,4 +79,5 @@
   - Light AC/2 × 2 (ammo: 90)
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7345/blade-bld-xr)
 - **Battle Value:** 1101
+- [*More Info*](blade/blade_bld-xr.md)
 

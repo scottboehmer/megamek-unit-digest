@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/818/daishi-dire-wolf-prime)
 - **Battle Value:** 2712
+- [*More Info*](dire_wolf/dire_wolf_prime.md)
 
 ## Dire Wolf "Daishi" A
 - **Role:** Juggernaut
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/813/daishi-dire-wolf-a)
 - **Battle Value:** 2855
+- [*More Info*](dire_wolf/dire_wolf_a.md)
 
 ## Dire Wolf "Daishi" B
 - **Role:** Sniper
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/814/daishi-dire-wolf-b)
 - **Battle Value:** 2609
+- [*More Info*](dire_wolf/dire_wolf_b.md)
 
 ## Dire Wolf "Daishi" W
 - **Role:** Juggernaut
@@ -69,6 +72,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/821/daishi-dire-wolf-w)
 - **Battle Value:** 2951
+- [*More Info*](dire_wolf/dire_wolf_w.md)
 
 ## Dire Wolf "Daishi" 'Widowmaker'
 - **Role:** Juggernaut
@@ -87,6 +91,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/811/daishi-dire-wolf-widowmaker)
 - **Battle Value:** 3041
+- [*More Info*](dire_wolf/dire_wolf_'widowmaker'.md)
 
 ## Dire Wolf "Daishi" S
 - **Role:** Juggernaut
@@ -107,6 +112,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/819/daishi-dire-wolf-s)
 - **Battle Value:** 2985
+- [*More Info*](dire_wolf/dire_wolf_s.md)
 
 ## Dire Wolf "Daishi" 'Prometheus'
 - **Role:** Juggernaut
@@ -124,6 +130,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/810/daishi-dire-wolf-prometheus)
 - **Battle Value:** 2900
+- [*More Info*](dire_wolf/dire_wolf_'prometheus'.md)
 
 ## Dire Wolf "Daishi" (Hohiro)
 - **Role:** Sniper
@@ -142,6 +149,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/812/daishi-dire-wolf-hohiro)
 - **Battle Value:** 3048
+- [*More Info*](dire_wolf/dire_wolf_hohiro.md)
 
 ## Dire Wolf "Daishi" C
 - **Role:** Juggernaut
@@ -162,6 +170,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/815/daishi-dire-wolf-c)
 - **Battle Value:** 3610
+- [*More Info*](dire_wolf/dire_wolf_c.md)
 
 ## Dire Wolf "Daishi" H
 - **Role:** Juggernaut
@@ -180,6 +189,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/817/daishi-dire-wolf-h)
 - **Battle Value:** 2992
+- [*More Info*](dire_wolf/dire_wolf_h.md)
 
 ## Dire Wolf "Daishi" X
 - **Role:** Juggernaut
@@ -203,6 +213,7 @@
   - CASE
 - **Sources:** RecGuide 13 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4046/daishi-dire-wolf-x)
 - **Battle Value:** 2645
+- [*More Info*](dire_wolf/dire_wolf_x.md)
 
 ## Dire Wolf "Daishi" D
 - **Role:** Juggernaut
@@ -220,6 +231,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/816/daishi-dire-wolf-d)
 - **Battle Value:** 3403
+- [*More Info*](dire_wolf/dire_wolf_d.md)
 
 ## Dire Wolf "Daishi" U
 - **Role:** Juggernaut
@@ -240,6 +252,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/820/daishi-dire-wolf-u)
 - **Battle Value:** 3360
+- [*More Info*](dire_wolf/dire_wolf_u.md)
 
 ## Dire Wolf "Daishi" E
 - **Role:** Juggernaut
@@ -257,6 +270,7 @@
   - CASE II
 - **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e)
 - **Battle Value:** 2814
+- [*More Info*](dire_wolf/dire_wolf_e.md)
 
 ## Dire Wolf "Daishi" T
 - **Role:** Juggernaut
@@ -276,4 +290,5 @@
   - Supercharger
 - **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8133/daishi-dire-wolf-t)
 - **Battle Value:** 3317
+- [*More Info*](dire_wolf/dire_wolf_t.md)
 

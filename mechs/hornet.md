@@ -13,6 +13,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1545/hornet-hnt-151)
 - **Battle Value:** 488
+- [*More Info*](hornet/hornet_hnt-151.md)
 
 ## Hornet HNT-152
 - **Role:** Striker
@@ -28,6 +29,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1546/hornet-hnt-152)
 - **Battle Value:** 475
+- [*More Info*](hornet/hornet_hnt-152.md)
 
 ## Hornet HNT-171
 - **Role:** Striker
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1548/hornet-hnt-171)
 - **Battle Value:** 535
+- [*More Info*](hornet/hornet_hnt-171.md)
 
 ## Hornet HNT-161
 - **Role:** Striker
@@ -62,6 +65,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1547/hornet-hnt-161)
 - **Battle Value:** 511
+- [*More Info*](hornet/hornet_hnt-161.md)
 
 ## Hornet HNT-181
 - **Role:** Striker
@@ -79,6 +83,7 @@
   - CASE
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181)
 - **Battle Value:** 398
+- [*More Info*](hornet/hornet_hnt-181.md)
 
 ## Hornet HNT-182
 - **Role:** Striker
@@ -95,4 +100,5 @@
   - CASE
 - **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7343/hornet-hnt-182)
 - **Battle Value:** 505
+- [*More Info*](hornet/hornet_hnt-182.md)
 

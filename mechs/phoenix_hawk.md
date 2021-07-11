@@ -13,6 +13,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2491/phoenix-hawk-pxh-1)
 - **Battle Value:** 1041
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1.md)
 
 ## Phoenix Hawk PXH-1D
 - **Role:** Skirmisher
@@ -27,6 +28,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2494/phoenix-hawk-pxh-1d)
 - **Battle Value:** 1083
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1d.md)
 
 ## Phoenix Hawk PXH-2
 - **Role:** Striker
@@ -43,6 +45,7 @@
   - Guardian ECM Suite
 - **Sources:** Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2)
 - **Battle Value:** 1145
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-2.md)
 
 ## Phoenix Hawk PXH-1K
 - **Role:** Skirmisher
@@ -57,6 +60,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k)
 - **Battle Value:** 1073
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1k.md)
 
 ## Phoenix Hawk PXH-1Kk
 - **Role:** Skirmisher
@@ -71,6 +75,7 @@
   - Small Laser
 - **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5872/phoenix-hawk-pxh-1kk)
 - **Battle Value:** 1139
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1kk.md)
 
 ## Phoenix Hawk PXH-1b (Special)
 - **Role:** Skirmisher
@@ -90,6 +95,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2492/phoenix-hawk-pxh-1b-special)
 - **Battle Value:** 1512
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1b_special.md)
 
 ## Phoenix Hawk PXH-1c (Special)
 - **Role:** Striker
@@ -109,6 +115,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2493/phoenix-hawk-pxh-1c-special)
 - **Battle Value:** 1443
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1c_special.md)
 
 ## Phoenix Hawk PXH-1-EC
 - **Role:** Skirmisher
@@ -125,6 +132,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7678/phoenix-hawk-pxh-1-ec)
 - **Battle Value:** 1206
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1-ec.md)
 
 ## Phoenix Hawk C
 - **Role:** Striker
@@ -142,6 +150,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7752/phoenix-hawk-c)
 - **Battle Value:** 1396
+- [*More Info*](phoenix_hawk/phoenix_hawk_c.md)
 
 ## Phoenix Hawk PXH-3S
 - **Role:** Striker
@@ -161,6 +170,7 @@
   - MASC
 - **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2502/phoenix-hawk-pxh-3s)
 - **Battle Value:** 1237
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3s.md)
 
 ## Phoenix Hawk PXH-3M
 - **Role:** Striker
@@ -179,6 +189,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m)
 - **Battle Value:** 1307
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m.md)
 
 ## Phoenix Hawk PXH-3D
 - **Role:** Striker
@@ -195,6 +206,7 @@
   - Anti-Missile System (ammo: 24)
 - **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d)
 - **Battle Value:** 1315
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3d.md)
 
 ## Phoenix Hawk PXH-2K
 - **Role:** Striker
@@ -209,6 +221,7 @@
   - Small Laser
 - **Sources:** ilClan Vol 11 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2497/phoenix-hawk-pxh-2k)
 - **Battle Value:** 1271
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-2k.md)
 
 ## Phoenix Hawk PXH-3K
 - **Role:** Striker
@@ -223,6 +236,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** ilClan Vol 11 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2498/phoenix-hawk-pxh-3k)
 - **Battle Value:** 1359
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3k.md)
 
 ## Phoenix Hawk PXH-3M (Masters)
 - **Role:** Striker
@@ -242,6 +256,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2500/phoenix-hawk-pxh-3m-masters)
 - **Battle Value:** 1154
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m_masters.md)
 
 ## Phoenix Hawk PXH-1bC
 - **Role:** Skirmisher
@@ -261,6 +276,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7602/phoenix-hawk-pxh-1bc)
 - **Battle Value:** 1174
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1bc.md)
 
 ## Phoenix Hawk PXH-3D (Jiemin)
 - **Role:** Undefined
@@ -275,6 +291,7 @@
   - Medium X-Pulse Laser
 - **Sources:** Fronc Reaches, [Master Unit List](http://masterunitlist.info/Unit/Details/7699/phoenix-hawk-pxh-3d-jiemin)
 - **Battle Value:** 1322
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md)
 
 ## Phoenix Hawk PXH-4L
 - **Role:** Striker
@@ -292,6 +309,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2503/phoenix-hawk-pxh-4l)
 - **Battle Value:** 1282
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l.md)
 
 ## Phoenix Hawk PXH-3PL
 - **Role:** Striker
@@ -309,6 +327,7 @@
   - Targeting Computer
 - **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2501/phoenix-hawk-pxh-3pl)
 - **Battle Value:** 1244
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3pl.md)
 
 ## Phoenix Hawk PXH-6D
 - **Role:** Striker
@@ -325,6 +344,7 @@
   - Targeting Computer
 - **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2506/phoenix-hawk-pxh-6d)
 - **Battle Value:** 1665
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-6d.md)
 
 ## Phoenix Hawk PXH-7CS
 - **Role:** Skirmisher
@@ -342,6 +362,7 @@
   - C3i
 - **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2507/phoenix-hawk-pxh-7cs)
 - **Battle Value:** 1281
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7cs.md)
 
 ## Phoenix Hawk PXH-7S
 - **Role:** Striker
@@ -359,6 +380,7 @@
   - MASC
 - **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2509/phoenix-hawk-pxh-7s)
 - **Battle Value:** 1496
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7s.md)
 
 ## Phoenix Hawk PXH-4L (Sante)
 - **Role:** Striker
@@ -377,6 +399,7 @@
   - TAG
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5807/phoenix-hawk-pxh-4l-sante)
 - **Battle Value:** 1442
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l_sante.md)
 
 ## Phoenix Hawk PXH-5L
 - **Role:** Brawler
@@ -393,6 +416,7 @@
   - Guardian ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2505/phoenix-hawk-pxh-5l)
 - **Battle Value:** 1530
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-5l.md)
 
 ## Phoenix Hawk PXH-7K
 - **Role:** Striker
@@ -409,6 +433,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k)
 - **Battle Value:** 1241
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7k.md)
 
 ## Phoenix Hawk PXH-4W
 - **Role:** Striker
@@ -426,6 +451,7 @@
   - Guardian ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2504/phoenix-hawk-pxh-4w)
 - **Battle Value:** 1395
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4w.md)
 
 ## Phoenix Hawk PXH-8CS
 - **Role:** Striker
@@ -443,6 +469,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs)
 - **Battle Value:** 1442
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-8cs.md)
 
 ## Phoenix Hawk PXH-4M
 - **Role:** Striker
@@ -458,6 +485,7 @@
   - Small X-Pulse Laser × 2
 - **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7750/phoenix-hawk-pxh-4m)
 - **Battle Value:** 1327
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4m.md)
 
 ## Phoenix Hawk PXH-7KJ 'Jasmine'
 - **Role:** Undefined
@@ -476,6 +504,7 @@
   - Remote Drone Command Console
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1513
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7kj_'jasmine'.md)
 
 ## Phoenix Hawk PXH-99
 - **Role:** Undefined
@@ -494,6 +523,7 @@
   - Modular Armor × 4
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8106/phoenix-hawk-pxh-99)
 - **Battle Value:** 1444
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-99.md)
 
 ## Phoenix Hawk C 2
 - **Role:** Striker
@@ -512,6 +542,7 @@
   - Supercharger
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7753/phoenix-hawk-c-2)
 - **Battle Value:** 2187
+- [*More Info*](phoenix_hawk/phoenix_hawk_c_2.md)
 
 ## Phoenix Hawk PXH-9
 - **Role:** Striker
@@ -529,4 +560,5 @@
   - CASE II
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7751/phoenix-hawk-pxh-9)
 - **Battle Value:** 1244
+- [*More Info*](phoenix_hawk/phoenix_hawk_pxh-9.md)
 

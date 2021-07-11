@@ -16,6 +16,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4730/no-dachi-nda-1k)
 - **Battle Value:** 1708
+- [*More Info*](no-dachi/no-dachi_nda-1k.md)
 
 ## No-Dachi NDA-2K
 - **Role:** Brawler
@@ -35,6 +36,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4732/no-dachi-nda-2k)
 - **Battle Value:** 1739
+- [*More Info*](no-dachi/no-dachi_nda-2k.md)
 
 ## No-Dachi NDA-2KO
 - **Role:** Brawler
@@ -54,6 +56,7 @@
   - Flamer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4733/no-dachi-nda-2ko)
 - **Battle Value:** 1728
+- [*More Info*](no-dachi/no-dachi_nda-2ko.md)
 
 ## No-Dachi NDA-2KC
 - **Role:** Skirmisher
@@ -75,6 +78,7 @@
   - C3 Slave
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2297/no-dachi-nda-2kc)
 - **Battle Value:** 1705
+- [*More Info*](no-dachi/no-dachi_nda-2kc.md)
 
 ## No-Dachi NDA-3X
 - **Role:** Missile Boat
@@ -94,6 +98,7 @@
   - Clan Supercharger
 - **Sources:** XTRO Kurita - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2298/no-dachi-nda-3x)
 - **Battle Value:** 2609
+- [*More Info*](no-dachi/no-dachi_nda-3x.md)
 
 ## No-Dachi NDA-3S
 - **Role:** Brawler
@@ -114,4 +119,5 @@
   - Guardian ECM Suite
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692/no-dachi-nda-3s)
 - **Battle Value:** 1706
+- [*More Info*](no-dachi/no-dachi_nda-3s.md)
 

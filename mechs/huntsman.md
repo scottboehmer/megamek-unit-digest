@@ -21,6 +21,7 @@
   - TAG
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2296/nobori-nin-huntsman-prime)
 - **Battle Value:** 2108
+- [*More Info*](huntsman/huntsman_prime.md)
 
 ## Huntsman "Nobori-nin" A
 - **Role:** Sniper
@@ -38,6 +39,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2289/nobori-nin-huntsman-a)
 - **Battle Value:** 2034
+- [*More Info*](huntsman/huntsman_a.md)
 
 ## Huntsman "Nobori-nin" B
 - **Role:** Skirmisher
@@ -56,6 +58,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2290/nobori-nin-huntsman-b)
 - **Battle Value:** 2156
+- [*More Info*](huntsman/huntsman_b.md)
 
 ## Huntsman "Nobori-nin" C
 - **Role:** Missile Boat
@@ -77,6 +80,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2291/nobori-nin-huntsman-c)
 - **Battle Value:** 2199
+- [*More Info*](huntsman/huntsman_c.md)
 
 ## Huntsman "Nobori-nin" D
 - **Role:** Skirmisher
@@ -95,6 +99,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2292/nobori-nin-huntsman-d)
 - **Battle Value:** 2007
+- [*More Info*](huntsman/huntsman_d.md)
 
 ## Huntsman "Nobori-nin" H
 - **Role:** Skirmisher
@@ -114,6 +119,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2294/nobori-nin-huntsman-h)
 - **Battle Value:** 2495
+- [*More Info*](huntsman/huntsman_h.md)
 
 ## Huntsman "Nobori-nin" N
 - **Role:** Sniper
@@ -133,6 +139,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2295/nobori-nin-huntsman-n)
 - **Battle Value:** 2556
+- [*More Info*](huntsman/huntsman_n.md)
 
 ## Huntsman "Nobori-nin" E
 - **Role:** Skirmisher
@@ -154,6 +161,7 @@
   - CASE
 - **Sources:** ilClan Vol 12 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7782/nobori-nin-huntsman-e)
 - **Battle Value:** 2104
+- [*More Info*](huntsman/huntsman_e.md)
 
 ## Huntsman "Nobori-nin" I
 - **Role:** Sniper
@@ -172,6 +180,7 @@
   - CASE
 - **Sources:** ilClan Vol 12 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7784/nobori-nin-huntsman-i)
 - **Battle Value:** 2277
+- [*More Info*](huntsman/huntsman_i.md)
 
 ## Huntsman "Nobori-nin" F
 - **Role:** Skirmisher
@@ -191,6 +200,7 @@
   - CASE II
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6904/nobori-nin-huntsman-f)
 - **Battle Value:** 2367
+- [*More Info*](huntsman/huntsman_f.md)
 
 ## Huntsman "Nobori-nin" G
 - **Role:** Skirmisher
@@ -212,6 +222,7 @@
   - CASE II
 - **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7783/nobori-nin-huntsman-g)
 - **Battle Value:** 2377
+- [*More Info*](huntsman/huntsman_g.md)
 
 ## Huntsman "Nobori-nin" T
 - **Role:** Skirmisher
@@ -235,4 +246,5 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7781/nobori-nin-huntsman-t)
 - **Battle Value:** 2105
+- [*More Info*](huntsman/huntsman_t.md)
 

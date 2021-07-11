@@ -15,6 +15,7 @@
   - Remote Sensor Dispenser
 - **Sources:** XTRO Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5795/cataphract-ctf-0x)
 - **Battle Value:** 1258
+- [*More Info*](cataphract/cataphract_ctf-0x.md)
 
 ## Cataphract CTF-1X
 - **Role:** Brawler
@@ -29,6 +30,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/466/cataphract-ctf-1x)
 - **Battle Value:** 1316
+- [*More Info*](cataphract/cataphract_ctf-1x.md)
 
 ## Cataphract CTF-2X
 - **Role:** Brawler
@@ -44,6 +46,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/467/cataphract-ctf-2x)
 - **Battle Value:** 1344
+- [*More Info*](cataphract/cataphract_ctf-2x.md)
 
 ## Cataphract CTF-4X
 - **Role:** Sniper
@@ -58,6 +61,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/474/cataphract-ctf-4x)
 - **Battle Value:** 1216
+- [*More Info*](cataphract/cataphract_ctf-4x.md)
 
 ## Cataphract CTF-2X (George)
 - **Role:** Brawler
@@ -73,6 +77,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/468/cataphract-ctf-2x-george)
 - **Battle Value:** 1337
+- [*More Info*](cataphract/cataphract_ctf-2x_george.md)
 
 ## Cataphract CTF-3D
 - **Role:** Sniper
@@ -90,6 +95,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/469/cataphract-ctf-3d)
 - **Battle Value:** 1325
+- [*More Info*](cataphract/cataphract_ctf-3d.md)
 
 ## Cataphract CTF-3L
 - **Role:** Sniper
@@ -106,6 +112,7 @@
   - MASC
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/470/cataphract-ctf-3l)
 - **Battle Value:** 1545
+- [*More Info*](cataphract/cataphract_ctf-3l.md)
 
 ## Cataphract CTF-3X (Sara)
 - **Role:** Brawler
@@ -123,6 +130,7 @@
   - CASE
 - **Sources:** Starterbook: Sword and Dragon - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/472/cataphract-ctf-3x-sara)
 - **Battle Value:** 1734
+- [*More Info*](cataphract/cataphract_ctf-3x_sara.md)
 
 ## Cataphract CTF-4L
 - **Role:** Sniper
@@ -140,6 +148,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/473/cataphract-ctf-4l)
 - **Battle Value:** 2002
+- [*More Info*](cataphract/cataphract_ctf-4l.md)
 
 ## Cataphract CTF-5MOC (Naomi)
 - **Role:** Brawler
@@ -161,6 +170,7 @@
   - Guardian ECM Suite
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/476/cataphract-ctf-5moc-naomi)
 - **Battle Value:** 2028
+- [*More Info*](cataphract/cataphract_ctf-5moc_naomi.md)
 
 ## Cataphract CTF-3LL
 - **Role:** Skirmisher
@@ -178,6 +188,7 @@
   - MASC
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/471/cataphract-ctf-3ll)
 - **Battle Value:** 1664
+- [*More Info*](cataphract/cataphract_ctf-3ll.md)
 
 ## Cataphract CTF-5D
 - **Role:** Skirmisher
@@ -197,6 +208,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/475/cataphract-ctf-5d)
 - **Battle Value:** 1742
+- [*More Info*](cataphract/cataphract_ctf-5d.md)
 
 ## Cataphract CTF-5L
 - **Role:** Sniper
@@ -215,4 +227,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7527/cataphract-ctf-5l)
 - **Battle Value:** 2090
+- [*More Info*](cataphract/cataphract_ctf-5l.md)
 

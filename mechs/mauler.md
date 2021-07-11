@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2101/mauler-mal-1r)
 - **Battle Value:** 1460
+- [*More Info*](mauler/mauler_mal-1r.md)
 
 ## Mauler MAL-C
 - **Role:** Sniper
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2103/mauler-mal-c)
 - **Battle Value:** 1473
+- [*More Info*](mauler/mauler_mal-c.md)
 
 ## Mauler MAL-2R
 - **Role:** Juggernaut
@@ -47,6 +49,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5460/mauler-mal-2r)
 - **Battle Value:** 1586
+- [*More Info*](mauler/mauler_mal-2r.md)
 
 ## Mauler MAL-3R
 - **Role:** Sniper
@@ -64,6 +67,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r)
 - **Battle Value:** 1877
+- [*More Info*](mauler/mauler_mal-3r.md)
 
 ## Mauler MAL-1K
 - **Role:** Juggernaut
@@ -78,6 +82,7 @@
   - Light AC/5 × 4 (ammo: 80)
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2100/mauler-mal-1k)
 - **Battle Value:** 1622
+- [*More Info*](mauler/mauler_mal-1k.md)
 
 ## Mauler MAL-4X 'Todesbote'
 - **Role:** Juggernaut
@@ -93,4 +98,5 @@
   - CASE II
 - **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5784/mauler-mal-4x-todesbote)
 - **Battle Value:** 1904
+- [*More Info*](mauler/mauler_mal-4x_'todesbote'.md)
 

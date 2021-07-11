@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/926/dragonfly-viper-prime)
 - **Battle Value:** 1450
+- [*More Info*](viper/viper_prime.md)
 
 ## Viper "Dragonfly" A
 - **Role:** Striker
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/917/dragonfly-viper-a)
 - **Battle Value:** 1989
+- [*More Info*](viper/viper_a.md)
 
 ## Viper "Dragonfly" B
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - Flamer
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/918/dragonfly-viper-b)
 - **Battle Value:** 1830
+- [*More Info*](viper/viper_b.md)
 
 ## Viper "Dragonfly" C
 - **Role:** Striker
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/919/dragonfly-viper-c)
 - **Battle Value:** 1344
+- [*More Info*](viper/viper_c.md)
 
 ## Viper "Dragonfly" D
 - **Role:** Striker
@@ -83,6 +87,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/920/dragonfly-viper-d)
 - **Battle Value:** 1779
+- [*More Info*](viper/viper_d.md)
 
 ## Viper "Dragonfly" E
 - **Role:** Striker
@@ -100,6 +105,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/921/dragonfly-viper-e)
 - **Battle Value:** 1561
+- [*More Info*](viper/viper_e.md)
 
 ## Viper "Dragonfly" H
 - **Role:** Striker
@@ -118,6 +124,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/924/dragonfly-viper-h)
 - **Battle Value:** 1732
+- [*More Info*](viper/viper_h.md)
 
 ## Viper "Dragonfly" I
 - **Role:** Striker
@@ -137,6 +144,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/925/dragonfly-viper-i)
 - **Battle Value:** 1580
+- [*More Info*](viper/viper_i.md)
 
 ## Viper "Dragonfly" F
 - **Role:** Striker
@@ -154,6 +162,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/922/dragonfly-viper-f)
 - **Battle Value:** 1689
+- [*More Info*](viper/viper_f.md)
 
 ## Viper "Dragonfly" G
 - **Role:** Striker
@@ -172,6 +181,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/923/dragonfly-viper-g)
 - **Battle Value:** 1574
+- [*More Info*](viper/viper_g.md)
 
 ## Viper "Dragonfly" Z
 - **Role:** Striker
@@ -191,6 +201,7 @@
   - Light TAG
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5644/dragonfly-viper-z)
 - **Battle Value:** 1692
+- [*More Info*](viper/viper_z.md)
 
 ## Viper "Dragonfly" U
 - **Role:** Striker
@@ -210,6 +221,7 @@
   - Liquid Cargo
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/927/dragonfly-viper-u)
 - **Battle Value:** 1417
+- [*More Info*](viper/viper_u.md)
 
 ## Viper "Dragonfly" R
 - **Role:** Scout
@@ -228,6 +240,7 @@
   - Light TAG
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7588/dragonfly-viper-r)
 - **Battle Value:** 1335
+- [*More Info*](viper/viper_r.md)
 
 ## Viper "Dragonfly" T
 - **Role:** Scout
@@ -248,6 +261,7 @@
   - Targeting Computer
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7583/dragonfly-viper-t)
 - **Battle Value:** 1704
+- [*More Info*](viper/viper_t.md)
 
 ## Viper "Dragonfly" J
 - **Role:** Striker
@@ -264,6 +278,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7584/dragonfly-viper-j)
 - **Battle Value:** 1259
+- [*More Info*](viper/viper_j.md)
 
 ## Viper "Dragonfly" K
 - **Role:** Scout
@@ -283,6 +298,7 @@
   - TAG
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7585/dragonfly-viper-k)
 - **Battle Value:** 1545
+- [*More Info*](viper/viper_k.md)
 
 ## Viper "Dragonfly" L
 - **Role:** Sniper
@@ -299,6 +315,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7586/dragonfly-viper-l)
 - **Battle Value:** 1417
+- [*More Info*](viper/viper_l.md)
 
 ## Viper "Dragonfly" M
 - **Role:** Striker
@@ -316,4 +333,5 @@
   - Targeting Computer
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m)
 - **Battle Value:** 2054
+- [*More Info*](viper/viper_m.md)
 

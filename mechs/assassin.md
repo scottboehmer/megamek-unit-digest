@@ -13,6 +13,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/127/assassin-asn-21)
 - **Battle Value:** 749
+- [*More Info*](assassin/assassin_asn-21.md)
 
 ## Assassin ASN-101
 - **Role:** Scout
@@ -29,6 +30,7 @@
   - Small Laser × 3
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/126/assassin-asn-101)
 - **Battle Value:** 757
+- [*More Info*](assassin/assassin_asn-101.md)
 
 ## Assassin ASN-23
 - **Role:** Striker
@@ -43,6 +45,7 @@
   - Medium Pulse Laser
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/128/assassin-asn-23)
 - **Battle Value:** 740
+- [*More Info*](assassin/assassin_asn-23.md)
 
 ## Assassin ASN-30
 - **Role:** Scout
@@ -57,6 +60,7 @@
   - ER Medium Laser
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/129/assassin-asn-30)
 - **Battle Value:** 925
+- [*More Info*](assassin/assassin_asn-30.md)
 
 ## Assassin 'Servitor'
 - **Role:** Striker
@@ -74,6 +78,7 @@
   - Small Laser
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3737/assassin-servitor)
 - **Battle Value:** 1019
+- [*More Info*](assassin/assassin_'servitor'.md)
 
 ## Assassin ASN-30 (Alice)
 - **Role:** Striker
@@ -92,6 +97,7 @@
   - C3 Slave
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3738/assassin-asn-30-alice)
 - **Battle Value:** 1507
+- [*More Info*](assassin/assassin_asn-30_alice.md)
 
 ## Assassin ASN-99
 - **Role:** Scout
@@ -110,4 +116,5 @@
   - TAG
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/130/assassin-asn-99)
 - **Battle Value:** 1116
+- [*More Info*](assassin/assassin_asn-99.md)
 

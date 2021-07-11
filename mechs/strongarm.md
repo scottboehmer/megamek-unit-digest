@@ -12,6 +12,7 @@
   - Cargo
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7857/strongarm-sc-cv-constructionmech)
 - **Battle Value:** 315
+- [*More Info*](strongarm/strongarm_sc_cv_constructionmech.md)
 
 ## StrongArm SC CVI ConstructionMech
 - **Role:** Undefined
@@ -27,6 +28,7 @@
   - Cargo
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7859/strongarm-sc-cvi-constructionmech)
 - **Battle Value:** 315
+- [*More Info*](strongarm/strongarm_sc_cvi_constructionmech.md)
 
 ## StrongArm SC CV-M ConstructionMech MOD
 - **Role:** Ambusher
@@ -42,4 +44,5 @@
   - Lift Hoist
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7858/strongarm-sc-cv-m-constructionmech-mod)
 - **Battle Value:** 315
+- [*More Info*](strongarm/strongarm_sc_cv-m_constructionmech_mod.md)
 

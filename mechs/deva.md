@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/885/deva-c-dva-o-invictus)
 - **Battle Value:** 1584
+- [*More Info*](deva/deva_c-dva-o_invictus.md)
 
 ## Deva C-DVA-OA Dominus
 - **Role:** Brawler
@@ -39,6 +40,7 @@
   - Targeting Computer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/886/deva-c-dva-oa-dominus)
 - **Battle Value:** 1727
+- [*More Info*](deva/deva_c-dva-oa_dominus.md)
 
 ## Deva C-DVA-OB Infernus
 - **Role:** Sniper
@@ -58,6 +60,7 @@
   - Targeting Computer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/887/deva-c-dva-ob-infernus)
 - **Battle Value:** 1713
+- [*More Info*](deva/deva_c-dva-ob_infernus.md)
 
 ## Deva C-DVA-OC Comminus
 - **Role:** Skirmisher
@@ -79,6 +82,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/888/deva-c-dva-oc-comminus)
 - **Battle Value:** 1749
+- [*More Info*](deva/deva_c-dva-oc_comminus.md)
 
 ## Deva C-DVA-OD Luminos
 - **Role:** Skirmisher
@@ -99,6 +103,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/889/deva-c-dva-od-luminos)
 - **Battle Value:** 1711
+- [*More Info*](deva/deva_c-dva-od_luminos.md)
 
 ## Deva C-DVA-O (Achilleus)
 - **Role:** Skirmisher
@@ -118,6 +123,7 @@
   - Targeting Computer
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/884/deva-c-dva-o-achillius)
 - **Battle Value:** 1595
+- [*More Info*](deva/deva_c-dva-o_achilleus.md)
 
 ## Deva C-DVA-OE Eminus
 - **Role:** Sniper
@@ -137,6 +143,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/890/deva-c-dva-oe-eminus)
 - **Battle Value:** 1686
+- [*More Info*](deva/deva_c-dva-oe_eminus.md)
 
 ## Deva C-DVA-OS Caelestis
 - **Role:** Skirmisher
@@ -157,6 +164,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/891/deva-c-dva-os-caelestis)
 - **Battle Value:** 1785
+- [*More Info*](deva/deva_c-dva-os_caelestis.md)
 
 ## Deva C-DVA-OU Exanimus
 - **Role:** Brawler
@@ -178,4 +186,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/892/deva-c-dva-ou-exanimus)
 - **Battle Value:** 1685
+- [*More Info*](deva/deva_c-dva-ou_exanimus.md)
 

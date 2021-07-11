@@ -11,6 +11,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/174/awesome-aws-8q)
 - **Battle Value:** 1605
+- [*More Info*](awesome/awesome_aws-8q.md)
 
 ## Awesome AWS-8R
 - **Role:** Missile Boat
@@ -25,6 +26,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/175/awesome-aws-8r)
 - **Battle Value:** 1470
+- [*More Info*](awesome/awesome_aws-8r.md)
 
 ## Awesome AWS-8T
 - **Role:** Missile Boat
@@ -39,6 +41,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/176/awesome-aws-8t)
 - **Battle Value:** 1593
+- [*More Info*](awesome/awesome_aws-8t.md)
 
 ## Awesome AWS-8V
 - **Role:** Sniper
@@ -54,6 +57,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/177/awesome-aws-8v)
 - **Battle Value:** 1510
+- [*More Info*](awesome/awesome_aws-8v.md)
 
 ## Awesome AWS-9M
 - **Role:** Brawler
@@ -69,6 +73,7 @@
   - Small Pulse Laser
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/178/awesome-aws-9m)
 - **Battle Value:** 1812
+- [*More Info*](awesome/awesome_aws-9m.md)
 
 ## Awesome AWS-9Ma
 - **Role:** Sniper
@@ -86,6 +91,7 @@
   - Communications Equipment
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma)
 - **Battle Value:** 1836
+- [*More Info*](awesome/awesome_aws-9ma.md)
 
 ## Awesome AWS-9Q
 - **Role:** Sniper
@@ -101,6 +107,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/179/awesome-aws-9q)
 - **Battle Value:** 1875
+- [*More Info*](awesome/awesome_aws-9q.md)
 
 ## Awesome AWS-10KM
 - **Role:** Juggernaut
@@ -117,6 +124,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km)
 - **Battle Value:** 1961
+- [*More Info*](awesome/awesome_aws-10km.md)
 
 ## Awesome AWS-9Q (Klatt)
 - **Role:** Sniper
@@ -132,6 +140,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3770/awesome-aws-9q-klatt)
 - **Battle Value:** 1805
+- [*More Info*](awesome/awesome_aws-9q_klatt.md)
 
 ## Awesome AWS-8Q (Buck)
 - **Role:** Sniper
@@ -145,6 +154,7 @@
   - PPC × 3
 - **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7311/awesome-aws-8q-buck)
 - **Battle Value:** 1787
+- [*More Info*](awesome/awesome_aws-8q_buck.md)
 
 ## Awesome AWS-11M
 - **Role:** Sniper
@@ -159,6 +169,7 @@
   - Light PPC × 4
 - **Sources:** XTRO Marik - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/173/awesome-aws-11m)
 - **Battle Value:** 1801
+- [*More Info*](awesome/awesome_aws-11m.md)
 
 ## Awesome AWS-11R
 - **Role:** Sniper
@@ -180,6 +191,7 @@
   - Supercharger
 - **Sources:** XTRO Republic II - Dark Ages  , [Master Unit List](http://masterunitlist.info/Unit/Details/7349/awesome-aws-11r)
 - **Battle Value:** 1878
+- [*More Info*](awesome/awesome_aws-11r.md)
 
 ## Awesome AWS-11H
 - **Role:** Sniper
@@ -193,4 +205,5 @@
   - ER Small Laser
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7501/awesome-aws-11h)
 - **Battle Value:** 2036
+- [*More Info*](awesome/awesome_aws-11h.md)
 

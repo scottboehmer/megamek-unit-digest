@@ -13,6 +13,7 @@
   - SRM 6 (ammo: 30)
   - Medium Laser × 3
 - **Battle Value:** 1704
+- [*More Info*](corsair/corsair_cor-5r.md)
 
 ## Corsair COR-5T
 - **Role:** Undefined
@@ -25,6 +26,7 @@
   - Medium Laser × 4
   - AC/2 × 6 (ammo: 270)
 - **Battle Value:** 1454
+- [*More Info*](corsair/corsair_cor-5t.md)
 
 ## Corsair COR-6R
 - **Role:** Undefined
@@ -43,6 +45,7 @@
   - Small Laser
   - Machine Gun (ammo: 200)
 - **Battle Value:** 1636
+- [*More Info*](corsair/corsair_cor-6r.md)
 
 ## Corsair COR-RA Ravager
 - **Role:** Undefined
@@ -58,6 +61,7 @@
   - Ultra AC/5 (ammo: 40)
   - Medium Laser × 3
 - **Battle Value:** 2122
+- [*More Info*](corsair/corsair_cor-ra_ravager.md)
 
 ## Corsair COR-7A
 - **Role:** Undefined
@@ -74,6 +78,7 @@
 - **Equipment:**
   - Anti-Missile System × 4 (ammo: 48)
 - **Battle Value:** 1805
+- [*More Info*](corsair/corsair_cor-7a.md)
 
 ## Corsair COR-7R
 - **Role:** Undefined
@@ -88,6 +93,7 @@
   - Rocket 20 × 2
   - Rocket 10 × 3
 - **Battle Value:** 1781
+- [*More Info*](corsair/corsair_cor-7r.md)
 
 ## Corsair COR-BR Broadside
 - **Role:** Undefined
@@ -102,4 +108,5 @@
   - Medium Laser
   - SRM 4 × 3 (ammo: 75)
 - **Battle Value:** 2124
+- [*More Info*](corsair/corsair_cor-br_broadside.md)
 

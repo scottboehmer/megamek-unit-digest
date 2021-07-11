@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4152/fafnir-fnr-5)
 - **Battle Value:** 2636
+- [*More Info*](fafnir/fafnir_fnr-5.md)
 
 ## Fafnir FNR-5B
 - **Role:** Juggernaut
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4153/fafnir-fnr-5b)
 - **Battle Value:** 2625
+- [*More Info*](fafnir/fafnir_fnr-5b.md)
 
 ## Fafnir FNR-4A (Peter)
 - **Role:** Juggernaut
@@ -53,6 +55,7 @@
   - C3 Slave
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1020/fafnir-fnr-4a-peter)
 - **Battle Value:** 2458
+- [*More Info*](fafnir/fafnir_fnr-4a_peter.md)
 
 ## Fafnir FNR-5WB
 - **Role:** Juggernaut
@@ -68,6 +71,7 @@
   - C3i
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5719/fafnir-fnr-5wb)
 - **Battle Value:** 2449
+- [*More Info*](fafnir/fafnir_fnr-5wb.md)
 
 ## Fafnir FNR-5X
 - **Role:** Sniper
@@ -84,6 +88,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1021/fafnir-fnr-5x)
 - **Battle Value:** 2610
+- [*More Info*](fafnir/fafnir_fnr-5x.md)
 
 ## Fafnir FNR-6U
 - **Role:** Juggernaut
@@ -99,4 +104,5 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5720/fafnir-fnr-6u)
 - **Battle Value:** 2234
+- [*More Info*](fafnir/fafnir_fnr-6u.md)
 

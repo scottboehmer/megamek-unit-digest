@@ -13,6 +13,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3641/zeus-zeu-5t)
 - **Battle Value:** 1729
+- [*More Info*](zeus/zeus_zeu-5t.md)
 
 ## Zeus ZEU-5S
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3640/zeus-zeu-5s)
 - **Battle Value:** 1474
+- [*More Info*](zeus/zeus_zeu-5s.md)
 
 ## Zeus ZEU-6S
 - **Role:** Sniper
@@ -43,6 +45,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3642/zeus-zeu-6s)
 - **Battle Value:** 1348
+- [*More Info*](zeus/zeus_zeu-6s.md)
 
 ## Zeus ZEU-6Y
 - **Role:** Sniper
@@ -57,6 +60,7 @@
   - AC/5 (ammo: 20)
 - **Sources:** XTRO Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y)
 - **Battle Value:** 1323
+- [*More Info*](zeus/zeus_zeu-6y.md)
 
 ## Zeus ZEU-6A
 - **Role:** Undefined
@@ -72,6 +76,7 @@
   - Medium Laser × 2
 - **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7432/zeus-zeu-6a)
 - **Battle Value:** 1405
+- [*More Info*](zeus/zeus_zeu-6a.md)
 
 ## Zeus ZEU-6T
 - **Role:** Sniper
@@ -87,6 +92,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3643/zeus-zeu-6t)
 - **Battle Value:** 1436
+- [*More Info*](zeus/zeus_zeu-6t.md)
 
 ## Zeus ZEU-9S
 - **Role:** Sniper
@@ -104,6 +110,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3644/zeus-zeu-9s)
 - **Battle Value:** 1639
+- [*More Info*](zeus/zeus_zeu-9s.md)
 
 ## Zeus ZEU-9S-DC
 - **Role:** Sniper
@@ -122,6 +129,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5438/zeus-zeu-9s-dc)
 - **Battle Value:** 1612
+- [*More Info*](zeus/zeus_zeu-9s-dc.md)
 
 ## Zeus ZEU-9S2
 - **Role:** Sniper
@@ -138,6 +146,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5459/zeus-zeu-9s2)
 - **Battle Value:** 1769
+- [*More Info*](zeus/zeus_zeu-9s2.md)
 
 ## Zeus (Leonidas)
 - **Role:** Sniper
@@ -153,6 +162,7 @@
   - Medium Pulse Laser × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3638/zeus-leonidas)
 - **Battle Value:** 1878
+- [*More Info*](zeus/zeus_leonidas.md)
 
 ## Zeus ZEU-9T
 - **Role:** Brawler
@@ -171,6 +181,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3645/zeus-zeu-9t)
 - **Battle Value:** 1832
+- [*More Info*](zeus/zeus_zeu-9t.md)
 
 ## Zeus ZEU-10WB
 - **Role:** Sniper
@@ -186,6 +197,7 @@
   - ER Medium Laser × 4
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3639/zeus-zeu-10wb)
 - **Battle Value:** 2075
+- [*More Info*](zeus/zeus_zeu-10wb.md)
 
 ## Zeus ZEU-11S
 - **Role:** Sniper
@@ -205,4 +217,5 @@
   - CASE II
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7455/zeus-zeu-11s)
 - **Battle Value:** 2280
+- [*More Info*](zeus/zeus_zeu-11s.md)
 

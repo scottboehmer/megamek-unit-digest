@@ -13,6 +13,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2055/marauder-ii-mad-4a)
 - **Battle Value:** 2073
+- [*More Info*](marauder_ii/marauder_ii_mad-4a.md)
 
 ## Marauder II MAD-5A
 - **Role:** Sniper
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2059/marauder-ii-mad-5a)
 - **Battle Value:** 2058
+- [*More Info*](marauder_ii/marauder_ii_mad-5a.md)
 
 ## Marauder II MAD-5B
 - **Role:** Sniper
@@ -45,6 +47,7 @@
   - Medium Laser × 2
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b)
 - **Battle Value:** 2589
+- [*More Info*](marauder_ii/marauder_ii_mad-5b.md)
 
 ## Marauder II MAD-5C
 - **Role:** Sniper
@@ -62,6 +65,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2061/marauder-ii-mad-5c)
 - **Battle Value:** 2024
+- [*More Info*](marauder_ii/marauder_ii_mad-5c.md)
 
 ## Marauder II (Bounty Hunter)
 - **Role:** Sniper
@@ -80,6 +84,7 @@
   - CASE
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2053/marauder-ii-bounty-hunter)
 - **Battle Value:** 3767
+- [*More Info*](marauder_ii/marauder_ii_bounty_hunter.md)
 
 ## Marauder II MAD-4S
 - **Role:** Juggernaut
@@ -95,6 +100,7 @@
   - ER Medium Laser × 2
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s)
 - **Battle Value:** 2623
+- [*More Info*](marauder_ii/marauder_ii_mad-4s.md)
 
 ## Marauder II C
 - **Role:** Skirmisher
@@ -112,6 +118,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c)
 - **Battle Value:** 2916
+- [*More Info*](marauder_ii/marauder_ii_c.md)
 
 ## Marauder II MAD-4H
 - **Role:** Sniper
@@ -129,6 +136,7 @@
   - Rocket 10
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h)
 - **Battle Value:** 2180
+- [*More Info*](marauder_ii/marauder_ii_mad-4h.md)
 
 ## Marauder II MAD-4K
 - **Role:** Sniper
@@ -144,6 +152,7 @@
   - ER Small Laser × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2057/marauder-ii-mad-4k)
 - **Battle Value:** 2626
+- [*More Info*](marauder_ii/marauder_ii_mad-4k.md)
 
 ## Marauder II MAD-5W
 - **Role:** Sniper
@@ -160,6 +169,7 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2062/marauder-ii-mad-5w)
 - **Battle Value:** 2383
+- [*More Info*](marauder_ii/marauder_ii_mad-5w.md)
 
 ## Marauder II MAD-6M
 - **Role:** Skirmisher
@@ -177,6 +187,7 @@
   - Guardian ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2064/marauder-ii-mad-6m)
 - **Battle Value:** 2218
+- [*More Info*](marauder_ii/marauder_ii_mad-6m.md)
 
 ## Marauder II MAD-6D
 - **Role:** Skirmisher
@@ -194,6 +205,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d)
 - **Battle Value:** 2378
+- [*More Info*](marauder_ii/marauder_ii_mad-6d.md)
 
 ## Marauder II MAD-4L
 - **Role:** Sniper
@@ -210,6 +222,7 @@
   - Guardian ECM Suite
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6828/marauder-ii-mad-4l)
 - **Battle Value:** 2839
+- [*More Info*](marauder_ii/marauder_ii_mad-4l.md)
 
 ## Marauder II MAD-6S
 - **Role:** Juggernaut
@@ -229,6 +242,7 @@
   - CASE
 - **Sources:** TP Irian - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/7331/marauder-ii-mad-6s)
 - **Battle Value:** 2546
+- [*More Info*](marauder_ii/marauder_ii_mad-6s.md)
 
 ## Marauder II MAD-6A
 - **Role:** Sniper
@@ -247,6 +261,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7520/marauder-ii-mad-6a)
 - **Battle Value:** 2367
+- [*More Info*](marauder_ii/marauder_ii_mad-6a.md)
 
 ## Marauder II MAD-6C
 - **Role:** Sniper
@@ -264,6 +279,7 @@
   - Command Console
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7521/marauder-ii-mad-6c)
 - **Battle Value:** 2346
+- [*More Info*](marauder_ii/marauder_ii_mad-6c.md)
 
 ## Marauder II MAD-8K
 - **Role:** Sniper
@@ -281,6 +297,7 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7522/marauder-ii-mad-8k)
 - **Battle Value:** 2849
+- [*More Info*](marauder_ii/marauder_ii_mad-8k.md)
 
 ## Marauder II MAD-10D
 - **Role:** Sniper
@@ -297,4 +314,5 @@
   - Medium X-Pulse Laser × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7519/marauder-ii-mad-10d)
 - **Battle Value:** 2741
+- [*More Info*](marauder_ii/marauder_ii_mad-10d.md)
 

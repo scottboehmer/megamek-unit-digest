@@ -13,6 +13,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/345/black-hawk-ku-bhku-o)
 - **Battle Value:** 1731
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-o.md)
 
 ## Black Hawk-KU BHKU-OA
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - Anti-Missile System × 2 (ammo: 24)
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/347/black-hawk-ku-bhku-oa)
 - **Battle Value:** 1770
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oa.md)
 
 ## Black Hawk-KU BHKU-OB
 - **Role:** Skirmisher
@@ -42,6 +44,7 @@
   - Ultra AC/5 (ammo: 20)
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/348/black-hawk-ku-bhku-ob)
 - **Battle Value:** 1303
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ob.md)
 
 ## Black Hawk-KU BHKU-OC
 - **Role:** Sniper
@@ -56,6 +59,7 @@
   - Medium Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/349/black-hawk-ku-bhku-oc)
 - **Battle Value:** 1597
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oc.md)
 
 ## Black Hawk-KU BHKU-OD
 - **Role:** Missile Boat
@@ -70,6 +74,7 @@
   - ER Large Laser
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/350/black-hawk-ku-bhku-od)
 - **Battle Value:** 1539
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-od.md)
 
 ## Black Hawk-KU BHKU-OX
 - **Role:** Skirmisher
@@ -86,6 +91,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/354/black-hawk-ku-bhku-ox)
 - **Battle Value:** 1941
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ox.md)
 
 ## Black Hawk-KU BHKU-OR
 - **Role:** Skirmisher
@@ -102,6 +108,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3825/black-hawk-ku-bhku-or)
 - **Battle Value:** 2193
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-or.md)
 
 ## Black Hawk-KU BHKU-OE
 - **Role:** Skirmisher
@@ -115,6 +122,7 @@
   - ER Medium Laser × 12
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/351/black-hawk-ku-bhku-oe)
 - **Battle Value:** 1982
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oe.md)
 
 ## Black Hawk-KU BHKU-OF
 - **Role:** Sniper
@@ -131,6 +139,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/352/black-hawk-ku-bhku-of)
 - **Battle Value:** 1759
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-of.md)
 
 ## Black Hawk-KU BHKU-O (Albert)
 - **Role:** Skirmisher
@@ -147,6 +156,7 @@
   - C3 Master
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346/black-hawk-ku-bhku-o-albert)
 - **Battle Value:** 2377
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-o_albert.md)
 
 ## Black Hawk-KU BHKU-OU
 - **Role:** Skirmisher
@@ -163,6 +173,7 @@
   - Liquid Cargo
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/353/black-hawk-ku-bhku-ou)
 - **Battle Value:** 1687
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ou.md)
 
 ## Black Hawk-KU BHKU-OG
 - **Role:** Skirmisher
@@ -181,4 +192,5 @@
   - TAG
 - **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6890/black-hawk-ku-bhku-og)
 - **Battle Value:** 1719
+- [*More Info*](black_hawk-ku/black_hawk-ku_bhku-og.md)
 

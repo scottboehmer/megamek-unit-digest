@@ -15,6 +15,7 @@
   - Targeting Computer
 - **Sources:** OTP: Hanseatic Crusade - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7878/snow-fox-omni-prime)
 - **Battle Value:** 1464
+- [*More Info*](snow_fox_omni/snow_fox_omni_prime.md)
 
 ## Snow Fox (Omni) A
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** OTP: Hanseatic Crusade - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7879/snow-fox-omni-a)
 - **Battle Value:** 831
+- [*More Info*](snow_fox_omni/snow_fox_omni_a.md)
 
 ## Snow Fox (Omni) B
 - **Role:** Sniper
@@ -46,4 +48,5 @@
   - MASC
 - **Sources:** OTP: Hanseatic Crusade - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7880/snow-fox-omni-b)
 - **Battle Value:** 1249
+- [*More Info*](snow_fox_omni/snow_fox_omni_b.md)
 

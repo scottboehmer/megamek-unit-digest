@@ -14,4 +14,5 @@
   - Targeting Computer
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7882/tolva-standard)
 - **Battle Value:** 1449
+- [*More Info*](tolva/tolva.md)
 

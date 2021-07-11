@@ -14,6 +14,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1124/flashman-fls-8k)
 - **Battle Value:** 1779
+- [*More Info*](flashman/flashman_fls-8k.md)
 
 ## Flashman FLS-7K
 - **Role:** Brawler
@@ -28,6 +29,7 @@
   - Flamer
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1123/flashman-fls-7k)
 - **Battle Value:** 1480
+- [*More Info*](flashman/flashman_fls-7k.md)
 
 ## Flashman FLS-9C
 - **Role:** Skirmisher
@@ -44,6 +46,7 @@
   - C3i
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1126/flashman-fls-9c)
 - **Battle Value:** 1779
+- [*More Info*](flashman/flashman_fls-9c.md)
 
 ## Flashman FLS-C
 - **Role:** Skirmisher
@@ -60,6 +63,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1128/flashman-fls-c)
 - **Battle Value:** 1774
+- [*More Info*](flashman/flashman_fls-c.md)
 
 ## Flashman FLS-9B
 - **Role:** Skirmisher
@@ -79,6 +83,7 @@
   - C3i
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1125/flashman-fls-9b)
 - **Battle Value:** 1600
+- [*More Info*](flashman/flashman_fls-9b.md)
 
 ## Flashman FLS-9M
 - **Role:** Brawler
@@ -94,4 +99,5 @@
   - Small Laser
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1127/flashman-fls-9m)
 - **Battle Value:** 1895
+- [*More Info*](flashman/flashman_fls-9m.md)
 

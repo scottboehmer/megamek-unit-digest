@@ -14,6 +14,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135/stinger-iic-standard)
 - **Battle Value:** 730
+- [*More Info*](stinger_iic/stinger_iic_standard.md)
 
 ## Stinger IIC 2
 - **Role:** Striker
@@ -28,4 +29,5 @@
   - Improved Heavy Medium Laser × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5136/stinger-iic-2)
 - **Battle Value:** 1097
+- [*More Info*](stinger_iic/stinger_iic_2.md)
 

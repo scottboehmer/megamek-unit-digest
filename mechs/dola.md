@@ -16,6 +16,7 @@
   - Angel ECM Suite
 - **Sources:** XTRO Liao - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/903/dola-dol-1a)
 - **Battle Value:** 911
+- [*More Info*](dola/dola_dol-1a.md)
 
 ## Dola DOL-1A1
 - **Role:** Scout
@@ -32,6 +33,7 @@
   - Angel ECM Suite
 - **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4086/dola-dol-1a1)
 - **Battle Value:** 950
+- [*More Info*](dola/dola_dol-1a1.md)
 
 ## Dola DOL-1A2 'Yoh Ti Ts'angs'
 - **Role:** Scout
@@ -48,4 +50,5 @@
   - TAG
 - **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4087/dola-dol-1a2-yoh-ti-tsang)
 - **Battle Value:** 791
+- [*More Info*](dola/dola_dol-1a2_'yoh_ti_ts'angs'.md)
 

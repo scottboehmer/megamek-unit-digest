@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5540/pack-hunter-ii-isis)
 - **Battle Value:** 1276
+- [*More Info*](pack_hunter_ii/pack_hunter_ii_isis.md)
 
 ## Pack Hunter II (Standard)
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - B-Pod × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard)
 - **Battle Value:** 1794
+- [*More Info*](pack_hunter_ii/pack_hunter_ii_standard.md)
 
 ## Pack Hunter II 2
 - **Role:** Striker
@@ -46,6 +48,7 @@
   - A-Pod × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2397/pack-hunter-ii-2)
 - **Battle Value:** 1457
+- [*More Info*](pack_hunter_ii/pack_hunter_ii_2.md)
 
 ## Pack Hunter II 3
 - **Role:** Striker
@@ -60,6 +63,7 @@
   - ER PPC
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2398/pack-hunter-ii-3)
 - **Battle Value:** 1438
+- [*More Info*](pack_hunter_ii/pack_hunter_ii_3.md)
 
 ## Pack Hunter II 4
 - **Role:** Sniper
@@ -75,4 +79,5 @@
   - AES × 4
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6935/pack-hunter-ii-4)
 - **Battle Value:** 1447
+- [*More Info*](pack_hunter_ii/pack_hunter_ii_4.md)
 

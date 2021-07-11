@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4807/perseus-p1)
 - **Battle Value:** 1713
+- [*More Info*](perseus/perseus_p1.md)
 
 ## Perseus P1A
 - **Role:** Missile Boat
@@ -35,6 +36,7 @@
   - TAG
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4809/perseus-p1a)
 - **Battle Value:** 1661
+- [*More Info*](perseus/perseus_p1a.md)
 
 ## Perseus P1B
 - **Role:** Brawler
@@ -51,6 +53,7 @@
   - Anti-Missile System (ammo: 24)
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4810/perseus-p1b)
 - **Battle Value:** 1776
+- [*More Info*](perseus/perseus_p1b.md)
 
 ## Perseus P1C
 - **Role:** Brawler
@@ -67,6 +70,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c)
 - **Battle Value:** 1644
+- [*More Info*](perseus/perseus_p1c.md)
 
 ## Perseus P1D
 - **Role:** Brawler
@@ -86,6 +90,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4812/perseus-p1d)
 - **Battle Value:** 1714
+- [*More Info*](perseus/perseus_p1d.md)
 
 ## Perseus P1W
 - **Role:** Brawler
@@ -102,6 +107,7 @@
   - C3i
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w)
 - **Battle Value:** 1864
+- [*More Info*](perseus/perseus_p1w.md)
 
 ## Perseus P1E
 - **Role:** Brawler
@@ -122,6 +128,7 @@
   - Communications Equipment × 3
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697/perseus-p1e)
 - **Battle Value:** 1641
+- [*More Info*](perseus/perseus_p1e.md)
 
 ## Perseus P1P
 - **Role:** Brawler
@@ -143,4 +150,5 @@
   - TAG
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5698/perseus-p1p)
 - **Battle Value:** 1777
+- [*More Info*](perseus/perseus_p1p.md)
 

@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1725/jupiter-standard)
 - **Battle Value:** 2784
+- [*More Info*](jupiter/jupiter_standard.md)
 
 ## Jupiter 2
 - **Role:** Sniper
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1726/jupiter-2)
 - **Battle Value:** 3278
+- [*More Info*](jupiter/jupiter_2.md)
 
 ## Jupiter 3
 - **Role:** Sniper
@@ -47,6 +49,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1727/jupiter-3)
 - **Battle Value:** 3074
+- [*More Info*](jupiter/jupiter_3.md)
 
 ## Jupiter 4
 - **Role:** Brawler
@@ -63,4 +66,5 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6829/jupiter-4)
 - **Battle Value:** 2955
+- [*More Info*](jupiter/jupiter_4.md)
 

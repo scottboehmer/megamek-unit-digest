@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/107/arctic-wolf-ii-prime)
 - **Battle Value:** 1645
+- [*More Info*](arctic_wolf_ii/arctic_wolf_ii_prime.md)
 
 ## Arctic Wolf II A
 - **Role:** Missile Boat
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/104/arctic-wolf-ii-a)
 - **Battle Value:** 2111
+- [*More Info*](arctic_wolf_ii/arctic_wolf_ii_a.md)
 
 ## Arctic Wolf II B
 - **Role:** Striker
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/105/arctic-wolf-ii-b)
 - **Battle Value:** 1678
+- [*More Info*](arctic_wolf_ii/arctic_wolf_ii_b.md)
 
 ## Arctic Wolf II C
 - **Role:** Striker
@@ -66,4 +69,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/106/arctic-wolf-ii-c)
 - **Battle Value:** 1913
+- [*More Info*](arctic_wolf_ii/arctic_wolf_ii_c.md)
 

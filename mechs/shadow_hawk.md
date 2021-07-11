@@ -13,6 +13,7 @@
   - Medium Laser
 - **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r)
 - **Battle Value:** 851
+- [*More Info*](shadow_hawk/shadow_hawk_shd-1r.md)
 
 ## Shadow Hawk SHD-2H
 - **Role:** Skirmisher
@@ -29,6 +30,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2901/shadow-hawk-shd-2h)
 - **Battle Value:** 1064
+- [*More Info*](shadow_hawk/shadow_hawk_shd-2h.md)
 
 ## Shadow Hawk SHD-2Hb
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** ilClan Vol 12 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb)
 - **Battle Value:** 1354
+- [*More Info*](shadow_hawk/shadow_hawk_shd-2hb.md)
 
 ## Shadow Hawk SHD-2D
 - **Role:** Striker
@@ -62,6 +65,7 @@
   - SRM 2 × 2 (ammo: 100)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2899/shadow-hawk-shd-2d)
 - **Battle Value:** 899
+- [*More Info*](shadow_hawk/shadow_hawk_shd-2d.md)
 
 ## Shadow Hawk SHD-2K
 - **Role:** Sniper
@@ -76,6 +80,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2903/shadow-hawk-shd-2k)
 - **Battle Value:** 1147
+- [*More Info*](shadow_hawk/shadow_hawk_shd-2k.md)
 
 ## Shadow Hawk SHD-5M
 - **Role:** Missile Boat
@@ -94,6 +99,7 @@
   - CASE
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m)
 - **Battle Value:** 1430
+- [*More Info*](shadow_hawk/shadow_hawk_shd-5m.md)
 
 ## Shadow Hawk SHD-2D2
 - **Role:** Brawler
@@ -110,6 +116,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2900/shadow-hawk-shd-2d2)
 - **Battle Value:** 1049
+- [*More Info*](shadow_hawk/shadow_hawk_shd-2d2.md)
 
 ## Shadow Hawk C
 - **Role:** Skirmisher
@@ -126,6 +133,7 @@
   - Clan Streak SRM 2 (ammo: 50)
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2895/shadow-hawk-c)
 - **Battle Value:** 1309
+- [*More Info*](shadow_hawk/shadow_hawk_c.md)
 
 ## Shadow Hawk SHD-2Ht
 - **Role:** Skirmisher
@@ -143,6 +151,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7737/shadow-hawk-shd-2ht)
 - **Battle Value:** 1453
+- [*More Info*](shadow_hawk/shadow_hawk_shd-2ht.md)
 
 ## Shadow Hawk SHD-5S
 - **Role:** Missile Boat
@@ -163,6 +172,7 @@
   - Cargo
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7786/shadow-hawk-shd-5s)
 - **Battle Value:** 1590
+- [*More Info*](shadow_hawk/shadow_hawk_shd-5s.md)
 
 ## Shadow Hawk SHD-5D
 - **Role:** Skirmisher
@@ -180,6 +190,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d)
 - **Battle Value:** 1684
+- [*More Info*](shadow_hawk/shadow_hawk_shd-5d.md)
 
 ## Shadow Hawk SHD-7CS
 - **Role:** Missile Boat
@@ -198,6 +209,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2907/shadow-hawk-shd-7cs)
 - **Battle Value:** 1496
+- [*More Info*](shadow_hawk/shadow_hawk_shd-7cs.md)
 
 ## Shadow Hawk SHD-7M
 - **Role:** Missile Boat
@@ -216,6 +228,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2908/shadow-hawk-shd-7m)
 - **Battle Value:** 1447
+- [*More Info*](shadow_hawk/shadow_hawk_shd-7m.md)
 
 ## Shadow Hawk SHD-11CS
 - **Role:** Missile Boat
@@ -234,6 +247,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs)
 - **Battle Value:** 1700
+- [*More Info*](shadow_hawk/shadow_hawk_shd-11cs.md)
 
 ## Shadow Hawk SHD-5D (Sandy)
 - **Role:** Sniper
@@ -250,6 +264,7 @@
   - TAG
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5806/shadow-hawk-shd-5d-sandy)
 - **Battle Value:** 1517
+- [*More Info*](shadow_hawk/shadow_hawk_shd-5d_sandy.md)
 
 ## Shadow Hawk SHD-9D
 - **Role:** Skirmisher
@@ -269,6 +284,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2910/shadow-hawk-shd-9d)
 - **Battle Value:** 1313
+- [*More Info*](shadow_hawk/shadow_hawk_shd-9d.md)
 
 ## Shadow Hawk SHD-3K
 - **Role:** Sniper
@@ -287,6 +303,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2904/shadow-hawk-shd-3k)
 - **Battle Value:** 1591
+- [*More Info*](shadow_hawk/shadow_hawk_shd-3k.md)
 
 ## Shadow Hawk SHD-12C
 - **Role:** Sniper
@@ -304,6 +321,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c)
 - **Battle Value:** 1574
+- [*More Info*](shadow_hawk/shadow_hawk_shd-12c.md)
 
 ## Shadow Hawk SHD-8L
 - **Role:** Striker
@@ -323,6 +341,7 @@
   - Beagle Active Probe
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2909/shadow-hawk-shd-8l)
 - **Battle Value:** 1536
+- [*More Info*](shadow_hawk/shadow_hawk_shd-8l.md)
 
 ## Shadow Hawk SHD-5R
 - **Role:** Scout
@@ -341,6 +360,7 @@
   - CASE
 - **Sources:** ilClan Vol 12 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7787/shadow-hawk-shd-5r)
 - **Battle Value:** 1296
+- [*More Info*](shadow_hawk/shadow_hawk_shd-5r.md)
 
 ## Shadow Hawk SHD-7H
 - **Role:** Skirmisher
@@ -359,6 +379,7 @@
   - CASE II
 - **Sources:** ilClan Vol 12 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7789/shadow-hawk-shd-7h)
 - **Battle Value:** 1394
+- [*More Info*](shadow_hawk/shadow_hawk_shd-7h.md)
 
 ## Shadow Hawk SHD-4H
 - **Role:** Sniper
@@ -373,6 +394,7 @@
   - Light PPC
 - **Sources:** ilClan Vol 12 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7785/shadow-hawk-shd-4h)
 - **Battle Value:** 1569
+- [*More Info*](shadow_hawk/shadow_hawk_shd-4h.md)
 
 ## Shadow Hawk SHD-6D
 - **Role:** Skirmisher
@@ -391,4 +413,5 @@
   - CASE II
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7788/shadow-hawk-shd-6d)
 - **Battle Value:** 1371
+- [*More Info*](shadow_hawk/shadow_hawk_shd-6d.md)
 

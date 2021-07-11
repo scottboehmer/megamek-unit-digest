@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2270/night-gyr-prime)
 - **Battle Value:** 2830
+- [*More Info*](night_gyr/night_gyr_prime.md)
 
 ## Night Gyr A
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2263/night-gyr-a)
 - **Battle Value:** 2680
+- [*More Info*](night_gyr/night_gyr_a.md)
 
 ## Night Gyr B
 - **Role:** Sniper
@@ -49,6 +51,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2264/night-gyr-b)
 - **Battle Value:** 2140
+- [*More Info*](night_gyr/night_gyr_b.md)
 
 ## Night Gyr C
 - **Role:** Skirmisher
@@ -67,6 +70,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2265/night-gyr-c)
 - **Battle Value:** 2468
+- [*More Info*](night_gyr/night_gyr_c.md)
 
 ## Night Gyr D
 - **Role:** Missile Boat
@@ -84,6 +88,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2266/night-gyr-d)
 - **Battle Value:** 2889
+- [*More Info*](night_gyr/night_gyr_d.md)
 
 ## Night Gyr E
 - **Role:** Skirmisher
@@ -102,6 +107,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2267/night-gyr-e)
 - **Battle Value:** 2717
+- [*More Info*](night_gyr/night_gyr_e.md)
 
 ## Night Gyr H
 - **Role:** Skirmisher
@@ -121,6 +127,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2269/night-gyr-h)
 - **Battle Value:** 2428
+- [*More Info*](night_gyr/night_gyr_h.md)
 
 ## Night Gyr F
 - **Role:** Skirmisher
@@ -140,4 +147,5 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2268/night-gyr-f)
 - **Battle Value:** 2958
+- [*More Info*](night_gyr/night_gyr_f.md)
 

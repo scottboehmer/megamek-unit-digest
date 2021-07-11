@@ -14,6 +14,7 @@
   - Light Active Probe
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2313/ocelot-standard)
 - **Battle Value:** 1439
+- [*More Info*](ocelot/ocelot_standard.md)
 
 ## Ocelot 2
 - **Role:** Striker
@@ -28,6 +29,7 @@
   - ER Medium Laser × 2
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2314/ocelot-2)
 - **Battle Value:** 1734
+- [*More Info*](ocelot/ocelot_2.md)
 
 ## Ocelot 3
 - **Role:** Striker
@@ -46,6 +48,7 @@
   - Targeting Computer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2315/ocelot-3)
 - **Battle Value:** 1594
+- [*More Info*](ocelot/ocelot_3.md)
 
 ## Ocelot 4
 - **Role:** Striker
@@ -60,4 +63,5 @@
   - Medium Pulse Laser × 2
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6925/ocelot-4)
 - **Battle Value:** 1468
+- [*More Info*](ocelot/ocelot_4.md)
 

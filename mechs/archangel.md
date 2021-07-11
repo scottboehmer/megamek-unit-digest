@@ -19,6 +19,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/65/archangel-c-ang-o-invictus)
 - **Battle Value:** 2237
+- [*More Info*](archangel/archangel_c-ang-o_invictus.md)
 
 ## Archangel C-ANG-OA Dominus
 - **Role:** Juggernaut
@@ -37,6 +38,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/66/archangel-c-ang-oa-dominus)
 - **Battle Value:** 2134
+- [*More Info*](archangel/archangel_c-ang-oa_dominus.md)
 
 ## Archangel C-ANG-OB Infernus
 - **Role:** Sniper
@@ -55,6 +57,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/67/archangel-c-ang-ob-infernus)
 - **Battle Value:** 2069
+- [*More Info*](archangel/archangel_c-ang-ob_infernus.md)
 
 ## Archangel C-ANG-OC Comminus
 - **Role:** Juggernaut
@@ -75,6 +78,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/68/archangel-c-ang-oc-comminus)
 - **Battle Value:** 2010
+- [*More Info*](archangel/archangel_c-ang-oc_comminus.md)
 
 ## Archangel C-ANG-OD Luminos
 - **Role:** Juggernaut
@@ -96,6 +100,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/69/archangel-c-ang-od-luminos)
 - **Battle Value:** 2105
+- [*More Info*](archangel/archangel_c-ang-od_luminos.md)
 
 ## Archangel C-ANG-O (Berith)
 - **Role:** Juggernaut
@@ -115,6 +120,7 @@
   - C3i
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/64/archangel-c-ang-o-berith)
 - **Battle Value:** 2060
+- [*More Info*](archangel/archangel_c-ang-o_berith.md)
 
 ## Archangel C-ANG-OE Eminus
 - **Role:** Sniper
@@ -135,6 +141,7 @@
   - Targeting Computer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus)
 - **Battle Value:** 2097
+- [*More Info*](archangel/archangel_c-ang-oe_eminus.md)
 
 ## Archangel C-ANG-OS Caelestis
 - **Role:** Juggernaut
@@ -155,4 +162,5 @@
   - C3i
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/71/archangel-c-ang-os-caelestis)
 - **Battle Value:** 2026
+- [*More Info*](archangel/archangel_c-ang-os_caelestis.md)
 

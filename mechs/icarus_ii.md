@@ -13,6 +13,7 @@
   - Small Laser
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1600/icarus-ii-icr-1s)
 - **Battle Value:** 869
+- [*More Info*](icarus_ii/icarus_ii_icr-1s.md)
 
 ## Icarus II ICR-2S
 - **Role:** Brawler
@@ -28,4 +29,5 @@
   - Small Laser
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1601/icarus-ii-icr-2s)
 - **Battle Value:** 986
+- [*More Info*](icarus_ii/icarus_ii_icr-2s.md)
 

@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6281/thor-ii-grand-summoner-prime)
 - **Battle Value:** 2554
+- [*More Info*](grand_summoner/grand_summoner_prime.md)
 
 ## Grand Summoner "Thor II" A
 - **Role:** Sniper
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6282/thor-ii-grand-summoner-a)
 - **Battle Value:** 2473
+- [*More Info*](grand_summoner/grand_summoner_a.md)
 
 ## Grand Summoner "Thor II" B
 - **Role:** Missile Boat
@@ -51,6 +53,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6283/thor-ii-grand-summoner-b)
 - **Battle Value:** 2354
+- [*More Info*](grand_summoner/grand_summoner_b.md)
 
 ## Grand Summoner "Thor II" C
 - **Role:** Skirmisher
@@ -68,6 +71,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6284/thor-ii-grand-summoner-c)
 - **Battle Value:** 2351
+- [*More Info*](grand_summoner/grand_summoner_c.md)
 
 ## Grand Summoner "Thor II" D
 - **Role:** Sniper
@@ -86,6 +90,7 @@
   - Targeting Computer
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6285/thor-ii-grand-summoner-d)
 - **Battle Value:** 2878
+- [*More Info*](grand_summoner/grand_summoner_d.md)
 
 ## Grand Summoner "Thor II" E
 - **Role:** Sniper
@@ -100,4 +105,5 @@
   - ER Small Laser
 - **Source:** Iron Wind Metals - Early Republic
 - **Battle Value:** 2638
+- [*More Info*](grand_summoner/grand_summoner_e.md)
 

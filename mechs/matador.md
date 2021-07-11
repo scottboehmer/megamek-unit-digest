@@ -18,6 +18,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2098/matador-standard)
 - **Battle Value:** 2006
+- [*More Info*](matador/matador_standard.md)
 
 ## Matador 2
 - **Role:** Brawler
@@ -36,4 +37,5 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2099/matador-2)
 - **Battle Value:** 1728
+- [*More Info*](matador/matador_2.md)
 

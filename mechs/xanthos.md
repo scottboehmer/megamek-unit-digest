@@ -15,6 +15,7 @@
   - Small Laser × 2
 - **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3603/xanthos-xnt-2o)
 - **Battle Value:** 1300
+- [*More Info*](xanthos/xanthos_xnt-2o.md)
 
 ## Xanthos XNT-3O
 - **Role:** Juggernaut
@@ -31,6 +32,7 @@
   - Small Laser
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3604/xanthos-xnt-3o)
 - **Battle Value:** 1948
+- [*More Info*](xanthos/xanthos_xnt-3o.md)
 
 ## Xanthos XNT-4O
 - **Role:** Sniper
@@ -50,6 +52,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3605/xanthos-xnt-4o)
 - **Battle Value:** 2548
+- [*More Info*](xanthos/xanthos_xnt-4o.md)
 
 ## Xanthos XNT-5O
 - **Role:** Skirmisher
@@ -66,6 +69,7 @@
   - ER Small Laser
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3606/xanthos-xnt-5o)
 - **Battle Value:** 2146
+- [*More Info*](xanthos/xanthos_xnt-5o.md)
 
 ## Xanthos XNT-6O
 - **Role:** Juggernaut
@@ -85,6 +89,7 @@
   - Coolant Pod
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6825/xanthos-xnt-6o)
 - **Battle Value:** 2320
+- [*More Info*](xanthos/xanthos_xnt-6o.md)
 
 ## Xanthos XNT-7O
 - **Role:** Brawler
@@ -101,4 +106,5 @@
   - CASE II
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6824/xanthos-xnt-7o)
 - **Battle Value:** 2620
+- [*More Info*](xanthos/xanthos_xnt-7o.md)
 

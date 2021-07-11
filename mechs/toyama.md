@@ -15,6 +15,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3278/toyama-tym-1a)
 - **Battle Value:** 1714
+- [*More Info*](toyama/toyama_tym-1a.md)
 
 ## Toyama TYM-1B
 - **Role:** Sniper
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3279/toyama-tym-1b)
 - **Battle Value:** 1788
+- [*More Info*](toyama/toyama_tym-1b.md)
 
 ## Toyama TYM-1C
 - **Role:** Missile Boat
@@ -52,4 +54,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3280/toyama-tym-1c)
 - **Battle Value:** 1727
+- [*More Info*](toyama/toyama_tym-1c.md)
 

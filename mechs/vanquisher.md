@@ -15,6 +15,7 @@
   - C3i
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5338/vanquisher-vqr-2a)
 - **Battle Value:** 2234
+- [*More Info*](vanquisher/vanquisher_vqr-2a.md)
 
 ## Vanquisher VQR-2B
 - **Role:** Juggernaut
@@ -31,6 +32,7 @@
   - C3i
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5339/vanquisher-vqr-2b)
 - **Battle Value:** 2073
+- [*More Info*](vanquisher/vanquisher_vqr-2b.md)
 
 ## Vanquisher VQR-5V
 - **Role:** Juggernaut
@@ -49,6 +51,7 @@
   - C3i
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5340/vanquisher-vqr-5v)
 - **Battle Value:** 2332
+- [*More Info*](vanquisher/vanquisher_vqr-5v.md)
 
 ## Vanquisher VQR-7U
 - **Role:** Juggernaut
@@ -72,6 +75,7 @@
   - C3i
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721/vanquisher-vqr-7u)
 - **Battle Value:** 2144
+- [*More Info*](vanquisher/vanquisher_vqr-7u.md)
 
 ## Vanquisher VQR-7V
 - **Role:** Juggernaut
@@ -91,6 +95,7 @@
   - C3i
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5722/vanquisher-vqr-7v)
 - **Battle Value:** 2420
+- [*More Info*](vanquisher/vanquisher_vqr-7v.md)
 
 ## Vanquisher VQR-2A (Pravuil)
 - **Role:** Juggernaut
@@ -111,4 +116,5 @@
   - C3i
 - **Sources:** TP:Arcturus - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil)
 - **Battle Value:** 2073
+- [*More Info*](vanquisher/vanquisher_vqr-2a_pravuil.md)
 

@@ -11,6 +11,7 @@
   - Large Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1687/jenner-jr7-a)
 - **Battle Value:** 712
+- [*More Info*](jenner/jenner_jr7-a.md)
 
 ## Jenner JR7-F
 - **Role:** Striker
@@ -24,6 +25,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1693/jenner-jr7-f)
 - **Battle Value:** 1011
+- [*More Info*](jenner/jenner_jr7-f.md)
 
 ## Jenner JR7-D
 - **Role:** Striker
@@ -38,6 +40,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1692/jenner-jr7-d)
 - **Battle Value:** 875
+- [*More Info*](jenner/jenner_jr7-d.md)
 
 ## Jenner JR7-F (Smith)
 - **Role:** Undefined
@@ -50,6 +53,7 @@
   - Medium Laser × 6
 - **Sources:** TRO 3039, [Master Unit List](http://masterunitlist.info/Unit/Details/7796/jenner-jr7-f-smith)
 - **Battle Value:** 1070
+- [*More Info*](jenner/jenner_jr7-f_smith.md)
 
 ## Jenner JR7-K (Grace)
 - **Role:** Scout
@@ -64,6 +68,7 @@
   - Narc (ammo: 18)
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1696/jenner-jr7-k-grace)
 - **Battle Value:** 702
+- [*More Info*](jenner/jenner_jr7-k_grace.md)
 
 ## Jenner JR7-K
 - **Role:** Striker
@@ -80,6 +85,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1694/jenner-jr7-k)
 - **Battle Value:** 889
+- [*More Info*](jenner/jenner_jr7-k.md)
 
 ## Jenner JR7-C
 - **Role:** Striker
@@ -97,6 +103,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1688/jenner-jr7-c)
 - **Battle Value:** 832
+- [*More Info*](jenner/jenner_jr7-c.md)
 
 ## Jenner JR7-K (Samuli)
 - **Role:** Missile Boat
@@ -113,6 +120,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1697/jenner-jr7-k-samuli)
 - **Battle Value:** 1001
+- [*More Info*](jenner/jenner_jr7-k_samuli.md)
 
 ## Jenner JR7-K (Grace II)
 - **Role:** Scout
@@ -129,6 +137,7 @@
   - C3 Slave
 - **Sources:** Starterbook: Sword and Dragon - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1695/jenner-jr7-k-grace-ii)
 - **Battle Value:** 787
+- [*More Info*](jenner/jenner_jr7-k_grace_ii.md)
 
 ## Jenner JR7-C3
 - **Role:** Striker
@@ -144,6 +153,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1690/jenner-jr7-c3)
 - **Battle Value:** 1069
+- [*More Info*](jenner/jenner_jr7-c3.md)
 
 ## Jenner JR7-C2
 - **Role:** Missile Boat
@@ -162,6 +172,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1689/jenner-jr7-c2)
 - **Battle Value:** 769
+- [*More Info*](jenner/jenner_jr7-c2.md)
 
 ## Jenner JR10-X
 - **Role:** Striker
@@ -180,6 +191,7 @@
   - Null-Signature System
 - **Sources:** XTRO Kurita - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1686/jenner-jr10-x)
 - **Battle Value:** 1269
+- [*More Info*](jenner/jenner_jr10-x.md)
 
 ## Jenner JR7-C4
 - **Role:** Missile Boat
@@ -197,4 +209,5 @@
   - C3 Boosted Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4)
 - **Battle Value:** 703
+- [*More Info*](jenner/jenner_jr7-c4.md)
 

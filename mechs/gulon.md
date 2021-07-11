@@ -15,6 +15,7 @@
   - Liquid Cargo
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7844/gulon-gln-1a-miningmech)
 - **Battle Value:** 352
+- [*More Info*](gulon/gulon_gln-1a_miningmech.md)
 
 ## Gulon GLN-1B SecurityMech
 - **Role:** Ambusher
@@ -29,6 +30,7 @@
   - Mining Drill
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7845/gulon-gln-1b-securitymech)
 - **Battle Value:** 410
+- [*More Info*](gulon/gulon_gln-1b_securitymech.md)
 
 ## Gulon C SolahmaMech
 - **Role:** Ambusher
@@ -43,4 +45,5 @@
   - Mining Drill
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7846/gulon-c-solahmamech)
 - **Battle Value:** 533
+- [*More Info*](gulon/gulon_c_solahmamech.md)
 

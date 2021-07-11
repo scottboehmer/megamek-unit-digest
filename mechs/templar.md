@@ -17,6 +17,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5191/templar-tlr1-o)
 - **Battle Value:** 2045
+- [*More Info*](templar/templar_tlr1-o.md)
 
 ## Templar TLR1-OA
 - **Role:** Brawler
@@ -36,6 +37,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5195/templar-tlr1-oa)
 - **Battle Value:** 2070
+- [*More Info*](templar/templar_tlr1-oa.md)
 
 ## Templar TLR1-OB
 - **Role:** Sniper
@@ -52,6 +54,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5196/templar-tlr1-ob)
 - **Battle Value:** 1806
+- [*More Info*](templar/templar_tlr1-ob.md)
 
 ## Templar TLR1-OC
 - **Role:** Brawler
@@ -70,6 +73,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5197/templar-tlr1-oc)
 - **Battle Value:** 2063
+- [*More Info*](templar/templar_tlr1-oc.md)
 
 ## Templar TLR1-OD
 - **Role:** Brawler
@@ -85,6 +89,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5707/templar-tlr1-od)
 - **Battle Value:** 1840
+- [*More Info*](templar/templar_tlr1-od.md)
 
 ## Templar TLR1-OE
 - **Role:** Missile Boat
@@ -104,6 +109,7 @@
   - C3 Master
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5708/templar-tlr1-oe)
 - **Battle Value:** 1865
+- [*More Info*](templar/templar_tlr1-oe.md)
 
 ## Templar TLR1-O (Grayson)
 - **Role:** Brawler
@@ -122,6 +128,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5192/templar-tlr1-o-grayson)
 - **Battle Value:** 1868
+- [*More Info*](templar/templar_tlr1-o_grayson.md)
 
 ## Templar TLR1-O (Tancred)
 - **Role:** Brawler
@@ -139,6 +146,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5193/templar-tlr1-o-tancred)
 - **Battle Value:** 2273
+- [*More Info*](templar/templar_tlr1-o_tancred.md)
 
 ## Templar TLR1-OF
 - **Role:** Brawler
@@ -158,6 +166,7 @@
   - C3 Master
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5709/templar-tlr1-of)
 - **Battle Value:** 2029
+- [*More Info*](templar/templar_tlr1-of.md)
 
 ## Templar TLR1-OG
 - **Role:** Sniper
@@ -175,6 +184,7 @@
   - C3 Slave
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5710/templar-tlr1-og)
 - **Battle Value:** 1632
+- [*More Info*](templar/templar_tlr1-og.md)
 
 ## Templar TLR1-OU
 - **Role:** Brawler
@@ -195,6 +205,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3171/templar-tlr1-ou)
 - **Battle Value:** 1747
+- [*More Info*](templar/templar_tlr1-ou.md)
 
 ## Templar TLR1-OH
 - **Role:** Brawler
@@ -214,6 +225,7 @@
   - C3 Slave
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5711/templar-tlr1-oh)
 - **Battle Value:** 1958
+- [*More Info*](templar/templar_tlr1-oh.md)
 
 ## Templar TLR1-OI
 - **Role:** Brawler
@@ -230,6 +242,7 @@
   - C3 Slave
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5712/templar-tlr1-oi)
 - **Battle Value:** 2202
+- [*More Info*](templar/templar_tlr1-oi.md)
 
 ## Templar TLR1-OBLO
 - **Role:** Undefined
@@ -250,6 +263,7 @@
   - CASE
 - **Sources:** SO:Unending Faith: Late Republic Era, [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo)
 - **Battle Value:** 2062
+- [*More Info*](templar/templar_tlr1-oblo.md)
 
 ## Templar TLR1-OR
 - **Role:** Sniper
@@ -267,4 +281,5 @@
   - Clan CASE II
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6852/templar-tlr1-or)
 - **Battle Value:** 2423
+- [*More Info*](templar/templar_tlr1-or.md)
 

@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1892/linebacker-prime)
 - **Battle Value:** 2390
+- [*More Info*](linebacker/linebacker_prime.md)
 
 ## Linebacker A
 - **Role:** Sniper
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1886/linebacker-a)
 - **Battle Value:** 2264
+- [*More Info*](linebacker/linebacker_a.md)
 
 ## Linebacker B
 - **Role:** Skirmisher
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1887/linebacker-b)
 - **Battle Value:** 2048
+- [*More Info*](linebacker/linebacker_b.md)
 
 ## Linebacker C
 - **Role:** Skirmisher
@@ -66,6 +69,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1888/linebacker-c)
 - **Battle Value:** 2075
+- [*More Info*](linebacker/linebacker_c.md)
 
 ## Linebacker D
 - **Role:** Skirmisher
@@ -82,6 +86,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1889/linebacker-d)
 - **Battle Value:** 2039
+- [*More Info*](linebacker/linebacker_d.md)
 
 ## Linebacker E
 - **Role:** Skirmisher
@@ -98,6 +103,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1890/linebacker-e)
 - **Battle Value:** 1846
+- [*More Info*](linebacker/linebacker_e.md)
 
 ## Linebacker H
 - **Role:** Skirmisher
@@ -113,6 +119,7 @@
   - ER Small Laser
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1891/linebacker-h)
 - **Battle Value:** 2097
+- [*More Info*](linebacker/linebacker_h.md)
 
 ## Linebacker F
 - **Role:** Skirmisher
@@ -129,6 +136,7 @@
   - CASE
 - **Sources:** ilClan Rec Guide 6 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f)
 - **Battle Value:** 1928
+- [*More Info*](linebacker/linebacker_f.md)
 
 ## Linebacker G
 - **Role:** Skirmisher
@@ -145,6 +153,7 @@
   - Supercharger
 - **Sources:** ilClan Rec Guide 6 - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6880/linebacker-g)
 - **Battle Value:** 2433
+- [*More Info*](linebacker/linebacker_g.md)
 
 ## Linebacker I
 - **Role:** Scout
@@ -163,6 +172,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7525/linebacker-i)
 - **Battle Value:** 1853
+- [*More Info*](linebacker/linebacker_i.md)
 
 ## Linebacker T
 - **Role:** Skirmisher
@@ -181,4 +191,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7526/linebacker-t)
 - **Battle Value:** 1851
+- [*More Info*](linebacker/linebacker_t.md)
 

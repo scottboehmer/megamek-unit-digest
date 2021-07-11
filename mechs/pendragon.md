@@ -15,6 +15,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2464/pendragon-pdg-1x-muse-red)
 - **Battle Value:** 2230
+- [*More Info*](pendragon/pendragon_pdg-1x_muse_red.md)
 
 ## Pendragon PDG-1R
 - **Role:** Missile Boat
@@ -32,6 +33,7 @@
   - C3 Slave
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799/pendragon-pdg-1r)
 - **Battle Value:** 2151
+- [*More Info*](pendragon/pendragon_pdg-1r.md)
 
 ## Pendragon PDG-3R
 - **Role:** Sniper
@@ -50,4 +52,5 @@
   - Coolant Pod
 - **Source:** Iron Wind Metals
 - **Battle Value:** 1991
+- [*More Info*](pendragon/pendragon_pdg-3r.md)
 

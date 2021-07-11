@@ -17,4 +17,5 @@
   - Searchlight
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5101/space-hound-am-prm-sh1-prospectormech)
 - **Battle Value:** 465
+- [*More Info*](space_hound/space_hound_am-prm-sh1_prospectormech.md)
 

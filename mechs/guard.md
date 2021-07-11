@@ -12,6 +12,7 @@
   - Ejection Seat
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4253/guard-gs-54-securitymech)
 - **Battle Value:** 156
+- [*More Info*](guard/guard_gs-54_securitymech.md)
 
 ## Guard GS-107X SecurityMech
 - **Role:** Ambusher
@@ -26,4 +27,5 @@
   - Ejection Seat
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7823/guard-gs-107x-securitymech)
 - **Battle Value:** 367
+- [*More Info*](guard/guard_gs-107x_securitymech.md)
 

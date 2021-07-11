@@ -15,6 +15,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2259/nexus-nxs1-a)
 - **Battle Value:** 643
+- [*More Info*](nexus/nexus_nxs1-a.md)
 
 ## Nexus NXS1-B
 - **Role:** Scout
@@ -31,4 +32,5 @@
   - C3i
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2260/nexus-nxs1-b)
 - **Battle Value:** 715
+- [*More Info*](nexus/nexus_nxs1-b.md)
 

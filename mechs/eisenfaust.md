@@ -13,6 +13,7 @@
   - Medium Laser × 2
 - **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5618/eisenfaust-eft-2)
 - **Battle Value:** 715
+- [*More Info*](eisenfaust/eisenfaust_eft-2.md)
 
 ## Eisenfaust EFT-4J
 - **Role:** Juggernaut
@@ -28,6 +29,7 @@
   - Small Laser
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/944/eisenfaust-eft-4j)
 - **Battle Value:** 977
+- [*More Info*](eisenfaust/eisenfaust_eft-4j.md)
 
 ## Eisenfaust EFT-7X
 - **Role:** Brawler
@@ -43,6 +45,7 @@
   - ER Small Laser
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/945/eisenfaust-eft-7x)
 - **Battle Value:** 1203
+- [*More Info*](eisenfaust/eisenfaust_eft-7x.md)
 
 ## Eisenfaust EFT-8X
 - **Role:** Brawler
@@ -58,4 +61,5 @@
   - ER Small Laser
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/946/eisenfaust-eft-8x)
 - **Battle Value:** 1039
+- [*More Info*](eisenfaust/eisenfaust_eft-8x.md)
 

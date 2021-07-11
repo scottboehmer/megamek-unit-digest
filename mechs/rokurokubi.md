@@ -12,6 +12,7 @@
   - Sword
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6393/rokurokubi-rk-4k)
 - **Battle Value:** 1286
+- [*More Info*](rokurokubi/rokurokubi_rk-4k.md)
 
 ## Rokurokubi RK-4T
 - **Role:** Striker
@@ -26,6 +27,7 @@
   - Sword
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6392/rokurokubi-rk-4t)
 - **Battle Value:** 998
+- [*More Info*](rokurokubi/rokurokubi_rk-4t.md)
 
 ## Rokurokubi RK-4X
 - **Role:** Striker
@@ -43,4 +45,5 @@
   - Supercharger
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6394/rokurokubi-rk-4x)
 - **Battle Value:** 1858
+- [*More Info*](rokurokubi/rokurokubi_rk-4x.md)
 

@@ -11,6 +11,7 @@
   - ER Large Laser × 2
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/252/barghest-bgs-1t)
 - **Battle Value:** 1787
+- [*More Info*](barghest/barghest_bgs-1t.md)
 
 ## Barghest BGS-2T
 - **Role:** Skirmisher
@@ -24,6 +25,7 @@
   - ER PPC
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/253/barghest-bgs-2t)
 - **Battle Value:** 1794
+- [*More Info*](barghest/barghest_bgs-2t.md)
 
 ## Barghest BGS-3T
 - **Role:** Skirmisher
@@ -37,6 +39,7 @@
   - ER Large Laser
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/254/barghest-bgs-3t)
 - **Battle Value:** 1900
+- [*More Info*](barghest/barghest_bgs-3t.md)
 
 ## Barghest BGS-7S
 - **Role:** Missile Boat
@@ -55,6 +58,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/255/barghest-bgs-7s)
 - **Battle Value:** 1507
+- [*More Info*](barghest/barghest_bgs-7s.md)
 
 ## Barghest BGS-4X
 - **Role:** Sniper
@@ -73,6 +77,7 @@
   - C3 Slave
 - **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3791/barghest-bgs-4x)
 - **Battle Value:** 1667
+- [*More Info*](barghest/barghest_bgs-4x.md)
 
 ## Barghest BGS-4T
 - **Role:** Brawler
@@ -92,4 +97,5 @@
   - C3 Slave
 - **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/3790/barghest-bgs-4t)
 - **Battle Value:** 1734
+- [*More Info*](barghest/barghest_bgs-4t.md)
 

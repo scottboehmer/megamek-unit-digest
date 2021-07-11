@@ -13,6 +13,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/140/atlas-as7-d)
 - **Battle Value:** 1897
+- [*More Info*](atlas/atlas_as7-d.md)
 
 ## Atlas AS7-D-DC
 - **Role:** Juggernaut
@@ -30,6 +31,7 @@
   - Command Console
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/142/atlas-as7-d-dc)
 - **Battle Value:** 1858
+- [*More Info*](atlas/atlas_as7-d-dc.md)
 
 ## Atlas AS7-RS
 - **Role:** Juggernaut
@@ -45,6 +47,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/147/atlas-as7-rs)
 - **Battle Value:** 1849
+- [*More Info*](atlas/atlas_as7-rs.md)
 
 ## Atlas AS7-A
 - **Role:** Undefined
@@ -60,6 +63,7 @@
   - Medium Laser × 2
 - **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7433/atlas-as7-a)
 - **Battle Value:** 1787
+- [*More Info*](atlas/atlas_as7-a.md)
 
 ## Atlas AS7-WGS (Samsonov)
 - **Role:** Juggernaut
@@ -73,6 +77,7 @@
   - PPC × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/150/atlas-as7-wgs-samsonov)
 - **Battle Value:** 1884
+- [*More Info*](atlas/atlas_as7-wgs_samsonov.md)
 
 ## Atlas AS7-D (Danielle)
 - **Role:** Juggernaut
@@ -87,6 +92,7 @@
   - Medium Laser × 6
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141/atlas-as7-d-danielle)
 - **Battle Value:** 1976
+- [*More Info*](atlas/atlas_as7-d_danielle.md)
 
 ## Atlas AS7-K
 - **Role:** Sniper
@@ -105,6 +111,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/144/atlas-as7-k)
 - **Battle Value:** 2175
+- [*More Info*](atlas/atlas_as7-k.md)
 
 ## Atlas AS7-C
 - **Role:** Sniper
@@ -124,6 +131,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/138/atlas-as7-c)
 - **Battle Value:** 2163
+- [*More Info*](atlas/atlas_as7-c.md)
 
 ## Atlas AS7-CM
 - **Role:** Sniper
@@ -143,6 +151,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/139/atlas-as7-cm)
 - **Battle Value:** 2036
+- [*More Info*](atlas/atlas_as7-cm.md)
 
 ## Atlas AS7-D(C)
 - **Role:** Undefined
@@ -159,6 +168,7 @@
 - **Equipment:**
   - Inner Sphere CASE
 - **Battle Value:** 2306
+- [*More Info*](atlas/atlas_as7-dc.md)
 
 ## Atlas AS7-K-DC
 - **Role:** Sniper
@@ -178,6 +188,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3749/atlas-as7-k-dc)
 - **Battle Value:** 2158
+- [*More Info*](atlas/atlas_as7-k-dc.md)
 
 ## Atlas AS7-S
 - **Role:** Juggernaut
@@ -194,6 +205,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s)
 - **Battle Value:** 1929
+- [*More Info*](atlas/atlas_as7-s.md)
 
 ## Atlas C
 - **Role:** Juggernaut
@@ -211,6 +223,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c)
 - **Battle Value:** 2340
+- [*More Info*](atlas/atlas_c.md)
 
 ## Atlas AS7-S2
 - **Role:** Sniper
@@ -228,6 +241,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/149/atlas-as7-s2)
 - **Battle Value:** 2378
+- [*More Info*](atlas/atlas_as7-s2.md)
 
 ## Atlas AS7-S3
 - **Role:** Sniper
@@ -247,6 +261,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5461/atlas-as7-s3)
 - **Battle Value:** 2378
+- [*More Info*](atlas/atlas_as7-s3.md)
 
 ## Atlas AS7-Dr
 - **Role:** Juggernaut
@@ -265,6 +280,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr)
 - **Battle Value:** 2101
+- [*More Info*](atlas/atlas_as7-dr.md)
 
 ## Atlas AS8-D
 - **Role:** Juggernaut
@@ -285,6 +301,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/151/atlas-as8-d)
 - **Battle Value:** 2432
+- [*More Info*](atlas/atlas_as8-d.md)
 
 ## Atlas AS7-00 (Jurn)
 - **Role:** Sniper
@@ -306,6 +323,7 @@
   - Remote Sensor Dispenser × 2
 - **Sources:** XTRO Periphery - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5564/atlas-as7-00-jurn)
 - **Battle Value:** 2053
+- [*More Info*](atlas/atlas_as7-00_jurn.md)
 
 ## Atlas AS7-K2
 - **Role:** Sniper
@@ -323,6 +341,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/145/atlas-as7-k2)
 - **Battle Value:** 2160
+- [*More Info*](atlas/atlas_as7-k2.md)
 
 ## Atlas AS7-K2 (Jedra)
 - **Role:** Juggernaut
@@ -339,6 +358,7 @@
   - CASE
 - **Sources:** DTP Vega, [Master Unit List](http://masterunitlist.info/Unit/Details/5541/atlas-as7-k2-jedra)
 - **Battle Value:** 1971
+- [*More Info*](atlas/atlas_as7-k2_jedra.md)
 
 ## Atlas AS7-K3
 - **Role:** Sniper
@@ -357,6 +377,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/146/atlas-as7-k3)
 - **Battle Value:** 2346
+- [*More Info*](atlas/atlas_as7-k3.md)
 
 ## Atlas AS7-K4
 - **Role:** Brawler
@@ -374,4 +395,5 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6832/atlas-as7-k4)
 - **Battle Value:** 2153
+- [*More Info*](atlas/atlas_as7-k4.md)
 

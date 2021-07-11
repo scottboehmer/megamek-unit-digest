@@ -13,6 +13,7 @@
   - SRM 2 × 2 (ammo: 100)
 - **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/877/dervish-dv-1s)
 - **Battle Value:** 864
+- [*More Info*](dervish/dervish_dv-1s.md)
 
 ## Dervish DV-6M
 - **Role:** Missile Boat
@@ -28,6 +29,7 @@
   - SRM 2 × 2 (ammo: 100)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/878/dervish-dv-6m)
 - **Battle Value:** 1146
+- [*More Info*](dervish/dervish_dv-6m.md)
 
 ## Dervish DV-6Md
 - **Role:** Missile Boat
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5869/dervish-dv-6md)
 - **Battle Value:** 1251
+- [*More Info*](dervish/dervish_dv-6md.md)
 
 ## Dervish DV-7D
 - **Role:** Missile Boat
@@ -62,6 +65,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/880/dervish-dv-7d)
 - **Battle Value:** 1412
+- [*More Info*](dervish/dervish_dv-7d.md)
 
 ## Dervish DV-8D
 - **Role:** Missile Boat
@@ -78,6 +82,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/881/dervish-dv-8d)
 - **Battle Value:** 1765
+- [*More Info*](dervish/dervish_dv-8d.md)
 
 ## Dervish DV-9D
 - **Role:** Missile Boat
@@ -95,6 +100,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/883/dervish-dv-9d)
 - **Battle Value:** 1518
+- [*More Info*](dervish/dervish_dv-9d.md)
 
 ## Dervish DV-8D2 'Lightbringer'
 - **Role:** Striker
@@ -112,6 +118,7 @@
   - Coolant Pod × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882/dervish-dv-8d2-lightbringer)
 - **Battle Value:** 1717
+- [*More Info*](dervish/dervish_dv-8d2_'lightbringer'.md)
 
 ## Dervish DV-6Mr
 - **Role:** Brawler
@@ -127,4 +134,5 @@
   - Medium Laser × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr)
 - **Battle Value:** 1347
+- [*More Info*](dervish/dervish_dv-6mr.md)
 

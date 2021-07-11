@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/184/axman-axm-1n)
 - **Battle Value:** 1374
+- [*More Info*](axman/axman_axm-1n.md)
 
 ## Axman AXM-2N
 - **Role:** Skirmisher
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n)
 - **Battle Value:** 1458
+- [*More Info*](axman/axman_axm-2n.md)
 
 ## Axman AXM-3S
 - **Role:** Skirmisher
@@ -52,6 +54,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/186/axman-axm-3s)
 - **Battle Value:** 1649
+- [*More Info*](axman/axman_axm-3s.md)
 
 ## Axman AXM-3Sr
 - **Role:** Skirmisher
@@ -72,6 +75,7 @@
   - C3 Slave
 - **Sources:** TRO 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr)
 - **Battle Value:** 1734
+- [*More Info*](axman/axman_axm-3sr.md)
 
 ## Axman AXM-4D
 - **Role:** Brawler
@@ -89,6 +93,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d)
 - **Battle Value:** 1222
+- [*More Info*](axman/axman_axm-4d.md)
 
 ## Axman AXM-6X
 - **Role:** Missile Boat
@@ -105,6 +110,7 @@
   - Supercharger
 - **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x)
 - **Battle Value:** 2132
+- [*More Info*](axman/axman_axm-6x.md)
 
 ## Axman AXM-6T
 - **Role:** Missile Boat
@@ -120,6 +126,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t)
 - **Battle Value:** 1830
+- [*More Info*](axman/axman_axm-6t.md)
 
 ## Axman AXM-5N
 - **Role:** Skirmisher
@@ -140,4 +147,5 @@
   - CASE II
 - **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n)
 - **Battle Value:** 2575
+- [*More Info*](axman/axman_axm-5n.md)
 

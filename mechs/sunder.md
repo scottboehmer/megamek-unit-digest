@@ -13,6 +13,7 @@
   - SRM 4 × 3 (ammo: 50)
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3123/sunder-sd1-o)
 - **Battle Value:** 1747
+- [*More Info*](sunder/sunder_sd1-o.md)
 
 ## Sunder SD1-OA
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - LRM 5 × 3 (ammo: 48)
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3125/sunder-sd1-oa)
 - **Battle Value:** 2003
+- [*More Info*](sunder/sunder_sd1-oa.md)
 
 ## Sunder SD1-OB
 - **Role:** Brawler
@@ -45,6 +47,7 @@
   - C3 Master × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3126/sunder-sd1-ob)
 - **Battle Value:** 1597
+- [*More Info*](sunder/sunder_sd1-ob.md)
 
 ## Sunder SD1-OC
 - **Role:** Brawler
@@ -62,6 +65,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3127/sunder-sd1-oc)
 - **Battle Value:** 1735
+- [*More Info*](sunder/sunder_sd1-oc.md)
 
 ## Sunder SD1-OR
 - **Role:** Brawler
@@ -77,6 +81,7 @@
   - Clan ER Medium Laser × 4
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3130/sunder-sd1-or)
 - **Battle Value:** 2462
+- [*More Info*](sunder/sunder_sd1-or.md)
 
 ## Sunder SD1-OD
 - **Role:** Brawler
@@ -91,6 +96,7 @@
   - PPC × 2
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3128/sunder-sd1-od)
 - **Battle Value:** 1947
+- [*More Info*](sunder/sunder_sd1-od.md)
 
 ## Sunder SD1-O (Samual)
 - **Role:** Juggernaut
@@ -108,6 +114,7 @@
   - A-Pod × 2
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3124/sunder-sd1-o-samual)
 - **Battle Value:** 1593
+- [*More Info*](sunder/sunder_sd1-o_samual.md)
 
 ## Sunder SD1-OE
 - **Role:** Brawler
@@ -123,6 +130,7 @@
   - ER Medium Laser
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3129/sunder-sd1-oe)
 - **Battle Value:** 1876
+- [*More Info*](sunder/sunder_sd1-oe.md)
 
 ## Sunder SD1-OX
 - **Role:** Missile Boat
@@ -140,6 +148,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox)
 - **Battle Value:** 1761
+- [*More Info*](sunder/sunder_sd1-ox.md)
 
 ## Sunder SD1-OF
 - **Role:** Missile Boat
@@ -157,6 +166,7 @@
   - C3 Boosted Slave
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6846/sunder-sd1-of)
 - **Battle Value:** 1854
+- [*More Info*](sunder/sunder_sd1-of.md)
 
 ## Sunder SD1-OG
 - **Role:** Brawler
@@ -175,4 +185,5 @@
   - C3 Boosted Slave
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6845/sunder-sd1-og)
 - **Battle Value:** 2594
+- [*More Info*](sunder/sunder_sd1-og.md)
 

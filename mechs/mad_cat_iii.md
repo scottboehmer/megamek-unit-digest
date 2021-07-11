@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** XTRO Clans - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4563/mad-cat-iii-x)
 - **Battle Value:** 2232
+- [*More Info*](mad_cat_iii/mad_cat_iii_x.md)
 
 ## Mad Cat III (Eve)
 - **Role:** Sniper
@@ -33,6 +34,7 @@
   - TAG
 - **Sources:** DTP Liao, [Master Unit List](http://masterunitlist.info/Unit/Details/5543/mad-cat-iii-eve)
 - **Battle Value:** 2393
+- [*More Info*](mad_cat_iii/mad_cat_iii_eve.md)
 
 ## Mad Cat III (Standard)
 - **Role:** Missile Boat
@@ -49,6 +51,7 @@
   - CASE
 - **Sources:** TRO Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4561/mad-cat-iii-standard)
 - **Battle Value:** 2400
+- [*More Info*](mad_cat_iii/mad_cat_iii_standard.md)
 
 ## Mad Cat III 2
 - **Role:** Undefined
@@ -65,6 +68,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2)
 - **Battle Value:** 2095
+- [*More Info*](mad_cat_iii/mad_cat_iii_2.md)
 
 ## Mad Cat III 3
 - **Role:** Sniper
@@ -81,6 +85,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6896/mad-cat-iii-3)
 - **Battle Value:** 2515
+- [*More Info*](mad_cat_iii/mad_cat_iii_3.md)
 
 ## Mad Cat III 4
 - **Role:** Skirmisher
@@ -99,6 +104,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6897/mad-cat-iii-4)
 - **Battle Value:** 2061
+- [*More Info*](mad_cat_iii/mad_cat_iii_4.md)
 
 ## Mad Cat III 5
 - **Role:** Skirmisher
@@ -115,6 +121,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6898/mad-cat-iii-5)
 - **Battle Value:** 2095
+- [*More Info*](mad_cat_iii/mad_cat_iii_5.md)
 
 ## Mad Cat III (Dark Age RS)
 - **Role:** Undefined
@@ -132,4 +139,5 @@
   - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 2061
+- [*More Info*](mad_cat_iii/mad_cat_iii_dark_age_rs.md)
 

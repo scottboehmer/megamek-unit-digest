@@ -14,6 +14,7 @@
   - Cargo
 - **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7166/crosscut-ed-x1-loggermech)
 - **Battle Value:** 251
+- [*More Info*](crosscut/crosscut_ed-x1_loggermech.md)
 
 ## Crosscut ED-X2 ForestryMech
 - **Role:** Ambusher
@@ -30,6 +31,7 @@
   - Cargo × 2
 - **Sources:** RS OK - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/741/crosscut-ed-x2-loggermech)
 - **Battle Value:** 223
+- [*More Info*](crosscut/crosscut_ed-x2_forestrymech.md)
 
 ## Crosscut ED-X4K LoggerMech
 - **Role:** Ambusher
@@ -45,6 +47,7 @@
   - Cargo
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7466/crosscut-ed-x4k-loggermech)
 - **Battle Value:** 367
+- [*More Info*](crosscut/crosscut_ed-x4k_loggermech.md)
 
 ## Crosscut ED-X2M LoggerMech MOD
 - **Role:** Ambusher
@@ -61,6 +64,7 @@
   - Cargo × 2
 - **Source:** RS IA - Early Succession War
 - **Battle Value:** 244
+- [*More Info*](crosscut/crosscut_ed-x2m_loggermech_mod.md)
 
 ## Crosscut ED-X2 (Flamer)
 - **Role:** Ambusher
@@ -76,6 +80,7 @@
   - Cargo × 2
 - **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7167/crosscut-ed-x2m-loggermech-mod-ed-x2-flamer)
 - **Battle Value:** 168
+- [*More Info*](crosscut/crosscut_ed-x2_flamer.md)
 
 ## Crosscut ED-X2 (RL)
 - **Role:** Ambusher
@@ -90,6 +95,7 @@
   - Lift Hoist
 - **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/6973/crosscut-ed-x2-loggermech-rl)
 - **Battle Value:** 422
+- [*More Info*](crosscut/crosscut_ed-x2_rl.md)
 
 ## Crosscut ED-X4 LoggerMech
 - **Role:** Ambusher
@@ -106,6 +112,7 @@
   - Cargo
 - **Sources:** RS IA - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/4024/crosscut-ed-x4-loggermech)
 - **Battle Value:** 223
+- [*More Info*](crosscut/crosscut_ed-x4_loggermech.md)
 
 ## Crosscut ED-X4X LoggerMech
 - **Role:** Ambusher
@@ -119,6 +126,7 @@
   - Chainsaw × 2
 - **Sources:** RS IA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/4026/crosscut-ed-x4x-loggermech)
 - **Battle Value:** 230
+- [*More Info*](crosscut/crosscut_ed-x4x_loggermech.md)
 
 ## Crosscut ED-X4D DemolitionMech
 - **Role:** Undefined
@@ -134,6 +142,7 @@
   - Lift Hoist
 - **Sources:** RS IA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/4025/crosscut-ed-x4d-demolitionmech)
 - **Battle Value:** 225
+- [*More Info*](crosscut/crosscut_ed-x4d_demolitionmech.md)
 
 ## Crosscut ED-X4B DemolitionMech
 - **Role:** Undefined
@@ -150,6 +159,7 @@
   - Lift Hoist
 - **Sources:** RS IA - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7168/crosscut-ed-x4b-demolitionmech)
 - **Battle Value:** 224
+- [*More Info*](crosscut/crosscut_ed-x4b_demolitionmech.md)
 
 ## Crosscut ED-X4M LoggerMech MOD
 - **Role:** Ambusher
@@ -164,6 +174,7 @@
   - Lift Hoist
 - **Sources:** RS IA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7169/crosscut-ed-x4m-loggermech-mod)
 - **Battle Value:** 430
+- [*More Info*](crosscut/crosscut_ed-x4m_loggermech_mod.md)
 
 ## Crosscut ED-X5M LoggerMech MOD
 - **Role:** Ambusher
@@ -177,6 +188,7 @@
   - Chainsaw
 - **Sources:** RS IA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7170/crosscut-ed-x5m-loggermech-mod)
 - **Battle Value:** 317
+- [*More Info*](crosscut/crosscut_ed-x5m_loggermech_mod.md)
 
 ## Crosscut ED-XX 'Ichabod'
 - **Role:** Ambusher
@@ -195,6 +207,7 @@
   - CASE
 - **Sources:** XTR Gladiators - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/744/crosscut-ed-xx-ichabod)
 - **Battle Value:** 442
+- [*More Info*](crosscut/crosscut_ed-xx_'ichabod'.md)
 
 ## Crosscut ED-X5M-B DemolitionMech MOD
 - **Role:** Undefined
@@ -208,6 +221,7 @@
   - Dual Saw
 - **Sources:** RS VA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7171/crosscut-ed-x5m-b-demolitionmech-mod)
 - **Battle Value:** 460
+- [*More Info*](crosscut/crosscut_ed-x5m-b_demolitionmech_mod.md)
 
 ## Crosscut ED-X4M-A LoggerMech MOD
 - **Role:** Sniper
@@ -221,6 +235,7 @@
   - Chainsaw
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7852/crosscut-ed-x4m-a-loggermech-mod)
 - **Battle Value:** 279
+- [*More Info*](crosscut/crosscut_ed-x4m-a_loggermech_mod.md)
 
 ## Crosscut ED-X4M-E LoggerMech MOD
 - **Role:** Sniper
@@ -234,6 +249,7 @@
   - Chainsaw
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7853/crosscut-ed-x4m-e-loggermech-mod)
 - **Battle Value:** 480
+- [*More Info*](crosscut/crosscut_ed-x4m-e_loggermech_mod.md)
 
 ## Crosscut ED-X4M-L LoggerMech MOD
 - **Role:** Sniper
@@ -247,4 +263,5 @@
   - Chainsaw
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7854/crosscut-ed-x4m-l-loggermech-mod)
 - **Battle Value:** 230
+- [*More Info*](crosscut/crosscut_ed-x4m-l_loggermech_mod.md)
 

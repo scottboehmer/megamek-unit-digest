@@ -16,6 +16,7 @@
   - TAG
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5208/tessen-tsn-1c)
 - **Battle Value:** 1162
+- [*More Info*](tessen/tessen_tsn-1c.md)
 
 ## Tessen TSN-C3
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - TAG
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3)
 - **Battle Value:** 1234
+- [*More Info*](tessen/tessen_tsn-c3.md)
 
 ## Tessen TSN-1Cr
 - **Role:** Skirmisher
@@ -52,6 +54,7 @@
   - TAG
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr)
 - **Battle Value:** 1241
+- [*More Info*](tessen/tessen_tsn-1cr.md)
 
 ## Tessen TSN-X-4
 - **Role:** Skirmisher
@@ -70,6 +73,7 @@
   - TAG
 - **Sources:** XTRO ComStar - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5549/tessen-tsn-x-4)
 - **Battle Value:** 1263
+- [*More Info*](tessen/tessen_tsn-x-4.md)
 
 ## Tessen TSN-C3M
 - **Role:** Skirmisher
@@ -87,6 +91,7 @@
   - C3 Master
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5678/tessen-tsn-c3m)
 - **Battle Value:** 1547
+- [*More Info*](tessen/tessen_tsn-c3m.md)
 
 ## Tessen TSN-X4R 'Rapunzel'
 - **Role:** Undefined
@@ -104,4 +109,5 @@
   - Angel ECM Suite
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** unknown
+- [*More Info*](tessen/tessen_tsn-x4r_'rapunzel'.md)
 

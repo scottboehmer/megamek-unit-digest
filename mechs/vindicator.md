@@ -14,6 +14,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3422/vindicator-vnd-1r)
 - **Battle Value:** 1024
+- [*More Info*](vindicator/vindicator_vnd-1r.md)
 
 ## Vindicator VND-1X
 - **Role:** Brawler
@@ -30,6 +31,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3425/vindicator-vnd-1x)
 - **Battle Value:** 1008
+- [*More Info*](vindicator/vindicator_vnd-1x.md)
 
 ## Vindicator VND-1AA 'Avenging Angel'
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3421/vindicator-vnd-1aa-avenging-angel)
 - **Battle Value:** 966
+- [*More Info*](vindicator/vindicator_vnd-1aa_'avenging_angel'.md)
 
 ## Vindicator VND-1R (Vong)
 - **Role:** Brawler
@@ -62,6 +65,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3423/vindicator-vnd-1r-vong)
 - **Battle Value:** 1024
+- [*More Info*](vindicator/vindicator_vnd-1r_vong.md)
 
 ## Vindicator VND-1SIC
 - **Role:** Brawler
@@ -78,6 +82,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3424/vindicator-vnd-1sic)
 - **Battle Value:** 1020
+- [*More Info*](vindicator/vindicator_vnd-1sic.md)
 
 ## Vindicator VND-3L
 - **Role:** Brawler
@@ -95,6 +100,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l)
 - **Battle Value:** 1105
+- [*More Info*](vindicator/vindicator_vnd-3l.md)
 
 ## Vindicator VND-5L
 - **Role:** Skirmisher
@@ -114,6 +120,7 @@
   - Small Laser
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3430/vindicator-vnd-5l)
 - **Battle Value:** 1484
+- [*More Info*](vindicator/vindicator_vnd-5l.md)
 
 ## Vindicator VND-4L
 - **Role:** Skirmisher
@@ -133,6 +140,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3429/vindicator-vnd-4l)
 - **Battle Value:** 1411
+- [*More Info*](vindicator/vindicator_vnd-4l.md)
 
 ## Vindicator VND-6L
 - **Role:** Skirmisher
@@ -153,6 +161,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3431/vindicator-vnd-6l)
 - **Battle Value:** 1739
+- [*More Info*](vindicator/vindicator_vnd-6l.md)
 
 ## Vindicator VND-3Lr
 - **Role:** Skirmisher
@@ -170,6 +179,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3428/vindicator-vnd-3lr)
 - **Battle Value:** 1045
+- [*More Info*](vindicator/vindicator_vnd-3lr.md)
 
 ## Vindicator VND-3LD (Dao)
 - **Role:** Sniper
@@ -189,4 +199,5 @@
   - Supercharger
 - **Sources:** XTRO Liao - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3427/vindicator-vnd-3ld-dao)
 - **Battle Value:** 1583
+- [*More Info*](vindicator/vindicator_vnd-3ld_dao.md)
 

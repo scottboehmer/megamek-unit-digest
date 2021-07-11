@@ -15,6 +15,7 @@
   - Light TAG
 - **Sources:** TRO 3145 Mercenaries - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6547/koshi-standard)
 - **Battle Value:** 760
+- [*More Info*](koshi/koshi_standard.md)
 
 ## Koshi (Standard) 2
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - Light TAG
 - **Sources:** TRO 3145 Mercenaries - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6548/koshi-2)
 - **Battle Value:** 948
+- [*More Info*](koshi/koshi_standard_2.md)
 
 ## Koshi (Standard) 3
 - **Role:** Scout
@@ -50,4 +52,5 @@
   - MASC
 - **Sources:** TRO 3145 Mercenaries - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6549/koshi-3)
 - **Battle Value:** 777
+- [*More Info*](koshi/koshi_standard_3.md)
 

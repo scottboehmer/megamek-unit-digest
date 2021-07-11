@@ -14,6 +14,7 @@
   - Lift Hoist
 - **Sources:** RS VA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4078/dig-king-rcl-1-miningmech)
 - **Battle Value:** 409
+- [*More Info*](dig_king/dig_king_rcl-1_miningmech.md)
 
 ## Dig King RCL-1 MiningMech MOD
 - **Role:** Brawler
@@ -28,4 +29,5 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** RS VA - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7172/dig-king-rcl-1m-miningmech-mod)
 - **Battle Value:** 460
+- [*More Info*](dig_king/dig_king_rcl-1_miningmech_mod.md)
 

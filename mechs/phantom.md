@@ -17,6 +17,7 @@
   - TAG
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2487/phantom-prime)
 - **Battle Value:** 1159
+- [*More Info*](phantom/phantom_prime.md)
 
 ## Phantom A
 - **Role:** Striker
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2481/phantom-a)
 - **Battle Value:** 1410
+- [*More Info*](phantom/phantom_a.md)
 
 ## Phantom B
 - **Role:** Scout
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2482/phantom-b)
 - **Battle Value:** 1096
+- [*More Info*](phantom/phantom_b.md)
 
 ## Phantom C
 - **Role:** Striker
@@ -66,6 +69,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2483/phantom-c)
 - **Battle Value:** 1590
+- [*More Info*](phantom/phantom_c.md)
 
 ## Phantom D
 - **Role:** Striker
@@ -82,6 +86,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2484/phantom-d)
 - **Battle Value:** 1581
+- [*More Info*](phantom/phantom_d.md)
 
 ## Phantom E
 - **Role:** Striker
@@ -97,6 +102,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2485/phantom-e)
 - **Battle Value:** 975
+- [*More Info*](phantom/phantom_e.md)
 
 ## Phantom H
 - **Role:** Striker
@@ -113,6 +119,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2486/phantom-h)
 - **Battle Value:** 1178
+- [*More Info*](phantom/phantom_h.md)
 
 ## Phantom F
 - **Role:** Striker
@@ -130,4 +137,5 @@
   - CASE
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4818/phantom-f)
 - **Battle Value:** 1375
+- [*More Info*](phantom/phantom_f.md)
 

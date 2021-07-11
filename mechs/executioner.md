@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1211/gladiator-executioner-prime)
 - **Battle Value:** 2749
+- [*More Info*](executioner/executioner_prime.md)
 
 ## Executioner "Gladiator" A
 - **Role:** Skirmisher
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1203/gladiator-executioner-a)
 - **Battle Value:** 3112
+- [*More Info*](executioner/executioner_a.md)
 
 ## Executioner "Gladiator" B
 - **Role:** Skirmisher
@@ -53,6 +55,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1204/gladiator-executioner-b)
 - **Battle Value:** 2940
+- [*More Info*](executioner/executioner_b.md)
 
 ## Executioner "Gladiator" C
 - **Role:** Missile Boat
@@ -72,6 +75,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1205/gladiator-executioner-c)
 - **Battle Value:** 2740
+- [*More Info*](executioner/executioner_c.md)
 
 ## Executioner "Gladiator" D
 - **Role:** Skirmisher
@@ -92,6 +96,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1206/gladiator-executioner-d)
 - **Battle Value:** 2698
+- [*More Info*](executioner/executioner_d.md)
 
 ## Executioner "Gladiator" TC
 - **Role:** Skirmisher
@@ -111,6 +116,7 @@
   - Targeting Computer
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7596/gladiator-executioner-tc)
 - **Battle Value:** 3363
+- [*More Info*](executioner/executioner_tc.md)
 
 ## Executioner "Gladiator" H
 - **Role:** Skirmisher
@@ -131,6 +137,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1208/gladiator-executioner-h)
 - **Battle Value:** 3059
+- [*More Info*](executioner/executioner_h.md)
 
 ## Executioner "Gladiator" E
 - **Role:** Skirmisher
@@ -150,6 +157,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1207/gladiator-executioner-e)
 - **Battle Value:** 2988
+- [*More Info*](executioner/executioner_e.md)
 
 ## Executioner "Gladiator" K
 - **Role:** Skirmisher
@@ -169,6 +177,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1209/gladiator-executioner-k)
 - **Battle Value:** 3125
+- [*More Info*](executioner/executioner_k.md)
 
 ## Executioner "Gladiator" P
 - **Role:** Skirmisher
@@ -188,6 +197,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1210/gladiator-executioner-p)
 - **Battle Value:** 3052
+- [*More Info*](executioner/executioner_p.md)
 
 ## Executioner "Gladiator" F
 - **Role:** Sniper
@@ -206,6 +216,7 @@
   - Supercharger
 - **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6842/gladiator-executioner-f)
 - **Battle Value:** 3606
+- [*More Info*](executioner/executioner_f.md)
 
 ## Executioner "Gladiator" G
 - **Role:** Skirmisher
@@ -226,6 +237,7 @@
   - Targeting Computer
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g)
 - **Battle Value:** 3825
+- [*More Info*](executioner/executioner_g.md)
 
 ## Executioner "Gladiator" I
 - **Role:** Skirmisher
@@ -246,6 +258,7 @@
   - Supercharger
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6840/gladiator-executioner-i)
 - **Battle Value:** 3339
+- [*More Info*](executioner/executioner_i.md)
 
 ## Executioner "Gladiator" J
 - **Role:** Juggernaut
@@ -263,6 +276,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7712/gladiator-executioner-j)
 - **Battle Value:** 2891
+- [*More Info*](executioner/executioner_j.md)
 
 ## Executioner "Gladiator" L
 - **Role:** Sniper
@@ -280,6 +294,7 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7713/gladiator-executioner-l)
 - **Battle Value:** 3132
+- [*More Info*](executioner/executioner_l.md)
 
 ## Executioner "Gladiator" T
 - **Role:** Sniper
@@ -299,4 +314,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7714/gladiator-executioner-t)
 - **Battle Value:** 2558
+- [*More Info*](executioner/executioner_t.md)
 

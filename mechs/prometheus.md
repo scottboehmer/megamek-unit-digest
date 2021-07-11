@@ -18,4 +18,5 @@
   - CASE
 - **Sources:** Unbound - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4871/prometheus-standard)
 - **Battle Value:** 2401
+- [*More Info*](prometheus/prometheus_standard.md)
 

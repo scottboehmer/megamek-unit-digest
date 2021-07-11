@@ -13,6 +13,7 @@
   - MASC
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2979/snow-fox-standard)
 - **Battle Value:** 807
+- [*More Info*](snow_fox/snow_fox_standard.md)
 
 ## Snow Fox 2
 - **Role:** Missile Boat
@@ -28,6 +29,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2980/snow-fox-2)
 - **Battle Value:** 604
+- [*More Info*](snow_fox/snow_fox_2.md)
 
 ## Snow Fox 3
 - **Role:** Striker
@@ -45,4 +47,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2981/snow-fox-3)
 - **Battle Value:** 903
+- [*More Info*](snow_fox/snow_fox_3.md)
 

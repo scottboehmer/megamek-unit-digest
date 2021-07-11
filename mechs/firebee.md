@@ -12,6 +12,7 @@
   - SRM 2 × 3 (ammo: 100)
 - **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1078/firebee-frb-1e-wam-b)
 - **Battle Value:** 534
+- [*More Info*](firebee/firebee_frb-1e_wam-b.md)
 
 ## Firebee FRB-2E
 - **Role:** Brawler
@@ -26,6 +27,7 @@
   - SRM 2 × 4 (ammo: 100)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1079/firebee-frb-2e)
 - **Battle Value:** 808
+- [*More Info*](firebee/firebee_frb-2e.md)
 
 ## Firebee FRB-3E
 - **Role:** Brawler
@@ -44,6 +46,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1080/firebee-frb-3e)
 - **Battle Value:** 1067
+- [*More Info*](firebee/firebee_frb-3e.md)
 
 ## Firebee WI-WAM MilitiaMech
 - **Role:** Missile Boat
@@ -59,4 +62,5 @@
   - Ejection Seat
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7838/firebee-wi-wam-militiamech)
 - **Battle Value:** 456
+- [*More Info*](firebee/firebee_wi-wam_militiamech.md)
 

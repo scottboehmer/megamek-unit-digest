@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4565/mad-cat-mk-ii-standard)
 - **Battle Value:** 3135
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_standard.md)
 
 ## Mad Cat Mk II 2
 - **Role:** Brawler
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5715/mad-cat-mk-ii-2)
 - **Battle Value:** 2822
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_2.md)
 
 ## Mad Cat Mk II 3
 - **Role:** Brawler
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5716/mad-cat-mk-ii-3)
 - **Battle Value:** 3168
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_3.md)
 
 ## Mad Cat Mk II Enhanced
 - **Role:** Sniper
@@ -67,6 +70,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4564/mad-cat-mk-ii-enhanced)
 - **Battle Value:** 2732
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_enhanced.md)
 
 ## Mad Cat Mk II 4
 - **Role:** Sniper
@@ -84,6 +88,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6850/mad-cat-mk-ii-4)
 - **Battle Value:** 2962
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_4.md)
 
 ## Mad Cat Mk II 5
 - **Role:** Brawler
@@ -102,6 +107,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6849/mad-cat-mk-ii-5)
 - **Battle Value:** 2491
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_5.md)
 
 ## Mad Cat Mk II 6
 - **Role:** Sniper
@@ -118,4 +124,5 @@
   - HarJel III × 7
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6848/mad-cat-mk-ii-6)
 - **Battle Value:** 2671
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_6.md)
 

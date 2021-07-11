@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3075U - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2447/patriot-pkm-2c)
 - **Battle Value:** 1613
+- [*More Info*](patriot/patriot_pkm-2c.md)
 
 ## Patriot PKM-2D
 - **Role:** Brawler
@@ -37,6 +38,7 @@
   - CASE
 - **Sources:** TRO 3075 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2448/patriot-pkm-2d)
 - **Battle Value:** 1699
+- [*More Info*](patriot/patriot_pkm-2d.md)
 
 ## Patriot PKM-2E
 - **Role:** Sniper
@@ -55,4 +57,5 @@
   - CASE
 - **Sources:** TRO 3075-Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2449/patriot-pkm-2e)
 - **Battle Value:** 1398
+- [*More Info*](patriot/patriot_pkm-2e.md)
 

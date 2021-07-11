@@ -12,6 +12,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/189/baboon-howler-standard)
 - **Battle Value:** 645
+- [*More Info*](howler/howler_standard.md)
 
 ## Howler 4 "Baboon"
 - **Role:** Scout
@@ -27,6 +28,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7568/baboon-howler-4)
 - **Battle Value:** 506
+- [*More Info*](howler/howler_4.md)
 
 ## Howler 5 "Baboon"
 - **Role:** Striker
@@ -39,6 +41,7 @@
   - ER Medium Laser × 6
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5)
 - **Battle Value:** 1363
+- [*More Info*](howler/howler_5.md)
 
 ## Howler 2 "Baboon"
 - **Role:** Striker
@@ -54,6 +57,7 @@
   - MASC
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/190/baboon-howler-2)
 - **Battle Value:** 757
+- [*More Info*](howler/howler_2.md)
 
 ## Howler 3
 - **Role:** Striker
@@ -69,6 +73,7 @@
   - MASC
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/191/baboon-howler-3-devil)
 - **Battle Value:** 1277
+- [*More Info*](howler/howler_3.md)
 
 ## Howler 6 "Baboon"
 - **Role:** Striker
@@ -84,4 +89,5 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6)
 - **Battle Value:** 550
+- [*More Info*](howler/howler_6.md)
 

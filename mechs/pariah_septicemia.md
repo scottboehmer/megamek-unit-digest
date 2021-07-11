@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5024/pariah-septicemia-prime)
 - **Battle Value:** 2511
+- [*More Info*](septicemia/septicemia_prime.md)
 
 ## Septicemia "Pariah" A
 - **Role:** Scout
@@ -29,6 +30,7 @@
   - CASE
 - **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5019/pariah-septicemia-a)
 - **Battle Value:** 1935
+- [*More Info*](septicemia/septicemia_a.md)
 
 ## Septicemia "Pariah" A-Z
 - **Role:** Brawler
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5812/pariah-septicemia-a-z)
 - **Battle Value:** 2388
+- [*More Info*](septicemia/septicemia_a-z.md)
 
 ## Septicemia "Pariah" B
 - **Role:** Skirmisher
@@ -62,6 +65,7 @@
   - Targeting Computer
 - **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5020/pariah-septicemia-b)
 - **Battle Value:** 2310
+- [*More Info*](septicemia/septicemia_b.md)
 
 ## Septicemia "Pariah" B-Z
 - **Role:** Skirmisher
@@ -80,6 +84,7 @@
   - Light TAG
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5813/pariah-septicemia-b-z)
 - **Battle Value:** 2349
+- [*More Info*](septicemia/septicemia_b-z.md)
 
 ## Septicemia "Pariah" C
 - **Role:** Skirmisher
@@ -98,6 +103,7 @@
   - CASE
 - **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5021/pariah-septicemia-c)
 - **Battle Value:** 2227
+- [*More Info*](septicemia/septicemia_c.md)
 
 ## Septicemia "Pariah" C-Z
 - **Role:** Skirmisher
@@ -117,6 +123,7 @@
   - CASE
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5814/pariah-septicemia-c-z)
 - **Battle Value:** 2264
+- [*More Info*](septicemia/septicemia_c-z.md)
 
 ## Septicemia "Pariah" D
 - **Role:** Skirmisher
@@ -135,6 +142,7 @@
   - CASE
 - **Sources:** TRO 3075- Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5022/pariah-septicemia-d)
 - **Battle Value:** 2718
+- [*More Info*](septicemia/septicemia_d.md)
 
 ## Septicemia "Pariah" D-Z
 - **Role:** Skirmisher
@@ -153,6 +161,7 @@
   - CASE
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5815/pariah-septicemia-d-z)
 - **Battle Value:** 2704
+- [*More Info*](septicemia/septicemia_d-z.md)
 
 ## Septicemia "Pariah" E
 - **Role:** Skirmisher
@@ -170,6 +179,7 @@
   - Targeting Computer
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5023/pariah-septicemia-e)
 - **Battle Value:** 2950
+- [*More Info*](septicemia/septicemia_e.md)
 
 ## Septicemia "Pariah" F
 - **Role:** Missile Boat
@@ -184,6 +194,7 @@
   - CASE
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5816/pariah-septicemia-f)
 - **Battle Value:** 1389
+- [*More Info*](septicemia/septicemia_f.md)
 
 ## Septicemia "Pariah" US
 - **Role:** Skirmisher
@@ -204,6 +215,7 @@
   - Liquid Cargo × 2
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us)
 - **Battle Value:** 2298
+- [*More Info*](septicemia/septicemia_us.md)
 
 ## Septicemia "Pariah" UW
 - **Role:** Skirmisher
@@ -222,6 +234,7 @@
   - CASE
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5818/pariah-septicemia-uw)
 - **Battle Value:** 1913
+- [*More Info*](septicemia/septicemia_uw.md)
 
 ## Septicemia "Pariah" Z
 - **Role:** Skirmisher
@@ -239,4 +252,5 @@
   - Ground-Mobile HPG
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5819/pariah-septicemia-z)
 - **Battle Value:** 2072
+- [*More Info*](septicemia/septicemia_z.md)
 

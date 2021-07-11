@@ -15,6 +15,7 @@
   - Liquid Cargo × 2
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4780/pacifier-ccu-36-securitymech)
 - **Battle Value:** 299
+- [*More Info*](pacifier/pacifier_ccu-36_securitymech.md)
 
 ## Pacifier CCU-40 SecurityMech
 - **Role:** Ambusher
@@ -32,4 +33,5 @@
   - Ejection Seat
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7824/pacifier-ccu-40-securitymech)
 - **Battle Value:** 356
+- [*More Info*](pacifier/pacifier_ccu-40_securitymech.md)
 

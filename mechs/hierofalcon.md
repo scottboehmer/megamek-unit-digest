@@ -17,6 +17,7 @@
   - TAG
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7484/hierofalcon-prime)
 - **Battle Value:** 1878
+- [*More Info*](hierofalcon/hierofalcon_prime.md)
 
 ## Hierofalcon A
 - **Role:** Striker
@@ -36,6 +37,7 @@
   - CASE
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7485/hierofalcon-a)
 - **Battle Value:** 1953
+- [*More Info*](hierofalcon/hierofalcon_a.md)
 
 ## Hierofalcon B
 - **Role:** Striker
@@ -54,6 +56,7 @@
   - CASE II
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7486/hierofalcon-b)
 - **Battle Value:** 1737
+- [*More Info*](hierofalcon/hierofalcon_b.md)
 
 ## Hierofalcon C
 - **Role:** Sniper
@@ -71,6 +74,7 @@
   - CASE
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7487/hierofalcon-c)
 - **Battle Value:** 1983
+- [*More Info*](hierofalcon/hierofalcon_c.md)
 
 ## Hierofalcon D
 - **Role:** Striker
@@ -89,4 +93,5 @@
   - Supercharger
 - **Sources:** ilClan Vol 3 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7488/hierofalcon-d)
 - **Battle Value:** 2183
+- [*More Info*](hierofalcon/hierofalcon_d.md)
 

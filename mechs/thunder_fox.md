@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3217/thunder-fox-tft-a9)
 - **Battle Value:** 1325
+- [*More Info*](thunder_fox/thunder_fox_tft-a9.md)
 
 ## Thunder Fox TFT-L8
 - **Role:** Skirmisher
@@ -31,6 +32,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3219/thunder-fox-tft-l8)
 - **Battle Value:** 1513
+- [*More Info*](thunder_fox/thunder_fox_tft-l8.md)
 
 ## Thunder Fox TFT-C3
 - **Role:** Skirmisher
@@ -49,6 +51,7 @@
   - C3 Master
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3218/thunder-fox-tft-c3)
 - **Battle Value:** 1104
+- [*More Info*](thunder_fox/thunder_fox_tft-c3.md)
 
 ## Thunder Fox TFT-F11
 - **Role:** Sniper
@@ -67,4 +70,5 @@
   - Targeting Computer
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6892/thunder-fox-tft-f11)
 - **Battle Value:** 2426
+- [*More Info*](thunder_fox/thunder_fox_tft-f11.md)
 

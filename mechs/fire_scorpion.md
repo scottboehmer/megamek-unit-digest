@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1071/fire-scorpion-standard)
 - **Battle Value:** 1546
+- [*More Info*](fire_scorpion/fire_scorpion_standard.md)
 
 ## Fire Scorpion 2
 - **Role:** Missile Boat
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1072/fire-scorpion-2)
 - **Battle Value:** 1749
+- [*More Info*](fire_scorpion/fire_scorpion_2.md)
 
 ## Fire Scorpion 3
 - **Role:** Skirmisher
@@ -50,4 +52,5 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3)
 - **Battle Value:** 1904
+- [*More Info*](fire_scorpion/fire_scorpion_3.md)
 

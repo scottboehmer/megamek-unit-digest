@@ -16,6 +16,7 @@
   - Supercharger
 - **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7370/notos-prime)
 - **Battle Value:** 2335
+- [*More Info*](notos/notos_prime.md)
 
 ## Notos A
 - **Role:** Skirmisher
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7371/notos-a)
 - **Battle Value:** 1528
+- [*More Info*](notos/notos_a.md)
 
 ## Notos B
 - **Role:** Skirmisher
@@ -52,6 +54,7 @@
   - CASE
 - **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7372/notos-b)
 - **Battle Value:** 1877
+- [*More Info*](notos/notos_b.md)
 
 ## Notos C
 - **Role:** Skirmisher
@@ -74,6 +77,7 @@
   - CASE
 - **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7373/notos-c)
 - **Battle Value:** 1632
+- [*More Info*](notos/notos_c.md)
 
 ## Notos D
 - **Role:** Skirmisher
@@ -91,4 +95,5 @@
   - Targeting Computer
 - **Sources:** XTRO Republic III - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7374/notos-d)
 - **Battle Value:** 1865
+- [*More Info*](notos/notos_d.md)
 

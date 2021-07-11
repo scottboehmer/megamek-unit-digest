@@ -14,6 +14,7 @@
   - Cargo
 - **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4264/harvester-hvr-99-agromech)
 - **Battle Value:** 339
+- [*More Info*](harvester/harvester_hvr-99_agromech.md)
 
 ## Harvester HVR-199 AgroMech
 - **Role:** Undefined
@@ -30,6 +31,7 @@
   - Cargo
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7860/harvester-hvr-199-agromech)
 - **Battle Value:** 490
+- [*More Info*](harvester/harvester_hvr-199_agromech.md)
 
 ## Harvester HVR-199M AgroMech MOD
 - **Role:** Sniper
@@ -45,6 +47,7 @@
   - Cargo
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7861/harvester-hvr-199m-agromech-mod)
 - **Battle Value:** 406
+- [*More Info*](harvester/harvester_hvr-199m_agromech_mod.md)
 
 ## Harvester HVR-199M-A AgroMech MOD
 - **Role:** Ambusher
@@ -58,6 +61,7 @@
   - Combine
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7862/harvester-hvr-199m-a-agromech-mod)
 - **Battle Value:** 605
+- [*More Info*](harvester/harvester_hvr-199m-a_agromech_mod.md)
 
 ## Harvester HVR-199M-B AgroMech MOD
 - **Role:** Sniper
@@ -71,6 +75,7 @@
   - Combine
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7863/harvester-hvr-199m-b-agromech-mod)
 - **Battle Value:** 460
+- [*More Info*](harvester/harvester_hvr-199m-b_agromech_mod.md)
 
 ## Harvester HVR-199M-M AgroMech MOD
 - **Role:** Sniper
@@ -86,4 +91,5 @@
   - Mine Dispenser × 4
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7864/harvester-hvr-199m-m-agromech-mod)
 - **Battle Value:** 438
+- [*More Info*](harvester/harvester_hvr-199m-m_agromech_mod.md)
 

@@ -13,6 +13,7 @@
   - Medium Pulse Laser
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6626/scourge-scg-wd1)
 - **Battle Value:** 2061
+- [*More Info*](scourge/scourge_scg-wd1.md)
 
 ## Scourge SCG-WX1
 - **Role:** Undefined
@@ -30,6 +31,7 @@
   - AES
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8109/scourge-scg-wx1)
 - **Battle Value:** 2484
+- [*More Info*](scourge/scourge_scg-wx1.md)
 
 ## Scourge SCG-WF1
 - **Role:** Skirmisher
@@ -47,4 +49,5 @@
   - AES
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6625/scourge-scg-wf1)
 - **Battle Value:** 2172
+- [*More Info*](scourge/scourge_scg-wf1.md)
 

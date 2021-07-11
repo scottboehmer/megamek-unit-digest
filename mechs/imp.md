@@ -15,6 +15,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1607/imp-imp-1a)
 - **Battle Value:** 2215
+- [*More Info*](imp/imp_imp-1a.md)
 
 ## Imp IMP-1B
 - **Role:** Juggernaut
@@ -33,6 +34,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1608/imp-imp-1b)
 - **Battle Value:** 2349
+- [*More Info*](imp/imp_imp-1b.md)
 
 ## Imp IMP-1C
 - **Role:** Juggernaut
@@ -50,6 +52,7 @@
   - Guardian ECM Suite
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1609/imp-imp-1c)
 - **Battle Value:** 2480
+- [*More Info*](imp/imp_imp-1c.md)
 
 ## Imp C
 - **Role:** Juggernaut
@@ -66,6 +69,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1606/imp-c)
 - **Battle Value:** 3070
+- [*More Info*](imp/imp_c.md)
 
 ## Imp IMP-2E
 - **Role:** Juggernaut
@@ -80,6 +84,7 @@
   - Medium Laser × 5
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4358/imp-imp-2e)
 - **Battle Value:** 1969
+- [*More Info*](imp/imp_imp-2e.md)
 
 ## Imp IMP-3E
 - **Role:** Juggernaut
@@ -98,6 +103,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1610/imp-imp-3e)
 - **Battle Value:** 1906
+- [*More Info*](imp/imp_imp-3e.md)
 
 ## Imp IMP-4E
 - **Role:** Juggernaut
@@ -116,4 +122,5 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1611/imp-imp-4e)
 - **Battle Value:** 2263
+- [*More Info*](imp/imp_imp-4e.md)
 

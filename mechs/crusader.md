@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/748/crusader-crd-2r)
 - **Battle Value:** 1533
+- [*More Info*](crusader/crusader_crd-2r.md)
 
 ## Crusader CRD-3R
 - **Role:** Missile Boat
@@ -30,6 +31,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/752/crusader-crd-3r)
 - **Battle Value:** 1317
+- [*More Info*](crusader/crusader_crd-3r.md)
 
 ## Crusader CRD-3L
 - **Role:** Missile Boat
@@ -46,6 +48,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/751/crusader-crd-3l)
 - **Battle Value:** 1297
+- [*More Info*](crusader/crusader_crd-3l.md)
 
 ## Crusader CRD-3D
 - **Role:** Missile Boat
@@ -60,6 +63,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/749/crusader-crd-3d)
 - **Battle Value:** 1338
+- [*More Info*](crusader/crusader_crd-3d.md)
 
 ## Crusader CRD-3K
 - **Role:** Missile Boat
@@ -74,6 +78,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/750/crusader-crd-3k)
 - **Battle Value:** 1290
+- [*More Info*](crusader/crusader_crd-3k.md)
 
 ## Crusader CRD-3R (Crael)
 - **Role:** Brawler
@@ -89,6 +94,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael)
 - **Battle Value:** 1204
+- [*More Info*](crusader/crusader_crd-3r_crael.md)
 
 ## Crusader CRD-4D
 - **Role:** Missile Boat
@@ -103,6 +109,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d)
 - **Battle Value:** 1309
+- [*More Info*](crusader/crusader_crd-4d.md)
 
 ## Crusader CRD-4K
 - **Role:** Missile Boat
@@ -117,6 +124,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k)
 - **Battle Value:** 1268
+- [*More Info*](crusader/crusader_crd-4k.md)
 
 ## Crusader CRD-4L
 - **Role:** Missile Boat
@@ -131,6 +139,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/757/crusader-crd-4l)
 - **Battle Value:** 1309
+- [*More Info*](crusader/crusader_crd-4l.md)
 
 ## Crusader CRD-5M
 - **Role:** Skirmisher
@@ -151,6 +160,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m)
 - **Battle Value:** 1408
+- [*More Info*](crusader/crusader_crd-5m.md)
 
 ## Crusader CRD-5S
 - **Role:** Missile Boat
@@ -168,6 +178,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s)
 - **Battle Value:** 1446
+- [*More Info*](crusader/crusader_crd-5s.md)
 
 ## Crusader CRD-4BR
 - **Role:** Missile Boat
@@ -185,6 +196,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br)
 - **Battle Value:** 1407
+- [*More Info*](crusader/crusader_crd-4br.md)
 
 ## Crusader CRD-5K
 - **Role:** Skirmisher
@@ -203,6 +215,7 @@
   - C3 Slave
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/758/crusader-crd-5k)
 - **Battle Value:** 1463
+- [*More Info*](crusader/crusader_crd-5k.md)
 
 ## Crusader CRD-8S
 - **Role:** Skirmisher
@@ -220,6 +233,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/765/crusader-crd-8s)
 - **Battle Value:** 1698
+- [*More Info*](crusader/crusader_crd-8s.md)
 
 ## Crusader CRD-7L
 - **Role:** Missile Boat
@@ -238,6 +252,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/762/crusader-crd-7l)
 - **Battle Value:** 1749
+- [*More Info*](crusader/crusader_crd-7l.md)
 
 ## Crusader CRD-7W
 - **Role:** Missile Boat
@@ -255,6 +270,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/763/crusader-crd-7w)
 - **Battle Value:** 1162
+- [*More Info*](crusader/crusader_crd-7w.md)
 
 ## Crusader CRD-6M
 - **Role:** Skirmisher
@@ -273,6 +289,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m)
 - **Battle Value:** 1373
+- [*More Info*](crusader/crusader_crd-6m.md)
 
 ## Crusader CRD-8L
 - **Role:** Skirmisher
@@ -289,4 +306,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/764/crusader-crd-8l)
 - **Battle Value:** 1701
+- [*More Info*](crusader/crusader_crd-8l.md)
 

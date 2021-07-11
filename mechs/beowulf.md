@@ -16,6 +16,7 @@
   - TAG
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/327/beowulf-beo-12)
 - **Battle Value:** 1319
+- [*More Info*](beowulf/beowulf_beo-12.md)
 
 ## Beowulf BEO-X-7a
 - **Role:** Skirmisher
@@ -35,6 +36,7 @@
   - MASC
 - **Sources:** XTRO ComStar - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5548/beowulf-beo-x-7a)
 - **Battle Value:** 1473
+- [*More Info*](beowulf/beowulf_beo-x-7a.md)
 
 ## Beowulf C
 - **Role:** Undefined
@@ -54,6 +56,7 @@
   - Light TAG
 - **Source:** Jihad
 - **Battle Value:** 2078
+- [*More Info*](beowulf/beowulf_c.md)
 
 ## Beowulf BEO-14
 - **Role:** Skirmisher
@@ -75,4 +78,5 @@
   - C3 Slave
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/328/beowulf-beo-14)
 - **Battle Value:** 1287
+- [*More Info*](beowulf/beowulf_beo-14.md)
 

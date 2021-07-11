@@ -12,6 +12,7 @@
   - Small Laser
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/716/crab-crb-27)
 - **Battle Value:** 1198
+- [*More Info*](crab/crab_crb-27.md)
 
 ## Crab CRB-27b
 - **Role:** Sniper
@@ -26,6 +27,7 @@
   - Small Laser
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/717/crab-crb-27b)
 - **Battle Value:** 1308
+- [*More Info*](crab/crab_crb-27b.md)
 
 ## Crab CRB-27sl
 - **Role:** Skirmisher
@@ -41,6 +43,7 @@
   - Medium Laser
 - **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5873/crab-crb-27sl)
 - **Battle Value:** 1309
+- [*More Info*](crab/crab_crb-27sl.md)
 
 ## Crab CRB-20
 - **Role:** Skirmisher
@@ -55,6 +58,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/715/crab-crb-20)
 - **Battle Value:** 1143
+- [*More Info*](crab/crab_crb-20.md)
 
 ## Crab CRB-C
 - **Role:** Skirmisher
@@ -70,6 +74,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/720/crab-crb-c)
 - **Battle Value:** 1135
+- [*More Info*](crab/crab_crb-c.md)
 
 ## Crab CRB-30
 - **Role:** Sniper
@@ -87,6 +92,7 @@
   - C3i
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/718/crab-crb-30)
 - **Battle Value:** 1509
+- [*More Info*](crab/crab_crb-30.md)
 
 ## Crab CRB-45
 - **Role:** Sniper
@@ -102,6 +108,7 @@
   - C3i
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/719/crab-crb-45)
 - **Battle Value:** 1342
+- [*More Info*](crab/crab_crb-45.md)
 
 ## Crab CRB-54
 - **Role:** Skirmisher
@@ -118,4 +125,5 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7510/crab-crb-54)
 - **Battle Value:** 1964
+- [*More Info*](crab/crab_crb-54.md)
 

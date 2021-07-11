@@ -16,6 +16,7 @@
   - Light TAG
 - **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard)
 - **Battle Value:** 2048
+- [*More Info*](beowulf_iic/beowulf_iic_standard.md)
 
 ## Beowulf IIC PR
 - **Role:** Striker
@@ -34,4 +35,5 @@
   - MASC
 - **Sources:** XTRO Republic I - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr)
 - **Battle Value:** 1992
+- [*More Info*](beowulf_iic/beowulf_iic_pr.md)
 

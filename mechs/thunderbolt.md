@@ -15,6 +15,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5237/thunderbolt-tdr-1c)
 - **Battle Value:** 1237
+- [*More Info*](thunderbolt/thunderbolt_tdr-1c.md)
 
 ## Thunderbolt TDR-5S
 - **Role:** Brawler
@@ -31,6 +32,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3238/thunderbolt-tdr-5s)
 - **Battle Value:** 1335
+- [*More Info*](thunderbolt/thunderbolt_tdr-5s.md)
 
 ## Thunderbolt TDR-5Sd
 - **Role:** Brawler
@@ -46,6 +48,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5868/thunderbolt-tdr-5sd)
 - **Battle Value:** 1392
+- [*More Info*](thunderbolt/thunderbolt_tdr-5sd.md)
 
 ## Thunderbolt TDR-5Sb
 - **Role:** Brawler
@@ -64,6 +67,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3239/thunderbolt-tdr-5sb)
 - **Battle Value:** 1613
+- [*More Info*](thunderbolt/thunderbolt_tdr-5sb.md)
 
 ## Thunderbolt TDR-5D
 - **Role:** Undefined
@@ -77,6 +81,7 @@
   - LRM 10 (ammo: 12)
 - **Sources:** RS:Succession Wars - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7431/thunderbolt-tdr-5d)
 - **Battle Value:** 1231
+- [*More Info*](thunderbolt/thunderbolt_tdr-5d.md)
 
 ## Thunderbolt TDR-5L
 - **Role:** Undefined
@@ -95,6 +100,7 @@
   - CASE
 - **Sources:** Hist - 2nd SW, [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l)
 - **Battle Value:** 1515
+- [*More Info*](thunderbolt/thunderbolt_tdr-5l.md)
 
 ## Thunderbolt TDR-5LS
 - **Role:** Undefined
@@ -111,6 +117,7 @@
   - Small Pulse Laser × 2
 - **Sources:** Hist - 2nd SW, [Master Unit List](http://masterunitlist.info/Unit/Details/7763/thunderbolt-tdr-5ls)
 - **Battle Value:** 1374
+- [*More Info*](thunderbolt/thunderbolt_tdr-5ls.md)
 
 ## Thunderbolt TDR-5SE
 - **Role:** Skirmisher
@@ -126,6 +133,7 @@
   - Medium Laser × 3
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3240/thunderbolt-tdr-5se)
 - **Battle Value:** 1414
+- [*More Info*](thunderbolt/thunderbolt_tdr-5se.md)
 
 ## Thunderbolt TDR-5SS
 - **Role:** Brawler
@@ -141,6 +149,7 @@
   - Flamer
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3241/thunderbolt-tdr-5ss)
 - **Battle Value:** 1337
+- [*More Info*](thunderbolt/thunderbolt_tdr-5ss.md)
 
 ## Thunderbolt TDR-5S-T (Tallman)
 - **Role:** Brawler
@@ -154,6 +163,7 @@
   - Medium Laser × 8
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242/thunderbolt-tdr-5s-t-tallman)
 - **Battle Value:** 1447
+- [*More Info*](thunderbolt/thunderbolt_tdr-5s-t_tallman.md)
 
 ## Thunderbolt TDR-7M
 - **Role:** Brawler
@@ -172,6 +182,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m)
 - **Battle Value:** 1495
+- [*More Info*](thunderbolt/thunderbolt_tdr-7m.md)
 
 ## Thunderbolt TDR-9SE
 - **Role:** Skirmisher
@@ -189,6 +200,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se)
 - **Battle Value:** 1439
+- [*More Info*](thunderbolt/thunderbolt_tdr-9se.md)
 
 ## Thunderbolt C
 - **Role:** Sniper
@@ -204,6 +216,7 @@
   - ER Small Laser × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c)
 - **Battle Value:** 1671
+- [*More Info*](thunderbolt/thunderbolt_c.md)
 
 ## Thunderbolt TDR-9S
 - **Role:** Brawler
@@ -223,6 +236,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s)
 - **Battle Value:** 1494
+- [*More Info*](thunderbolt/thunderbolt_tdr-9s.md)
 
 ## Thunderbolt TDR-10SE
 - **Role:** Missile Boat
@@ -242,6 +256,7 @@
   - MASC
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3235/thunderbolt-tdr-10se)
 - **Battle Value:** 2008
+- [*More Info*](thunderbolt/thunderbolt_tdr-10se.md)
 
 ## Thunderbolt TDR-7SE
 - **Role:** Skirmisher
@@ -258,6 +273,7 @@
   - Guardian ECM Suite
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3245/thunderbolt-tdr-7se)
 - **Battle Value:** 1809
+- [*More Info*](thunderbolt/thunderbolt_tdr-7se.md)
 
 ## Thunderbolt TDR-9M
 - **Role:** Skirmisher
@@ -275,6 +291,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3246/thunderbolt-tdr-9m)
 - **Battle Value:** 1648
+- [*More Info*](thunderbolt/thunderbolt_tdr-9m.md)
 
 ## Thunderbolt TDR-9NAIS
 - **Role:** Skirmisher
@@ -293,6 +310,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3247/thunderbolt-tdr-9nais)
 - **Battle Value:** 1864
+- [*More Info*](thunderbolt/thunderbolt_tdr-9nais.md)
 
 ## Thunderbolt TDR-11SE
 - **Role:** Skirmisher
@@ -312,6 +330,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3236/thunderbolt-tdr-11se)
 - **Battle Value:** 1754
+- [*More Info*](thunderbolt/thunderbolt_tdr-11se.md)
 
 ## Thunderbolt TDR-17S
 - **Role:** Skirmisher
@@ -330,6 +349,7 @@
   - Guardian ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3237/thunderbolt-tdr-17s)
 - **Battle Value:** 1803
+- [*More Info*](thunderbolt/thunderbolt_tdr-17s.md)
 
 ## Thunderbolt TDR-60-RLA
 - **Role:** Skirmisher
@@ -348,6 +368,7 @@
   - Small Laser × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3243/thunderbolt-tdr-60-rla)
 - **Battle Value:** 1975
+- [*More Info*](thunderbolt/thunderbolt_tdr-60-rla.md)
 
 ## Thunderbolt TDR-9Nr
 - **Role:** Skirmisher
@@ -369,6 +390,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3248/thunderbolt-tdr-9nr)
 - **Battle Value:** 1632
+- [*More Info*](thunderbolt/thunderbolt_tdr-9nr.md)
 
 ## Thunderbolt TDR-10M
 - **Role:** Sniper
@@ -386,6 +408,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM)
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3232/thunderbolt-tdr-10m)
 - **Battle Value:** 1727
+- [*More Info*](thunderbolt/thunderbolt_tdr-10m.md)
 
 ## Thunderbolt TDR-9T
 - **Role:** Missile Boat
@@ -402,6 +425,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3251/thunderbolt-tdr-9t)
 - **Battle Value:** 1589
+- [*More Info*](thunderbolt/thunderbolt_tdr-9t.md)
 
 ## Thunderbolt TDR-10M (Ilyena)
 - **Role:** Sniper
@@ -420,6 +444,7 @@
   - C3 Master
 - **Sources:** TRO 3085/Lamenkov's Liability - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3233/thunderbolt-tdr-10m-ilyena)
 - **Battle Value:** 1616
+- [*More Info*](thunderbolt/thunderbolt_tdr-10m_ilyena.md)
 
 ## Thunderbolt TDR-10M (Salazar)
 - **Role:** Brawler
@@ -442,6 +467,7 @@
   - Guardian ECM Suite
 - **Sources:**  TRO 3085/BD Salazar Tsakalotos - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3234/thunderbolt-tdr-10m-salazar)
 - **Battle Value:** 1763
+- [*More Info*](thunderbolt/thunderbolt_tdr-10m_salazar.md)
 
 ## Thunderbolt TDR-10S
 - **Role:** Sniper
@@ -460,4 +486,5 @@
   - CASE
 - **Sources:** RS 3145 NYNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6877/thunderbolt-tdr-10s)
 - **Battle Value:** 1766
+- [*More Info*](thunderbolt/thunderbolt_tdr-10s.md)
 

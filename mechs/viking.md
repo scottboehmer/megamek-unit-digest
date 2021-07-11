@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3417/viking-vkg-2f)
 - **Battle Value:** 2079
+- [*More Info*](viking/viking_vkg-2f.md)
 
 ## Viking VKG-2G
 - **Role:** Juggernaut
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3418/viking-vkg-2g)
 - **Battle Value:** 2152
+- [*More Info*](viking/viking_vkg-2g.md)
 
 ## Viking VKG-3W
 - **Role:** Missile Boat
@@ -50,6 +52,7 @@
   - C3i
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3420/viking-vkg-3w)
 - **Battle Value:** 1778
+- [*More Info*](viking/viking_vkg-3w.md)
 
 ## Viking VKG-3A
 - **Role:** Missile Boat
@@ -67,4 +70,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3419/viking-vkg-3a)
 - **Battle Value:** 1849
+- [*More Info*](viking/viking_vkg-3a.md)
 

@@ -16,6 +16,7 @@
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7872/ground-pounder-dvm-2-miningmech)
 - **Battle Value:** 465
+- [*More Info*](ground_pounder/ground_pounder_dvm-2_miningmech.md)
 
 ## Ground Pounder DVM-2M MiningMech MOD
 - **Role:** Ambusher
@@ -32,4 +33,5 @@
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7873/ground-pounder-dvm-2m-miningmech-mod)
 - **Battle Value:** 548
+- [*More Info*](ground_pounder/ground_pounder_dvm-2m_miningmech_mod.md)
 

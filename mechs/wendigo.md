@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6402/wendigo-prime)
 - **Battle Value:** 2122
+- [*More Info*](wendigo/wendigo_prime.md)
 
 ## Wendigo A
 - **Role:** Sniper
@@ -32,6 +33,7 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6404/wendigo-a)
 - **Battle Value:** 2072
+- [*More Info*](wendigo/wendigo_a.md)
 
 ## Wendigo B
 - **Role:** Skirmisher
@@ -49,6 +51,7 @@
   - ECM Suite
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6405/wendigo-b)
 - **Battle Value:** 2369
+- [*More Info*](wendigo/wendigo_b.md)
 
 ## Wendigo C
 - **Role:** Skirmisher
@@ -68,4 +71,5 @@
   - Supercharger
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6406/wendigo-c)
 - **Battle Value:** 2628
+- [*More Info*](wendigo/wendigo_c.md)
 

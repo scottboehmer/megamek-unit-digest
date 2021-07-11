@@ -15,6 +15,7 @@
   - Beagle Active Probe
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1193/ghost-gst-10)
 - **Battle Value:** 1353
+- [*More Info*](ghost/ghost_gst-10.md)
 
 ## Ghost GST-11
 - **Role:** Sniper
@@ -32,6 +33,7 @@
   - Beagle Active Probe
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1194/ghost-gst-11)
 - **Battle Value:** 1244
+- [*More Info*](ghost/ghost_gst-11.md)
 
 ## Ghost GST-50
 - **Role:** Striker
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6907/ghost-gst-50)
 - **Battle Value:** 1114
+- [*More Info*](ghost/ghost_gst-50.md)
 
 ## Ghost GST-10A 'Aurora'
 - **Role:** Undefined
@@ -66,6 +69,7 @@
   - Void-Signature System
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1371
+- [*More Info*](ghost/ghost_gst-10a_'aurora'.md)
 
 ## Ghost GST-90
 - **Role:** Striker
@@ -79,4 +83,5 @@
   - Chainsaw
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6906/ghost-gst-90)
 - **Battle Value:** 1012
+- [*More Info*](ghost/ghost_gst-90.md)
 

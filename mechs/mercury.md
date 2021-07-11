@@ -13,6 +13,7 @@
   - MASC
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2172/mercury-mcy-99)
 - **Battle Value:** 586
+- [*More Info*](mercury/mercury_mcy-99.md)
 
 ## Mercury MCY-98
 - **Role:** Scout
@@ -26,6 +27,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4624/mercury-mcy-98)
 - **Battle Value:** 553
+- [*More Info*](mercury/mercury_mcy-98.md)
 
 ## Mercury MCY-97
 - **Role:** Scout
@@ -42,6 +44,7 @@
   - MASC
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2171/mercury-mcy-97)
 - **Battle Value:** 466
+- [*More Info*](mercury/mercury_mcy-97.md)
 
 ## Mercury MCY-102
 - **Role:** Scout
@@ -58,6 +61,7 @@
   - MASC
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2169/mercury-mcy-102)
 - **Battle Value:** 510
+- [*More Info*](mercury/mercury_mcy-102.md)
 
 ## Mercury MCY-104
 - **Role:** Striker
@@ -75,4 +79,5 @@
   - TAG
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2170/mercury-mcy-104)
 - **Battle Value:** 683
+- [*More Info*](mercury/mercury_mcy-104.md)
 

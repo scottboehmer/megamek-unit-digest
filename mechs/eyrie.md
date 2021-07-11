@@ -17,4 +17,5 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6263/eyrie-standard)
 - **Battle Value:** 1401
+- [*More Info*](eyrie/eyrie_standard.md)
 

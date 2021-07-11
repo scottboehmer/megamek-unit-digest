@@ -11,6 +11,7 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/273/battle-cobra-prime)
 - **Battle Value:** 1487
+- [*More Info*](battle_cobra/battle_cobra_prime.md)
 
 ## Battle Cobra A
 - **Role:** Striker
@@ -24,6 +25,7 @@
   - Small Pulse Laser × 6
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/261/battle-cobra-a)
 - **Battle Value:** 1466
+- [*More Info*](battle_cobra/battle_cobra_a.md)
 
 ## Battle Cobra B
 - **Role:** Sniper
@@ -37,6 +39,7 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/262/battle-cobra-b)
 - **Battle Value:** 1892
+- [*More Info*](battle_cobra/battle_cobra_b.md)
 
 ## Battle Cobra F
 - **Role:** Striker
@@ -53,6 +56,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/271/battle-cobra-f)
 - **Battle Value:** 1507
+- [*More Info*](battle_cobra/battle_cobra_f.md)
 
 ## Battle Cobra H
 - **Role:** Striker
@@ -66,6 +70,7 @@
   - Heavy Medium Laser × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/272/battle-cobra-h)
 - **Battle Value:** 1592
+- [*More Info*](battle_cobra/battle_cobra_h.md)
 
 ## Battle Cobra C
 - **Role:** Striker
@@ -82,6 +87,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/270/battle-cobra-c)
 - **Battle Value:** 1484
+- [*More Info*](battle_cobra/battle_cobra_c.md)
 
 ## Battle Cobra BTL-C-2O
 - **Role:** Brawler
@@ -96,6 +102,7 @@
   - C3i
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/263/battle-cobra-btl-c-2o)
 - **Battle Value:** 944
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2o.md)
 
 ## Battle Cobra BTL-C-2OA
 - **Role:** Brawler
@@ -115,6 +122,7 @@
   - TAG
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/264/battle-cobra-btl-c-2oa)
 - **Battle Value:** 1113
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2oa.md)
 
 ## Battle Cobra BTL-C-2OB
 - **Role:** Brawler
@@ -129,6 +137,7 @@
   - C3i
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/265/battle-cobra-btl-c-2ob)
 - **Battle Value:** 895
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2ob.md)
 
 ## Battle Cobra BTL-C-2OC
 - **Role:** Scout
@@ -143,6 +152,7 @@
   - C3i
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/266/battle-cobra-btl-c-2oc)
 - **Battle Value:** 726
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2oc.md)
 
 ## Battle Cobra BTL-C-2OD
 - **Role:** Sniper
@@ -158,6 +168,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/267/battle-cobra-btl-c-2od)
 - **Battle Value:** 1221
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2od.md)
 
 ## Battle Cobra BTL-C-2OE
 - **Role:** Missile Boat
@@ -172,6 +183,7 @@
   - C3i
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/268/battle-cobra-btl-c-2oe)
 - **Battle Value:** 840
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2oe.md)
 
 ## Battle Cobra BTL-C-2OF
 - **Role:** Brawler
@@ -186,6 +198,7 @@
   - C3i
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/269/battle-cobra-btl-c-2of)
 - **Battle Value:** 1300
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2of.md)
 
 ## Battle Cobra X
 - **Role:** Striker
@@ -200,4 +213,5 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/274/battle-cobra-x)
 - **Battle Value:** 1492
+- [*More Info*](battle_cobra/battle_cobra_x.md)
 

@@ -15,4 +15,5 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6254/harpagos-standard)
 - **Battle Value:** 1721
+- [*More Info*](harpagos/harpagos_standard.md)
 

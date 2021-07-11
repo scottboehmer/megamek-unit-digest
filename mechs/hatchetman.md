@@ -13,6 +13,7 @@
   - Hatchet
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1410/hatchetman-hct-3f)
 - **Battle Value:** 854
+- [*More Info*](hatchetman/hatchetman_hct-3f.md)
 
 ## Hatchetman HCT-3F (Austin)
 - **Role:** Brawler
@@ -28,6 +29,7 @@
   - Hatchet
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1411/hatchetman-hct-3f-austin)
 - **Battle Value:** 910
+- [*More Info*](hatchetman/hatchetman_hct-3f_austin.md)
 
 ## Hatchetman HCT-5S
 - **Role:** Brawler
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1413/hatchetman-hct-5s)
 - **Battle Value:** 1039
+- [*More Info*](hatchetman/hatchetman_hct-5s.md)
 
 ## Hatchetman HCT-5S (Austin)
 - **Role:** Brawler
@@ -62,6 +65,7 @@
   - CASE
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1414/hatchetman-hct-5s-austin)
 - **Battle Value:** 1174
+- [*More Info*](hatchetman/hatchetman_hct-5s_austin.md)
 
 ## Hatchetman HCT-5D
 - **Role:** Brawler
@@ -79,6 +83,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5445/hatchetman-hct-5d)
 - **Battle Value:** 1012
+- [*More Info*](hatchetman/hatchetman_hct-5d.md)
 
 ## Hatchetman HCT-6D
 - **Role:** Skirmisher
@@ -96,6 +101,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1415/hatchetman-hct-6d)
 - **Battle Value:** 1611
+- [*More Info*](hatchetman/hatchetman_hct-6d.md)
 
 ## Hatchetman HCT-6S
 - **Role:** Brawler
@@ -113,6 +119,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1417/hatchetman-hct-6s)
 - **Battle Value:** 1174
+- [*More Info*](hatchetman/hatchetman_hct-6s.md)
 
 ## Hatchetman HCT-5DD
 - **Role:** Skirmisher
@@ -130,6 +137,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd)
 - **Battle Value:** 1112
+- [*More Info*](hatchetman/hatchetman_hct-5dd.md)
 
 ## Hatchetman HCT-5K
 - **Role:** Brawler
@@ -149,6 +157,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1412/hatchetman-hct-5k)
 - **Battle Value:** 1070
+- [*More Info*](hatchetman/hatchetman_hct-5k.md)
 
 ## Hatchetman HCT-6M
 - **Role:** Brawler
@@ -166,6 +175,7 @@
   - Beagle Active Probe
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1416/hatchetman-hct-6m)
 - **Battle Value:** 1274
+- [*More Info*](hatchetman/hatchetman_hct-6m.md)
 
 ## Hatchetman HCT-7S
 - **Role:** Skirmisher
@@ -184,6 +194,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1418/hatchetman-hct-7s)
 - **Battle Value:** 1243
+- [*More Info*](hatchetman/hatchetman_hct-7s.md)
 
 ## Hatchetman HCT-7R
 - **Role:** Brawler
@@ -201,6 +212,7 @@
   - AES × 2
 - **Sources:** XTRO Republic I - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7295/hatchetman-hct-7r)
 - **Battle Value:** 1521
+- [*More Info*](hatchetman/hatchetman_hct-7r.md)
 
 ## Hatchetman HCT-8S
 - **Role:** Striker
@@ -219,4 +231,5 @@
   - CASE
 - **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s)
 - **Battle Value:** 1479
+- [*More Info*](hatchetman/hatchetman_hct-8s.md)
 

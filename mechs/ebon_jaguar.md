@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/496/cauldron-born-ebon-jaguar-prime)
 - **Battle Value:** 1952
+- [*More Info*](ebon_jaguar/ebon_jaguar_prime.md)
 
 ## Ebon Jaguar "Cauldron-Born" A
 - **Role:** Skirmisher
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/490/cauldron-born-ebon-jaguar-a)
 - **Battle Value:** 2429
+- [*More Info*](ebon_jaguar/ebon_jaguar_a.md)
 
 ## Ebon Jaguar "Cauldron-Born" B
 - **Role:** Sniper
@@ -52,6 +54,7 @@
   - TAG
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/491/cauldron-born-ebon-jaguar-b)
 - **Battle Value:** 2535
+- [*More Info*](ebon_jaguar/ebon_jaguar_b.md)
 
 ## Ebon Jaguar "Cauldron-Born" C
 - **Role:** Missile Boat
@@ -68,6 +71,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/492/cauldron-born-ebon-jaguar-c)
 - **Battle Value:** 1831
+- [*More Info*](ebon_jaguar/ebon_jaguar_c.md)
 
 ## Ebon Jaguar "Cauldron-Born" (Samantha)
 - **Role:** Skirmisher
@@ -85,6 +89,7 @@
   - CASE
 - **Sources:** HTP Luzerne - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5862/cauldron-born-ebon-jaguar-samantha)
 - **Battle Value:** 2372
+- [*More Info*](ebon_jaguar/ebon_jaguar_samantha.md)
 
 ## Ebon Jaguar "Cauldron-Born" D
 - **Role:** Skirmisher
@@ -101,6 +106,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/493/cauldron-born-ebon-jaguar-d)
 - **Battle Value:** 2228
+- [*More Info*](ebon_jaguar/ebon_jaguar_d.md)
 
 ## Ebon Jaguar "Cauldron-Born" H
 - **Role:** Skirmisher
@@ -119,6 +125,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/495/cauldron-born-ebon-jaguar-h)
 - **Battle Value:** 2359
+- [*More Info*](ebon_jaguar/ebon_jaguar_h.md)
 
 ## Ebon Jaguar "Cauldron-Born" E
 - **Role:** Skirmisher
@@ -136,6 +143,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e)
 - **Battle Value:** 2391
+- [*More Info*](ebon_jaguar/ebon_jaguar_e.md)
 
 ## Ebon Jaguar "Cauldron-Born" X
 - **Role:** Skirmisher
@@ -154,6 +162,7 @@
   - CASE II
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x)
 - **Battle Value:** 2435
+- [*More Info*](ebon_jaguar/ebon_jaguar_x.md)
 
 ## Ebon Jaguar "Cauldron-Born" U
 - **Role:** Sniper
@@ -171,4 +180,5 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/497/cauldron-born-ebon-jaguar-u)
 - **Battle Value:** 2593
+- [*More Info*](ebon_jaguar/ebon_jaguar_u.md)
 

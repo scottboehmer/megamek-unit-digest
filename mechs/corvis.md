@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/700/corvis-standard)
 - **Battle Value:** 1336
+- [*More Info*](corvis/corvis_standard.md)
 
 ## Corvis 2
 - **Role:** Brawler
@@ -31,4 +32,5 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/701/corvis-2)
 - **Battle Value:** 1455
+- [*More Info*](corvis/corvis_2.md)
 

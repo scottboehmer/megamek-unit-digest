@@ -15,4 +15,5 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6418/hatamoto-suna-htm-30s)
 - **Battle Value:** 2086
+- [*More Info*](hatamoto-suna/hatamoto-suna_htm-30s.md)
 

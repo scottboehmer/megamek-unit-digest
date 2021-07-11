@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard)
 - **Battle Value:** 1715
+- [*More Info*](lobo/lobo_standard.md)
 
 ## Lobo 2
 - **Role:** Brawler
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5668/lobo-2)
 - **Battle Value:** 1869
+- [*More Info*](lobo/lobo_2.md)
 
 ## Lobo 3
 - **Role:** Brawler
@@ -52,4 +54,5 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5669/lobo-3)
 - **Battle Value:** 1784
+- [*More Info*](lobo/lobo_3.md)
 

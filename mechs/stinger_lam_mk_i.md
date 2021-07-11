@@ -14,4 +14,5 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5140/stinger-lam-mk-i-stg-a1)
 - **Battle Value:** 846
+- [*More Info*](stinger_lam_mk_i/stinger_lam_mk_i_stg-a1.md)
 

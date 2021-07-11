@@ -14,6 +14,7 @@
   - CASE II
 - **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6333/hollander-iii-bzk-d1)
 - **Battle Value:** 1116
+- [*More Info*](hollander_iii/hollander_iii_bzk-d1.md)
 
 ## Hollander III BZK-D2
 - **Role:** Sniper
@@ -29,6 +30,7 @@
   - Supercharger
 - **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6334/hollander-iii-bzk-d2)
 - **Battle Value:** 1270
+- [*More Info*](hollander_iii/hollander_iii_bzk-d2.md)
 
 ## Hollander III BZK-D3
 - **Role:** Striker
@@ -48,4 +50,5 @@
   - Supercharger
 - **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6335/hollander-iii-bzk-d3)
 - **Battle Value:** 1575
+- [*More Info*](hollander_iii/hollander_iii_bzk-d3.md)
 

@@ -12,6 +12,7 @@
   - Flamer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/215/balius-prime)
 - **Battle Value:** 2157
+- [*More Info*](balius/balius_prime.md)
 
 ## Balius A
 - **Role:** Sniper
@@ -29,6 +30,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/211/balius-a)
 - **Battle Value:** 2201
+- [*More Info*](balius/balius_a.md)
 
 ## Balius B
 - **Role:** Sniper
@@ -44,6 +46,7 @@
   - Flamer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/212/balius-b)
 - **Battle Value:** 2029
+- [*More Info*](balius/balius_b.md)
 
 ## Balius C
 - **Role:** Skirmisher
@@ -61,6 +64,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/213/balius-c)
 - **Battle Value:** 2103
+- [*More Info*](balius/balius_c.md)
 
 ## Balius D
 - **Role:** Skirmisher
@@ -77,6 +81,7 @@
   - Flamer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/214/balius-d)
 - **Battle Value:** 2417
+- [*More Info*](balius/balius_d.md)
 
 ## Balius U
 - **Role:** Sniper
@@ -95,6 +100,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/216/balius-u)
 - **Battle Value:** 2014
+- [*More Info*](balius/balius_u.md)
 
 ## Balius E
 - **Role:** Skirmisher
@@ -113,4 +119,5 @@
   - CASE
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6883/balius-e)
 - **Battle Value:** 2158
+- [*More Info*](balius/balius_e.md)
 

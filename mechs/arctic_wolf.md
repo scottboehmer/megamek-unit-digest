@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/99/arctic-wolf-standard)
 - **Battle Value:** 1330
+- [*More Info*](arctic_wolf/arctic_wolf_standard.md)
 
 ## Arctic Wolf 2
 - **Role:** Striker
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/100/arctic-wolf-2)
 - **Battle Value:** 1511
+- [*More Info*](arctic_wolf/arctic_wolf_2.md)
 
 ## Arctic Wolf Prime
 - **Role:** Striker
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/103/arctic-wolf-prime)
 - **Battle Value:** 1641
+- [*More Info*](arctic_wolf/arctic_wolf_prime.md)
 
 ## Arctic Wolf A
 - **Role:** Missile Boat
@@ -62,6 +65,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/101/arctic-wolf-a)
 - **Battle Value:** 1587
+- [*More Info*](arctic_wolf/arctic_wolf_a.md)
 
 ## Arctic Wolf J
 - **Role:** Brawler
@@ -81,4 +85,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/102/arctic-wolf-j)
 - **Battle Value:** 1786
+- [*More Info*](arctic_wolf/arctic_wolf_j.md)
 

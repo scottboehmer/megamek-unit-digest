@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/652/clint-iic-standard)
 - **Battle Value:** 1395
+- [*More Info*](clint_iic/clint_iic_standard.md)
 
 ## Clint IIC 2
 - **Role:** Striker
@@ -29,6 +30,7 @@
   - ECM Suite
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/653/clint-iic-2)
 - **Battle Value:** 1890
+- [*More Info*](clint_iic/clint_iic_2.md)
 
 ## Clint IIC 2L 'Leia'
 - **Role:** Undefined
@@ -45,4 +47,5 @@
   - Targeting Computer
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1497
+- [*More Info*](clint_iic/clint_iic_2l_'leia'.md)
 

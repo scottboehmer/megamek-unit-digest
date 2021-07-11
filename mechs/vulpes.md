@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3145 Federated Suns - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6346/vulpes-vlp-1d)
 - **Battle Value:** 2225
+- [*More Info*](vulpes/vulpes_vlp-1d.md)
 
 ## Vulpes VLP-1DX 'Beast'
 - **Role:** Undefined
@@ -34,4 +35,5 @@
   - Drone Operating System
 - **Source:** TRO 3145 Federated Suns - Dark Ages
 - **Battle Value:** 1288
+- [*More Info*](vulpes/vulpes_vlp-1dx_'beast'.md)
 

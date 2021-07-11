@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4488/legacy-lgc-01)
 - **Battle Value:** 1967
+- [*More Info*](legacy/legacy_lgc-01.md)
 
 ## Legacy LGC-02
 - **Role:** Missile Boat
@@ -37,6 +38,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4489/legacy-lgc-02)
 - **Battle Value:** 2033
+- [*More Info*](legacy/legacy_lgc-02.md)
 
 ## Legacy LGC-03
 - **Role:** Brawler
@@ -56,6 +58,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/4490/legacy-lgc-03)
 - **Battle Value:** 2121
+- [*More Info*](legacy/legacy_lgc-03.md)
 
 ## Legacy LGC-04-WVR
 - **Role:** Brawler
@@ -74,6 +77,7 @@
   - MASC
 - **Sources:** RS 3067 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5702/legacy-lgc-04-wvr)
 - **Battle Value:** 1745
+- [*More Info*](legacy/legacy_lgc-04-wvr.md)
 
 ## Legacy LGC-05
 - **Role:** Juggernaut
@@ -94,4 +98,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5703/legacy-lgc-05)
 - **Battle Value:** 1598
+- [*More Info*](legacy/legacy_lgc-05.md)
 

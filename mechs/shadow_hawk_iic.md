@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard)
 - **Battle Value:** 1732
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_standard.md)
 
 ## Shadow Hawk IIC 2
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - Small Pulse Laser × 3
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2)
 - **Battle Value:** 1763
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_2.md)
 
 ## Shadow Hawk IIC 3
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - ER Micro Laser × 2
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2913/shadow-hawk-iic-3)
 - **Battle Value:** 1471
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_3.md)
 
 ## Shadow Hawk IIC 4
 - **Role:** Striker
@@ -64,6 +67,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2914/shadow-hawk-iic-4)
 - **Battle Value:** 1698
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_4.md)
 
 ## Shadow Hawk IIC 5
 - **Role:** Scout
@@ -80,6 +84,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2915/shadow-hawk-iic-5)
 - **Battle Value:** 1614
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_5.md)
 
 ## Shadow Hawk IIC 6
 - **Role:** Striker
@@ -98,6 +103,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2916/shadow-hawk-iic-6)
 - **Battle Value:** 1907
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_6.md)
 
 ## Shadow Hawk IIC 7
 - **Role:** Striker
@@ -117,6 +123,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2917/shadow-hawk-iic-7)
 - **Battle Value:** 1999
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_7.md)
 
 ## Shadow Hawk IIC 8
 - **Role:** Missile Boat
@@ -136,6 +143,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2918/shadow-hawk-iic-8)
 - **Battle Value:** 1940
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_8.md)
 
 ## Shadow Hawk IIC 9
 - **Role:** Skirmisher
@@ -153,4 +161,5 @@
   - CASE
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6911/shadow-hawk-iic-9)
 - **Battle Value:** 1803
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_9.md)
 

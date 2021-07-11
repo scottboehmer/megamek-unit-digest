@@ -11,6 +11,7 @@
   - ER Large Laser × 6
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3132/supernova-standard)
 - **Battle Value:** 2801
+- [*More Info*](supernova/supernova_standard.md)
 
 ## Supernova 2
 - **Role:** Juggernaut
@@ -28,6 +29,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3133/supernova-2)
 - **Battle Value:** 2741
+- [*More Info*](supernova/supernova_2.md)
 
 ## Supernova 3
 - **Role:** Sniper
@@ -45,6 +47,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3134/supernova-3)
 - **Battle Value:** 3448
+- [*More Info*](supernova/supernova_3.md)
 
 ## Supernova 4
 - **Role:** Juggernaut
@@ -62,6 +65,7 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3135/supernova-4)
 - **Battle Value:** 3158
+- [*More Info*](supernova/supernova_4.md)
 
 ## Supernova 5
 - **Role:** Sniper
@@ -77,4 +81,5 @@
   - Inner Sphere Coolant Pod × 4
 - **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8132/supernova-5)
 - **Battle Value:** 3070
+- [*More Info*](supernova/supernova_5.md)
 

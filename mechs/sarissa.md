@@ -14,6 +14,7 @@
   - Machine Gun (ammo: 100)
 - **Sources:** XTRO Marik - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2797/sarissa-mn1-d)
 - **Battle Value:** 850
+- [*More Info*](sarissa/sarissa_mn1-d.md)
 
 ## Sarissa MN2-A SecurityMech
 - **Role:** Juggernaut
@@ -32,4 +33,5 @@
   - Ejection Seat
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4974/sarissa-mn2-a-securitymech)
 - **Battle Value:** 734
+- [*More Info*](sarissa/sarissa_mn2-a_securitymech.md)
 

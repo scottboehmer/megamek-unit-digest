@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3500/warhammer-iic-standard)
 - **Battle Value:** 2570
+- [*More Info*](warhammer_iic/warhammer_iic_standard.md)
 
 ## Warhammer IIC 2
 - **Role:** Missile Boat
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2)
 - **Battle Value:** 2482
+- [*More Info*](warhammer_iic/warhammer_iic_2.md)
 
 ## Warhammer IIC 3
 - **Role:** Brawler
@@ -45,6 +47,7 @@
   - Targeting Computer
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3502/warhammer-iic-3)
 - **Battle Value:** 2382
+- [*More Info*](warhammer_iic/warhammer_iic_3.md)
 
 ## Warhammer IIC 4
 - **Role:** Brawler
@@ -61,6 +64,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3503/warhammer-iic-4)
 - **Battle Value:** 2386
+- [*More Info*](warhammer_iic/warhammer_iic_4.md)
 
 ## Warhammer IIC 5
 - **Role:** Brawler
@@ -77,6 +81,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3504/warhammer-iic-5)
 - **Battle Value:** 2185
+- [*More Info*](warhammer_iic/warhammer_iic_5.md)
 
 ## Warhammer IIC 6
 - **Role:** Sniper
@@ -93,6 +98,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3505/warhammer-iic-6)
 - **Battle Value:** 2661
+- [*More Info*](warhammer_iic/warhammer_iic_6.md)
 
 ## Warhammer IIC 7
 - **Role:** Skirmisher
@@ -114,6 +120,7 @@
   - Cargo × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3506/warhammer-iic-7)
 - **Battle Value:** 2915
+- [*More Info*](warhammer_iic/warhammer_iic_7.md)
 
 ## Warhammer IIC 8
 - **Role:** Skirmisher
@@ -131,6 +138,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3507/warhammer-iic-8)
 - **Battle Value:** 2380
+- [*More Info*](warhammer_iic/warhammer_iic_8.md)
 
 ## Warhammer IIC 9
 - **Role:** Skirmisher
@@ -149,6 +157,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3508/warhammer-iic-9)
 - **Battle Value:** 2819
+- [*More Info*](warhammer_iic/warhammer_iic_9.md)
 
 ## Warhammer IIC 10
 - **Role:** Sniper
@@ -165,6 +174,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6859/warhammer-iic-10)
 - **Battle Value:** 2290
+- [*More Info*](warhammer_iic/warhammer_iic_10.md)
 
 ## Warhammer IIC 11
 - **Role:** Juggernaut
@@ -182,6 +192,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6858/warhammer-iic-11)
 - **Battle Value:** 2021
+- [*More Info*](warhammer_iic/warhammer_iic_11.md)
 
 ## Warhammer IIC 12
 - **Role:** Brawler
@@ -200,6 +211,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6857/warhammer-iic-12)
 - **Battle Value:** 2680
+- [*More Info*](warhammer_iic/warhammer_iic_12.md)
 
 ## Warhammer IIC 13
 - **Role:** Brawler
@@ -217,4 +229,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13)
 - **Battle Value:** 2715
+- [*More Info*](warhammer_iic/warhammer_iic_13.md)
 

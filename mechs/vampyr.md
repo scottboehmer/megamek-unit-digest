@@ -17,4 +17,5 @@
   - Liquid Cargo × 2
 - **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/5334/vampyr-sc-v-1-salvagemech)
 - **Battle Value:** 582
+- [*More Info*](vampyr/vampyr_sc-v-1_salvagemech.md)
 

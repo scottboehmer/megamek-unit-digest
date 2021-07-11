@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3441/vixen-incubus-standard)
 - **Battle Value:** 1596
+- [*More Info*](incubus/incubus_standard.md)
 
 ## Incubus 2 "Vixen"
 - **Role:** Striker
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3442/vixen-incubus-2)
 - **Battle Value:** 1913
+- [*More Info*](incubus/incubus_2.md)
 
 ## Incubus 7 "Vixen"
 - **Role:** Striker
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7541/vixen-incubus-7)
 - **Battle Value:** 1175
+- [*More Info*](incubus/incubus_7.md)
 
 ## Incubus 8 "Vixen"
 - **Role:** Striker
@@ -62,6 +65,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7543/vixen-incubus-8)
 - **Battle Value:** 1557
+- [*More Info*](incubus/incubus_8.md)
 
 ## Incubus 3 "Vixen"
 - **Role:** Striker
@@ -78,6 +82,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3443/vixen-incubus-3)
 - **Battle Value:** 1324
+- [*More Info*](incubus/incubus_3.md)
 
 ## Incubus 4 "Vixen"
 - **Role:** Striker
@@ -93,6 +98,7 @@
   - ER Micro Laser × 2
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3444/vixen-incubus-4)
 - **Battle Value:** 1581
+- [*More Info*](incubus/incubus_4.md)
 
 ## Incubus 5 "Vixen"
 - **Role:** Striker
@@ -109,6 +115,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3445/vixen-incubus-5)
 - **Battle Value:** 1364
+- [*More Info*](incubus/incubus_5.md)
 
 ## Incubus 6 "Vixen"
 - **Role:** Brawler
@@ -126,6 +133,7 @@
   - CASE
 - **Source:** Ice Wind Metals - Dark Age
 - **Battle Value:** 1578
+- [*More Info*](incubus/incubus_6.md)
 
 ## Incubus 9 "Vixen"
 - **Role:** Striker
@@ -143,4 +151,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7544/vixen-incubus-9)
 - **Battle Value:** 1849
+- [*More Info*](incubus/incubus_9.md)
 

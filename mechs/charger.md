@@ -10,6 +10,7 @@
   - Small Laser × 5
 - **Sources:** Source:TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/559/charger-cgr-1a1)
 - **Battle Value:** 981
+- [*More Info*](charger/charger_cgr-1a1.md)
 
 ## Charger CGR-1L
 - **Role:** Skirmisher
@@ -23,6 +24,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/562/charger-cgr-1l)
 - **Battle Value:** 980
+- [*More Info*](charger/charger_cgr-1l.md)
 
 ## Charger CGR-1A5
 - **Role:** Juggernaut
@@ -38,6 +40,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/560/charger-cgr-1a5)
 - **Battle Value:** 1468
+- [*More Info*](charger/charger_cgr-1a5.md)
 
 ## Charger CGR-SB 'Challenger'
 - **Role:** Juggernaut
@@ -51,6 +54,7 @@
   - Medium Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger)
 - **Battle Value:** 1604
+- [*More Info*](charger/charger_cgr-sb_'challenger'.md)
 
 ## Charger CGR-1A9
 - **Role:** Skirmisher
@@ -66,6 +70,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/561/charger-cgr-1a9)
 - **Battle Value:** 1397
+- [*More Info*](charger/charger_cgr-1a9.md)
 
 ## Charger CGR-3K
 - **Role:** Skirmisher
@@ -82,6 +87,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/565/charger-cgr-3k)
 - **Battle Value:** 1656
+- [*More Info*](charger/charger_cgr-3k.md)
 
 ## Charger CGR-C
 - **Role:** Skirmisher
@@ -99,6 +105,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/567/charger-cgr-c)
 - **Battle Value:** 1592
+- [*More Info*](charger/charger_cgr-c.md)
 
 ## Charger CGR-SA5
 - **Role:** Juggernaut
@@ -116,6 +123,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/569/charger-cgr-sa5)
 - **Battle Value:** 2105
+- [*More Info*](charger/charger_cgr-sa5.md)
 
 ## Charger CGR-2A2
 - **Role:** Scout
@@ -129,6 +137,7 @@
   - Rocket 10 × 5
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/564/charger-cgr-2a2)
 - **Battle Value:** 1109
+- [*More Info*](charger/charger_cgr-2a2.md)
 
 ## Charger CGR-KMZ
 - **Role:** Sniper
@@ -147,6 +156,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/568/charger-cgr-kmz)
 - **Battle Value:** 1781
+- [*More Info*](charger/charger_cgr-kmz.md)
 
 ## Charger CGR-1X1
 - **Role:** Scout
@@ -169,6 +179,7 @@
   - TAG
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1)
 - **Battle Value:** 2009
+- [*More Info*](charger/charger_cgr-1x1.md)
 
 ## Charger CGR-3Kr
 - **Role:** Skirmisher
@@ -191,4 +202,5 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/566/charger-cgr-3kr)
 - **Battle Value:** 2121
+- [*More Info*](charger/charger_cgr-3kr.md)
 

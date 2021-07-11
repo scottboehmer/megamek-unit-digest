@@ -16,6 +16,7 @@
   - C3 Slave
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/371/black-watch-bkw-7r)
 - **Battle Value:** 1998
+- [*More Info*](black_watch/black_watch_bkw-7r.md)
 
 ## Black Watch BKW-9R
 - **Role:** Sniper
@@ -33,4 +34,5 @@
   - TAG
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/372/black-watch-bkw-9r)
 - **Battle Value:** 2144
+- [*More Info*](black_watch/black_watch_bkw-9r.md)
 

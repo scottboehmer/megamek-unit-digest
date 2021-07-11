@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7545/war-crow-prime)
 - **Battle Value:** 2649
+- [*More Info*](war_crow/war_crow_prime.md)
 
 ## War Crow A
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7546/war-crow-a)
 - **Battle Value:** 3030
+- [*More Info*](war_crow/war_crow_a.md)
 
 ## War Crow B
 - **Role:** Skirmisher
@@ -51,6 +53,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7547/war-crow-b)
 - **Battle Value:** 2787
+- [*More Info*](war_crow/war_crow_b.md)
 
 ## War Crow C
 - **Role:** Sniper
@@ -68,4 +71,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7548/war-crow-c)
 - **Battle Value:** 2572
+- [*More Info*](war_crow/war_crow_c.md)
 

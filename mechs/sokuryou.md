@@ -13,6 +13,7 @@
   - Ejection Seat
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2982/sokuryou-sku-181-surveymech)
 - **Battle Value:** 346
+- [*More Info*](sokuryou/sokuryou_sku-181_surveymech.md)
 
 ## Sokuryou SKU-197 SurveyMech
 - **Role:** Scout
@@ -28,6 +29,7 @@
   - Ejection Seat
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2983/sokuryou-sku-197-surveymech)
 - **Battle Value:** 395
+- [*More Info*](sokuryou/sokuryou_sku-197_surveymech.md)
 
 ## Sokuryou SKU-198 SurveyMech
 - **Role:** Scout
@@ -43,4 +45,5 @@
   - Ejection Seat
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2984/sokuryou-sku-198-surveymech)
 - **Battle Value:** 581
+- [*More Info*](sokuryou/sokuryou_sku-198_surveymech.md)
 

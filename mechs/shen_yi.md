@@ -14,6 +14,7 @@
   - Guardian ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2922/shen-yi-shy-3b)
 - **Battle Value:** 1507
+- [*More Info*](shen_yi/shen_yi_shy-3b.md)
 
 ## Shen Yi SHY-5B
 - **Role:** Missile Boat
@@ -29,4 +30,5 @@
   - Guardian ECM Suite
 - **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6878/shen-yi-shy-5b)
 - **Battle Value:** 1603
+- [*More Info*](shen_yi/shen_yi_shy-5b.md)
 

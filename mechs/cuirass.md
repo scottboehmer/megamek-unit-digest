@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/769/cuirass-cdr-1x)
 - **Battle Value:** 1301
+- [*More Info*](cuirass/cuirass_cdr-1x.md)
 
 ## Cuirass CDR-2BC
 - **Role:** Striker
@@ -36,6 +37,7 @@
   - C3 Boosted Slave
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6922/cuirass-cdr-2bc3)
 - **Battle Value:** 990
+- [*More Info*](cuirass/cuirass_cdr-2bc.md)
 
 ## Cuirass CDR-2X
 - **Role:** Sniper
@@ -52,4 +54,5 @@
   - Small Re-Engineered Laser
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6921/cuirass-cdr-2x)
 - **Battle Value:** 1227
+- [*More Info*](cuirass/cuirass_cdr-2x.md)
 

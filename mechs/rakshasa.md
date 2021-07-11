@@ -13,6 +13,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2631/rakshasa-mdg-1a)
 - **Battle Value:** 1795
+- [*More Info*](rakshasa/rakshasa_mdg-1a.md)
 
 ## Rakshasa MDG-1B
 - **Role:** Skirmisher
@@ -28,6 +29,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2633/rakshasa-mdg-1b)
 - **Battle Value:** 1748
+- [*More Info*](rakshasa/rakshasa_mdg-1b.md)
 
 ## Rakshasa MDG-2A
 - **Role:** Skirmisher
@@ -42,6 +44,7 @@
   - Medium Pulse Laser × 4
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a)
 - **Battle Value:** 1766
+- [*More Info*](rakshasa/rakshasa_mdg-2a.md)
 
 ## Rakshasa MDG-1Ar
 - **Role:** Skirmisher
@@ -58,4 +61,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2632/rakshasa-mdg-1ar)
 - **Battle Value:** 1675
+- [*More Info*](rakshasa/rakshasa_mdg-1ar.md)
 

@@ -12,6 +12,7 @@
   - Medium Laser × 2
 - **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7183/rifleman-rfl-1n)
 - **Battle Value:** 931
+- [*More Info*](rifleman/rifleman_rfl-1n.md)
 
 ## Rifleman RFL-2N
 - **Role:** Sniper
@@ -25,6 +26,7 @@
   - Medium Laser × 4
 - **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7184/rifleman-rfl-2n)
 - **Battle Value:** 1093
+- [*More Info*](rifleman/rifleman_rfl-2n.md)
 
 ## Rifleman RFL-3N
 - **Role:** Sniper
@@ -39,6 +41,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2697/rifleman-rfl-3n)
 - **Battle Value:** 1039
+- [*More Info*](rifleman/rifleman_rfl-3n.md)
 
 ## Rifleman RFL-4D
 - **Role:** Sniper
@@ -52,6 +55,7 @@
   - Large Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d)
 - **Battle Value:** 1173
+- [*More Info*](rifleman/rifleman_rfl-4d.md)
 
 ## Rifleman RFL-3C
 - **Role:** Brawler
@@ -65,6 +69,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2695/rifleman-rfl-3c)
 - **Battle Value:** 1066
+- [*More Info*](rifleman/rifleman_rfl-3c.md)
 
 ## Rifleman RFL-5M
 - **Role:** Brawler
@@ -81,6 +86,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m)
 - **Battle Value:** 1227
+- [*More Info*](rifleman/rifleman_rfl-5m.md)
 
 ## Rifleman RFL-5D
 - **Role:** Brawler
@@ -95,6 +101,7 @@
   - Medium Laser × 2
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d)
 - **Battle Value:** 1395
+- [*More Info*](rifleman/rifleman_rfl-5d.md)
 
 ## Rifleman C
 - **Role:** Sniper
@@ -108,6 +115,7 @@
   - Clan LB 5-X AC × 2 (ammo: 20)
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c)
 - **Battle Value:** 1335
+- [*More Info*](rifleman/rifleman_c.md)
 
 ## Rifleman RFL-5CS
 - **Role:** Sniper
@@ -121,6 +129,7 @@
   - Ultra AC/5 × 2 (ammo: 40)
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7597/rifleman-rfl-5cs)
 - **Battle Value:** 1303
+- [*More Info*](rifleman/rifleman_rfl-5cs.md)
 
 ## Rifleman RFL-6X
 - **Role:** Sniper
@@ -137,6 +146,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2702/rifleman-rfl-6x)
 - **Battle Value:** 1464
+- [*More Info*](rifleman/rifleman_rfl-6x.md)
 
 ## Rifleman RFL-8D
 - **Role:** Skirmisher
@@ -151,6 +161,7 @@
   - ER Medium Laser × 2
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d)
 - **Battle Value:** 1777
+- [*More Info*](rifleman/rifleman_rfl-8d.md)
 
 ## Rifleman RFL-7M
 - **Role:** Brawler
@@ -167,6 +178,7 @@
   - Guardian ECM Suite
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2703/rifleman-rfl-7m)
 - **Battle Value:** 1521
+- [*More Info*](rifleman/rifleman_rfl-7m.md)
 
 ## Rifleman RFL-8X
 - **Role:** Skirmisher
@@ -180,6 +192,7 @@
   - ER Medium Laser × 4
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x)
 - **Battle Value:** 1798
+- [*More Info*](rifleman/rifleman_rfl-8x.md)
 
 ## Rifleman RFL-6D
 - **Role:** Skirmisher
@@ -196,6 +209,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2701/rifleman-rfl-6d)
 - **Battle Value:** 1274
+- [*More Info*](rifleman/rifleman_rfl-6d.md)
 
 ## Rifleman RFL-3Cr
 - **Role:** Brawler
@@ -213,6 +227,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2696/rifleman-rfl-3cr)
 - **Battle Value:** 1129
+- [*More Info*](rifleman/rifleman_rfl-3cr.md)
 
 ## Rifleman RFL-9T
 - **Role:** Brawler
@@ -231,6 +246,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t)
 - **Battle Value:** 1503
+- [*More Info*](rifleman/rifleman_rfl-9t.md)
 
 ## Rifleman RFL-X3 MUSE WIND
 - **Role:** Sniper
@@ -248,6 +264,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind)
 - **Battle Value:** 2012
+- [*More Info*](rifleman/rifleman_rfl-x3_muse_wind.md)
 
 ## Rifleman RFL-7X
 - **Role:** Skirmisher
@@ -263,6 +280,7 @@
   - Light PPC × 2
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2704/rifleman-rfl-7x)
 - **Battle Value:** 1645
+- [*More Info*](rifleman/rifleman_rfl-7x.md)
 
 ## Rifleman C 2
 - **Role:** Skirmisher
@@ -277,6 +295,7 @@
   - Improved Heavy Medium Laser × 2
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2)
 - **Battle Value:** 2150
+- [*More Info*](rifleman/rifleman_c_2.md)
 
 ## Rifleman RFL-7G
 - **Role:** Sniper
@@ -290,6 +309,7 @@
   - ER Medium Laser × 2
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g)
 - **Battle Value:** 1302
+- [*More Info*](rifleman/rifleman_rfl-7g.md)
 
 ## Rifleman C 3
 - **Role:** Sniper
@@ -306,6 +326,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7576/rifleman-c-3)
 - **Battle Value:** 1871
+- [*More Info*](rifleman/rifleman_c_3.md)
 
 ## Rifleman RFL-7N
 - **Role:** Sniper
@@ -322,6 +343,7 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7574/rifleman-rfl-7n)
 - **Battle Value:** 1398
+- [*More Info*](rifleman/rifleman_rfl-7n.md)
 
 ## Rifleman RFL-7N2
 - **Role:** Sniper
@@ -338,4 +360,5 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7575/rifleman-rfl-7n2)
 - **Battle Value:** 1452
+- [*More Info*](rifleman/rifleman_rfl-7n2.md)
 

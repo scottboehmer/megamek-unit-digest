@@ -12,6 +12,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/802/daimyo-dmo-1k)
 - **Battle Value:** 1148
+- [*More Info*](daimyo/daimyo_dmo-1k.md)
 
 ## Daimyo DMO-2K
 - **Role:** Brawler
@@ -26,6 +27,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/804/daimyo-dmo-2k)
 - **Battle Value:** 1057
+- [*More Info*](daimyo/daimyo_dmo-2k.md)
 
 ## Daimyo DMO-4K
 - **Role:** Brawler
@@ -39,6 +41,7 @@
   - Medium Laser × 3
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/805/daimyo-dmo-4k)
 - **Battle Value:** 1150
+- [*More Info*](daimyo/daimyo_dmo-4k.md)
 
 ## Daimyo DMO-5K
 - **Role:** Brawler
@@ -54,6 +57,7 @@
   - C3 Master
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/806/daimyo-dmo-5k)
 - **Battle Value:** 1087
+- [*More Info*](daimyo/daimyo_dmo-5k.md)
 
 ## Daimyo DMO-1K2 (Al-Shahab)
 - **Role:** Undefined
@@ -69,4 +73,5 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/803/daimyo-dmo-1k2-al-shahab)
 - **Battle Value:** 1332
+- [*More Info*](daimyo/daimyo_dmo-1k2_al-shahab.md)
 

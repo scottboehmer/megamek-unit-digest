@@ -12,6 +12,7 @@
   - LB 5-X AC (ammo: 20)
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1189/garm-grm-01a)
 - **Battle Value:** 701
+- [*More Info*](garm/garm_grm-01a.md)
 
 ## Garm GRM-01B
 - **Role:** Missile Boat
@@ -26,6 +27,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12)
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1191/garm-grm-01b)
 - **Battle Value:** 934
+- [*More Info*](garm/garm_grm-01b.md)
 
 ## Garm GRM-01C
 - **Role:** Brawler
@@ -42,6 +44,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1192/garm-grm-01c)
 - **Battle Value:** 1140
+- [*More Info*](garm/garm_grm-01c.md)
 
 ## Garm GRM-01A2
 - **Role:** Missile Boat
@@ -59,4 +62,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1190/garm-grm-01a2)
 - **Battle Value:** 1078
+- [*More Info*](garm/garm_grm-01a2.md)
 

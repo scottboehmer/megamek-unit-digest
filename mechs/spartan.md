@@ -15,6 +15,7 @@
   - TAG
 - **Sources:** Rhonda's Irregulars - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2994/spartan-spt-n1)
 - **Battle Value:** 1498
+- [*More Info*](spartan/spartan_spt-n1.md)
 
 ## Spartan SPT-N2
 - **Role:** Skirmisher
@@ -32,6 +33,7 @@
   - TAG
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2995/spartan-spt-n2)
 - **Battle Value:** 1605
+- [*More Info*](spartan/spartan_spt-n2.md)
 
 ## Spartan SPT-NF
 - **Role:** Skirmisher
@@ -49,6 +51,7 @@
   - CASE
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2997/spartan-spt-nf)
 - **Battle Value:** 1605
+- [*More Info*](spartan/spartan_spt-nf.md)
 
 ## Spartan C
 - **Role:** Skirmisher
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7646/spartan-c)
 - **Battle Value:** 2514
+- [*More Info*](spartan/spartan_c.md)
 
 ## Spartan SPT-N3
 - **Role:** Skirmisher
@@ -82,4 +86,5 @@
   - C3i
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2996/spartan-spt-n3)
 - **Battle Value:** 1631
+- [*More Info*](spartan/spartan_spt-n3.md)
 

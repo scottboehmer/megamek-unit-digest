@@ -15,6 +15,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4019/crimson-langur-prime)
 - **Battle Value:** 1952
+- [*More Info*](crimson_langur/crimson_langur_prime.md)
 
 ## Crimson Langur A
 - **Role:** Missile Boat
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4016/crimson-langur-a)
 - **Battle Value:** 2003
+- [*More Info*](crimson_langur/crimson_langur_a.md)
 
 ## Crimson Langur B
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b)
 - **Battle Value:** 2210
+- [*More Info*](crimson_langur/crimson_langur_b.md)
 
 ## Crimson Langur C
 - **Role:** Striker
@@ -63,6 +66,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4018/crimson-langur-c)
 - **Battle Value:** 1437
+- [*More Info*](crimson_langur/crimson_langur_c.md)
 
 ## Crimson Langur D
 - **Role:** Striker
@@ -82,6 +86,7 @@
   - Targeting Computer
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5676/crimson-langur-d)
 - **Battle Value:** 1867
+- [*More Info*](crimson_langur/crimson_langur_d.md)
 
 ## Crimson Langur E
 - **Role:** Striker
@@ -98,4 +103,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677/crimson-langur-e)
 - **Battle Value:** 2051
+- [*More Info*](crimson_langur/crimson_langur_e.md)
 

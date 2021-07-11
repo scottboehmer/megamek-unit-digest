@@ -14,4 +14,5 @@
   - ECM Suite
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3570/wolfhound-iic-grinner)
 - **Battle Value:** 1579
+- [*More Info*](wolfhound_iic/wolfhound_iic_'grinner'.md)
 

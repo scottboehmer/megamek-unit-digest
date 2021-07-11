@@ -11,6 +11,7 @@
   - ER Medium Laser × 4
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2012/mangonel-mnl-3l)
 - **Battle Value:** 1552
+- [*More Info*](mangonel/mangonel_mnl-3l.md)
 
 ## Mangonel MNL-3W
 - **Role:** Skirmisher
@@ -27,6 +28,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2013/mangonel-mnl-3w)
 - **Battle Value:** 2657
+- [*More Info*](mangonel/mangonel_mnl-3w.md)
 
 ## Mangonel MNL-4S
 - **Role:** Brawler
@@ -41,4 +43,5 @@
   - Clan ER Medium Laser × 2
 - **Sources:** RS 3145  NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6871/mangonel-mnl-4s)
 - **Battle Value:** 2659
+- [*More Info*](mangonel/mangonel_mnl-4s.md)
 

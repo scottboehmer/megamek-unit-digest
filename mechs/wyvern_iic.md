@@ -19,6 +19,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3601/wyvern-iic-standard)
 - **Battle Value:** 1624
+- [*More Info*](wyvern_iic/wyvern_iic_standard.md)
 
 ## Wyvern IIC 2
 - **Role:** Skirmisher
@@ -40,4 +41,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3602/wyvern-iic-2)
 - **Battle Value:** 1524
+- [*More Info*](wyvern_iic/wyvern_iic_2.md)
 

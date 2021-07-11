@@ -1,0 +1,58 @@
+# Firebee FRB-1E (WAM-B)
+
+[Other Firebee variants](../firebee.md)
+
+## Firebee FRB-1E (WAM-B)
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (2483)
+- **Chassis:** 35 tons
+- **Movement:** 6 / 9
+- **Armor:** 69 (Primitive)
+- **Cockpit:** Primitive
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - LRM 5 (ammo: 24)
+  - SRM 2 × 3 (ammo: 100)
+- **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1078/firebee-frb-1e-wam-b)
+- **Battle Value:** 534
+
+## Availability
+
+### Jihad
+- Calderon Protectorate
+- Capellan Confederation
+- Circinus Federation
+- Federated Suns
+- Free Worlds League
+- Magistracy of Canopus
+- Marian Hegemony
+- Outworlds Alliance
+- Pirate
+- Taurian Concordat
+
+### Early Republic
+- Calderon Protectorate
+- Duchy of Andurien
+- Federated Suns
+- Filtvelt Coalition
+- Magistracy of Canopus
+- Marian Hegemony
+- Pirate
+- Taurian Concordat
+
+### Late Republic
+- Calderon Protectorate
+- Filtvelt Coalition
+- Magistracy of Canopus
+- Marian Hegemony
+- Pirate
+- Taurian Concordat
+
+### Dark Ages
+- Calderon Protectorate
+- Filtvelt Coalition
+- Magistracy of Canopus
+- Marian Hegemony
+- Pirate
+- Taurian Concordat
+

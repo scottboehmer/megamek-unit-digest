@@ -13,4 +13,5 @@
   - Ejection Seat
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3714/arbiter-arb-001-securitymech)
 - **Battle Value:** 507
+- [*More Info*](arbiter/arbiter_arb-001_securitymech.md)
 

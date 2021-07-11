@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1836/koshi-mist-lynx-prime)
 - **Battle Value:** 871
+- [*More Info*](mist_lynx/mist_lynx_prime.md)
 
 ## Mist Lynx "Koshi" A
 - **Role:** Scout
@@ -36,6 +37,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1827/koshi-mist-lynx-a)
 - **Battle Value:** 608
+- [*More Info*](mist_lynx/mist_lynx_a.md)
 
 ## Mist Lynx "Koshi" B
 - **Role:** Striker
@@ -54,6 +56,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1828/koshi-mist-lynx-b)
 - **Battle Value:** 1209
+- [*More Info*](mist_lynx/mist_lynx_b.md)
 
 ## Mist Lynx "Koshi" C
 - **Role:** Striker
@@ -73,6 +76,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1829/koshi-mist-lynx-c)
 - **Battle Value:** 1320
+- [*More Info*](mist_lynx/mist_lynx_c.md)
 
 ## Mist Lynx "Koshi" D
 - **Role:** Striker
@@ -91,6 +95,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1830/koshi-mist-lynx-d)
 - **Battle Value:** 842
+- [*More Info*](mist_lynx/mist_lynx_d.md)
 
 ## Mist Lynx "Koshi" E
 - **Role:** Striker
@@ -108,6 +113,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1831/koshi-mist-lynx-e)
 - **Battle Value:** 997
+- [*More Info*](mist_lynx/mist_lynx_e.md)
 
 ## Mist Lynx "Koshi" H
 - **Role:** Striker
@@ -127,6 +133,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1834/koshi-mist-lynx-h)
 - **Battle Value:** 982
+- [*More Info*](mist_lynx/mist_lynx_h.md)
 
 ## Mist Lynx "Koshi" P
 - **Role:** Scout
@@ -144,6 +151,7 @@
   - Active Probe
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1835/koshi-mist-lynx-p)
 - **Battle Value:** 1064
+- [*More Info*](mist_lynx/mist_lynx_p.md)
 
 ## Mist Lynx "Koshi" F
 - **Role:** Scout
@@ -163,6 +171,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1832/koshi-mist-lynx-f)
 - **Battle Value:** 1173
+- [*More Info*](mist_lynx/mist_lynx_f.md)
 
 ## Mist Lynx "Koshi" G
 - **Role:** Striker
@@ -181,6 +190,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1833/koshi-mist-lynx-g)
 - **Battle Value:** 834
+- [*More Info*](mist_lynx/mist_lynx_g.md)
 
 ## Mist Lynx "Koshi" Z
 - **Role:** Striker
@@ -199,6 +209,7 @@
   - Modular Armor
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5643/koshi-mist-lynx-z)
 - **Battle Value:** 970
+- [*More Info*](mist_lynx/mist_lynx_z.md)
 
 ## Mist Lynx "Koshi" I
 - **Role:** Undefined
@@ -216,6 +227,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7557/koshi-mist-lynx-i)
 - **Battle Value:** 689
+- [*More Info*](mist_lynx/mist_lynx_i.md)
 
 ## Mist Lynx "Koshi" J
 - **Role:** Undefined
@@ -233,6 +245,7 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j)
 - **Battle Value:** 1704
+- [*More Info*](mist_lynx/mist_lynx_j.md)
 
 ## Mist Lynx "Koshi" K
 - **Role:** Undefined
@@ -250,6 +263,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7559/koshi-mist-lynx-k)
 - **Battle Value:** 976
+- [*More Info*](mist_lynx/mist_lynx_k.md)
 
 ## Mist Lynx "Koshi" L
 - **Role:** Undefined
@@ -269,6 +283,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7560/koshi-mist-lynx-l)
 - **Battle Value:** 901
+- [*More Info*](mist_lynx/mist_lynx_l.md)
 
 ## Mist Lynx "Koshi" N
 - **Role:** Undefined
@@ -288,6 +303,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7562/koshi-mist-lynx-n)
 - **Battle Value:** 976
+- [*More Info*](mist_lynx/mist_lynx_n.md)
 
 ## Mist Lynx "Koshi" M
 - **Role:** Undefined
@@ -306,6 +322,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m)
 - **Battle Value:** 961
+- [*More Info*](mist_lynx/mist_lynx_m.md)
 
 ## Mist Lynx "Koshi" T
 - **Role:** Undefined
@@ -325,4 +342,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t)
 - **Battle Value:** 971
+- [*More Info*](mist_lynx/mist_lynx_t.md)
 

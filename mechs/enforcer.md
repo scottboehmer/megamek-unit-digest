@@ -13,6 +13,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/976/enforcer-enf-4r)
 - **Battle Value:** 1032
+- [*More Info*](enforcer/enforcer_enf-4r.md)
 
 ## Enforcer ENF-4R (Daniel)
 - **Role:** Brawler
@@ -28,6 +29,7 @@
   - Small Laser
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/977/enforcer-enf-4r-daniel)
 - **Battle Value:** 1247
+- [*More Info*](enforcer/enforcer_enf-4r_daniel.md)
 
 ## Enforcer ENF-5D
 - **Role:** Skirmisher
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/978/enforcer-enf-5d)
 - **Battle Value:** 1308
+- [*More Info*](enforcer/enforcer_enf-5d.md)
 
 ## Enforcer ENF-5D (Daniel)
 - **Role:** Skirmisher
@@ -62,4 +65,5 @@
   - CASE
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/979/enforcer-enf-5d-daniel)
 - **Battle Value:** 1738
+- [*More Info*](enforcer/enforcer_enf-5d_daniel.md)
 

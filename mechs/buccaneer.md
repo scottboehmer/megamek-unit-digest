@@ -14,6 +14,7 @@
   - Hatchet
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/436/buccaneer-bcn-3r)
 - **Battle Value:** 1434
+- [*More Info*](buccaneer/buccaneer_bcn-3r.md)
 
 ## Buccaneer BCN-5W
 - **Role:** Scout
@@ -32,6 +33,7 @@
   - Machine Gun Array
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/437/buccaneer-bcn-5w)
 - **Battle Value:** 1370
+- [*More Info*](buccaneer/buccaneer_bcn-5w.md)
 
 ## Buccaneer BCN-6W
 - **Role:** Missile Boat
@@ -48,6 +50,7 @@
   - C3i
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/438/buccaneer-bcn-6w)
 - **Battle Value:** 1121
+- [*More Info*](buccaneer/buccaneer_bcn-6w.md)
 
 ## Buccaneer BCN-6PX 'Pan'
 - **Role:** Undefined
@@ -65,4 +68,5 @@
   - Clan Partial Wing
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1384
+- [*More Info*](buccaneer/buccaneer_bcn-6px_'pan'.md)
 

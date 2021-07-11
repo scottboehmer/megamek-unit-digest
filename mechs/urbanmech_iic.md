@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3361/urbanmech-iic-standard)
 - **Battle Value:** 798
+- [*More Info*](urbanmech_iic/urbanmech_iic_standard.md)
 
 ## UrbanMech IIC 2
 - **Role:** Sniper
@@ -30,4 +31,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3362/urbanmech-iic-2)
 - **Battle Value:** 855
+- [*More Info*](urbanmech_iic/urbanmech_iic_2.md)
 

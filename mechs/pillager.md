@@ -13,6 +13,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2524/pillager-plg-1n)
 - **Battle Value:** 1812
+- [*More Info*](pillager/pillager_plg-1n.md)
 
 ## Pillager PLG-3Z
 - **Role:** Juggernaut
@@ -28,6 +29,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2525/pillager-plg-3z)
 - **Battle Value:** 2697
+- [*More Info*](pillager/pillager_plg-3z.md)
 
 ## Pillager PLG-4Z
 - **Role:** Sniper
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2527/pillager-plg-4z)
 - **Battle Value:** 2868
+- [*More Info*](pillager/pillager_plg-4z.md)
 
 ## Pillager PLG-5L
 - **Role:** Missile Boat
@@ -64,6 +67,7 @@
   - CASE
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2528/pillager-plg-5l)
 - **Battle Value:** 2618
+- [*More Info*](pillager/pillager_plg-5l.md)
 
 ## Pillager PLG-5Z
 - **Role:** Sniper
@@ -82,6 +86,7 @@
   - CASE
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2529/pillager-plg-5z)
 - **Battle Value:** 2939
+- [*More Info*](pillager/pillager_plg-5z.md)
 
 ## Pillager PLG-4X 'Anvil'
 - **Role:** Missile Boat
@@ -98,4 +103,5 @@
   - Coolant Pod × 2
 - **Sources:** XTRO Liao - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2526/pillager-plg-4x-anvil)
 - **Battle Value:** 1884
+- [*More Info*](pillager/pillager_plg-4x_'anvil'.md)
 

@@ -14,6 +14,7 @@
   - Guardian ECM Suite
 - **Sources:** DTP Liao, [Master Unit List](http://masterunitlist.info/Unit/Details/5544/yu-huang-carson)
 - **Battle Value:** 2464
+- [*More Info*](yu_huang/yu_huang_carson.md)
 
 ## Yu Huang Y-H10G
 - **Role:** Skirmisher
@@ -32,6 +33,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3624/yu-huang-y-h10g)
 - **Battle Value:** 2433
+- [*More Info*](yu_huang/yu_huang_y-h10g.md)
 
 ## Yu Huang Y-H9G
 - **Role:** Skirmisher
@@ -49,6 +51,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3626/yu-huang-y-h9g)
 - **Battle Value:** 2074
+- [*More Info*](yu_huang/yu_huang_y-h9g.md)
 
 ## Yu Huang Y-H9GC
 - **Role:** Skirmisher
@@ -67,6 +70,7 @@
   - C3 Master
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3628/yu-huang-y-h9gc)
 - **Battle Value:** 2017
+- [*More Info*](yu_huang/yu_huang_y-h9gc.md)
 
 ## Yu Huang Y-H9GB
 - **Role:** Skirmisher
@@ -83,6 +87,7 @@
   - Medium Laser × 3
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3627/yu-huang-y-h9gb)
 - **Battle Value:** 2039
+- [*More Info*](yu_huang/yu_huang_y-h9gb.md)
 
 ## Yu Huang Y-H11G
 - **Role:** Skirmisher
@@ -102,4 +107,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3625/yu-huang-y-h11g)
 - **Battle Value:** 2131
+- [*More Info*](yu_huang/yu_huang_y-h11g.md)
 

@@ -13,6 +13,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/548/champion-chp-1n)
 - **Battle Value:** 1233
+- [*More Info*](champion/champion_chp-1n.md)
 
 ## Champion CHP-1N2
 - **Role:** Skirmisher
@@ -28,6 +29,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/549/champion-chp-1n2)
 - **Battle Value:** 1233
+- [*More Info*](champion/champion_chp-1n2.md)
 
 ## Champion CHP-1Nb
 - **Role:** Sniper
@@ -41,6 +43,7 @@
   - ER PPC
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/550/champion-chp-1nb)
 - **Battle Value:** 1632
+- [*More Info*](champion/champion_chp-1nb.md)
 
 ## Champion CHP-2N
 - **Role:** Skirmisher
@@ -56,6 +59,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/551/champion-chp-2n)
 - **Battle Value:** 1116
+- [*More Info*](champion/champion_chp-2n.md)
 
 ## Champion C
 - **Role:** Skirmisher
@@ -75,6 +79,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/547/champion-c)
 - **Battle Value:** 2191
+- [*More Info*](champion/champion_c.md)
 
 ## Champion CHP-3N
 - **Role:** Skirmisher
@@ -91,6 +96,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/552/champion-chp-3n)
 - **Battle Value:** 1400
+- [*More Info*](champion/champion_chp-3n.md)
 
 ## Champion CHP-3P
 - **Role:** Skirmisher
@@ -108,4 +114,5 @@
   - C3i
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/553/champion-chp-3p)
 - **Battle Value:** 1503
+- [*More Info*](champion/champion_chp-3p.md)
 

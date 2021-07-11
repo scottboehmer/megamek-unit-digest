@@ -11,6 +11,7 @@
   - ER Medium Laser × 10
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3007/sphinx-standard)
 - **Battle Value:** 2883
+- [*More Info*](sphinx/sphinx_standard.md)
 
 ## Sphinx 2
 - **Role:** Skirmisher
@@ -27,6 +28,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2)
 - **Battle Value:** 2753
+- [*More Info*](sphinx/sphinx_2.md)
 
 ## Sphinx 3
 - **Role:** Skirmisher
@@ -43,6 +45,7 @@
   - Targeting Computer
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6864/sphinx-3)
 - **Battle Value:** 3396
+- [*More Info*](sphinx/sphinx_3.md)
 
 ## Sphinx 4
 - **Role:** Brawler
@@ -56,4 +59,5 @@
   - Heavy Small Laser × 10
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6863/sphinx-4)
 - **Battle Value:** 1952
+- [*More Info*](sphinx/sphinx_4.md)
 

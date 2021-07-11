@@ -17,4 +17,5 @@
   - Supercharger
 - **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5078/slagmaiden-slg-x)
 - **Battle Value:** 1602
+- [*More Info*](slagmaiden/slagmaiden_slg-x.md)
 

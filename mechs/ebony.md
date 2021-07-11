@@ -16,6 +16,7 @@
   - Guardian ECM Suite
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/940/ebony-meb-10)
 - **Battle Value:** 1020
+- [*More Info*](ebony/ebony_meb-10.md)
 
 ## Ebony MEB-11
 - **Role:** Scout
@@ -33,6 +34,7 @@
   - Guardian ECM Suite
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/941/ebony-meb-11)
 - **Battle Value:** 1135
+- [*More Info*](ebony/ebony_meb-11.md)
 
 ## Ebony MEB-9
 - **Role:** Scout
@@ -49,6 +51,7 @@
   - Guardian ECM Suite
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/942/ebony-meb-9)
 - **Battle Value:** 1012
+- [*More Info*](ebony/ebony_meb-9.md)
 
 ## Ebony MEB-12
 - **Role:** Scout
@@ -65,6 +68,7 @@
   - Guardian ECM Suite
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6942/ebony-meb-12)
 - **Battle Value:** 1837
+- [*More Info*](ebony/ebony_meb-12.md)
 
 ## Ebony MEB-13
 - **Role:** Scout
@@ -79,4 +83,5 @@
   - Large Re-Engineered Laser
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6943/ebony-meb-13)
 - **Battle Value:** 750
+- [*More Info*](ebony/ebony_meb-13.md)
 

@@ -15,6 +15,7 @@
   - Shoulder Turret
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057/deep-lord-militiamech-rcl-z1m)
 - **Battle Value:** 686
+- [*More Info*](deep_lord/deep_lord_rcl-z1m_militiamech.md)
 
 ## Deep Lord RCL-Z1M-B MilitiaMech
 - **Role:** Brawler
@@ -31,4 +32,5 @@
   - Ejection Seat
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7830/deep-lord-rcl-z1m-b-militiamech)
 - **Battle Value:** 773
+- [*More Info*](deep_lord/deep_lord_rcl-z1m-b_militiamech.md)
 

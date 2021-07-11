@@ -12,6 +12,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1229/goliath-gol-1h)
 - **Battle Value:** 1449
+- [*More Info*](goliath/goliath_gol-1h.md)
 
 ## Goliath GOL-3M
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m)
 - **Battle Value:** 1537
+- [*More Info*](goliath/goliath_gol-3m.md)
 
 ## Goliath GOL-3S
 - **Role:** Missile Boat
@@ -44,6 +46,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1233/goliath-gol-3s)
 - **Battle Value:** 1463
+- [*More Info*](goliath/goliath_gol-3s.md)
 
 ## Goliath GOL-2H
 - **Role:** Sniper
@@ -58,6 +61,7 @@
   - Rocket 10 × 6
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1230/goliath-gol-2h)
 - **Battle Value:** 1583
+- [*More Info*](goliath/goliath_gol-2h.md)
 
 ## Goliath GOL-4S
 - **Role:** Brawler
@@ -74,6 +78,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1234/goliath-gol-4s)
 - **Battle Value:** 1912
+- [*More Info*](goliath/goliath_gol-4s.md)
 
 ## Goliath GOL-5D
 - **Role:** Brawler
@@ -91,6 +96,7 @@
   - Targeting Computer
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1235/goliath-gol-5d)
 - **Battle Value:** 1975
+- [*More Info*](goliath/goliath_gol-5d.md)
 
 ## Goliath GOL-5W
 - **Role:** Brawler
@@ -108,6 +114,7 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1236/goliath-gol-5w)
 - **Battle Value:** 2006
+- [*More Info*](goliath/goliath_gol-5w.md)
 
 ## Goliath GOL-6H
 - **Role:** Sniper
@@ -126,6 +133,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1237/goliath-gol-6h)
 - **Battle Value:** 1653
+- [*More Info*](goliath/goliath_gol-6h.md)
 
 ## Goliath GOL-3L
 - **Role:** Missile Boat
@@ -144,6 +152,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1231/goliath-gol-3l)
 - **Battle Value:** 1708
+- [*More Info*](goliath/goliath_gol-3l.md)
 
 ## Goliath GOL-6M
 - **Role:** Sniper
@@ -163,6 +172,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1238/goliath-gol-6m)
 - **Battle Value:** 1742
+- [*More Info*](goliath/goliath_gol-6m.md)
 
 ## Goliath C
 - **Role:** Sniper
@@ -185,4 +195,5 @@
   - Clan Targeting Computer
 - **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7438/goliath-c)
 - **Battle Value:** 2222
+- [*More Info*](goliath/goliath_c.md)
 

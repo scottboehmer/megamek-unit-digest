@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a)
 - **Battle Value:** 1478
+- [*More Info*](bandersnatch/bandersnatch_bndr-01a.md)
 
 ## Bandersnatch BNDR-01A (Horus)
 - **Role:** Brawler
@@ -30,6 +31,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780/bandersnatch-bndr-01a-horus)
 - **Battle Value:** 1584
+- [*More Info*](bandersnatch/bandersnatch_bndr-01a_horus.md)
 
 ## Bandersnatch BNDR-01B
 - **Role:** Brawler
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/219/bandersnatch-bndr-01b)
 - **Battle Value:** 1630
+- [*More Info*](bandersnatch/bandersnatch_bndr-01b.md)
 
 ## Bandersnatch BNDR-01Ar
 - **Role:** Brawler
@@ -66,4 +69,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/218/bandersnatch-bndr-01ar)
 - **Battle Value:** 1522
+- [*More Info*](bandersnatch/bandersnatch_bndr-01ar.md)
 

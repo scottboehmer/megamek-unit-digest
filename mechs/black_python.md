@@ -17,6 +17,7 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3432/viper-black-python-standard)
 - **Battle Value:** 2813
+- [*More Info*](black_python/black_python_standard.md)
 
 ## Black Python 2 "Viper"
 - **Role:** Skirmisher
@@ -37,6 +38,7 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3433/viper-black-python-2)
 - **Battle Value:** 2520
+- [*More Info*](black_python/black_python_2.md)
 
 ## Black Python 5 "Viper"
 - **Role:** Skirmisher
@@ -54,6 +56,7 @@
   - CASE
 - **Sources:** ilClan Vol 12 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7792/viper-black-python-5)
 - **Battle Value:** 2925
+- [*More Info*](black_python/black_python_5.md)
 
 ## Black Python 3 "Viper"
 - **Role:** Skirmisher
@@ -73,6 +76,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3434/viper-black-python-3)
 - **Battle Value:** 2421
+- [*More Info*](black_python/black_python_3.md)
 
 ## Black Python 4 "Viper"
 - **Role:** Skirmisher
@@ -91,4 +95,5 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3435/viper-black-python-4)
 - **Battle Value:** 2594
+- [*More Info*](black_python/black_python_4.md)
 

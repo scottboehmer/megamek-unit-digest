@@ -10,6 +10,7 @@
   - ER Micro Laser × 6
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/848/dasher-ii-standard)
 - **Battle Value:** 522
+- [*More Info*](dasher_ii/dasher_ii_standard.md)
 
 ## Dasher II 2
 - **Role:** Striker
@@ -24,6 +25,7 @@
   - MASC
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/847/dasher-ii-2)
 - **Battle Value:** 2239
+- [*More Info*](dasher_ii/dasher_ii_2.md)
 
 ## Dasher II 3
 - **Role:** Striker
@@ -37,6 +39,7 @@
   - Inner Sphere Claw × 2
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6920/dasher-ii-3)
 - **Battle Value:** 1496
+- [*More Info*](dasher_ii/dasher_ii_3.md)
 
 ## Dasher II 4
 - **Role:** Striker
@@ -57,4 +60,5 @@
   - Chain Whip
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6919/dasher-ii-4)
 - **Battle Value:** 1749
+- [*More Info*](dasher_ii/dasher_ii_4.md)
 

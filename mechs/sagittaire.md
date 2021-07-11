@@ -16,6 +16,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4967/sagittaire-sgt-8r)
 - **Battle Value:** 2088
+- [*More Info*](sagittaire/sagittaire_sgt-8r.md)
 
 ## Sagittaire SGT-9D
 - **Role:** Juggernaut
@@ -34,6 +35,7 @@
   - C3 Master
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5717/sagittaire-sgt-9d)
 - **Battle Value:** 2064
+- [*More Info*](sagittaire/sagittaire_sgt-9d.md)
 
 ## Sagittaire SGT-10X
 - **Role:** Brawler
@@ -49,6 +51,7 @@
   - Medium VSP Laser × 4
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718/sagittaire-sgt-10x)
 - **Battle Value:** 1794
+- [*More Info*](sagittaire/sagittaire_sgt-10x.md)
 
 ## Sagittaire SGT-14D
 - **Role:** Juggernaut
@@ -69,4 +72,5 @@
   - C3 Boosted Slave
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6835/sagittaire-sgt-14d)
 - **Battle Value:** 1960
+- [*More Info*](sagittaire/sagittaire_sgt-14d.md)
 

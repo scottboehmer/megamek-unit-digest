@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4306/hellion-prime)
 - **Battle Value:** 1873
+- [*More Info*](hellion/hellion_prime.md)
 
 ## Hellion A
 - **Role:** Missile Boat
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4303/hellion-a)
 - **Battle Value:** 1543
+- [*More Info*](hellion/hellion_a.md)
 
 ## Hellion B
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - MASC
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4304/hellion-b)
 - **Battle Value:** 1569
+- [*More Info*](hellion/hellion_b.md)
 
 ## Hellion C
 - **Role:** Striker
@@ -64,6 +67,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4305/hellion-c)
 - **Battle Value:** 2095
+- [*More Info*](hellion/hellion_c.md)
 
 ## Hellion D
 - **Role:** Striker
@@ -81,6 +85,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5657/hellion-d)
 - **Battle Value:** 1761
+- [*More Info*](hellion/hellion_d.md)
 
 ## Hellion E
 - **Role:** Striker
@@ -101,6 +106,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5658/hellion-e)
 - **Battle Value:** 1292
+- [*More Info*](hellion/hellion_e.md)
 
 ## Hellion F
 - **Role:** Striker
@@ -121,6 +127,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5659/hellion-f)
 - **Battle Value:** 1594
+- [*More Info*](hellion/hellion_f.md)
 
 ## Hellion G
 - **Role:** Striker
@@ -138,4 +145,5 @@
   - CASE
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6939/hellion-g)
 - **Battle Value:** 1513
+- [*More Info*](hellion/hellion_g.md)
 

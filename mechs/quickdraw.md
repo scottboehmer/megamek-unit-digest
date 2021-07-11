@@ -13,6 +13,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2610/quickdraw-qkd-4g)
 - **Battle Value:** 1192
+- [*More Info*](quickdraw/quickdraw_qkd-4g.md)
 
 ## Quickdraw QKD-4H
 - **Role:** Skirmisher
@@ -28,6 +29,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2611/quickdraw-qkd-4h)
 - **Battle Value:** 1242
+- [*More Info*](quickdraw/quickdraw_qkd-4h.md)
 
 ## Quickdraw QKD-5A
 - **Role:** Skirmisher
@@ -42,6 +44,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2612/quickdraw-qkd-5a)
 - **Battle Value:** 1196
+- [*More Info*](quickdraw/quickdraw_qkd-5a.md)
 
 ## Quickdraw QKD-5K
 - **Role:** Skirmisher
@@ -56,6 +59,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2613/quickdraw-qkd-5k)
 - **Battle Value:** 1265
+- [*More Info*](quickdraw/quickdraw_qkd-5k.md)
 
 ## Quickdraw QKD-5M
 - **Role:** Skirmisher
@@ -73,6 +77,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2614/quickdraw-qkd-5m)
 - **Battle Value:** 1237
+- [*More Info*](quickdraw/quickdraw_qkd-5m.md)
 
 ## Quickdraw QKD-C
 - **Role:** Skirmisher
@@ -89,6 +94,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2618/quickdraw-qkd-c)
 - **Battle Value:** 1225
+- [*More Info*](quickdraw/quickdraw_qkd-c.md)
 
 ## Quickdraw QKD-5K2
 - **Role:** Skirmisher
@@ -103,6 +109,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4886/quickdraw-qkd-5k2)
 - **Battle Value:** 1312
+- [*More Info*](quickdraw/quickdraw_qkd-5k2.md)
 
 ## Quickdraw QKD-8K
 - **Role:** Skirmisher
@@ -119,6 +126,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2616/quickdraw-qkd-8k)
 - **Battle Value:** 1583
+- [*More Info*](quickdraw/quickdraw_qkd-8k.md)
 
 ## Quickdraw QKD-5Mr
 - **Role:** Missile Boat
@@ -138,6 +146,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2615/quickdraw-qkd-5mr)
 - **Battle Value:** 1465
+- [*More Info*](quickdraw/quickdraw_qkd-5mr.md)
 
 ## Quickdraw QKD-8X
 - **Role:** Sniper
@@ -159,6 +168,7 @@
   - TAG
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2617/quickdraw-qkd-8x)
 - **Battle Value:** 1612
+- [*More Info*](quickdraw/quickdraw_qkd-8x.md)
 
 ## Quickdraw QKD-8P
 - **Role:** Skirmisher
@@ -179,6 +189,7 @@
   - TAG
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887/quickdraw-qkd-8p)
 - **Battle Value:** 1598
+- [*More Info*](quickdraw/quickdraw_qkd-8p.md)
 
 ## Quickdraw QKD-9M
 - **Role:** Skirmisher
@@ -197,4 +208,5 @@
   - TAG
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6887/quickdraw-qkd-9m)
 - **Battle Value:** 1690
+- [*More Info*](quickdraw/quickdraw_qkd-9m.md)
 

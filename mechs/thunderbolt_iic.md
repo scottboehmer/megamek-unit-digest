@@ -14,6 +14,7 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard)
 - **Battle Value:** 2475
+- [*More Info*](thunderbolt_iic/thunderbolt_iic_standard.md)
 
 ## Thunderbolt IIC 2
 - **Role:** Skirmisher
@@ -33,4 +34,5 @@
   - Clan ECM Suite
 - **Source:** Ice Wind Metals - Early Republic
 - **Battle Value:** 2177
+- [*More Info*](thunderbolt_iic/thunderbolt_iic_2.md)
 

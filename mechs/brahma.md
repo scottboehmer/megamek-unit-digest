@@ -18,6 +18,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/426/brahma-brm-5a)
 - **Battle Value:** 1572
+- [*More Info*](brahma/brahma_brm-5a.md)
 
 ## Brahma BRM-5B
 - **Role:** Skirmisher
@@ -37,4 +38,5 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/427/brahma-brm-5b)
 - **Battle Value:** 1730
+- [*More Info*](brahma/brahma_brm-5b.md)
 

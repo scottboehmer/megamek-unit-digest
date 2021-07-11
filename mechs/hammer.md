@@ -11,6 +11,7 @@
   - Medium Laser × 3
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1366/hammer-hmr-3m)
 - **Battle Value:** 787
+- [*More Info*](hammer/hammer_hmr-3m.md)
 
 ## Hammer HMR-3S 'Slammer'
 - **Role:** Striker
@@ -24,6 +25,7 @@
   - Medium Laser
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1368/hammer-hmr-3s-slammer)
 - **Battle Value:** 638
+- [*More Info*](hammer/hammer_hmr-3s_'slammer'.md)
 
 ## Hammer HMR-3C 'Claw-Hammer'
 - **Role:** Striker
@@ -37,6 +39,7 @@
   - Medium Laser × 7
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1365/hammer-hmr-3c-claw-hammer)
 - **Battle Value:** 976
+- [*More Info*](hammer/hammer_hmr-3c_'claw-hammer'.md)
 
 ## Hammer HMR-3P 'Pein-Hammer'
 - **Role:** Brawler
@@ -53,4 +56,5 @@
   - TAG
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1367/hammer-hmr-3p-pein-hammer)
 - **Battle Value:** 827
+- [*More Info*](hammer/hammer_hmr-3p_'pein-hammer'.md)
 

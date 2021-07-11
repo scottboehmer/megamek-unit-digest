@@ -15,4 +15,5 @@
   - Inner Sphere TAG
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7684/redback-standard)
 - **Battle Value:** 2076
+- [*More Info*](redback/redback.md)
 

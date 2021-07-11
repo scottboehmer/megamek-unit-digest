@@ -13,4 +13,5 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1098/firestarter-fs9-m-mirage)
 - **Battle Value:** 798
+- [*More Info*](firestarter/firestarter_fs9-m.md)
 

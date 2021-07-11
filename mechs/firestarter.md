@@ -13,6 +13,7 @@
   - Flamer × 4
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1093/firestarter-fs9-a)
 - **Battle Value:** 773
+- [*More Info*](firestarter/firestarter_fs9-a.md)
 
 ## Firestarter FS9-K
 - **Role:** Scout
@@ -28,6 +29,7 @@
   - Flamer × 2
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1097/firestarter-fs9-k)
 - **Battle Value:** 763
+- [*More Info*](firestarter/firestarter_fs9-k.md)
 
 ## Firestarter FS9-H
 - **Role:** Scout
@@ -43,6 +45,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1096/firestarter-fs9-h)
 - **Battle Value:** 694
+- [*More Info*](firestarter/firestarter_fs9-h.md)
 
 ## Firestarter FS9-M "Mirage"
 - **Role:** Scout
@@ -58,6 +61,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1098/firestarter-fs9-m-mirage)
 - **Battle Value:** 798
+- [*More Info*](firestarter/firestarter_fs9-m.md)
 
 ## Firestarter FS9-S
 - **Role:** Scout
@@ -76,6 +80,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1112/firestarter-fs9-s)
 - **Battle Value:** 754
+- [*More Info*](firestarter/firestarter_fs9-s.md)
 
 ## Firestarter FS9-S1
 - **Role:** Scout
@@ -94,6 +99,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1113/firestarter-fs9-s1)
 - **Battle Value:** 820
+- [*More Info*](firestarter/firestarter_fs9-s1.md)
 
 ## Firestarter FS9-O
 - **Role:** Striker
@@ -110,6 +116,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1099/firestarter-fs9-o)
 - **Battle Value:** 1144
+- [*More Info*](firestarter/firestarter_fs9-o.md)
 
 ## Firestarter FS9-OA
 - **Role:** Striker
@@ -125,6 +132,7 @@
   - Flamer × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1100/firestarter-fs9-oa)
 - **Battle Value:** 976
+- [*More Info*](firestarter/firestarter_fs9-oa.md)
 
 ## Firestarter FS9-OB
 - **Role:** Striker
@@ -144,6 +152,7 @@
   - TAG
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1101/firestarter-fs9-ob)
 - **Battle Value:** 1070
+- [*More Info*](firestarter/firestarter_fs9-ob.md)
 
 ## Firestarter FS9-OC
 - **Role:** Missile Boat
@@ -161,6 +170,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1102/firestarter-fs9-oc)
 - **Battle Value:** 1006
+- [*More Info*](firestarter/firestarter_fs9-oc.md)
 
 ## Firestarter FS9-OD
 - **Role:** Sniper
@@ -180,6 +190,7 @@
   - C3 Slave
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1103/firestarter-fs9-od)
 - **Battle Value:** 1322
+- [*More Info*](firestarter/firestarter_fs9-od.md)
 
 ## Firestarter FS9-OE
 - **Role:** Striker
@@ -197,6 +208,7 @@
   - Flamer × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1104/firestarter-fs9-oe)
 - **Battle Value:** 998
+- [*More Info*](firestarter/firestarter_fs9-oe.md)
 
 ## Firestarter FS9-OR
 - **Role:** Sniper
@@ -212,6 +224,7 @@
   - Flamer × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1108/firestarter-fs9-or)
 - **Battle Value:** 1713
+- [*More Info*](firestarter/firestarter_fs9-or.md)
 
 ## Firestarter FS9-OX
 - **Role:** Striker
@@ -230,6 +243,7 @@
   - Bloodhound Active Probe
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1110/firestarter-fs9-ox)
 - **Battle Value:** 1190
+- [*More Info*](firestarter/firestarter_fs9-ox.md)
 
 ## Firestarter FS9-OF
 - **Role:** Sniper
@@ -246,6 +260,7 @@
   - Flamer × 2
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1105/firestarter-fs9-of)
 - **Battle Value:** 1446
+- [*More Info*](firestarter/firestarter_fs9-of.md)
 
 ## Firestarter FS9-OG
 - **Role:** Striker
@@ -263,6 +278,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1106/firestarter-fs9-og)
 - **Battle Value:** 1063
+- [*More Info*](firestarter/firestarter_fs9-og.md)
 
 ## Firestarter FS9-C
 - **Role:** Striker
@@ -279,6 +295,7 @@
   - Flamer × 2
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1111/firestarter-fs9-c)
 - **Battle Value:** 940
+- [*More Info*](firestarter/firestarter_fs9-c.md)
 
 ## Firestarter FS9-P
 - **Role:** Striker
@@ -295,6 +312,7 @@
   - Flamer × 4
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1095/firestarter-fs9-p)
 - **Battle Value:** 775
+- [*More Info*](firestarter/firestarter_fs9-p.md)
 
 ## Firestarter FS9-OH
 - **Role:** Striker
@@ -317,6 +335,7 @@
   - CASE
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1107/firestarter-fs9-oh)
 - **Battle Value:** 1119
+- [*More Info*](firestarter/firestarter_fs9-oh.md)
 
 ## Firestarter FS9-B
 - **Role:** Scout
@@ -333,6 +352,7 @@
   - C3i
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1094/firestarter-fs9-b)
 - **Battle Value:** 668
+- [*More Info*](firestarter/firestarter_fs9-b.md)
 
 ## Firestarter FS9-X81
 - **Role:** Striker
@@ -348,6 +368,7 @@
   - Flamer × 3
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1092/firestarter-fs9-81x)
 - **Battle Value:** 1065
+- [*More Info*](firestarter/firestarter_fs9-x81.md)
 
 ## Firestarter FS9-S2
 - **Role:** Scout
@@ -366,6 +387,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5441/firestarter-fs9-s2)
 - **Battle Value:** 842
+- [*More Info*](firestarter/firestarter_fs9-s2.md)
 
 ## Firestarter FS9-S3
 - **Role:** Scout
@@ -384,6 +406,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5442/firestarter-fs9-s3)
 - **Battle Value:** 908
+- [*More Info*](firestarter/firestarter_fs9-s3.md)
 
 ## Firestarter FS9-OU
 - **Role:** Striker
@@ -401,6 +424,7 @@
   - Liquid Cargo
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1109/firestarter-fs9-ou)
 - **Battle Value:** 1120
+- [*More Info*](firestarter/firestarter_fs9-ou.md)
 
 ## Firestarter FS9-M2
 - **Role:** Scout
@@ -415,6 +439,7 @@
   - Flamer × 6
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6609/firestarter-fs9-m2)
 - **Battle Value:** 751
+- [*More Info*](firestarter/firestarter_fs9-m2.md)
 
 ## Firestarter FS9-M3
 - **Role:** Scout
@@ -433,6 +458,7 @@
   - MASC
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6610/firestarter-fs9-m3)
 - **Battle Value:** 866
+- [*More Info*](firestarter/firestarter_fs9-m3.md)
 
 ## Firestarter FS9-M4
 - **Role:** Scout
@@ -447,4 +473,5 @@
   - Flamer × 3
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6611/firestarter-fs9-m4)
 - **Battle Value:** 798
+- [*More Info*](firestarter/firestarter_fs9-m4.md)
 

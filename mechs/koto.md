@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1840/koto-kt-p2)
 - **Battle Value:** 631
+- [*More Info*](koto/koto_kt-p2.md)
 
 ## Koto KTO-2A
 - **Role:** Striker
@@ -28,6 +29,7 @@
   - ER Small Laser
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1837/koto-kto-2a)
 - **Battle Value:** 977
+- [*More Info*](koto/koto_kto-2a.md)
 
 ## Koto KTO-3A
 - **Role:** Striker
@@ -42,6 +44,7 @@
   - Small Laser
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1838/koto-kto-3a)
 - **Battle Value:** 806
+- [*More Info*](koto/koto_kto-3a.md)
 
 ## Koto KTO-4A
 - **Role:** Striker
@@ -56,4 +59,5 @@
   - ER Small Laser
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1839/koto-kto-4a)
 - **Battle Value:** 1073
+- [*More Info*](koto/koto_kto-4a.md)
 

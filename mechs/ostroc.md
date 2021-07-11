@@ -12,6 +12,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2348/ostroc-osr-2c)
 - **Battle Value:** 1228
+- [*More Info*](ostroc/ostroc_osr-2c.md)
 
 ## Ostroc OSR-2Cb
 - **Role:** Skirmisher
@@ -26,6 +27,7 @@
   - Streak SRM 2 × 2 (ammo: 50)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2350/ostroc-osr-2cb)
 - **Battle Value:** 1478
+- [*More Info*](ostroc/ostroc_osr-2cb.md)
 
 ## Ostroc OSR-2M
 - **Role:** Skirmisher
@@ -39,6 +41,7 @@
   - Large Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2353/ostroc-osr-2m)
 - **Battle Value:** 1239
+- [*More Info*](ostroc/ostroc_osr-2m.md)
 
 ## Ostroc OSR-3C
 - **Role:** Skirmisher
@@ -51,6 +54,7 @@
   - Large Laser × 3
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2354/ostroc-osr-3c)
 - **Battle Value:** 1288
+- [*More Info*](ostroc/ostroc_osr-3c.md)
 
 ## Ostroc OSR-2L
 - **Role:** Skirmisher
@@ -65,6 +69,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2352/ostroc-osr-2l)
 - **Battle Value:** 1233
+- [*More Info*](ostroc/ostroc_osr-2l.md)
 
 ## Ostroc OSR-2C (Michi)
 - **Role:** Skirmisher
@@ -80,6 +85,7 @@
   - Medium Laser × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349/ostroc-osr-2c-michi)
 - **Battle Value:** 1321
+- [*More Info*](ostroc/ostroc_osr-2c_michi.md)
 
 ## Ostroc OSR-2D
 - **Role:** Skirmisher
@@ -94,6 +100,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2351/ostroc-osr-2d)
 - **Battle Value:** 1396
+- [*More Info*](ostroc/ostroc_osr-2d.md)
 
 ## Ostroc OSR-4C
 - **Role:** Skirmisher
@@ -109,6 +116,7 @@
   - Rocket 10 × 2
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c)
 - **Battle Value:** 1325
+- [*More Info*](ostroc/ostroc_osr-4c.md)
 
 ## Ostroc OSR-4L
 - **Role:** Sniper
@@ -125,6 +133,7 @@
   - Guardian ECM Suite
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2357/ostroc-osr-4l)
 - **Battle Value:** 1778
+- [*More Info*](ostroc/ostroc_osr-4l.md)
 
 ## Ostroc OSR-5W
 - **Role:** Skirmisher
@@ -143,6 +152,7 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2359/ostroc-osr-5w)
 - **Battle Value:** 1655
+- [*More Info*](ostroc/ostroc_osr-5w.md)
 
 ## Ostroc OSR-4K
 - **Role:** Skirmisher
@@ -158,6 +168,7 @@
   - ER Medium Laser × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2356/ostroc-osr-4k)
 - **Battle Value:** 1490
+- [*More Info*](ostroc/ostroc_osr-4k.md)
 
 ## Ostroc OSR-5C
 - **Role:** Skirmisher
@@ -174,4 +185,5 @@
   - Medium Pulse Laser
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c)
 - **Battle Value:** 1788
+- [*More Info*](ostroc/ostroc_osr-5c.md)
 

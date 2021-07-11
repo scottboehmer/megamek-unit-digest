@@ -12,4 +12,5 @@
   - LRM 5 × 2 (ammo: 24)
 - **Sources:** Hist:Reunification, [Master Unit List](http://masterunitlist.info/Unit/Details/5175/talos-tls-1b)
 - **Battle Value:** 924
+- [*More Info*](talos/talos_tls-1b.md)
 

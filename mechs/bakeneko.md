@@ -16,4 +16,5 @@
   - Clan MASC
 - **Sources:** Hist : WOTRA, [Master Unit List](http://masterunitlist.info/Unit/Details/6975/bakeneko-bkn-1k)
 - **Battle Value:** 1976
+- [*More Info*](bakeneko/bakeneko_bkn-1k.md)
 

@@ -14,6 +14,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1779
+- [*More Info*](bull_shark/bull_shark_bsk-m3.md)
 
 ## Bull Shark BSK-MAZ
 - **Role:** Undefined
@@ -30,4 +31,5 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 2179
+- [*More Info*](bull_shark/bull_shark_bsk-maz.md)
 

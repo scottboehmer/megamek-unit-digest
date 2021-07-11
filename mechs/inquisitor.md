@@ -16,6 +16,7 @@
   - Ejection Seat
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4364/inquisitor-itw-80-securitymech)
 - **Battle Value:** 613
+- [*More Info*](inquisitor/inquisitor_itw-80_securitymech.md)
 
 ## Inquisitor ITW-85 SecurityMech
 - **Role:** Scout
@@ -35,4 +36,5 @@
   - Ejection Seat
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7825/inquisitor-itw-85-securitymech)
 - **Battle Value:** 664
+- [*More Info*](inquisitor/inquisitor_itw-85_securitymech.md)
 

@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04)
 - **Battle Value:** 1069
+- [*More Info*](sentry/sentry_snt-04.md)
 
 ## Sentry SNT-W5
 - **Role:** Skirmisher
@@ -34,4 +35,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2867/sentry-snt-w5)
 - **Battle Value:** 1143
+- [*More Info*](sentry/sentry_snt-w5.md)
 

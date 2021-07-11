@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/406/blood-asp-prime)
 - **Battle Value:** 2654
+- [*More Info*](blood_asp/blood_asp_prime.md)
 
 ## Blood Asp A
 - **Role:** Brawler
@@ -32,6 +33,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/399/blood-asp-a)
 - **Battle Value:** 3452
+- [*More Info*](blood_asp/blood_asp_a.md)
 
 ## Blood Asp B
 - **Role:** Missile Boat
@@ -49,6 +51,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/400/blood-asp-b)
 - **Battle Value:** 2885
+- [*More Info*](blood_asp/blood_asp_b.md)
 
 ## Blood Asp C
 - **Role:** Brawler
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/401/blood-asp-c)
 - **Battle Value:** 2270
+- [*More Info*](blood_asp/blood_asp_c.md)
 
 ## Blood Asp D
 - **Role:** Brawler
@@ -82,6 +86,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/402/blood-asp-d)
 - **Battle Value:** 2396
+- [*More Info*](blood_asp/blood_asp_d.md)
 
 ## Blood Asp E
 - **Role:** Skirmisher
@@ -100,6 +105,7 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/403/blood-asp-e)
 - **Battle Value:** 3179
+- [*More Info*](blood_asp/blood_asp_e.md)
 
 ## Blood Asp F
 - **Role:** Brawler
@@ -118,6 +124,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/404/blood-asp-f)
 - **Battle Value:** 2908
+- [*More Info*](blood_asp/blood_asp_f.md)
 
 ## Blood Asp G
 - **Role:** Brawler
@@ -136,4 +143,5 @@
   - Targeting Computer
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/405/blood-asp-g)
 - **Battle Value:** 3270
+- [*More Info*](blood_asp/blood_asp_g.md)
 

@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1805/kodiak-standard)
 - **Battle Value:** 2927
+- [*More Info*](kodiak/kodiak_standard.md)
 
 ## Kodiak 5
 - **Role:** Brawler
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1809/kodiak-5)
 - **Battle Value:** 3067
+- [*More Info*](kodiak/kodiak_5.md)
 
 ## Kodiak 2
 - **Role:** Brawler
@@ -49,6 +51,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1806/kodiak-2)
 - **Battle Value:** 2856
+- [*More Info*](kodiak/kodiak_2.md)
 
 ## Kodiak 4
 - **Role:** Missile Boat
@@ -65,6 +68,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1808/kodiak-4)
 - **Battle Value:** 2728
+- [*More Info*](kodiak/kodiak_4.md)
 
 ## Kodiak (Cale)
 - **Role:** Juggernaut
@@ -86,6 +90,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1804/kodiak-cale)
 - **Battle Value:** 2535
+- [*More Info*](kodiak/kodiak_cale.md)
 
 ## Kodiak 3
 - **Role:** Brawler
@@ -102,4 +107,5 @@
   - CASE
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1807/kodiak-3)
 - **Battle Value:** 2615
+- [*More Info*](kodiak/kodiak_3.md)
 

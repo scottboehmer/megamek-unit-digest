@@ -13,6 +13,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2758/ryoken-ii-standard)
 - **Battle Value:** 1801
+- [*More Info*](ryoken_ii/ryoken_ii_standard.md)
 
 ## Ryoken II 2
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2759/ryoken-ii-2)
 - **Battle Value:** 2141
+- [*More Info*](ryoken_ii/ryoken_ii_2.md)
 
 ## Ryoken II 3
 - **Role:** Sniper
@@ -43,6 +45,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2760/ryoken-ii-3)
 - **Battle Value:** 2336
+- [*More Info*](ryoken_ii/ryoken_ii_3.md)
 
 ## Ryoken II (Tassa)
 - **Role:** Undefined
@@ -60,4 +63,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8219/ryoken-ii-tassa)
 - **Battle Value:** 3103
+- [*More Info*](ryoken_ii/ryoken_ii_tassa.md)
 

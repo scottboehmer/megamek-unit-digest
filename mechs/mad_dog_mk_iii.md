@@ -13,6 +13,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6271/vulture-mk-iii-mad-dog-mk-iii-prime)
 - **Battle Value:** 2729
+- [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_prime.md)
 
 ## Mad Dog Mk III "Vulture Mk III" A
 - **Role:** Skirmisher
@@ -29,6 +30,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6272/vulture-mk-iii-mad-dog-mk-iii-a)
 - **Battle Value:** 1880
+- [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_a.md)
 
 ## Mad Dog Mk III "Vulture Mk III" B
 - **Role:** Missile Boat
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6273/vulture-mk-iii-mad-dog-mk-iii-b)
 - **Battle Value:** 2572
+- [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_b.md)
 
 ## Mad Dog Mk III "Vulture Mk III" BLO
 - **Role:** Undefined
@@ -64,6 +67,7 @@
   - Inner Sphere C3i
 - **Sources:** SO: Unending Faith - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7633/vulture-mk-iii-mad-dog-mk-iii-blo)
 - **Battle Value:** 2397
+- [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_blo.md)
 
 ## Mad Dog Mk III "Vulture Mk III" C
 - **Role:** Skirmisher
@@ -79,6 +83,7 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6274/vulture-mk-iii-mad-dog-mk-iii-c)
 - **Battle Value:** 2299
+- [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_c.md)
 
 ## Mad Dog Mk III "Vulture Mk III" D
 - **Role:** Skirmisher
@@ -94,4 +99,5 @@
   - CASE
 - **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6275/vulture-mk-iii-mad-dog-mk-iii-d)
 - **Battle Value:** 2421
+- [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_d.md)
 

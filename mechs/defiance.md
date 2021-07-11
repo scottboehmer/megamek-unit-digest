@@ -17,6 +17,7 @@
   - Machine Gun (ammo: 100)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/849/defiance-dfn-3c)
 - **Battle Value:** 1817
+- [*More Info*](defiance/defiance_dfn-3c.md)
 
 ## Defiance DFN-3S
 - **Role:** Brawler
@@ -35,6 +36,7 @@
   - Machine Gun (ammo: 100)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/850/defiance-dfn-3s)
 - **Battle Value:** 1940
+- [*More Info*](defiance/defiance_dfn-3s.md)
 
 ## Defiance DFN-3T
 - **Role:** Brawler
@@ -53,4 +55,5 @@
   - Machine Gun (ammo: 100)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/851/defiance-dfn-3t)
 - **Battle Value:** 1981
+- [*More Info*](defiance/defiance_dfn-3t.md)
 

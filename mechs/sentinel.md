@@ -12,6 +12,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2856/sentinel-stn-1s)
 - **Battle Value:** 632
+- [*More Info*](sentinel/sentinel_stn-1s.md)
 
 ## Sentinel STN-3L
 - **Role:** Striker
@@ -26,6 +27,7 @@
   - Small Laser
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l)
 - **Battle Value:** 717
+- [*More Info*](sentinel/sentinel_stn-3l.md)
 
 ## Sentinel STN-3Lb
 - **Role:** Sniper
@@ -40,6 +42,7 @@
   - Small Laser
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2861/sentinel-stn-3lb)
 - **Battle Value:** 1260
+- [*More Info*](sentinel/sentinel_stn-3lb.md)
 
 ## Sentinel STN-3K
 - **Role:** Scout
@@ -54,6 +57,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2857/sentinel-stn-3k)
 - **Battle Value:** 652
+- [*More Info*](sentinel/sentinel_stn-3k.md)
 
 ## Sentinel STN-3KA
 - **Role:** Scout
@@ -68,6 +72,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2858/sentinel-stn-3ka)
 - **Battle Value:** 847
+- [*More Info*](sentinel/sentinel_stn-3ka.md)
 
 ## Sentinel STN-3KB
 - **Role:** Striker
@@ -82,6 +87,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2859/sentinel-stn-3kb)
 - **Battle Value:** 823
+- [*More Info*](sentinel/sentinel_stn-3kb.md)
 
 ## Sentinel STN-3M
 - **Role:** Striker
@@ -96,6 +102,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2862/sentinel-stn-3m)
 - **Battle Value:** 758
+- [*More Info*](sentinel/sentinel_stn-3m.md)
 
 ## Sentinel STN-4D
 - **Role:** Striker
@@ -111,6 +118,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2863/sentinel-stn-4d)
 - **Battle Value:** 1179
+- [*More Info*](sentinel/sentinel_stn-4d.md)
 
 ## Sentinel STN-C
 - **Role:** Sniper
@@ -126,6 +134,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c)
 - **Battle Value:** 689
+- [*More Info*](sentinel/sentinel_stn-c.md)
 
 ## Sentinel STN-5WB
 - **Role:** Striker
@@ -141,6 +150,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2864/sentinel-stn-5wb)
 - **Battle Value:** 999
+- [*More Info*](sentinel/sentinel_stn-5wb.md)
 
 ## Sentinel STN-6S
 - **Role:** Sniper
@@ -158,4 +168,5 @@
   - CASE II
 - **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s)
 - **Battle Value:** 1089
+- [*More Info*](sentinel/sentinel_stn-6s.md)
 

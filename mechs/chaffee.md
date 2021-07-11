@@ -14,4 +14,5 @@
   - Searchlight
 - **Sources:** TRO VA - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7151/chaffee-bt1-servicemech)
 - **Battle Value:** 210
+- [*More Info*](chaffee/chaffee_bt1_servicemech.md)
 

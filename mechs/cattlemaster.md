@@ -14,6 +14,7 @@
   - Cargo
 - **Sources:** RS:VA IM Exo - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/3905/cattlemaster-ctl-3r-herder-industrialmech)
 - **Battle Value:** 226
+- [*More Info*](cattlemaster/cattlemaster_ctl-3r_'herder'_industrialmech.md)
 
 ## CattleMaster CTL-3R2 'Hunter' IndustrialMech
 - **Role:** Ambusher
@@ -29,6 +30,7 @@
   - Searchlight
 - **Sources:** RS:VA IM Exo - Late Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/3906/cattlemaster-ctl-3r2-hunter-industrialmech)
 - **Battle Value:** 245
+- [*More Info*](cattlemaster/cattlemaster_ctl-3r2_'hunter'_industrialmech.md)
 
 ## CattleMaster CTL-3R3 SecurityMech
 - **Role:** Striker
@@ -43,4 +45,5 @@
   - Machine Gun × 2 (ammo: 100)
 - **Sources:** RS:VA IM Exo - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7158/cattlemaster-ctl-3r3-securitymech)
 - **Battle Value:** 358
+- [*More Info*](cattlemaster/cattlemaster_ctl-3r3_securitymech.md)
 

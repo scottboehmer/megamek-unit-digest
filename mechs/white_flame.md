@@ -16,6 +16,7 @@
   - C3i
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b)
 - **Battle Value:** 1637
+- [*More Info*](white_flame/white_flame_whf-3b.md)
 
 ## White Flame WHF-3C
 - **Role:** Skirmisher
@@ -34,6 +35,7 @@
   - C3i
 - **Sources:** RS:3067U, [Master Unit List](http://masterunitlist.info/Unit/Details/5405/white-flame-whf-3c)
 - **Battle Value:** 1826
+- [*More Info*](white_flame/white_flame_whf-3c.md)
 
 ## White Flame WHF-4C
 - **Role:** Skirmisher
@@ -53,4 +55,5 @@
   - TAG
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5693/white-flame-whf-4c)
 - **Battle Value:** 1680
+- [*More Info*](white_flame/white_flame_whf-4c.md)
 

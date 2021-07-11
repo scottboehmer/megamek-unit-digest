@@ -13,6 +13,7 @@
   - Supercharger
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2555/porcupine-prc-1n)
 - **Battle Value:** 870
+- [*More Info*](porcupine/porcupine_prc-1n.md)
 
 ## Porcupine PRC-2N
 - **Role:** Striker
@@ -29,6 +30,7 @@
   - ER Small Laser
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2556/porcupine-prc-2n)
 - **Battle Value:** 901
+- [*More Info*](porcupine/porcupine_prc-2n.md)
 
 ## Porcupine PRC-3N
 - **Role:** Undefined
@@ -45,4 +47,5 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8102/porcupine-prc-3n)
 - **Battle Value:** 511
+- [*More Info*](porcupine/porcupine_prc-3n.md)
 

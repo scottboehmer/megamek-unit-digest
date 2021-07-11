@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3050 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1338/guillotine-glt-3n)
 - **Battle Value:** 1418
+- [*More Info*](guillotine/guillotine_glt-3n.md)
 
 ## Guillotine GLT-4L
 - **Role:** Skirmisher
@@ -30,6 +31,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1339/guillotine-glt-4l)
 - **Battle Value:** 1400
+- [*More Info*](guillotine/guillotine_glt-4l.md)
 
 ## Guillotine GLT-4P
 - **Role:** Skirmisher
@@ -45,6 +47,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1340/guillotine-glt-4p)
 - **Battle Value:** 1376
+- [*More Info*](guillotine/guillotine_glt-4p.md)
 
 ## Guillotine GLT-5M
 - **Role:** Skirmisher
@@ -62,6 +65,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1341/guillotine-glt-5m)
 - **Battle Value:** 1472
+- [*More Info*](guillotine/guillotine_glt-5m.md)
 
 ## Guillotine GLT-8D
 - **Role:** Skirmisher
@@ -80,6 +84,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1344/guillotine-glt-8d)
 - **Battle Value:** 1891
+- [*More Info*](guillotine/guillotine_glt-8d.md)
 
 ## Guillotine GLT-6WB
 - **Role:** Brawler
@@ -99,6 +104,7 @@
   - C3i
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1342/guillotine-glt-6wb)
 - **Battle Value:** 1672
+- [*More Info*](guillotine/guillotine_glt-6wb.md)
 
 ## Guillotine GLT-6WB2
 - **Role:** Sniper
@@ -118,6 +124,7 @@
   - C3i
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1343/guillotine-glt-6wb2)
 - **Battle Value:** 1635
+- [*More Info*](guillotine/guillotine_glt-6wb2.md)
 
 ## Guillotine GLT-6WB3
 - **Role:** Brawler
@@ -138,4 +145,5 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5492/guillotine-glt-6wb3)
 - **Battle Value:** 1741
+- [*More Info*](guillotine/guillotine_glt-6wb3.md)
 

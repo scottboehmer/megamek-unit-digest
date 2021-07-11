@@ -15,6 +15,7 @@
   - AES × 2
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6678/doloire-dlr-o)
 - **Battle Value:** 2561
+- [*More Info*](doloire/doloire_dlr-o.md)
 
 ## Doloire DLR-OA
 - **Role:** Juggernaut
@@ -33,6 +34,7 @@
   - CASE II
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6679/doloire-dlr-oa)
 - **Battle Value:** 2218
+- [*More Info*](doloire/doloire_dlr-oa.md)
 
 ## Doloire DLR-OB
 - **Role:** Brawler
@@ -50,6 +52,7 @@
   - CASE II
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6680/doloire-dlr-ob)
 - **Battle Value:** 2836
+- [*More Info*](doloire/doloire_dlr-ob.md)
 
 ## Doloire DLR-OC
 - **Role:** Juggernaut
@@ -70,6 +73,7 @@
   - CASE II
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6681/doloire-dlr-oc)
 - **Battle Value:** 2242
+- [*More Info*](doloire/doloire_dlr-oc.md)
 
 ## Doloire DLR-OD
 - **Role:** Skirmisher
@@ -90,6 +94,7 @@
   - CASE II
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6682/doloire-dlr-od)
 - **Battle Value:** 3071
+- [*More Info*](doloire/doloire_dlr-od.md)
 
 ## Doloire DLR-OBLO
 - **Role:** Undefined
@@ -108,4 +113,5 @@
   - Clan Light TAG
 - **Sources:** SO: Unending Faith - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7636/doloire-dlr-oblo)
 - **Battle Value:** 2441
+- [*More Info*](doloire/doloire_dlr-oblo.md)
 

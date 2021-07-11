@@ -13,6 +13,7 @@
   - EW Equipment
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2662/raven-rvn-1x)
 - **Battle Value:** 639
+- [*More Info*](raven/raven_rvn-1x.md)
 
 ## Raven RVN-3X
 - **Role:** Scout
@@ -29,6 +30,7 @@
   - EW Equipment
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2665/raven-rvn-3x)
 - **Battle Value:** 691
+- [*More Info*](raven/raven_rvn-3x.md)
 
 ## Raven RVN-2X
 - **Role:** Striker
@@ -43,6 +45,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2663/raven-rvn-2x)
 - **Battle Value:** 887
+- [*More Info*](raven/raven_rvn-2x.md)
 
 ## Raven RVN-4X
 - **Role:** Striker
@@ -58,6 +61,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2669/raven-rvn-4x)
 - **Battle Value:** 820
+- [*More Info*](raven/raven_rvn-4x.md)
 
 ## Raven RVN-3L
 - **Role:** Striker
@@ -77,6 +81,7 @@
   - TAG
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2664/raven-rvn-3l)
 - **Battle Value:** 708
+- [*More Info*](raven/raven_rvn-3l.md)
 
 ## Raven RVN-3M
 - **Role:** Missile Boat
@@ -94,6 +99,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5444/raven-rvn-3m)
 - **Battle Value:** 659
+- [*More Info*](raven/raven_rvn-3m.md)
 
 ## Raven RVN-4LC
 - **Role:** Striker
@@ -113,6 +119,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2667/raven-rvn-4lc)
 - **Battle Value:** 871
+- [*More Info*](raven/raven_rvn-4lc.md)
 
 ## Raven RVN-4L
 - **Role:** Scout
@@ -131,6 +138,7 @@
   - TAG
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2666/raven-rvn-4l)
 - **Battle Value:** 873
+- [*More Info*](raven/raven_rvn-4l.md)
 
 ## Raven RVN-SR 'Shattered Raven'
 - **Role:** Scout
@@ -150,6 +158,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2670/raven-rvn-sr-shattered-raven)
 - **Battle Value:** 581
+- [*More Info*](raven/raven_rvn-sr_'shattered_raven'.md)
 
 ## Raven RVN-SS 'Shattered Raven'
 - **Role:** Striker
@@ -169,6 +178,7 @@
   - TAG
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2671/raven-rvn-ss-shattered-raven)
 - **Battle Value:** 904
+- [*More Info*](raven/raven_rvn-ss_'shattered_raven'.md)
 
 ## Raven RVN-4Lr
 - **Role:** Missile Boat
@@ -187,6 +197,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2668/raven-rvn-4lr)
 - **Battle Value:** 923
+- [*More Info*](raven/raven_rvn-4lr.md)
 
 ## Raven RVN-5L
 - **Role:** Scout
@@ -205,4 +216,5 @@
   - TAG
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l)
 - **Battle Value:** 1035
+- [*More Info*](raven/raven_rvn-5l.md)
 

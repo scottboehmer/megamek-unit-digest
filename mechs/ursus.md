@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3363/ursus-standard)
 - **Battle Value:** 1778
+- [*More Info*](ursus/ursus_standard.md)
 
 ## Ursus 2
 - **Role:** Striker
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3364/ursus-2)
 - **Battle Value:** 2054
+- [*More Info*](ursus/ursus_2.md)
 
 ## Ursus PR
 - **Role:** Brawler
@@ -53,6 +55,7 @@
   - Inner Sphere C3i
 - **Sources:** XTRO Clans - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr)
 - **Battle Value:** 1194
+- [*More Info*](ursus/ursus_pr.md)
 
 ## Ursus 3
 - **Role:** Juggernaut
@@ -71,4 +74,5 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329/ursus-3)
 - **Battle Value:** 1284
+- [*More Info*](ursus/ursus_3.md)
 

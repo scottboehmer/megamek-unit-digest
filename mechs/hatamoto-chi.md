@@ -11,6 +11,7 @@
   - SRM 6 × 2 (ammo: 15)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1397/hatamoto-chi-htm-26t)
 - **Battle Value:** 1536
+- [*More Info*](hatamoto-chi/hatamoto-chi_htm-26t.md)
 
 ## Hatamoto-Chi HTM-27T (Daniel)
 - **Role:** Sniper
@@ -26,6 +27,7 @@
   - CASE
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1400/hatamoto-chi-htm-27t-daniel)
 - **Battle Value:** 1435
+- [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t_daniel.md)
 
 ## Hatamoto-Chi HTM-27T
 - **Role:** Brawler
@@ -41,6 +43,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1398/hatamoto-chi-htm-27t)
 - **Battle Value:** 1607
+- [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t.md)
 
 ## Hatamoto-Chi HTM-27T (Daniel II)
 - **Role:** Juggernaut
@@ -57,6 +60,7 @@
   - C3 Master
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii)
 - **Battle Value:** 1661
+- [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t_daniel_ii.md)
 
 ## Hatamoto-Chi HTM-28T
 - **Role:** Sniper
@@ -75,6 +79,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1401/hatamoto-chi-htm-28t)
 - **Battle Value:** 2039
+- [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t.md)
 
 ## Hatamoto-Chi HTM-28T (Shin)
 - **Role:** Brawler
@@ -94,6 +99,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5457/hatamoto-chi-htm-28t-shin)
 - **Battle Value:** 2213
+- [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t_shin.md)
 
 ## Hatamoto-Chi HTM-28Tr
 - **Role:** Juggernaut
@@ -114,4 +120,5 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1402/hatamoto-chi-htm-28tr)
 - **Battle Value:** 2034
+- [*More Info*](hatamoto-chi/hatamoto-chi_htm-28tr.md)
 

@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6408/wendigo-vp-prime)
 - **Battle Value:** 2360
+- [*More Info*](wendigo-vp/wendigo-vp_prime.md)
 
 ## Wendigo-VP A
 - **Role:** Skirmisher
@@ -35,4 +36,5 @@
   - Targeting Computer
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6409/wendigo-vp-a)
 - **Battle Value:** 2414
+- [*More Info*](wendigo-vp/wendigo-vp_a.md)
 

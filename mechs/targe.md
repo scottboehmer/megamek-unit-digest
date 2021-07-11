@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/3164/targe-trg-1n)
 - **Battle Value:** 813
+- [*More Info*](targe/targe_trg-1n.md)
 
 ## Targe TRG-2N
 - **Role:** Striker
@@ -32,6 +33,7 @@
   - MASC
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3165/targe-trg-2n)
 - **Battle Value:** 1042
+- [*More Info*](targe/targe_trg-2n.md)
 
 ## Targe TRG-3M
 - **Role:** Striker
@@ -49,4 +51,5 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6915/targe-trg-3m)
 - **Battle Value:** 1233
+- [*More Info*](targe/targe_trg-3m.md)
 

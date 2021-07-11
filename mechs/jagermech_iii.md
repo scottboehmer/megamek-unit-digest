@@ -12,6 +12,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1672/jagermech-iii-jm6-d3)
 - **Battle Value:** 1537
+- [*More Info*](jagermech_iii/jagermech_iii_jm6-d3.md)
 
 ## JagerMech III JM6-D4
 - **Role:** Skirmisher
@@ -26,4 +27,5 @@
   - Medium Laser × 4
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1673/jagermech-iii-jm6-d4)
 - **Battle Value:** 1831
+- [*More Info*](jagermech_iii/jagermech_iii_jm6-d4.md)
 

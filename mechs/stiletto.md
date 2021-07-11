@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5131/stiletto-sto-4a)
 - **Battle Value:** 859
+- [*More Info*](stiletto/stiletto_sto-4a.md)
 
 ## Stiletto STO-4B
 - **Role:** Striker
@@ -30,6 +31,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5132/stiletto-sto-4b)
 - **Battle Value:** 1164
+- [*More Info*](stiletto/stiletto_sto-4b.md)
 
 ## Stiletto STO-4C
 - **Role:** Striker
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5666/stiletto-sto-4c)
 - **Battle Value:** 941
+- [*More Info*](stiletto/stiletto_sto-4c.md)
 
 ## Stiletto STO-6X
 - **Role:** Striker
@@ -61,6 +64,7 @@
   - Supercharger
 - **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5134/stiletto-sto-6x)
 - **Battle Value:** 1192
+- [*More Info*](stiletto/stiletto_sto-6x.md)
 
 ## Stiletto STO-6S
 - **Role:** Striker
@@ -77,4 +81,5 @@
   - Shoulder Turret × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5133/stiletto-sto-6s)
 - **Battle Value:** 1171
+- [*More Info*](stiletto/stiletto_sto-6s.md)
 

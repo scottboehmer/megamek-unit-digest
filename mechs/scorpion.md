@@ -11,6 +11,7 @@
   - SRM 6 (ammo: 15)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2837/scorpion-scp-1n)
 - **Battle Value:** 1019
+- [*More Info*](scorpion/scorpion_scp-1n.md)
 
 ## Scorpion SCP-1N (Wendall)
 - **Role:** Skirmisher
@@ -24,6 +25,7 @@
   - SRM 6 (ammo: 15)
 - **Sources:** TRO 3039, [Master Unit List](http://masterunitlist.info/Unit/Details/2838/scorpion-scp-1n-wendall)
 - **Battle Value:** 1043
+- [*More Info*](scorpion/scorpion_scp-1n_wendall.md)
 
 ## Scorpion SCP-1O
 - **Role:** Brawler
@@ -37,6 +39,7 @@
   - SRM 6 (ammo: 15)
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o)
 - **Battle Value:** 1098
+- [*More Info*](scorpion/scorpion_scp-1o.md)
 
 ## Scorpion SCP-12S
 - **Role:** Skirmisher
@@ -52,6 +55,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2836/scorpion-scp-12s)
 - **Battle Value:** 1109
+- [*More Info*](scorpion/scorpion_scp-12s.md)
 
 ## Scorpion SCP-12C
 - **Role:** Skirmisher
@@ -68,6 +72,7 @@
   - C3i
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2834/scorpion-scp-12c)
 - **Battle Value:** 1259
+- [*More Info*](scorpion/scorpion_scp-12c.md)
 
 ## Scorpion SCP-12K
 - **Role:** Missile Boat
@@ -84,6 +89,7 @@
   - C3 Master
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k)
 - **Battle Value:** 1260
+- [*More Info*](scorpion/scorpion_scp-12k.md)
 
 ## Scorpion SCP-1TB
 - **Role:** Missile Boat
@@ -99,6 +105,7 @@
   - MASC
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb)
 - **Battle Value:** 1185
+- [*More Info*](scorpion/scorpion_scp-1tb.md)
 
 ## Scorpion SCP-10M
 - **Role:** Sniper
@@ -113,4 +120,5 @@
   - LRM 10 (ammo: 12)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m)
 - **Battle Value:** 1458
+- [*More Info*](scorpion/scorpion_scp-10m.md)
 

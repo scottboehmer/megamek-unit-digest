@@ -15,6 +15,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/38/annihilator-anh-1x)
 - **Battle Value:** 1926
+- [*More Info*](annihilator/annihilator_anh-1x.md)
 
 ## Annihilator ANH-1G
 - **Role:** Juggernaut
@@ -28,6 +29,7 @@
   - ER PPC
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/37/annihilator-anh-1g)
 - **Battle Value:** 2274
+- [*More Info*](annihilator/annihilator_anh-1g.md)
 
 ## Annihilator C 'Gausszilla'
 - **Role:** Juggernaut
@@ -42,6 +44,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/44/annihilator-c-gausszilla)
 - **Battle Value:** 2455
+- [*More Info*](annihilator/annihilator_c_'gausszilla'.md)
 
 ## Annihilator C
 - **Role:** Sniper
@@ -57,6 +60,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/43/annihilator-c)
 - **Battle Value:** 2520
+- [*More Info*](annihilator/annihilator_c.md)
 
 ## Annihilator C 2
 - **Role:** Sniper
@@ -73,6 +77,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45/annihilator-c-2)
 - **Battle Value:** 2722
+- [*More Info*](annihilator/annihilator_c_2.md)
 
 ## Annihilator ANH-1A
 - **Role:** Juggernaut
@@ -86,6 +91,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3700/annihilator-anh-1a)
 - **Battle Value:** 1434
+- [*More Info*](annihilator/annihilator_anh-1a.md)
 
 ## Annihilator ANH-1E
 - **Role:** Juggernaut
@@ -99,6 +105,7 @@
   - Medium Laser × 4
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/36/annihilator-anh-1e)
 - **Battle Value:** 1625
+- [*More Info*](annihilator/annihilator_anh-1e.md)
 
 ## Annihilator ANH-2A
 - **Role:** Juggernaut
@@ -114,6 +121,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/39/annihilator-anh-2a)
 - **Battle Value:** 1595
+- [*More Info*](annihilator/annihilator_anh-2a.md)
 
 ## Annihilator ANH-3A
 - **Role:** Juggernaut
@@ -131,6 +139,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/41/annihilator-anh-3a)
 - **Battle Value:** 1712
+- [*More Info*](annihilator/annihilator_anh-3a.md)
 
 ## Annihilator ANH-4A
 - **Role:** Sniper
@@ -146,6 +155,7 @@
   - Light AC/2 × 2 (ammo: 90)
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/42/annihilator-anh-4a)
 - **Battle Value:** 1726
+- [*More Info*](annihilator/annihilator_anh-4a.md)
 
 ## Annihilator ANH-2AX
 - **Role:** Sniper
@@ -162,4 +172,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40/annihilator-anh-2ax)
 - **Battle Value:** 2553
+- [*More Info*](annihilator/annihilator_anh-2ax.md)
 

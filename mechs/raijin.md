@@ -14,6 +14,7 @@
   - Streak SRM 2 (ammo: 50)
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2626/raijin-rjn101-a)
 - **Battle Value:** 1350
+- [*More Info*](raijin/raijin_rjn101-a.md)
 
 ## Raijin RJN101-C
 - **Role:** Striker
@@ -31,4 +32,5 @@
   - C3i
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn101-c)
 - **Battle Value:** 1389
+- [*More Info*](raijin/raijin_rjn101-c.md)
 

@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2939/shootist-st-8a)
 - **Battle Value:** 1507
+- [*More Info*](shootist/shootist_st-8a.md)
 
 ## Shootist ST-8C
 - **Role:** Brawler
@@ -32,6 +33,7 @@
   - C3i
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2940/shootist-st-8c)
 - **Battle Value:** 1528
+- [*More Info*](shootist/shootist_st-8c.md)
 
 ## Shootist ST-9C
 - **Role:** Sniper
@@ -49,4 +51,5 @@
   - C3i
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2941/shootist-st-9c)
 - **Battle Value:** 1727
+- [*More Info*](shootist/shootist_st-9c.md)
 

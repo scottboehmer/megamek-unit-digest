@@ -15,6 +15,7 @@
   - Machine Gun (ammo: 100)
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2177/merlin-mln-1a)
 - **Battle Value:** 1217
+- [*More Info*](merlin/merlin_mln-1a.md)
 
 ## Merlin MLN-1B
 - **Role:** Brawler
@@ -31,6 +32,7 @@
   - Flamer
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2178/merlin-mln-1b)
 - **Battle Value:** 1228
+- [*More Info*](merlin/merlin_mln-1b.md)
 
 ## Merlin MLN-1B (Porter)
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - SRM 4 (ammo: 25)
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179/merlin-mln-1b-porter)
 - **Battle Value:** 1233
+- [*More Info*](merlin/merlin_mln-1b_porter.md)
 
 ## Merlin MLN-1C
 - **Role:** Brawler
@@ -62,6 +65,7 @@
   - Flamer
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2180/merlin-mln-1c)
 - **Battle Value:** 1267
+- [*More Info*](merlin/merlin_mln-1c.md)
 
 ## Merlin MLN-SX
 - **Role:** Skirmisher
@@ -76,4 +80,5 @@
   - Medium VSP Laser w/ Laser Insulator × 2
 - **Sources:** XTRO Boondocks - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2181/merlin-mln-sx)
 - **Battle Value:** 1121
+- [*More Info*](merlin/merlin_mln-sx.md)
 

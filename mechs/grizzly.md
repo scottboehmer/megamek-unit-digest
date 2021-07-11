@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1332/grizzly-standard)
 - **Battle Value:** 2219
+- [*More Info*](grizzly/grizzly_standard.md)
 
 ## Grizzly 2
 - **Role:** Skirmisher
@@ -35,4 +36,5 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1333/grizzly-2)
 - **Battle Value:** 2195
+- [*More Info*](grizzly/grizzly_2.md)
 

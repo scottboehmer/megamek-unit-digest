@@ -13,4 +13,5 @@
   - Ejection Seat
 - **Sources:** ISP3, [Master Unit List](http://masterunitlist.info/Unit/Details/5798/arana-ara-s-1-militiamech)
 - **Battle Value:** 1092
+- [*More Info*](araña/araña_ara-s-1_militiamech.md)
 

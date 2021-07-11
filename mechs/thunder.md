@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3214/thunder-thr-1l)
 - **Battle Value:** 1471
+- [*More Info*](thunder/thunder_thr-1l.md)
 
 ## Thunder THR-2L
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3215/thunder-thr-2l)
 - **Battle Value:** 1951
+- [*More Info*](thunder/thunder_thr-2l.md)
 
 ## Thunder THR-3L
 - **Role:** Missile Boat
@@ -51,6 +53,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3216/thunder-thr-3l)
 - **Battle Value:** 1904
+- [*More Info*](thunder/thunder_thr-3l.md)
 
 ## Thunder THR-C4
 - **Role:** Skirmisher
@@ -68,4 +71,5 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230/thunder-thr-c4)
 - **Battle Value:** 2028
+- [*More Info*](thunder/thunder_thr-c4.md)
 

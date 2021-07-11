@@ -11,6 +11,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4331/hoplite-hop-4c)
 - **Battle Value:** 986
+- [*More Info*](hoplite/hoplite_hop-4c.md)
 
 ## Hoplite HOP-4B
 - **Role:** Sniper
@@ -24,6 +25,7 @@
   - LRM 15 (ammo: 16)
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4330/hoplite-hop-4b)
 - **Battle Value:** 1162
+- [*More Info*](hoplite/hoplite_hop-4b.md)
 
 ## Hoplite HOP-4Bb
 - **Role:** Brawler
@@ -41,6 +43,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1541/hoplite-hop-4bb)
 - **Battle Value:** 1413
+- [*More Info*](hoplite/hoplite_hop-4bb.md)
 
 ## Hoplite HOP-4Cb
 - **Role:** Brawler
@@ -56,6 +59,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542/hoplite-hop-4cb)
 - **Battle Value:** 1377
+- [*More Info*](hoplite/hoplite_hop-4cb.md)
 
 ## Hoplite HOP-4D
 - **Role:** Sniper
@@ -69,6 +73,7 @@
   - LRM 5 (ammo: 24)
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1543/hoplite-hop-4d)
 - **Battle Value:** 1022
+- [*More Info*](hoplite/hoplite_hop-4d.md)
 
 ## Hoplite C
 - **Role:** Brawler
@@ -86,6 +91,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1540/hoplite-c)
 - **Battle Value:** 1736
+- [*More Info*](hoplite/hoplite_c.md)
 
 ## Hoplite HOP-4X
 - **Role:** Sniper
@@ -102,4 +108,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544/hoplite-hop-4x)
 - **Battle Value:** 1880
+- [*More Info*](hoplite/hoplite_hop-4x.md)
 

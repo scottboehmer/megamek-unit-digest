@@ -15,6 +15,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965/lupus-prime)
 - **Battle Value:** 2428
+- [*More Info*](lupus/lupus_prime.md)
 
 ## Lupus A
 - **Role:** Skirmisher
@@ -31,6 +32,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1963/lupus-a)
 - **Battle Value:** 1927
+- [*More Info*](lupus/lupus_a.md)
 
 ## Lupus B
 - **Role:** Skirmisher
@@ -48,6 +50,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1964/lupus-b)
 - **Battle Value:** 1985
+- [*More Info*](lupus/lupus_b.md)
 
 ## Lupus C
 - **Role:** Brawler
@@ -65,6 +68,7 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c)
 - **Battle Value:** 2533
+- [*More Info*](lupus/lupus_c.md)
 
 ## Lupus D
 - **Role:** Brawler
@@ -81,4 +85,5 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d)
 - **Battle Value:** 2030
+- [*More Info*](lupus/lupus_d.md)
 

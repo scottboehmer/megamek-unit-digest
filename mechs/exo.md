@@ -9,6 +9,7 @@
 - **Heat Sinks:** 0 (0)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7840/exo-hmx-1-haulermech)
 - **Battle Value:** 96
+- [*More Info*](exo/exo_hmx-1_haulermech.md)
 
 ## Exo HMX-2 HaulerMech
 - **Role:** Undefined
@@ -21,6 +22,7 @@
 - **Heat Sinks:** 0 (0)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7841/exo-hmx-2-haulermech)
 - **Battle Value:** 96
+- [*More Info*](exo/exo_hmx-2_haulermech.md)
 
 ## Exo HMX-3 HaulerMech
 - **Role:** Undefined
@@ -35,6 +37,7 @@
   - Enviro-Sealing
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7842/exo-hmx-3-haulermech)
 - **Battle Value:** 105
+- [*More Info*](exo/exo_hmx-3_haulermech.md)
 
 ## Exo HMX-3M HaulerMech
 - **Role:** Undefined
@@ -48,4 +51,5 @@
   - Enviro-Sealing
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7843/exo-hmx-3m-haulermech)
 - **Battle Value:** 106
+- [*More Info*](exo/exo_hmx-3m_haulermech.md)
 

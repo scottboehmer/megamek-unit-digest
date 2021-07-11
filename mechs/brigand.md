@@ -12,6 +12,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3859/brigand-ldt-1)
 - **Battle Value:** 771
+- [*More Info*](brigand/brigand_ldt-1.md)
 
 ## Brigand LDT-X1
 - **Role:** Striker
@@ -26,6 +27,7 @@
   - Medium Laser × 4
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3860/brigand-ldt-x1)
 - **Battle Value:** 937
+- [*More Info*](brigand/brigand_ldt-x1.md)
 
 ## Brigand LDT-X2
 - **Role:** Striker
@@ -40,6 +42,7 @@
   - Rocket 15 × 4
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3861/brigand-ldt-x2)
 - **Battle Value:** 764
+- [*More Info*](brigand/brigand_ldt-x2.md)
 
 ## Brigand LDT-X3
 - **Role:** Striker
@@ -54,6 +57,7 @@
   - Flamer × 2
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5653/brigand-ldt-x3)
 - **Battle Value:** 695
+- [*More Info*](brigand/brigand_ldt-x3.md)
 
 ## Brigand LDT-XPR1
 - **Role:** Striker
@@ -68,6 +72,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7313/brigand-ldt-xpr1)
 - **Battle Value:** 723
+- [*More Info*](brigand/brigand_ldt-xpr1.md)
 
 ## Brigand LDT-XPR2
 - **Role:** Striker
@@ -83,6 +88,7 @@
   - Angel ECM Suite
 - **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7314/brigand-ldt-xpr2)
 - **Battle Value:** 956
+- [*More Info*](brigand/brigand_ldt-xpr2.md)
 
 ## Brigand LDT-XPR3
 - **Role:** Striker
@@ -97,6 +103,7 @@
   - Mace
 - **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7315/brigand-ldt-xpr3)
 - **Battle Value:** 752
+- [*More Info*](brigand/brigand_ldt-xpr3.md)
 
 ## Brigand LDT-XPR4
 - **Role:** Striker
@@ -110,6 +117,7 @@
   - Medium Laser × 4
 - **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7316/brigand-ldt-xpr4)
 - **Battle Value:** 739
+- [*More Info*](brigand/brigand_ldt-xpr4.md)
 
 ## Brigand LDT-XPR5
 - **Role:** Striker
@@ -124,6 +132,7 @@
   - Medium Laser × 4
 - **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7317/brigand-ldt-xpr5)
 - **Battle Value:** 743
+- [*More Info*](brigand/brigand_ldt-xpr5.md)
 
 ## Brigand LDT-X4
 - **Role:** Striker
@@ -139,6 +148,7 @@
   - ER Medium Laser × 3
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5654/brigand-ldt-x4)
 - **Battle Value:** 1038
+- [*More Info*](brigand/brigand_ldt-x4.md)
 
 ## Brigand LDT-5
 - **Role:** Striker
@@ -153,4 +163,5 @@
   - Mace
 - **Sources:** HTP Tortuga, [Master Unit List](http://masterunitlist.info/Unit/Details/7312/brigand-ldt-5)
 - **Battle Value:** 762
+- [*More Info*](brigand/brigand_ldt-5.md)
 

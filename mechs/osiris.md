@@ -13,6 +13,7 @@
   - Machine Gun (ammo: 100)
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4763/osiris-osr-3d)
 - **Battle Value:** 1138
+- [*More Info*](osiris/osiris_osr-3d.md)
 
 ## Osiris OSR-4D
 - **Role:** Striker
@@ -27,6 +28,7 @@
   - Medium Pulse Laser
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4764/osiris-osr-4d)
 - **Battle Value:** 1230
+- [*More Info*](osiris/osiris_osr-4d.md)
 
 ## Osiris OSR-5D
 - **Role:** Striker
@@ -41,4 +43,5 @@
   - Heavy PPC
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5660/osiris-osr-5d)
 - **Battle Value:** 1226
+- [*More Info*](osiris/osiris_osr-5d.md)
 

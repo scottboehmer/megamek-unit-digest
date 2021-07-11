@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3292/trebaruna-tr-xb)
 - **Battle Value:** 2223
+- [*More Info*](trebaruna/trebaruna_tr-xb.md)
 
 ## Trebaruna TR-XJ
 - **Role:** Juggernaut
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3293/trebaruna-tr-xj)
 - **Battle Value:** 2270
+- [*More Info*](trebaruna/trebaruna_tr-xj.md)
 
 ## Trebaruna TR-XL
 - **Role:** Brawler
@@ -49,6 +51,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3294/trebaruna-tr-xl)
 - **Battle Value:** 2244
+- [*More Info*](trebaruna/trebaruna_tr-xl.md)
 
 ## Trebaruna TR-XH
 - **Role:** Sniper
@@ -65,4 +68,5 @@
   - Quad Turret
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6834/trebaruna-tr-xh)
 - **Battle Value:** 2453
+- [*More Info*](trebaruna/trebaruna_tr-xh.md)
 

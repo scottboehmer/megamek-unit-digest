@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2310/o-bakemono-obk-m10)
 - **Battle Value:** 1659
+- [*More Info*](o-bakemono/o-bakemono_obk-m10.md)
 
 ## O-Bakemono OBK-M11
 - **Role:** Juggernaut
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2311/o-bakemono-obk-m11)
 - **Battle Value:** 1793
+- [*More Info*](o-bakemono/o-bakemono_obk-m11.md)
 
 ## O-Bakemono OBK-M12
 - **Role:** Juggernaut
@@ -48,4 +50,5 @@
   - C3 Master
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2312/o-bakemono-obk-m12)
 - **Battle Value:** 1732
+- [*More Info*](o-bakemono/o-bakemono_obk-m12.md)
 

@@ -12,6 +12,7 @@
   - Medium Laser × 2
 - **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/4755/orion-on1-c)
 - **Battle Value:** 973
+- [*More Info*](orion/orion_on1-c.md)
 
 ## Orion ON1-H
 - **Role:** Undefined
@@ -28,6 +29,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7405/orion-on1-h)
 - **Battle Value:** 1307
+- [*More Info*](orion/orion_on1-h.md)
 
 ## Orion ON1-K
 - **Role:** Brawler
@@ -43,6 +45,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2332/orion-on1-k)
 - **Battle Value:** 1429
+- [*More Info*](orion/orion_on1-k.md)
 
 ## Orion ON1-K (Kerensky)
 - **Role:** Brawler
@@ -60,6 +63,7 @@
   - CASE
 - **Sources:** TRO 3050U - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2333/orion-on1-k-kerensky)
 - **Battle Value:** 1821
+- [*More Info*](orion/orion_on1-k_kerensky.md)
 
 ## Orion ON1-V
 - **Role:** Brawler
@@ -75,6 +79,7 @@
   - SRM 4 × 2 (ammo: 50)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2335/orion-on1-v)
 - **Battle Value:** 1298
+- [*More Info*](orion/orion_on1-v.md)
 
 ## Orion ON1-VA
 - **Role:** Juggernaut
@@ -89,6 +94,7 @@
   - SRM 4 × 2 (ammo: 50)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2336/orion-on1-va)
 - **Battle Value:** 1328
+- [*More Info*](orion/orion_on1-va.md)
 
 ## Orion ON1-V-DC
 - **Role:** Brawler
@@ -106,6 +112,7 @@
   - Command Console
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2337/orion-on1-v-dc)
 - **Battle Value:** 1310
+- [*More Info*](orion/orion_on1-v-dc.md)
 
 ## Orion ON1-M
 - **Role:** Brawler
@@ -124,6 +131,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2334/orion-on1-m)
 - **Battle Value:** 1414
+- [*More Info*](orion/orion_on1-m.md)
 
 ## Orion ON1-MA
 - **Role:** Brawler
@@ -141,6 +149,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4756/orion-on1-ma)
 - **Battle Value:** 1501
+- [*More Info*](orion/orion_on1-ma.md)
 
 ## Orion ON1-M-DC
 - **Role:** Brawler
@@ -160,6 +169,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4760/orion-on1-m-dc)
 - **Battle Value:** 1444
+- [*More Info*](orion/orion_on1-m-dc.md)
 
 ## Orion ON1-MB
 - **Role:** Brawler
@@ -178,6 +188,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4757/orion-on1-mb)
 - **Battle Value:** 1472
+- [*More Info*](orion/orion_on1-mb.md)
 
 ## Orion ON1-MC
 - **Role:** Brawler
@@ -196,6 +207,7 @@
   - C3 Slave
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4758/orion-on1-mc)
 - **Battle Value:** 1501
+- [*More Info*](orion/orion_on1-mc.md)
 
 ## Orion ON1-MD
 - **Role:** Brawler
@@ -214,6 +226,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4759/orion-on1-md)
 - **Battle Value:** 1597
+- [*More Info*](orion/orion_on1-md.md)
 
 ## Orion ON2-M
 - **Role:** Brawler
@@ -230,6 +243,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2338/orion-on2-m)
 - **Battle Value:** 1828
+- [*More Info*](orion/orion_on2-m.md)
 
 ## Orion ON3-MX
 - **Role:** Sniper
@@ -246,6 +260,7 @@
   - CASE
 - **Sources:** XTRO Marik - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2339/orion-on3-mx)
 - **Battle Value:** 1849
+- [*More Info*](orion/orion_on3-mx.md)
 
 ## Orion ON3-M
 - **Role:** Sniper
@@ -263,4 +278,5 @@
   - TAG
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m)
 - **Battle Value:** 1826
+- [*More Info*](orion/orion_on3-m.md)
 

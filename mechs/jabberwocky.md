@@ -16,6 +16,7 @@
   - Tracks
 - **Sources:** RS 3075 Unabrided, [Master Unit List](http://masterunitlist.info/Unit/Details/4383/jabberwocky-jaw-65a-engineermech)
 - **Battle Value:** 250
+- [*More Info*](jabberwocky/jabberwocky_jaw-65a_engineermech.md)
 
 ## Jabberwocky JAW-66B EngineerMech
 - **Role:** Juggernaut
@@ -37,6 +38,7 @@
   - Tracks
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1650/jabberwocky-jaw-66b-engineermech)
 - **Battle Value:** 341
+- [*More Info*](jabberwocky/jabberwocky_jaw-66b_engineermech.md)
 
 ## Jabberwocky JAW-66C DemolitionMech
 - **Role:** Juggernaut
@@ -58,6 +60,7 @@
   - Tracks
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1651/jabberwocky-jaw-66c-demolitionmech)
 - **Battle Value:** 342
+- [*More Info*](jabberwocky/jabberwocky_jaw-66c_demolitionmech.md)
 
 ## Jabberwocky JAW-66D ConstructionMech
 - **Role:** Juggernaut
@@ -81,6 +84,7 @@
   - Tracks
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1652/jabberwocky-jaw-66d-constructionmech)
 - **Battle Value:** 343
+- [*More Info*](jabberwocky/jabberwocky_jaw-66d_constructionmech.md)
 
 ## Jabberwocky JAW-67 MilitiaMech
 - **Role:** Brawler
@@ -100,4 +104,5 @@
   - Searchlight
 - **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7176/jabberwocky-jaw-67-militiamech)
 - **Battle Value:** 897
+- [*More Info*](jabberwocky/jabberwocky_jaw-67_militiamech.md)
 

@@ -15,6 +15,7 @@
   - Hatchet
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6412/hitotsume-kozo-hkz-1f)
 - **Battle Value:** 1998
+- [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1f.md)
 
 ## Hitotsume Kozo HKZ-1FM 'Mulan'
 - **Role:** Undefined
@@ -31,6 +32,7 @@
   - Large Vibroblade
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1772
+- [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1fm_'mulan'.md)
 
 ## Hitotsume Kozo HKZ-1P
 - **Role:** Brawler
@@ -48,4 +50,5 @@
   - Hatchet
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6413/hitotsume-kozo-hkz-1p)
 - **Battle Value:** 1611
+- [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1p.md)
 

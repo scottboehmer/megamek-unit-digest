@@ -13,6 +13,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3729/argus-ags-2d)
 - **Battle Value:** 1566
+- [*More Info*](argus/argus_ags-2d.md)
 
 ## Argus AGS-4D
 - **Role:** Skirmisher
@@ -32,6 +33,7 @@
   - Targeting Computer
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3730/argus-ags-4d)
 - **Battle Value:** 1638
+- [*More Info*](argus/argus_ags-4d.md)
 
 ## Argus AGS-5D
 - **Role:** Skirmisher
@@ -51,6 +53,7 @@
   - C3 Slave
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5683/argus-ags-5d)
 - **Battle Value:** 2065
+- [*More Info*](argus/argus_ags-5d.md)
 
 ## Argus AGS-8DX
 - **Role:** Skirmisher
@@ -69,6 +72,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx)
 - **Battle Value:** 1598
+- [*More Info*](argus/argus_ags-8dx.md)
 
 ## Argus AGS-6F
 - **Role:** Skirmisher
@@ -85,4 +89,5 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5684/argus-ags-6f)
 - **Battle Value:** 1524
+- [*More Info*](argus/argus_ags-6f.md)
 

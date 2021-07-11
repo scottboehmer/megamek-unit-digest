@@ -13,6 +13,7 @@
   - MASC
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3369/valiant-v4-lnt-k7)
 - **Battle Value:** 894
+- [*More Info*](valiant/valiant_v4-lnt-k7.md)
 
 ## Valiant V4-LNT-J3
 - **Role:** Striker
@@ -30,6 +31,7 @@
   - Small Shield
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3368/valiant-v4-lnt-j3)
 - **Battle Value:** 926
+- [*More Info*](valiant/valiant_v4-lnt-j3.md)
 
 ## Valiant VLN-3T
 - **Role:** Striker
@@ -46,6 +48,7 @@
   - MASC
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t)
 - **Battle Value:** 852
+- [*More Info*](valiant/valiant_vln-3t.md)
 
 ## Valiant VAL-NT-JX 'Hot Knife'
 - **Role:** Striker
@@ -64,6 +67,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3370/valiant-val-nt-jx-hot-knife)
 - **Battle Value:** 989
+- [*More Info*](valiant/valiant_val-nt-jx_'hot_knife'.md)
 
 ## Valiant VLT-3E
 - **Role:** Striker
@@ -81,4 +85,5 @@
   - Targeting Computer
 - **Sources:** XTRO Republic I - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7293/valiant-vlt-3e)
 - **Battle Value:** 1019
+- [*More Info*](valiant/valiant_vlt-3e.md)
 

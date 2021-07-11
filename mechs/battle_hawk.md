@@ -14,6 +14,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/275/battle-hawk-bh-k305)
 - **Battle Value:** 771
+- [*More Info*](battle_hawk/battle_hawk_bh-k305.md)
 
 ## Battle Hawk BH-K306
 - **Role:** Striker
@@ -30,4 +31,5 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/276/battle-hawk-bh-k306)
 - **Battle Value:** 926
+- [*More Info*](battle_hawk/battle_hawk_bh-k306.md)
 

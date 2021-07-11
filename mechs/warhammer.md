@@ -14,6 +14,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3488/warhammer-whm-6r)
 - **Battle Value:** 1299
+- [*More Info*](warhammer/warhammer_whm-6r.md)
 
 ## Warhammer WHM-6Rb
 - **Role:** Brawler
@@ -30,6 +31,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3489/warhammer-whm-6rb)
 - **Battle Value:** 1431
+- [*More Info*](warhammer/warhammer_whm-6rb.md)
 
 ## Warhammer WHM-6Rk
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5871/warhammer-whm-6rk)
 - **Battle Value:** 1621
+- [*More Info*](warhammer/warhammer_whm-6rk.md)
 
 ## Warhammer WHM-7A
 - **Role:** Brawler
@@ -63,6 +66,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3490/warhammer-whm-7a)
 - **Battle Value:** 1679
+- [*More Info*](warhammer/warhammer_whm-7a.md)
 
 ## Warhammer WHM-6L
 - **Role:** Brawler
@@ -79,6 +83,7 @@
   - Flamer × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3487/warhammer-whm-6l)
 - **Battle Value:** 1311
+- [*More Info*](warhammer/warhammer_whm-6l.md)
 
 ## Warhammer WHM-6K
 - **Role:** Brawler
@@ -94,6 +99,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3486/warhammer-whm-6k)
 - **Battle Value:** 1305
+- [*More Info*](warhammer/warhammer_whm-6k.md)
 
 ## Warhammer WHM-6D
 - **Role:** Brawler
@@ -108,6 +114,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3485/warhammer-whm-6d)
 - **Battle Value:** 1471
+- [*More Info*](warhammer/warhammer_whm-6d.md)
 
 ## Warhammer C 3
 - **Role:** Brawler
@@ -127,6 +134,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7566/warhammer-c-3)
 - **Battle Value:** 2518
+- [*More Info*](warhammer/warhammer_c_3.md)
 
 ## Warhammer WHM-6K (Olesko)
 - **Role:** Undefined
@@ -142,6 +150,7 @@
   - Communications Equipment
 - **Sources:** TRO 3039, [Master Unit List](http://masterunitlist.info/Unit/Details/7798/warhammer-whm-6k-olesko)
 - **Battle Value:** 1338
+- [*More Info*](warhammer/warhammer_whm-6k_olesko.md)
 
 ## Warhammer WHM-7M
 - **Role:** Brawler
@@ -159,6 +168,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3492/warhammer-whm-7m)
 - **Battle Value:** 1487
+- [*More Info*](warhammer/warhammer_whm-7m.md)
 
 ## Warhammer C
 - **Role:** Brawler
@@ -175,6 +185,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3479/warhammer-c)
 - **Battle Value:** 1728
+- [*More Info*](warhammer/warhammer_c.md)
 
 ## Warhammer WHM-7S
 - **Role:** Brawler
@@ -190,6 +201,7 @@
   - Small Laser × 2
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3493/warhammer-whm-7s)
 - **Battle Value:** 1477
+- [*More Info*](warhammer/warhammer_whm-7s.md)
 
 ## Warhammer C 2
 - **Role:** Brawler
@@ -206,6 +218,7 @@
   - Clan Small Pulse Laser × 2
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7565/warhammer-c-2)
 - **Battle Value:** 2157
+- [*More Info*](warhammer/warhammer_c_2.md)
 
 ## Warhammer WHM-7CS
 - **Role:** Brawler
@@ -223,6 +236,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs)
 - **Battle Value:** 1751
+- [*More Info*](warhammer/warhammer_whm-7cs.md)
 
 ## Warhammer WHM-7M-DC
 - **Role:** Brawler
@@ -240,6 +254,7 @@
   - Command Console
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5386/warhammer-whm-7m-dc)
 - **Battle Value:** 1402
+- [*More Info*](warhammer/warhammer_whm-7m-dc.md)
 
 ## Warhammer WHM-7K
 - **Role:** Brawler
@@ -257,6 +272,7 @@
   - TAG
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3491/warhammer-whm-7k)
 - **Battle Value:** 1651
+- [*More Info*](warhammer/warhammer_whm-7k.md)
 
 ## Warhammer WHM-8D
 - **Role:** Brawler
@@ -275,6 +291,7 @@
   - C3 Slave
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3494/warhammer-whm-8d)
 - **Battle Value:** 1744
+- [*More Info*](warhammer/warhammer_whm-8d.md)
 
 ## Warhammer WHM-4L
 - **Role:** Brawler
@@ -292,6 +309,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3483/warhammer-whm-4l)
 - **Battle Value:** 1743
+- [*More Info*](warhammer/warhammer_whm-4l.md)
 
 ## Warhammer WHM-9D
 - **Role:** Sniper
@@ -308,6 +326,7 @@
   - Targeting Computer
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3497/warhammer-whm-9d)
 - **Battle Value:** 2152
+- [*More Info*](warhammer/warhammer_whm-9d.md)
 
 ## Warhammer WHM-9S
 - **Role:** Brawler
@@ -324,6 +343,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3498/warhammer-whm-9s)
 - **Battle Value:** 1653
+- [*More Info*](warhammer/warhammer_whm-9s.md)
 
 ## Warhammer WHM-8M
 - **Role:** Sniper
@@ -340,6 +360,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3496/warhammer-whm-8m)
 - **Battle Value:** 1631
+- [*More Info*](warhammer/warhammer_whm-8m.md)
 
 ## Warhammer WHM-10T
 - **Role:** Skirmisher
@@ -354,6 +375,7 @@
   - ER Medium Laser × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3481/warhammer-whm-10t)
 - **Battle Value:** 1891
+- [*More Info*](warhammer/warhammer_whm-10t.md)
 
 ## Warhammer WHM-8K
 - **Role:** Sniper
@@ -370,6 +392,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3495/warhammer-whm-8k)
 - **Battle Value:** 1748
+- [*More Info*](warhammer/warhammer_whm-8k.md)
 
 ## Warhammer WHM-X7 'The Lich'
 - **Role:** Brawler
@@ -387,6 +410,7 @@
   - CASE II
 - **Sources:** XTRO:Gladiators - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3499/warhammer-whm-x7-the-lich)
 - **Battle Value:** 1785
+- [*More Info*](warhammer/warhammer_whm-x7_'the_lich'.md)
 
 ## Warhammer WHM-5L
 - **Role:** Skirmisher
@@ -404,6 +428,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3484/warhammer-whm-5l)
 - **Battle Value:** 1896
+- [*More Info*](warhammer/warhammer_whm-5l.md)
 
 ## Warhammer WHM-11T
 - **Role:** Skirmisher
@@ -422,6 +447,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3482/warhammer-whm-11t)
 - **Battle Value:** 1698
+- [*More Info*](warhammer/warhammer_whm-11t.md)
 
 ## Warhammer WHD-10CT
 - **Role:** Brawler
@@ -442,6 +468,7 @@
   - C3 Slave
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct)
 - **Battle Value:** 1758
+- [*More Info*](warhammer/warhammer_whd-10ct.md)
 
 ## Warhammer WHM-8D2
 - **Role:** Brawler
@@ -460,6 +487,7 @@
   - C3 Boosted Slave
 - **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2)
 - **Battle Value:** 1654
+- [*More Info*](warhammer/warhammer_whm-8d2.md)
 
 ## Warhammer WHM-8R
 - **Role:** Brawler
@@ -478,6 +506,7 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7563/warhammer-whm-8r)
 - **Battle Value:** 1697
+- [*More Info*](warhammer/warhammer_whm-8r.md)
 
 ## Warhammer WHM-9K
 - **Role:** Brawler
@@ -493,6 +522,7 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7567/warhammer-whm-9k)
 - **Battle Value:** 1744
+- [*More Info*](warhammer/warhammer_whm-9k.md)
 
 ## Warhammer WHM-10K
 - **Role:** Brawler
@@ -511,4 +541,5 @@
   - Clan CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7564/warhammer-whm-10k)
 - **Battle Value:** 2033
+- [*More Info*](warhammer/warhammer_whm-10k.md)
 

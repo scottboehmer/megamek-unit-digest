@@ -13,6 +13,7 @@
   - Tracks
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/452/buster-bc-xv-haulermech)
 - **Battle Value:** 222
+- [*More Info*](buster/buster_bc_xv_haulermech.md)
 
 ## Buster BC XV-M HaulerMech MOD
 - **Role:** Sniper
@@ -26,6 +27,7 @@
   - AC/5 (ammo: 20)
 - **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/453/buster-bc-xv-m-haulermech-mod-bc-xv-ac)
 - **Battle Value:** 443
+- [*More Info*](buster/buster_bc_xv-m_haulermech_mod.md)
 
 ## Buster BC XV-M-B HaulerMech MOD
 - **Role:** Sniper
@@ -40,6 +42,7 @@
   - Cargo
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/454/buster-bc-xv-m-b-haulermech-mod-bc-xv-ppc)
 - **Battle Value:** 475
+- [*More Info*](buster/buster_bc_xv-m-b_haulermech_mod.md)
 
 ## Buster BC XXI HaulerMech
 - **Role:** Ambusher
@@ -56,6 +59,7 @@
   - Tracks
 - **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7220/buster-bc-xxi-haulermech)
 - **Battle Value:** 222
+- [*More Info*](buster/buster_bc_xxi_haulermech.md)
 
 ## Buster BC XXI-M HaulerMech MOD
 - **Role:** Ambusher
@@ -72,6 +76,7 @@
   - Tracks
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7865/buster-bc-xxi-m-haulermech-mod)
 - **Battle Value:** 483
+- [*More Info*](buster/buster_bc_xxi-m_haulermech_mod.md)
 
 ## Buster BC XV-M-C HaulerMech MOD
 - **Role:** Sniper
@@ -85,6 +90,7 @@
   - Rocket 10 × 2
 - **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/7178/buster-bc-xv-m-c-haulermech-mod)
 - **Battle Value:** 726
+- [*More Info*](buster/buster_bc_xv-m-c_haulermech_mod.md)
 
 ## Buster BC XV-M-W HaulerMech MOD
 - **Role:** Sniper
@@ -99,4 +105,5 @@
   - Ejection Seat
 - **Sources:** RS IA, [Master Unit List](http://masterunitlist.info/Unit/Details/7179/buster-bc-xv-m-w-haulermech-mod)
 - **Battle Value:** 713
+- [*More Info*](buster/buster_bc_xv-m-w_haulermech_mod.md)
 

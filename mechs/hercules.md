@@ -16,6 +16,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1482/hercules-hrc-ls-9000)
 - **Battle Value:** 1561
+- [*More Info*](hercules/hercules_hrc-ls-9000.md)
 
 ## Hercules HRC-LS-9001
 - **Role:** Skirmisher
@@ -32,6 +33,7 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1484/hercules-hrc-ls-9001)
 - **Battle Value:** 1566
+- [*More Info*](hercules/hercules_hrc-ls-9001.md)
 
 ## Hercules HRC-LS-9000 (Julius)
 - **Role:** Skirmisher
@@ -50,4 +52,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483/hercules-hrc-ls-9000-julius)
 - **Battle Value:** 1532
+- [*More Info*](hercules/hercules_hrc-ls-9000_julius.md)
 

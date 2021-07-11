@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4645/minsk-mnk-101)
 - **Battle Value:** 2024
+- [*More Info*](minsk/minsk_mnk-101.md)
 
 ## Minsk
 - **Role:** Undefined
@@ -37,6 +38,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7640/minsk-standard)
 - **Battle Value:** 2028
+- [*More Info*](minsk/minsk.md)
 
 ## Minsk 2
 - **Role:** Brawler
@@ -58,4 +60,5 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7641/minsk-2)
 - **Battle Value:** 2091
+- [*More Info*](minsk/minsk_2.md)
 

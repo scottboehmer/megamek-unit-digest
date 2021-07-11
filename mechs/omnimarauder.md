@@ -15,6 +15,7 @@
   - Clan CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8110/omnimarauder-mad-br-o)
 - **Battle Value:** 2836
+- [*More Info*](omnimarauder/omnimarauder_mad-br-o.md)
 
 ## OmniMarauder MAD-BR-OA
 - **Role:** Undefined
@@ -32,4 +33,5 @@
   - Clan CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8111/omnimarauder-mad-br-oa)
 - **Battle Value:** 2117
+- [*More Info*](omnimarauder/omnimarauder_mad-br-oa.md)
 

@@ -13,6 +13,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3224/thunder-stallion-standard)
 - **Battle Value:** 2306
+- [*More Info*](thunder_stallion/thunder_stallion_standard.md)
 
 ## Thunder Stallion 2 'Fire Stallion'
 - **Role:** Missile Boat
@@ -28,6 +29,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3225/thunder-stallion-2-fire-stallion)
 - **Battle Value:** 2575
+- [*More Info*](thunder_stallion/thunder_stallion_2_'fire_stallion'.md)
 
 ## Thunder Stallion 3
 - **Role:** Juggernaut
@@ -45,6 +47,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3226/thunder-stallion-3)
 - **Battle Value:** 2631
+- [*More Info*](thunder_stallion/thunder_stallion_3.md)
 
 ## Thunder Stallion 4
 - **Role:** Juggernaut
@@ -64,4 +67,5 @@
   - CASE
 - **Sources:** Shrapnel 3:Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7720/thunder-stallion-4)
 - **Battle Value:** 2607
+- [*More Info*](thunder_stallion/thunder_stallion_4.md)
 

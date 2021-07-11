@@ -12,4 +12,5 @@
   - Dual Saw
 - **Sources:** ED: Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/6955/raider-jl-1)
 - **Battle Value:** 817
+- [*More Info*](raider/raider_jl-1.md)
 

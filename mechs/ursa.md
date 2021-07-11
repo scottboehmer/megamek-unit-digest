@@ -14,6 +14,7 @@
   - MASC
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6627/ursa-ura-2a)
 - **Battle Value:** 1887
+- [*More Info*](ursa/ursa_ura-2a.md)
 
 ## Ursa URA-2C
 - **Role:** Skirmisher
@@ -31,4 +32,5 @@
   - CASE
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6628/ursa-ura-2c)
 - **Battle Value:** 2570
+- [*More Info*](ursa/ursa_ura-2c.md)
 

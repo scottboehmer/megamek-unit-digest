@@ -12,6 +12,7 @@
   - ER Small Laser × 4
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2065/marauder-iic-standard)
 - **Battle Value:** 2680
+- [*More Info*](marauder_iic/marauder_iic_standard.md)
 
 ## Marauder IIC 9
 - **Role:** Sniper
@@ -27,6 +28,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7537/marauder-iic-9)
 - **Battle Value:** 2595
+- [*More Info*](marauder_iic/marauder_iic_9.md)
 
 ## Marauder IIC 8
 - **Role:** Brawler
@@ -44,6 +46,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2072/marauder-iic-8)
 - **Battle Value:** 2554
+- [*More Info*](marauder_iic/marauder_iic_8.md)
 
 ## Marauder IIC 2
 - **Role:** Skirmisher
@@ -59,6 +62,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2066/marauder-iic-2)
 - **Battle Value:** 2358
+- [*More Info*](marauder_iic/marauder_iic_2.md)
 
 ## Marauder IIC 3
 - **Role:** Brawler
@@ -75,6 +79,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2067/marauder-iic-3)
 - **Battle Value:** 2445
+- [*More Info*](marauder_iic/marauder_iic_3.md)
 
 ## Marauder IIC 4
 - **Role:** Sniper
@@ -90,6 +95,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2068/marauder-iic-4)
 - **Battle Value:** 3447
+- [*More Info*](marauder_iic/marauder_iic_4.md)
 
 ## Marauder IIC 5
 - **Role:** Sniper
@@ -106,6 +112,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2069/marauder-iic-5)
 - **Battle Value:** 2386
+- [*More Info*](marauder_iic/marauder_iic_5.md)
 
 ## Marauder IIC 6
 - **Role:** Skirmisher
@@ -124,6 +131,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2070/marauder-iic-6)
 - **Battle Value:** 2646
+- [*More Info*](marauder_iic/marauder_iic_6.md)
 
 ## Marauder IIC 7
 - **Role:** Juggernaut
@@ -144,6 +152,7 @@
   - Targeting Computer
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2071/marauder-iic-7)
 - **Battle Value:** 2843
+- [*More Info*](marauder_iic/marauder_iic_7.md)
 
 ## Marauder IIC 10
 - **Role:** Skirmisher
@@ -161,4 +170,5 @@
   - Small Pulse Laser × 2
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7538/marauder-iic-10)
 - **Battle Value:** 2877
+- [*More Info*](marauder_iic/marauder_iic_10.md)
 

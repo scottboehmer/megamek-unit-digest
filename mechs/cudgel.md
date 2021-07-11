@@ -15,6 +15,7 @@
   - MASC
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/766/cudgel-cdg-1b)
 - **Battle Value:** 1347
+- [*More Info*](cudgel/cudgel_cdg-1b.md)
 
 ## Cudgel CDG-2A
 - **Role:** Juggernaut
@@ -33,6 +34,7 @@
   - Small Laser
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/767/cudgel-cdg-2a)
 - **Battle Value:** 1750
+- [*More Info*](cudgel/cudgel_cdg-2a.md)
 
 ## Cudgel CDG-2B
 - **Role:** Juggernaut
@@ -50,4 +52,5 @@
   - Claw
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/768/cudgel-cdg-2b)
 - **Battle Value:** 1762
+- [*More Info*](cudgel/cudgel_cdg-2b.md)
 

@@ -15,6 +15,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5331/uziel-uzl-2s)
 - **Battle Value:** 1352
+- [*More Info*](uziel/uziel_uzl-2s.md)
 
 ## Uziel UZL-3S
 - **Role:** Striker
@@ -32,6 +33,7 @@
   - ER Small Laser × 2
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5332/uziel-uzl-3s)
 - **Battle Value:** 1189
+- [*More Info*](uziel/uziel_uzl-3s.md)
 
 ## Uziel UZL-2S (Jacob)
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - ER Small Laser × 2
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3367/uziel-uzl-2s-jacob)
 - **Battle Value:** 1513
+- [*More Info*](uziel/uziel_uzl-2s_jacob.md)
 
 ## Uziel UZL-2S (Jacob II)
 - **Role:** Striker
@@ -65,6 +68,7 @@
   - Supercharger
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3366/uziel-uzl-2s-jacob-ii)
 - **Battle Value:** 1271
+- [*More Info*](uziel/uziel_uzl-2s_jacob_ii.md)
 
 ## Uziel UZL-8S
 - **Role:** Striker
@@ -81,4 +85,5 @@
   - Guardian ECM Suite
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5679/uziel-uzl-8s)
 - **Battle Value:** 1393
+- [*More Info*](uziel/uziel_uzl-8s.md)
 

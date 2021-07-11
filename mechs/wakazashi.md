@@ -16,4 +16,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3475/wakazashi-standard)
 - **Battle Value:** 2909
+- [*More Info*](wakazashi/wakazashi_standard.md)
 

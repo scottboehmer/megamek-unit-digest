@@ -16,6 +16,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3447/volkh-vkh-1)
 - **Battle Value:** 1635
+- [*More Info*](volkh/volkh_vkh-1.md)
 
 ## Volkh VKH-7
 - **Role:** Skirmisher
@@ -34,6 +35,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3448/volkh-vkh-7)
 - **Battle Value:** 1578
+- [*More Info*](volkh/volkh_vkh-7.md)
 
 ## Volkh VKH-68
 - **Role:** Undefined
@@ -54,4 +56,5 @@
   - Head Turret
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8107/volkh-vkh-68)
 - **Battle Value:** 1679
+- [*More Info*](volkh/volkh_vkh-68.md)
 

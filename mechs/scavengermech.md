@@ -15,6 +15,7 @@
   - Liquid Cargo × 2
 - **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4987/scavenger-sc-v-salvagemech)
 - **Battle Value:** 582
+- [*More Info*](scavengermech/scavengermech_sc-v_salvagemech.md)
 
 ## ScavengerMech SC-V-M MilitiaMech
 - **Role:** Ambusher
@@ -30,4 +31,5 @@
   - Searchlight
 - **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7174/scavenger-sc-v-m-militiamech)
 - **Battle Value:** 726
+- [*More Info*](scavengermech/scavengermech_sc-v-m_militiamech.md)
 

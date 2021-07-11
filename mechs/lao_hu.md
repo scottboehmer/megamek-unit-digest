@@ -12,6 +12,7 @@
   - LRM 15 (ammo: 16)
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4478/lao-hu-lhu-2b)
 - **Battle Value:** 1771
+- [*More Info*](lao_hu/lao_hu_lhu-2b.md)
 
 ## Lao Hu LHU-3B
 - **Role:** Skirmisher
@@ -28,6 +29,7 @@
   - C3 Master
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4479/lao-hu-lhu-3b)
 - **Battle Value:** 1497
+- [*More Info*](lao_hu/lao_hu_lhu-3b.md)
 
 ## Lao Hu LHU-3C
 - **Role:** Sniper
@@ -42,6 +44,7 @@
   - LRM 5 × 3 (ammo: 72)
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4480/lao-hu-lhu-3c)
 - **Battle Value:** 1878
+- [*More Info*](lao_hu/lao_hu_lhu-3c.md)
 
 ## Lao Hu LHU-3L
 - **Role:** Skirmisher
@@ -58,6 +61,7 @@
   - Targeting Computer
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5695/lao-hu-lhu-3l)
 - **Battle Value:** 1995
+- [*More Info*](lao_hu/lao_hu_lhu-3l.md)
 
 ## Lao Hu LHU-4E
 - **Role:** Sniper
@@ -76,4 +80,5 @@
   - Guardian ECM Suite
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5696/lao-hu-lhu-4e)
 - **Battle Value:** 2123
+- [*More Info*](lao_hu/lao_hu_lhu-4e.md)
 

@@ -12,6 +12,7 @@
   - Lift Hoist
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/4793/patron-ptn-1-loadermech)
 - **Battle Value:** 73
+- [*More Info*](patron/patron_i_loadermech.md)
 
 ## Patron LoaderMech
 - **Role:** Ambusher
@@ -28,6 +29,7 @@
   - Cargo
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/4792/patron-ptn-loadermech)
 - **Battle Value:** 106
+- [*More Info*](patron/patron_loadermech.md)
 
 ## Patron PTN-2 MilitiaMech
 - **Role:** Sniper
@@ -44,6 +46,7 @@
   - Searchlight
 - **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4794/patron-ptn-2-militiamech)
 - **Battle Value:** 143
+- [*More Info*](patron/patron_ptn-2_militiamech.md)
 
 ## Patron PTN-2M MilitiaMech
 - **Role:** Ambusher
@@ -58,4 +61,5 @@
   - Light Machine Gun × 4 (ammo: 200)
 - **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/4795/patron-ptn-2m-patrolmech)
 - **Battle Value:** 147
+- [*More Info*](patron/patron_ptn-2m_militiamech.md)
 

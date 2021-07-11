@@ -13,6 +13,7 @@
   - SRM 2 × 2 (ammo: 50)
 - **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/2488/phoenix-px-1r)
 - **Battle Value:** 917
+- [*More Info*](phoenix/phoenix_px-1r.md)
 
 ## Phoenix PX-3R
 - **Role:** Skirmisher
@@ -27,6 +28,7 @@
   - SRM 2 × 2 (ammo: 100)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2489/phoenix-px-3r)
 - **Battle Value:** 1106
+- [*More Info*](phoenix/phoenix_px-3r.md)
 
 ## Phoenix PX-4R
 - **Role:** Skirmisher
@@ -41,6 +43,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2490/phoenix-px-4r)
 - **Battle Value:** 996
+- [*More Info*](phoenix/phoenix_px-4r.md)
 
 ## Phoenix PX-1KC
 - **Role:** Brawler
@@ -56,6 +59,7 @@
   - SRM 2 × 2 (ammo: 50)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7467/phoenix-px-1kc)
 - **Battle Value:** 766
+- [*More Info*](phoenix/phoenix_px-1kc.md)
 
 ## Phoenix PX-1KL
 - **Role:** Brawler
@@ -71,6 +75,7 @@
   - SRM 6 (ammo: 30)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7468/phoenix-px-1kl)
 - **Battle Value:** 930
+- [*More Info*](phoenix/phoenix_px-1kl.md)
 
 ## Phoenix PX-1KT
 - **Role:** Missile Boat
@@ -86,6 +91,7 @@
   - SRM 2 × 2 (ammo: 50)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7470/phoenix-px-1kt)
 - **Battle Value:** 857
+- [*More Info*](phoenix/phoenix_px-1kt.md)
 
 ## Phoenix PX-1KR
 - **Role:** Brawler
@@ -100,4 +106,5 @@
   - SRM 2 × 2 (ammo: 50)
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7469/phoenix-px-1kr)
 - **Battle Value:** 760
+- [*More Info*](phoenix/phoenix_px-1kr.md)
 

@@ -19,6 +19,7 @@
   - TAG
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6459/agrotera-agt-1a)
 - **Battle Value:** 1578
+- [*More Info*](agrotera/agrotera_agt-1a.md)
 
 ## Agrotera AGT-UA 'Ariel'
 - **Role:** Undefined
@@ -35,4 +36,5 @@
   - Clan HarJel III × 3
 - **Source:** XTRO: Royal Fantasy
 - **Battle Value:** 1917
+- [*More Info*](agrotera/agrotera_agt-ua_'ariel'.md)
 

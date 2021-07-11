@@ -16,4 +16,5 @@
   - Clan ER Small Laser
 - **Sources:** J:FR, [Master Unit List](http://masterunitlist.info/Unit/Details/5380/waneta-s-wn-2lam)
 - **Battle Value:** 2760
+- [*More Info*](waneta/waneta_s-wn-2lam.md)
 

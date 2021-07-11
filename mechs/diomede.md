@@ -20,6 +20,7 @@
   - Tracks
 - **Sources:** TRO 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/901/diomede-d-m3d-3-constructionmech)
 - **Battle Value:** 1227
+- [*More Info*](diomede/diomede_d-m3d-3_constructionmech.md)
 
 ## Diomede D-M3D-4 DemolitionMech
 - **Role:** Missile Boat
@@ -43,6 +44,7 @@
   - Tracks
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/902/diomede-d-m3d-4-demolitionmech)
 - **Battle Value:** 1234
+- [*More Info*](diomede/diomede_d-m3d-4_demolitionmech.md)
 
 ## Diomede D-M3D-M
 - **Role:** Juggernaut
@@ -62,4 +64,5 @@
   - Tracks
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6823/diomede-d-m3d-m)
 - **Battle Value:** 1609
+- [*More Info*](diomede/diomede_d-m3d-m.md)
 

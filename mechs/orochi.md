@@ -12,4 +12,5 @@
   - ER Small Laser
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2343/orochi-or-2i)
 - **Battle Value:** 2077
+- [*More Info*](orochi/orochi_or-2i.md)
 

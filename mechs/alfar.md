@@ -13,6 +13,7 @@
   - Medium Laser × 3
 - **Sources:** Hist:Reunification War, [Master Unit List](http://masterunitlist.info/Unit/Details/3694/alfar-al-a1)
 - **Battle Value:** 1447
+- [*More Info*](alfar/alfar_al-a1.md)
 
 ## Alfar AL-D1 "Dokkalfar"
 - **Role:** Sniper
@@ -26,4 +27,5 @@
   - PPC × 2
 - **Sources:** Hist:Reunification War, [Master Unit List](http://masterunitlist.info/Unit/Details/3693/alfar-al-d1-dokkalfar)
 - **Battle Value:** 1458
+- [*More Info*](alfar/alfar_al-d1.md)
 

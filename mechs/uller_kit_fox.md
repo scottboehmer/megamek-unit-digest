@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3347/uller-kit-fox-prime)
 - **Battle Value:** 1085
+- [*More Info*](kit_fox/kit_fox_prime.md)
 
 ## Kit Fox "Uller" A
 - **Role:** Sniper
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3340/uller-kit-fox-a)
 - **Battle Value:** 1310
+- [*More Info*](kit_fox/kit_fox_a.md)
 
 ## Kit Fox "Uller" B
 - **Role:** Striker
@@ -47,6 +49,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3341/uller-kit-fox-b)
 - **Battle Value:** 1087
+- [*More Info*](kit_fox/kit_fox_b.md)
 
 ## Kit Fox "Uller" D
 - **Role:** Missile Boat
@@ -63,6 +66,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3343/uller-kit-fox-d)
 - **Battle Value:** 1142
+- [*More Info*](kit_fox/kit_fox_d.md)
 
 ## Kit Fox "Uller" V
 - **Role:** Missile Boat
@@ -78,6 +82,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7746/uller-kit-fox-v)
 - **Battle Value:** 850
+- [*More Info*](kit_fox/kit_fox_v.md)
 
 ## Kit Fox "Uller" C
 - **Role:** Striker
@@ -99,6 +104,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3342/uller-kit-fox-c)
 - **Battle Value:** 1147
+- [*More Info*](kit_fox/kit_fox_c.md)
 
 ## Kit Fox "Uller" S
 - **Role:** Striker
@@ -118,6 +124,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3348/uller-kit-fox-s)
 - **Battle Value:** 1342
+- [*More Info*](kit_fox/kit_fox_s.md)
 
 ## Kit Fox "Uller" W
 - **Role:** Sniper
@@ -131,6 +138,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3350/uller-kit-fox-w)
 - **Battle Value:** 1431
+- [*More Info*](kit_fox/kit_fox_w.md)
 
 ## Kit Fox "Uller" E
 - **Role:** Striker
@@ -148,6 +156,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3344/uller-kit-fox-e)
 - **Battle Value:** 1415
+- [*More Info*](kit_fox/kit_fox_e.md)
 
 ## Kit Fox "Uller" G
 - **Role:** Sniper
@@ -165,6 +174,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5486/uller-kit-fox-g)
 - **Battle Value:** 1368
+- [*More Info*](kit_fox/kit_fox_g.md)
 
 ## Kit Fox "Uller" H
 - **Role:** Striker
@@ -180,6 +190,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3346/uller-kit-fox-h)
 - **Battle Value:** 1214
+- [*More Info*](kit_fox/kit_fox_h.md)
 
 ## Kit Fox "Uller" J
 - **Role:** Striker
@@ -197,6 +208,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7744/uller-kit-fox-j)
 - **Battle Value:** 1134
+- [*More Info*](kit_fox/kit_fox_j.md)
 
 ## Kit Fox "Uller" F
 - **Role:** Sniper
@@ -212,6 +224,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3345/uller-kit-fox-f)
 - **Battle Value:** 1219
+- [*More Info*](kit_fox/kit_fox_f.md)
 
 ## Kit Fox "Uller" U
 - **Role:** Sniper
@@ -228,6 +241,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3349/uller-kit-fox-u)
 - **Battle Value:** 1486
+- [*More Info*](kit_fox/kit_fox_u.md)
 
 ## Kit Fox "Uller" K
 - **Role:** Striker
@@ -243,6 +257,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k)
 - **Battle Value:** 1109
+- [*More Info*](kit_fox/kit_fox_k.md)
 
 ## Kit Fox "Uller" I
 - **Role:** Brawler
@@ -261,6 +276,7 @@
   - Targeting Computer
 - **Sources:** RS 3145 NTNU - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6932/uller-kit-fox-i)
 - **Battle Value:** 1936
+- [*More Info*](kit_fox/kit_fox_i.md)
 
 ## Kit Fox "Uller" R
 - **Role:** Striker
@@ -276,6 +292,7 @@
   - CASE
 - **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6931/uller-kit-fox-r)
 - **Battle Value:** 1232
+- [*More Info*](kit_fox/kit_fox_r.md)
 
 ## Kit Fox "Uller" BLO
 - **Role:** Undefined
@@ -293,6 +310,7 @@
   - CASE
 - **Sources:** SO: Unending Faith - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7632/uller-kit-fox-blo)
 - **Battle Value:** 988
+- [*More Info*](kit_fox/kit_fox_blo.md)
 
 ## Kit Fox "Uller" T
 - **Role:** Scout
@@ -312,4 +330,5 @@
   - Supercharger
 - **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7743/uller-kit-fox-t)
 - **Battle Value:** 1380
+- [*More Info*](kit_fox/kit_fox_t.md)
 

@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1293/grendel-mongrel-prime)
 - **Battle Value:** 2290
+- [*More Info*](grendel/grendel_prime.md)
 
 ## Grendel "Mongrel" A
 - **Role:** Missile Boat
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1286/grendel-mongrel-a)
 - **Battle Value:** 2031
+- [*More Info*](grendel/grendel_a.md)
 
 ## Grendel "Mongrel" B
 - **Role:** Striker
@@ -51,6 +53,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1287/grendel-mongrel-b)
 - **Battle Value:** 1903
+- [*More Info*](grendel/grendel_b.md)
 
 ## Grendel "Mongrel" C
 - **Role:** Striker
@@ -68,6 +71,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1288/grendel-mongrel-c)
 - **Battle Value:** 1465
+- [*More Info*](grendel/grendel_c.md)
 
 ## Grendel "Mongrel" D
 - **Role:** Striker
@@ -87,6 +91,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1289/grendel-mongrel-d)
 - **Battle Value:** 2212
+- [*More Info*](grendel/grendel_d.md)
 
 ## Grendel "Mongrel" E
 - **Role:** Striker
@@ -104,6 +109,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1290/grendel-mongrel-e)
 - **Battle Value:** 1806
+- [*More Info*](grendel/grendel_e.md)
 
 ## Grendel "Mongrel" H
 - **Role:** Striker
@@ -122,6 +128,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1292/grendel-mongrel-h)
 - **Battle Value:** 1965
+- [*More Info*](grendel/grendel_h.md)
 
 ## Grendel "Mongrel" F
 - **Role:** Striker
@@ -138,6 +145,7 @@
   - CASE
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1291/grendel-mongrel-f)
 - **Battle Value:** 1997
+- [*More Info*](grendel/grendel_f.md)
 
 ## Grendel "Mongrel" M
 - **Role:** Sniper
@@ -154,6 +162,7 @@
   - CASE II
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m)
 - **Battle Value:** 1744
+- [*More Info*](grendel/grendel_m.md)
 
 ## Grendel "Mongrel" G
 - **Role:** Scout
@@ -171,6 +180,7 @@
   - Supercharger
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7459/grendel-mongrel-g)
 - **Battle Value:** 2209
+- [*More Info*](grendel/grendel_g.md)
 
 ## Grendel "Mongrel" I
 - **Role:** Striker
@@ -188,6 +198,7 @@
   - CASE
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i)
 - **Battle Value:** 1675
+- [*More Info*](grendel/grendel_i.md)
 
 ## Grendel "Mongrel" J
 - **Role:** Striker
@@ -205,6 +216,7 @@
   - CASE
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7460/grendel-mongrel-j)
 - **Battle Value:** 1811
+- [*More Info*](grendel/grendel_j.md)
 
 ## Grendel "Mongrel" T
 - **Role:** Striker
@@ -224,4 +236,5 @@
   - CASE
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7456/grendel-mongrel-t)
 - **Battle Value:** 1936
+- [*More Info*](grendel/grendel_t.md)
 

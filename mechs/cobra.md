@@ -11,6 +11,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/655/cobra-cbr-02)
 - **Battle Value:** 1128
+- [*More Info*](cobra/cobra_cbr-02.md)
 
 ## Cobra CBR-03
 - **Role:** Missile Boat
@@ -27,4 +28,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/656/cobra-cbr-03)
 - **Battle Value:** 1324
+- [*More Info*](cobra/cobra_cbr-03.md)
 

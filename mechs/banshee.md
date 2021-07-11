@@ -14,6 +14,7 @@
   - Small Laser
 - **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3785/banshee-bnc-1e)
 - **Battle Value:** 1465
+- [*More Info*](banshee/banshee_bnc-1e.md)
 
 ## Banshee BNC-3E
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/240/banshee-bnc-3e)
 - **Battle Value:** 1422
+- [*More Info*](banshee/banshee_bnc-3e.md)
 
 ## Banshee BNC-3M
 - **Role:** Brawler
@@ -42,6 +44,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/241/banshee-bnc-3m)
 - **Battle Value:** 1595
+- [*More Info*](banshee/banshee_bnc-3m.md)
 
 ## Banshee BNC-3Q
 - **Role:** Juggernaut
@@ -55,6 +58,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/244/banshee-bnc-3q)
 - **Battle Value:** 1394
+- [*More Info*](banshee/banshee_bnc-3q.md)
 
 ## Banshee BNC-3S
 - **Role:** Juggernaut
@@ -71,6 +75,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/245/banshee-bnc-3s)
 - **Battle Value:** 1751
+- [*More Info*](banshee/banshee_bnc-3s.md)
 
 ## Banshee BNC-3S (Reinesblatt)
 - **Role:** Juggernaut
@@ -88,6 +93,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/246/banshee-bnc-3s-reinesblatt)
 - **Battle Value:** 1678
+- [*More Info*](banshee/banshee_bnc-3s_reinesblatt.md)
 
 ## Banshee BNC-3MC
 - **Role:** Brawler
@@ -102,6 +108,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/242/banshee-bnc-3mc)
 - **Battle Value:** 1487
+- [*More Info*](banshee/banshee_bnc-3mc.md)
 
 ## Banshee BNC-5S
 - **Role:** Sniper
@@ -118,6 +125,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/247/banshee-bnc-5s)
 - **Battle Value:** 2065
+- [*More Info*](banshee/banshee_bnc-5s.md)
 
 ## Banshee BNC-5S (Sawyer)
 - **Role:** Sniper
@@ -135,6 +143,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3786/banshee-bnc-5s-sawyer)
 - **Battle Value:** 2094
+- [*More Info*](banshee/banshee_bnc-5s_sawyer.md)
 
 ## Banshee BNC-5S (Vandergriff)
 - **Role:** Skirmisher
@@ -151,6 +160,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3787/banshee-bnc-5s-vandergriff)
 - **Battle Value:** 1853
+- [*More Info*](banshee/banshee_bnc-5s_vandergriff.md)
 
 ## Banshee BNC-6S
 - **Role:** Brawler
@@ -167,6 +177,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/248/banshee-bnc-6s)
 - **Battle Value:** 1889
+- [*More Info*](banshee/banshee_bnc-6s.md)
 
 ## Banshee BNC-7S
 - **Role:** Brawler
@@ -184,6 +195,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/249/banshee-bnc-7s)
 - **Battle Value:** 2126
+- [*More Info*](banshee/banshee_bnc-7s.md)
 
 ## Banshee BNC-8S
 - **Role:** Brawler
@@ -209,6 +221,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/250/banshee-bnc-8s)
 - **Battle Value:** 2408
+- [*More Info*](banshee/banshee_bnc-8s.md)
 
 ## Banshee BNC-9S
 - **Role:** Juggernaut
@@ -230,6 +243,7 @@
   - Targeting Computer
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788/banshee-bnc-9s)
 - **Battle Value:** 2496
+- [*More Info*](banshee/banshee_bnc-9s.md)
 
 ## Banshee BNC-3Mr
 - **Role:** Sniper
@@ -244,6 +258,7 @@
   - Small Laser
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/243/banshee-bnc-3mr)
 - **Battle Value:** 1801
+- [*More Info*](banshee/banshee_bnc-3mr.md)
 
 ## Banshee BNC-11X
 - **Role:** Juggernaut
@@ -262,6 +277,7 @@
   - Armored Actuator × 4
 - **Sources:** XTRO Steiner - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3784/banshee-bnc-11x)
 - **Battle Value:** 2030
+- [*More Info*](banshee/banshee_bnc-11x.md)
 
 ## Banshee BNC-9S2
 - **Role:** Sniper
@@ -282,4 +298,5 @@
   - C3 Boosted Slave
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6844/banshee-bnc-9s2)
 - **Battle Value:** 2426
+- [*More Info*](banshee/banshee_bnc-9s2.md)
 

@@ -16,6 +16,7 @@
   - ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1752/karhu-prime)
 - **Battle Value:** 2484
+- [*More Info*](karhu/karhu_prime.md)
 
 ## Karhu A
 - **Role:** Sniper
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1748/karhu-a)
 - **Battle Value:** 2560
+- [*More Info*](karhu/karhu_a.md)
 
 ## Karhu B
 - **Role:** Skirmisher
@@ -53,6 +55,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b)
 - **Battle Value:** 2787
+- [*More Info*](karhu/karhu_b.md)
 
 ## Karhu C
 - **Role:** Sniper
@@ -71,6 +74,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1750/karhu-c)
 - **Battle Value:** 2089
+- [*More Info*](karhu/karhu_c.md)
 
 ## Karhu D
 - **Role:** Skirmisher
@@ -91,6 +95,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1751/karhu-d)
 - **Battle Value:** 3118
+- [*More Info*](karhu/karhu_d.md)
 
 ## Karhu (Syngman)
 - **Role:** Skirmisher
@@ -110,6 +115,7 @@
   - Inner Sphere C3 Slave
 - **Sources:** TRO 3085/Lamenkov's Liability - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1747/karhu-syngman)
 - **Battle Value:** 1921
+- [*More Info*](karhu/karhu_syngman.md)
 
 ## Karhu G
 - **Role:** Skirmisher
@@ -129,4 +135,5 @@
   - Supercharger
 - **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6882/karhu-g)
 - **Battle Value:** 2895
+- [*More Info*](karhu/karhu_g.md)
 

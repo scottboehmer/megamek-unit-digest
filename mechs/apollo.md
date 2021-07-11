@@ -11,6 +11,7 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/54/apollo-apl-1m)
 - **Battle Value:** 1207
+- [*More Info*](apollo/apollo_apl-1m.md)
 
 ## Apollo APL-1R
 - **Role:** Missile Boat
@@ -24,6 +25,7 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/55/apollo-apl-1r)
 - **Battle Value:** 1148
+- [*More Info*](apollo/apollo_apl-1r.md)
 
 ## Apollo APL-2S
 - **Role:** Missile Boat
@@ -37,6 +39,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s)
 - **Battle Value:** 1283
+- [*More Info*](apollo/apollo_apl-2s.md)
 
 ## Apollo APL-3T
 - **Role:** Missile Boat
@@ -51,6 +54,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/57/apollo-apl-3t)
 - **Battle Value:** 1240
+- [*More Info*](apollo/apollo_apl-3t.md)
 
 ## Apollo APL-4M
 - **Role:** Missile Boat
@@ -66,4 +70,5 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706/apollo-apl-4m)
 - **Battle Value:** 1302
+- [*More Info*](apollo/apollo_apl-4m.md)
 

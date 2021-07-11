@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4182/fox-cs-1)
 - **Battle Value:** 1574
+- [*More Info*](fox/fox_cs-1.md)
 
 ## Fox
 - **Role:** Undefined
@@ -33,4 +34,5 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7609/fox-standard)
 - **Battle Value:** 2091
+- [*More Info*](fox/fox.md)
 

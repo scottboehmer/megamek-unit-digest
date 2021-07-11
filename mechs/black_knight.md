@@ -15,6 +15,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/358/black-knight-bl-6-knt)
 - **Battle Value:** 1551
+- [*More Info*](black_knight/black_knight_bl-6-knt.md)
 
 ## Black Knight BL-6b-KNT
 - **Role:** Brawler
@@ -32,6 +33,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/357/black-knight-bl-6b-knt)
 - **Battle Value:** 1627
+- [*More Info*](black_knight/black_knight_bl-6b-knt.md)
 
 ## Black Knight BL-7-KNT
 - **Role:** Brawler
@@ -47,6 +49,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/360/black-knight-bl-7-knt)
 - **Battle Value:** 1443
+- [*More Info*](black_knight/black_knight_bl-7-knt.md)
 
 ## Black Knight BL-7-KNT-L
 - **Role:** Brawler
@@ -61,6 +64,7 @@
   - Small Laser
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/361/black-knight-bl-7-knt-l)
 - **Battle Value:** 1409
+- [*More Info*](black_knight/black_knight_bl-7-knt-l.md)
 
 ## Black Knight BL-6-KNT (Ian)
 - **Role:** Brawler
@@ -77,6 +81,7 @@
   - Hatchet
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/359/black-knight-bl-6-knt-ian)
 - **Battle Value:** 1861
+- [*More Info*](black_knight/black_knight_bl-6-knt_ian.md)
 
 ## Black Knight BL-9-KNT
 - **Role:** Brawler
@@ -93,6 +98,7 @@
   - Hatchet
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/362/black-knight-bl-9-knt)
 - **Battle Value:** 1678
+- [*More Info*](black_knight/black_knight_bl-9-knt.md)
 
 ## Black Knight BL-10-KNT (Ross)
 - **Role:** Brawler
@@ -112,6 +118,7 @@
   - Targeting Computer
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/355/black-knight-bl-10-knt-ross)
 - **Battle Value:** 2103
+- [*More Info*](black_knight/black_knight_bl-10-knt_ross.md)
 
 ## Black Knight BL-6-RR
 - **Role:** Brawler
@@ -129,6 +136,7 @@
   - Beagle Active Probe
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3826/black-knight-bl-6-rr)
 - **Battle Value:** 1954
+- [*More Info*](black_knight/black_knight_bl-6-rr.md)
 
 ## Black Knight BL-12-KNT
 - **Role:** Brawler
@@ -145,6 +153,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/356/black-knight-bl-12-knt)
 - **Battle Value:** 1840
+- [*More Info*](black_knight/black_knight_bl-12-knt.md)
 
 ## Black Knight BL-X-KNT 'Red Reaper'
 - **Role:** Juggernaut
@@ -161,6 +170,7 @@
   - Large Shield
 - **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5783/black-knight-bl-x-knt-red-reaper)
 - **Battle Value:** 1858
+- [*More Info*](black_knight/black_knight_bl-x-knt_'red_reaper'.md)
 
 ## Black Knight BLK-NT-2Y
 - **Role:** Juggernaut
@@ -181,6 +191,7 @@
   - C3 Slave
 - **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6347/black-knight-blk-nt-2y)
 - **Battle Value:** 1847
+- [*More Info*](black_knight/black_knight_blk-nt-2y.md)
 
 ## Black Knight BLK-NT-3A
 - **Role:** Brawler
@@ -198,6 +209,7 @@
   - Medium Shield
 - **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6348/black-knight-blk-nt-3a)
 - **Battle Value:** 1707
+- [*More Info*](black_knight/black_knight_blk-nt-3a.md)
 
 ## Black Knight BLK-NT-3B
 - **Role:** Brawler
@@ -216,6 +228,7 @@
   - Medium Shield
 - **Sources:** TRO 3145 Federated Suns - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6349/black-knight-blk-nt-3b)
 - **Battle Value:** 1911
+- [*More Info*](black_knight/black_knight_blk-nt-3b.md)
 
 ## Black Knight BLK-NT-4D
 - **Role:** Juggernaut
@@ -235,6 +248,7 @@
   - Clan Angel ECM Suite
 - **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6350/black-knight-blk-nt-4d)
 - **Battle Value:** 2280
+- [*More Info*](black_knight/black_knight_blk-nt-4d.md)
 
 ## Black Knight BL-18-KNT
 - **Role:** Brawler
@@ -253,6 +267,7 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7791/black-knight-bl-18-knt)
 - **Battle Value:** 2585
+- [*More Info*](black_knight/black_knight_bl-18-knt.md)
 
 ## Black Knight BLK-NT-5H
 - **Role:** Juggernaut
@@ -272,4 +287,5 @@
   - Targeting Computer
 - **Sources:** TRO 3145 Federated Suns - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6351/black-knight-blk-nt-5h)
 - **Battle Value:** 2423
+- [*More Info*](black_knight/black_knight_blk-nt-5h.md)
 

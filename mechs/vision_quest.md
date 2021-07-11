@@ -12,6 +12,7 @@
   - Medium Pulse Laser × 3
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5355/vision-quest-vq-1nc)
 - **Battle Value:** 2180
+- [*More Info*](vision_quest/vision_quest_vq-1nc.md)
 
 ## Vision Quest
 - **Role:** Undefined
@@ -28,6 +29,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7638/vision-quest-standard)
 - **Battle Value:** 2458
+- [*More Info*](vision_quest/vision_quest.md)
 
 ## Vision Quest 2
 - **Role:** Sniper
@@ -45,4 +47,5 @@
   - Targeting Computer
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7639/vision-quest-2)
 - **Battle Value:** 2556
+- [*More Info*](vision_quest/vision_quest_2.md)
 

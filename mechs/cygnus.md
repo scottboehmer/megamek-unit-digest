@@ -14,6 +14,7 @@
   - Targeting Computer
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/781/cygnus-standard)
 - **Battle Value:** 2583
+- [*More Info*](cygnus/cygnus_standard.md)
 
 ## Cygnus 2
 - **Role:** Brawler
@@ -29,6 +30,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/782/cygnus-2)
 - **Battle Value:** 3421
+- [*More Info*](cygnus/cygnus_2.md)
 
 ## Cygnus 3
 - **Role:** Sniper
@@ -43,6 +45,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/783/cygnus-3)
 - **Battle Value:** 2569
+- [*More Info*](cygnus/cygnus_3.md)
 
 ## Cygnus 4
 - **Role:** Juggernaut
@@ -60,4 +63,5 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6843/cygnus-4)
 - **Battle Value:** 2570
+- [*More Info*](cygnus/cygnus_4.md)
 

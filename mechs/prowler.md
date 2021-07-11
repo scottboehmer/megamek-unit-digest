@@ -17,6 +17,7 @@
   - Supercharger
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2581/prowler-pwr-1x)
 - **Battle Value:** 2019
+- [*More Info*](prowler/prowler_pwr-1x.md)
 
 ## Prowler PWR-1X1
 - **Role:** Skirmisher
@@ -34,4 +35,5 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2582/prowler-pwr-1x1)
 - **Battle Value:** 1922
+- [*More Info*](prowler/prowler_pwr-1x1.md)
 

@@ -14,6 +14,7 @@
   - Medium Laser × 4
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/4824/phoenix-hawk-lam-mk-i-phx-hk1)
 - **Battle Value:** 1942
+- [*More Info*](phoenix_hawk_lam_mk_i/phoenix_hawk_lam_mk_i_phx-hk1.md)
 
 ## Phoenix Hawk LAM Mk I PHX-HK1R
 - **Role:** Striker
@@ -32,4 +33,5 @@
   - Beagle Active Probe
 - **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/4825/phoenix-hawk-lam-mk-i-phx-hk1r)
 - **Battle Value:** 1858
+- [*More Info*](phoenix_hawk_lam_mk_i/phoenix_hawk_lam_mk_i_phx-hk1r.md)
 

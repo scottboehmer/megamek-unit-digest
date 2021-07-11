@@ -13,6 +13,7 @@
   - Beagle Active Probe
 - **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4790/pathfinder-pff-2)
 - **Battle Value:** 452
+- [*More Info*](pathfinder/pathfinder_pff-2.md)
 
 ## Pathfinder PFF-2T
 - **Role:** Undefined
@@ -27,4 +28,5 @@
   - TAG
 - **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4791/pathfinder-pff-2t)
 - **Battle Value:** 390
+- [*More Info*](pathfinder/pathfinder_pff-2t.md)
 

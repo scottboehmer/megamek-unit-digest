@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2567/predator-standard)
 - **Battle Value:** 1754
+- [*More Info*](predator/predator_standard.md)
 
 ## Predator 2
 - **Role:** Skirmisher
@@ -30,4 +31,5 @@
   - CASE
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2568/predator-2)
 - **Battle Value:** 2159
+- [*More Info*](predator/predator_2.md)
 

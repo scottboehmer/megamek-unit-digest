@@ -16,6 +16,7 @@
   - TAG
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3254/ti-tsang-tsg-9h)
 - **Battle Value:** 1880
+- [*More Info*](ti_ts'ang/ti_ts'ang_tsg-9h.md)
 
 ## Ti Ts'ang TSG-9J
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - ER Small Laser × 2
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3255/ti-tsang-tsg-9j)
 - **Battle Value:** 1909
+- [*More Info*](ti_ts'ang/ti_ts'ang_tsg-9j.md)
 
 ## Ti Ts'ang TSG-9 'China Doll'
 - **Role:** Undefined
@@ -50,6 +52,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241/ti-tsang-china-doll)
 - **Battle Value:** 1739
+- [*More Info*](ti_ts'ang/ti_ts'ang_tsg-9_'china_doll'.md)
 
 ## Ti Ts'ang Jason
 - **Role:** Undefined
@@ -67,6 +70,7 @@
   - Small Pulse Laser × 4
 - **Sources:** BD: Jason Zaklan - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7395/ti-tsang-tsg-9h-jason)
 - **Battle Value:** 1641
+- [*More Info*](ti_ts'ang/ti_ts'ang_jason.md)
 
 ## Ti Ts'ang TSG-9C
 - **Role:** Skirmisher
@@ -84,6 +88,7 @@
   - ER Small Laser × 2
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3252/ti-tsang-tsg-9c)
 - **Battle Value:** 1989
+- [*More Info*](ti_ts'ang/ti_ts'ang_tsg-9c.md)
 
 ## Ti Ts'ang TSG-9DDC 'Prototype'
 - **Role:** Undefined
@@ -104,6 +109,7 @@
   - Supercharger
 - **Sources:** XTRO Liao - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc)
 - **Battle Value:** 2013
+- [*More Info*](ti_ts'ang/ti_ts'ang_tsg-9ddc_'prototype'.md)
 
 ## Ti Ts'ang TSG-9DDC
 - **Role:** Skirmisher
@@ -124,6 +130,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc)
 - **Battle Value:** 2013
+- [*More Info*](ti_ts'ang/ti_ts'ang_tsg-9ddc.md)
 
 ## Ti Ts'ang TSG-10L
 - **Role:** Skirmisher
@@ -144,4 +151,5 @@
   - TAG
 - **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6884/ti-tsang-tsg-10l)
 - **Battle Value:** 1728
+- [*More Info*](ti_ts'ang/ti_ts'ang_tsg-10l.md)
 

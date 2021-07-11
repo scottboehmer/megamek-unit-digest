@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/369/black-lanner-prime)
 - **Battle Value:** 2268
+- [*More Info*](black_lanner/black_lanner_prime.md)
 
 ## Black Lanner A
 - **Role:** Skirmisher
@@ -35,6 +36,7 @@
   - TAG
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/363/black-lanner-a)
 - **Battle Value:** 2308
+- [*More Info*](black_lanner/black_lanner_a.md)
 
 ## Black Lanner B
 - **Role:** Missile Boat
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/364/black-lanner-b)
 - **Battle Value:** 1961
+- [*More Info*](black_lanner/black_lanner_b.md)
 
 ## Black Lanner C
 - **Role:** Skirmisher
@@ -66,6 +69,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/365/black-lanner-c)
 - **Battle Value:** 2523
+- [*More Info*](black_lanner/black_lanner_c.md)
 
 ## Black Lanner D
 - **Role:** Skirmisher
@@ -86,6 +90,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/366/black-lanner-d)
 - **Battle Value:** 1809
+- [*More Info*](black_lanner/black_lanner_d.md)
 
 ## Black Lanner H
 - **Role:** Skirmisher
@@ -102,6 +107,7 @@
   - MASC
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/368/black-lanner-h)
 - **Battle Value:** 1928
+- [*More Info*](black_lanner/black_lanner_h.md)
 
 ## Black Lanner E
 - **Role:** Skirmisher
@@ -118,6 +124,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/367/black-lanner-e)
 - **Battle Value:** 2331
+- [*More Info*](black_lanner/black_lanner_e.md)
 
 ## Black Lanner X
 - **Role:** Skirmisher
@@ -134,4 +141,5 @@
   - CASE II
 - **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x)
 - **Battle Value:** 1672
+- [*More Info*](black_lanner/black_lanner_x.md)
 

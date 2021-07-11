@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7649/storm-giant-standard)
 - **Battle Value:** 2676
+- [*More Info*](storm_giant/storm_giant.md)
 
 ## Storm Giant 2
 - **Role:** Juggernaut
@@ -31,4 +32,5 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5145/storm-giant-2)
 - **Battle Value:** 2891
+- [*More Info*](storm_giant/storm_giant_2.md)
 

@@ -11,6 +11,7 @@
   - Large Laser
 - **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/666/commando-com-1a)
 - **Battle Value:** 475
+- [*More Info*](commando/commando_com-1a.md)
 
 ## Commando COM-1D
 - **Role:** Striker
@@ -24,6 +25,7 @@
   - SRM 6 (ammo: 15)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/669/commando-com-1d)
 - **Battle Value:** 558
+- [*More Info*](commando/commando_com-1d.md)
 
 ## Commando COM-2D
 - **Role:** Striker
@@ -38,6 +40,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/670/commando-com-2d)
 - **Battle Value:** 541
+- [*More Info*](commando/commando_com-2d.md)
 
 ## Commando COM-1B
 - **Role:** Striker
@@ -52,6 +55,7 @@
   - SRM 2 (ammo: 50)
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/667/commando-com-1b)
 - **Battle Value:** 616
+- [*More Info*](commando/commando_com-1b.md)
 
 ## Commando COM-1C
 - **Role:** Striker
@@ -65,6 +69,7 @@
   - AC/2 (ammo: 45)
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/668/commando-com-1c)
 - **Battle Value:** 458
+- [*More Info*](commando/commando_com-1c.md)
 
 ## Commando COM-3A
 - **Role:** Striker
@@ -79,6 +84,7 @@
   - Flamer
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/672/commando-com-3a)
 - **Battle Value:** 540
+- [*More Info*](commando/commando_com-3a.md)
 
 ## Commando COM-5S
 - **Role:** Striker
@@ -95,6 +101,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/674/commando-com-5s)
 - **Battle Value:** 557
+- [*More Info*](commando/commando_com-5s.md)
 
 ## Commando COM-7S
 - **Role:** Striker
@@ -111,6 +118,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/676/commando-com-7s)
 - **Battle Value:** 658
+- [*More Info*](commando/commando_com-7s.md)
 
 ## Commando COM-4H
 - **Role:** Striker
@@ -124,6 +132,7 @@
   - Rocket 15 × 6
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/673/commando-com-4h)
 - **Battle Value:** 691
+- [*More Info*](commando/commando_com-4h.md)
 
 ## Commando COM-7B
 - **Role:** Striker
@@ -142,6 +151,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/675/commando-com-7b)
 - **Battle Value:** 602
+- [*More Info*](commando/commando_com-7b.md)
 
 ## Commando COM-7S2 (Freyr)
 - **Role:** Striker
@@ -160,6 +170,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/677/commando-com-7s2-freyr)
 - **Battle Value:** 1105
+- [*More Info*](commando/commando_com-7s2_freyr.md)
 
 ## Commando COM-1AK
 - **Role:** Scout
@@ -174,6 +185,7 @@
   - Small Laser
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak)
 - **Battle Value:** 549
+- [*More Info*](commando/commando_com-1ak.md)
 
 ## Commando COM-2Dr
 - **Role:** Striker
@@ -189,6 +201,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/671/commando-com-2dr)
 - **Battle Value:** 563
+- [*More Info*](commando/commando_com-2dr.md)
 
 ## Commando COM-8S
 - **Role:** Striker
@@ -206,6 +219,7 @@
   - Supercharger
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s)
 - **Battle Value:** 775
+- [*More Info*](commando/commando_com-8s.md)
 
 ## Commando COM-9S
 - **Role:** Striker
@@ -223,4 +237,5 @@
   - Supercharger
 - **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7439/commando-com-9s)
 - **Battle Value:** 719
+- [*More Info*](commando/commando_com-9s.md)
 

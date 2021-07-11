@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/455/caesar-ces-3r)
 - **Battle Value:** 1578
+- [*More Info*](caesar/caesar_ces-3r.md)
 
 ## Caesar CES-3R 'Archangel'
 - **Role:** Brawler
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3883/caesar-ces-3r-archangel)
 - **Battle Value:** 2098
+- [*More Info*](caesar/caesar_ces-3r_'archangel'.md)
 
 ## Caesar CES-3R (Gertrude)
 - **Role:** Brawler
@@ -47,6 +49,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3884/caesar-ces-3r-gertrude)
 - **Battle Value:** 1833
+- [*More Info*](caesar/caesar_ces-3r_gertrude.md)
 
 ## Caesar CES-4S
 - **Role:** Brawler
@@ -62,6 +65,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/458/caesar-ces-4s)
 - **Battle Value:** 1739
+- [*More Info*](caesar/caesar_ces-4s.md)
 
 ## Caesar CES-3S
 - **Role:** Brawler
@@ -79,6 +83,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/456/caesar-ces-3s)
 - **Battle Value:** 1901
+- [*More Info*](caesar/caesar_ces-3s.md)
 
 ## Caesar CES-4R
 - **Role:** Skirmisher
@@ -97,4 +102,5 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/457/caesar-ces-4r)
 - **Battle Value:** 2024
+- [*More Info*](caesar/caesar_ces-4r.md)
 

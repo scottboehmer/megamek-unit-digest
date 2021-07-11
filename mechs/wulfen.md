@@ -16,6 +16,7 @@
   - Cargo
 - **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6256/wulfen-prime)
 - **Battle Value:** 983
+- [*More Info*](wulfen/wulfen_prime.md)
 
 ## Wulfen A
 - **Role:** Striker
@@ -31,6 +32,7 @@
   - ECM Suite
 - **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6257/wulfen-a)
 - **Battle Value:** 1615
+- [*More Info*](wulfen/wulfen_a.md)
 
 ## Wulfen B
 - **Role:** Scout
@@ -49,6 +51,7 @@
   - Supercharger
 - **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6258/wulfen-b)
 - **Battle Value:** 1806
+- [*More Info*](wulfen/wulfen_b.md)
 
 ## Wulfen C
 - **Role:** Striker
@@ -66,6 +69,7 @@
   - Targeting Computer
 - **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6259/wulfen-c)
 - **Battle Value:** 1334
+- [*More Info*](wulfen/wulfen_c.md)
 
 ## Wulfen D
 - **Role:** Scout
@@ -83,6 +87,7 @@
   - CASE II
 - **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6260/wulfen-d)
 - **Battle Value:** 859
+- [*More Info*](wulfen/wulfen_d.md)
 
 ## Wulfen E
 - **Role:** Striker
@@ -103,6 +108,7 @@
   - CASE II
 - **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6261/wulfen-e)
 - **Battle Value:** 1839
+- [*More Info*](wulfen/wulfen_e.md)
 
 ## Wulfen H
 - **Role:** Striker
@@ -119,4 +125,5 @@
   - ECM Suite
 - **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6262/wulfen-h)
 - **Battle Value:** 1563
+- [*More Info*](wulfen/wulfen_h.md)
 

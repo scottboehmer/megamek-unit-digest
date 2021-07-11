@@ -11,6 +11,7 @@
   - ER Medium Laser × 12
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/342/black-hawk-nova-prime)
 - **Battle Value:** 2663
+- [*More Info*](nova/nova_prime.md)
 
 ## Nova "Black Hawk" A
 - **Role:** Sniper
@@ -28,6 +29,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/335/black-hawk-nova-a)
 - **Battle Value:** 2422
+- [*More Info*](nova/nova_a.md)
 
 ## Nova "Black Hawk" B
 - **Role:** Sniper
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/336/black-hawk-nova-b)
 - **Battle Value:** 1543
+- [*More Info*](nova/nova_b.md)
 
 ## Nova "Black Hawk" C
 - **Role:** Sniper
@@ -63,6 +66,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/337/black-hawk-nova-c)
 - **Battle Value:** 1515
+- [*More Info*](nova/nova_c.md)
 
 ## Nova "Black Hawk" D
 - **Role:** Missile Boat
@@ -79,6 +83,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/338/black-hawk-nova-d)
 - **Battle Value:** 1450
+- [*More Info*](nova/nova_d.md)
 
 ## Nova "Black Hawk" S
 - **Role:** Skirmisher
@@ -97,6 +102,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/343/black-hawk-nova-s)
 - **Battle Value:** 2056
+- [*More Info*](nova/nova_s.md)
 
 ## Nova "Black Hawk" E
 - **Role:** Skirmisher
@@ -113,6 +119,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/339/black-hawk-nova-e)
 - **Battle Value:** 2078
+- [*More Info*](nova/nova_e.md)
 
 ## Nova "Black Hawk" H
 - **Role:** Skirmisher
@@ -126,6 +133,7 @@
   - Heavy Medium Laser × 10
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/341/black-hawk-nova-h)
 - **Battle Value:** 1832
+- [*More Info*](nova/nova_h.md)
 
 ## Nova "Black Hawk" F
 - **Role:** Skirmisher
@@ -142,6 +150,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/340/black-hawk-nova-f)
 - **Battle Value:** 1976
+- [*More Info*](nova/nova_f.md)
 
 ## Nova "Black Hawk" U
 - **Role:** Striker
@@ -165,6 +174,7 @@
   - Inner Sphere HarJel
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/344/black-hawk-nova-u)
 - **Battle Value:** 1413
+- [*More Info*](nova/nova_u.md)
 
 ## Nova "Black Hawk" G
 - **Role:** Skirmisher
@@ -183,6 +193,7 @@
   - Targeting Computer
 - **Sources:** ilClan Rec Guide 13 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g)
 - **Battle Value:** 1822
+- [*More Info*](nova/nova_g.md)
 
 ## Nova "Black Hawk" I
 - **Role:** Skirmisher
@@ -197,6 +208,7 @@
   - Improved Heavy Medium Laser × 5
 - **Sources:** ilClan Rec Guide 13 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i)
 - **Battle Value:** 2224
+- [*More Info*](nova/nova_i.md)
 
 ## Nova "Black Hawk" J
 - **Role:** Skirmisher
@@ -213,6 +225,7 @@
   - CASE
 - **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j)
 - **Battle Value:** 2052
+- [*More Info*](nova/nova_j.md)
 
 ## Nova "Black Hawk" K
 - **Role:** Brawler
@@ -230,6 +243,7 @@
   - CASE
 - **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k)
 - **Battle Value:** 1932
+- [*More Info*](nova/nova_k.md)
 
 ## Nova "Black Hawk" L
 - **Role:** Skirmisher
@@ -244,6 +258,7 @@
   - Plasma Cannon × 2 (ammo: 20)
 - **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l)
 - **Battle Value:** 2177
+- [*More Info*](nova/nova_l.md)
 
 ## Nova "Black Hawk" X
 - **Role:** Skirmisher
@@ -260,6 +275,7 @@
   - CASE
 - **Sources:** RS 3145 NTNU - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6910/black-hawk-nova-x)
 - **Battle Value:** 2761
+- [*More Info*](nova/nova_x.md)
 
 ## Nova "Black Hawk" R
 - **Role:** Skirmisher
@@ -277,6 +293,7 @@
   - Supercharger
 - **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r)
 - **Battle Value:** 1597
+- [*More Info*](nova/nova_r.md)
 
 ## Nova "Black Hawk" T
 - **Role:** Skirmisher
@@ -292,4 +309,5 @@
   - CASE
 - **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t)
 - **Battle Value:** 1579
+- [*More Info*](nova/nova_t.md)
 

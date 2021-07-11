@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard)
 - **Battle Value:** 2057
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_standard.md)
 
 ## Phoenix Hawk IIC 2
 - **Role:** Missile Boat
@@ -29,6 +30,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2)
 - **Battle Value:** 2892
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_2.md)
 
 ## Phoenix Hawk IIC 3
 - **Role:** Skirmisher
@@ -46,6 +48,7 @@
   - Targeting Computer
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2513/phoenix-hawk-iic-3)
 - **Battle Value:** 2448
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_3.md)
 
 ## Phoenix Hawk IIC 4
 - **Role:** Skirmisher
@@ -61,6 +64,7 @@
   - CASE
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4)
 - **Battle Value:** 2483
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_4.md)
 
 ## Phoenix Hawk IIC 5
 - **Role:** Sniper
@@ -77,6 +81,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2515/phoenix-hawk-iic-5)
 - **Battle Value:** 2350
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_5.md)
 
 ## Phoenix Hawk IIC 6
 - **Role:** Skirmisher
@@ -93,6 +98,7 @@
   - Targeting Computer
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2516/phoenix-hawk-iic-6)
 - **Battle Value:** 2490
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_6.md)
 
 ## Phoenix Hawk IIC 7
 - **Role:** Skirmisher
@@ -110,6 +116,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2517/phoenix-hawk-iic-7)
 - **Battle Value:** 2219
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_7.md)
 
 ## Phoenix Hawk IIC 8
 - **Role:** Skirmisher
@@ -126,4 +133,5 @@
   - ECM Suite
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2518/phoenix-hawk-iic-8)
 - **Battle Value:** 2903
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_8.md)
 

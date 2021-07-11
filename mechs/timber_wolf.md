@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1985/mad-cat-timber-wolf-prime)
 - **Battle Value:** 2737
+- [*More Info*](timber_wolf/timber_wolf_prime.md)
 
 ## Timber Wolf "Mad Cat" A
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1978/mad-cat-timber-wolf-a)
 - **Battle Value:** 2854
+- [*More Info*](timber_wolf/timber_wolf_a.md)
 
 ## Timber Wolf "Mad Cat" B
 - **Role:** Sniper
@@ -51,6 +53,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1979/mad-cat-timber-wolf-b)
 - **Battle Value:** 2224
+- [*More Info*](timber_wolf/timber_wolf_b.md)
 
 ## Timber Wolf "Mad Cat" C
 - **Role:** Sniper
@@ -69,6 +72,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1980/mad-cat-timber-wolf-c)
 - **Battle Value:** 2500
+- [*More Info*](timber_wolf/timber_wolf_c.md)
 
 ## Timber Wolf "Mad Cat" D
 - **Role:** Skirmisher
@@ -85,6 +89,7 @@
   - CASE
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1981/mad-cat-timber-wolf-d)
 - **Battle Value:** 2682
+- [*More Info*](timber_wolf/timber_wolf_d.md)
 
 ## Timber Wolf "Mad Cat" N
 - **Role:** Brawler
@@ -102,6 +107,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7516/mad-cat-timber-wolf-n)
 - **Battle Value:** 2862
+- [*More Info*](timber_wolf/timber_wolf_n.md)
 
 ## Timber Wolf "Mad Cat" S
 - **Role:** Skirmisher
@@ -121,6 +127,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1986/mad-cat-timber-wolf-s)
 - **Battle Value:** 2462
+- [*More Info*](timber_wolf/timber_wolf_s.md)
 
 ## Timber Wolf "Mad Cat" (Pryde)
 - **Role:** Missile Boat
@@ -139,6 +146,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1977/mad-cat-timber-wolf-pryde)
 - **Battle Value:** 2900
+- [*More Info*](timber_wolf/timber_wolf_pryde.md)
 
 ## Timber Wolf "Mad Cat" TC
 - **Role:** Undefined
@@ -157,6 +165,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7595/mad-cat-timber-wolf-tc)
 - **Battle Value:** 2903
+- [*More Info*](timber_wolf/timber_wolf_tc.md)
 
 ## Timber Wolf "Mad Cat" E
 - **Role:** Sniper
@@ -173,6 +182,7 @@
   - Light TAG
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1982/mad-cat-timber-wolf-e)
 - **Battle Value:** 2444
+- [*More Info*](timber_wolf/timber_wolf_e.md)
 
 ## Timber Wolf "Mad Cat" H
 - **Role:** Missile Boat
@@ -189,6 +199,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1984/mad-cat-timber-wolf-h)
 - **Battle Value:** 2627
+- [*More Info*](timber_wolf/timber_wolf_h.md)
 
 ## Timber Wolf "Mad Cat" (Bounty Hunter)
 - **Role:** Brawler
@@ -207,6 +218,7 @@
   - Light TAG
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1976/mad-cat-timber-wolf-bounty-hunter)
 - **Battle Value:** 2829
+- [*More Info*](timber_wolf/timber_wolf_bounty_hunter.md)
 
 ## Timber Wolf "Mad Cat" (Bounty Hunter 2)
 - **Role:** Brawler
@@ -229,6 +241,7 @@
   - Coolant Pod
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5803/mad-cat-timber-wolf-bounty-hunter-2)
 - **Battle Value:** 2799
+- [*More Info*](timber_wolf/timber_wolf_bounty_hunter_2.md)
 
 ## Timber Wolf "Mad Cat" M
 - **Role:** Brawler
@@ -246,6 +259,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7515/mad-cat-timber-wolf-m)
 - **Battle Value:** 2741
+- [*More Info*](timber_wolf/timber_wolf_m.md)
 
 ## Timber Wolf "Mad Cat" F
 - **Role:** Missile Boat
@@ -263,6 +277,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1983/mad-cat-timber-wolf-f)
 - **Battle Value:** 2764
+- [*More Info*](timber_wolf/timber_wolf_f.md)
 
 ## Timber Wolf "Mad Cat" Z
 - **Role:** Skirmisher
@@ -280,6 +295,7 @@
   - CASE
 - **Sources:** WoR - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5822/mad-cat-timber-wolf-z)
 - **Battle Value:** 2923
+- [*More Info*](timber_wolf/timber_wolf_z.md)
 
 ## Timber Wolf "Mad Cat" U
 - **Role:** Sniper
@@ -298,6 +314,7 @@
   - CASE
 - **Sources:** RS 3085 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1987/mad-cat-timber-wolf-u)
 - **Battle Value:** 2627
+- [*More Info*](timber_wolf/timber_wolf_u.md)
 
 ## Timber Wolf "Mad Cat" W
 - **Role:** Juggernaut
@@ -316,6 +333,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7518/mad-cat-timber-wolf-w)
 - **Battle Value:** 2791
+- [*More Info*](timber_wolf/timber_wolf_w.md)
 
 ## Timber Wolf "Mad Cat" BLO
 - **Role:** Undefined
@@ -335,6 +353,7 @@
   - CASE
 - **Sources:** SO: Unending Faith - Late Republic Era, [Master Unit List](http://masterunitlist.info/Unit/Details/7635/mad-cat-timber-wolf-blo)
 - **Battle Value:** 2611
+- [*More Info*](timber_wolf/timber_wolf_blo.md)
 
 ## Timber Wolf "Mad Cat" T
 - **Role:** Missile Boat
@@ -353,4 +372,5 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7517/mad-cat-timber-wolf-t)
 - **Battle Value:** 2714
+- [*More Info*](timber_wolf/timber_wolf_t.md)
 

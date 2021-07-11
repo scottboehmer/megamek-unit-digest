@@ -19,6 +19,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1320/grigori-c-grg-o-invictus)
 - **Battle Value:** 1245
+- [*More Info*](grigori/grigori_c-grg-o_invictus.md)
 
 ## Grigori C-GRG-OA Dominus
 - **Role:** Skirmisher
@@ -40,6 +41,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1321/grigori-c-grg-oa-dominus)
 - **Battle Value:** 1536
+- [*More Info*](grigori/grigori_c-grg-oa_dominus.md)
 
 ## Grigori C-GRG-OB Infernus
 - **Role:** Skirmisher
@@ -61,6 +63,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1322/grigori-c-grg-ob-infernus)
 - **Battle Value:** 1374
+- [*More Info*](grigori/grigori_c-grg-ob_infernus.md)
 
 ## Grigori C-GRG-OC Comminus
 - **Role:** Skirmisher
@@ -82,6 +85,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1323/grigori-c-grg-oc-comminus)
 - **Battle Value:** 1438
+- [*More Info*](grigori/grigori_c-grg-oc_comminus.md)
 
 ## Grigori C-GRG-OD Luminos
 - **Role:** Skirmisher
@@ -102,6 +106,7 @@
   - C3i
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1324/grigori-c-grg-od-luminos)
 - **Battle Value:** 1568
+- [*More Info*](grigori/grigori_c-grg-od_luminos.md)
 
 ## Grigori C-GRG-O (Rufus)
 - **Role:** Skirmisher
@@ -124,6 +129,7 @@
   - Supercharger
 - **Sources:** Starterbook: Wolf & Blake - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1318/grigori-c-grg-o-rufus)
 - **Battle Value:** 1380
+- [*More Info*](grigori/grigori_c-grg-o_rufus.md)
 
 ## Grigori C-GRG-O (Tamiel)
 - **Role:** Missile Boat
@@ -144,6 +150,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1319/grigori-c-grg-o-tamiel)
 - **Battle Value:** 1426
+- [*More Info*](grigori/grigori_c-grg-o_tamiel.md)
 
 ## Grigori C-GRG-OE Eminus
 - **Role:** Brawler
@@ -164,6 +171,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1325/grigori-c-grg-oe-eminus)
 - **Battle Value:** 1544
+- [*More Info*](grigori/grigori_c-grg-oe_eminus.md)
 
 ## Grigori C-GRG-OS Caelestis
 - **Role:** Brawler
@@ -183,6 +191,7 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1326/grigori-c-grg-os-caelestis)
 - **Battle Value:** 1378
+- [*More Info*](grigori/grigori_c-grg-os_caelestis.md)
 
 ## Grigori C-GRG-OU Exanimus
 - **Role:** Sniper
@@ -205,4 +214,5 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1327/grigori-c-grg-ou-exanimus)
 - **Battle Value:** 1604
+- [*More Info*](grigori/grigori_c-grg-ou_exanimus.md)
 

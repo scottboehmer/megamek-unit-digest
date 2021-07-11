@@ -15,6 +15,7 @@
   - Streak SRM 2 (OS)
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/690/copperhead-cpr-hd-002)
 - **Battle Value:** 763
+- [*More Info*](copperhead/copperhead_cpr-hd-002.md)
 
 ## Copperhead CPR-HD-003
 - **Role:** Striker
@@ -34,6 +35,7 @@
   - Supercharger
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/691/copperhead-cpr-hd-003)
 - **Battle Value:** 1117
+- [*More Info*](copperhead/copperhead_cpr-hd-003.md)
 
 ## Copperhead CPR-HD-004
 - **Role:** Striker
@@ -52,4 +54,5 @@
   - Supercharger
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/692/copperhead-cpr-hd-004)
 - **Battle Value:** 1151
+- [*More Info*](copperhead/copperhead_cpr-hd-004.md)
 

@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3597/wyvern-wve-5n)
 - **Battle Value:** 1089
+- [*More Info*](wyvern/wyvern_wve-5n.md)
 
 ## Wyvern WVE-5Nb
 - **Role:** Missile Boat
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3598/wyvern-wve-5nb)
 - **Battle Value:** 1006
+- [*More Info*](wyvern/wyvern_wve-5nb.md)
 
 ## Wyvern WVE-5UX (City)
 - **Role:** Brawler
@@ -54,6 +56,7 @@
   - Supercharger
 - **Sources:** XTRO Gunslingers - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7319/wyvern-city-wve-5ux)
 - **Battle Value:** 1273
+- [*More Info*](wyvern/wyvern_wve-5ux_city.md)
 
 ## Wyvern WVE-5Nsl
 - **Role:** Missile Boat
@@ -72,6 +75,7 @@
   - CASE
 - **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5875/wyvern-wve-5nsl)
 - **Battle Value:** 1207
+- [*More Info*](wyvern/wyvern_wve-5nsl.md)
 
 ## Wyvern WVE-6N
 - **Role:** Skirmisher
@@ -88,6 +92,7 @@
   - Small Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3599/wyvern-wve-6n)
 - **Battle Value:** 1005
+- [*More Info*](wyvern/wyvern_wve-6n.md)
 
 ## Wyvern WVE-9N
 - **Role:** Brawler
@@ -106,6 +111,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3600/wyvern-wve-9n)
 - **Battle Value:** 1067
+- [*More Info*](wyvern/wyvern_wve-9n.md)
 
 ## Wyvern WVE-10N
 - **Role:** Brawler
@@ -125,4 +131,5 @@
   - C3i
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3596/wyvern-wve-10n)
 - **Battle Value:** 1199
+- [*More Info*](wyvern/wyvern_wve-10n.md)
 

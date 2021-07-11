@@ -19,6 +19,7 @@
   - MASC
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3315/tundra-wolf-standard)
 - **Battle Value:** 3131
+- [*More Info*](tundra_wolf/tundra_wolf_standard.md)
 
 ## Tundra Wolf 2
 - **Role:** Brawler
@@ -39,6 +40,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3316/tundra-wolf-2)
 - **Battle Value:** 3626
+- [*More Info*](tundra_wolf/tundra_wolf_2.md)
 
 ## Tundra Wolf 3
 - **Role:** Brawler
@@ -59,6 +61,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3)
 - **Battle Value:** 3292
+- [*More Info*](tundra_wolf/tundra_wolf_3.md)
 
 ## Tundra Wolf 4
 - **Role:** Brawler
@@ -79,6 +82,7 @@
   - MASC
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3318/tundra-wolf-4)
 - **Battle Value:** 2873
+- [*More Info*](tundra_wolf/tundra_wolf_4.md)
 
 ## Tundra Wolf 5
 - **Role:** Juggernaut
@@ -98,4 +102,5 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6862/tundra-wolf-5)
 - **Battle Value:** 2645
+- [*More Info*](tundra_wolf/tundra_wolf_5.md)
 

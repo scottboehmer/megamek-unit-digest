@@ -14,6 +14,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2097/masakari-warhawk-prime)
 - **Battle Value:** 3194
+- [*More Info*](warhawk/warhawk_prime.md)
 
 ## Warhawk "Masakari" A
 - **Role:** Sniper
@@ -32,6 +33,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2091/masakari-warhawk-a)
 - **Battle Value:** 2399
+- [*More Info*](warhawk/warhawk_a.md)
 
 ## Warhawk "Masakari" B
 - **Role:** Brawler
@@ -51,6 +53,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2092/masakari-warhawk-b)
 - **Battle Value:** 2320
+- [*More Info*](warhawk/warhawk_b.md)
 
 ## Warhawk "Masakari" C
 - **Role:** Sniper
@@ -67,6 +70,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2093/masakari-warhawk-c)
 - **Battle Value:** 2998
+- [*More Info*](warhawk/warhawk_c.md)
 
 ## Warhawk "Masakari" D
 - **Role:** Sniper
@@ -85,6 +89,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2094/masakari-warhawk-d)
 - **Battle Value:** 2474
+- [*More Info*](warhawk/warhawk_d.md)
 
 ## Warhawk "Masakari" F
 - **Role:** Sniper
@@ -103,6 +108,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5491/masakari-warhawk-f)
 - **Battle Value:** 2775
+- [*More Info*](warhawk/warhawk_f.md)
 
 ## Warhawk "Masakari" H
 - **Role:** Brawler
@@ -120,6 +126,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2096/masakari-warhawk-h)
 - **Battle Value:** 2601
+- [*More Info*](warhawk/warhawk_h.md)
 
 ## Warhawk "Masakari" E
 - **Role:** Sniper
@@ -138,4 +145,5 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2095/masakari-warhawk-e)
 - **Battle Value:** 2895
+- [*More Info*](warhawk/warhawk_e.md)
 

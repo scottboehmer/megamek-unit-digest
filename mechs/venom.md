@@ -11,6 +11,7 @@
   - Medium Pulse Laser × 4
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3398/venom-sdr-9k)
 - **Battle Value:** 798
+- [*More Info*](venom/venom_sdr-9k.md)
 
 ## Venom SDR-9KA
 - **Role:** Striker
@@ -24,6 +25,7 @@
   - Medium Pulse Laser × 3
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3399/venom-sdr-9ka)
 - **Battle Value:** 865
+- [*More Info*](venom/venom_sdr-9ka.md)
 
 ## Venom SDR-9KB
 - **Role:** Striker
@@ -38,6 +40,7 @@
   - Machine Gun (ammo: 100)
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3400/venom-sdr-9kb)
 - **Battle Value:** 769
+- [*More Info*](venom/venom_sdr-9kb.md)
 
 ## Venom SDR-9KC
 - **Role:** Striker
@@ -53,4 +56,5 @@
   - C3 Slave
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3401/venom-sdr-9kc)
 - **Battle Value:** 939
+- [*More Info*](venom/venom_sdr-9kc.md)
 

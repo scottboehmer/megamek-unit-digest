@@ -14,6 +14,7 @@
   - Anti-Missile System (ammo: 12)
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/997/excalibur-exc-b1)
 - **Battle Value:** 1549
+- [*More Info*](excalibur/excalibur_exc-b1.md)
 
 ## Excalibur EXC-B2
 - **Role:** Skirmisher
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/998/excalibur-exc-b2)
 - **Battle Value:** 1533
+- [*More Info*](excalibur/excalibur_exc-b2.md)
 
 ## Excalibur EXC-B2b
 - **Role:** Missile Boat
@@ -46,6 +48,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/999/excalibur-exc-b2b)
 - **Battle Value:** 1715
+- [*More Info*](excalibur/excalibur_exc-b2b.md)
 
 ## Excalibur EXC-B2b-EC
 - **Role:** Missile Boat
@@ -65,6 +68,7 @@
   - Inner Sphere CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7683/excalibur-exc-b2b-ec)
 - **Battle Value:** 2001
+- [*More Info*](excalibur/excalibur_exc-b2b-ec.md)
 
 ## Excalibur EXC-C1
 - **Role:** Skirmisher
@@ -81,6 +85,7 @@
   - CASE
 - **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1000/excalibur-exc-c1)
 - **Battle Value:** 1637
+- [*More Info*](excalibur/excalibur_exc-c1.md)
 
 ## Excalibur EXC-C1 (Cernunnos)
 - **Role:** Skirmisher
@@ -98,6 +103,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1001/excalibur-exc-c1-cernunnos)
 - **Battle Value:** 1778
+- [*More Info*](excalibur/excalibur_exc-c1_cernunnos.md)
 
 ## Excalibur EXC-CS
 - **Role:** Skirmisher
@@ -117,6 +123,7 @@
   - CASE
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1002/excalibur-exc-cs)
 - **Battle Value:** 2174
+- [*More Info*](excalibur/excalibur_exc-cs.md)
 
 ## Excalibur EXC-D1
 - **Role:** Skirmisher
@@ -136,4 +143,5 @@
   - Targeting Computer
 - **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1003/excalibur-exc-d1)
 - **Battle Value:** 1949
+- [*More Info*](excalibur/excalibur_exc-d1.md)
 

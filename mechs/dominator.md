@@ -18,6 +18,7 @@
   - Supercharger
 - **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7434/dominator-standard)
 - **Battle Value:** 3018
+- [*More Info*](dominator/dominator_standard.md)
 
 ## Dominator 2
 - **Role:** Sniper
@@ -37,4 +38,5 @@
   - Targeting Computer
 - **Sources:** ilClan Vol 1 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7435/dominator-2)
 - **Battle Value:** 2906
+- [*More Info*](dominator/dominator_2.md)
 

@@ -14,6 +14,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4307/hellspawn-hsn-7d)
 - **Battle Value:** 1220
+- [*More Info*](hellspawn/hellspawn_hsn-7d.md)
 
 ## Hellspawn HSN-8E
 - **Role:** Missile Boat
@@ -31,6 +32,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4308/hellspawn-hsn-8e)
 - **Battle Value:** 1341
+- [*More Info*](hellspawn/hellspawn_hsn-8e.md)
 
 ## Hellspawn HSN-9F
 - **Role:** Striker
@@ -45,6 +47,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4309/hellspawn-hsn-9f)
 - **Battle Value:** 1118
+- [*More Info*](hellspawn/hellspawn_hsn-9f.md)
 
 ## Hellspawn HSN-7D2 (Halperin)
 - **Role:** Striker
@@ -64,6 +67,7 @@
   - Coolant Pod × 3
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1478/hellspawn-hsn-7d2-halperin)
 - **Battle Value:** 1431
+- [*More Info*](hellspawn/hellspawn_hsn-7d2_halperin.md)
 
 ## Hellspawn HSN-10G
 - **Role:** Missile Boat
@@ -79,6 +83,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5673/hellspawn-hsn-10g)
 - **Battle Value:** 1188
+- [*More Info*](hellspawn/hellspawn_hsn-10g.md)
 
 ## Hellspawn HSN-10SR
 - **Role:** Striker
@@ -97,4 +102,5 @@
   - TAG
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5674/hellspawn-hsn-10sr)
 - **Battle Value:** 1411
+- [*More Info*](hellspawn/hellspawn_hsn-10sr.md)
 

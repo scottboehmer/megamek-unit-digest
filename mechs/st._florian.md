@@ -13,6 +13,7 @@
   - Searchlight × 2
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5118/st-florian-fln-366-firemech)
 - **Battle Value:** 833
+- [*More Info*](st._florian/st._florian_fln-366_firemech.md)
 
 ## St. Florian FLN-366-M FireMech MOD
 - **Role:** Juggernaut
@@ -30,4 +31,5 @@
   - Searchlight × 2
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7826/st-florian-fln-366-m-firemech-mod)
 - **Battle Value:** 1266
+- [*More Info*](st._florian/st._florian_fln-366-m_firemech_mod.md)
 

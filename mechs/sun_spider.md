@@ -13,6 +13,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 2257
+- [*More Info*](sun_spider/sun_spider_prime.md)
 
 ## Sun Spider A
 - **Role:** Undefined
@@ -27,6 +28,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1931
+- [*More Info*](sun_spider/sun_spider_a.md)
 
 ## Sun Spider C
 - **Role:** Undefined
@@ -41,6 +43,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 2541
+- [*More Info*](sun_spider/sun_spider_c.md)
 
 ## Sun Spider Manul
 - **Role:** Undefined
@@ -57,6 +60,7 @@
   - Anti-Missile System (ammo: 24)
   - CASE
 - **Battle Value:** 2789
+- [*More Info*](sun_spider/sun_spider_manul.md)
 
 ## Sun Spider Vanguard
 - **Role:** Undefined
@@ -73,6 +77,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 2044
+- [*More Info*](sun_spider/sun_spider_vanguard.md)
 
 ## Sun Spider B
 - **Role:** Undefined
@@ -91,6 +96,7 @@
   - Light Active Probe
   - CASE
 - **Battle Value:** 2497
+- [*More Info*](sun_spider/sun_spider_b.md)
 
 ## Sun Spider D
 - **Role:** Undefined
@@ -106,4 +112,5 @@
   - ECM Suite
   - CASE
 - **Battle Value:** 2096
+- [*More Info*](sun_spider/sun_spider_d.md)
 

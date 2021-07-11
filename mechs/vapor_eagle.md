@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6)
 - **Battle Value:** 1747
+- [*More Info*](vapor_eagle/vapor_eagle_6.md)
 
 ## Vapor Eagle (Standard) "Goshawk"
 - **Role:** Skirmisher
@@ -34,6 +35,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard)
 - **Battle Value:** 2368
+- [*More Info*](vapor_eagle/vapor_eagle_standard.md)
 
 ## Vapor Eagle 2 "Goshawk"
 - **Role:** Skirmisher
@@ -52,6 +54,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2)
 - **Battle Value:** 1989
+- [*More Info*](vapor_eagle/vapor_eagle_2.md)
 
 ## Vapor Eagle 5 "Goshawk"
 - **Role:** Skirmisher
@@ -70,6 +73,7 @@
   - Targeting Computer
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7710/goshawk-vapor-eagle-5)
 - **Battle Value:** 2572
+- [*More Info*](vapor_eagle/vapor_eagle_5.md)
 
 ## Vapor Eagle 3 "Goshawk"
 - **Role:** Skirmisher
@@ -89,6 +93,7 @@
   - Targeting Computer
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1245/goshawk-vapor-eagle-3)
 - **Battle Value:** 2466
+- [*More Info*](vapor_eagle/vapor_eagle_3.md)
 
 ## Vapor Eagle 4 "Goshawk"
 - **Role:** Skirmisher
@@ -105,6 +110,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1246/goshawk-vapor-eagle-4)
 - **Battle Value:** 2069
+- [*More Info*](vapor_eagle/vapor_eagle_4.md)
 
 ## Vapor Eagle 7 "Goshawk"
 - **Role:** Skirmisher
@@ -124,4 +130,5 @@
   - Supercharger
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7)
 - **Battle Value:** 2876
+- [*More Info*](vapor_eagle/vapor_eagle_7.md)
 

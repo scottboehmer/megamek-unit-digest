@@ -18,6 +18,7 @@
   - C3 Boosted Slave
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6461/vandal-li-o)
 - **Battle Value:** 1881
+- [*More Info*](vandal/vandal_li-o.md)
 
 ## Vandal LI-OA
 - **Role:** Skirmisher
@@ -38,6 +39,7 @@
   - C3 BoostedMaster
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6462/vandal-li-oa)
 - **Battle Value:** 1865
+- [*More Info*](vandal/vandal_li-oa.md)
 
 ## Vandal LI-OB
 - **Role:** Skirmisher
@@ -62,4 +64,5 @@
   - C3 Boosted Slave
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6463/vandal-li-ob)
 - **Battle Value:** 1666
+- [*More Info*](vandal/vandal_li-ob.md)
 

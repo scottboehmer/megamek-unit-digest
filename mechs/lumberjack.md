@@ -15,6 +15,7 @@
   - Dumper
 - **Sources:** RS 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/4545/lumberjack-lm1a)
 - **Battle Value:** 311
+- [*More Info*](lumberjack/lumberjack_lm1_a.md)
 
 ## Lumberjack LM4/C
 - **Role:** Ambusher
@@ -32,6 +33,7 @@
   - Cargo × 20
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1960/lumberjack-lm4c)
 - **Battle Value:** 316
+- [*More Info*](lumberjack/lumberjack_lm4_c.md)
 
 ## Lumberjack LM4/P
 - **Role:** Missile Boat
@@ -49,6 +51,7 @@
   - Cargo × 5
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1961/lumberjack-lm4p)
 - **Battle Value:** 651
+- [*More Info*](lumberjack/lumberjack_lm4_p.md)
 
 ## Lumberjack LM5/M
 - **Role:** Missile Boat
@@ -64,4 +67,5 @@
   - Medium Laser × 2
 - **Sources:** RS 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/7177/lumberjack-lm5m-militiamech)
 - **Battle Value:** 1360
+- [*More Info*](lumberjack/lumberjack_lm5_m.md)
 

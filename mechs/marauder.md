@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2033/marauder-mad-1r)
 - **Battle Value:** 1420
+- [*More Info*](marauder/marauder_mad-1r.md)
 
 ## Marauder MAD-2R
 - **Role:** Sniper
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2034/marauder-mad-2r)
 - **Battle Value:** 1630
+- [*More Info*](marauder/marauder_mad-2r.md)
 
 ## Marauder MAD-3R
 - **Role:** Sniper
@@ -44,6 +46,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2038/marauder-mad-3r)
 - **Battle Value:** 1363
+- [*More Info*](marauder/marauder_mad-3r.md)
 
 ## Marauder MAD-3D
 - **Role:** Brawler
@@ -58,6 +61,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2035/marauder-mad-3d)
 - **Battle Value:** 1470
+- [*More Info*](marauder/marauder_mad-3d.md)
 
 ## Marauder MAD-3M
 - **Role:** Brawler
@@ -72,6 +76,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2037/marauder-mad-3m)
 - **Battle Value:** 1335
+- [*More Info*](marauder/marauder_mad-3m.md)
 
 ## Marauder MAD-3L
 - **Role:** Brawler
@@ -87,6 +92,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2036/marauder-mad-3l)
 - **Battle Value:** 1369
+- [*More Info*](marauder/marauder_mad-3l.md)
 
 ## Marauder (Bounty Hunter-3015)
 - **Role:** Juggernaut
@@ -101,6 +107,7 @@
   - Medium Laser × 5
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015)
 - **Battle Value:** 1919
+- [*More Info*](marauder/marauder_bounty_hunter-3015.md)
 
 ## Marauder Bounty Hunter 3015
 - **Role:** Juggernaut
@@ -115,6 +122,7 @@
   - Medium Laser × 5
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015)
 - **Battle Value:** 1919
+- [*More Info*](marauder/marauder_bounty_hunter_3015.md)
 
 ## Marauder MAD-SD (Douglass)
 - **Role:** Brawler
@@ -129,6 +137,7 @@
   - SRM 4 × 2 (ammo: 25)
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052/marauder-mad-sd-douglass)
 - **Battle Value:** 1459
+- [*More Info*](marauder/marauder_mad-sd_douglass.md)
 
 ## Marauder MAD-4X
 - **Role:** Brawler
@@ -142,6 +151,7 @@
   - SRM 6 × 2 (ammo: 30)
 - **Sources:** XTRO Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x)
 - **Battle Value:** 1453
+- [*More Info*](marauder/marauder_mad-4x.md)
 
 ## Marauder (Bounty Hunter-3044)
 - **Role:** Sniper
@@ -157,6 +167,7 @@
   - Medium Laser × 3
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044)
 - **Battle Value:** 2103
+- [*More Info*](marauder/marauder_bounty_hunter-3044.md)
 
 ## Marauder Bounty Hunter 3044
 - **Role:** Sniper
@@ -172,6 +183,7 @@
   - Medium Laser × 3
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044)
 - **Battle Value:** 2103
+- [*More Info*](marauder/marauder_bounty_hunter_3044.md)
 
 ## Marauder MAD-5D
 - **Role:** Skirmisher
@@ -190,6 +202,7 @@
   - CASE
 - **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d)
 - **Battle Value:** 1787
+- [*More Info*](marauder/marauder_mad-5d.md)
 
 ## Marauder C
 - **Role:** Sniper
@@ -206,6 +219,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c)
 - **Battle Value:** 1711
+- [*More Info*](marauder/marauder_c.md)
 
 ## Marauder MAD-5M
 - **Role:** Skirmisher
@@ -223,6 +237,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2041/marauder-mad-5m)
 - **Battle Value:** 1471
+- [*More Info*](marauder/marauder_mad-5m.md)
 
 ## Marauder MAD-5S
 - **Role:** Sniper
@@ -239,6 +254,7 @@
   - CASE
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s)
 - **Battle Value:** 1799
+- [*More Info*](marauder/marauder_mad-5s.md)
 
 ## Marauder MAD-5CS
 - **Role:** Sniper
@@ -253,6 +269,7 @@
   - Medium Pulse Laser × 2
 - **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7600/marauder-mad-5cs)
 - **Battle Value:** 1648
+- [*More Info*](marauder/marauder_mad-5cs.md)
 
 ## Marauder MAD-5D-DC
 - **Role:** Brawler
@@ -271,6 +288,7 @@
   - Command Console
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc)
 - **Battle Value:** 1787
+- [*More Info*](marauder/marauder_mad-5d-dc.md)
 
 ## Marauder MAD-5L
 - **Role:** Sniper
@@ -288,6 +306,7 @@
   - Guardian ECM Suite
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2040/marauder-mad-5l)
 - **Battle Value:** 2244
+- [*More Info*](marauder/marauder_mad-5l.md)
 
 ## Marauder MAD-5R
 - **Role:** Brawler
@@ -306,6 +325,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2042/marauder-mad-5r)
 - **Battle Value:** 1877
+- [*More Info*](marauder/marauder_mad-5r.md)
 
 ## Marauder MAD-5T
 - **Role:** Brawler
@@ -323,6 +343,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t)
 - **Battle Value:** 1750
+- [*More Info*](marauder/marauder_mad-5t.md)
 
 ## Marauder MAD-7D
 - **Role:** Brawler
@@ -341,6 +362,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d)
 - **Battle Value:** 1986
+- [*More Info*](marauder/marauder_mad-7d.md)
 
 ## Marauder MAD-9M
 - **Role:** Brawler
@@ -357,6 +379,7 @@
   - TAG
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2047/marauder-mad-9m)
 - **Battle Value:** 1704
+- [*More Info*](marauder/marauder_mad-9m.md)
 
 ## Marauder MAD-9M2
 - **Role:** Brawler
@@ -373,6 +396,7 @@
   - TAG
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2048/marauder-mad-9m2)
 - **Battle Value:** 1875
+- [*More Info*](marauder/marauder_mad-9m2.md)
 
 ## Marauder MAD-9S
 - **Role:** Sniper
@@ -392,6 +416,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2049/marauder-mad-9s)
 - **Battle Value:** 1786
+- [*More Info*](marauder/marauder_mad-9s.md)
 
 ## Marauder MAD-6L
 - **Role:** Brawler
@@ -408,6 +433,7 @@
   - Guardian ECM Suite
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2045/marauder-mad-6l)
 - **Battle Value:** 2322
+- [*More Info*](marauder/marauder_mad-6l.md)
 
 ## Marauder MAD-7D (Von Staskov)
 - **Role:** Undefined
@@ -426,6 +452,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7697/marauder-mad-7d-von-staskov)
 - **Battle Value:** 2150
+- [*More Info*](marauder/marauder_mad-7d_von_staskov.md)
 
 ## Marauder MAD-9W
 - **Role:** Skirmisher
@@ -444,6 +471,7 @@
   - C3i
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2050/marauder-mad-9w)
 - **Battle Value:** 1788
+- [*More Info*](marauder/marauder_mad-9w.md)
 
 ## Marauder MAD-7M
 - **Role:** Brawler
@@ -461,6 +489,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7531/marauder-mad-7m)
 - **Battle Value:** 1908
+- [*More Info*](marauder/marauder_mad-7m.md)
 
 ## Marauder MAD-9W2
 - **Role:** Skirmisher
@@ -480,6 +509,7 @@
   - C3 Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2051/marauder-mad-9w2)
 - **Battle Value:** 1868
+- [*More Info*](marauder/marauder_mad-9w2.md)
 
 ## Marauder MAD-7S
 - **Role:** Sniper
@@ -496,6 +526,7 @@
   - CASE II
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7533/marauder-mad-7s)
 - **Battle Value:** 1903
+- [*More Info*](marauder/marauder_mad-7s.md)
 
 ## Marauder MAD-2T
 - **Role:** Sniper
@@ -512,6 +543,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7528/marauder-mad-2t)
 - **Battle Value:** 1646
+- [*More Info*](marauder/marauder_mad-2t.md)
 
 ## Marauder MAD-7C
 - **Role:** Sniper
@@ -530,6 +562,7 @@
   - C3 Slave
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7530/marauder-mad-7c)
 - **Battle Value:** 1810
+- [*More Info*](marauder/marauder_mad-7c.md)
 
 ## Marauder MAD-7R
 - **Role:** Sniper
@@ -547,6 +580,7 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7532/marauder-mad-7r)
 - **Battle Value:** 1832
+- [*More Info*](marauder/marauder_mad-7r.md)
 
 ## Marauder MAD-9D
 - **Role:** Brawler
@@ -564,6 +598,7 @@
   - Radical Heat Sink System
 - **Sources:** RS 3145 NY NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6866/marauder-mad-9d)
 - **Battle Value:** 1967
+- [*More Info*](marauder/marauder_mad-9d.md)
 
 ## Marauder Bounty Hunter 3138
 - **Role:** Sniper
@@ -581,6 +616,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7535/marauder-bounty-hunter-3138)
 - **Battle Value:** 2708
+- [*More Info*](marauder/marauder_bounty_hunter_3138.md)
 
 ## Marauder MAD-11D
 - **Role:** Sniper
@@ -598,6 +634,7 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7534/marauder-mad-11d)
 - **Battle Value:** 2263
+- [*More Info*](marauder/marauder_mad-11d.md)
 
 ## Marauder Red Hunter
 - **Role:** Juggernaut
@@ -615,6 +652,7 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146)
 - **Battle Value:** 2509
+- [*More Info*](marauder/marauder_red_hunter.md)
 
 ## Marauder Red Hunter 3146
 - **Role:** Juggernaut
@@ -632,4 +670,5 @@
   - Supercharger
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146)
 - **Battle Value:** 2509
+- [*More Info*](marauder/marauder_red_hunter_3146.md)
 

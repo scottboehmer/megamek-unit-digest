@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4)
 - **Battle Value:** 2601
+- [*More Info*](stone_rhino/stone_rhino_4.md)
 
 ## Stone Rhino 5 "Behemoth"
 - **Role:** Juggernaut
@@ -31,6 +32,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3815/behemoth-stone-rhino-5)
 - **Battle Value:** 2151
+- [*More Info*](stone_rhino/stone_rhino_5.md)
 
 ## Stone Rhino (Standard) "Behemoth"
 - **Role:** Sniper
@@ -48,6 +50,7 @@
   - CASE
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard)
 - **Battle Value:** 3001
+- [*More Info*](stone_rhino/stone_rhino_standard.md)
 
 ## Stone Rhino 6 "Behemoth"
 - **Role:** Brawler
@@ -62,6 +65,7 @@
   - ER Small Laser
 - **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3816/behemoth-stone-rhino-6)
 - **Battle Value:** 2981
+- [*More Info*](stone_rhino/stone_rhino_6.md)
 
 ## Stone Rhino 7 "Behemoth"
 - **Role:** Sniper
@@ -77,6 +81,7 @@
   - Small Pulse Laser
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7)
 - **Battle Value:** 2916
+- [*More Info*](stone_rhino/stone_rhino_7.md)
 
 ## Stone Rhino 2 "Behemoth"
 - **Role:** Juggernaut
@@ -97,6 +102,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2)
 - **Battle Value:** 3107
+- [*More Info*](stone_rhino/stone_rhino_2.md)
 
 ## Stone Rhino 3 "Behemoth"
 - **Role:** Sniper
@@ -114,6 +120,7 @@
   - CASE
 - **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3)
 - **Battle Value:** 3072
+- [*More Info*](stone_rhino/stone_rhino_3.md)
 
 ## Stone Rhino 8 "Behemoth"
 - **Role:** Sniper
@@ -131,4 +138,5 @@
   - CASE
 - **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8)
 - **Battle Value:** 2804
+- [*More Info*](stone_rhino/stone_rhino_8.md)
 

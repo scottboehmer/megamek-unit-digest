@@ -18,6 +18,7 @@
   - CASE II
 - **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6359/atlas-iii-as7-d2)
 - **Battle Value:** 2890
+- [*More Info*](atlas_iii/atlas_iii_as7-d2.md)
 
 ## Atlas III AS7-D3
 - **Role:** Juggernaut
@@ -39,4 +40,5 @@
   - CASE II
 - **Sources:** TRO 3145 Federated Suns - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6358/atlas-iii-as7-d3)
 - **Battle Value:** 2553
+- [*More Info*](atlas_iii/atlas_iii_as7-d3.md)
 

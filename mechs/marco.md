@@ -16,6 +16,7 @@
   - Searchlight
 - **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4594/marco-mr-6-explorermech)
 - **Battle Value:** 295
+- [*More Info*](marco/marco_mr-6_explorermech.md)
 
 ## Marco MR-7 ExplorerMech
 - **Role:** Ambusher
@@ -36,6 +37,7 @@
   - Searchlight
 - **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4595/marco-mr-7-explorermech)
 - **Battle Value:** 295
+- [*More Info*](marco/marco_mr-7_explorermech.md)
 
 ## Marco MR-8C ExplorerMech
 - **Role:** Scout
@@ -55,6 +57,7 @@
   - Searchlight
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4596/marco-mr-8c-explorermech)
 - **Battle Value:** 304
+- [*More Info*](marco/marco_mr-8c_explorermech.md)
 
 ## Marco MR-8D
 - **Role:** Brawler
@@ -71,6 +74,7 @@
   - Enviro-Sealing
 - **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/2073/marco-mr-8d)
 - **Battle Value:** 436
+- [*More Info*](marco/marco_mr-8d.md)
 
 ## Marco MR-8E
 - **Role:** Brawler
@@ -87,4 +91,5 @@
   - Enviro-Sealing
 - **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/2074/marco-mr-8e)
 - **Battle Value:** 476
+- [*More Info*](marco/marco_mr-8e.md)
 

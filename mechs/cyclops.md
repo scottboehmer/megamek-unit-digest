@@ -13,6 +13,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/772/cyclops-cp-10-z)
 - **Battle Value:** 1317
+- [*More Info*](cyclops/cyclops_cp-10-z.md)
 
 ## Cyclops CP-10-HQ
 - **Role:** Juggernaut
@@ -29,6 +30,7 @@
   - Collapsible Command Module
 - **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/770/cyclops-cp-10-hq)
 - **Battle Value:** 1113
+- [*More Info*](cyclops/cyclops_cp-10-hq.md)
 
 ## Cyclops CP-10-Q
 - **Role:** Missile Boat
@@ -43,6 +45,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/771/cyclops-cp-10-q)
 - **Battle Value:** 1584
+- [*More Info*](cyclops/cyclops_cp-10-q.md)
 
 ## Cyclops CP-11-A
 - **Role:** Sniper
@@ -58,6 +61,7 @@
   - SRM 4 (ammo: 25)
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/773/cyclops-cp-11-a)
 - **Battle Value:** 1547
+- [*More Info*](cyclops/cyclops_cp-11-a.md)
 
 ## Cyclops CP-11-A-DC
 - **Role:** Sniper
@@ -75,6 +79,7 @@
   - Command Console
 - **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4032/cyclops-cp-11-a-dc)
 - **Battle Value:** 1507
+- [*More Info*](cyclops/cyclops_cp-11-a-dc.md)
 
 ## Cyclops CP-11-C
 - **Role:** Brawler
@@ -91,6 +96,7 @@
   - C3 Master
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/775/cyclops-cp-11-c)
 - **Battle Value:** 1553
+- [*More Info*](cyclops/cyclops_cp-11-c.md)
 
 ## Cyclops CP-11-G
 - **Role:** Sniper
@@ -108,6 +114,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/778/cyclops-cp-11-g)
 - **Battle Value:** 1981
+- [*More Info*](cyclops/cyclops_cp-11-g.md)
 
 ## Cyclops CP-12-K
 - **Role:** Brawler
@@ -125,6 +132,7 @@
   - CASE
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/780/cyclops-cp-12-k)
 - **Battle Value:** 1699
+- [*More Info*](cyclops/cyclops_cp-12-k.md)
 
 ## Cyclops CP-11-H
 - **Role:** Juggernaut
@@ -139,6 +147,7 @@
   - Rocket 20 × 6
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/779/cyclops-cp-11-h)
 - **Battle Value:** 1525
+- [*More Info*](cyclops/cyclops_cp-11-h.md)
 
 ## Cyclops CP-11-B
 - **Role:** Juggernaut
@@ -156,6 +165,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/774/cyclops-cp-11-b)
 - **Battle Value:** 2145
+- [*More Info*](cyclops/cyclops_cp-11-b.md)
 
 ## Cyclops CP-11-C2
 - **Role:** Brawler
@@ -173,6 +183,7 @@
   - C3 Master × 2
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/776/cyclops-cp-11-c2)
 - **Battle Value:** 1534
+- [*More Info*](cyclops/cyclops_cp-11-c2.md)
 
 ## Cyclops CP-11-C3
 - **Role:** Brawler
@@ -189,4 +200,5 @@
   - C3 BoostedMaster
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/777/cyclops-cp-11-c3)
 - **Battle Value:** 1752
+- [*More Info*](cyclops/cyclops_cp-11-c3.md)
 

@@ -13,6 +13,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3878/burrock-standard)
 - **Battle Value:** 2230
+- [*More Info*](burrock/burrock_standard.md)
 
 ## Burrock 2
 - **Role:** Brawler
@@ -29,4 +30,5 @@
   - CASE
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5694/burrock-2)
 - **Battle Value:** 2864
+- [*More Info*](burrock/burrock_2.md)
 

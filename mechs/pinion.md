@@ -13,6 +13,7 @@
   - Micro Pulse Laser × 4
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4829/pinion-standard)
 - **Battle Value:** 1646
+- [*More Info*](pinion/pinion_standard.md)
 
 ## Pinion 2
 - **Role:** Brawler
@@ -28,6 +29,7 @@
   - Small Pulse Laser × 2
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4830/pinion-2)
 - **Battle Value:** 1657
+- [*More Info*](pinion/pinion_2.md)
 
 ## Pinion 3
 - **Role:** Brawler
@@ -41,4 +43,5 @@
   - Heavy Large Laser × 2
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5675/pinion-3)
 - **Battle Value:** 1611
+- [*More Info*](pinion/pinion_3.md)
 

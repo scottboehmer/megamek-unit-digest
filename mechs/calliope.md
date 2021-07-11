@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6457/calliope-cal-1maf)
 - **Battle Value:** 1125
+- [*More Info*](calliope/calliope_cal-1maf.md)
 
 ## Calliope CAL-1MAFSW 'Snow White'
 - **Role:** Undefined
@@ -30,4 +31,5 @@
   - CASE
 - **Source:** XTRO Royal Fantasy
 - **Battle Value:** 1481
+- [*More Info*](calliope/calliope_cal-1mafsw_'snow_white'.md)
 

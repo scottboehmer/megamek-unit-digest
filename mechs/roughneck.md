@@ -14,6 +14,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1154
+- [*More Info*](roughneck/roughneck_rgh-1a.md)
 
 ## Roughneck RGH-1B
 - **Role:** Undefined
@@ -30,6 +31,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1179
+- [*More Info*](roughneck/roughneck_rgh-1b.md)
 
 ## Roughneck RGH-1C
 - **Role:** Undefined
@@ -46,6 +48,7 @@
 - **Equipment:**
   - CASE
 - **Battle Value:** 1285
+- [*More Info*](roughneck/roughneck_rgh-1c.md)
 
 ## Roughneck RGH-2A
 - **Role:** Undefined
@@ -59,6 +62,7 @@
   - SRM 4 (ammo: 75)
   - AC/2 × 3 (ammo: 135)
 - **Battle Value:** 1054
+- [*More Info*](roughneck/roughneck_rgh-2a.md)
 
 ## Roughneck RGH-3A
 - **Role:** Undefined
@@ -72,6 +76,7 @@
   - Medium Laser × 4
   - Small Laser
 - **Battle Value:** 1509
+- [*More Info*](roughneck/roughneck_rgh-3a.md)
 
 ## Roughneck RGH-R Reaver
 - **Role:** Undefined
@@ -86,6 +91,7 @@
   - Medium Laser × 2
   - Streak SRM 2 (ammo: 50)
 - **Battle Value:** 1426
+- [*More Info*](roughneck/roughneck_rgh-r_reaver.md)
 
 ## Roughneck RGH-PH Powerhouse
 - **Role:** Undefined
@@ -100,4 +106,5 @@
   - MRM 10 (ammo: 24)
   - Medium Pulse Laser × 2
 - **Battle Value:** 1250
+- [*More Info*](roughneck/roughneck_rgh-ph_powerhouse.md)
 

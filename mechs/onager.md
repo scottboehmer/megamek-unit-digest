@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2319/onager-standard)
 - **Battle Value:** 2732
+- [*More Info*](onager/onager_standard.md)
 
 ## Onager 2
 - **Role:** Sniper
@@ -37,4 +38,5 @@
   - HarJel II × 3
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6847/onager-2)
 - **Battle Value:** 2847
+- [*More Info*](onager/onager_2.md)
 

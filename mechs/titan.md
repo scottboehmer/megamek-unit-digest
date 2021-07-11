@@ -13,6 +13,7 @@
   - SRM 4 × 4 (ammo: 50)
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/3257/titan-ti-1a)
 - **Battle Value:** 1959
+- [*More Info*](titan/titan_ti-1a.md)
 
 ## Titan TI-1Aj
 - **Role:** Juggernaut
@@ -30,6 +31,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6827/titan-ti-1aj)
 - **Battle Value:** 2328
+- [*More Info*](titan/titan_ti-1aj.md)
 
 ## Titan TI-1Ar
 - **Role:** Juggernaut
@@ -46,4 +48,5 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6826/titan-ti-1ar)
 - **Battle Value:** 2165
+- [*More Info*](titan/titan_ti-1ar.md)
 

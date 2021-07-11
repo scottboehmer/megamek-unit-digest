@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/661/colossus-cl-p3)
 - **Battle Value:** 1988
+- [*More Info*](colossus/colossus_cl-p3.md)
 
 ## Colossus CLS-4S
 - **Role:** Juggernaut
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/662/colossus-cls-4s)
 - **Battle Value:** 2392
+- [*More Info*](colossus/colossus_cls-4s.md)
 
 ## Colossus CLS-5S
 - **Role:** Sniper
@@ -52,4 +54,5 @@
   - CASE
 - **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/663/colossus-cls-5s)
 - **Battle Value:** 2647
+- [*More Info*](colossus/colossus_cls-5s.md)
 

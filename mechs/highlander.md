@@ -16,6 +16,7 @@
   - CASE
 - **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1514/highlander-hgn-732)
 - **Battle Value:** 2227
+- [*More Info*](highlander/highlander_hgn-732.md)
 
 ## Highlander HGN-732b
 - **Role:** Missile Boat
@@ -34,6 +35,7 @@
   - CASE
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1516/highlander-hgn-732b)
 - **Battle Value:** 2335
+- [*More Info*](highlander/highlander_hgn-732b.md)
 
 ## Highlander HGN-732 (Colleen)
 - **Role:** Juggernaut
@@ -52,6 +54,7 @@
   - CASE
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4323/highlander-hgn-732-colleen)
 - **Battle Value:** 2150
+- [*More Info*](highlander/highlander_hgn-732_colleen.md)
 
 ## Highlander HGN-732 (Jorgensson)
 - **Role:** Sniper
@@ -69,6 +72,7 @@
   - CASE
 - **Sources:** OTP Widowmaker, [Master Unit List](http://masterunitlist.info/Unit/Details/7309/highlander-hgn-732-jorgensson)
 - **Battle Value:** 2481
+- [*More Info*](highlander/highlander_hgn-732_jorgensson.md)
 
 ## Highlander HGN-733
 - **Role:** Juggernaut
@@ -85,6 +89,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1517/highlander-hgn-733)
 - **Battle Value:** 1801
+- [*More Info*](highlander/highlander_hgn-733.md)
 
 ## Highlander HGN-733C
 - **Role:** Juggernaut
@@ -101,6 +106,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1518/highlander-hgn-733c)
 - **Battle Value:** 1857
+- [*More Info*](highlander/highlander_hgn-733c.md)
 
 ## Highlander HGN-733P
 - **Role:** Sniper
@@ -117,6 +123,7 @@
   - Medium Laser × 2
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1519/highlander-hgn-733p)
 - **Battle Value:** 1865
+- [*More Info*](highlander/highlander_hgn-733p.md)
 
 ## Highlander HGN-736
 - **Role:** Sniper
@@ -136,6 +143,7 @@
   - C3i
 - **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1521/highlander-hgn-736)
 - **Battle Value:** 2255
+- [*More Info*](highlander/highlander_hgn-736.md)
 
 ## Highlander HGN-694
 - **Role:** Juggernaut
@@ -152,6 +160,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5493/highlander-hgn-694)
 - **Battle Value:** 2358
+- [*More Info*](highlander/highlander_hgn-694.md)
 
 ## Highlander HGN-734
 - **Role:** Juggernaut
@@ -171,6 +180,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1520/highlander-hgn-734)
 - **Battle Value:** 2214
+- [*More Info*](highlander/highlander_hgn-734.md)
 
 ## Highlander HGN-738
 - **Role:** Juggernaut
@@ -190,6 +200,7 @@
   - CASE
 - **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1522/highlander-hgn-738)
 - **Battle Value:** 2413
+- [*More Info*](highlander/highlander_hgn-738.md)
 
 ## Highlander HGN-641-X-2
 - **Role:** Juggernaut
@@ -210,6 +221,7 @@
   - C3 Slave
 - **Sources:** XTRO ComStar - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5552/highlander-hgn-641-x-2)
 - **Battle Value:** 2152
+- [*More Info*](highlander/highlander_hgn-641-x-2.md)
 
 ## Highlander HGN-740
 - **Role:** Sniper
@@ -229,4 +241,5 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7733/highlander-hgn-740)
 - **Battle Value:** 2232
+- [*More Info*](highlander/highlander_hgn-740.md)
 

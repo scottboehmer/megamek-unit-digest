@@ -15,6 +15,7 @@
   - Cargo
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/868/demolitionmech-wi-dm)
 - **Battle Value:** 380
+- [*More Info*](demolitionmech/demolitionmech_wi-dm.md)
 
 ## DemolitionMech WI-DM2
 - **Role:** Juggernaut
@@ -30,6 +31,7 @@
   - Cargo
 - **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/869/demolitionmech-wi-dm2)
 - **Battle Value:** 350
+- [*More Info*](demolitionmech/demolitionmech_wi-dm2.md)
 
 ## DemolitionMech WI-DMM MOD
 - **Role:** Ambusher
@@ -44,4 +46,5 @@
   - Wrecking Ball
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7839/demolitionmech-wi-dmm-mod)
 - **Battle Value:** 444
+- [*More Info*](demolitionmech/demolitionmech_wi-dmm_mod.md)
 

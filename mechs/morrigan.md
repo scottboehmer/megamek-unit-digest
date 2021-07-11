@@ -15,6 +15,7 @@
   - Targeting Computer
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2231/morrigan-standard)
 - **Battle Value:** 1523
+- [*More Info*](morrigan/morrigan_standard.md)
 
 ## Morrigan 2
 - **Role:** Striker
@@ -32,6 +33,7 @@
   - Targeting Computer
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2229/morrigan-2)
 - **Battle Value:** 1874
+- [*More Info*](morrigan/morrigan_2.md)
 
 ## Morrigan 3
 - **Role:** Striker
@@ -49,6 +51,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2230/morrigan-3)
 - **Battle Value:** 1390
+- [*More Info*](morrigan/morrigan_3.md)
 
 ## Morrigan 4
 - **Role:** Striker
@@ -64,6 +67,7 @@
   - CASE
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6927/morrigan-4)
 - **Battle Value:** 2063
+- [*More Info*](morrigan/morrigan_4.md)
 
 ## Morrigan 5
 - **Role:** Sniper
@@ -80,4 +84,5 @@
   - Targeting Computer
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6926/morrigan-5)
 - **Battle Value:** 1904
+- [*More Info*](morrigan/morrigan_5.md)
 

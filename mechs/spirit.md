@@ -17,6 +17,7 @@
   - CASE
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5108/spirit-standard)
 - **Battle Value:** 1673
+- [*More Info*](spirit/spirit_standard.md)
 
 ## Spirit 2
 - **Role:** Striker
@@ -33,4 +34,5 @@
   - Targeting Computer
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5665/spirit-2)
 - **Battle Value:** 1773
+- [*More Info*](spirit/spirit_2.md)
 

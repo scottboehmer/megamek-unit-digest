@@ -18,6 +18,7 @@
   - Supercharger
 - **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6564/jade-hawk-jhk-03)
 - **Battle Value:** 2160
+- [*More Info*](jade_hawk/jade_hawk_jhk-03.md)
 
 ## Jade Hawk JHK-04
 - **Role:** Missile Boat
@@ -35,6 +36,7 @@
   - CASE
 - **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6565/jade-hawk-jhk-04)
 - **Battle Value:** 2102
+- [*More Info*](jade_hawk/jade_hawk_jhk-04.md)
 
 ## Jade Hawk (Standard)
 - **Role:** Skirmisher
@@ -54,6 +56,7 @@
   - Supercharger
 - **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6566/jade-hawk-standard)
 - **Battle Value:** 2523
+- [*More Info*](jade_hawk/jade_hawk_standard.md)
 
 ## Jade Hawk 2
 - **Role:** Skirmisher
@@ -70,6 +73,7 @@
   - CASE
 - **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6567/jade-hawk-2)
 - **Battle Value:** 2455
+- [*More Info*](jade_hawk/jade_hawk_2.md)
 
 ## Jade Hawk 3
 - **Role:** Skirmisher
@@ -87,4 +91,5 @@
   - CASE
 - **Sources:** TRO 3145 Mercenaries - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6568/jade-hawk-3)
 - **Battle Value:** 2498
+- [*More Info*](jade_hawk/jade_hawk_3.md)
 

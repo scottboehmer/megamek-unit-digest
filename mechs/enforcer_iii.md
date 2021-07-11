@@ -13,6 +13,7 @@
   - ER Small Laser
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m)
 - **Battle Value:** 1460
+- [*More Info*](enforcer_iii/enforcer_iii_enf-6m.md)
 
 ## Enforcer III ENF-6G
 - **Role:** Skirmisher
@@ -29,6 +30,7 @@
   - ER Small Laser
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/980/enforcer-iii-enf-6g)
 - **Battle Value:** 1858
+- [*More Info*](enforcer_iii/enforcer_iii_enf-6g.md)
 
 ## Enforcer III ENF-6T
 - **Role:** Sniper
@@ -45,6 +47,7 @@
   - Targeting Computer
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/985/enforcer-iii-enf-6t)
 - **Battle Value:** 1720
+- [*More Info*](enforcer_iii/enforcer_iii_enf-6t.md)
 
 ## Enforcer III ENF-6H
 - **Role:** Skirmisher
@@ -61,6 +64,7 @@
   - CASE
 - **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h)
 - **Battle Value:** 1603
+- [*More Info*](enforcer_iii/enforcer_iii_enf-6h.md)
 
 ## Enforcer III ENF-6Ma
 - **Role:** Skirmisher
@@ -76,6 +80,7 @@
   - ER Small Laser
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma)
 - **Battle Value:** 1275
+- [*More Info*](enforcer_iii/enforcer_iii_enf-6ma.md)
 
 ## Enforcer III ENF-6NAIS
 - **Role:** Skirmisher
@@ -95,6 +100,7 @@
   - C3 Slave
 - **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais)
 - **Battle Value:** 1475
+- [*More Info*](enforcer_iii/enforcer_iii_enf-6nais.md)
 
 ## Enforcer III ENF-7X MUSE COMPACT
 - **Role:** Striker
@@ -109,6 +115,7 @@
   - Blazer Cannon × 2
 - **Sources:** XTRO Davion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/987/enforcer-iii-enf-7x-muse-compact)
 - **Battle Value:** 1670
+- [*More Info*](enforcer_iii/enforcer_iii_enf-7x_muse_compact.md)
 
 ## Enforcer III ENF-7C3BS
 - **Role:** Sniper
@@ -127,6 +134,7 @@
   - C3 Boosted Slave
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs)
 - **Battle Value:** 1687
+- [*More Info*](enforcer_iii/enforcer_iii_enf-7c3bs.md)
 
 ## Enforcer III ENF-7D
 - **Role:** Sniper
@@ -145,4 +153,5 @@
   - CASE II
 - **Sources:** XTRO Republic I - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d)
 - **Battle Value:** 1495
+- [*More Info*](enforcer_iii/enforcer_iii_enf-7d.md)
 

@@ -14,6 +14,7 @@
   - CASE
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7734/crucible-standard)
 - **Battle Value:** 3108
+- [*More Info*](crucible/crucible_standard.md)
 
 ## Crucible 2
 - **Role:** Sniper
@@ -32,6 +33,7 @@
   - Inner Sphere Coolant Pod
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7735/crucible-2)
 - **Battle Value:** 3598
+- [*More Info*](crucible/crucible_2.md)
 
 ## Crucible 3
 - **Role:** Sniper
@@ -49,4 +51,5 @@
   - CASE II
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7736/crucible-3)
 - **Battle Value:** 3230
+- [*More Info*](crucible/crucible_3.md)
 

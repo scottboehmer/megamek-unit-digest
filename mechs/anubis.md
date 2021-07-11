@@ -13,6 +13,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3702/anubis-abs-3l)
 - **Battle Value:** 951
+- [*More Info*](anubis/anubis_abs-3l.md)
 
 ## Anubis ABS-3R
 - **Role:** Missile Boat
@@ -30,6 +31,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3703/anubis-abs-3r)
 - **Battle Value:** 970
+- [*More Info*](anubis/anubis_abs-3r.md)
 
 ## Anubis ABS-3T
 - **Role:** Striker
@@ -46,6 +48,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3704/anubis-abs-3t)
 - **Battle Value:** 1150
+- [*More Info*](anubis/anubis_abs-3t.md)
 
 ## Anubis ABS-3MC
 - **Role:** Missile Boat
@@ -61,6 +64,7 @@
   - Angel ECM Suite
 - **Sources:** XTRO Periphery - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5562/anubis-abs-3mc)
 - **Battle Value:** 1074
+- [*More Info*](anubis/anubis_abs-3mc.md)
 
 ## Anubis ABS-4C
 - **Role:** Missile Boat
@@ -76,6 +80,7 @@
   - Guardian ECM Suite
 - **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5656/anubis-abs-4c)
 - **Battle Value:** 833
+- [*More Info*](anubis/anubis_abs-4c.md)
 
 ## Anubis ABS-5Y
 - **Role:** Missile Boat
@@ -91,6 +96,7 @@
   - Guardian ECM Suite
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6453/anubis-abs-5y)
 - **Battle Value:** 1042
+- [*More Info*](anubis/anubis_abs-5y.md)
 
 ## Anubis ABS-5Z
 - **Role:** Striker
@@ -107,4 +113,5 @@
   - TAG
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6454/anubis-abs-5z)
 - **Battle Value:** 1066
+- [*More Info*](anubis/anubis_abs-5z.md)
 

@@ -15,6 +15,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard)
 - **Battle Value:** 2064
+- [*More Info*](shadow_cat_ii/shadow_cat_ii_standard.md)
 
 ## Shadow Cat II 2
 - **Role:** Skirmisher
@@ -33,6 +34,7 @@
   - CASE
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2893/shadow-cat-ii-2)
 - **Battle Value:** 2106
+- [*More Info*](shadow_cat_ii/shadow_cat_ii_2.md)
 
 ## Shadow Cat II 3
 - **Role:** Skirmisher
@@ -50,6 +52,7 @@
   - CASE
 - **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6886/shadow-cat-ii-3)
 - **Battle Value:** 2387
+- [*More Info*](shadow_cat_ii/shadow_cat_ii_3.md)
 
 ## Shadow Cat II 4
 - **Role:** Sniper
@@ -66,4 +69,5 @@
   - CASE
 - **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6885/shadow-cat-ii-4)
 - **Battle Value:** 1986
+- [*More Info*](shadow_cat_ii/shadow_cat_ii_4.md)
 
