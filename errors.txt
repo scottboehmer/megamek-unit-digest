@@ -1,6 +1,4 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
-Invalid design in file 'Black Lanner G.mtf': Design is overweight by 1.00 tons
-Invalid design in file 'Crossbow T.mtf': Design is overweight by 3.50 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
 
 --------------------------------------------------
@@ -129,4 +127,4 @@ Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
 
 --------------------------------------------------
-3822 mtf files -> 3822 parsed files -> 3821 converted files -> 3818 validated mechs
+3822 mtf files -> 3822 parsed files -> 3821 converted files -> 3820 validated mechs

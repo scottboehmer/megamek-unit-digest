@@ -168,7 +168,7 @@
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 7 / 11 (14), XL
 - **Armor:** 153 (Ferro Fibrous)
-- **Heat Sinks:** 11 (24)
+- **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER Large Pulse Laser
   - LRM 5 × 4 (ammo: 48)
