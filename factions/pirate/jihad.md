@@ -87,7 +87,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -124,7 +124,7 @@
 - [**Assassin ASN-21**](../../mechs/assassin/assassin_asn-21.md) *Scout (2676)*
 
 ### [Daimyo](../../mechs/daimyo.md)
-- [**Daimyo DMO-1K2 (Al-Shahab)**](../../mechs/daimyo/daimyo_dmo-1k2_al-shahab.md) *Undefined (3066)* `Unique`
+- [**Daimyo DMO-1K2 (Al-Shahab)**](../../mechs/daimyo/daimyo_dmo-1k2_al-shahab.md) *Brawler (3066)* `Unique`
 
 ### [Hermes II](../../mechs/hermes_ii.md)
 - [**Hermes II HER-5S**](../../mechs/hermes_ii/hermes_ii_her-5s.md) *Striker (3050)*
@@ -153,7 +153,7 @@
 ### [Phoenix Hawk](../../mechs/phoenix_hawk.md)
 - [**Phoenix Hawk PXH-1**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)*
 - [**Phoenix Hawk PXH-1D**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1d.md) *Skirmisher (2586)*
-- [**Phoenix Hawk PXH-3D (Jiemin)**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) *Undefined (3065)* `Unique`
+- [**Phoenix Hawk PXH-3D (Jiemin)**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) *Striker (3065)* `Unique`
 
 ### [Quasit](../../mechs/quasit.md)
 - [**Quasit QUA-51T MilitiaMech**](../../mechs/quasit/quasit_qua-51t_militiamech.md) *Brawler (2517)* `IndustrialMech`
@@ -196,7 +196,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 
 ### [Cronus](../../mechs/cronus.md)
 - [**Cronus CNS-3M**](../../mechs/cronus/cronus_cns-3m.md) *Skirmisher (3031)*
@@ -306,7 +306,7 @@
 ### [Marauder](../../mechs/marauder.md)
 - [**Marauder MAD-3R**](../../mechs/marauder/marauder_mad-3r.md) *Sniper (2819)*
 - [**Marauder MAD-3M**](../../mechs/marauder/marauder_mad-3m.md) *Brawler (2873)*
-- [**Marauder MAD-7D (Von Staskov)**](../../mechs/marauder/marauder_mad-7d_von_staskov.md) *Undefined (3070)* `Unique`
+- [**Marauder MAD-7D (Von Staskov)**](../../mechs/marauder/marauder_mad-7d_von_staskov.md) *Skirmisher (3070)* `Unique`
 
 ### [Orion](../../mechs/orion.md)
 - [**Orion ON1-K**](../../mechs/orion/orion_on1-k.md) *Brawler (2525)*

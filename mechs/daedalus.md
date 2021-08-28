@@ -133,7 +133,7 @@
 - [*More Info*](daedalus/daedalus_dad-4b.md)
 
 ## Daedalus DAD-DX
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3097)
 - **Chassis:** 45 tons (Endo Composite)
 - **Movement:** 6 / 9 (12), XXL

@@ -281,7 +281,7 @@
 
 ### [Phoenix Hawk](../../mechs/phoenix_hawk.md)
 - [**Phoenix Hawk PXH-4L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM`, `Stealth`
-- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Brawler (3069)* `ECM`, `Stealth`
+- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Skirmisher (3069)* `ECM`, `Stealth`
 - [**Phoenix Hawk PXH-4W**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4w.md) *Striker (3079)* `ECM`
 - [**Phoenix Hawk PXH-4M**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)*
 
@@ -363,7 +363,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 
 ### [Cronus](../../mechs/cronus.md)
 - [**Cronus CNS-3M**](../../mechs/cronus/cronus_cns-3m.md) *Skirmisher (3031)*
@@ -389,7 +389,7 @@
 - [**Marshal MHL-X1**](../../mechs/marshal/marshal_mhl-x1.md) *Skirmisher (3059)*
 - [**Marshal MHL-2L**](../../mechs/marshal/marshal_mhl-2l.md) *Skirmisher (3063)*
 - [**Marshal MHL-6MC**](../../mechs/marshal/marshal_mhl-6mc.md) *Skirmisher (3073)*
-- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Undefined (3086)*
+- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)*
 - [**Marshal MHL-3MC**](../../mechs/marshal/marshal_mhl-3mc.md) *Brawler (3119)*
 
 ### [Men Shen](../../mechs/men_shen.md)
@@ -410,7 +410,7 @@
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
 - [**Shadow Hawk SHD-7M**](../../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 - [**Shadow Hawk SHD-4H**](../../mechs/shadow_hawk/shadow_hawk_shd-4h.md) *Sniper (3101)*
 
@@ -433,9 +433,9 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
-- [**Lupus C**](../../mechs/lupus/lupus_c.md) *Brawler (3147)*
+- [**Lupus C**](../../mechs/lupus/lupus_c.md) *Skirmisher (3147)*
 - [**Lupus D**](../../mechs/lupus/lupus_d.md) *Brawler (3147)*
 
 ### [Merlin](../../mechs/merlin.md)

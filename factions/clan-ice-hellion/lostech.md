@@ -35,7 +35,7 @@
 ### [Mongoose](../../mechs/mongoose.md)
 - [**Mongoose MON-66**](../../mechs/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe`
 - [**Mongoose MON-66b**](../../mechs/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe`
-- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Striker (2833)* `Active Probe`
+- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Scout (2833)* `Active Probe`
 
 ## 30 Tons
 
@@ -47,9 +47,6 @@
 
 ### [Devil](../../mechs/devil.md)
 - [**Devil (Standard)**](../../mechs/devil/devil_standard.md) *Sniper (2911)*
-
-### [Drift Shag](../../mechs/drift_shag.md)
-- [**Drift Shag**](../../mechs/drift_shag/drift_shag.md) *Undefined (2827)*
 
 ### [Hermes](../../mechs/hermes.md)
 - [**Hermes HER-1S**](../../mechs/hermes/hermes_her-1s.md) *Scout (2632)*
@@ -159,12 +156,12 @@
 
 ### [Lancelot](../../mechs/lancelot.md)
 - [**Lancelot LNC25-01**](../../mechs/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)*
-- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Sniper (2832)*
-- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Sniper (2857)*
+- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Skirmisher (2832)*
+- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Skirmisher (2857)*
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)

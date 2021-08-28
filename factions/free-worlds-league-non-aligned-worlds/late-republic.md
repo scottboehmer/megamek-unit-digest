@@ -123,7 +123,7 @@
 
 ### [Valkyrie](../../mechs/valkyrie.md)
 - [**Valkyrie VLK-QD4**](../../mechs/valkyrie/valkyrie_vlk-qd4.md) *Striker (3085)*
-- [**Valkyrie VLK-QD5**](../../mechs/valkyrie/valkyrie_vlk-qd5.md) *Undefined (3101)*
+- [**Valkyrie VLK-QD5**](../../mechs/valkyrie/valkyrie_vlk-qd5.md) *Missile Boat (3101)*
 
 ## 35 Tons
 
@@ -263,13 +263,13 @@
 - [**Mad Cat III 5**](../../mechs/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)*
 
 ### [Scorpion](../../mechs/scorpion.md)
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
 - [**Shadow Hawk SHD-7M**](../../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ### [Wolverine](../../mechs/wolverine.md)

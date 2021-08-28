@@ -21,9 +21,9 @@
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
 - [**Locust LCT-1M**](../../mechs/locust/locust_lct-1m.md) *Missile Boat (2571)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
 - [**Locust LCT-3D**](../../mechs/locust/locust_lct-3d.md) *Missile Boat (3049)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 
 ### [Stinger](../../mechs/stinger.md)
@@ -92,7 +92,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 - [**Javelin JVN-10P**](../../mechs/javelin/javelin_jvn-10p.md) *Striker (3049)*
 - [**Javelin JVN-11A 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-11a_'fire_javelin'.md) *Striker (3053)*
@@ -351,7 +351,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 - [**Centurion CN10-W**](../../mechs/centurion/centurion_cn10-w.md) *Sniper (3057)*
 
 ### [Dervish](../../mechs/dervish.md)
@@ -373,7 +373,7 @@
 
 ### [Scorpion](../../mechs/scorpion.md)
 - [**Scorpion SCP-1N**](../../mechs/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)*
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
@@ -384,7 +384,7 @@
 
 ### [Wolverine](../../mechs/wolverine.md)
 - [**Wolverine WVR-6R**](../../mechs/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)*
-- [**Wolverine WVR-6D**](../../mechs/wolverine/wolverine_wvr-6d.md) *Undefined (2834)*
+- [**Wolverine WVR-6D**](../../mechs/wolverine/wolverine_wvr-6d.md) *Skirmisher (2834)*
 - [**Wolverine WVR-7D**](../../mechs/wolverine/wolverine_wvr-7d.md) *Skirmisher (3050)*
 
 ## 60 Tons
@@ -476,11 +476,11 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
-- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Undefined (2821)*
+- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 - [**Thunderbolt TDR-5S-T (Tallman)**](../../mechs/thunderbolt/thunderbolt_tdr-5s-t_tallman.md) *Brawler (3025)* `Unique`
 - [**Thunderbolt TDR-7M**](../../mechs/thunderbolt/thunderbolt_tdr-7m.md) *Brawler (3049)*
 - [**Thunderbolt TDR-9SE**](../../mechs/thunderbolt/thunderbolt_tdr-9se.md) *Skirmisher (3049)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
 - [**Thunderbolt TDR-9S**](../../mechs/thunderbolt/thunderbolt_tdr-9s.md) *Brawler (3050)*
 
 ### [Wildfire](../../mechs/wildfire.md)
@@ -633,7 +633,7 @@
 
 ### [Zeus](../../mechs/zeus.md)
 - [**Zeus ZEU-6S**](../../mechs/zeus/zeus_zeu-6s.md) *Sniper (2898)*
-- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Undefined (2940)*
+- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Brawler (2940)*
 - [**Zeus ZEU-6T**](../../mechs/zeus/zeus_zeu-6t.md) *Sniper (3026)*
 - [**Zeus ZEU-9S**](../../mechs/zeus/zeus_zeu-9s.md) *Sniper (3048)*
 

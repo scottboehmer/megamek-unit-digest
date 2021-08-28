@@ -1,6 +1,6 @@
 # Masauwu
-## Masauwu
-- **Role:** Undefined
+## Masauwu (Standard)
+- **Role:** Brawler
 - **Tech Base:** Clan (2832)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6, XL
@@ -16,7 +16,7 @@
   - ECM Suite
   - Anti-Missile System (ammo: 24)
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7642/masauwu-standard)
+- **Source:** Succession Wars
 - **Battle Value:** 2299
-- [*More Info*](masauwu/masauwu.md)
+- [*More Info*](masauwu/masauwu_standard.md)
 

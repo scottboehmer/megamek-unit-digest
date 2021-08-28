@@ -28,8 +28,8 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 - [**Locust LCT-5M**](../../mechs/locust/locust_lct-5m.md) *Striker (3066)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
@@ -148,7 +148,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Nyx](../../mechs/nyx.md)
@@ -537,7 +537,7 @@
 - [**Osprey OSP-25**](../../mechs/osprey/osprey_osp-25.md) *Sniper (3074)*
 
 ### [Scorpion](../../mechs/scorpion.md)
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 - [**Scorpion SCP-12K**](../../mechs/scorpion/scorpion_scp-12k.md) *Missile Boat (3071)* `C3 Master`, `TAG`
 - [**Scorpion SCP-10M**](../../mechs/scorpion/scorpion_scp-10m.md) *Sniper (3080)*
 
@@ -554,7 +554,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow I**](../../mechs/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe`
@@ -720,7 +720,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`
@@ -753,14 +753,14 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 - [**Thunderbolt TDR-7M**](../../mechs/thunderbolt/thunderbolt_tdr-7m.md) *Brawler (3049)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
 - [**Thunderbolt TDR-60-RLA**](../../mechs/thunderbolt/thunderbolt_tdr-60-rla.md) *Skirmisher (3072)*
 
 ## 70 Tons
 
 ### [Archer](../../mechs/archer.md)
-- [**Archer ARC-1A**](../../mechs/archer/archer_arc-1a.md) *Undefined (2458)*
+- [**Archer ARC-1A**](../../mechs/archer/archer_arc-1a.md) *Missile Boat (2458)*
 - [**Archer ARC-2R**](../../mechs/archer/archer_arc-2r.md) *Missile Boat (2474)*
 - [**Archer ARC-2K**](../../mechs/archer/archer_arc-2k.md) *Missile Boat (2856)*
 - [**Archer ARC-4M**](../../mechs/archer/archer_arc-4m.md) *Missile Boat (3049)*

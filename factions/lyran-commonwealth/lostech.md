@@ -40,7 +40,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -268,7 +268,7 @@
 ### [Zeus](../../mechs/zeus.md)
 - [**Zeus ZEU-6S**](../../mechs/zeus/zeus_zeu-6s.md) *Sniper (2898)*
 - [**Zeus ZEU-6Y**](../../mechs/zeus/zeus_zeu-6y.md) *Sniper (2922)*
-- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Undefined (2940)*
+- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Brawler (2940)*
 
 ## 85 Tons
 

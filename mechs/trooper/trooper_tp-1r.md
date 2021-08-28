@@ -3,7 +3,7 @@
 [Other Trooper variants](../trooper.md)
 
 ## Trooper TP-1R
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (2475)
 - **Chassis:** 20 tons
 - **Movement:** 7 / 11

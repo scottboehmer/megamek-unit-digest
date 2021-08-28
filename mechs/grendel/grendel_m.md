@@ -3,7 +3,7 @@
 [Other Grendel variants](../grendel.md)
 
 ## Grendel "Mongrel" M
-- **Role:** Sniper
+- **Role:** Striker
 - **Tech Base:** Clan (3086)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11, XL

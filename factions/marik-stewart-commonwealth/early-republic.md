@@ -381,7 +381,7 @@
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
 - [**Shadow Hawk SHD-7M**](../../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 
 ### [Wolverine](../../mechs/wolverine.md)
 - [**Wolverine WVR-6R**](../../mechs/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)*

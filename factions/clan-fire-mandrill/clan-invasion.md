@@ -15,7 +15,7 @@
 - [**Howler (Standard)**](../../mechs/howler/howler_standard.md) *Missile Boat (2871)*
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Piranha](../../mechs/piranha.md)
 - [**Piranha (Standard)**](../../mechs/piranha/piranha_standard.md) *Striker (3051)*

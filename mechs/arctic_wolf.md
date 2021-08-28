@@ -50,7 +50,7 @@
 - [*More Info*](arctic_wolf/arctic_wolf_prime.md)
 
 ## Arctic Wolf A
-- **Role:** Missile Boat
+- **Role:** Undefined
 - **Tech Base:** Clan (3067)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -68,7 +68,7 @@
 - [*More Info*](arctic_wolf/arctic_wolf_a.md)
 
 ## Arctic Wolf J
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

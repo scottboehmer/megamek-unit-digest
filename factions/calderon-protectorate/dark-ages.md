@@ -265,7 +265,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 - [**Centurion CN10-D**](../../mechs/centurion/centurion_cn10-d.md) *Sniper (3121)*
 
 ### [Cronus](../../mechs/cronus.md)
@@ -289,13 +289,13 @@
 ### [Marshal](../../mechs/marshal.md)
 - [**Marshal MHL-X1**](../../mechs/marshal/marshal_mhl-x1.md) *Skirmisher (3059)*
 - [**Marshal MHL-2L**](../../mechs/marshal/marshal_mhl-2l.md) *Skirmisher (3063)*
-- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Undefined (3086)*
+- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
 - [**Shadow Hawk SHD-7M**](../../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ## 60 Tons

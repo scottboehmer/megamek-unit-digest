@@ -20,7 +20,7 @@
 
 ### [Wasp](../mechs/wasp.md)
 - [**Wasp WSP-3P**](../mechs/wasp/wasp_wsp-3p.md) *Scout (3086)*
-- [**Wasp WSP-3X**](../mechs/wasp/wasp_wsp-3x.md) *Undefined (3088)* `Unique`
+- [**Wasp WSP-3X**](../mechs/wasp/wasp_wsp-3x.md) *Missile Boat (3088)* `Unique`
 
 ## 25 Tons
 
@@ -33,7 +33,7 @@
 - [**Koshi (Standard) 3**](../mechs/koshi/koshi_standard_3.md) *Scout (3095)* `Active Probe`, `ECM`, `TAG`
 
 ### [Mist Lynx](../mechs/mist_lynx.md)
-- [**Mist Lynx I**](../mechs/mist_lynx/mist_lynx_i.md) *Undefined (3086)* `Active Probe`
+- [**Mist Lynx I**](../mechs/mist_lynx/mist_lynx_i.md) *Striker (3086)* `Active Probe`
 
 ## 30 Tons
 
@@ -115,7 +115,7 @@
 - [**Beowulf IIC PR**](../mechs/beowulf_iic/beowulf_iic_pr.md) *Striker (3086)* `Active Probe`, `C3i`, `ECM`
 
 ### [Daedalus](../mechs/daedalus.md)
-- [**Daedalus DAD-DX**](../mechs/daedalus/daedalus_dad-dx.md) *Undefined (3097)* `Unique`
+- [**Daedalus DAD-DX**](../mechs/daedalus/daedalus_dad-dx.md) *Striker (3097)* `Unique`
 
 ### [Goshawk II](../mechs/goshawk_ii.md)
 - [**Goshawk II (Standard)**](../mechs/goshawk_ii/goshawk_ii_standard.md) *Striker (3086)* `ECM`
@@ -123,7 +123,7 @@
 - [**Goshawk II 3**](../mechs/goshawk_ii/goshawk_ii_3.md) *Striker (3086)*
 
 ### [Grendel](../mechs/grendel.md)
-- [**Grendel M**](../mechs/grendel/grendel_m.md) *Sniper (3086)*
+- [**Grendel M**](../mechs/grendel/grendel_m.md) *Striker (3086)*
 - [**Grendel G**](../mechs/grendel/grendel_g.md) *Scout (3090)* `Active Probe`, `ECM`
 
 ### [Ice Ferret](../mechs/ice_ferret.md)
@@ -143,7 +143,7 @@
 ## 50 Tons
 
 ### [Aquagladius](../mechs/aquagladius.md)
-- [**Aquagladius AQS-5 MAM**](../mechs/aquagladius/aquagladius_aqs-5_mam.md) *Undefined (3090)*
+- [**Aquagladius AQS-5 MAM**](../mechs/aquagladius/aquagladius_aqs-5_mam.md) *Skirmisher (3090)*
 
 ### [Black Hawk](../mechs/black_hawk.md)
 - [**Black Hawk 2**](../mechs/black_hawk/black_hawk_2.md) *Skirmisher (3092)*
@@ -153,6 +153,10 @@
 - [**Centurion CN9-H2 MilitiaMech**](../mechs/centurion/centurion_cn9-h2_militiamech.md) *Brawler (3100)* `IndustrialMech`
 - [**Centurion CN9-H2H MilitiaMech**](../mechs/centurion/centurion_cn9-h2h_militiamech.md) *Brawler (3100)* `IndustrialMech`
 - [**Centurion CN9-H3 MilitiaMech**](../mechs/centurion/centurion_cn9-h3_militiamech.md) *Brawler (3100)* `IndustrialMech`
+
+### [Eris](../mechs/eris.md)
+- [**Eris ERS-2H**](../mechs/eris/eris_ers-2h.md) *Skirmisher (3087)*
+- [**Eris ERS-2N**](../mechs/eris/eris_ers-2n.md) *Skirmisher (3092)*
 
 ### [Gauss-Buster](../mechs/gauss-buster.md)
 - [**Gauss-Buster MilitiaMech**](../mechs/gauss-buster/gauss-buster_militiamech.md) *Undefined (3090)* `IndustrialMech`, `Unique`
@@ -201,14 +205,17 @@
 - [**Mad Cat III 5**](../mechs/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)*
 
 ### [Marshal](../mechs/marshal.md)
-- [**Marshal MHL-6FR**](../mechs/marshal/marshal_mhl-6fr.md) *Undefined (3086)*
+- [**Marshal MHL-6FR**](../mechs/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
-- [**Shadow Hawk SHD-5R**](../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ### [Sun Cobra](../mechs/sun_cobra.md)
 - [**Sun Cobra 2**](../mechs/sun_cobra/sun_cobra_2.md) *Sniper (3093)*
+
+### [Wolverine](../mechs/wolverine.md)
+- [**Wolverine WVR-9R**](../mechs/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)*
 
 ### [Yao Lien](../mechs/yao_lien.md)
 - [**Yao Lien YOL-4C**](../mechs/yao_lien/yao_lien_yol-4c.md) *Striker (3086)* `C3 Slave`, `ECM`
@@ -240,6 +247,11 @@
 ### [Catapult](../mechs/catapult.md)
 - [**Catapult CPLT-K6**](../mechs/catapult/catapult_cplt-k6.md) *Missile Boat (3086)*
 
+### [Crusader](../mechs/crusader.md)
+- [**Crusader CRD-7M**](../mechs/crusader/crusader_crd-7m.md) *Brawler (3087)*
+- [**Crusader CRD-7M2**](../mechs/crusader/crusader_crd-7m2.md) *Brawler (3088)*
+- [**Crusader CRD-8R**](../mechs/crusader/crusader_crd-8r.md) *Missile Boat (3096)*
+
 ### [Dragon II](../mechs/dragon_ii.md)
 - [**Dragon II DRG-11K**](../mechs/dragon_ii/dragon_ii_drg-11k.md) *Missile Boat (3099)*
 
@@ -252,6 +264,7 @@
 
 ### [Thunderbolt](../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-10S**](../mechs/thunderbolt/thunderbolt_tdr-10s.md) *Sniper (3086)*
+- [**Thunderbolt TDR-7S**](../mechs/thunderbolt/thunderbolt_tdr-7s.md) *Brawler (3091)*
 
 ## 70 Tons
 

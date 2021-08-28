@@ -46,7 +46,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -83,7 +83,7 @@
 - [**Cicada CDA-2A**](../../mechs/cicada/cicada_cda-2a.md) *Scout (2740)*
 
 ### [Daimyo](../../mechs/daimyo.md)
-- [**Daimyo DMO-1K2 (Al-Shahab)**](../../mechs/daimyo/daimyo_dmo-1k2_al-shahab.md) *Undefined (3066)* `Unique`
+- [**Daimyo DMO-1K2 (Al-Shahab)**](../../mechs/daimyo/daimyo_dmo-1k2_al-shahab.md) *Brawler (3066)* `Unique`
 
 ### [Hermes II](../../mechs/hermes_ii.md)
 - [**Hermes II HER-5S**](../../mechs/hermes_ii/hermes_ii_her-5s.md) *Striker (3050)*
@@ -109,7 +109,7 @@
 ### [Phoenix Hawk](../../mechs/phoenix_hawk.md)
 - [**Phoenix Hawk PXH-1**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)*
 - [**Phoenix Hawk PXH-1D**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1d.md) *Skirmisher (2586)*
-- [**Phoenix Hawk PXH-3D (Jiemin)**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) *Undefined (3065)* `Unique`
+- [**Phoenix Hawk PXH-3D (Jiemin)**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) *Striker (3065)* `Unique`
 
 ### [Quasit](../../mechs/quasit.md)
 - [**Quasit QUA-51T MilitiaMech**](../../mechs/quasit/quasit_qua-51t_militiamech.md) *Brawler (2517)* `IndustrialMech`

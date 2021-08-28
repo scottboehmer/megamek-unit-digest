@@ -146,7 +146,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
@@ -209,9 +209,6 @@
 ### [Marauder](../../mechs/marauder.md)
 - [**Marauder MAD-1R**](../../mechs/marauder/marauder_mad-1r.md) *Sniper (2612)*
 - [**Marauder MAD-2R**](../../mechs/marauder/marauder_mad-2r.md) *Sniper (2760)*
-
-### [Masauwu](../../mechs/masauwu.md)
-- [**Masauwu**](../../mechs/masauwu/masauwu.md) *Undefined (2832)* `ECM`
 
 ### [Timber Wolf](../../mechs/timber_wolf.md)
 - [**Timber Wolf Prime**](../../mechs/timber_wolf/timber_wolf_prime.md) *Brawler (2945)*

@@ -3,7 +3,7 @@
 [Other Lancelot variants](../lancelot.md)
 
 ## Lancelot C
-- **Role:** Sniper
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2832)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

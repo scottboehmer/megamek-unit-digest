@@ -28,7 +28,7 @@
 - [*More Info*](scorpion/scorpion_scp-1n_wendall.md)
 
 ## Scorpion SCP-1O
-- **Role:** Brawler
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3049)
 - **Chassis:** 55 tons Quad
 - **Movement:** 6 / 9

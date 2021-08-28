@@ -3,7 +3,7 @@
 [Other Mist Lynx variants](../mist_lynx.md)
 
 ## Mist Lynx "Koshi" I
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3086)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL

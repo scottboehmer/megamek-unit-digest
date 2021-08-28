@@ -6,7 +6,7 @@
 - [**Piranha 5**](../../mechs/piranha/piranha_5.md) *Striker (3140)*
 
 ### [Porcupine](../../mechs/porcupine.md)
-- [**Porcupine PRC-3N**](../../mechs/porcupine/porcupine_prc-3n.md) *Undefined (3132)* `Stealth`, `Unique`
+- [**Porcupine PRC-3N**](../../mechs/porcupine/porcupine_prc-3n.md) *Striker (3132)* `Stealth`, `Unique`
 
 ## 25 Tons
 
@@ -65,13 +65,13 @@
 - [**Daedalus DAD-4B**](../../mechs/daedalus/daedalus_dad-4b.md) *Striker (3067)*
 
 ### [Volkh](../../mechs/volkh.md)
-- [**Volkh VKH-68**](../../mechs/volkh/volkh_vkh-68.md) *Undefined (3133)* `Unique`
+- [**Volkh VKH-68**](../../mechs/volkh/volkh_vkh-68.md) *Striker (3133)* `Unique`
 
 ## 50 Tons
 
 ### [Aquagladius](../../mechs/aquagladius.md)
 - [**Aquagladius AQS-3**](../../mechs/aquagladius/aquagladius_aqs-3.md) *Striker (3065)*
-- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Juggernaut (3066)*
+- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Striker (3066)*
 
 ## 55 Tons
 

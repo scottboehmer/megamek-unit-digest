@@ -3,7 +3,7 @@
 [Other Inferno variants](../inferno.md)
 
 ## Inferno INF-NOB
-- **Role:** Brawler
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6

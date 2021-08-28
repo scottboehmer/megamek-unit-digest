@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2)
 - **Battle Value:** 2502
 
 ## Availability

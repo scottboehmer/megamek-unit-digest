@@ -77,10 +77,10 @@
 - [**Arctic Cheetah H**](../../mechs/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)*
 
 ### [Arctic Fox](../../mechs/arctic_fox.md)
-- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Brawler (3059)*
+- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Striker (3059)*
 - [**Arctic Fox AF1A**](../../mechs/arctic_fox/arctic_fox_af1a.md) *Striker (3059)*
-- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Brawler (3059)*
-- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Brawler (3059)*
+- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Striker (3059)*
+- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Striker (3059)*
 - [**Arctic Fox AF1D**](../../mechs/arctic_fox/arctic_fox_af1d.md) *Missile Boat (3059)*
 
 ### [Battle Hawk](../../mechs/battle_hawk.md)
@@ -372,13 +372,13 @@
 
 ### [Scorpion](../../mechs/scorpion.md)
 - [**Scorpion SCP-1N**](../../mechs/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)*
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 - [**Scorpion SCP-12S**](../../mechs/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
 - [**Shadow Hawk SHD-2K**](../../mechs/shadow_hawk/shadow_hawk_shd-2k.md) *Sniper (2803)*
-- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
+- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe`, `ECM`, `TAG`
 - [**Shadow Hawk SHD-5D**](../../mechs/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)*
 
 ### [Wolverine](../../mechs/wolverine.md)
@@ -457,7 +457,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`

@@ -7,8 +7,8 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 
 ### [Shugosha](../../mechs/shugosha.md)
@@ -89,7 +89,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Pacifier](../../mechs/pacifier.md)
@@ -120,7 +120,7 @@
 ### [Jenner](../../mechs/jenner.md)
 - [**Jenner JR7-F**](../../mechs/jenner/jenner_jr7-f.md) *Striker (2784)*
 - [**Jenner JR7-D**](../../mechs/jenner/jenner_jr7-d.md) *Striker (2785)*
-- [**Jenner JR7-F (Smith)**](../../mechs/jenner/jenner_jr7-f_smith.md) *Undefined (3030)* `Unique`
+- [**Jenner JR7-F (Smith)**](../../mechs/jenner/jenner_jr7-f_smith.md) *Striker (3030)* `Unique`
 - [**Jenner JR7-K (Grace)**](../../mechs/jenner/jenner_jr7-k_grace.md) *Scout (3039)* `Unique`
 - [**Jenner JR7-K**](../../mechs/jenner/jenner_jr7-k.md) *Striker (3047)*
 - [**Jenner JR7-C**](../../mechs/jenner/jenner_jr7-c.md) *Striker (3050)* `C3 Slave`
@@ -335,7 +335,7 @@
 
 ### [Scorpion](../../mechs/scorpion.md)
 - [**Scorpion SCP-1N**](../../mechs/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)*
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
@@ -456,8 +456,8 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 - [**Thunderbolt TDR-7M**](../../mechs/thunderbolt/thunderbolt_tdr-7m.md) *Brawler (3049)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
 
 ## 70 Tons
 

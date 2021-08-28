@@ -3,7 +3,7 @@
 [Other Mist Lynx variants](../mist_lynx.md)
 
 ## Mist Lynx "Koshi" N
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3139)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL

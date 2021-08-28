@@ -3,7 +3,7 @@
 [Other Inferno variants](../inferno.md)
 
 ## Inferno INF-NOR
-- **Role:** Missile Boat
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3146)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6

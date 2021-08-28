@@ -4,7 +4,7 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1Vb**](../../mechs/locust/locust_lct-1vb.md) *Striker (2610)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Stinger](../../mechs/stinger.md)
 - [**Stinger STG-3Gb**](../../mechs/stinger/stinger_stg-3gb.md) *Striker (2720)*
@@ -34,7 +34,7 @@
 - [**Crosscut ED-X2 ForestryMech**](../../mechs/crosscut/crosscut_ed-x2_forestrymech.md) *Ambusher (2715)* `IndustrialMech`
 
 ### [Firefly](../../mechs/firefly.md)
-- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Undefined (2679)* `TAG`
+- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Striker (2679)* `TAG`
 
 ### [Hermes](../../mechs/hermes.md)
 - [**Hermes HER-1S**](../../mechs/hermes/hermes_her-1s.md) *Scout (2632)*
@@ -105,9 +105,6 @@
 ### [Lynx](../../mechs/lynx.md)
 - [**Lynx LNX-9Q**](../../mechs/lynx/lynx_lnx-9q.md) *Skirmisher (2761)*
 
-### [Naja](../../mechs/naja.md)
-- [**Naja**](../../mechs/naja/naja.md) *Undefined (2826)*
-
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 
@@ -118,12 +115,12 @@
 
 ### [Lancelot](../../mechs/lancelot.md)
 - [**Lancelot LNC25-01**](../../mechs/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)*
-- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Sniper (2832)*
-- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Sniper (2857)*
+- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Skirmisher (2832)*
+- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Skirmisher (2857)*
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Ostroc](../../mechs/ostroc.md)
@@ -149,7 +146,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

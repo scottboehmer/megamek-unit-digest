@@ -3,7 +3,7 @@
 [Other Phoenix Hawk variants](../phoenix_hawk.md)
 
 ## Phoenix Hawk PXH-5L
-- **Role:** Brawler
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9

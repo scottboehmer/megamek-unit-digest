@@ -3,7 +3,7 @@
 [Other Lobo variants](../lobo.md)
 
 ## Lobo 2
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Clan (3072)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

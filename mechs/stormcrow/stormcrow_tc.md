@@ -3,7 +3,7 @@
 [Other Stormcrow variants](../stormcrow.md)
 
 ## Stormcrow "Ryoken" TC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

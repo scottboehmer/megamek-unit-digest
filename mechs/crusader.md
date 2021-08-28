@@ -92,7 +92,7 @@
   - Medium Laser × 2
   - Claw × 2
   - Machine Gun × 2 (ammo: 200)
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael)
 - **Battle Value:** 1204
 - [*More Info*](crusader/crusader_crd-3r_crael.md)
 
@@ -107,7 +107,7 @@
   - LRM 15 × 2 (ammo: 16)
   - Medium Pulse Laser × 2
   - Streak SRM 2 × 2 (ammo: 50)
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d)
 - **Battle Value:** 1309
 - [*More Info*](crusader/crusader_crd-4d.md)
 
@@ -122,7 +122,7 @@
   - LRM 10 × 2 (ammo: 24)
   - SRM 6 × 2 (ammo: 15)
   - Medium Pulse Laser × 2
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k)
 - **Battle Value:** 1268
 - [*More Info*](crusader/crusader_crd-4k.md)
 
@@ -158,7 +158,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m)
 - **Battle Value:** 1408
 - [*More Info*](crusader/crusader_crd-5m.md)
 
@@ -176,9 +176,26 @@
   - Flamer
 - **Equipment:**
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s)
 - **Battle Value:** 1446
 - [*More Info*](crusader/crusader_crd-5s.md)
+
+## Crusader CRD-6T
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3053)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 200
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - Medium Laser × 12
+  - Flamer × 2
+- **Equipment:**
+  - C3 Slave
+- **Source:** Recognition Guide:ilClan #17 - Clan Invasion
+- **Battle Value:** 1890
+- [*More Info*](crusader/crusader_crd-6t.md)
 
 ## Crusader CRD-4BR
 - **Role:** Missile Boat
@@ -194,9 +211,27 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br)
 - **Battle Value:** 1407
 - [*More Info*](crusader/crusader_crd-4br.md)
+
+## Crusader CRD-6D
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3054)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 4
+- **Armor:** 192
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - LRM 10 × 2 (ammo: 24)
+  - SRM 6 × 2 (ammo: 15)
+  - Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #17 - Clan Invasion
+- **Battle Value:** 1498
+- [*More Info*](crusader/crusader_crd-6d.md)
 
 ## Crusader CRD-5K
 - **Role:** Skirmisher
@@ -307,4 +342,123 @@
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/764/crusader-crd-8l)
 - **Battle Value:** 1701
 - [*More Info*](crusader/crusader_crd-8l.md)
+
+## Crusader CRD-7M
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3087)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
+- **Armor:** 184
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC × 2
+  - MML 7 w/ Artemis IV × 2 (ammo: 34 LRM, 28 SRM)
+  - Streak SRM 4 × 2 (ammo: 25)
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
+  - CASE II
+- **Source:** Recognition Guide:ilClan #17 - Early Republic
+- **Battle Value:** 1465
+- [*More Info*](crusader/crusader_crd-7m.md)
+
+## Crusader CRD-7M2
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3088)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6, XL
+  - **Jumping:** 4
+- **Armor:** 184
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Large Laser × 2
+  - MML 7 w/ Artemis IV × 2 (ammo: 34 LRM, 28 SRM)
+  - Machine Gun (ammo: 100)
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
+  - CASE II
+- **Source:** Recognition Guide:ilClan #17 - Early Republic
+- **Battle Value:** 1397
+- [*More Info*](crusader/crusader_crd-7m2.md)
+
+## Crusader CRD-8R
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere (3096)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6, XL
+- **Armor:** 203 (Light Ferro Fibrous)
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRM 15 w/ Artemis IV × 2 (ammo: 24)
+  - Streak SRM 6 × 2 (ammo: 15)
+  - ER Medium Laser × 2
+  - Machine Gun × 2 (ammo: 200)
+- **Equipment:**
+  - CASE II
+- **Source:** Recognition Guide:ilClan #17 - Early Republic
+- **Battle Value:** 1600
+- [*More Info*](crusader/crusader_crd-8r.md)
+
+## Crusader CRD-9BR
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3125)
+- **Chassis:** 65 tons
+- **Movement:** 5 (6) / 8 (9), XXL
+- **Armor:** 192
+- **Gyroscope:** XL Gyro
+- **Myomer:** Triple-Strength
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - LRM 10 × 2 (ammo: 12)
+  - Medium Pulse Laser × 2
+  - Medium Laser × 4
+  - Claw × 2
+  - Small Laser
+- **Equipment:**
+  - CASE II
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1653
+- [*More Info*](crusader/crusader_crd-9br.md)
+
+## Crusader CRD-9R
+- **Role:** Missile Boat
+- **Tech Base:** Inner Sphere (3129)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8, XXL
+- **Armor:** 192
+- **Gyroscope:** XL Gyro
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - LRM 15 × 2 (ammo: 16)
+  - Light PPC × 2
+  - SRM 6 × 2 (ammo: 15)
+  - Machine Gun × 2 (ammo: 100)
+- **Equipment:**
+  - CASE II
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1612
+- [*More Info*](crusader/crusader_crd-9r.md)
+
+## Crusader CRD-7D
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3141)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8 (10), XL
+- **Armor:** 200
+- **Gyroscope:** Compact Gyro
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Medium Re-Engineered Laser × 4
+  - MML 3 × 4 (ammo: 40 LRM, 33 SRM)
+  - Small X-Pulse Laser
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
+  - Supercharger
+  - CASE II
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1681
+- [*More Info*](crusader/crusader_crd-7d.md)
 

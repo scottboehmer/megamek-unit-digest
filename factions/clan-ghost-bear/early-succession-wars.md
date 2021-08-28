@@ -22,7 +22,7 @@
 ### [Mongoose](../../mechs/mongoose.md)
 - [**Mongoose MON-66**](../../mechs/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe`
 - [**Mongoose MON-66b**](../../mechs/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe`
-- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Striker (2833)* `Active Probe`
+- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Scout (2833)* `Active Probe`
 
 ## 30 Tons
 
@@ -91,9 +91,6 @@
 - [**Crab CRB-27**](../../mechs/crab/crab_crb-27.md) *Skirmisher (2719)*
 - [**Crab CRB-27b**](../../mechs/crab/crab_crb-27b.md) *Sniper (2719)*
 
-### [Fox](../../mechs/fox.md)
-- [**Fox**](../../mechs/fox/fox.md) *Undefined (2835)*
-
 ## 55 Tons
 
 ### [Griffin](../../mechs/griffin.md)
@@ -109,9 +106,6 @@
 ### [Lynx](../../mechs/lynx.md)
 - [**Lynx LNX-9Q**](../../mechs/lynx/lynx_lnx-9q.md) *Skirmisher (2761)*
 
-### [Naja](../../mechs/naja.md)
-- [**Naja**](../../mechs/naja/naja.md) *Undefined (2826)*
-
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 
@@ -126,11 +120,11 @@
 
 ### [Lancelot](../../mechs/lancelot.md)
 - [**Lancelot LNC25-01**](../../mechs/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)*
-- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Sniper (2832)*
+- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Skirmisher (2832)*
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Ostroc](../../mechs/ostroc.md)
@@ -152,7 +146,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 
@@ -167,8 +161,7 @@
 - [**Lumberjack LM4/C**](../../mechs/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech`
 
 ### [Minsk](../../mechs/minsk.md)
-- [**Minsk MNK-101**](../../mechs/minsk/minsk_mnk-101.md) *Brawler (2830)* `Active Probe`
-- [**Minsk**](../../mechs/minsk/minsk.md) *Undefined (2862)* `Active Probe`
+- [**Minsk MNK-101**](../../mechs/minsk/minsk_mnk-101.md) *Sniper (2830)* `Active Probe`
 
 ### [Shootist](../../mechs/shootist.md)
 - [**Shootist ST-8A**](../../mechs/shootist/shootist_st-8a.md) *Brawler (2621)*

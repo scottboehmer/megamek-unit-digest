@@ -8,7 +8,7 @@
 ## 20 Tons
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Stinger](../../mechs/stinger.md)
 - [**Stinger STG-3Gb**](../../mechs/stinger/stinger_stg-3gb.md) *Striker (2720)*
@@ -35,7 +35,7 @@
 ### [Mongoose](../../mechs/mongoose.md)
 - [**Mongoose MON-66**](../../mechs/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe`
 - [**Mongoose MON-66b**](../../mechs/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe`
-- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Striker (2833)* `Active Probe`
+- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Scout (2833)* `Active Probe`
 
 ## 30 Tons
 
@@ -159,7 +159,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
@@ -189,7 +189,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

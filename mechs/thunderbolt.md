@@ -70,7 +70,7 @@
 - [*More Info*](thunderbolt/thunderbolt_tdr-5sb.md)
 
 ## Thunderbolt TDR-5D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6
@@ -101,6 +101,22 @@
 - **Sources:** Hist - 2nd SW, [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l)
 - **Battle Value:** 1515
 - [*More Info*](thunderbolt/thunderbolt_tdr-5l.md)
+
+## Thunderbolt C
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere Mixed (2832)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6
+- **Armor:** 208
+- **Heat Sinks:** 24 (24)
+- **Weapons:**
+  - Clan Large Pulse Laser
+  - Clan ER Large Laser
+  - Clan ER Medium Laser
+  - Clan ER Small Laser × 2
+- **Sources:** ilClan RecGuide 15 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c)
+- **Battle Value:** 1671
+- [*More Info*](thunderbolt/thunderbolt_c.md)
 
 ## Thunderbolt TDR-5LS
 - **Role:** Undefined
@@ -180,7 +196,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m)
+- **Sources:** ilClan RecGuide 15 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m)
 - **Battle Value:** 1495
 - [*More Info*](thunderbolt/thunderbolt_tdr-7m.md)
 
@@ -198,25 +214,9 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se)
+- **Sources:** ilClan RecGuide 15 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se)
 - **Battle Value:** 1439
 - [*More Info*](thunderbolt/thunderbolt_tdr-9se.md)
-
-## Thunderbolt C
-- **Role:** Sniper
-- **Tech Base:** Clan (3050)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 208
-- **Heat Sinks:** 24 (24)
-- **Weapons:**
-  - Large Pulse Laser
-  - ER Large Laser
-  - ER Medium Laser
-  - ER Small Laser × 2
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c)
-- **Battle Value:** 1671
-- [*More Info*](thunderbolt/thunderbolt_c.md)
 
 ## Thunderbolt TDR-9S
 - **Role:** Brawler
@@ -234,9 +234,65 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s)
+- **Sources:** ilClan RecGuide 15 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s)
 - **Battle Value:** 1494
 - [*More Info*](thunderbolt/thunderbolt_tdr-9s.md)
+
+## Thunderbolt TDR-9W
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere Mixed (3053)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6
+  - **Jumping:** 4
+- **Armor:** 211 (Ferro Fibrous)
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - Clan Large Pulse Laser
+  - Clan LRM 10 w/ Artemis IV (ammo: 24)
+  - Clan Medium Pulse Laser × 3
+- **Equipment:**
+  - CASE
+- **Source:** ilClan RecGuide 15 - Clan Invasion
+- **Battle Value:** 1985
+- [*More Info*](thunderbolt/thunderbolt_tdr-9w.md)
+
+## Thunderbolt C 2
+- **Role:** Juggernaut
+- **Tech Base:** Clan (3054)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6
+- **Armor:** 211
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - ER PPC
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 4
+  - ER Small Laser × 2
+  - Small Pulse Laser × 2
+- **Equipment:**
+  - Anti-Missile System (ammo: 24)
+  - CASE
+- **Source:** ilClan RecGuide 15 - Clan Invasion
+- **Battle Value:** 2170
+- [*More Info*](thunderbolt/thunderbolt_c_2.md)
+
+## Thunderbolt TDR-8M
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3058)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6
+  - **Jumping:** 4
+- **Armor:** 206 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Large Laser
+  - LRM 15 (ammo: 16)
+  - ER Medium Laser × 3
+- **Equipment:**
+  - CASE
+- **Source:** ilClan RecGuide 15 - Clan Invasion
+- **Battle Value:** 1644
+- [*More Info*](thunderbolt/thunderbolt_tdr-8m.md)
 
 ## Thunderbolt TDR-10SE
 - **Role:** Missile Boat
@@ -392,6 +448,26 @@
 - **Battle Value:** 1632
 - [*More Info*](thunderbolt/thunderbolt_tdr-9nr.md)
 
+## Thunderbolt TDR-11S
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere (3074)
+- **Chassis:** 65 tons
+- **Movement:** 4 / 6
+- **Armor:** 206 (Ferro Fibrous)
+- **Gyroscope:** Heavy-Duty Gyro
+- **Heat Sinks:** 15 (30)
+- **Weapons:**
+  - ER PPC
+  - ER Medium Laser × 3
+  - SRM 6 (ammo: 15)
+  - Machine Gun × 4 (ammo: 200)
+- **Equipment:**
+  - Anti-Missile System (ammo: 12)
+  - CASE
+- **Source:** ilClan RecGuide 15 - Jihad
+- **Battle Value:** 1570
+- [*More Info*](thunderbolt/thunderbolt_tdr-11s.md)
+
 ## Thunderbolt TDR-10M
 - **Role:** Sniper
 - **Tech Base:** Inner Sphere (3082)
@@ -487,4 +563,43 @@
 - **Sources:** RS 3145 NYNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6877/thunderbolt-tdr-10s)
 - **Battle Value:** 1766
 - [*More Info*](thunderbolt/thunderbolt_tdr-10s.md)
+
+## Thunderbolt TDR-7S
+- **Role:** Brawler
+- **Tech Base:** Inner Sphere (3091)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 208
+- **Gyroscope:** Heavy-Duty Gyro
+- **Heat Sinks:** 14 (28)
+- **Weapons:**
+  - ER Large Laser
+  - LRM 15 (ammo: 16)
+  - ER Medium Laser × 3
+  - Small X-Pulse Laser × 2
+  - SRM 2 (ammo: 50)
+- **Equipment:**
+  - CASE II
+- **Source:** ilClan RecGuide 15 - Early Republic
+- **Battle Value:** 1582
+- [*More Info*](thunderbolt/thunderbolt_tdr-7s.md)
+
+## Thunderbolt TDR-12R
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere Mixed (3127)
+- **Chassis:** 65 tons
+- **Movement:** 3 / 5
+- **Armor:** 208 (Laser Reflective)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Plasma Rifle (ammo: 20)
+  - Clan LRM 15 (ammo: 16)
+  - Thunderbolt 5 × 2 (ammo: 24)
+  - Medium Laser × 2
+  - Small VSP Laser × 3
+- **Equipment:**
+  - CASE II
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 1975
+- [*More Info*](thunderbolt/thunderbolt_tdr-12r.md)
 

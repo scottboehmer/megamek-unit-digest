@@ -14,7 +14,7 @@
 - [*More Info*](javelin/javelin_jvn-10n.md)
 
 ## Javelin JVN-10A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2752)
 - **Chassis:** 30 tons
 - **Movement:** 6 / 9

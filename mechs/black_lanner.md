@@ -139,7 +139,83 @@
 - **Equipment:**
   - MASC
   - CASE II
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x)
+- **Sources:** ilClan RecGuide 15 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x)
 - **Battle Value:** 1672
 - [*More Info*](black_lanner/black_lanner_x.md)
+
+## Black Lanner F
+- **Role:** Scout
+- **Tech Base:** Clan (3121)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 (14), XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser × 5
+  - Light Machine Gun × 6 (ammo: 100)
+- **Equipment:**
+  - Machine Gun Array × 2
+  - Light Active Probe
+  - MASC
+  - CASE
+- **Source:** ilClan RecGuide 15 -Dark Age
+- **Battle Value:** 2154
+- [*More Info*](black_lanner/black_lanner_f.md)
+
+## Black Lanner T
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3142)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 (14), XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Plasma Cannon (ammo: 20)
+  - LRM 10 (ammo: 12)
+  - Improved Heavy Medium Laser × 2
+  - SRM 6 (ammo: 15)
+- **Equipment:**
+  - MASC
+  - CASE
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 2040
+- [*More Info*](black_lanner/black_lanner_t.md)
+
+## Black Lanner I
+- **Role:** Skirmisher
+- **Tech Base:** Clan Mixed (3143)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 (14), XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 2
+  - Streak SRM 4 (ammo: 25)
+  - Inner Sphere Medium VSP Laser
+  - Heavy Machine Gun × 3 (ammo: 50)
+- **Equipment:**
+  - MASC
+  - Targeting Computer
+  - CASE
+- **Source:** ilClan RecGuide 15 -Dark Age
+- **Battle Value:** 1803
+- [*More Info*](black_lanner/black_lanner_i.md)
+
+## Black Lanner J
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3144)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 (18), XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser × 3
+  - ProtoMech AC/8 (ammo: 20)
+- **Equipment:**
+  - MASC
+  - Supercharger
+  - CASE
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 2022
+- [*More Info*](black_lanner/black_lanner_j.md)
 

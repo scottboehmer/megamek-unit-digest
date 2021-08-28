@@ -1,6 +1,6 @@
 # Firefly
 ## Firefly FFL-3A
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (2679)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8, XL

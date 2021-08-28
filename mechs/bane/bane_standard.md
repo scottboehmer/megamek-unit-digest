@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1841/kraken-bane-standard)
+- **Sources:** Recognition Guide:ilClan #17 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1841/kraken-bane-standard)
 - **Battle Value:** 1950
 
 ## Availability

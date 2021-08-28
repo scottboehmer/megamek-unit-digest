@@ -3,7 +3,7 @@
 [Other Atlas variants](../atlas.md)
 
 ## Atlas AS7-A
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (2954)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5

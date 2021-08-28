@@ -1,6 +1,6 @@
 # Minsk
 ## Minsk MNK-101
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (2830)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 3 / 5
@@ -19,8 +19,8 @@
 - **Battle Value:** 2024
 - [*More Info*](minsk/minsk_mnk-101.md)
 
-## Minsk
-- **Role:** Undefined
+## Minsk (Standard)
+- **Role:** Brawler
 - **Tech Base:** Clan Mixed (2862)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 3 / 5
@@ -36,12 +36,12 @@
   - Active Probe
   - Inner Sphere A-Pod × 2
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7640/minsk-standard)
+- **Source:** Succession Wars
 - **Battle Value:** 2028
-- [*More Info*](minsk/minsk.md)
+- [*More Info*](minsk/minsk_standard.md)
 
 ## Minsk 2
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3148)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 3 / 5

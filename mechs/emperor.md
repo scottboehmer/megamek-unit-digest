@@ -50,7 +50,7 @@
 - [*More Info*](emperor/emperor_emp-6a.md)
 
 ## Emperor EMP-6A-EC
-- **Role:** Juggernaut
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (2826)
 - **Chassis:** 90 tons
 - **Movement:** 3 / 5, XL

@@ -53,7 +53,7 @@
 - [*More Info*](coyotl/coyotl_b.md)
 
 ## Coyotl C
-- **Role:** Striker
+- **Role:** Sniper
 - **Tech Base:** Clan (3145)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11, XL

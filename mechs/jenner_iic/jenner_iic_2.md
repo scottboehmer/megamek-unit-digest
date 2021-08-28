@@ -16,7 +16,7 @@
   - Small Pulse Laser
 - **Equipment:**
   - CASE
-- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2)
+- **Sources:** ilClan Rec Guide 18 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2)
 - **Battle Value:** 1406
 
 ## Availability

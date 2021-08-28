@@ -129,7 +129,7 @@
 - [*More Info*](centurion/centurion_cn10-b.md)
 
 ## Centurion CN10-J
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3057)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6

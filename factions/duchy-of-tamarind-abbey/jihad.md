@@ -15,4 +15,4 @@
 ## 20 Tons
 
 ### [Trooper](../../mechs/trooper.md)
-- [**Trooper TP-1R**](../../mechs/trooper/trooper_tp-1r.md) *Undefined (2475)*
+- [**Trooper TP-1R**](../../mechs/trooper/trooper_tp-1r.md) *Scout (2475)*

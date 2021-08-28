@@ -115,8 +115,8 @@
 - [**Hunchback HBK-4P**](../mechs/hunchback/hunchback_hbk-4p.md) *Juggernaut (2937)*
 
 ### [Omni-Corvis](../mechs/omni-corvis.md)
-- [**Omni-Corvis Prime**](../mechs/omni-corvis/omni-corvis_prime.md) *Sniper (2921)*
-- [**Omni-Corvis A**](../mechs/omni-corvis/omni-corvis_a.md) *Brawler (2921)*
+- [**Omni-Corvis Prime**](../mechs/omni-corvis/omni-corvis_prime.md) *Brawler (2921)*
+- [**Omni-Corvis A**](../mechs/omni-corvis/omni-corvis_a.md) *Striker (2921)*
 - [**Omni-Corvis B**](../mechs/omni-corvis/omni-corvis_b.md) *Missile Boat (2921)*
 
 ### [Phoenix Hawk LAM](../mechs/phoenix_hawk_lam.md)
@@ -138,7 +138,7 @@
 - [**Stormcrow D**](../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
 
 ### [Sun Bear](../mechs/sun_bear.md)
-- [**Sun Bear Prime**](../mechs/sun_bear/sun_bear_prime.md) *Brawler (2966)*
+- [**Sun Bear Prime**](../mechs/sun_bear/sun_bear_prime.md) *Skirmisher (2966)*
 - [**Sun Bear A**](../mechs/sun_bear/sun_bear_a.md) *Skirmisher (2966)*
 - [**Sun Bear B**](../mechs/sun_bear/sun_bear_b.md) *Missile Boat (2966)*
 
@@ -251,7 +251,7 @@
 
 ### [Zeus](../mechs/zeus.md)
 - [**Zeus ZEU-6Y**](../mechs/zeus/zeus_zeu-6y.md) *Sniper (2922)*
-- [**Zeus ZEU-6A**](../mechs/zeus/zeus_zeu-6a.md) *Undefined (2940)*
+- [**Zeus ZEU-6A**](../mechs/zeus/zeus_zeu-6a.md) *Brawler (2940)*
 
 ## 85 Tons
 
@@ -288,7 +288,7 @@
 - [**Annihilator ANH-1A**](../mechs/annihilator/annihilator_anh-1a.md) *Juggernaut (3009)*
 
 ### [Atlas](../mechs/atlas.md)
-- [**Atlas AS7-A**](../mechs/atlas/atlas_as7-a.md) *Undefined (2954)*
+- [**Atlas AS7-A**](../mechs/atlas/atlas_as7-a.md) *Juggernaut (2954)*
 
 ### [Dire Wolf](../mechs/dire_wolf.md)
 - [**Dire Wolf Prime**](../mechs/dire_wolf/dire_wolf_prime.md) *Juggernaut (3010)*

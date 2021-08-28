@@ -1,6 +1,6 @@
 # Cazador
-## Cazador
-- **Role:** Striker
+## Cazador (Standard)
+- **Role:** Undefined
 - **Tech Base:** Clan (3145)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 5 / 8 (10)
@@ -12,7 +12,7 @@
 - **Equipment:**
   - CASE
   - Supercharger
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7881/cazador-standard)
+- **Source:** Dark Age
 - **Battle Value:** 921
-- [*More Info*](cazador/cazador.md)
+- [*More Info*](cazador/cazador_standard.md)
 

@@ -34,7 +34,7 @@
 - [**Crosscut ED-X2 ForestryMech**](../../mechs/crosscut/crosscut_ed-x2_forestrymech.md) *Ambusher (2715)* `IndustrialMech`
 
 ### [Firefly](../../mechs/firefly.md)
-- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Undefined (2679)* `TAG`
+- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Striker (2679)* `TAG`
 
 ### [Hermes](../../mechs/hermes.md)
 - [**Hermes HER-1S**](../../mechs/hermes/hermes_her-1s.md) *Scout (2632)*
@@ -107,9 +107,6 @@
 ### [Lynx](../../mechs/lynx.md)
 - [**Lynx LNX-9Q**](../../mechs/lynx/lynx_lnx-9q.md) *Skirmisher (2761)*
 
-### [Naja](../../mechs/naja.md)
-- [**Naja**](../../mechs/naja/naja.md) *Undefined (2826)*
-
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 
@@ -127,7 +124,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Ostroc](../../mechs/ostroc.md)
@@ -149,7 +146,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

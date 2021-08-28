@@ -3,7 +3,7 @@
 [Other Valkyrie variants](../valkyrie.md)
 
 ## Valkyrie VLK-QD5
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere Mixed (3101)
 - **Chassis:** 30 tons
 - **Movement:** 5 / 8, XL

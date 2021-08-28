@@ -3,7 +3,7 @@
 [Other Shadow Cat III variants](../shadow_cat_iii.md)
 
 ## Shadow Cat III A
-- **Role:** Striker
+- **Role:** Sniper
 - **Tech Base:** Clan (3111)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9 (12), XL

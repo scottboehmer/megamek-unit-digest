@@ -3,7 +3,7 @@
 [Other Carbine variants](../carbine.md)
 
 ## Carbine CON-9M-D ConstructionMech MOD
-- **Role:** Undefined
+- **Role:** Ambusher
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 30 tons (Industrial)
 - **Movement:** 3 / 5, ICE

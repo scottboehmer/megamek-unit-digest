@@ -105,8 +105,8 @@
 - [**Crab CRB-27b**](../../mechs/crab/crab_crb-27b.md) *Sniper (2719)*
 
 ### [Omni-Corvis](../../mechs/omni-corvis.md)
-- [**Omni-Corvis Prime**](../../mechs/omni-corvis/omni-corvis_prime.md) *Sniper (2921)*
-- [**Omni-Corvis A**](../../mechs/omni-corvis/omni-corvis_a.md) *Brawler (2921)*
+- [**Omni-Corvis Prime**](../../mechs/omni-corvis/omni-corvis_prime.md) *Brawler (2921)*
+- [**Omni-Corvis A**](../../mechs/omni-corvis/omni-corvis_a.md) *Striker (2921)*
 - [**Omni-Corvis B**](../../mechs/omni-corvis/omni-corvis_b.md) *Missile Boat (2921)*
 
 ## 55 Tons
@@ -154,7 +154,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
@@ -184,7 +184,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

@@ -392,7 +392,7 @@
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
 - [**Shadow Hawk SHD-7M**](../../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ### [Wolverine](../../mechs/wolverine.md)
@@ -491,7 +491,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`

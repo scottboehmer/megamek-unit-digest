@@ -436,7 +436,7 @@
 - [*More Info*](marauder/marauder_mad-6l.md)
 
 ## Marauder MAD-7D (Von Staskov)
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 75 tons
 - **Movement:** 4 (5) / 6 (8), Light

@@ -152,7 +152,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
@@ -165,7 +165,6 @@
 - [**Ostroc OSR-2Cb**](../../mechs/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)*
 
 ### [Vision Quest](../../mechs/vision_quest.md)
-- [**Vision Quest**](../../mechs/vision_quest/vision_quest.md) *Undefined (2832)*
 - [**Vision Quest 2**](../../mechs/vision_quest/vision_quest_2.md) *Sniper (2868)*
 
 ## 65 Tons

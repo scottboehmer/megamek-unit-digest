@@ -3,7 +3,7 @@
 [Other Scourge variants](../scourge.md)
 
 ## Scourge SCG-WX1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3132)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8, XL

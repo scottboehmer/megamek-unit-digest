@@ -3,7 +3,7 @@
 [Other Warhammer variants](../warhammer.md)
 
 ## Warhammer WHM-6K (Olesko)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3023)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6

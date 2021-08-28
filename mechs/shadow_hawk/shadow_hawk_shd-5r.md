@@ -3,7 +3,7 @@
 [Other Shadow Hawk variants](../shadow_hawk.md)
 
 ## Shadow Hawk SHD-5R
-- **Role:** Scout
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3087)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 4 / 6, XL

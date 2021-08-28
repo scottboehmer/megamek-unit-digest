@@ -3,7 +3,7 @@
 [Other Arctic Wolf variants](../arctic_wolf.md)
 
 ## Arctic Wolf J
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Clan (3070)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

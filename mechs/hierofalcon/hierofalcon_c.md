@@ -3,7 +3,7 @@
 [Other Hierofalcon variants](../hierofalcon.md)
 
 ## Hierofalcon C
-- **Role:** Sniper
+- **Role:** Striker
 - **Tech Base:** Clan (3148)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

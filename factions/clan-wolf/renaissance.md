@@ -218,7 +218,7 @@
 ### [Woodsman](../../mechs/woodsman.md)
 - [**Woodsman Prime**](../../mechs/woodsman/woodsman_prime.md) *Brawler (2866)*
 - [**Woodsman A**](../../mechs/woodsman/woodsman_a.md) *Sniper (2866)*
-- [**Woodsman B**](../../mechs/woodsman/woodsman_b.md) *Brawler (2866)*
+- [**Woodsman B**](../../mechs/woodsman/woodsman_b.md) *Sniper (2866)*
 
 ## 80 Tons
 

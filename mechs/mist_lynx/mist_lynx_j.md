@@ -3,7 +3,7 @@
 [Other Mist Lynx variants](../mist_lynx.md)
 
 ## Mist Lynx "Koshi" J
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3107)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 (14), XL

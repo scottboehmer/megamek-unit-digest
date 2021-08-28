@@ -3,7 +3,7 @@
 [Other Naja variants](../naja.md)
 
 ## Naja KTO-19b-EC
-- **Role:** Skirmisher
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (2824)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8, XL

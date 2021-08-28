@@ -3,7 +3,7 @@
 [Other Omni-Corvis variants](../omni-corvis.md)
 
 ## Omni-Corvis A
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Clan (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8

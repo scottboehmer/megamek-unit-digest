@@ -12,7 +12,7 @@
 - [**Fire Moth H**](../../mechs/fire_moth/fire_moth_h.md) *Striker (3060)*
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Piranha](../../mechs/piranha.md)
 - [**Piranha (Standard)**](../../mechs/piranha/piranha_standard.md) *Striker (3051)*
@@ -246,9 +246,6 @@
 - [**Lynx LNX-9Q**](../../mechs/lynx/lynx_lnx-9q.md) *Skirmisher (2761)*
 - [**Lynx C**](../../mechs/lynx/lynx_c.md) *Skirmisher (2848)*
 
-### [Naja](../../mechs/naja.md)
-- [**Naja**](../../mechs/naja/naja.md) *Undefined (2826)*
-
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 - [**Shadow Hawk C**](../../mechs/shadow_hawk/shadow_hawk_c.md) *Skirmisher (3050)*
@@ -335,7 +332,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

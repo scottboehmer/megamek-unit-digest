@@ -1,6 +1,6 @@
 # Raven X
 ## Raven X RVN-3X
-- **Role:** Brawler
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3078)
 - **Chassis:** 35 tons (Composite)
 - **Movement:** 6 / 9, XL

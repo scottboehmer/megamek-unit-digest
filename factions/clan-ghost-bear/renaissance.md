@@ -3,7 +3,7 @@
 ## 20 Tons
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Stinger](../../mechs/stinger.md)
 - [**Stinger STG-3Gb**](../../mechs/stinger/stinger_stg-3gb.md) *Striker (2720)*
@@ -132,7 +132,7 @@
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
 
 ### [Sun Bear](../../mechs/sun_bear.md)
-- [**Sun Bear Prime**](../../mechs/sun_bear/sun_bear_prime.md) *Brawler (2966)*
+- [**Sun Bear Prime**](../../mechs/sun_bear/sun_bear_prime.md) *Skirmisher (2966)*
 - [**Sun Bear A**](../../mechs/sun_bear/sun_bear_a.md) *Skirmisher (2966)*
 - [**Sun Bear B**](../../mechs/sun_bear/sun_bear_b.md) *Missile Boat (2966)*
 

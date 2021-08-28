@@ -3,7 +3,7 @@
 [Other Volkh variants](../volkh.md)
 
 ## Volkh VKH-68
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3133)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 5 / 7 (12), XXL

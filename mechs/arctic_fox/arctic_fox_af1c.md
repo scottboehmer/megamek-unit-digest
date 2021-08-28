@@ -3,7 +3,7 @@
 [Other Arctic Fox variants](../arctic_fox.md)
 
 ## Arctic Fox AF1C
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

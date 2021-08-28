@@ -27,7 +27,7 @@
 ### [Mongoose](../../mechs/mongoose.md)
 - [**Mongoose MON-66**](../../mechs/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe`
 - [**Mongoose MON-66b**](../../mechs/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe`
-- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Striker (2833)* `Active Probe`
+- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Scout (2833)* `Active Probe`
 
 ## 30 Tons
 
@@ -37,9 +37,6 @@
 ### [Crosscut](../../mechs/crosscut.md)
 - [**Crosscut ED-X1 LoggerMech**](../../mechs/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech`
 - [**Crosscut ED-X2 ForestryMech**](../../mechs/crosscut/crosscut_ed-x2_forestrymech.md) *Ambusher (2715)* `IndustrialMech`
-
-### [Drift Shag](../../mechs/drift_shag.md)
-- [**Drift Shag**](../../mechs/drift_shag/drift_shag.md) *Undefined (2827)*
 
 ### [Hermes](../../mechs/hermes.md)
 - [**Hermes HER-1S**](../../mechs/hermes/hermes_her-1s.md) *Scout (2632)*
@@ -114,9 +111,6 @@
 ### [Lynx](../../mechs/lynx.md)
 - [**Lynx LNX-9Q**](../../mechs/lynx/lynx_lnx-9q.md) *Skirmisher (2761)*
 
-### [Naja](../../mechs/naja.md)
-- [**Naja**](../../mechs/naja/naja.md) *Undefined (2826)*
-
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 
@@ -127,12 +121,12 @@
 
 ### [Lancelot](../../mechs/lancelot.md)
 - [**Lancelot LNC25-01**](../../mechs/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)*
-- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Sniper (2832)*
-- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Sniper (2857)*
+- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Skirmisher (2832)*
+- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Skirmisher (2857)*
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Ostroc](../../mechs/ostroc.md)
@@ -155,7 +149,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

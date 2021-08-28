@@ -6,8 +6,10 @@
 - [**Flea FLE-14**](../mechs/flea/flea_fle-14.md) *Scout (2519)*
 
 ### [Patron](../mechs/patron.md)
-- [**Patron I LoaderMech**](../mechs/patron/patron_i_loadermech.md) *Ambusher (2470)* `IndustrialMech`
 - [**Patron LoaderMech**](../mechs/patron/patron_loadermech.md) *Ambusher (2550)* `IndustrialMech`
+
+### [Patron LoaderMech](../mechs/patron_loadermech.md)
+- [**Patron LoaderMech PTN-1**](../mechs/patron_loadermech/patron_loadermech_ptn-1.md) *Undefined (2470)* `IndustrialMech`
 
 ## 20 Tons
 
@@ -27,7 +29,7 @@
 - [**Thorn THE-N**](../mechs/thorn/thorn_the-n.md) *Striker (2549)*
 
 ### [Trooper](../mechs/trooper.md)
-- [**Trooper TP-1R**](../mechs/trooper/trooper_tp-1r.md) *Undefined (2475)*
+- [**Trooper TP-1R**](../mechs/trooper/trooper_tp-1r.md) *Scout (2475)*
 
 ### [Wasp](../mechs/wasp.md)
 - [**Wasp WSP-1**](../mechs/wasp/wasp_wsp-1.md) *Scout (2464)*
@@ -180,7 +182,7 @@
 ## 70 Tons
 
 ### [Archer](../mechs/archer.md)
-- [**Archer ARC-1A**](../mechs/archer/archer_arc-1a.md) *Undefined (2458)*
+- [**Archer ARC-1A**](../mechs/archer/archer_arc-1a.md) *Missile Boat (2458)*
 - [**Archer ARC-2R**](../mechs/archer/archer_arc-2r.md) *Missile Boat (2474)*
 
 ### [BattleAxe](../mechs/battleaxe.md)
@@ -212,8 +214,8 @@
 - [**Helepolis HEP-2H**](../mechs/helepolis/helepolis_hep-2h.md) *Missile Boat (2488)*
 
 ### [Orion](../mechs/orion.md)
-- [**Orion ON1-C**](../mechs/orion/orion_on1-c.md) *Undefined (2453)*
-- [**Orion ON1-H**](../mechs/orion/orion_on1-h.md) *Undefined (2456)*
+- [**Orion ON1-C**](../mechs/orion/orion_on1-c.md) *Brawler (2453)*
+- [**Orion ON1-H**](../mechs/orion/orion_on1-h.md) *Brawler (2456)*
 - [**Orion ON1-K**](../mechs/orion/orion_on1-k.md) *Brawler (2525)*
 
 ## 80 Tons

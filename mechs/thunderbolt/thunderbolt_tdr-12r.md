@@ -1,0 +1,26 @@
+# Thunderbolt TDR-12R
+
+[Other Thunderbolt variants](../thunderbolt.md)
+
+## Thunderbolt TDR-12R
+- **Role:** Juggernaut
+- **Tech Base:** Inner Sphere Mixed (3127)
+- **Chassis:** 65 tons
+- **Movement:** 3 / 5
+- **Armor:** 208 (Laser Reflective)
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Plasma Rifle (ammo: 20)
+  - Clan LRM 15 (ammo: 16)
+  - Thunderbolt 5 × 2 (ammo: 24)
+  - Medium Laser × 2
+  - Small VSP Laser × 3
+- **Equipment:**
+  - CASE II
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 1975
+
+## Availability
+
+Availability Unknown
+

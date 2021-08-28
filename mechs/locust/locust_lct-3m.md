@@ -15,7 +15,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m)
+- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m)
 - **Battle Value:** 522
 
 ## Availability

@@ -3,7 +3,7 @@
 [Other Wasp variants](../wasp.md)
 
 ## Wasp WSP-3X
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (3088)
 - **Chassis:** 20 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

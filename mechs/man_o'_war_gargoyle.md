@@ -225,7 +225,7 @@
 - [*More Info*](gargoyle/gargoyle_f.md)
 
 ## Gargoyle "Man O' War" X
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3128)
 - **Chassis:** 80 tons
 - **Movement:** 5 / 8, XL

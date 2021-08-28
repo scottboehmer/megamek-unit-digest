@@ -3,7 +3,7 @@
 [Other Minsk variants](../minsk.md)
 
 ## Minsk MNK-101
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (2830)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 3 / 5

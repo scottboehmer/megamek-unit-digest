@@ -88,7 +88,7 @@
 - [*More Info*](bushwacker/bushwacker_bsw-s2r.md)
 
 ## Bushwacker BSW-X4
-- **Role:** Skirmisher
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere (3125)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 5 / 8 (10), XL

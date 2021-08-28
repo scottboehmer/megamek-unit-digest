@@ -7,7 +7,6 @@
 - [**Guard GS-107X SecurityMech**](../mechs/guard/guard_gs-107x_securitymech.md) *Ambusher (3068)* `IndustrialMech`
 
 ### [Patron](../mechs/patron.md)
-- [**Patron I LoaderMech**](../mechs/patron/patron_i_loadermech.md) *Ambusher (2470)* `IndustrialMech`
 - [**Patron LoaderMech**](../mechs/patron/patron_loadermech.md) *Ambusher (2550)* `IndustrialMech`
 - [**Patron PTN-2M MilitiaMech**](../mechs/patron/patron_ptn-2m_militiamech.md) *Ambusher (3083)* `IndustrialMech`
 
@@ -54,6 +53,7 @@
 - [**Carbine CON-9 ConstructionMech**](../mechs/carbine/carbine_con-9_constructionmech.md) *Ambusher (3071)* `IndustrialMech`
 - [**Carbine CON-7M ConstructionMech MOD**](../mechs/carbine/carbine_con-7m_constructionmech_mod.md) *Ambusher (3078)* `IndustrialMech`
 - [**Carbine CON-9M-B ConstructionMech MOD**](../mechs/carbine/carbine_con-9m-b_constructionmech_mod.md) *Ambusher (3078)* `IndustrialMech`
+- [**Carbine CON-9M-D ConstructionMech MOD**](../mechs/carbine/carbine_con-9m-d_constructionmech_mod.md) *Ambusher (3133)* `IndustrialMech`
 - [**Carbine CON-9M-J ConstructionMech MOD**](../mechs/carbine/carbine_con-9m-j_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech`
 - [**Carbine CON-9M-JB ConstructionMech MOD**](../mechs/carbine/carbine_con-9m-jb_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech`
 

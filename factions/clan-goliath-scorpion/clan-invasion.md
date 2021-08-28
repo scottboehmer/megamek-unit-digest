@@ -12,7 +12,7 @@
 - [**Fire Moth H**](../../mechs/fire_moth/fire_moth_h.md) *Striker (3060)*
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Piranha](../../mechs/piranha.md)
 - [**Piranha (Standard)**](../../mechs/piranha/piranha_standard.md) *Striker (3051)*
@@ -251,7 +251,7 @@
 - [**Stormcrow P**](../../mechs/stormcrow/stormcrow_p.md) *Striker (3150)*
 
 ### [Sun Bear](../../mechs/sun_bear.md)
-- [**Sun Bear Prime**](../../mechs/sun_bear/sun_bear_prime.md) *Brawler (2966)*
+- [**Sun Bear Prime**](../../mechs/sun_bear/sun_bear_prime.md) *Skirmisher (2966)*
 - [**Sun Bear A**](../../mechs/sun_bear/sun_bear_a.md) *Skirmisher (2966)*
 - [**Sun Bear B**](../../mechs/sun_bear/sun_bear_b.md) *Missile Boat (2966)*
 
@@ -327,7 +327,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

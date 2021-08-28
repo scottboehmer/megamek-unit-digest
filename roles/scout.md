@@ -44,6 +44,7 @@
 ### [Flea](../mechs/flea.md)
 - [**Flea FLE-4**](../mechs/flea/flea_fle-4.md) *Scout (2501)*
 - [**Flea FLE-15**](../mechs/flea/flea_fle-15.md) *Scout (2523)*
+- [**Flea FLE-16**](../mechs/flea/flea_fle-16.md) *Scout (3032)*
 - [**Flea 'Fire Ant'**](../mechs/flea/flea_'fire_ant'.md) *Scout (3063)*
 
 ### [Howler](../mechs/howler.md)
@@ -72,6 +73,8 @@
 - [**Locust LCT-5W2**](../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 - [**Locust LCT-5M2**](../mechs/locust/locust_lct-5m2.md) *Scout (3087)*
 - [**Locust LCT-5M3**](../mechs/locust/locust_lct-5m3.md) *Scout (3088)*
+- [**Locust LCT-7V**](../mechs/locust/locust_lct-7v.md) *Scout (3102)*
+- [**Locust LCT-7S**](../mechs/locust/locust_lct-7s.md) *Scout (3128)*
 
 ### [Mercury](../mechs/mercury.md)
 - [**Mercury MCY-99**](../mechs/mercury/mercury_mcy-99.md) *Scout (2742)*
@@ -97,6 +100,9 @@
 - [**Stinger STG-6M**](../mechs/stinger/stinger_stg-6m.md) *Scout (3097)*
 - [**Stinger STG-6G**](../mechs/stinger/stinger_stg-6g.md) *Scout (3103)*
 - [**Stinger STG-6R**](../mechs/stinger/stinger_stg-6r.md) *Scout (3120)*
+
+### [Trooper](../mechs/trooper.md)
+- [**Trooper TP-1R**](../mechs/trooper/trooper_tp-1r.md) *Scout (2475)*
 
 ### [Wasp](../mechs/wasp.md)
 - [**Wasp WSP-1**](../mechs/wasp/wasp_wsp-1.md) *Scout (2464)*
@@ -166,6 +172,9 @@
 - [**Mist Lynx A**](../mechs/mist_lynx/mist_lynx_a.md) *Scout (2926)* `Active Probe`, `TAG`
 - [**Mist Lynx P**](../mechs/mist_lynx/mist_lynx_p.md) *Scout (3061)* `Active Probe`
 - [**Mist Lynx F**](../mechs/mist_lynx/mist_lynx_f.md) *Scout (3063)* `Active Probe`, `ECM`, `TAG`
+- [**Mist Lynx K**](../mechs/mist_lynx/mist_lynx_k.md) *Scout (3112)* `Active Probe`
+- [**Mist Lynx L**](../mechs/mist_lynx/mist_lynx_l.md) *Scout (3124)* `Active Probe`, `ECM`
+- [**Mist Lynx T**](../mechs/mist_lynx/mist_lynx_t.md) *Scout (3142)* `Active Probe`, `ECM`
 
 ### [Mjolnir](../mechs/mjolnir.md)
 - [**Mjolnir MLR-B2**](../mechs/mjolnir/mjolnir_mlr-b2.md) *Scout (3077)*
@@ -173,7 +182,10 @@
 ### [Mongoose](../mechs/mongoose.md)
 - [**Mongoose MON-66**](../mechs/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe`
 - [**Mongoose MON-66GX (Gunslinger)**](../mechs/mongoose/mongoose_mon-66gx_gunslinger.md) *Scout (2766)* `Stealth`, `Unique`
+- [**Mongoose C**](../mechs/mongoose/mongoose_c.md) *Scout (2833)* `Active Probe`
+- [**Mongoose C 2**](../mechs/mongoose/mongoose_c_2.md) *Scout (2860)* `Active Probe`
 - [**Mongoose MON-68**](../mechs/mongoose/mongoose_mon-68.md) *Scout (3039)*
+- [**Mongoose MON-96**](../mechs/mongoose/mongoose_mon-96.md) *Scout (3129)* `Active Probe`
 
 ### [Nexus](../mechs/nexus.md)
 - [**Nexus NXS1-B**](../mechs/nexus/nexus_nxs1-b.md) *Scout (3062)* `C3i`
@@ -347,6 +359,9 @@
 - [**Raven RVN-SR 'Shattered Raven'**](../mechs/raven/raven_rvn-sr_'shattered_raven'.md) *Scout (3068)* `Active Probe`, `ECM`
 - [**Raven RVN-5L**](../mechs/raven/raven_rvn-5l.md) *Scout (3125)* `ECM`, `Stealth`, `TAG`
 
+### [Raven X](../mechs/raven_x.md)
+- [**Raven X RVN-3X**](../mechs/raven_x/raven_x_rvn-3x.md) *Scout (3078)* `Active Probe`, `ECM`, `Unique`
+
 ### [Storm Raider](../mechs/storm_raider.md)
 - [**Storm Raider STM-R1**](../mechs/storm_raider/storm_raider_stm-r1.md) *Scout (3097)*
 - [**Storm Raider STM-R2**](../mechs/storm_raider/storm_raider_stm-r2.md) *Scout (3098)*
@@ -360,6 +375,9 @@
 - [**Yinghuochong YHC-3Y**](../mechs/yinghuochong/yinghuochong_yhc-3y.md) *Scout (3137)* `TAG`
 
 ## 40 Tons
+
+### [Arctic Wolf II](../mechs/arctic_wolf_ii.md)
+- [**Arctic Wolf II A**](../mechs/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)*
 
 ### [Assassin](../mechs/assassin.md)
 - [**Assassin ASN-21**](../mechs/assassin/assassin_asn-21.md) *Scout (2676)*
@@ -426,6 +444,7 @@
 
 ### [Vulcan](../mechs/vulcan.md)
 - [**Vulcan VL-2T**](../mechs/vulcan/vulcan_vl-2t.md) *Scout (2777)*
+- [**Vulcan VL-2T (Timms)**](../mechs/vulcan/vulcan_vl-2t_timms.md) *Scout (3034)* `Unique`
 - [**Vulcan VT-5Sr**](../mechs/vulcan/vulcan_vt-5sr.md) *Scout (3075)*
 
 ## 45 Tons
@@ -466,6 +485,9 @@
 
 ## 55 Tons
 
+### [Black Lanner](../mechs/black_lanner.md)
+- [**Black Lanner F**](../mechs/black_lanner/black_lanner_f.md) *Scout (3121)* `Active Probe`
+
 ### [Buccaneer](../mechs/buccaneer.md)
 - [**Buccaneer BCN-5W**](../mechs/buccaneer/buccaneer_bcn-5w.md) *Scout (3069)* `C3i`
 
@@ -479,7 +501,7 @@
 - [**Septicemia A**](../mechs/septicemia/septicemia_a.md) *Scout (3072)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
-- [**Shadow Hawk SHD-5R**](../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5S**](../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe`, `ECM`, `TAG`
 
 ## 60 Tons
 

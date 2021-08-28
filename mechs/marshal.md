@@ -58,7 +58,7 @@
 - [*More Info*](marshal/marshal_mhl-6mc.md)
 
 ## Marshal MHL-6FR
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3086)
 - **Chassis:** 55 tons
 - **Movement:** 4 / 6, Light

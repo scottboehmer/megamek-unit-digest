@@ -4,7 +4,7 @@
 
 ## Locust C
 - **Role:** Striker
-- **Tech Base:** Inner Sphere Mixed (3050)
+- **Tech Base:** Inner Sphere Mixed (2836)
 - **Chassis:** 20 tons
 - **Movement:** 8 / 12
 - **Armor:** 64
@@ -12,7 +12,7 @@
 - **Weapons:**
   - Clan Medium Pulse Laser
   - Clan ER Small Laser × 2
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c)
+- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c)
 - **Battle Value:** 672
 
 ## Availability

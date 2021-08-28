@@ -42,8 +42,8 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-5M**](../../mechs/locust/locust_lct-5m.md) *Striker (3066)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
@@ -308,7 +308,7 @@
 - [**Coyotl Prime**](../../mechs/coyotl/coyotl_prime.md) *Striker (2854)*
 - [**Coyotl A**](../../mechs/coyotl/coyotl_a.md) *Striker (2854)*
 - [**Coyotl B**](../../mechs/coyotl/coyotl_b.md) *Striker (2854)*
-- [**Coyotl C**](../../mechs/coyotl/coyotl_c.md) *Striker (3145)* `ECM`
+- [**Coyotl C**](../../mechs/coyotl/coyotl_c.md) *Sniper (3145)* `ECM`
 - [**Coyotl D**](../../mechs/coyotl/coyotl_d.md) *Striker (3149)* `TAG`
 
 ### [Cuirass](../../mechs/cuirass.md)
@@ -493,7 +493,7 @@
 
 ### [Bushwacker](../../mechs/bushwacker.md)
 - [**Bushwacker BSW-S2r**](../../mechs/bushwacker/bushwacker_bsw-s2r.md) *Skirmisher (3075)*
-- [**Bushwacker BSW-X4**](../../mechs/bushwacker/bushwacker_bsw-x4.md) *Skirmisher (3125)*
+- [**Bushwacker BSW-X4**](../../mechs/bushwacker/bushwacker_bsw-x4.md) *Sniper (3125)*
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
@@ -543,7 +543,7 @@
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-5D**](../../mechs/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)*
 - [**Shadow Hawk SHD-9D**](../../mechs/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Slave`
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 - [**Shadow Hawk SHD-6D**](../../mechs/shadow_hawk/shadow_hawk_shd-6d.md) *Skirmisher (3141)*
 
@@ -553,7 +553,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow I**](../../mechs/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe`
@@ -675,7 +675,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`
@@ -794,9 +794,9 @@
 ### [Inferno](../../mechs/inferno.md)
 - [**Inferno INF-NO**](../../mechs/inferno/inferno_inf-no.md) *Brawler (3146)*
 - [**Inferno INF-NOA**](../../mechs/inferno/inferno_inf-noa.md) *Brawler (3146)*
-- [**Inferno INF-NOB**](../../mechs/inferno/inferno_inf-nob.md) *Brawler (3146)*
+- [**Inferno INF-NOB**](../../mechs/inferno/inferno_inf-nob.md) *Missile Boat (3146)*
 - [**Inferno INF-NOC**](../../mechs/inferno/inferno_inf-noc.md) *Missile Boat (3146)*
-- [**Inferno INF-NOR**](../../mechs/inferno/inferno_inf-nor.md) *Missile Boat (3146)*
+- [**Inferno INF-NOR**](../../mechs/inferno/inferno_inf-nor.md) *Sniper (3146)*
 
 ### [Lao Hu](../../mechs/lao_hu.md)
 - [**Lao Hu LHU-3L**](../../mechs/lao_hu/lao_hu_lhu-3l.md) *Skirmisher (3069)*
@@ -1042,7 +1042,7 @@
 - [**Marauder II MAD-6D**](../../mechs/marauder_ii/marauder_ii_mad-6d.md) *Skirmisher (3083)*
 - [**Marauder II MAD-6A**](../../mechs/marauder_ii/marauder_ii_mad-6a.md) *Sniper (3134)*
 - [**Marauder II MAD-6C**](../../mechs/marauder_ii/marauder_ii_mad-6c.md) *Sniper (3134)* `Command Console`
-- [**Marauder II MAD-10D**](../../mechs/marauder_ii/marauder_ii_mad-10d.md) *Sniper (3141)*
+- [**Marauder II MAD-10D**](../../mechs/marauder_ii/marauder_ii_mad-10d.md) *Skirmisher (3141)*
 
 ### [Titan](../../mechs/titan.md)
 - [**Titan TI-1Aj**](../../mechs/titan/titan_ti-1aj.md) *Juggernaut (3123)*

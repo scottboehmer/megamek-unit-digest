@@ -36,7 +36,7 @@
 - [*More Info*](pulverizer/pulverizer_pul-3r.md)
 
 ## Pulverizer (Standard)
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Clan (2845)
 - **Chassis:** 90 tons (Endo Steel)
 - **Movement:** 4 / 6

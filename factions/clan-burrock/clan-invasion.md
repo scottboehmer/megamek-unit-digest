@@ -11,7 +11,7 @@
 - [**Fire Moth E**](../../mechs/fire_moth/fire_moth_e.md) *Scout (3055)*
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Piranha](../../mechs/piranha.md)
 - [**Piranha (Standard)**](../../mechs/piranha/piranha_standard.md) *Striker (3051)*
@@ -249,8 +249,8 @@
 
 ### [Lancelot](../../mechs/lancelot.md)
 - [**Lancelot LNC25-01**](../../mechs/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)*
-- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Sniper (2832)*
-- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Sniper (2857)*
+- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Skirmisher (2832)*
+- [**Lancelot C 2**](../../mechs/lancelot/lancelot_c_2.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
 - [**Mad Dog Prime**](../../mechs/mad_dog/mad_dog_prime.md) *Missile Boat (2963)*
@@ -305,7 +305,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

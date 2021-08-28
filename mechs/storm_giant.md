@@ -1,6 +1,6 @@
 # Storm Giant
-## Storm Giant
-- **Role:** Undefined
+## Storm Giant (Standard)
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6, XL
@@ -12,12 +12,12 @@
   - Streak SRM 6 × 2 (ammo: 15)
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7649/storm-giant-standard)
+- **Source:** Succession Wars
 - **Battle Value:** 2676
-- [*More Info*](storm_giant/storm_giant.md)
+- [*More Info*](storm_giant/storm_giant_standard.md)
 
 ## Storm Giant 2
-- **Role:** Juggernaut
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6, XL

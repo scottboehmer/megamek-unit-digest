@@ -141,13 +141,13 @@
   - ER Medium Laser
 - **Equipment:**
   - CASE
-- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e)
+- **Sources:** Recognition Guide:ilClan #16 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e)
 - **Battle Value:** 2391
 - [*More Info*](ebon_jaguar/ebon_jaguar_e.md)
 
 ## Ebon Jaguar "Cauldron-Born" X
 - **Role:** Skirmisher
-- **Tech Base:** Clan (3075)
+- **Tech Base:** Clan Mixed (3075)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -157,10 +157,10 @@
   - ER Medium Pulse Laser × 3
   - ER Small Pulse Laser
 - **Equipment:**
-  - Angel ECM Suite
+  - Inner Sphere Angel ECM Suite
   - Targeting Computer
   - CASE II
-- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x)
+- **Sources:** Recognition Guide:ilClan #16 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x)
 - **Battle Value:** 2435
 - [*More Info*](ebon_jaguar/ebon_jaguar_x.md)
 
@@ -181,4 +181,57 @@
 - **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/497/cauldron-born-ebon-jaguar-u)
 - **Battle Value:** 2593
 - [*More Info*](ebon_jaguar/ebon_jaguar_u.md)
+
+## Cauldron-Born (Ebon Jaguar) F
+- **Role:** Sniper
+- **Tech Base:** Clan (3104)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 18 (36)
+- **Weapons:**
+  - ER PPC × 2
+  - ATM 6 × 2 (ammo: 10 Standard, 10 ER, 10 HE)
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 2681
+- [*More Info*](cauldron-born_ebon_jaguar/cauldron-born_ebon_jaguar_f.md)
+
+## Cauldron-Born (Ebon Jaguar) G
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3125)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - HAG 40 (ammo: 18)
+  - Improved Heavy Large Laser
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 2849
+- [*More Info*](cauldron-born_ebon_jaguar/cauldron-born_ebon_jaguar_g.md)
+
+## Cauldron-Born (Ebon Jaguar) T
+- **Role:** Sniper
+- **Tech Base:** Clan Mixed (3142)
+- **Chassis:** 65 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+- **Armor:** 182 (Ferro Fibrous)
+- **Heat Sinks:** 13 (26)
+- **Weapons:**
+  - ER PPC
+  - Streak LRM 10 (ammo: 12)
+  - Ultra AC/5 (ammo: 20)
+  - Improved Heavy Medium Laser
+  - Inner Sphere Thunderbolt 5 × 2 (ammo: 24)
+- **Equipment:**
+  - CASE II
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 2219
+- [*More Info*](cauldron-born_ebon_jaguar/cauldron-born_ebon_jaguar_t.md)
 

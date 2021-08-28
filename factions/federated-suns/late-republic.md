@@ -42,9 +42,9 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
 - [**Locust LCT-3D**](../../mechs/locust/locust_lct-3d.md) *Missile Boat (3049)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 - [**Locust LCT-5M**](../../mechs/locust/locust_lct-5m.md) *Striker (3066)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
@@ -451,11 +451,11 @@
 
 ### [Bushwacker](../../mechs/bushwacker.md)
 - [**Bushwacker BSW-S2r**](../../mechs/bushwacker/bushwacker_bsw-s2r.md) *Skirmisher (3075)*
-- [**Bushwacker BSW-X4**](../../mechs/bushwacker/bushwacker_bsw-x4.md) *Skirmisher (3125)*
+- [**Bushwacker BSW-X4**](../../mechs/bushwacker/bushwacker_bsw-x4.md) *Sniper (3125)*
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 - [**Centurion CN10-D**](../../mechs/centurion/centurion_cn10-d.md) *Sniper (3121)*
 
 ### [Dervish](../../mechs/dervish.md)
@@ -502,7 +502,7 @@
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-5D**](../../mechs/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)*
 - [**Shadow Hawk SHD-9D**](../../mechs/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Slave`
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ### [Sun Cobra](../../mechs/sun_cobra.md)

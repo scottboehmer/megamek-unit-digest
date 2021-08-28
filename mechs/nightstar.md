@@ -48,7 +48,7 @@
 - [*More Info*](nightstar/nightstar_nsr-9j_brubaker.md)
 
 ## Nightstar NSR-9J (Holt)
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3063)
 - **Chassis:** 95 tons
 - **Movement:** 3 (4) / 5 (6), XL

@@ -58,7 +58,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -247,13 +247,13 @@
 
 ### [Scorpion](../../mechs/scorpion.md)
 - [**Scorpion SCP-1N**](../../mechs/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)*
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
 - [**Shadow Hawk SHD-2K**](../../mechs/shadow_hawk/shadow_hawk_shd-2k.md) *Sniper (2803)*
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
-- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
+- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe`, `ECM`, `TAG`
 
 ### [Wolverine](../../mechs/wolverine.md)
 - [**Wolverine WVR-6R**](../../mechs/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)*

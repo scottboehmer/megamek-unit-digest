@@ -18,6 +18,9 @@
 ### [Snow Fox](../mechs/snow_fox.md)
 - [**Snow Fox 2**](../mechs/snow_fox/snow_fox_2.md) *Missile Boat (3015)*
 
+### [Wasp](../mechs/wasp.md)
+- [**Wasp WSP-3X**](../mechs/wasp/wasp_wsp-3x.md) *Missile Boat (3088)* `Unique`
+
 ## 25 Tons
 
 ### [Arbalest](../mechs/arbalest.md)
@@ -27,6 +30,9 @@
 ### [Duan Gung](../mechs/duan_gung.md)
 - [**Duan Gung D9-G9**](../mechs/duan_gung/duan_gung_d9-g9.md) *Missile Boat (3058)*
 - [**Duan Gung (Vaughn)**](../mechs/duan_gung/duan_gung_vaughn.md) *Missile Boat (3068)* `Unique`
+
+### [Mist Lynx](../mechs/mist_lynx.md)
+- [**Mist Lynx N**](../mechs/mist_lynx/mist_lynx_n.md) *Missile Boat (3139)* `Active Probe`, `TAG`
 
 ### [Raptor](../mechs/raptor.md)
 - [**Raptor RTX1-O**](../mechs/raptor/raptor_rtx1-o.md) *Missile Boat (3052)*
@@ -78,6 +84,7 @@
 - [**Valkyrie VLK-QD1**](../mechs/valkyrie/valkyrie_vlk-qd1.md) *Missile Boat (3067)*
 - [**Valkyrie VLK-QS5**](../mechs/valkyrie/valkyrie_vlk-qs5.md) *Missile Boat (3070)*
 - [**Valkyrie VLK-QW5**](../mechs/valkyrie/valkyrie_vlk-qw5.md) *Missile Boat (3072)* `C3i`
+- [**Valkyrie VLK-QD5**](../mechs/valkyrie/valkyrie_vlk-qd5.md) *Missile Boat (3101)*
 - [**Valkyrie VLK-QD6**](../mechs/valkyrie/valkyrie_vlk-qd6.md) *Missile Boat (3102)*
 - [**Valkyrie VLK-QD8**](../mechs/valkyrie/valkyrie_vlk-qd8.md) *Missile Boat (3102)*
 - [**Valkyrie VLK-QDD**](../mechs/valkyrie/valkyrie_vlk-qdd.md) *Missile Boat (3106)*
@@ -121,11 +128,8 @@
 
 ## 40 Tons
 
-### [Arctic Wolf](../mechs/arctic_wolf.md)
-- [**Arctic Wolf A**](../mechs/arctic_wolf/arctic_wolf_a.md) *Missile Boat (3067)* `ECM`
-
 ### [Arctic Wolf II](../mechs/arctic_wolf_ii.md)
-- [**Arctic Wolf II A**](../mechs/arctic_wolf_ii/arctic_wolf_ii_a.md) *Missile Boat (3085)*
+- [**Arctic Wolf II Prime**](../mechs/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* `Active Probe`, `ECM`
 
 ### [Battle Cobra](../mechs/battle_cobra.md)
 - [**Battle Cobra BTL-C-2OE**](../mechs/battle_cobra/battle_cobra_btl-c-2oe.md) *Missile Boat (3070)* `C3i`
@@ -204,6 +208,7 @@
 
 ### [Fox](../mechs/fox.md)
 - [**Fox CS-1**](../mechs/fox/fox_cs-1.md) *Missile Boat (2824)*
+- [**Fox (Standard)**](../mechs/fox/fox_standard.md) *Missile Boat (2835)*
 
 ### [Hunchback](../mechs/hunchback.md)
 - [**Hunchback HBK-4J**](../mechs/hunchback/hunchback_hbk-4j.md) *Missile Boat (2856)*
@@ -223,9 +228,6 @@
 
 ### [Omni-Corvis](../mechs/omni-corvis.md)
 - [**Omni-Corvis B**](../mechs/omni-corvis/omni-corvis_b.md) *Missile Boat (2921)*
-
-### [Phoenix](../mechs/phoenix.md)
-- [**Phoenix PX-1KT**](../mechs/phoenix/phoenix_px-1kt.md) *Missile Boat (3070)*
 
 ### [Sarath](../mechs/sarath.md)
 - [**Sarath SRTH-1OA**](../mechs/sarath/sarath_srth-1oa.md) *Missile Boat (3122)*
@@ -288,10 +290,10 @@
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-5M**](../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
-- [**Shadow Hawk SHD-5S**](../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
 - [**Shadow Hawk SHD-7CS**](../mechs/shadow_hawk/shadow_hawk_shd-7cs.md) *Missile Boat (3066)* `C3i`
 - [**Shadow Hawk SHD-7M**](../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
 - [**Shadow Hawk SHD-11CS**](../mechs/shadow_hawk/shadow_hawk_shd-11cs.md) *Missile Boat (3068)* `C3i`
+- [**Shadow Hawk SHD-5R**](../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 
 ### [Stooping Hawk](../mechs/stooping_hawk.md)
 - [**Stooping Hawk B**](../mechs/stooping_hawk/stooping_hawk_b.md) *Missile Boat (2970)*
@@ -332,6 +334,7 @@
 ### [Mad Dog Mk III](../mechs/mad_dog_mk_iii.md)
 - [**Mad Dog Mk III (Prime)**](../mechs/mad_dog_mk_iii/mad_dog_mk_iii_prime.md) *Missile Boat (3109)*
 - [**Mad Dog Mk III B**](../mechs/mad_dog_mk_iii/mad_dog_mk_iii_b.md) *Missile Boat (3109)*
+- [**Mad Dog Mk III BLO**](../mechs/mad_dog_mk_iii/mad_dog_mk_iii_blo.md) *Missile Boat (3109)* `C3i`, `Unique`
 
 ### [Quickdraw](../mechs/quickdraw.md)
 - [**Quickdraw QKD-5Mr**](../mechs/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM`
@@ -388,6 +391,8 @@
 - [**Crusader CRD-4BR**](../mechs/crusader/crusader_crd-4br.md) *Missile Boat (3054)*
 - [**Crusader CRD-7L**](../mechs/crusader/crusader_crd-7l.md) *Missile Boat (3067)* `ECM`, `Stealth`
 - [**Crusader CRD-7W**](../mechs/crusader/crusader_crd-7w.md) *Missile Boat (3071)*
+- [**Crusader CRD-8R**](../mechs/crusader/crusader_crd-8r.md) *Missile Boat (3096)*
+- [**Crusader CRD-9R**](../mechs/crusader/crusader_crd-9r.md) *Missile Boat (3129)*
 
 ### [Dragon II](../mechs/dragon_ii.md)
 - [**Dragon II DRG-11K**](../mechs/dragon_ii/dragon_ii_drg-11k.md) *Missile Boat (3099)*
@@ -434,6 +439,7 @@
 ## 70 Tons
 
 ### [Archer](../mechs/archer.md)
+- [**Archer ARC-1A**](../mechs/archer/archer_arc-1a.md) *Missile Boat (2458)*
 - [**Archer ARC-2R**](../mechs/archer/archer_arc-2r.md) *Missile Boat (2474)*
 - [**Archer ARC-2Rb**](../mechs/archer/archer_arc-2rb.md) *Missile Boat (2752)*
 - [**Archer ARC-2K**](../mechs/archer/archer_arc-2k.md) *Missile Boat (2856)*
@@ -517,8 +523,8 @@
 - [**Helepolis HEP-4H**](../mechs/helepolis/helepolis_hep-4h.md) *Missile Boat (3074)*
 
 ### [Inferno](../mechs/inferno.md)
+- [**Inferno INF-NOB**](../mechs/inferno/inferno_inf-nob.md) *Missile Boat (3146)*
 - [**Inferno INF-NOC**](../mechs/inferno/inferno_inf-noc.md) *Missile Boat (3146)*
-- [**Inferno INF-NOR**](../mechs/inferno/inferno_inf-nor.md) *Missile Boat (3146)*
 
 ### [Jade Hawk](../mechs/jade_hawk.md)
 - [**Jade Hawk JHK-04**](../mechs/jade_hawk/jade_hawk_jhk-04.md) *Missile Boat (3135)*
@@ -727,6 +733,10 @@
 
 ### [Scylla](../mechs/scylla.md)
 - [**Scylla (Standard)**](../mechs/scylla/scylla_standard.md) *Missile Boat (3062)*
+
+### [Storm Giant](../mechs/storm_giant.md)
+- [**Storm Giant (Standard)**](../mechs/storm_giant/storm_giant_standard.md) *Missile Boat (2862)*
+- [**Storm Giant 2**](../mechs/storm_giant/storm_giant_2.md) *Missile Boat (2862)*
 
 ### [Thunder Hawk](../mechs/thunder_hawk.md)
 - [**Thunder Hawk TDK-7KMA**](../mechs/thunder_hawk/thunder_hawk_tdk-7kma.md) *Missile Boat (3059)*

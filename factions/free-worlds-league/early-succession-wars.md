@@ -6,7 +6,6 @@
 - [**Flea FLE-14**](../../mechs/flea/flea_fle-14.md) *Scout (2519)*
 
 ### [Patron](../../mechs/patron.md)
-- [**Patron I LoaderMech**](../../mechs/patron/patron_i_loadermech.md) *Ambusher (2470)* `IndustrialMech`
 - [**Patron LoaderMech**](../../mechs/patron/patron_loadermech.md) *Ambusher (2550)* `IndustrialMech`
 
 ## 20 Tons
@@ -71,7 +70,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Marco](../../mechs/marco.md)

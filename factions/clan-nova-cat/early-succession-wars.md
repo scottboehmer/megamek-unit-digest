@@ -110,9 +110,6 @@
 - [**Lynx LNX-9Q**](../../mechs/lynx/lynx_lnx-9q.md) *Skirmisher (2761)*
 - [**Lynx C**](../../mechs/lynx/lynx_c.md) *Skirmisher (2848)*
 
-### [Naja](../../mechs/naja.md)
-- [**Naja**](../../mechs/naja/naja.md) *Undefined (2826)*
-
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 
@@ -123,7 +120,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Ostroc](../../mechs/ostroc.md)
@@ -131,7 +128,6 @@
 
 ### [Vision Quest](../../mechs/vision_quest.md)
 - [**Vision Quest VQ-1NC**](../../mechs/vision_quest/vision_quest_vq-1nc.md) *Sniper (2828)*
-- [**Vision Quest**](../../mechs/vision_quest/vision_quest.md) *Undefined (2832)*
 - [**Vision Quest 2**](../../mechs/vision_quest/vision_quest_2.md) *Sniper (2868)*
 
 ## 65 Tons
@@ -150,7 +146,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 

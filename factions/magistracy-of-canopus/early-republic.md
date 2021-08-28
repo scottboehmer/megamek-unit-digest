@@ -133,7 +133,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -270,7 +270,7 @@
 ### [Phoenix Hawk](../../mechs/phoenix_hawk.md)
 - [**Phoenix Hawk PXH-1**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)*
 - [**Phoenix Hawk PXH-4L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM`, `Stealth`
-- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Brawler (3069)* `ECM`, `Stealth`
+- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Skirmisher (3069)* `ECM`, `Stealth`
 - [**Phoenix Hawk PXH-4W**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4w.md) *Striker (3079)* `ECM`
 
 ### [Quasit](../../mechs/quasit.md)
@@ -357,7 +357,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 
 ### [Cronus](../../mechs/cronus.md)
 - [**Cronus CNS-3M**](../../mechs/cronus/cronus_cns-3m.md) *Skirmisher (3031)*
@@ -387,7 +387,7 @@
 - [**Marshal MHL-X1**](../../mechs/marshal/marshal_mhl-x1.md) *Skirmisher (3059)*
 - [**Marshal MHL-2L**](../../mechs/marshal/marshal_mhl-2l.md) *Skirmisher (3063)*
 - [**Marshal MHL-6MC**](../../mechs/marshal/marshal_mhl-6mc.md) *Skirmisher (3073)*
-- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Undefined (3086)*
+- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)*
 
 ### [Men Shen](../../mechs/men_shen.md)
 - [**Men Shen MS1-O**](../../mechs/men_shen/men_shen_ms1-o.md) *Striker (3060)* `Active Probe`
@@ -400,7 +400,7 @@
 
 ### [Scorpion](../../mechs/scorpion.md)
 - [**Scorpion SCP-1N**](../../mechs/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)*
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 - [**Scorpion SCP-10M**](../../mechs/scorpion/scorpion_scp-10m.md) *Sniper (3080)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)

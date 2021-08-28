@@ -3,7 +3,7 @@
 [Other Aquagladius variants](../aquagladius.md)
 
 ## Aquagladius AQS-4
-- **Role:** Juggernaut
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9, Light

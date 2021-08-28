@@ -3,7 +3,7 @@
 [Other Thunderbolt variants](../thunderbolt.md)
 
 ## Thunderbolt TDR-5D
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2821)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6

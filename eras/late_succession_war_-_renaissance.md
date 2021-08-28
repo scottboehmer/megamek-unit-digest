@@ -8,7 +8,7 @@
 ## 20 Tons
 
 ### [Flea](../mechs/flea.md)
-- [**Flea FLE-16**](../mechs/flea/flea_fle-16.md) *Undefined (3032)*
+- [**Flea FLE-16**](../mechs/flea/flea_fle-16.md) *Scout (3032)*
 - [**Flea FLE-17**](../mechs/flea/flea_fle-17.md) *Striker (3049)*
 
 ### [Locust](../mechs/locust.md)
@@ -95,7 +95,7 @@
 - [**Firestarter FS9-S1**](../mechs/firestarter/firestarter_fs9-s1.md) *Scout (3049)* `ECM`
 
 ### [Jenner](../mechs/jenner.md)
-- [**Jenner JR7-F (Smith)**](../mechs/jenner/jenner_jr7-f_smith.md) *Undefined (3030)* `Unique`
+- [**Jenner JR7-F (Smith)**](../mechs/jenner/jenner_jr7-f_smith.md) *Striker (3030)* `Unique`
 - [**Jenner JR7-K (Grace)**](../mechs/jenner/jenner_jr7-k_grace.md) *Scout (3039)* `Unique`
 - [**Jenner JR7-K**](../mechs/jenner/jenner_jr7-k.md) *Striker (3047)*
 
@@ -148,7 +148,7 @@
 - [**Space Hound AM-PRM-SH1 ProspectorMech**](../mechs/space_hound/space_hound_am-prm-sh1_prospectormech.md) *Undefined (3047)* `IndustrialMech`
 
 ### [Vulcan](../mechs/vulcan.md)
-- [**Vulcan VL-2T (Timms)**](../mechs/vulcan/vulcan_vl-2t_timms.md) *Undefined (3034)* `Unique`
+- [**Vulcan VL-2T (Timms)**](../mechs/vulcan/vulcan_vl-2t_timms.md) *Scout (3034)* `Unique`
 
 ## 45 Tons
 
@@ -214,7 +214,7 @@
 
 ### [Scorpion](../mechs/scorpion.md)
 - [**Scorpion SCP-1N (Wendall)**](../mechs/scorpion/scorpion_scp-1n_wendall.md) *Skirmisher (3030)* `Unique`
-- [**Scorpion SCP-1O**](../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-5M**](../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
@@ -303,7 +303,7 @@
 - [**Guillotine GLT-5M**](../mechs/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)*
 
 ### [Warhammer](../mechs/warhammer.md)
-- [**Warhammer WHM-6K (Olesko)**](../mechs/warhammer/warhammer_whm-6k_olesko.md) *Undefined (3023)* `Unique`
+- [**Warhammer WHM-6K (Olesko)**](../mechs/warhammer/warhammer_whm-6k_olesko.md) *Brawler (3023)* `Unique`
 - [**Warhammer WHM-7M**](../mechs/warhammer/warhammer_whm-7m.md) *Brawler (3047)*
 
 ## 75 Tons

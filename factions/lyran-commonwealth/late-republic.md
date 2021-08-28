@@ -26,9 +26,9 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
 - [**Locust LCT-3S**](../../mechs/locust/locust_lct-3s.md) *Striker (3049)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
@@ -108,13 +108,13 @@
 ## 30 Tons
 
 ### [Arctic Fox](../../mechs/arctic_fox.md)
-- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Brawler (3059)*
+- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Striker (3059)*
 - [**Arctic Fox AF1A**](../../mechs/arctic_fox/arctic_fox_af1a.md) *Striker (3059)*
-- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Brawler (3059)*
-- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Brawler (3059)*
+- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Striker (3059)*
+- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Striker (3059)*
 - [**Arctic Fox AF1D**](../../mechs/arctic_fox/arctic_fox_af1d.md) *Missile Boat (3059)*
 - [**Arctic Fox AF1E**](../../mechs/arctic_fox/arctic_fox_af1e.md) *Sniper (3069)*
-- [**Arctic Fox AF1F**](../../mechs/arctic_fox/arctic_fox_af1f.md) *Brawler (3072)*
+- [**Arctic Fox AF1F**](../../mechs/arctic_fox/arctic_fox_af1f.md) *Striker (3072)*
 - [**Arctic Fox AF1U**](../../mechs/arctic_fox/arctic_fox_af1u.md) *Sniper (3072)*
 
 ### [Battle Hawk](../../mechs/battle_hawk.md)
@@ -434,7 +434,7 @@
 - [**Phoenix PX-1R**](../../mechs/phoenix/phoenix_px-1r.md) *Brawler (2474)*
 - [**Phoenix PX-1KC**](../../mechs/phoenix/phoenix_px-1kc.md) *Brawler (3065)*
 - [**Phoenix PX-1KL**](../../mechs/phoenix/phoenix_px-1kl.md) *Brawler (3070)*
-- [**Phoenix PX-1KT**](../../mechs/phoenix/phoenix_px-1kt.md) *Missile Boat (3070)*
+- [**Phoenix PX-1KT**](../../mechs/phoenix/phoenix_px-1kt.md) *Brawler (3070)*
 
 ### [Starslayer](../../mechs/starslayer.md)
 - [**Starslayer STY-3C**](../../mechs/starslayer/starslayer_sty-3c.md) *Skirmisher (3056)*
@@ -456,7 +456,7 @@
 - [**Bushwacker BSW-S2**](../../mechs/bushwacker/bushwacker_bsw-s2.md) *Sniper (3056)*
 - [**Bushwacker BSW-L1**](../../mechs/bushwacker/bushwacker_bsw-l1.md) *Skirmisher (3063)*
 - [**Bushwacker BSW-S2r**](../../mechs/bushwacker/bushwacker_bsw-s2r.md) *Skirmisher (3075)*
-- [**Bushwacker BSW-X4**](../../mechs/bushwacker/bushwacker_bsw-x4.md) *Skirmisher (3125)*
+- [**Bushwacker BSW-X4**](../../mechs/bushwacker/bushwacker_bsw-x4.md) *Sniper (3125)*
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-D**](../../mechs/centurion/centurion_cn10-d.md) *Sniper (3121)*
@@ -501,8 +501,8 @@
 - [**Scorpion SCP-12S**](../../mechs/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
-- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe`, `ECM`, `TAG`
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ### [Thunder Fox](../../mechs/thunder_fox.md)

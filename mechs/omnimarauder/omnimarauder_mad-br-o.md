@@ -3,7 +3,7 @@
 [Other OmniMarauder variants](../omnimarauder.md)
 
 ## OmniMarauder MAD-BR-O
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Inner Sphere Mixed (3135)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6, XL

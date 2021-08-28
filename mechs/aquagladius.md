@@ -17,7 +17,7 @@
 - [*More Info*](aquagladius/aquagladius_aqs-3.md)
 
 ## Aquagladius AQS-4
-- **Role:** Juggernaut
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9, Light
@@ -34,7 +34,7 @@
 - [*More Info*](aquagladius/aquagladius_aqs-4.md)
 
 ## Aquagladius AQS-5 MAM
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3090)
 - **Chassis:** 50 tons (Composite)
 - **Movement:** 6 (7) / 9 (11), XXL

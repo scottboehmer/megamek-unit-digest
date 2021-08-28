@@ -3,7 +3,7 @@
 [Other Porcupine variants](../porcupine.md)
 
 ## Porcupine PRC-3N
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3132)
 - **Chassis:** 20 tons
 - **Movement:** 9 / 14 (23), XXL

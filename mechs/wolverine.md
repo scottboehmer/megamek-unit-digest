@@ -81,7 +81,7 @@
 - [*More Info*](wolverine/wolverine_wvr-6m.md)
 
 ## Wolverine WVR-6D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2834)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8
@@ -110,7 +110,7 @@
 - **Equipment:**
   - CASE
   - MASC
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d)
+- **Sources:** ilClan Rec Guide 18 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d)
 - **Battle Value:** 1314
 - [*More Info*](wolverine/wolverine_wvr-7d.md)
 
@@ -127,7 +127,7 @@
   - SRM 6 × 2 (ammo: 30)
   - Medium Pulse Laser
   - Small Pulse Laser
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k)
+- **Sources:** ilClan Rec Guide 18 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k)
 - **Battle Value:** 1331
 - [*More Info*](wolverine/wolverine_wvr-7k.md)
 
@@ -145,7 +145,7 @@
   - Medium Pulse Laser × 2
 - **Equipment:**
   - MASC
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m)
+- **Sources:** ilClan Rec Guide 18 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m)
 - **Battle Value:** 1673
 - [*More Info*](wolverine/wolverine_wvr-7m.md)
 
@@ -225,6 +225,24 @@
 - **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c)
 - **Battle Value:** 1447
 - [*More Info*](wolverine/wolverine_wvr-8c.md)
+
+## Wolverine WVR-7M2
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3072)
+- **Chassis:** 55 tons
+- **Movement:** 5 / 8 (10), XL
+  - **Jumping:** 5
+- **Armor:** 160
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Heavy PPC
+  - SRM 6 (ammo: 15)
+  - Medium Pulse Laser × 2
+- **Equipment:**
+  - MASC
+- **Source:** ilClan Rec Guide 18 - Jihad
+- **Battle Value:** 1752
+- [*More Info*](wolverine/wolverine_wvr-7m2.md)
 
 ## Wolverine WVR-9M
 - **Role:** Skirmisher
@@ -307,4 +325,95 @@
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2)
 - **Battle Value:** 1463
 - [*More Info*](wolverine/wolverine_wvr-9w2.md)
+
+## Wolverine WVR-9R
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3089)
+- **Chassis:** 55 tons
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 176
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Ultra AC/10 (ammo: 20)
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser
+- **Equipment:**
+  - CASE
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 1481
+- [*More Info*](wolverine/wolverine_wvr-9r.md)
+
+## Wolverine WVR-10R
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3115)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9 (12), XL
+  - **Jumping:** 6
+- **Armor:** 185 (Light Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Snub-Nose PPC
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser
+- **Equipment:**
+  - CASE II
+  - Targeting Computer
+  - MASC
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 1791
+- [*More Info*](wolverine/wolverine_wvr-10r.md)
+
+## Wolverine WVR-11M
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3122)
+- **Chassis:** 55 tons
+- **Movement:** 5 / 8 (10), XL
+  - **Jumping:** 5
+- **Armor:** 176
+- **Heat Sinks:** 12 (24)
+- **Weapons:**
+  - Heavy PPC
+  - Medium X-Pulse Laser
+  - SRM 6 (ammo: 15)
+- **Equipment:**
+  - CASE II
+  - MASC
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 1778
+- [*More Info*](wolverine/wolverine_wvr-11m.md)
+
+## Wolverine WVR-10D
+- **Role:** Skirmisher
+- **Tech Base:** Inner Sphere (3143)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 5 / 8 (10), XL
+  - **Jumping:** 5
+- **Armor:** 185
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - RAC/5 (ammo: 60)
+  - Streak SRM 6 (ammo: 15)
+  - Medium X-Pulse Laser
+- **Equipment:**
+  - CASE II
+  - Supercharger
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 1925
+- [*More Info*](wolverine/wolverine_wvr-10d.md)
+
+## Wolverine WVR-10V2
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3143)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 6 / 9, XL
+  - **Jumping:** 6
+- **Armor:** 178 (Light Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Gauss Rifle (ammo: 24)
+  - ER Medium Laser
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 1747
+- [*More Info*](wolverine/wolverine_wvr-10v2.md)
 

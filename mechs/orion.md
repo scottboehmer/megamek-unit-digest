@@ -1,6 +1,6 @@
 # Orion
 ## Orion ON1-C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2453)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6
@@ -15,7 +15,7 @@
 - [*More Info*](orion/orion_on1-c.md)
 
 ## Orion ON1-H
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2456)
 - **Chassis:** 75 tons
 - **Movement:** 3 / 5

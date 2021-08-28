@@ -12,7 +12,7 @@
 - [**Fire Moth H**](../../mechs/fire_moth/fire_moth_h.md) *Striker (3060)*
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Piranha](../../mechs/piranha.md)
 - [**Piranha (Standard)**](../../mechs/piranha/piranha_standard.md) *Striker (3051)*
@@ -58,10 +58,10 @@
 - [**Arctic Cheetah D**](../../mechs/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)*
 
 ### [Arctic Fox](../../mechs/arctic_fox.md)
-- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Brawler (3059)*
+- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Striker (3059)*
 - [**Arctic Fox AF1A**](../../mechs/arctic_fox/arctic_fox_af1a.md) *Striker (3059)*
-- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Brawler (3059)*
-- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Brawler (3059)*
+- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Striker (3059)*
+- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Striker (3059)*
 - [**Arctic Fox AF1D**](../../mechs/arctic_fox/arctic_fox_af1d.md) *Missile Boat (3059)*
 
 ### [Firefly](../../mechs/firefly.md)
@@ -239,7 +239,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow I**](../../mechs/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe`
@@ -322,7 +322,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 
@@ -390,7 +390,7 @@
 - [**Timber Wolf D**](../../mechs/timber_wolf/timber_wolf_d.md) *Skirmisher (2945)*
 - [**Timber Wolf N**](../../mechs/timber_wolf/timber_wolf_n.md) *Brawler (3050)*
 - [**Timber Wolf S**](../../mechs/timber_wolf/timber_wolf_s.md) *Skirmisher (3050)*
-- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Undefined (3052)*
+- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Skirmisher (3052)*
 - [**Timber Wolf E**](../../mechs/timber_wolf/timber_wolf_e.md) *Sniper (3054)* `TAG`
 - [**Timber Wolf H**](../../mechs/timber_wolf/timber_wolf_h.md) *Missile Boat (3059)*
 

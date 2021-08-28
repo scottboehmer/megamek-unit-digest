@@ -25,7 +25,7 @@
 - [**Fire Moth R**](../../mechs/fire_moth/fire_moth_r.md) *Scout (3110)* `C3 Slave`, `ECM`
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
 ### [Stinger](../../mechs/stinger.md)
@@ -283,7 +283,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow I**](../../mechs/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe`
@@ -434,7 +434,7 @@
 - [**Timber Wolf D**](../../mechs/timber_wolf/timber_wolf_d.md) *Skirmisher (2945)*
 - [**Timber Wolf N**](../../mechs/timber_wolf/timber_wolf_n.md) *Brawler (3050)*
 - [**Timber Wolf S**](../../mechs/timber_wolf/timber_wolf_s.md) *Skirmisher (3050)*
-- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Undefined (3052)*
+- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Skirmisher (3052)*
 - [**Timber Wolf E**](../../mechs/timber_wolf/timber_wolf_e.md) *Sniper (3054)* `TAG`
 - [**Timber Wolf H**](../../mechs/timber_wolf/timber_wolf_h.md) *Missile Boat (3059)*
 - [**Timber Wolf M**](../../mechs/timber_wolf/timber_wolf_m.md) *Brawler (3068)*

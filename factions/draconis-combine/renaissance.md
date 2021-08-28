@@ -53,7 +53,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Pacifier](../../mechs/pacifier.md)
@@ -81,7 +81,7 @@
 ### [Jenner](../../mechs/jenner.md)
 - [**Jenner JR7-F**](../../mechs/jenner/jenner_jr7-f.md) *Striker (2784)*
 - [**Jenner JR7-D**](../../mechs/jenner/jenner_jr7-d.md) *Striker (2785)*
-- [**Jenner JR7-F (Smith)**](../../mechs/jenner/jenner_jr7-f_smith.md) *Undefined (3030)* `Unique`
+- [**Jenner JR7-F (Smith)**](../../mechs/jenner/jenner_jr7-f_smith.md) *Striker (3030)* `Unique`
 - [**Jenner JR7-K (Grace)**](../../mechs/jenner/jenner_jr7-k_grace.md) *Scout (3039)* `Unique`
 - [**Jenner JR7-K**](../../mechs/jenner/jenner_jr7-k.md) *Striker (3047)*
 
@@ -277,7 +277,7 @@
 ### [Warhammer](../../mechs/warhammer.md)
 - [**Warhammer WHM-6R**](../../mechs/warhammer/warhammer_whm-6r.md) *Brawler (2515)*
 - [**Warhammer WHM-6K**](../../mechs/warhammer/warhammer_whm-6k.md) *Brawler (2830)*
-- [**Warhammer WHM-6K (Olesko)**](../../mechs/warhammer/warhammer_whm-6k_olesko.md) *Undefined (3023)* `Unique`
+- [**Warhammer WHM-6K (Olesko)**](../../mechs/warhammer/warhammer_whm-6k_olesko.md) *Brawler (3023)* `Unique`
 
 ## 75 Tons
 

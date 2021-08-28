@@ -24,7 +24,7 @@
 - [**Fire Moth R**](../../mechs/fire_moth/fire_moth_r.md) *Scout (3110)* `C3 Slave`, `ECM`
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
 ### [Stinger](../../mechs/stinger.md)
@@ -65,10 +65,10 @@
 - [**Mist Lynx P**](../../mechs/mist_lynx/mist_lynx_p.md) *Scout (3061)* `Active Probe`
 - [**Mist Lynx F**](../../mechs/mist_lynx/mist_lynx_f.md) *Scout (3063)* `Active Probe`, `ECM`, `TAG`
 - [**Mist Lynx G**](../../mechs/mist_lynx/mist_lynx_g.md) *Striker (3068)* `Active Probe`
-- [**Mist Lynx I**](../../mechs/mist_lynx/mist_lynx_i.md) *Undefined (3086)* `Active Probe`
-- [**Mist Lynx J**](../../mechs/mist_lynx/mist_lynx_j.md) *Undefined (3107)* `Active Probe`
-- [**Mist Lynx K**](../../mechs/mist_lynx/mist_lynx_k.md) *Undefined (3112)* `Active Probe`
-- [**Mist Lynx L**](../../mechs/mist_lynx/mist_lynx_l.md) *Undefined (3124)* `Active Probe`, `ECM`
+- [**Mist Lynx I**](../../mechs/mist_lynx/mist_lynx_i.md) *Striker (3086)* `Active Probe`
+- [**Mist Lynx J**](../../mechs/mist_lynx/mist_lynx_j.md) *Sniper (3107)* `Active Probe`
+- [**Mist Lynx K**](../../mechs/mist_lynx/mist_lynx_k.md) *Scout (3112)* `Active Probe`
+- [**Mist Lynx L**](../../mechs/mist_lynx/mist_lynx_l.md) *Scout (3124)* `Active Probe`, `ECM`
 
 ### [Peacekeeper](../../mechs/peacekeeper.md)
 - [**Peacekeeper PK-6 SecurityMech**](../../mechs/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech`
@@ -173,9 +173,9 @@
 - [**Harvester HVR-199 AgroMech**](../../mechs/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech`
 
 ### [Lobo](../../mechs/lobo.md)
-- [**Lobo (Standard)**](../../mechs/lobo/lobo_standard.md) *Brawler (3059)*
-- [**Lobo 2**](../../mechs/lobo/lobo_2.md) *Brawler (3072)*
-- [**Lobo 3**](../../mechs/lobo/lobo_3.md) *Brawler (3077)*
+- [**Lobo (Standard)**](../../mechs/lobo/lobo_standard.md) *Striker (3059)*
+- [**Lobo 2**](../../mechs/lobo/lobo_2.md) *Striker (3072)*
+- [**Lobo 3**](../../mechs/lobo/lobo_3.md) *Striker (3077)*
 
 ### [Phantom](../../mechs/phantom.md)
 - [**Phantom Prime**](../../mechs/phantom/phantom_prime.md) *Scout (3052)* `Active Probe`, `ECM`, `TAG`
@@ -270,7 +270,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow I**](../../mechs/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe`
@@ -380,7 +380,7 @@
 - [**Timber Wolf D**](../../mechs/timber_wolf/timber_wolf_d.md) *Skirmisher (2945)*
 - [**Timber Wolf N**](../../mechs/timber_wolf/timber_wolf_n.md) *Brawler (3050)*
 - [**Timber Wolf S**](../../mechs/timber_wolf/timber_wolf_s.md) *Skirmisher (3050)*
-- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Undefined (3052)*
+- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Skirmisher (3052)*
 - [**Timber Wolf E**](../../mechs/timber_wolf/timber_wolf_e.md) *Sniper (3054)* `TAG`
 - [**Timber Wolf H**](../../mechs/timber_wolf/timber_wolf_h.md) *Missile Boat (3059)*
 - [**Timber Wolf M**](../../mechs/timber_wolf/timber_wolf_m.md) *Brawler (3068)*
@@ -410,7 +410,7 @@
 - [**Gargoyle P**](../../mechs/gargoyle/gargoyle_p.md) *Skirmisher (3093)*
 - [**Gargoyle I**](../../mechs/gargoyle/gargoyle_i.md) *Sniper (3113)*
 - [**Gargoyle F**](../../mechs/gargoyle/gargoyle_f.md) *Brawler (3127)*
-- [**Gargoyle X**](../../mechs/gargoyle/gargoyle_x.md) *Undefined (3128)*
+- [**Gargoyle X**](../../mechs/gargoyle/gargoyle_x.md) *Skirmisher (3128)*
 
 ### [Naga](../../mechs/naga.md)
 - [**Naga Prime**](../../mechs/naga/naga_prime.md) *Missile Boat (2945)*
@@ -523,10 +523,10 @@
 - [**Imp C**](../../mechs/imp/imp_c.md) *Juggernaut (2863)*
 
 ### [Tomahawk](../../mechs/tomahawk.md)
-- [**Tomahawk (Prime)**](../../mechs/tomahawk/tomahawk_prime.md) *Juggernaut (3065)* `ECM`
-- [**Tomahawk A**](../../mechs/tomahawk/tomahawk_a.md) *Juggernaut (3065)*
-- [**Tomahawk B**](../../mechs/tomahawk/tomahawk_b.md) *Juggernaut (3065)*
-- [**Tomahawk C**](../../mechs/tomahawk/tomahawk_c.md) *Undefined (3065)*
+- [**Tomahawk (Prime)**](../../mechs/tomahawk/tomahawk_prime.md) *Juggernaut (3063)* `ECM`
+- [**Tomahawk A**](../../mechs/tomahawk/tomahawk_a.md) *Juggernaut (3063)*
+- [**Tomahawk B**](../../mechs/tomahawk/tomahawk_b.md) *Juggernaut (3063)*
+- [**Tomahawk C**](../../mechs/tomahawk/tomahawk_c.md) *Undefined (3063)*
 
 ### [Tomahawk II](../../mechs/tomahawk_ii.md)
 - [**Tomahawk II (Prime)**](../../mechs/tomahawk_ii/tomahawk_ii_prime.md) *Sniper (3088)*

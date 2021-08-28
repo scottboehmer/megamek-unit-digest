@@ -24,13 +24,13 @@
 ## 30 Tons
 
 ### [Arctic Fox](../../mechs/arctic_fox.md)
-- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Brawler (3059)*
+- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Striker (3059)*
 - [**Arctic Fox AF1A**](../../mechs/arctic_fox/arctic_fox_af1a.md) *Striker (3059)*
-- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Brawler (3059)*
-- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Brawler (3059)*
+- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Striker (3059)*
+- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Striker (3059)*
 - [**Arctic Fox AF1D**](../../mechs/arctic_fox/arctic_fox_af1d.md) *Missile Boat (3059)*
 - [**Arctic Fox AF1E**](../../mechs/arctic_fox/arctic_fox_af1e.md) *Sniper (3069)*
-- [**Arctic Fox AF1F**](../../mechs/arctic_fox/arctic_fox_af1f.md) *Brawler (3072)*
+- [**Arctic Fox AF1F**](../../mechs/arctic_fox/arctic_fox_af1f.md) *Striker (3072)*
 - [**Arctic Fox AF1U**](../../mechs/arctic_fox/arctic_fox_af1u.md) *Sniper (3072)*
 
 ### [Nyx](../../mechs/nyx.md)
@@ -52,12 +52,12 @@
 ### [Arctic Wolf](../../mechs/arctic_wolf.md)
 - [**Arctic Wolf (Standard)**](../../mechs/arctic_wolf/arctic_wolf_standard.md) *Striker (3059)*
 - [**Arctic Wolf Prime**](../../mechs/arctic_wolf/arctic_wolf_prime.md) *Striker (3067)*
-- [**Arctic Wolf A**](../../mechs/arctic_wolf/arctic_wolf_a.md) *Missile Boat (3067)* `ECM`
-- [**Arctic Wolf J**](../../mechs/arctic_wolf/arctic_wolf_j.md) *Brawler (3070)* `Active Probe`, `ECM`
+- [**Arctic Wolf A**](../../mechs/arctic_wolf/arctic_wolf_a.md) *Undefined (3067)* `ECM`
+- [**Arctic Wolf J**](../../mechs/arctic_wolf/arctic_wolf_j.md) *Striker (3070)* `Active Probe`, `ECM`
 
 ### [Arctic Wolf II](../../mechs/arctic_wolf_ii.md)
-- [**Arctic Wolf II Prime**](../../mechs/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Striker (3085)* `Active Probe`, `ECM`
-- [**Arctic Wolf II A**](../../mechs/arctic_wolf_ii/arctic_wolf_ii_a.md) *Missile Boat (3085)*
+- [**Arctic Wolf II Prime**](../../mechs/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* `Active Probe`, `ECM`
+- [**Arctic Wolf II A**](../../mechs/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)*
 - [**Arctic Wolf II B**](../../mechs/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)*
 - [**Arctic Wolf II C**](../../mechs/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)*
 
@@ -193,7 +193,7 @@
 - [**Timber Wolf D**](../../mechs/timber_wolf/timber_wolf_d.md) *Skirmisher (2945)*
 - [**Timber Wolf N**](../../mechs/timber_wolf/timber_wolf_n.md) *Brawler (3050)*
 - [**Timber Wolf S**](../../mechs/timber_wolf/timber_wolf_s.md) *Skirmisher (3050)*
-- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Undefined (3052)*
+- [**Timber Wolf TC**](../../mechs/timber_wolf/timber_wolf_tc.md) *Skirmisher (3052)*
 - [**Timber Wolf E**](../../mechs/timber_wolf/timber_wolf_e.md) *Sniper (3054)* `TAG`
 - [**Timber Wolf H**](../../mechs/timber_wolf/timber_wolf_h.md) *Missile Boat (3059)*
 - [**Timber Wolf M**](../../mechs/timber_wolf/timber_wolf_m.md) *Brawler (3068)*

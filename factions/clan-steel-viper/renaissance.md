@@ -3,7 +3,7 @@
 ## 20 Tons
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Stinger](../../mechs/stinger.md)
 - [**Stinger STG-3Gb**](../../mechs/stinger/stinger_stg-3gb.md) *Striker (2720)*
@@ -157,7 +157,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
@@ -303,7 +303,7 @@
 - [**Stone Rhino 7**](../../mechs/stone_rhino/stone_rhino_7.md) *Sniper (3001)*
 
 ### [Storm Giant](../../mechs/storm_giant.md)
-- [**Storm Giant 2**](../../mechs/storm_giant/storm_giant_2.md) *Juggernaut (2862)*
+- [**Storm Giant 2**](../../mechs/storm_giant/storm_giant_2.md) *Missile Boat (2862)*
 
 ### [Thunder Hawk](../../mechs/thunder_hawk.md)
 - [**Thunder Hawk TDK-7X**](../../mechs/thunder_hawk/thunder_hawk_tdk-7x.md) *Sniper (2771)*

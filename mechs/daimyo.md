@@ -60,7 +60,7 @@
 - [*More Info*](daimyo/daimyo_dmo-5k.md)
 
 ## Daimyo DMO-1K2 (Al-Shahab)
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3066)
 - **Chassis:** 40 tons
 - **Movement:** 5 / 8 (10), Light

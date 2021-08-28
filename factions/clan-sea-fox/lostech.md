@@ -105,7 +105,6 @@
 
 ### [Fox](../../mechs/fox.md)
 - [**Fox CS-1**](../../mechs/fox/fox_cs-1.md) *Missile Boat (2824)*
-- [**Fox**](../../mechs/fox/fox.md) *Undefined (2835)*
 
 ## 55 Tons
 
@@ -145,7 +144,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)

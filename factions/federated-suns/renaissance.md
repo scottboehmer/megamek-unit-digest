@@ -48,7 +48,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -194,7 +194,7 @@
 
 ### [Wolverine](../../mechs/wolverine.md)
 - [**Wolverine WVR-6R**](../../mechs/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)*
-- [**Wolverine WVR-6D**](../../mechs/wolverine/wolverine_wvr-6d.md) *Undefined (2834)*
+- [**Wolverine WVR-6D**](../../mechs/wolverine/wolverine_wvr-6d.md) *Skirmisher (2834)*
 
 ## 60 Tons
 
@@ -250,7 +250,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
-- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Undefined (2821)*
+- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)*
 - [**Thunderbolt TDR-5S-T (Tallman)**](../../mechs/thunderbolt/thunderbolt_tdr-5s-t_tallman.md) *Brawler (3025)* `Unique`
 
 ## 70 Tons
@@ -319,7 +319,7 @@
 
 ### [Zeus](../../mechs/zeus.md)
 - [**Zeus ZEU-6S**](../../mechs/zeus/zeus_zeu-6s.md) *Sniper (2898)*
-- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Undefined (2940)*
+- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Brawler (2940)*
 - [**Zeus ZEU-6T**](../../mechs/zeus/zeus_zeu-6t.md) *Sniper (3026)*
 
 ## 85 Tons

@@ -48,9 +48,6 @@
 ### [Devil](../../mechs/devil.md)
 - [**Devil (Standard)**](../../mechs/devil/devil_standard.md) *Sniper (2911)*
 
-### [Drift Shag](../../mechs/drift_shag.md)
-- [**Drift Shag**](../../mechs/drift_shag/drift_shag.md) *Undefined (2827)*
-
 ### [Hussar](../../mechs/hussar.md)
 - [**Hussar HSR-200-D**](../../mechs/hussar/hussar_hsr-200-d.md) *Scout (2620)*
 - [**Hussar HSR-200-Db**](../../mechs/hussar/hussar_hsr-200-db.md) *Scout (2735)* `Active Probe`, `ECM`

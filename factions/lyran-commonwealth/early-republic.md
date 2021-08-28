@@ -27,9 +27,9 @@
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
 - [**Locust LCT-1S**](../../mechs/locust/locust_lct-1s.md) *Scout (2567)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
 - [**Locust LCT-3S**](../../mechs/locust/locust_lct-3s.md) *Striker (3049)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
@@ -97,13 +97,13 @@
 ## 30 Tons
 
 ### [Arctic Fox](../../mechs/arctic_fox.md)
-- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Brawler (3059)*
+- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Striker (3059)*
 - [**Arctic Fox AF1A**](../../mechs/arctic_fox/arctic_fox_af1a.md) *Striker (3059)*
-- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Brawler (3059)*
-- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Brawler (3059)*
+- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Striker (3059)*
+- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Striker (3059)*
 - [**Arctic Fox AF1D**](../../mechs/arctic_fox/arctic_fox_af1d.md) *Missile Boat (3059)*
 - [**Arctic Fox AF1E**](../../mechs/arctic_fox/arctic_fox_af1e.md) *Sniper (3069)*
-- [**Arctic Fox AF1F**](../../mechs/arctic_fox/arctic_fox_af1f.md) *Brawler (3072)*
+- [**Arctic Fox AF1F**](../../mechs/arctic_fox/arctic_fox_af1f.md) *Striker (3072)*
 - [**Arctic Fox AF1U**](../../mechs/arctic_fox/arctic_fox_af1u.md) *Sniper (3072)*
 
 ### [Battle Hawk](../../mechs/battle_hawk.md)
@@ -414,7 +414,7 @@
 - [**Phoenix PX-1R**](../../mechs/phoenix/phoenix_px-1r.md) *Brawler (2474)*
 - [**Phoenix PX-1KC**](../../mechs/phoenix/phoenix_px-1kc.md) *Brawler (3065)*
 - [**Phoenix PX-1KL**](../../mechs/phoenix/phoenix_px-1kl.md) *Brawler (3070)*
-- [**Phoenix PX-1KT**](../../mechs/phoenix/phoenix_px-1kt.md) *Missile Boat (3070)*
+- [**Phoenix PX-1KT**](../../mechs/phoenix/phoenix_px-1kt.md) *Brawler (3070)*
 - [**Phoenix PX-1KR**](../../mechs/phoenix/phoenix_px-1kr.md) *Brawler (3079)*
 
 ### [Starslayer](../../mechs/starslayer.md)
@@ -482,8 +482,8 @@
 - [**Scorpion SCP-12S**](../../mechs/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
-- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe`, `ECM`, `TAG`
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 
 ### [Slagmaiden](../../mechs/slagmaiden.md)
 - [**Slagmaiden SLG-X**](../../mechs/slagmaiden/slagmaiden_slg-x.md) *Skirmisher (3076)* `Unique`
@@ -596,7 +596,7 @@
 ## 70 Tons
 
 ### [Archer](../../mechs/archer.md)
-- [**Archer ARC-1A**](../../mechs/archer/archer_arc-1a.md) *Undefined (2458)*
+- [**Archer ARC-1A**](../../mechs/archer/archer_arc-1a.md) *Missile Boat (2458)*
 - [**Archer ARC-2R**](../../mechs/archer/archer_arc-2r.md) *Missile Boat (2474)*
 - [**Archer ARC-5S**](../../mechs/archer/archer_arc-5s.md) *Missile Boat (3050)*
 - [**Archer ARC-5W**](../../mechs/archer/archer_arc-5w.md) *Missile Boat (3050)*
@@ -786,7 +786,7 @@
 
 ### [Zeus](../../mechs/zeus.md)
 - [**Zeus ZEU-6S**](../../mechs/zeus/zeus_zeu-6s.md) *Sniper (2898)*
-- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Undefined (2940)*
+- [**Zeus ZEU-6A**](../../mechs/zeus/zeus_zeu-6a.md) *Brawler (2940)*
 - [**Zeus ZEU-6T**](../../mechs/zeus/zeus_zeu-6t.md) *Sniper (3026)*
 - [**Zeus ZEU-9S**](../../mechs/zeus/zeus_zeu-9s.md) *Sniper (3048)*
 - [**Zeus ZEU-9S-DC**](../../mechs/zeus/zeus_zeu-9s-dc.md) *Sniper (3049)* `Command Console`

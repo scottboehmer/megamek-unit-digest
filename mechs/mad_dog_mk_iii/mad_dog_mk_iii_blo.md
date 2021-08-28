@@ -3,7 +3,7 @@
 [Other Mad Dog Mk III variants](../mad_dog_mk_iii.md)
 
 ## Mad Dog Mk III "Vulture Mk III" BLO
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan Mixed (3109)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8, XL

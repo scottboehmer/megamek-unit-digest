@@ -81,7 +81,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -326,7 +326,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`
@@ -547,7 +547,7 @@
 - [**Atlas AS7-D**](../../mechs/atlas/atlas_as7-d.md) *Juggernaut (2755)*
 - [**Atlas AS7-D-DC**](../../mechs/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console`
 - [**Atlas AS7-RS**](../../mechs/atlas/atlas_as7-rs.md) *Juggernaut (2892)*
-- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Undefined (2954)*
+- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Juggernaut (2954)*
 - [**Atlas AS7-K-DC**](../../mechs/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console`
 
 ### [Dire Wolf](../../mechs/dire_wolf.md)

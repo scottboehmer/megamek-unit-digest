@@ -1,0 +1,22 @@
+# Crossbow G
+
+[Other Crossbow variants](../crossbow.md)
+
+## Crossbow G
+- **Role:** Sniper
+- **Tech Base:** Clan (3136)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak LRM 5 × 6 (ammo: 96)
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1725
+
+## Availability
+
+Availability Unknown
+

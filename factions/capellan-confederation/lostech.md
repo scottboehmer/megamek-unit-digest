@@ -48,7 +48,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -310,7 +310,7 @@
 - [**Atlas AS7-D**](../../mechs/atlas/atlas_as7-d.md) *Juggernaut (2755)*
 - [**Atlas AS7-D-DC**](../../mechs/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console`
 - [**Atlas AS7-RS**](../../mechs/atlas/atlas_as7-rs.md) *Juggernaut (2892)*
-- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Undefined (2954)*
+- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Juggernaut (2954)*
 
 ### [King Crab](../../mechs/king_crab.md)
 - [**King Crab KGC-0000**](../../mechs/king_crab/king_crab_kgc-0000.md) *Juggernaut (2815)*

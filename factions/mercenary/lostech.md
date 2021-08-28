@@ -29,7 +29,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Marco](../../mechs/marco.md)
@@ -173,7 +173,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
-- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Undefined (2821)*
+- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)*
 - [**Thunderbolt TDR-5SE**](../../mechs/thunderbolt/thunderbolt_tdr-5se.md) *Skirmisher (2910)*
 
 ## 70 Tons
@@ -257,4 +257,4 @@
 ### [Atlas](../../mechs/atlas.md)
 - [**Atlas AS7-D**](../../mechs/atlas/atlas_as7-d.md) *Juggernaut (2755)*
 - [**Atlas AS7-RS**](../../mechs/atlas/atlas_as7-rs.md) *Juggernaut (2892)*
-- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Undefined (2954)*
+- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Juggernaut (2954)*

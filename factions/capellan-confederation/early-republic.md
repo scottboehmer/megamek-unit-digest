@@ -288,7 +288,7 @@
 - [**Phoenix Hawk PXH-1c (Special)**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1c_special.md) *Striker (2765)* `ECM`
 - [**Phoenix Hawk PXH-3M**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-3m.md) *Striker (3045)*
 - [**Phoenix Hawk PXH-4L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM`, `Stealth`
-- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Brawler (3069)* `ECM`, `Stealth`
+- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Skirmisher (3069)* `ECM`, `Stealth`
 
 ### [Shadow Hawk IIC](../../mechs/shadow_hawk_iic.md)
 - [**Shadow Hawk IIC 3**](../../mechs/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)*
@@ -433,7 +433,7 @@
 - [**Osprey OSP-26**](../../mechs/osprey/osprey_osp-26.md) *Skirmisher (3076)* `Active Probe`
 
 ### [Scorpion](../../mechs/scorpion.md)
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 - [**Scorpion SCP-10M**](../../mechs/scorpion/scorpion_scp-10m.md) *Sniper (3080)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
@@ -442,7 +442,7 @@
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
 - [**Shadow Hawk SHD-7M**](../../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
 - [**Shadow Hawk SHD-8L**](../../mechs/shadow_hawk/shadow_hawk_shd-8l.md) *Striker (3079)* `Active Probe`, `ECM`
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 
 ### [Wolverine](../../mechs/wolverine.md)
 - [**Wolverine WVR-1R**](../../mechs/wolverine/wolverine_wvr-1r.md) *Skirmisher (2471)*

@@ -3,7 +3,7 @@
 [Other Orion variants](../orion.md)
 
 ## Orion ON1-C
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2453)
 - **Chassis:** 75 tons
 - **Movement:** 4 / 6

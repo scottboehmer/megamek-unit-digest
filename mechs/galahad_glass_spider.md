@@ -48,8 +48,8 @@
 - **Battle Value:** 2508
 - [*More Info*](glass_spider/glass_spider_3.md)
 
-## Glass Spider 4 "Galahad"
-- **Role:** Undefined
+## Galahad (Glass Spider) 4
+- **Role:** Sniper
 - **Tech Base:** Clan (3148)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8), XL
@@ -62,7 +62,7 @@
   - CASE
   - Targeting Computer
   - Supercharger
-- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8131/galahad-glass-spider-4)
+- **Source:** RecGuide 13 - Dark Ages
 - **Battle Value:** 2309
-- [*More Info*](glass_spider/glass_spider_4.md)
+- [*More Info*](galahad_glass_spider/galahad_glass_spider_4.md)
 

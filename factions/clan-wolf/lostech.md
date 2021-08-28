@@ -144,7 +144,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
@@ -218,7 +218,7 @@
 ### [Woodsman](../../mechs/woodsman.md)
 - [**Woodsman Prime**](../../mechs/woodsman/woodsman_prime.md) *Brawler (2866)*
 - [**Woodsman A**](../../mechs/woodsman/woodsman_a.md) *Sniper (2866)*
-- [**Woodsman B**](../../mechs/woodsman/woodsman_b.md) *Brawler (2866)*
+- [**Woodsman B**](../../mechs/woodsman/woodsman_b.md) *Sniper (2866)*
 
 ## 80 Tons
 

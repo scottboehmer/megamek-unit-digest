@@ -50,13 +50,13 @@
 - [**Daedalus DAD-3D**](../../mechs/daedalus/daedalus_dad-3d.md) *Striker (3062)*
 - [**Daedalus DAD-4A**](../../mechs/daedalus/daedalus_dad-4a.md) *Striker (3064)*
 - [**Daedalus DAD-4B**](../../mechs/daedalus/daedalus_dad-4b.md) *Striker (3067)*
-- [**Daedalus DAD-DX**](../../mechs/daedalus/daedalus_dad-dx.md) *Undefined (3097)* `Unique`
+- [**Daedalus DAD-DX**](../../mechs/daedalus/daedalus_dad-dx.md) *Striker (3097)* `Unique`
 
 ## 50 Tons
 
 ### [Aquagladius](../../mechs/aquagladius.md)
 - [**Aquagladius AQS-3**](../../mechs/aquagladius/aquagladius_aqs-3.md) *Striker (3065)*
-- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Juggernaut (3066)*
+- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Striker (3066)*
 
 ## 65 Tons
 

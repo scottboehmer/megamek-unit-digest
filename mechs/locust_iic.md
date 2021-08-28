@@ -9,7 +9,7 @@
 - **Weapons:**
   - Medium Pulse Laser
   - ER Small Laser × 8
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard)
+- **Sources:** Recognition Guide:ilClan #16 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard)
 - **Battle Value:** 1100
 - [*More Info*](locust_iic/locust_iic_standard.md)
 
@@ -25,7 +25,7 @@
   - Streak SRM 2 × 4 (ammo: 50)
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2)
+- **Sources:** Recognition Guide:ilClan #16 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2)
 - **Battle Value:** 937
 - [*More Info*](locust_iic/locust_iic_2.md)
 
@@ -39,7 +39,7 @@
 - **Weapons:**
   - ER Large Laser
   - Small Pulse Laser × 2
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3)
+- **Sources:** Recognition Guide:ilClan #16 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3)
 - **Battle Value:** 980
 - [*More Info*](locust_iic/locust_iic_3.md)
 
@@ -135,4 +135,18 @@
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9)
 - **Battle Value:** 1133
 - [*More Info*](locust_iic/locust_iic_9.md)
+
+## Locust IIC 10
+- **Role:** Striker
+- **Tech Base:** Clan (3148)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12
+- **Armor:** 80 (Laser Reflective)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - ER Small Laser × 8
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 1248
+- [*More Info*](locust_iic/locust_iic_10.md)
 

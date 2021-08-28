@@ -14,8 +14,8 @@
 - **Battle Value:** 2180
 - [*More Info*](vision_quest/vision_quest_vq-1nc.md)
 
-## Vision Quest
-- **Role:** Undefined
+## Vision Quest (Standard)
+- **Role:** Brawler
 - **Tech Base:** Clan (2832)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8, XL
@@ -27,9 +27,9 @@
   - Medium Pulse Laser × 3
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7638/vision-quest-standard)
+- **Source:** Succession Wars
 - **Battle Value:** 2458
-- [*More Info*](vision_quest/vision_quest.md)
+- [*More Info*](vision_quest/vision_quest_standard.md)
 
 ## Vision Quest 2
 - **Role:** Sniper

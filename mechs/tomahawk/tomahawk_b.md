@@ -4,7 +4,7 @@
 
 ## Tomahawk B
 - **Role:** Juggernaut
-- **Tech Base:** Clan (3065)
+- **Tech Base:** Clan (3063)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5, XL
 - **Armor:** 304

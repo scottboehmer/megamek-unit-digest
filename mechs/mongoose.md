@@ -93,7 +93,7 @@
 - [*More Info*](mongoose/mongoose_mon-67.md)
 
 ## Mongoose C
-- **Role:** Striker
+- **Role:** Scout
 - **Tech Base:** Clan (2833)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12, XL
@@ -110,7 +110,7 @@
 - [*More Info*](mongoose/mongoose_c.md)
 
 ## Mongoose C 2
-- **Role:** Striker
+- **Role:** Scout
 - **Tech Base:** Clan (2860)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12, XL
@@ -176,7 +176,7 @@
 - [*More Info*](mongoose/mongoose_mon-86.md)
 
 ## Mongoose MON-96
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3129)
 - **Chassis:** 25 tons (Reinforced)
 - **Movement:** 8 / 12 (16), XL

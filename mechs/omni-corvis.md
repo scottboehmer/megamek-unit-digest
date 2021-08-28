@@ -1,6 +1,6 @@
 # Omni-Corvis
 ## Omni-Corvis Prime
-- **Role:** Sniper
+- **Role:** Brawler
 - **Tech Base:** Clan (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8
@@ -17,7 +17,7 @@
 - [*More Info*](omni-corvis/omni-corvis_prime.md)
 
 ## Omni-Corvis A
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Clan (2921)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 5 / 8

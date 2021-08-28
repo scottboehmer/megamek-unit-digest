@@ -57,7 +57,7 @@
 - [**Falcon FLC-4Nb**](../mechs/falcon/falcon_flc-4nb.md) *Striker (2776)*
 
 ### [Firefly](../mechs/firefly.md)
-- [**Firefly FFL-3A**](../mechs/firefly/firefly_ffl-3a.md) *Undefined (2679)* `TAG`
+- [**Firefly FFL-3A**](../mechs/firefly/firefly_ffl-3a.md) *Striker (2679)* `TAG`
 
 ### [Hermes](../mechs/hermes.md)
 - [**Hermes HER-1S**](../mechs/hermes/hermes_her-1s.md) *Scout (2632)*
@@ -69,7 +69,7 @@
 
 ### [Javelin](../mechs/javelin.md)
 - [**Javelin JVN-10N**](../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 
 ### [Marco](../mechs/marco.md)
 - [**Marco MR-6 ExplorerMech**](../mechs/marco/marco_mr-6_explorermech.md) *Ambusher (2712)* `IndustrialMech`

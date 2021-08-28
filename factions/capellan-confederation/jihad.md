@@ -147,7 +147,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Spider](../../mechs/spider.md)
@@ -226,7 +226,7 @@
 - [**Raven RVN-4Lr**](../../mechs/raven/raven_rvn-4lr.md) *Missile Boat (3073)* `Active Probe`, `ECM`, `Stealth`, `TAG`
 
 ### [Raven X](../../mechs/raven_x.md)
-- [**Raven X RVN-3X**](../../mechs/raven_x/raven_x_rvn-3x.md) *Brawler (3078)* `Active Probe`, `ECM`, `Unique`
+- [**Raven X RVN-3X**](../../mechs/raven_x/raven_x_rvn-3x.md) *Scout (3078)* `Active Probe`, `ECM`, `Unique`
 
 ### [Spector](../../mechs/spector.md)
 - [**Spector SPR-5S**](../../mechs/spector/spector_spr-5s.md) *Striker (3067)* `ECM`, `Stealth`
@@ -318,7 +318,7 @@
 - [**Phoenix Hawk PXH-1**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)*
 - [**Phoenix Hawk PXH-3M**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-3m.md) *Striker (3045)*
 - [**Phoenix Hawk PXH-4L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM`, `Stealth`
-- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Brawler (3069)* `ECM`, `Stealth`
+- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Skirmisher (3069)* `ECM`, `Stealth`
 
 ### [Snake](../../mechs/snake.md)
 - [**Snake SNK-1V**](../../mechs/snake/snake_snk-1v.md) *Striker (3053)*
@@ -456,7 +456,7 @@
 - [**Osprey OSP-15**](../../mechs/osprey/osprey_osp-15.md) *Sniper (2738)*
 
 ### [Scorpion](../../mechs/scorpion.md)
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 - [**Scorpion SCP-10M**](../../mechs/scorpion/scorpion_scp-10m.md) *Sniper (3080)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
@@ -565,7 +565,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`
@@ -885,7 +885,7 @@
 - [**Atlas AS7-D**](../../mechs/atlas/atlas_as7-d.md) *Juggernaut (2755)*
 - [**Atlas AS7-D-DC**](../../mechs/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console`
 - [**Atlas AS7-RS**](../../mechs/atlas/atlas_as7-rs.md) *Juggernaut (2892)*
-- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Undefined (2954)*
+- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Juggernaut (2954)*
 - [**Atlas AS7-K**](../../mechs/atlas/atlas_as7-k.md) *Sniper (3049)*
 - [**Atlas AS7-K-DC**](../../mechs/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console`
 

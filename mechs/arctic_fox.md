@@ -1,6 +1,6 @@
 # Arctic Fox
 ## Arctic Fox AF1
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -30,7 +30,7 @@
 - [*More Info*](arctic_fox/arctic_fox_af1a.md)
 
 ## Arctic Fox AF1B
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -44,7 +44,7 @@
 - [*More Info*](arctic_fox/arctic_fox_af1b.md)
 
 ## Arctic Fox AF1C
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3059)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -85,7 +85,7 @@
 - [*More Info*](arctic_fox/arctic_fox_af1e.md)
 
 ## Arctic Fox AF1F
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3072)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

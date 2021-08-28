@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m)
+- **Sources:** ilClan RecGuide 15 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m)
 - **Battle Value:** 1495
 
 ## Availability

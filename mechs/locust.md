@@ -52,7 +52,7 @@
   - Medium Pulse Laser × 2
   - Medium Laser
   - Small Pulse Laser × 2
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1903/locust-lct-1vb)
+- **Sources:** Recognition Guide:ilClan #16 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1903/locust-lct-1vb)
 - **Battle Value:** 642
 - [*More Info*](locust/locust_lct-1vb.md)
 
@@ -69,6 +69,20 @@
 - **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1897/locust-lct-1e)
 - **Battle Value:** 553
 - [*More Info*](locust/locust_lct-1e.md)
+
+## Locust C
+- **Role:** Striker
+- **Tech Base:** Inner Sphere Mixed (2836)
+- **Chassis:** 20 tons
+- **Movement:** 8 / 12
+- **Armor:** 64
+- **Heat Sinks:** 10 (10)
+- **Weapons:**
+  - Clan Medium Pulse Laser
+  - Clan ER Small Laser × 2
+- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c)
+- **Battle Value:** 672
+- [*More Info*](locust/locust_c.md)
 
 ## Locust LCT-3V
 - **Role:** Scout
@@ -110,7 +124,7 @@
   - LRM 5 × 2 (ammo: 24)
 - **Equipment:**
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1904/locust-lct-3d)
+- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1904/locust-lct-3d)
 - **Battle Value:** 436
 - [*More Info*](locust/locust_lct-3d.md)
 
@@ -130,20 +144,6 @@
 - **Battle Value:** 483
 - [*More Info*](locust/locust_lct-3s.md)
 
-## Locust C
-- **Role:** Striker
-- **Tech Base:** Inner Sphere Mixed (3050)
-- **Chassis:** 20 tons
-- **Movement:** 8 / 12
-- **Armor:** 64
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Clan Medium Pulse Laser
-  - Clan ER Small Laser × 2
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c)
-- **Battle Value:** 672
-- [*More Info*](locust/locust_c.md)
-
 ## Locust LCT-3M
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3050)
@@ -157,7 +157,7 @@
 - **Equipment:**
   - Anti-Missile System (ammo: 12)
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m)
+- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m)
 - **Battle Value:** 522
 - [*More Info*](locust/locust_lct-3m.md)
 
@@ -238,6 +238,22 @@
 - **Battle Value:** 956
 - [*More Info*](locust/locust_lct-6m.md)
 
+## Locust LCT-5S
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3073)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 8 / 12
+- **Armor:** 44 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER Medium Laser
+  - MML 3 × 2 (ammo: 33 SRM)
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #16 - Jihad
+- **Battle Value:** 509
+- [*More Info*](locust/locust_lct-5s.md)
+
 ## Locust LCT-5W
 - **Role:** Scout
 - **Tech Base:** Inner Sphere (3076)
@@ -300,4 +316,48 @@
 - **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6948/locust-lct-5m3)
 - **Battle Value:** 929
 - [*More Info*](locust/locust_lct-5m3.md)
+
+## Locust LCT-7V
+- **Role:** Scout
+- **Tech Base:** Inner Sphere (3102)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15, Light
+- **Armor:** 69 (Heavy Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium X-Pulse Laser
+  - MagShot Gauss Rifle × 2 (ammo: 50)
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 585
+- [*More Info*](locust/locust_lct-7v.md)
+
+## Locust LCT-7V2
+- **Role:** Sniper
+- **Tech Base:** Inner Sphere (3112)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 10 / 15, Light
+- **Armor:** 69 (Heavy Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Light PPC
+  - ER Small Laser × 2
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 634
+- [*More Info*](locust/locust_lct-7v2.md)
+
+## Locust LCT-7S
+- **Role:** Scout
+- **Tech Base:** Inner Sphere Mixed (3128)
+- **Chassis:** 20 tons (Endo Steel)
+- **Movement:** 12 / 18, XL
+- **Armor:** 69 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Clan ER Medium Laser
+  - Machine Gun × 2 (ammo: 100)
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 706
+- [*More Info*](locust/locust_lct-7s.md)
 

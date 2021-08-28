@@ -3,7 +3,7 @@
 [Other Devastator variants](../devastator.md)
 
 ## Devastator DVS-2-EC
-- **Role:** Juggernaut
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (2827)
 - **Chassis:** 100 tons
 - **Movement:** 3 / 5, XL

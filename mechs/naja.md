@@ -1,6 +1,6 @@
 # Naja
 ## Naja KTO-19b-EC
-- **Role:** Skirmisher
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (2824)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8, XL
@@ -16,8 +16,8 @@
 - **Battle Value:** 1588
 - [*More Info*](naja/naja_kto-19b-ec.md)
 
-## Naja
-- **Role:** Undefined
+## Naja (Standard)
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2826)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8, XL
@@ -31,7 +31,7 @@
   - ER Small Laser
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7621/naja-standard)
+- **Source:** Succession Wars
 - **Battle Value:** 1910
-- [*More Info*](naja/naja.md)
+- [*More Info*](naja/naja_standard.md)
 

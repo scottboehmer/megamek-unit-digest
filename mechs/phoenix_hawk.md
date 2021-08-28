@@ -279,7 +279,7 @@
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1bc.md)
 
 ## Phoenix Hawk PXH-3D (Jiemin)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11, XL
@@ -402,7 +402,7 @@
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l_sante.md)
 
 ## Phoenix Hawk PXH-5L
-- **Role:** Brawler
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3069)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 6 / 9
@@ -507,7 +507,7 @@
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7kj_'jasmine'.md)
 
 ## Phoenix Hawk PXH-99
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 45 tons
 - **Movement:** 1 (0) / 1 (-1)

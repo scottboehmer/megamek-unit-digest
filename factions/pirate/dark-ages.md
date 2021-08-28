@@ -103,7 +103,7 @@
 - [**Carbine CON-9M ConstructionMech MOD**](../../mechs/carbine/carbine_con-9m_constructionmech_mod.md) *Missile Boat (3078)* `IndustrialMech`
 - [**Carbine CON-9M-B ConstructionMech MOD**](../../mechs/carbine/carbine_con-9m-b_constructionmech_mod.md) *Ambusher (3078)* `IndustrialMech`
 - [**Carbine CON-9M Karenna**](../../mechs/carbine/carbine_con-9m_karenna.md) *Sniper (3131)* `IndustrialMech`, `Unique`
-- [**Carbine CON-9M-D ConstructionMech MOD**](../../mechs/carbine/carbine_con-9m-d_constructionmech_mod.md) *Undefined (3133)* `IndustrialMech`
+- [**Carbine CON-9M-D ConstructionMech MOD**](../../mechs/carbine/carbine_con-9m-d_constructionmech_mod.md) *Ambusher (3133)* `IndustrialMech`
 - [**Carbine CON-9M-J ConstructionMech MOD**](../../mechs/carbine/carbine_con-9m-j_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech`
 - [**Carbine CON-9M-JB ConstructionMech MOD**](../../mechs/carbine/carbine_con-9m-jb_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech`
 
@@ -298,7 +298,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 
 ### [Cronus](../../mechs/cronus.md)
 - [**Cronus CNS-3M**](../../mechs/cronus/cronus_cns-3m.md) *Skirmisher (3031)*
@@ -319,12 +319,12 @@
 ### [Marshal](../../mechs/marshal.md)
 - [**Marshal MHL-X1**](../../mechs/marshal/marshal_mhl-x1.md) *Skirmisher (3059)*
 - [**Marshal MHL-2L**](../../mechs/marshal/marshal_mhl-2l.md) *Skirmisher (3063)*
-- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Undefined (3086)*
+- [**Marshal MHL-6FR**](../../mechs/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ### [Wolverine](../../mechs/wolverine.md)
@@ -506,7 +506,7 @@
 - [**Highlander HGN-740**](../../mechs/highlander/highlander_hgn-740.md) *Sniper (3115)*
 
 ### [St. Florian](../../mechs/st._florian.md)
-- [**St. Florian FLN-366-M FireMech MOD**](../../mechs/st._florian/st._florian_fln-366-m_firemech_mod.md) *Juggernaut (3133)* `IndustrialMech`
+- [**St. Florian FLN-366-M FireMech MOD**](../../mechs/st._florian/st._florian_fln-366-m_firemech_mod.md) *Undefined (3133)* `IndustrialMech`
 
 ## 95 Tons
 

@@ -3,7 +3,7 @@
 [Other Doloire variants](../doloire.md)
 
 ## Doloire DLR-OBLO
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere Mixed (3140)
 - **Chassis:** 80 tons (Endo Composite)
 - **Movement:** 4 / 6, XL

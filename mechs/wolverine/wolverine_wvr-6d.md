@@ -3,7 +3,7 @@
 [Other Wolverine variants](../wolverine.md)
 
 ## Wolverine WVR-6D
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (2834)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8

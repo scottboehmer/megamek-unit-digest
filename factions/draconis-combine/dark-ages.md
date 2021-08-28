@@ -30,8 +30,8 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
 ### [Shugosha](../../mechs/shugosha.md)
@@ -91,7 +91,7 @@
 ### [Mongoose](../../mechs/mongoose.md)
 - [**Mongoose MON-76**](../../mechs/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM`
 - [**Mongoose MON-86**](../../mechs/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe`
-- [**Mongoose MON-96**](../../mechs/mongoose/mongoose_mon-96.md) *Undefined (3129)* `Active Probe`
+- [**Mongoose MON-96**](../../mechs/mongoose/mongoose_mon-96.md) *Scout (3129)* `Active Probe`
 
 ### [Peacekeeper](../../mechs/peacekeeper.md)
 - [**Peacekeeper PK-6 SecurityMech**](../../mechs/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech`
@@ -430,7 +430,7 @@
 
 ### [Shadow Cat III](../../mechs/shadow_cat_iii.md)
 - [**Shadow Cat III Prime**](../../mechs/shadow_cat_iii/shadow_cat_iii_prime.md) *Striker (3111)*
-- [**Shadow Cat III A**](../../mechs/shadow_cat_iii/shadow_cat_iii_a.md) *Striker (3111)*
+- [**Shadow Cat III A**](../../mechs/shadow_cat_iii/shadow_cat_iii_a.md) *Sniper (3111)*
 - [**Shadow Cat III B**](../../mechs/shadow_cat_iii/shadow_cat_iii_b.md) *Striker (3111)* `Active Probe`, `ECM`
 - [**Shadow Cat III C**](../../mechs/shadow_cat_iii/shadow_cat_iii_c.md) *Striker (3111)*
 
@@ -581,7 +581,7 @@
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-3K**](../../mechs/shadow_hawk/shadow_hawk_shd-3k.md) *Sniper (3075)* `C3 Slave`
 - [**Shadow Hawk SHD-12C**](../../mechs/shadow_hawk/shadow_hawk_shd-12c.md) *Sniper (3079)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 - [**Shadow Hawk SHD-4H**](../../mechs/shadow_hawk/shadow_hawk_shd-4h.md) *Sniper (3101)*
 
@@ -591,7 +591,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow I**](../../mechs/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe`
@@ -736,7 +736,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`

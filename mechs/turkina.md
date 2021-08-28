@@ -76,6 +76,26 @@
 - **Battle Value:** 2798
 - [*More Info*](turkina/turkina_c.md)
 
+## Turkina M
+- **Role:** Sniper
+- **Tech Base:** Clan (3058)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
+- **Armor:** 288
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Large Laser × 2
+  - Medium Pulse Laser
+  - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster)
+  - LRM 5 × 2 (ammo: 24)
+  - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster)
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #16 - Clan Invasion
+- **Battle Value:** 2495
+- [*More Info*](turkina/turkina_m.md)
+
 ## Turkina D
 - **Role:** Juggernaut
 - **Tech Base:** Clan (3061)
@@ -125,7 +145,7 @@
   - Streak SRM 6 × 6 (ammo: 60)
 - **Equipment:**
   - CASE
-- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e)
+- **Sources:** Recognition Guide:ilClan #16 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e)
 - **Battle Value:** 3147
 - [*More Info*](turkina/turkina_e.md)
 
@@ -186,7 +206,25 @@
   - ECM Suite
   - Talons
   - CASE II
-- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x)
+- **Sources:** Recognition Guide:ilClan #16 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x)
 - **Battle Value:** 3056
 - [*More Info*](turkina/turkina_x.md)
+
+## Turkina T
+- **Role:** Sniper
+- **Tech Base:** Clan (3142)
+- **Chassis:** 95 tons
+- **Movement:** 3 / 5, XL
+  - **Jumping:** 3
+- **Armor:** 288
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER PPC × 2
+  - Streak LRM 15 × 2 (ammo: 16)
+  - ProtoMech AC/8 × 2 (ammo: 20)
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 3080
+- [*More Info*](turkina/turkina_t.md)
 

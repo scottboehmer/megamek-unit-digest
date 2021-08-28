@@ -4,18 +4,18 @@
 
 ## Jenner IIC 3
 - **Role:** Striker
-- **Tech Base:** Clan (3048)
+- **Tech Base:** Clan Mixed (3048)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 9 / 14, XL
   - **Jumping:** 7
 - **Armor:** 67 (Ferro Fibrous)
 - **Heat Sinks:** 10 (20)
 - **Weapons:**
-  - Narc (ammo: 12)
+  - Narc (ammo: 0)
   - Small Pulse Laser × 4
 - **Equipment:**
   - CASE
-- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3)
+- **Sources:** ilClan Rec Guide 18 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3)
 - **Battle Value:** 788
 
 ## Availability

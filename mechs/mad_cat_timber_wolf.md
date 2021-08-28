@@ -149,7 +149,7 @@
 - [*More Info*](timber_wolf/timber_wolf_pryde.md)
 
 ## Timber Wolf "Mad Cat" TC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8, XL
@@ -336,7 +336,7 @@
 - [*More Info*](timber_wolf/timber_wolf_w.md)
 
 ## Timber Wolf "Mad Cat" BLO
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3129)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8, XL

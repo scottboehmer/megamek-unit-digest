@@ -106,7 +106,7 @@
 - [*More Info*](adder/adder_s.md)
 
 ## Adder "Puma" TC
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3052)
 - **Chassis:** 35 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

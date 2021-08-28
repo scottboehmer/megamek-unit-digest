@@ -40,9 +40,9 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
 - [**Locust LCT-3D**](../../mechs/locust/locust_lct-3d.md) *Missile Boat (3049)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 - [**Locust LCT-5M**](../../mechs/locust/locust_lct-5m.md) *Striker (3066)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
@@ -127,7 +127,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 - [**Javelin JVN-10P**](../../mechs/javelin/javelin_jvn-10p.md) *Striker (3049)*
 - [**Javelin JVN-11A 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-11a_'fire_javelin'.md) *Striker (3053)*
@@ -443,7 +443,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 
 ### [Dervish](../../mechs/dervish.md)
 - [**Dervish DV-1S**](../../mechs/dervish/dervish_dv-1s.md) *Missile Boat (2520)*
@@ -497,7 +497,7 @@
 - [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)*
 - [**Shadow Hawk SHD-5D**](../../mechs/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)*
 - [**Shadow Hawk SHD-9D**](../../mechs/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Slave`
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 
 ### [Sun Cobra](../../mechs/sun_cobra.md)
 - [**Sun Cobra 2**](../../mechs/sun_cobra/sun_cobra_2.md) *Sniper (3093)*
@@ -608,7 +608,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
-- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Undefined (2821)*
+- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)*
 - [**Thunderbolt TDR-9SE**](../../mechs/thunderbolt/thunderbolt_tdr-9se.md) *Skirmisher (3049)*
 - [**Thunderbolt TDR-9S**](../../mechs/thunderbolt/thunderbolt_tdr-9s.md) *Brawler (3050)*
 - [**Thunderbolt TDR-10SE**](../../mechs/thunderbolt/thunderbolt_tdr-10se.md) *Missile Boat (3067)* `ECM`

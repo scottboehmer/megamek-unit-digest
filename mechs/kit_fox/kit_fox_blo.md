@@ -3,7 +3,7 @@
 [Other Kit Fox variants](../kit_fox.md)
 
 ## Kit Fox "Uller" BLO
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3138)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

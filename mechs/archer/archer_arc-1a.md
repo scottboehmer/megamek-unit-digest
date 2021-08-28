@@ -3,7 +3,7 @@
 [Other Archer variants](../archer.md)
 
 ## Archer ARC-1A
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2458)
 - **Chassis:** 70 tons
 - **Movement:** 3 / 5

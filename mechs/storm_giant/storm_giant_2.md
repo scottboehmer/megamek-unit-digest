@@ -3,7 +3,7 @@
 [Other Storm Giant variants](../storm_giant.md)
 
 ## Storm Giant 2
-- **Role:** Juggernaut
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2862)
 - **Chassis:** 100 tons (Endo Steel)
 - **Movement:** 4 / 6, XL

@@ -3,7 +3,7 @@
 [Other Incubus variants](../incubus.md)
 
 ## Incubus 6 "Vixen"
-- **Role:** Brawler
+- **Role:** Undefined
 - **Tech Base:** Clan (3113)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 9 / 14, XXL

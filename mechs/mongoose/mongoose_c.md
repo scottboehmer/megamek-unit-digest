@@ -3,7 +3,7 @@
 [Other Mongoose variants](../mongoose.md)
 
 ## Mongoose C
-- **Role:** Striker
+- **Role:** Scout
 - **Tech Base:** Clan (2833)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 8 / 12, XL

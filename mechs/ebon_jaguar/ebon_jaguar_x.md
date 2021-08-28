@@ -4,7 +4,7 @@
 
 ## Ebon Jaguar "Cauldron-Born" X
 - **Role:** Skirmisher
-- **Tech Base:** Clan (3075)
+- **Tech Base:** Clan Mixed (3075)
 - **Chassis:** 65 tons (Endo Steel)
 - **Movement:** 5 / 8, XL
 - **Armor:** 182 (Ferro Fibrous)
@@ -14,10 +14,10 @@
   - ER Medium Pulse Laser × 3
   - ER Small Pulse Laser
 - **Equipment:**
-  - Angel ECM Suite
+  - Inner Sphere Angel ECM Suite
   - Targeting Computer
   - CASE II
-- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x)
+- **Sources:** Recognition Guide:ilClan #16 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x)
 - **Battle Value:** 2435
 
 ## Availability

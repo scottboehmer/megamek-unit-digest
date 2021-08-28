@@ -18,7 +18,7 @@
 - [*More Info*](lupus/lupus_prime.md)
 
 ## Lupus A
-- **Role:** Skirmisher
+- **Role:** Brawler
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8
@@ -53,7 +53,7 @@
 - [*More Info*](lupus/lupus_b.md)
 
 ## Lupus C
-- **Role:** Brawler
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10)

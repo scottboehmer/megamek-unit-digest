@@ -41,7 +41,7 @@
 - [**Falcon FLC-4N**](../../mechs/falcon/falcon_flc-4n.md) *Scout (2582)*
 
 ### [Firefly](../../mechs/firefly.md)
-- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Undefined (2679)* `TAG`
+- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Striker (2679)* `TAG`
 
 ### [Hermes](../../mechs/hermes.md)
 - [**Hermes HER-1S**](../../mechs/hermes/hermes_her-1s.md) *Scout (2632)*

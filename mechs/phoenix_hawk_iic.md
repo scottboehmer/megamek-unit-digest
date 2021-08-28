@@ -12,7 +12,7 @@
   - Machine Gun × 2 (ammo: 100)
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard)
+- **Sources:** ilClan RecGuide 15 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard)
 - **Battle Value:** 2057
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_standard.md)
 
@@ -28,9 +28,27 @@
   - LRM 20 × 4 (ammo: 48)
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2)
+- **Sources:** ilClan RecGuide 15 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2)
 - **Battle Value:** 2892
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_2.md)
+
+## Phoenix Hawk IIC 9
+- **Role:** Sniper
+- **Tech Base:** Clan (2853)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 201 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - LRM 20 × 2 (ammo: 24)
+  - Ultra AC/10 (ammo: 20)
+  - Machine Gun × 2 (ammo: 100)
+- **Equipment:**
+  - CASE
+- **Source:** ilClan RecGuide 15 - Succession Wars
+- **Battle Value:** 2469
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_9.md)
 
 ## Phoenix Hawk IIC 3
 - **Role:** Skirmisher
@@ -134,4 +152,20 @@
 - **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2518/phoenix-hawk-iic-8)
 - **Battle Value:** 2903
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_8.md)
+
+## Phoenix Hawk IIC 10
+- **Role:** Skirmisher
+- **Tech Base:** Clan Mixed (3146)
+- **Chassis:** 80 tons (Endo Steel)
+- **Movement:** 5 / 8, XL
+  - **Jumping:** 5
+- **Armor:** 220 (Ferro Fibrous)
+- **Heat Sinks:** 16 (32)
+- **Weapons:**
+  - ER Large Laser × 2
+  - ER Medium Laser × 6
+  - Inner Sphere Hatchet
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 2762
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_10.md)
 

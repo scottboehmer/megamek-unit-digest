@@ -4,7 +4,7 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1Vb**](../../mechs/locust/locust_lct-1vb.md) *Striker (2610)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Stinger](../../mechs/stinger.md)
 - [**Stinger STG-3Gb**](../../mechs/stinger/stinger_stg-3gb.md) *Striker (2720)*
@@ -102,8 +102,7 @@
 - [**Lynx LNX-9Q**](../../mechs/lynx/lynx_lnx-9q.md) *Skirmisher (2761)*
 
 ### [Naja](../../mechs/naja.md)
-- [**Naja KTO-19b-EC**](../../mechs/naja/naja_kto-19b-ec.md) *Skirmisher (2824)*
-- [**Naja**](../../mechs/naja/naja.md) *Undefined (2826)*
+- [**Naja KTO-19b-EC**](../../mechs/naja/naja_kto-19b-ec.md) *Brawler (2824)*
 
 ### [Shadow Hawk](../../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
@@ -118,7 +117,7 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Ostroc](../../mechs/ostroc.md)
@@ -140,7 +139,7 @@
 
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5Sb**](../../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
-- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (3050)*
+- [**Thunderbolt C**](../../mechs/thunderbolt/thunderbolt_c.md) *Sniper (2832)*
 
 ## 70 Tons
 
@@ -219,5 +218,4 @@
 - [**Pillager PLG-3Z**](../../mechs/pillager/pillager_plg-3z.md) *Juggernaut (2594)*
 
 ### [Storm Giant](../../mechs/storm_giant.md)
-- [**Storm Giant**](../../mechs/storm_giant/storm_giant.md) *Undefined (2862)*
-- [**Storm Giant 2**](../../mechs/storm_giant/storm_giant_2.md) *Juggernaut (2862)*
+- [**Storm Giant 2**](../../mechs/storm_giant/storm_giant_2.md) *Missile Boat (2862)*

@@ -3,7 +3,7 @@
 [Other Lupus variants](../lupus.md)
 
 ## Lupus A
-- **Role:** Skirmisher
+- **Role:** Brawler
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8

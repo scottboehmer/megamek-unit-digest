@@ -6,7 +6,6 @@
 - [**Flea FLE-14**](../../mechs/flea/flea_fle-14.md) *Scout (2519)*
 
 ### [Patron](../../mechs/patron.md)
-- [**Patron I LoaderMech**](../../mechs/patron/patron_i_loadermech.md) *Ambusher (2470)* `IndustrialMech`
 - [**Patron LoaderMech**](../../mechs/patron/patron_loadermech.md) *Ambusher (2550)* `IndustrialMech`
 
 ## 20 Tons

@@ -69,9 +69,6 @@
 ### [Devil](../../mechs/devil.md)
 - [**Devil (Standard)**](../../mechs/devil/devil_standard.md) *Sniper (2911)*
 
-### [Drift Shag](../../mechs/drift_shag.md)
-- [**Drift Shag**](../../mechs/drift_shag/drift_shag.md) *Undefined (2827)*
-
 ### [Firefly](../../mechs/firefly.md)
 - [**Firefly C**](../../mechs/firefly/firefly_c.md) *Striker (2839)*
 

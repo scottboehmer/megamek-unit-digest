@@ -81,7 +81,7 @@
 - [*More Info*](stormcrow/stormcrow_d.md)
 
 ## Stormcrow "Ryoken" Attwater
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -98,7 +98,7 @@
 - [*More Info*](stormcrow/stormcrow_attwater.md)
 
 ## Stormcrow "Ryoken" TC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

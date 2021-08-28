@@ -3,7 +3,7 @@
 [Other Vulcan variants](../vulcan.md)
 
 ## Vulcan VL-2T (Timms)
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3034)
 - **Chassis:** 40 tons
 - **Movement:** 6 / 9

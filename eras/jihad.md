@@ -48,6 +48,7 @@
 - [**Locust LCT-5V**](../mechs/locust/locust_lct-5v.md) *Striker (3068)*
 - [**Locust LCT-5T**](../mechs/locust/locust_lct-5t.md) *Scout (3070)*
 - [**Locust LCT-6M**](../mechs/locust/locust_lct-6m.md) *Striker (3071)*
+- [**Locust LCT-5S**](../mechs/locust/locust_lct-5s.md) *Striker (3073)*
 - [**Locust LCT-5W**](../mechs/locust/locust_lct-5w.md) *Scout (3076)* `C3i`, `TAG`
 - [**Locust LCT-5W2**](../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
@@ -200,7 +201,7 @@
 
 ### [Arctic Fox](../mechs/arctic_fox.md)
 - [**Arctic Fox AF1E**](../mechs/arctic_fox/arctic_fox_af1e.md) *Sniper (3069)*
-- [**Arctic Fox AF1F**](../mechs/arctic_fox/arctic_fox_af1f.md) *Brawler (3072)*
+- [**Arctic Fox AF1F**](../mechs/arctic_fox/arctic_fox_af1f.md) *Striker (3072)*
 - [**Arctic Fox AF1U**](../mechs/arctic_fox/arctic_fox_af1u.md) *Sniper (3072)*
 
 ### [Carbine](../mechs/carbine.md)
@@ -399,7 +400,7 @@
 - [**Raven RVN-4Lr**](../mechs/raven/raven_rvn-4lr.md) *Missile Boat (3073)* `Active Probe`, `ECM`, `Stealth`, `TAG`
 
 ### [Raven X](../mechs/raven_x.md)
-- [**Raven X RVN-3X**](../mechs/raven_x/raven_x_rvn-3x.md) *Brawler (3078)* `Active Probe`, `ECM`, `Unique`
+- [**Raven X RVN-3X**](../mechs/raven_x/raven_x_rvn-3x.md) *Scout (3078)* `Active Probe`, `ECM`, `Unique`
 
 ### [Spector](../mechs/spector.md)
 - [**Spector SPR-ST**](../mechs/spector/spector_spr-st.md) *Striker (3068)* `ECM`, `Stealth`
@@ -435,11 +436,11 @@
 ## 40 Tons
 
 ### [Arctic Wolf](../mechs/arctic_wolf.md)
-- [**Arctic Wolf J**](../mechs/arctic_wolf/arctic_wolf_j.md) *Brawler (3070)* `Active Probe`, `ECM`
+- [**Arctic Wolf J**](../mechs/arctic_wolf/arctic_wolf_j.md) *Striker (3070)* `Active Probe`, `ECM`
 
 ### [Arctic Wolf II](../mechs/arctic_wolf_ii.md)
-- [**Arctic Wolf II Prime**](../mechs/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Striker (3085)* `Active Probe`, `ECM`
-- [**Arctic Wolf II A**](../mechs/arctic_wolf_ii/arctic_wolf_ii_a.md) *Missile Boat (3085)*
+- [**Arctic Wolf II Prime**](../mechs/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* `Active Probe`, `ECM`
+- [**Arctic Wolf II A**](../mechs/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)*
 - [**Arctic Wolf II B**](../mechs/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)*
 - [**Arctic Wolf II C**](../mechs/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)*
 
@@ -492,8 +493,8 @@
 - [**Initiate INI-04**](../mechs/initiate/initiate_ini-04.md) *Sniper (3068)* `C3i`
 
 ### [Lobo](../mechs/lobo.md)
-- [**Lobo 2**](../mechs/lobo/lobo_2.md) *Brawler (3072)*
-- [**Lobo 3**](../mechs/lobo/lobo_3.md) *Brawler (3077)*
+- [**Lobo 2**](../mechs/lobo/lobo_2.md) *Striker (3072)*
+- [**Lobo 3**](../mechs/lobo/lobo_3.md) *Striker (3077)*
 
 ### [Mongoose II](../mechs/mongoose_ii.md)
 - [**Mongoose II MON-266**](../mechs/mongoose_ii/mongoose_ii_mon-266.md) *Scout (3073)* `Active Probe`, `C3i`, `ECM`
@@ -613,7 +614,7 @@
 
 ### [Phoenix Hawk](../mechs/phoenix_hawk.md)
 - [**Phoenix Hawk PXH-4L (Sante)**](../mechs/phoenix_hawk/phoenix_hawk_pxh-4l_sante.md) *Striker (3068)* `ECM`, `Stealth`, `TAG`, `Unique`
-- [**Phoenix Hawk PXH-5L**](../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Brawler (3069)* `ECM`, `Stealth`
+- [**Phoenix Hawk PXH-5L**](../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Skirmisher (3069)* `ECM`, `Stealth`
 - [**Phoenix Hawk PXH-7K**](../mechs/phoenix_hawk/phoenix_hawk_pxh-7k.md) *Striker (3070)* `C3 Slave`
 - [**Phoenix Hawk PXH-4W**](../mechs/phoenix_hawk/phoenix_hawk_pxh-4w.md) *Striker (3079)* `ECM`
 - [**Phoenix Hawk PXH-8CS**](../mechs/phoenix_hawk/phoenix_hawk_pxh-8cs.md) *Striker (3080)* `C3 Slave`, `ECM`
@@ -750,7 +751,7 @@
 
 ### [Phoenix](../mechs/phoenix.md)
 - [**Phoenix PX-1KL**](../mechs/phoenix/phoenix_px-1kl.md) *Brawler (3070)*
-- [**Phoenix PX-1KT**](../mechs/phoenix/phoenix_px-1kt.md) *Missile Boat (3070)*
+- [**Phoenix PX-1KT**](../mechs/phoenix/phoenix_px-1kt.md) *Brawler (3070)*
 - [**Phoenix PX-1KR**](../mechs/phoenix/phoenix_px-1kr.md) *Brawler (3079)*
 
 ### [Phoenix Hawk LAM](../mechs/phoenix_hawk_lam.md)
@@ -939,6 +940,7 @@
 - [**Waneta S-WN-2LAM**](../mechs/waneta/waneta_s-wn-2lam.md) *Skirmisher (3078)*
 
 ### [Wolverine](../mechs/wolverine.md)
+- [**Wolverine WVR-7M2**](../mechs/wolverine/wolverine_wvr-7m2.md) *Skirmisher (3072)*
 - [**Wolverine WVR-9M**](../mechs/wolverine/wolverine_wvr-9m.md) *Skirmisher (3073)*
 - [**Wolverine WVR-9K**](../mechs/wolverine/wolverine_wvr-9k.md) *Skirmisher (3074)* `C3 Slave`
 - [**Wolverine WVR-9W**](../mechs/wolverine/wolverine_wvr-9w.md) *Striker (3077)* `C3i`
@@ -1182,6 +1184,7 @@
 - [**Thunderbolt TDR-17S**](../mechs/thunderbolt/thunderbolt_tdr-17s.md) *Skirmisher (3070)* `ECM`
 - [**Thunderbolt TDR-60-RLA**](../mechs/thunderbolt/thunderbolt_tdr-60-rla.md) *Skirmisher (3072)*
 - [**Thunderbolt TDR-9Nr**](../mechs/thunderbolt/thunderbolt_tdr-9nr.md) *Skirmisher (3072)* `Active Probe`, `C3 Slave`, `ECM`
+- [**Thunderbolt TDR-11S**](../mechs/thunderbolt/thunderbolt_tdr-11s.md) *Juggernaut (3074)*
 - [**Thunderbolt TDR-10M**](../mechs/thunderbolt/thunderbolt_tdr-10m.md) *Sniper (3082)*
 - [**Thunderbolt TDR-9T**](../mechs/thunderbolt/thunderbolt_tdr-9t.md) *Missile Boat (3083)*
 - [**Thunderbolt TDR-10M (Ilyena)**](../mechs/thunderbolt/thunderbolt_tdr-10m_ilyena.md) *Sniper (3085)* `C3 Master`, `TAG`, `Unique`
@@ -1357,7 +1360,7 @@
 - [**Marauder MAD-9M2**](../mechs/marauder/marauder_mad-9m2.md) *Brawler (3068)* `ECM`, `TAG`
 - [**Marauder MAD-9S**](../mechs/marauder/marauder_mad-9s.md) *Sniper (3068)* `Active Probe`, `ECM`
 - [**Marauder MAD-6L**](../mechs/marauder/marauder_mad-6l.md) *Brawler (3070)* `ECM`, `Stealth`
-- [**Marauder MAD-7D (Von Staskov)**](../mechs/marauder/marauder_mad-7d_von_staskov.md) *Undefined (3070)* `Unique`
+- [**Marauder MAD-7D (Von Staskov)**](../mechs/marauder/marauder_mad-7d_von_staskov.md) *Skirmisher (3070)* `Unique`
 - [**Marauder MAD-9W**](../mechs/marauder/marauder_mad-9w.md) *Skirmisher (3071)* `C3i`
 - [**Marauder MAD-7M**](../mechs/marauder/marauder_mad-7m.md) *Brawler (3074)*
 - [**Marauder MAD-9W2**](../mechs/marauder/marauder_mad-9w2.md) *Skirmisher (3080)* `C3 Slave`, `ECM`

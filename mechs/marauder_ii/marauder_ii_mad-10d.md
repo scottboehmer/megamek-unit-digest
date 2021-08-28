@@ -3,7 +3,7 @@
 [Other Marauder II variants](../marauder_ii.md)
 
 ## Marauder II MAD-10D
-- **Role:** Sniper
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere Mixed (3141)
 - **Chassis:** 100 tons (Endo Composite)
 - **Movement:** 4 / 6, XL

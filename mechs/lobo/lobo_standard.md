@@ -3,7 +3,7 @@
 [Other Lobo variants](../lobo.md)
 
 ## Lobo (Standard)
-- **Role:** Brawler
+- **Role:** Striker
 - **Tech Base:** Clan (3059)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 6 / 9, XL

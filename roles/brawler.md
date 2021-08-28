@@ -22,17 +22,8 @@
 
 ## 30 Tons
 
-### [Arctic Fox](../mechs/arctic_fox.md)
-- [**Arctic Fox AF1**](../mechs/arctic_fox/arctic_fox_af1.md) *Brawler (3059)*
-- [**Arctic Fox AF1B**](../mechs/arctic_fox/arctic_fox_af1b.md) *Brawler (3059)*
-- [**Arctic Fox AF1C**](../mechs/arctic_fox/arctic_fox_af1c.md) *Brawler (3059)*
-- [**Arctic Fox AF1F**](../mechs/arctic_fox/arctic_fox_af1f.md) *Brawler (3072)*
-
 ### [Hammer](../mechs/hammer.md)
 - [**Hammer HMR-3P 'Pein-Hammer'**](../mechs/hammer/hammer_hmr-3p_'pein-hammer'.md) *Brawler (3060)* `TAG`
-
-### [Incubus](../mechs/incubus.md)
-- [**Incubus 6**](../mechs/incubus/incubus_6.md) *Brawler (3113)*
 
 ### [Kit Fox](../mechs/kit_fox.md)
 - [**Kit Fox I**](../mechs/kit_fox/kit_fox_i.md) *Brawler (3101)*
@@ -80,13 +71,11 @@
 - [**Panther PNT-10K2**](../mechs/panther/panther_pnt-10k2.md) *Brawler (3074)*
 - [**Panther PNT-12K2**](../mechs/panther/panther_pnt-12k2.md) *Brawler (3074)*
 - [**Panther PNT-12K**](../mechs/panther/panther_pnt-12k.md) *Brawler (3079)*
+- [**Panther PNT-14R**](../mechs/panther/panther_pnt-14r.md) *Brawler (3140)*
 
 ### [Powerman](../mechs/powerman.md)
 - [**Powerman SC XI-M LoaderMech MOD**](../mechs/powerman/powerman_sc_xi-m_loadermech_mod.md) *Brawler (2801)* `IndustrialMech`
 - [**Powerman SC XI-M-B LoaderMech MOD**](../mechs/powerman/powerman_sc_xi-m-b_loadermech_mod.md) *Brawler (2801)* `IndustrialMech`
-
-### [Raven X](../mechs/raven_x.md)
-- [**Raven X RVN-3X**](../mechs/raven_x/raven_x_rvn-3x.md) *Brawler (3078)* `Active Probe`, `ECM`, `Unique`
 
 ### [Toro](../mechs/toro.md)
 - [**Toro TR-A-1**](../mechs/toro/toro_tr-a-1.md) *Brawler (2481)*
@@ -96,9 +85,6 @@
 - [**Wight WGT-3SC**](../mechs/wight/wight_wgt-3sc.md) *Brawler (3076)*
 
 ## 40 Tons
-
-### [Arctic Wolf](../mechs/arctic_wolf.md)
-- [**Arctic Wolf J**](../mechs/arctic_wolf/arctic_wolf_j.md) *Brawler (3070)* `Active Probe`, `ECM`
 
 ### [Battle Cobra](../mechs/battle_cobra.md)
 - [**Battle Cobra BTL-C-2O**](../mechs/battle_cobra/battle_cobra_btl-c-2o.md) *Brawler (3063)* `C3i`
@@ -118,6 +104,7 @@
 - [**Daimyo DMO-2K**](../mechs/daimyo/daimyo_dmo-2k.md) *Brawler (3056)*
 - [**Daimyo DMO-4K**](../mechs/daimyo/daimyo_dmo-4k.md) *Brawler (3058)*
 - [**Daimyo DMO-5K**](../mechs/daimyo/daimyo_dmo-5k.md) *Brawler (3062)* `C3 Master`, `TAG`
+- [**Daimyo DMO-1K2 (Al-Shahab)**](../mechs/daimyo/daimyo_dmo-1k2_al-shahab.md) *Brawler (3066)* `Unique`
 
 ### [Icarus](../mechs/icarus.md)
 - [**Icarus ICR-1X**](../mechs/icarus/icarus_icr-1x.md) *Brawler (2470)*
@@ -128,11 +115,6 @@
 
 ### [Initiate](../mechs/initiate.md)
 - [**Initiate INI-02**](../mechs/initiate/initiate_ini-02.md) *Brawler (3058)*
-
-### [Lobo](../mechs/lobo.md)
-- [**Lobo (Standard)**](../mechs/lobo/lobo_standard.md) *Brawler (3059)*
-- [**Lobo 2**](../mechs/lobo/lobo_2.md) *Brawler (3072)*
-- [**Lobo 3**](../mechs/lobo/lobo_3.md) *Brawler (3077)*
 
 ### [Scarecrow](../mechs/scarecrow.md)
 - [**Scarecrow UCU-F4**](../mechs/scarecrow/scarecrow_ucu-f4.md) *Brawler (3099)* `Active Probe`, `Stealth`
@@ -170,9 +152,6 @@
 - [**Hatchetman HCT-5K**](../mechs/hatchetman/hatchetman_hct-5k.md) *Brawler (3075)* `C3 Slave`
 - [**Hatchetman HCT-6M**](../mechs/hatchetman/hatchetman_hct-6m.md) *Brawler (3084)* `Active Probe`
 - [**Hatchetman HCT-7R**](../mechs/hatchetman/hatchetman_hct-7r.md) *Brawler (3114)*
-
-### [Phoenix Hawk](../mechs/phoenix_hawk.md)
-- [**Phoenix Hawk PXH-5L**](../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Brawler (3069)* `ECM`, `Stealth`
 
 ### [Pinion](../mechs/pinion.md)
 - [**Pinion (Standard)**](../mechs/pinion/pinion_standard.md) *Brawler (3065)*
@@ -225,6 +204,7 @@
 
 ### [Enforcer](../mechs/enforcer.md)
 - [**Enforcer ENF-4R (Daniel)**](../mechs/enforcer/enforcer_enf-4r_daniel.md) *Brawler (3039)* `Unique`
+- [**Enforcer ENF-5R**](../mechs/enforcer/enforcer_enf-5r.md) *Brawler (3142)*
 
 ### [Gravedigger](../mechs/gravedigger.md)
 - [**Gravedigger GDR-1C**](../mechs/gravedigger/gravedigger_gdr-1c.md) *Brawler (3102)*
@@ -247,12 +227,13 @@
 - [**Nova K**](../mechs/nova/nova_k.md) *Brawler (3134)*
 
 ### [Omni-Corvis](../mechs/omni-corvis.md)
-- [**Omni-Corvis A**](../mechs/omni-corvis/omni-corvis_a.md) *Brawler (2921)*
+- [**Omni-Corvis Prime**](../mechs/omni-corvis/omni-corvis_prime.md) *Brawler (2921)*
 
 ### [Phoenix](../mechs/phoenix.md)
 - [**Phoenix PX-1R**](../mechs/phoenix/phoenix_px-1r.md) *Brawler (2474)*
 - [**Phoenix PX-1KC**](../mechs/phoenix/phoenix_px-1kc.md) *Brawler (3065)*
 - [**Phoenix PX-1KL**](../mechs/phoenix/phoenix_px-1kl.md) *Brawler (3070)*
+- [**Phoenix PX-1KT**](../mechs/phoenix/phoenix_px-1kt.md) *Brawler (3070)*
 - [**Phoenix PX-1KR**](../mechs/phoenix/phoenix_px-1kr.md) *Brawler (3079)*
 
 ### [Raider Mk II](../mechs/raider_mk_ii.md)
@@ -278,7 +259,6 @@
 
 ### [Centurion](../mechs/centurion.md)
 - [**Centurion CN10-B**](../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
 
 ### [Dervish](../mechs/dervish.md)
 - [**Dervish DV-6Mr**](../mechs/dervish/dervish_dv-6mr.md) *Brawler (3073)*
@@ -302,20 +282,17 @@
 ### [Marshal](../mechs/marshal.md)
 - [**Marshal MHL-3MC**](../mechs/marshal/marshal_mhl-3mc.md) *Brawler (3119)*
 
+### [Naja](../mechs/naja.md)
+- [**Naja KTO-19b-EC**](../mechs/naja/naja_kto-19b-ec.md) *Brawler (2824)*
+
 ### [Rook](../mechs/rook.md)
 - [**Rook NH-1B**](../mechs/rook/rook_nh-1b.md) *Brawler (3075)*
-
-### [Scorpion](../mechs/scorpion.md)
-- [**Scorpion SCP-1O**](../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
 
 ### [Septicemia](../mechs/septicemia.md)
 - [**Septicemia A-Z**](../mechs/septicemia/septicemia_a-z.md) *Brawler (3072)* `Active Probe`, `ECM`, `NovaC3`, `TAG`
 
 ### [Shadow Hawk](../mechs/shadow_hawk.md)
 - [**Shadow Hawk SHD-2D2**](../mechs/shadow_hawk/shadow_hawk_shd-2d2.md) *Brawler (3049)*
-
-### [Sun Bear](../mechs/sun_bear.md)
-- [**Sun Bear Prime**](../mechs/sun_bear/sun_bear_prime.md) *Brawler (2966)*
 
 ## 60 Tons
 
@@ -341,7 +318,7 @@
 - [**Lancelot LNC25-02**](../mechs/lancelot/lancelot_lnc25-02.md) *Brawler (2864)*
 
 ### [Lupus](../mechs/lupus.md)
-- [**Lupus C**](../mechs/lupus/lupus_c.md) *Brawler (3147)*
+- [**Lupus A**](../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus D**](../mechs/lupus/lupus_d.md) *Brawler (3147)*
 
 ### [Mad Dog](../mechs/mad_dog.md)
@@ -372,8 +349,10 @@
 
 ### [Sojourner](../mechs/sojourner.md)
 - [**Sojourner A**](../mechs/sojourner/sojourner_a.md) *Brawler (3147)*
-- [**Sojourner B**](../mechs/sojourner/sojourner_b.md) *Brawler (3147)* `ECM`
 - [**Sojourner D**](../mechs/sojourner/sojourner_d.md) *Brawler (3147)*
+
+### [Vision Quest](../mechs/vision_quest.md)
+- [**Vision Quest (Standard)**](../mechs/vision_quest/vision_quest_standard.md) *Brawler (2832)*
 
 ## 65 Tons
 
@@ -389,6 +368,8 @@
 
 ### [Crusader](../mechs/crusader.md)
 - [**Crusader CRD-3R (Crael)**](../mechs/crusader/crusader_crd-3r_crael.md) *Brawler (3040)* `Unique`
+- [**Crusader CRD-7M**](../mechs/crusader/crusader_crd-7m.md) *Brawler (3087)*
+- [**Crusader CRD-7M2**](../mechs/crusader/crusader_crd-7m2.md) *Brawler (3088)*
 
 ### [Deep Lord](../mechs/deep_lord.md)
 - [**Deep Lord RCL-Z1M-B MilitiaMech**](../mechs/deep_lord/deep_lord_rcl-z1m-b_militiamech.md) *Brawler (3118)* `IndustrialMech`
@@ -431,11 +412,15 @@
 - [**Thunderbolt TDR-5S**](../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
 - [**Thunderbolt TDR-5Sd**](../mechs/thunderbolt/thunderbolt_tdr-5sd.md) *Brawler (2750)*
 - [**Thunderbolt TDR-5Sb**](../mechs/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)*
+- [**Thunderbolt TDR-5D**](../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)*
 - [**Thunderbolt TDR-5SS**](../mechs/thunderbolt/thunderbolt_tdr-5ss.md) *Brawler (2930)*
 - [**Thunderbolt TDR-5S-T (Tallman)**](../mechs/thunderbolt/thunderbolt_tdr-5s-t_tallman.md) *Brawler (3025)* `Unique`
 - [**Thunderbolt TDR-7M**](../mechs/thunderbolt/thunderbolt_tdr-7m.md) *Brawler (3049)*
 - [**Thunderbolt TDR-9S**](../mechs/thunderbolt/thunderbolt_tdr-9s.md) *Brawler (3050)*
+- [**Thunderbolt TDR-9W**](../mechs/thunderbolt/thunderbolt_tdr-9w.md) *Brawler (3053)*
+- [**Thunderbolt TDR-8M**](../mechs/thunderbolt/thunderbolt_tdr-8m.md) *Brawler (3058)*
 - [**Thunderbolt TDR-10M (Salazar)**](../mechs/thunderbolt/thunderbolt_tdr-10m_salazar.md) *Brawler (3085)* `ECM`, `Stealth`, `Unique`
+- [**Thunderbolt TDR-7S**](../mechs/thunderbolt/thunderbolt_tdr-7s.md) *Brawler (3091)*
 
 ## 70 Tons
 
@@ -501,8 +486,7 @@
 - [**Mangonel MNL-4S**](../mechs/mangonel/mangonel_mnl-4s.md) *Brawler (3088)*
 
 ### [Minsk](../mechs/minsk.md)
-- [**Minsk MNK-101**](../mechs/minsk/minsk_mnk-101.md) *Brawler (2830)* `Active Probe`
-- [**Minsk 2**](../mechs/minsk/minsk_2.md) *Brawler (3148)* `Active Probe`, `ECM`
+- [**Minsk (Standard)**](../mechs/minsk/minsk_standard.md) *Brawler (2862)* `Active Probe`
 
 ### [No-Dachi](../mechs/no-dachi.md)
 - [**No-Dachi NDA-1K**](../mechs/no-dachi/no-dachi_nda-1k.md) *Brawler (3058)*
@@ -532,6 +516,7 @@
 - [**Warhammer WHM-6K**](../mechs/warhammer/warhammer_whm-6k.md) *Brawler (2830)*
 - [**Warhammer WHM-6D**](../mechs/warhammer/warhammer_whm-6d.md) *Brawler (2835)*
 - [**Warhammer C 3**](../mechs/warhammer/warhammer_c_3.md) *Brawler (2874)* `ECM`
+- [**Warhammer WHM-6K (Olesko)**](../mechs/warhammer/warhammer_whm-6k_olesko.md) *Brawler (3023)* `Unique`
 - [**Warhammer WHM-7M**](../mechs/warhammer/warhammer_whm-7m.md) *Brawler (3047)*
 - [**Warhammer C**](../mechs/warhammer/warhammer_c.md) *Brawler (3050)*
 - [**Warhammer WHM-7S**](../mechs/warhammer/warhammer_whm-7s.md) *Brawler (3050)*
@@ -599,7 +584,6 @@
 ### [Inferno](../mechs/inferno.md)
 - [**Inferno INF-NO**](../mechs/inferno/inferno_inf-no.md) *Brawler (3146)*
 - [**Inferno INF-NOA**](../mechs/inferno/inferno_inf-noa.md) *Brawler (3146)*
-- [**Inferno INF-NOB**](../mechs/inferno/inferno_inf-nob.md) *Brawler (3146)*
 
 ### [Marauder](../mechs/marauder.md)
 - [**Marauder MAD-3D**](../mechs/marauder/marauder_mad-3d.md) *Brawler (2834)*
@@ -617,7 +601,12 @@
 - [**Marauder MAD-7M**](../mechs/marauder/marauder_mad-7m.md) *Brawler (3074)*
 - [**Marauder MAD-9D**](../mechs/marauder/marauder_mad-9d.md) *Brawler (3125)*
 
+### [Masauwu](../mechs/masauwu.md)
+- [**Masauwu (Standard)**](../mechs/masauwu/masauwu_standard.md) *Brawler (2832)* `ECM`
+
 ### [Orion](../mechs/orion.md)
+- [**Orion ON1-C**](../mechs/orion/orion_on1-c.md) *Brawler (2453)*
+- [**Orion ON1-H**](../mechs/orion/orion_on1-h.md) *Brawler (2456)*
 - [**Orion ON1-K**](../mechs/orion/orion_on1-k.md) *Brawler (2525)*
 - [**Orion ON1-K (Kerensky)**](../mechs/orion/orion_on1-k_kerensky.md) *Brawler (2753)*
 - [**Orion ON1-V**](../mechs/orion/orion_on1-v.md) *Brawler (2799)*
@@ -642,9 +631,6 @@
 - [**Perseus P1W**](../mechs/perseus/perseus_p1w.md) *Brawler (3068)* `C3i`
 - [**Perseus P1E**](../mechs/perseus/perseus_p1e.md) *Brawler (3072)* `Active Probe`
 - [**Perseus P1P**](../mechs/perseus/perseus_p1p.md) *Brawler (3078)* `ECM`, `TAG`
-
-### [Reconquista](../mechs/reconquista.md)
-- [**Reconquista**](../mechs/reconquista/reconquista.md) *Brawler (2862)*
 
 ### [Shugenja](../mechs/shugenja.md)
 - [**Shugenja SJA-7D**](../mechs/shugenja/shugenja_sja-7d.md) *Brawler (3061)* `C3 Master`, `TAG`
@@ -686,7 +672,6 @@
 
 ### [Woodsman](../mechs/woodsman.md)
 - [**Woodsman Prime**](../mechs/woodsman/woodsman_prime.md) *Brawler (2866)*
-- [**Woodsman B**](../mechs/woodsman/woodsman_b.md) *Brawler (2866)*
 - [**Woodsman C**](../mechs/woodsman/woodsman_c.md) *Brawler (3149)* `Active Probe`, `ECM`
 
 ## 80 Tons
@@ -697,6 +682,7 @@
 ### [Doloire](../mechs/doloire.md)
 - [**Doloire DLR-O**](../mechs/doloire/doloire_dlr-o.md) *Brawler (3121)* `ECM`
 - [**Doloire DLR-OB**](../mechs/doloire/doloire_dlr-ob.md) *Brawler (3121)*
+- [**Doloire DLR-OBLO**](../mechs/doloire/doloire_dlr-oblo.md) *Brawler (3140)* `C3i`, `TAG`, `Unique`
 
 ### [Gargoyle](../mechs/gargoyle.md)
 - [**Gargoyle F**](../mechs/gargoyle/gargoyle_f.md) *Brawler (3127)*
@@ -767,6 +753,7 @@
 - [**Warlord BLR-2Dr**](../mechs/warlord/warlord_blr-2dr.md) *Brawler (3078)* `C3 Slave`
 
 ### [Zeus](../mechs/zeus.md)
+- [**Zeus ZEU-6A**](../mechs/zeus/zeus_zeu-6a.md) *Brawler (2940)*
 - [**Zeus ZEU-9T**](../mechs/zeus/zeus_zeu-9t.md) *Brawler (3062)*
 
 ### [Zeus-X](../mechs/zeus-x.md)
@@ -869,6 +856,8 @@
 - [**Kingfisher E**](../mechs/kingfisher/kingfisher_e.md) *Brawler (3063)*
 - [**Kingfisher F**](../mechs/kingfisher/kingfisher_f.md) *Brawler (3069)* `ECM`
 - [**Kingfisher X**](../mechs/kingfisher/kingfisher_x.md) *Brawler (3076)* `ECM`
+- [**Kingfisher I**](../mechs/kingfisher/kingfisher_i.md) *Brawler (3137)*
+- [**Kingfisher T**](../mechs/kingfisher/kingfisher_t.md) *Brawler (3142)*
 
 ### [Mad Cat Mk II](../mechs/mad_cat_mk_ii.md)
 - [**Mad Cat Mk II (Standard)**](../mechs/mad_cat_mk_ii/mad_cat_mk_ii_standard.md) *Brawler (3062)*
@@ -879,7 +868,6 @@
 ### [Pulverizer](../mechs/pulverizer.md)
 - [**Pulverizer PUL-2V**](../mechs/pulverizer/pulverizer_pul-2v.md) *Brawler (2823)* `ECM`
 - [**Pulverizer PUL-3R**](../mechs/pulverizer/pulverizer_pul-3r.md) *Brawler (2823)* `ECM`
-- [**Pulverizer (Standard)**](../mechs/pulverizer/pulverizer_standard.md) *Brawler (2845)* `ECM`
 
 ### [Rifleman III](../mechs/rifleman_iii.md)
 - [**Rifleman III RF2-A**](../mechs/rifleman_iii/rifleman_iii_rf2-a.md) *Brawler (2776)* `Stealth`, `Unique`
@@ -910,6 +898,7 @@
 - [**Banshee BNC-6S**](../mechs/banshee/banshee_bnc-6s.md) *Brawler (3062)*
 - [**Banshee BNC-7S**](../mechs/banshee/banshee_bnc-7s.md) *Brawler (3063)*
 - [**Banshee BNC-8S**](../mechs/banshee/banshee_bnc-8s.md) *Brawler (3070)* `C3 Slave`, `ECM`
+- [**Banshee BNC-12S**](../mechs/banshee/banshee_bnc-12s.md) *Brawler (3138)*
 
 ### [Cerberus](../mechs/cerberus.md)
 - [**Cerberus MR-V2**](../mechs/cerberus/cerberus_mr-v2.md) *Brawler (3054)*
@@ -931,6 +920,9 @@
 - [**Trebaruna TR-XL**](../mechs/trebaruna/trebaruna_tr-xl.md) *Brawler (3081)*
 
 ## 100 Tons
+
+### [Amarok](../mechs/amarok.md)
+- [**Amarok 2**](../mechs/amarok/amarok_2.md) *Brawler (3150)*
 
 ### [Atlas](../mechs/atlas.md)
 - [**Atlas AS7-K4**](../mechs/atlas/atlas_as7-k4.md) *Brawler (3098)* `ECM`

@@ -3,7 +3,7 @@
 [Other Jenner variants](../jenner.md)
 
 ## Jenner JR7-F (Smith)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3030)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11

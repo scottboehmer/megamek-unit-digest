@@ -16,7 +16,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f)
+- **Sources:** ilClan Rec Guide 18 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f)
 - **Battle Value:** 2568
 
 ## Availability

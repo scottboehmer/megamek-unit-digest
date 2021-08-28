@@ -45,7 +45,7 @@
 - [*More Info*](flea/flea_fle-15.md)
 
 ## Flea FLE-16
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3032)
 - **Chassis:** 20 tons
 - **Movement:** 9 / 14

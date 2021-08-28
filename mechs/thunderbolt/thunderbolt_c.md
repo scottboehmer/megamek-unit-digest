@@ -4,17 +4,17 @@
 
 ## Thunderbolt C
 - **Role:** Sniper
-- **Tech Base:** Clan (3050)
+- **Tech Base:** Inner Sphere Mixed (2832)
 - **Chassis:** 65 tons
 - **Movement:** 4 / 6
 - **Armor:** 208
 - **Heat Sinks:** 24 (24)
 - **Weapons:**
-  - Large Pulse Laser
-  - ER Large Laser
-  - ER Medium Laser
-  - ER Small Laser × 2
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c)
+  - Clan Large Pulse Laser
+  - Clan ER Large Laser
+  - Clan ER Medium Laser
+  - Clan ER Small Laser × 2
+- **Sources:** ilClan RecGuide 15 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c)
 - **Battle Value:** 1671
 
 ## Availability

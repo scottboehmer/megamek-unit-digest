@@ -63,7 +63,7 @@
 - [*More Info*](zeus/zeus_zeu-6y.md)
 
 ## Zeus ZEU-6A
-- **Role:** Undefined
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (2940)
 - **Chassis:** 80 tons
 - **Movement:** 4 / 6

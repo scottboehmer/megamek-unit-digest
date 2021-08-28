@@ -57,14 +57,14 @@
 - [**Falcon FLC-4N**](../../mechs/falcon/falcon_flc-4n.md) *Scout (2582)*
 
 ### [Firefly](../../mechs/firefly.md)
-- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Undefined (2679)* `TAG`
+- [**Firefly FFL-3A**](../../mechs/firefly/firefly_ffl-3a.md) *Striker (2679)* `TAG`
 
 ### [Hussar](../../mechs/hussar.md)
 - [**Hussar HSR-200-D**](../../mechs/hussar/hussar_hsr-200-d.md) *Scout (2620)*
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 
 ### [Marco](../../mechs/marco.md)
@@ -218,7 +218,7 @@
 
 ### [Wolverine](../../mechs/wolverine.md)
 - [**Wolverine WVR-6R**](../../mechs/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)*
-- [**Wolverine WVR-6D**](../../mechs/wolverine/wolverine_wvr-6d.md) *Undefined (2834)*
+- [**Wolverine WVR-6D**](../../mechs/wolverine/wolverine_wvr-6d.md) *Skirmisher (2834)*
 
 ## 60 Tons
 
@@ -283,7 +283,7 @@
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
 - [**Thunderbolt TDR-5Sd**](../../mechs/thunderbolt/thunderbolt_tdr-5sd.md) *Brawler (2750)*
-- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Undefined (2821)*
+- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)*
 
 ## 70 Tons
 

@@ -3,7 +3,7 @@
 [Other Surtur variants](../surtur.md)
 
 ## Surtur SUR-T1
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3140)
 - **Chassis:** 55 tons (Endo Steel)
 - **Movement:** 6 / 9 (12), XL
@@ -15,11 +15,10 @@
   - Flamer × 7
 - **Equipment:**
   - Supercharger
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7884/surtur-sur-t1)
+- **Source:** Dark Age
 - **Battle Value:** 1203
 
 ## Availability
 
-### Dark Ages
-- Scorpion Empire
+Availability Unknown
 

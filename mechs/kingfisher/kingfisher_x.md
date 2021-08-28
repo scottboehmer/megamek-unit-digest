@@ -18,7 +18,7 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x)
+- **Sources:** ilClan Rec Guide 18 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x)
 - **Battle Value:** 2761
 
 ## Availability

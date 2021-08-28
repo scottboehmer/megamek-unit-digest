@@ -17,7 +17,7 @@
   - ECM Suite
   - Talons
   - CASE II
-- **Sources:** TRO Clan Invasion - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x)
+- **Sources:** Recognition Guide:ilClan #16 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x)
 - **Battle Value:** 3056
 
 ## Availability

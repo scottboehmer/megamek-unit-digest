@@ -3,7 +3,7 @@
 [Other Timber Wolf variants](../timber_wolf.md)
 
 ## Timber Wolf "Mad Cat" TC
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Clan (3052)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 5 / 8, XL

@@ -38,7 +38,7 @@
 - [*More Info*](woodsman/woodsman_a.md)
 
 ## Woodsman B
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Clan (2866)
 - **Chassis:** 75 tons (Endo Steel)
 - **Movement:** 4 / 6 (8)

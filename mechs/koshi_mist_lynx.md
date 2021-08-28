@@ -212,7 +212,7 @@
 - [*More Info*](mist_lynx/mist_lynx_z.md)
 
 ## Mist Lynx "Koshi" I
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan Mixed (3086)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL
@@ -230,7 +230,7 @@
 - [*More Info*](mist_lynx/mist_lynx_i.md)
 
 ## Mist Lynx "Koshi" J
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3107)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11 (14), XL
@@ -248,7 +248,7 @@
 - [*More Info*](mist_lynx/mist_lynx_j.md)
 
 ## Mist Lynx "Koshi" K
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3112)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL
@@ -266,7 +266,7 @@
 - [*More Info*](mist_lynx/mist_lynx_k.md)
 
 ## Mist Lynx "Koshi" L
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3124)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL
@@ -286,7 +286,7 @@
 - [*More Info*](mist_lynx/mist_lynx_l.md)
 
 ## Mist Lynx "Koshi" N
-- **Role:** Undefined
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3139)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL
@@ -306,7 +306,7 @@
 - [*More Info*](mist_lynx/mist_lynx_n.md)
 
 ## Mist Lynx "Koshi" M
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Clan (3140)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL
@@ -325,7 +325,7 @@
 - [*More Info*](mist_lynx/mist_lynx_m.md)
 
 ## Mist Lynx "Koshi" T
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Clan (3142)
 - **Chassis:** 25 tons (Endo Steel)
 - **Movement:** 7 / 11, XL

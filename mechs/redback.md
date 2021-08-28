@@ -1,6 +1,6 @@
 # Redback
-## Redback
-- **Role:** Undefined
+## Redback (Standard)
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (2828)
 - **Chassis:** 75 tons
 - **Movement:** 5 / 8, XL
@@ -13,7 +13,7 @@
   - Inner Sphere Medium Pulse Laser × 2
 - **Equipment:**
   - Inner Sphere TAG
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7684/redback-standard)
+- **Source:** Succession Wars
 - **Battle Value:** 2076
-- [*More Info*](redback/redback.md)
+- [*More Info*](redback/redback_standard.md)
 

@@ -3,7 +3,7 @@
 [Other Phoenix Hawk variants](../phoenix_hawk.md)
 
 ## Phoenix Hawk PXH-3D (Jiemin)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3065)
 - **Chassis:** 45 tons (Endo Steel)
 - **Movement:** 7 / 11, XL

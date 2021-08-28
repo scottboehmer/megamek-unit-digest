@@ -135,10 +135,10 @@
 - [**Arctic Cheetah E**](../../mechs/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)*
 
 ### [Arctic Fox](../../mechs/arctic_fox.md)
-- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Brawler (3059)*
+- [**Arctic Fox AF1**](../../mechs/arctic_fox/arctic_fox_af1.md) *Striker (3059)*
 - [**Arctic Fox AF1A**](../../mechs/arctic_fox/arctic_fox_af1a.md) *Striker (3059)*
-- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Brawler (3059)*
-- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Brawler (3059)*
+- [**Arctic Fox AF1B**](../../mechs/arctic_fox/arctic_fox_af1b.md) *Striker (3059)*
+- [**Arctic Fox AF1C**](../../mechs/arctic_fox/arctic_fox_af1c.md) *Striker (3059)*
 - [**Arctic Fox AF1D**](../../mechs/arctic_fox/arctic_fox_af1d.md) *Missile Boat (3059)*
 - [**Arctic Fox AF1U**](../../mechs/arctic_fox/arctic_fox_af1u.md) *Sniper (3072)*
 
@@ -167,7 +167,7 @@
 
 ### [Javelin](../../mechs/javelin.md)
 - [**Javelin JVN-10N**](../../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
-- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Undefined (2752)*
+- [**Javelin JVN-10A**](../../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 - [**Javelin JVN-10P**](../../mechs/javelin/javelin_jvn-10p.md) *Striker (3049)*
 - [**Javelin JVN-11A 'Fire Javelin'**](../../mechs/javelin/javelin_jvn-11a_'fire_javelin'.md) *Striker (3053)*
@@ -487,7 +487,7 @@
 ## 50 Tons
 
 ### [Aquagladius](../../mechs/aquagladius.md)
-- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Juggernaut (3066)*
+- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Striker (3066)*
 
 ### [Blackjack](../../mechs/blackjack.md)
 - [**Blackjack BJ2-O**](../../mechs/blackjack/blackjack_bj2-o.md) *Brawler (3057)*
@@ -612,7 +612,7 @@
 
 ### [Centurion](../../mechs/centurion.md)
 - [**Centurion CN10-B**](../../mechs/centurion/centurion_cn10-b.md) *Brawler (3057)*
-- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Brawler (3057)*
+- [**Centurion CN10-J**](../../mechs/centurion/centurion_cn10-j.md) *Sniper (3057)*
 - [**Centurion CN10-W**](../../mechs/centurion/centurion_cn10-w.md) *Sniper (3057)*
 
 ### [Cronus](../../mechs/cronus.md)
@@ -671,7 +671,7 @@
 
 ### [Scorpion](../../mechs/scorpion.md)
 - [**Scorpion SCP-1N**](../../mechs/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)*
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 - [**Scorpion SCP-12S**](../../mechs/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)*
 - [**Scorpion SCP-1TB**](../../mechs/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)*
 - [**Scorpion SCP-10M**](../../mechs/scorpion/scorpion_scp-10m.md) *Sniper (3080)*
@@ -681,7 +681,7 @@
 - [**Shadow Hawk SHD-2Hb**](../../mechs/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)*
 - [**Shadow Hawk SHD-2K**](../../mechs/shadow_hawk/shadow_hawk_shd-2k.md) *Sniper (2803)*
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
-- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Missile Boat (3054)* `Active Probe`, `ECM`, `TAG`
+- [**Shadow Hawk SHD-5S**](../../mechs/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe`, `ECM`, `TAG`
 - [**Shadow Hawk SHD-5D**](../../mechs/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)*
 - [**Shadow Hawk SHD-5D (Sandy)**](../../mechs/shadow_hawk/shadow_hawk_shd-5d_sandy.md) *Sniper (3068)* `TAG`, `Unique`
 
@@ -691,7 +691,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow I**](../../mechs/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe`
@@ -825,7 +825,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`
@@ -862,7 +862,7 @@
 ### [Thunderbolt](../../mechs/thunderbolt.md)
 - [**Thunderbolt TDR-1C**](../../mechs/thunderbolt/thunderbolt_tdr-1c.md) *Missile Boat (2491)*
 - [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)*
-- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Undefined (2821)*
+- [**Thunderbolt TDR-5D**](../../mechs/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)*
 - [**Thunderbolt TDR-5SS**](../../mechs/thunderbolt/thunderbolt_tdr-5ss.md) *Brawler (2930)*
 - [**Thunderbolt TDR-7M**](../../mechs/thunderbolt/thunderbolt_tdr-7m.md) *Brawler (3049)*
 - [**Thunderbolt TDR-9SE**](../../mechs/thunderbolt/thunderbolt_tdr-9se.md) *Skirmisher (3049)*
@@ -880,7 +880,7 @@
 ## 70 Tons
 
 ### [Archer](../../mechs/archer.md)
-- [**Archer ARC-1A**](../../mechs/archer/archer_arc-1a.md) *Undefined (2458)*
+- [**Archer ARC-1A**](../../mechs/archer/archer_arc-1a.md) *Missile Boat (2458)*
 - [**Archer ARC-2R**](../../mechs/archer/archer_arc-2r.md) *Missile Boat (2474)*
 - [**Archer ARC-4M**](../../mechs/archer/archer_arc-4m.md) *Missile Boat (3049)*
 - [**Archer ARC-5R**](../../mechs/archer/archer_arc-5r.md) *Missile Boat (3050)*
@@ -1250,7 +1250,7 @@
 ### [Nightstar](../../mechs/nightstar.md)
 - [**Nightstar NSR-9J**](../../mechs/nightstar/nightstar_nsr-9j.md) *Juggernaut (2767)*
 - [**Nightstar NSR-9FC**](../../mechs/nightstar/nightstar_nsr-9fc.md) *Juggernaut (3057)*
-- [**Nightstar NSR-9J (Holt)**](../../mechs/nightstar/nightstar_nsr-9j_holt.md) *Undefined (3063)* `ECM`, `Unique`
+- [**Nightstar NSR-9J (Holt)**](../../mechs/nightstar/nightstar_nsr-9j_holt.md) *Sniper (3063)* `ECM`, `Unique`
 - [**Nightstar NSR-9SS**](../../mechs/nightstar/nightstar_nsr-9ss.md) *Juggernaut (3065)*
 
 ### [Sirocco](../../mechs/sirocco.md)
@@ -1265,7 +1265,7 @@
 ### [Atlas](../../mechs/atlas.md)
 - [**Atlas AS7-D**](../../mechs/atlas/atlas_as7-d.md) *Juggernaut (2755)*
 - [**Atlas AS7-RS**](../../mechs/atlas/atlas_as7-rs.md) *Juggernaut (2892)*
-- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Undefined (2954)*
+- [**Atlas AS7-A**](../../mechs/atlas/atlas_as7-a.md) *Juggernaut (2954)*
 - [**Atlas AS7-K**](../../mechs/atlas/atlas_as7-k.md) *Sniper (3049)*
 - [**Atlas AS7-C**](../../mechs/atlas/atlas_as7-c.md) *Sniper (3050)* `C3 Slave`
 - [**Atlas AS7-CM**](../../mechs/atlas/atlas_as7-cm.md) *Sniper (3050)* `C3 Master`, `TAG`

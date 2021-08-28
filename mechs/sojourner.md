@@ -40,7 +40,7 @@
 - [*More Info*](sojourner/sojourner_a.md)
 
 ## Sojourner B
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Clan (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 4 / 6 (8)

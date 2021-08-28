@@ -3,7 +3,7 @@
 - **Role:** Missile Boat
 - **Tech Base:** Inner Sphere (2468)
 - **Chassis:** 60 tons
-- **Movement:** 4 / 6, Primitive
+- **Movement:** 4 / 6
 - **Armor:** 123 (Primitive)
 - **Cockpit:** Primitive
 - **Heat Sinks:** 10 (10)
@@ -169,7 +169,7 @@
 - **Equipment:**
   - CASE
   - Targeting Computer
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e)
+- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e)
 - **Battle Value:** 1558
 - [*More Info*](crossbow/crossbow_e.md)
 
@@ -190,4 +190,86 @@
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/740/crossbow-u)
 - **Battle Value:** 1856
 - [*More Info*](crossbow/crossbow_u.md)
+
+## Crossbow F
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3116)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1854
+- [*More Info*](crossbow/crossbow_f.md)
+
+## Crossbow W
+- **Role:** Sniper
+- **Tech Base:** Clan (3128)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8
+- **Armor:** 192
+- **Heat Sinks:** 11 (24)
+- **Weapons:**
+  - ER PPC
+  - LRM 10 × 2 (ammo: 24)
+  - Improved Heavy Medium Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 2051
+- [*More Info*](crossbow/crossbow_w.md)
+
+## Crossbow G
+- **Role:** Sniper
+- **Tech Base:** Clan (3136)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Streak LRM 5 × 6 (ammo: 96)
+- **Equipment:**
+  - CASE
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1725
+- [*More Info*](crossbow/crossbow_g.md)
+
+## Crossbow J
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3142)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8 (10)
+- **Armor:** 192
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Large Laser
+  - ER Small Laser × 9
+- **Equipment:**
+  - Talons
+  - Supercharger
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1839
+- [*More Info*](crossbow/crossbow_j.md)
+
+## Crossbow T
+- **Role:** Skirmisher
+- **Tech Base:** Clan (3142)
+- **Chassis:** 65 tons
+- **Movement:** 5 / 8
+- **Armor:** 192
+- **Heat Sinks:** 12 (28)
+- **Weapons:**
+  - ER Large Laser × 2
+  - SRM 6 (iOS) × 2
+  - SRM 2 (iOS) × 14
+- **Equipment:**
+  - Light Active Probe
+- **Source:** Recognition Guide:ilClan #17 - Dark Age
+- **Battle Value:** 1751
+- [*More Info*](crossbow/crossbow_t.md)
 

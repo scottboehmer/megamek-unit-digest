@@ -3,7 +3,7 @@
 [Other Hellbringer variants](../hellbringer.md)
 
 ## Hellbringer "Loki" M
-- **Role:** Undefined
+- **Role:** Sniper
 - **Tech Base:** Clan (3052)
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8, XL

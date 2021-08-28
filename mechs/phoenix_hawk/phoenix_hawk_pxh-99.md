@@ -3,7 +3,7 @@
 [Other Phoenix Hawk variants](../phoenix_hawk.md)
 
 ## Phoenix Hawk PXH-99
-- **Role:** Undefined
+- **Role:** Juggernaut
 - **Tech Base:** Inner Sphere (3134)
 - **Chassis:** 45 tons
 - **Movement:** 1 (0) / 1 (-1)

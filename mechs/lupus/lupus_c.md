@@ -3,7 +3,7 @@
 [Other Lupus variants](../lupus.md)
 
 ## Lupus C
-- **Role:** Brawler
+- **Role:** Skirmisher
 - **Tech Base:** Clan Mixed (3147)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 5 / 8 (10)

@@ -3,7 +3,7 @@
 [Other Sun Bear variants](../sun_bear.md)
 
 ## Sun Bear Prime
-- **Role:** Brawler
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2966)
 - **Chassis:** 55 tons
 - **Movement:** 5 / 8, XL

@@ -17,8 +17,8 @@
 - **Battle Value:** 1574
 - [*More Info*](fox/fox_cs-1.md)
 
-## Fox
-- **Role:** Undefined
+## Fox (Standard)
+- **Role:** Missile Boat
 - **Tech Base:** Clan (2835)
 - **Chassis:** 50 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -32,7 +32,7 @@
   - Machine Gun × 4 (ammo: 200)
 - **Equipment:**
   - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7609/fox-standard)
+- **Source:** Succession Wars
 - **Battle Value:** 2091
-- [*More Info*](fox/fox.md)
+- [*More Info*](fox/fox_standard.md)
 

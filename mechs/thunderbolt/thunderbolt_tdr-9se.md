@@ -16,7 +16,7 @@
   - Medium Laser × 3
 - **Equipment:**
   - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se)
+- **Sources:** ilClan RecGuide 15 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se)
 - **Battle Value:** 1439
 
 ## Availability

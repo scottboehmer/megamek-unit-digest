@@ -133,7 +133,93 @@
   - Machine Gun Array × 2
   - Active Probe
   - CASE
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f)
+- **Sources:** ilClan RecGuide 15 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f)
 - **Battle Value:** 1135
 - [*More Info*](fire_falcon/fire_falcon_f.md)
+
+## Fire Falcon G
+- **Role:** Striker
+- **Tech Base:** Clan (3113)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12 (16), XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Improved Heavy Large Laser
+  - ProtoMech AC/4 (ammo: 20)
+- **Equipment:**
+  - Supercharger
+  - CASE
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 1269
+- [*More Info*](fire_falcon/fire_falcon_g.md)
+
+## Fire Falcon I
+- **Role:** Striker
+- **Tech Base:** Clan (3134)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - Plasma Cannon (ammo: 10)
+  - ER Medium Laser × 5
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 1678
+- [*More Info*](fire_falcon/fire_falcon_i.md)
+
+## Fire Falcon L
+- **Role:** Sniper
+- **Tech Base:** Clan (3134)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - ER PPC
+  - ER Small Laser × 4
+- **Equipment:**
+  - Targeting Computer
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 1665
+- [*More Info*](fire_falcon/fire_falcon_l.md)
+
+## Fire Falcon R
+- **Role:** Striker
+- **Tech Base:** Clan Mixed (3142)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12, XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Inner Sphere Medium Re-Engineered Laser
+  - ATM 3 × 2 (ammo: 40)
+  - Inner Sphere Small Re-Engineered Laser
+  - Micro Pulse Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 846
+- [*More Info*](fire_falcon/fire_falcon_r.md)
+
+## Fire Falcon T
+- **Role:** Striker
+- **Tech Base:** Clan (3142)
+- **Chassis:** 25 tons (Endo Steel)
+- **Movement:** 8 / 12 (16), XL
+- **Armor:** 76 (Ferro Fibrous)
+- **Heat Sinks:** 10 (20)
+- **Weapons:**
+  - Medium Pulse Laser
+  - Improved Heavy Medium Laser × 2
+  - Streak SRM 4 (ammo: 25)
+  - Improved Heavy Small Laser × 2
+  - SRM 4 (iOS)
+- **Equipment:**
+  - CASE
+  - Targeting Computer
+  - Supercharger
+- **Source:** ilClan RecGuide 15 - Dark Age
+- **Battle Value:** 1661
+- [*More Info*](fire_falcon/fire_falcon_t.md)
 

@@ -60,7 +60,7 @@
 - [*More Info*](lancelot/lancelot_lnc25-01x.md)
 
 ## Lancelot C
-- **Role:** Sniper
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2832)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9, XL
@@ -73,7 +73,7 @@
 - [*More Info*](lancelot/lancelot_c.md)
 
 ## Lancelot C 2
-- **Role:** Sniper
+- **Role:** Skirmisher
 - **Tech Base:** Clan (2857)
 - **Chassis:** 60 tons (Endo Steel)
 - **Movement:** 6 / 9 (12), XL

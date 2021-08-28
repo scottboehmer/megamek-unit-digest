@@ -277,7 +277,7 @@
 - [**Coyotl Prime**](../../mechs/coyotl/coyotl_prime.md) *Striker (2854)*
 - [**Coyotl A**](../../mechs/coyotl/coyotl_a.md) *Striker (2854)*
 - [**Coyotl B**](../../mechs/coyotl/coyotl_b.md) *Striker (2854)*
-- [**Coyotl C**](../../mechs/coyotl/coyotl_c.md) *Striker (3145)* `ECM`
+- [**Coyotl C**](../../mechs/coyotl/coyotl_c.md) *Sniper (3145)* `ECM`
 - [**Coyotl D**](../../mechs/coyotl/coyotl_d.md) *Striker (3149)* `TAG`
 
 ### [Dasher II](../../mechs/dasher_ii.md)
@@ -335,7 +335,7 @@
 ### [Phoenix Hawk](../../mechs/phoenix_hawk.md)
 - [**Phoenix Hawk PXH-1c (Special)**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1c_special.md) *Striker (2765)* `ECM`
 - [**Phoenix Hawk PXH-4L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM`, `Stealth`
-- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Brawler (3069)* `ECM`, `Stealth`
+- [**Phoenix Hawk PXH-5L**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-5l.md) *Skirmisher (3069)* `ECM`, `Stealth`
 - [**Phoenix Hawk PXH-4M**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)*
 - [**Phoenix Hawk PXH-9**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-9.md) *Striker (3140)*
 
@@ -501,7 +501,7 @@
 - [**Shadow Hawk SHD-5D**](../../mechs/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)*
 - [**Shadow Hawk SHD-7M**](../../mechs/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)*
 - [**Shadow Hawk SHD-8L**](../../mechs/shadow_hawk/shadow_hawk_shd-8l.md) *Striker (3079)* `Active Probe`, `ECM`
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 
 ### [Wolverine](../../mechs/wolverine.md)
@@ -546,9 +546,9 @@
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
-- [**Lupus C**](../../mechs/lupus/lupus_c.md) *Brawler (3147)*
+- [**Lupus C**](../../mechs/lupus/lupus_c.md) *Skirmisher (3147)*
 - [**Lupus D**](../../mechs/lupus/lupus_d.md) *Brawler (3147)*
 
 ### [Mad Dog Mk IV](../../mechs/mad_dog_mk_iv.md)
@@ -629,7 +629,7 @@
 - [**Hellbringer Prime**](../../mechs/hellbringer/hellbringer_prime.md) *Striker (2926)* `Active Probe`, `ECM`
 - [**Hellbringer A**](../../mechs/hellbringer/hellbringer_a.md) *Striker (2926)* `Active Probe`
 - [**Hellbringer B**](../../mechs/hellbringer/hellbringer_b.md) *Striker (2926)*
-- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Undefined (3052)*
+- [**Hellbringer M**](../../mechs/hellbringer/hellbringer_m.md) *Sniper (3052)*
 - [**Hellbringer C**](../../mechs/hellbringer/hellbringer_c.md) *Striker (3054)*
 - [**Hellbringer F**](../../mechs/hellbringer/hellbringer_f.md) *Striker (3054)*
 - [**Hellbringer J**](../../mechs/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe`

@@ -18,10 +18,10 @@
 - [**Eisenfaust EFT-2**](../mechs/eisenfaust/eisenfaust_eft-2.md) *Juggernaut (2471)*
 - [**Eisenfaust EFT-4J**](../mechs/eisenfaust/eisenfaust_eft-4j.md) *Juggernaut (2515)*
 
-## 50 Tons
+### [Phoenix Hawk](../mechs/phoenix_hawk.md)
+- [**Phoenix Hawk PXH-99**](../mechs/phoenix_hawk/phoenix_hawk_pxh-99.md) *Juggernaut (3134)* `Unique`
 
-### [Aquagladius](../mechs/aquagladius.md)
-- [**Aquagladius AQS-4**](../mechs/aquagladius/aquagladius_aqs-4.md) *Juggernaut (3066)*
+## 50 Tons
 
 ### [Bombard](../mechs/bombard.md)
 - [**Bombard BMB-010**](../mechs/bombard/bombard_bmb-010.md) *Juggernaut (3054)*
@@ -90,6 +90,11 @@
 ### [Rifleman IIC](../mechs/rifleman_iic.md)
 - [**Rifleman IIC 3**](../mechs/rifleman_iic/rifleman_iic_3.md) *Juggernaut (3062)* `Active Probe`
 
+### [Thunderbolt](../mechs/thunderbolt.md)
+- [**Thunderbolt C 2**](../mechs/thunderbolt/thunderbolt_c_2.md) *Juggernaut (3054)*
+- [**Thunderbolt TDR-11S**](../mechs/thunderbolt/thunderbolt_tdr-11s.md) *Juggernaut (3074)*
+- [**Thunderbolt TDR-12R**](../mechs/thunderbolt/thunderbolt_tdr-12r.md) *Juggernaut (3127)*
+
 ## 70 Tons
 
 ### [BattleAxe](../mechs/battleaxe.md)
@@ -122,6 +127,9 @@
 - [**Marauder Bounty Hunter 3015**](../mechs/marauder/marauder_bounty_hunter_3015.md) *Juggernaut (3015)* `Unique`
 - [**Marauder Red Hunter**](../mechs/marauder/marauder_red_hunter.md) *Juggernaut (3146)* `Unique`
 - [**Marauder Red Hunter 3146**](../mechs/marauder/marauder_red_hunter_3146.md) *Juggernaut (3146)* `Unique`
+
+### [OmniMarauder](../mechs/omnimarauder.md)
+- [**OmniMarauder MAD-BR-OA**](../mechs/omnimarauder/omnimarauder_mad-br-oa.md) *Juggernaut (3135)* `TAG`, `Unique`
 
 ### [Orion](../mechs/orion.md)
 - [**Orion ON1-VA**](../mechs/orion/orion_on1-va.md) *Juggernaut (2901)*
@@ -293,7 +301,6 @@
 - [**Emperor EMP-1A**](../mechs/emperor/emperor_emp-1a.md) *Juggernaut (2442)*
 - [**Emperor EMP-5A**](../mechs/emperor/emperor_emp-5a.md) *Juggernaut (2502)*
 - [**Emperor EMP-6A**](../mechs/emperor/emperor_emp-6a.md) *Juggernaut (2612)*
-- [**Emperor EMP-6A-EC**](../mechs/emperor/emperor_emp-6a-ec.md) *Juggernaut (2826)*
 - [**Emperor EMP-6D**](../mechs/emperor/emperor_emp-6d.md) *Juggernaut (3069)*
 - [**Emperor EMP-6L**](../mechs/emperor/emperor_emp-6l.md) *Juggernaut (3069)* `ECM`, `Stealth`
 - [**Emperor EMP-6S**](../mechs/emperor/emperor_emp-6s.md) *Juggernaut (3069)*
@@ -319,13 +326,13 @@
 - [**Juggernaut JG-R9T3**](../mechs/juggernaut/juggernaut_jg-r9t3.md) *Juggernaut (3065)*
 - [**Juggernaut JG-R9TX1 'Leapin' Lil'**](../mechs/juggernaut/juggernaut_jg-r9tx1_'leapin'_lil'.md) *Juggernaut (3074)* `Unique`
 
+### [Kingfisher](../mechs/kingfisher.md)
+- [**Kingfisher G**](../mechs/kingfisher/kingfisher_g.md) *Juggernaut (3136)*
+
 ### [Mauler](../mechs/mauler.md)
 - [**Mauler MAL-2R**](../mechs/mauler/mauler_mal-2r.md) *Juggernaut (3060)*
 - [**Mauler MAL-1K**](../mechs/mauler/mauler_mal-1k.md) *Juggernaut (3069)*
 - [**Mauler MAL-4X 'Todesbote'**](../mechs/mauler/mauler_mal-4x_'todesbote'.md) *Juggernaut (3070)* `Unique`
-
-### [St. Florian](../mechs/st._florian.md)
-- [**St. Florian FLN-366-M FireMech MOD**](../mechs/st._florian/st._florian_fln-366-m_firemech_mod.md) *Juggernaut (3133)* `IndustrialMech`
 
 ### [Sunder](../mechs/sunder.md)
 - [**Sunder SD1-O (Samual)**](../mechs/sunder/sunder_sd1-o_samual.md) *Juggernaut (3066)* `Unique`
@@ -395,6 +402,10 @@
 
 ## 100 Tons
 
+### [Amarok](../mechs/amarok.md)
+- [**Amarok (Standard)**](../mechs/amarok/amarok_standard.md) *Juggernaut (3149)*
+- [**Amarok 3**](../mechs/amarok/amarok_3.md) *Juggernaut (3150)*
+
 ### [Annihilator](../mechs/annihilator.md)
 - [**Annihilator ANH-1X**](../mechs/annihilator/annihilator_anh-1x.md) *Juggernaut (2779)*
 - [**Annihilator ANH-1G**](../mechs/annihilator/annihilator_anh-1g.md) *Juggernaut (2823)*
@@ -415,6 +426,7 @@
 - [**Atlas AS7-D**](../mechs/atlas/atlas_as7-d.md) *Juggernaut (2755)*
 - [**Atlas AS7-D-DC**](../mechs/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console`
 - [**Atlas AS7-RS**](../mechs/atlas/atlas_as7-rs.md) *Juggernaut (2892)*
+- [**Atlas AS7-A**](../mechs/atlas/atlas_as7-a.md) *Juggernaut (2954)*
 - [**Atlas AS7-WGS (Samsonov)**](../mechs/atlas/atlas_as7-wgs_samsonov.md) *Juggernaut (3025)* `Unique`
 - [**Atlas AS7-D (Danielle)**](../mechs/atlas/atlas_as7-d_danielle.md) *Juggernaut (3028)* `Unique`
 - [**Atlas AS7-S**](../mechs/atlas/atlas_as7-s.md) *Juggernaut (3050)*
@@ -441,7 +453,6 @@
 - [**Berserker BRZ-D4**](../mechs/berserker/berserker_brz-d4.md) *Juggernaut (3112)* `ECM`
 
 ### [Devastator](../mechs/devastator.md)
-- [**Devastator DVS-2-EC**](../mechs/devastator/devastator_dvs-2-ec.md) *Juggernaut (2827)*
 - [**Devastator DVS-1D**](../mechs/devastator/devastator_dvs-1d.md) *Juggernaut (3036)*
 - [**Devastator DVS-2**](../mechs/devastator/devastator_dvs-2.md) *Juggernaut (3048)*
 
@@ -527,9 +538,6 @@
 - [**Stone Rhino 5**](../mechs/stone_rhino/stone_rhino_5.md) *Juggernaut (2846)*
 - [**Stone Rhino 2**](../mechs/stone_rhino/stone_rhino_2.md) *Juggernaut (3061)*
 
-### [Storm Giant](../mechs/storm_giant.md)
-- [**Storm Giant 2**](../mechs/storm_giant/storm_giant_2.md) *Juggernaut (2862)*
-
 ### [Titan](../mechs/titan.md)
 - [**Titan TI-1A**](../mechs/titan/titan_ti-1a.md) *Juggernaut (2765)*
 - [**Titan TI-1Aj**](../mechs/titan/titan_ti-1aj.md) *Juggernaut (3123)*
@@ -540,9 +548,9 @@
 - [**Titan II TI-2PA**](../mechs/titan_ii/titan_ii_ti-2pa.md) *Juggernaut (3076)* `Active Probe`
 
 ### [Tomahawk](../mechs/tomahawk.md)
-- [**Tomahawk (Prime)**](../mechs/tomahawk/tomahawk_prime.md) *Juggernaut (3065)* `ECM`
-- [**Tomahawk A**](../mechs/tomahawk/tomahawk_a.md) *Juggernaut (3065)*
-- [**Tomahawk B**](../mechs/tomahawk/tomahawk_b.md) *Juggernaut (3065)*
+- [**Tomahawk (Prime)**](../mechs/tomahawk/tomahawk_prime.md) *Juggernaut (3063)* `ECM`
+- [**Tomahawk A**](../mechs/tomahawk/tomahawk_a.md) *Juggernaut (3063)*
+- [**Tomahawk B**](../mechs/tomahawk/tomahawk_b.md) *Juggernaut (3063)*
 
 ### [Tomahawk II](../mechs/tomahawk_ii.md)
 - [**Tomahawk II A**](../mechs/tomahawk_ii/tomahawk_ii_a.md) *Juggernaut (3088)*

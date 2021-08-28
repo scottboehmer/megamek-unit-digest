@@ -43,7 +43,7 @@
 - [*More Info*](jenner/jenner_jr7-d.md)
 
 ## Jenner JR7-F (Smith)
-- **Role:** Undefined
+- **Role:** Striker
 - **Tech Base:** Inner Sphere (3030)
 - **Chassis:** 35 tons
 - **Movement:** 7 / 11
@@ -210,4 +210,22 @@
 - **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4)
 - **Battle Value:** 703
 - [*More Info*](jenner/jenner_jr7-c4.md)
+
+## Jenner JR7-N
+- **Role:** Striker
+- **Tech Base:** Inner Sphere (3120)
+- **Chassis:** 35 tons
+- **Movement:** 7 / 11, XL
+  - **Jumping:** 7
+- **Armor:** 109 (Heavy Ferro Fibrous)
+- **Heat Sinks:** 11 (22)
+- **Weapons:**
+  - ER Medium Laser × 4
+  - SRM 4 (ammo: 25)
+- **Equipment:**
+  - Beagle Active Probe
+  - CASE II
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 1233
+- [*More Info*](jenner/jenner_jr7-n.md)
 

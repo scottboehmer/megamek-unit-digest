@@ -3,7 +3,7 @@
 ## 20 Tons
 
 ### [Locust](../../mechs/locust.md)
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 
 ### [Stinger](../../mechs/stinger.md)
 - [**Stinger STG-3Gb**](../../mechs/stinger/stinger_stg-3gb.md) *Striker (2720)*
@@ -29,7 +29,7 @@
 ### [Mongoose](../../mechs/mongoose.md)
 - [**Mongoose MON-66**](../../mechs/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe`
 - [**Mongoose MON-66b**](../../mechs/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe`
-- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Striker (2833)* `Active Probe`
+- [**Mongoose C**](../../mechs/mongoose/mongoose_c.md) *Scout (2833)* `Active Probe`
 
 ## 30 Tons
 
@@ -110,9 +110,6 @@
 - [**Crab CRB-27**](../../mechs/crab/crab_crb-27.md) *Skirmisher (2719)*
 - [**Crab CRB-27b**](../../mechs/crab/crab_crb-27b.md) *Sniper (2719)*
 
-### [Fox](../../mechs/fox.md)
-- [**Fox**](../../mechs/fox/fox.md) *Undefined (2835)*
-
 ## 55 Tons
 
 ### [Griffin](../../mechs/griffin.md)
@@ -139,7 +136,7 @@
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
 
 ### [Sun Bear](../../mechs/sun_bear.md)
-- [**Sun Bear Prime**](../../mechs/sun_bear/sun_bear_prime.md) *Brawler (2966)*
+- [**Sun Bear Prime**](../../mechs/sun_bear/sun_bear_prime.md) *Skirmisher (2966)*
 - [**Sun Bear A**](../../mechs/sun_bear/sun_bear_a.md) *Skirmisher (2966)*
 - [**Sun Bear B**](../../mechs/sun_bear/sun_bear_b.md) *Missile Boat (2966)*
 
@@ -159,11 +156,11 @@
 
 ### [Lancelot](../../mechs/lancelot.md)
 - [**Lancelot LNC25-01**](../../mechs/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)*
-- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Sniper (2832)*
+- [**Lancelot C**](../../mechs/lancelot/lancelot_c.md) *Skirmisher (2832)*
 
 ### [Lupus](../../mechs/lupus.md)
 - [**Lupus Prime**](../../mechs/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM`
-- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Skirmisher (2857)*
+- [**Lupus A**](../../mechs/lupus/lupus_a.md) *Brawler (2857)*
 - [**Lupus B**](../../mechs/lupus/lupus_b.md) *Skirmisher (2857)*
 
 ### [Mad Dog](../../mechs/mad_dog.md)
@@ -208,9 +205,6 @@
 
 ### [Lumberjack](../../mechs/lumberjack.md)
 - [**Lumberjack LM4/C**](../../mechs/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech`
-
-### [Minsk](../../mechs/minsk.md)
-- [**Minsk**](../../mechs/minsk/minsk.md) *Undefined (2862)* `Active Probe`
 
 ### [Shootist](../../mechs/shootist.md)
 - [**Shootist ST-8A**](../../mechs/shootist/shootist_st-8a.md) *Brawler (2621)*

@@ -229,7 +229,7 @@
 
 ### [Arctic Wolf](../mechs/arctic_wolf.md)
 - [**Arctic Wolf Prime**](../mechs/arctic_wolf/arctic_wolf_prime.md) *Striker (3067)*
-- [**Arctic Wolf A**](../mechs/arctic_wolf/arctic_wolf_a.md) *Missile Boat (3067)* `ECM`
+- [**Arctic Wolf A**](../mechs/arctic_wolf/arctic_wolf_a.md) *Undefined (3067)* `ECM`
 
 ### [Assassin](../mechs/assassin.md)
 - [**Assassin ASN-30**](../mechs/assassin/assassin_asn-30.md) *Scout (3062)*
@@ -252,7 +252,7 @@
 
 ### [Daimyo](../mechs/daimyo.md)
 - [**Daimyo DMO-5K**](../mechs/daimyo/daimyo_dmo-5k.md) *Brawler (3062)* `C3 Master`, `TAG`
-- [**Daimyo DMO-1K2 (Al-Shahab)**](../mechs/daimyo/daimyo_dmo-1k2_al-shahab.md) *Undefined (3066)* `Unique`
+- [**Daimyo DMO-1K2 (Al-Shahab)**](../mechs/daimyo/daimyo_dmo-1k2_al-shahab.md) *Brawler (3066)* `Unique`
 
 ### [Hermes II](../mechs/hermes_ii.md)
 - [**Hermes II HER-5C**](../mechs/hermes_ii/hermes_ii_her-5c.md) *Striker (3062)* `C3i`
@@ -324,7 +324,7 @@
 - [**Komodo KIM-3C**](../mechs/komodo/komodo_kim-3c.md) *Striker (3064)* `C3 Master`, `ECM`, `TAG`
 
 ### [Phoenix Hawk](../mechs/phoenix_hawk.md)
-- [**Phoenix Hawk PXH-3D (Jiemin)**](../mechs/phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) *Undefined (3065)* `Unique`
+- [**Phoenix Hawk PXH-3D (Jiemin)**](../mechs/phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) *Striker (3065)* `Unique`
 - [**Phoenix Hawk PXH-4L**](../mechs/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM`, `Stealth`
 - [**Phoenix Hawk PXH-3PL**](../mechs/phoenix_hawk/phoenix_hawk_pxh-3pl.md) *Striker (3067)*
 - [**Phoenix Hawk PXH-6D**](../mechs/phoenix_hawk/phoenix_hawk_pxh-6d.md) *Striker (3067)*
@@ -361,7 +361,7 @@
 
 ### [Aquagladius](../mechs/aquagladius.md)
 - [**Aquagladius AQS-3**](../mechs/aquagladius/aquagladius_aqs-3.md) *Striker (3065)*
-- [**Aquagladius AQS-4**](../mechs/aquagladius/aquagladius_aqs-4.md) *Juggernaut (3066)*
+- [**Aquagladius AQS-4**](../mechs/aquagladius/aquagladius_aqs-4.md) *Striker (3066)*
 
 ### [Bombard](../mechs/bombard.md)
 - [**Bombard BMB-013**](../mechs/bombard/bombard_bmb-013.md) *Missile Boat (3063)*
@@ -914,7 +914,7 @@
 - [**Naginata NG-C3C**](../mechs/naginata/naginata_ng-c3c.md) *Missile Boat (3066)* `C3 Slave`
 
 ### [Nightstar](../mechs/nightstar.md)
-- [**Nightstar NSR-9J (Holt)**](../mechs/nightstar/nightstar_nsr-9j_holt.md) *Undefined (3063)* `ECM`, `Unique`
+- [**Nightstar NSR-9J (Holt)**](../mechs/nightstar/nightstar_nsr-9j_holt.md) *Sniper (3063)* `ECM`, `Unique`
 - [**Nightstar NSR-9SS**](../mechs/nightstar/nightstar_nsr-9ss.md) *Juggernaut (3065)*
 
 ### [Sagittaire](../mechs/sagittaire.md)
@@ -964,10 +964,10 @@
 - [**Thunder Hawk TDK-7S**](../mechs/thunder_hawk/thunder_hawk_tdk-7s.md) *Sniper (3065)*
 
 ### [Tomahawk](../mechs/tomahawk.md)
-- [**Tomahawk (Prime)**](../mechs/tomahawk/tomahawk_prime.md) *Juggernaut (3065)* `ECM`
-- [**Tomahawk A**](../mechs/tomahawk/tomahawk_a.md) *Juggernaut (3065)*
-- [**Tomahawk B**](../mechs/tomahawk/tomahawk_b.md) *Juggernaut (3065)*
-- [**Tomahawk C**](../mechs/tomahawk/tomahawk_c.md) *Undefined (3065)*
+- [**Tomahawk (Prime)**](../mechs/tomahawk/tomahawk_prime.md) *Juggernaut (3063)* `ECM`
+- [**Tomahawk A**](../mechs/tomahawk/tomahawk_a.md) *Juggernaut (3063)*
+- [**Tomahawk B**](../mechs/tomahawk/tomahawk_b.md) *Juggernaut (3063)*
+- [**Tomahawk C**](../mechs/tomahawk/tomahawk_c.md) *Undefined (3063)*
 
 ### [Vanquisher](../mechs/vanquisher.md)
 - [**Vanquisher VQR-2A**](../mechs/vanquisher/vanquisher_vqr-2a.md) *Sniper (3063)* `C3i`

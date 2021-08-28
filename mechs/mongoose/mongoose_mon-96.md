@@ -3,7 +3,7 @@
 [Other Mongoose variants](../mongoose.md)
 
 ## Mongoose MON-96
-- **Role:** Undefined
+- **Role:** Scout
 - **Tech Base:** Inner Sphere (3129)
 - **Chassis:** 25 tons (Reinforced)
 - **Movement:** 8 / 12 (16), XL

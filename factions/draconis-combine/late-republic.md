@@ -27,8 +27,8 @@
 
 ### [Locust](../../mechs/locust.md)
 - [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)*
+- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3V**](../../mechs/locust/locust_lct-3v.md) *Scout (3004)*
-- [**Locust C**](../../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-3M**](../../mechs/locust/locust_lct-3m.md) *Scout (3050)*
 - [**Locust LCT-5W2**](../../mechs/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave`, `ECM`, `TAG`
 
@@ -87,7 +87,7 @@
 ### [Mongoose](../../mechs/mongoose.md)
 - [**Mongoose MON-76**](../../mechs/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM`
 - [**Mongoose MON-86**](../../mechs/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe`
-- [**Mongoose MON-96**](../../mechs/mongoose/mongoose_mon-96.md) *Undefined (3129)* `Active Probe`
+- [**Mongoose MON-96**](../../mechs/mongoose/mongoose_mon-96.md) *Scout (3129)* `Active Probe`
 
 ### [Peacekeeper](../../mechs/peacekeeper.md)
 - [**Peacekeeper PK-6 SecurityMech**](../../mechs/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech`
@@ -503,7 +503,7 @@
 - [**Osprey OSP-25**](../../mechs/osprey/osprey_osp-25.md) *Sniper (3074)*
 
 ### [Scorpion](../../mechs/scorpion.md)
-- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Brawler (3049)*
+- [**Scorpion SCP-1O**](../../mechs/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)*
 - [**Scorpion SCP-12K**](../../mechs/scorpion/scorpion_scp-12k.md) *Missile Boat (3071)* `C3 Master`, `TAG`
 - [**Scorpion SCP-10M**](../../mechs/scorpion/scorpion_scp-10m.md) *Sniper (3080)*
 
@@ -512,7 +512,7 @@
 - [**Shadow Hawk SHD-5M**](../../mechs/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)*
 - [**Shadow Hawk SHD-3K**](../../mechs/shadow_hawk/shadow_hawk_shd-3k.md) *Sniper (3075)* `C3 Slave`
 - [**Shadow Hawk SHD-12C**](../../mechs/shadow_hawk/shadow_hawk_shd-12c.md) *Sniper (3079)*
-- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Scout (3087)*
+- [**Shadow Hawk SHD-5R**](../../mechs/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)*
 - [**Shadow Hawk SHD-7H**](../../mechs/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)*
 - [**Shadow Hawk SHD-4H**](../../mechs/shadow_hawk/shadow_hawk_shd-4h.md) *Sniper (3101)*
 
@@ -522,7 +522,7 @@
 - [**Stormcrow B**](../../mechs/stormcrow/stormcrow_b.md) *Striker (2930)*
 - [**Stormcrow C**](../../mechs/stormcrow/stormcrow_c.md) *Striker (2930)*
 - [**Stormcrow D**](../../mechs/stormcrow/stormcrow_d.md) *Missile Boat (2930)*
-- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Undefined (3052)*
+- [**Stormcrow TC**](../../mechs/stormcrow/stormcrow_tc.md) *Skirmisher (3052)*
 - [**Stormcrow E**](../../mechs/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe`
 - [**Stormcrow H**](../../mechs/stormcrow/stormcrow_h.md) *Striker (3059)*
 - [**Stormcrow G**](../../mechs/stormcrow/stormcrow_g.md) *Striker (3068)*

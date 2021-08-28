@@ -3,7 +3,7 @@
 [Other Arctic Wolf II variants](../arctic_wolf_ii.md)
 
 ## Arctic Wolf II Prime
-- **Role:** Striker
+- **Role:** Missile Boat
 - **Tech Base:** Clan (3085)
 - **Chassis:** 40 tons (Endo Steel)
 - **Movement:** 7 / 11, XL

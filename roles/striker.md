@@ -54,11 +54,12 @@
 
 ### [Locust](../mechs/locust.md)
 - [**Locust LCT-1Vb**](../mechs/locust/locust_lct-1vb.md) *Striker (2610)*
+- [**Locust C**](../mechs/locust/locust_c.md) *Striker (2836)*
 - [**Locust LCT-3S**](../mechs/locust/locust_lct-3s.md) *Striker (3049)*
-- [**Locust C**](../mechs/locust/locust_c.md) *Striker (3050)*
 - [**Locust LCT-5M**](../mechs/locust/locust_lct-5m.md) *Striker (3066)*
 - [**Locust LCT-5V**](../mechs/locust/locust_lct-5v.md) *Striker (3068)*
 - [**Locust LCT-6M**](../mechs/locust/locust_lct-6m.md) *Striker (3071)*
+- [**Locust LCT-5S**](../mechs/locust/locust_lct-5s.md) *Striker (3073)*
 
 ### [Mercury](../mechs/mercury.md)
 - [**Mercury MCY-104**](../mechs/mercury/mercury_mcy-104.md) *Striker (3069)* `C3i`, `TAG`
@@ -73,6 +74,7 @@
 ### [Porcupine](../mechs/porcupine.md)
 - [**Porcupine PRC-1N**](../mechs/porcupine/porcupine_prc-1n.md) *Striker (3063)*
 - [**Porcupine PRC-2N**](../mechs/porcupine/porcupine_prc-2n.md) *Striker (3067)*
+- [**Porcupine PRC-3N**](../mechs/porcupine/porcupine_prc-3n.md) *Striker (3132)* `Stealth`, `Unique`
 
 ### [Red Shift](../mechs/red_shift.md)
 - [**Red Shift RDS-2A**](../mechs/red_shift/red_shift_rds-2a.md) *Striker (3062)* `ECM`, `TAG`
@@ -159,6 +161,10 @@
 - [**Fire Falcon E**](../mechs/fire_falcon/fire_falcon_e.md) *Striker (3061)*
 - [**Fire Falcon H**](../mechs/fire_falcon/fire_falcon_h.md) *Striker (3062)*
 - [**Fire Falcon F**](../mechs/fire_falcon/fire_falcon_f.md) *Striker (3072)* `Active Probe`
+- [**Fire Falcon G**](../mechs/fire_falcon/fire_falcon_g.md) *Striker (3113)*
+- [**Fire Falcon I**](../mechs/fire_falcon/fire_falcon_i.md) *Striker (3134)*
+- [**Fire Falcon R**](../mechs/fire_falcon/fire_falcon_r.md) *Striker (3142)*
+- [**Fire Falcon T**](../mechs/fire_falcon/fire_falcon_t.md) *Striker (3142)*
 
 ### [Gambit](../mechs/gambit.md)
 - [**Gambit GBT-1G**](../mechs/gambit/gambit_gbt-1g.md) *Striker (3136)*
@@ -193,6 +199,7 @@
 - [**Locust IIC 5**](../mechs/locust_iic/locust_iic_5.md) *Striker (3060)*
 - [**Locust IIC 7**](../mechs/locust_iic/locust_iic_7.md) *Striker (3076)*
 - [**Locust IIC 9**](../mechs/locust_iic/locust_iic_9.md) *Striker (3085)*
+- [**Locust IIC 10**](../mechs/locust_iic/locust_iic_10.md) *Striker (3148)*
 
 ### [Mist Lynx](../mechs/mist_lynx.md)
 - [**Mist Lynx B**](../mechs/mist_lynx/mist_lynx_b.md) *Striker (2926)* `Active Probe`
@@ -202,6 +209,8 @@
 - [**Mist Lynx H**](../mechs/mist_lynx/mist_lynx_h.md) *Striker (3059)* `Active Probe`
 - [**Mist Lynx G**](../mechs/mist_lynx/mist_lynx_g.md) *Striker (3068)* `Active Probe`
 - [**Mist Lynx Z**](../mechs/mist_lynx/mist_lynx_z.md) *Striker (3072)* `Active Probe`, `ECM`, `NovaC3`
+- [**Mist Lynx I**](../mechs/mist_lynx/mist_lynx_i.md) *Striker (3086)* `Active Probe`
+- [**Mist Lynx M**](../mechs/mist_lynx/mist_lynx_m.md) *Striker (3140)* `Active Probe`
 
 ### [Mjolnir](../mechs/mjolnir.md)
 - [**Mjolnir MLR-BX**](../mechs/mjolnir/mjolnir_mlr-bx.md) *Striker (3078)*
@@ -211,8 +220,6 @@
 - [**Mongoose MON-69**](../mechs/mongoose/mongoose_mon-69.md) *Striker (2819)*
 - [**Mongoose MON-70**](../mechs/mongoose/mongoose_mon-70.md) *Striker (2819)*
 - [**Mongoose MON-67**](../mechs/mongoose/mongoose_mon-67.md) *Striker (2830)*
-- [**Mongoose C**](../mechs/mongoose/mongoose_c.md) *Striker (2833)* `Active Probe`
-- [**Mongoose C 2**](../mechs/mongoose/mongoose_c_2.md) *Striker (2860)* `Active Probe`
 - [**Mongoose MON-76**](../mechs/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM`
 - [**Mongoose MON-86**](../mechs/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe`
 
@@ -260,7 +267,11 @@
 - [**Arctic Cheetah F**](../mechs/arctic_cheetah/arctic_cheetah_f.md) *Striker (3093)* `Active Probe`, `ECM`, `TAG`
 
 ### [Arctic Fox](../mechs/arctic_fox.md)
+- [**Arctic Fox AF1**](../mechs/arctic_fox/arctic_fox_af1.md) *Striker (3059)*
 - [**Arctic Fox AF1A**](../mechs/arctic_fox/arctic_fox_af1a.md) *Striker (3059)*
+- [**Arctic Fox AF1B**](../mechs/arctic_fox/arctic_fox_af1b.md) *Striker (3059)*
+- [**Arctic Fox AF1C**](../mechs/arctic_fox/arctic_fox_af1c.md) *Striker (3059)*
+- [**Arctic Fox AF1F**](../mechs/arctic_fox/arctic_fox_af1f.md) *Striker (3072)*
 
 ### [Battle Hawk](../mechs/battle_hawk.md)
 - [**Battle Hawk BH-K305**](../mechs/battle_hawk/battle_hawk_bh-k305.md) *Striker (3053)*
@@ -275,6 +286,9 @@
 - [**Copperhead CPR-HD-003**](../mechs/copperhead/copperhead_cpr-hd-003.md) *Striker (3065)*
 - [**Copperhead CPR-HD-004**](../mechs/copperhead/copperhead_cpr-hd-004.md) *Striker (3066)*
 
+### [Drift Shag](../mechs/drift_shag.md)
+- [**Drift Shag (Standard)**](../mechs/drift_shag/drift_shag_standard.md) *Striker (2827)*
+
 ### [Falcon](../mechs/falcon.md)
 - [**Falcon FLC-4Nb**](../mechs/falcon/falcon_flc-4nb.md) *Striker (2776)*
 - [**Falcon FLC-4Nb-PP**](../mechs/falcon/falcon_flc-4nb-pp.md) *Striker (2792)*
@@ -283,6 +297,7 @@
 - [**Falcon FLC-5P**](../mechs/falcon/falcon_flc-5p.md) *Striker (3065)*
 
 ### [Firefly](../mechs/firefly.md)
+- [**Firefly FFL-3A**](../mechs/firefly/firefly_ffl-3a.md) *Striker (2679)* `TAG`
 - [**Firefly FFL-3SLE**](../mechs/firefly/firefly_ffl-3sle.md) *Striker (2790)* `ECM`
 - [**Firefly FFL-3PP**](../mechs/firefly/firefly_ffl-3pp.md) *Striker (2801)*
 - [**Firefly FFL-3PP2**](../mechs/firefly/firefly_ffl-3pp2.md) *Striker (2801)* `ECM`
@@ -355,6 +370,7 @@
 
 ### [Javelin](../mechs/javelin.md)
 - [**Javelin JVN-10N**](../mechs/javelin/javelin_jvn-10n.md) *Striker (2751)*
+- [**Javelin JVN-10A**](../mechs/javelin/javelin_jvn-10a.md) *Striker (2752)*
 - [**Javelin JVN-10F 'Fire Javelin'**](../mechs/javelin/javelin_jvn-10f_'fire_javelin'.md) *Striker (2819)*
 - [**Javelin JVN-10P**](../mechs/javelin/javelin_jvn-10p.md) *Striker (3049)*
 - [**Javelin JVN-11A 'Fire Javelin'**](../mechs/javelin/javelin_jvn-11a_'fire_javelin'.md) *Striker (3053)*
@@ -449,6 +465,7 @@
 ## 35 Tons
 
 ### [Adder](../mechs/adder.md)
+- [**Adder TC**](../mechs/adder/adder_tc.md) *Striker (3052)* `Active Probe`, `Unique`
 - [**Adder I**](../mechs/adder/adder_i.md) *Striker (3125)*
 - [**Adder L**](../mechs/adder/adder_l.md) *Striker (3147)* `ECM`
 
@@ -460,9 +477,6 @@
 - [**Blade BLD-XS**](../mechs/blade/blade_bld-xs.md) *Striker (3087)*
 - [**Blade BLD-XX**](../mechs/blade/blade_bld-xx.md) *Striker (3087)*
 - [**Blade BLD-7R**](../mechs/blade/blade_bld-7r.md) *Striker (3094)*
-
-### [Cazador](../mechs/cazador.md)
-- [**Cazador**](../mechs/cazador/cazador.md) *Striker (3145)*
 
 ### [Cougar](../mechs/cougar.md)
 - [**Cougar X 2**](../mechs/cougar/cougar_x_2.md) *Striker (3089)*
@@ -506,16 +520,19 @@
 ### [Jenner](../mechs/jenner.md)
 - [**Jenner JR7-F**](../mechs/jenner/jenner_jr7-f.md) *Striker (2784)*
 - [**Jenner JR7-D**](../mechs/jenner/jenner_jr7-d.md) *Striker (2785)*
+- [**Jenner JR7-F (Smith)**](../mechs/jenner/jenner_jr7-f_smith.md) *Striker (3030)* `Unique`
 - [**Jenner JR7-K**](../mechs/jenner/jenner_jr7-k.md) *Striker (3047)*
 - [**Jenner JR7-C**](../mechs/jenner/jenner_jr7-c.md) *Striker (3050)* `C3 Slave`
 - [**Jenner JR7-C3**](../mechs/jenner/jenner_jr7-c3.md) *Striker (3068)* `C3 Slave`
 - [**Jenner JR10-X**](../mechs/jenner/jenner_jr10-x.md) *Striker (3072)* `ECM`, `Stealth`, `Unique`
+- [**Jenner JR7-N**](../mechs/jenner/jenner_jr7-n.md) *Striker (3120)* `Active Probe`
 
 ### [Jenner IIC](../mechs/jenner_iic.md)
 - [**Jenner IIC (Standard)**](../mechs/jenner_iic/jenner_iic_standard.md) *Striker (3042)*
 - [**Jenner IIC 2**](../mechs/jenner_iic/jenner_iic_2.md) *Striker (3044)*
 - [**Jenner IIC 3**](../mechs/jenner_iic/jenner_iic_3.md) *Striker (3048)*
 - [**Jenner IIC 4**](../mechs/jenner_iic/jenner_iic_4.md) *Striker (3061)*
+- [**Jenner IIC 5**](../mechs/jenner_iic/jenner_iic_5.md) *Striker (3140)* `Active Probe`
 
 ### [Longshot](../mechs/longshot.md)
 - [**Longshot LNG-1B**](../mechs/longshot/longshot_lng-1b.md) *Striker (3054)*
@@ -620,6 +637,7 @@
 - [**Wolfhound WLF-2X**](../mechs/wolfhound/wolfhound_wlf-2x.md) *Striker (3072)* `Unique`
 - [**Wolfhound WLF-5**](../mechs/wolfhound/wolfhound_wlf-5.md) *Striker (3079)*
 - [**Wolfhound WLF-2H**](../mechs/wolfhound/wolfhound_wlf-2h.md) *Striker (3082)*
+- [**Wolfhound WLF-6S**](../mechs/wolfhound/wolfhound_wlf-6s.md) *Striker (3133)*
 
 ### [Wolfhound IIC](../mechs/wolfhound_iic.md)
 - [**Wolfhound IIC 'Grinner'**](../mechs/wolfhound_iic/wolfhound_iic_'grinner'.md) *Striker (3051)* `ECM`, `Unique`
@@ -633,9 +651,9 @@
 - [**Arctic Wolf (Standard)**](../mechs/arctic_wolf/arctic_wolf_standard.md) *Striker (3059)*
 - [**Arctic Wolf 2**](../mechs/arctic_wolf/arctic_wolf_2.md) *Striker (3060)*
 - [**Arctic Wolf Prime**](../mechs/arctic_wolf/arctic_wolf_prime.md) *Striker (3067)*
+- [**Arctic Wolf J**](../mechs/arctic_wolf/arctic_wolf_j.md) *Striker (3070)* `Active Probe`, `ECM`
 
 ### [Arctic Wolf II](../mechs/arctic_wolf_ii.md)
-- [**Arctic Wolf II Prime**](../mechs/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Striker (3085)* `Active Probe`, `ECM`
 - [**Arctic Wolf II B**](../mechs/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)*
 - [**Arctic Wolf II C**](../mechs/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)*
 
@@ -687,7 +705,6 @@
 - [**Coyotl Prime**](../mechs/coyotl/coyotl_prime.md) *Striker (2854)*
 - [**Coyotl A**](../mechs/coyotl/coyotl_a.md) *Striker (2854)*
 - [**Coyotl B**](../mechs/coyotl/coyotl_b.md) *Striker (2854)*
-- [**Coyotl C**](../mechs/coyotl/coyotl_c.md) *Striker (3145)* `ECM`
 - [**Coyotl D**](../mechs/coyotl/coyotl_d.md) *Striker (3149)* `TAG`
 
 ### [Cuirass](../mechs/cuirass.md)
@@ -715,6 +732,11 @@
 - [**Hermes II HER-5C**](../mechs/hermes_ii/hermes_ii_her-5c.md) *Striker (3062)* `C3i`
 - [**Hermes II HER-6D**](../mechs/hermes_ii/hermes_ii_her-6d.md) *Striker (3062)*
 - [**Hermes II HER-5SA**](../mechs/hermes_ii/hermes_ii_her-5sa.md) *Striker (3068)*
+
+### [Lobo](../mechs/lobo.md)
+- [**Lobo (Standard)**](../mechs/lobo/lobo_standard.md) *Striker (3059)*
+- [**Lobo 2**](../mechs/lobo/lobo_2.md) *Striker (3072)*
+- [**Lobo 3**](../mechs/lobo/lobo_3.md) *Striker (3077)*
 
 ### [Mercury II](../mechs/mercury_ii.md)
 - [**Mercury II MCY-100**](../mechs/mercury_ii/mercury_ii_mcy-100.md) *Striker (2823)* `Active Probe`, `ECM`
@@ -816,6 +838,7 @@
 - [**Daedalus DAD-3D**](../mechs/daedalus/daedalus_dad-3d.md) *Striker (3062)*
 - [**Daedalus DAD-4A**](../mechs/daedalus/daedalus_dad-4a.md) *Striker (3064)*
 - [**Daedalus DAD-4B**](../mechs/daedalus/daedalus_dad-4b.md) *Striker (3067)*
+- [**Daedalus DAD-DX**](../mechs/daedalus/daedalus_dad-dx.md) *Striker (3097)* `Unique`
 
 ### [Firestarter](../mechs/firestarter.md)
 - [**Firestarter FS9-O**](../mechs/firestarter/firestarter_fs9-o.md) *Striker (3056)* `Active Probe`
@@ -844,6 +867,7 @@
 - [**Grendel E**](../mechs/grendel/grendel_e.md) *Striker (3061)*
 - [**Grendel H**](../mechs/grendel/grendel_h.md) *Striker (3064)*
 - [**Grendel F**](../mechs/grendel/grendel_f.md) *Striker (3069)*
+- [**Grendel M**](../mechs/grendel/grendel_m.md) *Striker (3086)*
 - [**Grendel I**](../mechs/grendel/grendel_i.md) *Striker (3140)*
 - [**Grendel J**](../mechs/grendel/grendel_j.md) *Striker (3140)*
 - [**Grendel T**](../mechs/grendel/grendel_t.md) *Striker (3142)*
@@ -860,6 +884,7 @@
 - [**Hierofalcon Prime**](../mechs/hierofalcon/hierofalcon_prime.md) *Striker (3148)* `ECM`, `TAG`
 - [**Hierofalcon A**](../mechs/hierofalcon/hierofalcon_a.md) *Striker (3148)*
 - [**Hierofalcon B**](../mechs/hierofalcon/hierofalcon_b.md) *Striker (3148)*
+- [**Hierofalcon C**](../mechs/hierofalcon/hierofalcon_c.md) *Striker (3148)*
 - [**Hierofalcon D**](../mechs/hierofalcon/hierofalcon_d.md) *Striker (3148)*
 
 ### [Ice Ferret](../mechs/ice_ferret.md)
@@ -890,6 +915,7 @@
 - [**Phoenix Hawk PXH-2K**](../mechs/phoenix_hawk/phoenix_hawk_pxh-2k.md) *Striker (3050)*
 - [**Phoenix Hawk PXH-3K**](../mechs/phoenix_hawk/phoenix_hawk_pxh-3k.md) *Striker (3050)*
 - [**Phoenix Hawk PXH-3M (Masters)**](../mechs/phoenix_hawk/phoenix_hawk_pxh-3m_masters.md) *Striker (3051)* `Unique`
+- [**Phoenix Hawk PXH-3D (Jiemin)**](../mechs/phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) *Striker (3065)* `Unique`
 - [**Phoenix Hawk PXH-4L**](../mechs/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM`, `Stealth`
 - [**Phoenix Hawk PXH-3PL**](../mechs/phoenix_hawk/phoenix_hawk_pxh-3pl.md) *Striker (3067)*
 - [**Phoenix Hawk PXH-6D**](../mechs/phoenix_hawk/phoenix_hawk_pxh-6d.md) *Striker (3067)*
@@ -919,7 +945,6 @@
 
 ### [Shadow Cat III](../mechs/shadow_cat_iii.md)
 - [**Shadow Cat III Prime**](../mechs/shadow_cat_iii/shadow_cat_iii_prime.md) *Striker (3111)*
-- [**Shadow Cat III A**](../mechs/shadow_cat_iii/shadow_cat_iii_a.md) *Striker (3111)*
 - [**Shadow Cat III B**](../mechs/shadow_cat_iii/shadow_cat_iii_b.md) *Striker (3111)* `Active Probe`, `ECM`
 - [**Shadow Cat III C**](../mechs/shadow_cat_iii/shadow_cat_iii_c.md) *Striker (3111)*
 
@@ -950,6 +975,9 @@
 - [**Stealth STH-1D (Anna)**](../mechs/stealth/stealth_sth-1d_anna.md) *Striker (3065)* `Active Probe`, `Unique`
 - [**Stealth STH-5X**](../mechs/stealth/stealth_sth-5x.md) *Striker (3076)* `Active Probe`, `ECM`, `Stealth`, `Unique`
 
+### [Volkh](../mechs/volkh.md)
+- [**Volkh VKH-68**](../mechs/volkh/volkh_vkh-68.md) *Striker (3133)* `Unique`
+
 ### [Wolf Trap](../mechs/wolf_trap.md)
 - [**Wolf Trap WFT-1**](../mechs/wolf_trap/wolf_trap_wft-1.md) *Striker (3051)*
 - [**Wolf Trap WFT-C**](../mechs/wolf_trap/wolf_trap_wft-c.md) *Striker (3060)* `C3 Slave`
@@ -964,6 +992,7 @@
 
 ### [Aquagladius](../mechs/aquagladius.md)
 - [**Aquagladius AQS-3**](../mechs/aquagladius/aquagladius_aqs-3.md) *Striker (3065)*
+- [**Aquagladius AQS-4**](../mechs/aquagladius/aquagladius_aqs-4.md) *Striker (3066)*
 
 ### [Blitzkrieg](../mechs/blitzkrieg.md)
 - [**Blitzkrieg BTZ-3F**](../mechs/blitzkrieg/blitzkrieg_btz-3f.md) *Striker (3061)*
@@ -1014,6 +1043,9 @@
 ### [Nova](../mechs/nova.md)
 - [**Nova U**](../mechs/nova/nova_u.md) *Striker (3077)* `Active Probe`, `ECM`
 
+### [Omni-Corvis](../mechs/omni-corvis.md)
+- [**Omni-Corvis A**](../mechs/omni-corvis/omni-corvis_a.md) *Striker (2921)*
+
 ### [Phoenix Hawk LAM](../mechs/phoenix_hawk_lam.md)
 - [**Phoenix Hawk LAM PHX-HK2**](../mechs/phoenix_hawk_lam/phoenix_hawk_lam_phx-hk2.md) *Striker (2701)*
 - [**Phoenix Hawk LAM PHX-HK2M**](../mechs/phoenix_hawk_lam/phoenix_hawk_lam_phx-hk2m.md) *Striker (2953)*
@@ -1032,6 +1064,13 @@
 
 ### [Stalking Spider](../mechs/stalking_spider.md)
 - [**Stalking Spider 3**](../mechs/stalking_spider/stalking_spider_3.md) *Striker (3072)*
+
+### [Stormwolf](../mechs/stormwolf.md)
+- [**Stormwolf Prime**](../mechs/stormwolf/stormwolf_prime.md) *Striker (3149)* `TAG`
+- [**Stormwolf A**](../mechs/stormwolf/stormwolf_a.md) *Striker (3149)* `Active Probe`
+- [**Stormwolf B**](../mechs/stormwolf/stormwolf_b.md) *Striker (3149)*
+- [**Stormwolf C**](../mechs/stormwolf/stormwolf_c.md) *Striker (3149)* `Active Probe`, `ECM`
+- [**Stormwolf D**](../mechs/stormwolf/stormwolf_d.md) *Striker (3149)* `TAG`
 
 ### [Trebuchet](../mechs/trebuchet.md)
 - [**Trebuchet TBT-9K**](../mechs/trebuchet/trebuchet_tbt-9k.md) *Striker (3059)* `C3 Slave`

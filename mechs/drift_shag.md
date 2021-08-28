@@ -1,6 +1,6 @@
 # Drift Shag
-## Drift Shag
-- **Role:** Undefined
+## Drift Shag (Standard)
+- **Role:** Striker
 - **Tech Base:** Clan (2827)
 - **Chassis:** 30 tons (Endo Steel)
 - **Movement:** 7 / 11, XL
@@ -11,7 +11,6 @@
   - ER Large Laser
   - Medium Pulse Laser
   - ER Small Laser × 4
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7605/drift-shag-standard)
 - **Battle Value:** 1512
-- [*More Info*](drift_shag/drift_shag.md)
+- [*More Info*](drift_shag/drift_shag_standard.md)
 

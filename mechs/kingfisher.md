@@ -134,7 +134,7 @@
 - **Equipment:**
   - ECM Suite
   - CASE
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f)
+- **Sources:** ilClan Rec Guide 18 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f)
 - **Battle Value:** 2568
 - [*More Info*](kingfisher/kingfisher_f.md)
 
@@ -154,7 +154,62 @@
   - ECM Suite
   - CASE
   - Targeting Computer
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x)
+- **Sources:** ilClan Rec Guide 18 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x)
 - **Battle Value:** 2761
 - [*More Info*](kingfisher/kingfisher_x.md)
+
+## Kingfisher G
+- **Role:** Juggernaut
+- **Tech Base:** Clan (3136)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 4 / 6 (8)
+- **Armor:** 278 (Ferro Fibrous)
+- **Heat Sinks:** 17 (34)
+- **Weapons:**
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
+  - Improved Heavy Medium Laser × 3
+  - SRM 6 (ammo: 15)
+  - ER Small Laser × 2
+- **Equipment:**
+  - CASE
+  - Supercharger
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 2319
+- [*More Info*](kingfisher/kingfisher_g.md)
+
+## Kingfisher I
+- **Role:** Brawler
+- **Tech Base:** Clan (3137)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 278 (Ferro Fibrous)
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - Gauss Rifle (ammo: 16)
+  - Improved Heavy Large Laser × 2
+- **Equipment:**
+  - CASE
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 2348
+- [*More Info*](kingfisher/kingfisher_i.md)
+
+## Kingfisher T
+- **Role:** Brawler
+- **Tech Base:** Clan (3142)
+- **Chassis:** 90 tons (Endo Steel)
+- **Movement:** 4 / 6
+- **Armor:** 278 (Ferro Fibrous)
+- **Heat Sinks:** 19 (38)
+- **Weapons:**
+  - Improved Heavy Large Laser
+  - Streak LRM 10 (ammo: 12)
+  - Streak SRM 6 (ammo: 15)
+  - ER Medium Laser × 4
+  - Improved Heavy Small Laser
+- **Equipment:**
+  - CASE II
+  - Targeting Computer
+- **Source:** ilClan Rec Guide 18 - Dark Age
+- **Battle Value:** 2637
+- [*More Info*](kingfisher/kingfisher_t.md)
 

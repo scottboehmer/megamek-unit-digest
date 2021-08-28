@@ -14,7 +14,7 @@
   - Streak SRM 4 (iOS)
 - **Equipment:**
   - CASE
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1843/kraken-bane-3)
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1843/kraken-bane-3)
 - **Battle Value:** 2941
 
 ## Availability

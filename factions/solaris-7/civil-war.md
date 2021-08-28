@@ -84,7 +84,7 @@
 
 ### [Aquagladius](../../mechs/aquagladius.md)
 - [**Aquagladius AQS-3**](../../mechs/aquagladius/aquagladius_aqs-3.md) *Striker (3065)*
-- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Juggernaut (3066)*
+- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Striker (3066)*
 
 ### [Bombard](../../mechs/bombard.md)
 - [**Bombard BMB-010**](../../mechs/bombard/bombard_bmb-010.md) *Juggernaut (3054)*

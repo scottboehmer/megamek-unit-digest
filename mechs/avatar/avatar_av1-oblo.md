@@ -3,7 +3,7 @@
 [Other Avatar variants](../avatar.md)
 
 ## Avatar AV1-OBLO
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3127)
 - **Chassis:** 70 tons
 - **Movement:** 4 / 6, XL

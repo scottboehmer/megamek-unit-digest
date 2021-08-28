@@ -1,0 +1,27 @@
+# Stormwolf B
+
+[Other Stormwolf variants](../stormwolf.md)
+
+## Stormwolf B
+- **Role:** Striker
+- **Tech Base:** Clan (3149)
+- **Chassis:** 50 tons (Endo Steel)
+- **Movement:** 6 / 9 (15), XL
+  - **Jumping:** 6
+- **Armor:** 160 (Laser Reflective)
+- **Heat Sinks:** 13 (30)
+- **Weapons:**
+  - ER PPC
+  - Plasma Cannon (ammo: 10)
+  - ER Medium Laser × 2
+- **Equipment:**
+  - Laser Anti-Missile System
+  - MASC
+  - Supercharger
+- **Source:** Recognition Guide:ilClan #16 - Dark Age
+- **Battle Value:** 3432
+
+## Availability
+
+Availability Unknown
+

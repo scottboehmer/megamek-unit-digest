@@ -177,7 +177,6 @@
 - [**Ostroc OSR-2Cb**](../../mechs/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)*
 
 ### [Vision Quest](../../mechs/vision_quest.md)
-- [**Vision Quest**](../../mechs/vision_quest/vision_quest.md) *Undefined (2832)*
 - [**Vision Quest 2**](../../mechs/vision_quest/vision_quest_2.md) *Sniper (2868)*
 
 ## 65 Tons

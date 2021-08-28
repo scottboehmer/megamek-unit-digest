@@ -4,7 +4,7 @@
 
 ### [Flea](../../mechs/flea.md)
 - [**Flea FLE-15**](../../mechs/flea/flea_fle-15.md) *Scout (2523)*
-- [**Flea FLE-16**](../../mechs/flea/flea_fle-16.md) *Undefined (3032)*
+- [**Flea FLE-16**](../../mechs/flea/flea_fle-16.md) *Scout (3032)*
 
 ### [Hornet](../../mechs/hornet.md)
 - [**Hornet HNT-151**](../../mechs/hornet/hornet_hnt-151.md) *Striker (2760)*

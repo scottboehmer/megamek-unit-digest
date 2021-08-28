@@ -78,7 +78,7 @@
 - [*More Info*](phoenix/phoenix_px-1kl.md)
 
 ## Phoenix PX-1KT
-- **Role:** Missile Boat
+- **Role:** Brawler
 - **Tech Base:** Inner Sphere (3070)
 - **Chassis:** 50 tons
 - **Movement:** 4 / 6

@@ -3,7 +3,7 @@
 [Other Aquagladius variants](../aquagladius.md)
 
 ## Aquagladius AQS-5 MAM
-- **Role:** Undefined
+- **Role:** Skirmisher
 - **Tech Base:** Inner Sphere (3090)
 - **Chassis:** 50 tons (Composite)
 - **Movement:** 6 (7) / 9 (11), XXL

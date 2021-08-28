@@ -3,7 +3,7 @@
 [Other Minsk variants](../minsk.md)
 
 ## Minsk 2
-- **Role:** Brawler
+- **Role:** Sniper
 - **Tech Base:** Clan Mixed (3148)
 - **Chassis:** 70 tons (Endo Steel)
 - **Movement:** 3 / 5
