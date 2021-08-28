@@ -213,7 +213,7 @@
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8
 - **Armor:** 192
-- **Heat Sinks:** 11 (24)
+- **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER PPC
   - LRM 10 × 2 (ammo: 24)
@@ -262,7 +262,7 @@
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8
 - **Armor:** 192
-- **Heat Sinks:** 12 (28)
+- **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ER Large Laser × 2
   - SRM 6 (iOS) × 2
@@ -270,6 +270,6 @@
 - **Equipment:**
   - Light Active Probe
 - **Source:** Recognition Guide:ilClan #17 - Dark Age
-- **Battle Value:** 1751
+- **Battle Value:** 1729
 - [*More Info*](crossbow/crossbow_t.md)
 

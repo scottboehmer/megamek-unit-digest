@@ -251,6 +251,7 @@
 
 ### [Black Lanner](../mechs/black_lanner.md)
 - [**Black Lanner B**](../mechs/black_lanner/black_lanner_b.md) *Missile Boat (3052)*
+- [**Black Lanner G**](../mechs/black_lanner/black_lanner_g.md) *Missile Boat (3134)*
 
 ### [Buccaneer](../mechs/buccaneer.md)
 - [**Buccaneer BCN-6W**](../mechs/buccaneer/buccaneer_bcn-6w.md) *Missile Boat (3073)* `C3i`

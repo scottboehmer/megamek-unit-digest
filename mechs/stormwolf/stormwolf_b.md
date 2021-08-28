@@ -9,7 +9,7 @@
 - **Movement:** 6 / 9 (15), XL
   - **Jumping:** 6
 - **Armor:** 160 (Laser Reflective)
-- **Heat Sinks:** 13 (30)
+- **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
   - Plasma Cannon (ammo: 10)
@@ -19,7 +19,7 @@
   - MASC
   - Supercharger
 - **Source:** Recognition Guide:ilClan #16 - Dark Age
-- **Battle Value:** 3432
+- **Battle Value:** 3286
 
 ## Availability
 

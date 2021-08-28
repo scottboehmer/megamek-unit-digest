@@ -8,7 +8,7 @@
 - **Chassis:** 65 tons
 - **Movement:** 5 / 8
 - **Armor:** 192
-- **Heat Sinks:** 11 (24)
+- **Heat Sinks:** 11 (22)
 - **Weapons:**
   - ER PPC
   - LRM 10 × 2 (ammo: 24)

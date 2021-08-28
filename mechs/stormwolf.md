@@ -47,7 +47,7 @@
 - **Movement:** 6 / 9 (15), XL
   - **Jumping:** 6
 - **Armor:** 160 (Laser Reflective)
-- **Heat Sinks:** 13 (30)
+- **Heat Sinks:** 13 (26)
 - **Weapons:**
   - ER PPC
   - Plasma Cannon (ammo: 10)
@@ -57,7 +57,7 @@
   - MASC
   - Supercharger
 - **Source:** Recognition Guide:ilClan #16 - Dark Age
-- **Battle Value:** 3432
+- **Battle Value:** 3286
 - [*More Info*](stormwolf/stormwolf_b.md)
 
 ## Stormwolf C
@@ -67,7 +67,7 @@
 - **Movement:** 6 / 9 (15), XL
   - **Jumping:** 6
 - **Armor:** 160 (Laser Reflective)
-- **Heat Sinks:** 14 (32)
+- **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser
   - ER Medium Laser × 3
@@ -89,7 +89,7 @@
 - **Movement:** 6 / 9 (15), XL
   - **Jumping:** 6
 - **Armor:** 160 (Laser Reflective)
-- **Heat Sinks:** 12 (28)
+- **Heat Sinks:** 12 (24)
 - **Weapons:**
   - ATM 9 (ammo: 14)
   - ER Medium Laser × 5
@@ -100,6 +100,6 @@
   - CASE II
   - Supercharger
 - **Source:** Recognition Guide:ilClan #16 - Dark Age
-- **Battle Value:** 3269
+- **Battle Value:** 3122
 - [*More Info*](stormwolf/stormwolf_d.md)
 

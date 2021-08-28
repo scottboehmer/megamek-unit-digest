@@ -9,7 +9,7 @@
 - **Movement:** 6 / 9 (15), XL
   - **Jumping:** 6
 - **Armor:** 160 (Laser Reflective)
-- **Heat Sinks:** 14 (32)
+- **Heat Sinks:** 14 (28)
 - **Weapons:**
   - ER Large Laser
   - ER Medium Laser × 3

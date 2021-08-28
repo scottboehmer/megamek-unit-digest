@@ -378,6 +378,7 @@
 ## 55 Tons
 
 ### [Black Lanner](../mechs/black_lanner.md)
+- [**Black Lanner G**](../mechs/black_lanner/black_lanner_g.md) *Missile Boat (3134)*
 - [**Black Lanner T**](../mechs/black_lanner/black_lanner_t.md) *Skirmisher (3142)*
 - [**Black Lanner I**](../mechs/black_lanner/black_lanner_i.md) *Skirmisher (3143)*
 - [**Black Lanner J**](../mechs/black_lanner/black_lanner_j.md) *Skirmisher (3144)*

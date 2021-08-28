@@ -162,6 +162,23 @@
 - **Battle Value:** 2154
 - [*More Info*](black_lanner/black_lanner_f.md)
 
+## Black Lanner G
+- **Role:** Missile Boat
+- **Tech Base:** Clan (3134)
+- **Chassis:** 55 tons (Endo Steel)
+- **Movement:** 7 / 11 (14), XL
+- **Armor:** 153 (Ferro Fibrous)
+- **Heat Sinks:** 11 (24)
+- **Weapons:**
+  - ER Large Pulse Laser
+  - LRM 5 × 4 (ammo: 48)
+- **Equipment:**
+  - MASC
+  - CASE
+- **Source:** ilClan RecGuide 15 -Dark Age
+- **Battle Value:** 1929
+- [*More Info*](black_lanner/black_lanner_g.md)
+
 ## Black Lanner T
 - **Role:** Skirmisher
 - **Tech Base:** Clan (3142)
