@@ -1,39 +1,45 @@
-# Marauder MAD-3L
+# Marauder MAD-3L 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-3L
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2905)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6
-- **Armor:** 184
-- **Heat Sinks:** 18 (18)
-- **Weapons:**
-  - PPC
-  - Large Laser
-  - AC/5 (ammo: 20)
-  - Medium Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2036/marauder-mad-3l)
-- **Battle Value:** 1369
+## Marauder MAD-3L 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2905) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 184 
+- **Heat Sinks:** 18 (18) 
+- **Weapons:** 
+  - PPC 
+  - Large Laser 
+  - AC/5 (ammo: 20) 
+  - Medium Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2036/marauder-mad-3l) 
+- **Battle Value:** 1369 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
 
-### Civil War
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Capellan Confederation
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Jihad 
+
+- Capellan Confederation 
 

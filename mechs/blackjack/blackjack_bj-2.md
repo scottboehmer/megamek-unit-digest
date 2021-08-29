@@ -1,72 +1,79 @@
-# Blackjack BJ-2
+# Blackjack BJ-2 
 
-[Other Blackjack variants](../blackjack.md)
+[Other Blackjack variants](../blackjack.md) 
 
-## Blackjack BJ-2
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3052)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 136
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Streak SRM 2 × 4 (ammo: 50)
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/377/blackjack-bj-2)
-- **Battle Value:** 1148
+## Blackjack BJ-2 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 136 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Streak SRM 2 × 4 (ammo: 50) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/377/blackjack-bj-2) 
+- **Battle Value:** 1148 
 
-### Clan Invasion
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- St. Ives Compact
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Pirate
-- St. Ives Compact
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- ComStar
-- Federated Suns
-- Filtvelt Coalition
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Pirate
-- Wolf's Dragoons
-- Word of Blake
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Capellan Confederation 
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Pirate 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Filtvelt Coalition
-- Mercenary
-- Pirate
+### Jihad 
+
+- Capellan Confederation 
+- ComStar 
+- Federated Suns 
+- Filtvelt Coalition 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Pirate 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Mercenary 
+- Pirate 
 

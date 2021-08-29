@@ -1,35 +1,40 @@
-# Jupiter 2
+# Jupiter 2 
 
-[Other Jupiter variants](../jupiter.md)
+[Other Jupiter variants](../jupiter.md) 
 
-## Jupiter 2
-- **Role:** Sniper
-- **Tech Base:** Clan (3070)
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5, XL
-  - **Jumping:** 3
-- **Armor:** 307
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER PPC × 2
-  - Ultra AC/10 × 2 (ammo: 40)
-  - LRM 15 w/ Artemis IV × 2 (ammo: 16)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1726/jupiter-2)
-- **Battle Value:** 3278
+## Jupiter 2 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3070) 
+- **Chassis:** 100 tons (Endo Steel) 
+- **Movement:** 3 / 5, XL 
+  - **Jumping:** 3 
+- **Armor:** 307 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Ultra AC/10 × 2 (ammo: 40) 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1726/jupiter-2) 
+- **Battle Value:** 3278 
 
-### Jihad
-- Clan Jade Falcon
+## Availability 
 
-### Early Republic
-- Clan Jade Falcon
+### Jihad 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Jade Falcon 
 
-### Dark Ages
-- Clan Jade Falcon
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

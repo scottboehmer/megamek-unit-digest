@@ -1,28 +1,31 @@
-# Lightray LGH-4W
+# Lightray LGH-4W 
 
-[Other Lightray variants](../lightray.md)
+[Other Lightray variants](../lightray.md) 
 
-## Lightray LGH-4W
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3065)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-- **Armor:** 185 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Pulse Laser
-  - ER Medium Laser × 2
-  - ER Small Laser
-- **Equipment:**
-  - Targeting Computer
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4519/lightray-lgh-4w)
-- **Battle Value:** 1450
+## Lightray LGH-4W 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+- **Armor:** 185 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - ER Medium Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4519/lightray-lgh-4w) 
+- **Battle Value:** 1450 
 
-### Civil War
-- Word of Blake
+## Availability 
 
-### Jihad
-- Word of Blake
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

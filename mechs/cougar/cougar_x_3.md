@@ -1,32 +1,36 @@
-# Cougar X 3
+# Cougar X 3 
 
-[Other Cougar variants](../cougar.md)
+[Other Cougar variants](../cougar.md) 
 
-## Cougar X 3
-- **Role:** Striker
-- **Tech Base:** Inner Sphere Mixed (3093)
-- **Chassis:** 35 tons (Composite)
-- **Movement:** 5 / 8, XL
-- **Armor:** 105 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyro
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Clan ER Large Pulse Laser
-  - Clan Streak LRM 10 (ammo: 12)
-  - Clan ER Medium Pulse Laser
-- **Equipment:**
-  - Clan Targeting Computer
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6953/cougar-x-3)
-- **Battle Value:** 1391
+## Cougar X 3 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere Mixed (3093) 
+- **Chassis:** 35 tons (Composite) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 105 (Ferro Fibrous) 
+- **Gyroscope:** Heavy-Duty Gyro 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Clan ER Large Pulse Laser 
+  - Clan Streak LRM 10 (ammo: 12) 
+  - Clan ER Medium Pulse Laser 
+- **Equipment:** 
+  - Clan Targeting Computer 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6953/cougar-x-3) 
+- **Battle Value:** 1391 
 
-### Early Republic
-- Clan Jade Falcon
+## Availability 
 
-### Late Republic
-- Clan Jade Falcon
+### Early Republic 
 
-### Dark Ages
-- Clan Jade Falcon
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

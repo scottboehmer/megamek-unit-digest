@@ -1,47 +1,54 @@
-# Uni ATAE-70 CargoMech
+# Uni ATAE-70 CargoMech 
 
-[Other Uni variants](../uni.md)
+[Other Uni variants](../uni.md) 
 
-## Uni ATAE-70 CargoMech
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 70 tons Quad (Industrial)
-- **Movement:** 3 / 5, Fuel Cell
-- **Armor:** 216 (Commercial)
-- **Cockpit:** Industrial
-- **Heat Sinks:** 1 (1)
-- **Equipment:**
-  - Enviro-Sealing
-  - Lift Hoist × 2
-  - Cargo
-- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/5321/uni-atae-70-cargomech)
-- **Battle Value:** 533
+## Uni ATAE-70 CargoMech 
 
-## Availability
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 70 tons Quad (Industrial) 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 216 (Commercial) 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 1 (1) 
+- **Equipment:** 
+  - Enviro-Sealing 
+  - Lift Hoist × 2 
+  - Cargo 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5321/uni-atae-70-cargomech) 
+- **Battle Value:** 533 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Civil War
-- Lyran Alliance
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+- Federated Commonwealth 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

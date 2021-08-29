@@ -1,28 +1,30 @@
-# Preta C-PRT-O Invictus
+# Preta C-PRT-O Invictus 
 
-[Other Preta variants](../preta.md)
+[Other Preta variants](../preta.md) 
 
-## Preta C-PRT-O Invictus
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3069)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9, Light
-- **Armor:** 144
-- **Cockpit:** Small
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Snub-Nose PPC
-  - Light PPC
-  - Retractable Blade
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-  - C3i
-  - CASE
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2573/preta-c-prt-o-invictus)
-- **Battle Value:** 1064
+## Preta C-PRT-O Invictus 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, Light 
+- **Armor:** 144 
+- **Cockpit:** Small 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - Light PPC 
+  - Retractable Blade 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - C3i 
+  - CASE 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2573/preta-c-prt-o-invictus) 
+- **Battle Value:** 1064 
 
-### Jihad
-- Word of Blake
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
 

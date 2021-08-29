@@ -1,63 +1,69 @@
-# Wolverine WVR-8K
+# Wolverine WVR-8K 
 
-[Other Wolverine variants](../wolverine.md)
+[Other Wolverine variants](../wolverine.md) 
 
-## Wolverine WVR-8K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 185
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - Streak SRM 6 (ammo: 15)
-  - ER Medium Laser
-  - Medium Pulse Laser
-- **Equipment:**
-  - CASE
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k)
-- **Battle Value:** 1576
+## Wolverine WVR-8K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 185 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC 
+  - Streak SRM 6 (ammo: 15) 
+  - ER Medium Laser 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k) 
+- **Battle Value:** 1576 
 
-### Civil War
-- Clan Nova Cat
-- Draconis Combine
-- Free Rasalhague Republic
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Jihad
-- Clan Nova Cat
-- Draconis Combine
-- Free Rasalhague Republic
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+### Civil War 
 
-### Early Republic
-- Clan Nova Cat
-- Draconis Combine
-- Mercenary
-- Rasalhague Dominion
-- Republic of the Sphere
+- Clan Nova Cat 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Late Republic
-- Clan Nova Cat
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Rasalhague Dominion
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Clan Nova Cat
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Rasalhague Dominion
-- Republic of the Sphere
+- Clan Nova Cat 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
 

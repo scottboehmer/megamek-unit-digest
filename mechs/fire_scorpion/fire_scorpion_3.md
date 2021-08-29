@@ -1,38 +1,43 @@
-# Fire Scorpion 3
+# Fire Scorpion 3 
 
-[Other Fire Scorpion variants](../fire_scorpion.md)
+[Other Fire Scorpion variants](../fire_scorpion.md) 
 
-## Fire Scorpion 3
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3071)
-- **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 224
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 20)
-  - AP Gauss Rifle × 4 (ammo: 80)
-- **Equipment:**
-  - Active Probe
-  - CASE
-  - Targeting Computer
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3)
-- **Battle Value:** 1904
+## Fire Scorpion 3 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3071) 
+- **Chassis:** 65 tons Quad (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 224 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+  - AP Gauss Rifle × 4 (ammo: 80) 
+- **Equipment:** 
+  - Active Probe 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3) 
+- **Battle Value:** 1904 
 
-### Jihad
-- Clan Goliath Scorpion
-- Escorpión Imperio
+## Availability 
 
-### Early Republic
-- Escorpión Imperio
+### Jihad 
 
-### Late Republic
-- Escorpión Imperio
+- Clan Goliath Scorpion 
+- Escorpión Imperio 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

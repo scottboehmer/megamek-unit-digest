@@ -1,31 +1,34 @@
-# Helepolis HEP-1H
+# Helepolis HEP-1H 
 
-[Other Helepolis variants](../helepolis.md)
+[Other Helepolis variants](../helepolis.md) 
 
-## Helepolis HEP-1H
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (2460)
-- **Chassis:** 75 tons
-- **Movement:** 2 / 3
-- **Armor:** 219 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - Large Laser
-  - Sniper (ammo: 20)
-  - SRM 6 (ammo: 15)
-  - Medium Laser
-- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1460/helepolis-hep-1h)
-- **Battle Value:** 1063
+## Helepolis HEP-1H 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2460) 
+- **Chassis:** 75 tons 
+- **Movement:** 2 / 3 
+- **Armor:** 219 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - Large Laser 
+  - Sniper (ammo: 20) 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1460/helepolis-hep-1h) 
+- **Battle Value:** 1063 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+### Jihad 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
 

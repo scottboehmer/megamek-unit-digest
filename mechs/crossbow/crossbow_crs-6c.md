@@ -1,26 +1,29 @@
-# Crossbow CRS-6C
+# Crossbow CRS-6C 
 
-[Other Crossbow variants](../crossbow.md)
+[Other Crossbow variants](../crossbow.md) 
 
-## Crossbow CRS-6C
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2481)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8
-- **Armor:** 128
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - PPC
-  - AC/10 (ammo: 10)
-  - Medium Laser
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c)
-- **Battle Value:** 1204
+## Crossbow CRS-6C 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2481) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 128 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - PPC 
+  - AC/10 (ammo: 10) 
+  - Medium Laser 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c) 
+- **Battle Value:** 1204 
 
-### Star League
-- Lyran Commonwealth
+## Availability 
 
-### Early Succession Wars
-- Lyran Commonwealth
+### Star League 
+
+- Lyran Commonwealth 
+
+### Early Succession Wars 
+
+- Lyran Commonwealth 
 

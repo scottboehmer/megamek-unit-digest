@@ -1,39 +1,45 @@
-# Stinger LAM STG-A10
+# Stinger LAM STG-A10 
 
-[Other Stinger LAM variants](../stinger_lam.md)
+[Other Stinger LAM variants](../stinger_lam.md) 
 
-## Stinger LAM STG-A10
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2927)
-- **Chassis:** 30 tons LAM
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-  - **AirMech:** 18 / 27
-  - **Aerospace:** 6 / 9
-- **Armor:** 80
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - Medium Laser
-  - Small Laser × 4
-- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5138/stinger-lam-stg-a10)
-- **Battle Value:** 881
+## Stinger LAM STG-A10 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2927) 
+- **Chassis:** 30 tons LAM 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+  - **AirMech:** 18 / 27 
+  - **Aerospace:** 6 / 9 
+- **Armor:** 80 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - Medium Laser 
+  - Small Laser × 4 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5138/stinger-lam-stg-a10) 
+- **Battle Value:** 881 
 
-### Late Succession Wars - LosTech
-- Draconis Combine
+## Availability 
 
-### Late Succession Wars - Renaissance
-- ComStar
-- Draconis Combine
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Draconis Combine
-- Word of Blake
+- Draconis Combine 
 
-### Civil War
-- Word of Blake
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Word of Blake
+- ComStar 
+- Draconis Combine 
+
+### Clan Invasion 
+
+- Draconis Combine 
+- Word of Blake 
+
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

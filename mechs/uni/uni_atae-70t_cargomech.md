@@ -1,34 +1,39 @@
-# Uni ATAE-70T CargoMech
+# Uni ATAE-70T CargoMech 
 
-[Other Uni variants](../uni.md)
+[Other Uni variants](../uni.md) 
 
-## Uni ATAE-70T CargoMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3074)
-- **Chassis:** 70 tons Quad (Industrial)
-- **Movement:** 3 / 5, Fuel Cell
-- **Armor:** 216 (Commercial)
-- **Myomer:** Industrial Triple-Strength
-- **Cockpit:** Industrial
-- **Heat Sinks:** 1 (1)
-- **Equipment:**
-  - Lift Hoist × 2
-  - Cargo × 2
-  - Cargo Container
-- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/7175/uni-atae-70t-cargomech)
-- **Battle Value:** 533
+## Uni ATAE-70T CargoMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 70 tons Quad (Industrial) 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 216 (Commercial) 
+- **Myomer:** Industrial Triple-Strength 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 1 (1) 
+- **Equipment:** 
+  - Lift Hoist × 2 
+  - Cargo × 2 
+  - Cargo Container 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7175/uni-atae-70t-cargomech) 
+- **Battle Value:** 533 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

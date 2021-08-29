@@ -1,155 +1,163 @@
-# Stalker STK-4N
+# Stalker STK-4N 
 
-[Other Stalker variants](../stalker.md)
+[Other Stalker variants](../stalker.md) 
 
-## Stalker STK-4N
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (2876)
-- **Chassis:** 85 tons
-- **Movement:** 3 / 5
-- **Armor:** 216
-- **Heat Sinks:** 26 (26)
-- **Weapons:**
-  - Large Laser × 2
-  - LRM 10 (ammo: 12)
-  - SRM 6 × 2 (ammo: 30)
-  - Medium Laser × 4
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3039/stalker-stk-4n)
-- **Battle Value:** 1558
+## Stalker STK-4N 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2876) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 216 
+- **Heat Sinks:** 26 (26) 
+- **Weapons:** 
+  - Large Laser × 2 
+  - LRM 10 (ammo: 12) 
+  - SRM 6 × 2 (ammo: 30) 
+  - Medium Laser × 4 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3039/stalker-stk-4n) 
+- **Battle Value:** 1558 
 
-### Early Succession Wars
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Mercenary
-- Outworlds Alliance
-- Taurian Concordat
+## Availability 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Kell Hounds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Wolf's Dragoons
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- St. Ives Compact
-- Taurian Concordat
-- Wolf's Dragoons
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Outworlds Alliance 
+- Taurian Concordat 
 
-### Clan Invasion
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Second Star League
-- St. Ives Compact
-- Taurian Concordat
-- Wolf's Dragoons
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Second Star League
-- St. Ives Compact
-- Taurian Concordat
-- Wolf's Dragoons
-- Word of Blake
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Wolf's Dragoons 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Wolf's Dragoons
-- Word of Blake
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Filtvelt Coalition
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Pirate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
-- Taurian Concordat
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- St. Ives Compact 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Second Star League 
+- St. Ives Compact 
+- Taurian Concordat 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Civil War 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Second Star League 
+- St. Ives Compact 
+- Taurian Concordat 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Pirate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
 

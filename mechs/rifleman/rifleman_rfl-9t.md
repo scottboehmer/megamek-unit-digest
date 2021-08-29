@@ -1,36 +1,41 @@
-# Rifleman RFL-9T
+# Rifleman RFL-9T 
 
-[Other Rifleman variants](../rifleman.md)
+[Other Rifleman variants](../rifleman.md) 
 
-## Rifleman RFL-9T
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3071)
-- **Chassis:** 60 tons
-- **Movement:** 4 / 6
-- **Armor:** 152 (Stealth)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Light PPC × 2
-  - Light AC/5 × 2 (ammo: 40)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-  - Targeting Computer
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t)
-- **Battle Value:** 1503
+## Rifleman RFL-9T 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3071) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 152 (Stealth) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Light PPC × 2 
+  - Light AC/5 × 2 (ammo: 40) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t) 
+- **Battle Value:** 1503 
 
-### Jihad
-- Taurian Concordat
+## Availability 
 
-### Early Republic
-- Taurian Concordat
+### Jihad 
 
-### Late Republic
-- Taurian Concordat
+- Taurian Concordat 
 
-### Dark Ages
-- Taurian Concordat
+### Early Republic 
+
+- Taurian Concordat 
+
+### Late Republic 
+
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Taurian Concordat 
 

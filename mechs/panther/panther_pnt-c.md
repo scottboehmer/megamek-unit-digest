@@ -1,45 +1,51 @@
-# Panther PNT-C
+# Panther PNT-C 
 
-[Other Panther variants](../panther.md)
+[Other Panther variants](../panther.md) 
 
-## Panther PNT-C
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 104
-- **Heat Sinks:** 13 (13)
-- **Weapons:**
-  - ER PPC
-  - SRM 4 (ammo: 25)
-- **Equipment:**
-  - CASE
-  - C3 Slave
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2426/panther-pnt-c)
-- **Battle Value:** 833
+## Panther PNT-C 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 104 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - ER PPC 
+  - SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - CASE 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2426/panther-pnt-c) 
+- **Battle Value:** 833 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
 

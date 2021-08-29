@@ -1,39 +1,44 @@
-# Firebee FRB-3E
+# Firebee FRB-3E 
 
-[Other Firebee variants](../firebee.md)
+[Other Firebee variants](../firebee.md) 
 
-## Firebee FRB-3E
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3071)
-- **Chassis:** 35 tons
-- **Movement:** 5 / 8
-- **Armor:** 104 (Stealth)
-- **Gyroscope:** XL Gyro
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Plasma Rifle (ammo: 20)
-  - MML 5 (ammo: 24 LRM, 20 SRM)
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1080/firebee-frb-3e)
-- **Battle Value:** 1067
+## Firebee FRB-3E 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3071) 
+- **Chassis:** 35 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 104 (Stealth) 
+- **Gyroscope:** XL Gyro 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1080/firebee-frb-3e) 
+- **Battle Value:** 1067 
 
-### Jihad (Unique)
-- Capellan Confederation
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
+### Jihad (Unique) 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

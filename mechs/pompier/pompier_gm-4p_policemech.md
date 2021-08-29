@@ -1,39 +1,44 @@
-# Pompier GM-4P PoliceMech
+# Pompier GM-4P PoliceMech 
 
-[Other Pompier variants](../pompier.md)
+[Other Pompier variants](../pompier.md) 
 
-## Pompier GM-4P PoliceMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3085)
-- **Chassis:** 15 tons (Industrial)
-- **Movement:** 3 / 5
-- **Armor:** 24
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Pulse Laser
-  - Machine Gun × 2 (ammo: 100)
-  - Vehicle Flamer (ammo: 20)
-- **Equipment:**
-  - Ejection Seat
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7837/pompier-gm-4p-policemech)
-- **Battle Value:** 148
+## Pompier GM-4P PoliceMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3085) 
+- **Chassis:** 15 tons (Industrial) 
+- **Movement:** 3 / 5 
+- **Armor:** 24 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser 
+  - Machine Gun × 2 (ammo: 100) 
+  - Vehicle Flamer (ammo: 20) 
+- **Equipment:** 
+  - Ejection Seat 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7837/pompier-gm-4p-policemech) 
+- **Battle Value:** 148 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Federated Suns
-- Republic of the Sphere
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
-- Mercenary
-- Pirate
-- Republic of the Sphere
+### Early Republic 
+
+- Federated Suns 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
 

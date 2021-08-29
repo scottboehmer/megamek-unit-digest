@@ -1,30 +1,32 @@
-# Night Stalker NSR-K4
+# Night Stalker NSR-K4 
 
-[Other Night Stalker variants](../night_stalker.md)
+[Other Night Stalker variants](../night_stalker.md) 
 
-## Night Stalker NSR-K4
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3136)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-- **Armor:** 116 (Ferro Fibrous)
-- **Cockpit:** Torso-Mounted
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 4
-  - SRM 4 (ammo: 25)
-  - Lance
-- **Equipment:**
-  - Beagle Active Probe
-  - CASE
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6719/night-stalker-nsr-k4)
-- **Battle Value:** 1159
+## Night Stalker NSR-K4 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3136) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+- **Armor:** 116 (Ferro Fibrous) 
+- **Cockpit:** Torso-Mounted 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+  - SRM 4 (ammo: 25) 
+  - Lance 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - CASE 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6719/night-stalker-nsr-k4) 
+- **Battle Value:** 1159 
 
-### Dark Ages
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+## Availability 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

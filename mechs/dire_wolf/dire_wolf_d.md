@@ -1,54 +1,59 @@
-# Dire Wolf D
+# Dire Wolf D 
 
-[Other Dire Wolf variants](../dire_wolf.md)
+[Other Dire Wolf variants](../dire_wolf.md) 
 
-## Dire Wolf "Daishi" D
-- **Role:** Juggernaut
-- **Tech Base:** Clan (3069)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5, XL
-- **Armor:** 304
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - HAG 40 × 2 (ammo: 30)
-  - Streak SRM 6 (ammo: 15)
-  - Medium Pulse Laser × 2
-  - ER Small Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/816/daishi-dire-wolf-d)
-- **Battle Value:** 3403
+## Dire Wolf "Daishi" D 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (3069) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 304 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - HAG 40 × 2 (ammo: 30) 
+  - Streak SRM 6 (ammo: 15) 
+  - Medium Pulse Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/816/daishi-dire-wolf-d) 
+- **Battle Value:** 3403 
 
-### Jihad
-- Clan Hell's Horses
-- Escorpión Imperio
+## Availability 
 
-### Early Republic
-- Clan Diamond Shark
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Escorpión Imperio
-- Mercenary
-- Raven Alliance
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Escorpión Imperio
-- Republic of the Sphere
+- Clan Hell's Horses 
+- Escorpión Imperio 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Escorpión Imperio
-- Republic of the Sphere
-- Scorpion Empire
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Escorpión Imperio 
+- Mercenary 
+- Raven Alliance 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Escorpión Imperio 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Republic of the Sphere 
+- Scorpion Empire 
 

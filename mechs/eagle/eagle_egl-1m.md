@@ -1,51 +1,58 @@
-# Eagle EGL-1M
+# Eagle EGL-1M 
 
-[Other Eagle variants](../eagle.md)
+[Other Eagle variants](../eagle.md) 
 
-## Eagle EGL-1M
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3058)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 80
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - ER Small Laser
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/936/eagle-egl-1m)
-- **Battle Value:** 757
+## Eagle EGL-1M 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 80 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - ER Small Laser 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936/eagle-egl-1m) 
+- **Battle Value:** 757 
 
-### Clan Invasion
-- Capellan Confederation
-- Magistracy of Canopus
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
+- Capellan Confederation 
+- Magistracy of Canopus 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
+### Jihad 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
 

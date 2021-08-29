@@ -1,87 +1,95 @@
-# Hermes HER-1S
+# Hermes HER-1S 
 
-[Other Hermes variants](../hermes.md)
+[Other Hermes variants](../hermes.md) 
 
-## Hermes HER-1S
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2632)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14
-- **Armor:** 89 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 2
-  - Flamer
-- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1487/hermes-her-1s)
-- **Battle Value:** 716
+## Hermes HER-1S 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2632) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 9 / 14 
+- **Armor:** 89 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Flamer 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487/hermes-her-1s) 
+- **Battle Value:** 716 
 
-### Star League
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Outworlds Alliance
-- Rim Worlds Republic - Terran Corps
-- Star League
-- Star League - Royal Divisions
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Mongoose
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Widowmaker
-- Clan Wolf
-- Clan Wolverine
-- ComStar
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Outworlds Alliance
-- Star League-in-Exile
+### Star League 
 
-### Late Succession Wars - LosTech
-- Clan Coyote
-- Clan Ghost Bear
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- ComStar
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Rim Worlds Republic - Terran Corps 
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Clan Ghost Bear
-- Clan Hell's Horses
-- ComStar
+### Early Succession Wars 
 
-### Clan Invasion
-- Clan Ghost Bear
-- Clan Hell's Horses
-- ComStar
+- Capellan Confederation 
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Mongoose 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Widowmaker 
+- Clan Wolf 
+- Clan Wolverine 
+- ComStar 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Star League-in-Exile 
 
-### Civil War
-- Clan Ghost Bear
-- Clan Hell's Horses
-- ComStar
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Clan Ghost Bear
-- Clan Hell's Horses
-- ComStar
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- ComStar 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- ComStar 
+
+### Clan Invasion 
+
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- ComStar 
+
+### Civil War 
+
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- ComStar 
+
+### Jihad 
+
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- ComStar 
 

@@ -1,40 +1,46 @@
-# Morpheus MRP-3W
+# Morpheus MRP-3W 
 
-[Other Morpheus variants](../morpheus.md)
+[Other Morpheus variants](../morpheus.md) 
 
-## Morpheus MRP-3W
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 65 tons
-- **Movement:** 6 / 9, XL
-  - **Underwater:** 6
-- **Armor:** 198 (Heavy Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - MagShot Gauss Rifle (ammo: 50)
-  - Claw
-- **Equipment:**
-  - Guardian ECM Suite
-  - MASS
-  - Spikes × 2
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2228/morpheus-mrp-3w)
-- **Battle Value:** 1299
+## Morpheus MRP-3W 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 65 tons 
+- **Movement:** 6 / 9, XL 
+  - **Underwater:** 6 
+- **Armor:** 198 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - MagShot Gauss Rifle (ammo: 50) 
+  - Claw 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - MASS 
+  - Spikes × 2 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2228/morpheus-mrp-3w) 
+- **Battle Value:** 1299 
 
-### Civil War
-- Solaris 7
+## Availability 
 
-### Jihad
-- Solaris 7
+### Civil War 
 
-### Early Republic
-- Solaris 7
+- Solaris 7 
 
-### Late Republic
-- Solaris 7
+### Jihad 
 
-### Dark Ages
-- Solaris 7
+- Solaris 7 
+
+### Early Republic 
+
+- Solaris 7 
+
+### Late Republic 
+
+- Solaris 7 
+
+### Dark Ages 
+
+- Solaris 7 
 

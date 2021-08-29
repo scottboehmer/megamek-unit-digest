@@ -1,33 +1,38 @@
-# Eisenfaust EFT-8X
+# Eisenfaust EFT-8X 
 
-[Other Eisenfaust variants](../eisenfaust.md)
+[Other Eisenfaust variants](../eisenfaust.md) 
 
-## Eisenfaust EFT-8X
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3080)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 152
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Blazer Cannon
-  - Medium VSP Laser
-  - Medium Pulse Laser × 2
-  - ER Small Laser
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/946/eisenfaust-eft-8x)
-- **Battle Value:** 1039
+## Eisenfaust EFT-8X 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3080) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 152 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Blazer Cannon 
+  - Medium VSP Laser 
+  - Medium Pulse Laser × 2 
+  - ER Small Laser 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/946/eisenfaust-eft-8x) 
+- **Battle Value:** 1039 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

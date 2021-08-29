@@ -1,29 +1,32 @@
-# Thorn THE-Nb
+# Thorn THE-Nb 
 
-[Other Thorn variants](../thorn.md)
+[Other Thorn variants](../thorn.md) 
 
-## Thorn THE-Nb
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (2743)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 (12), XL
-- **Armor:** 69
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - Medium Laser
-  - Small Laser
-- **Equipment:**
-  - MASC
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3194/thorn-the-nb)
-- **Battle Value:** 740
+## Thorn THE-Nb 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (2743) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+- **Armor:** 69 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Medium Laser 
+  - Small Laser 
+- **Equipment:** 
+  - MASC 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3194/thorn-the-nb) 
+- **Battle Value:** 740 
 
-### Star League
-- Rim Worlds Republic - Terran Corps
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Star League-in-Exile
+### Star League 
+
+- Rim Worlds Republic - Terran Corps 
+- Star League - Royal Divisions 
+
+### Early Succession Wars 
+
+- Star League-in-Exile 
 

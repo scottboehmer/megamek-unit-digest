@@ -1,48 +1,55 @@
-# Predator (Standard)
+# Predator (Standard) 
 
-[Other Predator variants](../predator.md)
+[Other Predator variants](../predator.md) 
 
-## Predator (Standard)
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3060)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 184
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - ER Medium Laser × 2
-  - ER Small Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2567/predator-standard)
-- **Battle Value:** 1754
+## Predator (Standard) 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3060) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 184 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
+  - ER Medium Laser × 2 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2567/predator-standard) 
+- **Battle Value:** 1754 
 
-### Clan Invasion
-- Clan Diamond Shark
+## Availability 
 
-### Civil War
-- Clan Blood Spirit
-- Clan Diamond Shark
+### Clan Invasion 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ice Hellion
-- Clan Star Adder
-- Escorpión Imperio
+- Clan Diamond Shark 
 
-### Early Republic
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Escorpión Imperio
+- Clan Blood Spirit 
+- Clan Diamond Shark 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Star Adder 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

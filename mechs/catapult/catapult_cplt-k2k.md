@@ -1,34 +1,40 @@
-# Catapult CPLT-K2K
+# Catapult CPLT-K2K 
 
-[Other Catapult variants](../catapult.md)
+[Other Catapult variants](../catapult.md) 
 
-## Catapult CPLT-K2K
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3058)
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 211
-- **Heat Sinks:** 20 (40)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Medium Laser × 2
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5454/catapult-cplt-k2k)
-- **Battle Value:** 1716
+## Catapult CPLT-K2K 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 65 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 211 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Medium Laser × 2 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5454/catapult-cplt-k2k) 
+- **Battle Value:** 1716 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
 

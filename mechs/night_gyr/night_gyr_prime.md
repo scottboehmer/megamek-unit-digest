@@ -1,53 +1,60 @@
-# Night Gyr Prime
+# Night Gyr Prime 
 
-[Other Night Gyr variants](../night_gyr.md)
+[Other Night Gyr variants](../night_gyr.md) 
 
-## Night Gyr Prime
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3052)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 220 (Ferro Fibrous)
-- **Heat Sinks:** 20 (40)
-- **Weapons:**
-  - ER PPC × 2
-  - Ultra AC/10 (ammo: 20)
-  - Medium Pulse Laser × 3
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2270/night-gyr-prime)
-- **Battle Value:** 2830
+## Night Gyr Prime 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3052) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 220 (Ferro Fibrous) 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Ultra AC/10 (ammo: 20) 
+  - Medium Pulse Laser × 3 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2270/night-gyr-prime) 
+- **Battle Value:** 2830 
 
-### Clan Invasion
-- Clan Jade Falcon
-- Clan Smoke Jaguar
+## Availability 
 
-### Civil War
-- Clan Goliath Scorpion
-- Clan Jade Falcon
-- Clan Star Adder
+### Clan Invasion 
 
-### Jihad
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Goliath Scorpion
-- Clan Jade Falcon
-- Clan Star Adder
-- Escorpión Imperio
+- Clan Jade Falcon 
+- Clan Smoke Jaguar 
 
-### Early Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Star Adder 
 
-### Dark Ages
-- Clan Jade Falcon
-- Escorpión Imperio
-- Scorpion Empire
+### Jihad 
+
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Star Adder 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+- Scorpion Empire 
 

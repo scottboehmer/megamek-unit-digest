@@ -1,159 +1,168 @@
-# Mad Dog A
+# Mad Dog A 
 
-[Other Mad Dog variants](../mad_dog.md)
+[Other Mad Dog variants](../mad_dog.md) 
 
-## Mad Dog "Vulture" A
-- **Role:** Skirmisher
-- **Tech Base:** Clan (2963)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 163 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER PPC
-  - LB 5-X AC (ammo: 20 Standard, 20 Cluster)
-  - SRM 6 × 6 (ammo: 60)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3466/vulture-mad-dog-a)
-- **Battle Value:** 1923
+## Mad Dog "Vulture" A 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (2963) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 163 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC 
+  - LB 5-X AC (ammo: 20 Standard, 20 Cluster) 
+  - SRM 6 × 6 (ammo: 60) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3466/vulture-mad-dog-a) 
+- **Battle Value:** 1923 
 
-### Late Succession Wars - LosTech
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Wolf's Dragoons
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
 
-### Civil War
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Wolf's Dragoons
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Stone Lion
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Escorpión Imperio
-- Society
-- Wolf's Dragoons
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
 
-### Early Republic
-- Clan Diamond Shark
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Escorpión Imperio
-- Mercenary
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
+### Clan Invasion 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Sea Fox
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Escorpión Imperio
-- Mercenary
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf-in-Exile
-- Escorpión Imperio
-- Raven Alliance
-- Republic of the Sphere
-- Scorpion Empire
+### Civil War 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Escorpión Imperio 
+- Society 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Escorpión Imperio 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Escorpión Imperio 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Raven Alliance 
+- Republic of the Sphere 
+- Scorpion Empire 
 

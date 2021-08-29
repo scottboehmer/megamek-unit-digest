@@ -1,39 +1,45 @@
-# Hachiwara HCA-3T
+# Hachiwara HCA-3T 
 
-[Other Hachiwara variants](../hachiwara.md)
+[Other Hachiwara variants](../hachiwara.md) 
 
-## Hachiwara HCA-3T
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8 (10), XL
-- **Armor:** 200
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Ultra AC/10 (ammo: 30)
-  - ER Medium Laser × 2
-  - Large Vibroblade
-- **Equipment:**
-  - M-Pod × 4
-  - CASE
-  - Supercharger
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1360/hachiwara-hca-3t)
-- **Battle Value:** 1646
+## Hachiwara HCA-3T 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 5 / 8 (10), XL 
+- **Armor:** 200 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 30) 
+  - ER Medium Laser × 2 
+  - Large Vibroblade 
+- **Equipment:** 
+  - M-Pod × 4 
+  - CASE 
+  - Supercharger 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1360/hachiwara-hca-3t) 
+- **Battle Value:** 1646 
 
-### Civil War
-- Solaris 7
+## Availability 
 
-### Jihad
-- Solaris 7
+### Civil War 
 
-### Early Republic
-- Solaris 7
+- Solaris 7 
 
-### Late Republic
-- Solaris 7
+### Jihad 
 
-### Dark Ages
-- Solaris 7
+- Solaris 7 
+
+### Early Republic 
+
+- Solaris 7 
+
+### Late Republic 
+
+- Solaris 7 
+
+### Dark Ages 
+
+- Solaris 7 
 

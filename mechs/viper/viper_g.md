@@ -1,61 +1,66 @@
-# Viper G
+# Viper G 
 
-[Other Viper variants](../viper.md)
+[Other Viper variants](../viper.md) 
 
-## Viper "Dragonfly" G
-- **Role:** Striker
-- **Tech Base:** Clan (3071)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 8
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Plasma Cannon (ammo: 10)
-  - Heavy Medium Laser
-  - AP Gauss Rifle × 4 (ammo: 40)
-- **Equipment:**
-  - Light Active Probe
-  - CASE
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/923/dragonfly-viper-g)
-- **Battle Value:** 1574
+## Viper "Dragonfly" G 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3071) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Cannon (ammo: 10) 
+  - Heavy Medium Laser 
+  - AP Gauss Rifle × 4 (ammo: 40) 
+- **Equipment:** 
+  - Light Active Probe 
+  - CASE 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/923/dragonfly-viper-g) 
+- **Battle Value:** 1574 
 
-### Jihad
-- Capellan Confederation
-- Clan Diamond Shark
-- Clan Ghost Bear
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Wolf
-- Clan Wolf-in-Exile
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Clan Hell's Horses
-- Rasalhague Dominion
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
-- Rasalhague Dominion
-- Republic of the Sphere
+- Capellan Confederation 
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Clan Hell's Horses
-- Rasalhague Dominion
-- Republic of the Sphere
+### Early Republic 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Republic of the Sphere 
 

@@ -1,33 +1,38 @@
-# Cicada CDA-3C
+# Cicada CDA-3C 
 
-[Other Cicada variants](../cicada.md)
+[Other Cicada variants](../cicada.md) 
 
-## Cicada CDA-3C
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2840)
-- **Chassis:** 40 tons
-- **Movement:** 7 / 11
-- **Armor:** 64
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - PPC
-  - Machine Gun × 2 (ammo: 200)
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/593/cicada-cda-3c)
-- **Battle Value:** 771
+## Cicada CDA-3C 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2840) 
+- **Chassis:** 40 tons 
+- **Movement:** 7 / 11 
+- **Armor:** 64 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - PPC 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/593/cicada-cda-3c) 
+- **Battle Value:** 771 
 
-### Early Succession Wars
-- Capellan Confederation
+## Availability 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - LosTech 
+
+- Capellan Confederation 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- St. Ives Compact 
 

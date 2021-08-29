@@ -1,36 +1,41 @@
-# Karhu B
+# Karhu B 
 
-[Other Karhu variants](../karhu.md)
+[Other Karhu variants](../karhu.md) 
 
-## Karhu B
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3079)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 201 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 20)
-  - ER Medium Laser × 3
-- **Equipment:**
-  - ECM Suite
-  - CASE
-  - Targeting Computer
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b)
-- **Battle Value:** 2787
+## Karhu B 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3079) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 201 (Ferro Fibrous) 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+  - ER Medium Laser × 3 
+- **Equipment:** 
+  - ECM Suite 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b) 
+- **Battle Value:** 2787 
 
-### Jihad
-- Clan Ghost Bear
+## Availability 
 
-### Early Republic
-- Rasalhague Dominion
+### Jihad 
 
-### Late Republic
-- Rasalhague Dominion
+- Clan Ghost Bear 
 
-### Dark Ages
-- Rasalhague Dominion
+### Early Republic 
+
+- Rasalhague Dominion 
+
+### Late Republic 
+
+- Rasalhague Dominion 
+
+### Dark Ages 
+
+- Rasalhague Dominion 
 

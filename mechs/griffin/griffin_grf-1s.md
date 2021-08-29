@@ -1,55 +1,64 @@
-# Griffin GRF-1S
+# Griffin GRF-1S 
 
-[Other Griffin variants](../griffin.md)
+[Other Griffin variants](../griffin.md) 
 
-## Griffin GRF-1S
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2857)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 152
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser × 2
-  - LRM 5 (ammo: 24)
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s)
-- **Battle Value:** 1253
+## Griffin GRF-1S 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2857) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 152 
+- **Heat Sinks:** 16 (16) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 2 
+  - LRM 5 (ammo: 24) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s) 
+- **Battle Value:** 1253 
 
-### Early Succession Wars
-- Lyran Commonwealth
+## Availability 
 
-### Late Succession Wars - LosTech
-- Lyran Commonwealth
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Free Rasalhague Republic
-- Lyran Commonwealth
+- Lyran Commonwealth 
 
-### Clan Invasion
-- Federated Commonwealth
-- Free Rasalhague Republic
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Free Rasalhague Republic
-- Lyran Alliance
-- Mercenary
+- Lyran Commonwealth 
 
-### Jihad
-- Free Rasalhague Republic
-- Lyran Alliance
-- Mercenary
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+- Free Rasalhague Republic 
+- Lyran Commonwealth 
 
-### Late Republic
-- Mercenary
+### Clan Invasion 
+
+- Federated Commonwealth 
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Civil War 
+
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Mercenary 
+
+### Jihad 
+
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
 

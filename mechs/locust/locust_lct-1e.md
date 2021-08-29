@@ -1,59 +1,69 @@
-# Locust LCT-1E
+# Locust LCT-1E 
 
-[Other Locust variants](../locust.md)
+[Other Locust variants](../locust.md) 
 
-## Locust LCT-1E
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2811)
-- **Chassis:** 20 tons
-- **Movement:** 8 / 12
-- **Armor:** 64
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 2
-  - Small Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1897/locust-lct-1e)
-- **Battle Value:** 553
+## Locust LCT-1E 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2811) 
+- **Chassis:** 20 tons 
+- **Movement:** 8 / 12 
+- **Armor:** 64 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Small Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1897/locust-lct-1e) 
+- **Battle Value:** 553 
 
-### Early Succession Wars
-- Capellan Confederation
+## Availability 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
 
-### Jihad
-- Capellan Confederation
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Capellan Confederation
+- Capellan Confederation 
+- St. Ives Compact 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Clan Invasion 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Jihad 
+
+- Capellan Confederation 
+
+### Early Republic 
+
+- Capellan Confederation 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

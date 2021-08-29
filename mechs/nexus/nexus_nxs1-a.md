@@ -1,46 +1,53 @@
-# Nexus NXS1-A
+# Nexus NXS1-A 
 
-[Other Nexus variants](../nexus.md)
+[Other Nexus variants](../nexus.md) 
 
-## Nexus NXS1-A
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3054)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11
-  - **Jumping:** 4
-- **Armor:** 35 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - Medium Laser
-  - Small Laser × 2
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2259/nexus-nxs1-a)
-- **Battle Value:** 643
+## Nexus NXS1-A 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3054) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 7 / 11 
+  - **Jumping:** 4 
+- **Armor:** 35 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - Medium Laser 
+  - Small Laser × 2 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2259/nexus-nxs1-a) 
+- **Battle Value:** 643 
 
-### Clan Invasion
-- ComStar
-- Word of Blake
+## Availability 
 
-### Civil War
-- ComStar
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Escorpión Imperio
-- Word of Blake
+- ComStar 
+- Word of Blake 
 
-### Early Republic
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Escorpión Imperio
+- ComStar 
+- Word of Blake 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Jihad 
+
+- ComStar 
+- Escorpión Imperio 
+- Word of Blake 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

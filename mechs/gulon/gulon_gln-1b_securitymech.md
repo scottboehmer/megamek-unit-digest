@@ -1,41 +1,49 @@
-# Gulon GLN-1B SecurityMech
+# Gulon GLN-1B SecurityMech 
 
-[Other Gulon variants](../gulon.md)
+[Other Gulon variants](../gulon.md) 
 
-## Gulon GLN-1B SecurityMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3000)
-- **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6, Fission
-- **Armor:** 80
-- **Heat Sinks:** 5 (5)
-- **Weapons:**
-  - Medium Laser
-  - Small Laser × 3
-  - Mining Drill
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7845/gulon-gln-1b-securitymech)
-- **Battle Value:** 410
+## Gulon GLN-1B SecurityMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3000) 
+- **Chassis:** 25 tons (Industrial) 
+- **Movement:** 4 / 6, Fission 
+- **Armor:** 80 
+- **Heat Sinks:** 5 (5) 
+- **Weapons:** 
+  - Medium Laser 
+  - Small Laser × 3 
+  - Mining Drill 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7845/gulon-gln-1b-securitymech) 
+- **Battle Value:** 410 
 
-### Late Succession Wars - Renaissance
-- Outworlds Alliance
+## Availability 
 
-### Clan Invasion
-- Outworlds Alliance
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Outworlds Alliance
+- Outworlds Alliance 
 
-### Jihad
-- Outworlds Alliance
+### Clan Invasion 
 
-### Early Republic
-- Raven Alliance
+- Outworlds Alliance 
 
-### Late Republic
-- Raven Alliance
+### Civil War 
 
-### Dark Ages
-- Raven Alliance
+- Outworlds Alliance 
+
+### Jihad 
+
+- Outworlds Alliance 
+
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Raven Alliance 
+
+### Dark Ages 
+
+- Raven Alliance 
 

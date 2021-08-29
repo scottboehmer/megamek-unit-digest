@@ -1,60 +1,65 @@
-# Albatross ALB-3Ur
+# Albatross ALB-3Ur 
 
-[Other Albatross variants](../albatross.md)
+[Other Albatross variants](../albatross.md) 
 
-## Albatross ALB-3Ur
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3076)
-- **Chassis:** 95 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 208
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - Snub-Nose PPC
-  - ER Large Laser
-  - MML 9 (ammo: 26 LRM, 22 SRM)
-  - Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur)
-- **Battle Value:** 1902
+## Albatross ALB-3Ur 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 95 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 208 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Snub-Nose PPC 
+  - ER Large Laser 
+  - MML 9 (ammo: 26 LRM, 22 SRM) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
+- **Battle Value:** 1902 
 
-### Jihad
-- Free Worlds League
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Jihad 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+- Free Worlds League 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 

@@ -1,41 +1,48 @@
-# Katana CRK-5003-CM
+# Katana CRK-5003-CM 
 
-[Other Katana variants](../katana.md)
+[Other Katana variants](../katana.md) 
 
-## Katana CRK-5003-CM "Crockett"
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3057)
-- **Chassis:** 85 tons
-- **Movement:** 3 / 5
-  - **Jumping:** 3
-- **Armor:** 200
-- **Heat Sinks:** 20 (20)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
-  - Large Laser × 2
-  - SRM 6 (ammo: 15)
-- **Equipment:**
-  - C3 Master
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1763/katana-crockett-crk-5003-cm)
-- **Battle Value:** 1554
+## Katana CRK-5003-CM "Crockett" 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3057) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5 
+  - **Jumping:** 3 
+- **Armor:** 200 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
+  - Large Laser × 2 
+  - SRM 6 (ammo: 15) 
+- **Equipment:** 
+  - C3 Master 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1763/katana-crockett-crk-5003-cm) 
+- **Battle Value:** 1554 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

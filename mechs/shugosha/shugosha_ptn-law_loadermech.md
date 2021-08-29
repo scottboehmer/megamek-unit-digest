@@ -1,51 +1,62 @@
-# Shugosha PTN-LAW LoaderMech
+# Shugosha PTN-LAW LoaderMech 
 
-[Other Shugosha variants](../shugosha.md)
+[Other Shugosha variants](../shugosha.md) 
 
-## Shugosha PTN-LAW LoaderMech
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (2627)
-- **Chassis:** 20 tons (Industrial)
-- **Movement:** 2 / 3
-- **Armor:** 35 (Commercial)
-- **Cockpit:** Industrial
-- **Heat Sinks:** 10 (10)
-- **Equipment:**
-  - Lift Hoist × 2
-  - Cargo × 2
-  - Searchlight
-- **Sources:** RS:VA IM Exo - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7157/shugosha-ptn-law-loadermech)
-- **Battle Value:** 100
+## Shugosha PTN-LAW LoaderMech 
 
-## Availability
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2627) 
+- **Chassis:** 20 tons (Industrial) 
+- **Movement:** 2 / 3 
+- **Armor:** 35 (Commercial) 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 10 (10) 
+- **Equipment:** 
+  - Lift Hoist × 2 
+  - Cargo × 2 
+  - Searchlight 
+- **Sources:** RS:VA IM Exo - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7157/shugosha-ptn-law-loadermech) 
+- **Battle Value:** 100 
 
-### Star League
-- Draconis Combine
+## Availability 
 
-### Early Succession Wars
-- Draconis Combine
+### Star League 
 
-### Late Succession Wars - LosTech
-- Draconis Combine
+- Draconis Combine 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
+### Early Succession Wars 
 
-### Clan Invasion
-- Draconis Combine
+- Draconis Combine 
 
-### Civil War
-- Draconis Combine
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
+### Clan Invasion 
+
+- Draconis Combine 
+
+### Civil War 
+
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

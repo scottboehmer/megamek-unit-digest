@@ -1,29 +1,31 @@
-# Grim Reaper GRM-R-PR62A
+# Grim Reaper GRM-R-PR62A 
 
-[Other Grim Reaper variants](../grim_reaper.md)
+[Other Grim Reaper variants](../grim_reaper.md) 
 
-## Grim Reaper GRM-R-PR62A
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3072)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 7
-- **Armor:** 185 (Ferro Fibrous)
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Snub-Nose PPC
-  - MML 9 (ammo: 13 LRM, 11 SRM)
-  - ER Medium Laser
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-  - Targeting Computer
-  - CASE
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1331/grim-reaper-grm-r-pr62a)
-- **Battle Value:** 1542
+## Grim Reaper GRM-R-PR62A 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 7 
+- **Armor:** 185 (Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - MML 9 (ammo: 13 LRM, 11 SRM) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - Targeting Computer 
+  - CASE 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1331/grim-reaper-grm-r-pr62a) 
+- **Battle Value:** 1542 
 
-### Jihad (Unique)
-- Word of Blake
+## Availability 
+
+### Jihad (Unique) 
+
+- Word of Blake 
 

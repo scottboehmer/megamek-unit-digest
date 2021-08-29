@@ -1,25 +1,28 @@
-# Galahad (Glass Spider) 4
+# Galahad (Glass Spider) 4 
 
-[Other Galahad (Glass Spider) variants](../galahad_glass_spider.md)
+[Other Galahad (Glass Spider) variants](../galahad_glass_spider.md) 
 
-## Galahad (Glass Spider) 4
-- **Role:** Sniper
-- **Tech Base:** Clan (3148)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6 (8), XL
-- **Armor:** 201 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - HAG 20 × 2 (ammo: 42)
-  - ER Small Laser × 3
-- **Equipment:**
-  - CASE
-  - Targeting Computer
-  - Supercharger
-- **Source:** RecGuide 13 - Dark Ages
-- **Battle Value:** 2309
+## Galahad (Glass Spider) 4 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3148) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8), XL 
+- **Armor:** 201 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - HAG 20 × 2 (ammo: 42) 
+  - ER Small Laser × 3 
+- **Equipment:** 
+  - CASE 
+  - Targeting Computer 
+  - Supercharger 
+- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8131/galahad-glass-spider-4) 
+- **Battle Value:** 2309 
 
-Availability Unknown
+## Availability 
+
+### Dark Ages 
+
+- Clan Wolf 
 

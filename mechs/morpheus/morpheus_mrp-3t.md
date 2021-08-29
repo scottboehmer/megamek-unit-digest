@@ -1,36 +1,42 @@
-# Morpheus MRP-3T
+# Morpheus MRP-3T 
 
-[Other Morpheus variants](../morpheus.md)
+[Other Morpheus variants](../morpheus.md) 
 
-## Morpheus MRP-3T
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 65 tons
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 208 (Reactive)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER Medium Laser × 5
-- **Equipment:**
-  - Laser Anti-Missile System
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2227/morpheus-mrp-3t)
-- **Battle Value:** 1925
+## Morpheus MRP-3T 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 65 tons 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 208 (Reactive) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER Medium Laser × 5 
+- **Equipment:** 
+  - Laser Anti-Missile System 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2227/morpheus-mrp-3t) 
+- **Battle Value:** 1925 
 
-### Civil War
-- Solaris 7
+## Availability 
 
-### Jihad
-- Solaris 7
+### Civil War 
 
-### Early Republic
-- Solaris 7
+- Solaris 7 
 
-### Late Republic
-- Solaris 7
+### Jihad 
 
-### Dark Ages
-- Solaris 7
+- Solaris 7 
+
+### Early Republic 
+
+- Solaris 7 
+
+### Late Republic 
+
+- Solaris 7 
+
+### Dark Ages 
+
+- Solaris 7 
 

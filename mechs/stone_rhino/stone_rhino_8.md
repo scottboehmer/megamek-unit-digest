@@ -1,29 +1,32 @@
-# Stone Rhino 8
+# Stone Rhino 8 
 
-[Other Stone Rhino variants](../stone_rhino.md)
+[Other Stone Rhino variants](../stone_rhino.md) 
 
-## Stone Rhino 8 "Behemoth"
-- **Role:** Sniper
-- **Tech Base:** Clan (3128)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-- **Armor:** 288
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle × 2 (ammo: 32)
-  - Large Pulse Laser × 2
-  - Small Pulse Laser
-- **Equipment:**
-  - AES × 2
-  - CASE
-- **Sources:** ilClan Vol 2 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8)
-- **Battle Value:** 2804
+## Stone Rhino 8 "Behemoth" 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3128) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 288 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle × 2 (ammo: 32) 
+  - Large Pulse Laser × 2 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - AES × 2 
+  - CASE 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
+- **Battle Value:** 2804 
 
-### Late Republic
-- Clan Hell's Horses
+## Availability 
 
-### Dark Ages
-- Clan Hell's Horses
+### Late Republic 
+
+- Clan Hell's Horses 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
 

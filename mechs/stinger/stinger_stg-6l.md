@@ -1,43 +1,49 @@
-# Stinger STG-6L
+# Stinger STG-6L 
 
-[Other Stinger variants](../stinger.md)
+[Other Stinger variants](../stinger.md) 
 
-## Stinger STG-6L
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3067)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12
-- **Armor:** 69 (Stealth)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Laser × 2
-- **Equipment:**
-  - Guardian ECM Suite
-- **Sources:** TRO Project Pheonix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3066/stinger-stg-6l)
-- **Battle Value:** 680
+## Stinger STG-6L 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 8 / 12 
+- **Armor:** 69 (Stealth) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3066/stinger-stg-6l) 
+- **Battle Value:** 680 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
+## Availability 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
+### Civil War 
 
-### Early Republic
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
+- Capellan Confederation 
+- Magistracy of Canopus 
 
-### Late Republic
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
+### Jihad 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
 

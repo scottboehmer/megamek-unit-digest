@@ -1,58 +1,63 @@
-# Firestarter FS9-OH
+# Firestarter FS9-OH 
 
-[Other Firestarter variants](../firestarter.md)
+[Other Firestarter variants](../firestarter.md) 
 
-## Firestarter FS9-OH
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3069)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 136
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Medium Laser
-  - Medium Pulse Laser × 2
-  - Small Pulse Laser × 2
-  - Flamer × 2
-  - Machine Gun × 2 (ammo: 100)
-- **Equipment:**
-  - Guardian ECM Suite
-  - Anti-Missile System (ammo: 12)
-  - Beagle Active Probe
-  - CASE
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1107/firestarter-fs9-oh)
-- **Battle Value:** 1119
+## Firestarter FS9-OH 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 136 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - Medium Pulse Laser × 2 
+  - Small Pulse Laser × 2 
+  - Flamer × 2 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Anti-Missile System (ammo: 12) 
+  - Beagle Active Probe 
+  - CASE 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1107/firestarter-fs9-oh) 
+- **Battle Value:** 1119 
 
-### Jihad
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Mercenary
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Draconis Combine
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Draconis Combine
-- Lyran Commonwealth
-- Mercenary
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Mercenary 
+- Word of Blake 
 
-### Dark Ages
-- Capellan Confederation
-- Draconis Combine
-- Lyran Commonwealth
-- Mercenary
+### Early Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
 

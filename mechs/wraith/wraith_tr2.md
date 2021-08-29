@@ -1,62 +1,69 @@
-# Wraith TR2
+# Wraith TR2 
 
-[Other Wraith variants](../wraith.md)
+[Other Wraith variants](../wraith.md) 
 
-## Wraith TR2
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3057)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 7
-- **Armor:** 152 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser × 2
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3589/wraith-tr2)
-- **Battle Value:** 1485
+## Wraith TR2 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3057) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Pulse Laser × 2 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3589/wraith-tr2) 
+- **Battle Value:** 1485 
 
-### Clan Invasion
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Mercenary
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Mercenary
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Mercenary
-- Word of Blake
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Word of Blake 
 
-### Early Republic
-- Draconis Combine
-- Duchy of Andurien
-- Mercenary
-- Oriente Protectorate
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Duchy of Andurien
-- Mercenary
-- Oriente Protectorate
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Word of Blake 
 
-### Dark Ages
-- Draconis Combine
-- Duchy of Andurien
-- Mercenary
-- Oriente Protectorate
+### Jihad 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Word of Blake 
+
+### Early Republic 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Mercenary 
+- Oriente Protectorate 
+
+### Late Republic 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Mercenary 
+- Oriente Protectorate 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Mercenary 
+- Oriente Protectorate 
 

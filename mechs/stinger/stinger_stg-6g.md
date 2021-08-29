@@ -1,44 +1,47 @@
-# Stinger STG-6G
+# Stinger STG-6G 
 
-[Other Stinger variants](../stinger.md)
+[Other Stinger variants](../stinger.md) 
 
-## Stinger STG-6G
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3103)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 7
-- **Armor:** 69
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium X-Pulse Laser
-  - Machine Gun × 2 (ammo: 100)
-- **Sources:** RecGuide 13 - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/8125/stinger-stg-6g)
-- **Battle Value:** 503
+## Stinger STG-6G 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3103) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 69 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium X-Pulse Laser 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8125/stinger-stg-6g) 
+- **Battle Value:** 503 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+## Availability 
 
-### Dark Ages
-- Calderon Protectorate
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

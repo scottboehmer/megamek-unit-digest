@@ -1,44 +1,52 @@
-# Gulon GLN-1A MiningMech
+# Gulon GLN-1A MiningMech 
 
-[Other Gulon variants](../gulon.md)
+[Other Gulon variants](../gulon.md) 
 
-## Gulon GLN-1A MiningMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3000)
-- **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6, Fission
-- **Armor:** 80
-- **Cockpit:** Industrial
-- **Heat Sinks:** 5 (5)
-- **Weapons:**
-  - Small Laser × 3
-  - Mining Drill
-- **Equipment:**
-  - Mech Sprayer
-  - Liquid Cargo
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7844/gulon-gln-1a-miningmech)
-- **Battle Value:** 352
+## Gulon GLN-1A MiningMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3000) 
+- **Chassis:** 25 tons (Industrial) 
+- **Movement:** 4 / 6, Fission 
+- **Armor:** 80 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 5 (5) 
+- **Weapons:** 
+  - Small Laser × 3 
+  - Mining Drill 
+- **Equipment:** 
+  - Mech Sprayer 
+  - Liquid Cargo 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844/gulon-gln-1a-miningmech) 
+- **Battle Value:** 352 
 
-### Late Succession Wars - Renaissance
-- Outworlds Alliance
+## Availability 
 
-### Clan Invasion
-- Outworlds Alliance
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Outworlds Alliance
+- Outworlds Alliance 
 
-### Jihad
-- Outworlds Alliance
+### Clan Invasion 
 
-### Early Republic
-- Raven Alliance
+- Outworlds Alliance 
 
-### Late Republic
-- Raven Alliance
+### Civil War 
 
-### Dark Ages
-- Raven Alliance
+- Outworlds Alliance 
+
+### Jihad 
+
+- Outworlds Alliance 
+
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Raven Alliance 
+
+### Dark Ages 
+
+- Raven Alliance 
 

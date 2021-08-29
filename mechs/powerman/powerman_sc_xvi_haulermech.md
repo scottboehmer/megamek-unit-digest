@@ -1,33 +1,38 @@
-# Powerman SC XVI HaulerMech
+# Powerman SC XVI HaulerMech 
 
-[Other Powerman variants](../powerman.md)
+[Other Powerman variants](../powerman.md) 
 
-## Powerman SC XVI HaulerMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 35 tons (Industrial)
-- **Movement:** 4 / 6, ICE
-- **Armor:** 60 (Commercial)
-- **Cockpit:** Industrial
-- **Heat Sinks:** 0 (0)
-- **Equipment:**
-  - Salvage Arm
-  - Lift Hoist
-  - Cargo × 3
-- **Sources:** TRO VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4853/powerman-sc-xvi-haulermech)
-- **Battle Value:** 198
+## Powerman SC XVI HaulerMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 35 tons (Industrial) 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 60 (Commercial) 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 0 (0) 
+- **Equipment:** 
+  - Salvage Arm 
+  - Lift Hoist 
+  - Cargo × 3 
+- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4853/powerman-sc-xvi-haulermech) 
+- **Battle Value:** 198 
 
-### Jihad
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Republic of the Sphere
+- Word of Blake 
 
-### Dark Ages
-- Republic of the Sphere
+### Early Republic 
+
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

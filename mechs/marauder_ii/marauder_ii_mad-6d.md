@@ -1,35 +1,39 @@
-# Marauder II MAD-6D
+# Marauder II MAD-6D 
 
-[Other Marauder II variants](../marauder_ii.md)
+[Other Marauder II variants](../marauder_ii.md) 
 
-## Marauder II MAD-6D
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3083)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5, XL
-  - **Jumping:** 5
-- **Armor:** 304
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - Snub-Nose PPC × 2
-  - Light PPC × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d)
-- **Battle Value:** 2378
+## Marauder II MAD-6D 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+  - **Jumping:** 5 
+- **Armor:** 304 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - RAC/5 (ammo: 60) 
+  - Snub-Nose PPC × 2 
+  - Light PPC × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d) 
+- **Battle Value:** 2378 
 
-### Early Republic
-- Federated Suns
-- Republic of the Sphere
+## Availability 
 
-### Late Republic
-- Federated Suns
-- Republic of the Sphere
+### Early Republic 
 
-### Dark Ages
-- Federated Suns
-- Republic of the Sphere
+- Federated Suns 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Republic of the Sphere 
 

@@ -1,35 +1,40 @@
-# Stinger STG-4G
+# Stinger STG-4G 
 
-[Other Stinger variants](../stinger.md)
+[Other Stinger variants](../stinger.md) 
 
-## Stinger STG-4G
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3074)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 6
-- **Armor:** 69
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-- **Sources:** RecGuide 13 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/8123/stinger-stg-4g)
-- **Battle Value:** 541
+## Stinger STG-4G 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 6 
+- **Armor:** 69 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+- **Sources:** RecGuide 13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8123/stinger-stg-4g) 
+- **Battle Value:** 541 
 
-### Jihad
-- Capellan Confederation
-- Mercenary
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Mercenary
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Mercenary
+- Capellan Confederation 
+- Mercenary 
 
-### Dark Ages
-- Capellan Confederation
-- Mercenary
+### Early Republic 
+
+- Capellan Confederation 
+- Mercenary 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Mercenary 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Mercenary 
 

@@ -1,25 +1,27 @@
-# Panther PNT-12KC
+# Panther PNT-12KC 
 
-[Other Panther variants](../panther.md)
+[Other Panther variants](../panther.md) 
 
-## Panther PNT-12KC
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere Mixed (3139)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 108 (Ballistic Reinforced)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER PPC
-  - Medium Laser
-- **Equipment:**
-  - C3 Boosted Slave
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6923/panther-pnt-12kc)
-- **Battle Value:** 1036
+## Panther PNT-12KC 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere Mixed (3139) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 108 (Ballistic Reinforced) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Laser 
+- **Equipment:** 
+  - C3 Boosted Slave 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6923/panther-pnt-12kc) 
+- **Battle Value:** 1036 
 
-### Dark Ages
-- Draconis Combine
+## Availability 
+
+### Dark Ages 
+
+- Draconis Combine 
 

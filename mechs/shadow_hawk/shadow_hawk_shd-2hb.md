@@ -1,167 +1,178 @@
-# Shadow Hawk SHD-2Hb
+# Shadow Hawk SHD-2Hb 
 
-[Other Shadow Hawk variants](../shadow_hawk.md)
+[Other Shadow Hawk variants](../shadow_hawk.md) 
 
-## Shadow Hawk SHD-2Hb
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2752)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 3
-- **Armor:** 152 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Medium Laser × 2
-  - Streak SRM 2 × 2 (ammo: 50)
-- **Equipment:**
-  - CASE
-- **Sources:** ilClan Vol 12 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb)
-- **Battle Value:** 1354
+## Shadow Hawk SHD-2Hb 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2752) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 3 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - Medium Laser × 2 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** ilClan Vol 12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb) 
+- **Battle Value:** 1354 
 
-### Star League
-- Rim Worlds Republic - Terran Corps
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Mongoose
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Widowmaker
-- Clan Wolf
-- Clan Wolverine
-- Federated Suns
-- Star League-in-Exile
+### Star League 
 
-### Late Succession Wars - LosTech
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
+- Rim Worlds Republic - Terran Corps 
+- Star League - Royal Divisions 
 
-### Late Succession Wars - Renaissance
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
+### Early Succession Wars 
 
-### Clan Invasion
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
-- Clan Wolf-in-Exile
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Mongoose 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Widowmaker 
+- Clan Wolf 
+- Clan Wolverine 
+- Federated Suns 
+- Star League-in-Exile 
 
-### Civil War
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
-- Clan Wolf-in-Exile
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Capellan Confederation
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Goliath Scorpion
-- Clan Ice Hellion
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Stone Lion
-- Free Worlds League
-- Magistracy of Canopus
-- Mercenary
-- Society
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
 
-### Early Republic
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
-- Marik-Stewart Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
-- Mercenary
-- Republic of the Sphere
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
-- Mercenary
-- Republic of the Sphere
+### Clan Invasion 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+
+### Civil War 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+
+### Jihad 
+
+- Capellan Confederation 
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Ice Hellion 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Society 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Mercenary 
+- Republic of the Sphere 
 

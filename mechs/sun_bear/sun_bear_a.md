@@ -1,45 +1,54 @@
-# Sun Bear A
+# Sun Bear A 
 
-[Other Sun Bear variants](../sun_bear.md)
+[Other Sun Bear variants](../sun_bear.md) 
 
-## Sun Bear A
-- **Role:** Skirmisher
-- **Tech Base:** Clan (2966)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 168
-- **Heat Sinks:** 23 (46)
-- **Weapons:**
-  - ER Medium Laser × 12
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a)
-- **Battle Value:** 2418
+## Sun Bear A 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (2966) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 168 
+- **Heat Sinks:** 23 (46) 
+- **Weapons:** 
+  - ER Medium Laser × 12 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a) 
+- **Battle Value:** 2418 
 
-### Late Succession Wars - LosTech
-- Clan Ghost Bear
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Clan Ghost Bear
+### Late Succession Wars - LosTech 
 
-### Clan Invasion (Unique)
-- Clan Ghost Bear
-- Clan Goliath Scorpion
+- Clan Ghost Bear 
 
-### Civil War (Unique)
-- Clan Goliath Scorpion
+### Late Succession Wars - Renaissance 
 
-### Jihad (Unique)
-- Clan Goliath Scorpion
-- Escorpión Imperio
+- Clan Ghost Bear 
 
-### Early Republic (Unique)
-- Escorpión Imperio
+### Clan Invasion (Unique) 
 
-### Late Republic (Unique)
-- Escorpión Imperio
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
 
-### Dark Ages (Unique)
-- Escorpión Imperio
-- Scorpion Empire
+### Civil War (Unique) 
+
+- Clan Goliath Scorpion 
+
+### Jihad (Unique) 
+
+- Clan Goliath Scorpion 
+- Escorpión Imperio 
+
+### Early Republic (Unique) 
+
+- Escorpión Imperio 
+
+### Late Republic (Unique) 
+
+- Escorpión Imperio 
+
+### Dark Ages (Unique) 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

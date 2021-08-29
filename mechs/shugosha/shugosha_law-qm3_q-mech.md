@@ -1,42 +1,49 @@
-# Shugosha LAW-QM3 Q-Mech
+# Shugosha LAW-QM3 Q-Mech 
 
-[Other Shugosha variants](../shugosha.md)
+[Other Shugosha variants](../shugosha.md) 
 
-## Shugosha LAW-QM3 Q-Mech
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 20 tons (Industrial)
-- **Movement:** 2 / 3
-- **Armor:** 35 (Commercial)
-- **Cockpit:** Industrial
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - PPC
-- **Equipment:**
-  - Drone Operating System
-- **Sources:** RS:VA IM Exo - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7156/shugosha-law-qm3-q-mech)
-- **Battle Value:** 198
+## Shugosha LAW-QM3 Q-Mech 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 20 tons (Industrial) 
+- **Movement:** 2 / 3 
+- **Armor:** 35 (Commercial) 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - PPC 
+- **Equipment:** 
+  - Drone Operating System 
+- **Sources:** RS:VA IM Exo - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7156/shugosha-law-qm3-q-mech) 
+- **Battle Value:** 198 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Republic of the Sphere
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
-- Republic of the Sphere
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Republic of the Sphere 
 

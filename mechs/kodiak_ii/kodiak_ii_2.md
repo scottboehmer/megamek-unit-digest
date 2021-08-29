@@ -1,27 +1,29 @@
-# Kodiak II 2
+# Kodiak II 2 
 
-[Other Kodiak II variants](../kodiak_ii.md)
+[Other Kodiak II variants](../kodiak_ii.md) 
 
-## Kodiak II 2
-- **Role:** Brawler
-- **Tech Base:** Clan (3139)
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 6, XXL
-- **Armor:** 304
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC
-  - Streak LRM 20 × 2 (ammo: 24)
-  - ER Small Laser × 8
-- **Equipment:**
-  - HarJel III × 3
-  - CASE II
-  - Targeting Computer
-- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6296/kodiak-ii-2)
-- **Battle Value:** 3150
+## Kodiak II 2 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3139) 
+- **Chassis:** 100 tons (Endo Steel) 
+- **Movement:** 4 / 6, XXL 
+- **Armor:** 304 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC 
+  - Streak LRM 20 × 2 (ammo: 24) 
+  - ER Small Laser × 8 
+- **Equipment:** 
+  - HarJel III × 3 
+  - CASE II 
+  - Targeting Computer 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6296/kodiak-ii-2) 
+- **Battle Value:** 3150 
 
-### Dark Ages
-- Rasalhague Dominion
+## Availability 
+
+### Dark Ages 
+
+- Rasalhague Dominion 
 

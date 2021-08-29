@@ -1,40 +1,47 @@
-# Daimyo DMO-4K
+# Daimyo DMO-4K 
 
-[Other Daimyo variants](../daimyo.md)
+[Other Daimyo variants](../daimyo.md) 
 
-## Daimyo DMO-4K
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3058)
-- **Chassis:** 40 tons
-- **Movement:** 5 / 8
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - Medium Laser × 3
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/805/daimyo-dmo-4k)
-- **Battle Value:** 1150
+## Daimyo DMO-4K 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 40 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Laser × 3 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/805/daimyo-dmo-4k) 
+- **Battle Value:** 1150 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

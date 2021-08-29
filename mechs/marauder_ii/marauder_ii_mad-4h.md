@@ -1,44 +1,50 @@
-# Marauder II MAD-4H
+# Marauder II MAD-4H 
 
-[Other Marauder II variants](../marauder_ii.md)
+[Other Marauder II variants](../marauder_ii.md) 
 
-## Marauder II MAD-4H
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3067)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-  - **Jumping:** 3
-- **Armor:** 307
-- **Heat Sinks:** 21 (21)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Medium Laser × 2
-  - Rocket 20 × 4
-  - Rocket 15 × 6
-  - Rocket 10
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h)
-- **Battle Value:** 2180
+## Marauder II MAD-4H 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+  - **Jumping:** 3 
+- **Armor:** 307 
+- **Heat Sinks:** 21 (21) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Medium Laser × 2 
+  - Rocket 20 × 4 
+  - Rocket 15 × 6 
+  - Rocket 10 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
+- **Battle Value:** 2180 
 
-### Civil War
-- Marian Hegemony
-- Pirate
+## Availability 
 
-### Jihad
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Early Republic
-- Marian Hegemony
-- Pirate
+- Marian Hegemony 
+- Pirate 
 
-### Late Republic
-- Marian Hegemony
-- Pirate
+### Jihad 
 
-### Dark Ages
-- Marian Hegemony
-- Pirate
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Marian Hegemony 
+- Pirate 
+
+### Late Republic 
+
+- Marian Hegemony 
+- Pirate 
+
+### Dark Ages 
+
+- Marian Hegemony 
+- Pirate 
 

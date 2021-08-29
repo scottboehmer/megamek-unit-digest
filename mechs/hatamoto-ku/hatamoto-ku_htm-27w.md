@@ -1,40 +1,47 @@
-# Hatamoto-Ku HTM-27W
+# Hatamoto-Ku HTM-27W 
 
-[Other Hatamoto-Ku variants](../hatamoto-ku.md)
+[Other Hatamoto-Ku variants](../hatamoto-ku.md) 
 
-## Hatamoto-Ku HTM-27W
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3048)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 247
-- **Heat Sinks:** 18 (18)
-- **Weapons:**
-  - PPC × 2
-  - AC/5 (ammo: 20)
-- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1408/hatamoto-ku-htm-27w)
-- **Battle Value:** 1563
+## Hatamoto-Ku HTM-27W 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3048) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 247 
+- **Heat Sinks:** 18 (18) 
+- **Weapons:** 
+  - PPC × 2 
+  - AC/5 (ammo: 20) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1408/hatamoto-ku-htm-27w) 
+- **Battle Value:** 1563 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
+## Availability 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
+### Clan Invasion 
 
-### Early Republic
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Late Republic
-- Draconis Combine
+### Civil War 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
 

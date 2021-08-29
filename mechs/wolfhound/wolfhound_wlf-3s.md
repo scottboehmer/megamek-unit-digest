@@ -1,34 +1,39 @@
-# Wolfhound WLF-3S
+# Wolfhound WLF-3S 
 
-[Other Wolfhound variants](../wolfhound.md)
+[Other Wolfhound variants](../wolfhound.md) 
 
-## Wolfhound WLF-3S
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9, Light
-- **Armor:** 119
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER PPC
-  - ER Medium Laser × 3
-  - ER Small Laser
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3566/wolfhound-wlf-3s)
-- **Battle Value:** 1176
+## Wolfhound WLF-3S 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 6 / 9, Light 
+- **Armor:** 119 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Medium Laser × 3 
+  - ER Small Laser 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3566/wolfhound-wlf-3s) 
+- **Battle Value:** 1176 
 
-### Civil War
-- Clan Wolf-in-Exile
-- Lyran Alliance
+## Availability 
 
-### Jihad
-- Clan Wolf-in-Exile
-- Lyran Alliance
+### Civil War 
 
-### Early Republic
-- Lyran Commonwealth
+- Clan Wolf-in-Exile 
+- Lyran Alliance 
 
-### Late Republic
-- Lyran Commonwealth
+### Jihad 
+
+- Clan Wolf-in-Exile 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
 

@@ -1,23 +1,25 @@
-# Longshot LNG-4
+# Longshot LNG-4 
 
-[Other Longshot variants](../longshot.md)
+[Other Longshot variants](../longshot.md) 
 
-## Longshot LNG-4
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 7 / 11, XXL
-- **Armor:** 96
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Streak SRM 6 × 2 (ammo: 30)
-  - Medium X-Pulse Laser × 2
-  - Small X-Pulse Laser × 2
-- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1950/longshot-lng-4)
-- **Battle Value:** 1086
+## Longshot LNG-4 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 7 / 11, XXL 
+- **Armor:** 96 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Streak SRM 6 × 2 (ammo: 30) 
+  - Medium X-Pulse Laser × 2 
+  - Small X-Pulse Laser × 2 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1950/longshot-lng-4) 
+- **Battle Value:** 1086 
 
-### Jihad
-- Solaris 7
+## Availability 
+
+### Jihad 
+
+- Solaris 7 
 

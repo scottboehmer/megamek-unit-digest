@@ -1,83 +1,92 @@
-# Hermes II HER-2S
+# Hermes II HER-2S 
 
-[Other Hermes II variants](../hermes_ii.md)
+[Other Hermes II variants](../hermes_ii.md) 
 
-## Hermes II HER-2S
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2798)
-- **Chassis:** 40 tons
-- **Movement:** 6 / 9
-- **Armor:** 120
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - AC/5 (ammo: 20)
-  - Medium Laser
-  - Flamer
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1497/hermes-ii-her-2s)
-- **Battle Value:** 784
+## Hermes II HER-2S 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2798) 
+- **Chassis:** 40 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 120 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/5 (ammo: 20) 
+  - Medium Laser 
+  - Flamer 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1497/hermes-ii-her-2s) 
+- **Battle Value:** 784 
 
-### Early Succession Wars
-- Capellan Confederation
-- Free Worlds League
-- Magistracy of Canopus
-- Mercenary
+## Availability 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Wolf's Dragoons
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Wolf's Dragoons
+- Capellan Confederation 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 
-### Clan Invasion
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Wolf's Dragoons
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Jihad
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Duchy of Andurien
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Late Republic
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
+### Clan Invasion 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+
+### Jihad 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+
+### Early Republic 
+
+- Duchy of Andurien 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+
+### Late Republic 
+
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

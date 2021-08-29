@@ -1,55 +1,61 @@
-# Charger CGR-1L
+# Charger CGR-1L 
 
-[Other Charger variants](../charger.md)
+[Other Charger variants](../charger.md) 
 
-## Charger CGR-1L
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3022)
-- **Chassis:** 80 tons
-- **Movement:** 5 / 8
-- **Armor:** 88
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/562/charger-cgr-1l)
-- **Battle Value:** 980
+## Charger CGR-1L 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3022) 
+- **Chassis:** 80 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 88 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/562/charger-cgr-1l) 
+- **Battle Value:** 980 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+## Availability 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Capellan Confederation
-- Circinus Federation
-- Magistracy of Canopus
-- Marian Hegemony
-- Outworlds Alliance
-- Pirate
-- St. Ives Compact
-- Taurian Concordat
+- Capellan Confederation 
+- St. Ives Compact 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- Magistracy of Canopus
-- Marian Hegemony
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
+### Clan Invasion 
 
-### Early Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- St. Ives Compact 
+- Taurian Concordat 
+
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

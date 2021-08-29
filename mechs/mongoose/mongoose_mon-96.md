@@ -1,30 +1,33 @@
-# Mongoose MON-96
+# Mongoose MON-96 
 
-[Other Mongoose variants](../mongoose.md)
+[Other Mongoose variants](../mongoose.md) 
 
-## Mongoose MON-96
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3129)
-- **Chassis:** 25 tons (Reinforced)
-- **Movement:** 8 / 12 (16), XL
-- **Armor:** 89 (Heavy Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - ER Small Laser
-- **Equipment:**
-  - Bloodhound Active Probe
-  - Supercharger
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7724/mongoose-mon-96)
-- **Battle Value:** 1011
+## Mongoose MON-96 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3129) 
+- **Chassis:** 25 tons (Reinforced) 
+- **Movement:** 8 / 12 (16), XL 
+- **Armor:** 89 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 3 
+  - ER Small Laser 
+- **Equipment:** 
+  - Bloodhound Active Probe 
+  - Supercharger 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7724/mongoose-mon-96) 
+- **Battle Value:** 1011 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+## Availability 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
 

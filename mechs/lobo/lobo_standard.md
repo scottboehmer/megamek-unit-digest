@@ -1,43 +1,50 @@
-# Lobo (Standard)
+# Lobo (Standard) 
 
-[Other Lobo variants](../lobo.md)
+[Other Lobo variants](../lobo.md) 
 
-## Lobo (Standard)
-- **Role:** Striker
-- **Tech Base:** Clan (3059)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE)
-  - Heavy Medium Laser × 2
-  - Heavy Small Laser
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-  - CASE
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard)
-- **Battle Value:** 1715
+## Lobo (Standard) 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3059) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE) 
+  - Heavy Medium Laser × 2 
+  - Heavy Small Laser 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+  - CASE 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard) 
+- **Battle Value:** 1715 
 
-### Clan Invasion
-- Clan Wolf
+## Availability 
 
-### Civil War
-- Clan Wolf
+### Clan Invasion 
 
-### Jihad
-- Clan Wolf
+- Clan Wolf 
 
-### Early Republic
-- Clan Wolf
+### Civil War 
 
-### Late Republic
-- Clan Wolf
+- Clan Wolf 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Wolf
+### Jihad 
+
+- Clan Wolf 
+
+### Early Republic 
+
+- Clan Wolf 
+
+### Late Republic 
+
+- Clan Wolf 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Wolf 
 

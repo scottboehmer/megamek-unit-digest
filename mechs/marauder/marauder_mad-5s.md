@@ -1,65 +1,72 @@
-# Marauder MAD-5S
+# Marauder MAD-5S 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-5S
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 184
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Gauss Rifle (ammo: 8)
-  - ER PPC × 2
-  - Medium Pulse Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s)
-- **Battle Value:** 1799
+## Marauder MAD-5S 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 184 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 8) 
+  - ER PPC × 2 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s) 
+- **Battle Value:** 1799 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Mercenary 
 

@@ -1,27 +1,30 @@
-# Mackie MSK-5S
+# Mackie MSK-5S 
 
-[Other Mackie variants](../mackie.md)
+[Other Mackie variants](../mackie.md) 
 
-## Mackie MSK-5S
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (2439)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-- **Armor:** 214 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 17 (17)
-- **Weapons:**
-  - PPC
-  - Large Laser
-  - AC/5 (ammo: 20)
-- **Sources:** XTRO Primitives I - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s)
-- **Battle Value:** 1436
+## Mackie MSK-5S 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2439) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 214 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - PPC 
+  - Large Laser 
+  - AC/5 (ammo: 20) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s) 
+- **Battle Value:** 1436 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
+
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
 

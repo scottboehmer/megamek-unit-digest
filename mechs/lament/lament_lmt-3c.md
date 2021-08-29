@@ -1,26 +1,28 @@
-# Lament LMT-3C
+# Lament LMT-3C 
 
-[Other Lament variants](../lament.md)
+[Other Lament variants](../lament.md) 
 
-## Lament LMT-3C
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3135)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 211 (Light Ferro Fibrous)
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC × 3
-  - Small X-Pulse Laser
-- **Equipment:**
-  - Radical Heat Sink System
-  - C3 Slave
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6722/lament-lmt-3c)
-- **Battle Value:** 1874
+## Lament LMT-3C 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3135) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 211 (Light Ferro Fibrous) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC × 3 
+  - Small X-Pulse Laser 
+- **Equipment:** 
+  - Radical Heat Sink System 
+  - C3 Slave 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722/lament-lmt-3c) 
+- **Battle Value:** 1874 
 
-### Dark Ages
-- Republic of the Sphere
+## Availability 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

@@ -1,45 +1,50 @@
-# Nyx NX-80C
+# Nyx NX-80C 
 
-[Other Nyx variants](../nyx.md)
+[Other Nyx variants](../nyx.md) 
 
-## Nyx NX-80C
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3078)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15, XL
-- **Armor:** 89 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - SRM 4 (ammo: 25)
-  - ER Small Laser
-- **Equipment:**
-  - Beagle Active Probe
-  - C3 Slave
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c)
-- **Battle Value:** 874
+## Nyx NX-80C 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 10 / 15, XL 
+- **Armor:** 89 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - SRM 4 (ammo: 25) 
+  - ER Small Laser 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - C3 Slave 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c) 
+- **Battle Value:** 874 
 
-### Jihad
-- Draconis Combine
+## Availability 
 
-### Early Republic
-- Draconis Combine
-- Duchy of Tamarind-Abbey
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Draconis Combine
-- Duchy of Tamarind-Abbey
-- Mercenary
-- Republic of the Sphere
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Draconis Combine 
+- Duchy of Tamarind-Abbey 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Duchy of Tamarind-Abbey 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Mercenary 
+- Republic of the Sphere 
 

@@ -1,41 +1,45 @@
-# Valkyrie VLK-QD4
+# Valkyrie VLK-QD4 
 
-[Other Valkyrie variants](../valkyrie.md)
+[Other Valkyrie variants](../valkyrie.md) 
 
-## Valkyrie VLK-QD4
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3085)
-- **Chassis:** 30 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 7
-- **Armor:** 84 (Light Ferro Fibrous)
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - MML 7 (ammo: 17 LRM, 14 SRM)
-  - ER Medium Laser
-- **Equipment:**
-  - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4)
-- **Battle Value:** 657
+## Valkyrie VLK-QD4 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3085) 
+- **Chassis:** 30 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 7 
+- **Armor:** 84 (Light Ferro Fibrous) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - MML 7 (ammo: 17 LRM, 14 SRM) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4) 
+- **Battle Value:** 657 
 
-### Early Republic
-- Federated Suns
-- Republic of the Sphere
+## Availability 
 
-### Late Republic
-- Federated Suns
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Republic of the Sphere
+### Early Republic 
 
-### Dark Ages
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Republic of the Sphere
+- Federated Suns 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Republic of the Sphere 
 

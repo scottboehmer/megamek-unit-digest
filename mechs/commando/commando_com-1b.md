@@ -1,37 +1,43 @@
-# Commando COM-1B
+# Commando COM-1B 
 
-[Other Commando variants](../commando.md)
+[Other Commando variants](../commando.md) 
 
-## Commando COM-1B
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3015)
-- **Chassis:** 25 tons
-- **Movement:** 6 / 9
-- **Armor:** 64
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser
-  - SRM 2 (ammo: 50)
-- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/667/commando-com-1b)
-- **Battle Value:** 616
+## Commando COM-1B 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3015) 
+- **Chassis:** 25 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 64 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser 
+  - SRM 2 (ammo: 50) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/667/commando-com-1b) 
+- **Battle Value:** 616 
 
-### Late Succession Wars - LosTech
-- Lyran Commonwealth
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Lyran Commonwealth
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
-- Lyran Commonwealth
+- Lyran Commonwealth 
 
-### Civil War
-- Lyran Alliance
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Lyran Alliance
+- Lyran Commonwealth 
+
+### Clan Invasion 
+
+- Federated Commonwealth 
+- Lyran Alliance 
+- Lyran Commonwealth 
+
+### Civil War 
+
+- Lyran Alliance 
+
+### Jihad 
+
+- Lyran Alliance 
 

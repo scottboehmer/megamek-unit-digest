@@ -1,52 +1,57 @@
-# Viper U
+# Viper U 
 
-[Other Viper variants](../viper.md)
+[Other Viper variants](../viper.md) 
 
-## Viper "Dragonfly" U
-- **Role:** Striker
-- **Tech Base:** Clan Mixed (3077)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 8
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Inner Sphere Hatchet
-- **Equipment:**
-  - ECM Suite
-  - Anti-Missile System (ammo: 24)
-  - CASE
-  - Liquid Cargo
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/927/dragonfly-viper-u)
-- **Battle Value:** 1417
+## Viper "Dragonfly" U 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan Mixed (3077) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - Inner Sphere Hatchet 
+- **Equipment:** 
+  - ECM Suite 
+  - Anti-Missile System (ammo: 24) 
+  - CASE 
+  - Liquid Cargo 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927/dragonfly-viper-u) 
+- **Battle Value:** 1417 
 
-### Jihad
-- Clan Cloud Cobra
-- Clan Fire Mandrill
-- Clan Goliath Scorpion
-- Clan Star Adder
-- Clan Steel Viper
-- Escorpión Imperio
+## Availability 
 
-### Early Republic
-- Clan Hell's Horses
-- Escorpión Imperio
-- Rasalhague Dominion
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
-- Escorpión Imperio
-- Rasalhague Dominion
-- Republic of the Sphere
+- Clan Cloud Cobra 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Escorpión Imperio 
 
-### Dark Ages
-- Clan Hell's Horses
-- Escorpión Imperio
-- Rasalhague Dominion
-- Republic of the Sphere
-- Scorpion Empire
+### Early Republic 
+
+- Clan Hell's Horses 
+- Escorpión Imperio 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Escorpión Imperio 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Escorpión Imperio 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+- Scorpion Empire 
 

@@ -1,38 +1,43 @@
-# Woodsman A
+# Woodsman A 
 
-[Other Woodsman variants](../woodsman.md)
+[Other Woodsman variants](../woodsman.md) 
 
-## Woodsman A
-- **Role:** Sniper
-- **Tech Base:** Clan (2866)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8)
-- **Armor:** 216
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER PPC × 2
-  - Large Pulse Laser
-  - Medium Pulse Laser × 2
-  - ER Small Laser
-- **Equipment:**
-  - MASC
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3586/woodsman-a)
-- **Battle Value:** 2741
+## Woodsman A 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (2866) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8) 
+- **Armor:** 216 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Large Pulse Laser 
+  - Medium Pulse Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - MASC 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586/woodsman-a) 
+- **Battle Value:** 2741 
 
-### Early Succession Wars
-- Clan Wolf
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Snow Raven
-- Clan Wolf
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Snow Raven
-- Clan Wolf
+- Clan Wolf 
 
-### Dark Ages
-- Clan Wolf
-- Raven Alliance
+### Late Succession Wars - LosTech 
+
+- Clan Snow Raven 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Snow Raven 
+- Clan Wolf 
+
+### Dark Ages 
+
+- Clan Wolf 
+- Raven Alliance 
 

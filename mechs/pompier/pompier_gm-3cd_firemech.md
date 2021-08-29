@@ -1,38 +1,44 @@
-# Pompier GM-3CD FireMech
+# Pompier GM-3CD FireMech 
 
-[Other Pompier variants](../pompier.md)
+[Other Pompier variants](../pompier.md) 
 
-## Pompier GM-3CD FireMech
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 15 tons (Industrial)
-- **Movement:** 2 / 3, Fuel Cell
-- **Armor:** 24
-- **Heat Sinks:** 1 (1)
-- **Equipment:**
-  - Beagle Active Probe
-  - Enviro-Sealing
-  - Liquid Cargo
-  - Searchlight
-  - Mech Sprayer
-- **Sources:** TRO VA - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/4843/pompier-gm-3cd-firemech)
-- **Battle Value:** 118
+## Pompier GM-3CD FireMech 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 15 tons (Industrial) 
+- **Movement:** 2 / 3, Fuel Cell 
+- **Armor:** 24 
+- **Heat Sinks:** 1 (1) 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - Enviro-Sealing 
+  - Liquid Cargo 
+  - Searchlight 
+  - Mech Sprayer 
+- **Sources:** TRO VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4843/pompier-gm-3cd-firemech) 
+- **Battle Value:** 118 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Jihad
-- Federated Suns
+### Civil War 
 
-### Early Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
 
-### Late Republic
-- Federated Suns
+### Jihad 
 
-### Dark Ages
-- Federated Suns
+- Federated Suns 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

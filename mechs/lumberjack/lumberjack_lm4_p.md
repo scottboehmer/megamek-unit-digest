@@ -1,52 +1,62 @@
-# Lumberjack LM4/P
+# Lumberjack LM4/P 
 
-[Other Lumberjack variants](../lumberjack.md)
+[Other Lumberjack variants](../lumberjack.md) 
 
-## Lumberjack LM4/P
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (2811)
-- **Chassis:** 70 tons (Industrial)
-- **Movement:** 3 / 5, ICE
-- **Armor:** 120
-- **Heat Sinks:** 4 (4)
-- **Weapons:**
-  - LRM 10 (ammo: 24)
-  - Chainsaw
-- **Equipment:**
-  - Lift Hoist
-  - Dumper
-  - Cargo × 5
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1961/lumberjack-lm4p)
-- **Battle Value:** 651
+## Lumberjack LM4/P 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2811) 
+- **Chassis:** 70 tons (Industrial) 
+- **Movement:** 3 / 5, ICE 
+- **Armor:** 120 
+- **Heat Sinks:** 4 (4) 
+- **Weapons:** 
+  - LRM 10 (ammo: 24) 
+  - Chainsaw 
+- **Equipment:** 
+  - Lift Hoist 
+  - Dumper 
+  - Cargo × 5 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1961/lumberjack-lm4p) 
+- **Battle Value:** 651 
 
-### Early Succession Wars
-- Lyran Commonwealth
+## Availability 
 
-### Late Succession Wars - LosTech
-- Lyran Commonwealth
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Lyran Commonwealth
+- Lyran Commonwealth 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
-- Lyran Commonwealth
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Lyran Alliance
+- Lyran Commonwealth 
 
-### Jihad
-- Lyran Alliance
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Lyran Commonwealth
+- Lyran Commonwealth 
 
-### Late Republic
-- Lyran Commonwealth
+### Clan Invasion 
 
-### Dark Ages
-- Lyran Commonwealth
+- Federated Commonwealth 
+- Lyran Alliance 
+- Lyran Commonwealth 
+
+### Civil War 
+
+- Lyran Alliance 
+
+### Jihad 
+
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

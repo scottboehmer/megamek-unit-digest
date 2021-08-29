@@ -1,48 +1,52 @@
-# Violator VT-U1
+# Violator VT-U1 
 
-[Other Violator variants](../violator.md)
+[Other Violator variants](../violator.md) 
 
-## Violator VT-U1
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3097)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 144
-- **Cockpit:** Armored
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - MRM 10 w/ Apollo FCS × 2 (ammo: 48)
-  - Claw
-  - Mining Drill
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3145 Free Worlds League - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6503/violator-vt-u1)
-- **Battle Value:** 928
+## Violator VT-U1 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3097) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 144 
+- **Cockpit:** Armored 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - MRM 10 w/ Apollo FCS × 2 (ammo: 48) 
+  - Claw 
+  - Mining Drill 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6503/violator-vt-u1) 
+- **Battle Value:** 928 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
-- Regulan Fiefs
+## Availability 
 
-### Late Republic
-- Capellan Confederation
-- Clan Wolf-in-Exile
-- Duchy of Andurien
-- Lyran Commonwealth
-- Mercenary
-- Rasalhague Dominion
-- Regulan Fiefs
+### Early Republic 
 
-### Dark Ages
-- Capellan Confederation
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Duchy of Andurien
-- Free Worlds League
-- Lyran Commonwealth
-- Mercenary
-- Rasalhague Dominion
-- Regulan Fiefs
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Clan Wolf-in-Exile 
+- Duchy of Andurien 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Regulan Fiefs 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Regulan Fiefs 
 

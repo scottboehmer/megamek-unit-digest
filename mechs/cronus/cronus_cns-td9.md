@@ -1,29 +1,31 @@
-# Cronus CNS-TD9
+# Cronus CNS-TD9 
 
-[Other Cronus variants](../cronus.md)
+[Other Cronus variants](../cronus.md) 
 
-## Cronus CNS-TD9
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3072)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9 (12), XL
-- **Armor:** 120 (Stealth)
-- **Gyroscope:** Compact Gyro
-- **Cockpit:** Small
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Small VSP Laser × 3
-  - Claw × 2
-- **Equipment:**
-  - Guardian ECM Suite
-  - MASC
-  - Targeting Computer
-  - C3i
-- **Sources:** TRO3067U, [Master Unit List](http://masterunitlist.info/Unit/Details/5680/cronus-cns-td9)
-- **Battle Value:** 978
+## Cronus CNS-TD9 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+- **Armor:** 120 (Stealth) 
+- **Gyroscope:** Compact Gyro 
+- **Cockpit:** Small 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Small VSP Laser × 3 
+  - Claw × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - MASC 
+  - Targeting Computer 
+  - C3i 
+- **Sources:** TRO3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5680/cronus-cns-td9) 
+- **Battle Value:** 978 
 
-### Jihad
-- Word of Blake
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
 

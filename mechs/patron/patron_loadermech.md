@@ -1,65 +1,74 @@
-# Patron LoaderMech
+# Patron LoaderMech 
 
-[Other Patron variants](../patron.md)
+[Other Patron variants](../patron.md) 
 
-## Patron LoaderMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (2550)
-- **Chassis:** 15 tons (Industrial)
-- **Movement:** 2 / 3, Fuel Cell
-- **Armor:** 24
-- **Cockpit:** Industrial
-- **Heat Sinks:** 1 (1)
-- **Equipment:**
-  - Searchlight
-  - Lift Hoist
-  - Mech Sprayer
-  - Cargo
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/4792/patron-ptn-loadermech)
-- **Battle Value:** 106
+## Patron LoaderMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (2550) 
+- **Chassis:** 15 tons (Industrial) 
+- **Movement:** 2 / 3, Fuel Cell 
+- **Armor:** 24 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 1 (1) 
+- **Equipment:** 
+  - Searchlight 
+  - Lift Hoist 
+  - Mech Sprayer 
+  - Cargo 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792/patron-ptn-loadermech) 
+- **Battle Value:** 106 
 
-### Star League
-- Free Worlds League
+## Availability 
 
-### Early Succession Wars
-- Free Worlds League
+### Star League 
 
-### Clan Invasion
-- Free Worlds League
+- Free Worlds League 
 
-### Civil War
-- Free Worlds League
+### Early Succession Wars 
 
-### Jihad
-- Free Worlds League
+- Free Worlds League 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Clan Invasion 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+- Free Worlds League 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Civil War 
+
+- Free Worlds League 
+
+### Jihad 
+
+- Free Worlds League 
+
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 

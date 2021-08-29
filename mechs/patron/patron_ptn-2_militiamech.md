@@ -1,38 +1,43 @@
-# Patron PTN-2 MilitiaMech
+# Patron PTN-2 MilitiaMech 
 
-[Other Patron variants](../patron.md)
+[Other Patron variants](../patron.md) 
 
-## Patron PTN-2 MilitiaMech
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3076)
-- **Chassis:** 15 tons (Industrial)
-- **Movement:** 2 / 3, Fuel Cell
-- **Armor:** 24 (Commercial)
-- **Cockpit:** Industrial (w/ Adv. FCS)
-- **Heat Sinks:** 1 (1)
-- **Weapons:**
-  - Rocket 10 × 5
-  - Light Machine Gun × 4 (ammo: 100)
-- **Equipment:**
-  - Searchlight
-- **Sources:** XTRO RetroTech - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/4794/patron-ptn-2-militiamech)
-- **Battle Value:** 143
+## Patron PTN-2 MilitiaMech 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 15 tons (Industrial) 
+- **Movement:** 2 / 3, Fuel Cell 
+- **Armor:** 24 (Commercial) 
+- **Cockpit:** Industrial (w/ Adv. FCS) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Rocket 10 × 5 
+  - Light Machine Gun × 4 (ammo: 100) 
+- **Equipment:** 
+  - Searchlight 
+- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4794/patron-ptn-2-militiamech) 
+- **Battle Value:** 143 
 
-### Jihad
-- Free Worlds League
+## Availability 
 
-### Early Republic
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
+### Jihad 
 
-### Late Republic
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
+- Free Worlds League 
 
-### Dark Ages
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
+### Early Republic 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+
+### Late Republic 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+
+### Dark Ages 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
 

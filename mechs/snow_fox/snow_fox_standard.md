@@ -1,45 +1,53 @@
-# Snow Fox (Standard)
+# Snow Fox (Standard) 
 
-[Other Snow Fox variants](../snow_fox.md)
+[Other Snow Fox variants](../snow_fox.md) 
 
-## Snow Fox (Standard)
-- **Role:** Striker
-- **Tech Base:** Clan (3015)
-- **Chassis:** 20 tons Quad
-- **Movement:** 8 / 12 (16)
-- **Armor:** 73 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - ER Medium Laser
-  - ER Small Laser × 2
-- **Equipment:**
-  - MASC
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2979/snow-fox-standard)
-- **Battle Value:** 807
+## Snow Fox (Standard) 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3015) 
+- **Chassis:** 20 tons Quad 
+- **Movement:** 8 / 12 (16) 
+- **Armor:** 73 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - MASC 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2979/snow-fox-standard) 
+- **Battle Value:** 807 
 
-### Late Succession Wars - LosTech
-- Clan Ice Hellion
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Clan Ice Hellion
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Clan Ice Hellion
+- Clan Ice Hellion 
 
-### Civil War
-- Clan Ice Hellion
-- Clan Nova Cat
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Clan Ice Hellion
-- Clan Nova Cat
-- Escorpión Imperio
+- Clan Ice Hellion 
 
-### Early Republic
-- Escorpión Imperio
+### Clan Invasion 
 
-### Late Republic
-- Escorpión Imperio
+- Clan Ice Hellion 
+
+### Civil War 
+
+- Clan Ice Hellion 
+- Clan Nova Cat 
+
+### Jihad 
+
+- Clan Ice Hellion 
+- Clan Nova Cat 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
 

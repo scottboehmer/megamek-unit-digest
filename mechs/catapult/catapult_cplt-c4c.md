@@ -1,70 +1,77 @@
-# Catapult CPLT-C4C
+# Catapult CPLT-C4C 
 
-[Other Catapult variants](../catapult.md)
+[Other Catapult variants](../catapult.md) 
 
-## Catapult CPLT-C4C
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3055)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 160
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 20 × 2 (ammo: 24)
-  - Large Laser
-  - Small Pulse Laser
-- **Equipment:**
-  - Beagle Active Probe
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5453/catapult-cplt-c4c)
-- **Battle Value:** 1449
+## Catapult CPLT-C4C 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3055) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 160 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 24) 
+  - Large Laser 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - Beagle Active Probe 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5453/catapult-cplt-c4c) 
+- **Battle Value:** 1449 
 
-### Clan Invasion
-- Capellan Confederation
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Federated Commonwealth
-- Federated Suns
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+### Clan Invasion 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Federated Suns
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+- Capellan Confederation 
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Capellan Confederation 
+- Federated Commonwealth 
+- Federated Suns 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Federated Suns 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
 

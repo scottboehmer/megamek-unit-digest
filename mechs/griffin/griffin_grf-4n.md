@@ -1,33 +1,38 @@
-# Griffin GRF-4N
+# Griffin GRF-4N 
 
-[Other Griffin variants](../griffin.md)
+[Other Griffin variants](../griffin.md) 
 
-## Griffin GRF-4N
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3083)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9, Light
-  - **Jumping:** 6
-- **Armor:** 152 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyro
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Plasma Rifle (ammo: 20)
-  - ER Medium Laser × 3
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n)
-- **Battle Value:** 1591
+## Griffin GRF-4N 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 6 / 9, Light 
+  - **Jumping:** 6 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Gyroscope:** Heavy-Duty Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - ER Medium Laser × 3 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n) 
+- **Battle Value:** 1591 
 
-### Jihad
-- Taurian Concordat
+## Availability 
 
-### Early Republic
-- Taurian Concordat
+### Jihad 
 
-### Late Republic
-- Taurian Concordat
+- Taurian Concordat 
 
-### Dark Ages
-- Taurian Concordat
+### Early Republic 
+
+- Taurian Concordat 
+
+### Late Republic 
+
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Taurian Concordat 
 

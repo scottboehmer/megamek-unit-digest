@@ -1,44 +1,50 @@
-# Hunchback HBK-6S
+# Hunchback HBK-6S 
 
-[Other Hunchback variants](../hunchback.md)
+[Other Hunchback variants](../hunchback.md) 
 
-## Hunchback HBK-6S
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3063)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 160
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 20-X AC (ammo: 5 Standard, 5 Cluster)
-  - ER Medium Laser × 2
-  - SRM 6 (ammo: 15)
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5447/hunchback-hbk-6s)
-- **Battle Value:** 1380
+## Hunchback HBK-6S 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3063) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 160 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
+  - ER Medium Laser × 2 
+  - SRM 6 (ammo: 15) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5447/hunchback-hbk-6s) 
+- **Battle Value:** 1380 
 
-### Civil War
-- Federated Commonwealth
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+### Civil War 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Federated Commonwealth 
+- Lyran Alliance 
+- Mercenary 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

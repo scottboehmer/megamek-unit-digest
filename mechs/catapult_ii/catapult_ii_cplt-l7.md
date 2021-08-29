@@ -1,27 +1,29 @@
-# Catapult II CPLT-L7
+# Catapult II CPLT-L7 
 
-[Other Catapult II variants](../catapult_ii.md)
+[Other Catapult II variants](../catapult_ii.md) 
 
-## Catapult II CPLT-L7
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3135)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 168
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - TSEMP × 2
-  - LRM 20 × 2 (ammo: 24)
-  - ER Medium Laser × 2
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6464/catapult-ii-cplt-l7)
-- **Battle Value:** 2574
+## Catapult II CPLT-L7 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3135) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 168 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - TSEMP × 2 
+  - LRM 20 × 2 (ammo: 24) 
+  - ER Medium Laser × 2 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6464/catapult-ii-cplt-l7) 
+- **Battle Value:** 2574 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
-- Mercenary
+## Availability 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Mercenary 
 

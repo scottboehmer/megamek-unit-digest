@@ -1,59 +1,66 @@
-# Night Hawk NTK-2S
+# Night Hawk NTK-2S 
 
-[Other Night Hawk variants](../night_hawk.md)
+[Other Night Hawk variants](../night_hawk.md) 
 
-## Night Hawk NTK-2S
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3059)
-- **Chassis:** 35 tons
-- **Movement:** 6 / 9, XL
-- **Armor:** 112
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Large Laser
-  - Large Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - Beagle Active Probe
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2272/night-hawk-ntk-2s)
-- **Battle Value:** 1017
+## Night Hawk NTK-2S 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3059) 
+- **Chassis:** 35 tons 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 112 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Large Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Beagle Active Probe 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2272/night-hawk-ntk-2s) 
+- **Battle Value:** 1017 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

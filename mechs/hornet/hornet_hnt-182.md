@@ -1,30 +1,33 @@
-# Hornet HNT-182
+# Hornet HNT-182 
 
-[Other Hornet variants](../hornet.md)
+[Other Hornet variants](../hornet.md) 
 
-## Hornet HNT-182
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3130)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 62 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 2
-  - MML 5 (ammo: 24 LRM, 20 SRM)
-- **Equipment:**
-  - CASE
-- **Sources:** XTRO Republic II - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7343/hornet-hnt-182)
-- **Battle Value:** 505
+## Hornet HNT-182 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3130) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 62 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7343/hornet-hnt-182) 
+- **Battle Value:** 505 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
+## Availability 
 
-### Dark Ages
-- Federated Suns
-- Filtvelt Coalition
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
 

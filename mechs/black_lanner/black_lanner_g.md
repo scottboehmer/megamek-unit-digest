@@ -1,24 +1,27 @@
-# Black Lanner G
+# Black Lanner G 
 
-[Other Black Lanner variants](../black_lanner.md)
+[Other Black Lanner variants](../black_lanner.md) 
 
-## Black Lanner G
-- **Role:** Missile Boat
-- **Tech Base:** Clan (3134)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 153 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Large Pulse Laser
-  - LRM 5 × 4 (ammo: 48)
-- **Equipment:**
-  - MASC
-  - CASE
-- **Source:** ilClan RecGuide 15 -Dark Age
-- **Battle Value:** 1929
+## Black Lanner G 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3134) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 153 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Large Pulse Laser 
+  - LRM 5 × 4 (ammo: 48) 
+- **Equipment:** 
+  - MASC 
+  - CASE 
+- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186/black-lanner-g) 
+- **Battle Value:** 1929 
 
-Availability Unknown
+## Availability 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

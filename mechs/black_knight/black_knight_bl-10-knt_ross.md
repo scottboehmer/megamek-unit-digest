@@ -1,36 +1,40 @@
-# Black Knight BL-10-KNT (Ross)
+# Black Knight BL-10-KNT (Ross) 
 
-[Other Black Knight variants](../black_knight.md)
+[Other Black Knight variants](../black_knight.md) 
 
-## Black Knight BL-10-KNT (Ross)
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3055)
-- **Chassis:** 75 tons
-- **Movement:** 4 (5) / 6 (8)
-- **Armor:** 231 (Ferro Fibrous)
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - ER Medium Laser × 2
-  - Medium Pulse Laser × 3
-  - Hatchet
-  - ER Small Laser
-- **Equipment:**
-  - Targeting Computer
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/355/black-knight-bl-10-knt-ross)
-- **Battle Value:** 2103
+## Black Knight BL-10-KNT (Ross) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3055) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 (5) / 6 (8) 
+- **Armor:** 231 (Ferro Fibrous) 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Medium Laser × 2 
+  - Medium Pulse Laser × 3 
+  - Hatchet 
+  - ER Small Laser 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/355/black-knight-bl-10-knt-ross) 
+- **Battle Value:** 2103 
 
-### Clan Invasion (Unique)
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Civil War (Unique)
-- Federated Commonwealth
-- Federated Suns
+### Clan Invasion (Unique) 
 
-### Jihad (Unique)
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
+
+### Civil War (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Jihad (Unique) 
+
+- Federated Suns 
 

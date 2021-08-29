@@ -1,47 +1,55 @@
-# Jenner IIC 3
+# Jenner IIC 3 
 
-[Other Jenner IIC variants](../jenner_iic.md)
+[Other Jenner IIC variants](../jenner_iic.md) 
 
-## Jenner IIC 3
-- **Role:** Striker
-- **Tech Base:** Clan Mixed (3048)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 9 / 14, XL
-  - **Jumping:** 7
-- **Armor:** 67 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Narc (ammo: 0)
-  - Small Pulse Laser × 4
-- **Equipment:**
-  - CASE
-- **Sources:** ilClan Rec Guide 18 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3)
-- **Battle Value:** 788
+## Jenner IIC 3 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan Mixed (3048) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+  - **Jumping:** 7 
+- **Armor:** 67 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Narc (ammo: 0) 
+  - Small Pulse Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Sources:** ilClan Rec Guide 18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3) 
+- **Battle Value:** 788 
 
-### Late Succession Wars - Renaissance
-- Clan Nova Cat
+## Availability 
 
-### Clan Invasion
-- Clan Nova Cat
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Clan Cloud Cobra
-- Clan Nova Cat
-- Clan Steel Viper
+- Clan Nova Cat 
 
-### Jihad
-- Clan Cloud Cobra
-- Clan Nova Cat
-- Clan Steel Viper
+### Clan Invasion 
 
-### Early Republic
-- Clan Nova Cat
+- Clan Nova Cat 
 
-### Late Republic
-- Clan Nova Cat
+### Civil War 
 
-### Dark Ages
-- Clan Nova Cat
+- Clan Cloud Cobra 
+- Clan Nova Cat 
+- Clan Steel Viper 
+
+### Jihad 
+
+- Clan Cloud Cobra 
+- Clan Nova Cat 
+- Clan Steel Viper 
+
+### Early Republic 
+
+- Clan Nova Cat 
+
+### Late Republic 
+
+- Clan Nova Cat 
+
+### Dark Ages 
+
+- Clan Nova Cat 
 

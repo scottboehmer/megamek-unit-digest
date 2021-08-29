@@ -1,22 +1,52 @@
-# Grand Summoner E
+# Grand Summoner E 
 
-[Other Grand Summoner variants](../grand_summoner.md)
+[Other Grand Summoner variants](../grand_summoner.md) 
 
-## Grand Summoner "Thor II" E
-- **Role:** Sniper
-- **Tech Base:** Clan (3093)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 8
-- **Armor:** 192 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Small Laser
-- **Source:** Iron Wind Metals - Early Republic
-- **Battle Value:** 2638
+## Grand Summoner "Thor II" E 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3093) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 8 
+- **Armor:** 192 (Ferro Fibrous) 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Small Laser 
+- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7426/thor-ii-grand-summoner-e) 
+- **Battle Value:** 2638 
 
-Availability Unknown
+## Availability 
+
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Clan Wolf 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+- Wolf's Dragoons 
 

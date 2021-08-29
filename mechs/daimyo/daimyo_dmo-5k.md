@@ -1,38 +1,44 @@
-# Daimyo DMO-5K
+# Daimyo DMO-5K 
 
-[Other Daimyo variants](../daimyo.md)
+[Other Daimyo variants](../daimyo.md) 
 
-## Daimyo DMO-5K
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 40 tons
-- **Movement:** 5 / 8
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER PPC
-  - Medium Laser × 2
-- **Equipment:**
-  - C3 Master
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/806/daimyo-dmo-5k)
-- **Battle Value:** 1087
+## Daimyo DMO-5K 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 40 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - C3 Master 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/806/daimyo-dmo-5k) 
+- **Battle Value:** 1087 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
+## Availability 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
+### Civil War 
 
-### Early Republic
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Late Republic
-- Draconis Combine
+### Jihad 
 
-### Dark Ages
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

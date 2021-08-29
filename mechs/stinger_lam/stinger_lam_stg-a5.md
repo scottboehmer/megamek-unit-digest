@@ -1,64 +1,72 @@
-# Stinger LAM STG-A5
+# Stinger LAM STG-A5 
 
-[Other Stinger LAM variants](../stinger_lam.md)
+[Other Stinger LAM variants](../stinger_lam.md) 
 
-## Stinger LAM STG-A5
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2701)
-- **Chassis:** 30 tons LAM
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-  - **AirMech:** 18 / 27
-  - **Aerospace:** 6 / 9
-- **Armor:** 80
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - Medium Laser × 3
-- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5139/stinger-lam-stg-a5)
-- **Battle Value:** 1073
+## Stinger LAM STG-A5 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2701) 
+- **Chassis:** 30 tons LAM 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+  - **AirMech:** 18 / 27 
+  - **Aerospace:** 6 / 9 
+- **Armor:** 80 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - Medium Laser × 3 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5139/stinger-lam-stg-a5) 
+- **Battle Value:** 1073 
 
-### Star League
-- Rim Worlds Republic - Terran Corps
-- Star League
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Star League-in-Exile
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Wolf's Dragoons
+- Rim Worlds Republic - Terran Corps 
+- Star League 
+- Star League - Royal Divisions 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Commonwealth
-- St. Ives Compact
-- Wolf's Dragoons
+### Early Succession Wars 
 
-### Clan Invasion
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League-in-Exile 
 
-### Civil War
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Wolf's Dragoons 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Commonwealth 
+- St. Ives Compact 
+- Wolf's Dragoons 
+
+### Clan Invasion 
+
+- Word of Blake 
+
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

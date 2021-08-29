@@ -1,34 +1,39 @@
-# Thunderbolt IIC (Standard)
+# Thunderbolt IIC (Standard) 
 
-[Other Thunderbolt IIC variants](../thunderbolt_iic.md)
+[Other Thunderbolt IIC variants](../thunderbolt_iic.md) 
 
-## Thunderbolt IIC (Standard)
-- **Role:** Brawler
-- **Tech Base:** Clan (3085)
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 216
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - Improved Heavy Large Laser × 2
-  - Streak LRM 15 (ammo: 16)
-  - ER Medium Laser × 3
-- **Equipment:**
-  - CASE II
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard)
-- **Battle Value:** 2475
+## Thunderbolt IIC (Standard) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3085) 
+- **Chassis:** 70 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 216 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Improved Heavy Large Laser × 2 
+  - Streak LRM 15 (ammo: 16) 
+  - ER Medium Laser × 3 
+- **Equipment:** 
+  - CASE II 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard) 
+- **Battle Value:** 2475 
 
-### Jihad
-- Clan Jade Falcon
+## Availability 
 
-### Early Republic
-- Clan Jade Falcon
+### Jihad 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Jade Falcon 
 
-### Dark Ages
-- Clan Jade Falcon
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

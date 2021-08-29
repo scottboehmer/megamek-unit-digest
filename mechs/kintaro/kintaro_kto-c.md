@@ -1,40 +1,46 @@
-# Kintaro KTO-C
+# Kintaro KTO-C 
 
-[Other Kintaro variants](../kintaro.md)
+[Other Kintaro variants](../kintaro.md) 
 
-## Kintaro KTO-C
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Laser
-  - SRM 6 × 2 (ammo: 30)
-  - Medium Laser
-  - LRM 5 (ammo: 24)
-- **Equipment:**
-  - C3 Slave
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1795/kintaro-kto-c)
-- **Battle Value:** 1294
+## Kintaro KTO-C 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Large Laser 
+  - SRM 6 × 2 (ammo: 30) 
+  - Medium Laser 
+  - LRM 5 (ammo: 24) 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1795/kintaro-kto-c) 
+- **Battle Value:** 1294 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
 

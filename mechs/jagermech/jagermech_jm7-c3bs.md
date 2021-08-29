@@ -1,36 +1,41 @@
-# JagerMech JM7-C3BS
+# JagerMech JM7-C3BS 
 
-[Other JagerMech variants](../jagermech.md)
+[Other JagerMech variants](../jagermech.md) 
 
-## JagerMech JM7-C3BS
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 197 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Snub-Nose PPC × 2
-  - ER Medium Laser
-  - Light AC/2 × 4 (ammo: 90)
-- **Equipment:**
-  - CASE
-  - C3 Boosted Slave
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1671/jagermech-jm7-c3bs)
-- **Battle Value:** 1354
+## JagerMech JM7-C3BS 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 197 (Ferro Fibrous) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Snub-Nose PPC × 2 
+  - ER Medium Laser 
+  - Light AC/2 × 4 (ammo: 90) 
+- **Equipment:** 
+  - CASE 
+  - C3 Boosted Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671/jagermech-jm7-c3bs) 
+- **Battle Value:** 1354 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Capellan Confederation
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
 

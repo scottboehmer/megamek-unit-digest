@@ -1,61 +1,68 @@
-# Javelin JVN-11B
+# Javelin JVN-11B 
 
-[Other Javelin variants](../javelin.md)
+[Other Javelin variants](../javelin.md) 
 
-## Javelin JVN-11B
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3054)
-- **Chassis:** 30 tons
-- **Movement:** 6 / 9
-- **Armor:** 89 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - SRM 4 × 2 (ammo: 50)
-- **Equipment:**
-  - Guardian ECM Suite
-  - Beagle Active Probe
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1678/javelin-jvn-11b)
-- **Battle Value:** 678
+## Javelin JVN-11B 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3054) 
+- **Chassis:** 30 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 89 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - SRM 4 × 2 (ammo: 50) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Beagle Active Probe 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678/javelin-jvn-11b) 
+- **Battle Value:** 678 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Dark Ages
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
 

@@ -1,48 +1,57 @@
-# Phoenix Hawk PXH-1K
+# Phoenix Hawk PXH-1K 
 
-[Other Phoenix Hawk variants](../phoenix_hawk.md)
+[Other Phoenix Hawk variants](../phoenix_hawk.md) 
 
-## Phoenix Hawk PXH-1K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2603)
-- **Chassis:** 45 tons
-- **Movement:** 6 / 9
-- **Armor:** 152
-- **Heat Sinks:** 13 (13)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser × 2
-  - Small Laser
-- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k)
-- **Battle Value:** 1073
+## Phoenix Hawk PXH-1K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2603) 
+- **Chassis:** 45 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 152 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 2 
+  - Small Laser 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k) 
+- **Battle Value:** 1073 
 
-### Star League
-- Draconis Combine
+## Availability 
 
-### Early Succession Wars
-- Draconis Combine
+### Star League 
 
-### Late Succession Wars - LosTech
-- Draconis Combine
+- Draconis Combine 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
-- Free Rasalhague Republic
+### Early Succession Wars 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Late Succession Wars - Renaissance 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Clan Invasion 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Civil War 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
 

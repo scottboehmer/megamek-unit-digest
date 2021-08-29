@@ -1,31 +1,36 @@
-# Flea FLE-16
+# Flea FLE-16 
 
-[Other Flea variants](../flea.md)
+[Other Flea variants](../flea.md) 
 
-## Flea FLE-16
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3032)
-- **Chassis:** 20 tons
-- **Movement:** 9 / 14
-- **Armor:** 48
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 2
-  - Flamer
-- **Sources:** TRO Succession Wars - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16)
-- **Battle Value:** 506
+## Flea FLE-16 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3032) 
+- **Chassis:** 20 tons 
+- **Movement:** 9 / 14 
+- **Armor:** 48 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Flamer 
+- **Sources:** TRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16) 
+- **Battle Value:** 506 
 
-### Late Succession Wars - Renaissance
-- Wolf's Dragoons
+## Availability 
 
-### Clan Invasion
-- Wolf's Dragoons
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Wolf's Dragoons
+- Wolf's Dragoons 
 
-### Jihad
-- Wolf's Dragoons
+### Clan Invasion 
+
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Wolf's Dragoons 
 

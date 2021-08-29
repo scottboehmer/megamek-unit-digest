@@ -1,43 +1,48 @@
-# Koschei KSC-5MC
+# Koschei KSC-5MC 
 
-[Other Koschei variants](../koschei.md)
+[Other Koschei variants](../koschei.md) 
 
-## Koschei KSC-5MC
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 211 (Light Ferro Fibrous)
-- **Cockpit:** Small
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - Snub-Nose PPC
-  - ER Large Laser
-  - ER Small Laser × 5
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc)
-- **Battle Value:** 1764
+## Koschei KSC-5MC 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 211 (Light Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - RAC/5 (ammo: 60) 
+  - Snub-Nose PPC 
+  - ER Large Laser 
+  - ER Small Laser × 5 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc) 
+- **Battle Value:** 1764 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+- Capellan Confederation 
+- Magistracy of Canopus 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
 

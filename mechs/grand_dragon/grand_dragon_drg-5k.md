@@ -1,56 +1,63 @@
-# Grand Dragon DRG-5K
+# Grand Dragon DRG-5K 
 
-[Other Grand Dragon variants](../grand_dragon.md)
+[Other Grand Dragon variants](../grand_dragon.md) 
 
-## Grand Dragon DRG-5K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 60 tons
-- **Movement:** 6 / 9, XL
-- **Armor:** 160
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - LRM 10 (ammo: 24)
-  - Medium Laser × 3
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1258/grand-dragon-drg-5k)
-- **Battle Value:** 1358
+## Grand Dragon DRG-5K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 60 tons 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 160 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER PPC 
+  - LRM 10 (ammo: 24) 
+  - Medium Laser × 3 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1258/grand-dragon-drg-5k) 
+- **Battle Value:** 1358 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+## Availability 
 
-### Civil War
-- Clan Nova Cat
-- Draconis Combine
-- Free Rasalhague Republic
+### Clan Invasion 
 
-### Jihad
-- Clan Nova Cat
-- Draconis Combine
-- Free Rasalhague Republic
-- Word of Blake
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Early Republic
-- Clan Nova Cat
-- Draconis Combine
-- Mercenary
-- Rasalhague Dominion
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Clan Nova Cat
-- Draconis Combine
-- Mercenary
-- Rasalhague Dominion
-- Republic of the Sphere
+- Clan Nova Cat 
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Dark Ages
-- Clan Nova Cat
-- Draconis Combine
-- Mercenary
+### Jihad 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Word of Blake 
+
+### Early Republic 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Mercenary 
 

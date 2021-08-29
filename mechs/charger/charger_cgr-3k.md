@@ -1,48 +1,54 @@
-# Charger CGR-3K
+# Charger CGR-3K 
 
-[Other Charger variants](../charger.md)
+[Other Charger variants](../charger.md) 
 
-## Charger CGR-3K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3049)
-- **Chassis:** 80 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - LRM 20 w/ Artemis IV (ammo: 12)
-  - Medium Pulse Laser × 4
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/565/charger-cgr-3k)
-- **Battle Value:** 1656
+## Charger CGR-3K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3049) 
+- **Chassis:** 80 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV (ammo: 12) 
+  - Medium Pulse Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/565/charger-cgr-3k) 
+- **Battle Value:** 1656 
 
-### Clan Invasion
-- Capellan Confederation
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+- Capellan Confederation 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+- Capellan Confederation 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Jihad 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
 

@@ -1,35 +1,40 @@
-# Storm Giant 2
+# Storm Giant 2 
 
-[Other Storm Giant variants](../storm_giant.md)
+[Other Storm Giant variants](../storm_giant.md) 
 
-## Storm Giant 2
-- **Role:** Missile Boat
-- **Tech Base:** Clan (2862)
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 297 (Ferro Fibrous)
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 15)
-  - ER Large Laser × 2
-  - LRM 20 × 2 (ammo: 24)
-  - ER Medium Laser
-- **Equipment:**
-  - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5145/storm-giant-2)
-- **Battle Value:** 2891
+## Storm Giant 2 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (2862) 
+- **Chassis:** 100 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 297 (Ferro Fibrous) 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 15) 
+  - ER Large Laser × 2 
+  - LRM 20 × 2 (ammo: 24) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5145/storm-giant-2) 
+- **Battle Value:** 2891 
 
-### Early Succession Wars
-- Clan Steel Viper
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Steel Viper
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Steel Viper
+- Clan Steel Viper 
 
-### Clan Invasion
-- Clan Steel Viper
+### Late Succession Wars - LosTech 
+
+- Clan Steel Viper 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Steel Viper 
+
+### Clan Invasion 
+
+- Clan Steel Viper 
 

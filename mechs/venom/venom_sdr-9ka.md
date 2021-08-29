@@ -1,49 +1,56 @@
-# Venom SDR-9KA
+# Venom SDR-9KA 
 
-[Other Venom variants](../venom.md)
+[Other Venom variants](../venom.md) 
 
-## Venom SDR-9KA
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 35 tons
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 8
-- **Armor:** 98 (Ferro Fibrous)
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - Medium Pulse Laser × 3
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3399/venom-sdr-9ka)
-- **Battle Value:** 865
+## Venom SDR-9KA 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 35 tons 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 98 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - Medium Pulse Laser × 3 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3399/venom-sdr-9ka) 
+- **Battle Value:** 865 
 
-### Clan Invasion
-- Draconis Combine
-- Free Worlds League
-- Mercenary
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Worlds League
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Free Worlds League
-- Mercenary
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
-- Rim Commonality
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
-- Rim Commonality
+### Jihad 
+
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Rim Commonality 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+- Rim Commonality 
 

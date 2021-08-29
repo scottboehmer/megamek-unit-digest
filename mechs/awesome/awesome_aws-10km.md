@@ -1,54 +1,60 @@
-# Awesome AWS-10KM
+# Awesome AWS-10KM 
 
-[Other Awesome variants](../awesome.md)
+[Other Awesome variants](../awesome.md) 
 
-## Awesome AWS-10KM
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 3 / 5, Compact
-- **Armor:** 247
-- **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - Heavy PPC × 2
-  - Snub-Nose PPC
-- **Equipment:**
-  - Guardian ECM Suite
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km)
-- **Battle Value:** 1961
+## Awesome AWS-10KM 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 3 / 5, Compact 
+- **Armor:** 247 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - Heavy PPC × 2 
+  - Snub-Nose PPC 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km) 
+- **Battle Value:** 1961 
 
-### Civil War
-- Draconis Combine
-- Free Worlds League
-- Word of Blake
+## Availability 
 
-### Jihad
-- Draconis Combine
-- Free Worlds League
-- Word of Blake
+### Civil War 
 
-### Early Republic
-- Draconis Combine
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+- Draconis Combine 
+- Free Worlds League 
+- Word of Blake 
 
-### Late Republic
-- Draconis Combine
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Draconis Combine
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+- Draconis Combine 
+- Free Worlds League 
+- Word of Blake 
+
+### Early Republic 
+
+- Draconis Combine 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
 

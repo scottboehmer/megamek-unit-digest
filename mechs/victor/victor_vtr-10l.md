@@ -1,50 +1,56 @@
-# Victor VTR-10L
+# Victor VTR-10L 
 
-[Other Victor variants](../victor.md)
+[Other Victor variants](../victor.md) 
 
-## Victor VTR-10L
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 247 (Stealth)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle (ammo: 24)
-  - ER Medium Laser × 3
-  - SRM 6 (ammo: 15)
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3405/victor-vtr-10l)
-- **Battle Value:** 2279
+## Victor VTR-10L 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 247 (Stealth) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+  - ER Medium Laser × 3 
+  - SRM 6 (ammo: 15) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405/victor-vtr-10l) 
+- **Battle Value:** 2279 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
+## Availability 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
+### Civil War 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Republic of the Sphere
+- Capellan Confederation 
+- Magistracy of Canopus 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
-- Republic of the Sphere
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Republic of the Sphere 
 

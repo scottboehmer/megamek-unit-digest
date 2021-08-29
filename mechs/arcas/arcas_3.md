@@ -1,36 +1,41 @@
-# Arcas 3
+# Arcas 3 
 
-[Other Arcas variants](../arcas.md)
+[Other Arcas variants](../arcas.md) 
 
-## Arcas 3
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3078)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 7
-- **Armor:** 201 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Heavy Large Laser
-  - Medium Pulse Laser × 2
-  - Streak SRM 4 (ammo: 25)
-- **Equipment:**
-  - Targeting Computer
-  - CASE
-- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5686/arcas-3)
-- **Battle Value:** 2305
+## Arcas 3 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3078) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 7 
+- **Armor:** 201 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Heavy Large Laser 
+  - Medium Pulse Laser × 2 
+  - Streak SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - Targeting Computer 
+  - CASE 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5686/arcas-3) 
+- **Battle Value:** 2305 
 
-### Jihad
-- Clan Ghost Bear
+## Availability 
 
-### Early Republic
-- Rasalhague Dominion
+### Jihad 
 
-### Late Republic
-- Rasalhague Dominion
+- Clan Ghost Bear 
 
-### Dark Ages
-- Rasalhague Dominion
+### Early Republic 
+
+- Rasalhague Dominion 
+
+### Late Republic 
+
+- Rasalhague Dominion 
+
+### Dark Ages 
+
+- Rasalhague Dominion 
 

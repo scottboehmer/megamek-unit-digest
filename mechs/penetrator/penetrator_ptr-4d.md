@@ -1,63 +1,70 @@
-# Penetrator PTR-4D
+# Penetrator PTR-4D 
 
-[Other Penetrator variants](../penetrator.md)
+[Other Penetrator variants](../penetrator.md) 
 
-## Penetrator PTR-4D
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3053)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 208
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Medium Pulse Laser × 6
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2465/penetrator-ptr-4d)
-- **Battle Value:** 1687
+## Penetrator PTR-4D 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3053) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 208 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Medium Pulse Laser × 6 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2465/penetrator-ptr-4d) 
+- **Battle Value:** 1687 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Capellan Confederation
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

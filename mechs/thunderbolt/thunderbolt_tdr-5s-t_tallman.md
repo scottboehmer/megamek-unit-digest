@@ -1,26 +1,29 @@
-# Thunderbolt TDR-5S-T (Tallman)
+# Thunderbolt TDR-5S-T (Tallman) 
 
-[Other Thunderbolt variants](../thunderbolt.md)
+[Other Thunderbolt variants](../thunderbolt.md) 
 
-## Thunderbolt TDR-5S-T (Tallman)
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3025)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 208
-- **Heat Sinks:** 23 (23)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser × 8
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242/thunderbolt-tdr-5s-t-tallman)
-- **Battle Value:** 1447
+## Thunderbolt TDR-5S-T (Tallman) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3025) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 208 
+- **Heat Sinks:** 23 (23) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 8 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242/thunderbolt-tdr-5s-t-tallman) 
+- **Battle Value:** 1447 
 
-### Late Succession Wars - Renaissance (Unique)
-- Federated Suns
+## Availability 
 
-### Clan Invasion (Unique)
-- Federated Commonwealth
-- Federated Suns
+### Late Succession Wars - Renaissance (Unique) 
+
+- Federated Suns 
+
+### Clan Invasion (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
 

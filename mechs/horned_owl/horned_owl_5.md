@@ -1,37 +1,43 @@
-# Horned Owl 5
+# Horned Owl 5 
 
-[Other Horned Owl variants](../horned_owl.md)
+[Other Horned Owl variants](../horned_owl.md) 
 
-## Horned Owl 5 "Peregrine"
-- **Role:** Sniper
-- **Tech Base:** Clan (3066)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 96 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Heavy Medium Laser
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2476/peregrine-horned-owl-5)
-- **Battle Value:** 1523
+## Horned Owl 5 "Peregrine" 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3066) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 96 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Heavy Medium Laser 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476/peregrine-horned-owl-5) 
+- **Battle Value:** 1523 
 
-### Civil War
-- Clan Goliath Scorpion
+## Availability 
 
-### Jihad
-- Clan Goliath Scorpion
-- Escorpión Imperio
+### Civil War 
 
-### Early Republic
-- Escorpión Imperio
+- Clan Goliath Scorpion 
 
-### Late Republic
-- Escorpión Imperio
+### Jihad 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+- Clan Goliath Scorpion 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

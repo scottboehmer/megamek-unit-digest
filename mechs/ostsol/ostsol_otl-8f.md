@@ -1,23 +1,25 @@
-# Ostsol OTL-8F
+# Ostsol OTL-8F 
 
-[Other Ostsol variants](../ostsol.md)
+[Other Ostsol variants](../ostsol.md) 
 
-## Ostsol OTL-8F
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3145)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 197 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Medium Laser × 4
-- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f)
-- **Battle Value:** 1698
+## Ostsol OTL-8F 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3145) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 197 (Ferro Fibrous) 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Medium Laser × 4 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f) 
+- **Battle Value:** 1698 
 
-### Dark Ages
-- Draconis Combine
+## Availability 
+
+### Dark Ages 
+
+- Draconis Combine 
 

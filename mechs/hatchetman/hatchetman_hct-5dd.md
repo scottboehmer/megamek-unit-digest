@@ -1,49 +1,55 @@
-# Hatchetman HCT-5DD
+# Hatchetman HCT-5DD 
 
-[Other Hatchetman variants](../hatchetman.md)
+[Other Hatchetman variants](../hatchetman.md) 
 
-## Hatchetman HCT-5DD
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3065)
-- **Chassis:** 45 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 153
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - RAC/2 (ammo: 90)
-  - ER Medium Laser
-  - Hatchet
-- **Equipment:**
-  - Targeting Computer
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd)
-- **Battle Value:** 1112
+## Hatchetman HCT-5DD 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 45 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 153 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - RAC/2 (ammo: 90) 
+  - ER Medium Laser 
+  - Hatchet 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd) 
+- **Battle Value:** 1112 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Jihad
-- Federated Suns
-- Mercenary
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Calderon Protectorate
-- Mercenary
-- Republic of the Sphere
+- Federated Suns 
+- Mercenary 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Mercenary 
+- Republic of the Sphere 
 

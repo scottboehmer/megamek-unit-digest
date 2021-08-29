@@ -1,41 +1,47 @@
-# Charger CGR-SB 'Challenger'
+# Charger CGR-SB 'Challenger' 
 
-[Other Charger variants](../charger.md)
+[Other Charger variants](../charger.md) 
 
-## Charger CGR-SB 'Challenger'
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3025)
-- **Chassis:** 80 tons
-- **Movement:** 3 / 5
-- **Armor:** 247
-- **Heat Sinks:** 28 (28)
-- **Weapons:**
-  - Large Laser × 4
-  - Medium Laser
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger)
-- **Battle Value:** 1604
+## Charger CGR-SB 'Challenger' 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3025) 
+- **Chassis:** 80 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 247 
+- **Heat Sinks:** 28 (28) 
+- **Weapons:** 
+  - Large Laser × 4 
+  - Medium Laser 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger) 
+- **Battle Value:** 1604 
 
-### Late Succession Wars - Renaissance
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Lyran Alliance
-- Mercenary
+- Lyran Commonwealth 
+- Mercenary 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+### Clan Invasion 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+- Federated Commonwealth 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Civil War 
+
+- Lyran Alliance 
+- Mercenary 
+
+### Jihad 
+
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
 

@@ -1,23 +1,24 @@
-# Crusader CRD-3R (Crael)
+# Crusader CRD-3R (Crael) 
 
-[Other Crusader variants](../crusader.md)
+[Other Crusader variants](../crusader.md) 
 
-## Crusader CRD-3R (Crael)
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3040)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 192
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - SRM 6 × 4 (ammo: 15)
-  - Medium Laser × 2
-  - Claw × 2
-  - Machine Gun × 2 (ammo: 200)
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael)
-- **Battle Value:** 1204
+## Crusader CRD-3R (Crael) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3040) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 192 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 6 × 4 (ammo: 15) 
+  - Medium Laser × 2 
+  - Claw × 2 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael) 
+- **Battle Value:** 1204 
 
-Availability Unknown
+## Availability 
+
+Availability Unknown 
 

@@ -1,55 +1,62 @@
-# Hollander BZK-G1
+# Hollander BZK-G1 
 
-[Other Hollander variants](../hollander.md)
+[Other Hollander variants](../hollander.md) 
 
-## Hollander BZK-G1
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 107 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Medium Laser × 2
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1537/hollander-bzk-g1)
-- **Battle Value:** 873
+## Hollander BZK-G1 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 107 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - Medium Laser × 2 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1537/hollander-bzk-g1) 
+- **Battle Value:** 873 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

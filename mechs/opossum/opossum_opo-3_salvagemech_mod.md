@@ -1,27 +1,29 @@
-# Opossum OPO-3 SalvageMech MOD
+# Opossum OPO-3 SalvageMech MOD 
 
-[Other Opossum variants](../opossum.md)
+[Other Opossum variants](../opossum.md) 
 
-## Opossum OPO-3 SalvageMech MOD
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3145)
-- **Chassis:** 25 tons (Industrial)
-- **Movement:** 3 / 5, ICE
-- **Armor:** 48
-- **Heat Sinks:** 1 (1)
-- **Weapons:**
-  - Light AC/2 (ammo: 45)
-- **Equipment:**
-  - Salvage Arm
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7848/opossum-opo-3-salvagemech-mod)
-- **Battle Value:** 239
+## Opossum OPO-3 SalvageMech MOD 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3145) 
+- **Chassis:** 25 tons (Industrial) 
+- **Movement:** 3 / 5, ICE 
+- **Armor:** 48 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Light AC/2 (ammo: 45) 
+- **Equipment:** 
+  - Salvage Arm 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7848/opossum-opo-3-salvagemech-mod) 
+- **Battle Value:** 239 
 
-### Dark Ages
-- Capellan Confederation
-- Federated Suns
-- Mercenary
-- Pirate
-- Republic of the Sphere
+## Availability 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
 

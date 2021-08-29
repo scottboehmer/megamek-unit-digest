@@ -1,61 +1,68 @@
-# Panther PNT-10KA
+# Panther PNT-10KA 
 
-[Other Panther variants](../panther.md)
+[Other Panther variants](../panther.md) 
 
-## Panther PNT-10KA
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3055)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 104
-- **Heat Sinks:** 13 (13)
-- **Weapons:**
-  - PPC
-  - SRM 4 w/ Artemis IV (ammo: 25)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4785/panther-pnt-10ka)
-- **Battle Value:** 797
+## Panther PNT-10KA 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3055) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 104 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - PPC 
+  - SRM 4 w/ Artemis IV (ammo: 25) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4785/panther-pnt-10ka) 
+- **Battle Value:** 797 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+## Availability 
 
-### Civil War
-- Clan Nova Cat
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Clan Nova Cat
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Clan Nova Cat 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Dark Ages
-- Calderon Protectorate
-- Draconis Combine
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Jihad 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

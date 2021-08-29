@@ -1,50 +1,58 @@
-# Catapult CPLT-A1
+# Catapult CPLT-A1 
 
-[Other Catapult variants](../catapult.md)
+[Other Catapult variants](../catapult.md) 
 
-## Catapult CPLT-A1
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (2563)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 192
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 32)
-- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/477/catapult-cplt-a1)
-- **Battle Value:** 1285
+## Catapult CPLT-A1 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2563) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 192 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 32) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/477/catapult-cplt-a1) 
+- **Battle Value:** 1285 
 
-### Star League
-- Capellan Confederation
-- Free Worlds League
-- Rim Worlds Republic - Terran Corps
-- Star League
-- Star League - Royal Divisions
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+- Capellan Confederation 
+- Free Worlds League 
+- Rim Worlds Republic - Terran Corps 
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+### Early Succession Wars 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
 
-### Civil War
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Capellan Confederation
+- Capellan Confederation 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Jihad 
+
+- Capellan Confederation 
 

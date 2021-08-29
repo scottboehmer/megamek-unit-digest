@@ -1,51 +1,57 @@
-# Hatchetman HCT-5D
+# Hatchetman HCT-5D 
 
-[Other Hatchetman variants](../hatchetman.md)
+[Other Hatchetman variants](../hatchetman.md) 
 
-## Hatchetman HCT-5D
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 112
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Ultra AC/10 (ammo: 20)
-  - ER Medium Laser
-  - Hatchet
-- **Equipment:**
-  - Targeting Computer
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/5445/hatchetman-hct-5d)
-- **Battle Value:** 1012
+## Hatchetman HCT-5D 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 112 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 20) 
+  - ER Medium Laser 
+  - Hatchet 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5445/hatchetman-hct-5d) 
+- **Battle Value:** 1012 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Jihad
-- Federated Suns
-- Mercenary
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+- Federated Suns 
+- Mercenary 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
 

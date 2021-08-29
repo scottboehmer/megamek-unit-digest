@@ -1,26 +1,28 @@
-# Ion Sparrow C
+# Ion Sparrow C 
 
-[Other Ion Sparrow variants](../ion_sparrow.md)
+[Other Ion Sparrow variants](../ion_sparrow.md) 
 
-## Ion Sparrow "Butcherbird" C
-- **Role:** Scout
-- **Tech Base:** Clan (3147)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 10
-- **Armor:** 57 (Ferro Fibrous)
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (23)
-- **Weapons:**
-  - ER Small Laser × 6
-- **Equipment:**
-  - Partial Wing
-  - Targeting Computer
-- **Sources:** ilClan Vol 11 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7741/butcherbird-ion-sparrow-c)
-- **Battle Value:** 889
+## Ion Sparrow "Butcherbird" C 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Clan (3147) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 10 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (23) 
+- **Weapons:** 
+  - ER Small Laser × 6 
+- **Equipment:** 
+  - Partial Wing 
+  - Targeting Computer 
+- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7741/butcherbird-ion-sparrow-c) 
+- **Battle Value:** 889 
 
-### Dark Ages
-- Clan Jade Falcon
+## Availability 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

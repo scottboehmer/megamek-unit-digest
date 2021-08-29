@@ -1,84 +1,95 @@
-# Black Knight BL-6b-KNT
+# Black Knight BL-6b-KNT 
 
-[Other Black Knight variants](../black_knight.md)
+[Other Black Knight variants](../black_knight.md) 
 
-## Black Knight BL-6b-KNT
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2751)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 208
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC
-  - Large Pulse Laser × 2
-  - Medium Laser × 4
-  - Small Laser
-- **Equipment:**
-  - Beagle Active Probe
-- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/357/black-knight-bl-6b-knt)
-- **Battle Value:** 1627
+## Black Knight BL-6b-KNT 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2751) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 208 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC 
+  - Large Pulse Laser × 2 
+  - Medium Laser × 4 
+  - Small Laser 
+- **Equipment:** 
+  - Beagle Active Probe 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/357/black-knight-bl-6b-knt) 
+- **Battle Value:** 1627 
 
-### Star League
-- Free Worlds League
-- Rim Worlds Republic - Terran Corps
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Clan Coyote
-- ComStar
-- Free Worlds League
-- Star League-in-Exile
+### Star League 
 
-### Late Succession Wars - LosTech
-- ComStar
+- Free Worlds League 
+- Rim Worlds Republic - Terran Corps 
+- Star League - Royal Divisions 
 
-### Late Succession Wars - Renaissance
-- ComStar
+### Early Succession Wars 
 
-### Clan Invasion
-- ComStar
-- Word of Blake
+- Clan Coyote 
+- ComStar 
+- Free Worlds League 
+- Star League-in-Exile 
 
-### Civil War
-- ComStar
-- Free Worlds League
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- ComStar
-- Escorpión Imperio
-- Free Worlds League
-- Word of Blake
+- ComStar 
 
-### Early Republic
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+- ComStar 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Free Worlds League
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
-- Scorpion Empire
+### Clan Invasion 
+
+- ComStar 
+- Word of Blake 
+
+### Civil War 
+
+- ComStar 
+- Free Worlds League 
+- Word of Blake 
+
+### Jihad 
+
+- ComStar 
+- Escorpión Imperio 
+- Free Worlds League 
+- Word of Blake 
+
+### Early Republic 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Free Worlds League 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
+- Scorpion Empire 
 

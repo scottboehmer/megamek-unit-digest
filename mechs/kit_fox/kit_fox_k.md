@@ -1,48 +1,52 @@
-# Kit Fox K
+# Kit Fox K 
 
-[Other Kit Fox variants](../kit_fox.md)
+[Other Kit Fox variants](../kit_fox.md) 
 
-## Kit Fox "Uller" K
-- **Role:** Striker
-- **Tech Base:** Clan (3088)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Improved Heavy Large Laser
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-- **Equipment:**
-  - CASE
-- **Sources:** ilClan Vol 11 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k)
-- **Battle Value:** 1109
+## Kit Fox "Uller" K 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3088) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 76 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Improved Heavy Large Laser 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k) 
+- **Battle Value:** 1109 
 
-### Early Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Mercenary
-- Raven Alliance
-- Wolf's Dragoons
+## Availability 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Mercenary
-- Raven Alliance
-- Wolf's Dragoons
+### Early Republic 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Mercenary
-- Raven Alliance
-- Wolf's Dragoons
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Mercenary 
+- Raven Alliance 
+- Wolf's Dragoons 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Mercenary 
+- Raven Alliance 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Mercenary 
+- Raven Alliance 
+- Wolf's Dragoons 
 

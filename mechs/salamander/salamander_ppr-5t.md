@@ -1,51 +1,58 @@
-# Salamander PPR-5T
+# Salamander PPR-5T 
 
-[Other Salamander variants](../salamander.md)
+[Other Salamander variants](../salamander.md) 
 
-## Salamander PPR-5T
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 216
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 15 × 3 (ammo: 48)
-  - Small Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2783/salamander-ppr-5t)
-- **Battle Value:** 1589
+## Salamander PPR-5T 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 216 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 15 × 3 (ammo: 48) 
+  - Small Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2783/salamander-ppr-5t) 
+- **Battle Value:** 1589 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Lyran Alliance
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

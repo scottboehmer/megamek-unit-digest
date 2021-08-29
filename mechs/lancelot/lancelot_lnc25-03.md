@@ -1,46 +1,53 @@
-# Lancelot LNC25-03
+# Lancelot LNC25-03 
 
-[Other Lancelot variants](../lancelot.md)
+[Other Lancelot variants](../lancelot.md) 
 
-## Lancelot LNC25-03
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2876)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 201
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - PPC
-  - AC/5 × 2 (ammo: 20)
-  - Medium Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1856/lancelot-lnc25-03)
-- **Battle Value:** 1360
+## Lancelot LNC25-03 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2876) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 201 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - PPC 
+  - AC/5 × 2 (ammo: 20) 
+  - Medium Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1856/lancelot-lnc25-03) 
+- **Battle Value:** 1360 
 
-### Early Succession Wars
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
+## Availability 
 
-### Late Succession Wars - LosTech
-- ComStar
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- ComStar
-- Draconis Combine
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
 
-### Clan Invasion
-- Draconis Combine
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Draconis Combine
+- ComStar 
 
-### Jihad
-- Draconis Combine
+### Late Succession Wars - Renaissance 
+
+- ComStar 
+- Draconis Combine 
+
+### Clan Invasion 
+
+- Draconis Combine 
+
+### Civil War 
+
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
 

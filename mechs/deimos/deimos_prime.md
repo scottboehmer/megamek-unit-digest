@@ -1,36 +1,41 @@
-# Deimos Prime
+# Deimos Prime 
 
-[Other Deimos variants](../deimos.md)
+[Other Deimos variants](../deimos.md) 
 
-## Deimos Prime
-- **Role:** Sniper
-- **Tech Base:** Clan (3085)
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 3 / 5 (6), XL
-- **Armor:** 232
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 24)
-  - ER Medium Laser × 2
-  - Ultra AC/2 × 6 (ammo: 135)
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-  - MASC
-  - CASE
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/856/deimos-prime)
-- **Battle Value:** 2188
+## Deimos Prime 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3085) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 3 / 5 (6), XL 
+- **Armor:** 232 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 24) 
+  - ER Medium Laser × 2 
+  - Ultra AC/2 × 6 (ammo: 135) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+  - MASC 
+  - CASE 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/856/deimos-prime) 
+- **Battle Value:** 2188 
 
-### Jihad
-- Clan Snow Raven
+## Availability 
 
-### Early Republic
-- Raven Alliance
+### Jihad 
 
-### Late Republic
-- Raven Alliance
+- Clan Snow Raven 
 
-### Dark Ages
-- Raven Alliance
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Raven Alliance 
+
+### Dark Ages 
+
+- Raven Alliance 
 

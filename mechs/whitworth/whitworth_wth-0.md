@@ -1,29 +1,32 @@
-# Whitworth WTH-0
+# Whitworth WTH-0 
 
-[Other Whitworth variants](../whitworth.md)
+[Other Whitworth variants](../whitworth.md) 
 
-## Whitworth WTH-0
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2754)
-- **Chassis:** 40 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 128
-- **Heat Sinks:** 14 (14)
-- **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
-  - Medium Laser × 2
-  - Flamer
-- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/3537/whitworth-wth-0)
-- **Battle Value:** 863
+## Whitworth WTH-0 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2754) 
+- **Chassis:** 40 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 128 
+- **Heat Sinks:** 14 (14) 
+- **Weapons:** 
+  - SRM 6 × 2 (ammo: 30) 
+  - Medium Laser × 2 
+  - Flamer 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3537/whitworth-wth-0) 
+- **Battle Value:** 863 
 
-### Star League
-- Rim Worlds Republic
-- Rim Worlds Republic - Terran Corps
-- Taurian Concordat
+## Availability 
 
-### Early Succession Wars
-- Taurian Concordat
+### Star League 
+
+- Rim Worlds Republic 
+- Rim Worlds Republic - Terran Corps 
+- Taurian Concordat 
+
+### Early Succession Wars 
+
+- Taurian Concordat 
 

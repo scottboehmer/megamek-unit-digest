@@ -1,28 +1,31 @@
-# Snow Fox (Omni) B
+# Snow Fox (Omni) B 
 
-[Other Snow Fox (Omni) variants](../snow_fox_omni.md)
+[Other Snow Fox (Omni) variants](../snow_fox_omni.md) 
 
-## Snow Fox (Omni) B
-- **Role:** Sniper
-- **Tech Base:** Clan (3111)
-- **Chassis:** 20 tons Quad (Endo Steel)
-- **Movement:** 8 / 12 (16), XL
-- **Armor:** 73 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - Medium Pulse Laser
-- **Equipment:**
-  - MASC
-- **Sources:** OTP: Hanseatic Crusade - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7880/snow-fox-omni-b)
-- **Battle Value:** 1249
+## Snow Fox (Omni) B 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3111) 
+- **Chassis:** 20 tons Quad (Endo Steel) 
+- **Movement:** 8 / 12 (16), XL 
+- **Armor:** 73 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - MASC 
+- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7880/snow-fox-omni-b) 
+- **Battle Value:** 1249 
 
-### Late Republic
-- Escorpión Imperio
+## Availability 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

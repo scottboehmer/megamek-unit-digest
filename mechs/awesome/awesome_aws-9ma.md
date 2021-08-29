@@ -1,64 +1,71 @@
-# Awesome AWS-9Ma
+# Awesome AWS-9Ma 
 
-[Other Awesome variants](../awesome.md)
+[Other Awesome variants](../awesome.md) 
 
-## Awesome AWS-9Ma
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 247
-- **Heat Sinks:** 20 (40)
-- **Weapons:**
-  - ER PPC × 3
-  - Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - Command Console
-  - Communications Equipment
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma)
-- **Battle Value:** 1836
+## Awesome AWS-9Ma 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 247 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - ER PPC × 3 
+  - Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Command Console 
+  - Communications Equipment 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma) 
+- **Battle Value:** 1836 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Lyran Alliance
-- Lyran Commonwealth
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Free Worlds League
-- Lyran Alliance
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
 
-### Early Republic
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Alliance 
 
-### Dark Ages
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+### Jihad 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
 

@@ -1,36 +1,41 @@
-# Enforcer III ENF-7C3BS
+# Enforcer III ENF-7C3BS 
 
-[Other Enforcer III variants](../enforcer_iii.md)
+[Other Enforcer III variants](../enforcer_iii.md) 
 
-## Enforcer III ENF-7C3BS
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 168
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Heavy PPC
-  - ER Medium Laser
-  - Medium Pulse Laser
-- **Equipment:**
-  - Targeting Computer
-  - C3 Boosted Slave
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs)
-- **Battle Value:** 1687
+## Enforcer III ENF-7C3BS 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 168 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Heavy PPC 
+  - ER Medium Laser 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Targeting Computer 
+  - C3 Boosted Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs) 
+- **Battle Value:** 1687 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

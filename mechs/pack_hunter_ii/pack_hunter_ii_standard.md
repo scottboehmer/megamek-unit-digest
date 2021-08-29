@@ -1,49 +1,54 @@
-# Pack Hunter II (Standard)
+# Pack Hunter II (Standard) 
 
-[Other Pack Hunter II variants](../pack_hunter_ii.md)
+[Other Pack Hunter II variants](../pack_hunter_ii.md) 
 
-## Pack Hunter II (Standard)
-- **Role:** Striker
-- **Tech Base:** Clan (3077)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 7
-- **Armor:** 86 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-  - ER Medium Laser × 2
-- **Equipment:**
-  - B-Pod × 2
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard)
-- **Battle Value:** 1794
+## Pack Hunter II (Standard) 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 86 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - B-Pod × 2 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard) 
+- **Battle Value:** 1794 
 
-### Jihad
-- Clan Wolf-in-Exile
+## Availability 
 
-### Early Republic
-- Clan Hell's Horses
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Clan Wolf-in-Exile 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Clan Hell's Horses 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

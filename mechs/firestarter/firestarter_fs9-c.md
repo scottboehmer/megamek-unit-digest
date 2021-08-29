@@ -1,44 +1,49 @@
-# Firestarter FS9-C
+# Firestarter FS9-C 
 
-[Other Firestarter variants](../firestarter.md)
+[Other Firestarter variants](../firestarter.md) 
 
-## Firestarter FS9-C
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 35 tons
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 98 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Laser × 2
-  - Rocket 15 × 2
-  - Rocket 10 × 4
-  - Flamer × 2
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1111/firestarter-fs9-c)
-- **Battle Value:** 940
+## Firestarter FS9-C 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 35 tons 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 98 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Rocket 15 × 2 
+  - Rocket 10 × 4 
+  - Flamer × 2 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1111/firestarter-fs9-c) 
+- **Battle Value:** 940 
 
-### Civil War
-- Circinus Federation
+## Availability 
 
-### Jihad
-- Circinus Federation
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Circinus Federation 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Jihad 
+
+- Circinus Federation 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

@@ -1,31 +1,35 @@
-# Shadow Cat II 4
+# Shadow Cat II 4 
 
-[Other Shadow Cat II variants](../shadow_cat_ii.md)
+[Other Shadow Cat II variants](../shadow_cat_ii.md) 
 
-## Shadow Cat II 4
-- **Role:** Sniper
-- **Tech Base:** Clan (3092)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 5
-- **Armor:** 144 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - LRM 10 × 2 (ammo: 24)
-- **Equipment:**
-  - CASE
-- **Sources:** RS 3145 NTNU, [Master Unit List](http://masterunitlist.info/Unit/Details/6885/shadow-cat-ii-4)
-- **Battle Value:** 1986
+## Shadow Cat II 4 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3092) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 5 
+- **Armor:** 144 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - LRM 10 × 2 (ammo: 24) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6885/shadow-cat-ii-4) 
+- **Battle Value:** 1986 
 
-### Early Republic
-- Clan Jade Falcon
+## Availability 
 
-### Late Republic
-- Clan Jade Falcon
+### Early Republic 
 
-### Dark Ages
-- Clan Jade Falcon
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

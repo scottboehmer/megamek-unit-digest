@@ -1,43 +1,50 @@
-# Phoenix Hawk PXH-2K
+# Phoenix Hawk PXH-2K 
 
-[Other Phoenix Hawk variants](../phoenix_hawk.md)
+[Other Phoenix Hawk variants](../phoenix_hawk.md) 
 
-## Phoenix Hawk PXH-2K
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 45 tons
-- **Movement:** 6 / 9
-- **Armor:** 152 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Large Laser
-  - Medium Laser × 4
-  - Small Laser
-- **Sources:** ilClan Vol 11 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2497/phoenix-hawk-pxh-2k)
-- **Battle Value:** 1271
+## Phoenix Hawk PXH-2K 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 45 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Medium Laser × 4 
+  - Small Laser 
+- **Sources:** ilClan Vol 11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2497/phoenix-hawk-pxh-2k) 
+- **Battle Value:** 1271 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
+- Mercenary 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
+### Jihad 
+
+- Draconis Combine 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
 

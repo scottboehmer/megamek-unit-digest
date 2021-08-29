@@ -1,38 +1,43 @@
-# Sphinx 2
+# Sphinx 2 
 
-[Other Sphinx variants](../sphinx.md)
+[Other Sphinx variants](../sphinx.md) 
 
-## Sphinx 2
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3080)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8 (10), XL
-- **Armor:** 216
-- **Heat Sinks:** 22 (44)
-- **Weapons:**
-  - ER Large Laser × 2
-  - ER Small Laser × 10
-- **Equipment:**
-  - MASC
-  - Targeting Computer
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2)
-- **Battle Value:** 2753
+## Sphinx 2 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3080) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 5 / 8 (10), XL 
+- **Armor:** 216 
+- **Heat Sinks:** 22 (44) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - ER Small Laser × 10 
+- **Equipment:** 
+  - MASC 
+  - Targeting Computer 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2) 
+- **Battle Value:** 2753 
 
-### Jihad
-- Clan Nova Cat
+## Availability 
 
-### Early Republic
-- Clan Nova Cat
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Nova Cat
-- Republic of the Sphere
+- Clan Nova Cat 
 
-### Dark Ages
-- Clan Nova Cat
-- Draconis Combine
-- Republic of the Sphere
+### Early Republic 
+
+- Clan Nova Cat 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Republic of the Sphere 
 

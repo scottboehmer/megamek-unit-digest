@@ -1,31 +1,35 @@
-# Hunchback HBK-4G (Hohiro)
+# Hunchback HBK-4G (Hohiro) 
 
-[Other Hunchback variants](../hunchback.md)
+[Other Hunchback variants](../hunchback.md) 
 
-## Hunchback HBK-4G (Hohiro)
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 169 (Ferro Fibrous)
-- **Heat Sinks:** 14 (14)
-- **Weapons:**
-  - Ultra AC/10 (ammo: 20)
-  - Medium Pulse Laser × 2
-  - ER Small Laser
-- **Equipment:**
-  - C3 Slave
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro)
-- **Battle Value:** 1126
+## Hunchback HBK-4G (Hohiro) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 169 (Ferro Fibrous) 
+- **Heat Sinks:** 14 (14) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 20) 
+  - Medium Pulse Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro) 
+- **Battle Value:** 1126 
 
-### Clan Invasion (Unique)
-- Draconis Combine
+## Availability 
 
-### Civil War (Unique)
-- Draconis Combine
+### Clan Invasion (Unique) 
 
-### Jihad (Unique)
-- Draconis Combine
+- Draconis Combine 
+
+### Civil War (Unique) 
+
+- Draconis Combine 
+
+### Jihad (Unique) 
+
+- Draconis Combine 
 

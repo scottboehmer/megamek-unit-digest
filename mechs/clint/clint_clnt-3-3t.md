@@ -1,49 +1,54 @@
-# Clint CLNT-3-3T
+# Clint CLNT-3-3T 
 
-[Other Clint variants](../clint.md)
+[Other Clint variants](../clint.md) 
 
-## Clint CLNT-3-3T
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3069)
-- **Chassis:** 40 tons
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 107 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Light AC/5 (ammo: 40)
-  - Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/649/clint-clnt-3-3t)
-- **Battle Value:** 901
+## Clint CLNT-3-3T 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 40 tons 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 107 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Light AC/5 (ammo: 40) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/649/clint-clnt-3-3t) 
+- **Battle Value:** 901 
 
-### Jihad
-- Taurian Concordat
+## Availability 
 
-### Early Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Jihad 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Taurian Concordat 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

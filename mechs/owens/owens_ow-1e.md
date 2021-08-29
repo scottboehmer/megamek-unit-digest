@@ -1,94 +1,101 @@
-# Owens OW-1E
+# Owens OW-1E 
 
-[Other Owens variants](../owens.md)
+[Other Owens variants](../owens.md) 
 
-## Owens OW-1E
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 35 tons
-- **Movement:** 8 / 12, XL
-- **Armor:** 112
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - MRM 10 (ammo: 24)
-  - Medium Pulse Laser
-  - Medium Laser
-- **Equipment:**
-  - Beagle Active Probe
-  - TAG
-  - C3 Slave
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2389/owens-ow-1e)
-- **Battle Value:** 833
+## Owens OW-1E 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 35 tons 
+- **Movement:** 8 / 12, XL 
+- **Armor:** 112 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - MRM 10 (ammo: 24) 
+  - Medium Pulse Laser 
+  - Medium Laser 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - TAG 
+  - C3 Slave 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2389/owens-ow-1e) 
+- **Battle Value:** 833 
 
-### Clan Invasion
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Jihad 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Late Republic 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 

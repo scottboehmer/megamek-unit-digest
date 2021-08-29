@@ -1,45 +1,52 @@
-# Lancelot C 2
+# Lancelot C 2 
 
-[Other Lancelot variants](../lancelot.md)
+[Other Lancelot variants](../lancelot.md) 
 
-## Lancelot C 2
-- **Role:** Skirmisher
-- **Tech Base:** Clan (2857)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9 (12), XL
-- **Armor:** 152
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER PPC
-  - ER Large Laser × 2
-  - Flamer × 2
-- **Equipment:**
-  - MASC
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7627/lancelot-c-2)
-- **Battle Value:** 2571
+## Lancelot C 2 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (2857) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+- **Armor:** 152 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Large Laser × 2 
+  - Flamer × 2 
+- **Equipment:** 
+  - MASC 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7627/lancelot-c-2) 
+- **Battle Value:** 2571 
 
-### Early Succession Wars
-- Clan Burrock
-- Clan Fire Mandrill
-- Clan Ice Hellion
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Burrock
-- Clan Ice Hellion
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Burrock
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
 
-### Clan Invasion
-- Clan Burrock
-- Clan Star Adder
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Clan Star Adder
+- Clan Burrock 
+- Clan Ice Hellion 
 
-### Jihad
-- Clan Burrock
-- Clan Star Adder
+### Late Succession Wars - Renaissance 
+
+- Clan Burrock 
+
+### Clan Invasion 
+
+- Clan Burrock 
+- Clan Star Adder 
+
+### Civil War 
+
+- Clan Star Adder 
+
+### Jihad 
+
+- Clan Burrock 
+- Clan Star Adder 
 

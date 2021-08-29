@@ -1,41 +1,46 @@
-# Stinger STG-7S
+# Stinger STG-7S 
 
-[Other Stinger variants](../stinger.md)
+[Other Stinger variants](../stinger.md) 
 
-## Stinger STG-7S
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3077)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 8
-- **Armor:** 48
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - ER Medium Laser
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3068/stinger-stg-7s)
-- **Battle Value:** 382
+## Stinger STG-7S 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 8 
+- **Armor:** 48 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3068/stinger-stg-7s) 
+- **Battle Value:** 382 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Early Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

@@ -1,23 +1,24 @@
-# Crossbow CRS-X
+# Crossbow CRS-X 
 
-[Other Crossbow variants](../crossbow.md)
+[Other Crossbow variants](../crossbow.md) 
 
-## Crossbow CRS-X
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (2468)
-- **Chassis:** 60 tons
-- **Movement:** 4 / 6
-- **Armor:** 123 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser × 2
-  - LRM 5 × 4 (ammo: 48)
-- **Sources:** XTRO Primitives II - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x)
-- **Battle Value:** 969
+## Crossbow CRS-X 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2468) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 123 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 2 
+  - LRM 5 × 4 (ammo: 48) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x) 
+- **Battle Value:** 969 
 
-Availability Unknown
+## Availability 
+
+Availability Unknown 
 

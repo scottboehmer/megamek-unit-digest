@@ -1,38 +1,43 @@
-# Ti Ts'ang TSG-9C
+# Ti Ts'ang TSG-9C 
 
-[Other Ti Ts'ang variants](../ti_ts'ang.md)
+[Other Ti Ts'ang variants](../ti_ts'ang.md) 
 
-## Ti Ts'ang TSG-9C
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3069)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11), XL
-  - **Jumping:** 6
-- **Armor:** 200
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Plasma Rifle (ammo: 20)
-  - ER Medium Laser × 2
-  - Hatchet
-  - ER Small Laser × 2
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3252/ti-tsang-tsg-9c)
-- **Battle Value:** 1989
+## Ti Ts'ang TSG-9C 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 6 (7) / 9 (11), XL 
+  - **Jumping:** 6 
+- **Armor:** 200 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - ER Medium Laser × 2 
+  - Hatchet 
+  - ER Small Laser × 2 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252/ti-tsang-tsg-9c) 
+- **Battle Value:** 1989 
 
-### Jihad
-- Capellan Confederation
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

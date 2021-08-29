@@ -1,52 +1,59 @@
-# Howler (Standard)
+# Howler (Standard) 
 
-[Other Howler variants](../howler.md)
+[Other Howler variants](../howler.md) 
 
-## Howler (Standard) "Baboon"
-- **Role:** Missile Boat
-- **Tech Base:** Clan (2871)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11
-- **Armor:** 57 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 5 × 3 (ammo: 72)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3055 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/189/baboon-howler-standard)
-- **Battle Value:** 645
+## Howler (Standard) "Baboon" 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (2871) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 5 × 3 (ammo: 72) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/189/baboon-howler-standard) 
+- **Battle Value:** 645 
 
-### Clan Invasion
-- Clan Fire Mandrill
-- Clan Jade Falcon
-- Clan Snow Raven
+## Availability 
 
-### Civil War
-- Clan Fire Mandrill
-- Clan Jade Falcon
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
+### Clan Invasion 
 
-### Jihad
-- Clan Burrock
-- Clan Fire Mandrill
-- Clan Jade Falcon
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Escorpión Imperio
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
 
-### Early Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
 
-### Dark Ages
-- Clan Jade Falcon
+### Jihad 
+
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

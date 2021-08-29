@@ -1,72 +1,79 @@
-# Thanatos TNS-4S
+# Thanatos TNS-4S 
 
-[Other Thanatos variants](../thanatos.md)
+[Other Thanatos variants](../thanatos.md) 
 
-## Thanatos TNS-4S
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3061)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 208
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER Large Laser
-  - MRM 20 (ammo: 24)
-  - ER Medium Laser × 2
-  - Medium Pulse Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - C3 Slave
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5218/thanatos-tns-4s)
-- **Battle Value:** 1844
+## Thanatos TNS-4S 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3061) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 208 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER Large Laser 
+  - MRM 20 (ammo: 24) 
+  - ER Medium Laser × 2 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - C3 Slave 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218/thanatos-tns-4s) 
+- **Battle Value:** 1844 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Lyran Commonwealth
-- Marian Hegemony
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Lyran Commonwealth
-- Marian Hegemony
-- Mercenary
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Calderon Protectorate
-- Federated Suns
-- Lyran Commonwealth
-- Marian Hegemony
-- Mercenary
-- Republic of the Sphere
+### Jihad 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Republic of the Sphere 
 

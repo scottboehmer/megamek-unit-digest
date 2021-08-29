@@ -1,34 +1,39 @@
-# Wasp LAM WSP-105M
+# Wasp LAM WSP-105M 
 
-[Other Wasp LAM variants](../wasp_lam.md)
+[Other Wasp LAM variants](../wasp_lam.md) 
 
-## Wasp LAM WSP-105M
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3024)
-- **Chassis:** 30 tons LAM
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-  - **AirMech:** 18 / 27
-  - **Aerospace:** 6 / 9
-- **Armor:** 80
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser
-  - LRM 5 (ammo: 24)
-- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/5390/wasp-lam-wsp-105m)
-- **Battle Value:** 907
+## Wasp LAM WSP-105M 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3024) 
+- **Chassis:** 30 tons LAM 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+  - **AirMech:** 18 / 27 
+  - **Aerospace:** 6 / 9 
+- **Armor:** 80 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+  - LRM 5 (ammo: 24) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5390/wasp-lam-wsp-105m) 
+- **Battle Value:** 907 
 
-### Late Succession Wars - Renaissance
-- Free Worlds League
+## Availability 
 
-### Clan Invasion
-- Word of Blake
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Word of Blake
+- Free Worlds League 
 
-### Jihad
-- Word of Blake
+### Clan Invasion 
+
+- Word of Blake 
+
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

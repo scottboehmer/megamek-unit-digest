@@ -1,52 +1,58 @@
-# JagerMech JM6-H
+# JagerMech JM6-H 
 
-[Other JagerMech variants](../jagermech.md)
+[Other JagerMech variants](../jagermech.md) 
 
-## JagerMech JM6-H
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Laser × 2
-  - LB 2-X AC × 2 (ammo: 45 Cluster)
-  - Rocket 15 × 6
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1669/jagermech-jm6-h)
-- **Battle Value:** 1348
+## JagerMech JM6-H 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Large Laser × 2 
+  - LB 2-X AC × 2 (ammo: 45 Cluster) 
+  - Rocket 15 × 6 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1669/jagermech-jm6-h) 
+- **Battle Value:** 1348 
 
-### Civil War
-- Marian Hegemony
-- Pirate
+## Availability 
 
-### Jihad
-- Marian Hegemony
-- Pirate
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Marian Hegemony 
+- Pirate 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Jihad 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Marian Hegemony 
+- Pirate 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

@@ -1,30 +1,34 @@
-# Marauder II MAD-5B
+# Marauder II MAD-5B 
 
-[Other Marauder II variants](../marauder_ii.md)
+[Other Marauder II variants](../marauder_ii.md) 
 
-## Marauder II MAD-5B
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-  - **Jumping:** 3
-- **Armor:** 304
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Gauss Rifle (ammo: 24)
-  - ER PPC × 2
-  - Medium Laser × 2
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b)
-- **Battle Value:** 2589
+## Marauder II MAD-5B 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+  - **Jumping:** 3 
+- **Armor:** 304 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+  - ER PPC × 2 
+  - Medium Laser × 2 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
+- **Battle Value:** 2589 
 
-### Clan Invasion
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad (Unique)
-- Solaris 7
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Wolf's Dragoons 
+
+### Jihad (Unique) 
+
+- Solaris 7 
 

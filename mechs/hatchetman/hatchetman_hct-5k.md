@@ -1,38 +1,43 @@
-# Hatchetman HCT-5K
+# Hatchetman HCT-5K 
 
-[Other Hatchetman variants](../hatchetman.md)
+[Other Hatchetman variants](../hatchetman.md) 
 
-## Hatchetman HCT-5K
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 144
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - MRM 30 (ammo: 16)
-  - ER Medium Laser
-  - Medium Pulse Laser × 2
-  - Sword
-- **Equipment:**
-  - CASE
-  - C3 Slave
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1412/hatchetman-hct-5k)
-- **Battle Value:** 1070
+## Hatchetman HCT-5K 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - MRM 30 (ammo: 16) 
+  - ER Medium Laser 
+  - Medium Pulse Laser × 2 
+  - Sword 
+- **Equipment:** 
+  - CASE 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1412/hatchetman-hct-5k) 
+- **Battle Value:** 1070 
 
-### Jihad
-- Draconis Combine
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Draconis Combine
+### Jihad 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
+- Word of Blake 
 
-### Dark Ages
-- Draconis Combine
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

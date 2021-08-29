@@ -1,31 +1,35 @@
-# Lineholder KW2-LHW
+# Lineholder KW2-LHW 
 
-[Other Lineholder variants](../lineholder.md)
+[Other Lineholder variants](../lineholder.md) 
 
-## Lineholder KW2-LHW
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3065)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Large Laser
-  - ER Medium Laser × 4
-  - LRM 5 × 2 (ammo: 24)
-- **Equipment:**
-  - C3i
-- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1896/lineholder-kw2-lhw)
-- **Battle Value:** 1484
+## Lineholder KW2-LHW 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - ER Large Laser 
+  - ER Medium Laser × 4 
+  - LRM 5 × 2 (ammo: 24) 
+- **Equipment:** 
+  - C3i 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1896/lineholder-kw2-lhw) 
+- **Battle Value:** 1484 
 
-### Civil War
-- Word of Blake
+## Availability 
 
-### Jihad
-- Word of Blake
+### Civil War 
 
-### Early Republic
-- Republic of the Sphere
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
+
+### Early Republic 
+
+- Republic of the Sphere 
 

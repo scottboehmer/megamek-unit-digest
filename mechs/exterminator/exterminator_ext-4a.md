@@ -1,31 +1,35 @@
-# Exterminator EXT-4A
+# Exterminator EXT-4A 
 
-[Other Exterminator variants](../exterminator.md)
+[Other Exterminator variants](../exterminator.md) 
 
-## Exterminator EXT-4A
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3007)
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 176
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - LRM 10 (ammo: 12)
-  - Medium Laser × 4
-  - Small Laser
-  - Machine Gun (ammo: 200)
-- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4147/exterminator-ext-4a)
-- **Battle Value:** 1372
+## Exterminator EXT-4A 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3007) 
+- **Chassis:** 65 tons 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 10 (ammo: 12) 
+  - Medium Laser × 4 
+  - Small Laser 
+  - Machine Gun (ammo: 200) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147/exterminator-ext-4a) 
+- **Battle Value:** 1372 
 
-### Late Succession Wars - LosTech
-- Free Worlds League
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Free Worlds League
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Free Worlds League
+- Free Worlds League 
+
+### Late Succession Wars - Renaissance 
+
+- Free Worlds League 
+
+### Clan Invasion 
+
+- Free Worlds League 
 

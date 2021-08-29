@@ -1,145 +1,156 @@
-# DemolitionMech WI-DM2
+# DemolitionMech WI-DM2 
 
-[Other DemolitionMech variants](../demolitionmech.md)
+[Other DemolitionMech variants](../demolitionmech.md) 
 
-## DemolitionMech WI-DM2
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (2514)
-- **Chassis:** 35 tons (Industrial)
-- **Movement:** 3 / 5, Fuel Cell
-- **Armor:** 75 (Industrial)
-- **Heat Sinks:** 1 (1)
-- **Weapons:**
-  - Dual Saw
-  - Wrecking Ball
-- **Equipment:**
-  - Cargo
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/869/demolitionmech-wi-dm2)
-- **Battle Value:** 350
+## DemolitionMech WI-DM2 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2514) 
+- **Chassis:** 35 tons (Industrial) 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 75 (Industrial) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Dual Saw 
+  - Wrecking Ball 
+- **Equipment:** 
+  - Cargo 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/869/demolitionmech-wi-dm2) 
+- **Battle Value:** 350 
 
-### Star League
-- Capellan Confederation
-- Federated Suns
-- Free Worlds League
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Federated Suns
-- Free Worlds League
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+- Capellan Confederation 
+- Federated Suns 
+- Free Worlds League 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+### Early Succession Wars 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
+- Federated Suns 
+- Free Worlds League 
 
-### Civil War
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Capellan Confederation
-- Escorpión Imperio
+- Capellan Confederation 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Clan Diamond Shark
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Federated Suns
-- Filtvelt Coalition
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Pirate
-- Rasalhague Dominion
-- Raven Alliance
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
-- Taurian Concordat
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Clan Diamond Shark
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Federated Suns
-- Filtvelt Coalition
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Pirate
-- Rasalhague Dominion
-- Raven Alliance
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
-- Taurian Concordat
+- Capellan Confederation 
+- St. Ives Compact 
 
-### Dark Ages
-- Calderon Protectorate
-- Capellan Confederation
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Federated Suns
-- Filtvelt Coalition
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Pirate
-- Rasalhague Dominion
-- Raven Alliance
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
-- Scorpion Empire
-- Taurian Concordat
+### Clan Invasion 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Jihad 
+
+- Capellan Confederation 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Scorpion Empire 
+- Taurian Concordat 
 

@@ -1,49 +1,58 @@
-# Warhammer WHM-6D
+# Warhammer WHM-6D 
 
-[Other Warhammer variants](../warhammer.md)
+[Other Warhammer variants](../warhammer.md) 
 
-## Warhammer WHM-6D
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2835)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6
-- **Armor:** 217
-- **Heat Sinks:** 20 (20)
-- **Weapons:**
-  - PPC × 2
-  - Medium Laser × 2
-  - Small Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3485/warhammer-whm-6d)
-- **Battle Value:** 1471
+## Warhammer WHM-6D 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2835) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 217 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - PPC × 2 
+  - Medium Laser × 2 
+  - Small Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3485/warhammer-whm-6d) 
+- **Battle Value:** 1471 
 
-### Early Succession Wars
-- Federated Suns
+## Availability 
 
-### Late Succession Wars - LosTech
-- Federated Suns
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Federated Suns
+- Federated Suns 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+- Federated Suns 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Federated Suns
-- Filtvelt Coalition
+- Federated Suns 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
+### Clan Invasion 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Civil War 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Early Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
 

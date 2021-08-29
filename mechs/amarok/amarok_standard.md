@@ -1,26 +1,30 @@
-# Amarok (Standard)
+# Amarok (Standard) 
 
-[Other Amarok variants](../amarok.md)
+[Other Amarok variants](../amarok.md) 
 
-## Amarok (Standard)
-- **Role:** Juggernaut
-- **Tech Base:** Clan Mixed (3149)
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 / 5 (7), XL
-- **Armor:** 164 (Hardened)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC w/ PPC Capacitor
-  - RAC/5 (ammo: 40)
-  - Large Pulse Laser
-  - Streak SRM 6 × 2 (ammo: 15)
-- **Equipment:**
-  - CASE
-  - Supercharger
-- **Source:** Recognition Guide:ilClan #17 - Dark Age
-- **Battle Value:** 3016
+## Amarok (Standard) 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Clan Mixed (3149) 
+- **Chassis:** 100 tons (Endo Steel) 
+- **Movement:** 4 / 5 (7), XL 
+- **Armor:** 164 (Hardened) 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC w/ PPC Capacitor 
+  - RAC/5 (ammo: 40) 
+  - Large Pulse Laser 
+  - Streak SRM 6 × 2 (ammo: 15) 
+- **Equipment:** 
+  - CASE 
+  - Supercharger 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8239/amarok-standard) 
+- **Battle Value:** 3016 
 
-Availability Unknown
+## Availability 
+
+### Dark Ages 
+
+- Clan Sea Fox 
+- Clan Wolf 
 

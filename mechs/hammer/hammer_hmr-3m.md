@@ -1,71 +1,78 @@
-# Hammer HMR-3M
+# Hammer HMR-3M 
 
-[Other Hammer variants](../hammer.md)
+[Other Hammer variants](../hammer.md) 
 
-## Hammer HMR-3M
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3053)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 96
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - LRM 5 w/ Artemis IV × 2 (ammo: 48)
-  - Medium Laser × 3
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1366/hammer-hmr-3m)
-- **Battle Value:** 787
+## Hammer HMR-3M 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3053) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 96 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - LRM 5 w/ Artemis IV × 2 (ammo: 48) 
+  - Medium Laser × 3 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1366/hammer-hmr-3m) 
+- **Battle Value:** 787 
 
-### Clan Invasion
-- Capellan Confederation
-- Free Worlds League
-- Magistracy of Canopus
-- Mercenary
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Free Worlds League
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Free Worlds League
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Word of Blake
+- Capellan Confederation 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Word of Blake 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+- Capellan Confederation 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Jihad 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Word of Blake 
+
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 

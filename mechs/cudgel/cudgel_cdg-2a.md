@@ -1,39 +1,45 @@
-# Cudgel CDG-2A
+# Cudgel CDG-2A 
 
-[Other Cudgel variants](../cudgel.md)
+[Other Cudgel variants](../cudgel.md) 
 
-## Cudgel CDG-2A
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 80 tons
-- **Movement:** 5 (6) / 8 (9), XL
-- **Armor:** 247 (Light Ferro Fibrous)
-- **Myomer:** Triple-Strength
-- **Cockpit:** Small
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Medium Laser × 4
-  - Medium Laser × 5
-  - Mace
-  - Claw
-  - Small Laser
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/767/cudgel-cdg-2a)
-- **Battle Value:** 1750
+## Cudgel CDG-2A 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 80 tons 
+- **Movement:** 5 (6) / 8 (9), XL 
+- **Armor:** 247 (Light Ferro Fibrous) 
+- **Myomer:** Triple-Strength 
+- **Cockpit:** Small 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+  - Medium Laser × 5 
+  - Mace 
+  - Claw 
+  - Small Laser 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/767/cudgel-cdg-2a) 
+- **Battle Value:** 1750 
 
-### Civil War
-- Solaris 7
+## Availability 
 
-### Jihad
-- Solaris 7
+### Civil War 
 
-### Early Republic
-- Solaris 7
+- Solaris 7 
 
-### Late Republic
-- Solaris 7
+### Jihad 
 
-### Dark Ages
-- Solaris 7
+- Solaris 7 
+
+### Early Republic 
+
+- Solaris 7 
+
+### Late Republic 
+
+- Solaris 7 
+
+### Dark Ages 
+
+- Solaris 7 
 

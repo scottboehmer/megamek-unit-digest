@@ -1,28 +1,30 @@
-# Viper M
+# Viper M 
 
-[Other Viper variants](../viper.md)
+[Other Viper variants](../viper.md) 
 
-## Viper "Dragonfly" M
-- **Role:** Striker
-- **Tech Base:** Clan (3149)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 8
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - ER Medium Laser × 2
-  - Micro Pulse Laser
-- **Equipment:**
-  - Targeting Computer
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m)
-- **Battle Value:** 2054
+## Viper "Dragonfly" M 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3149) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - ER Medium Laser × 2 
+  - Micro Pulse Laser 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m) 
+- **Battle Value:** 2054 
 
-### Dark Ages
-- Clan Hell's Horses
-- Rasalhague Dominion
-- Republic of the Sphere
+## Availability 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Republic of the Sphere 
 

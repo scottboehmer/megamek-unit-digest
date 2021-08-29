@@ -1,43 +1,48 @@
-# Wolverine WVR-1R
+# Wolverine WVR-1R 
 
-[Other Wolverine variants](../wolverine.md)
+[Other Wolverine variants](../wolverine.md) 
 
-## Wolverine WVR-1R
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2471)
-- **Chassis:** 55 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 155 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - AC/5 (ammo: 40)
-  - Medium Laser
-- **Sources:** XTRO Primitives V - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r)
-- **Battle Value:** 885
+## Wolverine WVR-1R 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2471) 
+- **Chassis:** 55 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 155 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/5 (ammo: 40) 
+  - Medium Laser 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r) 
+- **Battle Value:** 885 
 
-### Star League
-- Federated Suns
+## Availability 
 
-### Jihad
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Mercenary
+### Star League 
 
-### Early Republic
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Regulan Fiefs
-- Rim Commonality
+- Federated Suns 
 
-### Late Republic
-- Mercenary
-- Rim Commonality
+### Jihad 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Mercenary 
+- Rim Commonality 
 

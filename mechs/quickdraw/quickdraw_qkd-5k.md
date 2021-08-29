@@ -1,43 +1,49 @@
-# Quickdraw QKD-5K
+# Quickdraw QKD-5K 
 
-[Other Quickdraw variants](../quickdraw.md)
+[Other Quickdraw variants](../quickdraw.md) 
 
-## Quickdraw QKD-5K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3049)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 143 (Ferro Fibrous)
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - Medium Laser × 6
-  - SRM 4 (ammo: 25)
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2613/quickdraw-qkd-5k)
-- **Battle Value:** 1265
+## Quickdraw QKD-5K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3049) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 143 (Ferro Fibrous) 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Medium Laser × 6 
+  - SRM 4 (ammo: 25) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2613/quickdraw-qkd-5k) 
+- **Battle Value:** 1265 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
 

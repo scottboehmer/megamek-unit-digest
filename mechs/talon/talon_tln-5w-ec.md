@@ -1,41 +1,49 @@
-# Talon TLN-5W-EC
+# Talon TLN-5W-EC 
 
-[Other Talon variants](../talon.md)
+[Other Talon variants](../talon.md) 
 
-## Talon TLN-5W-EC
-- **Role:** Striker
-- **Tech Base:** Clan Mixed (2823)
-- **Chassis:** 35 tons
-- **Movement:** 8 / 12, XL
-- **Armor:** 119
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Enhanced PPC
-  - Inner Sphere Medium Laser × 2
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7677/talon-tln-5w-ec)
-- **Battle Value:** 1364
+## Talon TLN-5W-EC 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan Mixed (2823) 
+- **Chassis:** 35 tons 
+- **Movement:** 8 / 12, XL 
+- **Armor:** 119 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Enhanced PPC 
+  - Inner Sphere Medium Laser × 2 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677/talon-tln-5w-ec) 
+- **Battle Value:** 1364 
 
-### Early Succession Wars
-- Clan Ice Hellion
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Ice Hellion
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Ice Hellion
+- Clan Ice Hellion 
 
-### Jihad
-- Society
+### Late Succession Wars - LosTech 
 
-### Early Republic
-- Escorpión Imperio
+- Clan Ice Hellion 
 
-### Late Republic
-- Escorpión Imperio
+### Late Succession Wars - Renaissance 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+- Clan Ice Hellion 
+
+### Jihad 
+
+- Society 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

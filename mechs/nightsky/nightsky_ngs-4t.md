@@ -1,55 +1,62 @@
-# Nightsky NGS-4T
+# Nightsky NGS-4T 
 
-[Other Nightsky variants](../nightsky.md)
+[Other Nightsky variants](../nightsky.md) 
 
-## Nightsky NGS-4T
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 50 tons
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 152
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Large Laser
-  - Medium Pulse Laser × 2
-  - Hatchet
-  - Small Pulse Laser
-  - Small Laser
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2280/nightsky-ngs-4t)
-- **Battle Value:** 1287
+## Nightsky NGS-4T 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 50 tons 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 152 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Medium Pulse Laser × 2 
+  - Hatchet 
+  - Small Pulse Laser 
+  - Small Laser 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2280/nightsky-ngs-4t) 
+- **Battle Value:** 1287 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Lyran Alliance
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

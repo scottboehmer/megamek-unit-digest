@@ -1,39 +1,44 @@
-# Ursus 2
+# Ursus 2 
 
-[Other Ursus variants](../ursus.md)
+[Other Ursus variants](../ursus.md) 
 
-## Ursus 2
-- **Role:** Striker
-- **Tech Base:** Clan (3074)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 169 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - HAG 20 (ammo: 6)
-  - Plasma Cannon (ammo: 20)
-  - ER Medium Laser
-  - AP Gauss Rifle × 2 (ammo: 40)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3364/ursus-2)
-- **Battle Value:** 2054
+## Ursus 2 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3074) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 169 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - HAG 20 (ammo: 6) 
+  - Plasma Cannon (ammo: 20) 
+  - ER Medium Laser 
+  - AP Gauss Rifle × 2 (ammo: 40) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364/ursus-2) 
+- **Battle Value:** 2054 
 
-### Jihad
-- Clan Ghost Bear
+## Availability 
 
-### Early Republic
-- Clan Hell's Horses
-- Rasalhague Dominion
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
-- Rasalhague Dominion
+- Clan Ghost Bear 
 
-### Dark Ages
-- Clan Hell's Horses
-- Rasalhague Dominion
+### Early Republic 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
 

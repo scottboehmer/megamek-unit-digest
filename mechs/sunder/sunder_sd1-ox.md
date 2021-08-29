@@ -1,41 +1,46 @@
-# Sunder SD1-OX
+# Sunder SD1-OX 
 
-[Other Sunder variants](../sunder.md)
+[Other Sunder variants](../sunder.md) 
 
-## Sunder SD1-OX
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3073)
-- **Chassis:** 90 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 264
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - NLRM 5 × 8 (ammo: 96)
-  - Medium Pulse Laser
-- **Equipment:**
-  - B-Pod × 2
-  - C3 Slave
-- **Sources:** TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox)
-- **Battle Value:** 1761
+## Sunder SD1-OX 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 90 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 264 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER Medium Laser × 3 
+  - NLRM 5 × 8 (ammo: 96) 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - B-Pod × 2 
+  - C3 Slave 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox) 
+- **Battle Value:** 1761 
 
-### Jihad
-- Draconis Combine
+## Availability 
 
-### Early Republic
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
+### Early Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
 

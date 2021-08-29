@@ -1,65 +1,71 @@
-# Marshal MHL-2L
+# Marshal MHL-2L 
 
-[Other Marshal variants](../marshal.md)
+[Other Marshal variants](../marshal.md) 
 
-## Marshal MHL-2L
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3063)
-- **Chassis:** 55 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - LRM 15 (ammo: 24)
-  - Large Laser
-  - Medium Pulse Laser
-  - Medium Laser
-  - Flamer
-  - Machine Gun × 2 (ammo: 100)
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l)
-- **Battle Value:** 1313
+## Marshal MHL-2L 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3063) 
+- **Chassis:** 55 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - LRM 15 (ammo: 24) 
+  - Large Laser 
+  - Medium Pulse Laser 
+  - Medium Laser 
+  - Flamer 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l) 
+- **Battle Value:** 1313 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+## Availability 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Jihad 
 
-### Dark Ages
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Pirate 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

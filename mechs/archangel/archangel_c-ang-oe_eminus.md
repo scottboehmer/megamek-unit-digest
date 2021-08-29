@@ -1,29 +1,31 @@
-# Archangel C-ANG-OE Eminus
+# Archangel C-ANG-OE Eminus 
 
-[Other Archangel variants](../archangel.md)
+[Other Archangel variants](../archangel.md) 
 
-## Archangel C-ANG-OE Eminus
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3072)
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 3 / 5, Compact
-- **Armor:** 307
-- **Gyroscope:** Compact Gyro
-- **Cockpit:** Small
-- **Heat Sinks:** 19 (38)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Large Laser
-  - Light PPC
-  - ER Small Laser × 2
-- **Equipment:**
-  - C3i
-  - Targeting Computer
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus)
-- **Battle Value:** 2097
+## Archangel C-ANG-OE Eminus 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 100 tons (Endo Steel) 
+- **Movement:** 3 / 5, Compact 
+- **Armor:** 307 
+- **Gyroscope:** Compact Gyro 
+- **Cockpit:** Small 
+- **Heat Sinks:** 19 (38) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Large Laser 
+  - Light PPC 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - C3i 
+  - Targeting Computer 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus) 
+- **Battle Value:** 2097 
 
-### Jihad
-- Word of Blake
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
 

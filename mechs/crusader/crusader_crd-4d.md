@@ -1,40 +1,46 @@
-# Crusader CRD-4D
+# Crusader CRD-4D 
 
-[Other Crusader variants](../crusader.md)
+[Other Crusader variants](../crusader.md) 
 
-## Crusader CRD-4D
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3049)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 192
-- **Heat Sinks:** 13 (13)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 16)
-  - Medium Pulse Laser × 2
-  - Streak SRM 2 × 2 (ammo: 50)
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d)
-- **Battle Value:** 1309
+## Crusader CRD-4D 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3049) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 192 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 16) 
+  - Medium Pulse Laser × 2 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d) 
+- **Battle Value:** 1309 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
+- Federated Commonwealth 
+- Federated Suns 
 
-### Early Republic
-- Federated Suns
-- Filtvelt Coalition
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
+- Federated Commonwealth 
+- Federated Suns 
+
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Early Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
 

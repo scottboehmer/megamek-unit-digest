@@ -1,30 +1,33 @@
-# Bombardier BMB-14C
+# Bombardier BMB-14C 
 
-[Other Bombardier variants](../bombardier.md)
+[Other Bombardier variants](../bombardier.md) 
 
-## Bombardier BMB-14C
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 200
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-  - ER Small Laser
-- **Equipment:**
-  - CASE
-  - C3i
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/424/bombardier-bmb-14c)
-- **Battle Value:** 1549
+## Bombardier BMB-14C 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 200 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
+  - ER Small Laser 
+- **Equipment:** 
+  - CASE 
+  - C3i 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/424/bombardier-bmb-14c) 
+- **Battle Value:** 1549 
 
-### Civil War
-- ComStar
-- Word of Blake
+## Availability 
 
-### Jihad
-- ComStar
-- Word of Blake
+### Civil War 
+
+- ComStar 
+- Word of Blake 
+
+### Jihad 
+
+- ComStar 
+- Word of Blake 
 

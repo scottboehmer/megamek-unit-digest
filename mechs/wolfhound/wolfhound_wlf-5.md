@@ -1,48 +1,53 @@
-# Wolfhound WLF-5
+# Wolfhound WLF-5 
 
-[Other Wolfhound variants](../wolfhound.md)
+[Other Wolfhound variants](../wolfhound.md) 
 
-## Wolfhound WLF-5
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3079)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 112
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Snub-Nose PPC
-  - Light PPC × 2
-- **Equipment:**
-  - MASC
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5)
-- **Battle Value:** 1290
+## Wolfhound WLF-5 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3079) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 112 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - Light PPC × 2 
+- **Equipment:** 
+  - MASC 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5) 
+- **Battle Value:** 1290 
 
-### Jihad
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Early Republic
-- Federated Suns
-- Kell Hounds
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Federated Suns
-- Kell Hounds
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Federated Suns
-- Kell Hounds
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

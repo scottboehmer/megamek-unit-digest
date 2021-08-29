@@ -1,39 +1,45 @@
-# Penetrator PTR-6T
+# Penetrator PTR-6T 
 
-[Other Penetrator variants](../penetrator.md)
+[Other Penetrator variants](../penetrator.md) 
 
-## Penetrator PTR-6T
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 208
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER Large Laser × 2
-  - ER Medium Laser × 6
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-  - Targeting Computer
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2469/penetrator-ptr-6t)
-- **Battle Value:** 1994
+## Penetrator PTR-6T 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 208 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - ER Medium Laser × 6 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - Targeting Computer 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2469/penetrator-ptr-6t) 
+- **Battle Value:** 1994 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Jihad
-- Federated Suns
+### Civil War 
 
-### Early Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
 
-### Late Republic
-- Federated Suns
+### Jihad 
 
-### Dark Ages
-- Federated Suns
+- Federated Suns 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

@@ -1,185 +1,196 @@
-# Crosscut ED-X1 LoggerMech
+# Crosscut ED-X1 LoggerMech 
 
-[Other Crosscut variants](../crosscut.md)
+[Other Crosscut variants](../crosscut.md) 
 
-## Crosscut ED-X1 LoggerMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (2650)
-- **Chassis:** 30 tons (Industrial)
-- **Movement:** 5 / 8
-- **Armor:** 42 (Industrial)
-- **Cockpit:** Industrial
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Chainsaw
-- **Equipment:**
-  - Lift Hoist
-  - Cargo
-- **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/7166/crosscut-ed-x1-loggermech)
-- **Battle Value:** 251
+## Crosscut ED-X1 LoggerMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (2650) 
+- **Chassis:** 30 tons (Industrial) 
+- **Movement:** 5 / 8 
+- **Armor:** 42 (Industrial) 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Chainsaw 
+- **Equipment:** 
+  - Lift Hoist 
+  - Cargo 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7166/crosscut-ed-x1-loggermech) 
+- **Battle Value:** 251 
 
-### Star League
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Circinus Federation
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Mongoose
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Widowmaker
-- Clan Wolf
-- Clan Wolverine
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Outworlds Alliance
-- Pirate
-- Star League-in-Exile
-- Taurian Concordat
+### Star League 
 
-### Late Succession Wars - LosTech
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
+### Early Succession Wars 
 
-### Clan Invasion
-- Capellan Confederation
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Snow Raven
-- Clan Star Adder
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Lyran Commonwealth
-- Second Star League
-- St. Ives Compact
-- Word of Blake
+- Capellan Confederation 
+- Circinus Federation 
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Mongoose 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Widowmaker 
+- Clan Wolf 
+- Clan Wolverine 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
+- Star League-in-Exile 
+- Taurian Concordat 
 
-### Civil War
-- Capellan Confederation
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Goliath Scorpion
-- Clan Ice Hellion
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Second Star League
-- St. Ives Compact
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Capellan Confederation
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Goliath Scorpion
-- Clan Ice Hellion
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Stone Lion
-- ComStar
-- Draconis Combine
-- Escorpión Imperio
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Word of Blake
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
 
-### Early Republic
-- Escorpión Imperio
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Escorpión Imperio
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Clan Invasion 
+
+- Capellan Confederation 
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Snow Raven 
+- Clan Star Adder 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Second Star League 
+- St. Ives Compact 
+- Word of Blake 
+
+### Civil War 
+
+- Capellan Confederation 
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Ice Hellion 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Second Star League 
+- St. Ives Compact 
+- Word of Blake 
+
+### Jihad 
+
+- Capellan Confederation 
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Ice Hellion 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- ComStar 
+- Draconis Combine 
+- Escorpión Imperio 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Word of Blake 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

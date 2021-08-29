@@ -1,43 +1,51 @@
-# Wasp WSP-1L
+# Wasp WSP-1L 
 
-[Other Wasp variants](../wasp.md)
+[Other Wasp variants](../wasp.md) 
 
-## Wasp WSP-1L
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2799)
-- **Chassis:** 20 tons
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 48
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - SRM 4 (ammo: 25)
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3523/wasp-wsp-1l)
-- **Battle Value:** 335
+## Wasp WSP-1L 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2799) 
+- **Chassis:** 20 tons 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 48 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 4 (ammo: 25) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3523/wasp-wsp-1l) 
+- **Battle Value:** 335 
 
-### Early Succession Wars
-- Capellan Confederation
+## Availability 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
 
-### Jihad
-- Capellan Confederation
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Capellan Confederation
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Jihad 
+
+- Capellan Confederation 
+
+### Early Republic 
+
+- Capellan Confederation 
 

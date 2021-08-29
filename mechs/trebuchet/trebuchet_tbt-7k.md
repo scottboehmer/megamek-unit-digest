@@ -1,34 +1,39 @@
-# Trebuchet TBT-7K
+# Trebuchet TBT-7K 
 
-[Other Trebuchet variants](../trebuchet.md)
+[Other Trebuchet variants](../trebuchet.md) 
 
-## Trebuchet TBT-7K
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3025)
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8
-- **Armor:** 120
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - PPC
-  - AC/5 (ammo: 20)
-  - SRM 2 (ammo: 50)
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3299/trebuchet-tbt-7k)
-- **Battle Value:** 996
+## Trebuchet TBT-7K 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3025) 
+- **Chassis:** 50 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 120 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - PPC 
+  - AC/5 (ammo: 20) 
+  - SRM 2 (ammo: 50) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3299/trebuchet-tbt-7k) 
+- **Battle Value:** 996 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
-- Free Rasalhague Republic
+## Availability 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Jihad
-- Draconis Combine
+### Clan Invasion 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Civil War 
+
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
 

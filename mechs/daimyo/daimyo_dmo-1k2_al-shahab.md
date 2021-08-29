@@ -1,30 +1,34 @@
-# Daimyo DMO-1K2 (Al-Shahab)
+# Daimyo DMO-1K2 (Al-Shahab) 
 
-[Other Daimyo variants](../daimyo.md)
+[Other Daimyo variants](../daimyo.md) 
 
-## Daimyo DMO-1K2 (Al-Shahab)
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 40 tons
-- **Movement:** 5 / 8 (10), Light
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Heavy PPC w/ PPC Capacitor
-  - Small X-Pulse Laser × 2
-- **Equipment:**
-  - Supercharger
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/803/daimyo-dmo-1k2-al-shahab)
-- **Battle Value:** 1332
+## Daimyo DMO-1K2 (Al-Shahab) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 40 tons 
+- **Movement:** 5 / 8 (10), Light 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Heavy PPC w/ PPC Capacitor 
+  - Small X-Pulse Laser × 2 
+- **Equipment:** 
+  - Supercharger 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/803/daimyo-dmo-1k2-al-shahab) 
+- **Battle Value:** 1332 
 
-### Civil War (Unique)
-- Pirate
+## Availability 
 
-### Jihad (Unique)
-- Pirate
+### Civil War (Unique) 
 
-### Early Republic (Unique)
-- Pirate
+- Pirate 
+
+### Jihad (Unique) 
+
+- Pirate 
+
+### Early Republic (Unique) 
+
+- Pirate 
 

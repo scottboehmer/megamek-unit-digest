@@ -1,41 +1,48 @@
-# Ha Otoko HKO-1C
+# Ha Otoko HKO-1C 
 
-[Other Ha Otoko variants](../ha_otoko.md)
+[Other Ha Otoko variants](../ha_otoko.md) 
 
-## Ha Otoko HKO-1C
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3061)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 152
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 20 × 2 (ammo: 24)
-  - LRM 10 × 2 (ammo: 24)
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1357/ha-otoko-hko-1c)
-- **Battle Value:** 1288
+## Ha Otoko HKO-1C 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3061) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 152 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 24) 
+  - LRM 10 × 2 (ammo: 24) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357/ha-otoko-hko-1c) 
+- **Battle Value:** 1288 
 
-### Clan Invasion
-- Draconis Combine
-- Federated Commonwealth
-- Lyran Alliance
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Lyran Alliance
+- Draconis Combine 
+- Federated Commonwealth 
+- Lyran Alliance 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
+- Lyran Alliance 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

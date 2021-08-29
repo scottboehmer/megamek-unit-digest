@@ -1,57 +1,64 @@
-# Atlas AS7-C
+# Atlas AS7-C 
 
-[Other Atlas variants](../atlas.md)
+[Other Atlas variants](../atlas.md) 
 
-## Atlas AS7-C
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5, XL
-- **Armor:** 304
-- **Heat Sinks:** 21 (21)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - LRM 20 (ammo: 12)
-  - ER Large Laser × 2
-  - Medium Pulse Laser
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-  - CASE
-  - C3 Slave
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/138/atlas-as7-c)
-- **Battle Value:** 2163
+## Atlas AS7-C 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 304 
+- **Heat Sinks:** 21 (21) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - LRM 20 (ammo: 12) 
+  - ER Large Laser × 2 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - CASE 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/138/atlas-as7-c) 
+- **Battle Value:** 2163 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Dark Ages 
+
+- Draconis Combine 
 

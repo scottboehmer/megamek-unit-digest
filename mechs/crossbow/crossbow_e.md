@@ -1,48 +1,53 @@
-# Crossbow E
+# Crossbow E 
 
-[Other Crossbow variants](../crossbow.md)
+[Other Crossbow variants](../crossbow.md) 
 
-## Crossbow E
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3072)
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - AP Gauss Rifle × 16 (ammo: 240)
-- **Equipment:**
-  - CASE
-  - Targeting Computer
-- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e)
-- **Battle Value:** 1558
+## Crossbow E 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3072) 
+- **Chassis:** 65 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 192 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - AP Gauss Rifle × 16 (ammo: 240) 
+- **Equipment:** 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
+- **Battle Value:** 1558 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Ghost Bear
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Steel Viper
-- Clan Stone Lion
-- Clan Wolf
-- Clan Wolf-in-Exile
+## Availability 
 
-### Early Republic
-- Raven Alliance
+### Jihad 
 
-### Late Republic
-- Clan Wolf
-- Raven Alliance
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 
-### Dark Ages
-- Clan Jade Falcon
-- Clan Wolf
-- Lyran Commonwealth
-- Raven Alliance
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Clan Wolf 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Lyran Commonwealth 
+- Raven Alliance 
 

@@ -1,30 +1,33 @@
-# Raven RVN-5L
+# Raven RVN-5L 
 
-[Other Raven variants](../raven.md)
+[Other Raven variants](../raven.md) 
 
-## Raven RVN-5L
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3125)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-- **Armor:** 96 (Stealth)
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - iNarc (ammo: 12)
-  - ER Medium Laser × 2
-  - SRM 2 (iOS) × 3
-- **Equipment:**
-  - Angel ECM Suite
-  - TAG
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l)
-- **Battle Value:** 1035
+## Raven RVN-5L 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3125) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+- **Armor:** 96 (Stealth) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - iNarc (ammo: 12) 
+  - ER Medium Laser × 2 
+  - SRM 2 (iOS) × 3 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - TAG 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l) 
+- **Battle Value:** 1035 
 
-### Late Republic
-- Capellan Confederation
+## Availability 
 
-### Dark Ages
-- Capellan Confederation
+### Late Republic 
+
+- Capellan Confederation 
+
+### Dark Ages 
+
+- Capellan Confederation 
 

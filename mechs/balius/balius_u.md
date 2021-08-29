@@ -1,36 +1,41 @@
-# Balius U
+# Balius U 
 
-[Other Balius variants](../balius.md)
+[Other Balius variants](../balius.md) 
 
-## Balius U
-- **Role:** Sniper
-- **Tech Base:** Clan (3077)
-- **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Underwater:** 5
-- **Armor:** 211 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - SRT 6 × 4 (ammo: 60)
-  - Flamer
-- **Equipment:**
-  - ECM Suite
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/216/balius-u)
-- **Battle Value:** 2014
+## Balius U 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** 65 tons Quad (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Underwater:** 5 
+- **Armor:** 211 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - SRT 6 × 4 (ammo: 60) 
+  - Flamer 
+- **Equipment:** 
+  - ECM Suite 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/216/balius-u) 
+- **Battle Value:** 2014 
 
-### Jihad
-- Clan Hell's Horses
+## Availability 
 
-### Early Republic
-- Clan Hell's Horses
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
+- Clan Hell's Horses 
 
-### Dark Ages
-- Clan Hell's Horses
+### Early Republic 
+
+- Clan Hell's Horses 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
 

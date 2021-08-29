@@ -1,31 +1,36 @@
-# Pinion 3
+# Pinion 3 
 
-[Other Pinion variants](../pinion.md)
+[Other Pinion variants](../pinion.md) 
 
-## Pinion 3
-- **Role:** Brawler
-- **Tech Base:** Clan (3069)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 153
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Heavy Large Laser × 2
-- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5675/pinion-3)
-- **Battle Value:** 1611
+## Pinion 3 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3069) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 153 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Heavy Large Laser × 2 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5675/pinion-3) 
+- **Battle Value:** 1611 
 
-### Jihad
-- Clan Jade Falcon
+## Availability 
 
-### Early Republic
-- Clan Jade Falcon
+### Jihad 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Jade Falcon 
 
-### Dark Ages
-- Clan Jade Falcon
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

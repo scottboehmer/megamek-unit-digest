@@ -1,55 +1,62 @@
-# Hermes HER-4S
+# Hermes HER-4S 
 
-[Other Hermes variants](../hermes.md)
+[Other Hermes variants](../hermes.md) 
 
-## Hermes HER-4S
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3057)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14 (18), XL
-- **Armor:** 98 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 3
-- **Equipment:**
-  - Guardian ECM Suite
-  - MASC
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1494/hermes-her-4s)
-- **Battle Value:** 1012
+## Hermes HER-4S 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3057) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 9 / 14 (18), XL 
+- **Armor:** 98 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 3 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - MASC 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1494/hermes-her-4s) 
+- **Battle Value:** 1012 
 
-### Clan Invasion
-- ComStar
-- Free Rasalhague Republic
-- Free Worlds League
-- Word of Blake
+## Availability 
 
-### Civil War
-- ComStar
-- Free Rasalhague Republic
-- Free Worlds League
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Free Rasalhague Republic
-- Free Worlds League
-- Word of Blake
+- ComStar 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Word of Blake 
 
-### Early Republic
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+- ComStar 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Word of Blake 
 
-### Dark Ages
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+### Jihad 
+
+- ComStar 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Word of Blake 
+
+### Early Republic 
+
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
 

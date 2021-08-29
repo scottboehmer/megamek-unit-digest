@@ -1,39 +1,46 @@
-# Hatamoto-Hi HTM-CM
+# Hatamoto-Hi HTM-CM 
 
-[Other Hatamoto-Hi variants](../hatamoto-hi.md)
+[Other Hatamoto-Hi variants](../hatamoto-hi.md) 
 
-## Hatamoto-Hi HTM-CM
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 247
-- **Heat Sinks:** 18 (18)
-- **Weapons:**
-  - PPC × 2
-  - Medium Pulse Laser × 2
-- **Equipment:**
-  - C3 Master
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1405/hatamoto-hi-htm-cm)
-- **Battle Value:** 1573
+## Hatamoto-Hi HTM-CM 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 247 
+- **Heat Sinks:** 18 (18) 
+- **Weapons:** 
+  - PPC × 2 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - C3 Master 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1405/hatamoto-hi-htm-cm) 
+- **Battle Value:** 1573 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

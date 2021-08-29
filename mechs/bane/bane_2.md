@@ -1,63 +1,70 @@
-# Bane 2
+# Bane 2 
 
-[Other Bane variants](../bane.md)
+[Other Bane variants](../bane.md) 
 
-## Bane 2 "Kraken"
-- **Role:** Sniper
-- **Tech Base:** Clan (3053)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5, XL
-- **Armor:** 304
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Ultra AC/10 × 4 (ammo: 140)
-  - Machine Gun × 4 (ammo: 100)
-- **Equipment:**
-  - CASE
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2)
-- **Battle Value:** 2502
+## Bane 2 "Kraken" 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3053) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 304 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Ultra AC/10 × 4 (ammo: 140) 
+  - Machine Gun × 4 (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2) 
+- **Battle Value:** 2502 
 
-### Clan Invasion
-- Clan Jade Falcon
+## Availability 
 
-### Civil War
-- Clan Jade Falcon
-- Clan Steel Viper
+### Clan Invasion 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Stone Lion
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Escorpión Imperio
-- Society
+- Clan Jade Falcon 
 
-### Early Republic
-- Escorpión Imperio
-- Raven Alliance
+### Civil War 
 
-### Late Republic
-- Escorpión Imperio
-- Raven Alliance
+- Clan Jade Falcon 
+- Clan Steel Viper 
 
-### Dark Ages
-- Escorpión Imperio
-- Raven Alliance
-- Scorpion Empire
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Society 
+
+### Early Republic 
+
+- Escorpión Imperio 
+- Raven Alliance 
+
+### Late Republic 
+
+- Escorpión Imperio 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Raven Alliance 
+- Scorpion Empire 
 

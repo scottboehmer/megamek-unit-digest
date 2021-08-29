@@ -1,65 +1,72 @@
-# Centurion CN9-D3
+# Centurion CN9-D3 
 
-[Other Centurion variants](../centurion.md)
+[Other Centurion variants](../centurion.md) 
 
-## Centurion CN9-D3
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3052)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11), XL
-- **Armor:** 136
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
-  - LRM 10 w/ Artemis IV (ammo: 24)
-  - Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/521/centurion-cn9-d3)
-- **Battle Value:** 1324
+## Centurion CN9-D3 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 (7) / 9 (11), XL 
+- **Armor:** 136 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
+  - LRM 10 w/ Artemis IV (ammo: 24) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/521/centurion-cn9-d3) 
+- **Battle Value:** 1324 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

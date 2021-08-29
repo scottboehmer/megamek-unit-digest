@@ -1,28 +1,31 @@
-# Warhammer WHM-6Rk
+# Warhammer WHM-6Rk 
 
-[Other Warhammer variants](../warhammer.md)
+[Other Warhammer variants](../warhammer.md) 
 
-## Warhammer WHM-6Rk
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2745)
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 208
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - PPC × 2
-  - SRM 6 (ammo: 15)
-  - Medium Laser × 2
-  - Small Laser × 2
-  - Machine Gun × 2 (ammo: 200)
-- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5871/warhammer-whm-6rk)
-- **Battle Value:** 1621
+## Warhammer WHM-6Rk 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2745) 
+- **Chassis:** 70 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 208 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - PPC × 2 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 2 
+  - Small Laser × 2 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871/warhammer-whm-6rk) 
+- **Battle Value:** 1621 
 
-### Star League
-- Draconis Combine
+## Availability 
 
-### Early Succession Wars
-- Draconis Combine
+### Star League 
+
+- Draconis Combine 
+
+### Early Succession Wars 
+
+- Draconis Combine 
 

@@ -1,32 +1,37 @@
-# Jinggau JN-G7L
+# Jinggau JN-G7L 
 
-[Other Jinggau variants](../jinggau.md)
+[Other Jinggau variants](../jinggau.md) 
 
-## Jinggau JN-G7L
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 184
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Plasma Rifle × 2 (ammo: 30)
-  - Medium Laser × 6
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1707/jinggau-jn-g7l)
-- **Battle Value:** 2137
+## Jinggau JN-G7L 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 184 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Plasma Rifle × 2 (ammo: 30) 
+  - Medium Laser × 6 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707/jinggau-jn-g7l) 
+- **Battle Value:** 2137 
 
-### Jihad
-- Capellan Confederation
+## Availability 
 
-### Early Republic
-- Capellan Confederation
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
+- Capellan Confederation 
 
-### Dark Ages
-- Capellan Confederation
+### Early Republic 
+
+- Capellan Confederation 
+
+### Late Republic 
+
+- Capellan Confederation 
+
+### Dark Ages 
+
+- Capellan Confederation 
 

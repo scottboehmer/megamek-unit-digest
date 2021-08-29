@@ -1,26 +1,28 @@
-# Spartan SPT-NF
+# Spartan SPT-NF 
 
-[Other Spartan variants](../spartan.md)
+[Other Spartan variants](../spartan.md) 
 
-## Spartan SPT-NF
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2770)
-- **Chassis:** 80 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 224
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser × 3
-  - Streak SRM 2 × 2 (ammo: 100)
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-  - CASE
-- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2997/spartan-spt-nf)
-- **Battle Value:** 1605
+## Spartan SPT-NF 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2770) 
+- **Chassis:** 80 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Pulse Laser × 3 
+  - Streak SRM 2 × 2 (ammo: 100) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+  - CASE 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2997/spartan-spt-nf) 
+- **Battle Value:** 1605 
 
-### Star League
-- Star League - Royal Divisions
+## Availability 
+
+### Star League 
+
+- Star League - Royal Divisions 
 

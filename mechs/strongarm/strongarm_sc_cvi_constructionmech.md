@@ -1,108 +1,112 @@
-# StrongArm SC CVI ConstructionMech
+# StrongArm SC CVI ConstructionMech 
 
-[Other StrongArm variants](../strongarm.md)
+[Other StrongArm variants](../strongarm.md) 
 
-## StrongArm SC CVI ConstructionMech
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (3094)
-- **Chassis:** 35 tons (Industrial)
-- **Movement:** 4 / 6, ICE
-- **Armor:** 69 (Industrial)
-- **Cockpit:** Industrial
-- **Heat Sinks:** 0 (0)
-- **Equipment:**
-  - Lift Hoist
-  - Salvage Arm
-  - Cargo
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7859/strongarm-sc-cvi-constructionmech)
-- **Battle Value:** 315
+## StrongArm SC CVI ConstructionMech 
 
-## Availability
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3094) 
+- **Chassis:** 35 tons (Industrial) 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 69 (Industrial) 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 0 (0) 
+- **Equipment:** 
+  - Lift Hoist 
+  - Salvage Arm 
+  - Cargo 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7859/strongarm-sc-cvi-constructionmech) 
+- **Battle Value:** 315 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Clan Diamond Shark
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Filtvelt Coalition
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Pirate
-- Rasalhague Dominion
-- Raven Alliance
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
-- Taurian Concordat
+## Availability 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Clan Diamond Shark
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Filtvelt Coalition
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Pirate
-- Rasalhague Dominion
-- Raven Alliance
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
-- Taurian Concordat
+### Early Republic 
 
-### Dark Ages
-- Calderon Protectorate
-- Capellan Confederation
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Filtvelt Coalition
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Pirate
-- Rasalhague Dominion
-- Raven Alliance
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
-- Taurian Concordat
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
 

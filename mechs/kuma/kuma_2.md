@@ -1,32 +1,36 @@
-# Kuma 2
+# Kuma 2 
 
-[Other Kuma variants](../kuma.md)
+[Other Kuma variants](../kuma.md) 
 
-## Kuma 2
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3083)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 201 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Plasma Cannon (ammo: 20)
-  - ATM 9 (ammo: 14 Standard, 7 ER, 7 HE)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/1847/kuma-2)
-- **Battle Value:** 2309
+## Kuma 2 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3083) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 201 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Plasma Cannon (ammo: 20) 
+  - ATM 9 (ammo: 14 Standard, 7 ER, 7 HE) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847/kuma-2) 
+- **Battle Value:** 2309 
 
-### Early Republic
-- Rasalhague Dominion
+## Availability 
 
-### Late Republic
-- Rasalhague Dominion
+### Early Republic 
 
-### Dark Ages
-- Rasalhague Dominion
+- Rasalhague Dominion 
+
+### Late Republic 
+
+- Rasalhague Dominion 
+
+### Dark Ages 
+
+- Rasalhague Dominion 
 

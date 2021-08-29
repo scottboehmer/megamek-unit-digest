@@ -1,38 +1,44 @@
-# Vindicator VND-1SIC
+# Vindicator VND-1SIC 
 
-[Other Vindicator variants](../vindicator.md)
+[Other Vindicator variants](../vindicator.md) 
 
-## Vindicator VND-1SIC
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3031)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 144
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - Large Laser
-  - LRM 10 (ammo: 12)
-  - Medium Laser
-  - Small Laser
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3424/vindicator-vnd-1sic)
-- **Battle Value:** 1020
+## Vindicator VND-1SIC 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3031) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Large Laser 
+  - LRM 10 (ammo: 12) 
+  - Medium Laser 
+  - Small Laser 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3424/vindicator-vnd-1sic) 
+- **Battle Value:** 1020 
 
-### Late Succession Wars - Renaissance
-- St. Ives Compact
+## Availability 
 
-### Clan Invasion
-- St. Ives Compact
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Capellan Confederation
-- St. Ives Compact
+- St. Ives Compact 
 
-### Jihad
-- Capellan Confederation
+### Clan Invasion 
 
-### Early Republic
-- Capellan Confederation
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Jihad 
+
+- Capellan Confederation 
+
+### Early Republic 
+
+- Capellan Confederation 
 

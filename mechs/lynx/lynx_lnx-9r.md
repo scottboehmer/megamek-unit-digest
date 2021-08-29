@@ -1,53 +1,60 @@
-# Lynx LNX-9R
+# Lynx LNX-9R 
 
-[Other Lynx variants](../lynx.md)
+[Other Lynx variants](../lynx.md) 
 
-## Lynx LNX-9R
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 185
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - ER Large Laser
-  - Medium Laser × 4
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1969/lynx-lnx-9r)
-- **Battle Value:** 1755
+## Lynx LNX-9R 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 185 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Large Laser 
+  - Medium Laser × 4 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1969/lynx-lnx-9r) 
+- **Battle Value:** 1755 
 
-### Clan Invasion
-- Federated Commonwealth
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

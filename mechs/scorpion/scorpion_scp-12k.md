@@ -1,34 +1,39 @@
-# Scorpion SCP-12K
+# Scorpion SCP-12K 
 
-[Other Scorpion variants](../scorpion.md)
+[Other Scorpion variants](../scorpion.md) 
 
-## Scorpion SCP-12K
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3071)
-- **Chassis:** 55 tons Quad
-- **Movement:** 6 / 9, XL
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Snub-Nose PPC
-  - MML 9 (ammo: 13 LRM, 11 SRM)
-  - ER Medium Laser
-- **Equipment:**
-  - C3 Master
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k)
-- **Battle Value:** 1260
+## Scorpion SCP-12K 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3071) 
+- **Chassis:** 55 tons Quad 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - MML 9 (ammo: 13 LRM, 11 SRM) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - C3 Master 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
+- **Battle Value:** 1260 
 
-### Jihad
-- Draconis Combine
+## Availability 
 
-### Early Republic
-- Draconis Combine
+### Jihad 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

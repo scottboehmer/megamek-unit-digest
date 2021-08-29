@@ -1,52 +1,60 @@
-# Clint CLNT-2-4T
+# Clint CLNT-2-4T 
 
-[Other Clint variants](../clint.md)
+[Other Clint variants](../clint.md) 
 
-## Clint CLNT-2-4T
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (2610)
-- **Chassis:** 40 tons
-- **Movement:** 6 / 9
-- **Armor:** 72
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser
-  - AC/2 × 2 (ammo: 45)
-- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/648/clint-clnt-2-4t)
-- **Battle Value:** 619
+## Clint CLNT-2-4T 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2610) 
+- **Chassis:** 40 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 72 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+  - AC/2 × 2 (ammo: 45) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/648/clint-clnt-2-4t) 
+- **Battle Value:** 619 
 
-### Star League
-- Capellan Confederation
-- Federated Suns
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Federated Suns
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- Federated Suns
+- Capellan Confederation 
+- Federated Suns 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- Federated Suns
-- St. Ives Compact
+### Early Succession Wars 
 
-### Clan Invasion
-- Capellan Confederation
-- Federated Commonwealth
-- Federated Suns
-- St. Ives Compact
+- Capellan Confederation 
+- Federated Suns 
 
-### Civil War
-- Capellan Confederation
-- Federated Commonwealth
-- Federated Suns
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Capellan Confederation
-- Federated Suns
+- Capellan Confederation 
+- Federated Suns 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- Federated Suns 
+- St. Ives Compact 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- Federated Commonwealth 
+- Federated Suns 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- Federated Commonwealth 
+- Federated Suns 
+- St. Ives Compact 
+
+### Jihad 
+
+- Capellan Confederation 
+- Federated Suns 
 

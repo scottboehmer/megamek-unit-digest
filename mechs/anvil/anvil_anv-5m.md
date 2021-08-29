@@ -1,50 +1,57 @@
-# Anvil ANV-5M
+# Anvil ANV-5M 
 
-[Other Anvil variants](../anvil.md)
+[Other Anvil variants](../anvil.md) 
 
-## Anvil ANV-5M
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3057)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 152
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Medium Laser × 4
-- **Equipment:**
-  - Guardian ECM Suite
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/50/anvil-anv-5m)
-- **Battle Value:** 1687
+## Anvil ANV-5M 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3057) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 152 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Medium Laser × 4 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/50/anvil-anv-5m) 
+- **Battle Value:** 1687 
 
-### Clan Invasion
-- Free Worlds League
-- Word of Blake
+## Availability 
 
-### Civil War
-- Free Worlds League
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Free Worlds League
-- Word of Blake
+- Free Worlds League 
+- Word of Blake 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Oriente Protectorate
+### Civil War 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Oriente Protectorate
+- Free Worlds League 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Oriente Protectorate
+### Jihad 
+
+- Free Worlds League 
+- Word of Blake 
+
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Oriente Protectorate 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Oriente Protectorate 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Oriente Protectorate 
 

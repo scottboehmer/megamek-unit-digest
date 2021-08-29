@@ -1,35 +1,41 @@
-# Copper CPK-65KM SecurityMech
+# Copper CPK-65KM SecurityMech 
 
-[Other Copper variants](../copper.md)
+[Other Copper variants](../copper.md) 
 
-## Copper CPK-65KM SecurityMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3065)
-- **Chassis:** 25 tons (Industrial)
-- **Movement:** 4 / 6, Fuel Cell
-- **Armor:** 80
-- **Heat Sinks:** 3 (3)
-- **Weapons:**
-  - SRM 2 × 2 (ammo: 100)
-- **Equipment:**
-  - Searchlight × 2
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7465/copper-cpk-65km-securitymech)
-- **Battle Value:** 339
+## Copper CPK-65KM SecurityMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 25 tons (Industrial) 
+- **Movement:** 4 / 6, Fuel Cell 
+- **Armor:** 80 
+- **Heat Sinks:** 3 (3) 
+- **Weapons:** 
+  - SRM 2 × 2 (ammo: 100) 
+- **Equipment:** 
+  - Searchlight × 2 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7465/copper-cpk-65km-securitymech) 
+- **Battle Value:** 339 
 
-### Civil War
-- Lyran Alliance
+## Availability 
 
-### Jihad
-- Lyran Alliance
+### Civil War 
 
-### Early Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Late Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Dark Ages
-- Lyran Commonwealth
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

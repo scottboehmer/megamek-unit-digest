@@ -1,27 +1,29 @@
-# Thunderbolt TDR-5L
+# Thunderbolt TDR-5L 
 
-[Other Thunderbolt variants](../thunderbolt.md)
+[Other Thunderbolt variants](../thunderbolt.md) 
 
-## Thunderbolt TDR-5L
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (2823)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 208
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER Large Laser
-  - LRM 15 (ammo: 16)
-  - Medium Laser × 3
-  - Streak SRM 2 w/ Artemis IV (ammo: 50)
-  - Small Pulse Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Hist - 2nd SW, [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l)
-- **Battle Value:** 1515
+## Thunderbolt TDR-5L 
 
-## Availability
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2823) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 208 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER Large Laser 
+  - LRM 15 (ammo: 16) 
+  - Medium Laser × 3 
+  - Streak SRM 2 w/ Artemis IV (ammo: 50) 
+  - Small Pulse Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l) 
+- **Battle Value:** 1515 
 
-### Early Succession Wars
-- Capellan Confederation
+## Availability 
+
+### Early Succession Wars 
+
+- Capellan Confederation 
 

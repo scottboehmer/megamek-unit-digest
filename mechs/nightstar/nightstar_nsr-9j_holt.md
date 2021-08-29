@@ -1,40 +1,46 @@
-# Nightstar NSR-9J (Holt)
+# Nightstar NSR-9J (Holt) 
 
-[Other Nightstar variants](../nightstar.md)
+[Other Nightstar variants](../nightstar.md) 
 
-## Nightstar NSR-9J (Holt)
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere Mixed (3063)
-- **Chassis:** 95 tons
-- **Movement:** 3 (4) / 5 (6), XL
-  - **Jumping:** 3
-- **Armor:** 293
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Clan ER PPC
-  - Clan Gauss Rifle × 2 (ammo: 32)
-  - Clan Large Pulse Laser
-  - Clan ER Small Laser
-- **Equipment:**
-  - Angel ECM Suite
-- **Sources:** SO:Holt's Hilltoppers, [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt)
-- **Battle Value:** 3433
+## Nightstar NSR-9J (Holt) 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere Mixed (3063) 
+- **Chassis:** 95 tons 
+- **Movement:** 3 (4) / 5 (6), XL 
+  - **Jumping:** 3 
+- **Armor:** 293 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Clan ER PPC 
+  - Clan Gauss Rifle × 2 (ammo: 32) 
+  - Clan Large Pulse Laser 
+  - Clan ER Small Laser 
+- **Equipment:** 
+  - Angel ECM Suite 
+- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt) 
+- **Battle Value:** 3433 
 
-### Civil War (Unique)
-- Mercenary
+## Availability 
 
-### Jihad (Unique)
-- Mercenary
+### Civil War (Unique) 
 
-### Early Republic (Unique)
-- Mercenary
+- Mercenary 
 
-### Late Republic (Unique)
-- Mercenary
+### Jihad (Unique) 
 
-### Dark Ages (Unique)
-- Mercenary
+- Mercenary 
+
+### Early Republic (Unique) 
+
+- Mercenary 
+
+### Late Republic (Unique) 
+
+- Mercenary 
+
+### Dark Ages (Unique) 
+
+- Mercenary 
 

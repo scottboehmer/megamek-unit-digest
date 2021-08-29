@@ -1,40 +1,46 @@
-# Templar TLR1-OC
+# Templar TLR1-OC 
 
-[Other Templar variants](../templar.md)
+[Other Templar variants](../templar.md) 
 
-## Templar TLR1-OC
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 263
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
-  - ER PPC
-  - ER Medium Laser
-  - Medium Pulse Laser × 5
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5197/templar-tlr1-oc)
-- **Battle Value:** 2063
+## Templar TLR1-OC 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 263 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - LB 20-X AC (ammo: 5 Standard, 10 Cluster) 
+  - ER PPC 
+  - ER Medium Laser 
+  - Medium Pulse Laser × 5 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5197/templar-tlr1-oc) 
+- **Battle Value:** 2063 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Jihad
-- Federated Suns
+### Civil War 
 
-### Early Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
 
-### Late Republic
-- Federated Suns
+### Jihad 
 
-### Dark Ages
-- Federated Suns
+- Federated Suns 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

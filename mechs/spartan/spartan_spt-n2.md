@@ -1,80 +1,90 @@
-# Spartan SPT-N2
+# Spartan SPT-N2 
 
-[Other Spartan variants](../spartan.md)
+[Other Spartan variants](../spartan.md) 
 
-## Spartan SPT-N2
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2765)
-- **Chassis:** 80 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 224
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser × 3
-  - Streak SRM 2 × 2 (ammo: 100)
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-  - TAG
-- **Sources:** TRO 3058 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/2995/spartan-spt-n2)
-- **Battle Value:** 1605
+## Spartan SPT-N2 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2765) 
+- **Chassis:** 80 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Pulse Laser × 3 
+  - Streak SRM 2 × 2 (ammo: 100) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+  - TAG 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2995/spartan-spt-n2) 
+- **Battle Value:** 1605 
 
-### Star League
-- Star League
-- Star League - Royal Divisions
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Mongoose
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Widowmaker
-- Clan Wolf
-- Clan Wolverine
-- ComStar
-- Star League-in-Exile
+### Star League 
 
-### Late Succession Wars - LosTech
-- ComStar
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- ComStar
+### Early Succession Wars 
 
-### Clan Invasion
-- ComStar
-- Mercenary
-- Word of Blake
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Mongoose 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Widowmaker 
+- Clan Wolf 
+- Clan Wolverine 
+- ComStar 
+- Star League-in-Exile 
 
-### Civil War
-- ComStar
-- Mercenary
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- ComStar
-- Escorpión Imperio
-- Mercenary
-- Word of Blake
+- ComStar 
 
-### Early Republic
-- Escorpión Imperio
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Escorpión Imperio
+- ComStar 
+
+### Clan Invasion 
+
+- ComStar 
+- Mercenary 
+- Word of Blake 
+
+### Civil War 
+
+- ComStar 
+- Mercenary 
+- Word of Blake 
+
+### Jihad 
+
+- ComStar 
+- Escorpión Imperio 
+- Mercenary 
+- Word of Blake 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
 

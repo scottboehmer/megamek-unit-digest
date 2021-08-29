@@ -1,32 +1,37 @@
-# Wasp WSP-3A
+# Wasp WSP-3A 
 
-[Other Wasp variants](../wasp.md)
+[Other Wasp variants](../wasp.md) 
 
-## Wasp WSP-3A
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3082)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 8
-- **Armor:** 64
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Pulse Laser
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3526/wasp-wsp-3a)
-- **Battle Value:** 401
+## Wasp WSP-3A 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3082) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 8 
+- **Armor:** 64 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3526/wasp-wsp-3a) 
+- **Battle Value:** 401 
 
-### Jihad
-- Outworlds Alliance
+## Availability 
 
-### Early Republic
-- Raven Alliance
+### Jihad 
 
-### Late Republic
-- Raven Alliance
+- Outworlds Alliance 
 
-### Dark Ages
-- Raven Alliance
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Raven Alliance 
+
+### Dark Ages 
+
+- Raven Alliance 
 

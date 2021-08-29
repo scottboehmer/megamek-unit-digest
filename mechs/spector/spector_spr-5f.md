@@ -1,74 +1,81 @@
-# Spector SPR-5F
+# Spector SPR-5F 
 
-[Other Spector variants](../spector.md)
+[Other Spector variants](../spector.md) 
 
-## Spector SPR-5F
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3053)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 7
-- **Armor:** 119
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser × 2
-  - Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3003/spector-spr-5f)
-- **Battle Value:** 1183
+## Spector SPR-5F 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3053) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 119 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 2 
+  - Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3003/spector-spr-5f) 
+- **Battle Value:** 1183 
 
-### Clan Invasion
-- Circinus Federation
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Circinus Federation
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Circinus Federation
-- ComStar
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Circinus Federation 
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+- Circinus Federation 
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+### Jihad 
+
+- Circinus Federation 
+- ComStar 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
 

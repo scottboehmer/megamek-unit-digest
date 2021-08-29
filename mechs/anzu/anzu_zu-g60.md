@@ -1,39 +1,43 @@
-# Anzu ZU-G60
+# Anzu ZU-G60 
 
-[Other Anzu variants](../anzu.md)
+[Other Anzu variants](../anzu.md) 
 
-## Anzu ZU-G60
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3098)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 176
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Ultra AC/10 (ammo: 30)
-  - Light PPC w/ PPC Capacitor
-  - LRM 10 (ammo: 24)
-  - ER Medium Laser
-- **Equipment:**
-  - CASE II
-  - TAG
-- **Sources:** TRO 3145 Free Worlds League - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6510/anzu-zu-g60)
-- **Battle Value:** 1503
+## Anzu ZU-G60 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3098) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 30) 
+  - Light PPC w/ PPC Capacitor 
+  - LRM 10 (ammo: 24) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - CASE II 
+  - TAG 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6510/anzu-zu-g60) 
+- **Battle Value:** 1503 
 
-### Early Republic
-- Marik-Stewart Commonwealth
+## Availability 
 
-### Late Republic
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
+### Early Republic 
 
-### Dark Ages
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
+- Marik-Stewart Commonwealth 
+
+### Late Republic 
+
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+
+### Dark Ages 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 

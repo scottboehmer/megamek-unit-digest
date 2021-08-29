@@ -1,27 +1,30 @@
-# Porcupine PRC-1N
+# Porcupine PRC-1N 
 
-[Other Porcupine variants](../porcupine.md)
+[Other Porcupine variants](../porcupine.md) 
 
-## Porcupine PRC-1N
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3063)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 9 / 14 (18), XL
-- **Armor:** 62 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 4
-- **Equipment:**
-  - Spikes × 5
-  - Supercharger
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2555/porcupine-prc-1n)
-- **Battle Value:** 870
+## Porcupine PRC-1N 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3063) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 9 / 14 (18), XL 
+- **Armor:** 62 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 4 
+- **Equipment:** 
+  - Spikes × 5 
+  - Supercharger 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2555/porcupine-prc-1n) 
+- **Battle Value:** 870 
 
-### Civil War
-- Solaris 7
+## Availability 
 
-### Jihad
-- Solaris 7
+### Civil War 
+
+- Solaris 7 
+
+### Jihad 
+
+- Solaris 7 
 

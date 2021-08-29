@@ -1,29 +1,33 @@
-# Cougar X
+# Cougar X 
 
-[Other Cougar variants](../cougar.md)
+[Other Cougar variants](../cougar.md) 
 
-## Cougar X
-- **Role:** Striker
-- **Tech Base:** Inner Sphere Mixed (3132)
-- **Chassis:** 35 tons (Composite)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 7
-- **Armor:** 67 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Clan Streak LRM 10 × 2 (ammo: 24)
-  - Clan ER Medium Laser × 2
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard)
-- **Battle Value:** 1474
+## Cougar X 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere Mixed (3132) 
+- **Chassis:** 35 tons (Composite) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 7 
+- **Armor:** 67 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Clan Streak LRM 10 × 2 (ammo: 24) 
+  - Clan ER Medium Laser × 2 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard) 
+- **Battle Value:** 1474 
 
-### Early Republic
-- Clan Jade Falcon
+## Availability 
 
-### Late Republic
-- Clan Jade Falcon
+### Early Republic 
 
-### Dark Ages
-- Clan Jade Falcon
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

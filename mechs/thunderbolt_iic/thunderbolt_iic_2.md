@@ -1,27 +1,38 @@
-# Thunderbolt IIC 2
+# Thunderbolt IIC 2 
 
-[Other Thunderbolt IIC variants](../thunderbolt_iic.md)
+[Other Thunderbolt IIC variants](../thunderbolt_iic.md) 
 
-## Thunderbolt IIC 2
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere Mixed (3088)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 211 (Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyro
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Clan Improved Heavy Large Laser
-  - Clan ER Large Pulse Laser
-  - Clan Medium Pulse Laser × 3
-  - Clan Small Pulse Laser
-- **Equipment:**
-  - Clan ECM Suite
-- **Source:** Ice Wind Metals - Early Republic
-- **Battle Value:** 2177
+## Thunderbolt IIC 2 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere Mixed (3088) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 211 (Ferro Fibrous) 
+- **Gyroscope:** Heavy-Duty Gyro 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Clan Improved Heavy Large Laser 
+  - Clan ER Large Pulse Laser 
+  - Clan Medium Pulse Laser × 3 
+  - Clan Small Pulse Laser 
+- **Equipment:** 
+  - Clan ECM Suite 
+- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240/thunderbolt-iic-2) 
+- **Battle Value:** 2177 
 
-Availability Unknown
+## Availability 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

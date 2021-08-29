@@ -1,43 +1,50 @@
-# Apollo APL-2S
+# Apollo APL-2S 
 
-[Other Apollo variants](../apollo.md)
+[Other Apollo variants](../apollo.md) 
 
-## Apollo APL-2S
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 55 tons
-- **Movement:** 4 / 6
-- **Armor:** 184
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 15 w/ Artemis IV × 2 (ammo: 32)
-  - Medium Laser × 2
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s)
-- **Battle Value:** 1283
+## Apollo APL-2S 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 55 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 184 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
+  - Medium Laser × 2 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s) 
+- **Battle Value:** 1283 
 
-### Clan Invasion
-- Draconis Combine
-- Free Worlds League
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Worlds League
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Free Worlds League
+- Draconis Combine 
+- Free Worlds League 
 
-### Early Republic
-- Capellan Confederation
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Draconis Combine
+- Draconis Combine 
+- Free Worlds League 
 
-### Dark Ages
-- Capellan Confederation
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+- Free Worlds League 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Draconis Combine 
 

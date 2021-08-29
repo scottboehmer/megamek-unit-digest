@@ -1,44 +1,51 @@
-# Victor VTR-9S
+# Victor VTR-9S 
 
-[Other Victor variants](../victor.md)
+[Other Victor variants](../victor.md) 
 
-## Victor VTR-9S
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2998)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 168
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - AC/20 (ammo: 15)
-  - SRM 6 (ammo: 15)
-  - Medium Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3414/victor-vtr-9s)
-- **Battle Value:** 1360
+## Victor VTR-9S 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2998) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 168 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - AC/20 (ammo: 15) 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3414/victor-vtr-9s) 
+- **Battle Value:** 1360 
 
-### Late Succession Wars - LosTech
-- Lyran Commonwealth
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Lyran Commonwealth
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Circinus Federation
-- Federated Commonwealth
-- Lyran Alliance
-- Lyran Commonwealth
+- Lyran Commonwealth 
 
-### Civil War
-- Circinus Federation
-- Lyran Alliance
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Circinus Federation
-- Lyran Alliance
+- Lyran Commonwealth 
 
-### Early Republic
-- Lyran Commonwealth
+### Clan Invasion 
+
+- Circinus Federation 
+- Federated Commonwealth 
+- Lyran Alliance 
+- Lyran Commonwealth 
+
+### Civil War 
+
+- Circinus Federation 
+- Lyran Alliance 
+
+### Jihad 
+
+- Circinus Federation 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
 

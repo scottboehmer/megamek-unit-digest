@@ -1,47 +1,54 @@
-# Dragon DRG-5N
+# Dragon DRG-5N 
 
-[Other Dragon variants](../dragon.md)
+[Other Dragon variants](../dragon.md) 
 
-## Dragon DRG-5N
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3047)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8
-- **Armor:** 160
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Ultra AC/5 (ammo: 20)
-  - LRM 10 (ammo: 24)
-  - Medium Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/911/dragon-drg-5n)
-- **Battle Value:** 1223
+## Dragon DRG-5N 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3047) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 160 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/5 (ammo: 20) 
+  - LRM 10 (ammo: 24) 
+  - Medium Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/911/dragon-drg-5n) 
+- **Battle Value:** 1223 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
+## Availability 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+- Draconis Combine 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+### Clan Invasion 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Late Republic
-- Mercenary
+### Civil War 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
 

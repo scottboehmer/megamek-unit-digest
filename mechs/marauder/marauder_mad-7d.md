@@ -1,36 +1,41 @@
-# Marauder MAD-7D
+# Marauder MAD-7D 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-7D
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 224
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - RAC/5 (ammo: 40)
-  - ER Large Laser × 2
-  - ER Medium Laser × 2
-- **Equipment:**
-  - Guardian ECM Suite
-  - Targeting Computer
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d)
-- **Battle Value:** 1986
+## Marauder MAD-7D 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - RAC/5 (ammo: 40) 
+  - ER Large Laser × 2 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Targeting Computer 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d) 
+- **Battle Value:** 1986 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

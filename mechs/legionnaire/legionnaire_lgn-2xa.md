@@ -1,30 +1,35 @@
-# Legionnaire LGN-2XA
+# Legionnaire LGN-2XA 
 
-[Other Legionnaire variants](../legionnaire.md)
+[Other Legionnaire variants](../legionnaire.md) 
 
-## Legionnaire LGN-2XA
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-- **Armor:** 136
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Arrow IV (ammo: 10)
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/1865/legionnaire-lgn-2xa)
-- **Battle Value:** 1172
+## Legionnaire LGN-2XA 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+- **Armor:** 136 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Arrow IV (ammo: 10) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1865/legionnaire-lgn-2xa) 
+- **Battle Value:** 1172 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

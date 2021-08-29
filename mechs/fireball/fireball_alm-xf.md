@@ -1,24 +1,25 @@
-# Fireball ALM-XF
+# Fireball ALM-XF 
 
-[Other Fireball variants](../fireball.md)
+[Other Fireball variants](../fireball.md) 
 
-## Fireball ALM-XF
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3077)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 16 / 24 (40), XXL
-- **Armor:** 62 (Ferro Fibrous)
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Small Laser × 2
-- **Equipment:**
-  - MASC
-  - Supercharger
-- **Sources:** XTRO Most Wanted - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/5781/fireball-alm-xf)
-- **Battle Value:** 612
+## Fireball ALM-XF 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 16 / 24 (40), XXL 
+- **Armor:** 62 (Ferro Fibrous) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - MASC 
+  - Supercharger 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5781/fireball-alm-xf) 
+- **Battle Value:** 612 
 
-Availability Unknown
+## Availability 
+
+Availability Unknown 
 

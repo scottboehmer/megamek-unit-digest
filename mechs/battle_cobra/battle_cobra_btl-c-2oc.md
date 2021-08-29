@@ -1,26 +1,29 @@
-# Battle Cobra BTL-C-2OC
+# Battle Cobra BTL-C-2OC 
 
-[Other Battle Cobra variants](../battle_cobra.md)
+[Other Battle Cobra variants](../battle_cobra.md) 
 
-## Battle Cobra BTL-C-2OC
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3063)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 125 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - iNarc × 2 (ammo: 20)
-- **Equipment:**
-  - C3i
-- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/266/battle-cobra-btl-c-2oc)
-- **Battle Value:** 726
+## Battle Cobra BTL-C-2OC 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3063) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - iNarc × 2 (ammo: 20) 
+- **Equipment:** 
+  - C3i 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/266/battle-cobra-btl-c-2oc) 
+- **Battle Value:** 726 
 
-### Civil War
-- ComStar
+## Availability 
 
-### Jihad
-- ComStar
+### Civil War 
+
+- ComStar 
+
+### Jihad 
+
+- ComStar 
 

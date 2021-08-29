@@ -1,72 +1,79 @@
-# Dig Lord RCL-4 MiningMech
+# Dig Lord RCL-4 MiningMech 
 
-[Other Dig Lord variants](../dig_lord.md)
+[Other Dig Lord variants](../dig_lord.md) 
 
-## Dig Lord RCL-4 MiningMech
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3057)
-- **Chassis:** 65 tons (Industrial)
-- **Movement:** 3 / 5, Fuel Cell
-- **Armor:** 128
-- **Cockpit:** Industrial
-- **Heat Sinks:** 3 (3)
-- **Weapons:**
-  - Mining Drill
-  - Rock-Cutter
-  - Fluid Gun × 4 (ammo: 200)
-- **Equipment:**
-  - Extended Fuel Tank
-- **Sources:** TRO VA - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4079/dig-lord-rcl-4-miningmech)
-- **Battle Value:** 617
+## Dig Lord RCL-4 MiningMech 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3057) 
+- **Chassis:** 65 tons (Industrial) 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 128 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 3 (3) 
+- **Weapons:** 
+  - Mining Drill 
+  - Rock-Cutter 
+  - Fluid Gun × 4 (ammo: 200) 
+- **Equipment:** 
+  - Extended Fuel Tank 
+- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4079/dig-lord-rcl-4-miningmech) 
+- **Battle Value:** 617 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Lyran Alliance
-- Word of Blake
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
 
-### Early Republic
-- Federated Suns
-- Lyran Commonwealth
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Lyran Commonwealth
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
 
-### Dark Ages
-- Capellan Confederation
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Rasalhague Dominion
-- Raven Alliance
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Jihad 
+
+- Federated Suns 
+- Lyran Alliance 
+- Word of Blake 
+
+### Early Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 

@@ -1,46 +1,52 @@
-# Zeus ZEU-9S2
+# Zeus ZEU-9S2 
 
-[Other Zeus variants](../zeus.md)
+[Other Zeus variants](../zeus.md) 
 
-## Zeus ZEU-9S2
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 197 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - ER Large Laser
-  - LRM 15 × 2 (ammo: 32)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5459/zeus-zeu-9s2)
-- **Battle Value:** 1769
+## Zeus ZEU-9S2 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 197 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER Large Laser 
+  - LRM 15 × 2 (ammo: 32) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5459/zeus-zeu-9s2) 
+- **Battle Value:** 1769 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Civil War
-- Lyran Alliance
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+- Federated Commonwealth 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Lyran Alliance 
+- Mercenary 
+
+### Jihad 
+
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

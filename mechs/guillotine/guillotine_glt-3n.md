@@ -1,89 +1,98 @@
-# Guillotine GLT-3N
+# Guillotine GLT-3N 
 
-[Other Guillotine variants](../guillotine.md)
+[Other Guillotine variants](../guillotine.md) 
 
-## Guillotine GLT-3N
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2499)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 192
-- **Heat Sinks:** 25 (25)
-- **Weapons:**
-  - Large Laser
-  - SRM 6 (ammo: 15)
-  - Medium Laser × 4
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1338/guillotine-glt-3n)
-- **Battle Value:** 1418
+## Guillotine GLT-3N 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2499) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 192 
+- **Heat Sinks:** 25 (25) 
+- **Weapons:** 
+  - Large Laser 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1338/guillotine-glt-3n) 
+- **Battle Value:** 1418 
 
-### Star League
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Mercenary
-- Rim Worlds Republic - Terran Corps
-- Star League
-- Star League - Royal Divisions
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Clan Hell's Horses
-- Clan Snow Raven
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Mercenary
-- Star League-in-Exile
+### Star League 
 
-### Late Succession Wars - LosTech
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Snow Raven
-- ComStar
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rim Worlds Republic - Terran Corps 
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Clan Hell's Horses
-- Clan Snow Raven
-- ComStar
-- Draconis Combine
+### Early Succession Wars 
 
-### Clan Invasion
-- Clan Hell's Horses
-- Clan Snow Raven
-- ComStar
-- Draconis Combine
-- Free Rasalhague Republic
-- Word of Blake
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Snow Raven 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League-in-Exile 
 
-### Civil War
-- Clan Hell's Horses
-- Clan Snow Raven
-- ComStar
-- Draconis Combine
-- Free Rasalhague Republic
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Clan Hell's Horses
-- Clan Snow Raven
-- ComStar
-- Draconis Combine
-- Escorpión Imperio
-- Free Rasalhague Republic
-- Word of Blake
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Snow Raven 
+- ComStar 
 
-### Early Republic
-- Escorpión Imperio
+### Late Succession Wars - Renaissance 
+
+- Clan Hell's Horses 
+- Clan Snow Raven 
+- ComStar 
+- Draconis Combine 
+
+### Clan Invasion 
+
+- Clan Hell's Horses 
+- Clan Snow Raven 
+- ComStar 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Word of Blake 
+
+### Civil War 
+
+- Clan Hell's Horses 
+- Clan Snow Raven 
+- ComStar 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Word of Blake 
+
+### Jihad 
+
+- Clan Hell's Horses 
+- Clan Snow Raven 
+- ComStar 
+- Draconis Combine 
+- Escorpión Imperio 
+- Free Rasalhague Republic 
+- Word of Blake 
+
+### Early Republic 
+
+- Escorpión Imperio 
 

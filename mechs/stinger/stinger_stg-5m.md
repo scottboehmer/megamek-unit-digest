@@ -1,108 +1,115 @@
-# Stinger STG-5M
+# Stinger STG-5M 
 
-[Other Stinger variants](../stinger.md)
+[Other Stinger variants](../stinger.md) 
 
-## Stinger STG-5M
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 56
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser
-  - Flamer
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** RecGuide 13 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3063/stinger-stg-5m)
-- **Battle Value:** 432
+## Stinger STG-5M 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+  - Flamer 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** RecGuide 13 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3063/stinger-stg-5m) 
+- **Battle Value:** 432 
 
-### Clan Invasion
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Mercenary
-- Second Star League
-- St. Ives Compact
-- Taurian Concordat
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Second Star League
-- St. Ives Compact
-- Taurian Concordat
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Taurian Concordat 
+- Word of Blake 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Mercenary
-- Regulan Fiefs
-- Rim Commonality
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Taurian Concordat 
+- Word of Blake 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Mercenary
-- Pirate
-- Regulan Fiefs
-- Rim Commonality
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Mercenary 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Mercenary 
+- Pirate 
+- Regulan Fiefs 
+- Rim Commonality 
 

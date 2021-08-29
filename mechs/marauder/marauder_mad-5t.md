@@ -1,35 +1,40 @@
-# Marauder MAD-5T
+# Marauder MAD-5T 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-5T
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 224
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - RAC/5 (ammo: 40)
-  - Large Pulse Laser × 2
-  - Medium Pulse Laser × 2
-- **Equipment:**
-  - Targeting Computer
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t)
-- **Battle Value:** 1750
+## Marauder MAD-5T 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - RAC/5 (ammo: 40) 
+  - Large Pulse Laser × 2 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Targeting Computer 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t) 
+- **Battle Value:** 1750 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

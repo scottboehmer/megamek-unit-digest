@@ -1,50 +1,57 @@
-# Stiletto STO-4A
+# Stiletto STO-4A 
 
-[Other Stiletto variants](../stiletto.md)
+[Other Stiletto variants](../stiletto.md) 
 
-## Stiletto STO-4A
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3061)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 8 / 12, Light
-- **Armor:** 107 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 5 (ammo: 24)
-  - Streak SRM 2 × 2 (ammo: 50)
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5131/stiletto-sto-4a)
-- **Battle Value:** 859
+## Stiletto STO-4A 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3061) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 8 / 12, Light 
+- **Armor:** 107 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 5 (ammo: 24) 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5131/stiletto-sto-4a) 
+- **Battle Value:** 859 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Civil War
-- Lyran Alliance
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+- Federated Commonwealth 
+- Lyran Alliance 
+- Mercenary 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
+
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

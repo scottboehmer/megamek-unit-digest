@@ -1,28 +1,30 @@
-# Shadow Hawk SHD-11CS
+# Shadow Hawk SHD-11CS 
 
-[Other Shadow Hawk variants](../shadow_hawk.md)
+[Other Shadow Hawk variants](../shadow_hawk.md) 
 
-## Shadow Hawk SHD-11CS
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8, Light
-  - **Jumping:** 5
-- **Armor:** 178 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Snub-Nose PPC
-  - LRM 15 w/ Artemis IV (ammo: 16)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - C3i
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs)
-- **Battle Value:** 1700
+## Shadow Hawk SHD-11CS 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8, Light 
+  - **Jumping:** 5 
+- **Armor:** 178 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - LRM 15 w/ Artemis IV (ammo: 16) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - C3i 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 
+- **Battle Value:** 1700 
 
-### Jihad
-- ComStar
-- Word of Blake
+## Availability 
+
+### Jihad 
+
+- ComStar 
+- Word of Blake 
 

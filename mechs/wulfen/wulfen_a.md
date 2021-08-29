@@ -1,24 +1,26 @@
-# Wulfen A
+# Wulfen A 
 
-[Other Wulfen variants](../wulfen.md)
+[Other Wulfen variants](../wulfen.md) 
 
-## Wulfen A
-- **Role:** Striker
-- **Tech Base:** Clan Mixed (3137)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15, XXL
-- **Armor:** 104 (Stealth)
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER PPC
-- **Equipment:**
-  - ECM Suite
-- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6257/wulfen-a)
-- **Battle Value:** 1615
+## Wulfen A 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan Mixed (3137) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 10 / 15, XXL 
+- **Armor:** 104 (Stealth) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - ER PPC 
+- **Equipment:** 
+  - ECM Suite 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6257/wulfen-a) 
+- **Battle Value:** 1615 
 
-### Dark Ages
-- Clan Wolf
+## Availability 
+
+### Dark Ages 
+
+- Clan Wolf 
 

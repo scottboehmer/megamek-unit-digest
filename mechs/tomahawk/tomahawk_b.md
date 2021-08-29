@@ -1,39 +1,45 @@
-# Tomahawk B
+# Tomahawk B 
 
-[Other Tomahawk variants](../tomahawk.md)
+[Other Tomahawk variants](../tomahawk.md) 
 
-## Tomahawk B
-- **Role:** Juggernaut
-- **Tech Base:** Clan (3063)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5, XL
-- **Armor:** 304
-- **Heat Sinks:** 26 (52)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Large Laser × 2
-  - Medium Pulse Laser × 5
-  - LRM 10 (ammo: 12)
-  - ER Medium Laser × 6
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3145 The Clans - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/6300/tomahawk-b)
-- **Battle Value:** 3323
+## Tomahawk B 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (3063) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 304 
+- **Heat Sinks:** 26 (52) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Large Laser × 2 
+  - Medium Pulse Laser × 5 
+  - LRM 10 (ammo: 12) 
+  - ER Medium Laser × 6 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6300/tomahawk-b) 
+- **Battle Value:** 3323 
 
-### Civil War
-- Clan Wolf
+## Availability 
 
-### Jihad
-- Clan Wolf
+### Civil War 
 
-### Early Republic
-- Clan Wolf
+- Clan Wolf 
 
-### Late Republic
-- Clan Wolf
+### Jihad 
 
-### Dark Ages
-- Clan Wolf
+- Clan Wolf 
+
+### Early Republic 
+
+- Clan Wolf 
+
+### Late Republic 
+
+- Clan Wolf 
+
+### Dark Ages 
+
+- Clan Wolf 
 

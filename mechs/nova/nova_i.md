@@ -1,55 +1,59 @@
-# Nova I
+# Nova I 
 
-[Other Nova variants](../nova.md)
+[Other Nova variants](../nova.md) 
 
-## Nova "Black Hawk" I
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3094)
-- **Chassis:** 50 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 19 (38)
-- **Weapons:**
-  - ER PPC
-  - Improved Heavy Medium Laser × 5
-- **Sources:** ilClan Rec Guide 13 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i)
-- **Battle Value:** 2224
+## Nova "Black Hawk" I 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3094) 
+- **Chassis:** 50 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 160 
+- **Heat Sinks:** 19 (38) 
+- **Weapons:** 
+  - ER PPC 
+  - Improved Heavy Medium Laser × 5 
+- **Sources:** ilClan Rec Guide 13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i) 
+- **Battle Value:** 2224 
 
-### Early Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Escorpión Imperio
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
+## Availability 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Escorpión Imperio
-- Mercenary
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
-- Wolf's Dragoons
+### Early Republic 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Escorpión Imperio
-- Mercenary
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
-- Scorpion Empire
-- Wolf's Dragoons
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+- Scorpion Empire 
+- Wolf's Dragoons 
 

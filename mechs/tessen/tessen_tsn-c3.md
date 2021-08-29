@@ -1,41 +1,47 @@
-# Tessen TSN-C3
+# Tessen TSN-C3 
 
-[Other Tessen variants](../tessen.md)
+[Other Tessen variants](../tessen.md) 
 
-## Tessen TSN-C3
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 161 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER PPC
-  - iNarc (ammo: 16)
-  - Medium Pulse Laser × 2
-- **Equipment:**
-  - C3 Slave
-  - TAG
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3)
-- **Battle Value:** 1234
+## Tessen TSN-C3 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 161 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER PPC 
+  - iNarc (ammo: 16) 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - C3 Slave 
+  - TAG 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3) 
+- **Battle Value:** 1234 
 
-### Civil War
-- Draconis Combine
+## Availability 
 
-### Jihad
-- Draconis Combine
+### Civil War 
 
-### Early Republic
-- Draconis Combine
-- Republic of the Sphere
+- Draconis Combine 
 
-### Late Republic
-- Draconis Combine
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Draconis Combine
-- Republic of the Sphere
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Republic of the Sphere 
 

@@ -1,34 +1,39 @@
-# Mjolnir MLR-BX
+# Mjolnir MLR-BX 
 
-[Other Mjolnir variants](../mjolnir.md)
+[Other Mjolnir variants](../mjolnir.md) 
 
-## Mjolnir MLR-BX
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3078)
-- **Chassis:** 25 tons
-- **Movement:** 6 (7) / 9 (11), XL
-  - **Jumping:** 6
-- **Armor:** 80 (Ferro Fibrous)
-- **Gyroscope:** XL Gyro
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - SRM 4 × 2 (ammo: 25)
-  - Mace
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2195/mjolnir-mlr-bx)
-- **Battle Value:** 612
+## Mjolnir MLR-BX 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** 25 tons 
+- **Movement:** 6 (7) / 9 (11), XL 
+  - **Jumping:** 6 
+- **Armor:** 80 (Ferro Fibrous) 
+- **Gyroscope:** XL Gyro 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 4 × 2 (ammo: 25) 
+  - Mace 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2195/mjolnir-mlr-bx) 
+- **Battle Value:** 612 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

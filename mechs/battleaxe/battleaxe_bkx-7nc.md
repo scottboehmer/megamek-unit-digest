@@ -1,26 +1,29 @@
-# BattleAxe BKX-7NC
+# BattleAxe BKX-7NC 
 
-[Other BattleAxe variants](../battleaxe.md)
+[Other BattleAxe variants](../battleaxe.md) 
 
-## BattleAxe BKX-7NC
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (2480)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6
-- **Armor:** 144
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - PPC × 2
-  - SRM 6 (ammo: 15)
-  - LRM 5 × 4 (ammo: 24)
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/278/battleaxe-bkx-7nc)
-- **Battle Value:** 1252
+## BattleAxe BKX-7NC 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2480) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 144 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - PPC × 2 
+  - SRM 6 (ammo: 15) 
+  - LRM 5 × 4 (ammo: 24) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278/battleaxe-bkx-7nc) 
+- **Battle Value:** 1252 
 
-### Star League
-- Federated Suns
+## Availability 
 
-### Early Succession Wars
-- Federated Suns
+### Star League 
+
+- Federated Suns 
+
+### Early Succession Wars 
+
+- Federated Suns 
 

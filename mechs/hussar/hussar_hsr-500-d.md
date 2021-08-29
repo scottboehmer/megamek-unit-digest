@@ -1,29 +1,33 @@
-# Hussar HSR-500-D
+# Hussar HSR-500-D 
 
-[Other Hussar variants](../hussar.md)
+[Other Hussar variants](../hussar.md) 
 
-## Hussar HSR-500-D
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 9 / 14, XL
-- **Armor:** 98 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-- **Equipment:**
-  - C3i
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1590/hussar-hsr-500-d)
-- **Battle Value:** 977
+## Hussar HSR-500-D 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 98 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+- **Equipment:** 
+  - C3i 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1590/hussar-hsr-500-d) 
+- **Battle Value:** 977 
 
-### Clan Invasion
-- Word of Blake
+## Availability 
 
-### Civil War
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Word of Blake
+- Word of Blake 
+
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

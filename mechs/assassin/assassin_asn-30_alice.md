@@ -1,27 +1,29 @@
-# Assassin ASN-30 (Alice)
+# Assassin ASN-30 (Alice) 
 
-[Other Assassin variants](../assassin.md)
+[Other Assassin variants](../assassin.md) 
 
-## Assassin ASN-30 (Alice)
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11, Light
-  - **Jumping:** 7
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 4
-- **Equipment:**
-  - Guardian ECM Suite
-  - Beagle Active Probe
-  - Targeting Computer
-  - C3 Slave
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3738/assassin-asn-30-alice)
-- **Battle Value:** 1507
+## Assassin ASN-30 (Alice) 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 7 / 11, Light 
+  - **Jumping:** 7 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Beagle Active Probe 
+  - Targeting Computer 
+  - C3 Slave 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3738/assassin-asn-30-alice) 
+- **Battle Value:** 1507 
 
-### Civil War (Unique)
-- Lyran Alliance
+## Availability 
+
+### Civil War (Unique) 
+
+- Lyran Alliance 
 

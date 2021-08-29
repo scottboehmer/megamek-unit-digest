@@ -1,39 +1,44 @@
-# Panther PNT-12K
+# Panther PNT-12K 
 
-[Other Panther variants](../panther.md)
+[Other Panther variants](../panther.md) 
 
-## Panther PNT-12K
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3079)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 119
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER PPC
-  - MRM 10 (ammo: 24)
-- **Equipment:**
-  - CASE
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419/panther-pnt-12k)
-- **Battle Value:** 930
+## Panther PNT-12K 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3079) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 119 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC 
+  - MRM 10 (ammo: 24) 
+- **Equipment:** 
+  - CASE 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419/panther-pnt-12k) 
+- **Battle Value:** 930 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+## Availability 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Jihad 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
 

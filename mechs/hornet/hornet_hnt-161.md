@@ -1,32 +1,36 @@
-# Hornet HNT-161
+# Hornet HNT-161 
 
-[Other Hornet variants](../hornet.md)
+[Other Hornet variants](../hornet.md) 
 
-## Hornet HNT-161
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3052)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 62 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser
-  - LRM 5 (ammo: 48)
-  - Small Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1547/hornet-hnt-161)
-- **Battle Value:** 511
+## Hornet HNT-161 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 62 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+  - LRM 5 (ammo: 48) 
+  - Small Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1547/hornet-hnt-161) 
+- **Battle Value:** 511 
 
-### Clan Invasion
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Wolf's Dragoons
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Wolf's Dragoons 
 

@@ -1,31 +1,34 @@
-# Jinggau JN-G8BX (Rush)
+# Jinggau JN-G8BX (Rush) 
 
-[Other Jinggau variants](../jinggau.md)
+[Other Jinggau variants](../jinggau.md) 
 
-## Jinggau JN-G8BX (Rush)
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3070)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 4
-- **Armor:** 195 (Light Ferro Fibrous)
-- **Gyroscope:** XL Gyro
-- **Cockpit:** Small
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Sniper Cannon (ammo: 20)
-  - Medium X-Pulse Laser × 4
-- **Equipment:**
-  - C3 Slave
-  - TAG
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709/jinggau-jn-g8bx-rush)
-- **Battle Value:** 1337
+## Jinggau JN-G8BX (Rush) 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 4 
+- **Armor:** 195 (Light Ferro Fibrous) 
+- **Gyroscope:** XL Gyro 
+- **Cockpit:** Small 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Sniper Cannon (ammo: 20) 
+  - Medium X-Pulse Laser × 4 
+- **Equipment:** 
+  - C3 Slave 
+  - TAG 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709/jinggau-jn-g8bx-rush) 
+- **Battle Value:** 1337 
 
-### Jihad (Unique)
-- Capellan Confederation
+## Availability 
 
-### Early Republic (Unique)
-- Capellan Confederation
+### Jihad (Unique) 
+
+- Capellan Confederation 
+
+### Early Republic (Unique) 
+
+- Capellan Confederation 
 

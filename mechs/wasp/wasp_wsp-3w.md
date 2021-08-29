@@ -1,32 +1,37 @@
-# Wasp WSP-3W
+# Wasp WSP-3W 
 
-[Other Wasp variants](../wasp.md)
+[Other Wasp variants](../wasp.md) 
 
-## Wasp WSP-3W
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 20 tons
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 35 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Small Pulse Laser × 2
-  - Small Laser × 4
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w)
-- **Battle Value:** 342
+## Wasp WSP-3W 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 20 tons 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 35 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Small Pulse Laser × 2 
+  - Small Laser × 4 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w) 
+- **Battle Value:** 342 
 
-### Clan Invasion
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Wolf's Dragoons
+- Wolf's Dragoons 
 
-### Early Republic
-- Wolf's Dragoons
+### Civil War 
+
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Wolf's Dragoons 
 

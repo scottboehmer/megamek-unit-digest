@@ -1,28 +1,31 @@
-# Nexus II NXS2-A
+# Nexus II NXS2-A 
 
-[Other Nexus II variants](../nexus_ii.md)
+[Other Nexus II variants](../nexus_ii.md) 
 
-## Nexus II NXS2-A
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12, Light
-  - **Jumping:** 6
-- **Armor:** 56
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - ER Small Laser × 2
-- **Equipment:**
-  - C3i
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2261/nexus-ii-nxs2-a)
-- **Battle Value:** 702
+## Nexus II NXS2-A 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 8 / 12, Light 
+  - **Jumping:** 6 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - C3i 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2261/nexus-ii-nxs2-a) 
+- **Battle Value:** 702 
 
-### Civil War
-- Word of Blake
+## Availability 
 
-### Jihad
-- Word of Blake
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

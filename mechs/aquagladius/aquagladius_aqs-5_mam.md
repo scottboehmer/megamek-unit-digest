@@ -1,34 +1,38 @@
-# Aquagladius AQS-5 MAM
+# Aquagladius AQS-5 MAM 
 
-[Other Aquagladius variants](../aquagladius.md)
+[Other Aquagladius variants](../aquagladius.md) 
 
-## Aquagladius AQS-5 MAM
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3090)
-- **Chassis:** 50 tons (Composite)
-- **Movement:** 6 (7) / 9 (11), XXL
-  - **Underwater:** 6
-- **Armor:** 144 (Patchwork (Hardened, Standard))
-- **Gyroscope:** XL Gyro
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Heavy PPC w/ PPC Capacitor
-  - Small VSP Laser × 2
-  - ER Flamer × 2
-- **Equipment:**
-  - MASS
-- **Sources:** XTRO Ray, [Master Unit List](http://masterunitlist.info/Unit/Details/8108/aquagladius-aqs-5-mam)
-- **Battle Value:** 1946
+## Aquagladius AQS-5 MAM 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3090) 
+- **Chassis:** 50 tons (Composite) 
+- **Movement:** 6 (7) / 9 (11), XXL 
+  - **Underwater:** 6 
+- **Armor:** 144 (Patchwork (Hardened, Standard)) 
+- **Gyroscope:** XL Gyro 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Heavy PPC w/ PPC Capacitor 
+  - Small VSP Laser × 2 
+  - ER Flamer × 2 
+- **Equipment:** 
+  - MASS 
+- **Sources:** XTRO Ray , [Master Unit List](http://masterunitlist.info/Unit/Details/8108/aquagladius-aqs-5-mam) 
+- **Battle Value:** 1946 
 
-### Early Republic
-- Republic of the Sphere
+## Availability 
 
-### Late Republic
-- Republic of the Sphere
+### Early Republic 
 
-### Dark Ages
-- Republic of the Sphere
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

@@ -1,40 +1,45 @@
-# Spider SDR-8X
+# Spider SDR-8X 
 
-[Other Spider variants](../spider.md)
+[Other Spider variants](../spider.md) 
 
-## Spider SDR-8X
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3078)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 10
-- **Armor:** 96
-- **Heat Sinks:** 10 (23)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-- **Equipment:**
-  - Partial Wing
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3019/spider-sdr-8x)
-- **Battle Value:** 765
+## Spider SDR-8X 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 10 
+- **Armor:** 96 
+- **Heat Sinks:** 10 (23) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Partial Wing 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019/spider-sdr-8x) 
+- **Battle Value:** 765 
 
-### Jihad
-- Draconis Combine
-- Mercenary
+## Availability 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+- Draconis Combine 
+- Mercenary 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
 

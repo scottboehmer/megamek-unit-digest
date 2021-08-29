@@ -1,30 +1,33 @@
-# Legionnaire LGN-2K
+# Legionnaire LGN-2K 
 
-[Other Legionnaire variants](../legionnaire.md)
+[Other Legionnaire variants](../legionnaire.md) 
 
-## Legionnaire LGN-2K
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3128)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-  - **Jumping:** 7
-- **Armor:** 160
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-- **Equipment:**
-  - Targeting Computer
-  - MASC
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k)
-- **Battle Value:** 1597
+## Legionnaire LGN-2K 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3128) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+  - **Jumping:** 7 
+- **Armor:** 160 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+- **Equipment:** 
+  - Targeting Computer 
+  - MASC 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k) 
+- **Battle Value:** 1597 
 
-### Late Republic
-- Republic of the Sphere
+## Availability 
 
-### Dark Ages
-- Draconis Combine
-- Pirate
-- Republic of the Sphere
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Pirate 
+- Republic of the Sphere 
 

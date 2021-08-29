@@ -1,33 +1,38 @@
-# Icestorm 2
+# Icestorm 2 
 
-[Other Icestorm variants](../icestorm.md)
+[Other Icestorm variants](../icestorm.md) 
 
-## Icestorm 2
-- **Role:** Striker
-- **Tech Base:** Clan (3068)
-- **Chassis:** 25 tons
-- **Movement:** 12 / 18, XL
-- **Armor:** 67 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Heavy Medium Laser × 2
-  - ER Flamer
-- **Equipment:**
-  - Light TAG
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1603/icestorm-2)
-- **Battle Value:** 868
+## Icestorm 2 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3068) 
+- **Chassis:** 25 tons 
+- **Movement:** 12 / 18, XL 
+- **Armor:** 67 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Heavy Medium Laser × 2 
+  - ER Flamer 
+- **Equipment:** 
+  - Light TAG 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603/icestorm-2) 
+- **Battle Value:** 868 
 
-### Jihad
-- Clan Wolf
+## Availability 
 
-### Early Republic
-- Clan Wolf
+### Jihad 
 
-### Late Republic
-- Clan Wolf
+- Clan Wolf 
 
-### Dark Ages
-- Clan Wolf
+### Early Republic 
+
+- Clan Wolf 
+
+### Late Republic 
+
+- Clan Wolf 
+
+### Dark Ages 
+
+- Clan Wolf 
 

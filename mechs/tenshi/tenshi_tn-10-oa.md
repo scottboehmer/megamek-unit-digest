@@ -1,32 +1,36 @@
-# Tenshi TN-10-OA
+# Tenshi TN-10-OA 
 
-[Other Tenshi variants](../tenshi.md)
+[Other Tenshi variants](../tenshi.md) 
 
-## Tenshi TN-10-OA
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3101)
-- **Chassis:** 95 tons (Endo Composite)
-- **Movement:** 3 / 5, Light
-- **Armor:** 293
-- **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - MRM 30 w/ Apollo FCS (ammo: 16)
-  - Large VSP Laser × 3
-- **Equipment:**
-  - CASE II
-  - Coolant Pod × 2
-- **Sources:** TRO 3145 Draconis Combine - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6422/tenshi-tn-10-oa)
-- **Battle Value:** 1829
+## Tenshi TN-10-OA 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3101) 
+- **Chassis:** 95 tons (Endo Composite) 
+- **Movement:** 3 / 5, Light 
+- **Armor:** 293 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - MRM 30 w/ Apollo FCS (ammo: 16) 
+  - Large VSP Laser × 3 
+- **Equipment:** 
+  - CASE II 
+  - Coolant Pod × 2 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6422/tenshi-tn-10-oa) 
+- **Battle Value:** 1829 
 
-### Early Republic
-- Draconis Combine
+## Availability 
 
-### Late Republic
-- Draconis Combine
+### Early Republic 
 
-### Dark Ages
-- Draconis Combine
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

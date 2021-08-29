@@ -1,29 +1,31 @@
-# Templar TLR1-OBLO
+# Templar TLR1-OBLO 
 
-[Other Templar variants](../templar.md)
+[Other Templar variants](../templar.md) 
 
-## Templar TLR1-OBLO
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (3100)
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 263
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - Large Pulse Laser
-  - ER Medium Laser × 2
-  - Medium Pulse Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - Targeting Computer
-  - C3i
-  - CASE
-- **Sources:** SO:Unending Faith: Late Republic Era, [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo)
-- **Battle Value:** 2062
+## Templar TLR1-OBLO 
 
-## Availability
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3100) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 263 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Large Pulse Laser 
+  - ER Medium Laser × 2 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Targeting Computer 
+  - C3i 
+  - CASE 
+- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo) 
+- **Battle Value:** 2062 
 
-### Dark Ages (Unique)
-- ComStar
+## Availability 
+
+### Dark Ages (Unique) 
+
+- ComStar 
 

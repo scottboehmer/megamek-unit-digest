@@ -1,82 +1,93 @@
-# ScavengerMech SC-V SalvageMech
+# ScavengerMech SC-V SalvageMech 
 
-[Other ScavengerMech variants](../scavengermech.md)
+[Other ScavengerMech variants](../scavengermech.md) 
 
-## ScavengerMech SC-V SalvageMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (2613)
-- **Chassis:** 80 tons Quad (Industrial)
-- **Movement:** 4 / 6, Fuel Cell
-- **Armor:** 112
-- **Cockpit:** Industrial
-- **Heat Sinks:** 2 (2)
-- **Equipment:**
-  - Cargo × 12
-  - Searchlight
-  - Mech Sprayer
-  - Light Fluid Suction System
-  - Liquid Cargo × 2
-- **Sources:** RS VA, [Master Unit List](http://masterunitlist.info/Unit/Details/4987/scavenger-sc-v-salvagemech)
-- **Battle Value:** 582
+## ScavengerMech SC-V SalvageMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (2613) 
+- **Chassis:** 80 tons Quad (Industrial) 
+- **Movement:** 4 / 6, Fuel Cell 
+- **Armor:** 112 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 2 (2) 
+- **Equipment:** 
+  - Cargo × 12 
+  - Searchlight 
+  - Mech Sprayer 
+  - Light Fluid Suction System 
+  - Liquid Cargo × 2 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4987/scavenger-sc-v-salvagemech) 
+- **Battle Value:** 582 
 
-### Star League
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Outworlds Alliance
-- Pirate
-- Star League
-- Star League - Royal Divisions
-- Taurian Concordat
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Outworlds Alliance
-- Pirate
-- Star League-in-Exile
-- Taurian Concordat
+### Star League 
 
-### Late Succession Wars - LosTech
-- Magistracy of Canopus
-- Mercenary
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
+- Star League 
+- Star League - Royal Divisions 
+- Taurian Concordat 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Magistracy of Canopus
-- Mercenary
+### Early Succession Wars 
 
-### Clan Invasion
-- Magistracy of Canopus
-- Mercenary
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
+- Star League-in-Exile 
+- Taurian Concordat 
 
-### Civil War
-- Magistracy of Canopus
-- Mercenary
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Escorpión Imperio
-- Magistracy of Canopus
-- Mercenary
+- Magistracy of Canopus 
+- Mercenary 
 
-### Early Republic
-- Escorpión Imperio
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Escorpión Imperio
+- Magistracy of Canopus 
+- Mercenary 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Clan Invasion 
+
+- Magistracy of Canopus 
+- Mercenary 
+
+### Civil War 
+
+- Magistracy of Canopus 
+- Mercenary 
+
+### Jihad 
+
+- Escorpión Imperio 
+- Magistracy of Canopus 
+- Mercenary 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

@@ -1,30 +1,33 @@
-# Raptor II RPT-2X2
+# Raptor II RPT-2X2 
 
-[Other Raptor II variants](../raptor_ii.md)
+[Other Raptor II variants](../raptor_ii.md) 
 
-## Raptor II RPT-2X2
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3109)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 118 (Light Ferro Fibrous)
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - TSEMP
-  - Medium VSP Laser × 2
-- **Equipment:**
-  - Angel ECM Suite
-  - Void-Signature System
-  - MASC
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6918/raptor-ii-rpt-2x2)
-- **Battle Value:** 1868
+## Raptor II RPT-2X2 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3109) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 118 (Light Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - TSEMP 
+  - Medium VSP Laser × 2 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Void-Signature System 
+  - MASC 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6918/raptor-ii-rpt-2x2) 
+- **Battle Value:** 1868 
 
-### Late Republic
-- Republic of the Sphere
+## Availability 
 
-### Dark Ages
-- Republic of the Sphere
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

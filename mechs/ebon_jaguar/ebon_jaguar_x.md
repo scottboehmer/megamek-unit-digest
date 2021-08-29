@@ -1,50 +1,55 @@
-# Ebon Jaguar X
+# Ebon Jaguar X 
 
-[Other Ebon Jaguar variants](../ebon_jaguar.md)
+[Other Ebon Jaguar variants](../ebon_jaguar.md) 
 
-## Ebon Jaguar "Cauldron-Born" X
-- **Role:** Skirmisher
-- **Tech Base:** Clan Mixed (3075)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - ER Medium Pulse Laser × 3
-  - ER Small Pulse Laser
-- **Equipment:**
-  - Inner Sphere Angel ECM Suite
-  - Targeting Computer
-  - CASE II
-- **Sources:** Recognition Guide:ilClan #16 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x)
-- **Battle Value:** 2435
+## Ebon Jaguar "Cauldron-Born" X 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan Mixed (3075) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 182 (Ferro Fibrous) 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - RAC/5 (ammo: 60) 
+  - ER Medium Pulse Laser × 3 
+  - ER Small Pulse Laser 
+- **Equipment:** 
+  - Inner Sphere Angel ECM Suite 
+  - Targeting Computer 
+  - CASE II 
+- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x) 
+- **Battle Value:** 2435 
 
-### Jihad
-- Clan Hell's Horses
-- Clan Wolf
+## Availability 
 
-### Early Republic
-- Clan Diamond Shark
-- Clan Hell's Horses
-- Clan Nova Cat
-- Draconis Combine
-- Raven Alliance
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Nova Cat
-- Clan Sea Fox
-- Draconis Combine
-- Raven Alliance
+- Clan Hell's Horses 
+- Clan Wolf 
 
-### Dark Ages
-- Capellan Confederation
-- Clan Hell's Horses
-- Clan Nova Cat
-- Clan Sea Fox
-- Draconis Combine
-- Raven Alliance
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Nova Cat 
+- Draconis Combine 
+- Raven Alliance 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Raven Alliance 
 

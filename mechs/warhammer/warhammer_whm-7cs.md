@@ -1,44 +1,51 @@
-# Warhammer WHM-7CS
+# Warhammer WHM-7CS 
 
-[Other Warhammer variants](../warhammer.md)
+[Other Warhammer variants](../warhammer.md) 
 
-## Warhammer WHM-7CS
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3052)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 217
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER PPC × 2
-  - Medium Laser × 4
-  - Streak SRM 2 × 3 (ammo: 50)
-- **Equipment:**
-  - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs)
-- **Battle Value:** 1751
+## Warhammer WHM-7CS 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 217 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Medium Laser × 4 
+  - Streak SRM 2 × 3 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs) 
+- **Battle Value:** 1751 
 
-### Clan Invasion
-- ComStar
-- Word of Blake
+## Availability 
 
-### Civil War
-- ComStar
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Word of Blake
+- ComStar 
+- Word of Blake 
 
-### Early Republic
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Republic of the Sphere
+- ComStar 
+- Word of Blake 
 
-### Dark Ages
-- Republic of the Sphere
+### Jihad 
+
+- ComStar 
+- Word of Blake 
+
+### Early Republic 
+
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

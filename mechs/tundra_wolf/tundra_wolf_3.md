@@ -1,41 +1,46 @@
-# Tundra Wolf 3
+# Tundra Wolf 3 
 
-[Other Tundra Wolf variants](../tundra_wolf.md)
+[Other Tundra Wolf variants](../tundra_wolf.md) 
 
-## Tundra Wolf 3
-- **Role:** Brawler
-- **Tech Base:** Clan (3076)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8), XL
-  - **Jumping:** 4
-- **Armor:** 176
-- **Heat Sinks:** 19 (38)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Large Laser
-  - LRM 15 (ammo: 16)
-  - ER Medium Laser × 4
-  - Streak SRM 4 (ammo: 25)
-- **Equipment:**
-  - MASC
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3)
-- **Battle Value:** 3292
+## Tundra Wolf 3 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3076) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8), XL 
+  - **Jumping:** 4 
+- **Armor:** 176 
+- **Heat Sinks:** 19 (38) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Large Laser 
+  - LRM 15 (ammo: 16) 
+  - ER Medium Laser × 4 
+  - Streak SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - MASC 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3) 
+- **Battle Value:** 3292 
 
-### Jihad
-- Clan Wolf
+## Availability 
 
-### Early Republic
-- Clan Wolf
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Wolf
-- Republic of the Sphere
+- Clan Wolf 
 
-### Dark Ages
-- Clan Wolf
-- Republic of the Sphere
+### Early Republic 
+
+- Clan Wolf 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Wolf 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Wolf 
+- Republic of the Sphere 
 

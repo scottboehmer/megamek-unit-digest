@@ -1,40 +1,46 @@
-# Assassin ASN-30
+# Assassin ASN-30 
 
-[Other Assassin variants](../assassin.md)
+[Other Assassin variants](../assassin.md) 
 
-## Assassin ASN-30
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11, Light
-  - **Jumping:** 7
-- **Armor:** 104
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 5-X AC (ammo: 20 Cluster)
-  - ER Medium Laser
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/129/assassin-asn-30)
-- **Battle Value:** 925
+## Assassin ASN-30 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 7 / 11, Light 
+  - **Jumping:** 7 
+- **Armor:** 104 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LB 5-X AC (ammo: 20 Cluster) 
+  - ER Medium Laser 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/129/assassin-asn-30) 
+- **Battle Value:** 925 
 
-### Civil War
-- Lyran Alliance
+## Availability 
 
-### Jihad
-- Lyran Alliance
+### Civil War 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+- Lyran Alliance 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
 
-### Dark Ages
-- Lyran Commonwealth
-- Marian Hegemony
-- Mercenary
-- Pirate
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 

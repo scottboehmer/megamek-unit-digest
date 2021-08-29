@@ -1,44 +1,52 @@
-# Pacifier CCU-36 SecurityMech
+# Pacifier CCU-36 SecurityMech 
 
-[Other Pacifier variants](../pacifier.md)
+[Other Pacifier variants](../pacifier.md) 
 
-## Pacifier CCU-36 SecurityMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3031)
-- **Chassis:** 30 tons (Industrial)
-- **Movement:** 3 / 5, Fuel Cell
-- **Armor:** 58 (Industrial)
-- **Heat Sinks:** 3 (3)
-- **Weapons:**
-  - LRM 5 (ammo: 24)
-  - SRM 2 (ammo: 50)
-  - Machine Gun × 2 (ammo: 100)
-- **Equipment:**
-  - Mech Sprayer × 2
-  - Liquid Cargo × 2
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/4780/pacifier-ccu-36-securitymech)
-- **Battle Value:** 299
+## Pacifier CCU-36 SecurityMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3031) 
+- **Chassis:** 30 tons (Industrial) 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 58 (Industrial) 
+- **Heat Sinks:** 3 (3) 
+- **Weapons:** 
+  - LRM 5 (ammo: 24) 
+  - SRM 2 (ammo: 50) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - Mech Sprayer × 2 
+  - Liquid Cargo × 2 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4780/pacifier-ccu-36-securitymech) 
+- **Battle Value:** 299 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
+## Availability 
 
-### Clan Invasion
-- Draconis Combine
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Draconis Combine
+- Draconis Combine 
 
-### Jihad
-- Draconis Combine
+### Clan Invasion 
 
-### Early Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Late Republic
-- Draconis Combine
+### Civil War 
 
-### Dark Ages
-- Draconis Combine
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

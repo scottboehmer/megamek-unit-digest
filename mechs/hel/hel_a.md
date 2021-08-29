@@ -1,44 +1,47 @@
-# Hel A
+# Hel A 
 
-[Other Hel variants](../hel.md)
+[Other Hel variants](../hel.md) 
 
-## Hel "Loki Mk II" A
-- **Role:** Brawler
-- **Tech Base:** Clan (3121)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 182 (Ferro Fibrous)
-- **Cockpit:** Small
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC × 2
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Medium Pulse Laser × 2
-  - Improved Heavy Medium Laser × 2
-  - AP Gauss Rifle × 2 (ammo: 40)
-- **Equipment:**
-  - Angel ECM Suite
-  - CASE
-- **Sources:** TRO 3145 The Clans - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6278/loki-mk-ii-hel-a)
-- **Battle Value:** 2249
+## Hel "Loki Mk II" A 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3121) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 182 (Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - Medium Pulse Laser × 2 
+  - Improved Heavy Medium Laser × 2 
+  - AP Gauss Rifle × 2 (ammo: 40) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - CASE 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6278/loki-mk-ii-hel-a) 
+- **Battle Value:** 2249 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Sea Fox
-- Clan Wolf
-- Rasalhague Dominion
-- Raven Alliance
+## Availability 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Sea Fox
-- Clan Wolf
-- Kell Hounds
-- Rasalhague Dominion
-- Raven Alliance
-- Wolf's Dragoons
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Clan Wolf 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Clan Wolf 
+- Kell Hounds 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Wolf's Dragoons 
 

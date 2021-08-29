@@ -1,29 +1,32 @@
-# Valkyrie VLK-QD8
+# Valkyrie VLK-QD8 
 
-[Other Valkyrie variants](../valkyrie.md)
+[Other Valkyrie variants](../valkyrie.md) 
 
-## Valkyrie VLK-QD8
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3102)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 80
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ELRM 10 (ammo: 18)
-  - Light PPC
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8)
-- **Battle Value:** 787
+## Valkyrie VLK-QD8 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3102) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 80 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ELRM 10 (ammo: 18) 
+  - Light PPC 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8) 
+- **Battle Value:** 787 
 
-### Late Republic
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Dark Ages
-- Federated Suns
-- Mercenary
+### Late Republic 
+
+- Federated Suns 
+- Mercenary 
+
+### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
 

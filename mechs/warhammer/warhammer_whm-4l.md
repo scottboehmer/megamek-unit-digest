@@ -1,41 +1,47 @@
-# Warhammer WHM-4L
+# Warhammer WHM-4L 
 
-[Other Warhammer variants](../warhammer.md)
+[Other Warhammer variants](../warhammer.md) 
 
-## Warhammer WHM-4L
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3067)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 216 (Stealth)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC × 2
-  - Streak SRM 6 (ammo: 15)
-  - Medium Pulse Laser × 4
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3483/warhammer-whm-4l)
-- **Battle Value:** 1743
+## Warhammer WHM-4L 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 216 (Stealth) 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Streak SRM 6 (ammo: 15) 
+  - Medium Pulse Laser × 4 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483/warhammer-whm-4l) 
+- **Battle Value:** 1743 
 
-### Civil War
-- Capellan Confederation
+## Availability 
 
-### Jihad
-- Capellan Confederation
+### Civil War 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
+### Jihad 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

@@ -1,51 +1,57 @@
-# Berserker BRZ-C3
+# Berserker BRZ-C3 
 
-[Other Berserker variants](../berserker.md)
+[Other Berserker variants](../berserker.md) 
 
-## Berserker BRZ-C3
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3067)
-- **Chassis:** 100 tons (Endo Steel)
-- **Movement:** 4 (5) / 6 (8), Light
-- **Armor:** 296
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - ER Medium Laser × 6
-  - Hatchet
-  - Flamer
-- **Equipment:**
-  - Guardian ECM Suite
-  - Anti-Missile System (ammo: 12)
-  - C3 Slave
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/331/berserker-brz-c3)
-- **Battle Value:** 2395
+## Berserker BRZ-C3 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 100 tons (Endo Steel) 
+- **Movement:** 4 (5) / 6 (8), Light 
+- **Armor:** 296 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Medium Laser × 6 
+  - Hatchet 
+  - Flamer 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Anti-Missile System (ammo: 12) 
+  - C3 Slave 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/331/berserker-brz-c3) 
+- **Battle Value:** 2395 
 
-### Civil War
-- Lyran Alliance
+## Availability 
 
-### Jihad
-- Lyran Alliance
+### Civil War 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+- Lyran Alliance 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Free Worlds League
-- Lyran Commonwealth
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
 

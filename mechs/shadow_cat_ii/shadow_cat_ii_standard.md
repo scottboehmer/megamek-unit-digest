@@ -1,35 +1,40 @@
-# Shadow Cat II (Standard)
+# Shadow Cat II (Standard) 
 
-[Other Shadow Cat II variants](../shadow_cat_ii.md)
+[Other Shadow Cat II variants](../shadow_cat_ii.md) 
 
-## Shadow Cat II (Standard)
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3076)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 144 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - HAG 20 (ammo: 12)
-  - LRM 10 × 2 (ammo: 24)
-  - ER Medium Laser
-- **Equipment:**
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard)
-- **Battle Value:** 2064
+## Shadow Cat II (Standard) 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3076) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 144 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - HAG 20 (ammo: 12) 
+  - LRM 10 × 2 (ammo: 24) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard) 
+- **Battle Value:** 2064 
 
-### Jihad
-- Clan Jade Falcon
+## Availability 
 
-### Early Republic
-- Clan Jade Falcon
+### Jihad 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Jade Falcon 
 
-### Dark Ages
-- Clan Jade Falcon
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

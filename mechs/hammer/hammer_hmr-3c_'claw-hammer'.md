@@ -1,60 +1,67 @@
-# Hammer HMR-3C 'Claw-Hammer'
+# Hammer HMR-3C 'Claw-Hammer' 
 
-[Other Hammer variants](../hammer.md)
+[Other Hammer variants](../hammer.md) 
 
-## Hammer HMR-3C 'Claw-Hammer'
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 96
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - LRM 5 w/ Artemis IV (ammo: 24)
-  - Medium Laser × 7
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1365/hammer-hmr-3c-claw-hammer)
-- **Battle Value:** 976
+## Hammer HMR-3C 'Claw-Hammer' 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 96 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - LRM 5 w/ Artemis IV (ammo: 24) 
+  - Medium Laser × 7 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1365/hammer-hmr-3c-claw-hammer) 
+- **Battle Value:** 976 
 
-### Clan Invasion
-- Free Worlds League
-- Word of Blake
+## Availability 
 
-### Civil War
-- Free Worlds League
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Free Worlds League
-- Word of Blake
+- Free Worlds League 
+- Word of Blake 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+- Free Worlds League 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Jihad 
+
+- Free Worlds League 
+- Word of Blake 
+
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 

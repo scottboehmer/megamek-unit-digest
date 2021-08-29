@@ -1,34 +1,38 @@
-# Hatamoto-Chi HTM-28T (Shin)
+# Hatamoto-Chi HTM-28T (Shin) 
 
-[Other Hatamoto-Chi variants](../hatamoto-chi.md)
+[Other Hatamoto-Chi variants](../hatamoto-chi.md) 
 
-## Hatamoto-Chi HTM-28T (Shin)
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 80 tons
-- **Movement:** 3 (4) / 5 (6)
-  - **Jumping:** 3
-- **Armor:** 247
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle (ammo: 24)
-  - Medium Pulse Laser × 6
-  - Sword
-- **Equipment:**
-  - CASE
-  - C3 Slave
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/5457/hatamoto-chi-htm-28t-shin)
-- **Battle Value:** 2213
+## Hatamoto-Chi HTM-28T (Shin) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 80 tons 
+- **Movement:** 3 (4) / 5 (6) 
+  - **Jumping:** 3 
+- **Armor:** 247 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+  - Medium Pulse Laser × 6 
+  - Sword 
+- **Equipment:** 
+  - CASE 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5457/hatamoto-chi-htm-28t-shin) 
+- **Battle Value:** 2213 
 
-### Clan Invasion (Unique)
-- Draconis Combine
+## Availability 
 
-### Civil War (Unique)
-- Draconis Combine
+### Clan Invasion (Unique) 
 
-### Jihad (Unique)
-- Draconis Combine
+- Draconis Combine 
+
+### Civil War (Unique) 
+
+- Draconis Combine 
+
+### Jihad (Unique) 
+
+- Draconis Combine 
 

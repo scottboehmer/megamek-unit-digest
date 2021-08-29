@@ -1,60 +1,68 @@
-# Huntsman A
+# Huntsman A 
 
-[Other Huntsman variants](../huntsman.md)
+[Other Huntsman variants](../huntsman.md) 
 
-## Huntsman "Nobori-nin" A
-- **Role:** Sniper
-- **Tech Base:** Clan (3049)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 169 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Large Pulse Laser × 2
-  - LRM 10 (ammo: 12)
-  - LB 2-X AC (ammo: 45)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2289/nobori-nin-huntsman-a)
-- **Battle Value:** 2034
+## Huntsman "Nobori-nin" A 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3049) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 169 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Large Pulse Laser × 2 
+  - LRM 10 (ammo: 12) 
+  - LB 2-X AC (ammo: 45) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2289/nobori-nin-huntsman-a) 
+- **Battle Value:** 2034 
 
-### Late Succession Wars - Renaissance
-- Clan Nova Cat
+## Availability 
 
-### Clan Invasion
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Nova Cat
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Nova Cat
-- Clan Star Adder
+- Clan Nova Cat 
 
-### Jihad
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Nova Cat
-- Clan Star Adder
+### Clan Invasion 
 
-### Early Republic
-- Clan Nova Cat
-- Republic of the Sphere
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Nova Cat 
 
-### Late Republic
-- Clan Nova Cat
-- Republic of the Sphere
+### Civil War 
 
-### Dark Ages
-- Clan Nova Cat
-- Clan Sea Fox
-- Free Worlds League
-- Republic of the Sphere
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Nova Cat 
+- Clan Star Adder 
+
+### Jihad 
+
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Nova Cat 
+- Clan Star Adder 
+
+### Early Republic 
+
+- Clan Nova Cat 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Free Worlds League 
+- Republic of the Sphere 
 

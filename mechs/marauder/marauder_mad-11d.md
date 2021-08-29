@@ -1,27 +1,29 @@
-# Marauder MAD-11D
+# Marauder MAD-11D 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-11D
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere Mixed (3140)
-- **Chassis:** 75 tons (Endo Composite)
-- **Movement:** 4 / 6, XL
-- **Armor:** 224
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - Clan ER PPC × 2
-  - Silver Bullet (ammo: 16)
-  - Medium X-Pulse Laser × 2
-- **Equipment:**
-  - CASE II
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7534/marauder-mad-11d)
-- **Battle Value:** 2263
+## Marauder MAD-11D 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere Mixed (3140) 
+- **Chassis:** 75 tons (Endo Composite) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Clan ER PPC × 2 
+  - Silver Bullet (ammo: 16) 
+  - Medium X-Pulse Laser × 2 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7534/marauder-mad-11d) 
+- **Battle Value:** 2263 
 
-### Dark Ages
-- Federated Suns
-- Mercenary
+## Availability 
+
+### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
 

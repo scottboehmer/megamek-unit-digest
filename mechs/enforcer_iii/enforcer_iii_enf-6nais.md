@@ -1,37 +1,42 @@
-# Enforcer III ENF-6NAIS
+# Enforcer III ENF-6NAIS 
 
-[Other Enforcer III variants](../enforcer_iii.md)
+[Other Enforcer III variants](../enforcer_iii.md) 
 
-## Enforcer III ENF-6NAIS
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3074)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 161 (Light Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Snub-Nose PPC
-  - Large VSP Laser
-  - ER Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - Targeting Computer
-  - C3 Slave
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais)
-- **Battle Value:** 1475
+## Enforcer III ENF-6NAIS 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 161 (Light Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - Large VSP Laser 
+  - ER Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Targeting Computer 
+  - C3 Slave 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais) 
+- **Battle Value:** 1475 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

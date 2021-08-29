@@ -1,64 +1,69 @@
-# Victor VTR-9Ka
+# Victor VTR-9Ka 
 
-[Other Victor variants](../victor.md)
+[Other Victor variants](../victor.md) 
 
-## Victor VTR-9Ka
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3076)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 5
-- **Armor:** 200
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - AC/20 (ammo: 30)
-  - Medium Laser
-- **Equipment:**
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3413/victor-vtr-9ka)
-- **Battle Value:** 1594
+## Victor VTR-9Ka 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 5 
+- **Armor:** 200 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - AC/20 (ammo: 30) 
+  - Medium Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413/victor-vtr-9ka) 
+- **Battle Value:** 1594 
 
-### Jihad
-- Federated Suns
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+### Jihad 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+- Federated Suns 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Calderon Protectorate
-- Draconis Combine
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
 

@@ -1,31 +1,36 @@
-# Thorn THE-T
+# Thorn THE-T 
 
-[Other Thorn variants](../thorn.md)
+[Other Thorn variants](../thorn.md) 
 
-## Thorn THE-T
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3038)
-- **Chassis:** 20 tons
-- **Movement:** 6 / 9
-- **Armor:** 64
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 2
-  - SRM 4 (ammo: 25)
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3196/thorn-the-t)
-- **Battle Value:** 500
+## Thorn THE-T 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3038) 
+- **Chassis:** 20 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 64 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - SRM 4 (ammo: 25) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3196/thorn-the-t) 
+- **Battle Value:** 500 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
+## Availability 
 
-### Clan Invasion
-- Draconis Combine
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Draconis Combine
+- Draconis Combine 
 
-### Jihad
-- Draconis Combine
+### Clan Invasion 
+
+- Draconis Combine 
+
+### Civil War 
+
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
 

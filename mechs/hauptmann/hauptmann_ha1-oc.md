@@ -1,44 +1,51 @@
-# Hauptmann HA1-OC
+# Hauptmann HA1-OC 
 
-[Other Hauptmann variants](../hauptmann.md)
+[Other Hauptmann variants](../hauptmann.md) 
 
-## Hauptmann HA1-OC
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3061)
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5
-- **Armor:** 293
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Heavy Gauss Rifle (ammo: 16)
-  - LRM 20 w/ Artemis IV (ammo: 0)
-  - ER Medium Laser × 2
-  - Medium Pulse Laser
-  - ER Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc)
-- **Battle Value:** 2287
+## Hauptmann HA1-OC 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3061) 
+- **Chassis:** 95 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 293 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Heavy Gauss Rifle (ammo: 16) 
+  - LRM 20 w/ Artemis IV (ammo: 0) 
+  - ER Medium Laser × 2 
+  - Medium Pulse Laser 
+  - ER Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc) 
+- **Battle Value:** 2287 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
+## Availability 
 
-### Civil War
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Lyran Alliance
+- Federated Commonwealth 
+- Lyran Alliance 
 
-### Early Republic
-- Lyran Commonwealth
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Jihad 
+
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

@@ -1,98 +1,108 @@
-# Enforcer ENF-4R
+# Enforcer ENF-4R 
 
-[Other Enforcer variants](../enforcer.md)
+[Other Enforcer variants](../enforcer.md) 
 
-## Enforcer ENF-4R
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2777)
-- **Chassis:** 50 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 144
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - Large Laser
-  - AC/10 (ammo: 10)
-  - Small Laser
-- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/976/enforcer-enf-4r)
-- **Battle Value:** 1032
+## Enforcer ENF-4R 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2777) 
+- **Chassis:** 50 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - Large Laser 
+  - AC/10 (ammo: 10) 
+  - Small Laser 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/976/enforcer-enf-4r) 
+- **Battle Value:** 1032 
 
-### Star League
-- Federated Suns
+## Availability 
 
-### Early Succession Wars
-- Federated Suns
-- Mercenary
+### Star League 
 
-### Late Succession Wars - LosTech
-- Federated Suns
-- Kell Hounds
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+- Federated Suns 
 
-### Late Succession Wars - Renaissance
-- Federated Suns
-- Kell Hounds
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+### Early Succession Wars 
 
-### Clan Invasion
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- St. Ives Compact
-- Wolf's Dragoons
+- Federated Suns 
+- Mercenary 
 
-### Civil War
-- Capellan Confederation
-- Circinus Federation
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- St. Ives Compact
-- Taurian Concordat
-- Wolf's Dragoons
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- Draconis Combine
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Wolf's Dragoons
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Taurian Concordat
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Taurian Concordat
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Clan Invasion 
+
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Capellan Confederation 
+- Circinus Federation 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- St. Ives Compact 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- Draconis Combine 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Taurian Concordat 
 

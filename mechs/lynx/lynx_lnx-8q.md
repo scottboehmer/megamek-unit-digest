@@ -1,22 +1,24 @@
-# Lynx LNX-8Q
+# Lynx LNX-8Q 
 
-[Other Lynx variants](../lynx.md)
+[Other Lynx variants](../lynx.md) 
 
-## Lynx LNX-8Q
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2853)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8
-- **Armor:** 176
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - Large Laser × 2
-  - Medium Laser × 2
-- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1966/lynx-lnx-8q)
-- **Battle Value:** 1292
+## Lynx LNX-8Q 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2853) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 176 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Large Laser × 2 
+  - Medium Laser × 2 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1966/lynx-lnx-8q) 
+- **Battle Value:** 1292 
 
-### Early Succession Wars
-- Lyran Commonwealth
+## Availability 
+
+### Early Succession Wars 
+
+- Lyran Commonwealth 
 

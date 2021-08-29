@@ -1,73 +1,80 @@
-# Cicada CDA-3G
+# Cicada CDA-3G 
 
-[Other Cicada variants](../cicada.md)
+[Other Cicada variants](../cicada.md) 
 
-## Cicada CDA-3G
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 8
-- **Armor:** 125 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - Medium Laser × 2
-- **Equipment:**
-  - Beagle Active Probe
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g)
-- **Battle Value:** 1270
+## Cicada CDA-3G 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - Beagle Active Probe 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g) 
+- **Battle Value:** 1270 
 
-### Clan Invasion
-- Capellan Confederation
-- Draconis Combine
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Draconis Combine
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Draconis Combine
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Capellan Confederation 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Draconis Combine
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
+- Capellan Confederation 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
+### Jihad 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Draconis Combine 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+
+### Late Republic 
+
+- Draconis Combine 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+
+### Dark Ages 
+
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
 

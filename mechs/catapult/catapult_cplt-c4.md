@@ -1,52 +1,60 @@
-# Catapult CPLT-C4
+# Catapult CPLT-C4 
 
-[Other Catapult variants](../catapult.md)
+[Other Catapult variants](../catapult.md) 
 
-## Catapult CPLT-C4
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (2565)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 160
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - LRM 20 × 2 (ammo: 24)
-  - Small Laser × 2
-- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/482/catapult-cplt-c4)
-- **Battle Value:** 1358
+## Catapult CPLT-C4 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2565) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 160 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 24) 
+  - Small Laser × 2 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/482/catapult-cplt-c4) 
+- **Battle Value:** 1358 
 
-### Star League
-- Magistracy of Canopus
-- Outworlds Alliance
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- Magistracy of Canopus
-- Outworlds Alliance
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+- Magistracy of Canopus 
+- Outworlds Alliance 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+### Early Succession Wars 
 
-### Clan Invasion
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Outworlds Alliance 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
-- St. Ives Compact
-- Taurian Concordat
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+- Capellan Confederation 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- St. Ives Compact 
+- Taurian Concordat 
+
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
 

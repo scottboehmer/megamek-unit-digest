@@ -1,36 +1,41 @@
-# Ostwar OWR-3M
+# Ostwar OWR-3M 
 
-[Other Ostwar variants](../ostwar.md)
+[Other Ostwar variants](../ostwar.md) 
 
-## Ostwar OWR-3M
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 195 (Light Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - LRM 20 w/ Artemis IV (ammo: 18)
-  - ER Medium Laser × 2
-  - Streak SRM 4 × 2 (ammo: 25)
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2383/ostwar-owr-3m)
-- **Battle Value:** 1557
+## Ostwar OWR-3M 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 195 (Light Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV (ammo: 18) 
+  - ER Medium Laser × 2 
+  - Streak SRM 4 × 2 (ammo: 25) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2383/ostwar-owr-3m) 
+- **Battle Value:** 1557 
 
-### Jihad
-- Free Worlds League
+## Availability 
 
-### Early Republic
-- Regulan Fiefs
+### Jihad 
 
-### Late Republic
-- Regulan Fiefs
+- Free Worlds League 
 
-### Dark Ages
-- Free Worlds League
-- Regulan Fiefs
+### Early Republic 
+
+- Regulan Fiefs 
+
+### Late Republic 
+
+- Regulan Fiefs 
+
+### Dark Ages 
+
+- Free Worlds League 
+- Regulan Fiefs 
 

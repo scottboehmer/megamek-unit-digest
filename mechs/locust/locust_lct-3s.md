@@ -1,46 +1,52 @@
-# Locust LCT-3S
+# Locust LCT-3S 
 
-[Other Locust variants](../locust.md)
+[Other Locust variants](../locust.md) 
 
-## Locust LCT-3S
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3049)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 8 / 12
-- **Armor:** 44 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser
-  - Streak SRM 2 × 2 (ammo: 50)
-- **Equipment:**
-  - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s)
-- **Battle Value:** 483
+## Locust LCT-3S 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3049) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 8 / 12 
+- **Armor:** 44 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s) 
+- **Battle Value:** 483 
 
-### Clan Invasion
-- Federated Commonwealth
-- Free Rasalhague Republic
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Civil War
-- Free Rasalhague Republic
-- Lyran Alliance
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Free Rasalhague Republic
-- Lyran Alliance
-- Mercenary
+- Federated Commonwealth 
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Mercenary 
+
+### Jihad 
+
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
 

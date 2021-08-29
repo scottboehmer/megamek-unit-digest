@@ -1,38 +1,44 @@
-# Mauler MAL-C
+# Mauler MAL-C 
 
-[Other Mauler variants](../mauler.md)
+[Other Mauler variants](../mauler.md) 
 
-## Mauler MAL-C
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 90 tons
-- **Movement:** 3 / 5, XL
-- **Armor:** 206 (Ferro Fibrous)
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Large Laser × 2
-  - LRM 15 × 2 (ammo: 32)
-  - AC/2 × 4 (ammo: 45)
-- **Equipment:**
-  - C3 Slave
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2103/mauler-mal-c)
-- **Battle Value:** 1473
+## Mauler MAL-C 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 90 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 206 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - LRM 15 × 2 (ammo: 32) 
+  - AC/2 × 4 (ammo: 45) 
+- **Equipment:** 
+  - C3 Slave 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2103/mauler-mal-c) 
+- **Battle Value:** 1473 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
 

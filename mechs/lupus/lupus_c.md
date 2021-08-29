@@ -1,32 +1,34 @@
-# Lupus C
+# Lupus C 
 
-[Other Lupus variants](../lupus.md)
+[Other Lupus variants](../lupus.md) 
 
-## Lupus C
-- **Role:** Skirmisher
-- **Tech Base:** Clan Mixed (3147)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8 (10)
-- **Armor:** 172 (Ferro Fibrous)
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - Improved Heavy Large Laser × 2
-  - Improved Heavy Medium Laser × 2
-- **Equipment:**
-  - Inner Sphere Coolant Pod
-  - Targeting Computer
-  - Supercharger
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c)
-- **Battle Value:** 2533
+## Lupus C 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan Mixed (3147) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 5 / 8 (10) 
+- **Armor:** 172 (Ferro Fibrous) 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - Improved Heavy Large Laser × 2 
+  - Improved Heavy Medium Laser × 2 
+- **Equipment:** 
+  - Inner Sphere Coolant Pod 
+  - Targeting Computer 
+  - Supercharger 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c) 
+- **Battle Value:** 2533 
 
-### Dark Ages
-- Capellan Confederation
-- Clan Sea Fox
-- Clan Wolf-in-Exile
-- Free Worlds League
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+## Availability 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Clan Wolf-in-Exile 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
 

@@ -1,41 +1,47 @@
-# Centurion CN9-D5
+# Centurion CN9-D5 
 
-[Other Centurion variants](../centurion.md)
+[Other Centurion variants](../centurion.md) 
 
-## Centurion CN9-D5
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 6 / 9 (12), XL
-- **Armor:** 152
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - Targeting Computer
-  - MASC
-  - CASE
-  - C3 Slave
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/522/centurion-cn9-d5)
-- **Battle Value:** 1738
+## Centurion CN9-D5 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+- **Armor:** 152 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - RAC/5 (ammo: 60) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Targeting Computer 
+  - MASC 
+  - CASE 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/522/centurion-cn9-d5) 
+- **Battle Value:** 1738 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Jihad
-- Federated Suns
+### Civil War 
 
-### Early Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
 
-### Late Republic
-- Federated Suns
+### Jihad 
 
-### Dark Ages
-- Federated Suns
-- Filtvelt Coalition
+- Federated Suns 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
 

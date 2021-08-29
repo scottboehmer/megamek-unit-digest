@@ -1,32 +1,35 @@
-# Sarath SRTH-1OB
+# Sarath SRTH-1OB 
 
-[Other Sarath variants](../sarath.md)
+[Other Sarath variants](../sarath.md) 
 
-## Sarath SRTH-1OB
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere Mixed (3122)
-- **Chassis:** 50 tons Quad
-- **Movement:** 5 (6) / 8 (9), XL
-- **Armor:** 184
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Plasma Rifle (ammo: 20)
-  - Medium Laser × 2
-  - ER Small Laser
-  - ER Flamer × 4
-- **Equipment:**
-  - Clan Talons
-  - Quad Turret
-- **Sources:** TRO 3145 Free Worlds League - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6508/sarath-srth-1ob)
-- **Battle Value:** 1475
+## Sarath SRTH-1OB 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere Mixed (3122) 
+- **Chassis:** 50 tons Quad 
+- **Movement:** 5 (6) / 8 (9), XL 
+- **Armor:** 184 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - Medium Laser × 2 
+  - ER Small Laser 
+  - ER Flamer × 4 
+- **Equipment:** 
+  - Clan Talons 
+  - Quad Turret 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508/sarath-srth-1ob) 
+- **Battle Value:** 1475 
 
-### Late Republic
-- Regulan Fiefs
+## Availability 
 
-### Dark Ages
-- Free Worlds League
-- Regulan Fiefs
+### Late Republic 
+
+- Regulan Fiefs 
+
+### Dark Ages 
+
+- Free Worlds League 
+- Regulan Fiefs 
 

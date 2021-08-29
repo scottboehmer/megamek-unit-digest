@@ -1,43 +1,48 @@
-# Cobra CBR-03
+# Cobra CBR-03 
 
-[Other Cobra variants](../cobra.md)
+[Other Cobra variants](../cobra.md) 
 
-## Cobra CBR-03
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 5 / 8, Light
-- **Armor:** 127 (Light Ferro Fibrous)
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 15 w/ Artemis IV × 2 (ammo: 32)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/656/cobra-cbr-03)
-- **Battle Value:** 1324
+## Cobra CBR-03 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 5 / 8, Light 
+- **Armor:** 127 (Light Ferro Fibrous) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/656/cobra-cbr-03) 
+- **Battle Value:** 1324 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
-- Marian Hegemony
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
-- Marian Hegemony
-- Mercenary
-- Republic of the Sphere
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
-- Marian Hegemony
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Republic of the Sphere 
 

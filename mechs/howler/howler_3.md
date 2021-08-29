@@ -1,36 +1,42 @@
-# Howler 3
+# Howler 3 
 
-[Other Howler variants](../howler.md)
+[Other Howler variants](../howler.md) 
 
-## Howler 3
-- **Role:** Striker
-- **Tech Base:** Clan (3066)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9 (12), XL
-- **Armor:** 57 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-- **Equipment:**
-  - Targeting Computer
-  - MASC
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/191/baboon-howler-3-devil)
-- **Battle Value:** 1277
+## Howler 3 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3066) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+- **Equipment:** 
+  - Targeting Computer 
+  - MASC 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/191/baboon-howler-3-devil) 
+- **Battle Value:** 1277 
 
-### Civil War
-- Clan Snow Raven
+## Availability 
 
-### Jihad
-- Clan Snow Raven
+### Civil War 
 
-### Early Republic
-- Raven Alliance
+- Clan Snow Raven 
 
-### Late Republic
-- Raven Alliance
+### Jihad 
 
-### Dark Ages
-- Raven Alliance
+- Clan Snow Raven 
+
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Raven Alliance 
+
+### Dark Ages 
+
+- Raven Alliance 
 

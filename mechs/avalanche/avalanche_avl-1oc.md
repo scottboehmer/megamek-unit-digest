@@ -1,29 +1,31 @@
-# Avalanche AVL-1OC
+# Avalanche AVL-1OC 
 
-[Other Avalanche variants](../avalanche.md)
+[Other Avalanche variants](../avalanche.md) 
 
-## Avalanche AVL-1OC
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3133)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Light AC/5 × 2 (ammo: 40)
-  - ER Medium Laser × 2
-  - Small X-Pulse Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6399/avalanche-avl-1oc)
-- **Battle Value:** 1341
+## Avalanche AVL-1OC 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3133) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 160 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Light AC/5 × 2 (ammo: 40) 
+  - ER Medium Laser × 2 
+  - Small X-Pulse Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6399/avalanche-avl-1oc) 
+- **Battle Value:** 1341 
 
-### Dark Ages
-- Capellan Confederation
-- Clan Nova Cat
-- Draconis Combine
-- Free Worlds League
+## Availability 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Nova Cat 
+- Draconis Combine 
+- Free Worlds League 
 

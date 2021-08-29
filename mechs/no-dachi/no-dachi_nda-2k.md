@@ -1,51 +1,58 @@
-# No-Dachi NDA-2K
+# No-Dachi NDA-2K 
 
-[Other No-Dachi variants](../no-dachi.md)
+[Other No-Dachi variants](../no-dachi.md) 
 
-## No-Dachi NDA-2K
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3059)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9), XL
-- **Armor:** 208
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER Large Laser
-  - MRM 10 × 2 (ammo: 96)
-  - Medium Pulse Laser × 5
-  - Sword
-  - Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4732/no-dachi-nda-2k)
-- **Battle Value:** 1739
+## No-Dachi NDA-2K 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3059) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 5 (6) / 8 (9), XL 
+- **Armor:** 208 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Large Laser 
+  - MRM 10 × 2 (ammo: 96) 
+  - Medium Pulse Laser × 5 
+  - Sword 
+  - Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4732/no-dachi-nda-2k) 
+- **Battle Value:** 1739 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+- Draconis Combine 
+- Mercenary 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Jihad 
+
+- Draconis Combine 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
 

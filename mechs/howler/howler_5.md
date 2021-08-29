@@ -1,38 +1,45 @@
-# Howler 5
+# Howler 5 
 
-[Other Howler variants](../howler.md)
+[Other Howler variants](../howler.md) 
 
-## Howler 5 "Baboon"
-- **Role:** Striker
-- **Tech Base:** Clan (3053)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 7 / 11
-- **Armor:** 57 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 6
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5)
-- **Battle Value:** 1363
+## Howler 5 "Baboon" 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3053) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 6 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5) 
+- **Battle Value:** 1363 
 
-### Clan Invasion
-- Clan Jade Falcon
+## Availability 
 
-### Civil War
-- Clan Jade Falcon
-- Clan Steel Viper
+### Clan Invasion 
 
-### Jihad
-- Clan Jade Falcon
-- Clan Steel Viper
+- Clan Jade Falcon 
 
-### Early Republic
-- Clan Jade Falcon
+### Civil War 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Jade Falcon 
+- Clan Steel Viper 
 
-### Dark Ages
-- Clan Jade Falcon
+### Jihad 
+
+- Clan Jade Falcon 
+- Clan Steel Viper 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

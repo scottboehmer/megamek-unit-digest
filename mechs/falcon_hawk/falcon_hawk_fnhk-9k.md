@@ -1,97 +1,104 @@
-# Falcon Hawk FNHK-9K
+# Falcon Hawk FNHK-9K 
 
-[Other Falcon Hawk variants](../falcon_hawk.md)
+[Other Falcon Hawk variants](../falcon_hawk.md) 
 
-## Falcon Hawk FNHK-9K
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3057)
-- **Chassis:** 35 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 119 (Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser × 2
-  - Medium Laser
-  - Small Pulse Laser
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1030/falcon-hawk-fnhk-9k)
-- **Battle Value:** 1030
+## Falcon Hawk FNHK-9K 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3057) 
+- **Chassis:** 35 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 119 (Ferro Fibrous) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Pulse Laser × 2 
+  - Medium Laser 
+  - Small Pulse Laser 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1030/falcon-hawk-fnhk-9k) 
+- **Battle Value:** 1030 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Jihad 
+
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 

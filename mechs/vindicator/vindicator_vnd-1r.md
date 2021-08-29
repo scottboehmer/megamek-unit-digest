@@ -1,62 +1,71 @@
-# Vindicator VND-1R
+# Vindicator VND-1R 
 
-[Other Vindicator variants](../vindicator.md)
+[Other Vindicator variants](../vindicator.md) 
 
-## Vindicator VND-1R
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2826)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 144
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - PPC
-  - Medium Laser
-  - LRM 5 (ammo: 24)
-  - Small Laser
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3422/vindicator-vnd-1r)
-- **Battle Value:** 1024
+## Vindicator VND-1R 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2826) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 16 (16) 
+- **Weapons:** 
+  - PPC 
+  - Medium Laser 
+  - LRM 5 (ammo: 24) 
+  - Small Laser 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3422/vindicator-vnd-1r) 
+- **Battle Value:** 1024 
 
-### Early Succession Wars
-- Capellan Confederation
+## Availability 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- St. Ives Compact
+- Capellan Confederation 
 
-### Clan Invasion
-- Capellan Confederation
-- Mercenary
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- St. Ives Compact
-- Taurian Concordat
+- Capellan Confederation 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Taurian Concordat
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+- Capellan Confederation 
+- St. Ives Compact 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+### Clan Invasion 
+
+- Capellan Confederation 
+- Mercenary 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- St. Ives Compact 
+- Taurian Concordat 
+
+### Jihad 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
 

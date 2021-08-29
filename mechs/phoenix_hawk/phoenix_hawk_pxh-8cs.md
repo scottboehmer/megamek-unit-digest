@@ -1,43 +1,48 @@
-# Phoenix Hawk PXH-8CS
+# Phoenix Hawk PXH-8CS 
 
-[Other Phoenix Hawk variants](../phoenix_hawk.md)
+[Other Phoenix Hawk variants](../phoenix_hawk.md) 
 
-## Phoenix Hawk PXH-8CS
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3080)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 7 / 11, XXL
-  - **Jumping:** 6
-- **Armor:** 136
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Snub-Nose PPC × 2
-- **Equipment:**
-  - Guardian ECM Suite
-  - C3 Slave
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs)
-- **Battle Value:** 1442
+## Phoenix Hawk PXH-8CS 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3080) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 7 / 11, XXL 
+  - **Jumping:** 6 
+- **Armor:** 136 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Snub-Nose PPC × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - C3 Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
+- **Battle Value:** 1442 
 
-### Jihad
-- ComStar
-- Draconis Combine
-- Free Rasalhague Republic
+## Availability 
 
-### Early Republic
-- Draconis Combine
-- Rasalhague Dominion
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Draconis Combine
-- Rasalhague Dominion
-- Republic of the Sphere
+- ComStar 
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Dark Ages
-- Draconis Combine
-- Rasalhague Dominion
-- Republic of the Sphere
+### Early Republic 
+
+- Draconis Combine 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Rasalhague Dominion 
+- Republic of the Sphere 
 

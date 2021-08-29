@@ -1,61 +1,71 @@
-# Wolverine WVR-6M
+# Wolverine WVR-6M 
 
-[Other Wolverine variants](../wolverine.md)
+[Other Wolverine variants](../wolverine.md) 
 
-## Wolverine WVR-6M
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2816)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 168
-- **Heat Sinks:** 14 (14)
-- **Weapons:**
-  - Large Laser
-  - SRM 6 (ammo: 15)
-  - Medium Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m)
-- **Battle Value:** 1291
+## Wolverine WVR-6M 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2816) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 168 
+- **Heat Sinks:** 14 (14) 
+- **Weapons:** 
+  - Large Laser 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m) 
+- **Battle Value:** 1291 
 
-### Early Succession Wars
-- Free Worlds League
+## Availability 
 
-### Late Succession Wars - LosTech
-- Free Worlds League
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Free Worlds League
+- Free Worlds League 
 
-### Clan Invasion
-- Free Worlds League
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Free Worlds League
-- Marian Hegemony
-- Pirate
+- Free Worlds League 
 
-### Jihad
-- Free Worlds League
-- Marian Hegemony
-- Pirate
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Free Worlds League - Non-Aligned Worlds
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Pirate
-- Regulan Fiefs
+- Free Worlds League 
 
-### Late Republic
-- Free Worlds League - Non-Aligned Worlds
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Pirate
-- Regulan Fiefs
+### Clan Invasion 
 
-### Dark Ages
-- Marian Hegemony
-- Pirate
+- Free Worlds League 
+
+### Civil War 
+
+- Free Worlds League 
+- Marian Hegemony 
+- Pirate 
+
+### Jihad 
+
+- Free Worlds League 
+- Marian Hegemony 
+- Pirate 
+
+### Early Republic 
+
+- Free Worlds League - Non-Aligned Worlds 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Pirate 
+- Regulan Fiefs 
+
+### Late Republic 
+
+- Free Worlds League - Non-Aligned Worlds 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Pirate 
+- Regulan Fiefs 
+
+### Dark Ages 
+
+- Marian Hegemony 
+- Pirate 
 

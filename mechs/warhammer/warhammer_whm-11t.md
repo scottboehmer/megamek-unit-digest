@@ -1,36 +1,40 @@
-# Warhammer WHM-11T
+# Warhammer WHM-11T 
 
-[Other Warhammer variants](../warhammer.md)
+[Other Warhammer variants](../warhammer.md) 
 
-## Warhammer WHM-11T
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3084)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 5
-- **Armor:** 178 (Light Ferro Fibrous)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Snub-Nose PPC × 2
-  - Light PPC × 2
-  - ER Medium Laser × 2
-  - MML 5 (ammo: 24 LRM, 20 SRM)
-- **Equipment:**
-  - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3482/warhammer-whm-11t)
-- **Battle Value:** 1698
+## Warhammer WHM-11T 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3084) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 5 
+- **Armor:** 178 (Light Ferro Fibrous) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Snub-Nose PPC × 2 
+  - Light PPC × 2 
+  - ER Medium Laser × 2 
+  - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3482/warhammer-whm-11t) 
+- **Battle Value:** 1698 
 
-### Early Republic
-- Magistracy of Canopus
-- Taurian Concordat
+## Availability 
 
-### Late Republic
-- Magistracy of Canopus
-- Taurian Concordat
+### Early Republic 
 
-### Dark Ages
-- Magistracy of Canopus
-- Taurian Concordat
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Magistracy of Canopus 
+- Taurian Concordat 
 

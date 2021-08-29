@@ -1,28 +1,30 @@
-# Nightstar NSR-10D
+# Nightstar NSR-10D 
 
-[Other Nightstar variants](../nightstar.md)
+[Other Nightstar variants](../nightstar.md) 
 
-## Nightstar NSR-10D
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere Mixed (3144)
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5, XL
-- **Armor:** 293
-- **Gyroscope:** XL Gyro
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Clan ER PPC
-  - Clan ER Large Laser × 2
-  - Light Gauss Rifle × 2 (ammo: 64)
-  - Medium X-Pulse Laser
-- **Equipment:**
-  - Coolant Pod × 2
-  - CASE II
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d)
-- **Battle Value:** 2539
+## Nightstar NSR-10D 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere Mixed (3144) 
+- **Chassis:** 95 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 293 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Clan ER PPC 
+  - Clan ER Large Laser × 2 
+  - Light Gauss Rifle × 2 (ammo: 64) 
+  - Medium X-Pulse Laser 
+- **Equipment:** 
+  - Coolant Pod × 2 
+  - CASE II 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d) 
+- **Battle Value:** 2539 
 
-### Dark Ages
-- Federated Suns
+## Availability 
+
+### Dark Ages 
+
+- Federated Suns 
 

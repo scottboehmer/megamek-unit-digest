@@ -1,28 +1,32 @@
-# Rifleman RFL-7G
+# Rifleman RFL-7G 
 
-[Other Rifleman variants](../rifleman.md)
+[Other Rifleman variants](../rifleman.md) 
 
-## Rifleman RFL-7G
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3086)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 144
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Silver Bullet × 2 (ammo: 32)
-  - ER Medium Laser × 2
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g)
-- **Battle Value:** 1302
+## Rifleman RFL-7G 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 144 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Silver Bullet × 2 (ammo: 32) 
+  - ER Medium Laser × 2 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g) 
+- **Battle Value:** 1302 
 
-### Early Republic
-- Republic of the Sphere
+## Availability 
 
-### Late Republic
-- Republic of the Sphere
+### Early Republic 
 
-### Dark Ages
-- Republic of the Sphere
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

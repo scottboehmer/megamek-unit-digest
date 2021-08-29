@@ -1,48 +1,55 @@
-# Ti Ts'ang TSG-9J
+# Ti Ts'ang TSG-9J 
 
-[Other Ti Ts'ang variants](../ti_ts'ang.md)
+[Other Ti Ts'ang variants](../ti_ts'ang.md) 
 
-## Ti Ts'ang TSG-9J
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 (7) / 9 (11), XL
-  - **Jumping:** 6
-- **Armor:** 200
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Large Laser
-  - ER Medium Laser × 3
-  - Hatchet
-  - ER Small Laser × 2
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3255/ti-tsang-tsg-9j)
-- **Battle Value:** 1909
+## Ti Ts'ang TSG-9J 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 6 (7) / 9 (11), XL 
+  - **Jumping:** 6 
+- **Armor:** 200 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser 
+  - ER Medium Laser × 3 
+  - Hatchet 
+  - ER Small Laser × 2 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3255/ti-tsang-tsg-9j) 
+- **Battle Value:** 1909 
 
-### Clan Invasion
-- Capellan Confederation
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+- Capellan Confederation 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
+### Jihad 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

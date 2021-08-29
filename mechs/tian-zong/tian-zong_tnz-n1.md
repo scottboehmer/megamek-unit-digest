@@ -1,32 +1,36 @@
-# Tian-Zong TNZ-N1
+# Tian-Zong TNZ-N1 
 
-[Other Tian-Zong variants](../tian-zong.md)
+[Other Tian-Zong variants](../tian-zong.md) 
 
-## Tian-Zong TNZ-N1
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3090)
-- **Chassis:** 75 tons (Endo Composite)
-- **Movement:** 4 / 6, XL
-- **Armor:** 216 (Stealth)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Gauss Rifle × 2 (ammo: 32)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - Angel ECM Suite
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6469/tian-zong-tnz-n1)
-- **Battle Value:** 2167
+## Tian-Zong TNZ-N1 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3090) 
+- **Chassis:** 75 tons (Endo Composite) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 216 (Stealth) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Gauss Rifle × 2 (ammo: 32) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Angel ECM Suite 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6469/tian-zong-tnz-n1) 
+- **Battle Value:** 2167 
 
-### Early Republic
-- Capellan Confederation
+## Availability 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
+### Early Republic 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

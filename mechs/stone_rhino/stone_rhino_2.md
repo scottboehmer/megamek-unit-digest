@@ -1,49 +1,56 @@
-# Stone Rhino 2
+# Stone Rhino 2 
 
-[Other Stone Rhino variants](../stone_rhino.md)
+[Other Stone Rhino variants](../stone_rhino.md) 
 
-## Stone Rhino 2 "Behemoth"
-- **Role:** Juggernaut
-- **Tech Base:** Clan (3061)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5, XL
-  - **Jumping:** 3
-- **Armor:** 304
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Gauss Rifle × 2 (ammo: 32)
-  - Heavy Large Laser × 2
-  - Heavy Medium Laser × 4
-  - Heavy Small Laser × 2
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-  - A-Pod × 2
-  - CASE
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2)
-- **Battle Value:** 3107
+## Stone Rhino 2 "Behemoth" 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (3061) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+  - **Jumping:** 3 
+- **Armor:** 304 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Gauss Rifle × 2 (ammo: 32) 
+  - Heavy Large Laser × 2 
+  - Heavy Medium Laser × 4 
+  - Heavy Small Laser × 2 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+  - A-Pod × 2 
+  - CASE 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2) 
+- **Battle Value:** 3107 
 
-### Clan Invasion
-- Clan Goliath Scorpion
-- Clan Hell's Horses
+## Availability 
 
-### Civil War
-- Clan Goliath Scorpion
-- Clan Hell's Horses
+### Clan Invasion 
 
-### Jihad
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Escorpión Imperio
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
 
-### Early Republic
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Escorpión Imperio
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Jihad 
+
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

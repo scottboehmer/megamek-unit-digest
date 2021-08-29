@@ -1,34 +1,38 @@
-# Gauntlet GTL-1OB
+# Gauntlet GTL-1OB 
 
-[Other Gauntlet variants](../gauntlet.md)
+[Other Gauntlet variants](../gauntlet.md) 
 
-## Gauntlet GTL-1OB
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3128)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8 (10), Light
-  - **Jumping:** 5
-- **Armor:** 169 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser
-  - Medium Laser × 10
-- **Equipment:**
-  - Guardian ECM Suite
-  - MASC
-  - Targeting Computer
-  - Coolant Pod × 2
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6623/gauntlet-gtl-1ob)
-- **Battle Value:** 2076
+## Gauntlet GTL-1OB 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3128) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8 (10), Light 
+  - **Jumping:** 5 
+- **Armor:** 169 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser 
+  - Medium Laser × 10 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - MASC 
+  - Targeting Computer 
+  - Coolant Pod × 2 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6623/gauntlet-gtl-1ob) 
+- **Battle Value:** 2076 
 
-### Early Republic
-- Lyran Commonwealth
+## Availability 
 
-### Late Republic
-- Lyran Commonwealth
+### Early Republic 
 
-### Dark Ages
-- Lyran Commonwealth
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

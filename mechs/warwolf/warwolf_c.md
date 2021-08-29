@@ -1,27 +1,29 @@
-# Warwolf C
+# Warwolf C 
 
-[Other Warwolf variants](../warwolf.md)
+[Other Warwolf variants](../warwolf.md) 
 
-## Warwolf C
-- **Role:** Brawler
-- **Tech Base:** Clan (3138)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 3
-- **Armor:** 231 (Reactive)
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Large Pulse Laser
-  - ATM 9 × 2 (ammo: 14 Standard, 7 HE, 7 ER)
-- **Equipment:**
-  - Laser Anti-Missile System
-  - Targeting Computer
-  - CASE II
-- **Sources:** TRO 3145 The Clans - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6290/warwolf-c)
-- **Battle Value:** 2776
+## Warwolf C 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3138) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 3 
+- **Armor:** 231 (Reactive) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - ATM 9 × 2 (ammo: 14 Standard, 7 HE, 7 ER) 
+- **Equipment:** 
+  - Laser Anti-Missile System 
+  - Targeting Computer 
+  - CASE II 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6290/warwolf-c) 
+- **Battle Value:** 2776 
 
-### Dark Ages
-- Clan Wolf
+## Availability 
+
+### Dark Ages 
+
+- Clan Wolf 
 

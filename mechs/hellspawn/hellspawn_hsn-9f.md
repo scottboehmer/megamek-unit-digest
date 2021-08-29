@@ -1,32 +1,37 @@
-# Hellspawn HSN-9F
+# Hellspawn HSN-9F 
 
-[Other Hellspawn variants](../hellspawn.md)
+[Other Hellspawn variants](../hellspawn.md) 
 
-## Hellspawn HSN-9F
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 96
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - MRM 20 × 2 (ammo: 24)
-  - Medium Pulse Laser × 2
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4309/hellspawn-hsn-9f)
-- **Battle Value:** 1118
+## Hellspawn HSN-9F 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 96 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - MRM 20 × 2 (ammo: 24) 
+  - Medium Pulse Laser × 2 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4309/hellspawn-hsn-9f) 
+- **Battle Value:** 1118 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

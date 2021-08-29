@@ -1,26 +1,29 @@
-# Bellerophon BEL-1X
+# Bellerophon BEL-1X 
 
-[Other Bellerophon variants](../bellerophon.md)
+[Other Bellerophon variants](../bellerophon.md) 
 
-## Bellerophon BEL-1X
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2442)
-- **Chassis:** 60 tons
-- **Movement:** 4 / 6
-- **Armor:** 123 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 14 (14)
-- **Weapons:**
-  - Large Laser × 2
-  - SRM 4 (ammo: 25)
-- **Sources:** XTRO Primitives III - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3817/bellerophon-bel-1x)
-- **Battle Value:** 957
+## Bellerophon BEL-1X 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2442) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 123 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 14 (14) 
+- **Weapons:** 
+  - Large Laser × 2 
+  - SRM 4 (ammo: 25) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3817/bellerophon-bel-1x) 
+- **Battle Value:** 957 
 
-### Jihad
-- Mercenary
+## Availability 
 
-### Early Republic
-- Mercenary
+### Jihad 
+
+- Mercenary 
+
+### Early Republic 
+
+- Mercenary 
 

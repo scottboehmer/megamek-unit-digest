@@ -1,58 +1,65 @@
-# Vindicator VND-3L
+# Vindicator VND-3L 
 
-[Other Vindicator variants](../vindicator.md)
+[Other Vindicator variants](../vindicator.md) 
 
-## Vindicator VND-3L
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 144
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser
-  - LRM 5 (ammo: 24)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l)
-- **Battle Value:** 1105
+## Vindicator VND-3L 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Pulse Laser 
+  - LRM 5 (ammo: 24) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l) 
+- **Battle Value:** 1105 
 
-### Clan Invasion
-- Capellan Confederation
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
-- Wolf's Dragoons
+- Capellan Confederation 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Mercenary
-- Pirate
+### Jihad 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Mercenary 
+- Pirate 
 

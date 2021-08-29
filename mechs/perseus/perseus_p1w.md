@@ -1,48 +1,53 @@
-# Perseus P1W
+# Perseus P1W 
 
-[Other Perseus variants](../perseus.md)
+[Other Perseus variants](../perseus.md) 
 
-## Perseus P1W
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 224
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
-  - ER Medium Laser × 3
-- **Equipment:**
-  - C3i
-- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w)
-- **Battle Value:** 1864
+## Perseus P1W 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster) 
+  - ER Medium Laser × 3 
+- **Equipment:** 
+  - C3i 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w) 
+- **Battle Value:** 1864 
 
-### Jihad
-- Free Worlds League
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+- Free Worlds League 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+### Early Republic 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
 

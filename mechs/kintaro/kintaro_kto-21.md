@@ -1,35 +1,39 @@
-# Kintaro KTO-21
+# Kintaro KTO-21 
 
-[Other Kintaro variants](../kintaro.md)
+[Other Kintaro variants](../kintaro.md) 
 
-## Kintaro KTO-21
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3059)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 170 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - iNarc (ammo: 12)
-  - ER Medium Laser × 2
-  - SRM 6 × 2 (ammo: 30)
-- **Equipment:**
-  - CASE
-  - C3i
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1794/kintaro-kto-21)
-- **Battle Value:** 1295
+## Kintaro KTO-21 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3059) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 170 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - iNarc (ammo: 12) 
+  - ER Medium Laser × 2 
+  - SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - CASE 
+  - C3i 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1794/kintaro-kto-21) 
+- **Battle Value:** 1295 
 
-### Clan Invasion
-- ComStar
-- Word of Blake
+## Availability 
 
-### Civil War
-- ComStar
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Word of Blake
+- ComStar 
+- Word of Blake 
+
+### Civil War 
+
+- ComStar 
+- Word of Blake 
+
+### Jihad 
+
+- ComStar 
+- Word of Blake 
 

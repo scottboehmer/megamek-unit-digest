@@ -1,54 +1,60 @@
-# Huntsman H
+# Huntsman H 
 
-[Other Huntsman variants](../huntsman.md)
+[Other Huntsman variants](../huntsman.md) 
 
-## Huntsman "Nobori-nin" H
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3063)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 169 (Ferro Fibrous)
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Heavy Medium Laser × 4
-  - Heavy Small Laser
-- **Equipment:**
-  - ECM Suite
-  - Active Probe
-  - Targeting Computer
-- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2294/nobori-nin-huntsman-h)
-- **Battle Value:** 2495
+## Huntsman "Nobori-nin" H 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3063) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 169 (Ferro Fibrous) 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Heavy Medium Laser × 4 
+  - Heavy Small Laser 
+- **Equipment:** 
+  - ECM Suite 
+  - Active Probe 
+  - Targeting Computer 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294/nobori-nin-huntsman-h) 
+- **Battle Value:** 2495 
 
-### Civil War
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Nova Cat
-- Clan Star Adder
+## Availability 
 
-### Jihad
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Nova Cat
-- Clan Star Adder
+### Civil War 
 
-### Early Republic
-- Clan Nova Cat
-- Republic of the Sphere
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Nova Cat 
+- Clan Star Adder 
 
-### Late Republic
-- Clan Nova Cat
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Clan Nova Cat
-- Clan Sea Fox
-- Free Worlds League
-- Republic of the Sphere
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Nova Cat 
+- Clan Star Adder 
+
+### Early Republic 
+
+- Clan Nova Cat 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Free Worlds League 
+- Republic of the Sphere 
 

@@ -1,39 +1,44 @@
-# Wyvern WVE-9N
+# Wyvern WVE-9N 
 
-[Other Wyvern variants](../wyvern.md)
+[Other Wyvern variants](../wyvern.md) 
 
-## Wyvern WVE-9N
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3052)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 128
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Pulse Laser
-  - LRM 10 (ammo: 12)
-  - Medium Pulse Laser × 2
-  - Streak SRM 2 (ammo: 50)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3600/wyvern-wve-9n)
-- **Battle Value:** 1067
+## Wyvern WVE-9N 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 128 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - LRM 10 (ammo: 12) 
+  - Medium Pulse Laser × 2 
+  - Streak SRM 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3600/wyvern-wve-9n) 
+- **Battle Value:** 1067 
 
-### Clan Invasion
-- ComStar
-- Word of Blake
+## Availability 
 
-### Civil War
-- ComStar
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Word of Blake
+- ComStar 
+- Word of Blake 
 
-### Early Republic
-- Republic of the Sphere
+### Civil War 
+
+- ComStar 
+- Word of Blake 
+
+### Jihad 
+
+- ComStar 
+- Word of Blake 
+
+### Early Republic 
+
+- Republic of the Sphere 
 

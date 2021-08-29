@@ -1,35 +1,38 @@
-# Jaguar (Standard)
+# Jaguar (Standard) 
 
-[Other Jaguar variants](../jaguar.md)
+[Other Jaguar variants](../jaguar.md) 
 
-## Jaguar (Standard)
-- **Role:** Striker
-- **Tech Base:** Clan (3121)
-- **Chassis:** 35 tons Quad (Endo Steel)
-- **Movement:** 8 / 12, XL
-- **Armor:** 127 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 4
-  - ATM 6 (ammo: 20)
-  - SRM 2 × 2 (ammo: 50)
-- **Equipment:**
-  - CASE
-  - Quad Turret
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6612/jaguar-standard)
-- **Battle Value:** 1791
+## Jaguar (Standard) 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3121) 
+- **Chassis:** 35 tons Quad (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+- **Armor:** 127 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+  - ATM 6 (ammo: 20) 
+  - SRM 2 × 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+  - Quad Turret 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6612/jaguar-standard) 
+- **Battle Value:** 1791 
 
-### Late Republic
-- Clan Wolf-in-Exile
-- Lyran Commonwealth
-- Republic of the Sphere
+## Availability 
 
-### Dark Ages
-- Clan Jade Falcon
-- Clan Wolf-in-Exile
-- Federated Suns
-- Lyran Commonwealth
-- Republic of the Sphere
+### Late Republic 
+
+- Clan Wolf-in-Exile 
+- Lyran Commonwealth 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Clan Wolf-in-Exile 
+- Federated Suns 
+- Lyran Commonwealth 
+- Republic of the Sphere 
 

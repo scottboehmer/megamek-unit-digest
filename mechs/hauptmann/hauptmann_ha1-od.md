@@ -1,37 +1,42 @@
-# Hauptmann HA1-OD
+# Hauptmann HA1-OD 
 
-[Other Hauptmann variants](../hauptmann.md)
+[Other Hauptmann variants](../hauptmann.md) 
 
-## Hauptmann HA1-OD
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3070)
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5
-- **Armor:** 293
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - Heavy PPC
-  - ER Medium Laser × 2
-  - Rocket 10 × 2
-- **Equipment:**
-  - CASE
-  - C3 Master
-  - Targeting Computer
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od)
-- **Battle Value:** 2359
+## Hauptmann HA1-OD 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 95 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 293 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Heavy PPC 
+  - ER Medium Laser × 2 
+  - Rocket 10 × 2 
+- **Equipment:** 
+  - CASE 
+  - C3 Master 
+  - Targeting Computer 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od) 
+- **Battle Value:** 2359 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

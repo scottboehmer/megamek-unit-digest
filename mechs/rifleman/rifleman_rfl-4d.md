@@ -1,44 +1,51 @@
-# Rifleman RFL-4D
+# Rifleman RFL-4D 
 
-[Other Rifleman variants](../rifleman.md)
+[Other Rifleman variants](../rifleman.md) 
 
-## Rifleman RFL-4D
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3021)
-- **Chassis:** 60 tons
-- **Movement:** 4 / 6
-- **Armor:** 120
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - PPC × 2
-  - Large Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d)
-- **Battle Value:** 1173
+## Rifleman RFL-4D 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3021) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 120 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - PPC × 2 
+  - Large Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d) 
+- **Battle Value:** 1173 
 
-### Late Succession Wars - Renaissance
-- Federated Suns
+## Availability 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+- Federated Suns 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Clan Invasion 
 
-### Early Republic
-- Federated Suns
-- Filtvelt Coalition
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Late Republic
-- Filtvelt Coalition
+### Civil War 
+
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
+
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Early Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Late Republic 
+
+- Filtvelt Coalition 
 

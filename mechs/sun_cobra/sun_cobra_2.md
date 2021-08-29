@@ -1,38 +1,42 @@
-# Sun Cobra 2
+# Sun Cobra 2 
 
-[Other Sun Cobra variants](../sun_cobra.md)
+[Other Sun Cobra variants](../sun_cobra.md) 
 
-## Sun Cobra 2
-- **Role:** Sniper
-- **Tech Base:** Clan (3093)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 184
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC × 2
-- **Equipment:**
-  - Targeting Computer
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6893/sun-cobra-2)
-- **Battle Value:** 2394
+## Sun Cobra 2 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3093) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 184 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC × 2 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6893/sun-cobra-2) 
+- **Battle Value:** 2394 
 
-### Early Republic
-- Clan Diamond Shark
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+## Availability 
 
-### Late Republic
-- Clan Sea Fox
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
 
-### Dark Ages
-- Clan Sea Fox
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+- Clan Diamond Shark 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Sea Fox 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Sea Fox 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
 

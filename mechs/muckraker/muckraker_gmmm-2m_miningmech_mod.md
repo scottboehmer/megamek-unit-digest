@@ -1,35 +1,39 @@
-# MuckRaker GMMM-2M MiningMech MOD
+# MuckRaker GMMM-2M MiningMech MOD 
 
-[Other MuckRaker variants](../muckraker.md)
+[Other MuckRaker variants](../muckraker.md) 
 
-## MuckRaker GMMM-2M MiningMech MOD
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3132)
-- **Chassis:** 70 tons (Industrial)
-- **Movement:** 2 / 3, ICE
-- **Armor:** 192
-- **Heat Sinks:** 8 (8)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - MRM 20 (ammo: 12)
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7827/muckraker-gmmm-2m-miningmech-mod)
-- **Battle Value:** 1001
+## MuckRaker GMMM-2M MiningMech MOD 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3132) 
+- **Chassis:** 70 tons (Industrial) 
+- **Movement:** 2 / 3, ICE 
+- **Armor:** 192 
+- **Heat Sinks:** 8 (8) 
+- **Weapons:** 
+  - RAC/5 (ammo: 60) 
+  - MRM 20 (ammo: 12) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7827/muckraker-gmmm-2m-miningmech-mod) 
+- **Battle Value:** 1001 
 
-### Early Republic
-- Capellan Confederation
-- Pirate
+## Availability 
 
-### Late Republic
-- Capellan Confederation
-- Mercenary
-- Pirate
+### Early Republic 
 
-### Dark Ages
-- Capellan Confederation
-- Free Worlds League
-- Lyran Commonwealth
-- Mercenary
-- Pirate
+- Capellan Confederation 
+- Pirate 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Mercenary 
+- Pirate 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Pirate 
 

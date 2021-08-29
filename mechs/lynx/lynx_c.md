@@ -1,70 +1,80 @@
-# Lynx C
+# Lynx C 
 
-[Other Lynx variants](../lynx.md)
+[Other Lynx variants](../lynx.md) 
 
-## Lynx C
-- **Role:** Skirmisher
-- **Tech Base:** Clan (2848)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 185 (Ferro Fibrous)
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER PPC
-  - Large Pulse Laser
-  - ER Large Laser
-  - ER Medium Laser × 2
-  - ER Small Laser
-- **Sources:** Succesion Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7620/lynx-c)
-- **Battle Value:** 2712
+## Lynx C 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (2848) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 185 (Ferro Fibrous) 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER PPC 
+  - Large Pulse Laser 
+  - ER Large Laser 
+  - ER Medium Laser × 2 
+  - ER Small Laser 
+- **Sources:** Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7620/lynx-c) 
+- **Battle Value:** 2712 
 
-### Early Succession Wars
-- Clan Cloud Cobra
-- Clan Goliath Scorpion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Wolf
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Cloud Cobra
-- Clan Goliath Scorpion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Wolf
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Cloud Cobra
-- Clan Nova Cat
-- Clan Smoke Jaguar
+- Clan Cloud Cobra 
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Wolf 
 
-### Clan Invasion
-- Clan Cloud Cobra
-- Clan Nova Cat
-- Clan Smoke Jaguar
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Clan Cloud Cobra
-- Clan Ice Hellion
+- Clan Cloud Cobra 
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Wolf 
 
-### Jihad
-- Clan Cloud Cobra
-- Clan Ice Hellion
-- Escorpión Imperio
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+- Clan Cloud Cobra 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
 
-### Late Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+### Clan Invasion 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+- Clan Cloud Cobra 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+
+### Civil War 
+
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+
+### Jihad 
+
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

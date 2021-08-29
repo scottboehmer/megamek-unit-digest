@@ -1,28 +1,31 @@
-# Burrock (Standard)
+# Burrock (Standard) 
 
-[Other Burrock variants](../burrock.md)
+[Other Burrock variants](../burrock.md) 
 
-## Burrock (Standard)
-- **Role:** Brawler
-- **Tech Base:** Clan (3066)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 200
-- **Heat Sinks:** 20 (40)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 20)
-  - Heavy Medium Laser × 6
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/3878/burrock-standard)
-- **Battle Value:** 2230
+## Burrock (Standard) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3066) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 200 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+  - Heavy Medium Laser × 6 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3878/burrock-standard) 
+- **Battle Value:** 2230 
 
-### Civil War
-- Clan Star Adder
+## Availability 
 
-### Jihad
-- Clan Burrock
-- Clan Star Adder
+### Civil War 
+
+- Clan Star Adder 
+
+### Jihad 
+
+- Clan Burrock 
+- Clan Star Adder 
 

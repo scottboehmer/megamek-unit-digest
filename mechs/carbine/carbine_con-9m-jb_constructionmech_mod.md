@@ -1,26 +1,28 @@
-# Carbine CON-9M-JB ConstructionMech MOD
+# Carbine CON-9M-JB ConstructionMech MOD 
 
-[Other Carbine variants](../carbine.md)
+[Other Carbine variants](../carbine.md) 
 
-## Carbine CON-9M-JB ConstructionMech MOD
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (3145)
-- **Chassis:** 30 tons (Industrial)
-- **Movement:** 5 / 8, ICE
-- **Armor:** 48
-- **Heat Sinks:** 0 (0)
-- **Weapons:**
-  - Heavy Machine Gun × 4 (ammo: 50)
-- **Equipment:**
-  - Machine Gun Array
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7850/carbine-con-9m-jb-constructionmech-mod)
-- **Battle Value:** 280
+## Carbine CON-9M-JB ConstructionMech MOD 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3145) 
+- **Chassis:** 30 tons (Industrial) 
+- **Movement:** 5 / 8, ICE 
+- **Armor:** 48 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Heavy Machine Gun × 4 (ammo: 50) 
+- **Equipment:** 
+  - Machine Gun Array 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7850/carbine-con-9m-jb-constructionmech-mod) 
+- **Battle Value:** 280 
 
-### Dark Ages
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Pirate
+## Availability 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Pirate 
 

@@ -1,50 +1,55 @@
-# Arbalest (Standard)
+# Arbalest (Standard) 
 
-[Other Arbalest variants](../arbalest.md)
+[Other Arbalest variants](../arbalest.md) 
 
-## Arbalest (Standard)
-- **Role:** Missile Boat
-- **Tech Base:** Clan (3077)
-- **Chassis:** 25 tons
-- **Movement:** 5 / 8
-- **Armor:** 56
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 10 × 2 (ammo: 24)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - ECM Suite
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/62/arbalest-standard)
-- **Battle Value:** 1029
+## Arbalest (Standard) 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** 25 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 10 × 2 (ammo: 24) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - ECM Suite 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/62/arbalest-standard) 
+- **Battle Value:** 1029 
 
-### Jihad
-- Clan Nova Cat
-- Mercenary
+## Availability 
 
-### Early Republic
-- Clan Diamond Shark
-- Clan Nova Cat
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Nova Cat
-- Clan Sea Fox
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+- Clan Nova Cat 
+- Mercenary 
 
-### Dark Ages
-- Clan Nova Cat
-- Clan Sea Fox
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Nova Cat 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
 

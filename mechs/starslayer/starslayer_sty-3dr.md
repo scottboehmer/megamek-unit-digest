@@ -1,52 +1,57 @@
-# Starslayer STY-3Dr
+# Starslayer STY-3Dr 
 
-[Other Starslayer variants](../starslayer.md)
+[Other Starslayer variants](../starslayer.md) 
 
-## Starslayer STY-3Dr
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 (6) / 8 (9)
-  - **Jumping:** 5
-- **Armor:** 169 (Light Ferro Fibrous)
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Heavy PPC
-  - Medium Laser × 3
-- **Equipment:**
-  - Guardian ECM Suite
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3051/starslayer-sty-3dr)
-- **Battle Value:** 1781
+## Starslayer STY-3Dr 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 (6) / 8 (9) 
+  - **Jumping:** 5 
+- **Armor:** 169 (Light Ferro Fibrous) 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Heavy PPC 
+  - Medium Laser × 3 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051/starslayer-sty-3dr) 
+- **Battle Value:** 1781 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Capellan Confederation
-- Free Worlds League
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Mercenary
-- Regulan Fiefs
-- Republic of the Sphere
+### Early Republic 
+
+- Capellan Confederation 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
 

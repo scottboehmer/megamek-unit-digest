@@ -1,50 +1,56 @@
-# Crimson Langur B
+# Crimson Langur B 
 
-[Other Crimson Langur variants](../crimson_langur.md)
+[Other Crimson Langur variants](../crimson_langur.md) 
 
-## Crimson Langur B
-- **Role:** Striker
-- **Tech Base:** Clan (3065)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 7
-- **Armor:** 168
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ATM 9 (ammo: 7 ER, 7 Standard, 7 HE)
-  - ER Medium Laser × 3
-- **Equipment:**
-  - Light Active Probe
-  - CASE
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b)
-- **Battle Value:** 2210
+## Crimson Langur B 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3065) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 168 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ATM 9 (ammo: 7 ER, 7 Standard, 7 HE) 
+  - ER Medium Laser × 3 
+- **Equipment:** 
+  - Light Active Probe 
+  - CASE 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b) 
+- **Battle Value:** 2210 
 
-### Civil War
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Fire Mandrill
-- Clan Star Adder
+## Availability 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Snow Raven
-- Clan Star Adder
+### Civil War 
 
-### Early Republic
-- Clan Diamond Shark
-- Raven Alliance
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Fire Mandrill 
+- Clan Star Adder 
 
-### Late Republic
-- Clan Sea Fox
-- Raven Alliance
+### Jihad 
 
-### Dark Ages
-- Clan Sea Fox
-- Raven Alliance
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Snow Raven 
+- Clan Star Adder 
+
+### Early Republic 
+
+- Clan Diamond Shark 
+- Raven Alliance 
+
+### Late Republic 
+
+- Clan Sea Fox 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Clan Sea Fox 
+- Raven Alliance 
 

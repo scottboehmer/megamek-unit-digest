@@ -1,37 +1,42 @@
-# Parash 3
+# Parash 3 
 
-[Other Parash variants](../parash.md)
+[Other Parash variants](../parash.md) 
 
-## Parash 3
-- **Role:** Striker
-- **Tech Base:** Inner Sphere Mixed (3083)
-- **Chassis:** 35 tons
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 7
-- **Armor:** 112
-- **Gyroscope:** No Gyro
-- **Cockpit:** Interface
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Clan Large Pulse Laser
-- **Equipment:**
-  - Angel ECM Suite
-  - Bloodhound Active Probe
-  - Clan TAG
-- **Sources:** XTR Republic III - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7375/parash-3)
-- **Battle Value:** 1785
+## Parash 3 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere Mixed (3083) 
+- **Chassis:** 35 tons 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 112 
+- **Gyroscope:** No Gyro 
+- **Cockpit:** Interface 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Clan Large Pulse Laser 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Bloodhound Active Probe 
+  - Clan TAG 
+- **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375/parash-3) 
+- **Battle Value:** 1785 
 
-### Jihad
-- Clan Hell's Horses
+## Availability 
 
-### Early Republic
-- Clan Hell's Horses
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
+- Clan Hell's Horses 
 
-### Dark Ages
-- Clan Hell's Horses
+### Early Republic 
+
+- Clan Hell's Horses 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
 

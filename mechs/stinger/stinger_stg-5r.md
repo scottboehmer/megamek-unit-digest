@@ -1,66 +1,72 @@
-# Stinger STG-5R
+# Stinger STG-5R 
 
-[Other Stinger variants](../stinger.md)
+[Other Stinger variants](../stinger.md) 
 
-## Stinger STG-5R
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3067)
-- **Chassis:** 20 tons
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 53 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - ER Medium Laser
-  - Rocket 15 × 2
-- **Sources:** TRO Project Phoenix - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3064/stinger-stg-5r)
-- **Battle Value:** 492
+## Stinger STG-5R 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 20 tons 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 53 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - Rocket 15 × 2 
+- **Sources:** TRO Project Phoenix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3064/stinger-stg-5r) 
+- **Battle Value:** 492 
 
-### Civil War
-- Capellan Confederation
-- Circinus Federation
-- Magistracy of Canopus
-- Taurian Concordat
-- Word of Blake
+## Availability 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- Magistracy of Canopus
-- Pirate
-- Taurian Concordat
-- Word of Blake
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Capellan Confederation 
+- Circinus Federation 
+- Magistracy of Canopus 
+- Taurian Concordat 
+- Word of Blake 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Jihad 
 
-### Dark Ages
-- Calderon Protectorate
-- Capellan Confederation
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- Magistracy of Canopus 
+- Pirate 
+- Taurian Concordat 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

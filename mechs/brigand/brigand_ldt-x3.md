@@ -1,32 +1,37 @@
-# Brigand LDT-X3
+# Brigand LDT-X3 
 
-[Other Brigand variants](../brigand.md)
+[Other Brigand variants](../brigand.md) 
 
-## Brigand LDT-X3
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3075)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 72
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Light PPC × 2
-  - Flamer × 2
-- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5653/brigand-ldt-x3)
-- **Battle Value:** 695
+## Brigand LDT-X3 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 72 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Light PPC × 2 
+  - Flamer × 2 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5653/brigand-ldt-x3) 
+- **Battle Value:** 695 
 
-### Jihad
-- Pirate
+## Availability 
 
-### Early Republic
-- Pirate
+### Jihad 
 
-### Late Republic
-- Pirate
+- Pirate 
 
-### Dark Ages
-- Pirate
+### Early Republic 
+
+- Pirate 
+
+### Late Republic 
+
+- Pirate 
+
+### Dark Ages 
+
+- Pirate 
 

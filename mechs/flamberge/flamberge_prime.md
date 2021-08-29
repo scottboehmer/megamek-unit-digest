@@ -1,35 +1,40 @@
-# Flamberge Prime
+# Flamberge Prime 
 
-[Other Flamberge variants](../flamberge.md)
+[Other Flamberge variants](../flamberge.md) 
 
-## Flamberge Prime
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3077)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 6
-- **Armor:** 216
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Medium Pulse Laser × 4
-  - ATM 6 × 2 (ammo: 20)
-  - SRM 6 × 2 (ammo: 30)
-- **Equipment:**
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1119/flamberge-prime)
-- **Battle Value:** 2266
+## Flamberge Prime 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 6 
+- **Armor:** 216 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Medium Pulse Laser × 4 
+  - ATM 6 × 2 (ammo: 20) 
+  - SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1119/flamberge-prime) 
+- **Battle Value:** 2266 
 
-### Jihad
-- Clan Jade Falcon
+## Availability 
 
-### Early Republic
-- Clan Jade Falcon
+### Jihad 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Jade Falcon 
 
-### Dark Ages
-- Clan Jade Falcon
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

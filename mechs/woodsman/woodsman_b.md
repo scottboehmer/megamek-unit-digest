@@ -1,41 +1,46 @@
-# Woodsman B
+# Woodsman B 
 
-[Other Woodsman variants](../woodsman.md)
+[Other Woodsman variants](../woodsman.md) 
 
-## Woodsman B
-- **Role:** Sniper
-- **Tech Base:** Clan (2866)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8)
-- **Armor:** 216
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - ER Large Laser
-  - LRM 10 w/ Artemis IV (ammo: 12)
-  - ER Medium Laser
-  - SRM 4 w/ Artemis IV (ammo: 25)
-  - Small Pulse Laser
-- **Equipment:**
-  - MASC
-  - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7643/woodsman-b)
-- **Battle Value:** 2414
+## Woodsman B 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (2866) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8) 
+- **Armor:** 216 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER Large Laser 
+  - LRM 10 w/ Artemis IV (ammo: 12) 
+  - ER Medium Laser 
+  - SRM 4 w/ Artemis IV (ammo: 25) 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - MASC 
+  - CASE 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7643/woodsman-b) 
+- **Battle Value:** 2414 
 
-### Early Succession Wars
-- Clan Wolf
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Snow Raven
-- Clan Wolf
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Snow Raven
-- Clan Wolf
+- Clan Wolf 
 
-### Dark Ages
-- Clan Wolf
-- Raven Alliance
+### Late Succession Wars - LosTech 
+
+- Clan Snow Raven 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Snow Raven 
+- Clan Wolf 
+
+### Dark Ages 
+
+- Clan Wolf 
+- Raven Alliance 
 

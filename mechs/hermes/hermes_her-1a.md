@@ -1,36 +1,41 @@
-# Hermes HER-1A
+# Hermes HER-1A 
 
-[Other Hermes variants](../hermes.md)
+[Other Hermes variants](../hermes.md) 
 
-## Hermes HER-1A
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2856)
-- **Chassis:** 30 tons
-- **Movement:** 9 / 14
-- **Armor:** 56
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 2
-  - Flamer
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1485/hermes-her-1a)
-- **Battle Value:** 601
+## Hermes HER-1A 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2856) 
+- **Chassis:** 30 tons 
+- **Movement:** 9 / 14 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Flamer 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1485/hermes-her-1a) 
+- **Battle Value:** 601 
 
-### Early Succession Wars
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
+## Availability 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- Draconis Combine
-- Free Worlds League
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- Free Worlds League
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
 
-### Clan Invasion
-- Free Worlds League
+### Late Succession Wars - LosTech 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- Free Worlds League 
+
+### Clan Invasion 
+
+- Free Worlds League 
 

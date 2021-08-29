@@ -1,36 +1,42 @@
-# Rakshasa MDG-2A
+# Rakshasa MDG-2A 
 
-[Other Rakshasa variants](../rakshasa.md)
+[Other Rakshasa variants](../rakshasa.md) 
 
-## Rakshasa MDG-2A
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 206 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - Large Pulse Laser
-  - Medium Pulse Laser × 4
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a)
-- **Battle Value:** 1766
+## Rakshasa MDG-2A 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 206 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - RAC/5 (ammo: 60) 
+  - Large Pulse Laser 
+  - Medium Pulse Laser × 4 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a) 
+- **Battle Value:** 1766 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Jihad
-- Federated Suns
+### Civil War 
 
-### Early Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
 
-### Late Republic
-- Federated Suns
+### Jihad 
 
-### Dark Ages
-- Federated Suns
+- Federated Suns 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

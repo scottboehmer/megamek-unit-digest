@@ -1,32 +1,37 @@
-# Legionnaire LGN-2F
+# Legionnaire LGN-2F 
 
-[Other Legionnaire variants](../legionnaire.md)
+[Other Legionnaire variants](../legionnaire.md) 
 
-## Legionnaire LGN-2F
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3077)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-- **Armor:** 152 (Laser Reflective)
-- **Cockpit:** Torso-Mounted
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - RAC/5 (ammo: 60)
-  - ER Medium Laser × 2
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4491/legionnaire-lgn-2f)
-- **Battle Value:** 1808
+## Legionnaire LGN-2F 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+- **Armor:** 152 (Laser Reflective) 
+- **Cockpit:** Torso-Mounted 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - RAC/5 (ammo: 60) 
+  - ER Medium Laser × 2 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4491/legionnaire-lgn-2f) 
+- **Battle Value:** 1808 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

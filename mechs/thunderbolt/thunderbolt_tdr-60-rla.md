@@ -1,42 +1,47 @@
-# Thunderbolt TDR-60-RLA
+# Thunderbolt TDR-60-RLA 
 
-[Other Thunderbolt variants](../thunderbolt.md)
+[Other Thunderbolt variants](../thunderbolt.md) 
 
-## Thunderbolt TDR-60-RLA
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3072)
-- **Chassis:** 65 tons
-- **Movement:** 5 (6) / 8 (9), XL
-  - **Jumping:** 5
-- **Armor:** 206 (Ferro Fibrous)
-- **Myomer:** Triple-Strength
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Snub-Nose PPC × 2
-  - ER Medium Laser × 3
-  - Medium Pulse Laser × 2
-  - Small Pulse Laser
-  - Small Laser × 2
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3243/thunderbolt-tdr-60-rla)
-- **Battle Value:** 1975
+## Thunderbolt TDR-60-RLA 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 65 tons 
+- **Movement:** 5 (6) / 8 (9), XL 
+  - **Jumping:** 5 
+- **Armor:** 206 (Ferro Fibrous) 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Snub-Nose PPC × 2 
+  - ER Medium Laser × 3 
+  - Medium Pulse Laser × 2 
+  - Small Pulse Laser 
+  - Small Laser × 2 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3243/thunderbolt-tdr-60-rla) 
+- **Battle Value:** 1975 
 
-### Jihad
-- Draconis Combine
+## Availability 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
 

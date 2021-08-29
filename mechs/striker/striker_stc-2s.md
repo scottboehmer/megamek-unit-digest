@@ -1,49 +1,59 @@
-# Striker STC-2S
+# Striker STC-2S 
 
-[Other Striker variants](../striker.md)
+[Other Striker variants](../striker.md) 
 
-## Striker STC-2S
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2845)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6
-- **Armor:** 216
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - PPC
-  - AC/10 (ammo: 20)
-  - Medium Laser × 3
-- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3096/striker-stc-2s)
-- **Battle Value:** 1466
+## Striker STC-2S 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2845) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 216 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - PPC 
+  - AC/10 (ammo: 20) 
+  - Medium Laser × 3 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3096/striker-stc-2s) 
+- **Battle Value:** 1466 
 
-### Early Succession Wars
-- Lyran Commonwealth
+## Availability 
 
-### Late Succession Wars - LosTech
-- Lyran Commonwealth
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Lyran Commonwealth
+- Lyran Commonwealth 
 
-### Clan Invasion
-- Federated Commonwealth
-- Lyran Alliance
-- Lyran Commonwealth
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Lyran Alliance
+- Lyran Commonwealth 
 
-### Jihad
-- Lyran Alliance
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Lyran Commonwealth
+- Lyran Commonwealth 
 
-### Late Republic
-- Lyran Commonwealth
+### Clan Invasion 
 
-### Dark Ages
-- Lyran Commonwealth
+- Federated Commonwealth 
+- Lyran Alliance 
+- Lyran Commonwealth 
+
+### Civil War 
+
+- Lyran Alliance 
+
+### Jihad 
+
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

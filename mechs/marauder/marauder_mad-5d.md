@@ -1,78 +1,86 @@
-# Marauder MAD-5D
+# Marauder MAD-5D 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-5D
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3047)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 224
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - ER PPC × 2
-  - Large Pulse Laser
-  - Medium Pulse Laser × 2
-  - Streak SRM 2 (ammo: 50)
-- **Equipment:**
-  - CASE
-- **Sources:** Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d)
-- **Battle Value:** 1787
+## Marauder MAD-5D 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3047) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 224 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Large Pulse Laser 
+  - Medium Pulse Laser × 2 
+  - Streak SRM 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d) 
+- **Battle Value:** 1787 
 
-### Late Succession Wars - Renaissance
-- Federated Suns
+## Availability 
 
-### Clan Invasion
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Federated Suns 
 
-### Jihad
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Early Republic
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Late Republic
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Civil War 
 
-### Dark Ages
-- Draconis Combine
-- Filtvelt Coalition
-- Mercenary
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Jihad 
+
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Filtvelt Coalition 
+- Mercenary 
 

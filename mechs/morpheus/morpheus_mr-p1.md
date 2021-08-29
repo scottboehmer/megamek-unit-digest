@@ -1,42 +1,49 @@
-# Morpheus MR-P1
+# Morpheus MR-P1 
 
-[Other Morpheus variants](../morpheus.md)
+[Other Morpheus variants](../morpheus.md) 
 
-## Morpheus MR-P1
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3051)
-- **Chassis:** 65 tons
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 208
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - Medium Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - Anti-Missile System (ammo: 12)
-  - Beagle Active Probe
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2225/morpheus-mr-p1)
-- **Battle Value:** 1340
+## Morpheus MR-P1 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 65 tons 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 208 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - Medium Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Anti-Missile System (ammo: 12) 
+  - Beagle Active Probe 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2225/morpheus-mr-p1) 
+- **Battle Value:** 1340 
 
-### Clan Invasion
-- Solaris 7
+## Availability 
 
-### Civil War
-- Solaris 7
+### Clan Invasion 
 
-### Jihad
-- Solaris 7
+- Solaris 7 
 
-### Early Republic
-- Solaris 7
+### Civil War 
 
-### Late Republic
-- Solaris 7
+- Solaris 7 
 
-### Dark Ages
-- Solaris 7
+### Jihad 
+
+- Solaris 7 
+
+### Early Republic 
+
+- Solaris 7 
+
+### Late Republic 
+
+- Solaris 7 
+
+### Dark Ages 
+
+- Solaris 7 
 

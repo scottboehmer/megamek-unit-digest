@@ -1,86 +1,93 @@
-# Atlas AS7-S
+# Atlas AS7-S 
 
-[Other Atlas variants](../atlas.md)
+[Other Atlas variants](../atlas.md) 
 
-## Atlas AS7-S
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-- **Armor:** 304
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - LRM 20 (ammo: 12)
-  - AC/20 (ammo: 15)
-  - SRM 6 (ammo: 15)
-  - Medium Laser × 4
-  - Streak SRM 2 × 2 (ammo: 50)
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s)
-- **Battle Value:** 1929
+## Atlas AS7-S 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 304 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - LRM 20 (ammo: 12) 
+  - AC/20 (ammo: 15) 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 4 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s) 
+- **Battle Value:** 1929 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Jihad 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

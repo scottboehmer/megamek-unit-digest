@@ -1,66 +1,73 @@
-# Salamander PPR-5S
+# Salamander PPR-5S 
 
-[Other Salamander variants](../salamander.md)
+[Other Salamander variants](../salamander.md) 
 
-## Salamander PPR-5S
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3055)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 247
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 20 × 3 (ammo: 54)
-  - Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2782/salamander-ppr-5s)
-- **Battle Value:** 1769
+## Salamander PPR-5S 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3055) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 247 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 20 × 3 (ammo: 54) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2782/salamander-ppr-5s) 
+- **Battle Value:** 1769 
 
-### Clan Invasion
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
+
+- ComStar 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

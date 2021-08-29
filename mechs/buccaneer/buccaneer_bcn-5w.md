@@ -1,27 +1,29 @@
-# Buccaneer BCN-5W
+# Buccaneer BCN-5W 
 
-[Other Buccaneer variants](../buccaneer.md)
+[Other Buccaneer variants](../buccaneer.md) 
 
-## Buccaneer BCN-5W
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3069)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 7
-- **Armor:** 169 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Plasma Rifle (ammo: 20)
-  - Hatchet
-  - Heavy Machine Gun × 3 (ammo: 50)
-- **Equipment:**
-  - C3i
-  - Machine Gun Array
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/437/buccaneer-bcn-5w)
-- **Battle Value:** 1370
+## Buccaneer BCN-5W 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 7 
+- **Armor:** 169 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - Hatchet 
+  - Heavy Machine Gun × 3 (ammo: 50) 
+- **Equipment:** 
+  - C3i 
+  - Machine Gun Array 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/437/buccaneer-bcn-5w) 
+- **Battle Value:** 1370 
 
-### Jihad
-- Word of Blake
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
 

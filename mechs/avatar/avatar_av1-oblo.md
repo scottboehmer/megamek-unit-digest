@@ -1,31 +1,34 @@
-# Avatar AV1-OBLO
+# Avatar AV1-OBLO 
 
-[Other Avatar variants](../avatar.md)
+[Other Avatar variants](../avatar.md) 
 
-## Avatar AV1-OBLO
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3127)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 192
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC
-  - LB 10-X AC (ammo: 20 Standard, 10 Cluster)
-  - Medium Laser × 2
-- **Equipment:**
-  - Guardian ECM Suite
-  - C3i
-  - CASE
-- **Sources:** SO:Unending Faith - Late Republic Era, [Master Unit List](http://masterunitlist.info/Unit/Details/7634/avatar-av1-oblo)
-- **Battle Value:** 1550
+## Avatar AV1-OBLO 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3127) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 192 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC 
+  - LB 10-X AC (ammo: 20 Standard, 10 Cluster) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - C3i 
+  - CASE 
+- **Sources:** SO:Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7634/avatar-av1-oblo) 
+- **Battle Value:** 1550 
 
-### Late Republic (Unique)
-- ComStar
+## Availability 
 
-### Dark Ages (Unique)
-- ComStar
+### Late Republic (Unique) 
+
+- ComStar 
+
+### Dark Ages (Unique) 
+
+- ComStar 
 

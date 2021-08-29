@@ -1,46 +1,53 @@
-# Penetrator PTR-4F
+# Penetrator PTR-4F 
 
-[Other Penetrator variants](../penetrator.md)
+[Other Penetrator variants](../penetrator.md) 
 
-## Penetrator PTR-4F
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 208
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - LRM 10 w/ Artemis IV × 2 (ammo: 24)
-  - Medium Pulse Laser × 4
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2466/penetrator-ptr-4f)
-- **Battle Value:** 1564
+## Penetrator PTR-4F 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 208 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
+  - Medium Pulse Laser × 4 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2466/penetrator-ptr-4f) 
+- **Battle Value:** 1564 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Lyran Alliance
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
 
-### Early Republic
-- Federated Suns
+### Civil War 
 
-### Late Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
 
-### Dark Ages
-- Federated Suns
+### Jihad 
+
+- Federated Suns 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

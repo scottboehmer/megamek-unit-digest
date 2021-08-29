@@ -1,37 +1,42 @@
-# Brahma BRM-5B
+# Brahma BRM-5B 
 
-[Other Brahma variants](../brahma.md)
+[Other Brahma variants](../brahma.md) 
 
-## Brahma BRM-5B
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3080)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 3
-- **Armor:** 200
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Large X-Pulse Laser
-  - ER Medium Laser × 3
-  - SRM 6 (ammo: 15)
-  - ER Small Laser
-- **Equipment:**
-  - Targeting Computer
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/427/brahma-brm-5b)
-- **Battle Value:** 1730
+## Brahma BRM-5B 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3080) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 3 
+- **Armor:** 200 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Large X-Pulse Laser 
+  - ER Medium Laser × 3 
+  - SRM 6 (ammo: 15) 
+  - ER Small Laser 
+- **Equipment:** 
+  - Targeting Computer 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427/brahma-brm-5b) 
+- **Battle Value:** 1730 
 
-### Jihad
-- Taurian Concordat
+## Availability 
 
-### Early Republic
-- Taurian Concordat
+### Jihad 
 
-### Late Republic
-- Taurian Concordat
+- Taurian Concordat 
 
-### Dark Ages
-- Taurian Concordat
+### Early Republic 
+
+- Taurian Concordat 
+
+### Late Republic 
+
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Taurian Concordat 
 

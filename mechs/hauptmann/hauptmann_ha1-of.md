@@ -1,33 +1,37 @@
-# Hauptmann HA1-OF
+# Hauptmann HA1-OF 
 
-[Other Hauptmann variants](../hauptmann.md)
+[Other Hauptmann variants](../hauptmann.md) 
 
-## Hauptmann HA1-OF
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3094)
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5
-- **Armor:** 293
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Improved Heavy Gauss Rifle (ammo: 16)
-  - Heavy PPC
-  - Medium X-Pulse Laser × 3
-- **Equipment:**
-  - Angel ECM Suite
-  - CASE
-  - CASE II
-- **Sources:** RS 3145 NTNU - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of)
-- **Battle Value:** 2484
+## Hauptmann HA1-OF 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3094) 
+- **Chassis:** 95 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 293 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 16) 
+  - Heavy PPC 
+  - Medium X-Pulse Laser × 3 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - CASE 
+  - CASE II 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of) 
+- **Battle Value:** 2484 
 
-### Early Republic
-- Lyran Commonwealth
+## Availability 
 
-### Late Republic
-- Lyran Commonwealth
+### Early Republic 
 
-### Dark Ages
-- Lyran Commonwealth
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

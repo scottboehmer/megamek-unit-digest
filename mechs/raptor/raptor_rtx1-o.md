@@ -1,47 +1,54 @@
-# Raptor RTX1-O
+# Raptor RTX1-O 
 
-[Other Raptor variants](../raptor.md)
+[Other Raptor variants](../raptor.md) 
 
-## Raptor RTX1-O
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3052)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-- **Armor:** 56
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Laser × 2
-  - LRM 5 × 3 (ammo: 24)
-  - Small Laser × 2
-  - Machine Gun × 2 (ammo: 100)
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2647/raptor-rtx1-o)
-- **Battle Value:** 721
+## Raptor RTX1-O 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - LRM 5 × 3 (ammo: 24) 
+  - Small Laser × 2 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2647/raptor-rtx1-o) 
+- **Battle Value:** 721 
 
-### Clan Invasion
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Civil War
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Draconis Combine
-- Federated Suns
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

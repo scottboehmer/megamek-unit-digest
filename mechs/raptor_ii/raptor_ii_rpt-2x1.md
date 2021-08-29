@@ -1,40 +1,45 @@
-# Raptor II RPT-2X1
+# Raptor II RPT-2X1 
 
-[Other Raptor II variants](../raptor_ii.md)
+[Other Raptor II variants](../raptor_ii.md) 
 
-## Raptor II RPT-2X1
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3073)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 118 (Light Ferro Fibrous)
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - Streak SRM 6 (ammo: 15)
-  - ER Medium Laser
-  - ER Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - Bloodhound Active Probe
-  - Void-Signature System
-  - MASC
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2658/raptor-ii-rpt-2x1)
-- **Battle Value:** 1274
+## Raptor II RPT-2X1 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 118 (Light Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Streak SRM 6 (ammo: 15) 
+  - ER Medium Laser 
+  - ER Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Bloodhound Active Probe 
+  - Void-Signature System 
+  - MASC 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2658/raptor-ii-rpt-2x1) 
+- **Battle Value:** 1274 
 
-### Jihad
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Republic of the Sphere
+- Word of Blake 
 
-### Dark Ages
-- Republic of the Sphere
+### Early Republic 
+
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

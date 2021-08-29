@@ -1,27 +1,29 @@
-# Woodsman D
+# Woodsman D 
 
-[Other Woodsman variants](../woodsman.md)
+[Other Woodsman variants](../woodsman.md) 
 
-## Woodsman D
-- **Role:** Missile Boat
-- **Tech Base:** Clan (3149)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6 (8)
-- **Armor:** 216
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Medium Laser × 4
-  - 'Mech Mortar/4 × 4 (ammo: 48)
-- **Equipment:**
-  - Watchdog CEWS
-  - MASC
-  - CASE
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7645/woodsman-d)
-- **Battle Value:** 1902
+## Woodsman D 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3149) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8) 
+- **Armor:** 216 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+  - 'Mech Mortar/4 × 4 (ammo: 48) 
+- **Equipment:** 
+  - Watchdog CEWS 
+  - MASC 
+  - CASE 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7645/woodsman-d) 
+- **Battle Value:** 1902 
 
-### Dark Ages
-- Clan Wolf
-- Raven Alliance
+## Availability 
+
+### Dark Ages 
+
+- Clan Wolf 
+- Raven Alliance 
 

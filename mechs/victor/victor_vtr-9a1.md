@@ -1,106 +1,115 @@
-# Victor VTR-9A1
+# Victor VTR-9A1 
 
-[Other Victor variants](../victor.md)
+[Other Victor variants](../victor.md) 
 
-## Victor VTR-9A1
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2508)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 160
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - AC/20 (ammo: 15)
-  - Medium Laser × 2
-  - SRM 4 (ammo: 25)
-  - Machine Gun × 2 (ammo: 100)
-- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/3408/victor-vtr-9a1)
-- **Battle Value:** 1302
+## Victor VTR-9A1 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2508) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 160 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - AC/20 (ammo: 15) 
+  - Medium Laser × 2 
+  - SRM 4 (ammo: 25) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3408/victor-vtr-9a1) 
+- **Battle Value:** 1302 
 
-### Star League
-- Rim Worlds Republic - Terran Corps
-- Star League
-- Star League - Royal Divisions
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- ComStar
-- Federated Suns
+- Rim Worlds Republic - Terran Corps 
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- ComStar
-- Federated Suns
-- St. Ives Compact
+### Early Succession Wars 
 
-### Clan Invasion
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Lyran Commonwealth
-- Second Star League
-- St. Ives Compact
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
 
-### Civil War
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Outworlds Alliance
-- Pirate
-- Second Star League
-- St. Ives Compact
-- Taurian Concordat
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Federated Suns 
 
-### Early Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- ComStar 
+- Federated Suns 
+- St. Ives Compact 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Second Star League 
+- St. Ives Compact 
+- Word of Blake 
+
+### Civil War 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Second Star League 
+- St. Ives Compact 
+- Taurian Concordat 
+- Word of Blake 
+
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

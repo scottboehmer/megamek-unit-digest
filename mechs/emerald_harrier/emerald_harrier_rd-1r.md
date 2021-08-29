@@ -1,33 +1,39 @@
-# Emerald Harrier RD-1R
+# Emerald Harrier RD-1R 
 
-[Other Emerald Harrier variants](../emerald_harrier.md)
+[Other Emerald Harrier variants](../emerald_harrier.md) 
 
-## Emerald Harrier RD-1R "Roadrunner"
-- **Role:** Scout
-- **Tech Base:** Clan (3112)
-- **Chassis:** 15 tons (Endo Steel)
-- **Movement:** 14 / 21, XL
-- **Armor:** 28 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-- **Sources:** XTRO Republic I - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7292/roadrunner-emerald-harrier-rd-1r)
-- **Battle Value:** 888
+## Emerald Harrier RD-1R "Roadrunner" 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Clan (3112) 
+- **Chassis:** 15 tons (Endo Steel) 
+- **Movement:** 14 / 21, XL 
+- **Armor:** 28 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7292/roadrunner-emerald-harrier-rd-1r) 
+- **Battle Value:** 888 
 
-### Late Succession Wars - LosTech
-- Clan Jade Falcon
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Clan Jade Falcon
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Clan Jade Falcon
+- Clan Jade Falcon 
 
-### Late Republic
-- Republic of the Sphere
+### Late Succession Wars - Renaissance 
 
-### Dark Ages
-- Republic of the Sphere
+- Clan Jade Falcon 
+
+### Clan Invasion 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

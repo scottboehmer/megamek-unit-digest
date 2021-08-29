@@ -1,47 +1,53 @@
-# Arctic Wolf A
+# Arctic Wolf A 
 
-[Other Arctic Wolf variants](../arctic_wolf.md)
+[Other Arctic Wolf variants](../arctic_wolf.md) 
 
-## Arctic Wolf A
-- **Role:** Undefined
-- **Tech Base:** Clan (3067)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 134 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 32)
-  - SRM 6 × 2 (ammo: 30)
-  - Small Pulse Laser × 2
-- **Equipment:**
-  - ECM Suite
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/101/arctic-wolf-a)
-- **Battle Value:** 1587
+## Arctic Wolf A 
 
-## Availability
+- **Role:** Undefined 
+- **Tech Base:** Clan (3067) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 32) 
+  - SRM 6 × 2 (ammo: 30) 
+  - Small Pulse Laser × 2 
+- **Equipment:** 
+  - ECM Suite 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/101/arctic-wolf-a) 
+- **Battle Value:** 1587 
 
-### Civil War
-- Clan Wolf-in-Exile
+## Availability 
 
-### Jihad
-- Clan Wolf-in-Exile
+### Civil War 
 
-### Early Republic
-- Clan Wolf-in-Exile
-- Kell Hounds
-- Republic of the Sphere
-- Wolf's Dragoons
+- Clan Wolf-in-Exile 
 
-### Late Republic
-- Clan Wolf-in-Exile
-- Kell Hounds
-- Republic of the Sphere
-- Wolf's Dragoons
+### Jihad 
 
-### Dark Ages
-- Clan Wolf-in-Exile
-- Kell Hounds
-- Republic of the Sphere
-- Wolf's Dragoons
+- Clan Wolf-in-Exile 
+
+### Early Republic 
+
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Republic of the Sphere 
+- Wolf's Dragoons 
+
+### Late Republic 
+
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Republic of the Sphere 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Republic of the Sphere 
+- Wolf's Dragoons 
 

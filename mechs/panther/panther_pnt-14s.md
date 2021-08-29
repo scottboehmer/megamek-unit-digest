@@ -1,24 +1,26 @@
-# Panther PNT-14S
+# Panther PNT-14S 
 
-[Other Panther variants](../panther.md)
+[Other Panther variants](../panther.md) 
 
-## Panther PNT-14S
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3069)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 6
-- **Armor:** 112
-- **Cockpit:** Small
-- **Heat Sinks:** 13 (13)
-- **Weapons:**
-  - Snub-Nose PPC
-  - Rocket 15 × 2
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2422/panther-pnt-14s)
-- **Battle Value:** 825
+## Panther PNT-14S 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 6 
+- **Armor:** 112 
+- **Cockpit:** Small 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - Rocket 15 × 2 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2422/panther-pnt-14s) 
+- **Battle Value:** 825 
 
-### Jihad
-- Word of Blake
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
 

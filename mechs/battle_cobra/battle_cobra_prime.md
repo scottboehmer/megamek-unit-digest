@@ -1,76 +1,83 @@
-# Battle Cobra Prime
+# Battle Cobra Prime 
 
-[Other Battle Cobra variants](../battle_cobra.md)
+[Other Battle Cobra variants](../battle_cobra.md) 
 
-## Battle Cobra Prime
-- **Role:** Sniper
-- **Tech Base:** Clan (2873)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9
-- **Armor:** 124 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Pulse Laser × 2
-  - Small Pulse Laser × 2
-- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/273/battle-cobra-prime)
-- **Battle Value:** 1487
+## Battle Cobra Prime 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (2873) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9 
+- **Armor:** 124 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Large Pulse Laser × 2 
+  - Small Pulse Laser × 2 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/273/battle-cobra-prime) 
+- **Battle Value:** 1487 
 
-### Clan Invasion
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Goliath Scorpion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Steel Viper
+## Availability 
 
-### Civil War
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Steel Viper
-- Clan Wolf
-- Clan Wolf-in-Exile
+### Clan Invasion 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Steel Viper
-- Clan Stone Lion
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Escorpión Imperio
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Steel Viper 
 
-### Early Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Clan Jade Falcon
-- Escorpión Imperio
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 
-### Dark Ages
-- Clan Jade Falcon
-- Escorpión Imperio
-- Scorpion Empire
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+- Scorpion Empire 
 

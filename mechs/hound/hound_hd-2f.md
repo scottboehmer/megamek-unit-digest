@@ -1,34 +1,38 @@
-# Hound HD-2F
+# Hound HD-2F 
 
-[Other Hound variants](../hound.md)
+[Other Hound variants](../hound.md) 
 
-## Hound HD-2F
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3098)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6
-- **Armor:** 208
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Light PPC × 2
-  - Medium Laser
-  - SRM 4 (ammo: 25)
-- **Sources:** TRO 3145 Mercenaries - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6563/hound-hd-2f)
-- **Battle Value:** 1389
+## Hound HD-2F 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3098) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 208 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - Light PPC × 2 
+  - Medium Laser 
+  - SRM 4 (ammo: 25) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6563/hound-hd-2f) 
+- **Battle Value:** 1389 
 
-### Early Republic
-- Filtvelt Coalition
+## Availability 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Mercenary
+### Early Republic 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Mercenary
+- Filtvelt Coalition 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Mercenary 
 

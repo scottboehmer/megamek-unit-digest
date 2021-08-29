@@ -1,48 +1,56 @@
-# JagerMech JM6-A
+# JagerMech JM6-A 
 
-[Other JagerMech variants](../jagermech.md)
+[Other JagerMech variants](../jagermech.md) 
 
-## JagerMech JM6-A
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (2778)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 128
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 16)
-  - Medium Laser × 2
-  - AC/2 × 2 (ammo: 45)
-- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1665/jagermech-jm6-a)
-- **Battle Value:** 1122
+## JagerMech JM6-A 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2778) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 128 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 16) 
+  - Medium Laser × 2 
+  - AC/2 × 2 (ammo: 45) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1665/jagermech-jm6-a) 
+- **Battle Value:** 1122 
 
-### Star League
-- Federated Suns
-- Star League
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
+### Star League 
 
-### Late Succession Wars - LosTech
-- Federated Suns
+- Federated Suns 
+- Star League 
+- Star League - Royal Divisions 
 
-### Late Succession Wars - Renaissance
-- Federated Suns
+### Early Succession Wars 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
+- Federated Suns 
+
+### Late Succession Wars - Renaissance 
+
+- Federated Suns 
+
+### Clan Invasion 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Civil War 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
 

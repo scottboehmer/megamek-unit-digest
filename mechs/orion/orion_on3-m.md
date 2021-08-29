@@ -1,59 +1,64 @@
-# Orion ON3-M
+# Orion ON3-M 
 
-[Other Orion variants](../orion.md)
+[Other Orion variants](../orion.md) 
 
-## Orion ON3-M
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3083)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 224
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - ELRM 15 (ammo: 24)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE II
-  - TAG
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m)
-- **Battle Value:** 1826
+## Orion ON3-M 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ELRM 15 (ammo: 24) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE II 
+  - TAG 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
+- **Battle Value:** 1826 
 
-### Jihad
-- Free Worlds League
-- Mercenary
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+- Free Worlds League 
+- Mercenary 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Early Republic 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 

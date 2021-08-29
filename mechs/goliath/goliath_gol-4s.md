@@ -1,37 +1,43 @@
-# Goliath GOL-4S
+# Goliath GOL-4S 
 
-[Other Goliath variants](../goliath.md)
+[Other Goliath variants](../goliath.md) 
 
-## Goliath GOL-4S
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3067)
-- **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6, Light
-- **Armor:** 256
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Heavy Gauss Rifle (ammo: 16)
-  - LRM 10 (ammo: 24)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1234/goliath-gol-4s)
-- **Battle Value:** 1912
+## Goliath GOL-4S 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 80 tons Quad 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 256 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Heavy Gauss Rifle (ammo: 16) 
+  - LRM 10 (ammo: 24) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1234/goliath-gol-4s) 
+- **Battle Value:** 1912 
 
-### Civil War
-- Lyran Alliance
+## Availability 
 
-### Jihad
-- Lyran Alliance
+### Civil War 
 
-### Early Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Late Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Dark Ages
-- Lyran Commonwealth
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

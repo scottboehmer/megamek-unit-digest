@@ -1,30 +1,33 @@
-# Valiant VAL-NT-JX 'Hot Knife'
+# Valiant VAL-NT-JX 'Hot Knife' 
 
-[Other Valiant variants](../valiant.md)
+[Other Valiant variants](../valiant.md) 
 
-## Valiant VAL-NT-JX 'Hot Knife'
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3076)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), Light
-- **Armor:** 104
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 3
-  - Small Vibroblade
-- **Equipment:**
-  - Small Shield
-  - AES
-  - Supercharger
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3370/valiant-val-nt-jx-hot-knife)
-- **Battle Value:** 989
+## Valiant VAL-NT-JX 'Hot Knife' 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), Light 
+- **Armor:** 104 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 3 
+  - Small Vibroblade 
+- **Equipment:** 
+  - Small Shield 
+  - AES 
+  - Supercharger 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3370/valiant-val-nt-jx-hot-knife) 
+- **Battle Value:** 989 
 
-### Jihad (Unique)
-- Solaris 7
+## Availability 
 
-### Early Republic (Unique)
-- Solaris 7
+### Jihad (Unique) 
+
+- Solaris 7 
+
+### Early Republic (Unique) 
+
+- Solaris 7 
 

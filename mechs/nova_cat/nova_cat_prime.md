@@ -1,89 +1,96 @@
-# Nova Cat Prime
+# Nova Cat Prime 
 
-[Other Nova Cat variants](../nova_cat.md)
+[Other Nova Cat variants](../nova_cat.md) 
 
-## Nova Cat Prime
-- **Role:** Sniper
-- **Tech Base:** Clan (3059)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 216
-- **Heat Sinks:** 25 (50)
-- **Weapons:**
-  - ER PPC × 2
-  - ER Large Laser × 3
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2306/nova-cat-prime)
-- **Battle Value:** 2530
+## Nova Cat Prime 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3059) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 216 
+- **Heat Sinks:** 25 (50) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - ER Large Laser × 3 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2306/nova-cat-prime) 
+- **Battle Value:** 2530 
 
-### Clan Invasion
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Goliath Scorpion
-- Clan Ice Hellion
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf-in-Exile
+## Availability 
 
-### Civil War
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Ice Hellion
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf-in-Exile
+### Clan Invasion 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Ice Hellion
-- Clan Nova Cat
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Stone Lion
-- Clan Wolf-in-Exile
-- Society
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Ice Hellion 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf-in-Exile 
 
-### Early Republic
-- Clan Diamond Shark
-- Clan Nova Cat
-- Clan Wolf-in-Exile
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf-in-Exile
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Ice Hellion 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf-in-Exile 
 
-### Dark Ages
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Wolf-in-Exile
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Ice Hellion 
+- Clan Nova Cat 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Clan Wolf-in-Exile 
+- Society 
+
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Nova Cat 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
 

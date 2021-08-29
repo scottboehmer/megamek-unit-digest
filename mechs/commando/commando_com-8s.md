@@ -1,31 +1,34 @@
-# Commando COM-8S
+# Commando COM-8S 
 
-[Other Commando variants](../commando.md)
+[Other Commando variants](../commando.md) 
 
-## Commando COM-8S
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3108)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 72
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - Streak SRM 2 × 2 (ammo: 50)
-- **Equipment:**
-  - C3 Boosted Slave
-  - CASE II
-  - Supercharger
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s)
-- **Battle Value:** 775
+## Commando COM-8S 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3108) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 72 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Equipment:** 
+  - C3 Boosted Slave 
+  - CASE II 
+  - Supercharger 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s) 
+- **Battle Value:** 775 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

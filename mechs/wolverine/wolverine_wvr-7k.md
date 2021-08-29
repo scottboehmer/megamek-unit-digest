@@ -1,44 +1,50 @@
-# Wolverine WVR-7K
+# Wolverine WVR-7K 
 
-[Other Wolverine variants](../wolverine.md)
+[Other Wolverine variants](../wolverine.md) 
 
-## Wolverine WVR-7K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 185
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Large Pulse Laser
-  - SRM 6 × 2 (ammo: 30)
-  - Medium Pulse Laser
-  - Small Pulse Laser
-- **Sources:** ilClan Rec Guide 18 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k)
-- **Battle Value:** 1331
+## Wolverine WVR-7K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 185 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - SRM 6 × 2 (ammo: 30) 
+  - Medium Pulse Laser 
+  - Small Pulse Laser 
+- **Sources:** ilClan Rec Guide 18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k) 
+- **Battle Value:** 1331 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Free Rasalhague Republic
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Early Republic
-- Mercenary
-- Rasalhague Dominion
+### Civil War 
 
-### Late Republic
-- Mercenary
-- Rasalhague Dominion
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Jihad 
+
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Early Republic 
+
+- Mercenary 
+- Rasalhague Dominion 
+
+### Late Republic 
+
+- Mercenary 
+- Rasalhague Dominion 
 

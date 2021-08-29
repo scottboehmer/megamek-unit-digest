@@ -1,53 +1,60 @@
-# Axman AXM-2N
+# Axman AXM-2N 
 
-[Other Axman variants](../axman.md)
+[Other Axman variants](../axman.md) 
 
-## Axman AXM-2N
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3049)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 179 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 16)
-  - Large Pulse Laser
-  - Medium Laser × 3
-  - Hatchet
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n)
-- **Battle Value:** 1458
+## Axman AXM-2N 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3049) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 16) 
+  - Large Pulse Laser 
+  - Medium Laser × 3 
+  - Hatchet 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
+- **Battle Value:** 1458 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Alliance
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
 
-### Early Republic
-- Filtvelt Coalition
-- Lyran Commonwealth
+### Civil War 
 
-### Late Republic
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Pirate
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
 
-### Dark Ages
-- Filtvelt Coalition
-- Pirate
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Pirate 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Pirate 
 

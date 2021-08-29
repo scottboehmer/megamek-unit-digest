@@ -1,92 +1,99 @@
-# Hermes II HER-5S
+# Hermes II HER-5S 
 
-[Other Hermes II variants](../hermes_ii.md)
+[Other Hermes II variants](../hermes_ii.md) 
 
-## Hermes II HER-5S
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 6 / 9
-- **Armor:** 120
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Ultra AC/5 (ammo: 20)
-  - Medium Pulse Laser
-  - Flamer
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1501/hermes-ii-her-5s)
-- **Battle Value:** 857
+## Hermes II HER-5S 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9 
+- **Armor:** 120 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Ultra AC/5 (ammo: 20) 
+  - Medium Pulse Laser 
+  - Flamer 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501/hermes-ii-her-5s) 
+- **Battle Value:** 857 
 
-### Clan Invasion
-- Capellan Confederation
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Lyran Alliance
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Mercenary
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Worlds League
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Pirate
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Pirate
-- Word of Blake
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Word of Blake 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Pirate 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Jihad 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Pirate 
+- Word of Blake 
+
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 

@@ -1,51 +1,58 @@
-# Black Lanner D
+# Black Lanner D 
 
-[Other Black Lanner variants](../black_lanner.md)
+[Other Black Lanner variants](../black_lanner.md) 
 
-## Black Lanner D
-- **Role:** Skirmisher
-- **Tech Base:** Clan (3052)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 153 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium Pulse Laser × 2
-  - SRM 6 × 2 (ammo: 30)
-  - ER Small Laser × 2
-  - Flamer
-  - Machine Gun × 4 (ammo: 100)
-- **Equipment:**
-  - Active Probe
-  - MASC
-  - CASE
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/366/black-lanner-d)
-- **Battle Value:** 1809
+## Black Lanner D 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3052) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 153 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - SRM 6 × 2 (ammo: 30) 
+  - ER Small Laser × 2 
+  - Flamer 
+  - Machine Gun × 4 (ammo: 100) 
+- **Equipment:** 
+  - Active Probe 
+  - MASC 
+  - CASE 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/366/black-lanner-d) 
+- **Battle Value:** 1809 
 
-### Clan Invasion
-- Clan Jade Falcon
-- Clan Steel Viper
+## Availability 
 
-### Civil War
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Steel Viper
+### Clan Invasion 
 
-### Jihad
-- Clan Coyote
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Steel Viper
+- Clan Jade Falcon 
+- Clan Steel Viper 
 
-### Early Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
+### Civil War 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Steel Viper 
 
-### Dark Ages
-- Clan Jade Falcon
+### Jihad 
+
+- Clan Coyote 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Steel Viper 
+
+### Early Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

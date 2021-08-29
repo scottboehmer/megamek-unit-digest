@@ -1,39 +1,45 @@
-# Yu Huang Y-H9GC
+# Yu Huang Y-H9GC 
 
-[Other Yu Huang variants](../yu_huang.md)
+[Other Yu Huang variants](../yu_huang.md) 
 
-## Yu Huang Y-H9GC
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3067)
-- **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 272
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - LB 20-X AC (ammo: 10 Standard, 5 Cluster)
-  - ER PPC
-  - Medium Pulse Laser
-  - Medium Laser × 2
-- **Equipment:**
-  - C3 Master
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/3628/yu-huang-y-h9gc)
-- **Battle Value:** 2017
+## Yu Huang Y-H9GC 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 90 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 272 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster) 
+  - ER PPC 
+  - Medium Pulse Laser 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - C3 Master 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3628/yu-huang-y-h9gc) 
+- **Battle Value:** 2017 
 
-### Civil War
-- Capellan Confederation
+## Availability 
 
-### Jihad
-- Capellan Confederation
+### Civil War 
 
-### Early Republic
-- Capellan Confederation
+- Capellan Confederation 
 
-### Late Republic
-- Capellan Confederation
+### Jihad 
 
-### Dark Ages
-- Capellan Confederation
+- Capellan Confederation 
+
+### Early Republic 
+
+- Capellan Confederation 
+
+### Late Republic 
+
+- Capellan Confederation 
+
+### Dark Ages 
+
+- Capellan Confederation 
 

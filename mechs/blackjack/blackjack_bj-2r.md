@@ -1,30 +1,33 @@
-# Blackjack BJ-2r
+# Blackjack BJ-2r 
 
-[Other Blackjack variants](../blackjack.md)
+[Other Blackjack variants](../blackjack.md) 
 
-## Blackjack BJ-2r
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3131)
-- **Chassis:** 45 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 136
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Large Re-Engineered Laser × 2
-  - Medium Laser
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6914/blackjack-bj-2r)
-- **Battle Value:** 1136
+## Blackjack BJ-2r 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3131) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 136 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Large Re-Engineered Laser × 2 
+  - Medium Laser 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6914/blackjack-bj-2r) 
+- **Battle Value:** 1136 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+## Availability 
 
-### Dark Ages
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

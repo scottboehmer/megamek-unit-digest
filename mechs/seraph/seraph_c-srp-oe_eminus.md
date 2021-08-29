@@ -1,27 +1,29 @@
-# Seraph C-SRP-OE Eminus
+# Seraph C-SRP-OE Eminus 
 
-[Other Seraph variants](../seraph.md)
+[Other Seraph variants](../seraph.md) 
 
-## Seraph C-SRP-OE Eminus
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3072)
-- **Chassis:** 85 tons
-- **Movement:** 3 (4) / 5 (6), Light
-- **Armor:** 256
-- **Myomer:** Triple-Strength
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Thunderbolt 20 × 2 (ammo: 18)
-  - Snub-Nose PPC
-- **Equipment:**
-  - C3i
-  - CASE
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/2874/seraph-c-srp-oe-eminus)
-- **Battle Value:** 2148
+## Seraph C-SRP-OE Eminus 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 (4) / 5 (6), Light 
+- **Armor:** 256 
+- **Myomer:** Triple-Strength 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Thunderbolt 20 × 2 (ammo: 18) 
+  - Snub-Nose PPC 
+- **Equipment:** 
+  - C3i 
+  - CASE 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2874/seraph-c-srp-oe-eminus) 
+- **Battle Value:** 2148 
 
-### Jihad
-- Word of Blake
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
 

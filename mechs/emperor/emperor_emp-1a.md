@@ -1,44 +1,50 @@
-# Emperor EMP-1A
+# Emperor EMP-1A 
 
-[Other Emperor variants](../emperor.md)
+[Other Emperor variants](../emperor.md) 
 
-## Emperor EMP-1A
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (2442)
-- **Chassis:** 90 tons
-- **Movement:** 3 / 5
-- **Armor:** 273 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - AC/5 × 2 (ammo: 80)
-  - Medium Laser × 3
-- **Sources:** XTRO Primitives IV - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/7186/emperor-emp-1a)
-- **Battle Value:** 1453
+## Emperor EMP-1A 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2442) 
+- **Chassis:** 90 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 273 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/5 × 2 (ammo: 80) 
+  - Medium Laser × 3 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7186/emperor-emp-1a) 
+- **Battle Value:** 1453 
 
-### Star League
-- Capellan Confederation
-- Federated Suns
-- Free Worlds League
-- Terran Hegemony
+## Availability 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
+### Star League 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
+- Capellan Confederation 
+- Federated Suns 
+- Free Worlds League 
+- Terran Hegemony 
 
-### Late Republic
-- Marian Hegemony
+### Jihad 
 
-### Dark Ages
-- Marian Hegemony
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+
+### Late Republic 
+
+- Marian Hegemony 
+
+### Dark Ages 
+
+- Marian Hegemony 
 

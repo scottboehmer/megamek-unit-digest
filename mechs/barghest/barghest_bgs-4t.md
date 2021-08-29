@@ -1,37 +1,42 @@
-# Barghest BGS-4T
+# Barghest BGS-4T 
 
-[Other Barghest variants](../barghest.md)
+[Other Barghest variants](../barghest.md) 
 
-## Barghest BGS-4T
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3083)
-- **Chassis:** 70 tons Quad (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 200
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Improved Heavy Gauss Rifle (ammo: 16)
-  - ER Large Laser
-  - ER Medium Laser
-- **Equipment:**
-  - Quad Turret
-  - CASE II
-  - C3 Slave
-- **Sources:** TRO:Prototypes, [Master Unit List](http://masterunitlist.info/Unit/Details/3790/barghest-bgs-4t)
-- **Battle Value:** 1734
+## Barghest BGS-4T 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 70 tons Quad (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 200 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 16) 
+  - ER Large Laser 
+  - ER Medium Laser 
+- **Equipment:** 
+  - Quad Turret 
+  - CASE II 
+  - C3 Slave 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3790/barghest-bgs-4t) 
+- **Battle Value:** 1734 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

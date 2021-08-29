@@ -1,127 +1,138 @@
-# JagerMech JM6-S
+# JagerMech JM6-S 
 
-[Other JagerMech variants](../jagermech.md)
+[Other JagerMech variants](../jagermech.md) 
 
-## JagerMech JM6-S
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (2774)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 96
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - AC/5 × 2 (ammo: 40)
-  - Medium Laser × 2
-  - AC/2 × 2 (ammo: 45)
-- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1670/jagermech-jm6-s)
-- **Battle Value:** 901
+## JagerMech JM6-S 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2774) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 96 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/5 × 2 (ammo: 40) 
+  - Medium Laser × 2 
+  - AC/2 × 2 (ammo: 45) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1670/jagermech-jm6-s) 
+- **Battle Value:** 901 
 
-### Star League
-- Federated Suns
-- Star League
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- ComStar
-- Federated Suns
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- ComStar
-- Federated Suns
+- Federated Suns 
+- Star League 
+- Star League - Royal Divisions 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- St. Ives Compact
+### Early Succession Wars 
 
-### Clan Invasion
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Second Star League
-- St. Ives Compact
-- Wolf's Dragoons
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Federated Suns 
 
-### Civil War
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Second Star League
-- St. Ives Compact
-- Taurian Concordat
-- Wolf's Dragoons
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Wolf's Dragoons
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Federated Suns 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- St. Ives Compact 
 
-### Dark Ages
-- Scorpion Empire
+### Clan Invasion 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Civil War 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Second Star League 
+- St. Ives Compact 
+- Taurian Concordat 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Scorpion Empire 
 

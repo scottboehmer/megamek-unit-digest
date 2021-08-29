@@ -1,31 +1,34 @@
-# Hellspawn HSN-7D2 (Halperin)
+# Hellspawn HSN-7D2 (Halperin) 
 
-[Other Hellspawn variants](../hellspawn.md)
+[Other Hellspawn variants](../hellspawn.md) 
 
-## Hellspawn HSN-7D2 (Halperin)
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3072)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 152
-- **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Medium Laser × 4
-  - Rocket 20 × 2
-  - ER Small Laser × 2
-- **Equipment:**
-  - Angel ECM Suite
-  - Coolant Pod × 3
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1478/hellspawn-hsn-7d2-halperin)
-- **Battle Value:** 1431
+## Hellspawn HSN-7D2 (Halperin) 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 152 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+  - Rocket 20 × 2 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Coolant Pod × 3 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1478/hellspawn-hsn-7d2-halperin) 
+- **Battle Value:** 1431 
 
-### Jihad (Unique)
-- Pirate
+## Availability 
 
-### Early Republic (Unique)
-- Pirate
+### Jihad (Unique) 
+
+- Pirate 
+
+### Early Republic (Unique) 
+
+- Pirate 
 

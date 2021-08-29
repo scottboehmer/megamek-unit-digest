@@ -1,47 +1,52 @@
-# Penthesilea PEN-2H
+# Penthesilea PEN-2H 
 
-[Other Penthesilea variants](../penthesilea.md)
+[Other Penthesilea variants](../penthesilea.md) 
 
-## Penthesilea PEN-2H
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3083)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 3
-- **Armor:** 215 (Ferro Fibrous)
-- **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Light PPC
-  - ER Medium Laser × 3
-- **Equipment:**
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h)
-- **Battle Value:** 1899
+## Penthesilea PEN-2H 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 3 
+- **Armor:** 215 (Ferro Fibrous) 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER PPC 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - Light PPC 
+  - ER Medium Laser × 3 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h) 
+- **Battle Value:** 1899 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+- Capellan Confederation 
+- Magistracy of Canopus 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
 

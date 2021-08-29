@@ -1,45 +1,50 @@
-# Dart DRT-6T
+# Dart DRT-6T 
 
-[Other Dart variants](../dart.md)
+[Other Dart variants](../dart.md) 
 
-## Dart DRT-6T
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3077)
-- **Chassis:** 25 tons
-- **Movement:** 9 / 14, Light
-- **Armor:** 80 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Light PPC
-  - ER Small Laser
-- **Equipment:**
-  - Targeting Computer
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/831/dart-drt-6t)
-- **Battle Value:** 703
+## Dart DRT-6T 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 25 tons 
+- **Movement:** 9 / 14, Light 
+- **Armor:** 80 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Light PPC 
+  - ER Small Laser 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831/dart-drt-6t) 
+- **Battle Value:** 703 
 
-### Jihad
-- ComStar
-- Federated Suns
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Early Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- ComStar 
+- Federated Suns 
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

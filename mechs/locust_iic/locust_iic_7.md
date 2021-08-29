@@ -1,39 +1,44 @@
-# Locust IIC 7
+# Locust IIC 7 
 
-[Other Locust IIC variants](../locust_iic.md)
+[Other Locust IIC variants](../locust_iic.md) 
 
-## Locust IIC 7
-- **Role:** Striker
-- **Tech Base:** Clan (3076)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser
-  - AP Gauss Rifle × 6 (ammo: 40)
-- **Equipment:**
-  - CASE
-  - Targeting Computer
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7)
-- **Battle Value:** 980
+## Locust IIC 7 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3076) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 8 / 12 
+- **Armor:** 76 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - AP Gauss Rifle × 6 (ammo: 40) 
+- **Equipment:** 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7) 
+- **Battle Value:** 980 
 
-### Jihad
-- Clan Hell's Horses
+## Availability 
 
-### Early Republic
-- Clan Hell's Horses
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Hell's Horses
-- Rasalhague Dominion
-- Republic of the Sphere
+- Clan Hell's Horses 
 
-### Dark Ages
-- Clan Hell's Horses
-- Rasalhague Dominion
-- Republic of the Sphere
+### Early Republic 
+
+- Clan Hell's Horses 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Republic of the Sphere 
 

@@ -1,56 +1,63 @@
-# Goliath GOL-3M
+# Goliath GOL-3M 
 
-[Other Goliath variants](../goliath.md)
+[Other Goliath variants](../goliath.md) 
 
-## Goliath GOL-3M
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3047)
-- **Chassis:** 80 tons Quad
-- **Movement:** 4 / 6, XL
-- **Armor:** 240
-- **Heat Sinks:** 17 (17)
-- **Weapons:**
-  - Gauss Rifle (ammo: 8)
-  - LRM 10 × 2 (ammo: 24)
-  - Machine Gun × 2 (ammo: 400)
-- **Equipment:**
-  - CASE
-- **Sources:** Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m)
-- **Battle Value:** 1537
+## Goliath GOL-3M 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3047) 
+- **Chassis:** 80 tons Quad 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 240 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 8) 
+  - LRM 10 × 2 (ammo: 24) 
+  - Machine Gun × 2 (ammo: 400) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m) 
+- **Battle Value:** 1537 
 
-### Late Succession Wars - Renaissance
-- Free Worlds League
+## Availability 
 
-### Clan Invasion
-- Capellan Confederation
-- Free Worlds League
-- Mercenary
-- Word of Blake
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Capellan Confederation
-- Free Worlds League
-- Mercenary
-- Word of Blake
+- Free Worlds League 
 
-### Jihad
-- Capellan Confederation
-- Free Worlds League
-- Mercenary
-- Word of Blake
+### Clan Invasion 
 
-### Early Republic
-- Calderon Protectorate
-- Free Worlds League - Non-Aligned Worlds
-- Magistracy of Canopus
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Taurian Concordat
+- Capellan Confederation 
+- Free Worlds League 
+- Mercenary 
+- Word of Blake 
 
-### Late Republic
-- Calderon Protectorate
-- Mercenary
+### Civil War 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Mercenary 
+- Word of Blake 
+
+### Jihad 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Mercenary 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Mercenary 
 

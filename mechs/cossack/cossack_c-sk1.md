@@ -1,55 +1,62 @@
-# Cossack C-SK1
+# Cossack C-SK1 
 
-[Other Cossack variants](../cossack.md)
+[Other Cossack variants](../cossack.md) 
 
-## Cossack C-SK1
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 48
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - SRM 6 (ammo: 15)
-  - Medium Laser
-  - Small Laser × 2
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/703/cossack-c-sk1)
-- **Battle Value:** 465
+## Cossack C-SK1 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 48 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser 
+  - Small Laser × 2 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703/cossack-c-sk1) 
+- **Battle Value:** 465 
 
-### Clan Invasion
-- Mercenary
-- St. Ives Compact
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- ComStar
-- Kell Hounds
-- Mercenary
-- St. Ives Compact
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- ComStar
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+- Mercenary 
+- St. Ives Compact 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+- Capellan Confederation 
+- ComStar 
+- Kell Hounds 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
-- Mercenary
+### Jihad 
+
+- Capellan Confederation 
+- ComStar 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
 

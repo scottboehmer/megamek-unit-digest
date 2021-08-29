@@ -1,54 +1,60 @@
-# Ostroc OSR-4C
+# Ostroc OSR-4C 
 
-[Other Ostroc variants](../ostroc.md)
+[Other Ostroc variants](../ostroc.md) 
 
-## Ostroc OSR-4C
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8
-- **Armor:** 161 (Ferro Fibrous)
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - Large Laser × 2
-  - Medium Laser × 2
-  - Rocket 15 × 2
-  - Rocket 10 × 2
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c)
-- **Battle Value:** 1325
+## Ostroc OSR-4C 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 161 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Large Laser × 2 
+  - Medium Laser × 2 
+  - Rocket 15 × 2 
+  - Rocket 10 × 2 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c) 
+- **Battle Value:** 1325 
 
-### Civil War
-- Circinus Federation
-- Taurian Concordat
+## Availability 
 
-### Jihad
-- Circinus Federation
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Circinus Federation 
+- Taurian Concordat 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Jihad 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Circinus Federation 
+- Pirate 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

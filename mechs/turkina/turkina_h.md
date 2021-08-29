@@ -1,66 +1,72 @@
-# Turkina H
+# Turkina H 
 
-[Other Turkina variants](../turkina.md)
+[Other Turkina variants](../turkina.md) 
 
-## Turkina H
-- **Role:** Juggernaut
-- **Tech Base:** Clan (3062)
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5, XL
-  - **Jumping:** 3
-- **Armor:** 288
-- **Heat Sinks:** 20 (40)
-- **Weapons:**
-  - Ultra AC/10 × 2 (ammo: 40)
-  - Medium Pulse Laser × 2
-  - Heavy Medium Laser × 3
-- **Equipment:**
-  - CASE
-  - Targeting Computer
-- **Sources:** TRO Clan Invasion - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/3331/turkina-h)
-- **Battle Value:** 2712
+## Turkina H 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (3062) 
+- **Chassis:** 95 tons 
+- **Movement:** 3 / 5, XL 
+  - **Jumping:** 3 
+- **Armor:** 288 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - Ultra AC/10 × 2 (ammo: 40) 
+  - Medium Pulse Laser × 2 
+  - Heavy Medium Laser × 3 
+- **Equipment:** 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3331/turkina-h) 
+- **Battle Value:** 2712 
 
-### Civil War
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Jade Falcon
-- Clan Nova Cat
+## Availability 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Goliath Scorpion
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Stone Lion
-- Escorpión Imperio
-- Society
+### Civil War 
 
-### Early Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Wolf
-- Escorpión Imperio
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Nova Cat 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Escorpión Imperio
+### Jihad 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Escorpión Imperio
-- Scorpion Empire
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Escorpión Imperio 
+- Society 
+
+### Early Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Wolf 
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Escorpión Imperio 
+- Scorpion Empire 
 

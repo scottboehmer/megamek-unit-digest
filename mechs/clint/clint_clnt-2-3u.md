@@ -1,85 +1,92 @@
-# Clint CLNT-2-3U
+# Clint CLNT-2-3U 
 
-[Other Clint variants](../clint.md)
+[Other Clint variants](../clint.md) 
 
-## Clint CLNT-2-3U
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 40 tons
-- **Movement:** 6 / 9
-  - **Jumping:** 6
-- **Armor:** 72
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-  - Medium Pulse Laser × 2
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/646/clint-clnt-2-3u)
-- **Battle Value:** 1081
+## Clint CLNT-2-3U 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 40 tons 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 72 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+  - Medium Pulse Laser × 2 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/646/clint-clnt-2-3u) 
+- **Battle Value:** 1081 
 
-### Clan Invasion
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Magistracy of Canopus
-- Mercenary
-- Taurian Concordat
-- Wolf's Dragoons
-- Word of Blake
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Calderon Protectorate
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+### Jihad 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
 

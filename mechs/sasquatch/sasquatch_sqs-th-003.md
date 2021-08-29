@@ -1,24 +1,26 @@
-# Sasquatch SQS-TH-003
+# Sasquatch SQS-TH-003 
 
-[Other Sasquatch variants](../sasquatch.md)
+[Other Sasquatch variants](../sasquatch.md) 
 
-## Sasquatch SQS-TH-003
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3068)
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 5 / 8, Large XXL
-  - **Jumping:** 8
-- **Armor:** 248
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Large Pulse Laser
-  - Medium X-Pulse Laser × 2
-  - Small Laser
-- **Sources:** TRO 3055 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2800/sasquatch-sqs-th-003)
-- **Battle Value:** 1667
+## Sasquatch SQS-TH-003 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 5 / 8, Large XXL 
+  - **Jumping:** 8 
+- **Armor:** 248 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - Medium X-Pulse Laser × 2 
+  - Small Laser 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2800/sasquatch-sqs-th-003) 
+- **Battle Value:** 1667 
 
-### Jihad
-- Solaris 7
+## Availability 
+
+### Jihad 
+
+- Solaris 7 
 

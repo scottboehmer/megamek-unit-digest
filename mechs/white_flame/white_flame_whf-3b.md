@@ -1,30 +1,33 @@
-# White Flame WHF-3B
+# White Flame WHF-3B 
 
-[Other White Flame variants](../white_flame.md)
+[Other White Flame variants](../white_flame.md) 
 
-## White Flame WHF-3B
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3065)
-- **Chassis:** 70 tons Quad (Endo Steel)
-- **Movement:** 5 / 8, Light
-  - **Jumping:** 5
-- **Armor:** 233
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - Large Pulse Laser
-  - ER Medium Laser × 2
-  - Medium Pulse Laser
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-  - C3i
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b)
-- **Battle Value:** 1637
+## White Flame WHF-3B 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 70 tons Quad (Endo Steel) 
+- **Movement:** 5 / 8, Light 
+  - **Jumping:** 5 
+- **Armor:** 233 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - ER Medium Laser × 2 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+  - C3i 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b) 
+- **Battle Value:** 1637 
 
-### Civil War
-- Word of Blake
+## Availability 
 
-### Jihad
-- Word of Blake
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

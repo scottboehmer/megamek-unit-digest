@@ -1,39 +1,45 @@
-# Flea FLE-4
+# Flea FLE-4 
 
-[Other Flea variants](../flea.md)
+[Other Flea variants](../flea.md) 
 
-## Flea FLE-4
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2501)
-- **Chassis:** 20 tons
-- **Movement:** 6 / 9
-- **Armor:** 32
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Large Laser
-  - Small Laser × 2
-  - Flamer
-- **Sources:** TRO 3039 - Age of War, [Master Unit List](http://masterunitlist.info/Unit/Details/1140/flea-fle-4)
-- **Battle Value:** 432
+## Flea FLE-4 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2501) 
+- **Chassis:** 20 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 32 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Large Laser 
+  - Small Laser × 2 
+  - Flamer 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1140/flea-fle-4) 
+- **Battle Value:** 432 
 
-### Star League
-- Magistracy of Canopus
-- Outworlds Alliance
+## Availability 
 
-### Early Succession Wars
-- Free Worlds League
-- Magistracy of Canopus
-- Outworlds Alliance
+### Star League 
 
-### Late Succession Wars - LosTech
-- Free Worlds League
-- Wolf's Dragoons
+- Magistracy of Canopus 
+- Outworlds Alliance 
 
-### Late Succession Wars - Renaissance
-- Free Worlds League
+### Early Succession Wars 
 
-### Clan Invasion
-- Free Worlds League
+- Free Worlds League 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+
+### Late Succession Wars - LosTech 
+
+- Free Worlds League 
+- Wolf's Dragoons 
+
+### Late Succession Wars - Renaissance 
+
+- Free Worlds League 
+
+### Clan Invasion 
+
+- Free Worlds League 
 

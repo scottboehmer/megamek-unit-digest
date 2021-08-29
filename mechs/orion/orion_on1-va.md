@@ -1,99 +1,107 @@
-# Orion ON1-VA
+# Orion ON1-VA 
 
-[Other Orion variants](../orion.md)
+[Other Orion variants](../orion.md) 
 
-## Orion ON1-VA
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (2901)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6
-- **Armor:** 231
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - AC/10 (ammo: 20)
-  - Medium Laser × 2
-  - SRM 4 × 2 (ammo: 50)
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2336/orion-on1-va)
-- **Battle Value:** 1328
+## Orion ON1-VA 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2901) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 231 
+- **Heat Sinks:** 16 (16) 
+- **Weapons:** 
+  - AC/10 (ammo: 20) 
+  - Medium Laser × 2 
+  - SRM 4 × 2 (ammo: 50) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2336/orion-on1-va) 
+- **Battle Value:** 1328 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Mercenary
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Commonwealth
-- Mercenary
-- St. Ives Compact
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Second Star League
-- St. Ives Compact
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 
-### Civil War
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Mercenary
-- Second Star League
-- St. Ives Compact
-- Word of Blake
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Mercenary
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- St. Ives Compact 
 
-### Early Republic
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Clan Invasion 
 
-### Late Republic
-- Draconis Combine
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Word of Blake 
+
+### Civil War 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Word of Blake 
+
+### Jihad 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Mercenary 
+- Word of Blake 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Late Republic 
+
+- Draconis Combine 
 

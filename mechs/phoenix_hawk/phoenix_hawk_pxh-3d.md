@@ -1,49 +1,57 @@
-# Phoenix Hawk PXH-3D
+# Phoenix Hawk PXH-3D 
 
-[Other Phoenix Hawk variants](../phoenix_hawk.md)
+[Other Phoenix Hawk variants](../phoenix_hawk.md) 
 
-## Phoenix Hawk PXH-3D
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3048)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 6
-- **Armor:** 120
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Medium Pulse Laser × 2
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-- **Sources:** ilClan Vol 11 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d)
-- **Battle Value:** 1315
+## Phoenix Hawk PXH-3D 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3048) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 120 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+- **Sources:** ilClan Vol 11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d) 
+- **Battle Value:** 1315 
 
-### Late Succession Wars - Renaissance
-- Federated Suns
+## Availability 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Federated Suns
-- Mercenary
+- Federated Suns 
 
-### Jihad
-- Federated Suns
-- Mercenary
+### Clan Invasion 
 
-### Early Republic
-- Federated Suns
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Late Republic
-- Mercenary
+### Civil War 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+- Federated Suns 
+- Mercenary 
+
+### Jihad 
+
+- Federated Suns 
+- Mercenary 
+
+### Early Republic 
+
+- Federated Suns 
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

@@ -1,32 +1,36 @@
-# Enforcer ENF-4R (Daniel)
+# Enforcer ENF-4R (Daniel) 
 
-[Other Enforcer variants](../enforcer.md)
+[Other Enforcer variants](../enforcer.md) 
 
-## Enforcer ENF-4R (Daniel)
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3039)
-- **Chassis:** 50 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 144
-- **Heat Sinks:** 11 (11)
-- **Weapons:**
-  - Prototype Gauss Rifle (ammo: 16)
-  - Medium Laser × 2
-  - Small Laser
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/977/enforcer-enf-4r-daniel)
-- **Battle Value:** 1247
+## Enforcer ENF-4R (Daniel) 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3039) 
+- **Chassis:** 50 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - Prototype Gauss Rifle (ammo: 16) 
+  - Medium Laser × 2 
+  - Small Laser 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/977/enforcer-enf-4r-daniel) 
+- **Battle Value:** 1247 
 
-### Late Succession Wars - Renaissance (Unique)
-- Federated Suns
+## Availability 
 
-### Clan Invasion (Unique)
-- Federated Commonwealth
-- Federated Suns
+### Late Succession Wars - Renaissance (Unique) 
 
-### Civil War (Unique)
-- Federated Commonwealth
-- Federated Suns
+- Federated Suns 
+
+### Clan Invasion (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Civil War (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
 

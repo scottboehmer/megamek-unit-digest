@@ -1,59 +1,66 @@
-# Ostsol OTL-5M
+# Ostsol OTL-5M 
 
-[Other Ostsol variants](../ostsol.md)
+[Other Ostsol variants](../ostsol.md) 
 
-## Ostsol OTL-5M
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 144
-- **Heat Sinks:** 16 (32)
-- **Weapons:**
-  - Large Pulse Laser × 2
-  - Medium Pulse Laser × 4
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** ilClan Rec Guide 13 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m)
-- **Battle Value:** 1245
+## Ostsol OTL-5M 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 144 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Large Pulse Laser × 2 
+  - Medium Pulse Laser × 4 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
+- **Battle Value:** 1245 
 
-### Clan Invasion
-- ComStar
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- ComStar
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- ComStar 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Mercenary
-- Oriente Protectorate
+### Civil War 
 
-### Late Republic
-- Free Worlds League - Non-Aligned Worlds
-- Mercenary
+- ComStar 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
+### Jihad 
+
+- ComStar 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Mercenary 
+- Oriente Protectorate 
+
+### Late Republic 
+
+- Free Worlds League - Non-Aligned Worlds 
+- Mercenary 
+
+### Dark Ages 
+
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
 

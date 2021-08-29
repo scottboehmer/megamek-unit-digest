@@ -1,42 +1,47 @@
-# Archer ARC-5S
+# Archer ARC-5S 
 
-[Other Archer variants](../archer.md)
+[Other Archer variants](../archer.md) 
 
-## Archer ARC-5S
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 208
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 15 × 2 (ammo: 32)
-  - Medium Pulse Laser × 4
-  - Streak SRM 2 × 2 (ammo: 100)
-  - Narc (ammo: 6)
-- **Equipment:**
-  - CASE
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s)
-- **Battle Value:** 1353
+## Archer ARC-5S 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 208 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 32) 
+  - Medium Pulse Laser × 4 
+  - Streak SRM 2 × 2 (ammo: 100) 
+  - Narc (ammo: 6) 
+- **Equipment:** 
+  - CASE 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
+- **Battle Value:** 1353 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Lyran Alliance
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
+
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+
+### Jihad 
+
+- Federated Suns 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
 

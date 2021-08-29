@@ -1,43 +1,49 @@
-# Wolf Trap WFT-C
+# Wolf Trap WFT-C 
 
-[Other Wolf Trap variants](../wolf_trap.md)
+[Other Wolf Trap variants](../wolf_trap.md) 
 
-## Wolf Trap WFT-C "Tora"
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 120
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard)
-  - LRM 10 (ammo: 12)
-  - Medium Laser
-- **Equipment:**
-  - C3 Slave
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3559/wolf-trap-tora-wft-c)
-- **Battle Value:** 1001
+## Wolf Trap WFT-C "Tora" 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 120 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
+  - LRM 10 (ammo: 12) 
+  - Medium Laser 
+- **Equipment:** 
+  - C3 Slave 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559/wolf-trap-tora-wft-c) 
+- **Battle Value:** 1001 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+## Availability 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
 

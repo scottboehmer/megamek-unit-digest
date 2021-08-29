@@ -1,65 +1,73 @@
-# Phoenix Hawk LAM PHX-HK2
+# Phoenix Hawk LAM PHX-HK2 
 
-[Other Phoenix Hawk LAM variants](../phoenix_hawk_lam.md)
+[Other Phoenix Hawk LAM variants](../phoenix_hawk_lam.md) 
 
-## Phoenix Hawk LAM PHX-HK2
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (2701)
-- **Chassis:** 50 tons LAM
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-  - **AirMech:** 15 / 23
-  - **Aerospace:** 5 / 8
-- **Armor:** 128
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - Large Laser
-  - Medium Laser × 2
-  - Machine Gun × 2 (ammo: 200)
-- **Sources:** TRO3085, [Master Unit List](http://masterunitlist.info/Unit/Details/4822/phoenix-hawk-lam-phx-hk2)
-- **Battle Value:** 1555
+## Phoenix Hawk LAM PHX-HK2 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (2701) 
+- **Chassis:** 50 tons LAM 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+  - **AirMech:** 15 / 23 
+  - **Aerospace:** 5 / 8 
+- **Armor:** 128 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 2 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4822/phoenix-hawk-lam-phx-hk2) 
+- **Battle Value:** 1555 
 
-### Star League
-- Rim Worlds Republic - Terran Corps
-- Star League
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
+### Star League 
 
-### Late Succession Wars - LosTech
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Wolf's Dragoons
+- Rim Worlds Republic - Terran Corps 
+- Star League 
+- Star League - Royal Divisions 
 
-### Late Succession Wars - Renaissance
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Commonwealth
-- St. Ives Compact
-- Wolf's Dragoons
+### Early Succession Wars 
 
-### Clan Invasion
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
 
-### Civil War
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Wolf's Dragoons 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Commonwealth 
+- St. Ives Compact 
+- Wolf's Dragoons 
+
+### Clan Invasion 
+
+- Word of Blake 
+
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
 

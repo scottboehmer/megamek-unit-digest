@@ -1,46 +1,53 @@
-# Jinggau JN-G8A
+# Jinggau JN-G8A 
 
-[Other Jinggau variants](../jinggau.md)
+[Other Jinggau variants](../jinggau.md) 
 
-## Jinggau JN-G8A
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 184
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - ER Medium Laser × 4
-  - Medium Pulse Laser
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1708/jinggau-jn-g8a)
-- **Battle Value:** 2072
+## Jinggau JN-G8A 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 184 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER Medium Laser × 4 
+  - Medium Pulse Laser 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708/jinggau-jn-g8a) 
+- **Battle Value:** 2072 
 
-### Clan Invasion
-- Capellan Confederation
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Magistracy of Canopus
-- Taurian Concordat
+- Capellan Confederation 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
+### Jihad 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

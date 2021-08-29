@@ -1,44 +1,51 @@
-# Fire Scorpion 2
+# Fire Scorpion 2 
 
-[Other Fire Scorpion variants](../fire_scorpion.md)
+[Other Fire Scorpion variants](../fire_scorpion.md) 
 
-## Fire Scorpion 2
-- **Role:** Missile Boat
-- **Tech Base:** Clan (3060)
-- **Chassis:** 65 tons Quad (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 224
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 20)
-  - LRM 10 × 2 (ammo: 24)
-  - Machine Gun × 4 (ammo: 200)
-- **Equipment:**
-  - Active Probe
-  - A-Pod × 4
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1072/fire-scorpion-2)
-- **Battle Value:** 1749
+## Fire Scorpion 2 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3060) 
+- **Chassis:** 65 tons Quad (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 224 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+  - LRM 10 × 2 (ammo: 24) 
+  - Machine Gun × 4 (ammo: 200) 
+- **Equipment:** 
+  - Active Probe 
+  - A-Pod × 4 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1072/fire-scorpion-2) 
+- **Battle Value:** 1749 
 
-### Clan Invasion
-- Clan Goliath Scorpion
+## Availability 
 
-### Civil War
-- Clan Goliath Scorpion
+### Clan Invasion 
 
-### Jihad
-- Clan Goliath Scorpion
-- Escorpión Imperio
+- Clan Goliath Scorpion 
 
-### Early Republic
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Escorpión Imperio
+- Clan Goliath Scorpion 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Jihad 
+
+- Clan Goliath Scorpion 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

@@ -1,27 +1,29 @@
-# Carrion Crow D
+# Carrion Crow D 
 
-[Other Carrion Crow variants](../carrion_crow.md)
+[Other Carrion Crow variants](../carrion_crow.md) 
 
-## Carrion Crow D
-- **Role:** Striker
-- **Tech Base:** Clan (3145)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11, XL
-  - **Jumping:** 7
-- **Armor:** 133 (Ferro Lamellor)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Large Laser
-  - Streak SRM 6 (ammo: 15)
-  - Improved Heavy Medium Laser
-  - AP Gauss Rifle × 2 (ammo: 40)
-- **Equipment:**
-  - CASE
-- **Sources:** ilClan Vol 12 - Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7779/carrion-crow-d)
-- **Battle Value:** 1930
+## Carrion Crow D 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (3145) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 133 (Ferro Lamellor) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Streak SRM 6 (ammo: 15) 
+  - Improved Heavy Medium Laser 
+  - AP Gauss Rifle × 2 (ammo: 40) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7779/carrion-crow-d) 
+- **Battle Value:** 1930 
 
-### Dark Ages
-- Raven Alliance
+## Availability 
+
+### Dark Ages 
+
+- Raven Alliance 
 

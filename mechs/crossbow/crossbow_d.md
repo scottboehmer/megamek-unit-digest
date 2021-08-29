@@ -1,59 +1,65 @@
-# Crossbow D
+# Crossbow D 
 
-[Other Crossbow variants](../crossbow.md)
+[Other Crossbow variants](../crossbow.md) 
 
-## Crossbow D
-- **Role:** Missile Boat
-- **Tech Base:** Clan (3064)
-- **Chassis:** 65 tons
-- **Movement:** 5 / 8
-- **Armor:** 192
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - 'Mech Mortar/8 × 2 (ammo: 24)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/736/crossbow-d)
-- **Battle Value:** 1154
+## Crossbow D 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3064) 
+- **Chassis:** 65 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 192 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - 'Mech Mortar/8 × 2 (ammo: 24) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/736/crossbow-d) 
+- **Battle Value:** 1154 
 
-### Civil War
-- Clan Blood Spirit
-- Clan Diamond Shark
-- Clan Ghost Bear
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Steel Viper
-- Clan Wolf
-- Clan Wolf-in-Exile
+## Availability 
 
-### Jihad
-- Clan Blood Spirit
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Ghost Bear
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Steel Viper
-- Clan Stone Lion
-- Clan Wolf
-- Clan Wolf-in-Exile
+### Civil War 
 
-### Early Republic
-- Raven Alliance
+- Clan Blood Spirit 
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 
-### Late Republic
-- Clan Wolf
-- Raven Alliance
+### Jihad 
 
-### Dark Ages
-- Clan Jade Falcon
-- Clan Wolf
-- Lyran Commonwealth
-- Raven Alliance
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Clan Wolf 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Lyran Commonwealth 
+- Raven Alliance 
 

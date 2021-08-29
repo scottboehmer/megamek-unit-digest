@@ -1,51 +1,58 @@
-# Enforcer III ENF-6M
+# Enforcer III ENF-6M 
 
-[Other Enforcer III variants](../enforcer_iii.md)
+[Other Enforcer III variants](../enforcer_iii.md) 
 
-## Enforcer III ENF-6M
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3059)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-  - **Jumping:** 5
-- **Armor:** 160
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Ultra AC/10 (ammo: 20)
-  - ER Large Laser
-  - ER Small Laser
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m)
-- **Battle Value:** 1460
+## Enforcer III ENF-6M 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3059) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 160 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 20) 
+  - ER Large Laser 
+  - ER Small Laser 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m) 
+- **Battle Value:** 1460 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Early Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Dark Ages
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Early Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

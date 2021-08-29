@@ -1,57 +1,63 @@
-# Verfolger VR5-R
+# Verfolger VR5-R 
 
-[Other Verfolger variants](../verfolger.md)
+[Other Verfolger variants](../verfolger.md) 
 
-## Verfolger VR5-R
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3063)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 200
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - ER PPC
-  - LB 10-X AC (ammo: 20 Cluster, 10 Standard)
-  - Medium Laser × 3
-- **Equipment:**
-  - Anti-Missile System (ammo: 24)
-  - CASE
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/5346/verfolger-vr5-r)
-- **Battle Value:** 1639
+## Verfolger VR5-R 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3063) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 200 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER PPC 
+  - LB 10-X AC (ammo: 20 Cluster, 10 Standard) 
+  - Medium Laser × 3 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
+  - CASE 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5346/verfolger-vr5-r) 
+- **Battle Value:** 1639 
 
-### Civil War
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Jihad
-- Clan Wolf-in-Exile
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Civil War 
 
-### Early Republic
-- Clan Wolf-in-Exile
-- Kell Hounds
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
-- Wolf's Dragoons
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
 
-### Late Republic
-- Clan Wolf-in-Exile
-- Kell Hounds
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
-- Wolf's Dragoons
+### Jihad 
 
-### Dark Ages
-- Kell Hounds
-- Mercenary
-- Republic of the Sphere
-- Wolf's Dragoons
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+- Wolf's Dragoons 
+
+### Late Republic 
+
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Kell Hounds 
+- Mercenary 
+- Republic of the Sphere 
+- Wolf's Dragoons 
 

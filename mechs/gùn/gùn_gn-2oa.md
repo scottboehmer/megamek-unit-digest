@@ -1,25 +1,27 @@
-# Gùn GN-2OA
+# Gùn GN-2OA 
 
-[Other Gùn variants](../gùn.md)
+[Other Gùn variants](../gùn.md) 
 
-## Gùn GN-2OA
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3134)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 56
-- **Gyroscope:** XL Gyro
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Heavy PPC
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6451/gun-gn-2oa)
-- **Battle Value:** 685
+## Gùn GN-2OA 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3134) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 56 
+- **Gyroscope:** XL Gyro 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Heavy PPC 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6451/gun-gn-2oa) 
+- **Battle Value:** 685 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Andurien
-- Magistracy of Canopus
+## Availability 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
 

@@ -1,24 +1,27 @@
-# Harvester Ant KIC-3M-B AgroMech (LRM)
+# Harvester Ant KIC-3M-B AgroMech (LRM) 
 
-[Other Harvester Ant variants](../harvester_ant.md)
+[Other Harvester Ant variants](../harvester_ant.md) 
 
-## Harvester Ant KIC-3M-B AgroMech (LRM)
-- **Role:** Undefined
-- **Tech Base:** Inner Sphere (2801)
-- **Chassis:** 20 tons Quad (Industrial)
-- **Movement:** 3 / 5, ICE
-- **Armor:** 48 (Commercial)
-- **Heat Sinks:** 2 (2)
-- **Weapons:**
-  - LRM 5 × 2 (ammo: 24)
-- **Sources:** RS OK - Early Succession War, [Master Unit List](http://masterunitlist.info/Unit/Details/7153/harvester-ant-kic-3m-b-agromech-mod-kic-3-lrm)
-- **Battle Value:** 214
+## Harvester Ant KIC-3M-B AgroMech (LRM) 
 
-## Availability
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2801) 
+- **Chassis:** 20 tons Quad (Industrial) 
+- **Movement:** 3 / 5, ICE 
+- **Armor:** 48 (Commercial) 
+- **Heat Sinks:** 2 (2) 
+- **Weapons:** 
+  - LRM 5 × 2 (ammo: 24) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7153/harvester-ant-kic-3m-b-agromech-mod-kic-3-lrm) 
+- **Battle Value:** 214 
 
-### Early Succession Wars
-- Pirate
+## Availability 
 
-### Late Succession Wars - LosTech
-- Pirate
+### Early Succession Wars 
+
+- Pirate 
+
+### Late Succession Wars - LosTech 
+
+- Pirate 
 

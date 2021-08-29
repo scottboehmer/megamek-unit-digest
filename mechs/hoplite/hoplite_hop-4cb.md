@@ -1,40 +1,47 @@
-# Hoplite HOP-4Cb
+# Hoplite HOP-4Cb 
 
-[Other Hoplite variants](../hoplite.md)
+[Other Hoplite variants](../hoplite.md) 
 
-## Hoplite HOP-4Cb
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2821)
-- **Chassis:** 55 tons
-- **Movement:** 4 / 6
-- **Armor:** 184 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle (ammo: 24)
-  - SRM 6 (ammo: 15)
-- **Equipment:**
-  - CASE
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542/hoplite-hop-4cb)
-- **Battle Value:** 1377
+## Hoplite HOP-4Cb 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2821) 
+- **Chassis:** 55 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 184 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+  - SRM 6 (ammo: 15) 
+- **Equipment:** 
+  - CASE 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542/hoplite-hop-4cb) 
+- **Battle Value:** 1377 
 
-### Early Succession Wars
-- Clan Hell's Horses
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Hell's Horses
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Hell's Horses
+- Clan Hell's Horses 
 
-### Clan Invasion
-- Clan Hell's Horses
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Clan Hell's Horses
+- Clan Hell's Horses 
 
-### Jihad
-- Clan Hell's Horses
-- Society
+### Late Succession Wars - Renaissance 
+
+- Clan Hell's Horses 
+
+### Clan Invasion 
+
+- Clan Hell's Horses 
+
+### Civil War 
+
+- Clan Hell's Horses 
+
+### Jihad 
+
+- Clan Hell's Horses 
+- Society 
 

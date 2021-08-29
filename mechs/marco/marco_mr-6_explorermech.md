@@ -1,48 +1,56 @@
-# Marco MR-6 ExplorerMech
+# Marco MR-6 ExplorerMech 
 
-[Other Marco variants](../marco.md)
+[Other Marco variants](../marco.md) 
 
-## Marco MR-6 ExplorerMech
-- **Role:** Ambusher
-- **Tech Base:** Inner Sphere (2712)
-- **Chassis:** 30 tons (Industrial)
-- **Movement:** 4 / 6
-- **Armor:** 64
-- **Cockpit:** Industrial
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Small Laser
-- **Equipment:**
-  - Enviro-Sealing
-  - Salvage Arm
-  - Communications Equipment
-  - Searchlight
-- **Sources:** RS IA - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/4594/marco-mr-6-explorermech)
-- **Battle Value:** 295
+## Marco MR-6 ExplorerMech 
 
-## Availability
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (2712) 
+- **Chassis:** 30 tons (Industrial) 
+- **Movement:** 4 / 6 
+- **Armor:** 64 
+- **Cockpit:** Industrial 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Small Laser 
+- **Equipment:** 
+  - Enviro-Sealing 
+  - Salvage Arm 
+  - Communications Equipment 
+  - Searchlight 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4594/marco-mr-6-explorermech) 
+- **Battle Value:** 295 
 
-### Star League
-- Mercenary
-- Star League
-- Star League - Royal Divisions
-- Terran Hegemony
+## Availability 
 
-### Early Succession Wars
-- Mercenary
+### Star League 
 
-### Late Succession Wars - LosTech
-- Mercenary
+- Mercenary 
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
 
-### Late Succession Wars - Renaissance
-- Mercenary
+### Early Succession Wars 
 
-### Clan Invasion
-- Mercenary
+- Mercenary 
 
-### Civil War
-- Mercenary
+### Late Succession Wars - LosTech 
 
-### Jihad
-- Mercenary
+- Mercenary 
+
+### Late Succession Wars - Renaissance 
+
+- Mercenary 
+
+### Clan Invasion 
+
+- Mercenary 
+
+### Civil War 
+
+- Mercenary 
+
+### Jihad 
+
+- Mercenary 
 

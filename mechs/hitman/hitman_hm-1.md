@@ -1,62 +1,69 @@
-# Hitman HM-1
+# Hitman HM-1 
 
-[Other Hitman variants](../hitman.md)
+[Other Hitman variants](../hitman.md) 
 
-## Hitman HM-1
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3055)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 80
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - LRM 5 w/ Artemis IV (ammo: 24)
-  - Medium Laser × 3
-- **Equipment:**
-  - Guardian ECM Suite
-  - Beagle Active Probe
-  - TAG
-  - MASC
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1533/hitman-hm-1)
-- **Battle Value:** 925
+## Hitman HM-1 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3055) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 80 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 5 w/ Artemis IV (ammo: 24) 
+  - Medium Laser × 3 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Beagle Active Probe 
+  - TAG 
+  - MASC 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1533/hitman-hm-1) 
+- **Battle Value:** 925 
 
-### Clan Invasion
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Mercenary
+## Availability 
 
-### Civil War
-- ComStar
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Rasalhague Republic
-- Mercenary
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Mercenary 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Jihad 
+
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Mercenary 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
 

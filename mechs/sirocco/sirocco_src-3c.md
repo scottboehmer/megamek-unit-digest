@@ -1,72 +1,79 @@
-# Sirocco SRC-3C
+# Sirocco SRC-3C 
 
-[Other Sirocco variants](../sirocco.md)
+[Other Sirocco variants](../sirocco.md) 
 
-## Sirocco SRC-3C
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3060)
-- **Chassis:** 95 tons Quad
-- **Movement:** 3 / 5
-- **Armor:** 309
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Ultra AC/10 × 2 (ammo: 40)
-  - ER Medium Laser × 6
-  - Medium Pulse Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - A-Pod × 2
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2951/sirocco-src-3c)
-- **Battle Value:** 2154
+## Sirocco SRC-3C 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 95 tons Quad 
+- **Movement:** 3 / 5 
+- **Armor:** 309 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Ultra AC/10 × 2 (ammo: 40) 
+  - ER Medium Laser × 6 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - A-Pod × 2 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2951/sirocco-src-3c) 
+- **Battle Value:** 2154 
 
-### Clan Invasion
-- Capellan Confederation
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Capellan Confederation 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Capellan Confederation
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+- Capellan Confederation 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Capellan Confederation
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Republic of the Sphere
+### Jihad 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
 

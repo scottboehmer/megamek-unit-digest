@@ -1,53 +1,59 @@
-# Grasshopper GHR-6K
+# Grasshopper GHR-6K 
 
-[Other Grasshopper variants](../grasshopper.md)
+[Other Grasshopper variants](../grasshopper.md) 
 
-## Grasshopper GHR-6K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 208
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER Large Laser
-  - Streak SRM 4 (ammo: 25)
-  - Medium Pulse Laser × 5
-- **Equipment:**
-  - C3 Slave
-  - CASE
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1269/grasshopper-ghr-6k)
-- **Battle Value:** 1597
+## Grasshopper GHR-6K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 208 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Streak SRM 4 (ammo: 25) 
+  - Medium Pulse Laser × 5 
+- **Equipment:** 
+  - C3 Slave 
+  - CASE 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1269/grasshopper-ghr-6k) 
+- **Battle Value:** 1597 
 
-### Civil War
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
+## Availability 
 
-### Jihad
-- Draconis Combine
-- Federated Suns
-- Free Rasalhague Republic
+### Civil War 
 
-### Early Republic
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
 
-### Late Republic
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Dark Ages
-- Draconis Combine
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
 

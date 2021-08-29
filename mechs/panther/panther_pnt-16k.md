@@ -1,34 +1,39 @@
-# Panther PNT-16K
+# Panther PNT-16K 
 
-[Other Panther variants](../panther.md)
+[Other Panther variants](../panther.md) 
 
-## Panther PNT-16K
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3070)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 110 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-  - Streak SRM 4 × 2 (ammo: 25)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2423/panther-pnt-16k)
-- **Battle Value:** 988
+## Panther PNT-16K 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 110 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+  - Streak SRM 4 × 2 (ammo: 25) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2423/panther-pnt-16k) 
+- **Battle Value:** 988 
 
-### Jihad
-- Draconis Combine
+## Availability 
 
-### Early Republic
-- Draconis Combine
+### Jihad 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

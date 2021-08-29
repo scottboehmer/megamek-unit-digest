@@ -1,38 +1,44 @@
-# Rifleman RFL-8D
+# Rifleman RFL-8D 
 
-[Other Rifleman variants](../rifleman.md)
+[Other Rifleman variants](../rifleman.md) 
 
-## Rifleman RFL-8D
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 192
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - RAC/5 × 2 (ammo: 120)
-  - ER Medium Laser × 2
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d)
-- **Battle Value:** 1777
+## Rifleman RFL-8D 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 192 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - RAC/5 × 2 (ammo: 120) 
+  - ER Medium Laser × 2 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d) 
+- **Battle Value:** 1777 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+## Availability 
 
-### Jihad
-- Federated Suns
-- Lyran Alliance
+### Civil War 
 
-### Early Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
 
-### Late Republic
-- Federated Suns
+### Jihad 
 
-### Dark Ages
-- Federated Suns
+- Federated Suns 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

@@ -1,23 +1,25 @@
-# Zeus ZEU-6Y
+# Zeus ZEU-6Y 
 
-[Other Zeus variants](../zeus.md)
+[Other Zeus variants](../zeus.md) 
 
-## Zeus ZEU-6Y
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (2922)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6
-- **Armor:** 184
-- **Heat Sinks:** 17 (17)
-- **Weapons:**
-  - Blazer Cannon
-  - LRM 10 (ammo: 12)
-  - AC/5 (ammo: 20)
-- **Sources:** XTRO Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y)
-- **Battle Value:** 1323
+## Zeus ZEU-6Y 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2922) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 184 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - Blazer Cannon 
+  - LRM 10 (ammo: 12) 
+  - AC/5 (ammo: 20) 
+- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y) 
+- **Battle Value:** 1323 
 
-### Late Succession Wars - LosTech
-- Lyran Commonwealth
+## Availability 
+
+### Late Succession Wars - LosTech 
+
+- Lyran Commonwealth 
 

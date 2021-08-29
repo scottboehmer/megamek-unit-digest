@@ -1,45 +1,49 @@
-# Warhammer WHD-10CT
+# Warhammer WHD-10CT 
 
-[Other Warhammer variants](../warhammer.md)
+[Other Warhammer variants](../warhammer.md) 
 
-## Warhammer WHD-10CT
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3085)
-- **Chassis:** 70 tons (Endo Steel)
-- **Movement:** 4 / 6, Light
-- **Armor:** 212 (Light Ferro Fibrous)
-- **Gyroscope:** Heavy-Duty Gyro
-- **Heat Sinks:** 13 (26)
-- **Weapons:**
-  - Snub-Nose PPC × 2
-  - Streak SRM 6 (ammo: 15)
-  - ER Medium Laser × 2
-  - Medium Pulse Laser × 2
-- **Equipment:**
-  - Targeting Computer
-  - CASE
-  - C3 Slave
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct)
-- **Battle Value:** 1758
+## Warhammer WHD-10CT 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3085) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 212 (Light Ferro Fibrous) 
+- **Gyroscope:** Heavy-Duty Gyro 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Snub-Nose PPC × 2 
+  - Streak SRM 6 (ammo: 15) 
+  - ER Medium Laser × 2 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Targeting Computer 
+  - CASE 
+  - C3 Slave 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct) 
+- **Battle Value:** 1758 
 
-### Early Republic
-- Capellan Confederation
-- Lyran Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+## Availability 
 
-### Late Republic
-- Capellan Confederation
-- Lyran Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+### Early Republic 
 
-### Dark Ages
-- Capellan Confederation
-- Free Worlds League
-- Lyran Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+- Capellan Confederation 
+- Lyran Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Lyran Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
 

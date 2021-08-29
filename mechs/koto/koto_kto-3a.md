@@ -1,39 +1,45 @@
-# Koto KTO-3A
+# Koto KTO-3A 
 
-[Other Koto variants](../koto.md)
+[Other Koto variants](../koto.md) 
 
-## Koto KTO-3A
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3062)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-- **Armor:** 80 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Large Pulse Laser
-  - Medium Laser × 2
-  - Small Laser
-- **Sources:** TRO 3055 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1838/koto-kto-3a)
-- **Battle Value:** 806
+## Koto KTO-3A 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+- **Armor:** 80 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - Medium Laser × 2 
+  - Small Laser 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1838/koto-kto-3a) 
+- **Battle Value:** 806 
 
-### Civil War
-- Mercenary
-- Solaris 7
+## Availability 
 
-### Jihad
-- Mercenary
-- Solaris 7
+### Civil War 
 
-### Early Republic
-- Mercenary
-- Solaris 7
+- Mercenary 
+- Solaris 7 
 
-### Late Republic
-- Mercenary
-- Solaris 7
+### Jihad 
 
-### Dark Ages
-- Solaris 7
+- Mercenary 
+- Solaris 7 
+
+### Early Republic 
+
+- Mercenary 
+- Solaris 7 
+
+### Late Republic 
+
+- Mercenary 
+- Solaris 7 
+
+### Dark Ages 
+
+- Solaris 7 
 

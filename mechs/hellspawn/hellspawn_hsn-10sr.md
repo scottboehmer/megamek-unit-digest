@@ -1,36 +1,41 @@
-# Hellspawn HSN-10SR
+# Hellspawn HSN-10SR 
 
-[Other Hellspawn variants](../hellspawn.md)
+[Other Hellspawn variants](../hellspawn.md) 
 
-## Hellspawn HSN-10SR
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3081)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 8
-- **Armor:** 144
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Light PPC × 2
-  - ER Medium Laser × 2
-- **Equipment:**
-  - Guardian ECM Suite
-  - Beagle Active Probe
-  - TAG
-- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5674/hellspawn-hsn-10sr)
-- **Battle Value:** 1411
+## Hellspawn HSN-10SR 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3081) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 8 
+- **Armor:** 144 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Light PPC × 2 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Beagle Active Probe 
+  - TAG 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674/hellspawn-hsn-10sr) 
+- **Battle Value:** 1411 
 
-### Jihad
-- Federated Suns
+## Availability 
 
-### Early Republic
-- Federated Suns
+### Jihad 
 
-### Late Republic
-- Federated Suns
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

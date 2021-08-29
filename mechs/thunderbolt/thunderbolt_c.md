@@ -1,128 +1,138 @@
-# Thunderbolt C
+# Thunderbolt C 
 
-[Other Thunderbolt variants](../thunderbolt.md)
+[Other Thunderbolt variants](../thunderbolt.md) 
 
-## Thunderbolt C
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere Mixed (2832)
-- **Chassis:** 65 tons
-- **Movement:** 4 / 6
-- **Armor:** 208
-- **Heat Sinks:** 24 (24)
-- **Weapons:**
-  - Clan Large Pulse Laser
-  - Clan ER Large Laser
-  - Clan ER Medium Laser
-  - Clan ER Small Laser × 2
-- **Sources:** ilClan RecGuide 15 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c)
-- **Battle Value:** 1671
+## Thunderbolt C 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere Mixed (2832) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 208 
+- **Heat Sinks:** 24 (24) 
+- **Weapons:** 
+  - Clan Large Pulse Laser 
+  - Clan ER Large Laser 
+  - Clan ER Medium Laser 
+  - Clan ER Small Laser × 2 
+- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c) 
+- **Battle Value:** 1671 
 
-### Early Succession Wars
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Coyote
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Mongoose
-- Clan Nova Cat
-- Clan Sea Fox
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Widowmaker
-- Clan Wolf
-- Clan Wolverine
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Smoke Jaguar
-- Clan Snow Raven
-- Clan Star Adder
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Blood Spirit
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Goliath Scorpion
-- Clan Jade Falcon
-- Clan Smoke Jaguar
-- Clan Star Adder
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Mongoose 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Widowmaker 
+- Clan Wolf 
+- Clan Wolverine 
 
-### Clan Invasion
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Smoke Jaguar
-- Clan Star Adder
-- Clan Steel Viper
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Star Adder
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
 
-### Jihad
-- Clan Burrock
-- Clan Cloud Cobra
-- Clan Diamond Shark
-- Clan Fire Mandrill
-- Clan Ghost Bear
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Nova Cat
-- Clan Snow Raven
-- Clan Star Adder
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Draconis Combine
-- Escorpión Imperio
-- Federated Suns
-- Lyran Alliance
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Escorpión Imperio
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Smoke Jaguar 
+- Clan Star Adder 
 
-### Late Republic
-- Escorpión Imperio
+### Clan Invasion 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
+
+### Civil War 
+
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Star Adder 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+
+### Jihad 
+
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Escorpión Imperio 
+- Federated Suns 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

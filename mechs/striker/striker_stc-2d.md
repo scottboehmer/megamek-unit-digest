@@ -1,42 +1,49 @@
-# Striker STC-2D
+# Striker STC-2D 
 
-[Other Striker variants](../striker.md)
+[Other Striker variants](../striker.md) 
 
-## Striker STC-2D
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6
-- **Armor:** 247
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER PPC
-  - Large Laser
-  - AC/5 (ammo: 20)
-  - Medium Pulse Laser × 2
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3095/striker-stc-2d)
-- **Battle Value:** 1644
+## Striker STC-2D 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 247 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC 
+  - Large Laser 
+  - AC/5 (ammo: 20) 
+  - Medium Pulse Laser × 2 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3095/striker-stc-2d) 
+- **Battle Value:** 1644 
 
-### Clan Invasion
-- Capellan Confederation
+## Availability 
 
-### Civil War
-- Capellan Confederation
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
+- Capellan Confederation 
 
-### Early Republic
-- Capellan Confederation
-- Magistracy of Canopus
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Magistracy of Canopus
+- Capellan Confederation 
 
-### Dark Ages
-- Capellan Confederation
-- Magistracy of Canopus
+### Jihad 
+
+- Capellan Confederation 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

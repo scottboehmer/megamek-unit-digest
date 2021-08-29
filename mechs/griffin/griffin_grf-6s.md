@@ -1,60 +1,66 @@
-# Griffin GRF-6S
+# Griffin GRF-6S 
 
-[Other Griffin variants](../griffin.md)
+[Other Griffin variants](../griffin.md) 
 
-## Griffin GRF-6S
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3066)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 5 / 8, Light
-  - **Jumping:** 5
-- **Armor:** 185
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-  - LRM 15 w/ Artemis IV (ammo: 16)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE
-- **Sources:** Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s)
-- **Battle Value:** 1781
+## Griffin GRF-6S 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8, Light 
+  - **Jumping:** 5 
+- **Armor:** 185 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+  - LRM 15 w/ Artemis IV (ammo: 16) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s) 
+- **Battle Value:** 1781 
 
-### Civil War
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Jihad
-- Draconis Combine
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Civil War 
 
-### Early Republic
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Late Republic
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
 
-### Dark Ages
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

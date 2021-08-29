@@ -1,22 +1,24 @@
-# Marauder MAD-4X
+# Marauder MAD-4X 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-4X
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3039)
-- **Chassis:** 75 tons (Prototype Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 192
-- **Heat Sinks:** 18 (24)
-- **Weapons:**
-  - Blazer Cannon × 2
-  - SRM 6 × 2 (ammo: 30)
-- **Sources:** XTRO Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x)
-- **Battle Value:** 1453
+## Marauder MAD-4X 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3039) 
+- **Chassis:** 75 tons (Prototype Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 192 
+- **Heat Sinks:** 18 (24) 
+- **Weapons:** 
+  - Blazer Cannon × 2 
+  - SRM 6 × 2 (ammo: 30) 
+- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
+- **Battle Value:** 1453 
 
-### Late Succession Wars - Renaissance
-- Free Worlds League
+## Availability 
+
+### Late Succession Wars - Renaissance 
+
+- Free Worlds League 
 

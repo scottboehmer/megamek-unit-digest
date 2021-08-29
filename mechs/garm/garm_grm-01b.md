@@ -1,53 +1,60 @@
-# Garm GRM-01B
+# Garm GRM-01B 
 
-[Other Garm variants](../garm.md)
+[Other Garm variants](../garm.md) 
 
-## Garm GRM-01B
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3059)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 80 (Ferro Fibrous)
-- **Heat Sinks:** 12 (12)
-- **Weapons:**
-  - ER Large Laser
-  - LRM 10 w/ Artemis IV (ammo: 12)
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/1191/garm-grm-01b)
-- **Battle Value:** 934
+## Garm GRM-01B 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3059) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 80 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - ER Large Laser 
+  - LRM 10 w/ Artemis IV (ammo: 12) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1191/garm-grm-01b) 
+- **Battle Value:** 934 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Mercenary
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Mercenary 
 
-### Dark Ages
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

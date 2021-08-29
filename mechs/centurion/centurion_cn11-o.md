@@ -1,36 +1,39 @@
-# Centurion CN11-O
+# Centurion CN11-O 
 
-[Other Centurion variants](../centurion.md)
+[Other Centurion variants](../centurion.md) 
 
-## Centurion CN11-O
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3111)
-- **Chassis:** 50 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 152
-- **Gyroscope:** Compact Gyro
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - LRM 10 w/ Artemis IV (ammo: 24)
-  - ER Medium Laser × 2
-- **Equipment:**
-  - CASE II
-- **Sources:** TRO 3145 Federated Suns - Late Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6340/centurion-cn11-o)
-- **Battle Value:** 1236
+## Centurion CN11-O 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3111) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 152 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - LRM 10 w/ Artemis IV (ammo: 24) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6340/centurion-cn11-o) 
+- **Battle Value:** 1236 
 
-### Late Republic
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+## Availability 
 
-### Dark Ages
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

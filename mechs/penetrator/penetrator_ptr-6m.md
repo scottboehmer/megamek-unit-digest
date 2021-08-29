@@ -1,45 +1,52 @@
-# Penetrator PTR-6M
+# Penetrator PTR-6M 
 
-[Other Penetrator variants](../penetrator.md)
+[Other Penetrator variants](../penetrator.md) 
 
-## Penetrator PTR-6M
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3058)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 192
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER Large Laser × 2
-  - Medium Pulse Laser × 4
-- **Equipment:**
-  - Anti-Missile System (ammo: 12)
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2467/penetrator-ptr-6m)
-- **Battle Value:** 1639
+## Penetrator PTR-6M 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 192 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Medium Pulse Laser × 4 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2467/penetrator-ptr-6m) 
+- **Battle Value:** 1639 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Lyran Alliance
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
 
-### Early Republic
-- Federated Suns
+### Civil War 
 
-### Late Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
 
-### Dark Ages
-- Federated Suns
+### Jihad 
+
+- Federated Suns 
+- Lyran Alliance 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

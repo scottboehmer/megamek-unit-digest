@@ -1,37 +1,42 @@
-# Archer ARC-7S
+# Archer ARC-7S 
 
-[Other Archer variants](../archer.md)
+[Other Archer variants](../archer.md) 
 
-## Archer ARC-7S
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3070)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6, Light
-- **Armor:** 217 (Heavy Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-  - ER Medium Laser
-  - Streak SRM 2 × 2 (ammo: 100)
-  - Small Pulse Laser
-- **Equipment:**
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/85/archer-arc-7s)
-- **Battle Value:** 1658
+## Archer ARC-7S 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 217 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
+  - ER Medium Laser 
+  - Streak SRM 2 × 2 (ammo: 100) 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/85/archer-arc-7s) 
+- **Battle Value:** 1658 
 
-### Jihad
-- Lyran Alliance
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
+- Word of Blake 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

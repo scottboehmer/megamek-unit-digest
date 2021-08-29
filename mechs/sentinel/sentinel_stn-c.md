@@ -1,33 +1,38 @@
-# Sentinel STN-C
+# Sentinel STN-C 
 
-[Other Sentinel variants](../sentinel.md)
+[Other Sentinel variants](../sentinel.md) 
 
-## Sentinel STN-C
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3065)
-- **Chassis:** 40 tons
-- **Movement:** 6 / 9
-- **Armor:** 88
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Ultra AC/5 (ammo: 20)
-  - SRM 2 (ammo: 50)
-- **Equipment:**
-  - C3 Slave
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c)
-- **Battle Value:** 689
+## Sentinel STN-C 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 40 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 88 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/5 (ammo: 20) 
+  - SRM 2 (ammo: 50) 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c) 
+- **Battle Value:** 689 
 
-### Civil War
-- Draconis Combine
+## Availability 
 
-### Jihad
-- Draconis Combine
+### Civil War 
 
-### Early Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Late Republic
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
 

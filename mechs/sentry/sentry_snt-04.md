@@ -1,68 +1,75 @@
-# Sentry SNT-04
+# Sentry SNT-04 
 
-[Other Sentry variants](../sentry.md)
+[Other Sentry variants](../sentry.md) 
 
-## Sentry SNT-04
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 136
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - PPC
-  - Small Pulse Laser × 2
-  - Flamer
-  - Machine Gun × 4 (ammo: 200)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04)
-- **Battle Value:** 1069
+## Sentry SNT-04 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 136 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - PPC 
+  - Small Pulse Laser × 2 
+  - Flamer 
+  - Machine Gun × 4 (ammo: 200) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04) 
+- **Battle Value:** 1069 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Calderon Protectorate
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
-- Republic of the Sphere
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Republic of the Sphere 
 

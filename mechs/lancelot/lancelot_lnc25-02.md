@@ -1,45 +1,53 @@
-# Lancelot LNC25-02
+# Lancelot LNC25-02 
 
-[Other Lancelot variants](../lancelot.md)
+[Other Lancelot variants](../lancelot.md) 
 
-## Lancelot LNC25-02
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (2864)
-- **Chassis:** 60 tons
-- **Movement:** 4 / 6
-- **Armor:** 152
-- **Heat Sinks:** 19 (19)
-- **Weapons:**
-  - PPC
-  - Large Laser × 2
-  - Medium Laser
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1855/lancelot-lnc25-02)
-- **Battle Value:** 1236
+## Lancelot LNC25-02 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2864) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 152 
+- **Heat Sinks:** 19 (19) 
+- **Weapons:** 
+  - PPC 
+  - Large Laser × 2 
+  - Medium Laser 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1855/lancelot-lnc25-02) 
+- **Battle Value:** 1236 
 
-### Early Succession Wars
-- Draconis Combine
+## Availability 
 
-### Late Succession Wars - LosTech
-- Draconis Combine
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Clan Invasion 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Civil War 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
 

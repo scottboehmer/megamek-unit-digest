@@ -1,43 +1,48 @@
-# Kingfisher X
+# Kingfisher X 
 
-[Other Kingfisher variants](../kingfisher.md)
+[Other Kingfisher variants](../kingfisher.md) 
 
-## Kingfisher X
-- **Role:** Brawler
-- **Tech Base:** Clan (3076)
-- **Chassis:** 90 tons (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 278 (Ferro Fibrous)
-- **Heat Sinks:** 17 (34)
-- **Weapons:**
-  - ER PPC
-  - LRM 15 w/ Artemis V (ammo: 16)
-  - ER Medium Pulse Laser × 2
-  - Improved Heavy Medium Laser × 3
-- **Equipment:**
-  - ECM Suite
-  - CASE
-  - Targeting Computer
-- **Sources:** ilClan Rec Guide 18 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x)
-- **Battle Value:** 2761
+## Kingfisher X 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Clan (3076) 
+- **Chassis:** 90 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 278 (Ferro Fibrous) 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER PPC 
+  - LRM 15 w/ Artemis V (ammo: 16) 
+  - ER Medium Pulse Laser × 2 
+  - Improved Heavy Medium Laser × 3 
+- **Equipment:** 
+  - ECM Suite 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x) 
+- **Battle Value:** 2761 
 
-### Jihad
-- Clan Ghost Bear
+## Availability 
 
-### Early Republic
-- Clan Diamond Shark
-- Clan Nova Cat
-- Rasalhague Dominion
-- Raven Alliance
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Clan Nova Cat
-- Rasalhague Dominion
-- Republic of the Sphere
+- Clan Ghost Bear 
 
-### Dark Ages
-- Rasalhague Dominion
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Nova Cat 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Rasalhague Dominion 
 

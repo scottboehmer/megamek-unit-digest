@@ -1,33 +1,38 @@
-# Axman AXM-6T
+# Axman AXM-6T 
 
-[Other Axman variants](../axman.md)
+[Other Axman variants](../axman.md) 
 
-## Axman AXM-6T
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3083)
-- **Chassis:** 65 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 195 (Light Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Thunderbolt 15 × 2 (ammo: 16)
-  - ER Medium Laser × 4
-- **Equipment:**
-  - CASE
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t)
-- **Battle Value:** 1830
+## Axman AXM-6T 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 195 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Thunderbolt 15 × 2 (ammo: 16) 
+  - ER Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t) 
+- **Battle Value:** 1830 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

@@ -1,54 +1,62 @@
-# Devastator DVS-1D
+# Devastator DVS-1D 
 
-[Other Devastator variants](../devastator.md)
+[Other Devastator variants](../devastator.md) 
 
-## Devastator DVS-1D
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3036)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-- **Armor:** 288
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - AC/10 × 2 (ammo: 40)
-  - Large Laser × 2
-  - Medium Laser × 4
-- **Sources:** TRO 3058 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/893/devastator-dvs-1d)
-- **Battle Value:** 1858
+## Devastator DVS-1D 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3036) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 288 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - AC/10 × 2 (ammo: 40) 
+  - Large Laser × 2 
+  - Medium Laser × 4 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/893/devastator-dvs-1d) 
+- **Battle Value:** 1858 
 
-### Late Succession Wars - Renaissance
-- Federated Suns
+## Availability 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Lyran Commonwealth
-- Taurian Concordat
+### Late Succession Wars - Renaissance 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Lyran Alliance
-- Taurian Concordat
+- Federated Suns 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Alliance
-- Taurian Concordat
+### Clan Invasion 
 
-### Early Republic
-- Filtvelt Coalition
-- Taurian Concordat
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Taurian Concordat 
 
-### Late Republic
-- Filtvelt Coalition
-- Taurian Concordat
+### Civil War 
 
-### Dark Ages
-- Filtvelt Coalition
-- Taurian Concordat
+- Federated Commonwealth 
+- Federated Suns 
+- Lyran Alliance 
+- Taurian Concordat 
+
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Alliance 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Filtvelt Coalition 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Filtvelt Coalition 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Taurian Concordat 
 

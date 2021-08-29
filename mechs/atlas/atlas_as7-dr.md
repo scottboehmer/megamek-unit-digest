@@ -1,43 +1,48 @@
-# Atlas AS7-Dr
+# Atlas AS7-Dr 
 
-[Other Atlas variants](../atlas.md)
+[Other Atlas variants](../atlas.md) 
 
-## Atlas AS7-Dr
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3070)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-- **Armor:** 304
-- **Heat Sinks:** 22 (22)
-- **Weapons:**
-  - Heavy PPC
-  - LRM 20 (ammo: 12)
-  - Streak SRM 6 (ammo: 15)
-  - Medium Laser × 4
-- **Equipment:**
-  - Guardian ECM Suite
-  - C3 Slave
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr)
-- **Battle Value:** 2101
+## Atlas AS7-Dr 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 304 
+- **Heat Sinks:** 22 (22) 
+- **Weapons:** 
+  - Heavy PPC 
+  - LRM 20 (ammo: 12) 
+  - Streak SRM 6 (ammo: 15) 
+  - Medium Laser × 4 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - C3 Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr) 
+- **Battle Value:** 2101 
 
-### Jihad
-- Lyran Alliance
-- Mercenary
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Lyran Alliance 
+- Mercenary 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

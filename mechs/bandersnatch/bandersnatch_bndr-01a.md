@@ -1,89 +1,96 @@
-# Bandersnatch BNDR-01A
+# Bandersnatch BNDR-01A 
 
-[Other Bandersnatch variants](../bandersnatch.md)
+[Other Bandersnatch variants](../bandersnatch.md) 
 
-## Bandersnatch BNDR-01A
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3052)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 176
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - Medium Laser × 6
-  - LRM 5 × 3 (ammo: 48)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a)
-- **Battle Value:** 1478
+## Bandersnatch BNDR-01A 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
+  - Medium Laser × 6 
+  - LRM 5 × 3 (ammo: 48) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a) 
+- **Battle Value:** 1478 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Magistracy of Canopus
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Magistracy of Canopus
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Kell Hounds
-- Magistracy of Canopus
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Magistracy of Canopus 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Calderon Protectorate
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+### Civil War 
 
-### Late Republic
-- Calderon Protectorate
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Magistracy of Canopus 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Calderon Protectorate
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Republic of the Sphere
-- Taurian Concordat
+### Jihad 
+
+- Federated Suns 
+- Kell Hounds 
+- Magistracy of Canopus 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Republic of the Sphere 
+- Taurian Concordat 
 

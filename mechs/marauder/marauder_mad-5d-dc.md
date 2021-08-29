@@ -1,48 +1,55 @@
-# Marauder MAD-5D-DC
+# Marauder MAD-5D-DC 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-5D-DC
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3055)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 224
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC × 2
-  - Large Pulse Laser
-  - Medium Pulse Laser × 2
-  - Small Pulse Laser
-- **Equipment:**
-  - Command Console
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc)
-- **Battle Value:** 1787
+## Marauder MAD-5D-DC 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3055) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 224 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Large Pulse Laser 
+  - Medium Pulse Laser × 2 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - Command Console 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc) 
+- **Battle Value:** 1787 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Filtvelt Coalition
+- Federated Commonwealth 
+- Federated Suns 
 
-### Early Republic
-- Federated Suns
-- Filtvelt Coalition
+### Civil War 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
+- Federated Commonwealth 
+- Federated Suns 
 
-### Dark Ages
-- Federated Suns
-- Filtvelt Coalition
+### Jihad 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Early Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
 

@@ -1,26 +1,28 @@
-# Götterdämmerung GTD-20S
+# Götterdämmerung GTD-20S 
 
-[Other Götterdämmerung variants](../götterdämmerung.md)
+[Other Götterdämmerung variants](../götterdämmerung.md) 
 
-## Götterdämmerung GTD-20S
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3138)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6, Compact
-- **Armor:** 231 (Heavy Ferro Fibrous)
-- **Gyroscope:** Compact Gyro
-- **Cockpit:** Torso-Mounted
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER PPC
-  - LRM 15 (ammo: 8)
-  - ER Medium Laser × 5
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages, [Master Unit List](http://masterunitlist.info/Unit/Details/6629/gotterdammerung-gtd-20s)
-- **Battle Value:** 1727
+## Götterdämmerung GTD-20S 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3138) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6, Compact 
+- **Armor:** 231 (Heavy Ferro Fibrous) 
+- **Gyroscope:** Compact Gyro 
+- **Cockpit:** Torso-Mounted 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC 
+  - LRM 15 (ammo: 8) 
+  - ER Medium Laser × 5 
+- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6629/gotterdammerung-gtd-20s) 
+- **Battle Value:** 1727 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+## Availability 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

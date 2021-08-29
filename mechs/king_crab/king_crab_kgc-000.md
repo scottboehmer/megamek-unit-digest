@@ -1,69 +1,79 @@
-# King Crab KGC-000
+# King Crab KGC-000 
 
-[Other King Crab variants](../king_crab.md)
+[Other King Crab variants](../king_crab.md) 
 
-## King Crab KGC-000
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (2743)
-- **Chassis:** 100 tons
-- **Movement:** 3 / 5
-- **Armor:** 286 (Ferro Fibrous)
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - AC/20 × 2 (ammo: 10)
-  - LRM 15 (ammo: 8)
-  - Large Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/1770/king-crab-kgc-000)
-- **Battle Value:** 1906
+## King Crab KGC-000 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2743) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 286 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - AC/20 × 2 (ammo: 10) 
+  - LRM 15 (ammo: 8) 
+  - Large Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1770/king-crab-kgc-000) 
+- **Battle Value:** 1906 
 
-### Star League
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Rim Worlds Republic - Terran Corps
-- Star League
-- Star League - Royal Divisions
+## Availability 
 
-### Early Succession Wars
-- Capellan Confederation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Free Worlds League
-- Lyran Commonwealth
-- Star League-in-Exile
+### Star League 
 
-### Late Succession Wars - LosTech
-- ComStar
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Rim Worlds Republic - Terran Corps 
+- Star League 
+- Star League - Royal Divisions 
 
-### Late Succession Wars - Renaissance
-- ComStar
+### Early Succession Wars 
 
-### Clan Invasion
-- ComStar
-- Draconis Combine
-- Free Rasalhague Republic
-- Word of Blake
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League-in-Exile 
 
-### Civil War
-- ComStar
-- Draconis Combine
-- Free Rasalhague Republic
-- Word of Blake
+### Late Succession Wars - LosTech 
 
-### Jihad
-- ComStar
-- Draconis Combine
-- Free Rasalhague Republic
-- Word of Blake
+- ComStar 
 
-### Early Republic
-- Republic of the Sphere
+### Late Succession Wars - Renaissance 
 
-### Late Republic
-- Republic of the Sphere
+- ComStar 
+
+### Clan Invasion 
+
+- ComStar 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Word of Blake 
+
+### Civil War 
+
+- ComStar 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Word of Blake 
+
+### Jihad 
+
+- ComStar 
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Word of Blake 
+
+### Early Republic 
+
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
 

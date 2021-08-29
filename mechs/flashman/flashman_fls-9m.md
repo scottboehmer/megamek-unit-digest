@@ -1,30 +1,34 @@
-# Flashman FLS-9M
+# Flashman FLS-9M 
 
-[Other Flashman variants](../flashman.md)
+[Other Flashman variants](../flashman.md) 
 
-## Flashman FLS-9M
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3070)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6, Light
-- **Armor:** 220 (Light Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - Heavy PPC × 2
-  - Medium Pulse Laser × 4
-  - Medium Laser × 4
-  - Small Laser
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/1127/flashman-fls-9m)
-- **Battle Value:** 1895
+## Flashman FLS-9M 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 220 (Light Ferro Fibrous) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Heavy PPC × 2 
+  - Medium Pulse Laser × 4 
+  - Medium Laser × 4 
+  - Small Laser 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1127/flashman-fls-9m) 
+- **Battle Value:** 1895 
 
-### Jihad
-- Free Worlds League
+## Availability 
 
-### Early Republic
-- Marik-Stewart Commonwealth
+### Jihad 
 
-### Late Republic
-- Marik-Stewart Commonwealth
+- Free Worlds League 
+
+### Early Republic 
+
+- Marik-Stewart Commonwealth 
+
+### Late Republic 
+
+- Marik-Stewart Commonwealth 
 

@@ -1,30 +1,34 @@
-# Thorn THE-N2
+# Thorn THE-N2 
 
-[Other Thorn variants](../thorn.md)
+[Other Thorn variants](../thorn.md) 
 
-## Thorn THE-N2
-- **Role:** Striker
-- **Tech Base:** Inner Sphere (3071)
-- **Chassis:** 20 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-- **Armor:** 69
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - MML 7 (ammo: 17 LRM, 14 SRM)
-  - ER Small Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/3193/thorn-the-n2)
-- **Battle Value:** 410
+## Thorn THE-N2 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3071) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 69 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - MML 7 (ammo: 17 LRM, 14 SRM) 
+  - ER Small Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3193/thorn-the-n2) 
+- **Battle Value:** 410 
 
-### Jihad
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Republic of the Sphere
+- Word of Blake 
+
+### Early Republic 
+
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
 

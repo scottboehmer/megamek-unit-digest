@@ -1,48 +1,57 @@
-# Spider SDR-5K
+# Spider SDR-5K 
 
-[Other Spider variants](../spider.md)
+[Other Spider variants](../spider.md) 
 
-## Spider SDR-5K
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (2850)
-- **Chassis:** 30 tons
-- **Movement:** 8 / 12
-  - **Jumping:** 6
-- **Armor:** 56
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser
-  - Machine Gun × 2 (ammo: 200)
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/3009/spider-sdr-5k)
-- **Battle Value:** 503
+## Spider SDR-5K 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2850) 
+- **Chassis:** 30 tons 
+- **Movement:** 8 / 12 
+  - **Jumping:** 6 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3009/spider-sdr-5k) 
+- **Battle Value:** 503 
 
-### Early Succession Wars
-- Draconis Combine
+## Availability 
 
-### Late Succession Wars - LosTech
-- Draconis Combine
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
 
-### Late Republic
-- Draconis Combine
+### Clan Invasion 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Civil War 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
 

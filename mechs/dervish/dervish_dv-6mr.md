@@ -1,73 +1,78 @@
-# Dervish DV-6Mr
+# Dervish DV-6Mr 
 
-[Other Dervish variants](../dervish.md)
+[Other Dervish variants](../dervish.md) 
 
-## Dervish DV-6Mr
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3073)
-- **Chassis:** 55 tons
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 120
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 10 × 2 (ammo: 24)
-  - Medium Pulse Laser × 2
-  - Medium Laser × 2
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr)
-- **Battle Value:** 1347
+## Dervish DV-6Mr 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 120 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 10 × 2 (ammo: 24) 
+  - Medium Pulse Laser × 2 
+  - Medium Laser × 2 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr) 
+- **Battle Value:** 1347 
 
-### Jihad
-- Calderon Protectorate
-- Capellan Confederation
-- Circinus Federation
-- ComStar
-- Draconis Combine
-- Federated Suns
-- Filtvelt Coalition
-- Free Rasalhague Republic
-- Free Worlds League
-- Lyran Alliance
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Jihad 
 
-### Late Republic
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+- Calderon Protectorate 
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+- Word of Blake 
 
-### Dark Ages
-- Calderon Protectorate
-- Federated Suns
-- Filtvelt Coalition
-- Lyran Commonwealth
-- Magistracy of Canopus
-- Marian Hegemony
-- Mercenary
-- Pirate
-- Taurian Concordat
+### Early Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

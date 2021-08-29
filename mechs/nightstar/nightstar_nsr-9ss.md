@@ -1,53 +1,59 @@
-# Nightstar NSR-9SS
+# Nightstar NSR-9SS 
 
-[Other Nightstar variants](../nightstar.md)
+[Other Nightstar variants](../nightstar.md) 
 
-## Nightstar NSR-9SS
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3065)
-- **Chassis:** 95 tons
-- **Movement:** 3 / 5, XL
-  - **Jumping:** 3
-- **Armor:** 293
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Ultra AC/20 (ammo: 15)
-  - LB 20-X AC (ammo: 5 Standard, 10 Cluster)
-  - Medium Pulse Laser × 3
-  - Small Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3058 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2287/nightstar-nsr-9ss)
-- **Battle Value:** 2145
+## Nightstar NSR-9SS 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 95 tons 
+- **Movement:** 3 / 5, XL 
+  - **Jumping:** 3 
+- **Armor:** 293 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 15) 
+  - LB 20-X AC (ammo: 5 Standard, 10 Cluster) 
+  - Medium Pulse Laser × 3 
+  - Small Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2287/nightstar-nsr-9ss) 
+- **Battle Value:** 2145 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Solaris 7
-- Wolf's Dragoons
+## Availability 
 
-### Jihad
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Solaris 7
-- Wolf's Dragoons
+### Civil War 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Solaris 7 
+- Wolf's Dragoons 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Solaris 7 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

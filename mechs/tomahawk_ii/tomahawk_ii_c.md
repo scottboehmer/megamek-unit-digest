@@ -1,33 +1,37 @@
-# Tomahawk II C
+# Tomahawk II C 
 
-[Other Tomahawk II variants](../tomahawk_ii.md)
+[Other Tomahawk II variants](../tomahawk_ii.md) 
 
-## Tomahawk II C
-- **Role:** Missile Boat
-- **Tech Base:** Clan (3088)
-- **Chassis:** 100 tons (Endo Composite)
-- **Movement:** 3 / 5, XL
-- **Armor:** 304
-- **Heat Sinks:** 18 (36)
-- **Weapons:**
-  - Large Pulse Laser × 3
-  - LRM 15 × 6 (ammo: 80)
-- **Equipment:**
-  - CASE II
-- **Sources:** TRO 3145 The Clans - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/6306/tomahawk-ii-c)
-- **Battle Value:** 2938
+## Tomahawk II C 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3088) 
+- **Chassis:** 100 tons (Endo Composite) 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 304 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - Large Pulse Laser × 3 
+  - LRM 15 × 6 (ammo: 80) 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6306/tomahawk-ii-c) 
+- **Battle Value:** 2938 
 
-### Early Republic
-- Clan Hell's Horses
-- Clan Wolf
+## Availability 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Wolf
+### Early Republic 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Wolf
+- Clan Hell's Horses 
+- Clan Wolf 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Wolf 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Wolf 
 

@@ -1,41 +1,47 @@
-# Templar TLR1-OE
+# Templar TLR1-OE 
 
-[Other Templar variants](../templar.md)
+[Other Templar variants](../templar.md) 
 
-## Templar TLR1-OE
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 263
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - ER PPC
-  - LRM 15 w/ Artemis IV × 2 (ammo: 40)
-  - Medium Pulse Laser × 2
-  - Small Laser
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE
-  - C3 Master
-- **Sources:** 3067 Unabridged, [Master Unit List](http://masterunitlist.info/Unit/Details/5708/templar-tlr1-oe)
-- **Battle Value:** 1865
+## Templar TLR1-OE 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 263 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - ER PPC 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 40) 
+  - Medium Pulse Laser × 2 
+  - Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+  - C3 Master 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5708/templar-tlr1-oe) 
+- **Battle Value:** 1865 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
+## Availability 
 
-### Jihad
-- Federated Suns
+### Civil War 
 
-### Early Republic
-- Federated Suns
+- Federated Commonwealth 
+- Federated Suns 
 
-### Late Republic
-- Federated Suns
+### Jihad 
 
-### Dark Ages
-- Federated Suns
+- Federated Suns 
+
+### Early Republic 
+
+- Federated Suns 
+
+### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
 

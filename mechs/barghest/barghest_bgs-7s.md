@@ -1,36 +1,41 @@
-# Barghest BGS-7S
+# Barghest BGS-7S 
 
-[Other Barghest variants](../barghest.md)
+[Other Barghest variants](../barghest.md) 
 
-## Barghest BGS-7S
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3074)
-- **Chassis:** 70 tons Quad
-- **Movement:** 5 / 8, XL
-- **Armor:** 233 (Light Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - Light PPC × 2
-  - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM)
-  - Medium VSP Laser × 2
-  - Medium Pulse Laser
-  - ER Flamer
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/255/barghest-bgs-7s)
-- **Battle Value:** 1507
+## Barghest BGS-7S 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 70 tons Quad 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 233 (Light Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Light PPC × 2 
+  - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM) 
+  - Medium VSP Laser × 2 
+  - Medium Pulse Laser 
+  - ER Flamer 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/255/barghest-bgs-7s) 
+- **Battle Value:** 1507 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

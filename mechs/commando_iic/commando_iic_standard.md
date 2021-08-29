@@ -1,48 +1,55 @@
-# Commando IIC (Standard)
+# Commando IIC (Standard) 
 
-[Other Commando IIC variants](../commando_iic.md)
+[Other Commando IIC variants](../commando_iic.md) 
 
-## Commando IIC (Standard)
-- **Role:** Striker
-- **Tech Base:** Clan (2856)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 6 / 9
-- **Armor:** 72
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser × 2
-  - SRM 6 (ammo: 15)
-  - SRM 4 × 3 (ammo: 25)
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/678/commando-iic-standard)
-- **Battle Value:** 978
+## Commando IIC (Standard) 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (2856) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 6 / 9 
+- **Armor:** 72 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - SRM 6 (ammo: 15) 
+  - SRM 4 × 3 (ammo: 25) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/678/commando-iic-standard) 
+- **Battle Value:** 978 
 
-### Clan Invasion
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
+## Availability 
 
-### Civil War
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
+### Clan Invasion 
 
-### Jihad
-- Clan Goliath Scorpion
-- Clan Hell's Horses
-- Clan Ice Hellion
-- Escorpión Imperio
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
 
-### Early Republic
-- Escorpión Imperio
+### Civil War 
 
-### Late Republic
-- Escorpión Imperio
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
 
-### Dark Ages
-- Escorpión Imperio
-- Scorpion Empire
+### Jihad 
+
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
 

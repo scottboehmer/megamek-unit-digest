@@ -1,54 +1,57 @@
-# Marauder MAD-7R
+# Marauder MAD-7R 
 
-[Other Marauder variants](../marauder.md)
+[Other Marauder variants](../marauder.md) 
 
-## Marauder MAD-7R
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3103)
-- **Chassis:** 75 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 224 (Ferro Fibrous)
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - ER PPC × 2
-  - Light Gauss Rifle (ammo: 32)
-  - Medium X-Pulse Laser × 2
-- **Equipment:**
-  - Guardian ECM Suite
-  - CASE II
-- **Sources:** Dark Age, [Master Unit List](http://masterunitlist.info/Unit/Details/7532/marauder-mad-7r)
-- **Battle Value:** 1832
+## Marauder MAD-7R 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3103) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Light Gauss Rifle (ammo: 32) 
+  - Medium X-Pulse Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE II 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7532/marauder-mad-7r) 
+- **Battle Value:** 1832 
 
-### Late Republic
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+## Availability 
 
-### Dark Ages
-- Capellan Confederation
-- Draconis Combine
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Lyran Commonwealth
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Late Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 

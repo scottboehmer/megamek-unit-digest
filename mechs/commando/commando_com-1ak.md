@@ -1,32 +1,37 @@
-# Commando COM-1AK
+# Commando COM-1AK 
 
-[Other Commando variants](../commando.md)
+[Other Commando variants](../commando.md) 
 
-## Commando COM-1AK
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3072)
-- **Chassis:** 25 tons
-- **Movement:** 6 / 9
-- **Armor:** 80 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Medium Laser × 2
-  - Small Laser
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak)
-- **Battle Value:** 549
+## Commando COM-1AK 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 25 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 80 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Small Laser 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak) 
+- **Battle Value:** 549 
 
-### Jihad
-- Lyran Alliance
+## Availability 
 
-### Early Republic
-- Lyran Commonwealth
+### Jihad 
 
-### Late Republic
-- Lyran Commonwealth
+- Lyran Alliance 
 
-### Dark Ages
-- Lyran Commonwealth
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

@@ -1,32 +1,35 @@
-# Spider SDR-8Xr
+# Spider SDR-8Xr 
 
-[Other Spider variants](../spider.md)
+[Other Spider variants](../spider.md) 
 
-## Spider SDR-8Xr
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3103)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-  - **Jumping:** 10
-- **Armor:** 96
-- **Heat Sinks:** 10 (23)
-- **Weapons:**
-  - ER Small Laser × 5
-  - Sword
-- **Equipment:**
-  - Partial Wing
-- **Sources:** RS 3145 NT NU, [Master Unit List](http://masterunitlist.info/Unit/Details/6933/spider-sdr-8xr)
-- **Battle Value:** 754
+## Spider SDR-8Xr 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3103) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 10 
+- **Armor:** 96 
+- **Heat Sinks:** 10 (23) 
+- **Weapons:** 
+  - ER Small Laser × 5 
+  - Sword 
+- **Equipment:** 
+  - Partial Wing 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933/spider-sdr-8xr) 
+- **Battle Value:** 754 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+## Availability 
 
-### Dark Ages
-- Draconis Combine
-- Mercenary
-- Republic of the Sphere
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+- Republic of the Sphere 
 

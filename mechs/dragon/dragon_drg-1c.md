@@ -1,37 +1,43 @@
-# Dragon DRG-1C
+# Dragon DRG-1C 
 
-[Other Dragon variants](../dragon.md)
+[Other Dragon variants](../dragon.md) 
 
-## Dragon DRG-1C
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2752)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8
-- **Armor:** 201
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - LRM 10 (ammo: 24)
-  - Medium Laser × 2
-  - AC/2 (ammo: 45)
-- **Sources:** TRO 3039 - Star League, [Master Unit List](http://masterunitlist.info/Unit/Details/908/dragon-drg-1c)
-- **Battle Value:** 1215
+## Dragon DRG-1C 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2752) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 201 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 10 (ammo: 24) 
+  - Medium Laser × 2 
+  - AC/2 (ammo: 45) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/908/dragon-drg-1c) 
+- **Battle Value:** 1215 
 
-### Star League
-- Draconis Combine
+## Availability 
 
-### Early Succession Wars
-- Draconis Combine
+### Star League 
 
-### Late Succession Wars - LosTech
-- Draconis Combine
+- Draconis Combine 
 
-### Late Succession Wars - Renaissance
-- Draconis Combine
-- Free Rasalhague Republic
+### Early Succession Wars 
 
-### Clan Invasion
-- Draconis Combine
-- Free Rasalhague Republic
+- Draconis Combine 
+
+### Late Succession Wars - LosTech 
+
+- Draconis Combine 
+
+### Late Succession Wars - Renaissance 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+
+### Clan Invasion 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
 

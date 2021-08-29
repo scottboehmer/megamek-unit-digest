@@ -1,77 +1,84 @@
-# Sunder SD1-O
+# Sunder SD1-O 
 
-[Other Sunder variants](../sunder.md)
+[Other Sunder variants](../sunder.md) 
 
-## Sunder SD1-O
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 90 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 264
-- **Heat Sinks:** 15 (30)
-- **Weapons:**
-  - AC/20 (ammo: 10)
-  - Large Laser × 2
-  - Medium Laser × 2
-  - SRM 4 × 3 (ammo: 50)
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/3123/sunder-sd1-o)
-- **Battle Value:** 1747
+## Sunder SD1-O 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 90 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 264 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - AC/20 (ammo: 10) 
+  - Large Laser × 2 
+  - Medium Laser × 2 
+  - SRM 4 × 3 (ammo: 50) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3123/sunder-sd1-o) 
+- **Battle Value:** 1747 
 
-### Clan Invasion
-- Capellan Confederation
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- St. Ives Compact
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Capellan Confederation
-- Draconis Combine
-- Federated Commonwealth
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- St. Ives Compact
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
 
-### Early Republic
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Capellan Confederation
-- Draconis Combine
-- Federated Suns
-- Lyran Commonwealth
-- Mercenary
-- Republic of the Sphere
+### Jihad 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
 

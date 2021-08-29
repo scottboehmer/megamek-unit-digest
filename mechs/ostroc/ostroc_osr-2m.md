@@ -1,37 +1,44 @@
-# Ostroc OSR-2M
+# Ostroc OSR-2M 
 
-[Other Ostroc variants](../ostroc.md)
+[Other Ostroc variants](../ostroc.md) 
 
-## Ostroc OSR-2M
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (2793)
-- **Chassis:** 60 tons
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 144
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - Large Laser × 2
-- **Sources:** TRO 3039 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/2353/ostroc-osr-2m)
-- **Battle Value:** 1239
+## Ostroc OSR-2M 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2793) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 144 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Large Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2353/ostroc-osr-2m) 
+- **Battle Value:** 1239 
 
-### Early Succession Wars
-- Free Worlds League
+## Availability 
 
-### Late Succession Wars - LosTech
-- Free Worlds League
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Free Worlds League
+- Free Worlds League 
 
-### Clan Invasion
-- Free Worlds League
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Free Worlds League
+- Free Worlds League 
 
-### Jihad
-- Free Worlds League
+### Late Succession Wars - Renaissance 
+
+- Free Worlds League 
+
+### Clan Invasion 
+
+- Free Worlds League 
+
+### Civil War 
+
+- Free Worlds League 
+
+### Jihad 
+
+- Free Worlds League 
 

@@ -1,36 +1,42 @@
-# Hatamoto-Hi HTM-C
+# Hatamoto-Hi HTM-C 
 
-[Other Hatamoto-Hi variants](../hatamoto-hi.md)
+[Other Hatamoto-Hi variants](../hatamoto-hi.md) 
 
-## Hatamoto-Hi HTM-C
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 80 tons (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 247
-- **Heat Sinks:** 18 (18)
-- **Weapons:**
-  - PPC × 2
-  - Medium Pulse Laser × 4
-- **Equipment:**
-  - C3 Slave
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1404/hatamoto-hi-htm-c)
-- **Battle Value:** 1627
+## Hatamoto-Hi HTM-C 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 247 
+- **Heat Sinks:** 18 (18) 
+- **Weapons:** 
+  - PPC × 2 
+  - Medium Pulse Laser × 4 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1404/hatamoto-hi-htm-c) 
+- **Battle Value:** 1627 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
 

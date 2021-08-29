@@ -1,43 +1,50 @@
-# O-Bakemono OBK-M10
+# O-Bakemono OBK-M10 
 
-[Other O-Bakemono variants](../o-bakemono.md)
+[Other O-Bakemono variants](../o-bakemono.md) 
 
-## O-Bakemono OBK-M10
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3058)
-- **Chassis:** 80 tons
-- **Movement:** 4 / 6, XL
-- **Armor:** 224
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Arrow IV × 2 (ammo: 30)
-  - Medium Laser × 2
-  - Small Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3058 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/2310/o-bakemono-obk-m10)
-- **Battle Value:** 1659
+## O-Bakemono OBK-M10 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 80 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Arrow IV × 2 (ammo: 30) 
+  - Medium Laser × 2 
+  - Small Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2310/o-bakemono-obk-m10) 
+- **Battle Value:** 1659 
 
-### Clan Invasion
-- ComStar
-- Draconis Combine
+## Availability 
 
-### Civil War
-- ComStar
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- ComStar
-- Draconis Combine
+- ComStar 
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- ComStar 
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- ComStar 
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

@@ -1,40 +1,45 @@
-# Osprey OSP-26
+# Osprey OSP-26 
 
-[Other Osprey variants](../osprey.md)
+[Other Osprey variants](../osprey.md) 
 
-## Osprey OSP-26
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3076)
-- **Chassis:** 55 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 4
-- **Armor:** 176
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-  - MML 7 (ammo: 17 LRM, 14 SRM)
-  - ER Medium Laser × 2
-  - ER Small Laser
-- **Equipment:**
-  - Beagle Active Probe
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2346/osprey-osp-26)
-- **Battle Value:** 1541
+## Osprey OSP-26 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - MML 7 (ammo: 17 LRM, 14 SRM) 
+  - ER Medium Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2346/osprey-osp-26) 
+- **Battle Value:** 1541 
 
-### Jihad
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Capellan Confederation
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Capellan Confederation
-- Republic of the Sphere
+- Word of Blake 
 
-### Dark Ages
-- Capellan Confederation
-- Republic of the Sphere
+### Early Republic 
+
+- Capellan Confederation 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Capellan Confederation 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Republic of the Sphere 
 

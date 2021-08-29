@@ -1,36 +1,41 @@
-# Shadow Cat II 2
+# Shadow Cat II 2 
 
-[Other Shadow Cat II variants](../shadow_cat_ii.md)
+[Other Shadow Cat II variants](../shadow_cat_ii.md) 
 
-## Shadow Cat II 2
-- **Role:** Skirmisher
-- **Tech Base:** Clan Mixed (3077)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 6 / 9, XL
-  - **Jumping:** 7
-- **Armor:** 144 (Ferro Fibrous)
-- **Heat Sinks:** 11 (25)
-- **Weapons:**
-  - ER Large Pulse Laser w/ Laser Insulator
-  - ER Medium Pulse Laser w/ Laser Insulator
-  - LRM 10 × 2 (ammo: 24)
-- **Equipment:**
-  - Partial Wing
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2893/shadow-cat-ii-2)
-- **Battle Value:** 2106
+## Shadow Cat II 2 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Clan Mixed (3077) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 7 
+- **Armor:** 144 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (25) 
+- **Weapons:** 
+  - ER Large Pulse Laser w/ Laser Insulator 
+  - ER Medium Pulse Laser w/ Laser Insulator 
+  - LRM 10 × 2 (ammo: 24) 
+- **Equipment:** 
+  - Partial Wing 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2893/shadow-cat-ii-2) 
+- **Battle Value:** 2106 
 
-### Jihad
-- Clan Jade Falcon
+## Availability 
 
-### Early Republic
-- Clan Jade Falcon
+### Jihad 
 
-### Late Republic
-- Clan Jade Falcon
+- Clan Jade Falcon 
 
-### Dark Ages
-- Clan Jade Falcon
+### Early Republic 
+
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
 

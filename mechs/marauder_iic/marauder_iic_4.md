@@ -1,40 +1,45 @@
-# Marauder IIC 4
+# Marauder IIC 4 
 
-[Other Marauder IIC variants](../marauder_iic.md)
+[Other Marauder IIC variants](../marauder_iic.md) 
 
-## Marauder IIC 4
-- **Role:** Sniper
-- **Tech Base:** Clan (3070)
-- **Chassis:** 85 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-  - **Jumping:** 3
-- **Armor:** 240
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - HAG 40 × 2 (ammo: 30)
-- **Equipment:**
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2068/marauder-iic-4)
-- **Battle Value:** 3447
+## Marauder IIC 4 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (3070) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 3 
+- **Armor:** 240 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - HAG 40 × 2 (ammo: 30) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068/marauder-iic-4) 
+- **Battle Value:** 3447 
 
-### Jihad
-- Clan Ghost Bear
-- Clan Nova Cat
+## Availability 
 
-### Early Republic
-- Clan Nova Cat
-- Rasalhague Dominion
-- Raven Alliance
+### Jihad 
 
-### Late Republic
-- Clan Nova Cat
-- Rasalhague Dominion
-- Raven Alliance
+- Clan Ghost Bear 
+- Clan Nova Cat 
 
-### Dark Ages
-- Clan Nova Cat
-- Rasalhague Dominion
-- Raven Alliance
+### Early Republic 
+
+- Clan Nova Cat 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### Late Republic 
+
+- Clan Nova Cat 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Clan Nova Cat 
+- Rasalhague Dominion 
+- Raven Alliance 
 

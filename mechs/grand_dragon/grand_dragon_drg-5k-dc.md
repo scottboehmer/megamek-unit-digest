@@ -1,41 +1,48 @@
-# Grand Dragon DRG-5K-DC
+# Grand Dragon DRG-5K-DC 
 
-[Other Grand Dragon variants](../grand_dragon.md)
+[Other Grand Dragon variants](../grand_dragon.md) 
 
-## Grand Dragon DRG-5K-DC
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3050)
-- **Chassis:** 60 tons
-- **Movement:** 6 / 9, XL
-- **Armor:** 160
-- **Heat Sinks:** 11 (22)
-- **Weapons:**
-  - ER PPC
-  - LRM 10 (ammo: 24)
-  - Medium Laser × 2
-- **Equipment:**
-  - Command Console
-  - CASE
-- **Sources:** TRO 3050 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/4230/grand-dragon-drg-5k-dc)
-- **Battle Value:** 1322
+## Grand Dragon DRG-5K-DC 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 60 tons 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 160 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER PPC 
+  - LRM 10 (ammo: 24) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - Command Console 
+  - CASE 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4230/grand-dragon-drg-5k-dc) 
+- **Battle Value:** 1322 
 
-### Clan Invasion
-- Draconis Combine
+## Availability 
 
-### Civil War
-- Draconis Combine
+### Clan Invasion 
 
-### Jihad
-- Draconis Combine
+- Draconis Combine 
 
-### Early Republic
-- Draconis Combine
+### Civil War 
 
-### Late Republic
-- Draconis Combine
+- Draconis Combine 
 
-### Dark Ages
-- Draconis Combine
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

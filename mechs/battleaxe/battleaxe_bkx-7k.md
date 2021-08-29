@@ -1,44 +1,51 @@
-# BattleAxe BKX-7K
+# BattleAxe BKX-7K 
 
-[Other BattleAxe variants](../battleaxe.md)
+[Other BattleAxe variants](../battleaxe.md) 
 
-## BattleAxe BKX-7K
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (2475)
-- **Chassis:** 70 tons
-- **Movement:** 4 / 6
-  - **Jumping:** 4
-- **Armor:** 144
-- **Heat Sinks:** 15 (15)
-- **Weapons:**
-  - PPC × 2
-  - SRM 6 (ammo: 15)
-  - LRM 5 × 2 (ammo: 24)
-- **Sources:** TRO 3075, [Master Unit List](http://masterunitlist.info/Unit/Details/277/battleaxe-bkx-7k)
-- **Battle Value:** 1329
+## BattleAxe BKX-7K 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2475) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - PPC × 2 
+  - SRM 6 (ammo: 15) 
+  - LRM 5 × 2 (ammo: 24) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/277/battleaxe-bkx-7k) 
+- **Battle Value:** 1329 
 
-### Star League
-- Federated Suns
+## Availability 
 
-### Early Succession Wars
-- Federated Suns
+### Star League 
 
-### Jihad
-- Federated Suns
-- Mercenary
+- Federated Suns 
 
-### Early Republic
-- Federated Suns
-- Mercenary
+### Early Succession Wars 
 
-### Late Republic
-- Federated Suns
-- Filtvelt Coalition
-- Mercenary
+- Federated Suns 
 
-### Dark Ages
-- Filtvelt Coalition
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Mercenary 
+
+### Early Republic 
+
+- Federated Suns 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Mercenary 
 

@@ -1,53 +1,58 @@
-# Pandarus LFA-1A
+# Pandarus LFA-1A 
 
-[Other Pandarus variants](../pandarus.md)
+[Other Pandarus variants](../pandarus.md) 
 
-## Pandarus LFA-1A
-- **Role:** Missile Boat
-- **Tech Base:** Inner Sphere (3083)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6
-- **Armor:** 208
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ELRM 10 × 3 (ammo: 54)
-  - ER Medium Laser
-- **Equipment:**
-  - CASE II
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783/pandarus-lfa-1a)
-- **Battle Value:** 1589
+## Pandarus LFA-1A 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 208 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ELRM 10 × 3 (ammo: 54) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - CASE II 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783/pandarus-lfa-1a) 
+- **Battle Value:** 1589 
 
-### Jihad
-- Free Worlds League
+## Availability 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Jihad 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+- Free Worlds League 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Rim Commonality
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 

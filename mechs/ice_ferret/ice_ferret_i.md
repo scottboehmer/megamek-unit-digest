@@ -1,42 +1,46 @@
-# Ice Ferret I
+# Ice Ferret I 
 
-[Other Ice Ferret variants](../ice_ferret.md)
+[Other Ice Ferret variants](../ice_ferret.md) 
 
-## Ice Ferret "Fenris" I
-- **Role:** Scout
-- **Tech Base:** Clan Mixed (3099)
-- **Chassis:** 45 tons (Endo Steel)
-- **Movement:** 8 / 12, XL
-- **Armor:** 144 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - SRM 6 × 2 (ammo: 30)
-  - ER Small Laser
-- **Equipment:**
-  - Inner Sphere Bloodhound Active Probe
-  - Inner Sphere M-Pod × 2
-  - CASE
-- **Sources:** Rec Guide 4 - Early Republic, [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i)
-- **Battle Value:** 1094
+## Ice Ferret "Fenris" I 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Clan Mixed (3099) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+- **Armor:** 144 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - SRM 6 × 2 (ammo: 30) 
+  - ER Small Laser 
+- **Equipment:** 
+  - Inner Sphere Bloodhound Active Probe 
+  - Inner Sphere M-Pod × 2 
+  - CASE 
+- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i) 
+- **Battle Value:** 1094 
 
-### Early Republic
-- Kell Hounds
-- Lyran Commonwealth
-- Wolf's Dragoons
+## Availability 
 
-### Late Republic
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
-- Kell Hounds
-- Wolf's Dragoons
+### Early Republic 
 
-### Dark Ages
-- Clan Hell's Horses
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
+- Kell Hounds 
+- Lyran Commonwealth 
+- Wolf's Dragoons 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 

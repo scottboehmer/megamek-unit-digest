@@ -1,60 +1,67 @@
-# Perseus P1C
+# Perseus P1C 
 
-[Other Perseus variants](../perseus.md)
+[Other Perseus variants](../perseus.md) 
 
-## Perseus P1C
-- **Role:** Brawler
-- **Tech Base:** Inner Sphere (3058)
-- **Chassis:** 75 tons (Endo Steel)
-- **Movement:** 4 / 6, XL
-- **Armor:** 224
-- **Heat Sinks:** 14 (28)
-- **Weapons:**
-  - Ultra AC/10 (ammo: 30)
-  - Light Gauss Rifle (ammo: 32)
-  - ER Medium Laser × 3
-  - Medium Pulse Laser
-  - Streak SRM 2 (ammo: 50)
-- **Sources:** TRO 3067, [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c)
-- **Battle Value:** 1644
+## Perseus P1C 
 
-## Availability
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 224 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 30) 
+  - Light Gauss Rifle (ammo: 32) 
+  - ER Medium Laser × 3 
+  - Medium Pulse Laser 
+  - Streak SRM 2 (ammo: 50) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c) 
+- **Battle Value:** 1644 
 
-### Clan Invasion
-- Free Worlds League
+## Availability 
 
-### Civil War
-- Free Worlds League
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Escorpión Imperio
-- Free Worlds League
-- Word of Blake
+- Free Worlds League 
 
-### Early Republic
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+### Civil War 
 
-### Late Republic
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
+- Free Worlds League 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Tamarind-Abbey
-- Escorpión Imperio
-- Free Worlds League
-- Free Worlds League - Non-Aligned Worlds
-- Marik-Stewart Commonwealth
-- Oriente Protectorate
-- Republic of the Sphere
-- Scorpion Empire
+### Jihad 
+
+- Escorpión Imperio 
+- Free Worlds League 
+- Word of Blake 
+
+### Early Republic 
+
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Republic of the Sphere 
+- Scorpion Empire 
 

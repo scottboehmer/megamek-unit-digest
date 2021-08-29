@@ -1,37 +1,41 @@
-# Rook NH-1A
+# Rook NH-1A 
 
-[Other Rook variants](../rook.md)
+[Other Rook variants](../rook.md) 
 
-## Rook NH-1A
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3074)
-- **Chassis:** 55 tons
-- **Movement:** 3 / 5
-  - **Jumping:** 3
-- **Armor:** 160 (Primitive)
-- **Cockpit:** Primitive
-- **Heat Sinks:** 14 (14)
-- **Weapons:**
-  - PPC
-  - Medium Laser × 6
-  - Small Laser
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2740/rook-nh-1a)
-- **Battle Value:** 1197
+## Rook NH-1A 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 55 tons 
+- **Movement:** 3 / 5 
+  - **Jumping:** 3 
+- **Armor:** 160 (Primitive) 
+- **Cockpit:** Primitive 
+- **Heat Sinks:** 14 (14) 
+- **Weapons:** 
+  - PPC 
+  - Medium Laser × 6 
+  - Small Laser 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2740/rook-nh-1a) 
+- **Battle Value:** 1197 
 
-### Jihad
-- Federated Suns
-- Free Worlds League
-- Mercenary
+## Availability 
 
-### Early Republic
-- Duchy of Tamarind-Abbey
-- Federated Suns
-- Mercenary
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Duchy of Tamarind-Abbey
-- Mercenary
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
+
+### Early Republic 
+
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Duchy of Tamarind-Abbey 
+- Mercenary 
 

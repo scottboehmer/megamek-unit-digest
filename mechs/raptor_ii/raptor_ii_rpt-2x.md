@@ -1,37 +1,42 @@
-# Raptor II RPT-2X
+# Raptor II RPT-2X 
 
-[Other Raptor II variants](../raptor_ii.md)
+[Other Raptor II variants](../raptor_ii.md) 
 
-## Raptor II RPT-2X
-- **Role:** Scout
-- **Tech Base:** Inner Sphere (3073)
-- **Chassis:** 40 tons (Endo Steel)
-- **Movement:** 7 / 11 (14), XL
-- **Armor:** 118 (Light Ferro Fibrous)
-- **Cockpit:** Small
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - Medium VSP Laser × 2
-  - BattleMech Taser (ammo: 10)
-- **Equipment:**
-  - Guardian ECM Suite
-  - Void-Signature System
-  - MASC
-  - CASE
-- **Sources:** Jihad, [Master Unit List](http://masterunitlist.info/Unit/Details/2657/raptor-ii-rpt-2x)
-- **Battle Value:** 896
+## Raptor II RPT-2X 
 
-## Availability
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 118 (Light Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium VSP Laser × 2 
+  - BattleMech Taser (ammo: 10) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Void-Signature System 
+  - MASC 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2657/raptor-ii-rpt-2x) 
+- **Battle Value:** 896 
 
-### Jihad
-- Word of Blake
+## Availability 
 
-### Early Republic
-- Republic of the Sphere
+### Jihad 
 
-### Late Republic
-- Republic of the Sphere
+- Word of Blake 
 
-### Dark Ages
-- Republic of the Sphere
+### Early Republic 
+
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
 

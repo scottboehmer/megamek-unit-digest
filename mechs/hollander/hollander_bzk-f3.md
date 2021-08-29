@@ -1,57 +1,64 @@
-# Hollander BZK-F3
+# Hollander BZK-F3 
 
-[Other Hollander variants](../hollander.md)
+[Other Hollander variants](../hollander.md) 
 
-## Hollander BZK-F3
-- **Role:** Sniper
-- **Tech Base:** Inner Sphere (3054)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8
-- **Armor:** 71 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - Gauss Rifle (ammo: 16)
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1536/hollander-bzk-f3)
-- **Battle Value:** 953
+## Hollander BZK-F3 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3054) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 71 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1536/hollander-bzk-f3) 
+- **Battle Value:** 953 
 
-### Clan Invasion
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Lyran Commonwealth
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Civil War
-- Federated Commonwealth
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+### Clan Invasion 
 
-### Jihad
-- Federated Suns
-- Free Rasalhague Republic
-- Kell Hounds
-- Lyran Alliance
-- Mercenary
-- Wolf's Dragoons
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Early Republic
-- Lyran Commonwealth
-- Mercenary
+### Civil War 
 
-### Late Republic
-- Lyran Commonwealth
-- Mercenary
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Dark Ages
-- Lyran Commonwealth
-- Mercenary
+### Jihad 
+
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
 

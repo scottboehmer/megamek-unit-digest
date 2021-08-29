@@ -1,67 +1,77 @@
-# Locust IIC 2
+# Locust IIC 2 
 
-[Other Locust IIC variants](../locust_iic.md)
+[Other Locust IIC variants](../locust_iic.md) 
 
-## Locust IIC 2
-- **Role:** Striker
-- **Tech Base:** Clan (2837)
-- **Chassis:** 25 tons (Endo Steel)
-- **Movement:** 8 / 12
-- **Armor:** 76 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER Medium Laser
-  - Streak SRM 2 × 4 (ammo: 50)
-- **Equipment:**
-  - CASE
-- **Sources:** Recognition Guide:ilClan #16 - Succession Wars, [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2)
-- **Battle Value:** 937
+## Locust IIC 2 
 
-## Availability
+- **Role:** Striker 
+- **Tech Base:** Clan (2837) 
+- **Chassis:** 25 tons (Endo Steel) 
+- **Movement:** 8 / 12 
+- **Armor:** 76 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - Streak SRM 2 × 4 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Recognition Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
+- **Battle Value:** 937 
 
-### Early Succession Wars
-- Clan Ice Hellion
-- Clan Jade Falcon
+## Availability 
 
-### Late Succession Wars - LosTech
-- Clan Cloud Cobra
-- Clan Ice Hellion
-- Clan Jade Falcon
+### Early Succession Wars 
 
-### Late Succession Wars - Renaissance
-- Clan Cloud Cobra
-- Clan Ice Hellion
-- Clan Jade Falcon
+- Clan Ice Hellion 
+- Clan Jade Falcon 
 
-### Clan Invasion
-- Clan Cloud Cobra
-- Clan Ice Hellion
-- Clan Jade Falcon
+### Late Succession Wars - LosTech 
 
-### Civil War
-- Clan Cloud Cobra
-- Clan Ice Hellion
-- Clan Jade Falcon
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
 
-### Jihad
-- Clan Cloud Cobra
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Escorpión Imperio
+### Late Succession Wars - Renaissance 
 
-### Early Republic
-- Clan Jade Falcon
-- Escorpión Imperio
-- Lyran Commonwealth
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
 
-### Late Republic
-- Clan Jade Falcon
-- Escorpión Imperio
-- Lyran Commonwealth
+### Clan Invasion 
 
-### Dark Ages
-- Clan Jade Falcon
-- Escorpión Imperio
-- Lyran Commonwealth
-- Scorpion Empire
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+
+### Civil War 
+
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+
+### Jihad 
+
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Escorpión Imperio 
+- Lyran Commonwealth 
+- Scorpion Empire 
 

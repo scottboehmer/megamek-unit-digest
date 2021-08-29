@@ -1,49 +1,55 @@
-# Quickdraw QKD-8K
+# Quickdraw QKD-8K 
 
-[Other Quickdraw variants](../quickdraw.md)
+[Other Quickdraw variants](../quickdraw.md) 
 
-## Quickdraw QKD-8K
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 60 tons (Endo Steel)
-- **Movement:** 5 / 8
-  - **Jumping:** 5
-- **Armor:** 152 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - MRM 30 (ammo: 16)
-  - ER Medium Laser × 4
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/2616/quickdraw-qkd-8k)
-- **Battle Value:** 1583
+## Quickdraw QKD-8K 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - MRM 30 (ammo: 16) 
+  - ER Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2616/quickdraw-qkd-8k) 
+- **Battle Value:** 1583 
 
-### Civil War
-- Draconis Combine
-- Free Rasalhague Republic
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+## Availability 
 
-### Jihad
-- Draconis Combine
-- Free Rasalhague Republic
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
+### Civil War 
 
-### Early Republic
-- Draconis Combine
-- Mercenary
-- Rasalhague Dominion
-- Republic of the Sphere
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
 
-### Late Republic
-- Draconis Combine
-- Mercenary
+### Jihad 
 
-### Dark Ages
-- Draconis Combine
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Draconis Combine 
+- Mercenary 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Draconis Combine 
+- Mercenary 
+
+### Dark Ages 
+
+- Draconis Combine 
 

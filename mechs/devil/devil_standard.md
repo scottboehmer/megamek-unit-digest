@@ -1,56 +1,65 @@
-# Devil (Standard)
+# Devil (Standard) 
 
-[Other Devil variants](../devil.md)
+[Other Devil variants](../devil.md) 
 
-## Devil (Standard)
-- **Role:** Sniper
-- **Tech Base:** Clan (2911)
-- **Chassis:** 30 tons (Endo Steel)
-- **Movement:** 10 / 15, XL
-- **Armor:** 96 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - ER PPC
-- **Equipment:**
-  - Targeting Computer
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7571/devil-standard)
-- **Battle Value:** 1691
+## Devil (Standard) 
 
-## Availability
+- **Role:** Sniper 
+- **Tech Base:** Clan (2911) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 10 / 15, XL 
+- **Armor:** 96 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+- **Equipment:** 
+  - Targeting Computer 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7571/devil-standard) 
+- **Battle Value:** 1691 
 
-### Late Succession Wars - LosTech
-- Clan Ice Hellion
-- Clan Snow Raven
+## Availability 
 
-### Late Succession Wars - Renaissance
-- Clan Ice Hellion
-- Clan Snow Raven
+### Late Succession Wars - LosTech 
 
-### Clan Invasion
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Snow Raven
-- Clan Steel Viper
+- Clan Ice Hellion 
+- Clan Snow Raven 
 
-### Civil War
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Snow Raven
-- Clan Steel Viper
+### Late Succession Wars - Renaissance 
 
-### Jihad
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Snow Raven
-- Clan Steel Viper
-- Society
+- Clan Ice Hellion 
+- Clan Snow Raven 
 
-### Early Republic
-- Raven Alliance
+### Clan Invasion 
 
-### Late Republic
-- Raven Alliance
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
 
-### Dark Ages
-- Raven Alliance
+### Civil War 
+
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
+### Jihad 
+
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+- Society 
+
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Raven Alliance 
+
+### Dark Ages 
+
+- Raven Alliance 
 

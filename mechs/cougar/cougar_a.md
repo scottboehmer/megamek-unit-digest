@@ -1,54 +1,61 @@
-# Cougar A
+# Cougar A 
 
-[Other Cougar variants](../cougar.md)
+[Other Cougar variants](../cougar.md) 
 
-## Cougar A
-- **Role:** Missile Boat
-- **Tech Base:** Clan (3058)
-- **Chassis:** 35 tons (Endo Steel)
-- **Movement:** 5 / 8, XL
-- **Armor:** 105 (Ferro Fibrous)
-- **Heat Sinks:** 10 (20)
-- **Weapons:**
-  - LRM 20 w/ Artemis IV × 2 (ammo: 24)
-  - ER Medium Laser × 2
-  - Small Pulse Laser
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3060, [Master Unit List](http://masterunitlist.info/Unit/Details/704/cougar-a)
-- **Battle Value:** 1697
+## Cougar A 
 
-## Availability
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3058) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 105 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
+  - ER Medium Laser × 2 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/704/cougar-a) 
+- **Battle Value:** 1697 
 
-### Clan Invasion
-- Clan Coyote
-- Clan Jade Falcon
-- Clan Smoke Jaguar
-- Clan Steel Viper
+## Availability 
 
-### Civil War
-- Clan Coyote
-- Clan Jade Falcon
-- Clan Steel Viper
+### Clan Invasion 
 
-### Jihad
-- Clan Coyote
-- Clan Ice Hellion
-- Clan Jade Falcon
-- Clan Steel Viper
+- Clan Coyote 
+- Clan Jade Falcon 
+- Clan Smoke Jaguar 
+- Clan Steel Viper 
 
-### Early Republic
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
+### Civil War 
 
-### Late Republic
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
+- Clan Coyote 
+- Clan Jade Falcon 
+- Clan Steel Viper 
 
-### Dark Ages
-- Clan Jade Falcon
-- Clan Wolf
-- Clan Wolf-in-Exile
+### Jihad 
+
+- Clan Coyote 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Steel Viper 
+
+### Early Republic 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 

@@ -1,23 +1,25 @@
-# Hammerhands HMH-3D (Kessem)
+# Hammerhands HMH-3D (Kessem) 
 
-[Other Hammerhands variants](../hammerhands.md)
+[Other Hammerhands variants](../hammerhands.md) 
 
-## Hammerhands HMH-3D (Kessem)
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (2725)
-- **Chassis:** 75 tons
-- **Movement:** 3 / 5
-- **Armor:** 216
-- **Heat Sinks:** 16 (16)
-- **Weapons:**
-  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster)
-  - SRM 6 (ammo: 15)
-  - Medium Laser × 2
-- **Sources:** ER 2750, [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem)
-- **Battle Value:** 1413
+## Hammerhands HMH-3D (Kessem) 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2725) 
+- **Chassis:** 75 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 216 
+- **Heat Sinks:** 16 (16) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 2 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem) 
+- **Battle Value:** 1413 
 
-### Star League
-- Federated Suns
+## Availability 
+
+### Star League 
+
+- Federated Suns 
 

@@ -1,63 +1,69 @@
-# Hunchback HBK-5H
+# Hunchback HBK-5H 
 
-[Other Hunchback variants](../hunchback.md)
+[Other Hunchback variants](../hunchback.md) 
 
-## Hunchback HBK-5H
-- **Role:** Juggernaut
-- **Tech Base:** Inner Sphere (3064)
-- **Chassis:** 50 tons
-- **Movement:** 4 / 6
-- **Armor:** 152 (Ferro Fibrous)
-- **Heat Sinks:** 10 (10)
-- **Weapons:**
-  - AC/20 (ammo: 10)
-  - Medium Laser × 2
-  - Rocket 20 × 3
-- **Equipment:**
-  - CASE
-- **Sources:** TRO 3050 - Civil War, [Master Unit List](http://masterunitlist.info/Unit/Details/1560/hunchback-hbk-5h)
-- **Battle Value:** 1097
+## Hunchback HBK-5H 
 
-## Availability
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 50 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/20 (ammo: 10) 
+  - Medium Laser × 2 
+  - Rocket 20 × 3 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1560/hunchback-hbk-5h) 
+- **Battle Value:** 1097 
 
-### Civil War
-- Circinus Federation
-- Magistracy of Canopus
-- Marian Hegemony
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
+## Availability 
 
-### Jihad
-- Calderon Protectorate
-- Circinus Federation
-- Magistracy of Canopus
-- Marian Hegemony
-- Outworlds Alliance
-- Pirate
-- Taurian Concordat
+### Civil War 
 
-### Early Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
 
-### Late Republic
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+### Jihad 
 
-### Dark Ages
-- Calderon Protectorate
-- Filtvelt Coalition
-- Magistracy of Canopus
-- Marian Hegemony
-- Pirate
-- Taurian Concordat
+- Calderon Protectorate 
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

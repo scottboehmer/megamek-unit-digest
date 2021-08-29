@@ -1,80 +1,87 @@
-# Hercules HRC-LS-9001
+# Hercules HRC-LS-9001 
 
-[Other Hercules variants](../hercules.md)
+[Other Hercules variants](../hercules.md) 
 
-## Hercules HRC-LS-9001
-- **Role:** Skirmisher
-- **Tech Base:** Inner Sphere (3056)
-- **Chassis:** 70 tons
-- **Movement:** 5 / 8, XL
-- **Armor:** 197 (Ferro Fibrous)
-- **Heat Sinks:** 12 (24)
-- **Weapons:**
-  - ER PPC
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster)
-  - Medium Pulse Laser
-  - Streak SRM 2 × 2 (ammo: 50)
-  - Small Pulse Laser × 2
-- **Sources:** TRO 3055 - Clan Invasion, [Master Unit List](http://masterunitlist.info/Unit/Details/1484/hercules-hrc-ls-9001)
-- **Battle Value:** 1566
+## Hercules HRC-LS-9001 
 
-## Availability
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** 70 tons 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 197 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - Medium Pulse Laser 
+  - Streak SRM 2 × 2 (ammo: 50) 
+  - Small Pulse Laser × 2 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1484/hercules-hrc-ls-9001) 
+- **Battle Value:** 1566 
 
-### Clan Invasion
-- Free Worlds League
-- Kell Hounds
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+## Availability 
 
-### Civil War
-- Free Worlds League
-- Kell Hounds
-- Marian Hegemony
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+### Clan Invasion 
 
-### Jihad
-- Free Worlds League
-- Kell Hounds
-- Marian Hegemony
-- Mercenary
-- Wolf's Dragoons
-- Word of Blake
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Early Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League - Non-Aligned Worlds
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Civil War 
 
-### Late Republic
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+- Free Worlds League 
+- Kell Hounds 
+- Marian Hegemony 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
-### Dark Ages
-- Duchy of Andurien
-- Duchy of Tamarind-Abbey
-- Free Worlds League
-- Marian Hegemony
-- Marik-Stewart Commonwealth
-- Mercenary
-- Oriente Protectorate
-- Regulan Fiefs
-- Republic of the Sphere
-- Rim Commonality
+### Jihad 
+
+- Free Worlds League 
+- Kell Hounds 
+- Marian Hegemony 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
+
+### Early Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 
