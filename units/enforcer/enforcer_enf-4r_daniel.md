@@ -1,0 +1,36 @@
+# Enforcer ENF-4R (Daniel) 
+
+[Other Enforcer variants](../enforcer.md) 
+
+## Enforcer ENF-4R (Daniel) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3039) 
+- **Chassis:** 50 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 144 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - Prototype Gauss Rifle (ammo: 16) 
+  - Medium Laser × 2 
+  - Small Laser 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1247 
+
+## Availability 
+
+### Late Succession Wars - Renaissance (Unique) 
+
+- Federated Suns 
+
+### Clan Invasion (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Civil War (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
+

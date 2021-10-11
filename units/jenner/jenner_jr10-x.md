@@ -1,0 +1,29 @@
+# Jenner JR10-X 
+
+[Other Jenner variants](../jenner.md) 
+
+## Jenner JR10-X 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 35 tons (Composite) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 118 (Light Ferro Fibrous) 
+- **Gyroscope:** Compact Gyro 
+- **Cockpit:** Torso-Mounted 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Laser × 6 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Null-Signature System 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1269 
+
+## Availability 
+
+### Jihad (Unique) 
+
+- Draconis Combine 
+

@@ -1,14 +1,16 @@
 # ComStar / Late Republic 
 
-## 70 Tons 
+## ’Mechs 
 
-### [Avatar](../../mechs/avatar.md) 
+### 70 Tons 
 
-- [**Avatar AV1-OBLO**](../../mechs/avatar/avatar_av1-oblo.md) *Skirmisher (3127)* `C3i` , `ECM` , `Unique` 
+#### [Avatar](../../units/avatar.md) 
 
-## 75 Tons 
+- [**Avatar AV1-OBLO**](../../units/avatar/avatar_av1-oblo.md) *Skirmisher (3127)* `C3i` , `ECM` , `Unique` 
 
-### [Timber Wolf](../../mechs/timber_wolf.md) 
+### 75 Tons 
 
-- [**Timber Wolf BLO**](../../mechs/timber_wolf/timber_wolf_blo.md) *Skirmisher (3129)* `Active Probe` , `C3i` , `TAG` , `Unique` 
+#### [Timber Wolf](../../units/timber_wolf.md) 
+
+- [**Timber Wolf BLO**](../../units/timber_wolf/timber_wolf_blo.md) *Skirmisher (3129)* `Active Probe` , `C3i` , `TAG` , `Unique` 
 

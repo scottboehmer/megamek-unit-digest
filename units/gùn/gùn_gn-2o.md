@@ -1,0 +1,28 @@
+# Gùn GN-2O 
+
+[Other Gùn variants](../gùn.md) 
+
+## Gùn GN-2O 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3134) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 56 
+- **Gyroscope:** XL Gyro 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - ER Medium Laser × 2 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Battle Value:** 775 
+
+## Availability 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+

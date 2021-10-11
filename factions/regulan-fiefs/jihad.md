@@ -1,34 +1,36 @@
 # Regulan Fiefs / Jihad 
 
-## 10 Tons 
+## ’Mechs 
 
-### [Exo](../../mechs/exo.md) 
+### 10 Tons 
 
-- [**Exo HMX-1 HaulerMech**](../../mechs/exo/exo_hmx-1_haulermech.md) *Undefined (3080)* `IndustrialMech` 
-- [**Exo HMX-2 HaulerMech**](../../mechs/exo/exo_hmx-2_haulermech.md) *Undefined (3081)* `IndustrialMech` 
-- [**Exo HMX-3 HaulerMech**](../../mechs/exo/exo_hmx-3_haulermech.md) *Undefined (3081)* `IndustrialMech` 
+#### [Exo](../../units/exo.md) 
 
-## 15 Tons 
+- [**Exo HMX-1 HaulerMech**](../../units/exo/exo_hmx-1_haulermech.md) *Undefined (3080)* `IndustrialMech` 
+- [**Exo HMX-2 HaulerMech**](../../units/exo/exo_hmx-2_haulermech.md) *Undefined (3081)* `IndustrialMech` 
+- [**Exo HMX-3 HaulerMech**](../../units/exo/exo_hmx-3_haulermech.md) *Undefined (3081)* `IndustrialMech` 
 
-### [Patron](../../mechs/patron.md) 
+### 15 Tons 
 
-- [**Patron PTN-2M MilitiaMech**](../../mechs/patron/patron_ptn-2m_militiamech.md) *Ambusher (3083)* `IndustrialMech` 
+#### [Patron](../../units/patron.md) 
 
-## 50 Tons 
+- [**Patron PTN-2M MilitiaMech**](../../units/patron/patron_ptn-2m_militiamech.md) *Ambusher (3083)* `IndustrialMech` 
 
-### [Sarissa](../../mechs/sarissa.md) 
+### 50 Tons 
 
-- [**Sarissa MN2-A SecurityMech**](../../mechs/sarissa/sarissa_mn2-a_securitymech.md) *Juggernaut (3082)* `IndustrialMech` 
+#### [Sarissa](../../units/sarissa.md) 
 
-## 85 Tons 
+- [**Sarissa MN2-A SecurityMech**](../../units/sarissa/sarissa_mn2-a_securitymech.md) *Juggernaut (3082)* `IndustrialMech` 
 
-### [BattleMaster](../../mechs/battlemaster.md) 
+### 85 Tons 
 
-- [**BattleMaster BLR-6C**](../../mechs/battlemaster/battlemaster_blr-6c.md) *Juggernaut (3081)* `Command Console` 
+#### [BattleMaster](../../units/battlemaster.md) 
 
-## 100 Tons 
+- [**BattleMaster BLR-6C**](../../units/battlemaster/battlemaster_blr-6c.md) *Juggernaut (3081)* `Command Console` 
 
-### [Grand Titan](../../mechs/grand_titan.md) 
+### 100 Tons 
 
-- [**Grand Titan T-IT-N14R 'Vengeance'**](../../mechs/grand_titan/grand_titan_t-it-n14r_'vengeance'.md) *Missile Boat (3075)* `Unique` 
+#### [Grand Titan](../../units/grand_titan.md) 
+
+- [**Grand Titan T-IT-N14R 'Vengeance'**](../../units/grand_titan/grand_titan_t-it-n14r_vengeance.md) *Missile Boat (3075)* `Unique` 
 

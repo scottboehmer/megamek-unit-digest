@@ -1,42 +1,44 @@
 # ComStar / Dark Ages 
 
-## 30 Tons 
+## ’Mechs 
 
-### [Kit Fox](../../mechs/kit_fox.md) 
+### 30 Tons 
 
-- [**Kit Fox BLO**](../../mechs/kit_fox/kit_fox_blo.md) *Skirmisher (3138)* `C3i` , `Unique` 
+#### [Kit Fox](../../units/kit_fox.md) 
 
-## 60 Tons 
+- [**Kit Fox BLO**](../../units/kit_fox/kit_fox_blo.md) *Skirmisher (3138)* `C3i` , `Unique` 
 
-### [Mad Dog Mk III](../../mechs/mad_dog_mk_iii.md) 
+### 60 Tons 
 
-- [**Mad Dog Mk III BLO**](../../mechs/mad_dog_mk_iii/mad_dog_mk_iii_blo.md) *Missile Boat (3109)* `C3i` , `Unique` 
+#### [Mad Dog Mk III](../../units/mad_dog_mk_iii.md) 
 
-## 70 Tons 
+- [**Mad Dog Mk III BLO**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_blo.md) *Missile Boat (3109)* `C3i` , `Unique` 
 
-### [Avatar](../../mechs/avatar.md) 
+### 70 Tons 
 
-- [**Avatar AV1-OBLO**](../../mechs/avatar/avatar_av1-oblo.md) *Skirmisher (3127)* `C3i` , `ECM` , `Unique` 
+#### [Avatar](../../units/avatar.md) 
 
-### [Dragoon](../../mechs/dragoon.md) 
+- [**Avatar AV1-OBLO**](../../units/avatar/avatar_av1-oblo.md) *Skirmisher (3127)* `C3i` , `ECM` , `Unique` 
 
-- [**Dragoon AEM-05C**](../../mechs/dragoon/dragoon_aem-05c.md) *Brawler (3136)* `C3i` , `ECM` , `Unique` 
+#### [Dragoon](../../units/dragoon.md) 
 
-## 75 Tons 
+- [**Dragoon AEM-05C**](../../units/dragoon/dragoon_aem-05c.md) *Brawler (3136)* `C3i` , `ECM` , `Unique` 
 
-### [Timber Wolf](../../mechs/timber_wolf.md) 
+### 75 Tons 
 
-- [**Timber Wolf BLO**](../../mechs/timber_wolf/timber_wolf_blo.md) *Skirmisher (3129)* `Active Probe` , `C3i` , `TAG` , `Unique` 
+#### [Timber Wolf](../../units/timber_wolf.md) 
 
-## 80 Tons 
+- [**Timber Wolf BLO**](../../units/timber_wolf/timber_wolf_blo.md) *Skirmisher (3129)* `Active Probe` , `C3i` , `TAG` , `Unique` 
 
-### [Doloire](../../mechs/doloire.md) 
+### 80 Tons 
 
-- [**Doloire DLR-OBLO**](../../mechs/doloire/doloire_dlr-oblo.md) *Brawler (3140)* `C3i` , `TAG` , `Unique` 
+#### [Doloire](../../units/doloire.md) 
 
-## 85 Tons 
+- [**Doloire DLR-OBLO**](../../units/doloire/doloire_dlr-oblo.md) *Brawler (3140)* `C3i` , `TAG` , `Unique` 
 
-### [Templar](../../mechs/templar.md) 
+### 85 Tons 
 
-- [**Templar TLR1-OBLO**](../../mechs/templar/templar_tlr1-oblo.md) *Undefined (3100)* `C3i` , `ECM` , `Unique` 
+#### [Templar](../../units/templar.md) 
+
+- [**Templar TLR1-OBLO**](../../units/templar/templar_tlr1-oblo.md) *Undefined (3100)* `C3i` , `ECM` , `Unique` 
 

@@ -1,8 +1,10 @@
 # Clan Coyote / Early Republic 
 
-## 30 Tons 
+## ’Mechs 
 
-### [Arctic Cheetah](../../mechs/arctic_cheetah.md) 
+### 30 Tons 
 
-- [**Arctic Cheetah Prime**](../../mechs/arctic_cheetah/arctic_cheetah_prime.md) *Striker (3037)* `Active Probe` , `ECM` , `TAG` 
+#### [Arctic Cheetah](../../units/arctic_cheetah.md) 
+
+- [**Arctic Cheetah Prime**](../../units/arctic_cheetah/arctic_cheetah_prime.md) *Striker (3037)* `Active Probe` , `ECM` , `TAG` 
 

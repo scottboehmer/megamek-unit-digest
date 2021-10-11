@@ -1,0 +1,21 @@
+# Harasser Missile Platform 'Leaping Lisa' 
+
+[Other Harasser Missile Platform variants](../harasser_missile_platform.md) 
+
+## Harasser Missile Platform 'Leaping Lisa' 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (2815) 
+- **Chassis:** 25 tons Hover 
+- **Movement:** 10 / 15, ICE 
+- **Armor:** 24 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - SRM 4 × 2 (ammo: 25) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1386/harasser-missile-platform-leaping-lisa) 
+- **Battle Value:** 301 
+
+## Availability 
+
+Availability Unknown 
+

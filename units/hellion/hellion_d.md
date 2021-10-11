@@ -1,0 +1,72 @@
+# Hellion D 
+
+[Other Hellion variants](../hellion.md) 
+
+## Hellion D 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3068) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 105 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - LRM 15 (ammo: 16) 
+  - Heavy Medium Laser × 2 
+- **Equipment:** 
+  - MASC 
+  - CASE 
+- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1761 
+
+## Availability 
+
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Society 
+
+### Early Republic 
+
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Escorpión Imperio 
+- Scorpion Empire 
+

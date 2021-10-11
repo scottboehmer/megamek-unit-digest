@@ -1,8 +1,10 @@
 # ComStar / Early Republic 
 
-## 15 Tons 
+## ’Mechs 
 
-### [Celerity](../../mechs/celerity.md) 
+### 15 Tons 
 
-- [**Celerity CLR-02-X-D**](../../mechs/celerity/celerity_clr-02-x-d.md) *Scout (3052)* `C3i` , `Drone` 
+#### [Celerity](../../units/celerity.md) 
+
+- [**Celerity CLR-02-X-D**](../../units/celerity/celerity_clr-02-x-d.md) *Scout (3052)* `C3i` , `Drone` 
 

@@ -1,34 +1,36 @@
 # Marik-Stewart Commonwealth / Jihad 
 
-## 10 Tons 
+## ’Mechs 
 
-### [Exo](../../mechs/exo.md) 
+### 10 Tons 
 
-- [**Exo HMX-1 HaulerMech**](../../mechs/exo/exo_hmx-1_haulermech.md) *Undefined (3080)* `IndustrialMech` 
-- [**Exo HMX-2 HaulerMech**](../../mechs/exo/exo_hmx-2_haulermech.md) *Undefined (3081)* `IndustrialMech` 
-- [**Exo HMX-3 HaulerMech**](../../mechs/exo/exo_hmx-3_haulermech.md) *Undefined (3081)* `IndustrialMech` 
+#### [Exo](../../units/exo.md) 
 
-## 15 Tons 
+- [**Exo HMX-1 HaulerMech**](../../units/exo/exo_hmx-1_haulermech.md) *Undefined (3080)* `IndustrialMech` 
+- [**Exo HMX-2 HaulerMech**](../../units/exo/exo_hmx-2_haulermech.md) *Undefined (3081)* `IndustrialMech` 
+- [**Exo HMX-3 HaulerMech**](../../units/exo/exo_hmx-3_haulermech.md) *Undefined (3081)* `IndustrialMech` 
 
-### [Patron](../../mechs/patron.md) 
+### 15 Tons 
 
-- [**Patron PTN-2M MilitiaMech**](../../mechs/patron/patron_ptn-2m_militiamech.md) *Ambusher (3083)* `IndustrialMech` 
+#### [Patron](../../units/patron.md) 
 
-## 45 Tons 
+- [**Patron PTN-2M MilitiaMech**](../../units/patron/patron_ptn-2m_militiamech.md) *Ambusher (3083)* `IndustrialMech` 
 
-### [Phoenix Hawk](../../mechs/phoenix_hawk.md) 
+### 45 Tons 
 
-- [**Phoenix Hawk PXH-1bC**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1bc.md) *Skirmisher (3052)* `ECM` 
+#### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
-## 55 Tons 
+- [**Phoenix Hawk PXH-1bC**](../../units/phoenix_hawk/phoenix_hawk_pxh-1bc.md) *Skirmisher (3052)* `ECM` 
 
-### [Apollo](../../mechs/apollo.md) 
+### 55 Tons 
 
-- [**Apollo APL-4M**](../../mechs/apollo/apollo_apl-4m.md) *Missile Boat (3083)* 
+#### [Apollo](../../units/apollo.md) 
 
-## 70 Tons 
+- [**Apollo APL-4M**](../../units/apollo/apollo_apl-4m.md) *Missile Boat (3083)* 
 
-### [Guillotine](../../mechs/guillotine.md) 
+### 70 Tons 
 
-- [**Guillotine GLT-6WB3**](../../mechs/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Slave` , `ECM` 
+#### [Guillotine](../../units/guillotine.md) 
+
+- [**Guillotine GLT-6WB3**](../../units/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Slave` , `ECM` 
 

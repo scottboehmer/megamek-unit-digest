@@ -1,0 +1,61 @@
+# Wasp WSP-3S 
+
+[Other Wasp variants](../wasp.md) 
+
+## Wasp WSP-3S 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9, Light 
+  - **Jumping:** 6 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - TAG 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](Master Unit List) 
+- **Battle Value:** 595 
+
+## Availability 
+
+### Civil War 
+
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Mercenary 
+
+### Jihad 
+
+- Federated Suns 
+- Free Rasalhague Republic 
+- Lyran Alliance 
+- Mercenary 
+
+### Early Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+

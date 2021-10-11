@@ -1,0 +1,23 @@
+# Centurion CN9-YLW 'Yen Lo Wang' 
+
+[Other Centurion variants](../centurion.md) 
+
+## Centurion CN9-YLW 'Yen Lo Wang' 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3027) 
+- **Chassis:** 50 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 136 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/20 (ammo: 15) 
+  - Medium Laser × 2 
+  - Hatchet 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Battle Value:** 957 
+
+## Availability 
+
+Availability Unknown 
+

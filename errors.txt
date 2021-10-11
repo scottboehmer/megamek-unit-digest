@@ -1,11 +1,12 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to convert data from 'Undine Battle Armor_Sebastian_.blk': Unrecognized motion_type value: UMU
 
 --------------------------------------------------
 Unrecognized Components:
 
 --------------------------------------------------
-Mechs without Battle Value:
+Units without Battle Value:
 Rhino (Standard) - unknown battle value
 Tessen TSN-X4R 'Rapunzel' - unknown battle value
 
@@ -125,6 +126,28 @@ Vulcan VT-5ML 'Aladdin'
 Vulpes VLP-1DX 'Beast'
 Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
+Coolant Truck (Hover)
+Coolant Truck (Tracked)
+Demolisher Heavy Tank (Standard Mk. I)
+Engineering Vehicle (Standard)
+Ferret Light Scout VTOL (Cargo)
+Hi-Scout Drone Carrier (Standard)
+J-27 Ordnance Transport (Armor)
+J-27 Ordnance Transport (Fusion)
+J-27 Ordnance Transport (Trailer)
+J-27 Ordnance Transport (Standard)
+Karnov UR Transport (Standard)
+M.A.S.H. Truck (ICE)
+M.A.S.H. Truck (Standard)
+Mobile Headquarters (ICE - LL)
+Mobile Headquarters (ICE - LRM)
+Mobile Headquarters (ICE)
+Mobile Headquarters (LL)
+Mobile Headquarters (LRM)
+Mobile Headquarters (Standard)
+Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25
+Mobile Long Tom Artillery Support Carriage LT-MOB-25
+Neptune Submarine (Standard)
 
 --------------------------------------------------
-3822 mtf files -> 3822 parsed files -> 3821 converted files -> 3820 validated mechs
+3979 mtf files -> 3979 parsed files -> 3977 converted files -> 3820 validated mechs

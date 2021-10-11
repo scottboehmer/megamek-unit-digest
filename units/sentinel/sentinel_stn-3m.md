@@ -1,0 +1,37 @@
+# Sentinel STN-3M 
+
+[Other Sentinel variants](../sentinel.md) 
+
+## Sentinel STN-3M 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3035) 
+- **Chassis:** 40 tons 
+- **Movement:** 6 / 9 
+- **Armor:** 88 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/5 (ammo: 20) 
+  - Medium Laser 
+  - SRM 2 (ammo: 50) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Battle Value:** 758 
+
+## Availability 
+
+### Late Succession Wars - Renaissance 
+
+- Draconis Combine 
+
+### Clan Invasion 
+
+- Draconis Combine 
+
+### Civil War 
+
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+

@@ -1,0 +1,27 @@
+# Orion ON3-MX 
+
+[Other Orion variants](../orion.md) 
+
+## Orion ON3-MX 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 231 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 16) 
+  - ELRM 10 (ammo: 27) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1849 
+
+## Availability 
+
+### Jihad (Unique) 
+
+- Free Worlds League 
+

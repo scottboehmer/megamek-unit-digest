@@ -73,7 +73,6 @@
 - [Civil War](clan-diamond-shark/civil-war.md) 
 - [Jihad](clan-diamond-shark/jihad.md) 
 - [Early Republic](clan-diamond-shark/early-republic.md) 
-- [Late Republic](clan-diamond-shark/late-republic.md) 
 
 ## Clan Fire Mandrill 
 

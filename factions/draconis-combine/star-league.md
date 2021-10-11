@@ -1,324 +1,442 @@
 # Draconis Combine / Star League 
 
-## 20 Tons 
+## Combat Vehicles 
 
-### [Locust](../../mechs/locust.md) 
+### 10 Tons 
 
-- [**Locust LCT-1V**](../../mechs/locust/locust_lct-1v.md) *Scout (2499)* 
-- [**Locust LCT-1Vb**](../../mechs/locust/locust_lct-1vb.md) *Striker (2610)* 
+#### [Armored Personnel Carrier](../../units/armored_personnel_carrier.md) 
 
-### [Shugosha](../../mechs/shugosha.md) 
+- [**Armored Personnel Carrier (Hover LRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_lrm.md) *Missile Boat (2500)* 
+- [**Armored Personnel Carrier (Hover MG)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_mg.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Hover SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_srm.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Tracked LRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_lrm.md) *Missile Boat (2500)* 
+- [**Armored Personnel Carrier (Tracked MG)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_mg.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Tracked SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_srm.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Tracked)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Wheeled LRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_lrm.md) *Missile Boat (2500)* 
+- [**Armored Personnel Carrier (Wheeled MG)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_mg.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Wheeled SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_srm.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Wheeled)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Hover Sensors)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_sensors.md) *Scout (2620)* 
 
-- [**Shugosha PTN-LAW LoaderMech**](../../mechs/shugosha/shugosha_ptn-law_loadermech.md) *Undefined (2627)* `IndustrialMech` 
+#### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
-### [Stinger](../../mechs/stinger.md) 
+- [**J-27 Ordnance Transport (Fusion)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
+- [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
+- [**J-27 Ordnance Transport (Trailer)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 
-- [**Stinger STG-3R**](../../mechs/stinger/stinger_stg-3r.md) *Scout (2479)* 
-- [**Stinger STG-3G**](../../mechs/stinger/stinger_stg-3g.md) *Scout (2581)* 
-- [**Stinger STG-3Gb**](../../mechs/stinger/stinger_stg-3gb.md) *Striker (2720)* 
+#### [Mobile Long Tom Artillery Ammunition Trailer](../../units/mobile_long_tom_artillery_ammunition_trailer.md) 
 
-### [Thorn](../../mechs/thorn.md) 
+- [**Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25**](../../units/mobile_long_tom_artillery_ammunition_trailer/mobile_long_tom_artillery_ammunition_trailer_lt-mob-25.md) *Undefined (2602)* 
 
-- [**Thorn THE-N**](../../mechs/thorn/thorn_the-n.md) *Striker (2549)* 
+#### [Mobile Long Tom Artillery Support Carriage](../../units/mobile_long_tom_artillery_support_carriage.md) 
 
-### [Wasp](../../mechs/wasp.md) 
+- [**Mobile Long Tom Artillery Support Carriage LT-MOB-25**](../../units/mobile_long_tom_artillery_support_carriage/mobile_long_tom_artillery_support_carriage_lt-mob-25.md) *Undefined (2602)* 
 
-- [**Wasp WSP-1A**](../../mechs/wasp/wasp_wsp-1a.md) *Scout (2471)* 
+### 20 Tons 
 
-## 25 Tons 
+#### [M.A.S.H. Truck](../../units/m.a.s.h._truck.md) 
 
-### [Copper](../../mechs/copper.md) 
+- [**M.A.S.H. Truck (Standard)**](../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
 
-- [**Copper CPK-19 SecurityMech**](../../mechs/copper/copper_cpk-19_securitymech.md) *Undefined (2619)* `IndustrialMech` 
+#### [Packrat LRPV](../../units/packrat_lrpv.md) 
 
-### [Harvester Ant](../../mechs/harvester_ant.md) 
+- [**Packrat LRPV PKR-T5**](../../units/packrat_lrpv/packrat_lrpv_pkr-t5.md) *Scout (2650)* 
 
-- [**Harvester Ant KIC-3 AgroMech**](../../mechs/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
+### 25 Tons 
 
-### [Mongoose](../../mechs/mongoose.md) 
+#### [J. Edgar Light Hover Tank](../../units/j._edgar_light_hover_tank.md) 
 
-- [**Mongoose MON-66**](../../mechs/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe` 
+- [**J. Edgar Light Hover Tank (Standard)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) *Scout (2722)* 
 
-### [Peacekeeper](../../mechs/peacekeeper.md) 
+#### [Mobile Headquarters](../../units/mobile_headquarters.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../mechs/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Mobile Headquarters (LL)**](../../units/mobile_headquarters/mobile_headquarters_ll.md) *Undefined (2620)* 
+- [**Mobile Headquarters (LRM)**](../../units/mobile_headquarters/mobile_headquarters_lrm.md) *Undefined (2620)* 
+- [**Mobile Headquarters (Standard)**](../../units/mobile_headquarters/mobile_headquarters_standard.md) *Undefined (2620)* 
 
-## 30 Tons 
+### 30 Tons 
 
-### [Carbine](../../mechs/carbine.md) 
+#### [Coolant Truck](../../units/coolant_truck.md) 
 
-- [**Carbine CON-1 ConstructionMech**](../../mechs/carbine/carbine_con-1_constructionmech.md) *Ambusher (2691)* `IndustrialMech` 
+- [**Coolant Truck 135-K**](../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
+- [**Coolant Truck (Tracked)**](../../units/coolant_truck/coolant_truck_tracked.md) *Undefined (2592)* 
 
-### [Crosscut](../../mechs/crosscut.md) 
+### 40 Tons 
 
-- [**Crosscut ED-X1 LoggerMech**](../../mechs/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
-- [**Crosscut ED-X2 ForestryMech**](../../mechs/crosscut/crosscut_ed-x2_forestrymech.md) *Ambusher (2715)* `IndustrialMech` 
+#### [Engineering Vehicle](../../units/engineering_vehicle.md) 
 
-### [Hermes](../../mechs/hermes.md) 
+- [**Engineering Vehicle (AC)**](../../units/engineering_vehicle/engineering_vehicle_ac.md) *Striker (2570)* 
+- [**Engineering Vehicle (Flamer)**](../../units/engineering_vehicle/engineering_vehicle_flamer.md) *Scout (2570)* 
+- [**Engineering Vehicle (Standard)**](../../units/engineering_vehicle/engineering_vehicle_standard.md) *Undefined (2570)* 
 
-- [**Hermes HER-1S**](../../mechs/hermes/hermes_her-1s.md) *Scout (2632)* 
+### 45 Tons 
 
-### [Hussar](../../mechs/hussar.md) 
+#### [Goblin Medium Tank](../../units/goblin_medium_tank.md) 
 
-- [**Hussar HSR-200-D**](../../mechs/hussar/hussar_hsr-200-d.md) *Scout (2620)* 
+- [**Goblin Medium Tank (LRM)**](../../units/goblin_medium_tank/goblin_medium_tank_lrm.md) *Missile Boat (2500)* 
+- [**Goblin Medium Tank (MG)**](../../units/goblin_medium_tank/goblin_medium_tank_mg.md) *Juggernaut (2500)* 
+- [**Goblin Medium Tank (SRM)**](../../units/goblin_medium_tank/goblin_medium_tank_srm.md) *Juggernaut (2500)* 
 
-### [Spider](../../mechs/spider.md) 
+### 50 Tons 
 
-- [**Spider SDR-5V**](../../mechs/spider/spider_sdr-5v.md) *Scout (2650)* 
+#### [Condor Heavy Hover Tank](../../units/condor_heavy_hover_tank.md) 
 
-## 35 Tons 
+- [**Condor Heavy Hover Tank (Standard)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_standard.md) *Striker (2564)* 
 
-### [Dig King](../../mechs/dig_king.md) 
+#### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 
-- [**Dig King RCL-1 MiningMech**](../../mechs/dig_king/dig_king_rcl-1_miningmech.md) *Ambusher (2573)* `IndustrialMech` 
+- [**Maxim Heavy Hover Transport (Standard)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_standard.md) *Striker (2689)* 
 
-### [Jenner](../../mechs/jenner.md) 
+### 60 Tons 
 
-- [**Jenner JR7-A**](../../mechs/jenner/jenner_jr7-a.md) *Scout (2779)* 
+#### [Bulldog Medium Tank](../../units/bulldog_medium_tank.md) 
 
-### [Ostscout](../../mechs/ostscout.md) 
+- [**Bulldog Medium Tank (Standard)**](../../units/bulldog_medium_tank/bulldog_medium_tank_standard.md) *Brawler (2673)* 
 
-- [**Ostscout OTT-7J**](../../mechs/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
-- [**Ostscout OTT-7Jb**](../../mechs/ostscout/ostscout_ott-7jb.md) *Scout (2600)* `Active Probe` 
+#### [LRM Carrier](../../units/lrm_carrier.md) 
 
-### [Panther](../../mechs/panther.md) 
+- [**LRM Carrier (Standard)**](../../units/lrm_carrier/lrm_carrier_standard.md) *Missile Boat (2470)* 
 
-- [**Panther PNT-8Z**](../../mechs/panther/panther_pnt-8z.md) *Brawler (2739)* 
-- [**Panther PNT-9R**](../../mechs/panther/panther_pnt-9r.md) *Brawler (2759)* 
+#### [Manticore Heavy Tank](../../units/manticore_heavy_tank.md) 
 
-### [Powerman](../../mechs/powerman.md) 
+- [**Manticore Heavy Tank (Standard)**](../../units/manticore_heavy_tank/manticore_heavy_tank_standard.md) *Brawler (2575)* 
 
-- [**Powerman XI LoaderMech**](../../mechs/powerman/powerman_xi_loadermech.md) *Undefined (2764)* `IndustrialMech` 
+#### [SRM Carrier](../../units/srm_carrier.md) 
 
-## 40 Tons 
+- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
 
-### [Cicada](../../mechs/cicada.md) 
+### 75 Tons 
 
-- [**Cicada CDA-2A**](../../mechs/cicada/cicada_cda-2a.md) *Scout (2740)* 
+#### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
-### [Sentinel](../../mechs/sentinel.md) 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
 
-- [**Sentinel STN-3Lb**](../../mechs/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
+#### [Von Luckner Heavy Tank](../../units/von_luckner_heavy_tank.md) 
 
-### [Whitworth](../../mechs/whitworth.md) 
+- [**Von Luckner Heavy Tank VNL-K65N**](../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 
-- [**Whitworth WTH-1**](../../mechs/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
+## ’Mechs 
 
-## 45 Tons 
+### 20 Tons 
 
-### [Phoenix Hawk](../../mechs/phoenix_hawk.md) 
+#### [Locust](../../units/locust.md) 
 
-- [**Phoenix Hawk PXH-1**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
-- [**Phoenix Hawk PXH-1K**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1k.md) *Skirmisher (2603)* 
-- [**Phoenix Hawk PXH-1Kk**](../../mechs/phoenix_hawk/phoenix_hawk_pxh-1kk.md) *Skirmisher (2725)* 
+- [**Locust LCT-1V**](../../units/locust/locust_lct-1v.md) *Scout (2499)* 
+- [**Locust LCT-1Vb**](../../units/locust/locust_lct-1vb.md) *Striker (2610)* 
 
-### [Wyvern](../../mechs/wyvern.md) 
+#### [Shugosha](../../units/shugosha.md) 
 
-- [**Wyvern WVE-5N**](../../mechs/wyvern/wyvern_wve-5n.md) *Brawler (2660)* 
+- [**Shugosha PTN-LAW LoaderMech**](../../units/shugosha/shugosha_ptn-law_loadermech.md) *Undefined (2627)* `IndustrialMech` 
 
-## 50 Tons 
+#### [Stinger](../../units/stinger.md) 
 
-### [Buster](../../mechs/buster.md) 
+- [**Stinger STG-3R**](../../units/stinger/stinger_stg-3r.md) *Scout (2479)* 
+- [**Stinger STG-3G**](../../units/stinger/stinger_stg-3g.md) *Scout (2581)* 
+- [**Stinger STG-3Gb**](../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
 
-- [**Buster BC XV HaulerMech**](../../mechs/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
+#### [Thorn](../../units/thorn.md) 
 
-### [Chameleon](../../mechs/chameleon.md) 
+- [**Thorn THE-N**](../../units/thorn/thorn_the-n.md) *Striker (2549)* 
 
-- [**Chameleon TRC-4B**](../../mechs/chameleon/chameleon_trc-4b.md) *Scout (2510)* 
+#### [Wasp](../../units/wasp.md) 
 
-### [Crab](../../mechs/crab.md) 
+- [**Wasp WSP-1A**](../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 
 
-- [**Crab CRB-27**](../../mechs/crab/crab_crb-27.md) *Skirmisher (2719)* 
+### 25 Tons 
 
-### [Hunchback](../../mechs/hunchback.md) 
+#### [Copper](../../units/copper.md) 
 
-- [**Hunchback HBK-4G**](../../mechs/hunchback/hunchback_hbk-4g.md) *Juggernaut (2572)* 
+- [**Copper CPK-19 SecurityMech**](../../units/copper/copper_cpk-19_securitymech.md) *Undefined (2619)* `IndustrialMech` 
 
-### [Rifleman](../../mechs/rifleman.md) 
+#### [Harvester Ant](../../units/harvester_ant.md) 
 
-- [**Rifleman RFL-1N**](../../mechs/rifleman/rifleman_rfl-1n.md) *Brawler (2504)* 
-- [**Rifleman RFL-2N**](../../mechs/rifleman/rifleman_rfl-2n.md) *Sniper (2556)* 
+- [**Harvester Ant KIC-3 AgroMech**](../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
 
-## 55 Tons 
+#### [Mongoose](../../units/mongoose.md) 
 
-### [Dervish](../../mechs/dervish.md) 
+- [**Mongoose MON-66**](../../units/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe` 
 
-- [**Dervish DV-1S**](../../mechs/dervish/dervish_dv-1s.md) *Missile Boat (2520)* 
+#### [Peacekeeper](../../units/peacekeeper.md) 
 
-### [Griffin](../../mechs/griffin.md) 
+- [**Peacekeeper PK-6 SecurityMech**](../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
-- [**Griffin GRF-1N**](../../mechs/griffin/griffin_grf-1n.md) *Sniper (2492)* 
+### 30 Tons 
 
-### [Kintaro](../../mechs/kintaro.md) 
+#### [Carbine](../../units/carbine.md) 
 
-- [**Kintaro KTO-19**](../../mechs/kintaro/kintaro_kto-19.md) *Skirmisher (2587)* 
+- [**Carbine CON-1 ConstructionMech**](../../units/carbine/carbine_con-1_constructionmech.md) *Ambusher (2691)* `IndustrialMech` 
 
-### [Scorpion](../../mechs/scorpion.md) 
+#### [Crosscut](../../units/crosscut.md) 
 
-- [**Scorpion SCP-1N**](../../mechs/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)* 
+- [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
+- [**Crosscut ED-X2 ForestryMech**](../../units/crosscut/crosscut_ed-x2_forestrymech.md) *Ambusher (2715)* `IndustrialMech` 
 
-### [Shadow Hawk](../../mechs/shadow_hawk.md) 
+#### [Hermes](../../units/hermes.md) 
 
-- [**Shadow Hawk SHD-2H**](../../mechs/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
+- [**Hermes HER-1S**](../../units/hermes/hermes_her-1s.md) *Scout (2632)* 
 
-### [Wolverine](../../mechs/wolverine.md) 
+#### [Hussar](../../units/hussar.md) 
 
-- [**Wolverine WVR-6K**](../../mechs/wolverine/wolverine_wvr-6k.md) *Skirmisher (2598)* 
+- [**Hussar HSR-200-D**](../../units/hussar/hussar_hsr-200-d.md) *Scout (2620)* 
 
-## 60 Tons 
+#### [Spider](../../units/spider.md) 
 
-### [Dragon](../../mechs/dragon.md) 
+- [**Spider SDR-5V**](../../units/spider/spider_sdr-5v.md) *Scout (2650)* 
 
-- [**Dragon DRG-1C**](../../mechs/dragon/dragon_drg-1c.md) *Skirmisher (2752)* 
-- [**Dragon DRG-1N**](../../mechs/dragon/dragon_drg-1n.md) *Skirmisher (2754)* 
+### 35 Tons 
 
-### [Heavy Forester](../../mechs/heavy_forester.md) 
+#### [Dig King](../../units/dig_king.md) 
 
-- [**Heavy Forester HFL-1 LoggerMech**](../../mechs/heavy_forester/heavy_forester_hfl-1_loggermech.md) *Undefined (2700)* `IndustrialMech` 
+- [**Dig King RCL-1 MiningMech**](../../units/dig_king/dig_king_rcl-1_miningmech.md) *Ambusher (2573)* `IndustrialMech` 
 
-### [Lancelot](../../mechs/lancelot.md) 
+#### [Jenner](../../units/jenner.md) 
 
-- [**Lancelot LNC25-01**](../../mechs/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)* 
+- [**Jenner JR7-A**](../../units/jenner/jenner_jr7-a.md) *Scout (2779)* 
 
-### [Lumberjack](../../mechs/lumberjack.md) 
+#### [Ostscout](../../units/ostscout.md) 
 
-- [**Lumberjack LM1/A**](../../mechs/lumberjack/lumberjack_lm1_a.md) *Ambusher (2355)* `IndustrialMech` 
+- [**Ostscout OTT-7J**](../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
+- [**Ostscout OTT-7Jb**](../../units/ostscout/ostscout_ott-7jb.md) *Scout (2600)* `Active Probe` 
 
-### [Ostroc](../../mechs/ostroc.md) 
+#### [Panther](../../units/panther.md) 
 
-- [**Ostroc OSR-2C**](../../mechs/ostroc/ostroc_osr-2c.md) *Skirmisher (2511)* 
-- [**Ostroc OSR-2Cb**](../../mechs/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
+- [**Panther PNT-8Z**](../../units/panther/panther_pnt-8z.md) *Brawler (2739)* 
+- [**Panther PNT-9R**](../../units/panther/panther_pnt-9r.md) *Brawler (2759)* 
 
-### [Quickdraw](../../mechs/quickdraw.md) 
+#### [Powerman](../../units/powerman.md) 
 
-- [**Quickdraw QKD-4G**](../../mechs/quickdraw/quickdraw_qkd-4g.md) *Skirmisher (2779)* 
+- [**Powerman XI LoaderMech**](../../units/powerman/powerman_xi_loadermech.md) *Undefined (2764)* `IndustrialMech` 
 
-### [Rifleman](../../mechs/rifleman.md) 
+### 40 Tons 
 
-- [**Rifleman RFL-3N**](../../mechs/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
+#### [Cicada](../../units/cicada.md) 
 
-## 65 Tons 
+- [**Cicada CDA-2A**](../../units/cicada/cicada_cda-2a.md) *Scout (2740)* 
 
-### [Bombardier](../../mechs/bombardier.md) 
+#### [Sentinel](../../units/sentinel.md) 
 
-- [**Bombardier BMB-12D**](../../mechs/bombardier/bombardier_bmb-12d.md) *Missile Boat (2735)* 
+- [**Sentinel STN-3Lb**](../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
-### [Catapult](../../mechs/catapult.md) 
+#### [Whitworth](../../units/whitworth.md) 
 
-- [**Catapult CPLT-C1**](../../mechs/catapult/catapult_cplt-c1.md) *Missile Boat (2561)* 
-- [**Catapult CPLT-K2**](../../mechs/catapult/catapult_cplt-k2.md) *Sniper (2603)* 
-- [**Catapult CPLT-C1b**](../../mechs/catapult/catapult_cplt-c1b.md) *Missile Boat (2688)* 
+- [**Whitworth WTH-1**](../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
 
-### [Crusader](../../mechs/crusader.md) 
+### 45 Tons 
 
-- [**Crusader CRD-2R**](../../mechs/crusader/crusader_crd-2r.md) *Missile Boat (2649)* 
-- [**Crusader CRD-3K**](../../mechs/crusader/crusader_crd-3k.md) *Missile Boat (2765)* 
+#### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
-### [Thunderbolt](../../mechs/thunderbolt.md) 
+- [**Phoenix Hawk PXH-1**](../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
+- [**Phoenix Hawk PXH-1K**](../../units/phoenix_hawk/phoenix_hawk_pxh-1k.md) *Skirmisher (2603)* 
+- [**Phoenix Hawk PXH-1Kk**](../../units/phoenix_hawk/phoenix_hawk_pxh-1kk.md) *Skirmisher (2725)* 
 
-- [**Thunderbolt TDR-5S**](../../mechs/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
+#### [Wyvern](../../units/wyvern.md) 
 
-## 70 Tons 
+- [**Wyvern WVE-5N**](../../units/wyvern/wyvern_wve-5n.md) *Brawler (2660)* 
 
-### [Archer](../../mechs/archer.md) 
+### 50 Tons 
 
-- [**Archer ARC-2R**](../../mechs/archer/archer_arc-2r.md) *Missile Boat (2474)* 
-- [**Archer ARC-2Rb**](../../mechs/archer/archer_arc-2rb.md) *Missile Boat (2752)* 
+#### [Buster](../../units/buster.md) 
 
-### [Excalibur](../../mechs/excalibur.md) 
+- [**Buster BC XV HaulerMech**](../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 
-- [**Excalibur EXC-B2**](../../mechs/excalibur/excalibur_exc-b2.md) *Skirmisher (2620)* 
+#### [Chameleon](../../units/chameleon.md) 
 
-### [Guillotine](../../mechs/guillotine.md) 
+- [**Chameleon TRC-4B**](../../units/chameleon/chameleon_trc-4b.md) *Scout (2510)* 
 
-- [**Guillotine GLT-3N**](../../mechs/guillotine/guillotine_glt-3n.md) *Skirmisher (2499)* 
+#### [Crab](../../units/crab.md) 
 
-### [Lumberjack](../../mechs/lumberjack.md) 
+- [**Crab CRB-27**](../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 
 
-- [**Lumberjack LM4/C**](../../mechs/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
+#### [Hunchback](../../units/hunchback.md) 
 
-### [Warhammer](../../mechs/warhammer.md) 
+- [**Hunchback HBK-4G**](../../units/hunchback/hunchback_hbk-4g.md) *Juggernaut (2572)* 
 
-- [**Warhammer WHM-6R**](../../mechs/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
-- [**Warhammer WHM-6Rb**](../../mechs/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
-- [**Warhammer WHM-6Rk**](../../mechs/warhammer/warhammer_whm-6rk.md) *Skirmisher (2745)* 
+#### [Rifleman](../../units/rifleman.md) 
 
-## 80 Tons 
+- [**Rifleman RFL-1N**](../../units/rifleman/rifleman_rfl-1n.md) *Brawler (2504)* 
+- [**Rifleman RFL-2N**](../../units/rifleman/rifleman_rfl-2n.md) *Sniper (2556)* 
 
-### [Awesome](../../mechs/awesome.md) 
+### 55 Tons 
 
-- [**Awesome AWS-8Q**](../../mechs/awesome/awesome_aws-8q.md) *Sniper (2665)* 
+#### [Dervish](../../units/dervish.md) 
 
-### [Charger](../../mechs/charger.md) 
+- [**Dervish DV-1S**](../../units/dervish/dervish_dv-1s.md) *Missile Boat (2520)* 
 
-- [**Charger CGR-1A1**](../../mechs/charger/charger_cgr-1a1.md) *Scout (2665)* 
+#### [Griffin](../../units/griffin.md) 
 
-### [Goliath](../../mechs/goliath.md) 
+- [**Griffin GRF-1N**](../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
 
-- [**Goliath GOL-1H**](../../mechs/goliath/goliath_gol-1h.md) *Sniper (2652)* 
+#### [Kintaro](../../units/kintaro.md) 
 
-### [ScavengerMech](../../mechs/scavengermech.md) 
+- [**Kintaro KTO-19**](../../units/kintaro/kintaro_kto-19.md) *Skirmisher (2587)* 
 
-- [**ScavengerMech SC-V SalvageMech**](../../mechs/scavengermech/scavengermech_sc-v_salvagemech.md) *Ambusher (2613)* `IndustrialMech` 
+#### [Scorpion](../../units/scorpion.md) 
 
-### [Striker](../../mechs/striker.md) 
+- [**Scorpion SCP-1N**](../../units/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)* 
 
-- [**Striker STC-2C**](../../mechs/striker/striker_stc-2c.md) *Brawler (2571)* 
+#### [Shadow Hawk](../../units/shadow_hawk.md) 
 
-### [Thug](../../mechs/thug.md) 
+- [**Shadow Hawk SHD-2H**](../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
 
-- [**Thug THG-11E**](../../mechs/thug/thug_thg-11e.md) *Brawler (2572)* 
+#### [Wolverine](../../units/wolverine.md) 
 
-### [Victor](../../mechs/victor.md) 
+- [**Wolverine WVR-6K**](../../units/wolverine/wolverine_wvr-6k.md) *Skirmisher (2598)* 
 
-- [**Victor VTR-9A**](../../mechs/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
-- [**Victor VTR-9B**](../../mechs/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
-- [**Victor VTR-9B (Shoji)**](../../mechs/victor/victor_vtr-9b_shoji.md) *Skirmisher (2725)* `Unique` 
+### 60 Tons 
 
-## 85 Tons 
+#### [Dragon](../../units/dragon.md) 
 
-### [BattleMaster](../../mechs/battlemaster.md) 
+- [**Dragon DRG-1C**](../../units/dragon/dragon_drg-1c.md) *Skirmisher (2752)* 
+- [**Dragon DRG-1N**](../../units/dragon/dragon_drg-1n.md) *Skirmisher (2754)* 
 
-- [**BattleMaster BLR-1G**](../../mechs/battlemaster/battlemaster_blr-1g.md) *Brawler (2633)* 
+#### [Heavy Forester](../../units/heavy_forester.md) 
 
-### [Crockett](../../mechs/crockett.md) 
+- [**Heavy Forester HFL-1 LoggerMech**](../../units/heavy_forester/heavy_forester_hfl-1_loggermech.md) *Undefined (2700)* `IndustrialMech` 
 
-- [**Crockett CRK-5003-1**](../../mechs/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
+#### [Lancelot](../../units/lancelot.md) 
 
-### [Longbow](../../mechs/longbow.md) 
+- [**Lancelot LNC25-01**](../../units/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)* 
 
-- [**Longbow LGB-0W**](../../mechs/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+#### [Lumberjack](../../units/lumberjack.md) 
 
-### [Stalker](../../mechs/stalker.md) 
+- [**Lumberjack LM1/A**](../../units/lumberjack/lumberjack_lm1_a.md) *Ambusher (2355)* `IndustrialMech` 
 
-- [**Stalker STK-3F**](../../mechs/stalker/stalker_stk-3f.md) *Juggernaut (2594)* 
-- [**Stalker STK-3Fb**](../../mechs/stalker/stalker_stk-3fb.md) *Juggernaut (2705)* `ECM` 
-- [**Stalker STK-3Fk**](../../mechs/stalker/stalker_stk-3fk.md) *Juggernaut (2750)* 
+#### [Ostroc](../../units/ostroc.md) 
 
-## 90 Tons 
+- [**Ostroc OSR-2C**](../../units/ostroc/ostroc_osr-2c.md) *Skirmisher (2511)* 
+- [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
 
-### [Cyclops](../../mechs/cyclops.md) 
+#### [Quickdraw](../../units/quickdraw.md) 
 
-- [**Cyclops CP-10-Z**](../../mechs/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+- [**Quickdraw QKD-4G**](../../units/quickdraw/quickdraw_qkd-4g.md) *Skirmisher (2779)* 
 
-### [Highlander](../../mechs/highlander.md) 
+#### [Rifleman](../../units/rifleman.md) 
 
-- [**Highlander HGN-732**](../../mechs/highlander/highlander_hgn-732.md) *Sniper (2592)* 
+- [**Rifleman RFL-3N**](../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
 
-## 95 Tons 
+### 65 Tons 
 
-### [Banshee](../../mechs/banshee.md) 
+#### [Bombardier](../../units/bombardier.md) 
 
-- [**Banshee BNC-3E**](../../mechs/banshee/banshee_bnc-3e.md) *Sniper (2475)* 
+- [**Bombardier BMB-12D**](../../units/bombardier/bombardier_bmb-12d.md) *Missile Boat (2735)* 
 
-## 100 Tons 
+#### [Catapult](../../units/catapult.md) 
 
-### [King Crab](../../mechs/king_crab.md) 
+- [**Catapult CPLT-C1**](../../units/catapult/catapult_cplt-c1.md) *Missile Boat (2561)* 
+- [**Catapult CPLT-K2**](../../units/catapult/catapult_cplt-k2.md) *Sniper (2603)* 
+- [**Catapult CPLT-C1b**](../../units/catapult/catapult_cplt-c1b.md) *Missile Boat (2688)* 
 
-- [**King Crab KGC-000**](../../mechs/king_crab/king_crab_kgc-000.md) *Juggernaut (2743)* 
+#### [Crusader](../../units/crusader.md) 
 
-### [Kiso](../../mechs/kiso.md) 
+- [**Crusader CRD-2R**](../../units/crusader/crusader_crd-2r.md) *Missile Boat (2649)* 
+- [**Crusader CRD-3K**](../../units/crusader/crusader_crd-3k.md) *Missile Boat (2765)* 
 
-- [**Kiso K-3N-KR4 ConstructionMech**](../../mechs/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
-- [**Kiso K-3N-KR5 ConstructionMech**](../../mechs/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
+#### [Thunderbolt](../../units/thunderbolt.md) 
+
+- [**Thunderbolt TDR-5S**](../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
+
+### 70 Tons 
+
+#### [Archer](../../units/archer.md) 
+
+- [**Archer ARC-2R**](../../units/archer/archer_arc-2r.md) *Missile Boat (2474)* 
+- [**Archer ARC-2Rb**](../../units/archer/archer_arc-2rb.md) *Missile Boat (2752)* 
+
+#### [Excalibur](../../units/excalibur.md) 
+
+- [**Excalibur EXC-B2**](../../units/excalibur/excalibur_exc-b2.md) *Skirmisher (2620)* 
+
+#### [Guillotine](../../units/guillotine.md) 
+
+- [**Guillotine GLT-3N**](../../units/guillotine/guillotine_glt-3n.md) *Skirmisher (2499)* 
+
+#### [Lumberjack](../../units/lumberjack.md) 
+
+- [**Lumberjack LM4/C**](../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
+
+#### [Warhammer](../../units/warhammer.md) 
+
+- [**Warhammer WHM-6R**](../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
+- [**Warhammer WHM-6Rb**](../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
+- [**Warhammer WHM-6Rk**](../../units/warhammer/warhammer_whm-6rk.md) *Skirmisher (2745)* 
+
+### 80 Tons 
+
+#### [Awesome](../../units/awesome.md) 
+
+- [**Awesome AWS-8Q**](../../units/awesome/awesome_aws-8q.md) *Sniper (2665)* 
+
+#### [Charger](../../units/charger.md) 
+
+- [**Charger CGR-1A1**](../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
+
+#### [Goliath](../../units/goliath.md) 
+
+- [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
+
+#### [ScavengerMech](../../units/scavengermech.md) 
+
+- [**ScavengerMech SC-V SalvageMech**](../../units/scavengermech/scavengermech_sc-v_salvagemech.md) *Ambusher (2613)* `IndustrialMech` 
+
+#### [Striker](../../units/striker.md) 
+
+- [**Striker STC-2C**](../../units/striker/striker_stc-2c.md) *Brawler (2571)* 
+
+#### [Thug](../../units/thug.md) 
+
+- [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
+
+#### [Victor](../../units/victor.md) 
+
+- [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
+- [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor VTR-9B (Shoji)**](../../units/victor/victor_vtr-9b_shoji.md) *Skirmisher (2725)* `Unique` 
+
+### 85 Tons 
+
+#### [BattleMaster](../../units/battlemaster.md) 
+
+- [**BattleMaster BLR-1G**](../../units/battlemaster/battlemaster_blr-1g.md) *Brawler (2633)* 
+
+#### [Crockett](../../units/crockett.md) 
+
+- [**Crockett CRK-5003-1**](../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
+
+#### [Longbow](../../units/longbow.md) 
+
+- [**Longbow LGB-0W**](../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+
+#### [Stalker](../../units/stalker.md) 
+
+- [**Stalker STK-3F**](../../units/stalker/stalker_stk-3f.md) *Juggernaut (2594)* 
+- [**Stalker STK-3Fb**](../../units/stalker/stalker_stk-3fb.md) *Juggernaut (2705)* `ECM` 
+- [**Stalker STK-3Fk**](../../units/stalker/stalker_stk-3fk.md) *Juggernaut (2750)* 
+
+### 90 Tons 
+
+#### [Cyclops](../../units/cyclops.md) 
+
+- [**Cyclops CP-10-Z**](../../units/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+
+#### [Highlander](../../units/highlander.md) 
+
+- [**Highlander HGN-732**](../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
+
+### 95 Tons 
+
+#### [Banshee](../../units/banshee.md) 
+
+- [**Banshee BNC-3E**](../../units/banshee/banshee_bnc-3e.md) *Sniper (2475)* 
+
+### 100 Tons 
+
+#### [King Crab](../../units/king_crab.md) 
+
+- [**King Crab KGC-000**](../../units/king_crab/king_crab_kgc-000.md) *Juggernaut (2743)* 
+
+#### [Kiso](../../units/kiso.md) 
+
+- [**Kiso K-3N-KR4 ConstructionMech**](../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR5 ConstructionMech**](../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
 

@@ -1,8 +1,10 @@
 # Solaris 7 / Early Succession Wars 
 
-## 80 Tons 
+## ’Mechs 
 
-### [Charger](../../mechs/charger.md) 
+### 80 Tons 
 
-- [**Charger CGR-1A1**](../../mechs/charger/charger_cgr-1a1.md) *Scout (2665)* 
+#### [Charger](../../units/charger.md) 
+
+- [**Charger CGR-1A1**](../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 

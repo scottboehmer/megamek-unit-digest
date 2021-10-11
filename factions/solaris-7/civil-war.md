@@ -1,215 +1,217 @@
 # Solaris 7 / Civil War 
 
-## 20 Tons 
+## ’Mechs 
 
-### [Porcupine](../../mechs/porcupine.md) 
+### 20 Tons 
 
-- [**Porcupine PRC-1N**](../../mechs/porcupine/porcupine_prc-1n.md) *Striker (3063)* 
-- [**Porcupine PRC-2N**](../../mechs/porcupine/porcupine_prc-2n.md) *Striker (3067)* 
+#### [Porcupine](../../units/porcupine.md) 
 
-### [Thorn](../../mechs/thorn.md) 
+- [**Porcupine PRC-1N**](../../units/porcupine/porcupine_prc-1n.md) *Striker (3063)* 
+- [**Porcupine PRC-2N**](../../units/porcupine/porcupine_prc-2n.md) *Striker (3067)* 
 
-- [**Thorn THE-N**](../../mechs/thorn/thorn_the-n.md) *Striker (2549)* 
+#### [Thorn](../../units/thorn.md) 
 
-## 25 Tons 
+- [**Thorn THE-N**](../../units/thorn/thorn_the-n.md) *Striker (2549)* 
 
-### [Koto](../../mechs/koto.md) 
+### 25 Tons 
 
-- [**Koto KT-P2**](../../mechs/koto/koto_kt-p2.md) *Scout (3052)* 
-- [**Koto KTO-2A**](../../mechs/koto/koto_kto-2a.md) *Striker (3057)* 
-- [**Koto KTO-3A**](../../mechs/koto/koto_kto-3a.md) *Striker (3062)* 
+#### [Koto](../../units/koto.md) 
 
-## 30 Tons 
+- [**Koto KT-P2**](../../units/koto/koto_kt-p2.md) *Scout (3052)* 
+- [**Koto KTO-2A**](../../units/koto/koto_kto-2a.md) *Striker (3057)* 
+- [**Koto KTO-3A**](../../units/koto/koto_kto-3a.md) *Striker (3062)* 
 
-### [Copperhead](../../mechs/copperhead.md) 
+### 30 Tons 
 
-- [**Copperhead CPR-HD-002**](../../mechs/copperhead/copperhead_cpr-hd-002.md) *Striker (3054)* 
-- [**Copperhead CPR-HD-003**](../../mechs/copperhead/copperhead_cpr-hd-003.md) *Striker (3065)* 
-- [**Copperhead CPR-HD-004**](../../mechs/copperhead/copperhead_cpr-hd-004.md) *Striker (3066)* 
+#### [Copperhead](../../units/copperhead.md) 
 
-### [Flashfire](../../mechs/flashfire.md) 
+- [**Copperhead CPR-HD-002**](../../units/copperhead/copperhead_cpr-hd-002.md) *Striker (3054)* 
+- [**Copperhead CPR-HD-003**](../../units/copperhead/copperhead_cpr-hd-003.md) *Striker (3065)* 
+- [**Copperhead CPR-HD-004**](../../units/copperhead/copperhead_cpr-hd-004.md) *Striker (3066)* 
 
-- [**Flashfire FLS-P2**](../../mechs/flashfire/flashfire_fls-p2.md) *Striker (3054)* 
-- [**Flashfire FLS-P4**](../../mechs/flashfire/flashfire_fls-p4.md) *Striker (3055)* 
-- [**Flashfire FLS-P5**](../../mechs/flashfire/flashfire_fls-p5.md) *Striker (3067)* 
+#### [Flashfire](../../units/flashfire.md) 
 
-### [Mantis](../../mechs/mantis.md) 
+- [**Flashfire FLS-P2**](../../units/flashfire/flashfire_fls-p2.md) *Striker (3054)* 
+- [**Flashfire FLS-P4**](../../units/flashfire/flashfire_fls-p4.md) *Striker (3055)* 
+- [**Flashfire FLS-P5**](../../units/flashfire/flashfire_fls-p5.md) *Striker (3067)* 
 
-- [**Mantis SA-MN**](../../mechs/mantis/mantis_sa-mn.md) *Scout (3052)* 
-- [**Mantis MTS-S**](../../mechs/mantis/mantis_mts-s.md) *Striker (3061)* 
-- [**Mantis MTS-T**](../../mechs/mantis/mantis_mts-t.md) *Striker (3063)* 
-- [**Mantis MTS-T2**](../../mechs/mantis/mantis_mts-t2.md) *Striker (3063)* 
-- [**Mantis MTS-T3**](../../mechs/mantis/mantis_mts-t3.md) *Striker (3063)* 
-- [**Mantis MTS-L**](../../mechs/mantis/mantis_mts-l.md) *Striker (3064)* 
+#### [Mantis](../../units/mantis.md) 
 
-### [Scarabus](../../mechs/scarabus.md) 
+- [**Mantis SA-MN**](../../units/mantis/mantis_sa-mn.md) *Scout (3052)* 
+- [**Mantis MTS-S**](../../units/mantis/mantis_mts-s.md) *Striker (3061)* 
+- [**Mantis MTS-T**](../../units/mantis/mantis_mts-t.md) *Striker (3063)* 
+- [**Mantis MTS-T2**](../../units/mantis/mantis_mts-t2.md) *Striker (3063)* 
+- [**Mantis MTS-T3**](../../units/mantis/mantis_mts-t3.md) *Striker (3063)* 
+- [**Mantis MTS-L**](../../units/mantis/mantis_mts-l.md) *Striker (3064)* 
 
-- [**Scarabus SCB-9A**](../../mechs/scarabus/scarabus_scb-9a.md) *Scout (3053)* `ECM` , `TAG` 
-- [**Scarabus SCB-9T**](../../mechs/scarabus/scarabus_scb-9t.md) *Scout (3054)* `ECM` , `TAG` 
+#### [Scarabus](../../units/scarabus.md) 
 
-## 35 Tons 
+- [**Scarabus SCB-9A**](../../units/scarabus/scarabus_scb-9a.md) *Scout (3053)* `ECM` , `TAG` 
+- [**Scarabus SCB-9T**](../../units/scarabus/scarabus_scb-9t.md) *Scout (3054)* `ECM` , `TAG` 
 
-### [Longshot](../../mechs/longshot.md) 
+### 35 Tons 
 
-- [**Longshot LNG-1B**](../../mechs/longshot/longshot_lng-1b.md) *Striker (3054)* 
-- [**Longshot LNG-2**](../../mechs/longshot/longshot_lng-2.md) *Striker (3058)* 
-- [**Longshot LNG-3**](../../mechs/longshot/longshot_lng-3.md) *Striker (3062)* 
-- [**Longshot LNG-3C**](../../mechs/longshot/longshot_lng-3c.md) *Striker (3064)* 
+#### [Longshot](../../units/longshot.md) 
 
-### [Silver Fox](../../mechs/silver_fox.md) 
+- [**Longshot LNG-1B**](../../units/longshot/longshot_lng-1b.md) *Striker (3054)* 
+- [**Longshot LNG-2**](../../units/longshot/longshot_lng-2.md) *Striker (3058)* 
+- [**Longshot LNG-3**](../../units/longshot/longshot_lng-3.md) *Striker (3062)* 
+- [**Longshot LNG-3C**](../../units/longshot/longshot_lng-3c.md) *Striker (3064)* 
 
-- [**Silver Fox SVR-5X**](../../mechs/silver_fox/silver_fox_svr-5x.md) *Striker (3065)* `ECM` 
-- [**Silver Fox SVR-5Y**](../../mechs/silver_fox/silver_fox_svr-5y.md) *Striker (3067)* `ECM` 
+#### [Silver Fox](../../units/silver_fox.md) 
 
-## 40 Tons 
+- [**Silver Fox SVR-5X**](../../units/silver_fox/silver_fox_svr-5x.md) *Striker (3065)* `ECM` 
+- [**Silver Fox SVR-5Y**](../../units/silver_fox/silver_fox_svr-5y.md) *Striker (3067)* `ECM` 
 
-### [Assassin](../../mechs/assassin.md) 
+### 40 Tons 
 
-- [**Assassin 'Servitor'**](../../mechs/assassin/assassin_'servitor'.md) *Striker (3066)* `Unique` 
+#### [Assassin](../../units/assassin.md) 
 
-### [Sentinel](../../mechs/sentinel.md) 
+- [**Assassin 'Servitor'**](../../units/assassin/assassin_servitor.md) *Striker (3066)* `Unique` 
 
-- [**Sentinel STN-3L**](../../mechs/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+#### [Sentinel](../../units/sentinel.md) 
 
-### [Tsunami](../../mechs/tsunami.md) 
+- [**Sentinel STN-3L**](../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-- [**Tsunami TS-P1**](../../mechs/tsunami/tsunami_ts-p1.md) *Scout (3052)* 
-- [**Tsunami TS-P1D**](../../mechs/tsunami/tsunami_ts-p1d.md) *Striker (3063)* 
+#### [Tsunami](../../units/tsunami.md) 
 
-### [Werewolf](../../mechs/werewolf.md) 
+- [**Tsunami TS-P1**](../../units/tsunami/tsunami_ts-p1.md) *Scout (3052)* 
+- [**Tsunami TS-P1D**](../../units/tsunami/tsunami_ts-p1d.md) *Striker (3063)* 
 
-- [**Werewolf WER-LF-004**](../../mechs/werewolf/werewolf_wer-lf-004.md) *Striker (3056)* 
-- [**Werewolf WER-LF-005**](../../mechs/werewolf/werewolf_wer-lf-005.md) *Striker (3060)* `Stealth` 
+#### [Werewolf](../../units/werewolf.md) 
 
-## 45 Tons 
+- [**Werewolf WER-LF-004**](../../units/werewolf/werewolf_wer-lf-004.md) *Striker (3056)* 
+- [**Werewolf WER-LF-005**](../../units/werewolf/werewolf_wer-lf-005.md) *Striker (3060)* `Stealth` 
 
-### [Daedalus](../../mechs/daedalus.md) 
+### 45 Tons 
 
-- [**Daedalus DAD-3C**](../../mechs/daedalus/daedalus_dad-3c.md) *Striker (3053)* 
-- [**Daedalus DAD-3D**](../../mechs/daedalus/daedalus_dad-3d.md) *Striker (3062)* 
-- [**Daedalus DAD-4A**](../../mechs/daedalus/daedalus_dad-4a.md) *Striker (3064)* 
-- [**Daedalus DAD-4B**](../../mechs/daedalus/daedalus_dad-4b.md) *Striker (3067)* 
+#### [Daedalus](../../units/daedalus.md) 
 
-### [Volkh](../../mechs/volkh.md) 
+- [**Daedalus DAD-3C**](../../units/daedalus/daedalus_dad-3c.md) *Striker (3053)* 
+- [**Daedalus DAD-3D**](../../units/daedalus/daedalus_dad-3d.md) *Striker (3062)* 
+- [**Daedalus DAD-4A**](../../units/daedalus/daedalus_dad-4a.md) *Striker (3064)* 
+- [**Daedalus DAD-4B**](../../units/daedalus/daedalus_dad-4b.md) *Striker (3067)* 
 
-- [**Volkh VKH-1**](../../mechs/volkh/volkh_vkh-1.md) *Skirmisher (3063)* `Unique` 
-- [**Volkh VKH-7**](../../mechs/volkh/volkh_vkh-7.md) *Skirmisher (3066)* `Unique` 
+#### [Volkh](../../units/volkh.md) 
 
-## 50 Tons 
+- [**Volkh VKH-1**](../../units/volkh/volkh_vkh-1.md) *Skirmisher (3063)* `Unique` 
+- [**Volkh VKH-7**](../../units/volkh/volkh_vkh-7.md) *Skirmisher (3066)* `Unique` 
 
-### [Aquagladius](../../mechs/aquagladius.md) 
+### 50 Tons 
 
-- [**Aquagladius AQS-3**](../../mechs/aquagladius/aquagladius_aqs-3.md) *Striker (3065)* 
-- [**Aquagladius AQS-4**](../../mechs/aquagladius/aquagladius_aqs-4.md) *Striker (3066)* 
+#### [Aquagladius](../../units/aquagladius.md) 
 
-### [Bombard](../../mechs/bombard.md) 
+- [**Aquagladius AQS-3**](../../units/aquagladius/aquagladius_aqs-3.md) *Striker (3065)* 
+- [**Aquagladius AQS-4**](../../units/aquagladius/aquagladius_aqs-4.md) *Striker (3066)* 
 
-- [**Bombard BMB-010**](../../mechs/bombard/bombard_bmb-010.md) *Juggernaut (3054)* 
-- [**Bombard BMB-013**](../../mechs/bombard/bombard_bmb-013.md) *Missile Boat (3063)* 
+#### [Bombard](../../units/bombard.md) 
 
-### [Ronin](../../mechs/ronin.md) 
+- [**Bombard BMB-010**](../../units/bombard/bombard_bmb-010.md) *Juggernaut (3054)* 
+- [**Bombard BMB-013**](../../units/bombard/bombard_bmb-013.md) *Missile Boat (3063)* 
 
-- [**Ronin SA-RN**](../../mechs/ronin/ronin_sa-rn.md) *Striker (3051)* 
-- [**Ronin SA-RN7**](../../mechs/ronin/ronin_sa-rn7.md) *Skirmisher (3063)* 
+#### [Ronin](../../units/ronin.md) 
 
-## 55 Tons 
+- [**Ronin SA-RN**](../../units/ronin/ronin_sa-rn.md) *Striker (3051)* 
+- [**Ronin SA-RN7**](../../units/ronin/ronin_sa-rn7.md) *Skirmisher (3063)* 
 
-### [Hyena](../../mechs/hyena.md) 
+### 55 Tons 
 
-- [**Hyena HYN-4A SalvageMech**](../../mechs/hyena/hyena_hyn-4a_salvagemech.md) *Scout (3066)* `IndustrialMech` 
+#### [Hyena](../../units/hyena.md) 
 
-## 60 Tons 
+- [**Hyena HYN-4A SalvageMech**](../../units/hyena/hyena_hyn-4a_salvagemech.md) *Scout (3066)* `IndustrialMech` 
 
-### [Paladin](../../mechs/paladin.md) 
+### 60 Tons 
 
-- [**Paladin PAL-1**](../../mechs/paladin/paladin_pal-1.md) *Skirmisher (3053)* 
+#### [Paladin](../../units/paladin.md) 
 
-### [Spatha](../../mechs/spatha.md) 
+- [**Paladin PAL-1**](../../units/paladin/paladin_pal-1.md) *Skirmisher (3053)* 
 
-- [**Spatha SP1-X**](../../mechs/spatha/spatha_sp1-x.md) *Skirmisher (3067)* `Unique` 
+#### [Spatha](../../units/spatha.md) 
 
-### [Ti Ts'ang](../../mechs/ti_ts'ang.md) 
+- [**Spatha SP1-X**](../../units/spatha/spatha_sp1-x.md) *Skirmisher (3067)* `Unique` 
 
-- [**Ti Ts'ang TSG-9 'China Doll'**](../../mechs/ti_ts'ang/ti_ts'ang_tsg-9_'china_doll'.md) *Undefined (3067)* `Unique` 
+#### [Ti Ts'ang](../../units/ti_tsang.md) 
 
-## 65 Tons 
+- [**Ti Ts'ang TSG-9 'China Doll'**](../../units/ti_tsang/ti_tsang_tsg-9_china_doll.md) *Undefined (3067)* `Unique` 
 
-### [Morpheus](../../mechs/morpheus.md) 
+### 65 Tons 
 
-- [**Morpheus MR-P1**](../../mechs/morpheus/morpheus_mr-p1.md) *Scout (3051)* `Active Probe` , `ECM` 
-- [**Morpheus MRP-3S**](../../mechs/morpheus/morpheus_mrp-3s.md) *Skirmisher (3062)* `ECM` 
-- [**Morpheus MRP-3T**](../../mechs/morpheus/morpheus_mrp-3t.md) *Skirmisher (3064)* 
-- [**Morpheus MRP-3W**](../../mechs/morpheus/morpheus_mrp-3w.md) *Skirmisher (3066)* `ECM` 
+#### [Morpheus](../../units/morpheus.md) 
 
-## 70 Tons 
+- [**Morpheus MR-P1**](../../units/morpheus/morpheus_mr-p1.md) *Scout (3051)* `Active Probe` , `ECM` 
+- [**Morpheus MRP-3S**](../../units/morpheus/morpheus_mrp-3s.md) *Skirmisher (3062)* `ECM` 
+- [**Morpheus MRP-3T**](../../units/morpheus/morpheus_mrp-3t.md) *Skirmisher (3064)* 
+- [**Morpheus MRP-3W**](../../units/morpheus/morpheus_mrp-3w.md) *Skirmisher (3066)* `ECM` 
 
-### [Hachiwara](../../mechs/hachiwara.md) 
+### 70 Tons 
 
-- [**Hachiwara HCA-3T**](../../mechs/hachiwara/hachiwara_hca-3t.md) *Skirmisher (3064)* 
-- [**Hachiwara HCA-4T**](../../mechs/hachiwara/hachiwara_hca-4t.md) *Skirmisher (3065)* 
-- [**Hachiwara HCA-4U**](../../mechs/hachiwara/hachiwara_hca-4u.md) *Skirmisher (3066)* 
+#### [Hachiwara](../../units/hachiwara.md) 
 
-## 75 Tons 
+- [**Hachiwara HCA-3T**](../../units/hachiwara/hachiwara_hca-3t.md) *Skirmisher (3064)* 
+- [**Hachiwara HCA-4T**](../../units/hachiwara/hachiwara_hca-4t.md) *Skirmisher (3065)* 
+- [**Hachiwara HCA-4U**](../../units/hachiwara/hachiwara_hca-4u.md) *Skirmisher (3066)* 
 
-### [Onslaught](../../mechs/onslaught.md) 
+### 75 Tons 
 
-- [**Onslaught SA-OS**](../../mechs/onslaught/onslaught_sa-os.md) *Skirmisher (3052)* 
-- [**Onslaught SA-OS2**](../../mechs/onslaught/onslaught_sa-os2.md) *Skirmisher (3062)* `ECM` 
-- [**Onslaught SA-OS3**](../../mechs/onslaught/onslaught_sa-os3.md) *Skirmisher (3062)* 
+#### [Onslaught](../../units/onslaught.md) 
 
-## 80 Tons 
+- [**Onslaught SA-OS**](../../units/onslaught/onslaught_sa-os.md) *Skirmisher (3052)* 
+- [**Onslaught SA-OS2**](../../units/onslaught/onslaught_sa-os2.md) *Skirmisher (3062)* `ECM` 
+- [**Onslaught SA-OS3**](../../units/onslaught/onslaught_sa-os3.md) *Skirmisher (3062)* 
 
-### [Charger](../../mechs/charger.md) 
+### 80 Tons 
 
-- [**Charger CGR-1A1**](../../mechs/charger/charger_cgr-1a1.md) *Scout (2665)* 
+#### [Charger](../../units/charger.md) 
 
-### [Cudgel](../../mechs/cudgel.md) 
+- [**Charger CGR-1A1**](../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 
-- [**Cudgel CDG-1B**](../../mechs/cudgel/cudgel_cdg-1b.md) *Juggernaut (3053)* 
-- [**Cudgel CDG-2A**](../../mechs/cudgel/cudgel_cdg-2a.md) *Juggernaut (3066)* 
+#### [Cudgel](../../units/cudgel.md) 
 
-### [Thug](../../mechs/thug.md) 
+- [**Cudgel CDG-1B**](../../units/cudgel/cudgel_cdg-1b.md) *Juggernaut (3053)* 
+- [**Cudgel CDG-2A**](../../units/cudgel/cudgel_cdg-2a.md) *Juggernaut (3066)* 
 
-- [**Thug THG-11E**](../../mechs/thug/thug_thg-11e.md) *Brawler (2572)* 
+#### [Thug](../../units/thug.md) 
 
-## 85 Tons 
+- [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 
-### [Sasquatch](../../mechs/sasquatch.md) 
+### 85 Tons 
 
-- [**Sasquatch SQS-TH-001**](../../mechs/sasquatch/sasquatch_sqs-th-001.md) *Skirmisher (3054)* 
-- [**Sasquatch SQS-TH-002**](../../mechs/sasquatch/sasquatch_sqs-th-002.md) *Brawler (3065)* 
+#### [Sasquatch](../../units/sasquatch.md) 
 
-## 90 Tons 
+- [**Sasquatch SQS-TH-001**](../../units/sasquatch/sasquatch_sqs-th-001.md) *Skirmisher (3054)* 
+- [**Sasquatch SQS-TH-002**](../../units/sasquatch/sasquatch_sqs-th-002.md) *Brawler (3065)* 
 
-### [Juggernaut](../../mechs/juggernaut.md) 
+### 90 Tons 
 
-- [**Juggernaut JG-R9T1**](../../mechs/juggernaut/juggernaut_jg-r9t1.md) *Juggernaut (3053)* 
-- [**Juggernaut JG-R9T2**](../../mechs/juggernaut/juggernaut_jg-r9t2.md) *Juggernaut (3057)* 
-- [**Juggernaut JG-R9T3**](../../mechs/juggernaut/juggernaut_jg-r9t3.md) *Juggernaut (3065)* 
+#### [Juggernaut](../../units/juggernaut.md) 
 
-## 95 Tons 
+- [**Juggernaut JG-R9T1**](../../units/juggernaut/juggernaut_jg-r9t1.md) *Juggernaut (3053)* 
+- [**Juggernaut JG-R9T2**](../../units/juggernaut/juggernaut_jg-r9t2.md) *Juggernaut (3057)* 
+- [**Juggernaut JG-R9T3**](../../units/juggernaut/juggernaut_jg-r9t3.md) *Juggernaut (3065)* 
 
-### [Banshee](../../mechs/banshee.md) 
+### 95 Tons 
 
-- [**Banshee BNC-5S (Vandergriff)**](../../mechs/banshee/banshee_bnc-5s_vandergriff.md) *Skirmisher (3062)* `Unique` 
+#### [Banshee](../../units/banshee.md) 
 
-### [Colossus](../../mechs/colossus.md) 
+- [**Banshee BNC-5S (Vandergriff)**](../../units/banshee/banshee_bnc-5s_vandergriff.md) *Skirmisher (3062)* `Unique` 
 
-- [**Colossus CL-P3**](../../mechs/colossus/colossus_cl-p3.md) *Juggernaut (3053)* 
-- [**Colossus CLS-4S**](../../mechs/colossus/colossus_cls-4s.md) *Juggernaut (3066)* 
-- [**Colossus CLS-5S**](../../mechs/colossus/colossus_cls-5s.md) *Sniper (3067)* 
+#### [Colossus](../../units/colossus.md) 
 
-### [Nightstar](../../mechs/nightstar.md) 
+- [**Colossus CL-P3**](../../units/colossus/colossus_cl-p3.md) *Juggernaut (3053)* 
+- [**Colossus CLS-4S**](../../units/colossus/colossus_cls-4s.md) *Juggernaut (3066)* 
+- [**Colossus CLS-5S**](../../units/colossus/colossus_cls-5s.md) *Sniper (3067)* 
 
-- [**Nightstar NSR-9SS**](../../mechs/nightstar/nightstar_nsr-9ss.md) *Juggernaut (3065)* 
+#### [Nightstar](../../units/nightstar.md) 
 
-## 100 Tons 
+- [**Nightstar NSR-9SS**](../../units/nightstar/nightstar_nsr-9ss.md) *Juggernaut (3065)* 
 
-### [Berserker](../../mechs/berserker.md) 
+### 100 Tons 
 
-- [**Berserker BRZ-A3**](../../mechs/berserker/berserker_brz-a3.md) *Juggernaut (3056)* `ECM` 
+#### [Berserker](../../units/berserker.md) 
 
-### [Great Turtle](../../mechs/great_turtle.md) 
+- [**Berserker BRZ-A3**](../../units/berserker/berserker_brz-a3.md) *Juggernaut (3056)* `ECM` 
 
-- [**Great Turtle GTR-1**](../../mechs/great_turtle/great_turtle_gtr-1.md) *Juggernaut (3067)* `Unique` 
+#### [Great Turtle](../../units/great_turtle.md) 
+
+- [**Great Turtle GTR-1**](../../units/great_turtle/great_turtle_gtr-1.md) *Juggernaut (3067)* `Unique` 
 

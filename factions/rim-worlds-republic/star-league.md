@@ -1,114 +1,116 @@
 # Rim Worlds Republic / Star League 
 
-## 20 Tons 
+## ’Mechs 
 
-### [Locust](../../mechs/locust.md) 
+### 20 Tons 
 
-- [**Locust LCT-1S**](../../mechs/locust/locust_lct-1s.md) *Scout (2567)* 
+#### [Locust](../../units/locust.md) 
 
-## 25 Tons 
+- [**Locust LCT-1S**](../../units/locust/locust_lct-1s.md) *Scout (2567)* 
 
-### [Jackrabbit](../../mechs/jackrabbit.md) 
+### 25 Tons 
 
-- [**Jackrabbit JKR-8T**](../../mechs/jackrabbit/jackrabbit_jkr-8t.md) *Sniper (2765)* 
-- [**Jackrabbit JKR-9R 'Joker'**](../../mechs/jackrabbit/jackrabbit_jkr-9r_'joker'.md) *Brawler (2768)* 
+#### [Jackrabbit](../../units/jackrabbit.md) 
 
-## 30 Tons 
+- [**Jackrabbit JKR-8T**](../../units/jackrabbit/jackrabbit_jkr-8t.md) *Sniper (2765)* 
+- [**Jackrabbit JKR-9R 'Joker'**](../../units/jackrabbit/jackrabbit_jkr-9r_joker.md) *Brawler (2768)* 
 
-### [Hermes](../../mechs/hermes.md) 
+### 30 Tons 
 
-- [**Hermes HER-1Sb**](../../mechs/hermes/hermes_her-1sb.md) *Striker (2740)* `Active Probe` 
+#### [Hermes](../../units/hermes.md) 
 
-### [Spider](../../mechs/spider.md) 
+- [**Hermes HER-1Sb**](../../units/hermes/hermes_her-1sb.md) *Striker (2740)* `Active Probe` 
 
-- [**Spider SDR-5V**](../../mechs/spider/spider_sdr-5v.md) *Scout (2650)* 
+#### [Spider](../../units/spider.md) 
 
-## 35 Tons 
+- [**Spider SDR-5V**](../../units/spider/spider_sdr-5v.md) *Scout (2650)* 
 
-### [Panther](../../mechs/panther.md) 
+### 35 Tons 
 
-- [**Panther PNT-8Z**](../../mechs/panther/panther_pnt-8z.md) *Brawler (2739)* 
+#### [Panther](../../units/panther.md) 
 
-## 40 Tons 
+- [**Panther PNT-8Z**](../../units/panther/panther_pnt-8z.md) *Brawler (2739)* 
 
-### [Assassin](../../mechs/assassin.md) 
+### 40 Tons 
 
-- [**Assassin ASN-21**](../../mechs/assassin/assassin_asn-21.md) *Scout (2676)* 
+#### [Assassin](../../units/assassin.md) 
 
-### [Whitworth](../../mechs/whitworth.md) 
+- [**Assassin ASN-21**](../../units/assassin/assassin_asn-21.md) *Scout (2676)* 
 
-- [**Whitworth WTH-1**](../../mechs/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
-- [**Whitworth WTH-0**](../../mechs/whitworth/whitworth_wth-0.md) *Skirmisher (2754)* 
+#### [Whitworth](../../units/whitworth.md) 
 
-## 45 Tons 
+- [**Whitworth WTH-1**](../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
+- [**Whitworth WTH-0**](../../units/whitworth/whitworth_wth-0.md) *Skirmisher (2754)* 
 
-### [Quasit](../../mechs/quasit.md) 
+### 45 Tons 
 
-- [**Quasit QUA-51T MilitiaMech**](../../mechs/quasit/quasit_qua-51t_militiamech.md) *Brawler (2517)* `IndustrialMech` 
+#### [Quasit](../../units/quasit.md) 
 
-### [Wyvern](../../mechs/wyvern.md) 
+- [**Quasit QUA-51T MilitiaMech**](../../units/quasit/quasit_qua-51t_militiamech.md) *Brawler (2517)* `IndustrialMech` 
 
-- [**Wyvern WVE-5N**](../../mechs/wyvern/wyvern_wve-5n.md) *Brawler (2660)* 
+#### [Wyvern](../../units/wyvern.md) 
 
-## 50 Tons 
+- [**Wyvern WVE-5N**](../../units/wyvern/wyvern_wve-5n.md) *Brawler (2660)* 
 
-### [Phoenix](../../mechs/phoenix.md) 
+### 50 Tons 
 
-- [**Phoenix PX-4R**](../../mechs/phoenix/phoenix_px-4r.md) *Skirmisher (2581)* 
+#### [Phoenix](../../units/phoenix.md) 
 
-## 55 Tons 
+- [**Phoenix PX-4R**](../../units/phoenix/phoenix_px-4r.md) *Skirmisher (2581)* 
 
-### [Wolverine](../../mechs/wolverine.md) 
+### 55 Tons 
 
-- [**Wolverine WVR-6R**](../../mechs/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)* 
+#### [Wolverine](../../units/wolverine.md) 
 
-## 60 Tons 
+- [**Wolverine WVR-6R**](../../units/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)* 
 
-### [Rifleman](../../mechs/rifleman.md) 
+### 60 Tons 
 
-- [**Rifleman RFL-3N**](../../mechs/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
+#### [Rifleman](../../units/rifleman.md) 
 
-## 70 Tons 
+- [**Rifleman RFL-3N**](../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
 
-### [Dragoon](../../mechs/dragoon.md) 
+### 70 Tons 
 
-- [**Dragoon AEM-01**](../../mechs/dragoon/dragoon_aem-01.md) *Sniper (2771)* `ECM` 
-- [**Dragoon AEM-02**](../../mechs/dragoon/dragoon_aem-02.md) *Undefined (2771)* 
-- [**Dragoon AEM-03**](../../mechs/dragoon/dragoon_aem-03.md) *Undefined (2771)* 
-- [**Dragoon AEM-04**](../../mechs/dragoon/dragoon_aem-04.md) *Undefined (2771)* 
+#### [Dragoon](../../units/dragoon.md) 
 
-## 75 Tons 
+- [**Dragoon AEM-01**](../../units/dragoon/dragoon_aem-01.md) *Sniper (2771)* `ECM` 
+- [**Dragoon AEM-02**](../../units/dragoon/dragoon_aem-02.md) *Undefined (2771)* 
+- [**Dragoon AEM-03**](../../units/dragoon/dragoon_aem-03.md) *Undefined (2771)* 
+- [**Dragoon AEM-04**](../../units/dragoon/dragoon_aem-04.md) *Undefined (2771)* 
 
-### [Marauder](../../mechs/marauder.md) 
+### 75 Tons 
 
-- [**Marauder MAD-1R**](../../mechs/marauder/marauder_mad-1r.md) *Sniper (2612)* 
+#### [Marauder](../../units/marauder.md) 
 
-## 80 Tons 
+- [**Marauder MAD-1R**](../../units/marauder/marauder_mad-1r.md) *Sniper (2612)* 
 
-### [Thug](../../mechs/thug.md) 
+### 80 Tons 
 
-- [**Thug THG-11E**](../../mechs/thug/thug_thg-11e.md) *Brawler (2572)* 
+#### [Thug](../../units/thug.md) 
 
-## 85 Tons 
+- [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 
-### [BattleMaster](../../mechs/battlemaster.md) 
+### 85 Tons 
 
-- [**BattleMaster BLR-1G**](../../mechs/battlemaster/battlemaster_blr-1g.md) *Brawler (2633)* 
+#### [BattleMaster](../../units/battlemaster.md) 
 
-### [Rampage](../../mechs/rampage.md) 
+- [**BattleMaster BLR-1G**](../../units/battlemaster/battlemaster_blr-1g.md) *Brawler (2633)* 
 
-- [**Rampage RMP-2G**](../../mechs/rampage/rampage_rmp-2g.md) *Juggernaut (2735)* 
-- [**Rampage RMP-4G**](../../mechs/rampage/rampage_rmp-4g.md) *Sniper (2750)* 
-- [**Rampage RMP-4G (Benboudaoud)**](../../mechs/rampage/rampage_rmp-4g_benboudaoud.md) *Brawler (2766)* `Unique` 
-- [**Rampage RMP-5G**](../../mechs/rampage/rampage_rmp-5g.md) *Skirmisher (2767)* 
+#### [Rampage](../../units/rampage.md) 
 
-## 90 Tons 
+- [**Rampage RMP-2G**](../../units/rampage/rampage_rmp-2g.md) *Juggernaut (2735)* 
+- [**Rampage RMP-4G**](../../units/rampage/rampage_rmp-4g.md) *Sniper (2750)* 
+- [**Rampage RMP-4G (Benboudaoud)**](../../units/rampage/rampage_rmp-4g_benboudaoud.md) *Brawler (2766)* `Unique` 
+- [**Rampage RMP-5G**](../../units/rampage/rampage_rmp-5g.md) *Skirmisher (2767)* 
 
-### [Cyclops](../../mechs/cyclops.md) 
+### 90 Tons 
 
-- [**Cyclops CP-10-Z**](../../mechs/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+#### [Cyclops](../../units/cyclops.md) 
 
-### [Emperor](../../mechs/emperor.md) 
+- [**Cyclops CP-10-Z**](../../units/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
 
-- [**Emperor EMP-5A**](../../mechs/emperor/emperor_emp-5a.md) *Juggernaut (2502)* 
+#### [Emperor](../../units/emperor.md) 
+
+- [**Emperor EMP-5A**](../../units/emperor/emperor_emp-5a.md) *Juggernaut (2502)* 
 
