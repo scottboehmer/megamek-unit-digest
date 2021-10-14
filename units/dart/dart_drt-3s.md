@@ -1,0 +1,67 @@
+# Dart DRT-3S 
+
+[Other Dart variants](../dart.md) 
+
+## Dart DRT-3S 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 25 tons 
+- **Movement:** 9 / 14 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Small Pulse Laser × 3 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Battle Value:** 436 
+
+## Availability 
+
+### Clan Invasion 
+
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Federated Commonwealth 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+

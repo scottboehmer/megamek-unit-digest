@@ -1,0 +1,30 @@
+# Preta C-PRT-OC Comminus 
+
+[Other Preta variants](../preta.md) 
+
+## Preta C-PRT-OC Comminus 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, Light 
+- **Armor:** 144 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - Medium Pulse Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - C3i 
+  - TAG 
+- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1187 
+
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
+

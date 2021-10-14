@@ -1,0 +1,61 @@
+# Badger Tracked Transport E 
+
+[Other Badger Tracked Transport variants](../badger_tracked_transport.md) 
+
+## Badger Tracked Transport E 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 30 tons Tracked 
+- **Movement:** 6 / 9, Fusion 
+- **Armor:** 88 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Small Laser × 10 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/204/badger-tracked-transport-e) 
+- **Battle Value:** 434 
+
+## Availability 
+
+### Late Succession Wars - LosTech 
+
+- Wolf's Dragoons 
+
+### Late Succession Wars - Renaissance 
+
+- Wolf's Dragoons 
+
+### Clan Invasion 
+
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Mercenary 
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+

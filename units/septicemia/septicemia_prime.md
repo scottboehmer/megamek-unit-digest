@@ -1,0 +1,29 @@
+# Septicemia Prime 
+
+[Other Septicemia variants](../septicemia.md) 
+
+## Septicemia "Pariah" Prime 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan (3072) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 172 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - HAG 40 (ammo: 12) 
+  - ER Large Laser 
+- **Equipment:** 
+  - Targeting Computer 
+  - CASE 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](Master Unit List) 
+- **Battle Value:** 2511 
+
+## Availability 
+
+### Jihad 
+
+- Clan Burrock 
+- Clan Coyote 
+- Society 
+

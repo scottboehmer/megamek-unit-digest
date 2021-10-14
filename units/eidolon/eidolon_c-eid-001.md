@@ -1,0 +1,27 @@
+# Eidolon C-EID-001 
+
+[Other Eidolon variants](../eidolon.md) 
+
+## Eidolon C-EID-001 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 7 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Snub-Nose PPC × 2 
+- **Equipment:** 
+  - C3i 
+- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1505 
+
+## Availability 
+
+### Jihad 
+
+- Word of Blake 
+

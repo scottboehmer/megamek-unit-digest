@@ -1,0 +1,157 @@
+Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
+Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to convert data from 'Undine Battle Armor_Sebastian_.blk': Unrecognized motion_type value: UMU
+
+--------------------------------------------------
+Unrecognized Components:
+
+--------------------------------------------------
+Units without Battle Value:
+Rhino (Standard) - unknown battle value
+Tessen TSN-X4R 'Rapunzel' - unknown battle value
+
+--------------------------------------------------
+Units without Roles:
+Arctic Wolf A
+Patron LoaderMech PTN-1
+Fwltur FWL-3R SalvageMech
+Fwltur FWL-3V SalvageMech
+Beowulf C
+Tomahawk C
+Atlas AS7-D-HT
+Ti Ts'ang TSG-9 'China Doll'
+Legionnaire LGN-2D (Raul)
+Mad Cat III 2
+Mad Cat III (Dark Age RS)
+Ryoken II (Tassa)
+Ti Ts'ang Jason
+Mackie MSK-9HKR 'Kill-Roy's Little Buddy'
+Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
+Rock Hound ProspectorMech AM-PRM-RH7
+Rock Hound ProspectorMech AM-PRM-RH7A 'Rock Otter'
+Space Hound ProspectorMech AM-PRM-SH1
+Thunderbolt TDR-5L
+Thunderbolt TDR-5LS
+Dragoon AEM-02
+Dragoon AEM-03
+Dragoon AEM-04
+Vixen (Incubus) 6
+Burrower DTM-1 MiningMech
+Demeter WLD-1 AgroMech
+Exo HaulerMech HMX-1
+Exo HaulerMech HMX-2
+Exo HaulerMech HMX-3
+Exo HaulerMech HMX-3M
+Harvester HVR-199 AgroMech
+Heavy Forester HFL-1 LoggerMech
+MuckRaker GMMM-2 MiningMech
+Opossum SalvageMech OPO-2
+St. Florian FLN-366 FireMech
+St. Florian FLN-366-M FireMech MOD
+StrongArm SC CV ConstructionMech
+StrongArm SC CVI ConstructionMech
+Arana MilitiaMech ARA-S-1
+Reptar MilitiaMech EPT-C-1
+Bull Shark BSK-M3
+Bull Shark BSK-MAZ
+Corsair COR-5R
+Corsair COR-5T
+Corsair COR-6R
+Corsair COR-7A
+Corsair COR-7R
+Corsair COR-BR Broadside
+Corsair COR-RA Ravager
+Roughneck RGH-1A
+Roughneck RGH-1B
+Roughneck RGH-1C
+Roughneck RGH-2A
+Roughneck RGH-3A
+Roughneck RGH-PH Powerhouse
+Roughneck RGH-R Reaver
+Sun Spider A
+Sun Spider B
+Sun Spider C
+Sun Spider D
+Sun Spider Manul
+Sun Spider Prime
+Sun Spider Vanguard
+Harvester Ant KIC-3M AgroMech (MG)
+Harvester Ant KIC-3M-B AgroMech (LRM)
+Powerman XI LoaderMech (Standard)
+Stinger C 2
+Stinger C
+Thresher Mk II (Standard)
+Atlas AS7-D(C)
+Templar III TLR2-J 'Arthur'
+Templar TLR1-OBLO
+Grand Dragon DRG-1G (Emory)
+Trebuchet TBT-5K
+Reconquista (Standard)
+Carbine CON-7 ConstructionMech (Standard)
+Carbine CON-8 ConstructionMech (Standard)
+CattleMaster CTL-3R 'Herder' IndustrialMech
+Copper SecurityMech CPK-19
+Crosscut ED-X4B DemolitionMech
+Crosscut ED-X4D DemolitionMech
+Crosscut ED-X5M-B DemolitionMech MOD
+Peacemaker PM-6 PoliceMech (Standard)
+Pompier Firemech GM-3HT
+Shugosha PTN-LAW LoaderMech
+Uni ATAE-70 CargoMech (Standard)
+Vampyr SC-V-1 SalvageMech (Standard)
+Cazador (Standard)
+Rhino (Standard)
+Tolva (Standard)
+Panther PNT-9ALAG
+Talon TLN-5VNO
+Crosscut IIC SolahmaMech
+Gauss-Buster MilitiaMech
+Uni ATAE-70 ArtilleryMech
+Ti Ts'ang TSG-9DDC 'Prototype'
+Pathfinder PFF-2T
+Agrotera AGT-UA 'Ariel'
+Buccaneer BCN-6PX 'Pan'
+Calliope CAL-1MAFSW 'Snow White'
+Celerity CLR-03OMM 'Rajah'
+Clint IIC 2L 'Leia'
+Ghost GST-10A 'Aurora'
+Gunsmith CH11-NGC 'Cinderella'
+Hitotsume Kozo HKZ-1FM 'Mulan'
+Hunchback HBK-LGN-Pin 'Anastasia'
+Hunchback HBK-LGN-Pin 'Drizella'
+Phoenix Hawk PXH-7KJ 'Jasmine'
+Tessen TSN-X4R 'Rapunzel'
+Trebuchet TBT-7MM 'Merida'
+Vulcan VT-5ML 'Aladdin'
+Vulpes VLP-1DX 'Beast'
+Watchman WTC-4MB 'Belle'
+Wraith TR2-P 'Pocahontas'
+Coolant Truck (Hover)
+Coolant Truck (Tracked)
+Demolisher Heavy Tank (Standard Mk. I)
+Engineering Vehicle (Standard)
+Ferret Light Scout VTOL (Cargo)
+Hi-Scout Drone Carrier (Standard)
+J-27 Ordnance Transport (Armor)
+J-27 Ordnance Transport (Fusion)
+J-27 Ordnance Transport (Trailer)
+J-27 Ordnance Transport (Standard)
+Karnov UR Transport (Standard)
+M.A.S.H. Truck (ICE)
+M.A.S.H. Truck (Standard)
+Mobile Headquarters (ICE - LL)
+Mobile Headquarters (ICE - LRM)
+Mobile Headquarters (ICE)
+Mobile Headquarters (LL)
+Mobile Headquarters (LRM)
+Mobile Headquarters (Standard)
+Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25
+Mobile Long Tom Artillery Support Carriage LT-MOB-25
+Neptune Submarine (Standard)
+Karnov UR Transport (3055 Upgrade)
+Karnov UR Transport (BA)
+Kestrel VTOL (MedEvac)
+Peregrine Attack VTOL (Cargo)
+
+--------------------------------------------------
+4233 mtf files -> 4233 parsed files -> 4231 converted files -> 4227 validated units

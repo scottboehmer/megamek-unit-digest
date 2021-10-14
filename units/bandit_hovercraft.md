@@ -1,0 +1,170 @@
+# Bandit Hovercraft 
+
+## Bandit Hovercraft Prime 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 3 
+  - SRM 2 × 2 (ammo: 50) 
+  - Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/239/bandit-hovercraft-prime) 
+- **Battle Value:** 929 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_prime.md) 
+
+## Bandit Hovercraft A 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - PPC 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/230/bandit-hovercraft-a) 
+- **Battle Value:** 902 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_a.md) 
+
+## Bandit Hovercraft B 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 4 × 2 (ammo: 25) 
+  - SRM 2 (ammo: 50) 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/231/bandit-hovercraft-b) 
+- **Battle Value:** 753 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_b.md) 
+
+## Bandit Hovercraft C 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 6 × 2 (ammo: 15) 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/232/bandit-hovercraft-c) 
+- **Battle Value:** 792 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_c.md) 
+
+## Bandit Hovercraft D 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 5 × 3 (ammo: 24) 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/233/bandit-hovercraft-d) 
+- **Battle Value:** 827 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_d.md) 
+
+## Bandit Hovercraft E 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 10 (ammo: 12) 
+  - Medium Laser 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/234/bandit-hovercraft-e) 
+- **Battle Value:** 839 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_e.md) 
+
+## Bandit Hovercraft F 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/235/bandit-hovercraft-f) 
+- **Battle Value:** 887 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_f.md) 
+
+## Bandit Hovercraft G 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3008) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Small Laser × 6 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/236/bandit-hovercraft-g) 
+- **Battle Value:** 837 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_g.md) 
+
+## Bandit Hovercraft H 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - SRM 2 (ammo: 50) 
+- **Equipment:** 
+  - Infantry (8.0 tons) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/237/bandit-hovercraft-h) 
+- **Battle Value:** 708 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_h.md) 
+
+## Bandit Hovercraft I 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Light PPC × 2 
+  - Light Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - Infantry (4.0 tons) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/238/bandit-hovercraft-i) 
+- **Battle Value:** 914 
+- [*More Info*](bandit_hovercraft/bandit_hovercraft_i.md) 
+

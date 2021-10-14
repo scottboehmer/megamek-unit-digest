@@ -1,0 +1,39 @@
+# Magi Infantry Support Vehicle 
+
+## Magi Infantry Support Vehicle (Standard) 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2727) 
+- **Chassis:** 70 tons Tracked 
+- **Movement:** 5 / 8, Fusion 
+- **Armor:** 170 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 3 
+  - Machine Gun × 2 (ammo: 200) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1991/magi-infantry-support-vehicle-standard) 
+- **Battle Value:** 798 
+- [*More Info*](magi_infantry_support_vehicle/magi_infantry_support_vehicle_standard.md) 
+
+## Magi Infantry Support Vehicle (UCSV) 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 70 tons Tracked 
+- **Movement:** 5 / 8, Light 
+- **Armor:** 170 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 3 
+  - Machine Gun × 4 (ammo: 300) 
+- **Equipment:** 
+  - CASE 
+  - C3i 
+  - Machine Gun Array 
+  - Infantry (6.0 tons) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1992/magi-infantry-support-vehicle-ucsv) 
+- **Battle Value:** 813 
+- [*More Info*](magi_infantry_support_vehicle/magi_infantry_support_vehicle_ucsv.md) 
+

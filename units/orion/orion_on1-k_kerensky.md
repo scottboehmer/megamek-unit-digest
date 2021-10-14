@@ -1,0 +1,32 @@
+# Orion ON1-K (Kerensky) 
+
+[Other Orion variants](../orion.md) 
+
+## Orion ON1-K (Kerensky) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2753) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 231 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Snub-Nose PPC 
+  - SRM 4 w/ Artemis IV (ammo: 25) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3050U - Star League , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1821 
+
+## Availability 
+
+### Star League (Unique) 
+
+- Star League - Royal Divisions 
+
+### Early Succession Wars 
+
+- Star League-in-Exile 
+

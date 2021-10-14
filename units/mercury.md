@@ -1,0 +1,89 @@
+# Mercury 
+
+## Mercury MCY-99 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2742) 
+- **Chassis:** 20 tons 
+- **Movement:** 8 / 12 (16) 
+- **Armor:** 53 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Small Laser × 2 
+- **Equipment:** 
+  - MASC 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Battle Value:** 586 
+- [*More Info*](mercury/mercury_mcy-99.md) 
+
+## Mercury MCY-98 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2810) 
+- **Chassis:** 20 tons 
+- **Movement:** 8 / 12 
+- **Armor:** 64 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 2 
+  - Small Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Battle Value:** 553 
+- [*More Info*](mercury/mercury_mcy-98.md) 
+
+## Mercury MCY-97 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3049) 
+- **Chassis:** 20 tons 
+- **Movement:** 8 / 12 (16) 
+- **Armor:** 53 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+  - Small Laser 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - MASC 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Battle Value:** 466 
+- [*More Info*](mercury/mercury_mcy-97.md) 
+
+## Mercury MCY-102 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 8 / 12 (16) 
+- **Armor:** 53 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - ER Small Laser 
+- **Equipment:** 
+  - C3i 
+  - MASC 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Battle Value:** 510 
+- [*More Info*](mercury/mercury_mcy-102.md) 
+
+## Mercury MCY-104 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 8 / 12 (16), XL 
+- **Armor:** 69 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - C3i 
+  - MASC 
+  - TAG 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Battle Value:** 683 
+- [*More Info*](mercury/mercury_mcy-104.md) 
+

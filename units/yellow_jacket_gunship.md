@@ -1,0 +1,63 @@
+# Yellow Jacket Gunship 
+
+## Yellow Jacket Gunship (Ammo) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 6 / 9, ICE 
+- **Armor:** 40 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3613/yellow-jacket-gunship-ammo) 
+- **Battle Value:** 803 
+- [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_ammo.md) 
+
+## Yellow Jacket Gunship (Standard) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 6 / 9, ICE 
+- **Armor:** 56 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3617/yellow-jacket-gunship-standard) 
+- **Battle Value:** 782 
+- [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_standard.md) 
+
+## Yellow Jacket Gunship (RAC) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 6 / 9, ICE 
+- **Armor:** 80 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - RAC/5 (ammo: 40) 
+- **Equipment:** 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3616/yellow-jacket-gunship-rac) 
+- **Battle Value:** 704 
+- [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_rac.md) 
+
+## Yellow Jacket Gunship (Arrow IV) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 6 / 9, ICE 
+- **Armor:** 48 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Arrow IV (ammo: 10) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3614/yellow-jacket-gunship-arrow-iv) 
+- **Battle Value:** 612 
+- [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_arrow_iv.md) 
+

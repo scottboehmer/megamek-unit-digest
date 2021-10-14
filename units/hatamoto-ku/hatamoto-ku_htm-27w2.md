@@ -1,0 +1,31 @@
+# Hatamoto-Ku HTM-27W2 
+
+[Other Hatamoto-Ku variants](../hatamoto-ku.md) 
+
+## Hatamoto-Ku HTM-27W2 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3115) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 247 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Light AC/5 (ammo: 40) 
+- **Equipment:** 
+  - C3 Boosted Slave 
+  - CASE II 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1699 
+
+## Availability 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
+

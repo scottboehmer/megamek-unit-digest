@@ -1,0 +1,49 @@
+# Po Heavy Tank 
+
+## Po Heavy Tank (Standard) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3031) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 168 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - AC/10 (ammo: 20) 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2549/po-heavy-tank-standard) 
+- **Battle Value:** 719 
+- [*More Info*](po_heavy_tank/po_heavy_tank_standard.md) 
+
+## Po Heavy Tank (Light Gauss) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3059) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 144 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Light Gauss Rifle (ammo: 48) 
+  - Machine Gun × 3 (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2548/po-heavy-tank-light-gauss) 
+- **Battle Value:** 734 
+- [*More Info*](po_heavy_tank/po_heavy_tank_light_gauss.md) 
+
+## Po Heavy Tank (LB-X) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 168 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 10 Cluster, 20 Standard) 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2547/po-heavy-tank-lb-x) 
+- **Battle Value:** 778 
+- [*More Info*](po_heavy_tank/po_heavy_tank_lb-x.md) 
+

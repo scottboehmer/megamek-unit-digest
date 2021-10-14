@@ -1,0 +1,40 @@
+# Lightning Attack Hovercraft (ERML) 
+
+[Other Lightning Attack Hovercraft variants](../lightning_attack_hovercraft.md) 
+
+## Lightning Attack Hovercraft (ERML) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 35 tons Hover 
+- **Movement:** 11 / 17, Fusion 
+- **Armor:** 62 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - Rocket 15 × 7 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1880/lightning-attack-hovercraft-erml) 
+- **Battle Value:** 956 
+
+## Availability 
+
+### Civil War 
+
+- Word of Blake 
+
+### Jihad 
+
+- Word of Blake 
+
+### Early Republic 
+
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
+

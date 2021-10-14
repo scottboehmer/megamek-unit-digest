@@ -1,0 +1,100 @@
+# Baboon (Howler) 
+
+## Howler (Standard) "Baboon" 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (2871) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 5 × 3 (ammo: 72) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Battle Value:** 645 
+- [*More Info*](howler/howler_standard.md) 
+
+## Howler 4 "Baboon" 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (2877) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11 
+  - **Jumping:** 7 
+- **Armor:** 67 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 5 (ammo: 24) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Battle Value:** 506 
+- [*More Info*](howler/howler_4.md) 
+
+## Howler 5 "Baboon" 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3053) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 6 
+- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1363 
+- [*More Info*](howler/howler_5.md) 
+
+## Howler 2 "Baboon" 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3063) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ATM 3 × 4 (ammo: 40) 
+- **Equipment:** 
+  - CASE 
+  - MASC 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Battle Value:** 757 
+- [*More Info*](howler/howler_2.md) 
+
+## Howler 3 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3066) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+- **Equipment:** 
+  - Targeting Computer 
+  - MASC 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Battle Value:** 1277 
+- [*More Info*](howler/howler_3.md) 
+
+## Howler 6 "Baboon" 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3086) 
+- **Chassis:** 20 tons (Endo Steel) 
+- **Movement:** 7 / 11 
+- **Armor:** 57 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - Shoulder Turret 
+  - CASE II 
+- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Battle Value:** 550 
+- [*More Info*](howler/howler_6.md) 
+
