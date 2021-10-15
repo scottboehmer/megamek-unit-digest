@@ -152,6 +152,10 @@ Karnov UR Transport (3055 Upgrade)
 Karnov UR Transport (BA)
 Kestrel VTOL (MedEvac)
 Peregrine Attack VTOL (Cargo)
+BattleMech Recovery Vehicle (Standard)
+Flatbed Truck (AC)
+Heavy BattleMech Recovery Vehicle (Standard)
+Morningstar City Command Vehicle (HPG)
 
 --------------------------------------------------
-4233 mtf files -> 4233 parsed files -> 4231 converted files -> 4227 validated units
+4383 mtf files -> 4383 parsed files -> 4381 converted files -> 4375 validated units

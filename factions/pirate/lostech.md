@@ -19,6 +19,12 @@
 - [**Armored Personnel Carrier (Wheeled SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_srm.md) *Scout (2500)* 
 - [**Armored Personnel Carrier (Wheeled)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled.md) *Scout (2500)* 
 
+#### [Flatbed Truck](../../units/flatbed_truck.md) 
+
+- [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
+- [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
 - [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
@@ -34,6 +40,27 @@
 - [**Mobile Long Tom Artillery Support Carriage LT-MOB-25**](../../units/mobile_long_tom_artillery_support_carriage/mobile_long_tom_artillery_support_carriage_lt-mob-25.md) *Undefined (2602)* 
 
 ### 20 Tons 
+
+#### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
+
+- [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* 
+- [**Heavy Hover APC (MG)**](../../units/heavy_hover_apc/heavy_hover_apc_mg.md) *Scout (2470)* 
+- [**Heavy Hover APC (SRM)**](../../units/heavy_hover_apc/heavy_hover_apc_srm.md) *Scout (2470)* 
+- [**Heavy Hover APC (Standard)**](../../units/heavy_hover_apc/heavy_hover_apc_standard.md) *Scout (2470)* 
+
+#### [Heavy Tracked APC](../../units/heavy_tracked_apc.md) 
+
+- [**Heavy Tracked APC (LRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* 
+- [**Heavy Tracked APC (MG)**](../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* 
+- [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
+- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
+
+#### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
+
+- [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (MG)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_mg.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (SRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (Standard)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* 
 
 #### [M.A.S.H. Truck](../../units/m.a.s.h._truck.md) 
 
@@ -125,6 +152,10 @@
 
 ### 50 Tons 
 
+#### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
+
+- [**BattleMech Recovery Vehicle (Standard)**](../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
 #### [Condor Heavy Hover Tank](../../units/condor_heavy_hover_tank.md) 
 
 - [**Condor Heavy Hover Tank (Standard)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_standard.md) *Striker (2564)* 
@@ -177,6 +208,12 @@
 #### [Marksman Artillery Vehicle](../../units/marksman_artillery_vehicle.md) 
 
 - [**Marksman Artillery Vehicle (Standard)**](../../units/marksman_artillery_vehicle/marksman_artillery_vehicle_standard.md) *Missile Boat (2702)* 
+
+### 70 Tons 
+
+#### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
+
+- [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
 ### 75 Tons 
 

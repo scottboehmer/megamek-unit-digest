@@ -4,6 +4,12 @@
 
 ### 10 Tons 
 
+#### [Flatbed Truck](../../units/flatbed_truck.md) 
+
+- [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
+- [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
 - [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
@@ -26,6 +32,12 @@
 #### [Engineering Vehicle](../../units/engineering_vehicle.md) 
 
 - [**Engineering Vehicle (Standard)**](../../units/engineering_vehicle/engineering_vehicle_standard.md) *Undefined (2570)* 
+
+### 70 Tons 
+
+#### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
+
+- [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
 ## ’Mechs 
 

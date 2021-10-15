@@ -32,6 +32,13 @@
 - [**Armored Personnel Carrier (Wheeled SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_srm.md) *Scout (2500)* 
 - [**Armored Personnel Carrier (Wheeled)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled.md) *Scout (2500)* 
 
+#### [Flatbed Truck](../../units/flatbed_truck.md) 
+
+- [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
+- [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
+- [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
 - [**J-27 Ordnance Transport (Fusion)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
@@ -59,7 +66,34 @@
 - [**Sprint Scout Helicopter (Troop Transport)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_troop_transport.md) *Scout (3056)* 
 - [**Sprint Scout Helicopter (C3)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_c3.md) *Scout (3057)* 
 
+### 15 Tons 
+
+#### [Mantis Light Attack VTOL](../../units/mantis_light_attack_vtol.md) 
+
+- [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* 
+
 ### 20 Tons 
+
+#### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
+
+- [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* 
+- [**Heavy Hover APC (MG)**](../../units/heavy_hover_apc/heavy_hover_apc_mg.md) *Scout (2470)* 
+- [**Heavy Hover APC (SRM)**](../../units/heavy_hover_apc/heavy_hover_apc_srm.md) *Scout (2470)* 
+- [**Heavy Hover APC (Standard)**](../../units/heavy_hover_apc/heavy_hover_apc_standard.md) *Scout (2470)* 
+
+#### [Heavy Tracked APC](../../units/heavy_tracked_apc.md) 
+
+- [**Heavy Tracked APC (LRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* 
+- [**Heavy Tracked APC (MG)**](../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* 
+- [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
+- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
+
+#### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
+
+- [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (MG)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_mg.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (SRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (Standard)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* 
 
 #### [M.A.S.H. Truck](../../units/m.a.s.h._truck.md) 
 
@@ -106,6 +140,11 @@
 - [**Harasser Missile Platform (Standard)**](../../units/harasser_missile_platform/harasser_missile_platform_standard.md) *Striker (2811)* 
 - [**Harasser Missile Platform (Flamer)**](../../units/harasser_missile_platform/harasser_missile_platform_flamer.md) *Striker (2851)* 
 - [**Harasser Missile Platform 'Mini-Peggy'**](../../units/harasser_missile_platform/harasser_missile_platform_mini-peggy.md) *Striker (3028)* 
+
+#### [Hawk Moth Gunship](../../units/hawk_moth_gunship.md) 
+
+- [**Hawk Moth Gunship (Armor)**](../../units/hawk_moth_gunship/hawk_moth_gunship_armor.md) *Sniper (3060)* 
+- [**Hawk Moth Gunship (Standard)**](../../units/hawk_moth_gunship/hawk_moth_gunship_standard.md) *Sniper (3060)* 
 
 #### [J. Edgar Light Hover Tank](../../units/j._edgar_light_hover_tank.md) 
 
@@ -210,6 +249,10 @@
 - [**Striker Light Tank (LRM)**](../../units/striker_light_tank/striker_light_tank_lrm.md) *Missile Boat (3022)* 
 - [**Striker Light Tank (Ammo)**](../../units/striker_light_tank/striker_light_tank_ammo.md) *Missile Boat (3054)* 
 
+#### [Svantovit Infantry Fighting Vehicle](../../units/svantovit_infantry_fighting_vehicle.md) 
+
+- [**Svantovit Infantry Fighting Vehicle (Original)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_original.md) *Striker (2843)* 
+
 ### 40 Tons 
 
 #### [Engineering Vehicle](../../units/engineering_vehicle.md) 
@@ -236,6 +279,10 @@
 - [**Goblin Medium Tank (Standard)**](../../units/goblin_medium_tank/goblin_medium_tank_standard.md) *Brawler (2500)* 
 
 ### 50 Tons 
+
+#### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
+
+- [**BattleMech Recovery Vehicle (Standard)**](../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
 #### [Chaparral Missile Artillery Tank](../../units/chaparral_missile_artillery_tank.md) 
 
@@ -331,6 +378,10 @@
 
 ### 70 Tons 
 
+#### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
+
+- [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
 #### [Magi Infantry Support Vehicle](../../units/magi_infantry_support_vehicle.md) 
 
 - [**Magi Infantry Support Vehicle (Standard)**](../../units/magi_infantry_support_vehicle/magi_infantry_support_vehicle_standard.md) *Skirmisher (2727)* 
@@ -386,6 +437,13 @@
 - [**Rhino Fire Support Tank (MG)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 - [**Rhino Fire Support Tank (Flamer)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_flamer.md) *Missile Boat (2835)* 
 - [**Rhino Fire Support Tank (SL)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_sl.md) *Missile Boat (2840)* 
+
+#### [Schiltron Mobile Fire-Support Platform](../../units/schiltron_mobile_fire-support_platform.md) 
+
+- [**Schiltron Mobile Fire-Support Platform Prime**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_prime.md) *Missile Boat (3059)* 
+- [**Schiltron Mobile Fire-Support Platform A**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_a.md) *Juggernaut (3059)* 
+- [**Schiltron Mobile Fire-Support Platform B**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_b.md) *Missile Boat (3059)* 
+- [**Schiltron Mobile Fire-Support Platform C**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_c.md) *Juggernaut (3059)* 
 
 #### [Schrek AC Carrier](../../units/schrek_ac_carrier.md) 
 

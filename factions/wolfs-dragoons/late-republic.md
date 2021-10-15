@@ -25,6 +25,19 @@
 - [**Centipede Scout Car (Standard)**](../../units/centipede_scout_car/centipede_scout_car_standard.md) *Scout (3054)* 
 - [**Centipede Scout Car (SRM)**](../../units/centipede_scout_car/centipede_scout_car_srm.md) *Scout (3062)* 
 
+#### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
+
+- [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* 
+- [**Heavy Hover APC (MG)**](../../units/heavy_hover_apc/heavy_hover_apc_mg.md) *Scout (2470)* 
+- [**Heavy Hover APC (SRM)**](../../units/heavy_hover_apc/heavy_hover_apc_srm.md) *Scout (2470)* 
+- [**Heavy Hover APC (Standard)**](../../units/heavy_hover_apc/heavy_hover_apc_standard.md) *Scout (2470)* 
+
+### 21 Tons 
+
+#### [Donar Assault Helicopter](../../units/donar_assault_helicopter.md) 
+
+- [**Donar Assault Helicopter (Standard)**](../../units/donar_assault_helicopter/donar_assault_helicopter_standard.md) *Striker (3017)* 
+
 ### 25 Tons 
 
 #### [Blizzard Hover Transport](../../units/blizzard_hover_transport.md) 
