@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Command Console 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/142/atlas-as7-d-dc) 
 - **Battle Value:** 1858 
 
 ## Availability 

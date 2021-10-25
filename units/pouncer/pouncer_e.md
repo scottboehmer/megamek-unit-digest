@@ -17,7 +17,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2561/pouncer-e) 
 - **Battle Value:** 1632 
 
 ## Availability 

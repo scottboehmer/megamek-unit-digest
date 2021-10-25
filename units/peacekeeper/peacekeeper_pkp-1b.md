@@ -18,7 +18,7 @@
   - ER Large Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453/peacekeeper-pkp-1b) 
 - **Battle Value:** 2981 
 
 ## Availability 

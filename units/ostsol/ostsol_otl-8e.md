@@ -15,7 +15,7 @@
   - Large X-Pulse Laser × 2 
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
 - **Battle Value:** 1552 
 
 ## Availability 

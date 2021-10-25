@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1899/locust-lct-1m) 
 - **Battle Value:** 424 
 
 ## Availability 

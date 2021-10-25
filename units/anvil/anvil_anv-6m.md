@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/52/anvil-anv-6m) 
 - **Battle Value:** 1366 
 
 ## Availability 

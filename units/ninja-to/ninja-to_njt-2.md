@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4726/ninja-to-njt-2) 
 - **Battle Value:** 1527 
 
 ## Availability 

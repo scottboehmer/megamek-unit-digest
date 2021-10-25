@@ -16,7 +16,7 @@
   - SRM 2 (iOS) × 14 
 - **Equipment:** 
   - Light Active Probe 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8235/crossbow-t) 
 - **Battle Value:** 1729 
 
 ## Availability 

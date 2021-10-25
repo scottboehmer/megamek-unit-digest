@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE II 
   - Inner Sphere C3i 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr) 
 - **Battle Value:** 1194 
 
 ## Availability 

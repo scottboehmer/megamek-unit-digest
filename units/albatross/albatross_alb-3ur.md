@@ -18,7 +18,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
 - **Battle Value:** 1902 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2010/man-o-war-gargoyle-prime) 
 - **Battle Value:** 1537 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** RS VA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7159/peacekeeper-pk-6-securitymech) 
 - **Battle Value:** 422 
 - [*More Info*](peacekeeper/peacekeeper_pk-6_securitymech.md) 
 
@@ -38,7 +38,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452/peacekeeper-pkp-1a) 
 - **Battle Value:** 2824 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1a.md) 
 
@@ -58,7 +58,7 @@
   - ER Large Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453/peacekeeper-pkp-1b) 
 - **Battle Value:** 2981 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1b.md) 
 
@@ -79,7 +79,7 @@
   - Medium X-Pulse Laser 
 - **Equipment:** 
   - C3 Emergency Master 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836/peacekeeper-pkp-2k) 
 - **Battle Value:** 2863 
 - [*More Info*](peacekeeper/peacekeeper_pkp-2k.md) 
 

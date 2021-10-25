@@ -17,7 +17,7 @@
   - C3i 
   - MASC 
   - TAG 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2170/mercury-mcy-104) 
 - **Battle Value:** 683 
 
 ## Availability 

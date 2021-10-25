@@ -15,7 +15,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7798/warhammer-whm-6k-olesko) 
 - **Battle Value:** 1338 
 
 ## Availability 

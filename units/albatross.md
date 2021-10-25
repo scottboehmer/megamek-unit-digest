@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/27/albatross-alb-3u) 
 - **Battle Value:** 1668 
 - [*More Info*](albatross/albatross_alb-3u.md) 
 
@@ -38,7 +38,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/29/albatross-alb-4u) 
 - **Battle Value:** 1907 
 - [*More Info*](albatross/albatross_alb-4u.md) 
 
@@ -82,7 +82,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
 - **Battle Value:** 1902 
 - [*More Info*](albatross/albatross_alb-3ur.md) 
 

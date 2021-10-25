@@ -14,7 +14,7 @@
   - Large Laser × 2 
   - Medium Pulse Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1182/gallowglas-gal-1gls) 
 - **Battle Value:** 1695 
 - [*More Info*](gallowglas/gallowglas_gal-1gls.md) 
 
@@ -33,7 +33,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1183/gallowglas-gal-2gls) 
 - **Battle Value:** 1857 
 - [*More Info*](gallowglas/gallowglas_gal-2gls.md) 
 
@@ -50,7 +50,7 @@
   - ER PPC 
   - ER Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1188/gallowglas-wd) 
 - **Battle Value:** 2094 
 - [*More Info*](gallowglas/gallowglas_wd.md) 
 
@@ -70,7 +70,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1185/gallowglas-gal-3gls) 
 - **Battle Value:** 2291 
 - [*More Info*](gallowglas/gallowglas_gal-3gls.md) 
 
@@ -89,7 +89,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1186/gallowglas-gal-4gls) 
 - **Battle Value:** 1944 
 - [*More Info*](gallowglas/gallowglas_gal-4gls.md) 
 
@@ -110,7 +110,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1187/gallowglas-gal-4glsa) 
 - **Battle Value:** 2017 
 - [*More Info*](gallowglas/gallowglas_gal-4glsa.md) 
 
@@ -130,7 +130,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1184/gallowglas-gal-2glsa) 
 - **Battle Value:** 1771 
 - [*More Info*](gallowglas/gallowglas_gal-2glsa.md) 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Heavy PPC × 2 
   - Medium Laser × 12 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3511/warlord-blr-2g) 
 - **Battle Value:** 2033 
 
 ## Availability 

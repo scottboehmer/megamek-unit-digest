@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Plasma Rifle × 2 (ammo: 30) 
   - Medium Laser × 6 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707/jinggau-jn-g7l) 
 - **Battle Value:** 2137 
 
 ## Availability 

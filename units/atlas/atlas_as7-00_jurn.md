@@ -21,7 +21,7 @@
   - Command Console 
   - CASE II 
   - Remote Sensor Dispenser × 2 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5564/atlas-as7-00-jurn) 
 - **Battle Value:** 2053 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3906/cattlemaster-ctl-3r2-hunter-industrialmech) 
 - **Battle Value:** 245 
 
 ## Availability 

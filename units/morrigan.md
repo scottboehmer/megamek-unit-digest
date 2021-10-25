@@ -15,7 +15,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2231/morrigan-standard) 
 - **Battle Value:** 1523 
 - [*More Info*](morrigan/morrigan_standard.md) 
 
@@ -34,7 +34,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2229/morrigan-2) 
 - **Battle Value:** 1874 
 - [*More Info*](morrigan/morrigan_2.md) 
 
@@ -53,7 +53,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2230/morrigan-3) 
 - **Battle Value:** 1390 
 - [*More Info*](morrigan/morrigan_3.md) 
 
@@ -70,7 +70,7 @@
   - ER Small Laser × 10 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6927/morrigan-4) 
 - **Battle Value:** 2063 
 - [*More Info*](morrigan/morrigan_4.md) 
 
@@ -88,7 +88,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6926/morrigan-5) 
 - **Battle Value:** 1904 
 - [*More Info*](morrigan/morrigan_5.md) 
 

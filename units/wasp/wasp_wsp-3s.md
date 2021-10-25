@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3529/wasp-wsp-3s) 
 - **Battle Value:** 595 
 
 ## Availability 

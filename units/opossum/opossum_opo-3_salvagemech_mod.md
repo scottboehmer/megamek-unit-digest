@@ -14,7 +14,7 @@
   - Light AC/2 (ammo: 45) 
 - **Equipment:** 
   - Salvage Arm 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7848/opossum-opo-3-salvagemech-mod) 
 - **Battle Value:** 239 
 
 ## Availability 

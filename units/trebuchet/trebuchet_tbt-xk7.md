@@ -21,7 +21,7 @@
 - **Equipment:** 
   - Small Shield 
   - Modular Armor × 3 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5563/trebuchet-tbt-xk7) 
 - **Battle Value:** 1549 
 
 ## Availability 

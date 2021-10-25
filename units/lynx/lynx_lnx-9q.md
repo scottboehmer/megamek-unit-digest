@@ -15,7 +15,7 @@
   - ER PPC 
   - Large Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1968/lynx-lnx-9q) 
 - **Battle Value:** 1725 
 
 ## Availability 

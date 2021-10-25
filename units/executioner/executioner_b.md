@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 24) 
   - MASC 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1204/gladiator-executioner-b) 
 - **Battle Value:** 2940 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - MML 5 w/ Artemis IV × 2 (ammo: 72 LRM, 40 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/763/crusader-crd-7w) 
 - **Battle Value:** 1162 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1835/koshi-mist-lynx-p) 
 - **Battle Value:** 1064 
 
 ## Availability 

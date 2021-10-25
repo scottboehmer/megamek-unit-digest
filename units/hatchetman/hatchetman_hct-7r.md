@@ -17,7 +17,7 @@
   - Hatchet 
 - **Equipment:** 
   - AES × 2 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7295/hatchetman-hct-7r) 
 - **Battle Value:** 1521 
 
 ## Availability 

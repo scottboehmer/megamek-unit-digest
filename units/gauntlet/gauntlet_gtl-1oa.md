@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6622/gauntlet-gtl-1oa) 
 - **Battle Value:** 1420 
 
 ## Availability 

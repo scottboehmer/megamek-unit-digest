@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3226/thunder-stallion-3) 
 - **Battle Value:** 2631 
 
 ## Availability 

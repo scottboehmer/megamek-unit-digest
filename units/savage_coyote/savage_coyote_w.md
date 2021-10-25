@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - Light TAG 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5706/savage-coyote-w) 
 - **Battle Value:** 2792 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
 - **Battle Value:** 1373 
 
 ## Availability 

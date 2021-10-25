@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3345/uller-kit-fox-f) 
 - **Battle Value:** 1219 
 
 ## Availability 

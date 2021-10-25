@@ -18,7 +18,7 @@
   - ECM Suite 
   - CASE II 
   - Cargo 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6256/wulfen-prime) 
 - **Battle Value:** 983 
 
 ## Availability 

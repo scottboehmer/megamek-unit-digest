@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Searchlight 
   - Cargo 
-- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3905/cattlemaster-ctl-3r-herder-industrialmech) 
 - **Battle Value:** 226 
 
 ## Availability 

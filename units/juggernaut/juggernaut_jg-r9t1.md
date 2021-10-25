@@ -17,7 +17,7 @@
   - Machine Gun × 16 (ammo: 400) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1713/juggernaut-jg-r9t1) 
 - **Battle Value:** 1719 
 
 ## Availability 

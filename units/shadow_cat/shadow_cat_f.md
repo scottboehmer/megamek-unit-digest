@@ -18,7 +18,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6912/shadow-cat-f) 
 - **Battle Value:** 2997 
 
 ## Availability 

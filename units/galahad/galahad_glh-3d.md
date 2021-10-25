@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1169/galahad-glh-3d) 
 - **Battle Value:** 1268 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1602/icestorm-standard) 
 - **Battle Value:** 728 
 
 ## Availability 

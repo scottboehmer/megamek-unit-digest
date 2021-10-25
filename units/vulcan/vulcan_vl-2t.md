@@ -16,7 +16,7 @@
   - AC/2 (ammo: 45) 
   - Flamer 
   - Machine Gun (ammo: 200) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3458/vulcan-vl-2t) 
 - **Battle Value:** 642 
 
 ## Availability 

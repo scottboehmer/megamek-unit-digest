@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Silver Bullet × 2 (ammo: 32) 
   - ER Medium Laser × 2 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g) 
 - **Battle Value:** 1302 
 
 ## Availability 

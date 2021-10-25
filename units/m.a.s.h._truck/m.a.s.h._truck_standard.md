@@ -13,8 +13,7 @@
 - **Weapons:** 
   - Small Laser × 2 
 - **Equipment:** 
-  - MASH Extra Theater × 4 
-  - MASH 
+  - MASH (1 theaters) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1971/mash-truck-standard) 
 - **Battle Value:** 220 
 

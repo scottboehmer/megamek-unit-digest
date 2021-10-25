@@ -16,7 +16,7 @@
   - Searchlight 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** TRO VA - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4842/pompier-gm-3a-firemech) 
 - **Battle Value:** 106 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Mace 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6617/storm-raider-stm-r4) 
 - **Battle Value:** 732 
 
 ## Availability 

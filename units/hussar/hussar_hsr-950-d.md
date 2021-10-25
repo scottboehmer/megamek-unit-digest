@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1592/hussar-hsr-950-d) 
 - **Battle Value:** 1131 
 
 ## Availability 

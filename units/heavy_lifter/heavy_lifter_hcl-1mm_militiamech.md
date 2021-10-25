@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7870/heavy-lifter-hcl-1mm-militiamech) 
 - **Battle Value:** 981 
 
 ## Availability 

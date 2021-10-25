@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6354/templar-iii-tlr2-oa) 
 - **Battle Value:** 1677 
 
 ## Availability 

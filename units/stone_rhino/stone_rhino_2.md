@@ -20,7 +20,7 @@
   - Anti-Missile System (ammo: 24) 
   - A-Pod × 2 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2) 
 - **Battle Value:** 3107 
 
 ## Availability 

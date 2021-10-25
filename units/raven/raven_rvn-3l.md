@@ -19,7 +19,7 @@
   - Beagle Active Probe 
   - CASE 
   - TAG 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2664/raven-rvn-3l) 
 - **Battle Value:** 708 
 
 ## Availability 

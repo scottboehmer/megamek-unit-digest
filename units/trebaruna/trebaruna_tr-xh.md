@@ -16,7 +16,7 @@
   - ER PPC 
 - **Equipment:** 
   - Quad Turret 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6834/trebaruna-tr-xh) 
 - **Battle Value:** 2453 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Nova CEWS 
   - Targeting Computer 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5815/pariah-septicemia-d-z) 
 - **Battle Value:** 2704 
 
 ## Availability 

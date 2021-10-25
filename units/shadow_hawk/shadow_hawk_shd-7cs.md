@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2907/shadow-hawk-shd-7cs) 
 - **Battle Value:** 1496 
 
 ## Availability 

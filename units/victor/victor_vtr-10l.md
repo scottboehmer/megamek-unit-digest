@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405/victor-vtr-10l) 
 - **Battle Value:** 2279 
 
 ## Availability 

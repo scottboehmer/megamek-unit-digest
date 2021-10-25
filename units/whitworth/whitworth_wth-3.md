@@ -15,7 +15,7 @@
   - LRM 5 × 4 (ammo: 96) 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543/whitworth-wth-3) 
 - **Battle Value:** 861 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - AC/10 (ammo: 20) 
   - LRM 10 (ammo: 24) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/516/centurion-cn9-a) 
 - **Battle Value:** 945 
 
 ## Availability 

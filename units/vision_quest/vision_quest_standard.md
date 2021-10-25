@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7638/vision-quest-standard) 
 - **Battle Value:** 2458 
 
 ## Availability 

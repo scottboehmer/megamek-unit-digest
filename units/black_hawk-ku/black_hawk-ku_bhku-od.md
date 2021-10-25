@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 20 (ammo: 12) 
   - ER Large Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/350/black-hawk-ku-bhku-od) 
 - **Battle Value:** 1539 
 
 ## Availability 

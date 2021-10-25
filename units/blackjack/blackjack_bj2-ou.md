@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - HarJel × 5 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386/blackjack-bj2-ou) 
 - **Battle Value:** 1223 
 
 ## Availability 

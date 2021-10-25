@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m) 
 - **Battle Value:** 1408 
 
 ## Availability 

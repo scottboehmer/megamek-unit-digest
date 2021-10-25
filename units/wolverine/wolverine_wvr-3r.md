@@ -16,7 +16,7 @@
   - AC/5 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7408/wolverine-wvr-3r) 
 - **Battle Value:** 867 
 
 ## Availability 

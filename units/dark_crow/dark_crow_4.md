@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/826/dark-crow-4) 
 - **Battle Value:** 1538 
 
 ## Availability 

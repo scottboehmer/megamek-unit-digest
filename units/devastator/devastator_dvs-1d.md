@@ -14,7 +14,7 @@
   - AC/10 × 2 (ammo: 40) 
   - Large Laser × 2 
   - Medium Laser × 4 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/893/devastator-dvs-1d) 
 - **Battle Value:** 1858 
 
 ## Availability 

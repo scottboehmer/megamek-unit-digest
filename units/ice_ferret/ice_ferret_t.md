@@ -18,7 +18,7 @@
   - Active Probe 
   - CASE 
   - Supercharger 
-- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t) 
 - **Battle Value:** 1825 
 
 ## Availability 

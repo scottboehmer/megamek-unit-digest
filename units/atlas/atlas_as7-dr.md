@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr) 
 - **Battle Value:** 2101 
 
 ## Availability 

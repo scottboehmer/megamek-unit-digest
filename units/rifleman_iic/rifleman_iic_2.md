@@ -15,7 +15,7 @@
   - Ultra AC/2 × 4 (ammo: 270) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711/rifleman-iic-2) 
 - **Battle Value:** 1345 
 
 ## Availability 

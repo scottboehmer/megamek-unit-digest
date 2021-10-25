@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/974/enfield-end-6s) 
 - **Battle Value:** 1413 
 
 ## Availability 

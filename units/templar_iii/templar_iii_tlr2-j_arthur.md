@@ -20,7 +20,7 @@
   - Command Console 
   - CASE II 
   - Clan Targeting Computer 
-- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955/templar-iii-tlr-2j-arthur) 
 - **Battle Value:** 2705 
 
 ## Availability 

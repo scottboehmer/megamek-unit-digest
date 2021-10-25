@@ -16,7 +16,7 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2394/pack-hunter-3) 
 - **Battle Value:** 1747 
 
 ## Availability 

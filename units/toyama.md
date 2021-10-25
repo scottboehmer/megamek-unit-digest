@@ -15,7 +15,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3278/toyama-tym-1a) 
 - **Battle Value:** 1714 
 - [*More Info*](toyama/toyama_tym-1a.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3279/toyama-tym-1b) 
 - **Battle Value:** 1788 
 - [*More Info*](toyama/toyama_tym-1b.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3280/toyama-tym-1c) 
 - **Battle Value:** 1727 
 - [*More Info*](toyama/toyama_tym-1c.md) 
 

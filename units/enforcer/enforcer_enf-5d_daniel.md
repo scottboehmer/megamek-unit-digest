@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/979/enforcer-enf-5d-daniel) 
 - **Battle Value:** 1738 
 
 ## Availability 

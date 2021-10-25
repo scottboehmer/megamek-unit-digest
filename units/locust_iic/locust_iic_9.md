@@ -15,7 +15,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - Laser Anti-Missile System 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9) 
 - **Battle Value:** 1133 
 
 ## Availability 

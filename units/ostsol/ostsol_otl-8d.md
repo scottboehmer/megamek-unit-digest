@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377/ostsol-otl-8d) 
 - **Battle Value:** 1462 
 
 ## Availability 

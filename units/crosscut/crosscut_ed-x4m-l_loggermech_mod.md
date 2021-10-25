@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 5-X AC (ammo: 20) 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7854/crosscut-ed-x4m-l-loggermech-mod) 
 - **Battle Value:** 230 
 
 ## Availability 

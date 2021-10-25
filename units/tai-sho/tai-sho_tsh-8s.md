@@ -17,7 +17,7 @@
 - **Equipment:** 
   - C3 Slave 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151/tai-sho-tsh-8s) 
 - **Battle Value:** 2001 
 
 ## Availability 

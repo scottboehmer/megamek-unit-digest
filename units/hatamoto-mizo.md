@@ -11,7 +11,7 @@
 - **Weapons:** 
   - PPC × 2 
   - ER Large Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1409/hatamoto-mizo-htm-27y) 
 - **Battle Value:** 1675 
 - [*More Info*](hatamoto-mizo/hatamoto-mizo_htm-27y.md) 
 

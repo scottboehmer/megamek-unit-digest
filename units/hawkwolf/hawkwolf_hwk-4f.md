@@ -15,7 +15,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6576/hawkwolf-hwk-4f) 
 - **Battle Value:** 1428 
 
 ## Availability 

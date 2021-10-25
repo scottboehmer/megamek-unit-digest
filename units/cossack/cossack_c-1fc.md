@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium VSP Laser 
   - Rocket 10 × 3 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/702/cossack-c-1fc) 
 - **Battle Value:** 483 
 
 ## Availability 

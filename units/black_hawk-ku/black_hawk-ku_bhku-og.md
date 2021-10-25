@@ -18,7 +18,7 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
   - TAG 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6890/black-hawk-ku-bhku-og) 
 - **Battle Value:** 1719 
 
 ## Availability 

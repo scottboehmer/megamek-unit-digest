@@ -16,7 +16,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4304/hellion-b) 
 - **Battle Value:** 1569 
 
 ## Availability 

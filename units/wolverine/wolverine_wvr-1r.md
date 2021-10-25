@@ -15,7 +15,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 40) 
   - Medium Laser 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r) 
 - **Battle Value:** 885 
 
 ## Availability 

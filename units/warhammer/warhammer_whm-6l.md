@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Flamer × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487/warhammer-whm-6l) 
 - **Battle Value:** 1311 
 
 ## Availability 

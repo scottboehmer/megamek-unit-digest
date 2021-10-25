@@ -18,7 +18,7 @@
   - SRM 2 (OS) 
 - **Equipment:** 
   - Bomb Bay × 5 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5392/wasp-lam-mk-i-wsp-100) 
 - **Battle Value:** 489 
 
 ## Availability 

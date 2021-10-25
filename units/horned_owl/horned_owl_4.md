@@ -16,7 +16,7 @@
   - ATM 3 × 4 (ammo: 40 Standard, 20 ER) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475/peregrine-horned-owl-4) 
 - **Battle Value:** 1198 
 
 ## Availability 

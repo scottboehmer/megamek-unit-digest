@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6278/loki-mk-ii-hel-a) 
 - **Battle Value:** 2249 
 
 ## Availability 

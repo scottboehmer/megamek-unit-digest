@@ -18,7 +18,7 @@
   - Small VSP Laser × 3 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8194/thunderbolt-tdr-12r) 
 - **Battle Value:** 1975 
 
 ## Availability 

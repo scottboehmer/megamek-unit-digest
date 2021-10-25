@@ -15,7 +15,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/379/blackjack-bj2-oa) 
 - **Battle Value:** 1318 
 
 ## Availability 

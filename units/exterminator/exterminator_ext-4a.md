@@ -16,7 +16,7 @@
   - Medium Laser × 4 
   - Small Laser 
   - Machine Gun (ammo: 200) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147/exterminator-ext-4a) 
 - **Battle Value:** 1372 
 
 ## Availability 

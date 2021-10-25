@@ -15,7 +15,7 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2755/ryoken-stormcrow-g) 
 - **Battle Value:** 2152 
 
 ## Availability 

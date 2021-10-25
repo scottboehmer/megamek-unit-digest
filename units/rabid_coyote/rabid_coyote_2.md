@@ -17,7 +17,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5682/rabid-coyote-2) 
 - **Battle Value:** 2083 
 
 ## Availability 

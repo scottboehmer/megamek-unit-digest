@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049/marauder-mad-9s) 
 - **Battle Value:** 1786 
 
 ## Availability 

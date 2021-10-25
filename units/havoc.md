@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6502/havoc-hvc-p6) 
 - **Battle Value:** 1255 
 - [*More Info*](havoc/havoc_hvc-p6.md) 
 

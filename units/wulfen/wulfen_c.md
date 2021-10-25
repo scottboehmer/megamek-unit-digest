@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6259/wulfen-c) 
 - **Battle Value:** 1334 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Machine Gun Array × 2 
   - MASC 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1011/eyleuka-eyl-4a) 
 - **Battle Value:** 1509 
 
 ## Availability 

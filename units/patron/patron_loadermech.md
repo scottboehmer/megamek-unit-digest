@@ -16,7 +16,7 @@
   - Lift Hoist 
   - Mech Sprayer 
   - Cargo 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792/patron-ptn-loadermech) 
 - **Battle Value:** 106 
 
 ## Availability 

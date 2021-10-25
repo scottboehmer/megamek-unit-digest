@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c) 
 - **Battle Value:** 2916 
 
 ## Availability 

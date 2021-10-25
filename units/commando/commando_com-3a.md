@@ -14,7 +14,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/672/commando-com-3a) 
 - **Battle Value:** 540 
 
 ## Availability 

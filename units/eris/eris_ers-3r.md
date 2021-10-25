@@ -18,7 +18,7 @@
   - Angel ECM Suite 
   - Partial Wing 
   - TAG 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8252/eris-ers-3r) 
 - **Battle Value:** 1868 
 
 ## Availability 

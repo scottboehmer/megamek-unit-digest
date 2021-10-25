@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7869/heavy-lifter-hcl-1m-cargomech-mod) 
 - **Battle Value:** 905 
 
 ## Availability 

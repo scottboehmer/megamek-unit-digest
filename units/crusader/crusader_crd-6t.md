@@ -16,7 +16,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8225/crusader-crd-6t) 
 - **Battle Value:** 1890 
 
 ## Availability 

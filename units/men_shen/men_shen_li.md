@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6981/men-shen-ms1-o-li) 
 - **Battle Value:** 1550 
 
 ## Availability 

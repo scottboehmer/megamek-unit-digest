@@ -17,7 +17,7 @@
   - Nova CEWS 
   - Light TAG 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5812/pariah-septicemia-a-z) 
 - **Battle Value:** 2388 
 
 ## Availability 

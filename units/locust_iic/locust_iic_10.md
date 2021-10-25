@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - ER Small Laser × 8 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203/locust-iic-10) 
 - **Battle Value:** 1248 
 
 ## Availability 

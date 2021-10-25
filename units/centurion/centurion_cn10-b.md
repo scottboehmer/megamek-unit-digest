@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3921/centurion-cn10-b) 
 - **Battle Value:** 1243 
 
 ## Availability 

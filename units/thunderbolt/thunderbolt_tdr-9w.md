@@ -17,7 +17,7 @@
   - Clan Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8192/thunderbolt-tdr-9w) 
 - **Battle Value:** 1985 
 
 ## Availability 

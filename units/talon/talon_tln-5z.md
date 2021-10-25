@@ -14,7 +14,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3154/talon-tln-5z) 
 - **Battle Value:** 1168 
 
 ## Availability 

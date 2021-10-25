@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
 - **Battle Value:** 2575 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1890/linebacker-e) 
 - **Battle Value:** 1846 
 
 ## Availability 

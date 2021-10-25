@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472/peregrine-horned-owl-standard) 
 - **Battle Value:** 1434 
 
 ## Availability 

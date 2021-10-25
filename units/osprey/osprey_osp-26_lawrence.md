@@ -20,7 +20,7 @@
   - Beagle Active Probe 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2347/osprey-osp-26-lawrence) 
 - **Battle Value:** 1461 
 
 ## Availability 

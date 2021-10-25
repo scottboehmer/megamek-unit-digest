@@ -12,7 +12,7 @@
   - RAC/5 (ammo: 40) 
   - ER Large Laser 
   - LRM 10 w/ Artemis IV (ammo: 12) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929/shockwave-skw-2f) 
 - **Battle Value:** 1453 
 - [*More Info*](shockwave/shockwave_skw-2f.md) 
 
@@ -28,7 +28,7 @@
   - RAC/5 (ammo: 40) 
   - Large X-Pulse Laser 
   - LRM 10 (ammo: 12) 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2930/shockwave-skw-4g) 
 - **Battle Value:** 1449 
 - [*More Info*](shockwave/shockwave_skw-4g.md) 
 
@@ -47,7 +47,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6903/shockwave-skw-6h) 
 - **Battle Value:** 1364 
 - [*More Info*](shockwave/shockwave_skw-6h.md) 
 
@@ -65,7 +65,7 @@
   - Thumper Cannon (ammo: 0) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6902/shockwave-skw-8x) 
 - **Battle Value:** 1059 
 - [*More Info*](shockwave/shockwave_skw-8x.md) 
 

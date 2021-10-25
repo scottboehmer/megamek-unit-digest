@@ -14,7 +14,7 @@
   - PPC × 2 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/534/cestus-cts-6z) 
 - **Battle Value:** 1560 
 
 ## Availability 

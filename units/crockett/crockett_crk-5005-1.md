@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/729/crockett-crk-5005-1) 
 - **Battle Value:** 1908 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - Heavy Medium Laser × 10 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/341/black-hawk-nova-h) 
 - **Battle Value:** 1832 
 
 ## Availability 

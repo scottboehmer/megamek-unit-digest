@@ -18,7 +18,7 @@
 - **Equipment:** 
   - TAG 
   - CASE 
-- **Sources:** Op. Klondyke , [Master Unit List](Master Unit List) 
+- **Sources:** Op. Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/4172/firefly-ffl-3a) 
 - **Battle Value:** 797 
 
 ## Availability 

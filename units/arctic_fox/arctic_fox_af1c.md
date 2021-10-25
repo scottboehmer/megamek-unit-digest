@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC 
   - Large Pulse Laser 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94/arctic-fox-af1c) 
 - **Battle Value:** 948 
 
 ## Availability 

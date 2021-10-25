@@ -14,7 +14,7 @@
   - PPC 
   - LRM 10 × 2 (ammo: 24) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1229/goliath-gol-1h) 
 - **Battle Value:** 1449 
 
 ## Availability 

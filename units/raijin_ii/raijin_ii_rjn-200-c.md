@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2630/raijin-ii-rjn-200-c) 
 - **Battle Value:** 1754 
 
 ## Availability 

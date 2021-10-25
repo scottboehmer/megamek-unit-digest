@@ -14,7 +14,7 @@
 - **Weapons:** 
   - PPC 
   - LRM 10 (ammo: 24) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297/griffin-grf-1n) 
 - **Battle Value:** 1272 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/330/berserker-brz-b3) 
 - **Battle Value:** 2020 
 
 ## Availability 

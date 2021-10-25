@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 4 
   - Small Pulse Laser × 3 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92/arctic-fox-af1a) 
 - **Battle Value:** 858 
 
 ## Availability 

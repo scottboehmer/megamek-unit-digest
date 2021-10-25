@@ -15,7 +15,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/61/arbalest-3) 
 - **Battle Value:** 921 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484/warhammer-whm-5l) 
 - **Battle Value:** 1896 
 
 ## Availability 

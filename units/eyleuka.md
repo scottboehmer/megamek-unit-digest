@@ -18,7 +18,7 @@
   - Machine Gun Array × 2 
   - MASC 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1011/eyleuka-eyl-4a) 
 - **Battle Value:** 1509 
 - [*More Info*](eyleuka/eyleuka_eyl-4a.md) 
 
@@ -38,7 +38,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1008/eyleuka-eyl-35a) 
 - **Battle Value:** 1484 
 - [*More Info*](eyleuka/eyleuka_eyl-35a.md) 
 
@@ -60,7 +60,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1009/eyleuka-eyl-45a) 
 - **Battle Value:** 1387 
 - [*More Info*](eyleuka/eyleuka_eyl-45a.md) 
 
@@ -82,7 +82,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1010/eyleuka-eyl-45b) 
 - **Battle Value:** 1615 
 - [*More Info*](eyleuka/eyleuka_eyl-45b.md) 
 

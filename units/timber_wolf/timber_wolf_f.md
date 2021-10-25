@@ -17,7 +17,7 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1983/mad-cat-timber-wolf-f) 
 - **Battle Value:** 2764 
 
 ## Availability 

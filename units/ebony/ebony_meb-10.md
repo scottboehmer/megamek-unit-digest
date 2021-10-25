@@ -18,7 +18,7 @@
   - Sword 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/940/ebony-meb-10) 
 - **Battle Value:** 1020 
 
 ## Availability 

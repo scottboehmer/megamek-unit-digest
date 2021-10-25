@@ -20,7 +20,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/889/deva-c-dva-od-luminos) 
 - **Battle Value:** 1711 
 
 ## Availability 

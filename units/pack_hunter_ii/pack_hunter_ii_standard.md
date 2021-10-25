@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - B-Pod × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard) 
 - **Battle Value:** 1794 
 
 ## Availability 

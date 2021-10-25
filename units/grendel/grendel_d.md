@@ -19,7 +19,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1289/grendel-mongrel-d) 
 - **Battle Value:** 2212 
 
 ## Availability 

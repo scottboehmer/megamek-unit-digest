@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Large Laser 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/666/commando-com-1a) 
 - **Battle Value:** 475 
 
 ## Availability 

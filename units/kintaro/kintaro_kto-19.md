@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - Narc (ammo: 12) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1791/kintaro-kto-19) 
 - **Battle Value:** 1160 
 
 ## Availability 

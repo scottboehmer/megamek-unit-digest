@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - TAG 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1533/hitman-hm-1) 
 - **Battle Value:** 925 
 
 ## Availability 

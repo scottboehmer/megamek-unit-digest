@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5346/verfolger-vr5-r) 
 - **Battle Value:** 1639 
 
 ## Availability 

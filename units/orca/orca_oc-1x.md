@@ -23,7 +23,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-- **Sources:** XTRO Republic II - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7356/orca-oc-1x) 
 - **Battle Value:** 3357 
 
 ## Availability 

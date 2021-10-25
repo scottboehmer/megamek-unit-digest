@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/314/bear-cub-standard) 
 - **Battle Value:** 1052 
 - [*More Info*](bear_cub/bear_cub_standard.md) 
 
@@ -33,7 +33,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/315/bear-cub-2) 
 - **Battle Value:** 988 
 - [*More Info*](bear_cub/bear_cub_2.md) 
 
@@ -51,7 +51,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/316/bear-cub-3) 
 - **Battle Value:** 1086 
 - [*More Info*](bear_cub/bear_cub_3.md) 
 

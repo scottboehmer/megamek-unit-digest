@@ -15,7 +15,7 @@
   - Light PPC × 2 
   - Medium X-Pulse Laser × 2 
   - Small X-Pulse Laser × 2 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750/phoenix-hawk-pxh-4m) 
 - **Battle Value:** 1327 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Medium Laser 
   - Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2797/sarissa-mn1-d) 
 - **Battle Value:** 850 
 - [*More Info*](sarissa/sarissa_mn1-d.md) 
 

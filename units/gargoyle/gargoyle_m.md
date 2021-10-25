@@ -16,7 +16,7 @@
   - SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2009/man-o-war-gargoyle-m) 
 - **Battle Value:** 2182 
 
 ## Availability 

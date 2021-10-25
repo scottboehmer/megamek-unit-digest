@@ -16,7 +16,7 @@
   - Large Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds) 
 - **Battle Value:** 1285 
 
 ## Availability 

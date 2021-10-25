@@ -16,7 +16,7 @@
   - Ultra AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5460/mauler-mal-2r) 
 - **Battle Value:** 1586 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - Targeting Computer 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6881/koschei-ksc-6l) 
 - **Battle Value:** 1465 
 
 ## Availability 

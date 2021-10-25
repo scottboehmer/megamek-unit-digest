@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2074/marco-mr-8e) 
 - **Battle Value:** 476 
 
 ## Availability 

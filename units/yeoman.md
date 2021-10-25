@@ -13,7 +13,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3619/yeoman-ymn-6y) 
 - **Battle Value:** 1344 
 - [*More Info*](yeoman/yeoman_ymn-6y.md) 
 
@@ -32,7 +32,7 @@
   - MML 5 × 4 (ammo: 24 LRM, 40 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3618/yeoman-ymn-10-or) 
 - **Battle Value:** 1319 
 - [*More Info*](yeoman/yeoman_ymn-10-or.md) 
 

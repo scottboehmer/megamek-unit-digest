@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1185/gallowglas-gal-3gls) 
 - **Battle Value:** 2291 
 
 ## Availability 

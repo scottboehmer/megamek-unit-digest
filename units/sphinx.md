@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Medium Laser × 10 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007/sphinx-standard) 
 - **Battle Value:** 2883 
 - [*More Info*](sphinx/sphinx_standard.md) 
 
@@ -29,7 +29,7 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2) 
 - **Battle Value:** 2753 
 - [*More Info*](sphinx/sphinx_2.md) 
 
@@ -47,7 +47,7 @@
   - ECM Suite 
   - MASC 
   - Targeting Computer 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6864/sphinx-3) 
 - **Battle Value:** 3396 
 - [*More Info*](sphinx/sphinx_3.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Heavy Small Laser × 10 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6863/sphinx-4) 
 - **Battle Value:** 1952 
 - [*More Info*](sphinx/sphinx_4.md) 
 

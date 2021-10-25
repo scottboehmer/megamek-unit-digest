@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Rocket 10 × 4 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1902/locust-lct-1v2) 
 - **Battle Value:** 568 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - EW Equipment 
   - Remote Sensor Dispenser 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5795/cataphract-ctf-0x) 
 - **Battle Value:** 1258 
 - [*More Info*](cataphract/cataphract_ctf-0x.md) 
 
@@ -31,7 +31,7 @@
   - PPC 
   - AC/10 (ammo: 10) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/466/cataphract-ctf-1x) 
 - **Battle Value:** 1316 
 - [*More Info*](cataphract/cataphract_ctf-1x.md) 
 
@@ -48,7 +48,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/467/cataphract-ctf-2x) 
 - **Battle Value:** 1344 
 - [*More Info*](cataphract/cataphract_ctf-2x.md) 
 
@@ -64,7 +64,7 @@
   - Large Laser 
   - AC/5 × 2 (ammo: 80) 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/474/cataphract-ctf-4x) 
 - **Battle Value:** 1216 
 - [*More Info*](cataphract/cataphract_ctf-4x.md) 
 
@@ -81,7 +81,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/468/cataphract-ctf-2x-george) 
 - **Battle Value:** 1337 
 - [*More Info*](cataphract/cataphract_ctf-2x_george.md) 
 
@@ -100,7 +100,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/469/cataphract-ctf-3d) 
 - **Battle Value:** 1325 
 - [*More Info*](cataphract/cataphract_ctf-3d.md) 
 
@@ -118,7 +118,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/470/cataphract-ctf-3l) 
 - **Battle Value:** 1545 
 - [*More Info*](cataphract/cataphract_ctf-3l.md) 
 
@@ -137,7 +137,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/472/cataphract-ctf-3x-sara) 
 - **Battle Value:** 1734 
 - [*More Info*](cataphract/cataphract_ctf-3x_sara.md) 
 
@@ -156,7 +156,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/473/cataphract-ctf-4l) 
 - **Battle Value:** 2002 
 - [*More Info*](cataphract/cataphract_ctf-4l.md) 
 
@@ -198,7 +198,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/471/cataphract-ctf-3ll) 
 - **Battle Value:** 1664 
 - [*More Info*](cataphract/cataphract_ctf-3ll.md) 
 
@@ -219,7 +219,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/475/cataphract-ctf-5d) 
 - **Battle Value:** 1742 
 - [*More Info*](cataphract/cataphract_ctf-5d.md) 
 

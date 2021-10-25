@@ -15,7 +15,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712/cougar-prime) 
 - **Battle Value:** 1485 
 
 ## Availability 

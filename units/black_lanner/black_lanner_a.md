@@ -18,7 +18,7 @@
   - Active Probe 
   - MASC 
   - TAG 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/363/black-lanner-a) 
 - **Battle Value:** 2308 
 
 ## Availability 

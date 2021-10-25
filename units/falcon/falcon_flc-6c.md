@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 24) 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1029/falcon-flc-6c) 
 - **Battle Value:** 1290 
 
 ## Availability 

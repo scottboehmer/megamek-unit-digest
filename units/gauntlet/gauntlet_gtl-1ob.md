@@ -19,7 +19,7 @@
   - MASC 
   - Targeting Computer 
   - Coolant Pod × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6623/gauntlet-gtl-1ob) 
 - **Battle Value:** 2076 
 
 ## Availability 

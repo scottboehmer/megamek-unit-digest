@@ -16,7 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2013/mangonel-mnl-3w) 
 - **Battle Value:** 2657 
 
 ## Availability 

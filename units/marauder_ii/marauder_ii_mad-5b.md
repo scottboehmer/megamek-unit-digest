@@ -15,7 +15,7 @@
   - Gauss Rifle (ammo: 24) 
   - ER PPC × 2 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
 - **Battle Value:** 2589 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7) 
 - **Battle Value:** 980 
 
 ## Availability 

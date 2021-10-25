@@ -16,7 +16,7 @@
   - MagShot Gauss Rifle × 6 (ammo: 100) 
 - **Equipment:** 
   - Coolant Pod × 6 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1715/juggernaut-jg-r9t3) 
 - **Battle Value:** 1959 
 
 ## Availability 

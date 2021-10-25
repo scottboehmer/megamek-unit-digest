@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Slave 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2) 
 - **Battle Value:** 1654 
 
 ## Availability 

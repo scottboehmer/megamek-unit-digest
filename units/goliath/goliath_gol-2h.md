@@ -14,7 +14,7 @@
   - PPC 
   - LRM 10 × 2 (ammo: 24) 
   - Rocket 10 × 6 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1230/goliath-gol-2h) 
 - **Battle Value:** 1583 
 
 ## Availability 

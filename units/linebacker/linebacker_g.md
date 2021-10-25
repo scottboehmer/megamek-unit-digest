@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 6 - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6880/linebacker-g) 
 - **Battle Value:** 2433 
 
 ## Availability 

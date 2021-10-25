@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Arrow IV (ammo: 10) 
   - ER Medium Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3353/urbanmech-um-aiv) 
 - **Battle Value:** 603 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Active Probe 
   - A-Pod × 4 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1072/fire-scorpion-2) 
 - **Battle Value:** 1749 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1986/mad-cat-timber-wolf-s) 
 - **Battle Value:** 2462 
 
 ## Availability 

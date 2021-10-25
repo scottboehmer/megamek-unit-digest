@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3075- Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5024/pariah-septicemia-prime) 
 - **Battle Value:** 2511 
 
 ## Availability 

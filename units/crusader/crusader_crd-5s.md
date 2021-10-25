@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s) 
 - **Battle Value:** 1446 
 
 ## Availability 

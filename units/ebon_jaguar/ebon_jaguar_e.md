@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e) 
 - **Battle Value:** 2391 
 
 ## Availability 

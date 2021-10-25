@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Small Laser 
-- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7426/thor-ii-grand-summoner-e) 
 - **Battle Value:** 2638 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402/hatamoto-chi-htm-28tr) 
 - **Battle Value:** 2034 
 
 ## Availability 

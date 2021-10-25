@@ -19,7 +19,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h) 
 - **Battle Value:** 1899 
 
 ## Availability 

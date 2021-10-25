@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2215/mongoose-mon-86) 
 - **Battle Value:** 887 
 
 ## Availability 

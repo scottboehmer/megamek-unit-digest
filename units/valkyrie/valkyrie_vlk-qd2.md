@@ -16,7 +16,7 @@
   - Light AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2) 
 - **Battle Value:** 638 
 
 ## Availability 

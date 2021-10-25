@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5026/sha-yu-syu-2b) 
 - **Battle Value:** 1379 
 
 ## Availability 

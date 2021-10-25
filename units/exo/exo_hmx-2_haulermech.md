@@ -12,7 +12,7 @@
 - **Myomer:** Industrial Triple-Strength 
 - **Cockpit:** Industrial 
 - **Heat Sinks:** 0 (0) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7841/exo-hmx-2-haulermech) 
 - **Battle Value:** 96 
 
 ## Availability 

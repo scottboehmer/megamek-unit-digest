@@ -15,7 +15,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/467/cataphract-ctf-2x) 
 - **Battle Value:** 1344 
 
 ## Availability 

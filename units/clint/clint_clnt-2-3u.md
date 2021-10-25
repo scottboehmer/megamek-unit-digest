@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/646/clint-clnt-2-3u) 
 - **Battle Value:** 1081 
 
 ## Availability 

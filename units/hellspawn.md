@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4307/hellspawn-hsn-7d) 
 - **Battle Value:** 1220 
 - [*More Info*](hellspawn/hellspawn_hsn-7d.md) 
 
@@ -33,7 +33,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4308/hellspawn-hsn-8e) 
 - **Battle Value:** 1341 
 - [*More Info*](hellspawn/hellspawn_hsn-8e.md) 
 
@@ -49,7 +49,7 @@
 - **Weapons:** 
   - MRM 20 × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4309/hellspawn-hsn-9f) 
 - **Battle Value:** 1118 
 - [*More Info*](hellspawn/hellspawn_hsn-9f.md) 
 
@@ -87,7 +87,7 @@
   - Light PPC 
   - MML 7 × 2 (ammo: 34 LRM, 14 SRM) 
   - Medium Pulse Laser × 2 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5673/hellspawn-hsn-10g) 
 - **Battle Value:** 1188 
 - [*More Info*](hellspawn/hellspawn_hsn-10g.md) 
 
@@ -107,7 +107,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674/hellspawn-hsn-10sr) 
 - **Battle Value:** 1411 
 - [*More Info*](hellspawn/hellspawn_hsn-10sr.md) 
 

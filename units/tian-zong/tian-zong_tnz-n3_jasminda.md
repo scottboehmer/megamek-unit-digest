@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7402/tian-zong-tnz-n2-jasminda) 
 - **Battle Value:** 1826 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Nova CEWS 
   - CASE II 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4767/osteon-prime) 
 - **Battle Value:** 3073 
 - [*More Info*](osteon/osteon_prime.md) 
 
@@ -37,7 +37,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5830/osteon-jaguar) 
 - **Battle Value:** 2526 
 - [*More Info*](osteon/osteon_jaguar.md) 
 
@@ -58,7 +58,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4766/osteon-a) 
 - **Battle Value:** 2291 
 - [*More Info*](osteon/osteon_a.md) 
 
@@ -77,7 +77,7 @@
   - Inner Sphere Large Vibroblade 
 - **Equipment:** 
   - Nova CEWS 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5823/osteon-b) 
 - **Battle Value:** 2625 
 - [*More Info*](osteon/osteon_b.md) 
 
@@ -97,7 +97,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - Targeting Computer 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5824/osteon-c) 
 - **Battle Value:** 3139 
 - [*More Info*](osteon/osteon_c.md) 
 
@@ -114,7 +114,7 @@
   - Large Pulse Laser × 4 
 - **Equipment:** 
   - Nova CEWS 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5825/osteon-d) 
 - **Battle Value:** 2587 
 - [*More Info*](osteon/osteon_d.md) 
 
@@ -135,7 +135,7 @@
   - Nova CEWS 
   - CASE 
   - Targeting Computer 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5826/osteon-e) 
 - **Battle Value:** 2762 
 - [*More Info*](osteon/osteon_e.md) 
 
@@ -157,7 +157,7 @@
   - Nova CEWS 
   - Machine Gun Array × 2 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5827/osteon-f) 
 - **Battle Value:** 2716 
 - [*More Info*](osteon/osteon_f.md) 
 
@@ -177,7 +177,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5828/osteon-g) 
 - **Battle Value:** 2251 
 - [*More Info*](osteon/osteon_g.md) 
 
@@ -197,7 +197,7 @@
   - Nova CEWS 
   - Inner Sphere HarJel × 4 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5829/osteon-u) 
 - **Battle Value:** 2647 
 - [*More Info*](osteon/osteon_u.md) 
 

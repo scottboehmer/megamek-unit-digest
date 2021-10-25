@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 24) 
   - MASC 
   - CASE 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6856/deimos-d) 
 - **Battle Value:** 2682 
 
 ## Availability 

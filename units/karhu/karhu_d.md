@@ -20,7 +20,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1751/karhu-d) 
 - **Battle Value:** 3118 
 
 ## Availability 

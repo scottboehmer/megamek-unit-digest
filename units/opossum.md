@@ -14,7 +14,7 @@
   - Beagle Active Probe 
   - Salvage Arm 
   - Remote Sensor Dispenser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7847/opossum-opo-2-salvagemech) 
 - **Battle Value:** 240 
 - [*More Info*](opossum/opossum_opo-2_salvagemech.md) 
 
@@ -30,7 +30,7 @@
   - Light AC/2 (ammo: 45) 
 - **Equipment:** 
   - Salvage Arm 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7848/opossum-opo-3-salvagemech-mod) 
 - **Battle Value:** 239 
 - [*More Info*](opossum/opossum_opo-3_salvagemech_mod.md) 
 

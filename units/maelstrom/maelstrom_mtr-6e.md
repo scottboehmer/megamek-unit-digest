@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1989/maelstrom-mtr-6e) 
 - **Battle Value:** 1806 
 
 ## Availability 

@@ -12,7 +12,7 @@
   - ER Large Laser 
   - Large Laser 
   - Medium Pulse Laser 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2271/night-hawk-ntk-2q) 
 - **Battle Value:** 997 
 - [*More Info*](night_hawk/night_hawk_ntk-2q.md) 
 
@@ -28,7 +28,7 @@
   - ER Large Laser 
   - Large Laser 
   - Clan Prototype ER Medium Laser 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7676/night-hawk-ntk-2q-ec) 
 - **Battle Value:** 1041 
 - [*More Info*](night_hawk/night_hawk_ntk-2q-ec.md) 
 
@@ -46,7 +46,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2272/night-hawk-ntk-2s) 
 - **Battle Value:** 1017 
 - [*More Info*](night_hawk/night_hawk_ntk-2s.md) 
 

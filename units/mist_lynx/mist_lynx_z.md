@@ -18,7 +18,7 @@
   - Active Probe 
   - CASE 
   - Modular Armor 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5643/koshi-mist-lynx-z) 
 - **Battle Value:** 970 
 
 ## Availability 

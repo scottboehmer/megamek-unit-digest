@@ -14,7 +14,7 @@
   - ER PPC 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/802/daimyo-dmo-1k) 
 - **Battle Value:** 1148 
 
 ## Availability 

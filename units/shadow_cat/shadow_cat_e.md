@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - Inner Sphere Coolant Pod × 2 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6913/shadow-cat-e) 
 - **Battle Value:** 2081 
 
 ## Availability 

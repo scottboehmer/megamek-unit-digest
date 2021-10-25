@@ -16,7 +16,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/676/commando-com-7s) 
 - **Battle Value:** 658 
 
 ## Availability 

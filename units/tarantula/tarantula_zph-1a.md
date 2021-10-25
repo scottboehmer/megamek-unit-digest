@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3160/tarantula-zph-1) 
 - **Battle Value:** 666 
 
 ## Availability 

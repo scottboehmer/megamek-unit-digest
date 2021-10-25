@@ -12,7 +12,7 @@
 - **Heat Sinks:** 23 (46) 
 - **Weapons:** 
   - ER Medium Laser × 12 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a) 
 - **Battle Value:** 2418 
 
 ## Availability 

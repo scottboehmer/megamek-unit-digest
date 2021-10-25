@@ -18,7 +18,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04) 
 - **Battle Value:** 1069 
 
 ## Availability 

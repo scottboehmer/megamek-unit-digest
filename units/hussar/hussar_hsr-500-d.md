@@ -14,7 +14,7 @@
   - ER PPC 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1590/hussar-hsr-500-d) 
 - **Battle Value:** 977 
 
 ## Availability 

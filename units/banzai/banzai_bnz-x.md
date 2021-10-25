@@ -18,7 +18,7 @@
 - **Equipment:** 
   - MASC 
   - Clan Supercharger 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/251/banzai-bnz-x) 
 - **Battle Value:** 2647 
 
 ## Availability 

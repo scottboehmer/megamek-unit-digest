@@ -18,7 +18,7 @@
   - Blue Shield PFD 
   - AES 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3647/zeus-x-zeu-9wd-stacy) 
 - **Battle Value:** 1921 
 
 ## Availability 

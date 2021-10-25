@@ -18,7 +18,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219/bandersnatch-bndr-01b) 
 - **Battle Value:** 1630 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1674/javelin-jvn-10f-fire-javelin) 
 - **Battle Value:** 835 
 
 ## Availability 

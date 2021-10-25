@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1344/guillotine-glt-8d) 
 - **Battle Value:** 1891 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Ultra AC/5 × 4 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725/jupiter-standard) 
 - **Battle Value:** 2784 
 
 ## Availability 

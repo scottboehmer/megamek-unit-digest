@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - CASE II 
   - Targeting Computer 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6342/centurion-cn11-ob) 
 - **Battle Value:** 1412 
 
 ## Availability 

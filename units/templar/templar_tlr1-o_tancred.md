@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5193/templar-tlr1-o-tancred) 
 - **Battle Value:** 2273 
 
 ## Availability 

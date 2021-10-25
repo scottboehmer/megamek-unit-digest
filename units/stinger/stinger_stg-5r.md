@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Rocket 15 × 2 
-- **Sources:** TRO Project Phoenix - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Project Phoenix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3064/stinger-stg-5r) 
 - **Battle Value:** 492 
 
 ## Availability 

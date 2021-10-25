@@ -18,7 +18,7 @@
   - B-Pod × 4 
   - Machine Gun Array × 2 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1237/goliath-gol-6h) 
 - **Battle Value:** 1653 
 
 ## Availability 

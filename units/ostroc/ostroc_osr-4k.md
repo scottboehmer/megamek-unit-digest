@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Snub-Nose PPC × 2 
   - ER Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2356/ostroc-osr-4k) 
 - **Battle Value:** 1490 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Laser Anti-Missile System 
   - Bloodhound Active Probe 
   - CASE 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2672/raven-x-rvn-3x) 
 - **Battle Value:** 1021 
 - [*More Info*](raven_x/raven_x_rvn-3x.md) 
 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** ilClan Vol 11 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m) 
 - **Battle Value:** 1307 
 
 ## Availability 

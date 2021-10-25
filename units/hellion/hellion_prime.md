@@ -17,7 +17,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4306/hellion-prime) 
 - **Battle Value:** 1873 
 
 ## Availability 

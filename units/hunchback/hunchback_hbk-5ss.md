@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1566/hunchback-hbk-5ss) 
 - **Battle Value:** 1295 
 
 ## Availability 

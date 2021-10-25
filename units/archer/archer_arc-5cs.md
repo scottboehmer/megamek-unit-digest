@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 4 (ammo: 48) 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7598/archer-arc-5cs) 
 - **Battle Value:** 1609 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - HarJel 
-- **Sources:** XTRO Boondocks , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/3021/spindrift-aquatic-securitymech-sdt-1) 
 - **Battle Value:** 441 
 
 ## Availability 

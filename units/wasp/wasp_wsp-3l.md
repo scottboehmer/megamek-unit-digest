@@ -16,7 +16,7 @@
   - Rocket 10 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3527/wasp-wsp-3l) 
 - **Battle Value:** 534 
 
 ## Availability 

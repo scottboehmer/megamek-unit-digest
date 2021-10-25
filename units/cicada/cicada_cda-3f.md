@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Laser × 2 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/594/cicada-cda-3f) 
 - **Battle Value:** 1329 
 
 ## Availability 

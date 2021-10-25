@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/74/archer-arc-2r) 
 - **Battle Value:** 1477 
 
 ## Availability 

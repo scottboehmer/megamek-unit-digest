@@ -18,7 +18,7 @@
   - ER Micro Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1333/grizzly-2) 
 - **Battle Value:** 2195 
 
 ## Availability 

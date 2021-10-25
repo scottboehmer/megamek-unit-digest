@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Re-Engineered Laser × 2 
   - Medium Laser 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6914/blackjack-bj-2r) 
 - **Battle Value:** 1136 
 
 ## Availability 

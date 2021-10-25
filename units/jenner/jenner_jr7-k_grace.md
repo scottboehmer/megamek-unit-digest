@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Narc (ammo: 18) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1696/jenner-jr7-k-grace) 
 - **Battle Value:** 702 
 
 ## Availability 

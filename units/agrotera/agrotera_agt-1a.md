@@ -21,7 +21,7 @@
   - AES 
   - Partial Wing 
   - TAG 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6459/agrotera-agt-1a) 
 - **Battle Value:** 1578 
 
 ## Availability 

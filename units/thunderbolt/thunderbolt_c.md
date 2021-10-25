@@ -15,7 +15,7 @@
   - Clan ER Large Laser 
   - Clan ER Medium Laser 
   - Clan ER Small Laser × 2 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c) 
 - **Battle Value:** 1671 
 
 ## Availability 

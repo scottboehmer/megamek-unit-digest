@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3565/wolfhound-wlf-3m) 
 - **Battle Value:** 786 
 
 ## Availability 

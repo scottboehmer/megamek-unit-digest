@@ -19,7 +19,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3279/toyama-tym-1b) 
 - **Battle Value:** 1788 
 
 ## Availability 

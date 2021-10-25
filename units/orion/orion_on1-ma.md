@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4756/orion-on1-ma) 
 - **Battle Value:** 1501 
 
 ## Availability 

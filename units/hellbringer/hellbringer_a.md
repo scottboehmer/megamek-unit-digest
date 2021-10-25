@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1923/loki-hellbringer-a) 
 - **Battle Value:** 1948 
 
 ## Availability 

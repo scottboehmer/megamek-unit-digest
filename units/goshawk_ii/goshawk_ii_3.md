@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Liquid Cargo 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1248/goshawk-ii-3) 
 - **Battle Value:** 2115 
 
 ## Availability 

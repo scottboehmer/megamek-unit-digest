@@ -19,7 +19,7 @@
   - Command Console 
   - CASE 
   - Supercharger 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7319/wyvern-city-wve-5ux) 
 - **Battle Value:** 1273 
 
 ## Availability 

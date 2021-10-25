@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3546/wight-wgt-1lawsc) 
 - **Battle Value:** 1142 
 
 ## Availability 

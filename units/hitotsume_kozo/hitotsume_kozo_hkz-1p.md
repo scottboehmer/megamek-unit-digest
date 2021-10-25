@@ -17,7 +17,7 @@
   - Ultra AC/10 (ammo: 20) 
   - Medium Pulse Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6413/hitotsume-kozo-hkz-1p) 
 - **Battle Value:** 1611 
 
 ## Availability 

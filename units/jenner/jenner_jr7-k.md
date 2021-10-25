@@ -16,7 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1694/jenner-jr7-k) 
 - **Battle Value:** 889 
 
 ## Availability 

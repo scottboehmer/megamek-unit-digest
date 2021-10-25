@@ -14,7 +14,7 @@
   - Medium Pulse Laser 
   - Small Pulse Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3535/werewolf-wer-lf-004) 
 - **Battle Value:** 802 
 - [*More Info*](werewolf/werewolf_wer-lf-004.md) 
 
@@ -33,7 +33,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - Null-Signature System 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3536/werewolf-wer-lf-005) 
 - **Battle Value:** 1082 
 - [*More Info*](werewolf/werewolf_wer-lf-005.md) 
 

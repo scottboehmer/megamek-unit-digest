@@ -17,7 +17,7 @@
   - C3 Boosted Slave 
   - CASE II 
   - Supercharger 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s) 
 - **Battle Value:** 775 
 
 ## Availability 

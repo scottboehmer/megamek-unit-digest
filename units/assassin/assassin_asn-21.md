@@ -15,7 +15,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/127/assassin-asn-21) 
 - **Battle Value:** 749 
 
 ## Availability 

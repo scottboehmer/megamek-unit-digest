@@ -15,7 +15,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m) 
 - **Battle Value:** 1705 
 
 ## Availability 

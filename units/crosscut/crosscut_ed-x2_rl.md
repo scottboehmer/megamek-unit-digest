@@ -14,7 +14,7 @@
   - Clan Prototype Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/6973/crosscut-ed-x2-loggermech-rl) 
 - **Battle Value:** 422 
 
 ## Availability 

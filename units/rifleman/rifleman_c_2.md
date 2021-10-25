@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Improved Heavy Medium Laser × 2 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2) 
 - **Battle Value:** 2150 
 
 ## Availability 

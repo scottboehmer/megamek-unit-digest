@@ -22,7 +22,7 @@
   - Active Probe 
   - A-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328/turkina-c) 
 - **Battle Value:** 2798 
 
 ## Availability 

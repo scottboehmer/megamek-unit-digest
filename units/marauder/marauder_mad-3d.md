@@ -14,7 +14,7 @@
   - PPC × 2 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2035/marauder-mad-3d) 
 - **Battle Value:** 1470 
 
 ## Availability 

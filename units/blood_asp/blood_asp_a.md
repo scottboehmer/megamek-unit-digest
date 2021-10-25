@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/399/blood-asp-a) 
 - **Battle Value:** 3452 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Armored Bloodhound Active Probe 
   - TAG 
   - MASC 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5548/beowulf-beo-x-7a) 
 - **Battle Value:** 1473 
 
 ## Availability 

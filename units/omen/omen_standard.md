@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2318/omen-standard) 
 - **Battle Value:** 2750 
 
 ## Availability 

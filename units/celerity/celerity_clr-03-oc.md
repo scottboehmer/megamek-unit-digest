@@ -17,7 +17,7 @@
   - MASC 
   - Drone Operating System 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6706/celerity-clr-03-oc) 
 - **Battle Value:** 202 
 
 ## Availability 

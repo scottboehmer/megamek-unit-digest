@@ -19,7 +19,7 @@
   - Medium X-Pulse Laser 
 - **Equipment:** 
   - C3 Emergency Master 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836/peacekeeper-pkp-2k) 
 - **Battle Value:** 2863 
 
 ## Availability 

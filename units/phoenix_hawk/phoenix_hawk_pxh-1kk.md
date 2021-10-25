@@ -14,7 +14,7 @@
   - ER Large Laser 
   - Medium Pulse Laser × 2 
   - Small Laser 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872/phoenix-hawk-pxh-1kk) 
 - **Battle Value:** 1139 
 
 ## Availability 

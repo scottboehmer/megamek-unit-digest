@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Shoulder Turret 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6) 
 - **Battle Value:** 550 
 
 ## Availability 

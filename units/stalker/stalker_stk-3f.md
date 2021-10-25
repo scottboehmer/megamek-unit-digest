@@ -15,7 +15,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3035/stalker-stk-3f) 
 - **Battle Value:** 1559 
 
 ## Availability 

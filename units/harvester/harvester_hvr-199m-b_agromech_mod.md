@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
   - Combine 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7863/harvester-hvr-199m-b-agromech-mod) 
 - **Battle Value:** 460 
 
 ## Availability 

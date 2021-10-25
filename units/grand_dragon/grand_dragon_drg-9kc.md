@@ -16,7 +16,7 @@
   - MML 5 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1263/grand-dragon-drg-9kc) 
 - **Battle Value:** 1147 
 
 ## Availability 

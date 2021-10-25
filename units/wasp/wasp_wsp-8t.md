@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Light PPC 
   - MML 3 (ammo: 40 LRM, 33 SRM) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3532/wasp-wsp-8t) 
 - **Battle Value:** 439 
 
 ## Availability 

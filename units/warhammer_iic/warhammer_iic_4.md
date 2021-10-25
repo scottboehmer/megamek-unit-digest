@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3503/warhammer-iic-4) 
 - **Battle Value:** 2386 
 
 ## Availability 

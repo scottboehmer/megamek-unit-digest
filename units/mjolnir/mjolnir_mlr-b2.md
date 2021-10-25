@@ -16,7 +16,7 @@
   - ER Medium Laser 
   - ER Small Laser 
   - Mace 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2194/mjolnir-mlr-b2) 
 - **Battle Value:** 670 
 
 ## Availability 

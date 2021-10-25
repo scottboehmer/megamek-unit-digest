@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/389/blackjack-bj-4) 
 - **Battle Value:** 1063 
 
 ## Availability 

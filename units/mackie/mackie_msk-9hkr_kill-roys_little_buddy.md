@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876/mackie-msh-9hkr-kill-roys-little-buddy) 
 - **Battle Value:** 2162 
 
 ## Availability 

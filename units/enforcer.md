@@ -13,7 +13,7 @@
   - Large Laser 
   - AC/10 (ammo: 10) 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/976/enforcer-enf-4r) 
 - **Battle Value:** 1032 
 - [*More Info*](enforcer/enforcer_enf-4r.md) 
 
@@ -30,7 +30,7 @@
   - Prototype Gauss Rifle (ammo: 16) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/977/enforcer-enf-4r-daniel) 
 - **Battle Value:** 1247 
 - [*More Info*](enforcer/enforcer_enf-4r_daniel.md) 
 
@@ -49,7 +49,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/978/enforcer-enf-5d) 
 - **Battle Value:** 1308 
 - [*More Info*](enforcer/enforcer_enf-5d.md) 
 
@@ -68,7 +68,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/979/enforcer-enf-5d-daniel) 
 - **Battle Value:** 1738 
 - [*More Info*](enforcer/enforcer_enf-5d_daniel.md) 
 
@@ -87,7 +87,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8249/enforcer-enf-5r) 
 - **Battle Value:** 1192 
 - [*More Info*](enforcer/enforcer_enf-5r.md) 
 

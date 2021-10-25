@@ -16,7 +16,7 @@
   - Sniper (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1460/helepolis-hep-1h) 
 - **Battle Value:** 1063 
 
 ## Availability 

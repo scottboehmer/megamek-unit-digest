@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Radical Heat Sink System 
   - C3 Slave 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc) 
 - **Battle Value:** 2490 
 
 ## Availability 

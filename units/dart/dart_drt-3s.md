@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Pulse Laser × 3 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/828/dart-drt-3s) 
 - **Battle Value:** 436 
 
 ## Availability 

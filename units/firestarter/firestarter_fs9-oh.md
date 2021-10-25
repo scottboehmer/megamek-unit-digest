@@ -22,7 +22,7 @@
   - Anti-Missile System (ammo: 12) 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1107/firestarter-fs9-oh) 
 - **Battle Value:** 1119 
 
 ## Availability 

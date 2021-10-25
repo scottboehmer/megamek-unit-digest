@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Talons 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245/crossbow-j) 
 - **Battle Value:** 1839 
 
 ## Availability 

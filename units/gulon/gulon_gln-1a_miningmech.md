@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844/gulon-gln-1a-miningmech) 
 - **Battle Value:** 352 
 
 ## Availability 

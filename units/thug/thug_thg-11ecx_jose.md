@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Command Console 
   - Null-Signature System 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7322/thug-thg-11ecx-jose) 
 - **Battle Value:** 1720 
 
 ## Availability 

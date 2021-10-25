@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/20 (ammo: 30) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/244/banshee-bnc-3q) 
 - **Battle Value:** 1394 
 
 ## Availability 

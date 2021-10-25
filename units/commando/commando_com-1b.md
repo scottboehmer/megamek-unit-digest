@@ -14,7 +14,7 @@
   - Large Laser 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/667/commando-com-1b) 
 - **Battle Value:** 616 
 
 ## Availability 

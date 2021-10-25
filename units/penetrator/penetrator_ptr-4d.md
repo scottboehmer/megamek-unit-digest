@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2465/penetrator-ptr-4d) 
 - **Battle Value:** 1687 
 
 ## Availability 

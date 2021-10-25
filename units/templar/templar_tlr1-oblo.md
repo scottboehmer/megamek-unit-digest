@@ -20,7 +20,7 @@
   - Targeting Computer 
   - C3i 
   - CASE 
-- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](Master Unit List) 
+- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo) 
 - **Battle Value:** 2062 
 
 ## Availability 

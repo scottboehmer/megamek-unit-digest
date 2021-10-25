@@ -13,7 +13,7 @@
   - PPC × 2 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2055/marauder-ii-mad-4a) 
 - **Battle Value:** 2073 
 - [*More Info*](marauder_ii/marauder_ii_mad-4a.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2059/marauder-ii-mad-5a) 
 - **Battle Value:** 2058 
 - [*More Info*](marauder_ii/marauder_ii_mad-5a.md) 
 
@@ -49,7 +49,7 @@
   - Gauss Rifle (ammo: 24) 
   - ER PPC × 2 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
 - **Battle Value:** 2589 
 - [*More Info*](marauder_ii/marauder_ii_mad-5b.md) 
 
@@ -68,7 +68,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2061/marauder-ii-mad-5c) 
 - **Battle Value:** 2024 
 - [*More Info*](marauder_ii/marauder_ii_mad-5c.md) 
 
@@ -88,7 +88,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2053/marauder-ii-bounty-hunter) 
 - **Battle Value:** 3767 
 - [*More Info*](marauder_ii/marauder_ii_bounty_hunter.md) 
 
@@ -105,7 +105,7 @@
   - Heavy Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - ER Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s) 
 - **Battle Value:** 2623 
 - [*More Info*](marauder_ii/marauder_ii_mad-4s.md) 
 
@@ -124,7 +124,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c) 
 - **Battle Value:** 2916 
 - [*More Info*](marauder_ii/marauder_ii_c.md) 
 
@@ -143,7 +143,7 @@
   - Rocket 20 × 4 
   - Rocket 15 × 6 
   - Rocket 10 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
 - **Battle Value:** 2180 
 - [*More Info*](marauder_ii/marauder_ii_mad-4h.md) 
 
@@ -160,7 +160,7 @@
   - Gauss Rifle (ammo: 16) 
   - Heavy PPC × 2 
   - ER Small Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2057/marauder-ii-mad-4k) 
 - **Battle Value:** 2626 
 - [*More Info*](marauder_ii/marauder_ii_mad-4k.md) 
 
@@ -178,7 +178,7 @@
   - Snub-Nose PPC × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2062/marauder-ii-mad-5w) 
 - **Battle Value:** 2383 
 - [*More Info*](marauder_ii/marauder_ii_mad-5w.md) 
 
@@ -197,7 +197,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064/marauder-ii-mad-6m) 
 - **Battle Value:** 2218 
 - [*More Info*](marauder_ii/marauder_ii_mad-6m.md) 
 
@@ -216,7 +216,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d) 
 - **Battle Value:** 2378 
 - [*More Info*](marauder_ii/marauder_ii_mad-6d.md) 
 
@@ -234,7 +234,7 @@
   - ER PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6828/marauder-ii-mad-4l) 
 - **Battle Value:** 2839 
 - [*More Info*](marauder_ii/marauder_ii_mad-4l.md) 
 
@@ -255,7 +255,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TP Irian - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7331/marauder-ii-mad-6s) 
 - **Battle Value:** 2546 
 - [*More Info*](marauder_ii/marauder_ii_mad-6s.md) 
 

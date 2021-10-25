@@ -14,7 +14,7 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 36) 
   - Large Pulse Laser × 2 
   - LRM 5 w/ Artemis IV × 2 (ammo: 24) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1253/grand-crusader-grn-d-02) 
 - **Battle Value:** 1702 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - MASC 
   - CASE 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3580/wolverine-wvr-9d) 
 - **Battle Value:** 1369 
 
 ## Availability 

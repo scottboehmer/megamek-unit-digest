@@ -17,7 +17,7 @@
   - Lance 
 - **Equipment:** 
   - Spikes × 3 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1363/hachiwara-hca-6p) 
 - **Battle Value:** 2385 
 
 ## Availability 

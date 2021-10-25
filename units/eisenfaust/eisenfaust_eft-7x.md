@@ -15,7 +15,7 @@
   - ER Large Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/945/eisenfaust-eft-7x) 
 - **Battle Value:** 1203 
 
 ## Availability 

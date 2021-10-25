@@ -18,7 +18,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2359/ostroc-osr-5w) 
 - **Battle Value:** 1655 
 
 ## Availability 

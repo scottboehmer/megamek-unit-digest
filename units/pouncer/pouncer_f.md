@@ -20,7 +20,7 @@
   - Active Probe 
   - CASE 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850/pouncer-f) 
 - **Battle Value:** 1308 
 
 ## Availability 

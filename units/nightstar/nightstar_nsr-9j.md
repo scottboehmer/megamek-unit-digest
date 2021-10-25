@@ -15,7 +15,7 @@
   - ER PPC 
   - Medium Pulse Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2286/nightstar-nsr-9j) 
 - **Battle Value:** 2399 
 
 ## Availability 

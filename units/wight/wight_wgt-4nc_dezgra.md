@@ -18,7 +18,7 @@
   - Clan Watchdog CEWS 
   - Null-Signature System 
   - Chameleon LPS 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5600/wight-wgt-4nc-dezgra) 
 - **Battle Value:** 1578 
 
 ## Availability 

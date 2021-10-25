@@ -15,7 +15,7 @@
   - MML 7 w/ Artemis IV × 2 (ammo: 17 LRM, 14 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1852/kyudo-ky2-d-03) 
 - **Battle Value:** 1131 
 
 ## Availability 

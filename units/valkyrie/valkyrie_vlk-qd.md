@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3373/valkyrie-vlk-qd) 
 - **Battle Value:** 807 
 
 ## Availability 

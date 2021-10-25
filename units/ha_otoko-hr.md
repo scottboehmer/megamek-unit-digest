@@ -14,7 +14,7 @@
   - 'Mech Mortar/8 × 2 (ammo: 16) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4258/ha-otoko-hr) 
 - **Battle Value:** 1553 
 - [*More Info*](ha_otoko-hr/ha_otoko-hr_standard.md) 
 

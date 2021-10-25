@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1985/mad-cat-timber-wolf-prime) 
 - **Battle Value:** 2737 
 - [*More Info*](timber_wolf/timber_wolf_prime.md) 
 
@@ -35,7 +35,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1978/mad-cat-timber-wolf-a) 
 - **Battle Value:** 2854 
 - [*More Info*](timber_wolf/timber_wolf_a.md) 
 
@@ -55,7 +55,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1979/mad-cat-timber-wolf-b) 
 - **Battle Value:** 2224 
 - [*More Info*](timber_wolf/timber_wolf_b.md) 
 
@@ -75,7 +75,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1980/mad-cat-timber-wolf-c) 
 - **Battle Value:** 2500 
 - [*More Info*](timber_wolf/timber_wolf_c.md) 
 
@@ -93,7 +93,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1981/mad-cat-timber-wolf-d) 
 - **Battle Value:** 2682 
 - [*More Info*](timber_wolf/timber_wolf_d.md) 
 
@@ -133,7 +133,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1986/mad-cat-timber-wolf-s) 
 - **Battle Value:** 2462 
 - [*More Info*](timber_wolf/timber_wolf_s.md) 
 
@@ -153,7 +153,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1977/mad-cat-timber-wolf-pryde) 
 - **Battle Value:** 2900 
 - [*More Info*](timber_wolf/timber_wolf_pryde.md) 
 
@@ -173,7 +173,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7595/mad-cat-timber-wolf-tc) 
 - **Battle Value:** 2903 
 - [*More Info*](timber_wolf/timber_wolf_tc.md) 
 
@@ -191,7 +191,7 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1982/mad-cat-timber-wolf-e) 
 - **Battle Value:** 2444 
 - [*More Info*](timber_wolf/timber_wolf_e.md) 
 
@@ -209,7 +209,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1984/mad-cat-timber-wolf-h) 
 - **Battle Value:** 2627 
 - [*More Info*](timber_wolf/timber_wolf_h.md) 
 
@@ -229,7 +229,7 @@
   - Active Probe 
   - Targeting Computer 
   - Light TAG 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1976/mad-cat-timber-wolf-bounty-hunter) 
 - **Battle Value:** 2829 
 - [*More Info*](timber_wolf/timber_wolf_bounty_hunter.md) 
 
@@ -253,7 +253,7 @@
   - Targeting Computer 
   - CASE 
   - Coolant Pod 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5803/mad-cat-timber-wolf-bounty-hunter-2) 
 - **Battle Value:** 2799 
 - [*More Info*](timber_wolf/timber_wolf_bounty_hunter_2.md) 
 
@@ -291,7 +291,7 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1983/mad-cat-timber-wolf-f) 
 - **Battle Value:** 2764 
 - [*More Info*](timber_wolf/timber_wolf_f.md) 
 
@@ -310,7 +310,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5822/mad-cat-timber-wolf-z) 
 - **Battle Value:** 2923 
 - [*More Info*](timber_wolf/timber_wolf_z.md) 
 
@@ -330,7 +330,7 @@
 - **Equipment:** 
   - HarJel × 3 
   - CASE 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1987/mad-cat-timber-wolf-u) 
 - **Battle Value:** 2627 
 - [*More Info*](timber_wolf/timber_wolf_u.md) 
 
@@ -371,7 +371,7 @@
   - Inner Sphere C3i 
   - TAG 
   - CASE 
-- **Sources:** SO: Unending Faith - Late Republic Era , [Master Unit List](Master Unit List) 
+- **Sources:** SO: Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7635/mad-cat-timber-wolf-blo) 
 - **Battle Value:** 2611 
 - [*More Info*](timber_wolf/timber_wolf_blo.md) 
 

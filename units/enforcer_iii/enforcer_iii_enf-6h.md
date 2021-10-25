@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h) 
 - **Battle Value:** 1603 
 
 ## Availability 

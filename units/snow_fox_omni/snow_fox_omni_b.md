@@ -15,7 +15,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7880/snow-fox-omni-b) 
 - **Battle Value:** 1249 
 
 ## Availability 

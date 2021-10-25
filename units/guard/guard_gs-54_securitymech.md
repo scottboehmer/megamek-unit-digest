@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4253/guard-gs-54-securitymech) 
 - **Battle Value:** 156 
 
 ## Availability 

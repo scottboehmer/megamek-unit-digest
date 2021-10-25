@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Extended Fuel Tank 
-- **Sources:** RS VA - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3895/carbine-con-8-constructionmech) 
 - **Battle Value:** 198 
 
 ## Availability 

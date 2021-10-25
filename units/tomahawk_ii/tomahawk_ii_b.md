@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6305/tomahawk-ii-b) 
 - **Battle Value:** 3513 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464/pendragon-pdg-1x-muse-red) 
 - **Battle Value:** 2230 
 
 ## Availability 

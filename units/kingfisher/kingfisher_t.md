@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE II 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260/kingfisher-t) 
 - **Battle Value:** 2637 
 
 ## Availability 

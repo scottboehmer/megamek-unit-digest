@@ -18,7 +18,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2717/rifleman-iic-8) 
 - **Battle Value:** 2541 
 
 ## Availability 

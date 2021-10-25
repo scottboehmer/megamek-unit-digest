@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3360/urbanmech-um-r80) 
 - **Battle Value:** 699 
 
 ## Availability 

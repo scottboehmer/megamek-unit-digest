@@ -17,7 +17,7 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/408/blood-reaper-standard) 
 - **Battle Value:** 2665 
 
 ## Availability 

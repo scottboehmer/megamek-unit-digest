@@ -16,7 +16,7 @@
   - ATM 6 × 3 (ammo: 20 Standard, 10 ER, 10 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1844/kraken-bane-4) 
 - **Battle Value:** 2709 
 
 ## Availability 

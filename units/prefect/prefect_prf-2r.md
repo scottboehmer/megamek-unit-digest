@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Snub-Nose PPC × 2 
   - Light PPC × 2 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2571/prefect-prf-2r) 
 - **Battle Value:** 1710 
 
 ## Availability 

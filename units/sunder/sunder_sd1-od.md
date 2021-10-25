@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
   - PPC × 2 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3128/sunder-sd1-od) 
 - **Battle Value:** 1947 
 
 ## Availability 

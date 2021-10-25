@@ -13,7 +13,7 @@
 - **Heat Sinks:** 3 (3) 
 - **Weapons:** 
   - Clan Prototype Rocket 15 × 5 
-- **Sources:** RS VA - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/462/carbine-con-1-constructionmech-rl) 
 - **Battle Value:** 296 
 
 ## Availability 

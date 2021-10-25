@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/51/anvil-anv-5q) 
 - **Battle Value:** 1336 
 
 ## Availability 

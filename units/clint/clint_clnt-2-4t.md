@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - AC/2 × 2 (ammo: 45) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/648/clint-clnt-2-4t) 
 - **Battle Value:** 619 
 
 ## Availability 

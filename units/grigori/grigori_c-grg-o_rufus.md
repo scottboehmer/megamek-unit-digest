@@ -22,7 +22,7 @@
   - C3i 
   - CASE 
   - Supercharger 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1318/grigori-c-grg-o-rufus) 
 - **Battle Value:** 1380 
 
 ## Availability 

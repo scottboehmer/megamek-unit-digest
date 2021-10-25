@@ -17,7 +17,7 @@
 - **Equipment:** 
   - AES 
   - Supercharger 
-- **Sources:** XTR Mercs - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3564/wolfhound-wlf-2x) 
 - **Battle Value:** 1842 
 
 ## Availability 

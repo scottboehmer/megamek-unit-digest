@@ -17,7 +17,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430/bruin-standard) 
 - **Battle Value:** 2630 
 - [*More Info*](bruin/bruin_standard.md) 
 
@@ -37,7 +37,7 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/429/bruin-2) 
 - **Battle Value:** 2200 
 - [*More Info*](bruin/bruin_2.md) 
 

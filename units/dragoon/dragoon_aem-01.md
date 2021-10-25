@@ -16,7 +16,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Hist LOT II , [Master Unit List](Master Unit List) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780/dragoon-aem-01) 
 - **Battle Value:** 1669 
 
 ## Availability 

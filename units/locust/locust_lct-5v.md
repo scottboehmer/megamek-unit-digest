@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Rocket 10 × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1910/locust-lct-5v) 
 - **Battle Value:** 665 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - LRM 15 × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4016/crimson-langur-a) 
 - **Battle Value:** 2003 
 
 ## Availability 

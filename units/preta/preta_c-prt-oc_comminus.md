@@ -19,7 +19,7 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2576/preta-c-prt-oc-comminus) 
 - **Battle Value:** 1187 
 
 ## Availability 

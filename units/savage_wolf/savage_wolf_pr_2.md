@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6575/mad-cat-mk-iv-savage-wolf-pr-2) 
 - **Battle Value:** 2666 
 
 ## Availability 

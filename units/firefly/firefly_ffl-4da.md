@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1091/firefly-ffl-4da) 
 - **Battle Value:** 921 
 
 ## Availability 

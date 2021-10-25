@@ -18,7 +18,7 @@
   - Chameleon LPS 
   - Null-Signature System 
   - CASE II 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551/exterminator-ext-6cs) 
 - **Battle Value:** 1592 
 
 ## Availability 

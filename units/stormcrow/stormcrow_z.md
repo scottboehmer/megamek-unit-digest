@@ -17,7 +17,7 @@
   - Nova CEWS 
   - CASE 
   - Supercharger 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5820/ryoken-stormcrow-z) 
 - **Battle Value:** 2855 
 
 ## Availability 

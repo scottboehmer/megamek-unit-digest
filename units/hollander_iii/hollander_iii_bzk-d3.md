@@ -19,7 +19,7 @@
   - Angel ECM Suite 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6335/hollander-iii-bzk-d3) 
 - **Battle Value:** 1575 
 
 ## Availability 

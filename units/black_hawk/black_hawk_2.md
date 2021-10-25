@@ -16,7 +16,7 @@
   - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6555/black-hawk-2) 
 - **Battle Value:** 2161 
 
 ## Availability 

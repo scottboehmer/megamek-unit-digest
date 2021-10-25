@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7823/guard-gs-107x-securitymech) 
 - **Battle Value:** 367 
 
 ## Availability 

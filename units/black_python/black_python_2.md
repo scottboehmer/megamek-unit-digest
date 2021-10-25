@@ -20,7 +20,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3433/viper-black-python-2) 
 - **Battle Value:** 2520 
 
 ## Availability 

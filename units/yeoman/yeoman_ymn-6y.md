@@ -15,7 +15,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3619/yeoman-ymn-6y) 
 - **Battle Value:** 1344 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/371/black-watch-bkw-7r) 
 - **Battle Value:** 1998 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Clan Streak LRM 15 (ammo: 16) 
   - Clan ER Medium Pulse Laser 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952/cougar-x-2) 
 - **Battle Value:** 1293 
 
 ## Availability 

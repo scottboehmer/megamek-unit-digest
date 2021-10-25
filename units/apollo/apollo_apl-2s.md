@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s) 
 - **Battle Value:** 1283 
 
 ## Availability 

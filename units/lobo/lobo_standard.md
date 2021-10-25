@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard) 
 - **Battle Value:** 1715 
 
 ## Availability 

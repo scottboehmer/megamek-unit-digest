@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3547/wight-wgt-1lawsc3) 
 - **Battle Value:** 1057 
 
 ## Availability 

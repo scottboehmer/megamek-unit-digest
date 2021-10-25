@@ -14,7 +14,7 @@
   - Machine Gun × 12 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2535/piranha-standard) 
 - **Battle Value:** 998 
 - [*More Info*](piranha/piranha_standard.md) 
 
@@ -30,7 +30,7 @@
   - Heavy Medium Laser × 2 
   - Heavy Small Laser 
   - ER Micro Laser × 12 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2536/piranha-2) 
 - **Battle Value:** 853 
 - [*More Info*](piranha/piranha_2.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2537/piranha-3) 
 - **Battle Value:** 1142 
 - [*More Info*](piranha/piranha_3.md) 
 
@@ -69,7 +69,7 @@
   - Machine Gun Array × 2 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2534/piranha-4) 
 - **Battle Value:** 1005 
 - [*More Info*](piranha/piranha_4.md) 
 
@@ -88,7 +88,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8122/piranha-5) 
 - **Battle Value:** 1132 
 - [*More Info*](piranha/piranha_5.md) 
 

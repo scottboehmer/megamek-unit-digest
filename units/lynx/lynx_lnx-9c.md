@@ -15,7 +15,7 @@
   - ER PPC 
   - Medium Laser × 4 
   - Streak SRM 2 × 2 (ammo: 100) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1967/lynx-lnx-9c) 
 - **Battle Value:** 1630 
 
 ## Availability 

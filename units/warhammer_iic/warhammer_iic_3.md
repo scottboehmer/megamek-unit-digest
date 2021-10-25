@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3502/warhammer-iic-3) 
 - **Battle Value:** 2382 
 
 ## Availability 

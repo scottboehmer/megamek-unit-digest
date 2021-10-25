@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7152/harvester-ant-kic-3m-agromech-mod-kic-3-mg) 
 - **Battle Value:** 127 
 
 ## Availability 

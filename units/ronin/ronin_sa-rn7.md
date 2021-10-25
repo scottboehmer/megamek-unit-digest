@@ -17,7 +17,7 @@
   - Claw 
 - **Equipment:** 
   - M-Pod × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2739/ronin-sa-rn7) 
 - **Battle Value:** 1180 
 
 ## Availability 

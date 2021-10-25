@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
 - **Battle Value:** 1695 
 
 ## Availability 

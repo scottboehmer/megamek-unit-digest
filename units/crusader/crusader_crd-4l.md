@@ -14,7 +14,7 @@
   - LRM 15 × 2 (ammo: 16) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/757/crusader-crd-4l) 
 - **Battle Value:** 1309 
 
 ## Availability 

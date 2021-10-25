@@ -17,7 +17,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513/phoenix-hawk-iic-3) 
 - **Battle Value:** 2448 
 
 ## Availability 

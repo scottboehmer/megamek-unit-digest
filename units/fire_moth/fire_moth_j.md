@@ -16,7 +16,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7579/dasher-fire-moth-j) 
 - **Battle Value:** 1140 
 
 ## Availability 

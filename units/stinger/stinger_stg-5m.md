@@ -16,7 +16,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** RecGuide 13 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3063/stinger-stg-5m) 
 - **Battle Value:** 432 
 
 ## Availability 

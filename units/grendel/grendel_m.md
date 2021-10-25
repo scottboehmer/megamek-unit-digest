@@ -16,7 +16,7 @@
   - RAC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m) 
 - **Battle Value:** 1744 
 
 ## Availability 

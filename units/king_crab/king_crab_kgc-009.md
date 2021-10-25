@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635/king-crab-kgc-009) 
 - **Battle Value:** 2260 
 
 ## Availability 

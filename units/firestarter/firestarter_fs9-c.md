@@ -16,7 +16,7 @@
   - Rocket 15 × 2 
   - Rocket 10 × 4 
   - Flamer × 2 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1111/firestarter-fs9-c) 
 - **Battle Value:** 940 
 
 ## Availability 

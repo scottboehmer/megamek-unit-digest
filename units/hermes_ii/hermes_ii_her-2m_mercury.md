@@ -14,7 +14,7 @@
   - Medium Laser × 3 
   - Flamer 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1496/hermes-ii-her-2m-mercury) 
 - **Battle Value:** 910 
 
 ## Availability 

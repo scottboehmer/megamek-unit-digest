@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 2 
   - Large Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d) 
 - **Battle Value:** 1173 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Spikes × 3 
   - Supercharger 
   - CASE II 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1361/hachiwara-hca-4t) 
 - **Battle Value:** 1728 
 
 ## Availability 

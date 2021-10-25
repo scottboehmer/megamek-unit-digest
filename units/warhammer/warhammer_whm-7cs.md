@@ -17,7 +17,7 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs) 
 - **Battle Value:** 1751 
 
 ## Availability 

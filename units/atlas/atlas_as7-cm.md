@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3 Master 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/139/atlas-as7-cm) 
 - **Battle Value:** 2036 
 
 ## Availability 

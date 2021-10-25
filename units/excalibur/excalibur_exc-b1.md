@@ -16,7 +16,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/997/excalibur-exc-b1) 
 - **Battle Value:** 1549 
 
 ## Availability 

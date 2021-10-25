@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2338/orion-on2-m) 
 - **Battle Value:** 1828 
 
 ## Availability 

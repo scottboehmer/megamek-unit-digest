@@ -14,7 +14,7 @@
   - ER Large Laser × 2 
   - Medium Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2350/ostroc-osr-2cb) 
 - **Battle Value:** 1478 
 
 ## Availability 

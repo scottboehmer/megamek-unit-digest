@@ -15,7 +15,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Medium Laser 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r) 
 - **Battle Value:** 851 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Searchlight 
   - Lift Hoist 
   - Tracks 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1651/jabberwocky-jaw-66c-demolitionmech) 
 - **Battle Value:** 342 
 
 ## Availability 

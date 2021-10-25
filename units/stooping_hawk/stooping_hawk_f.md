@@ -18,7 +18,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3081/stooping-hawk-f) 
 - **Battle Value:** 1988 
 
 ## Availability 

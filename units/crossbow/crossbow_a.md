@@ -16,7 +16,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/730/crossbow-a) 
 - **Battle Value:** 1797 
 
 ## Availability 

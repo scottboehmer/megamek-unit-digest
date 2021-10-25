@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1051/fenris-ice-ferret-h) 
 - **Battle Value:** 1619 
 
 ## Availability 

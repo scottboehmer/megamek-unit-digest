@@ -18,7 +18,7 @@
   - Active Probe 
   - TAG 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1384/hankyu-arctic-cheetah-prime) 
 - **Battle Value:** 1334 
 - [*More Info*](arctic_cheetah/arctic_cheetah_prime.md) 
 
@@ -37,7 +37,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1378/hankyu-arctic-cheetah-a) 
 - **Battle Value:** 1117 
 - [*More Info*](arctic_cheetah/arctic_cheetah_a.md) 
 
@@ -57,7 +57,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1379/hankyu-arctic-cheetah-b) 
 - **Battle Value:** 1076 
 - [*More Info*](arctic_cheetah/arctic_cheetah_b.md) 
 
@@ -76,7 +76,7 @@
   - Flamer 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1380/hankyu-arctic-cheetah-c) 
 - **Battle Value:** 1840 
 - [*More Info*](arctic_cheetah/arctic_cheetah_c.md) 
 
@@ -94,7 +94,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1381/hankyu-arctic-cheetah-d) 
 - **Battle Value:** 1080 
 - [*More Info*](arctic_cheetah/arctic_cheetah_d.md) 
 
@@ -112,7 +112,7 @@
   - Heavy Medium Laser 
   - Heavy Small Laser × 2 
   - Flamer 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1383/hankyu-arctic-cheetah-h) 
 - **Battle Value:** 1264 
 - [*More Info*](arctic_cheetah/arctic_cheetah_h.md) 
 
@@ -133,7 +133,7 @@
   - Machine Gun Array × 2 
   - B-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
 - **Battle Value:** 1081 
 - [*More Info*](arctic_cheetah/arctic_cheetah_e.md) 
 
@@ -154,7 +154,7 @@
   - Watchdog CEWS 
   - Light TAG 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940/hankyu-arctic-cheetah-f) 
 - **Battle Value:** 1394 
 - [*More Info*](arctic_cheetah/arctic_cheetah_f.md) 
 

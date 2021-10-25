@@ -18,7 +18,7 @@
   - C3 Slave 
   - MASC 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1260/grand-dragon-drg-7k) 
 - **Battle Value:** 1702 
 
 ## Availability 

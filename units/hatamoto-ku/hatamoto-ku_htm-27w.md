@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 2 
   - AC/5 (ammo: 20) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1408/hatamoto-ku-htm-27w) 
 - **Battle Value:** 1563 
 
 ## Availability 

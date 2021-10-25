@@ -19,7 +19,7 @@
   - CASE 
   - Light TAG 
   - Targeting Computer 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5676/crimson-langur-d) 
 - **Battle Value:** 1867 
 
 ## Availability 

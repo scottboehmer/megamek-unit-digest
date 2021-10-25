@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/565/charger-cgr-3k) 
 - **Battle Value:** 1656 
 
 ## Availability 

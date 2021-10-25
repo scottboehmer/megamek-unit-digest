@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574/rifleman-rfl-7n) 
 - **Battle Value:** 1398 
 
 ## Availability 

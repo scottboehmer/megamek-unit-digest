@@ -16,7 +16,7 @@
   - Prototype ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7681/cestus-cts-6y-ec) 
 - **Battle Value:** 1783 
 
 ## Availability 

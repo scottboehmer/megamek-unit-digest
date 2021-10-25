@@ -15,7 +15,7 @@
   - Heavy Large Laser 
   - Medium Pulse Laser × 2 
   - Micro Pulse Laser × 4 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4829/pinion-standard) 
 - **Battle Value:** 1646 
 
 ## Availability 

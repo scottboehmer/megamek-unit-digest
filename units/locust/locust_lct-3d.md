@@ -14,7 +14,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1904/locust-lct-3d) 
 - **Battle Value:** 436 
 
 ## Availability 

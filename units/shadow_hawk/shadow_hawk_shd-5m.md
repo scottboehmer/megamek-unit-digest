@@ -18,7 +18,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m) 
 - **Battle Value:** 1430 
 
 ## Availability 

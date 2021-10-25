@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6861/man-o-war-gargoyle-x) 
 - **Battle Value:** 2800 
 
 ## Availability 

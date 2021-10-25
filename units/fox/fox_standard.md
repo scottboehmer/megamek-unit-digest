@@ -18,7 +18,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7609/fox-standard) 
 - **Battle Value:** 2091 
 
 ## Availability 

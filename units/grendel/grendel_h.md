@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1292/grendel-mongrel-h) 
 - **Battle Value:** 1965 
 
 ## Availability 

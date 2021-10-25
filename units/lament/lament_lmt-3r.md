@@ -16,7 +16,7 @@
   - Small X-Pulse Laser × 2 
 - **Equipment:** 
   - Radical Heat Sink System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723/lament-lmt-3r) 
 - **Battle Value:** 1888 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
   - Small Laser × 2 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3603/xanthos-xnt-2o) 
 - **Battle Value:** 1300 
 
 ## Availability 

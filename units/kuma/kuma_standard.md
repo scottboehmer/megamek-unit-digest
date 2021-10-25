@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy Large Laser 
   - ER Medium Laser × 2 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849/kuma-standard) 
 - **Battle Value:** 1952 
 
 ## Availability 

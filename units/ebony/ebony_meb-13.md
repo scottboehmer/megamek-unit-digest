@@ -14,7 +14,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Large Re-Engineered Laser 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6943/ebony-meb-13) 
 - **Battle Value:** 750 
 
 ## Availability 

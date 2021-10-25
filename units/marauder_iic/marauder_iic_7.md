@@ -20,7 +20,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071/marauder-iic-7) 
 - **Battle Value:** 2843 
 
 ## Availability 

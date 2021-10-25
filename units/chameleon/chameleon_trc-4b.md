@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - Small Laser × 4 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546/chameleon-trc-4b) 
 - **Battle Value:** 999 
 
 ## Availability 

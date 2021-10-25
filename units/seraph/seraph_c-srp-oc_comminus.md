@@ -22,7 +22,7 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2872/seraph-c-srp-oc-comminus) 
 - **Battle Value:** 2136 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
 - **Battle Value:** 1245 
 
 ## Availability 

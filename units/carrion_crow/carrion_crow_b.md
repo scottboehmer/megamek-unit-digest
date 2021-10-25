@@ -18,7 +18,7 @@
   - Watchdog CEWS 
   - Supercharger 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7777/carrion-crow-b) 
 - **Battle Value:** 2083 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Large Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1770/king-crab-kgc-000) 
 - **Battle Value:** 1906 
 - [*More Info*](king_crab/king_crab_kgc-000.md) 
 
@@ -32,7 +32,7 @@
   - Large Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772/king-crab-kgc-000b) 
 - **Battle Value:** 2039 
 - [*More Info*](king_crab/king_crab_kgc-000b.md) 
 
@@ -50,7 +50,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1778/king-crab-kgc-010) 
 - **Battle Value:** 2181 
 - [*More Info*](king_crab/king_crab_kgc-010.md) 
 
@@ -66,7 +66,7 @@
   - AC/20 × 2 (ammo: 10) 
   - LRM 15 (ammo: 8) 
   - Large Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771/king-crab-kgc-0000) 
 - **Battle Value:** 1810 
 - [*More Info*](king_crab/king_crab_kgc-0000.md) 
 
@@ -85,7 +85,7 @@
   - Streak SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1773/king-crab-kgc-001) 
 - **Battle Value:** 2221 
 - [*More Info*](king_crab/king_crab_kgc-001.md) 
 
@@ -104,7 +104,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1774/king-crab-kgc-005) 
 - **Battle Value:** 2264 
 - [*More Info*](king_crab/king_crab_kgc-005.md) 
 
@@ -127,7 +127,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1777/king-crab-kgc-008) 
 - **Battle Value:** 2369 
 - [*More Info*](king_crab/king_crab_kgc-008.md) 
 
@@ -146,7 +146,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775/king-crab-kgc-005r) 
 - **Battle Value:** 2335 
 - [*More Info*](king_crab/king_crab_kgc-005r.md) 
 
@@ -165,7 +165,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1776/king-crab-kgc-007) 
 - **Battle Value:** 2523 
 - [*More Info*](king_crab/king_crab_kgc-007.md) 
 
@@ -188,7 +188,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5494/king-crab-kgc-008b) 
 - **Battle Value:** 2374 
 - [*More Info*](king_crab/king_crab_kgc-008b.md) 
 
@@ -210,7 +210,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635/king-crab-kgc-009) 
 - **Battle Value:** 2260 
 - [*More Info*](king_crab/king_crab_kgc-009.md) 
 

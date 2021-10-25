@@ -17,7 +17,7 @@
   - Supercharger 
   - Targeting Computer 
   - Coolant Pod 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6946/dasher-fire-moth-g) 
 - **Battle Value:** 2040 
 
 ## Availability 

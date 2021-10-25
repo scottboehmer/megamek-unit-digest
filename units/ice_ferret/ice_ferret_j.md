@@ -17,7 +17,7 @@
   - CASE 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j) 
 - **Battle Value:** 1739 
 
 ## Availability 

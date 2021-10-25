@@ -22,7 +22,7 @@
   - C3i 
   - Targeting Computer 
   - TAG 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1997/malak-c-mk-oc-comminus) 
 - **Battle Value:** 944 
 
 ## Availability 

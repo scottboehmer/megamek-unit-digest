@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/484/catapult-cplt-c5a) 
 - **Battle Value:** 1772 
 
 ## Availability 

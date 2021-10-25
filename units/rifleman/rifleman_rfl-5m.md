@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m) 
 - **Battle Value:** 1227 
 
 ## Availability 

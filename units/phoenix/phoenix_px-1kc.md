@@ -15,7 +15,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7467/phoenix-px-1kc) 
 - **Battle Value:** 766 
 
 ## Availability 

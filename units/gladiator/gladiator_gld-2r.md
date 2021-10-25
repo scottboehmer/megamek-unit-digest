@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1199/gladiator-gld-2r) 
 - **Battle Value:** 1184 
 
 ## Availability 

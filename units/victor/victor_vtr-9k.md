@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3411/victor-vtr-9k) 
 - **Battle Value:** 1717 
 
 ## Availability 

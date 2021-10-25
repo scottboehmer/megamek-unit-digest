@@ -19,7 +19,7 @@
   - Medium VSP Laser 
 - **Equipment:** 
   - C3i 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/64/archangel-c-ang-o-berith) 
 - **Battle Value:** 2060 
 
 ## Availability 

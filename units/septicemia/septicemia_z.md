@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Ground-Mobile HPG 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5819/pariah-septicemia-z) 
 - **Battle Value:** 2072 
 
 ## Availability 

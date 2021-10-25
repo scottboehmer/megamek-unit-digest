@@ -15,7 +15,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j) 
 - **Battle Value:** 908 
 
 ## Availability 

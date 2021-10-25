@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Chameleon LPS 
   - Null-Signature System 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3002/spector-spr-4f) 
 - **Battle Value:** 1224 
 - [*More Info*](spector/spector_spr-4f.md) 
 
@@ -35,7 +35,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3003/spector-spr-5f) 
 - **Battle Value:** 1183 
 - [*More Info*](spector/spector_spr-5f.md) 
 
@@ -54,7 +54,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3004/spector-spr-5s) 
 - **Battle Value:** 1155 
 - [*More Info*](spector/spector_spr-5s.md) 
 
@@ -73,7 +73,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - MASC 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3005/spector-spr-st) 
 - **Battle Value:** 1438 
 - [*More Info*](spector/spector_spr-st.md) 
 

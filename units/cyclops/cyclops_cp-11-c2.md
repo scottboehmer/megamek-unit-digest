@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - C3 Master × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/776/cyclops-cp-11-c2) 
 - **Battle Value:** 1534 
 
 ## Availability 

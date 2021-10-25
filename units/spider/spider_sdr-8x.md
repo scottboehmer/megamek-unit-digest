@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019/spider-sdr-8x) 
 - **Battle Value:** 765 
 
 ## Availability 

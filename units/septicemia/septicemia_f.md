@@ -14,7 +14,7 @@
   - Arrow IV × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5816/pariah-septicemia-f) 
 - **Battle Value:** 1389 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - Clan MASC 
-- **Sources:** Hist : WOTRA , [Master Unit List](Master Unit List) 
+- **Sources:** Hist : WOTRA , [Master Unit List](http://masterunitlist.info/Unit/Details/6975/bakeneko-bkn-1k) 
 - **Battle Value:** 1976 
 
 ## Availability 

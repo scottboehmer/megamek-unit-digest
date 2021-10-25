@@ -19,7 +19,7 @@
   - MML 5 × 2 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3625/yu-huang-y-h11g) 
 - **Battle Value:** 2131 
 
 ## Availability 

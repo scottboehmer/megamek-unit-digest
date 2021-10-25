@@ -14,7 +14,7 @@
   - PPC × 2 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/241/banshee-bnc-3m) 
 - **Battle Value:** 1595 
 
 ## Availability 

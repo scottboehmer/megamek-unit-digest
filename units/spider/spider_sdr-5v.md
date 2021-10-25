@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3010/spider-sdr-5v) 
 - **Battle Value:** 622 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2892/shadow-cat-prime) 
 - **Battle Value:** 2156 
 - [*More Info*](shadow_cat/shadow_cat_prime.md) 
 
@@ -36,7 +36,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2887/shadow-cat-a) 
 - **Battle Value:** 2220 
 - [*More Info*](shadow_cat/shadow_cat_a.md) 
 
@@ -57,7 +57,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2888/shadow-cat-b) 
 - **Battle Value:** 2420 
 - [*More Info*](shadow_cat/shadow_cat_b.md) 
 
@@ -78,7 +78,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7590/shadow-cat-tc) 
 - **Battle Value:** 1378 
 - [*More Info*](shadow_cat/shadow_cat_tc.md) 
 
@@ -96,7 +96,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7707/shadow-cat-m) 
 - **Battle Value:** 2438 
 - [*More Info*](shadow_cat/shadow_cat_m.md) 
 
@@ -116,7 +116,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2889/shadow-cat-c) 
 - **Battle Value:** 2199 
 - [*More Info*](shadow_cat/shadow_cat_c.md) 
 
@@ -138,7 +138,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704/shadow-cat-d) 
 - **Battle Value:** 2298 
 - [*More Info*](shadow_cat/shadow_cat_d.md) 
 
@@ -158,7 +158,7 @@
   - MASC 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2890/shadow-cat-h) 
 - **Battle Value:** 2155 
 - [*More Info*](shadow_cat/shadow_cat_h.md) 
 
@@ -178,7 +178,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2891/shadow-cat-j) 
 - **Battle Value:** 1802 
 - [*More Info*](shadow_cat/shadow_cat_j.md) 
 
@@ -196,7 +196,7 @@
 - **Equipment:** 
   - MASC 
   - Inner Sphere Coolant Pod × 2 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6913/shadow-cat-e) 
 - **Battle Value:** 2081 
 - [*More Info*](shadow_cat/shadow_cat_e.md) 
 
@@ -216,7 +216,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6912/shadow-cat-f) 
 - **Battle Value:** 2997 
 - [*More Info*](shadow_cat/shadow_cat_f.md) 
 
@@ -237,7 +237,7 @@
   - MASC 
   - Targeting Computer 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7706/shadow-cat-i) 
 - **Battle Value:** 2408 
 - [*More Info*](shadow_cat/shadow_cat_i.md) 
 
@@ -257,7 +257,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7708/shadow-cat-t) 
 - **Battle Value:** 1852 
 - [*More Info*](shadow_cat/shadow_cat_t.md) 
 

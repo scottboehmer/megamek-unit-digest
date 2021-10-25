@@ -14,7 +14,7 @@
   - RAC/5 (ammo: 60) 
   - ER Medium Laser 
   - ER Small Laser 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r) 
 - **Battle Value:** 1227 
 
 ## Availability 

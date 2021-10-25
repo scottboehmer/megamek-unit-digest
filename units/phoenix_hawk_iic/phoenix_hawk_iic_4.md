@@ -15,7 +15,7 @@
   - ATM 9 × 4 (ammo: 21 Standard, 14 ER, 14 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4) 
 - **Battle Value:** 2483 
 
 ## Availability 

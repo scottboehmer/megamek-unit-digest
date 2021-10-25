@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2040/marauder-mad-5l) 
 - **Battle Value:** 2244 
 
 ## Availability 

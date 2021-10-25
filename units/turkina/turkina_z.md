@@ -17,7 +17,7 @@
   - Nova CEWS 
   - CASE 
   - Light TAG 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832/turkina-z) 
 - **Battle Value:** 3935 
 
 ## Availability 

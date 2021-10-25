@@ -18,7 +18,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/964/emperor-emp-6a) 
 - **Battle Value:** 1969 
 
 ## Availability 

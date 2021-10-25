@@ -14,7 +14,7 @@
   - PPC 
   - SRM 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2859/sentinel-stn-3kb) 
 - **Battle Value:** 823 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2418/panther-pnt-12a) 
 - **Battle Value:** 982 
 
 ## Availability 

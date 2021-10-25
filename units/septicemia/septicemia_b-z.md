@@ -18,7 +18,7 @@
   - Nova CEWS 
   - Targeting Computer 
   - Light TAG 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5813/pariah-septicemia-b-z) 
 - **Battle Value:** 2349 
 
 ## Availability 

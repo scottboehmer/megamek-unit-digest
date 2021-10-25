@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Laser × 3 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/805/daimyo-dmo-4k) 
 - **Battle Value:** 1150 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/303/battlemaster-c) 
 - **Battle Value:** 3025 
 
 ## Availability 

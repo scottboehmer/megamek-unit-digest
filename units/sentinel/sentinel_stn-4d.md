@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2863/sentinel-stn-4d) 
 - **Battle Value:** 1179 
 
 ## Availability 

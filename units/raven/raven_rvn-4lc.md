@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2667/raven-rvn-4lc) 
 - **Battle Value:** 871 
 
 ## Availability 

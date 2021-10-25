@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7776/carrion-crow-a) 
 - **Battle Value:** 1625 
 
 ## Availability 

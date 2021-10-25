@@ -17,7 +17,7 @@
   - MASC 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7494/shadow-cat-iii-c) 
 - **Battle Value:** 2153 
 
 ## Availability 

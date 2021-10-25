@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487/hermes-her-1s) 
 - **Battle Value:** 716 
 
 ## Availability 

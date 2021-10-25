@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7879/snow-fox-omni-a) 
 - **Battle Value:** 831 
 
 ## Availability 

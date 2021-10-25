@@ -16,7 +16,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7611/omni-corvis-a) 
 - **Battle Value:** 1977 
 
 ## Availability 

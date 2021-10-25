@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/174/awesome-aws-8q) 
 - **Battle Value:** 1605 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Rocket 10 × 5 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7868/centurion-cn9-h3-militiamech) 
 - **Battle Value:** 962 
 
 ## Availability 

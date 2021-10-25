@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
-- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x) 
 - **Battle Value:** 1672 
 
 ## Availability 

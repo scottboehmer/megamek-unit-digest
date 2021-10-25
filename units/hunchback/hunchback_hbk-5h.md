@@ -16,7 +16,7 @@
   - Rocket 20 × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1560/hunchback-hbk-5h) 
 - **Battle Value:** 1097 
 
 ## Availability 

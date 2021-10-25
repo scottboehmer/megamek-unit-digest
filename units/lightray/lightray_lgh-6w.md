@@ -15,7 +15,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1885/lightray-lgh-6w) 
 - **Battle Value:** 1554 
 
 ## Availability 

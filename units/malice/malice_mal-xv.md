@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Clan CASE II 
   - C3 Slave 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6726/malice-mal-xv) 
 - **Battle Value:** 1996 
 
 ## Availability 

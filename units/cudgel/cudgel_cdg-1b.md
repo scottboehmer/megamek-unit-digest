@@ -17,7 +17,7 @@
   - Machine Gun × 10 (ammo: 200) 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/766/cudgel-cdg-1b) 
 - **Battle Value:** 1347 
 
 ## Availability 

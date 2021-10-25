@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5191/templar-tlr1-o) 
 - **Battle Value:** 2045 
 
 ## Availability 

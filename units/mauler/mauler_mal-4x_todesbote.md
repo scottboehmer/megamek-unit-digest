@@ -15,7 +15,7 @@
   - MML 7 × 2 (ammo: 17 LRM) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5784/mauler-mal-4x-todesbote) 
 - **Battle Value:** 1904 
 
 ## Availability 

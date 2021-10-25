@@ -14,7 +14,7 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
   - Small Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/243/banshee-bnc-3mr) 
 - **Battle Value:** 1801 
 
 ## Availability 

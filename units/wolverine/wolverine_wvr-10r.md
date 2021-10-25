@@ -19,7 +19,7 @@
   - CASE II 
   - Targeting Computer 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8256/wolverine-wvr-10r) 
 - **Battle Value:** 1791 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/970/emperor-emp-6s) 
 - **Battle Value:** 2065 
 
 ## Availability 

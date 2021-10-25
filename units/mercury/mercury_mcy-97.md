@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2171/mercury-mcy-97) 
 - **Battle Value:** 466 
 
 ## Availability 

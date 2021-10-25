@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/316/bear-cub-3) 
 - **Battle Value:** 1086 
 
 ## Availability 

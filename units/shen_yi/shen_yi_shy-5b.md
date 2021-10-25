@@ -15,7 +15,7 @@
   - Large Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6878/shen-yi-shy-5b) 
 - **Battle Value:** 1603 
 
 ## Availability 

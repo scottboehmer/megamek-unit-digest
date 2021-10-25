@@ -15,7 +15,7 @@
   - ER Flamer 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603/icestorm-2) 
 - **Battle Value:** 868 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Nova CEWS 
   - Machine Gun Array × 2 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5814/pariah-septicemia-c-z) 
 - **Battle Value:** 2264 
 
 ## Availability 

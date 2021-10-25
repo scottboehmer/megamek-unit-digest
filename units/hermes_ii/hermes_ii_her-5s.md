@@ -14,7 +14,7 @@
   - Ultra AC/5 (ammo: 20) 
   - Medium Pulse Laser 
   - Flamer 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501/hermes-ii-her-5s) 
 - **Battle Value:** 857 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 8) 
   - Medium Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/349/black-hawk-ku-bhku-oc) 
 - **Battle Value:** 1597 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - ER PPC × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1479/hellstar-2) 
 - **Battle Value:** 3545 
 
 ## Availability 

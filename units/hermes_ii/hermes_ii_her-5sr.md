@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1503/hermes-ii-her-5sr) 
 - **Battle Value:** 1242 
 
 ## Availability 

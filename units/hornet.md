@@ -13,7 +13,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1545/hornet-hnt-151) 
 - **Battle Value:** 488 
 - [*More Info*](hornet/hornet_hnt-151.md) 
 
@@ -30,7 +30,7 @@
   - Medium Laser 
   - SRM 4 (ammo: 25) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1546/hornet-hnt-152) 
 - **Battle Value:** 475 
 - [*More Info*](hornet/hornet_hnt-152.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1548/hornet-hnt-171) 
 - **Battle Value:** 535 
 - [*More Info*](hornet/hornet_hnt-171.md) 
 
@@ -68,7 +68,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1547/hornet-hnt-161) 
 - **Battle Value:** 511 
 - [*More Info*](hornet/hornet_hnt-161.md) 
 
@@ -87,7 +87,7 @@
   - Small Re-Engineered Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181) 
 - **Battle Value:** 398 
 - [*More Info*](hornet/hornet_hnt-181.md) 
 
@@ -105,7 +105,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7343/hornet-hnt-182) 
 - **Battle Value:** 505 
 - [*More Info*](hornet/hornet_hnt-182.md) 
 

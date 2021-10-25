@@ -17,7 +17,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/778/cyclops-cp-11-g) 
 - **Battle Value:** 1981 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - Inner Sphere B-Pod × 4 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1926/loki-hellbringer-d) 
 - **Battle Value:** 2140 
 
 ## Availability 

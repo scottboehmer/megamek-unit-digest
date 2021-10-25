@@ -19,7 +19,7 @@
   - Targeting Computer 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2910/shadow-hawk-shd-9d) 
 - **Battle Value:** 1313 
 
 ## Availability 

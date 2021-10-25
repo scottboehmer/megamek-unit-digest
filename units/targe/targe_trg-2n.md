@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3165/targe-trg-2n) 
 - **Battle Value:** 1042 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Coolant Pod 
   - CASE II 
   - Supercharger 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349/awesome-aws-11r) 
 - **Battle Value:** 1878 
 
 ## Availability 

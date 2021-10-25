@@ -19,7 +19,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6511/anzu-zu-j70) 
 - **Battle Value:** 1680 
 
 ## Availability 

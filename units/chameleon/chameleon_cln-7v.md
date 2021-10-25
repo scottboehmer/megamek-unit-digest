@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - Small Laser × 3 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/543/chameleon-cln-7v) 
 - **Battle Value:** 1042 
 
 ## Availability 

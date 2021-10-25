@@ -17,7 +17,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d) 
 - **Battle Value:** 2378 
 
 ## Availability 

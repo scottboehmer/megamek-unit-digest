@@ -18,7 +18,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6282/thor-ii-grand-summoner-a) 
 - **Battle Value:** 2473 
 
 ## Availability 

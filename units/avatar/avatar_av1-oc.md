@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Master 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/163/avatar-av1-oc) 
 - **Battle Value:** 1406 
 
 ## Availability 

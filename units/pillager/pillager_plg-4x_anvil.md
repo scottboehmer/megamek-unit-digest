@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Coolant Pod × 2 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2526/pillager-plg-4x-anvil) 
 - **Battle Value:** 1884 
 
 ## Availability 

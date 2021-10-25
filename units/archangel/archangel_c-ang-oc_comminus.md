@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/68/archangel-c-ang-oc-comminus) 
 - **Battle Value:** 2010 
 
 ## Availability 

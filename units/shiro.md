@@ -15,7 +15,7 @@
   - Sword 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6416/shiro-sh-1v) 
 - **Battle Value:** 2016 
 - [*More Info*](shiro/shiro_sh-1v.md) 
 
@@ -34,7 +34,7 @@
   - Sword 
 - **Equipment:** 
   - Coolant Pod 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6417/shiro-sh-2p) 
 - **Battle Value:** 2570 
 - [*More Info*](shiro/shiro_sh-2p.md) 
 

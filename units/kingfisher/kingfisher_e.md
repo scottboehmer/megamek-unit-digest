@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1783/kingfisher-e) 
 - **Battle Value:** 2443 
 
 ## Availability 

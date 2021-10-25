@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
   - Medium Pulse Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c) 
 - **Battle Value:** 1644 
 
 ## Availability 

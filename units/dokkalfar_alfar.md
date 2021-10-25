@@ -11,7 +11,7 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - PPC × 2 
-- **Sources:** Hist:Reunification War , [Master Unit List](Master Unit List) 
+- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3693/alfar-al-d1-dokkalfar) 
 - **Battle Value:** 1458 
 - [*More Info*](alfar/alfar_al-d1.md) 
 

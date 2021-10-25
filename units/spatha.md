@@ -16,7 +16,7 @@
   - Sword 
 - **Equipment:** 
   - Laser Anti-Missile System 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2998/spatha-sp1-x) 
 - **Battle Value:** 2222 
 - [*More Info*](spatha/spatha_sp1-x.md) 
 

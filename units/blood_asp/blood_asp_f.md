@@ -18,7 +18,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/404/blood-asp-f) 
 - **Battle Value:** 2908 
 
 ## Availability 

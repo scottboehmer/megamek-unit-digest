@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
 - **Battle Value:** 1558 
 
 ## Availability 

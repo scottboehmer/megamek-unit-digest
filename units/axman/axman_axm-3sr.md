@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr) 
 - **Battle Value:** 1734 
 
 ## Availability 

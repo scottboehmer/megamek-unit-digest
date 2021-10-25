@@ -15,7 +15,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1785/kingfisher-h) 
 - **Battle Value:** 2525 
 
 ## Availability 

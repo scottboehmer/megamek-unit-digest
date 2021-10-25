@@ -19,7 +19,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7590/shadow-cat-tc) 
 - **Battle Value:** 1378 
 
 ## Availability 

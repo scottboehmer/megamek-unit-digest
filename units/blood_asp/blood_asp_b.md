@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/400/blood-asp-b) 
 - **Battle Value:** 2885 
 
 ## Availability 

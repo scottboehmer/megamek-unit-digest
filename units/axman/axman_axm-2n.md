@@ -18,7 +18,7 @@
   - Hatchet 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
 - **Battle Value:** 1458 
 
 ## Availability 

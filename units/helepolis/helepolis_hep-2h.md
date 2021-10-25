@@ -18,7 +18,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461/helepolis-hep-2h) 
 - **Battle Value:** 1369 
 
 ## Availability 

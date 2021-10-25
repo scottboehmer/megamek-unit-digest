@@ -16,7 +16,7 @@
   - C3i 
   - TAG 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1911/locust-lct-5w) 
 - **Battle Value:** 695 
 
 ## Availability 

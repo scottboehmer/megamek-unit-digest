@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248/jenner-iic-5) 
 - **Battle Value:** 1440 
 
 ## Availability 

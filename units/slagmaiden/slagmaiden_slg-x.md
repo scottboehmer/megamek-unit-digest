@@ -19,7 +19,7 @@
   - Large Shield 
   - CASE II 
   - Supercharger 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5078/slagmaiden-slg-x) 
 - **Battle Value:** 1602 
 
 ## Availability 

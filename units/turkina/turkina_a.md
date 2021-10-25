@@ -16,7 +16,7 @@
   - LRM 20 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3326/turkina-a) 
 - **Battle Value:** 2906 
 
 ## Availability 

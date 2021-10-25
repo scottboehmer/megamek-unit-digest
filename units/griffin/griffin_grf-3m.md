@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300/griffin-grf-3m) 
 - **Battle Value:** 1521 
 
 ## Availability 

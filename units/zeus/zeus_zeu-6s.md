@@ -15,7 +15,7 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3642/zeus-zeu-6s) 
 - **Battle Value:** 1348 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1067/fire-falcon-e) 
 - **Battle Value:** 1094 
 
 ## Availability 

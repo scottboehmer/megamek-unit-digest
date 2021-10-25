@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2575/preta-c-prt-ob-infernus) 
 - **Battle Value:** 1338 
 
 ## Availability 

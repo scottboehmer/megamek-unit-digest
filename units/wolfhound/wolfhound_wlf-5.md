@@ -15,7 +15,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5) 
 - **Battle Value:** 1290 
 
 ## Availability 

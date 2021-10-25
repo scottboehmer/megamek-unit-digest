@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648/pulverizer-standard) 
 - **Battle Value:** 2506 
 
 ## Availability 

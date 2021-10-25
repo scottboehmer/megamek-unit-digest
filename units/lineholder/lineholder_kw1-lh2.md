@@ -14,7 +14,7 @@
   - Large Laser 
   - Medium Laser × 4 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1893/lineholder-kw1-lh2) 
 - **Battle Value:** 1280 
 
 ## Availability 

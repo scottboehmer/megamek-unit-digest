@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - A-Pod × 2 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s) 
 - **Battle Value:** 855 
 
 ## Availability 

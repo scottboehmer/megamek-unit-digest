@@ -15,7 +15,7 @@
   - Gauss Rifle (ammo: 16) 
   - Heavy PPC × 2 
   - ER Small Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2057/marauder-ii-mad-4k) 
 - **Battle Value:** 2626 
 
 ## Availability 

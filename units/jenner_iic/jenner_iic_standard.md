@@ -16,7 +16,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RecGuide 18 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard) 
 - **Battle Value:** 1047 
 
 ## Availability 

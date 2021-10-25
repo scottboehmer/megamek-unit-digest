@@ -15,7 +15,7 @@
   - Large Laser × 2 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/360/black-knight-bl-7-knt) 
 - **Battle Value:** 1443 
 
 ## Availability 

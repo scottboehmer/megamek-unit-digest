@@ -17,7 +17,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6628/ursa-ura-2c) 
 - **Battle Value:** 2570 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Angel ECM Suite 
   - CASE 
   - CASE II 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of) 
 - **Battle Value:** 2484 
 
 ## Availability 

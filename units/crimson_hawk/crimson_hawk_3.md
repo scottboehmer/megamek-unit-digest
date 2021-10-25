@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - ER Medium Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/723/crimson-hawk-3) 
 - **Battle Value:** 1029 
 
 ## Availability 

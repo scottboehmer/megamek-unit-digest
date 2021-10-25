@@ -20,7 +20,7 @@
   - Inner Sphere A-Pod × 4 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1929/loki-hellbringer-prime) 
 - **Battle Value:** 2654 
 - [*More Info*](hellbringer/hellbringer_prime.md) 
 
@@ -42,7 +42,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1923/loki-hellbringer-a) 
 - **Battle Value:** 1948 
 - [*More Info*](hellbringer/hellbringer_a.md) 
 
@@ -61,7 +61,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1924/loki-hellbringer-b) 
 - **Battle Value:** 1592 
 - [*More Info*](hellbringer/hellbringer_b.md) 
 
@@ -80,7 +80,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7594/loki-hellbringer-m) 
 - **Battle Value:** 2200 
 - [*More Info*](hellbringer/hellbringer_m.md) 
 
@@ -100,7 +100,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1925/loki-hellbringer-c) 
 - **Battle Value:** 2076 
 - [*More Info*](hellbringer/hellbringer_c.md) 
 
@@ -118,7 +118,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5489/loki-hellbringer-f) 
 - **Battle Value:** 1839 
 - [*More Info*](hellbringer/hellbringer_f.md) 
 
@@ -140,7 +140,7 @@
   - Anti-Missile System (ammo: 24) 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7442/loki-hellbringer-j) 
 - **Battle Value:** 2415 
 - [*More Info*](hellbringer/hellbringer_j.md) 
 
@@ -162,7 +162,7 @@
   - Active Probe 
   - A-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1928/loki-hellbringer-h) 
 - **Battle Value:** 1952 
 - [*More Info*](hellbringer/hellbringer_h.md) 
 
@@ -180,7 +180,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - Inner Sphere B-Pod × 4 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1926/loki-hellbringer-d) 
 - **Battle Value:** 2140 
 - [*More Info*](hellbringer/hellbringer_d.md) 
 
@@ -199,7 +199,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1927/loki-hellbringer-e) 
 - **Battle Value:** 2304 
 - [*More Info*](hellbringer/hellbringer_e.md) 
 
@@ -217,7 +217,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6879/loki-hellbringer-g) 
 - **Battle Value:** 1956 
 - [*More Info*](hellbringer/hellbringer_g.md) 
 
@@ -237,7 +237,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE II 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7441/loki-hellbringer-t) 
 - **Battle Value:** 2444 
 - [*More Info*](hellbringer/hellbringer_t.md) 
 

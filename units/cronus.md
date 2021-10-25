@@ -34,7 +34,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021/cronus-cns-5m) 
 - **Battle Value:** 1579 
 - [*More Info*](cronus/cronus_cns-5m.md) 
 
@@ -56,7 +56,7 @@
   - MASC 
   - Targeting Computer 
   - C3i 
-- **Sources:** TRO3067U , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5680/cronus-cns-td9) 
 - **Battle Value:** 978 
 - [*More Info*](cronus/cronus_cns-td9.md) 
 

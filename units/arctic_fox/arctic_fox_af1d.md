@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95/arctic-fox-af1d) 
 - **Battle Value:** 744 
 
 ## Availability 

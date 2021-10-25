@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1047/fenris-ice-ferret-b) 
 - **Battle Value:** 1461 
 
 ## Availability 

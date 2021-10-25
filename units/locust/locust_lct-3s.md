@@ -15,7 +15,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s) 
 - **Battle Value:** 483 
 
 ## Availability 

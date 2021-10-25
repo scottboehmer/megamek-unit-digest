@@ -13,7 +13,7 @@
 - **Weapons:** 
   - MML 7 × 3 (ammo: 34 LRM, 28 SRM) 
   - Heavy Machine Gun × 2 (ammo: 50) 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7828/muckraker-gmmm-2m-b-miningmech-mod) 
 - **Battle Value:** 815 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Plasma Rifle × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3294/trebaruna-tr-xl) 
 - **Battle Value:** 2244 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Void-Signature System 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2660/raptor-ii-rpt-5x) 
 - **Battle Value:** 1124 
 
 ## Availability 

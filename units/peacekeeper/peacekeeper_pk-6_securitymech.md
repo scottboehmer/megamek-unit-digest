@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** RS VA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7159/peacekeeper-pk-6-securitymech) 
 - **Battle Value:** 422 
 
 ## Availability 

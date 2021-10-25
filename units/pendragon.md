@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE II 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464/pendragon-pdg-1x-muse-red) 
 - **Battle Value:** 2230 
 - [*More Info*](pendragon/pendragon_pdg-1x_muse_red.md) 
 
@@ -54,7 +54,7 @@
   - CASE II 
   - C3 Master 
   - Coolant Pod 
-- **Sources:** Iron Wind Metals , [Master Unit List](Master Unit List) 
+- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000/pendragon-pdg-3r) 
 - **Battle Value:** 1991 
 - [*More Info*](pendragon/pendragon_pdg-3r.md) 
 

@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard) 
 - **Battle Value:** 1608 
 
 ## Availability 

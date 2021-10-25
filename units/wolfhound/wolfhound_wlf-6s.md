@@ -16,7 +16,7 @@
   - Small X-Pulse Laser 
 - **Equipment:** 
   - AES 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223/wolfhound-wlf-6s) 
 - **Battle Value:** 1266 
 
 ## Availability 

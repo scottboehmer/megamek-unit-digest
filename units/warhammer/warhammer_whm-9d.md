@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497/warhammer-whm-9d) 
 - **Battle Value:** 2152 
 
 ## Availability 

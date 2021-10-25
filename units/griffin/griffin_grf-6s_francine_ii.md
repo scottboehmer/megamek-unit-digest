@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308/griffin-grf-6s-francine-ii) 
 - **Battle Value:** 2249 
 
 ## Availability 

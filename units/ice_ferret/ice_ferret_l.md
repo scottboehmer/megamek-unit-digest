@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1052/fenris-ice-ferret-l) 
 - **Battle Value:** 1380 
 
 ## Availability 

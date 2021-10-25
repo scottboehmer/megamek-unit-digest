@@ -16,7 +16,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** DTP Vega , [Master Unit List](Master Unit List) 
+- **Sources:** DTP Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5541/atlas-as7-k2-jedra) 
 - **Battle Value:** 1971 
 
 ## Availability 

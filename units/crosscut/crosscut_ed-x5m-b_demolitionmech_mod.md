@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Dual Saw 
-- **Sources:** RS VA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7171/crosscut-ed-x5m-b-demolitionmech-mod) 
 - **Battle Value:** 460 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Active Probe 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640/minsk-standard) 
 - **Battle Value:** 2028 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1032/falcon-hawk-fnhk-9k1b) 
 - **Battle Value:** 1116 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - SRM 4 × 5 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Hist LOT II , [Master Unit List](Master Unit List) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783/dragoon-aem-04) 
 - **Battle Value:** 1710 
 
 ## Availability 

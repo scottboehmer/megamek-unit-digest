@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6901/trebuchet-tbt-9r) 
 - **Battle Value:** 2165 
 
 ## Availability 

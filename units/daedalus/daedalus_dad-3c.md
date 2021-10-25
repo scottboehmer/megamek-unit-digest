@@ -19,7 +19,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/789/daedalus-dad-3c) 
 - **Battle Value:** 1070 
 
 ## Availability 

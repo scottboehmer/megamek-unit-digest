@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6944/crimson-hawk-4) 
 - **Battle Value:** 1372 
 
 ## Availability 

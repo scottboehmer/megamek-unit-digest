@@ -16,7 +16,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1896/lineholder-kw2-lhw) 
 - **Battle Value:** 1484 
 
 ## Availability 

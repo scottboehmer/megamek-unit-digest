@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/765/crusader-crd-8s) 
 - **Battle Value:** 1698 
 
 ## Availability 

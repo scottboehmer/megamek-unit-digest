@@ -13,7 +13,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7843/exo-hmx-3m-haulermech) 
 - **Battle Value:** 106 
 
 ## Availability 

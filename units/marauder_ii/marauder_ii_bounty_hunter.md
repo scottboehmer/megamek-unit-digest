@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2053/marauder-ii-bounty-hunter) 
 - **Battle Value:** 3767 
 
 ## Availability 

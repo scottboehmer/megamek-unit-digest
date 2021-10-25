@@ -15,7 +15,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/49/anvil-anv-3r) 
 - **Battle Value:** 1496 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5197/templar-tlr1-oc) 
 - **Battle Value:** 2063 
 
 ## Availability 

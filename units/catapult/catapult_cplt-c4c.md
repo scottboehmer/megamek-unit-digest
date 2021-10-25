@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5453/catapult-cplt-c4c) 
 - **Battle Value:** 1449 
 
 ## Availability 

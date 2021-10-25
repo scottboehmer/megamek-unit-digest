@@ -15,7 +15,7 @@
   - Enviro-Sealing 
   - Lift Hoist × 2 
   - Cargo × 2 
-- **Sources:** RS IA , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/4274/heavy-lifter-hcl-1-cargomech) 
 - **Battle Value:** 658 
 - [*More Info*](heavy_lifter/heavy_lifter_hcl-1_cargomech.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7870/heavy-lifter-hcl-1mm-militiamech) 
 - **Battle Value:** 981 
 - [*More Info*](heavy_lifter/heavy_lifter_hcl-1mm_militiamech.md) 
 
@@ -54,7 +54,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7869/heavy-lifter-hcl-1m-cargomech-mod) 
 - **Battle Value:** 905 
 - [*More Info*](heavy_lifter/heavy_lifter_hcl-1m_cargomech_mod.md) 
 

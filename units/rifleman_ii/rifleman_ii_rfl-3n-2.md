@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2709/rifleman-ii-rfl-3n-2) 
 - **Battle Value:** 1543 
 
 ## Availability 

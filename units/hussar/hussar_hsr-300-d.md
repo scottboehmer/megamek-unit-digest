@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Large Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1587/hussar-hsr-300-d) 
 - **Battle Value:** 543 
 
 ## Availability 

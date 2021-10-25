@@ -17,7 +17,7 @@
   - C3 Slave 
   - TAG 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912/locust-lct-5w2) 
 - **Battle Value:** 787 
 
 ## Availability 

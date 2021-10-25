@@ -17,7 +17,7 @@
 - **Equipment:** 
   - C3 BoostedMaster 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2253/naginata-ng-c3ar) 
 - **Battle Value:** 1879 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Sword 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4254/gurkha-gur-4g) 
 - **Battle Value:** 908 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5687/ninja-to-njt-4) 
 - **Battle Value:** 1762 
 
 ## Availability 

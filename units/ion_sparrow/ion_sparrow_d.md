@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7742/butcherbird-ion-sparrow-d) 
 - **Battle Value:** 1121 
 
 ## Availability 

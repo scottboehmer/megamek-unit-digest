@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2005/man-o-war-gargoyle-d) 
 - **Battle Value:** 2499 
 
 ## Availability 

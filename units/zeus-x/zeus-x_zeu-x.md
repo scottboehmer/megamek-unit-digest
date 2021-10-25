@@ -16,7 +16,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6631/zeus-x-zeu-x) 
 - **Battle Value:** 2119 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/810/daishi-dire-wolf-prometheus) 
 - **Battle Value:** 2900 
 
 ## Availability 

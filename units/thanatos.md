@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218/thanatos-tns-4s) 
 - **Battle Value:** 1844 
 - [*More Info*](thanatos/thanatos_tns-4s.md) 
 
@@ -37,7 +37,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5700/thanatos-tns-4t) 
 - **Battle Value:** 1760 
 - [*More Info*](thanatos/thanatos_tns-4t.md) 
 
@@ -79,7 +79,7 @@
   - LRM 5 × 3 (ammo: 48) 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5701/thanatos-tns-6s) 
 - **Battle Value:** 1936 
 - [*More Info*](thanatos/thanatos_tns-6s.md) 
 

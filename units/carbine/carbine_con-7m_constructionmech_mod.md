@@ -13,7 +13,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Rocket 15 × 5 
-- **Sources:** RS VA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7161/carbine-con-7m-constructionmech-mod) 
 - **Battle Value:** 306 
 
 ## Availability 

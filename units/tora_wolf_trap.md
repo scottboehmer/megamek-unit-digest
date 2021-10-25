@@ -14,7 +14,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3554/wolf-trap-tora-wft-1) 
 - **Battle Value:** 1070 
 - [*More Info*](wolf_trap/wolf_trap_wft-1.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - C3 Slave 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559/wolf-trap-tora-wft-c) 
 - **Battle Value:** 1001 
 - [*More Info*](wolf_trap/wolf_trap_wft-c.md) 
 
@@ -72,7 +72,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3558/wolf-trap-tora-wft-b) 
 - **Battle Value:** 1021 
 - [*More Info*](wolf_trap/wolf_trap_wft-b.md) 
 
@@ -92,7 +92,7 @@
 - **Equipment:** 
   - Machine Gun Array 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556/wolf-trap-tora-wft-2) 
 - **Battle Value:** 1212 
 - [*More Info*](wolf_trap/wolf_trap_wft-2.md) 
 
@@ -107,7 +107,7 @@
 - **Weapons:** 
   - Silver Bullet (ammo: 16) 
   - Medium X-Pulse Laser × 2 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557/wolf-trap-tora-wft-2x-bear-trap) 
 - **Battle Value:** 1211 
 - [*More Info*](wolf_trap/wolf_trap_wft-2x.md) 
 
@@ -122,7 +122,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - Medium X-Pulse Laser × 2 
-- **Sources:** TRO: Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415/wolf-trap-tora-wft-2b) 
 - **Battle Value:** 1439 
 - [*More Info*](wolf_trap/wolf_trap_wft-2b.md) 
 

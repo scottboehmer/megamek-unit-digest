@@ -16,7 +16,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3048/starslayer-sty-2c) 
 - **Battle Value:** 1365 
 - [*More Info*](starslayer/starslayer_sty-2c.md) 
 
@@ -36,7 +36,7 @@
   - Clan Prototype ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7680/starslayer-sty-2c-ec) 
 - **Battle Value:** 1404 
 - [*More Info*](starslayer/starslayer_sty-2c-ec.md) 
 
@@ -56,7 +56,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3049/starslayer-sty-3c) 
 - **Battle Value:** 1508 
 - [*More Info*](starslayer/starslayer_sty-3c.md) 
 
@@ -73,7 +73,7 @@
   - ER PPC 
   - Large Laser 
   - Medium Laser × 3 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3050/starslayer-sty-3d) 
 - **Battle Value:** 1593 
 - [*More Info*](starslayer/starslayer_sty-3d.md) 
 
@@ -92,7 +92,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051/starslayer-sty-3dr) 
 - **Battle Value:** 1781 
 - [*More Info*](starslayer/starslayer_sty-3dr.md) 
 

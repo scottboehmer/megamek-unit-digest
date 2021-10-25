@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - Supercharger 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7459/grendel-mongrel-g) 
 - **Battle Value:** 2209 
 
 ## Availability 

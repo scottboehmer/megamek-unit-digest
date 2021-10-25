@@ -22,7 +22,7 @@
   - Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566/charger-cgr-3kr) 
 - **Battle Value:** 2121 
 
 ## Availability 

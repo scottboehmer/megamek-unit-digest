@@ -15,7 +15,7 @@
   - LRM 20 (ammo: 18) 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4769/ostwar-owr-2m) 
 - **Battle Value:** 1205 
 
 ## Availability 

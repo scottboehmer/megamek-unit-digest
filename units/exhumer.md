@@ -14,7 +14,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6410/exhumer-exr-2x) 
 - **Battle Value:** 1468 
 - [*More Info*](exhumer/exhumer_exr-2x.md) 
 
@@ -33,7 +33,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6411/exhumer-exr-3p) 
 - **Battle Value:** 1469 
 - [*More Info*](exhumer/exhumer_exr-3p.md) 
 

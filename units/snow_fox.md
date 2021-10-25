@@ -13,7 +13,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2979/snow-fox-standard) 
 - **Battle Value:** 807 
 - [*More Info*](snow_fox/snow_fox_standard.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2980/snow-fox-2) 
 - **Battle Value:** 604 
 - [*More Info*](snow_fox/snow_fox_2.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2981/snow-fox-3) 
 - **Battle Value:** 903 
 - [*More Info*](snow_fox/snow_fox_3.md) 
 

@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
-- **Sources:** ilClan Vol 11 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d) 
 - **Battle Value:** 1315 
 
 ## Availability 

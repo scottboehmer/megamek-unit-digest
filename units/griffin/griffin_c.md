@@ -16,7 +16,7 @@
   - Streak LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c) 
 - **Battle Value:** 2131 
 
 ## Availability 

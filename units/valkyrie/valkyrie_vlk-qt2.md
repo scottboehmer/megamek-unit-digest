@@ -16,7 +16,7 @@
   - Light PPC 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3380/valkyrie-vlk-qt2) 
 - **Battle Value:** 863 
 
 ## Availability 

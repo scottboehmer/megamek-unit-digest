@@ -18,7 +18,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2410/paladin-pal-3) 
 - **Battle Value:** 1370 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615/quickdraw-qkd-5mr) 
 - **Battle Value:** 1465 
 
 ## Availability 

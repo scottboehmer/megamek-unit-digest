@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d) 
 - **Battle Value:** 1684 
 
 ## Availability 

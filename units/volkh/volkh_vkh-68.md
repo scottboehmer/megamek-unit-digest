@@ -20,7 +20,7 @@
   - MASC 
   - Targeting Computer 
   - Head Turret 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8107/volkh-vkh-68) 
 - **Battle Value:** 1679 
 
 ## Availability 

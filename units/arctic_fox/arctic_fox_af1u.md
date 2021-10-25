@@ -16,7 +16,7 @@
   - Light PPC 
 - **Equipment:** 
   - MASS 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/98/arctic-fox-af1u) 
 - **Battle Value:** 821 
 
 ## Availability 

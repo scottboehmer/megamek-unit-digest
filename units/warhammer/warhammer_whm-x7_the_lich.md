@@ -17,7 +17,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499/warhammer-whm-x7-the-lich) 
 - **Battle Value:** 1785 
 
 ## Availability 

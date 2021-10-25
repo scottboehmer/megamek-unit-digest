@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1570/hunchback-iic-3) 
 - **Battle Value:** 1951 
 
 ## Availability 

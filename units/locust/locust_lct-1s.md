@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1900/locust-lct-1s) 
 - **Battle Value:** 440 
 
 ## Availability 

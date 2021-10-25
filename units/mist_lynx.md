@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1836/koshi-mist-lynx-prime) 
 - **Battle Value:** 871 
 - [*More Info*](mist_lynx/mist_lynx_prime.md) 
 
@@ -38,7 +38,7 @@
   - A-Pod × 2 
   - TAG 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1827/koshi-mist-lynx-a) 
 - **Battle Value:** 608 
 - [*More Info*](mist_lynx/mist_lynx_a.md) 
 
@@ -58,7 +58,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1828/koshi-mist-lynx-b) 
 - **Battle Value:** 1209 
 - [*More Info*](mist_lynx/mist_lynx_b.md) 
 
@@ -79,7 +79,7 @@
   - Anti-Missile System (ammo: 24) 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1829/koshi-mist-lynx-c) 
 - **Battle Value:** 1320 
 - [*More Info*](mist_lynx/mist_lynx_c.md) 
 
@@ -99,7 +99,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1830/koshi-mist-lynx-d) 
 - **Battle Value:** 842 
 - [*More Info*](mist_lynx/mist_lynx_d.md) 
 
@@ -118,7 +118,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1831/koshi-mist-lynx-e) 
 - **Battle Value:** 997 
 - [*More Info*](mist_lynx/mist_lynx_e.md) 
 
@@ -139,7 +139,7 @@
   - Anti-Missile System (ammo: 24) 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1834/koshi-mist-lynx-h) 
 - **Battle Value:** 982 
 - [*More Info*](mist_lynx/mist_lynx_h.md) 
 
@@ -158,7 +158,7 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1835/koshi-mist-lynx-p) 
 - **Battle Value:** 1064 
 - [*More Info*](mist_lynx/mist_lynx_p.md) 
 
@@ -179,7 +179,7 @@
   - Active Probe 
   - Light TAG 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1832/koshi-mist-lynx-f) 
 - **Battle Value:** 1173 
 - [*More Info*](mist_lynx/mist_lynx_f.md) 
 
@@ -199,7 +199,7 @@
   - Machine Gun Array × 2 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1833/koshi-mist-lynx-g) 
 - **Battle Value:** 834 
 - [*More Info*](mist_lynx/mist_lynx_g.md) 
 
@@ -219,7 +219,7 @@
   - Active Probe 
   - CASE 
   - Modular Armor 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5643/koshi-mist-lynx-z) 
 - **Battle Value:** 970 
 - [*More Info*](mist_lynx/mist_lynx_z.md) 
 
@@ -238,7 +238,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7557/koshi-mist-lynx-i) 
 - **Battle Value:** 689 
 - [*More Info*](mist_lynx/mist_lynx_i.md) 
 
@@ -257,7 +257,7 @@
 - **Equipment:** 
   - Active Probe 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j) 
 - **Battle Value:** 1704 
 - [*More Info*](mist_lynx/mist_lynx_j.md) 
 
@@ -276,7 +276,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7559/koshi-mist-lynx-k) 
 - **Battle Value:** 976 
 - [*More Info*](mist_lynx/mist_lynx_k.md) 
 
@@ -297,7 +297,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7560/koshi-mist-lynx-l) 
 - **Battle Value:** 901 
 - [*More Info*](mist_lynx/mist_lynx_l.md) 
 
@@ -318,7 +318,7 @@
   - Active Probe 
   - TAG 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7562/koshi-mist-lynx-n) 
 - **Battle Value:** 976 
 - [*More Info*](mist_lynx/mist_lynx_n.md) 
 
@@ -338,7 +338,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m) 
 - **Battle Value:** 961 
 - [*More Info*](mist_lynx/mist_lynx_m.md) 
 
@@ -359,7 +359,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
 - **Battle Value:** 971 
 - [*More Info*](mist_lynx/mist_lynx_t.md) 
 

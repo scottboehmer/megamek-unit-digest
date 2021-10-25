@@ -18,7 +18,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6573/mad-cat-mk-iv-savage-wolf-c) 
 - **Battle Value:** 2796 
 
 ## Availability 

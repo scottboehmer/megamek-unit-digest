@@ -16,7 +16,7 @@
   - MRM 20 (ammo: 12) 
   - Streak SRM 2 (ammo: 50) 
   - Flamer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1173/gallant-glt-7-0) 
 - **Battle Value:** 1436 
 
 ## Availability 

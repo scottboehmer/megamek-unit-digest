@@ -15,7 +15,7 @@
   - Medium Bridgelayer 
   - Lift Hoist × 2 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6717/revenant-ubm-2r7) 
 - **Battle Value:** 460 
 
 ## Availability 

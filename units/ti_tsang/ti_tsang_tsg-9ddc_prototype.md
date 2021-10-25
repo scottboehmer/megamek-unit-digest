@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
 - **Battle Value:** 2013 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Watchdog CEWS 
   - Inner Sphere C3i 
   - MASC 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2977/snake-snk-2br) 
 - **Battle Value:** 1577 
 
 ## Availability 

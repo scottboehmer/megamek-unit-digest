@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - Salvage Arm 
   - Remote Sensor Dispenser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7847/opossum-opo-2-salvagemech) 
 - **Battle Value:** 240 
 
 ## Availability 

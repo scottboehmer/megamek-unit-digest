@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5712/templar-tlr1-oi) 
 - **Battle Value:** 2202 
 
 ## Availability 

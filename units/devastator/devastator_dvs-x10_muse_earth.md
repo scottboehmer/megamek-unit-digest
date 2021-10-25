@@ -18,7 +18,7 @@
   - MASC 
   - Armored Supercharger 
   - Armored Actuator × 4 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/896/devastator-dvs-x10-muse-earth) 
 - **Battle Value:** 3250 
 
 ## Availability 

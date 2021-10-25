@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3 Master × 2 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm) 
 - **Battle Value:** 1883 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 30 (60) 
 - **Weapons:** 
   - ER PPC × 4 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481/hellstar-standard) 
 - **Battle Value:** 3084 
 
 ## Availability 

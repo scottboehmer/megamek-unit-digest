@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2346/osprey-osp-26) 
 - **Battle Value:** 1541 
 
 ## Availability 

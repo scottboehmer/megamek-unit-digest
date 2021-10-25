@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975/mackie-msk-9h) 
 - **Battle Value:** 2022 
 
 ## Availability 

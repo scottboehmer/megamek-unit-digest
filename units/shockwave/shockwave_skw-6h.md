@@ -17,7 +17,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6903/shockwave-skw-6h) 
 - **Battle Value:** 1364 
 
 ## Availability 

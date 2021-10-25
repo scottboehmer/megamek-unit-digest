@@ -16,7 +16,7 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d) 
 - **Battle Value:** 2030 
 
 ## Availability 

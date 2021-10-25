@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** RS IA - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7166/crosscut-ed-x1-loggermech) 
 - **Battle Value:** 251 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7796/jenner-jr7-f-smith) 
 - **Battle Value:** 1070 
 
 ## Availability 

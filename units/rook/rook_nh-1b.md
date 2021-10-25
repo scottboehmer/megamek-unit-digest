@@ -15,7 +15,7 @@
   - PPC 
   - Medium Laser × 6 
   - Small Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2741/rook-nh-1b) 
 - **Battle Value:** 1227 
 
 ## Availability 

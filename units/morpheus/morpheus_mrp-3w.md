@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - MASS 
   - Spikes × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2228/morpheus-mrp-3w) 
 - **Battle Value:** 1299 
 
 ## Availability 

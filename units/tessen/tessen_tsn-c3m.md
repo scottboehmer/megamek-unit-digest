@@ -17,7 +17,7 @@
 - **Equipment:** 
   - MASC 
   - C3 Master 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5678/tessen-tsn-c3m) 
 - **Battle Value:** 1547 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1236/goliath-gol-5w) 
 - **Battle Value:** 2006 
 
 ## Availability 

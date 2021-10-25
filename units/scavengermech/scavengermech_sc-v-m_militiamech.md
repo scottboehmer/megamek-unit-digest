@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Extended Fuel Tank 
   - Searchlight 
-- **Sources:** RS VA , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7174/scavenger-sc-v-m-militiamech) 
 - **Battle Value:** 726 
 
 ## Availability 

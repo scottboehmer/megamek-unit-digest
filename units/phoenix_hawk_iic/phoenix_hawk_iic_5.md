@@ -16,7 +16,7 @@
   - AP Gauss Rifle × 4 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515/phoenix-hawk-iic-5) 
 - **Battle Value:** 2350 
 
 ## Availability 

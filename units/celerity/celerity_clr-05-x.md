@@ -17,7 +17,7 @@
   - MASC 
   - Drone Operating System 
   - Supercharger 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6710/celerity-clr-05-x) 
 - **Battle Value:** 225 
 
 ## Availability 

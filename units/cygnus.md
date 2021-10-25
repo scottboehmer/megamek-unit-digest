@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/781/cygnus-standard) 
 - **Battle Value:** 2583 
 - [*More Info*](cygnus/cygnus_standard.md) 
 
@@ -31,7 +31,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/782/cygnus-2) 
 - **Battle Value:** 3421 
 - [*More Info*](cygnus/cygnus_2.md) 
 
@@ -47,7 +47,7 @@
   - HAG 20 × 4 (ammo: 36) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/783/cygnus-3) 
 - **Battle Value:** 2569 
 - [*More Info*](cygnus/cygnus_3.md) 
 
@@ -66,7 +66,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6843/cygnus-4) 
 - **Battle Value:** 2570 
 - [*More Info*](cygnus/cygnus_4.md) 
 

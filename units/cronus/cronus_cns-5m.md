@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021/cronus-cns-5m) 
 - **Battle Value:** 1579 
 
 ## Availability 

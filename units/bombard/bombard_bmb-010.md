@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/20 × 2 (ammo: 20) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/418/bombard-bmb-010) 
 - **Battle Value:** 850 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Targeting Computer 
   - MASC 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3316/tundra-wolf-2) 
 - **Battle Value:** 3626 
 
 ## Availability 

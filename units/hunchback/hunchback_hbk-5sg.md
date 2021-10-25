@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1565/hunchback-hbk-5sg) 
 - **Battle Value:** 1577 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Heavy Small Laser × 10 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6863/sphinx-4) 
 - **Battle Value:** 1952 
 
 ## Availability 

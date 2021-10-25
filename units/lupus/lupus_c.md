@@ -17,7 +17,7 @@
   - Inner Sphere Coolant Pod 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c) 
 - **Battle Value:** 2533 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/944/eisenfaust-eft-4j) 
 - **Battle Value:** 977 
 
 ## Availability 

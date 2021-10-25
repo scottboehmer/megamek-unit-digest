@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193/ghost-gst-10) 
 - **Battle Value:** 1353 
 - [*More Info*](ghost/ghost_gst-10.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194/ghost-gst-11) 
 - **Battle Value:** 1244 
 - [*More Info*](ghost/ghost_gst-11.md) 
 
@@ -52,7 +52,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907/ghost-gst-50) 
 - **Battle Value:** 1114 
 - [*More Info*](ghost/ghost_gst-50.md) 
 
@@ -87,7 +87,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Chainsaw 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906/ghost-gst-90) 
 - **Battle Value:** 1012 
 - [*More Info*](ghost/ghost_gst-90.md) 
 

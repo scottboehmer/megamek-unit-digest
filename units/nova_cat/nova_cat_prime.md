@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Large Laser × 3 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2306/nova-cat-prime) 
 - **Battle Value:** 2530 
 
 ## Availability 

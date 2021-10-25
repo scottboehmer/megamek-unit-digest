@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - TAG 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2668/raven-rvn-4lr) 
 - **Battle Value:** 923 
 
 ## Availability 

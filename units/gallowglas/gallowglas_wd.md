@@ -15,7 +15,7 @@
   - ER PPC 
   - ER Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1188/gallowglas-wd) 
 - **Battle Value:** 2094 
 
 ## Availability 

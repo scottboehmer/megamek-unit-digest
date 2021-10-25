@@ -19,7 +19,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1332/grizzly-standard) 
 - **Battle Value:** 2219 
 
 ## Availability 

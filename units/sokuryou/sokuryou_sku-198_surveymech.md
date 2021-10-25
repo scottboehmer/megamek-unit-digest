@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2984/sokuryou-sku-198-surveymech) 
 - **Battle Value:** 581 
 
 ## Availability 

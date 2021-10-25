@@ -19,7 +19,7 @@
   - Targeting Computer 
   - Supercharger 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608/coyotl-d) 
 - **Battle Value:** 1980 
 
 ## Availability 

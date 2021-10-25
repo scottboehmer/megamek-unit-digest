@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 30) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/647/clint-clnt-2-3ul) 
 - **Battle Value:** 1245 
 
 ## Availability 

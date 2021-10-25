@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - TAG 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6501/gambit-gbt-1l) 
 - **Battle Value:** 796 
 
 ## Availability 

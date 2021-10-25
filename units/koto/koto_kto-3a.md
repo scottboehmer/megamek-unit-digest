@@ -14,7 +14,7 @@
   - Large Pulse Laser 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1838/koto-kto-3a) 
 - **Battle Value:** 806 
 
 ## Availability 

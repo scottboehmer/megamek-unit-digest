@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
   - Flamer 
   - Machine Gun (ammo: 200) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3461/vulcan-vt-5m) 
 - **Battle Value:** 811 
 
 ## Availability 

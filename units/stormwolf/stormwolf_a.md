@@ -19,7 +19,7 @@
   - Active Probe 
   - MASC 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8205/stormwolf-a) 
 - **Battle Value:** 2655 
 
 ## Availability 

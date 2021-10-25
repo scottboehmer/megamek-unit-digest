@@ -17,7 +17,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7534/marauder-mad-11d) 
 - **Battle Value:** 2263 
 
 ## Availability 

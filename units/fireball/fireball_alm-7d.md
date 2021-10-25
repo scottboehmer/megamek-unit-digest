@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Streak SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 200) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1075/fireball-alm-7d) 
 - **Battle Value:** 385 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE II 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w) 
 - **Battle Value:** 1387 
 
 ## Availability 

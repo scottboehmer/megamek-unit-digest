@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 32) 
   - Large Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/73/archer-arc-2k) 
 - **Battle Value:** 1356 
 
 ## Availability 

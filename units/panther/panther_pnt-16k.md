@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2423/panther-pnt-16k) 
 - **Battle Value:** 988 
 
 ## Availability 

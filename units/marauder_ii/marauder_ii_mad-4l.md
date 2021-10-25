@@ -16,7 +16,7 @@
   - ER PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6828/marauder-ii-mad-4l) 
 - **Battle Value:** 2839 
 
 ## Availability 

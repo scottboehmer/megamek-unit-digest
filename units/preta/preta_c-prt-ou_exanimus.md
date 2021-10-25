@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580/preta-c-prt-ou-exanimus) 
 - **Battle Value:** 1052 
 
 ## Availability 

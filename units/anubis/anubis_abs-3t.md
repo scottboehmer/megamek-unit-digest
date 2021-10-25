@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3704/anubis-abs-3t) 
 - **Battle Value:** 1150 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ATM 3 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918/locust-iic-5) 
 - **Battle Value:** 878 
 
 ## Availability 

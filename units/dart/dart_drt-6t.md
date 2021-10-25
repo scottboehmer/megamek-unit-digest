@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831/dart-drt-6t) 
 - **Battle Value:** 703 
 
 ## Availability 

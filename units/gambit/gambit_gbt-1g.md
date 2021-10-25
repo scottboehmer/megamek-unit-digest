@@ -16,7 +16,7 @@
   - MML 3 (ammo: 40 LRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6500/gambit-gbt-1g) 
 - **Battle Value:** 777 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Thumper (ammo: 40) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5604/grand-titan-t-it-n14r-vengeance) 
 - **Battle Value:** 2237 
 
 ## Availability 

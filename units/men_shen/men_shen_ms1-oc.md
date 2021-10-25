@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - MASC 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2163/men-shen-ms1-oc) 
 - **Battle Value:** 1435 
 
 ## Availability 

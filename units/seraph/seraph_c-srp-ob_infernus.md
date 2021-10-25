@@ -21,7 +21,7 @@
   - C3i 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2871/seraph-c-srp-ob-infernus) 
 - **Battle Value:** 2181 
 
 ## Availability 

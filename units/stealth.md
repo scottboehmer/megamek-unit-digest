@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3052/stealth-sth-1d) 
 - **Battle Value:** 1231 
 - [*More Info*](stealth/stealth_sth-1d.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3054/stealth-sth-2d) 
 - **Battle Value:** 1508 
 - [*More Info*](stealth/stealth_sth-2d.md) 
 
@@ -55,7 +55,7 @@
   - Beagle Active Probe 
   - MASC 
   - C3 Slave 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3055/stealth-sth-2d1) 
 - **Battle Value:** 1339 
 - [*More Info*](stealth/stealth_sth-2d1.md) 
 
@@ -75,7 +75,7 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3056/stealth-sth-2d2) 
 - **Battle Value:** 1339 
 - [*More Info*](stealth/stealth_sth-2d2.md) 
 
@@ -112,7 +112,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3057/stealth-sth-3s) 
 - **Battle Value:** 1577 
 - [*More Info*](stealth/stealth_sth-3s.md) 
 
@@ -134,7 +134,7 @@
   - Clan Active Probe 
   - Chameleon LPS 
   - MASC 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5130/stealth-sth-5x) 
 - **Battle Value:** 2155 
 - [*More Info*](stealth/stealth_sth-5x.md) 
 

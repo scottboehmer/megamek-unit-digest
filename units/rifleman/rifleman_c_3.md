@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7576/rifleman-c-3) 
 - **Battle Value:** 1871 
 
 ## Availability 

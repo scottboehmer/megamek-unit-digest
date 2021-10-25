@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Flamer × 6 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6609/firestarter-fs9-m2) 
 - **Battle Value:** 751 
 
 ## Availability 

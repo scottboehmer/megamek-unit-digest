@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3292/trebaruna-tr-xb) 
 - **Battle Value:** 2223 
 
 ## Availability 

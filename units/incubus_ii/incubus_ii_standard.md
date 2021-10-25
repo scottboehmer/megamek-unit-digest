@@ -17,7 +17,7 @@
   - Laser Anti-Missile System 
   - Light Active Probe 
   - Partial Wing 
-- **Sources:** TRO:Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363/incubus-ii-standard) 
 - **Battle Value:** 1261 
 
 ## Availability 

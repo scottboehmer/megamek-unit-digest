@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Small Shield 
   - MASC 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t) 
 - **Battle Value:** 852 
 
 ## Availability 

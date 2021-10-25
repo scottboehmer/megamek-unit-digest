@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Medium Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3068/stinger-stg-7s) 
 - **Battle Value:** 382 
 
 ## Availability 

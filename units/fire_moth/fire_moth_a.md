@@ -18,7 +18,7 @@
   - MASC 
   - CASE 
   - TAG 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/838/dasher-fire-moth-a) 
 - **Battle Value:** 639 
 
 ## Availability 

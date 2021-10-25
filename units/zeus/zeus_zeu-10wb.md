@@ -15,7 +15,7 @@
   - Heavy PPC × 2 
   - ER Large Laser 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3639/zeus-zeu-10wb) 
 - **Battle Value:** 2075 
 
 ## Availability 

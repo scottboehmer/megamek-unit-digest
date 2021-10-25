@@ -18,7 +18,7 @@
   - Machine Gun × 4 (ammo: 400) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4) 
 - **Battle Value:** 2601 
 
 ## Availability 

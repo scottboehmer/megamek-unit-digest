@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
 - **Battle Value:** 1442 
 
 ## Availability 

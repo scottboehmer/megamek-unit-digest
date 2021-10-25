@@ -17,7 +17,7 @@
   - TAG 
   - C3 Slave 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6924/owens-ow-1g) 
 - **Battle Value:** 1761 
 
 ## Availability 

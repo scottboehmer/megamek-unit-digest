@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3245/thunderbolt-tdr-7se) 
 - **Battle Value:** 1809 
 
 ## Availability 

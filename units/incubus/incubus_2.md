@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3442/vixen-incubus-2) 
 - **Battle Value:** 1913 
 
 ## Availability 

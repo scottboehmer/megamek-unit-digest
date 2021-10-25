@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315/griffin-iic-6) 
 - **Battle Value:** 1468 
 
 ## Availability 

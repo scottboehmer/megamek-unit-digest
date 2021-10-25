@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/495/cauldron-born-ebon-jaguar-h) 
 - **Battle Value:** 2359 
 
 ## Availability 

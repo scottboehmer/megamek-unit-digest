@@ -17,7 +17,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5444/raven-rvn-3m) 
 - **Battle Value:** 659 
 
 ## Availability 

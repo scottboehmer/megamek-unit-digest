@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Clan Targeting Computer 
   - Supercharger 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7753/phoenix-hawk-c-2) 
 - **Battle Value:** 2187 
 
 ## Availability 

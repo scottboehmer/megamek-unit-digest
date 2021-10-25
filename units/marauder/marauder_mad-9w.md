@@ -18,7 +18,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2050/marauder-mad-9w) 
 - **Battle Value:** 1788 
 
 ## Availability 

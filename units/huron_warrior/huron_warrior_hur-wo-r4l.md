@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
   - ER Large Laser 
   - Medium Pulse Laser 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1580/huron-warrior-hur-wo-r4l) 
 - **Battle Value:** 1530 
 
 ## Availability 

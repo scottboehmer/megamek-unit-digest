@@ -14,7 +14,7 @@
   - PPC × 2 
   - LRM 15 (ammo: 8) 
   - Medium Laser × 5 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4358/imp-imp-2e) 
 - **Battle Value:** 1969 
 
 ## Availability 

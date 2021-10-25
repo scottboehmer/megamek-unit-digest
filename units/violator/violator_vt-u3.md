@@ -18,7 +18,7 @@
   - Mining Drill 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6504/violator-vt-u3) 
 - **Battle Value:** 973 
 
 ## Availability 

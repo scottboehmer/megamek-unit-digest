@@ -21,7 +21,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/65/archangel-c-ang-o-invictus) 
 - **Battle Value:** 2237 
 
 ## Availability 

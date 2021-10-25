@@ -14,7 +14,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3422/vindicator-vnd-1r) 
 - **Battle Value:** 1024 
 - [*More Info*](vindicator/vindicator_vnd-1r.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3425/vindicator-vnd-1x) 
 - **Battle Value:** 1008 
 - [*More Info*](vindicator/vindicator_vnd-1x.md) 
 
@@ -50,7 +50,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3421/vindicator-vnd-1aa-avenging-angel) 
 - **Battle Value:** 966 
 - [*More Info*](vindicator/vindicator_vnd-1aa_avenging_angel.md) 
 
@@ -68,7 +68,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3423/vindicator-vnd-1r-vong) 
 - **Battle Value:** 1024 
 - [*More Info*](vindicator/vindicator_vnd-1r_vong.md) 
 
@@ -86,7 +86,7 @@
   - LRM 10 (ammo: 12) 
   - Medium Laser 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3424/vindicator-vnd-1sic) 
 - **Battle Value:** 1020 
 - [*More Info*](vindicator/vindicator_vnd-1sic.md) 
 
@@ -105,7 +105,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l) 
 - **Battle Value:** 1105 
 - [*More Info*](vindicator/vindicator_vnd-3l.md) 
 
@@ -126,7 +126,7 @@
   - Sword 
   - Small Pulse Laser 
   - Small Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430/vindicator-vnd-5l) 
 - **Battle Value:** 1484 
 - [*More Info*](vindicator/vindicator_vnd-5l.md) 
 
@@ -147,7 +147,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3429/vindicator-vnd-4l) 
 - **Battle Value:** 1411 
 - [*More Info*](vindicator/vindicator_vnd-4l.md) 
 
@@ -169,7 +169,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3431/vindicator-vnd-6l) 
 - **Battle Value:** 1739 
 - [*More Info*](vindicator/vindicator_vnd-6l.md) 
 
@@ -188,7 +188,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428/vindicator-vnd-3lr) 
 - **Battle Value:** 1045 
 - [*More Info*](vindicator/vindicator_vnd-3lr.md) 
 
@@ -209,7 +209,7 @@
 - **Equipment:** 
   - AES × 2 
   - Supercharger 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3427/vindicator-vnd-3ld-dao) 
 - **Battle Value:** 1583 
 - [*More Info*](vindicator/vindicator_vnd-3ld_dao.md) 
 

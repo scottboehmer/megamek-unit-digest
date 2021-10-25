@@ -18,7 +18,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8233/crusader-crd-9r) 
 - **Battle Value:** 1612 
 
 ## Availability 

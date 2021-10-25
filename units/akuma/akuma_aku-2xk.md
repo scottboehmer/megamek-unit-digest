@@ -21,7 +21,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5714/akuma-aku-2xk) 
 - **Battle Value:** 2170 
 
 ## Availability 

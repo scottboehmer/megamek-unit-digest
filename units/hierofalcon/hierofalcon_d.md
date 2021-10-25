@@ -18,7 +18,7 @@
   - Partial Wing 
   - CASE II 
   - Supercharger 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7488/hierofalcon-d) 
 - **Battle Value:** 2183 
 
 ## Availability 

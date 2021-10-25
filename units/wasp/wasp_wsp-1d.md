@@ -15,7 +15,7 @@
   - Medium Laser 
   - Small Laser × 2 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3521/wasp-wsp-1d) 
 - **Battle Value:** 403 
 
 ## Availability 

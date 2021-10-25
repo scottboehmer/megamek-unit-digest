@@ -17,7 +17,7 @@
   - MML 5 × 2 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715/inferno-inf-no) 
 - **Battle Value:** 1597 
 
 ## Availability 

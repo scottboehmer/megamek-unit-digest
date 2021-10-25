@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - LRM 10 w/ Artemis IV (ammo: 12) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1191/garm-grm-01b) 
 - **Battle Value:** 934 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3) 
 - **Battle Value:** 3072 
 
 ## Availability 

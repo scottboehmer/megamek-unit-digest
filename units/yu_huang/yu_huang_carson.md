@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** DTP Liao , [Master Unit List](Master Unit List) 
+- **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5544/yu-huang-carson) 
 - **Battle Value:** 2464 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - CASE 
   - C3i 
   - TAG 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5208/tessen-tsn-1c) 
 - **Battle Value:** 1162 
 - [*More Info*](tessen/tessen_tsn-1c.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - C3 Slave 
   - TAG 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3) 
 - **Battle Value:** 1234 
 - [*More Info*](tessen/tessen_tsn-c3.md) 
 
@@ -56,7 +56,7 @@
   - C3 Slave 
   - CASE 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr) 
 - **Battle Value:** 1241 
 - [*More Info*](tessen/tessen_tsn-1cr.md) 
 
@@ -76,7 +76,7 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
   - TAG 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5549/tessen-tsn-x-4) 
 - **Battle Value:** 1263 
 - [*More Info*](tessen/tessen_tsn-x-4.md) 
 
@@ -95,7 +95,7 @@
 - **Equipment:** 
   - MASC 
   - C3 Master 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5678/tessen-tsn-c3m) 
 - **Battle Value:** 1547 
 - [*More Info*](tessen/tessen_tsn-c3m.md) 
 

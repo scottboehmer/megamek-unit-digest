@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Chameleon LPS 
   - Null-Signature System 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3002/spector-spr-4f) 
 - **Battle Value:** 1224 
 
 ## Availability 

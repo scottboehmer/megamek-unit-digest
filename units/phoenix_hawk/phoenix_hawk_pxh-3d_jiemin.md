@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large X-Pulse Laser 
   - Medium X-Pulse Laser 
-- **Sources:** Fronc Reaches , [Master Unit List](Master Unit List) 
+- **Sources:** Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7699/phoenix-hawk-pxh-3d-jiemin) 
 - **Battle Value:** 1322 
 
 ## Availability 

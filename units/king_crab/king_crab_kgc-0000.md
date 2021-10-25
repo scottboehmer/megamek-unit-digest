@@ -14,7 +14,7 @@
   - AC/20 × 2 (ammo: 10) 
   - LRM 15 (ammo: 8) 
   - Large Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771/king-crab-kgc-0000) 
 - **Battle Value:** 1810 
 
 ## Availability 

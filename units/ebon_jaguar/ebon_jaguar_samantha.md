@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** HTP Luzerne - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Luzerne - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5862/cauldron-born-ebon-jaguar-samantha) 
 - **Battle Value:** 2372 
 
 ## Availability 

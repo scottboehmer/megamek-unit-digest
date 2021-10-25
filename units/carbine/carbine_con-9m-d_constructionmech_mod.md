@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8098/carbine-con-9m-d-constructionmech-mod) 
 - **Battle Value:** 257 
 
 ## Availability 

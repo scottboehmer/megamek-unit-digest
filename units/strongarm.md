@@ -12,7 +12,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7857/strongarm-sc-cv-constructionmech) 
 - **Battle Value:** 315 
 - [*More Info*](strongarm/strongarm_sc_cv_constructionmech.md) 
 
@@ -29,7 +29,7 @@
   - Lift Hoist 
   - Salvage Arm 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7859/strongarm-sc-cvi-constructionmech) 
 - **Battle Value:** 315 
 - [*More Info*](strongarm/strongarm_sc_cvi_constructionmech.md) 
 
@@ -46,7 +46,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7858/strongarm-sc-cv-m-constructionmech-mod) 
 - **Battle Value:** 315 
 - [*More Info*](strongarm/strongarm_sc_cv-m_constructionmech_mod.md) 
 

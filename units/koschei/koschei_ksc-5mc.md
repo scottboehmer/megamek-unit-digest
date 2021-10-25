@@ -18,7 +18,7 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc) 
 - **Battle Value:** 1764 
 
 ## Availability 

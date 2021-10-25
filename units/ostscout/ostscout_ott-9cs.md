@@ -19,7 +19,7 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs) 
 - **Battle Value:** 930 
 
 ## Availability 

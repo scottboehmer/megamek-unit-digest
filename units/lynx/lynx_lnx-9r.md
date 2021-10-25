@@ -15,7 +15,7 @@
   - ER PPC 
   - ER Large Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1969/lynx-lnx-9r) 
 - **Battle Value:** 1755 
 
 ## Availability 

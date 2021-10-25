@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7612/omni-corvis-b) 
 - **Battle Value:** 1640 
 
 ## Availability 

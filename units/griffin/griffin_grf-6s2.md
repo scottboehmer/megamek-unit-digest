@@ -19,7 +19,7 @@
   - C3 Boosted Slave 
   - Targeting Computer 
   - CASE II 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2) 
 - **Battle Value:** 1870 
 
 ## Availability 

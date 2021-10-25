@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6340/centurion-cn11-o) 
 - **Battle Value:** 1236 
 
 ## Availability 

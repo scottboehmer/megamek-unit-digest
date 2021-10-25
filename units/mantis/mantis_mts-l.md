@@ -17,7 +17,7 @@
   - Lance 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2022/mantis-mts-l) 
 - **Battle Value:** 1194 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7707/shadow-cat-m) 
 - **Battle Value:** 2438 
 
 ## Availability 

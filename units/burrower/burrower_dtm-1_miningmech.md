@@ -16,7 +16,7 @@
   - Fluid Gun × 2 (ammo: 120) 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7874/burrower-dtm-1-miningmech) 
 - **Battle Value:** 492 
 
 ## Availability 

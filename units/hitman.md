@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - TAG 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1533/hitman-hm-1) 
 - **Battle Value:** 925 
 - [*More Info*](hitman/hitman_hm-1.md) 
 
@@ -36,7 +36,7 @@
   - Beagle Active Probe 
   - C3 Slave 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1535/hitman-hm-2) 
 - **Battle Value:** 861 
 - [*More Info*](hitman/hitman_hm-2.md) 
 
@@ -57,7 +57,7 @@
   - Beagle Active Probe 
   - TAG 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1534/hitman-hm-1r) 
 - **Battle Value:** 938 
 - [*More Info*](hitman/hitman_hm-1r.md) 
 

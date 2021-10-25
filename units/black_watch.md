@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/371/black-watch-bkw-7r) 
 - **Battle Value:** 1998 
 - [*More Info*](black_watch/black_watch_bkw-7r.md) 
 
@@ -35,7 +35,7 @@
   - MML 7 × 2 (ammo: 34 LRM, 28 SRM) 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/372/black-watch-bkw-9r) 
 - **Battle Value:** 2144 
 - [*More Info*](black_watch/black_watch_bkw-9r.md) 
 

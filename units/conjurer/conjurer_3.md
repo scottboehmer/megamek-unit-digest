@@ -16,7 +16,7 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1475/hellhound-conjurer-3) 
 - **Battle Value:** 1764 
 
 ## Availability 

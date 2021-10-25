@@ -20,7 +20,7 @@
   - Clan Active Probe 
   - Chameleon LPS 
   - MASC 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5130/stealth-sth-5x) 
 - **Battle Value:** 2155 
 
 ## Availability 

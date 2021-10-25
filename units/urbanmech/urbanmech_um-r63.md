@@ -15,7 +15,7 @@
   - LB 10-X AC (ammo: 10) 
   - Small Pulse Laser 
   - Small Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3356/urbanmech-um-r63) 
 - **Battle Value:** 540 
 
 ## Availability 

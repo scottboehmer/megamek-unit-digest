@@ -16,7 +16,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4794/patron-ptn-2-militiamech) 
 - **Battle Value:** 143 
 
 ## Availability 

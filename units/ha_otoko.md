@@ -13,7 +13,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1355/ha-otoko-standard) 
 - **Battle Value:** 1873 
 - [*More Info*](ha_otoko/ha_otoko_standard.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - LRM 10 × 2 (ammo: 24) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357/ha-otoko-hko-1c) 
 - **Battle Value:** 1288 
 - [*More Info*](ha_otoko/ha_otoko_hko-1c.md) 
 
@@ -47,7 +47,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1356/ha-otoko-2) 
 - **Battle Value:** 2348 
 - [*More Info*](ha_otoko/ha_otoko_2.md) 
 
@@ -67,7 +67,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1354/ha-otoko-3) 
 - **Battle Value:** 2206 
 - [*More Info*](ha_otoko/ha_otoko_3.md) 
 

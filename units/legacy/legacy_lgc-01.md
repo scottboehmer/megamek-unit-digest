@@ -19,7 +19,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4488/legacy-lgc-01) 
 - **Battle Value:** 1967 
 
 ## Availability 

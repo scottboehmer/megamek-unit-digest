@@ -16,7 +16,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7734/crucible-standard) 
 - **Battle Value:** 3108 
 
 ## Availability 

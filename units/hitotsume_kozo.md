@@ -15,7 +15,7 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6412/hitotsume-kozo-hkz-1f) 
 - **Battle Value:** 1998 
 - [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1f.md) 
 
@@ -52,7 +52,7 @@
   - Ultra AC/10 (ammo: 20) 
   - Medium Pulse Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6413/hitotsume-kozo-hkz-1p) 
 - **Battle Value:** 1611 
 - [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1p.md) 
 

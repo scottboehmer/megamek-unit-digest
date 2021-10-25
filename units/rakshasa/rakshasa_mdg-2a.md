@@ -14,7 +14,7 @@
   - RAC/5 (ammo: 60) 
   - Large Pulse Laser 
   - Medium Pulse Laser × 4 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a) 
 - **Battle Value:** 1766 
 
 ## Availability 

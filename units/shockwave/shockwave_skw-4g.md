@@ -14,7 +14,7 @@
   - RAC/5 (ammo: 40) 
   - Large X-Pulse Laser 
   - LRM 10 (ammo: 12) 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2930/shockwave-skw-4g) 
 - **Battle Value:** 1449 
 
 ## Availability 

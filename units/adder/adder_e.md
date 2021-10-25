@@ -16,7 +16,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2595/puma-adder-e) 
 - **Battle Value:** 1272 
 
 ## Availability 

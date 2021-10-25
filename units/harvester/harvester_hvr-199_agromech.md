@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7860/harvester-hvr-199-agromech) 
 - **Battle Value:** 490 
 
 ## Availability 

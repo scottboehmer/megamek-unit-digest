@@ -20,7 +20,7 @@
   - Beagle Active Probe 
   - Command Console 
   - MASC 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1710/jinggau-jn-g9cc) 
 - **Battle Value:** 1656 
 
 ## Availability 

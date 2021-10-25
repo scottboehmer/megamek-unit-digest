@@ -13,7 +13,7 @@
 - **Heat Sinks:** 17 (34) 
 - **Weapons:** 
   - ER PPC × 2 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3076/stooping-hawk-a) 
 - **Battle Value:** 2319 
 
 ## Availability 

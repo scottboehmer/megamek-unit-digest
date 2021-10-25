@@ -15,7 +15,7 @@
   - Heavy Medium Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3878/burrock-standard) 
 - **Battle Value:** 2230 
 
 ## Availability 

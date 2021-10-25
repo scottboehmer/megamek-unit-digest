@@ -19,7 +19,7 @@
   - CASE 
   - Ejection Seat 
   - Tracks 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6823/diomede-d-m3d-m) 
 - **Battle Value:** 1609 
 
 ## Availability 

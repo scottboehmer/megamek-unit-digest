@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6561/vulture-mk-iv-mad-dog-mk-iv-c) 
 - **Battle Value:** 2584 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509/phoenix-hawk-pxh-7s) 
 - **Battle Value:** 1496 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Mech Sprayer × 2 
   - Liquid Cargo × 2 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4780/pacifier-ccu-36-securitymech) 
 - **Battle Value:** 299 
 
 ## Availability 

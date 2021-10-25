@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4905/razorback-rzk-9t) 
 - **Battle Value:** 1149 
 
 ## Availability 

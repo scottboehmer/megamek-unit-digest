@@ -18,7 +18,7 @@
   - M-Pod × 4 
   - CASE 
   - Supercharger 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1360/hachiwara-hca-3t) 
 - **Battle Value:** 1646 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8211/cauldron-born-ebon-jaguar-g) 
 - **Battle Value:** 2849 
 
 ## Availability 

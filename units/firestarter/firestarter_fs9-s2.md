@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5441/firestarter-fs9-s2) 
 - **Battle Value:** 842 
 
 ## Availability 

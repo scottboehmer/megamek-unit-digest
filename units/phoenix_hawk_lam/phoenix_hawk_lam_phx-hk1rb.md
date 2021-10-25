@@ -18,7 +18,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4821/phoenix-hawk-lam-phx-hk1rb) 
 - **Battle Value:** 1800 
 
 ## Availability 

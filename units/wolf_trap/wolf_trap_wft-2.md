@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Machine Gun Array 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556/wolf-trap-tora-wft-2) 
 - **Battle Value:** 1212 
 
 ## Availability 

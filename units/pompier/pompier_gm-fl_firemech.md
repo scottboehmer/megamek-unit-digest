@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5780/pompier-gm-fl-firemech) 
 - **Battle Value:** 88 
 
 ## Availability 

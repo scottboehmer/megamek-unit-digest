@@ -19,7 +19,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430/bruin-standard) 
 - **Battle Value:** 2630 
 
 ## Availability 

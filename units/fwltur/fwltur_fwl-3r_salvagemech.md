@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Lift Hoist 
   - Searchlight 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1162/fwltur-fwl-3r-salvagemech) 
 - **Battle Value:** 255 
 
 ## Availability 

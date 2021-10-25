@@ -16,7 +16,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/276/battle-hawk-bh-k306) 
 - **Battle Value:** 926 
 
 ## Availability 

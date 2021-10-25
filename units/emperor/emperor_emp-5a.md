@@ -15,7 +15,7 @@
   - Large Laser × 2 
   - AC/5 × 2 (ammo: 40) 
   - Medium Laser × 3 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/963/emperor-emp-5a) 
 - **Battle Value:** 1830 
 
 ## Availability 

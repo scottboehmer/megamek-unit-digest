@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Heavy Small Laser × 6 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4) 
 - **Battle Value:** 795 
 
 ## Availability 

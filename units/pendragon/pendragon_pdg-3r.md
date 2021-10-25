@@ -18,7 +18,7 @@
   - CASE II 
   - C3 Master 
   - Coolant Pod 
-- **Sources:** Iron Wind Metals , [Master Unit List](Master Unit List) 
+- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000/pendragon-pdg-3r) 
 - **Battle Value:** 1991 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Plasma Rifle (ammo: 10) 
   - Medium X-Pulse Laser × 2 
   - Flamer × 3 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1092/firestarter-fs9-81x) 
 - **Battle Value:** 1065 
 
 ## Availability 

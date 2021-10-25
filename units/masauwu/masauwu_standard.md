@@ -20,7 +20,7 @@
   - ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7642/masauwu-standard) 
 - **Battle Value:** 2299 
 
 ## Availability 

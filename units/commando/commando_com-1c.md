@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - AC/2 (ammo: 45) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/668/commando-com-1c) 
 - **Battle Value:** 458 
 
 ## Availability 

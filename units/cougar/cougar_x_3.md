@@ -17,7 +17,7 @@
   - Clan ER Medium Pulse Laser 
 - **Equipment:** 
   - Clan Targeting Computer 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6953/cougar-x-3) 
 - **Battle Value:** 1391 
 
 ## Availability 

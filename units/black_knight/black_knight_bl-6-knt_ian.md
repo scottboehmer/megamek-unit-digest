@@ -16,7 +16,7 @@
   - Large Laser × 2 
   - Medium Laser × 4 
   - Hatchet 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/359/black-knight-bl-6-knt-ian) 
 - **Battle Value:** 1861 
 
 ## Availability 

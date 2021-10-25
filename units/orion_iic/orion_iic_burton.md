@@ -20,7 +20,7 @@
   - Laser Anti-Missile System 
   - Light Active Probe 
   - CASE 
-- **Sources:** OTP Capellan - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** OTP Capellan - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7403/orion-iic-burton) 
 - **Battle Value:** 2746 
 
 ## Availability 

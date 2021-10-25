@@ -14,7 +14,7 @@
   - ER PPC 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/91/arctic-fox-af1) 
 - **Battle Value:** 983 
 
 ## Availability 

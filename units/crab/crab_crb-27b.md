@@ -14,7 +14,7 @@
   - ER Large Laser × 2 
   - Medium Laser 
   - Small Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/717/crab-crb-27b) 
 - **Battle Value:** 1308 
 
 ## Availability 

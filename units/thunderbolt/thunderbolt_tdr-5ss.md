@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3241/thunderbolt-tdr-5ss) 
 - **Battle Value:** 1337 
 
 ## Availability 

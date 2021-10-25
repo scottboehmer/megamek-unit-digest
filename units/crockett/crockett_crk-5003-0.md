@@ -16,7 +16,7 @@
   - AC/10 (ammo: 20) 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/724/crockett-crk-5003-0) 
 - **Battle Value:** 1704 
 
 ## Availability 

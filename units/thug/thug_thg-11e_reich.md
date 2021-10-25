@@ -16,7 +16,7 @@
   - Clan Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** FM:Mercenaries SII - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** FM:Mercenaries SII - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5228/thug-thg-11e-reich) 
 - **Battle Value:** 2612 
 
 ## Availability 

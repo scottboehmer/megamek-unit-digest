@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2307/nyx-nx-80) 
 - **Battle Value:** 924 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - CASE II 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042/stalker-stk-7c3bs) 
 - **Battle Value:** 1712 
 
 ## Availability 

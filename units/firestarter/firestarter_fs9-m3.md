@@ -18,7 +18,7 @@
 - **Equipment:** 
   - TAG 
   - MASC 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6610/firestarter-fs9-m3) 
 - **Battle Value:** 866 
 
 ## Availability 

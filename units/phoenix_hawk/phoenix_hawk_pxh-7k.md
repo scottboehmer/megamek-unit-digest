@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k) 
 - **Battle Value:** 1241 
 
 ## Availability 

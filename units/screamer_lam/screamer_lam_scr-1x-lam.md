@@ -17,7 +17,7 @@
   - ER PPC 
 - **Equipment:** 
   - Bomb Bay × 4 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7320/screamer-lam-scr-1x-lam) 
 - **Battle Value:** 1475 
 
 ## Availability 

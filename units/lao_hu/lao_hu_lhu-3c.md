@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
   - ER Large Laser 
   - LRM 5 × 3 (ammo: 72) 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4480/lao-hu-lhu-3c) 
 - **Battle Value:** 1878 
 
 ## Availability 

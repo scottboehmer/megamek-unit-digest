@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/448/bushwacker-bsw-s2) 
 - **Battle Value:** 1293 
 
 ## Availability 

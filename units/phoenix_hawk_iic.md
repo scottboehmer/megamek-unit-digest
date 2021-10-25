@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard) 
 - **Battle Value:** 2057 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_standard.md) 
 
@@ -31,7 +31,7 @@
   - LRM 20 × 4 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2) 
 - **Battle Value:** 2892 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_2.md) 
 
@@ -50,7 +50,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196/phoenix-hawk-iic-9) 
 - **Battle Value:** 2469 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_9.md) 
 
@@ -69,7 +69,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513/phoenix-hawk-iic-3) 
 - **Battle Value:** 2448 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_3.md) 
 
@@ -86,7 +86,7 @@
   - ATM 9 × 4 (ammo: 21 Standard, 14 ER, 14 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4) 
 - **Battle Value:** 2483 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_4.md) 
 
@@ -104,7 +104,7 @@
   - AP Gauss Rifle × 4 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515/phoenix-hawk-iic-5) 
 - **Battle Value:** 2350 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_5.md) 
 
@@ -122,7 +122,7 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516/phoenix-hawk-iic-6) 
 - **Battle Value:** 2490 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_6.md) 
 
@@ -141,7 +141,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517/phoenix-hawk-iic-7) 
 - **Battle Value:** 2219 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_7.md) 
 
@@ -159,7 +159,7 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518/phoenix-hawk-iic-8) 
 - **Battle Value:** 2903 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_8.md) 
 
@@ -176,7 +176,7 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 6 
   - Inner Sphere Hatchet 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197/phoenix-hawk-iic-10) 
 - **Battle Value:** 2762 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_10.md) 
 

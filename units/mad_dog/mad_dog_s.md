@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7593/vulture-mad-dog-s) 
 - **Battle Value:** 2676 
 
 ## Availability 

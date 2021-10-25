@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7592/ryoken-stormcrow-tc) 
 - **Battle Value:** 2373 
 
 ## Availability 

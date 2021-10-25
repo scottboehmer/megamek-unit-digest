@@ -18,7 +18,7 @@
   - Laser Anti-Missile System 
   - Light Active Probe 
   - CASE II 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6712/jackalope-jlp-ka) 
 - **Battle Value:** 1488 
 
 ## Availability 

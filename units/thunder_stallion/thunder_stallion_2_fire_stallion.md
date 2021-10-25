@@ -15,7 +15,7 @@
   - LRM 15 × 4 (ammo: 64) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3225/thunder-stallion-2-fire-stallion) 
 - **Battle Value:** 2575 
 
 ## Availability 

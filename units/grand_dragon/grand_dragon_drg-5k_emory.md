@@ -16,7 +16,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1259/grand-dragon-drg-5k-emory) 
 - **Battle Value:** 1394 
 
 ## Availability 

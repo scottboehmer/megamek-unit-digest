@@ -16,7 +16,7 @@
 - **Weapons:** 
   - SRM 4 × 2 (ammo: 25) 
   - Mace 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2195/mjolnir-mlr-bx) 
 - **Battle Value:** 612 
 
 ## Availability 

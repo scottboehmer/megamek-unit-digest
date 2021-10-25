@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/827/dark-crow-standard) 
 - **Battle Value:** 1594 
 
 ## Availability 

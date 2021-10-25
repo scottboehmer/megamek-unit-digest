@@ -16,7 +16,7 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518/phoenix-hawk-iic-8) 
 - **Battle Value:** 2903 
 
 ## Availability 

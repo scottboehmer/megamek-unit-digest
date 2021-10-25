@@ -18,7 +18,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - Cargo × 4 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5040/shadow-hawk-lam-shd-x2) 
 - **Battle Value:** 1066 
 
 ## Availability 

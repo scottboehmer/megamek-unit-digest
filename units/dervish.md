@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - SRM 2 × 2 (ammo: 100) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/877/dervish-dv-1s) 
 - **Battle Value:** 864 
 - [*More Info*](dervish/dervish_dv-1s.md) 
 
@@ -30,7 +30,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - SRM 2 × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878/dervish-dv-6m) 
 - **Battle Value:** 1146 
 - [*More Info*](dervish/dervish_dv-6m.md) 
 
@@ -49,7 +49,7 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869/dervish-dv-6md) 
 - **Battle Value:** 1251 
 - [*More Info*](dervish/dervish_dv-6md.md) 
 
@@ -68,7 +68,7 @@
   - Streak SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/880/dervish-dv-7d) 
 - **Battle Value:** 1412 
 - [*More Info*](dervish/dervish_dv-7d.md) 
 
@@ -86,7 +86,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/881/dervish-dv-8d) 
 - **Battle Value:** 1765 
 - [*More Info*](dervish/dervish_dv-8d.md) 
 
@@ -105,7 +105,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/883/dervish-dv-9d) 
 - **Battle Value:** 1518 
 - [*More Info*](dervish/dervish_dv-9d.md) 
 
@@ -141,7 +141,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr) 
 - **Battle Value:** 1347 
 - [*More Info*](dervish/dervish_dv-6mr.md) 
 

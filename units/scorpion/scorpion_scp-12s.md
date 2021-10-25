@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836/scorpion-scp-12s) 
 - **Battle Value:** 1109 
 
 ## Availability 

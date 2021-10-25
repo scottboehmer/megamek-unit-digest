@@ -14,7 +14,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3214/thunder-thr-1l) 
 - **Battle Value:** 1471 
 - [*More Info*](thunder/thunder_thr-1l.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3215/thunder-thr-2l) 
 - **Battle Value:** 1951 
 - [*More Info*](thunder/thunder_thr-2l.md) 
 
@@ -55,7 +55,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3216/thunder-thr-3l) 
 - **Battle Value:** 1904 
 - [*More Info*](thunder/thunder_thr-3l.md) 
 

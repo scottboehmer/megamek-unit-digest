@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster) 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6683/malice-mal-xt) 
 - **Battle Value:** 1852 
 
 ## Availability 

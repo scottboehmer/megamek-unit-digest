@@ -17,7 +17,7 @@
   - Watchdog CEWS 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7645/woodsman-d) 
 - **Battle Value:** 1902 
 
 ## Availability 

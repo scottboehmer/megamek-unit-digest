@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob) 
 - **Battle Value:** 2138 
 
 ## Availability 

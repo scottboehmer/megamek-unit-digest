@@ -16,7 +16,7 @@
   - SRM 6 × 6 (ammo: 60) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3466/vulture-mad-dog-a) 
 - **Battle Value:** 1923 
 
 ## Availability 

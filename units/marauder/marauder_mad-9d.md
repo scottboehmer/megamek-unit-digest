@@ -17,7 +17,7 @@
   - Medium X-Pulse Laser × 3 
 - **Equipment:** 
   - Radical Heat Sink System 
-- **Sources:** RS 3145 NY NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6866/marauder-mad-9d) 
 - **Battle Value:** 1967 
 
 ## Availability 

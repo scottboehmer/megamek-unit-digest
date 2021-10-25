@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - Supercharger 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1993/malak-c-mk-o-mi) 
 - **Battle Value:** 758 
 
 ## Availability 

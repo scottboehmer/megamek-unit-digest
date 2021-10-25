@@ -15,7 +15,7 @@
   - ER Large Laser 
   - Ultra AC/5 (ammo: 40) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3640/zeus-zeu-5s) 
 - **Battle Value:** 1474 
 
 ## Availability 

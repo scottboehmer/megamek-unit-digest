@@ -18,7 +18,7 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3435/viper-black-python-4) 
 - **Battle Value:** 2594 
 
 ## Availability 

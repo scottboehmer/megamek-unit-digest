@@ -17,7 +17,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058/shogun-shg-2f-trisha) 
 - **Battle Value:** 1733 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4303/hellion-a) 
 - **Battle Value:** 1543 
 
 ## Availability 

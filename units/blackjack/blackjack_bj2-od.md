@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/382/blackjack-bj2-od) 
 - **Battle Value:** 1375 
 
 ## Availability 

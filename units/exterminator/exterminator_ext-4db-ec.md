@@ -15,7 +15,7 @@
   - Inner Sphere ER Large Laser 
   - Prototype ER Medium Laser × 4 
   - Inner Sphere Small Laser 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7682/exterminator-ext-4db-ec) 
 - **Battle Value:** 1611 
 
 ## Availability 

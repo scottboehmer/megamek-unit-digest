@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2940/shootist-st-8c) 
 - **Battle Value:** 1528 
 
 ## Availability 

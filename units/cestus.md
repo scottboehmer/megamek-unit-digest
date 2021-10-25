@@ -12,7 +12,7 @@
   - PPC × 2 
   - Large Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/532/cestus-cts-6x) 
 - **Battle Value:** 1424 
 - [*More Info*](cestus/cestus_cts-6x.md) 
 
@@ -28,7 +28,7 @@
   - Gauss Rifle (ammo: 24) 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/533/cestus-cts-6y) 
 - **Battle Value:** 1701 
 - [*More Info*](cestus/cestus_cts-6y.md) 
 
@@ -46,7 +46,7 @@
   - Prototype ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7681/cestus-cts-6y-ec) 
 - **Battle Value:** 1783 
 - [*More Info*](cestus/cestus_cts-6y-ec.md) 
 
@@ -62,7 +62,7 @@
   - PPC × 2 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/534/cestus-cts-6z) 
 - **Battle Value:** 1560 
 - [*More Info*](cestus/cestus_cts-6z.md) 
 
@@ -79,7 +79,7 @@
   - ER Medium Laser × 2 
   - Streak SRM 4 × 2 (ammo: 25) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/535/cestus-cts-7a) 
 - **Battle Value:** 1519 
 - [*More Info*](cestus/cestus_cts-7a.md) 
 

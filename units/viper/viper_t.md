@@ -20,7 +20,7 @@
   - Light Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7583/dragonfly-viper-t) 
 - **Battle Value:** 1704 
 
 ## Availability 

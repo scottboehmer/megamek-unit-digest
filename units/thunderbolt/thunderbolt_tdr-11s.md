@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8193/thunderbolt-tdr-11s) 
 - **Battle Value:** 1570 
 
 ## Availability 

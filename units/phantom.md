@@ -17,7 +17,7 @@
   - Active Probe 
   - CASE 
   - TAG 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2487/phantom-prime) 
 - **Battle Value:** 1159 
 - [*More Info*](phantom/phantom_prime.md) 
 
@@ -35,7 +35,7 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2481/phantom-a) 
 - **Battle Value:** 1410 
 - [*More Info*](phantom/phantom_a.md) 
 
@@ -54,7 +54,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2482/phantom-b) 
 - **Battle Value:** 1096 
 - [*More Info*](phantom/phantom_b.md) 
 
@@ -72,7 +72,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2483/phantom-c) 
 - **Battle Value:** 1590 
 - [*More Info*](phantom/phantom_c.md) 
 
@@ -90,7 +90,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2484/phantom-d) 
 - **Battle Value:** 1581 
 - [*More Info*](phantom/phantom_d.md) 
 
@@ -107,7 +107,7 @@
   - Micro Pulse Laser × 8 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2485/phantom-e) 
 - **Battle Value:** 975 
 - [*More Info*](phantom/phantom_e.md) 
 
@@ -125,7 +125,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2486/phantom-h) 
 - **Battle Value:** 1178 
 - [*More Info*](phantom/phantom_h.md) 
 
@@ -144,7 +144,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4818/phantom-f) 
 - **Battle Value:** 1375 
 - [*More Info*](phantom/phantom_f.md) 
 

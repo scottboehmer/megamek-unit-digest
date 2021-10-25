@@ -16,7 +16,7 @@
   - Large Pulse Laser 
   - Medium Pulse Laser × 4 
   - Hatchet 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/362/black-knight-bl-9-knt) 
 - **Battle Value:** 1678 
 
 ## Availability 

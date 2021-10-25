@@ -17,7 +17,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2259/nexus-nxs1-a) 
 - **Battle Value:** 643 
 
 ## Availability 

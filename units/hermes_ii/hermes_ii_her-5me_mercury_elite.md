@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 32) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1500/hermes-ii-her-5me-mercury-elite) 
 - **Battle Value:** 847 
 
 ## Availability 

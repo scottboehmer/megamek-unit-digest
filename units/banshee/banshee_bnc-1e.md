@@ -16,7 +16,7 @@
   - AC/5 (ammo: 40) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3785/banshee-bnc-1e) 
 - **Battle Value:** 1465 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4152/fafnir-fnr-5) 
 - **Battle Value:** 2636 
 
 ## Availability 

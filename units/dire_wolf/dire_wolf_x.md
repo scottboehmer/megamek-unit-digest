@@ -23,7 +23,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** RecGuide 13 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4046/daishi-dire-wolf-x) 
 - **Battle Value:** 2645 
 
 ## Availability 

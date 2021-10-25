@@ -12,7 +12,7 @@
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Large Pulse Laser × 3 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7626/lancelot-c) 
 - **Battle Value:** 1960 
 
 ## Availability 

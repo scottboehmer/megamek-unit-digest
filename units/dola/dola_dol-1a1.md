@@ -16,7 +16,7 @@
   - Sword 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** TRO:Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086/dola-dol-1a1) 
 - **Battle Value:** 950 
 
 ## Availability 

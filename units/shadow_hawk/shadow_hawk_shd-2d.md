@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - SRM 2 × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2899/shadow-hawk-shd-2d) 
 - **Battle Value:** 899 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Light PPC × 3 
   - ER Medium Laser 
   - ER Small Laser 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3567/wolfhound-wlf-4w) 
 - **Battle Value:** 1090 
 
 ## Availability 

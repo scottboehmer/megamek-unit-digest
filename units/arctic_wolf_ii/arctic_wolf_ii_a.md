@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/104/arctic-wolf-ii-a) 
 - **Battle Value:** 2111 
 
 ## Availability 

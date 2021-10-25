@@ -14,7 +14,7 @@
   - PPC 
   - AC/5 (ammo: 20) 
   - Small Laser 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/240/banshee-bnc-3e) 
 - **Battle Value:** 1422 
 
 ## Availability 

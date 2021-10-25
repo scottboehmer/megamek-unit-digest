@@ -17,7 +17,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3587/woodsman-prime) 
 - **Battle Value:** 2623 
 - [*More Info*](woodsman/woodsman_prime.md) 
 
@@ -36,7 +36,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586/woodsman-a) 
 - **Battle Value:** 2741 
 - [*More Info*](woodsman/woodsman_a.md) 
 
@@ -58,7 +58,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7643/woodsman-b) 
 - **Battle Value:** 2414 
 - [*More Info*](woodsman/woodsman_b.md) 
 
@@ -77,7 +77,7 @@
   - Watchdog CEWS 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7644/woodsman-c) 
 - **Battle Value:** 2230 
 - [*More Info*](woodsman/woodsman_c.md) 
 
@@ -96,7 +96,7 @@
   - Watchdog CEWS 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7645/woodsman-d) 
 - **Battle Value:** 1902 
 - [*More Info*](woodsman/woodsman_d.md) 
 

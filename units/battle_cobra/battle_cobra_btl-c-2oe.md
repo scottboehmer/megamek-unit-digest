@@ -14,7 +14,7 @@
   - MML 9 × 2 (ammo: 26 LRM, 11 SRM) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/268/battle-cobra-btl-c-2oe) 
 - **Battle Value:** 840 
 
 ## Availability 

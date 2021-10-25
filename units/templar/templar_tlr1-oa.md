@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5195/templar-tlr1-oa) 
 - **Battle Value:** 2070 
 
 ## Availability 

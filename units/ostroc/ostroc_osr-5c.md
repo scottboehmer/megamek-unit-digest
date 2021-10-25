@@ -16,7 +16,7 @@
   - Light PPC 
   - ER Medium Laser 
   - Medium Pulse Laser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c) 
 - **Battle Value:** 1788 
 
 ## Availability 

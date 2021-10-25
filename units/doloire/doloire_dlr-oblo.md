@@ -18,7 +18,7 @@
   - AES × 2 
   - C3i 
   - Clan Light TAG 
-- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7636/doloire-dlr-oblo) 
 - **Battle Value:** 2441 
 
 ## Availability 

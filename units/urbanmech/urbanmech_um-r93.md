@@ -15,7 +15,7 @@
   - Plasma Rifle (ammo: 10) 
   - ER Medium Laser 
   - ER Small Laser 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7344/urbanmech-um-r93) 
 - **Battle Value:** 894 
 
 ## Availability 

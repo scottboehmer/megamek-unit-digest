@@ -18,7 +18,7 @@
   - Inner Sphere Chameleon LPS 
   - CASE 
   - Light TAG 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5638/cephalus-b) 
 - **Battle Value:** 785 
 
 ## Availability 

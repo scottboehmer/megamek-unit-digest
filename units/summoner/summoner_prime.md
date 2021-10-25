@@ -17,7 +17,7 @@
   - LB 10-X AC (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3183/thor-summoner-prime) 
 - **Battle Value:** 2298 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Flamer × 4 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1093/firestarter-fs9-a) 
 - **Battle Value:** 773 
 
 ## Availability 

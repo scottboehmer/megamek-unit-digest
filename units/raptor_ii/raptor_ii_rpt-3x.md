@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Void-Signature System 
   - MASC 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2659/raptor-ii-rpt-3x) 
 - **Battle Value:** 1304 
 
 ## Availability 

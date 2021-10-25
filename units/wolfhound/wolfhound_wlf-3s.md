@@ -14,7 +14,7 @@
   - ER PPC 
   - ER Medium Laser × 3 
   - ER Small Laser 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3566/wolfhound-wlf-3s) 
 - **Battle Value:** 1176 
 
 ## Availability 

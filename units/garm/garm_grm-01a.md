@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - LB 5-X AC (ammo: 20) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1189/garm-grm-01a) 
 - **Battle Value:** 701 
 
 ## Availability 

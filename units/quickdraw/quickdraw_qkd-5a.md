@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2612/quickdraw-qkd-5a) 
 - **Battle Value:** 1196 
 
 ## Availability 

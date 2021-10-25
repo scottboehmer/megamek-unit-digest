@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC 
   - Improved Heavy Medium Laser × 5 
-- **Sources:** ilClan Rec Guide 13 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i) 
 - **Battle Value:** 2224 
 
 ## Availability 

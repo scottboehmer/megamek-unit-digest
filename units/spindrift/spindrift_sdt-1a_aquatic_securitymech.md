@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** TRO:Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106/spindrift-aquatic-securitymech-sdt-1a) 
 - **Battle Value:** 450 
 
 ## Availability 

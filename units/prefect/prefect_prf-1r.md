@@ -15,7 +15,7 @@
   - Heavy PPC 
   - Snub-Nose PPC 
   - ER Medium Laser × 2 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2569/prefect-prf-1r) 
 - **Battle Value:** 1847 
 
 ## Availability 

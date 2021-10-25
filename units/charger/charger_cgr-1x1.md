@@ -22,7 +22,7 @@
   - C3 Boosted Slave 
   - MASC 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1) 
 - **Battle Value:** 2009 
 
 ## Availability 

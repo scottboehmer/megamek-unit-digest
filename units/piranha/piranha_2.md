@@ -14,7 +14,7 @@
   - Heavy Medium Laser × 2 
   - Heavy Small Laser 
   - ER Micro Laser × 12 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2536/piranha-2) 
 - **Battle Value:** 853 
 
 ## Availability 

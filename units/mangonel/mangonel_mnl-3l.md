@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light Gauss Rifle × 2 (ammo: 16) 
   - ER Medium Laser × 4 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2012/mangonel-mnl-3l) 
 - **Battle Value:** 1552 
 
 ## Availability 

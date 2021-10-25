@@ -19,7 +19,7 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
   - Clan TAG 
-- **Sources:** XTR Republic III - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375/parash-3) 
 - **Battle Value:** 1785 
 
 ## Availability 

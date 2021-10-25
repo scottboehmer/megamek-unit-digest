@@ -15,7 +15,7 @@
   - Small Laser × 2 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7407/trooper-tp-1r) 
 - **Battle Value:** 261 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Snub-Nose PPC 
   - Medium X-Pulse Laser × 3 
   - Flamer 
-- **Sources:** Fronc Reachs , [Master Unit List](Master Unit List) 
+- **Sources:** Fronc Reachs , [Master Unit List](http://masterunitlist.info/Unit/Details/7698/marshal-mhl-6fr) 
 - **Battle Value:** 1429 
 
 ## Availability 

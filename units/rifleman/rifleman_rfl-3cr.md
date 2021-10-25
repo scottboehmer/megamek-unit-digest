@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2696/rifleman-rfl-3cr) 
 - **Battle Value:** 1129 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6408/wendigo-vp-prime) 
 - **Battle Value:** 2360 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Medium X-Pulse Laser × 3 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1281/great-turtle-gtr-1) 
 - **Battle Value:** 3152 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1588/hussar-hsr-350-d) 
 - **Battle Value:** 731 
 
 ## Availability 

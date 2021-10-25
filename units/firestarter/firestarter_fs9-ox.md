@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1110/firestarter-fs9-ox) 
 - **Battle Value:** 1190 
 
 ## Availability 

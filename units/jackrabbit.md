@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1656/jackrabbit-jkr-8t) 
 - **Battle Value:** 414 
 - [*More Info*](jackrabbit/jackrabbit_jkr-8t.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Large Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1657/jackrabbit-jkr-9r-joker) 
 - **Battle Value:** 614 
 - [*More Info*](jackrabbit/jackrabbit_jkr-9r_joker.md) 
 
@@ -42,7 +42,7 @@
   - Light AC/5 (ammo: 20) 
   - ER Medium Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1658/jackrabbit-jkr-9w) 
 - **Battle Value:** 549 
 - [*More Info*](jackrabbit/jackrabbit_jkr-9w.md) 
 

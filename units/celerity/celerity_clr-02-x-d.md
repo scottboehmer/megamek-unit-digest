@@ -16,7 +16,7 @@
   - MASC 
   - Drone Operating System 
   - C3i 
-- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5553/celerity-clr-02-x-d) 
 - **Battle Value:** 157 
 
 ## Availability 

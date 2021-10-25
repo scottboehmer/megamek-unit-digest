@@ -16,7 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - MASC 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/368/black-lanner-h) 
 - **Battle Value:** 1928 
 
 ## Availability 

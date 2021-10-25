@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7548/war-crow-c) 
 - **Battle Value:** 2572 
 
 ## Availability 

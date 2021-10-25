@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light PPC w/ PPC Capacitor × 4 
   - Light PPC × 4 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/173/awesome-aws-11m) 
 - **Battle Value:** 1801 
 
 ## Availability 

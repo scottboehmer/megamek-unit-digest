@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936/eagle-egl-1m) 
 - **Battle Value:** 757 
 
 ## Availability 

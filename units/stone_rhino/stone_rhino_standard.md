@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard) 
 - **Battle Value:** 3001 
 
 ## Availability 

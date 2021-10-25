@@ -14,7 +14,7 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/715/crab-crb-20) 
 - **Battle Value:** 1143 
 
 ## Availability 

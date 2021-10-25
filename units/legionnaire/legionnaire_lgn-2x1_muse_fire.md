@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Clan RAC/5 (ammo: 60) 
   - ER Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1864/legionnaire-lgn-2x1-muse-fire) 
 - **Battle Value:** 2032 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Sword 
 - **Equipment:** 
   - Coolant Pod 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6417/shiro-sh-2p) 
 - **Battle Value:** 2570 
 
 ## Availability 

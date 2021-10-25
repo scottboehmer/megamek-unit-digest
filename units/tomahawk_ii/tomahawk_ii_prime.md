@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6303/tomahawk-ii-prime) 
 - **Battle Value:** 3210 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
 - **Battle Value:** 1260 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** RS VA , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7176/jabberwocky-jaw-67-militiamech) 
 - **Battle Value:** 897 
 
 ## Availability 

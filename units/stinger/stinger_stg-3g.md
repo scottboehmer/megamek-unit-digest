@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3058/stinger-stg-3g) 
 - **Battle Value:** 497 
 
 ## Availability 

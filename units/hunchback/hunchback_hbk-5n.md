@@ -14,7 +14,7 @@
   - AC/20 (ammo: 10) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1562/hunchback-hbk-5n) 
 - **Battle Value:** 1041 
 
 ## Availability 

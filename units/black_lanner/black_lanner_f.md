@@ -18,7 +18,7 @@
   - Light Active Probe 
   - MASC 
   - CASE 
-- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8185/black-lanner-f) 
 - **Battle Value:** 2154 
 
 ## Availability 

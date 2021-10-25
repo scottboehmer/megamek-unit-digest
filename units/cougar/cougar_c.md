@@ -15,7 +15,7 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/706/cougar-c) 
 - **Battle Value:** 1785 
 
 ## Availability 

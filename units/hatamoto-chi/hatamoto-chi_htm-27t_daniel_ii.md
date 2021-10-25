@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Master 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii) 
 - **Battle Value:** 1661 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - LRT 5 × 8 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3349/uller-kit-fox-u) 
 - **Battle Value:** 1486 
 
 ## Availability 

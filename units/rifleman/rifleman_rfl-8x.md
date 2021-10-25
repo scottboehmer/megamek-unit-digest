@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 4 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x) 
 - **Battle Value:** 1798 
 
 ## Availability 

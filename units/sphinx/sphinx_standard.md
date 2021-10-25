@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Medium Laser × 10 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007/sphinx-standard) 
 - **Battle Value:** 2883 
 
 ## Availability 

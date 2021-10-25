@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - Clan SRM 4 × 2 (ammo: 25) 
   - Small Laser 
-- **Sources:** Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7622/naja-kto-19b-ec) 
 - **Battle Value:** 1588 
 
 ## Availability 

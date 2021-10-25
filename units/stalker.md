@@ -13,7 +13,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3035/stalker-stk-3f) 
 - **Battle Value:** 1559 
 - [*More Info*](stalker/stalker_stk-3f.md) 
 
@@ -29,7 +29,7 @@
   - LRM 20 × 2 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3038/stalker-stk-3h) 
 - **Battle Value:** 1624 
 - [*More Info*](stalker/stalker_stk-3h.md) 
 
@@ -65,7 +65,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Laser × 4 
   - Streak SRM 2 × 4 (ammo: 100) 
-- **Sources:** ER 2750 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5870/stalker-stk-3fk) 
 - **Battle Value:** 1742 
 - [*More Info*](stalker/stalker_stk-3fk.md) 
 
@@ -82,7 +82,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3039/stalker-stk-4n) 
 - **Battle Value:** 1558 
 - [*More Info*](stalker/stalker_stk-4n.md) 
 
@@ -99,7 +99,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5120/stalker-stk-4p) 
 - **Battle Value:** 1461 
 - [*More Info*](stalker/stalker_stk-4p.md) 
 
@@ -133,7 +133,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
   - Narc (ammo: 12) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3040/stalker-stk-5m) 
 - **Battle Value:** 1655 
 - [*More Info*](stalker/stalker_stk-5m.md) 
 
@@ -153,7 +153,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3041/stalker-stk-5s) 
 - **Battle Value:** 1423 
 - [*More Info*](stalker/stalker_stk-5s.md) 
 
@@ -170,7 +170,7 @@
   - Clan LRM 20 × 2 (ammo: 12) 
   - Clan Streak SRM 6 × 2 (ammo: 30) 
   - Clan ER Medium Laser × 4 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5119/stalker-stk-3f-jamison) 
 - **Battle Value:** 2635 
 - [*More Info*](stalker/stalker_stk-3f_jamison.md) 
 
@@ -188,7 +188,7 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5121/stalker-stk-6m) 
 - **Battle Value:** 2029 
 - [*More Info*](stalker/stalker_stk-6m.md) 
 
@@ -208,7 +208,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3043/stalker-stk-7d) 
 - **Battle Value:** 1872 
 - [*More Info*](stalker/stalker_stk-7d.md) 
 
@@ -225,7 +225,7 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044/stalker-stk-8s) 
 - **Battle Value:** 1977 
 - [*More Info*](stalker/stalker_stk-8s.md) 
 
@@ -245,7 +245,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - CASE II 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042/stalker-stk-7c3bs) 
 - **Battle Value:** 1712 
 - [*More Info*](stalker/stalker_stk-7c3bs.md) 
 

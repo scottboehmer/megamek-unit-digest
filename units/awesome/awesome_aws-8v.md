@@ -15,7 +15,7 @@
   - LRM 15 (ammo: 16) 
   - Large Laser 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/177/awesome-aws-8v) 
 - **Battle Value:** 1510 
 
 ## Availability 

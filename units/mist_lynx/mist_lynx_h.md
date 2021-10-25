@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 24) 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1834/koshi-mist-lynx-h) 
 - **Battle Value:** 982 
 
 ## Availability 

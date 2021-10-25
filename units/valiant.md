@@ -13,7 +13,7 @@
   - Hatchet 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3369/valiant-v4-lnt-k7) 
 - **Battle Value:** 894 
 - [*More Info*](valiant/valiant_v4-lnt-k7.md) 
 
@@ -32,7 +32,7 @@
   - Flamer 
 - **Equipment:** 
   - Small Shield 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368/valiant-v4-lnt-j3) 
 - **Battle Value:** 926 
 - [*More Info*](valiant/valiant_v4-lnt-j3.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Small Shield 
   - MASC 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t) 
 - **Battle Value:** 852 
 - [*More Info*](valiant/valiant_vln-3t.md) 
 
@@ -89,7 +89,7 @@
   - Fluid Gun (ammo: 20) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7293/valiant-vlt-3e) 
 - **Battle Value:** 1019 
 - [*More Info*](valiant/valiant_vlt-3e.md) 
 

@@ -19,7 +19,7 @@
   - Inner Sphere M-Pod 
   - MASC 
   - Inner Sphere C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7582/dasher-fire-moth-r) 
 - **Battle Value:** 1160 
 
 ## Availability 

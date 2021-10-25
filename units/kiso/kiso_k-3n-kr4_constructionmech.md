@@ -19,7 +19,7 @@
   - Communications Equipment 
   - Lift Hoist × 2 
   - Cargo Container × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1802/kiso-k-3n-kr4-constructionmech) 
 - **Battle Value:** 954 
 
 ## Availability 

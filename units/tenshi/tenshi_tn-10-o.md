@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6421/tenshi-tn-10-o) 
 - **Battle Value:** 2542 
 
 ## Availability 

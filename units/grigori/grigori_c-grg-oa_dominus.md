@@ -21,7 +21,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1321/grigori-c-grg-oa-dominus) 
 - **Battle Value:** 1536 
 
 ## Availability 

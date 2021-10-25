@@ -14,7 +14,7 @@
   - PPC 
   - Medium Laser × 4 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/282/battlemaster-blr-1d) 
 - **Battle Value:** 1522 
 
 ## Availability 

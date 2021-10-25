@@ -20,7 +20,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** OTP Widowmaker , [Master Unit List](Master Unit List) 
+- **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7310/atlas-ii-as7-d-h-kerensky) 
 - **Battle Value:** 2777 
 
 ## Availability 

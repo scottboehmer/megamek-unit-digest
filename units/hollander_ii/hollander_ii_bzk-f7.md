@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 12) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539/hollander-ii-bzk-f7) 
 - **Battle Value:** 1192 
 
 ## Availability 

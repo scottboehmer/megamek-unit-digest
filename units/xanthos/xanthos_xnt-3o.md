@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
   - Small Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3604/xanthos-xnt-3o) 
 - **Battle Value:** 1948 
 
 ## Availability 

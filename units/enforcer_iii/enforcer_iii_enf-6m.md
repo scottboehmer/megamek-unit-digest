@@ -15,7 +15,7 @@
   - Ultra AC/10 (ammo: 20) 
   - ER Large Laser 
   - ER Small Laser 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m) 
 - **Battle Value:** 1460 
 
 ## Availability 

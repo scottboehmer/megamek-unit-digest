@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7440/pack-hunter-5) 
 - **Battle Value:** 1644 
 
 ## Availability 

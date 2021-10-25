@@ -15,7 +15,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c) 
 - **Battle Value:** 689 
 
 ## Availability 

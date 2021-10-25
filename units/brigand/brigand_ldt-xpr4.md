@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7316/brigand-ldt-xpr4) 
 - **Battle Value:** 739 
 
 ## Availability 

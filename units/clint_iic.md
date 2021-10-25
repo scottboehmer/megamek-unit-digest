@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652/clint-iic-standard) 
 - **Battle Value:** 1395 
 - [*More Info*](clint_iic/clint_iic_standard.md) 
 
@@ -31,7 +31,7 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/653/clint-iic-2) 
 - **Battle Value:** 1890 
 - [*More Info*](clint_iic/clint_iic_2.md) 
 

@@ -18,7 +18,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2375/ostsol-otl-6d) 
 - **Battle Value:** 1880 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
 - **Battle Value:** 2365 
 
 ## Availability 

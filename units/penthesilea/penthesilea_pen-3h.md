@@ -22,7 +22,7 @@
   - AES × 2 
   - CASE II 
   - Machine Gun Array 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7347/penthesilea-pen-3h) 
 - **Battle Value:** 1654 
 
 ## Availability 

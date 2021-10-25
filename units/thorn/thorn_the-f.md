@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3190/thorn-the-f) 
 - **Battle Value:** 510 
 
 ## Availability 

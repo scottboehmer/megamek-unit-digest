@@ -18,7 +18,7 @@
   - HarJel III × 3 
   - CASE II 
   - Targeting Computer 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6296/kodiak-ii-2) 
 - **Battle Value:** 3150 
 
 ## Availability 

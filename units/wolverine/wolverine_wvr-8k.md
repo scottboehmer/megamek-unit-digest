@@ -18,7 +18,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k) 
 - **Battle Value:** 1576 
 
 ## Availability 

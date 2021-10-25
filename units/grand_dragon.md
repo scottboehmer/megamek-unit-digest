@@ -12,7 +12,7 @@
   - PPC 
   - LRM 10 (ammo: 24) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1256/grand-dragon-drg-1g) 
 - **Battle Value:** 1300 
 - [*More Info*](grand_dragon/grand_dragon_drg-1g.md) 
 
@@ -65,7 +65,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1259/grand-dragon-drg-5k-emory) 
 - **Battle Value:** 1394 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k_emory.md) 
 
@@ -83,7 +83,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1258/grand-dragon-drg-5k) 
 - **Battle Value:** 1358 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k.md) 
 
@@ -102,7 +102,7 @@
 - **Equipment:** 
   - Command Console 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4230/grand-dragon-drg-5k-dc) 
 - **Battle Value:** 1322 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k-dc.md) 
 
@@ -121,7 +121,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1264/grand-dragon-drg-c) 
 - **Battle Value:** 1322 
 - [*More Info*](grand_dragon/grand_dragon_drg-c.md) 
 
@@ -141,7 +141,7 @@
   - C3 Slave 
   - MASC 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1260/grand-dragon-drg-7k) 
 - **Battle Value:** 1702 
 - [*More Info*](grand_dragon/grand_dragon_drg-7k.md) 
 
@@ -161,7 +161,7 @@
   - C3 Slave 
   - CASE 
   - MASC 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1261/grand-dragon-drg-7k-mark) 
 - **Battle Value:** 1817 
 - [*More Info*](grand_dragon/grand_dragon_drg-7k_mark.md) 
 
@@ -179,7 +179,7 @@
   - MML 5 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1263/grand-dragon-drg-9kc) 
 - **Battle Value:** 1147 
 - [*More Info*](grand_dragon/grand_dragon_drg-9kc.md) 
 
@@ -199,7 +199,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262/grand-dragon-drg-7kc) 
 - **Battle Value:** 1673 
 - [*More Info*](grand_dragon/grand_dragon_drg-7kc.md) 
 
@@ -217,7 +217,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6889/grand-dragon-drg-10k) 
 - **Battle Value:** 1603 
 - [*More Info*](grand_dragon/grand_dragon_drg-10k.md) 
 

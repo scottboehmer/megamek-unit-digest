@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - Light TAG 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2427/parash-2) 
 - **Battle Value:** 1523 
 
 ## Availability 

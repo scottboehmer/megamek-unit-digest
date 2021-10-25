@@ -17,7 +17,7 @@
   - AES 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7443/sojourner-prime) 
 - **Battle Value:** 2491 
 - [*More Info*](sojourner/sojourner_prime.md) 
 
@@ -38,7 +38,7 @@
   - AES 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7444/sojourner-a) 
 - **Battle Value:** 1911 
 - [*More Info*](sojourner/sojourner_a.md) 
 
@@ -59,7 +59,7 @@
   - AES 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7445/sojourner-b) 
 - **Battle Value:** 2397 
 - [*More Info*](sojourner/sojourner_b.md) 
 
@@ -79,7 +79,7 @@
   - AES 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7446/sojourner-c) 
 - **Battle Value:** 2235 
 - [*More Info*](sojourner/sojourner_c.md) 
 
@@ -99,7 +99,7 @@
   - AES 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7447/sojourner-d) 
 - **Battle Value:** 2452 
 - [*More Info*](sojourner/sojourner_d.md) 
 

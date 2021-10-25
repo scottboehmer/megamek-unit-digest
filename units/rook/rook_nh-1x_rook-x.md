@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
   - Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4935/rook-nh-1x-rook-x) 
 - **Battle Value:** 1187 
 
 ## Availability 

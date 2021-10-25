@@ -15,7 +15,7 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - SRM 4 × 3 (ammo: 50) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3123/sunder-sd1-o) 
 - **Battle Value:** 1747 
 
 ## Availability 

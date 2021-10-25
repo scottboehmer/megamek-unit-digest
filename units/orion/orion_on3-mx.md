@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2339/orion-on3-mx) 
 - **Battle Value:** 1849 
 
 ## Availability 

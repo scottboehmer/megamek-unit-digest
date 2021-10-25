@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3196/thorn-the-t) 
 - **Battle Value:** 500 
 
 ## Availability 

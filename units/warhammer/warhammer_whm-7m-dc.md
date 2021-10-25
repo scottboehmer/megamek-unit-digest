@@ -17,7 +17,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Command Console 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5386/warhammer-whm-7m-dc) 
 - **Battle Value:** 1402 
 
 ## Availability 

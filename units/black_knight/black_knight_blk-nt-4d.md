@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Medium Shield 
   - Clan Angel ECM Suite 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6350/black-knight-blk-nt-4d) 
 - **Battle Value:** 2280 
 
 ## Availability 

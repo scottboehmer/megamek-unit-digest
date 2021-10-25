@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8228/crusader-crd-7m2) 
 - **Battle Value:** 1397 
 
 ## Availability 

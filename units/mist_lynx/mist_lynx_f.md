@@ -19,7 +19,7 @@
   - Active Probe 
   - Light TAG 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1832/koshi-mist-lynx-f) 
 - **Battle Value:** 1173 
 
 ## Availability 

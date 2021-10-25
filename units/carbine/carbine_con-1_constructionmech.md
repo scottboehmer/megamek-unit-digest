@@ -15,7 +15,7 @@
   - Backhoe 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS Operation Klondike - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS Operation Klondike - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/461/carbine-con-1-constructionmech) 
 - **Battle Value:** 198 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - LB 10-X AC (ammo: 10 Cluster, 20 Standard) 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/725/crockett-crk-5003-1) 
 - **Battle Value:** 1923 
 
 ## Availability 

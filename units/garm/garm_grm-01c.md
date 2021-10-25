@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1192/garm-grm-01c) 
 - **Battle Value:** 1140 
 
 ## Availability 

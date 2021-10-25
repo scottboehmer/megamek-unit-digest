@@ -15,7 +15,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - EW Equipment 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2662/raven-rvn-1x) 
 - **Battle Value:** 639 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Lift Hoist 
   - Cargo × 8 
   - Dumper 
-- **Sources:** RS 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4545/lumberjack-lm1a) 
 - **Battle Value:** 311 
 - [*More Info*](lumberjack/lumberjack_lm1_a.md) 
 
@@ -34,7 +34,7 @@
   - Lift Hoist 
   - Dumper × 2 
   - Cargo × 20 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1960/lumberjack-lm4c) 
 - **Battle Value:** 316 
 - [*More Info*](lumberjack/lumberjack_lm4_c.md) 
 
@@ -53,7 +53,7 @@
   - Lift Hoist 
   - Dumper 
   - Cargo × 5 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1961/lumberjack-lm4p) 
 - **Battle Value:** 651 
 - [*More Info*](lumberjack/lumberjack_lm4_p.md) 
 
@@ -70,7 +70,7 @@
   - LRM 15 × 2 (ammo: 32) 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** RS 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/7177/lumberjack-lm5m-militiamech) 
 - **Battle Value:** 1360 
 - [*More Info*](lumberjack/lumberjack_lm5_m.md) 
 

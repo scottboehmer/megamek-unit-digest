@@ -21,7 +21,7 @@
   - MASC 
   - CASE 
   - Liquid Cargo 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/857/deimos-s) 
 - **Battle Value:** 2664 
 
 ## Availability 

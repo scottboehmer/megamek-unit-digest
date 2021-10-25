@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6289/warwolf-b) 
 - **Battle Value:** 2518 
 
 ## Availability 

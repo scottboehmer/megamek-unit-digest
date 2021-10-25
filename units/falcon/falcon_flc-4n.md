@@ -15,7 +15,7 @@
   - Medium Laser 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1022/falcon-flc-4n) 
 - **Battle Value:** 610 
 
 ## Availability 

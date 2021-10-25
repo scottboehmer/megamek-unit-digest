@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle × 3 (ammo: 48) 
   - Medium Laser × 4 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3222/thunder-hawk-tdk-7x) 
 - **Battle Value:** 2577 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Machine Gun × 10 (ammo: 200) 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/766/cudgel-cdg-1b) 
 - **Battle Value:** 1347 
 - [*More Info*](cudgel/cudgel_cdg-1b.md) 
 
@@ -35,7 +35,7 @@
   - Mace 
   - Claw 
   - Small Laser 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/767/cudgel-cdg-2a) 
 - **Battle Value:** 1750 
 - [*More Info*](cudgel/cudgel_cdg-2a.md) 
 
@@ -54,7 +54,7 @@
   - ER Medium Laser × 5 
   - Mace 
   - Claw 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/768/cudgel-cdg-2b) 
 - **Battle Value:** 1762 
 - [*More Info*](cudgel/cudgel_cdg-2b.md) 
 

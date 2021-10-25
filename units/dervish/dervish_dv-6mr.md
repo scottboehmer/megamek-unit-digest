@@ -15,7 +15,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr) 
 - **Battle Value:** 1347 
 
 ## Availability 

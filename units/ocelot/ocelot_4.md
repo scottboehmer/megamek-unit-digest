@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925/ocelot-4) 
 - **Battle Value:** 1468 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2613/quickdraw-qkd-5k) 
 - **Battle Value:** 1265 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/598/cicada-cda-3p) 
 - **Battle Value:** 1502 
 
 ## Availability 

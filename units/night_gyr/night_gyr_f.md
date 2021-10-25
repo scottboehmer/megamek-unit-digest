@@ -19,7 +19,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2268/night-gyr-f) 
 - **Battle Value:** 2958 
 
 ## Availability 

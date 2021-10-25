@@ -13,7 +13,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/548/champion-chp-1n) 
 - **Battle Value:** 1233 
 - [*More Info*](champion/champion_chp-1n.md) 
 
@@ -30,7 +30,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/549/champion-chp-1n2) 
 - **Battle Value:** 1233 
 - [*More Info*](champion/champion_chp-1n2.md) 
 
@@ -62,7 +62,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/551/champion-chp-2n) 
 - **Battle Value:** 1116 
 - [*More Info*](champion/champion_chp-2n.md) 
 
@@ -83,7 +83,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/547/champion-c) 
 - **Battle Value:** 2191 
 - [*More Info*](champion/champion_c.md) 
 
@@ -101,7 +101,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/552/champion-chp-3n) 
 - **Battle Value:** 1400 
 - [*More Info*](champion/champion_chp-3n.md) 
 
@@ -120,7 +120,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/553/champion-chp-3p) 
 - **Battle Value:** 1503 
 - [*More Info*](champion/champion_chp-3p.md) 
 

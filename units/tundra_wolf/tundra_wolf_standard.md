@@ -21,7 +21,7 @@
   - ECM Suite 
   - CASE 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3315/tundra-wolf-standard) 
 - **Battle Value:** 3131 
 
 ## Availability 

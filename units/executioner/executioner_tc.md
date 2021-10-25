@@ -19,7 +19,7 @@
   - Active Probe 
   - MASC 
   - Targeting Computer 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7596/gladiator-executioner-tc) 
 - **Battle Value:** 3363 
 
 ## Availability 

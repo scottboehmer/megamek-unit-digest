@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1907/locust-lct-3v) 
 - **Battle Value:** 490 
 
 ## Availability 

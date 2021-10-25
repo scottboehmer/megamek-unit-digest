@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705/cougar-b) 
 - **Battle Value:** 1774 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t) 
 - **Battle Value:** 1750 
 
 ## Availability 

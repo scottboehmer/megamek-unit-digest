@@ -17,7 +17,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3164/targe-trg-1n) 
 - **Battle Value:** 813 
 
 ## Availability 

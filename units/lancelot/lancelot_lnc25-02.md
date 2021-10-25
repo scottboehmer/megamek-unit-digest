@@ -14,7 +14,7 @@
   - PPC 
   - Large Laser × 2 
   - Medium Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1855/lancelot-lnc25-02) 
 - **Battle Value:** 1236 
 
 ## Availability 

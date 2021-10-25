@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light PPC 
   - ER Small Laser × 2 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8202/locust-lct-7v2) 
 - **Battle Value:** 634 
 
 ## Availability 

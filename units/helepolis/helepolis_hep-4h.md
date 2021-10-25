@@ -18,7 +18,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463/helepolis-hep-4h) 
 - **Battle Value:** 1366 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2272/night-hawk-ntk-2s) 
 - **Battle Value:** 1017 
 
 ## Availability 

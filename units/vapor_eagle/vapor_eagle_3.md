@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245/goshawk-vapor-eagle-3) 
 - **Battle Value:** 2466 
 
 ## Availability 

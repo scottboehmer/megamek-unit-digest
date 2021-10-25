@@ -15,7 +15,7 @@
   - LRM 15 × 6 (ammo: 80) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6306/tomahawk-ii-c) 
 - **Battle Value:** 2938 
 
 ## Availability 

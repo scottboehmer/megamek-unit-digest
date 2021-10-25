@@ -15,7 +15,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6281/thor-ii-grand-summoner-prime) 
 - **Battle Value:** 2554 
 - [*More Info*](grand_summoner/grand_summoner_prime.md) 
 
@@ -35,7 +35,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6282/thor-ii-grand-summoner-a) 
 - **Battle Value:** 2473 
 - [*More Info*](grand_summoner/grand_summoner_a.md) 
 
@@ -55,7 +55,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6283/thor-ii-grand-summoner-b) 
 - **Battle Value:** 2354 
 - [*More Info*](grand_summoner/grand_summoner_b.md) 
 
@@ -74,7 +74,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6284/thor-ii-grand-summoner-c) 
 - **Battle Value:** 2351 
 - [*More Info*](grand_summoner/grand_summoner_c.md) 
 
@@ -94,7 +94,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6285/thor-ii-grand-summoner-d) 
 - **Battle Value:** 2878 
 - [*More Info*](grand_summoner/grand_summoner_d.md) 
 
@@ -110,7 +110,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Small Laser 
-- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7426/thor-ii-grand-summoner-e) 
 - **Battle Value:** 2638 
 - [*More Info*](grand_summoner/grand_summoner_e.md) 
 

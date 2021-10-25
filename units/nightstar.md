@@ -13,7 +13,7 @@
   - ER PPC 
   - Medium Pulse Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2286/nightstar-nsr-9j) 
 - **Battle Value:** 2399 
 - [*More Info*](nightstar/nightstar_nsr-9j.md) 
 
@@ -31,7 +31,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2285/nightstar-nsr-9fc) 
 - **Battle Value:** 1929 
 - [*More Info*](nightstar/nightstar_nsr-9fc.md) 
 
@@ -68,7 +68,7 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](Master Unit List) 
+- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt) 
 - **Battle Value:** 3433 
 - [*More Info*](nightstar/nightstar_nsr-9j_holt.md) 
 
@@ -88,7 +88,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2287/nightstar-nsr-9ss) 
 - **Battle Value:** 2145 
 - [*More Info*](nightstar/nightstar_nsr-9ss.md) 
 

@@ -14,7 +14,7 @@
   - Medium Pulse Laser 
   - Medium Laser × 4 
   - Hatchet 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/436/buccaneer-bcn-3r) 
 - **Battle Value:** 1434 
 - [*More Info*](buccaneer/buccaneer_bcn-3r.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - C3i 
   - Machine Gun Array 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/437/buccaneer-bcn-5w) 
 - **Battle Value:** 1370 
 - [*More Info*](buccaneer/buccaneer_bcn-5w.md) 
 
@@ -52,7 +52,7 @@
   - Hatchet 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/438/buccaneer-bcn-6w) 
 - **Battle Value:** 1121 
 - [*More Info*](buccaneer/buccaneer_bcn-6w.md) 
 

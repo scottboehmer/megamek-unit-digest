@@ -15,7 +15,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3050 - Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1793/kintaro-kto-20) 
 - **Battle Value:** 1357 
 
 ## Availability 

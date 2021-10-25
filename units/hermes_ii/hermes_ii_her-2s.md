@@ -14,7 +14,7 @@
   - AC/5 (ammo: 20) 
   - Medium Laser 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1497/hermes-ii-her-2s) 
 - **Battle Value:** 784 
 
 ## Availability 

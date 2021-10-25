@@ -15,7 +15,7 @@
   - Light Gauss Rifle × 2 (ammo: 32) 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6470/tian-zong-tnz-n2) 
 - **Battle Value:** 1726 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** RS IA , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/7179/buster-bc-xv-m-w-haulermech-mod) 
 - **Battle Value:** 713 
 
 ## Availability 

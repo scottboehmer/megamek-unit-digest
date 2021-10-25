@@ -18,7 +18,7 @@
   - Salvage Arm 
   - Communications Equipment 
   - Searchlight 
-- **Sources:** RS IA - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4594/marco-mr-6-explorermech) 
 - **Battle Value:** 295 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Lift Hoist × 2 
   - Searchlight 
   - Tracks 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1650/jabberwocky-jaw-66b-engineermech) 
 - **Battle Value:** 341 
 
 ## Availability 

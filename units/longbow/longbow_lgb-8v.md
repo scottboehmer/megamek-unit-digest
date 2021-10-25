@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1938/longbow-lgb-8v) 
 - **Battle Value:** 1808 
 
 ## Availability 

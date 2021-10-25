@@ -18,7 +18,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/153/atlas-ii-as7-d-h2) 
 - **Battle Value:** 2340 
 
 ## Availability 

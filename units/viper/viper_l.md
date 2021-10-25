@@ -16,7 +16,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7586/dragonfly-viper-l) 
 - **Battle Value:** 1417 
 
 ## Availability 

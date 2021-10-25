@@ -12,7 +12,7 @@
   - Large Laser 
   - Medium Laser × 4 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1893/lineholder-kw1-lh2) 
 - **Battle Value:** 1280 
 - [*More Info*](lineholder/lineholder_kw1-lh2.md) 
 
@@ -28,7 +28,7 @@
   - ER Large Laser 
   - Medium Pulse Laser × 2 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1894/lineholder-kw1-lh3) 
 - **Battle Value:** 1214 
 - [*More Info*](lineholder/lineholder_kw1-lh3.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - RAC/2 × 2 (ammo: 45) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1895/lineholder-kw1-lh8-linebreaker) 
 - **Battle Value:** 1330 
 - [*More Info*](lineholder/lineholder_kw1-lh8_linebreaker.md) 
 
@@ -61,7 +61,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1896/lineholder-kw2-lhw) 
 - **Battle Value:** 1484 
 - [*More Info*](lineholder/lineholder_kw2-lhw.md) 
 

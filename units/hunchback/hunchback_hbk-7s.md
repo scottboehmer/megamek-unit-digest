@@ -18,7 +18,7 @@
   - Bloodhound Active Probe 
   - Supercharger 
   - TAG 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7346/hunchback-hbk-7s) 
 - **Battle Value:** 1628 
 
 ## Availability 

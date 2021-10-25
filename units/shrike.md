@@ -17,7 +17,7 @@
   - CASE 
   - Targeting Computer 
   - Partial Wing 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6292/shrike-standard) 
 - **Battle Value:** 2969 
 - [*More Info*](shrike/shrike_standard.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
   - Targeting Computer 
   - Partial Wing 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6293/shrike-2) 
 - **Battle Value:** 2846 
 - [*More Info*](shrike/shrike_2.md) 
 
@@ -59,7 +59,7 @@
   - Targeting Computer 
   - Partial Wing 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294/shrike-3) 
 - **Battle Value:** 3698 
 - [*More Info*](shrike/shrike_3.md) 
 

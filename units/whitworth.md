@@ -12,7 +12,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3540/whitworth-wth-1s) 
 - **Battle Value:** 917 
 - [*More Info*](whitworth/whitworth_wth-1s.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3538/whitworth-wth-1) 
 - **Battle Value:** 982 
 - [*More Info*](whitworth/whitworth_wth-1.md) 
 
@@ -45,7 +45,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 2 
   - Flamer 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3537/whitworth-wth-0) 
 - **Battle Value:** 863 
 - [*More Info*](whitworth/whitworth_wth-0.md) 
 
@@ -61,7 +61,7 @@
 - **Weapons:** 
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541/whitworth-wth-2) 
 - **Battle Value:** 936 
 - [*More Info*](whitworth/whitworth_wth-2.md) 
 
@@ -78,7 +78,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
   - Rocket 10 × 8 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3539/whitworth-wth-1h) 
 - **Battle Value:** 993 
 - [*More Info*](whitworth/whitworth_wth-1h.md) 
 
@@ -98,7 +98,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3542/whitworth-wth-2a) 
 - **Battle Value:** 1055 
 - [*More Info*](whitworth/whitworth_wth-2a.md) 
 
@@ -115,7 +115,7 @@
   - LRM 5 × 4 (ammo: 96) 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543/whitworth-wth-3) 
 - **Battle Value:** 861 
 - [*More Info*](whitworth/whitworth_wth-3.md) 
 
@@ -133,7 +133,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3545/whitworth-wth-k) 
 - **Battle Value:** 958 
 - [*More Info*](whitworth/whitworth_wth-k.md) 
 

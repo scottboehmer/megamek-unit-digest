@@ -16,7 +16,7 @@
   - Small Vibroblade 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4087/dola-dol-1a2-yoh-ti-tsang) 
 - **Battle Value:** 791 
 
 ## Availability 

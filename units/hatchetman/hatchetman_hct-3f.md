@@ -15,7 +15,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1410/hatchetman-hct-3f) 
 - **Battle Value:** 854 
 
 ## Availability 

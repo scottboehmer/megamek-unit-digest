@@ -14,7 +14,7 @@
   - Large Pulse Laser × 2 
   - Plasma Cannon × 2 (ammo: 30) 
   - Micro Pulse Laser 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7758/man-o-war-gargoyle-p) 
 - **Battle Value:** 2320 
 
 ## Availability 

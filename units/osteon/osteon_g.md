@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5828/osteon-g) 
 - **Battle Value:** 2251 
 
 ## Availability 

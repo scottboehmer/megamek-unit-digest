@@ -16,7 +16,7 @@
   - Lift Hoist × 2 
   - Cargo × 3 
   - Tracks 
-- **Sources:** TRO VA , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7220/buster-bc-xxi-haulermech) 
 - **Battle Value:** 222 
 
 ## Availability 

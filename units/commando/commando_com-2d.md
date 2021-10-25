@@ -14,7 +14,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/670/commando-com-2d) 
 - **Battle Value:** 541 
 
 ## Availability 

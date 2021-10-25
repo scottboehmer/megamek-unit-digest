@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC 
   - Small Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3192/thorn-the-n1) 
 - **Battle Value:** 656 
 
 ## Availability 

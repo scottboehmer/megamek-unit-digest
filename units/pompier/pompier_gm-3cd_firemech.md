@@ -16,7 +16,7 @@
   - Liquid Cargo 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4843/pompier-gm-3cd-firemech) 
 - **Battle Value:** 118 
 
 ## Availability 

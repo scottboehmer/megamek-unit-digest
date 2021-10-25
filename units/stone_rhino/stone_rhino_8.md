@@ -17,7 +17,7 @@
 - **Equipment:** 
   - AES × 2 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
 - **Battle Value:** 2804 
 
 ## Availability 

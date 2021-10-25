@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
   - Medium Pulse Laser 
   - ER Small Laser 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/980/enforcer-iii-enf-6g) 
 - **Battle Value:** 1858 
 
 ## Availability 

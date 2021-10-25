@@ -14,7 +14,7 @@
   - HAG 30 × 2 (ammo: 8) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3470/vulture-mad-dog-e) 
 - **Battle Value:** 2031 
 
 ## Availability 

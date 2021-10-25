@@ -16,7 +16,7 @@
   - PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2045/marauder-mad-6l) 
 - **Battle Value:** 2322 
 
 ## Availability 

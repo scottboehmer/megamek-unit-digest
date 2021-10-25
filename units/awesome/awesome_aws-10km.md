@@ -16,7 +16,7 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km) 
 - **Battle Value:** 1961 
 
 ## Availability 

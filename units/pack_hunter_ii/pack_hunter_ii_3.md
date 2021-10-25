@@ -14,7 +14,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398/pack-hunter-ii-3) 
 - **Battle Value:** 1438 
 
 ## Availability 

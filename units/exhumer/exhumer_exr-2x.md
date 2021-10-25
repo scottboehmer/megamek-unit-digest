@@ -16,7 +16,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6410/exhumer-exr-2x) 
 - **Battle Value:** 1468 
 
 ## Availability 

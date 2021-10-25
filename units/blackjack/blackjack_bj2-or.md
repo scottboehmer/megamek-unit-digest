@@ -16,7 +16,7 @@
   - Clan Large Pulse Laser 
   - Clan Medium Pulse Laser × 3 
   - Clan ER Small Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/385/blackjack-bj2-or) 
 - **Battle Value:** 2010 
 
 ## Availability 

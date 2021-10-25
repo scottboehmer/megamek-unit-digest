@@ -17,7 +17,7 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3135/supernova-4) 
 - **Battle Value:** 3158 
 
 ## Availability 

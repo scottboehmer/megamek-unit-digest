@@ -14,7 +14,7 @@
   - ER PPC × 2 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Pulse Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7600/marauder-mad-5cs) 
 - **Battle Value:** 1648 
 
 ## Availability 

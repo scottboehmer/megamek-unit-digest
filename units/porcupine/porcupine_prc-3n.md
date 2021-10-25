@@ -16,7 +16,7 @@
   - Null-Signature System 
   - MASC 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8102/porcupine-prc-3n) 
 - **Battle Value:** 511 
 
 ## Availability 

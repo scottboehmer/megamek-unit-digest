@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/20 (ammo: 5) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3355/urbanmech-um-r60l) 
 - **Battle Value:** 470 
 
 ## Availability 

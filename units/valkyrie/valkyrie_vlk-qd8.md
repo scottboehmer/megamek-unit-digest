@@ -15,7 +15,7 @@
 - **Weapons:** 
   - ELRM 10 (ammo: 18) 
   - Light PPC 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8) 
 - **Battle Value:** 787 
 
 ## Availability 

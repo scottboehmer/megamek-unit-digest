@@ -20,7 +20,7 @@
 - **Equipment:** 
   - C3i 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus) 
 - **Battle Value:** 2097 
 
 ## Availability 

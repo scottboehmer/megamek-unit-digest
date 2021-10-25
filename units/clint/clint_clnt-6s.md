@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/651/clint-clnt-6s) 
 - **Battle Value:** 1334 
 
 ## Availability 

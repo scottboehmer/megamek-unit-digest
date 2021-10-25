@@ -19,7 +19,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/728/crockett-crk-5004-1) 
 - **Battle Value:** 1955 
 
 ## Availability 

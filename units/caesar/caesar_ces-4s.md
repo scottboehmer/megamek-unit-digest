@@ -15,7 +15,7 @@
   - Large Pulse Laser 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458/caesar-ces-4s) 
 - **Battle Value:** 1739 
 
 ## Availability 

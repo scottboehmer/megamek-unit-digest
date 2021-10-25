@@ -15,7 +15,7 @@
   - Backhoe 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7163/carbine-con-9-constructionmech) 
 - **Battle Value:** 246 
 
 ## Availability 

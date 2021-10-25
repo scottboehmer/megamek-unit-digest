@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1571/hunchback-iic-4) 
 - **Battle Value:** 2097 
 
 ## Availability 

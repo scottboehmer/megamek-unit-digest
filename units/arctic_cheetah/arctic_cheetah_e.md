@@ -19,7 +19,7 @@
   - Machine Gun Array × 2 
   - B-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
 - **Battle Value:** 1081 
 
 ## Availability 

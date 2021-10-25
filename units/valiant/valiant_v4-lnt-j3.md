@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - Small Shield 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368/valiant-v4-lnt-j3) 
 - **Battle Value:** 926 
 
 ## Availability 

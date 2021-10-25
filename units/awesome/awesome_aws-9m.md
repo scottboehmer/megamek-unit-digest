@@ -15,7 +15,7 @@
   - Medium Pulse Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Small Pulse Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/178/awesome-aws-9m) 
 - **Battle Value:** 1812 
 
 ## Availability 

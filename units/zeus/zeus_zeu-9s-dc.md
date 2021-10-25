@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Command Console 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5438/zeus-zeu-9s-dc) 
 - **Battle Value:** 1612 
 
 ## Availability 

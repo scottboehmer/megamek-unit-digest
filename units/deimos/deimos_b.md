@@ -20,7 +20,7 @@
   - Anti-Missile System (ammo: 24) 
   - MASC 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/854/deimos-b) 
 - **Battle Value:** 2965 
 
 ## Availability 

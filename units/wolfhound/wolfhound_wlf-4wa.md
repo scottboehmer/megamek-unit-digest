@@ -14,7 +14,7 @@
   - Light PPC × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3568/wolfhound-wlf-4wa) 
 - **Battle Value:** 1050 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/762/crusader-crd-7l) 
 - **Battle Value:** 1749 
 
 ## Availability 

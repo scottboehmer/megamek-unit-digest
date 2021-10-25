@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Radical Heat Sink System 
   - C3 Boosted Slave 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6835/sagittaire-sgt-14d) 
 - **Battle Value:** 1960 
 
 ## Availability 

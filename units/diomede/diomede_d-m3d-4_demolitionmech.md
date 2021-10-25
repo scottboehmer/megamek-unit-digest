@@ -23,7 +23,7 @@
   - CASE 
   - Ejection Seat 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/902/diomede-d-m3d-4-demolitionmech) 
 - **Battle Value:** 1234 
 
 ## Availability 

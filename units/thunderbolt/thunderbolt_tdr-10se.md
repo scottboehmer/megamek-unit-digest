@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - MASC 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3235/thunderbolt-tdr-10se) 
 - **Battle Value:** 2008 
 
 ## Availability 

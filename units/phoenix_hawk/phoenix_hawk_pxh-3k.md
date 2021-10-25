@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** ilClan Vol 11 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498/phoenix-hawk-pxh-3k) 
 - **Battle Value:** 1359 
 
 ## Availability 

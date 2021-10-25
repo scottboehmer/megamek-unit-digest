@@ -18,7 +18,7 @@
   - CASE 
   - Targeting Computer 
   - TAG 
-- **Sources:** DTP Liao , [Master Unit List](Master Unit List) 
+- **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543/mad-cat-iii-eve) 
 - **Battle Value:** 2393 
 
 ## Availability 

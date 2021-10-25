@@ -18,7 +18,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2305/nova-cat-g) 
 - **Battle Value:** 2522 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Enviro-Sealing 
   - Lift Hoist × 2 
   - Cargo 
-- **Sources:** RS VA , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5321/uni-atae-70-cargomech) 
 - **Battle Value:** 533 
 
 ## Availability 

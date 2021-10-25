@@ -21,7 +21,7 @@
   - Medium Shield 
   - Beagle Active Probe 
   - CASE II 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6344/centurion-cn11-od) 
 - **Battle Value:** 1153 
 
 ## Availability 

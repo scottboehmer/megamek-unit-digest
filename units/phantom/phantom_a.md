@@ -16,7 +16,7 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2481/phantom-a) 
 - **Battle Value:** 1410 
 
 ## Availability 

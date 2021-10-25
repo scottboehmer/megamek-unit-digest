@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE II 
   - Clan Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7719/inferno-inf-nor) 
 - **Battle Value:** 2360 
 
 ## Availability 

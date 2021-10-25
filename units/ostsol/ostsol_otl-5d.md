@@ -14,7 +14,7 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - Rocket 10 × 5 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2373/ostsol-otl-5d) 
 - **Battle Value:** 1333 
 
 ## Availability 

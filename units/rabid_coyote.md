@@ -14,7 +14,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4891/rabid-coyote-standard) 
 - **Battle Value:** 2081 
 - [*More Info*](rabid_coyote/rabid_coyote_standard.md) 
 
@@ -33,7 +33,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5682/rabid-coyote-2) 
 - **Battle Value:** 2083 
 - [*More Info*](rabid_coyote/rabid_coyote_2.md) 
 

@@ -16,7 +16,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/352/black-hawk-ku-bhku-of) 
 - **Battle Value:** 1759 
 
 ## Availability 

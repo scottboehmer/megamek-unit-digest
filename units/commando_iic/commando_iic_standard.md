@@ -16,7 +16,7 @@
   - SRM 4 × 3 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/678/commando-iic-standard) 
 - **Battle Value:** 978 
 
 ## Availability 

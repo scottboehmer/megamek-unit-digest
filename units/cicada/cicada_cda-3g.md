@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g) 
 - **Battle Value:** 1270 
 
 ## Availability 

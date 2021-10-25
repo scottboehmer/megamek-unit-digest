@@ -17,7 +17,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6568/jade-hawk-3) 
 - **Battle Value:** 2498 
 
 ## Availability 

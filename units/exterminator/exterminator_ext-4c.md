@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 12) 
   - Chameleon LPS 
   - Null-Signature System 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4148/exterminator-ext-4c) 
 - **Battle Value:** 1420 
 
 ## Availability 

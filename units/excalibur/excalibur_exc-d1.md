@@ -19,7 +19,7 @@
   - C3i 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1003/excalibur-exc-d1) 
 - **Battle Value:** 1949 
 
 ## Availability 

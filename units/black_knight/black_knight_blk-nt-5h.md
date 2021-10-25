@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Medium Shield 
   - Targeting Computer 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6351/black-knight-blk-nt-5h) 
 - **Battle Value:** 2423 
 
 ## Availability 

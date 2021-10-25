@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 4 
   - Small Pulse Laser × 6 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/261/battle-cobra-a) 
 - **Battle Value:** 1466 
 
 ## Availability 

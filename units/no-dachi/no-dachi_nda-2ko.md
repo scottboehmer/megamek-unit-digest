@@ -19,7 +19,7 @@
   - Small Pulse Laser 
   - Small Laser 
   - Flamer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733/no-dachi-nda-2ko) 
 - **Battle Value:** 1728 
 
 ## Availability 

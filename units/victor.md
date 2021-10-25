@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
   - Flamer × 2 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407/victor-vtr-9a) 
 - **Battle Value:** 1236 
 - [*More Info*](victor/victor_vtr-9a.md) 
 
@@ -33,7 +33,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3408/victor-vtr-9a1) 
 - **Battle Value:** 1302 
 - [*More Info*](victor/victor_vtr-9a1.md) 
 
@@ -50,7 +50,7 @@
   - AC/20 (ammo: 15) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3409/victor-vtr-9b) 
 - **Battle Value:** 1378 
 - [*More Info*](victor/victor_vtr-9b.md) 
 
@@ -67,7 +67,7 @@
   - AC/10 (ammo: 20) 
   - Medium Pulse Laser × 3 
   - SRM 4 (ammo: 0) 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5864/victor-vtr-9b-shoji) 
 - **Battle Value:** 1543 
 - [*More Info*](victor/victor_vtr-9b_shoji.md) 
 
@@ -84,7 +84,7 @@
   - AC/20 (ammo: 15) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3414/victor-vtr-9s) 
 - **Battle Value:** 1360 
 - [*More Info*](victor/victor_vtr-9s.md) 
 
@@ -119,7 +119,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3410/victor-vtr-9d) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-9d.md) 
 
@@ -138,7 +138,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3411/victor-vtr-9k) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-9k.md) 
 
@@ -177,7 +177,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3415/victor-vtr-c) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-c.md) 
 
@@ -196,7 +196,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5458/victor-vtr-10s) 
 - **Battle Value:** 2034 
 - [*More Info*](victor/victor_vtr-10s.md) 
 
@@ -215,7 +215,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3404/victor-vtr-10d) 
 - **Battle Value:** 1894 
 - [*More Info*](victor/victor_vtr-10d.md) 
 
@@ -235,7 +235,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3406/victor-vtr-11d) 
 - **Battle Value:** 2021 
 - [*More Info*](victor/victor_vtr-11d.md) 
 
@@ -255,7 +255,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405/victor-vtr-10l) 
 - **Battle Value:** 2279 
 - [*More Info*](victor/victor_vtr-10l.md) 
 
@@ -293,7 +293,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416/victor-vtr-cr) 
 - **Battle Value:** 1465 
 - [*More Info*](victor/victor_vtr-cr.md) 
 
@@ -311,7 +311,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413/victor-vtr-9ka) 
 - **Battle Value:** 1594 
 - [*More Info*](victor/victor_vtr-9ka.md) 
 
@@ -332,7 +332,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8259/victor-vtr-12d) 
 - **Battle Value:** 1935 
 - [*More Info*](victor/victor_vtr-12d.md) 
 

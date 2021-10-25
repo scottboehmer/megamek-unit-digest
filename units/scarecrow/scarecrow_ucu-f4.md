@@ -23,7 +23,7 @@
   - Clan Machine Gun Array × 2 
   - Chameleon LPS 
   - CASE II 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6336/scarecrow-ucu-f4) 
 - **Battle Value:** 1429 
 
 ## Availability 

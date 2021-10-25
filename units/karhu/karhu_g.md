@@ -19,7 +19,7 @@
   - Light TAG 
   - CASE 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6882/karhu-g) 
 - **Battle Value:** 2895 
 
 ## Availability 

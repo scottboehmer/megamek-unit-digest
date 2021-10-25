@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/374/blackjack-bj-1db) 
 - **Battle Value:** 1015 
 
 ## Availability 

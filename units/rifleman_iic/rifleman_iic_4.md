@@ -16,7 +16,7 @@
   - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2713/rifleman-iic-4) 
 - **Battle Value:** 2140 
 
 ## Availability 

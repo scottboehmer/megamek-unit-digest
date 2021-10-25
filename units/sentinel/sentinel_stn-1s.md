@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 25) 
   - AC/2 (ammo: 45) 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2856/sentinel-stn-1s) 
 - **Battle Value:** 632 
 
 ## Availability 

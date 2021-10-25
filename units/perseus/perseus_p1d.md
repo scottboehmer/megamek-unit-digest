@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4812/perseus-p1d) 
 - **Battle Value:** 1714 
 
 ## Availability 

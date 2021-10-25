@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1066/fire-falcon-d) 
 - **Battle Value:** 826 
 
 ## Availability 

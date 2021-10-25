@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3155/talon-tln-6w) 
 - **Battle Value:** 1341 
 
 ## Availability 

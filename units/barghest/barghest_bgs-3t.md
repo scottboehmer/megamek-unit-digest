@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
   - ER Large Laser 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/254/barghest-bgs-3t) 
 - **Battle Value:** 1900 
 
 ## Availability 

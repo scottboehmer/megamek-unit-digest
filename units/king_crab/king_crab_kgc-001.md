@@ -17,7 +17,7 @@
   - Streak SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1773/king-crab-kgc-001) 
 - **Battle Value:** 2221 
 
 ## Availability 

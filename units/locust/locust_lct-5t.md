@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909/locust-lct-5t) 
 - **Battle Value:** 482 
 
 ## Availability 

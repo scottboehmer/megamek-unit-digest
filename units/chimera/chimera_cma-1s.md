@@ -16,7 +16,7 @@
   - MRM 20 (ammo: 24) 
   - ER Medium Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3950/chimera-cma-1s) 
 - **Battle Value:** 1173 
 
 ## Availability 

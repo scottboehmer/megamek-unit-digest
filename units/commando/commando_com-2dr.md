@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/671/commando-com-2dr) 
 - **Battle Value:** 563 
 
 ## Availability 

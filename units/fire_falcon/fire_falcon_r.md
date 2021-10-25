@@ -17,7 +17,7 @@
   - Micro Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8183/fire-falcon-r) 
 - **Battle Value:** 846 
 
 ## Availability 

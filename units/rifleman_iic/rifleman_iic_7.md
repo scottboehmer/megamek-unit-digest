@@ -17,7 +17,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2716/rifleman-iic-7) 
 - **Battle Value:** 2205 
 
 ## Availability 

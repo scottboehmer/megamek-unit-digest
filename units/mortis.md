@@ -16,7 +16,7 @@
   - Rocket 10 
 - **Equipment:** 
   - AES × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6466/mortis-ms-1a) 
 - **Battle Value:** 1834 
 - [*More Info*](mortis/mortis_ms-1a.md) 
 
@@ -36,7 +36,7 @@
   - Rocket 10 
 - **Equipment:** 
   - AES × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6467/mortis-ms-1p) 
 - **Battle Value:** 2198 
 - [*More Info*](mortis/mortis_ms-1p.md) 
 

@@ -17,7 +17,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2344/osprey-osp-15) 
 - **Battle Value:** 1564 
 
 ## Availability 

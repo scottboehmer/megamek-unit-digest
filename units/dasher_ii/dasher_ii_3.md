@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC 
   - Inner Sphere Claw × 2 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6920/dasher-ii-3) 
 - **Battle Value:** 1496 
 
 ## Availability 

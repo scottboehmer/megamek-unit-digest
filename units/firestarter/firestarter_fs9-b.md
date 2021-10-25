@@ -16,7 +16,7 @@
   - Flamer × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1094/firestarter-fs9-b) 
 - **Battle Value:** 668 
 
 ## Availability 

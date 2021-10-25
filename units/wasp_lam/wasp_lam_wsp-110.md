@@ -17,7 +17,7 @@
   - Medium VSP Laser 
 - **Equipment:** 
   - Bomb Bay × 5 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5391/wasp-lam-wsp-110) 
 - **Battle Value:** 639 
 
 ## Availability 

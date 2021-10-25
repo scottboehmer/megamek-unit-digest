@@ -18,7 +18,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309/griffin-grf-6s-francine) 
 - **Battle Value:** 1778 
 
 ## Availability 

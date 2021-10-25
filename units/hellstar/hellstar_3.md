@@ -17,7 +17,7 @@
   - ECM Suite 
   - Active Probe 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1480/hellstar-3) 
 - **Battle Value:** 3025 
 
 ## Availability 

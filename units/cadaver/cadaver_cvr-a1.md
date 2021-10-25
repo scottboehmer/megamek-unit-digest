@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6550/cadaver-cvr-a1) 
 - **Battle Value:** 962 
 
 ## Availability 

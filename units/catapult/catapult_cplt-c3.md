@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Arrow IV (ammo: 5) 
   - Medium Laser × 4 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/481/catapult-cplt-c3) 
 - **Battle Value:** 1368 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3462/vulcan-vt-5s) 
 - **Battle Value:** 883 
 
 ## Availability 

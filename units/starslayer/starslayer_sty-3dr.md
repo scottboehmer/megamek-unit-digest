@@ -17,7 +17,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051/starslayer-sty-3dr) 
 - **Battle Value:** 1781 
 
 ## Availability 

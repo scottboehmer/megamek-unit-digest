@@ -14,7 +14,7 @@
   - PPC 
   - AC/10 (ammo: 10) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/466/cataphract-ctf-1x) 
 - **Battle Value:** 1316 
 
 ## Availability 

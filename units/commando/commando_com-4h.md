@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Rocket 15 × 6 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/673/commando-com-4h) 
 - **Battle Value:** 691 
 
 ## Availability 

@@ -11,7 +11,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3010/spider-sdr-5v) 
 - **Battle Value:** 622 
 - [*More Info*](spider/spider_sdr-5v.md) 
 
@@ -27,7 +27,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3009/spider-sdr-5k) 
 - **Battle Value:** 503 
 - [*More Info*](spider/spider_sdr-5k.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3008/spider-sdr-5d) 
 - **Battle Value:** 524 
 - [*More Info*](spider/spider_sdr-5d.md) 
 
@@ -58,7 +58,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3015/spider-sdr-7m) 
 - **Battle Value:** 621 
 - [*More Info*](spider/spider_sdr-7m.md) 
 
@@ -76,7 +76,7 @@
   - Medium Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3020/spider-sdr-c) 
 - **Battle Value:** 616 
 - [*More Info*](spider/spider_sdr-c.md) 
 
@@ -91,7 +91,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3017/spider-sdr-8m) 
 - **Battle Value:** 621 
 - [*More Info*](spider/spider_sdr-8m.md) 
 
@@ -106,7 +106,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3011/spider-sdr-7k) 
 - **Battle Value:** 752 
 - [*More Info*](spider/spider_sdr-7k.md) 
 
@@ -121,7 +121,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3012/spider-sdr-7k2) 
 - **Battle Value:** 884 
 - [*More Info*](spider/spider_sdr-7k2.md) 
 
@@ -138,7 +138,7 @@
   - Light PPC 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3013/spider-sdr-7kc) 
 - **Battle Value:** 732 
 - [*More Info*](spider/spider_sdr-7kc.md) 
 
@@ -155,7 +155,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014/spider-sdr-7kr) 
 - **Battle Value:** 775 
 - [*More Info*](spider/spider_sdr-7kr.md) 
 
@@ -172,7 +172,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019/spider-sdr-8x) 
 - **Battle Value:** 765 
 - [*More Info*](spider/spider_sdr-8x.md) 
 
@@ -188,7 +188,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Snub-Nose PPC w/ PPC Capacitor 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3016/spider-sdr-8k) 
 - **Battle Value:** 1007 
 - [*More Info*](spider/spider_sdr-8k.md) 
 
@@ -203,7 +203,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3018/spider-sdr-8r) 
 - **Battle Value:** 694 
 - [*More Info*](spider/spider_sdr-8r.md) 
 
@@ -221,7 +221,7 @@
   - Sword 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933/spider-sdr-8xr) 
 - **Battle Value:** 754 
 - [*More Info*](spider/spider_sdr-8xr.md) 
 
@@ -236,7 +236,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Large Re-Engineered Laser 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6934/spider-sdr-10k) 
 - **Battle Value:** 824 
 - [*More Info*](spider/spider_sdr-10k.md) 
 

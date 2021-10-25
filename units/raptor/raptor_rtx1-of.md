@@ -13,7 +13,7 @@
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - ER Medium Laser × 5 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2653/raptor-rtx1-of) 
 - **Battle Value:** 1029 
 
 ## Availability 

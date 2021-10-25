@@ -15,7 +15,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Laser 
   - Rocket 10 × 5 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3922/centurion-cn9-h) 
 - **Battle Value:** 848 
 
 ## Availability 

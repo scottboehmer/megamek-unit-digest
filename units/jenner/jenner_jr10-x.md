@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Null-Signature System 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1686/jenner-jr10-x) 
 - **Battle Value:** 1269 
 
 ## Availability 

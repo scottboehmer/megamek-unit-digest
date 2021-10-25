@@ -11,8 +11,7 @@
 - **Weapons:** 
   - Small Laser × 2 
 - **Equipment:** 
-  - MASH Extra Theater × 4 
-  - MASH 
+  - MASH (1 theaters) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1971/mash-truck-standard) 
 - **Battle Value:** 220 
 - [*More Info*](m.a.s.h._truck/m.a.s.h._truck_standard.md) 
@@ -26,8 +25,7 @@
 - **Armor:** 72 
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
-  - MASH 
-  - MASH Extra Theater × 4 
+  - MASH (1 theaters) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1970/mash-truck-ice) 
 - **Battle Value:** 213 
 - [*More Info*](m.a.s.h._truck/m.a.s.h._truck_ice.md) 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1053/fenris-ice-ferret-prime) 
 - **Battle Value:** 1678 
 
 ## Availability 

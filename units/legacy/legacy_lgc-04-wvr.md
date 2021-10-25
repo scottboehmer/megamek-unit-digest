@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - MASC 
-- **Sources:** RS 3067 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5702/legacy-lgc-04-wvr) 
 - **Battle Value:** 1745 
 
 ## Availability 

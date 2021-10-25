@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Chainsaw 
-- **Sources:** RS IA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7170/crosscut-ed-x5m-loggermech-mod) 
 - **Battle Value:** 317 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1774/king-crab-kgc-005) 
 - **Battle Value:** 2264 
 
 ## Availability 

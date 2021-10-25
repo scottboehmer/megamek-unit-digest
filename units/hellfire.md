@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4300/hellfire-standard) 
 - **Battle Value:** 2114 
 - [*More Info*](hellfire/hellfire_standard.md) 
 
@@ -38,7 +38,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4301/hellfire-2) 
 - **Battle Value:** 2370 
 - [*More Info*](hellfire/hellfire_2.md) 
 

@@ -20,7 +20,7 @@
   - ECM Suite 
   - Talons 
   - Liquid Cargo × 2 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us) 
 - **Battle Value:** 2298 
 
 ## Availability 

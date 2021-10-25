@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Coolant Pod 
   - CASE II 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6391/phoenix-hawk-l-fenikkusu-taka-pxh-11k2) 
 - **Battle Value:** 1233 
 
 ## Availability 

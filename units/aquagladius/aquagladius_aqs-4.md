@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - HarJel × 3 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/59/aquagladius-aqs-4) 
 - **Battle Value:** 1486 
 
 ## Availability 

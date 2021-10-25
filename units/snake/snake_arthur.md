@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - MASC 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6982/snake-arthur) 
 - **Battle Value:** 1477 
 
 ## Availability 

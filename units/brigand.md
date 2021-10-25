@@ -12,7 +12,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3859/brigand-ldt-1) 
 - **Battle Value:** 771 
 - [*More Info*](brigand/brigand_ldt-1.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Medium Laser × 4 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3860/brigand-ldt-x1) 
 - **Battle Value:** 937 
 - [*More Info*](brigand/brigand_ldt-x1.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Rocket 15 × 4 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3861/brigand-ldt-x2) 
 - **Battle Value:** 764 
 - [*More Info*](brigand/brigand_ldt-x2.md) 
 
@@ -60,7 +60,7 @@
 - **Weapons:** 
   - Light PPC × 2 
   - Flamer × 2 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5653/brigand-ldt-x3) 
 - **Battle Value:** 695 
 - [*More Info*](brigand/brigand_ldt-x3.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - Medium X-Pulse Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7313/brigand-ldt-xpr1) 
 - **Battle Value:** 723 
 - [*More Info*](brigand/brigand_ldt-xpr1.md) 
 
@@ -93,7 +93,7 @@
   - Medium Laser × 5 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7314/brigand-ldt-xpr2) 
 - **Battle Value:** 956 
 - [*More Info*](brigand/brigand_ldt-xpr2.md) 
 
@@ -109,7 +109,7 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - Mace 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7315/brigand-ldt-xpr3) 
 - **Battle Value:** 752 
 - [*More Info*](brigand/brigand_ldt-xpr3.md) 
 
@@ -124,7 +124,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7316/brigand-ldt-xpr4) 
 - **Battle Value:** 739 
 - [*More Info*](brigand/brigand_ldt-xpr4.md) 
 
@@ -140,7 +140,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7317/brigand-ldt-xpr5) 
 - **Battle Value:** 743 
 - [*More Info*](brigand/brigand_ldt-xpr5.md) 
 
@@ -157,7 +157,7 @@
 - **Weapons:** 
   - Light PPC 
   - ER Medium Laser × 3 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5654/brigand-ldt-x4) 
 - **Battle Value:** 1038 
 - [*More Info*](brigand/brigand_ldt-x4.md) 
 
@@ -173,7 +173,7 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Mace 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312/brigand-ldt-5) 
 - **Battle Value:** 762 
 - [*More Info*](brigand/brigand_ldt-5.md) 
 

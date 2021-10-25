@@ -17,7 +17,7 @@
   - Medium Laser × 4 
   - Hatchet 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/246/banshee-bnc-3s-reinesblatt) 
 - **Battle Value:** 1678 
 
 ## Availability 

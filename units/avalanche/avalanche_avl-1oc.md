@@ -17,7 +17,7 @@
   - Small X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6399/avalanche-avl-1oc) 
 - **Battle Value:** 1341 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2089/marshal-mhl-6mc) 
 - **Battle Value:** 1457 
 
 ## Availability 

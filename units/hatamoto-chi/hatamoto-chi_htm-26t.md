@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 2 
   - SRM 6 × 2 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1397/hatamoto-chi-htm-26t) 
 - **Battle Value:** 1536 
 
 ## Availability 

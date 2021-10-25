@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7481/puma-adder-k) 
 - **Battle Value:** 1281 
 
 ## Availability 

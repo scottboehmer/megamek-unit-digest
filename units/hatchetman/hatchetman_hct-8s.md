@@ -18,7 +18,7 @@
 - **Equipment:** 
   - AES 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s) 
 - **Battle Value:** 1479 
 
 ## Availability 

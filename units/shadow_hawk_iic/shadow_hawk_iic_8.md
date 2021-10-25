@@ -19,7 +19,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2918/shadow-hawk-iic-8) 
 - **Battle Value:** 1940 
 
 ## Availability 

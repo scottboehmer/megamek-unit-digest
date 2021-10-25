@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3561/wolfhound-wlf-1a) 
 - **Battle Value:** 967 
 
 ## Availability 

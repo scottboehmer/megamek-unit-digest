@@ -15,7 +15,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2596/puma-adder-h) 
 - **Battle Value:** 1453 
 
 ## Availability 

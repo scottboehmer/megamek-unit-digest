@@ -14,7 +14,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2261/nexus-ii-nxs2-a) 
 - **Battle Value:** 702 
 - [*More Info*](nexus_ii/nexus_ii_nxs2-a.md) 
 
@@ -33,7 +33,7 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2262/nexus-ii-nxs2-b) 
 - **Battle Value:** 717 
 - [*More Info*](nexus_ii/nexus_ii_nxs2-b.md) 
 

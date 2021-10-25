@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7875/burrower-dtm-1m-miningmech-mod) 
 - **Battle Value:** 556 
 
 ## Availability 

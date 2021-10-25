@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 10) 
   - SRM 4 (ammo: 25) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2421/panther-pnt-13k) 
 - **Battle Value:** 996 
 
 ## Availability 

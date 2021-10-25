@@ -12,7 +12,7 @@
 - **Weapons:** 
   - ER PPC 
   - Sword 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6393/rokurokubi-rk-4k) 
 - **Battle Value:** 1286 
 - [*More Info*](rokurokubi/rokurokubi_rk-4k.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Light AC/5 (ammo: 40) 
   - Sword 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6392/rokurokubi-rk-4t) 
 - **Battle Value:** 998 
 - [*More Info*](rokurokubi/rokurokubi_rk-4t.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Supercharger 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6394/rokurokubi-rk-4x) 
 - **Battle Value:** 1858 
 - [*More Info*](rokurokubi/rokurokubi_rk-4x.md) 
 

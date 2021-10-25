@@ -16,7 +16,7 @@
   - Light Gauss Rifle (ammo: 32) 
   - LRM 10 (ammo: 24) 
   - ER Small Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/383/blackjack-bj2-oe) 
 - **Battle Value:** 1260 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1465/helios-hel-4a) 
 - **Battle Value:** 1519 
 
 ## Availability 

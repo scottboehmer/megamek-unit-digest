@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495/warhammer-whm-8k) 
 - **Battle Value:** 1748 
 
 ## Availability 

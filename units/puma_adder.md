@@ -13,7 +13,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2598/puma-adder-prime) 
 - **Battle Value:** 2083 
 - [*More Info*](adder/adder_prime.md) 
 
@@ -32,7 +32,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2592/puma-adder-b) 
 - **Battle Value:** 1422 
 - [*More Info*](adder/adder_b.md) 
 
@@ -51,7 +51,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2594/puma-adder-d) 
 - **Battle Value:** 1255 
 - [*More Info*](adder/adder_d.md) 
 
@@ -69,7 +69,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2591/puma-adder-a) 
 - **Battle Value:** 1437 
 - [*More Info*](adder/adder_a.md) 
 
@@ -88,7 +88,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2593/puma-adder-c) 
 - **Battle Value:** 1372 
 - [*More Info*](adder/adder_c.md) 
 
@@ -108,7 +108,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7483/puma-adder-s) 
 - **Battle Value:** 1427 
 - [*More Info*](adder/adder_s.md) 
 
@@ -130,7 +130,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7589/puma-adder-tc) 
 - **Battle Value:** 1247 
 - [*More Info*](adder/adder_tc.md) 
 
@@ -147,7 +147,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2596/puma-adder-h) 
 - **Battle Value:** 1453 
 - [*More Info*](adder/adder_h.md) 
 
@@ -165,7 +165,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2595/puma-adder-e) 
 - **Battle Value:** 1272 
 - [*More Info*](adder/adder_e.md) 
 
@@ -183,7 +183,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2597/puma-adder-j) 
 - **Battle Value:** 1222 
 - [*More Info*](adder/adder_j.md) 
 
@@ -202,7 +202,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7479/puma-adder-i) 
 - **Battle Value:** 1575 
 - [*More Info*](adder/adder_i.md) 
 
@@ -221,7 +221,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7481/puma-adder-k) 
 - **Battle Value:** 1281 
 - [*More Info*](adder/adder_k.md) 
 
@@ -238,7 +238,7 @@
   - Flamer 
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7478/puma-adder-t) 
 - **Battle Value:** 1765 
 - [*More Info*](adder/adder_t.md) 
 
@@ -258,7 +258,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7482/puma-adder-l) 
 - **Battle Value:** 1738 
 - [*More Info*](adder/adder_l.md) 
 

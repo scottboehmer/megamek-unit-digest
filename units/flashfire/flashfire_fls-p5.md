@@ -17,7 +17,7 @@
   - Fluid Gun × 2 (ammo: 40) 
 - **Equipment:** 
   - Spikes 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1122/flashfire-fls-p5) 
 - **Battle Value:** 654 
 
 ## Availability 

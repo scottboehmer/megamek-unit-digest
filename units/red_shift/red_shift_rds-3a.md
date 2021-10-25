@@ -14,7 +14,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - C3i 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5652/red-shift-rds-3a) 
 - **Battle Value:** 869 
 
 ## Availability 

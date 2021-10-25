@@ -19,7 +19,7 @@
   - Light TAG 
   - Targeting Computer 
   - MASC 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549/koshi-3) 
 - **Battle Value:** 777 
 
 ## Availability 

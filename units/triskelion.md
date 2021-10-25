@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - CASE II 
   - Targeting Computer 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7384/triskelion-trk-4v) 
 - **Battle Value:** 2702 
 - [*More Info*](triskelion/triskelion_trk-4v.md) 
 

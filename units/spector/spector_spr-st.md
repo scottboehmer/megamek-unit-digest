@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - MASC 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3005/spector-spr-st) 
 - **Battle Value:** 1438 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338/vanquisher-vqr-2a) 
 - **Battle Value:** 2234 
 - [*More Info*](vanquisher/vanquisher_vqr-2a.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5339/vanquisher-vqr-2b) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-2b.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - B-Pod × 2 
   - C3i 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5340/vanquisher-vqr-5v) 
 - **Battle Value:** 2332 
 - [*More Info*](vanquisher/vanquisher_vqr-5v.md) 
 
@@ -121,7 +121,7 @@
 - **Equipment:** 
   - CASE 
   - C3i 
-- **Sources:** TP:Arcturus - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-2a_pravuil.md) 
 

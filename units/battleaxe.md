@@ -14,7 +14,7 @@
   - SRM 6 (ammo: 15) 
   - LRM 5 × 2 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5584/battleaxe-bkx-1x) 
 - **Battle Value:** 1079 
 - [*More Info*](battleaxe/battleaxe_bkx-1x.md) 
 
@@ -31,7 +31,7 @@
   - PPC × 2 
   - SRM 6 (ammo: 15) 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/277/battleaxe-bkx-7k) 
 - **Battle Value:** 1329 
 - [*More Info*](battleaxe/battleaxe_bkx-7k.md) 
 
@@ -47,7 +47,7 @@
   - PPC × 2 
   - SRM 6 (ammo: 15) 
   - LRM 5 × 4 (ammo: 24) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278/battleaxe-bkx-7nc) 
 - **Battle Value:** 1252 
 - [*More Info*](battleaxe/battleaxe_bkx-7nc.md) 
 
@@ -66,7 +66,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/279/battleaxe-bkx-8d) 
 - **Battle Value:** 1592 
 - [*More Info*](battleaxe/battleaxe_bkx-8d.md) 
 

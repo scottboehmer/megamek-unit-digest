@@ -15,7 +15,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - SRM 2 × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878/dervish-dv-6m) 
 - **Battle Value:** 1146 
 
 ## Availability 

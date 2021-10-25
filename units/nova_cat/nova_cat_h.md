@@ -18,7 +18,7 @@
   - CASE 
   - Coolant Pod × 3 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6869/nova-cat-h) 
 - **Battle Value:** 2452 
 
 ## Availability 

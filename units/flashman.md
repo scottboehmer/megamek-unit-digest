@@ -14,7 +14,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1124/flashman-fls-8k) 
 - **Battle Value:** 1779 
 - [*More Info*](flashman/flashman_fls-8k.md) 
 
@@ -30,7 +30,7 @@
   - Large Laser × 2 
   - Medium Laser × 5 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1123/flashman-fls-7k) 
 - **Battle Value:** 1480 
 - [*More Info*](flashman/flashman_fls-7k.md) 
 
@@ -48,7 +48,7 @@
   - Medium Laser 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1126/flashman-fls-9c) 
 - **Battle Value:** 1779 
 - [*More Info*](flashman/flashman_fls-9c.md) 
 
@@ -66,7 +66,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3 Slave 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1128/flashman-fls-c) 
 - **Battle Value:** 1774 
 - [*More Info*](flashman/flashman_fls-c.md) 
 
@@ -87,7 +87,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1125/flashman-fls-9b) 
 - **Battle Value:** 1600 
 - [*More Info*](flashman/flashman_fls-9b.md) 
 
@@ -104,7 +104,7 @@
   - Medium Pulse Laser × 4 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1127/flashman-fls-9m) 
 - **Battle Value:** 1895 
 - [*More Info*](flashman/flashman_fls-9m.md) 
 

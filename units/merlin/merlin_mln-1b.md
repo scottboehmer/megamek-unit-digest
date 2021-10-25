@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - Flamer 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2178/merlin-mln-1b) 
 - **Battle Value:** 1228 
 
 ## Availability 

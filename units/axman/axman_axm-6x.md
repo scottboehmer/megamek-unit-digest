@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x) 
 - **Battle Value:** 2132 
 
 ## Availability 

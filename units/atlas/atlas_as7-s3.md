@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5461/atlas-as7-s3) 
 - **Battle Value:** 2378 
 
 ## Availability 

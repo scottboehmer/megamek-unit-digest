@@ -15,7 +15,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/364/black-lanner-b) 
 - **Battle Value:** 1961 
 
 ## Availability 

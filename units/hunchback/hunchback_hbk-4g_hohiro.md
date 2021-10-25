@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro) 
 - **Battle Value:** 1126 
 
 ## Availability 

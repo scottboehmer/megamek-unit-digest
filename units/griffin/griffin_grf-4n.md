@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - ER Medium Laser × 3 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n) 
 - **Battle Value:** 1591 
 
 ## Availability 

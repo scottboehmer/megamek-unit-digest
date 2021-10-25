@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8180/fire-falcon-g) 
 - **Battle Value:** 1269 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592/cicada-cda-2b) 
 - **Battle Value:** 626 
 
 ## Availability 

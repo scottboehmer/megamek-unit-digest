@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1982/mad-cat-timber-wolf-e) 
 - **Battle Value:** 2444 
 
 ## Availability 

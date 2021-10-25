@@ -14,7 +14,7 @@
   - Medium Laser 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
   - Wrecking Ball 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7839/demolitionmech-wi-dmm-mod) 
 - **Battle Value:** 444 
 
 ## Availability 

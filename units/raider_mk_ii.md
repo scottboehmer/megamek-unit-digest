@@ -12,7 +12,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 90) 
   - Dual Saw 
-- **Sources:** ED: Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6956/raider-mk-ii-jl-2) 
 - **Battle Value:** 883 
 - [*More Info*](raider_mk_ii/raider_mk_ii_jl-2.md) 
 

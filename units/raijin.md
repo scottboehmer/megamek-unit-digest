@@ -14,7 +14,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 3 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626/raijin-rjn101-a) 
 - **Battle Value:** 1350 
 - [*More Info*](raijin/raijin_rjn101-a.md) 
 
@@ -33,7 +33,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn101-c) 
 - **Battle Value:** 1389 
 - [*More Info*](raijin/raijin_rjn101-c.md) 
 

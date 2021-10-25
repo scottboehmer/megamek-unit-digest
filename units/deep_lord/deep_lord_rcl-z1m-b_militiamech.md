@@ -16,7 +16,7 @@
   - Claw 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7830/deep-lord-rcl-z1m-b-militiamech) 
 - **Battle Value:** 773 
 
 ## Availability 

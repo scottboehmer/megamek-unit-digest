@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1675/javelin-jvn-10n) 
 - **Battle Value:** 594 
 
 ## Availability 

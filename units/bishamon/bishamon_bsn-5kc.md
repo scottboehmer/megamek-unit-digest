@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334/bishamon-bsn-5kc) 
 - **Battle Value:** 1443 
 
 ## Availability 

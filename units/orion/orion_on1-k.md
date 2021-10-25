@@ -15,7 +15,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2332/orion-on1-k) 
 - **Battle Value:** 1429 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - PPC 
   - LRM 10 (ammo: 24) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1256/grand-dragon-drg-1g) 
 - **Battle Value:** 1300 
 
 ## Availability 

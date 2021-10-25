@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Active Probe 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7604/mongoose-c-2) 
 - **Battle Value:** 1620 
 
 ## Availability 

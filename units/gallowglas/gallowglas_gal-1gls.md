@@ -16,7 +16,7 @@
   - Large Laser × 2 
   - Medium Pulse Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1182/gallowglas-gal-1gls) 
 - **Battle Value:** 1695 
 
 ## Availability 

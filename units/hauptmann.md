@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1420/hauptmann-ha1-o) 
 - **Battle Value:** 2157 
 - [*More Info*](hauptmann/hauptmann_ha1-o.md) 
 
@@ -36,7 +36,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1421/hauptmann-ha1-oa) 
 - **Battle Value:** 2311 
 - [*More Info*](hauptmann/hauptmann_ha1-oa.md) 
 
@@ -54,7 +54,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob) 
 - **Battle Value:** 2138 
 - [*More Info*](hauptmann/hauptmann_ha1-ob.md) 
 
@@ -75,7 +75,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc) 
 - **Battle Value:** 2287 
 - [*More Info*](hauptmann/hauptmann_ha1-oc.md) 
 
@@ -96,7 +96,7 @@
   - CASE 
   - C3 Master 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od) 
 - **Battle Value:** 2359 
 - [*More Info*](hauptmann/hauptmann_ha1-od.md) 
 
@@ -114,7 +114,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1425/hauptmann-ha1-oe) 
 - **Battle Value:** 2298 
 - [*More Info*](hauptmann/hauptmann_ha1-oe.md) 
 
@@ -134,7 +134,7 @@
   - Angel ECM Suite 
   - CASE 
   - CASE II 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of) 
 - **Battle Value:** 2484 
 - [*More Info*](hauptmann/hauptmann_ha1-of.md) 
 
@@ -152,7 +152,7 @@
 - **Equipment:** 
   - CASE 
   - C3 BoostedMaster 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6838/hauptmann-ha1-om) 
 - **Battle Value:** 2214 
 - [*More Info*](hauptmann/hauptmann_ha1-om.md) 
 
@@ -171,7 +171,7 @@
 - **Equipment:** 
   - CASE 
   - Clan CASE II 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6837/hauptmann-ha1-ot) 
 - **Battle Value:** 3031 
 - [*More Info*](hauptmann/hauptmann_ha1-ot.md) 
 

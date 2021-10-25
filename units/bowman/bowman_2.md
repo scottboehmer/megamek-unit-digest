@@ -18,7 +18,7 @@
   - ECM Suite 
   - A-Pod × 4 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858/bowman-2) 
 - **Battle Value:** 2567 
 
 ## Availability 

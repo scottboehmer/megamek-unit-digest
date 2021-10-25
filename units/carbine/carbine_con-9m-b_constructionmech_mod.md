@@ -12,7 +12,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - Light AC/5 (ammo: 40) 
-- **Sources:** RS IA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7165/carbine-con-9m-b-constructionmech-mod) 
 - **Battle Value:** 293 
 
 ## Availability 

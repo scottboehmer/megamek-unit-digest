@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Active Probe 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j) 
 - **Battle Value:** 1704 
 
 ## Availability 

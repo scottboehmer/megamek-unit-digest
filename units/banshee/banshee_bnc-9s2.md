@@ -20,7 +20,7 @@
   - CASE 
   - Targeting Computer 
   - C3 Boosted Slave 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6844/banshee-bnc-9s2) 
 - **Battle Value:** 2426 
 
 ## Availability 

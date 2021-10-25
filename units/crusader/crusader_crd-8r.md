@@ -18,7 +18,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8231/crusader-crd-8r) 
 - **Battle Value:** 1600 
 
 ## Availability 

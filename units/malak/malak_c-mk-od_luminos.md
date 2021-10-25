@@ -18,7 +18,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1998/malak-c-mk-od-luminos) 
 - **Battle Value:** 1055 
 
 ## Availability 

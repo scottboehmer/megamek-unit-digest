@@ -23,7 +23,7 @@
   - Machine Gun Array 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k) 
 - **Battle Value:** 1400 
 
 ## Availability 

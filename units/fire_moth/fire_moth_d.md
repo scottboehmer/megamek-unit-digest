@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/841/dasher-fire-moth-d) 
 - **Battle Value:** 2307 
 
 ## Availability 

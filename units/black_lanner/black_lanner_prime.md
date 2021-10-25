@@ -19,7 +19,7 @@
   - ECM Suite 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/369/black-lanner-prime) 
 - **Battle Value:** 2268 
 
 ## Availability 

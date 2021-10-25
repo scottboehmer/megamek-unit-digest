@@ -17,7 +17,7 @@
 - **Equipment:** 
   - A-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2004/man-o-war-gargoyle-c) 
 - **Battle Value:** 2437 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1233/goliath-gol-3s) 
 - **Battle Value:** 1463 
 
 ## Availability 

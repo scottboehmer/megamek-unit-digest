@@ -16,7 +16,7 @@
   - AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1666/jagermech-jm6-dd) 
 - **Battle Value:** 965 
 
 ## Availability 

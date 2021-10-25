@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7740/butcherbird-ion-sparrow-b) 
 - **Battle Value:** 626 
 
 ## Availability 

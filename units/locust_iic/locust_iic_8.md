@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921/locust-iic-8) 
 - **Battle Value:** 1119 
 
 ## Availability 

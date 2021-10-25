@@ -18,7 +18,7 @@
 - **Equipment:** 
   - AES 
   - Shoulder Turret 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5565/dig-lord-rcl-z1-armed-miningmech) 
 - **Battle Value:** 681 
 
 ## Availability 

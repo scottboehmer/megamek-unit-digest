@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun (ammo: 200) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1076/fireball-alm-8d) 
 - **Battle Value:** 574 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Era Digest: Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** Era Digest: Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4283/hector-hor-1b) 
 - **Battle Value:** 949 
 - [*More Info*](hector/hector_hor-1b.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser × 2 
-- **Sources:** Era Digest: Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** Era Digest: Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4284/hector-hor-1c) 
 - **Battle Value:** 993 
 - [*More Info*](hector/hector_hor-1c.md) 
 

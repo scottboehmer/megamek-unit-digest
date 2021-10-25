@@ -17,7 +17,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1338/guillotine-glt-3n) 
 - **Battle Value:** 1418 
 
 ## Availability 

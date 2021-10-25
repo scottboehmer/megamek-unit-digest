@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV × 2 (ammo: 48) 
   - Medium Laser × 3 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1366/hammer-hmr-3m) 
 - **Battle Value:** 787 
 
 ## Availability 

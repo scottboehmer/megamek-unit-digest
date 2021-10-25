@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5) 
 - **Battle Value:** 667 
 
 ## Availability 

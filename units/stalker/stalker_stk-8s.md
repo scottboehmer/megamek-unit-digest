@@ -15,7 +15,7 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044/stalker-stk-8s) 
 - **Battle Value:** 1977 
 
 ## Availability 

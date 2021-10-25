@@ -14,7 +14,7 @@
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 120) 
   - ER Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d) 
 - **Battle Value:** 1777 
 
 ## Availability 

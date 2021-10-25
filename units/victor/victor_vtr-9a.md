@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
   - Flamer × 2 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407/victor-vtr-9a) 
 - **Battle Value:** 1236 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Medium Re-Engineered Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6357/templar-iii-tlr2-od) 
 - **Battle Value:** 2108 
 
 ## Availability 

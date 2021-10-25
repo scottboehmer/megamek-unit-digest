@@ -16,7 +16,7 @@
   - Hatchet 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/438/buccaneer-bcn-6w) 
 - **Battle Value:** 1121 
 
 ## Availability 

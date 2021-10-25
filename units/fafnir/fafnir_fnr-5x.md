@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1021/fafnir-fnr-5x) 
 - **Battle Value:** 2610 
 
 ## Availability 

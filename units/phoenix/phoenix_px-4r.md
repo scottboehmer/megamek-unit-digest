@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2490/phoenix-px-4r) 
 - **Battle Value:** 996 
 
 ## Availability 

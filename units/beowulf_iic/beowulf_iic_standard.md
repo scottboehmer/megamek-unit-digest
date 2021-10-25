@@ -18,7 +18,7 @@
   - Watchdog CEWS 
   - MASC 
   - Light TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard) 
 - **Battle Value:** 2048 
 
 ## Availability 

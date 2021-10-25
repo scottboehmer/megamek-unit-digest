@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Cargo 
   - Lift Hoist 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7168/crosscut-ed-x4b-demolitionmech) 
 - **Battle Value:** 224 
 
 ## Availability 

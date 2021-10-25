@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Clan Talons 
   - Quad Turret 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508/sarath-srth-1ob) 
 - **Battle Value:** 1475 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1187/gallowglas-gal-4glsa) 
 - **Battle Value:** 2017 
 
 ## Availability 

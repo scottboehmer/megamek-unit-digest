@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2) 
 - **Battle Value:** 1989 
 
 ## Availability 

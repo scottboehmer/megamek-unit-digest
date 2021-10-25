@@ -20,7 +20,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** JTP Tharkad , [Master Unit List](Master Unit List) 
+- **Sources:** JTP Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/916/dragon-fire-dgr-6fc2-gregory) 
 - **Battle Value:** 2230 
 
 ## Availability 

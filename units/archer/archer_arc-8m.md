@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/86/archer-arc-8m) 
 - **Battle Value:** 1759 
 
 ## Availability 

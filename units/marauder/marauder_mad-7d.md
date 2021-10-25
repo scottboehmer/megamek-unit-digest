@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d) 
 - **Battle Value:** 1986 
 
 ## Availability 

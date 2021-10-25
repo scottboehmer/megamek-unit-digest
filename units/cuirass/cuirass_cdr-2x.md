@@ -16,7 +16,7 @@
   - Heavy PPC 
   - Medium Vibroblade 
   - Small Re-Engineered Laser 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6921/cuirass-cdr-2x) 
 - **Battle Value:** 1227 
 
 ## Availability 

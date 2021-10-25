@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Rocket 10 × 5 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/564/charger-cgr-2a2) 
 - **Battle Value:** 1109 
 
 ## Availability 

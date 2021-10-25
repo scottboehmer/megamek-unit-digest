@@ -14,7 +14,7 @@
   - PPC 
   - AC/10 (ammo: 10) 
   - Medium Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c) 
 - **Battle Value:** 1204 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7183/rifleman-rfl-1n) 
 - **Battle Value:** 931 
 
 ## Availability 

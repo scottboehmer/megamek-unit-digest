@@ -17,7 +17,7 @@
   - Snub-Nose PPC 
   - Large Pulse Laser 
   - ER Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/301/battlemaster-blr-k4) 
 - **Battle Value:** 2232 
 
 ## Availability 

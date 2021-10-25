@@ -18,7 +18,7 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1752/karhu-prime) 
 - **Battle Value:** 2484 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/291/battlemaster-blr-3m) 
 - **Battle Value:** 1679 
 
 ## Availability 

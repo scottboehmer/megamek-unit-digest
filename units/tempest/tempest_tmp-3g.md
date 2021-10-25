@@ -16,7 +16,7 @@
   - Large Pulse Laser 
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5188/tempest-tmp-3g) 
 - **Battle Value:** 1810 
 
 ## Availability 

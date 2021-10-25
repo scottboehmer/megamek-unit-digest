@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser × 3 
   - Medium Laser 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5874/lancelot-lnc25-01sl) 
 - **Battle Value:** 1546 
 
 ## Availability 

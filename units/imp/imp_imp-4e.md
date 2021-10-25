@@ -18,7 +18,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1611/imp-imp-4e) 
 - **Battle Value:** 2263 
 
 ## Availability 

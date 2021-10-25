@@ -18,7 +18,7 @@
   - C3 Slave 
   - CASE 
   - MASC 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1261/grand-dragon-drg-7k-mark) 
 - **Battle Value:** 1817 
 
 ## Availability 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3560/wolfhound-wlf-1) 
 - **Battle Value:** 949 
 - [*More Info*](wolfhound/wolfhound_wlf-1.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3561/wolfhound-wlf-1a) 
 - **Battle Value:** 967 
 - [*More Info*](wolfhound/wolfhound_wlf-1a.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3562/wolfhound-wlf-1b) 
 - **Battle Value:** 967 
 - [*More Info*](wolfhound/wolfhound_wlf-1b.md) 
 
@@ -56,7 +56,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3563/wolfhound-wlf-2) 
 - **Battle Value:** 1061 
 - [*More Info*](wolfhound/wolfhound_wlf-2.md) 
 
@@ -74,7 +74,7 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - Clan Targeting Computer 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5416/wolfhound-wlf-1-allard) 
 - **Battle Value:** 1941 
 - [*More Info*](wolfhound/wolfhound_wlf-1_allard.md) 
 
@@ -90,7 +90,7 @@
   - ER PPC 
   - ER Medium Laser × 3 
   - ER Small Laser 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3566/wolfhound-wlf-3s) 
 - **Battle Value:** 1176 
 - [*More Info*](wolfhound/wolfhound_wlf-3s.md) 
 
@@ -106,7 +106,7 @@
   - Light PPC × 3 
   - ER Medium Laser 
   - ER Small Laser 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3567/wolfhound-wlf-4w) 
 - **Battle Value:** 1090 
 - [*More Info*](wolfhound/wolfhound_wlf-4w.md) 
 
@@ -122,7 +122,7 @@
   - Light PPC × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3568/wolfhound-wlf-4wa) 
 - **Battle Value:** 1050 
 - [*More Info*](wolfhound/wolfhound_wlf-4wa.md) 
 
@@ -141,7 +141,7 @@
 - **Equipment:** 
   - AES 
   - Supercharger 
-- **Sources:** XTR Mercs - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3564/wolfhound-wlf-2x) 
 - **Battle Value:** 1842 
 - [*More Info*](wolfhound/wolfhound_wlf-2x.md) 
 
@@ -155,7 +155,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3565/wolfhound-wlf-3m) 
 - **Battle Value:** 786 
 - [*More Info*](wolfhound/wolfhound_wlf-3m.md) 
 
@@ -172,7 +172,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5) 
 - **Battle Value:** 1290 
 - [*More Info*](wolfhound/wolfhound_wlf-5.md) 
 
@@ -208,7 +208,7 @@
   - Small X-Pulse Laser 
 - **Equipment:** 
   - AES 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223/wolfhound-wlf-6s) 
 - **Battle Value:** 1266 
 - [*More Info*](wolfhound/wolfhound_wlf-6s.md) 
 

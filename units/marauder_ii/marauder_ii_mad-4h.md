@@ -17,7 +17,7 @@
   - Rocket 20 × 4 
   - Rocket 15 × 6 
   - Rocket 10 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
 - **Battle Value:** 2180 
 
 ## Availability 

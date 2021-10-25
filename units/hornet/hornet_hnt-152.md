@@ -15,7 +15,7 @@
   - Medium Laser 
   - SRM 4 (ammo: 25) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1546/hornet-hnt-152) 
 - **Battle Value:** 475 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Combine 
 - **Equipment:** 
   - Mine Dispenser × 4 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7864/harvester-hvr-199m-m-agromech-mod) 
 - **Battle Value:** 438 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Large Laser × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/545/chameleon-cln-7z) 
 - **Battle Value:** 1527 
 
 ## Availability 

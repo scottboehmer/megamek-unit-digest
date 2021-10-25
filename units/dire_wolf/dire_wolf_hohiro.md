@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/812/daishi-dire-wolf-hohiro) 
 - **Battle Value:** 3048 
 
 ## Availability 

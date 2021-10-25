@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Streak SRM 2 × 4 (ammo: 50) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/377/blackjack-bj-2) 
 - **Battle Value:** 1148 
 
 ## Availability 

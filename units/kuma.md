@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Heavy Large Laser 
   - ER Medium Laser × 2 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849/kuma-standard) 
 - **Battle Value:** 1952 
 - [*More Info*](kuma/kuma_standard.md) 
 
@@ -31,7 +31,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847/kuma-2) 
 - **Battle Value:** 2309 
 - [*More Info*](kuma/kuma_2.md) 
 
@@ -44,7 +44,7 @@
   - **Jumping:** 10 
 - **Armor:** 86 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1848/kuma-3) 
 - **Battle Value:** 625 
 - [*More Info*](kuma/kuma_3.md) 
 
@@ -62,7 +62,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - HarJel II × 5 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6888/kuma-4) 
 - **Battle Value:** 1865 
 - [*More Info*](kuma/kuma_4.md) 
 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - TAG 
-- **Sources:** Rhonda's Irregulars - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Rhonda's Irregulars - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2994/spartan-spt-n1) 
 - **Battle Value:** 1498 
 - [*More Info*](spartan/spartan_spt-n1.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - TAG 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2995/spartan-spt-n2) 
 - **Battle Value:** 1605 
 - [*More Info*](spartan/spartan_spt-n2.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2997/spartan-spt-nf) 
 - **Battle Value:** 1605 
 - [*More Info*](spartan/spartan_spt-nf.md) 
 
@@ -71,7 +71,7 @@
   - Streak SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646/spartan-c) 
 - **Battle Value:** 2514 
 - [*More Info*](spartan/spartan_c.md) 
 
@@ -90,7 +90,7 @@
 - **Equipment:** 
   - TAG 
   - C3i 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2996/spartan-spt-n3) 
 - **Battle Value:** 1631 
 - [*More Info*](spartan/spartan_spt-n3.md) 
 

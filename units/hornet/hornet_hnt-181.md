@@ -17,7 +17,7 @@
   - Small Re-Engineered Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181) 
 - **Battle Value:** 398 
 
 ## Availability 

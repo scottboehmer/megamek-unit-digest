@@ -14,7 +14,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2563/pouncer-prime) 
 - **Battle Value:** 2557 
 - [*More Info*](pouncer/pouncer_prime.md) 
 
@@ -33,7 +33,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2557/pouncer-a) 
 - **Battle Value:** 2081 
 - [*More Info*](pouncer/pouncer_a.md) 
 
@@ -52,7 +52,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2558/pouncer-b) 
 - **Battle Value:** 1836 
 - [*More Info*](pouncer/pouncer_b.md) 
 
@@ -71,7 +71,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2559/pouncer-c) 
 - **Battle Value:** 1653 
 - [*More Info*](pouncer/pouncer_c.md) 
 
@@ -91,7 +91,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2560/pouncer-d) 
 - **Battle Value:** 2246 
 - [*More Info*](pouncer/pouncer_d.md) 
 
@@ -110,7 +110,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2561/pouncer-e) 
 - **Battle Value:** 1632 
 - [*More Info*](pouncer/pouncer_e.md) 
 
@@ -130,7 +130,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2562/pouncer-h) 
 - **Battle Value:** 1784 
 - [*More Info*](pouncer/pouncer_h.md) 
 
@@ -152,7 +152,7 @@
   - Active Probe 
   - CASE 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850/pouncer-f) 
 - **Battle Value:** 1308 
 - [*More Info*](pouncer/pouncer_f.md) 
 

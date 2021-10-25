@@ -17,7 +17,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517/phoenix-hawk-iic-7) 
 - **Battle Value:** 2219 
 
 ## Availability 

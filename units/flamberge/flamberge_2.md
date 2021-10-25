@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - Partial Wing 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1114/flamberge-2) 
 - **Battle Value:** 2468 
 
 ## Availability 

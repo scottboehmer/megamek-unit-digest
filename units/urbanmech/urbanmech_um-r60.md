@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354/urbanmech-um-r60) 
 - **Battle Value:** 504 
 
 ## Availability 

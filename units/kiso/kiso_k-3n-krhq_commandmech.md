@@ -19,7 +19,7 @@
   - Lift Hoist 
   - Collapsible Command Module 
   - Cargo Container × 2 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773/kiso-k-3n-krhq-commandmech) 
 - **Battle Value:** 940 
 
 ## Availability 

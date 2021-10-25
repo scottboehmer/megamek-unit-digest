@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/10 × 2 (ammo: 20) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2695/rifleman-rfl-3c) 
 - **Battle Value:** 1066 
 
 ## Availability 

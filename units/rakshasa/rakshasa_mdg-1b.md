@@ -15,7 +15,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Pulse Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2633/rakshasa-mdg-1b) 
 - **Battle Value:** 1748 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ECM Suite 
   - MASC 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/60/arbalest-2) 
 - **Battle Value:** 1098 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416/victor-vtr-cr) 
 - **Battle Value:** 1465 
 
 ## Availability 

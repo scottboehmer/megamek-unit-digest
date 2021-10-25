@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Light PPC 
   - ER Medium Laser × 3 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5654/brigand-ldt-x4) 
 - **Battle Value:** 1038 
 
 ## Availability 

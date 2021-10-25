@@ -16,7 +16,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Medium Pulse Laser 
   - Medium Laser 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3691/akuma-aku-1x) 
 - **Battle Value:** 1959 
 - [*More Info*](akuma/akuma_aku-1x.md) 
 
@@ -35,7 +35,7 @@
   - ER Large Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3692/akuma-aku-1xj) 
 - **Battle Value:** 2203 
 - [*More Info*](akuma/akuma_aku-1xj.md) 
 
@@ -79,7 +79,7 @@
   - Coolant Pod 
   - CASE 
   - C3 Boosted Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22/akuma-aku-2xc) 
 - **Battle Value:** 2134 
 - [*More Info*](akuma/akuma_aku-2xc.md) 
 
@@ -102,7 +102,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5714/akuma-aku-2xk) 
 - **Battle Value:** 2170 
 - [*More Info*](akuma/akuma_aku-2xk.md) 
 

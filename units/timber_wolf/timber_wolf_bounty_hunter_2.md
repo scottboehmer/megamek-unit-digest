@@ -22,7 +22,7 @@
   - Targeting Computer 
   - CASE 
   - Coolant Pod 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5803/mad-cat-timber-wolf-bounty-hunter-2) 
 - **Battle Value:** 2799 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - MASC 
   - CASE 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7577/dasher-fire-moth-t) 
 - **Battle Value:** 1305 
 
 ## Availability 

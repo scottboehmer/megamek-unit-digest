@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14) 
 - **Battle Value:** 270 
 
 ## Availability 

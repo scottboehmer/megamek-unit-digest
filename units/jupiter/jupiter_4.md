@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6829/jupiter-4) 
 - **Battle Value:** 2955 
 
 ## Availability 

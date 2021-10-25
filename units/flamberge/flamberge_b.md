@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1117/flamberge-b) 
 - **Battle Value:** 2750 
 
 ## Availability 

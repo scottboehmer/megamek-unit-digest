@@ -15,7 +15,7 @@
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7181/swordsman-swd-1) 
 - **Battle Value:** 692 
 
 ## Availability 

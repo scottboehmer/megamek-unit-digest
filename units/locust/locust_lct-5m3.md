@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - ER Medium Laser × 2 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6948/locust-lct-5m3) 
 - **Battle Value:** 929 
 
 ## Availability 

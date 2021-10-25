@@ -17,7 +17,7 @@
 - **Equipment:** 
   - B-Pod × 2 
   - C3 Slave 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox) 
 - **Battle Value:** 1761 
 
 ## Availability 

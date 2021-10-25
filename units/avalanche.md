@@ -14,7 +14,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6396/avalanche-avl-1o) 
 - **Battle Value:** 1540 
 - [*More Info*](avalanche/avalanche_avl-1o.md) 
 
@@ -33,7 +33,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6397/avalanche-avl-1oa) 
 - **Battle Value:** 1484 
 - [*More Info*](avalanche/avalanche_avl-1oa.md) 
 
@@ -52,7 +52,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6398/avalanche-avl-1ob) 
 - **Battle Value:** 1529 
 - [*More Info*](avalanche/avalanche_avl-1ob.md) 
 
@@ -71,7 +71,7 @@
   - Small X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6399/avalanche-avl-1oc) 
 - **Battle Value:** 1341 
 - [*More Info*](avalanche/avalanche_avl-1oc.md) 
 
@@ -90,7 +90,7 @@
 - **Equipment:** 
   - CASE 
   - Clan Targeting Computer 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6400/avalanche-avl-1on) 
 - **Battle Value:** 1873 
 - [*More Info*](avalanche/avalanche_avl-1on.md) 
 
@@ -109,7 +109,7 @@
   - Clan ATM 3 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6401/avalanche-avl-1or) 
 - **Battle Value:** 2043 
 - [*More Info*](avalanche/avalanche_avl-1or.md) 
 

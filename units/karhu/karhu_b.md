@@ -18,7 +18,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b) 
 - **Battle Value:** 2787 
 
 ## Availability 

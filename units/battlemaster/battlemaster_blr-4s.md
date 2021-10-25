@@ -18,7 +18,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/294/battlemaster-blr-4s) 
 - **Battle Value:** 2018 
 
 ## Availability 

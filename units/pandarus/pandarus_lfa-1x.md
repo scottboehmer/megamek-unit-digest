@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2412/pandarus-lfa-1x) 
 - **Battle Value:** 1486 
 
 ## Availability 

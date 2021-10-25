@@ -19,7 +19,7 @@
   - MASC 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7) 
 - **Battle Value:** 2876 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE 
   - TAG 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1118/flamberge-c) 
 - **Battle Value:** 2126 
 
 ## Availability 

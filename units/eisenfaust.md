@@ -13,7 +13,7 @@
   - Large Laser 
   - AC/10 (ammo: 10) 
   - Medium Laser × 2 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5618/eisenfaust-eft-2) 
 - **Battle Value:** 715 
 - [*More Info*](eisenfaust/eisenfaust_eft-2.md) 
 
@@ -30,7 +30,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/944/eisenfaust-eft-4j) 
 - **Battle Value:** 977 
 - [*More Info*](eisenfaust/eisenfaust_eft-4j.md) 
 
@@ -47,7 +47,7 @@
   - ER Large Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/945/eisenfaust-eft-7x) 
 - **Battle Value:** 1203 
 - [*More Info*](eisenfaust/eisenfaust_eft-7x.md) 
 
@@ -64,7 +64,7 @@
   - Medium VSP Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/946/eisenfaust-eft-8x) 
 - **Battle Value:** 1039 
 - [*More Info*](eisenfaust/eisenfaust_eft-8x.md) 
 

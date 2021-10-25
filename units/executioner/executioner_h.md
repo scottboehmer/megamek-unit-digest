@@ -20,7 +20,7 @@
   - MASC 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1208/gladiator-executioner-h) 
 - **Battle Value:** 3059 
 
 ## Availability 

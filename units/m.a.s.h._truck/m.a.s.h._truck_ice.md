@@ -11,8 +11,7 @@
 - **Armor:** 72 
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
-  - MASH 
-  - MASH Extra Theater × 4 
+  - MASH (1 theaters) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1970/mash-truck-ice) 
 - **Battle Value:** 213 
 

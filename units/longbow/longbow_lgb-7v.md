@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1937/longbow-lgb-7v) 
 - **Battle Value:** 1816 
 
 ## Availability 

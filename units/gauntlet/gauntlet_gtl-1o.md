@@ -17,7 +17,7 @@
   - MASC 
   - CASE 
   - Supercharger 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6621/gauntlet-gtl-1o) 
 - **Battle Value:** 1846 
 
 ## Availability 

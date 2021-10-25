@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s) 
 - **Battle Value:** 1929 
 
 ## Availability 

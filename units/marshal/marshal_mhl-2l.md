@@ -18,7 +18,7 @@
   - Medium Laser 
   - Flamer 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l) 
 - **Battle Value:** 1313 
 
 ## Availability 

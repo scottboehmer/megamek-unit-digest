@@ -11,7 +11,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Large Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1687/jenner-jr7-a) 
 - **Battle Value:** 712 
 - [*More Info*](jenner/jenner_jr7-a.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1693/jenner-jr7-f) 
 - **Battle Value:** 1011 
 - [*More Info*](jenner/jenner_jr7-f.md) 
 
@@ -42,7 +42,7 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1692/jenner-jr7-d) 
 - **Battle Value:** 875 
 - [*More Info*](jenner/jenner_jr7-d.md) 
 
@@ -56,7 +56,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7796/jenner-jr7-f-smith) 
 - **Battle Value:** 1070 
 - [*More Info*](jenner/jenner_jr7-f_smith.md) 
 
@@ -72,7 +72,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Narc (ammo: 18) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1696/jenner-jr7-k-grace) 
 - **Battle Value:** 702 
 - [*More Info*](jenner/jenner_jr7-k_grace.md) 
 
@@ -90,7 +90,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1694/jenner-jr7-k) 
 - **Battle Value:** 889 
 - [*More Info*](jenner/jenner_jr7-k.md) 
 
@@ -109,7 +109,7 @@
 - **Equipment:** 
   - C3 Slave 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1688/jenner-jr7-c) 
 - **Battle Value:** 832 
 - [*More Info*](jenner/jenner_jr7-c.md) 
 
@@ -145,7 +145,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1695/jenner-jr7-k-grace-ii) 
 - **Battle Value:** 787 
 - [*More Info*](jenner/jenner_jr7-k_grace_ii.md) 
 
@@ -162,7 +162,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1690/jenner-jr7-c3) 
 - **Battle Value:** 1069 
 - [*More Info*](jenner/jenner_jr7-c3.md) 
 
@@ -182,7 +182,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1689/jenner-jr7-c2) 
 - **Battle Value:** 769 
 - [*More Info*](jenner/jenner_jr7-c2.md) 
 
@@ -202,7 +202,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Null-Signature System 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1686/jenner-jr10-x) 
 - **Battle Value:** 1269 
 - [*More Info*](jenner/jenner_jr10-x.md) 
 
@@ -221,7 +221,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4) 
 - **Battle Value:** 703 
 - [*More Info*](jenner/jenner_jr7-c4.md) 
 
@@ -240,7 +240,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8247/jenner-jr7-n) 
 - **Battle Value:** 1233 
 - [*More Info*](jenner/jenner_jr7-n.md) 
 

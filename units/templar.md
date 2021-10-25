@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5191/templar-tlr1-o) 
 - **Battle Value:** 2045 
 - [*More Info*](templar/templar_tlr1-o.md) 
 
@@ -38,7 +38,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5195/templar-tlr1-oa) 
 - **Battle Value:** 2070 
 - [*More Info*](templar/templar_tlr1-oa.md) 
 
@@ -56,7 +56,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5196/templar-tlr1-ob) 
 - **Battle Value:** 1806 
 - [*More Info*](templar/templar_tlr1-ob.md) 
 
@@ -76,7 +76,7 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5197/templar-tlr1-oc) 
 - **Battle Value:** 2063 
 - [*More Info*](templar/templar_tlr1-oc.md) 
 
@@ -114,7 +114,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Master 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5708/templar-tlr1-oe) 
 - **Battle Value:** 1865 
 - [*More Info*](templar/templar_tlr1-oe.md) 
 
@@ -134,7 +134,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5192/templar-tlr1-o-grayson) 
 - **Battle Value:** 1868 
 - [*More Info*](templar/templar_tlr1-o_grayson.md) 
 
@@ -153,7 +153,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5193/templar-tlr1-o-tancred) 
 - **Battle Value:** 2273 
 - [*More Info*](templar/templar_tlr1-o_tancred.md) 
 
@@ -174,7 +174,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Master 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5709/templar-tlr1-of) 
 - **Battle Value:** 2029 
 - [*More Info*](templar/templar_tlr1-of.md) 
 
@@ -193,7 +193,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5710/templar-tlr1-og) 
 - **Battle Value:** 1632 
 - [*More Info*](templar/templar_tlr1-og.md) 
 
@@ -215,7 +215,7 @@
   - HarJel × 4 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3171/templar-tlr1-ou) 
 - **Battle Value:** 1747 
 - [*More Info*](templar/templar_tlr1-ou.md) 
 
@@ -254,7 +254,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5712/templar-tlr1-oi) 
 - **Battle Value:** 2202 
 - [*More Info*](templar/templar_tlr1-oi.md) 
 
@@ -276,7 +276,7 @@
   - Targeting Computer 
   - C3i 
   - CASE 
-- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](Master Unit List) 
+- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo) 
 - **Battle Value:** 2062 
 - [*More Info*](templar/templar_tlr1-oblo.md) 
 
@@ -295,7 +295,7 @@
 - **Equipment:** 
   - CASE 
   - Clan CASE II 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6852/templar-tlr1-or) 
 - **Battle Value:** 2423 
 - [*More Info*](templar/templar_tlr1-or.md) 
 

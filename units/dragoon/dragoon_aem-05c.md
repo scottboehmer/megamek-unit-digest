@@ -19,7 +19,7 @@
   - Angel ECM Suite 
   - C3i 
   - CASE II 
-- **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7399/dragoon-aem-05c) 
 - **Battle Value:** 1893 
 
 ## Availability 

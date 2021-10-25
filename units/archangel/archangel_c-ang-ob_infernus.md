@@ -18,7 +18,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/67/archangel-c-ang-ob-infernus) 
 - **Battle Value:** 2069 
 
 ## Availability 

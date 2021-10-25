@@ -16,7 +16,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Command Console 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/286/battlemaster-blr-1gbc) 
 - **Battle Value:** 1825 
 
 ## Availability 

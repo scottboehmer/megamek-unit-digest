@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3134/supernova-3) 
 - **Battle Value:** 3448 
 
 ## Availability 

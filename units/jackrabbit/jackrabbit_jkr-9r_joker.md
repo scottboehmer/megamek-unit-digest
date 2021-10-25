@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1657/jackrabbit-jkr-9r-joker) 
 - **Battle Value:** 614 
 
 ## Availability 

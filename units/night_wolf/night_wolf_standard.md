@@ -21,7 +21,7 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2273/night-wolf-standard) 
 - **Battle Value:** 2878 
 
 ## Availability 

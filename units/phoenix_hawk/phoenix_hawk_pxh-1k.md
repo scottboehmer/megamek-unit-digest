@@ -14,7 +14,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k) 
 - **Battle Value:** 1073 
 
 ## Availability 

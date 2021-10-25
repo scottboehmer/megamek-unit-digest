@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 8 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1558/hunchback-hbk-4p) 
 - **Battle Value:** 1138 
 
 ## Availability 

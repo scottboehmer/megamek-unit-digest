@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - Coolant Pod × 2 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6422/tenshi-tn-10-oa) 
 - **Battle Value:** 1829 
 
 ## Availability 

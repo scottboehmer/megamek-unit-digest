@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1113/firestarter-fs9-s1) 
 - **Battle Value:** 820 
 
 ## Availability 

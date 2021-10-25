@@ -18,7 +18,7 @@
   - Inner Sphere Null-Signature System 
   - Inner Sphere Chameleon LPS 
   - CASE 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5642/cephalus-u) 
 - **Battle Value:** 878 
 
 ## Availability 

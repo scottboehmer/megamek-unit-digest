@@ -19,7 +19,7 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2167/men-shen-ms1-ou) 
 - **Battle Value:** 1725 
 
 ## Availability 

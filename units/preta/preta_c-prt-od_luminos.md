@@ -18,7 +18,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2577/preta-c-prt-od-luminos) 
 - **Battle Value:** 1158 
 
 ## Availability 

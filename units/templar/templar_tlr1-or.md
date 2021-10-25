@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Clan CASE II 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6852/templar-tlr1-or) 
 - **Battle Value:** 2423 
 
 ## Availability 

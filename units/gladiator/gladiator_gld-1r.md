@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1198/gladiator-gld-1r) 
 - **Battle Value:** 1027 
 
 ## Availability 

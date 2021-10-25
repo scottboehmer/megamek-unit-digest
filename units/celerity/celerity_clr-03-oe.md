@@ -18,7 +18,7 @@
 - **Equipment:** 
   - MASC 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6708/celerity-clr-03-oe) 
 - **Battle Value:** 921 
 
 ## Availability 

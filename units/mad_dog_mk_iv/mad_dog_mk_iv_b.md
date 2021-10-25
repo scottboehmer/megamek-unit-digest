@@ -17,7 +17,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6560/vulture-mk-iv-mad-dog-mk-iv-b) 
 - **Battle Value:** 2649 
 
 ## Availability 

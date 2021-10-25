@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2048/marauder-mad-9m2) 
 - **Battle Value:** 1875 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401/hatamoto-chi-htm-28t) 
 - **Battle Value:** 2039 
 
 ## Availability 

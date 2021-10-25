@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
   - ER Medium Laser × 4 
   - Flamer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/214/balius-d) 
 - **Battle Value:** 2417 
 
 ## Availability 

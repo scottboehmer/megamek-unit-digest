@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Coolant Pod 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825/xanthos-xnt-6o) 
 - **Battle Value:** 2320 
 
 ## Availability 

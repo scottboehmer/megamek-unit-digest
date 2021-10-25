@@ -15,7 +15,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2488/phoenix-px-1r) 
 - **Battle Value:** 917 
 
 ## Availability 

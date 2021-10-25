@@ -19,7 +19,7 @@
   - Clan ER Small Pulse Laser × 2 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2581/prowler-pwr-1x) 
 - **Battle Value:** 2019 
 
 ## Availability 

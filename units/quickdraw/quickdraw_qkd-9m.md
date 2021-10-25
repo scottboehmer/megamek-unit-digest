@@ -18,7 +18,7 @@
   - CASE II 
   - Targeting Computer 
   - TAG 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6887/quickdraw-qkd-9m) 
 - **Battle Value:** 1690 
 
 ## Availability 

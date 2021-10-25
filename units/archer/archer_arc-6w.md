@@ -14,7 +14,7 @@
   - Medium Laser × 4 
   - Rocket 20 × 8 
   - Rocket 10 × 2 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/83/archer-arc-6w) 
 - **Battle Value:** 1405 
 
 ## Availability 

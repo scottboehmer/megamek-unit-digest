@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932/longbow-lgb-12r) 
 - **Battle Value:** 1979 
 
 ## Availability 

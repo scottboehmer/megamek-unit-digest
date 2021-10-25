@@ -18,7 +18,7 @@
   - Medium Laser 
   - Flamer 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6895/marshal-mhl-3mc) 
 - **Battle Value:** 1714 
 
 ## Availability 

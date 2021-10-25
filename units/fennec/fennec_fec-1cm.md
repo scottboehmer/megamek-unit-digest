@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036/fennec-fec-1cm) 
 - **Battle Value:** 1395 
 
 ## Availability 

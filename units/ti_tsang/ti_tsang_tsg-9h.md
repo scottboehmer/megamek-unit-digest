@@ -18,7 +18,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254/ti-tsang-tsg-9h) 
 - **Battle Value:** 1880 
 
 ## Availability 

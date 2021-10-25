@@ -16,7 +16,7 @@
   - Anti-Missile System × 2 (ammo: 48) 
   - Active Probe 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2715/rifleman-iic-6) 
 - **Battle Value:** 2220 
 
 ## Availability 

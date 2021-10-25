@@ -14,7 +14,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Heavy PPC 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6451/gun-gn-2oa) 
 - **Battle Value:** 685 
 
 ## Availability 

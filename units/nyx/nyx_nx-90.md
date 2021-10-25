@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - Lance × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2309/nyx-nx-90) 
 - **Battle Value:** 613 
 
 ## Availability 

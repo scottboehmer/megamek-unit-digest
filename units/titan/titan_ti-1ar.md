@@ -16,7 +16,7 @@
   - SRM 4 × 5 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6826/titan-ti-1ar) 
 - **Battle Value:** 2165 
 
 ## Availability 

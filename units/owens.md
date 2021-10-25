@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2384/owens-ow-1) 
 - **Battle Value:** 839 
 - [*More Info*](owens/owens_ow-1.md) 
 
@@ -36,7 +36,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2385/owens-ow-1a) 
 - **Battle Value:** 680 
 - [*More Info*](owens/owens_ow-1a.md) 
 
@@ -55,7 +55,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2386/owens-ow-1b) 
 - **Battle Value:** 752 
 - [*More Info*](owens/owens_ow-1b.md) 
 
@@ -74,7 +74,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2387/owens-ow-1c) 
 - **Battle Value:** 964 
 - [*More Info*](owens/owens_ow-1c.md) 
 
@@ -93,7 +93,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2388/owens-ow-1d) 
 - **Battle Value:** 655 
 - [*More Info*](owens/owens_ow-1d.md) 
 
@@ -112,7 +112,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2391/owens-ow-1r) 
 - **Battle Value:** 1215 
 - [*More Info*](owens/owens_ow-1r.md) 
 
@@ -132,7 +132,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2389/owens-ow-1e) 
 - **Battle Value:** 833 
 - [*More Info*](owens/owens_ow-1e.md) 
 
@@ -154,7 +154,7 @@
   - TAG 
   - C3 Slave 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2390/owens-ow-1f) 
 - **Battle Value:** 933 
 - [*More Info*](owens/owens_ow-1f.md) 
 
@@ -173,7 +173,7 @@
   - TAG 
   - C3 Slave 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6924/owens-ow-1g) 
 - **Battle Value:** 1761 
 - [*More Info*](owens/owens_ow-1g.md) 
 

@@ -23,7 +23,7 @@
   - Laser Anti-Missile System 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781/nobori-nin-huntsman-t) 
 - **Battle Value:** 2105 
 
 ## Availability 

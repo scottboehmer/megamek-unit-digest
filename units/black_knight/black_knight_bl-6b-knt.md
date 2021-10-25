@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/357/black-knight-bl-6b-knt) 
 - **Battle Value:** 1627 
 
 ## Availability 

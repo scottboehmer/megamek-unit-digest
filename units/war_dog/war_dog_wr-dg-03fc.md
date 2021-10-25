@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3477/war-dog-wr-dg-03fc) 
 - **Battle Value:** 1962 
 
 ## Availability 

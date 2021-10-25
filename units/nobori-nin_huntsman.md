@@ -21,7 +21,7 @@
   - Inner Sphere A-Pod × 2 
   - CASE 
   - TAG 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2296/nobori-nin-huntsman-prime) 
 - **Battle Value:** 2108 
 - [*More Info*](huntsman/huntsman_prime.md) 
 
@@ -40,7 +40,7 @@
   - LB 2-X AC (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2289/nobori-nin-huntsman-a) 
 - **Battle Value:** 2034 
 - [*More Info*](huntsman/huntsman_a.md) 
 
@@ -60,7 +60,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2290/nobori-nin-huntsman-b) 
 - **Battle Value:** 2156 
 - [*More Info*](huntsman/huntsman_b.md) 
 
@@ -83,7 +83,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2291/nobori-nin-huntsman-c) 
 - **Battle Value:** 2199 
 - [*More Info*](huntsman/huntsman_c.md) 
 
@@ -103,7 +103,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2292/nobori-nin-huntsman-d) 
 - **Battle Value:** 2007 
 - [*More Info*](huntsman/huntsman_d.md) 
 
@@ -124,7 +124,7 @@
   - ECM Suite 
   - Active Probe 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294/nobori-nin-huntsman-h) 
 - **Battle Value:** 2495 
 - [*More Info*](huntsman/huntsman_h.md) 
 
@@ -145,7 +145,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2295/nobori-nin-huntsman-n) 
 - **Battle Value:** 2556 
 - [*More Info*](huntsman/huntsman_n.md) 
 
@@ -168,7 +168,7 @@
   - Light Active Probe 
   - Light TAG 
   - CASE 
-- **Sources:** ilClan Vol 12 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7782/nobori-nin-huntsman-e) 
 - **Battle Value:** 2104 
 - [*More Info*](huntsman/huntsman_e.md) 
 
@@ -188,7 +188,7 @@
   - ER Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784/nobori-nin-huntsman-i) 
 - **Battle Value:** 2277 
 - [*More Info*](huntsman/huntsman_i.md) 
 
@@ -209,7 +209,7 @@
   - Targeting Computer 
   - Inner Sphere Radical Heat Sink System 
   - CASE II 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6904/nobori-nin-huntsman-f) 
 - **Battle Value:** 2367 
 - [*More Info*](huntsman/huntsman_f.md) 
 
@@ -232,7 +232,7 @@
   - Supercharger 
   - Targeting Computer 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783/nobori-nin-huntsman-g) 
 - **Battle Value:** 2377 
 - [*More Info*](huntsman/huntsman_g.md) 
 
@@ -257,7 +257,7 @@
   - Laser Anti-Missile System 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781/nobori-nin-huntsman-t) 
 - **Battle Value:** 2105 
 - [*More Info*](huntsman/huntsman_t.md) 
 

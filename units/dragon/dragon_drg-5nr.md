@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/912/dragon-drg-5nr) 
 - **Battle Value:** 1252 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER PPC 
   - Medium Pulse Laser × 5 
   - ER Small Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606/xanthos-xnt-5o) 
 - **Battle Value:** 2146 
 
 ## Availability 

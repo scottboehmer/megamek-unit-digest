@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/751/crusader-crd-3l) 
 - **Battle Value:** 1297 
 
 ## Availability 

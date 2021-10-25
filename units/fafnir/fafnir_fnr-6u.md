@@ -15,7 +15,7 @@
   - Light PPC × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5720/fafnir-fnr-6u) 
 - **Battle Value:** 2234 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Chainsaw 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7466/crosscut-ed-x4k-loggermech) 
 - **Battle Value:** 367 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/490/cauldron-born-ebon-jaguar-a) 
 - **Battle Value:** 2429 
 
 ## Availability 

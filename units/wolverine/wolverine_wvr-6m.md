@@ -15,7 +15,7 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m) 
 - **Battle Value:** 1291 
 
 ## Availability 

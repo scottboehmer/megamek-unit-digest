@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 400) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4) 
 - **Battle Value:** 2601 
 - [*More Info*](stone_rhino/stone_rhino_4.md) 
 
@@ -33,7 +33,7 @@
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3815/behemoth-stone-rhino-5) 
 - **Battle Value:** 2151 
 - [*More Info*](stone_rhino/stone_rhino_5.md) 
 
@@ -52,7 +52,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard) 
 - **Battle Value:** 3001 
 - [*More Info*](stone_rhino/stone_rhino_standard.md) 
 
@@ -68,7 +68,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 14 
   - ER Small Laser 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3816/behemoth-stone-rhino-6) 
 - **Battle Value:** 2981 
 - [*More Info*](stone_rhino/stone_rhino_6.md) 
 
@@ -85,7 +85,7 @@
   - Large Pulse Laser × 2 
   - ER Large Laser × 3 
   - Small Pulse Laser 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7) 
 - **Battle Value:** 2916 
 - [*More Info*](stone_rhino/stone_rhino_7.md) 
 
@@ -107,7 +107,7 @@
   - Anti-Missile System (ammo: 24) 
   - A-Pod × 2 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2) 
 - **Battle Value:** 3107 
 - [*More Info*](stone_rhino/stone_rhino_2.md) 
 
@@ -126,7 +126,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3) 
 - **Battle Value:** 3072 
 - [*More Info*](stone_rhino/stone_rhino_3.md) 
 
@@ -145,7 +145,7 @@
 - **Equipment:** 
   - AES × 2 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
 - **Battle Value:** 2804 
 - [*More Info*](stone_rhino/stone_rhino_8.md) 
 

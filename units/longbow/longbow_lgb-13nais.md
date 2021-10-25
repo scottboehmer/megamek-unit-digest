@@ -19,7 +19,7 @@
   - B-Pod × 2 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934/longbow-lgb-13nais) 
 - **Battle Value:** 1804 
 
 ## Availability 

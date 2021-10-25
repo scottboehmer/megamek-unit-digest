@@ -16,7 +16,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - Medium Laser 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5393/wasp-lam-mk-i-wsp-100a) 
 - **Battle Value:** 909 
 
 ## Availability 

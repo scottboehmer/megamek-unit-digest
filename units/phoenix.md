@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2488/phoenix-px-1r) 
 - **Battle Value:** 917 
 - [*More Info*](phoenix/phoenix_px-1r.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 2 × 2 (ammo: 100) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2489/phoenix-px-3r) 
 - **Battle Value:** 1106 
 - [*More Info*](phoenix/phoenix_px-3r.md) 
 
@@ -45,7 +45,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2490/phoenix-px-4r) 
 - **Battle Value:** 996 
 - [*More Info*](phoenix/phoenix_px-4r.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7467/phoenix-px-1kc) 
 - **Battle Value:** 766 
 - [*More Info*](phoenix/phoenix_px-1kc.md) 
 
@@ -79,7 +79,7 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 30) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7468/phoenix-px-1kl) 
 - **Battle Value:** 930 
 - [*More Info*](phoenix/phoenix_px-1kl.md) 
 
@@ -96,7 +96,7 @@
 - **Weapons:** 
   - Thunderbolt 10 (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7470/phoenix-px-1kt) 
 - **Battle Value:** 857 
 - [*More Info*](phoenix/phoenix_px-1kt.md) 
 
@@ -112,7 +112,7 @@
 - **Weapons:** 
   - Heavy Rifle (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7469/phoenix-px-1kr) 
 - **Battle Value:** 760 
 - [*More Info*](phoenix/phoenix_px-1kr.md) 
 

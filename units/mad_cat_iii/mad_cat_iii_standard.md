@@ -16,7 +16,7 @@
   - ER Micro Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561/mad-cat-iii-standard) 
 - **Battle Value:** 2400 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - HarJel III × 7 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6848/mad-cat-mk-ii-6) 
 - **Battle Value:** 2671 
 
 ## Availability 

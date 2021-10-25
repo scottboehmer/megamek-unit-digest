@@ -14,7 +14,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3066/stinger-stg-6l) 
 - **Battle Value:** 680 
 
 ## Availability 

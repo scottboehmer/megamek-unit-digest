@@ -18,7 +18,7 @@
   - Lift Hoist × 2 
   - Cargo × 2 
   - Ejection Seat 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4529/heavy-forester-hfl-1-loggermech) 
 - **Battle Value:** 433 
 
 ## Availability 

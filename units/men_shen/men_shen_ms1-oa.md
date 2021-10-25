@@ -17,7 +17,7 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2161/men-shen-ms1-oa) 
 - **Battle Value:** 1529 
 
 ## Availability 

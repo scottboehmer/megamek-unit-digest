@@ -15,7 +15,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1545/hornet-hnt-151) 
 - **Battle Value:** 488 
 
 ## Availability 

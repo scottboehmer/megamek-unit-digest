@@ -16,7 +16,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1425/hauptmann-ha1-oe) 
 - **Battle Value:** 2298 
 
 ## Availability 

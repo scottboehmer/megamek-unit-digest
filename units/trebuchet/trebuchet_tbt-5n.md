@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 16) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3297/trebuchet-tbt-5n) 
 - **Battle Value:** 1191 
 
 ## Availability 

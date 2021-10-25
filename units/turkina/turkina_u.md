@@ -23,7 +23,7 @@
   - Inner Sphere HarJel × 5 
   - CASE 
   - Liquid Cargo × 2 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u) 
 - **Battle Value:** 2472 
 
 ## Availability 

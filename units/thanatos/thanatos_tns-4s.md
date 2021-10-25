@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218/thanatos-tns-4s) 
 - **Battle Value:** 1844 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Inner Sphere Chameleon LPS 
   - Light TAG 
   - Modular Armor × 3 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3930/cephalus-prime) 
 - **Battle Value:** 1038 
 
 ## Availability 

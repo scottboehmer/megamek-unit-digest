@@ -16,7 +16,7 @@
   - ER Medium Laser × 9 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1809/kodiak-5) 
 - **Battle Value:** 3067 
 
 ## Availability 

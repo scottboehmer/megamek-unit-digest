@@ -14,7 +14,7 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/716/crab-crb-27) 
 - **Battle Value:** 1198 
 
 ## Availability 

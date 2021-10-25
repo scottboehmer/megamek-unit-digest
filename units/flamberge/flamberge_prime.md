@@ -17,7 +17,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1119/flamberge-prime) 
 - **Battle Value:** 2266 
 
 ## Availability 

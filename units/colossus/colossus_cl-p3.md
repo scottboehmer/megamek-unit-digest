@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Coolant Pod × 4 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/661/colossus-cl-p3) 
 - **Battle Value:** 1988 
 
 ## Availability 

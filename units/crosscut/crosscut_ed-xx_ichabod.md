@@ -18,7 +18,7 @@
   - Chainsaw 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/744/crosscut-ed-xx-ichabod) 
 - **Battle Value:** 442 
 
 ## Availability 

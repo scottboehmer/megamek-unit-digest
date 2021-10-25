@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 4 (ammo: 25) 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7417/panther-pnt-9alag) 
 - **Battle Value:** 804 
 
 ## Availability 

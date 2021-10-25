@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Rocket 15 × 4 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3861/brigand-ldt-x2) 
 - **Battle Value:** 764 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2) 
 - **Battle Value:** 1463 
 
 ## Availability 

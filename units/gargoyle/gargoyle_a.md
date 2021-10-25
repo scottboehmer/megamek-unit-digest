@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
   - ER Medium Laser 
   - ER Small Laser 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2002/man-o-war-gargoyle-a) 
 - **Battle Value:** 2689 
 
 ## Availability 

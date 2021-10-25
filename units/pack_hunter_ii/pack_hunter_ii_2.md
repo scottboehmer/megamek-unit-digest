@@ -15,7 +15,7 @@
   - ER PPC 
 - **Equipment:** 
   - A-Pod × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397/pack-hunter-ii-2) 
 - **Battle Value:** 1457 
 
 ## Availability 

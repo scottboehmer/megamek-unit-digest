@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4755/orion-on1-c) 
 - **Battle Value:** 973 
 
 ## Availability 

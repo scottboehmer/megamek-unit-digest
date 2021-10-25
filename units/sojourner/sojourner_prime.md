@@ -19,7 +19,7 @@
   - AES 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7443/sojourner-prime) 
 - **Battle Value:** 2491 
 
 ## Availability 

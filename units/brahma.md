@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/426/brahma-brm-5a) 
 - **Battle Value:** 1572 
 - [*More Info*](brahma/brahma_brm-5a.md) 
 
@@ -39,7 +39,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427/brahma-brm-5b) 
 - **Battle Value:** 1730 
 - [*More Info*](brahma/brahma_brm-5b.md) 
 

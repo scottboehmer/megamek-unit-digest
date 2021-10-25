@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Remote Sensor Dispenser 
   - CASE II 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6872/gallant-glt-10-0) 
 - **Battle Value:** 1537 
 
 ## Availability 

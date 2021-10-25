@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 24) 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/533/cestus-cts-6y) 
 - **Battle Value:** 1701 
 
 ## Availability 

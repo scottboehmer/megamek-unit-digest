@@ -18,7 +18,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1985/mad-cat-timber-wolf-prime) 
 - **Battle Value:** 2737 
 
 ## Availability 

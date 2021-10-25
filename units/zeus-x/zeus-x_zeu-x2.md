@@ -16,7 +16,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Lyran Commonwealth - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6632/zeus-x-zeu-x2) 
 - **Battle Value:** 1915 
 
 ## Availability 

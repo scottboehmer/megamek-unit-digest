@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3083/stooping-hawk-prime) 
 - **Battle Value:** 2147 
 - [*More Info*](stooping_hawk/stooping_hawk_prime.md) 
 
@@ -30,7 +30,7 @@
 - **Heat Sinks:** 17 (34) 
 - **Weapons:** 
   - ER PPC × 2 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3076/stooping-hawk-a) 
 - **Battle Value:** 2319 
 - [*More Info*](stooping_hawk/stooping_hawk_a.md) 
 
@@ -47,7 +47,7 @@
   - LRM 15 w/ Artemis IV × 3 (ammo: 32) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3077/stooping-hawk-b) 
 - **Battle Value:** 2111 
 - [*More Info*](stooping_hawk/stooping_hawk_b.md) 
 
@@ -65,7 +65,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3078/stooping-hawk-c) 
 - **Battle Value:** 2435 
 - [*More Info*](stooping_hawk/stooping_hawk_c.md) 
 
@@ -82,7 +82,7 @@
   - ER Medium Laser × 2 
   - Heavy Medium Laser × 3 
   - ER Small Laser 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3079/stooping-hawk-d) 
 - **Battle Value:** 1838 
 - [*More Info*](stooping_hawk/stooping_hawk_d.md) 
 
@@ -100,7 +100,7 @@
   - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3080/stooping-hawk-e) 
 - **Battle Value:** 1674 
 - [*More Info*](stooping_hawk/stooping_hawk_e.md) 
 
@@ -120,7 +120,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3081/stooping-hawk-f) 
 - **Battle Value:** 1988 
 - [*More Info*](stooping_hawk/stooping_hawk_f.md) 
 
@@ -137,7 +137,7 @@
   - ProtoMech AC/4 × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3082/stooping-hawk-g) 
 - **Battle Value:** 1657 
 - [*More Info*](stooping_hawk/stooping_hawk_g.md) 
 

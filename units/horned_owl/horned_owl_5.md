@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Heavy Medium Laser 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476/peregrine-horned-owl-5) 
 - **Battle Value:** 1523 
 
 ## Availability 

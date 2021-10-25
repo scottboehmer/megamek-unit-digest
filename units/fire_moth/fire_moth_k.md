@@ -18,7 +18,7 @@
   - B-Pod × 2 
   - MASC 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/845/dasher-fire-moth-k) 
 - **Battle Value:** 884 
 
 ## Availability 

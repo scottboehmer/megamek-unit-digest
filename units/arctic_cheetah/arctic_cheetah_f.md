@@ -19,7 +19,7 @@
   - Watchdog CEWS 
   - Light TAG 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940/hankyu-arctic-cheetah-f) 
 - **Battle Value:** 1394 
 
 ## Availability 

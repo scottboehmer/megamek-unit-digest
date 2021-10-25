@@ -15,7 +15,7 @@
   - Combine × 2 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO VA - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4265/harvester-ant-kic-3-agromech) 
 - **Battle Value:** 161 
 
 ## Availability 

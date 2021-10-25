@@ -17,7 +17,7 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869/dervish-dv-6md) 
 - **Battle Value:** 1251 
 
 ## Availability 

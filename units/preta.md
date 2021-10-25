@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2573/preta-c-prt-o-invictus) 
 - **Battle Value:** 1064 
 - [*More Info*](preta/preta_c-prt-o_invictus.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - C3i 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2574/preta-c-prt-oa-dominus) 
 - **Battle Value:** 1302 
 - [*More Info*](preta/preta_c-prt-oa_dominus.md) 
 
@@ -55,7 +55,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2575/preta-c-prt-ob-infernus) 
 - **Battle Value:** 1338 
 - [*More Info*](preta/preta_c-prt-ob_infernus.md) 
 
@@ -76,7 +76,7 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2576/preta-c-prt-oc-comminus) 
 - **Battle Value:** 1187 
 - [*More Info*](preta/preta_c-prt-oc_comminus.md) 
 
@@ -96,7 +96,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2577/preta-c-prt-od-luminos) 
 - **Battle Value:** 1158 
 - [*More Info*](preta/preta_c-prt-od_luminos.md) 
 
@@ -116,7 +116,7 @@
 - **Equipment:** 
   - C3i 
   - TAG 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2572/preta-c-prt-o-kendali) 
 - **Battle Value:** 999 
 - [*More Info*](preta/preta_c-prt-o_kendali.md) 
 
@@ -136,7 +136,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2578/preta-c-prt-oe-eminus) 
 - **Battle Value:** 1211 
 - [*More Info*](preta/preta_c-prt-oe_eminus.md) 
 
@@ -176,7 +176,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580/preta-c-prt-ou-exanimus) 
 - **Battle Value:** 1052 
 - [*More Info*](preta/preta_c-prt-ou_exanimus.md) 
 

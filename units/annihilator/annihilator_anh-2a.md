@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/39/annihilator-anh-2a) 
 - **Battle Value:** 1595 
 
 ## Availability 

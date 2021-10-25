@@ -15,7 +15,7 @@
   - PPC 
   - Large Laser 
   - AC/5 (ammo: 20) 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s) 
 - **Battle Value:** 1436 
 
 ## Availability 

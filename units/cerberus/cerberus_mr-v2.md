@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/528/cerberus-mr-v2) 
 - **Battle Value:** 2001 
 
 ## Availability 

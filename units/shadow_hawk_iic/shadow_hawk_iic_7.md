@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Liquid Cargo × 2 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2917/shadow-hawk-iic-7) 
 - **Battle Value:** 1999 
 
 ## Availability 

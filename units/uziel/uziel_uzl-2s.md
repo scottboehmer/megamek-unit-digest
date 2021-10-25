@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5331/uziel-uzl-2s) 
 - **Battle Value:** 1352 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - LRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4479/lao-hu-lhu-3b) 
 - **Battle Value:** 1497 
 
 ## Availability 

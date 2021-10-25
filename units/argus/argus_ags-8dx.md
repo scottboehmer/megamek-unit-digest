@@ -18,7 +18,7 @@
   - C3 Boosted Slave 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx) 
 - **Battle Value:** 1598 
 
 ## Availability 

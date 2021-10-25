@@ -19,7 +19,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/790/daedalus-dad-3d) 
 - **Battle Value:** 1729 
 
 ## Availability 

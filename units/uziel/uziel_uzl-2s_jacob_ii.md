@@ -18,7 +18,7 @@
 - **Equipment:** 
   - AES × 2 
   - Supercharger 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3366/uziel-uzl-2s-jacob-ii) 
 - **Battle Value:** 1271 
 
 ## Availability 

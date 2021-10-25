@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5448/centurion-cn9-d3d) 
 - **Battle Value:** 1373 
 
 ## Availability 

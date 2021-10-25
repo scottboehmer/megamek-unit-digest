@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8253/wolverine-wvr-7m2) 
 - **Battle Value:** 1752 
 
 ## Availability 

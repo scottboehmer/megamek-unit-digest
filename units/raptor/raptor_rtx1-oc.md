@@ -15,7 +15,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2650/raptor-rtx1-oc) 
 - **Battle Value:** 870 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3054/stealth-sth-2d) 
 - **Battle Value:** 1508 
 
 ## Availability 

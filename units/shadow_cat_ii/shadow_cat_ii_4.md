@@ -16,7 +16,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6885/shadow-cat-ii-4) 
 - **Battle Value:** 1986 
 
 ## Availability 

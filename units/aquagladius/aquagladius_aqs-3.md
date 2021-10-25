@@ -16,7 +16,7 @@
   - Flail 
 - **Equipment:** 
   - HarJel × 3 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/58/aquagladius-aqs-3) 
 - **Battle Value:** 834 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Coolant Pod × 4 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/663/colossus-cls-5s) 
 - **Battle Value:** 2647 
 
 ## Availability 

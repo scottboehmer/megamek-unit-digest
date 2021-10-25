@@ -16,7 +16,7 @@
   - SRM 6 × 2 (ammo: 60) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/492/cauldron-born-ebon-jaguar-c) 
 - **Battle Value:** 1831 
 
 ## Availability 

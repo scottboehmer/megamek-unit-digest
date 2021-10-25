@@ -16,7 +16,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/480/catapult-cplt-c1b) 
 - **Battle Value:** 1570 
 
 ## Availability 

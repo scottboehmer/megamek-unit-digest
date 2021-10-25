@@ -17,7 +17,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb) 
 - **Battle Value:** 1354 
 
 ## Availability 

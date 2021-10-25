@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - CASE II 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350/hatamoto-ku-htm-27w2) 
 - **Battle Value:** 1699 
 
 ## Availability 

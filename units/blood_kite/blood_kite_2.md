@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3837/blood-kite-2) 
 - **Battle Value:** 3122 
 
 ## Availability 

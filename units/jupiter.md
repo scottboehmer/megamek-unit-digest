@@ -14,7 +14,7 @@
   - Ultra AC/5 × 4 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725/jupiter-standard) 
 - **Battle Value:** 2784 
 - [*More Info*](jupiter/jupiter_standard.md) 
 
@@ -33,7 +33,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1726/jupiter-2) 
 - **Battle Value:** 3278 
 - [*More Info*](jupiter/jupiter_2.md) 
 
@@ -51,7 +51,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1727/jupiter-3) 
 - **Battle Value:** 3074 
 - [*More Info*](jupiter/jupiter_3.md) 
 
@@ -69,7 +69,7 @@
   - Streak SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6829/jupiter-4) 
 - **Battle Value:** 2955 
 - [*More Info*](jupiter/jupiter_4.md) 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - TAG 
   - CASE 
-- **Sources:** Op. Klondyke , [Master Unit List](Master Unit List) 
+- **Sources:** Op. Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/4172/firefly-ffl-3a) 
 - **Battle Value:** 797 
 - [*More Info*](firefly/firefly_ffl-3a.md) 
 
@@ -106,7 +106,7 @@
   - Medium Laser × 3 
   - LRM 5 (ammo: 24) 
   - Small Laser × 4 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087/firefly-ffl-4a) 
 - **Battle Value:** 831 
 - [*More Info*](firefly/firefly_ffl-4a.md) 
 
@@ -125,7 +125,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1082/firefly-c) 
 - **Battle Value:** 1290 
 - [*More Info*](firefly/firefly_c.md) 
 
@@ -144,7 +144,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1088/firefly-ffl-4b) 
 - **Battle Value:** 870 
 - [*More Info*](firefly/firefly_ffl-4b.md) 
 
@@ -163,7 +163,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1089/firefly-ffl-4c) 
 - **Battle Value:** 806 
 - [*More Info*](firefly/firefly_ffl-4c.md) 
 
@@ -182,7 +182,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1090/firefly-ffl-4d) 
 - **Battle Value:** 897 
 - [*More Info*](firefly/firefly_ffl-4d.md) 
 
@@ -201,7 +201,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1091/firefly-ffl-4da) 
 - **Battle Value:** 921 
 - [*More Info*](firefly/firefly_ffl-4da.md) 
 

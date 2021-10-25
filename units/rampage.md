@@ -58,7 +58,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** HTP New Dallas , [Master Unit List](Master Unit List) 
+- **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6974/rampage-rmp-4g-benboudaoud) 
 - **Battle Value:** 1751 
 - [*More Info*](rampage/rampage_rmp-4g_benboudaoud.md) 
 

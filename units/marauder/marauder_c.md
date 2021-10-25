@@ -16,7 +16,7 @@
   - Inner Sphere Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c) 
 - **Battle Value:** 1711 
 
 ## Availability 

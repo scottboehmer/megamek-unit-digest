@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6454/anubis-abs-5z) 
 - **Battle Value:** 1066 
 
 ## Availability 

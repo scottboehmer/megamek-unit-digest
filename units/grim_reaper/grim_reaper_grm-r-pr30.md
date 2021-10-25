@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1329/grim-reaper-grm-r-pr30) 
 - **Battle Value:** 1673 
 
 ## Availability 

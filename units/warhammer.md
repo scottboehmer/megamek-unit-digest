@@ -14,7 +14,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3488/warhammer-whm-6r) 
 - **Battle Value:** 1299 
 - [*More Info*](warhammer/warhammer_whm-6r.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3489/warhammer-whm-6rb) 
 - **Battle Value:** 1431 
 - [*More Info*](warhammer/warhammer_whm-6rb.md) 
 
@@ -50,7 +50,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871/warhammer-whm-6rk) 
 - **Battle Value:** 1621 
 - [*More Info*](warhammer/warhammer_whm-6rk.md) 
 
@@ -87,7 +87,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Flamer × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487/warhammer-whm-6l) 
 - **Battle Value:** 1311 
 - [*More Info*](warhammer/warhammer_whm-6l.md) 
 
@@ -104,7 +104,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3486/warhammer-whm-6k) 
 - **Battle Value:** 1305 
 - [*More Info*](warhammer/warhammer_whm-6k.md) 
 
@@ -120,7 +120,7 @@
   - PPC × 2 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3485/warhammer-whm-6d) 
 - **Battle Value:** 1471 
 - [*More Info*](warhammer/warhammer_whm-6d.md) 
 
@@ -141,7 +141,7 @@
   - ECM Suite 
   - Inner Sphere A-Pod 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7566/warhammer-c-3) 
 - **Battle Value:** 2518 
 - [*More Info*](warhammer/warhammer_c_3.md) 
 
@@ -158,7 +158,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7798/warhammer-whm-6k-olesko) 
 - **Battle Value:** 1338 
 - [*More Info*](warhammer/warhammer_whm-6k_olesko.md) 
 
@@ -177,7 +177,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492/warhammer-whm-7m) 
 - **Battle Value:** 1487 
 - [*More Info*](warhammer/warhammer_whm-7m.md) 
 
@@ -195,7 +195,7 @@
   - Clan ER Medium Laser × 2 
   - Clan ER Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479/warhammer-c) 
 - **Battle Value:** 1728 
 - [*More Info*](warhammer/warhammer_c.md) 
 
@@ -212,7 +212,7 @@
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Small Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3493/warhammer-whm-7s) 
 - **Battle Value:** 1477 
 - [*More Info*](warhammer/warhammer_whm-7s.md) 
 
@@ -230,7 +230,7 @@
   - Clan Medium Pulse Laser × 2 
   - Clan ER Small Laser × 2 
   - Clan Small Pulse Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7565/warhammer-c-2) 
 - **Battle Value:** 2157 
 - [*More Info*](warhammer/warhammer_c_2.md) 
 
@@ -249,7 +249,7 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs) 
 - **Battle Value:** 1751 
 - [*More Info*](warhammer/warhammer_whm-7cs.md) 
 
@@ -268,7 +268,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Command Console 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5386/warhammer-whm-7m-dc) 
 - **Battle Value:** 1402 
 - [*More Info*](warhammer/warhammer_whm-7m-dc.md) 
 
@@ -287,7 +287,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491/warhammer-whm-7k) 
 - **Battle Value:** 1651 
 - [*More Info*](warhammer/warhammer_whm-7k.md) 
 
@@ -307,7 +307,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494/warhammer-whm-8d) 
 - **Battle Value:** 1744 
 - [*More Info*](warhammer/warhammer_whm-8d.md) 
 
@@ -326,7 +326,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483/warhammer-whm-4l) 
 - **Battle Value:** 1743 
 - [*More Info*](warhammer/warhammer_whm-4l.md) 
 
@@ -344,7 +344,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497/warhammer-whm-9d) 
 - **Battle Value:** 2152 
 - [*More Info*](warhammer/warhammer_whm-9d.md) 
 
@@ -362,7 +362,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498/warhammer-whm-9s) 
 - **Battle Value:** 1653 
 - [*More Info*](warhammer/warhammer_whm-9s.md) 
 
@@ -380,7 +380,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3496/warhammer-whm-8m) 
 - **Battle Value:** 1631 
 - [*More Info*](warhammer/warhammer_whm-8m.md) 
 
@@ -414,7 +414,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495/warhammer-whm-8k) 
 - **Battle Value:** 1748 
 - [*More Info*](warhammer/warhammer_whm-8k.md) 
 
@@ -433,7 +433,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499/warhammer-whm-x7-the-lich) 
 - **Battle Value:** 1785 
 - [*More Info*](warhammer/warhammer_whm-x7_the_lich.md) 
 
@@ -452,7 +452,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484/warhammer-whm-5l) 
 - **Battle Value:** 1896 
 - [*More Info*](warhammer/warhammer_whm-5l.md) 
 
@@ -472,7 +472,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3482/warhammer-whm-11t) 
 - **Battle Value:** 1698 
 - [*More Info*](warhammer/warhammer_whm-11t.md) 
 
@@ -494,7 +494,7 @@
   - Targeting Computer 
   - CASE 
   - C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct) 
 - **Battle Value:** 1758 
 - [*More Info*](warhammer/warhammer_whd-10ct.md) 
 
@@ -514,7 +514,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Slave 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2) 
 - **Battle Value:** 1654 
 - [*More Info*](warhammer/warhammer_whm-8d2.md) 
 
@@ -534,7 +534,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7563/warhammer-whm-8r) 
 - **Battle Value:** 1697 
 - [*More Info*](warhammer/warhammer_whm-8r.md) 
 
@@ -551,7 +551,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7567/warhammer-whm-9k) 
 - **Battle Value:** 1744 
 - [*More Info*](warhammer/warhammer_whm-9k.md) 
 
@@ -571,7 +571,7 @@
   - Clan Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7564/warhammer-whm-10k) 
 - **Battle Value:** 2033 
 - [*More Info*](warhammer/warhammer_whm-10k.md) 
 

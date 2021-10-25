@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456/caesar-ces-3s) 
 - **Battle Value:** 1901 
 
 ## Availability 

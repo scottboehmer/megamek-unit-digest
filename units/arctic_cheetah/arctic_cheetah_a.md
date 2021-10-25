@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1378/hankyu-arctic-cheetah-a) 
 - **Battle Value:** 1117 
 
 ## Availability 

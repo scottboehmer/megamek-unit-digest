@@ -21,7 +21,7 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/888/deva-c-dva-oc-comminus) 
 - **Battle Value:** 1749 
 
 ## Availability 

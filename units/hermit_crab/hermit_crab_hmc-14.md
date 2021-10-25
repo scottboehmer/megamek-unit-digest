@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 3 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7722/hermit-crab-hmc-14) 
 - **Battle Value:** 844 
 
 ## Availability 

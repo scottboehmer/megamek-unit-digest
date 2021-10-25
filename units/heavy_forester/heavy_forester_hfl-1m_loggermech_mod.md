@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Ejection Seat 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7871/heavy-forester-hfl-1m-loggermech-mod) 
 - **Battle Value:** 465 
 
 ## Availability 

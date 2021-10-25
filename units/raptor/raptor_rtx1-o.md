@@ -15,7 +15,7 @@
   - LRM 5 × 3 (ammo: 24) 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2647/raptor-rtx1-o) 
 - **Battle Value:** 721 
 
 ## Availability 

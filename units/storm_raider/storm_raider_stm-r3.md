@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6614/storm-raider-stm-r3) 
 - **Battle Value:** 791 
 
 ## Availability 

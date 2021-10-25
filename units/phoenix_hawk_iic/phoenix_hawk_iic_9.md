@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196/phoenix-hawk-iic-9) 
 - **Battle Value:** 2469 
 
 ## Availability 

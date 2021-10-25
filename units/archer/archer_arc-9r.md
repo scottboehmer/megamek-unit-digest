@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE II 
   - C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
 - **Battle Value:** 1668 
 
 ## Availability 

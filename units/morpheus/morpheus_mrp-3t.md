@@ -15,7 +15,7 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - Laser Anti-Missile System 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2227/morpheus-mrp-3t) 
 - **Battle Value:** 1925 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - MASC 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6346/vulpes-vlp-1d) 
 - **Battle Value:** 2225 
 
 ## Availability 

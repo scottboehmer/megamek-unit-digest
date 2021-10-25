@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6633/zeus-x-zeu-x3) 
 - **Battle Value:** 2178 
 
 ## Availability 

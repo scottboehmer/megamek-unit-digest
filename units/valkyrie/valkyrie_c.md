@@ -17,7 +17,7 @@
   - Clan LRM 10 (ammo: 24) 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7701/valkyrie-c) 
 - **Battle Value:** 936 
 
 ## Availability 

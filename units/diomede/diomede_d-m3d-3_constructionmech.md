@@ -22,7 +22,7 @@
   - Liquid Cargo × 2 
   - Ejection Seat 
   - Tracks 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/901/diomede-d-m3d-3-constructionmech) 
 - **Battle Value:** 1227 
 
 ## Availability 

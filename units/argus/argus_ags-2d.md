@@ -15,7 +15,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3729/argus-ags-2d) 
 - **Battle Value:** 1566 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - MRM 10 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2420/panther-pnt-12k2) 
 - **Battle Value:** 930 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ECM Suite 
   - MASC 
   - Targeting Computer 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6864/sphinx-3) 
 - **Battle Value:** 3396 
 
 ## Availability 

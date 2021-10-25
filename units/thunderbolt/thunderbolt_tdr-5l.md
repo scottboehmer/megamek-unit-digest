@@ -18,7 +18,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Hist - 2nd SW , [Master Unit List](Master Unit List) 
+- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l) 
 - **Battle Value:** 1515 
 
 ## Availability 

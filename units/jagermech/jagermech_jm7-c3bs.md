@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671/jagermech-jm7-c3bs) 
 - **Battle Value:** 1354 
 
 ## Availability 

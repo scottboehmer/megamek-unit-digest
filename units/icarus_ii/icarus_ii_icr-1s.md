@@ -15,7 +15,7 @@
   - AC/10 (ammo: 10) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1600/icarus-ii-icr-1s) 
 - **Battle Value:** 869 
 
 ## Availability 

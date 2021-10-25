@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Inner Sphere Beagle Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4645/minsk-mnk-101) 
 - **Battle Value:** 2024 
 
 ## Availability 

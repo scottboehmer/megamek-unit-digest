@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC 
   - ER Micro Laser × 8 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2393/pack-hunter-2) 
 - **Battle Value:** 1598 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Lift Hoist 
   - Dumper × 2 
   - Cargo × 20 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1960/lumberjack-lm4c) 
 - **Battle Value:** 316 
 
 ## Availability 

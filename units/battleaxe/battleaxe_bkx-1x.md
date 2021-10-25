@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
   - LRM 5 × 2 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5584/battleaxe-bkx-1x) 
 - **Battle Value:** 1079 
 
 ## Availability 

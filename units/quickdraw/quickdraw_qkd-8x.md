@@ -21,7 +21,7 @@
   - Lift Hoist 
   - Head Turret 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2617/quickdraw-qkd-8x) 
 - **Battle Value:** 1612 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1543/hoplite-hop-4d) 
 - **Battle Value:** 1022 
 
 ## Availability 

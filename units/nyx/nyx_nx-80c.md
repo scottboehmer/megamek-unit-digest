@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Slave 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c) 
 - **Battle Value:** 874 
 
 ## Availability 

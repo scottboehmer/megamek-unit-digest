@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Medium Laser 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430/wolverine-wvr-6d) 
 - **Battle Value:** 1115 
 
 ## Availability 

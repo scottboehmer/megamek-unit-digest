@@ -63,7 +63,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/43/annihilator-c) 
 - **Battle Value:** 2520 
 - [*More Info*](annihilator/annihilator_c.md) 
 
@@ -96,7 +96,7 @@
 - **Weapons:** 
   - AC/10 × 4 (ammo: 40) 
   - Medium Laser × 4 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3700/annihilator-anh-1a) 
 - **Battle Value:** 1434 
 - [*More Info*](annihilator/annihilator_anh-1a.md) 
 
@@ -128,7 +128,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/39/annihilator-anh-2a) 
 - **Battle Value:** 1595 
 - [*More Info*](annihilator/annihilator_anh-2a.md) 
 
@@ -147,7 +147,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/41/annihilator-anh-3a) 
 - **Battle Value:** 1712 
 - [*More Info*](annihilator/annihilator_anh-3a.md) 
 
@@ -164,7 +164,7 @@
   - Heavy PPC × 2 
   - LB 10-X AC × 2 (ammo: 40) 
   - Light AC/2 × 2 (ammo: 90) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/42/annihilator-anh-4a) 
 - **Battle Value:** 1726 
 - [*More Info*](annihilator/annihilator_anh-4a.md) 
 

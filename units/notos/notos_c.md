@@ -22,7 +22,7 @@
   - Wheels 
   - Light TAG 
   - CASE 
-- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7373/notos-c) 
 - **Battle Value:** 1632 
 
 ## Availability 

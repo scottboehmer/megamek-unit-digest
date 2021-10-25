@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2916/shadow-hawk-iic-6) 
 - **Battle Value:** 1907 
 
 ## Availability 

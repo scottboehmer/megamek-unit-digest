@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Inner Sphere C3i 
-- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7633/vulture-mk-iii-mad-dog-mk-iii-blo) 
 - **Battle Value:** 2397 
 
 ## Availability 

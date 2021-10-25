@@ -18,7 +18,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4759/orion-on1-md) 
 - **Battle Value:** 1597 
 
 ## Availability 

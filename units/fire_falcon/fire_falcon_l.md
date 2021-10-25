@@ -15,7 +15,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8182/fire-falcon-l) 
 - **Battle Value:** 1665 
 
 ## Availability 

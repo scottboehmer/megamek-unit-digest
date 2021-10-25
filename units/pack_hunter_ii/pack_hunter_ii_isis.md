@@ -17,7 +17,7 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540/pack-hunter-ii-isis) 
 - **Battle Value:** 1276 
 
 ## Availability 

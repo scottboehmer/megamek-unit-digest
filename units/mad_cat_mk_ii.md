@@ -15,7 +15,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565/mad-cat-mk-ii-standard) 
 - **Battle Value:** 3135 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_standard.md) 
 
@@ -35,7 +35,7 @@
   - Streak SRM 4 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5715/mad-cat-mk-ii-2) 
 - **Battle Value:** 2822 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_2.md) 
 
@@ -54,7 +54,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5716/mad-cat-mk-ii-3) 
 - **Battle Value:** 3168 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_3.md) 
 
@@ -92,7 +92,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6850/mad-cat-mk-ii-4) 
 - **Battle Value:** 2962 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_4.md) 
 
@@ -112,7 +112,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6849/mad-cat-mk-ii-5) 
 - **Battle Value:** 2491 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_5.md) 
 
@@ -130,7 +130,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - HarJel III × 7 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6848/mad-cat-mk-ii-6) 
 - **Battle Value:** 2671 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_6.md) 
 

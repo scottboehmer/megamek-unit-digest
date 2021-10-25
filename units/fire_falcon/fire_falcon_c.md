@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1065/fire-falcon-c) 
 - **Battle Value:** 1004 
 
 ## Availability 

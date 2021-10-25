@@ -15,7 +15,7 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2208/mongoose-mon-66) 
 - **Battle Value:** 758 
 
 ## Availability 

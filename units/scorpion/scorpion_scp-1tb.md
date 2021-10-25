@@ -15,7 +15,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM) 
 - **Equipment:** 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
 - **Battle Value:** 1185 
 
 ## Availability 

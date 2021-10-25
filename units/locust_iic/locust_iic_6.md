@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6) 
 - **Battle Value:** 730 
 
 ## Availability 

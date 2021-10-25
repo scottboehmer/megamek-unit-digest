@@ -15,7 +15,7 @@
   - NLRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5562/anubis-abs-3mc) 
 - **Battle Value:** 1074 
 
 ## Availability 

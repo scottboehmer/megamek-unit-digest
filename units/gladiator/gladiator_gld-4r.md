@@ -15,7 +15,7 @@
   - PPC 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1201/gladiator-gld-4r) 
 - **Battle Value:** 1291 
 
 ## Availability 

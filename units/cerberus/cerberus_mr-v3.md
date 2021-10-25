@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/529/cerberus-mr-v3) 
 - **Battle Value:** 2094 
 
 ## Availability 

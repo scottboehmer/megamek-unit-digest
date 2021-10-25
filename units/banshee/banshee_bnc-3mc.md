@@ -14,7 +14,7 @@
   - PPC 
   - AC/10 (ammo: 20) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/242/banshee-bnc-3mc) 
 - **Battle Value:** 1487 
 
 ## Availability 

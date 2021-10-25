@@ -14,7 +14,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Pulse Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3526/wasp-wsp-3a) 
 - **Battle Value:** 401 
 
 ## Availability 

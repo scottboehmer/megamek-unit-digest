@@ -16,7 +16,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2417/panther-pnt-10k2) 
 - **Battle Value:** 913 
 
 ## Availability 

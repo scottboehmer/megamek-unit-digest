@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Talons 
   - CASE 
-- **Sources:** Ice Wind Metals - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Ice Wind Metals - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008/vixen-incubus-6) 
 - **Battle Value:** 1578 
 
 ## Availability 

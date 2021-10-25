@@ -16,7 +16,7 @@
   - Medium Laser 
 - **Equipment:** 
   - C3 Boosted Slave 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6923/panther-pnt-12kc) 
 - **Battle Value:** 1036 
 
 ## Availability 

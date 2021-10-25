@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6450/gun-gn-2o) 
 - **Battle Value:** 775 
 
 ## Availability 

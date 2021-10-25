@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2469/penetrator-ptr-6t) 
 - **Battle Value:** 1994 
 
 ## Availability 

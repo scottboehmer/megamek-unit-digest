@@ -18,7 +18,7 @@
   - Clan Prototype ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7680/starslayer-sty-2c-ec) 
 - **Battle Value:** 1404 
 
 ## Availability 

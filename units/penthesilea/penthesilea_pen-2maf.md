@@ -18,7 +18,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2471/penthesilea-pen-2maf) 
 - **Battle Value:** 1834 
 
 ## Availability 

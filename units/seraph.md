@@ -19,7 +19,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2869/seraph-c-srp-o-invictus) 
 - **Battle Value:** 1807 
 - [*More Info*](seraph/seraph_c-srp-o_invictus.md) 
 
@@ -44,7 +44,7 @@
   - C3i 
   - TAG 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2870/seraph-c-srp-oa-dominus) 
 - **Battle Value:** 2355 
 - [*More Info*](seraph/seraph_c-srp-oa_dominus.md) 
 
@@ -67,7 +67,7 @@
   - C3i 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2871/seraph-c-srp-ob-infernus) 
 - **Battle Value:** 2181 
 - [*More Info*](seraph/seraph_c-srp-ob_infernus.md) 
 
@@ -91,7 +91,7 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2872/seraph-c-srp-oc-comminus) 
 - **Battle Value:** 2136 
 - [*More Info*](seraph/seraph_c-srp-oc_comminus.md) 
 
@@ -114,7 +114,7 @@
   - Flamer 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2873/seraph-c-srp-od-luminos) 
 - **Battle Value:** 2291 
 - [*More Info*](seraph/seraph_c-srp-od_luminos.md) 
 
@@ -137,7 +137,7 @@
   - C3i 
   - Targeting Computer 
   - CASE 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2868/seraph-c-srp-o-havalah) 
 - **Battle Value:** 1927 
 - [*More Info*](seraph/seraph_c-srp-o_havalah.md) 
 
@@ -157,7 +157,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2874/seraph-c-srp-oe-eminus) 
 - **Battle Value:** 2148 
 - [*More Info*](seraph/seraph_c-srp-oe_eminus.md) 
 

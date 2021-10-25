@@ -20,7 +20,7 @@
   - A-Pod × 2 
   - TAG 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1827/koshi-mist-lynx-a) 
 - **Battle Value:** 608 
 
 ## Availability 

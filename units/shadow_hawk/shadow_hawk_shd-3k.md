@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2904/shadow-hawk-shd-3k) 
 - **Battle Value:** 1591 
 
 ## Availability 

@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Micro Laser × 6 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848/dasher-ii-standard) 
 - **Battle Value:** 522 
 - [*More Info*](dasher_ii/dasher_ii_standard.md) 
 
@@ -26,7 +26,7 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - MASC 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/847/dasher-ii-2) 
 - **Battle Value:** 2239 
 - [*More Info*](dasher_ii/dasher_ii_2.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - ER PPC 
   - Inner Sphere Claw × 2 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6920/dasher-ii-3) 
 - **Battle Value:** 1496 
 - [*More Info*](dasher_ii/dasher_ii_3.md) 
 
@@ -63,7 +63,7 @@
   - Clan ER Small Laser 
   - Clan Micro Pulse Laser 
   - Chain Whip 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6919/dasher-ii-4) 
 - **Battle Value:** 1749 
 - [*More Info*](dasher_ii/dasher_ii_4.md) 
 

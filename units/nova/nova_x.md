@@ -16,7 +16,7 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6910/black-hawk-nova-x) 
 - **Battle Value:** 2761 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Pulse Laser 
   - Small Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1601/icarus-ii-icr-2s) 
 - **Battle Value:** 986 
 
 ## Availability 

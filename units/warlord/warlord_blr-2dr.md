@@ -20,7 +20,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3510/warlord-blr-2dr) 
 - **Battle Value:** 2284 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Plasma Rifle × 2 (ammo: 30) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/269/battle-cobra-btl-c-2of) 
 - **Battle Value:** 1300 
 
 ## Availability 

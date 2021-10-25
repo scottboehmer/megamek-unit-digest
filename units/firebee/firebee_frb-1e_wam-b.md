@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 24) 
   - SRM 2 × 3 (ammo: 100) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1078/firebee-frb-1e-wam-b) 
 - **Battle Value:** 534 
 
 ## Availability 

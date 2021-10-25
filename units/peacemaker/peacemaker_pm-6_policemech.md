@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** TRO: Vehicle Annex , [Master Unit List](Master Unit List) 
+- **Sources:** TRO: Vehicle Annex , [Master Unit List](http://masterunitlist.info/Unit/Details/7173/peacemaker-pm-6-policemech) 
 - **Battle Value:** 426 
 
 ## Availability 

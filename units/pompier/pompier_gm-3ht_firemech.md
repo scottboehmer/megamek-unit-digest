@@ -15,7 +15,7 @@
   - Liquid Cargo × 4 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4844/pompier-gm-3ht-firemech) 
 - **Battle Value:** 106 
 
 ## Availability 

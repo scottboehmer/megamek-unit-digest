@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g) 
 - **Battle Value:** 1196 
 
 ## Availability 

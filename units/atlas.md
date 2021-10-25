@@ -13,7 +13,7 @@
   - AC/20 (ammo: 10) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/140/atlas-as7-d) 
 - **Battle Value:** 1897 
 - [*More Info*](atlas/atlas_as7-d.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Command Console 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/142/atlas-as7-d-dc) 
 - **Battle Value:** 1858 
 - [*More Info*](atlas/atlas_as7-d-dc.md) 
 
@@ -49,7 +49,7 @@
   - Large Laser × 2 
   - AC/10 (ammo: 20) 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147/atlas-as7-rs) 
 - **Battle Value:** 1849 
 - [*More Info*](atlas/atlas_as7-rs.md) 
 
@@ -66,7 +66,7 @@
   - AC/5 (ammo: 20) 
   - SRM 6 × 5 (ammo: 60) 
   - Medium Laser × 2 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433/atlas-as7-a) 
 - **Battle Value:** 1787 
 - [*More Info*](atlas/atlas_as7-a.md) 
 
@@ -117,7 +117,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/144/atlas-as7-k) 
 - **Battle Value:** 2175 
 - [*More Info*](atlas/atlas_as7-k.md) 
 
@@ -138,7 +138,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/138/atlas-as7-c) 
 - **Battle Value:** 2163 
 - [*More Info*](atlas/atlas_as7-c.md) 
 
@@ -159,7 +159,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3 Master 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/139/atlas-as7-cm) 
 - **Battle Value:** 2036 
 - [*More Info*](atlas/atlas_as7-cm.md) 
 
@@ -198,7 +198,7 @@
   - Anti-Missile System (ammo: 12) 
   - Command Console 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3749/atlas-as7-k-dc) 
 - **Battle Value:** 2158 
 - [*More Info*](atlas/atlas_as7-k-dc.md) 
 
@@ -216,7 +216,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s) 
 - **Battle Value:** 1929 
 - [*More Info*](atlas/atlas_as7-s.md) 
 
@@ -254,7 +254,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/149/atlas-as7-s2) 
 - **Battle Value:** 2378 
 - [*More Info*](atlas/atlas_as7-s2.md) 
 
@@ -275,7 +275,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5461/atlas-as7-s3) 
 - **Battle Value:** 2378 
 - [*More Info*](atlas/atlas_as7-s3.md) 
 
@@ -295,7 +295,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr) 
 - **Battle Value:** 2101 
 - [*More Info*](atlas/atlas_as7-dr.md) 
 
@@ -317,7 +317,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/151/atlas-as8-d) 
 - **Battle Value:** 2432 
 - [*More Info*](atlas/atlas_as8-d.md) 
 
@@ -340,7 +340,7 @@
   - Command Console 
   - CASE II 
   - Remote Sensor Dispenser × 2 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5564/atlas-as7-00-jurn) 
 - **Battle Value:** 2053 
 - [*More Info*](atlas/atlas_as7-00_jurn.md) 
 
@@ -359,7 +359,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/145/atlas-as7-k2) 
 - **Battle Value:** 2160 
 - [*More Info*](atlas/atlas_as7-k2.md) 
 
@@ -377,7 +377,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** DTP Vega , [Master Unit List](Master Unit List) 
+- **Sources:** DTP Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5541/atlas-as7-k2-jedra) 
 - **Battle Value:** 1971 
 - [*More Info*](atlas/atlas_as7-k2_jedra.md) 
 
@@ -397,7 +397,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/146/atlas-as7-k3) 
 - **Battle Value:** 2346 
 - [*More Info*](atlas/atlas_as7-k3.md) 
 
@@ -416,7 +416,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6832/atlas-as7-k4) 
 - **Battle Value:** 2153 
 - [*More Info*](atlas/atlas_as7-k4.md) 
 

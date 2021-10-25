@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1010/eyleuka-eyl-45b) 
 - **Battle Value:** 1615 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Clan Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind) 
 - **Battle Value:** 2012 
 
 ## Availability 

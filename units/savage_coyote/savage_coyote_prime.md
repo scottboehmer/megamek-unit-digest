@@ -18,7 +18,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4985/savage-coyote-prime) 
 - **Battle Value:** 2613 
 
 ## Availability 

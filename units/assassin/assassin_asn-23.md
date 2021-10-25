@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV (ammo: 24) 
   - Medium Pulse Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/128/assassin-asn-23) 
 - **Battle Value:** 740 
 
 ## Availability 

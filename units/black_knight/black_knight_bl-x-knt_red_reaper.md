@@ -16,7 +16,7 @@
   - Large Vibroblade 
 - **Equipment:** 
   - Large Shield 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5783/black-knight-bl-x-knt-red-reaper) 
 - **Battle Value:** 1858 
 
 ## Availability 

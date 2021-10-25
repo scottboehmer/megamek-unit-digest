@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1420/hauptmann-ha1-o) 
 - **Battle Value:** 2157 
 
 ## Availability 

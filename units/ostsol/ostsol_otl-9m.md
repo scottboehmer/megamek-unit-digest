@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2379/ostsol-otl-9m) 
 - **Battle Value:** 1871 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7) 
 - **Battle Value:** 1845 
 
 ## Availability 

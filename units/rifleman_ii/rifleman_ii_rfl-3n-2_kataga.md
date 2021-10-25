@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** HTP New Dallas , [Master Unit List](Master Unit List) 
+- **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6969/rifleman-ii-rfl-3n-2-kataga) 
 - **Battle Value:** 1991 
 
 ## Availability 

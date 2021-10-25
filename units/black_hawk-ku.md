@@ -13,7 +13,7 @@
   - Medium Pulse Laser × 4 
   - Medium Laser × 6 
   - Small Laser × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/345/black-hawk-ku-bhku-o) 
 - **Battle Value:** 1731 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-o.md) 
 
@@ -30,7 +30,7 @@
   - ER PPC × 2 
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/347/black-hawk-ku-bhku-oa) 
 - **Battle Value:** 1770 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oa.md) 
 
@@ -46,7 +46,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Ultra AC/5 (ammo: 20) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/348/black-hawk-ku-bhku-ob) 
 - **Battle Value:** 1303 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ob.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 8) 
   - Medium Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/349/black-hawk-ku-bhku-oc) 
 - **Battle Value:** 1597 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oc.md) 
 
@@ -78,7 +78,7 @@
 - **Weapons:** 
   - LRM 20 (ammo: 12) 
   - ER Large Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/350/black-hawk-ku-bhku-od) 
 - **Battle Value:** 1539 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-od.md) 
 
@@ -96,7 +96,7 @@
 - **Equipment:** 
   - Coolant Pod × 2 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/354/black-hawk-ku-bhku-ox) 
 - **Battle Value:** 1941 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ox.md) 
 
@@ -114,7 +114,7 @@
   - Clan Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3825/black-hawk-ku-bhku-or) 
 - **Battle Value:** 2193 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-or.md) 
 
@@ -129,7 +129,7 @@
 - **Heat Sinks:** 19 (38) 
 - **Weapons:** 
   - ER Medium Laser × 12 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/351/black-hawk-ku-bhku-oe) 
 - **Battle Value:** 1982 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oe.md) 
 
@@ -147,7 +147,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/352/black-hawk-ku-bhku-of) 
 - **Battle Value:** 1759 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-of.md) 
 
@@ -183,7 +183,7 @@
   - Hatchet 
 - **Equipment:** 
   - Liquid Cargo 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/353/black-hawk-ku-bhku-ou) 
 - **Battle Value:** 1687 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ou.md) 
 
@@ -203,7 +203,7 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
   - TAG 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6890/black-hawk-ku-bhku-og) 
 - **Battle Value:** 1719 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-og.md) 
 

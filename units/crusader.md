@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/748/crusader-crd-2r) 
 - **Battle Value:** 1533 
 - [*More Info*](crusader/crusader_crd-2r.md) 
 
@@ -32,7 +32,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752/crusader-crd-3r) 
 - **Battle Value:** 1317 
 - [*More Info*](crusader/crusader_crd-3r.md) 
 
@@ -50,7 +50,7 @@
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/751/crusader-crd-3l) 
 - **Battle Value:** 1297 
 - [*More Info*](crusader/crusader_crd-3l.md) 
 
@@ -66,7 +66,7 @@
   - LRM 15 × 2 (ammo: 16) 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/749/crusader-crd-3d) 
 - **Battle Value:** 1338 
 - [*More Info*](crusader/crusader_crd-3d.md) 
 
@@ -82,7 +82,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/750/crusader-crd-3k) 
 - **Battle Value:** 1290 
 - [*More Info*](crusader/crusader_crd-3k.md) 
 
@@ -99,7 +99,7 @@
   - Medium Laser × 2 
   - Claw × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael) 
 - **Battle Value:** 1204 
 - [*More Info*](crusader/crusader_crd-3r_crael.md) 
 
@@ -115,7 +115,7 @@
   - LRM 15 × 2 (ammo: 16) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d) 
 - **Battle Value:** 1309 
 - [*More Info*](crusader/crusader_crd-4d.md) 
 
@@ -131,7 +131,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - SRM 6 × 2 (ammo: 15) 
   - Medium Pulse Laser × 2 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k) 
 - **Battle Value:** 1268 
 - [*More Info*](crusader/crusader_crd-4k.md) 
 
@@ -147,7 +147,7 @@
   - LRM 15 × 2 (ammo: 16) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/757/crusader-crd-4l) 
 - **Battle Value:** 1309 
 - [*More Info*](crusader/crusader_crd-4l.md) 
 
@@ -169,7 +169,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m) 
 - **Battle Value:** 1408 
 - [*More Info*](crusader/crusader_crd-5m.md) 
 
@@ -188,7 +188,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s) 
 - **Battle Value:** 1446 
 - [*More Info*](crusader/crusader_crd-5s.md) 
 
@@ -206,7 +206,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8225/crusader-crd-6t) 
 - **Battle Value:** 1890 
 - [*More Info*](crusader/crusader_crd-6t.md) 
 
@@ -225,7 +225,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br) 
 - **Battle Value:** 1407 
 - [*More Info*](crusader/crusader_crd-4br.md) 
 
@@ -244,7 +244,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8224/crusader-crd-6d) 
 - **Battle Value:** 1498 
 - [*More Info*](crusader/crusader_crd-6d.md) 
 
@@ -264,7 +264,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758/crusader-crd-5k) 
 - **Battle Value:** 1463 
 - [*More Info*](crusader/crusader_crd-5k.md) 
 
@@ -283,7 +283,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/765/crusader-crd-8s) 
 - **Battle Value:** 1698 
 - [*More Info*](crusader/crusader_crd-8s.md) 
 
@@ -303,7 +303,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/762/crusader-crd-7l) 
 - **Battle Value:** 1749 
 - [*More Info*](crusader/crusader_crd-7l.md) 
 
@@ -322,7 +322,7 @@
   - MML 5 w/ Artemis IV × 2 (ammo: 72 LRM, 40 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/763/crusader-crd-7w) 
 - **Battle Value:** 1162 
 - [*More Info*](crusader/crusader_crd-7w.md) 
 
@@ -342,7 +342,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
 - **Battle Value:** 1373 
 - [*More Info*](crusader/crusader_crd-6m.md) 
 
@@ -360,7 +360,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/764/crusader-crd-8l) 
 - **Battle Value:** 1701 
 - [*More Info*](crusader/crusader_crd-8l.md) 
 
@@ -381,7 +381,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8227/crusader-crd-7m) 
 - **Battle Value:** 1465 
 - [*More Info*](crusader/crusader_crd-7m.md) 
 
@@ -402,7 +402,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8228/crusader-crd-7m2) 
 - **Battle Value:** 1397 
 - [*More Info*](crusader/crusader_crd-7m2.md) 
 
@@ -422,7 +422,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8231/crusader-crd-8r) 
 - **Battle Value:** 1600 
 - [*More Info*](crusader/crusader_crd-8r.md) 
 
@@ -444,7 +444,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8232/crusader-crd-9br) 
 - **Battle Value:** 1653 
 - [*More Info*](crusader/crusader_crd-9br.md) 
 
@@ -464,7 +464,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8233/crusader-crd-9r) 
 - **Battle Value:** 1612 
 - [*More Info*](crusader/crusader_crd-9r.md) 
 
@@ -485,7 +485,7 @@
   - Anti-Missile System (ammo: 12) 
   - Supercharger 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226/crusader-crd-7d) 
 - **Battle Value:** 1681 
 - [*More Info*](crusader/crusader_crd-7d.md) 
 

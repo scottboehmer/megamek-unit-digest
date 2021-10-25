@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Ultra AC/5 × 2 (ammo: 40) 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7597/rifleman-rfl-5cs) 
 - **Battle Value:** 1303 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Inner Sphere Bloodhound Active Probe 
   - Inner Sphere M-Pod × 2 
   - CASE 
-- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i) 
 - **Battle Value:** 1094 
 
 ## Availability 

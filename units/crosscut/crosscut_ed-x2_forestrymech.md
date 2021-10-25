@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo × 2 
-- **Sources:** RS OK - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741/crosscut-ed-x2-loggermech) 
 - **Battle Value:** 223 
 
 ## Availability 

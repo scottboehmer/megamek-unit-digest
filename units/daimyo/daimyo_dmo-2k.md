@@ -14,7 +14,7 @@
   - ER Large Laser 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/804/daimyo-dmo-2k) 
 - **Battle Value:** 1057 
 
 ## Availability 

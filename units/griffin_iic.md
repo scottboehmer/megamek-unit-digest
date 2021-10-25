@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard) 
 - **Battle Value:** 1608 
 - [*More Info*](griffin_iic/griffin_iic_standard.md) 
 
@@ -34,7 +34,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2) 
 - **Battle Value:** 1516 
 - [*More Info*](griffin_iic/griffin_iic_2.md) 
 
@@ -54,7 +54,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1312/griffin-iic-3) 
 - **Battle Value:** 1532 
 - [*More Info*](griffin_iic/griffin_iic_3.md) 
 
@@ -73,7 +73,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1313/griffin-iic-4) 
 - **Battle Value:** 1475 
 - [*More Info*](griffin_iic/griffin_iic_4.md) 
 
@@ -92,7 +92,7 @@
   - Light Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1314/griffin-iic-5) 
 - **Battle Value:** 1344 
 - [*More Info*](griffin_iic/griffin_iic_5.md) 
 
@@ -111,7 +111,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315/griffin-iic-6) 
 - **Battle Value:** 1468 
 - [*More Info*](griffin_iic/griffin_iic_6.md) 
 
@@ -131,7 +131,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1317/griffin-iic-8) 
 - **Battle Value:** 1736 
 - [*More Info*](griffin_iic/griffin_iic_8.md) 
 
@@ -150,7 +150,7 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1316/griffin-iic-7) 
 - **Battle Value:** 1952 
 - [*More Info*](griffin_iic/griffin_iic_7.md) 
 
@@ -169,7 +169,7 @@
   - Inner Sphere ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9) 
 - **Battle Value:** 1106 
 - [*More Info*](griffin_iic/griffin_iic_9.md) 
 

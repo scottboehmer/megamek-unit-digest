@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 5 
-- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/559/charger-cgr-1a1) 
 - **Battle Value:** 981 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1347/gunslinger-gun-1erd) 
 - **Battle Value:** 2286 
 
 ## Availability 

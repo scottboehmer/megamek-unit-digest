@@ -16,7 +16,7 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1752/karhu-prime) 
 - **Battle Value:** 2484 
 - [*More Info*](karhu/karhu_prime.md) 
 
@@ -37,7 +37,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1748/karhu-a) 
 - **Battle Value:** 2560 
 - [*More Info*](karhu/karhu_a.md) 
 
@@ -57,7 +57,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b) 
 - **Battle Value:** 2787 
 - [*More Info*](karhu/karhu_b.md) 
 
@@ -77,7 +77,7 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1750/karhu-c) 
 - **Battle Value:** 2089 
 - [*More Info*](karhu/karhu_c.md) 
 
@@ -99,7 +99,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1751/karhu-d) 
 - **Battle Value:** 3118 
 - [*More Info*](karhu/karhu_d.md) 
 
@@ -120,7 +120,7 @@
   - Inner Sphere Guardian ECM Suite 
   - Inner Sphere Beagle Active Probe 
   - Inner Sphere C3 Slave 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1747/karhu-syngman) 
 - **Battle Value:** 1921 
 - [*More Info*](karhu/karhu_syngman.md) 
 
@@ -141,7 +141,7 @@
   - Light TAG 
   - CASE 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6882/karhu-g) 
 - **Battle Value:** 2895 
 - [*More Info*](karhu/karhu_g.md) 
 

@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2608/quasit-qua-51p-militiamech) 
 - **Battle Value:** 865 
 
 ## Availability 

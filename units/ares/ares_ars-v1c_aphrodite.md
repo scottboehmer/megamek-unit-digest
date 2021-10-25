@@ -24,7 +24,7 @@
   - A-Pod × 6 
   - CASE II 
   - C3 Master × 2 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6688/ares-ars-v1c-aphrodite) 
 - **Battle Value:** 2903 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6284/thor-ii-grand-summoner-c) 
 - **Battle Value:** 2351 
 
 ## Availability 

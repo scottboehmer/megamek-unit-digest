@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - C3 Boosted Slave 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6345/centurion-cn11-oe) 
 - **Battle Value:** 1515 
 
 ## Availability 

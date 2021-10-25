@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6849/mad-cat-mk-ii-5) 
 - **Battle Value:** 2491 
 
 ## Availability 

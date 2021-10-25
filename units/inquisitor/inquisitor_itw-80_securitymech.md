@@ -18,7 +18,7 @@
   - Communications Equipment 
   - Searchlight 
   - Ejection Seat 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4364/inquisitor-itw-80-securitymech) 
 - **Battle Value:** 613 
 
 ## Availability 

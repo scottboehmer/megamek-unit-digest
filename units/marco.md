@@ -16,7 +16,7 @@
   - Salvage Arm 
   - Communications Equipment 
   - Searchlight 
-- **Sources:** RS IA - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4594/marco-mr-6-explorermech) 
 - **Battle Value:** 295 
 - [*More Info*](marco/marco_mr-6_explorermech.md) 
 
@@ -38,7 +38,7 @@
   - Communications Equipment 
   - Cargo 
   - Searchlight 
-- **Sources:** RS IA - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4595/marco-mr-7-explorermech) 
 - **Battle Value:** 295 
 - [*More Info*](marco/marco_mr-7_explorermech.md) 
 
@@ -77,7 +77,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2073/marco-mr-8d) 
 - **Battle Value:** 436 
 - [*More Info*](marco/marco_mr-8d.md) 
 
@@ -95,7 +95,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2074/marco-mr-8e) 
 - **Battle Value:** 476 
 - [*More Info*](marco/marco_mr-8e.md) 
 

@@ -19,7 +19,7 @@
   - Inner Sphere Anti-Missile System (ammo: 12) 
   - CASE 
   - Inner Sphere CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7683/excalibur-exc-b2b-ec) 
 - **Battle Value:** 2001 
 
 ## Availability 

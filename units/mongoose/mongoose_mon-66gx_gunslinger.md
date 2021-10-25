@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Null-Signature System 
   - Chameleon LPS 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7318/mongoose-gunslinger-mon-66gx) 
 - **Battle Value:** 887 
 
 ## Availability 

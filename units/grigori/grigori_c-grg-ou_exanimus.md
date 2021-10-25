@@ -22,7 +22,7 @@
   - Beagle Active Probe 
   - MASS 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1327/grigori-c-grg-ou-exanimus) 
 - **Battle Value:** 1604 
 
 ## Availability 

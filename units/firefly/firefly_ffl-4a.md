@@ -15,7 +15,7 @@
   - Medium Laser × 3 
   - LRM 5 (ammo: 24) 
   - Small Laser × 4 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087/firefly-ffl-4a) 
 - **Battle Value:** 831 
 
 ## Availability 

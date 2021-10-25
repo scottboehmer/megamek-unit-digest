@@ -15,7 +15,7 @@
   - LRM 15 × 2 (ammo: 32) 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** RS 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/7177/lumberjack-lm5m-militiamech) 
 - **Battle Value:** 1360 
 
 ## Availability 

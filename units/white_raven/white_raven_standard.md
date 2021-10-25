@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7794/white-raven-standard) 
 - **Battle Value:** 2941 
 
 ## Availability 

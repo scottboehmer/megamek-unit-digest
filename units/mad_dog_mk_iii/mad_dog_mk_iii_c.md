@@ -15,7 +15,7 @@
   - Micro Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6274/vulture-mk-iii-mad-dog-mk-iii-c) 
 - **Battle Value:** 2299 
 
 ## Availability 

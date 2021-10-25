@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8239/amarok-standard) 
 - **Battle Value:** 3016 
 - [*More Info*](amarok/amarok_standard.md) 
 
@@ -38,7 +38,7 @@
   - MASC 
   - CASE II 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8240/amarok-2) 
 - **Battle Value:** 3351 
 - [*More Info*](amarok/amarok_2.md) 
 
@@ -57,7 +57,7 @@
 - **Equipment:** 
   - Inner Sphere Spikes × 6 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8241/amarok-3) 
 - **Battle Value:** 2675 
 - [*More Info*](amarok/amarok_3.md) 
 

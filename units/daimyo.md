@@ -12,7 +12,7 @@
   - ER PPC 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/802/daimyo-dmo-1k) 
 - **Battle Value:** 1148 
 - [*More Info*](daimyo/daimyo_dmo-1k.md) 
 
@@ -28,7 +28,7 @@
   - ER Large Laser 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/804/daimyo-dmo-2k) 
 - **Battle Value:** 1057 
 - [*More Info*](daimyo/daimyo_dmo-2k.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Laser × 3 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/805/daimyo-dmo-4k) 
 - **Battle Value:** 1150 
 - [*More Info*](daimyo/daimyo_dmo-4k.md) 
 
@@ -60,7 +60,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/806/daimyo-dmo-5k) 
 - **Battle Value:** 1087 
 - [*More Info*](daimyo/daimyo_dmo-5k.md) 
 

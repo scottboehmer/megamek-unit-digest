@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Void-Signature System 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/89/archer-arc-9w) 
 - **Battle Value:** 1774 
 
 ## Availability 

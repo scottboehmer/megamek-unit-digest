@@ -21,7 +21,7 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667/chimera-cma-2k) 
 - **Battle Value:** 1528 
 
 ## Availability 

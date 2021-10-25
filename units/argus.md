@@ -13,7 +13,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3729/argus-ags-2d) 
 - **Battle Value:** 1566 
 - [*More Info*](argus/argus_ags-2d.md) 
 
@@ -34,7 +34,7 @@
   - Beagle Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3730/argus-ags-4d) 
 - **Battle Value:** 1638 
 - [*More Info*](argus/argus_ags-4d.md) 
 
@@ -55,7 +55,7 @@
   - MASC 
   - Targeting Computer 
   - C3 Slave 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5683/argus-ags-5d) 
 - **Battle Value:** 2065 
 - [*More Info*](argus/argus_ags-5d.md) 
 
@@ -75,7 +75,7 @@
   - C3 Boosted Slave 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx) 
 - **Battle Value:** 1598 
 - [*More Info*](argus/argus_ags-8dx.md) 
 
@@ -93,7 +93,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5684/argus-ags-6f) 
 - **Battle Value:** 1524 
 - [*More Info*](argus/argus_ags-6f.md) 
 

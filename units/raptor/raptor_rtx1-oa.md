@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser × 3 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2648/raptor-rtx1-oa) 
 - **Battle Value:** 783 
 
 ## Availability 

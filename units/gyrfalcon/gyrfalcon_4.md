@@ -18,7 +18,7 @@
   - CASE 
   - Partial Wing 
   - MASC 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6269/gyrfalcon-4) 
 - **Battle Value:** 3716 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - Large Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2354/ostroc-osr-3c) 
 - **Battle Value:** 1288 
 
 ## Availability 

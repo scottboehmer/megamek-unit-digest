@@ -16,7 +16,7 @@
   - ECM Suite 
   - A-Pod × 4 
   - CASE 
-- **Sources:** RS:3067U , [Master Unit List](Master Unit List) 
+- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5691/bowman-4) 
 - **Battle Value:** 1657 
 
 ## Availability 

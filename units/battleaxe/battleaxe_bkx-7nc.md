@@ -14,7 +14,7 @@
   - PPC × 2 
   - SRM 6 (ammo: 15) 
   - LRM 5 × 4 (ammo: 24) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278/battleaxe-bkx-7nc) 
 - **Battle Value:** 1252 
 
 ## Availability 

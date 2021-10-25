@@ -20,7 +20,7 @@
   - Active Probe 
   - A-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1928/loki-hellbringer-h) 
 - **Battle Value:** 1952 
 
 ## Availability 

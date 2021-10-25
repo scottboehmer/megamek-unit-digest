@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2578/preta-c-prt-oe-eminus) 
 - **Battle Value:** 1211 
 
 ## Availability 

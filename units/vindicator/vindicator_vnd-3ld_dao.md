@@ -19,7 +19,7 @@
 - **Equipment:** 
   - AES × 2 
   - Supercharger 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3427/vindicator-vnd-3ld-dao) 
 - **Battle Value:** 1583 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7602/phoenix-hawk-pxh-1bc) 
 - **Battle Value:** 1174 
 
 ## Availability 

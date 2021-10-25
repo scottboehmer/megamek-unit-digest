@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 72) 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/813/daishi-dire-wolf-a) 
 - **Battle Value:** 2855 
 
 ## Availability 

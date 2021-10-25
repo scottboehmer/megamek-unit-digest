@@ -19,7 +19,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8105/daedalus-dad-dx) 
 - **Battle Value:** 1606 
 
 ## Availability 

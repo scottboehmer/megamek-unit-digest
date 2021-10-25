@@ -17,7 +17,7 @@
   - ER Large Laser 
   - ER Medium Laser × 2 
   - ER Small Laser 
-- **Sources:** Succesion Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7620/lynx-c) 
 - **Battle Value:** 2712 
 
 ## Availability 

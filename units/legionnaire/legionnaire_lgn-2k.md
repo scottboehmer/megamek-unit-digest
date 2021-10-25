@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - MASC 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k) 
 - **Battle Value:** 1597 
 
 ## Availability 

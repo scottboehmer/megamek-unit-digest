@@ -15,7 +15,7 @@
   - AC/20 (ammo: 15) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3409/victor-vtr-9b) 
 - **Battle Value:** 1378 
 
 ## Availability 

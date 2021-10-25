@@ -14,7 +14,7 @@
 - **Weapons:** 
   - MRM 20 × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4309/hellspawn-hsn-9f) 
 - **Battle Value:** 1118 
 
 ## Availability 

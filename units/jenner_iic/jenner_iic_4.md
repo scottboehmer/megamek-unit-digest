@@ -16,7 +16,7 @@
   - ATM 3 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1701/jenner-iic-4) 
 - **Battle Value:** 1052 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807/phoenix-hawk-pxh-4l-sante) 
 - **Battle Value:** 1442 
 
 ## Availability 

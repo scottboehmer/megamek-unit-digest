@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - LRM 10 (ammo: 12) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m) 
 - **Battle Value:** 1458 
 
 ## Availability 

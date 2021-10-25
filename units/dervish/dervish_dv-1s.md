@@ -15,7 +15,7 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - SRM 2 × 2 (ammo: 100) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/877/dervish-dv-1s) 
 - **Battle Value:** 864 
 
 ## Availability 

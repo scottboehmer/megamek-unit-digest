@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Streak SRM 2 × 4 (ammo: 50) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6938/javelin-jvn-11p) 
 - **Battle Value:** 680 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - MASC 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7581/dasher-fire-moth-p) 
 - **Battle Value:** 841 
 
 ## Availability 

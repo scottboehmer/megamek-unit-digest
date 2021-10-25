@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Heavy PPC × 2 
   - ER Medium Laser × 6 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3509/warlord-blr-2d) 
 - **Battle Value:** 2041 
 - [*More Info*](warlord/warlord_blr-2d.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Heavy PPC × 2 
   - Medium Laser × 12 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3511/warlord-blr-2g) 
 - **Battle Value:** 2033 
 - [*More Info*](warlord/warlord_blr-2g.md) 
 
@@ -48,7 +48,7 @@
   - TAG 
   - C3i 
   - Remote Sensor Dispenser 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5602/warlord-blr-2xc) 
 - **Battle Value:** 1844 
 - [*More Info*](warlord/warlord_blr-2xc.md) 
 
@@ -70,7 +70,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3510/warlord-blr-2dr) 
 - **Battle Value:** 2284 
 - [*More Info*](warlord/warlord_blr-2dr.md) 
 

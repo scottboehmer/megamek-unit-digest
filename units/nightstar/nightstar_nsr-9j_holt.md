@@ -19,7 +19,7 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](Master Unit List) 
+- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt) 
 - **Battle Value:** 3433 
 
 ## Availability 

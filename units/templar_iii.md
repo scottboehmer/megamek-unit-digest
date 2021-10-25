@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6353/templar-iii-tlr2-o) 
 - **Battle Value:** 2028 
 - [*More Info*](templar_iii/templar_iii_tlr2-o.md) 
 
@@ -36,7 +36,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6354/templar-iii-tlr2-oa) 
 - **Battle Value:** 1677 
 - [*More Info*](templar_iii/templar_iii_tlr2-oa.md) 
 
@@ -59,7 +59,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6355/templar-iii-tlr2-ob) 
 - **Battle Value:** 1919 
 - [*More Info*](templar_iii/templar_iii_tlr2-ob.md) 
 
@@ -81,7 +81,7 @@
   - Command Console 
   - CASE II 
   - Clan Targeting Computer 
-- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955/templar-iii-tlr-2j-arthur) 
 - **Battle Value:** 2705 
 - [*More Info*](templar_iii/templar_iii_tlr2-j_arthur.md) 
 
@@ -102,7 +102,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6356/templar-iii-tlr2-oc) 
 - **Battle Value:** 1993 
 - [*More Info*](templar_iii/templar_iii_tlr2-oc.md) 
 
@@ -121,7 +121,7 @@
   - Medium Re-Engineered Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6357/templar-iii-tlr2-od) 
 - **Battle Value:** 2108 
 - [*More Info*](templar_iii/templar_iii_tlr2-od.md) 
 

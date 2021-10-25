@@ -15,7 +15,7 @@
   - Enviro-Sealing 
   - Salvage Arm 
   - Lift Hoist × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1598/hyena-hyn-4a-salvagemech) 
 - **Battle Value:** 472 
 - [*More Info*](hyena/hyena_hyn-4a_salvagemech.md) 
 

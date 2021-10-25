@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
-- **Sources:** TRO 3075- Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5021/pariah-septicemia-c) 
 - **Battle Value:** 2227 
 
 ## Availability 

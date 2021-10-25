@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6978/galahad-glh-3d-laodices) 
 - **Battle Value:** 1549 
 
 ## Availability 

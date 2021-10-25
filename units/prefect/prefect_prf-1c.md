@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - C3 Emergency Master 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7348/prefect-prf-1c) 
 - **Battle Value:** 1857 
 
 ## Availability 

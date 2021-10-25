@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Light PPC × 2 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7723/hermit-crab-hmc-15) 
 - **Battle Value:** 742 
 
 ## Availability 

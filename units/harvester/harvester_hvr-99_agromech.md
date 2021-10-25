@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** TRO VA , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4264/harvester-hvr-99-agromech) 
 - **Battle Value:** 339 
 
 ## Availability 

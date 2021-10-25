@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** RS IA - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4024/crosscut-ed-x4-loggermech) 
 - **Battle Value:** 223 
 
 ## Availability 

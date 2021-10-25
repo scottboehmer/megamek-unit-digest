@@ -13,7 +13,7 @@
 - **Heat Sinks:** 19 (38) 
 - **Weapons:** 
   - ER Medium Laser × 12 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/351/black-hawk-ku-bhku-oe) 
 - **Battle Value:** 1982 
 
 ## Availability 

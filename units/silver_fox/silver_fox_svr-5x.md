@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2944/silver-fox-svr-5x) 
 - **Battle Value:** 1432 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Weapons:** 
   - AC/5 × 2 (ammo: 80) 
   - Medium Laser × 3 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7186/emperor-emp-1a) 
 - **Battle Value:** 1453 
 - [*More Info*](emperor/emperor_emp-1a.md) 
 
@@ -29,7 +29,7 @@
   - Large Laser × 2 
   - AC/5 × 2 (ammo: 40) 
   - Medium Laser × 3 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/963/emperor-emp-5a) 
 - **Battle Value:** 1830 
 - [*More Info*](emperor/emperor_emp-5a.md) 
 
@@ -49,7 +49,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/964/emperor-emp-6a) 
 - **Battle Value:** 1969 
 - [*More Info*](emperor/emperor_emp-6a.md) 
 
@@ -70,7 +70,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7685/emperor-emp-6a-ec) 
 - **Battle Value:** 2150 
 - [*More Info*](emperor/emperor_emp-6a-ec.md) 
 
@@ -109,7 +109,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/966/emperor-emp-6d) 
 - **Battle Value:** 2382 
 - [*More Info*](emperor/emperor_emp-6d.md) 
 
@@ -130,7 +130,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/967/emperor-emp-6l) 
 - **Battle Value:** 2681 
 - [*More Info*](emperor/emperor_emp-6l.md) 
 
@@ -151,7 +151,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/968/emperor-emp-6m) 
 - **Battle Value:** 2090 
 - [*More Info*](emperor/emperor_emp-6m.md) 
 
@@ -170,7 +170,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/970/emperor-emp-6s) 
 - **Battle Value:** 2065 
 - [*More Info*](emperor/emperor_emp-6s.md) 
 
@@ -190,7 +190,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/971/emperor-emp-7l) 
 - **Battle Value:** 2179 
 - [*More Info*](emperor/emperor_emp-7l.md) 
 
@@ -228,7 +228,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6851/emperor-emp-8l) 
 - **Battle Value:** 2385 
 - [*More Info*](emperor/emperor_emp-8l.md) 
 

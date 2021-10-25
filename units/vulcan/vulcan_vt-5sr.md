@@ -19,7 +19,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3463/vulcan-vt-5sr) 
 - **Battle Value:** 1210 
 
 ## Availability 

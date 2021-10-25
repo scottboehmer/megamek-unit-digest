@@ -18,7 +18,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1184/gallowglas-gal-2glsa) 
 - **Battle Value:** 1771 
 
 ## Availability 

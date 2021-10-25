@@ -19,7 +19,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Shrapnel 3:Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Shrapnel 3:Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7720/thunder-stallion-4) 
 - **Battle Value:** 2607 
 
 ## Availability 

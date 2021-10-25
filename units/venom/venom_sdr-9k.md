@@ -13,7 +13,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Pulse Laser × 4 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3398/venom-sdr-9k) 
 - **Battle Value:** 798 
 
 ## Availability 

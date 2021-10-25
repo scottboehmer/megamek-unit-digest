@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
-- **Sources:** RecGuide 13 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8123/stinger-stg-4g) 
 - **Battle Value:** 541 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/496/cauldron-born-ebon-jaguar-prime) 
 - **Battle Value:** 1952 
 
 ## Availability 

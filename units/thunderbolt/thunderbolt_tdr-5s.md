@@ -16,7 +16,7 @@
   - Medium Laser × 3 
   - SRM 2 (ammo: 50) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3238/thunderbolt-tdr-5s) 
 - **Battle Value:** 1335 
 
 ## Availability 

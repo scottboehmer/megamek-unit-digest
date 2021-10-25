@@ -16,7 +16,7 @@
   - LB 10-X AC (ammo: 10) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3787/banshee-bnc-5s-vandergriff) 
 - **Battle Value:** 1853 
 
 ## Availability 

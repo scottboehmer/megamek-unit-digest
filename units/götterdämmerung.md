@@ -14,7 +14,7 @@
   - ER PPC 
   - LRM 15 (ammo: 8) 
   - ER Medium Laser × 5 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6629/gotterdammerung-gtd-20s) 
 - **Battle Value:** 1727 
 - [*More Info*](götterdämmerung/götterdämmerung_gtd-20s.md) 
 

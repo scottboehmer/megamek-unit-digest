@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c) 
 - **Battle Value:** 1447 
 
 ## Availability 

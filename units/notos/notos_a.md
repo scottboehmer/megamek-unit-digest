@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Wheels 
   - CASE 
-- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7371/notos-a) 
 - **Battle Value:** 1528 
 
 ## Availability 

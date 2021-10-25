@@ -14,7 +14,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7842/exo-hmx-3-haulermech) 
 - **Battle Value:** 105 
 
 ## Availability 

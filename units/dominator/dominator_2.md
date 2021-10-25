@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7435/dominator-2) 
 - **Battle Value:** 2906 
 
 ## Availability 

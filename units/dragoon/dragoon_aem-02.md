@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Hist LOT II , [Master Unit List](Master Unit List) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6781/dragoon-aem-02) 
 - **Battle Value:** 1691 
 
 ## Availability 

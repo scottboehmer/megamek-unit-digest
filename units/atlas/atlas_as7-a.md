@@ -15,7 +15,7 @@
   - AC/5 (ammo: 20) 
   - SRM 6 × 5 (ammo: 60) 
   - Medium Laser × 2 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433/atlas-as7-a) 
 - **Battle Value:** 1787 
 
 ## Availability 

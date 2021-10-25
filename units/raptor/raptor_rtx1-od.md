@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2651/raptor-rtx1-od) 
 - **Battle Value:** 490 
 
 ## Availability 

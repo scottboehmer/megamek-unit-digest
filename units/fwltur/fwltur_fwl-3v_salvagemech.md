@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Salvage Arm × 2 
   - Lift Hoist × 2 
-- **Sources:** TRO3085 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1163/fwltur-fwl-3v-salvagemech) 
 - **Battle Value:** 252 
 
 ## Availability 

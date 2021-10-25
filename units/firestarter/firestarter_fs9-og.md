@@ -17,7 +17,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106/firestarter-fs9-og) 
 - **Battle Value:** 1063 
 
 ## Availability 

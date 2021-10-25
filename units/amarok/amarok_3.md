@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Inner Sphere Spikes × 6 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8241/amarok-3) 
 - **Battle Value:** 2675 
 
 ## Availability 

@@ -36,7 +36,7 @@
   - Streak SRM 6 × 4 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931/shogun-c) 
 - **Battle Value:** 3008 
 - [*More Info*](shogun/shogun_c.md) 
 
@@ -55,7 +55,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2932/shogun-shg-2e) 
 - **Battle Value:** 1823 
 - [*More Info*](shogun/shogun_shg-2e.md) 
 
@@ -74,7 +74,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2933/shogun-shg-2f) 
 - **Battle Value:** 1804 
 - [*More Info*](shogun/shogun_shg-2f.md) 
 
@@ -93,7 +93,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058/shogun-shg-2f-trisha) 
 - **Battle Value:** 1733 
 - [*More Info*](shogun/shogun_shg-2f_trisha.md) 
 

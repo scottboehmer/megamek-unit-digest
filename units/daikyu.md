@@ -15,7 +15,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/797/daikyu-dai-01) 
 - **Battle Value:** 1603 
 - [*More Info*](daikyu/daikyu_dai-01.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - C3 Slave 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/800/daikyu-dai-02) 
 - **Battle Value:** 1831 
 - [*More Info*](daikyu/daikyu_dai-02.md) 
 
@@ -72,7 +72,7 @@
   - C3 Slave 
   - MASC 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/801/daikyu-dai-03) 
 - **Battle Value:** 1692 
 - [*More Info*](daikyu/daikyu_dai-03.md) 
 
@@ -92,7 +92,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799/daikyu-dai-01r) 
 - **Battle Value:** 1513 
 - [*More Info*](daikyu/daikyu_dai-01r.md) 
 

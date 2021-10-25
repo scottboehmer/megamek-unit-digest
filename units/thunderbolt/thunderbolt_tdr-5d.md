@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
   - LRM 10 (ammo: 12) 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7431/thunderbolt-tdr-5d) 
 - **Battle Value:** 1231 
 
 ## Availability 

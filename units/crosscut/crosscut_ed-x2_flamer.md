@@ -15,7 +15,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Cargo × 2 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7167/crosscut-ed-x2m-loggermech-mod-ed-x2-flamer) 
 - **Battle Value:** 168 
 
 ## Availability 

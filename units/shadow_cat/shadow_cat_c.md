@@ -18,7 +18,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2889/shadow-cat-c) 
 - **Battle Value:** 2199 
 
 ## Availability 

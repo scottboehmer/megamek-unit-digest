@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503/phoenix-hawk-pxh-4l) 
 - **Battle Value:** 1282 
 
 ## Availability 

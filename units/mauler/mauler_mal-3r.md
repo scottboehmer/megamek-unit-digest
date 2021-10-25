@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r) 
 - **Battle Value:** 1877 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/10 × 4 (ammo: 40) 
   - Medium Laser × 4 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3700/annihilator-anh-1a) 
 - **Battle Value:** 1434 
 
 ## Availability 

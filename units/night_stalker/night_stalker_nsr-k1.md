@@ -17,7 +17,7 @@
   - Lance 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6718/night-stalker-nsr-k1) 
 - **Battle Value:** 1149 
 
 ## Availability 

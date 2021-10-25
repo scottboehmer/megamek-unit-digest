@@ -15,7 +15,7 @@
   - HAG 40 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068/marauder-iic-4) 
 - **Battle Value:** 3447 
 
 ## Availability 

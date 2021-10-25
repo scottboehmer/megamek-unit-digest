@@ -16,7 +16,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/50/anvil-anv-5m) 
 - **Battle Value:** 1687 
 
 ## Availability 

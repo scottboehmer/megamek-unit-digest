@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - LRM 5 × 2 (ammo: 48) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3277/toro-tr-a-6) 
 - **Battle Value:** 864 
 
 ## Availability 

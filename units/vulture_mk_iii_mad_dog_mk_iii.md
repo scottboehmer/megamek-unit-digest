@@ -13,7 +13,7 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6271/vulture-mk-iii-mad-dog-mk-iii-prime) 
 - **Battle Value:** 2729 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_prime.md) 
 
@@ -31,7 +31,7 @@
   - SRM 6 × 4 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6272/vulture-mk-iii-mad-dog-mk-iii-a) 
 - **Battle Value:** 1880 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_a.md) 
 
@@ -50,7 +50,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6273/vulture-mk-iii-mad-dog-mk-iii-b) 
 - **Battle Value:** 2572 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_b.md) 
 
@@ -70,7 +70,7 @@
 - **Equipment:** 
   - CASE 
   - Inner Sphere C3i 
-- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7633/vulture-mk-iii-mad-dog-mk-iii-blo) 
 - **Battle Value:** 2397 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_blo.md) 
 
@@ -87,7 +87,7 @@
   - Micro Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6274/vulture-mk-iii-mad-dog-mk-iii-c) 
 - **Battle Value:** 2299 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_c.md) 
 
@@ -104,7 +104,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6275/vulture-mk-iii-mad-dog-mk-iii-d) 
 - **Battle Value:** 2421 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_d.md) 
 

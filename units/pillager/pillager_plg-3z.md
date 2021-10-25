@@ -15,7 +15,7 @@
   - Gauss Rifle × 2 (ammo: 48) 
   - Large Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2525/pillager-plg-3z) 
 - **Battle Value:** 2697 
 
 ## Availability 

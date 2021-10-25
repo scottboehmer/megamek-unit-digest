@@ -16,7 +16,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067/marauder-iic-3) 
 - **Battle Value:** 2445 
 
 ## Availability 

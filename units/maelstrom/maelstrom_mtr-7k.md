@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Supercharger 
   - C3 Boosted Slave 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6867/maelstrom-mtr-7k) 
 - **Battle Value:** 2462 
 
 ## Availability 

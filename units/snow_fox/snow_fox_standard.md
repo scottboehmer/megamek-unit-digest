@@ -15,7 +15,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2979/snow-fox-standard) 
 - **Battle Value:** 807 
 
 ## Availability 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4331/hoplite-hop-4c) 
 - **Battle Value:** 986 
 - [*More Info*](hoplite/hoplite_hop-4c.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - PPC 
   - LRM 15 (ammo: 16) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330/hoplite-hop-4b) 
 - **Battle Value:** 1162 
 - [*More Info*](hoplite/hoplite_hop-4b.md) 
 
@@ -77,7 +77,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1543/hoplite-hop-4d) 
 - **Battle Value:** 1022 
 - [*More Info*](hoplite/hoplite_hop-4d.md) 
 
@@ -96,7 +96,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1540/hoplite-c) 
 - **Battle Value:** 1736 
 - [*More Info*](hoplite/hoplite_c.md) 
 

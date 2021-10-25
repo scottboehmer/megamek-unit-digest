@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c) 
 - **Battle Value:** 1574 
 
 ## Availability 

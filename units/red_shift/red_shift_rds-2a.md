@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4906/red-shift-rds-2a) 
 - **Battle Value:** 626 
 
 ## Availability 

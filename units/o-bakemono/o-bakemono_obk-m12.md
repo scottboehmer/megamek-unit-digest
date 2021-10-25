@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Master 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2312/o-bakemono-obk-m12) 
 - **Battle Value:** 1732 
 
 ## Availability 

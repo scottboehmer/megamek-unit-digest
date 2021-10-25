@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
-- **Sources:** TRO Succession Wars - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16) 
 - **Battle Value:** 506 
 
 ## Availability 

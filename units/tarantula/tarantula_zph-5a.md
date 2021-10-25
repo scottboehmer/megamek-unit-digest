@@ -15,7 +15,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - MASC 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941/tarantula-zph-5a) 
 - **Battle Value:** 806 
 
 ## Availability 

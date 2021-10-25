@@ -20,7 +20,7 @@
   - C3 Slave 
   - TAG 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6716/revenant-ubm-2r4) 
 - **Battle Value:** 615 
 
 ## Availability 

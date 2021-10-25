@@ -14,7 +14,7 @@
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 100) 
   - Small Re-Engineered Laser 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6908/blackjack-bj2-og) 
 - **Battle Value:** 1448 
 
 ## Availability 

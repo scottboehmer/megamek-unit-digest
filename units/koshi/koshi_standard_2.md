@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548/koshi-2) 
 - **Battle Value:** 948 
 
 ## Availability 

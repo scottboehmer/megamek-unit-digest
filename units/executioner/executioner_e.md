@@ -19,7 +19,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1207/gladiator-executioner-e) 
 - **Battle Value:** 2988 
 
 ## Availability 

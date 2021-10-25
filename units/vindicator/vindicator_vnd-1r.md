@@ -16,7 +16,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3422/vindicator-vnd-1r) 
 - **Battle Value:** 1024 
 
 ## Availability 

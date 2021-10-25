@@ -15,7 +15,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
 - **Battle Value:** 1813 
 - [*More Info*](conjurer/conjurer_standard.md) 
 
@@ -34,7 +34,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7) 
 - **Battle Value:** 1845 
 - [*More Info*](conjurer/conjurer_7.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1474/hellhound-conjurer-2) 
 - **Battle Value:** 2097 
 - [*More Info*](conjurer/conjurer_2.md) 
 
@@ -71,7 +71,7 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1475/hellhound-conjurer-3) 
 - **Battle Value:** 1764 
 - [*More Info*](conjurer/conjurer_3.md) 
 
@@ -92,7 +92,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1476/hellhound-conjurer-4) 
 - **Battle Value:** 2164 
 - [*More Info*](conjurer/conjurer_4.md) 
 
@@ -110,7 +110,7 @@
   - ATM 6 × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1477/hellhound-conjurer-5) 
 - **Battle Value:** 1722 
 - [*More Info*](conjurer/conjurer_5.md) 
 

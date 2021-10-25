@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/292/battlemaster-blr-3s) 
 - **Battle Value:** 1441 
 
 ## Availability 

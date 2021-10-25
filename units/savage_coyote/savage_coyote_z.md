@@ -19,7 +19,7 @@
   - Nova CEWS 
   - CASE 
   - CASE II 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5831/savage-coyote-z) 
 - **Battle Value:** 3026 
 
 ## Availability 

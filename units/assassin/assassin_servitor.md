@@ -17,7 +17,7 @@
   - Small X-Pulse Laser × 2 
   - Small Vibroblade 
   - Small Laser 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3737/assassin-servitor) 
 - **Battle Value:** 1019 
 
 ## Availability 

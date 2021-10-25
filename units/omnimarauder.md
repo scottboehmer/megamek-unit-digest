@@ -15,7 +15,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8110/omnimarauder-mad-br-o) 
 - **Battle Value:** 2836 
 - [*More Info*](omnimarauder/omnimarauder_mad-br-o.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Clan Light TAG 
   - Clan CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8111/omnimarauder-mad-br-oa) 
 - **Battle Value:** 2117 
 - [*More Info*](omnimarauder/omnimarauder_mad-br-oa.md) 
 

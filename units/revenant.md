@@ -14,7 +14,7 @@
   - Light Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6673/revenant-ubm-2r) 
 - **Battle Value:** 779 
 - [*More Info*](revenant/revenant_ubm-2r.md) 
 
@@ -32,7 +32,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6714/revenant-ubm-2r2) 
 - **Battle Value:** 630 
 - [*More Info*](revenant/revenant_ubm-2r2.md) 
 
@@ -49,7 +49,7 @@
   - ER PPC 
 - **Equipment:** 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6715/revenant-ubm-2r3) 
 - **Battle Value:** 770 
 - [*More Info*](revenant/revenant_ubm-2r3.md) 
 
@@ -71,7 +71,7 @@
   - C3 Slave 
   - TAG 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6716/revenant-ubm-2r4) 
 - **Battle Value:** 615 
 - [*More Info*](revenant/revenant_ubm-2r4.md) 
 
@@ -88,7 +88,7 @@
   - Medium Bridgelayer 
   - Lift Hoist × 2 
   - Drone Operating System 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6717/revenant-ubm-2r7) 
 - **Battle Value:** 460 
 - [*More Info*](revenant/revenant_ubm-2r7.md) 
 

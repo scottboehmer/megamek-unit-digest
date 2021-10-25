@@ -20,7 +20,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1247/goshawk-ii-2) 
 - **Battle Value:** 1767 
 
 ## Availability 

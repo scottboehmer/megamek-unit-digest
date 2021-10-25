@@ -17,7 +17,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/868/demolitionmech-wi-dm) 
 - **Battle Value:** 380 
 
 ## Availability 

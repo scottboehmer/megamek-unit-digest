@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Slave 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2570/prefect-prf-1r-veronica) 
 - **Battle Value:** 1835 
 
 ## Availability 

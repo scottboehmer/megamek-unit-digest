@@ -71,7 +71,7 @@
   - Inner Sphere Coolant Pod 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c) 
 - **Battle Value:** 2533 
 - [*More Info*](lupus/lupus_c.md) 
 
@@ -89,7 +89,7 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d) 
 - **Battle Value:** 2030 
 - [*More Info*](lupus/lupus_d.md) 
 

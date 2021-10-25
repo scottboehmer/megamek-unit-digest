@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Light Gauss Rifle × 2 (ammo: 16) 
   - ER Medium Laser × 4 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2012/mangonel-mnl-3l) 
 - **Battle Value:** 1552 
 - [*More Info*](mangonel/mangonel_mnl-3l.md) 
 
@@ -29,7 +29,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2013/mangonel-mnl-3w) 
 - **Battle Value:** 2657 
 - [*More Info*](mangonel/mangonel_mnl-3w.md) 
 
@@ -45,7 +45,7 @@
   - Clan HAG 40 (ammo: 15) 
   - Clan Medium Pulse Laser × 2 
   - Clan ER Medium Laser × 2 
-- **Sources:** RS 3145  NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871/mangonel-mnl-4s) 
 - **Battle Value:** 2659 
 - [*More Info*](mangonel/mangonel_mnl-4s.md) 
 

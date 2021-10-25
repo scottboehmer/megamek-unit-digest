@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/937/eagle-egl-2m) 
 - **Battle Value:** 800 
 
 ## Availability 

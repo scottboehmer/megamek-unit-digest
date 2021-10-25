@@ -19,7 +19,7 @@
   - MASC 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1205/gladiator-executioner-c) 
 - **Battle Value:** 2740 
 
 ## Availability 

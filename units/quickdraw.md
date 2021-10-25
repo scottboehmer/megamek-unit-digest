@@ -13,7 +13,7 @@
   - LRM 10 (ammo: 12) 
   - Medium Laser × 4 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2610/quickdraw-qkd-4g) 
 - **Battle Value:** 1192 
 - [*More Info*](quickdraw/quickdraw_qkd-4g.md) 
 
@@ -30,7 +30,7 @@
   - LRM 10 (ammo: 12) 
   - Medium Laser × 4 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2611/quickdraw-qkd-4h) 
 - **Battle Value:** 1242 
 - [*More Info*](quickdraw/quickdraw_qkd-4h.md) 
 
@@ -46,7 +46,7 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2612/quickdraw-qkd-5a) 
 - **Battle Value:** 1196 
 - [*More Info*](quickdraw/quickdraw_qkd-5a.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2613/quickdraw-qkd-5k) 
 - **Battle Value:** 1265 
 - [*More Info*](quickdraw/quickdraw_qkd-5k.md) 
 
@@ -81,7 +81,7 @@
   - SRM 4 (OS) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2614/quickdraw-qkd-5m) 
 - **Battle Value:** 1237 
 - [*More Info*](quickdraw/quickdraw_qkd-5m.md) 
 
@@ -99,7 +99,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2618/quickdraw-qkd-c) 
 - **Battle Value:** 1225 
 - [*More Info*](quickdraw/quickdraw_qkd-c.md) 
 
@@ -115,7 +115,7 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4886/quickdraw-qkd-5k2) 
 - **Battle Value:** 1312 
 - [*More Info*](quickdraw/quickdraw_qkd-5k2.md) 
 
@@ -133,7 +133,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2616/quickdraw-qkd-8k) 
 - **Battle Value:** 1583 
 - [*More Info*](quickdraw/quickdraw_qkd-8k.md) 
 
@@ -154,7 +154,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615/quickdraw-qkd-5mr) 
 - **Battle Value:** 1465 
 - [*More Info*](quickdraw/quickdraw_qkd-5mr.md) 
 
@@ -177,7 +177,7 @@
   - Lift Hoist 
   - Head Turret 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2617/quickdraw-qkd-8x) 
 - **Battle Value:** 1612 
 - [*More Info*](quickdraw/quickdraw_qkd-8x.md) 
 
@@ -219,7 +219,7 @@
   - CASE II 
   - Targeting Computer 
   - TAG 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6887/quickdraw-qkd-9m) 
 - **Battle Value:** 1690 
 - [*More Info*](quickdraw/quickdraw_qkd-9m.md) 
 

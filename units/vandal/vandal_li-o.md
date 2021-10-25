@@ -20,7 +20,7 @@
   - Supercharger 
   - CASE II 
   - C3 Boosted Slave 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6461/vandal-li-o) 
 - **Battle Value:** 1881 
 
 ## Availability 

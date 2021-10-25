@@ -15,7 +15,7 @@
   - Snub-Nose PPC 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302/griffin-grf-4r) 
 - **Battle Value:** 1412 
 
 ## Availability 

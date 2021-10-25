@@ -13,7 +13,7 @@
 - **Weapons:** 
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 3 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/97/arctic-fox-af1f) 
 - **Battle Value:** 891 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Inner Sphere ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9) 
 - **Battle Value:** 1106 
 
 ## Availability 

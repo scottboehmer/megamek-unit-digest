@@ -18,7 +18,7 @@
   - Sword 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/568/charger-cgr-kmz) 
 - **Battle Value:** 1781 
 
 ## Availability 

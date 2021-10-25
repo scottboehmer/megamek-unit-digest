@@ -14,7 +14,7 @@
   - HAG 20 × 4 (ammo: 36) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/783/cygnus-3) 
 - **Battle Value:** 2569 
 
 ## Availability 

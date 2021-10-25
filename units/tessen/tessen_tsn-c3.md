@@ -17,7 +17,7 @@
 - **Equipment:** 
   - C3 Slave 
   - TAG 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3) 
 - **Battle Value:** 1234 
 
 ## Availability 

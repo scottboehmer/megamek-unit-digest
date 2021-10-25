@@ -19,7 +19,7 @@
   - ER Flamer × 2 
 - **Equipment:** 
   - MASS 
-- **Sources:** XTRO Ray , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Ray , [Master Unit List](http://masterunitlist.info/Unit/Details/8108/aquagladius-aqs-5-mam) 
 - **Battle Value:** 1946 
 
 ## Availability 

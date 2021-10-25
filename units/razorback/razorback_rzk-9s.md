@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4904/razorback-rzk-9s) 
 - **Battle Value:** 855 
 
 ## Availability 

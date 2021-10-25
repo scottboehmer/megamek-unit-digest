@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Command Console 
   - CASE II 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6630/zeus-x-zeu-x4) 
 - **Battle Value:** 2193 
 
 ## Availability 

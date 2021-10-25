@@ -15,7 +15,7 @@
   - Medium X-Pulse Laser × 2 
   - SRM 4 × 2 (ammo: 50) 
   - ER Small Laser × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1949/longshot-lng-3c) 
 - **Battle Value:** 971 
 
 ## Availability 

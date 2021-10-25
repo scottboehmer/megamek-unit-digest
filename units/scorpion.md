@@ -11,7 +11,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2837/scorpion-scp-1n) 
 - **Battle Value:** 1019 
 - [*More Info*](scorpion/scorpion_scp-1n.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3039 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838/scorpion-scp-1n-wendall) 
 - **Battle Value:** 1043 
 - [*More Info*](scorpion/scorpion_scp-1n_wendall.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - ER PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
 - **Battle Value:** 1098 
 - [*More Info*](scorpion/scorpion_scp-1o.md) 
 
@@ -58,7 +58,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836/scorpion-scp-12s) 
 - **Battle Value:** 1109 
 - [*More Info*](scorpion/scorpion_scp-12s.md) 
 
@@ -76,7 +76,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3i 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834/scorpion-scp-12c) 
 - **Battle Value:** 1259 
 - [*More Info*](scorpion/scorpion_scp-12c.md) 
 
@@ -94,7 +94,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
 - **Battle Value:** 1260 
 - [*More Info*](scorpion/scorpion_scp-12k.md) 
 
@@ -111,7 +111,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM) 
 - **Equipment:** 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
 - **Battle Value:** 1185 
 - [*More Info*](scorpion/scorpion_scp-1tb.md) 
 
@@ -127,7 +127,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - LRM 10 (ammo: 12) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m) 
 - **Battle Value:** 1458 
 - [*More Info*](scorpion/scorpion_scp-10m.md) 
 

@@ -17,7 +17,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 3 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa) 
 - **Battle Value:** 2216 
 
 ## Availability 

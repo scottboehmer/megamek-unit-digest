@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE II 
   - TAG 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6510/anzu-zu-g60) 
 - **Battle Value:** 1503 
 
 ## Availability 

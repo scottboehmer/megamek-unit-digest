@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle × 3 (ammo: 32) 
   - Medium Laser × 2 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3221/thunder-hawk-tdk-7s) 
 - **Battle Value:** 2440 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3624/yu-huang-y-h10g) 
 - **Battle Value:** 2433 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 5 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295/griffin-grf-1e-sparky) 
 - **Battle Value:** 1449 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2632/rakshasa-mdg-1ar) 
 - **Battle Value:** 1675 
 
 ## Availability 

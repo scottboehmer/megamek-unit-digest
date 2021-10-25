@@ -17,7 +17,7 @@
   - Beagle Active Probe 
   - MASC 
   - C3i 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216/mongoose-ii-mon-266) 
 - **Battle Value:** 1085 
 
 ## Availability 

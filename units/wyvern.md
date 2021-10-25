@@ -16,7 +16,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597/wyvern-wve-5n) 
 - **Battle Value:** 1089 
 - [*More Info*](wyvern/wyvern_wve-5n.md) 
 
@@ -37,7 +37,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3598/wyvern-wve-5nb) 
 - **Battle Value:** 1006 
 - [*More Info*](wyvern/wyvern_wve-5nb.md) 
 
@@ -58,7 +58,7 @@
   - Command Console 
   - CASE 
   - Supercharger 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7319/wyvern-city-wve-5ux) 
 - **Battle Value:** 1273 
 - [*More Info*](wyvern/wyvern_wve-5ux_city.md) 
 
@@ -78,7 +78,7 @@
   - Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5875/wyvern-wve-5nsl) 
 - **Battle Value:** 1207 
 - [*More Info*](wyvern/wyvern_wve-5nsl.md) 
 
@@ -96,7 +96,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 (ammo: 15) 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3599/wyvern-wve-6n) 
 - **Battle Value:** 1005 
 - [*More Info*](wyvern/wyvern_wve-6n.md) 
 
@@ -116,7 +116,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3600/wyvern-wve-9n) 
 - **Battle Value:** 1067 
 - [*More Info*](wyvern/wyvern_wve-9n.md) 
 
@@ -137,7 +137,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3i 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3596/wyvern-wve-10n) 
 - **Battle Value:** 1199 
 - [*More Info*](wyvern/wyvern_wve-10n.md) 
 

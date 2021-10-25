@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - Rocket 15 × 2 
   - Rocket 10 × 2 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c) 
 - **Battle Value:** 1325 
 
 ## Availability 

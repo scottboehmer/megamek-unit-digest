@@ -19,7 +19,7 @@
   - CASE 
   - C3 Master 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od) 
 - **Battle Value:** 2359 
 
 ## Availability 

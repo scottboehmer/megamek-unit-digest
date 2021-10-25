@@ -18,7 +18,7 @@
   - Small Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4983/savage-coyote-b) 
 - **Battle Value:** 2284 
 
 ## Availability 

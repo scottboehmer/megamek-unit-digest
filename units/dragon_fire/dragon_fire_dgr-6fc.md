@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/915/dragon-fire-dgr-6fc) 
 - **Battle Value:** 1858 
 
 ## Availability 

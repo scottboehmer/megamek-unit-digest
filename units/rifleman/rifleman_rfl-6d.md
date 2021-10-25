@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701/rifleman-rfl-6d) 
 - **Battle Value:** 1274 
 
 ## Availability 

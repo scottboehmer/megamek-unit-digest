@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** RS IA - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7166/crosscut-ed-x1-loggermech) 
 - **Battle Value:** 251 
 - [*More Info*](crosscut/crosscut_ed-x1_loggermech.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo × 2 
-- **Sources:** RS OK - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741/crosscut-ed-x2-loggermech) 
 - **Battle Value:** 223 
 - [*More Info*](crosscut/crosscut_ed-x2_forestrymech.md) 
 
@@ -49,7 +49,7 @@
   - Chainsaw 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7466/crosscut-ed-x4k-loggermech) 
 - **Battle Value:** 367 
 - [*More Info*](crosscut/crosscut_ed-x4k_loggermech.md) 
 
@@ -67,7 +67,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Cargo × 2 
-- **Sources:** RS IA - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7167/crosscut-ed-x2m-loggermech-mod-ed-x2-flamer) 
 - **Battle Value:** 244 
 - [*More Info*](crosscut/crosscut_ed-x2m_loggermech_mod.md) 
 
@@ -84,7 +84,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Cargo × 2 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7167/crosscut-ed-x2m-loggermech-mod-ed-x2-flamer) 
 - **Battle Value:** 168 
 - [*More Info*](crosscut/crosscut_ed-x2_flamer.md) 
 
@@ -100,7 +100,7 @@
   - Clan Prototype Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/6973/crosscut-ed-x2-loggermech-rl) 
 - **Battle Value:** 422 
 - [*More Info*](crosscut/crosscut_ed-x2_rl.md) 
 
@@ -118,7 +118,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** RS IA - Early Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4024/crosscut-ed-x4-loggermech) 
 - **Battle Value:** 223 
 - [*More Info*](crosscut/crosscut_ed-x4_loggermech.md) 
 
@@ -133,7 +133,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Chainsaw × 2 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4026/crosscut-ed-x4x-loggermech) 
 - **Battle Value:** 230 
 - [*More Info*](crosscut/crosscut_ed-x4x_loggermech.md) 
 
@@ -150,7 +150,7 @@
   - Dual Saw 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4025/crosscut-ed-x4d-demolitionmech) 
 - **Battle Value:** 225 
 - [*More Info*](crosscut/crosscut_ed-x4d_demolitionmech.md) 
 
@@ -168,7 +168,7 @@
 - **Equipment:** 
   - Cargo 
   - Lift Hoist 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7168/crosscut-ed-x4b-demolitionmech) 
 - **Battle Value:** 224 
 - [*More Info*](crosscut/crosscut_ed-x4b_demolitionmech.md) 
 
@@ -184,7 +184,7 @@
   - Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7169/crosscut-ed-x4m-loggermech-mod) 
 - **Battle Value:** 430 
 - [*More Info*](crosscut/crosscut_ed-x4m_loggermech_mod.md) 
 
@@ -199,7 +199,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Chainsaw 
-- **Sources:** RS IA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7170/crosscut-ed-x5m-loggermech-mod) 
 - **Battle Value:** 317 
 - [*More Info*](crosscut/crosscut_ed-x5m_loggermech_mod.md) 
 
@@ -219,7 +219,7 @@
   - Chainsaw 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/744/crosscut-ed-xx-ichabod) 
 - **Battle Value:** 442 
 - [*More Info*](crosscut/crosscut_ed-xx_ichabod.md) 
 
@@ -234,7 +234,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Dual Saw 
-- **Sources:** RS VA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7171/crosscut-ed-x5m-b-demolitionmech-mod) 
 - **Battle Value:** 460 
 - [*More Info*](crosscut/crosscut_ed-x5m-b_demolitionmech_mod.md) 
 
@@ -249,7 +249,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7852/crosscut-ed-x4m-a-loggermech-mod) 
 - **Battle Value:** 279 
 - [*More Info*](crosscut/crosscut_ed-x4m-a_loggermech_mod.md) 
 
@@ -264,7 +264,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7853/crosscut-ed-x4m-e-loggermech-mod) 
 - **Battle Value:** 480 
 - [*More Info*](crosscut/crosscut_ed-x4m-e_loggermech_mod.md) 
 
@@ -279,7 +279,7 @@
 - **Weapons:** 
   - LB 5-X AC (ammo: 20) 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7854/crosscut-ed-x4m-l-loggermech-mod) 
 - **Battle Value:** 230 
 - [*More Info*](crosscut/crosscut_ed-x4m-l_loggermech_mod.md) 
 

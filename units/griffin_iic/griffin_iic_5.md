@@ -17,7 +17,7 @@
   - Light Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1314/griffin-iic-5) 
 - **Battle Value:** 1344 
 
 ## Availability 

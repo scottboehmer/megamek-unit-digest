@@ -13,7 +13,7 @@
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7311/awesome-aws-8q-buck) 
 - **Battle Value:** 1787 
 
 ## Availability 

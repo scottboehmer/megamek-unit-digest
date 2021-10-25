@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8250/eris-ers-2h) 
 - **Battle Value:** 1674 
 - [*More Info*](eris/eris_ers-2h.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8251/eris-ers-2n) 
 - **Battle Value:** 1400 
 - [*More Info*](eris/eris_ers-2n.md) 
 
@@ -55,7 +55,7 @@
   - Angel ECM Suite 
   - Partial Wing 
   - TAG 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8252/eris-ers-3r) 
 - **Battle Value:** 1868 
 - [*More Info*](eris/eris_ers-3r.md) 
 

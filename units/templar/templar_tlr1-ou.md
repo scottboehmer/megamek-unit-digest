@@ -20,7 +20,7 @@
   - HarJel × 4 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3171/templar-tlr1-ou) 
 - **Battle Value:** 1747 
 
 ## Availability 

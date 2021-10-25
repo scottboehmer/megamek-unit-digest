@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light PPC 
   - Medium VSP Laser 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/938/eagle-egl-3m) 
 - **Battle Value:** 645 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586/woodsman-a) 
 - **Battle Value:** 2741 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Medium Laser 
   - Small Laser × 3 
   - Mining Drill 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7845/gulon-gln-1b-securitymech) 
 - **Battle Value:** 410 
 
 ## Availability 

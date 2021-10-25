@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Enhanced PPC 
   - Inner Sphere Medium Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677/talon-tln-5w-ec) 
 - **Battle Value:** 1364 
 
 ## Availability 

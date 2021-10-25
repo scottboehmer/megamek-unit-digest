@@ -18,7 +18,7 @@
   - A-Pod × 2 
   - CASE 
   - Light TAG 
-- **Sources:** OTP: Red Corsair - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** OTP: Red Corsair - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2001/man-o-war-gargoyle-conal) 
 - **Battle Value:** 2580 
 
 ## Availability 

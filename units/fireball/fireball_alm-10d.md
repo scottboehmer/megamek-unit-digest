@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1074/fireball-alm-10d) 
 - **Battle Value:** 957 
 
 ## Availability 

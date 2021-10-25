@@ -18,7 +18,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2334/orion-on1-m) 
 - **Battle Value:** 1414 
 
 ## Availability 

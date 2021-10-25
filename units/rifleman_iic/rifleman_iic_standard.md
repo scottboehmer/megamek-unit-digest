@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710/rifleman-iic-standard) 
 - **Battle Value:** 2307 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Clan Targeting Computer 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601/chameleon-cln-7vq-q-mech) 
 - **Battle Value:** 2113 
 
 ## Availability 

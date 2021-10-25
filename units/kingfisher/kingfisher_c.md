@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1781/kingfisher-c) 
 - **Battle Value:** 2644 
 
 ## Availability 

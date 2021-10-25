@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard) 
 - **Battle Value:** 2064 
 
 ## Availability 

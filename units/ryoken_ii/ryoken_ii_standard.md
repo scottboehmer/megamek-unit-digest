@@ -15,7 +15,7 @@
   - LB 2-X AC × 4 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2758/ryoken-ii-standard) 
 - **Battle Value:** 1801 
 
 ## Availability 

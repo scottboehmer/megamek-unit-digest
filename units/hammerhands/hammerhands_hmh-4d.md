@@ -14,7 +14,7 @@
   - PPC 
   - AC/10 × 2 (ammo: 40) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1370/hammerhands-hmh-4d) 
 - **Battle Value:** 1356 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - Narc (ammo: 6) 
   - Small Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1946/longshot-lng-1b) 
 - **Battle Value:** 899 
 
 ## Availability 

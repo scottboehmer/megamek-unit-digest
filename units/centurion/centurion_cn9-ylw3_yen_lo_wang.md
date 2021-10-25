@@ -18,7 +18,7 @@
   - Hatchet 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7404/centurion-cn9-ylw3-yen-lo-wang) 
 - **Battle Value:** 1815 
 
 ## Availability 

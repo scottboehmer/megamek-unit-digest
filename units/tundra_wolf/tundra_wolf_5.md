@@ -19,7 +19,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6862/tundra-wolf-5) 
 - **Battle Value:** 2645 
 
 ## Availability 

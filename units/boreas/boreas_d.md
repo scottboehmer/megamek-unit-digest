@@ -16,7 +16,7 @@
   - Heavy Large Laser × 2 
 - **Equipment:** 
   - Tracks 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7355/boreas-d) 
 - **Battle Value:** 1394 
 
 ## Availability 

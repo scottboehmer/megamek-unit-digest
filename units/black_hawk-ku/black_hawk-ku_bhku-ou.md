@@ -16,7 +16,7 @@
   - Hatchet 
 - **Equipment:** 
   - Liquid Cargo 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/353/black-hawk-ku-bhku-ou) 
 - **Battle Value:** 1687 
 
 ## Availability 

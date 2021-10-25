@@ -16,7 +16,7 @@
   - Streak SRM 6 × 4 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6570/mad-cat-mk-iv-savage-wolf-prime) 
 - **Battle Value:** 2681 
 
 ## Availability 

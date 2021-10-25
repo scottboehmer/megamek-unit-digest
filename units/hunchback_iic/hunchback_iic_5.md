@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8130/hunchback-iic-5) 
 - **Battle Value:** 1534 
 
 ## Availability 

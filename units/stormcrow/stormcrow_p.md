@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7555/ryoken-stormcrow-p) 
 - **Battle Value:** 2213 
 
 ## Availability 

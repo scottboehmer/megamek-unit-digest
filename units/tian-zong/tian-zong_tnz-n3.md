@@ -16,7 +16,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6468/tian-zong-tnz-n3) 
 - **Battle Value:** 2072 
 
 ## Availability 

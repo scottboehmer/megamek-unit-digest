@@ -22,7 +22,7 @@
   - Void-Signature System 
   - MASC 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2658/raptor-ii-rpt-2x1) 
 - **Battle Value:** 1274 
 
 ## Availability 

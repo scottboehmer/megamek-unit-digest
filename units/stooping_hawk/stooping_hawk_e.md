@@ -16,7 +16,7 @@
   - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3080/stooping-hawk-e) 
 - **Battle Value:** 1674 
 
 ## Availability 

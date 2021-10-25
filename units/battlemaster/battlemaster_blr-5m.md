@@ -14,7 +14,7 @@
   - ER Large Laser 
   - Light Gauss Rifle (ammo: 16) 
   - ER Medium Laser × 6 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/297/battlemaster-blr-5m) 
 - **Battle Value:** 1766 
 
 ## Availability 

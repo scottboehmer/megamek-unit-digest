@@ -18,7 +18,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597/wyvern-wve-5n) 
 - **Battle Value:** 1089 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 
 - **Battle Value:** 1700 
 
 ## Availability 

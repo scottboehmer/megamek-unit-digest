@@ -16,7 +16,7 @@
   - Light PPC 
   - Medium Pulse Laser 
   - Medium Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/519/centurion-cn9-ar) 
 - **Battle Value:** 1226 
 
 ## Availability 

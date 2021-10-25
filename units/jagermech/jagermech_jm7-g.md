@@ -16,7 +16,7 @@
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4392/jagermech-jm7-g) 
 - **Battle Value:** 1278 
 
 ## Availability 

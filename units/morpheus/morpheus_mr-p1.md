@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - Beagle Active Probe 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2225/morpheus-mr-p1) 
 - **Battle Value:** 1340 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Streak SRM 6 × 2 (ammo: 30) 
   - Medium X-Pulse Laser × 2 
   - Small X-Pulse Laser × 2 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1950/longshot-lng-4) 
 - **Battle Value:** 1086 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2344/osprey-osp-15) 
 - **Battle Value:** 1564 
 - [*More Info*](osprey/osprey_osp-15.md) 
 
@@ -34,7 +34,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2345/osprey-osp-25) 
 - **Battle Value:** 1630 
 - [*More Info*](osprey/osprey_osp-25.md) 
 
@@ -55,7 +55,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2346/osprey-osp-26) 
 - **Battle Value:** 1541 
 - [*More Info*](osprey/osprey_osp-26.md) 
 
@@ -77,7 +77,7 @@
   - Beagle Active Probe 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2347/osprey-osp-26-lawrence) 
 - **Battle Value:** 1461 
 - [*More Info*](osprey/osprey_osp-26_lawrence.md) 
 
@@ -98,7 +98,7 @@
   - Advanced Point Defense System × 2 (ammo: 24) 
   - CASE 
   - Radical Heat Sink System 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7377/osprey-osp-36) 
 - **Battle Value:** 1450 
 - [*More Info*](osprey/osprey_osp-36.md) 
 

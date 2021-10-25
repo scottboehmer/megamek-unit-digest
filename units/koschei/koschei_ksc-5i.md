@@ -18,7 +18,7 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1824/koschei-ksc-5i) 
 - **Battle Value:** 1961 
 
 ## Availability 

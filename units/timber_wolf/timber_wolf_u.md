@@ -18,7 +18,7 @@
 - **Equipment:** 
   - HarJel × 3 
   - CASE 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1987/mad-cat-timber-wolf-u) 
 - **Battle Value:** 2627 
 
 ## Availability 

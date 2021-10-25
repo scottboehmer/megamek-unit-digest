@@ -72,7 +72,7 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1606/imp-c) 
 - **Battle Value:** 3070 
 - [*More Info*](imp/imp_c.md) 
 
@@ -88,7 +88,7 @@
   - PPC × 2 
   - LRM 15 (ammo: 8) 
   - Medium Laser × 5 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4358/imp-imp-2e) 
 - **Battle Value:** 1969 
 - [*More Info*](imp/imp_imp-2e.md) 
 
@@ -108,7 +108,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1610/imp-imp-3e) 
 - **Battle Value:** 1906 
 - [*More Info*](imp/imp_imp-3e.md) 
 
@@ -128,7 +128,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1611/imp-imp-4e) 
 - **Battle Value:** 2263 
 - [*More Info*](imp/imp_imp-4e.md) 
 

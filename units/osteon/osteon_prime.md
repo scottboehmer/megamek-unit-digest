@@ -17,7 +17,7 @@
   - Nova CEWS 
   - CASE II 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4767/osteon-prime) 
 - **Battle Value:** 3073 
 
 ## Availability 

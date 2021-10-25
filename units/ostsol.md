@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2371/ostsol-otl-4d) 
 - **Battle Value:** 1277 
 - [*More Info*](ostsol/ostsol_otl-4d.md) 
 
@@ -25,7 +25,7 @@
 - **Heat Sinks:** 16 (16) 
 - **Weapons:** 
   - PPC × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2372/ostsol-otl-4f) 
 - **Battle Value:** 1264 
 - [*More Info*](ostsol/ostsol_otl-4f.md) 
 
@@ -42,7 +42,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
 - **Battle Value:** 1245 
 - [*More Info*](ostsol/ostsol_otl-5m.md) 
 
@@ -62,7 +62,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2375/ostsol-otl-6d) 
 - **Battle Value:** 1880 
 - [*More Info*](ostsol/ostsol_otl-6d.md) 
 
@@ -78,7 +78,7 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - Rocket 10 × 5 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2373/ostsol-otl-5d) 
 - **Battle Value:** 1333 
 - [*More Info*](ostsol/ostsol_otl-5d.md) 
 
@@ -95,7 +95,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376/ostsol-otl-7m) 
 - **Battle Value:** 1581 
 - [*More Info*](ostsol/ostsol_otl-7m.md) 
 
@@ -114,7 +114,7 @@
   - ER Medium Laser 
   - Medium Pulse Laser × 3 
   - ER Small Laser 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2378/ostsol-otl-8m) 
 - **Battle Value:** 1733 
 - [*More Info*](ostsol/ostsol_otl-8m.md) 
 
@@ -134,7 +134,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377/ostsol-otl-8d) 
 - **Battle Value:** 1462 
 - [*More Info*](ostsol/ostsol_otl-8d.md) 
 
@@ -157,7 +157,7 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2380/ostsol-otl-9r) 
 - **Battle Value:** 1654 
 - [*More Info*](ostsol/ostsol_otl-9r.md) 
 
@@ -177,7 +177,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2379/ostsol-otl-9m) 
 - **Battle Value:** 1871 
 - [*More Info*](ostsol/ostsol_otl-9m.md) 
 
@@ -194,7 +194,7 @@
   - Large X-Pulse Laser × 2 
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
 - **Battle Value:** 1552 
 - [*More Info*](ostsol/ostsol_otl-8e.md) 
 
@@ -212,7 +212,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
 - **Battle Value:** 2277 
 - [*More Info*](ostsol/ostsol_c.md) 
 
@@ -228,7 +228,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 4 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f) 
 - **Battle Value:** 1698 
 - [*More Info*](ostsol/ostsol_otl-8f.md) 
 
@@ -246,7 +246,7 @@
   - Large X-Pulse Laser × 2 
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3) 
 - **Battle Value:** 1671 
 - [*More Info*](ostsol/ostsol_otl-8e3.md) 
 

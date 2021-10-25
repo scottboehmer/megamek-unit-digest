@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Master 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302/battlemaster-blr-m3) 
 - **Battle Value:** 1674 
 
 ## Availability 

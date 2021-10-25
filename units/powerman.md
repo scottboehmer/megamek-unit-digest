@@ -61,7 +61,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 3 
-- **Sources:** TRO VA , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4852/powerman-sc-xv-haulermech) 
 - **Battle Value:** 198 
 - [*More Info*](powerman/powerman_sc_xv_haulermech.md) 
 
@@ -78,7 +78,7 @@
   - Salvage Arm 
   - Lift Hoist 
   - Cargo × 3 
-- **Sources:** TRO VA , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4853/powerman-sc-xvi-haulermech) 
 - **Battle Value:** 198 
 - [*More Info*](powerman/powerman_sc_xvi_haulermech.md) 
 

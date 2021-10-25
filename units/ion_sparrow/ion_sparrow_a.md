@@ -19,7 +19,7 @@
   - Active Probe 
   - Partial Wing 
   - CASE 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7739/butcherbird-ion-sparrow-a) 
 - **Battle Value:** 501 
 
 ## Availability 

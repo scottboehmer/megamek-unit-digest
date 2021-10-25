@@ -15,7 +15,7 @@
   - LRM 20 (ammo: 12) 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/561/charger-cgr-1a9) 
 - **Battle Value:** 1397 
 
 ## Availability 

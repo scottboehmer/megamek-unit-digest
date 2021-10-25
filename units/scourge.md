@@ -13,7 +13,7 @@
   - Gauss Rifle (ammo: 16) 
   - ER Medium Laser × 4 
   - Medium Pulse Laser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6626/scourge-scg-wd1) 
 - **Battle Value:** 2061 
 - [*More Info*](scourge/scourge_scg-wd1.md) 
 
@@ -32,7 +32,7 @@
   - Clan ER Medium Laser × 3 
 - **Equipment:** 
   - AES 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8109/scourge-scg-wx1) 
 - **Battle Value:** 2484 
 - [*More Info*](scourge/scourge_scg-wx1.md) 
 
@@ -51,7 +51,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - AES 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6625/scourge-scg-wf1) 
 - **Battle Value:** 2172 
 - [*More Info*](scourge/scourge_scg-wf1.md) 
 

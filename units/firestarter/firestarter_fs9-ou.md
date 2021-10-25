@@ -17,7 +17,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - Liquid Cargo 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109/firestarter-fs9-ou) 
 - **Battle Value:** 1120 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - Light PPC 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785/shadow-hawk-shd-4h) 
 - **Battle Value:** 1569 
 
 ## Availability 

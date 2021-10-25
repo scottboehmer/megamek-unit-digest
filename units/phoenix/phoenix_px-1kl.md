@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 30) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7468/phoenix-px-1kl) 
 - **Battle Value:** 930 
 
 ## Availability 

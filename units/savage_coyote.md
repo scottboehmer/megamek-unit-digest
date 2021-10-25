@@ -16,7 +16,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4985/savage-coyote-prime) 
 - **Battle Value:** 2613 
 - [*More Info*](savage_coyote/savage_coyote_prime.md) 
 
@@ -37,7 +37,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4982/savage-coyote-a) 
 - **Battle Value:** 2852 
 - [*More Info*](savage_coyote/savage_coyote_a.md) 
 
@@ -57,7 +57,7 @@
   - Small Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4983/savage-coyote-b) 
 - **Battle Value:** 2284 
 - [*More Info*](savage_coyote/savage_coyote_b.md) 
 
@@ -78,7 +78,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4984/savage-coyote-c) 
 - **Battle Value:** 3189 
 - [*More Info*](savage_coyote/savage_coyote_c.md) 
 
@@ -99,7 +99,7 @@
   - Nova CEWS 
   - CASE 
   - CASE II 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5831/savage-coyote-z) 
 - **Battle Value:** 3026 
 - [*More Info*](savage_coyote/savage_coyote_z.md) 
 
@@ -119,7 +119,7 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5705/savage-coyote-j) 
 - **Battle Value:** 2554 
 - [*More Info*](savage_coyote/savage_coyote_j.md) 
 
@@ -140,7 +140,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - Light TAG 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5706/savage-coyote-w) 
 - **Battle Value:** 2792 
 - [*More Info*](savage_coyote/savage_coyote_w.md) 
 

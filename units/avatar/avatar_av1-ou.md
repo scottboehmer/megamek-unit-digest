@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Master 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/171/avatar-av1-ou) 
 - **Battle Value:** 1359 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
   - Hatchet 
   - Small Pulse Laser 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2282/nightsky-ngs-5t) 
 - **Battle Value:** 1356 
 
 ## Availability 

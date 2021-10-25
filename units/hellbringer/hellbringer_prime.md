@@ -22,7 +22,7 @@
   - Inner Sphere A-Pod × 4 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1929/loki-hellbringer-prime) 
 - **Battle Value:** 2654 
 
 ## Availability 

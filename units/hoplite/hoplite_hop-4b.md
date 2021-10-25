@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - LRM 15 (ammo: 16) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330/hoplite-hop-4b) 
 - **Battle Value:** 1162 
 
 ## Availability 

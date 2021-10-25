@@ -16,7 +16,7 @@
   - Medium Laser × 3 
   - SRM 2 (ammo: 50) 
   - Small Pulse Laser × 2 
-- **Sources:** Hist - 2nd SW , [Master Unit List](Master Unit List) 
+- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7763/thunderbolt-tdr-5ls) 
 - **Battle Value:** 1374 
 
 ## Availability 

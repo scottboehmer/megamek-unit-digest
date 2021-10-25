@@ -16,7 +16,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6879/loki-hellbringer-g) 
 - **Battle Value:** 1956 
 
 ## Availability 

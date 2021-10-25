@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser × 4 
   - Medium Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger) 
 - **Battle Value:** 1604 
 
 ## Availability 

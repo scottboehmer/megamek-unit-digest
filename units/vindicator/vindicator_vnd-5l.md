@@ -19,7 +19,7 @@
   - Sword 
   - Small Pulse Laser 
   - Small Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430/vindicator-vnd-5l) 
 - **Battle Value:** 1484 
 
 ## Availability 

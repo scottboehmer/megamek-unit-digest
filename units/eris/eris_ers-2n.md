@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8251/eris-ers-2n) 
 - **Battle Value:** 1400 
 
 ## Availability 

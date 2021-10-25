@@ -25,7 +25,7 @@
   - Guardian ECM Suite 
   - C3 Slave 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/250/banshee-bnc-8s) 
 - **Battle Value:** 2408 
 
 ## Availability 

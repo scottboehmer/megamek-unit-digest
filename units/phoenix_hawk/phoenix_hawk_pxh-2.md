@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2) 
 - **Battle Value:** 1145 
 
 ## Availability 

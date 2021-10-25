@@ -16,7 +16,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2486/phantom-h) 
 - **Battle Value:** 1178 
 
 ## Availability 

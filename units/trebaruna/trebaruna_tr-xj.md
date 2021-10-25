@@ -17,7 +17,7 @@
   - Snub-Nose PPC × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3293/trebaruna-tr-xj) 
 - **Battle Value:** 2270 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Clan ER Large Laser × 3 
   - Clan ER Medium Laser × 4 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5861/grasshopper-reynolds) 
 - **Battle Value:** 2344 
 
 ## Availability 

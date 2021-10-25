@@ -16,7 +16,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2003/man-o-war-gargoyle-b) 
 - **Battle Value:** 1843 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - LRM 15 × 4 (ammo: 64) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3224/thunder-stallion-standard) 
 - **Battle Value:** 2306 
 - [*More Info*](thunder_stallion/thunder_stallion_standard.md) 
 
@@ -30,7 +30,7 @@
   - LRM 15 × 4 (ammo: 64) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3225/thunder-stallion-2-fire-stallion) 
 - **Battle Value:** 2575 
 - [*More Info*](thunder_stallion/thunder_stallion_2_fire_stallion.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3226/thunder-stallion-3) 
 - **Battle Value:** 2631 
 - [*More Info*](thunder_stallion/thunder_stallion_3.md) 
 
@@ -70,7 +70,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Shrapnel 3:Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Shrapnel 3:Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7720/thunder-stallion-4) 
 - **Battle Value:** 2607 
 - [*More Info*](thunder_stallion/thunder_stallion_4.md) 
 

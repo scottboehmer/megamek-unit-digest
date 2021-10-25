@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 3 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3400/venom-sdr-9kb) 
 - **Battle Value:** 769 
 
 ## Availability 

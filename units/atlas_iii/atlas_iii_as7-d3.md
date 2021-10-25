@@ -21,7 +21,7 @@
   - Small Shield × 2 
   - Radical Heat Sink System 
   - CASE II 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6358/atlas-iii-as7-d3) 
 - **Battle Value:** 2553 
 
 ## Availability 

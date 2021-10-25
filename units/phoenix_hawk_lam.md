@@ -15,7 +15,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4822/phoenix-hawk-lam-phx-hk2) 
 - **Battle Value:** 1555 
 - [*More Info*](phoenix_hawk_lam/phoenix_hawk_lam_phx-hk2.md) 
 
@@ -33,7 +33,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 24) 
   - Medium Laser × 2 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4823/phoenix-hawk-lam-phx-hk2m) 
 - **Battle Value:** 1465 
 - [*More Info*](phoenix_hawk_lam/phoenix_hawk_lam_phx-hk2m.md) 
 
@@ -53,7 +53,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO3085 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4821/phoenix-hawk-lam-phx-hk1rb) 
 - **Battle Value:** 1800 
 - [*More Info*](phoenix_hawk_lam/phoenix_hawk_lam_phx-hk1rb.md) 
 

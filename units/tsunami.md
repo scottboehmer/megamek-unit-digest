@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3311/tsunami-ts-p1) 
 - **Battle Value:** 933 
 - [*More Info*](tsunami/tsunami_ts-p1.md) 
 
@@ -35,7 +35,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3312/tsunami-ts-p1d) 
 - **Battle Value:** 1298 
 - [*More Info*](tsunami/tsunami_ts-p1d.md) 
 

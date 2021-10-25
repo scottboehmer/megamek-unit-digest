@@ -19,7 +19,7 @@
   - Bloodhound Active Probe 
   - Command Console 
   - C3 BoostedMaster × 2 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6419/hatamoto-godai-htm-30z) 
 - **Battle Value:** 1893 
 - [*More Info*](hatamoto-godai/hatamoto-godai_htm-30z.md) 
 

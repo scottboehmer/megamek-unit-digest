@@ -14,7 +14,7 @@
   - Blazer Cannon 
   - LRM 10 (ammo: 12) 
   - AC/5 (ammo: 20) 
-- **Sources:** XTRO Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y) 
 - **Battle Value:** 1323 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium X-Pulse Laser 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8201/locust-lct-7v) 
 - **Battle Value:** 585 
 
 ## Availability 

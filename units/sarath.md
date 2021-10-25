@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - Spikes × 5 
   - Quad Turret 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6506/sarath-srth-1o) 
 - **Battle Value:** 1630 
 - [*More Info*](sarath/sarath_srth-1o.md) 
 
@@ -39,7 +39,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Quad Turret 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6507/sarath-srth-1oa) 
 - **Battle Value:** 1738 
 - [*More Info*](sarath/sarath_srth-1oa.md) 
 
@@ -60,7 +60,7 @@
 - **Equipment:** 
   - Clan Talons 
   - Quad Turret 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508/sarath-srth-1ob) 
 - **Battle Value:** 1475 
 - [*More Info*](sarath/sarath_srth-1ob.md) 
 

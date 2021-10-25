@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775/king-crab-kgc-005r) 
 - **Battle Value:** 2335 
 
 ## Availability 

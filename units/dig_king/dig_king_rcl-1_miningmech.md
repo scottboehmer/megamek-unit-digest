@@ -16,7 +16,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS VA - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4078/dig-king-rcl-1-miningmech) 
 - **Battle Value:** 409 
 
 ## Availability 

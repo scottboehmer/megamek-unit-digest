@@ -18,7 +18,7 @@
   - Inner Sphere MASS 
   - Inner Sphere HarJel × 5 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5818/pariah-septicemia-uw) 
 - **Battle Value:** 1913 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - AC/20 (ammo: 20) 
   - PPC 
   - Large Laser × 2 
-- **Sources:** RS 3075U , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556/mackie-msk-7a) 
 - **Battle Value:** 1900 
 
 ## Availability 

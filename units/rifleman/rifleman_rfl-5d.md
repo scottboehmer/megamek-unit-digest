@@ -14,7 +14,7 @@
   - ER PPC × 2 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d) 
 - **Battle Value:** 1395 
 
 ## Availability 

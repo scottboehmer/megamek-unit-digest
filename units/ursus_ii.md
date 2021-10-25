@@ -18,7 +18,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3365/ursus-ii-standard) 
 - **Battle Value:** 2069 
 - [*More Info*](ursus_ii/ursus_ii_standard.md) 
 

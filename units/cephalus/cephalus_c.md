@@ -17,7 +17,7 @@
   - Nova CEWS 
   - Inner Sphere Null-Signature System 
   - Inner Sphere Chameleon LPS 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5639/cephalus-c) 
 - **Battle Value:** 1209 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - Rocket 10 × 2 
-- **Sources:** RS IA , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/7178/buster-bc-xv-m-c-haulermech-mod) 
 - **Battle Value:** 726 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER PPC 
   - Medium Laser × 4 
   - Small Pulse Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2742/rook-nh-2) 
 - **Battle Value:** 1525 
 
 ## Availability 

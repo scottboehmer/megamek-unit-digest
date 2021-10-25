@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Light PPC w/ PPC Capacitor 
-- **Sources:** RecGuide 13 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3062/stinger-stg-5g) 
 - **Battle Value:** 614 
 
 ## Availability 

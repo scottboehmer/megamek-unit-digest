@@ -14,7 +14,7 @@
 - **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - Blazer Cannon × 2 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/987/enforcer-iii-enf-7x-muse-compact) 
 - **Battle Value:** 1670 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - LRM 20 × 2 (ammo: 36) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5619/longbow-lgb-0c) 
 - **Battle Value:** 1295 
 
 ## Availability 

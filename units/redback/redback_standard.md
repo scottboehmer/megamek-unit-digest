@@ -17,7 +17,7 @@
   - Inner Sphere Medium Pulse Laser × 2 
 - **Equipment:** 
   - Inner Sphere TAG 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7684/redback-standard) 
 - **Battle Value:** 2076 
 
 ## Availability 

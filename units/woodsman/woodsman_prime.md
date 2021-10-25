@@ -19,7 +19,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3587/woodsman-prime) 
 - **Battle Value:** 2623 
 
 ## Availability 

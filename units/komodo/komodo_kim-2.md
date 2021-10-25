@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System × 2 (ammo: 24) 
   - TAG 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1810/komodo-kim-2) 
 - **Battle Value:** 1533 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6618/mongrel-mgl-t1) 
 - **Battle Value:** 1860 
 
 ## Availability 

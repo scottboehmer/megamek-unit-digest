@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427/brahma-brm-5b) 
 - **Battle Value:** 1730 
 
 ## Availability 

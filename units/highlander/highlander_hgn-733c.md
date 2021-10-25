@@ -16,7 +16,7 @@
   - AC/20 (ammo: 10) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1518/highlander-hgn-733c) 
 - **Battle Value:** 1857 
 
 ## Availability 

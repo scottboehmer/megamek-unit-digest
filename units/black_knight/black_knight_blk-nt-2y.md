@@ -20,7 +20,7 @@
   - Beagle Active Probe 
   - Targeting Computer 
   - C3 Slave 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6347/black-knight-blk-nt-2y) 
 - **Battle Value:** 1847 
 
 ## Availability 

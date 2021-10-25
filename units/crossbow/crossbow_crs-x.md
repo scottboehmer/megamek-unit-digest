@@ -15,7 +15,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - LRM 5 × 4 (ammo: 48) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x) 
 - **Battle Value:** 969 
 
 ## Availability 

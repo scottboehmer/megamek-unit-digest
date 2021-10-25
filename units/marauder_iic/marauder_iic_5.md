@@ -16,7 +16,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069/marauder-iic-5) 
 - **Battle Value:** 2386 
 
 ## Availability 

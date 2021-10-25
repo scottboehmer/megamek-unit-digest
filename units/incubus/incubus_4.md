@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444/vixen-incubus-4) 
 - **Battle Value:** 1581 
 
 ## Availability 

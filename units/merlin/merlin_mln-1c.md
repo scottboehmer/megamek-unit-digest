@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - Flamer 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2180/merlin-mln-1c) 
 - **Battle Value:** 1267 
 
 ## Availability 

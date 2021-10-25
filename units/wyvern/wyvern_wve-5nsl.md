@@ -18,7 +18,7 @@
   - Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5875/wyvern-wve-5nsl) 
 - **Battle Value:** 1207 
 
 ## Availability 

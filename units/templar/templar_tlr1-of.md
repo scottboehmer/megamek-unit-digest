@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Master 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5709/templar-tlr1-of) 
 - **Battle Value:** 2029 
 
 ## Availability 

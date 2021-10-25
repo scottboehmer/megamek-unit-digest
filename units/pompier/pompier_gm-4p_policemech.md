@@ -16,7 +16,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7837/pompier-gm-4p-policemech) 
 - **Battle Value:** 148 
 
 ## Availability 

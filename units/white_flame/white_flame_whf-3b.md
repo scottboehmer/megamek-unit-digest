@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - C3i 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b) 
 - **Battle Value:** 1637 
 
 ## Availability 

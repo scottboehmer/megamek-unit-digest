@@ -14,7 +14,7 @@
   - ER PPC × 2 
   - Large Pulse Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/285/battlemaster-blr-1gb) 
 - **Battle Value:** 1825 
 
 ## Availability 

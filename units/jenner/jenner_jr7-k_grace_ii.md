@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Slave 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1695/jenner-jr7-k-grace-ii) 
 - **Battle Value:** 787 
 
 ## Availability 

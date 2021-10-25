@@ -20,7 +20,7 @@
   - Beagle Active Probe 
   - Spikes × 5 
   - Quad Turret 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6506/sarath-srth-1o) 
 - **Battle Value:** 1630 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013/cougar-xr-standard) 
 - **Battle Value:** 1783 
 
 ## Availability 

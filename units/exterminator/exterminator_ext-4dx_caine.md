@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - MASC 
   - Supercharger 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7321/exterminator-ext-4dx) 
 - **Battle Value:** 1794 
 
 ## Availability 

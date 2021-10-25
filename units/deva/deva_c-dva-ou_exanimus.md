@@ -21,7 +21,7 @@
   - MASS 
   - C3i 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/892/deva-c-dva-ou-exanimus) 
 - **Battle Value:** 1685 
 
 ## Availability 

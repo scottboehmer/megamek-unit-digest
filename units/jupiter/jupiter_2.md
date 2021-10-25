@@ -17,7 +17,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1726/jupiter-2) 
 - **Battle Value:** 3278 
 
 ## Availability 

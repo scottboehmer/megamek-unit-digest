@@ -14,7 +14,7 @@
   - Ultra AC/10 (ammo: 20) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1866/legionnaire-lgn-2xu) 
 - **Battle Value:** 1128 
 
 ## Availability 

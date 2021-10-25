@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3500/warhammer-iic-standard) 
 - **Battle Value:** 2570 
 
 ## Availability 

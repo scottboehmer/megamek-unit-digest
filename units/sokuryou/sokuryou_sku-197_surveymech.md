@@ -15,7 +15,7 @@
   - TAG 
   - Communications Equipment 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2983/sokuryou-sku-197-surveymech) 
 - **Battle Value:** 395 
 
 ## Availability 

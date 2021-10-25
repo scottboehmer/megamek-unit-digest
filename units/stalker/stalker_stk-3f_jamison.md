@@ -15,7 +15,7 @@
   - Clan LRM 20 × 2 (ammo: 12) 
   - Clan Streak SRM 6 × 2 (ammo: 30) 
   - Clan ER Medium Laser × 4 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5119/stalker-stk-3f-jamison) 
 - **Battle Value:** 2635 
 
 ## Availability 

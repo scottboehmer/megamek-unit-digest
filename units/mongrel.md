@@ -14,7 +14,7 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6618/mongrel-mgl-t1) 
 - **Battle Value:** 1860 
 - [*More Info*](mongrel/mongrel_mgl-t1.md) 
 
@@ -34,7 +34,7 @@
   - ECM Suite 
   - CASE 
   - AES 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6619/mongrel-mgl-t2) 
 - **Battle Value:** 1949 
 - [*More Info*](mongrel/mongrel_mgl-t2.md) 
 

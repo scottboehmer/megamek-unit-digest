@@ -16,7 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2618/quickdraw-qkd-c) 
 - **Battle Value:** 1225 
 
 ## Availability 

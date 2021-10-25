@@ -11,7 +11,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/174/awesome-aws-8q) 
 - **Battle Value:** 1605 
 - [*More Info*](awesome/awesome_aws-8q.md) 
 
@@ -27,7 +27,7 @@
   - LRM 15 × 2 (ammo: 16) 
   - Large Laser 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/175/awesome-aws-8r) 
 - **Battle Value:** 1470 
 - [*More Info*](awesome/awesome_aws-8r.md) 
 
@@ -43,7 +43,7 @@
   - LRM 15 × 2 (ammo: 16) 
   - Large Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/176/awesome-aws-8t) 
 - **Battle Value:** 1593 
 - [*More Info*](awesome/awesome_aws-8t.md) 
 
@@ -60,7 +60,7 @@
   - LRM 15 (ammo: 16) 
   - Large Laser 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/177/awesome-aws-8v) 
 - **Battle Value:** 1510 
 - [*More Info*](awesome/awesome_aws-8v.md) 
 
@@ -77,7 +77,7 @@
   - Medium Pulse Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Small Pulse Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/178/awesome-aws-9m) 
 - **Battle Value:** 1812 
 - [*More Info*](awesome/awesome_aws-9m.md) 
 
@@ -96,7 +96,7 @@
   - Guardian ECM Suite 
   - Command Console 
   - Communications Equipment 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma) 
 - **Battle Value:** 1836 
 - [*More Info*](awesome/awesome_aws-9ma.md) 
 
@@ -113,7 +113,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/179/awesome-aws-9q) 
 - **Battle Value:** 1875 
 - [*More Info*](awesome/awesome_aws-9q.md) 
 
@@ -131,7 +131,7 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km) 
 - **Battle Value:** 1961 
 - [*More Info*](awesome/awesome_aws-10km.md) 
 
@@ -148,7 +148,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3770/awesome-aws-9q-klatt) 
 - **Battle Value:** 1805 
 - [*More Info*](awesome/awesome_aws-9q_klatt.md) 
 
@@ -163,7 +163,7 @@
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7311/awesome-aws-8q-buck) 
 - **Battle Value:** 1787 
 - [*More Info*](awesome/awesome_aws-8q_buck.md) 
 
@@ -179,7 +179,7 @@
 - **Weapons:** 
   - Light PPC w/ PPC Capacitor × 4 
   - Light PPC × 4 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/173/awesome-aws-11m) 
 - **Battle Value:** 1801 
 - [*More Info*](awesome/awesome_aws-11m.md) 
 
@@ -202,7 +202,7 @@
   - Coolant Pod 
   - CASE II 
   - Supercharger 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349/awesome-aws-11r) 
 - **Battle Value:** 1878 
 - [*More Info*](awesome/awesome_aws-11r.md) 
 

@@ -21,7 +21,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1320/grigori-c-grg-o-invictus) 
 - **Battle Value:** 1245 
 
 ## Availability 

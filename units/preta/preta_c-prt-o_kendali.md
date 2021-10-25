@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3i 
   - TAG 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2572/preta-c-prt-o-kendali) 
 - **Battle Value:** 999 
 
 ## Availability 

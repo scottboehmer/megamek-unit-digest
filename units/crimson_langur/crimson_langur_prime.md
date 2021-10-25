@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4019/crimson-langur-prime) 
 - **Battle Value:** 1952 
 
 ## Availability 

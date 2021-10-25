@@ -14,7 +14,7 @@
   - PPC 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b) 
 - **Battle Value:** 1210 
 
 ## Availability 

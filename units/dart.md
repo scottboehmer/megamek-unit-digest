@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Pulse Laser × 3 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/828/dart-drt-3s) 
 - **Battle Value:** 436 
 - [*More Info*](dart/dart_drt-3s.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/829/dart-drt-4s) 
 - **Battle Value:** 656 
 - [*More Info*](dart/dart_drt-4s.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/830/dart-drt-6s) 
 - **Battle Value:** 641 
 - [*More Info*](dart/dart_drt-6s.md) 
 
@@ -55,7 +55,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831/dart-drt-6t) 
 - **Battle Value:** 703 
 - [*More Info*](dart/dart_drt-6t.md) 
 

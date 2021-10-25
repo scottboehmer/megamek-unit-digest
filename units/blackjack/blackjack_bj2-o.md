@@ -15,7 +15,7 @@
   - Ultra AC/5 × 2 (ammo: 40) 
   - Medium Laser × 4 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/378/blackjack-bj2-o) 
 - **Battle Value:** 1201 
 
 ## Availability 

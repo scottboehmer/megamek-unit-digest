@@ -16,7 +16,7 @@
   - Heavy-Duty Pile Driver 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7873/ground-pounder-dvm-2m-miningmech-mod) 
 - **Battle Value:** 548 
 
 ## Availability 

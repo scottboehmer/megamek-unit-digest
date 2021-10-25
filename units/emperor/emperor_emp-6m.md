@@ -19,7 +19,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/968/emperor-emp-6m) 
 - **Battle Value:** 2090 
 
 ## Availability 

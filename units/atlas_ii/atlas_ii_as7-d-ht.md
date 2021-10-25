@@ -18,7 +18,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Arano Restoration , [Master Unit List](Master Unit List) 
+- **Sources:** Arano Restoration , [Master Unit List](http://masterunitlist.info/Unit/Details/7618/atlas-ii-as7-d-ht) 
 - **Battle Value:** 2205 
 
 ## Availability 

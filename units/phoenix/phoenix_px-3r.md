@@ -14,7 +14,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 2 × 2 (ammo: 100) 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2489/phoenix-px-3r) 
 - **Battle Value:** 1106 
 
 ## Availability 

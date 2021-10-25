@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5821/thor-summoner-z) 
 - **Battle Value:** 2783 
 
 ## Availability 

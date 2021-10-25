@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Command Console 
   - Communications Equipment 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma) 
 - **Battle Value:** 1836 
 
 ## Availability 

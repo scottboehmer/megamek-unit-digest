@@ -12,7 +12,7 @@
   - Large Laser 
   - Small Laser × 2 
   - Flamer 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1140/flea-fle-4) 
 - **Battle Value:** 432 
 - [*More Info*](flea/flea_fle-4.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14) 
 - **Battle Value:** 270 
 - [*More Info*](flea/flea_fle-14.md) 
 
@@ -44,7 +44,7 @@
   - Small Laser × 2 
   - Flamer 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1136/flea-fle-15) 
 - **Battle Value:** 430 
 - [*More Info*](flea/flea_fle-15.md) 
 
@@ -59,7 +59,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
-- **Sources:** TRO Succession Wars - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16) 
 - **Battle Value:** 506 
 - [*More Info*](flea/flea_fle-16.md) 
 
@@ -77,7 +77,7 @@
   - Flamer 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1137/flea-fle-17) 
 - **Battle Value:** 510 
 - [*More Info*](flea/flea_fle-17.md) 
 
@@ -94,7 +94,7 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1135/flea-fire-ant) 
 - **Battle Value:** 332 
 - [*More Info*](flea/flea_fire_ant.md) 
 
@@ -112,7 +112,7 @@
   - Light Machine Gun × 8 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1138/flea-fle-19) 
 - **Battle Value:** 341 
 - [*More Info*](flea/flea_fle-19.md) 
 
@@ -130,7 +130,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1139/flea-fle-20) 
 - **Battle Value:** 791 
 - [*More Info*](flea/flea_fle-20.md) 
 

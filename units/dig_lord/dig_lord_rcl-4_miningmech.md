@@ -17,7 +17,7 @@
   - Fluid Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Extended Fuel Tank 
-- **Sources:** TRO VA - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4079/dig-lord-rcl-4-miningmech) 
 - **Battle Value:** 617 
 
 ## Availability 

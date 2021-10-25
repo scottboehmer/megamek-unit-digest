@@ -15,7 +15,7 @@
   - Large Pulse Laser × 4 
 - **Equipment:** 
   - Nova CEWS 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5825/osteon-d) 
 - **Battle Value:** 2587 
 
 ## Availability 

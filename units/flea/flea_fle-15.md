@@ -15,7 +15,7 @@
   - Small Laser × 2 
   - Flamer 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1136/flea-fle-15) 
 - **Battle Value:** 430 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - LRM 20 w/ Artemis IV (ammo: 0) 
 - **Equipment:** 
   - CASE 
-- **Sources:** OTP Widowmaker , [Master Unit List](Master Unit List) 
+- **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309/highlander-hgn-732-jorgensson) 
 - **Battle Value:** 2481 
 
 ## Availability 

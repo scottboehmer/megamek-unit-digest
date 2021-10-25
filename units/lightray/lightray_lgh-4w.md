@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4519/lightray-lgh-4w) 
 - **Battle Value:** 1450 
 
 ## Availability 

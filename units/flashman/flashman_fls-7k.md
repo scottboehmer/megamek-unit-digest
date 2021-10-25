@@ -14,7 +14,7 @@
   - Large Laser × 2 
   - Medium Laser × 5 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1123/flashman-fls-7k) 
 - **Battle Value:** 1480 
 
 ## Availability 

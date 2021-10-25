@@ -19,7 +19,7 @@
   - Clan Small Pulse Laser 
 - **Equipment:** 
   - Clan ECM Suite 
-- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240/thunderbolt-iic-2) 
 - **Battle Value:** 2177 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/179/awesome-aws-9q) 
 - **Battle Value:** 1875 
 
 ## Availability 

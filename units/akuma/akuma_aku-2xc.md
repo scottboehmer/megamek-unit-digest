@@ -21,7 +21,7 @@
   - Coolant Pod 
   - CASE 
   - C3 Boosted Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22/akuma-aku-2xc) 
 - **Battle Value:** 2134 
 
 ## Availability 

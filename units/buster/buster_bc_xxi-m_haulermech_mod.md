@@ -16,7 +16,7 @@
   - SRM 2 × 4 (ammo: 100) 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7865/buster-bc-xxi-m-haulermech-mod) 
 - **Battle Value:** 483 
 
 ## Availability 

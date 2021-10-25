@@ -15,7 +15,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
 - **Battle Value:** 1747 
 - [*More Info*](vapor_eagle/vapor_eagle_6.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard) 
 - **Battle Value:** 2368 
 - [*More Info*](vapor_eagle/vapor_eagle_standard.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2) 
 - **Battle Value:** 1989 
 - [*More Info*](vapor_eagle/vapor_eagle_2.md) 
 
@@ -76,7 +76,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710/goshawk-vapor-eagle-5) 
 - **Battle Value:** 2572 
 - [*More Info*](vapor_eagle/vapor_eagle_5.md) 
 
@@ -97,7 +97,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245/goshawk-vapor-eagle-3) 
 - **Battle Value:** 2466 
 - [*More Info*](vapor_eagle/vapor_eagle_3.md) 
 
@@ -115,7 +115,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246/goshawk-vapor-eagle-4) 
 - **Battle Value:** 2069 
 - [*More Info*](vapor_eagle/vapor_eagle_4.md) 
 
@@ -136,7 +136,7 @@
   - MASC 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7) 
 - **Battle Value:** 2876 
 - [*More Info*](vapor_eagle/vapor_eagle_7.md) 
 

@@ -18,7 +18,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1516/highlander-hgn-732b) 
 - **Battle Value:** 2335 
 
 ## Availability 

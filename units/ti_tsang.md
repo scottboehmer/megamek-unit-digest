@@ -16,7 +16,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254/ti-tsang-tsg-9h) 
 - **Battle Value:** 1880 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9h.md) 
 
@@ -35,7 +35,7 @@
   - ER Medium Laser × 3 
   - Hatchet 
   - ER Small Laser × 2 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3255/ti-tsang-tsg-9j) 
 - **Battle Value:** 1909 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9j.md) 
 
@@ -73,7 +73,7 @@
   - Medium Pulse Laser × 3 
   - Hatchet 
   - Small Pulse Laser × 4 
-- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395/ti-tsang-tsg-9h-jason) 
 - **Battle Value:** 1641 
 - [*More Info*](ti_tsang/ti_tsang_jason.md) 
 
@@ -92,7 +92,7 @@
   - ER Medium Laser × 2 
   - Hatchet 
   - ER Small Laser × 2 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252/ti-tsang-tsg-9c) 
 - **Battle Value:** 1989 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9c.md) 
 
@@ -114,7 +114,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
 - **Battle Value:** 2013 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9ddc_prototype.md) 
 
@@ -158,7 +158,7 @@
   - Chaff Pod 
   - Supercharger 
   - TAG 
-- **Sources:** RS 3145 NTNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6884/ti-tsang-tsg-10l) 
 - **Battle Value:** 1728 
 - [*More Info*](ti_tsang/ti_tsang_tsg-10l.md) 
 

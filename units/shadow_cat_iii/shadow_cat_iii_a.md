@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7492/shadow-cat-iii-a) 
 - **Battle Value:** 2005 
 
 ## Availability 

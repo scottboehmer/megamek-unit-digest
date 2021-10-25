@@ -13,7 +13,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - LRM 5 × 4 (ammo: 48) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x) 
 - **Battle Value:** 969 
 - [*More Info*](crossbow/crossbow_crs-x.md) 
 
@@ -29,7 +29,7 @@
   - PPC 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b) 
 - **Battle Value:** 1210 
 - [*More Info*](crossbow/crossbow_crs-6b.md) 
 
@@ -45,7 +45,7 @@
   - PPC 
   - AC/10 (ammo: 10) 
   - Medium Laser 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c) 
 - **Battle Value:** 1204 
 - [*More Info*](crossbow/crossbow_crs-6c.md) 
 
@@ -61,7 +61,7 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/739/crossbow-prime) 
 - **Battle Value:** 1829 
 - [*More Info*](crossbow/crossbow_prime.md) 
 
@@ -79,7 +79,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/730/crossbow-a) 
 - **Battle Value:** 1797 
 - [*More Info*](crossbow/crossbow_a.md) 
 
@@ -95,7 +95,7 @@
   - Streak SRM 6 × 4 (ammo: 60) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/731/crossbow-b) 
 - **Battle Value:** 1687 
 - [*More Info*](crossbow/crossbow_b.md) 
 
@@ -114,7 +114,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/738/crossbow-h) 
 - **Battle Value:** 1707 
 - [*More Info*](crossbow/crossbow_h.md) 
 
@@ -132,7 +132,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732/crossbow-c) 
 - **Battle Value:** 1557 
 - [*More Info*](crossbow/crossbow_c.md) 
 
@@ -148,7 +148,7 @@
   - 'Mech Mortar/8 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/736/crossbow-d) 
 - **Battle Value:** 1154 
 - [*More Info*](crossbow/crossbow_d.md) 
 
@@ -164,7 +164,7 @@
   - ER Large Laser 
   - Streak SRM 6 × 2 (ammo: 30) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a) 
 - **Battle Value:** 1583 
 - [*More Info*](crossbow/crossbow_crs-9a.md) 
 
@@ -181,7 +181,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
 - **Battle Value:** 1558 
 - [*More Info*](crossbow/crossbow_e.md) 
 
@@ -200,7 +200,7 @@
   - SRT 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/740/crossbow-u) 
 - **Battle Value:** 1856 
 - [*More Info*](crossbow/crossbow_u.md) 
 
@@ -217,7 +217,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8236/crossbow-f) 
 - **Battle Value:** 1854 
 - [*More Info*](crossbow/crossbow_f.md) 
 
@@ -235,7 +235,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8238/crossbow-w) 
 - **Battle Value:** 2051 
 - [*More Info*](crossbow/crossbow_w.md) 
 
@@ -251,7 +251,7 @@
   - Streak LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237/crossbow-g) 
 - **Battle Value:** 1725 
 - [*More Info*](crossbow/crossbow_g.md) 
 
@@ -269,7 +269,7 @@
 - **Equipment:** 
   - Talons 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245/crossbow-j) 
 - **Battle Value:** 1839 
 - [*More Info*](crossbow/crossbow_j.md) 
 
@@ -287,7 +287,7 @@
   - SRM 2 (iOS) × 14 
 - **Equipment:** 
   - Light Active Probe 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8235/crossbow-t) 
 - **Battle Value:** 1729 
 - [*More Info*](crossbow/crossbow_t.md) 
 

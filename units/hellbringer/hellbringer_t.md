@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE II 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7441/loki-hellbringer-t) 
 - **Battle Value:** 2444 
 
 ## Availability 

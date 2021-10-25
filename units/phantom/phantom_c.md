@@ -16,7 +16,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2483/phantom-c) 
 - **Battle Value:** 1590 
 
 ## Availability 

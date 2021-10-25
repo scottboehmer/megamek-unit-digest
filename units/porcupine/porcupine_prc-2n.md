@@ -16,7 +16,7 @@
   - Medium Laser × 4 
   - Small X-Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2556/porcupine-prc-2n) 
 - **Battle Value:** 901 
 
 ## Availability 

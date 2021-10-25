@@ -14,7 +14,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Hist LOT II , [Master Unit List](Master Unit List) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780/dragoon-aem-01) 
 - **Battle Value:** 1669 
 - [*More Info*](dragoon/dragoon_aem-01.md) 
 
@@ -33,7 +33,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Hist LOT II , [Master Unit List](Master Unit List) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6781/dragoon-aem-02) 
 - **Battle Value:** 1691 
 - [*More Info*](dragoon/dragoon_aem-02.md) 
 
@@ -52,7 +52,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Hist LOT II , [Master Unit List](Master Unit List) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782/dragoon-aem-03) 
 - **Battle Value:** 1562 
 - [*More Info*](dragoon/dragoon_aem-03.md) 
 
@@ -71,7 +71,7 @@
   - SRM 4 × 5 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Hist LOT II , [Master Unit List](Master Unit List) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783/dragoon-aem-04) 
 - **Battle Value:** 1710 
 - [*More Info*](dragoon/dragoon_aem-04.md) 
 
@@ -92,7 +92,7 @@
   - Angel ECM Suite 
   - C3i 
   - CASE II 
-- **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7399/dragoon-aem-05c) 
 - **Battle Value:** 1893 
 - [*More Info*](dragoon/dragoon_aem-05c.md) 
 

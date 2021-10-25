@@ -13,7 +13,7 @@
   - Medium X-Pulse Laser × 4 
 - **Equipment:** 
   - MASC 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6332/gunsmith-ch11-ng) 
 - **Battle Value:** 1465 
 - [*More Info*](gunsmith/gunsmith_ch11-ng.md) 
 

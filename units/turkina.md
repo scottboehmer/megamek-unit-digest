@@ -15,7 +15,7 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332/turkina-prime) 
 - **Battle Value:** 2944 
 - [*More Info*](turkina/turkina_prime.md) 
 
@@ -33,7 +33,7 @@
   - LRM 20 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3326/turkina-a) 
 - **Battle Value:** 2906 
 - [*More Info*](turkina/turkina_a.md) 
 
@@ -53,7 +53,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3327/turkina-b) 
 - **Battle Value:** 3420 
 - [*More Info*](turkina/turkina_b.md) 
 
@@ -77,7 +77,7 @@
   - Active Probe 
   - A-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328/turkina-c) 
 - **Battle Value:** 2798 
 - [*More Info*](turkina/turkina_c.md) 
 
@@ -98,7 +98,7 @@
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213/turkina-m) 
 - **Battle Value:** 2495 
 - [*More Info*](turkina/turkina_m.md) 
 
@@ -116,7 +116,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3329/turkina-d) 
 - **Battle Value:** 3132 
 - [*More Info*](turkina/turkina_d.md) 
 
@@ -136,7 +136,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3331/turkina-h) 
 - **Battle Value:** 2712 
 - [*More Info*](turkina/turkina_h.md) 
 
@@ -154,7 +154,7 @@
   - Streak SRM 6 × 6 (ammo: 60) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e) 
 - **Battle Value:** 3147 
 - [*More Info*](turkina/turkina_e.md) 
 
@@ -173,7 +173,7 @@
   - Nova CEWS 
   - CASE 
   - Light TAG 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832/turkina-z) 
 - **Battle Value:** 3935 
 - [*More Info*](turkina/turkina_z.md) 
 
@@ -198,7 +198,7 @@
   - Inner Sphere HarJel × 5 
   - CASE 
   - Liquid Cargo × 2 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u) 
 - **Battle Value:** 2472 
 - [*More Info*](turkina/turkina_u.md) 
 
@@ -218,7 +218,7 @@
   - ECM Suite 
   - Talons 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x) 
 - **Battle Value:** 3056 
 - [*More Info*](turkina/turkina_x.md) 
 
@@ -237,7 +237,7 @@
   - ProtoMech AC/8 × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212/turkina-t) 
 - **Battle Value:** 3080 
 - [*More Info*](turkina/turkina_t.md) 
 

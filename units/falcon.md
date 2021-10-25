@@ -13,7 +13,7 @@
   - Medium Laser 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1022/falcon-flc-4n) 
 - **Battle Value:** 610 
 - [*More Info*](falcon/falcon_flc-4n.md) 
 
@@ -96,7 +96,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1027/falcon-flc-4p) 
 - **Battle Value:** 649 
 - [*More Info*](falcon/falcon_flc-4p.md) 
 
@@ -115,7 +115,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - MASC 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1028/falcon-flc-5p) 
 - **Battle Value:** 945 
 - [*More Info*](falcon/falcon_flc-5p.md) 
 
@@ -135,7 +135,7 @@
   - Anti-Missile System (ammo: 24) 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1029/falcon-flc-6c) 
 - **Battle Value:** 1290 
 - [*More Info*](falcon/falcon_flc-6c.md) 
 

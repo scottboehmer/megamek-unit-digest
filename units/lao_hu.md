@@ -12,7 +12,7 @@
   - LB 20-X AC (ammo: 5 Standard, 10 Cluster) 
   - ER Large Laser 
   - LRM 15 (ammo: 16) 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4478/lao-hu-lhu-2b) 
 - **Battle Value:** 1771 
 - [*More Info*](lao_hu/lao_hu_lhu-2b.md) 
 
@@ -30,7 +30,7 @@
   - LRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - C3 Master 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4479/lao-hu-lhu-3b) 
 - **Battle Value:** 1497 
 - [*More Info*](lao_hu/lao_hu_lhu-3b.md) 
 
@@ -46,7 +46,7 @@
   - Gauss Rifle (ammo: 16) 
   - ER Large Laser 
   - LRM 5 × 3 (ammo: 72) 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4480/lao-hu-lhu-3c) 
 - **Battle Value:** 1878 
 - [*More Info*](lao_hu/lao_hu_lhu-3c.md) 
 
@@ -64,7 +64,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5695/lao-hu-lhu-3l) 
 - **Battle Value:** 1995 
 - [*More Info*](lao_hu/lao_hu_lhu-3l.md) 
 

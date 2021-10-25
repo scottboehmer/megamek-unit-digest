@@ -15,7 +15,7 @@
   - ER Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6558/vulture-mk-iv-mad-dog-mk-iv-prime) 
 - **Battle Value:** 2110 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_prime.md) 
 
@@ -34,7 +34,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6559/vulture-mk-iv-mad-dog-mk-iv-a) 
 - **Battle Value:** 2177 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_a.md) 
 
@@ -53,7 +53,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6560/vulture-mk-iv-mad-dog-mk-iv-b) 
 - **Battle Value:** 2649 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_b.md) 
 
@@ -72,7 +72,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6561/vulture-mk-iv-mad-dog-mk-iv-c) 
 - **Battle Value:** 2584 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_c.md) 
 
@@ -90,7 +90,7 @@
   - Micro Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6562/vulture-mk-iv-mad-dog-mk-iv-d) 
 - **Battle Value:** 2346 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_d.md) 
 

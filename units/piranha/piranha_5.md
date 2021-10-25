@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8122/piranha-5) 
 - **Battle Value:** 1132 
 
 ## Availability 

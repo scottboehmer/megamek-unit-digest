@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Heavy Medium Laser × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/272/battle-cobra-h) 
 - **Battle Value:** 1592 
 
 ## Availability 

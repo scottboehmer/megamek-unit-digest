@@ -18,7 +18,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3179/thor-summoner-g) 
 - **Battle Value:** 2452 
 
 ## Availability 

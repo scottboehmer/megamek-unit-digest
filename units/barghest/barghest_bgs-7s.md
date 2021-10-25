@@ -18,7 +18,7 @@
   - ER Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/255/barghest-bgs-7s) 
 - **Battle Value:** 1507 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Extended Fuel Tank 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7855/demeter-wld-1-agromech) 
 - **Battle Value:** 339 
 
 ## Availability 

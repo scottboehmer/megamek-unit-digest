@@ -15,7 +15,7 @@
   - Lance 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6718/night-stalker-nsr-k1) 
 - **Battle Value:** 1149 
 - [*More Info*](night_stalker/night_stalker_nsr-k1.md) 
 
@@ -37,7 +37,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6674/night-stalker-nsr-k3) 
 - **Battle Value:** 1028 
 - [*More Info*](night_stalker/night_stalker_nsr-k3.md) 
 
@@ -57,7 +57,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6719/night-stalker-nsr-k4) 
 - **Battle Value:** 1159 
 - [*More Info*](night_stalker/night_stalker_nsr-k4.md) 
 
@@ -76,7 +76,7 @@
   - Lance 
   - Small Re-Engineered Laser × 3 
   - Chain Whip 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6720/night-stalker-nsr-k7) 
 - **Battle Value:** 857 
 - [*More Info*](night_stalker/night_stalker_nsr-k7.md) 
 
@@ -96,7 +96,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Slave 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6721/night-stalker-nsr-kc) 
 - **Battle Value:** 1037 
 - [*More Info*](night_stalker/night_stalker_nsr-kc.md) 
 

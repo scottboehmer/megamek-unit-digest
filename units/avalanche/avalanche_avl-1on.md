@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Clan Targeting Computer 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6400/avalanche-avl-1on) 
 - **Battle Value:** 1873 
 
 ## Availability 

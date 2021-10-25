@@ -19,7 +19,7 @@
   - C3 Slave 
   - CASE 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr) 
 - **Battle Value:** 1241 
 
 ## Availability 

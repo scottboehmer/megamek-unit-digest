@@ -13,7 +13,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712/cougar-prime) 
 - **Battle Value:** 1485 
 - [*More Info*](cougar/cougar_prime.md) 
 
@@ -31,7 +31,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/704/cougar-a) 
 - **Battle Value:** 1697 
 - [*More Info*](cougar/cougar_a.md) 
 
@@ -46,7 +46,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705/cougar-b) 
 - **Battle Value:** 1774 
 - [*More Info*](cougar/cougar_b.md) 
 
@@ -63,7 +63,7 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/706/cougar-c) 
 - **Battle Value:** 1785 
 - [*More Info*](cougar/cougar_c.md) 
 
@@ -81,7 +81,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/707/cougar-d) 
 - **Battle Value:** 1309 
 - [*More Info*](cougar/cougar_d.md) 
 
@@ -101,7 +101,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
 - **Battle Value:** 1323 
 - [*More Info*](cougar/cougar_h.md) 
 
@@ -118,7 +118,7 @@
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
 - **Battle Value:** 1442 
 - [*More Info*](cougar/cougar_e.md) 
 
@@ -139,7 +139,7 @@
   - Machine Gun Array × 2 
   - B-Pod × 2 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
 - **Battle Value:** 1401 
 - [*More Info*](cougar/cougar_f.md) 
 
@@ -157,7 +157,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
 - **Battle Value:** 1453 
 - [*More Info*](cougar/cougar_g.md) 
 
@@ -177,7 +177,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013/cougar-xr-standard) 
 - **Battle Value:** 1783 
 - [*More Info*](cougar/cougar_xr.md) 
 
@@ -193,7 +193,7 @@
 - **Weapons:** 
   - Clan Streak LRM 15 (ammo: 16) 
   - Clan ER Medium Pulse Laser 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952/cougar-x-2) 
 - **Battle Value:** 1293 
 - [*More Info*](cougar/cougar_x_2.md) 
 
@@ -212,7 +212,7 @@
   - Clan ER Medium Pulse Laser 
 - **Equipment:** 
   - Clan Targeting Computer 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6953/cougar-x-3) 
 - **Battle Value:** 1391 
 - [*More Info*](cougar/cougar_x_3.md) 
 
@@ -231,7 +231,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
 - **Battle Value:** 1738 
 - [*More Info*](cougar/cougar_i.md) 
 
@@ -247,7 +247,7 @@
 - **Weapons:** 
   - Clan Streak LRM 10 × 2 (ammo: 24) 
   - Clan ER Medium Laser × 2 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard) 
 - **Battle Value:** 1474 
 - [*More Info*](cougar/cougar_x.md) 
 

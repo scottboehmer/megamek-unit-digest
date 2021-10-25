@@ -15,7 +15,7 @@
   - Medium VSP Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/946/eisenfaust-eft-8x) 
 - **Battle Value:** 1039 
 
 ## Availability 

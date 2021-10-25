@@ -19,7 +19,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x) 
 - **Battle Value:** 2761 
 
 ## Availability 

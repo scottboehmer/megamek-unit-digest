@@ -16,7 +16,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5655/solitaire-2) 
 - **Battle Value:** 1471 
 
 ## Availability 

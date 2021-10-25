@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Partial Wing 
   - Targeting Computer 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7741/butcherbird-ion-sparrow-c) 
 - **Battle Value:** 889 
 
 ## Availability 

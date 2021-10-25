@@ -17,7 +17,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3786/banshee-bnc-5s-sawyer) 
 - **Battle Value:** 2094 
 
 ## Availability 

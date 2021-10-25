@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/482/catapult-cplt-c4) 
 - **Battle Value:** 1358 
 
 ## Availability 

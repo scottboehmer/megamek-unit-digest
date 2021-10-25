@@ -16,7 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Collapsible Command Module 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/770/cyclops-cp-10-hq) 
 - **Battle Value:** 1113 
 
 ## Availability 

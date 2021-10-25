@@ -16,7 +16,7 @@
   - Watchdog CEWS 
   - MASC 
   - Light TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](Master Unit List) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard) 
 - **Battle Value:** 2048 
 - [*More Info*](beowulf_iic/beowulf_iic_standard.md) 
 
@@ -36,7 +36,7 @@
   - Watchdog CEWS 
   - Inner Sphere C3i 
   - MASC 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 
 - [*More Info*](beowulf_iic/beowulf_iic_pr.md) 
 

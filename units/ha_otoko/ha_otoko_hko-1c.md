@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - LRM 10 × 2 (ammo: 24) 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357/ha-otoko-hko-1c) 
 - **Battle Value:** 1288 
 
 ## Availability 

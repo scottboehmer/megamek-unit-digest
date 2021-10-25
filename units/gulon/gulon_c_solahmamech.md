@@ -14,7 +14,7 @@
   - Medium Pulse Laser 
   - Small Pulse Laser × 3 
   - Mining Drill 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7846/gulon-c-solahmamech) 
 - **Battle Value:** 533 
 
 ## Availability 

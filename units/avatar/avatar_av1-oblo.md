@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
-- **Sources:** SO:Unending Faith - Late Republic Era , [Master Unit List](Master Unit List) 
+- **Sources:** SO:Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7634/avatar-av1-oblo) 
 - **Battle Value:** 1550 
 
 ## Availability 

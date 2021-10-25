@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2097/masakari-warhawk-prime) 
 - **Battle Value:** 3194 
 - [*More Info*](warhawk/warhawk_prime.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2091/masakari-warhawk-a) 
 - **Battle Value:** 2399 
 - [*More Info*](warhawk/warhawk_a.md) 
 
@@ -55,7 +55,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2092/masakari-warhawk-b) 
 - **Battle Value:** 2320 
 - [*More Info*](warhawk/warhawk_b.md) 
 
@@ -73,7 +73,7 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2093/masakari-warhawk-c) 
 - **Battle Value:** 2998 
 - [*More Info*](warhawk/warhawk_c.md) 
 
@@ -93,7 +93,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2094/masakari-warhawk-d) 
 - **Battle Value:** 2474 
 - [*More Info*](warhawk/warhawk_d.md) 
 
@@ -113,7 +113,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5491/masakari-warhawk-f) 
 - **Battle Value:** 2775 
 - [*More Info*](warhawk/warhawk_f.md) 
 
@@ -132,7 +132,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2096/masakari-warhawk-h) 
 - **Battle Value:** 2601 
 - [*More Info*](warhawk/warhawk_h.md) 
 
@@ -152,7 +152,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2095/masakari-warhawk-e) 
 - **Battle Value:** 2895 
 - [*More Info*](warhawk/warhawk_e.md) 
 

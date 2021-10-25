@@ -14,7 +14,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7734/crucible-standard) 
 - **Battle Value:** 3108 
 - [*More Info*](crucible/crucible_standard.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7736/crucible-3) 
 - **Battle Value:** 3230 
 - [*More Info*](crucible/crucible_3.md) 
 

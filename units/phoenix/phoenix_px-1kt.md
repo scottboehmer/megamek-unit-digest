@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Thunderbolt 10 (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7470/phoenix-px-1kt) 
 - **Battle Value:** 857 
 
 ## Availability 

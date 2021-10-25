@@ -16,7 +16,7 @@
   - Large Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6265/gravedigger-gdr-1c) 
 - **Battle Value:** 1342 
 
 ## Availability 

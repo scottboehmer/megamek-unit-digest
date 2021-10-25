@@ -17,7 +17,7 @@
   - ER Medium Laser × 3 
   - Hatchet 
   - ER Small Laser × 2 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3255/ti-tsang-tsg-9j) 
 - **Battle Value:** 1909 
 
 ## Availability 

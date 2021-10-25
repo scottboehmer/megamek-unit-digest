@@ -15,7 +15,7 @@
   - Ultra AC/5 (ammo: 40) 
   - Medium Laser × 4 
   - SRM 2 (ammo: 50) 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5868/thunderbolt-tdr-5sd) 
 - **Battle Value:** 1392 
 
 ## Availability 

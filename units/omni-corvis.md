@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7610/omni-corvis-prime) 
 - **Battle Value:** 1678 
 - [*More Info*](omni-corvis/omni-corvis_prime.md) 
 
@@ -32,7 +32,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7611/omni-corvis-a) 
 - **Battle Value:** 1977 
 - [*More Info*](omni-corvis/omni-corvis_a.md) 
 
@@ -50,7 +50,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7612/omni-corvis-b) 
 - **Battle Value:** 1640 
 - [*More Info*](omni-corvis/omni-corvis_b.md) 
 

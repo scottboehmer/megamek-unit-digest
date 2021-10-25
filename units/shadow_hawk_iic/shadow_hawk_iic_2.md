@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
   - ER Small Laser 
   - Small Pulse Laser × 3 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2) 
 - **Battle Value:** 1763 
 
 ## Availability 

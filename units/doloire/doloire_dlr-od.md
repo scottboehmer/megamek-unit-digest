@@ -20,7 +20,7 @@
   - AES × 2 
   - Supercharger 
   - CASE II 
-- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6682/doloire-dlr-od) 
 - **Battle Value:** 3071 
 
 ## Availability 

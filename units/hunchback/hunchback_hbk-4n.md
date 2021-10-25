@@ -15,7 +15,7 @@
   - Medium Laser × 4 
   - LRM 5 × 2 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1557/hunchback-hbk-4n) 
 - **Battle Value:** 1087 
 
 ## Availability 

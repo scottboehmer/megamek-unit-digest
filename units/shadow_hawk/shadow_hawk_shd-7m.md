@@ -18,7 +18,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908/shadow-hawk-shd-7m) 
 - **Battle Value:** 1447 
 
 ## Availability 

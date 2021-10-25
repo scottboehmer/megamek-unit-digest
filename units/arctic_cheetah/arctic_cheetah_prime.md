@@ -20,7 +20,7 @@
   - Active Probe 
   - TAG 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1384/hankyu-arctic-cheetah-prime) 
 - **Battle Value:** 1334 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5716/mad-cat-mk-ii-3) 
 - **Battle Value:** 3168 
 
 ## Availability 

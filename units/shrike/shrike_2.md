@@ -19,7 +19,7 @@
   - CASE 
   - Targeting Computer 
   - Partial Wing 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6293/shrike-2) 
 - **Battle Value:** 2846 
 
 ## Availability 

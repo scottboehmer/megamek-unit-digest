@@ -14,7 +14,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1559/hunchback-hbk-4sp) 
 - **Battle Value:** 1043 
 
 ## Availability 

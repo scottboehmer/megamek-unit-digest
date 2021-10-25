@@ -17,7 +17,7 @@
   - ECM Suite 
   - Active Probe 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2428/parash-standard) 
 - **Battle Value:** 1300 
 
 ## Availability 

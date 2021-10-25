@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2270/night-gyr-prime) 
 - **Battle Value:** 2830 
 - [*More Info*](night_gyr/night_gyr_prime.md) 
 
@@ -35,7 +35,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2263/night-gyr-a) 
 - **Battle Value:** 2680 
 - [*More Info*](night_gyr/night_gyr_a.md) 
 
@@ -53,7 +53,7 @@
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2264/night-gyr-b) 
 - **Battle Value:** 2140 
 - [*More Info*](night_gyr/night_gyr_b.md) 
 
@@ -73,7 +73,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2265/night-gyr-c) 
 - **Battle Value:** 2468 
 - [*More Info*](night_gyr/night_gyr_c.md) 
 
@@ -92,7 +92,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2266/night-gyr-d) 
 - **Battle Value:** 2889 
 - [*More Info*](night_gyr/night_gyr_d.md) 
 
@@ -112,7 +112,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2267/night-gyr-e) 
 - **Battle Value:** 2717 
 - [*More Info*](night_gyr/night_gyr_e.md) 
 
@@ -133,7 +133,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2269/night-gyr-h) 
 - **Battle Value:** 2428 
 - [*More Info*](night_gyr/night_gyr_h.md) 
 
@@ -154,7 +154,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2268/night-gyr-f) 
 - **Battle Value:** 2958 
 - [*More Info*](night_gyr/night_gyr_f.md) 
 

@@ -15,7 +15,7 @@
   - AC/2 (ammo: 45) 
   - Small Laser 
   - Flamer × 3 
-- **Sources:** Star League , [Master Unit List](Master Unit List) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7797/vulcan-vl-2t-timms) 
 - **Battle Value:** 603 
 
 ## Availability 

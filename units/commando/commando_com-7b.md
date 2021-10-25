@@ -18,7 +18,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/675/commando-com-7b) 
 - **Battle Value:** 602 
 
 ## Availability 

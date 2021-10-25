@@ -18,7 +18,7 @@
   - Supercharger 
   - CASE II 
   - C3 Boosted Slave 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6461/vandal-li-o) 
 - **Battle Value:** 1881 
 - [*More Info*](vandal/vandal_li-o.md) 
 
@@ -40,7 +40,7 @@
   - Supercharger 
   - CASE II 
   - C3 BoostedMaster 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6462/vandal-li-oa) 
 - **Battle Value:** 1865 
 - [*More Info*](vandal/vandal_li-oa.md) 
 
@@ -66,7 +66,7 @@
   - TAG 
   - Targeting Computer 
   - C3 Boosted Slave 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6463/vandal-li-ob) 
 - **Battle Value:** 1666 
 - [*More Info*](vandal/vandal_li-ob.md) 
 

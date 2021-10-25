@@ -15,7 +15,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1070/fire-falcon-prime) 
 - **Battle Value:** 1451 
 - [*More Info*](fire_falcon/fire_falcon_prime.md) 
 
@@ -33,7 +33,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1063/fire-falcon-a) 
 - **Battle Value:** 822 
 - [*More Info*](fire_falcon/fire_falcon_a.md) 
 
@@ -49,7 +49,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1064/fire-falcon-b) 
 - **Battle Value:** 1570 
 - [*More Info*](fire_falcon/fire_falcon_b.md) 
 
@@ -70,7 +70,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1065/fire-falcon-c) 
 - **Battle Value:** 1004 
 - [*More Info*](fire_falcon/fire_falcon_c.md) 
 
@@ -89,7 +89,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1066/fire-falcon-d) 
 - **Battle Value:** 826 
 - [*More Info*](fire_falcon/fire_falcon_d.md) 
 
@@ -105,7 +105,7 @@
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1067/fire-falcon-e) 
 - **Battle Value:** 1094 
 - [*More Info*](fire_falcon/fire_falcon_e.md) 
 
@@ -121,7 +121,7 @@
   - Medium Pulse Laser × 2 
   - Heavy Medium Laser × 2 
   - Heavy Small Laser × 2 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1069/fire-falcon-h) 
 - **Battle Value:** 1162 
 - [*More Info*](fire_falcon/fire_falcon_h.md) 
 
@@ -142,7 +142,7 @@
   - Machine Gun Array × 2 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f) 
 - **Battle Value:** 1135 
 - [*More Info*](fire_falcon/fire_falcon_f.md) 
 
@@ -160,7 +160,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8180/fire-falcon-g) 
 - **Battle Value:** 1269 
 - [*More Info*](fire_falcon/fire_falcon_g.md) 
 
@@ -175,7 +175,7 @@
 - **Weapons:** 
   - Plasma Cannon (ammo: 10) 
   - ER Medium Laser × 5 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8181/fire-falcon-i) 
 - **Battle Value:** 1678 
 - [*More Info*](fire_falcon/fire_falcon_i.md) 
 
@@ -192,7 +192,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8182/fire-falcon-l) 
 - **Battle Value:** 1665 
 - [*More Info*](fire_falcon/fire_falcon_l.md) 
 
@@ -211,7 +211,7 @@
   - Micro Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8183/fire-falcon-r) 
 - **Battle Value:** 846 
 - [*More Info*](fire_falcon/fire_falcon_r.md) 
 
@@ -233,7 +233,7 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8179/fire-falcon-t) 
 - **Battle Value:** 1661 
 - [*More Info*](fire_falcon/fire_falcon_t.md) 
 

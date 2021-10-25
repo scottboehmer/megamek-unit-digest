@@ -19,7 +19,7 @@
   - Hatchet 
   - ER Small Laser × 2 
   - Small Pulse Laser 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2284/nightsky-ngs-6t) 
 - **Battle Value:** 1462 
 
 ## Availability 

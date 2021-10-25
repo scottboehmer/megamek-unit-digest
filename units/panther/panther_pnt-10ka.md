@@ -16,7 +16,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4785/panther-pnt-10ka) 
 - **Battle Value:** 797 
 
 ## Availability 

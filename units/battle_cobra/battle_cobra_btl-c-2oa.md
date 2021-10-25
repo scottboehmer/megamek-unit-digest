@@ -19,7 +19,7 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/264/battle-cobra-btl-c-2oa) 
 - **Battle Value:** 1113 
 
 ## Availability 

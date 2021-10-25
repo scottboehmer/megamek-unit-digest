@@ -14,7 +14,7 @@
   - Heavy Machine Gun × 4 (ammo: 50) 
 - **Equipment:** 
   - Machine Gun Array 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7850/carbine-con-9m-jb-constructionmech-mod) 
 - **Battle Value:** 280 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3840/blue-flame-blf-21) 
 - **Battle Value:** 1256 
 
 ## Availability 

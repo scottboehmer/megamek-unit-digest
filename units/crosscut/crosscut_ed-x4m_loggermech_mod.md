@@ -14,7 +14,7 @@
   - Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7169/crosscut-ed-x4m-loggermech-mod) 
 - **Battle Value:** 430 
 
 ## Availability 

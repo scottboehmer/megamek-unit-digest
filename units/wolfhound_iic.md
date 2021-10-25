@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3570/wolfhound-iic-grinner) 
 - **Battle Value:** 1579 
 - [*More Info*](wolfhound_iic/wolfhound_iic_grinner.md) 
 

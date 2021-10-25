@@ -52,7 +52,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7606/coyotl-b) 
 - **Battle Value:** 1447 
 - [*More Info*](coyotl/coyotl_b.md) 
 
@@ -71,7 +71,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7607/coyotl-c) 
 - **Battle Value:** 1851 
 - [*More Info*](coyotl/coyotl_c.md) 
 
@@ -92,7 +92,7 @@
   - Targeting Computer 
   - Supercharger 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608/coyotl-d) 
 - **Battle Value:** 1980 
 - [*More Info*](coyotl/coyotl_d.md) 
 

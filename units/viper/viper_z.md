@@ -19,7 +19,7 @@
   - Laser Anti-Missile System 
   - CASE 
   - Light TAG 
-- **Sources:** WoR - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5644/dragonfly-viper-z) 
 - **Battle Value:** 1692 
 
 ## Availability 

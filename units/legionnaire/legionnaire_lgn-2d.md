@@ -14,7 +14,7 @@
   - RAC/5 (ammo: 60) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1863/legionnaire-lgn-2d) 
 - **Battle Value:** 1386 
 
 ## Availability 

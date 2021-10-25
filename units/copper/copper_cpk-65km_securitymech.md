@@ -14,7 +14,7 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - Searchlight × 2 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7465/copper-cpk-65km-securitymech) 
 - **Battle Value:** 339 
 
 ## Availability 

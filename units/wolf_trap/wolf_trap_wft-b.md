@@ -17,7 +17,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3558/wolf-trap-tora-wft-b) 
 - **Battle Value:** 1021 
 
 ## Availability 

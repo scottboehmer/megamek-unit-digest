@@ -18,7 +18,7 @@
   - Inner Sphere Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209/cauldron-born-ebon-jaguar-t) 
 - **Battle Value:** 2219 
 
 ## Availability 

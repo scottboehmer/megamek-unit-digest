@@ -15,7 +15,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Narc (ammo: 6) 
   - ER Small Laser × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1948/longshot-lng-3) 
 - **Battle Value:** 955 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Large Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/263/battle-cobra-btl-c-2o) 
 - **Battle Value:** 944 
 
 ## Availability 

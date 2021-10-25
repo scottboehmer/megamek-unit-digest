@@ -16,7 +16,7 @@
   - Large Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4810/perseus-p1b) 
 - **Battle Value:** 1776 
 
 ## Availability 

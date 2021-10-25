@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2) 
 - **Battle Value:** 2753 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - C3i 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/267/battle-cobra-btl-c-2od) 
 - **Battle Value:** 1221 
 
 ## Availability 

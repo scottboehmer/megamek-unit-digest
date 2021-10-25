@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard) 
 - **Battle Value:** 1732 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_standard.md) 
 
@@ -33,7 +33,7 @@
   - ER Large Laser × 2 
   - ER Small Laser 
   - Small Pulse Laser × 3 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2) 
 - **Battle Value:** 1763 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_2.md) 
 
@@ -51,7 +51,7 @@
   - Medium Pulse Laser 
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2913/shadow-hawk-iic-3) 
 - **Battle Value:** 1471 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_3.md) 
 
@@ -70,7 +70,7 @@
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2914/shadow-hawk-iic-4) 
 - **Battle Value:** 1698 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_4.md) 
 
@@ -88,7 +88,7 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2915/shadow-hawk-iic-5) 
 - **Battle Value:** 1614 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_5.md) 
 
@@ -108,7 +108,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2916/shadow-hawk-iic-6) 
 - **Battle Value:** 1907 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_6.md) 
 
@@ -129,7 +129,7 @@
 - **Equipment:** 
   - Liquid Cargo × 2 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2917/shadow-hawk-iic-7) 
 - **Battle Value:** 1999 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_7.md) 
 
@@ -150,7 +150,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2918/shadow-hawk-iic-8) 
 - **Battle Value:** 1940 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_8.md) 
 
@@ -169,7 +169,7 @@
   - ATM 6 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6911/shadow-hawk-iic-9) 
 - **Battle Value:** 1803 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_9.md) 
 

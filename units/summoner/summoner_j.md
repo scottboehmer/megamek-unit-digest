@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7489/thor-summoner-j) 
 - **Battle Value:** 2666 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** ER 2750 , [Master Unit List](Master Unit List) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem) 
 - **Battle Value:** 1413 
 
 ## Availability 

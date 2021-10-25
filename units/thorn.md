@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3190/thorn-the-f) 
 - **Battle Value:** 510 
 - [*More Info*](thorn/thorn_the-f.md) 
 
@@ -28,7 +28,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3191/thorn-the-n) 
 - **Battle Value:** 546 
 - [*More Info*](thorn/thorn_the-n.md) 
 
@@ -61,7 +61,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3195/thorn-the-s) 
 - **Battle Value:** 510 
 - [*More Info*](thorn/thorn_the-s.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3196/thorn-the-t) 
 - **Battle Value:** 500 
 - [*More Info*](thorn/thorn_the-t.md) 
 
@@ -91,7 +91,7 @@
 - **Weapons:** 
   - ER PPC 
   - Small Laser 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3192/thorn-the-n1) 
 - **Battle Value:** 656 
 - [*More Info*](thorn/thorn_the-n1.md) 
 
@@ -108,7 +108,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3193/thorn-the-n2) 
 - **Battle Value:** 410 
 - [*More Info*](thorn/thorn_the-n2.md) 
 

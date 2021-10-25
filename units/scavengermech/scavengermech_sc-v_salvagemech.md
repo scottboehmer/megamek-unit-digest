@@ -17,7 +17,7 @@
   - Mech Sprayer 
   - Light Fluid Suction System 
   - Liquid Cargo × 2 
-- **Sources:** RS VA , [Master Unit List](Master Unit List) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4987/scavenger-sc-v-salvagemech) 
 - **Battle Value:** 582 
 
 ## Availability 

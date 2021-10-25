@@ -18,7 +18,7 @@
   - SRT 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - MASS 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1406/hatamoto-kaeru-htm-35x) 
 - **Battle Value:** 1906 
 
 ## Availability 

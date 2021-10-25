@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 4 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1127/flashman-fls-9m) 
 - **Battle Value:** 1895 
 
 ## Availability 

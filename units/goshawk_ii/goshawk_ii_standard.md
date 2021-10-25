@@ -18,7 +18,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1249/goshawk-ii-standard) 
 - **Battle Value:** 1849 
 
 ## Availability 

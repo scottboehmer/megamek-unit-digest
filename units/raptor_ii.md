@@ -17,7 +17,7 @@
   - Void-Signature System 
   - MASC 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2657/raptor-ii-rpt-2x) 
 - **Battle Value:** 896 
 - [*More Info*](raptor_ii/raptor_ii_rpt-2x.md) 
 
@@ -41,7 +41,7 @@
   - Void-Signature System 
   - MASC 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2658/raptor-ii-rpt-2x1) 
 - **Battle Value:** 1274 
 - [*More Info*](raptor_ii/raptor_ii_rpt-2x1.md) 
 
@@ -61,7 +61,7 @@
   - Guardian ECM Suite 
   - Void-Signature System 
   - MASC 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2659/raptor-ii-rpt-3x) 
 - **Battle Value:** 1304 
 - [*More Info*](raptor_ii/raptor_ii_rpt-3x.md) 
 
@@ -82,7 +82,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Void-Signature System 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2660/raptor-ii-rpt-5x) 
 - **Battle Value:** 1124 
 - [*More Info*](raptor_ii/raptor_ii_rpt-5x.md) 
 
@@ -102,7 +102,7 @@
   - Angel ECM Suite 
   - Void-Signature System 
   - MASC 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6918/raptor-ii-rpt-2x2) 
 - **Battle Value:** 1868 
 - [*More Info*](raptor_ii/raptor_ii_rpt-2x2.md) 
 

@@ -15,7 +15,7 @@
   - MML 3 × 2 (ammo: 33 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199/locust-lct-5s) 
 - **Battle Value:** 509 
 
 ## Availability 

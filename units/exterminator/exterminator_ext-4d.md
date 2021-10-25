@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1004/exterminator-ext-4d) 
 - **Battle Value:** 1385 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3 Slave 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1372/hammerhands-hmh-6d) 
 - **Battle Value:** 2139 
 
 ## Availability 

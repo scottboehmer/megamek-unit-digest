@@ -15,7 +15,7 @@
   - Rocket 10 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7838/firebee-wi-wam-militiamech) 
 - **Battle Value:** 456 
 
 ## Availability 

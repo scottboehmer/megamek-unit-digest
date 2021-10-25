@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - MASC 
   - TAG 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1491/hermes-her-3s2) 
 - **Battle Value:** 600 
 
 ## Availability 

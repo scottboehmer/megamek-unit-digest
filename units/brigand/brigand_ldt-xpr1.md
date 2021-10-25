@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium X-Pulse Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7313/brigand-ldt-xpr1) 
 - **Battle Value:** 723 
 
 ## Availability 

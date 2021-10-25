@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7559/koshi-mist-lynx-k) 
 - **Battle Value:** 976 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Ultra AC/2 × 3 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/402/blood-asp-d) 
 - **Battle Value:** 2396 
 
 ## Availability 

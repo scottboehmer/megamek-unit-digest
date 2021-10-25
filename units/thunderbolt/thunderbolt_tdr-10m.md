@@ -17,7 +17,7 @@
   - Light PPC 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3232/thunderbolt-tdr-10m) 
 - **Battle Value:** 1727 
 
 ## Availability 

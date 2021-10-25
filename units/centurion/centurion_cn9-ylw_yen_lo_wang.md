@@ -14,7 +14,7 @@
   - AC/20 (ammo: 15) 
   - Medium Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/525/centurion-cn9-ylw-yen-lo-wang) 
 - **Battle Value:** 957 
 
 ## Availability 

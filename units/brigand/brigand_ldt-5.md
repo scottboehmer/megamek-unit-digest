@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Mace 
-- **Sources:** HTP Tortuga , [Master Unit List](Master Unit List) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312/brigand-ldt-5) 
 - **Battle Value:** 762 
 
 ## Availability 

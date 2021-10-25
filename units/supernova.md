@@ -11,7 +11,7 @@
 - **Heat Sinks:** 26 (52) 
 - **Weapons:** 
   - ER Large Laser × 6 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3132/supernova-standard) 
 - **Battle Value:** 2801 
 - [*More Info*](supernova/supernova_standard.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3133/supernova-2) 
 - **Battle Value:** 2741 
 - [*More Info*](supernova/supernova_2.md) 
 
@@ -49,7 +49,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3134/supernova-3) 
 - **Battle Value:** 3448 
 - [*More Info*](supernova/supernova_3.md) 
 
@@ -68,7 +68,7 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3135/supernova-4) 
 - **Battle Value:** 3158 
 - [*More Info*](supernova/supernova_4.md) 
 
@@ -85,7 +85,7 @@
   - ER Large Laser × 6 
 - **Equipment:** 
   - Inner Sphere Coolant Pod × 4 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132/supernova-5) 
 - **Battle Value:** 3070 
 - [*More Info*](supernova/supernova_5.md) 
 

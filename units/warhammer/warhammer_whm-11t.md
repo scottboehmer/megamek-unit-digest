@@ -18,7 +18,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3482/warhammer-whm-11t) 
 - **Battle Value:** 1698 
 
 ## Availability 

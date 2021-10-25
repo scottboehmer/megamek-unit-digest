@@ -17,7 +17,7 @@
   - SRM 6 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3174/thor-summoner-a) 
 - **Battle Value:** 2145 
 
 ## Availability 

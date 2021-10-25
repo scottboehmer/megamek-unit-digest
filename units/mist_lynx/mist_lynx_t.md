@@ -19,7 +19,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
 - **Battle Value:** 971 
 
 ## Availability 

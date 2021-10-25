@@ -16,7 +16,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1124/flashman-fls-8k) 
 - **Battle Value:** 1779 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6514/neanderthal-ntl-ug) 
 - **Battle Value:** 1817 
 
 ## Availability 

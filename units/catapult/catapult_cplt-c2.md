@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - LB 2-X AC × 2 (ammo: 45 Cluster) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5452/catapult-cplt-c2) 
 - **Battle Value:** 1346 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light AC/5 (ammo: 40) 
   - Sword 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6392/rokurokubi-rk-4t) 
 - **Battle Value:** 998 
 
 ## Availability 

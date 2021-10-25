@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3 Slave 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1128/flashman-fls-c) 
 - **Battle Value:** 1774 
 
 ## Availability 

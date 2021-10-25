@@ -14,7 +14,7 @@
   - MRM 20 (ammo: 12) 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/332/bishamon-bsn-3k) 
 - **Battle Value:** 1374 
 
 ## Availability 

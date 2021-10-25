@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3004/spector-spr-5s) 
 - **Battle Value:** 1155 
 
 ## Availability 

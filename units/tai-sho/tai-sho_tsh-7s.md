@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Master × 2 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3150/tai-sho-tsh-7s) 
 - **Battle Value:** 1774 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 5 × 3 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a) 
 - **Battle Value:** 1478 
 - [*More Info*](bandersnatch/bandersnatch_bndr-01a.md) 
 
@@ -52,7 +52,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219/bandersnatch-bndr-01b) 
 - **Battle Value:** 1630 
 - [*More Info*](bandersnatch/bandersnatch_bndr-01b.md) 
 
@@ -72,7 +72,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/218/bandersnatch-bndr-01ar) 
 - **Battle Value:** 1522 
 - [*More Info*](bandersnatch/bandersnatch_bndr-01ar.md) 
 

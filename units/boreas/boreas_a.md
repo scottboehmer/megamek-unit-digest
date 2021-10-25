@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Tracks 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7352/boreas-a) 
 - **Battle Value:** 1221 
 
 ## Availability 

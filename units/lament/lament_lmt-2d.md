@@ -18,7 +18,7 @@
   - Angel ECM Suite 
   - Radical Heat Sink System 
   - Remote Drone Command Console 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383/lament-lmt-2d) 
 - **Battle Value:** 2044 
 
 ## Availability 

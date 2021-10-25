@@ -14,7 +14,7 @@
   - LRM 15 × 2 (ammo: 16) 
   - Medium Laser × 2 
   - AC/2 × 2 (ammo: 45) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1665/jagermech-jm6-a) 
 - **Battle Value:** 1122 
 
 ## Availability 

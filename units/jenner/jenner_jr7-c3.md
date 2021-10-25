@@ -15,7 +15,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - C3 Slave 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1690/jenner-jr7-c3) 
 - **Battle Value:** 1069 
 
 ## Availability 

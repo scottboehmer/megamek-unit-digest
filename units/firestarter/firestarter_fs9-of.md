@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
   - ER Small Laser 
   - Flamer × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1105/firestarter-fs9-of) 
 - **Battle Value:** 1446 
 
 ## Availability 

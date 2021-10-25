@@ -15,7 +15,7 @@
   - Streak SRM 6 × 4 (ammo: 60) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/103/arctic-wolf-prime) 
 - **Battle Value:** 1641 
 
 ## Availability 

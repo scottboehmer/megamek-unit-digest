@@ -15,7 +15,7 @@
   - ER Medium Laser × 5 
   - SRM 6 (ammo: 15) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4763/osiris-osr-3d) 
 - **Battle Value:** 1138 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3488/warhammer-whm-6r) 
 - **Battle Value:** 1299 
 
 ## Availability 

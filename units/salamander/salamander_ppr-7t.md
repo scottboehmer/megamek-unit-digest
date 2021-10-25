@@ -16,7 +16,7 @@
   - ELRM 10 (ammo: 18) 
 - **Equipment:** 
   - C3 Boosted Slave 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6860/salamander-ppr-7t) 
 - **Battle Value:** 1647 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Modular Armor × 4 
   - Clan Light TAG 
   - Clan CASE II 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5550/grim-reaper-grm-r-einar) 
 - **Battle Value:** 2121 
 
 ## Availability 

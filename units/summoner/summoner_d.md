@@ -19,7 +19,7 @@
   - Anti-Missile System × 2 (ammo: 48) 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3177/thor-summoner-d) 
 - **Battle Value:** 2643 
 
 ## Availability 

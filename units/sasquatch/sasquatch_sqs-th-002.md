@@ -16,7 +16,7 @@
   - Small Laser 
 - **Equipment:** 
   - Large Shield 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2799/sasquatch-sqs-th-002) 
 - **Battle Value:** 1993 
 
 ## Availability 

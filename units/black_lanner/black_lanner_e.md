@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/367/black-lanner-e) 
 - **Battle Value:** 2331 
 
 ## Availability 

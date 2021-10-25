@@ -19,7 +19,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4732/no-dachi-nda-2k) 
 - **Battle Value:** 1739 
 
 ## Availability 

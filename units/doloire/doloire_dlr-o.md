@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - AES × 2 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678/doloire-dlr-o) 
 - **Battle Value:** 2561 
 
 ## Availability 

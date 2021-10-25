@@ -15,7 +15,7 @@
   - Gauss Rifle (ammo: 16) 
   - ER PPC 
   - Medium Laser × 4 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1033/falconer-flc-8r) 
 - **Battle Value:** 2231 
 
 ## Availability 

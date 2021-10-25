@@ -14,7 +14,7 @@
   - PPC 
   - AC/5 (ammo: 20) 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3299/trebuchet-tbt-7k) 
 - **Battle Value:** 996 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - C3 Slave 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1535/hitman-hm-2) 
 - **Battle Value:** 861 
 
 ## Availability 

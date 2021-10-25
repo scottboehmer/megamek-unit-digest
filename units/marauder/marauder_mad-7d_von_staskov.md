@@ -18,7 +18,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7697/marauder-mad-7d-von-staskov) 
 - **Battle Value:** 2150 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 2 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3152/talon-tln-5v) 
 - **Battle Value:** 1075 
 
 ## Availability 

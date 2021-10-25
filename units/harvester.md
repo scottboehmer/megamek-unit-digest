@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** TRO VA , [Master Unit List](Master Unit List) 
+- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4264/harvester-hvr-99-agromech) 
 - **Battle Value:** 339 
 - [*More Info*](harvester/harvester_hvr-99_agromech.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7860/harvester-hvr-199-agromech) 
 - **Battle Value:** 490 
 - [*More Info*](harvester/harvester_hvr-199_agromech.md) 
 
@@ -49,7 +49,7 @@
   - Combine 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7861/harvester-hvr-199m-agromech-mod) 
 - **Battle Value:** 406 
 - [*More Info*](harvester/harvester_hvr-199m_agromech_mod.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 20) 
   - Combine 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7862/harvester-hvr-199m-a-agromech-mod) 
 - **Battle Value:** 605 
 - [*More Info*](harvester/harvester_hvr-199m-a_agromech_mod.md) 
 
@@ -79,7 +79,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
   - Combine 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7863/harvester-hvr-199m-b-agromech-mod) 
 - **Battle Value:** 460 
 - [*More Info*](harvester/harvester_hvr-199m-b_agromech_mod.md) 
 
@@ -96,7 +96,7 @@
   - Combine 
 - **Equipment:** 
   - Mine Dispenser × 4 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7864/harvester-hvr-199m-m-agromech-mod) 
 - **Battle Value:** 438 
 - [*More Info*](harvester/harvester_hvr-199m-m_agromech_mod.md) 
 

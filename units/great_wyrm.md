@@ -15,7 +15,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1284/great-wyrm-standard) 
 - **Battle Value:** 1331 
 - [*More Info*](great_wyrm/great_wyrm_standard.md) 
 
@@ -50,7 +50,7 @@
   - AP Gauss Rifle (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1285/great-wyrm-2) 
 - **Battle Value:** 1667 
 - [*More Info*](great_wyrm/great_wyrm_2.md) 
 

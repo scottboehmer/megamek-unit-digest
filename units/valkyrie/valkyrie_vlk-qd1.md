@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3374/valkyrie-vlk-qd1) 
 - **Battle Value:** 878 
 
 ## Availability 

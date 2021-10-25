@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3 Boosted Slave 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262/grand-dragon-drg-7kc) 
 - **Battle Value:** 1673 
 
 ## Availability 

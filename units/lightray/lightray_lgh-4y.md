@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
   - SRM 2 × 2 (ammo: 50) 
   - ER Small Laser 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4520/lightray-lgh-4y) 
 - **Battle Value:** 1379 
 
 ## Availability 

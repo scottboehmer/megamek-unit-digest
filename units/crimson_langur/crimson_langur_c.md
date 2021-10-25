@@ -16,7 +16,7 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4018/crimson-langur-c) 
 - **Battle Value:** 1437 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Medium Pulse Laser 
   - Medium Laser 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3691/akuma-aku-1x) 
 - **Battle Value:** 1959 
 
 ## Availability 

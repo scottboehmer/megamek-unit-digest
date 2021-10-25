@@ -17,7 +17,7 @@
   - Hatchet 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1413/hatchetman-hct-5s) 
 - **Battle Value:** 1039 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser 
   - Small Pulse Laser 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1030/falcon-hawk-fnhk-9k) 
 - **Battle Value:** 1030 
 
 ## Availability 

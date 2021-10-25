@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5442/firestarter-fs9-s3) 
 - **Battle Value:** 908 
 
 ## Availability 

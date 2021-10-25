@@ -14,7 +14,7 @@
   - LRM 10 × 2 (ammo: 48) 
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/771/cyclops-cp-10-q) 
 - **Battle Value:** 1584 
 
 ## Availability 

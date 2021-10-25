@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6556/black-hawk-3) 
 - **Battle Value:** 2317 
 
 ## Availability 

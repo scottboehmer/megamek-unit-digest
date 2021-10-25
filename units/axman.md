@@ -16,7 +16,7 @@
   - Hatchet 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/184/axman-axm-1n) 
 - **Battle Value:** 1374 
 - [*More Info*](axman/axman_axm-1n.md) 
 
@@ -36,7 +36,7 @@
   - Hatchet 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
 - **Battle Value:** 1458 
 - [*More Info*](axman/axman_axm-2n.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3067 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186/axman-axm-3s) 
 - **Battle Value:** 1649 
 - [*More Info*](axman/axman_axm-3s.md) 
 
@@ -78,7 +78,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Slave 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr) 
 - **Battle Value:** 1734 
 - [*More Info*](axman/axman_axm-3sr.md) 
 
@@ -97,7 +97,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d) 
 - **Battle Value:** 1222 
 - [*More Info*](axman/axman_axm-4d.md) 
 
@@ -115,7 +115,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x) 
 - **Battle Value:** 2132 
 - [*More Info*](axman/axman_axm-6x.md) 
 
@@ -154,7 +154,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
 - **Battle Value:** 2575 
 - [*More Info*](axman/axman_axm-5n.md) 
 

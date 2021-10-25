@@ -13,7 +13,7 @@
   - LRM 20 × 2 (ammo: 36) 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5619/longbow-lgb-0c) 
 - **Battle Value:** 1295 
 - [*More Info*](longbow/longbow_lgb-0c.md) 
 
@@ -29,7 +29,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - LRM 5 × 2 (ammo: 48) 
   - Small Laser 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930/longbow-lgb-0w) 
 - **Battle Value:** 1337 
 - [*More Info*](longbow/longbow_lgb-0w.md) 
 
@@ -45,7 +45,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1936/longbow-lgb-7q) 
 - **Battle Value:** 1618 
 - [*More Info*](longbow/longbow_lgb-7q.md) 
 
@@ -63,7 +63,7 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1937/longbow-lgb-7v) 
 - **Battle Value:** 1816 
 - [*More Info*](longbow/longbow_lgb-7v.md) 
 
@@ -81,7 +81,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931/longbow-lgb-12c) 
 - **Battle Value:** 1686 
 - [*More Info*](longbow/longbow_lgb-12c.md) 
 
@@ -99,7 +99,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1938/longbow-lgb-8v) 
 - **Battle Value:** 1808 
 - [*More Info*](longbow/longbow_lgb-8v.md) 
 
@@ -120,7 +120,7 @@
   - B-Pod × 2 
   - CASE 
   - C3 Slave 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934/longbow-lgb-13nais) 
 - **Battle Value:** 1804 
 - [*More Info*](longbow/longbow_lgb-13nais.md) 
 
@@ -137,7 +137,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933/longbow-lgb-13c) 
 - **Battle Value:** 1307 
 - [*More Info*](longbow/longbow_lgb-13c.md) 
 
@@ -154,7 +154,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1935/longbow-lgb-14c) 
 - **Battle Value:** 1421 
 - [*More Info*](longbow/longbow_lgb-14c.md) 
 
@@ -173,7 +173,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932/longbow-lgb-12r) 
 - **Battle Value:** 1979 
 - [*More Info*](longbow/longbow_lgb-12r.md) 
 
@@ -191,7 +191,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6854/longbow-lgb-14c2) 
 - **Battle Value:** 1291 
 - [*More Info*](longbow/longbow_lgb-14c2.md) 
 

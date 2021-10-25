@@ -16,7 +16,7 @@
   - Heavy Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3504/warhammer-iic-5) 
 - **Battle Value:** 2185 
 
 ## Availability 

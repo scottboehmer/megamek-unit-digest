@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 400) 
 - **Equipment:** 
   - Searchlight × 2 
-- **Sources:** RS:VA IM Exo - Star League , [Master Unit List](Master Unit List) 
+- **Sources:** RS:VA IM Exo - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3993/copper-cpk-19-securitymech) 
 - **Battle Value:** 310 
 
 ## Availability 

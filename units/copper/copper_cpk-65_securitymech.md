@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Searchlight × 2 
-- **Sources:** RS:VA IM Exo - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** RS:VA IM Exo - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3994/copper-cpk-65-securitymech) 
 - **Battle Value:** 325 
 
 ## Availability 

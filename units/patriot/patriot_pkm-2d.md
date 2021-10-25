@@ -20,7 +20,7 @@
   - Anti-Missile System (ammo: 12) 
   - TAG 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2448/patriot-pkm-2d) 
 - **Battle Value:** 1699 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/552/champion-chp-3n) 
 - **Battle Value:** 1400 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7547/war-crow-b) 
 - **Battle Value:** 2787 
 
 ## Availability 

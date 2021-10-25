@@ -18,7 +18,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/216/balius-u) 
 - **Battle Value:** 2014 
 
 ## Availability 

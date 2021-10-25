@@ -18,7 +18,7 @@
   - A-Pod 
   - MASC 
   - CASE 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/839/dasher-fire-moth-b) 
 - **Battle Value:** 1064 
 
 ## Availability 

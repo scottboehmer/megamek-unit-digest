@@ -14,7 +14,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS:VA IM Exo - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** RS:VA IM Exo - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7158/cattlemaster-ctl-3r3-securitymech) 
 - **Battle Value:** 358 
 
 ## Availability 

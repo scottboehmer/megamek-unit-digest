@@ -19,7 +19,7 @@
   - B-Pod × 2 
   - CASE 
   - Targeting Computer 
-- **Sources:** 3067 Unabridged , [Master Unit List](Master Unit List) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5690/bowman-3) 
 - **Battle Value:** 2767 
 
 ## Availability 

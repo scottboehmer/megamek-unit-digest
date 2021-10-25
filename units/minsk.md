@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Inner Sphere Beagle Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4645/minsk-mnk-101) 
 - **Battle Value:** 2024 
 - [*More Info*](minsk/minsk_mnk-101.md) 
 
@@ -39,7 +39,7 @@
   - Active Probe 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640/minsk-standard) 
 - **Battle Value:** 2028 
 - [*More Info*](minsk/minsk_standard.md) 
 
@@ -62,7 +62,7 @@
   - Inner Sphere B-Pod × 2 
   - Inner Sphere Coolant Pod × 4 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](Master Unit List) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7641/minsk-2) 
 - **Battle Value:** 2091 
 - [*More Info*](minsk/minsk_2.md) 
 

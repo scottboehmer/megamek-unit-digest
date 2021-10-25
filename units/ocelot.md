@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Light Active Probe 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313/ocelot-standard) 
 - **Battle Value:** 1439 
 - [*More Info*](ocelot/ocelot_standard.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - ER PPC 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314/ocelot-2) 
 - **Battle Value:** 1734 
 - [*More Info*](ocelot/ocelot_2.md) 
 
@@ -50,7 +50,7 @@
   - ECM Suite 
   - Light Active Probe 
   - Targeting Computer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2315/ocelot-3) 
 - **Battle Value:** 1594 
 - [*More Info*](ocelot/ocelot_3.md) 
 
@@ -66,7 +66,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
-- **Sources:** RS 3145 NT NU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925/ocelot-4) 
 - **Battle Value:** 1468 
 - [*More Info*](ocelot/ocelot_4.md) 
 

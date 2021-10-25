@@ -17,7 +17,7 @@
   - SRT 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/740/crossbow-u) 
 - **Battle Value:** 1856 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Modular Armor × 6 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6932/uller-kit-fox-i) 
 - **Battle Value:** 1936 
 
 ## Availability 

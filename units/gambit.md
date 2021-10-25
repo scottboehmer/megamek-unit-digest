@@ -14,7 +14,7 @@
   - MML 3 (ammo: 40 LRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6500/gambit-gbt-1g) 
 - **Battle Value:** 777 
 - [*More Info*](gambit/gambit_gbt-1g.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - TAG 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6501/gambit-gbt-1l) 
 - **Battle Value:** 796 
 - [*More Info*](gambit/gambit_gbt-1l.md) 
 

@@ -18,7 +18,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NYNU , [Master Unit List](Master Unit List) 
+- **Sources:** RS 3145 NYNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6877/thunderbolt-tdr-10s) 
 - **Battle Value:** 1766 
 
 ## Availability 

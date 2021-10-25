@@ -17,7 +17,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Extended Fuel Tank 
-- **Sources:** Dark Age , [Master Unit List](Master Unit List) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/5542/dig-lord-rcl-4m-miningmech-mod) 
 - **Battle Value:** 724 
 
 ## Availability 

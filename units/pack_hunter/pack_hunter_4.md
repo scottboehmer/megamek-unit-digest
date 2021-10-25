@@ -16,7 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2395/pack-hunter-4) 
 - **Battle Value:** 1257 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Slave 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2387/owens-ow-1c) 
 - **Battle Value:** 964 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1265/grand-titan-t-it-n10m) 
 - **Battle Value:** 1817 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
   - Heavy Small Laser × 8 
   - Flamer 
-- **Sources:** TRO 3075 , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/212/balius-b) 
 - **Battle Value:** 2029 
 
 ## Availability 

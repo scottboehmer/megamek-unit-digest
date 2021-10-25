@@ -16,7 +16,7 @@
   - MML 3 w/ Artemis IV × 2 (ammo: 80 LRM, 33 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/168/avatar-av1-oh) 
 - **Battle Value:** 1598 
 
 ## Availability 

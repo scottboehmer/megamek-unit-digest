@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Spikes × 2 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](Master Unit List) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/419/bombard-bmb-013) 
 - **Battle Value:** 1019 
 
 ## Availability 

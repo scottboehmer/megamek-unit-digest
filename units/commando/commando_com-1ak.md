@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** Jihad , [Master Unit List](Master Unit List) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak) 
 - **Battle Value:** 549 
 
 ## Availability 
