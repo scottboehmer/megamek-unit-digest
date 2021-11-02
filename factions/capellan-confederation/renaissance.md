@@ -475,7 +475,7 @@
 - [**Raven RVN-1X**](../../units/raven/raven_rvn-1x.md) *Scout (3024)* `Active Probe` , `ECM` 
 - [**Raven RVN-3X**](../../units/raven/raven_rvn-3x.md) *Scout (3028)* `Active Probe` , `ECM` 
 - [**Raven RVN-4X**](../../units/raven/raven_rvn-4x.md) *Striker (3031)* 
-- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Striker (3048)* `Active Probe` , `ECM` , `TAG` 
+- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Scout (3048)* `Active Probe` , `ECM` , `TAG` 
 
 ### 40 Tons 
 

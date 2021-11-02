@@ -1741,6 +1741,7 @@
 - [**Awesome AWS-9M**](../../units/awesome/awesome_aws-9m.md) *Brawler (3049)* 
 - [**Awesome AWS-9Q**](../../units/awesome/awesome_aws-9q.md) *Sniper (3057)* `ECM` 
 - [**Awesome AWS-10KM**](../../units/awesome/awesome_aws-10km.md) *Juggernaut (3068)* `ECM` 
+- [**Awesome AWS-10KM (Cameron)**](../../units/awesome/awesome_aws-10km_cameron.md) *Undefined (3075)* `C3i` , `ECM` , `Unique` 
 
 #### [Gargoyle](../../units/gargoyle.md) 
 

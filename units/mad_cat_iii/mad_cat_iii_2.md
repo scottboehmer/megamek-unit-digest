@@ -6,18 +6,18 @@
 
 - **Role:** Undefined 
 - **Tech Base:** Clan (3089) 
-- **Chassis:** 55 tons (Endo Steel) 
+- **Chassis:** 55 tons (Endo Composite) 
 - **Movement:** 6 / 9, XL 
-  - **Jumping:** 5 
-- **Armor:** 185 (Ferro Fibrous) 
-- **Heat Sinks:** 16 (32) 
+- **Armor:** 172 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
 - **Weapons:** 
-  - LRM 20 × 2 (ammo: 12) 
-  - Heavy Medium Laser × 2 
+  - Medium Pulse Laser × 2 
+  - SRM 6 w/ Artemis V × 4 (ammo: 30) 
+  - Micro Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2) 
-- **Battle Value:** 2095 
+- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2) 
+- **Battle Value:** 1697 
 
 ## Availability 
 

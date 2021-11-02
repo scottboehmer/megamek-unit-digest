@@ -765,7 +765,7 @@
 
 #### [Victor](../../units/victor.md) 
 
-- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (3050)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 

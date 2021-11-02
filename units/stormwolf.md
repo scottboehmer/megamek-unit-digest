@@ -15,9 +15,9 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - MASC 
+  - Supercharger 
   - Light TAG 
   - CASE II 
-  - Supercharger 
 - **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8204/stormwolf-prime) 
 - **Battle Value:** 2788 
 - [*More Info*](stormwolf/stormwolf_prime.md) 
@@ -81,8 +81,8 @@
   - Watchdog CEWS 
   - Laser Anti-Missile System 
   - MASC 
-  - Targeting Computer 
   - Supercharger 
+  - Targeting Computer 
 - **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8207/stormwolf-c) 
 - **Battle Value:** 3261 
 - [*More Info*](stormwolf/stormwolf_c.md) 
@@ -102,9 +102,9 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - MASC 
+  - Supercharger 
   - Light TAG 
   - CASE II 
-  - Supercharger 
 - **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8208/stormwolf-d) 
 - **Battle Value:** 3122 
 - [*More Info*](stormwolf/stormwolf_d.md) 

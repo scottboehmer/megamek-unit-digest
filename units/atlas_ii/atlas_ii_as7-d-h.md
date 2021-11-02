@@ -18,7 +18,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/152/atlas-ii-as7-d-h) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/152/atlas-ii-as7-d-h) 
 - **Battle Value:** 2169 
 
 ## Availability 

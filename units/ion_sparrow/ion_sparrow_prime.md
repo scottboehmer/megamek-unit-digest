@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7738/butcherbird-ion-sparrow-prime) 
+- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7738/butcherbird-ion-sparrow-prime) 
 - **Battle Value:** 885 
 
 ## Availability 

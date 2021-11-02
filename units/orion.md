@@ -132,7 +132,7 @@
 - **Heat Sinks:** 11 (22) 
 - **Weapons:** 
   - LRM 20 (ammo: 12) 
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 50) 
   - Narc (ammo: 12) 
@@ -293,7 +293,7 @@
 - **Equipment:** 
   - CASE II 
   - TAG 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
+- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
 - **Battle Value:** 1826 
 - [*More Info*](orion/orion_on3-m.md) 
 

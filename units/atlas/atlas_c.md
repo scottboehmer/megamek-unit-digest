@@ -17,7 +17,7 @@
   - Inner Sphere Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
+- **Sources:** Battle of Tukayyid - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
 - **Battle Value:** 2340 
 
 ## Availability 

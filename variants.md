@@ -2412,7 +2412,7 @@
 - [**Raven RVN-3X**](units/raven/raven_rvn-3x.md) *Scout (3028)* `Active Probe` , `ECM` 
 - [**Raven RVN-2X**](units/raven/raven_rvn-2x.md) *Striker (3030)* 
 - [**Raven RVN-4X**](units/raven/raven_rvn-4x.md) *Striker (3031)* 
-- [**Raven RVN-3L**](units/raven/raven_rvn-3l.md) *Striker (3048)* `Active Probe` , `ECM` , `TAG` 
+- [**Raven RVN-3L**](units/raven/raven_rvn-3l.md) *Scout (3048)* `Active Probe` , `ECM` , `TAG` 
 - [**Raven RVN-3M**](units/raven/raven_rvn-3m.md) *Missile Boat (3053)* 
 - [**Raven RVN-4LC**](units/raven/raven_rvn-4lc.md) *Striker (3062)* `C3 Slave` , `ECM` , `Stealth` , `TAG` 
 - [**Raven RVN-4L**](units/raven/raven_rvn-4l.md) *Scout (3063)* `Active Probe` , `ECM` , `Stealth` , `TAG` 
@@ -3695,7 +3695,6 @@
 - [**Trebuchet TBT-5N**](units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
 - [**Trebuchet TBT-5J**](units/trebuchet/trebuchet_tbt-5j.md) *Skirmisher (2850)* 
 - [**Trebuchet TBT-5S**](units/trebuchet/trebuchet_tbt-5s.md) *Skirmisher (2864)* 
-- [**Trebuchet TBT-5K**](units/trebuchet/trebuchet_tbt-5k.md) *Undefined (3025)* 
 - [**Trebuchet TBT-7K**](units/trebuchet/trebuchet_tbt-7k.md) *Sniper (3025)* 
 - [**Trebuchet TBT-7M**](units/trebuchet/trebuchet_tbt-7m.md) *Missile Boat (3048)* 
 - [**Trebuchet TBT-9K**](units/trebuchet/trebuchet_tbt-9k.md) *Striker (3059)* `C3 Slave` 
@@ -3962,6 +3961,7 @@
 - [**Mad Cat III (Eve)**](units/mad_cat_iii/mad_cat_iii_eve.md) *Sniper (3086)* `TAG` , `Unique` 
 - [**Mad Cat III (Standard)**](units/mad_cat_iii/mad_cat_iii_standard.md) *Missile Boat (3086)* 
 - [**Mad Cat III 2**](units/mad_cat_iii/mad_cat_iii_2.md) *Undefined (3089)* 
+- [**Mad Cat III 2 (MWDA)**](units/mad_cat_iii/mad_cat_iii_2_mwda.md) *Undefined (3089)* 
 - [**Mad Cat III 3**](units/mad_cat_iii/mad_cat_iii_3.md) *Sniper (3094)* 
 - [**Mad Cat III 4**](units/mad_cat_iii/mad_cat_iii_4.md) *Skirmisher (3095)* 
 - [**Mad Cat III 5**](units/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)* 
@@ -4712,12 +4712,14 @@
 - [**Crusader CRD-7W**](units/crusader/crusader_crd-7w.md) *Missile Boat (3071)* 
 - [**Crusader CRD-6M**](units/crusader/crusader_crd-6m.md) *Skirmisher (3074)* `C3 Slave` 
 - [**Crusader CRD-8L**](units/crusader/crusader_crd-8l.md) *Skirmisher (3083)* 
+- [**Crusader CRD-9S**](units/crusader/crusader_crd-9s.md) *Sniper (3086)* 
 - [**Crusader CRD-7M**](units/crusader/crusader_crd-7m.md) *Brawler (3087)* 
 - [**Crusader CRD-7M2**](units/crusader/crusader_crd-7m2.md) *Brawler (3088)* 
 - [**Crusader CRD-8R**](units/crusader/crusader_crd-8r.md) *Missile Boat (3096)* 
 - [**Crusader CRD-9BR**](units/crusader/crusader_crd-9br.md) *Skirmisher (3125)* 
 - [**Crusader CRD-9R**](units/crusader/crusader_crd-9r.md) *Missile Boat (3129)* 
 - [**Crusader CRD-7D**](units/crusader/crusader_crd-7d.md) *Skirmisher (3141)* 
+- [**Crusader CRD-10S**](units/crusader/crusader_crd-10s.md) *Missile Boat (3147)* 
 
 #### [Deep Lord](units/deep_lord.md) 
 
@@ -5827,6 +5829,7 @@
 - [**Awesome AWS-9Q**](units/awesome/awesome_aws-9q.md) *Sniper (3057)* `ECM` 
 - [**Awesome AWS-10KM**](units/awesome/awesome_aws-10km.md) *Juggernaut (3068)* `ECM` 
 - [**Awesome AWS-9Q (Klatt)**](units/awesome/awesome_aws-9q_klatt.md) *Sniper (3071)* `C3 Slave` , `Unique` 
+- [**Awesome AWS-10KM (Cameron)**](units/awesome/awesome_aws-10km_cameron.md) *Undefined (3075)* `C3i` , `ECM` , `Unique` 
 - [**Awesome AWS-8Q (Buck)**](units/awesome/awesome_aws-8q_buck.md) *Sniper (3076)* `Unique` 
 - [**Awesome AWS-11M**](units/awesome/awesome_aws-11m.md) *Sniper (3079)* `Unique` 
 - [**Awesome AWS-11R**](units/awesome/awesome_aws-11r.md) *Sniper (3133)* `ECM` , `Stealth` 
@@ -6062,11 +6065,11 @@
 - [**Victor VTR-9A1**](units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
 - [**Victor VTR-9B (Shoji)**](units/victor/victor_vtr-9b_shoji.md) *Skirmisher (2725)* `Unique` 
+- [**Victor C**](units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9S**](units/victor/victor_vtr-9s.md) *Skirmisher (2998)* 
 - [**Victor VTR-9B (Li)**](units/victor/victor_vtr-9b_li.md) *Skirmisher (3028)* `Unique` 
 - [**Victor VTR-9D**](units/victor/victor_vtr-9d.md) *Skirmisher (3049)* 
 - [**Victor VTR-9K**](units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
-- [**Victor C**](units/victor/victor_c.md) *Skirmisher (3050)* 
 - [**Victor VTR-C**](units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Slave` 
 - [**Victor VTR-10S**](units/victor/victor_vtr-10s.md) *Brawler (3062)* 
 - [**Victor VTR-10D**](units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 
@@ -6223,7 +6226,7 @@
 - [**Longbow LGB-13C**](units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
-- [**Longbow LGB-14C2**](units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* 
+- [**Longbow LGB-14C2**](units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Slave` 
 
 #### [Lu Wei Bing](units/lu_wei_bing.md) 
 
@@ -6806,7 +6809,6 @@
 - [**Atlas AS7-K**](units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-C**](units/atlas/atlas_as7-c.md) *Sniper (3050)* `C3 Slave` 
 - [**Atlas AS7-CM**](units/atlas/atlas_as7-cm.md) *Sniper (3050)* `C3 Master` , `TAG` 
-- [**Atlas AS7-D(C)**](units/atlas/atlas_as7-dc.md) *Undefined (3050)* 
 - [**Atlas AS7-K-DC**](units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
 - [**Atlas AS7-S**](units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
 - [**Atlas C**](units/atlas/atlas_c.md) *Juggernaut (3050)* 
@@ -6822,10 +6824,11 @@
 
 #### [Atlas II](units/atlas_ii.md) 
 
-- [**Atlas II AS7-D-HT**](units/atlas_ii/atlas_ii_as7-d-ht.md) *Undefined (2750)* `Unique` 
 - [**Atlas II AS7-D-H**](units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 
 - [**Atlas II AS7-D-H2**](units/atlas_ii/atlas_ii_as7-d-h2.md) *Juggernaut (2780)* 
+- [**Atlas II AS7-D-HT**](units/atlas_ii/atlas_ii_as7-d-ht.md) *Undefined (2780)* `Unique` 
 - [**Atlas II AS7-D-H (Kerensky)**](units/atlas_ii/atlas_ii_as7-d-h_kerensky.md) *Juggernaut (2833)* `Active Probe` , `ECM` , `Unique` 
+- [**Atlas II AS7-D-H (Devlin)**](units/atlas_ii/atlas_ii_as7-d-h_devlin.md) *Undefined (3075)* `ECM` , `Unique` 
 
 #### [Atlas III](units/atlas_iii.md) 
 

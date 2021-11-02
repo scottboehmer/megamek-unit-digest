@@ -561,7 +561,7 @@
 
 #### [Raven](../../units/raven.md) 
 
-- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Striker (3048)* `Active Probe` , `ECM` , `TAG` 
+- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Scout (3048)* `Active Probe` , `ECM` , `TAG` 
 - [**Raven RVN-3M**](../../units/raven/raven_rvn-3m.md) *Missile Boat (3053)* 
 - [**Raven RVN-4LC**](../../units/raven/raven_rvn-4lc.md) *Striker (3062)* `C3 Slave` , `ECM` , `Stealth` , `TAG` 
 - [**Raven RVN-4L**](../../units/raven/raven_rvn-4l.md) *Scout (3063)* `Active Probe` , `ECM` , `Stealth` , `TAG` 

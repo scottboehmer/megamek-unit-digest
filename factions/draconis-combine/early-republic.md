@@ -1585,7 +1585,7 @@
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
-- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* 
+- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Slave` 
 
 #### [Stalker](../../units/stalker.md) 
 

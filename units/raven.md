@@ -70,7 +70,7 @@
 
 ## Raven RVN-3L 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3048) 
 - **Chassis:** 35 tons 
 - **Movement:** 6 / 9, XL 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - TAG 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
+- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
 - **Battle Value:** 1826 
 
 ## Availability 

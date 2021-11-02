@@ -163,24 +163,6 @@
 - **Battle Value:** 2036 
 - [*More Info*](atlas/atlas_as7-cm.md) 
 
-## Atlas AS7-D(C) 
-
-- **Role:** Undefined 
-- **Tech Base:** Clan Mixed (3050) 
-- **Chassis:** 100 tons 
-- **Movement:** 3 / 5 
-- **Armor:** 304 
-- **Heat Sinks:** 20 (20) 
-- **Weapons:** 
-  - Ultra AC/20 (ammo: 15) 
-  - LRM 20 (ammo: 12) 
-  - Streak SRM 6 (ammo: 15) 
-  - Inner Sphere Medium Laser × 4 
-- **Equipment:** 
-  - Inner Sphere CASE 
-- **Battle Value:** 2306 
-- [*More Info*](atlas/atlas_as7-dc.md) 
-
 ## Atlas AS7-K-DC 
 
 - **Role:** Sniper 
@@ -235,7 +217,7 @@
   - Inner Sphere Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
+- **Sources:** Battle of Tukayyid - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
 - **Battle Value:** 2340 
 - [*More Info*](atlas/atlas_c.md) 
 

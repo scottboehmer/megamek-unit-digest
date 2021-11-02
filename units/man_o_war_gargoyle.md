@@ -65,12 +65,11 @@
 - **Weapons:** 
   - Ultra AC/20 (ammo: 10) 
   - ER Medium Laser × 6 
-  - ER Small Laser 
 - **Equipment:** 
-  - A-Pod × 2 
+  - A-Pod × 3 
   - CASE 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2004/man-o-war-gargoyle-c) 
-- **Battle Value:** 2437 
+- **Battle Value:** 2417 
 - [*More Info*](gargoyle/gargoyle_c.md) 
 
 ## Gargoyle "Man O' War" D 

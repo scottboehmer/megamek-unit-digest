@@ -364,6 +364,24 @@
 - **Battle Value:** 1701 
 - [*More Info*](crusader/crusader_crd-8l.md) 
 
+## Crusader CRD-9S 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 176 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 12) 
+  - LRM 10 × 2 (ammo: 24) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8263/crusader-crd-9s) 
+- **Battle Value:** 1642 
+- [*More Info*](crusader/crusader_crd-9s.md) 
+
 ## Crusader CRD-7M 
 
 - **Role:** Brawler 
@@ -488,4 +506,23 @@
 - **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226/crusader-crd-7d) 
 - **Battle Value:** 1681 
 - [*More Info*](crusader/crusader_crd-7d.md) 
+
+## Crusader CRD-10S 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3147) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 192 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
+  - Streak SRM 6 × 2 (ammo: 30) 
+  - ER Medium Pulse Laser × 2 
+  - Heavy Machine Gun × 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8234/crusader-crd-10s) 
+- **Battle Value:** 2264 
+- [*More Info*](crusader/crusader_crd-10s.md) 
 

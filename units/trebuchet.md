@@ -6,15 +6,15 @@
 - **Tech Base:** Inner Sphere (2780) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
-- **Armor:** 136 
+- **Armor:** 112 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - LRM 15 w/ Artemis IV × 2 (ammo: 24) 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3295/trebuchet-tbt-3c) 
-- **Battle Value:** 1414 
+- **Battle Value:** 1342 
 - [*More Info*](trebuchet/trebuchet_tbt-3c.md) 
 
 ## Trebuchet TBT-5N 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 8) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3296/trebuchet-tbt-5j) 
+- **Sources:** TRO SW - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3296/trebuchet-tbt-5j) 
 - **Battle Value:** 1191 
 - [*More Info*](trebuchet/trebuchet_tbt-5j.md) 
 
@@ -62,22 +62,6 @@
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3298/trebuchet-tbt-5s) 
 - **Battle Value:** 984 
 - [*More Info*](trebuchet/trebuchet_tbt-5s.md) 
-
-## Trebuchet TBT-5K 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3025) 
-- **Chassis:** 50 tons 
-- **Movement:** 5 / 8 
-- **Armor:** 120 
-- **Heat Sinks:** 11 (11) 
-- **Weapons:** 
-  - PPC 
-  - AC/5 (ammo: 20) 
-  - SRM 2 (ammo: 50) 
-- **Source:** Starterbook: Sword and Dragon - Succession Wars 
-- **Battle Value:** 996 
-- [*More Info*](trebuchet/trebuchet_tbt-5k.md) 
 
 ## Trebuchet TBT-7K 
 
@@ -138,10 +122,10 @@
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3071) 
-- **Chassis:** 50 tons 
-- **Movement:** 5 / 8, XL 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
   - **Jumping:** 5 
-- **Armor:** 120 
+- **Armor:** 112 
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - ER Medium Laser × 4 
@@ -149,7 +133,7 @@
 - **Equipment:** 
   - CASE 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3301/trebuchet-tbt-8b) 
-- **Battle Value:** 1278 
+- **Battle Value:** 1314 
 - [*More Info*](trebuchet/trebuchet_tbt-8b.md) 
 
 ## Trebuchet TBT-XK7 

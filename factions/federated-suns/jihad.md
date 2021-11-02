@@ -960,7 +960,7 @@
 
 #### [Raven](../../units/raven.md) 
 
-- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Striker (3048)* `Active Probe` , `ECM` , `TAG` 
+- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Scout (3048)* `Active Probe` , `ECM` , `TAG` 
 - [**Raven RVN-3M**](../../units/raven/raven_rvn-3m.md) *Missile Boat (3053)* 
 - [**Raven RVN-SR 'Shattered Raven'**](../../units/raven/raven_rvn-sr_shattered_raven.md) *Scout (3068)* `Active Probe` , `ECM` 
 - [**Raven RVN-SS 'Shattered Raven'**](../../units/raven/raven_rvn-ss_shattered_raven.md) *Striker (3069)* `Active Probe` , `ECM` , `TAG` 

@@ -5,7 +5,7 @@
 ## Atlas II AS7-D-HT 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere (2750) 
+- **Tech Base:** Inner Sphere (2780) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5 
 - **Armor:** 304 (Ferro Fibrous) 

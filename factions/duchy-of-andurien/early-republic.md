@@ -704,7 +704,7 @@
 
 #### [Raven](../../units/raven.md) 
 
-- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Striker (3048)* `Active Probe` , `ECM` , `TAG` 
+- [**Raven RVN-3L**](../../units/raven/raven_rvn-3l.md) *Scout (3048)* `Active Probe` , `ECM` , `TAG` 
 - [**Raven RVN-3M**](../../units/raven/raven_rvn-3m.md) *Missile Boat (3053)* 
 - [**Raven RVN-4LC**](../../units/raven/raven_rvn-4lc.md) *Striker (3062)* `C3 Slave` , `ECM` , `Stealth` , `TAG` 
 - [**Raven RVN-4L**](../../units/raven/raven_rvn-4l.md) *Scout (3063)* `Active Probe` , `ECM` , `Stealth` , `TAG` 
@@ -1243,7 +1243,7 @@
 - [**Longbow LGB-8V**](../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
-- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* 
+- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Slave` 
 
 #### [Stalker](../../units/stalker.md) 
 

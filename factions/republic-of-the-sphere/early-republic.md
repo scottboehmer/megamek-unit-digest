@@ -2215,7 +2215,7 @@
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
-- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* 
+- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Slave` 
 
 #### [Stalker](../../units/stalker.md) 
 
@@ -2402,6 +2402,7 @@
 #### [Atlas II](../../units/atlas_ii.md) 
 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 
+- [**Atlas II AS7-D-H (Devlin)**](../../units/atlas_ii/atlas_ii_as7-d-h_devlin.md) *Undefined (3075)* `ECM` , `Unique` 
 
 #### [Bane](../../units/bane.md) 
 

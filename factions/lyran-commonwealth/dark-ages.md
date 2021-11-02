@@ -1384,7 +1384,9 @@
 - [**Crusader CRD-2R**](../../units/crusader/crusader_crd-2r.md) *Missile Boat (2649)* 
 - [**Crusader CRD-5S**](../../units/crusader/crusader_crd-5s.md) *Missile Boat (3049)* 
 - [**Crusader CRD-8S**](../../units/crusader/crusader_crd-8s.md) *Skirmisher (3066)* 
+- [**Crusader CRD-9S**](../../units/crusader/crusader_crd-9s.md) *Sniper (3086)* 
 - [**Crusader CRD-8R**](../../units/crusader/crusader_crd-8r.md) *Missile Boat (3096)* 
+- [**Crusader CRD-10S**](../../units/crusader/crusader_crd-10s.md) *Missile Boat (3147)* 
 
 #### [Dig Lord](../../units/dig_lord.md) 
 
@@ -1696,7 +1698,7 @@
 - [**Longbow LGB-8V**](../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
-- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* 
+- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Slave` 
 
 #### [Stalker](../../units/stalker.md) 
 

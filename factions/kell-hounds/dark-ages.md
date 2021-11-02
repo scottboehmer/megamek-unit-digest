@@ -250,6 +250,10 @@
 
 ### 65 Tons 
 
+#### [Crusader](../../units/crusader.md) 
+
+- [**Crusader CRD-10S**](../../units/crusader/crusader_crd-10s.md) *Missile Boat (3147)* 
+
 #### [Hel](../../units/hel.md) 
 
 - [**Hel (Prime)**](../../units/hel/hel_prime.md) *Sniper (3121)* 

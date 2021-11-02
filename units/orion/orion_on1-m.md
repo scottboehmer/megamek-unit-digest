@@ -12,7 +12,7 @@
 - **Heat Sinks:** 11 (22) 
 - **Weapons:** 
   - LRM 20 (ammo: 12) 
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+  - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 50) 
   - Narc (ammo: 12) 

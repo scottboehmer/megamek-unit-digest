@@ -6,10 +6,10 @@
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3071) 
-- **Chassis:** 50 tons 
-- **Movement:** 5 / 8, XL 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
   - **Jumping:** 5 
-- **Armor:** 120 
+- **Armor:** 112 
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - ER Medium Laser × 4 
@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3301/trebuchet-tbt-8b) 
-- **Battle Value:** 1278 
+- **Battle Value:** 1314 
 
 ## Availability 
 

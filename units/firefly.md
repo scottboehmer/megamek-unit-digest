@@ -89,6 +89,8 @@
   - LRM 5 w/ Artemis IV (ammo: 48) 
   - Medium Laser × 3 
   - Small Laser × 4 
+- **Equipment:** 
+  - CASE 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1085/firefly-ffl-3pp3) 
 - **Battle Value:** 808 
 - [*More Info*](firefly/firefly_ffl-3pp3.md) 

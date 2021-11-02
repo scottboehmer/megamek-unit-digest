@@ -759,9 +759,9 @@
 
 #### [Atlas II](../../units/atlas_ii.md) 
 
-- [**Atlas II AS7-D-HT**](../../units/atlas_ii/atlas_ii_as7-d-ht.md) *Undefined (2750)* `Unique` 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 
 - [**Atlas II AS7-D-H2**](../../units/atlas_ii/atlas_ii_as7-d-h2.md) *Juggernaut (2780)* 
+- [**Atlas II AS7-D-HT**](../../units/atlas_ii/atlas_ii_as7-d-ht.md) *Undefined (2780)* `Unique` 
 
 #### [King Crab](../../units/king_crab.md) 
 

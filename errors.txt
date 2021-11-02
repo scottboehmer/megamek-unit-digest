@@ -17,9 +17,10 @@ Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
 Tomahawk C
-Atlas AS7-D-HT
+Atlas II AS7-D-HT
 Ti Ts'ang TSG-9 'China Doll'
 Legionnaire LGN-2D (Raul)
+Mad Cat III 2 (MWDA)
 Mad Cat III 2
 Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
@@ -77,15 +78,16 @@ Sun Spider Vanguard
 Harvester Ant KIC-3M AgroMech (MG)
 Harvester Ant KIC-3M-B AgroMech (LRM)
 Powerman XI LoaderMech (Standard)
+Mad Cat III 2
 Stinger C 2
 Stinger C
 Thresher Mk II (Standard)
-Atlas AS7-D(C)
 Templar III TLR2-J 'Arthur'
 Templar TLR1-OBLO
 Grand Dragon DRG-1G (Emory)
-Trebuchet TBT-5K
 Reconquista (Standard)
+Atlas II AS7-D-H (Devlin)
+Awesome AWS-10KM (Cameron)
 Carbine CON-7 ConstructionMech (Standard)
 Carbine CON-8 ConstructionMech (Standard)
 CattleMaster CTL-3R 'Herder' IndustrialMech
@@ -157,4 +159,4 @@ Heavy BattleMech Recovery Vehicle (Standard)
 Morningstar City Command Vehicle (HPG)
 
 --------------------------------------------------
-4383 mtf files -> 4383 parsed files -> 4381 converted files -> 4375 validated units
+4387 mtf files -> 4387 parsed files -> 4385 converted files -> 4379 validated units

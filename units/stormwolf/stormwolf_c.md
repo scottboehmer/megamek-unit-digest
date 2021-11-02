@@ -19,8 +19,8 @@
   - Watchdog CEWS 
   - Laser Anti-Missile System 
   - MASC 
-  - Targeting Computer 
   - Supercharger 
+  - Targeting Computer 
 - **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8207/stormwolf-c) 
 - **Battle Value:** 3261 
 

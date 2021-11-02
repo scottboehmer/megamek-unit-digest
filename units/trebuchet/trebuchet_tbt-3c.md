@@ -8,15 +8,15 @@
 - **Tech Base:** Inner Sphere (2780) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
-- **Armor:** 136 
+- **Armor:** 112 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - LRM 15 w/ Artemis IV × 2 (ammo: 24) 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3295/trebuchet-tbt-3c) 
-- **Battle Value:** 1414 
+- **Battle Value:** 1342 
 
 ## Availability 
 
