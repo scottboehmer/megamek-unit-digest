@@ -31,6 +31,22 @@
 - **Battle Value:** 1234 
 - [*More Info*](fury_command_tank/fury_command_tank_fury_ii.md) 
 
+## Fury Command Tank (Royal) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2751) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 4 / 6, Fusion 
+- **Armor:** 241 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1160/fury-command-tank-royal) 
+- **Battle Value:** 1255 
+- [*More Info*](fury_command_tank/fury_command_tank_royal.md) 
+
 ## Fury Command Tank (Standard) 
 
 - **Role:** Sniper 

@@ -22,6 +22,10 @@
 
 - [**Mobile Long Tom Artillery Support Carriage LT-MOB-25**](../../units/mobile_long_tom_artillery_support_carriage/mobile_long_tom_artillery_support_carriage_lt-mob-25.md) *Undefined (2602)* 
 
+#### [Ripper Infantry Transport](../../units/ripper_infantry_transport.md) 
+
+- [**Ripper Infantry Transport (Royal)**](../../units/ripper_infantry_transport/ripper_infantry_transport_royal.md) *Scout (2696)* 
+
 ### 15 Tons 
 
 #### [Maultier Hover APC](../../units/maultier_hover_apc.md) 
@@ -55,11 +59,27 @@
 
 - [**M.A.S.H. Truck (Standard)**](../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
 
+### 25 Tons 
+
+#### [Nightshade ECM VTOL](../../units/nightshade_ecm_vtol.md) 
+
+- [**Nightshade ECM VTOL (Royal)**](../../units/nightshade_ecm_vtol/nightshade_ecm_vtol_royal.md) *Scout (2717)* 
+
 ### 30 Tons 
 
 #### [Coolant Truck](../../units/coolant_truck.md) 
 
 - [**Coolant Truck 135-K**](../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
+
+#### [Cyrano Gunship](../../units/cyrano_gunship.md) 
+
+- [**Cyrano Gunship (Royal)**](../../units/cyrano_gunship/cyrano_gunship_royal.md) *Scout (2721)* 
+
+### 35 Tons 
+
+#### [Lightning Attack Hovercraft](../../units/lightning_attack_hovercraft.md) 
+
+- [**Lightning Attack Hovercraft (Royal)**](../../units/lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) *Striker (2720)* 
 
 ### 40 Tons 
 
@@ -67,17 +87,32 @@
 
 - [**Engineering Vehicle (Standard)**](../../units/engineering_vehicle/engineering_vehicle_standard.md) *Undefined (2570)* 
 
+#### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
+
+- [**Zephyr Hovertank (Royal)**](../../units/zephyr_hovertank/zephyr_hovertank_royal.md) *Striker (2621)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
 
 - [**BattleMech Recovery Vehicle (Standard)**](../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
+### 55 Tons 
+
+#### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
+
+- [**Prowler Multi-Terrain Vehicle (Standard)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_standard.md) *Brawler (2611)* 
+
 ### 60 Tons 
 
 #### [Demon Tank](../../units/demon_tank.md) 
 
 - [**Demon Tank (Standard)**](../../units/demon_tank/demon_tank_standard.md) *Brawler (2716)* 
+- [**Demon Tank (Royal)**](../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
+
+#### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
+
+- [**Thumper Artillery Vehicle (Standard)**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_standard.md) *Missile Boat (2734)* 
 
 ### 65 Tons 
 
@@ -99,15 +134,21 @@
 
 ### 80 Tons 
 
+#### [Fury Command Tank](../../units/fury_command_tank.md) 
+
+- [**Fury Command Tank (Royal)**](../../units/fury_command_tank/fury_command_tank_royal.md) *Sniper (2751)* 
+
 #### [Rhino Fire Support Tank](../../units/rhino_fire_support_tank.md) 
 
 - [**Rhino Fire Support Tank (Standard)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_standard.md) *Missile Boat (2669)* 
+- [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* 
 
 ### 95 Tons 
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
 - [**Puma Assault Tank PAT-005**](../../units/puma_assault_tank/puma_assault_tank_pat-005.md) *Missile Boat (2681)* 
+- [**Puma Assault Tank PAT-005b**](../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ## ’Mechs 
 

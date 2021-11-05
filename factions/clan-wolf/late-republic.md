@@ -35,11 +35,16 @@
 
 - [**Mobile Long Tom Artillery Support Carriage LT-MOB-25**](../../units/mobile_long_tom_artillery_support_carriage/mobile_long_tom_artillery_support_carriage_lt-mob-25.md) *Undefined (2602)* 
 
+#### [Ripper Infantry Transport](../../units/ripper_infantry_transport.md) 
+
+- [**Ripper Infantry Transport (Royal)**](../../units/ripper_infantry_transport/ripper_infantry_transport_royal.md) *Scout (2696)* 
+
 ### 11 Tons 
 
 #### [Shamash Reconnaissance Vehicle](../../units/shamash_reconnaissance_vehicle.md) 
 
 - [**Shamash Reconnaissance Vehicle (Standard)**](../../units/shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_standard.md) *Scout (2887)* 
+- [**Shamash Reconnaissance Vehicle (Interdictor)**](../../units/shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_interdictor.md) *Scout (3077)* 
 
 ### 15 Tons 
 
@@ -82,9 +87,29 @@
 
 - [**M.A.S.H. Truck (Standard)**](../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
 
+#### [MIT23 MASH Vehicle](../../units/mit23_mash_vehicle.md) 
+
+- [**MIT23 MASH Vehicle (Standard)**](../../units/mit23_mash_vehicle/mit23_mash_vehicle_standard.md) *Scout (3067)* 
+
 #### [Odin Scout Tank](../../units/odin_scout_tank.md) 
 
 - [**Odin Scout Tank (Standard)**](../../units/odin_scout_tank/odin_scout_tank_standard.md) *Striker (2844)* 
+
+### 25 Tons 
+
+#### [Balac Strike VTOL](../../units/balac_strike_vtol.md) 
+
+- [**Balac Strike VTOL (LRM)**](../../units/balac_strike_vtol/balac_strike_vtol_lrm.md) *Missile Boat (3079)* 
+- [**Balac Strike VTOL (Spotter)**](../../units/balac_strike_vtol/balac_strike_vtol_spotter.md) *Striker (3079)* 
+- [**Balac Strike VTOL (Standard)**](../../units/balac_strike_vtol/balac_strike_vtol_standard.md) *Striker (3079)* 
+
+#### [Nightshade ECM VTOL](../../units/nightshade_ecm_vtol.md) 
+
+- [**Nightshade ECM VTOL (Royal)**](../../units/nightshade_ecm_vtol/nightshade_ecm_vtol_royal.md) *Scout (2717)* 
+
+#### [Zephyros Infantry Support Vehicle](../../units/zephyros_infantry_support_vehicle.md) 
+
+- [**Zephyros Infantry Support Vehicle (Standard)**](../../units/zephyros_infantry_support_vehicle/zephyros_infantry_support_vehicle_standard.md) *Striker (3084)* 
 
 ### 30 Tons 
 
@@ -111,6 +136,10 @@
 - [**Indra Infantry Transport (Standard)**](../../units/indra_infantry_transport/indra_infantry_transport_standard.md) *Sniper (2842)* 
 - [**Indra Infantry Transport (BA)**](../../units/indra_infantry_transport/indra_infantry_transport_ba.md) *Brawler (3069)* 
 
+#### [Lightning Attack Hovercraft](../../units/lightning_attack_hovercraft.md) 
+
+- [**Lightning Attack Hovercraft (Royal)**](../../units/lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) *Striker (2720)* 
+
 #### [Svantovit Infantry Fighting Vehicle](../../units/svantovit_infantry_fighting_vehicle.md) 
 
 - [**Svantovit Infantry Fighting Vehicle (Original)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_original.md) *Striker (2843)* 
@@ -133,6 +162,11 @@
 
 - [**Engineering Vehicle (Standard)**](../../units/engineering_vehicle/engineering_vehicle_standard.md) *Undefined (2570)* 
 
+#### [Joust Medium Tank](../../units/joust_medium_tank.md) 
+
+- [**Joust Medium Tank BE700**](../../units/joust_medium_tank/joust_medium_tank_be700.md) *Skirmisher (3077)* 
+- [**Joust Medium Tank BE701**](../../units/joust_medium_tank/joust_medium_tank_be701.md) *Skirmisher (3086)* 
+
 ### 50 Tons 
 
 #### [Bandit (C) Hovercraft](../../units/bandit_c_hovercraft.md) 
@@ -150,6 +184,10 @@
 #### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
 
 - [**BattleMech Recovery Vehicle (Standard)**](../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
+#### [Chalchiuhtotolin Support Tank](../../units/chalchiuhtotolin_support_tank.md) 
+
+- [**Chalchiuhtotolin Support Tank (Standard)**](../../units/chalchiuhtotolin_support_tank/chalchiuhtotolin_support_tank_standard.md) *Brawler (3084)* 
 
 #### [Epona Pursuit Tank](../../units/epona_pursuit_tank.md) 
 
@@ -183,6 +221,7 @@
 #### [Demon Tank](../../units/demon_tank.md) 
 
 - [**Demon Tank (Standard)**](../../units/demon_tank/demon_tank_standard.md) *Brawler (2716)* 
+- [**Demon Tank (Royal)**](../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
 
 #### [LRM Carrier](../../units/lrm_carrier.md) 
 
@@ -229,6 +268,12 @@
 
 ### 80 Tons 
 
+#### [Carnivore Assault Tank](../../units/carnivore_assault_tank.md) 
+
+- [**Carnivore Assault Tank (Standard)**](../../units/carnivore_assault_tank/carnivore_assault_tank_standard.md) *Brawler (3082)* 
+- [**Carnivore Assault Tank (HAG)**](../../units/carnivore_assault_tank/carnivore_assault_tank_hag.md) *Brawler (3083)* 
+- [**Carnivore Assault Tank (Second Line)**](../../units/carnivore_assault_tank/carnivore_assault_tank_second_line.md) *Brawler (3084)* 
+
 #### [Demolisher Heavy Tank](../../units/demolisher_heavy_tank.md) 
 
 - [**Demolisher Heavy Tank (Clan)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_clan.md) *Juggernaut (3058)* 
@@ -241,6 +286,7 @@
 #### [Rhino Fire Support Tank](../../units/rhino_fire_support_tank.md) 
 
 - [**Rhino Fire Support Tank (Standard)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_standard.md) *Missile Boat (2669)* 
+- [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* 
 
 ### 85 Tons 
 
@@ -257,6 +303,7 @@
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
 - [**Puma Assault Tank PAT-005**](../../units/puma_assault_tank/puma_assault_tank_pat-005.md) *Missile Boat (2681)* 
+- [**Puma Assault Tank PAT-005b**](../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ### 100 Tons 
 

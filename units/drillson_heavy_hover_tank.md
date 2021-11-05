@@ -65,3 +65,22 @@
 - **Battle Value:** 899 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) 
 
+## Drillson Heavy Hover Tank (Sealed) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 112 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Light PPC × 2 
+  - MML 3 (ammo: 40 LRM, 33 SRM) 
+- **Equipment:** 
+  - Cargo 
+  - Flotation Hull 
+  - Environmentally Sealed Chassis 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/930/drillson-heavy-hover-tank-sealed) 
+- **Battle Value:** 825 
+- [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_sealed.md) 
+

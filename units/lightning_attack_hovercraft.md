@@ -15,6 +15,23 @@
 - **Battle Value:** 510 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_standard.md) 
 
+## Lightning Attack Hovercraft (Royal) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (2720) 
+- **Chassis:** 35 tons Hover 
+- **Movement:** 11 / 17, Fusion 
+- **Armor:** 62 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Equipment:** 
+  - TAG 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1883/lightning-attack-hovercraft-royal) 
+- **Battle Value:** 633 
+- [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) 
+
 ## Lightning Attack Hovercraft (ERML) 
 
 - **Role:** Striker 

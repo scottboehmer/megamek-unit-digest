@@ -49,6 +49,24 @@
 - **Battle Value:** 832 
 - [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) 
 
+## Chaparral Missile Artillery Tank (CASE) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3071) 
+- **Chassis:** 50 tons Tracked 
+- **Movement:** 4 / 6, Fusion 
+- **Armor:** 89 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Arrow IV (ammo: 15) 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/554/chaparral-missile-artillery-tank-case) 
+- **Battle Value:** 814 
+- [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_case.md) 
+
 ## Chaparral Missile Artillery Tank (ERML) 
 
 - **Role:** Missile Boat 

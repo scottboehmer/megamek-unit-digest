@@ -1,0 +1,57 @@
+# Fensalir Combat WiGE 
+
+## Fensalir Combat WiGE (HAG) 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3084) 
+- **Chassis:** 80 tons WiGE 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 228 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Clan HAG 30 (ammo: 20) 
+  - Clan ATM 9 × 2 (ammo: 7 Standard, 7 ER, 7 HE) 
+  - Clan ER Medium Laser × 2 
+- **Equipment:** 
+  - Infantry (5 tons) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1055/fensalir-combat-wige-hag) 
+- **Battle Value:** 2399 
+- [*More Info*](fensalir_combat_wige/fensalir_combat_wige_hag.md) 
+
+## Fensalir Combat WiGE (Infantry) 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3084) 
+- **Chassis:** 80 tons WiGE 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 238 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER Medium Laser × 2 
+  - Machine Gun × 3 (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+  - Infantry (16 tons) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1056/fensalir-combat-wige-infantry) 
+- **Battle Value:** 1424 
+- [*More Info*](fensalir_combat_wige/fensalir_combat_wige_infantry.md) 
+
+## Fensalir Combat WiGE (Standard) 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3084) 
+- **Chassis:** 80 tons WiGE 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 228 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Heavy Gauss Rifle (ammo: 12) 
+  - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Infantry (4 tons) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1057/fensalir-combat-wige-standard) 
+- **Battle Value:** 1687 
+- [*More Info*](fensalir_combat_wige/fensalir_combat_wige_standard.md) 
+

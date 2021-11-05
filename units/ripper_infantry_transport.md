@@ -16,6 +16,22 @@
 - **Battle Value:** 345 
 - [*More Info*](ripper_infantry_transport/ripper_infantry_transport_standard.md) 
 
+## Ripper Infantry Transport (Royal) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2696) 
+- **Chassis:** 10 tons VTOL 
+- **Movement:** 12 / 18, Fusion 
+- **Armor:** 26 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Infantry (1.0 tons) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2723/ripper-infantry-transport-royal) 
+- **Battle Value:** 225 
+- [*More Info*](ripper_infantry_transport/ripper_infantry_transport_royal.md) 
+
 ## Ripper Infantry Transport (MG) 
 
 - **Role:** Scout 

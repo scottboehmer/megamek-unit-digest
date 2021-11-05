@@ -114,3 +114,23 @@
 - **Battle Value:** 785 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) 
 
+## Pegasus Scout Hover Tank (Sealed) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 35 tons Hover 
+- **Movement:** 9 / 14, Light 
+- **Armor:** 79 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser 
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Beagle Active Probe 
+  - Environmentally Sealed Chassis 
+  - TAG 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2459/pegasus-scout-hover-tank-sealed) 
+- **Battle Value:** 577 
+- [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) 
+

@@ -91,6 +91,7 @@
 - [Clan Invasion](clan-ghost-bear/clan-invasion.md) 
 - [Civil War](clan-ghost-bear/civil-war.md) 
 - [Jihad](clan-ghost-bear/jihad.md) 
+- [Early Republic](clan-ghost-bear/early-republic.md) 
 
 ## Clan Goliath Scorpion 
 

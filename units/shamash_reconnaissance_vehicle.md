@@ -28,3 +28,19 @@
 - **Battle Value:** 228 
 - [*More Info*](shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_flamer.md) 
 
+## Shamash Reconnaissance Vehicle (Interdictor) 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** 11 tons Hover 
+- **Movement:** 13 / 20, Fusion 
+- **Armor:** 38 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+- **Equipment:** 
+  - ECM Suite 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2920/shamash-reconnaissance-vehicle-interdictor) 
+- **Battle Value:** 520 
+- [*More Info*](shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_interdictor.md) 
+

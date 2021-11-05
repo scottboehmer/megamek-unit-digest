@@ -32,3 +32,23 @@
 - **Battle Value:** 1178 
 - [*More Info*](rommel_tank/rommel_tank_gauss.md) 
 
+## Rommel Tank (Sealed) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 65 tons Tracked 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 188 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Heavy PPC 
+  - Streak SRM 6 (ammo: 15) 
+  - SRT 4 (ammo: 25) 
+  - Machine Gun × 3 (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Environmentally Sealed Chassis 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2736/rommel-tank-sealed) 
+- **Battle Value:** 1200 
+- [*More Info*](rommel_tank/rommel_tank_sealed.md) 
+

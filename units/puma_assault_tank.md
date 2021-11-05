@@ -19,6 +19,27 @@
 - **Battle Value:** 1353 
 - [*More Info*](puma_assault_tank/puma_assault_tank_pat-005.md) 
 
+## Puma Assault Tank PAT-005b 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2751) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 184 
+- **Heat Sinks:** 23 (23) 
+- **Weapons:** 
+  - ER PPC 
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
+  - Medium Laser × 2 
+  - Streak SRM 2 × 2 (ammo: 50) 
+  - Small Pulse Laser 
+  - Vehicle Flamer (ammo: 20) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2600/puma-assault-tank-pat-005b) 
+- **Battle Value:** 1546 
+- [*More Info*](puma_assault_tank/puma_assault_tank_pat-005b.md) 
+
 ## Puma Assault Tank PAT-007 
 
 - **Role:** Missile Boat 

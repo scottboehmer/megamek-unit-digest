@@ -46,3 +46,21 @@
 - **Battle Value:** 600 
 - [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank_streak.md) 
 
+## Plainsman Medium Hovertank (Sealed) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 35 tons Hover 
+- **Movement:** 9 / 14, Fuel Cell 
+- **Armor:** 80 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - SRM 6 × 2 (ammo: 30) 
+  - SRT 2 (ammo: 50) 
+- **Equipment:** 
+  - Flotation Hull 
+  - Environmentally Sealed Chassis 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2540/plainsman-medium-hovertank-sealed) 
+- **Battle Value:** 600 
+- [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank_sealed.md) 
+

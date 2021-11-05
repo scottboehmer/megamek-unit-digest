@@ -61,3 +61,19 @@
 - **Battle Value:** 612 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_arrow_iv.md) 
 
+## Yellow Jacket Gunship (PPC) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 9 / 14, Light 
+- **Armor:** 79 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - ER PPC 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3615/yellow-jacket-gunship-ppc) 
+- **Battle Value:** 758 
+- [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_ppc.md) 
+

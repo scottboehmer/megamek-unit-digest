@@ -16,7 +16,18 @@
 
 - [**Pegasus Scout Hover Tank (C3)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) *Striker (3070)* 
 
+#### [Saxon APC](../../units/saxon_apc.md) 
+
+- [**Saxon APC (Standard)**](../../units/saxon_apc/saxon_apc_standard.md) *Scout (3070)* 
+- [**Saxon APC (Laser)**](../../units/saxon_apc/saxon_apc_laser.md) *Scout (3071)* 
+- [**Saxon APC (MASH)**](../../units/saxon_apc/saxon_apc_mash.md) *Scout (3071)* 
+- [**Saxon APC (HQ)**](../../units/saxon_apc/saxon_apc_hq.md) *Scout (3074)* 
+
 ### 50 Tons 
+
+#### [Condor Heavy Hover Tank](../../units/condor_heavy_hover_tank.md) 
+
+- [**Condor Heavy Hover Tank (Upgrade) (Standard)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_standard.md) *Missile Boat (3066)* 
 
 #### [Fulcrum Heavy Hovertank](../../units/fulcrum_heavy_hovertank.md) 
 

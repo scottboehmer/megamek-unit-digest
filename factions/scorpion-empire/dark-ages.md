@@ -97,6 +97,10 @@
 - [**Coolant Truck 135-K**](../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
 - [**Coolant Truck (Tracked)**](../../units/coolant_truck/coolant_truck_tracked.md) *Undefined (2592)* 
 
+#### [Cyrano Gunship](../../units/cyrano_gunship.md) 
+
+- [**Cyrano Gunship (Royal)**](../../units/cyrano_gunship/cyrano_gunship_royal.md) *Scout (2721)* 
+
 #### [Galleon Light Tank](../../units/galleon_light_tank.md) 
 
 - [**Galleon Light Tank GAL-100**](../../units/galleon_light_tank/galleon_light_tank_gal-100.md) *Scout (2692)* 
@@ -114,6 +118,10 @@
 #### [Indra Infantry Transport](../../units/indra_infantry_transport.md) 
 
 - [**Indra Infantry Transport (Standard)**](../../units/indra_infantry_transport/indra_infantry_transport_standard.md) *Sniper (2842)* 
+
+#### [Lightning Attack Hovercraft](../../units/lightning_attack_hovercraft.md) 
+
+- [**Lightning Attack Hovercraft (Royal)**](../../units/lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) *Striker (2720)* 
 
 #### [Svantovit Infantry Fighting Vehicle](../../units/svantovit_infantry_fighting_vehicle.md) 
 
@@ -153,6 +161,10 @@
 
 - [**Hachiman Fire Support Tank (Standard)**](../../units/hachiman_fire_support_tank/hachiman_fire_support_tank_standard.md) *Missile Boat (2842)* 
 
+#### [Korvin Tank](../../units/korvin_tank.md) 
+
+- [**Korvin Tank KRV-3**](../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
+
 #### [Ku Wheeled Assault Tank](../../units/ku_wheeled_assault_tank.md) 
 
 - [**Ku Wheeled Assault Tank (Standard)**](../../units/ku_wheeled_assault_tank/ku_wheeled_assault_tank_standard.md) *Brawler (2842)* 
@@ -174,6 +186,7 @@
 #### [Demon Tank](../../units/demon_tank.md) 
 
 - [**Demon Tank (Standard)**](../../units/demon_tank/demon_tank_standard.md) *Brawler (2716)* 
+- [**Demon Tank (Royal)**](../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
 
 #### [LRM Carrier](../../units/lrm_carrier.md) 
 
@@ -220,11 +233,19 @@
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Clan)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_clan.md) *Juggernaut (3058)* 
 
+#### [Fury Command Tank](../../units/fury_command_tank.md) 
+
+- [**Fury Command Tank (Royal)**](../../units/fury_command_tank/fury_command_tank_royal.md) *Sniper (2751)* 
+
 ### 95 Tons 
 
 #### [Alacorn Heavy Tank](../../units/alacorn_heavy_tank.md) 
 
 - [**Alacorn Heavy Tank Mk VI**](../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
+
+#### [Puma Assault Tank](../../units/puma_assault_tank.md) 
+
+- [**Puma Assault Tank PAT-005b**](../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ### 100 Tons 
 

@@ -29,3 +29,36 @@
 - **Battle Value:** 881 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_anti-infantry.md) 
 
+## Schrek PPC Carrier (Armor) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 138 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 30 (30) 
+- **Weapons:** 
+  - PPC × 3 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825/schrek-ppc-carrier-armor) 
+- **Battle Value:** 1005 
+- [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_armor.md) 
+
+## Schrek PPC Carrier (C3M) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 120 
+- **Heat Sinks:** 25 (25) 
+- **Weapons:** 
+  - PPC × 2 
+  - Light PPC 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Anti-Missile System (ammo: 24) 
+  - C3 Master 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2826/schrek-ppc-carrier-c3m) 
+- **Battle Value:** 993 
+- [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) 
+

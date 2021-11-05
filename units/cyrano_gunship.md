@@ -16,6 +16,24 @@
 - **Battle Value:** 459 
 - [*More Info*](cyrano_gunship/cyrano_gunship_standard.md) 
 
+## Cyrano Gunship (Royal) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2721) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 12 / 18, XL 
+- **Armor:** 44 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - ER Large Laser 
+- **Equipment:** 
+  - Anti-Missile System × 2 (ammo: 24) 
+  - Beagle Active Probe 
+  - TAG 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/786/cyrano-gunship-royal) 
+- **Battle Value:** 740 
+- [*More Info*](cyrano_gunship/cyrano_gunship_royal.md) 
+
 ## Cyrano Gunship (ML) 
 
 - **Role:** Striker 

@@ -80,3 +80,40 @@
 - **Battle Value:** 1269 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_light_gauss.md) 
 
+## Ontos Heavy Tank (MML) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 170 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Light Gauss Rifle × 2 (ammo: 64) 
+  - MML 7 × 2 (ammo: 34 LRM, 14 SRM) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2329/ontos-heavy-tank-mml) 
+- **Battle Value:** 1268 
+- [*More Info*](ontos_heavy_tank/ontos_heavy_tank_mml.md) 
+
+## Ontos Heavy Tank (Sealed) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 170 (Ferro Fibrous) 
+- **Heat Sinks:** 22 (22) 
+- **Weapons:** 
+  - MML 7 w/ Artemis IV × 2 (ammo: 34 LRM, 42 SRM) 
+  - ER Medium Laser × 2 
+  - Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+  - Environmentally Sealed Chassis 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2330/ontos-heavy-tank-sealed) 
+- **Battle Value:** 1070 
+- [*More Info*](ontos_heavy_tank/ontos_heavy_tank_sealed.md) 
+

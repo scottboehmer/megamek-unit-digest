@@ -1,0 +1,35 @@
+# Ignis Infantry Support Tank (Standard) 
+
+[Other Ignis Infantry Support Tank variants](../ignis_infantry_support_tank.md) 
+
+## Ignis Infantry Support Tank (Standard) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2512) 
+- **Chassis:** 30 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 144 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Vehicle Flamer × 4 (ammo: 80) 
+  - Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - Infantry (1 tons) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1605/ignis-infantry-support-tank-standard) 
+- **Battle Value:** 463 
+
+## Availability 
+
+### Star League 
+
+- Rim Worlds Republic - Terran Corps 
+
+### Early Succession Wars 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+

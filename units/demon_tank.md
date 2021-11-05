@@ -49,6 +49,24 @@
 - **Battle Value:** 836 
 - [*More Info*](demon_tank/demon_tank_ppc.md) 
 
+## Demon Tank (Royal) 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (2744) 
+- **Chassis:** 60 tons Wheeled 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 168 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Medium Pulse Laser × 2 
+  - Streak SRM 2 × 3 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/875/demon-tank-royal) 
+- **Battle Value:** 1333 
+- [*More Info*](demon_tank/demon_tank_royal.md) 
+
 ## Demon Tank (HGR) 
 
 - **Role:** Brawler 

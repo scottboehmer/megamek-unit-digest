@@ -33,3 +33,40 @@
 - **Battle Value:** 983 
 - [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_wob.md) 
 
+## Zhukov Heavy Tank (LB-X) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, ICE 
+- **Armor:** 176 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster) 
+  - SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - C3i 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3648/zhukov-heavy-tank-lb-x) 
+- **Battle Value:** 956 
+- [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_lb-x.md) 
+
+## Zhukov Heavy Tank (Liao) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, ICE 
+- **Armor:** 176 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster) 
+  - SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - C3 Slave 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3649/zhukov-heavy-tank-liao) 
+- **Battle Value:** 1021 
+- [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_liao.md) 
+

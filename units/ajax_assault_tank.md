@@ -98,3 +98,25 @@
 - **Battle Value:** 1502 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_d.md) 
 
+## Ajax Assault Tank (Sealed) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** 90 tons Tracked 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 304 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - MML 9 (ammo: 13 LRM, 11 SRM) 
+  - SRT 6 (ammo: 30) 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - C3 Slave 
+  - CASE 
+  - Environmentally Sealed Chassis 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/21/ajax-assault-tank-sealed) 
+- **Battle Value:** 1445 
+- [*More Info*](ajax_assault_tank/ajax_assault_tank_sealed.md) 
+

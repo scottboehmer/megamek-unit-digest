@@ -8,6 +8,10 @@
 
 - [**Armored Personnel Carrier (Hover)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* 
 
+#### [Ripper Infantry Transport](../../units/ripper_infantry_transport.md) 
+
+- [**Ripper Infantry Transport (Royal)**](../../units/ripper_infantry_transport/ripper_infantry_transport_royal.md) *Scout (2696)* 
+
 ### 20 Tons 
 
 #### [Heavy Tracked APC](../../units/heavy_tracked_apc.md) 
@@ -28,11 +32,26 @@
 
 - [**Mobile Headquarters (Standard)**](../../units/mobile_headquarters/mobile_headquarters_standard.md) *Undefined (2620)* 
 
+### 30 Tons 
+
+#### [Cobra Transport VTOL](../../units/cobra_transport_vtol.md) 
+
+- [**Cobra Transport VTOL (Original)**](../../units/cobra_transport_vtol/cobra_transport_vtol_original.md) *Scout (2582)* 
+- [**Cobra Transport VTOL (Standard)**](../../units/cobra_transport_vtol/cobra_transport_vtol_standard.md) *Scout (2620)* 
+- [**Cobra Transport VTOL (Command)**](../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* 
+- [**Cobra Transport VTOL (MASH)**](../../units/cobra_transport_vtol/cobra_transport_vtol_mash.md) *Scout (2669)* 
+
+#### [Ignis Infantry Support Tank](../../units/ignis_infantry_support_tank.md) 
+
+- [**Ignis Infantry Support Tank (Standard)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_standard.md) *Juggernaut (2512)* 
+- [**Ignis Infantry Support Tank (SRM)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_srm.md) *Juggernaut (2751)* 
+
 ### 40 Tons 
 
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank (SRM2)**](../../units/zephyr_hovertank/zephyr_hovertank_srm2.md) *Striker (2620)* 
+- [**Zephyr Hovertank (Royal)**](../../units/zephyr_hovertank/zephyr_hovertank_royal.md) *Striker (2621)* 
 
 ### 45 Tons 
 
@@ -46,6 +65,22 @@
 
 - [**Kanga Medium Hovertank (Standard)**](../../units/kanga_medium_hovertank/kanga_medium_hovertank_standard.md) *Striker (2653)* 
 
+#### [Korvin Tank](../../units/korvin_tank.md) 
+
+- [**Korvin Tank KRV-3**](../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
+
+#### [Manta Fast Attack Submarine](../../units/manta_fast_attack_submarine.md) 
+
+- [**Manta Fast Attack Submarine (Standard)**](../../units/manta_fast_attack_submarine/manta_fast_attack_submarine_standard.md) *Scout (2698)* 
+
+#### [Sabaku Kaze Heavy Scout Hover Tank](../../units/sabaku_kaze_heavy_scout_hover_tank.md) 
+
+- [**Sabaku Kaze Heavy Scout Hover Tank (Standard)**](../../units/sabaku_kaze_heavy_scout_hover_tank/sabaku_kaze_heavy_scout_hover_tank_standard.md) *Striker (2695)* 
+
+#### [Turhan Urban Combat Vehicle](../../units/turhan_urban_combat_vehicle.md) 
+
+- [**Turhan Urban Combat Vehicle (Original)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_original.md) *Brawler (2530)* 
+
 ### 60 Tons 
 
 #### [AC/2 Carrier](../../units/ac_2_carrier.md) 
@@ -56,12 +91,35 @@
 
 - [**Demon Tank (Horned Demon)**](../../units/demon_tank/demon_tank_horned_demon.md) *Brawler (2721)* 
 - [**Demon Tank (PPC)**](../../units/demon_tank/demon_tank_ppc.md) *Sniper (2729)* 
+- [**Demon Tank (Royal)**](../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
 
 ### 75 Tons 
+
+#### [Merkava Heavy Tank](../../units/merkava_heavy_tank.md) 
+
+- [**Merkava Heavy Tank Mk VIII**](../../units/merkava_heavy_tank/merkava_heavy_tank_mk_viii.md) *Missile Boat (2465)* 
 
 #### [Padilla Heavy Artillery Tank](../../units/padilla_heavy_artillery_tank.md) 
 
 - [**Padilla Heavy Artillery Tank (Standard)**](../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) *Missile Boat (2620)* 
+
+### 80 Tons 
+
+#### [Rhino Fire Support Tank](../../units/rhino_fire_support_tank.md) 
+
+- [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* 
+
+### 95 Tons 
+
+#### [Puma Assault Tank](../../units/puma_assault_tank.md) 
+
+- [**Puma Assault Tank PAT-005b**](../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
+
+### 140 Tons 
+
+#### [Moray Heavy Attack Submarine](../../units/moray_heavy_attack_submarine.md) 
+
+- [**Moray Heavy Attack Submarine (Original)**](../../units/moray_heavy_attack_submarine/moray_heavy_attack_submarine_original.md) *Undefined (2635)* 
 
 ## ’Mechs 
 

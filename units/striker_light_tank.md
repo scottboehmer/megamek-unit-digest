@@ -125,3 +125,21 @@
 - **Battle Value:** 860 
 - [*More Info*](striker_light_tank/striker_light_tank_laser.md) 
 
+## Striker Light Tank (Sealed) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 35 tons Wheeled 
+- **Movement:** 5 / 8, Fuel Cell 
+- **Armor:** 104 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - MML 5 × 2 (ammo: 24 LRM, 40 SRM) 
+  - Light Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Environmentally Sealed Chassis 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3103/striker-light-tank-sealed) 
+- **Battle Value:** 545 
+- [*More Info*](striker_light_tank/striker_light_tank_sealed.md) 
+

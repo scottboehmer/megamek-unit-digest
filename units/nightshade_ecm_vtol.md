@@ -16,6 +16,23 @@
 - **Battle Value:** 342 
 - [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_standard.md) 
 
+## Nightshade ECM VTOL (Royal) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2717) 
+- **Chassis:** 25 tons VTOL 
+- **Movement:** 14 / 21, XL 
+- **Armor:** 44 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Large Pulse Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Cargo 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2277/nightshade-ecm-vtol-royal) 
+- **Battle Value:** 631 
+- [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_royal.md) 
+
 ## Nightshade ECM VTOL (Armor) 
 
 - **Role:** Scout 

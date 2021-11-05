@@ -105,3 +105,21 @@
 - **Battle Value:** 1138 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_rac.md) 
 
+## Manticore Heavy Tank (HPPC) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Heavy PPC 
+  - MML 7 (ammo: 17 LRM, 14 SRM) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - Targeting Computer 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2018/manticore-heavy-tank-hppc) 
+- **Battle Value:** 1060 
+- [*More Info*](manticore_heavy_tank/manticore_heavy_tank_hppc.md) 
+

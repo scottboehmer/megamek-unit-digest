@@ -112,6 +112,13 @@
 
 ### 30 Tons 
 
+#### [Cobra Transport VTOL](../../units/cobra_transport_vtol.md) 
+
+- [**Cobra Transport VTOL (Original)**](../../units/cobra_transport_vtol/cobra_transport_vtol_original.md) *Scout (2582)* 
+- [**Cobra Transport VTOL (Standard)**](../../units/cobra_transport_vtol/cobra_transport_vtol_standard.md) *Scout (2620)* 
+- [**Cobra Transport VTOL (Command)**](../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* 
+- [**Cobra Transport VTOL (MASH)**](../../units/cobra_transport_vtol/cobra_transport_vtol_mash.md) *Scout (2669)* 
+
 #### [Coolant Truck](../../units/coolant_truck.md) 
 
 - [**Coolant Truck (Tracked)**](../../units/coolant_truck/coolant_truck_tracked.md) *Undefined (2592)* 
@@ -174,11 +181,33 @@
 
 - [**Kanga Medium Hovertank (Standard)**](../../units/kanga_medium_hovertank/kanga_medium_hovertank_standard.md) *Striker (2653)* 
 
+#### [Korvin Tank](../../units/korvin_tank.md) 
+
+- [**Korvin Tank KRV-3**](../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
+
+#### [Manta Fast Attack Submarine](../../units/manta_fast_attack_submarine.md) 
+
+- [**Manta Fast Attack Submarine (Standard)**](../../units/manta_fast_attack_submarine/manta_fast_attack_submarine_standard.md) *Scout (2698)* 
+
 #### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 
 - [**Maxim Heavy Hover Transport (Standard)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_standard.md) *Striker (2689)* 
 
+#### [Sabaku Kaze Heavy Scout Hover Tank](../../units/sabaku_kaze_heavy_scout_hover_tank.md) 
+
+- [**Sabaku Kaze Heavy Scout Hover Tank (Standard)**](../../units/sabaku_kaze_heavy_scout_hover_tank/sabaku_kaze_heavy_scout_hover_tank_standard.md) *Striker (2695)* 
+
+#### [Turhan Urban Combat Vehicle](../../units/turhan_urban_combat_vehicle.md) 
+
+- [**Turhan Urban Combat Vehicle (Original)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_original.md) *Brawler (2530)* 
+- [**Turhan Urban Combat Vehicle (Standard)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_standard.md) *Brawler (2583)* 
+
 ### 55 Tons 
+
+#### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
+
+- [**Prowler Multi-Terrain Vehicle (Standard)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_standard.md) *Brawler (2611)* 
+- [**Prowler Multi-Terrain Vehicle (ECM)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_ecm.md) *Brawler (2614)* 
 
 #### [Thor Artillery Vehicle](../../units/thor_artillery_vehicle.md) 
 
@@ -207,9 +236,18 @@
 
 - [**Manticore Heavy Tank (Standard)**](../../units/manticore_heavy_tank/manticore_heavy_tank_standard.md) *Brawler (2575)* 
 
+#### [Marsden II MBT](../../units/marsden_ii_mbt.md) 
+
+- [**Marsden II MBT (Standard)**](../../units/marsden_ii_mbt/marsden_ii_mbt_standard.md) *Undefined (2473)* 
+- [**Marsden II MBT II-A**](../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a.md) *Juggernaut (2482)* 
+
 #### [SRM Carrier](../../units/srm_carrier.md) 
 
 - [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
+
+#### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
+
+- [**Thumper Artillery Vehicle (Standard)**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_standard.md) *Missile Boat (2734)* 
 
 ### 65 Tons 
 
@@ -232,6 +270,10 @@
 #### [Burke Defense Tank](../../units/burke_defense_tank.md) 
 
 - [**Burke Defense Tank (Standard)**](../../units/burke_defense_tank/burke_defense_tank_standard.md) *Sniper (2580)* 
+
+#### [Merkava Heavy Tank](../../units/merkava_heavy_tank.md) 
+
+- [**Merkava Heavy Tank Mk VIII**](../../units/merkava_heavy_tank/merkava_heavy_tank_mk_viii.md) *Missile Boat (2465)* 
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
@@ -257,6 +299,14 @@
 - [**Rhino Fire Support Tank (Standard)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_standard.md) *Missile Boat (2669)* 
 - [**Rhino Fire Support Tank (MG)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 
+### 85 Tons 
+
+#### [Mauna Kea Command Vessel](../../units/mauna_kea_command_vessel.md) 
+
+- [**Mauna Kea Command Vessel (LRM)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrm.md) *Missile Boat (2515)* 
+- [**Mauna Kea Command Vessel (LRT)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
+- [**Mauna Kea Command Vessel (Standard)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) *Missile Boat (2515)* 
+
 ### 95 Tons 
 
 #### [Alacorn Heavy Tank](../../units/alacorn_heavy_tank.md) 
@@ -266,6 +316,12 @@
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
 - [**Puma Assault Tank PAT-005**](../../units/puma_assault_tank/puma_assault_tank_pat-005.md) *Missile Boat (2681)* 
+
+### 140 Tons 
+
+#### [Moray Heavy Attack Submarine](../../units/moray_heavy_attack_submarine.md) 
+
+- [**Moray Heavy Attack Submarine (Original)**](../../units/moray_heavy_attack_submarine/moray_heavy_attack_submarine_original.md) *Undefined (2635)* 
 
 ## ’Mechs 
 

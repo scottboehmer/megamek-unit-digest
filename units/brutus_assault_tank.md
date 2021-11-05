@@ -65,3 +65,22 @@
 - **Battle Value:** 979 
 - [*More Info*](brutus_assault_tank/brutus_assault_tank_ppc_2.md) 
 
+## Brutus Assault Tank (HPPC) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 136 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Heavy PPC 
+  - LRM 20 (ammo: 18) 
+  - SRM 6 × 2 (ammo: 15) 
+  - SRM 2 (ammo: 50) 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/431/brutus-assault-tank-hppc) 
+- **Battle Value:** 1186 
+- [*More Info*](brutus_assault_tank/brutus_assault_tank_hppc.md) 
+

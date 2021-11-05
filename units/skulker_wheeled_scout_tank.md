@@ -44,3 +44,17 @@
 - **Battle Value:** 319 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_srm.md) 
 
+## Skulker Wheeled Scout Tank (C3M) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 20 tons Wheeled 
+- **Movement:** 7 / 11, ICE 
+- **Armor:** 71 (Ferro Fibrous) 
+- **Heat Sinks:** 0 (0) 
+- **Equipment:** 
+  - C3 Master 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2955/skulker-wheeled-scout-tank-c3m) 
+- **Battle Value:** 230 
+- [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c3m.md) 
+

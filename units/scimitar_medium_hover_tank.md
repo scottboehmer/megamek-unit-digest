@@ -47,3 +47,19 @@
 - **Battle Value:** 582 
 - [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank_tag.md) 
 
+## Scimitar Medium Hover Tank (C3) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 35 tons Hover 
+- **Movement:** 8 / 12, Fusion 
+- **Armor:** 138 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - RAC/2 (ammo: 90) 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2829/scimitar-medium-hover-tank-c3) 
+- **Battle Value:** 680 
+- [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) 
+

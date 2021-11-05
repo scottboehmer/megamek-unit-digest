@@ -48,3 +48,18 @@
 - **Battle Value:** 295 
 - [*More Info*](beagle_hover_scout/beagle_hover_scout_tag.md) 
 
+## Beagle Hover Scout (Sealed) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 15 tons Hover 
+- **Movement:** 14 / 21, XL 
+- **Armor:** 69 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Equipment:** 
+  - Environmentally Sealed Chassis 
+  - C3i 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/311/beagle-hover-scout-sealed) 
+- **Battle Value:** 221 
+- [*More Info*](beagle_hover_scout/beagle_hover_scout_sealed.md) 
+

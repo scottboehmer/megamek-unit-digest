@@ -16,6 +16,25 @@
 - **Battle Value:** 1463 
 - [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank_standard.md) 
 
+## Rhino Fire Support Tank (Royal) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2708) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 272 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV × 2 (ammo: 18) 
+  - LRM 10 w/ Artemis IV (ammo: 12) 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2684/rhino-fire-support-tank-royal) 
+- **Battle Value:** 1670 
+- [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank_royal.md) 
+
 ## Rhino Fire Support Tank (MG) 
 
 - **Role:** Missile Boat 

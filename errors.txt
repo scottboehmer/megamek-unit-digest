@@ -1,5 +1,6 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to convert data from 'Teppo Artillery Vehicle (Standard).blk': Invalid combat vehicle tonnage for motive type
 
 --------------------------------------------------
 Unrecognized Components:
@@ -157,6 +158,11 @@ BattleMech Recovery Vehicle (Standard)
 Flatbed Truck (AC)
 Heavy BattleMech Recovery Vehicle (Standard)
 Morningstar City Command Vehicle (HPG)
+Daimyo HQ 67-NC
+Marsden II MBT (Standard)
+Transportable Field Repair Unit JI-100
+Manta Fast Attack Submarine (Support)
+Moray Heavy Attack Submarine (Original)
 
 --------------------------------------------------
-4387 mtf files -> 4387 parsed files -> 4385 converted files -> 4379 validated units
+4591 mtf files -> 4591 parsed files -> 4575 converted files -> 4569 validated units

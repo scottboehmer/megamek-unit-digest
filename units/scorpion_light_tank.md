@@ -77,3 +77,18 @@
 - **Battle Value:** 393 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_mrm.md) 
 
+## Scorpion Light Tank (LAC) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 25 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 64 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Light AC/2 × 2 (ammo: 45) 
+  - Machine Gun (ammo: 100) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2841/scorpion-light-tank-lac) 
+- **Battle Value:** 289 
+- [*More Info*](scorpion_light_tank/scorpion_light_tank_lac.md) 
+

@@ -76,3 +76,38 @@
 - **Battle Value:** 977 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_laser.md) 
 
+## Condor Heavy Hover Tank (Upgrade) (Standard) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3066) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 107 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 15 (ammo: 16) 
+  - LB 5-X AC (ammo: 40) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/685/condor-heavy-hover-tank-upgrade-standard) 
+- **Battle Value:** 965 
+- [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_standard.md) 
+
+## Condor Heavy Hover Tank (Upgrade) (Laser) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 107 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - ER Large Laser 
+  - LRM 15 (ammo: 16) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/684/condor-heavy-hover-tank-upgrade-laser) 
+- **Battle Value:** 1197 
+- [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) 
+

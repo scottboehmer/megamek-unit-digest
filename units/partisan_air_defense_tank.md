@@ -102,3 +102,40 @@
 - **Battle Value:** 1178 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_quad_rac.md) 
 
+## Partisan Air Defense Tank (Cell) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 143 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
+  - AC/2 × 2 (ammo: 45) 
+  - Machine Gun × 2 (ammo: 200) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - C3 Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2434/partisan-air-defense-tank-cell) 
+- **Battle Value:** 980 
+- [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_cell.md) 
+
+## Partisan Air Defense Tank (LRM) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 143 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - LRM 15 w/ Artemis IV × 4 (ammo: 48) 
+  - Machine Gun × 2 (ammo: 200) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - C3 Slave 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2437/partisan-air-defense-tank-lrm) 
+- **Battle Value:** 1303 
+- [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_lrm.md) 
+
