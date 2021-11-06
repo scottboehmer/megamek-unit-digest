@@ -280,6 +280,11 @@
 
 - [**Joust Medium Tank BE700**](../../units/joust_medium_tank/joust_medium_tank_be700.md) *Skirmisher (3077)* 
 
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Prototype)**](../../units/phalanx_support_tank/phalanx_support_tank_prototype.md) *Brawler (3079)* 
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
+
 #### [Stygian Strike Tank](../../units/stygian_strike_tank.md) 
 
 - [**Stygian Strike Tank (Standard)**](../../units/stygian_strike_tank/stygian_strike_tank_standard.md) *Missile Boat (3062)* 

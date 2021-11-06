@@ -343,6 +343,11 @@
 #### [Myrmidon Medium Tank](../../units/myrmidon_medium_tank.md) 
 
 - [**Myrmidon Medium Tank (Standard)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_standard.md) *Skirmisher (3060)* 
+- [**Myrmidon Medium Tank (Anti-Infantry)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_anti-infantry.md) *Brawler (3080)* 
+
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
 
 ### 45 Tons 
 
@@ -718,6 +723,12 @@
 - [**Neptune Submarine (Standard)**](../../units/neptune_submarine/neptune_submarine_standard.md) *Undefined (2950)* 
 - [**Neptune Submarine (SRT)**](../../units/neptune_submarine/neptune_submarine_srt.md) *Juggernaut (2955)* 
 - [**Neptune Submarine (LRT)**](../../units/neptune_submarine/neptune_submarine_lrt.md) *Sniper (2971)* 
+
+### 150 Tons 
+
+#### [Kalki Cruise Missile Launcher](../../units/kalki_cruise_missile_launcher.md) 
+
+- [**Kalki Cruise Missile Launcher (Standard)**](../../units/kalki_cruise_missile_launcher/kalki_cruise_missile_launcher_standard.md) *Missile Boat (3079)* 
 
 ## ’Mechs 
 

@@ -191,6 +191,10 @@
 
 - [**Maxim Heavy Hover Transport (Clan)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_clan.md) *Striker (3059)* 
 
+#### [Sokar Urban Combat Unit](../../units/sokar_urban_combat_unit.md) 
+
+- [**Sokar Urban Combat Unit (Standard)**](../../units/sokar_urban_combat_unit/sokar_urban_combat_unit_standard.md) *Ambusher (3084)* 
+
 ### 55 Tons 
 
 #### [Enyo Strike Tank](../../units/enyo_strike_tank.md) 

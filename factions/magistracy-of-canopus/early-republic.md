@@ -120,6 +120,10 @@
 - [**Warrior Attack Helicopter H-7A**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7a.md) *Scout (2965)* 
 - [**Warrior Attack Helicopter H-7C**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7c.md) *Sniper (2974)* 
 
+#### [Warrior Stealth Helicopter](../../units/warrior_stealth_helicopter.md) 
+
+- [**Warrior Stealth Helicopter S-9**](../../units/warrior_stealth_helicopter/warrior_stealth_helicopter_s-9.md) *Scout (3084)* 
+
 ### 25 Tons 
 
 #### [Aeron Strike VTOL](../../units/aeron_strike_vtol.md) 
@@ -150,6 +154,7 @@
 - [**Scorpion Light Tank (ML)**](../../units/scorpion_light_tank/scorpion_light_tank_ml.md) *Juggernaut (2875)* 
 - [**Scorpion Light Tank (MRM)**](../../units/scorpion_light_tank/scorpion_light_tank_mrm.md) *Brawler (3060)* 
 - [**Scorpion Light Tank (LAC)**](../../units/scorpion_light_tank/scorpion_light_tank_lac.md) *Brawler (3072)* 
+- [**Scorpion Light Tank (Minesweeper)**](../../units/scorpion_light_tank/scorpion_light_tank_minesweeper.md) *Missile Boat (3087)* 
 
 ### 30 Tons 
 

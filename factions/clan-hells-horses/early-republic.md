@@ -152,6 +152,11 @@
 
 ### 35 Tons 
 
+#### [Hephaestus Jump Tank](../../units/hephaestus_jump_tank.md) 
+
+- [**Hephaestus Jump Tank (Standard)**](../../units/hephaestus_jump_tank/hephaestus_jump_tank_standard.md) *Striker (3083)* 
+- [**Hephaestus Jump Tank (AP)**](../../units/hephaestus_jump_tank/hephaestus_jump_tank_ap.md) *Undefined (3089)* 
+
 #### [Indra Infantry Transport](../../units/indra_infantry_transport.md) 
 
 - [**Indra Infantry Transport (Standard)**](../../units/indra_infantry_transport/indra_infantry_transport_standard.md) *Sniper (2842)* 
@@ -180,6 +185,10 @@
 #### [Engineering Vehicle](../../units/engineering_vehicle.md) 
 
 - [**Engineering Vehicle (Standard)**](../../units/engineering_vehicle/engineering_vehicle_standard.md) *Undefined (2570)* 
+
+#### [Garuda Heavy VTOL](../../units/garuda_heavy_vtol.md) 
+
+- [**Garuda Heavy VTOL (Standard)**](../../units/garuda_heavy_vtol/garuda_heavy_vtol_standard.md) *Sniper (3084)* 
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
 
@@ -231,6 +240,7 @@
 
 - [**Enyo Strike Tank (Standard)**](../../units/enyo_strike_tank/enyo_strike_tank_standard.md) *Skirmisher (3063)* 
 - [**Enyo Strike Tank (LB-X) 'Sholef'**](../../units/enyo_strike_tank/enyo_strike_tank_lb-x_sholef.md) *Skirmisher (3075)* 
+- [**Enyo Strike Tank (ER Pulse)**](../../units/enyo_strike_tank/enyo_strike_tank_er_pulse.md) *Skirmisher (3083)* 
 
 #### [Thor Artillery Vehicle](../../units/thor_artillery_vehicle.md) 
 
@@ -329,6 +339,10 @@
 - [**Puma Assault Tank PAT-005b**](../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ### 100 Tons 
+
+#### [Aithon Assault Transport](../../units/aithon_assault_transport.md) 
+
+- [**Aithon Assault Transport (Standard)**](../../units/aithon_assault_transport/aithon_assault_transport_standard.md) *Missile Boat (3084)* 
 
 #### [Mars Assault Vehicle](../../units/mars_assault_vehicle.md) 
 

@@ -119,6 +119,10 @@
 - [**Pandion Combat WiGE (Infantry)**](../../units/pandion_combat_wige/pandion_combat_wige_infantry.md) *Scout (3078)* 
 - [**Pandion Combat WiGE (Standard)**](../../units/pandion_combat_wige/pandion_combat_wige_standard.md) *Striker (3078)* 
 
+#### [Skulker Wheeled Scout Tank Mk II](../../units/skulker_wheeled_scout_tank_mk_ii.md) 
+
+- [**Skulker Wheeled Scout Tank Mk II (Standard)**](../../units/skulker_wheeled_scout_tank_mk_ii/skulker_wheeled_scout_tank_mk_ii_standard.md) *Scout (3082)* 
+
 #### [Tamerlane Strike Sled](../../units/tamerlane_strike_sled.md) 
 
 - [**Tamerlane Strike Sled (Standard)**](../../units/tamerlane_strike_sled/tamerlane_strike_sled_standard.md) *Scout (3071)* 
@@ -134,6 +138,10 @@
 - [**Warrior Attack Helicopter H-7**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7.md) *Scout (2957)* 
 - [**Warrior Attack Helicopter H-7A**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7a.md) *Scout (2965)* 
 - [**Warrior Attack Helicopter H-7C**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7c.md) *Sniper (2974)* 
+
+#### [Warrior Stealth Helicopter](../../units/warrior_stealth_helicopter.md) 
+
+- [**Warrior Stealth Helicopter S-9**](../../units/warrior_stealth_helicopter/warrior_stealth_helicopter_s-9.md) *Scout (3084)* 
 
 ### 25 Tons 
 
@@ -237,6 +245,7 @@
 - [**Hunter Light Support Tank (LRM15)**](../../units/hunter_light_support_tank/hunter_light_support_tank_lrm15.md) *Missile Boat (2956)* 
 - [**Hunter Light Support Tank (Ammo)**](../../units/hunter_light_support_tank/hunter_light_support_tank_ammo.md) *Missile Boat (2960)* 
 - [**Hunter Light Support Tank (3054 Upgrade)**](../../units/hunter_light_support_tank/hunter_light_support_tank_3054_upgrade.md) *Missile Boat (3054)* 
+- [**Hunter Light Support Tank (Amphibious)**](../../units/hunter_light_support_tank/hunter_light_support_tank_amphibious.md) *Missile Boat (3085)* 
 
 #### [Pegasus Scout Hover Tank](../../units/pegasus_scout_hover_tank.md) 
 
@@ -300,6 +309,11 @@
 #### [Myrmidon Medium Tank](../../units/myrmidon_medium_tank.md) 
 
 - [**Myrmidon Medium Tank (Standard)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_standard.md) *Skirmisher (3060)* 
+- [**Myrmidon Medium Tank (Anti-Infantry)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_anti-infantry.md) *Brawler (3080)* 
+
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
 
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
@@ -382,6 +396,7 @@
 - [**Vedette Medium Tank (NETC)**](../../units/vedette_medium_tank/vedette_medium_tank_netc.md) *Sniper (3056)* 
 - [**Vedette Medium Tank (RAC)**](../../units/vedette_medium_tank/vedette_medium_tank_rac.md) *Striker (3067)* 
 - [**Vedette Medium Tank (Light Gauss)**](../../units/vedette_medium_tank/vedette_medium_tank_light_gauss.md) *Sniper (3068)* 
+- [**Vedette Medium Tank V7**](../../units/vedette_medium_tank/vedette_medium_tank_v7.md) *Brawler (3084)* 
 
 ### 55 Tons 
 

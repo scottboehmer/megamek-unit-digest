@@ -299,6 +299,10 @@
 
 - [**Myrmidon Medium Tank Type 2**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_type_2.md) *Scout (3075)* 
 
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
+
 ### 45 Tons 
 
 #### [Danai Support Vehicle](../../units/danai_support_vehicle.md) 
@@ -434,6 +438,7 @@
 
 - [**Po Heavy Tank (Standard)**](../../units/po_heavy_tank/po_heavy_tank_standard.md) *Brawler (3031)* 
 - [**Po Heavy Tank (LB-X)**](../../units/po_heavy_tank/po_heavy_tank_lb-x.md) *Brawler (3069)* 
+- [**Po Heavy Tank (HV)**](../../units/po_heavy_tank/po_heavy_tank_hv.md) *Brawler (3079)* 
 
 #### [Po II Heavy Tank](../../units/po_ii_heavy_tank.md) 
 

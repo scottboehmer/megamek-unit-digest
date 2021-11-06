@@ -53,3 +53,22 @@
 - **Battle Value:** 682 
 - [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle_tav-2.md) 
 
+## Thumper Artillery Vehicle Angel 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3089) 
+- **Chassis:** 60 tons Wheeled 
+- **Movement:** 4 / 6, Fuel Cell 
+- **Armor:** 192 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Thumper (ammo: 80) 
+  - SRM 2 × 2 (ammo: 50) 
+  - Machine Gun × 2 (ammo: 200) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - CASE 
+- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5229/thumper-artillery-vehicle-angel) 
+- **Battle Value:** 758 
+- [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle_angel.md) 
+

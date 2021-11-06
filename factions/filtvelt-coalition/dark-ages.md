@@ -412,6 +412,10 @@
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
 
+#### [Heavy NLRM Carrier](../../units/heavy_nlrm_carrier.md) 
+
+- [**Heavy NLRM Carrier (Standard)**](../../units/heavy_nlrm_carrier/heavy_nlrm_carrier_standard.md) *Missile Boat (3083)* 
+
 #### [Partisan Air Defense Tank](../../units/partisan_air_defense_tank.md) 
 
 - [**Partisan Air Defense Tank (Standard)**](../../units/partisan_air_defense_tank/partisan_air_defense_tank_standard.md) *Sniper (3058)* 

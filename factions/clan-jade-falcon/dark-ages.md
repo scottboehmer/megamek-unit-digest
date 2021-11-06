@@ -207,6 +207,10 @@
 - [**Maxim Mk II Transport (Standard)**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_standard.md) *Striker (3083)* 
 - [**Maxim Mk II Transport (Infantry Support) 'Shiloh'**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_infantry_support_shiloh.md) *Sniper (3084)* 
 
+#### [Sokar Urban Combat Unit](../../units/sokar_urban_combat_unit.md) 
+
+- [**Sokar Urban Combat Unit (Standard)**](../../units/sokar_urban_combat_unit/sokar_urban_combat_unit_standard.md) *Ambusher (3084)* 
+
 #### [Vedette Medium Tank](../../units/vedette_medium_tank.md) 
 
 - [**Vedette Medium Tank (Standard)**](../../units/vedette_medium_tank/vedette_medium_tank_standard.md) *Brawler (2943)* 

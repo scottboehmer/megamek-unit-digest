@@ -170,6 +170,10 @@
 
 - [**Engineering Vehicle (Standard)**](../../units/engineering_vehicle/engineering_vehicle_standard.md) *Undefined (2570)* 
 
+#### [Garuda Heavy VTOL](../../units/garuda_heavy_vtol.md) 
+
+- [**Garuda Heavy VTOL (Standard)**](../../units/garuda_heavy_vtol/garuda_heavy_vtol_standard.md) *Sniper (3084)* 
+
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
 
 - [**Joust Medium Tank BE700**](../../units/joust_medium_tank/joust_medium_tank_be700.md) *Skirmisher (3077)* 
@@ -245,6 +249,7 @@
 
 - [**Rommel Tank (Gauss)**](../../units/rommel_tank/rommel_tank_gauss.md) *Brawler (3054)* 
 - [**Rommel Tank (Sealed)**](../../units/rommel_tank/rommel_tank_sealed.md) *Sniper (3076)* 
+- [**Rommel Tank (Howitzer) Production**](../../units/rommel_tank/rommel_tank_howitzer_production.md) *Brawler (3087)* 
 
 ### 70 Tons 
 

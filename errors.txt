@@ -1,6 +1,5 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
-Unable to convert data from 'Teppo Artillery Vehicle (Standard).blk': Invalid combat vehicle tonnage for motive type
 
 --------------------------------------------------
 Unrecognized Components:
@@ -163,6 +162,8 @@ Marsden II MBT (Standard)
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
+Hephaestus Jump Tank (AP)
+Nuberu Anti Aircraft Tank 2 'Numantia'
 
 --------------------------------------------------
-4591 mtf files -> 4591 parsed files -> 4575 converted files -> 4569 validated units
+4623 mtf files -> 4623 parsed files -> 4605 converted files -> 4599 validated units

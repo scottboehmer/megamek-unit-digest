@@ -203,6 +203,10 @@
 
 - [**Maxim Heavy Hover Transport (Clan)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_clan.md) *Striker (3059)* 
 
+#### [Sokar Urban Combat Unit](../../units/sokar_urban_combat_unit.md) 
+
+- [**Sokar Urban Combat Unit (Standard)**](../../units/sokar_urban_combat_unit/sokar_urban_combat_unit_standard.md) *Ambusher (3084)* 
+
 #### [Vedette Medium Tank](../../units/vedette_medium_tank.md) 
 
 - [**Vedette Medium Tank (Standard)**](../../units/vedette_medium_tank/vedette_medium_tank_standard.md) *Brawler (2943)* 

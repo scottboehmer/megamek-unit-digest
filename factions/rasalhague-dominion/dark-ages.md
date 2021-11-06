@@ -281,6 +281,7 @@
 #### [Enyo Strike Tank](../../units/enyo_strike_tank.md) 
 
 - [**Enyo Strike Tank (Standard)**](../../units/enyo_strike_tank/enyo_strike_tank_standard.md) *Skirmisher (3063)* 
+- [**Enyo Strike Tank (ER Pulse)**](../../units/enyo_strike_tank/enyo_strike_tank_er_pulse.md) *Skirmisher (3083)* 
 
 #### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
 
@@ -357,6 +358,10 @@
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
+
+#### [Vidar Heavy Defense Tank](../../units/vidar_heavy_defense_tank.md) 
+
+- [**Vidar Heavy Defense Tank (Standard)**](../../units/vidar_heavy_defense_tank/vidar_heavy_defense_tank_standard.md) *Missile Boat (3085)* 
 
 ### 80 Tons 
 

@@ -430,6 +430,11 @@
 #### [Myrmidon Medium Tank](../../units/myrmidon_medium_tank.md) 
 
 - [**Myrmidon Medium Tank (Standard)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_standard.md) *Skirmisher (3060)* 
+- [**Myrmidon Medium Tank (Anti-Infantry)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_anti-infantry.md) *Brawler (3080)* 
+
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
 
 #### [Stygian Strike Tank](../../units/stygian_strike_tank.md) 
 
@@ -571,6 +576,7 @@
 - [**Vedette Medium Tank (RAC)**](../../units/vedette_medium_tank/vedette_medium_tank_rac.md) *Striker (3067)* 
 - [**Vedette Medium Tank (Light Gauss)**](../../units/vedette_medium_tank/vedette_medium_tank_light_gauss.md) *Sniper (3068)* 
 - [**Vedette Medium Tank (Cell)**](../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* 
+- [**Vedette Medium Tank V7**](../../units/vedette_medium_tank/vedette_medium_tank_v7.md) *Brawler (3084)* 
 
 ### 55 Tons 
 
@@ -665,6 +671,7 @@
 #### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
 
 - [**Thumper Artillery Vehicle TAV-1**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_tav-1.md) *Missile Boat (3072)* 
+- [**Thumper Artillery Vehicle Angel**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_angel.md) *Missile Boat (3089)* 
 
 #### [Tokugawa Heavy Tank](../../units/tokugawa_heavy_tank.md) 
 
@@ -892,6 +899,7 @@
 - [**Challenger MBT X**](../../units/challenger_mbt/challenger_mbt_x.md) *Juggernaut (3057)* 
 - [**Challenger MBT XII**](../../units/challenger_mbt/challenger_mbt_xii.md) *Juggernaut (3065)* 
 - [**Challenger MBT XIVs**](../../units/challenger_mbt/challenger_mbt_xivs.md) *Juggernaut (3077)* 
+- [**Challenger MBT Mk. XV**](../../units/challenger_mbt/challenger_mbt_mk._xv.md) *Sniper (3081)* 
 
 ### 95 Tons 
 
@@ -918,6 +926,7 @@
 - [**Ontos Heavy Tank (Light Gauss)**](../../units/ontos_heavy_tank/ontos_heavy_tank_light_gauss.md) *Sniper (3065)* 
 - [**Ontos Heavy Tank (MML)**](../../units/ontos_heavy_tank/ontos_heavy_tank_mml.md) *Sniper (3074)* 
 - [**Ontos Heavy Tank (Sealed)**](../../units/ontos_heavy_tank/ontos_heavy_tank_sealed.md) *Juggernaut (3078)* 
+- [**Ontos Heavy Tank HEAT**](../../units/ontos_heavy_tank/ontos_heavy_tank_heat.md) *Juggernaut (3084)* 
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 

@@ -300,6 +300,7 @@
 - [**Hunter Light Support Tank (ERLL)**](../../units/hunter_light_support_tank/hunter_light_support_tank_erll.md) *Sniper (3059)* 
 - [**Hunter Light Support Tank (LPL)**](../../units/hunter_light_support_tank/hunter_light_support_tank_lpl.md) *Sniper (3061)* 
 - [**Hunter Light Support Tank 'Assault Hunter'**](../../units/hunter_light_support_tank/hunter_light_support_tank_assault_hunter.md) *Ambusher (3064)* 
+- [**Hunter Light Support Tank (Amphibious)**](../../units/hunter_light_support_tank/hunter_light_support_tank_amphibious.md) *Missile Boat (3085)* 
 
 #### [Indra Infantry Transport](../../units/indra_infantry_transport.md) 
 
@@ -374,6 +375,10 @@
 #### [Myrmidon Medium Tank](../../units/myrmidon_medium_tank.md) 
 
 - [**Myrmidon Medium Tank (Standard)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_standard.md) *Skirmisher (3060)* 
+
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
 
 #### [Stygian Strike Tank](../../units/stygian_strike_tank.md) 
 
@@ -478,6 +483,10 @@
 
 - [**SM3 Tank Destroyer SM3**](../../units/sm3_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
 
+#### [Sokar Urban Combat Unit](../../units/sokar_urban_combat_unit.md) 
+
+- [**Sokar Urban Combat Unit (Standard)**](../../units/sokar_urban_combat_unit/sokar_urban_combat_unit_standard.md) *Ambusher (3084)* 
+
 #### [Vedette Medium Tank](../../units/vedette_medium_tank.md) 
 
 - [**Vedette Medium Tank (Standard)**](../../units/vedette_medium_tank/vedette_medium_tank_standard.md) *Brawler (2943)* 
@@ -486,6 +495,7 @@
 - [**Vedette Medium Tank (RAC)**](../../units/vedette_medium_tank/vedette_medium_tank_rac.md) *Striker (3067)* 
 - [**Vedette Medium Tank (Light Gauss)**](../../units/vedette_medium_tank/vedette_medium_tank_light_gauss.md) *Sniper (3068)* 
 - [**Vedette Medium Tank (Cell)**](../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* 
+- [**Vedette Medium Tank V7**](../../units/vedette_medium_tank/vedette_medium_tank_v7.md) *Brawler (3084)* 
 
 ### 55 Tons 
 
@@ -556,6 +566,7 @@
 #### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
 
 - [**Thumper Artillery Vehicle TAV-1**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_tav-1.md) *Missile Boat (3072)* 
+- [**Thumper Artillery Vehicle Angel**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_angel.md) *Missile Boat (3089)* 
 
 ### 65 Tons 
 
@@ -577,6 +588,7 @@
 - [**Rommel Tank (Standard)**](../../units/rommel_tank/rommel_tank_standard.md) *Juggernaut (3027)* 
 - [**Rommel Tank (Gauss)**](../../units/rommel_tank/rommel_tank_gauss.md) *Brawler (3054)* 
 - [**Rommel Tank (Sealed)**](../../units/rommel_tank/rommel_tank_sealed.md) *Sniper (3076)* 
+- [**Rommel Tank (Howitzer) Production**](../../units/rommel_tank/rommel_tank_howitzer_production.md) *Brawler (3087)* 
 
 ### 70 Tons 
 
@@ -752,6 +764,7 @@
 - [**Ontos Heavy Tank (Light Gauss)**](../../units/ontos_heavy_tank/ontos_heavy_tank_light_gauss.md) *Sniper (3065)* 
 - [**Ontos Heavy Tank (MML)**](../../units/ontos_heavy_tank/ontos_heavy_tank_mml.md) *Sniper (3074)* 
 - [**Ontos Heavy Tank (Sealed)**](../../units/ontos_heavy_tank/ontos_heavy_tank_sealed.md) *Juggernaut (3078)* 
+- [**Ontos Heavy Tank HEAT**](../../units/ontos_heavy_tank/ontos_heavy_tank_heat.md) *Juggernaut (3084)* 
 
 ### 100 Tons 
 

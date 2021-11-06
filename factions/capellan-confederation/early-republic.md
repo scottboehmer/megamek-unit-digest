@@ -152,6 +152,10 @@
 - [**Warrior Attack Helicopter H-7A**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7a.md) *Scout (2965)* 
 - [**Warrior Attack Helicopter H-7C**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7c.md) *Sniper (2974)* 
 
+#### [Warrior Stealth Helicopter](../../units/warrior_stealth_helicopter.md) 
+
+- [**Warrior Stealth Helicopter S-9**](../../units/warrior_stealth_helicopter/warrior_stealth_helicopter_s-9.md) *Scout (3084)* 
+
 ### 25 Tons 
 
 #### [Aeron Strike VTOL](../../units/aeron_strike_vtol.md) 
@@ -211,6 +215,7 @@
 - [**Scorpion Light Tank (ML)**](../../units/scorpion_light_tank/scorpion_light_tank_ml.md) *Juggernaut (2875)* 
 - [**Scorpion Light Tank (MRM)**](../../units/scorpion_light_tank/scorpion_light_tank_mrm.md) *Brawler (3060)* 
 - [**Scorpion Light Tank (LAC)**](../../units/scorpion_light_tank/scorpion_light_tank_lac.md) *Brawler (3072)* 
+- [**Scorpion Light Tank (Minesweeper)**](../../units/scorpion_light_tank/scorpion_light_tank_minesweeper.md) *Missile Boat (3087)* 
 
 ### 30 Tons 
 
@@ -345,6 +350,10 @@
 #### [Myrmidon Medium Tank](../../units/myrmidon_medium_tank.md) 
 
 - [**Myrmidon Medium Tank Type 2**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_type_2.md) *Scout (3075)* 
+
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
 
 #### [Stygian Strike Tank](../../units/stygian_strike_tank.md) 
 
@@ -498,6 +507,7 @@
 
 - [**Po Heavy Tank (Standard)**](../../units/po_heavy_tank/po_heavy_tank_standard.md) *Brawler (3031)* 
 - [**Po Heavy Tank (LB-X)**](../../units/po_heavy_tank/po_heavy_tank_lb-x.md) *Brawler (3069)* 
+- [**Po Heavy Tank (HV)**](../../units/po_heavy_tank/po_heavy_tank_hv.md) *Brawler (3079)* 
 
 #### [Po II Heavy Tank](../../units/po_ii_heavy_tank.md) 
 

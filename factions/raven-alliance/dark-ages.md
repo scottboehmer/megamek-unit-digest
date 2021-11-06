@@ -237,6 +237,11 @@
 - [**LRM Carrier (Standard)**](../../units/lrm_carrier/lrm_carrier_standard.md) *Missile Boat (2470)* 
 - [**LRM Carrier (3055 Upgrade)**](../../units/lrm_carrier/lrm_carrier_3055_upgrade.md) *Missile Boat (3055)* 
 
+#### [Nuberu Anti Aircraft Tank](../../units/nuberu_anti_aircraft_tank.md) 
+
+- [**Nuberu Anti Aircraft Tank (Standard)**](../../units/nuberu_anti_aircraft_tank/nuberu_anti_aircraft_tank_standard.md) *Sniper (3083)* 
+- [**Nuberu Anti Aircraft Tank 2 'Numantia'**](../../units/nuberu_anti_aircraft_tank/nuberu_anti_aircraft_tank_2_numantia.md) *Undefined (3083)* 
+
 #### [Oro Heavy Tank](../../units/oro_heavy_tank.md) 
 
 - [**Oro Heavy Tank (Standard)**](../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 

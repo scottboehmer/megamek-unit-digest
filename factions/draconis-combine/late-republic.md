@@ -244,6 +244,7 @@
 - [**Pegasus Scout Hover Tank (MRM)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_mrm.md) *Striker (3063)* 
 - [**Pegasus Scout Hover Tank (C3)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) *Striker (3070)* 
 - [**Pegasus Scout Hover Tank (Sealed)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) *Striker (3076)* 
+- [**Pegasus Scout Hover Tank X-Pulse**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_x-pulse.md) *Striker (3086)* 
 
 #### [Plainsman Medium Hovertank](../../units/plainsman_medium_hovertank.md) 
 
@@ -303,6 +304,7 @@
 - [**Hiryo Armored Infantry Transport (Standard)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_standard.md) *Scout (3069)* 
 - [**Hiryo Armored Infantry Transport (Light PPC)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_light_ppc.md) *Scout (3070)* 
 - [**Hiryo Armored Infantry Transport (MRM)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_mrm.md) *Striker (3070)* 
+- [**Hiryo Armored Infantry Transport 'BloodHound'**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_bloodhound.md) *Scout (3083)* 
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
 
@@ -312,6 +314,10 @@
 #### [Myrmidon Medium Tank](../../units/myrmidon_medium_tank.md) 
 
 - [**Myrmidon Medium Tank (Standard)**](../../units/myrmidon_medium_tank/myrmidon_medium_tank_standard.md) *Skirmisher (3060)* 
+
+#### [Phalanx Support Tank](../../units/phalanx_support_tank.md) 
+
+- [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
 
 #### [Stygian Strike Tank](../../units/stygian_strike_tank.md) 
 
@@ -471,6 +477,7 @@
 #### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
 
 - [**Thumper Artillery Vehicle TAV-1**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_tav-1.md) *Missile Boat (3072)* 
+- [**Thumper Artillery Vehicle Angel**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_angel.md) *Missile Boat (3089)* 
 
 #### [Tokugawa Heavy Tank](../../units/tokugawa_heavy_tank.md) 
 
@@ -659,6 +666,12 @@
 #### [Neptune Submarine](../../units/neptune_submarine.md) 
 
 - [**Neptune Submarine (Standard)**](../../units/neptune_submarine/neptune_submarine_standard.md) *Undefined (2950)* 
+
+### 150 Tons 
+
+#### [Teppo Artillery Vehicle](../../units/teppo_artillery_vehicle.md) 
+
+- [**Teppo Artillery Vehicle (Standard)**](../../units/teppo_artillery_vehicle/teppo_artillery_vehicle_standard.md) *Missile Boat (3086)* 
 
 ## ’Mechs 
 

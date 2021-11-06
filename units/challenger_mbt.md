@@ -83,3 +83,19 @@
 - **Battle Value:** 1424 
 - [*More Info*](challenger_mbt/challenger_mbt_xivs.md) 
 
+## Challenger MBT Mk. XV 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3081) 
+- **Chassis:** 90 tons Tracked 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 307 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+  - Silver Bullet (ammo: 24) 
+  - MagShot Gauss Rifle × 4 (ammo: 100) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3939/challenger-mbt-mk-xv) 
+- **Battle Value:** 1724 
+- [*More Info*](challenger_mbt/challenger_mbt_mk._xv.md) 
+
