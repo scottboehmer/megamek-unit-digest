@@ -93,6 +93,11 @@
 
 - [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* 
 
+#### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
+
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
+
 #### [Maultier Hover APC](../../units/maultier_hover_apc.md) 
 
 - [**Maultier Hover APC (Basic)**](../../units/maultier_hover_apc/maultier_hover_apc_basic.md) *Scout (3019)* 

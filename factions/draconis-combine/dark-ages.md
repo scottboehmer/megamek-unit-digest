@@ -39,12 +39,20 @@
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
 
+#### [Gun Trailer](../../units/gun_trailer.md) 
+
+- [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
 - [**J-27 Ordnance Transport (Fusion)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
 - [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Armor)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_armor.md) *Undefined (2833)* 
+
+#### [Kruger Combat Car](../../units/kruger_combat_car.md) 
+
+- [**Kruger Combat Car (Standard)**](../../units/kruger_combat_car/kruger_combat_car_standard.md) *Scout (3091)* 
 
 #### [Mobile Long Tom Artillery Ammunition Trailer](../../units/mobile_long_tom_artillery_ammunition_trailer.md) 
 
@@ -76,6 +84,11 @@
 #### [Mantis Light Attack VTOL](../../units/mantis_light_attack_vtol.md) 
 
 - [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* 
+
+#### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
+
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
 
 ### 20 Tons 
 
@@ -139,6 +152,7 @@
 - [**Balac Strike VTOL (LRM)**](../../units/balac_strike_vtol/balac_strike_vtol_lrm.md) *Missile Boat (3079)* 
 - [**Balac Strike VTOL (Spotter)**](../../units/balac_strike_vtol/balac_strike_vtol_spotter.md) *Striker (3079)* 
 - [**Balac Strike VTOL (Standard)**](../../units/balac_strike_vtol/balac_strike_vtol_standard.md) *Striker (3079)* 
+- [**Balac Strike VTOL (Hybrid)**](../../units/balac_strike_vtol/balac_strike_vtol_hybrid.md) *Striker (3090)* 
 
 #### [Cavalry Attack Helicopter](../../units/cavalry_attack_helicopter.md) 
 
@@ -148,6 +162,11 @@
 - [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* 
 - [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* 
 
+#### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
+
+- [**DI Multipurpose VTOL (Gunship)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
+- [**DI Multipurpose VTOL (Standard)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_standard.md) *Scout (3097)* 
+
 #### [Harasser Missile Platform](../../units/harasser_missile_platform.md) 
 
 - [**Harasser Missile Platform (Standard)**](../../units/harasser_missile_platform/harasser_missile_platform_standard.md) *Striker (2811)* 
@@ -156,6 +175,12 @@
 
 - [**Hawk Moth Gunship (Armor)**](../../units/hawk_moth_gunship/hawk_moth_gunship_armor.md) *Sniper (3060)* 
 - [**Hawk Moth Gunship (Standard)**](../../units/hawk_moth_gunship/hawk_moth_gunship_standard.md) *Sniper (3060)* 
+
+#### [Hawk Moth II Gunship](../../units/hawk_moth_ii_gunship.md) 
+
+- [**Hawk Moth II Gunship (Standard)**](../../units/hawk_moth_ii_gunship/hawk_moth_ii_gunship_standard.md) *Striker (3112)* 
+- [**Hawk Moth II Gunship (Sniper)**](../../units/hawk_moth_ii_gunship/hawk_moth_ii_gunship_sniper.md) *Sniper (3113)* 
+- [**Hawk Moth II Gunship (MML)**](../../units/hawk_moth_ii_gunship/hawk_moth_ii_gunship_mml.md) *Striker (3114)* 
 
 #### [J. Edgar Light Hover Tank](../../units/j._edgar_light_hover_tank.md) 
 
@@ -178,6 +203,11 @@
 - [**Scorpion Light Tank (LRM)**](../../units/scorpion_light_tank/scorpion_light_tank_lrm.md) *Missile Boat (2813)* 
 - [**Scorpion Light Tank (LAC)**](../../units/scorpion_light_tank/scorpion_light_tank_lac.md) *Brawler (3072)* 
 
+#### [Shandra Advanced Scout Vehicle](../../units/shandra_advanced_scout_vehicle.md) 
+
+- [**Shandra Advanced Scout Vehicle (Original)**](../../units/shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_original.md) *Scout (3087)* 
+- [**Shandra Advanced Scout Vehicle (Standard)**](../../units/shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_standard.md) *Scout (3089)* 
+
 ### 30 Tons 
 
 #### [Cobra Transport VTOL](../../units/cobra_transport_vtol.md) 
@@ -191,15 +221,31 @@
 - [**Coolant Truck 135-K**](../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
 - [**Coolant Truck (Hover)**](../../units/coolant_truck/coolant_truck_hover.md) *Undefined (2602)* 
 
+#### [Crane Heavy Transport](../../units/crane_heavy_transport.md) 
+
+- [**Crane Heavy Transport (Standard)**](../../units/crane_heavy_transport/crane_heavy_transport_standard.md) *Scout (3130)* 
+
 #### [Galleon Light Tank](../../units/galleon_light_tank.md) 
 
 - [**Galleon Light Tank GAL-102**](../../units/galleon_light_tank/galleon_light_tank_gal-102.md) *Striker (3048)* 
+
+#### [Garrot Superheavy Transport](../../units/garrot_superheavy_transport.md) 
+
+- [**Garrot Superheavy Transport (Standard)**](../../units/garrot_superheavy_transport/garrot_superheavy_transport_standard.md) *Undefined (3100)* 
 
 #### [Karnov UR Transport](../../units/karnov_ur_transport.md) 
 
 - [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Undefined (2600)* 
 - [**Karnov UR Transport (3055 Upgrade)**](../../units/karnov_ur_transport/karnov_ur_transport_3055_upgrade.md) *Undefined (3055)* 
 - [**Karnov UR Transport (BA)**](../../units/karnov_ur_transport/karnov_ur_transport_ba.md) *Undefined (3063)* 
+
+#### [Kite Reconnaissance Vehicle](../../units/kite_reconnaissance_vehicle.md) 
+
+- [**Kite Reconnaissance Vehicle (Standard)**](../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* 
+
+#### [Skadi Swift Attack VTOL](../../units/skadi_swift_attack_vtol.md) 
+
+- [**Skadi Swift Attack VTOL (Standard)**](../../units/skadi_swift_attack_vtol/skadi_swift_attack_vtol_standard.md) *Striker (3099)* 
 
 #### [Yasha VTOL](../../units/yasha_vtol.md) 
 
@@ -222,9 +268,29 @@
 - [**Chevalier Light Tank (Standard)**](../../units/chevalier_light_tank/chevalier_light_tank_standard.md) *Striker (2690)* 
 - [**Chevalier Light Tank (MML)**](../../units/chevalier_light_tank/chevalier_light_tank_mml.md) *Sniper (3069)* 
 
+#### [Gun Trailer](../../units/gun_trailer.md) 
+
+- [**Gun Trailer (Stronghold)**](../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* 
+- [**Gun Trailer (Siege)**](../../units/gun_trailer/gun_trailer_siege.md) *Missile Boat (3094)* 
+- [**Gun Trailer (LRM)**](../../units/gun_trailer/gun_trailer_lrm.md) *Missile Boat (3095)* 
+- [**Gun Trailer (Artillery/AA)**](../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
+- [**Gun Trailer (Thumper)**](../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
+- [**Gun Trailer (Ultra)**](../../units/gun_trailer/gun_trailer_ultra.md) *Juggernaut (3098)* 
+- [**Gun Trailer (Thunderbolt)**](../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
+- [**Gun Trailer (Sniper Cannon)**](../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Missile Boat (3101)* 
+- [**Gun Trailer (Mjolnir)**](../../units/gun_trailer/gun_trailer_mjolnir.md) *Sniper (3112)* 
+
 #### [Hunter Light Support Tank](../../units/hunter_light_support_tank.md) 
 
 - [**Hunter Light Support Tank (Standard)**](../../units/hunter_light_support_tank/hunter_light_support_tank_standard.md) *Missile Boat (2937)* 
+
+#### [MHI Amphibious APC](../../units/mhi_amphibious_apc.md) 
+
+- [**MHI Amphibious APC (Standard)**](../../units/mhi_amphibious_apc/mhi_amphibious_apc_standard.md) *Scout (3101)* 
+
+#### [MIT24 MASH Vehicle](../../units/mit24_mash_vehicle.md) 
+
+- [**MIT24 MASH Vehicle (Standard)**](../../units/mit24_mash_vehicle/mit24_mash_vehicle_standard.md) *Undefined (3086)* 
 
 #### [Pegasus Scout Hover Tank](../../units/pegasus_scout_hover_tank.md) 
 
@@ -250,16 +316,36 @@
 - [**Saladin Assault Hover Tank (LB-X)**](../../units/saladin_assault_hover_tank/saladin_assault_hover_tank_lb-x.md) *Striker (3061)* 
 - [**Saladin Assault Hover Tank (Ultra)**](../../units/saladin_assault_hover_tank/saladin_assault_hover_tank_ultra.md) *Striker (3064)* 
 
+#### [Saladin Mk II HCV](../../units/saladin_mk_ii_hcv.md) 
+
+- [**Saladin Mk II HCV (Standard)**](../../units/saladin_mk_ii_hcv/saladin_mk_ii_hcv_standard.md) *Striker (3137)* 
+- [**Saladin Mk II HCV (BC3)**](../../units/saladin_mk_ii_hcv/saladin_mk_ii_hcv_bc3.md) *Scout (3138)* 
+
 #### [Saracen Medium Hover Tank](../../units/saracen_medium_hover_tank.md) 
 
 - [**Saracen Medium Hover Tank (Standard)**](../../units/saracen_medium_hover_tank/saracen_medium_hover_tank_standard.md) *Striker (2932)* 
 - [**Saracen Medium Hover Tank (MRM)**](../../units/saracen_medium_hover_tank/saracen_medium_hover_tank_mrm.md) *Striker (3062)* 
+
+#### [Saracen Mk II HCV](../../units/saracen_mk_ii_hcv.md) 
+
+- [**Saracen Mk II HCV (Standard)**](../../units/saracen_mk_ii_hcv/saracen_mk_ii_hcv_standard.md) *Striker (3137)* 
+- [**Saracen Mk II HCV (BC3)**](../../units/saracen_mk_ii_hcv/saracen_mk_ii_hcv_bc3.md) *Scout (3140)* 
 
 #### [Scimitar Medium Hover Tank](../../units/scimitar_medium_hover_tank.md) 
 
 - [**Scimitar Medium Hover Tank (Standard)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_standard.md) *Striker (2937)* 
 - [**Scimitar Medium Hover Tank (TAG)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_tag.md) *Striker (3050)* 
 - [**Scimitar Medium Hover Tank (C3)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* 
+
+#### [Scimitar Mk II HCV](../../units/scimitar_mk_ii_hcv.md) 
+
+- [**Scimitar Mk II HCV (Standard)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_standard.md) *Scout (3105)* 
+- [**Scimitar Mk II HCV (3136 Upgrade)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_3136_upgrade.md) *Striker (3137)* 
+- [**Scimitar Mk II HCV (BC3)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_bc3.md) *Striker (3138)* 
+
+#### [Skanda Light Tank](../../units/skanda_light_tank.md) 
+
+- [**Skanda Light Tank (Standard)**](../../units/skanda_light_tank/skanda_light_tank_standard.md) *Striker (3094)* 
 
 #### [Striker Light Tank](../../units/striker_light_tank.md) 
 
@@ -308,6 +394,10 @@
 
 - [**Phalanx Support Tank (Production)**](../../units/phalanx_support_tank/phalanx_support_tank_production.md) *Sniper (3080)* 
 
+#### [Shillelagh Missile Tank](../../units/shillelagh_missile_tank.md) 
+
+- [**Shillelagh Missile Tank (Standard)**](../../units/shillelagh_missile_tank/shillelagh_missile_tank_standard.md) *Missile Boat (3093)* 
+
 #### [Stygian Strike Tank](../../units/stygian_strike_tank.md) 
 
 - [**Stygian Strike Tank (Standard)**](../../units/stygian_strike_tank/stygian_strike_tank_standard.md) *Missile Boat (3062)* 
@@ -318,6 +408,11 @@
 - [**Zephyr Hovertank (Standard)**](../../units/zephyr_hovertank/zephyr_hovertank_standard.md) *Striker (2621)* 
 
 ### 45 Tons 
+
+#### [Cizin Hover Tank](../../units/cizin_hover_tank.md) 
+
+- [**Cizin Hover Tank (Standard)**](../../units/cizin_hover_tank/cizin_hover_tank_standard.md) *Striker (3097)* 
+- [**Cizin Hover Tank (Support)**](../../units/cizin_hover_tank/cizin_hover_tank_support.md) *Striker (3124)* 
 
 #### [Ranger Armored Fighting Vehicle](../../units/ranger_armored_fighting_vehicle.md) 
 
@@ -333,6 +428,10 @@
 #### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
 
 - [**BattleMech Recovery Vehicle (Standard)**](../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
+#### [Cardinal Transport](../../units/cardinal_transport.md) 
+
+- [**Cardinal Transport (Standard)**](../../units/cardinal_transport/cardinal_transport_standard.md) *Striker (3112)* 
 
 #### [Chaparral Missile Artillery Tank](../../units/chaparral_missile_artillery_tank.md) 
 
@@ -373,12 +472,17 @@
 #### [Maxim Mk II Transport](../../units/maxim_mk_ii_transport.md) 
 
 - [**Maxim Mk II Transport (Standard)**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_standard.md) *Striker (3083)* 
+- [**Maxim Mk II Transport (ECM)**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_ecm.md) *Scout (3087)* 
 
 #### [Musketeer Hover Tank](../../units/musketeer_hover_tank.md) 
 
 - [**Musketeer Hover Tank (Standard)**](../../units/musketeer_hover_tank/musketeer_hover_tank_standard.md) *Striker (3065)* 
 - [**Musketeer Hover Tank (Armor)**](../../units/musketeer_hover_tank/musketeer_hover_tank_armor.md) *Striker (3068)* 
 - [**Musketeer Hover Tank (3080 Upgrade)**](../../units/musketeer_hover_tank/musketeer_hover_tank_3080_upgrade.md) *Striker (3080)* 
+
+#### [Partisan AA Vehicle](../../units/partisan_aa_vehicle.md) 
+
+- [**Partisan AA Vehicle (Standard)**](../../units/partisan_aa_vehicle/partisan_aa_vehicle_standard.md) *Sniper (3110)* 
 
 #### [SM1 Tank Destroyer](../../units/sm1_tank_destroyer.md) 
 
@@ -406,7 +510,20 @@
 - [**Vedette Medium Tank (Light Gauss)**](../../units/vedette_medium_tank/vedette_medium_tank_light_gauss.md) *Sniper (3068)* 
 - [**Vedette Medium Tank (Cell)**](../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* 
 
+#### [Zibler Fast Strike Tank](../../units/zibler_fast_strike_tank.md) 
+
+- [**Zibler Fast Strike Tank (A)**](../../units/zibler_fast_strike_tank/zibler_fast_strike_tank_a.md) *Sniper (3096)* 
+- [**Zibler Fast Strike Tank (B)**](../../units/zibler_fast_strike_tank/zibler_fast_strike_tank_b.md) *Striker (3096)* 
+- [**Zibler Fast Strike Tank (C)**](../../units/zibler_fast_strike_tank/zibler_fast_strike_tank_c.md) *Striker (3096)* 
+- [**Zibler Fast Strike Tank (D)**](../../units/zibler_fast_strike_tank/zibler_fast_strike_tank_d.md) *Sniper (3096)* 
+- [**Zibler Fast Strike Tank (Prime)**](../../units/zibler_fast_strike_tank/zibler_fast_strike_tank_prime.md) *Striker (3096)* 
+
 ### 55 Tons 
+
+#### [Kamakiri Attack VTOL](../../units/kamakiri_attack_vtol.md) 
+
+- [**Kamakiri Attack VTOL (Standard)**](../../units/kamakiri_attack_vtol/kamakiri_attack_vtol_standard.md) *Missile Boat (3100)* 
+- [**Kamakiri Attack VTOL (Gauss)**](../../units/kamakiri_attack_vtol/kamakiri_attack_vtol_gauss.md) *Sniper (3106)* 
 
 #### [Padilla Tube Artillery Tank](../../units/padilla_tube_artillery_tank.md) 
 
@@ -434,10 +551,19 @@
 - [**Bulldog Medium Tank (Standard)**](../../units/bulldog_medium_tank/bulldog_medium_tank_standard.md) *Brawler (2673)* 
 - [**Bulldog Medium Tank (LRM)**](../../units/bulldog_medium_tank/bulldog_medium_tank_lrm.md) *Missile Boat (2793)* 
 - [**Bulldog Medium Tank (AC2)**](../../units/bulldog_medium_tank/bulldog_medium_tank_ac2.md) *Brawler (2812)* 
+- [**Bulldog Medium Tank (Cell)**](../../units/bulldog_medium_tank/bulldog_medium_tank_cell.md) *Brawler (3088)* 
 
 #### [Hi-Scout Drone Carrier](../../units/hi-scout_drone_carrier.md) 
 
 - [**Hi-Scout Drone Carrier (Standard)**](../../units/hi-scout_drone_carrier/hi-scout_drone_carrier_standard.md) *Undefined (3000)* 
+
+#### [JES III Missile Carrier](../../units/jes_iii_missile_carrier.md) 
+
+- [**JES III Missile Carrier (MML)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_mml.md) *Missile Boat (3133)* 
+- [**JES III Missile Carrier (Standard)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_standard.md) *Missile Boat (3133)* 
+- [**JES III Missile Carrier (Thunderbolt)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_thunderbolt.md) *Missile Boat (3133)* 
+- [**JES III Missile Carrier (Speed)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_speed.md) *Missile Boat (3135)* 
+- [**JES III Missile Carrier (C3)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_c3.md) *Missile Boat (3140)* 
 
 #### [Laser Carrier](../../units/laser_carrier.md) 
 
@@ -453,6 +579,14 @@
 - [**Manticore Heavy Tank (C3M)**](../../units/manticore_heavy_tank/manticore_heavy_tank_c3m.md) *Brawler (3063)* 
 - [**Manticore Heavy Tank (C3S)**](../../units/manticore_heavy_tank/manticore_heavy_tank_c3s.md) *Brawler (3063)* 
 - [**Manticore Heavy Tank (HPPC)**](../../units/manticore_heavy_tank/manticore_heavy_tank_hppc.md) *Sniper (3074)* 
+
+#### [MHI Defense AA Tank](../../units/mhi_defense_aa_tank.md) 
+
+- [**MHI Defense AA Tank (Standard)**](../../units/mhi_defense_aa_tank/mhi_defense_aa_tank_standard.md) *Sniper (3106)* 
+
+#### [Mortar Carrier](../../units/mortar_carrier.md) 
+
+- [**Mortar Carrier (Standard)**](../../units/mortar_carrier/mortar_carrier_standard.md) *Missile Boat (3083)* 
 
 #### [MRM Carrier](../../units/mrm_carrier.md) 
 
@@ -491,6 +625,10 @@
 
 - [**Marksman Artillery Vehicle (Light PPC)**](../../units/marksman_artillery_vehicle/marksman_artillery_vehicle_light_ppc.md) *Missile Boat (3068)* 
 
+#### [Sekhmet Assault Vehicle](../../units/sekhmet_assault_vehicle.md) 
+
+- [**Sekhmet Assault Vehicle (Standard)**](../../units/sekhmet_assault_vehicle/sekhmet_assault_vehicle_standard.md) *Brawler (3113)* 
+
 ### 70 Tons 
 
 #### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
@@ -501,6 +639,11 @@
 
 - [**Kinnol MBT (Standard)**](../../units/kinnol_mbt/kinnol_mbt_standard.md) *Skirmisher (3083)* 
 - [**Kinnol MBT (PPC)**](../../units/kinnol_mbt/kinnol_mbt_ppc.md) *Skirmisher (3086)* 
+- [**Kinnol MBT (RAC)**](../../units/kinnol_mbt/kinnol_mbt_rac.md) *Brawler (3122)* 
+
+#### [Mamono IFV](../../units/mamono_ifv.md) 
+
+- [**Mamono IFV (Standard)**](../../units/mamono_ifv/mamono_ifv_standard.md) *Brawler (3095)* 
 
 #### [Shoden Assault Vehicle](../../units/shoden_assault_vehicle.md) 
 
@@ -533,6 +676,11 @@
 #### [Monitor Naval Vessel](../../units/monitor_naval_vessel.md) 
 
 - [**Monitor Naval Vessel (Standard)**](../../units/monitor_naval_vessel/monitor_naval_vessel_standard.md) *Juggernaut (2910)* 
+
+#### [SM2 Heavy Artillery Vehicle](../../units/sm2_heavy_artillery_vehicle.md) 
+
+- [**SM2 Heavy Artillery Vehicle (LTC)**](../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_ltc.md) *Missile Boat (3093)* 
+- [**SM2 Heavy Artillery Vehicle (Standard)**](../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_standard.md) *Missile Boat (3093)* 
 
 #### [Tenmaku Command Trailer](../../units/tenmaku_command_trailer.md) 
 
@@ -602,6 +750,10 @@
 - [**Schrek PPC Carrier (Armor)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
 - [**Schrek PPC Carrier (C3M)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* 
 
+#### [Sniper Artillery](../../units/sniper_artillery.md) 
+
+- [**Sniper Artillery (Standard)**](../../units/sniper_artillery/sniper_artillery_standard.md) *Missile Boat (3094)* 
+
 ### 85 Tons 
 
 #### [Mauna Kea Command Vessel](../../units/mauna_kea_command_vessel.md) 
@@ -620,6 +772,11 @@
 
 - [**Challenger MBT X**](../../units/challenger_mbt/challenger_mbt_x.md) *Juggernaut (3057)* 
 
+#### [Narukami Heavy Tank](../../units/narukami_heavy_tank.md) 
+
+- [**Narukami Heavy Tank NK-1C**](../../units/narukami_heavy_tank/narukami_heavy_tank_nk-1c.md) *Sniper (3097)* 
+- [**Narukami Heavy Tank NK-BC3**](../../units/narukami_heavy_tank/narukami_heavy_tank_nk-bc3.md) *Sniper (3108)* 
+
 ### 95 Tons 
 
 #### [JES II Strategic Missile Carrier](../../units/jes_ii_strategic_missile_carrier.md) 
@@ -627,9 +784,14 @@
 - [**JES II Strategic Missile Carrier (Standard)**](../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_standard.md) *Missile Boat (3079)* 
 - [**JES II Strategic Missile Carrier (Ammo)**](../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_ammo.md) *Missile Boat (3080)* 
 
+#### [Kelswa Assault Tank](../../units/kelswa_assault_tank.md) 
+
+- [**Kelswa Assault Tank (Standard)**](../../units/kelswa_assault_tank/kelswa_assault_tank_standard.md) *Juggernaut (3105)* 
+
 #### [Marksman MBT](../../units/marksman_mbt.md) 
 
 - [**Marksman MBT M1**](../../units/marksman_mbt/marksman_mbt_m1.md) *Juggernaut (3088)* 
+- [**Marksman MBT M1J**](../../units/marksman_mbt/marksman_mbt_m1j.md) *Juggernaut (3128)* 
 
 #### [Ontos Heavy Tank](../../units/ontos_heavy_tank.md) 
 

@@ -83,6 +83,12 @@
 
 - [**Scimitar Medium Hover Tank (C3)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* 
 
+### 40 Tons 
+
+#### [Hasek Mechanized Combat Vehicle](../../units/hasek_mechanized_combat_vehicle.md) 
+
+- [**Hasek Mechanized Combat Vehicle (Standard)**](../../units/hasek_mechanized_combat_vehicle/hasek_mechanized_combat_vehicle_standard.md) *Sniper (3101)* 
+
 ### 45 Tons 
 
 #### [Regulator Hovertank](../../units/regulator_hovertank.md) 
@@ -94,6 +100,10 @@
 #### [Bandit Hovercraft](../../units/bandit_hovercraft.md) 
 
 - [**Bandit Hovercraft Mk 2**](../../units/bandit_hovercraft/bandit_hovercraft_mk_2.md) *Scout (3084)* 
+
+#### [Cardinal Transport](../../units/cardinal_transport.md) 
+
+- [**Cardinal Transport (Standard)**](../../units/cardinal_transport/cardinal_transport_standard.md) *Striker (3112)* 
 
 #### [Chaparral Missile Artillery Tank](../../units/chaparral_missile_artillery_tank.md) 
 
@@ -144,6 +154,7 @@
 
 - [**Kinnol MBT (Standard)**](../../units/kinnol_mbt/kinnol_mbt_standard.md) *Skirmisher (3083)* 
 - [**Kinnol MBT (PPC)**](../../units/kinnol_mbt/kinnol_mbt_ppc.md) *Skirmisher (3086)* 
+- [**Kinnol MBT (RAC)**](../../units/kinnol_mbt/kinnol_mbt_rac.md) *Brawler (3122)* 
 
 #### [Transportable Field Repair Unit](../../units/transportable_field_repair_unit.md) 
 

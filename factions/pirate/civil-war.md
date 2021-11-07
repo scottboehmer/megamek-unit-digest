@@ -40,6 +40,13 @@
 
 - [**Mobile Long Tom Artillery Support Carriage LT-MOB-25**](../../units/mobile_long_tom_artillery_support_carriage/mobile_long_tom_artillery_support_carriage_lt-mob-25.md) *Undefined (2602)* 
 
+### 15 Tons 
+
+#### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
+
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
+
 ### 20 Tons 
 
 #### [Heavy Hover APC](../../units/heavy_hover_apc.md) 

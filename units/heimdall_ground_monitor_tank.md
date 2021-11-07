@@ -71,3 +71,21 @@
 - **Battle Value:** 2131 
 - [*More Info*](heimdall_ground_monitor_tank/heimdall_ground_monitor_tank_c.md) 
 
+## Heimdall Ground Monitor Tank D 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (3092) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 352 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
+  - ER Medium Laser × 3 
+  - Large Chemical Laser × 2 (ammo: 30) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6804/heimdall-ground-monitor-tank-d) 
+- **Battle Value:** 1990 
+- [*More Info*](heimdall_ground_monitor_tank/heimdall_ground_monitor_tank_d.md) 
+

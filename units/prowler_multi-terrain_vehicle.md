@@ -139,3 +139,43 @@
 - **Battle Value:** 598 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_raf.md) 
 
+## Prowler Multi-Terrain Vehicle (Security) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3123) 
+- **Chassis:** 55 tons Tracked 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 112 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - TSEMP 
+  - LRM 10 (ammo: 12) 
+  - SRM 2 (ammo: 50) 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - CASE 
+  - Fully Amphibious Chassis 
+  - Infantry (5.0 tons) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6790/prowler-multi-terrain-vehicle-security) 
+- **Battle Value:** 1079 
+- [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_security.md) 
+
+## Prowler Multi-Terrain Vehicle (3140 Upgrade) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** 55 tons Tracked 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 152 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - TSEMP 
+  - MML 7 (ammo: 17 LRM, 14 SRM) 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - Fully Amphibious Chassis 
+  - Infantry (4.0 tons) 
+- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6789/prowler-multi-terrain-vehicle-3140-upgrade) 
+- **Battle Value:** 1140 
+- [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_3140_upgrade.md) 
+

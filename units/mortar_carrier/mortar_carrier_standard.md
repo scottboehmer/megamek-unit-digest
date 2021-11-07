@@ -1,0 +1,83 @@
+# Mortar Carrier (Standard) 
+
+[Other Mortar Carrier variants](../mortar_carrier.md) 
+
+## Mortar Carrier (Standard) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 89 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - 'Mech Mortar/8 × 3 (ammo: 32) 
+- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6793/mortar-carrier-standard) 
+- **Battle Value:** 517 
+
+## Availability 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Pirate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Pirate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Pirate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+- Taurian Concordat 
+

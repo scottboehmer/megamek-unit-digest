@@ -30,6 +30,10 @@
 - [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
 
+#### [Gun Trailer](../../units/gun_trailer.md) 
+
+- [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
 - [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
@@ -128,6 +132,12 @@
 - [**Balac Strike VTOL (LRM)**](../../units/balac_strike_vtol/balac_strike_vtol_lrm.md) *Missile Boat (3079)* 
 - [**Balac Strike VTOL (Spotter)**](../../units/balac_strike_vtol/balac_strike_vtol_spotter.md) *Striker (3079)* 
 - [**Balac Strike VTOL (Standard)**](../../units/balac_strike_vtol/balac_strike_vtol_standard.md) *Striker (3079)* 
+- [**Balac Strike VTOL (Hybrid)**](../../units/balac_strike_vtol/balac_strike_vtol_hybrid.md) *Striker (3090)* 
+
+#### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
+
+- [**DI Multipurpose VTOL (Gunship)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
+- [**DI Multipurpose VTOL (Standard)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_standard.md) *Scout (3097)* 
 
 #### [Nightshade ECM VTOL](../../units/nightshade_ecm_vtol.md) 
 
@@ -152,7 +162,26 @@
 
 - [**Coolant Truck 135-K**](../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
 
+#### [Kite Reconnaissance Vehicle](../../units/kite_reconnaissance_vehicle.md) 
+
+- [**Kite Reconnaissance Vehicle (Standard)**](../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* 
+
+#### [Skadi Swift Attack VTOL](../../units/skadi_swift_attack_vtol.md) 
+
+- [**Skadi Swift Attack VTOL (Standard)**](../../units/skadi_swift_attack_vtol/skadi_swift_attack_vtol_standard.md) *Striker (3099)* 
+
 ### 35 Tons 
+
+#### [Gun Trailer](../../units/gun_trailer.md) 
+
+- [**Gun Trailer (Stronghold)**](../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* 
+- [**Gun Trailer (Siege)**](../../units/gun_trailer/gun_trailer_siege.md) *Missile Boat (3094)* 
+- [**Gun Trailer (LRM)**](../../units/gun_trailer/gun_trailer_lrm.md) *Missile Boat (3095)* 
+- [**Gun Trailer (Artillery/AA)**](../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
+- [**Gun Trailer (Thumper)**](../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
+- [**Gun Trailer (Ultra)**](../../units/gun_trailer/gun_trailer_ultra.md) *Juggernaut (3098)* 
+- [**Gun Trailer (Thunderbolt)**](../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
+- [**Gun Trailer (Sniper Cannon)**](../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Missile Boat (3101)* 
 
 #### [Indra Infantry Transport](../../units/indra_infantry_transport.md) 
 
@@ -162,12 +191,24 @@
 
 - [**Lightning Attack Hovercraft (Royal)**](../../units/lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) *Striker (2720)* 
 
+#### [MHI Amphibious APC](../../units/mhi_amphibious_apc.md) 
+
+- [**MHI Amphibious APC (Standard)**](../../units/mhi_amphibious_apc/mhi_amphibious_apc_standard.md) *Scout (3101)* 
+
+#### [MIT24 MASH Vehicle](../../units/mit24_mash_vehicle.md) 
+
+- [**MIT24 MASH Vehicle (Standard)**](../../units/mit24_mash_vehicle/mit24_mash_vehicle_standard.md) *Undefined (3086)* 
+
 #### [Plainsman Medium Hovertank](../../units/plainsman_medium_hovertank.md) 
 
 - [**Plainsman Medium Hovertank (Standard)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_standard.md) *Striker (3030)* 
 - [**Plainsman Medium Hovertank (Scout)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_scout.md) *Scout (3065)* 
 - [**Plainsman Medium Hovertank (Streak)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_streak.md) *Striker (3071)* 
 - [**Plainsman Medium Hovertank (Sealed)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_sealed.md) *Striker (3074)* 
+
+#### [Skanda Light Tank](../../units/skanda_light_tank.md) 
+
+- [**Skanda Light Tank (Standard)**](../../units/skanda_light_tank/skanda_light_tank_standard.md) *Striker (3094)* 
 
 #### [Svantovit Infantry Fighting Vehicle](../../units/svantovit_infantry_fighting_vehicle.md) 
 
@@ -209,6 +250,13 @@
 
 ### 45 Tons 
 
+#### [R10 Mechanized ICV](../../units/r10_mechanized_icv.md) 
+
+- [**R10 Mechanized ICV (A)**](../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* 
+- [**R10 Mechanized ICV (B)**](../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* 
+- [**R10 Mechanized ICV (Coolant Truck)**](../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
+- [**R10 Mechanized ICV (Prime)**](../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* 
+
 #### [Tyr Infantry Support Tank](../../units/tyr_infantry_support_tank.md) 
 
 - [**Tyr Infantry Support Tank (Standard)**](../../units/tyr_infantry_support_tank/tyr_infantry_support_tank_standard.md) *Striker (3063)* 
@@ -237,6 +285,7 @@
 
 - [**Eldingar Hover Sled (Standard)**](../../units/eldingar_hover_sled/eldingar_hover_sled_standard.md) *Skirmisher (3081)* 
 - [**Eldingar Hover Sled (Streak)**](../../units/eldingar_hover_sled/eldingar_hover_sled_streak.md) *Skirmisher (3085)* 
+- [**Eldingar Hover Sled 'HumHov'**](../../units/eldingar_hover_sled/eldingar_hover_sled_humhov.md) *Striker (3103)* 
 
 #### [Epona Pursuit Tank](../../units/epona_pursuit_tank.md) 
 
@@ -336,6 +385,7 @@
 
 - [**Kinnol MBT (Standard)**](../../units/kinnol_mbt/kinnol_mbt_standard.md) *Skirmisher (3083)* 
 - [**Kinnol MBT (PPC)**](../../units/kinnol_mbt/kinnol_mbt_ppc.md) *Skirmisher (3086)* 
+- [**Kinnol MBT (RAC)**](../../units/kinnol_mbt/kinnol_mbt_rac.md) *Brawler (3122)* 
 
 #### [Shoden Assault Vehicle](../../units/shoden_assault_vehicle.md) 
 
@@ -372,6 +422,10 @@
 #### [Fury Command Tank](../../units/fury_command_tank.md) 
 
 - [**Fury Command Tank (Royal)**](../../units/fury_command_tank/fury_command_tank_royal.md) *Sniper (2751)* 
+
+#### [Gurzil Support Tank](../../units/gurzil_support_tank.md) 
+
+- [**Gurzil Support Tank (Standard)**](../../units/gurzil_support_tank/gurzil_support_tank_standard.md) *Missile Boat (3126)* 
 
 #### [Morrigu Fire Support Vehicle](../../units/morrigu_fire_support_vehicle.md) 
 

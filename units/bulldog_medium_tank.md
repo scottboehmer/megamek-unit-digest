@@ -48,3 +48,19 @@
 - **Battle Value:** 556 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_ac2.md) 
 
+## Bulldog Medium Tank (Cell) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3088) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 4 / 6, Fuel Cell 
+- **Armor:** 168 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - MML 5 w/ Artemis IV × 2 (ammo: 24 LRM, 20 SRM) 
+  - Machine Gun (ammo: 100) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792/bulldog-medium-tank-cell) 
+- **Battle Value:** 841 
+- [*More Info*](bulldog_medium_tank/bulldog_medium_tank_cell.md) 
+

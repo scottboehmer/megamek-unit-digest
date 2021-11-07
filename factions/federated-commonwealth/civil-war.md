@@ -93,6 +93,11 @@
 
 - [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* 
 
+#### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
+
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
+
 #### [Maultier Hover APC](../../units/maultier_hover_apc.md) 
 
 - [**Maultier Hover APC (Basic)**](../../units/maultier_hover_apc/maultier_hover_apc_basic.md) *Scout (3019)* 
@@ -148,6 +153,10 @@
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+
+#### [Winterhawk APC](../../units/winterhawk_apc.md) 
+
+- [**Winterhawk APC (Standard)**](../../units/winterhawk_apc/winterhawk_apc_standard.md) *Scout (3059)* 
 
 ### 21 Tons 
 

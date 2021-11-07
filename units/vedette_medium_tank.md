@@ -170,3 +170,18 @@
 - **Battle Value:** 599 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_v7.md) 
 
+## Vedette Medium Tank V9 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3105) 
+- **Chassis:** 50 tons Tracked 
+- **Movement:** 5 / 8, Fuel Cell 
+- **Armor:** 96 (Laser Reflective) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+  - MagShot Gauss Rifle × 2 (ammo: 50) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6788/vedette-medium-tank-v9) 
+- **Battle Value:** 1006 
+- [*More Info*](vedette_medium_tank/vedette_medium_tank_v9.md) 
+

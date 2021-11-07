@@ -46,3 +46,20 @@
 - **Battle Value:** 543 
 - [*More Info*](fox_armored_car/fox_armored_car_vsp.md) 
 
+## Fox Armored Car (Interdictor) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3088) 
+- **Chassis:** 20 tons Hover 
+- **Movement:** 14 / 21, XL 
+- **Armor:** 80 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/6749/fox-armored-car-interdictor) 
+- **Battle Value:** 547 
+- [*More Info*](fox_armored_car/fox_armored_car_interdictor.md) 
+

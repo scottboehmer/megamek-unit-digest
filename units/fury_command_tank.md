@@ -98,3 +98,42 @@
 - **Battle Value:** 1336 
 - [*More Info*](fury_command_tank/fury_command_tank_c3m.md) 
 
+## Fury Command Tank (Fury III) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3114) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 218 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Clan RAC/5 (ammo: 60) 
+  - Gauss Rifle (ammo: 16) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - C3 Boosted Slave 
+  - CASE 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6801/fury-command-tank-fury-iii) 
+- **Battle Value:** 1827 
+- [*More Info*](fury_command_tank/fury_command_tank_fury_iii.md) 
+
+## Fury Command Tank (Fury IIIm) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3114) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 208 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Clan RAC/5 (ammo: 60) 
+  - Gauss Rifle (ammo: 16) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - CASE 
+  - C3 BoostedMaster 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802/fury-command-tank-fury-iiim) 
+- **Battle Value:** 1720 
+- [*More Info*](fury_command_tank/fury_command_tank_fury_iiim.md) 
+

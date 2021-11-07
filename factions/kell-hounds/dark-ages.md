@@ -67,6 +67,10 @@
 
 ### 40 Tons 
 
+#### [Hasek Mechanized Combat Vehicle](../../units/hasek_mechanized_combat_vehicle.md) 
+
+- [**Hasek Mechanized Combat Vehicle (Standard)**](../../units/hasek_mechanized_combat_vehicle/hasek_mechanized_combat_vehicle_standard.md) *Sniper (3101)* 
+
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank (Standard)**](../../units/zephyr_hovertank/zephyr_hovertank_standard.md) *Striker (2621)* 
@@ -76,6 +80,10 @@
 #### [Bandit Hovercraft](../../units/bandit_hovercraft.md) 
 
 - [**Bandit Hovercraft Mk 2**](../../units/bandit_hovercraft/bandit_hovercraft_mk_2.md) *Scout (3084)* 
+
+#### [Cardinal Transport](../../units/cardinal_transport.md) 
+
+- [**Cardinal Transport (Standard)**](../../units/cardinal_transport/cardinal_transport_standard.md) *Striker (3112)* 
 
 #### [Chaparral Missile Artillery Tank](../../units/chaparral_missile_artillery_tank.md) 
 
@@ -127,6 +135,7 @@
 
 - [**Kinnol MBT (Standard)**](../../units/kinnol_mbt/kinnol_mbt_standard.md) *Skirmisher (3083)* 
 - [**Kinnol MBT (PPC)**](../../units/kinnol_mbt/kinnol_mbt_ppc.md) *Skirmisher (3086)* 
+- [**Kinnol MBT (RAC)**](../../units/kinnol_mbt/kinnol_mbt_rac.md) *Brawler (3122)* 
 
 #### [Transportable Field Repair Unit](../../units/transportable_field_repair_unit.md) 
 
@@ -172,6 +181,14 @@
 
 - [**Ontos Heavy Tank (MML)**](../../units/ontos_heavy_tank/ontos_heavy_tank_mml.md) *Sniper (3074)* 
 - [**Ontos Heavy Tank (Sealed)**](../../units/ontos_heavy_tank/ontos_heavy_tank_sealed.md) *Juggernaut (3078)* 
+
+### 190 Tons 
+
+#### [Gulltoppr OmniMonitor](../../units/gulltoppr_omnimonitor.md) 
+
+- [**Gulltoppr OmniMonitor (A)**](../../units/gulltoppr_omnimonitor/gulltoppr_omnimonitor_a.md) *Missile Boat (3102)* 
+- [**Gulltoppr OmniMonitor (B)**](../../units/gulltoppr_omnimonitor/gulltoppr_omnimonitor_b.md) *Sniper (3102)* 
+- [**Gulltoppr OmniMonitor (Prime)**](../../units/gulltoppr_omnimonitor/gulltoppr_omnimonitor_prime.md) *Sniper (3102)* 
 
 ## ’Mechs 
 

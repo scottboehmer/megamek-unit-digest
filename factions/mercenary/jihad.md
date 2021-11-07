@@ -117,6 +117,10 @@
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
 
+#### [Winterhawk APC](../../units/winterhawk_apc.md) 
+
+- [**Winterhawk APC (Standard)**](../../units/winterhawk_apc/winterhawk_apc_standard.md) *Scout (3059)* 
+
 ### 21 Tons 
 
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
@@ -519,6 +523,10 @@
 - [**Schrek PPC Carrier (C3M)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* 
 
 ### 85 Tons 
+
+#### [Bulwark Assault Vehicle](../../units/bulwark_assault_vehicle.md) 
+
+- [**Bulwark Assault Vehicle (Original)**](../../units/bulwark_assault_vehicle/bulwark_assault_vehicle_original.md) *Sniper (3068)* 
 
 #### [Mauna Kea Command Vessel](../../units/mauna_kea_command_vessel.md) 
 

@@ -164,6 +164,9 @@ Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
 Hephaestus Jump Tank (AP)
 Nuberu Anti Aircraft Tank 2 'Numantia'
+R10 Mechanized ICV (Coolant Truck)
+Garrot Superheavy Transport (Standard)
+MIT24 MASH Vehicle (Standard)
 
 --------------------------------------------------
-4623 mtf files -> 4623 parsed files -> 4605 converted files -> 4599 validated units
+4782 mtf files -> 4782 parsed files -> 4761 converted files -> 4755 validated units

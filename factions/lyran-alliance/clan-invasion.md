@@ -88,6 +88,11 @@
 
 - [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* 
 
+#### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
+
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
+
 ### 20 Tons 
 
 #### [Centipede Scout Car](../../units/centipede_scout_car.md) 
@@ -133,6 +138,10 @@
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+
+#### [Winterhawk APC](../../units/winterhawk_apc.md) 
+
+- [**Winterhawk APC (Standard)**](../../units/winterhawk_apc/winterhawk_apc_standard.md) *Scout (3059)* 
 
 ### 21 Tons 
 

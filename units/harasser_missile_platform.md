@@ -74,3 +74,31 @@
 - **Battle Value:** 351 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_mini-peggy.md) 
 
+## Harasser Missile Platform (MML) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3087) 
+- **Chassis:** 25 tons Hover 
+- **Movement:** 12 / 18, Fuel Cell 
+- **Armor:** 35 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6751/harasser-missile-platform-mml) 
+- **Battle Value:** 427 
+- [*More Info*](harasser_missile_platform/harasser_missile_platform_mml.md) 
+
+## Harasser Missile Platform (Thunderbolt) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3089) 
+- **Chassis:** 25 tons Hover 
+- **Movement:** 12 / 18, Fuel Cell 
+- **Armor:** 35 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Thunderbolt 5 × 2 (ammo: 24) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6752/harasser-missile-platform-thunderbolt) 
+- **Battle Value:** 541 
+- [*More Info*](harasser_missile_platform/harasser_missile_platform_thunderbolt.md) 
+

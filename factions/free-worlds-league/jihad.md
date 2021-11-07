@@ -68,6 +68,11 @@
 
 - [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* 
 
+#### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
+
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
+
 ### 20 Tons 
 
 #### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
@@ -527,6 +532,10 @@
 - [**Schrek PPC Carrier (C3M)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* 
 
 ### 85 Tons 
+
+#### [Bulwark Assault Vehicle](../../units/bulwark_assault_vehicle.md) 
+
+- [**Bulwark Assault Vehicle (Original)**](../../units/bulwark_assault_vehicle/bulwark_assault_vehicle_original.md) *Sniper (3068)* 
 
 #### [Mauna Kea Command Vessel](../../units/mauna_kea_command_vessel.md) 
 

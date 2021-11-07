@@ -85,3 +85,23 @@
 - **Battle Value:** 983 
 - [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_c.md) 
 
+## Bolla Stealth Tank (RotS) D 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3091) 
+- **Chassis:** 60 tons Wheeled 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 168 (Stealth) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Sniper Cannon (ammo: 0) 
+  - Clan Medium Chemical Laser (ammo: 30) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - C3 Slave 
+  - Infantry (4.0 tons) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6791/bolla-stealth-tank-rots-d) 
+- **Battle Value:** 793 
+- [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_d.md) 
+

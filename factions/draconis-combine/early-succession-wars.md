@@ -198,6 +198,10 @@
 - [**Hetzer Wheeled Assault Gun (Laser)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_laser.md) *Ambusher (2889)* 
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 
+#### [Shillelagh Missile Tank](../../units/shillelagh_missile_tank.md) 
+
+- [**Shillelagh Missile Tank (Original)**](../../units/shillelagh_missile_tank/shillelagh_missile_tank_original.md) *Missile Boat (2859)* 
+
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank (SRM2)**](../../units/zephyr_hovertank/zephyr_hovertank_srm2.md) *Striker (2620)* 

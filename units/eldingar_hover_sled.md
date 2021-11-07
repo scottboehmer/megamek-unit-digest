@@ -36,3 +36,22 @@
 - **Battle Value:** 1843 
 - [*More Info*](eldingar_hover_sled/eldingar_hover_sled_streak.md) 
 
+## Eldingar Hover Sled 'HumHov' 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3103) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - LB 2-X AC (ammo: 45 Standard, 45 Cluster) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Targeting Computer 
+  - Infantry (5.0 tons) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6758/eldingar-hover-sled-hmmhv-humhov) 
+- **Battle Value:** 1124 
+- [*More Info*](eldingar_hover_sled/eldingar_hover_sled_humhov.md) 
+

@@ -206,6 +206,10 @@
 - [**Goblin Medium Tank (SRM)**](../../units/goblin_medium_tank/goblin_medium_tank_srm.md) *Juggernaut (2500)* 
 - [**Goblin Medium Tank (Standard)**](../../units/goblin_medium_tank/goblin_medium_tank_standard.md) *Brawler (2500)* 
 
+#### [Predator Tank Destroyer](../../units/predator_tank_destroyer.md) 
+
+- [**Predator Tank Destroyer (Original)**](../../units/predator_tank_destroyer/predator_tank_destroyer_original.md) *Striker (2942)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 

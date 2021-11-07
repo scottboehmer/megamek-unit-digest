@@ -54,3 +54,20 @@
 - **Battle Value:** 1271 
 - [*More Info*](balac_strike_vtol/balac_strike_vtol_standard.md) 
 
+## Balac Strike VTOL (Hybrid) 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3090) 
+- **Chassis:** 25 tons VTOL 
+- **Movement:** 10 / 15, Fusion 
+- **Armor:** 48 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ATM 6 × 2 (ammo: 20) 
+  - Heavy Machine Gun (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6750/balac-strike-vtol-hybrid) 
+- **Battle Value:** 796 
+- [*More Info*](balac_strike_vtol/balac_strike_vtol_hybrid.md) 
+

@@ -36,3 +36,20 @@
 - **Battle Value:** 828 
 - [*More Info*](maxim_mk_ii_transport/maxim_mk_ii_transport_infantry_support_shiloh.md) 
 
+## Maxim Mk II Transport (ECM) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3087) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 8 / 12, Fusion 
+- **Armor:** 109 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Streak SRM 2 (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Infantry (16.0 tons) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6787/maxim-mk-ii-transport-ecm) 
+- **Battle Value:** 483 
+- [*More Info*](maxim_mk_ii_transport/maxim_mk_ii_transport_ecm.md) 
+

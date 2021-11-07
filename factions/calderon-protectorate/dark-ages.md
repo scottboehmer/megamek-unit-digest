@@ -38,11 +38,20 @@
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
 
+#### [Gun Trailer](../../units/gun_trailer.md) 
+
+- [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
 - [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Armor)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_armor.md) *Undefined (2833)* 
+
+#### [Kruger Combat Car](../../units/kruger_combat_car.md) 
+
+- [**Kruger Combat Car (Original)**](../../units/kruger_combat_car/kruger_combat_car_original.md) *Scout (2620)* 
+- [**Kruger Combat Car (Standard)**](../../units/kruger_combat_car/kruger_combat_car_standard.md) *Scout (3091)* 
 
 #### [Mobile Long Tom Artillery Ammunition Trailer](../../units/mobile_long_tom_artillery_ammunition_trailer.md) 
 
@@ -61,6 +70,13 @@
 - [**Darter Scout Car (SRM)**](../../units/darter_scout_car/darter_scout_car_srm.md) *Scout (2835)* 
 - [**Darter Scout Car (BAP)**](../../units/darter_scout_car/darter_scout_car_bap.md) *Scout (3053)* 
 - [**Darter Scout Car (ECM)**](../../units/darter_scout_car/darter_scout_car_ecm.md) *Scout (3054)* 
+
+### 15 Tons 
+
+#### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
+
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
 
 ### 20 Tons 
 
@@ -107,6 +123,11 @@
 
 ### 25 Tons 
 
+#### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
+
+- [**DI Multipurpose VTOL (Gunship)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
+- [**DI Multipurpose VTOL (Standard)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_standard.md) *Scout (3097)* 
+
 #### [Harasser Missile Platform](../../units/harasser_missile_platform.md) 
 
 - [**Harasser Missile Platform (Standard)**](../../units/harasser_missile_platform/harasser_missile_platform_standard.md) *Striker (2811)* 
@@ -126,6 +147,10 @@
 - [**Scorpion Light Tank (MRM)**](../../units/scorpion_light_tank/scorpion_light_tank_mrm.md) *Brawler (3060)* 
 - [**Scorpion Light Tank (LAC)**](../../units/scorpion_light_tank/scorpion_light_tank_lac.md) *Brawler (3072)* 
 
+#### [Shandra Advanced Scout Vehicle](../../units/shandra_advanced_scout_vehicle.md) 
+
+- [**Shandra Advanced Scout Vehicle (Original)**](../../units/shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_original.md) *Scout (3087)* 
+
 ### 30 Tons 
 
 #### [Coolant Truck](../../units/coolant_truck.md) 
@@ -133,6 +158,10 @@
 - [**Coolant Truck 135-K**](../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
 - [**Coolant Truck (Tracked)**](../../units/coolant_truck/coolant_truck_tracked.md) *Undefined (2592)* 
 - [**Coolant Truck (Hover)**](../../units/coolant_truck/coolant_truck_hover.md) *Undefined (2602)* 
+
+#### [Crane Heavy Transport](../../units/crane_heavy_transport.md) 
+
+- [**Crane Heavy Transport (Standard)**](../../units/crane_heavy_transport/crane_heavy_transport_standard.md) *Scout (3130)* 
 
 #### [Cyrano Gunship](../../units/cyrano_gunship.md) 
 
@@ -146,6 +175,10 @@
 - [**Galleon Light Tank GAL-200**](../../units/galleon_light_tank/galleon_light_tank_gal-200.md) *Scout (2915)* 
 - [**Galleon Light Tank GAL-102**](../../units/galleon_light_tank/galleon_light_tank_gal-102.md) *Striker (3048)* 
 
+#### [Garrot Superheavy Transport](../../units/garrot_superheavy_transport.md) 
+
+- [**Garrot Superheavy Transport (Standard)**](../../units/garrot_superheavy_transport/garrot_superheavy_transport_standard.md) *Undefined (3100)* 
+
 #### [Karnov UR Transport](../../units/karnov_ur_transport.md) 
 
 - [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Undefined (2600)* 
@@ -158,6 +191,18 @@
 - [**Yellow Jacket Gunship (Standard)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_standard.md) *Sniper (3058)* 
 
 ### 35 Tons 
+
+#### [Gun Trailer](../../units/gun_trailer.md) 
+
+- [**Gun Trailer (Stronghold)**](../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* 
+- [**Gun Trailer (Siege)**](../../units/gun_trailer/gun_trailer_siege.md) *Missile Boat (3094)* 
+- [**Gun Trailer (LRM)**](../../units/gun_trailer/gun_trailer_lrm.md) *Missile Boat (3095)* 
+- [**Gun Trailer (Artillery/AA)**](../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
+- [**Gun Trailer (Thumper)**](../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
+- [**Gun Trailer (Ultra)**](../../units/gun_trailer/gun_trailer_ultra.md) *Juggernaut (3098)* 
+- [**Gun Trailer (Thunderbolt)**](../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
+- [**Gun Trailer (Sniper Cannon)**](../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Missile Boat (3101)* 
+- [**Gun Trailer (Mjolnir)**](../../units/gun_trailer/gun_trailer_mjolnir.md) *Sniper (3112)* 
 
 #### [Hunter Light Support Tank](../../units/hunter_light_support_tank.md) 
 
@@ -311,6 +356,10 @@
 #### [Marsden II MBT](../../units/marsden_ii_mbt.md) 
 
 - [**Marsden II MBT II-A (LB-X)**](../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) *Juggernaut (3068)* 
+
+#### [Mortar Carrier](../../units/mortar_carrier.md) 
+
+- [**Mortar Carrier (Standard)**](../../units/mortar_carrier/mortar_carrier_standard.md) *Missile Boat (3083)* 
 
 #### [MRM Carrier](../../units/mrm_carrier.md) 
 

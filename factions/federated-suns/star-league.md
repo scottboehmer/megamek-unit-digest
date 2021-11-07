@@ -38,6 +38,10 @@
 - [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 
+#### [Kruger Combat Car](../../units/kruger_combat_car.md) 
+
+- [**Kruger Combat Car (Original)**](../../units/kruger_combat_car/kruger_combat_car_original.md) *Scout (2620)* 
+
 #### [Mobile Long Tom Artillery Ammunition Trailer](../../units/mobile_long_tom_artillery_ammunition_trailer.md) 
 
 - [**Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25**](../../units/mobile_long_tom_artillery_ammunition_trailer/mobile_long_tom_artillery_ammunition_trailer_lt-mob-25.md) *Undefined (2602)* 

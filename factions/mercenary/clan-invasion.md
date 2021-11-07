@@ -99,6 +99,10 @@
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
 
+#### [Winterhawk APC](../../units/winterhawk_apc.md) 
+
+- [**Winterhawk APC (Standard)**](../../units/winterhawk_apc/winterhawk_apc_standard.md) *Scout (3059)* 
+
 ### 21 Tons 
 
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
