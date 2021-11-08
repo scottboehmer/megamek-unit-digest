@@ -4,16 +4,28 @@
 
 ### 3 Tons 
 
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
 #### [Hi-Scout Drone](../../units/hi-scout_drone.md) 
 
 - [**Hi-Scout Drone (NapFind)**](../../units/hi-scout_drone/hi-scout_drone_napfind.md) *Scout (3000)* 
 - [**Hi-Scout Drone (PathTrak)**](../../units/hi-scout_drone/hi-scout_drone_pathtrak.md) *Scout (3000)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
 
 ### 5 Tons 
 
 #### [Savannah Master Hovercraft](../../units/savannah_master_hovercraft.md) 
 
 - [**Savannah Master Hovercraft (Interdictor)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -38,10 +50,15 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
 
 - [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
+#### [Hover Scout](../../units/hover_scout.md) 
+
+- [**Hover Scout (Standard)**](../../units/hover_scout/hover_scout_standard.md) *Striker (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -105,6 +122,10 @@
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
 
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
 - [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
@@ -135,6 +156,11 @@
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 ### 21 Tons 
 
@@ -243,6 +269,11 @@
 
 - [**Kite Reconnaissance Vehicle (Standard)**](../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* 
 
+#### [Koryu Submarine](../../units/koryu_submarine.md) 
+
+- [**Koryu Submarine (Civilian)**](../../units/koryu_submarine/koryu_submarine_civilian.md) *Undefined (3025)* 
+- [**Koryu Submarine (Military)**](../../units/koryu_submarine/koryu_submarine_military.md) *Undefined (3025)* 
+
 #### [Yasha VTOL](../../units/yasha_vtol.md) 
 
 - [**Yasha VTOL 'Spectre'**](../../units/yasha_vtol/yasha_vtol_spectre.md) *Scout (3085)* 
@@ -292,6 +323,7 @@
 - [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* 
 - [**Pegasus Scout Hover Tank (MRM)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_mrm.md) *Striker (3063)* 
 - [**Pegasus Scout Hover Tank (C3)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) *Striker (3070)* 
+- [**Pegasus Scout Hover Tank X**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_x.md) *Striker (3073)* `Unique` 
 - [**Pegasus Scout Hover Tank (Sealed)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) *Striker (3076)* 
 - [**Pegasus Scout Hover Tank X-Pulse**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_x-pulse.md) *Striker (3086)* 
 
@@ -361,6 +393,7 @@
 - [**Hiryo Armored Infantry Transport (Standard)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_standard.md) *Scout (3069)* 
 - [**Hiryo Armored Infantry Transport (Light PPC)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_light_ppc.md) *Scout (3070)* 
 - [**Hiryo Armored Infantry Transport (MRM)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_mrm.md) *Striker (3070)* 
+- [**Hiryo Armored Infantry Transport 'Hound'**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_hound.md) *Scout (3077)* `Unique` 
 - [**Hiryo Armored Infantry Transport 'BloodHound'**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_bloodhound.md) *Scout (3083)* 
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
@@ -444,6 +477,10 @@
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
 
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
+
 #### [Maxim (I) Heavy Hover Transport](../../units/maxim_i_heavy_hover_transport.md) 
 
 - [**Maxim (I) Heavy Hover Transport (Standard)**](../../units/maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_standard.md) *Striker (3060)* 
@@ -465,6 +502,7 @@
 #### [SM1 Tank Destroyer](../../units/sm1_tank_destroyer.md) 
 
 - [**SM1 Tank Destroyer SM1**](../../units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Missile Boat (3068)* 
+- [**SM1 Tank Destroyer (Telos)**](../../units/sm1_tank_destroyer/sm1_tank_destroyer_telos.md) *Undefined (3077)* 
 
 #### [SM1A Tank Destroyer](../../units/sm1a_tank_destroyer.md) 
 
@@ -573,6 +611,7 @@
 - [**Tokugawa Heavy Tank (C3)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_c3.md) *Brawler (3061)* 
 - [**Tokugawa Heavy Tank (MRM)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_mrm.md) *Juggernaut (3062)* 
 - [**Tokugawa Heavy Tank (Streak)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_streak.md) *Brawler (3063)* 
+- [**Tokugawa Heavy Tank Yumi**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_yumi.md) *Missile Boat (3067)* `Unique` 
 
 ### 65 Tons 
 
@@ -777,6 +816,7 @@
 #### [Neptune Submarine](../../units/neptune_submarine.md) 
 
 - [**Neptune Submarine (Standard)**](../../units/neptune_submarine/neptune_submarine_standard.md) *Undefined (2950)* 
+- [**Neptune Submarine (Hunter-Killer)**](../../units/neptune_submarine/neptune_submarine_hunter-killer.md) *Juggernaut (3024)* 
 
 ### 150 Tons 
 

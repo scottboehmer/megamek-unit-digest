@@ -2,11 +2,25 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft (Standard)**](../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft_standard.md) *Scout (2712)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -31,10 +45,15 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
 
 - [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
+#### [Hover Scout](../../units/hover_scout.md) 
+
+- [**Hover Scout (Standard)**](../../units/hover_scout/hover_scout_standard.md) *Striker (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -102,6 +121,10 @@
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
 
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
 - [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
@@ -124,6 +147,11 @@
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 ### 21 Tons 
 
@@ -336,6 +364,10 @@
 
 - [**JES I Tactical Missile Carrier (Standard)**](../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_standard.md) *Striker (3075)* 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
+
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 

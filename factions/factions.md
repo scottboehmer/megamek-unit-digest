@@ -332,6 +332,7 @@
 - [Early Republic](kell-hounds/early-republic.md) 
 - [Late Republic](kell-hounds/late-republic.md) 
 - [Dark Ages](kell-hounds/dark-ages.md) 
+- [ilClan](kell-hounds/ilclan.md) 
 
 ## Lyran Alliance 
 

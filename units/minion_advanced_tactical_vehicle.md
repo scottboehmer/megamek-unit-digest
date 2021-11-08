@@ -48,6 +48,23 @@
 - **Battle Value:** 456 
 - [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_tag.md) 
 
+## Minion Advanced Tactical Vehicle 'Silver Bullet' 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3072) 
+- **Chassis:** 20 tons Hover 
+- **Movement:** 11 / 17, XL 
+- **Armor:** 88 (Laser Reflective) 
+- **Heat Sinks:** 11 (11) 
+- **Weapons:** 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - Laser Anti-Missile System 
+  - Clan Targeting Computer 
+- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2185/minion-advanced-tactical-vehicle-silver-bullet) 
+- **Battle Value:** 421 
+- [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_silver_bullet.md) 
+
 ## Minion Advanced Tactical Vehicle (Gauss) 'Sandblaster' 
 
 - **Role:** Striker 

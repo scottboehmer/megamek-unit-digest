@@ -4,10 +4,18 @@
 
 ### 3 Tons 
 
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
 #### [Hi-Scout Drone](../../units/hi-scout_drone.md) 
 
 - [**Hi-Scout Drone (NapFind)**](../../units/hi-scout_drone/hi-scout_drone_napfind.md) *Scout (3000)* 
 - [**Hi-Scout Drone (PathTrak)**](../../units/hi-scout_drone/hi-scout_drone_pathtrak.md) *Scout (3000)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
 
 ### 5 Tons 
 
@@ -20,6 +28,10 @@
 - [**Savannah Master Hovercraft (Standard)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
 - [**Savannah Master Hovercraft (SL)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_sl.md) *Scout (3033)* 
 - [**Savannah Master Hovercraft (Interdictor)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -44,10 +56,15 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
 
 - [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
+#### [Hover Scout](../../units/hover_scout.md) 
+
+- [**Hover Scout (Standard)**](../../units/hover_scout/hover_scout_standard.md) *Striker (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -103,6 +120,10 @@
 
 ### 20 Tons 
 
+#### [Centipede Scout Car](../../units/centipede_scout_car.md) 
+
+- [**Centipede Scout Car Commando**](../../units/centipede_scout_car/centipede_scout_car_commando.md) *Scout (3074)* 
+
 #### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
 
 - [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* 
@@ -116,6 +137,10 @@
 - [**Heavy Tracked APC (MG)**](../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* 
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
+
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
 
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
@@ -139,6 +164,7 @@
 #### [Packrat LRPV](../../units/packrat_lrpv.md) 
 
 - [**Packrat LRPV PKR-T5**](../../units/packrat_lrpv/packrat_lrpv_pkr-t5.md) *Scout (2650)* 
+- [**Packrat LRPV 'Gespenst'**](../../units/packrat_lrpv/packrat_lrpv_gespenst.md) *Scout (3073)* 
 
 #### [Pandion Combat WiGE](../../units/pandion_combat_wige.md) 
 
@@ -158,6 +184,11 @@
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
 - [**Warrior Attack Helicopter H-9**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-9.md) *Scout (3068)* 
 - [**Warrior Attack Helicopter H-10**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-10.md) *Scout (3070)* 
+
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 #### [Winterhawk APC](../../units/winterhawk_apc.md) 
 
@@ -512,6 +543,10 @@
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
 
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
+
 #### [Maxim (I) Heavy Hover Transport](../../units/maxim_i_heavy_hover_transport.md) 
 
 - [**Maxim (I) Heavy Hover Transport (Standard)**](../../units/maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_standard.md) *Striker (3060)* 
@@ -543,6 +578,7 @@
 - [**Vedette Medium Tank (NETC)**](../../units/vedette_medium_tank/vedette_medium_tank_netc.md) *Sniper (3056)* 
 - [**Vedette Medium Tank (RAC)**](../../units/vedette_medium_tank/vedette_medium_tank_rac.md) *Striker (3067)* 
 - [**Vedette Medium Tank (Light Gauss)**](../../units/vedette_medium_tank/vedette_medium_tank_light_gauss.md) *Sniper (3068)* 
+- [**Vedette Medium Tank V-G7X**](../../units/vedette_medium_tank/vedette_medium_tank_v-g7x.md) *Skirmisher (3074)* `Unique` 
 - [**Vedette Medium Tank (Cell)**](../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* 
 - [**Vedette Medium Tank V7**](../../units/vedette_medium_tank/vedette_medium_tank_v7.md) *Brawler (3084)* 
 
@@ -587,6 +623,7 @@
 #### [Hi-Scout Drone Carrier](../../units/hi-scout_drone_carrier.md) 
 
 - [**Hi-Scout Drone Carrier (Standard)**](../../units/hi-scout_drone_carrier/hi-scout_drone_carrier_standard.md) *Undefined (3000)* 
+- [**Hi-Scout Drone Carrier (Cunnington)**](../../units/hi-scout_drone_carrier/hi-scout_drone_carrier_cunnington.md) *Scout (3077)* 
 
 #### [Laser Carrier](../../units/laser_carrier.md) 
 
@@ -650,6 +687,7 @@
 - [**Rommel Tank (Standard)**](../../units/rommel_tank/rommel_tank_standard.md) *Juggernaut (3027)* 
 - [**Rommel Tank (Gauss)**](../../units/rommel_tank/rommel_tank_gauss.md) *Brawler (3054)* 
 - [**Rommel Tank (Sealed)**](../../units/rommel_tank/rommel_tank_sealed.md) *Sniper (3076)* 
+- [**Rommel Tank (Howitzer) Prototype**](../../units/rommel_tank/rommel_tank_howitzer_prototype.md) *Brawler (3077)* `Unique` 
 - [**Rommel Tank (Howitzer) Production**](../../units/rommel_tank/rommel_tank_howitzer_production.md) *Brawler (3087)* 
 
 ### 70 Tons 
@@ -745,6 +783,7 @@
 - [**Fensalir Combat WiGE (HAG)**](../../units/fensalir_combat_wige/fensalir_combat_wige_hag.md) *Skirmisher (3084)* 
 - [**Fensalir Combat WiGE (Infantry)**](../../units/fensalir_combat_wige/fensalir_combat_wige_infantry.md) *Skirmisher (3084)* 
 - [**Fensalir Combat WiGE (Standard)**](../../units/fensalir_combat_wige/fensalir_combat_wige_standard.md) *Skirmisher (3084)* 
+- [**Fensalir Combat WiGE (XXL)**](../../units/fensalir_combat_wige/fensalir_combat_wige_xxl.md) *Skirmisher (3084)* 
 
 #### [Fortune Wheeled Assault Vehicle](../../units/fortune_wheeled_assault_vehicle.md) 
 
@@ -863,6 +902,10 @@
 - [**Behemoth Heavy Tank (Standard)**](../../units/behemoth_heavy_tank/behemoth_heavy_tank_standard.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Flamer)**](../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
 - [**Behemoth Heavy Tank (Kurita)**](../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
+
+#### [Demolisher Heavy Tank](../../units/demolisher_heavy_tank.md) 
+
+- [**Demolisher Heavy Tank II-X**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_ii-x.md) *Sniper (3077)* `Unique` 
 
 #### [Demolisher II Heavy Tank](../../units/demolisher_ii_heavy_tank.md) 
 

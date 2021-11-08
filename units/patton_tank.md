@@ -33,3 +33,22 @@
 - **Battle Value:** 1160 
 - [*More Info*](patton_tank/patton_tank_ultra.md) 
 
+## Patton Tank -SB 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3079) 
+- **Chassis:** 65 tons Tracked 
+- **Movement:** 4 / 6 (8), XL 
+- **Armor:** 228 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Silver Bullet (ammo: 24) 
+  - ER Medium Laser × 2 
+  - LRM 5 (ammo: 24) 
+- **Equipment:** 
+  - Environmentally Sealed Chassis 
+  - Supercharger 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5569/patton-tank--sb) 
+- **Battle Value:** 1387 
+- [*More Info*](patton_tank/patton_tank_-sb.md) 
+

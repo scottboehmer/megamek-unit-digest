@@ -17,6 +17,22 @@
 - **Battle Value:** 993 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_standard.md) 
 
+## Manticore Heavy Tank EC 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2823) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 4 / 6, Fusion 
+- **Armor:** 184 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Clan Enhanced PPC 
+  - Clan Improved LRM 10 (ammo: 24) 
+  - SRM 6 (ammo: 15) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7675/manticore-heavy-tank-ec) 
+- **Battle Value:** 1147 
+- [*More Info*](manticore_heavy_tank/manticore_heavy_tank_ec.md) 
+
 ## Manticore Heavy Tank (3055 Upgrade) 
 
 - **Role:** Brawler 

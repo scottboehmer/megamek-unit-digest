@@ -142,6 +142,10 @@
 
 - [**Stygian Strike Tank (Standard)**](../../units/stygian_strike_tank/stygian_strike_tank_standard.md) *Missile Boat (3062)* 
 
+#### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
+
+- [**Zephyr Hovertank EC**](../../units/zephyr_hovertank/zephyr_hovertank_ec.md) *Undefined (2820)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
@@ -169,6 +173,10 @@
 
 - [**Ku Wheeled Assault Tank (Standard)**](../../units/ku_wheeled_assault_tank/ku_wheeled_assault_tank_standard.md) *Brawler (2842)* 
 
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
+
 #### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 
 - [**Maxim Heavy Hover Transport (Clan)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_clan.md) *Striker (3059)* 
@@ -176,6 +184,12 @@
 #### [Vedette Medium Tank](../../units/vedette_medium_tank.md) 
 
 - [**Vedette Medium Tank (Standard)**](../../units/vedette_medium_tank/vedette_medium_tank_standard.md) *Brawler (2943)* 
+
+### 55 Tons 
+
+#### [Tiger Medium Tank](../../units/tiger_medium_tank.md) 
+
+- [**Tiger Medium Tank T-12**](../../units/tiger_medium_tank/tiger_medium_tank_t-12.md) *Brawler (2478)* 
 
 ### 60 Tons 
 
@@ -219,6 +233,10 @@
 #### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
 
 ### 75 Tons 
 

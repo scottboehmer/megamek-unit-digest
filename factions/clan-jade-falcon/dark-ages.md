@@ -2,6 +2,22 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
+### 5 Tons 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
+
 ### 10 Tons 
 
 #### [Armored Personnel Carrier](../../units/armored_personnel_carrier.md) 
@@ -70,6 +86,10 @@
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
 
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
 - [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
@@ -92,6 +112,11 @@
 #### [Odin Scout Tank](../../units/odin_scout_tank.md) 
 
 - [**Odin Scout Tank (Standard)**](../../units/odin_scout_tank/odin_scout_tank_standard.md) *Striker (2844)* 
+
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 ### 21 Tons 
 
@@ -136,6 +161,10 @@
 #### [Skadi Swift Attack VTOL](../../units/skadi_swift_attack_vtol.md) 
 
 - [**Skadi Swift Attack VTOL (Standard)**](../../units/skadi_swift_attack_vtol/skadi_swift_attack_vtol_standard.md) *Striker (3099)* 
+
+#### [Tribune Mobile Tactical Command HQ](../../units/tribune_mobile_tactical_command_hq.md) 
+
+- [**Tribune Mobile Tactical Command HQ (Standard)**](../../units/tribune_mobile_tactical_command_hq/tribune_mobile_tactical_command_hq_standard.md) *Scout (3091)* 
 
 ### 35 Tons 
 
@@ -318,6 +347,10 @@
 
 - [**Pike Support Vehicle (Clan)**](../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 
+#### [Praetorian Mobile Strategic Command HQ](../../units/praetorian_mobile_strategic_command_hq.md) 
+
+- [**Praetorian Mobile Strategic Command HQ (Standard)**](../../units/praetorian_mobile_strategic_command_hq/praetorian_mobile_strategic_command_hq_standard.md) *Scout (3091)* 
+
 #### [SRM Carrier](../../units/srm_carrier.md) 
 
 - [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
@@ -347,6 +380,10 @@
 #### [Kinnol MBT](../../units/kinnol_mbt.md) 
 
 - [**Kinnol MBT (Standard)**](../../units/kinnol_mbt/kinnol_mbt_standard.md) *Skirmisher (3083)* 
+
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
 
 ### 75 Tons 
 

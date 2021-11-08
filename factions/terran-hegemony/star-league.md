@@ -2,11 +2,21 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft (Standard)**](../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft_standard.md) *Scout (2712)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -96,6 +106,11 @@
 
 - [**Skulker Wheeled Scout Tank (Standard)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
 
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
+
 ### 25 Tons 
 
 #### [J. Edgar Light Hover Tank](../../units/j._edgar_light_hover_tank.md) 
@@ -150,6 +165,10 @@
 - [**Engineering Vehicle (Flamer)**](../../units/engineering_vehicle/engineering_vehicle_flamer.md) *Scout (2570)* 
 - [**Engineering Vehicle (Standard)**](../../units/engineering_vehicle/engineering_vehicle_standard.md) *Undefined (2570)* 
 
+#### [Vali Artillery Vehicle](../../units/vali_artillery_vehicle.md) 
+
+- [**Vali Artillery Vehicle (Standard)**](../../units/vali_artillery_vehicle/vali_artillery_vehicle_standard.md) *Missile Boat (2600)* 
+
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank (SRM2)**](../../units/zephyr_hovertank/zephyr_hovertank_srm2.md) *Striker (2620)* 
@@ -185,6 +204,10 @@
 
 - [**Korvin Tank KRV-3**](../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
 
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
+
 #### [Manta Fast Attack Submarine](../../units/manta_fast_attack_submarine.md) 
 
 - [**Manta Fast Attack Submarine (Standard)**](../../units/manta_fast_attack_submarine/manta_fast_attack_submarine_standard.md) *Scout (2698)* 
@@ -204,6 +227,10 @@
 
 ### 55 Tons 
 
+#### [Ballista Self-Propelled Artillery Tank](../../units/ballista_self-propelled_artillery_tank.md) 
+
+- [**Ballista Self-Propelled Artillery Tank (Standard)**](../../units/ballista_self-propelled_artillery_tank/ballista_self-propelled_artillery_tank_standard.md) *Missile Boat (2480)* 
+
 #### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
 
 - [**Prowler Multi-Terrain Vehicle (Standard)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_standard.md) *Brawler (2611)* 
@@ -212,6 +239,10 @@
 #### [Thor Artillery Vehicle](../../units/thor_artillery_vehicle.md) 
 
 - [**Thor Artillery Vehicle (Standard)**](../../units/thor_artillery_vehicle/thor_artillery_vehicle_standard.md) *Missile Boat (2680)* 
+
+#### [Tiger Medium Tank](../../units/tiger_medium_tank.md) 
+
+- [**Tiger Medium Tank T-12**](../../units/tiger_medium_tank/tiger_medium_tank_t-12.md) *Brawler (2478)* 
 
 ### 60 Tons 
 
@@ -257,6 +288,10 @@
 
 ### 70 Tons 
 
+#### [Gallant Urban Assault Tank](../../units/gallant_urban_assault_tank.md) 
+
+- [**Gallant Urban Assault Tank (Standard)**](../../units/gallant_urban_assault_tank/gallant_urban_assault_tank_standard.md) *Juggernaut (2574)* 
+
 #### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
@@ -270,6 +305,7 @@
 #### [Burke Defense Tank](../../units/burke_defense_tank.md) 
 
 - [**Burke Defense Tank (Standard)**](../../units/burke_defense_tank/burke_defense_tank_standard.md) *Sniper (2580)* 
+- [**Burke Defense Tank (Royal)**](../../units/burke_defense_tank/burke_defense_tank_royal.md) *Sniper (2713)* 
 
 #### [Merkava Heavy Tank](../../units/merkava_heavy_tank.md) 
 
@@ -283,9 +319,14 @@
 
 - [**Padilla Heavy Artillery Tank (Standard)**](../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) *Missile Boat (2620)* 
 
+#### [Pollux ADA Heavy Tank](../../units/pollux_ada_heavy_tank.md) 
+
+- [**Pollux ADA Heavy Tank (Standard)**](../../units/pollux_ada_heavy_tank/pollux_ada_heavy_tank_standard.md) *Missile Boat (2710)* 
+
 #### [Von Luckner Heavy Tank](../../units/von_luckner_heavy_tank.md) 
 
 - [**Von Luckner Heavy Tank VNL-K65N**](../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
+- [**Von Luckner Heavy Tank (Star League)**](../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_star_league.md) *Brawler (2683)* 
 
 ### 80 Tons 
 
@@ -315,6 +356,8 @@
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
+- [**Puma Assault Tank PAT-001**](../../units/puma_assault_tank/puma_assault_tank_pat-001.md) *Undefined (2650)* 
+- [**Puma Assault Tank PAT-002**](../../units/puma_assault_tank/puma_assault_tank_pat-002.md) *Undefined (2657)* 
 - [**Puma Assault Tank PAT-005**](../../units/puma_assault_tank/puma_assault_tank_pat-005.md) *Missile Boat (2681)* 
 
 ### 140 Tons 

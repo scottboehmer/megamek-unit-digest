@@ -2,11 +2,25 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft (Standard)**](../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft_standard.md) *Scout (2712)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -89,6 +103,10 @@
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
 
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
 - [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
@@ -117,6 +135,11 @@
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 ### 21 Tons 
 
@@ -165,6 +188,10 @@
 #### [Kite Reconnaissance Vehicle](../../units/kite_reconnaissance_vehicle.md) 
 
 - [**Kite Reconnaissance Vehicle (Standard)**](../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* 
+
+#### [Quaestor Mobile Tactical Command HQ](../../units/quaestor_mobile_tactical_command_hq.md) 
+
+- [**Quaestor Mobile Tactical Command HQ (Standard)**](../../units/quaestor_mobile_tactical_command_hq/quaestor_mobile_tactical_command_hq_standard.md) *Scout (3095)* 
 
 #### [Skadi Swift Attack VTOL](../../units/skadi_swift_attack_vtol.md) 
 
@@ -386,6 +413,10 @@
 - [**Kinnol MBT (Standard)**](../../units/kinnol_mbt/kinnol_mbt_standard.md) *Skirmisher (3083)* 
 - [**Kinnol MBT (PPC)**](../../units/kinnol_mbt/kinnol_mbt_ppc.md) *Skirmisher (3086)* 
 - [**Kinnol MBT (RAC)**](../../units/kinnol_mbt/kinnol_mbt_rac.md) *Brawler (3122)* 
+
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
 
 #### [Shoden Assault Vehicle](../../units/shoden_assault_vehicle.md) 
 

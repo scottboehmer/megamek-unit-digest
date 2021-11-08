@@ -47,6 +47,25 @@
 - **Battle Value:** 1255 
 - [*More Info*](fury_command_tank/fury_command_tank_royal.md) 
 
+## Fury Command Tank CX-17 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 224 (Reactive) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LB 5-X AC × 2 (ammo: 20) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Command Console 
+  - Drone Control System 
+  - Hitch 
+- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5556/fury-command-tank-cx-17) 
+- **Battle Value:** 1020 
+- [*More Info*](fury_command_tank/fury_command_tank_cx-17.md) 
+
 ## Fury Command Tank (Standard) 
 
 - **Role:** Sniper 

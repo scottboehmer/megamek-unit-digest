@@ -2,6 +2,18 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
+### 5 Tons 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
+
 ### 10 Tons 
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
@@ -145,6 +157,7 @@
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank (Royal)**](../../units/zephyr_hovertank/zephyr_hovertank_royal.md) *Striker (2621)* 
+- [**Zephyr Hovertank EC**](../../units/zephyr_hovertank/zephyr_hovertank_ec.md) *Undefined (2820)* 
 
 ### 50 Tons 
 
@@ -204,6 +217,11 @@
 #### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
+- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
 
 ### 75 Tons 
 

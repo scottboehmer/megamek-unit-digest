@@ -1,5 +1,8 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to convert data from 'Jeep (Standard).blk': Unrecognized component type: ISOffRoadChassis
+Unable to convert data from 'Rhino Fire Support Tank EC (Standard).blk': Unrecognized component type: Bulldozer
+Unable to convert data from 'Wheeled Scout (Camera).blk': Unrecognized component type: ISReconCamera
 
 --------------------------------------------------
 Unrecognized Components:
@@ -127,6 +130,19 @@ Vulcan VT-5ML 'Aladdin'
 Vulpes VLP-1DX 'Beast'
 Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
+Puma Assault Tank PAT-001
+Puma Assault Tank PAT-002
+Falcon Hover Tank (Standard)
+Ground Car (Standard)
+Heavy Transport B1 (Standard)
+Hover Tank (Standard)
+Jet Sled (Standard)
+M.A.S.H. Truck (Small)
+Mobile Long Tom Artillery (Unofficial) (+ Carriage)
+Skimmer (Standard)
+Speeder (Standard)
+Weapons Carrier A (LL)
+Wheeled Scout (Standard)
 Coolant Truck (Hover)
 Coolant Truck (Tracked)
 Demolisher Heavy Tank (Standard Mk. I)
@@ -162,11 +178,27 @@ Marsden II MBT (Standard)
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
-Hephaestus Jump Tank (AP)
-Nuberu Anti Aircraft Tank 2 'Numantia'
 R10 Mechanized ICV (Coolant Truck)
 Garrot Superheavy Transport (Standard)
 MIT24 MASH Vehicle (Standard)
+Mobile Tactical Command HQ (Standard)
+Kokou Defense Tank (Standard)
+Manticore Heavy Tank EC
+Zephyr Hovertank EC
+Vector (Scout)
+Wheeled Scout (Sensors)
+Wheeled Scout (Standard)
+Hephaestus Jump Tank (AP)
+Nuberu Anti Aircraft Tank 2 'Numantia'
+SM5 Field Commander Prime
+Packrat LRPV PKR-T5 (TOC)
+Desert Scorpion Light Tank (Standard)
+Koryu Submarine (Civilian)
+Koryu Submarine (Military)
+SturmFeur 'Kalki' Cruise Missile Launcher (Standard)
+Karnov UR Transport (Heavy Stealth)
+Patton Tank -SB
+SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-4782 mtf files -> 4782 parsed files -> 4761 converted files -> 4755 validated units
+5118 mtf files -> 5118 parsed files -> 4895 converted files -> 4887 validated units

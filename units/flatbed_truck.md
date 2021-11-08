@@ -72,3 +72,31 @@
 - **Battle Value:** 34 
 - [*More Info*](flatbed_truck/flatbed_truck_standard.md) 
 
+## Flatbed Truck (LRM) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2801) 
+- **Chassis:** 10 tons Wheeled 
+- **Movement:** 5 / 8, ICE 
+- **Armor:** 8 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LRM 10 (ammo: 12) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1130/flatbed-truck-lrm) 
+- **Battle Value:** 172 
+- [*More Info*](flatbed_truck/flatbed_truck_lrm.md) 
+
+## Flatbed Truck (RL) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2801) 
+- **Chassis:** 10 tons Wheeled 
+- **Movement:** 5 / 8, ICE 
+- **Armor:** 40 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Clan Prototype Rocket 15 × 4 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1132/flatbed-truck-rl) 
+- **Battle Value:** 232 
+- [*More Info*](flatbed_truck/flatbed_truck_rl.md) 
+

@@ -78,6 +78,24 @@
 - **Battle Value:** 615 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) 
 
+## Cavalry Attack Helicopter Cadence Rain 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 25 tons VTOL 
+- **Movement:** 10 / 15 (20), Fusion 
+- **Armor:** 64 (Stealth) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - MagShot Gauss Rifle × 3 (ammo: 50) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Jet Booster 
+  - Infantry (4.0 tons) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/508/cavalry-attack-helicopter-cadence-rain) 
+- **Battle Value:** 451 
+- [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_cadence_rain.md) 
+
 ## Cavalry Attack Helicopter (Infiltrator) 
 
 - **Role:** Scout 

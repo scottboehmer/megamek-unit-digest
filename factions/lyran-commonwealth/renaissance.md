@@ -4,10 +4,18 @@
 
 ### 3 Tons 
 
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
 #### [Hi-Scout Drone](../../units/hi-scout_drone.md) 
 
 - [**Hi-Scout Drone (NapFind)**](../../units/hi-scout_drone/hi-scout_drone_napfind.md) *Scout (3000)* 
 - [**Hi-Scout Drone (PathTrak)**](../../units/hi-scout_drone/hi-scout_drone_pathtrak.md) *Scout (3000)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
 
 ### 5 Tons 
 
@@ -21,6 +29,10 @@
 
 - [**Savannah Master Hovercraft (Standard)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
 - [**Savannah Master Hovercraft (SL)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_sl.md) *Scout (3033)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -45,6 +57,10 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+
+#### [Hover Scout](../../units/hover_scout.md) 
+
+- [**Hover Scout (Standard)**](../../units/hover_scout/hover_scout_standard.md) *Striker (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -83,6 +99,10 @@
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
 
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
 - [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
@@ -98,12 +118,18 @@
 
 - [**Packrat LRPV PKR-T5**](../../units/packrat_lrpv/packrat_lrpv_pkr-t5.md) *Scout (2650)* 
 - [**Packrat LRPV PKR-T5 (ICE)**](../../units/packrat_lrpv/packrat_lrpv_pkr-t5_ice.md) *Scout (2846)* 
+- [**Packrat LRPV PKR-T5 (TOC)**](../../units/packrat_lrpv/packrat_lrpv_pkr-t5_toc.md) *Undefined (3050)* `Unique` 
 
 #### [Skulker Wheeled Scout Tank](../../units/skulker_wheeled_scout_tank.md) 
 
 - [**Skulker Wheeled Scout Tank (Standard)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
 - [**Skulker Wheeled Scout Tank (MG)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_mg.md) *Scout (2897)* 
 - [**Skulker Wheeled Scout Tank (SRM)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_srm.md) *Scout (2901)* 
+
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 ### 21 Tons 
 
@@ -138,6 +164,10 @@
 - [**Sea Skimmer Hydrofoil (SRM2)**](../../units/sea_skimmer_hydrofoil/sea_skimmer_hydrofoil_srm2.md) *Scout (2867)* 
 - [**Sea Skimmer Hydrofoil (SRM6)**](../../units/sea_skimmer_hydrofoil/sea_skimmer_hydrofoil_srm6.md) *Scout (2867)* 
 - [**Sea Skimmer Hydrofoil (Standard)**](../../units/sea_skimmer_hydrofoil/sea_skimmer_hydrofoil_standard.md) *Scout (2867)* 
+
+#### [Weapons Carrier A](../../units/weapons_carrier_a.md) 
+
+- [**Weapons Carrier A (LL)**](../../units/weapons_carrier_a/weapons_carrier_a_ll.md) *Undefined (2925)* 
 
 ### 30 Tons 
 
@@ -243,6 +273,14 @@
 - [**Drillson Heavy Hover Tank (SRM)**](../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 - [**Drillson Heavy Hover Tank (ERLL)**](../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_erll.md) *Sniper (3039)* 
 
+#### [Falcon Hover Tank](../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank (Standard)**](../../units/falcon_hover_tank/falcon_hover_tank_standard.md) *Undefined (3023)* 
+
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
+
 #### [Manta Fast Attack Submarine](../../units/manta_fast_attack_submarine.md) 
 
 - [**Manta Fast Attack Submarine (Standard)**](../../units/manta_fast_attack_submarine/manta_fast_attack_submarine_standard.md) *Scout (2698)* 
@@ -259,6 +297,10 @@
 - [**Vedette Medium Tank (AC2)**](../../units/vedette_medium_tank/vedette_medium_tank_ac2.md) *Brawler (2962)* 
 
 ### 55 Tons 
+
+#### [Ballista Self-Propelled Artillery Tank](../../units/ballista_self-propelled_artillery_tank.md) 
+
+- [**Ballista Self-Propelled Artillery Tank (Standard)**](../../units/ballista_self-propelled_artillery_tank/ballista_self-propelled_artillery_tank_standard.md) *Missile Boat (2480)* 
 
 #### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
 

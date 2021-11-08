@@ -79,3 +79,20 @@
 - **Battle Value:** 709 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_rl.md) 
 
+## Lightning Attack Hovercraft CX-3 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 35 tons Hover 
+- **Movement:** 11 / 17, Fusion 
+- **Armor:** 32 (Stealth) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser 
+  - Rocket 15 × 6 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5554/lightning-attack-hovercraft-cx-3) 
+- **Battle Value:** 687 
+- [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_cx-3.md) 
+

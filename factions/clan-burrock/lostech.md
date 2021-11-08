@@ -2,6 +2,18 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
+### 5 Tons 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
+
 ### 10 Tons 
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
@@ -110,6 +122,10 @@
 - [**Demon Tank (Standard)**](../../units/demon_tank/demon_tank_standard.md) *Brawler (2716)* 
 - [**Demon Tank (Royal)**](../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
 
+#### [Manticore Heavy Tank](../../units/manticore_heavy_tank.md) 
+
+- [**Manticore Heavy Tank EC**](../../units/manticore_heavy_tank/manticore_heavy_tank_ec.md) *Undefined (2823)* 
+
 #### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
 
 - [**Thumper Artillery Vehicle (Standard)**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_standard.md) *Missile Boat (2734)* 
@@ -125,6 +141,11 @@
 #### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
+- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
 
 ### 75 Tons 
 

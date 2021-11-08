@@ -101,3 +101,38 @@
 - **Battle Value:** 921 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_streak.md) 
 
+## Tokugawa Heavy Tank Yumi 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** 60 tons Wheeled 
+- **Movement:** 5 / 8, XXL 
+- **Armor:** 163 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ELRM 15 (ammo: 12) 
+  - HVAC/10 (ammo: 16) 
+- **Equipment:** 
+  - C3 Slave 
+- **Sources:** XTRO Kurita - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3267/tokugawa-heavy-tank-yumi) 
+- **Battle Value:** 1125 
+- [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_yumi.md) 
+
+## Tokugawa Heavy Tank SD2 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 60 tons Wheeled 
+- **Movement:** 4 / 6, Fusion 
+- **Armor:** 168 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 20) 
+  - Streak SRM 4 × 2 (ammo: 25) 
+  - Flamer 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+- **Sources:** JTP:Atreus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3262/tokugawa-heavy-tank-sd2) 
+- **Battle Value:** 961 
+- [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_sd2.md) 
+

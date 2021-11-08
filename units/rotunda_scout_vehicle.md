@@ -15,3 +15,45 @@
 - **Battle Value:** 400 
 - [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11.md) 
 
+## Rotunda Scout Vehicle RND-J-1-11 (LRM) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2801) 
+- **Chassis:** 20 tons Wheeled 
+- **Movement:** 8 / 12, ICE 
+- **Armor:** 32 (Ferro Fibrous) 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LRM 5 × 2 (ammo: 24) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2746/rotunda-scout-vehicle-rnd-j-1-11-lrm) 
+- **Battle Value:** 303 
+- [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_lrm.md) 
+
+## Rotunda Scout Vehicle RND-J-1-11 (RL) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2801) 
+- **Chassis:** 20 tons Wheeled 
+- **Movement:** 8 / 12, ICE 
+- **Armor:** 32 (Ferro Fibrous) 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Clan Prototype Rocket 15 × 5 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2747/rotunda-scout-vehicle-rnd-j-1-11-rl) 
+- **Battle Value:** 320 
+- [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_rl.md) 
+
+## Rotunda Scout Vehicle RND-J-1-11 (SRM) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2801) 
+- **Chassis:** 20 tons Wheeled 
+- **Movement:** 8 / 12, ICE 
+- **Armor:** 32 (Ferro Fibrous) 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - SRM 2 × 4 (ammo: 50) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2748/rotunda-scout-vehicle-rnd-j-1-11-srm) 
+- **Battle Value:** 286 
+- [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_srm.md) 
+

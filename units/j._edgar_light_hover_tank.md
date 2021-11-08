@@ -60,6 +60,21 @@
 - **Battle Value:** 433 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_ice.md) 
 
+## J. Edgar Light Hover Tank (Cell) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2998) 
+- **Chassis:** 25 tons Hover 
+- **Movement:** 11 / 17, Fuel Cell 
+- **Armor:** 104 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Light Rifle (ammo: 18) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5774/j-edgar-light-hover-tank-cell) 
+- **Battle Value:** 398 
+- [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_cell.md) 
+
 ## J. Edgar Light Hover Tank (Kurita) 
 
 - **Role:** Striker 

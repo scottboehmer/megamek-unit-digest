@@ -2,6 +2,18 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
+### 5 Tons 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
+
 ### 10 Tons 
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
@@ -72,6 +84,10 @@
 #### [M.A.S.H. Truck](../../units/m.a.s.h._truck.md) 
 
 - [**M.A.S.H. Truck (Standard)**](../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+
+#### [Minion Advanced Tactical Vehicle](../../units/minion_advanced_tactical_vehicle.md) 
+
+- [**Minion Advanced Tactical Vehicle 'Silver Bullet'**](../../units/minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_silver_bullet.md) *Scout (3072)* `Unique` 
 
 #### [Odin Scout Tank](../../units/odin_scout_tank.md) 
 
@@ -211,6 +227,11 @@
 #### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
+- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
 
 ### 75 Tons 
 

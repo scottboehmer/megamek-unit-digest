@@ -26,6 +26,15 @@
 
 - [**Skulker Wheeled Scout Tank (Standard)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
 
+### 22 Tons 
+
+#### [Vector](../../units/vector.md) 
+
+- [**Vector (Attack)**](../../units/vector/vector_attack.md) *Striker (2730)* 
+- [**Vector (EW)**](../../units/vector/vector_ew.md) *Striker (2730)* 
+- [**Vector (Scout)**](../../units/vector/vector_scout.md) *Undefined (2730)* 
+- [**Vector (Transport)**](../../units/vector/vector_transport.md) *Striker (2730)* 
+
 ### 25 Tons 
 
 #### [Mobile Headquarters](../../units/mobile_headquarters.md) 
@@ -41,12 +50,20 @@
 - [**Cobra Transport VTOL (Command)**](../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* 
 - [**Cobra Transport VTOL (MASH)**](../../units/cobra_transport_vtol/cobra_transport_vtol_mash.md) *Scout (2669)* 
 
+#### [Cyrano Gunship](../../units/cyrano_gunship.md) 
+
+- [**Cyrano Gunship (Fury)**](../../units/cyrano_gunship/cyrano_gunship_fury.md) *Scout (2754)* 
+
 #### [Ignis Infantry Support Tank](../../units/ignis_infantry_support_tank.md) 
 
 - [**Ignis Infantry Support Tank (Standard)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_standard.md) *Juggernaut (2512)* 
 - [**Ignis Infantry Support Tank (SRM)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_srm.md) *Juggernaut (2751)* 
 
 ### 40 Tons 
+
+#### [Vali Artillery Vehicle](../../units/vali_artillery_vehicle.md) 
+
+- [**Vali Artillery Vehicle (Standard)**](../../units/vali_artillery_vehicle/vali_artillery_vehicle_standard.md) *Missile Boat (2600)* 
 
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
@@ -103,6 +120,14 @@
 
 - [**Padilla Heavy Artillery Tank (Standard)**](../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) *Missile Boat (2620)* 
 
+#### [Pollux ADA Heavy Tank](../../units/pollux_ada_heavy_tank.md) 
+
+- [**Pollux ADA Heavy Tank (Standard)**](../../units/pollux_ada_heavy_tank/pollux_ada_heavy_tank_standard.md) *Missile Boat (2710)* 
+
+#### [Von Luckner Heavy Tank](../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank (Royal)**](../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) *Sniper (2761)* 
+
 ### 80 Tons 
 
 #### [Rhino Fire Support Tank](../../units/rhino_fire_support_tank.md) 
@@ -113,9 +138,15 @@
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
+- [**Puma Assault Tank PAT-001**](../../units/puma_assault_tank/puma_assault_tank_pat-001.md) *Undefined (2650)* 
+- [**Puma Assault Tank PAT-002**](../../units/puma_assault_tank/puma_assault_tank_pat-002.md) *Undefined (2657)* 
 - [**Puma Assault Tank PAT-005b**](../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ### 140 Tons 
+
+#### [Burke II Superheavy Tank](../../units/burke_ii_superheavy_tank.md) 
+
+- [**Burke II Superheavy Tank (Standard)**](../../units/burke_ii_superheavy_tank/burke_ii_superheavy_tank_standard.md) *Juggernaut (2776)* 
 
 #### [Moray Heavy Attack Submarine](../../units/moray_heavy_attack_submarine.md) 
 

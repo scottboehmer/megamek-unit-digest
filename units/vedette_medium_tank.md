@@ -133,6 +133,26 @@
 - **Battle Value:** 552 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_lb-x.md) 
 
+## Vedette Medium Tank V-G7X 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 50 tons Tracked 
+- **Movement:** 5 / 8 (10), XL 
+- **Armor:** 136 (Reactive) 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - Bombast Laser 
+  - Light AC/5 (ammo: 20) 
+  - MagShot Gauss Rifle × 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+  - Supercharger 
+  - Targeting Computer 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3397/vedette-medium-tank-v-g7x) 
+- **Battle Value:** 915 
+- [*More Info*](vedette_medium_tank/vedette_medium_tank_v-g7x.md) 
+
 ## Vedette Medium Tank (Cell) 
 
 - **Role:** Sniper 

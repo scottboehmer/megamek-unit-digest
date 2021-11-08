@@ -49,3 +49,20 @@
 - **Battle Value:** 322 
 - [*More Info*](centipede_scout_car/centipede_scout_car_tag.md) 
 
+## Centipede Scout Car Commando 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 20 tons Hover 
+- **Movement:** 9 / 14, Fuel Cell 
+- **Armor:** 64 (Laser Reflective) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - MagShot Gauss Rifle × 2 (ammo: 50) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Armored Motive System 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3920/centipede-scout-car-commando) 
+- **Battle Value:** 322 
+- [*More Info*](centipede_scout_car/centipede_scout_car_commando.md) 
+

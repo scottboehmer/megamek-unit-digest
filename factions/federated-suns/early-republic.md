@@ -4,10 +4,18 @@
 
 ### 3 Tons 
 
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
 #### [Hi-Scout Drone](../../units/hi-scout_drone.md) 
 
 - [**Hi-Scout Drone (NapFind)**](../../units/hi-scout_drone/hi-scout_drone_napfind.md) *Scout (3000)* 
 - [**Hi-Scout Drone (PathTrak)**](../../units/hi-scout_drone/hi-scout_drone_pathtrak.md) *Scout (3000)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
 
 ### 5 Tons 
 
@@ -16,12 +24,17 @@
 - [**Ferret Light Scout VTOL (Standard)**](../../units/ferret_light_scout_vtol/ferret_light_scout_vtol_standard.md) *Scout (2904)* 
 - [**Ferret Light Scout VTOL (Armor) 'Wild Weasel'**](../../units/ferret_light_scout_vtol/ferret_light_scout_vtol_armor_wild_weasel.md) *Scout (2967)* 
 - [**Ferret Light Scout VTOL (Cargo)**](../../units/ferret_light_scout_vtol/ferret_light_scout_vtol_cargo.md) *Undefined (2972)* 
+- [**Ferret Light Scout VTOL 'Fermi'**](../../units/ferret_light_scout_vtol/ferret_light_scout_vtol_fermi.md) *Scout (3076)* 
 
 #### [Savannah Master Hovercraft](../../units/savannah_master_hovercraft.md) 
 
 - [**Savannah Master Hovercraft (Standard)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
 - [**Savannah Master Hovercraft (SL)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_sl.md) *Scout (3033)* 
 - [**Savannah Master Hovercraft (Interdictor)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -46,10 +59,15 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
 
 - [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
+#### [Hover Scout](../../units/hover_scout.md) 
+
+- [**Hover Scout (Standard)**](../../units/hover_scout/hover_scout_standard.md) *Striker (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -147,6 +165,10 @@
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
 
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
 - [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
@@ -193,6 +215,11 @@
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
 
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
+
 ### 21 Tons 
 
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
@@ -222,6 +249,7 @@
 - [**Cavalry Attack Helicopter (SRM)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_srm.md) *Striker (3055)* 
 - [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* 
 - [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* 
+- [**Cavalry Attack Helicopter Cadence Rain**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_cadence_rain.md) *Scout (3075)* `Unique` 
 - [**Cavalry Attack Helicopter (Infiltrator)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infiltrator.md) *Scout (3085)* 
 
 #### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
@@ -509,6 +537,10 @@
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
 
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
+
 #### [Maxim (I) Heavy Hover Transport](../../units/maxim_i_heavy_hover_transport.md) 
 
 - [**Maxim (I) Heavy Hover Transport (Standard)**](../../units/maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_standard.md) *Striker (3060)* 
@@ -743,6 +775,10 @@
 - [**Fury Command Tank (C3S)**](../../units/fury_command_tank/fury_command_tank_c3s.md) *Sniper (3069)* 
 - [**Fury Command Tank (C3M)**](../../units/fury_command_tank/fury_command_tank_c3m.md) *Brawler (3070)* 
 
+#### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
+
+- [**Heavy LRM Carrier (EN Variant)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_en_variant.md) *Missile Boat (3073)* `Unique` 
+
 #### [Heavy NLRM Carrier](../../units/heavy_nlrm_carrier.md) 
 
 - [**Heavy NLRM Carrier (Standard)**](../../units/heavy_nlrm_carrier/heavy_nlrm_carrier_standard.md) *Missile Boat (3083)* 
@@ -839,6 +875,7 @@
 - [**Challenger MBT X**](../../units/challenger_mbt/challenger_mbt_x.md) *Juggernaut (3057)* 
 - [**Challenger MBT XI**](../../units/challenger_mbt/challenger_mbt_xi.md) *Sniper (3062)* 
 - [**Challenger MBT XII**](../../units/challenger_mbt/challenger_mbt_xii.md) *Juggernaut (3065)* 
+- [**Challenger MBT XVc**](../../units/challenger_mbt/challenger_mbt_xvc.md) *Sniper (3075)* `Unique` 
 - [**Challenger MBT XIVs**](../../units/challenger_mbt/challenger_mbt_xivs.md) *Juggernaut (3077)* 
 - [**Challenger MBT Mk. XV**](../../units/challenger_mbt/challenger_mbt_mk._xv.md) *Sniper (3081)* 
 
@@ -902,6 +939,7 @@
 - [**Neptune Submarine (Standard)**](../../units/neptune_submarine/neptune_submarine_standard.md) *Undefined (2950)* 
 - [**Neptune Submarine (SRT)**](../../units/neptune_submarine/neptune_submarine_srt.md) *Juggernaut (2955)* 
 - [**Neptune Submarine (LRT)**](../../units/neptune_submarine/neptune_submarine_lrt.md) *Sniper (2971)* 
+- [**Neptune Submarine (Hunter-Killer)**](../../units/neptune_submarine/neptune_submarine_hunter-killer.md) *Juggernaut (3024)* 
 
 ### 150 Tons 
 

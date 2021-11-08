@@ -2,6 +2,18 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
+### 5 Tons 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
+
 ### 10 Tons 
 
 #### [Armored Personnel Carrier](../../units/armored_personnel_carrier.md) 
@@ -82,6 +94,19 @@
 
 - [**Rotunda Scout Vehicle RND-J-1-11**](../../units/rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11.md) *Scout (2725)* 
 
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+
+### 22 Tons 
+
+#### [Vector](../../units/vector.md) 
+
+- [**Vector (Attack)**](../../units/vector/vector_attack.md) *Striker (2730)* 
+- [**Vector (EW)**](../../units/vector/vector_ew.md) *Striker (2730)* 
+- [**Vector (Scout)**](../../units/vector/vector_scout.md) *Undefined (2730)* 
+- [**Vector (Transport)**](../../units/vector/vector_transport.md) *Striker (2730)* 
+
 ### 25 Tons 
 
 #### [J. Edgar Light Hover Tank](../../units/j._edgar_light_hover_tank.md) 
@@ -114,6 +139,7 @@
 
 - [**Cyrano Gunship (Standard)**](../../units/cyrano_gunship/cyrano_gunship_standard.md) *Scout (2622)* 
 - [**Cyrano Gunship (Royal)**](../../units/cyrano_gunship/cyrano_gunship_royal.md) *Scout (2721)* 
+- [**Cyrano Gunship (Fury)**](../../units/cyrano_gunship/cyrano_gunship_fury.md) *Scout (2754)* 
 
 #### [Galleon Light Tank](../../units/galleon_light_tank.md) 
 
@@ -226,6 +252,7 @@
 #### [Marksman Artillery Vehicle](../../units/marksman_artillery_vehicle.md) 
 
 - [**Marksman Artillery Vehicle (Standard)**](../../units/marksman_artillery_vehicle/marksman_artillery_vehicle_standard.md) *Missile Boat (2702)* 
+- [**Marksman Artillery Vehicle (AC)**](../../units/marksman_artillery_vehicle/marksman_artillery_vehicle_ac.md) *Brawler (2801)* 
 
 ### 70 Tons 
 
@@ -242,6 +269,7 @@
 #### [Burke Defense Tank](../../units/burke_defense_tank.md) 
 
 - [**Burke Defense Tank (Standard)**](../../units/burke_defense_tank/burke_defense_tank_standard.md) *Sniper (2580)* 
+- [**Burke Defense Tank (Royal)**](../../units/burke_defense_tank/burke_defense_tank_royal.md) *Sniper (2713)* 
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
@@ -254,6 +282,8 @@
 #### [Von Luckner Heavy Tank](../../units/von_luckner_heavy_tank.md) 
 
 - [**Von Luckner Heavy Tank VNL-K65N**](../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
+- [**Von Luckner Heavy Tank (Star League)**](../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_star_league.md) *Brawler (2683)* 
+- [**Von Luckner Heavy Tank (Royal)**](../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) *Sniper (2761)* 
 
 ### 80 Tons 
 

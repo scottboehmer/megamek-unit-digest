@@ -47,3 +47,24 @@
 - **Battle Value:** 1711 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) 
 
+## Sturmfeur Heavy Tank (WoB) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** 85 tons Tracked 
+- **Movement:** 3 / 5, Light 
+- **Armor:** 317 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV (ammo: 12) 
+  - MML 9 × 2 (ammo: 13 LRM, 11 SRM) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - B-Pod × 3 
+  - C3i 
+  - CASE 
+  - TAG 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967/sturmfeur-heavy-tank-wob) 
+- **Battle Value:** 1559 
+- [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) 
+

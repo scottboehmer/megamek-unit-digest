@@ -44,3 +44,18 @@
 - **Battle Value:** 17 
 - [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol_cargo.md) 
 
+## Ferret Light Scout VTOL 'Fermi' 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 5 tons VTOL 
+- **Movement:** 15 / 23, Fusion 
+- **Armor:** 8 (Stealth) 
+- **Heat Sinks:** 10 (10) 
+- **Equipment:** 
+  - Clan ECM Suite 
+  - Infantry (1.0 tons) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5605/ferret-light-scout-vtol-fermi) 
+- **Battle Value:** 108 
+- [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol_fermi.md) 
+

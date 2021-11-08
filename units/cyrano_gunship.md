@@ -34,6 +34,25 @@
 - **Battle Value:** 740 
 - [*More Info*](cyrano_gunship/cyrano_gunship_royal.md) 
 
+## Cyrano Gunship (Fury) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2754) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 10 / 15, Fusion 
+- **Armor:** 34 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 3 
+  - Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Anti-Missile System (ammo: 12) 
+  - Infantry (4.0 tons) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7329/cyrano-gunship-fury) 
+- **Battle Value:** 586 
+- [*More Info*](cyrano_gunship/cyrano_gunship_fury.md) 
+
 ## Cyrano Gunship (ML) 
 
 - **Role:** Striker 

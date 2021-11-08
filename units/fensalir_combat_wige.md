@@ -55,3 +55,22 @@
 - **Battle Value:** 1687 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_standard.md) 
 
+## Fensalir Combat WiGE (XXL) 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3084) 
+- **Chassis:** 80 tons WiGE 
+- **Movement:** 5 / 8, XXL 
+- **Armor:** 228 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 12) 
+  - SRM 6 (ammo: 15) 
+  - Small Pulse Laser 
+  - Machine Gun × 4 (ammo: 200) 
+- **Equipment:** 
+  - Cargo 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5789/fensalir-combat-wige-xxl) 
+- **Battle Value:** 1513 
+- [*More Info*](fensalir_combat_wige/fensalir_combat_wige_xxl.md) 
+

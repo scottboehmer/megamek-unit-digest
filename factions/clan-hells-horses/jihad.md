@@ -2,6 +2,18 @@
 
 ## Combat Vehicles 
 
+### 3 Tons 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+
+### 5 Tons 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
+
 ### 10 Tons 
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
@@ -208,6 +220,7 @@
 
 - [**Enyo Strike Tank (Standard)**](../../units/enyo_strike_tank/enyo_strike_tank_standard.md) *Skirmisher (3063)* 
 - [**Enyo Strike Tank (LB-X) 'Sholef'**](../../units/enyo_strike_tank/enyo_strike_tank_lb-x_sholef.md) *Skirmisher (3075)* 
+- [**Enyo Strike Tank XR**](../../units/enyo_strike_tank/enyo_strike_tank_xr.md) *Striker (3075)* `Unique` 
 
 #### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
 
@@ -245,6 +258,11 @@
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
+- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
+
 #### [Shoden Assault Vehicle](../../units/shoden_assault_vehicle.md) 
 
 - [**Shoden Assault Vehicle (Standard)**](../../units/shoden_assault_vehicle/shoden_assault_vehicle_standard.md) *Brawler (3064)* 
@@ -254,6 +272,7 @@
 #### [Athena Combat Vehicle](../../units/athena_combat_vehicle.md) 
 
 - [**Athena Combat Vehicle (Standard)**](../../units/athena_combat_vehicle/athena_combat_vehicle_standard.md) *Juggernaut (3008)* 
+- [**Athena Combat Vehicle XR**](../../units/athena_combat_vehicle/athena_combat_vehicle_xr.md) *Juggernaut (3068)* `Unique` 
 - [**Athena Combat Vehicle (HAG)**](../../units/athena_combat_vehicle/athena_combat_vehicle_hag.md) *Juggernaut (3071)* 
 
 #### [Burke Defense Tank](../../units/burke_defense_tank.md) 

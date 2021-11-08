@@ -1,5 +1,33 @@
 # Alacorn Heavy Tank 
 
+## Alacorn Heavy Tank Mk I 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2561) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 188 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/10 × 3 (ammo: 50) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5622/alacorn-heavy-tank-mk-i) 
+- **Battle Value:** 1080 
+- [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_i.md) 
+
+## Alacorn Heavy Tank Mk II 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2561) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 107 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/20 × 3 (ammo: 15) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5623/alacorn-heavy-tank-mk-ii) 
+- **Battle Value:** 1017 
+- [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_ii.md) 
+
 ## Alacorn Heavy Tank Mk III 
 
 - **Role:** Juggernaut 

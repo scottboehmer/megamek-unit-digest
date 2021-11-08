@@ -19,6 +19,24 @@
 - **Battle Value:** 1641 
 - [*More Info*](athena_combat_vehicle/athena_combat_vehicle_standard.md) 
 
+## Athena Combat Vehicle XR 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (3068) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, Fuel Cell 
+- **Armor:** 230 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Large Chemical Laser × 4 (ammo: 60) 
+  - Medium Chemical Laser × 2 (ammo: 60) 
+  - Machine Gun × 4 (ammo: 200) 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3747/athena-combat-vehicle-xr) 
+- **Battle Value:** 1309 
+- [*More Info*](athena_combat_vehicle/athena_combat_vehicle_xr.md) 
+
 ## Athena Combat Vehicle (HAG) 
 
 - **Role:** Juggernaut 

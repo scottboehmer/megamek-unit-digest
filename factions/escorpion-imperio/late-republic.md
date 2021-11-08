@@ -67,6 +67,10 @@
 
 - [**Odin Scout Tank (Standard)**](../../units/odin_scout_tank/odin_scout_tank_standard.md) *Striker (2844)* 
 
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+
 ### 21 Tons 
 
 #### [Donar Assault Helicopter](../../units/donar_assault_helicopter.md) 
@@ -148,6 +152,10 @@
 
 - [**Stygian Strike Tank (Standard)**](../../units/stygian_strike_tank/stygian_strike_tank_standard.md) *Missile Boat (3062)* 
 
+#### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
+
+- [**Zephyr Hovertank EC**](../../units/zephyr_hovertank/zephyr_hovertank_ec.md) *Undefined (2820)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
@@ -174,6 +182,10 @@
 #### [Ku Wheeled Assault Tank](../../units/ku_wheeled_assault_tank.md) 
 
 - [**Ku Wheeled Assault Tank (Standard)**](../../units/ku_wheeled_assault_tank/ku_wheeled_assault_tank_standard.md) *Brawler (2842)* 
+
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 
@@ -226,6 +238,10 @@
 #### [Heavy BattleMech Recovery Vehicle](../../units/heavy_battlemech_recovery_vehicle.md) 
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
+
+#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
+
+- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
 
 ### 75 Tons 
 

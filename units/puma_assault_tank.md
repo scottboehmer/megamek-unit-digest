@@ -1,5 +1,43 @@
 # Puma Assault Tank 
 
+## Puma Assault Tank PAT-001 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2650) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 184 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 12) 
+  - PPC 
+  - Medium Laser × 2 
+  - SRM 4 (ammo: 25) 
+  - Small Laser 
+  - Vehicle Flamer (ammo: 20) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4879/puma-assault-tank-pat-001) 
+- **Battle Value:** 1353 
+- [*More Info*](puma_assault_tank/puma_assault_tank_pat-001.md) 
+
+## Puma Assault Tank PAT-002 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2657) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 184 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 12) 
+  - PPC 
+  - Medium Laser × 2 
+  - SRM 4 (ammo: 25) 
+  - Small Laser 
+  - Vehicle Flamer (ammo: 20) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4880/puma-assault-tank-pat-002) 
+- **Battle Value:** 1353 
+- [*More Info*](puma_assault_tank/puma_assault_tank_pat-002.md) 
+
 ## Puma Assault Tank PAT-005 
 
 - **Role:** Missile Boat 

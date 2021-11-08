@@ -15,6 +15,21 @@
 - **Battle Value:** 815 
 - [*More Info*](burke_defense_tank/burke_defense_tank_standard.md) 
 
+## Burke Defense Tank (Royal) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2713) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Heat Sinks:** 30 (30) 
+- **Weapons:** 
+  - PPC × 3 
+  - Streak SRM 2 × 2 (ammo: 50) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/444/burke-defense-tank-royal) 
+- **Battle Value:** 1105 
+- [*More Info*](burke_defense_tank/burke_defense_tank_royal.md) 
+
 ## Burke Defense Tank (HPPC) 
 
 - **Role:** Sniper 

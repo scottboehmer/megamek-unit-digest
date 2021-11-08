@@ -15,6 +15,22 @@
 - **Battle Value:** 309 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-100.md) 
 
+## Galleon Light Tank GAL-200 (RL) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2801) 
+- **Chassis:** 30 tons Tracked 
+- **Movement:** 6 / 9, ICE 
+- **Armor:** 72 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Clan Prototype Rocket 20 × 2 
+  - Clan Prototype Rocket 10 × 4 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1180/galleon-light-tank-gal-200-rl) 
+- **Battle Value:** 443 
+- [*More Info*](galleon_light_tank/galleon_light_tank_gal-200_rl.md) 
+
 ## Galleon Light Tank GAL-200 
 
 - **Role:** Scout 
@@ -82,4 +98,24 @@
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1178/galleon-light-tank-gal-104) 
 - **Battle Value:** 707 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-104.md) 
+
+## Galleon Light Tank Maxwell 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 30 tons Tracked 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 88 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - Small Pulse Laser × 2 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - Armored Motive System 
+  - CASE 
+  - Infantry (4.0 tons) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1181/galleon-light-tank-maxwell) 
+- **Battle Value:** 451 
+- [*More Info*](galleon_light_tank/galleon_light_tank_maxwell.md) 
 

@@ -55,6 +55,24 @@
 - **Battle Value:** 904 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_standard.md) 
 
+## Zephyr Hovertank EC 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2820) 
+- **Chassis:** 40 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 144 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Clan Improved SRM 6 (ammo: 30) 
+  - Clan Prototype ER Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - TAG 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7674/zephyr-hovertank-ec) 
+- **Battle Value:** 993 
+- [*More Info*](zephyr_hovertank/zephyr_hovertank_ec.md) 
+
 ## Zephyr Hovertank (C3i) 
 
 - **Role:** Striker 
@@ -91,4 +109,79 @@
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3630/zephyr-hovertank-lrm) 
 - **Battle Value:** 889 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_lrm.md) 
+
+## Zephyr Hovertank (Omnidrone) A 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3096) 
+- **Chassis:** 40 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser × 3 
+  - SRM 2 (iOS) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Drone Operating System 
+  - TAG 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7301/zephyr-hovertank-omnidrone-a) 
+- **Battle Value:** 779 
+- [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_a.md) 
+
+## Zephyr Hovertank (Omnidrone) B 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3096) 
+- **Chassis:** 40 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Flamer 
+  - SRM 2 (iOS) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Bloodhound Active Probe 
+  - Drone Operating System 
+  - C3 Slave 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7302/zephyr-hovertank-omnidrone-b) 
+- **Battle Value:** 540 
+- [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_b.md) 
+
+## Zephyr Hovertank (Omnidrone) C 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3096) 
+- **Chassis:** 40 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 2 (iOS) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - M-Pod × 4 
+  - Drone Operating System 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7303/zephyr-hovertank-omnidrone-c) 
+- **Battle Value:** 501 
+- [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_c.md) 
+
+## Zephyr Hovertank (Omnidrone) Prime 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3096) 
+- **Chassis:** 40 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Light PPC 
+  - SRM 2 (iOS) 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - Drone Operating System 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7300/zephyr-hovertank-omnidrone-prime) 
+- **Battle Value:** 671 
+- [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_prime.md) 
 

@@ -4,10 +4,18 @@
 
 ### 3 Tons 
 
+#### [Ground Car](../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+
 #### [Hi-Scout Drone](../../units/hi-scout_drone.md) 
 
 - [**Hi-Scout Drone (NapFind)**](../../units/hi-scout_drone/hi-scout_drone_napfind.md) *Scout (3000)* 
 - [**Hi-Scout Drone (PathTrak)**](../../units/hi-scout_drone/hi-scout_drone_pathtrak.md) *Scout (3000)* 
+
+#### [Jet Sled](../../units/jet_sled.md) 
+
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
 
 ### 5 Tons 
 
@@ -18,6 +26,10 @@
 #### [Gabriel Reconnaissance Hovercraft](../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft (Standard)**](../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft_standard.md) *Scout (2712)* 
+
+#### [Speeder](../../units/speeder.md) 
+
+- [**Speeder (Standard)**](../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -42,10 +54,15 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
 
 - [**Gun Trailer (Ambush)**](../../units/gun_trailer/gun_trailer_ambush.md) *Ambusher (3092)* 
+
+#### [Hover Scout](../../units/hover_scout.md) 
+
+- [**Hover Scout (Standard)**](../../units/hover_scout/hover_scout_standard.md) *Striker (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -138,6 +155,10 @@
 - [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
 - [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
 
+#### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
+
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
 - [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
@@ -191,6 +212,11 @@
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+
+#### [Wheeled Scout](../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 ### 21 Tons 
 
@@ -353,6 +379,14 @@
 
 - [**Pinto Attack VTOL (Standard)**](../../units/pinto_attack_vtol/pinto_attack_vtol_standard.md) *Striker (3055)* 
 
+#### [Quaestor Mobile Tactical Command HQ](../../units/quaestor_mobile_tactical_command_hq.md) 
+
+- [**Quaestor Mobile Tactical Command HQ (Standard)**](../../units/quaestor_mobile_tactical_command_hq/quaestor_mobile_tactical_command_hq_standard.md) *Scout (3095)* 
+
+#### [Tribune Mobile Tactical Command HQ](../../units/tribune_mobile_tactical_command_hq.md) 
+
+- [**Tribune Mobile Tactical Command HQ (Standard)**](../../units/tribune_mobile_tactical_command_hq/tribune_mobile_tactical_command_hq_standard.md) *Scout (3091)* 
+
 #### [Yasha VTOL](../../units/yasha_vtol.md) 
 
 - [**Yasha VTOL 'Spectre'**](../../units/yasha_vtol/yasha_vtol_spectre.md) *Scout (3085)* 
@@ -505,6 +539,10 @@
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank (Standard)**](../../units/zephyr_hovertank/zephyr_hovertank_standard.md) *Striker (2621)* 
+- [**Zephyr Hovertank (Omnidrone) A**](../../units/zephyr_hovertank/zephyr_hovertank_omnidrone_a.md) *Striker (3096)* 
+- [**Zephyr Hovertank (Omnidrone) B**](../../units/zephyr_hovertank/zephyr_hovertank_omnidrone_b.md) *Scout (3096)* 
+- [**Zephyr Hovertank (Omnidrone) C**](../../units/zephyr_hovertank/zephyr_hovertank_omnidrone_c.md) *Scout (3096)* 
+- [**Zephyr Hovertank (Omnidrone) Prime**](../../units/zephyr_hovertank/zephyr_hovertank_omnidrone_prime.md) *Striker (3096)* 
 
 ### 45 Tons 
 
@@ -570,6 +608,10 @@
 - [**Condor Heavy Hover Tank (Laser)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_laser.md) *Striker (3061)* 
 - [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* 
 
+#### [Condor Multi-Purpose Tank](../../units/condor_multi-purpose_tank.md) 
+
+- [**Condor Multi-Purpose Tank (Standard)**](../../units/condor_multi-purpose_tank/condor_multi-purpose_tank_standard.md) *Striker (3083)* 
+
 #### [Drillson Heavy Hover Tank](../../units/drillson_heavy_hover_tank.md) 
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
@@ -593,6 +635,10 @@
 #### [JES I Tactical Missile Carrier](../../units/jes_i_tactical_missile_carrier.md) 
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
+
+#### [LTV-4 Hover Tank](../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Manta Fast Attack Submarine](../../units/manta_fast_attack_submarine.md) 
 
@@ -763,6 +809,10 @@
 
 - [**Pike Support Vehicle (Standard)**](../../units/pike_support_vehicle/pike_support_vehicle_standard.md) *Sniper (2987)* 
 
+#### [Praetorian Mobile Strategic Command HQ](../../units/praetorian_mobile_strategic_command_hq.md) 
+
+- [**Praetorian Mobile Strategic Command HQ (Standard)**](../../units/praetorian_mobile_strategic_command_hq/praetorian_mobile_strategic_command_hq_standard.md) *Scout (3091)* 
+
 #### [SRM Carrier](../../units/srm_carrier.md) 
 
 - [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
@@ -875,6 +925,7 @@
 #### [Burke Defense Tank](../../units/burke_defense_tank.md) 
 
 - [**Burke Defense Tank (Standard)**](../../units/burke_defense_tank/burke_defense_tank_standard.md) *Sniper (2580)* 
+- [**Burke Defense Tank (Royal)**](../../units/burke_defense_tank/burke_defense_tank_royal.md) *Sniper (2713)* 
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
@@ -921,6 +972,7 @@
 #### [Fury Command Tank](../../units/fury_command_tank.md) 
 
 - [**Fury Command Tank (Royal)**](../../units/fury_command_tank/fury_command_tank_royal.md) *Sniper (2751)* 
+- [**Fury Command Tank CX-17**](../../units/fury_command_tank/fury_command_tank_cx-17.md) *Sniper (3052)* `Unique` 
 - [**Fury Command Tank (Standard)**](../../units/fury_command_tank/fury_command_tank_standard.md) *Sniper (3064)* 
 - [**Fury Command Tank (C3S)**](../../units/fury_command_tank/fury_command_tank_c3s.md) *Sniper (3069)* 
 - [**Fury Command Tank (C3M)**](../../units/fury_command_tank/fury_command_tank_c3m.md) *Brawler (3070)* 
