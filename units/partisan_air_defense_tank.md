@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 40 Standard, 30 Cluster) 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2435/partisan-air-defense-tank-company-command) 
 - **Battle Value:** 920 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_company_command.md) 
@@ -28,7 +28,7 @@
   - Ultra AC/5 × 2 (ammo: 60) 
   - AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - CASE 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436/partisan-air-defense-tank-lance-command) 
 - **Battle Value:** 836 
@@ -46,7 +46,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
   - AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2440/partisan-air-defense-tank-standard) 
 - **Battle Value:** 923 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_standard.md) 
@@ -63,7 +63,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
   - Ultra AC/5 × 2 (ammo: 60) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2441/partisan-air-defense-tank-xl) 
 - **Battle Value:** 1110 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_xl.md) 
@@ -80,7 +80,7 @@
   - RAC/5 × 2 (ammo: 80) 
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2439/partisan-air-defense-tank-rac) 
 - **Battle Value:** 1247 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_rac.md) 
@@ -96,7 +96,7 @@
 - **Weapons:** 
   - RAC/2 × 4 (ammo: 135) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2438/partisan-air-defense-tank-quad-rac) 
 - **Battle Value:** 1178 
@@ -116,7 +116,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2434/partisan-air-defense-tank-cell) 
 - **Battle Value:** 980 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_cell.md) 
@@ -134,7 +134,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2437/partisan-air-defense-tank-lrm) 
 - **Battle Value:** 1303 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_lrm.md) 

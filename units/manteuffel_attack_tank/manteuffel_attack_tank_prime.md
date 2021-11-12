@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4586/manteuffel-attack-tank-prime) 
 - **Battle Value:** 1504 
 

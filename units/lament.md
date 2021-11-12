@@ -32,7 +32,7 @@
   - Clan Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - Radical Heat Sink System 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400/lament-lmt-2r-manes) 
 - **Battle Value:** 2302 
 - [*More Info*](lament/lament_lmt-2r_manes.md) 
@@ -51,7 +51,7 @@
   - Small X-Pulse Laser 
 - **Equipment:** 
   - Radical Heat Sink System 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722/lament-lmt-3c) 
 - **Battle Value:** 1874 
 - [*More Info*](lament/lament_lmt-3c.md) 
@@ -87,7 +87,7 @@
   - Clan Improved Heavy Large Laser × 4 
 - **Equipment:** 
   - Radical Heat Sink System 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc) 
 - **Battle Value:** 2490 
 - [*More Info*](lament/lament_lmt-4rc.md) 

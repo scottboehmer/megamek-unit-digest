@@ -14,7 +14,7 @@
   - Small Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2821/schiltron-mobile-fire-support-platform-prime) 
 - **Battle Value:** 1434 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_prime.md) 
@@ -34,7 +34,7 @@
   - Small Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2815/schiltron-mobile-fire-support-platform-a) 
 - **Battle Value:** 1456 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_a.md) 
@@ -53,7 +53,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2816/schiltron-mobile-fire-support-platform-b) 
 - **Battle Value:** 1439 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_b.md) 
@@ -70,7 +70,7 @@
   - Large Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2817/schiltron-mobile-fire-support-platform-c) 
 - **Battle Value:** 1078 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_c.md) 
@@ -88,7 +88,7 @@
   - LRM 15 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
   - Targeting Computer 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2818/schiltron-mobile-fire-support-platform-d) 
 - **Battle Value:** 1480 
@@ -107,7 +107,7 @@
   - Light AC/5 × 3 (ammo: 60) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2819/schiltron-mobile-fire-support-platform-e) 
 - **Battle Value:** 1120 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_e.md) 
@@ -126,7 +126,7 @@
   - MML 3 × 6 (ammo: 80 LRM, 66 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2820/schiltron-mobile-fire-support-platform-f) 
 - **Battle Value:** 1470 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_f.md) 

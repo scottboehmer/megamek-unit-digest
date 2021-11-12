@@ -17,7 +17,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302/battlemaster-blr-m3) 
 - **Battle Value:** 1674 
 

@@ -104,7 +104,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais) 
 - **Battle Value:** 1475 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6nais.md) 
@@ -140,7 +140,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs) 
 - **Battle Value:** 1687 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7c3bs.md) 

@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3690/ajax-assault-tank-prime) 
 - **Battle Value:** 1789 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_prime.md) 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3688/ajax-assault-tank-a) 
 - **Battle Value:** 2042 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_a.md) 
@@ -52,7 +52,7 @@
   - LRM 15 w/ Artemis IV × 3 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689/ajax-assault-tank-b) 
 - **Battle Value:** 1706 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_b.md) 
@@ -113,7 +113,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
   - Environmentally Sealed Chassis 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/21/ajax-assault-tank-sealed) 

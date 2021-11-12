@@ -18,7 +18,7 @@
   - Plasma Rifle (ammo: 20) 
   - Medium X-Pulse Laser 
 - **Equipment:** 
-  - C3 Emergency Master 
+  - C3 Emergency Main 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836/peacekeeper-pkp-2k) 
 - **Battle Value:** 2863 
 

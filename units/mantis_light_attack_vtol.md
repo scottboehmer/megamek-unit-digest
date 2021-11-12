@@ -27,7 +27,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Guardian ECM Suite × 2 
-  - C3 Slave 
+  - C3 Support 
   - Mast Mount 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2028/mantis-light-attack-vtol-eccm) 
 - **Battle Value:** 304 

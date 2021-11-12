@@ -23,7 +23,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/250/banshee-bnc-8s) 
 - **Battle Value:** 2408 

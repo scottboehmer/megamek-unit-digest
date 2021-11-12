@@ -243,7 +243,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
   - Small VSP Laser 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE II 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042/stalker-stk-7c3bs) 
 - **Battle Value:** 1712 

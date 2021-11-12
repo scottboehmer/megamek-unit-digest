@@ -6,13 +6,17 @@
 
 #### [Ground Car](../../units/ground_car.md) 
 
-- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* `Transport:0.5` 
 
 #### [Jet Sled](../../units/jet_sled.md) 
 
-- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* `Transport:0.5` 
 
 ### 5 Tons 
+
+#### [Jeep](../../units/jeep.md) 
+
+- [**Jeep (Standard)**](../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
 #### [Speeder](../../units/speeder.md) 
 
@@ -24,8 +28,8 @@
 
 - [**Armored Personnel Carrier (Hover LRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_lrm.md) *Missile Boat (2500)* 
 - [**Armored Personnel Carrier (Hover MG)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_mg.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Hover SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_srm.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Hover)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Hover SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_srm.md) *Scout (2500)* `Transport:1.0` 
+- [**Armored Personnel Carrier (Hover)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* `Transport:1.0` 
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
 
@@ -51,7 +55,7 @@
 
 #### [Ripper Infantry Transport](../../units/ripper_infantry_transport.md) 
 
-- [**Ripper Infantry Transport (Royal)**](../../units/ripper_infantry_transport/ripper_infantry_transport_royal.md) *Scout (2696)* 
+- [**Ripper Infantry Transport (Royal)**](../../units/ripper_infantry_transport/ripper_infantry_transport_royal.md) *Scout (2696)* `Transport:1.0` 
 
 ### 11 Tons 
 
@@ -59,19 +63,19 @@
 
 - [**Shamash Reconnaissance Vehicle (Standard)**](../../units/shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_standard.md) *Scout (2887)* 
 - [**Shamash Reconnaissance Vehicle (Flamer)**](../../units/shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_flamer.md) *Scout (3069)* 
-- [**Shamash Reconnaissance Vehicle (Interdictor)**](../../units/shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_interdictor.md) *Scout (3077)* 
+- [**Shamash Reconnaissance Vehicle (Interdictor)**](../../units/shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_interdictor.md) *Scout (3077)* `ECM` 
 
 ### 15 Tons 
 
 #### [Maultier Hover APC](../../units/maultier_hover_apc.md) 
 
-- [**Maultier Hover APC (Standard)**](../../units/maultier_hover_apc/maultier_hover_apc_standard.md) *Scout (2647)* 
+- [**Maultier Hover APC (Standard)**](../../units/maultier_hover_apc/maultier_hover_apc_standard.md) *Scout (2647)* `Transport:3.0` 
 
 ### 20 Tons 
 
 #### [Asshur Artillery Spotter](../../units/asshur_artillery_spotter.md) 
 
-- [**Asshur Artillery Spotter (Standard)**](../../units/asshur_artillery_spotter/asshur_artillery_spotter_standard.md) *Striker (2893)* 
+- [**Asshur Artillery Spotter (Standard)**](../../units/asshur_artillery_spotter/asshur_artillery_spotter_standard.md) *Striker (2893)* `TAG` 
 
 #### [Asshur Fast Reconnaissance Vehicle](../../units/asshur_fast_reconnaissance_vehicle.md) 
 
@@ -79,28 +83,28 @@
 
 #### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
 
-- [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* 
-- [**Heavy Hover APC (MG)**](../../units/heavy_hover_apc/heavy_hover_apc_mg.md) *Scout (2470)* 
-- [**Heavy Hover APC (SRM)**](../../units/heavy_hover_apc/heavy_hover_apc_srm.md) *Scout (2470)* 
-- [**Heavy Hover APC (Standard)**](../../units/heavy_hover_apc/heavy_hover_apc_standard.md) *Scout (2470)* 
+- [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Hover APC (MG)**](../../units/heavy_hover_apc/heavy_hover_apc_mg.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Hover APC (SRM)**](../../units/heavy_hover_apc/heavy_hover_apc_srm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Hover APC (Standard)**](../../units/heavy_hover_apc/heavy_hover_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
 #### [Heavy Tracked APC](../../units/heavy_tracked_apc.md) 
 
-- [**Heavy Tracked APC (LRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* 
-- [**Heavy Tracked APC (MG)**](../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* 
-- [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
-- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
+- [**Heavy Tracked APC (LRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Tracked APC (MG)**](../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
 #### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
 
-- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* `Transport:7.0` 
 
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
-- [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
-- [**Heavy Wheeled APC (MG)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_mg.md) *Scout (2470)* 
-- [**Heavy Wheeled APC (SRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* 
-- [**Heavy Wheeled APC (Standard)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Wheeled APC (MG)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_mg.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Wheeled APC (SRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Wheeled APC (Standard)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
 #### [M.A.S.H. Truck](../../units/m.a.s.h._truck.md) 
 
@@ -112,10 +116,11 @@
 
 #### [Odin Scout Tank](../../units/odin_scout_tank.md) 
 
-- [**Odin Scout Tank (Standard)**](../../units/odin_scout_tank/odin_scout_tank_standard.md) *Striker (2844)* 
+- [**Odin Scout Tank (Standard)**](../../units/odin_scout_tank/odin_scout_tank_standard.md) *Striker (2844)* `Active Probe` 
 
 #### [Wheeled Scout](../../units/wheeled_scout.md) 
 
+- [**Wheeled Scout (Camera)**](../../units/wheeled_scout/wheeled_scout_camera.md) *Undefined (2500)* 
 - [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
 - [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
@@ -123,25 +128,25 @@
 
 #### [Aeron Strike VTOL](../../units/aeron_strike_vtol.md) 
 
-- [**Aeron Strike VTOL (BAP)**](../../units/aeron_strike_vtol/aeron_strike_vtol_bap.md) *Scout (3084)* 
+- [**Aeron Strike VTOL (BAP)**](../../units/aeron_strike_vtol/aeron_strike_vtol_bap.md) *Scout (3084)* `Active Probe` , `ECM` 
 
 #### [Balac Strike VTOL](../../units/balac_strike_vtol.md) 
 
 - [**Balac Strike VTOL (LRM)**](../../units/balac_strike_vtol/balac_strike_vtol_lrm.md) *Missile Boat (3079)* 
-- [**Balac Strike VTOL (Spotter)**](../../units/balac_strike_vtol/balac_strike_vtol_spotter.md) *Striker (3079)* 
+- [**Balac Strike VTOL (Spotter)**](../../units/balac_strike_vtol/balac_strike_vtol_spotter.md) *Striker (3079)* `Active Probe` , `ECM` , `TAG` 
 - [**Balac Strike VTOL (Standard)**](../../units/balac_strike_vtol/balac_strike_vtol_standard.md) *Striker (3079)* 
 - [**Balac Strike VTOL (Hybrid)**](../../units/balac_strike_vtol/balac_strike_vtol_hybrid.md) *Striker (3090)* 
 
 #### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
 
 - [**DI Multipurpose VTOL (Gunship)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
-- [**DI Multipurpose VTOL (Standard)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_standard.md) *Scout (3097)* 
+- [**DI Multipurpose VTOL (Standard)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_standard.md) *Scout (3097)* `Active Probe` , `TAG` , `Transport:4.0` 
 
 ### 30 Tons 
 
 #### [Anhur Transport](../../units/anhur_transport.md) 
 
-- [**Anhur Transport (Standard)**](../../units/anhur_transport/anhur_transport_standard.md) *Striker (2840)* 
+- [**Anhur Transport (Standard)**](../../units/anhur_transport/anhur_transport_standard.md) *Striker (2840)* `Transport:7.0` 
 
 #### [Coolant Truck](../../units/coolant_truck.md) 
 
@@ -150,8 +155,8 @@
 
 #### [Yasha VTOL](../../units/yasha_vtol.md) 
 
-- [**Yasha VTOL (Interdictor)**](../../units/yasha_vtol/yasha_vtol_interdictor.md) *Missile Boat (3085)* 
-- [**Yasha VTOL (Standard)**](../../units/yasha_vtol/yasha_vtol_standard.md) *Scout (3085)* 
+- [**Yasha VTOL (Interdictor)**](../../units/yasha_vtol/yasha_vtol_interdictor.md) *Missile Boat (3085)* `Active Probe` , `ECM` 
+- [**Yasha VTOL (Standard)**](../../units/yasha_vtol/yasha_vtol_standard.md) *Scout (3085)* `C3 Support` 
 
 ### 35 Tons 
 
@@ -162,18 +167,18 @@
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
 
-- [**Gun Trailer (Stronghold)**](../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* 
+- [**Gun Trailer (Stronghold)**](../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* `Transport:4.0` 
 - [**Gun Trailer (Artillery/AA)**](../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Thumper)**](../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Sniper Cannon)**](../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Missile Boat (3101)* 
 
 #### [Indra Infantry Transport](../../units/indra_infantry_transport.md) 
 
-- [**Indra Infantry Transport (Standard)**](../../units/indra_infantry_transport/indra_infantry_transport_standard.md) *Sniper (2842)* 
+- [**Indra Infantry Transport (Standard)**](../../units/indra_infantry_transport/indra_infantry_transport_standard.md) *Sniper (2842)* `Transport:3.0` 
 
 #### [Lightning Attack Hovercraft](../../units/lightning_attack_hovercraft.md) 
 
-- [**Lightning Attack Hovercraft (Royal)**](../../units/lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) *Striker (2720)* 
+- [**Lightning Attack Hovercraft (Royal)**](../../units/lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) *Striker (2720)* `TAG` 
 
 #### [MIT24 MASH Vehicle](../../units/mit24_mash_vehicle.md) 
 
@@ -186,13 +191,13 @@
 
 #### [Svantovit Infantry Fighting Vehicle](../../units/svantovit_infantry_fighting_vehicle.md) 
 
-- [**Svantovit Infantry Fighting Vehicle (Original)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_original.md) *Striker (2843)* 
-- [**Svantovit Infantry Fighting Vehicle (Standard)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_standard.md) *Missile Boat (2870)* 
+- [**Svantovit Infantry Fighting Vehicle (Original)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_original.md) *Striker (2843)* `Transport:3.0` 
+- [**Svantovit Infantry Fighting Vehicle (Standard)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_standard.md) *Missile Boat (2870)* `Transport:5.0` 
 
 #### [Zorya Light Tank](../../units/zorya_light_tank.md) 
 
-- [**Zorya Light Tank (Ammo)**](../../units/zorya_light_tank/zorya_light_tank_ammo.md) *Missile Boat (2842)* 
-- [**Zorya Light Tank (Standard)**](../../units/zorya_light_tank/zorya_light_tank_standard.md) *Missile Boat (2842)* 
+- [**Zorya Light Tank (Ammo)**](../../units/zorya_light_tank/zorya_light_tank_ammo.md) *Missile Boat (2842)* `ECM` 
+- [**Zorya Light Tank (Standard)**](../../units/zorya_light_tank/zorya_light_tank_standard.md) *Missile Boat (2842)* `ECM` 
 
 ### 40 Tons 
 
@@ -210,14 +215,14 @@
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
 
-- [**Joust Medium Tank BE700**](../../units/joust_medium_tank/joust_medium_tank_be700.md) *Skirmisher (3077)* 
+- [**Joust Medium Tank BE700**](../../units/joust_medium_tank/joust_medium_tank_be700.md) *Skirmisher (3077)* `Active Probe` 
 - [**Joust Medium Tank BE701**](../../units/joust_medium_tank/joust_medium_tank_be701.md) *Skirmisher (3086)* 
 
 ### 45 Tons 
 
 #### [Tyr Infantry Support Tank](../../units/tyr_infantry_support_tank.md) 
 
-- [**Tyr Infantry Support Tank (Standard)**](../../units/tyr_infantry_support_tank/tyr_infantry_support_tank_standard.md) *Striker (3063)* 
+- [**Tyr Infantry Support Tank (Standard)**](../../units/tyr_infantry_support_tank/tyr_infantry_support_tank_standard.md) *Striker (3063)* `Transport:5.0` 
 
 ### 50 Tons 
 
@@ -245,7 +250,7 @@
 
 #### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 
-- [**Maxim Heavy Hover Transport (Clan)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_clan.md) *Striker (3059)* 
+- [**Maxim Heavy Hover Transport (Clan)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_clan.md) *Striker (3059)* `ECM` , `Transport:6.0` 
 
 ### 55 Tons 
 
@@ -276,7 +281,7 @@
 
 #### [Axel Heavy Tank IIC](../../units/axel_heavy_tank_iic.md) 
 
-- [**Axel Heavy Tank IIC (Standard)**](../../units/axel_heavy_tank_iic/axel_heavy_tank_iic_standard.md) *Brawler (3074)* 
+- [**Axel Heavy Tank IIC (Standard)**](../../units/axel_heavy_tank_iic/axel_heavy_tank_iic_standard.md) *Brawler (3074)* `ECM` 
 
 #### [Ishtar Heavy Fire Support Tank](../../units/ishtar_heavy_fire_support_tank.md) 
 
@@ -311,19 +316,19 @@
 
 #### [Morrigu Fire Support Vehicle](../../units/morrigu_fire_support_vehicle.md) 
 
-- [**Morrigu Fire Support Vehicle (Standard)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_standard.md) *Missile Boat (3064)* 
+- [**Morrigu Fire Support Vehicle (Standard)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_standard.md) *Missile Boat (3064)* `ECM` 
 - [**Morrigu Fire Support Vehicle (Laser)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_laser.md) *Sniper (3067)* 
-- [**Morrigu Fire Support Vehicle (HAG)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_hag.md) *Missile Boat (3083)* 
+- [**Morrigu Fire Support Vehicle (HAG)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_hag.md) *Missile Boat (3083)* `ECM` 
 
 #### [Rhino Fire Support Tank](../../units/rhino_fire_support_tank.md) 
 
-- [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* 
+- [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* `ECM` 
 
 ### 85 Tons 
 
 #### [Huitzilopochtli Assault Tank 'Huey'](../../units/huitzilopochtli_assault_tank_huey.md) 
 
-- [**Huitzilopochtli Assault Tank 'Huey' (Standard)**](../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_standard.md) *Missile Boat (2845)* 
+- [**Huitzilopochtli Assault Tank 'Huey' (Standard)**](../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_standard.md) *Missile Boat (2845)* `ECM` 
 
 #### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
@@ -359,9 +364,9 @@
 
 #### [Mars Assault Vehicle](../../units/mars_assault_vehicle.md) 
 
-- [**Mars Assault Vehicle (Standard)**](../../units/mars_assault_vehicle/mars_assault_vehicle_standard.md) *Missile Boat (2871)* 
-- [**Mars Assault Vehicle (ATM)**](../../units/mars_assault_vehicle/mars_assault_vehicle_atm.md) *Juggernaut (3065)* 
-- [**Mars Assault Vehicle (HAG)**](../../units/mars_assault_vehicle/mars_assault_vehicle_hag.md) *Missile Boat (3075)* 
+- [**Mars Assault Vehicle (Standard)**](../../units/mars_assault_vehicle/mars_assault_vehicle_standard.md) *Missile Boat (2871)* `ECM` 
+- [**Mars Assault Vehicle (ATM)**](../../units/mars_assault_vehicle/mars_assault_vehicle_atm.md) *Juggernaut (3065)* `ECM` 
+- [**Mars Assault Vehicle (HAG)**](../../units/mars_assault_vehicle/mars_assault_vehicle_hag.md) *Missile Boat (3075)* `ECM` 
 
 ## ’Mechs 
 
@@ -377,7 +382,7 @@
 
 #### [Locust](../../units/locust.md) 
 
-- [**Locust LCT-5W2**](../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave` , `ECM` , `TAG` 
+- [**Locust LCT-5W2**](../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 
 #### [Piranha](../../units/piranha.md) 
 

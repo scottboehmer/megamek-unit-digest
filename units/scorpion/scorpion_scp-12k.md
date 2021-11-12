@@ -15,7 +15,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
 - **Battle Value:** 1260 
 

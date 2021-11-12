@@ -6,7 +6,7 @@
 
 #### [Ground Car](../../units/ground_car.md) 
 
-- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* `Transport:0.5` 
 
 #### [Hi-Scout Drone](../../units/hi-scout_drone.md) 
 
@@ -15,13 +15,17 @@
 
 #### [Jet Sled](../../units/jet_sled.md) 
 
-- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* `Transport:0.5` 
 
 ### 5 Tons 
 
+#### [Jeep](../../units/jeep.md) 
+
+- [**Jeep (Standard)**](../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
+
 #### [Savannah Master Hovercraft](../../units/savannah_master_hovercraft.md) 
 
-- [**Savannah Master Hovercraft (Interdictor)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* 
+- [**Savannah Master Hovercraft (Interdictor)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* `ECM` 
 
 ### 10 Tons 
 
@@ -29,16 +33,16 @@
 
 - [**Armored Personnel Carrier (Hover LRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_lrm.md) *Missile Boat (2500)* 
 - [**Armored Personnel Carrier (Hover MG)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_mg.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Hover SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_srm.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Hover)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Hover SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_srm.md) *Scout (2500)* `Transport:1.0` 
+- [**Armored Personnel Carrier (Hover)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* `Transport:1.0` 
 - [**Armored Personnel Carrier (Tracked LRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_lrm.md) *Missile Boat (2500)* 
 - [**Armored Personnel Carrier (Tracked MG)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_mg.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Tracked SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_srm.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Tracked)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Tracked SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_srm.md) *Scout (2500)* `Transport:1.0` 
+- [**Armored Personnel Carrier (Tracked)**](../../units/armored_personnel_carrier/armored_personnel_carrier_tracked.md) *Scout (2500)* `Transport:1.0` 
 - [**Armored Personnel Carrier (Wheeled LRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_lrm.md) *Missile Boat (2500)* 
 - [**Armored Personnel Carrier (Wheeled MG)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_mg.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Wheeled SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_srm.md) *Scout (2500)* 
-- [**Armored Personnel Carrier (Wheeled)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Wheeled SRM)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled_srm.md) *Scout (2500)* `Transport:1.0` 
+- [**Armored Personnel Carrier (Wheeled)**](../../units/armored_personnel_carrier/armored_personnel_carrier_wheeled.md) *Scout (2500)* `Transport:1.0` 
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
 
@@ -73,58 +77,58 @@
 
 #### [Ripper Infantry Transport](../../units/ripper_infantry_transport.md) 
 
-- [**Ripper Infantry Transport (Standard)**](../../units/ripper_infantry_transport/ripper_infantry_transport_standard.md) *Scout (2680)* 
+- [**Ripper Infantry Transport (Standard)**](../../units/ripper_infantry_transport/ripper_infantry_transport_standard.md) *Scout (2680)* `Transport:1.0` 
 
 #### [Sprint Scout Helicopter](../../units/sprint_scout_helicopter.md) 
 
-- [**Sprint Scout Helicopter (Standard)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_standard.md) *Scout (3052)* 
-- [**Sprint Scout Helicopter (Laser)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_laser.md) *Scout (3056)* 
-- [**Sprint Scout Helicopter (Troop Transport)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_troop_transport.md) *Scout (3056)* 
-- [**Sprint Scout Helicopter (C3)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_c3.md) *Scout (3057)* 
-- [**Sprint Scout Helicopter (Interdictor)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_interdictor.md) *Scout (3076)* 
+- [**Sprint Scout Helicopter (Standard)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_standard.md) *Scout (3052)* `Active Probe` , `TAG` 
+- [**Sprint Scout Helicopter (Laser)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_laser.md) *Scout (3056)* `Active Probe` 
+- [**Sprint Scout Helicopter (Troop Transport)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_troop_transport.md) *Scout (3056)* `Transport:2.5` 
+- [**Sprint Scout Helicopter (C3)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_c3.md) *Scout (3057)* `Active Probe` , `C3 Support` 
+- [**Sprint Scout Helicopter (Interdictor)**](../../units/sprint_scout_helicopter/sprint_scout_helicopter_interdictor.md) *Scout (3076)* `ECM` , `TAG` 
 
 ### 15 Tons 
 
 #### [Crow Scout Helicopter](../../units/crow_scout_helicopter.md) 
 
-- [**Crow Scout Helicopter (Standard)**](../../units/crow_scout_helicopter/crow_scout_helicopter_standard.md) *Scout (3068)* 
-- [**Crow Scout Helicopter (C3)**](../../units/crow_scout_helicopter/crow_scout_helicopter_c3.md) *Scout (3070)* 
+- [**Crow Scout Helicopter (Standard)**](../../units/crow_scout_helicopter/crow_scout_helicopter_standard.md) *Scout (3068)* `Active Probe` , `ECM` , `TAG` 
+- [**Crow Scout Helicopter (C3)**](../../units/crow_scout_helicopter/crow_scout_helicopter_c3.md) *Scout (3070)* `Active Probe` , `C3 Support` , `ECM` 
 
 #### [Mantis Light Attack VTOL](../../units/mantis_light_attack_vtol.md) 
 
-- [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* 
+- [**Mantis Light Attack VTOL (Standard)**](../../units/mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) *Scout (3061)* `Active Probe` , `ECM` 
 
 #### [Marten Scout VTOL](../../units/marten_scout_vtol.md) 
 
-- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* 
-- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* 
+- [**Marten Scout VTOL (Standard)**](../../units/marten_scout_vtol/marten_scout_vtol_standard.md) *Scout (3021)* `Transport:1.0` 
+- [**Marten Scout VTOL (Infantry)**](../../units/marten_scout_vtol/marten_scout_vtol_infantry.md) *Scout (3024)* `Transport:3.0` 
 
 ### 20 Tons 
 
 #### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
 
-- [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* 
-- [**Heavy Hover APC (MG)**](../../units/heavy_hover_apc/heavy_hover_apc_mg.md) *Scout (2470)* 
-- [**Heavy Hover APC (SRM)**](../../units/heavy_hover_apc/heavy_hover_apc_srm.md) *Scout (2470)* 
-- [**Heavy Hover APC (Standard)**](../../units/heavy_hover_apc/heavy_hover_apc_standard.md) *Scout (2470)* 
+- [**Heavy Hover APC (LRM)**](../../units/heavy_hover_apc/heavy_hover_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Hover APC (MG)**](../../units/heavy_hover_apc/heavy_hover_apc_mg.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Hover APC (SRM)**](../../units/heavy_hover_apc/heavy_hover_apc_srm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Hover APC (Standard)**](../../units/heavy_hover_apc/heavy_hover_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
 #### [Heavy Tracked APC](../../units/heavy_tracked_apc.md) 
 
-- [**Heavy Tracked APC (LRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* 
-- [**Heavy Tracked APC (MG)**](../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* 
-- [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* 
-- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
+- [**Heavy Tracked APC (LRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Tracked APC (MG)**](../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Tracked APC (SRM)**](../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
 #### [Heavy Transport B1](../../units/heavy_transport_b1.md) 
 
-- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* 
+- [**Heavy Transport B1 (Standard)**](../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* `Transport:7.0` 
 
 #### [Heavy Wheeled APC](../../units/heavy_wheeled_apc.md) 
 
-- [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* 
-- [**Heavy Wheeled APC (MG)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_mg.md) *Scout (2470)* 
-- [**Heavy Wheeled APC (SRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* 
-- [**Heavy Wheeled APC (Standard)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* 
+- [**Heavy Wheeled APC (LRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Wheeled APC (MG)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_mg.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Wheeled APC (SRM)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
+- [**Heavy Wheeled APC (Standard)**](../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
 #### [M.A.S.H. Truck](../../units/m.a.s.h._truck.md) 
 
@@ -136,12 +140,12 @@
 
 #### [Packrat LRPV](../../units/packrat_lrpv.md) 
 
-- [**Packrat LRPV PKR-T5**](../../units/packrat_lrpv/packrat_lrpv_pkr-t5.md) *Scout (2650)* 
+- [**Packrat LRPV PKR-T5**](../../units/packrat_lrpv/packrat_lrpv_pkr-t5.md) *Scout (2650)* `Transport:1.0` 
 
 #### [Skulker Wheeled Scout Tank](../../units/skulker_wheeled_scout_tank.md) 
 
 - [**Skulker Wheeled Scout Tank (Standard)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
-- [**Skulker Wheeled Scout Tank (C3M)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c3m.md) *Scout (3077)* 
+- [**Skulker Wheeled Scout Tank (C3M)**](../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c3m.md) *Scout (3077)* `C3 Main` , `TAG` 
 
 #### [Warrior Attack Helicopter](../../units/warrior_attack_helicopter.md) 
 
@@ -149,6 +153,7 @@
 
 #### [Wheeled Scout](../../units/wheeled_scout.md) 
 
+- [**Wheeled Scout (Camera)**](../../units/wheeled_scout/wheeled_scout_camera.md) *Undefined (2500)* 
 - [**Wheeled Scout (Standard)**](../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
 - [**Wheeled Scout (Sensors)**](../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
@@ -163,12 +168,12 @@
 
 #### [Aeron Strike VTOL](../../units/aeron_strike_vtol.md) 
 
-- [**Aeron Strike VTOL (BAP)**](../../units/aeron_strike_vtol/aeron_strike_vtol_bap.md) *Scout (3084)* 
+- [**Aeron Strike VTOL (BAP)**](../../units/aeron_strike_vtol/aeron_strike_vtol_bap.md) *Scout (3084)* `Active Probe` , `ECM` 
 
 #### [Balac Strike VTOL](../../units/balac_strike_vtol.md) 
 
 - [**Balac Strike VTOL (LRM)**](../../units/balac_strike_vtol/balac_strike_vtol_lrm.md) *Missile Boat (3079)* 
-- [**Balac Strike VTOL (Spotter)**](../../units/balac_strike_vtol/balac_strike_vtol_spotter.md) *Striker (3079)* 
+- [**Balac Strike VTOL (Spotter)**](../../units/balac_strike_vtol/balac_strike_vtol_spotter.md) *Striker (3079)* `Active Probe` , `ECM` , `TAG` 
 - [**Balac Strike VTOL (Standard)**](../../units/balac_strike_vtol/balac_strike_vtol_standard.md) *Striker (3079)* 
 - [**Balac Strike VTOL (Hybrid)**](../../units/balac_strike_vtol/balac_strike_vtol_hybrid.md) *Striker (3090)* 
 
@@ -177,13 +182,13 @@
 - [**Cavalry Attack Helicopter (Standard)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_standard.md) *Striker (3054)* 
 - [**Cavalry Attack Helicopter (LRM)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_lrm.md) *Missile Boat (3055)* 
 - [**Cavalry Attack Helicopter (SRM)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_srm.md) *Striker (3055)* 
-- [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* 
-- [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* 
+- [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* `TAG` 
+- [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* `Transport:3.5` 
 
 #### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
 
 - [**DI Multipurpose VTOL (Gunship)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
-- [**DI Multipurpose VTOL (Standard)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_standard.md) *Scout (3097)* 
+- [**DI Multipurpose VTOL (Standard)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_standard.md) *Scout (3097)* `Active Probe` , `TAG` , `Transport:4.0` 
 
 #### [Harasser Missile Platform](../../units/harasser_missile_platform.md) 
 
@@ -204,12 +209,12 @@
 
 - [**J. Edgar Light Hover Tank (Standard)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) *Scout (2722)* 
 - [**J. Edgar Light Hover Tank (MG)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
-- [**J. Edgar Light Hover Tank (Kurita)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_kurita.md) *Striker (3053)* 
-- [**J. Edgar Light Hover Tank (TAG)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_tag.md) *Scout (3053)* 
+- [**J. Edgar Light Hover Tank (Kurita)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_kurita.md) *Striker (3053)* `C3 Support` 
+- [**J. Edgar Light Hover Tank (TAG)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_tag.md) *Scout (3053)* `Active Probe` , `TAG` 
 
 #### [Kestrel VTOL](../../units/kestrel_vtol.md) 
 
-- [**Kestrel VTOL (MedEvac)**](../../units/kestrel_vtol/kestrel_vtol_medevac.md) *Undefined (3022)* 
+- [**Kestrel VTOL (MedEvac)**](../../units/kestrel_vtol/kestrel_vtol_medevac.md) *Undefined (3022)* `Transport:3.5` 
 
 #### [Mobile Headquarters](../../units/mobile_headquarters.md) 
 
@@ -223,15 +228,15 @@
 
 #### [Shandra Advanced Scout Vehicle](../../units/shandra_advanced_scout_vehicle.md) 
 
-- [**Shandra Advanced Scout Vehicle (Original)**](../../units/shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_original.md) *Scout (3087)* 
-- [**Shandra Advanced Scout Vehicle (Standard)**](../../units/shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_standard.md) *Scout (3089)* 
+- [**Shandra Advanced Scout Vehicle (Original)**](../../units/shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_original.md) *Scout (3087)* `ECM` 
+- [**Shandra Advanced Scout Vehicle (Standard)**](../../units/shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_standard.md) *Scout (3089)* `ECM` 
 
 ### 30 Tons 
 
 #### [Cobra Transport VTOL](../../units/cobra_transport_vtol.md) 
 
 - [**Cobra Transport VTOL (Standard)**](../../units/cobra_transport_vtol/cobra_transport_vtol_standard.md) *Scout (2620)* 
-- [**Cobra Transport VTOL (Command)**](../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* 
+- [**Cobra Transport VTOL (Command)**](../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* `Transport:3.0` 
 - [**Cobra Transport VTOL (MASH)**](../../units/cobra_transport_vtol/cobra_transport_vtol_mash.md) *Scout (2669)* 
 
 #### [Coolant Truck](../../units/coolant_truck.md) 
@@ -241,25 +246,25 @@
 
 #### [Crane Heavy Transport](../../units/crane_heavy_transport.md) 
 
-- [**Crane Heavy Transport (Standard)**](../../units/crane_heavy_transport/crane_heavy_transport_standard.md) *Scout (3130)* 
+- [**Crane Heavy Transport (Standard)**](../../units/crane_heavy_transport/crane_heavy_transport_standard.md) *Scout (3130)* `Transport:8.0` 
 
 #### [Galleon Light Tank](../../units/galleon_light_tank.md) 
 
-- [**Galleon Light Tank GAL-102**](../../units/galleon_light_tank/galleon_light_tank_gal-102.md) *Striker (3048)* 
+- [**Galleon Light Tank GAL-102**](../../units/galleon_light_tank/galleon_light_tank_gal-102.md) *Striker (3048)* `Active Probe` 
 
 #### [Garrot Superheavy Transport](../../units/garrot_superheavy_transport.md) 
 
-- [**Garrot Superheavy Transport (Standard)**](../../units/garrot_superheavy_transport/garrot_superheavy_transport_standard.md) *Undefined (3100)* 
+- [**Garrot Superheavy Transport (Standard)**](../../units/garrot_superheavy_transport/garrot_superheavy_transport_standard.md) *Undefined (3100)* `Transport:1.0` 
 
 #### [Karnov UR Transport](../../units/karnov_ur_transport.md) 
 
-- [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Undefined (2600)* 
-- [**Karnov UR Transport (3055 Upgrade)**](../../units/karnov_ur_transport/karnov_ur_transport_3055_upgrade.md) *Undefined (3055)* 
-- [**Karnov UR Transport (BA)**](../../units/karnov_ur_transport/karnov_ur_transport_ba.md) *Undefined (3063)* 
+- [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Undefined (2600)* `Transport:6.0` 
+- [**Karnov UR Transport (3055 Upgrade)**](../../units/karnov_ur_transport/karnov_ur_transport_3055_upgrade.md) *Undefined (3055)* `Transport:7.0` 
+- [**Karnov UR Transport (BA)**](../../units/karnov_ur_transport/karnov_ur_transport_ba.md) *Undefined (3063)* `ECM` , `Transport:8.0` 
 
 #### [Kite Reconnaissance Vehicle](../../units/kite_reconnaissance_vehicle.md) 
 
-- [**Kite Reconnaissance Vehicle (Standard)**](../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* 
+- [**Kite Reconnaissance Vehicle (Standard)**](../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Koryu Submarine](../../units/koryu_submarine.md) 
 
@@ -268,7 +273,7 @@
 
 #### [Quaestor Mobile Tactical Command HQ](../../units/quaestor_mobile_tactical_command_hq.md) 
 
-- [**Quaestor Mobile Tactical Command HQ (Standard)**](../../units/quaestor_mobile_tactical_command_hq/quaestor_mobile_tactical_command_hq_standard.md) *Scout (3095)* 
+- [**Quaestor Mobile Tactical Command HQ (Standard)**](../../units/quaestor_mobile_tactical_command_hq/quaestor_mobile_tactical_command_hq_standard.md) *Scout (3095)* `ECM` 
 
 #### [Skadi Swift Attack VTOL](../../units/skadi_swift_attack_vtol.md) 
 
@@ -276,9 +281,9 @@
 
 #### [Yasha VTOL](../../units/yasha_vtol.md) 
 
-- [**Yasha VTOL 'Spectre'**](../../units/yasha_vtol/yasha_vtol_spectre.md) *Scout (3085)* 
-- [**Yasha VTOL (Interdictor)**](../../units/yasha_vtol/yasha_vtol_interdictor.md) *Missile Boat (3085)* 
-- [**Yasha VTOL (Standard)**](../../units/yasha_vtol/yasha_vtol_standard.md) *Scout (3085)* 
+- [**Yasha VTOL 'Spectre'**](../../units/yasha_vtol/yasha_vtol_spectre.md) *Scout (3085)* `ECM` , `Stealth` 
+- [**Yasha VTOL (Interdictor)**](../../units/yasha_vtol/yasha_vtol_interdictor.md) *Missile Boat (3085)* `Active Probe` , `ECM` 
+- [**Yasha VTOL (Standard)**](../../units/yasha_vtol/yasha_vtol_standard.md) *Scout (3085)* `C3 Support` 
 
 #### [Yellow Jacket Gunship](../../units/yellow_jacket_gunship.md) 
 
@@ -286,7 +291,7 @@
 - [**Yellow Jacket Gunship (Standard)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_standard.md) *Sniper (3058)* 
 - [**Yellow Jacket Gunship (RAC)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_rac.md) *Striker (3066)* 
 - [**Yellow Jacket Gunship (Arrow IV)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_arrow_iv.md) *Missile Boat (3067)* 
-- [**Yellow Jacket Gunship (PPC)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_ppc.md) *Sniper (3076)* 
+- [**Yellow Jacket Gunship (PPC)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_ppc.md) *Sniper (3076)* `C3 Support` 
 
 ### 35 Tons 
 
@@ -297,7 +302,7 @@
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
 
-- [**Gun Trailer (Stronghold)**](../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* 
+- [**Gun Trailer (Stronghold)**](../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* `Transport:4.0` 
 - [**Gun Trailer (Siege)**](../../units/gun_trailer/gun_trailer_siege.md) *Missile Boat (3094)* 
 - [**Gun Trailer (LRM)**](../../units/gun_trailer/gun_trailer_lrm.md) *Missile Boat (3095)* 
 - [**Gun Trailer (Artillery/AA)**](../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
@@ -305,7 +310,7 @@
 - [**Gun Trailer (Ultra)**](../../units/gun_trailer/gun_trailer_ultra.md) *Juggernaut (3098)* 
 - [**Gun Trailer (Thunderbolt)**](../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
 - [**Gun Trailer (Sniper Cannon)**](../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Missile Boat (3101)* 
-- [**Gun Trailer (Mjolnir)**](../../units/gun_trailer/gun_trailer_mjolnir.md) *Sniper (3112)* 
+- [**Gun Trailer (Mjolnir)**](../../units/gun_trailer/gun_trailer_mjolnir.md) *Sniper (3112)* `ECM` , `Stealth` 
 
 #### [Hunter Light Support Tank](../../units/hunter_light_support_tank.md) 
 
@@ -313,7 +318,7 @@
 
 #### [MHI Amphibious APC](../../units/mhi_amphibious_apc.md) 
 
-- [**MHI Amphibious APC (Standard)**](../../units/mhi_amphibious_apc/mhi_amphibious_apc_standard.md) *Scout (3101)* 
+- [**MHI Amphibious APC (Standard)**](../../units/mhi_amphibious_apc/mhi_amphibious_apc_standard.md) *Scout (3101)* `Transport:8.0` 
 
 #### [MIT24 MASH Vehicle](../../units/mit24_mash_vehicle.md) 
 
@@ -324,16 +329,16 @@
 - [**Pegasus Scout Hover Tank (Standard)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_standard.md) *Striker (2791)* 
 - [**Pegasus Scout Hover Tank (Sensors)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_sensors.md) *Scout (2798)* 
 - [**Pegasus Scout Hover Tank (Missile)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_missile.md) *Striker (2854)* 
-- [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* 
-- [**Pegasus Scout Hover Tank (MRM)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_mrm.md) *Striker (3063)* 
-- [**Pegasus Scout Hover Tank (C3)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) *Striker (3070)* 
-- [**Pegasus Scout Hover Tank (Sealed)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) *Striker (3076)* 
-- [**Pegasus Scout Hover Tank X-Pulse**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_x-pulse.md) *Striker (3086)* 
+- [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* `Active Probe` , `ECM` , `TAG` 
+- [**Pegasus Scout Hover Tank (MRM)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_mrm.md) *Striker (3063)* `C3 Support` , `ECM` 
+- [**Pegasus Scout Hover Tank (C3)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) *Striker (3070)* `C3 Support` 
+- [**Pegasus Scout Hover Tank (Sealed)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) *Striker (3076)* `Active Probe` , `ECM` , `TAG` 
+- [**Pegasus Scout Hover Tank X-Pulse**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_x-pulse.md) *Striker (3086)* `C3 Support` 
 
 #### [Plainsman Medium Hovertank](../../units/plainsman_medium_hovertank.md) 
 
 - [**Plainsman Medium Hovertank (Standard)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_standard.md) *Striker (3030)* 
-- [**Plainsman Medium Hovertank (Scout)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_scout.md) *Scout (3065)* 
+- [**Plainsman Medium Hovertank (Scout)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_scout.md) *Scout (3065)* `Active Probe` 
 - [**Plainsman Medium Hovertank (Streak)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_streak.md) *Striker (3071)* 
 - [**Plainsman Medium Hovertank (Sealed)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_sealed.md) *Striker (3074)* 
 
@@ -346,7 +351,7 @@
 #### [Saladin Mk II HCV](../../units/saladin_mk_ii_hcv.md) 
 
 - [**Saladin Mk II HCV (Standard)**](../../units/saladin_mk_ii_hcv/saladin_mk_ii_hcv_standard.md) *Striker (3137)* 
-- [**Saladin Mk II HCV (BC3)**](../../units/saladin_mk_ii_hcv/saladin_mk_ii_hcv_bc3.md) *Scout (3138)* 
+- [**Saladin Mk II HCV (BC3)**](../../units/saladin_mk_ii_hcv/saladin_mk_ii_hcv_bc3.md) *Scout (3138)* `C3 Support` 
 
 #### [Saracen Medium Hover Tank](../../units/saracen_medium_hover_tank.md) 
 
@@ -356,19 +361,19 @@
 #### [Saracen Mk II HCV](../../units/saracen_mk_ii_hcv.md) 
 
 - [**Saracen Mk II HCV (Standard)**](../../units/saracen_mk_ii_hcv/saracen_mk_ii_hcv_standard.md) *Striker (3137)* 
-- [**Saracen Mk II HCV (BC3)**](../../units/saracen_mk_ii_hcv/saracen_mk_ii_hcv_bc3.md) *Scout (3140)* 
+- [**Saracen Mk II HCV (BC3)**](../../units/saracen_mk_ii_hcv/saracen_mk_ii_hcv_bc3.md) *Scout (3140)* `C3 Support` 
 
 #### [Scimitar Medium Hover Tank](../../units/scimitar_medium_hover_tank.md) 
 
 - [**Scimitar Medium Hover Tank (Standard)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_standard.md) *Striker (2937)* 
-- [**Scimitar Medium Hover Tank (TAG)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_tag.md) *Striker (3050)* 
-- [**Scimitar Medium Hover Tank (C3)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* 
+- [**Scimitar Medium Hover Tank (TAG)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_tag.md) *Striker (3050)* `TAG` 
+- [**Scimitar Medium Hover Tank (C3)**](../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* `C3 Support` 
 
 #### [Scimitar Mk II HCV](../../units/scimitar_mk_ii_hcv.md) 
 
-- [**Scimitar Mk II HCV (Standard)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_standard.md) *Scout (3105)* 
-- [**Scimitar Mk II HCV (3136 Upgrade)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_3136_upgrade.md) *Striker (3137)* 
-- [**Scimitar Mk II HCV (BC3)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_bc3.md) *Striker (3138)* 
+- [**Scimitar Mk II HCV (Standard)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_standard.md) *Scout (3105)* `ECM` 
+- [**Scimitar Mk II HCV (3136 Upgrade)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_3136_upgrade.md) *Striker (3137)* `ECM` 
+- [**Scimitar Mk II HCV (BC3)**](../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_bc3.md) *Striker (3138)* `C3 Support` 
 
 #### [Skanda Light Tank](../../units/skanda_light_tank.md) 
 
@@ -381,12 +386,12 @@
 - [**Striker Light Tank (3053 Upgrade)**](../../units/striker_light_tank/striker_light_tank_3053_upgrade.md) *Missile Boat (3053)* 
 - [**Striker Light Tank (Narc)**](../../units/striker_light_tank/striker_light_tank_narc.md) *Missile Boat (3053)* 
 - [**Striker Light Tank (Ammo)**](../../units/striker_light_tank/striker_light_tank_ammo.md) *Missile Boat (3054)* 
-- [**Striker Light Tank (3061 Upgrade)**](../../units/striker_light_tank/striker_light_tank_3061_upgrade.md) *Missile Boat (3061)* 
-- [**Striker Light Tank (Sealed)**](../../units/striker_light_tank/striker_light_tank_sealed.md) *Missile Boat (3077)* 
+- [**Striker Light Tank (3061 Upgrade)**](../../units/striker_light_tank/striker_light_tank_3061_upgrade.md) *Missile Boat (3061)* `C3 Support` , `ECM` 
+- [**Striker Light Tank (Sealed)**](../../units/striker_light_tank/striker_light_tank_sealed.md) *Missile Boat (3077)* `ECM` 
 
 #### [Svantovit Infantry Fighting Vehicle](../../units/svantovit_infantry_fighting_vehicle.md) 
 
-- [**Svantovit Infantry Fighting Vehicle (Standard)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_standard.md) *Missile Boat (2870)* 
+- [**Svantovit Infantry Fighting Vehicle (Standard)**](../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_standard.md) *Missile Boat (2870)* `Transport:5.0` 
 
 ### 40 Tons 
 
@@ -403,14 +408,14 @@
 
 #### [Hiryo Armored Infantry Transport](../../units/hiryo_armored_infantry_transport.md) 
 
-- [**Hiryo Armored Infantry Transport (Standard)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_standard.md) *Scout (3069)* 
-- [**Hiryo Armored Infantry Transport (Light PPC)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_light_ppc.md) *Scout (3070)* 
-- [**Hiryo Armored Infantry Transport (MRM)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_mrm.md) *Striker (3070)* 
-- [**Hiryo Armored Infantry Transport 'BloodHound'**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_bloodhound.md) *Scout (3083)* 
+- [**Hiryo Armored Infantry Transport (Standard)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_standard.md) *Scout (3069)* `Transport:8.0` 
+- [**Hiryo Armored Infantry Transport (Light PPC)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_light_ppc.md) *Scout (3070)* `Transport:8.0` 
+- [**Hiryo Armored Infantry Transport (MRM)**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_mrm.md) *Striker (3070)* `Transport:4.0` 
+- [**Hiryo Armored Infantry Transport 'BloodHound'**](../../units/hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_bloodhound.md) *Scout (3083)* `Active Probe` , `Transport:4.0` 
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
 
-- [**Joust Medium Tank BE700**](../../units/joust_medium_tank/joust_medium_tank_be700.md) *Skirmisher (3077)* 
+- [**Joust Medium Tank BE700**](../../units/joust_medium_tank/joust_medium_tank_be700.md) *Skirmisher (3077)* `Active Probe` 
 - [**Joust Medium Tank BE701**](../../units/joust_medium_tank/joust_medium_tank_be701.md) *Skirmisher (3086)* 
 
 #### [Myrmidon Medium Tank](../../units/myrmidon_medium_tank.md) 
@@ -432,14 +437,14 @@
 
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
-- [**Zephyr Hovertank (Standard)**](../../units/zephyr_hovertank/zephyr_hovertank_standard.md) *Striker (2621)* 
+- [**Zephyr Hovertank (Standard)**](../../units/zephyr_hovertank/zephyr_hovertank_standard.md) *Striker (2621)* `ECM` , `TAG` 
 
 ### 45 Tons 
 
 #### [Cizin Hover Tank](../../units/cizin_hover_tank.md) 
 
 - [**Cizin Hover Tank (Standard)**](../../units/cizin_hover_tank/cizin_hover_tank_standard.md) *Striker (3097)* 
-- [**Cizin Hover Tank (Support)**](../../units/cizin_hover_tank/cizin_hover_tank_support.md) *Striker (3124)* 
+- [**Cizin Hover Tank (Support)**](../../units/cizin_hover_tank/cizin_hover_tank_support.md) *Striker (3124)* `ECM` 
 
 #### [Ranger Armored Fighting Vehicle](../../units/ranger_armored_fighting_vehicle.md) 
 
@@ -448,7 +453,7 @@
 
 #### [Tyr Infantry Support Tank](../../units/tyr_infantry_support_tank.md) 
 
-- [**Tyr Infantry Support Tank (Kurita)**](../../units/tyr_infantry_support_tank/tyr_infantry_support_tank_kurita.md) *Missile Boat (3070)* 
+- [**Tyr Infantry Support Tank (Kurita)**](../../units/tyr_infantry_support_tank/tyr_infantry_support_tank_kurita.md) *Missile Boat (3070)* `Transport:4.0` 
 
 ### 50 Tons 
 
@@ -458,7 +463,7 @@
 
 #### [Cardinal Transport](../../units/cardinal_transport.md) 
 
-- [**Cardinal Transport (Standard)**](../../units/cardinal_transport/cardinal_transport_standard.md) *Striker (3112)* 
+- [**Cardinal Transport (Standard)**](../../units/cardinal_transport/cardinal_transport_standard.md) *Striker (3112)* `Transport:10.0` 
 
 #### [Chaparral Missile Artillery Tank](../../units/chaparral_missile_artillery_tank.md) 
 
@@ -469,12 +474,12 @@
 #### [Condor Heavy Hover Tank](../../units/condor_heavy_hover_tank.md) 
 
 - [**Condor Heavy Hover Tank (Standard)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_standard.md) *Striker (2564)* 
-- [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* 
+- [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* `ECM` 
 
 #### [Daimyo HQ](../../units/daimyo_hq.md) 
 
-- [**Daimyo HQ 67-K**](../../units/daimyo_hq/daimyo_hq_67-k.md) *Scout (2781)* 
-- [**Daimyo HQ 67-K2**](../../units/daimyo_hq/daimyo_hq_67-k2.md) *Sniper (3067)* 
+- [**Daimyo HQ 67-K**](../../units/daimyo_hq/daimyo_hq_67-k.md) *Scout (2781)* `Transport:4.0` 
+- [**Daimyo HQ 67-K2**](../../units/daimyo_hq/daimyo_hq_67-k2.md) *Sniper (3067)* `Transport:4.0` 
 
 #### [JES I Tactical Missile Carrier](../../units/jes_i_tactical_missile_carrier.md) 
 
@@ -482,30 +487,30 @@
 
 #### [Maxim (I) Heavy Hover Transport](../../units/maxim_i_heavy_hover_transport.md) 
 
-- [**Maxim (I) Heavy Hover Transport (Standard)**](../../units/maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_standard.md) *Striker (3060)* 
-- [**Maxim (I) Heavy Hover Transport (Company Command)**](../../units/maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_company_command.md) *Striker (3069)* 
+- [**Maxim (I) Heavy Hover Transport (Standard)**](../../units/maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_standard.md) *Striker (3060)* `TAG` , `Transport:12.0` 
+- [**Maxim (I) Heavy Hover Transport (Company Command)**](../../units/maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_company_command.md) *Striker (3069)* `C3 Main` , `ECM` , `TAG` 
 
 #### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 
-- [**Maxim Heavy Hover Transport (Standard)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_standard.md) *Striker (2689)* 
-- [**Maxim Heavy Hover Transport (3052 Upgrade)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_3052_upgrade.md) *Striker (3052)* 
-- [**Maxim Heavy Hover Transport (Fire Support)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_fire_support.md) *Missile Boat (3053)* 
-- [**Maxim Heavy Hover Transport (Anti-Infantry)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_anti-infantry.md) *Striker (3054)* 
-- [**Maxim Heavy Hover Transport (BA Factory Upgrade)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_factory_upgrade.md) *Striker (3055)* 
-- [**Maxim Heavy Hover Transport (BA Field Upgrade)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_field_upgrade.md) *Striker (3056)* 
-- [**Maxim Heavy Hover Transport (C3M)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3m.md) *Striker (3068)* 
-- [**Maxim Heavy Hover Transport (C3S)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3s.md) *Striker (3068)* 
+- [**Maxim Heavy Hover Transport (Standard)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_standard.md) *Striker (2689)* `Transport:3.0` 
+- [**Maxim Heavy Hover Transport (3052 Upgrade)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_3052_upgrade.md) *Striker (3052)* `TAG` , `Transport:3.0` 
+- [**Maxim Heavy Hover Transport (Fire Support)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_fire_support.md) *Missile Boat (3053)* `Transport:3.0` 
+- [**Maxim Heavy Hover Transport (Anti-Infantry)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_anti-infantry.md) *Striker (3054)* `TAG` , `Transport:3.0` 
+- [**Maxim Heavy Hover Transport (BA Factory Upgrade)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_factory_upgrade.md) *Striker (3055)* `Transport:4.0` 
+- [**Maxim Heavy Hover Transport (BA Field Upgrade)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_field_upgrade.md) *Striker (3056)* `TAG` , `Transport:4.0` 
+- [**Maxim Heavy Hover Transport (C3M)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3m.md) *Striker (3068)* `C3 Main` , `TAG` 
+- [**Maxim Heavy Hover Transport (C3S)**](../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3s.md) *Striker (3068)* `C3 Support` , `TAG` , `Transport:4.0` 
 
 #### [Maxim Mk II Transport](../../units/maxim_mk_ii_transport.md) 
 
-- [**Maxim Mk II Transport (Standard)**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_standard.md) *Striker (3083)* 
-- [**Maxim Mk II Transport (ECM)**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_ecm.md) *Scout (3087)* 
+- [**Maxim Mk II Transport (Standard)**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_standard.md) *Striker (3083)* `Transport:16.0` 
+- [**Maxim Mk II Transport (ECM)**](../../units/maxim_mk_ii_transport/maxim_mk_ii_transport_ecm.md) *Scout (3087)* `ECM` , `Transport:16.0` 
 
 #### [Musketeer Hover Tank](../../units/musketeer_hover_tank.md) 
 
-- [**Musketeer Hover Tank (Standard)**](../../units/musketeer_hover_tank/musketeer_hover_tank_standard.md) *Striker (3065)* 
-- [**Musketeer Hover Tank (Armor)**](../../units/musketeer_hover_tank/musketeer_hover_tank_armor.md) *Striker (3068)* 
-- [**Musketeer Hover Tank (3080 Upgrade)**](../../units/musketeer_hover_tank/musketeer_hover_tank_3080_upgrade.md) *Striker (3080)* 
+- [**Musketeer Hover Tank (Standard)**](../../units/musketeer_hover_tank/musketeer_hover_tank_standard.md) *Striker (3065)* `TAG` 
+- [**Musketeer Hover Tank (Armor)**](../../units/musketeer_hover_tank/musketeer_hover_tank_armor.md) *Striker (3068)* `TAG` 
+- [**Musketeer Hover Tank (3080 Upgrade)**](../../units/musketeer_hover_tank/musketeer_hover_tank_3080_upgrade.md) *Striker (3080)* `TAG` , `Transport:4.0` 
 
 #### [Partisan AA Vehicle](../../units/partisan_aa_vehicle.md) 
 
@@ -514,11 +519,11 @@
 #### [SM1 Tank Destroyer](../../units/sm1_tank_destroyer.md) 
 
 - [**SM1 Tank Destroyer SM1**](../../units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Missile Boat (3068)* 
-- [**SM1 Tank Destroyer (Telos)**](../../units/sm1_tank_destroyer/sm1_tank_destroyer_telos.md) *Undefined (3077)* 
+- [**SM1 Tank Destroyer (Telos)**](../../units/sm1_tank_destroyer/sm1_tank_destroyer_telos.md) *Undefined (3077)* `ECM` , `Stealth` 
 
 #### [SM1A Tank Destroyer](../../units/sm1a_tank_destroyer.md) 
 
-- [**SM1A Tank Destroyer SM1A**](../../units/sm1a_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* 
+- [**SM1A Tank Destroyer SM1A**](../../units/sm1a_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
 
 #### [SM3 Tank Destroyer](../../units/sm3_tank_destroyer.md) 
 
@@ -526,8 +531,8 @@
 
 #### [Turhan Urban Combat Vehicle](../../units/turhan_urban_combat_vehicle.md) 
 
-- [**Turhan Urban Combat Vehicle (Standard)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_standard.md) *Brawler (2583)* 
-- [**Turhan Urban Combat Vehicle (C3)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_c3.md) *Brawler (3072)* 
+- [**Turhan Urban Combat Vehicle (Standard)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_standard.md) *Brawler (2583)* `Transport:5.0` 
+- [**Turhan Urban Combat Vehicle (C3)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_c3.md) *Brawler (3072)* `C3 Main` , `TAG` , `Transport:4.0` 
 
 #### [Vedette Medium Tank](../../units/vedette_medium_tank.md) 
 
@@ -536,7 +541,7 @@
 - [**Vedette Medium Tank (NETC)**](../../units/vedette_medium_tank/vedette_medium_tank_netc.md) *Sniper (3056)* 
 - [**Vedette Medium Tank (RAC)**](../../units/vedette_medium_tank/vedette_medium_tank_rac.md) *Striker (3067)* 
 - [**Vedette Medium Tank (Light Gauss)**](../../units/vedette_medium_tank/vedette_medium_tank_light_gauss.md) *Sniper (3068)* 
-- [**Vedette Medium Tank (Cell)**](../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* 
+- [**Vedette Medium Tank (Cell)**](../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* `C3 Support` 
 
 #### [Zibler Fast Strike Tank](../../units/zibler_fast_strike_tank.md) 
 
@@ -555,24 +560,24 @@
 
 #### [Padilla Tube Artillery Tank](../../units/padilla_tube_artillery_tank.md) 
 
-- [**Padilla Tube Artillery Tank (LTC)**](../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_ltc.md) *Missile Boat (3077)* 
+- [**Padilla Tube Artillery Tank (LTC)**](../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_ltc.md) *Missile Boat (3077)* `ECM` 
 - [**Padilla Tube Artillery Tank (Standard)**](../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_standard.md) *Missile Boat (3077)* 
-- [**Padilla Tube Artillery Tank (Thumper)**](../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_thumper.md) *Missile Boat (3082)* 
+- [**Padilla Tube Artillery Tank (Thumper)**](../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_thumper.md) *Missile Boat (3082)* `ECM` 
 
 #### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
 
-- [**Prowler Multi-Terrain Vehicle (Standard)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_standard.md) *Brawler (2611)* 
-- [**Prowler Multi-Terrain Vehicle (ECM)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_ecm.md) *Brawler (2614)* 
+- [**Prowler Multi-Terrain Vehicle (Standard)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_standard.md) *Brawler (2611)* `Active Probe` 
+- [**Prowler Multi-Terrain Vehicle (ECM)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_ecm.md) *Brawler (2614)* `ECM` 
 - [**Prowler Multi-Terrain Vehicle (Succession Wars)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_succession_wars.md) *Missile Boat (2863)* 
-- [**Prowler Multi-Terrain Vehicle (Support)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_support.md) *Brawler (2878)* 
-- [**Prowler Multi-Terrain Vehicle (Sealed)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_sealed.md) *Brawler (2960)* 
+- [**Prowler Multi-Terrain Vehicle (Support)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_support.md) *Brawler (2878)* `Transport:4.0` 
+- [**Prowler Multi-Terrain Vehicle (Sealed)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_sealed.md) *Brawler (2960)* `Active Probe` 
 
 ### 60 Tons 
 
 #### [AC/2 Carrier](../../units/ac_2_carrier.md) 
 
 - [**AC/2 Carrier (Standard)**](../../units/ac_2_carrier/ac_2_carrier_standard.md) *Sniper (2520)* 
-- [**AC/2 Carrier (LB-X)**](../../units/ac_2_carrier/ac_2_carrier_lb-x.md) *Sniper (3063)* 
+- [**AC/2 Carrier (LB-X)**](../../units/ac_2_carrier/ac_2_carrier_lb-x.md) *Sniper (3063)* `C3 Support` 
 
 #### [Bulldog Medium Tank](../../units/bulldog_medium_tank.md) 
 
@@ -591,7 +596,7 @@
 - [**JES III Missile Carrier (Standard)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_standard.md) *Missile Boat (3133)* 
 - [**JES III Missile Carrier (Thunderbolt)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_thunderbolt.md) *Missile Boat (3133)* 
 - [**JES III Missile Carrier (Speed)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_speed.md) *Missile Boat (3135)* 
-- [**JES III Missile Carrier (C3)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_c3.md) *Missile Boat (3140)* 
+- [**JES III Missile Carrier (C3)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_c3.md) *Missile Boat (3140)* `C3 Support` 
 
 #### [Laser Carrier](../../units/laser_carrier.md) 
 
@@ -600,12 +605,12 @@
 #### [LRM Carrier](../../units/lrm_carrier.md) 
 
 - [**LRM Carrier (Standard)**](../../units/lrm_carrier/lrm_carrier_standard.md) *Missile Boat (2470)* 
-- [**LRM Carrier (3055 Upgrade)**](../../units/lrm_carrier/lrm_carrier_3055_upgrade.md) *Missile Boat (3055)* 
+- [**LRM Carrier (3055 Upgrade)**](../../units/lrm_carrier/lrm_carrier_3055_upgrade.md) *Missile Boat (3055)* `C3 Support` 
 
 #### [Manticore Heavy Tank](../../units/manticore_heavy_tank.md) 
 
-- [**Manticore Heavy Tank (C3M)**](../../units/manticore_heavy_tank/manticore_heavy_tank_c3m.md) *Brawler (3063)* 
-- [**Manticore Heavy Tank (C3S)**](../../units/manticore_heavy_tank/manticore_heavy_tank_c3s.md) *Brawler (3063)* 
+- [**Manticore Heavy Tank (C3M)**](../../units/manticore_heavy_tank/manticore_heavy_tank_c3m.md) *Brawler (3063)* `C3 Main` , `TAG` 
+- [**Manticore Heavy Tank (C3S)**](../../units/manticore_heavy_tank/manticore_heavy_tank_c3s.md) *Brawler (3063)* `C3 Support` 
 - [**Manticore Heavy Tank (HPPC)**](../../units/manticore_heavy_tank/manticore_heavy_tank_hppc.md) *Sniper (3074)* 
 
 #### [MHI Defense AA Tank](../../units/mhi_defense_aa_tank.md) 
@@ -618,7 +623,7 @@
 
 #### [MRM Carrier](../../units/mrm_carrier.md) 
 
-- [**MRM Carrier (Standard)**](../../units/mrm_carrier/mrm_carrier_standard.md) *Ambusher (3063)* 
+- [**MRM Carrier (Standard)**](../../units/mrm_carrier/mrm_carrier_standard.md) *Ambusher (3063)* `C3 Support` 
 
 #### [Pike Support Vehicle](../../units/pike_support_vehicle.md) 
 
@@ -627,20 +632,20 @@
 #### [SRM Carrier](../../units/srm_carrier.md) 
 
 - [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
-- [**SRM Carrier (C3)**](../../units/srm_carrier/srm_carrier_c3.md) *Ambusher (3065)* 
+- [**SRM Carrier (C3)**](../../units/srm_carrier/srm_carrier_c3.md) *Ambusher (3065)* `C3 Support` , `ECM` 
 
 #### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
 
-- [**Thumper Artillery Vehicle TAV-1**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_tav-1.md) *Missile Boat (3072)* 
-- [**Thumper Artillery Vehicle Angel**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_angel.md) *Missile Boat (3089)* 
+- [**Thumper Artillery Vehicle TAV-1**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_tav-1.md) *Missile Boat (3072)* `ECM` 
+- [**Thumper Artillery Vehicle Angel**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_angel.md) *Missile Boat (3089)* `ECM` 
 
 #### [Tokugawa Heavy Tank](../../units/tokugawa_heavy_tank.md) 
 
 - [**Tokugawa Heavy Tank TKG-150**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_tkg-150.md) *Brawler (2792)* 
 - [**Tokugawa Heavy Tank TKG-151**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_tkg-151.md) *Sniper (3025)* 
 - [**Tokugawa Heavy Tank (Standard)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_standard.md) *Brawler (3053)* 
-- [**Tokugawa Heavy Tank (C3)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_c3.md) *Brawler (3061)* 
-- [**Tokugawa Heavy Tank (MRM)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_mrm.md) *Juggernaut (3062)* 
+- [**Tokugawa Heavy Tank (C3)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_c3.md) *Brawler (3061)* `C3 Support` 
+- [**Tokugawa Heavy Tank (MRM)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_mrm.md) *Juggernaut (3062)* `TAG` 
 - [**Tokugawa Heavy Tank (Streak)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_streak.md) *Brawler (3063)* 
 
 ### 65 Tons 
@@ -666,12 +671,12 @@
 #### [Kinnol MBT](../../units/kinnol_mbt.md) 
 
 - [**Kinnol MBT (Standard)**](../../units/kinnol_mbt/kinnol_mbt_standard.md) *Skirmisher (3083)* 
-- [**Kinnol MBT (PPC)**](../../units/kinnol_mbt/kinnol_mbt_ppc.md) *Skirmisher (3086)* 
+- [**Kinnol MBT (PPC)**](../../units/kinnol_mbt/kinnol_mbt_ppc.md) *Skirmisher (3086)* `C3 Support` 
 - [**Kinnol MBT (RAC)**](../../units/kinnol_mbt/kinnol_mbt_rac.md) *Brawler (3122)* 
 
 #### [Mamono IFV](../../units/mamono_ifv.md) 
 
-- [**Mamono IFV (Standard)**](../../units/mamono_ifv/mamono_ifv_standard.md) *Brawler (3095)* 
+- [**Mamono IFV (Standard)**](../../units/mamono_ifv/mamono_ifv_standard.md) *Brawler (3095)* `Transport:8.0` 
 
 #### [Shoden Assault Vehicle](../../units/shoden_assault_vehicle.md) 
 
@@ -687,7 +692,7 @@
 
 #### [Bokkusu Support Trailer](../../units/bokkusu_support_trailer.md) 
 
-- [**Bokkusu Support Trailer (Standard)**](../../units/bokkusu_support_trailer/bokkusu_support_trailer_standard.md) *Juggernaut (3086)* 
+- [**Bokkusu Support Trailer (Standard)**](../../units/bokkusu_support_trailer/bokkusu_support_trailer_standard.md) *Juggernaut (3086)* `Transport:4.0` 
 
 #### [Brutus Assault Tank](../../units/brutus_assault_tank.md) 
 
@@ -695,7 +700,7 @@
 - [**Brutus Assault Tank (LRM)**](../../units/brutus_assault_tank/brutus_assault_tank_lrm.md) *Missile Boat (3001)* 
 - [**Brutus Assault Tank (PPC)**](../../units/brutus_assault_tank/brutus_assault_tank_ppc.md) *Juggernaut (3005)* 
 - [**Brutus Assault Tank (PPC 2)**](../../units/brutus_assault_tank/brutus_assault_tank_ppc_2.md) *Juggernaut (3011)* 
-- [**Brutus Assault Tank (HPPC)**](../../units/brutus_assault_tank/brutus_assault_tank_hppc.md) *Juggernaut (3075)* 
+- [**Brutus Assault Tank (HPPC)**](../../units/brutus_assault_tank/brutus_assault_tank_hppc.md) *Juggernaut (3075)* `C3 Support` 
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
@@ -703,7 +708,7 @@
 
 #### [Monitor Naval Vessel](../../units/monitor_naval_vessel.md) 
 
-- [**Monitor Naval Vessel (Standard)**](../../units/monitor_naval_vessel/monitor_naval_vessel_standard.md) *Juggernaut (2910)* 
+- [**Monitor Naval Vessel (Standard)**](../../units/monitor_naval_vessel/monitor_naval_vessel_standard.md) *Juggernaut (2910)* `Transport:1.5` 
 
 #### [SM2 Heavy Artillery Vehicle](../../units/sm2_heavy_artillery_vehicle.md) 
 
@@ -712,7 +717,7 @@
 
 #### [Tenmaku Command Trailer](../../units/tenmaku_command_trailer.md) 
 
-- [**Tenmaku Command Trailer (Standard**](../../units/tenmaku_command_trailer/tenmaku_command_trailer_standard.md) *Juggernaut (3086)* 
+- [**Tenmaku Command Trailer (Standard**](../../units/tenmaku_command_trailer/tenmaku_command_trailer_standard.md) *Juggernaut (3086)* `C3 Main` , `ECM` , `TAG` , `Transport:8.0` 
 
 #### [Von Luckner Heavy Tank](../../units/von_luckner_heavy_tank.md) 
 
@@ -721,7 +726,7 @@
 #### [Zhukov Heavy Tank](../../units/zhukov_heavy_tank.md) 
 
 - [**Zhukov Heavy Tank (Standard)**](../../units/zhukov_heavy_tank/zhukov_heavy_tank_standard.md) *Juggernaut (3030)* 
-- [**Zhukov Heavy Tank (Liao)**](../../units/zhukov_heavy_tank/zhukov_heavy_tank_liao.md) *Sniper (3076)* 
+- [**Zhukov Heavy Tank (Liao)**](../../units/zhukov_heavy_tank/zhukov_heavy_tank_liao.md) *Sniper (3076)* `C3 Support` , `ECM` 
 
 ### 80 Tons 
 
@@ -734,7 +739,7 @@
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Gauss)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_gauss.md) *Sniper (3053)* 
 - [**Demolisher Heavy Tank (Clan)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_clan.md) *Juggernaut (3058)* 
-- [**Demolisher Heavy Tank (MRM)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_mrm.md) *Juggernaut (3060)* 
+- [**Demolisher Heavy Tank (MRM)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_mrm.md) *Juggernaut (3060)* `C3 Support` 
 - [**Demolisher Heavy Tank (Arrow IV)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) *Missile Boat (3062)* 
 
 #### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
@@ -743,20 +748,20 @@
 
 #### [Morrigu Fire Support Vehicle](../../units/morrigu_fire_support_vehicle.md) 
 
-- [**Morrigu Fire Support Vehicle (Standard)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_standard.md) *Missile Boat (3064)* 
+- [**Morrigu Fire Support Vehicle (Standard)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_standard.md) *Missile Boat (3064)* `ECM` 
 - [**Morrigu Fire Support Vehicle (Laser)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_laser.md) *Sniper (3067)* 
-- [**Morrigu Fire Support Vehicle (HAG)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_hag.md) *Missile Boat (3083)* 
+- [**Morrigu Fire Support Vehicle (HAG)**](../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_hag.md) *Missile Boat (3083)* `ECM` 
 
 #### [Partisan Air Defense Tank](../../units/partisan_air_defense_tank.md) 
 
-- [**Partisan Air Defense Tank (Standard)**](../../units/partisan_air_defense_tank/partisan_air_defense_tank_standard.md) *Sniper (3058)* 
-- [**Partisan Air Defense Tank (Cell)**](../../units/partisan_air_defense_tank/partisan_air_defense_tank_cell.md) *Sniper (3075)* 
-- [**Partisan Air Defense Tank (LRM)**](../../units/partisan_air_defense_tank/partisan_air_defense_tank_lrm.md) *Missile Boat (3075)* 
+- [**Partisan Air Defense Tank (Standard)**](../../units/partisan_air_defense_tank/partisan_air_defense_tank_standard.md) *Sniper (3058)* `C3 Support` 
+- [**Partisan Air Defense Tank (Cell)**](../../units/partisan_air_defense_tank/partisan_air_defense_tank_cell.md) *Sniper (3075)* `C3 Support` 
+- [**Partisan Air Defense Tank (LRM)**](../../units/partisan_air_defense_tank/partisan_air_defense_tank_lrm.md) *Missile Boat (3075)* `C3 Support` 
 
 #### [Partisan Heavy Tank](../../units/partisan_heavy_tank.md) 
 
 - [**Partisan Heavy Tank (Standard)**](../../units/partisan_heavy_tank/partisan_heavy_tank_standard.md) *Sniper (2791)* 
-- [**Partisan Heavy Tank (C3)**](../../units/partisan_heavy_tank/partisan_heavy_tank_c3.md) *Sniper (3062)* 
+- [**Partisan Heavy Tank (C3)**](../../units/partisan_heavy_tank/partisan_heavy_tank_c3.md) *Sniper (3062)* `C3 Support` 
 
 #### [Rhino Fire Support Tank](../../units/rhino_fire_support_tank.md) 
 
@@ -764,19 +769,19 @@
 
 #### [Schiltron Mobile Fire-Support Platform](../../units/schiltron_mobile_fire-support_platform.md) 
 
-- [**Schiltron Mobile Fire-Support Platform Prime**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_prime.md) *Missile Boat (3059)* 
-- [**Schiltron Mobile Fire-Support Platform A**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_a.md) *Juggernaut (3059)* 
-- [**Schiltron Mobile Fire-Support Platform B**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_b.md) *Missile Boat (3059)* 
-- [**Schiltron Mobile Fire-Support Platform C**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_c.md) *Juggernaut (3059)* 
-- [**Schiltron Mobile Fire-Support Platform D**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_d.md) *Juggernaut (3063)* 
-- [**Schiltron Mobile Fire-Support Platform E**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_e.md) *Missile Boat (3068)* 
-- [**Schiltron Mobile Fire-Support Platform F**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_f.md) *Missile Boat (3072)* 
+- [**Schiltron Mobile Fire-Support Platform Prime**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_prime.md) *Missile Boat (3059)* `C3 Main` , `ECM` , `TAG` 
+- [**Schiltron Mobile Fire-Support Platform A**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_a.md) *Juggernaut (3059)* `C3 Main` , `ECM` , `TAG` 
+- [**Schiltron Mobile Fire-Support Platform B**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_b.md) *Missile Boat (3059)* `C3 Main` , `ECM` , `TAG` 
+- [**Schiltron Mobile Fire-Support Platform C**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_c.md) *Juggernaut (3059)* `C3 Main` , `ECM` , `TAG` 
+- [**Schiltron Mobile Fire-Support Platform D**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_d.md) *Juggernaut (3063)* `C3 Main` , `ECM` , `TAG` 
+- [**Schiltron Mobile Fire-Support Platform E**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_e.md) *Missile Boat (3068)* `C3 Main` , `ECM` , `TAG` 
+- [**Schiltron Mobile Fire-Support Platform F**](../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_f.md) *Missile Boat (3072)* `C3 Main` , `ECM` , `TAG` 
 
 #### [Schrek PPC Carrier](../../units/schrek_ppc_carrier.md) 
 
 - [**Schrek PPC Carrier (Standard)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_standard.md) *Sniper (2813)* 
 - [**Schrek PPC Carrier (Armor)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
-- [**Schrek PPC Carrier (C3M)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* 
+- [**Schrek PPC Carrier (C3M)**](../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* `C3 Main` , `ECM` , `TAG` 
 
 #### [Sniper Artillery](../../units/sniper_artillery.md) 
 
@@ -803,14 +808,14 @@
 #### [Narukami Heavy Tank](../../units/narukami_heavy_tank.md) 
 
 - [**Narukami Heavy Tank NK-1C**](../../units/narukami_heavy_tank/narukami_heavy_tank_nk-1c.md) *Sniper (3097)* 
-- [**Narukami Heavy Tank NK-BC3**](../../units/narukami_heavy_tank/narukami_heavy_tank_nk-bc3.md) *Sniper (3108)* 
+- [**Narukami Heavy Tank NK-BC3**](../../units/narukami_heavy_tank/narukami_heavy_tank_nk-bc3.md) *Sniper (3108)* `C3 Support` 
 
 ### 95 Tons 
 
 #### [JES II Strategic Missile Carrier](../../units/jes_ii_strategic_missile_carrier.md) 
 
-- [**JES II Strategic Missile Carrier (Standard)**](../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_standard.md) *Missile Boat (3079)* 
-- [**JES II Strategic Missile Carrier (Ammo)**](../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_ammo.md) *Missile Boat (3080)* 
+- [**JES II Strategic Missile Carrier (Standard)**](../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_standard.md) *Missile Boat (3079)* `C3 Support` , `ECM` 
+- [**JES II Strategic Missile Carrier (Ammo)**](../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_ammo.md) *Missile Boat (3080)* `ECM` 
 
 #### [Kelswa Assault Tank](../../units/kelswa_assault_tank.md) 
 
@@ -838,8 +843,8 @@
 #### [DI Morgan Assault Tank](../../units/di_morgan_assault_tank.md) 
 
 - [**DI Morgan Assault Tank (Standard)**](../../units/di_morgan_assault_tank/di_morgan_assault_tank_standard.md) *Sniper (3073)* 
-- [**DI Morgan Assault Tank (Gauss)**](../../units/di_morgan_assault_tank/di_morgan_assault_tank_gauss.md) *Sniper (3075)* 
-- [**DI Morgan Assault Tank (LRM)**](../../units/di_morgan_assault_tank/di_morgan_assault_tank_lrm.md) *Missile Boat (3075)* 
+- [**DI Morgan Assault Tank (Gauss)**](../../units/di_morgan_assault_tank/di_morgan_assault_tank_gauss.md) *Sniper (3075)* `C3 Support` 
+- [**DI Morgan Assault Tank (LRM)**](../../units/di_morgan_assault_tank/di_morgan_assault_tank_lrm.md) *Missile Boat (3075)* `C3 Support` 
 
 #### [Neptune Submarine](../../units/neptune_submarine.md) 
 
@@ -850,7 +855,7 @@
 
 #### [Teppo Artillery Vehicle](../../units/teppo_artillery_vehicle.md) 
 
-- [**Teppo Artillery Vehicle (Standard)**](../../units/teppo_artillery_vehicle/teppo_artillery_vehicle_standard.md) *Missile Boat (3086)* 
+- [**Teppo Artillery Vehicle (Standard)**](../../units/teppo_artillery_vehicle/teppo_artillery_vehicle_standard.md) *Missile Boat (3086)* `ECM` , `Transport:4.0` 
 
 ## ’Mechs 
 
@@ -893,7 +898,7 @@
 - [**Locust LCT-1V**](../../units/locust/locust_lct-1v.md) *Scout (2499)* 
 - [**Locust C**](../../units/locust/locust_c.md) *Striker (2836)* 
 - [**Locust LCT-3V**](../../units/locust/locust_lct-3v.md) *Scout (3004)* 
-- [**Locust LCT-5W2**](../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Slave` , `ECM` , `TAG` 
+- [**Locust LCT-5W2**](../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 - [**Locust LCT-7V**](../../units/locust/locust_lct-7v.md) *Scout (3102)* 
 - [**Locust LCT-7V2**](../../units/locust/locust_lct-7v2.md) *Sniper (3112)* 
 
@@ -979,9 +984,9 @@
 - [**Raptor RTX1-OA**](../../units/raptor/raptor_rtx1-oa.md) *Striker (3052)* 
 - [**Raptor RTX1-OB**](../../units/raptor/raptor_rtx1-ob.md) *Striker (3052)* 
 - [**Raptor RTX1-OC**](../../units/raptor/raptor_rtx1-oc.md) *Striker (3052)* 
-- [**Raptor RTX1-OD**](../../units/raptor/raptor_rtx1-od.md) *Striker (3052)* `Active Probe` , `C3 Slave` , `TAG` 
+- [**Raptor RTX1-OD**](../../units/raptor/raptor_rtx1-od.md) *Striker (3052)* `Active Probe` , `C3 Support` , `TAG` 
 - [**Raptor RTX1-OE**](../../units/raptor/raptor_rtx1-oe.md) *Striker (3058)* 
-- [**Raptor RTX1-OR**](../../units/raptor/raptor_rtx1-or.md) *Striker (3059)* `C3 Slave` 
+- [**Raptor RTX1-OR**](../../units/raptor/raptor_rtx1-or.md) *Striker (3059)* `C3 Support` 
 - [**Raptor RTX1-OF**](../../units/raptor/raptor_rtx1-of.md) *Striker (3060)* 
 - [**Raptor RTX1-OG**](../../units/raptor/raptor_rtx1-og.md) *Striker (3070)* 
 - [**Raptor RTX1-OU**](../../units/raptor/raptor_rtx1-ou.md) *Striker (3077)* 
@@ -997,8 +1002,8 @@
 - [**Tarantula ZPH-1A**](../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
 - [**Tarantula ZPH-2A**](../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
-- [**Tarantula ZPH-4A**](../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Slave` 
-- [**Tarantula ZPH-5A**](../../units/tarantula/tarantula_zph-5a.md) *Scout (3111)* `C3 Slave` 
+- [**Tarantula ZPH-4A**](../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
+- [**Tarantula ZPH-5A**](../../units/tarantula/tarantula_zph-5a.md) *Scout (3111)* `C3 Support` 
 
 ### 30 Tons 
 
@@ -1056,12 +1061,12 @@
 
 #### [Hermes](../../units/hermes.md) 
 
-- [**Hermes HER-4K**](../../units/hermes/hermes_her-4k.md) *Striker (3058)* `C3 Slave` , `ECM` 
+- [**Hermes HER-4K**](../../units/hermes/hermes_her-4k.md) *Striker (3058)* `C3 Support` , `ECM` 
 
 #### [Hitman](../../units/hitman.md) 
 
 - [**Hitman HM-1**](../../units/hitman/hitman_hm-1.md) *Striker (3055)* `Active Probe` , `ECM` , `TAG` 
-- [**Hitman HM-2**](../../units/hitman/hitman_hm-2.md) *Striker (3056)* `Active Probe` , `C3 Slave` , `ECM` 
+- [**Hitman HM-2**](../../units/hitman/hitman_hm-2.md) *Striker (3056)* `Active Probe` , `C3 Support` , `ECM` 
 - [**Hitman HM-1r**](../../units/hitman/hitman_hm-1r.md) *Striker (3069)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Incubus](../../units/incubus.md) 
@@ -1076,10 +1081,10 @@
 #### [Nyx](../../units/nyx.md) 
 
 - [**Nyx NX-80**](../../units/nyx/nyx_nx-80.md) *Striker (3076)* `Active Probe` 
-- [**Nyx NX-80C**](../../units/nyx/nyx_nx-80c.md) *Striker (3078)* `Active Probe` , `C3 Slave` 
+- [**Nyx NX-80C**](../../units/nyx/nyx_nx-80c.md) *Striker (3078)* `Active Probe` , `C3 Support` 
 - [**Nyx NX-90**](../../units/nyx/nyx_nx-90.md) *Scout (3080)* 
 - [**Nyx NX-100**](../../units/nyx/nyx_nx-100.md) *Scout (3095)* 
-- [**Nyx NX-110**](../../units/nyx/nyx_nx-110.md) *Scout (3141)* `Active Probe` , `C3 Slave` 
+- [**Nyx NX-110**](../../units/nyx/nyx_nx-110.md) *Scout (3141)* `Active Probe` , `C3 Support` 
 
 #### [Pacifier](../../units/pacifier.md) 
 
@@ -1095,7 +1100,7 @@
 - [**Spider SDR-8M**](../../units/spider/spider_sdr-8m.md) *Striker (3060)* 
 - [**Spider SDR-7K**](../../units/spider/spider_sdr-7k.md) *Striker (3067)* 
 - [**Spider SDR-7K2**](../../units/spider/spider_sdr-7k2.md) *Scout (3068)* 
-- [**Spider SDR-7KC**](../../units/spider/spider_sdr-7kc.md) *Scout (3070)* `C3 Slave` 
+- [**Spider SDR-7KC**](../../units/spider/spider_sdr-7kc.md) *Scout (3070)* `C3 Support` 
 - [**Spider SDR-7Kr**](../../units/spider/spider_sdr-7kr.md) *Scout (3074)* `ECM` 
 - [**Spider SDR-8X**](../../units/spider/spider_sdr-8x.md) *Striker (3078)* 
 - [**Spider SDR-8K**](../../units/spider/spider_sdr-8k.md) *Scout (3084)* 
@@ -1156,8 +1161,8 @@
 
 #### [Jenner](../../units/jenner.md) 
 
-- [**Jenner JR7-C3**](../../units/jenner/jenner_jr7-c3.md) *Striker (3068)* `C3 Slave` 
-- [**Jenner JR7-C4**](../../units/jenner/jenner_jr7-c4.md) *Missile Boat (3077)* `C3 Slave` 
+- [**Jenner JR7-C3**](../../units/jenner/jenner_jr7-c3.md) *Striker (3068)* `C3 Support` 
+- [**Jenner JR7-C4**](../../units/jenner/jenner_jr7-c4.md) *Missile Boat (3077)* `C3 Support` 
 - [**Jenner JR7-N**](../../units/jenner/jenner_jr7-n.md) *Striker (3120)* `Active Probe` 
 
 #### [Jenner IIC](../../units/jenner_iic.md) 
@@ -1186,28 +1191,28 @@
 
 #### [Owens](../../units/owens.md) 
 
-- [**Owens OW-1**](../../units/owens/owens_ow-1.md) *Missile Boat (3056)* `Active Probe` , `C3 Slave` , `TAG` 
-- [**Owens OW-1A**](../../units/owens/owens_ow-1a.md) *Scout (3056)* `Active Probe` , `C3 Slave` , `TAG` 
-- [**Owens OW-1B**](../../units/owens/owens_ow-1b.md) *Scout (3056)* `Active Probe` , `C3 Slave` , `TAG` 
-- [**Owens OW-1C**](../../units/owens/owens_ow-1c.md) *Striker (3056)* `Active Probe` , `C3 Slave` , `TAG` 
-- [**Owens OW-1D**](../../units/owens/owens_ow-1d.md) *Scout (3056)* `Active Probe` , `C3 Slave` , `TAG` 
-- [**Owens OW-1R**](../../units/owens/owens_ow-1r.md) *Striker (3059)* `Active Probe` , `C3 Slave` , `TAG` 
-- [**Owens OW-1E**](../../units/owens/owens_ow-1e.md) *Striker (3060)* `Active Probe` , `C3 Slave` , `TAG` 
-- [**Owens OW-1F**](../../units/owens/owens_ow-1f.md) *Striker (3076)* `Active Probe` , `C3 Slave` , `ECM` , `TAG` 
-- [**Owens OW-1G**](../../units/owens/owens_ow-1g.md) *Scout (3125)* `Active Probe` , `C3 Slave` , `TAG` 
+- [**Owens OW-1**](../../units/owens/owens_ow-1.md) *Missile Boat (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1A**](../../units/owens/owens_ow-1a.md) *Scout (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1B**](../../units/owens/owens_ow-1b.md) *Scout (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1C**](../../units/owens/owens_ow-1c.md) *Striker (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1D**](../../units/owens/owens_ow-1d.md) *Scout (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1R**](../../units/owens/owens_ow-1r.md) *Striker (3059)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1E**](../../units/owens/owens_ow-1e.md) *Striker (3060)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1F**](../../units/owens/owens_ow-1f.md) *Striker (3076)* `Active Probe` , `C3 Support` , `ECM` , `TAG` 
+- [**Owens OW-1G**](../../units/owens/owens_ow-1g.md) *Scout (3125)* `Active Probe` , `C3 Support` , `TAG` 
 
 #### [Panther](../../units/panther.md) 
 
 - [**Panther PNT-9R**](../../units/panther/panther_pnt-9r.md) *Brawler (2759)* 
 - [**Panther PNT-10KA**](../../units/panther/panther_pnt-10ka.md) *Brawler (3055)* 
-- [**Panther PNT-CA**](../../units/panther/panther_pnt-ca.md) *Brawler (3055)* `C3 Slave` 
+- [**Panther PNT-CA**](../../units/panther/panther_pnt-ca.md) *Brawler (3055)* `C3 Support` 
 - [**Panther PNT-12A**](../../units/panther/panther_pnt-12a.md) *Brawler (3064)* 
 - [**Panther PNT-16K**](../../units/panther/panther_pnt-16k.md) *Brawler (3070)* 
 - [**Panther PNT-10K2**](../../units/panther/panther_pnt-10k2.md) *Brawler (3074)* 
 - [**Panther PNT-12K2**](../../units/panther/panther_pnt-12k2.md) *Brawler (3074)* 
 - [**Panther PNT-13K**](../../units/panther/panther_pnt-13k.md) *Striker (3076)* 
 - [**Panther PNT-12K**](../../units/panther/panther_pnt-12k.md) *Brawler (3079)* 
-- [**Panther PNT-12KC**](../../units/panther/panther_pnt-12kc.md) *Sniper (3139)* `C3 Slave` 
+- [**Panther PNT-12KC**](../../units/panther/panther_pnt-12kc.md) *Sniper (3139)* `C3 Support` 
 - [**Panther PNT-14R**](../../units/panther/panther_pnt-14r.md) *Brawler (3140)* 
 
 #### [Phoenix Hawk L](../../units/phoenix_hawk_l.md) 
@@ -1232,7 +1237,7 @@
 
 #### [Talon](../../units/talon.md) 
 
-- [**Talon TLN-5Z**](../../units/talon/talon_tln-5z.md) *Sniper (3062)* `C3 Slave` 
+- [**Talon TLN-5Z**](../../units/talon/talon_tln-5z.md) *Sniper (3062)* `C3 Support` 
 - [**Talon TLN-6W**](../../units/talon/talon_tln-6w.md) *Striker (3076)* 
 
 #### [Venom](../../units/venom.md) 
@@ -1240,15 +1245,15 @@
 - [**Venom SDR-9K**](../../units/venom/venom_sdr-9k.md) *Striker (3050)* 
 - [**Venom SDR-9KA**](../../units/venom/venom_sdr-9ka.md) *Striker (3056)* 
 - [**Venom SDR-9KB**](../../units/venom/venom_sdr-9kb.md) *Striker (3057)* 
-- [**Venom SDR-9KC**](../../units/venom/venom_sdr-9kc.md) *Striker (3066)* `C3 Slave` 
+- [**Venom SDR-9KC**](../../units/venom/venom_sdr-9kc.md) *Striker (3066)* `C3 Support` 
 
 #### [Wight](../../units/wight.md) 
 
 - [**Wight WGT-1LAW/SC**](../../units/wight/wight_wgt-1law_sc.md) *Sniper (3069)* 
 - [**Wight WGT-2SC**](../../units/wight/wight_wgt-2sc.md) *Brawler (3069)* 
-- [**Wight WGT-1LAW/SC3**](../../units/wight/wight_wgt-1law_sc3.md) *Sniper (3070)* `C3 Slave` 
+- [**Wight WGT-1LAW/SC3**](../../units/wight/wight_wgt-1law_sc3.md) *Sniper (3070)* `C3 Support` 
 - [**Wight WGT-2LAW**](../../units/wight/wight_wgt-2law.md) *Striker (3075)* 
-- [**Wight WGT-2LAWC3**](../../units/wight/wight_wgt-2lawc3.md) *Scout (3075)* `C3 Slave` 
+- [**Wight WGT-2LAWC3**](../../units/wight/wight_wgt-2lawc3.md) *Scout (3075)* `C3 Support` 
 - [**Wight WGT-3SC**](../../units/wight/wight_wgt-3sc.md) *Brawler (3076)* 
 
 ### 40 Tons 
@@ -1256,17 +1261,17 @@
 #### [Chimera](../../units/chimera.md) 
 
 - [**Chimera CMA-1S**](../../units/chimera/chimera_cma-1s.md) *Striker (3063)* 
-- [**Chimera CMA-C**](../../units/chimera/chimera_cma-c.md) *Striker (3063)* `C3 Slave` 
-- [**Chimera CMA-2K**](../../units/chimera/chimera_cma-2k.md) *Striker (3069)* `C3 Slave` 
+- [**Chimera CMA-C**](../../units/chimera/chimera_cma-c.md) *Striker (3063)* `C3 Support` 
+- [**Chimera CMA-2K**](../../units/chimera/chimera_cma-2k.md) *Striker (3069)* `C3 Support` 
 
 #### [Clint](../../units/clint.md) 
 
-- [**Clint CLNT-5U**](../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Slave` , `TAG` 
+- [**Clint CLNT-5U**](../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
 
 #### [Cuirass](../../units/cuirass.md) 
 
 - [**Cuirass CDR-1X**](../../units/cuirass/cuirass_cdr-1x.md) *Striker (3086)* 
-- [**Cuirass CDR-2BC**](../../units/cuirass/cuirass_cdr-2bc.md) *Striker (3119)* `C3 Slave` 
+- [**Cuirass CDR-2BC**](../../units/cuirass/cuirass_cdr-2bc.md) *Striker (3119)* `C3 Support` 
 - [**Cuirass CDR-2X**](../../units/cuirass/cuirass_cdr-2x.md) *Sniper (3134)* 
 
 #### [Daimyo](../../units/daimyo.md) 
@@ -1274,7 +1279,7 @@
 - [**Daimyo DMO-1K**](../../units/daimyo/daimyo_dmo-1k.md) *Brawler (3053)* 
 - [**Daimyo DMO-2K**](../../units/daimyo/daimyo_dmo-2k.md) *Brawler (3056)* 
 - [**Daimyo DMO-4K**](../../units/daimyo/daimyo_dmo-4k.md) *Brawler (3058)* 
-- [**Daimyo DMO-5K**](../../units/daimyo/daimyo_dmo-5k.md) *Brawler (3062)* `C3 Master` , `TAG` 
+- [**Daimyo DMO-5K**](../../units/daimyo/daimyo_dmo-5k.md) *Brawler (3062)* `C3 Main` , `TAG` 
 
 #### [Dasher II](../../units/dasher_ii.md) 
 
@@ -1308,33 +1313,33 @@
 #### [Strider](../../units/strider.md) 
 
 - [**Strider SR1-O**](../../units/strider/strider_sr1-o.md) *Striker (3057)* `Active Probe` 
-- [**Strider SR1-OA**](../../units/strider/strider_sr1-oa.md) *Scout (3057)* `Active Probe` , `C3 Slave` , `TAG` 
+- [**Strider SR1-OA**](../../units/strider/strider_sr1-oa.md) *Scout (3057)* `Active Probe` , `C3 Support` , `TAG` 
 - [**Strider SR1-OB**](../../units/strider/strider_sr1-ob.md) *Missile Boat (3057)* 
-- [**Strider SR1-OC**](../../units/strider/strider_sr1-oc.md) *Striker (3057)* `C3 Slave` 
-- [**Strider SR1-OD**](../../units/strider/strider_sr1-od.md) *Striker (3057)* `Active Probe` , `C3 Slave` , `TAG` 
+- [**Strider SR1-OC**](../../units/strider/strider_sr1-oc.md) *Striker (3057)* `C3 Support` 
+- [**Strider SR1-OD**](../../units/strider/strider_sr1-od.md) *Striker (3057)* `Active Probe` , `C3 Support` , `TAG` 
 - [**Strider SR1-OE**](../../units/strider/strider_sr1-oe.md) *Striker (3058)* 
 - [**Strider SR1-OR**](../../units/strider/strider_sr1-or.md) *Striker (3059)* 
 - [**Strider SR1-OF**](../../units/strider/strider_sr1-of.md) *Striker (3060)* 
 - [**Strider SR1-OG**](../../units/strider/strider_sr1-og.md) *Missile Boat (3070)* 
 - [**Strider SR1-OX**](../../units/strider/strider_sr1-ox.md) *Striker (3071)* 
 - [**Strider SR1-OH**](../../units/strider/strider_sr1-oh.md) *Sniper (3099)* 
-- [**Strider SR1-OM**](../../units/strider/strider_sr1-om.md) *Scout (3135)* `C3 Master` , `TAG` 
+- [**Strider SR1-OM**](../../units/strider/strider_sr1-om.md) *Scout (3135)* `C3 Main` , `TAG` 
 
 ### 45 Tons 
 
 #### [Bishamon](../../units/bishamon.md) 
 
 - [**Bishamon BSN-3K**](../../units/bishamon/bishamon_bsn-3k.md) *Striker (3060)* 
-- [**Bishamon BSN-4K**](../../units/bishamon/bishamon_bsn-4k.md) *Striker (3060)* `C3 Master` , `TAG` 
-- [**Bishamon BSN-5KC**](../../units/bishamon/bishamon_bsn-5kc.md) *Striker (3076)* `C3 Slave` , `ECM` 
+- [**Bishamon BSN-4K**](../../units/bishamon/bishamon_bsn-4k.md) *Striker (3060)* `C3 Main` , `TAG` 
+- [**Bishamon BSN-5KC**](../../units/bishamon/bishamon_bsn-5kc.md) *Striker (3076)* `C3 Support` , `ECM` 
 
 #### [Firestarter](../../units/firestarter.md) 
 
 - [**Firestarter FS9-O**](../../units/firestarter/firestarter_fs9-o.md) *Striker (3056)* `Active Probe` 
 - [**Firestarter FS9-OA**](../../units/firestarter/firestarter_fs9-oa.md) *Striker (3057)* 
-- [**Firestarter FS9-OB**](../../units/firestarter/firestarter_fs9-ob.md) *Striker (3057)* `C3 Slave` , `TAG` 
-- [**Firestarter FS9-OC**](../../units/firestarter/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Slave` 
-- [**Firestarter FS9-OD**](../../units/firestarter/firestarter_fs9-od.md) *Sniper (3057)* `C3 Slave` , `ECM` 
+- [**Firestarter FS9-OB**](../../units/firestarter/firestarter_fs9-ob.md) *Striker (3057)* `C3 Support` , `TAG` 
+- [**Firestarter FS9-OC**](../../units/firestarter/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Support` 
+- [**Firestarter FS9-OD**](../../units/firestarter/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
 - [**Firestarter FS9-OE**](../../units/firestarter/firestarter_fs9-oe.md) *Striker (3058)* 
 - [**Firestarter FS9-OR**](../../units/firestarter/firestarter_fs9-or.md) *Sniper (3059)* 
 - [**Firestarter FS9-OX**](../../units/firestarter/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
@@ -1345,22 +1350,22 @@
 
 #### [Hatchetman](../../units/hatchetman.md) 
 
-- [**Hatchetman HCT-5K**](../../units/hatchetman/hatchetman_hct-5k.md) *Brawler (3075)* `C3 Slave` 
+- [**Hatchetman HCT-5K**](../../units/hatchetman/hatchetman_hct-5k.md) *Brawler (3075)* `C3 Support` 
 - [**Hatchetman HCT-7R**](../../units/hatchetman/hatchetman_hct-7r.md) *Brawler (3114)* 
 
 #### [Komodo](../../units/komodo.md) 
 
 - [**Komodo KIM-2**](../../units/komodo/komodo_kim-2.md) *Striker (3053)* `ECM` , `TAG` 
 - [**Komodo KIM-2A**](../../units/komodo/komodo_kim-2a.md) *Striker (3053)* `ECM` , `TAG` 
-- [**Komodo KIM-2C**](../../units/komodo/komodo_kim-2c.md) *Striker (3064)* `C3 Slave` , `ECM` 
-- [**Komodo KIM-3C**](../../units/komodo/komodo_kim-3c.md) *Striker (3064)* `C3 Master` , `ECM` , `TAG` 
+- [**Komodo KIM-2C**](../../units/komodo/komodo_kim-2c.md) *Striker (3064)* `C3 Support` , `ECM` 
+- [**Komodo KIM-3C**](../../units/komodo/komodo_kim-3c.md) *Striker (3064)* `C3 Main` , `ECM` , `TAG` 
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
 - [**Phoenix Hawk C**](../../units/phoenix_hawk/phoenix_hawk_c.md) *Striker (2831)* 
 - [**Phoenix Hawk PXH-2K**](../../units/phoenix_hawk/phoenix_hawk_pxh-2k.md) *Striker (3050)* 
-- [**Phoenix Hawk PXH-7K**](../../units/phoenix_hawk/phoenix_hawk_pxh-7k.md) *Striker (3070)* `C3 Slave` 
-- [**Phoenix Hawk PXH-8CS**](../../units/phoenix_hawk/phoenix_hawk_pxh-8cs.md) *Striker (3080)* `C3 Slave` , `ECM` 
+- [**Phoenix Hawk PXH-7K**](../../units/phoenix_hawk/phoenix_hawk_pxh-7k.md) *Striker (3070)* `C3 Support` 
+- [**Phoenix Hawk PXH-8CS**](../../units/phoenix_hawk/phoenix_hawk_pxh-8cs.md) *Striker (3080)* `C3 Support` , `ECM` 
 - [**Phoenix Hawk PXH-4M**](../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
 - [**Phoenix Hawk PXH-9**](../../units/phoenix_hawk/phoenix_hawk_pxh-9.md) *Striker (3140)* 
 
@@ -1408,7 +1413,7 @@
 
 - [**Blackjack BJ2-O**](../../units/blackjack/blackjack_bj2-o.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OA**](../../units/blackjack/blackjack_bj2-oa.md) *Missile Boat (3057)* 
-- [**Blackjack BJ2-OB**](../../units/blackjack/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Slave` 
+- [**Blackjack BJ2-OB**](../../units/blackjack/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
 - [**Blackjack BJ2-OC**](../../units/blackjack/blackjack_bj2-oc.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OD**](../../units/blackjack/blackjack_bj2-od.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OE**](../../units/blackjack/blackjack_bj2-oe.md) *Sniper (3059)* 
@@ -1431,9 +1436,9 @@
 - [**Centurion CN11-O**](../../units/centurion/centurion_cn11-o.md) *Brawler (3111)* 
 - [**Centurion CN11-OA**](../../units/centurion/centurion_cn11-oa.md) *Brawler (3111)* 
 - [**Centurion CN11-OB**](../../units/centurion/centurion_cn11-ob.md) *Sniper (3111)* `ECM` 
-- [**Centurion CN11-OC**](../../units/centurion/centurion_cn11-oc.md) *Skirmisher (3111)* `C3 Slave` , `ECM` 
+- [**Centurion CN11-OC**](../../units/centurion/centurion_cn11-oc.md) *Skirmisher (3111)* `C3 Support` , `ECM` 
 - [**Centurion CN11-OD**](../../units/centurion/centurion_cn11-od.md) *Brawler (3111)* `Active Probe` 
-- [**Centurion CN11-OE**](../../units/centurion/centurion_cn11-oe.md) *Sniper (3111)* `C3 Slave` , `ECM` 
+- [**Centurion CN11-OE**](../../units/centurion/centurion_cn11-oe.md) *Sniper (3111)* `C3 Support` , `ECM` 
 
 #### [Chameleon](../../units/chameleon.md) 
 
@@ -1463,13 +1468,13 @@
 
 #### [Tessen](../../units/tessen.md) 
 
-- [**Tessen TSN-C3**](../../units/tessen/tessen_tsn-c3.md) *Skirmisher (3062)* `C3 Slave` , `TAG` 
-- [**Tessen TSN-1Cr**](../../units/tessen/tessen_tsn-1cr.md) *Skirmisher (3069)* `C3 Slave` , `ECM` , `TAG` 
-- [**Tessen TSN-C3M**](../../units/tessen/tessen_tsn-c3m.md) *Skirmisher (3077)* `C3 Master` , `TAG` 
+- [**Tessen TSN-C3**](../../units/tessen/tessen_tsn-c3.md) *Skirmisher (3062)* `C3 Support` , `TAG` 
+- [**Tessen TSN-1Cr**](../../units/tessen/tessen_tsn-1cr.md) *Skirmisher (3069)* `C3 Support` , `ECM` , `TAG` 
+- [**Tessen TSN-C3M**](../../units/tessen/tessen_tsn-c3m.md) *Skirmisher (3077)* `C3 Main` , `TAG` 
 
 #### [Trebuchet](../../units/trebuchet.md) 
 
-- [**Trebuchet TBT-9K**](../../units/trebuchet/trebuchet_tbt-9k.md) *Striker (3059)* `C3 Slave` 
+- [**Trebuchet TBT-9K**](../../units/trebuchet/trebuchet_tbt-9k.md) *Striker (3059)* `C3 Support` 
 
 #### [Wendigo](../../units/wendigo.md) 
 
@@ -1503,7 +1508,7 @@
 - [**Griffin GRF-5K**](../../units/griffin/griffin_grf-5k.md) *Missile Boat (3071)* 
 - [**Griffin GRF-4R**](../../units/griffin/griffin_grf-4r.md) *Striker (3076)* 
 - [**Griffin GRF-3N**](../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
-- [**Griffin GRF-6S2**](../../units/griffin/griffin_grf-6s2.md) *Sniper (3123)* `C3 Slave` 
+- [**Griffin GRF-6S2**](../../units/griffin/griffin_grf-6s2.md) *Sniper (3123)* `C3 Support` 
 - [**Griffin C**](../../units/griffin/griffin_c.md) *Sniper (3144)* 
 
 #### [Hitotsume Kozo](../../units/hitotsume_kozo.md) 
@@ -1513,7 +1518,7 @@
 
 #### [Kintaro](../../units/kintaro.md) 
 
-- [**Kintaro KTO-K**](../../units/kintaro/kintaro_kto-k.md) *Skirmisher (3058)* `C3 Slave` 
+- [**Kintaro KTO-K**](../../units/kintaro/kintaro_kto-k.md) *Skirmisher (3058)* `C3 Support` 
 
 #### [Lineholder](../../units/lineholder.md) 
 
@@ -1539,12 +1544,12 @@
 
 #### [Scorpion](../../units/scorpion.md) 
 
-- [**Scorpion SCP-12K**](../../units/scorpion/scorpion_scp-12k.md) *Missile Boat (3071)* `C3 Master` , `TAG` 
+- [**Scorpion SCP-12K**](../../units/scorpion/scorpion_scp-12k.md) *Missile Boat (3071)* `C3 Main` , `TAG` 
 - [**Scorpion SCP-10M**](../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
-- [**Shadow Hawk SHD-3K**](../../units/shadow_hawk/shadow_hawk_shd-3k.md) *Sniper (3075)* `C3 Slave` 
+- [**Shadow Hawk SHD-3K**](../../units/shadow_hawk/shadow_hawk_shd-3k.md) *Sniper (3075)* `C3 Support` 
 - [**Shadow Hawk SHD-12C**](../../units/shadow_hawk/shadow_hawk_shd-12c.md) *Sniper (3079)* 
 - [**Shadow Hawk SHD-5R**](../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
@@ -1571,16 +1576,16 @@
 #### [Thunder Fox](../../units/thunder_fox.md) 
 
 - [**Thunder Fox TFT-A9**](../../units/thunder_fox/thunder_fox_tft-a9.md) *Sniper (3077)* 
-- [**Thunder Fox TFT-C3**](../../units/thunder_fox/thunder_fox_tft-c3.md) *Skirmisher (3085)* `C3 Master` , `Command Console` , `TAG` 
+- [**Thunder Fox TFT-C3**](../../units/thunder_fox/thunder_fox_tft-c3.md) *Skirmisher (3085)* `C3 Main` , `Command Console` , `TAG` 
 
 #### [Wolverine](../../units/wolverine.md) 
 
 - [**Wolverine WVR-6R**](../../units/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)* 
 - [**Wolverine WVR-8K**](../../units/wolverine/wolverine_wvr-8k.md) *Skirmisher (3064)* 
 - [**Wolverine WVR-8D**](../../units/wolverine/wolverine_wvr-8d.md) *Skirmisher (3066)* 
-- [**Wolverine WVR-8C**](../../units/wolverine/wolverine_wvr-8c.md) *Skirmisher (3067)* `C3 Slave` 
-- [**Wolverine WVR-9K**](../../units/wolverine/wolverine_wvr-9k.md) *Skirmisher (3074)* `C3 Slave` 
-- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Slave` , `ECM` 
+- [**Wolverine WVR-8C**](../../units/wolverine/wolverine_wvr-8c.md) *Skirmisher (3067)* `C3 Support` 
+- [**Wolverine WVR-9K**](../../units/wolverine/wolverine_wvr-9k.md) *Skirmisher (3074)* `C3 Support` 
+- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
 - [**Wolverine WVR-9R**](../../units/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)* 
 
 #### [Wraith](../../units/wraith.md) 
@@ -1593,8 +1598,8 @@
 #### [Argus](../../units/argus.md) 
 
 - [**Argus AGS-2D**](../../units/argus/argus_ags-2d.md) *Missile Boat (3062)* 
-- [**Argus AGS-5D**](../../units/argus/argus_ags-5d.md) *Skirmisher (3071)* `C3 Slave` 
-- [**Argus AGS-8DX**](../../units/argus/argus_ags-8dx.md) *Skirmisher (3074)* `C3 Slave` 
+- [**Argus AGS-5D**](../../units/argus/argus_ags-5d.md) *Skirmisher (3071)* `C3 Support` 
+- [**Argus AGS-8DX**](../../units/argus/argus_ags-8dx.md) *Skirmisher (3074)* `C3 Support` 
 
 #### [Black Hawk-KU](../../units/black_hawk-ku.md) 
 
@@ -1603,24 +1608,24 @@
 - [**Black Hawk-KU BHKU-OB**](../../units/black_hawk-ku/black_hawk-ku_bhku-ob.md) *Skirmisher (3055)* 
 - [**Black Hawk-KU BHKU-OC**](../../units/black_hawk-ku/black_hawk-ku_bhku-oc.md) *Sniper (3055)* 
 - [**Black Hawk-KU BHKU-OD**](../../units/black_hawk-ku/black_hawk-ku_bhku-od.md) *Missile Boat (3055)* 
-- [**Black Hawk-KU BHKU-OX**](../../units/black_hawk-ku/black_hawk-ku_bhku-ox.md) *Skirmisher (3058)* `C3 Slave` 
-- [**Black Hawk-KU BHKU-OR**](../../units/black_hawk-ku/black_hawk-ku_bhku-or.md) *Skirmisher (3059)* `C3 Slave` 
+- [**Black Hawk-KU BHKU-OX**](../../units/black_hawk-ku/black_hawk-ku_bhku-ox.md) *Skirmisher (3058)* `C3 Support` 
+- [**Black Hawk-KU BHKU-OR**](../../units/black_hawk-ku/black_hawk-ku_bhku-or.md) *Skirmisher (3059)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OE**](../../units/black_hawk-ku/black_hawk-ku_bhku-oe.md) *Skirmisher (3063)* 
-- [**Black Hawk-KU BHKU-OF**](../../units/black_hawk-ku/black_hawk-ku_bhku-of.md) *Sniper (3069)* `C3 Slave` 
+- [**Black Hawk-KU BHKU-OF**](../../units/black_hawk-ku/black_hawk-ku_bhku-of.md) *Sniper (3069)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OU**](../../units/black_hawk-ku/black_hawk-ku_bhku-ou.md) *Skirmisher (3077)* 
 - [**Black Hawk-KU BHKU-OG**](../../units/black_hawk-ku/black_hawk-ku_bhku-og.md) *Skirmisher (3089)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Dragon](../../units/dragon.md) 
 
-- [**Dragon DRG-5Nr**](../../units/dragon/dragon_drg-5nr.md) *Skirmisher (3076)* `C3 Slave` 
+- [**Dragon DRG-5Nr**](../../units/dragon/dragon_drg-5nr.md) *Skirmisher (3076)* `C3 Support` 
 
 #### [Grand Dragon](../../units/grand_dragon.md) 
 
 - [**Grand Dragon DRG-5K**](../../units/grand_dragon/grand_dragon_drg-5k.md) *Skirmisher (3050)* 
 - [**Grand Dragon DRG-5K-DC**](../../units/grand_dragon/grand_dragon_drg-5k-dc.md) *Skirmisher (3050)* `Command Console` 
-- [**Grand Dragon DRG-7K**](../../units/grand_dragon/grand_dragon_drg-7k.md) *Skirmisher (3063)* `C3 Slave` 
-- [**Grand Dragon DRG-9KC**](../../units/grand_dragon/grand_dragon_drg-9kc.md) *Skirmisher (3071)* `C3 Master` , `TAG` 
-- [**Grand Dragon DRG-7KC**](../../units/grand_dragon/grand_dragon_drg-7kc.md) *Skirmisher (3077)* `C3 Slave` 
+- [**Grand Dragon DRG-7K**](../../units/grand_dragon/grand_dragon_drg-7k.md) *Skirmisher (3063)* `C3 Support` 
+- [**Grand Dragon DRG-9KC**](../../units/grand_dragon/grand_dragon_drg-9kc.md) *Skirmisher (3071)* `C3 Main` , `TAG` 
+- [**Grand Dragon DRG-7KC**](../../units/grand_dragon/grand_dragon_drg-7kc.md) *Skirmisher (3077)* `C3 Support` 
 - [**Grand Dragon DRG-10K**](../../units/grand_dragon/grand_dragon_drg-10k.md) *Skirmisher (3114)* 
 
 #### [Heavy Forester](../../units/heavy_forester.md) 
@@ -1635,7 +1640,7 @@
 #### [Helios](../../units/helios.md) 
 
 - [**Helios HEL-4A**](../../units/helios/helios_hel-4a.md) *Skirmisher (3060)* 
-- [**Helios HEL-C**](../../units/helios/helios_hel-c.md) *Skirmisher (3060)* `C3 Slave` 
+- [**Helios HEL-C**](../../units/helios/helios_hel-c.md) *Skirmisher (3060)* `C3 Support` 
 
 #### [Mad Dog Mk IV](../../units/mad_dog_mk_iv.md) 
 
@@ -1672,7 +1677,7 @@
 
 #### [Bombardier](../../units/bombardier.md) 
 
-- [**Bombardier BMB-14K**](../../units/bombardier/bombardier_bmb-14k.md) *Missile Boat (3071)* `C3 Slave` 
+- [**Bombardier BMB-14K**](../../units/bombardier/bombardier_bmb-14k.md) *Missile Boat (3071)* `C3 Support` 
 
 #### [Burrower](../../units/burrower.md) 
 
@@ -1681,15 +1686,15 @@
 
 #### [Catapult](../../units/catapult.md) 
 
-- [**Catapult CPLT-K5**](../../units/catapult/catapult_cplt-k5.md) *Skirmisher (3058)* `C3 Slave` 
-- [**Catapult CPLT-K4**](../../units/catapult/catapult_cplt-k4.md) *Sniper (3068)* `C3 Slave` 
+- [**Catapult CPLT-K5**](../../units/catapult/catapult_cplt-k5.md) *Skirmisher (3058)* `C3 Support` 
+- [**Catapult CPLT-K4**](../../units/catapult/catapult_cplt-k4.md) *Sniper (3068)* `C3 Support` 
 - [**Catapult CPLT-K6**](../../units/catapult/catapult_cplt-k6.md) *Missile Boat (3086)* 
 
 #### [Crusader](../../units/crusader.md) 
 
 - [**Crusader CRD-2R**](../../units/crusader/crusader_crd-2r.md) *Missile Boat (2649)* 
 - [**Crusader CRD-5M**](../../units/crusader/crusader_crd-5m.md) *Skirmisher (3049)* 
-- [**Crusader CRD-5K**](../../units/crusader/crusader_crd-5k.md) *Skirmisher (3063)* `C3 Slave` 
+- [**Crusader CRD-5K**](../../units/crusader/crusader_crd-5k.md) *Skirmisher (3063)* `C3 Support` 
 - [**Crusader CRD-8R**](../../units/crusader/crusader_crd-8r.md) *Missile Boat (3096)* 
 
 #### [Dig Lord](../../units/dig_lord.md) 
@@ -1748,9 +1753,9 @@
 
 #### [Ninja-To](../../units/ninja-to.md) 
 
-- [**Ninja-To NJT-2**](../../units/ninja-to/ninja-to_njt-2.md) *Skirmisher (3062)* `C3 Slave` 
-- [**Ninja-To NJT-3**](../../units/ninja-to/ninja-to_njt-3.md) *Skirmisher (3068)* `C3 Slave` 
-- [**Ninja-To NJT-4**](../../units/ninja-to/ninja-to_njt-4.md) *Skirmisher (3075)* `C3 Slave` 
+- [**Ninja-To NJT-2**](../../units/ninja-to/ninja-to_njt-2.md) *Skirmisher (3062)* `C3 Support` 
+- [**Ninja-To NJT-3**](../../units/ninja-to/ninja-to_njt-3.md) *Skirmisher (3068)* `C3 Support` 
+- [**Ninja-To NJT-4**](../../units/ninja-to/ninja-to_njt-4.md) *Skirmisher (3075)* `C3 Support` 
 
 #### [Rifleman IIC](../../units/rifleman_iic.md) 
 
@@ -1774,29 +1779,29 @@
 
 - [**Archer ARC-9M**](../../units/archer/archer_arc-9m.md) *Missile Boat (3076)* 
 - [**Archer ARC-4M2**](../../units/archer/archer_arc-4m2.md) *Missile Boat (3086)* 
-- [**Archer ARC-9KC**](../../units/archer/archer_arc-9kc.md) *Sniper (3089)* `C3 Slave` 
+- [**Archer ARC-9KC**](../../units/archer/archer_arc-9kc.md) *Sniper (3089)* `C3 Support` 
 
 #### [Avatar](../../units/avatar.md) 
 
 - [**Avatar AV1-O**](../../units/avatar/avatar_av1-o.md) *Brawler (3056)* 
 - [**Avatar AV1-OA**](../../units/avatar/avatar_av1-oa.md) *Brawler (3056)* 
 - [**Avatar AV1-OB**](../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
-- [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Master` , `TAG` 
+- [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
 - [**Avatar AV1-OG**](../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
 - [**Avatar AV1-OR**](../../units/avatar/avatar_av1-or.md) *Brawler (3059)* 
-- [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Slave` 
+- [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
 - [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 - [**Avatar AV1-OH**](../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
-- [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Master` , `TAG` 
+- [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
 - [**Avatar AV1-OI**](../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 - [**Avatar AV1-OJ**](../../units/avatar/avatar_av1-oj.md) *Sniper (3099)* 
 
 #### [Daikyu](../../units/daikyu.md) 
 
 - [**Daikyu DAI-01**](../../units/daikyu/daikyu_dai-01.md) *Sniper (3055)* 
-- [**Daikyu DAI-02**](../../units/daikyu/daikyu_dai-02.md) *Skirmisher (3060)* `C3 Slave` 
-- [**Daikyu DAI-03**](../../units/daikyu/daikyu_dai-03.md) *Skirmisher (3067)* `C3 Slave` 
-- [**Daikyu DAI-01r**](../../units/daikyu/daikyu_dai-01r.md) *Sniper (3076)* `C3 Slave` 
+- [**Daikyu DAI-02**](../../units/daikyu/daikyu_dai-02.md) *Skirmisher (3060)* `C3 Support` 
+- [**Daikyu DAI-03**](../../units/daikyu/daikyu_dai-03.md) *Skirmisher (3067)* `C3 Support` 
+- [**Daikyu DAI-01r**](../../units/daikyu/daikyu_dai-01r.md) *Sniper (3076)* `C3 Support` 
 
 #### [Gallant](../../units/gallant.md) 
 
@@ -1804,8 +1809,8 @@
 
 #### [Grasshopper](../../units/grasshopper.md) 
 
-- [**Grasshopper GHR-6K**](../../units/grasshopper/grasshopper_ghr-6k.md) *Skirmisher (3064)* `C3 Slave` 
-- [**Grasshopper GHR-7K**](../../units/grasshopper/grasshopper_ghr-7k.md) *Skirmisher (3068)* `C3 Slave` , `ECM` 
+- [**Grasshopper GHR-6K**](../../units/grasshopper/grasshopper_ghr-6k.md) *Skirmisher (3064)* `C3 Support` 
+- [**Grasshopper GHR-7K**](../../units/grasshopper/grasshopper_ghr-7k.md) *Skirmisher (3068)* `C3 Support` , `ECM` 
 - [**Grasshopper GHR-8K**](../../units/grasshopper/grasshopper_ghr-8k.md) *Skirmisher (3091)* 
 
 #### [Guillotine](../../units/guillotine.md) 
@@ -1826,15 +1831,15 @@
 - [**No-Dachi NDA-1K**](../../units/no-dachi/no-dachi_nda-1k.md) *Brawler (3058)* 
 - [**No-Dachi NDA-2K**](../../units/no-dachi/no-dachi_nda-2k.md) *Brawler (3059)* `ECM` 
 - [**No-Dachi NDA-2KO**](../../units/no-dachi/no-dachi_nda-2ko.md) *Brawler (3060)* 
-- [**No-Dachi NDA-2KC**](../../units/no-dachi/no-dachi_nda-2kc.md) *Skirmisher (3067)* `C3 Slave` 
+- [**No-Dachi NDA-2KC**](../../units/no-dachi/no-dachi_nda-2kc.md) *Skirmisher (3067)* `C3 Support` 
 - [**No-Dachi NDA-3X**](../../units/no-dachi/no-dachi_nda-3x.md) *Missile Boat (3075)* 
 
 #### [Warhammer](../../units/warhammer.md) 
 
 - [**Warhammer C 2**](../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 - [**Warhammer WHM-7K**](../../units/warhammer/warhammer_whm-7k.md) *Brawler (3054)* `TAG` 
-- [**Warhammer WHM-8D**](../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Slave` 
-- [**Warhammer WHM-8K**](../../units/warhammer/warhammer_whm-8k.md) *Sniper (3073)* `C3 Slave` 
+- [**Warhammer WHM-8D**](../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
+- [**Warhammer WHM-8K**](../../units/warhammer/warhammer_whm-8k.md) *Sniper (3073)* `C3 Support` 
 - [**Warhammer WHM-8R**](../../units/warhammer/warhammer_whm-8r.md) *Brawler (3090)* 
 - [**Warhammer WHM-9K**](../../units/warhammer/warhammer_whm-9k.md) *Brawler (3105)* 
 - [**Warhammer WHM-10K**](../../units/warhammer/warhammer_whm-10k.md) *Brawler (3147)* 
@@ -1843,7 +1848,7 @@
 
 #### [Black Knight](../../units/black_knight.md) 
 
-- [**Black Knight BLK-NT-2Y**](../../units/black_knight/black_knight_blk-nt-2y.md) *Juggernaut (3091)* `Active Probe` , `C3 Slave` , `ECM` 
+- [**Black Knight BLK-NT-2Y**](../../units/black_knight/black_knight_blk-nt-2y.md) *Juggernaut (3091)* `Active Probe` , `C3 Support` , `ECM` 
 - [**Black Knight BLK-NT-3A**](../../units/black_knight/black_knight_blk-nt-3a.md) *Brawler (3095)* 
 - [**Black Knight BLK-NT-3B**](../../units/black_knight/black_knight_blk-nt-3b.md) *Brawler (3100)* 
 - [**Black Knight BLK-NT-4D**](../../units/black_knight/black_knight_blk-nt-4d.md) *Juggernaut (3127)* `ECM` 
@@ -1858,20 +1863,20 @@
 - [**Maelstrom MTR-5K**](../../units/maelstrom/maelstrom_mtr-5k.md) *Skirmisher (3056)* `TAG` 
 - [**Maelstrom MTR-6E**](../../units/maelstrom/maelstrom_mtr-6e.md) *Skirmisher (3062)* `Active Probe` , `ECM` , `TAG` 
 - [**Maelstrom MTR-6K**](../../units/maelstrom/maelstrom_mtr-6k.md) *Skirmisher (3062)* `Active Probe` , `ECM` , `TAG` 
-- [**Maelstrom MTR-7K**](../../units/maelstrom/maelstrom_mtr-7k.md) *Skirmisher (3112)* `C3 Slave` 
+- [**Maelstrom MTR-7K**](../../units/maelstrom/maelstrom_mtr-7k.md) *Skirmisher (3112)* `C3 Support` 
 
 #### [Marauder](../../units/marauder.md) 
 
 - [**Marauder MAD-5D**](../../units/marauder/marauder_mad-5d.md) *Skirmisher (3047)* 
 - [**Marauder MAD-9M2**](../../units/marauder/marauder_mad-9m2.md) *Brawler (3068)* `ECM` , `TAG` 
-- [**Marauder MAD-9W2**](../../units/marauder/marauder_mad-9w2.md) *Skirmisher (3080)* `C3 Slave` , `ECM` 
-- [**Marauder MAD-7C**](../../units/marauder/marauder_mad-7c.md) *Sniper (3103)* `C3 Slave` , `ECM` 
+- [**Marauder MAD-9W2**](../../units/marauder/marauder_mad-9w2.md) *Skirmisher (3080)* `C3 Support` , `ECM` 
+- [**Marauder MAD-7C**](../../units/marauder/marauder_mad-7c.md) *Sniper (3103)* `C3 Support` , `ECM` 
 - [**Marauder MAD-7R**](../../units/marauder/marauder_mad-7r.md) *Sniper (3103)* `ECM` 
 
 #### [Orion](../../units/orion.md) 
 
 - [**Orion ON1-M**](../../units/orion/orion_on1-m.md) *Brawler (3049)* 
-- [**Orion ON1-MC**](../../units/orion/orion_on1-mc.md) *Brawler (3058)* `C3 Slave` 
+- [**Orion ON1-MC**](../../units/orion/orion_on1-mc.md) *Brawler (3058)* `C3 Support` 
 - [**Orion ON2-M**](../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 
 #### [Ryoken II](../../units/ryoken_ii.md) 
@@ -1892,7 +1897,7 @@
 
 #### [Shugenja](../../units/shugenja.md) 
 
-- [**Shugenja SJA-7D**](../../units/shugenja/shugenja_sja-7d.md) *Brawler (3061)* `C3 Master` , `TAG` 
+- [**Shugenja SJA-7D**](../../units/shugenja/shugenja_sja-7d.md) *Brawler (3061)* `C3 Main` , `TAG` 
 
 #### [Sphinx](../../units/sphinx.md) 
 
@@ -1916,16 +1921,16 @@
 
 #### [Hatamoto-Chi](../../units/hatamoto-chi.md) 
 
-- [**Hatamoto-Chi HTM-28T**](../../units/hatamoto-chi/hatamoto-chi_htm-28t.md) *Sniper (3059)* `C3 Slave` 
-- [**Hatamoto-Chi HTM-28Tr**](../../units/hatamoto-chi/hatamoto-chi_htm-28tr.md) *Juggernaut (3071)* `C3 Slave` , `ECM` 
+- [**Hatamoto-Chi HTM-28T**](../../units/hatamoto-chi/hatamoto-chi_htm-28t.md) *Sniper (3059)* `C3 Support` 
+- [**Hatamoto-Chi HTM-28Tr**](../../units/hatamoto-chi/hatamoto-chi_htm-28tr.md) *Juggernaut (3071)* `C3 Support` , `ECM` 
 
 #### [Hatamoto-Godai](../../units/hatamoto-godai.md) 
 
-- [**Hatamoto-Godai HTM-30Z**](../../units/hatamoto-godai/hatamoto-godai_htm-30z.md) *Juggernaut (3140)* `Active Probe` , `C3 Master` , `Command Console` , `ECM` , `TAG` 
+- [**Hatamoto-Godai HTM-30Z**](../../units/hatamoto-godai/hatamoto-godai_htm-30z.md) *Juggernaut (3140)* `Active Probe` , `C3 Main` , `Command Console` , `ECM` , `TAG` 
 
 #### [Hatamoto-Hi](../../units/hatamoto-hi.md) 
 
-- [**Hatamoto-Hi HTM-CM**](../../units/hatamoto-hi/hatamoto-hi_htm-cm.md) *Brawler (3050)* `C3 Master` , `TAG` 
+- [**Hatamoto-Hi HTM-CM**](../../units/hatamoto-hi/hatamoto-hi_htm-cm.md) *Brawler (3050)* `C3 Main` , `TAG` 
 
 #### [Hatamoto-Kaeru](../../units/hatamoto-kaeru.md) 
 
@@ -1933,7 +1938,7 @@
 
 #### [Hatamoto-Ku](../../units/hatamoto-ku.md) 
 
-- [**Hatamoto-Ku HTM-27W2**](../../units/hatamoto-ku/hatamoto-ku_htm-27w2.md) *Brawler (3115)* `C3 Slave` 
+- [**Hatamoto-Ku HTM-27W2**](../../units/hatamoto-ku/hatamoto-ku_htm-27w2.md) *Brawler (3115)* `C3 Support` 
 
 #### [Hatamoto-Suna](../../units/hatamoto-suna.md) 
 
@@ -1942,8 +1947,8 @@
 #### [O-Bakemono](../../units/o-bakemono.md) 
 
 - [**O-Bakemono OBK-M10**](../../units/o-bakemono/o-bakemono_obk-m10.md) *Missile Boat (3058)* 
-- [**O-Bakemono OBK-M11**](../../units/o-bakemono/o-bakemono_obk-m11.md) *Juggernaut (3068)* `C3 Slave` 
-- [**O-Bakemono OBK-M12**](../../units/o-bakemono/o-bakemono_obk-m12.md) *Juggernaut (3070)* `C3 Master` , `TAG` 
+- [**O-Bakemono OBK-M11**](../../units/o-bakemono/o-bakemono_obk-m11.md) *Juggernaut (3068)* `C3 Support` 
+- [**O-Bakemono OBK-M12**](../../units/o-bakemono/o-bakemono_obk-m12.md) *Juggernaut (3070)* `C3 Main` , `TAG` 
 
 #### [Phoenix Hawk IIC](../../units/phoenix_hawk_iic.md) 
 
@@ -1961,8 +1966,8 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
-- [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Slave` 
-- [**Victor VTR-Cr**](../../units/victor/victor_vtr-cr.md) *Skirmisher (3069)* `C3 Slave` 
+- [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
+- [**Victor VTR-Cr**](../../units/victor/victor_vtr-cr.md) *Skirmisher (3069)* `C3 Support` 
 - [**Victor VTR-9Ka**](../../units/victor/victor_vtr-9ka.md) *Skirmisher (3076)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
@@ -1982,20 +1987,20 @@
 
 - [**BattleMaster BLR-1Gb**](../../units/battlemaster/battlemaster_blr-1gb.md) *Brawler (2760)* 
 - [**BattleMaster BLR-1Gc**](../../units/battlemaster/battlemaster_blr-1gc.md) *Brawler (2763)* `Command Console` 
-- [**BattleMaster BLR-CM**](../../units/battlemaster/battlemaster_blr-cm.md) *Juggernaut (3064)* `C3 Master` , `TAG` 
-- [**BattleMaster BLR-K3**](../../units/battlemaster/battlemaster_blr-k3.md) *Brawler (3064)* `C3 Master` , `TAG` 
+- [**BattleMaster BLR-CM**](../../units/battlemaster/battlemaster_blr-cm.md) *Juggernaut (3064)* `C3 Main` , `TAG` 
+- [**BattleMaster BLR-K3**](../../units/battlemaster/battlemaster_blr-k3.md) *Brawler (3064)* `C3 Main` , `TAG` 
 - [**BattleMaster BLR-K4**](../../units/battlemaster/battlemaster_blr-k4.md) *Skirmisher (3073)* 
 - [**BattleMaster BLR-6G**](../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
 
 #### [Gunslinger](../../units/gunslinger.md) 
 
 - [**Gunslinger GUN-1ERD**](../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
-- [**Gunslinger GUN-2ERD**](../../units/gunslinger/gunslinger_gun-2erd.md) *Juggernaut (3062)* `C3 Master` , `ECM` , `TAG` 
-- [**Gunslinger GUN-2ERDr**](../../units/gunslinger/gunslinger_gun-2erdr.md) *Juggernaut (3078)* `C3 Master` , `TAG` 
+- [**Gunslinger GUN-2ERD**](../../units/gunslinger/gunslinger_gun-2erd.md) *Juggernaut (3062)* `C3 Main` , `ECM` , `TAG` 
+- [**Gunslinger GUN-2ERDr**](../../units/gunslinger/gunslinger_gun-2erdr.md) *Juggernaut (3078)* `C3 Main` , `TAG` 
 
 #### [Katana](../../units/katana.md) 
 
-- [**Katana CRK-5003-CM**](../../units/katana/katana_crk-5003-cm.md) *Juggernaut (3057)* `C3 Master` , `TAG` 
+- [**Katana CRK-5003-CM**](../../units/katana/katana_crk-5003-cm.md) *Juggernaut (3057)* `C3 Main` , `TAG` 
 
 #### [Longbow](../../units/longbow.md) 
 
@@ -2006,12 +2011,12 @@
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
-- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Slave` 
+- [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
 
 #### [Tai-sho](../../units/tai-sho.md) 
 
-- [**Tai-sho TSH-7S**](../../units/tai-sho/tai-sho_tsh-7s.md) *Sniper (3061)* `C3 Master` , `TAG` 
-- [**Tai-sho TSH-8S**](../../units/tai-sho/tai-sho_tsh-8s.md) *Sniper (3073)* `C3 Slave` 
+- [**Tai-sho TSH-7S**](../../units/tai-sho/tai-sho_tsh-7s.md) *Sniper (3061)* `C3 Main` , `TAG` 
+- [**Tai-sho TSH-8S**](../../units/tai-sho/tai-sho_tsh-8s.md) *Sniper (3073)* `C3 Support` 
 
 ### 90 Tons 
 
@@ -2019,9 +2024,9 @@
 
 - [**Akuma AKU-1X**](../../units/akuma/akuma_aku-1x.md) *Juggernaut (3058)* 
 - [**Akuma AKU-1XJ**](../../units/akuma/akuma_aku-1xj.md) *Juggernaut (3064)* 
-- [**Akuma AKU-2X**](../../units/akuma/akuma_aku-2x.md) *Juggernaut (3071)* `C3 Slave` 
-- [**Akuma AKU-2XC**](../../units/akuma/akuma_aku-2xc.md) *Juggernaut (3077)* `C3 Slave` , `ECM` 
-- [**Akuma AKU-2XK**](../../units/akuma/akuma_aku-2xk.md) *Juggernaut (3083)* `C3 Slave` , `ECM` 
+- [**Akuma AKU-2X**](../../units/akuma/akuma_aku-2x.md) *Juggernaut (3071)* `C3 Support` 
+- [**Akuma AKU-2XC**](../../units/akuma/akuma_aku-2xc.md) *Juggernaut (3077)* `C3 Support` , `ECM` 
+- [**Akuma AKU-2XK**](../../units/akuma/akuma_aku-2xk.md) *Juggernaut (3083)* `C3 Support` , `ECM` 
 
 #### [Banzai](../../units/banzai.md) 
 
@@ -2032,8 +2037,8 @@
 - [**Cyclops CP-11-G**](../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
 - [**Cyclops CP-12-K**](../../units/cyclops/cyclops_cp-12-k.md) *Brawler (3059)* 
 - [**Cyclops CP-11-B**](../../units/cyclops/cyclops_cp-11-b.md) *Juggernaut (3071)* 
-- [**Cyclops CP-11-C2**](../../units/cyclops/cyclops_cp-11-c2.md) *Brawler (3073)* `C3 Master` , `TAG` 
-- [**Cyclops CP-11-C3**](../../units/cyclops/cyclops_cp-11-c3.md) *Brawler (3077)* `C3 Master` , `TAG` 
+- [**Cyclops CP-11-C2**](../../units/cyclops/cyclops_cp-11-c2.md) *Brawler (3073)* `C3 Main` , `TAG` 
+- [**Cyclops CP-11-C3**](../../units/cyclops/cyclops_cp-11-c3.md) *Brawler (3077)* `C3 Main` , `TAG` 
 
 #### [Emperor](../../units/emperor.md) 
 
@@ -2053,7 +2058,7 @@
 
 #### [Mauler](../../units/mauler.md) 
 
-- [**Mauler MAL-3R**](../../units/mauler/mauler_mal-3r.md) *Sniper (3062)* `C3 Slave` 
+- [**Mauler MAL-3R**](../../units/mauler/mauler_mal-3r.md) *Sniper (3062)* `C3 Support` 
 - [**Mauler MAL-1K**](../../units/mauler/mauler_mal-1k.md) *Juggernaut (3069)* 
 
 #### [Orochi](../../units/orochi.md) 
@@ -2068,15 +2073,15 @@
 
 - [**Sunder SD1-O**](../../units/sunder/sunder_sd1-o.md) *Brawler (3056)* 
 - [**Sunder SD1-OA**](../../units/sunder/sunder_sd1-oa.md) *Sniper (3056)* 
-- [**Sunder SD1-OB**](../../units/sunder/sunder_sd1-ob.md) *Brawler (3056)* `C3 Master` , `TAG` 
-- [**Sunder SD1-OC**](../../units/sunder/sunder_sd1-oc.md) *Brawler (3058)* `C3 Slave` 
+- [**Sunder SD1-OB**](../../units/sunder/sunder_sd1-ob.md) *Brawler (3056)* `C3 Main` , `TAG` 
+- [**Sunder SD1-OC**](../../units/sunder/sunder_sd1-oc.md) *Brawler (3058)* `C3 Support` 
 - [**Sunder SD1-OR**](../../units/sunder/sunder_sd1-or.md) *Brawler (3059)* 
 - [**Sunder SD1-OD**](../../units/sunder/sunder_sd1-od.md) *Brawler (3063)* 
 - [**Sunder SD1-O (Samual)**](../../units/sunder/sunder_sd1-o_samual.md) *Juggernaut (3066)* `Unique` 
 - [**Sunder SD1-OE**](../../units/sunder/sunder_sd1-oe.md) *Brawler (3069)* 
-- [**Sunder SD1-OX**](../../units/sunder/sunder_sd1-ox.md) *Missile Boat (3073)* `C3 Slave` 
-- [**Sunder SD1-OF**](../../units/sunder/sunder_sd1-of.md) *Missile Boat (3134)* `C3 Slave` 
-- [**Sunder SD1-OG**](../../units/sunder/sunder_sd1-og.md) *Brawler (3134)* `C3 Slave` 
+- [**Sunder SD1-OX**](../../units/sunder/sunder_sd1-ox.md) *Missile Boat (3073)* `C3 Support` 
+- [**Sunder SD1-OF**](../../units/sunder/sunder_sd1-of.md) *Missile Boat (3134)* `C3 Support` 
+- [**Sunder SD1-OG**](../../units/sunder/sunder_sd1-og.md) *Brawler (3134)* `C3 Support` 
 
 ### 95 Tons 
 
@@ -2091,20 +2096,20 @@
 
 #### [Naginata](../../units/naginata.md) 
 
-- [**Naginata NG-C3A**](../../units/naginata/naginata_ng-c3a.md) *Missile Boat (3055)* `C3 Master` , `TAG` 
-- [**Naginata NG-C3B**](../../units/naginata/naginata_ng-c3b.md) *Missile Boat (3063)* `C3 Master` , `ECM` , `TAG` 
-- [**Naginata NG-C3C**](../../units/naginata/naginata_ng-c3c.md) *Missile Boat (3066)* `C3 Slave` 
-- [**Naginata NG-C3Ar**](../../units/naginata/naginata_ng-c3ar.md) *Missile Boat (3076)* `C3 Master` , `TAG` 
+- [**Naginata NG-C3A**](../../units/naginata/naginata_ng-c3a.md) *Missile Boat (3055)* `C3 Main` , `TAG` 
+- [**Naginata NG-C3B**](../../units/naginata/naginata_ng-c3b.md) *Missile Boat (3063)* `C3 Main` , `ECM` , `TAG` 
+- [**Naginata NG-C3C**](../../units/naginata/naginata_ng-c3c.md) *Missile Boat (3066)* `C3 Support` 
+- [**Naginata NG-C3Ar**](../../units/naginata/naginata_ng-c3ar.md) *Missile Boat (3076)* `C3 Main` , `TAG` 
 
 #### [Peacekeeper](../../units/peacekeeper.md) 
 
-- [**Peacekeeper PKP-1A**](../../units/peacekeeper/peacekeeper_pkp-1a.md) *Sniper (3086)* `C3 Slave` 
-- [**Peacekeeper PKP-1B**](../../units/peacekeeper/peacekeeper_pkp-1b.md) *Sniper (3087)* `C3 Slave` 
-- [**Peacekeeper PKP-2K**](../../units/peacekeeper/peacekeeper_pkp-2k.md) *Sniper (3116)* `C3 Master` , `C3 Slave` 
+- [**Peacekeeper PKP-1A**](../../units/peacekeeper/peacekeeper_pkp-1a.md) *Sniper (3086)* `C3 Support` 
+- [**Peacekeeper PKP-1B**](../../units/peacekeeper/peacekeeper_pkp-1b.md) *Sniper (3087)* `C3 Support` 
+- [**Peacekeeper PKP-2K**](../../units/peacekeeper/peacekeeper_pkp-2k.md) *Sniper (3116)* `C3 Support` 
 
 #### [Sagittaire](../../units/sagittaire.md) 
 
-- [**Sagittaire SGT-14D**](../../units/sagittaire/sagittaire_sgt-14d.md) *Juggernaut (3134)* `C3 Slave` 
+- [**Sagittaire SGT-14D**](../../units/sagittaire/sagittaire_sgt-14d.md) *Juggernaut (3134)* `C3 Support` 
 
 #### [Tenshi](../../units/tenshi.md) 
 
@@ -2119,8 +2124,8 @@
 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
-- [**Atlas AS7-C**](../../units/atlas/atlas_as7-c.md) *Sniper (3050)* `C3 Slave` 
-- [**Atlas AS7-CM**](../../units/atlas/atlas_as7-cm.md) *Sniper (3050)* `C3 Master` , `TAG` 
+- [**Atlas AS7-C**](../../units/atlas/atlas_as7-c.md) *Sniper (3050)* `C3 Support` 
+- [**Atlas AS7-CM**](../../units/atlas/atlas_as7-cm.md) *Sniper (3050)* `C3 Main` , `TAG` 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
 - [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
 - [**Atlas AS8-D**](../../units/atlas/atlas_as8-d.md) *Juggernaut (3074)* 

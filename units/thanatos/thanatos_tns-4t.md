@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5700/thanatos-tns-4t) 
 - **Battle Value:** 1760 
 

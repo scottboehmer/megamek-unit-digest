@@ -221,7 +221,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701/rifleman-rfl-6d) 
 - **Battle Value:** 1274 
 - [*More Info*](rifleman/rifleman_rfl-6d.md) 

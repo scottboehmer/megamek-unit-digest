@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3738/assassin-asn-30-alice) 
 - **Battle Value:** 1507 
 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4640/minion-advanced-tactical-vehicle-standard) 
 - **Battle Value:** 456 
 - [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_standard.md) 

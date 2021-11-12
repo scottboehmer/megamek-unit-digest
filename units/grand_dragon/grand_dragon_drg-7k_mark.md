@@ -15,7 +15,7 @@
   - LRM 15 (ammo: 16) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
   - MASC 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1261/grand-dragon-drg-7k-mark) 

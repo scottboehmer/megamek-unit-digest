@@ -15,7 +15,7 @@
   - Clan ER PPC 
   - Clan ER Medium Laser × 4 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346/black-hawk-ku-bhku-o-albert) 
 - **Battle Value:** 2377 
 

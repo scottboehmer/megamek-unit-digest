@@ -231,7 +231,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5552/highlander-hgn-641-x-2) 
 - **Battle Value:** 2152 
 - [*More Info*](highlander/highlander_hgn-641-x-2.md) 

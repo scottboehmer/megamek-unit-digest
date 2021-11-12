@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3099/striker-light-tank-3061-upgrade) 
 - **Battle Value:** 775 
 

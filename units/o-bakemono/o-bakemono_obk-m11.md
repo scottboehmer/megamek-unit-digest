@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2311/o-bakemono-obk-m11) 
 - **Battle Value:** 1793 

@@ -343,7 +343,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2042/marauder-mad-5r) 
 - **Battle Value:** 1877 
 - [*More Info*](marauder/marauder_mad-5r.md) 
@@ -537,7 +537,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051/marauder-mad-9w2) 
 - **Battle Value:** 1868 
 - [*More Info*](marauder/marauder_mad-9w2.md) 
@@ -593,7 +593,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7530/marauder-mad-7c) 
 - **Battle Value:** 1810 
 - [*More Info*](marauder/marauder_mad-7c.md) 

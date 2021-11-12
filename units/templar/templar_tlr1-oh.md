@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5711/templar-tlr1-oh) 
 - **Battle Value:** 1958 
 

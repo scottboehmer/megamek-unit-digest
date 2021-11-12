@@ -14,7 +14,7 @@
   - RAC/5 (ammo: 20) 
   - Plasma Rifle (ammo: 10) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1158/fury-command-tank-c3m) 
 - **Battle Value:** 1336 

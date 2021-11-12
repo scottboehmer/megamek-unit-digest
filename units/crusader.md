@@ -205,7 +205,7 @@
   - Medium Laser × 12 
   - Flamer × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8225/crusader-crd-6t) 
 - **Battle Value:** 1890 
 - [*More Info*](crusader/crusader_crd-6t.md) 
@@ -263,7 +263,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758/crusader-crd-5k) 
 - **Battle Value:** 1463 
 - [*More Info*](crusader/crusader_crd-5k.md) 
@@ -341,7 +341,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
 - **Battle Value:** 1373 
 - [*More Info*](crusader/crusader_crd-6m.md) 

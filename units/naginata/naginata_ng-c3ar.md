@@ -15,7 +15,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - Large VSP Laser 
 - **Equipment:** 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2253/naginata-ng-c3ar) 
 - **Battle Value:** 1879 

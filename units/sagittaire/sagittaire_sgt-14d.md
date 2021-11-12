@@ -19,7 +19,7 @@
   - Medium VSP Laser × 3 
 - **Equipment:** 
   - Radical Heat Sink System 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6835/sagittaire-sgt-14d) 
 - **Battle Value:** 1960 
 

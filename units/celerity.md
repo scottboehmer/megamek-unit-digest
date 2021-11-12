@@ -32,7 +32,7 @@
   - MASC 
   - Drone Operating System 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6671/celerity-clr-03-o) 
 - **Battle Value:** 187 
 - [*More Info*](celerity/celerity_clr-03-o.md) 

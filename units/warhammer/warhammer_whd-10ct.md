@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct) 
 - **Battle Value:** 1758 
 

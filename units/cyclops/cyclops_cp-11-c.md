@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/775/cyclops-cp-11-c) 
 - **Battle Value:** 1553 
 

@@ -231,7 +231,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/250/banshee-bnc-8s) 
 - **Battle Value:** 2408 
@@ -313,7 +313,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6844/banshee-bnc-9s2) 
 - **Battle Value:** 2426 
 - [*More Info*](banshee/banshee_bnc-9s2.md) 

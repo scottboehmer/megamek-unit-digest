@@ -141,7 +141,7 @@
   - Ultra AC/5 (ammo: 20) 
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c) 
 - **Battle Value:** 689 
 - [*More Info*](sentinel/sentinel_stn-c.md) 

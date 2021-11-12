@@ -18,7 +18,7 @@
   - ECM Suite 
   - Inner Sphere M-Pod 
   - MASC 
-  - Inner Sphere C3 Slave 
+  - Inner Sphere C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7582/dasher-fire-moth-r) 
 - **Battle Value:** 1160 
 

@@ -28,7 +28,7 @@
   - Heavy PPC 
 - **Equipment:** 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/395/blitzkrieg-btz-4f) 
 - **Battle Value:** 1740 
 - [*More Info*](blitzkrieg/blitzkrieg_btz-4f.md) 

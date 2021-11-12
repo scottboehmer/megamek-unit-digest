@@ -32,7 +32,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c) 
 - **Battle Value:** 874 
 - [*More Info*](nyx/nyx_nx-80c.md) 
@@ -80,7 +80,7 @@
   - Medium Re-Engineered Laser × 2 
 - **Equipment:** 
   - Bloodhound Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6936/nyx-nx-110) 
 - **Battle Value:** 805 
 - [*More Info*](nyx/nyx_nx-110.md) 

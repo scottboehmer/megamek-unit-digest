@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1270/grasshopper-ghr-7k) 
 - **Battle Value:** 1806 
 

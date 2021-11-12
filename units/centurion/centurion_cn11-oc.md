@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6343/centurion-cn11-oc) 
 - **Battle Value:** 1628 
 

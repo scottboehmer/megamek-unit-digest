@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Quad Turret 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3791/barghest-bgs-4x) 
 - **Battle Value:** 1667 
 

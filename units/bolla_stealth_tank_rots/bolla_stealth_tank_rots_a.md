@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
   - Infantry (4.0 tons) 
   - Targeting Computer 
   - TAG 

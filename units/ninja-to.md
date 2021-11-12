@@ -14,7 +14,7 @@
   - MRM 10 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4726/ninja-to-njt-2) 
 - **Battle Value:** 1527 
 - [*More Info*](ninja-to/ninja-to_njt-2.md) 
@@ -31,7 +31,7 @@
   - PPC × 2 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4727/ninja-to-njt-3) 
 - **Battle Value:** 1605 
 - [*More Info*](ninja-to/ninja-to_njt-3.md) 
@@ -49,7 +49,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5687/ninja-to-njt-4) 
 - **Battle Value:** 1762 
 - [*More Info*](ninja-to/ninja-to_njt-4.md) 

@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334/bishamon-bsn-5kc) 
 - **Battle Value:** 1443 
 

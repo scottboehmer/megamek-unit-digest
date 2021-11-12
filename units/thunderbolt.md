@@ -468,7 +468,7 @@
   - Guardian ECM Suite 
   - Bloodhound Active Probe 
   - B-Pod × 2 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3248/thunderbolt-tdr-9nr) 
 - **Battle Value:** 1632 
@@ -547,7 +547,7 @@
   - ER Medium Laser 
   - MML 5 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3233/thunderbolt-tdr-10m-ilyena) 
 - **Battle Value:** 1616 
 - [*More Info*](thunderbolt/thunderbolt_tdr-10m_ilyena.md) 

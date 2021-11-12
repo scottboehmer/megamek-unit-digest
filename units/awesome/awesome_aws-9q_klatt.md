@@ -14,7 +14,7 @@
   - PPC × 4 
   - Small Pulse Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3770/awesome-aws-9q-klatt) 
 - **Battle Value:** 1805 
 

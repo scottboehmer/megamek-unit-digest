@@ -15,7 +15,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3087/strider-sr1-oc) 
 - **Battle Value:** 944 
 

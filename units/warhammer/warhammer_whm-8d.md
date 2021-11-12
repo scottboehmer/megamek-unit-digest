@@ -17,7 +17,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494/warhammer-whm-8d) 
 - **Battle Value:** 1744 
 

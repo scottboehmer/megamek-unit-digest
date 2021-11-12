@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1705/jes-ii-strategic-missile-carrier-standard) 
 - **Battle Value:** 1349 
 

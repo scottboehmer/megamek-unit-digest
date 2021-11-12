@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802/fury-command-tank-fury-iiim) 
 - **Battle Value:** 1720 
 

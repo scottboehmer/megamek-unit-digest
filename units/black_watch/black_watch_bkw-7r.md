@@ -17,7 +17,7 @@
   - Light Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/371/black-watch-bkw-7r) 
 - **Battle Value:** 1998 
 

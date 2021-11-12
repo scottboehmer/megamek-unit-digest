@@ -229,7 +229,7 @@
   - ER Medium Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE II 
   - Supercharger 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s) 

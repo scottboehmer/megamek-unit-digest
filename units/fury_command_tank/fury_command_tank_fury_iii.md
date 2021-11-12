@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6801/fury-command-tank-fury-iii) 
 - **Battle Value:** 1827 

@@ -6,13 +6,17 @@
 
 #### [Ground Car](../../units/ground_car.md) 
 
-- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* 
+- [**Ground Car (Standard)**](../../units/ground_car/ground_car_standard.md) *Undefined (1950)* `Transport:0.5` 
 
 #### [Jet Sled](../../units/jet_sled.md) 
 
-- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* 
+- [**Jet Sled (Standard)**](../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* `Transport:0.5` 
 
 ### 5 Tons 
+
+#### [Jeep](../../units/jeep.md) 
+
+- [**Jeep (Standard)**](../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
 #### [Speeder](../../units/speeder.md) 
 
@@ -54,8 +58,8 @@
 
 #### [Prowler Multi-Terrain Vehicle](../../units/prowler_multi-terrain_vehicle.md) 
 
-- [**Prowler Multi-Terrain Vehicle (Support)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_support.md) *Brawler (2878)* 
-- [**Prowler Multi-Terrain Vehicle (Sealed)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_sealed.md) *Brawler (2960)* 
+- [**Prowler Multi-Terrain Vehicle (Support)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_support.md) *Brawler (2878)* `Transport:4.0` 
+- [**Prowler Multi-Terrain Vehicle (Sealed)**](../../units/prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_sealed.md) *Brawler (2960)* `Active Probe` 
 
 ### 70 Tons 
 

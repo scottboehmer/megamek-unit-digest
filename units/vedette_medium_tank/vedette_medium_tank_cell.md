@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3389/vedette-medium-tank-cell) 
 - **Battle Value:** 719 

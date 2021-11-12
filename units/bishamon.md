@@ -29,7 +29,7 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser × 2 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333/bishamon-bsn-4k) 
 - **Battle Value:** 1105 
 - [*More Info*](bishamon/bishamon_bsn-4k.md) 
@@ -48,7 +48,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334/bishamon-bsn-5kc) 
 - **Battle Value:** 1443 
 - [*More Info*](bishamon/bishamon_bsn-5kc.md) 

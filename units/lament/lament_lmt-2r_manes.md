@@ -16,7 +16,7 @@
   - Clan Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - Radical Heat Sink System 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400/lament-lmt-2r-manes) 
 - **Battle Value:** 2302 
 

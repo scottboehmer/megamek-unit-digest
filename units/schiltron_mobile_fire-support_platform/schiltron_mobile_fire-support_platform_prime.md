@@ -16,7 +16,7 @@
   - Small Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2821/schiltron-mobile-fire-support-platform-prime) 
 - **Battle Value:** 1434 
 

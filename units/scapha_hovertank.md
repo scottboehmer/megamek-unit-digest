@@ -99,7 +99,7 @@
 - **Weapons:** 
   - Light AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6665/scapha-hovertank-g) 
 - **Battle Value:** 550 
@@ -116,7 +116,7 @@
 - **Weapons:** 
   - Medium VSP Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6666/scapha-hovertank-h) 
 - **Battle Value:** 664 
 - [*More Info*](scapha_hovertank/scapha_hovertank_h.md) 
@@ -132,7 +132,7 @@
 - **Weapons:** 
   - TSEMP 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - Targeting Computer 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6667/scapha-hovertank-i) 
 - **Battle Value:** 1634 

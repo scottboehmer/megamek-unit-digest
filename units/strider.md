@@ -33,7 +33,7 @@
   - Beagle Active Probe 
   - CASE 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3085/strider-sr1-oa) 
 - **Battle Value:** 723 
 - [*More Info*](strider/strider_sr1-oa.md) 
@@ -67,7 +67,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3087/strider-sr1-oc) 
 - **Battle Value:** 944 
 - [*More Info*](strider/strider_sr1-oc.md) 
@@ -88,7 +88,7 @@
   - Beagle Active Probe 
   - CASE 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3088/strider-sr1-od) 
 - **Battle Value:** 873 
 - [*More Info*](strider/strider_sr1-od.md) 
@@ -205,7 +205,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - CASE 
-  - C3 BoostedMaster × 2 
+  - C3 Boosted Main × 2 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6916/strider-sr1-om) 
 - **Battle Value:** 607 
 - [*More Info*](strider/strider_sr1-om.md) 

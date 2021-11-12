@@ -16,7 +16,7 @@
   - Clan LRM 5 × 5 (ammo: 72) 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6846/sunder-sd1-of) 
 - **Battle Value:** 1854 
 

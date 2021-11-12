@@ -15,7 +15,7 @@
   - MRM 20 (ammo: 24) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - MASC 
   - CASE 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/801/daikyu-dai-03) 

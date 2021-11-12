@@ -27,7 +27,7 @@
   - Snub-Nose PPC 
   - Rocket 10 × 2 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6372/saladin-mk-ii-hcv-bc3) 
 - **Battle Value:** 793 
 - [*More Info*](saladin_mk_ii_hcv/saladin_mk_ii_hcv_bc3.md) 

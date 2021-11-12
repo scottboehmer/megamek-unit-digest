@@ -20,7 +20,7 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/328/beowulf-beo-14) 
 - **Battle Value:** 1287 
 

@@ -79,7 +79,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2016/manticore-heavy-tank-c3m) 
 - **Battle Value:** 958 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_c3m.md) 
@@ -98,7 +98,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2017/manticore-heavy-tank-c3s) 
 - **Battle Value:** 1008 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_c3s.md) 

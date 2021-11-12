@@ -47,7 +47,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Master 
+  - C3 Main 
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3319/turhan-urban-combat-vehicle-c3) 
 - **Battle Value:** 709 

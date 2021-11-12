@@ -164,7 +164,7 @@
   - Sword 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1412/hatchetman-hct-5k) 
 - **Battle Value:** 1070 
 - [*More Info*](hatchetman/hatchetman_hct-5k.md) 

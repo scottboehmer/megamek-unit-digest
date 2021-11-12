@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro) 
 - **Battle Value:** 1126 
 

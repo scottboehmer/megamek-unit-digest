@@ -62,7 +62,7 @@
   - AC/10 × 2 (ammo: 40) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1371/hammerhands-hmh-5d) 
 - **Battle Value:** 1496 
 - [*More Info*](hammerhands/hammerhands_hmh-5d.md) 
@@ -81,7 +81,7 @@
   - RAC/5 × 2 (ammo: 40) 
   - Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1372/hammerhands-hmh-6d) 
 - **Battle Value:** 2139 
@@ -102,7 +102,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373/hammerhands-hmh-6e) 
 - **Battle Value:** 2204 

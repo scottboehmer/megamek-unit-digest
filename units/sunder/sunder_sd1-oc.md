@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3127/sunder-sd1-oc) 
 - **Battle Value:** 1735 
 

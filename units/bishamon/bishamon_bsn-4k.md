@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser × 2 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333/bishamon-bsn-4k) 
 - **Battle Value:** 1105 
 

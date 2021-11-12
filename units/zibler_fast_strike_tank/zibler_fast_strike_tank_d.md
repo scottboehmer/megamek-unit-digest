@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Heavy PPC 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6325/zibler-fast-strike-tank-d) 
 - **Battle Value:** 1021 

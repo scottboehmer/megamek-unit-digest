@@ -16,7 +16,7 @@
   - LB 2-X AC × 3 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5710/templar-tlr1-og) 
 - **Battle Value:** 1632 
 

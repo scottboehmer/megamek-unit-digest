@@ -92,7 +92,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2458/pegasus-scout-hover-tank-mrm) 
 - **Battle Value:** 781 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_mrm.md) 
@@ -109,7 +109,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456/pegasus-scout-hover-tank-c3) 
 - **Battle Value:** 785 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) 
@@ -127,7 +127,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - Supercharger 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2463/pegasus-scout-hover-tank-x) 
 - **Battle Value:** 1119 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_x.md) 
@@ -165,7 +165,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - Supercharger 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4798/pegasus-scout-hover-tank-x-pulse) 
 - **Battle Value:** 1119 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_x-pulse.md) 

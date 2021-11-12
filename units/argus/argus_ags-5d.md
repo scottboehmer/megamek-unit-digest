@@ -18,7 +18,7 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5683/argus-ags-5d) 
 - **Battle Value:** 2065 
 

@@ -17,7 +17,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2) 
 - **Battle Value:** 1654 
 

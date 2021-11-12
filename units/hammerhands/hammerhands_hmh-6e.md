@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373/hammerhands-hmh-6e) 
 - **Battle Value:** 2204 

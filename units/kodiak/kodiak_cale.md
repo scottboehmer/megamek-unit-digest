@@ -19,7 +19,7 @@
   - Inner Sphere Medium Laser × 2 
 - **Equipment:** 
   - Inner Sphere Beagle Active Probe 
-  - Inner Sphere C3 Master 
+  - Inner Sphere C3 Main 
   - CASE 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1804/kodiak-cale) 
 - **Battle Value:** 2535 

@@ -65,7 +65,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/279/battleaxe-bkx-8d) 
 - **Battle Value:** 1592 
 - [*More Info*](battleaxe/battleaxe_bkx-8d.md) 

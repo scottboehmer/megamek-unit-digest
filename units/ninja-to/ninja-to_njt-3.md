@@ -14,7 +14,7 @@
   - PPC × 2 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4727/ninja-to-njt-3) 
 - **Battle Value:** 1605 
 

@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c) 
 - **Battle Value:** 874 
 

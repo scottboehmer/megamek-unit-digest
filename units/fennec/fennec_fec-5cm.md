@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Clan Light Active Probe 
   - Radical Heat Sink System 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900/fennec-fec-5cm) 
 - **Battle Value:** 1498 
 

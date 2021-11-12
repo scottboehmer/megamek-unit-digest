@@ -151,7 +151,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5492/guillotine-glt-6wb3) 
 - **Battle Value:** 1741 
 - [*More Info*](guillotine/guillotine_glt-6wb3.md) 

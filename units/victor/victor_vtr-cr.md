@@ -16,7 +16,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Medium Laser × 2 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416/victor-vtr-cr) 
 - **Battle Value:** 1465 

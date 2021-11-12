@@ -11,7 +11,7 @@
 - **Weapons:** 
   - MRM 30 × 3 (ammo: 24) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2243/mrm-carrier-standard) 
 - **Battle Value:** 779 
 - [*More Info*](mrm_carrier/mrm_carrier_standard.md) 

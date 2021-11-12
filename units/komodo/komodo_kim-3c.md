@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System × 2 (ammo: 24) 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1813/komodo-kim-3c) 
 - **Battle Value:** 1371 
 

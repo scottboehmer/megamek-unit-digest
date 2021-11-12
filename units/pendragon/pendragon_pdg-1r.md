@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799/pendragon-pdg-1r) 
 - **Battle Value:** 2151 
 

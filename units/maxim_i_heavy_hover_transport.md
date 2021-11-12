@@ -31,7 +31,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master × 2 
+  - C3 Main × 2 
   - TAG 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2114/maxim-i-heavy-hover-transport-company-command) 
 - **Battle Value:** 851 

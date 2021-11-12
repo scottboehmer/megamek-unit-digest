@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4586/manteuffel-attack-tank-prime) 
 - **Battle Value:** 1504 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_prime.md) 
@@ -33,7 +33,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4584/manteuffel-attack-tank-a) 
 - **Battle Value:** 1486 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_a.md) 
@@ -68,7 +68,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5734/manteuffel-attack-tank-c) 
 - **Battle Value:** 1274 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_c.md) 

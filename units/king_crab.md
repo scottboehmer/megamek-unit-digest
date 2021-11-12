@@ -145,7 +145,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775/king-crab-kgc-005r) 
 - **Battle Value:** 2335 
 - [*More Info*](king_crab/king_crab_kgc-005r.md) 
@@ -187,7 +187,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5494/king-crab-kgc-008b) 
 - **Battle Value:** 2374 
 - [*More Info*](king_crab/king_crab_kgc-008b.md) 

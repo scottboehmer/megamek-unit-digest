@@ -15,7 +15,7 @@
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3545/whitworth-wth-k) 
 - **Battle Value:** 958 
 

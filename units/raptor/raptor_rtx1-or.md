@@ -15,7 +15,7 @@
   - Clan ER Medium Laser × 2 
   - Clan ER Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2655/raptor-rtx1-or) 
 - **Battle Value:** 1393 
 

@@ -100,7 +100,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/775/cyclops-cp-11-c) 
 - **Battle Value:** 1553 
 - [*More Info*](cyclops/cyclops_cp-11-c.md) 
@@ -192,7 +192,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Medium Laser × 2 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/776/cyclops-cp-11-c2) 
 - **Battle Value:** 1534 
 - [*More Info*](cyclops/cyclops_cp-11-c2.md) 
@@ -210,7 +210,7 @@
   - ER Medium Laser × 2 
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/777/cyclops-cp-11-c3) 
 - **Battle Value:** 1752 
 - [*More Info*](cyclops/cyclops_cp-11-c3.md) 

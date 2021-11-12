@@ -20,7 +20,7 @@
   - B-Pod 
   - A-Pod 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2943/shugenja-sja-8h) 
 - **Battle Value:** 1691 
 

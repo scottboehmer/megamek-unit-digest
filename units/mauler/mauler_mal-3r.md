@@ -16,7 +16,7 @@
   - LRM 15 × 2 (ammo: 32) 
   - Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r) 
 - **Battle Value:** 1877 
 

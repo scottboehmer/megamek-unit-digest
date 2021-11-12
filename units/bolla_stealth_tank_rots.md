@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - Infantry (4.0 tons) 
   - TAG 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/413/bolla-stealth-tank-rots-prime) 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
   - Infantry (4.0 tons) 
   - Targeting Computer 
   - TAG 
@@ -57,9 +57,9 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - Infantry (4.0 tons) 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/411/bolla-stealth-tank-rots-b) 
 - **Battle Value:** 877 
 - [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_b.md) 
@@ -78,7 +78,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - Infantry (4.0 tons) 
   - TAG 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/412/bolla-stealth-tank-rots-c) 
@@ -99,7 +99,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - Infantry (4.0 tons) 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6791/bolla-stealth-tank-rots-d) 
 - **Battle Value:** 793 

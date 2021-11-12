@@ -87,7 +87,7 @@
   - Medium Laser × 3 
   - Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1639/j-edgar-light-hover-tank-kurita) 
 - **Battle Value:** 696 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_kurita.md) 

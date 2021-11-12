@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Quad Turret 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3790/barghest-bgs-4t) 
 - **Battle Value:** 1734 
 

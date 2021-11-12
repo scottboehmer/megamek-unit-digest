@@ -94,7 +94,7 @@
   - Gauss Rifle (ammo: 24) 
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1159/fury-command-tank-c3s) 
 - **Battle Value:** 1413 
 - [*More Info*](fury_command_tank/fury_command_tank_c3s.md) 
@@ -111,7 +111,7 @@
   - RAC/5 (ammo: 20) 
   - Plasma Rifle (ammo: 10) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1158/fury-command-tank-c3m) 
 - **Battle Value:** 1336 
@@ -131,7 +131,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6801/fury-command-tank-fury-iii) 
 - **Battle Value:** 1827 
@@ -151,7 +151,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802/fury-command-tank-fury-iiim) 
 - **Battle Value:** 1720 
 - [*More Info*](fury_command_tank/fury_command_tank_fury_iiim.md) 

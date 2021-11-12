@@ -16,7 +16,7 @@
   - Streak SRM 6 × 2 (ammo: 30) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/800/daikyu-dai-02) 
 - **Battle Value:** 1831 

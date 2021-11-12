@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/171/avatar-av1-ou) 
 - **Battle Value:** 1359 
 

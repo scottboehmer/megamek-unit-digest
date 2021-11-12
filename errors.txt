@@ -1,8 +1,5 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
-Unable to convert data from 'Jeep (Standard).blk': Unrecognized component type: ISOffRoadChassis
-Unable to convert data from 'Rhino Fire Support Tank EC (Standard).blk': Unrecognized component type: Bulldozer
-Unable to convert data from 'Wheeled Scout (Camera).blk': Unrecognized component type: ISReconCamera
 
 --------------------------------------------------
 Unrecognized Components:
@@ -136,6 +133,7 @@ Falcon Hover Tank (Standard)
 Ground Car (Standard)
 Heavy Transport B1 (Standard)
 Hover Tank (Standard)
+Jeep (Standard)
 Jet Sled (Standard)
 M.A.S.H. Truck (Small)
 Mobile Long Tom Artillery (Unofficial) (+ Carriage)
@@ -184,8 +182,10 @@ MIT24 MASH Vehicle (Standard)
 Mobile Tactical Command HQ (Standard)
 Kokou Defense Tank (Standard)
 Manticore Heavy Tank EC
+Rhino Fire Support Tank EC
 Zephyr Hovertank EC
 Vector (Scout)
+Wheeled Scout (Camera)
 Wheeled Scout (Sensors)
 Wheeled Scout (Standard)
 Hephaestus Jump Tank (AP)
@@ -201,4 +201,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5118 mtf files -> 5118 parsed files -> 4895 converted files -> 4887 validated units
+5118 mtf files -> 5118 parsed files -> 4898 converted files -> 4890 validated units

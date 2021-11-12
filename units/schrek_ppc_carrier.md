@@ -57,7 +57,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 24) 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2826/schrek-ppc-carrier-c3m) 
 - **Battle Value:** 993 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) 

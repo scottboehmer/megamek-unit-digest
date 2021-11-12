@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 20 w/ Artemis IV × 3 (ammo: 36) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1951/lrm-carrier-3055-upgrade) 
 - **Battle Value:** 798 
 

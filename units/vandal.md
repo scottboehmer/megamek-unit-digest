@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Supercharger 
   - CASE II 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6461/vandal-li-o) 
 - **Battle Value:** 1881 
 - [*More Info*](vandal/vandal_li-o.md) 
@@ -39,7 +39,7 @@
   - Laser Anti-Missile System 
   - Supercharger 
   - CASE II 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6462/vandal-li-oa) 
 - **Battle Value:** 1865 
 - [*More Info*](vandal/vandal_li-oa.md) 
@@ -65,7 +65,7 @@
   - CASE II 
   - TAG 
   - Targeting Computer 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6463/vandal-li-ob) 
 - **Battle Value:** 1666 
 - [*More Info*](vandal/vandal_li-ob.md) 

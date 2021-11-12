@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1020/fafnir-fnr-4a-peter) 
 - **Battle Value:** 2458 
 

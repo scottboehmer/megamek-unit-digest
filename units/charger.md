@@ -110,7 +110,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/567/charger-cgr-c) 
 - **Battle Value:** 1592 
 - [*More Info*](charger/charger_cgr-c.md) 
@@ -186,7 +186,7 @@
   - Bloodhound Active Probe 
   - Chaff Pod 
   - Supercharger 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - MASC 
   - TAG 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1) 

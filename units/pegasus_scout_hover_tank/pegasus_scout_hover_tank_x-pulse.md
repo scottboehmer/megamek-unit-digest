@@ -15,7 +15,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - Supercharger 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4798/pegasus-scout-hover-tank-x-pulse) 
 - **Battle Value:** 1119 
 

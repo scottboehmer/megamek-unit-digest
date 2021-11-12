@@ -200,7 +200,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6347/black-knight-blk-nt-2y) 
 - **Battle Value:** 1847 
 - [*More Info*](black_knight/black_knight_blk-nt-2y.md) 

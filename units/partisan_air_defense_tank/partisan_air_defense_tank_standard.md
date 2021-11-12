@@ -14,7 +14,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
   - AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2440/partisan-air-defense-tank-standard) 
 - **Battle Value:** 923 
 

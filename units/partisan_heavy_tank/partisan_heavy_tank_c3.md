@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/5 × 4 (ammo: 40) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2443/partisan-heavy-tank-c3) 
 - **Battle Value:** 662 

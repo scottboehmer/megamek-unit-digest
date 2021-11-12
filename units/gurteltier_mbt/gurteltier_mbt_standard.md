@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4256/gurteltier-mbt-standard) 
 - **Battle Value:** 1985 

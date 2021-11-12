@@ -48,7 +48,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3126/sunder-sd1-ob) 
 - **Battle Value:** 1597 
 - [*More Info*](sunder/sunder_sd1-ob.md) 
@@ -67,7 +67,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3127/sunder-sd1-oc) 
 - **Battle Value:** 1735 
 - [*More Info*](sunder/sunder_sd1-oc.md) 
@@ -155,7 +155,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - B-Pod × 2 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox) 
 - **Battle Value:** 1761 
 - [*More Info*](sunder/sunder_sd1-ox.md) 
@@ -174,7 +174,7 @@
   - Clan LRM 5 × 5 (ammo: 72) 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6846/sunder-sd1-of) 
 - **Battle Value:** 1854 
 - [*More Info*](sunder/sunder_sd1-of.md) 
@@ -194,7 +194,7 @@
   - Clan ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6845/sunder-sd1-og) 
 - **Battle Value:** 2594 
 - [*More Info*](sunder/sunder_sd1-og.md) 

@@ -95,7 +95,7 @@
   - Medium Laser × 14 
 - **Equipment:** 
   - Coolant Pod × 2 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/354/black-hawk-ku-bhku-ox) 
 - **Battle Value:** 1941 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ox.md) 
@@ -113,7 +113,7 @@
   - Clan ER Large Laser × 2 
   - Clan Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3825/black-hawk-ku-bhku-or) 
 - **Battle Value:** 2193 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-or.md) 
@@ -146,7 +146,7 @@
   - Heavy PPC 
   - Light PPC × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/352/black-hawk-ku-bhku-of) 
 - **Battle Value:** 1759 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-of.md) 
@@ -164,7 +164,7 @@
   - Clan ER PPC 
   - Clan ER Medium Laser × 4 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346/black-hawk-ku-bhku-o-albert) 
 - **Battle Value:** 2377 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-o_albert.md) 

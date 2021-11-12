@@ -16,7 +16,7 @@
   - MRM 10 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4726/ninja-to-njt-2) 
 - **Battle Value:** 1527 
 

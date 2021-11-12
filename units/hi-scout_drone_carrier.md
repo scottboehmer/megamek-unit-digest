@@ -29,7 +29,7 @@
   - C3 Remote Sensor Launcher (ammo: 12) 
 - **Equipment:** 
   - Angel ECM Suite 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
   - Drone Control System 
   - Limited Amphibious Chassis 
   - Remote Sensor Dispenser 

@@ -6,17 +6,17 @@
 
 #### [Armored Personnel Carrier](../../units/armored_personnel_carrier.md) 
 
-- [**Armored Personnel Carrier (Hover)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Hover)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* `Transport:1.0` 
 
 #### [Ripper Infantry Transport](../../units/ripper_infantry_transport.md) 
 
-- [**Ripper Infantry Transport (Royal)**](../../units/ripper_infantry_transport/ripper_infantry_transport_royal.md) *Scout (2696)* 
+- [**Ripper Infantry Transport (Royal)**](../../units/ripper_infantry_transport/ripper_infantry_transport_royal.md) *Scout (2696)* `Transport:1.0` 
 
 ### 20 Tons 
 
 #### [Heavy Tracked APC](../../units/heavy_tracked_apc.md) 
 
-- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* 
+- [**Heavy Tracked APC (Standard)**](../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
 #### [Rotunda Scout Vehicle](../../units/rotunda_scout_vehicle.md) 
 
@@ -31,9 +31,9 @@
 #### [Vector](../../units/vector.md) 
 
 - [**Vector (Attack)**](../../units/vector/vector_attack.md) *Striker (2730)* 
-- [**Vector (EW)**](../../units/vector/vector_ew.md) *Striker (2730)* 
-- [**Vector (Scout)**](../../units/vector/vector_scout.md) *Undefined (2730)* 
-- [**Vector (Transport)**](../../units/vector/vector_transport.md) *Striker (2730)* 
+- [**Vector (EW)**](../../units/vector/vector_ew.md) *Striker (2730)* `ECM` , `TAG` 
+- [**Vector (Scout)**](../../units/vector/vector_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
+- [**Vector (Transport)**](../../units/vector/vector_transport.md) *Striker (2730)* `Transport:3.0` 
 
 ### 25 Tons 
 
@@ -47,17 +47,17 @@
 
 - [**Cobra Transport VTOL (Original)**](../../units/cobra_transport_vtol/cobra_transport_vtol_original.md) *Scout (2582)* 
 - [**Cobra Transport VTOL (Standard)**](../../units/cobra_transport_vtol/cobra_transport_vtol_standard.md) *Scout (2620)* 
-- [**Cobra Transport VTOL (Command)**](../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* 
+- [**Cobra Transport VTOL (Command)**](../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* `Transport:3.0` 
 - [**Cobra Transport VTOL (MASH)**](../../units/cobra_transport_vtol/cobra_transport_vtol_mash.md) *Scout (2669)* 
 
 #### [Cyrano Gunship](../../units/cyrano_gunship.md) 
 
-- [**Cyrano Gunship (Fury)**](../../units/cyrano_gunship/cyrano_gunship_fury.md) *Scout (2754)* 
+- [**Cyrano Gunship (Fury)**](../../units/cyrano_gunship/cyrano_gunship_fury.md) *Scout (2754)* `ECM` , `Transport:4.0` 
 
 #### [Ignis Infantry Support Tank](../../units/ignis_infantry_support_tank.md) 
 
-- [**Ignis Infantry Support Tank (Standard)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_standard.md) *Juggernaut (2512)* 
-- [**Ignis Infantry Support Tank (SRM)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_srm.md) *Juggernaut (2751)* 
+- [**Ignis Infantry Support Tank (Standard)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_standard.md) *Juggernaut (2512)* `Transport:1.0` 
+- [**Ignis Infantry Support Tank (SRM)**](../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_srm.md) *Juggernaut (2751)* `Transport:1.0` 
 
 ### 40 Tons 
 
@@ -68,13 +68,13 @@
 #### [Zephyr Hovertank](../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank (SRM2)**](../../units/zephyr_hovertank/zephyr_hovertank_srm2.md) *Striker (2620)* 
-- [**Zephyr Hovertank (Royal)**](../../units/zephyr_hovertank/zephyr_hovertank_royal.md) *Striker (2621)* 
+- [**Zephyr Hovertank (Royal)**](../../units/zephyr_hovertank/zephyr_hovertank_royal.md) *Striker (2621)* `ECM` , `TAG` 
 
 ### 45 Tons 
 
 #### [Goblin Medium Tank](../../units/goblin_medium_tank.md) 
 
-- [**Goblin Medium Tank (Standard)**](../../units/goblin_medium_tank/goblin_medium_tank_standard.md) *Brawler (2500)* 
+- [**Goblin Medium Tank (Standard)**](../../units/goblin_medium_tank/goblin_medium_tank_standard.md) *Brawler (2500)* `Transport:1.0` 
 
 ### 50 Tons 
 
@@ -96,7 +96,7 @@
 
 #### [Turhan Urban Combat Vehicle](../../units/turhan_urban_combat_vehicle.md) 
 
-- [**Turhan Urban Combat Vehicle (Original)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_original.md) *Brawler (2530)* 
+- [**Turhan Urban Combat Vehicle (Original)**](../../units/turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_original.md) *Brawler (2530)* `Transport:5.0` 
 
 ### 60 Tons 
 
@@ -118,7 +118,7 @@
 
 #### [Padilla Heavy Artillery Tank](../../units/padilla_heavy_artillery_tank.md) 
 
-- [**Padilla Heavy Artillery Tank (Standard)**](../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) *Missile Boat (2620)* 
+- [**Padilla Heavy Artillery Tank (Standard)**](../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) *Missile Boat (2620)* `TAG` 
 
 #### [Pollux ADA Heavy Tank](../../units/pollux_ada_heavy_tank.md) 
 
@@ -132,7 +132,7 @@
 
 #### [Rhino Fire Support Tank](../../units/rhino_fire_support_tank.md) 
 
-- [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* 
+- [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* `ECM` 
 
 ### 95 Tons 
 

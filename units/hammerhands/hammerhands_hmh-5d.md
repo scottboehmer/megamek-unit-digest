@@ -15,7 +15,7 @@
   - AC/10 × 2 (ammo: 40) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1371/hammerhands-hmh-5d) 
 - **Battle Value:** 1496 
 

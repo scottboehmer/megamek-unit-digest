@@ -18,7 +18,7 @@
   - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202/gladiator-gld-5r) 
 - **Battle Value:** 1412 
 

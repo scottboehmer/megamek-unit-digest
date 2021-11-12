@@ -83,7 +83,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1795/kintaro-kto-c) 
 - **Battle Value:** 1294 
 - [*More Info*](kintaro/kintaro_kto-c.md) 
@@ -102,7 +102,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1796/kintaro-kto-k) 
 - **Battle Value:** 1571 
 - [*More Info*](kintaro/kintaro_kto-k.md) 

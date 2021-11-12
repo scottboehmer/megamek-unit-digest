@@ -14,7 +14,7 @@
   - Heavy PPC 
   - Light Machine Gun (ammo: 100) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3612/yasha-vtol-standard) 
 - **Battle Value:** 799 

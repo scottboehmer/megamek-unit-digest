@@ -17,7 +17,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/300/battlemaster-blr-k3) 
 - **Battle Value:** 1851 
 

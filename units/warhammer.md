@@ -306,7 +306,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494/warhammer-whm-8d) 
 - **Battle Value:** 1744 
 - [*More Info*](warhammer/warhammer_whm-8d.md) 
@@ -413,7 +413,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495/warhammer-whm-8k) 
 - **Battle Value:** 1748 
 - [*More Info*](warhammer/warhammer_whm-8k.md) 
@@ -493,7 +493,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct) 
 - **Battle Value:** 1758 
 - [*More Info*](warhammer/warhammer_whd-10ct.md) 
@@ -513,7 +513,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2) 
 - **Battle Value:** 1654 
 - [*More Info*](warhammer/warhammer_whm-8d2.md) 

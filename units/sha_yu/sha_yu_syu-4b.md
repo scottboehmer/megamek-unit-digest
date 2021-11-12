@@ -16,7 +16,7 @@
   - LRM 5 (ammo: 48) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5027/sha-yu-syu-4b) 
 - **Battle Value:** 1267 
 

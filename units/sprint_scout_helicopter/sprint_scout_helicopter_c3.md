@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3022/sprint-scout-helicopter-c3) 
 - **Battle Value:** 82 
 

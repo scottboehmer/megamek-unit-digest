@@ -1,5 +1,21 @@
 # Wheeled Scout 
 
+## Wheeled Scout (Camera) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2500) 
+- **Chassis:** 20 tons Wheeled 
+- **Movement:** 7 / 11, ICE 
+- **Armor:** 64 
+- **Heat Sinks:** 3 (3) 
+- **Weapons:** 
+  - Medium Laser 
+- **Equipment:** 
+  - Recon Camera 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7819/wheeled-scout-camera) 
+- **Battle Value:** 291 
+- [*More Info*](wheeled_scout/wheeled_scout_camera.md) 
+
 ## Wheeled Scout (Standard) 
 
 - **Role:** Undefined 

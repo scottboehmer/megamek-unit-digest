@@ -15,7 +15,7 @@
   - LRM 5 × 2 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
   - Infantry (4 tons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2122/maxim-heavy-hover-transport-c3s) 

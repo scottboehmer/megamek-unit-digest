@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 24) 
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1159/fury-command-tank-c3s) 
 - **Battle Value:** 1413 
 

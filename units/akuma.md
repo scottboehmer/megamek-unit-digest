@@ -55,7 +55,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5713/akuma-aku-2x) 
 - **Battle Value:** 2122 
 - [*More Info*](akuma/akuma_aku-2x.md) 
@@ -78,7 +78,7 @@
   - Angel ECM Suite 
   - Coolant Pod 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22/akuma-aku-2xc) 
 - **Battle Value:** 2134 
 - [*More Info*](akuma/akuma_aku-2xc.md) 
@@ -101,7 +101,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5714/akuma-aku-2xk) 
 - **Battle Value:** 2170 
 - [*More Info*](akuma/akuma_aku-2xk.md) 

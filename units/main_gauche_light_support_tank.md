@@ -27,7 +27,7 @@
   - Light Gauss Rifle (ammo: 16) 
   - ER Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4568/main-gauche-light-support-tank-c3) 
 - **Battle Value:** 472 
 - [*More Info*](main_gauche_light_support_tank/main_gauche_light_support_tank_c3.md) 

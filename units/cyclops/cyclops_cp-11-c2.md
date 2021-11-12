@@ -16,7 +16,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Medium Laser × 2 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/776/cyclops-cp-11-c2) 
 - **Battle Value:** 1534 
 

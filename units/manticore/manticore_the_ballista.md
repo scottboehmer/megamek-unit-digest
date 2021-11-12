@@ -14,7 +14,7 @@
   - ELRM 10 (ammo: 18) 
   - HVAC/5 (ammo: 30) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
   - Supercharger 
   - Combat Vehicle Escape Pod 

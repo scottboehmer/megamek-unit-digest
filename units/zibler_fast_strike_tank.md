@@ -48,7 +48,7 @@
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6324/zibler-fast-strike-tank-c) 
 - **Battle Value:** 1017 
 - [*More Info*](zibler_fast_strike_tank/zibler_fast_strike_tank_c.md) 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - Heavy PPC 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6325/zibler-fast-strike-tank-d) 
 - **Battle Value:** 1021 
@@ -83,7 +83,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6321/zibler-fast-strike-tank-prime) 
 - **Battle Value:** 1118 

@@ -48,7 +48,7 @@
   - Sniper Cannon (ammo: 20) 
   - Medium X-Pulse Laser × 4 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709/jinggau-jn-g8bx-rush) 
 - **Battle Value:** 1337 

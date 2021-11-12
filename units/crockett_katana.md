@@ -32,7 +32,7 @@
   - Large Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1761/katana-crockett-crk-5003-c) 
 - **Battle Value:** 1618 
 - [*More Info*](katana/katana_crk-5003-c.md) 
@@ -51,7 +51,7 @@
   - Large Laser × 2 
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1763/katana-crockett-crk-5003-cm) 
 - **Battle Value:** 1554 
 - [*More Info*](katana/katana_crk-5003-cm.md) 
@@ -71,7 +71,7 @@
   - ER Medium Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1762/katana-crockett-crk-5003-cj) 
 - **Battle Value:** 1844 
 - [*More Info*](katana/katana_crk-5003-cj.md) 

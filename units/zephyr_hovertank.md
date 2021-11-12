@@ -144,7 +144,7 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
   - Drone Operating System 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7302/zephyr-hovertank-omnidrone-b) 
 - **Battle Value:** 540 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_b.md) 

@@ -17,7 +17,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799/daikyu-dai-01r) 
 - **Battle Value:** 1513 
 

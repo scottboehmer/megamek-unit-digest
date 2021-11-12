@@ -13,7 +13,7 @@
 - **Weapons:** 
   - TSEMP 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - Targeting Computer 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6667/scapha-hovertank-i) 
 - **Battle Value:** 1634 

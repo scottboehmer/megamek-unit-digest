@@ -51,7 +51,7 @@
   - LRM 10 (ammo: 12) 
   - Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559/wolf-trap-tora-wft-c) 
 - **Battle Value:** 1001 

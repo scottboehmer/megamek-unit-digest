@@ -17,7 +17,7 @@
   - Plasma Rifle (ammo: 20) 
   - ER Large Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453/peacekeeper-pkp-1b) 
 - **Battle Value:** 2981 
 

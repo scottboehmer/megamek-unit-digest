@@ -37,7 +37,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452/peacekeeper-pkp-1a) 
 - **Battle Value:** 2824 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1a.md) 
@@ -57,7 +57,7 @@
   - Plasma Rifle (ammo: 20) 
   - ER Large Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453/peacekeeper-pkp-1b) 
 - **Battle Value:** 2981 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1b.md) 
@@ -78,7 +78,7 @@
   - Plasma Rifle (ammo: 20) 
   - Medium X-Pulse Laser 
 - **Equipment:** 
-  - C3 Emergency Master 
+  - C3 Emergency Main 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836/peacekeeper-pkp-2k) 
 - **Battle Value:** 2863 
 - [*More Info*](peacekeeper/peacekeeper_pkp-2k.md) 

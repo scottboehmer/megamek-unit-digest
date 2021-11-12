@@ -113,7 +113,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5708/templar-tlr1-oe) 
 - **Battle Value:** 1865 
 - [*More Info*](templar/templar_tlr1-oe.md) 
@@ -173,7 +173,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5709/templar-tlr1-of) 
 - **Battle Value:** 2029 
 - [*More Info*](templar/templar_tlr1-of.md) 
@@ -192,7 +192,7 @@
   - LB 2-X AC × 3 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5710/templar-tlr1-og) 
 - **Battle Value:** 1632 
 - [*More Info*](templar/templar_tlr1-og.md) 
@@ -214,7 +214,7 @@
 - **Equipment:** 
   - HarJel × 4 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3171/templar-tlr1-ou) 
 - **Battle Value:** 1747 
 - [*More Info*](templar/templar_tlr1-ou.md) 
@@ -235,7 +235,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5711/templar-tlr1-oh) 
 - **Battle Value:** 1958 
 - [*More Info*](templar/templar_tlr1-oh.md) 
@@ -253,7 +253,7 @@
   - Heavy PPC × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5712/templar-tlr1-oi) 
 - **Battle Value:** 2202 
 - [*More Info*](templar/templar_tlr1-oi.md) 

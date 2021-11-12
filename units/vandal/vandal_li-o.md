@@ -19,7 +19,7 @@
   - Angel ECM Suite 
   - Supercharger 
   - CASE II 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6461/vandal-li-o) 
 - **Battle Value:** 1881 
 

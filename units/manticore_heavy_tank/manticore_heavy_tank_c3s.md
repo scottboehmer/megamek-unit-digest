@@ -16,7 +16,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2017/manticore-heavy-tank-c3s) 
 - **Battle Value:** 1008 
 

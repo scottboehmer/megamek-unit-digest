@@ -17,7 +17,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1272/grasshopper-ghr-c) 
 - **Battle Value:** 1366 
 

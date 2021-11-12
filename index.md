@@ -512,6 +512,7 @@
 - [JagerMech III](units/jagermech_iii.md) 
 - [Jaguar](units/jaguar.md) 
 - [Javelin](units/javelin.md) 
+- [Jeep](units/jeep.md) 
 - [Jenner](units/jenner.md) 
 - [Jenner IIC](units/jenner_iic.md) 
 - [JES I Tactical Missile Carrier](units/jes_i_tactical_missile_carrier.md) 

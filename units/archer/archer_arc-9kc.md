@@ -15,7 +15,7 @@
   - ER Medium Laser 
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM) 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc) 
 - **Battle Value:** 1361 
 

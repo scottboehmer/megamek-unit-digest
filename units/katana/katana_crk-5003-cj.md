@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1762/katana-crockett-crk-5003-cj) 
 - **Battle Value:** 1844 
 

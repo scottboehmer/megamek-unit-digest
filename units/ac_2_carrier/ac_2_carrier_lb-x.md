@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 2-X AC × 5 (ammo: 90 Standard, 90 Cluster) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4/ac2-carrier-lb-x) 
 - **Battle Value:** 536 
 

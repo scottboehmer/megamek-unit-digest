@@ -15,7 +15,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE 
   - Targeting Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx) 

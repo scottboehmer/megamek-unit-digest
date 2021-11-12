@@ -120,7 +120,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1264/grand-dragon-drg-c) 
 - **Battle Value:** 1322 
 - [*More Info*](grand_dragon/grand_dragon_drg-c.md) 
@@ -138,7 +138,7 @@
   - ER Medium Laser × 3 
   - MRM 10 (ammo: 24) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - MASC 
   - CASE 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1260/grand-dragon-drg-7k) 
@@ -158,7 +158,7 @@
   - LRM 15 (ammo: 16) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
   - MASC 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1261/grand-dragon-drg-7k-mark) 
@@ -178,7 +178,7 @@
   - Medium Laser × 2 
   - MML 5 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1263/grand-dragon-drg-9kc) 
 - **Battle Value:** 1147 
 - [*More Info*](grand_dragon/grand_dragon_drg-9kc.md) 
@@ -197,7 +197,7 @@
   - ER Medium Laser × 3 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - MASC 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262/grand-dragon-drg-7kc) 
 - **Battle Value:** 1673 

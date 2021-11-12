@@ -15,7 +15,7 @@
   - MRM 30 (ammo: 16) 
   - Large Laser × 2 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2942/shugenja-sja-7d) 
 - **Battle Value:** 1656 
 

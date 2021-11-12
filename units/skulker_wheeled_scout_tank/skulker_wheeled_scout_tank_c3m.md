@@ -11,7 +11,7 @@
 - **Armor:** 71 (Ferro Fibrous) 
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2955/skulker-wheeled-scout-tank-c3m) 
 - **Battle Value:** 230 
 

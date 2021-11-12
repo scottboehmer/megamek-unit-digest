@@ -16,7 +16,7 @@
   - Light AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671/jagermech-jm7-c3bs) 
 - **Battle Value:** 1354 
 

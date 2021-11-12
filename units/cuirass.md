@@ -37,7 +37,7 @@
   - MagShot Gauss Rifle × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6922/cuirass-cdr-2bc3) 
 - **Battle Value:** 990 
 - [*More Info*](cuirass/cuirass_cdr-2bc.md) 

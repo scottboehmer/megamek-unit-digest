@@ -14,7 +14,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456/pegasus-scout-hover-tank-c3) 
 - **Battle Value:** 785 
 

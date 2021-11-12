@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - A-Pod 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2390/owens-ow-1f) 
 - **Battle Value:** 933 

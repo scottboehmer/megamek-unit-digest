@@ -95,7 +95,7 @@
   - Lance 
 - **Equipment:** 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6721/night-stalker-nsr-kc) 
 - **Battle Value:** 1037 
 - [*More Info*](night_stalker/night_stalker_nsr-kc.md) 

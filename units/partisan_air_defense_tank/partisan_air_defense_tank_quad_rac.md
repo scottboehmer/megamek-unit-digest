@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/2 × 4 (ammo: 135) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2438/partisan-air-defense-tank-quad-rac) 
 - **Battle Value:** 1178 

@@ -15,7 +15,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - ER Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3335/typhoon-urban-assault-vehicle-lb-x) 
 - **Battle Value:** 1064 
 

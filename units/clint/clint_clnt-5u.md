@@ -15,7 +15,7 @@
   - ER Large Laser 
   - ER Medium Laser × 3 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/650/clint-clnt-5u) 
 - **Battle Value:** 1275 

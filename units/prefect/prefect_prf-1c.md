@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Angel ECM Suite 
-  - C3 Emergency Master 
+  - C3 Emergency Main 
 - **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7348/prefect-prf-1c) 
 - **Battle Value:** 1857 
 

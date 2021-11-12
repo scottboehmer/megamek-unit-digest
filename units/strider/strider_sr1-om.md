@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - CASE 
-  - C3 BoostedMaster × 2 
+  - C3 Boosted Main × 2 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6916/strider-sr1-om) 
 - **Battle Value:** 607 
 

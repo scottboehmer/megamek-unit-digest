@@ -12,7 +12,7 @@
   - PPC × 2 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036/fennec-fec-1cm) 
 - **Battle Value:** 1395 
 - [*More Info*](fennec/fennec_fec-1cm.md) 
@@ -29,7 +29,7 @@
   - PPC × 2 
   - Light PPC × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037/fennec-fec-3c) 
 - **Battle Value:** 1551 
 - [*More Info*](fennec/fennec_fec-3c.md) 
@@ -48,7 +48,7 @@
 - **Equipment:** 
   - Clan Light Active Probe 
   - Radical Heat Sink System 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900/fennec-fec-5cm) 
 - **Battle Value:** 1498 
 - [*More Info*](fennec/fennec_fec-5cm.md) 

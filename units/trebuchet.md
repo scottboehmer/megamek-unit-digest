@@ -112,7 +112,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3302/trebuchet-tbt-9k) 
 - **Battle Value:** 1329 

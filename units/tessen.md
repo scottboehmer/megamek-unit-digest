@@ -33,7 +33,7 @@
   - iNarc (ammo: 16) 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3) 
 - **Battle Value:** 1234 
@@ -53,7 +53,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
   - TAG 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr) 
@@ -94,7 +94,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - MASC 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5678/tessen-tsn-c3m) 
 - **Battle Value:** 1547 
 - [*More Info*](tessen/tessen_tsn-c3m.md) 

@@ -14,7 +14,7 @@
   - LRM 20 w/ Artemis IV × 4 (ammo: 48) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/899/di-morgan-assault-tank-lrm) 
 - **Battle Value:** 1869 

@@ -54,7 +54,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3055/stealth-sth-2d1) 
 - **Battle Value:** 1339 
 - [*More Info*](stealth/stealth_sth-2d1.md) 

@@ -15,7 +15,7 @@
   - LRM 15 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
   - Targeting Computer 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2818/schiltron-mobile-fire-support-platform-d) 
 - **Battle Value:** 1480 

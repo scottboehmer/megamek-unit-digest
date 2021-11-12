@@ -6,7 +6,7 @@
 
 #### [Armored Personnel Carrier](../../units/armored_personnel_carrier.md) 
 
-- [**Armored Personnel Carrier (Hover Sensors)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_sensors.md) *Scout (2620)* 
+- [**Armored Personnel Carrier (Hover Sensors)**](../../units/armored_personnel_carrier/armored_personnel_carrier_hover_sensors.md) *Scout (2620)* `Transport:1.0` 
 
 ### 25 Tons 
 

@@ -15,7 +15,7 @@
   - Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii) 
 - **Battle Value:** 1661 
 

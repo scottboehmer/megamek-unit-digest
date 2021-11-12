@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2651/raptor-rtx1-od) 
 - **Battle Value:** 490 
 

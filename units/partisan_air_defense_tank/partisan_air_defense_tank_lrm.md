@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2437/partisan-air-defense-tank-lrm) 
 - **Battle Value:** 1303 
 

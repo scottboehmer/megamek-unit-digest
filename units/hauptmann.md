@@ -94,7 +94,7 @@
   - Rocket 10 × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
   - Targeting Computer 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od) 
 - **Battle Value:** 2359 
@@ -151,7 +151,7 @@
   - LRM 15 × 3 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6838/hauptmann-ha1-om) 
 - **Battle Value:** 2214 
 - [*More Info*](hauptmann/hauptmann_ha1-om.md) 

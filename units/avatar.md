@@ -73,7 +73,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/163/avatar-av1-oc) 
 - **Battle Value:** 1406 
 - [*More Info*](avatar/avatar_av1-oc.md) 
@@ -130,7 +130,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/164/avatar-av1-od) 
 - **Battle Value:** 1475 
 - [*More Info*](avatar/avatar_av1-od.md) 
@@ -208,7 +208,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/171/avatar-av1-ou) 
 - **Battle Value:** 1359 
 - [*More Info*](avatar/avatar_av1-ou.md) 

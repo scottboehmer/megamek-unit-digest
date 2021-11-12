@@ -35,7 +35,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1349/gunslinger-gun-2erd) 
 - **Battle Value:** 2423 
 - [*More Info*](gunslinger/gunslinger_gun-2erd.md) 
@@ -75,7 +75,7 @@
   - ER Medium Laser × 4 
   - ER Small Laser 
 - **Equipment:** 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350/gunslinger-gun-2erdr) 
 - **Battle Value:** 2371 
 - [*More Info*](gunslinger/gunslinger_gun-2erdr.md) 

@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Blue Shield PFD 
   - Environmentally Sealed Chassis 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2446/partisan-hull-defense-standard) 
 - **Battle Value:** 800 
 - [*More Info*](partisan_hull_defense/partisan_hull_defense_standard.md) 

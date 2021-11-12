@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 40 Standard, 30 Cluster) 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2435/partisan-air-defense-tank-company-command) 
 - **Battle Value:** 920 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 90) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2829/scimitar-medium-hover-tank-c3) 
 - **Battle Value:** 680 
 

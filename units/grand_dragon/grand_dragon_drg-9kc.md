@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - MML 5 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1263/grand-dragon-drg-9kc) 
 - **Battle Value:** 1147 
 

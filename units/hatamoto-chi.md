@@ -62,7 +62,7 @@
   - Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii) 
 - **Battle Value:** 1661 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t_daniel_ii.md) 
@@ -82,7 +82,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401/hatamoto-chi-htm-28t) 
 - **Battle Value:** 2039 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t.md) 
@@ -103,7 +103,7 @@
   - Sword 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5457/hatamoto-chi-htm-28t-shin) 
 - **Battle Value:** 2213 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t_shin.md) 
@@ -125,7 +125,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402/hatamoto-chi-htm-28tr) 
 - **Battle Value:** 2034 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28tr.md) 

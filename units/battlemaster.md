@@ -301,7 +301,7 @@
   - MRM 30 (ammo: 24) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm) 
 - **Battle Value:** 1883 
@@ -322,7 +322,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/300/battlemaster-blr-k3) 
 - **Battle Value:** 1851 
 - [*More Info*](battlemaster/battlemaster_blr-k3.md) 
@@ -400,7 +400,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302/battlemaster-blr-m3) 
 - **Battle Value:** 1674 
 - [*More Info*](battlemaster/battlemaster_blr-m3.md) 
@@ -462,7 +462,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - B-Pod × 2 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/281/battlemaster-blr-10s2) 
 - **Battle Value:** 1927 

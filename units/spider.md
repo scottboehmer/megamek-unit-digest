@@ -75,7 +75,7 @@
   - Medium Pulse Laser 
   - Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3020/spider-sdr-c) 
 - **Battle Value:** 616 
 - [*More Info*](spider/spider_sdr-c.md) 
@@ -137,7 +137,7 @@
 - **Weapons:** 
   - Light PPC 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3013/spider-sdr-7kc) 
 - **Battle Value:** 732 
 - [*More Info*](spider/spider_sdr-7kc.md) 

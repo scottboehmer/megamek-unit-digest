@@ -87,7 +87,7 @@
 - **Weapons:** 
   - MRM 30 × 3 (ammo: 48) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/862/demolisher-heavy-tank-mrm) 
 - **Battle Value:** 1242 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_mrm.md) 

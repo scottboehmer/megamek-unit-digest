@@ -33,7 +33,7 @@
   - Streak SRM 6 × 2 (ammo: 30) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/800/daikyu-dai-02) 
 - **Battle Value:** 1831 
@@ -69,7 +69,7 @@
   - MRM 20 (ammo: 24) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - MASC 
   - CASE 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/801/daikyu-dai-03) 
@@ -91,7 +91,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799/daikyu-dai-01r) 
 - **Battle Value:** 1513 
 - [*More Info*](daikyu/daikyu_dai-01r.md) 

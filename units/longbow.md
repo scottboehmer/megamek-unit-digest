@@ -119,7 +119,7 @@
   - Guardian ECM Suite 
   - B-Pod × 2 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934/longbow-lgb-13nais) 
 - **Battle Value:** 1804 
 - [*More Info*](longbow/longbow_lgb-13nais.md) 
@@ -191,7 +191,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6854/longbow-lgb-14c2) 
 - **Battle Value:** 1291 
 - [*More Info*](longbow/longbow_lgb-14c2.md) 

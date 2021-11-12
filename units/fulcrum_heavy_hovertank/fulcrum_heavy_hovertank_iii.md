@@ -15,7 +15,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1156/fulcrum-heavy-hovertank-iii) 
 - **Battle Value:** 1185 

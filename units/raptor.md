@@ -79,7 +79,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2651/raptor-rtx1-od) 
 - **Battle Value:** 490 
 - [*More Info*](raptor/raptor_rtx1-od.md) 
@@ -112,7 +112,7 @@
   - Clan ER Medium Laser × 2 
   - Clan ER Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2655/raptor-rtx1-or) 
 - **Battle Value:** 1393 
 - [*More Info*](raptor/raptor_rtx1-or.md) 

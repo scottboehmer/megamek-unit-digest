@@ -19,7 +19,7 @@
   - Laser Anti-Missile System 
   - Supercharger 
   - CASE II 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6462/vandal-li-oa) 
 - **Battle Value:** 1865 
 

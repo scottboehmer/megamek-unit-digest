@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
   - MASC 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1535/hitman-hm-2) 
 - **Battle Value:** 861 

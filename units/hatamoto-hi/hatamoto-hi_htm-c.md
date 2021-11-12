@@ -14,7 +14,7 @@
   - PPC × 2 
   - Medium Pulse Laser × 4 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1404/hatamoto-hi-htm-c) 
 - **Battle Value:** 1627 
 

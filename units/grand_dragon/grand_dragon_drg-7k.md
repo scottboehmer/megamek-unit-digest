@@ -15,7 +15,7 @@
   - ER Medium Laser × 3 
   - MRM 10 (ammo: 24) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - MASC 
   - CASE 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1260/grand-dragon-drg-7k) 

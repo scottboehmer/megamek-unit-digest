@@ -14,7 +14,7 @@
   - ER PPC × 2 
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE II 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350/hatamoto-ku-htm-27w2) 
 - **Battle Value:** 1699 

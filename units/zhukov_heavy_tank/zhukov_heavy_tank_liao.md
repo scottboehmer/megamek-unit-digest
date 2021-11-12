@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3649/zhukov-heavy-tank-liao) 
 - **Battle Value:** 1021 

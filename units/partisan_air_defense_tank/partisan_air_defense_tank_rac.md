@@ -14,7 +14,7 @@
   - RAC/5 × 2 (ammo: 80) 
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2439/partisan-air-defense-tank-rac) 
 - **Battle Value:** 1247 
 

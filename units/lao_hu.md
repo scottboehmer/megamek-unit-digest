@@ -29,7 +29,7 @@
   - LB 10-X AC (ammo: 10 Standard, 20 Cluster) 
   - LRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4479/lao-hu-lhu-3b) 
 - **Battle Value:** 1497 
 - [*More Info*](lao_hu/lao_hu_lhu-3b.md) 

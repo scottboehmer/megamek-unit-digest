@@ -456,7 +456,7 @@
   - Snub-Nose PPC 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k) 
 - **Battle Value:** 1241 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7k.md) 
@@ -494,7 +494,7 @@
   - Snub-Nose PPC × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
 - **Battle Value:** 1442 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-8cs.md) 

@@ -158,7 +158,7 @@
   - Small Laser 
   - Flamer × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1101/firestarter-fs9-ob) 
 - **Battle Value:** 1070 
@@ -178,7 +178,7 @@
   - Small Laser 
   - Flamer × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1102/firestarter-fs9-oc) 
 - **Battle Value:** 1006 
 - [*More Info*](firestarter/firestarter_fs9-oc.md) 
@@ -199,7 +199,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1103/firestarter-fs9-od) 
 - **Battle Value:** 1322 
 - [*More Info*](firestarter/firestarter_fs9-od.md) 

@@ -32,7 +32,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2570/prefect-prf-1r-veronica) 
 - **Battle Value:** 1835 
 - [*More Info*](prefect/prefect_prf-1r_veronica.md) 
@@ -88,7 +88,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Angel ECM Suite 
-  - C3 Emergency Master 
+  - C3 Emergency Main 
 - **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7348/prefect-prf-1c) 
 - **Battle Value:** 1857 
 - [*More Info*](prefect/prefect_prf-1c.md) 

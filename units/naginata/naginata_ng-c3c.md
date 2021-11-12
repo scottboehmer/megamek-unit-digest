@@ -16,7 +16,7 @@
   - LRM 15 w/ Artemis IV × 3 (ammo: 32) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2255/naginata-ng-c3c) 
 - **Battle Value:** 2131 
 

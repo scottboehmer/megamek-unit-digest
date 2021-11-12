@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 BoostedMaster × 2 
+  - C3 Boosted Main × 2 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6608/gulltoppr-omnimonitor-b) 
 - **Battle Value:** 2861 
 - [*More Info*](gulltoppr_omnimonitor/gulltoppr_omnimonitor_b.md) 

@@ -72,7 +72,7 @@
 - **Weapons:** 
   - ER PPC 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3615/yellow-jacket-gunship-ppc) 
 - **Battle Value:** 758 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_ppc.md) 

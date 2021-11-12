@@ -44,7 +44,7 @@
   - Light AC/5 × 4 (ammo: 160) 
 - **Equipment:** 
   - Clan CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6726/malice-mal-xv) 
 - **Battle Value:** 1996 
 - [*More Info*](malice/malice_mal-xv.md) 
@@ -67,7 +67,7 @@
   - Modular Armor × 7 
   - Remote Sensor Dispenser × 2 
   - Coolant Pod × 2 
-  - Inner Sphere C3 Slave 
+  - Inner Sphere C3 Support 
   - TAG 
   - Armored Actuator × 2 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6727/malice-mal-yz) 

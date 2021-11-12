@@ -44,7 +44,7 @@
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster) 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1149/fortune-wheeled-assault-vehicle-c3m) 
 - **Battle Value:** 1178 

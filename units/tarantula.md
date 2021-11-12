@@ -58,7 +58,7 @@
 - **Weapons:** 
   - ER PPC 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - MASC 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3163/tarantula-zph-4a) 
 - **Battle Value:** 967 
@@ -75,7 +75,7 @@
 - **Weapons:** 
   - ER Large Laser 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - MASC 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941/tarantula-zph-5a) 
 - **Battle Value:** 806 

@@ -16,7 +16,7 @@
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/380/blackjack-bj2-ob) 
 - **Battle Value:** 1323 
 

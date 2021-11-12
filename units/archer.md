@@ -319,7 +319,7 @@
   - Light PPC × 3 
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/87/archer-arc-9k) 
 - **Battle Value:** 1391 
 - [*More Info*](archer/archer_arc-9k.md) 
@@ -392,7 +392,7 @@
   - ER Medium Laser 
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM) 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc) 
 - **Battle Value:** 1361 
 - [*More Info*](archer/archer_arc-9kc.md) 
@@ -428,7 +428,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
 - **Battle Value:** 1668 
 - [*More Info*](archer/archer_arc-9r.md) 

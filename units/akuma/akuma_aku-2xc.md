@@ -20,7 +20,7 @@
   - Angel ECM Suite 
   - Coolant Pod 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22/akuma-aku-2xc) 
 - **Battle Value:** 2134 
 

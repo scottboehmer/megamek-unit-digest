@@ -94,7 +94,7 @@
 - **Weapons:** 
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - Cargo 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/833/darter-scout-car-c3) 
 - **Battle Value:** 125 

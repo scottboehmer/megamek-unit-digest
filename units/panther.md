@@ -79,7 +79,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2426/panther-pnt-c) 
 - **Battle Value:** 833 
 - [*More Info*](panther/panther_pnt-c.md) 
@@ -116,7 +116,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5443/panther-pnt-ca) 
 - **Battle Value:** 787 
 - [*More Info*](panther/panther_pnt-ca.md) 
@@ -260,7 +260,7 @@
   - ER PPC 
   - Medium Laser 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6923/panther-pnt-12kc) 
 - **Battle Value:** 1036 
 - [*More Info*](panther/panther_pnt-12kc.md) 

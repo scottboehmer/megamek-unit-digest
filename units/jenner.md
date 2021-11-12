@@ -107,7 +107,7 @@
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1688/jenner-jr7-c) 
 - **Battle Value:** 832 
@@ -144,7 +144,7 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1695/jenner-jr7-k-grace-ii) 
 - **Battle Value:** 787 
 - [*More Info*](jenner/jenner_jr7-k_grace_ii.md) 
@@ -161,7 +161,7 @@
 - **Weapons:** 
   - ER Medium Laser × 4 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1690/jenner-jr7-c3) 
 - **Battle Value:** 1069 
 - [*More Info*](jenner/jenner_jr7-c3.md) 
@@ -181,7 +181,7 @@
   - MML 5 × 3 (ammo: 40 SRM, 24 LRM) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1689/jenner-jr7-c2) 
 - **Battle Value:** 769 
 - [*More Info*](jenner/jenner_jr7-c2.md) 
@@ -220,7 +220,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4) 
 - **Battle Value:** 703 
 - [*More Info*](jenner/jenner_jr7-c4.md) 

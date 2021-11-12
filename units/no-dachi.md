@@ -80,7 +80,7 @@
   - Small Laser 
   - Flamer 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2297/no-dachi-nda-2kc) 
 - **Battle Value:** 1705 
 - [*More Info*](no-dachi/no-dachi_nda-2kc.md) 

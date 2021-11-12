@@ -61,7 +61,7 @@
   - SRM 6 w/ Artemis IV (ammo: 30) 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3260/tokugawa-heavy-tank-c3) 
 - **Battle Value:** 891 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_c3.md) 
@@ -113,7 +113,7 @@
   - ELRM 15 (ammo: 12) 
   - HVAC/10 (ammo: 16) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** XTRO Kurita - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3267/tokugawa-heavy-tank-yumi) 
 - **Battle Value:** 1125 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_yumi.md) 

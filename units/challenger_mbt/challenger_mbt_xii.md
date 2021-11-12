@@ -18,7 +18,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/540/challenger-mbt-xii) 
 - **Battle Value:** 1851 
 

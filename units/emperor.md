@@ -207,7 +207,7 @@
   - Snub-Nose PPC × 2 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/969/emperor-emp-6me-mercury-elite) 
 - **Battle Value:** 2004 
 - [*More Info*](emperor/emperor_emp-6me_mercury_elite.md) 

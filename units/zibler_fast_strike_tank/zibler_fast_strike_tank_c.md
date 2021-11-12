@@ -15,7 +15,7 @@
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6324/zibler-fast-strike-tank-c) 
 - **Battle Value:** 1017 
 

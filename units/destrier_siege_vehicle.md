@@ -17,7 +17,7 @@
   - Anti-Missile System × 4 (ammo: 48) 
   - CASE 
   - Communications Equipment 
-  - C3 Slave 
+  - C3 Support 
   - Hitch 
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6329/destrier-siege-vehicle-standard) 

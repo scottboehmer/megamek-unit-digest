@@ -208,7 +208,7 @@
   - Targeting Computer 
   - MASC 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/522/centurion-cn9-d5) 
 - **Battle Value:** 1738 
 - [*More Info*](centurion/centurion_cn9-d5.md) 
@@ -452,7 +452,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6343/centurion-cn11-oc) 
 - **Battle Value:** 1628 
 - [*More Info*](centurion/centurion_cn11-oc.md) 
@@ -494,7 +494,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Angel ECM Suite 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6345/centurion-cn11-oe) 
 - **Battle Value:** 1515 
 - [*More Info*](centurion/centurion_cn11-oe.md) 

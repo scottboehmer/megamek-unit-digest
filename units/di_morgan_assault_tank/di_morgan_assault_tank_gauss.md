@@ -14,7 +14,7 @@
   - Gauss Rifle × 3 (ammo: 48) 
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/898/di-morgan-assault-tank-gauss) 
 - **Battle Value:** 1436 

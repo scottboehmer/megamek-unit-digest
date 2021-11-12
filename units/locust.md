@@ -302,7 +302,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
   - MASC 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912/locust-lct-5w2) 

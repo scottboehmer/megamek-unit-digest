@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - MASC 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262/grand-dragon-drg-7kc) 
 - **Battle Value:** 1673 

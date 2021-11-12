@@ -137,7 +137,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/138/atlas-as7-c) 
 - **Battle Value:** 2163 
 - [*More Info*](atlas/atlas_as7-c.md) 
@@ -157,7 +157,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Master 
+  - C3 Main 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/139/atlas-as7-cm) 
 - **Battle Value:** 2036 
@@ -276,7 +276,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr) 
 - **Battle Value:** 2101 
 - [*More Info*](atlas/atlas_as7-dr.md) 

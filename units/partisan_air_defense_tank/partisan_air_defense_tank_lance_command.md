@@ -14,7 +14,7 @@
   - Ultra AC/5 × 2 (ammo: 60) 
   - AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - CASE 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436/partisan-air-defense-tank-lance-command) 
 - **Battle Value:** 836 

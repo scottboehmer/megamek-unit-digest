@@ -36,7 +36,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1329/grim-reaper-grm-r-pr30) 
 - **Battle Value:** 1673 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr30.md) 
@@ -57,7 +57,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1330/grim-reaper-grm-r-pr31) 
 - **Battle Value:** 1655 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr31.md) 

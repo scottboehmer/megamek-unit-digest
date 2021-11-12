@@ -15,7 +15,7 @@
   - LRM 5 × 2 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2121/maxim-heavy-hover-transport-c3m) 
 - **Battle Value:** 817 
 

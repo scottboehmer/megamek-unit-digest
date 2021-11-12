@@ -15,7 +15,7 @@
   - LRM 15 w/ Artemis IV × 3 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689/ajax-assault-tank-b) 
 - **Battle Value:** 1706 
 

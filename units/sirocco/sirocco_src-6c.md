@@ -18,7 +18,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2953/sirocco-src-6c) 
 - **Battle Value:** 2202 
 

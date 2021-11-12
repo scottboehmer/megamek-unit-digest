@@ -17,7 +17,7 @@
   - Medium Pulse Laser 
   - Medium Laser × 2 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3628/yu-huang-y-h9gc) 
 - **Battle Value:** 2017 
 

@@ -14,7 +14,7 @@
   - ER PPC 
   - LRM 15 w/ Artemis IV × 3 (ammo: 48) 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - CASE 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2252/naginata-ng-c3a) 
 - **Battle Value:** 1954 

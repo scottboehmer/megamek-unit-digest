@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
   - TAG 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr) 

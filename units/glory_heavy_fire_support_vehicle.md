@@ -69,7 +69,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
   - CASE 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6803/glory-heavy-fire-support-vehicle-3090-upgrade) 

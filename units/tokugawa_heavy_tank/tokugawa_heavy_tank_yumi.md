@@ -14,7 +14,7 @@
   - ELRM 15 (ammo: 12) 
   - HVAC/10 (ammo: 16) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** XTRO Kurita - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3267/tokugawa-heavy-tank-yumi) 
 - **Battle Value:** 1125 
 

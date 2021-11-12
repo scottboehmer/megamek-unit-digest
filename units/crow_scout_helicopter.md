@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/745/crow-scout-helicopter-c3) 
 - **Battle Value:** 288 
 - [*More Info*](crow_scout_helicopter/crow_scout_helicopter_c3.md) 

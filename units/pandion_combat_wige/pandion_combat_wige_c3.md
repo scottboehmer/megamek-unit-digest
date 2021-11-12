@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2413/pandion-combat-wige-c3) 
 - **Battle Value:** 387 
 

@@ -14,7 +14,7 @@
   - Clan ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464/pendragon-pdg-1x-muse-red) 
 - **Battle Value:** 2230 
 - [*More Info*](pendragon/pendragon_pdg-1x_muse_red.md) 
@@ -33,7 +33,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799/pendragon-pdg-1r) 
 - **Battle Value:** 2151 
 - [*More Info*](pendragon/pendragon_pdg-1r.md) 
@@ -52,7 +52,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
-  - C3 Master 
+  - C3 Main 
   - Coolant Pod 
 - **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000/pendragon-pdg-3r) 
 - **Battle Value:** 1991 

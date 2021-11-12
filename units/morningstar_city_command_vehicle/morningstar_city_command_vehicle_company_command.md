@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-  - C3 Master × 2 
+  - C3 Main × 2 
   - Infantry (4 tons) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4669/morningstar-city-command-vehicle-company-command) 
 - **Battle Value:** 656 

@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
   - Environmentally Sealed Chassis 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/21/ajax-assault-tank-sealed) 

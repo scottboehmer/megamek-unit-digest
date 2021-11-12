@@ -14,7 +14,7 @@
   - SRM 6 × 9 (ammo: 45) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3029/srm-carrier-c3) 
 - **Battle Value:** 903 
 

@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
   - ER Small Laser 
 - **Equipment:** 
-  - C3 BoostedMaster 
+  - C3 Boosted Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350/gunslinger-gun-2erdr) 
 - **Battle Value:** 2371 
 

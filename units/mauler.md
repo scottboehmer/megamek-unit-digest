@@ -31,7 +31,7 @@
   - LRM 15 × 2 (ammo: 32) 
   - AC/2 × 4 (ammo: 45) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2103/mauler-mal-c) 
 - **Battle Value:** 1473 
@@ -69,7 +69,7 @@
   - LRM 15 × 2 (ammo: 32) 
   - Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r) 
 - **Battle Value:** 1877 
 - [*More Info*](mauler/mauler_mal-3r.md) 

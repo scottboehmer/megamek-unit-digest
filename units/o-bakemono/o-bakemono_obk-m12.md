@@ -16,7 +16,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2312/o-bakemono-obk-m12) 
 - **Battle Value:** 1732 
 

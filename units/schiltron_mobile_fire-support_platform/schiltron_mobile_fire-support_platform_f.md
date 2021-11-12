@@ -16,7 +16,7 @@
   - MML 3 × 6 (ammo: 80 LRM, 66 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2820/schiltron-mobile-fire-support-platform-f) 
 - **Battle Value:** 1470 
 

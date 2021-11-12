@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - Armored Motive System 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6319/sortek-assault-craft-interdictor) 
 - **Battle Value:** 830 
 

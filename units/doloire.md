@@ -74,7 +74,7 @@
   - Lance 
 - **Equipment:** 
   - AES × 2 
-  - C3 Master 
+  - C3 Main 
   - CASE II 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6681/doloire-dlr-oc) 
 - **Battle Value:** 2242 

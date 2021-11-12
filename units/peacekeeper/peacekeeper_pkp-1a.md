@@ -20,7 +20,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452/peacekeeper-pkp-1a) 
 - **Battle Value:** 2824 
 

@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
   - Infantry (4.0 tons) 
   - TAG 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/413/bolla-stealth-tank-rots-prime) 

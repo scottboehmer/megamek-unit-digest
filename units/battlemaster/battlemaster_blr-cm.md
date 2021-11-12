@@ -16,7 +16,7 @@
   - MRM 30 (ammo: 24) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm) 
 - **Battle Value:** 1883 

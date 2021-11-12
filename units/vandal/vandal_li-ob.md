@@ -23,7 +23,7 @@
   - CASE II 
   - TAG 
   - Targeting Computer 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6463/vandal-li-ob) 
 - **Battle Value:** 1666 
 

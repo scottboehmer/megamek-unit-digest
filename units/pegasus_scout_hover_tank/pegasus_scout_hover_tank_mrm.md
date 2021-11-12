@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2458/pegasus-scout-hover-tank-mrm) 
 - **Battle Value:** 781 
 

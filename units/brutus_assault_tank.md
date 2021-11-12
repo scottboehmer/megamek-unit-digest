@@ -79,7 +79,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/431/brutus-assault-tank-hppc) 
 - **Battle Value:** 1186 
 - [*More Info*](brutus_assault_tank/brutus_assault_tank_hppc.md) 

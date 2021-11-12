@@ -35,7 +35,7 @@
   - Medium Laser × 5 
   - Small Pulse Laser 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5717/sagittaire-sgt-9d) 
 - **Battle Value:** 2064 
 - [*More Info*](sagittaire/sagittaire_sgt-9d.md) 
@@ -74,7 +74,7 @@
   - Medium VSP Laser × 3 
 - **Equipment:** 
   - Radical Heat Sink System 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6835/sagittaire-sgt-14d) 
 - **Battle Value:** 1960 
 - [*More Info*](sagittaire/sagittaire_sgt-14d.md) 

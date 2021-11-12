@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System × 4 (ammo: 48) 
-  - C3 Slave 
+  - C3 Support 
   - Communications Equipment 
   - CASE 
   - Hitch 

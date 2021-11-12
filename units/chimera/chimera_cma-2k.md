@@ -20,7 +20,7 @@
   - Small Pulse Laser 
   - Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667/chimera-cma-2k) 
 - **Battle Value:** 1528 
 

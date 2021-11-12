@@ -17,7 +17,7 @@
   - Medium Laser × 5 
   - Small Pulse Laser 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5717/sagittaire-sgt-9d) 
 - **Battle Value:** 2064 
 

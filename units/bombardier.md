@@ -84,7 +84,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/425/bombardier-bmb-14k) 
 - **Battle Value:** 1235 
 - [*More Info*](bombardier/bombardier_bmb-14k.md) 

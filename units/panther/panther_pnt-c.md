@@ -16,7 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2426/panther-pnt-c) 
 - **Battle Value:** 833 
 

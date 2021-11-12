@@ -19,7 +19,7 @@
   - Bloodhound Active Probe 
   - Chaff Pod 
   - Supercharger 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - MASC 
   - TAG 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1) 

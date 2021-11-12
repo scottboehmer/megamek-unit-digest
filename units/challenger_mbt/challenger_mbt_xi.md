@@ -14,7 +14,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - Targeting Computer 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/539/challenger-mbt-xi) 
 - **Battle Value:** 1655 

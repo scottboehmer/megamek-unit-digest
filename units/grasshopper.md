@@ -67,7 +67,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1272/grasshopper-ghr-c) 
 - **Battle Value:** 1366 
 - [*More Info*](grasshopper/grasshopper_ghr-c.md) 
@@ -102,7 +102,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Medium Pulse Laser × 5 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1269/grasshopper-ghr-6k) 
 - **Battle Value:** 1597 
@@ -123,7 +123,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1270/grasshopper-ghr-7k) 
 - **Battle Value:** 1806 
 - [*More Info*](grasshopper/grasshopper_ghr-7k.md) 

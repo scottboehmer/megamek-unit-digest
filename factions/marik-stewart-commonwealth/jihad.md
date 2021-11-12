@@ -32,5 +32,5 @@
 
 #### [Guillotine](../../units/guillotine.md) 
 
-- [**Guillotine GLT-6WB3**](../../units/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Slave` , `ECM` 
+- [**Guillotine GLT-6WB3**](../../units/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Support` , `ECM` 
 

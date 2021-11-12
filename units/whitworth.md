@@ -97,7 +97,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3542/whitworth-wth-2a) 
 - **Battle Value:** 1055 
 - [*More Info*](whitworth/whitworth_wth-2a.md) 
@@ -114,7 +114,7 @@
 - **Weapons:** 
   - LRM 5 × 4 (ammo: 96) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543/whitworth-wth-3) 
 - **Battle Value:** 861 
 - [*More Info*](whitworth/whitworth_wth-3.md) 
@@ -132,7 +132,7 @@
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3545/whitworth-wth-k) 
 - **Battle Value:** 958 
 - [*More Info*](whitworth/whitworth_wth-k.md) 

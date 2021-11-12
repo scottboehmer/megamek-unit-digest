@@ -18,7 +18,7 @@
   - Medium Laser × 2 
   - LRM 5 × 3 (ammo: 48) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5701/thanatos-tns-6s) 
 - **Battle Value:** 1936 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6665/scapha-hovertank-g) 
 - **Battle Value:** 550 

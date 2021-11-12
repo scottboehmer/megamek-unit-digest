@@ -143,7 +143,7 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro) 
 - **Battle Value:** 1126 
 - [*More Info*](hunchback/hunchback_hbk-4g_hohiro.md) 
@@ -307,7 +307,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1563/hunchback-hbk-5p) 
 - **Battle Value:** 1340 
 - [*More Info*](hunchback/hunchback_hbk-5p.md) 

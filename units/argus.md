@@ -54,7 +54,7 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5683/argus-ags-5d) 
 - **Battle Value:** 2065 
 - [*More Info*](argus/argus_ags-5d.md) 
@@ -72,7 +72,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - CASE 
   - Targeting Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx) 

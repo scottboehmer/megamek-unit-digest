@@ -17,7 +17,7 @@
   - Targeting Computer 
   - MASC 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/522/centurion-cn9-d5) 
 - **Battle Value:** 1738 
 

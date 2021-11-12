@@ -77,7 +77,7 @@
   - Large Laser × 2 
   - Small Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/720/crab-crb-c) 
 - **Battle Value:** 1135 
 - [*More Info*](crab/crab_crb-c.md) 

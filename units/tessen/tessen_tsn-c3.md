@@ -15,7 +15,7 @@
   - iNarc (ammo: 16) 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - TAG 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3) 
 - **Battle Value:** 1234 

@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Command Console 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3218/thunder-fox-tft-c3) 
 - **Battle Value:** 1104 
 

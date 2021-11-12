@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System × 3 (ammo: 48) 
-  - C3 Master × 2 
+  - C3 Main × 2 
   - Communications Equipment 
   - CASE 
   - Cargo 

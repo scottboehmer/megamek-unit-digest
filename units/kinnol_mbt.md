@@ -33,7 +33,7 @@
   - Machine Gun × 3 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1788/kinnol-mbt-ppc) 
 - **Battle Value:** 1212 
 - [*More Info*](kinnol_mbt/kinnol_mbt_ppc.md) 

@@ -14,7 +14,7 @@
   - Light PPC 
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6377/scimitar-mk-ii-hcv-bc3) 
 - **Battle Value:** 665 
 

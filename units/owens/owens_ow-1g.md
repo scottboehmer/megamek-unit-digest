@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-  - C3 Slave 
+  - C3 Support 
   - Supercharger 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6924/owens-ow-1g) 
 - **Battle Value:** 1761 

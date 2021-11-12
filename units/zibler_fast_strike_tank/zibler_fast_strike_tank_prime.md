@@ -15,7 +15,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
   - Targeting Computer 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6321/zibler-fast-strike-tank-prime) 
 - **Battle Value:** 1118 

@@ -12,7 +12,7 @@
   - ER PPC × 2 
   - Ultra AC/10 (ammo: 20) 
 - **Equipment:** 
-  - C3 Master × 2 
+  - C3 Main × 2 
   - CASE 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3150/tai-sho-tsh-7s) 
 - **Battle Value:** 1774 
@@ -31,7 +31,7 @@
   - Heavy PPC × 2 
   - Ultra AC/10 (ammo: 20) 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
   - CASE 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151/tai-sho-tsh-8s) 
 - **Battle Value:** 2001 

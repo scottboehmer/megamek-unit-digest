@@ -43,7 +43,7 @@
   - Heavy PPC 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3547/wight-wgt-1lawsc3) 
 - **Battle Value:** 1057 
 - [*More Info*](wight/wight_wgt-1law_sc3.md) 
@@ -97,7 +97,7 @@
   - Light PPC 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3549/wight-wgt-2lawc3) 
 - **Battle Value:** 821 
 - [*More Info*](wight/wight_wgt-2lawc3.md) 

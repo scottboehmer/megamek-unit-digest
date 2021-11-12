@@ -16,7 +16,7 @@
   - Clan ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464/pendragon-pdg-1x-muse-red) 
 - **Battle Value:** 2230 
 

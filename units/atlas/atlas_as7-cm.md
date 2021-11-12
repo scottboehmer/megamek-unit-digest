@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-  - C3 Master 
+  - C3 Main 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/139/atlas-as7-cm) 
 - **Battle Value:** 2036 

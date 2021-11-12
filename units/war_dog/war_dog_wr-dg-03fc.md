@@ -16,7 +16,7 @@
   - ER Medium Laser × 3 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3477/war-dog-wr-dg-03fc) 
 - **Battle Value:** 1962 
 

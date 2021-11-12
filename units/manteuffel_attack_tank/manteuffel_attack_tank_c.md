@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5734/manteuffel-attack-tank-c) 
 - **Battle Value:** 1274 
 

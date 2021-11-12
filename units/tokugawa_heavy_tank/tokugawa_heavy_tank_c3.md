@@ -15,7 +15,7 @@
   - SRM 6 w/ Artemis IV (ammo: 30) 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3260/tokugawa-heavy-tank-c3) 
 - **Battle Value:** 891 
 

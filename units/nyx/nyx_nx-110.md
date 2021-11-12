@@ -15,7 +15,7 @@
   - Medium Re-Engineered Laser × 2 
 - **Equipment:** 
   - Bloodhound Active Probe 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6936/nyx-nx-110) 
 - **Battle Value:** 805 
 

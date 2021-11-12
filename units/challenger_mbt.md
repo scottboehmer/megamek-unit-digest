@@ -33,7 +33,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Master 
+  - C3 Main 
   - Targeting Computer 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/539/challenger-mbt-xi) 
 - **Battle Value:** 1655 
@@ -55,7 +55,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/540/challenger-mbt-xii) 
 - **Battle Value:** 1851 
 - [*More Info*](challenger_mbt/challenger_mbt_xii.md) 

@@ -18,7 +18,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5713/akuma-aku-2x) 
 - **Battle Value:** 2122 
 

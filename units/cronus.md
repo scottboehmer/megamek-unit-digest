@@ -33,7 +33,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021/cronus-cns-5m) 
 - **Battle Value:** 1579 
 - [*More Info*](cronus/cronus_cns-5m.md) 

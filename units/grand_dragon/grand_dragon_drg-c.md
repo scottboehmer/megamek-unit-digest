@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1264/grand-dragon-drg-c) 
 - **Battle Value:** 1322 
 

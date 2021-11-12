@@ -235,7 +235,7 @@
   - Medium Pulse Laser 
   - Small Pulse Laser 
 - **Equipment:** 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c) 
 - **Battle Value:** 1447 
 - [*More Info*](wolverine/wolverine_wvr-8c.md) 
@@ -298,7 +298,7 @@
   - B-Pod × 2 
   - Machine Gun Array 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k) 
 - **Battle Value:** 1400 
 - [*More Info*](wolverine/wolverine_wvr-9k.md) 
@@ -340,7 +340,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2) 
 - **Battle Value:** 1463 
 - [*More Info*](wolverine/wolverine_wvr-9w2.md) 

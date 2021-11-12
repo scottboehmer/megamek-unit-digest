@@ -15,7 +15,7 @@
   - Medium Laser × 14 
 - **Equipment:** 
   - Coolant Pod × 2 
-  - C3 Slave 
+  - C3 Support 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/354/black-hawk-ku-bhku-ox) 
 - **Battle Value:** 1941 
 

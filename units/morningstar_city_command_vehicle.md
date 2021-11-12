@@ -31,7 +31,7 @@
   - Machine Gun × 3 (ammo: 200) 
 - **Equipment:** 
   - Targeting Computer 
-  - C3 Master 
+  - C3 Main 
   - Infantry (4 tons) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4671/morningstar-city-command-vehicle-standard) 
 - **Battle Value:** 694 
@@ -51,7 +51,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-  - C3 Master × 2 
+  - C3 Main × 2 
   - Infantry (4 tons) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4669/morningstar-city-command-vehicle-company-command) 
 - **Battle Value:** 656 

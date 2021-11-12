@@ -345,7 +345,7 @@
   - Clan LRM 15 (ammo: 16) 
   - ER Medium Laser 
 - **Equipment:** 
-  - C3 Boosted Slave 
+  - C3 Boosted Support 
   - Targeting Computer 
   - CASE II 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2) 

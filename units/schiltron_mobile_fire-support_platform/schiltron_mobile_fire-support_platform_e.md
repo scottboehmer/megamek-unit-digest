@@ -15,7 +15,7 @@
   - Light AC/5 × 3 (ammo: 60) 
 - **Equipment:** 
   - Guardian ECM Suite 
-  - C3 Master 
+  - C3 Main 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2819/schiltron-mobile-fire-support-platform-e) 
 - **Battle Value:** 1120 
 
