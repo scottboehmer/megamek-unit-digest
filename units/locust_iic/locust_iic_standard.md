@@ -121,6 +121,8 @@
 - Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
+- Mercenary 
 
 ### Jihad 
 

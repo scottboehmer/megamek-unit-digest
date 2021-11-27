@@ -71,6 +71,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 

@@ -101,11 +101,14 @@
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Escorpión Imperio 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Scorpion Empire 
 

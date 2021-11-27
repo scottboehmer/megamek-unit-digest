@@ -35,4 +35,5 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Scorpion Empire 
 

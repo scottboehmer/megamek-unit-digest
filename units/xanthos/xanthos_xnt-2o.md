@@ -26,6 +26,7 @@
 
 - Capellan Confederation 
 - Draconis Combine 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -35,6 +36,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -45,6 +47,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

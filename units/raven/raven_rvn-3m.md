@@ -46,6 +46,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -55,6 +56,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Oriente Protectorate 
@@ -64,6 +66,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -72,5 +75,6 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 

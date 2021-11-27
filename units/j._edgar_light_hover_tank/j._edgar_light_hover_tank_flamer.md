@@ -90,6 +90,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Taurian Concordat 
 - Word of Blake 
@@ -102,6 +103,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
@@ -115,7 +117,19 @@
 - Calderon Protectorate 
 - Draconis Combine 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

@@ -28,6 +28,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
@@ -41,8 +42,10 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Escorpión Imperio 
 - Federated Suns 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Scorpion Empire 
 

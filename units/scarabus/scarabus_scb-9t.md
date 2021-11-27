@@ -69,6 +69,7 @@
 
 - Duchy of Andurien 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 

@@ -753,10 +753,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -848,7 +844,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -901,6 +896,10 @@
 - [**Battle Hawk BH-K305**](../../units/battle_hawk/battle_hawk_bh-k305.md) *Striker (3053)* 
 - [**Battle Hawk BH-K306**](../../units/battle_hawk/battle_hawk_bh-k306.md) *Striker (3067)* 
 
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
+
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -951,10 +950,6 @@
 #### [Spider](../../units/spider.md) 
 
 - [**Spider SDR-5V**](../../units/spider/spider_sdr-5v.md) *Scout (2650)* 
-
-#### [Spindrift](../../units/spindrift.md) 
-
-- [**Spindrift SDT-1A Aquatic SecurityMech**](../../units/spindrift/spindrift_sdt-1a_aquatic_securitymech.md) *Scout (3083)* `IndustrialMech` 
 
 #### [UrbanMech](../../units/urbanmech.md) 
 
@@ -1045,7 +1040,6 @@
 - [**Stiletto STO-4B**](../../units/stiletto/stiletto_sto-4b.md) *Striker (3063)* `ECM` 
 - [**Stiletto STO-4C**](../../units/stiletto/stiletto_sto-4c.md) *Striker (3076)* 
 - [**Stiletto STO-6X**](../../units/stiletto/stiletto_sto-6x.md) *Striker (3078)* `Active Probe` , `Unique` 
-- [**Stiletto STO-6S**](../../units/stiletto/stiletto_sto-6s.md) *Striker (3083)* `Active Probe` , `ECM` 
 
 #### [Talon](../../units/talon.md) 
 
@@ -1069,7 +1063,6 @@
 - [**Wolfhound WLF-4W**](../../units/wolfhound/wolfhound_wlf-4w.md) *Sniper (3069)* 
 - [**Wolfhound WLF-4WA**](../../units/wolfhound/wolfhound_wlf-4wa.md) *Sniper (3071)* `ECM` 
 - [**Wolfhound WLF-5**](../../units/wolfhound/wolfhound_wlf-5.md) *Striker (3079)* 
-- [**Wolfhound WLF-2H**](../../units/wolfhound/wolfhound_wlf-2h.md) *Striker (3082)* 
 
 ### 40 Tons 
 
@@ -1262,6 +1255,10 @@
 - [**Chameleon CLN-7W**](../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
 
+#### [Crab](../../units/crab.md) 
+
+- [**Crab CRB-27**](../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 
+
 #### [Enfield](../../units/enfield.md) 
 
 - [**Enfield END-6Q**](../../units/enfield/enfield_end-6q.md) *Skirmisher (3055)* 
@@ -1413,7 +1410,6 @@
 #### [Thunder Fox](../../units/thunder_fox.md) 
 
 - [**Thunder Fox TFT-A9**](../../units/thunder_fox/thunder_fox_tft-a9.md) *Sniper (3077)* 
-- [**Thunder Fox TFT-L8**](../../units/thunder_fox/thunder_fox_tft-l8.md) *Skirmisher (3082)* 
 
 #### [Wolverine](../../units/wolverine.md) 
 
@@ -1501,7 +1497,6 @@
 - [**Axman AXM-3S**](../../units/axman/axman_axm-3s.md) *Skirmisher (3060)* `ECM` 
 - [**Axman AXM-3Sr**](../../units/axman/axman_axm-3sr.md) *Skirmisher (3069)* `C3 Support` , `ECM` 
 - [**Axman AXM-6X**](../../units/axman/axman_axm-6x.md) *Missile Boat (3074)* 
-- [**Axman AXM-6T**](../../units/axman/axman_axm-6t.md) *Missile Boat (3083)* 
 
 #### [Bombardier](../../units/bombardier.md) 
 
@@ -1616,7 +1611,6 @@
 - [**Barghest BGS-3T**](../../units/barghest/barghest_bgs-3t.md) *Skirmisher (3062)* 
 - [**Barghest BGS-7S**](../../units/barghest/barghest_bgs-7s.md) *Missile Boat (3074)* 
 - [**Barghest BGS-4X**](../../units/barghest/barghest_bgs-4x.md) *Sniper (3078)* `C3 Support` , `Unique` 
-- [**Barghest BGS-4T**](../../units/barghest/barghest_bgs-4t.md) *Brawler (3083)* `C3 Support` 
 
 #### [BattleAxe](../../units/battleaxe.md) 
 
@@ -1666,10 +1660,6 @@
 #### [MuckRaker](../../units/muckraker.md) 
 
 - [**MuckRaker GMMM-2 MiningMech**](../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
-
-#### [No-Dachi](../../units/no-dachi.md) 
-
-- [**No-Dachi NDA-3S**](../../units/no-dachi/no-dachi_nda-3s.md) *Brawler (3081)* `ECM` 
 
 #### [Summoner](../../units/summoner.md) 
 
@@ -1770,7 +1760,6 @@
 
 - [**Thanatos TNS-4S**](../../units/thanatos/thanatos_tns-4s.md) *Skirmisher (3061)* `C3 Support` , `ECM` 
 - [**Thanatos TNS-4T**](../../units/thanatos/thanatos_tns-4t.md) *Skirmisher (3062)* `C3 Support` , `ECM` 
-- [**Thanatos TNS-6S**](../../units/thanatos/thanatos_tns-6s.md) *Skirmisher (3081)* `C3 Support` 
 
 #### [War Dog](../../units/war_dog.md) 
 
@@ -1834,6 +1823,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9S**](../../units/victor/victor_vtr-9s.md) *Skirmisher (2998)* 
 - [**Victor VTR-9D**](../../units/victor/victor_vtr-9d.md) *Skirmisher (3049)* 
 - [**Victor VTR-10S**](../../units/victor/victor_vtr-10s.md) *Brawler (3062)* 
@@ -1874,7 +1864,6 @@
 - [**BattleMaster BLR-4S**](../../units/battlemaster/battlemaster_blr-4s.md) *Brawler (3062)* 
 - [**BattleMaster BLR-10S**](../../units/battlemaster/battlemaster_blr-10s.md) *Juggernaut (3070)* `ECM` 
 - [**BattleMaster BLR-10S2**](../../units/battlemaster/battlemaster_blr-10s2.md) *Juggernaut (3072)* `C3 Support` , `ECM` 
-- [**BattleMaster BLR-6X**](../../units/battlemaster/battlemaster_blr-6x.md) *Skirmisher (3085)* 
 
 #### [Gunslinger](../../units/gunslinger.md) 
 
@@ -2079,7 +2068,6 @@
 - [**Fafnir FNR-5B**](../../units/fafnir/fafnir_fnr-5b.md) *Juggernaut (3065)* `ECM` 
 - [**Fafnir FNR-4A (Peter)**](../../units/fafnir/fafnir_fnr-4a_peter.md) *Juggernaut (3068)* `C3 Support` , `ECM` , `Unique` 
 - [**Fafnir FNR-5X**](../../units/fafnir/fafnir_fnr-5x.md) *Sniper (3078)* `ECM` 
-- [**Fafnir FNR-6U**](../../units/fafnir/fafnir_fnr-6u.md) *Juggernaut (3081)* 
 
 #### [Grand Titan](../../units/grand_titan.md) 
 

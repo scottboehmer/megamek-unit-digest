@@ -152,6 +152,7 @@
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
 - Federated Suns 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 

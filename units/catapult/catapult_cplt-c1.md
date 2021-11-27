@@ -143,6 +143,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -159,6 +160,7 @@
 - Calderon Protectorate 
 - Escorpión Imperio 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -169,6 +171,7 @@
 - Calderon Protectorate 
 - Escorpión Imperio 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

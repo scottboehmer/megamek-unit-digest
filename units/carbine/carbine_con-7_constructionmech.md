@@ -26,15 +26,43 @@
 
 ### Clan Invasion 
 
+- Capellan Confederation 
 - ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Second Star League 
+- St. Ives Compact 
 - Word of Blake 
 
 ### Civil War 
 
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Second Star League 
+- St. Ives Compact 
 - Word of Blake 
 
 ### Jihad 
 
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
 - Word of Blake 
 
 ### Early Republic 
@@ -53,6 +81,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -82,6 +111,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -112,6 +142,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

@@ -50,6 +50,7 @@
 
 - Calderon Protectorate 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -59,5 +60,6 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Fronc Reaches 
 - Mercenary 
 

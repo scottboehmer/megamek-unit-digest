@@ -483,10 +483,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -555,7 +551,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -592,6 +587,10 @@
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 

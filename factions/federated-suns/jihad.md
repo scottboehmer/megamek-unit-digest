@@ -794,10 +794,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -808,7 +804,6 @@
 - [**Pompier GM-3A FireMech**](../../units/pompier/pompier_gm-3a_firemech.md) *Ambusher (3044)* `IndustrialMech` 
 - [**Pompier GM-3HT FireMech**](../../units/pompier/pompier_gm-3ht_firemech.md) *Undefined (3060)* `IndustrialMech` 
 - [**Pompier GM-3CD FireMech**](../../units/pompier/pompier_gm-3cd_firemech.md) *Scout (3062)* `Active Probe` , `IndustrialMech` 
-- [**Pompier GM-4P PoliceMech**](../../units/pompier/pompier_gm-4p_policemech.md) *Ambusher (3085)* `IndustrialMech` 
 
 ### 20 Tons 
 
@@ -887,7 +882,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -946,6 +940,10 @@
 
 - [**Battle Hawk BH-K305**](../../units/battle_hawk/battle_hawk_bh-k305.md) *Striker (3053)* 
 
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
+
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -987,7 +985,6 @@
 
 - [**Osiris OSR-3D**](../../units/osiris/osiris_osr-3d.md) *Striker (3063)* 
 - [**Osiris OSR-4D**](../../units/osiris/osiris_osr-4d.md) *Striker (3067)* 
-- [**Osiris OSR-5D**](../../units/osiris/osiris_osr-5d.md) *Striker (3081)* 
 
 #### [Razorback](../../units/razorback.md) 
 
@@ -1261,7 +1258,6 @@
 - [**Hellspawn HSN-8E**](../../units/hellspawn/hellspawn_hsn-8e.md) *Missile Boat (3068)* `ECM` 
 - [**Hellspawn HSN-9F**](../../units/hellspawn/hellspawn_hsn-9f.md) *Striker (3068)* 
 - [**Hellspawn HSN-10G**](../../units/hellspawn/hellspawn_hsn-10g.md) *Missile Boat (3076)* 
-- [**Hellspawn HSN-10SR**](../../units/hellspawn/hellspawn_hsn-10sr.md) *Striker (3081)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Hollander II](../../units/hollander_ii.md) 
 
@@ -1344,6 +1340,10 @@
 - [**Chameleon CLN-7W**](../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
 
+#### [Crab](../../units/crab.md) 
+
+- [**Crab CRB-27**](../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 
+
 #### [Enfield](../../units/enfield.md) 
 
 - [**Enfield END-6Q**](../../units/enfield/enfield_end-6q.md) *Skirmisher (3055)* 
@@ -1392,6 +1392,7 @@
 
 #### [Legionnaire](../../units/legionnaire.md) 
 
+- [**Legionnaire LGN-1X**](../../units/legionnaire/legionnaire_lgn-1x.md) *Striker (3068)* `Active Probe` , `Unique` 
 - [**Legionnaire LGN-2D**](../../units/legionnaire/legionnaire_lgn-2d.md) *Striker (3073)* 
 - [**Legionnaire LGN-2XA**](../../units/legionnaire/legionnaire_lgn-2xa.md) *Missile Boat (3075)* 
 - [**Legionnaire LGN-2XU**](../../units/legionnaire/legionnaire_lgn-2xu.md) *Striker (3075)* 
@@ -1938,6 +1939,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9D**](../../units/victor/victor_vtr-9d.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 
@@ -2121,13 +2123,11 @@
 #### [Pendragon](../../units/pendragon.md) 
 
 - [**Pendragon PDG-1X MUSE RED**](../../units/pendragon/pendragon_pdg-1x_muse_red.md) *Missile Boat (3072)* `C3 Support` , `Unique` 
-- [**Pendragon PDG-1R**](../../units/pendragon/pendragon_pdg-1r.md) *Missile Boat (3083)* `C3 Support` 
 
 #### [Sagittaire](../../units/sagittaire.md) 
 
 - [**Sagittaire SGT-8R**](../../units/sagittaire/sagittaire_sgt-8r.md) *Juggernaut (3063)* 
 - [**Sagittaire SGT-9D**](../../units/sagittaire/sagittaire_sgt-9d.md) *Juggernaut (3074)* `C3 Main` , `TAG` 
-- [**Sagittaire SGT-10X**](../../units/sagittaire/sagittaire_sgt-10x.md) *Brawler (3084)* 
 
 ### 100 Tons 
 

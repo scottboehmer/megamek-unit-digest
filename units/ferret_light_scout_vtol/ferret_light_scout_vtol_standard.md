@@ -86,6 +86,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 

@@ -121,7 +121,6 @@
 
 ### Early Republic 
 
-- Clan Coyote 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 

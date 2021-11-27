@@ -110,6 +110,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Taurian Concordat 
 - Word of Blake 
@@ -118,6 +119,7 @@
 
 - Calderon Protectorate 
 - Escorpión Imperio 
+- Fronc Reaches 
 - Regulan Fiefs 
 - Taurian Concordat 
 
@@ -125,6 +127,7 @@
 
 - Calderon Protectorate 
 - Escorpión Imperio 
+- Fronc Reaches 
 - Regulan Fiefs 
 - Taurian Concordat 
 

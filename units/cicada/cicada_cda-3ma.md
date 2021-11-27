@@ -39,6 +39,7 @@
 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -51,6 +52,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 

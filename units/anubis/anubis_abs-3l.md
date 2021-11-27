@@ -29,6 +29,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Pirate 
 - Taurian Concordat 
@@ -37,6 +38,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -44,6 +46,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -51,6 +54,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 

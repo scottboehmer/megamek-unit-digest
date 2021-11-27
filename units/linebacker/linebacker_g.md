@@ -27,6 +27,7 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -34,4 +35,5 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
 

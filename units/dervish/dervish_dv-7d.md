@@ -34,19 +34,23 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
 
+- Capellan Confederation 
 - Federated Commonwealth 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 
 
+- Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
 - Kell Hounds 
@@ -59,6 +63,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -66,6 +71,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -73,4 +79,5 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 

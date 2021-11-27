@@ -401,6 +401,10 @@
 - [**Demolisher Heavy Tank (Defensive)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -454,10 +458,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -485,10 +485,6 @@
 - [**Stinger STG-3G**](../../units/stinger/stinger_stg-3g.md) *Scout (2581)* 
 - [**Stinger STG-3P**](../../units/stinger/stinger_stg-3p.md) *Scout (3068)* 
 
-#### [Stinger IIC](../../units/stinger_iic.md) 
-
-- [**Stinger IIC (Standard)**](../../units/stinger_iic/stinger_iic_standard.md) *Striker (3085)* 
-
 #### [Thorn](../../units/thorn.md) 
 
 - [**Thorn THE-S**](../../units/thorn/thorn_the-s.md) *Striker (3035)* 
@@ -496,7 +492,6 @@
 #### [Wasp](../../units/wasp.md) 
 
 - [**Wasp WSP-1A**](../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 
-- [**Wasp WSP-3A**](../../units/wasp/wasp_wsp-3a.md) *Scout (3082)* 
 
 ### 25 Tons 
 
@@ -893,5 +888,4 @@
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-S**](../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
-- [**Atlas AS7-00 (Jurn)**](../../units/atlas/atlas_as7-00_jurn.md) *Sniper (3081)* `Active Probe` , `Command Console` , `Unique` 
 

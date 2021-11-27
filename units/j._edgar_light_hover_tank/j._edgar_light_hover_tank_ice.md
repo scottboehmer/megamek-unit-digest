@@ -105,6 +105,7 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -119,6 +120,7 @@
 - Duchy of Andurien 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -130,6 +132,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -139,6 +142,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

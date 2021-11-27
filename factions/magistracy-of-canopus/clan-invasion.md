@@ -471,6 +471,10 @@
 
 - [**Mongoose MON-67**](../../units/mongoose/mongoose_mon-67.md) *Striker (2830)* 
 
+#### [Peacekeeper](../../units/peacekeeper.md) 
+
+- [**Peacekeeper PK-6 SecurityMech**](../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+
 #### [Tarantula](../../units/tarantula.md) 
 
 - [**Tarantula ZPH-1A**](../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
@@ -639,10 +643,6 @@
 #### [Griffin](../../units/griffin.md) 
 
 - [**Griffin GRF-1N**](../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
-
-#### [Marshal](../../units/marshal.md) 
-
-- [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 
 #### [Scorpion](../../units/scorpion.md) 
 

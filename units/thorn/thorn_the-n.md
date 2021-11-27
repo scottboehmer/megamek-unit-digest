@@ -23,7 +23,7 @@
 ### Star League 
 
 - Draconis Combine 
-- Free Worlds League 
+- Federated Suns 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
@@ -36,7 +36,6 @@
 
 ### Early Succession Wars 
 
-- Capellan Confederation 
 - Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
@@ -58,8 +57,9 @@
 - Clan Wolf 
 - Clan Wolverine 
 - ComStar 
+- Draconis Combine 
 - Federated Suns 
-- Free Worlds League 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
 - Outworlds Alliance 

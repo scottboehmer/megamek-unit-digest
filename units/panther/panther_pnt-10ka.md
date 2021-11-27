@@ -60,6 +60,7 @@
 - Calderon Protectorate 
 - Draconis Combine 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

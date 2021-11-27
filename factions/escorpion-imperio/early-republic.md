@@ -374,6 +374,7 @@
 - [**Mist Lynx P**](../../units/mist_lynx/mist_lynx_p.md) *Scout (3061)* `Active Probe` 
 - [**Mist Lynx F**](../../units/mist_lynx/mist_lynx_f.md) *Scout (3063)* `Active Probe` , `ECM` , `TAG` 
 - [**Mist Lynx G**](../../units/mist_lynx/mist_lynx_g.md) *Striker (3068)* `Active Probe` 
+- [**Mist Lynx I**](../../units/mist_lynx/mist_lynx_i.md) *Striker (3086)* `Active Probe` 
 
 #### [Mongoose](../../units/mongoose.md) 
 
@@ -437,6 +438,7 @@
 - [**Kit Fox J**](../../units/kit_fox/kit_fox_j.md) *Striker (3060)* 
 - [**Kit Fox F**](../../units/kit_fox/kit_fox_f.md) *Sniper (3069)* 
 - [**Kit Fox U**](../../units/kit_fox/kit_fox_u.md) *Sniper (3077)* 
+- [**Kit Fox K**](../../units/kit_fox/kit_fox_k.md) *Striker (3088)* 
 
 #### [UrbanMech](../../units/urbanmech.md) 
 
@@ -583,6 +585,8 @@
 - [**Grendel E**](../../units/grendel/grendel_e.md) *Striker (3061)* 
 - [**Grendel H**](../../units/grendel/grendel_h.md) *Striker (3064)* 
 - [**Grendel F**](../../units/grendel/grendel_f.md) *Striker (3069)* 
+- [**Grendel M**](../../units/grendel/grendel_m.md) *Striker (3086)* 
+- [**Grendel G**](../../units/grendel/grendel_g.md) *Scout (3090)* `Active Probe` , `ECM` 
 
 #### [Ice Ferret](../../units/ice_ferret.md) 
 
@@ -595,6 +599,9 @@
 - [**Ice Ferret H**](../../units/ice_ferret/ice_ferret_h.md) *Striker (3061)* 
 - [**Ice Ferret L**](../../units/ice_ferret/ice_ferret_l.md) *Scout (3069)* 
 - [**Ice Ferret U**](../../units/ice_ferret/ice_ferret_u.md) *Striker (3077)* 
+- [**Ice Ferret F**](../../units/ice_ferret/ice_ferret_f.md) *Sniper (3084)* `Active Probe` , `ECM` 
+- [**Ice Ferret G**](../../units/ice_ferret/ice_ferret_g.md) *Striker (3088)* `TAG` 
+- [**Ice Ferret I**](../../units/ice_ferret/ice_ferret_i.md) *Scout (3099)* `Active Probe` 
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
@@ -745,6 +752,8 @@
 - [**Mad Dog D**](../../units/mad_dog/mad_dog_d.md) *Skirmisher (3054)* 
 - [**Mad Dog H**](../../units/mad_dog/mad_dog_h.md) *Missile Boat (3059)* 
 - [**Mad Dog U**](../../units/mad_dog/mad_dog_u.md) *Skirmisher (3077)* 
+- [**Mad Dog G**](../../units/mad_dog/mad_dog_g.md) *Brawler (3093)* 
+- [**Mad Dog V**](../../units/mad_dog/mad_dog_v.md) *Missile Boat (3098)* 
 
 #### [Predator](../../units/predator.md) 
 
@@ -858,6 +867,7 @@
 - [**Summoner F**](../../units/summoner/summoner_f.md) *Skirmisher (3054)* 
 - [**Summoner H**](../../units/summoner/summoner_h.md) *Skirmisher (3059)* 
 - [**Summoner U**](../../units/summoner/summoner_u.md) *Sniper (3078)* 
+- [**Summoner AA**](../../units/summoner/summoner_aa.md) *Sniper (3086)* 
 
 #### [Warhammer](../../units/warhammer.md) 
 
@@ -919,6 +929,7 @@
 - [**Timber Wolf S**](../../units/timber_wolf/timber_wolf_s.md) *Skirmisher (3050)* 
 - [**Timber Wolf E**](../../units/timber_wolf/timber_wolf_e.md) *Sniper (3054)* `TAG` 
 - [**Timber Wolf H**](../../units/timber_wolf/timber_wolf_h.md) *Missile Boat (3059)* 
+- [**Timber Wolf M**](../../units/timber_wolf/timber_wolf_m.md) *Brawler (3068)* 
 - [**Timber Wolf U**](../../units/timber_wolf/timber_wolf_u.md) *Sniper (3077)* 
 
 #### [Toyama](../../units/toyama.md) 
@@ -1006,6 +1017,7 @@
 #### [Emperor](../../units/emperor.md) 
 
 - [**Emperor EMP-6A**](../../units/emperor/emperor_emp-6a.md) *Juggernaut (2612)* 
+- [**Emperor EMP-6A-EC**](../../units/emperor/emperor_emp-6a-ec.md) *Sniper (2826)* 
 - [**Emperor EMP-6A (Nerran)**](../../units/emperor/emperor_emp-6a_nerran.md) *Sniper (3064)* `Unique` 
 
 #### [Highlander](../../units/highlander.md) 
@@ -1057,6 +1069,7 @@
 - [**Turkina H**](../../units/turkina/turkina_h.md) *Juggernaut (3062)* 
 - [**Turkina E**](../../units/turkina/turkina_e.md) *Juggernaut (3070)* 
 - [**Turkina U**](../../units/turkina/turkina_u.md) *Juggernaut (3077)* `Active Probe` 
+- [**Turkina X**](../../units/turkina/turkina_x.md) *Missile Boat (3077)* `ECM` 
 
 ### 100 Tons 
 

@@ -32,5 +32,6 @@
 - Clan Wolf-in-Exile 
 - Mercenary 
 - Raven Alliance 
+- Scorpion Empire 
 - Wolf's Dragoons 
 

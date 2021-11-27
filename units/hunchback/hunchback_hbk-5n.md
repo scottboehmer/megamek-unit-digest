@@ -46,6 +46,7 @@
 - ComStar 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -57,6 +58,7 @@
 - Capellan Confederation 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -68,6 +70,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -78,6 +81,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

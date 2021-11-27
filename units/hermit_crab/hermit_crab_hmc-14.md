@@ -24,6 +24,7 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -38,6 +39,7 @@
 - Draconis Combine 
 - Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

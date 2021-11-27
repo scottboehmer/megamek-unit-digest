@@ -22,6 +22,7 @@
 ### Late Republic 
 
 - Draconis Combine 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Rim Commonality 
 
@@ -30,6 +31,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Rim Commonality 
 

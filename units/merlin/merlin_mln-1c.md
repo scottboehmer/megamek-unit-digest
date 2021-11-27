@@ -31,6 +31,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Raven Alliance 
 - Taurian Concordat 
@@ -39,6 +40,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Raven Alliance 
 - Taurian Concordat 
@@ -47,6 +49,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Raven Alliance 
 - Taurian Concordat 

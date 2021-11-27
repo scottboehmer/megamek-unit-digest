@@ -407,10 +407,6 @@
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
 
-#### [Copper](../../units/copper.md) 
-
-- [**Copper CPK-65 SecurityMech**](../../units/copper/copper_cpk-65_securitymech.md) *Ambusher (3065)* `IndustrialMech` 
-
 #### [Icestorm](../../units/icestorm.md) 
 
 - [**Icestorm (Standard)**](../../units/icestorm/icestorm_standard.md) *Scout (2830)* `TAG` 
@@ -611,6 +607,10 @@
 - [**Ice Ferret F**](../../units/ice_ferret/ice_ferret_f.md) *Sniper (3084)* `Active Probe` , `ECM` 
 - [**Ice Ferret G**](../../units/ice_ferret/ice_ferret_g.md) *Striker (3088)* `TAG` 
 
+#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
+
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+
 #### [Wyvern IIC](../../units/wyvern_iic.md) 
 
 - [**Wyvern IIC 2**](../../units/wyvern_iic/wyvern_iic_2.md) *Skirmisher (3071)* 
@@ -651,10 +651,6 @@
 - [**Nova I**](../../units/nova/nova_i.md) *Skirmisher (3094)* 
 
 ### 55 Tons 
-
-#### [Rabid Coyote](../../units/rabid_coyote.md) 
-
-- [**Rabid Coyote 2**](../../units/rabid_coyote/rabid_coyote_2.md) *Skirmisher (3071)* `Active Probe` , `ECM` 
 
 #### [Stormcrow](../../units/stormcrow.md) 
 
@@ -826,6 +822,10 @@
 - [**Phoenix Hawk IIC 6**](../../units/phoenix_hawk_iic/phoenix_hawk_iic_6.md) *Skirmisher (3070)* 
 - [**Phoenix Hawk IIC 7**](../../units/phoenix_hawk_iic/phoenix_hawk_iic_7.md) *Skirmisher (3078)* 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC (Standard)**](../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
@@ -845,17 +845,6 @@
 - [**Savage Coyote C**](../../units/savage_coyote/savage_coyote_c.md) *Juggernaut (3064)* 
 - [**Savage Coyote J**](../../units/savage_coyote/savage_coyote_j.md) *Brawler (3073)* 
 - [**Savage Coyote W**](../../units/savage_coyote/savage_coyote_w.md) *Sniper (3073)* `Active Probe` , `TAG` 
-
-#### [Warhawk](../../units/warhawk.md) 
-
-- [**Warhawk Prime**](../../units/warhawk/warhawk_prime.md) *Sniper (2999)* 
-- [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
-- [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
-- [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
-- [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
-- [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
-- [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
-- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 

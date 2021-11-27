@@ -47,6 +47,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -55,6 +56,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Oriente Protectorate 

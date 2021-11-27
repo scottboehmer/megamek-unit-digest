@@ -46,6 +46,7 @@
 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -53,12 +54,14 @@
 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 

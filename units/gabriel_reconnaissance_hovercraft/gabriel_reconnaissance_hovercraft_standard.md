@@ -91,11 +91,13 @@
 
 - ComStar 
 - Free Rasalhague Republic 
+- Fronc Reaches 
 - Taurian Concordat 
 - Word of Blake 
 
 ### Early Republic 
 
+- Fronc Reaches 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 - Taurian Concordat 
@@ -104,6 +106,7 @@
 
 - Clan Nova Cat 
 - Federated Suns 
+- Fronc Reaches 
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
@@ -115,6 +118,7 @@
 - Clan Nova Cat 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 

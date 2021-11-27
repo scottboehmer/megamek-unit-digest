@@ -20,10 +20,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Federated Suns 
-
 ### Early Republic 
 
 - Federated Suns 

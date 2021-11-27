@@ -26,6 +26,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -41,6 +42,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -57,6 +59,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

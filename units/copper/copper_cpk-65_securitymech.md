@@ -31,27 +31,26 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
-- Clan Diamond Shark 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
+- Pirate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Late Republic 
 
@@ -63,6 +62,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -86,6 +86,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

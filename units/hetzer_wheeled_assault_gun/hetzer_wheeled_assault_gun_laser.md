@@ -96,6 +96,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -108,6 +109,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Regulan Fiefs 
@@ -116,6 +118,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Taurian Concordat 
@@ -123,6 +126,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Taurian Concordat 

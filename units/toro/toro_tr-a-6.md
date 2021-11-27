@@ -22,3 +22,13 @@
 
 - Taurian Concordat 
 
+### Late Republic 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+

@@ -459,7 +459,6 @@
 
 #### [Wasp](../../units/wasp.md) 
 
-- [**Wasp WSP-5A**](../../units/wasp/wasp_wsp-5a.md) *Scout (3114)* 
 - [**Wasp C**](../../units/wasp/wasp_c.md) *Sniper (3143)* 
 
 ### 25 Tons 
@@ -737,6 +736,10 @@
 - [**Shadow Cat F**](../../units/shadow_cat/shadow_cat_f.md) *Sniper (3131)* 
 - [**Shadow Cat I**](../../units/shadow_cat/shadow_cat_i.md) *Striker (3136)* 
 - [**Shadow Cat T**](../../units/shadow_cat/shadow_cat_t.md) *Scout (3142)* `Active Probe` 
+
+#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
+
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 
 #### [Violator](../../units/violator.md) 
 
@@ -1094,17 +1097,6 @@
 - [**Savage Coyote C**](../../units/savage_coyote/savage_coyote_c.md) *Juggernaut (3064)* 
 - [**Savage Coyote J**](../../units/savage_coyote/savage_coyote_j.md) *Brawler (3073)* 
 - [**Savage Coyote W**](../../units/savage_coyote/savage_coyote_w.md) *Sniper (3073)* `Active Probe` , `TAG` 
-
-#### [Warhawk](../../units/warhawk.md) 
-
-- [**Warhawk Prime**](../../units/warhawk/warhawk_prime.md) *Sniper (2999)* 
-- [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
-- [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
-- [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
-- [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
-- [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
-- [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
-- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 

@@ -817,6 +817,10 @@
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC (Standard)**](../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 

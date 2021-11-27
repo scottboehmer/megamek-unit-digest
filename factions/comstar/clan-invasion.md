@@ -1142,6 +1142,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Zeus](../../units/zeus.md) 
 

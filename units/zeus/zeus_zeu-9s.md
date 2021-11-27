@@ -44,6 +44,7 @@
 - Free Rasalhague Republic 
 - Kell Hounds 
 - Lyran Alliance 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -57,6 +58,7 @@
 - Free Rasalhague Republic 
 - Kell Hounds 
 - Lyran Alliance 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -76,6 +78,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -85,6 +88,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

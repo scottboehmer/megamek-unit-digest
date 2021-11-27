@@ -31,6 +31,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -45,6 +46,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -57,6 +59,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -69,6 +72,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

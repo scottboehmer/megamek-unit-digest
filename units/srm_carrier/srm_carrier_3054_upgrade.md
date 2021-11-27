@@ -78,6 +78,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -98,6 +99,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -117,6 +119,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -137,6 +140,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

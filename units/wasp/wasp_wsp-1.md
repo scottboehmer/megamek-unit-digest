@@ -23,6 +23,7 @@
 
 - Capellan Confederation 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Early Republic 
@@ -30,6 +31,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -40,6 +42,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

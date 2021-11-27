@@ -161,6 +161,10 @@
 - [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* `TAG` 
 - [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* `Transport:3.5` 
 
+#### [Desert Scorpion Light Tank](../../units/desert_scorpion_light_tank.md) 
+
+- [**Desert Scorpion Light Tank (Standard)**](../../units/desert_scorpion_light_tank/desert_scorpion_light_tank_standard.md) *Undefined (3055)* 
+
 #### [Harasser Laser Platform](../../units/harasser_laser_platform.md) 
 
 - [**Harasser Laser Platform (Standard)**](../../units/harasser_laser_platform/harasser_laser_platform_standard.md) *Scout (2957)* 
@@ -618,10 +622,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Flea](../../units/flea.md) 
 
 - [**Flea FLE-14**](../../units/flea/flea_fle-14.md) *Scout (2519)* 
@@ -703,7 +703,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -740,6 +739,10 @@
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 
@@ -967,7 +970,6 @@
 
 - [**Bloodhound B1-HND**](../../units/bloodhound/bloodhound_b1-hnd.md) *Striker (3064)* `Active Probe` 
 - [**Bloodhound B2-HND**](../../units/bloodhound/bloodhound_b2-hnd.md) *Striker (3067)* `Active Probe` , `ECM` 
-- [**Bloodhound B3-HND**](../../units/bloodhound/bloodhound_b3-hnd.md) *Striker (3081)* `Active Probe` 
 
 #### [Firestarter](../../units/firestarter.md) 
 
@@ -1432,12 +1434,10 @@
 - [**Orion ON1-MD**](../../units/orion/orion_on1-md.md) *Brawler (3062)* 
 - [**Orion ON2-M**](../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 - [**Orion ON3-MX**](../../units/orion/orion_on3-mx.md) *Sniper (3075)* `Unique` 
-- [**Orion ON3-M**](../../units/orion/orion_on3-m.md) *Sniper (3083)* `TAG` 
 
 #### [Pandarus](../../units/pandarus.md) 
 
 - [**Pandarus LFA-1X**](../../units/pandarus/pandarus_lfa-1x.md) *Missile Boat (3078)* `Unique` 
-- [**Pandarus LFA-1A**](../../units/pandarus/pandarus_lfa-1a.md) *Missile Boat (3083)* 
 
 #### [Perseus](../../units/perseus.md) 
 

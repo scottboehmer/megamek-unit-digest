@@ -63,7 +63,6 @@
 - [Clan Invasion](clan-coyote/clan-invasion.md) 
 - [Civil War](clan-coyote/civil-war.md) 
 - [Jihad](clan-coyote/jihad.md) 
-- [Early Republic](clan-coyote/early-republic.md) 
 
 ## Clan Diamond Shark 
 
@@ -234,7 +233,6 @@
 - [Clan Invasion](comstar/clan-invasion.md) 
 - [Civil War](comstar/civil-war.md) 
 - [Jihad](comstar/jihad.md) 
-- [Early Republic](comstar/early-republic.md) 
 - [Late Republic](comstar/late-republic.md) 
 - [Dark Ages](comstar/dark-ages.md) 
 
@@ -253,7 +251,6 @@
 
 ## Duchy of Andurien 
 
-- [Jihad](duchy-of-andurien/jihad.md) 
 - [Early Republic](duchy-of-andurien/early-republic.md) 
 - [Late Republic](duchy-of-andurien/late-republic.md) 
 - [Dark Ages](duchy-of-andurien/dark-ages.md) 
@@ -317,10 +314,16 @@
 
 ## Free Worlds League - Non-Aligned Worlds 
 
-- [Jihad](free-worlds-league-non-aligned-worlds/jihad.md) 
 - [Early Republic](free-worlds-league-non-aligned-worlds/early-republic.md) 
 - [Late Republic](free-worlds-league-non-aligned-worlds/late-republic.md) 
 - [Dark Ages](free-worlds-league-non-aligned-worlds/dark-ages.md) 
+
+## Fronc Reaches 
+
+- [Jihad](fronc-reaches/jihad.md) 
+- [Early Republic](fronc-reaches/early-republic.md) 
+- [Late Republic](fronc-reaches/late-republic.md) 
+- [Dark Ages](fronc-reaches/dark-ages.md) 
 
 ## Kell Hounds 
 
@@ -447,14 +450,12 @@
 
 ## Republic of the Sphere 
 
-- [Jihad](republic-of-the-sphere/jihad.md) 
 - [Early Republic](republic-of-the-sphere/early-republic.md) 
 - [Late Republic](republic-of-the-sphere/late-republic.md) 
 - [Dark Ages](republic-of-the-sphere/dark-ages.md) 
 
 ## Rim Commonality 
 
-- [Jihad](rim-commonality/jihad.md) 
 - [Early Republic](rim-commonality/early-republic.md) 
 - [Late Republic](rim-commonality/late-republic.md) 
 - [Dark Ages](rim-commonality/dark-ages.md) 

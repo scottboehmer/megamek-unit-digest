@@ -24,6 +24,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -31,6 +32,7 @@
 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -38,6 +40,7 @@
 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -46,6 +49,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 

@@ -580,6 +580,10 @@
 - [**Commando COM-4H**](../../units/commando/commando_com-4h.md) *Striker (3064)* 
 - [**Commando COM-2Dr**](../../units/commando/commando_com-2dr.md) *Striker (3075)* 
 
+#### [Copper](../../units/copper.md) 
+
+- [**Copper CPK-65 SecurityMech**](../../units/copper/copper_cpk-65_securitymech.md) *Ambusher (3065)* `IndustrialMech` 
+
 #### [Harvester Ant](../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -702,10 +706,6 @@
 
 - [**StrongArm SC CV ConstructionMech**](../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
-
-#### [Toro](../../units/toro.md) 
-
-- [**Toro TR-A-1**](../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
 
 ### 40 Tons 
 
@@ -861,7 +861,6 @@
 
 - [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
-- [**Marshal MHL-6FR**](../../units/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)* 
 
 #### [Scorpion](../../units/scorpion.md) 
 

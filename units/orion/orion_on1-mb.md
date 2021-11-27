@@ -78,6 +78,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 

@@ -34,6 +34,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -51,6 +52,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -69,6 +71,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

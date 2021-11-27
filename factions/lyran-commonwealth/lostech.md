@@ -55,6 +55,7 @@
 - [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Hover Scout](../../units/hover_scout.md) 
 
@@ -452,6 +453,10 @@
 - [**Peacekeeper PK-6 SecurityMech**](../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 ### 30 Tons 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-1 ConstructionMech**](../../units/carbine/carbine_con-1_constructionmech.md) *Ambusher (2691)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 

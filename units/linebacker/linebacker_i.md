@@ -29,4 +29,5 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
 

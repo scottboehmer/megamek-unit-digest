@@ -26,6 +26,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -39,6 +40,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

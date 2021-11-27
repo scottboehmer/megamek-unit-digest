@@ -25,6 +25,7 @@
 
 - Capellan Confederation 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -35,6 +36,7 @@
 - Capellan Confederation 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -43,11 +45,13 @@
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Marian Hegemony 
 

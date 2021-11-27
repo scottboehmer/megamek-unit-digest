@@ -20,11 +20,6 @@
 
 ## Availability 
 
-### Jihad (Unique) 
-
-- Capellan Confederation 
-- Magistracy of Canopus 
-
 ### Early Republic (Unique) 
 
 - Capellan Confederation 

@@ -743,10 +743,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -839,7 +835,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -1098,7 +1093,6 @@
 
 - [**Clint CLNT-2-3T**](../../units/clint/clint_clnt-2-3t.md) *Striker (2608)* 
 - [**Clint CLNT-2-3U**](../../units/clint/clint_clnt-2-3u.md) *Striker (3050)* 
-- [**Clint CLNT-6S**](../../units/clint/clint_clnt-6s.md) *Striker (3069)* 
 
 #### [Hermes II](../../units/hermes_ii.md) 
 
@@ -1656,6 +1650,7 @@
 #### [Archer](../../units/archer.md) 
 
 - [**Archer ARC-2R**](../../units/archer/archer_arc-2r.md) *Missile Boat (2474)* 
+- [**Archer ARC-2Rb**](../../units/archer/archer_arc-2rb.md) *Missile Boat (2752)* 
 - [**Archer ARC-4M**](../../units/archer/archer_arc-4m.md) *Missile Boat (3049)* 
 - [**Archer ARC-8M**](../../units/archer/archer_arc-8m.md) *Missile Boat (3067)* 
 - [**Archer ARC-7S**](../../units/archer/archer_arc-7s.md) *Missile Boat (3070)* 
@@ -1943,6 +1938,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 

@@ -25,6 +25,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Mercenary 
@@ -33,6 +34,7 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
@@ -40,6 +42,7 @@
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 

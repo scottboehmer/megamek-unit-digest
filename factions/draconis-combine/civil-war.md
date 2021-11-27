@@ -357,6 +357,7 @@
 #### [Daimyo HQ](../../units/daimyo_hq.md) 
 
 - [**Daimyo HQ 67-K**](../../units/daimyo_hq/daimyo_hq_67-k.md) *Scout (2781)* `Transport:4.0` 
+- [**Daimyo HQ 67-NC**](../../units/daimyo_hq/daimyo_hq_67-nc.md) *Undefined (2781)* `Transport:3.0` 
 - [**Daimyo HQ 67-K2**](../../units/daimyo_hq/daimyo_hq_67-k2.md) *Sniper (3067)* `Transport:4.0` 
 
 #### [Drillson Heavy Hover Tank](../../units/drillson_heavy_hover_tank.md) 
@@ -703,6 +704,10 @@
 - [**Arctic Cheetah C**](../../units/arctic_cheetah/arctic_cheetah_c.md) *Striker (3037)* `Active Probe` 
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Copperhead](../../units/copperhead.md) 
 
@@ -1513,6 +1518,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 

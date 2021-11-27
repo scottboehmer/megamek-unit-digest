@@ -52,6 +52,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -63,6 +64,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

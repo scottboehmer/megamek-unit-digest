@@ -44,12 +44,14 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Fronc Reaches 
 - Marian Hegemony 
 - Taurian Concordat 
 
 ### Early Republic 
 
 - Calderon Protectorate 
+- Fronc Reaches 
 - Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 

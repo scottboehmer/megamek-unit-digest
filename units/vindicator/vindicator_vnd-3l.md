@@ -32,6 +32,7 @@
 
 - Capellan Confederation 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 - Wolf's Dragoons 
@@ -39,7 +40,9 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 - Wolf's Dragoons 
@@ -47,19 +50,25 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 

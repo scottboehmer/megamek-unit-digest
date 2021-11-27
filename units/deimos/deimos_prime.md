@@ -23,10 +23,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Clan Snow Raven 
-
 ### Early Republic 
 
 - Raven Alliance 

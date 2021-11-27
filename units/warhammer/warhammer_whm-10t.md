@@ -26,11 +26,13 @@
 ### Early Republic 
 
 - Federated Suns 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Federated Suns 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -38,5 +40,6 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 

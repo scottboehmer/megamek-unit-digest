@@ -188,6 +188,10 @@
 - [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* `TAG` 
 - [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* `Transport:3.5` 
 
+#### [Desert Scorpion Light Tank](../../units/desert_scorpion_light_tank.md) 
+
+- [**Desert Scorpion Light Tank (Standard)**](../../units/desert_scorpion_light_tank/desert_scorpion_light_tank_standard.md) *Undefined (3055)* 
+
 #### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
 
 - [**DI Multipurpose VTOL (Gunship)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
@@ -964,6 +968,19 @@
 
 - [**Blade BLD-7R**](../../units/blade/blade_bld-7r.md) *Striker (3094)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -1105,6 +1122,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -1467,6 +1485,7 @@
 - [**Warhammer C 2**](../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 - [**Warhammer WHM-7M-DC**](../../units/warhammer/warhammer_whm-7m-dc.md) *Brawler (3052)* `Command Console` 
 - [**Warhammer WHM-8D**](../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
+- [**Warhammer WHM-8K**](../../units/warhammer/warhammer_whm-8k.md) *Sniper (3073)* `C3 Support` 
 - [**Warhammer WHM-8R**](../../units/warhammer/warhammer_whm-8r.md) *Brawler (3090)* 
 
 ### 75 Tons 
@@ -1558,6 +1577,7 @@
 
 #### [Victor](../../units/victor.md) 
 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
@@ -1596,6 +1616,10 @@
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
 - [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
+
+#### [Stalker](../../units/stalker.md) 
+
+- [**Stalker STK-5M**](../../units/stalker/stalker_stk-5m.md) *Juggernaut (3050)* 
 
 ### 90 Tons 
 

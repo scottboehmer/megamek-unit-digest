@@ -55,6 +55,7 @@
 - Circinus Federation 
 - ComStar 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -72,6 +73,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -88,6 +90,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -105,6 +108,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 

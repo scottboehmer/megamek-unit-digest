@@ -394,6 +394,10 @@
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Arrow IV)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) *Missile Boat (3062)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -446,10 +450,6 @@
 ## ’Mechs 
 
 ### 15 Tons 
-
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
 
 #### [Guard](../../units/guard.md) 
 
@@ -735,14 +735,6 @@
 #### [Crusader](../../units/crusader.md) 
 
 - [**Crusader CRD-3R**](../../units/crusader/crusader_crd-3r.md) *Missile Boat (2752)* 
-
-#### [Deep Lord](../../units/deep_lord.md) 
-
-- [**Deep Lord RCL-Z1M MilitiaMech**](../../units/deep_lord/deep_lord_rcl-z1m_militiamech.md) *Juggernaut (3085)* `IndustrialMech` 
-
-#### [Dig Lord](../../units/dig_lord.md) 
-
-- [**Dig Lord RCL-Z1 Armed MiningMech**](../../units/dig_lord/dig_lord_rcl-z1_armed_miningmech.md) *Ambusher (3081)* `IndustrialMech` 
 
 #### [JagerMech](../../units/jagermech.md) 
 

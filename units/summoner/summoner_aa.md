@@ -30,6 +30,7 @@
 - Clan Nova Cat 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
@@ -42,6 +43,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
@@ -52,7 +54,9 @@
 - Clan Jade Falcon 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Scorpion Empire 
 

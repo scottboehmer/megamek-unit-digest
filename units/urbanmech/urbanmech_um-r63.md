@@ -49,12 +49,14 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 

@@ -41,12 +41,17 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (RL)**](../../units/flatbed_truck/flatbed_truck_rl.md) *Scout (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
 - [**J-27 Ordnance Transport (Fusion)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
 - [**J-27 Ordnance Transport (Standard)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
+
+#### [Kruger Combat Car](../../units/kruger_combat_car.md) 
+
+- [**Kruger Combat Car (Original)**](../../units/kruger_combat_car/kruger_combat_car_original.md) *Scout (2620)* 
 
 #### [Mobile Long Tom Artillery Support Carriage](../../units/mobile_long_tom_artillery_support_carriage.md) 
 
@@ -97,6 +102,8 @@
 #### [Rotunda Scout Vehicle](../../units/rotunda_scout_vehicle.md) 
 
 - [**Rotunda Scout Vehicle RND-J-1-11**](../../units/rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11.md) *Scout (2725)* 
+- [**Rotunda Scout Vehicle RND-J-1-11 (LRM)**](../../units/rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_lrm.md) *Missile Boat (2801)* 
+- [**Rotunda Scout Vehicle RND-J-1-11 (SRM)**](../../units/rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_srm.md) *Scout (2801)* 
 
 #### [Wheeled Scout](../../units/wheeled_scout.md) 
 
@@ -148,6 +155,7 @@
 #### [Galleon Light Tank](../../units/galleon_light_tank.md) 
 
 - [**Galleon Light Tank GAL-100**](../../units/galleon_light_tank/galleon_light_tank_gal-100.md) *Scout (2692)* 
+- [**Galleon Light Tank GAL-200 (RL)**](../../units/galleon_light_tank/galleon_light_tank_gal-200_rl.md) *Scout (2801)* 
 
 #### [Karnov UR Transport](../../units/karnov_ur_transport.md) 
 
@@ -203,6 +211,7 @@
 #### [Kanga Medium Hovertank](../../units/kanga_medium_hovertank.md) 
 
 - [**Kanga Medium Hovertank (Standard)**](../../units/kanga_medium_hovertank/kanga_medium_hovertank_standard.md) *Striker (2653)* 
+- [**Kanga Medium Hovertank (AC)**](../../units/kanga_medium_hovertank/kanga_medium_hovertank_ac.md) *Striker (2801)* 
 
 #### [Maxim Heavy Hover Transport](../../units/maxim_heavy_hover_transport.md) 
 
@@ -221,6 +230,7 @@
 #### [Thor Artillery Vehicle](../../units/thor_artillery_vehicle.md) 
 
 - [**Thor Artillery Vehicle (Standard)**](../../units/thor_artillery_vehicle/thor_artillery_vehicle_standard.md) *Missile Boat (2680)* 
+- [**Thor Artillery Vehicle (AC)**](../../units/thor_artillery_vehicle/thor_artillery_vehicle_ac.md) *Brawler (2801)* 
 
 ### 60 Tons 
 

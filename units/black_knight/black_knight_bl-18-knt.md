@@ -23,6 +23,10 @@
 
 ## Availability 
 
+### Late Republic 
+
+- Republic of the Sphere 
+
 ### Dark Ages 
 
 - Capellan Confederation 

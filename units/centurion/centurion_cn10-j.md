@@ -40,6 +40,7 @@
 - Circinus Federation 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -53,6 +54,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -64,6 +66,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -74,6 +77,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

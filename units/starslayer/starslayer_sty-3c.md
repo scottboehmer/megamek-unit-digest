@@ -53,6 +53,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Free Rasalhague Republic 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -64,6 +65,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Federated Suns 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
@@ -76,6 +78,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Federated Suns 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
@@ -88,6 +91,8 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 

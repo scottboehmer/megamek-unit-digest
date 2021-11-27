@@ -26,6 +26,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Mercenary 
 - Raven Alliance 
 - Wolf's Dragoons 
@@ -36,6 +37,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Mercenary 
 - Raven Alliance 
 - Wolf's Dragoons 
@@ -46,7 +48,9 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Mercenary 
 - Raven Alliance 
+- Scorpion Empire 
 - Wolf's Dragoons 
 

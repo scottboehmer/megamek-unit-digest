@@ -22,11 +22,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Capellan Confederation 
-- Magistracy of Canopus 
-
 ### Early Republic 
 
 - Capellan Confederation 

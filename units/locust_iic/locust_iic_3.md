@@ -49,10 +49,11 @@
 - Clan Star Adder 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
+- Mercenary 
 
 ### Jihad 
 
-- Capellan Confederation 
 - Clan Burrock 
 - Clan Diamond Shark 
 - Clan Ghost Bear 
@@ -63,16 +64,8 @@
 - Clan Star Adder 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- ComStar 
-- Draconis Combine 
-- Federated Suns 
-- Filtvelt Coalition 
-- Free Rasalhague Republic 
-- Free Worlds League 
 - Kell Hounds 
-- Lyran Alliance 
 - Mercenary 
-- Word of Blake 
 
 ### Early Republic 
 

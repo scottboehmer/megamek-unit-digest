@@ -32,6 +32,7 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
@@ -43,6 +44,7 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
@@ -55,6 +57,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 

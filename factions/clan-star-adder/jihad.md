@@ -933,6 +933,7 @@
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
+- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 
@@ -1037,10 +1038,6 @@
 #### [Imp](../../units/imp.md) 
 
 - [**Imp C**](../../units/imp/imp_c.md) *Juggernaut (2863)* 
-
-#### [Kodiak](../../units/kodiak.md) 
-
-- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
 
 #### [Pillager](../../units/pillager.md) 
 

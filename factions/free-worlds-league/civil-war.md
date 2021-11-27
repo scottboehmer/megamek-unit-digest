@@ -160,6 +160,10 @@
 - [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* `TAG` 
 - [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* `Transport:3.5` 
 
+#### [Desert Scorpion Light Tank](../../units/desert_scorpion_light_tank.md) 
+
+- [**Desert Scorpion Light Tank (Standard)**](../../units/desert_scorpion_light_tank/desert_scorpion_light_tank_standard.md) *Undefined (3055)* 
+
 #### [Harasser Laser Platform](../../units/harasser_laser_platform.md) 
 
 - [**Harasser Laser Platform (Standard)**](../../units/harasser_laser_platform/harasser_laser_platform_standard.md) *Scout (2957)* 
@@ -629,6 +633,10 @@
 - [**Arctic Cheetah C**](../../units/arctic_cheetah/arctic_cheetah_c.md) *Striker (3037)* `Active Probe` 
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 

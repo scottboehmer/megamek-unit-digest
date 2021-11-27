@@ -548,10 +548,6 @@
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
 
-#### [Copper](../../units/copper.md) 
-
-- [**Copper CPK-65 SecurityMech**](../../units/copper/copper_cpk-65_securitymech.md) *Ambusher (3065)* `IndustrialMech` 
-
 #### [Koshi](../../units/koshi.md) 
 
 - [**Koshi (Standard)**](../../units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
@@ -642,6 +638,19 @@
 - [**Adder E**](../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -656,6 +665,10 @@
 #### [Ocelot](../../units/ocelot.md) 
 
 - [**Ocelot (Standard)**](../../units/ocelot/ocelot_standard.md) *Striker (3067)* `Active Probe` 
+
+#### [Ostscout](../../units/ostscout.md) 
+
+- [**Ostscout OTT-10CS**](../../units/ostscout/ostscout_ott-10cs.md) *Scout (3071)* `C3i` 
 
 #### [Panther](../../units/panther.md) 
 
@@ -741,6 +754,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 2**](../../units/shadow_hawk_iic/shadow_hawk_iic_2.md) *Striker (2835)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
 - [**Shadow Hawk IIC 6**](../../units/shadow_hawk_iic/shadow_hawk_iic_6.md) *Striker (3069)* 
@@ -1003,6 +1017,10 @@
 - [**Phoenix Hawk IIC 6**](../../units/phoenix_hawk_iic/phoenix_hawk_iic_6.md) *Skirmisher (3070)* 
 - [**Phoenix Hawk IIC 7**](../../units/phoenix_hawk_iic/phoenix_hawk_iic_7.md) *Skirmisher (3078)* 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC (Standard)**](../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
@@ -1028,17 +1046,6 @@
 - [**Marauder IIC 3**](../../units/marauder_iic/marauder_iic_3.md) *Brawler (3064)* 
 - [**Marauder IIC 4**](../../units/marauder_iic/marauder_iic_4.md) *Sniper (3070)* 
 - [**Marauder IIC 7**](../../units/marauder_iic/marauder_iic_7.md) *Juggernaut (3081)* `ECM` 
-
-#### [Warhawk](../../units/warhawk.md) 
-
-- [**Warhawk Prime**](../../units/warhawk/warhawk_prime.md) *Sniper (2999)* 
-- [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
-- [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
-- [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
-- [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
-- [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
-- [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
-- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 

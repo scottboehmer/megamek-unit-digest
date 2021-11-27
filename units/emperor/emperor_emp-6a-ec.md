@@ -33,6 +33,10 @@
 - Clan Burrock 
 - Society 
 
+### Early Republic 
+
+- Escorpión Imperio 
+
 ### Late Republic 
 
 - Escorpión Imperio 

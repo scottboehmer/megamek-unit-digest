@@ -19,10 +19,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Pirate 
-
 ### Early Republic 
 
 - Pirate 

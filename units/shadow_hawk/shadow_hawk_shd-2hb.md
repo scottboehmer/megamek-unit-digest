@@ -147,6 +147,7 @@
 - Clan Steel Viper 
 - Clan Stone Lion 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Society 
@@ -155,6 +156,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -164,6 +166,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
@@ -172,6 +175,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 

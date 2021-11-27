@@ -90,6 +90,7 @@
 ### Civil War 
 
 - Capellan Confederation 
+- Circinus Federation 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -97,10 +98,14 @@
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Outworlds Alliance 
 - Pirate 
 - Second Star League 
 - St. Ives Compact 
+- Taurian Concordat 
 - Word of Blake 
 
 ### Jihad 
@@ -114,6 +119,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -129,6 +135,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

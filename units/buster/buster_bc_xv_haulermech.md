@@ -73,7 +73,6 @@
 ### Late Succession Wars - LosTech 
 
 - Capellan Confederation 
-- Circinus Federation 
 - Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
@@ -98,14 +97,11 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
-- Outworlds Alliance 
-- Pirate 
 - Taurian Concordat 
 
 ### Late Succession Wars - Renaissance 
 
 - Capellan Confederation 
-- Circinus Federation 
 - Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
@@ -130,16 +126,12 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
-- Marian Hegemony 
-- Outworlds Alliance 
-- Pirate 
 - St. Ives Compact 
 - Taurian Concordat 
 
 ### Clan Invasion 
 
 - Capellan Confederation 
-- Circinus Federation 
 - Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
@@ -159,9 +151,6 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
-- Marian Hegemony 
-- Outworlds Alliance 
-- Pirate 
 - Second Star League 
 - St. Ives Compact 
 - Taurian Concordat 
@@ -218,6 +207,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -243,6 +233,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -273,6 +264,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -304,6 +296,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

@@ -30,10 +30,13 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
 - Lyran Commonwealth 
+- Mercenary 
 - Second Star League 
 - St. Ives Compact 
+- Wolf's Dragoons 
 - Word of Blake 
 
 ### Civil War 
@@ -45,9 +48,12 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
+- Mercenary 
 - Second Star League 
 - St. Ives Compact 
+- Wolf's Dragoons 
 - Word of Blake 
 
 ### Jihad 
@@ -59,7 +65,10 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 - Word of Blake 
 
 ### Early Republic 

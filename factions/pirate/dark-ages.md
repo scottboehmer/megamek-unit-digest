@@ -143,6 +143,7 @@
 #### [J. Edgar Light Hover Tank](../../units/j._edgar_light_hover_tank.md) 
 
 - [**J. Edgar Light Hover Tank (Standard)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) *Scout (2722)* 
+- [**J. Edgar Light Hover Tank (Flamer)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) *Scout (2793)* 
 - [**J. Edgar Light Hover Tank (MG)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
 - [**J. Edgar Light Hover Tank (ICE)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_ice.md) *Scout (2854)* 
 
@@ -712,10 +713,6 @@
 - [**StrongArm SC CVI ConstructionMech**](../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CV-M ConstructionMech MOD**](../../units/strongarm/strongarm_sc_cv-m_constructionmech_mod.md) *Ambusher (3132)* `IndustrialMech` 
 
-#### [Toro](../../units/toro.md) 
-
-- [**Toro TR-A-1**](../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
-
 ### 40 Tons 
 
 #### [Assassin](../../units/assassin.md) 
@@ -775,6 +772,10 @@
 - [**Quasit QUA-51M MilitiaMech**](../../units/quasit/quasit_qua-51m_militiamech.md) *Brawler (3073)* `IndustrialMech` 
 - [**Quasit QUA-51P MilitiaMech**](../../units/quasit/quasit_qua-51p_militiamech.md) *Scout (3074)* `IndustrialMech` 
 
+#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
+
+- [**Shadow Hawk IIC 9**](../../units/shadow_hawk_iic/shadow_hawk_iic_9.md) *Skirmisher (3134)* 
+
 #### [Vindicator](../../units/vindicator.md) 
 
 - [**Vindicator VND-3L**](../../units/vindicator/vindicator_vnd-3l.md) *Brawler (3051)* 
@@ -829,6 +830,14 @@
 
 - [**Phoenix PX-1R**](../../units/phoenix/phoenix_px-1r.md) *Brawler (2474)* 
 
+#### [Raider](../../units/raider.md) 
+
+- [**Raider JL-1**](../../units/raider/raider_jl-1.md) *Juggernaut (3134)* 
+
+#### [Raider Mk II](../../units/raider_mk_ii.md) 
+
+- [**Raider Mk II JL-2**](../../units/raider_mk_ii/raider_mk_ii_jl-2.md) *Brawler (3134)* 
+
 #### [Rifleman](../../units/rifleman.md) 
 
 - [**Rifleman RFL-1N**](../../units/rifleman/rifleman_rfl-1n.md) *Brawler (2504)* 
@@ -869,7 +878,6 @@
 
 - [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
-- [**Marshal MHL-6FR**](../../units/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -903,6 +911,7 @@
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
+- [**Ostroc OSR-2D**](../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 - [**Ostroc OSR-4C**](../../units/ostroc/ostroc_osr-4c.md) *Skirmisher (3066)* 
 
 #### [Ostsol](../../units/ostsol.md) 

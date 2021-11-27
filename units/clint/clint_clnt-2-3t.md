@@ -103,6 +103,7 @@
 - Free Worlds League 
 - Kell Hounds 
 - Lyran Alliance 
+- Marian Hegemony 
 - Mercenary 
 - Second Star League 
 - St. Ives Compact 
@@ -120,7 +121,20 @@
 - Free Worlds League 
 - Kell Hounds 
 - Lyran Alliance 
+- Marian Hegemony 
 - Mercenary 
 - Wolf's Dragoons 
 - Word of Blake 
+
+### Early Republic 
+
+- Fronc Reaches 
+
+### Late Republic 
+
+- Fronc Reaches 
+
+### Dark Ages 
+
+- Fronc Reaches 
 

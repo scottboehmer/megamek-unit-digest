@@ -23,9 +23,14 @@
 
 ### Late Republic 
 
+- Kell Hounds 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
+- Kell Hounds 
+- Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 

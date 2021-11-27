@@ -88,14 +88,17 @@
 
 - Clan Jade Falcon 
 - Rasalhague Dominion 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
 - Clan Jade Falcon 
 - Rasalhague Dominion 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
 - Clan Jade Falcon 
 - Rasalhague Dominion 
+- Wolf's Dragoons 
 

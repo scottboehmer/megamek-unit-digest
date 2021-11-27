@@ -29,6 +29,7 @@
 - Capellan Confederation 
 - Escorpión Imperio 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 
@@ -37,6 +38,7 @@
 - Capellan Confederation 
 - Escorpión Imperio 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -45,6 +47,7 @@
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

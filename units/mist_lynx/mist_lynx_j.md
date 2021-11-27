@@ -28,6 +28,7 @@
 - Clan Jade Falcon 
 - Clan Sea Fox 
 - Clan Wolf 
+- Escorpión Imperio 
 - Raven Alliance 
 
 ### Dark Ages 
@@ -38,8 +39,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Scorpion Empire 
 - Wolf's Dragoons 
 

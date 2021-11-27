@@ -22,10 +22,12 @@
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 

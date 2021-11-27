@@ -22,11 +22,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Clan Hell's Horses 
-- Clan Wolf-in-Exile 
-
 ### Early Republic 
 
 - Clan Hell's Horses 

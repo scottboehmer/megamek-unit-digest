@@ -381,6 +381,10 @@
 - [**Demolisher Heavy Tank (Defensive)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -435,10 +439,6 @@
 ## ’Mechs 
 
 ### 15 Tons 
-
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
 
 #### [Guard](../../units/guard.md) 
 

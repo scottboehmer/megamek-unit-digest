@@ -143,6 +143,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Free Rasalhague Republic 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -159,6 +160,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Taurian Concordat 
 
@@ -166,11 +168,13 @@
 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 

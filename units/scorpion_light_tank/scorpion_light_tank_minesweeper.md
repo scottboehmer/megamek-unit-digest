@@ -23,15 +23,18 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 

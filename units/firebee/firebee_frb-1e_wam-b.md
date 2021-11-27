@@ -26,6 +26,7 @@
 - Circinus Federation 
 - Federated Suns 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Outworlds Alliance 
@@ -38,6 +39,7 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -47,6 +49,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -56,6 +59,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

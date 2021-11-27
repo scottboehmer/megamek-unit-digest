@@ -26,10 +26,6 @@
 
 ## Availability 
 
-### Jihad (Unique) 
-
-- Outworlds Alliance 
-
 ### Early Republic (Unique) 
 
 - Raven Alliance 

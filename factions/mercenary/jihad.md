@@ -524,6 +524,10 @@
 - [**Demolisher Heavy Tank (Gauss)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_gauss.md) *Sniper (3053)* 
 - [**Demolisher Heavy Tank (Arrow IV)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) *Missile Boat (3062)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -988,7 +992,6 @@
 - [**Wolfhound WLF-4WA**](../../units/wolfhound/wolfhound_wlf-4wa.md) *Sniper (3071)* `ECM` 
 - [**Wolfhound WLF-2X**](../../units/wolfhound/wolfhound_wlf-2x.md) *Striker (3072)* `Unique` 
 - [**Wolfhound WLF-5**](../../units/wolfhound/wolfhound_wlf-5.md) *Striker (3079)* 
-- [**Wolfhound WLF-2H**](../../units/wolfhound/wolfhound_wlf-2h.md) *Striker (3082)* 
 
 ### 40 Tons 
 
@@ -1646,7 +1649,6 @@
 
 - [**Verfolger VR5-R**](../../units/verfolger/verfolger_vr5-r.md) *Skirmisher (3063)* 
 - [**Verfolger VR6-C**](../../units/verfolger/verfolger_vr6-c.md) *Skirmisher (3068)* 
-- [**Verfolger VR6-T**](../../units/verfolger/verfolger_vr6-t.md) *Skirmisher (3082)* 
 
 ### 70 Tons 
 
@@ -1665,7 +1667,14 @@
 
 - [**Avatar AV1-O**](../../units/avatar/avatar_av1-o.md) *Brawler (3056)* 
 - [**Avatar AV1-OA**](../../units/avatar/avatar_av1-oa.md) *Brawler (3056)* 
+- [**Avatar AV1-OB**](../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
+- [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OG**](../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
+- [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
+- [**Avatar AV1-OH**](../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
 - [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OI**](../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 
 #### [Barghest](../../units/barghest.md) 
 
@@ -1707,7 +1716,6 @@
 - [**Grasshopper GHR-5N**](../../units/grasshopper/grasshopper_ghr-5n.md) *Skirmisher (3040)* 
 - [**Grasshopper GHR-5J**](../../units/grasshopper/grasshopper_ghr-5j.md) *Skirmisher (3049)* 
 - [**Grasshopper GHR-C**](../../units/grasshopper/grasshopper_ghr-c.md) *Skirmisher (3052)* `C3 Support` 
-- [**Grasshopper GHR-7P**](../../units/grasshopper/grasshopper_ghr-7p.md) *Skirmisher (3081)* `Active Probe` 
 
 #### [Guillotine](../../units/guillotine.md) 
 
@@ -1828,7 +1836,6 @@
 - [**Orion ON1-MC**](../../units/orion/orion_on1-mc.md) *Brawler (3058)* `C3 Support` 
 - [**Orion ON1-MD**](../../units/orion/orion_on1-md.md) *Brawler (3062)* 
 - [**Orion ON2-M**](../../units/orion/orion_on2-m.md) *Brawler (3063)* 
-- [**Orion ON3-M**](../../units/orion/orion_on3-m.md) *Sniper (3083)* `TAG` 
 
 #### [Penetrator](../../units/penetrator.md) 
 
@@ -1931,6 +1938,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 

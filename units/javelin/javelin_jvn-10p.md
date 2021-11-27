@@ -35,6 +35,7 @@
 - Federated Suns 
 - Kell Hounds 
 - Lyran Alliance 
+- Marian Hegemony 
 - Mercenary 
 - Wolf's Dragoons 
 
@@ -43,6 +44,7 @@
 - Federated Suns 
 - Kell Hounds 
 - Lyran Alliance 
+- Marian Hegemony 
 - Mercenary 
 - Wolf's Dragoons 
 
@@ -50,7 +52,9 @@
 
 - Calderon Protectorate 
 - Federated Suns 
+- Fronc Reaches 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -58,6 +62,8 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 

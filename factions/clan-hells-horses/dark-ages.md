@@ -682,10 +682,27 @@
 
 - [**Arion (Standard)**](../../units/arion/arion_standard.md) *Striker (3136)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
 - [**DemolitionMech WI-DM2**](../../units/demolitionmech/demolitionmech_wi-dm2.md) *Juggernaut (2514)* `IndustrialMech` 
+
+#### [Jenner IIC](../../units/jenner_iic.md) 
+
+- [**Jenner IIC 3**](../../units/jenner_iic/jenner_iic_3.md) *Striker (3048)* 
 
 #### [Ostscout](../../units/ostscout.md) 
 
@@ -836,6 +853,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 6**](../../units/shadow_hawk_iic/shadow_hawk_iic_6.md) *Striker (3069)* 
 
 #### [Wyvern IIC](../../units/wyvern_iic.md) 

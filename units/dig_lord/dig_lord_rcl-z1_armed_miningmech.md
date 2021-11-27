@@ -23,10 +23,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Calderon Protectorate 
-
 ### Early Republic 
 
 - Calderon Protectorate 

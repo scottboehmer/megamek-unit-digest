@@ -44,6 +44,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 

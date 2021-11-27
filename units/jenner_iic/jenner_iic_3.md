@@ -51,5 +51,9 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Mercenary 
 

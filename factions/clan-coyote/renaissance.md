@@ -298,6 +298,10 @@
 - [**Phoenix Hawk PXH-1b (Special)**](../../units/phoenix_hawk/phoenix_hawk_pxh-1b_special.md) *Skirmisher (2760)* `ECM` 
 - [**Phoenix Hawk C**](../../units/phoenix_hawk/phoenix_hawk_c.md) *Striker (2831)* 
 
+#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
+
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+
 #### [Wyvern](../../units/wyvern.md) 
 
 - [**Wyvern WVE-5Nb**](../../units/wyvern/wyvern_wve-5nb.md) *Missile Boat (2660)* 
@@ -476,6 +480,10 @@
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC 2**](../../units/warhammer_iic/warhammer_iic_2.md) *Missile Boat (2920)* 
@@ -516,6 +524,14 @@
 
 - [**Highlander HGN-732**](../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
 - [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Missile Boat (2598)* 
+
+#### [Kingfisher](../../units/kingfisher.md) 
+
+- [**Kingfisher Prime**](../../units/kingfisher/kingfisher_prime.md) *Brawler (2887)* 
+- [**Kingfisher A**](../../units/kingfisher/kingfisher_a.md) *Brawler (2887)* 
+- [**Kingfisher B**](../../units/kingfisher/kingfisher_b.md) *Brawler (2887)* 
+- [**Kingfisher C**](../../units/kingfisher/kingfisher_c.md) *Brawler (2887)* 
+- [**Kingfisher D**](../../units/kingfisher/kingfisher_d.md) *Sniper (2887)* 
 
 ### 95 Tons 
 

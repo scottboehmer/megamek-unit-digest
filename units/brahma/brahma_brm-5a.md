@@ -27,20 +27,24 @@
 
 ### Jihad 
 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Early Republic 
 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 

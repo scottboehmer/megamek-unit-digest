@@ -807,6 +807,10 @@
 
 - [**Battle Hawk BH-K305**](../../units/battle_hawk/battle_hawk_bh-k305.md) *Striker (3053)* 
 
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
+
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -1152,6 +1156,10 @@
 - [**Chameleon CLN-7V**](../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+
+#### [Crab](../../units/crab.md) 
+
+- [**Crab CRB-27**](../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 
 
 #### [Enfield](../../units/enfield.md) 
 
@@ -1628,6 +1636,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9D**](../../units/victor/victor_vtr-9d.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 

@@ -875,10 +875,6 @@
 - [**StrongArm SC CV ConstructionMech**](../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 
-#### [Toro](../../units/toro.md) 
-
-- [**Toro TR-A-1**](../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
-
 ### 40 Tons 
 
 #### [Assassin](../../units/assassin.md) 
@@ -1120,7 +1116,6 @@
 - [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
 - [**Marshal MHL-6MC**](../../units/marshal/marshal_mhl-6mc.md) *Skirmisher (3073)* 
-- [**Marshal MHL-6FR**](../../units/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)* 
 - [**Marshal MHL-3MC**](../../units/marshal/marshal_mhl-3mc.md) *Brawler (3119)* 
 
 #### [Men Shen](../../units/men_shen.md) 

@@ -28,7 +28,6 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 

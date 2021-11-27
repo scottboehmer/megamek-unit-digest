@@ -40,6 +40,7 @@
 
 - Capellan Confederation 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Republic of the Sphere 
 
@@ -47,6 +48,7 @@
 
 - Capellan Confederation 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Republic of the Sphere 
 
@@ -54,6 +56,7 @@
 
 - Capellan Confederation 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Republic of the Sphere 
 

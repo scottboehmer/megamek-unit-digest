@@ -20,10 +20,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Marik-Stewart Commonwealth 
-
 ### Early Republic 
 
 - Marik-Stewart Commonwealth 

@@ -37,6 +37,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

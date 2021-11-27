@@ -22,10 +22,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Clan Diamond Shark 
-
 ### Early Republic 
 
 - Clan Diamond Shark 

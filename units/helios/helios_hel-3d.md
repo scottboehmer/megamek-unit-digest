@@ -46,6 +46,7 @@
 - Capellan Confederation 
 - ComStar 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -53,6 +54,7 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -60,6 +62,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -67,6 +70,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 

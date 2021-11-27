@@ -52,6 +52,7 @@
 - ComStar 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 

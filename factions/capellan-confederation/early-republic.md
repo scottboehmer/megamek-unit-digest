@@ -1142,6 +1142,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -1630,6 +1631,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9D**](../../units/victor/victor_vtr-9d.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10L**](../../units/victor/victor_vtr-10l.md) *Skirmisher (3066)* `ECM` , `Stealth` 

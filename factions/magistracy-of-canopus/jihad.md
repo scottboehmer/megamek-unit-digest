@@ -428,6 +428,10 @@
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Arrow IV)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) *Missile Boat (3062)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -492,10 +496,6 @@
 ## ’Mechs 
 
 ### 15 Tons 
-
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
 
 #### [Guard](../../units/guard.md) 
 
@@ -585,8 +585,6 @@
 - [**Anubis ABS-3L**](../../units/anubis/anubis_abs-3l.md) *Missile Boat (3063)* `ECM` , `Stealth` 
 - [**Anubis ABS-3R**](../../units/anubis/anubis_abs-3r.md) *Missile Boat (3064)* `ECM` , `Stealth` 
 - [**Anubis ABS-3T**](../../units/anubis/anubis_abs-3t.md) *Striker (3067)* `ECM` , `Stealth` 
-- [**Anubis ABS-3MC**](../../units/anubis/anubis_abs-3mc.md) *Missile Boat (3081)* `ECM` , `Stealth` , `Unique` 
-- [**Anubis ABS-4C**](../../units/anubis/anubis_abs-4c.md) *Missile Boat (3082)* `ECM` , `Stealth` 
 
 #### [Crosscut](../../units/crosscut.md) 
 
@@ -948,10 +946,6 @@
 
 - [**Crusader CRD-3R**](../../units/crusader/crusader_crd-3r.md) *Missile Boat (2752)* 
 
-#### [Deep Lord](../../units/deep_lord.md) 
-
-- [**Deep Lord RCL-Z1M MilitiaMech**](../../units/deep_lord/deep_lord_rcl-z1m_militiamech.md) *Juggernaut (3085)* `IndustrialMech` 
-
 #### [JagerMech](../../units/jagermech.md) 
 
 - [**JagerMech JM6-S**](../../units/jagermech/jagermech_jm6-s.md) *Sniper (2774)* 
@@ -1016,7 +1010,6 @@
 #### [Thunder](../../units/thunder.md) 
 
 - [**Thunder THR-1L**](../../units/thunder/thunder_thr-1l.md) *Skirmisher (3055)* 
-- [**Thunder THR-C4**](../../units/thunder/thunder_thr-c4.md) *Skirmisher (3083)* 
 
 #### [Warhammer](../../units/warhammer.md) 
 
@@ -1056,10 +1049,6 @@
 - [**Orion ON1-M**](../../units/orion/orion_on1-m.md) *Brawler (3049)* 
 - [**Orion ON1-MA**](../../units/orion/orion_on1-ma.md) *Brawler (3052)* 
 - [**Orion ON1-MB**](../../units/orion/orion_on1-mb.md) *Brawler (3058)* 
-
-#### [Penthesilea](../../units/penthesilea.md) 
-
-- [**Penthesilea PEN-2H**](../../units/penthesilea/penthesilea_pen-2h.md) *Brawler (3083)* 
 
 #### [Stalker](../../units/stalker.md) 
 

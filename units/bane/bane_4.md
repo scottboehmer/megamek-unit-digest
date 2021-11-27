@@ -32,7 +32,6 @@
 ### Early Republic 
 
 - Clan Jade Falcon 
-- Republic of the Sphere 
 
 ### Late Republic 
 

@@ -56,6 +56,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -71,6 +72,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -86,6 +88,8 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

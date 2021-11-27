@@ -46,6 +46,7 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 

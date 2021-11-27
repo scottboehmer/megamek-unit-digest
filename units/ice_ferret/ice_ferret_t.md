@@ -31,5 +31,6 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Scorpion Empire 
 - Wolf's Dragoons 
 

@@ -21,6 +21,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -31,6 +32,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -43,6 +45,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -56,6 +59,7 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Regulan Fiefs 
 - Rim Commonality 

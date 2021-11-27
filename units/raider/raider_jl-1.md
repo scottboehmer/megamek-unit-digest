@@ -23,5 +23,7 @@
 
 - Capellan Confederation 
 - Federated Suns 
+- Fronc Reaches 
 - Mercenary 
+- Pirate 
 

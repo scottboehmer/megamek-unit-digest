@@ -52,5 +52,9 @@
 
 ### Dark Ages 
 
+- Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Mercenary 
 

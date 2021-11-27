@@ -575,6 +575,10 @@
 - [**Commando COM-4H**](../../units/commando/commando_com-4h.md) *Striker (3064)* 
 - [**Commando COM-2Dr**](../../units/commando/commando_com-2dr.md) *Striker (3075)* 
 
+#### [Copper](../../units/copper.md) 
+
+- [**Copper CPK-65 SecurityMech**](../../units/copper/copper_cpk-65_securitymech.md) *Ambusher (3065)* `IndustrialMech` 
+
 #### [Dart](../../units/dart.md) 
 
 - [**Dart DRT-3S**](../../units/dart/dart_drt-3s.md) *Scout (3051)* 
@@ -633,6 +637,7 @@
 - [**Javelin JVN-10N**](../../units/javelin/javelin_jvn-10n.md) *Striker (2751)* 
 - [**Javelin JVN-10A**](../../units/javelin/javelin_jvn-10a.md) *Striker (2752)* 
 - [**Javelin JVN-10F 'Fire Javelin'**](../../units/javelin/javelin_jvn-10f_fire_javelin.md) *Striker (2819)* 
+- [**Javelin JVN-10P**](../../units/javelin/javelin_jvn-10p.md) *Striker (3049)* 
 
 #### [Razorback](../../units/razorback.md) 
 
@@ -693,10 +698,6 @@
 
 - [**StrongArm SC CV ConstructionMech**](../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
-
-#### [Toro](../../units/toro.md) 
-
-- [**Toro TR-A-1**](../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
 
 #### [Wolfhound](../../units/wolfhound.md) 
 
@@ -788,6 +789,11 @@
 - [**Quasit QUA-51T MilitiaMech**](../../units/quasit/quasit_qua-51t_militiamech.md) *Brawler (2517)* `IndustrialMech` 
 - [**Quasit QUA-51M MilitiaMech**](../../units/quasit/quasit_qua-51m_militiamech.md) *Brawler (3073)* `IndustrialMech` 
 - [**Quasit QUA-51P MilitiaMech**](../../units/quasit/quasit_qua-51p_militiamech.md) *Scout (3074)* `IndustrialMech` 
+
+#### [Vindicator](../../units/vindicator.md) 
+
+- [**Vindicator VND-1R**](../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
+- [**Vindicator VND-3L**](../../units/vindicator/vindicator_vnd-3l.md) *Brawler (3051)* 
 
 ### 50 Tons 
 
@@ -887,7 +893,6 @@
 
 - [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
-- [**Marshal MHL-6FR**](../../units/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)* 
 
 #### [Scorpion](../../units/scorpion.md) 
 

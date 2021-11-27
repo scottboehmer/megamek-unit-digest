@@ -887,6 +887,10 @@
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC (Standard)**](../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
@@ -965,7 +969,6 @@
 
 - [**Mad Cat Mk II (Standard)**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_standard.md) *Brawler (3062)* 
 - [**Mad Cat Mk II 2**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
-- [**Mad Cat Mk II Enhanced**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_enhanced.md) *Sniper (3083)* 
 
 #### [Supernova](../../units/supernova.md) 
 
@@ -1024,10 +1027,6 @@
 #### [Imp](../../units/imp.md) 
 
 - [**Imp C**](../../units/imp/imp_c.md) *Juggernaut (2863)* 
-
-#### [Kodiak](../../units/kodiak.md) 
-
-- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
 
 #### [Pillager](../../units/pillager.md) 
 

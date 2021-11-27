@@ -22,5 +22,7 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Succession Wars (Unique) 
+
+- Clan Widowmaker 
 

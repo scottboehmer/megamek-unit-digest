@@ -27,7 +27,6 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
-- Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

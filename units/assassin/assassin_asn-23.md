@@ -43,6 +43,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -54,6 +55,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -67,6 +69,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

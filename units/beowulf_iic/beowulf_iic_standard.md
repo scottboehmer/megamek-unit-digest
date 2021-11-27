@@ -23,10 +23,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Clan Ghost Bear 
-
 ### Early Republic 
 
 - Rasalhague Dominion 

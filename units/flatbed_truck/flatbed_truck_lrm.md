@@ -17,6 +17,54 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Late Succession Wars - LosTech 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- St. Ives Compact 
+- Taurian Concordat 
+
 ### Clan Invasion 
 
 - Capellan Confederation 
@@ -71,6 +119,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -90,6 +139,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -112,6 +162,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -135,6 +186,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

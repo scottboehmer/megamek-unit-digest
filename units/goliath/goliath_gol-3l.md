@@ -23,10 +23,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Capellan Confederation 
-
 ### Early Republic 
 
 - Capellan Confederation 

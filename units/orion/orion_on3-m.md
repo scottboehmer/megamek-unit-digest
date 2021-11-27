@@ -22,11 +22,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Free Worlds League 
-- Mercenary 
-
 ### Early Republic 
 
 - Capellan Confederation 

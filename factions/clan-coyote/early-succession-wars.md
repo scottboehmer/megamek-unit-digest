@@ -317,6 +317,10 @@
 
 - [**Phoenix Hawk PXH-1b (Special)**](../../units/phoenix_hawk/phoenix_hawk_pxh-1b_special.md) *Skirmisher (2760)* `ECM` 
 
+#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
+
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+
 #### [Wyvern](../../units/wyvern.md) 
 
 - [**Wyvern WVE-5N**](../../units/wyvern/wyvern_wve-5n.md) *Brawler (2660)* 
@@ -453,6 +457,10 @@
 
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
+
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 ### 85 Tons 
 

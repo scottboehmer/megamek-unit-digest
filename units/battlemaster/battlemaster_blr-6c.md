@@ -23,10 +23,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Regulan Fiefs 
-
 ### Early Republic 
 
 - Mercenary 

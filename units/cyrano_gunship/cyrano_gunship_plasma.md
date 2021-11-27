@@ -24,18 +24,21 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Calderon Protectorate 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 

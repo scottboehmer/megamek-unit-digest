@@ -181,6 +181,7 @@
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Society 
@@ -195,6 +196,7 @@
 - Clan Nova Cat 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Rasalhague Dominion 
@@ -210,6 +212,8 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Rasalhague Dominion 
@@ -225,6 +229,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Rasalhague Dominion 

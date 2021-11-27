@@ -36,6 +36,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -45,6 +46,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -54,6 +56,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 

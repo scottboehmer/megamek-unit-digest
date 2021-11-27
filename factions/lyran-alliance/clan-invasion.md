@@ -686,6 +686,10 @@
 
 - [**Battle Hawk BH-K305**](../../units/battle_hawk/battle_hawk_bh-k305.md) *Striker (3053)* 
 
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
+
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 

@@ -105,7 +105,11 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Clan Wolf 
+- Draconis Combine 
 - Escorpión Imperio 
+- Mercenary 
+- Rasalhague Dominion 
 - Scorpion Empire 
 

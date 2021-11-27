@@ -1145,6 +1145,10 @@
 
 - [**Avatar AV1-O**](../../units/avatar/avatar_av1-o.md) *Brawler (3056)* 
 - [**Avatar AV1-OA**](../../units/avatar/avatar_av1-oa.md) *Brawler (3056)* 
+- [**Avatar AV1-OB**](../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
+- [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OG**](../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
 
 #### [Barghest](../../units/barghest.md) 
 
@@ -1324,6 +1328,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 

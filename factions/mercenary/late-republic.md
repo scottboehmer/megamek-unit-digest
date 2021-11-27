@@ -1238,6 +1238,19 @@
 - [**Adder J**](../../units/adder/adder_j.md) *Sniper (3070)* 
 - [**Adder I**](../../units/adder/adder_i.md) *Striker (3125)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM2**](../../units/demolitionmech/demolitionmech_wi-dm2.md) *Juggernaut (2514)* `IndustrialMech` 
@@ -1483,7 +1496,6 @@
 - [**Blackjack BJ-2**](../../units/blackjack/blackjack_bj-2.md) *Sniper (3052)* 
 - [**Blackjack BJ-4**](../../units/blackjack/blackjack_bj-4.md) *Brawler (3067)* 
 - [**Blackjack BJ-5**](../../units/blackjack/blackjack_bj-5.md) *Sniper (3107)* 
-- [**Blackjack BJ-2r**](../../units/blackjack/blackjack_bj-2r.md) *Brawler (3131)* 
 
 #### [Bloodhound](../../units/bloodhound.md) 
 
@@ -1568,6 +1580,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -2248,6 +2261,7 @@
 - [**Grasshopper GHR-C**](../../units/grasshopper/grasshopper_ghr-c.md) *Skirmisher (3052)* `C3 Support` 
 - [**Grasshopper GHR-6K**](../../units/grasshopper/grasshopper_ghr-6k.md) *Skirmisher (3064)* `C3 Support` 
 - [**Grasshopper GHR-7P**](../../units/grasshopper/grasshopper_ghr-7p.md) *Skirmisher (3081)* `Active Probe` 
+- [**Grasshopper GHR-8K**](../../units/grasshopper/grasshopper_ghr-8k.md) *Skirmisher (3091)* 
 
 #### [Guillotine](../../units/guillotine.md) 
 
@@ -2505,6 +2519,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 
@@ -2571,17 +2586,6 @@
 - [**Stalker STK-7D**](../../units/stalker/stalker_stk-7d.md) *Juggernaut (3062)* 
 - [**Stalker STK-8S**](../../units/stalker/stalker_stk-8s.md) *Juggernaut (3064)* 
 
-#### [Warhawk](../../units/warhawk.md) 
-
-- [**Warhawk Prime**](../../units/warhawk/warhawk_prime.md) *Sniper (2999)* 
-- [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
-- [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
-- [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
-- [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
-- [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
-- [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
-- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
-
 ### 90 Tons 
 
 #### [Cyclops](../../units/cyclops.md) 
@@ -2596,6 +2600,7 @@
 #### [Emperor](../../units/emperor.md) 
 
 - [**Emperor EMP-6A**](../../units/emperor/emperor_emp-6a.md) *Juggernaut (2612)* 
+- [**Emperor EMP-6S**](../../units/emperor/emperor_emp-6s.md) *Juggernaut (3069)* 
 
 #### [Highlander](../../units/highlander.md) 
 

@@ -1570,6 +1570,19 @@
 - [**Blade BLD-XX**](../../units/blade/blade_bld-xx.md) *Striker (3087)* 
 - [**Blade BLD-XR**](../../units/blade/blade_bld-xr.md) *Sniper (3125)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -1886,6 +1899,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -2388,6 +2402,7 @@
 - [**Archer ARC-9W**](../../units/archer/archer_arc-9w.md) *Missile Boat (3078)* `ECM` , `Stealth` 
 - [**Archer ARC-4M2**](../../units/archer/archer_arc-4m2.md) *Missile Boat (3086)* 
 - [**Archer ARC-7C**](../../units/archer/archer_arc-7c.md) *Missile Boat (3119)* 
+- [**Archer ARC-9R**](../../units/archer/archer_arc-9r.md) *Missile Boat (3134)* `C3 Support` 
 
 #### [Avatar](../../units/avatar.md) 
 
@@ -2555,6 +2570,7 @@
 - [**Black Knight BLK-NT-3A**](../../units/black_knight/black_knight_blk-nt-3a.md) *Brawler (3095)* 
 - [**Black Knight BLK-NT-3B**](../../units/black_knight/black_knight_blk-nt-3b.md) *Brawler (3100)* 
 - [**Black Knight BLK-NT-4D**](../../units/black_knight/black_knight_blk-nt-4d.md) *Juggernaut (3127)* `ECM` 
+- [**Black Knight BL-18-KNT**](../../units/black_knight/black_knight_bl-18-knt.md) *Brawler (3130)* `Active Probe` 
 
 #### [Falconer](../../units/falconer.md) 
 
@@ -2661,6 +2677,7 @@
 - [**Tundra Wolf 2**](../../units/tundra_wolf/tundra_wolf_2.md) *Brawler (3076)* 
 - [**Tundra Wolf 3**](../../units/tundra_wolf/tundra_wolf_3.md) *Brawler (3076)* 
 - [**Tundra Wolf 4**](../../units/tundra_wolf/tundra_wolf_4.md) *Brawler (3077)* `ECM` 
+- [**Tundra Wolf 5**](../../units/tundra_wolf/tundra_wolf_5.md) *Juggernaut (3086)* 
 
 #### [War Dog](../../units/war_dog.md) 
 
@@ -2717,6 +2734,7 @@
 
 #### [Victor](../../units/victor.md) 
 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 

@@ -25,6 +25,7 @@
 ### Jihad 
 
 - Draconis Combine 
+- Fronc Reaches 
 - Lyran Alliance 
 - Mercenary 
 - Taurian Concordat 
@@ -32,17 +33,20 @@
 ### Early Republic 
 
 - Draconis Combine 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Mercenary 
 - Taurian Concordat 
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Mercenary 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Taurian Concordat 
 

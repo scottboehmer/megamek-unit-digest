@@ -502,6 +502,10 @@
 
 ### 30 Tons 
 
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
+
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -871,6 +875,7 @@
 - [**Cyclops CP-11-A**](../../units/cyclops/cyclops_cp-11-a.md) *Sniper (3045)* 
 - [**Cyclops CP-11-A-DC**](../../units/cyclops/cyclops_cp-11-a-dc.md) *Sniper (3045)* `Command Console` 
 - [**Cyclops CP-11-G**](../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
+- [**Cyclops CP-12-K**](../../units/cyclops/cyclops_cp-12-k.md) *Brawler (3059)* 
 
 #### [Emperor](../../units/emperor.md) 
 

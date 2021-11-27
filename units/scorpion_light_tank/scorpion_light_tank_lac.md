@@ -39,6 +39,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -61,6 +62,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -84,6 +86,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

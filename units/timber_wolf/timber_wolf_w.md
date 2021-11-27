@@ -30,6 +30,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 
@@ -44,10 +45,12 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Scorpion Empire 
 - Wolf's Dragoons 
 

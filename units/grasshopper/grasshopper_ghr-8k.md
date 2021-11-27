@@ -25,12 +25,15 @@
 ### Early Republic 
 
 - Draconis Combine 
+- Mercenary 
 
 ### Late Republic 
 
 - Draconis Combine 
+- Mercenary 
 
 ### Dark Ages 
 
 - Draconis Combine 
+- Mercenary 
 

@@ -24,6 +24,7 @@
 
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
+- Fronc Reaches 
 - Mercenary 
 - Oriente Protectorate 
 - Taurian Concordat 
@@ -33,6 +34,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
+- Fronc Reaches 
 - Mercenary 
 - Oriente Protectorate 
 - Taurian Concordat 
@@ -45,6 +47,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

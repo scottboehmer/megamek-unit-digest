@@ -208,6 +208,7 @@
 #### [J. Edgar Light Hover Tank](../../units/j._edgar_light_hover_tank.md) 
 
 - [**J. Edgar Light Hover Tank (Standard)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) *Scout (2722)* 
+- [**J. Edgar Light Hover Tank (Flamer)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) *Scout (2793)* 
 - [**J. Edgar Light Hover Tank (MG)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
 - [**J. Edgar Light Hover Tank (Kurita)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_kurita.md) *Striker (3053)* `C3 Support` 
 - [**J. Edgar Light Hover Tank (TAG)**](../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_tag.md) *Scout (3053)* `Active Probe` , `TAG` 
@@ -479,6 +480,7 @@
 #### [Daimyo HQ](../../units/daimyo_hq.md) 
 
 - [**Daimyo HQ 67-K**](../../units/daimyo_hq/daimyo_hq_67-k.md) *Scout (2781)* `Transport:4.0` 
+- [**Daimyo HQ 67-NC**](../../units/daimyo_hq/daimyo_hq_67-nc.md) *Undefined (2781)* `Transport:3.0` 
 - [**Daimyo HQ 67-K2**](../../units/daimyo_hq/daimyo_hq_67-k2.md) *Sniper (3067)* `Transport:4.0` 
 
 #### [JES I Tactical Missile Carrier](../../units/jes_i_tactical_missile_carrier.md) 
@@ -1135,6 +1137,19 @@
 
 - [**Arbiter ARB-001 SecurityMech**](../../units/arbiter/arbiter_arb-001_securitymech.md) *Sniper (3074)* `IndustrialMech` 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -1167,6 +1182,9 @@
 
 #### [Jenner IIC](../../units/jenner_iic.md) 
 
+- [**Jenner IIC (Standard)**](../../units/jenner_iic/jenner_iic_standard.md) *Striker (3042)* 
+- [**Jenner IIC 2**](../../units/jenner_iic/jenner_iic_2.md) *Striker (3044)* 
+- [**Jenner IIC 3**](../../units/jenner_iic/jenner_iic_3.md) *Striker (3048)* 
 - [**Jenner IIC 4**](../../units/jenner_iic/jenner_iic_4.md) *Striker (3061)* 
 - [**Jenner IIC 5**](../../units/jenner_iic/jenner_iic_5.md) *Striker (3140)* `Active Probe` 
 
@@ -1378,6 +1396,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -1965,6 +1984,7 @@
 
 #### [Victor](../../units/victor.md) 
 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-Cr**](../../units/victor/victor_vtr-cr.md) *Skirmisher (3069)* `C3 Support` 

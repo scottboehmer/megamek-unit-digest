@@ -24,10 +24,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Lyran Alliance 
-
 ### Early Republic 
 
 - Lyran Commonwealth 

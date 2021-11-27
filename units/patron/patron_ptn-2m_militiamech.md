@@ -19,15 +19,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Rim Commonality 
-
 ### Early Republic 
 
 - Capellan Confederation 

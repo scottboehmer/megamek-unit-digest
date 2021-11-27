@@ -447,10 +447,6 @@
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
 
-#### [Copper](../../units/copper.md) 
-
-- [**Copper CPK-65 SecurityMech**](../../units/copper/copper_cpk-65_securitymech.md) *Ambusher (3065)* `IndustrialMech` 
-
 #### [Crimson Hawk](../../units/crimson_hawk.md) 
 
 - [**Crimson Hawk (Standard)**](../../units/crimson_hawk/crimson_hawk_standard.md) *Sniper (3071)* 
@@ -672,6 +668,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 8**](../../units/shadow_hawk_iic/shadow_hawk_iic_8.md) *Missile Boat (3081)* `ECM` 
 
 ### 50 Tons 

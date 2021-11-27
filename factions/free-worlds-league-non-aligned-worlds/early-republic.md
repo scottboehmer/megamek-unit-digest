@@ -196,6 +196,10 @@
 - [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* `TAG` 
 - [**Cavalry Attack Helicopter (Infantry)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) *Striker (3063)* `Transport:3.5` 
 
+#### [Desert Scorpion Light Tank](../../units/desert_scorpion_light_tank.md) 
+
+- [**Desert Scorpion Light Tank (Standard)**](../../units/desert_scorpion_light_tank/desert_scorpion_light_tank_standard.md) *Undefined (3055)* 
+
 #### [DI Multipurpose VTOL](../../units/di_multipurpose_vtol.md) 
 
 - [**DI Multipurpose VTOL (Gunship)**](../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
@@ -984,6 +988,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -1375,6 +1380,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 

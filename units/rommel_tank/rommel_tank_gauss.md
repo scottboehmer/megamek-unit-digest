@@ -51,6 +51,7 @@
 - Clan Wolf-in-Exile 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 
@@ -63,6 +64,7 @@
 - Clan Wolf-in-Exile 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
@@ -75,6 +77,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 

@@ -30,6 +30,7 @@
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Raven Alliance 
@@ -37,6 +38,7 @@
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Raven Alliance 

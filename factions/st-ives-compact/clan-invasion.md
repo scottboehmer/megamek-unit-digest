@@ -551,6 +551,10 @@
 
 ### 30 Tons 
 
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
+
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -737,6 +741,7 @@
 #### [Dervish](../../units/dervish.md) 
 
 - [**Dervish DV-6M**](../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-7D**](../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 
 #### [Griffin](../../units/griffin.md) 
 

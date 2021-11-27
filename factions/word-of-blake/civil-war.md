@@ -1033,7 +1033,6 @@
 
 #### [Trebuchet](../../units/trebuchet.md) 
 
-- [**Trebuchet TBT-3C**](../../units/trebuchet/trebuchet_tbt-3c.md) *Missile Boat (2780)* 
 - [**Trebuchet TBT-5N**](../../units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
 - [**Trebuchet TBT-5S**](../../units/trebuchet/trebuchet_tbt-5s.md) *Skirmisher (2864)* 
 - [**Trebuchet TBT-7M**](../../units/trebuchet/trebuchet_tbt-7m.md) *Missile Boat (3048)* 
@@ -1441,6 +1440,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Zeus](../../units/zeus.md) 
 

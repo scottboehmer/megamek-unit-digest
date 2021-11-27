@@ -23,7 +23,6 @@
 ### Jihad 
 
 - Lyran Alliance 
-- Word of Blake 
 
 ### Early Republic 
 

@@ -26,10 +26,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Draconis Combine 
-
 ### Early Republic 
 
 - Draconis Combine 

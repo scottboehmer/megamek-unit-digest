@@ -91,6 +91,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -107,6 +108,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Pirate 
@@ -115,6 +117,7 @@
 ### Dark Ages 
 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Pirate 

@@ -890,6 +890,7 @@
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
+- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 

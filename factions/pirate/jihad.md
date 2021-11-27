@@ -398,6 +398,10 @@
 - [**Demolisher Heavy Tank (Defensive)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -456,10 +460,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -514,7 +514,6 @@
 - [**Brigand LDT-XPR4**](../../units/brigand/brigand_ldt-xpr4.md) *Striker (3076)* 
 - [**Brigand LDT-XPR5**](../../units/brigand/brigand_ldt-xpr5.md) *Striker (3076)* 
 - [**Brigand LDT-X4**](../../units/brigand/brigand_ldt-x4.md) *Striker (3078)* 
-- [**Brigand LDT-5**](../../units/brigand/brigand_ldt-5.md) *Striker (3083)* 
 
 #### [CattleMaster](../../units/cattlemaster.md) 
 

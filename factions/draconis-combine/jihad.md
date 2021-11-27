@@ -410,6 +410,7 @@
 #### [Daimyo HQ](../../units/daimyo_hq.md) 
 
 - [**Daimyo HQ 67-K**](../../units/daimyo_hq/daimyo_hq_67-k.md) *Scout (2781)* `Transport:4.0` 
+- [**Daimyo HQ 67-NC**](../../units/daimyo_hq/daimyo_hq_67-nc.md) *Undefined (2781)* `Transport:3.0` 
 - [**Daimyo HQ 67-K2**](../../units/daimyo_hq/daimyo_hq_67-k2.md) *Sniper (3067)* `Transport:4.0` 
 
 #### [Drillson Heavy Hover Tank](../../units/drillson_heavy_hover_tank.md) 
@@ -711,10 +712,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -787,7 +784,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -842,6 +838,10 @@
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Copperhead](../../units/copperhead.md) 
 
@@ -1378,7 +1378,6 @@
 - [**Wolverine WVR-8C**](../../units/wolverine/wolverine_wvr-8c.md) *Skirmisher (3067)* `C3 Support` 
 - [**Wolverine WVR-7M2**](../../units/wolverine/wolverine_wvr-7m2.md) *Skirmisher (3072)* 
 - [**Wolverine WVR-9K**](../../units/wolverine/wolverine_wvr-9k.md) *Skirmisher (3074)* `C3 Support` 
-- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
 
 #### [Wolverine II](../../units/wolverine_ii.md) 
 
@@ -1837,6 +1836,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-Cr**](../../units/victor/victor_vtr-cr.md) *Skirmisher (3069)* `C3 Support` 
@@ -1916,7 +1916,6 @@
 - [**Akuma AKU-1XJ**](../../units/akuma/akuma_aku-1xj.md) *Juggernaut (3064)* 
 - [**Akuma AKU-2X**](../../units/akuma/akuma_aku-2x.md) *Juggernaut (3071)* `C3 Support` 
 - [**Akuma AKU-2XC**](../../units/akuma/akuma_aku-2xc.md) *Juggernaut (3077)* `C3 Support` , `ECM` 
-- [**Akuma AKU-2XK**](../../units/akuma/akuma_aku-2xk.md) *Juggernaut (3083)* `C3 Support` , `ECM` 
 
 #### [Banzai](../../units/banzai.md) 
 

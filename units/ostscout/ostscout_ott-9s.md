@@ -62,6 +62,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
 - Oriente Protectorate 

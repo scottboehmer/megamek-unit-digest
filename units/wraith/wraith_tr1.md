@@ -42,6 +42,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Word of Blake 
@@ -53,6 +54,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -66,6 +68,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -80,6 +83,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 

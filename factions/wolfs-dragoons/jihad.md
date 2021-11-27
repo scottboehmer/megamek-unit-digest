@@ -855,7 +855,6 @@
 - [**Wolfhound WLF-2**](../../units/wolfhound/wolfhound_wlf-2.md) *Striker (3052)* 
 - [**Wolfhound WLF-4W**](../../units/wolfhound/wolfhound_wlf-4w.md) *Sniper (3069)* 
 - [**Wolfhound WLF-4WA**](../../units/wolfhound/wolfhound_wlf-4wa.md) *Sniper (3071)* `ECM` 
-- [**Wolfhound WLF-2H**](../../units/wolfhound/wolfhound_wlf-2h.md) *Striker (3082)* 
 
 ### 40 Tons 
 
@@ -1093,6 +1092,7 @@
 
 #### [Hoplite](../../units/hoplite.md) 
 
+- [**Hoplite HOP-4D**](../../units/hoplite/hoplite_hop-4d.md) *Sniper (3050)* 
 - [**Hoplite C**](../../units/hoplite/hoplite_c.md) *Brawler (3052)* 
 - [**Hoplite HOP-4X**](../../units/hoplite/hoplite_hop-4x.md) *Sniper (3075)* `Active Probe` 
 
@@ -1303,6 +1303,15 @@
 
 - [**Avatar AV1-O**](../../units/avatar/avatar_av1-o.md) *Brawler (3056)* 
 - [**Avatar AV1-OA**](../../units/avatar/avatar_av1-oa.md) *Brawler (3056)* 
+- [**Avatar AV1-OB**](../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
+- [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OG**](../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OR**](../../units/avatar/avatar_av1-or.md) *Brawler (3059)* 
+- [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
+- [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
+- [**Avatar AV1-OH**](../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
+- [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OI**](../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 
 #### [Caesar](../../units/caesar.md) 
 
@@ -1479,6 +1488,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 
 - [**Victor VTR-9Ka**](../../units/victor/victor_vtr-9ka.md) *Skirmisher (3076)* 
@@ -1538,6 +1548,7 @@
 - [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
 - [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
 - [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
+- [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
 - [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 

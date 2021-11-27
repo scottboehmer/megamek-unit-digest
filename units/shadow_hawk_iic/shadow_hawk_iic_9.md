@@ -24,6 +24,7 @@
 
 ### Dark Ages 
 
-- Mercenary 
+- Free Worlds League 
+- Pirate 
 - Republic of the Sphere 
 

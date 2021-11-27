@@ -18,7 +18,7 @@
 
 ## Availability 
 
-### Star League 
+### Star League (Unique) 
 
 - Rim Worlds Republic - Terran Corps 
 

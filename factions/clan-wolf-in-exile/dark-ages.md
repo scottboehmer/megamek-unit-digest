@@ -779,6 +779,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 8**](../../units/shadow_hawk_iic/shadow_hawk_iic_8.md) *Missile Boat (3081)* `ECM` 
 
 #### [Violator](../../units/violator.md) 

@@ -443,6 +443,10 @@
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Arrow IV)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) *Missile Boat (3062)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -508,10 +512,6 @@
 ## ’Mechs 
 
 ### 15 Tons 
-
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
 
 #### [Guard](../../units/guard.md) 
 
@@ -789,7 +789,6 @@
 - [**Trebuchet TBT-5N**](../../units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
 - [**Trebuchet TBT-5S**](../../units/trebuchet/trebuchet_tbt-5s.md) *Skirmisher (2864)* 
 - [**Trebuchet TBT-7M**](../../units/trebuchet/trebuchet_tbt-7m.md) *Missile Boat (3048)* 
-- [**Trebuchet TBT-XK7**](../../units/trebuchet/trebuchet_tbt-xk7.md) *Skirmisher (3081)* `Unique` 
 
 ### 55 Tons 
 
@@ -811,7 +810,6 @@
 #### [Griffin](../../units/griffin.md) 
 
 - [**Griffin GRF-1N**](../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
-- [**Griffin GRF-4N**](../../units/griffin/griffin_grf-4n.md) *Striker (3083)* 
 
 #### [Lineholder](../../units/lineholder.md) 
 
@@ -866,7 +864,6 @@
 - [**Ostroc OSR-3C**](../../units/ostroc/ostroc_osr-3c.md) *Skirmisher (2876)* 
 - [**Ostroc OSR-2D**](../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 - [**Ostroc OSR-4C**](../../units/ostroc/ostroc_osr-4c.md) *Skirmisher (3066)* 
-- [**Ostroc OSR-5C**](../../units/ostroc/ostroc_osr-5c.md) *Skirmisher (3082)* 
 
 #### [Ostsol](../../units/ostsol.md) 
 

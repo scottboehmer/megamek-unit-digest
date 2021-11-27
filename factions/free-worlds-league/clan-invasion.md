@@ -160,6 +160,10 @@
 - [**Cavalry Attack Helicopter (SRM)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_srm.md) *Striker (3055)* 
 - [**Cavalry Attack Helicopter (TAG)**](../../units/cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) *Missile Boat (3059)* `TAG` 
 
+#### [Desert Scorpion Light Tank](../../units/desert_scorpion_light_tank.md) 
+
+- [**Desert Scorpion Light Tank (Standard)**](../../units/desert_scorpion_light_tank/desert_scorpion_light_tank_standard.md) *Undefined (3055)* 
+
 #### [Harasser Laser Platform](../../units/harasser_laser_platform.md) 
 
 - [**Harasser Laser Platform (Standard)**](../../units/harasser_laser_platform/harasser_laser_platform_standard.md) *Scout (2957)* 
@@ -566,6 +570,10 @@
 - [**Tarantula ZPH-2A**](../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 
 ### 30 Tons 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 

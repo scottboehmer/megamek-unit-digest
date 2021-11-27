@@ -26,12 +26,15 @@
 ### Late Republic 
 
 - Clan Hell's Horses 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Scorpion Empire 
 

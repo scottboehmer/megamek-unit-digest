@@ -19,10 +19,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Marian Hegemony 
-
 ### Early Republic 
 
 - Marian Hegemony 

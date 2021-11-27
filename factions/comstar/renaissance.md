@@ -54,6 +54,7 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Hover Scout](../../units/hover_scout.md) 
 
@@ -518,6 +519,7 @@
 
 #### [Carbine](../../units/carbine.md) 
 
+- [**Carbine CON-1 ConstructionMech**](../../units/carbine/carbine_con-1_constructionmech.md) *Ambusher (2691)* `IndustrialMech` 
 - [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
@@ -662,7 +664,6 @@
 
 #### [Trebuchet](../../units/trebuchet.md) 
 
-- [**Trebuchet TBT-3C**](../../units/trebuchet/trebuchet_tbt-3c.md) *Missile Boat (2780)* 
 - [**Trebuchet TBT-5N**](../../units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
 - [**Trebuchet TBT-5S**](../../units/trebuchet/trebuchet_tbt-5s.md) *Skirmisher (2864)* 
 

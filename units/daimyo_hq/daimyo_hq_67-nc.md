@@ -20,5 +20,35 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Succession Wars - LosTech 
+
+- Draconis Combine 
+
+### Late Succession Wars - Renaissance 
+
+- Draconis Combine 
+
+### Clan Invasion 
+
+- Draconis Combine 
+
+### Civil War 
+
+- Draconis Combine 
+
+### Jihad 
+
+- Draconis Combine 
+
+### Early Republic 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
 

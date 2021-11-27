@@ -27,11 +27,7 @@
 
 - Rasalhague Dominion 
 
-### Late Republic 
-
-- Rasalhague Dominion 
-
-### Dark Ages (Unique) 
+### Late Republic (Unique) 
 
 - Rasalhague Dominion 
 

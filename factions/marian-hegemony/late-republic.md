@@ -649,6 +649,7 @@
 
 - [**Javelin JVN-10N**](../../units/javelin/javelin_jvn-10n.md) *Striker (2751)* 
 - [**Javelin JVN-10A**](../../units/javelin/javelin_jvn-10a.md) *Striker (2752)* 
+- [**Javelin JVN-10P**](../../units/javelin/javelin_jvn-10p.md) *Striker (3049)* 
 
 #### [Razorback](../../units/razorback.md) 
 
@@ -709,10 +710,6 @@
 
 - [**StrongArm SC CV ConstructionMech**](../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
-
-#### [Toro](../../units/toro.md) 
-
-- [**Toro TR-A-1**](../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
 
 #### [Wolfhound](../../units/wolfhound.md) 
 
@@ -805,6 +802,11 @@
 - [**Quasit QUA-51T MilitiaMech**](../../units/quasit/quasit_qua-51t_militiamech.md) *Brawler (2517)* `IndustrialMech` 
 - [**Quasit QUA-51M MilitiaMech**](../../units/quasit/quasit_qua-51m_militiamech.md) *Brawler (3073)* `IndustrialMech` 
 - [**Quasit QUA-51P MilitiaMech**](../../units/quasit/quasit_qua-51p_militiamech.md) *Scout (3074)* `IndustrialMech` 
+
+#### [Vindicator](../../units/vindicator.md) 
+
+- [**Vindicator VND-1R**](../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
+- [**Vindicator VND-3L**](../../units/vindicator/vindicator_vnd-3l.md) *Brawler (3051)* 
 
 ### 50 Tons 
 
@@ -905,7 +907,6 @@
 
 - [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
-- [**Marshal MHL-6FR**](../../units/marshal/marshal_mhl-6fr.md) *Skirmisher (3086)* 
 
 #### [Scorpion](../../units/scorpion.md) 
 
@@ -1034,6 +1035,7 @@
 
 #### [Cataphract](../../units/cataphract.md) 
 
+- [**Cataphract CTF-1X**](../../units/cataphract/cataphract_ctf-1x.md) *Brawler (3025)* 
 - [**Cataphract CTF-3D**](../../units/cataphract/cataphract_ctf-3d.md) *Sniper (3050)* 
 
 #### [Grasshopper](../../units/grasshopper.md) 

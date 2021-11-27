@@ -26,18 +26,21 @@
 
 ### Jihad 
 
+- Fronc Reaches 
 - Lyran Alliance 
 - Mercenary 
 - Taurian Concordat 
 
 ### Early Republic 
 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Mercenary 
 - Taurian Concordat 
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 

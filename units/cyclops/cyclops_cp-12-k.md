@@ -26,11 +26,13 @@
 
 - Draconis Combine 
 - Mercenary 
+- Second Star League 
 
 ### Civil War 
 
 - Draconis Combine 
 - Mercenary 
+- Second Star League 
 
 ### Jihad 
 

@@ -55,6 +55,7 @@
 - Circinus Federation 
 - Draconis Combine 
 - Federated Suns 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -72,6 +73,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -86,6 +88,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -100,6 +103,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

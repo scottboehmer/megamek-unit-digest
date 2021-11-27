@@ -24,6 +24,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Regulan Fiefs 
@@ -32,6 +33,7 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Regulan Fiefs 
@@ -41,6 +43,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

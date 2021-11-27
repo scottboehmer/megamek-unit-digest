@@ -124,6 +124,8 @@
 - Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
 - Free Rasalhague Republic 
 - Word of Blake 
 
@@ -147,7 +149,10 @@
 - Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
 - Free Rasalhague Republic 
+- Lyran Alliance 
 - Word of Blake 
 
 ### Jihad 
@@ -173,7 +178,9 @@
 - ComStar 
 - Draconis Combine 
 - Escorpión Imperio 
+- Federated Suns 
 - Free Rasalhague Republic 
+- Lyran Alliance 
 - Society 
 - Word of Blake 
 

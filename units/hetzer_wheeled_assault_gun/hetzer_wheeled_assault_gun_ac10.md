@@ -106,6 +106,7 @@
 - Escorpión Imperio 
 - Federated Suns 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -122,6 +123,7 @@
 - Escorpión Imperio 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -139,6 +141,7 @@
 - Escorpión Imperio 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -157,6 +160,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

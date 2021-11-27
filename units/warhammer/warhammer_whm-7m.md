@@ -71,6 +71,7 @@
 - Draconis Combine 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -90,6 +91,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -109,6 +111,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -129,13 +132,11 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Pirate 
-- Regulan Fiefs 
 - Rim Commonality 
 - Taurian Concordat 
 

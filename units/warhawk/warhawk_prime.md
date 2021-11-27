@@ -154,33 +154,14 @@
 
 ### Early Republic 
 
-- Clan Diamond Shark 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
 - Escorpión Imperio 
-- Mercenary 
-- Rasalhague Dominion 
-- Raven Alliance 
 
 ### Late Republic 
 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
 - Escorpión Imperio 
-- Mercenary 
-- Rasalhague Dominion 
-- Raven Alliance 
 
 ### Dark Ages 
 
-- Clan Jade Falcon 
-- Clan Sea Fox 
-- Clan Wolf 
 - Escorpión Imperio 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Scorpion Empire 
 

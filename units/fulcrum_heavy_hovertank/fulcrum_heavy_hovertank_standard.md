@@ -57,6 +57,7 @@
 - Calderon Protectorate 
 - Circinus Federation 
 - Federated Suns 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -72,6 +73,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -88,6 +90,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -105,6 +108,7 @@
 - Clan Jade Falcon 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

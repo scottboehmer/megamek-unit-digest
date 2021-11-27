@@ -78,6 +78,7 @@
 ### Civil War 
 
 - Capellan Confederation 
+- Circinus Federation 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -85,21 +86,35 @@
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Outworlds Alliance 
+- Pirate 
 - Second Star League 
 - St. Ives Compact 
+- Taurian Concordat 
 - Word of Blake 
 
 ### Jihad 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Circinus Federation 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
 - Word of Blake 
 
 ### Early Republic 
@@ -110,6 +125,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
@@ -128,6 +144,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
@@ -147,6 +164,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

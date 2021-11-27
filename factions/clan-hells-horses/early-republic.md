@@ -475,10 +475,6 @@
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
 
-#### [Copper](../../units/copper.md) 
-
-- [**Copper CPK-65 SecurityMech**](../../units/copper/copper_cpk-65_securitymech.md) *Ambusher (3065)* `IndustrialMech` 
-
 #### [Fire Falcon](../../units/fire_falcon.md) 
 
 - [**Fire Falcon Prime**](../../units/fire_falcon/fire_falcon_prime.md) *Striker (3052)* 
@@ -636,6 +632,19 @@
 - [**Adder E**](../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -737,6 +746,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 6**](../../units/shadow_hawk_iic/shadow_hawk_iic_6.md) *Striker (3069)* 
 
 #### [Wyvern IIC](../../units/wyvern_iic.md) 

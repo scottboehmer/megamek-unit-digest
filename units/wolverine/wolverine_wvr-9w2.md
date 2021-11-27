@@ -25,10 +25,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Draconis Combine 
-
 ### Early Republic 
 
 - Capellan Confederation 

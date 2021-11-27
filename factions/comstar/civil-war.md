@@ -652,10 +652,6 @@
 - [**Mist Lynx P**](../../units/mist_lynx/mist_lynx_p.md) *Scout (3061)* `Active Probe` 
 - [**Mist Lynx F**](../../units/mist_lynx/mist_lynx_f.md) *Scout (3063)* `Active Probe` , `ECM` , `TAG` 
 
-#### [Mongoose](../../units/mongoose.md) 
-
-- [**Mongoose MON-66**](../../units/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe` 
-
 #### [Nexus](../../units/nexus.md) 
 
 - [**Nexus NXS1-A**](../../units/nexus/nexus_nxs1-a.md) *Striker (3054)* 
@@ -692,6 +688,10 @@
 - [**Arctic Cheetah C**](../../units/arctic_cheetah/arctic_cheetah_c.md) *Striker (3037)* `Active Probe` 
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 
@@ -1274,6 +1274,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Zeus](../../units/zeus.md) 
 

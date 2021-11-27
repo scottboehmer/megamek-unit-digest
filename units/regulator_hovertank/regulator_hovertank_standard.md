@@ -33,6 +33,7 @@
 
 - Capellan Confederation 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -42,6 +43,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
@@ -55,6 +57,7 @@
 - Clan Sea Fox 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
@@ -71,6 +74,7 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 

@@ -29,6 +29,7 @@
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
@@ -41,6 +42,7 @@
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
@@ -51,6 +53,8 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Raven Alliance 
 - Republic of the Sphere 
+- Scorpion Empire 
 

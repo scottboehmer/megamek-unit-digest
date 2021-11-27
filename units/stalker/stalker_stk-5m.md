@@ -105,6 +105,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -119,10 +120,18 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 - Taurian Concordat 
 

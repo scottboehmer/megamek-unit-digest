@@ -644,10 +644,6 @@
 
 - [**Celerity CLR-02-X-D**](../../units/celerity/celerity_clr-02-x-d.md) *Scout (3052)* `C3i` , `Drone` 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -718,7 +714,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -735,7 +730,6 @@
 
 #### [Mongoose](../../units/mongoose.md) 
 
-- [**Mongoose MON-66**](../../units/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe` 
 - [**Mongoose MON-76**](../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
 - [**Mongoose MON-86**](../../units/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe` 
 
@@ -778,6 +772,10 @@
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 
@@ -1444,6 +1442,7 @@
 - [**Victor VTR-9A**](../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 

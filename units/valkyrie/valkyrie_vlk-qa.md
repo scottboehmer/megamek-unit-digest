@@ -68,6 +68,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
@@ -79,6 +80,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -87,6 +89,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -94,6 +97,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Pirate 
 - Taurian Concordat 
 

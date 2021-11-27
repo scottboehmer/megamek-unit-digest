@@ -21,6 +21,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -30,6 +31,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -42,6 +44,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -54,6 +57,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

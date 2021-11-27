@@ -27,12 +27,15 @@
 ### Early Republic 
 
 - Clan Wolf 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Clan Wolf 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Wolf 
+- Republic of the Sphere 
 

@@ -458,10 +458,6 @@
 - [**Incubus 4**](../../units/incubus/incubus_4.md) *Striker (3065)* 
 - [**Incubus 5**](../../units/incubus/incubus_5.md) *Striker (3065)* 
 
-#### [Incubus II](../../units/incubus_ii.md) 
-
-- [**Incubus II (Standard)**](../../units/incubus_ii/incubus_ii_standard.md) *Striker (3085)* `Active Probe` 
-
 #### [Kit Fox](../../units/kit_fox.md) 
 
 - [**Kit Fox Prime**](../../units/kit_fox/kit_fox_prime.md) *Sniper (2890)* 
@@ -518,10 +514,6 @@
 #### [Ostscout](../../units/ostscout.md) 
 
 - [**Ostscout OTT-7Jb**](../../units/ostscout/ostscout_ott-7jb.md) *Scout (2600)* `Active Probe` 
-
-#### [Parash](../../units/parash.md) 
-
-- [**Parash 3**](../../units/parash/parash_3.md) *Striker (3083)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Talon](../../units/talon.md) 
 

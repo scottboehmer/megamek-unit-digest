@@ -27,8 +27,8 @@
 
 ### Early Succession Wars 
 
-- Capellan Confederation 
+- Draconis Combine 
 - Federated Suns 
-- Free Worlds League 
+- Lyran Commonwealth 
 - Star League-in-Exile 
 

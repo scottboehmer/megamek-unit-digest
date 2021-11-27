@@ -540,7 +540,6 @@
 - [**Grendel E**](../../units/grendel/grendel_e.md) *Striker (3061)* 
 - [**Grendel H**](../../units/grendel/grendel_h.md) *Striker (3064)* 
 - [**Grendel F**](../../units/grendel/grendel_f.md) *Striker (3069)* 
-- [**Grendel M**](../../units/grendel/grendel_m.md) *Striker (3086)* 
 
 #### [Ice Ferret](../../units/ice_ferret.md) 
 
@@ -997,8 +996,6 @@
 
 - [**Mad Cat Mk II (Standard)**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_standard.md) *Brawler (3062)* 
 - [**Mad Cat Mk II 2**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
-- [**Mad Cat Mk II 3**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_3.md) *Brawler (3082)* `Active Probe` 
-- [**Mad Cat Mk II Enhanced**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_enhanced.md) *Sniper (3083)* 
 
 #### [Supernova](../../units/supernova.md) 
 
@@ -1057,10 +1054,6 @@
 #### [Imp](../../units/imp.md) 
 
 - [**Imp C**](../../units/imp/imp_c.md) *Juggernaut (2863)* 
-
-#### [Kodiak](../../units/kodiak.md) 
-
-- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
 
 #### [Pillager](../../units/pillager.md) 
 

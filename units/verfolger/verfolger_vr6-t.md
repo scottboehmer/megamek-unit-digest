@@ -23,11 +23,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Kell Hounds 
-- Mercenary 
-
 ### Early Republic 
 
 - Kell Hounds 

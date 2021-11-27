@@ -479,6 +479,7 @@
 #### [Ostscout](../../units/ostscout.md) 
 
 - [**Ostscout OTT-7Jb**](../../units/ostscout/ostscout_ott-7jb.md) *Scout (2600)* `Active Probe` 
+- [**Ostscout OTT-10CS**](../../units/ostscout/ostscout_ott-10cs.md) *Scout (3071)* `C3i` 
 
 #### [Talon](../../units/talon.md) 
 
@@ -538,10 +539,6 @@
 #### [Beowulf](../../units/beowulf.md) 
 
 - [**Beowulf BEO-12**](../../units/beowulf/beowulf_beo-12.md) *Skirmisher (3059)* `Active Probe` , `TAG` 
-
-#### [Beowulf IIC](../../units/beowulf_iic.md) 
-
-- [**Beowulf IIC (Standard)**](../../units/beowulf_iic/beowulf_iic_standard.md) *Scout (3084)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Great Wyrm](../../units/great_wyrm.md) 
 
@@ -923,6 +920,10 @@
 
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
+
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 

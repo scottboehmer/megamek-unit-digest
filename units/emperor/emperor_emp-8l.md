@@ -23,10 +23,6 @@
 
 ## Availability 
 
-### Late Republic 
-
-- Capellan Confederation 
-
 ### Dark Ages 
 
 - Capellan Confederation 

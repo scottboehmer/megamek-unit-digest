@@ -383,6 +383,10 @@
 - [**Demolisher Heavy Tank (Defensive)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -497,6 +501,7 @@
 - [**Javelin JVN-10N**](../../units/javelin/javelin_jvn-10n.md) *Striker (2751)* 
 - [**Javelin JVN-10A**](../../units/javelin/javelin_jvn-10a.md) *Striker (2752)* 
 - [**Javelin JVN-10F 'Fire Javelin'**](../../units/javelin/javelin_jvn-10f_fire_javelin.md) *Striker (2819)* 
+- [**Javelin JVN-10P**](../../units/javelin/javelin_jvn-10p.md) *Striker (3049)* 
 
 #### [Spider](../../units/spider.md) 
 
@@ -545,6 +550,10 @@
 
 - [**Cicada CDA-2A**](../../units/cicada/cicada_cda-2a.md) *Scout (2740)* 
 
+#### [Clint](../../units/clint.md) 
+
+- [**Clint CLNT-2-3T**](../../units/clint/clint_clnt-2-3t.md) *Striker (2608)* 
+
 #### [Hermes II](../../units/hermes_ii.md) 
 
 - [**Hermes II HER-2S**](../../units/hermes_ii/hermes_ii_her-2s.md) *Scout (2798)* 
@@ -579,6 +588,11 @@
 #### [Quasit](../../units/quasit.md) 
 
 - [**Quasit QUA-51T MilitiaMech**](../../units/quasit/quasit_qua-51t_militiamech.md) *Brawler (2517)* `IndustrialMech` 
+
+#### [Vindicator](../../units/vindicator.md) 
+
+- [**Vindicator VND-1R**](../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
+- [**Vindicator VND-3L**](../../units/vindicator/vindicator_vnd-3l.md) *Brawler (3051)* 
 
 ### 50 Tons 
 
@@ -664,6 +678,7 @@
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2C**](../../units/ostroc/ostroc_osr-2c.md) *Skirmisher (2511)* 
+- [**Ostroc OSR-3C**](../../units/ostroc/ostroc_osr-3c.md) *Skirmisher (2876)* 
 - [**Ostroc OSR-2D**](../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 
 #### [Ostsol](../../units/ostsol.md) 
@@ -700,6 +715,10 @@
 
 - [**JagerMech JM6-S**](../../units/jagermech/jagermech_jm6-s.md) *Sniper (2774)* 
 - [**JagerMech JM6-H**](../../units/jagermech/jagermech_jm6-h.md) *Brawler (3064)* 
+
+#### [Tempest](../../units/tempest.md) 
+
+- [**Tempest TMP-3M**](../../units/tempest/tempest_tmp-3m.md) *Brawler (3055)* 
 
 #### [Thunderbolt](../../units/thunderbolt.md) 
 
@@ -756,6 +775,7 @@
 - [**Orion ON1-V**](../../units/orion/orion_on1-v.md) *Brawler (2799)* 
 - [**Orion ON1-M**](../../units/orion/orion_on1-m.md) *Brawler (3049)* 
 - [**Orion ON1-MA**](../../units/orion/orion_on1-ma.md) *Brawler (3052)* 
+- [**Orion ON2-M**](../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 
 #### [Stalker](../../units/stalker.md) 
 
@@ -789,6 +809,7 @@
 #### [Zeus](../../units/zeus.md) 
 
 - [**Zeus ZEU-6S**](../../units/zeus/zeus_zeu-6s.md) *Sniper (2898)* 
+- [**Zeus ZEU-9S**](../../units/zeus/zeus_zeu-9s.md) *Sniper (3048)* 
 
 ### 85 Tons 
 
@@ -820,6 +841,7 @@
 #### [Banshee](../../units/banshee.md) 
 
 - [**Banshee BNC-3E**](../../units/banshee/banshee_bnc-3e.md) *Sniper (2475)* 
+- [**Banshee BNC-3M**](../../units/banshee/banshee_bnc-3m.md) *Brawler (2579)* 
 
 #### [Cerberus](../../units/cerberus.md) 
 

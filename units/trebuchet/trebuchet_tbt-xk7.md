@@ -26,10 +26,6 @@
 
 ## Availability 
 
-### Jihad (Unique) 
-
-- Taurian Concordat 
-
 ### Early Republic (Unique) 
 
 - Taurian Concordat 

@@ -134,6 +134,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -162,6 +163,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -195,6 +197,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -229,6 +232,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

@@ -36,9 +36,11 @@
 
 ### Jihad 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Early Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 

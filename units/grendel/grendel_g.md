@@ -27,6 +27,7 @@
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Escorpión Imperio 
 - Raven Alliance 
 
 ### Late Republic 
@@ -34,6 +35,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
+- Escorpión Imperio 
 - Raven Alliance 
 
 ### Dark Ages 
@@ -41,5 +43,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
+- Escorpión Imperio 
 - Raven Alliance 
+- Scorpion Empire 
 

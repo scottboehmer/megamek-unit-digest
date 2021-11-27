@@ -33,26 +33,12 @@
 - Free Worlds League 
 - Star League-in-Exile 
 
-### Late Succession Wars - LosTech 
-
-- ComStar 
-
-### Late Succession Wars - Renaissance 
-
-- ComStar 
-
-### Clan Invasion 
-
-- Word of Blake 
-
-### Civil War 
-
-- Word of Blake 
-
 ### Jihad 
 
 - Free Worlds League 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Regulan Fiefs 
 - Word of Blake 
 
 ### Early Republic 

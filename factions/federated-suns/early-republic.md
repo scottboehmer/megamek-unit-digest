@@ -1339,6 +1339,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -1782,6 +1783,7 @@
 - [**Warhammer WHM-8D**](../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
 - [**Warhammer WHM-9D**](../../units/warhammer/warhammer_whm-9d.md) *Sniper (3067)* 
 - [**Warhammer WHM-10T**](../../units/warhammer/warhammer_whm-10t.md) *Skirmisher (3073)* 
+- [**Warhammer WHM-8K**](../../units/warhammer/warhammer_whm-8k.md) *Sniper (3073)* `C3 Support` 
 - [**Warhammer WHM-8D2**](../../units/warhammer/warhammer_whm-8d2.md) *Brawler (3087)* `C3 Support` 
 
 ### 75 Tons 
@@ -1907,6 +1909,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9D**](../../units/victor/victor_vtr-9d.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 

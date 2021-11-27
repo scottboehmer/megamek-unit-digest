@@ -27,6 +27,7 @@
 - Capellan Confederation 
 - Circinus Federation 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -43,6 +44,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -58,6 +60,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -74,6 +77,7 @@
 - Duchy of Andurien 
 - Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

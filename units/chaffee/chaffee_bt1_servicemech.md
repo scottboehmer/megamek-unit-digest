@@ -21,25 +21,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Calderon Protectorate 
-- Capellan Confederation 
-- Circinus Federation 
-- ComStar 
-- Draconis Combine 
-- Federated Suns 
-- Filtvelt Coalition 
-- Free Rasalhague Republic 
-- Free Worlds League 
-- Lyran Alliance 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Outworlds Alliance 
-- Pirate 
-- Taurian Concordat 
-- Word of Blake 
-
 ### Early Republic 
 
 - Calderon Protectorate 
@@ -50,6 +31,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -71,6 +53,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -93,6 +76,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

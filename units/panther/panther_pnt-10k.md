@@ -52,6 +52,7 @@
 
 - Draconis Combine 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -60,12 +61,14 @@
 
 - Draconis Combine 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Mercenary 
 - Pirate 
 

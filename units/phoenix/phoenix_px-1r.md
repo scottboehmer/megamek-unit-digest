@@ -22,6 +22,7 @@
 
 ### Jihad 
 
+- Fronc Reaches 
 - Lyran Alliance 
 - Mercenary 
 - Taurian Concordat 
@@ -30,6 +31,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -39,6 +41,7 @@
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Mercenary 
 - Pirate 
@@ -46,6 +49,7 @@
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Pirate 
 - Taurian Concordat 
 

@@ -44,6 +44,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 

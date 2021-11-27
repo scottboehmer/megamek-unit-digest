@@ -316,10 +316,6 @@
 
 - [**Piranha (Standard)**](../../units/piranha/piranha_standard.md) *Striker (3051)* 
 
-#### [Stinger IIC](../../units/stinger_iic.md) 
-
-- [**Stinger IIC (Standard)**](../../units/stinger_iic/stinger_iic_standard.md) *Striker (3085)* 
-
 #### [Thorn](../../units/thorn.md) 
 
 - [**Thorn THE-N**](../../units/thorn/thorn_the-n.md) *Striker (2549)* 
@@ -892,13 +888,6 @@
 #### [Crockett](../../units/crockett.md) 
 
 - [**Crockett CRK-5003-1**](../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
-
-#### [Deimos](../../units/deimos.md) 
-
-- [**Deimos 2**](../../units/deimos/deimos_2.md) *Sniper (3084)* 
-- [**Deimos Prime**](../../units/deimos/deimos_prime.md) *Sniper (3085)* 
-- [**Deimos A**](../../units/deimos/deimos_a.md) *Brawler (3085)* `ECM` 
-- [**Deimos B**](../../units/deimos/deimos_b.md) *Sniper (3085)* `ECM` 
 
 #### [Marauder IIC](../../units/marauder_iic.md) 
 

@@ -22,28 +22,13 @@
 
 ### Early Republic 
 
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Pirate 
-- Taurian Concordat 
+- Fronc Reaches 
 
 ### Late Republic 
 
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Pirate 
-- Taurian Concordat 
+- Fronc Reaches 
 
 ### Dark Ages 
 
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Pirate 
-- Taurian Concordat 
+- Fronc Reaches 
 

@@ -20,19 +20,18 @@
 
 ## Availability 
 
-### Jihad 
-
-- Taurian Concordat 
-
 ### Early Republic 
 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Taurian Concordat 
 

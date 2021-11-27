@@ -26,19 +26,24 @@
 ### Clan Invasion 
 
 - Draconis Combine 
+- Kell Hounds 
+- Wolf's Dragoons 
 
 ### Civil War 
 
 - Draconis Combine 
+- Kell Hounds 
+- Wolf's Dragoons 
 
 ### Jihad 
 
 - Draconis Combine 
+- Kell Hounds 
+- Wolf's Dragoons 
 
 ### Early Republic 
 
 - Capellan Confederation 
-- Clan Nova Cat 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

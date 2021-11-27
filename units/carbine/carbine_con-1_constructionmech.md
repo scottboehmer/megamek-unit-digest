@@ -70,6 +70,7 @@
 
 ### Late Succession Wars - LosTech 
 
+- Capellan Confederation 
 - Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
@@ -88,6 +89,22 @@
 - Clan Star Adder 
 - Clan Steel Viper 
 - Clan Wolf 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Commonwealth 
+- St. Ives Compact 
 
 ### Jihad 
 

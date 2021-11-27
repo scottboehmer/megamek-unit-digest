@@ -71,6 +71,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -83,6 +84,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
@@ -96,6 +98,7 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Marik-Stewart Commonwealth 
 - Taurian Concordat 
 
@@ -105,5 +108,6 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 

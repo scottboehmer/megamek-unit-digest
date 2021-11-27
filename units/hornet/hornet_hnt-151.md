@@ -92,6 +92,7 @@
 - Calderon Protectorate 
 - Circinus Federation 
 - Federated Suns 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -106,6 +107,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

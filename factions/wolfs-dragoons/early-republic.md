@@ -275,6 +275,19 @@
 - [**Adder E**](../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [Wolfhound](../../units/wolfhound.md) 
 
 - [**Wolfhound WLF-2**](../../units/wolfhound/wolfhound_wlf-2.md) *Striker (3052)* 
@@ -313,6 +326,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 8**](../../units/shadow_hawk_iic/shadow_hawk_iic_8.md) *Missile Boat (3081)* `ECM` 
 
 ### 50 Tons 
@@ -350,6 +364,17 @@
 - [**Scorpion SCP-1TB**](../../units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
 
 ### 65 Tons 
+
+#### [Linebacker](../../units/linebacker.md) 
+
+- [**Linebacker Prime**](../../units/linebacker/linebacker_prime.md) *Skirmisher (3052)* 
+- [**Linebacker A**](../../units/linebacker/linebacker_a.md) *Sniper (3052)* 
+- [**Linebacker B**](../../units/linebacker/linebacker_b.md) *Skirmisher (3052)* 
+- [**Linebacker C**](../../units/linebacker/linebacker_c.md) *Skirmisher (3052)* 
+- [**Linebacker D**](../../units/linebacker/linebacker_d.md) *Skirmisher (3052)* 
+- [**Linebacker E**](../../units/linebacker/linebacker_e.md) *Skirmisher (3061)* `Active Probe` 
+- [**Linebacker H**](../../units/linebacker/linebacker_h.md) *Skirmisher (3062)* 
+- [**Linebacker F**](../../units/linebacker/linebacker_f.md) *Skirmisher (3068)* 
 
 #### [Thunderbolt](../../units/thunderbolt.md) 
 
@@ -402,9 +427,19 @@
 
 ### 80 Tons 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Zeus-X](../../units/zeus-x.md) 
 
 - [**Zeus-X ZEU-9WD**](../../units/zeus-x/zeus-x_zeu-9wd.md) *Brawler (3067)* 
+
+### 85 Tons 
+
+#### [Marauder IIC](../../units/marauder_iic.md) 
+
+- [**Marauder IIC (Standard)**](../../units/marauder_iic/marauder_iic_standard.md) *Brawler (2828)* 
 
 ### 90 Tons 
 

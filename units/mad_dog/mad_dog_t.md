@@ -28,4 +28,5 @@
 - Clan Wolf-in-Exile 
 - Raven Alliance 
 - Republic of the Sphere 
+- Scorpion Empire 
 

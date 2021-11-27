@@ -435,10 +435,6 @@
 - [**Incubus 8**](../../units/incubus/incubus_8.md) *Striker (2962)* 
 - [**Incubus 3**](../../units/incubus/incubus_3.md) *Striker (3025)* 
 
-#### [Incubus II](../../units/incubus_ii.md) 
-
-- [**Incubus II (Standard)**](../../units/incubus_ii/incubus_ii_standard.md) *Striker (3085)* `Active Probe` 
-
 #### [Kit Fox](../../units/kit_fox.md) 
 
 - [**Kit Fox Prime**](../../units/kit_fox/kit_fox_prime.md) *Sniper (2890)* 
@@ -506,7 +502,6 @@
 
 - [**Wolfhound WLF-3S**](../../units/wolfhound/wolfhound_wlf-3s.md) *Striker (3064)* 
 - [**Wolfhound WLF-4W**](../../units/wolfhound/wolfhound_wlf-4w.md) *Sniper (3069)* 
-- [**Wolfhound WLF-2H**](../../units/wolfhound/wolfhound_wlf-2h.md) *Striker (3082)* 
 
 #### [Wolfhound IIC](../../units/wolfhound_iic.md) 
 
@@ -1095,10 +1090,6 @@
 #### [Imp](../../units/imp.md) 
 
 - [**Imp C**](../../units/imp/imp_c.md) *Juggernaut (2863)* 
-
-#### [Kodiak](../../units/kodiak.md) 
-
-- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
 
 #### [Pillager](../../units/pillager.md) 
 

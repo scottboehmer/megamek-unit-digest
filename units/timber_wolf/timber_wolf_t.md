@@ -36,5 +36,6 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Scorpion Empire 
 - Wolf's Dragoons 
 

@@ -284,6 +284,19 @@
 - [**Adder J**](../../units/adder/adder_j.md) *Sniper (3070)* 
 - [**Adder I**](../../units/adder/adder_i.md) *Striker (3125)* 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [Wolfhound](../../units/wolfhound.md) 
 
 - [**Wolfhound WLF-2**](../../units/wolfhound/wolfhound_wlf-2.md) *Striker (3052)* 
@@ -341,6 +354,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 8**](../../units/shadow_hawk_iic/shadow_hawk_iic_8.md) *Missile Boat (3081)* `ECM` 
 
 ### 50 Tons 
@@ -390,6 +404,10 @@
 
 - [**Thunderbolt TDR-11S**](../../units/thunderbolt/thunderbolt_tdr-11s.md) *Juggernaut (3074)* 
 
+#### [Ursa](../../units/ursa.md) 
+
+- [**Ursa URA-2C**](../../units/ursa/ursa_ura-2c.md) *Skirmisher (3125)* 
+
 #### [Verfolger](../../units/verfolger.md) 
 
 - [**Verfolger VR5-R**](../../units/verfolger/verfolger_vr5-r.md) *Skirmisher (3063)* 
@@ -397,6 +415,10 @@
 - [**Verfolger VR6-T**](../../units/verfolger/verfolger_vr6-t.md) *Skirmisher (3082)* 
 
 ### 70 Tons 
+
+#### [Archer](../../units/archer.md) 
+
+- [**Archer ARC-7C**](../../units/archer/archer_arc-7c.md) *Missile Boat (3119)* 
 
 #### [Guillotine IIC](../../units/guillotine_iic.md) 
 
@@ -431,6 +453,10 @@
 - [**Timber Wolf W**](../../units/timber_wolf/timber_wolf_w.md) *Juggernaut (3100)* 
 
 ### 80 Tons 
+
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 

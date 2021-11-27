@@ -40,4 +40,5 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Scorpion Empire 
 

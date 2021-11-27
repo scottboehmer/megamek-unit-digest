@@ -103,6 +103,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Marian Hegemony 
 - Taurian Concordat 
@@ -117,6 +118,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -129,6 +131,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Fronc Reaches 
 - Marian Hegemony 
 - Taurian Concordat 
 

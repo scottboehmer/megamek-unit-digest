@@ -25,14 +25,18 @@
 ### Late Republic 
 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 

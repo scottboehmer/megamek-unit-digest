@@ -19,12 +19,6 @@
 
 ## Availability 
 
-### Late Republic 
-
-- Federated Suns 
-- Filtvelt Coalition 
-- Mercenary 
-
 ### Dark Ages 
 
 - Federated Suns 

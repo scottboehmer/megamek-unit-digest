@@ -815,6 +815,10 @@
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC (Standard)**](../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
@@ -861,6 +865,7 @@
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
+- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 
@@ -961,10 +966,6 @@
 #### [Imp](../../units/imp.md) 
 
 - [**Imp C**](../../units/imp/imp_c.md) *Juggernaut (2863)* 
-
-#### [Kodiak](../../units/kodiak.md) 
-
-- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
 
 #### [Pillager](../../units/pillager.md) 
 

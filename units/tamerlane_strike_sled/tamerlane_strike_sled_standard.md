@@ -21,6 +21,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Mercenary 
@@ -29,6 +30,7 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Mercenary 
@@ -37,6 +39,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Mercenary 
@@ -45,6 +48,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
 - Mercenary 

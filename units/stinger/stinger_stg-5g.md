@@ -22,6 +22,7 @@
 
 - Capellan Confederation 
 - Free Worlds League 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -33,6 +34,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Marian Hegemony 
 - Oriente Protectorate 
 - Republic of the Sphere 
@@ -47,6 +49,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Marian Hegemony 
 - Oriente Protectorate 
 - Republic of the Sphere 
@@ -60,7 +63,9 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Marian Hegemony 
 - Oriente Protectorate 
 - Republic of the Sphere 

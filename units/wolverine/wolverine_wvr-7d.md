@@ -59,9 +59,6 @@
 
 ### Dark Ages 
 
-- Federated Suns 
 - Filtvelt Coalition 
 - Mercenary 
-- Republic of the Sphere 
-- Scorpion Empire 
 

@@ -332,10 +332,6 @@
 - [**Stinger STG-3G**](../../units/stinger/stinger_stg-3g.md) *Scout (2581)* 
 - [**Stinger STG-3Gb**](../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
 
-#### [Thorn](../../units/thorn.md) 
-
-- [**Thorn THE-N**](../../units/thorn/thorn_the-n.md) *Striker (2549)* 
-
 #### [Wasp](../../units/wasp.md) 
 
 - [**Wasp WSP-1A**](../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 

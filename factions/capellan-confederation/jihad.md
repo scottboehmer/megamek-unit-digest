@@ -635,10 +635,6 @@
 
 ### 15 Tons 
 
-#### [Chaffee](../../units/chaffee.md) 
-
-- [**Chaffee BT1 ServiceMech**](../../units/chaffee/chaffee_bt1_servicemech.md) *Scout (3081)* `IndustrialMech` 
-
 #### [Guard](../../units/guard.md) 
 
 - [**Guard GS-54 SecurityMech**](../../units/guard/guard_gs-54_securitymech.md) *Ambusher (2914)* `IndustrialMech` 
@@ -728,7 +724,6 @@
 #### [Locust IIC](../../units/locust_iic.md) 
 
 - [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
@@ -761,8 +756,6 @@
 - [**Anubis ABS-3L**](../../units/anubis/anubis_abs-3l.md) *Missile Boat (3063)* `ECM` , `Stealth` 
 - [**Anubis ABS-3R**](../../units/anubis/anubis_abs-3r.md) *Missile Boat (3064)* `ECM` , `Stealth` 
 - [**Anubis ABS-3T**](../../units/anubis/anubis_abs-3t.md) *Striker (3067)* `ECM` , `Stealth` 
-- [**Anubis ABS-3MC**](../../units/anubis/anubis_abs-3mc.md) *Missile Boat (3081)* `ECM` , `Stealth` , `Unique` 
-- [**Anubis ABS-4C**](../../units/anubis/anubis_abs-4c.md) *Missile Boat (3082)* `ECM` , `Stealth` 
 
 #### [Arctic Cheetah](../../units/arctic_cheetah.md) 
 
@@ -773,6 +766,10 @@
 - [**Arctic Cheetah D**](../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
+
+#### [Carbine](../../units/carbine.md) 
+
+- [**Carbine CON-7 ConstructionMech**](../../units/carbine/carbine_con-7_constructionmech.md) *Undefined (3028)* `IndustrialMech` 
 
 #### [Crosscut](../../units/crosscut.md) 
 
@@ -789,8 +786,6 @@
 #### [Dola](../../units/dola.md) 
 
 - [**Dola DOL-1A**](../../units/dola/dola_dol-1a.md) *Scout (3079)* `ECM` , `Unique` 
-- [**Dola DOL-1A1**](../../units/dola/dola_dol-1a1.md) *Scout (3082)* `ECM` 
-- [**Dola DOL-1A2 'Yoh Ti Ts'angs'**](../../units/dola/dola_dol-1a2_yoh_ti_tsangs.md) *Scout (3083)* `TAG` 
 
 #### [Hammer](../../units/hammer.md) 
 
@@ -1125,6 +1120,7 @@
 #### [Dervish](../../units/dervish.md) 
 
 - [**Dervish DV-6M**](../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-7D**](../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 - [**Dervish DV-6Mr**](../../units/dervish/dervish_dv-6mr.md) *Brawler (3073)* 
 
 #### [Eyleuka](../../units/eyleuka.md) 
@@ -1407,7 +1403,6 @@
 - [**Thunder THR-1L**](../../units/thunder/thunder_thr-1l.md) *Skirmisher (3055)* 
 - [**Thunder THR-2L**](../../units/thunder/thunder_thr-2l.md) *Skirmisher (3063)* `ECM` , `Stealth` 
 - [**Thunder THR-3L**](../../units/thunder/thunder_thr-3l.md) *Missile Boat (3066)* `ECM` , `Stealth` 
-- [**Thunder THR-C4**](../../units/thunder/thunder_thr-c4.md) *Skirmisher (3083)* 
 
 #### [Warhammer](../../units/warhammer.md) 
 
@@ -1451,10 +1446,6 @@
 - [**Orion ON1-M-DC**](../../units/orion/orion_on1-m-dc.md) *Brawler (3053)* `Command Console` 
 - [**Orion ON1-MB**](../../units/orion/orion_on1-mb.md) *Brawler (3058)* 
 
-#### [Penthesilea](../../units/penthesilea.md) 
-
-- [**Penthesilea PEN-2H**](../../units/penthesilea/penthesilea_pen-2h.md) *Brawler (3083)* 
-
 #### [Stalker](../../units/stalker.md) 
 
 - [**Stalker STK-4P**](../../units/stalker/stalker_stk-4p.md) *Juggernaut (2998)* 
@@ -1497,7 +1488,6 @@
 
 - [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
 - [**Goliath GOL-3M**](../../units/goliath/goliath_gol-3m.md) *Sniper (3047)* 
-- [**Goliath GOL-3L**](../../units/goliath/goliath_gol-3l.md) *Missile Boat (3082)* `ECM` , `Stealth` 
 
 #### [Striker](../../units/striker.md) 
 
@@ -1694,10 +1684,6 @@
 
 - [**King Crab KGC-0000**](../../units/king_crab/king_crab_kgc-0000.md) *Juggernaut (2815)* 
 - [**King Crab KGC-001**](../../units/king_crab/king_crab_kgc-001.md) *Juggernaut (3052)* 
-
-#### [Marauder II](../../units/marauder_ii.md) 
-
-- [**Marauder II MAD-4L**](../../units/marauder_ii/marauder_ii_mad-4l.md) *Sniper (3084)* `ECM` , `Stealth` 
 
 #### [Pillager](../../units/pillager.md) 
 

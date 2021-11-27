@@ -78,6 +78,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Wolf's Dragoons 
@@ -85,10 +86,12 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Dark Ages 

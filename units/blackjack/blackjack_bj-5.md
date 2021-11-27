@@ -25,6 +25,7 @@
 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -36,6 +37,7 @@
 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

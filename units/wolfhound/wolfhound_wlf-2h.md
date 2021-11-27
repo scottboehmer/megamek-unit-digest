@@ -21,14 +21,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Clan Wolf-in-Exile 
-- Kell Hounds 
-- Lyran Alliance 
-- Mercenary 
-- Wolf's Dragoons 
-
 ### Early Republic 
 
 - Clan Wolf-in-Exile 

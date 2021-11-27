@@ -46,6 +46,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -54,6 +55,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -61,6 +63,7 @@
 
 - Calderon Protectorate 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -68,6 +71,7 @@
 
 - Calderon Protectorate 
 - Duchy of Andurien 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 

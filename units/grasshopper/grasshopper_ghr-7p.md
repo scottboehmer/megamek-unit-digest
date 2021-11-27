@@ -22,10 +22,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Mercenary 
-
 ### Early Republic 
 
 - Lyran Commonwealth 

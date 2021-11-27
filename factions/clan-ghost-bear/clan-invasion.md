@@ -338,10 +338,6 @@
 - [**Mongoose MON-66**](../../units/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe` 
 - [**Mongoose MON-66b**](../../units/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe` 
 
-#### [Peacekeeper](../../units/peacekeeper.md) 
-
-- [**Peacekeeper PK-6 SecurityMech**](../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
-
 ### 30 Tons 
 
 #### [Arctic Cheetah](../../units/arctic_cheetah.md) 
@@ -742,6 +738,10 @@
 
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
+
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 

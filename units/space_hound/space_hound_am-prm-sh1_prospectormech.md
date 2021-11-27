@@ -42,24 +42,28 @@
 
 ### Jihad 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Outworlds Alliance 
 - Taurian Concordat 
 
 ### Early Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Raven Alliance 
 - Taurian Concordat 
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Raven Alliance 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Raven Alliance 
 - Taurian Concordat 

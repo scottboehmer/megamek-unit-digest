@@ -1328,6 +1328,19 @@
 - [**Adder T**](../../units/adder/adder_t.md) *Sniper (3142)* 
 - [**Adder L**](../../units/adder/adder_l.md) *Striker (3147)* `ECM` 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM2**](../../units/demolitionmech/demolitionmech_wi-dm2.md) *Juggernaut (2514)* `IndustrialMech` 
@@ -1377,6 +1390,9 @@
 
 #### [Jenner IIC](../../units/jenner_iic.md) 
 
+- [**Jenner IIC (Standard)**](../../units/jenner_iic/jenner_iic_standard.md) *Striker (3042)* 
+- [**Jenner IIC 2**](../../units/jenner_iic/jenner_iic_2.md) *Striker (3044)* 
+- [**Jenner IIC 3**](../../units/jenner_iic/jenner_iic_3.md) *Striker (3048)* 
 - [**Jenner IIC 5**](../../units/jenner_iic/jenner_iic_5.md) *Striker (3140)* `Active Probe` 
 
 #### [Night Hawk](../../units/night_hawk.md) 
@@ -1657,10 +1673,10 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
-- [**Shadow Hawk IIC 9**](../../units/shadow_hawk_iic/shadow_hawk_iic_9.md) *Skirmisher (3134)* 
 
 #### [Snake](../../units/snake.md) 
 
@@ -2094,6 +2110,7 @@
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
+- [**Ostroc OSR-2D**](../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 - [**Ostroc OSR-4K**](../../units/ostroc/ostroc_osr-4k.md) *Skirmisher (3077)* 
 
 #### [Ostsol](../../units/ostsol.md) 
@@ -2101,7 +2118,9 @@
 - [**Ostsol OTL-7M**](../../units/ostsol/ostsol_otl-7m.md) *Skirmisher (3065)* 
 - [**Ostsol OTL-8M**](../../units/ostsol/ostsol_otl-8m.md) *Skirmisher (3066)* 
 - [**Ostsol OTL-9R**](../../units/ostsol/ostsol_otl-9r.md) *Juggernaut (3077)* `C3 Support` 
+- [**Ostsol OTL-8E**](../../units/ostsol/ostsol_otl-8e.md) *Skirmisher (3144)* 
 - [**Ostsol C**](../../units/ostsol/ostsol_c.md) *Skirmisher (3145)* 
+- [**Ostsol OTL-8E3**](../../units/ostsol/ostsol_otl-8e3.md) *Skirmisher (3149)* 
 
 #### [Quickdraw](../../units/quickdraw.md) 
 
@@ -2321,6 +2340,7 @@
 - [**Grasshopper GHR-5J**](../../units/grasshopper/grasshopper_ghr-5j.md) *Skirmisher (3049)* 
 - [**Grasshopper GHR-6K**](../../units/grasshopper/grasshopper_ghr-6k.md) *Skirmisher (3064)* `C3 Support` 
 - [**Grasshopper GHR-7P**](../../units/grasshopper/grasshopper_ghr-7p.md) *Skirmisher (3081)* `Active Probe` 
+- [**Grasshopper GHR-8K**](../../units/grasshopper/grasshopper_ghr-8k.md) *Skirmisher (3091)* 
 
 #### [Guillotine](../../units/guillotine.md) 
 
@@ -2588,6 +2608,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 
@@ -2670,6 +2691,7 @@
 #### [Emperor](../../units/emperor.md) 
 
 - [**Emperor EMP-6A**](../../units/emperor/emperor_emp-6a.md) *Juggernaut (2612)* 
+- [**Emperor EMP-6S**](../../units/emperor/emperor_emp-6s.md) *Juggernaut (3069)* 
 
 #### [Highlander](../../units/highlander.md) 
 

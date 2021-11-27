@@ -860,10 +860,6 @@
 - [**Summoner HH**](../../units/summoner/summoner_hh.md) *Skirmisher (3070)* 
 - [**Summoner U**](../../units/summoner/summoner_u.md) *Sniper (3078)* 
 
-#### [Thunderbolt IIC](../../units/thunderbolt_iic.md) 
-
-- [**Thunderbolt IIC (Standard)**](../../units/thunderbolt_iic/thunderbolt_iic_standard.md) *Brawler (3085)* 
-
 #### [Warhammer](../../units/warhammer.md) 
 
 - [**Warhammer WHM-6Rb**](../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
@@ -956,6 +952,10 @@
 
 - [**Thug THG-11E**](../../units/thug/thug_thg-11e.md) *Brawler (2572)* 
 - [**Thug THG-11Eb**](../../units/thug/thug_thg-11eb.md) *Brawler (2760)* 
+
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
@@ -1108,10 +1108,6 @@
 - [**Jupiter 2**](../../units/jupiter/jupiter_2.md) *Sniper (3070)* 
 - [**Jupiter 3**](../../units/jupiter/jupiter_3.md) *Sniper (3075)* 
 
-#### [Kodiak](../../units/kodiak.md) 
-
-- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
-
 #### [Pillager](../../units/pillager.md) 
 
 - [**Pillager PLG-3Z**](../../units/pillager/pillager_plg-3z.md) *Juggernaut (2594)* 
@@ -1119,7 +1115,6 @@
 #### [Scylla](../../units/scylla.md) 
 
 - [**Scylla (Standard)**](../../units/scylla/scylla_standard.md) *Missile Boat (3062)* 
-- [**Scylla 3**](../../units/scylla/scylla_3.md) *Brawler (3082)* 
 
 #### [Stone Rhino](../../units/stone_rhino.md) 
 

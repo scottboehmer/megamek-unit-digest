@@ -29,4 +29,5 @@
 - Clan Hell's Horses 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Scorpion Empire 
 

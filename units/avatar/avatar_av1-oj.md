@@ -30,6 +30,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 

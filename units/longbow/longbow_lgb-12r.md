@@ -43,6 +43,7 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Republic of the Sphere 
 

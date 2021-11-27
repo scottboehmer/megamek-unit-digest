@@ -52,6 +52,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
@@ -65,6 +66,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
@@ -76,6 +78,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

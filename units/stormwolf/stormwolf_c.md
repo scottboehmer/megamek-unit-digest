@@ -30,4 +30,5 @@
 
 - Clan Sea Fox 
 - Clan Wolf 
+- Rasalhague Dominion 
 

@@ -70,6 +70,7 @@
 
 - Capellan Confederation 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 

@@ -27,7 +27,9 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Scorpion Empire 
 - Wolf's Dragoons 
 

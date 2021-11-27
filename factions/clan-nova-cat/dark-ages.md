@@ -574,6 +574,19 @@
 
 ### 35 Tons 
 
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -697,6 +710,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 8**](../../units/shadow_hawk_iic/shadow_hawk_iic_8.md) *Missile Boat (3081)* `ECM` 
@@ -965,6 +979,10 @@
 - [**Phoenix Hawk IIC 6**](../../units/phoenix_hawk_iic/phoenix_hawk_iic_6.md) *Skirmisher (3070)* 
 - [**Phoenix Hawk IIC 7**](../../units/phoenix_hawk_iic/phoenix_hawk_iic_7.md) *Skirmisher (3078)* 
 
+#### [Victor](../../units/victor.md) 
+
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC (Standard)**](../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
@@ -996,6 +1014,15 @@
 
 #### [Kingfisher](../../units/kingfisher.md) 
 
+- [**Kingfisher Prime**](../../units/kingfisher/kingfisher_prime.md) *Brawler (2887)* 
+- [**Kingfisher A**](../../units/kingfisher/kingfisher_a.md) *Brawler (2887)* 
+- [**Kingfisher B**](../../units/kingfisher/kingfisher_b.md) *Brawler (2887)* 
+- [**Kingfisher C**](../../units/kingfisher/kingfisher_c.md) *Brawler (2887)* 
+- [**Kingfisher D**](../../units/kingfisher/kingfisher_d.md) *Sniper (2887)* 
+- [**Kingfisher H**](../../units/kingfisher/kingfisher_h.md) *Brawler (3061)* 
+- [**Kingfisher E**](../../units/kingfisher/kingfisher_e.md) *Brawler (3063)* 
+- [**Kingfisher F**](../../units/kingfisher/kingfisher_f.md) *Brawler (3069)* `ECM` 
+- [**Kingfisher X**](../../units/kingfisher/kingfisher_x.md) *Brawler (3076)* `ECM` 
 - [**Kingfisher G**](../../units/kingfisher/kingfisher_g.md) *Juggernaut (3136)* 
 - [**Kingfisher I**](../../units/kingfisher/kingfisher_i.md) *Brawler (3137)* 
 - [**Kingfisher T**](../../units/kingfisher/kingfisher_t.md) *Brawler (3142)* 

@@ -83,14 +83,7 @@
 ### Clan Invasion 
 
 - Capellan Confederation 
-- Clan Diamond Shark 
-- Clan Ghost Bear 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Smoke Jaguar 
-- Clan Steel Viper 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
+- Circinus Federation 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -99,8 +92,13 @@
 - Free Worlds League 
 - Lyran Alliance 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
 - Second Star League 
 - St. Ives Compact 
+- Taurian Concordat 
 - Word of Blake 
 
 ### Civil War 
@@ -134,6 +132,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -158,6 +157,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -187,6 +187,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -217,6 +218,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

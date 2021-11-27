@@ -37,6 +37,7 @@
 - Escorpión Imperio 
 - Federated Suns 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 
@@ -45,6 +46,7 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Oriente Protectorate 
@@ -53,6 +55,7 @@
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

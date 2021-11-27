@@ -33,8 +33,10 @@
 ### Late Republic 
 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Dark Ages 
 
 - Lyran Commonwealth 
+- Mercenary 
 

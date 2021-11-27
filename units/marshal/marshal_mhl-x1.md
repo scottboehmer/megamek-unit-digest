@@ -26,11 +26,6 @@
 ### Clan Invasion 
 
 - Capellan Confederation 
-- Circinus Federation 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Outworlds Alliance 
-- Pirate 
 - Taurian Concordat 
 
 ### Civil War 
@@ -48,6 +43,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Circinus Federation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Outworlds Alliance 
@@ -59,6 +55,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -70,6 +67,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -81,6 +79,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

@@ -33,6 +33,7 @@
 
 - Free Worlds League 
 - Kell Hounds 
+- Marian Hegemony 
 - Mercenary 
 - Wolf's Dragoons 
 - Word of Blake 
@@ -41,6 +42,7 @@
 
 - Free Worlds League 
 - Kell Hounds 
+- Marian Hegemony 
 - Mercenary 
 - Wolf's Dragoons 
 - Word of Blake 

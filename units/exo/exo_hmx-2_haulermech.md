@@ -17,17 +17,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Free Worlds League - Non-Aligned Worlds 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
-
 ### Early Republic 
 
 - Calderon Protectorate 
@@ -44,6 +33,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -74,6 +64,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -105,6 +96,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 

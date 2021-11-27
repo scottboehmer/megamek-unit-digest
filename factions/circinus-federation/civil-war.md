@@ -373,6 +373,10 @@
 - [**Demolisher Heavy Tank (Defensive)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
 
+#### [Devastator Heavy Tank](../../units/devastator_heavy_tank.md) 
+
+- [**Devastator Heavy Tank (Standard)**](../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
+
 #### [Heavy LRM Carrier](../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
@@ -644,6 +648,7 @@
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2C**](../../units/ostroc/ostroc_osr-2c.md) *Skirmisher (2511)* 
+- [**Ostroc OSR-3C**](../../units/ostroc/ostroc_osr-3c.md) *Skirmisher (2876)* 
 - [**Ostroc OSR-2D**](../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 - [**Ostroc OSR-4C**](../../units/ostroc/ostroc_osr-4c.md) *Skirmisher (3066)* 
 

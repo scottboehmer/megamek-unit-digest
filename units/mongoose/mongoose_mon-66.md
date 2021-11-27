@@ -146,7 +146,6 @@
 - Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- ComStar 
 - Word of Blake 
 
 ### Jihad 
@@ -169,7 +168,6 @@
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- ComStar 
 - Escorpión Imperio 
 - Society 
 - Word of Blake 

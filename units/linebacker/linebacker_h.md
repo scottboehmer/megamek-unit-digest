@@ -54,6 +54,7 @@
 - Escorpión Imperio 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -62,6 +63,7 @@
 - Escorpión Imperio 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -69,4 +71,5 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
 

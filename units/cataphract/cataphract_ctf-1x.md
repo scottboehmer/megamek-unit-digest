@@ -56,6 +56,7 @@
 - Capellan Confederation 
 - Circinus Federation 
 - Federated Suns 
+- Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -69,6 +70,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -77,5 +79,7 @@
 ### Late Republic 
 
 - Filtvelt Coalition 
+- Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 

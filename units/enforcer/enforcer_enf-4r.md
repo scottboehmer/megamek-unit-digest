@@ -82,6 +82,7 @@
 - Circinus Federation 
 - Draconis Combine 
 - Federated Suns 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -97,6 +98,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -104,5 +106,6 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 

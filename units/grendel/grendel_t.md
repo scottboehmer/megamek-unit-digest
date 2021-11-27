@@ -30,4 +30,5 @@
 - Clan Jade Falcon 
 - Clan Sea Fox 
 - Raven Alliance 
+- Scorpion Empire 
 

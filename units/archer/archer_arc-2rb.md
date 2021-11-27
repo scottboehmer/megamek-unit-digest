@@ -150,6 +150,7 @@
 - Clan Stone Lion 
 - Free Worlds League 
 - Society 
+- Word of Blake 
 
 ### Early Republic 
 

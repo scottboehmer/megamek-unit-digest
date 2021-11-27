@@ -474,10 +474,6 @@
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
 
-#### [Copper](../../units/copper.md) 
-
-- [**Copper CPK-65 SecurityMech**](../../units/copper/copper_cpk-65_securitymech.md) *Ambusher (3065)* `IndustrialMech` 
-
 #### [Gulon](../../units/gulon.md) 
 
 - [**Gulon GLN-1A MiningMech**](../../units/gulon/gulon_gln-1a_miningmech.md) *Ambusher (3000)* `IndustrialMech` 
@@ -584,6 +580,19 @@
 - [**Adder H**](../../units/adder/adder_h.md) *Brawler (3059)* 
 - [**Adder E**](../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../units/adder/adder_j.md) *Sniper (3070)* 
+
+#### [Cougar](../../units/cougar.md) 
+
+- [**Cougar Prime**](../../units/cougar/cougar_prime.md) *Sniper (3058)* 
+- [**Cougar A**](../../units/cougar/cougar_a.md) *Missile Boat (3058)* 
+- [**Cougar B**](../../units/cougar/cougar_b.md) *Sniper (3058)* 
+- [**Cougar C**](../../units/cougar/cougar_c.md) *Brawler (3058)* 
+- [**Cougar D**](../../units/cougar/cougar_d.md) *Sniper (3058)* 
+- [**Cougar H**](../../units/cougar/cougar_h.md) *Brawler (3061)* `ECM` 
+- [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
+- [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
+- [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
+- [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
@@ -699,6 +708,7 @@
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 4**](../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 7**](../../units/shadow_hawk_iic/shadow_hawk_iic_7.md) *Striker (3080)* 
 
@@ -977,17 +987,6 @@
 #### [Omen](../../units/omen.md) 
 
 - [**Omen (Standard)**](../../units/omen/omen_standard.md) *Juggernaut (3087)* 
-
-#### [Warhawk](../../units/warhawk.md) 
-
-- [**Warhawk Prime**](../../units/warhawk/warhawk_prime.md) *Sniper (2999)* 
-- [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
-- [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
-- [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
-- [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
-- [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
-- [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
-- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 

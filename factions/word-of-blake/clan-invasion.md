@@ -869,7 +869,6 @@
 
 #### [Trebuchet](../../units/trebuchet.md) 
 
-- [**Trebuchet TBT-3C**](../../units/trebuchet/trebuchet_tbt-3c.md) *Missile Boat (2780)* 
 - [**Trebuchet TBT-5N**](../../units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
 - [**Trebuchet TBT-5S**](../../units/trebuchet/trebuchet_tbt-5s.md) *Skirmisher (2864)* 
 - [**Trebuchet TBT-7M**](../../units/trebuchet/trebuchet_tbt-7m.md) *Missile Boat (3048)* 

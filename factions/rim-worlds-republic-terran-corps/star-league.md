@@ -146,7 +146,7 @@
 
 #### [Burke II Superheavy Tank](../../units/burke_ii_superheavy_tank.md) 
 
-- [**Burke II Superheavy Tank (Standard)**](../../units/burke_ii_superheavy_tank/burke_ii_superheavy_tank_standard.md) *Juggernaut (2776)* 
+- [**Burke II Superheavy Tank (Standard)**](../../units/burke_ii_superheavy_tank/burke_ii_superheavy_tank_standard.md) *Juggernaut (2776)* `Unique` 
 
 #### [Moray Heavy Attack Submarine](../../units/moray_heavy_attack_submarine.md) 
 

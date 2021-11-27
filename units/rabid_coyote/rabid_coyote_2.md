@@ -26,11 +26,3 @@
 
 - Clan Wolf 
 
-### Early Republic 
-
-- Clan Wolf 
-
-### Late Republic 
-
-- Clan Wolf 
-

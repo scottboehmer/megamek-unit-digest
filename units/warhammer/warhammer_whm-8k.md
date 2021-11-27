@@ -28,12 +28,35 @@
 ### Early Republic 
 
 - Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Rim Commonality 
 

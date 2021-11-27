@@ -44,6 +44,7 @@
 
 - Capellan Confederation 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - St. Ives Compact 
 - Taurian Concordat 
@@ -51,6 +52,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -59,13 +61,17 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 

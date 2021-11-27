@@ -620,6 +620,11 @@
 - [**Koto KTO-2A**](../../units/koto/koto_kto-2a.md) *Striker (3057)* 
 - [**Koto KTO-3A**](../../units/koto/koto_kto-3a.md) *Striker (3062)* 
 
+#### [Locust IIC](../../units/locust_iic.md) 
+
+- [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC 3**](../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
+
 #### [Mist Lynx](../../units/mist_lynx.md) 
 
 - [**Mist Lynx Prime**](../../units/mist_lynx/mist_lynx_prime.md) *Scout (2926)* `Active Probe` 
@@ -1383,6 +1388,11 @@
 
 - [**Avatar AV1-O**](../../units/avatar/avatar_av1-o.md) *Brawler (3056)* 
 - [**Avatar AV1-OA**](../../units/avatar/avatar_av1-oa.md) *Brawler (3056)* 
+- [**Avatar AV1-OB**](../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
+- [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OG**](../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
+- [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 
 #### [Barghest](../../units/barghest.md) 
 
@@ -1603,6 +1613,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-C**](../../units/victor/victor_vtr-c.md) *Skirmisher (3054)* `C3 Support` 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 

@@ -451,6 +451,10 @@
 
 - [**Mongoose MON-67**](../../units/mongoose/mongoose_mon-67.md) *Striker (2830)* 
 
+#### [Peacekeeper](../../units/peacekeeper.md) 
+
+- [**Peacekeeper PK-6 SecurityMech**](../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+
 ### 30 Tons 
 
 #### [Crosscut](../../units/crosscut.md) 
@@ -534,10 +538,6 @@
 
 ### 50 Tons 
 
-#### [Buster](../../units/buster.md) 
-
-- [**Buster BC XV HaulerMech**](../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
-
 #### [Centurion](../../units/centurion.md) 
 
 - [**Centurion CN9-A**](../../units/centurion/centurion_cn9-a.md) *Brawler (2801)* 
@@ -582,10 +582,6 @@
 #### [Griffin](../../units/griffin.md) 
 
 - [**Griffin GRF-1N**](../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
-
-#### [Marshal](../../units/marshal.md) 
-
-- [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 
 #### [Scorpion](../../units/scorpion.md) 
 

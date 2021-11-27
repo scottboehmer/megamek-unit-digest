@@ -723,6 +723,10 @@
 - [**Shadow Cat J**](../../units/shadow_cat/shadow_cat_j.md) *Striker (3071)* `Active Probe` 
 - [**Shadow Cat E**](../../units/shadow_cat/shadow_cat_e.md) *Striker (3098)* 
 
+#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
+
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+
 ### 50 Tons 
 
 #### [Buster](../../units/buster.md) 
@@ -1022,17 +1026,6 @@
 - [**Marauder IIC 3**](../../units/marauder_iic/marauder_iic_3.md) *Brawler (3064)* 
 - [**Marauder IIC 5**](../../units/marauder_iic/marauder_iic_5.md) *Sniper (3070)* 
 - [**Marauder IIC 6**](../../units/marauder_iic/marauder_iic_6.md) *Skirmisher (3077)* 
-
-#### [Warhawk](../../units/warhawk.md) 
-
-- [**Warhawk Prime**](../../units/warhawk/warhawk_prime.md) *Sniper (2999)* 
-- [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
-- [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
-- [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
-- [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
-- [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
-- [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
-- [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 
 ### 90 Tons 
 

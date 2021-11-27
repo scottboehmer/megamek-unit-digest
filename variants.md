@@ -2159,7 +2159,7 @@
 
 #### [Burke II Superheavy Tank](units/burke_ii_superheavy_tank.md) 
 
-- [**Burke II Superheavy Tank (Standard)**](units/burke_ii_superheavy_tank/burke_ii_superheavy_tank_standard.md) *Juggernaut (2776)* 
+- [**Burke II Superheavy Tank (Standard)**](units/burke_ii_superheavy_tank/burke_ii_superheavy_tank_standard.md) *Juggernaut (2776)* `Unique` 
 
 #### [Moray Heavy Attack Submarine](units/moray_heavy_attack_submarine.md) 
 
@@ -4634,7 +4634,7 @@
 
 #### [Legionnaire](units/legionnaire.md) 
 
-- [**Legionnaire LGN-1X**](units/legionnaire/legionnaire_lgn-1x.md) *Striker (3068)* `Active Probe` 
+- [**Legionnaire LGN-1X**](units/legionnaire/legionnaire_lgn-1x.md) *Striker (3068)* `Active Probe` , `Unique` 
 - [**Legionnaire LGN-2D**](units/legionnaire/legionnaire_lgn-2d.md) *Striker (3073)* 
 - [**Legionnaire LGN-2XA**](units/legionnaire/legionnaire_lgn-2xa.md) *Missile Boat (3075)* 
 - [**Legionnaire LGN-2XU**](units/legionnaire/legionnaire_lgn-2xu.md) *Striker (3075)* 
@@ -6801,7 +6801,7 @@
 - [**Ryoken II (Standard)**](units/ryoken_ii/ryoken_ii_standard.md) *Sniper (3075)* 
 - [**Ryoken II 2**](units/ryoken_ii/ryoken_ii_2.md) *Sniper (3076)* 
 - [**Ryoken II 3**](units/ryoken_ii/ryoken_ii_3.md) *Sniper (3076)* 
-- [**Ryoken II (Tassa)**](units/ryoken_ii/ryoken_ii_tassa.md) *Undefined (3132)* 
+- [**Ryoken II (Tassa)**](units/ryoken_ii/ryoken_ii_tassa.md) *Undefined (3132)* `Unique` 
 
 #### [Savage Wolf](units/savage_wolf.md) 
 
@@ -7550,7 +7550,7 @@
 - [**Highlander HGN-732**](units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
 - [**Highlander HGN-732b**](units/highlander/highlander_hgn-732b.md) *Missile Boat (2598)* 
 - [**Highlander HGN-732 (Colleen)**](units/highlander/highlander_hgn-732_colleen.md) *Juggernaut (2801)* `Unique` 
-- [**Highlander HGN-732 (Jorgensson)**](units/highlander/highlander_hgn-732_jorgensson.md) *Sniper (2829)* 
+- [**Highlander HGN-732 (Jorgensson)**](units/highlander/highlander_hgn-732_jorgensson.md) *Sniper (2829)* `Unique` 
 - [**Highlander HGN-733**](units/highlander/highlander_hgn-733.md) *Juggernaut (2866)* 
 - [**Highlander HGN-733C**](units/highlander/highlander_hgn-733c.md) *Juggernaut (2866)* 
 - [**Highlander HGN-733P**](units/highlander/highlander_hgn-733p.md) *Sniper (2866)* 

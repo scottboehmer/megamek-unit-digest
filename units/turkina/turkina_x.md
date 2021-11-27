@@ -33,16 +33,20 @@
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Wolf 
+- Escorpión Imperio 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Escorpión Imperio 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Escorpión Imperio 
+- Scorpion Empire 
 

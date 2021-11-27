@@ -20,10 +20,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Free Worlds League 
-
 ### Early Republic 
 
 - Duchy of Andurien 

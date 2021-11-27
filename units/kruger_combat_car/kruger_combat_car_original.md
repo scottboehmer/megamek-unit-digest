@@ -24,6 +24,7 @@
 ### Early Succession Wars 
 
 - Federated Suns 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 
@@ -34,6 +35,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -41,6 +43,7 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -48,5 +51,6 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Taurian Concordat 
 

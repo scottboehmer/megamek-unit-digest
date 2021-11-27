@@ -163,6 +163,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Federated Suns 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -174,6 +175,7 @@
 
 - Capellan Confederation 
 - Draconis Combine 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
@@ -185,6 +187,7 @@
 - Clan Wolf 
 - Draconis Combine 
 - Free Worlds League 
+- Fronc Reaches 
 - Marian Hegemony 
 - Mercenary 
 

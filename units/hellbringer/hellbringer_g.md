@@ -26,6 +26,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 
 ### Dark Ages 
 
@@ -35,6 +36,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
 - Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
@@ -44,4 +46,5 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Scorpion Empire 
 

@@ -21,6 +21,10 @@
 
 ## Availability 
 
+### Late Republic 
+
+- Republic of the Sphere 
+
 ### Dark Ages 
 
 - Republic of the Sphere 

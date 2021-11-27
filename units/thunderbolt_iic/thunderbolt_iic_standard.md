@@ -21,10 +21,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Clan Jade Falcon 
-
 ### Early Republic 
 
 - Clan Jade Falcon 

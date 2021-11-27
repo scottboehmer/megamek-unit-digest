@@ -47,13 +47,16 @@
 
 - Free Worlds League 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Taurian Concordat 
 
 ### Jihad 
 
 - Calderon Protectorate 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Taurian Concordat 
 
 ### Early Republic 
@@ -62,6 +65,7 @@
 - Duchy of Tamarind-Abbey 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -74,6 +78,7 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

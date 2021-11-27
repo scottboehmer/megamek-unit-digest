@@ -299,6 +299,10 @@
 
 - [**Phoenix Hawk PXH-1b (Special)**](../../units/phoenix_hawk/phoenix_hawk_pxh-1b_special.md) *Skirmisher (2760)* `ECM` 
 
+#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
+
+- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+
 #### [Wyvern](../../units/wyvern.md) 
 
 - [**Wyvern WVE-5Nb**](../../units/wyvern/wyvern_wve-5nb.md) *Missile Boat (2660)* 

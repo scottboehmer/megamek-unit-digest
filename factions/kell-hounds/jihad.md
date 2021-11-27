@@ -808,7 +808,6 @@
 - [**Wolfhound WLF-4W**](../../units/wolfhound/wolfhound_wlf-4w.md) *Sniper (3069)* 
 - [**Wolfhound WLF-4WA**](../../units/wolfhound/wolfhound_wlf-4wa.md) *Sniper (3071)* `ECM` 
 - [**Wolfhound WLF-5**](../../units/wolfhound/wolfhound_wlf-5.md) *Striker (3079)* 
-- [**Wolfhound WLF-2H**](../../units/wolfhound/wolfhound_wlf-2h.md) *Striker (3082)* 
 
 ### 40 Tons 
 
@@ -1215,7 +1214,6 @@
 
 - [**Verfolger VR5-R**](../../units/verfolger/verfolger_vr5-r.md) *Skirmisher (3063)* 
 - [**Verfolger VR6-C**](../../units/verfolger/verfolger_vr6-c.md) *Skirmisher (3068)* 
-- [**Verfolger VR6-T**](../../units/verfolger/verfolger_vr6-t.md) *Skirmisher (3082)* 
 
 ### 70 Tons 
 
@@ -1231,6 +1229,15 @@
 
 - [**Avatar AV1-O**](../../units/avatar/avatar_av1-o.md) *Brawler (3056)* 
 - [**Avatar AV1-OA**](../../units/avatar/avatar_av1-oa.md) *Brawler (3056)* 
+- [**Avatar AV1-OB**](../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
+- [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OG**](../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OR**](../../units/avatar/avatar_av1-or.md) *Brawler (3059)* 
+- [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
+- [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
+- [**Avatar AV1-OH**](../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
+- [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
+- [**Avatar AV1-OI**](../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 
 #### [Caesar](../../units/caesar.md) 
 
@@ -1386,6 +1393,7 @@
 #### [Victor](../../units/victor.md) 
 
 - [**Victor VTR-9B**](../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor C**](../../units/victor/victor_c.md) *Skirmisher (2835)* 
 - [**Victor VTR-9K**](../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-10D**](../../units/victor/victor_vtr-10d.md) *Skirmisher (3064)* 
 - [**Victor VTR-9Ka**](../../units/victor/victor_vtr-9ka.md) *Skirmisher (3076)* 

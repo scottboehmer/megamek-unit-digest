@@ -35,6 +35,7 @@
 - Calderon Protectorate 
 - Circinus Federation 
 - Draconis Combine 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Outworlds Alliance 

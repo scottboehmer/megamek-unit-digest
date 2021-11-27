@@ -55,6 +55,7 @@
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Hover Scout](../../units/hover_scout.md) 
 
@@ -488,11 +489,6 @@
 - [**Stinger STG-3R**](../../units/stinger/stinger_stg-3r.md) *Scout (2479)* 
 - [**Stinger STG-3G**](../../units/stinger/stinger_stg-3g.md) *Scout (2581)* 
 - [**Stinger STG-3Gb**](../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
-
-#### [Thorn](../../units/thorn.md) 
-
-- [**Thorn THE-F**](../../units/thorn/thorn_the-f.md) *Striker (2490)* 
-- [**Thorn THE-N**](../../units/thorn/thorn_the-n.md) *Striker (2549)* 
 
 #### [Wasp](../../units/wasp.md) 
 

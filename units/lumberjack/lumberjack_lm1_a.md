@@ -51,25 +51,18 @@
 
 ### Late Succession Wars - LosTech 
 
-- Circinus Federation 
 - Draconis Combine 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
-- Outworlds Alliance 
-- Pirate 
 - Taurian Concordat 
 
 ### Late Succession Wars - Renaissance 
 
-- Circinus Federation 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
-- Marian Hegemony 
-- Outworlds Alliance 
-- Pirate 
 - Taurian Concordat 
 
 ### Clan Invasion 

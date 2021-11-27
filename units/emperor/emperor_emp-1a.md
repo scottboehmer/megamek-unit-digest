@@ -29,6 +29,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -36,15 +37,18 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
 
 ### Late Republic 
 
+- Fronc Reaches 
 - Marian Hegemony 
 
 ### Dark Ages 
 
+- Fronc Reaches 
 - Marian Hegemony 
 

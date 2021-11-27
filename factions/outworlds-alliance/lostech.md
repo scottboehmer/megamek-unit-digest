@@ -44,6 +44,7 @@
 - [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Hover Scout](../../units/hover_scout.md) 
 
@@ -456,10 +457,6 @@
 
 ### 50 Tons 
 
-#### [Buster](../../units/buster.md) 
-
-- [**Buster BC XV HaulerMech**](../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
-
 #### [Centurion](../../units/centurion.md) 
 
 - [**Centurion CN9-A**](../../units/centurion/centurion_cn9-a.md) *Brawler (2801)* 
@@ -510,10 +507,6 @@
 #### [Heavy Forester](../../units/heavy_forester.md) 
 
 - [**Heavy Forester HFL-1 LoggerMech**](../../units/heavy_forester/heavy_forester_hfl-1_loggermech.md) *Undefined (2700)* `IndustrialMech` 
-
-#### [Lumberjack](../../units/lumberjack.md) 
-
-- [**Lumberjack LM1/A**](../../units/lumberjack/lumberjack_lm1_a.md) *Ambusher (2355)* `IndustrialMech` 
 
 #### [Merlin](../../units/merlin.md) 
 

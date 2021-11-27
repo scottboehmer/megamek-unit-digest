@@ -26,13 +26,22 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
 - Clan Diamond Shark 
 - Clan Fire Mandrill 
 - Clan Ghost Bear 
+- Clan Goliath Scorpion 
 - Clan Hell's Horses 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - ComStar 
@@ -45,38 +54,20 @@
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- Society 
 - Wolf's Dragoons 
 - Word of Blake 
 
 ### Early Republic 
 
-- Clan Diamond Shark 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
 - Escorpión Imperio 
-- Mercenary 
-- Rasalhague Dominion 
-- Raven Alliance 
 
 ### Late Republic 
 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
 - Escorpión Imperio 
-- Mercenary 
-- Rasalhague Dominion 
-- Raven Alliance 
 
 ### Dark Ages 
 
-- Clan Jade Falcon 
-- Clan Sea Fox 
-- Clan Wolf 
 - Escorpión Imperio 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Scorpion Empire 
 

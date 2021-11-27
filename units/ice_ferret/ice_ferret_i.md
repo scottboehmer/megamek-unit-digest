@@ -24,6 +24,7 @@
 
 ### Early Republic 
 
+- Escorpión Imperio 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Wolf's Dragoons 
@@ -34,6 +35,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Kell Hounds 
 - Wolf's Dragoons 
 
@@ -43,4 +45,6 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
+- Scorpion Empire 
 

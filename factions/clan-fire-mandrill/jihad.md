@@ -971,10 +971,6 @@
 
 - [**Imp C**](../../units/imp/imp_c.md) *Juggernaut (2863)* 
 
-#### [Kodiak](../../units/kodiak.md) 
-
-- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
-
 #### [Pillager](../../units/pillager.md) 
 
 - [**Pillager PLG-3Z**](../../units/pillager/pillager_plg-3z.md) *Juggernaut (2594)* 

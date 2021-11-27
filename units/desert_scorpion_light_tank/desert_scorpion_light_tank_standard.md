@@ -20,5 +20,30 @@
 
 ## Availability 
 
-Availability Unknown 
+### Clan Invasion 
+
+- Free Worlds League 
+
+### Civil War 
+
+- Free Worlds League 
+
+### Jihad 
+
+- Free Worlds League 
+
+### Early Republic 
+
+- Free Worlds League - Non-Aligned Worlds 
+
+### Late Republic 
+
+- Free Worlds League - Non-Aligned Worlds 
+
+### Dark Ages 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Regulan Fiefs 
 

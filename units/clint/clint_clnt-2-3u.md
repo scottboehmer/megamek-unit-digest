@@ -55,6 +55,7 @@
 - Circinus Federation 
 - ComStar 
 - Federated Suns 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -69,6 +70,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -80,6 +82,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 
@@ -87,6 +90,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Taurian Concordat 
 

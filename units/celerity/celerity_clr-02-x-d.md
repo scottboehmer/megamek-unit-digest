@@ -33,7 +33,3 @@
 
 - ComStar 
 
-### Early Republic 
-
-- ComStar 
-
