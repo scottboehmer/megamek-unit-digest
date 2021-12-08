@@ -2218,7 +2218,7 @@
 - [**Celerity CLR-03-OC**](units/celerity/celerity_clr-03-oc.md) *Scout (3138)* `Active Probe` , `Drone` 
 - [**Celerity CLR-03-OD**](units/celerity/celerity_clr-03-od.md) *Scout (3138)* `Drone` 
 - [**Celerity CLR-03-OE**](units/celerity/celerity_clr-03-oe.md) *Scout (3138)* `Drone` 
-- [**Celerity CLR-03OMM 'Rajah'**](units/celerity/celerity_clr-03omm_rajah.md) *Undefined (3138)* `Drone` 
+- [**Celerity CLR-03OMM 'Rajah'**](units/celerity/celerity_clr-03omm_rajah.md) *Undefined (3138)* `Drone` , `Unique` 
 - [**Celerity CLR-04-R**](units/celerity/celerity_clr-04-r.md) *Scout (3138)* `Drone` 
 - [**Celerity CLR-05-X**](units/celerity/celerity_clr-05-x.md) *Scout (3138)* `Drone` 
 
@@ -2626,7 +2626,7 @@
 #### [Gunsmith](units/gunsmith.md) 
 
 - [**Gunsmith CH11-NG**](units/gunsmith/gunsmith_ch11-ng.md) *Striker (3131)* 
-- [**Gunsmith CH11-NGC 'Cinderella'**](units/gunsmith/gunsmith_ch11-ngc_cinderella.md) *Undefined (3131)* 
+- [**Gunsmith CH11-NGC 'Cinderella'**](units/gunsmith/gunsmith_ch11-ngc_cinderella.md) *Undefined (3131)* `Unique` 
 
 #### [Harvester Ant](units/harvester_ant.md) 
 
@@ -3690,7 +3690,7 @@
 #### [Calliope](units/calliope.md) 
 
 - [**Calliope CAL-1MAF**](units/calliope/calliope_cal-1maf.md) *Brawler (3127)* 
-- [**Calliope CAL-1MAFSW 'Snow White'**](units/calliope/calliope_cal-1mafsw_snow_white.md) *Undefined (3127)* 
+- [**Calliope CAL-1MAFSW 'Snow White'**](units/calliope/calliope_cal-1mafsw_snow_white.md) *Undefined (3127)* `Unique` 
 
 #### [Carrion Crow](units/carrion_crow.md) 
 
@@ -3733,7 +3733,7 @@
 
 - [**Clint IIC (Standard)**](units/clint_iic/clint_iic_standard.md) *Striker (2842)* 
 - [**Clint IIC 2**](units/clint_iic/clint_iic_2.md) *Striker (3073)* `ECM` 
-- [**Clint IIC 2L 'Leia'**](units/clint_iic/clint_iic_2l_leia.md) *Undefined (3125)* 
+- [**Clint IIC 2L 'Leia'**](units/clint_iic/clint_iic_2l_leia.md) *Undefined (3125)* `Unique` 
 
 #### [Corvis](units/corvis.md) 
 
@@ -3981,13 +3981,13 @@
 - [**Vulcan VT-6M**](units/vulcan/vulcan_vt-6m.md) *Striker (3069)* 
 - [**Vulcan VT-6C**](units/vulcan/vulcan_vt-6c.md) *Striker (3070)* `C3i` 
 - [**Vulcan VT-5Sr**](units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
-- [**Vulcan VT-5ML 'Aladdin'**](units/vulcan/vulcan_vt-5ml_aladdin.md) *Undefined (3080)* `ECM` , `Stealth` 
+- [**Vulcan VT-5ML 'Aladdin'**](units/vulcan/vulcan_vt-5ml_aladdin.md) *Undefined (3080)* `ECM` , `Stealth` , `Unique` 
 
 #### [Watchman](units/watchman.md) 
 
 - [**Watchman WTC-4M**](units/watchman/watchman_wtc-4m.md) *Skirmisher (3055)* 
 - [**Watchman WTC-4DM**](units/watchman/watchman_wtc-4dm.md) *Skirmisher (3063)* 
-- [**Watchman WTC-4MB 'Belle'**](units/watchman/watchman_wtc-4mb_belle.md) *Undefined (3125)* `Active Probe` , `ECM` , `Remote Drone Command Console` 
+- [**Watchman WTC-4MB 'Belle'**](units/watchman/watchman_wtc-4mb_belle.md) *Undefined (3125)* `Active Probe` , `ECM` , `Remote Drone Command Console` , `Unique` 
 
 #### [Werewolf](units/werewolf.md) 
 
@@ -4228,7 +4228,7 @@
 - [**Phoenix Hawk PXH-4W**](units/phoenix_hawk/phoenix_hawk_pxh-4w.md) *Striker (3079)* `ECM` 
 - [**Phoenix Hawk PXH-8CS**](units/phoenix_hawk/phoenix_hawk_pxh-8cs.md) *Striker (3080)* `C3 Support` , `ECM` 
 - [**Phoenix Hawk PXH-4M**](units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
-- [**Phoenix Hawk PXH-7KJ 'Jasmine'**](units/phoenix_hawk/phoenix_hawk_pxh-7kj_jasmine.md) *Undefined (3125)* `ECM` , `Remote Drone Command Console` 
+- [**Phoenix Hawk PXH-7KJ 'Jasmine'**](units/phoenix_hawk/phoenix_hawk_pxh-7kj_jasmine.md) *Undefined (3125)* `ECM` , `Remote Drone Command Console` , `Unique` 
 - [**Phoenix Hawk PXH-99**](units/phoenix_hawk/phoenix_hawk_pxh-99.md) *Juggernaut (3134)* `Unique` 
 - [**Phoenix Hawk C 2**](units/phoenix_hawk/phoenix_hawk_c_2.md) *Striker (3140)* 
 - [**Phoenix Hawk PXH-9**](units/phoenix_hawk/phoenix_hawk_pxh-9.md) *Striker (3140)* 
@@ -4377,7 +4377,7 @@
 #### [Agrotera](units/agrotera.md) 
 
 - [**Agrotera AGT-1A**](units/agrotera/agrotera_agt-1a.md) *Striker (3108)* `TAG` 
-- [**Agrotera AGT-UA 'Ariel'**](units/agrotera/agrotera_agt-ua_ariel.md) *Undefined (3137)* 
+- [**Agrotera AGT-UA 'Ariel'**](units/agrotera/agrotera_agt-ua_ariel.md) *Undefined (3137)* `Unique` 
 
 #### [Aquagladius](units/aquagladius.md) 
 
@@ -4556,7 +4556,7 @@
 - [**Ghost GST-10**](units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
 - [**Ghost GST-50**](units/ghost/ghost_gst-50.md) *Striker (3087)* 
-- [**Ghost GST-10A 'Aurora'**](units/ghost/ghost_gst-10a_aurora.md) *Undefined (3130)* `ECM` , `Stealth` 
+- [**Ghost GST-10A 'Aurora'**](units/ghost/ghost_gst-10a_aurora.md) *Undefined (3130)* `ECM` , `Stealth` , `Unique` 
 - [**Ghost GST-90**](units/ghost/ghost_gst-90.md) *Striker (3133)* 
 
 #### [Gravedigger](units/gravedigger.md) 
@@ -4585,8 +4585,8 @@
 - [**Hunchback HBK-5SS**](units/hunchback/hunchback_hbk-5ss.md) *Missile Boat (3068)* 
 - [**Hunchback HBK-5P**](units/hunchback/hunchback_hbk-5p.md) *Juggernaut (3069)* `C3 Support` , `ECM` 
 - [**Hunchback HBK-7R**](units/hunchback/hunchback_hbk-7r.md) *Brawler (3085)* `ECM` , `TAG` 
-- [**Hunchback HBK-LGN-Pin 'Anastasia'**](units/hunchback/hunchback_hbk-lgn-pin_anastasia.md) *Undefined (3100)* 
-- [**Hunchback HBK-LGN-Pin 'Drizella'**](units/hunchback/hunchback_hbk-lgn-pin_drizella.md) *Undefined (3100)* 
+- [**Hunchback HBK-LGN-Pin 'Anastasia'**](units/hunchback/hunchback_hbk-lgn-pin_anastasia.md) *Undefined (3100)* `Unique` 
+- [**Hunchback HBK-LGN-Pin 'Drizella'**](units/hunchback/hunchback_hbk-lgn-pin_drizella.md) *Undefined (3100)* `Unique` 
 - [**Hunchback HBK-7S**](units/hunchback/hunchback_hbk-7s.md) *Striker (3134)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Hunchback IIC](units/hunchback_iic.md) 
@@ -4793,7 +4793,7 @@
 - [**Tessen TSN-1Cr**](units/tessen/tessen_tsn-1cr.md) *Skirmisher (3069)* `C3 Support` , `ECM` , `TAG` 
 - [**Tessen TSN-X-4**](units/tessen/tessen_tsn-x-4.md) *Skirmisher (3074)* `Active Probe` , `ECM` , `TAG` 
 - [**Tessen TSN-C3M**](units/tessen/tessen_tsn-c3m.md) *Skirmisher (3077)* `C3 Main` , `TAG` 
-- [**Tessen TSN-X4R 'Rapunzel'**](units/tessen/tessen_tsn-x4r_rapunzel.md) *Undefined (3137)* `ECM` 
+- [**Tessen TSN-X4R 'Rapunzel'**](units/tessen/tessen_tsn-x4r_rapunzel.md) *Undefined (3137)* `ECM` , `Unique` 
 
 #### [Trebuchet](units/trebuchet.md) 
 
@@ -4807,7 +4807,7 @@
 - [**Trebuchet TBT-8B**](units/trebuchet/trebuchet_tbt-8b.md) *Missile Boat (3071)* 
 - [**Trebuchet TBT-XK7**](units/trebuchet/trebuchet_tbt-xk7.md) *Skirmisher (3081)* `Unique` 
 - [**Trebuchet TBT-K7R**](units/trebuchet/trebuchet_tbt-k7r.md) *Skirmisher (3088)* 
-- [**Trebuchet TBT-7MM 'Merida'**](units/trebuchet/trebuchet_tbt-7mm_merida.md) *Undefined (3100)* 
+- [**Trebuchet TBT-7MM 'Merida'**](units/trebuchet/trebuchet_tbt-7mm_merida.md) *Undefined (3100)* `Unique` 
 - [**Trebuchet TBT-9R**](units/trebuchet/trebuchet_tbt-9r.md) *Missile Boat (3131)* 
 - [**Trebuchet TBT-9N**](units/trebuchet/trebuchet_tbt-9n.md) *Missile Boat (3136)* 
 
@@ -5007,7 +5007,7 @@
 #### [Hitotsume Kozo](units/hitotsume_kozo.md) 
 
 - [**Hitotsume Kozo HKZ-1F**](units/hitotsume_kozo/hitotsume_kozo_hkz-1f.md) *Brawler (3136)* 
-- [**Hitotsume Kozo HKZ-1FM 'Mulan'**](units/hitotsume_kozo/hitotsume_kozo_hkz-1fm_mulan.md) *Undefined (3136)* 
+- [**Hitotsume Kozo HKZ-1FM 'Mulan'**](units/hitotsume_kozo/hitotsume_kozo_hkz-1fm_mulan.md) *Undefined (3136)* `Unique` 
 - [**Hitotsume Kozo HKZ-1P**](units/hitotsume_kozo/hitotsume_kozo_hkz-1p.md) *Brawler (3136)* 
 
 #### [Hoplite](units/hoplite.md) 
@@ -5310,8 +5310,8 @@
 - [**Wraith TR1**](units/wraith/wraith_tr1.md) *Skirmisher (3055)* 
 - [**Wraith TR2**](units/wraith/wraith_tr2.md) *Skirmisher (3057)* 
 - [**Wraith TR3**](units/wraith/wraith_tr3.md) *Skirmisher (3065)* `C3i` 
-- [**Wraith TR2-X 'Alexander'**](units/wraith/wraith_tr2-x_alexander.md) *Striker (3076)* 
-- [**Wraith TR2-P 'Pocahontas'**](units/wraith/wraith_tr2-p_pocahontas.md) *Undefined (3130)* 
+- [**Wraith TR2-X 'Alexander'**](units/wraith/wraith_tr2-x_alexander.md) *Striker (3076)* `Unique` 
+- [**Wraith TR2-P 'Pocahontas'**](units/wraith/wraith_tr2-p_pocahontas.md) *Undefined (3130)* `Unique` 
 
 #### [Yao Lien](units/yao_lien.md) 
 
@@ -5702,7 +5702,7 @@
 #### [Vulpes](units/vulpes.md) 
 
 - [**Vulpes VLP-1D**](units/vulpes/vulpes_vlp-1d.md) *Skirmisher (3133)* `ECM` , `Stealth` 
-- [**Vulpes VLP-1DX 'Beast'**](units/vulpes/vulpes_vlp-1dx_beast.md) *Undefined (3134)* `Drone` 
+- [**Vulpes VLP-1DX 'Beast'**](units/vulpes/vulpes_vlp-1dx_beast.md) *Undefined (3134)* `Drone` , `Unique` 
 
 #### [Yeoman](units/yeoman.md) 
 

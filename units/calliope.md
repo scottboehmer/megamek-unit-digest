@@ -32,7 +32,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8368/calliope-cal-1mafw-snow-white) 
 - **Battle Value:** 1481 
 - [*More Info*](calliope/calliope_cal-1mafsw_snow_white.md) 
 

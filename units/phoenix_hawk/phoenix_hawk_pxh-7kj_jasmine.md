@@ -18,10 +18,12 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Remote Drone Command Console 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8372/phoenix-hawk-pxh-7kj-jasmine) 
 - **Battle Value:** 1513 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

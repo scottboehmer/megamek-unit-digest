@@ -16,10 +16,12 @@
   - Hatchet 
 - **Equipment:** 
   - MASC 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8381/wraith-tr2-p-pocahontas) 
 - **Battle Value:** 2051 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

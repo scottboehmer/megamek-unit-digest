@@ -64,6 +64,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Clan Partial Wing 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3590/wraith-tr2-x-alexander) 
 - **Battle Value:** 1816 
 - [*More Info*](wraith/wraith_tr2-x_alexander.md) 
 
@@ -81,7 +82,7 @@
   - Hatchet 
 - **Equipment:** 
   - MASC 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8381/wraith-tr2-p-pocahontas) 
 - **Battle Value:** 2051 
 - [*More Info*](wraith/wraith_tr2-p_pocahontas.md) 
 

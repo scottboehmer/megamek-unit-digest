@@ -15,10 +15,12 @@
   - AC/20 (ammo: 5) 
 - **Equipment:** 
   - Clan Targeting Computer 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8374/hunchback-hbk-lgn-pin-anastasia) 
 - **Battle Value:** 1289 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

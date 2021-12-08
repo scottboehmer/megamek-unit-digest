@@ -33,7 +33,7 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Large Vibroblade 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8380/hitotsume-kozo-hkz-1fm-mulan) 
 - **Battle Value:** 1772 
 - [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1fm_mulan.md) 
 

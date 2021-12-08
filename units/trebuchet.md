@@ -195,7 +195,7 @@
   - Small Vibroblade 
 - **Equipment:** 
   - CASE II 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8378/trebuchet-tbt-7mm-merida) 
 - **Battle Value:** 2024 
 - [*More Info*](trebuchet/trebuchet_tbt-7mm_merida.md) 
 

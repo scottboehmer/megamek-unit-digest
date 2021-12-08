@@ -344,7 +344,7 @@
   - AC/20 (ammo: 5) 
 - **Equipment:** 
   - Clan Targeting Computer 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8374/hunchback-hbk-lgn-pin-anastasia) 
 - **Battle Value:** 1289 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_anastasia.md) 
 
@@ -361,7 +361,7 @@
   - Clan Medium Pulse Laser × 2 
   - Medium Laser × 2 
   - Clan Micro Pulse Laser × 4 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375/hunchback-hbk-lgn-pin-drizella) 
 - **Battle Value:** 1492 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_drizella.md) 
 

@@ -147,7 +147,7 @@
 - **Equipment:** 
   - Spikes × 2 
   - Drone Operating System 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366/celerity-clr-03-omm-rajah) 
 - **Battle Value:** 272 
 - [*More Info*](celerity/celerity_clr-03omm_rajah.md) 
 

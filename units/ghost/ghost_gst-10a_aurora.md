@@ -18,10 +18,12 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Void-Signature System 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373/ghost-gst-10a-aurora) 
 - **Battle Value:** 1371 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

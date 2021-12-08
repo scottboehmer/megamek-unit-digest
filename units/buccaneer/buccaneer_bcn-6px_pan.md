@@ -17,7 +17,7 @@
   - Small Vibroblade 
 - **Equipment:** 
   - Clan Partial Wing 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8379/buccaneer-bcn-6px-pan) 
 - **Battle Value:** 1384 
 
 ## Availability 

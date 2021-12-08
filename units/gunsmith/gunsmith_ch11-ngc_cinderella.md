@@ -15,10 +15,12 @@
   - Clan ER Medium Pulse Laser × 4 
 - **Equipment:** 
   - Laser Anti-Missile System 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8367/gunsmith-ch11-ngc-cinderella) 
 - **Battle Value:** 1519 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

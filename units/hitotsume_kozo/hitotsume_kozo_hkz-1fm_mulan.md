@@ -16,10 +16,12 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Large Vibroblade 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8380/hitotsume-kozo-hkz-1fm-mulan) 
 - **Battle Value:** 1772 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

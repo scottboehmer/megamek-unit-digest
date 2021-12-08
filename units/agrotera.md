@@ -37,7 +37,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Clan HarJel III × 3 
-- **Source:** XTRO: Royal Fantasy 
+- **Sources:** XTRO: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365/agroterra-agt-ua-ariel) 
 - **Battle Value:** 1917 
 - [*More Info*](agrotera/agrotera_agt-ua_ariel.md) 
 

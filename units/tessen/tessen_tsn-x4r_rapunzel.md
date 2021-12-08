@@ -17,10 +17,12 @@
   - Chain Whip 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8377/tessen-tsn-x-4r-rapunzel) 
 - **Battle Value:** unknown 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

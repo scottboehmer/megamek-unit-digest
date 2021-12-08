@@ -19,10 +19,12 @@
   - Advanced Point Defense System (ammo: 12) 
   - Clan Talons 
   - Drone Operating System 
-- **Source:** TRO 3145 Federated Suns - Dark Ages 
+- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8382/vulpes-vlp-1dx-beast) 
 - **Battle Value:** 1288 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Solaris 7 
 

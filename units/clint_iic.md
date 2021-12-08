@@ -49,7 +49,7 @@
   - Inner Sphere Medium Re-Engineered Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Source:** XTRO Royal Fantasy 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8369/clint-iic-2l-leia) 
 - **Battle Value:** 1497 
 - [*More Info*](clint_iic/clint_iic_2l_leia.md) 
 
