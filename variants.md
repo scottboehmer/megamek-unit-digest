@@ -4882,7 +4882,7 @@
 - [**Buccaneer BCN-3R**](units/buccaneer/buccaneer_bcn-3r.md) *Skirmisher (3055)* 
 - [**Buccaneer BCN-5W**](units/buccaneer/buccaneer_bcn-5w.md) *Scout (3069)* `C3i` 
 - [**Buccaneer BCN-6W**](units/buccaneer/buccaneer_bcn-6w.md) *Missile Boat (3073)* `C3i` 
-- [**Buccaneer BCN-6PX 'Pan'**](units/buccaneer/buccaneer_bcn-6px_pan.md) *Undefined (3120)* 
+- [**Buccaneer BCN-6PX 'Pan'**](units/buccaneer/buccaneer_bcn-6px_pan.md) *Undefined (3120)* `Unique` 
 
 #### [Bushwacker](units/bushwacker.md) 
 

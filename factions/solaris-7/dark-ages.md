@@ -146,6 +146,10 @@
 
 ### 55 Tons 
 
+#### [Buccaneer](../../units/buccaneer.md) 
+
+- [**Buccaneer BCN-6PX 'Pan'**](../../units/buccaneer/buccaneer_bcn-6px_pan.md) *Undefined (3120)* `Unique` 
+
 #### [Hitotsume Kozo](../../units/hitotsume_kozo.md) 
 
 - [**Hitotsume Kozo HKZ-1FM 'Mulan'**](../../units/hitotsume_kozo/hitotsume_kozo_hkz-1fm_mulan.md) *Undefined (3136)* `Unique` 
