@@ -14,10 +14,10 @@
   - Large Pulse Laser × 2 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
-  - Coolant Pod × 4 
+  - Coolant Pod × 6 
   - CASE 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/661/colossus-cl-p3) 
-- **Battle Value:** 1988 
+- **Battle Value:** 1986 
 - [*More Info*](colossus/colossus_cl-p3.md) 
 
 ## Colossus CLS-4S 

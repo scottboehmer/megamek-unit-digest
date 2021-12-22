@@ -35,6 +35,6 @@
   - Clan Light TAG 
   - Clan CASE II 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8111/omnimarauder-mad-br-oa) 
-- **Battle Value:** 2117 
+- **Battle Value:** 2127 
 - [*More Info*](omnimarauder/omnimarauder_mad-br-oa.md) 
 

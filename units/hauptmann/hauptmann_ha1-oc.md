@@ -12,7 +12,7 @@
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
-  - LRM 20 w/ Artemis IV (ammo: 0) 
+  - LRM 20 w/ Artemis IV (ammo: 12) 
   - ER Medium Laser × 2 
   - Medium Pulse Laser 
   - ER Small Laser 
@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc) 
-- **Battle Value:** 2287 
+- **Battle Value:** 2333 
 
 ## Availability 
 

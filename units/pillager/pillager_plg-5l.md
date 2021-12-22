@@ -15,12 +15,12 @@
   - Gauss Rifle (ammo: 32) 
   - Arrow IV (ammo: 15) 
   - ER PPC 
-  - ER Medium Laser × 2 
+  - ER Medium Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2528/pillager-plg-5l) 
-- **Battle Value:** 2618 
+- **Battle Value:** 2656 
 
 ## Availability 
 

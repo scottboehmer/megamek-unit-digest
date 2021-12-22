@@ -11,13 +11,13 @@
 - **Armor:** 293 
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
-  - Ultra AC/20 (ammo: 5) 
+  - Ultra AC/20 (ammo: 15) 
   - ER PPC × 2 
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob) 
-- **Battle Value:** 2138 
+- **Battle Value:** 2208 
 
 ## Availability 
 

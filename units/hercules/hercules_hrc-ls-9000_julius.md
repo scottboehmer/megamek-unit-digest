@@ -12,14 +12,14 @@
 - **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 10 Cluster, 5 Standard) 
-  - Medium Pulse Laser 
-  - Medium Laser 
+  - Medium Pulse Laser × 2 
+  - Medium Laser × 2 
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483/hercules-hrc-ls-9000-julius) 
-- **Battle Value:** 1532 
+- **Battle Value:** 1661 
 
 ## Availability 
 

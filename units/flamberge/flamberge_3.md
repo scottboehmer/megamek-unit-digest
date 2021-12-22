@@ -12,7 +12,7 @@
 - **Armor:** 216 
 - **Heat Sinks:** 11 (25) 
 - **Weapons:** 
-  - Ultra AC/20 (ammo: 5) 
+  - Ultra AC/20 (ammo: 15) 
   - Medium Pulse Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
   - Micro Pulse Laser 
@@ -20,7 +20,7 @@
   - CASE 
   - Partial Wing 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1115/flamberge-3) 
-- **Battle Value:** 2209 
+- **Battle Value:** 2346 
 
 ## Availability 
 

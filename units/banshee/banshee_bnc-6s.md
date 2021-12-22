@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/248/banshee-bnc-6s) 
-- **Battle Value:** 1889 
+- **Battle Value:** 1899 
 
 ## Availability 
 

@@ -12,12 +12,12 @@
 - **Cockpit:** Small 
 - **Heat Sinks:** 14 (28) 
 - **Weapons:** 
-  - Long Tom Cannon × 2 (ammo: 20) 
+  - Long Tom Cannon × 2 (ammo: 30) 
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Coolant Pod × 2 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2526/pillager-plg-4x-anvil) 
-- **Battle Value:** 1884 
+- **Battle Value:** 1927 
 
 ## Availability 
 

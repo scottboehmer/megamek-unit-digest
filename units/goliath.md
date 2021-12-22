@@ -83,7 +83,7 @@
 - **Equipment:** 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1234/goliath-gol-4s) 
-- **Battle Value:** 1912 
+- **Battle Value:** 1923 
 - [*More Info*](goliath/goliath_gol-4s.md) 
 
 ## Goliath GOL-5D 

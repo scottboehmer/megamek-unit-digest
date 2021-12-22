@@ -194,12 +194,12 @@
   - Active Probe 
   - Talons 
   - Targeting Computer 
-  - Inner Sphere Coolant Pod 
-  - Inner Sphere HarJel × 5 
+  - Armored Inner Sphere Coolant Pod 
+  - Armored Inner Sphere HarJel × 5 
   - CASE 
-  - Liquid Cargo × 2 
+  - Armored Liquid Cargo × 2 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u) 
-- **Battle Value:** 2472 
+- **Battle Value:** 2520 
 - [*More Info*](turkina/turkina_u.md) 
 
 ## Turkina X 

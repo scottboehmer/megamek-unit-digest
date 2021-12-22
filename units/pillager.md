@@ -66,12 +66,12 @@
   - Gauss Rifle (ammo: 32) 
   - Arrow IV (ammo: 15) 
   - ER PPC 
-  - ER Medium Laser × 2 
+  - ER Medium Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2528/pillager-plg-5l) 
-- **Battle Value:** 2618 
+- **Battle Value:** 2656 
 - [*More Info*](pillager/pillager_plg-5l.md) 
 
 ## Pillager PLG-5Z 
@@ -104,11 +104,11 @@
 - **Cockpit:** Small 
 - **Heat Sinks:** 14 (28) 
 - **Weapons:** 
-  - Long Tom Cannon × 2 (ammo: 20) 
+  - Long Tom Cannon × 2 (ammo: 30) 
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Coolant Pod × 2 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2526/pillager-plg-4x-anvil) 
-- **Battle Value:** 1884 
+- **Battle Value:** 1927 
 - [*More Info*](pillager/pillager_plg-4x_anvil.md) 
 

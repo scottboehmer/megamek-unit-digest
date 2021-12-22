@@ -228,12 +228,12 @@
 - **Weapons:** 
   - LRM 20 (ammo: 12) 
   - Arrow IV (ammo: 10) 
-  - Medium Pulse Laser 
-  - ER Medium Laser 
+  - Medium Pulse Laser × 2 
+  - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7729/vulture-mad-dog-v) 
-- **Battle Value:** 1784 
+- **Battle Value:** 2084 
 - [*More Info*](mad_dog/mad_dog_v.md) 
 
 ## Mad Dog "Vulture" T 

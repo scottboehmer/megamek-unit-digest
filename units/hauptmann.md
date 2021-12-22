@@ -49,13 +49,13 @@
 - **Armor:** 293 
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
-  - Ultra AC/20 (ammo: 5) 
+  - Ultra AC/20 (ammo: 15) 
   - ER PPC × 2 
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob) 
-- **Battle Value:** 2138 
+- **Battle Value:** 2208 
 - [*More Info*](hauptmann/hauptmann_ha1-ob.md) 
 
 ## Hauptmann HA1-OC 
@@ -68,7 +68,7 @@
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
-  - LRM 20 w/ Artemis IV (ammo: 0) 
+  - LRM 20 w/ Artemis IV (ammo: 12) 
   - ER Medium Laser × 2 
   - Medium Pulse Laser 
   - ER Small Laser 
@@ -76,7 +76,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc) 
-- **Battle Value:** 2287 
+- **Battle Value:** 2333 
 - [*More Info*](hauptmann/hauptmann_ha1-oc.md) 
 
 ## Hauptmann HA1-OD 
