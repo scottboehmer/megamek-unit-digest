@@ -438,10 +438,10 @@
 - [**Mauna Kea Command Vessel (LRM)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrm.md) *Missile Boat (2515)* 
 - [**Mauna Kea Command Vessel (LRT)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
-- [**Sturmfeur Heavy Tank (SRM)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) *Juggernaut (3023)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (SRM)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) *Undefined (3023)* 
 
 ### 95 Tons 
 

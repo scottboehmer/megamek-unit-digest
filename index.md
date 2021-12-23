@@ -495,6 +495,7 @@
 - [Inquisitor](units/inquisitor.md) 
 - [Inquisitor II](units/inquisitor_ii.md) 
 - [Ion Sparrow](units/ion_sparrow.md) 
+- [Iron Cheetah](units/iron_cheetah.md) 
 - [Ishtar Heavy Fire Support Tank](units/ishtar_heavy_fire_support_tank.md) 
 
 ## J 
@@ -850,6 +851,7 @@
 - [Rifleman II](units/rifleman_ii.md) 
 - [Rifleman IIC](units/rifleman_iic.md) 
 - [Rifleman III](units/rifleman_iii.md) 
+- [Rime Otter](units/rime_otter.md) 
 - [Ripper Infantry Transport](units/ripper_infantry_transport.md) 
 - [Roadrunner (Emerald Harrier)](units/roadrunner_emerald_harrier.md) 
 - [Rock Hound](units/rock_hound.md) 
@@ -985,7 +987,7 @@
 - [Strix Stealth VTOL](units/strix_stealth_vtol.md) 
 - [StrongArm](units/strongarm.md) 
 - [SturmFeur 'Kalki' Cruise Missile Launcher](units/sturmfeur_kalki_cruise_missile_launcher.md) 
-- [Sturmfeur Heavy Tank](units/sturmfeur_heavy_tank.md) 
+- [SturmFeur Heavy Tank](units/sturmfeur_heavy_tank.md) 
 - [Stygian Strike Tank](units/stygian_strike_tank.md) 
 - [SuburbanMech](units/suburbanmech.md) 
 - [Summoner](units/summoner.md) 

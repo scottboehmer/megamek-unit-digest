@@ -879,6 +879,10 @@
 - [**Marshal MHL-X1**](../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
 
+#### [Scorpion](../../units/scorpion.md) 
+
+- [**Scorpion SCP-2N**](../../units/scorpion/scorpion_scp-2n.md) *Skirmisher (3131)* `TAG` 
+
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2H**](../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 

@@ -185,7 +185,7 @@
   - Large Pulse Laser × 2 
   - ER Large Laser 
   - ER Medium Laser × 2 
-  - Streak SRM 4 × 4 (ammo: 0) 
+  - Streak SRM 4 × 4 (ammo: 25) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - MASC 
@@ -194,6 +194,6 @@
   - Inner Sphere Radical Heat Sink System 
   - Supercharger 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6855/deimos-e) 
-- **Battle Value:** 3606 
+- **Battle Value:** 3620 
 - [*More Info*](deimos/deimos_e.md) 
 

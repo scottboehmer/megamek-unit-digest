@@ -13,7 +13,7 @@
 - **Heat Sinks:** 17 (34) 
 - **Weapons:** 
   - Clan ER PPC × 2 
-  - Clan Streak SRM 6 (ammo: 0) 
+  - Clan Streak SRM 6 (ammo: 15) 
   - Clan ER Medium Laser × 2 
   - Clan ER Small Laser 
 - **Equipment:** 
@@ -21,7 +21,7 @@
   - CASE II 
   - Clan Targeting Computer 
 - **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955/templar-iii-tlr-2j-arthur) 
-- **Battle Value:** 2705 
+- **Battle Value:** 2722 
 
 ## Availability 
 

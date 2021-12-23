@@ -94,7 +94,7 @@
 - **Armor:** 168 (Stealth) 
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
-  - Sniper Cannon (ammo: 0) 
+  - Sniper Cannon (ammo: 20) 
   - Clan Medium Chemical Laser (ammo: 30) 
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 

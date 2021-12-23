@@ -881,9 +881,9 @@
 - [**Mauna Kea Command Vessel (LRT)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
 - [**Mauna Kea Command Vessel (Standard)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) *Missile Boat (2515)* 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
 
 ### 90 Tons 
 
@@ -1259,6 +1259,7 @@
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
@@ -1644,6 +1645,10 @@
 - [**Rook NH-3X**](../../units/rook/rook_nh-3x.md) *Striker (3076)* 
 - [**Rook NH-1X 'Rook-X'**](../../units/rook/rook_nh-1x_rook-x.md) *Juggernaut (3077)* 
 
+#### [Scorpion](../../units/scorpion.md) 
+
+- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
+
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-5D**](../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
@@ -1681,7 +1686,7 @@
 - [**Wolverine WVR-8D**](../../units/wolverine/wolverine_wvr-8d.md) *Skirmisher (3066)* 
 - [**Wolverine WVR-9D**](../../units/wolverine/wolverine_wvr-9d.md) *Skirmisher (3066)* `TAG` 
 - [**Wolverine WVR-8C**](../../units/wolverine/wolverine_wvr-8c.md) *Skirmisher (3067)* `C3 Support` 
-- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
+- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3077)* `C3 Support` , `ECM` 
 - [**Wolverine WVR-9R**](../../units/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)* 
 - [**Wolverine WVR-10R**](../../units/wolverine/wolverine_wvr-10r.md) *Skirmisher (3115)* 
 - [**Wolverine WVR-10D**](../../units/wolverine/wolverine_wvr-10d.md) *Skirmisher (3143)* 

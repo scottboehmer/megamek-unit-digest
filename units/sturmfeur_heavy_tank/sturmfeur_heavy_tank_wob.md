@@ -1,10 +1,10 @@
-# Sturmfeur Heavy Tank (WoB) 
+# SturmFeur Heavy Tank (WoB) 
 
-[Other Sturmfeur Heavy Tank variants](../sturmfeur_heavy_tank.md) 
+[Other SturmFeur Heavy Tank variants](../sturmfeur_heavy_tank.md) 
 
-## Sturmfeur Heavy Tank (WoB) 
+## SturmFeur Heavy Tank (WoB) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3075) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 
@@ -19,7 +19,7 @@
   - C3i 
   - CASE 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967/sturmfeur-heavy-tank-wob) 
+- **Sources:** JTP Hesperus II - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967/sturmfeur-heavy-tank-wob) 
 - **Battle Value:** 1559 
 
 ## Availability 

@@ -157,6 +157,7 @@
 - [Early Republic](clan-sea-fox/early-republic.md) 
 - [Late Republic](clan-sea-fox/late-republic.md) 
 - [Dark Ages](clan-sea-fox/dark-ages.md) 
+- [ilClan](clan-sea-fox/ilclan.md) 
 
 ## Clan Smoke Jaguar 
 
@@ -286,6 +287,7 @@
 - [Early Republic](federated-suns/early-republic.md) 
 - [Late Republic](federated-suns/late-republic.md) 
 - [Dark Ages](federated-suns/dark-ages.md) 
+- [ilClan](federated-suns/ilclan.md) 
 
 ## Filtvelt Coalition 
 
@@ -311,6 +313,7 @@
 - [Civil War](free-worlds-league/civil-war.md) 
 - [Jihad](free-worlds-league/jihad.md) 
 - [Dark Ages](free-worlds-league/dark-ages.md) 
+- [ilClan](free-worlds-league/ilclan.md) 
 
 ## Free Worlds League - Non-Aligned Worlds 
 
@@ -354,6 +357,7 @@
 - [Early Republic](lyran-commonwealth/early-republic.md) 
 - [Late Republic](lyran-commonwealth/late-republic.md) 
 - [Dark Ages](lyran-commonwealth/dark-ages.md) 
+- [ilClan](lyran-commonwealth/ilclan.md) 
 
 ## Magistracy of Canopus 
 
@@ -440,6 +444,7 @@
 - [Early Republic](raven-alliance/early-republic.md) 
 - [Late Republic](raven-alliance/late-republic.md) 
 - [Dark Ages](raven-alliance/dark-ages.md) 
+- [ilClan](raven-alliance/ilclan.md) 
 
 ## Regulan Fiefs 
 

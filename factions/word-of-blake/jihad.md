@@ -697,9 +697,9 @@
 
 - [**Palmoni Assault Infantry Fighting Vehicle (Standard)**](../../units/palmoni_assault_infantry_fighting_vehicle/palmoni_assault_infantry_fighting_vehicle_standard.md) *Juggernaut (3076)* `C3i` , `Transport:8.0` 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (WoB)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) *Juggernaut (3075)* `C3i` , `TAG` 
+- [**SturmFeur Heavy Tank (WoB)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) *Undefined (3075)* `C3i` , `TAG` 
 
 #### [Trajan Assault Infantry Fighting Vehicle](../../units/trajan_assault_infantry_fighting_vehicle.md) 
 
@@ -1447,7 +1447,7 @@
 - [**Wolverine WVR-7D**](../../units/wolverine/wolverine_wvr-7d.md) *Skirmisher (3050)* 
 - [**Wolverine WVR-7M**](../../units/wolverine/wolverine_wvr-7m.md) *Skirmisher (3050)* 
 - [**Wolverine WVR-7M2**](../../units/wolverine/wolverine_wvr-7m2.md) *Skirmisher (3072)* 
-- [**Wolverine WVR-9W**](../../units/wolverine/wolverine_wvr-9w.md) *Striker (3077)* `C3i` 
+- [**Wolverine WVR-9W**](../../units/wolverine/wolverine_wvr-9w.md) *Striker (3073)* `C3i` 
 
 #### [Wolverine II](../../units/wolverine_ii.md) 
 
@@ -1794,7 +1794,7 @@
 #### [Flashman](../../units/flashman.md) 
 
 - [**Flashman FLS-8K**](../../units/flashman/flashman_fls-8k.md) *Skirmisher (2701)* 
-- [**Flashman FLS-9B**](../../units/flashman/flashman_fls-9b.md) *Skirmisher (3068)* `C3i` 
+- [**Flashman FLS-9B**](../../units/flashman/flashman_fls-9b.md) *Skirmisher (3070)* `C3i` 
 
 #### [Marauder](../../units/marauder.md) 
 

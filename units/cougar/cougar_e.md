@@ -15,7 +15,7 @@
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
+- **Sources:** ilClan Rec Guide 19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
 - **Battle Value:** 1442 
 
 ## Availability 

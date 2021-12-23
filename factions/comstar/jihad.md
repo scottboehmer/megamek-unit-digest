@@ -1154,7 +1154,7 @@
 #### [Wolverine](../../units/wolverine.md) 
 
 - [**Wolverine WVR-6R**](../../units/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)* 
-- [**Wolverine WVR-9W**](../../units/wolverine/wolverine_wvr-9w.md) *Striker (3077)* `C3i` 
+- [**Wolverine WVR-9W**](../../units/wolverine/wolverine_wvr-9w.md) *Striker (3073)* `C3i` 
 
 ### 60 Tons 
 

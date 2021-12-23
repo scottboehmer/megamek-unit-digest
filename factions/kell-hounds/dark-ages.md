@@ -198,9 +198,9 @@
 - [**Mauna Kea Command Vessel (LRT)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
 - [**Mauna Kea Command Vessel (Standard)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) *Missile Boat (2515)* 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Juggernaut (3066)* 
+- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Undefined (3066)* 
 
 ### 95 Tons 
 
@@ -303,6 +303,7 @@
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [Wolfhound](../../units/wolfhound.md) 
 
@@ -396,6 +397,7 @@
 #### [Scorpion](../../units/scorpion.md) 
 
 - [**Scorpion SCP-1TB**](../../units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
+- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 ### 60 Tons 
 

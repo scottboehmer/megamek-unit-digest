@@ -226,14 +226,14 @@
 ## Mist Lynx "Koshi" I 
 
 - **Role:** Striker 
-- **Tech Base:** Clan Mixed (3086) 
+- **Tech Base:** Clan (3086) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 
   - **Jumping:** 6 
 - **Armor:** 67 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - Narc (ammo: 0) 
+  - Narc (ammo: 12) 
   - SRM 2 × 5 (ammo: 50) 
 - **Equipment:** 
   - Active Probe 

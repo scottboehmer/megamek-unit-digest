@@ -16,7 +16,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
+- **Sources:** ilClan Rec Guide 19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
 - **Battle Value:** 1453 
 
 ## Availability 

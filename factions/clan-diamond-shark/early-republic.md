@@ -330,9 +330,9 @@
 
 - [**Huitzilopochtli Assault Tank 'Huey' (Standard)**](../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_standard.md) *Missile Boat (2845)* `ECM` 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
 
 ### 95 Tons 
 
@@ -933,4 +933,12 @@
 - [**Dire Wolf X**](../../units/dire_wolf/dire_wolf_x.md) *Juggernaut (3060)* 
 - [**Dire Wolf D**](../../units/dire_wolf/dire_wolf_d.md) *Juggernaut (3069)* 
 - [**Dire Wolf U**](../../units/dire_wolf/dire_wolf_u.md) *Juggernaut (3077)* 
+
+#### [Iron Cheetah](../../units/iron_cheetah.md) 
+
+- [**Iron Cheetah Prime**](../../units/iron_cheetah/iron_cheetah_prime.md) *Sniper (3054)* 
+- [**Iron Cheetah A**](../../units/iron_cheetah/iron_cheetah_a.md) *Juggernaut (3054)* `Active Probe` 
+- [**Iron Cheetah B**](../../units/iron_cheetah/iron_cheetah_b.md) *Juggernaut (3054)* 
+- [**Iron Cheetah C**](../../units/iron_cheetah/iron_cheetah_c.md) *Brawler (3054)* 
+- [**Iron Cheetah D**](../../units/iron_cheetah/iron_cheetah_d.md) *Brawler (3054)* `ECM` 
 

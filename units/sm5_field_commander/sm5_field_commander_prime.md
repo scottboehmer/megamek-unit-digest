@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-  - Supercharger 
+  - Inner Sphere Supercharger 
   - Inner Sphere TAG 
 - **Sources:** Shrapnel 6 - ilClan , [Master Unit List](http://masterunitlist.info/Unit/Details/8265/sm5-field-commander-prototype-prime) 
 - **Battle Value:** 2021 

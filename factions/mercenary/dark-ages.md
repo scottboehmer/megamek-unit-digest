@@ -876,9 +876,9 @@
 - [**Mauna Kea Command Vessel (LRT)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
 - [**Mauna Kea Command Vessel (Standard)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) *Missile Boat (2515)* 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
 
 ### 90 Tons 
 
@@ -1286,6 +1286,7 @@
 - [**Spider SDR-8X**](../../units/spider/spider_sdr-8x.md) *Striker (3078)* 
 - [**Spider SDR-8K**](../../units/spider/spider_sdr-8k.md) *Scout (3084)* 
 - [**Spider SDR-8R**](../../units/spider/spider_sdr-8r.md) *Scout (3084)* 
+- [**Spider SDR-9M**](../../units/spider/spider_sdr-9m.md) *Scout (3096)* 
 - [**Spider SDR-8Xr**](../../units/spider/spider_sdr-8xr.md) *Scout (3103)* 
 
 #### [UrbanMech](../../units/urbanmech.md) 
@@ -1340,6 +1341,7 @@
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
@@ -1977,6 +1979,8 @@
 - [**Scorpion SCP-12S**](../../units/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)* 
 - [**Scorpion SCP-1TB**](../../units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
 - [**Scorpion SCP-10M**](../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
+- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
+- [**Scorpion SCP-2N**](../../units/scorpion/scorpion_scp-2n.md) *Skirmisher (3131)* `TAG` 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -2021,7 +2025,7 @@
 - [**Wolverine WVR-8C**](../../units/wolverine/wolverine_wvr-8c.md) *Skirmisher (3067)* `C3 Support` 
 - [**Wolverine WVR-7M2**](../../units/wolverine/wolverine_wvr-7m2.md) *Skirmisher (3072)* 
 - [**Wolverine WVR-9M**](../../units/wolverine/wolverine_wvr-9m.md) *Skirmisher (3073)* 
-- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
+- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3077)* `C3 Support` , `ECM` 
 - [**Wolverine WVR-9R**](../../units/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)* 
 - [**Wolverine WVR-11M**](../../units/wolverine/wolverine_wvr-11m.md) *Skirmisher (3122)* 
 - [**Wolverine WVR-10D**](../../units/wolverine/wolverine_wvr-10d.md) *Skirmisher (3143)* 
@@ -2495,6 +2499,7 @@
 - [**Orion ON1-MD**](../../units/orion/orion_on1-md.md) *Brawler (3062)* 
 - [**Orion ON2-M**](../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 - [**Orion ON3-M**](../../units/orion/orion_on3-m.md) *Sniper (3083)* `TAG` 
+- [**Orion C 2**](../../units/orion/orion_c_2.md) *Brawler (3143)* 
 
 #### [Pandarus](../../units/pandarus.md) 
 

@@ -5,14 +5,14 @@
 ## Jenner IIC 3 
 
 - **Role:** Striker 
-- **Tech Base:** Clan Mixed (3048) 
+- **Tech Base:** Clan (3048) 
 - **Chassis:** 35 tons (Endo Steel) 
 - **Movement:** 9 / 14, XL 
   - **Jumping:** 7 
 - **Armor:** 67 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - Narc (ammo: 0) 
+  - Narc (ammo: 12) 
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - CASE 

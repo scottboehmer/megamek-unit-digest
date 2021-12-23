@@ -207,6 +207,21 @@
 - **Battle Value:** 694 
 - [*More Info*](spider/spider_sdr-8r.md) 
 
+## Spider SDR-9M 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3096) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 76 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium VSP Laser × 2 
+- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
+- **Battle Value:** 687 
+- [*More Info*](spider/spider_sdr-9m.md) 
+
 ## Spider SDR-8Xr 
 
 - **Role:** Scout 

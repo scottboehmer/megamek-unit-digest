@@ -73,7 +73,7 @@
 ## Flashman FLS-9B 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Inner Sphere (3068) 
+- **Tech Base:** Inner Sphere (3070) 
 - **Chassis:** 75 tons (Endo Steel) 
 - **Movement:** 5 / 8, Light 
 - **Armor:** 220 (Light Ferro Fibrous) 

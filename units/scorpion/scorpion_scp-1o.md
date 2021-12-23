@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
+- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
 - **Battle Value:** 1098 
 
 ## Availability 

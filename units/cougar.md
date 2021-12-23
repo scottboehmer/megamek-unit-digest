@@ -101,7 +101,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
+- **Sources:** ilClan Rec Guide 19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
 - **Battle Value:** 1323 
 - [*More Info*](cougar/cougar_h.md) 
 
@@ -118,7 +118,7 @@
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
+- **Sources:** ilClan Rec Guide 19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
 - **Battle Value:** 1442 
 - [*More Info*](cougar/cougar_e.md) 
 
@@ -139,7 +139,7 @@
   - Machine Gun Array × 2 
   - B-Pod × 2 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
+- **Sources:** ilClan Rec Guide 19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
 - **Battle Value:** 1401 
 - [*More Info*](cougar/cougar_f.md) 
 
@@ -157,7 +157,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
+- **Sources:** ilClan Rec Guide 19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
 - **Battle Value:** 1453 
 - [*More Info*](cougar/cougar_g.md) 
 
@@ -231,7 +231,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
+- **Sources:** ilClan Rec Guide 19 -  - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
 - **Battle Value:** 1738 
 - [*More Info*](cougar/cougar_i.md) 
 
@@ -250,4 +250,24 @@
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard) 
 - **Battle Value:** 1474 
 - [*More Info*](cougar/cougar_x.md) 
+
+## Cougar T 
+
+- **Role:** Brawler 
+- **Tech Base:** Clan (3142) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 5 / 8 (10), XL 
+- **Armor:** 105 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Streak LRM 10 × 2 (ammo: 24) 
+  - ER Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Watchdog CEWS 
+  - CASE 
+  - Targeting Computer 
+  - Supercharger 
+- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325/cougar-t) 
+- **Battle Value:** 1748 
+- [*More Info*](cougar/cougar_t.md) 
 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
+- **Sources:** ilClan Rec Guide 19 -  - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
 - **Battle Value:** 1738 
 
 ## Availability 

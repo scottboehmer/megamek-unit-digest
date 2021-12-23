@@ -1,8 +1,8 @@
-# Sturmfeur Heavy Tank 
+# SturmFeur Heavy Tank 
 
-## Sturmfeur Heavy Tank (Standard) 
+## SturmFeur Heavy Tank (Standard) 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3018) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -15,9 +15,9 @@
 - **Battle Value:** 1400 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) 
 
-## Sturmfeur Heavy Tank (SRM) 
+## SturmFeur Heavy Tank (SRM) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3023) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -31,9 +31,9 @@
 - **Battle Value:** 1390 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) 
 
-## Sturmfeur Heavy Tank (Heavy Gauss) 
+## SturmFeur Heavy Tank (Heavy Gauss) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3066) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Fusion 
@@ -47,9 +47,9 @@
 - **Battle Value:** 1711 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) 
 
-## Sturmfeur Heavy Tank (WoB) 
+## SturmFeur Heavy Tank (WoB) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3075) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 
@@ -64,7 +64,7 @@
   - C3i 
   - CASE 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967/sturmfeur-heavy-tank-wob) 
+- **Sources:** JTP Hesperus II - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967/sturmfeur-heavy-tank-wob) 
 - **Battle Value:** 1559 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) 
 

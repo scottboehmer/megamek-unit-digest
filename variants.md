@@ -1978,12 +1978,12 @@
 
 - [**Palmoni Assault Infantry Fighting Vehicle (Standard)**](units/palmoni_assault_infantry_fighting_vehicle/palmoni_assault_infantry_fighting_vehicle_standard.md) *Juggernaut (3076)* `C3i` , `Transport:8.0` 
 
-#### [Sturmfeur Heavy Tank](units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
-- [**Sturmfeur Heavy Tank (SRM)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) *Juggernaut (3023)* 
-- [**Sturmfeur Heavy Tank (Heavy Gauss)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Juggernaut (3066)* 
-- [**Sturmfeur Heavy Tank (WoB)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) *Juggernaut (3075)* `C3i` , `TAG` 
+- [**SturmFeur Heavy Tank (Standard)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (SRM)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) *Undefined (3023)* 
+- [**SturmFeur Heavy Tank (Heavy Gauss)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Undefined (3066)* 
+- [**SturmFeur Heavy Tank (WoB)**](units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) *Undefined (3075)* `C3i` , `TAG` 
 
 #### [Trajan Assault Infantry Fighting Vehicle](units/trajan_assault_infantry_fighting_vehicle.md) 
 
@@ -2384,6 +2384,7 @@
 - [**Mercury MCY-97**](units/mercury/mercury_mcy-97.md) *Scout (3049)* `Active Probe` 
 - [**Mercury MCY-102**](units/mercury/mercury_mcy-102.md) *Scout (3067)* `C3i` 
 - [**Mercury MCY-104**](units/mercury/mercury_mcy-104.md) *Striker (3069)* `C3i` , `TAG` 
+- [**Mercury MCY-105**](units/mercury/mercury_mcy-105.md) *Scout (3092)* 
 
 #### [Piranha](units/piranha.md) 
 
@@ -3148,6 +3149,7 @@
 - [**Spider SDR-8X**](units/spider/spider_sdr-8x.md) *Striker (3078)* 
 - [**Spider SDR-8K**](units/spider/spider_sdr-8k.md) *Scout (3084)* 
 - [**Spider SDR-8R**](units/spider/spider_sdr-8r.md) *Scout (3084)* 
+- [**Spider SDR-9M**](units/spider/spider_sdr-9m.md) *Scout (3096)* 
 - [**Spider SDR-8Xr**](units/spider/spider_sdr-8xr.md) *Scout (3103)* 
 - [**Spider SDR-10K**](units/spider/spider_sdr-10k.md) *Scout (3143)* 
 
@@ -3291,6 +3293,7 @@
 - [**Cougar X 3**](units/cougar/cougar_x_3.md) *Striker (3093)* 
 - [**Cougar I**](units/cougar/cougar_i.md) *Striker (3099)* 
 - [**Cougar X**](units/cougar/cougar_x.md) *Striker (3132)* 
+- [**Cougar T**](units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](units/demolitionmech.md) 
 
@@ -5125,6 +5128,14 @@
 
 - [**Rawhide RWD-R1**](units/rawhide/rawhide_rwd-r1.md) *Skirmisher (3137)* 
 
+#### [Rime Otter](units/rime_otter.md) 
+
+- [**Rime Otter Prime**](units/rime_otter/rime_otter_prime.md) *Brawler (3146)* 
+- [**Rime Otter A**](units/rime_otter/rime_otter_a.md) *Skirmisher (3146)* 
+- [**Rime Otter B**](units/rime_otter/rime_otter_b.md) *Skirmisher (3146)* 
+- [**Rime Otter C**](units/rime_otter/rime_otter_c.md) *Skirmisher (3146)* 
+- [**Rime Otter D**](units/rime_otter/rime_otter_d.md) *Scout (3146)* `Active Probe` , `TAG` 
+
 #### [Rook](units/rook.md) 
 
 - [**Rook NH-1A**](units/rook/rook_nh-1a.md) *Juggernaut (3074)* 
@@ -5151,6 +5162,9 @@
 - [**Scorpion SCP-12K**](units/scorpion/scorpion_scp-12k.md) *Missile Boat (3071)* `C3 Main` , `TAG` 
 - [**Scorpion SCP-1TB**](units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
 - [**Scorpion SCP-10M**](units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
+- [**Scorpion SCP-1BR**](units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
+- [**Scorpion SCP-2N**](units/scorpion/scorpion_scp-2n.md) *Skirmisher (3131)* `TAG` 
+- [**Scorpion C**](units/scorpion/scorpion_c.md) *Skirmisher (3150)* 
 
 #### [Screamer LAM](units/screamer_lam.md) 
 
@@ -5292,9 +5306,9 @@
 - [**Wolverine WVR-8C**](units/wolverine/wolverine_wvr-8c.md) *Skirmisher (3067)* `C3 Support` 
 - [**Wolverine WVR-7M2**](units/wolverine/wolverine_wvr-7m2.md) *Skirmisher (3072)* 
 - [**Wolverine WVR-9M**](units/wolverine/wolverine_wvr-9m.md) *Skirmisher (3073)* 
+- [**Wolverine WVR-9W**](units/wolverine/wolverine_wvr-9w.md) *Striker (3073)* `C3i` 
 - [**Wolverine WVR-9K**](units/wolverine/wolverine_wvr-9k.md) *Skirmisher (3074)* `C3 Support` 
-- [**Wolverine WVR-9W**](units/wolverine/wolverine_wvr-9w.md) *Striker (3077)* `C3i` 
-- [**Wolverine WVR-9W2**](units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
+- [**Wolverine WVR-9W2**](units/wolverine/wolverine_wvr-9w2.md) *Striker (3077)* `C3 Support` , `ECM` 
 - [**Wolverine WVR-9R**](units/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)* 
 - [**Wolverine WVR-10R**](units/wolverine/wolverine_wvr-10r.md) *Skirmisher (3115)* 
 - [**Wolverine WVR-11M**](units/wolverine/wolverine_wvr-11m.md) *Skirmisher (3122)* 
@@ -6580,7 +6594,7 @@
 - [**Flashman FLS-7K**](units/flashman/flashman_fls-7k.md) *Brawler (2796)* 
 - [**Flashman FLS-9C**](units/flashman/flashman_fls-9c.md) *Skirmisher (3061)* `C3i` 
 - [**Flashman FLS-C**](units/flashman/flashman_fls-c.md) *Skirmisher (3063)* `C3 Support` 
-- [**Flashman FLS-9B**](units/flashman/flashman_fls-9b.md) *Skirmisher (3068)* `C3i` 
+- [**Flashman FLS-9B**](units/flashman/flashman_fls-9b.md) *Skirmisher (3070)* `C3i` 
 - [**Flashman FLS-9M**](units/flashman/flashman_fls-9m.md) *Brawler (3070)* 
 
 #### [Götterdämmerung](units/götterdämmerung.md) 
@@ -6733,6 +6747,7 @@
 - [**Orion ON2-M**](units/orion/orion_on2-m.md) *Brawler (3063)* 
 - [**Orion ON3-MX**](units/orion/orion_on3-mx.md) *Sniper (3075)* `Unique` 
 - [**Orion ON3-M**](units/orion/orion_on3-m.md) *Sniper (3083)* `TAG` 
+- [**Orion C 2**](units/orion/orion_c_2.md) *Brawler (3143)* 
 
 #### [Orion IIC](units/orion_iic.md) 
 
@@ -8027,6 +8042,15 @@
 - [**Imp IMP-2E**](units/imp/imp_imp-2e.md) *Juggernaut (3005)* 
 - [**Imp IMP-3E**](units/imp/imp_imp-3e.md) *Juggernaut (3050)* 
 - [**Imp IMP-4E**](units/imp/imp_imp-4e.md) *Juggernaut (3060)* 
+
+#### [Iron Cheetah](units/iron_cheetah.md) 
+
+- [**Iron Cheetah Prime**](units/iron_cheetah/iron_cheetah_prime.md) *Sniper (3054)* 
+- [**Iron Cheetah A**](units/iron_cheetah/iron_cheetah_a.md) *Juggernaut (3054)* `Active Probe` 
+- [**Iron Cheetah B**](units/iron_cheetah/iron_cheetah_b.md) *Juggernaut (3054)* 
+- [**Iron Cheetah C**](units/iron_cheetah/iron_cheetah_c.md) *Brawler (3054)* 
+- [**Iron Cheetah D**](units/iron_cheetah/iron_cheetah_d.md) *Brawler (3054)* `ECM` 
+- [**Iron Cheetah L**](units/iron_cheetah/iron_cheetah_l.md) *Brawler (3135)* `Active Probe` 
 
 #### [Jupiter](units/jupiter.md) 
 

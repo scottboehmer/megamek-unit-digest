@@ -389,10 +389,10 @@
 
 ### 85 Tons 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
-- [**Sturmfeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Juggernaut (3066)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Undefined (3066)* 
 
 ### 95 Tons 
 
@@ -642,6 +642,7 @@
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 

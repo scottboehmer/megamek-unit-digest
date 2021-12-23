@@ -619,6 +619,7 @@
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
@@ -823,6 +824,10 @@
 - [**Ryoken III-XP C**](../../units/ryoken_iii-xp/ryoken_iii-xp_c.md) *Striker (3143)* 
 - [**Ryoken III-XP D**](../../units/ryoken_iii-xp/ryoken_iii-xp_d.md) *Striker (3143)* 
 
+#### [Scorpion](../../units/scorpion.md) 
+
+- [**Scorpion C**](../../units/scorpion/scorpion_c.md) *Skirmisher (3150)* 
+
 #### [Stormcrow](../../units/stormcrow.md) 
 
 - [**Stormcrow Prime**](../../units/stormcrow/stormcrow_prime.md) *Striker (2930)* 
@@ -980,6 +985,10 @@
 #### [Black Knight](../../units/black_knight.md) 
 
 - [**Black Knight BLK-NT-4D**](../../units/black_knight/black_knight_blk-nt-4d.md) *Juggernaut (3127)* `ECM` 
+
+#### [Orion](../../units/orion.md) 
+
+- [**Orion C 2**](../../units/orion/orion_c_2.md) *Brawler (3143)* 
 
 #### [Orion IIC](../../units/orion_iic.md) 
 

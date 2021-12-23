@@ -764,6 +764,7 @@
 
 - [**Spider SDR-5V**](../../units/spider/spider_sdr-5v.md) *Scout (2650)* 
 - [**Spider SDR-8M**](../../units/spider/spider_sdr-8m.md) *Striker (3060)* 
+- [**Spider SDR-9M**](../../units/spider/spider_sdr-9m.md) *Scout (3096)* 
 
 #### [UrbanMech](../../units/urbanmech.md) 
 

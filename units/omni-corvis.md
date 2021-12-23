@@ -39,14 +39,14 @@
 ## Omni-Corvis B 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan Mixed (2921) 
+- **Tech Base:** Clan (2921) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8 
 - **Armor:** 153 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 36) 
-  - Narc (ammo: 0) 
+  - Narc (ammo: 12) 
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 

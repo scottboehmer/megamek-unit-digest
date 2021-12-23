@@ -859,10 +859,10 @@
 - [**Mauna Kea Command Vessel (LRT)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
 - [**Mauna Kea Command Vessel (Standard)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) *Missile Boat (2515)* 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
-- [**Sturmfeur Heavy Tank (SRM)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) *Juggernaut (3023)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (SRM)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) *Undefined (3023)* 
 
 ### 90 Tons 
 
@@ -1547,6 +1547,10 @@
 - [**Rook NH-3X**](../../units/rook/rook_nh-3x.md) *Striker (3076)* 
 - [**Rook NH-1X 'Rook-X'**](../../units/rook/rook_nh-1x_rook-x.md) *Juggernaut (3077)* 
 
+#### [Scorpion](../../units/scorpion.md) 
+
+- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
+
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2H**](../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
@@ -1565,7 +1569,7 @@
 - [**Wolverine WVR-7D**](../../units/wolverine/wolverine_wvr-7d.md) *Skirmisher (3050)* 
 - [**Wolverine WVR-8D**](../../units/wolverine/wolverine_wvr-8d.md) *Skirmisher (3066)* 
 - [**Wolverine WVR-9D**](../../units/wolverine/wolverine_wvr-9d.md) *Skirmisher (3066)* `TAG` 
-- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
+- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3077)* `C3 Support` , `ECM` 
 - [**Wolverine WVR-9R**](../../units/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)* 
 
 #### [Wolverine II](../../units/wolverine_ii.md) 

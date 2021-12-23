@@ -278,6 +278,26 @@
 - **Battle Value:** 1617 
 - [*More Info*](wolverine/wolverine_wvr-9m.md) 
 
+## Wolverine WVR-9W 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 7 
+- **Armor:** 169 (Light Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Light PPC × 2 
+  - ER Medium Laser 
+  - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM) 
+- **Equipment:** 
+  - CASE II 
+  - C3i 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w) 
+- **Battle Value:** 1387 
+- [*More Info*](wolverine/wolverine_wvr-9w.md) 
+
 ## Wolverine WVR-9K 
 
 - **Role:** Skirmisher 
@@ -303,30 +323,10 @@
 - **Battle Value:** 1400 
 - [*More Info*](wolverine/wolverine_wvr-9k.md) 
 
-## Wolverine WVR-9W 
-
-- **Role:** Striker 
-- **Tech Base:** Inner Sphere (3077) 
-- **Chassis:** 55 tons 
-- **Movement:** 5 / 8, XL 
-  - **Jumping:** 7 
-- **Armor:** 169 (Light Ferro Fibrous) 
-- **Heat Sinks:** 12 (24) 
-- **Weapons:** 
-  - Light PPC × 2 
-  - ER Medium Laser 
-  - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM) 
-- **Equipment:** 
-  - CASE II 
-  - C3i 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w) 
-- **Battle Value:** 1387 
-- [*More Info*](wolverine/wolverine_wvr-9w.md) 
-
 ## Wolverine WVR-9W2 
 
 - **Role:** Striker 
-- **Tech Base:** Inner Sphere (3084) 
+- **Tech Base:** Inner Sphere (3077) 
 - **Chassis:** 55 tons 
 - **Movement:** 5 / 8, XL 
   - **Jumping:** 7 

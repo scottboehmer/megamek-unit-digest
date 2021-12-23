@@ -41,7 +41,7 @@
 - **Weapons:** 
   - ER PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
+- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
 - **Battle Value:** 1098 
 - [*More Info*](scorpion/scorpion_scp-1o.md) 
 
@@ -111,7 +111,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM) 
 - **Equipment:** 
   - MASC 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
+- **Sources:** RecGuide 19 -Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
 - **Battle Value:** 1185 
 - [*More Info*](scorpion/scorpion_scp-1tb.md) 
 
@@ -130,4 +130,62 @@
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m) 
 - **Battle Value:** 1458 
 - [*More Info*](scorpion/scorpion_scp-10m.md) 
+
+## Scorpion SCP-1BR 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3088) 
+- **Chassis:** 55 tons Quad 
+- **Movement:** 6 / 9 (12), Light 
+- **Armor:** 158 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER PPC 
+  - Streak SRM 6 (ammo: 15) 
+- **Equipment:** 
+  - MASC 
+  - CASE 
+- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8314/scorpion-scp-1br) 
+- **Battle Value:** 1473 
+- [*More Info*](scorpion/scorpion_scp-1br.md) 
+
+## Scorpion SCP-2N 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3131) 
+- **Chassis:** 55 tons Quad (Endo Steel) 
+- **Movement:** 6 / 9 (12), Light 
+- **Armor:** 184 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
+- **Equipment:** 
+  - TAG 
+  - Supercharger 
+  - CASE II 
+- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315/scorpion-scp-2n) 
+- **Battle Value:** 1562 
+- [*More Info*](scorpion/scorpion_scp-2n.md) 
+
+## Scorpion C 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere Mixed (3150) 
+- **Chassis:** 55 tons Quad (Endo Steel) 
+- **Movement:** 6 / 9 (12), Light 
+- **Armor:** 184 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Clan ER PPC w/ PPC Capacitor 
+  - Clan ATM 6 (ammo: 10 Standard, 10 ER, 10 HE) 
+  - Clan Micro Pulse Laser 
+- **Equipment:** 
+  - Supercharger 
+  - CASE II 
+- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316/scorpion-c) 
+- **Battle Value:** 1975 
+- [*More Info*](scorpion/scorpion_c.md) 
 

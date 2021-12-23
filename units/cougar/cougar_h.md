@@ -18,7 +18,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
+- **Sources:** ilClan Rec Guide 19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
 - **Battle Value:** 1323 
 
 ## Availability 

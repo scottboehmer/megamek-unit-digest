@@ -5,7 +5,7 @@
 ## Wolverine WVR-9W2 
 
 - **Role:** Striker 
-- **Tech Base:** Inner Sphere (3084) 
+- **Tech Base:** Inner Sphere (3077) 
 - **Chassis:** 55 tons 
 - **Movement:** 5 / 8, XL 
   - **Jumping:** 7 

@@ -839,9 +839,9 @@
 - [**Mauna Kea Command Vessel (LRT)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
 - [**Mauna Kea Command Vessel (Standard)**](../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) *Missile Boat (2515)* 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
 
 ### 90 Tons 
 
@@ -1194,6 +1194,7 @@
 - [**Spider SDR-8X**](../../units/spider/spider_sdr-8x.md) *Striker (3078)* 
 - [**Spider SDR-8K**](../../units/spider/spider_sdr-8k.md) *Scout (3084)* 
 - [**Spider SDR-8R**](../../units/spider/spider_sdr-8r.md) *Scout (3084)* 
+- [**Spider SDR-9M**](../../units/spider/spider_sdr-9m.md) *Scout (3096)* 
 - [**Spider SDR-8Xr**](../../units/spider/spider_sdr-8xr.md) *Scout (3103)* 
 
 #### [SuburbanMech](../../units/suburbanmech.md) 
@@ -1890,6 +1891,7 @@
 - [**Scorpion SCP-12S**](../../units/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)* 
 - [**Scorpion SCP-1TB**](../../units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
 - [**Scorpion SCP-10M**](../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
+- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -1934,7 +1936,7 @@
 - [**Wolverine WVR-8C**](../../units/wolverine/wolverine_wvr-8c.md) *Skirmisher (3067)* `C3 Support` 
 - [**Wolverine WVR-7M2**](../../units/wolverine/wolverine_wvr-7m2.md) *Skirmisher (3072)* 
 - [**Wolverine WVR-9M**](../../units/wolverine/wolverine_wvr-9m.md) *Skirmisher (3073)* 
-- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
+- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3077)* `C3 Support` , `ECM` 
 - [**Wolverine WVR-9R**](../../units/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)* 
 - [**Wolverine WVR-11M**](../../units/wolverine/wolverine_wvr-11m.md) *Skirmisher (3122)* 
 

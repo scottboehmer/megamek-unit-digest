@@ -247,7 +247,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 2 
-  - Narc (ammo: 0) 
+  - Narc (ammo: 12) 
 - **Equipment:** 
   - Inner Sphere Bloodhound Active Probe 
   - CASE 

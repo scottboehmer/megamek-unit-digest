@@ -280,9 +280,9 @@
 
 - [**Huitzilopochtli Assault Tank 'Huey' (Standard)**](../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_standard.md) *Missile Boat (2845)* `ECM` 
 
-#### [Sturmfeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
+#### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**Sturmfeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
 
 ### 95 Tons 
 

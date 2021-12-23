@@ -1312,6 +1312,7 @@
 
 - [**Scorpion SCP-1O**](../../units/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)* 
 - [**Scorpion SCP-10M**](../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
+- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -1328,7 +1329,7 @@
 - [**Wolverine WVR-6R**](../../units/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)* 
 - [**Wolverine WVR-7M**](../../units/wolverine/wolverine_wvr-7m.md) *Skirmisher (3050)* 
 - [**Wolverine WVR-7M2**](../../units/wolverine/wolverine_wvr-7m2.md) *Skirmisher (3072)* 
-- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3084)* `C3 Support` , `ECM` 
+- [**Wolverine WVR-9W2**](../../units/wolverine/wolverine_wvr-9w2.md) *Striker (3077)* `C3 Support` , `ECM` 
 - [**Wolverine WVR-9R**](../../units/wolverine/wolverine_wvr-9r.md) *Skirmisher (3089)* 
 
 #### [Wolverine II](../../units/wolverine_ii.md) 

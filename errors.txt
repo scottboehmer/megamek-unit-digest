@@ -163,10 +163,13 @@ Mobile Headquarters (Standard)
 Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25
 Mobile Long Tom Artillery Support Carriage LT-MOB-25
 Neptune Submarine (Standard)
+SturmFeur Heavy Tank (SRM)
+SturmFeur Heavy Tank (Standard)
 Karnov UR Transport (3055 Upgrade)
 Karnov UR Transport (BA)
 Kestrel VTOL (MedEvac)
 Peregrine Attack VTOL (Cargo)
+SturmFeur Heavy Tank (Heavy Gauss)
 BattleMech Recovery Vehicle (Standard)
 Flatbed Truck (AC)
 Heavy BattleMech Recovery Vehicle (Standard)
@@ -195,10 +198,11 @@ Packrat LRPV PKR-T5 (TOC)
 Desert Scorpion Light Tank (Standard)
 Koryu Submarine (Civilian)
 Koryu Submarine (Military)
+SturmFeur Heavy Tank (WoB)
 SturmFeur 'Kalki' Cruise Missile Launcher (Standard)
 Karnov UR Transport (Heavy Stealth)
 Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5118 mtf files -> 5118 parsed files -> 4898 converted files -> 4890 validated units
+5136 mtf files -> 5136 parsed files -> 4916 converted files -> 4908 validated units

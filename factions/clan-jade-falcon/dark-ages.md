@@ -697,6 +697,7 @@
 - [**Cougar X 3**](../../units/cougar/cougar_x_3.md) *Striker (3093)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
 - [**Cougar X**](../../units/cougar/cougar_x.md) *Striker (3132)* 
+- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 

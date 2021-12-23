@@ -709,6 +709,7 @@
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
+- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
@@ -945,6 +946,14 @@
 
 - [**Griffin GRF-4R**](../../units/griffin/griffin_grf-4r.md) *Striker (3076)* 
 - [**Griffin C**](../../units/griffin/griffin_c.md) *Sniper (3144)* 
+
+#### [Rime Otter](../../units/rime_otter.md) 
+
+- [**Rime Otter Prime**](../../units/rime_otter/rime_otter_prime.md) *Brawler (3146)* 
+- [**Rime Otter A**](../../units/rime_otter/rime_otter_a.md) *Skirmisher (3146)* 
+- [**Rime Otter B**](../../units/rime_otter/rime_otter_b.md) *Skirmisher (3146)* 
+- [**Rime Otter C**](../../units/rime_otter/rime_otter_c.md) *Skirmisher (3146)* 
+- [**Rime Otter D**](../../units/rime_otter/rime_otter_d.md) *Scout (3146)* `Active Probe` , `TAG` 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
