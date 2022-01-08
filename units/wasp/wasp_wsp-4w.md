@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w) 
+- **Sources:** Rec Guide:ilClan #4 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w) 
 - **Battle Value:** 551 
 
 ## Availability 

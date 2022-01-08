@@ -214,7 +214,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3184/thor-summoner-q) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3184/thor-summoner-q) 
 - **Battle Value:** 2479 
 - [*More Info*](summoner/summoner_q.md) 
 
@@ -293,7 +293,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 3 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa) 
+- **Sources:** Rec Guide:ilClan #3- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa) 
 - **Battle Value:** 2216 
 - [*More Info*](summoner/summoner_aa.md) 
 
@@ -312,7 +312,7 @@
   - ProtoMech AC/8 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7490/thor-summoner-t) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7490/thor-summoner-t) 
 - **Battle Value:** 2355 
 - [*More Info*](summoner/summoner_t.md) 
 
@@ -331,7 +331,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7489/thor-summoner-j) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7489/thor-summoner-j) 
 - **Battle Value:** 2666 
 - [*More Info*](summoner/summoner_j.md) 
 

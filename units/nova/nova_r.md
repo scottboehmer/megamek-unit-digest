@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r) 
 - **Battle Value:** 1597 
 
 ## Availability 

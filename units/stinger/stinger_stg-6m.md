@@ -16,7 +16,7 @@
   - ER Flamer 
 - **Equipment:** 
   - Laser Anti-Missile System 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8126/stinger-stg-6m) 
+- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8126/stinger-stg-6m) 
 - **Battle Value:** 503 
 
 ## Availability 

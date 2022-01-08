@@ -15,7 +15,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
+- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
 - **Battle Value:** 937 
 
 ## Availability 

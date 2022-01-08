@@ -917,6 +917,7 @@
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
 - [**Ostroc OSR-2D**](../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 - [**Ostroc OSR-4C**](../../units/ostroc/ostroc_osr-4c.md) *Skirmisher (3066)* 
+- [**Ostroc OSR-3M**](../../units/ostroc/ostroc_osr-3m.md) *Skirmisher (3088)* 
 
 #### [Ostsol](../../units/ostsol.md) 
 
@@ -1098,8 +1099,13 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
+- [**Longbow LGB-0H**](../../units/longbow/longbow_lgb-0h.md) *Sniper (3065)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
+- [**Longbow LGB-10K**](../../units/longbow/longbow_lgb-10k.md) *Juggernaut (3140)* 
 
 #### [Stalker](../../units/stalker.md) 
 

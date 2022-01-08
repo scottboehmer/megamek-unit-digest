@@ -16,7 +16,7 @@
   - NLRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
 - **Battle Value:** 1560 
 
 ## Availability 

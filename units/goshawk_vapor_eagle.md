@@ -15,7 +15,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
+- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
 - **Battle Value:** 1747 
 - [*More Info*](vapor_eagle/vapor_eagle_6.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard) 
+- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard) 
 - **Battle Value:** 2368 
 - [*More Info*](vapor_eagle/vapor_eagle_standard.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2) 
+- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2) 
 - **Battle Value:** 1989 
 - [*More Info*](vapor_eagle/vapor_eagle_2.md) 
 
@@ -76,7 +76,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710/goshawk-vapor-eagle-5) 
+- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710/goshawk-vapor-eagle-5) 
 - **Battle Value:** 2572 
 - [*More Info*](vapor_eagle/vapor_eagle_5.md) 
 
@@ -136,7 +136,7 @@
   - MASC 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7) 
 - **Battle Value:** 2876 
 - [*More Info*](vapor_eagle/vapor_eagle_7.md) 
 

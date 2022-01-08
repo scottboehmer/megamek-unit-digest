@@ -32,7 +32,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2059/marauder-ii-mad-5a) 
+- **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2059/marauder-ii-mad-5a) 
 - **Battle Value:** 2058 
 - [*More Info*](marauder_ii/marauder_ii_mad-5a.md) 
 
@@ -49,7 +49,7 @@
   - Gauss Rifle (ammo: 24) 
   - ER PPC × 2 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
+- **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
 - **Battle Value:** 2589 
 - [*More Info*](marauder_ii/marauder_ii_mad-5b.md) 
 
@@ -68,7 +68,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2061/marauder-ii-mad-5c) 
+- **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2061/marauder-ii-mad-5c) 
 - **Battle Value:** 2024 
 - [*More Info*](marauder_ii/marauder_ii_mad-5c.md) 
 
@@ -275,7 +275,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7520/marauder-ii-mad-6a) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7520/marauder-ii-mad-6a) 
 - **Battle Value:** 2367 
 - [*More Info*](marauder_ii/marauder_ii_mad-6a.md) 
 
@@ -294,7 +294,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Command Console 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7521/marauder-ii-mad-6c) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7521/marauder-ii-mad-6c) 
 - **Battle Value:** 2346 
 - [*More Info*](marauder_ii/marauder_ii_mad-6c.md) 
 
@@ -313,7 +313,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7522/marauder-ii-mad-8k) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7522/marauder-ii-mad-8k) 
 - **Battle Value:** 2849 
 - [*More Info*](marauder_ii/marauder_ii_mad-8k.md) 
 
@@ -331,7 +331,7 @@
   - Clan ER PPC × 2 
   - Large Re-Engineered Laser 
   - Medium X-Pulse Laser × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7519/marauder-ii-mad-10d) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7519/marauder-ii-mad-10d) 
 - **Battle Value:** 2741 
 - [*More Info*](marauder_ii/marauder_ii_mad-10d.md) 
 

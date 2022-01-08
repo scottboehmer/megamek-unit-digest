@@ -251,7 +251,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7439/commando-com-9s) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7439/commando-com-9s) 
 - **Battle Value:** 719 
 - [*More Info*](commando/commando_com-9s.md) 
 

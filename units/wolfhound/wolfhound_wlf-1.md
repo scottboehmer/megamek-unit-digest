@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 4 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3560/wolfhound-wlf-1) 
 - **Battle Value:** 949 
 

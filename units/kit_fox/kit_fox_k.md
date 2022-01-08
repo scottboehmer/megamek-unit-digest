@@ -15,7 +15,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k) 
 - **Battle Value:** 1109 
 
 ## Availability 

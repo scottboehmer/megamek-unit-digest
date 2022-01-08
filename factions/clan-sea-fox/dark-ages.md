@@ -386,7 +386,7 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
 
 ### 95 Tons 
 
@@ -533,6 +533,9 @@
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
 - [**Arctic Cheetah F**](../../units/arctic_cheetah/arctic_cheetah_f.md) *Striker (3093)* `Active Probe` , `ECM` , `TAG` 
+- [**Arctic Cheetah I**](../../units/arctic_cheetah/arctic_cheetah_i.md) *Striker (3099)* 
+- [**Arctic Cheetah J**](../../units/arctic_cheetah/arctic_cheetah_j.md) *Sniper (3141)* 
+- [**Arctic Cheetah T**](../../units/arctic_cheetah/arctic_cheetah_t.md) *Scout (3142)* `TAG` 
 
 #### [Carbine](../../units/carbine.md) 
 
@@ -571,6 +574,8 @@
 - [**Hellion E**](../../units/hellion/hellion_e.md) *Striker (3070)* `ECM` 
 - [**Hellion F**](../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
 - [**Hellion G**](../../units/hellion/hellion_g.md) *Striker (3119)* 
+- [**Hellion P**](../../units/hellion/hellion_p.md) *Striker (3124)* `ECM` , `TAG` 
+- [**Hellion T**](../../units/hellion/hellion_t.md) *Striker (3142)* 
 
 #### [Incubus](../../units/incubus.md) 
 
@@ -880,6 +885,10 @@
 - [**Mad Dog Mk IV C**](../../units/mad_dog_mk_iv/mad_dog_mk_iv_c.md) *Brawler (3137)* 
 - [**Mad Dog Mk IV D**](../../units/mad_dog_mk_iv/mad_dog_mk_iv_d.md) *Brawler (3137)* 
 
+#### [Ostroc](../../units/ostroc.md) 
+
+- [**Ostroc OSR-6R**](../../units/ostroc/ostroc_osr-6r.md) *Skirmisher (3139)* 
+
 #### [Ostsol](../../units/ostsol.md) 
 
 - [**Ostsol C**](../../units/ostsol/ostsol_c.md) *Skirmisher (3145)* 
@@ -1128,6 +1137,14 @@
 - [**Mad Cat Mk II 4**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_4.md) *Sniper (3090)* `Active Probe` 
 - [**Mad Cat Mk II 5**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_5.md) *Brawler (3109)* `Active Probe` 
 - [**Mad Cat Mk II 6**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_6.md) *Sniper (3139)* 
+
+#### [Regent](../../units/regent.md) 
+
+- [**Regent Prime**](../../units/regent/regent_prime.md) *Juggernaut (3145)* 
+- [**Regent A**](../../units/regent/regent_a.md) *Sniper (3145)* 
+- [**Regent B**](../../units/regent/regent_b.md) *Juggernaut (3145)* 
+- [**Regent C**](../../units/regent/regent_c.md) *Sniper (3145)* 
+- [**Regent D**](../../units/regent/regent_d.md) *Sniper (3145)* 
 
 #### [Supernova](../../units/supernova.md) 
 

@@ -15,8 +15,9 @@
   - ER Medium Laser × 3 
   - Small X-Pulse Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - AES 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223/wolfhound-wlf-6s) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223/wolfhound-wlf-6s) 
 - **Battle Value:** 1266 
 
 ## Availability 

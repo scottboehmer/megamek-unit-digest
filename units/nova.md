@@ -203,7 +203,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g) 
+- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g) 
 - **Battle Value:** 1822 
 - [*More Info*](nova/nova_g.md) 
 
@@ -219,7 +219,7 @@
 - **Weapons:** 
   - ER PPC 
   - Improved Heavy Medium Laser × 5 
-- **Sources:** ilClan Rec Guide 13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i) 
+- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i) 
 - **Battle Value:** 2224 
 - [*More Info*](nova/nova_i.md) 
 
@@ -237,7 +237,7 @@
   - Streak LRM 15 (ammo: 16) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j) 
+- **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j) 
 - **Battle Value:** 2052 
 - [*More Info*](nova/nova_j.md) 
 
@@ -256,7 +256,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k) 
 - **Battle Value:** 1932 
 - [*More Info*](nova/nova_k.md) 
 
@@ -272,7 +272,7 @@
 - **Weapons:** 
   - Improved Heavy Large Laser × 2 
   - Plasma Cannon × 2 (ammo: 20) 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l) 
 - **Battle Value:** 2177 
 - [*More Info*](nova/nova_l.md) 
 
@@ -309,7 +309,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r) 
 - **Battle Value:** 1597 
 - [*More Info*](nova/nova_r.md) 
 
@@ -326,7 +326,7 @@
   - Medium Chemical Laser × 12 (ammo: 120) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t) 
 - **Battle Value:** 1579 
 - [*More Info*](nova/nova_t.md) 
 

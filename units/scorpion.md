@@ -41,7 +41,7 @@
 - **Weapons:** 
   - ER PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
 - **Battle Value:** 1098 
 - [*More Info*](scorpion/scorpion_scp-1o.md) 
 
@@ -111,7 +111,7 @@
   - MML 9 (ammo: 13 LRM, 11 SRM) 
 - **Equipment:** 
   - MASC 
-- **Sources:** RecGuide 19 -Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
 - **Battle Value:** 1185 
 - [*More Info*](scorpion/scorpion_scp-1tb.md) 
 
@@ -145,7 +145,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8314/scorpion-scp-1br) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8314/scorpion-scp-1br) 
 - **Battle Value:** 1473 
 - [*More Info*](scorpion/scorpion_scp-1br.md) 
 
@@ -165,7 +165,7 @@
   - TAG 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315/scorpion-scp-2n) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315/scorpion-scp-2n) 
 - **Battle Value:** 1562 
 - [*More Info*](scorpion/scorpion_scp-2n.md) 
 
@@ -185,7 +185,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316/scorpion-c) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316/scorpion-c) 
 - **Battle Value:** 1975 
 - [*More Info*](scorpion/scorpion_c.md) 
 

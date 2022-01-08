@@ -18,6 +18,7 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE 
   - C3 Support 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr) 

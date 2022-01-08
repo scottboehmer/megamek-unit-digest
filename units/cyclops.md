@@ -215,3 +215,22 @@
 - **Battle Value:** 1752 
 - [*More Info*](cyclops/cyclops_cp-11-c3.md) 
 
+## Cyclops C 
+
+- **Role:** Brawler 
+- **Tech Base:** Clan (3147) 
+- **Chassis:** 90 tons (Endo Steel) 
+- **Movement:** 4 / 5 
+- **Armor:** 160 (Hardened) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Streak LRM 10 (ammo: 12) 
+  - ER Medium Laser × 2 
+  - Streak SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8357/cyclops-c) 
+- **Battle Value:** 2252 
+- [*More Info*](cyclops/cyclops_c.md) 
+

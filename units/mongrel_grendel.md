@@ -170,7 +170,7 @@
   - RAC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m) 
 - **Battle Value:** 1744 
 - [*More Info*](grendel/grendel_m.md) 
 
@@ -189,7 +189,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - Supercharger 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7459/grendel-mongrel-g) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7459/grendel-mongrel-g) 
 - **Battle Value:** 2209 
 - [*More Info*](grendel/grendel_g.md) 
 
@@ -208,7 +208,7 @@
   - ProtoMech AC/4 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i) 
 - **Battle Value:** 1675 
 - [*More Info*](grendel/grendel_i.md) 
 
@@ -227,7 +227,7 @@
   - Improved Heavy Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7460/grendel-mongrel-j) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7460/grendel-mongrel-j) 
 - **Battle Value:** 1811 
 - [*More Info*](grendel/grendel_j.md) 
 
@@ -248,7 +248,7 @@
   - Improved Heavy Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7456/grendel-mongrel-t) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7456/grendel-mongrel-t) 
 - **Battle Value:** 1936 
 - [*More Info*](grendel/grendel_t.md) 
 

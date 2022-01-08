@@ -15,7 +15,7 @@
   - Improved Heavy Large Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8262/kingfisher-i) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8262/kingfisher-i) 
 - **Battle Value:** 2348 
 
 ## Availability 

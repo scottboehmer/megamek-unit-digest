@@ -20,7 +20,7 @@
   - MASC 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7493/shadow-cat-iii-b) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7493/shadow-cat-iii-b) 
 - **Battle Value:** 2183 
 
 ## Availability 

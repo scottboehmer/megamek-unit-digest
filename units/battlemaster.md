@@ -227,7 +227,7 @@
 - **Equipment:** 
   - Command Console 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3806/battlemaster-blr-3m-dc) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3806/battlemaster-blr-3m-dc) 
 - **Battle Value:** 1627 
 - [*More Info*](battlemaster/battlemaster_blr-3m-dc.md) 
 
@@ -523,7 +523,7 @@
 - **Equipment:** 
   - Command Console 
   - CASE II 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7476/battlemaster-blr-6c) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7476/battlemaster-blr-6c) 
 - **Battle Value:** 1557 
 - [*More Info*](battlemaster/battlemaster_blr-6c.md) 
 
@@ -562,7 +562,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7475/battlemaster-blr-6g) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7475/battlemaster-blr-6g) 
 - **Battle Value:** 1960 
 - [*More Info*](battlemaster/battlemaster_blr-6g.md) 
 
@@ -582,7 +582,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7477/battlemaster-c-3) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7477/battlemaster-c-3) 
 - **Battle Value:** 2532 
 - [*More Info*](battlemaster/battlemaster_c_3.md) 
 

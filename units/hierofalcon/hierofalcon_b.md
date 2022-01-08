@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE II 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7486/hierofalcon-b) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7486/hierofalcon-b) 
 - **Battle Value:** 1737 
 
 ## Availability 

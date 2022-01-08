@@ -1,8 +1,8 @@
-# DI Schmitt Tank (Targetting Computer) 
+# DI Schmitt Tank (Targeting Computer) 
 
 [Other DI Schmitt Tank variants](../di_schmitt_tank.md) 
 
-## DI Schmitt Tank (Targetting Computer) 
+## DI Schmitt Tank (Targeting Computer) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3115) 

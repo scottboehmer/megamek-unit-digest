@@ -1,8 +1,8 @@
-# Raijin RJN101-C 
+# Raijin RJN-101-C 
 
 [Other Raijin variants](../raijin.md) 
 
-## Raijin RJN101-C 
+## Raijin RJN-101-C 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3062) 
@@ -17,7 +17,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn101-c) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn-101-c) 
 - **Battle Value:** 1389 
 
 ## Availability 

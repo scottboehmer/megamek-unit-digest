@@ -101,7 +101,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
+- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
 - **Battle Value:** 1323 
 - [*More Info*](cougar/cougar_h.md) 
 
@@ -118,7 +118,7 @@
   - ATM 6 × 2 (ammo: 20 Standard, 20 ER, 20 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
+- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
 - **Battle Value:** 1442 
 - [*More Info*](cougar/cougar_e.md) 
 
@@ -139,7 +139,7 @@
   - Machine Gun Array × 2 
   - B-Pod × 2 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
 - **Battle Value:** 1401 
 - [*More Info*](cougar/cougar_f.md) 
 
@@ -157,7 +157,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
 - **Battle Value:** 1453 
 - [*More Info*](cougar/cougar_g.md) 
 
@@ -231,7 +231,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 -  - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
 - **Battle Value:** 1738 
 - [*More Info*](cougar/cougar_i.md) 
 
@@ -267,7 +267,7 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325/cougar-t) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325/cougar-t) 
 - **Battle Value:** 1748 
 - [*More Info*](cougar/cougar_t.md) 
 

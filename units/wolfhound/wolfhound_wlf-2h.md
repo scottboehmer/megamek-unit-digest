@@ -15,6 +15,7 @@
   - ER Medium Laser × 2 
   - ER Small Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Supercharger 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417/wolfhound-wlf-2h) 
 - **Battle Value:** 1511 

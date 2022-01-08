@@ -223,7 +223,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** RecGuide 13 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4046/daishi-dire-wolf-x) 
+- **Sources:** Rec Guide:ilClan #13 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4046/daishi-dire-wolf-x) 
 - **Battle Value:** 2645 
 - [*More Info*](dire_wolf/dire_wolf_x.md) 
 
@@ -283,7 +283,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE II 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e) 
 - **Battle Value:** 2814 
 - [*More Info*](dire_wolf/dire_wolf_e.md) 
 
@@ -304,7 +304,7 @@
   - Light Active Probe 
   - CASE 
   - Supercharger 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8133/daishi-dire-wolf-t) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8133/daishi-dire-wolf-t) 
 - **Battle Value:** 3317 
 - [*More Info*](dire_wolf/dire_wolf_t.md) 
 

@@ -15,6 +15,7 @@
   - ER Medium Laser 
   - Light AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2) 
 - **Battle Value:** 638 

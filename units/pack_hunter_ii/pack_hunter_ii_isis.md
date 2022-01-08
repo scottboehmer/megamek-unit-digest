@@ -16,6 +16,7 @@
   - SRM 6 w/ Artemis IV (ammo: 30) 
   - ER Micro Laser × 4 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540/pack-hunter-ii-isis) 
 - **Battle Value:** 1276 

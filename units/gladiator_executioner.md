@@ -226,7 +226,7 @@
   - MASC 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6842/gladiator-executioner-f) 
+- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6842/gladiator-executioner-f) 
 - **Battle Value:** 3606 
 - [*More Info*](executioner/executioner_f.md) 
 
@@ -248,7 +248,7 @@
   - MASC 
   - CASE 
   - Targeting Computer 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g) 
 - **Battle Value:** 3825 
 - [*More Info*](executioner/executioner_g.md) 
 
@@ -270,7 +270,7 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6840/gladiator-executioner-i) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6840/gladiator-executioner-i) 
 - **Battle Value:** 3339 
 - [*More Info*](executioner/executioner_i.md) 
 
@@ -289,7 +289,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7712/gladiator-executioner-j) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7712/gladiator-executioner-j) 
 - **Battle Value:** 2891 
 - [*More Info*](executioner/executioner_j.md) 
 
@@ -308,7 +308,7 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7713/gladiator-executioner-l) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7713/gladiator-executioner-l) 
 - **Battle Value:** 3132 
 - [*More Info*](executioner/executioner_l.md) 
 
@@ -329,7 +329,7 @@
   - ECM Suite 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7714/gladiator-executioner-t) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7714/gladiator-executioner-t) 
 - **Battle Value:** 2558 
 - [*More Info*](executioner/executioner_t.md) 
 

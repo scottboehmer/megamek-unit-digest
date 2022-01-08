@@ -229,7 +229,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7455/zeus-zeu-11s) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7455/zeus-zeu-11s) 
 - **Battle Value:** 2280 
 - [*More Info*](zeus/zeus_zeu-11s.md) 
 

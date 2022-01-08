@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m) 
 - **Battle Value:** 1673 
 
 ## Availability 

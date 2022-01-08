@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard) 
+- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard) 
 - **Battle Value:** 1732 
 
 ## Availability 

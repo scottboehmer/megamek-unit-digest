@@ -15,7 +15,7 @@
   - Streak SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931/uller-kit-fox-r) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931/uller-kit-fox-r) 
 - **Battle Value:** 1232 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
 - **Battle Value:** 1314 
 
 ## Availability 

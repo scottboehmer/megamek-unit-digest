@@ -15,6 +15,8 @@
   - Prototype LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
   - Medium Laser × 3 
   - Hatchet 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1411/hatchetman-hct-3f-austin) 
 - **Battle Value:** 910 
 

@@ -148,7 +148,7 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
-- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x) 
+- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x) 
 - **Battle Value:** 1672 
 - [*More Info*](black_lanner/black_lanner_x.md) 
 
@@ -168,7 +168,7 @@
   - Light Active Probe 
   - MASC 
   - CASE 
-- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8185/black-lanner-f) 
+- **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8185/black-lanner-f) 
 - **Battle Value:** 2154 
 - [*More Info*](black_lanner/black_lanner_f.md) 
 
@@ -186,7 +186,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186/black-lanner-g) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186/black-lanner-g) 
 - **Battle Value:** 1929 
 - [*More Info*](black_lanner/black_lanner_g.md) 
 
@@ -206,7 +206,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8184/black-lanner-t) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8184/black-lanner-t) 
 - **Battle Value:** 2040 
 - [*More Info*](black_lanner/black_lanner_t.md) 
 
@@ -227,7 +227,7 @@
   - MASC 
   - Targeting Computer 
   - CASE 
-- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8187/black-lanner-i) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8187/black-lanner-i) 
 - **Battle Value:** 1803 
 - [*More Info*](black_lanner/black_lanner_i.md) 
 
@@ -246,7 +246,7 @@
   - MASC 
   - Supercharger 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8188/black-lanner-j) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8188/black-lanner-j) 
 - **Battle Value:** 2022 
 - [*More Info*](black_lanner/black_lanner_j.md) 
 

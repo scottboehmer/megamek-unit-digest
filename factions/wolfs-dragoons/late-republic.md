@@ -468,6 +468,11 @@
 
 ### 85 Tons 
 
+#### [Longbow](../../units/longbow.md) 
+
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
+
 #### [Marauder IIC](../../units/marauder_iic.md) 
 
 - [**Marauder IIC (Standard)**](../../units/marauder_iic/marauder_iic_standard.md) *Brawler (2828)* 

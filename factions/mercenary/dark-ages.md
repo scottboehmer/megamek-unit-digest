@@ -816,7 +816,7 @@
 #### [DI Schmitt Tank](../../units/di_schmitt_tank.md) 
 
 - [**DI Schmitt Tank (Standard)**](../../units/di_schmitt_tank/di_schmitt_tank_standard.md) *Juggernaut (3115)* 
-- [**DI Schmitt Tank (Targetting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targetting_computer.md) *Juggernaut (3115)* 
+- [**DI Schmitt Tank (Targeting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targeting_computer.md) *Juggernaut (3115)* 
 
 #### [Fury Command Tank](../../units/fury_command_tank.md) 
 
@@ -878,7 +878,7 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
 
 ### 90 Tons 
 
@@ -1543,6 +1543,10 @@
 
 - [**Icarus II ICR-2S**](../../units/icarus_ii/icarus_ii_icr-2s.md) *Brawler (3073)* 
 
+#### [Kontio](../../units/kontio.md) 
+
+- [**Kontio (Standard)**](../../units/kontio/kontio_standard.md) *Striker (3145)* `ECM` , `Stealth` 
+
 #### [Mongoose II](../../units/mongoose_ii.md) 
 
 - [**Mongoose II MON-267**](../../units/mongoose_ii/mongoose_ii_mon-267.md) *Scout (3073)* `Active Probe` , `C3 Support` , `ECM` , `Stealth` 
@@ -2116,6 +2120,7 @@
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
 - [**Ostroc OSR-2D**](../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 - [**Ostroc OSR-4K**](../../units/ostroc/ostroc_osr-4k.md) *Skirmisher (3077)* 
+- [**Ostroc OSR-3M**](../../units/ostroc/ostroc_osr-3m.md) *Skirmisher (3088)* 
 
 #### [Ostsol](../../units/ostsol.md) 
 
@@ -2662,13 +2667,18 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+- [**Longbow LGB-0W2**](../../units/longbow/longbow_lgb-0w2.md) *Missile Boat (2531)* 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-8V**](../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
+- [**Longbow LGB-14V**](../../units/longbow/longbow_lgb-14v.md) *Brawler (3105)* 
 
 #### [Stalker](../../units/stalker.md) 
 
@@ -2692,6 +2702,7 @@
 - [**Cyclops CP-12-K**](../../units/cyclops/cyclops_cp-12-k.md) *Brawler (3059)* 
 - [**Cyclops CP-11-B**](../../units/cyclops/cyclops_cp-11-b.md) *Juggernaut (3071)* 
 - [**Cyclops CP-11-C2**](../../units/cyclops/cyclops_cp-11-c2.md) *Brawler (3073)* `C3 Main` , `TAG` 
+- [**Cyclops C**](../../units/cyclops/cyclops_c.md) *Brawler (3147)* 
 
 #### [Emperor](../../units/emperor.md) 
 
@@ -2712,6 +2723,14 @@
 - [**Mad Cat Mk II 2**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
 - [**Mad Cat Mk II 4**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_4.md) *Sniper (3090)* `Active Probe` 
 - [**Mad Cat Mk II 5**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_5.md) *Brawler (3109)* `Active Probe` 
+
+#### [Regent](../../units/regent.md) 
+
+- [**Regent Prime**](../../units/regent/regent_prime.md) *Juggernaut (3145)* 
+- [**Regent A**](../../units/regent/regent_a.md) *Sniper (3145)* 
+- [**Regent B**](../../units/regent/regent_b.md) *Juggernaut (3145)* 
+- [**Regent C**](../../units/regent/regent_c.md) *Sniper (3145)* 
+- [**Regent D**](../../units/regent/regent_d.md) *Sniper (3145)* 
 
 #### [St. Florian](../../units/st._florian.md) 
 

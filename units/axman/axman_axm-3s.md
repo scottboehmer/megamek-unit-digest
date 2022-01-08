@@ -17,6 +17,7 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186/axman-axm-3s) 
 - **Battle Value:** 1649 

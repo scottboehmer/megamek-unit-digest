@@ -15,6 +15,7 @@
   - Medium Laser × 3 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/184/axman-axm-1n) 
 - **Battle Value:** 1374 
@@ -35,6 +36,7 @@
   - Medium Laser × 3 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
 - **Battle Value:** 1458 
@@ -55,6 +57,7 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186/axman-axm-3s) 
 - **Battle Value:** 1649 
@@ -76,6 +79,7 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE 
   - C3 Support 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr) 
@@ -95,6 +99,7 @@
   - Medium Laser × 2 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
   - CASE 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d) 
@@ -113,6 +118,7 @@
   - Thunderbolt 15 × 2 (ammo: 8) 
   - ER Medium Laser × 4 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
   - Supercharger 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x) 
@@ -131,6 +137,7 @@
   - Thunderbolt 15 × 2 (ammo: 16) 
   - ER Medium Laser × 4 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t) 
 - **Battle Value:** 1830 
@@ -153,8 +160,9 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
 - **Battle Value:** 2575 
 - [*More Info*](axman/axman_axm-5n.md) 
 

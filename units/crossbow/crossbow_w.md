@@ -16,7 +16,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8238/crossbow-w) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8238/crossbow-w) 
 - **Battle Value:** 2051 
 
 ## Availability 

@@ -86,7 +86,7 @@
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd) 
 - **Battle Value:** 1970 
 - [*More Info*](mad_dog/mad_dog_dd.md) 
 
@@ -213,7 +213,7 @@
   - ER Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6891/vulture-mad-dog-g) 
+- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6891/vulture-mad-dog-g) 
 - **Battle Value:** 2503 
 - [*More Info*](mad_dog/mad_dog_g.md) 
 
@@ -232,7 +232,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7729/vulture-mad-dog-v) 
+- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7729/vulture-mad-dog-v) 
 - **Battle Value:** 2084 
 - [*More Info*](mad_dog/mad_dog_v.md) 
 
@@ -250,7 +250,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t) 
 - **Battle Value:** 2555 
 - [*More Info*](mad_dog/mad_dog_t.md) 
 
@@ -267,7 +267,7 @@
   - RAC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7728/vulture-mad-dog-i) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7728/vulture-mad-dog-i) 
 - **Battle Value:** 1852 
 - [*More Info*](mad_dog/mad_dog_i.md) 
 

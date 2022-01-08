@@ -85,6 +85,22 @@
 - **Battle Value:** 2044 
 - [*More Info*](sun_spider/sun_spider_vanguard.md) 
 
+## Sun Spider Ambush 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3067) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 182 (Ferro Fibrous) 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Ultra AC/10 × 2 (ammo: 40) 
+  - ER Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Battle Value:** 2199 
+- [*More Info*](sun_spider/sun_spider_ambush.md) 
+
 ## Sun Spider B 
 
 - **Role:** Undefined 

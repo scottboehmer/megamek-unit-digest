@@ -657,7 +657,7 @@
 
 #### [Raijin](../../units/raijin.md) 
 
-- [**Raijin RJN101-A**](../../units/raijin/raijin_rjn101-a.md) *Striker (3053)* 
+- [**Raijin RJN-101-A**](../../units/raijin/raijin_rjn-101-a.md) *Striker (3053)* 
 
 #### [Rifleman](../../units/rifleman.md) 
 
@@ -989,6 +989,7 @@
 - [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
 - [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
 - [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
+- [**Warhawk I**](../../units/warhawk/warhawk_i.md) *Sniper (3015)* 
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 

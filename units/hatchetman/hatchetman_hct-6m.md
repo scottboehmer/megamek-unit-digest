@@ -17,6 +17,7 @@
   - Hatchet 
 - **Equipment:** 
   - Beagle Active Probe 
+  - Full Head Ejection System 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1416/hatchetman-hct-6m) 
 - **Battle Value:** 1274 
 

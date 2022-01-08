@@ -16,6 +16,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4) 
 - **Battle Value:** 657 

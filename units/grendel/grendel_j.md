@@ -17,7 +17,7 @@
   - Improved Heavy Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7460/grendel-mongrel-j) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7460/grendel-mongrel-j) 
 - **Battle Value:** 1811 
 
 ## Availability 

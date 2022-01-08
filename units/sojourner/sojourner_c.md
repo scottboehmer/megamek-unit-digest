@@ -18,7 +18,7 @@
   - AES 
   - Supercharger 
   - CASE II 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7446/sojourner-c) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7446/sojourner-c) 
 - **Battle Value:** 2235 
 
 ## Availability 

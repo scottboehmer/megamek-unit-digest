@@ -1537,8 +1537,11 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+- [**Longbow LGB-0W2**](../../units/longbow/longbow_lgb-0w2.md) *Missile Boat (2531)* 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
@@ -1556,6 +1559,7 @@
 - [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
 - [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
 - [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
+- [**Warhawk I**](../../units/warhawk/warhawk_i.md) *Sniper (3015)* 
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 

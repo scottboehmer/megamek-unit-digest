@@ -18,7 +18,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7517/mad-cat-timber-wolf-t) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7517/mad-cat-timber-wolf-t) 
 - **Battle Value:** 2714 
 
 ## Availability 

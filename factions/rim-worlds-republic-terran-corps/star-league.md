@@ -476,6 +476,7 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 
 #### [Rampage](../../units/rampage.md) 
 

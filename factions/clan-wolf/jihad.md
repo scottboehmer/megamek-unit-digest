@@ -559,6 +559,7 @@
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
 - [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC 10**](../../units/shadow_hawk_iic/shadow_hawk_iic_10.md) *Striker (3068)* 
 
 #### [Wyvern](../../units/wyvern.md) 
 
@@ -932,6 +933,7 @@
 - [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
 - [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
 - [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
+- [**Warhawk I**](../../units/warhawk/warhawk_i.md) *Sniper (3015)* 
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 

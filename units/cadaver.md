@@ -14,6 +14,7 @@
   - Flamer 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE II 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6550/cadaver-cvr-a1) 
 - **Battle Value:** 962 
@@ -34,6 +35,7 @@
   - ER Flamer 
 - **Equipment:** 
   - Angel ECM Suite 
+  - Full Head Ejection System 
   - MASC 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6551/cadaver-cvr-t1) 
 - **Battle Value:** 1288 

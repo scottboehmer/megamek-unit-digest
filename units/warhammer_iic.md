@@ -14,7 +14,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3500/warhammer-iic-standard) 
+- **Sources:** Rec Guide:ilClan #4 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3500/warhammer-iic-standard) 
 - **Battle Value:** 2570 
 - [*More Info*](warhammer_iic/warhammer_iic_standard.md) 
 
@@ -32,7 +32,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2) 
+- **Sources:** Rec Guide:ilClan #4 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2) 
 - **Battle Value:** 2482 
 - [*More Info*](warhammer_iic/warhammer_iic_2.md) 
 
@@ -241,7 +241,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13) 
 - **Battle Value:** 2715 
 - [*More Info*](warhammer_iic/warhammer_iic_13.md) 
 

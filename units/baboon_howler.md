@@ -29,7 +29,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7568/baboon-howler-4) 
+- **Sources:** Rec Guide:ilClan #8 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7568/baboon-howler-4) 
 - **Battle Value:** 506 
 - [*More Info*](howler/howler_4.md) 
 
@@ -43,7 +43,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 6 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5) 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5) 
 - **Battle Value:** 1363 
 - [*More Info*](howler/howler_5.md) 
 
@@ -94,7 +94,7 @@
 - **Equipment:** 
   - Shoulder Turret 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6) 
+- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6) 
 - **Battle Value:** 550 
 - [*More Info*](howler/howler_6.md) 
 

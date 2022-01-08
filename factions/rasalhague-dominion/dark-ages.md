@@ -632,6 +632,9 @@
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
 - [**Arctic Cheetah F**](../../units/arctic_cheetah/arctic_cheetah_f.md) *Striker (3093)* `Active Probe` , `ECM` , `TAG` 
+- [**Arctic Cheetah I**](../../units/arctic_cheetah/arctic_cheetah_i.md) *Striker (3099)* 
+- [**Arctic Cheetah J**](../../units/arctic_cheetah/arctic_cheetah_j.md) *Sniper (3141)* 
+- [**Arctic Cheetah T**](../../units/arctic_cheetah/arctic_cheetah_t.md) *Scout (3142)* `TAG` 
 
 #### [Carbine](../../units/carbine.md) 
 
@@ -792,6 +795,10 @@
 
 - [**Harvester HVR-199 AgroMech**](../../units/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech` 
 
+#### [Kontio](../../units/kontio.md) 
+
+- [**Kontio (Standard)**](../../units/kontio/kontio_standard.md) *Striker (3145)* `ECM` , `Stealth` 
+
 #### [Viper](../../units/viper.md) 
 
 - [**Viper Prime**](../../units/viper/viper_prime.md) *Scout (2940)* 
@@ -866,6 +873,7 @@
 
 - [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 2**](../../units/shadow_hawk_iic/shadow_hawk_iic_2.md) *Striker (2835)* 
+- [**Shadow Hawk IIC 10**](../../units/shadow_hawk_iic/shadow_hawk_iic_10.md) *Striker (3068)* 
 - [**Shadow Hawk IIC 5**](../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
 - [**Shadow Hawk IIC 6**](../../units/shadow_hawk_iic/shadow_hawk_iic_6.md) *Striker (3069)* 
 
@@ -891,6 +899,10 @@
 #### [Gravedigger](../../units/gravedigger.md) 
 
 - [**Gravedigger GDR-1D**](../../units/gravedigger/gravedigger_gdr-1d.md) *Sniper (3105)* `Active Probe` , `ECM` 
+
+#### [Hunchback](../../units/hunchback.md) 
+
+- [**Hunchback C**](../../units/hunchback/hunchback_c.md) *Skirmisher (3065)* 
 
 #### [Hunchback IIC](../../units/hunchback_iic.md) 
 
@@ -1237,6 +1249,7 @@
 #### [Cyclops](../../units/cyclops.md) 
 
 - [**Cyclops CP-11-C2**](../../units/cyclops/cyclops_cp-11-c2.md) *Brawler (3073)* `C3 Main` , `TAG` 
+- [**Cyclops C**](../../units/cyclops/cyclops_c.md) *Brawler (3147)* 
 
 #### [Emperor](../../units/emperor.md) 
 
@@ -1304,6 +1317,14 @@
 - [**Executioner L**](../../units/executioner/executioner_l.md) *Sniper (3119)* 
 - [**Executioner T**](../../units/executioner/executioner_t.md) *Sniper (3142)* `ECM` 
 
+#### [Mastodon](../../units/mastodon.md) 
+
+- [**Mastodon Prime**](../../units/mastodon/mastodon_prime.md) *Sniper (3148)* 
+- [**Mastodon A**](../../units/mastodon/mastodon_a.md) *Sniper (3148)* 
+- [**Mastodon B**](../../units/mastodon/mastodon_b.md) *Juggernaut (3148)* 
+- [**Mastodon C**](../../units/mastodon/mastodon_c.md) *Juggernaut (3148)* `Active Probe` 
+- [**Mastodon D**](../../units/mastodon/mastodon_d.md) *Missile Boat (3148)* 
+
 ### 100 Tons 
 
 #### [Annihilator](../../units/annihilator.md) 
@@ -1321,6 +1342,7 @@
 - [**Kodiak 5**](../../units/kodiak/kodiak_5.md) *Brawler (3052)* 
 - [**Kodiak 2**](../../units/kodiak/kodiak_2.md) *Brawler (3062)* 
 - [**Kodiak 4**](../../units/kodiak/kodiak_4.md) *Missile Boat (3066)* 
+- [**Kodiak 6**](../../units/kodiak/kodiak_6.md) *Undefined (3131)* 
 
 #### [Kodiak II](../../units/kodiak_ii.md) 
 

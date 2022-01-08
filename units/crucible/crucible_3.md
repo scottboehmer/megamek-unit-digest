@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7736/crucible-3) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7736/crucible-3) 
 - **Battle Value:** 3230 
 
 ## Availability 

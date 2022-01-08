@@ -15,6 +15,7 @@
   - ER Medium Laser × 2 
   - ER Small Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - AES 
   - Supercharger 
 - **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3564/wolfhound-wlf-2x) 

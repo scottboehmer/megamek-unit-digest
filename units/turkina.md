@@ -98,7 +98,7 @@
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213/turkina-m) 
+- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213/turkina-m) 
 - **Battle Value:** 2495 
 - [*More Info*](turkina/turkina_m.md) 
 
@@ -154,7 +154,7 @@
   - Streak SRM 6 × 6 (ammo: 60) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e) 
 - **Battle Value:** 3147 
 - [*More Info*](turkina/turkina_e.md) 
 
@@ -218,7 +218,7 @@
   - ECM Suite 
   - Talons 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x) 
 - **Battle Value:** 3056 
 - [*More Info*](turkina/turkina_x.md) 
 
@@ -237,7 +237,7 @@
   - ProtoMech AC/8 × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212/turkina-t) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212/turkina-t) 
 - **Battle Value:** 3080 
 - [*More Info*](turkina/turkina_t.md) 
 

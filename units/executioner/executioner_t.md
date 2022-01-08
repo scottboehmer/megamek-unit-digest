@@ -19,7 +19,7 @@
   - ECM Suite 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7714/gladiator-executioner-t) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7714/gladiator-executioner-t) 
 - **Battle Value:** 2558 
 
 ## Availability 

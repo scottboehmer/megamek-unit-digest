@@ -18,7 +18,7 @@
   - Clan ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8246/banshee-bnc-12s) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8246/banshee-bnc-12s) 
 - **Battle Value:** 2562 
 
 ## Availability 

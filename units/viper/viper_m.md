@@ -17,7 +17,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m) 
 - **Battle Value:** 2054 
 
 ## Availability 

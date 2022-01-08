@@ -15,7 +15,7 @@
   - Clan ER Large Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
 - **Battle Value:** 1209 
 
 ## Availability 

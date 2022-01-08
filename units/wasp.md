@@ -108,7 +108,7 @@
   - Medium Pulse Laser 
   - Small Laser × 2 
   - Flamer 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3524/wasp-wsp-1s) 
+- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3524/wasp-wsp-1s) 
 - **Battle Value:** 423 
 - [*More Info*](wasp/wasp_wsp-1s.md) 
 
@@ -124,7 +124,7 @@
 - **Weapons:** 
   - Small Pulse Laser × 2 
   - Small Laser × 4 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w) 
+- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w) 
 - **Battle Value:** 342 
 - [*More Info*](wasp/wasp_wsp-3w.md) 
 
@@ -142,7 +142,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3528/wasp-wsp-3m) 
+- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3528/wasp-wsp-3m) 
 - **Battle Value:** 394 
 - [*More Info*](wasp/wasp_wsp-3m.md) 
 
@@ -158,7 +158,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w) 
+- **Sources:** Rec Guide:ilClan #4 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w) 
 - **Battle Value:** 551 
 - [*More Info*](wasp/wasp_wsp-4w.md) 
 
@@ -176,6 +176,7 @@
   - Rocket 10 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3527/wasp-wsp-3l) 
 - **Battle Value:** 534 
 - [*More Info*](wasp/wasp_wsp-3l.md) 
@@ -193,6 +194,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - TAG 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3529/wasp-wsp-3s) 
 - **Battle Value:** 595 
@@ -245,6 +247,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Pulse Laser 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3526/wasp-wsp-3a) 
 - **Battle Value:** 401 
 - [*More Info*](wasp/wasp_wsp-3a.md) 
@@ -261,6 +265,8 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Rocket 10 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6950/wasp-wsp-3p) 
 - **Battle Value:** 537 
 - [*More Info*](wasp/wasp_wsp-3p.md) 
@@ -278,6 +284,8 @@
 - **Weapons:** 
   - Thunderbolt 5 × 2 (ammo: 12) 
   - Medium Laser 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8103/wasp-wsp-3x) 
 - **Battle Value:** 521 
 - [*More Info*](wasp/wasp_wsp-3x.md) 
@@ -294,6 +302,8 @@
 - **Weapons:** 
   - MRM 10 (ammo: 24) 
   - Medium Laser 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6949/wasp-wsp-3k) 
 - **Battle Value:** 477 
 - [*More Info*](wasp/wasp_wsp-3k.md) 
@@ -313,7 +323,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
+- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
 - **Battle Value:** 517 
 - [*More Info*](wasp/wasp_wsp-5a.md) 
 
@@ -329,7 +339,7 @@
 - **Weapons:** 
   - Clan ER Large Laser 
   - Clan Streak SRM 2 (iOS) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
 - **Battle Value:** 755 
 - [*More Info*](wasp/wasp_c.md) 
 

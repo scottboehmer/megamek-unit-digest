@@ -19,7 +19,7 @@
   - MASC 
   - Targeting Computer 
   - CASE 
-- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8187/black-lanner-i) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8187/black-lanner-i) 
 - **Battle Value:** 1803 
 
 ## Availability 

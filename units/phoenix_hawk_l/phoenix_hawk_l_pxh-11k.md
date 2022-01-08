@@ -18,6 +18,7 @@
   - MML 3 (ammo: 40 LRM, 33 SRM) 
   - Heavy Machine Gun × 3 (ammo: 50) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6390/phoenix-hawk-l-fenikkusu-taka-pxh-11k) 
 - **Battle Value:** 1563 

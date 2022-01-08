@@ -15,6 +15,7 @@
   - ER PPC 
 - **Equipment:** 
   - A-Pod × 2 
+  - Full Head Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397/pack-hunter-ii-2) 
 - **Battle Value:** 1457 
 

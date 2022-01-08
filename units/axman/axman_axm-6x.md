@@ -14,6 +14,7 @@
   - Thunderbolt 15 × 2 (ammo: 8) 
   - ER Medium Laser × 4 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
   - Supercharger 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x) 

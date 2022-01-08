@@ -330,7 +330,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8259/victor-vtr-12d) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8259/victor-vtr-12d) 
 - **Battle Value:** 1935 
 - [*More Info*](victor/victor_vtr-12d.md) 
 

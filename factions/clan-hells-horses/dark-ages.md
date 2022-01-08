@@ -571,6 +571,9 @@
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
 - [**Arctic Cheetah F**](../../units/arctic_cheetah/arctic_cheetah_f.md) *Striker (3093)* `Active Probe` , `ECM` , `TAG` 
+- [**Arctic Cheetah I**](../../units/arctic_cheetah/arctic_cheetah_i.md) *Striker (3099)* 
+- [**Arctic Cheetah J**](../../units/arctic_cheetah/arctic_cheetah_j.md) *Sniper (3141)* 
+- [**Arctic Cheetah T**](../../units/arctic_cheetah/arctic_cheetah_t.md) *Scout (3142)* `TAG` 
 
 #### [Carbine](../../units/carbine.md) 
 
@@ -605,6 +608,8 @@
 - [**Hellion E**](../../units/hellion/hellion_e.md) *Striker (3070)* `ECM` 
 - [**Hellion F**](../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
 - [**Hellion G**](../../units/hellion/hellion_g.md) *Striker (3119)* 
+- [**Hellion P**](../../units/hellion/hellion_p.md) *Striker (3124)* `ECM` , `TAG` 
+- [**Hellion T**](../../units/hellion/hellion_t.md) *Striker (3142)* 
 
 #### [Incubus](../../units/incubus.md) 
 
@@ -855,7 +860,9 @@
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
 - [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC 10**](../../units/shadow_hawk_iic/shadow_hawk_iic_10.md) *Striker (3068)* 
 - [**Shadow Hawk IIC 6**](../../units/shadow_hawk_iic/shadow_hawk_iic_6.md) *Striker (3069)* 
+- [**Shadow Hawk IIC 11**](../../units/shadow_hawk_iic/shadow_hawk_iic_11.md) *Striker (3141)* 
 
 #### [Wyvern IIC](../../units/wyvern_iic.md) 
 
@@ -1251,6 +1258,14 @@
 #### [Mad Cat Mk II](../../units/mad_cat_mk_ii.md) 
 
 - [**Mad Cat Mk II Enhanced**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_enhanced.md) *Sniper (3083)* 
+
+#### [Regent](../../units/regent.md) 
+
+- [**Regent Prime**](../../units/regent/regent_prime.md) *Juggernaut (3145)* 
+- [**Regent A**](../../units/regent/regent_a.md) *Sniper (3145)* 
+- [**Regent B**](../../units/regent/regent_b.md) *Juggernaut (3145)* 
+- [**Regent C**](../../units/regent/regent_c.md) *Sniper (3145)* 
+- [**Regent D**](../../units/regent/regent_d.md) *Sniper (3145)* 
 
 ### 95 Tons 
 

@@ -20,7 +20,7 @@
   - Supercharger 
   - Light TAG 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8208/stormwolf-d) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8208/stormwolf-d) 
 - **Battle Value:** 3122 
 
 ## Availability 

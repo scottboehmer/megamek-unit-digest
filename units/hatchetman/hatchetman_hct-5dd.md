@@ -16,6 +16,7 @@
   - ER Medium Laser 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd) 
 - **Battle Value:** 1112 

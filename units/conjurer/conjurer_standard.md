@@ -17,7 +17,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
+- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
 - **Battle Value:** 1813 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8321/iron-cheetah-b) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8321/iron-cheetah-b) 
 - **Battle Value:** 3303 
 
 ## Availability 

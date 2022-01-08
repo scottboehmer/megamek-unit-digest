@@ -15,6 +15,8 @@
 - **Weapons:** 
   - Thunderbolt 5 × 2 (ammo: 12) 
   - Medium Laser 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8103/wasp-wsp-3x) 
 - **Battle Value:** 521 
 

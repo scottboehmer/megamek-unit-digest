@@ -764,7 +764,10 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+- [**Longbow LGB-0W2**](../../units/longbow/longbow_lgb-0w2.md) *Missile Boat (2531)* 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
+- [**Longbow LGB-0H**](../../units/longbow/longbow_lgb-0h.md) *Sniper (3065)* 
 
 #### [Stalker](../../units/stalker.md) 
 

@@ -15,7 +15,7 @@
   - Flamer 
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7478/puma-adder-t) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7478/puma-adder-t) 
 - **Battle Value:** 1765 
 
 ## Availability 

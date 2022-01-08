@@ -91,7 +91,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m) 
+- **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m) 
 - **Battle Value:** 1227 
 - [*More Info*](rifleman/rifleman_rfl-5m.md) 
 
@@ -107,7 +107,7 @@
   - ER PPC × 2 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d) 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d) 
 - **Battle Value:** 1395 
 - [*More Info*](rifleman/rifleman_rfl-5d.md) 
 
@@ -122,7 +122,7 @@
 - **Weapons:** 
   - Clan Large Pulse Laser × 2 
   - Clan LB 5-X AC × 2 (ammo: 20) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c) 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c) 
 - **Battle Value:** 1335 
 - [*More Info*](rifleman/rifleman_c.md) 
 
@@ -328,7 +328,7 @@
 - **Weapons:** 
   - Silver Bullet × 2 (ammo: 32) 
   - ER Medium Laser × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g) 
+- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g) 
 - **Battle Value:** 1302 
 - [*More Info*](rifleman/rifleman_rfl-7g.md) 
 
@@ -346,7 +346,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7576/rifleman-c-3) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7576/rifleman-c-3) 
 - **Battle Value:** 1871 
 - [*More Info*](rifleman/rifleman_c_3.md) 
 
@@ -364,7 +364,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574/rifleman-rfl-7n) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574/rifleman-rfl-7n) 
 - **Battle Value:** 1398 
 - [*More Info*](rifleman/rifleman_rfl-7n.md) 
 
@@ -382,7 +382,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7575/rifleman-rfl-7n2) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7575/rifleman-rfl-7n2) 
 - **Battle Value:** 1452 
 - [*More Info*](rifleman/rifleman_rfl-7n2.md) 
 

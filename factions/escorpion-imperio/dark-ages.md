@@ -365,6 +365,8 @@
 - [**Hellion D**](../../units/hellion/hellion_d.md) *Striker (3068)* 
 - [**Hellion E**](../../units/hellion/hellion_e.md) *Striker (3070)* `ECM` 
 - [**Hellion F**](../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
+- [**Hellion P**](../../units/hellion/hellion_p.md) *Striker (3124)* `ECM` , `TAG` 
+- [**Hellion T**](../../units/hellion/hellion_t.md) *Striker (3142)* 
 
 #### [Incubus](../../units/incubus.md) 
 
@@ -611,7 +613,7 @@
 
 #### [Raijin](../../units/raijin.md) 
 
-- [**Raijin RJN101-A**](../../units/raijin/raijin_rjn101-a.md) *Striker (3053)* 
+- [**Raijin RJN-101-A**](../../units/raijin/raijin_rjn-101-a.md) *Striker (3053)* 
 
 #### [Rhino](../../units/rhino.md) 
 
@@ -918,10 +920,12 @@
 - [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
 - [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
 - [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
+- [**Warhawk I**](../../units/warhawk/warhawk_i.md) *Sniper (3015)* 
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
 - [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
+- [**Warhawk G**](../../units/warhawk/warhawk_g.md) *Juggernaut (3114)* 
 
 ### 90 Tons 
 

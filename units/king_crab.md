@@ -228,7 +228,7 @@
   - Rocket 15 
 - **Equipment:** 
   - Supercharger 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7514/king-crab-kgc-011) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7514/king-crab-kgc-011) 
 - **Battle Value:** 2406 
 - [*More Info*](king_crab/king_crab_kgc-011.md) 
 

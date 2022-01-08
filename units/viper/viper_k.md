@@ -19,7 +19,7 @@
   - Active Probe 
   - CASE 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7585/dragonfly-viper-k) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7585/dragonfly-viper-k) 
 - **Battle Value:** 1545 
 
 ## Availability 

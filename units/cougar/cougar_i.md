@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 -  - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
 - **Battle Value:** 1738 
 
 ## Availability 

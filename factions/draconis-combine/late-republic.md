@@ -1006,6 +1006,7 @@
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
 - [**Arctic Cheetah F**](../../units/arctic_cheetah/arctic_cheetah_f.md) *Striker (3093)* `Active Probe` , `ECM` , `TAG` 
+- [**Arctic Cheetah I**](../../units/arctic_cheetah/arctic_cheetah_i.md) *Striker (3099)* 
 
 #### [Cadaver](../../units/cadaver.md) 
 
@@ -1905,13 +1906,16 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-8V**](../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
 - [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
 
 #### [Stalker](../../units/stalker.md) 
 

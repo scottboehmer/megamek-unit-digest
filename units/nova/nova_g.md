@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g) 
+- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g) 
 - **Battle Value:** 1822 
 
 ## Availability 

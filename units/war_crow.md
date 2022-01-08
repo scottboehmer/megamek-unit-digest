@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7545/war-crow-prime) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7545/war-crow-prime) 
 - **Battle Value:** 2649 
 - [*More Info*](war_crow/war_crow_prime.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7546/war-crow-a) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7546/war-crow-a) 
 - **Battle Value:** 3030 
 - [*More Info*](war_crow/war_crow_a.md) 
 
@@ -55,7 +55,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7547/war-crow-b) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7547/war-crow-b) 
 - **Battle Value:** 2787 
 - [*More Info*](war_crow/war_crow_b.md) 
 
@@ -74,7 +74,7 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7548/war-crow-c) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7548/war-crow-c) 
 - **Battle Value:** 2572 
 - [*More Info*](war_crow/war_crow_c.md) 
 

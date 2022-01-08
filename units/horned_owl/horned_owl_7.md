@@ -18,7 +18,7 @@
   - Partial Wing 
   - Targeting Computer 
   - Light TAG 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749/peregrine-horned-owl-7-shimafukuro) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749/peregrine-horned-owl-7-shimafukuro) 
 - **Battle Value:** 1725 
 
 ## Availability 

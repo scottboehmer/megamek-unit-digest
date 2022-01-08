@@ -129,7 +129,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Medium Laser × 5 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015) 
 - **Battle Value:** 1919 
 - [*More Info*](marauder/marauder_bounty_hunter_3015.md) 
 
@@ -194,7 +194,7 @@
   - Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - Medium Laser × 3 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044) 
 - **Battle Value:** 2103 
 - [*More Info*](marauder/marauder_bounty_hunter_3044.md) 
 
@@ -214,7 +214,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d) 
 - **Battle Value:** 1787 
 - [*More Info*](marauder/marauder_mad-5d.md) 
 
@@ -232,7 +232,7 @@
   - Inner Sphere Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c) 
+- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c) 
 - **Battle Value:** 1711 
 - [*More Info*](marauder/marauder_c.md) 
 
@@ -269,7 +269,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s) 
+- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s) 
 - **Battle Value:** 1799 
 - [*More Info*](marauder/marauder_mad-5s.md) 
 
@@ -305,7 +305,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Command Console 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc) 
+- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc) 
 - **Battle Value:** 1787 
 - [*More Info*](marauder/marauder_mad-5d-dc.md) 
 
@@ -517,7 +517,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7531/marauder-mad-7m) 
+- **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7531/marauder-mad-7m) 
 - **Battle Value:** 1908 
 - [*More Info*](marauder/marauder_mad-7m.md) 
 
@@ -556,7 +556,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7533/marauder-mad-7s) 
+- **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7533/marauder-mad-7s) 
 - **Battle Value:** 1903 
 - [*More Info*](marauder/marauder_mad-7s.md) 
 
@@ -574,7 +574,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7528/marauder-mad-2t) 
+- **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7528/marauder-mad-2t) 
 - **Battle Value:** 1646 
 - [*More Info*](marauder/marauder_mad-2t.md) 
 
@@ -594,7 +594,7 @@
   - Guardian ECM Suite 
   - CASE II 
   - C3 Support 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7530/marauder-mad-7c) 
+- **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7530/marauder-mad-7c) 
 - **Battle Value:** 1810 
 - [*More Info*](marauder/marauder_mad-7c.md) 
 
@@ -613,7 +613,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7532/marauder-mad-7r) 
+- **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7532/marauder-mad-7r) 
 - **Battle Value:** 1832 
 - [*More Info*](marauder/marauder_mad-7r.md) 
 
@@ -651,7 +651,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7535/marauder-bounty-hunter-3138) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7535/marauder-bounty-hunter-3138) 
 - **Battle Value:** 2708 
 - [*More Info*](marauder/marauder_bounty_hunter_3138.md) 
 
@@ -670,7 +670,7 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7534/marauder-mad-11d) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7534/marauder-mad-11d) 
 - **Battle Value:** 2263 
 - [*More Info*](marauder/marauder_mad-11d.md) 
 
@@ -689,7 +689,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146) 
 - **Battle Value:** 2509 
 - [*More Info*](marauder/marauder_red_hunter.md) 
 
@@ -708,7 +708,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146) 
 - **Battle Value:** 2509 
 - [*More Info*](marauder/marauder_red_hunter_3146.md) 
 

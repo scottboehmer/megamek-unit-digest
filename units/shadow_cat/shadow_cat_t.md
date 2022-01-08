@@ -18,7 +18,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7708/shadow-cat-t) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7708/shadow-cat-t) 
 - **Battle Value:** 1852 
 
 ## Availability 

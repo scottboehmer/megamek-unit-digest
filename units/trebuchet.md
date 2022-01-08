@@ -231,7 +231,7 @@
   - Medium VSP Laser × 3 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7500/trebuchet-tbt-9n) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7500/trebuchet-tbt-9n) 
 - **Battle Value:** 1550 
 - [*More Info*](trebuchet/trebuchet_tbt-9n.md) 
 

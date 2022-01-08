@@ -376,8 +376,8 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
-- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Undefined (3066)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
+- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Juggernaut (3066)* 
 
 ### 95 Tons 
 

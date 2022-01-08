@@ -16,7 +16,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
 - **Battle Value:** 2277 
 
 ## Availability 

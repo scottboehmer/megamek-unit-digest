@@ -18,7 +18,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2891/shadow-cat-j) 
+- **Sources:** Rec Guide:ilClan #9 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2891/shadow-cat-j) 
 - **Battle Value:** 1802 
 
 ## Availability 

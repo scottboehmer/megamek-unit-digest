@@ -85,7 +85,7 @@
   - Large Pulse Laser × 2 
   - ER Large Laser × 3 
   - Small Pulse Laser 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7) 
 - **Battle Value:** 2916 
 - [*More Info*](stone_rhino/stone_rhino_7.md) 
 
@@ -145,7 +145,7 @@
 - **Equipment:** 
   - AES × 2 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
 - **Battle Value:** 2804 
 - [*More Info*](stone_rhino/stone_rhino_8.md) 
 

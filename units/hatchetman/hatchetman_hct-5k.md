@@ -17,6 +17,7 @@
   - Medium Pulse Laser × 2 
   - Sword 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
   - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1412/hatchetman-hct-5k) 

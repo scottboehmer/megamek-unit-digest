@@ -17,7 +17,7 @@
   - ECM Suite 
   - Targeting Computer 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8243/kraken-bane-6) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8243/kraken-bane-6) 
 - **Battle Value:** 2339 
 
 ## Availability 

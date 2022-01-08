@@ -450,6 +450,12 @@
 
 - [**Zeus-X ZEU-9WD**](../../units/zeus-x/zeus-x_zeu-9wd.md) *Brawler (3067)* 
 
+### 85 Tons 
+
+#### [Longbow](../../units/longbow.md) 
+
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
+
 ### 90 Tons 
 
 #### [Mad Cat Mk II](../../units/mad_cat_mk_ii.md) 

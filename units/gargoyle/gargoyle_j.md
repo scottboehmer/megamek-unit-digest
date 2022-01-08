@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Improved Heavy Medium Laser × 4 
   - ER Small Laser × 7 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7757/man-o-war-gargoyle-j) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7757/man-o-war-gargoyle-j) 
 - **Battle Value:** 2134 
 
 ## Availability 

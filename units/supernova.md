@@ -85,7 +85,7 @@
   - ER Large Laser × 6 
 - **Equipment:** 
   - Inner Sphere Coolant Pod × 4 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132/supernova-5) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132/supernova-5) 
 - **Battle Value:** 3070 
 - [*More Info*](supernova/supernova_5.md) 
 

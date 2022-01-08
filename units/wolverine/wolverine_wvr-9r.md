@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8254/wolverine-wvr-9r) 
+- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254/wolverine-wvr-9r) 
 - **Battle Value:** 1481 
 
 ## Availability 

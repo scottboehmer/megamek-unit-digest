@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8320/iron-cheetah-a) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8320/iron-cheetah-a) 
 - **Battle Value:** 2708 
 
 ## Availability 

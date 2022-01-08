@@ -4,7 +4,7 @@
 
 ## SturmFeur Heavy Tank (Heavy Gauss) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3066) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Fusion 

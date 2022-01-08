@@ -20,7 +20,7 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6840/gladiator-executioner-i) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6840/gladiator-executioner-i) 
 - **Battle Value:** 3339 
 
 ## Availability 

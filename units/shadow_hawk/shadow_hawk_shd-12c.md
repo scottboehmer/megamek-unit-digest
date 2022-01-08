@@ -16,6 +16,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c) 
 - **Battle Value:** 1574 

@@ -239,7 +239,7 @@
   - Small VSP Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7527/cataphract-ctf-5l) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7527/cataphract-ctf-5l) 
 - **Battle Value:** 2090 
 - [*More Info*](cataphract/cataphract_ctf-5l.md) 
 

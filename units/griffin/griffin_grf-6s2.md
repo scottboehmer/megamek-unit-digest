@@ -16,6 +16,7 @@
   - Clan LRM 15 (ammo: 16) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3 Boosted Support 
   - Targeting Computer 
   - CASE II 

@@ -18,7 +18,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7787/shadow-hawk-shd-5r) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7787/shadow-hawk-shd-5r) 
 - **Battle Value:** 1296 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - CASE II 
   - MASC 
   - Supercharger 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7502/thresher-mk-ii-standard) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7502/thresher-mk-ii-standard) 
 - **Battle Value:** 3364 
 - [*More Info*](thresher_mk_ii/thresher_mk_ii_standard.md) 
 

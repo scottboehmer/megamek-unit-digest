@@ -20,7 +20,7 @@
   - Laser Anti-Missile System 
   - Coolant Pod 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8161/exterminator-ext-7x) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8161/exterminator-ext-7x) 
 - **Battle Value:** 1674 
 
 ## Availability 

@@ -806,7 +806,7 @@
 #### [DI Schmitt Tank](../../units/di_schmitt_tank.md) 
 
 - [**DI Schmitt Tank (Standard)**](../../units/di_schmitt_tank/di_schmitt_tank_standard.md) *Juggernaut (3115)* 
-- [**DI Schmitt Tank (Targetting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targetting_computer.md) *Juggernaut (3115)* 
+- [**DI Schmitt Tank (Targeting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targeting_computer.md) *Juggernaut (3115)* 
 
 #### [Fury Command Tank](../../units/fury_command_tank.md) 
 
@@ -883,7 +883,7 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
 
 ### 90 Tons 
 
@@ -1435,6 +1435,7 @@
 
 - [**Hatchetman HCT-6D**](../../units/hatchetman/hatchetman_hct-6d.md) *Skirmisher (3062)* `ECM` 
 - [**Hatchetman HCT-7S**](../../units/hatchetman/hatchetman_hct-7s.md) *Skirmisher (3084)* `ECM` 
+- [**Hatchetman HCT-5DT**](../../units/hatchetman/hatchetman_hct-5dt.md) *Undefined (3145)* `ECM` 
 
 #### [Hellspawn](../../units/hellspawn.md) 
 
@@ -1741,6 +1742,7 @@
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
+- [**Ostroc OSR-6R**](../../units/ostroc/ostroc_osr-6r.md) *Skirmisher (3139)* 
 
 #### [Ostsol](../../units/ostsol.md) 
 
@@ -2099,7 +2101,9 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-8V**](../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
 - [**Longbow LGB-13NAIS**](../../units/longbow/longbow_lgb-13nais.md) *Juggernaut (3069)* `C3 Support` , `ECM` 
@@ -2107,6 +2111,8 @@
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
 - [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
+- [**Longbow LGB-14V**](../../units/longbow/longbow_lgb-14v.md) *Brawler (3105)* 
 
 #### [Stalker](../../units/stalker.md) 
 
@@ -2147,6 +2153,7 @@
 - [**Cyclops CP-11-B**](../../units/cyclops/cyclops_cp-11-b.md) *Juggernaut (3071)* 
 - [**Cyclops CP-11-C2**](../../units/cyclops/cyclops_cp-11-c2.md) *Brawler (3073)* `C3 Main` , `TAG` 
 - [**Cyclops CP-11-C3**](../../units/cyclops/cyclops_cp-11-c3.md) *Brawler (3077)* `C3 Main` , `TAG` 
+- [**Cyclops C**](../../units/cyclops/cyclops_c.md) *Brawler (3147)* 
 
 #### [Emperor](../../units/emperor.md) 
 
@@ -2168,6 +2175,14 @@
 #### [Orochi](../../units/orochi.md) 
 
 - [**Orochi OR-2I**](../../units/orochi/orochi_or-2i.md) *Missile Boat (3084)* 
+
+#### [Regent](../../units/regent.md) 
+
+- [**Regent Prime**](../../units/regent/regent_prime.md) *Juggernaut (3145)* 
+- [**Regent A**](../../units/regent/regent_a.md) *Sniper (3145)* 
+- [**Regent B**](../../units/regent/regent_b.md) *Juggernaut (3145)* 
+- [**Regent C**](../../units/regent/regent_c.md) *Sniper (3145)* 
+- [**Regent D**](../../units/regent/regent_d.md) *Sniper (3145)* 
 
 #### [St. Florian](../../units/st._florian.md) 
 

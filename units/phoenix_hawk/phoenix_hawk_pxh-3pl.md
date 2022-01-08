@@ -16,6 +16,7 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2501/phoenix-hawk-pxh-3pl) 
 - **Battle Value:** 1244 

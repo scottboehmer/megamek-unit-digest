@@ -15,7 +15,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
+- **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
 - **Battle Value:** 1705 
 
 ## Availability 

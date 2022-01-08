@@ -18,7 +18,7 @@
   - Streak SRM 2 (iOS) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7788/shadow-hawk-shd-6d) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7788/shadow-hawk-shd-6d) 
 - **Battle Value:** 1371 
 
 ## Availability 

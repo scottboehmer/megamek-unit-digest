@@ -227,7 +227,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - TAG 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l) 
 - **Battle Value:** 1035 
 - [*More Info*](raven/raven_rvn-5l.md) 
 

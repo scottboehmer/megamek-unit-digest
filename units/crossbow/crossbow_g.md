@@ -14,7 +14,7 @@
   - Streak LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237/crossbow-g) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237/crossbow-g) 
 - **Battle Value:** 1725 
 
 ## Availability 

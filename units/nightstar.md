@@ -109,7 +109,7 @@
 - **Equipment:** 
   - Coolant Pod × 2 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d) 
 - **Battle Value:** 2539 
 - [*More Info*](nightstar/nightstar_nsr-10d.md) 
 

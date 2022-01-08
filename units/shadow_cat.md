@@ -96,7 +96,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7707/shadow-cat-m) 
+- **Sources:** Rec Guide:ilClan #9 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7707/shadow-cat-m) 
 - **Battle Value:** 2438 
 - [*More Info*](shadow_cat/shadow_cat_m.md) 
 
@@ -138,7 +138,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704/shadow-cat-d) 
+- **Sources:** Rec Guide:ilClan #9 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704/shadow-cat-d) 
 - **Battle Value:** 2298 
 - [*More Info*](shadow_cat/shadow_cat_d.md) 
 
@@ -178,7 +178,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2891/shadow-cat-j) 
+- **Sources:** Rec Guide:ilClan #9 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2891/shadow-cat-j) 
 - **Battle Value:** 1802 
 - [*More Info*](shadow_cat/shadow_cat_j.md) 
 
@@ -196,7 +196,7 @@
 - **Equipment:** 
   - MASC 
   - Inner Sphere Coolant Pod × 2 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6913/shadow-cat-e) 
+- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6913/shadow-cat-e) 
 - **Battle Value:** 2081 
 - [*More Info*](shadow_cat/shadow_cat_e.md) 
 
@@ -237,7 +237,7 @@
   - MASC 
   - Targeting Computer 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7706/shadow-cat-i) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7706/shadow-cat-i) 
 - **Battle Value:** 2408 
 - [*More Info*](shadow_cat/shadow_cat_i.md) 
 
@@ -257,7 +257,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7708/shadow-cat-t) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7708/shadow-cat-t) 
 - **Battle Value:** 1852 
 - [*More Info*](shadow_cat/shadow_cat_t.md) 
 

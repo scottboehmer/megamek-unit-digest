@@ -16,6 +16,7 @@
   - LRM 15 w/ Artemis IV (ammo: 16) 
   - ER Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3i 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 

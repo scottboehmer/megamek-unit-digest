@@ -18,7 +18,7 @@
   - Active Probe 
   - CASE II 
   - Inner Sphere Supercharger 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759/man-o-war-gargoyle-k) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759/man-o-war-gargoyle-k) 
 - **Battle Value:** 2182 
 
 ## Availability 

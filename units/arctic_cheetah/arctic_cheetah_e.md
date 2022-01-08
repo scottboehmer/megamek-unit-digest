@@ -5,7 +5,7 @@
 ## Arctic Cheetah "Hankyu" E 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3071) 
+- **Tech Base:** Clan Mixed (3071) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 8 / 12, XL 
   - **Jumping:** 6 
@@ -17,9 +17,9 @@
   - Light Machine Gun × 6 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-  - B-Pod × 2 
+  - Inner Sphere B-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
+- **Sources:** Rec Guide:ilClan #21 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
 - **Battle Value:** 1081 
 
 ## Availability 

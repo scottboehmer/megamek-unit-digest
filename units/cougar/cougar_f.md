@@ -19,7 +19,7 @@
   - Machine Gun Array × 2 
   - B-Pod × 2 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
 - **Battle Value:** 1401 
 
 ## Availability 

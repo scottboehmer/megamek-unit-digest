@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Clan LRM 20 × 2 (ammo: 24) 
   - Clan ER Medium Laser × 4 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
 - **Battle Value:** 1811 
 
 ## Availability 

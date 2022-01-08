@@ -42,7 +42,7 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
+- **Sources:** Rec Guide:ilClan #14 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
 - **Battle Value:** 1245 
 - [*More Info*](ostsol/ostsol_otl-5m.md) 
 
@@ -194,7 +194,7 @@
   - Large X-Pulse Laser × 2 
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
 - **Battle Value:** 1552 
 - [*More Info*](ostsol/ostsol_otl-8e.md) 
 
@@ -212,7 +212,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
 - **Battle Value:** 2277 
 - [*More Info*](ostsol/ostsol_c.md) 
 
@@ -228,7 +228,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 4 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f) 
 - **Battle Value:** 1698 
 - [*More Info*](ostsol/ostsol_otl-8f.md) 
 
@@ -246,7 +246,7 @@
   - Large X-Pulse Laser × 2 
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3) 
 - **Battle Value:** 1671 
 - [*More Info*](ostsol/ostsol_otl-8e3.md) 
 

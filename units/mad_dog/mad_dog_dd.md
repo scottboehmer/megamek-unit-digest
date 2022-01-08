@@ -17,7 +17,7 @@
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd) 
 - **Battle Value:** 1970 
 
 ## Availability 

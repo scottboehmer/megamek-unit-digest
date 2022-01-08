@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8247/jenner-jr7-n) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8247/jenner-jr7-n) 
 - **Battle Value:** 1233 
 
 ## Availability 

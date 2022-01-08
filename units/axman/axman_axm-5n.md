@@ -19,8 +19,9 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
 - **Battle Value:** 2575 
 
 ## Availability 

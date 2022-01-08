@@ -17,7 +17,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
+- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
 - **Battle Value:** 517 
 
 ## Availability 

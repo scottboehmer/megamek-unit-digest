@@ -16,9 +16,10 @@
   - Clan ER Medium Laser × 2 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - AES 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s) 
 - **Battle Value:** 1479 
 
 ## Availability 

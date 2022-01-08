@@ -89,7 +89,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5657/hellion-d) 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5657/hellion-d) 
 - **Battle Value:** 1761 
 - [*More Info*](hellion/hellion_d.md) 
 
@@ -111,7 +111,7 @@
   - ECM Suite 
   - MASC 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5658/hellion-e) 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5658/hellion-e) 
 - **Battle Value:** 1292 
 - [*More Info*](hellion/hellion_e.md) 
 
@@ -133,7 +133,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5659/hellion-f) 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5659/hellion-f) 
 - **Battle Value:** 1594 
 - [*More Info*](hellion/hellion_f.md) 
 
@@ -155,4 +155,45 @@
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6939/hellion-g) 
 - **Battle Value:** 1513 
 - [*More Info*](hellion/hellion_g.md) 
+
+## Hellion P 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3124) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 7 / 11 (18), XL 
+- **Armor:** 105 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Improved Heavy Medium Laser × 3 
+  - Micro Pulse Laser × 8 
+  - ER Micro Laser × 4 
+- **Equipment:** 
+  - ECM Suite 
+  - MASC 
+  - Supercharger 
+  - TAG 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8327/hellion-p) 
+- **Battle Value:** 1685 
+- [*More Info*](hellion/hellion_p.md) 
+
+## Hellion T 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3142) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 7 / 11 (14), XL 
+- **Armor:** 105 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 3 
+  - LRM 10 (ammo: 12) 
+  - ER Small Laser 
+  - Streak SRM 2 (iOS) × 3 
+- **Equipment:** 
+  - MASC 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8326/hellion-t) 
+- **Battle Value:** 1637 
+- [*More Info*](hellion/hellion_t.md) 
 

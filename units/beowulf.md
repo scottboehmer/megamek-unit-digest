@@ -35,6 +35,7 @@
 - **Equipment:** 
   - Armored Angel ECM Suite 
   - Armored Bloodhound Active Probe 
+  - Full Head Ejection System 
   - TAG 
   - MASC 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5548/beowulf-beo-x-7a) 

@@ -20,7 +20,7 @@
   - Anti-Missile System (ammo: 24) 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7442/loki-hellbringer-j) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7442/loki-hellbringer-j) 
 - **Battle Value:** 2415 
 
 ## Availability 

@@ -57,7 +57,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser 
   - Small Pulse Laser × 2 
-- **Sources:** Recognition Guide:ilClan #16 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1903/locust-lct-1vb) 
+- **Sources:** Rec Guide:ilClan #16 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1903/locust-lct-1vb) 
 - **Battle Value:** 642 
 - [*More Info*](locust/locust_lct-1vb.md) 
 
@@ -87,7 +87,7 @@
 - **Weapons:** 
   - Clan Medium Pulse Laser 
   - Clan ER Small Laser × 2 
-- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c) 
+- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c) 
 - **Battle Value:** 672 
 - [*More Info*](locust/locust_c.md) 
 
@@ -134,7 +134,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1904/locust-lct-3d) 
+- **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1904/locust-lct-3d) 
 - **Battle Value:** 436 
 - [*More Info*](locust/locust_lct-3d.md) 
 
@@ -151,7 +151,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s) 
+- **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s) 
 - **Battle Value:** 483 
 - [*More Info*](locust/locust_lct-3s.md) 
 
@@ -169,7 +169,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m) 
+- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m) 
 - **Battle Value:** 522 
 - [*More Info*](locust/locust_lct-3m.md) 
 
@@ -268,7 +268,7 @@
   - MML 3 × 2 (ammo: 33 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199/locust-lct-5s) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199/locust-lct-5s) 
 - **Battle Value:** 509 
 - [*More Info*](locust/locust_lct-5s.md) 
 
@@ -350,7 +350,7 @@
 - **Weapons:** 
   - Medium X-Pulse Laser 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8201/locust-lct-7v) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8201/locust-lct-7v) 
 - **Battle Value:** 585 
 - [*More Info*](locust/locust_lct-7v.md) 
 
@@ -365,7 +365,7 @@
 - **Weapons:** 
   - Light PPC 
   - ER Small Laser × 2 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8202/locust-lct-7v2) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8202/locust-lct-7v2) 
 - **Battle Value:** 634 
 - [*More Info*](locust/locust_lct-7v2.md) 
 
@@ -382,7 +382,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8200/locust-lct-7s) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8200/locust-lct-7s) 
 - **Battle Value:** 706 
 - [*More Info*](locust/locust_lct-7s.md) 
 

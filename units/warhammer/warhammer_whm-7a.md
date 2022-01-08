@@ -17,7 +17,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3490/warhammer-whm-7a) 
+- **Sources:** Rec Guide:ilClan #7 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3490/warhammer-whm-7a) 
 - **Battle Value:** 1679 
 
 ## Availability 

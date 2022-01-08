@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Clan Medium Pulse Laser 
   - Clan ER Small Laser × 2 
-- **Sources:** Recognition Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c) 
+- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c) 
 - **Battle Value:** 672 
 
 ## Availability 

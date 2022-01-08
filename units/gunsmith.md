@@ -12,6 +12,7 @@
 - **Weapons:** 
   - Medium X-Pulse Laser × 4 
 - **Equipment:** 
+  - Full Head Ejection System 
   - MASC 
 - **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6332/gunsmith-ch11-ng) 
 - **Battle Value:** 1465 
@@ -30,6 +31,7 @@
   - Clan ER Medium Pulse Laser × 4 
 - **Equipment:** 
   - Laser Anti-Missile System 
+  - Full Head Ejection System 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8367/gunsmith-ch11-ngc-cinderella) 
 - **Battle Value:** 1519 
 - [*More Info*](gunsmith/gunsmith_ch11-ngc_cinderella.md) 

@@ -136,7 +136,7 @@
   - Clan ER Large Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
 - **Battle Value:** 1209 
 - [*More Info*](ostscout/ostscout_ott-12r.md) 
 
@@ -155,7 +155,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j) 
 - **Battle Value:** 894 
 - [*More Info*](ostscout/ostscout_ott-8j.md) 
 

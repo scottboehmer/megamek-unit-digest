@@ -136,6 +136,7 @@
   - LRM 10 (ammo: 12) 
   - Small Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m) 
 - **Battle Value:** 1224 
@@ -155,6 +156,7 @@
   - LRM 15 w/ Artemis IV (ammo: 16) 
   - ER Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s) 
 - **Battle Value:** 1781 
@@ -175,6 +177,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - C3i 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
@@ -235,6 +238,7 @@
   - Light PPC 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k) 
 - **Battle Value:** 1390 
@@ -327,7 +331,7 @@
   - NLRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
 - **Battle Value:** 1560 
 - [*More Info*](griffin/griffin_grf-3n.md) 
 
@@ -345,6 +349,7 @@
   - Clan LRM 15 (ammo: 16) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3 Boosted Support 
   - Targeting Computer 
   - CASE II 
@@ -366,7 +371,7 @@
   - Streak LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c) 
 - **Battle Value:** 2131 
 - [*More Info*](griffin/griffin_c.md) 
 

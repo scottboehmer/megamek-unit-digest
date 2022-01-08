@@ -1,6 +1,6 @@
 # Raijin 
 
-## Raijin RJN101-A 
+## Raijin RJN-101-A 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3053) 
@@ -14,11 +14,11 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 3 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626/raijin-rjn101-a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626/raijin-rjn-101-a) 
 - **Battle Value:** 1350 
-- [*More Info*](raijin/raijin_rjn101-a.md) 
+- [*More Info*](raijin/raijin_rjn-101-a.md) 
 
-## Raijin RJN101-C 
+## Raijin RJN-101-C 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3062) 
@@ -33,7 +33,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn101-c) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn-101-c) 
 - **Battle Value:** 1389 
-- [*More Info*](raijin/raijin_rjn101-c.md) 
+- [*More Info*](raijin/raijin_rjn-101-c.md) 
 

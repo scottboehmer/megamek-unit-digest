@@ -4,7 +4,7 @@
 
 ## SturmFeur Heavy Tank (SRM) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3023) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, ICE 

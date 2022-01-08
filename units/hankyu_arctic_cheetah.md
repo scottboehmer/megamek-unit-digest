@@ -119,7 +119,7 @@
 ## Arctic Cheetah "Hankyu" E 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3071) 
+- **Tech Base:** Clan Mixed (3071) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 8 / 12, XL 
   - **Jumping:** 6 
@@ -131,9 +131,9 @@
   - Light Machine Gun × 6 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-  - B-Pod × 2 
+  - Inner Sphere B-Pod × 2 
   - CASE 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
+- **Sources:** Rec Guide:ilClan #21 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
 - **Battle Value:** 1081 
 - [*More Info*](arctic_cheetah/arctic_cheetah_e.md) 
 
@@ -154,7 +154,67 @@
   - Watchdog CEWS 
   - Light TAG 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940/hankyu-arctic-cheetah-f) 
+- **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940/hankyu-arctic-cheetah-f) 
 - **Battle Value:** 1394 
 - [*More Info*](arctic_cheetah/arctic_cheetah_f.md) 
+
+## Arctic Cheetah "Hankyu" I 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3099) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 6 
+- **Armor:** 76 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Cannon (ammo: 10) 
+  - Improved Heavy Medium Laser 
+  - SRM 4 × 2 (ammo: 50) 
+  - Flamer 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8350/hankyu-arctic-cheetah-i) 
+- **Battle Value:** 1299 
+- [*More Info*](arctic_cheetah/arctic_cheetah_i.md) 
+
+## Arctic Cheetah "Hankyu" J 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan (3141) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 6 
+- **Armor:** 76 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - ProtoMech AC/2 (ammo: 40) 
+  - ER Small Laser 
+  - Flamer 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8351/hankyu-arctic-cheetah-j) 
+- **Battle Value:** 1179 
+- [*More Info*](arctic_cheetah/arctic_cheetah_j.md) 
+
+## Arctic Cheetah "Hankyu" T 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3142) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 76 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - Streak LRM 5 × 2 (ammo: 24) 
+  - Flamer 
+- **Equipment:** 
+  - TAG 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8349/hankyu-arctic-cheetah-t) 
+- **Battle Value:** 1429 
+- [*More Info*](arctic_cheetah/arctic_cheetah_t.md) 
 

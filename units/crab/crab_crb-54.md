@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Supercharger 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7510/crab-crb-54) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7510/crab-crb-54) 
 - **Battle Value:** 1964 
 
 ## Availability 

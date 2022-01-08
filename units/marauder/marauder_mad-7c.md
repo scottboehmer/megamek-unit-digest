@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - CASE II 
   - C3 Support 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7530/marauder-mad-7c) 
+- **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7530/marauder-mad-7c) 
 - **Battle Value:** 1810 
 
 ## Availability 

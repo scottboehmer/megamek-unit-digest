@@ -20,7 +20,7 @@
   - ECM Suite 
   - MASC 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5658/hellion-e) 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5658/hellion-e) 
 - **Battle Value:** 1292 
 
 ## Availability 

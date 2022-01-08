@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Pulse Laser 
   - ER Small Laser × 8 
-- **Sources:** Recognition Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard) 
+- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard) 
 - **Battle Value:** 1100 
 - [*More Info*](locust_iic/locust_iic_standard.md) 
 
@@ -28,7 +28,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
+- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
 - **Battle Value:** 937 
 - [*More Info*](locust_iic/locust_iic_2.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Small Pulse Laser × 2 
-- **Sources:** Recognition Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3) 
+- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3) 
 - **Battle Value:** 980 
 - [*More Info*](locust_iic/locust_iic_3.md) 
 
@@ -157,7 +157,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - ER Small Laser × 8 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203/locust-iic-10) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203/locust-iic-10) 
 - **Battle Value:** 1248 
 - [*More Info*](locust_iic/locust_iic_10.md) 
 

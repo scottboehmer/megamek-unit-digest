@@ -19,7 +19,7 @@
   - MASC 
   - Targeting Computer 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7706/shadow-cat-i) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7706/shadow-cat-i) 
 - **Battle Value:** 2408 
 
 ## Availability 

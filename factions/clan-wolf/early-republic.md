@@ -610,6 +610,7 @@
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
 - [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC 10**](../../units/shadow_hawk_iic/shadow_hawk_iic_10.md) *Striker (3068)* 
 
 #### [Wyvern IIC](../../units/wyvern_iic.md) 
 

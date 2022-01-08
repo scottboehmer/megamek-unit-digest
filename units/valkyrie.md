@@ -46,7 +46,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3373/valkyrie-vlk-qd) 
+- **Sources:** Rec Guide:ilClan #9 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3373/valkyrie-vlk-qd) 
 - **Battle Value:** 807 
 - [*More Info*](valkyrie/valkyrie_vlk-qd.md) 
 
@@ -63,6 +63,7 @@
   - LRM 15 w/ Artemis IV (ammo: 16) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3374/valkyrie-vlk-qd1) 
 - **Battle Value:** 878 
@@ -81,6 +82,7 @@
   - ER Medium Laser × 2 
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3376/valkyrie-vlk-qd3) 
 - **Battle Value:** 882 
@@ -100,6 +102,7 @@
   - MML 9 w/ Artemis IV (ammo: 13 LRM, 11 SRM) 
   - Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3379/valkyrie-vlk-qs5) 
 - **Battle Value:** 745 
@@ -118,6 +121,7 @@
   - ER Medium Laser 
   - Light AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2) 
 - **Battle Value:** 638 
@@ -137,6 +141,7 @@
   - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM) 
   - Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3i 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5) 
@@ -175,6 +180,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4) 
 - **Battle Value:** 657 
@@ -195,6 +201,7 @@
   - Clan ATM 3 (ammo: 40) 
   - Medium Pulse Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8104/valkyrie-vlk-qd5) 
 - **Battle Value:** 690 
@@ -215,7 +222,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7703/valkyrie-vlk-qd6) 
+- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7703/valkyrie-vlk-qd6) 
 - **Battle Value:** 827 
 - [*More Info*](valkyrie/valkyrie_vlk-qd6.md) 
 
@@ -232,6 +239,8 @@
 - **Weapons:** 
   - ELRM 10 (ammo: 18) 
   - Light PPC 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8) 
 - **Battle Value:** 787 
 - [*More Info*](valkyrie/valkyrie_vlk-qd8.md) 
@@ -251,7 +260,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7702/valkyrie-vlk-qdd) 
+- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7702/valkyrie-vlk-qdd) 
 - **Battle Value:** 834 
 - [*More Info*](valkyrie/valkyrie_vlk-qdd.md) 
 
@@ -270,7 +279,7 @@
   - Clan LRM 10 (ammo: 24) 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7701/valkyrie-c) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7701/valkyrie-c) 
 - **Battle Value:** 936 
 - [*More Info*](valkyrie/valkyrie_c.md) 
 

@@ -20,7 +20,7 @@
   - CASE II 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8324/iron-cheetah-l) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8324/iron-cheetah-l) 
 - **Battle Value:** 3480 
 
 ## Availability 

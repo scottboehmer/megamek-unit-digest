@@ -20,7 +20,7 @@
   - MASC 
   - CASE 
   - Targeting Computer 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g) 
 - **Battle Value:** 3825 
 
 ## Availability 

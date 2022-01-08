@@ -18,7 +18,7 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325/cougar-t) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325/cougar-t) 
 - **Battle Value:** 1748 
 
 ## Availability 

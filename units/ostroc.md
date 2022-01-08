@@ -77,6 +77,23 @@
 - **Battle Value:** 1233 
 - [*More Info*](ostroc/ostroc_osr-2l.md) 
 
+## Ostroc OSR-9C 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (2905) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 3 
+- **Armor:** 152 
+- **Heat Sinks:** 19 (19) 
+- **Weapons:** 
+  - Large Laser × 2 
+  - Medium Laser × 2 
+  - SRM 2 × 2 (ammo: 50) 
+- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8356/ostroc-osr-9c) 
+- **Battle Value:** 1230 
+- [*More Info*](ostroc/ostroc_osr-9c.md) 
+
 ## Ostroc OSR-2C (Michi) 
 
 - **Role:** Skirmisher 
@@ -106,7 +123,7 @@
   - ER Large Laser × 2 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2351/ostroc-osr-2d) 
+- **Sources:** Rec Guide:ilClan #21 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2351/ostroc-osr-2d) 
 - **Battle Value:** 1396 
 - [*More Info*](ostroc/ostroc_osr-2d.md) 
 
@@ -199,4 +216,41 @@
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c) 
 - **Battle Value:** 1788 
 - [*More Info*](ostroc/ostroc_osr-5c.md) 
+
+## Ostroc OSR-3M 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3088) 
+- **Chassis:** 60 tons 
+- **Movement:** 5 / 8 (10) 
+- **Armor:** 144 (Light Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - ER Medium Laser × 2 
+  - Streak SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - CASE 
+  - Supercharger 
+- **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8354/ostroc-osr-3m) 
+- **Battle Value:** 1594 
+- [*More Info*](ostroc/ostroc_osr-3m.md) 
+
+## Ostroc OSR-6R 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere Mixed (3139) 
+- **Chassis:** 60 tons (Endo Composite) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 144 (Laser Reflective) 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - Clan ER Large Laser × 2 
+  - Clan ER Medium Laser × 2 
+  - Streak SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8355/ostroc-osr-6r) 
+- **Battle Value:** 2095 
+- [*More Info*](ostroc/ostroc_osr-6r.md) 
 

@@ -1,21 +1,23 @@
-# Powerman XI LoaderMech 
+# Crosscut ED-X2 LoggerMech 
 
-[Other Powerman variants](../powerman.md) 
+[Other Crosscut variants](../crosscut.md) 
 
-## Powerman XI LoaderMech 
+## Crosscut ED-X2 LoggerMech 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere (2764) 
-- **Chassis:** 35 tons (Industrial) 
-- **Movement:** 4 / 6, ICE 
-- **Armor:** 60 (Commercial) 
+- **Tech Base:** Inner Sphere (2715) 
+- **Chassis:** 30 tons (Industrial) 
+- **Movement:** 3 / 5, ICE 
+- **Armor:** 42 (Industrial) 
 - **Cockpit:** Industrial 
 - **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Chainsaw 
 - **Equipment:** 
-  - Lift Hoist × 2 
-  - Cargo × 5 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2564/powerman-sc-xi-loadermech) 
-- **Battle Value:** 198 
+  - Lift Hoist 
+  - Cargo × 2 
+- **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741/crosscut-ed-x2-loggermech) 
+- **Battle Value:** 223 
 
 ## Availability 
 
@@ -29,8 +31,6 @@
 - Magistracy of Canopus 
 - Outworlds Alliance 
 - Pirate 
-- Star League 
-- Star League - Royal Divisions 
 - Taurian Concordat 
 - Terran Hegemony 
 

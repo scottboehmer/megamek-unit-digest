@@ -14,7 +14,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7775/carrion-crow-prime) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7775/carrion-crow-prime) 
 - **Battle Value:** 2099 
 - [*More Info*](carrion_crow/carrion_crow_prime.md) 
 
@@ -32,7 +32,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7776/carrion-crow-a) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7776/carrion-crow-a) 
 - **Battle Value:** 1625 
 - [*More Info*](carrion_crow/carrion_crow_a.md) 
 
@@ -52,7 +52,7 @@
   - Watchdog CEWS 
   - Supercharger 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7777/carrion-crow-b) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7777/carrion-crow-b) 
 - **Battle Value:** 2083 
 - [*More Info*](carrion_crow/carrion_crow_b.md) 
 
@@ -70,7 +70,7 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7778/carrion-crow-c) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7778/carrion-crow-c) 
 - **Battle Value:** 1826 
 - [*More Info*](carrion_crow/carrion_crow_c.md) 
 
@@ -90,7 +90,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7779/carrion-crow-d) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7779/carrion-crow-d) 
 - **Battle Value:** 1930 
 - [*More Info*](carrion_crow/carrion_crow_d.md) 
 

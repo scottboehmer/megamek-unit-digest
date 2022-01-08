@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7454/bushwacker-bsw-x4) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7454/bushwacker-bsw-x4) 
 - **Battle Value:** 1751 
 
 ## Availability 

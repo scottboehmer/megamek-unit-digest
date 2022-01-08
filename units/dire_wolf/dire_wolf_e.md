@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE II 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e) 
 - **Battle Value:** 2814 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7580/dasher-fire-moth-m) 
+- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7580/dasher-fire-moth-m) 
 - **Battle Value:** 1200 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - MASC 
   - CASE II 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8240/amarok-2) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8240/amarok-2) 
 - **Battle Value:** 3351 
 
 ## Availability 

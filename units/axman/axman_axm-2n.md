@@ -17,6 +17,7 @@
   - Medium Laser × 3 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
 - **Battle Value:** 1458 

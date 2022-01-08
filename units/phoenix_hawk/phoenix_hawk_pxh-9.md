@@ -17,7 +17,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7751/phoenix-hawk-pxh-9) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7751/phoenix-hawk-pxh-9) 
 - **Battle Value:** 1244 
 
 ## Availability 

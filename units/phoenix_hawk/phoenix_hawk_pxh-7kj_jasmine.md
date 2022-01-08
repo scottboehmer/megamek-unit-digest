@@ -17,6 +17,7 @@
   - Rocket 10 
 - **Equipment:** 
   - Angel ECM Suite 
+  - Full Head Ejection System 
   - Remote Drone Command Console 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8372/phoenix-hawk-pxh-7kj-jasmine) 
 - **Battle Value:** 1513 

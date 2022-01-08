@@ -19,7 +19,7 @@
   - ECM Suite 
   - Inner Sphere A-Pod 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7566/warhammer-c-3) 
+- **Sources:** Rec Guide:ilClan #7 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7566/warhammer-c-3) 
 - **Battle Value:** 2518 
 
 ## Availability 

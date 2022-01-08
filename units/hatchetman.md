@@ -13,6 +13,8 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - Hatchet 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1410/hatchetman-hct-3f) 
 - **Battle Value:** 854 
 - [*More Info*](hatchetman/hatchetman_hct-3f.md) 
@@ -30,6 +32,8 @@
   - Prototype LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
   - Medium Laser × 3 
   - Hatchet 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1411/hatchetman-hct-3f-austin) 
 - **Battle Value:** 910 
 - [*More Info*](hatchetman/hatchetman_hct-3f_austin.md) 
@@ -67,6 +71,7 @@
   - ER Medium Laser × 3 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1414/hatchetman-hct-5s-austin) 
 - **Battle Value:** 1174 
@@ -86,6 +91,7 @@
   - ER Medium Laser 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5445/hatchetman-hct-5d) 
 - **Battle Value:** 1012 
@@ -106,6 +112,7 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1415/hatchetman-hct-6d) 
 - **Battle Value:** 1611 
 - [*More Info*](hatchetman/hatchetman_hct-6d.md) 
@@ -124,6 +131,7 @@
   - ER Medium Laser × 3 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1417/hatchetman-hct-6s) 
 - **Battle Value:** 1174 
@@ -143,6 +151,7 @@
   - ER Medium Laser 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd) 
 - **Battle Value:** 1112 
@@ -163,6 +172,7 @@
   - Medium Pulse Laser × 2 
   - Sword 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
   - C3 Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1412/hatchetman-hct-5k) 
@@ -184,6 +194,7 @@
   - Hatchet 
 - **Equipment:** 
   - Beagle Active Probe 
+  - Full Head Ejection System 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1416/hatchetman-hct-6m) 
 - **Battle Value:** 1274 
 - [*More Info*](hatchetman/hatchetman_hct-6m.md) 
@@ -203,6 +214,7 @@
   - Hatchet 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1418/hatchetman-hct-7s) 
 - **Battle Value:** 1243 
@@ -222,6 +234,7 @@
   - Medium Laser × 6 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - AES × 2 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7295/hatchetman-hct-7r) 
 - **Battle Value:** 1521 
@@ -241,9 +254,33 @@
   - Clan ER Medium Laser × 2 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - AES 
   - CASE 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s) 
 - **Battle Value:** 1479 
 - [*More Info*](hatchetman/hatchetman_hct-8s.md) 
+
+## Hatchetman HCT-5DT 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3145) 
+- **Chassis:** 45 tons 
+- **Movement:** 4 (5) / 6 (8), XL 
+  - **Jumping:** 4 
+- **Armor:** 152 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Snub-Nose PPC w/ PPC Capacitor 
+  - ER Medium Laser × 4 
+  - Hatchet 
+  - ER Small Laser × 4 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Full Head Ejection System 
+  - Targeting Computer 
+- **Sources:** Shrapnel 7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8438/hatchetman-hct-5dt) 
+- **Battle Value:** 1788 
+- [*More Info*](hatchetman/hatchetman_hct-5dt.md) 
 

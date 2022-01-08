@@ -16,6 +16,7 @@
   - ER Medium Laser 
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - MASC 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3067/stinger-stg-6s) 
 - **Battle Value:** 478 

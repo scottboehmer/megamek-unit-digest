@@ -20,7 +20,7 @@
   - MASC 
   - Light TAG 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313/rime-otter-d) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313/rime-otter-d) 
 - **Battle Value:** 1998 
 
 ## Availability 

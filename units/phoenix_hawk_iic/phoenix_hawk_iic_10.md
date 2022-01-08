@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 6 
   - Inner Sphere Hatchet 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197/phoenix-hawk-iic-10) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197/phoenix-hawk-iic-10) 
 - **Battle Value:** 2762 
 
 ## Availability 

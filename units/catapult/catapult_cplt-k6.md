@@ -16,7 +16,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - AES × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7509/catapult-cplt-k6) 
+- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7509/catapult-cplt-k6) 
 - **Battle Value:** 1619 
 
 ## Availability 

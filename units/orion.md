@@ -313,7 +313,7 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317/orion-c-2) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317/orion-c-2) 
 - **Battle Value:** 2026 
 - [*More Info*](orion/orion_c_2.md) 
 

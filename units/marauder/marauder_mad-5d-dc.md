@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Command Console 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc) 
+- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7529/marauder-mad-5d-dc) 
 - **Battle Value:** 1787 
 
 ## Availability 

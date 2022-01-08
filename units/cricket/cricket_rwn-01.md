@@ -18,7 +18,7 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7523/cricket-rwn-01) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7523/cricket-rwn-01) 
 - **Battle Value:** 1169 
 
 ## Availability 

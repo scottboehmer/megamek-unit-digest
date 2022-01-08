@@ -17,9 +17,10 @@
   - ER Medium Laser 
   - ER Small Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7435/dominator-2) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7435/dominator-2) 
 - **Battle Value:** 2906 
 
 ## Availability 

@@ -1037,7 +1037,7 @@
 #### [DI Schmitt Tank](../../units/di_schmitt_tank.md) 
 
 - [**DI Schmitt Tank (Standard)**](../../units/di_schmitt_tank/di_schmitt_tank_standard.md) *Juggernaut (3115)* 
-- [**DI Schmitt Tank (Targetting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targetting_computer.md) *Juggernaut (3115)* 
+- [**DI Schmitt Tank (Targeting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targeting_computer.md) *Juggernaut (3115)* 
 
 #### [Fortune Wheeled Assault Vehicle](../../units/fortune_wheeled_assault_vehicle.md) 
 
@@ -1115,7 +1115,7 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
 
 #### [Trajan Assault Infantry Fighting Vehicle](../../units/trajan_assault_infantry_fighting_vehicle.md) 
 
@@ -1417,6 +1417,9 @@
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
 - [**Arctic Cheetah F**](../../units/arctic_cheetah/arctic_cheetah_f.md) *Striker (3093)* `Active Probe` , `ECM` , `TAG` 
+- [**Arctic Cheetah I**](../../units/arctic_cheetah/arctic_cheetah_i.md) *Striker (3099)* 
+- [**Arctic Cheetah J**](../../units/arctic_cheetah/arctic_cheetah_j.md) *Sniper (3141)* 
+- [**Arctic Cheetah T**](../../units/arctic_cheetah/arctic_cheetah_t.md) *Scout (3142)* `TAG` 
 
 #### [Arctic Fox](../../units/arctic_fox.md) 
 
@@ -2902,13 +2905,16 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-8V**](../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
 - [**Longbow LGB-13C**](../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
 - [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
 
 #### [Stalker](../../units/stalker.md) 
 
@@ -2932,6 +2938,7 @@
 - [**Cyclops CP-11-G**](../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
 - [**Cyclops CP-11-B**](../../units/cyclops/cyclops_cp-11-b.md) *Juggernaut (3071)* 
 - [**Cyclops CP-11-C2**](../../units/cyclops/cyclops_cp-11-c2.md) *Brawler (3073)* `C3 Main` , `TAG` 
+- [**Cyclops C**](../../units/cyclops/cyclops_c.md) *Brawler (3147)* 
 
 #### [Emperor](../../units/emperor.md) 
 
@@ -2959,6 +2966,14 @@
 - [**Mad Cat Mk II 2**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
 - [**Mad Cat Mk II 4**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_4.md) *Sniper (3090)* `Active Probe` 
 - [**Mad Cat Mk II 5**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_5.md) *Brawler (3109)* `Active Probe` 
+
+#### [Regent](../../units/regent.md) 
+
+- [**Regent Prime**](../../units/regent/regent_prime.md) *Juggernaut (3145)* 
+- [**Regent A**](../../units/regent/regent_a.md) *Sniper (3145)* 
+- [**Regent B**](../../units/regent/regent_b.md) *Juggernaut (3145)* 
+- [**Regent C**](../../units/regent/regent_c.md) *Sniper (3145)* 
+- [**Regent D**](../../units/regent/regent_d.md) *Sniper (3145)* 
 
 #### [St. Florian](../../units/st._florian.md) 
 
@@ -3068,7 +3083,7 @@
 #### [Atlas II](../../units/atlas_ii.md) 
 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 
-- [**Atlas II AS7-D-H (Devlin)**](../../units/atlas_ii/atlas_ii_as7-d-h_devlin.md) *Undefined (3075)* `ECM` , `Unique` 
+- [**Atlas II AS7-D-H (Devlin)**](../../units/atlas_ii/atlas_ii_as7-d-h_devlin.md) *Juggernaut (3075)* `ECM` , `Unique` 
 
 #### [Atlas III](../../units/atlas_iii.md) 
 

@@ -44,7 +44,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
+- **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-2rb.md) 
 
@@ -108,7 +108,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-4m.md) 
 
@@ -125,7 +125,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r) 
 - **Battle Value:** 1672 
 - [*More Info*](archer/archer_arc-5r.md) 
 
@@ -144,7 +144,7 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
 - **Battle Value:** 1353 
 - [*More Info*](archer/archer_arc-5s.md) 
 
@@ -162,7 +162,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/81/archer-arc-5w) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/81/archer-arc-5w) 
 - **Battle Value:** 1337 
 - [*More Info*](archer/archer_arc-5w.md) 
 
@@ -177,7 +177,7 @@
 - **Weapons:** 
   - Clan LRM 20 × 2 (ammo: 24) 
   - Clan ER Medium Laser × 4 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
 - **Battle Value:** 1811 
 - [*More Info*](archer/archer_c.md) 
 
@@ -212,7 +212,7 @@
   - ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
 - **Battle Value:** 2365 
 - [*More Info*](archer/archer_wolf.md) 
 
@@ -375,7 +375,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7730/archer-arc-4m2) 
+- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7730/archer-arc-4m2) 
 - **Battle Value:** 1742 
 - [*More Info*](archer/archer_arc-4m2.md) 
 
@@ -411,7 +411,7 @@
 - **Equipment:** 
   - CASE II 
   - Targeting Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c) 
+- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c) 
 - **Battle Value:** 2408 
 - [*More Info*](archer/archer_arc-7c.md) 
 
@@ -429,7 +429,7 @@
 - **Equipment:** 
   - CASE II 
   - C3 Support 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
 - **Battle Value:** 1668 
 - [*More Info*](archer/archer_arc-9r.md) 
 

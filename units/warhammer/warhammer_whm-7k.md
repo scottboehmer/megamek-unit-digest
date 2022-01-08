@@ -17,7 +17,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491/warhammer-whm-7k) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491/warhammer-whm-7k) 
 - **Battle Value:** 1651 
 
 ## Availability 

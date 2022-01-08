@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** ilClan RecGuide 15 -Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186/black-lanner-g) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186/black-lanner-g) 
 - **Battle Value:** 1929 
 
 ## Availability 

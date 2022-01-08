@@ -16,6 +16,7 @@
   - MML 9 w/ Artemis IV (ammo: 13 LRM, 11 SRM) 
   - Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3379/valkyrie-vlk-qs5) 
 - **Battle Value:** 745 

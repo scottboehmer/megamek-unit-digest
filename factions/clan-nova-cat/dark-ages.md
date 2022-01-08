@@ -510,6 +510,9 @@
 - [**Arctic Cheetah H**](../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
 - [**Arctic Cheetah E**](../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
 - [**Arctic Cheetah F**](../../units/arctic_cheetah/arctic_cheetah_f.md) *Striker (3093)* `Active Probe` , `ECM` , `TAG` 
+- [**Arctic Cheetah I**](../../units/arctic_cheetah/arctic_cheetah_i.md) *Striker (3099)* 
+- [**Arctic Cheetah J**](../../units/arctic_cheetah/arctic_cheetah_j.md) *Sniper (3141)* 
+- [**Arctic Cheetah T**](../../units/arctic_cheetah/arctic_cheetah_t.md) *Scout (3142)* `TAG` 
 
 #### [Arctic Fox](../../units/arctic_fox.md) 
 
@@ -555,6 +558,8 @@
 - [**Hellion E**](../../units/hellion/hellion_e.md) *Striker (3070)* `ECM` 
 - [**Hellion F**](../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
 - [**Hellion G**](../../units/hellion/hellion_g.md) *Striker (3119)* 
+- [**Hellion P**](../../units/hellion/hellion_p.md) *Striker (3124)* `ECM` , `TAG` 
+- [**Hellion T**](../../units/hellion/hellion_t.md) *Striker (3142)* 
 
 #### [Incubus](../../units/incubus.md) 
 

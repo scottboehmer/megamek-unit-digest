@@ -18,7 +18,7 @@
   - MASC 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6842/gladiator-executioner-f) 
+- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6842/gladiator-executioner-f) 
 - **Battle Value:** 3606 
 
 ## Availability 

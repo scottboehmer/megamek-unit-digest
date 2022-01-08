@@ -662,6 +662,10 @@
 
 - [**Harvester HVR-199 AgroMech**](../../units/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech` 
 
+#### [Kontio](../../units/kontio.md) 
+
+- [**Kontio (Standard)**](../../units/kontio/kontio_standard.md) *Striker (3145)* `ECM` , `Stealth` 
+
 #### [Lobo](../../units/lobo.md) 
 
 - [**Lobo (Standard)**](../../units/lobo/lobo_standard.md) *Striker (3059)* 
@@ -741,6 +745,7 @@
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
 - [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC 10**](../../units/shadow_hawk_iic/shadow_hawk_iic_10.md) *Striker (3068)* 
 
 #### [Violator](../../units/violator.md) 
 
@@ -770,6 +775,10 @@
 #### [Firestorm](../../units/firestorm.md) 
 
 - [**Firestorm (Standard)**](../../units/firestorm/firestorm_standard.md) *Skirmisher (3145)* 
+
+#### [Hunchback](../../units/hunchback.md) 
+
+- [**Hunchback C**](../../units/hunchback/hunchback_c.md) *Skirmisher (3065)* 
 
 #### [Mongrel](../../units/mongrel.md) 
 

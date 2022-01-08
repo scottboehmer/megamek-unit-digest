@@ -17,7 +17,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717/inferno-inf-nob) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717/inferno-inf-nob) 
 - **Battle Value:** 1658 
 
 ## Availability 

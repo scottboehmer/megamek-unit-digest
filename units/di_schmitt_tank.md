@@ -18,7 +18,7 @@
 - **Battle Value:** 1457 
 - [*More Info*](di_schmitt_tank/di_schmitt_tank_standard.md) 
 
-## DI Schmitt Tank (Targetting Computer) 
+## DI Schmitt Tank (Targeting Computer) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3115) 
@@ -36,5 +36,5 @@
   - Targeting Computer 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6603/di-schmitt-tank-targeting-computer) 
 - **Battle Value:** 1456 
-- [*More Info*](di_schmitt_tank/di_schmitt_tank_targetting_computer.md) 
+- [*More Info*](di_schmitt_tank/di_schmitt_tank_targeting_computer.md) 
 

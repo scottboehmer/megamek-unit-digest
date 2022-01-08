@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Command Console 
   - CASE II 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7476/battlemaster-blr-6c) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7476/battlemaster-blr-6c) 
 - **Battle Value:** 1557 
 
 ## Availability 

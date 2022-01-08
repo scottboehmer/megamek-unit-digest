@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Inner Sphere Coolant Pod 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7735/crucible-2) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7735/crucible-2) 
 - **Battle Value:** 3598 
 
 ## Availability 

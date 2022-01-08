@@ -118,7 +118,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
 - **Battle Value:** 1314 
 - [*More Info*](wolverine/wolverine_wvr-7d.md) 
 
@@ -136,7 +136,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Pulse Laser 
   - Small Pulse Laser 
-- **Sources:** ilClan Rec Guide 18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k) 
 - **Battle Value:** 1331 
 - [*More Info*](wolverine/wolverine_wvr-7k.md) 
 
@@ -155,7 +155,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m) 
 - **Battle Value:** 1673 
 - [*More Info*](wolverine/wolverine_wvr-7m.md) 
 
@@ -255,7 +255,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8253/wolverine-wvr-7m2) 
+- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8253/wolverine-wvr-7m2) 
 - **Battle Value:** 1752 
 - [*More Info*](wolverine/wolverine_wvr-7m2.md) 
 
@@ -360,7 +360,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8254/wolverine-wvr-9r) 
+- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254/wolverine-wvr-9r) 
 - **Battle Value:** 1481 
 - [*More Info*](wolverine/wolverine_wvr-9r.md) 
 
@@ -381,7 +381,7 @@
   - CASE II 
   - Targeting Computer 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8256/wolverine-wvr-10r) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8256/wolverine-wvr-10r) 
 - **Battle Value:** 1791 
 - [*More Info*](wolverine/wolverine_wvr-10r.md) 
 
@@ -401,7 +401,7 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8258/wolverine-wvr-11m) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258/wolverine-wvr-11m) 
 - **Battle Value:** 1778 
 - [*More Info*](wolverine/wolverine_wvr-11m.md) 
 
@@ -421,7 +421,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255/wolverine-wvr-10d) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255/wolverine-wvr-10d) 
 - **Battle Value:** 1925 
 - [*More Info*](wolverine/wolverine_wvr-10d.md) 
 
@@ -437,7 +437,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - ER Medium Laser 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257/wolverine-wvr-10v2) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257/wolverine-wvr-10v2) 
 - **Battle Value:** 1747 
 - [*More Info*](wolverine/wolverine_wvr-10v2.md) 
 

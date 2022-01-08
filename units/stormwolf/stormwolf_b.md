@@ -19,7 +19,7 @@
   - Laser Anti-Missile System 
   - MASC 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8206/stormwolf-b) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8206/stormwolf-b) 
 - **Battle Value:** 3286 
 
 ## Availability 

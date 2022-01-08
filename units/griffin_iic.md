@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard) 
+- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard) 
 - **Battle Value:** 1608 
 - [*More Info*](griffin_iic/griffin_iic_standard.md) 
 
@@ -34,7 +34,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2) 
+- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2) 
 - **Battle Value:** 1516 
 - [*More Info*](griffin_iic/griffin_iic_2.md) 
 
@@ -169,7 +169,7 @@
   - Inner Sphere ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9) 
 - **Battle Value:** 1106 
 - [*More Info*](griffin_iic/griffin_iic_9.md) 
 

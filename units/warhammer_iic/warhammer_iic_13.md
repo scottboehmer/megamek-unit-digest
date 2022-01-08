@@ -17,7 +17,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13) 
 - **Battle Value:** 2715 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474/peregrine-horned-owl-3) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474/peregrine-horned-owl-3) 
 - **Battle Value:** 1545 
 
 ## Availability 

@@ -82,6 +82,10 @@
 
 - [**Dasher II 4**](../../units/dasher_ii/dasher_ii_4.md) *Striker (3136)* 
 
+#### [Kontio](../../units/kontio.md) 
+
+- [**Kontio (Standard)**](../../units/kontio/kontio_standard.md) *Striker (3145)* `ECM` , `Stealth` 
+
 #### [Night Stalker](../../units/night_stalker.md) 
 
 - [**Night Stalker NSR-K7**](../../units/night_stalker/night_stalker_nsr-k7.md) *Scout (3136)* 

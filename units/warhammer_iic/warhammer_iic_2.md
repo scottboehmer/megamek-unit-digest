@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2) 
+- **Sources:** Rec Guide:ilClan #4 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2) 
 - **Battle Value:** 2482 
 
 ## Availability 

@@ -15,6 +15,7 @@
   - LRM 15 w/ Artemis IV (ammo: 16) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3374/valkyrie-vlk-qd1) 
 - **Battle Value:** 878 

@@ -18,9 +18,9 @@
 - **Battle Value:** 251 
 - [*More Info*](crosscut/crosscut_ed-x1_loggermech.md) 
 
-## Crosscut ED-X2 ForestryMech 
+## Crosscut ED-X2 LoggerMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2715) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 3 / 5, ICE 
@@ -34,7 +34,7 @@
   - Cargo × 2 
 - **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741/crosscut-ed-x2-loggermech) 
 - **Battle Value:** 223 
-- [*More Info*](crosscut/crosscut_ed-x2_forestrymech.md) 
+- [*More Info*](crosscut/crosscut_ed-x2_loggermech.md) 
 
 ## Crosscut ED-X4K LoggerMech 
 

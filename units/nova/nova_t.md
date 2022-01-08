@@ -15,7 +15,7 @@
   - Medium Chemical Laser × 12 (ammo: 120) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t) 
 - **Battle Value:** 1579 
 
 ## Availability 

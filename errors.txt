@@ -21,7 +21,6 @@ Atlas II AS7-D-HT
 Ti Ts'ang TSG-9 'China Doll'
 Legionnaire LGN-2D (Raul)
 Mad Cat III 2 (MWDA)
-Mad Cat III 2
 Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
 Ti Ts'ang Jason
@@ -66,27 +65,31 @@ Roughneck RGH-1B
 Roughneck RGH-1C
 Roughneck RGH-2A
 Roughneck RGH-3A
+Roughneck RGH-BLT Bolt
 Roughneck RGH-PH Powerhouse
 Roughneck RGH-R Reaver
 Sun Spider A
+Sun Spider Ambush
 Sun Spider B
 Sun Spider C
 Sun Spider D
 Sun Spider Manul
 Sun Spider Prime
 Sun Spider Vanguard
+Crosscut ED-X2 LoggerMech
 Harvester Ant KIC-3M AgroMech (MG)
 Harvester Ant KIC-3M-B AgroMech (LRM)
-Powerman XI LoaderMech (Standard)
+Powerman SC XI LoaderMech (Standard)
 Mad Cat III 2
 Stinger C 2
 Stinger C
+Kodiak 6
 Thresher Mk II (Standard)
 Templar III TLR2-J 'Arthur'
+Hatchetman HCT-5DT
 Templar TLR1-OBLO
 Grand Dragon DRG-1G (Emory)
 Reconquista (Standard)
-Atlas II AS7-D-H (Devlin)
 Awesome AWS-10KM (Cameron)
 Carbine CON-7 ConstructionMech (Standard)
 Carbine CON-8 ConstructionMech (Standard)
@@ -163,13 +166,10 @@ Mobile Headquarters (Standard)
 Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25
 Mobile Long Tom Artillery Support Carriage LT-MOB-25
 Neptune Submarine (Standard)
-SturmFeur Heavy Tank (SRM)
-SturmFeur Heavy Tank (Standard)
 Karnov UR Transport (3055 Upgrade)
 Karnov UR Transport (BA)
 Kestrel VTOL (MedEvac)
 Peregrine Attack VTOL (Cargo)
-SturmFeur Heavy Tank (Heavy Gauss)
 BattleMech Recovery Vehicle (Standard)
 Flatbed Truck (AC)
 Heavy BattleMech Recovery Vehicle (Standard)
@@ -198,11 +198,10 @@ Packrat LRPV PKR-T5 (TOC)
 Desert Scorpion Light Tank (Standard)
 Koryu Submarine (Civilian)
 Koryu Submarine (Military)
-SturmFeur Heavy Tank (WoB)
 SturmFeur 'Kalki' Cruise Missile Launcher (Standard)
 Karnov UR Transport (Heavy Stealth)
 Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5136 mtf files -> 5136 parsed files -> 4916 converted files -> 4908 validated units
+5171 mtf files -> 5171 parsed files -> 4952 converted files -> 4944 validated units

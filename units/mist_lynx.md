@@ -238,7 +238,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7557/koshi-mist-lynx-i) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7557/koshi-mist-lynx-i) 
 - **Battle Value:** 689 
 - [*More Info*](mist_lynx/mist_lynx_i.md) 
 
@@ -257,7 +257,7 @@
 - **Equipment:** 
   - Active Probe 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j) 
 - **Battle Value:** 1704 
 - [*More Info*](mist_lynx/mist_lynx_j.md) 
 
@@ -276,7 +276,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7559/koshi-mist-lynx-k) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7559/koshi-mist-lynx-k) 
 - **Battle Value:** 976 
 - [*More Info*](mist_lynx/mist_lynx_k.md) 
 
@@ -297,7 +297,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7560/koshi-mist-lynx-l) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7560/koshi-mist-lynx-l) 
 - **Battle Value:** 901 
 - [*More Info*](mist_lynx/mist_lynx_l.md) 
 
@@ -318,7 +318,7 @@
   - Active Probe 
   - TAG 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7562/koshi-mist-lynx-n) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7562/koshi-mist-lynx-n) 
 - **Battle Value:** 976 
 - [*More Info*](mist_lynx/mist_lynx_n.md) 
 
@@ -338,7 +338,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m) 
 - **Battle Value:** 961 
 - [*More Info*](mist_lynx/mist_lynx_m.md) 
 
@@ -359,7 +359,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
 - **Battle Value:** 971 
 - [*More Info*](mist_lynx/mist_lynx_t.md) 
 

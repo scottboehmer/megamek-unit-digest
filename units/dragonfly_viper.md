@@ -252,7 +252,7 @@
   - Inner Sphere Bloodhound Active Probe 
   - CASE 
   - Light TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7588/dragonfly-viper-r) 
+- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7588/dragonfly-viper-r) 
 - **Battle Value:** 1335 
 - [*More Info*](viper/viper_r.md) 
 
@@ -274,7 +274,7 @@
   - Light Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7583/dragonfly-viper-t) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7583/dragonfly-viper-t) 
 - **Battle Value:** 1704 
 - [*More Info*](viper/viper_t.md) 
 
@@ -292,7 +292,7 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7584/dragonfly-viper-j) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7584/dragonfly-viper-j) 
 - **Battle Value:** 1259 
 - [*More Info*](viper/viper_j.md) 
 
@@ -313,7 +313,7 @@
   - Active Probe 
   - CASE 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7585/dragonfly-viper-k) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7585/dragonfly-viper-k) 
 - **Battle Value:** 1545 
 - [*More Info*](viper/viper_k.md) 
 
@@ -331,7 +331,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7586/dragonfly-viper-l) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7586/dragonfly-viper-l) 
 - **Battle Value:** 1417 
 - [*More Info*](viper/viper_l.md) 
 
@@ -350,7 +350,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m) 
 - **Battle Value:** 2054 
 - [*More Info*](viper/viper_m.md) 
 

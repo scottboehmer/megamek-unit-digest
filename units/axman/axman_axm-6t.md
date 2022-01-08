@@ -14,6 +14,7 @@
   - Thunderbolt 15 × 2 (ammo: 16) 
   - ER Medium Laser × 4 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t) 
 - **Battle Value:** 1830 

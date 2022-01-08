@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u) 
 - **Battle Value:** 2545 
 
 ## Availability 

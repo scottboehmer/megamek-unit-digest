@@ -16,6 +16,7 @@
   - Medium Pulse Laser 
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
   - CASE 
   - C3 Support 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Large X-Pulse Laser 
   - Medium X-Pulse Laser 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7699/phoenix-hawk-pxh-3d-jiemin) 
 - **Battle Value:** 1322 
 

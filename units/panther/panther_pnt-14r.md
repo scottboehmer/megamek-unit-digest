@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Clan CASE II 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8222/panther-pnt-14r) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8222/panther-pnt-14r) 
 - **Battle Value:** 1291 
 
 ## Availability 

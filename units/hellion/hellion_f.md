@@ -20,7 +20,7 @@
   - Active Probe 
   - MASC 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5659/hellion-f) 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5659/hellion-f) 
 - **Battle Value:** 1594 
 
 ## Availability 

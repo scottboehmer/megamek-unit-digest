@@ -414,7 +414,7 @@
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
-- [**Crosscut ED-X2 ForestryMech**](../../units/crosscut/crosscut_ed-x2_forestrymech.md) *Ambusher (2715)* `IndustrialMech` 
+- [**Crosscut ED-X2 LoggerMech**](../../units/crosscut/crosscut_ed-x2_loggermech.md) *Undefined (2715)* `IndustrialMech` 
 - [**Crosscut ED-X2 (RL)**](../../units/crosscut/crosscut_ed-x2_rl.md) *Ambusher (2810)* `IndustrialMech` 
 
 #### [Falcon](../../units/falcon.md) 
@@ -459,8 +459,11 @@
 
 #### [Powerman](../../units/powerman.md) 
 
-- [**Powerman XI LoaderMech**](../../units/powerman/powerman_xi_loadermech.md) *Undefined (2764)* `IndustrialMech` 
 - [**Powerman SC XV HaulerMech**](../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
+
+#### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
+
+- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Undefined (2764)* `IndustrialMech` 
 
 ### 40 Tons 
 
@@ -642,7 +645,9 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+- [**Longbow LGB-0W2**](../../units/longbow/longbow_lgb-0w2.md) *Missile Boat (2531)* 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 
 #### [Stalker](../../units/stalker.md) 
 

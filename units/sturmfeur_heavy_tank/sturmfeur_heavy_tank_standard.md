@@ -4,7 +4,7 @@
 
 ## SturmFeur Heavy Tank (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3018) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, ICE 

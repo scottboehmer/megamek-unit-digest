@@ -18,7 +18,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7483/puma-adder-s) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7483/puma-adder-s) 
 - **Battle Value:** 1427 
 
 ## Availability 

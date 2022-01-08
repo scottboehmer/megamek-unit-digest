@@ -19,7 +19,7 @@
   - Machine Gun Array × 2 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f) 
+- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f) 
 - **Battle Value:** 1135 
 
 ## Availability 

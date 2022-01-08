@@ -86,7 +86,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746/uller-kit-fox-v) 
+- **Sources:** Rec Guide:ilClan #11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746/uller-kit-fox-v) 
 - **Battle Value:** 850 
 - [*More Info*](kit_fox/kit_fox_v.md) 
 
@@ -183,7 +183,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** ilClan Vol 11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5486/uller-kit-fox-g) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5486/uller-kit-fox-g) 
 - **Battle Value:** 1368 
 - [*More Info*](kit_fox/kit_fox_g.md) 
 
@@ -219,7 +219,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7744/uller-kit-fox-j) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7744/uller-kit-fox-j) 
 - **Battle Value:** 1134 
 - [*More Info*](kit_fox/kit_fox_j.md) 
 
@@ -271,7 +271,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k) 
 - **Battle Value:** 1109 
 - [*More Info*](kit_fox/kit_fox_k.md) 
 
@@ -308,7 +308,7 @@
   - Streak SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931/uller-kit-fox-r) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931/uller-kit-fox-r) 
 - **Battle Value:** 1232 
 - [*More Info*](kit_fox/kit_fox_r.md) 
 
@@ -348,7 +348,7 @@
   - Active Probe 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743/uller-kit-fox-t) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743/uller-kit-fox-t) 
 - **Battle Value:** 1380 
 - [*More Info*](kit_fox/kit_fox_t.md) 
 

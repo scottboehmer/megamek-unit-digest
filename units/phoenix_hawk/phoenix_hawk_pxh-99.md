@@ -17,6 +17,7 @@
   - ER Medium Laser × 2 
   - ER Small Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Modular Armor × 4 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106/phoenix-hawk-pxh-99) 
 - **Battle Value:** 1444 

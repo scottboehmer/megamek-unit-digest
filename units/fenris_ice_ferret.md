@@ -175,7 +175,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - Watchdog CEWS 
-- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f) 
 - **Battle Value:** 1771 
 - [*More Info*](ice_ferret/ice_ferret_f.md) 
 
@@ -194,7 +194,7 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g) 
 - **Battle Value:** 1196 
 - [*More Info*](ice_ferret/ice_ferret_g.md) 
 
@@ -213,7 +213,7 @@
   - Inner Sphere Bloodhound Active Probe 
   - Inner Sphere M-Pod × 2 
   - CASE 
-- **Sources:** Rec Guide 4 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i) 
 - **Battle Value:** 1094 
 - [*More Info*](ice_ferret/ice_ferret_i.md) 
 
@@ -232,7 +232,7 @@
   - CASE 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j) 
+- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j) 
 - **Battle Value:** 1739 
 - [*More Info*](ice_ferret/ice_ferret_j.md) 
 
@@ -250,7 +250,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Laser Anti-Missile System 
-- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504/fenris-ice-ferret-k) 
+- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504/fenris-ice-ferret-k) 
 - **Battle Value:** 1769 
 - [*More Info*](ice_ferret/ice_ferret_k.md) 
 
@@ -270,7 +270,7 @@
   - Active Probe 
   - CASE 
   - Supercharger 
-- **Sources:** Rec Guide 4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t) 
+- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t) 
 - **Battle Value:** 1825 
 - [*More Info*](ice_ferret/ice_ferret_t.md) 
 

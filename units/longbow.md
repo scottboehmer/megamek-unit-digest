@@ -33,6 +33,21 @@
 - **Battle Value:** 1337 
 - [*More Info*](longbow/longbow_lgb-0w.md) 
 
+## Longbow LGB-0W2 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2531) 
+- **Chassis:** 85 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 168 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 24) 
+  - LRM 5 × 2 (ammo: 24) 
+- **Sources:** Rec Guide:ilClan #20 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8331/longbow-lgb-0w2) 
+- **Battle Value:** 1410 
+- [*More Info*](longbow/longbow_lgb-0w2.md) 
+
 ## Longbow LGB-7Q 
 
 - **Role:** Missile Boat 
@@ -48,6 +63,22 @@
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1936/longbow-lgb-7q) 
 - **Battle Value:** 1618 
 - [*More Info*](longbow/longbow_lgb-7q.md) 
+
+## Longbow LGB-8C 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2615) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 232 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 24) 
+  - Medium Laser × 4 
+  - LRM 5 × 2 (ammo: 24) 
+- **Sources:** Rec Guide:ilClan #20 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8332/longbow-lgb-8c) 
+- **Battle Value:** 1653 
+- [*More Info*](longbow/longbow_lgb-8c.md) 
 
 ## Longbow LGB-7V 
 
@@ -67,6 +98,24 @@
 - **Battle Value:** 1816 
 - [*More Info*](longbow/longbow_lgb-7v.md) 
 
+## Longbow LGB-10C 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3061) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 232 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
+  - ER Medium Laser × 4 
+  - LRM 5 w/ Artemis IV × 2 (ammo: 48) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8333/longbow-lgb-10c) 
+- **Battle Value:** 1898 
+- [*More Info*](longbow/longbow_lgb-10c.md) 
+
 ## Longbow LGB-12C 
 
 - **Role:** Missile Boat 
@@ -84,6 +133,21 @@
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931/longbow-lgb-12c) 
 - **Battle Value:** 1686 
 - [*More Info*](longbow/longbow_lgb-12c.md) 
+
+## Longbow LGB-0H 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 85 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 232 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - PPC × 2 
+  - Rocket 10 × 26 
+- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8330/longbow-lgb-0h) 
+- **Battle Value:** 1813 
+- [*More Info*](longbow/longbow_lgb-0h.md) 
 
 ## Longbow LGB-8V 
 
@@ -195,4 +259,59 @@
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6854/longbow-lgb-14c2) 
 - **Battle Value:** 1291 
 - [*More Info*](longbow/longbow_lgb-14c2.md) 
+
+## Longbow LGB-14Q 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3101) 
+- **Chassis:** 85 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 256 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 24) 
+  - ER Medium Laser × 4 
+  - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8347/longbow-lgb-14q) 
+- **Battle Value:** 1828 
+- [*More Info*](longbow/longbow_lgb-14q.md) 
+
+## Longbow LGB-14V 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3105) 
+- **Chassis:** 85 tons 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 256 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - MRM 20 w/ Apollo FCS × 2 (ammo: 48) 
+  - Light PPC × 2 
+  - ER Medium Laser × 2 
+  - LRM 5 × 2 (ammo: 48) 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8336/longbow-lgb-14v) 
+- **Battle Value:** 1763 
+- [*More Info*](longbow/longbow_lgb-14v.md) 
+
+## Longbow LGB-10K 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 256 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Ultra AC/20 × 2 (ammo: 30) 
+  - ER Large Laser 
+  - Medium Pulse Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8334/longbow-lgb-10k) 
+- **Battle Value:** 1791 
+- [*More Info*](longbow/longbow_lgb-10k.md) 
 

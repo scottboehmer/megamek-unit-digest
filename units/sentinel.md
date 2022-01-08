@@ -178,7 +178,7 @@
   - Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s) 
 - **Battle Value:** 1089 
 - [*More Info*](sentinel/sentinel_stn-6s.md) 
 

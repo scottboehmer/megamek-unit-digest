@@ -18,7 +18,7 @@
   - ECM Suite 
   - Talons 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x) 
 - **Battle Value:** 3056 
 
 ## Availability 

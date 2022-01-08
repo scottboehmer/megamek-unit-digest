@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RecGuide 13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8127/stinger-c) 
+- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8127/stinger-c) 
 - **Battle Value:** 592 
 
 ## Availability 

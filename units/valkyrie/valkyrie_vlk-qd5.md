@@ -17,6 +17,7 @@
   - Clan ATM 3 (ammo: 40) 
   - Medium Pulse Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8104/valkyrie-vlk-qd5) 
 - **Battle Value:** 690 

@@ -14,6 +14,8 @@
   - Light PPC × 3 
   - ER Medium Laser 
   - ER Small Laser 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3567/wolfhound-wlf-4w) 
 - **Battle Value:** 1090 
 

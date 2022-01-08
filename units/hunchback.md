@@ -235,6 +235,24 @@
 - **Battle Value:** 1097 
 - [*More Info*](hunchback/hunchback_hbk-5h.md) 
 
+## Hunchback C 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3065) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 163 (Ferro Fibrous) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+  - Medium Pulse Laser × 2 
+  - ER Small Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #21 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8353/hunchback-c) 
+- **Battle Value:** 1893 
+- [*More Info*](hunchback/hunchback_c.md) 
+
 ## Hunchback HBK-7X-4 
 
 - **Role:** Sniper 

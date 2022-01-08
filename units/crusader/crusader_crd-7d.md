@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 12) 
   - Supercharger 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226/crusader-crd-7d) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226/crusader-crd-7d) 
 - **Battle Value:** 1681 
 
 ## Availability 

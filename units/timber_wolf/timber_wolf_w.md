@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7518/mad-cat-timber-wolf-w) 
+- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7518/mad-cat-timber-wolf-w) 
 - **Battle Value:** 2791 
 
 ## Availability 

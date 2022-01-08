@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - Claw × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael) 
+- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael) 
 - **Battle Value:** 1204 
 
 ## Availability 

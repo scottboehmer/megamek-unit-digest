@@ -21,7 +21,7 @@
   - MASC 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8207/stormwolf-c) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8207/stormwolf-c) 
 - **Battle Value:** 3261 
 
 ## Availability 

@@ -16,6 +16,7 @@
   - Ultra AC/5 (ammo: 20) 
   - ER Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3i 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2907/shadow-hawk-shd-7cs) 

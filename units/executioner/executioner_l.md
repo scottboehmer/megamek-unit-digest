@@ -17,7 +17,7 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7713/gladiator-executioner-l) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7713/gladiator-executioner-l) 
 - **Battle Value:** 3132 
 
 ## Availability 

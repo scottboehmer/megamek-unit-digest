@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255/wolverine-wvr-10d) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255/wolverine-wvr-10d) 
 - **Battle Value:** 1925 
 
 ## Availability 

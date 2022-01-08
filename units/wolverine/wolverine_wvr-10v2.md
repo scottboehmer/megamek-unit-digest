@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - ER Medium Laser 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257/wolverine-wvr-10v2) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257/wolverine-wvr-10v2) 
 - **Battle Value:** 1747 
 
 ## Availability 

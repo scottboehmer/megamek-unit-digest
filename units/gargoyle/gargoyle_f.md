@@ -17,7 +17,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7755/man-o-war-gargoyle-f) 
+- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7755/man-o-war-gargoyle-f) 
 - **Battle Value:** 1894 
 
 ## Availability 

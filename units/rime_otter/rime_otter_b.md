@@ -20,7 +20,7 @@
   - CASE 
   - CASE II 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8311/rime-otter-b) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8311/rime-otter-b) 
 - **Battle Value:** 1961 
 
 ## Availability 

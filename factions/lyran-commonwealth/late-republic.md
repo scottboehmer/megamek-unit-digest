@@ -860,7 +860,7 @@
 #### [DI Schmitt Tank](../../units/di_schmitt_tank.md) 
 
 - [**DI Schmitt Tank (Standard)**](../../units/di_schmitt_tank/di_schmitt_tank_standard.md) *Juggernaut (3115)* 
-- [**DI Schmitt Tank (Targetting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targetting_computer.md) *Juggernaut (3115)* 
+- [**DI Schmitt Tank (Targeting Computer)**](../../units/di_schmitt_tank/di_schmitt_tank_targeting_computer.md) *Juggernaut (3115)* 
 
 #### [Fensalir Combat WiGE](../../units/fensalir_combat_wige.md) 
 
@@ -918,8 +918,8 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Undefined (3018)* 
-- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Undefined (3066)* 
+- [**SturmFeur Heavy Tank (Standard)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) *Missile Boat (3018)* 
+- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Juggernaut (3066)* 
 
 ### 90 Tons 
 
@@ -1682,6 +1682,7 @@
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
+- [**Ostroc OSR-3M**](../../units/ostroc/ostroc_osr-3m.md) *Skirmisher (3088)* 
 
 #### [Quickdraw](../../units/quickdraw.md) 
 
@@ -2024,13 +2025,18 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+- [**Longbow LGB-0W2**](../../units/longbow/longbow_lgb-0w2.md) *Missile Boat (2531)* 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-8V**](../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
 - [**Longbow LGB-14C**](../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-12R**](../../units/longbow/longbow_lgb-12r.md) *Missile Boat (3082)* 
 - [**Longbow LGB-14C2**](../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
+- [**Longbow LGB-14V**](../../units/longbow/longbow_lgb-14v.md) *Brawler (3105)* 
 
 #### [Stalker](../../units/stalker.md) 
 

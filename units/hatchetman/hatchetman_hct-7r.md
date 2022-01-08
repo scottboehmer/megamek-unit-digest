@@ -16,6 +16,7 @@
   - Medium Laser × 6 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - AES × 2 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7295/hatchetman-hct-7r) 
 - **Battle Value:** 1521 

@@ -17,6 +17,7 @@
   - ER Medium Laser × 2 
   - MML 3 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Coolant Pod 
   - CASE II 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6391/phoenix-hawk-l-fenikkusu-taka-pxh-11k2) 

@@ -15,6 +15,7 @@
   - Medium Laser × 2 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
   - CASE 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d) 

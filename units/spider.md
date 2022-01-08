@@ -218,7 +218,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium VSP Laser × 2 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
 - **Battle Value:** 687 
 - [*More Info*](spider/spider_sdr-9m.md) 
 

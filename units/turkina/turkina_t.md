@@ -17,7 +17,7 @@
   - ProtoMech AC/8 × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212/turkina-t) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212/turkina-t) 
 - **Battle Value:** 3080 
 
 ## Availability 

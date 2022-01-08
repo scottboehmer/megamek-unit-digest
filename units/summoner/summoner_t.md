@@ -17,7 +17,7 @@
   - ProtoMech AC/8 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7490/thor-summoner-t) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7490/thor-summoner-t) 
 - **Battle Value:** 2355 
 
 ## Availability 

@@ -200,7 +200,7 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Undefined (3066)* 
+- [**SturmFeur Heavy Tank (Heavy Gauss)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) *Juggernaut (3066)* 
 
 ### 95 Tons 
 
@@ -524,6 +524,13 @@
 #### [Zeus-X](../../units/zeus-x.md) 
 
 - [**Zeus-X ZEU-9WD**](../../units/zeus-x/zeus-x_zeu-9wd.md) *Brawler (3067)* 
+
+### 85 Tons 
+
+#### [Longbow](../../units/longbow.md) 
+
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
+- [**Longbow LGB-14Q**](../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
 
 ### 90 Tons 
 

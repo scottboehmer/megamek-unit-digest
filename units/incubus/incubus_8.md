@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7543/vixen-incubus-8) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7543/vixen-incubus-8) 
 - **Battle Value:** 1557 
 
 ## Availability 

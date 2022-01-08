@@ -32,7 +32,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3442/vixen-incubus-2) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3442/vixen-incubus-2) 
 - **Battle Value:** 1913 
 - [*More Info*](incubus/incubus_2.md) 
 
@@ -50,7 +50,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7541/vixen-incubus-7) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7541/vixen-incubus-7) 
 - **Battle Value:** 1175 
 - [*More Info*](incubus/incubus_7.md) 
 
@@ -68,7 +68,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7543/vixen-incubus-8) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7543/vixen-incubus-8) 
 - **Battle Value:** 1557 
 - [*More Info*](incubus/incubus_8.md) 
 
@@ -86,7 +86,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3443/vixen-incubus-3) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3443/vixen-incubus-3) 
 - **Battle Value:** 1324 
 - [*More Info*](incubus/incubus_3.md) 
 
@@ -159,7 +159,7 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7544/vixen-incubus-9) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7544/vixen-incubus-9) 
 - **Battle Value:** 1849 
 - [*More Info*](incubus/incubus_9.md) 
 

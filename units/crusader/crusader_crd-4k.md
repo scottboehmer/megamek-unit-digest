@@ -14,7 +14,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - SRM 6 × 2 (ammo: 15) 
   - Medium Pulse Laser × 2 
-- **Sources:** Recognition Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k) 
+- **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k) 
 - **Battle Value:** 1268 
 
 ## Availability 

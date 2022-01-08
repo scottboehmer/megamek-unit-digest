@@ -239,7 +239,7 @@
 - **Weapons:** 
   - Heavy PPC × 3 
   - ER Small Laser 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7501/awesome-aws-11h) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501/awesome-aws-11h) 
 - **Battle Value:** 2036 
 - [*More Info*](awesome/awesome_aws-11h.md) 
 

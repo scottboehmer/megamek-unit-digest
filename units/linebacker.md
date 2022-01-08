@@ -143,7 +143,7 @@
   - Narc (iOS) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f) 
+- **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f) 
 - **Battle Value:** 1928 
 - [*More Info*](linebacker/linebacker_f.md) 
 
@@ -161,7 +161,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6880/linebacker-g) 
+- **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6880/linebacker-g) 
 - **Battle Value:** 2433 
 - [*More Info*](linebacker/linebacker_g.md) 
 
@@ -181,7 +181,7 @@
   - Machine Gun Array × 6 
   - CASE 
   - Supercharger 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7525/linebacker-i) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7525/linebacker-i) 
 - **Battle Value:** 1853 
 - [*More Info*](linebacker/linebacker_i.md) 
 
@@ -201,7 +201,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7526/linebacker-t) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7526/linebacker-t) 
 - **Battle Value:** 1851 
 - [*More Info*](linebacker/linebacker_t.md) 
 

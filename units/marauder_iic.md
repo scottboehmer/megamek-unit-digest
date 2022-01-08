@@ -12,7 +12,7 @@
   - ER PPC × 3 
   - Medium Pulse Laser × 2 
   - ER Small Laser × 4 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065/marauder-iic-standard) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065/marauder-iic-standard) 
 - **Battle Value:** 2680 
 - [*More Info*](marauder_iic/marauder_iic_standard.md) 
 
@@ -29,7 +29,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7537/marauder-iic-9) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7537/marauder-iic-9) 
 - **Battle Value:** 2595 
 - [*More Info*](marauder_iic/marauder_iic_9.md) 
 
@@ -48,7 +48,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072/marauder-iic-8) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072/marauder-iic-8) 
 - **Battle Value:** 2554 
 - [*More Info*](marauder_iic/marauder_iic_8.md) 
 
@@ -179,7 +179,7 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser × 2 
   - Small Pulse Laser × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7538/marauder-iic-10) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7538/marauder-iic-10) 
 - **Battle Value:** 2877 
 - [*More Info*](marauder_iic/marauder_iic_10.md) 
 

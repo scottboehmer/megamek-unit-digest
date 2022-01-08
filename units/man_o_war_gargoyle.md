@@ -197,7 +197,7 @@
   - Large Pulse Laser × 2 
   - Plasma Cannon × 2 (ammo: 30) 
   - Micro Pulse Laser 
-- **Sources:** ilClan Vol 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7758/man-o-war-gargoyle-p) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7758/man-o-war-gargoyle-p) 
 - **Battle Value:** 2320 
 - [*More Info*](gargoyle/gargoyle_p.md) 
 
@@ -214,7 +214,7 @@
   - ER Large Laser × 3 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7756/man-o-war-gargoyle-i) 
+- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7756/man-o-war-gargoyle-i) 
 - **Battle Value:** 2516 
 - [*More Info*](gargoyle/gargoyle_i.md) 
 
@@ -233,7 +233,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7755/man-o-war-gargoyle-f) 
+- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7755/man-o-war-gargoyle-f) 
 - **Battle Value:** 1894 
 - [*More Info*](gargoyle/gargoyle_f.md) 
 
@@ -269,7 +269,7 @@
 - **Weapons:** 
   - Improved Heavy Medium Laser × 4 
   - ER Small Laser × 7 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7757/man-o-war-gargoyle-j) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7757/man-o-war-gargoyle-j) 
 - **Battle Value:** 2134 
 - [*More Info*](gargoyle/gargoyle_j.md) 
 
@@ -289,7 +289,7 @@
   - Active Probe 
   - CASE II 
   - Inner Sphere Supercharger 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759/man-o-war-gargoyle-k) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759/man-o-war-gargoyle-k) 
 - **Battle Value:** 2182 
 - [*More Info*](gargoyle/gargoyle_k.md) 
 
@@ -307,7 +307,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7754/man-o-war-gargoyle-t) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7754/man-o-war-gargoyle-t) 
 - **Battle Value:** 1635 
 - [*More Info*](gargoyle/gargoyle_t.md) 
 

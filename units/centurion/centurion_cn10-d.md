@@ -18,7 +18,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7725/centurion-cn10-d) 
+- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7725/centurion-cn10-d) 
 - **Battle Value:** 1260 
 
 ## Availability 

@@ -189,7 +189,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5487/ryoken-stormcrow-i) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5487/ryoken-stormcrow-i) 
 - **Battle Value:** 2319 
 - [*More Info*](stormcrow/stormcrow_i.md) 
 
@@ -262,7 +262,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7553/ryoken-stormcrow-j) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7553/ryoken-stormcrow-j) 
 - **Battle Value:** 2300 
 - [*More Info*](stormcrow/stormcrow_j.md) 
 
@@ -279,7 +279,7 @@
   - Improved Heavy Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7554/ryoken-stormcrow-k) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7554/ryoken-stormcrow-k) 
 - **Battle Value:** 2001 
 - [*More Info*](stormcrow/stormcrow_k.md) 
 
@@ -297,7 +297,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7555/ryoken-stormcrow-p) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7555/ryoken-stormcrow-p) 
 - **Battle Value:** 2213 
 - [*More Info*](stormcrow/stormcrow_p.md) 
 
@@ -316,7 +316,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7550/ryoken-stormcrow-t) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7550/ryoken-stormcrow-t) 
 - **Battle Value:** 2280 
 - [*More Info*](stormcrow/stormcrow_t.md) 
 

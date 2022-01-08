@@ -17,7 +17,7 @@
   - ProtoMech AC/4 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 2 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i) 
 - **Battle Value:** 1675 
 
 ## Availability 

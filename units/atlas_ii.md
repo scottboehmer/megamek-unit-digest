@@ -84,7 +84,7 @@
 
 ## Atlas II AS7-D-H (Devlin) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere Mixed (3075) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5, XL 

@@ -14,7 +14,7 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8309/rime-otter-prime) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8309/rime-otter-prime) 
 - **Battle Value:** 2169 
 - [*More Info*](rime_otter/rime_otter_prime.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8310/rime-otter-a) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8310/rime-otter-a) 
 - **Battle Value:** 2358 
 - [*More Info*](rime_otter/rime_otter_a.md) 
 
@@ -56,7 +56,7 @@
   - CASE 
   - CASE II 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8311/rime-otter-b) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8311/rime-otter-b) 
 - **Battle Value:** 1961 
 - [*More Info*](rime_otter/rime_otter_b.md) 
 
@@ -75,7 +75,7 @@
 - **Equipment:** 
   - MASC 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8312/rime-otter-c) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8312/rime-otter-c) 
 - **Battle Value:** 2718 
 - [*More Info*](rime_otter/rime_otter_c.md) 
 
@@ -97,7 +97,7 @@
   - MASC 
   - Light TAG 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313/rime-otter-d) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313/rime-otter-d) 
 - **Battle Value:** 1998 
 - [*More Info*](rime_otter/rime_otter_d.md) 
 

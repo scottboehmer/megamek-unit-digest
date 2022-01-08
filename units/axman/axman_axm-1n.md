@@ -17,6 +17,7 @@
   - Medium Laser × 3 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/184/axman-axm-1n) 
 - **Battle Value:** 1374 

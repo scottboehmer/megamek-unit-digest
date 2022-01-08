@@ -16,6 +16,7 @@
   - ER Medium Laser × 3 
   - Hatchet 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1414/hatchetman-hct-5s-austin) 
 - **Battle Value:** 1174 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - MRM 10 (ammo: 24) 
   - Medium Laser 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6949/wasp-wsp-3k) 
 - **Battle Value:** 477 
 

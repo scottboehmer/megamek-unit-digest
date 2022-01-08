@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m) 
 - **Battle Value:** 961 
 
 ## Availability 

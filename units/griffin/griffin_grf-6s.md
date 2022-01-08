@@ -16,6 +16,7 @@
   - LRM 15 w/ Artemis IV (ammo: 16) 
   - ER Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s) 
 - **Battle Value:** 1781 

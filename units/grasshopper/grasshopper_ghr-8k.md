@@ -17,7 +17,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7450/grasshopper-ghr-8k) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7450/grasshopper-ghr-8k) 
 - **Battle Value:** 1754 
 
 ## Availability 

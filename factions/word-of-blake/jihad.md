@@ -699,7 +699,7 @@
 
 #### [SturmFeur Heavy Tank](../../units/sturmfeur_heavy_tank.md) 
 
-- [**SturmFeur Heavy Tank (WoB)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) *Undefined (3075)* `C3i` , `TAG` 
+- [**SturmFeur Heavy Tank (WoB)**](../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) *Juggernaut (3075)* `C3i` , `TAG` 
 
 #### [Trajan Assault Infantry Fighting Vehicle](../../units/trajan_assault_infantry_fighting_vehicle.md) 
 
@@ -1316,8 +1316,8 @@
 
 #### [Raijin](../../units/raijin.md) 
 
-- [**Raijin RJN101-A**](../../units/raijin/raijin_rjn101-a.md) *Striker (3053)* 
-- [**Raijin RJN101-C**](../../units/raijin/raijin_rjn101-c.md) *Striker (3062)* `C3i` 
+- [**Raijin RJN-101-A**](../../units/raijin/raijin_rjn-101-a.md) *Striker (3053)* 
+- [**Raijin RJN-101-C**](../../units/raijin/raijin_rjn-101-c.md) *Striker (3062)* `C3i` 
 
 #### [Raijin II](../../units/raijin_ii.md) 
 
@@ -1980,8 +1980,11 @@
 #### [Longbow](../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
+- [**Longbow LGB-0W2**](../../units/longbow/longbow_lgb-0w2.md) *Missile Boat (2531)* 
 - [**Longbow LGB-7Q**](../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+- [**Longbow LGB-8C**](../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-7V**](../../units/longbow/longbow_lgb-7v.md) *Missile Boat (3056)* 
+- [**Longbow LGB-10C**](../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-13NAIS**](../../units/longbow/longbow_lgb-13nais.md) *Juggernaut (3069)* `C3 Support` , `ECM` 
 
 #### [Sasquatch](../../units/sasquatch.md) 
@@ -2019,6 +2022,7 @@
 - [**Warhawk A**](../../units/warhawk/warhawk_a.md) *Sniper (2999)* 
 - [**Warhawk B**](../../units/warhawk/warhawk_b.md) *Brawler (2999)* 
 - [**Warhawk C**](../../units/warhawk/warhawk_c.md) *Sniper (2999)* 
+- [**Warhawk I**](../../units/warhawk/warhawk_i.md) *Sniper (3015)* 
 - [**Warhawk D**](../../units/warhawk/warhawk_d.md) *Sniper (3054)* 
 - [**Warhawk F**](../../units/warhawk/warhawk_f.md) *Sniper (3054)* 
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 

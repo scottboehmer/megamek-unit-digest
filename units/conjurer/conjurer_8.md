@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7513/hellhound-conjurer-8) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7513/hellhound-conjurer-8) 
 - **Battle Value:** 2155 
 
 ## Availability 

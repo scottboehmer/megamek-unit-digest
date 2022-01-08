@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 48) 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8319/iron-cheetah-prime) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8319/iron-cheetah-prime) 
 - **Battle Value:** 3155 
 
 ## Availability 

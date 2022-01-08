@@ -18,7 +18,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** ilClan Rec Guide 19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8310/rime-otter-a) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8310/rime-otter-a) 
 - **Battle Value:** 2358 
 
 ## Availability 

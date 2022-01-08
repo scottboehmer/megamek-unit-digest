@@ -122,7 +122,7 @@
   - Clan ER Large Laser 
   - Clan ER Medium Laser 
   - Clan ER Small Laser × 2 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c) 
 - **Battle Value:** 1671 
 - [*More Info*](thunderbolt/thunderbolt_c.md) 
 
@@ -209,7 +209,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m) 
+- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m) 
 - **Battle Value:** 1495 
 - [*More Info*](thunderbolt/thunderbolt_tdr-7m.md) 
 
@@ -228,7 +228,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se) 
+- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se) 
 - **Battle Value:** 1439 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9se.md) 
 
@@ -249,7 +249,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s) 
 - **Battle Value:** 1494 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9s.md) 
 
@@ -268,7 +268,7 @@
   - Clan Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8192/thunderbolt-tdr-9w) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8192/thunderbolt-tdr-9w) 
 - **Battle Value:** 1985 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9w.md) 
 
@@ -289,7 +289,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8195/thunderbolt-c-2) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8195/thunderbolt-c-2) 
 - **Battle Value:** 2170 
 - [*More Info*](thunderbolt/thunderbolt_c_2.md) 
 
@@ -308,7 +308,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8191/thunderbolt-tdr-8m) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8191/thunderbolt-tdr-8m) 
 - **Battle Value:** 1644 
 - [*More Info*](thunderbolt/thunderbolt_tdr-8m.md) 
 
@@ -491,7 +491,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8193/thunderbolt-tdr-11s) 
+- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8193/thunderbolt-tdr-11s) 
 - **Battle Value:** 1570 
 - [*More Info*](thunderbolt/thunderbolt_tdr-11s.md) 
 
@@ -613,7 +613,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan RecGuide 15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190/thunderbolt-tdr-7s) 
+- **Sources:** Rec Guide:ilClan #15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190/thunderbolt-tdr-7s) 
 - **Battle Value:** 1582 
 - [*More Info*](thunderbolt/thunderbolt_tdr-7s.md) 
 
@@ -633,7 +633,7 @@
   - Small VSP Laser × 3 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8194/thunderbolt-tdr-12r) 
+- **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8194/thunderbolt-tdr-12r) 
 - **Battle Value:** 1975 
 - [*More Info*](thunderbolt/thunderbolt_tdr-12r.md) 
 

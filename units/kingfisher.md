@@ -143,7 +143,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f) 
+- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f) 
 - **Battle Value:** 2568 
 - [*More Info*](kingfisher/kingfisher_f.md) 
 
@@ -164,7 +164,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x) 
+- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x) 
 - **Battle Value:** 2761 
 - [*More Info*](kingfisher/kingfisher_x.md) 
 
@@ -184,7 +184,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8261/kingfisher-g) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8261/kingfisher-g) 
 - **Battle Value:** 2319 
 - [*More Info*](kingfisher/kingfisher_g.md) 
 
@@ -201,7 +201,7 @@
   - Improved Heavy Large Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8262/kingfisher-i) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8262/kingfisher-i) 
 - **Battle Value:** 2348 
 - [*More Info*](kingfisher/kingfisher_i.md) 
 
@@ -222,7 +222,7 @@
 - **Equipment:** 
   - CASE II 
   - Targeting Computer 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260/kingfisher-t) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260/kingfisher-t) 
 - **Battle Value:** 2637 
 - [*More Info*](kingfisher/kingfisher_t.md) 
 

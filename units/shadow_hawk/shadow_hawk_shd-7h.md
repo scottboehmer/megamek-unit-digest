@@ -18,7 +18,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789/shadow-hawk-shd-7h) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789/shadow-hawk-shd-7h) 
 - **Battle Value:** 1394 
 
 ## Availability 

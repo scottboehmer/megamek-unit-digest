@@ -253,7 +253,7 @@
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
-- [**Crosscut ED-X2 ForestryMech**](../../units/crosscut/crosscut_ed-x2_forestrymech.md) *Ambusher (2715)* `IndustrialMech` 
+- [**Crosscut ED-X2 LoggerMech**](../../units/crosscut/crosscut_ed-x2_loggermech.md) *Undefined (2715)* `IndustrialMech` 
 
 #### [Firefly](../../units/firefly.md) 
 
@@ -283,9 +283,9 @@
 
 - [**Ostscout OTT-7Jb**](../../units/ostscout/ostscout_ott-7jb.md) *Scout (2600)* `Active Probe` 
 
-#### [Powerman](../../units/powerman.md) 
+#### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
 
-- [**Powerman XI LoaderMech**](../../units/powerman/powerman_xi_loadermech.md) *Undefined (2764)* `IndustrialMech` 
+- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Undefined (2764)* `IndustrialMech` 
 
 #### [Talon](../../units/talon.md) 
 

@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard) 
+- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard) 
 - **Battle Value:** 1732 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_standard.md) 
 
@@ -33,7 +33,7 @@
   - ER Large Laser × 2 
   - ER Small Laser 
   - Small Pulse Laser × 3 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2) 
+- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2) 
 - **Battle Value:** 1763 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_2.md) 
 
@@ -73,6 +73,26 @@
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2914/shadow-hawk-iic-4) 
 - **Battle Value:** 1698 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_4.md) 
+
+## Shadow Hawk IIC 10 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3068) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 144 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 30) 
+  - Medium Pulse Laser × 2 
+  - ER Small Laser 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8328/shadow-hawk-iic-10) 
+- **Battle Value:** 1760 
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_10.md) 
 
 ## Shadow Hawk IIC 5 
 
@@ -172,4 +192,25 @@
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6911/shadow-hawk-iic-9) 
 - **Battle Value:** 1803 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_9.md) 
+
+## Shadow Hawk IIC 11 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3141) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 147 (Ferro Lamellor) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - Improved Heavy Medium Laser × 2 
+  - ER Small Laser 
+  - SRM 2 × 4 (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8329/shadow-hawk-iic-11) 
+- **Battle Value:** 1692 
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_11.md) 
 

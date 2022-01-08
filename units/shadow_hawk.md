@@ -50,7 +50,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb) 
+- **Sources:** Rec Guide:ilClan #12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb) 
 - **Battle Value:** 1354 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2hb.md) 
 
@@ -104,7 +104,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m) 
 - **Battle Value:** 1430 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5m.md) 
 
@@ -122,7 +122,7 @@
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2900/shadow-hawk-shd-2d2) 
+- **Sources:** Rec Guide:ilClan #12 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2900/shadow-hawk-shd-2d2) 
 - **Battle Value:** 1049 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d2.md) 
 
@@ -140,7 +140,7 @@
   - Clan LB 5-X AC (ammo: 20) 
   - Clan LRM 5 (ammo: 24) 
   - Clan Streak SRM 2 (ammo: 50) 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2895/shadow-hawk-c) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2895/shadow-hawk-c) 
 - **Battle Value:** 1309 
 - [*More Info*](shadow_hawk/shadow_hawk_c.md) 
 
@@ -181,7 +181,7 @@
   - Beagle Active Probe 
   - TAG 
   - Cargo 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786/shadow-hawk-shd-5s) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786/shadow-hawk-shd-5s) 
 - **Battle Value:** 1590 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5s.md) 
 
@@ -199,6 +199,7 @@
   - Streak SRM 4 (ammo: 25) 
   - Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d) 
 - **Battle Value:** 1684 
@@ -218,6 +219,7 @@
   - Ultra AC/5 (ammo: 20) 
   - ER Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3i 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2907/shadow-hawk-shd-7cs) 
@@ -239,6 +241,7 @@
   - Medium Laser 
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908/shadow-hawk-shd-7m) 
 - **Battle Value:** 1447 
@@ -258,6 +261,7 @@
   - LRM 15 w/ Artemis IV (ammo: 16) 
   - ER Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3i 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 
@@ -296,6 +300,7 @@
   - Medium Pulse Laser 
   - MML 5 × 2 (ammo: 24 LRM, 40 SRM) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Targeting Computer 
   - CASE 
   - C3 Support 
@@ -337,6 +342,7 @@
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c) 
 - **Battle Value:** 1574 
@@ -359,6 +365,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
+  - Full Head Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2909/shadow-hawk-shd-8l) 
 - **Battle Value:** 1536 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-8l.md) 
@@ -379,7 +386,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7787/shadow-hawk-shd-5r) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7787/shadow-hawk-shd-5r) 
 - **Battle Value:** 1296 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5r.md) 
 
@@ -399,7 +406,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789/shadow-hawk-shd-7h) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789/shadow-hawk-shd-7h) 
 - **Battle Value:** 1394 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-7h.md) 
 
@@ -415,7 +422,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - Light PPC 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785/shadow-hawk-shd-4h) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785/shadow-hawk-shd-4h) 
 - **Battle Value:** 1569 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-4h.md) 
 
@@ -435,7 +442,7 @@
   - Streak SRM 2 (iOS) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7788/shadow-hawk-shd-6d) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7788/shadow-hawk-shd-6d) 
 - **Battle Value:** 1371 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-6d.md) 
 

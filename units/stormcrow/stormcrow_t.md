@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7550/ryoken-stormcrow-t) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7550/ryoken-stormcrow-t) 
 - **Battle Value:** 2280 
 
 ## Availability 

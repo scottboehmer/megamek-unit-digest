@@ -20,7 +20,7 @@
   - Beagle Active Probe 
   - TAG 
   - Cargo 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786/shadow-hawk-shd-5s) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786/shadow-hawk-shd-5s) 
 - **Battle Value:** 1590 
 
 ## Availability 

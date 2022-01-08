@@ -168,7 +168,7 @@
   - Light Active Probe 
   - Light TAG 
   - CASE 
-- **Sources:** ilClan Vol 12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7782/nobori-nin-huntsman-e) 
+- **Sources:** Rec Guide:ilClan #12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7782/nobori-nin-huntsman-e) 
 - **Battle Value:** 2104 
 - [*More Info*](huntsman/huntsman_e.md) 
 
@@ -188,7 +188,7 @@
   - ER Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784/nobori-nin-huntsman-i) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784/nobori-nin-huntsman-i) 
 - **Battle Value:** 2277 
 - [*More Info*](huntsman/huntsman_i.md) 
 
@@ -232,7 +232,7 @@
   - Supercharger 
   - Targeting Computer 
   - CASE II 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783/nobori-nin-huntsman-g) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783/nobori-nin-huntsman-g) 
 - **Battle Value:** 2377 
 - [*More Info*](huntsman/huntsman_g.md) 
 
@@ -257,7 +257,7 @@
   - Laser Anti-Missile System 
   - CASE 
   - Targeting Computer 
-- **Sources:** ilClan Vol 12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781/nobori-nin-huntsman-t) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781/nobori-nin-huntsman-t) 
 - **Battle Value:** 2105 
 - [*More Info*](huntsman/huntsman_t.md) 
 

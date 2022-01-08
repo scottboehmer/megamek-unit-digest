@@ -150,7 +150,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e) 
 - **Battle Value:** 2391 
 - [*More Info*](ebon_jaguar/ebon_jaguar_e.md) 
 
@@ -170,7 +170,7 @@
   - Inner Sphere Angel ECM Suite 
   - Targeting Computer 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x) 
 - **Battle Value:** 2435 
 - [*More Info*](ebon_jaguar/ebon_jaguar_x.md) 
 
@@ -207,7 +207,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8210/cauldron-born-ebon-jaguar-f) 
+- **Sources:** Rec Guide:ilClan #16 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8210/cauldron-born-ebon-jaguar-f) 
 - **Battle Value:** 2681 
 - [*More Info*](ebon_jaguar/ebon_jaguar_f.md) 
 
@@ -225,7 +225,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8211/cauldron-born-ebon-jaguar-g) 
+- **Sources:** Rec Guide:ilClan #16 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8211/cauldron-born-ebon-jaguar-g) 
 - **Battle Value:** 2849 
 - [*More Info*](ebon_jaguar/ebon_jaguar_g.md) 
 
@@ -245,7 +245,7 @@
   - Inner Sphere Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Recognition Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209/cauldron-born-ebon-jaguar-t) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209/cauldron-born-ebon-jaguar-t) 
 - **Battle Value:** 2219 
 - [*More Info*](ebon_jaguar/ebon_jaguar_t.md) 
 

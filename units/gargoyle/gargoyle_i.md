@@ -15,7 +15,7 @@
   - ER Large Laser × 3 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7756/man-o-war-gargoyle-i) 
+- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7756/man-o-war-gargoyle-i) 
 - **Battle Value:** 2516 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RecGuide 18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard) 
+- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard) 
 - **Battle Value:** 1047 
 - [*More Info*](jenner_iic/jenner_iic_standard.md) 
 
@@ -33,7 +33,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2) 
+- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2) 
 - **Battle Value:** 1406 
 - [*More Info*](jenner_iic/jenner_iic_2.md) 
 
@@ -51,7 +51,7 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3) 
+- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3) 
 - **Battle Value:** 788 
 - [*More Info*](jenner_iic/jenner_iic_3.md) 
 
@@ -88,7 +88,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248/jenner-iic-5) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248/jenner-iic-5) 
 - **Battle Value:** 1440 
 - [*More Info*](jenner_iic/jenner_iic_5.md) 
 

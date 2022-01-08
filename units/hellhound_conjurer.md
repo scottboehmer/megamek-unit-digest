@@ -15,7 +15,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
+- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
 - **Battle Value:** 1813 
 - [*More Info*](conjurer/conjurer_standard.md) 
 
@@ -34,7 +34,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7) 
+- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7) 
 - **Battle Value:** 1845 
 - [*More Info*](conjurer/conjurer_7.md) 
 
@@ -130,7 +130,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7513/hellhound-conjurer-8) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7513/hellhound-conjurer-8) 
 - **Battle Value:** 2155 
 - [*More Info*](conjurer/conjurer_8.md) 
 

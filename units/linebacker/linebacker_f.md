@@ -16,7 +16,7 @@
   - Narc (iOS) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f) 
+- **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f) 
 - **Battle Value:** 1928 
 
 ## Availability 

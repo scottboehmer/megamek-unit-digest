@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Clan Large Pulse Laser × 2 
   - Clan LB 5-X AC × 2 (ammo: 20) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c) 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c) 
 - **Battle Value:** 1335 
 
 ## Availability 

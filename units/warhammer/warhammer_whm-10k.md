@@ -18,7 +18,7 @@
   - Clan Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7564/warhammer-whm-10k) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7564/warhammer-whm-10k) 
 - **Battle Value:** 2033 
 
 ## Availability 

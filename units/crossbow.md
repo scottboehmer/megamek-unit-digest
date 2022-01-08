@@ -181,7 +181,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Recognition Guide:ilClan #17 - TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
+- **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
 - **Battle Value:** 1558 
 - [*More Info*](crossbow/crossbow_e.md) 
 
@@ -217,7 +217,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8236/crossbow-f) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8236/crossbow-f) 
 - **Battle Value:** 1854 
 - [*More Info*](crossbow/crossbow_f.md) 
 
@@ -235,7 +235,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8238/crossbow-w) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8238/crossbow-w) 
 - **Battle Value:** 2051 
 - [*More Info*](crossbow/crossbow_w.md) 
 
@@ -251,7 +251,7 @@
   - Streak LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237/crossbow-g) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237/crossbow-g) 
 - **Battle Value:** 1725 
 - [*More Info*](crossbow/crossbow_g.md) 
 
@@ -269,7 +269,7 @@
 - **Equipment:** 
   - Talons 
   - Supercharger 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245/crossbow-j) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245/crossbow-j) 
 - **Battle Value:** 1839 
 - [*More Info*](crossbow/crossbow_j.md) 
 
@@ -287,7 +287,7 @@
   - SRM 2 (iOS) × 14 
 - **Equipment:** 
   - Light Active Probe 
-- **Sources:** Recognition Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8235/crossbow-t) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8235/crossbow-t) 
 - **Battle Value:** 1729 
 - [*More Info*](crossbow/crossbow_t.md) 
 

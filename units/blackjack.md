@@ -306,7 +306,7 @@
   - Light AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7499/blackjack-bj-5) 
+- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7499/blackjack-bj-5) 
 - **Battle Value:** 1165 
 - [*More Info*](blackjack/blackjack_bj-5.md) 
 

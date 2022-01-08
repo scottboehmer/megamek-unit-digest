@@ -15,6 +15,7 @@
   - ER Medium Laser × 2 
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
+  - Full Head Ejection System 
   - CASE 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3376/valkyrie-vlk-qd3) 
 - **Battle Value:** 882 

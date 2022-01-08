@@ -281,7 +281,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Targeting Computer 
-- **Sources:** ilClan Vol 12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7791/black-knight-bl-18-knt) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7791/black-knight-bl-18-knt) 
 - **Battle Value:** 2585 
 - [*More Info*](black_knight/black_knight_bl-18-knt.md) 
 

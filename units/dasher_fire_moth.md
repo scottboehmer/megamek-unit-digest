@@ -201,7 +201,7 @@
   - Supercharger 
   - Targeting Computer 
   - Coolant Pod 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6946/dasher-fire-moth-g) 
+- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6946/dasher-fire-moth-g) 
 - **Battle Value:** 2040 
 - [*More Info*](fire_moth/fire_moth_g.md) 
 
@@ -219,7 +219,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7580/dasher-fire-moth-m) 
+- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7580/dasher-fire-moth-m) 
 - **Battle Value:** 1200 
 - [*More Info*](fire_moth/fire_moth_m.md) 
 
@@ -240,7 +240,7 @@
   - Inner Sphere M-Pod 
   - MASC 
   - Inner Sphere C3 Support 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7582/dasher-fire-moth-r) 
+- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7582/dasher-fire-moth-r) 
 - **Battle Value:** 1160 
 - [*More Info*](fire_moth/fire_moth_r.md) 
 
@@ -257,7 +257,7 @@
 - **Equipment:** 
   - MASC 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7581/dasher-fire-moth-p) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7581/dasher-fire-moth-p) 
 - **Battle Value:** 841 
 - [*More Info*](fire_moth/fire_moth_p.md) 
 
@@ -276,7 +276,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7578/dasher-fire-moth-i) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7578/dasher-fire-moth-i) 
 - **Battle Value:** 1260 
 - [*More Info*](fire_moth/fire_moth_i.md) 
 
@@ -296,7 +296,7 @@
   - MASC 
   - CASE 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7577/dasher-fire-moth-t) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7577/dasher-fire-moth-t) 
 - **Battle Value:** 1305 
 - [*More Info*](fire_moth/fire_moth_t.md) 
 
@@ -314,7 +314,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7579/dasher-fire-moth-j) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7579/dasher-fire-moth-j) 
 - **Battle Value:** 1140 
 - [*More Info*](fire_moth/fire_moth_j.md) 
 

@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard) 
 - **Battle Value:** 2057 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_standard.md) 
 
@@ -31,7 +31,7 @@
   - LRM 20 × 4 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2) 
 - **Battle Value:** 2892 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_2.md) 
 
@@ -50,7 +50,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan RecGuide 15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196/phoenix-hawk-iic-9) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196/phoenix-hawk-iic-9) 
 - **Battle Value:** 2469 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_9.md) 
 
@@ -176,7 +176,7 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 6 
   - Inner Sphere Hatchet 
-- **Sources:** ilClan RecGuide 15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197/phoenix-hawk-iic-10) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197/phoenix-hawk-iic-10) 
 - **Battle Value:** 2762 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_10.md) 
 

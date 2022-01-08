@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser × 2 
   - Small Pulse Laser × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7538/marauder-iic-10) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7538/marauder-iic-10) 
 - **Battle Value:** 2877 
 
 ## Availability 

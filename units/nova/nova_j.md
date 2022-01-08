@@ -16,7 +16,7 @@
   - Streak LRM 15 (ammo: 16) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Rec Guide 13 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j) 
+- **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j) 
 - **Battle Value:** 2052 
 
 ## Availability 

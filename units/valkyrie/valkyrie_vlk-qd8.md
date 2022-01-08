@@ -15,6 +15,8 @@
 - **Weapons:** 
   - ELRM 10 (ammo: 18) 
   - Light PPC 
+- **Equipment:** 
+  - Full Head Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8) 
 - **Battle Value:** 787 
 

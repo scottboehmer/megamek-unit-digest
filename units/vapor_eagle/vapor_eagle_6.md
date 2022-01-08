@@ -17,7 +17,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
+- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
 - **Battle Value:** 1747 
 
 ## Availability 

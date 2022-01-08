@@ -16,6 +16,7 @@
   - MML 7 w/ Artemis IV (ammo: 17 LRM, 14 SRM) 
   - Medium Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - C3i 
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5) 

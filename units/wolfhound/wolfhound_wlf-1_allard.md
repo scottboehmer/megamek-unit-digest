@@ -15,6 +15,7 @@
   - Clan ER Medium Laser × 3 
   - Clan ER Small Laser 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Clan Targeting Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5416/wolfhound-wlf-1-allard) 
 - **Battle Value:** 1941 

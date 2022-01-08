@@ -17,7 +17,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492/warhammer-whm-7m) 
+- **Sources:** Rec Guide:ilClan #7 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492/warhammer-whm-7m) 
 - **Battle Value:** 1487 
 
 ## Availability 

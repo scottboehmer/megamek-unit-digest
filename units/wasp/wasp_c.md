@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Clan ER Large Laser 
   - Clan Streak SRM 2 (iOS) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
 - **Battle Value:** 755 
 
 ## Availability 

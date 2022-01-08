@@ -108,7 +108,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7483/puma-adder-s) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7483/puma-adder-s) 
 - **Battle Value:** 1427 
 - [*More Info*](adder/adder_s.md) 
 
@@ -202,7 +202,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7479/puma-adder-i) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7479/puma-adder-i) 
 - **Battle Value:** 1575 
 - [*More Info*](adder/adder_i.md) 
 
@@ -221,7 +221,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7481/puma-adder-k) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7481/puma-adder-k) 
 - **Battle Value:** 1281 
 - [*More Info*](adder/adder_k.md) 
 
@@ -238,7 +238,7 @@
   - Flamer 
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7478/puma-adder-t) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7478/puma-adder-t) 
 - **Battle Value:** 1765 
 - [*More Info*](adder/adder_t.md) 
 
@@ -258,7 +258,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7482/puma-adder-l) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7482/puma-adder-l) 
 - **Battle Value:** 1738 
 - [*More Info*](adder/adder_l.md) 
 

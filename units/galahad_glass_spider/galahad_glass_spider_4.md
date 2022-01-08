@@ -17,7 +17,7 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** RecGuide 13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8131/galahad-glass-spider-4) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8131/galahad-glass-spider-4) 
 - **Battle Value:** 2309 
 
 ## Availability 

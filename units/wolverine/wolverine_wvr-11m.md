@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8258/wolverine-wvr-11m) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258/wolverine-wvr-11m) 
 - **Battle Value:** 1778 
 
 ## Availability 

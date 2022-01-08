@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Bloodhound Active Probe 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7724/mongoose-mon-96) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7724/mongoose-mon-96) 
 - **Battle Value:** 1011 
 
 ## Availability 

@@ -112,7 +112,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7516/mad-cat-timber-wolf-n) 
+- **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7516/mad-cat-timber-wolf-n) 
 - **Battle Value:** 2862 
 - [*More Info*](timber_wolf/timber_wolf_n.md) 
 
@@ -272,7 +272,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7515/mad-cat-timber-wolf-m) 
+- **Sources:** Rec Guide:ilClan #5 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7515/mad-cat-timber-wolf-m) 
 - **Battle Value:** 2741 
 - [*More Info*](timber_wolf/timber_wolf_m.md) 
 
@@ -350,7 +350,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7518/mad-cat-timber-wolf-w) 
+- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7518/mad-cat-timber-wolf-w) 
 - **Battle Value:** 2791 
 - [*More Info*](timber_wolf/timber_wolf_w.md) 
 
@@ -391,7 +391,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7517/mad-cat-timber-wolf-t) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7517/mad-cat-timber-wolf-t) 
 - **Battle Value:** 2714 
 - [*More Info*](timber_wolf/timber_wolf_t.md) 
 

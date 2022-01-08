@@ -18,7 +18,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Vol 3 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7475/battlemaster-blr-6g) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7475/battlemaster-blr-6g) 
 - **Battle Value:** 1960 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ilClan Rec Guide 18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8249/enforcer-enf-5r) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8249/enforcer-enf-5r) 
 - **Battle Value:** 1192 
 
 ## Availability 
