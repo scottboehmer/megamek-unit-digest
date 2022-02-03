@@ -41,6 +41,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Lyran Alliance 
 
 ### Early Republic 

@@ -32,7 +32,6 @@
 #### [Savannah Master Hovercraft](../../units/savannah_master_hovercraft.md) 
 
 - [**Savannah Master Hovercraft (Standard)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
-- [**Savannah Master Hovercraft (SL)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_sl.md) *Scout (3033)* 
 
 #### [Speeder](../../units/speeder.md) 
 
@@ -1601,10 +1600,11 @@
 
 - [**Atlas AS7-D**](../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas AS7-D-DC**](../../units/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console` 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
+- [**Atlas AS7-K**](../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
 - [**Atlas AS7-S**](../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
 - [**Atlas AS7-S2**](../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 
 #### [Berserker](../../units/berserker.md) 

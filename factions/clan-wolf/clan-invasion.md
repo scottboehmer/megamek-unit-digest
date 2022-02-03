@@ -844,7 +844,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

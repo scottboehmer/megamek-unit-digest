@@ -314,10 +314,6 @@
 
 - [**Pike Support Vehicle (Clan)**](../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 
-#### [SRM Carrier](../../units/srm_carrier.md) 
-
-- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
-
 ### 65 Tons 
 
 #### [Axel Heavy Tank IIC](../../units/axel_heavy_tank_iic.md) 
@@ -1003,11 +999,13 @@
 - [**Nova Cat B**](../../units/nova_cat/nova_cat_b.md) *Missile Boat (3059)* 
 - [**Nova Cat C**](../../units/nova_cat/nova_cat_c.md) *Sniper (3059)* 
 - [**Nova Cat D**](../../units/nova_cat/nova_cat_d.md) *Brawler (3059)* 
+- [**Nova Cat M**](../../units/nova_cat/nova_cat_m.md) *Juggernaut (3062)* 
 - [**Nova Cat E**](../../units/nova_cat/nova_cat_e.md) *Brawler (3064)* 
 - [**Nova Cat F**](../../units/nova_cat/nova_cat_f.md) *Skirmisher (3070)* `ECM` 
 - [**Nova Cat G**](../../units/nova_cat/nova_cat_g.md) *Missile Boat (3072)* `ECM` 
 - [**Nova Cat H**](../../units/nova_cat/nova_cat_h.md) *Skirmisher (3099)* 
 - [**Nova Cat I**](../../units/nova_cat/nova_cat_i.md) *Juggernaut (3132)* 
+- [**Nova Cat T**](../../units/nova_cat/nova_cat_t.md) *Sniper (3142)* 
 
 #### [Summoner](../../units/summoner.md) 
 
@@ -1036,6 +1034,10 @@
 #### [Black Knight](../../units/black_knight.md) 
 
 - [**Black Knight BLK-NT-4D**](../../units/black_knight/black_knight_blk-nt-4d.md) *Juggernaut (3127)* `ECM` 
+
+#### [Flashman](../../units/flashman.md) 
+
+- [**Flashman FLS-10E**](../../units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
 
 #### [Orion IIC](../../units/orion_iic.md) 
 
@@ -1166,10 +1168,13 @@
 - [**Annihilator ANH-2A**](../../units/annihilator/annihilator_anh-2a.md) *Juggernaut (3048)* 
 - [**Annihilator ANH-3A**](../../units/annihilator/annihilator_anh-3a.md) *Juggernaut (3068)* 
 - [**Annihilator ANH-4A**](../../units/annihilator/annihilator_anh-4a.md) *Sniper (3069)* 
+- [**Annihilator ANH-5W**](../../units/annihilator/annihilator_anh-5w.md) *Sniper (3134)* 
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Dire Wolf](../../units/dire_wolf.md) 

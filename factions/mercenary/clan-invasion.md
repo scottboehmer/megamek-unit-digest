@@ -1300,6 +1300,7 @@
 
 - [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
 - [**Goliath GOL-3M**](../../units/goliath/goliath_gol-3m.md) *Sniper (3047)* 
+- [**Goliath GOL-3M2**](../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 
 #### [Hatamoto-Chi](../../units/hatamoto-chi.md) 
 

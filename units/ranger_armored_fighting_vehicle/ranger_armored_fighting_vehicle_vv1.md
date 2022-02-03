@@ -26,6 +26,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Lyran Alliance 
 - Marian Hegemony 

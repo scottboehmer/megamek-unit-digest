@@ -28,6 +28,7 @@
 
 ### Jihad 
 
+- Clan Wolf 
 - Wolf's Dragoons 
 
 ### Early Republic 

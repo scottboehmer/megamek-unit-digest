@@ -23,6 +23,10 @@
 
 ## Availability 
 
+### Late Republic 
+
+- ComStar 
+
 ### Dark Ages 
 
 - Clan Hell's Horses 
@@ -31,6 +35,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 

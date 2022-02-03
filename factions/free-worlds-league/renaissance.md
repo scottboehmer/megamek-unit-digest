@@ -804,7 +804,3 @@
 
 - [**King Crab KGC-0000**](../../units/king_crab/king_crab_kgc-0000.md) *Juggernaut (2815)* 
 
-#### [Titan](../../units/titan.md) 
-
-- [**Titan TI-1A**](../../units/titan/titan_ti-1a.md) *Juggernaut (2765)* 
-

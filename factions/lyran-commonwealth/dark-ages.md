@@ -2022,6 +2022,10 @@
 - [**Falconer FLC-8R**](../../units/falconer/falconer_flc-8r.md) *Skirmisher (3053)* 
 - [**Falconer FLC-9R**](../../units/falconer/falconer_flc-9r.md) *Skirmisher (3075)* 
 
+#### [Flashman](../../units/flashman.md) 
+
+- [**Flashman FLS-10E**](../../units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
+
 #### [Götterdämmerung](../../units/götterdämmerung.md) 
 
 - [**Götterdämmerung GTD-20S**](../../units/götterdämmerung/götterdämmerung_gtd-20s.md) *Brawler (3138)* 
@@ -2303,17 +2307,24 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-S2**](../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 - [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
+- [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
 - [**Atlas AS7-Dr**](../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 - [**Atlas AS7-K3**](../../units/atlas/atlas_as7-k3.md) *Sniper (3083)* `ECM` 
 - [**Atlas AS7-K4**](../../units/atlas/atlas_as7-k4.md) *Brawler (3098)* `ECM` 
+- [**Atlas AS7-S4**](../../units/atlas/atlas_as7-s4.md) *Sniper (3109)* `ECM` , `Stealth` 
+- [**Atlas AS8-S**](../../units/atlas/atlas_as8-s.md) *Sniper (3138)* `ECM` 
+- [**Atlas AS8-KE**](../../units/atlas/atlas_as8-ke.md) *Juggernaut (3140)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 
+- [**Atlas II AS7-DK-H**](../../units/atlas_ii/atlas_ii_as7-dk-h.md) *Brawler (3139)* 
 
 #### [Berserker](../../units/berserker.md) 
 

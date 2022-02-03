@@ -387,6 +387,10 @@
 - [**Black Hawk 2**](../../units/black_hawk/black_hawk_2.md) *Skirmisher (3092)* 
 - [**Black Hawk 3**](../../units/black_hawk/black_hawk_3.md) *Skirmisher (3092)* 
 
+#### [Fujin](../../units/fujin.md) 
+
+- [**Fujin RJN-301-F**](../../units/fujin/fujin_rjn-301-f.md) *Striker (3139)* 
+
 #### [Ghost](../../units/ghost.md) 
 
 - [**Ghost GST-10**](../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
@@ -600,6 +604,13 @@
 - [**Annihilator ANH-2A**](../../units/annihilator/annihilator_anh-2a.md) *Juggernaut (3048)* 
 - [**Annihilator ANH-3A**](../../units/annihilator/annihilator_anh-3a.md) *Juggernaut (3068)* 
 - [**Annihilator ANH-4A**](../../units/annihilator/annihilator_anh-4a.md) *Sniper (3069)* 
+- [**Annihilator ANH-5W**](../../units/annihilator/annihilator_anh-5w.md) *Sniper (3134)* 
+
+#### [Atlas](../../units/atlas.md) 
+
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
+- [**Atlas AS7-S4**](../../units/atlas/atlas_as7-s4.md) *Sniper (3109)* `ECM` , `Stealth` 
 
 #### [Diomede](../../units/diomede.md) 
 

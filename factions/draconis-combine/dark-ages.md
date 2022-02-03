@@ -1084,7 +1084,7 @@
 - [**Incubus 2**](../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../units/incubus/incubus_8.md) *Striker (2962)* 
-- [**Incubus 6**](../../units/incubus/incubus_6.md) *Undefined (3113)* 
+- [**Incubus 6**](../../units/incubus/incubus_6.md) *Brawler (3113)* 
 - [**Incubus 9**](../../units/incubus/incubus_9.md) *Striker (3150)* 
 
 #### [Nyx](../../units/nyx.md) 
@@ -1479,6 +1479,10 @@
 
 - [**Crab CRB-27b**](../../units/crab/crab_crb-27b.md) *Sniper (2719)* 
 
+#### [Fujin](../../units/fujin.md) 
+
+- [**Fujin RJN-301-F**](../../units/fujin/fujin_rjn-301-f.md) *Striker (3139)* 
+
 #### [Ghost](../../units/ghost.md) 
 
 - [**Ghost GST-10**](../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
@@ -1656,6 +1660,7 @@
 - [**Grand Dragon DRG-9KC**](../../units/grand_dragon/grand_dragon_drg-9kc.md) *Skirmisher (3071)* `C3 Main` , `TAG` 
 - [**Grand Dragon DRG-7KC**](../../units/grand_dragon/grand_dragon_drg-7kc.md) *Skirmisher (3077)* `C3 Support` 
 - [**Grand Dragon DRG-10K**](../../units/grand_dragon/grand_dragon_drg-10k.md) *Skirmisher (3114)* 
+- [**Grand Dragon DRG-12K**](../../units/grand_dragon/grand_dragon_drg-12k.md) *Skirmisher (3147)* 
 
 #### [Heavy Forester](../../units/heavy_forester.md) 
 
@@ -1670,6 +1675,10 @@
 
 - [**Helios HEL-4A**](../../units/helios/helios_hel-4a.md) *Skirmisher (3060)* 
 - [**Helios HEL-C**](../../units/helios/helios_hel-c.md) *Skirmisher (3060)* `C3 Support` 
+
+#### [Lancelot](../../units/lancelot.md) 
+
+- [**Lancelot LNC25-09**](../../units/lancelot/lancelot_lnc25-09.md) *Skirmisher (3147)* 
 
 #### [Mad Dog Mk IV](../../units/mad_dog_mk_iv.md) 
 
@@ -1863,6 +1872,21 @@
 - [**No-Dachi NDA-2KC**](../../units/no-dachi/no-dachi_nda-2kc.md) *Skirmisher (3067)* `C3 Support` 
 - [**No-Dachi NDA-3X**](../../units/no-dachi/no-dachi_nda-3x.md) *Missile Boat (3075)* 
 
+#### [Nova Cat](../../units/nova_cat.md) 
+
+- [**Nova Cat Prime**](../../units/nova_cat/nova_cat_prime.md) *Sniper (3059)* 
+- [**Nova Cat A**](../../units/nova_cat/nova_cat_a.md) *Sniper (3059)* 
+- [**Nova Cat B**](../../units/nova_cat/nova_cat_b.md) *Missile Boat (3059)* 
+- [**Nova Cat C**](../../units/nova_cat/nova_cat_c.md) *Sniper (3059)* 
+- [**Nova Cat D**](../../units/nova_cat/nova_cat_d.md) *Brawler (3059)* 
+- [**Nova Cat M**](../../units/nova_cat/nova_cat_m.md) *Juggernaut (3062)* 
+- [**Nova Cat E**](../../units/nova_cat/nova_cat_e.md) *Brawler (3064)* 
+- [**Nova Cat F**](../../units/nova_cat/nova_cat_f.md) *Skirmisher (3070)* `ECM` 
+- [**Nova Cat G**](../../units/nova_cat/nova_cat_g.md) *Missile Boat (3072)* `ECM` 
+- [**Nova Cat H**](../../units/nova_cat/nova_cat_h.md) *Skirmisher (3099)* 
+- [**Nova Cat I**](../../units/nova_cat/nova_cat_i.md) *Juggernaut (3132)* 
+- [**Nova Cat T**](../../units/nova_cat/nova_cat_t.md) *Sniper (3142)* 
+
 #### [Warhammer](../../units/warhammer.md) 
 
 - [**Warhammer C 2**](../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
@@ -1948,6 +1972,10 @@
 - [**Charger CGR-KMZ**](../../units/charger/charger_cgr-kmz.md) *Sniper (3071)* 
 - [**Charger CGR-3Kr**](../../units/charger/charger_cgr-3kr.md) *Skirmisher (3078)* 
 
+#### [Goliath](../../units/goliath.md) 
+
+- [**Goliath GOL-7K**](../../units/goliath/goliath_gol-7k.md) *Juggernaut (3148)* 
+
 #### [Hatamoto-Chi](../../units/hatamoto-chi.md) 
 
 - [**Hatamoto-Chi HTM-28T**](../../units/hatamoto-chi/hatamoto-chi_htm-28t.md) *Sniper (3059)* `C3 Support` 
@@ -2031,6 +2059,7 @@
 #### [Katana](../../units/katana.md) 
 
 - [**Katana CRK-5003-CM**](../../units/katana/katana_crk-5003-cm.md) *Juggernaut (3057)* `C3 Main` , `TAG` 
+- [**Katana CRK-5006-1**](../../units/katana/katana_crk-5006-1.md) *Undefined (3108)* 
 
 #### [Longbow](../../units/longbow.md) 
 
@@ -2164,15 +2193,23 @@
 
 #### [Atlas](../../units/atlas.md) 
 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-C**](../../units/atlas/atlas_as7-c.md) *Sniper (3050)* `C3 Support` 
 - [**Atlas AS7-CM**](../../units/atlas/atlas_as7-cm.md) *Sniper (3050)* `C3 Main` , `TAG` 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
 - [**Atlas AS8-D**](../../units/atlas/atlas_as8-d.md) *Juggernaut (3074)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 - [**Atlas AS7-K4**](../../units/atlas/atlas_as7-k4.md) *Brawler (3098)* `ECM` 
+- [**Atlas AS8-K**](../../units/atlas/atlas_as8-k.md) *Juggernaut (3140)* 
+- [**Atlas AS8-KE**](../../units/atlas/atlas_as8-ke.md) *Juggernaut (3140)* 
+
+#### [Atlas II](../../units/atlas_ii.md) 
+
+- [**Atlas II AS7-DK-H**](../../units/atlas_ii/atlas_ii_as7-dk-h.md) *Brawler (3139)* 
 
 #### [Atlas III](../../units/atlas_iii.md) 
 

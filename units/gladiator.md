@@ -27,7 +27,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1199/gladiator-gld-2r) 
+- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1199/gladiator-gld-2r) 
 - **Battle Value:** 1184 
 - [*More Info*](gladiator/gladiator_gld-2r.md) 
 

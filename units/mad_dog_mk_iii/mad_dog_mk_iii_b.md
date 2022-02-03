@@ -24,12 +24,14 @@
 
 ### Late Republic 
 
+- ComStar 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- ComStar 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 

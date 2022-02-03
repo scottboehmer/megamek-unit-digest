@@ -100,6 +100,7 @@
 - Clan Jade Falcon 
 - Clan Sea Fox 
 - Clan Wolf 
+- ComStar 
 - Escorpión Imperio 
 - Raven Alliance 
 
@@ -111,6 +112,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 

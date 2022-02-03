@@ -22,6 +22,7 @@
 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Kell Hounds 
 - Lyran Alliance 

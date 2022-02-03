@@ -32,7 +32,7 @@
 
 ### Early Republic 
 
-- Lyran Alliance 
+- Lyran Commonwealth 
 
 ### Late Republic 
 

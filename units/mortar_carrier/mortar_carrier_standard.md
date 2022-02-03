@@ -65,6 +65,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

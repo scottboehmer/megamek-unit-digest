@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 5 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy) 
 - **Battle Value:** 663 
 
 ## Availability 

@@ -377,7 +377,6 @@
 #### [Scorpion](../../units/scorpion.md) 
 
 - [**Scorpion SCP-1TB**](../../units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
-- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 ### 65 Tons 
 

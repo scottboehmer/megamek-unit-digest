@@ -121,6 +121,17 @@
 
 - [**Anhur Transport (Standard)**](../../units/anhur_transport/anhur_transport_standard.md) *Striker (2840)* `Transport:7.0` 
 
+#### [Badger (C) Tracked Transport](../../units/badger_c_tracked_transport.md) 
+
+- [**Badger (C) Tracked Transport Prime**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_prime.md) *Striker (2875)* `Transport:5.0` 
+- [**Badger (C) Tracked Transport A**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_a.md) *Striker (2875)* `Transport:5.0` 
+- [**Badger (C) Tracked Transport B**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_b.md) *Scout (2875)* `Transport:5.0` 
+- [**Badger (C) Tracked Transport C**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_c.md) *Scout (2875)* `Transport:5.0` 
+- [**Badger (C) Tracked Transport D**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_d.md) *Scout (2875)* `Transport:5.0` 
+- [**Badger (C) Tracked Transport E**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_e.md) *Scout (3062)* `Transport:5.0` 
+- [**Badger (C) Tracked Transport H**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_h.md) *Scout (3062)* `Transport:5.0` 
+- [**Badger (C) Tracked Transport F**](../../units/badger_c_tracked_transport/badger_c_tracked_transport_f.md) *Scout (3072)* `Transport:5.0` 
+
 #### [Coolant Truck](../../units/coolant_truck.md) 
 
 - [**Coolant Truck 135-K**](../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
@@ -171,6 +182,18 @@
 - [**Zephyr Hovertank (Royal)**](../../units/zephyr_hovertank/zephyr_hovertank_royal.md) *Striker (2621)* `ECM` , `TAG` 
 
 ### 50 Tons 
+
+#### [Bandit (C) Hovercraft](../../units/bandit_c_hovercraft.md) 
+
+- [**Bandit (C) Hovercraft Prime**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_prime.md) *Striker (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft A**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_a.md) *Striker (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft B**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_b.md) *Missile Boat (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft C**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_c.md) *Striker (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft D**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_d.md) *Striker (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft E**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_e.md) *Striker (3062)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft H**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_h.md) *Striker (3062)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft F**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_f.md) *Striker (3072)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft G**](../../units/bandit_c_hovercraft/bandit_c_hovercraft_g.md) *Scout (3072)* `Transport:5.0` 
 
 #### [BattleMech Recovery Vehicle](../../units/battlemech_recovery_vehicle.md) 
 
@@ -671,10 +694,6 @@
 - [**Mad Dog E**](../../units/mad_dog/mad_dog_e.md) *Sniper (3069)* 
 - [**Mad Dog F**](../../units/mad_dog/mad_dog_f.md) *Skirmisher (3069)* 
 
-#### [Matador](../../units/matador.md) 
-
-- [**Matador (Standard)**](../../units/matador/matador_standard.md) *Juggernaut (2846)* 
-
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
@@ -1001,7 +1020,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

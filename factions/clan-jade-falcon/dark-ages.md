@@ -358,7 +358,6 @@
 
 #### [SRM Carrier](../../units/srm_carrier.md) 
 
-- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
 - [**SRM Carrier (3054 Upgrade)**](../../units/srm_carrier/srm_carrier_3054_upgrade.md) *Ambusher (3054)* 
 
 ### 65 Tons 
@@ -638,7 +637,7 @@
 - [**Incubus 2**](../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../units/incubus/incubus_8.md) *Striker (2962)* 
-- [**Incubus 6**](../../units/incubus/incubus_6.md) *Undefined (3113)* 
+- [**Incubus 6**](../../units/incubus/incubus_6.md) *Brawler (3113)* 
 
 #### [Kit Fox](../../units/kit_fox.md) 
 
@@ -759,6 +758,10 @@
 - [**Battle Cobra H**](../../units/battle_cobra/battle_cobra_h.md) *Striker (3061)* 
 - [**Battle Cobra C**](../../units/battle_cobra/battle_cobra_c.md) *Striker (3062)* 
 - [**Battle Cobra X**](../../units/battle_cobra/battle_cobra_x.md) *Striker (3073)* 
+- [**Battle Cobra G**](../../units/battle_cobra/battle_cobra_g.md) *Striker (3140)* 
+- [**Battle Cobra T**](../../units/battle_cobra/battle_cobra_t.md) *Sniper (3142)* 
+- [**Battle Cobra I**](../../units/battle_cobra/battle_cobra_i.md) *Undefined (3147)* 
+- [**Battle Cobra J**](../../units/battle_cobra/battle_cobra_j.md) *Striker (3147)* 
 
 #### [Griffin IIC](../../units/griffin_iic.md) 
 
@@ -1142,6 +1145,9 @@
 - [**Night Gyr E**](../../units/night_gyr/night_gyr_e.md) *Skirmisher (3061)* 
 - [**Night Gyr H**](../../units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](../../units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
+- [**Night Gyr T**](../../units/night_gyr/night_gyr_t.md) *Juggernaut (3142)* 
+- [**Night Gyr G**](../../units/night_gyr/night_gyr_g.md) *Sniper (3144)* 
+- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 
@@ -1205,9 +1211,12 @@
 
 #### [Jade Phoenix](../../units/jade_phoenix.md) 
 
-- [**Jade Phoenix Prime**](../../units/jade_phoenix/jade_phoenix_prime.md) *Sniper (3150)* 
-- [**Jade Phoenix A**](../../units/jade_phoenix/jade_phoenix_a.md) *Skirmisher (3150)* 
-- [**Jade Phoenix B**](../../units/jade_phoenix/jade_phoenix_b.md) *Skirmisher (3150)* 
+- [**Jade Phoenix Prime**](../../units/jade_phoenix/jade_phoenix_prime.md) *Sniper (3148)* 
+- [**Jade Phoenix A**](../../units/jade_phoenix/jade_phoenix_a.md) *Skirmisher (3148)* 
+- [**Jade Phoenix B**](../../units/jade_phoenix/jade_phoenix_b.md) *Skirmisher (3148)* 
+- [**Jade Phoenix C**](../../units/jade_phoenix/jade_phoenix_c.md) *Skirmisher (3148)* 
+- [**Jade Phoenix D**](../../units/jade_phoenix/jade_phoenix_d.md) *Sniper (3148)* 
+- [**Jade Phoenix E**](../../units/jade_phoenix/jade_phoenix_e.md) *Skirmisher (3148)* 
 
 #### [Marauder IIC](../../units/marauder_iic.md) 
 
@@ -1294,9 +1303,15 @@
 
 ### 100 Tons 
 
+#### [Annihilator](../../units/annihilator.md) 
+
+- [**Annihilator ANH-5W**](../../units/annihilator/annihilator_anh-5w.md) *Sniper (3134)* 
+
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Bane](../../units/bane.md) 

@@ -28,6 +28,7 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Kell Hounds 
+- Lyran Alliance 
 - Mercenary 
 - Wolf's Dragoons 
 

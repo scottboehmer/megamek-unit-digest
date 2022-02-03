@@ -1409,11 +1409,14 @@
 
 - [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
 - [**Goliath GOL-3M**](../../units/goliath/goliath_gol-3m.md) *Sniper (3047)* 
+- [**Goliath GOL-3M2**](../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 
 #### [Grand Crusader](../../units/grand_crusader.md) 
 
 - [**Grand Crusader GRN-D-01**](../../units/grand_crusader/grand_crusader_grn-d-01.md) *Missile Boat (3053)* 
+- [**Grand Crusader GRN-D-01-X**](../../units/grand_crusader/grand_crusader_grn-d-01-x.md) *Missile Boat (3053)* 
 - [**Grand Crusader GRN-D-02**](../../units/grand_crusader/grand_crusader_grn-d-02.md) *Missile Boat (3056)* 
+- [**Grand Crusader GRN-D-02-B**](../../units/grand_crusader/grand_crusader_grn-d-02-b.md) *Sniper (3057)* 
 
 #### [Grand Crusader II](../../units/grand_crusader_ii.md) 
 

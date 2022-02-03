@@ -23,18 +23,9 @@
 
 ### Jihad 
 
-- Capellan Confederation 
-- ComStar 
-- Draconis Combine 
-- Federated Suns 
-- Filtvelt Coalition 
-- Free Rasalhague Republic 
-- Free Worlds League 
 - Kell Hounds 
-- Lyran Alliance 
 - Mercenary 
 - Wolf's Dragoons 
-- Word of Blake 
 
 ### Early Republic 
 
@@ -56,6 +47,7 @@
 
 - Capellan Confederation 
 - Clan Nova Cat 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -73,6 +65,7 @@
 
 - Capellan Confederation 
 - Clan Nova Cat 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

@@ -20,12 +20,11 @@
 
 ## Availability 
 
-### Early Succession Wars 
+### Star League (Unique) 
 
-- ComStar 
+- Star League 
 
 ### Late Succession Wars - Renaissance (Unique) 
 
 - Federated Suns 
-- Free Worlds League 
 

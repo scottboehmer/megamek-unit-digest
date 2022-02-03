@@ -50,7 +50,7 @@
 
 - Federated Suns 
 - Kell Hounds 
-- Lyran Alliance 
+- Lyran Commonwealth 
 - Mercenary 
 - Wolf's Dragoons 
 

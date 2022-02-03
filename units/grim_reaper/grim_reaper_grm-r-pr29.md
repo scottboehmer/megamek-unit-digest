@@ -57,10 +57,12 @@
 
 ### Late Republic 
 
+- ComStar 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- ComStar 
 - Mercenary 
 

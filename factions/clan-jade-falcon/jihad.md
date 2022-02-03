@@ -229,6 +229,7 @@
 
 #### [SRM Carrier](../../units/srm_carrier.md) 
 
+- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
 - [**SRM Carrier (3054 Upgrade)**](../../units/srm_carrier/srm_carrier_3054_upgrade.md) *Ambusher (3054)* 
 
 ### 65 Tons 
@@ -897,6 +898,7 @@
 - [**Night Gyr E**](../../units/night_gyr/night_gyr_e.md) *Skirmisher (3061)* 
 - [**Night Gyr H**](../../units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](../../units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
+- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
 
 #### [Timber Wolf](../../units/timber_wolf.md) 
 
@@ -1071,7 +1073,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

@@ -25,7 +25,7 @@
 
 ### Early Republic 
 
-- Lyran Alliance 
+- Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
 

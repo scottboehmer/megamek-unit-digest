@@ -1349,7 +1349,6 @@
 - [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 - [**Avatar AV1-OH**](../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
 - [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
-- [**Avatar AV1-OI**](../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 
 #### [Cataphract](../../units/cataphract.md) 
 
@@ -1488,6 +1487,7 @@
 
 - [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
 - [**Goliath GOL-3M**](../../units/goliath/goliath_gol-3m.md) *Sniper (3047)* 
+- [**Goliath GOL-3M2**](../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 
 #### [Striker](../../units/striker.md) 
 

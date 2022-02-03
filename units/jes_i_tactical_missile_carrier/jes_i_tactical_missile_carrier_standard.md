@@ -22,6 +22,7 @@
 
 ### Jihad 
 
+- Filtvelt Coalition 
 - Taurian Concordat 
 
 ### Early Republic 

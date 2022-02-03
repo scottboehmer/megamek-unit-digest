@@ -57,7 +57,7 @@
 ## Gargoyle "Man O' War" C 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (2945) 
+- **Tech Base:** Clan Mixed (2945) 
 - **Chassis:** 80 tons 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 211 (Ferro Fibrous) 
@@ -66,7 +66,7 @@
   - Ultra AC/20 (ammo: 10) 
   - ER Medium Laser × 6 
 - **Equipment:** 
-  - A-Pod × 3 
+  - Inner Sphere A-Pod × 3 
   - CASE 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2004/man-o-war-gargoyle-c) 
 - **Battle Value:** 2417 

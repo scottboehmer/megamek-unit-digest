@@ -481,6 +481,11 @@
 
 ### 100 Tons 
 
+#### [Atlas](../../units/atlas.md) 
+
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
+
 #### [Atlas II](../../units/atlas_ii.md) 
 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 

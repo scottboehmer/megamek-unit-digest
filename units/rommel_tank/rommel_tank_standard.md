@@ -46,6 +46,7 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Lyran Alliance 
 - Mercenary 
@@ -57,6 +58,7 @@
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Mercenary 
+- Outworlds Alliance 
 - Raven Alliance 
 
 ### Late Republic 

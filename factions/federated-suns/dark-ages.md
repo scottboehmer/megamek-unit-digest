@@ -1163,7 +1163,7 @@
 - [**Incubus 2**](../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../units/incubus/incubus_8.md) *Striker (2962)* 
-- [**Incubus 6**](../../units/incubus/incubus_6.md) *Undefined (3113)* 
+- [**Incubus 6**](../../units/incubus/incubus_6.md) *Brawler (3113)* 
 - [**Incubus 9**](../../units/incubus/incubus_9.md) *Striker (3150)* 
 
 #### [Javelin](../../units/javelin.md) 
@@ -1836,6 +1836,7 @@
 
 #### [Rifleman IIC](../../units/rifleman_iic.md) 
 
+- [**Rifleman IIC (Standard)**](../../units/rifleman_iic/rifleman_iic_standard.md) *Sniper (2845)* `Active Probe` 
 - [**Rifleman IIC 3**](../../units/rifleman_iic/rifleman_iic_3.md) *Juggernaut (3062)* `Active Probe` 
 - [**Rifleman IIC 4**](../../units/rifleman_iic/rifleman_iic_4.md) *Sniper (3065)* 
 - [**Rifleman IIC 5**](../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 
@@ -1899,6 +1900,7 @@
 
 - [**Guillotine GLT-5M**](../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-8D**](../../units/guillotine/guillotine_glt-8d.md) *Skirmisher (3062)* 
+- [**Guillotine GLT-7M**](../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
 
 #### [JagerMech](../../units/jagermech.md) 
 
@@ -2234,10 +2236,19 @@
 
 #### [Atlas](../../units/atlas.md) 
 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-S**](../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
+- [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
 - [**Atlas AS8-D**](../../units/atlas/atlas_as8-d.md) *Juggernaut (3074)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
+- [**Atlas AS8-KE**](../../units/atlas/atlas_as8-ke.md) *Juggernaut (3140)* 
+
+#### [Atlas II](../../units/atlas_ii.md) 
+
+- [**Atlas II AS7-DK-H**](../../units/atlas_ii/atlas_ii_as7-dk-h.md) *Brawler (3139)* 
 
 #### [Atlas III](../../units/atlas_iii.md) 
 

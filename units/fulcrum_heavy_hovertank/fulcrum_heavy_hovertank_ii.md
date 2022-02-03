@@ -36,7 +36,7 @@
 ### Early Republic 
 
 - Federated Suns 
-- Lyran Alliance 
+- Lyran Commonwealth 
 - Republic of the Sphere 
 
 ### Late Republic 

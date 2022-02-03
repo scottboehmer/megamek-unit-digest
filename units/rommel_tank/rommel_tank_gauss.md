@@ -42,6 +42,7 @@
 
 - Clan Wolf-in-Exile 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Lyran Alliance 
 - Mercenary 

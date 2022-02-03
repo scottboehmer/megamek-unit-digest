@@ -47,6 +47,7 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Lyran Alliance 
 

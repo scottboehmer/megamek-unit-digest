@@ -35,7 +35,3 @@
 
 - Lyran Commonwealth 
 
-### Late Republic 
-
-- Lyran Commonwealth 
-

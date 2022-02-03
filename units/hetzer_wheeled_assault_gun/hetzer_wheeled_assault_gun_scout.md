@@ -70,6 +70,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Fronc Reaches 
 - Magistracy of Canopus 

@@ -117,7 +117,6 @@
 
 - [**Beagle Hover Scout (Standard)**](../../units/beagle_hover_scout/beagle_hover_scout_standard.md) *Scout (2666)* `Active Probe` 
 - [**Beagle Hover Scout (TAG)**](../../units/beagle_hover_scout/beagle_hover_scout_tag.md) *Scout (3069)* `Active Probe` , `ECM` , `TAG` 
-- [**Beagle Hover Scout (Sealed)**](../../units/beagle_hover_scout/beagle_hover_scout_sealed.md) *Scout (3076)* `C3i` 
 
 #### [Crow Scout Helicopter](../../units/crow_scout_helicopter.md) 
 
@@ -2158,7 +2157,6 @@
 - [**Scorpion SCP-12S**](../../units/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)* 
 - [**Scorpion SCP-1TB**](../../units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
 - [**Scorpion SCP-10M**](../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
-- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -2477,6 +2475,7 @@
 
 - [**Guillotine GLT-5M**](../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-6WB3**](../../units/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Support` , `ECM` 
+- [**Guillotine GLT-7M**](../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
 
 #### [Guillotine IIC](../../units/guillotine_iic.md) 
 
@@ -2522,6 +2521,7 @@
 - [**Nova Cat B**](../../units/nova_cat/nova_cat_b.md) *Missile Boat (3059)* 
 - [**Nova Cat C**](../../units/nova_cat/nova_cat_c.md) *Sniper (3059)* 
 - [**Nova Cat D**](../../units/nova_cat/nova_cat_d.md) *Brawler (3059)* 
+- [**Nova Cat M**](../../units/nova_cat/nova_cat_m.md) *Juggernaut (3062)* 
 - [**Nova Cat E**](../../units/nova_cat/nova_cat_e.md) *Brawler (3064)* 
 - [**Nova Cat F**](../../units/nova_cat/nova_cat_f.md) *Skirmisher (3070)* `ECM` 
 - [**Nova Cat G**](../../units/nova_cat/nova_cat_g.md) *Missile Boat (3072)* `ECM` 
@@ -2635,7 +2635,6 @@
 
 - [**Prefect PRF-1R**](../../units/prefect/prefect_prf-1r.md) *Skirmisher (3085)* 
 - [**Prefect PRF-2R**](../../units/prefect/prefect_prf-2r.md) *Skirmisher (3086)* 
-- [**Prefect PRF-3R**](../../units/prefect/prefect_prf-3r.md) *Skirmisher (3110)* 
 
 #### [Rakshasa](../../units/rakshasa.md) 
 
@@ -2980,10 +2979,13 @@
 
 #### [Atlas](../../units/atlas.md) 
 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
 - [**Atlas AS7-S2**](../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 - [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
+- [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
 - [**Atlas AS7-Dr**](../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS8-D**](../../units/atlas/atlas_as8-d.md) *Juggernaut (3074)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 

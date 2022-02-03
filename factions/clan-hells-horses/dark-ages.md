@@ -352,10 +352,6 @@
 
 - [**Pike Support Vehicle (Clan)**](../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 
-#### [SRM Carrier](../../units/srm_carrier.md) 
-
-- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
-
 ### 65 Tons 
 
 #### [Axel Heavy Tank IIC](../../units/axel_heavy_tank_iic.md) 
@@ -620,7 +616,7 @@
 - [**Incubus 3**](../../units/incubus/incubus_3.md) *Striker (3025)* 
 - [**Incubus 4**](../../units/incubus/incubus_4.md) *Striker (3065)* 
 - [**Incubus 5**](../../units/incubus/incubus_5.md) *Striker (3065)* 
-- [**Incubus 6**](../../units/incubus/incubus_6.md) *Undefined (3113)* 
+- [**Incubus 6**](../../units/incubus/incubus_6.md) *Brawler (3113)* 
 
 #### [Incubus II](../../units/incubus_ii.md) 
 
@@ -1088,6 +1084,14 @@
 - [**Bowman 2**](../../units/bowman/bowman_2.md) *Missile Boat (2974)* `ECM` 
 - [**Bowman 3**](../../units/bowman/bowman_3.md) *Skirmisher (3076)* `ECM` 
 
+#### [Doom Courser](../../units/doom_courser.md) 
+
+- [**Doom Courser Prime**](../../units/doom_courser/doom_courser_prime.md) *Sniper (3147)* 
+- [**Doom Courser A**](../../units/doom_courser/doom_courser_a.md) *Brawler (3147)* 
+- [**Doom Courser B**](../../units/doom_courser/doom_courser_b.md) *Juggernaut (3147)* 
+- [**Doom Courser C**](../../units/doom_courser/doom_courser_c.md) *Missile Boat (3147)* 
+- [**Doom Courser D**](../../units/doom_courser/doom_courser_d.md) *Sniper (3147)* 
+
 #### [Guillotine IIC](../../units/guillotine_iic.md) 
 
 - [**Guillotine IIC (Standard)**](../../units/guillotine_iic/guillotine_iic_standard.md) *Skirmisher (2889)* 
@@ -1326,7 +1330,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Dire Wolf](../../units/dire_wolf.md) 

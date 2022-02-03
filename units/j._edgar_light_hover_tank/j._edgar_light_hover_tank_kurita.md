@@ -43,8 +43,10 @@
 ### Late Republic 
 
 - Draconis Combine 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Draconis Combine 
+- Taurian Concordat 
 

@@ -309,10 +309,6 @@
 
 - [**Pike Support Vehicle (Clan)**](../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 
-#### [SRM Carrier](../../units/srm_carrier.md) 
-
-- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
-
 #### [Tokugawa Heavy Tank](../../units/tokugawa_heavy_tank.md) 
 
 - [**Tokugawa Heavy Tank (Streak)**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_streak.md) *Brawler (3063)* 
@@ -584,7 +580,7 @@
 - [**Incubus 7**](../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../units/incubus/incubus_8.md) *Striker (2962)* 
 - [**Incubus 3**](../../units/incubus/incubus_3.md) *Striker (3025)* 
-- [**Incubus 6**](../../units/incubus/incubus_6.md) *Undefined (3113)* 
+- [**Incubus 6**](../../units/incubus/incubus_6.md) *Brawler (3113)* 
 - [**Incubus 9**](../../units/incubus/incubus_9.md) *Striker (3150)* 
 
 #### [Pack Hunter](../../units/pack_hunter.md) 
@@ -989,11 +985,13 @@
 - [**Nova Cat B**](../../units/nova_cat/nova_cat_b.md) *Missile Boat (3059)* 
 - [**Nova Cat C**](../../units/nova_cat/nova_cat_c.md) *Sniper (3059)* 
 - [**Nova Cat D**](../../units/nova_cat/nova_cat_d.md) *Brawler (3059)* 
+- [**Nova Cat M**](../../units/nova_cat/nova_cat_m.md) *Juggernaut (3062)* 
 - [**Nova Cat E**](../../units/nova_cat/nova_cat_e.md) *Brawler (3064)* 
 - [**Nova Cat F**](../../units/nova_cat/nova_cat_f.md) *Skirmisher (3070)* `ECM` 
 - [**Nova Cat G**](../../units/nova_cat/nova_cat_g.md) *Missile Boat (3072)* `ECM` 
 - [**Nova Cat H**](../../units/nova_cat/nova_cat_h.md) *Skirmisher (3099)* 
 - [**Nova Cat I**](../../units/nova_cat/nova_cat_i.md) *Juggernaut (3132)* 
+- [**Nova Cat T**](../../units/nova_cat/nova_cat_t.md) *Sniper (3142)* 
 
 #### [Summoner](../../units/summoner.md) 
 
@@ -1026,6 +1024,10 @@
 #### [Cave Lion](../../units/cave_lion.md) 
 
 - [**Cave Lion (Standard)**](../../units/cave_lion/cave_lion_standard.md) *Skirmisher (3122)* `ECM` 
+
+#### [Flashman](../../units/flashman.md) 
+
+- [**Flashman FLS-10E**](../../units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
 
 #### [Ryoken II](../../units/ryoken_ii.md) 
 
@@ -1114,6 +1116,10 @@
 
 - [**BattleMaster C 3**](../../units/battlemaster/battlemaster_c_3.md) *Juggernaut (3145)* 
 
+#### [Stalker](../../units/stalker.md) 
+
+- [**Stalker STK-9F**](../../units/stalker/stalker_stk-9f.md) *Juggernaut (3142)* `Active Probe` 
+
 ### 90 Tons 
 
 #### [Emperor](../../units/emperor.md) 
@@ -1181,7 +1187,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Bane](../../units/bane.md) 

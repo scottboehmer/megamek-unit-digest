@@ -230,6 +230,10 @@
 - [**Demon Tank (Standard)**](../../units/demon_tank/demon_tank_standard.md) *Brawler (2716)* 
 - [**Demon Tank (Royal)**](../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
 
+#### [LRM Carrier](../../units/lrm_carrier.md) 
+
+- [**LRM Carrier (Standard)**](../../units/lrm_carrier/lrm_carrier_standard.md) *Missile Boat (2470)* 
+
 #### [Oro Heavy Tank](../../units/oro_heavy_tank.md) 
 
 - [**Oro Heavy Tank (Standard)**](../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
@@ -709,10 +713,6 @@
 - [**Mad Dog E**](../../units/mad_dog/mad_dog_e.md) *Sniper (3069)* 
 - [**Mad Dog F**](../../units/mad_dog/mad_dog_f.md) *Skirmisher (3069)* 
 
-#### [Matador](../../units/matador.md) 
-
-- [**Matador (Standard)**](../../units/matador/matador_standard.md) *Juggernaut (2846)* 
-
 #### [Ostroc](../../units/ostroc.md) 
 
 - [**Ostroc OSR-2Cb**](../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
@@ -826,6 +826,7 @@
 - [**Nova Cat B**](../../units/nova_cat/nova_cat_b.md) *Missile Boat (3059)* 
 - [**Nova Cat C**](../../units/nova_cat/nova_cat_c.md) *Sniper (3059)* 
 - [**Nova Cat D**](../../units/nova_cat/nova_cat_d.md) *Brawler (3059)* 
+- [**Nova Cat M**](../../units/nova_cat/nova_cat_m.md) *Juggernaut (3062)* 
 - [**Nova Cat E**](../../units/nova_cat/nova_cat_e.md) *Brawler (3064)* 
 - [**Nova Cat F**](../../units/nova_cat/nova_cat_f.md) *Skirmisher (3070)* `ECM` 
 - [**Nova Cat G**](../../units/nova_cat/nova_cat_g.md) *Missile Boat (3072)* `ECM` 
@@ -1035,7 +1036,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

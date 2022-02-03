@@ -5,7 +5,7 @@
 ## Turkina C 
 
 - **Role:** Juggernaut 
-- **Tech Base:** Clan (3052) 
+- **Tech Base:** Clan Mixed (3052) 
 - **Chassis:** 95 tons 
 - **Movement:** 3 / 5, XL 
   - **Jumping:** 3 
@@ -20,7 +20,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Active Probe 
-  - A-Pod × 2 
+  - Inner Sphere A-Pod × 2 
   - CASE 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328/turkina-c) 
 - **Battle Value:** 2798 

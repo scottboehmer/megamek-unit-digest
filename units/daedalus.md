@@ -12,7 +12,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 15 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore) 
 - **Battle Value:** 649 
 - [*More Info*](daedalus/daedalus_gtx2a_stevedore.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 5 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy) 
 - **Battle Value:** 663 
 - [*More Info*](daedalus/daedalus_gtx2b_navvy.md) 
 
@@ -50,7 +50,7 @@
   - Backhoe 
   - Chainsaw 
   - Machine Gun × 4 (ammo: 200) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/793/daedalus-gtx2-militarized) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/793/daedalus-gtx2-militarized) 
 - **Battle Value:** 849 
 - [*More Info*](daedalus/daedalus_gtx2_militarized.md) 
 

@@ -5,7 +5,7 @@
 ## Atlas C 
 
 - **Role:** Juggernaut 
-- **Tech Base:** Clan Mixed (3050) 
+- **Tech Base:** Clan Mixed (2830) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5 
 - **Armor:** 304 
@@ -17,10 +17,36 @@
   - Inner Sphere Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Battle of Tukayyid - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
+- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
 - **Battle Value:** 2340 
 
 ## Availability 
+
+### Early Succession Wars 
+
+- Clan Burrock 
+- Clan Smoke Jaguar 
+- Clan Steel Viper 
+- Clan Widowmaker 
+- Clan Wolf 
+
+### Late Succession Wars - LosTech 
+
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Smoke Jaguar 
+- Clan Steel Viper 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Smoke Jaguar 
+- Clan Steel Viper 
+- Clan Wolf 
 
 ### Clan Invasion 
 

@@ -21,26 +21,3 @@
 
 - Lyran Commonwealth 
 
-### Clan Invasion 
-
-- Federated Commonwealth 
-- Federated Suns 
-- Lyran Alliance 
-- Lyran Commonwealth 
-
-### Civil War 
-
-- Federated Commonwealth 
-- Federated Suns 
-- Lyran Alliance 
-
-### Jihad 
-
-- Federated Suns 
-- Lyran Alliance 
-
-### Early Republic 
-
-- Federated Suns 
-- Lyran Commonwealth 
-

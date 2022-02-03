@@ -48,6 +48,7 @@
 ### Early Republic 
 
 - Magistracy of Canopus 
+- Outworlds Alliance 
 - Raven Alliance 
 - Taurian Concordat 
 

@@ -24,6 +24,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- ComStar 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
@@ -38,6 +39,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

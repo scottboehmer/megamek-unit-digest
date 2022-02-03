@@ -925,5 +925,5 @@
 
 #### [Titan](../../units/titan.md) 
 
-- [**Titan TI-1A**](../../units/titan/titan_ti-1a.md) *Juggernaut (2765)* 
+- [**Titan TI-1A**](../../units/titan/titan_ti-1a.md) *Juggernaut (2765)* `Unique` 
 

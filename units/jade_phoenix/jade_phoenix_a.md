@@ -5,7 +5,7 @@
 ## Jade Phoenix A 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3148) 
 - **Chassis:** 85 tons (Endo Composite) 
 - **Movement:** 4 / 6, XL 
   - **Jumping:** 7 
@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** ilClan - ilClan , [Master Unit List](http://masterunitlist.info/Unit/Details/8294/jade-phoenix-a) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8294/jade-phoenix-a) 
 - **Battle Value:** 2739 
 
 ## Availability 

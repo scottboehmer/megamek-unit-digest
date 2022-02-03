@@ -317,6 +317,7 @@
 
 ## Free Worlds League - Non-Aligned Worlds 
 
+- [Jihad](free-worlds-league-non-aligned-worlds/jihad.md) 
 - [Early Republic](free-worlds-league-non-aligned-worlds/early-republic.md) 
 - [Late Republic](free-worlds-league-non-aligned-worlds/late-republic.md) 
 - [Dark Ages](free-worlds-league-non-aligned-worlds/dark-ages.md) 
@@ -345,7 +346,6 @@
 - [Clan Invasion](lyran-alliance/clan-invasion.md) 
 - [Civil War](lyran-alliance/civil-war.md) 
 - [Jihad](lyran-alliance/jihad.md) 
-- [Early Republic](lyran-alliance/early-republic.md) 
 
 ## Lyran Commonwealth 
 
@@ -419,6 +419,7 @@
 - [Clan Invasion](outworlds-alliance/clan-invasion.md) 
 - [Civil War](outworlds-alliance/civil-war.md) 
 - [Jihad](outworlds-alliance/jihad.md) 
+- [Early Republic](outworlds-alliance/early-republic.md) 
 
 ## Pirate 
 

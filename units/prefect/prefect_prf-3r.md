@@ -23,12 +23,7 @@
 
 ## Availability 
 
-### Late Republic 
-
-- Republic of the Sphere 
-
 ### Dark Ages 
 
 - Free Worlds League 
-- Republic of the Sphere 
 

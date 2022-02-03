@@ -103,6 +103,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Escorpión Imperio 
 - Mercenary 
 - Raven Alliance 
@@ -114,6 +115,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Escorpión Imperio 
 - Mercenary 
 - Raven Alliance 

@@ -877,6 +877,11 @@
 - [**Annihilator C 2**](../../units/annihilator/annihilator_c_2.md) *Sniper (2850)* 
 - [**Annihilator ANH-1A**](../../units/annihilator/annihilator_anh-1a.md) *Juggernaut (3009)* 
 
+#### [Atlas](../../units/atlas.md) 
+
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
+
 #### [Atlas II](../../units/atlas_ii.md) 
 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 

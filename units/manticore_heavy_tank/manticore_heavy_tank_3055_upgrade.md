@@ -38,6 +38,7 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Lyran Alliance 
 - Mercenary 
 

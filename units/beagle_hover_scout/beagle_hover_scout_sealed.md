@@ -23,15 +23,3 @@
 - ComStar 
 - Word of Blake 
 
-### Early Republic 
-
-- Republic of the Sphere 
-
-### Late Republic 
-
-- Republic of the Sphere 
-
-### Dark Ages 
-
-- Republic of the Sphere 
-

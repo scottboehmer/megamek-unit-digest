@@ -52,6 +52,7 @@
 - Capellan Confederation 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -72,6 +73,7 @@
 - Capellan Confederation 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

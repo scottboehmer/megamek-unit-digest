@@ -88,6 +88,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Lyran Alliance 
 - Word of Blake 

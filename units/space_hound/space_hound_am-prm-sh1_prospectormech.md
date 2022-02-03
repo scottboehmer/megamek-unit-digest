@@ -51,6 +51,7 @@
 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Outworlds Alliance 
 - Raven Alliance 
 - Taurian Concordat 
 

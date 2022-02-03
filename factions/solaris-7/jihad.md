@@ -125,6 +125,7 @@
 #### [Hyena](../../units/hyena.md) 
 
 - [**Hyena HYN-4A SalvageMech**](../../units/hyena/hyena_hyn-4a_salvagemech.md) *Scout (3066)* `IndustrialMech` 
+- [**Hyena HYN-4B SalvageMech**](../../units/hyena/hyena_hyn-4b_salvagemech.md) *Undefined (3072)* `IndustrialMech` 
 
 #### [Prowler](../../units/prowler.md) 
 

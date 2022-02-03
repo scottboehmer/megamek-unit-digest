@@ -30,11 +30,13 @@
 
 ### Late Republic 
 
+- ComStar 
 - Mercenary 
 - Rasalhague Dominion 
 
 ### Dark Ages 
 
+- ComStar 
 - Mercenary 
 - Rasalhague Dominion 
 

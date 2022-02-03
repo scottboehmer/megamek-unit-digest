@@ -16,7 +16,7 @@
   - Medium Laser × 6 
 - **Equipment:** 
   - Command Console 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/287/battlemaster-blr-1gc) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/287/battlemaster-blr-1gc) 
 - **Battle Value:** 1577 
 
 ## Availability 

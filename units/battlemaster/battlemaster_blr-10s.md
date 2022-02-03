@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
   - B-Pod × 2 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/280/battlemaster-blr-10s) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/280/battlemaster-blr-10s) 
 - **Battle Value:** 1927 
 
 ## Availability 

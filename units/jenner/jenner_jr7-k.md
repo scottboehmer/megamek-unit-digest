@@ -62,6 +62,7 @@
 
 - Draconis Combine 
 - Mercenary 
+- Outworlds Alliance 
 - Raven Alliance 
 
 ### Late Republic 

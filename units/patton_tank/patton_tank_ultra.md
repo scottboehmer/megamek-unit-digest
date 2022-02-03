@@ -30,6 +30,7 @@
 
 - Clan Wolf-in-Exile 
 - Federated Suns 
+- Filtvelt Coalition 
 - Lyran Alliance 
 
 ### Early Republic 

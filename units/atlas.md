@@ -36,6 +36,63 @@
 - **Battle Value:** 1858 
 - [*More Info*](atlas/atlas_as7-d-dc.md) 
 
+## Atlas C 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Clan Mixed (2830) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 304 
+- **Heat Sinks:** 26 (26) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 15) 
+  - LRM 20 (ammo: 12) 
+  - Streak SRM 6 (ammo: 15) 
+  - Inner Sphere Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
+- **Battle Value:** 2340 
+- [*More Info*](atlas/atlas_c.md) 
+
+## Atlas C 2 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (2840) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 304 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Large Laser × 2 
+  - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
+  - Streak SRM 6 (ammo: 15) 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8431/atlas-c-2) 
+- **Battle Value:** 2736 
+- [*More Info*](atlas/atlas_c_2.md) 
+
+## Atlas C 3 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan (2842) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 304 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 24) 
+  - ER Large Laser × 2 
+  - Arrow IV (ammo: 20) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8432/atlas-c-3) 
+- **Battle Value:** 2534 
+- [*More Info*](atlas/atlas_c_3.md) 
+
 ## Atlas AS7-RS 
 
 - **Role:** Juggernaut 
@@ -180,7 +237,7 @@
   - Anti-Missile System (ammo: 12) 
   - Command Console 
   - CASE 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3749/atlas-as7-k-dc) 
+- **Sources:** Rec Guide:ilClan #24 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3749/atlas-as7-k-dc) 
 - **Battle Value:** 2158 
 - [*More Info*](atlas/atlas_as7-k-dc.md) 
 
@@ -201,25 +258,6 @@
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s) 
 - **Battle Value:** 1929 
 - [*More Info*](atlas/atlas_as7-s.md) 
-
-## Atlas C 
-
-- **Role:** Juggernaut 
-- **Tech Base:** Clan Mixed (3050) 
-- **Chassis:** 100 tons 
-- **Movement:** 3 / 5 
-- **Armor:** 304 
-- **Heat Sinks:** 26 (26) 
-- **Weapons:** 
-  - Ultra AC/20 (ammo: 15) 
-  - LRM 20 (ammo: 12) 
-  - Streak SRM 6 (ammo: 15) 
-  - Inner Sphere Medium Laser × 4 
-- **Equipment:** 
-  - CASE 
-- **Sources:** Battle of Tukayyid - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
-- **Battle Value:** 2340 
-- [*More Info*](atlas/atlas_c.md) 
 
 ## Atlas AS7-S2 
 
@@ -257,9 +295,29 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5461/atlas-as7-s3) 
+- **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5461/atlas-as7-s3) 
 - **Battle Value:** 2378 
 - [*More Info*](atlas/atlas_as7-s3.md) 
+
+## Atlas AS7-S3-DC 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, Light 
+- **Armor:** 304 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - PPC × 2 
+  - LRM 15 w/ Artemis IV (ammo: 16) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - Command Console 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8437/atlas-as7-s3-dc) 
+- **Battle Value:** 2278 
+- [*More Info*](atlas/atlas_as7-s3-dc.md) 
 
 ## Atlas AS7-Dr 
 
@@ -401,4 +459,86 @@
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6832/atlas-as7-k4) 
 - **Battle Value:** 2153 
 - [*More Info*](atlas/atlas_as7-k4.md) 
+
+## Atlas AS7-S4 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3109) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 304 (Stealth) 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER PPC × 2 
+  - Medium X-Pulse Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #24 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8436/atlas-as7-s4) 
+- **Battle Value:** 2568 
+- [*More Info*](atlas/atlas_as7-s4.md) 
+
+## Atlas AS8-S 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere Mixed (3138) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 304 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 24) 
+  - Clan ER Large Laser × 2 
+  - Clan ER Medium Laser × 2 
+  - Streak SRM 6 (ammo: 15) 
+  - Clan LRM 5 (ammo: 24) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Clan CASE II 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8433/atlas-as8-s) 
+- **Battle Value:** 2789 
+- [*More Info*](atlas/atlas_as8-s.md) 
+
+## Atlas AS8-K 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 307 (Ballistic Reinforced) 
+- **Gyroscope:** Heavy-Duty Gyro 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER Large Laser × 2 
+  - Streak SRM 6 (ammo: 15) 
+  - ER Medium Laser × 2 
+  - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8435/atlas-as8-k) 
+- **Battle Value:** 2668 
+- [*More Info*](atlas/atlas_as8-k.md) 
+
+## Atlas AS8-KE 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** 100 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 307 (Ballistic Reinforced) 
+- **Gyroscope:** Heavy-Duty Gyro 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER Large Laser × 2 
+  - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8434/atlas-as8-ke) 
+- **Battle Value:** 2658 
+- [*More Info*](atlas/atlas_as8-ke.md) 
 

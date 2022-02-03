@@ -885,8 +885,6 @@
 - [**Firestarter FS9-S1**](../../units/firestarter/firestarter_fs9-s1.md) *Scout (3049)* `ECM` 
 - [**Firestarter FS9-S2**](../../units/firestarter/firestarter_fs9-s2.md) *Scout (3075)* `Active Probe` 
 - [**Firestarter FS9-S3**](../../units/firestarter/firestarter_fs9-s3.md) *Scout (3075)* `ECM` 
-- [**Firestarter FS9-M2**](../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
-- [**Firestarter FS9-M3**](../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 
 #### [Inquisitor](../../units/inquisitor.md) 
 
@@ -1128,7 +1126,6 @@
 
 - [**Scorpion SCP-1O**](../../units/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)* 
 - [**Scorpion SCP-10M**](../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
-- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -1283,6 +1280,7 @@
 #### [Guillotine](../../units/guillotine.md) 
 
 - [**Guillotine GLT-5M**](../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
+- [**Guillotine GLT-7M**](../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
 
 #### [Hercules](../../units/hercules.md) 
 
@@ -1369,6 +1367,7 @@
 
 - [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
 - [**Goliath GOL-3M**](../../units/goliath/goliath_gol-3m.md) *Sniper (3047)* 
+- [**Goliath GOL-3M2**](../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 - [**Goliath GOL-6M**](../../units/goliath/goliath_gol-6m.md) *Sniper (3083)* 
 
 #### [Phoenix Hawk IIC](../../units/phoenix_hawk_iic.md) 
@@ -1483,9 +1482,11 @@
 
 - [**Atlas AS7-D**](../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas AS7-D-DC**](../../units/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console` 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Diomede](../../units/diomede.md) 

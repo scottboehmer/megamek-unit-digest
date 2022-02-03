@@ -142,6 +142,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Fronc Reaches 
 - Lyran Alliance 

@@ -28,9 +28,13 @@
 - Capellan Confederation 
 - ComStar 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
 - Mercenary 
 - Wolf's Dragoons 
 - Word of Blake 
@@ -41,9 +45,12 @@
 - Clan Nova Cat 
 - ComStar 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
+- Lyran Alliance 
 - Magistracy of Canopus 
 - Mercenary 
 - Outworlds Alliance 
@@ -58,9 +65,11 @@
 - Clan Nova Cat 
 - ComStar 
 - Draconis Combine 
+- Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
+- Lyran Alliance 
 - Magistracy of Canopus 
 - Mercenary 
 - Outworlds Alliance 

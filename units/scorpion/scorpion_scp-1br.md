@@ -21,42 +21,6 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Kell Hounds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
-- Wolf's Dragoons 
-
-### Late Republic 
-
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Kell Hounds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
-- Wolf's Dragoons 
-
 ### Dark Ages 
 
 - Capellan Confederation 

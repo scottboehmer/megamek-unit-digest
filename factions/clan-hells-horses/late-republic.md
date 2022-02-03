@@ -600,7 +600,7 @@
 - [**Incubus 3**](../../units/incubus/incubus_3.md) *Striker (3025)* 
 - [**Incubus 4**](../../units/incubus/incubus_4.md) *Striker (3065)* 
 - [**Incubus 5**](../../units/incubus/incubus_5.md) *Striker (3065)* 
-- [**Incubus 6**](../../units/incubus/incubus_6.md) *Undefined (3113)* 
+- [**Incubus 6**](../../units/incubus/incubus_6.md) *Brawler (3113)* 
 
 #### [Incubus II](../../units/incubus_ii.md) 
 
@@ -1145,7 +1145,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Scylla](../../units/scylla.md) 

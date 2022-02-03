@@ -882,7 +882,6 @@
 #### [Crusader](../../units/crusader.md) 
 
 - [**Crusader CRD-3R**](../../units/crusader/crusader_crd-3r.md) *Missile Boat (2752)* 
-- [**Crusader CRD-4L**](../../units/crusader/crusader_crd-4l.md) *Missile Boat (3049)* 
 
 #### [JagerMech](../../units/jagermech.md) 
 

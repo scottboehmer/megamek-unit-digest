@@ -114,7 +114,6 @@
 
 - [**Beagle Hover Scout (Standard)**](../../units/beagle_hover_scout/beagle_hover_scout_standard.md) *Scout (2666)* `Active Probe` 
 - [**Beagle Hover Scout (TAG)**](../../units/beagle_hover_scout/beagle_hover_scout_tag.md) *Scout (3069)* `Active Probe` , `ECM` , `TAG` 
-- [**Beagle Hover Scout (Sealed)**](../../units/beagle_hover_scout/beagle_hover_scout_sealed.md) *Scout (3076)* `C3i` 
 
 #### [Crow Scout Helicopter](../../units/crow_scout_helicopter.md) 
 
@@ -1389,6 +1388,10 @@
 - [**Mongoose MON-76**](../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
 - [**Mongoose MON-86**](../../units/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe` 
 
+#### [Nexus](../../units/nexus.md) 
+
+- [**Nexus NXS1-C**](../../units/nexus/nexus_nxs1-c.md) *Striker (3140)* 
+
 #### [Opossum](../../units/opossum.md) 
 
 - [**Opossum OPO-2 SalvageMech**](../../units/opossum/opossum_opo-2_salvagemech.md) *Undefined (3145)* `Active Probe` , `IndustrialMech` 
@@ -2107,6 +2110,10 @@
 - [**Nova R**](../../units/nova/nova_r.md) *Skirmisher (3140)* 
 - [**Nova T**](../../units/nova/nova_t.md) *Skirmisher (3142)* 
 
+#### [Raijin](../../units/raijin.md) 
+
+- [**Raijin RJN-301-B**](../../units/raijin/raijin_rjn-301-b.md) *Striker (3122)* 
+
 #### [Shockwave](../../units/shockwave.md) 
 
 - [**Shockwave SKW-2F**](../../units/shockwave/shockwave_skw-2f.md) *Skirmisher (3082)* 
@@ -2573,6 +2580,7 @@
 
 - [**Guillotine GLT-5M**](../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-6WB3**](../../units/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Support` , `ECM` 
+- [**Guillotine GLT-7M**](../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
 
 #### [Guillotine IIC](../../units/guillotine_iic.md) 
 
@@ -2617,11 +2625,13 @@
 - [**Nova Cat B**](../../units/nova_cat/nova_cat_b.md) *Missile Boat (3059)* 
 - [**Nova Cat C**](../../units/nova_cat/nova_cat_c.md) *Sniper (3059)* 
 - [**Nova Cat D**](../../units/nova_cat/nova_cat_d.md) *Brawler (3059)* 
+- [**Nova Cat M**](../../units/nova_cat/nova_cat_m.md) *Juggernaut (3062)* 
 - [**Nova Cat E**](../../units/nova_cat/nova_cat_e.md) *Brawler (3064)* 
 - [**Nova Cat F**](../../units/nova_cat/nova_cat_f.md) *Skirmisher (3070)* `ECM` 
 - [**Nova Cat G**](../../units/nova_cat/nova_cat_g.md) *Missile Boat (3072)* `ECM` 
 - [**Nova Cat H**](../../units/nova_cat/nova_cat_h.md) *Skirmisher (3099)* 
 - [**Nova Cat I**](../../units/nova_cat/nova_cat_i.md) *Juggernaut (3132)* 
+- [**Nova Cat T**](../../units/nova_cat/nova_cat_t.md) *Sniper (3142)* 
 
 #### [Shootist](../../units/shootist.md) 
 
@@ -2725,7 +2735,6 @@
 
 - [**Prefect PRF-1R**](../../units/prefect/prefect_prf-1r.md) *Skirmisher (3085)* 
 - [**Prefect PRF-2R**](../../units/prefect/prefect_prf-2r.md) *Skirmisher (3086)* 
-- [**Prefect PRF-3R**](../../units/prefect/prefect_prf-3r.md) *Skirmisher (3110)* 
 - [**Prefect PRF-1C**](../../units/prefect/prefect_prf-1c.md) *Skirmisher (3133)* `C3 Support` , `ECM` 
 
 #### [Rakshasa](../../units/rakshasa.md) 
@@ -2821,6 +2830,8 @@
 #### [Goliath](../../units/goliath.md) 
 
 - [**Goliath GOL-6M**](../../units/goliath/goliath_gol-6m.md) *Sniper (3083)* 
+- [**Goliath GOL-7C**](../../units/goliath/goliath_gol-7c.md) *Juggernaut (3133)* 
+- [**Goliath GOL-7R**](../../units/goliath/goliath_gol-7r.md) *Sniper (3133)* 
 
 #### [Hatamoto-Chi](../../units/hatamoto-chi.md) 
 
@@ -3074,16 +3085,20 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-Dr**](../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS8-D**](../../units/atlas/atlas_as8-d.md) *Juggernaut (3074)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 - [**Atlas AS7-K3**](../../units/atlas/atlas_as7-k3.md) *Sniper (3083)* `ECM` 
+- [**Atlas AS8-KE**](../../units/atlas/atlas_as8-ke.md) *Juggernaut (3140)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 
 - [**Atlas II AS7-D-H (Devlin)**](../../units/atlas_ii/atlas_ii_as7-d-h_devlin.md) *Juggernaut (3075)* `ECM` , `Unique` 
+- [**Atlas II AS7-DK-H**](../../units/atlas_ii/atlas_ii_as7-dk-h.md) *Brawler (3139)* 
 
 #### [Atlas III](../../units/atlas_iii.md) 
 

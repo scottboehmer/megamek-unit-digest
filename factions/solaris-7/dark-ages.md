@@ -41,7 +41,7 @@
 
 #### [Incubus](../../units/incubus.md) 
 
-- [**Incubus 6**](../../units/incubus/incubus_6.md) *Undefined (3113)* 
+- [**Incubus 6**](../../units/incubus/incubus_6.md) *Brawler (3113)* 
 
 #### [Mantis](../../units/mantis.md) 
 

@@ -33,19 +33,17 @@
 
 ### Civil War 
 
+- Clan Fire Mandrill 
 - Clan Jade Falcon 
 - Clan Snow Raven 
+- Clan Star Adder 
 - Clan Steel Viper 
 
 ### Jihad 
 
-- Clan Diamond Shark 
-- Clan Ghost Bear 
-- Clan Hell's Horses 
+- Clan Fire Mandrill 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Snow Raven 
+- Clan Star Adder 
 - Clan Steel Viper 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 

@@ -75,7 +75,7 @@
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Kell Hounds 
-- Lyran Alliance 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

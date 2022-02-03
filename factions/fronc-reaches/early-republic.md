@@ -771,8 +771,6 @@
 - [**Firestarter FS9-S1**](../../units/firestarter/firestarter_fs9-s1.md) *Scout (3049)* `ECM` 
 - [**Firestarter FS9-C**](../../units/firestarter/firestarter_fs9-c.md) *Striker (3064)* 
 - [**Firestarter FS9-P**](../../units/firestarter/firestarter_fs9-p.md) *Striker (3064)* 
-- [**Firestarter FS9-M2**](../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
-- [**Firestarter FS9-M3**](../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 
 #### [Garm](../../units/garm.md) 
 
@@ -1088,6 +1086,7 @@
 #### [Crusader](../../units/crusader.md) 
 
 - [**Crusader CRD-3R**](../../units/crusader/crusader_crd-3r.md) *Missile Boat (2752)* 
+- [**Crusader CRD-4L**](../../units/crusader/crusader_crd-4l.md) *Missile Boat (3049)* 
 
 #### [Deep Lord](../../units/deep_lord.md) 
 

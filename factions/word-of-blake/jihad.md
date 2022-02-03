@@ -1669,7 +1669,6 @@
 - [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 - [**Avatar AV1-OH**](../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
 - [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
-- [**Avatar AV1-OI**](../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 
 #### [Cataphract](../../units/cataphract.md) 
 
@@ -1895,12 +1894,15 @@
 
 - [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
 - [**Goliath GOL-3M**](../../units/goliath/goliath_gol-3m.md) *Sniper (3047)* 
+- [**Goliath GOL-3M2**](../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 - [**Goliath GOL-5W**](../../units/goliath/goliath_gol-5w.md) *Brawler (3071)* `C3i` , `ECM` , `Stealth` 
 
 #### [Grand Crusader](../../units/grand_crusader.md) 
 
 - [**Grand Crusader GRN-D-01**](../../units/grand_crusader/grand_crusader_grn-d-01.md) *Missile Boat (3053)* 
+- [**Grand Crusader GRN-D-01-X**](../../units/grand_crusader/grand_crusader_grn-d-01-x.md) *Missile Boat (3053)* 
 - [**Grand Crusader GRN-D-02**](../../units/grand_crusader/grand_crusader_grn-d-02.md) *Missile Boat (3056)* 
+- [**Grand Crusader GRN-D-02-B**](../../units/grand_crusader/grand_crusader_grn-d-02-b.md) *Sniper (3057)* 
 
 #### [Grand Crusader II](../../units/grand_crusader_ii.md) 
 
@@ -2195,5 +2197,5 @@
 
 #### [Omega](../../units/omega.md) 
 
-- [**Omega SHP-4X**](../../units/omega/omega_shp-4x.md) *Sniper (3078)* `C3i` 
+- [**Omega SHP-4X**](../../units/omega/omega_shp-4x.md) *Undefined (3078)* `C3i` 
 

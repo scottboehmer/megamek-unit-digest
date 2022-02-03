@@ -145,3 +145,41 @@
 - **Battle Value:** 2541 
 - [*More Info*](rifleman_iic/rifleman_iic_8.md) 
 
+## Rifleman IIC 9 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan Mixed (3148) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 3 / 5 
+  - **Jumping:** 3 
+- **Armor:** 211 (Laser Reflective) 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - ER Large Laser × 4 
+- **Equipment:** 
+  - Inner Sphere Coolant Pod × 2 
+  - Targeting Computer 
+- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8418/rifleman-iic-9) 
+- **Battle Value:** 2792 
+- [*More Info*](rifleman_iic/rifleman_iic_9.md) 
+
+## Rifleman IIC 10 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Clan Mixed (3149) 
+- **Chassis:** 65 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8), XL 
+  - **Jumping:** 4 
+- **Armor:** 211 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - ProtoMech AC/8 × 4 (ammo: 80) 
+  - ER Small Laser 
+- **Equipment:** 
+  - Active Probe 
+  - CASE II 
+  - Inner Sphere Supercharger 
+- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8419/rifleman-iic-10) 
+- **Battle Value:** 1587 
+- [*More Info*](rifleman_iic/rifleman_iic_10.md) 
+

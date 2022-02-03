@@ -1472,7 +1472,6 @@
 - [**Scorpion SCP-1O**](../../units/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)* 
 - [**Scorpion SCP-12K**](../../units/scorpion/scorpion_scp-12k.md) *Missile Boat (3071)* `C3 Main` , `TAG` 
 - [**Scorpion SCP-10M**](../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
-- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -1902,6 +1901,7 @@
 - [**Katana CRK-5003-C**](../../units/katana/katana_crk-5003-c.md) *Juggernaut (3057)* `C3 Support` 
 - [**Katana CRK-5003-CM**](../../units/katana/katana_crk-5003-cm.md) *Juggernaut (3057)* `C3 Main` , `TAG` 
 - [**Katana CRK-5003-CJ**](../../units/katana/katana_crk-5003-cj.md) *Skirmisher (3071)* `C3 Support` 
+- [**Katana CRK-5006-1**](../../units/katana/katana_crk-5006-1.md) *Undefined (3108)* 
 
 #### [Longbow](../../units/longbow.md) 
 
@@ -2028,12 +2028,14 @@
 
 - [**Atlas AS7-D**](../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas AS7-D-DC**](../../units/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console` 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-C**](../../units/atlas/atlas_as7-c.md) *Sniper (3050)* `C3 Support` 
 - [**Atlas AS7-CM**](../../units/atlas/atlas_as7-cm.md) *Sniper (3050)* `C3 Main` , `TAG` 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 - [**Atlas AS7-K4**](../../units/atlas/atlas_as7-k4.md) *Brawler (3098)* `ECM` 
 

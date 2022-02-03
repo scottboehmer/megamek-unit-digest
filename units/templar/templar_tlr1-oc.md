@@ -38,9 +38,11 @@
 
 ### Late Republic 
 
+- ComStar 
 - Federated Suns 
 
 ### Dark Ages 
 
+- ComStar 
 - Federated Suns 
 

@@ -1391,9 +1391,12 @@
 
 #### [Goliath](../../units/goliath.md) 
 
+- [**Goliath GOL-3M2**](../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 - [**Goliath GOL-2H**](../../units/goliath/goliath_gol-2h.md) *Sniper (3067)* 
 - [**Goliath GOL-6H**](../../units/goliath/goliath_gol-6h.md) *Sniper (3071)* 
 - [**Goliath GOL-3L**](../../units/goliath/goliath_gol-3l.md) *Missile Boat (3082)* `ECM` , `Stealth` 
+- [**Goliath GOL-7C**](../../units/goliath/goliath_gol-7c.md) *Juggernaut (3133)* 
+- [**Goliath GOL-7R**](../../units/goliath/goliath_gol-7r.md) *Sniper (3133)* 
 
 #### [HawkWolf](../../units/hawkwolf.md) 
 
@@ -1453,6 +1456,7 @@
 - [**Stalker STK-3Fb**](../../units/stalker/stalker_stk-3fb.md) *Juggernaut (2705)* `ECM` 
 - [**Stalker STK-5M**](../../units/stalker/stalker_stk-5m.md) *Juggernaut (3050)* 
 - [**Stalker STK-6M**](../../units/stalker/stalker_stk-6m.md) *Sniper (3062)* 
+- [**Stalker STK-9F**](../../units/stalker/stalker_stk-9f.md) *Juggernaut (3142)* `Active Probe` 
 
 #### [Stalker II](../../units/stalker_ii.md) 
 
@@ -1499,6 +1503,7 @@
 - [**Atlas AS7-S**](../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
 - [**Atlas AS7-S2**](../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 - [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
+- [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Diomede](../../units/diomede.md) 

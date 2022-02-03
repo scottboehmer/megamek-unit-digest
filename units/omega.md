@@ -2,7 +2,7 @@
 
 ## Omega SHP-4X 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3078) 
 - **Chassis:** 150 tons (Superheavy Endo Steel) 
 - **Movement:** 2 / 3, XL 

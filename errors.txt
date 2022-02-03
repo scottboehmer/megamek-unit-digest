@@ -1,5 +1,6 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to parse 'Elemental III Battle Armor [Flamer].blk': Unexpected start of block (line:30)
 
 --------------------------------------------------
 Unrecognized Components:
@@ -12,6 +13,7 @@ Tessen TSN-X4R 'Rapunzel' - unknown battle value
 --------------------------------------------------
 Units without Roles:
 Arctic Wolf A
+Hyena HYN-4B SalvageMech
 Patron LoaderMech PTN-1
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
@@ -34,7 +36,6 @@ Thunderbolt TDR-5LS
 Dragoon AEM-02
 Dragoon AEM-03
 Dragoon AEM-04
-Vixen (Incubus) 6
 Burrower DTM-1 MiningMech
 Demeter WLD-1 AgroMech
 Exo HaulerMech HMX-1
@@ -51,6 +52,7 @@ StrongArm SC CV ConstructionMech
 StrongArm SC CVI ConstructionMech
 Arana MilitiaMech ARA-S-1
 Reptar MilitiaMech EPT-C-1
+Omega SHP-4X
 Bull Shark BSK-M3
 Bull Shark BSK-MAZ
 Corsair COR-5R
@@ -84,6 +86,16 @@ Mad Cat III 2
 Stinger C 2
 Stinger C
 Kodiak 6
+Battle Cobra I
+Katana (Crockett) CRK-5006-1
+Star Python (Standard)
+Ryoken III (Skinwalker) A
+Ryoken III (Skinwalker) B
+Ryoken III (Skinwalker) C
+Ryoken III (Skinwalker) D
+Ryoken III (Skinwalker) E
+Ryoken III (Skinwalker) F
+Ryoken III (Skinwalker) Prime
 Thresher Mk II (Standard)
 Templar III TLR2-J 'Arthur'
 Hatchetman HCT-5DT
@@ -112,6 +124,11 @@ Crosscut IIC SolahmaMech
 Gauss-Buster MilitiaMech
 Uni ATAE-70 ArtilleryMech
 Ti Ts'ang TSG-9DDC 'Prototype'
+Ryoken III-XP (Skinwalker) A
+Ryoken III-XP (Skinwalker) B
+Ryoken III-XP (Skinwalker) C
+Ryoken III-XP (Skinwalker) D
+Ryoken III-XP (Skinwalker) Prime
 Pathfinder PFF-2T
 Agrotera AGT-UA 'Ariel'
 Buccaneer BCN-6PX 'Pan'
@@ -204,4 +221,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5171 mtf files -> 5171 parsed files -> 4952 converted files -> 4944 validated units
+5235 mtf files -> 5234 parsed files -> 5013 converted files -> 5005 validated units

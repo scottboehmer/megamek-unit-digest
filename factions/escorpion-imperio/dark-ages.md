@@ -611,10 +611,6 @@
 - [**Nova K**](../../units/nova/nova_k.md) *Brawler (3134)* 
 - [**Nova L**](../../units/nova/nova_l.md) *Skirmisher (3134)* 
 
-#### [Raijin](../../units/raijin.md) 
-
-- [**Raijin RJN-101-A**](../../units/raijin/raijin_rjn-101-a.md) *Striker (3053)* 
-
 #### [Rhino](../../units/rhino.md) 
 
 - [**Rhino (Standard)**](../../units/rhino/rhino_standard.md) *Undefined (3140)* 
@@ -649,6 +645,7 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
@@ -823,6 +820,7 @@
 - [**Night Gyr E**](../../units/night_gyr/night_gyr_e.md) *Skirmisher (3061)* 
 - [**Night Gyr H**](../../units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](../../units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
+- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
 
 #### [Orion](../../units/orion.md) 
 
@@ -975,7 +973,7 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

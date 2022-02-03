@@ -98,6 +98,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Lyran Alliance 
 - Word of Blake 
 

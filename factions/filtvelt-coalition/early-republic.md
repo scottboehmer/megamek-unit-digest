@@ -738,8 +738,6 @@
 - [**Firestarter FS9-S1**](../../units/firestarter/firestarter_fs9-s1.md) *Scout (3049)* `ECM` 
 - [**Firestarter FS9-C**](../../units/firestarter/firestarter_fs9-c.md) *Striker (3064)* 
 - [**Firestarter FS9-P**](../../units/firestarter/firestarter_fs9-p.md) *Striker (3064)* 
-- [**Firestarter FS9-M2**](../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
-- [**Firestarter FS9-M3**](../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
 
 #### [Garm](../../units/garm.md) 

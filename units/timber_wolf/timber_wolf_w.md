@@ -30,6 +30,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Escorpión Imperio 
 - Kell Hounds 
 - Mercenary 
@@ -45,6 +46,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Escorpión Imperio 
 - Kell Hounds 
 - Mercenary 

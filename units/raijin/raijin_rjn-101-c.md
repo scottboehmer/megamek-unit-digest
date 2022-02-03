@@ -17,7 +17,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn-101-c) 
+- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn-101-c) 
 - **Battle Value:** 1389 
 
 ## Availability 

@@ -44,14 +44,14 @@
 ## Hel "Loki Mk II" B 
 
 - **Role:** Brawler 
-- **Tech Base:** Clan (3121) 
+- **Tech Base:** Clan Mixed (3121) 
 - **Chassis:** 65 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
 - **Armor:** 182 (Ferro Fibrous) 
 - **Cockpit:** Small 
 - **Heat Sinks:** 15 (30) 
 - **Weapons:** 
-  - Long Tom Cannon (ammo: 15) 
+  - Inner Sphere Long Tom Cannon (ammo: 15) 
   - ER Large Laser 
   - Medium Pulse Laser × 4 
 - **Equipment:** 

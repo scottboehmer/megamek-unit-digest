@@ -59,7 +59,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3197/thresher-edward) 
+- **Sources:** Jihad Turning Points: Luthien - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3197/thresher-edward) 
 - **Battle Value:** 2104 
 - [*More Info*](thresher/thresher_edward.md) 
 

@@ -22,17 +22,6 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Republic of the Sphere 
-- Rim Commonality 
-
 ### Late Republic 
 
 - Capellan Confederation 

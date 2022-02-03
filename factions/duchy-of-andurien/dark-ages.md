@@ -1553,6 +1553,7 @@
 #### [Guillotine](../../units/guillotine.md) 
 
 - [**Guillotine GLT-5M**](../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
+- [**Guillotine GLT-7M**](../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
 
 #### [Hercules](../../units/hercules.md) 
 
@@ -1651,7 +1652,10 @@
 
 #### [Goliath](../../units/goliath.md) 
 
+- [**Goliath GOL-3M2**](../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 - [**Goliath GOL-6M**](../../units/goliath/goliath_gol-6m.md) *Sniper (3083)* 
+- [**Goliath GOL-7C**](../../units/goliath/goliath_gol-7c.md) *Juggernaut (3133)* 
+- [**Goliath GOL-7R**](../../units/goliath/goliath_gol-7r.md) *Sniper (3133)* 
 
 #### [Phoenix Hawk IIC](../../units/phoenix_hawk_iic.md) 
 
@@ -1705,6 +1709,7 @@
 - [**Stalker STK-3Fb**](../../units/stalker/stalker_stk-3fb.md) *Juggernaut (2705)* `ECM` 
 - [**Stalker STK-5M**](../../units/stalker/stalker_stk-5m.md) *Juggernaut (3050)* 
 - [**Stalker STK-6M**](../../units/stalker/stalker_stk-6m.md) *Sniper (3062)* 
+- [**Stalker STK-9F**](../../units/stalker/stalker_stk-9f.md) *Juggernaut (3142)* `Active Probe` 
 
 #### [Stalker II](../../units/stalker_ii.md) 
 
@@ -1771,8 +1776,15 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
+- [**Atlas AS8-KE**](../../units/atlas/atlas_as8-ke.md) *Juggernaut (3140)* 
+
+#### [Atlas II](../../units/atlas_ii.md) 
+
+- [**Atlas II AS7-DK-H**](../../units/atlas_ii/atlas_ii_as7-dk-h.md) *Brawler (3139)* 
 
 #### [Diomede](../../units/diomede.md) 
 

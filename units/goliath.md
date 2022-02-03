@@ -30,9 +30,27 @@
   - Machine Gun × 2 (ammo: 400) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m) 
+- **Sources:** Rec Guide:ilClan #22 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m) 
 - **Battle Value:** 1537 
 - [*More Info*](goliath/goliath_gol-3m.md) 
+
+## Goliath GOL-3M2 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 80 tons Quad 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 240 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - LRM 10 × 2 (ammo: 24) 
+  - Small Pulse Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8405/goliath-gol-3m2) 
+- **Battle Value:** 1631 
+- [*More Info*](goliath/goliath_gol-3m2.md) 
 
 ## Goliath GOL-3S 
 
@@ -185,6 +203,42 @@
 - **Battle Value:** 1742 
 - [*More Info*](goliath/goliath_gol-6m.md) 
 
+## Goliath GOL-7C 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3133) 
+- **Chassis:** 80 tons Quad 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 254 (Light Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 40) 
+  - Streak SRM 6 × 2 (ammo: 30) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8406/goliath-gol-7c) 
+- **Battle Value:** 1790 
+- [*More Info*](goliath/goliath_gol-7c.md) 
+
+## Goliath GOL-7R 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3133) 
+- **Chassis:** 80 tons Quad 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 254 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - LRM 10 × 2 (ammo: 24) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8408/goliath-gol-7r) 
+- **Battle Value:** 1888 
+- [*More Info*](goliath/goliath_gol-7r.md) 
+
 ## Goliath C 
 
 - **Role:** Sniper 
@@ -208,4 +262,24 @@
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7438/goliath-c) 
 - **Battle Value:** 2222 
 - [*More Info*](goliath/goliath_c.md) 
+
+## Goliath GOL-7K 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3148) 
+- **Chassis:** 80 tons Quad 
+- **Movement:** 4 / 6 (8), Light 
+- **Armor:** 248 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Heavy PPC w/ PPC Capacitor 
+  - MRM 10 w/ Apollo FCS × 2 (ammo: 48) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - M-Pod × 5 
+  - Supercharger 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8407/goliath-gol-7k) 
+- **Battle Value:** 1894 
+- [*More Info*](goliath/goliath_gol-7k.md) 
 

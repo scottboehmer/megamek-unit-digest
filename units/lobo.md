@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5669/lobo-3) 
+- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5669/lobo-3) 
 - **Battle Value:** 1784 
 - [*More Info*](lobo/lobo_3.md) 
 

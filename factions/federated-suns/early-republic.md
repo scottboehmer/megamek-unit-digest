@@ -33,7 +33,6 @@
 #### [Savannah Master Hovercraft](../../units/savannah_master_hovercraft.md) 
 
 - [**Savannah Master Hovercraft (Standard)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
-- [**Savannah Master Hovercraft (SL)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_sl.md) *Scout (3033)* 
 - [**Savannah Master Hovercraft (Interdictor)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* `ECM` 
 
 #### [Speeder](../../units/speeder.md) 
@@ -1194,8 +1193,6 @@
 - [**Firestarter FS9-S1**](../../units/firestarter/firestarter_fs9-s1.md) *Scout (3049)* `ECM` 
 - [**Firestarter FS9-S2**](../../units/firestarter/firestarter_fs9-s2.md) *Scout (3075)* `Active Probe` 
 - [**Firestarter FS9-S3**](../../units/firestarter/firestarter_fs9-s3.md) *Scout (3075)* `ECM` 
-- [**Firestarter FS9-M2**](../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
-- [**Firestarter FS9-M3**](../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
 
 #### [Garm](../../units/garm.md) 
@@ -1462,7 +1459,6 @@
 
 - [**Shockwave SKW-2F**](../../units/shockwave/shockwave_skw-2f.md) *Skirmisher (3082)* 
 - [**Shockwave SKW-4G**](../../units/shockwave/shockwave_skw-4g.md) *Skirmisher (3083)* 
-- [**Shockwave SKW-6H**](../../units/shockwave/shockwave_skw-6h.md) *Sniper (3102)* 
 
 #### [Starslayer](../../units/starslayer.md) 
 
@@ -1546,10 +1542,6 @@
 - [**Rook NH-2**](../../units/rook/rook_nh-2.md) *Skirmisher (3076)* 
 - [**Rook NH-3X**](../../units/rook/rook_nh-3x.md) *Striker (3076)* 
 - [**Rook NH-1X 'Rook-X'**](../../units/rook/rook_nh-1x_rook-x.md) *Juggernaut (3077)* 
-
-#### [Scorpion](../../units/scorpion.md) 
-
-- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -2081,10 +2073,14 @@
 
 - [**Atlas AS7-D**](../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas AS7-D-DC**](../../units/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console` 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
 - [**Atlas AS7-S**](../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
+- [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
 - [**Atlas AS8-D**](../../units/atlas/atlas_as8-d.md) *Juggernaut (3074)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 

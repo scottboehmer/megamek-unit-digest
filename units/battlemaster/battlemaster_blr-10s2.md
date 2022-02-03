@@ -21,7 +21,7 @@
   - B-Pod × 2 
   - C3 Support 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/281/battlemaster-blr-10s2) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/281/battlemaster-blr-10s2) 
 - **Battle Value:** 1927 
 
 ## Availability 

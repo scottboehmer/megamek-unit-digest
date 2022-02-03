@@ -85,6 +85,24 @@
 - **Battle Value:** 2084 
 - [*More Info*](nova_cat/nova_cat_d.md) 
 
+## Nova Cat M 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Clan (3062) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 216 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - LB 20-X AC × 2 (ammo: 10 Standard, 10 Cluster) 
+  - Streak SRM 6 (ammo: 15) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #23 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8422/nova-cat-m) 
+- **Battle Value:** 2024 
+- [*More Info*](nova_cat/nova_cat_m.md) 
+
 ## Nova Cat E 
 
 - **Role:** Brawler 
@@ -178,4 +196,21 @@
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6870/nova-cat-i) 
 - **Battle Value:** 2918 
 - [*More Info*](nova_cat/nova_cat_i.md) 
+
+## Nova Cat T 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan Mixed (3142) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8), XL 
+- **Armor:** 216 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Large Pulse Laser × 3 
+- **Equipment:** 
+  - Inner Sphere Supercharger 
+- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8421/nova-cat-t) 
+- **Battle Value:** 2855 
+- [*More Info*](nova_cat/nova_cat_t.md) 
 

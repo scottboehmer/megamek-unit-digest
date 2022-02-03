@@ -108,6 +108,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Ghost Bear 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -131,6 +132,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Ghost Bear 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -154,6 +156,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Ghost Bear 
 - ComStar 
 - Draconis Combine 
 - Escorpión Imperio 

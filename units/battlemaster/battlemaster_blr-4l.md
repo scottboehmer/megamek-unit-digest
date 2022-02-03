@@ -18,7 +18,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/293/battlemaster-blr-4l) 
+- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/293/battlemaster-blr-4l) 
 - **Battle Value:** 1890 
 
 ## Availability 

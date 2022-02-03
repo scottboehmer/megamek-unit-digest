@@ -23,26 +23,6 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Filtvelt Coalition 
-- Free Worlds League - Non-Aligned Worlds 
-- Fronc Reaches 
-- Lyran Commonwealth 
-- Marian Hegemony 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
-- Taurian Concordat 
-
 ### Late Republic 
 
 - Capellan Confederation 

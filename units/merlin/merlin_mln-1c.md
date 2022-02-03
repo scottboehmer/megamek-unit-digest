@@ -33,6 +33,7 @@
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Mercenary 
+- Outworlds Alliance 
 - Raven Alliance 
 - Taurian Concordat 
 

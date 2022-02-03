@@ -1,8 +1,8 @@
-# Ryoken III-XP 
+# Ryoken III-XP (Skinwalker-XP) 
 
-## Ryoken III-XP Prime 
+## Skinwalker-XP "Ryoken III-XP" Prime 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -17,11 +17,11 @@
   - Clan SRM 6 × 2 (ammo: 30) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7378/ryoken-iii-xp-skinwalker-prime) 
 - **Battle Value:** 3063 
-- [*More Info*](ryoken_iii-xp/ryoken_iii-xp_prime.md) 
+- [*More Info*](skinwalker-xp/skinwalker-xp_prime.md) 
 
-## Ryoken III-XP A 
+## Skinwalker-XP "Ryoken III-XP" A 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -39,11 +39,11 @@
   - Radical Heat Sink System 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379/ryoken-iii-xp-skinwalker-a) 
 - **Battle Value:** 3915 
-- [*More Info*](ryoken_iii-xp/ryoken_iii-xp_a.md) 
+- [*More Info*](skinwalker-xp/skinwalker-xp_a.md) 
 
-## Ryoken III-XP B 
+## Skinwalker-XP "Ryoken III-XP" B 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (14), XL 
@@ -61,11 +61,11 @@
   - Clan CASE II 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380/ryoken-iii-xp-skinwalker-b) 
 - **Battle Value:** 3667 
-- [*More Info*](ryoken_iii-xp/ryoken_iii-xp_b.md) 
+- [*More Info*](skinwalker-xp/skinwalker-xp_b.md) 
 
-## Ryoken III-XP C 
+## Skinwalker-XP "Ryoken III-XP" C 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -82,11 +82,11 @@
   - Clan Targeting Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381/ryoken-iii-xp-skinwalker-c) 
 - **Battle Value:** 4428 
-- [*More Info*](ryoken_iii-xp/ryoken_iii-xp_c.md) 
+- [*More Info*](skinwalker-xp/skinwalker-xp_c.md) 
 
-## Ryoken III-XP D 
+## Skinwalker-XP "Ryoken III-XP" D 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -106,5 +106,5 @@
   - Clan CASE II 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382/ryoken-iii-xp-skinwalker-d) 
 - **Battle Value:** 2533 
-- [*More Info*](ryoken_iii-xp/ryoken_iii-xp_d.md) 
+- [*More Info*](skinwalker-xp/skinwalker-xp_d.md) 
 

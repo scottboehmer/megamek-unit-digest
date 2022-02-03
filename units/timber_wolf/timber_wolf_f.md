@@ -56,6 +56,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 
@@ -71,6 +72,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 

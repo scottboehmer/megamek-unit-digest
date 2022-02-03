@@ -385,7 +385,6 @@
 #### [Scorpion](../../units/scorpion.md) 
 
 - [**Scorpion SCP-1TB**](../../units/scorpion/scorpion_scp-1tb.md) *Missile Boat (3072)* 
-- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 ### 65 Tons 
 
@@ -505,6 +504,12 @@
 - [**Annihilator ANH-2A**](../../units/annihilator/annihilator_anh-2a.md) *Juggernaut (3048)* 
 - [**Annihilator ANH-3A**](../../units/annihilator/annihilator_anh-3a.md) *Juggernaut (3068)* 
 - [**Annihilator ANH-4A**](../../units/annihilator/annihilator_anh-4a.md) *Sniper (3069)* 
+
+#### [Atlas](../../units/atlas.md) 
+
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
+- [**Atlas AS7-S4**](../../units/atlas/atlas_as7-s4.md) *Sniper (3109)* `ECM` , `Stealth` 
 
 #### [Diomede](../../units/diomede.md) 
 

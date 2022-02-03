@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3 Main × 2 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm) 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm) 
 - **Battle Value:** 1883 
 
 ## Availability 

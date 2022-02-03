@@ -27,10 +27,12 @@
 
 ### Late Republic 
 
+- ComStar 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- ComStar 
 - Republic of the Sphere 
 

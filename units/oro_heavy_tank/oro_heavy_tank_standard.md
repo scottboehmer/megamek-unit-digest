@@ -92,6 +92,7 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Outworlds Alliance 
 - Rasalhague Dominion 
 - Raven Alliance 
 

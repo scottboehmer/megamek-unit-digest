@@ -109,7 +109,7 @@
   - Light PPC × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5720/fafnir-fnr-6u) 
+- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5720/fafnir-fnr-6u) 
 - **Battle Value:** 2234 
 - [*More Info*](fafnir/fafnir_fnr-6u.md) 
 

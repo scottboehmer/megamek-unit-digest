@@ -26,26 +26,33 @@
 
 - Federated Suns 
 - Lyran Alliance 
+- Marian Hegemony 
 - Mercenary 
 
 ### Early Republic 
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Late Republic 
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+- Taurian Concordat 
 

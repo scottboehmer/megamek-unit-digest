@@ -24,12 +24,14 @@
 
 ### Late Republic 
 
+- ComStar 
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- ComStar 
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 

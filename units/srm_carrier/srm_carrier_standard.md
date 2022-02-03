@@ -108,6 +108,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -131,6 +132,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -154,6 +156,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Escorpión Imperio 
@@ -177,8 +180,6 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -203,7 +204,6 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
-- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -228,12 +228,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
 - Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -250,8 +245,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 

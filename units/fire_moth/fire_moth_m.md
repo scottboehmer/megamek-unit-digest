@@ -26,6 +26,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
 

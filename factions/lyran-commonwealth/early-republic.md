@@ -30,7 +30,6 @@
 #### [Savannah Master Hovercraft](../../units/savannah_master_hovercraft.md) 
 
 - [**Savannah Master Hovercraft (Standard)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
-- [**Savannah Master Hovercraft (SL)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_sl.md) *Scout (3033)* 
 - [**Savannah Master Hovercraft (Interdictor)**](../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* `ECM` 
 
 #### [Speeder](../../units/speeder.md) 
@@ -126,6 +125,9 @@
 
 #### [Centipede Scout Car](../../units/centipede_scout_car.md) 
 
+- [**Centipede Scout Car (Standard)**](../../units/centipede_scout_car/centipede_scout_car_standard.md) *Scout (3054)* `Active Probe` 
+- [**Centipede Scout Car (SRM)**](../../units/centipede_scout_car/centipede_scout_car_srm.md) *Scout (3062)* 
+- [**Centipede Scout Car (TAG)**](../../units/centipede_scout_car/centipede_scout_car_tag.md) *Scout (3067)* `Active Probe` , `ECM` , `TAG` 
 - [**Centipede Scout Car Commando**](../../units/centipede_scout_car/centipede_scout_car_commando.md) *Scout (3074)* `ECM` 
 
 #### [Heavy Hover APC](../../units/heavy_hover_apc.md) 
@@ -403,6 +405,7 @@
 - [**Pegasus Scout Hover Tank (Missile)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_missile.md) *Striker (2854)* 
 - [**Pegasus Scout Hover Tank (Unarmed)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_unarmed.md) *Scout (2873)* 
 - [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* `Active Probe` , `ECM` , `TAG` 
+- [**Pegasus Scout Hover Tank (C3)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) *Striker (3070)* `C3 Support` 
 - [**Pegasus Scout Hover Tank (Sealed)**](../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) *Striker (3076)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Plainsman Medium Hovertank](../../units/plainsman_medium_hovertank.md) 
@@ -422,6 +425,13 @@
 #### [Saracen Medium Hover Tank](../../units/saracen_medium_hover_tank.md) 
 
 - [**Saracen Medium Hover Tank (Standard)**](../../units/saracen_medium_hover_tank/saracen_medium_hover_tank_standard.md) *Striker (2932)* 
+
+#### [Saxon APC](../../units/saxon_apc.md) 
+
+- [**Saxon APC (Standard)**](../../units/saxon_apc/saxon_apc_standard.md) *Scout (3070)* `Transport:5.0` 
+- [**Saxon APC (Laser)**](../../units/saxon_apc/saxon_apc_laser.md) *Scout (3071)* `Transport:5.0` 
+- [**Saxon APC (MASH)**](../../units/saxon_apc/saxon_apc_mash.md) *Scout (3071)* 
+- [**Saxon APC (HQ)**](../../units/saxon_apc/saxon_apc_hq.md) *Scout (3074)* `TAG` 
 
 #### [Scimitar Medium Hover Tank](../../units/scimitar_medium_hover_tank.md) 
 
@@ -522,6 +532,7 @@
 
 - [**Condor Heavy Hover Tank (Standard)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_standard.md) *Striker (2564)* 
 - [**Condor Heavy Hover Tank (Laser)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_laser.md) *Striker (3061)* 
+- [**Condor Heavy Hover Tank (Upgrade) (Standard)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_standard.md) *Missile Boat (3066)* 
 - [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* `ECM` 
 
 #### [Drillson Heavy Hover Tank](../../units/drillson_heavy_hover_tank.md) 
@@ -534,6 +545,8 @@
 
 #### [Fulcrum Heavy Hovertank](../../units/fulcrum_heavy_hovertank.md) 
 
+- [**Fulcrum Heavy Hovertank (Standard)**](../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_standard.md) *Striker (3057)* `ECM` , `TAG` 
+- [**Fulcrum Heavy Hovertank II**](../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_ii.md) *Striker (3067)* `ECM` , `TAG` 
 - [**Fulcrum Heavy Hovertank III**](../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_iii.md) *Striker (3078)* `C3 Support` , `ECM` , `TAG` 
 
 #### [Hachiman Fire Support Tank](../../units/hachiman_fire_support_tank.md) 
@@ -1182,8 +1195,6 @@
 - [**Firestarter FS9-S1**](../../units/firestarter/firestarter_fs9-s1.md) *Scout (3049)* `ECM` 
 - [**Firestarter FS9-S2**](../../units/firestarter/firestarter_fs9-s2.md) *Scout (3075)* `Active Probe` 
 - [**Firestarter FS9-S3**](../../units/firestarter/firestarter_fs9-s3.md) *Scout (3075)* `ECM` 
-- [**Firestarter FS9-M2**](../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
-- [**Firestarter FS9-M3**](../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
 
 #### [Hollander](../../units/hollander.md) 
@@ -1532,7 +1543,6 @@
 #### [Scorpion](../../units/scorpion.md) 
 
 - [**Scorpion SCP-12S**](../../units/scorpion/scorpion_scp-12s.md) *Skirmisher (3066)* 
-- [**Scorpion SCP-1BR**](../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -2071,12 +2081,15 @@
 
 - [**Atlas AS7-D**](../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas AS7-D-DC**](../../units/atlas/atlas_as7-d-dc.md) *Juggernaut (2776)* `Command Console` 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K-DC**](../../units/atlas/atlas_as7-k-dc.md) *Sniper (3050)* `Command Console` 
 - [**Atlas AS7-S**](../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
 - [**Atlas AS7-S2**](../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 - [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
+- [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
 - [**Atlas AS7-Dr**](../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 - [**Atlas AS7-K3**](../../units/atlas/atlas_as7-k3.md) *Sniper (3083)* `ECM` 

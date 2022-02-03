@@ -1038,7 +1038,6 @@
 #### [Goliath](../../units/goliath.md) 
 
 - [**Goliath GOL-1H**](../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
-- [**Goliath GOL-3M**](../../units/goliath/goliath_gol-3m.md) *Sniper (3047)* 
 - [**Goliath GOL-2H**](../../units/goliath/goliath_gol-2h.md) *Sniper (3067)* 
 - [**Goliath GOL-6H**](../../units/goliath/goliath_gol-6h.md) *Sniper (3071)* 
 

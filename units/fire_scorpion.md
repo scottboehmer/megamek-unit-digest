@@ -54,7 +54,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3) 
+- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3) 
 - **Battle Value:** 1904 
 - [*More Info*](fire_scorpion/fire_scorpion_3.md) 
 

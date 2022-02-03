@@ -555,11 +555,19 @@
 - [**Annihilator ANH-2A**](../../units/annihilator/annihilator_anh-2a.md) *Juggernaut (3048)* 
 - [**Annihilator ANH-3A**](../../units/annihilator/annihilator_anh-3a.md) *Juggernaut (3068)* 
 - [**Annihilator ANH-4A**](../../units/annihilator/annihilator_anh-4a.md) *Sniper (3069)* 
+- [**Annihilator ANH-5W**](../../units/annihilator/annihilator_anh-5w.md) *Sniper (3134)* 
 
 #### [Atlas](../../units/atlas.md) 
 
 - [**Atlas AS7-S2**](../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 - [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
+- [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
+- [**Atlas AS7-S4**](../../units/atlas/atlas_as7-s4.md) *Sniper (3109)* `ECM` , `Stealth` 
+- [**Atlas AS8-S**](../../units/atlas/atlas_as8-s.md) *Sniper (3138)* `ECM` 
+
+#### [Atlas II](../../units/atlas_ii.md) 
+
+- [**Atlas II AS7-DK-H**](../../units/atlas_ii/atlas_ii_as7-dk-h.md) *Brawler (3139)* 
 
 #### [Diomede](../../units/diomede.md) 
 

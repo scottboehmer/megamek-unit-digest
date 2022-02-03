@@ -156,3 +156,23 @@
 - **Battle Value:** 1741 
 - [*More Info*](guillotine/guillotine_glt-6wb3.md) 
 
+## Guillotine GLT-7M 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3099) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 192 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - ER PPC w/ PPC Capacitor 
+  - Streak SRM 6 (ammo: 15) 
+  - Light PPC × 2 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8420/guillotine-glt-7m) 
+- **Battle Value:** 1877 
+- [*More Info*](guillotine/guillotine_glt-7m.md) 
+

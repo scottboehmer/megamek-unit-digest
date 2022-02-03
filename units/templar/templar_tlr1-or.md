@@ -22,7 +22,12 @@
 
 ## Availability 
 
+### Late Republic 
+
+- ComStar 
+
 ### Dark Ages 
 
+- ComStar 
 - Federated Suns 
 

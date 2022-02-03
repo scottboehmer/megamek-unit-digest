@@ -94,6 +94,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -117,6 +118,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

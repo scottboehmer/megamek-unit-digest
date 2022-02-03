@@ -24,7 +24,7 @@
 
 ## Availability 
 
-### Dark Ages (Unique) 
+### Dark Ages 
 
 - ComStar 
 

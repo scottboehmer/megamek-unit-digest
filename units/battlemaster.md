@@ -48,7 +48,7 @@
   - PPC × 2 
   - Medium Laser × 4 
   - Streak SRM 2 × 3 (ammo: 50) 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5877/battlemaster-blr-1ghe-hellslinger) 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5877/battlemaster-blr-1ghe-hellslinger) 
 - **Battle Value:** 1712 
 - [*More Info*](battlemaster/battlemaster_blr-1ghe_hellsinger.md) 
 
@@ -64,7 +64,7 @@
   - ER PPC × 2 
   - Large Pulse Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/285/battlemaster-blr-1gb) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/285/battlemaster-blr-1gb) 
 - **Battle Value:** 1825 
 - [*More Info*](battlemaster/battlemaster_blr-1gb.md) 
 
@@ -81,7 +81,7 @@
   - SRM 6 (ammo: 30) 
   - Medium Pulse Laser × 4 
   - Medium Laser × 2 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5867/battlemaster-blr-1gd) 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5867/battlemaster-blr-1gd) 
 - **Battle Value:** 1586 
 - [*More Info*](battlemaster/battlemaster_blr-1gd.md) 
 
@@ -99,7 +99,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Command Console 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/286/battlemaster-blr-1gbc) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/286/battlemaster-blr-1gbc) 
 - **Battle Value:** 1825 
 - [*More Info*](battlemaster/battlemaster_blr-1gbc.md) 
 
@@ -117,7 +117,7 @@
   - Medium Laser × 6 
 - **Equipment:** 
   - Command Console 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/287/battlemaster-blr-1gc) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/287/battlemaster-blr-1gc) 
 - **Battle Value:** 1577 
 - [*More Info*](battlemaster/battlemaster_blr-1gc.md) 
 
@@ -153,7 +153,7 @@
   - Anti-Missile System (ammo: 12) 
   - Beagle Active Probe 
   - Command Console 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/290/battlemaster-blr-2c) 
+- **Sources:** Rec Guide:ilClan #3 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/290/battlemaster-blr-2c) 
 - **Battle Value:** 1563 
 - [*More Info*](battlemaster/battlemaster_blr-2c.md) 
 
@@ -245,7 +245,7 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - Command Console 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/284/battlemaster-blr-1g-red-corsair) 
+- **Sources:** TRO:Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/284/battlemaster-blr-1g-red-corsair) 
 - **Battle Value:** 2745 
 - [*More Info*](battlemaster/battlemaster_blr-1g_red_corsair.md) 
 
@@ -263,7 +263,7 @@
   - Streak SRM 2 × 7 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3805/battlemaster-blr-3m-rogers) 
+- **Sources:** OTP:Falcon Incursion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3805/battlemaster-blr-3m-rogers) 
 - **Battle Value:** 1819 
 - [*More Info*](battlemaster/battlemaster_blr-3m_rogers.md) 
 
@@ -303,7 +303,7 @@
 - **Equipment:** 
   - C3 Main × 2 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm) 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299/battlemaster-blr-cm) 
 - **Battle Value:** 1883 
 - [*More Info*](battlemaster/battlemaster_blr-cm.md) 
 
@@ -323,7 +323,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/300/battlemaster-blr-k3) 
+- **Sources:** Source:TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/300/battlemaster-blr-k3) 
 - **Battle Value:** 1851 
 - [*More Info*](battlemaster/battlemaster_blr-k3.md) 
 
@@ -361,7 +361,7 @@
   - Guardian ECM Suite 
   - B-Pod × 2 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/280/battlemaster-blr-10s) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/280/battlemaster-blr-10s) 
 - **Battle Value:** 1927 
 - [*More Info*](battlemaster/battlemaster_blr-10s.md) 
 
@@ -401,7 +401,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302/battlemaster-blr-m3) 
+- **Sources:** RS3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302/battlemaster-blr-m3) 
 - **Battle Value:** 1674 
 - [*More Info*](battlemaster/battlemaster_blr-m3.md) 
 
@@ -421,7 +421,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/303/battlemaster-c) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/303/battlemaster-c) 
 - **Battle Value:** 3025 
 - [*More Info*](battlemaster/battlemaster_c.md) 
 
@@ -464,7 +464,7 @@
   - B-Pod × 2 
   - C3 Support 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/281/battlemaster-blr-10s2) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/281/battlemaster-blr-10s2) 
 - **Battle Value:** 1927 
 - [*More Info*](battlemaster/battlemaster_blr-10s2.md) 
 
@@ -483,7 +483,7 @@
   - Snub-Nose PPC 
   - Large Pulse Laser 
   - ER Medium Laser × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/301/battlemaster-blr-k4) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/301/battlemaster-blr-k4) 
 - **Battle Value:** 2232 
 - [*More Info*](battlemaster/battlemaster_blr-k4.md) 
 
@@ -503,7 +503,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/293/battlemaster-blr-4l) 
+- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/293/battlemaster-blr-4l) 
 - **Battle Value:** 1890 
 - [*More Info*](battlemaster/battlemaster_blr-4l.md) 
 
@@ -542,7 +542,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/298/battlemaster-blr-6x) 
+- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/298/battlemaster-blr-6x) 
 - **Battle Value:** 1966 
 - [*More Info*](battlemaster/battlemaster_blr-6x.md) 
 

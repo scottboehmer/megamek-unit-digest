@@ -1689,6 +1689,7 @@
 
 #### [Rifleman IIC](../../units/rifleman_iic.md) 
 
+- [**Rifleman IIC (Standard)**](../../units/rifleman_iic/rifleman_iic_standard.md) *Sniper (2845)* `Active Probe` 
 - [**Rifleman IIC 5**](../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 
 - [**Rifleman IIC 8**](../../units/rifleman_iic/rifleman_iic_8.md) *Skirmisher (3078)* `ECM` 
 
@@ -1903,6 +1904,8 @@
 #### [Goliath](../../units/goliath.md) 
 
 - [**Goliath GOL-3L**](../../units/goliath/goliath_gol-3l.md) *Missile Boat (3082)* `ECM` , `Stealth` 
+- [**Goliath GOL-7C**](../../units/goliath/goliath_gol-7c.md) *Juggernaut (3133)* 
+- [**Goliath GOL-7R**](../../units/goliath/goliath_gol-7r.md) *Sniper (3133)* 
 
 #### [Phoenix Hawk IIC](../../units/phoenix_hawk_iic.md) 
 
@@ -1911,6 +1914,7 @@
 
 #### [Striker](../../units/striker.md) 
 
+- [**Striker STC-2C**](../../units/striker/striker_stc-2c.md) *Brawler (2571)* 
 - [**Striker STC-2D**](../../units/striker/striker_stc-2d.md) *Brawler (3056)* 
 
 #### [Victor](../../units/victor.md) 
@@ -1966,6 +1970,7 @@
 - [**Stalker STK-3Fb**](../../units/stalker/stalker_stk-3fb.md) *Juggernaut (2705)* `ECM` 
 - [**Stalker STK-5M**](../../units/stalker/stalker_stk-5m.md) *Juggernaut (3050)* 
 - [**Stalker STK-6M**](../../units/stalker/stalker_stk-6m.md) *Sniper (3062)* 
+- [**Stalker STK-9F**](../../units/stalker/stalker_stk-9f.md) *Juggernaut (3142)* `Active Probe` 
 
 #### [Stalker II](../../units/stalker_ii.md) 
 
@@ -2060,8 +2065,15 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
+- [**Atlas AS8-KE**](../../units/atlas/atlas_as8-ke.md) *Juggernaut (3140)* 
+
+#### [Atlas II](../../units/atlas_ii.md) 
+
+- [**Atlas II AS7-DK-H**](../../units/atlas_ii/atlas_ii_as7-dk-h.md) *Brawler (3139)* 
 
 #### [Diomede](../../units/diomede.md) 
 

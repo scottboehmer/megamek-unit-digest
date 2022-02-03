@@ -101,7 +101,7 @@
   - Clan ER Small Laser 
   - Large Vibroblade 
 - **Equipment:** 
-  - Clan Supercharger 
+  - Supercharger 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2298/no-dachi-nda-3x) 
 - **Battle Value:** 2609 
 - [*More Info*](no-dachi/no-dachi_nda-3x.md) 

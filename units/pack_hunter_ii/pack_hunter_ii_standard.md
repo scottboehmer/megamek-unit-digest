@@ -5,7 +5,7 @@
 ## Pack Hunter II (Standard) 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3077) 
+- **Tech Base:** Clan Mixed (3077) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 
   - **Jumping:** 7 
@@ -15,7 +15,7 @@
   - ER PPC 
   - ER Medium Laser × 2 
 - **Equipment:** 
-  - B-Pod × 2 
+  - Inner Sphere B-Pod × 2 
   - Full Head Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard) 
 - **Battle Value:** 1794 

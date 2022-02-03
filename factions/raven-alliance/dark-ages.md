@@ -336,10 +336,6 @@
 
 - [**Po Heavy Tank (Standard)**](../../units/po_heavy_tank/po_heavy_tank_standard.md) *Brawler (3031)* 
 
-#### [SRM Carrier](../../units/srm_carrier.md) 
-
-- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
-
 ### 65 Tons 
 
 #### [Ishtar Heavy Fire Support Tank](../../units/ishtar_heavy_fire_support_tank.md) 
@@ -996,6 +992,9 @@
 #### [Rifleman IIC](../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC (Standard)**](../../units/rifleman_iic/rifleman_iic_standard.md) *Sniper (2845)* `Active Probe` 
+- [**Rifleman IIC 2**](../../units/rifleman_iic/rifleman_iic_2.md) *Sniper (2997)* 
+- [**Rifleman IIC 9**](../../units/rifleman_iic/rifleman_iic_9.md) *Sniper (3148)* 
+- [**Rifleman IIC 10**](../../units/rifleman_iic/rifleman_iic_10.md) *Skirmisher (3149)* `Active Probe` 
 
 ### 70 Tons 
 
@@ -1014,11 +1013,13 @@
 - [**Nova Cat B**](../../units/nova_cat/nova_cat_b.md) *Missile Boat (3059)* 
 - [**Nova Cat C**](../../units/nova_cat/nova_cat_c.md) *Sniper (3059)* 
 - [**Nova Cat D**](../../units/nova_cat/nova_cat_d.md) *Brawler (3059)* 
+- [**Nova Cat M**](../../units/nova_cat/nova_cat_m.md) *Juggernaut (3062)* 
 - [**Nova Cat E**](../../units/nova_cat/nova_cat_e.md) *Brawler (3064)* 
 - [**Nova Cat F**](../../units/nova_cat/nova_cat_f.md) *Skirmisher (3070)* `ECM` 
 - [**Nova Cat G**](../../units/nova_cat/nova_cat_g.md) *Missile Boat (3072)* `ECM` 
 - [**Nova Cat H**](../../units/nova_cat/nova_cat_h.md) *Skirmisher (3099)* 
 - [**Nova Cat I**](../../units/nova_cat/nova_cat_i.md) *Juggernaut (3132)* 
+- [**Nova Cat T**](../../units/nova_cat/nova_cat_t.md) *Sniper (3142)* 
 
 #### [Summoner](../../units/summoner.md) 
 
@@ -1219,7 +1220,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Bane](../../units/bane.md) 

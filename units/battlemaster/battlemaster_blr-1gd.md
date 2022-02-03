@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 30) 
   - Medium Pulse Laser × 4 
   - Medium Laser × 2 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5867/battlemaster-blr-1gd) 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5867/battlemaster-blr-1gd) 
 - **Battle Value:** 1586 
 
 ## Availability 

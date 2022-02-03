@@ -34,19 +34,5 @@
 ### Jihad 
 
 - ComStar 
-- Escorpión Imperio 
 - Word of Blake 
-
-### Early Republic 
-
-- Escorpión Imperio 
-
-### Late Republic 
-
-- Escorpión Imperio 
-
-### Dark Ages 
-
-- Escorpión Imperio 
-- Scorpion Empire 
 

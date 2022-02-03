@@ -38,11 +38,13 @@
 
 ### Late Republic 
 
+- ComStar 
 - Marik-Stewart Commonwealth 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- ComStar 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Republic of the Sphere 

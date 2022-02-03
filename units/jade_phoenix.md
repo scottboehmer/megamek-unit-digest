@@ -3,7 +3,7 @@
 ## Jade Phoenix Prime 
 
 - **Role:** Sniper 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3148) 
 - **Chassis:** 85 tons (Endo Composite) 
 - **Movement:** 4 / 6, XL 
   - **Jumping:** 5 
@@ -15,14 +15,14 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** ilClan - ilClan , [Master Unit List](http://masterunitlist.info/Unit/Details/8293/jade-phoenix-prime) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8293/jade-phoenix-prime) 
 - **Battle Value:** 3277 
 - [*More Info*](jade_phoenix/jade_phoenix_prime.md) 
 
 ## Jade Phoenix A 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3148) 
 - **Chassis:** 85 tons (Endo Composite) 
 - **Movement:** 4 / 6, XL 
   - **Jumping:** 7 
@@ -36,14 +36,14 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** ilClan - ilClan , [Master Unit List](http://masterunitlist.info/Unit/Details/8294/jade-phoenix-a) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8294/jade-phoenix-a) 
 - **Battle Value:** 2739 
 - [*More Info*](jade_phoenix/jade_phoenix_a.md) 
 
 ## Jade Phoenix B 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3148) 
 - **Chassis:** 85 tons (Endo Composite) 
 - **Movement:** 4 / 6, XL 
   - **Jumping:** 5 
@@ -56,7 +56,68 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** ilClan - ilClan , [Master Unit List](http://masterunitlist.info/Unit/Details/8295/jade-phoenix-b) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8295/jade-phoenix-b) 
 - **Battle Value:** 2998 
 - [*More Info*](jade_phoenix/jade_phoenix_b.md) 
+
+## Jade Phoenix C 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3148) 
+- **Chassis:** 85 tons (Endo Composite) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 5 
+- **Armor:** 259 (Ferro Fibrous) 
+- **Heat Sinks:** 13 (29) 
+- **Weapons:** 
+  - ATM 12 × 2 (ammo: 10 Standard, 10 ER, 10 HE) 
+  - ER Medium Laser × 2 
+  - SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - Talons 
+  - Partial Wing 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8401/jade-phoenix-c) 
+- **Battle Value:** 2854 
+- [*More Info*](jade_phoenix/jade_phoenix_c.md) 
+
+## Jade Phoenix D 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan (3148) 
+- **Chassis:** 85 tons (Endo Composite) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 259 (Ferro Fibrous) 
+- **Heat Sinks:** 17 (37) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - Gauss Rifle (ammo: 24) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - Partial Wing 
+  - CASE 
+  - Targeting Computer 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8402/jade-phoenix-d) 
+- **Battle Value:** 2986 
+- [*More Info*](jade_phoenix/jade_phoenix_d.md) 
+
+## Jade Phoenix E 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Clan Mixed (3148) 
+- **Chassis:** 85 tons (Endo Composite) 
+- **Movement:** 4 / 6 (8), XL 
+  - **Jumping:** 5 
+- **Armor:** 259 (Ferro Fibrous) 
+- **Heat Sinks:** 13 (29) 
+- **Weapons:** 
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster) 
+  - Inner Sphere Plasma Rifle × 2 (ammo: 40) 
+- **Equipment:** 
+  - Partial Wing 
+  - CASE II 
+  - Supercharger 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8403/jade-phoenix-e) 
+- **Battle Value:** 2734 
+- [*More Info*](jade_phoenix/jade_phoenix_e.md) 
 

@@ -47,6 +47,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- ComStar 
 - Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 
@@ -58,6 +59,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- ComStar 
 - Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 

@@ -1,10 +1,10 @@
-# Ryoken III-XP B 
+# Skinwalker-XP B 
 
-[Other Ryoken III-XP variants](../ryoken_iii-xp.md) 
+[Other Skinwalker-XP variants](../skinwalker-xp.md) 
 
-## Ryoken III-XP B 
+## Skinwalker-XP "Ryoken III-XP" B 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (14), XL 

@@ -134,6 +134,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 

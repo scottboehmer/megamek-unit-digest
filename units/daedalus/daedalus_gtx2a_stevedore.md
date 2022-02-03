@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 15 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore) 
 - **Battle Value:** 649 
 
 ## Availability 

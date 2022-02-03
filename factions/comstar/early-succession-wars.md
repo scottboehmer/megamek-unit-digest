@@ -914,7 +914,3 @@
 
 - [**Thunder Hawk TDK-7X**](../../units/thunder_hawk/thunder_hawk_tdk-7x.md) *Sniper (2771)* 
 
-#### [Titan](../../units/titan.md) 
-
-- [**Titan TI-1A**](../../units/titan/titan_ti-1a.md) *Juggernaut (2765)* 
-

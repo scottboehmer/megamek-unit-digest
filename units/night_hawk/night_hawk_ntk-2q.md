@@ -185,6 +185,7 @@
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Mercenary 
+- Outworlds Alliance 
 - Raven Alliance 
 - Republic of the Sphere 
 

@@ -28,5 +28,6 @@
 
 ### Early Republic (Unique) 
 
+- Outworlds Alliance 
 - Raven Alliance 
 

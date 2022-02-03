@@ -5,7 +5,7 @@
 ## Jade Phoenix Prime 
 
 - **Role:** Sniper 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3148) 
 - **Chassis:** 85 tons (Endo Composite) 
 - **Movement:** 4 / 6, XL 
   - **Jumping:** 5 
@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** ilClan - ilClan , [Master Unit List](http://masterunitlist.info/Unit/Details/8293/jade-phoenix-prime) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8293/jade-phoenix-prime) 
 - **Battle Value:** 3277 
 
 ## Availability 

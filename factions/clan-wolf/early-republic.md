@@ -292,10 +292,6 @@
 
 - [**Pike Support Vehicle (Clan)**](../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 
-#### [SRM Carrier](../../units/srm_carrier.md) 
-
-- [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
-
 ### 65 Tons 
 
 #### [Ishtar Heavy Fire Support Tank](../../units/ishtar_heavy_fire_support_tank.md) 
@@ -913,7 +909,9 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
+- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
+- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Dire Wolf](../../units/dire_wolf.md) 

@@ -301,6 +301,9 @@
 - [**Fire Moth H**](../../units/fire_moth/fire_moth_h.md) *Striker (3060)* 
 - [**Fire Moth F**](../../units/fire_moth/fire_moth_f.md) *Striker (3070)* `Active Probe` 
 - [**Fire Moth K**](../../units/fire_moth/fire_moth_k.md) *Striker (3071)* 
+- [**Fire Moth G**](../../units/fire_moth/fire_moth_g.md) *Striker (3098)* 
+- [**Fire Moth M**](../../units/fire_moth/fire_moth_m.md) *Striker (3110)* 
+- [**Fire Moth R**](../../units/fire_moth/fire_moth_r.md) *Scout (3110)* `C3 Support` , `ECM` 
 
 #### [Howler](../../units/howler.md) 
 
@@ -676,10 +679,6 @@
 - [**Nova I**](../../units/nova/nova_i.md) *Skirmisher (3094)* 
 - [**Nova J**](../../units/nova/nova_j.md) *Skirmisher (3128)* 
 
-#### [Raijin](../../units/raijin.md) 
-
-- [**Raijin RJN-101-A**](../../units/raijin/raijin_rjn-101-a.md) *Striker (3053)* 
-
 #### [Trebuchet](../../units/trebuchet.md) 
 
 - [**Trebuchet TBT-5S**](../../units/trebuchet/trebuchet_tbt-5s.md) *Skirmisher (2864)* 
@@ -715,6 +714,7 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
@@ -908,6 +908,7 @@
 - [**Night Gyr E**](../../units/night_gyr/night_gyr_e.md) *Skirmisher (3061)* 
 - [**Night Gyr H**](../../units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](../../units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
+- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
 
 #### [Orion](../../units/orion.md) 
 
@@ -1081,7 +1082,7 @@
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (3050)* 
+- [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

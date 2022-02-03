@@ -29,6 +29,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Mercenary 
 - Raven Alliance 
 - Wolf's Dragoons 
@@ -39,6 +40,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- ComStar 
 - Mercenary 
 - Raven Alliance 
 - Wolf's Dragoons 

@@ -1086,7 +1086,9 @@
 
 #### [Raijin](../../units/raijin.md) 
 
+- [**Raijin RJN-101-X**](../../units/raijin/raijin_rjn-101-x.md) *Striker (3052)* 
 - [**Raijin RJN-101-A**](../../units/raijin/raijin_rjn-101-a.md) *Striker (3053)* 
+- [**Raijin RJN-101-B**](../../units/raijin/raijin_rjn-101-b.md) *Scout (3058)* `Active Probe` 
 - [**Raijin RJN-101-C**](../../units/raijin/raijin_rjn-101-c.md) *Striker (3062)* `C3i` 
 
 #### [Tessen](../../units/tessen.md) 
@@ -1282,7 +1284,6 @@
 - [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 - [**Avatar AV1-OH**](../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
 - [**Avatar AV1-OU**](../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
-- [**Avatar AV1-OI**](../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 
 #### [Caesar](../../units/caesar.md) 
 

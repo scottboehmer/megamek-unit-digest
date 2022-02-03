@@ -869,7 +869,9 @@
 
 #### [Raijin](../../units/raijin.md) 
 
+- [**Raijin RJN-101-X**](../../units/raijin/raijin_rjn-101-x.md) *Striker (3052)* 
 - [**Raijin RJN-101-A**](../../units/raijin/raijin_rjn-101-a.md) *Striker (3053)* 
+- [**Raijin RJN-101-B**](../../units/raijin/raijin_rjn-101-b.md) *Scout (3058)* `Active Probe` 
 
 #### [Tessen](../../units/tessen.md) 
 

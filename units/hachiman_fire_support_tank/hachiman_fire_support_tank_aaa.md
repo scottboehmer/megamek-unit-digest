@@ -28,6 +28,7 @@
 ### Early Republic 
 
 - Clan Diamond Shark 
+- Outworlds Alliance 
 - Rasalhague Dominion 
 - Raven Alliance 
 

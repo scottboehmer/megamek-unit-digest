@@ -41,7 +41,7 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
-- Lyran Alliance 
+- Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 

@@ -3,7 +3,7 @@
 ## Sojourner Prime 
 
 - **Role:** Sniper 
-- **Tech Base:** Clan (3147) 
+- **Tech Base:** Clan Mixed (3147) 
 - **Chassis:** 60 tons (Endo Steel) 
 - **Movement:** 4 / 6 (8) 
   - **Jumping:** 3 
@@ -15,7 +15,7 @@
   - Plasma Cannon (ammo: 10) 
 - **Equipment:** 
   - AES 
-  - Supercharger 
+  - Inner Sphere Supercharger 
   - CASE II 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7443/sojourner-prime) 
 - **Battle Value:** 2491 

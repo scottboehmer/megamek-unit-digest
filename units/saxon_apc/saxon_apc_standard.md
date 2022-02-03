@@ -29,7 +29,7 @@
 ### Early Republic 
 
 - Kell Hounds 
-- Lyran Alliance 
+- Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 

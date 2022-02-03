@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - Command Console 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/284/battlemaster-blr-1g-red-corsair) 
+- **Sources:** TRO:Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/284/battlemaster-blr-1g-red-corsair) 
 - **Battle Value:** 2745 
 
 ## Availability 

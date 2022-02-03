@@ -41,6 +41,7 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Lyran Alliance 
 
 ### Early Republic 

@@ -91,10 +91,12 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Magistracy of Canopus 
 

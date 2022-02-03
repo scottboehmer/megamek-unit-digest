@@ -93,6 +93,7 @@
 
 - Capellan Confederation 
 - Clan Nova Cat 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -110,6 +111,7 @@
 
 - Capellan Confederation 
 - Clan Nova Cat 
+- ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

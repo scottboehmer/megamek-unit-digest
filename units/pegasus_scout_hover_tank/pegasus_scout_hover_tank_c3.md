@@ -31,7 +31,7 @@
 
 - Draconis Combine 
 - Federated Suns 
-- Lyran Alliance 
+- Lyran Commonwealth 
 
 ### Late Republic 
 

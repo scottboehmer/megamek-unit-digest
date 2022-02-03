@@ -26,5 +26,6 @@
 
 ### Dark Ages 
 
+- ComStar 
 - Republic of the Sphere 
 

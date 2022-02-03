@@ -65,6 +65,7 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Outworlds Alliance 
 - Pirate 
 - Regulan Fiefs 
 - Republic of the Sphere 

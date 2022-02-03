@@ -101,9 +101,13 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Federated Suns 
+- Free Worlds League 
+- Marian Hegemony 
 - Raven Alliance 
 - Scorpion Empire 
 

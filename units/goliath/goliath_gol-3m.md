@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 400) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m) 
+- **Sources:** Rec Guide:ilClan #22 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m) 
 - **Battle Value:** 1537 
 
 ## Availability 
@@ -42,24 +42,20 @@
 ### Jihad 
 
 - Capellan Confederation 
-- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
 - Mercenary 
 - Word of Blake 
 
 ### Early Republic 
 
-- Calderon Protectorate 
 - Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
-- Magistracy of Canopus 
 - Marian Hegemony 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Taurian Concordat 
 
 ### Late Republic 
 
-- Calderon Protectorate 
 - Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 
