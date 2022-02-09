@@ -5,7 +5,7 @@
 ## Cestus CTS-6Y-EC 
 
 - **Role:** Brawler 
-- **Tech Base:** Clan Mixed (2822) 
+- **Tech Base:** Clan Mixed (2825) 
 - **Chassis:** 65 tons 
 - **Movement:** 4 / 6, XL 
 - **Armor:** 211 

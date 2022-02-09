@@ -4069,6 +4069,7 @@
 - [**Blackjack BJ-4**](units/blackjack/blackjack_bj-4.md) *Brawler (3067)* 
 - [**Blackjack BJ-5**](units/blackjack/blackjack_bj-5.md) *Sniper (3107)* 
 - [**Blackjack BJ-2r**](units/blackjack/blackjack_bj-2r.md) *Brawler (3131)* 
+- [**Blackjack C**](units/blackjack/blackjack_c.md) *Undefined (3150)* 
 
 #### [Bloodhound](units/bloodhound.md) 
 
@@ -5838,7 +5839,7 @@
 
 - [**Cestus CTS-6X**](units/cestus/cestus_cts-6x.md) *Brawler (2609)* 
 - [**Cestus CTS-6Y**](units/cestus/cestus_cts-6y.md) *Brawler (2766)* 
-- [**Cestus CTS-6Y-EC**](units/cestus/cestus_cts-6y-ec.md) *Brawler (2822)* 
+- [**Cestus CTS-6Y-EC**](units/cestus/cestus_cts-6y-ec.md) *Brawler (2825)* 
 - [**Cestus CTS-6Z**](units/cestus/cestus_cts-6z.md) *Brawler (3058)* 
 - [**Cestus CTS-7A**](units/cestus/cestus_cts-7a.md) *Brawler (3070)* 
 
@@ -6195,6 +6196,7 @@
 - [**Archer C**](units/archer/archer_c.md) *Missile Boat (3050)* 
 - [**Archer ARC-5CS**](units/archer/archer_arc-5cs.md) *Missile Boat (3052)* 
 - [**Archer (Wolf)**](units/archer/archer_wolf.md) *Missile Boat (3055)* `ECM` , `Unique` 
+- [**Archer C 2**](units/archer/archer_c_2.md) *Undefined (3065)* 
 - [**Archer ARC-6S**](units/archer/archer_arc-6s.md) *Missile Boat (3067)* 
 - [**Archer ARC-6W**](units/archer/archer_arc-6w.md) *Brawler (3067)* 
 - [**Archer ARC-7L**](units/archer/archer_arc-7l.md) *Missile Boat (3067)* `ECM` , `Stealth` 
@@ -6328,7 +6330,7 @@
 - [**Excalibur EXC-B1**](units/excalibur/excalibur_exc-b1.md) *Skirmisher (2619)* 
 - [**Excalibur EXC-B2**](units/excalibur/excalibur_exc-b2.md) *Skirmisher (2620)* 
 - [**Excalibur EXC-B2b**](units/excalibur/excalibur_exc-b2b.md) *Missile Boat (2735)* 
-- [**Excalibur EXC-B2b-EC**](units/excalibur/excalibur_exc-b2b-ec.md) *Missile Boat (2822)* 
+- [**Excalibur EXC-B2b-EC**](units/excalibur/excalibur_exc-b2b-ec.md) *Missile Boat (2825)* 
 - [**Excalibur EXC-C1**](units/excalibur/excalibur_exc-c1.md) *Skirmisher (3058)* 
 - [**Excalibur EXC-C1 (Cernunnos)**](units/excalibur/excalibur_exc-c1_cernunnos.md) *Skirmisher (3062)* `ECM` , `Unique` 
 - [**Excalibur EXC-CS**](units/excalibur/excalibur_exc-cs.md) *Skirmisher (3067)* 

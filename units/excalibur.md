@@ -57,7 +57,7 @@
 ## Excalibur EXC-B2b-EC 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan Mixed (2822) 
+- **Tech Base:** Clan Mixed (2825) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 217 

@@ -382,7 +382,7 @@
 
 #### [Cestus](../../units/cestus.md) 
 
-- [**Cestus CTS-6Y-EC**](../../units/cestus/cestus_cts-6y-ec.md) *Brawler (2822)* 
+- [**Cestus CTS-6Y-EC**](../../units/cestus/cestus_cts-6y-ec.md) *Brawler (2825)* 
 
 #### [Crusader](../../units/crusader.md) 
 

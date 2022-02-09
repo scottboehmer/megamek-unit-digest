@@ -27,6 +27,8 @@ Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
 Ti Ts'ang Jason
 Mackie MSK-9HKR 'Kill-Roy's Little Buddy'
+Archer C 2
+Blackjack C
 Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
 Rock Hound ProspectorMech AM-PRM-RH7
 Rock Hound ProspectorMech AM-PRM-RH7A 'Rock Otter'
@@ -221,4 +223,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5235 mtf files -> 5234 parsed files -> 5013 converted files -> 5005 validated units
+5238 mtf files -> 5237 parsed files -> 5015 converted files -> 5007 validated units

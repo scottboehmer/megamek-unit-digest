@@ -421,7 +421,7 @@
 - [**Excalibur EXC-B1**](../../units/excalibur/excalibur_exc-b1.md) *Skirmisher (2619)* 
 - [**Excalibur EXC-B2**](../../units/excalibur/excalibur_exc-b2.md) *Skirmisher (2620)* 
 - [**Excalibur EXC-B2b**](../../units/excalibur/excalibur_exc-b2b.md) *Missile Boat (2735)* 
-- [**Excalibur EXC-B2b-EC**](../../units/excalibur/excalibur_exc-b2b-ec.md) *Missile Boat (2822)* 
+- [**Excalibur EXC-B2b-EC**](../../units/excalibur/excalibur_exc-b2b-ec.md) *Missile Boat (2825)* 
 
 #### [Lumberjack](../../units/lumberjack.md) 
 

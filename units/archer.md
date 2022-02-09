@@ -216,6 +216,24 @@
 - **Battle Value:** 2365 
 - [*More Info*](archer/archer_wolf.md) 
 
+## Archer C 2 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3065) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 211 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis IV × 2 (ammo: 36) 
+  - Medium Pulse Laser × 2 
+  - Streak SRM 4 × 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** ForcePack Wolfs Dragoons - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8387/archer-c-2) 
+- **Battle Value:** 2167 
+- [*More Info*](archer/archer_c_2.md) 
+
 ## Archer ARC-6S 
 
 - **Role:** Missile Boat 
