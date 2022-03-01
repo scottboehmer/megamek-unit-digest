@@ -274,6 +274,7 @@
 - [Eidolon](units/eidolon.md) 
 - [Eisenfaust](units/eisenfaust.md) 
 - [Eldingar Hover Sled](units/eldingar_hover_sled.md) 
+- [Elemental Battle Armor](units/elemental_battle_armor.md) 
 - [Emerald Harrier](units/emerald_harrier.md) 
 - [Emperor](units/emperor.md) 
 - [Enfield](units/enfield.md) 

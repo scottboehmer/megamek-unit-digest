@@ -1,6 +1,415 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to convert data from 'Elemental III Battle Armor [AP Gauss].blk': Unrecognized armor type 31
 Unable to parse 'Elemental III Battle Armor [Flamer].blk': Unexpected start of block (line:30)
+Unable to convert data from 'Elemental III Battle Armor [MicroPL].blk': Unrecognized armor type 31
+Unable to convert data from 'Undine Battle Armor_Sebastian_.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Aerie PA(L) (Salvage).blk': Unrecognized armor type 32
+Unable to convert data from 'Aerie PA(L).blk': Unrecognized armor type 32
+Unable to convert data from 'Afreet Medium Battle Armor (HH).blk': Unrecognized component type: CLBearhunter Superheavy AC
+Unable to convert data from 'Afreet Medium Battle Armor (JF).blk': Unrecognized armor type 35
+Unable to convert data from 'Afreet Medium Battle Armor.blk': Unrecognized component type: CLBALightRecoillessRifle
+Unable to convert data from 'Asura Medium Battle Armor (Anti Infantry).blk': Unrecognized armor type 30
+Unable to convert data from 'Asura Medium Battle Armor (SRM).blk': Unrecognized armor type 30
+Unable to convert data from 'Asura Medium Battle Armor.blk': Unrecognized armor type 30
+Unable to convert data from 'Clan Medium BA (Bar).blk': Unrecognized component type: CLBAJumpBooster
+Unable to convert data from 'Clan Medium BA (Rapid).blk': Unrecognized component type: CLBASRM2OS
+Unable to convert data from 'Clan Medium BA (Volk).blk': Unrecognized component type: BAJumpBooster
+Unable to convert data from 'Corona Heavy Battle Armor (SRM).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Corona Heavy Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Djinn Battle Armor (Stealth).blk': Unrecognized armor type 30
+Unable to convert data from 'Djinn Battle Armor.blk': Unrecognized armor type 30
+Unable to convert data from 'Golem Assault Armor (Fast Assault).blk': Unrecognized component type: CLBASRM5OS
+Unable to convert data from 'Golem Assault Armor (Rock Golem).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Golem Assault Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor (Hunter-Killer) [MagShot].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor (Hunter-Killer) [NARC].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [LRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [MagShot].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [SL].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [TAG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Hauberk Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Hauberk II Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kobold Battle Armor [GL Flamer] (CS).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL Flamer] (GB).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL Flamer].blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL SPL] (CS).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL SPL] (GB).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL SPL].blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL TAG] (CS).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL TAG] (GB).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [GL TAG].blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [SL Flamer] (CS).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [SL Flamer] (GB).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [SL Flamer].blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [SL TAG]  (CS).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [SL TAG] (GB).blk': Unrecognized armor type 32
+Unable to convert data from 'Kobold Battle Armor [SL TAG].blk': Unrecognized armor type 32
+Unable to convert data from 'Nephilim Assault Battle Armor (Capture Team)[HMG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Nephilim Assault Battle Armor (Gauss).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Nephilim Assault Battle Armor (Narc).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Nephilim Assault Battle Armor (Seeker) [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Nephilim Assault Battle Armor (Support).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Nephilim Assault Battle Armor [Standard].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Nighthawk PA(L) Mk. XXI (WoB).blk': Unrecognized armor type 32
+Unable to convert data from 'Nighthawk PA(L) Mk. XXI.blk': Unrecognized armor type 32
+Unable to convert data from 'Nighthawk PA(L) Mk. XXII.blk': Unrecognized armor type 32
+Unable to convert data from 'Phalanx (A).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Phalanx (B).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Phalanx (C).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Phalanx (WoB-A).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Phalanx (WoB-B).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Phalanx (WoB-C).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Rogue Bear Heavy Battle Armor.blk': Unrecognized component type: Clan BA Machine Gun
+Unable to convert data from 'Rottweiler Battle Armor (Close Combat).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Rottweiler Battle Armor (Upgrade).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Rottweiler Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Se'irim Medium Battle Armor (Anti Infantry).blk': Unrecognized armor type 31
+Unable to convert data from 'Se'irim Medium Battle Armor (Capture Team).blk': Unrecognized armor type 31
+Unable to convert data from 'Se'irim Medium Battle Armor.blk': Unrecognized armor type 31
+Unable to convert data from 'Shedu Assault Battle Armor (Capture Team).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shedu Assault Battle Armor (PPC).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shedu Assault Battle Armor (Recon).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shedu Assault Battle Armor (Support).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shedu Assault Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tengu Heavy Battle Armor (C3i).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tengu Heavy Battle Armor (ML).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tengu Heavy Battle Armor (RL).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tengu Heavy Battle Armor (Support).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tengu Heavy Battle Armor (VSP).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tengu Heavy Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G12.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G13 [David Light Gauss].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G13 [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G13 [Grenade Launcher].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G13 [Machine Gun].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G13 [Small Laser].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G14.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) P12.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Asterion)[MRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Asterion)[PPC].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Theseus RL)[LRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Theseus)[MRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Ying Long)(Plasma).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Void Medium Battle Armor (DCA).blk': Unrecognized armor type 33
+Unable to convert data from 'Void Medium Battle Armor (Nova Cat).blk': Unrecognized armor type 33
+Unable to convert data from 'Void Medium Battle Armor.blk': Unrecognized armor type 33
+Unable to convert data from 'Angerona Scout Suit (Recon).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Angerona Scout Suit.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ironhold Assault Battle Armor (Fire).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ironhold Assault Battle Armor.blk': Unrecognized component type: BABasicManipulator
+Unable to convert data from 'Kopis Assault Battle Armor (Anti-Infantry).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kopis Assault Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ravager Assault Battle Armor (Level I).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ravager Assault Battle Armor (MH).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ravager Assault Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Thunderbird Battle Armor (DCMS) [AP Gauss].blk': Unrecognized component type: BAJumpBooster
+Unable to convert data from 'Thunderbird Battle Armor (DCMS) [ER Laser].blk': Unrecognized component type: CLBAERSmallLaser
+Unable to convert data from 'Thunderbird Battle Armor (DCMS) [Pulse Laser].blk': Unrecognized component type: CLBASmallPulseLaser
+Unable to convert data from 'Thunderbird Battle Armor [AP Gauss].blk': Unrecognized component type: CLBAJumpBooster
+Unable to convert data from 'Thunderbird Battle Armor [ER Laser].blk': Unrecognized component type: CLBAERSmallLaser
+Unable to convert data from 'Thunderbird Battle Armor [Pulse Laser].blk': Unrecognized component type: CLBASmallPulseLaser
+Unable to convert data from 'Thunderbird II Battle Armor (RotS).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Warg Assault Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Afreet Medium Battle Armor (Interdictor).blk': Unrecognized armor type 35
+Unable to convert data from 'Clan Medium BA (Rache).blk': Unrecognized component type: CLBASRM3 (OS)
+Unable to convert data from 'Elemental Battle Armor (Fire) [AP Gauss].blk': Unrecognized armor type 35
+Unable to convert data from 'Elemental Battle Armor (Fire) [Flamer].blk': Unrecognized armor type 35
+Unable to convert data from 'Elemental Battle Armor (Fire) [Pulse Laser].blk': Unrecognized armor type 35
+Unable to convert data from 'Elemental Battle Armor (Space) [Flamer].blk': Unrecognized component type: BACuttingTorch
+Unable to convert data from 'Elemental Battle Armor (Space) [MG].blk': Unrecognized component type: BACuttingTorch
+Unable to convert data from 'Elemental Battle Armor (Space) [Pulse Laser].blk': Unrecognized component type: BACuttingTorch
+Unable to convert data from 'Fa Shih Battle Armor (Support) [King David].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fa Shih Battle Armor (Support) [Plasma].blk': Unrecognized armor type 30
+Unable to convert data from 'Gnome Battle Armor (LRM).blk': Unrecognized component type: CLBALRM4
+Unable to convert data from 'Golem Assault Armor (Support).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Heavy Suit.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Infiltrator Mk II Battle Armor (Magnetic).blk': Unrecognized armor type 32
+Unable to convert data from 'Kage Light Battle Armor (Space).blk': Unrecognized armor type 31
+Unable to convert data from 'Longinus Battle Armor (Magnetic) (WOB).blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor (Magnetic).blk': Unrecognized armor type 30
+Unable to convert data from 'Nighthawk PA(L) Mk. XXX (Bounty Hunter).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Nighthawk PA(L) Mk. XXX.blk': Unrecognized armor type 32
+Unable to convert data from 'Purifier Adaptive Battle Armor [Laser] (RAF).blk': Unrecognized armor type 36
+Unable to convert data from 'Purifier Adaptive Battle Armor [Narc] (RAF).blk': Unrecognized armor type 36
+Unable to convert data from 'Purifier Adaptive Battle Armor [PPC] (RAF).blk': Unrecognized armor type 36
+Unable to convert data from 'Purifier Adaptive Battle Armor [TAG] (RAF).blk': Unrecognized armor type 36
+Unable to convert data from 'Raiden Battle Armor (Anti-Infantry).blk': Unrecognized armor type 30
+Unable to convert data from 'Rottweiler Battle Armor (Firedrake).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Sloth Battle Armor (Interdictor).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Asterion Upgrade)[MRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Asterion Upgrade)[PPC].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Theseus Support)'Killshot'.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Black Wolf Battle Armor(ER Pulse).blk': Unrecognized armor type 38
+Unable to convert data from 'Black Wolf Battle Armor(Flamer).blk': Unrecognized armor type 38
+Unable to convert data from 'Black Wolf Battle Armor(Heavy Mortar).blk': Unrecognized armor type 38
+Unable to convert data from 'Black Wolf Battle Armor(LBX).blk': Unrecognized armor type 38
+Unable to convert data from 'Black Wolf Battle Armor(Plasma).blk': Unrecognized armor type 38
+Unable to convert data from 'Buraq Fast Battle Armor (HK).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Buraq Fast Battle Armor (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Buraq Fast Battle Armor (Support).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Constable Pacification Suit (ECM).blk': Unrecognized component type: CL BA ECM
+Unable to convert data from 'Constable Pacification Suit (Imp Sensors).blk': Unrecognized component type: CLBAHeavyGL
+Unable to convert data from 'Constable Pacification Suit (LMG).blk': Unrecognized component type: CLBALightMG
+Unable to convert data from 'Constable Pacification Suit (SRM).blk': Unrecognized component type: CLBAHeavyGL
+Unable to convert data from 'Constable Pacification Suit (TAG).blk': Unrecognized component type: CLBAHeavyGL
+Unable to convert data from 'Wraith Battle Armor (Anti-Infantry).blk': Unrecognized armor type 38
+Unable to convert data from 'Wraith Battle Armor (Standard).blk': Unrecognized armor type 31
+Unable to convert data from 'Fusilier BattleArmor (Standard).blk': Unrecognized armor type 31
+Unable to convert data from 'Fusilier BattleArmor (Upgraded).blk': Unrecognized armor type 37
+Unable to convert data from 'PAB-28 Sniper Suit.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Sea Fox Amphibious Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kishi Ceremonial Armor.blk': Unrecognized armor type 37
+Unable to convert data from 'Oni Battle Armor [Narc].blk': Unrecognized armor type 35
+Unable to convert data from 'Oni Battlearmor Bearhunter.blk': Unrecognized armor type 35
+Unable to convert data from 'Oni Battlearmor MRR.blk': Unrecognized armor type 35
+Unable to convert data from 'Oni Battlearmor PPC.blk': Unrecognized armor type 35
+Unable to convert data from 'Thunderbird Battle Armor (Upgrade - DCMS)[LBX].blk': Unrecognized armor type 37
+Unable to convert data from 'Thunderbird Battle Armor [Upgrade - DCMS](ER Laser).blk': Unrecognized armor type 37
+Unable to convert data from 'Thunderbird Battle Armor [Upgrade - DCMS](Pulse Laser).blk': Unrecognized armor type 37
+Unable to convert data from 'Zou Heavy Battle Armor (C3).blk': Unrecognized armor type 37
+Unable to convert data from 'Zou Heavy Battle Armor (Standard).blk': Unrecognized armor type 37
+Unable to convert data from 'Amazon BattleArmor MRR.blk': Unrecognized armor type 30
+Unable to convert data from 'Amazon BattleArmor PPC.blk': Unrecognized armor type 30
+Unable to convert data from 'Shen Long BattleArmor David.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shen Long BattleArmor Interdictor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shen Long BattleArmor MG.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shen Long BattleArmor MRM.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shen Long BattleArmor Pop Up Mine.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Shen Long BattleArmor SRM.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Leonidas BA (David LGR).blk': Block contains multiple values
+Unable to convert data from 'Leonidas BA (FireDrake).blk': Block contains multiple values
+Unable to convert data from 'Leonidas BA (Improved Sensors).blk': Block contains multiple values
+Unable to convert data from 'Leonidas BA (Light TAG).blk': Block contains multiple values
+Unable to convert data from 'Leonidas BA (MG).blk': Block contains multiple values
+Unable to convert data from 'Ogre BA (Interdictor).blk': Unrecognized armor type 36
+Unable to convert data from 'Ogre BA (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Xiphos Assault Battle Armor A.blk': Block contains multiple values
+Unable to convert data from 'Xiphos Assault Battle Armor B.blk': Block contains multiple values
+Unable to convert data from 'Xiphos Assault Battle Armor C.blk': Block contains multiple values
+Unable to convert data from 'Marauder BattleArmor MH.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Marauder BattleArmor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Spectre Stealth Battle Armor RA.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Spectre Stealth Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Strike Armor (Harjel).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [Heavy Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [Hunter-Killer C3 HRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier Battle Armor [Hunter-Killer SVSP MAgshot].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Infiltrator Mk. II Battle Armor (Marine).blk': Unrecognized armor type 32
+Unable to convert data from 'Ironhold Assault Battle Armor (Anti-Tank).blk': Unrecognized armor type 35
+Unable to convert data from 'Kobold Battle Armor IIC.blk': Block contains multiple values
+Unable to convert data from 'Kopis Assault Battle Armor (AI Mk II).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kopis Assault Battle Armor (Mortar).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kopis Assault Battle Armor AI Mk IIr.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Phalanx (D).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Raiden Battle Armor II (Flamer).blk': Unrecognized armor type 37
+Unable to convert data from 'Raiden Battle Armor II (HMG).blk': Unrecognized armor type 37
+Unable to convert data from 'Ravager Assault Battle Armor (LRM MH).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ravager Assault Battle Armor (LRM).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Rogue Bear Heavy Battle Armor (Upgrade).blk': Unrecognized armor type 38
+Unable to convert data from 'Sloth Battle Armor (Huntsman).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Thunderbird Battle Armor [Upgrade ER Laser].blk': Unrecognized armor type 37
+Unable to convert data from 'Thunderbird Battle Armor [Upgrade LBX].blk': Unrecognized armor type 37
+Unable to convert data from 'Thunderbird Battle Armor [Upgrade Pulse Laser].blk': Unrecognized armor type 37
+Unable to convert data from 'Warg Assault Battle Armor (Reactive).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Centaur BattleArmor (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Quirinus BattleArmor (David LGR).blk': Unrecognized armor type 38
+Unable to convert data from 'Quirinus BattleArmor (Grenade Launcher).blk': Unrecognized armor type 38
+Unable to convert data from 'Quirinus BattleArmor (MG).blk': Unrecognized armor type 38
+Unable to convert data from 'Simian BattleArmor (Flamer).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Simian BattleArmor (HMG).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Simian BattleArmor (LRR).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Simian BattleArmor (Small Laser).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Taranis Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Cuchulainn Support Armor (Clan).blk': Unrecognized armor type 33
+Unable to convert data from 'Cuchulainn Support Armor (IS).blk': Unrecognized armor type 33
+Unable to convert data from 'Fenrir II Assault Battlearmor (AI).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir II Assault Battlearmor (LRM).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir II Assault Battlearmor (ML).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir II Assault Battlearmor (MRR).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir II Assault Battlearmor (SRM).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'GD Infiltrator Suit (Firedrake).blk': Unrecognized armor type 31
+Unable to convert data from 'GD Infiltrator Suit (ISensors).blk': Unrecognized armor type 31
+Unable to convert data from 'GD Infiltrator Suit (Light TAG).blk': Unrecognized armor type 31
+Unable to convert data from 'GD Infiltrator Suit (Mine).blk': Unrecognized armor type 31
+Unable to convert data from 'GD Infiltrator Suit (Remote Sensors).blk': Unrecognized armor type 31
+Unable to convert data from 'Rhino BattleArmor.blk': Block contains multiple values
+Unable to convert data from 'Water Elemental Mining Suit.blk': Block contains multiple values
+Unable to convert data from 'Machina Domini Interface Armor (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'TinStar Battlearmor (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Elemental II Battle Armor Production.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gladiator-S Exoskeleton.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Strike Armor Production.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Hauberk Battle Armor Commando.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Rogue Bear Heavy Battle Armor Hybrid.blk': Unrecognized armor type 31
+Unable to convert data from 'Sylph Battle Armor Enhanced.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Void Medium Battle Armor Minelayer.blk': Unrecognized armor type 31
+Unable to convert data from 'Achileus (WoB)  [Flamer].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus (WoB)  [Laser].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus (WoB)  [MG].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus (WoB) IS.blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus (WoB) [David].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus (WoB) [TAG].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus (WoB).blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus [David].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus [Flamer].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus [Laser].blk': Value cannot be null. (Parameter 's')
+Unable to convert data from 'Achileus [MG].blk': Unrecognized armor type 33
+Unable to convert data from 'Achileus [TAG].blk': Unrecognized armor type 33
+Unable to convert data from 'Cavalier Battle Armor [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Cavalier Battle Armor [Laser].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Cavalier Battle Armor [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Cavalier Battle Armor [SRM].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Elemental Battle Armor (Headhunter).blk': Unrecognized component type: CLImprovedSensors
+Unable to convert data from 'Fa Shih Battle Armor [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fa Shih Battle Armor [Laser].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fa Shih Battle Armor [LRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fa Shih Battle Armor [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fa Shih Battle Armor [TAG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [ERML].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [Mortar].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [MPL].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [SL].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [SPLAS].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [SRM].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [VSP].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gnome Battle Armor (Standard).blk': Unrecognized component type: CLBAERSmallLaser
+Unable to convert data from 'Gnome Battle Armor (Upgrade) [Bearhunter].blk': Unrecognized component type: CLAdvancedSRM2
+Unable to convert data from 'Gnome Battle Armor (Upgrade) [MRR].blk': Unrecognized component type: CLBAMedium Recoilless Rifle
+Unable to convert data from 'Gnome Battle Armor (Upgrade) [Pulse Laser].blk': Unrecognized component type: CLAdvancedSRM2
+Unable to convert data from 'Gray Death Scout Suit.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Standard Suit [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Standard Suit [Laser].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Standard Suit [LRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Standard Suit [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Standard Suit [SRM].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Infiltrator Mk. I Battle Armor (Special Ops).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Infiltrator Mk. I Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Infiltrator Mk. II Battle Armor (Sensor).blk': Unrecognized armor type 32
+Unable to convert data from 'Infiltrator Mk. II Battle Armor.blk': Unrecognized armor type 32
+Unable to convert data from 'IS Standard Battle Armor (Level I) [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor (Level I) [Laser].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor (Level I) [LRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor (Level I) [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor (Level I) [SRM].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor [Laser].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor [LRR].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'IS Standard Battle Armor [SRM].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kage Light Battle Armor (DEST).blk': Unrecognized armor type 31
+Unable to convert data from 'Kage Light Battle Armor (Vibro-Claw).blk': Unrecognized armor type 31
+Unable to convert data from 'Kage Light Battle Armor [ECM].blk': Unrecognized armor type 31
+Unable to convert data from 'Kage Light Battle Armor [Flamer].blk': Unrecognized armor type 31
+Unable to convert data from 'Kage Light Battle Armor [Laser].blk': Unrecognized armor type 31
+Unable to convert data from 'Kage Light Battle Armor [MG].blk': Unrecognized armor type 31
+Unable to convert data from 'Kage Light Battle Armor [TAG].blk': Unrecognized armor type 31
+Unable to convert data from 'Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kanazuchi Assault Battle Armor [Battle Claw].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kanazuchi Assault Battle Armor [Industrial Drill].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kanazuchi Assault Battle Armor [Salvage Arm].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Longinus Battle Armor [David] (WoB).blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor [David].blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor [Flamer] (WoB).blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor [Flamer].blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor [Laser] (WoB).blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor [Laser].blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor [MG] (WoB).blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor [MG].blk': Unrecognized armor type 30
+Unable to convert data from 'Purifier Adaptive Battle Armor [Laser].blk': Unrecognized armor type 36
+Unable to convert data from 'Purifier Adaptive Battle Armor [Narc].blk': Unrecognized armor type 36
+Unable to convert data from 'Purifier Adaptive Battle Armor [PPC].blk': Unrecognized armor type 36
+Unable to convert data from 'Purifier Adaptive Battle Armor [TAG].blk': Unrecognized armor type 36
+Unable to convert data from 'Raiden Battle Armor (Original).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Raiden Battle Armor [Flamer].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Raiden Battle Armor [Laser].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Raiden Battle Armor [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Raiden Battle Armor [MRM].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Raiden Battle Armor [Tsunami].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Salamander Battle Armor (Anti-Infantry).blk': Unrecognized armor type 35
+Unable to convert data from 'Salamander Battle Armor (Laser).blk': Unrecognized armor type 35
+Unable to convert data from 'Salamander Battle Armor.blk': Unrecognized armor type 35
+Unable to convert data from 'Sloth Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Sylph Battle Armor (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Sylph Battle Armor (Upgrade).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Undine Battle Armor (Upgrade).blk': Unrecognized component type: CLBALRM3
+Unable to convert data from 'Undine Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Hantu AIX-210 (Kandersteg).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Hantu AIX-210.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ailette Zero-G Engineering Exoskeleton (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gladiator Exoskeleton (Standard) [AG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gladiator Exoskeleton (Standard) [BC ID].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gorilla Exoskeleton 'Falcata'.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gorilla Exoskeleton PEX-2B.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Groundhog Exoskeleton CEX-205 [Armored Glove].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Groundhog Exoskeleton CEX-205 [Basic Manipulator].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Groundhog Exoskeleton CEX-205 [Cargo Lifter].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Groundhog Exoskeleton CEX-205 [Industrial Drill].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Groundhog Exoskeleton CEX-205 [Mine Clearance].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Groundhog Exoskeleton CEX-205 [Salvage Arm].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'HeavyHauler Exoskeleton (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Krise PA(L) (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'PowerLoader Exoskeleton P-5000.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Resgate PA(L) (Interdictor).blk': Unrecognized armor type 35
+Unable to convert data from 'Resgate PA(L) (Scout).blk': Unrecognized armor type 35
+Unable to convert data from 'Resgate PA(L) (Spotter).blk': Unrecognized armor type 35
+Unable to convert data from 'Resgate PA(L) (Standard).blk': Unrecognized armor type 35
+Unable to convert data from 'Resgate PA(L) (Support).blk': Unrecognized armor type 35
+Unable to convert data from 'Salrilla Exoskeleton [Mine Clearance].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Salrilla Exoskeleton [Salvage Arm].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Smoothdavid PA(L) II.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Smoothdavid PA(L) III.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Smoothgoliath PA(L) II.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tunnel Rat Mining Exoskeleton I II [AG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tunnel Rat Mining Exoskeleton I II [ID].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tunnel Rat Mining Exoskeleton III [Armored Glove].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tunnel Rat Mining Exoskeleton IV [AG-GL].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tunnel Rat Mining Exoskeleton IV [AG-LMG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tunnel Rat Mining Exoskeleton IV [BC-GL].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tunnel Rat Mining Exoskeleton IV [BC-LMG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Elemental II Battle Armor X.blk': Unrecognized component type: CLDetachableWeaponPack
+Unable to convert data from 'Rogue Bear Heavy Battle Armor HR.blk': Unrecognized armor type 31
+Unable to convert data from 'Sylph XR.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Hurricane PA (L) P17.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kobold X-C3.blk': Unrecognized armor type 31
+Unable to convert data from 'Hauberk Battle Armor U15.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Infiltrator Mk. II Battle Armor Coral Intent.blk': Unrecognized armor type 36
+Unable to convert data from 'Gladiator Exoskeleton The Spider.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Scout Suit The Willow Wisps.blk': Unrecognized armor type 33
+Unable to convert data from 'IS Standard Battle Armor [Hive].blk': Unrecognized armor type 30
+Unable to convert data from 'Kanazuchi Assault Battle Armor Cyclops.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Kage Light Battle Armor C.blk': Unrecognized armor type 36
+Unable to convert data from 'Void Medium Battle Armor Caltrop.blk': Unrecognized armor type 33
+Unable to convert data from 'Fa Shih Battle Armor 2 [MG].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Trinity Medium Battle Armor (Ying Long BC3)[David].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Longinus Battle Armor Hacked [David].blk': Unrecognized armor type 30
+Unable to convert data from 'Longinus Battle Armor Hacked [MG].blk': Unrecognized armor type 30
+Unable to convert data from 'Djinn Battle Armor (Reflective) Terrorizer Flamer.blk': Unrecognized armor type 37
+Unable to convert data from 'Djinn Battle Armor (Reflective) Terrorizer MG.blk': Unrecognized armor type 37
+Unable to convert data from 'Djinn Battle Armor (Reflective) Terrorizer SL.blk': Unrecognized armor type 37
+Unable to convert data from 'Groundhog Exoskeleton Master Thief.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Ailette Rescue PA(L).blk': Block contains multiple values
+Unable to convert data from 'Purifier BA Terra AP Gauss(C).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Purifier BA Terra ER Small(C).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Purifier BA Terra Recoilless Rifle(C).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Purifier BA Terra Small Pulse(C).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tornado PA(L) G17.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Surat Solahma Suit (Grey Death).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Thunderbird II BattleArmor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tortoise II (aSRM).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tortoise II (C3).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tortoise II (LRM).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Tortoise II (SRM).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Aegis Point Defense Suit (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Clan Interface Armor (Standard).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier II Battle Armor A.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier II Battle Armor B.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier II Battle Armor C.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Grenadier II Battle Armor D.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor Longshot.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Gray Death Strike Armor Prototype.blk': Object reference not set to an instance of an object.
 
 --------------------------------------------------
 Unrecognized Components:
@@ -223,4 +632,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5238 mtf files -> 5237 parsed files -> 5015 converted files -> 5007 validated units
+5651 mtf files -> 5650 parsed files -> 5022 converted files -> 5014 validated units

@@ -1,5 +1,18 @@
 # Clan Hell's Horses / Civil War 
 
+## Battle Armor 
+
+### 1 Tons 
+
+#### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
+
+- [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor [HMG]**](../../units/elemental_battle_armor/elemental_battle_armor_[hmg].md) *Ambusher (3059)* 
+- [**Elemental Battle Armor [ER Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 
+- [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 
