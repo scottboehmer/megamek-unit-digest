@@ -1,5 +1,16 @@
 # ComStar / Late Republic 
 
+## Battle Armor 
+
+### 1 Tons 
+
+#### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
 ## Combat Vehicles 
 
 ### 40 Tons 

@@ -4,7 +4,7 @@
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (2868) 
-- **Chassis:** Medium Battle Armor (1 tons) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 10 (Standard) 
@@ -23,7 +23,7 @@
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (2868) 
-- **Chassis:** Medium Battle Armor (1 tons) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 10 (Standard) 
@@ -42,7 +42,7 @@
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (2868) 
-- **Chassis:** Medium Battle Armor (1 tons) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 10 (Standard) 
@@ -61,7 +61,7 @@
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3059) 
-- **Chassis:** Medium Battle Armor (1 tons) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 10 (Standard) 
@@ -80,7 +80,7 @@
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3060) 
-- **Chassis:** Medium Battle Armor (1 tons) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 10 (Standard) 
@@ -99,7 +99,7 @@
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3060) 
-- **Chassis:** Medium Battle Armor (1 tons) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 10 (Standard) 
@@ -118,7 +118,7 @@
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3069) 
-- **Chassis:** Medium Battle Armor (1 tons) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 10 (Standard) 

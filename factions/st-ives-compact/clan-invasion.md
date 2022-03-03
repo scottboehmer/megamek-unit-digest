@@ -1,5 +1,23 @@
 # St. Ives Compact / Clan Invasion 
 
+## Battle Armor 
+
+### 1 Tons 
+
+#### [Cavalier Battle Armor](../../units/cavalier_battle_armor.md) 
+
+- [**Cavalier Battle Armor [Flamer]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[flamer].md) *Ambusher (3058)* 
+- [**Cavalier Battle Armor [Laser]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[laser].md) *Ambusher (3058)* 
+- [**Cavalier Battle Armor [MG]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[mg].md) *Ambusher (3058)* 
+- [**Cavalier Battle Armor [SRM]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[srm].md) *Ambusher (3058)* 
+
+#### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [Laser]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[laser].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

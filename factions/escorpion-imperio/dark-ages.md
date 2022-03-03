@@ -14,6 +14,13 @@
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [Laser]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[laser].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
 ## Combat Vehicles 
 
 ### 10 Tons 

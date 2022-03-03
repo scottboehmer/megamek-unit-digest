@@ -153,6 +153,7 @@
 - [Catapult II](units/catapult_ii.md) 
 - [CattleMaster](units/cattlemaster.md) 
 - [Cauldron-Born (Ebon Jaguar)](units/cauldron-born_ebon_jaguar.md) 
+- [Cavalier Battle Armor](units/cavalier_battle_armor.md) 
 - [Cavalry Attack Helicopter](units/cavalry_attack_helicopter.md) 
 - [Cave Lion](units/cave_lion.md) 
 - [Cazador](units/cazador.md) 
@@ -500,6 +501,7 @@
 - [Inquisitor II](units/inquisitor_ii.md) 
 - [Ion Sparrow](units/ion_sparrow.md) 
 - [Iron Cheetah](units/iron_cheetah.md) 
+- [IS Standard Battle Armor](units/is_standard_battle_armor.md) 
 - [Ishtar Heavy Fire Support Tank](units/ishtar_heavy_fire_support_tank.md) 
 
 ## J 
@@ -534,6 +536,7 @@
 ## K 
 
 - [Kabuto](units/kabuto.md) 
+- [Kage Light Battle Armor](units/kage_light_battle_armor.md) 
 - [Kalki Cruise Missile Launcher](units/kalki_cruise_missile_launcher.md) 
 - [Kamakiri Attack VTOL](units/kamakiri_attack_vtol.md) 
 - [Kanga Medium Hovertank](units/kanga_medium_hovertank.md) 
@@ -830,6 +833,7 @@
 
 - [R10 Mechanized ICV](units/r10_mechanized_icv.md) 
 - [Rabid Coyote](units/rabid_coyote.md) 
+- [Raiden Battle Armor](units/raiden_battle_armor.md) 
 - [Raider](units/raider.md) 
 - [Raider Mk II](units/raider_mk_ii.md) 
 - [Raijin](units/raijin.md) 

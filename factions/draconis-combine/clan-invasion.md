@@ -1,5 +1,33 @@
 # Draconis Combine / Clan Invasion 
 
+## Battle Armor 
+
+### 0.75 Tons 
+
+#### [Kage Light Battle Armor](../../units/kage_light_battle_armor.md) 
+
+- [**Kage Light Battle Armor [Flamer]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[flamer].md) *Scout (3056)* 
+- [**Kage Light Battle Armor [Laser]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[laser].md) *Scout (3056)* 
+- [**Kage Light Battle Armor [MG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[mg].md) *Scout (3056)* 
+- [**Kage Light Battle Armor [TAG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[tag].md) *Scout (3056)* 
+- [**Kage Light Battle Armor (DEST)**](../../units/kage_light_battle_armor/kage_light_battle_armor_dest.md) *Ambusher (3059)* 
+
+### 1 Tons 
+
+#### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [Laser]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[laser].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
+
+#### [Raiden Battle Armor](../../units/raiden_battle_armor.md) 
+
+- [**Raiden Battle Armor [Flamer]**](../../units/raiden_battle_armor/raiden_battle_armor_[flamer].md) *Ambusher (3055)* 
+- [**Raiden Battle Armor [Laser]**](../../units/raiden_battle_armor/raiden_battle_armor_[laser].md) *Ambusher (3055)* 
+- [**Raiden Battle Armor [MG]**](../../units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
+- [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 
