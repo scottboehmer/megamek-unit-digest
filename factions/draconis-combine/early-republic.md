@@ -6,12 +6,12 @@
 
 #### [Kage Light Battle Armor](../../units/kage_light_battle_armor.md) 
 
-- [**Kage Light Battle Armor [Flamer]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[flamer].md) *Scout (3056)* 
-- [**Kage Light Battle Armor [Laser]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[laser].md) *Scout (3056)* 
-- [**Kage Light Battle Armor [MG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[mg].md) *Scout (3056)* 
-- [**Kage Light Battle Armor [TAG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[tag].md) *Scout (3056)* 
-- [**Kage Light Battle Armor (DEST)**](../../units/kage_light_battle_armor/kage_light_battle_armor_dest.md) *Ambusher (3059)* 
-- [**Kage Light Battle Armor (Vibro-Claw)**](../../units/kage_light_battle_armor/kage_light_battle_armor_vibro-claw.md) *Scout (3069)* 
+- [**Kage Light Battle Armor [Flamer]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[flamer].md) *Scout (3056)* `Stealth` 
+- [**Kage Light Battle Armor [Laser]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[laser].md) *Scout (3056)* `Stealth` 
+- [**Kage Light Battle Armor [MG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[mg].md) *Scout (3056)* `Stealth` 
+- [**Kage Light Battle Armor [TAG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[tag].md) *Scout (3056)* `Stealth` , `TAG` 
+- [**Kage Light Battle Armor (DEST)**](../../units/kage_light_battle_armor/kage_light_battle_armor_dest.md) *Ambusher (3059)* `Stealth` 
+- [**Kage Light Battle Armor (Vibro-Claw)**](../../units/kage_light_battle_armor/kage_light_battle_armor_vibro-claw.md) *Scout (3069)* `Stealth` 
 
 ### 1 Tons 
 

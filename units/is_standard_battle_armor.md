@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Flamer 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1628/is-standard-battle-armor-flamer) 
-- **Battle Value:** 40 (207 for 4 suits) 
+- **Battle Value:** 38 (199 for 4 suits) 
 - [*More Info*](is_standard_battle_armor/is_standard_battle_armor_[flamer].md) 
 
 ## IS Standard Battle Armor [Laser] 
@@ -59,7 +59,7 @@
 - **Manipulators:** 
   - Battle Claw (left) 
 - **Weapons:** 
-  - SRM 2 (OS) (ammo: 0) 
+  - SRM 2 (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1632/is-standard-battle-armor-srm) 
 - **Battle Value:** 34 (175 for 4 suits) 
 - [*More Info*](is_standard_battle_armor/is_standard_battle_armor_[srm].md) 

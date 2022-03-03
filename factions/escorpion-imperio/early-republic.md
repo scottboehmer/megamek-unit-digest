@@ -18,6 +18,13 @@
 
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 
+#### [Longinus Battle Armor](../../units/longinus_battle_armor.md) 
+
+- [**Longinus Battle Armor [Flamer]**](../../units/longinus_battle_armor/longinus_battle_armor_[flamer].md) *Ambusher (3057)* 
+- [**Longinus Battle Armor [Laser]**](../../units/longinus_battle_armor/longinus_battle_armor_[laser].md) *Ambusher (3057)* 
+- [**Longinus Battle Armor [MG]**](../../units/longinus_battle_armor/longinus_battle_armor_[mg].md) *Ambusher (3057)* 
+- [**Longinus Battle Armor [David]**](../../units/longinus_battle_armor/longinus_battle_armor_[david].md) *Ambusher (3063)* 
+
 ## Combat Vehicles 
 
 ### 10 Tons 

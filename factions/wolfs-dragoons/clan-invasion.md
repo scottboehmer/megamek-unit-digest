@@ -10,6 +10,13 @@
 - [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
 
+#### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 
+
+- [**Gray Death Standard Suit [Flamer]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[flamer].md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit [Laser]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[laser].md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit [MG]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[mg].md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit [SRM]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[srm].md) *Ambusher (3052)* `Active Probe` 
+
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 

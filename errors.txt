@@ -3,7 +3,7 @@ Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number o
 Unable to convert data from 'Elemental III Battle Armor [AP Gauss].blk': Unrecognized armor type 31
 Unable to parse 'Elemental III Battle Armor [Flamer].blk': Unexpected start of block (line:30)
 Unable to convert data from 'Elemental III Battle Armor [MicroPL].blk': Unrecognized armor type 31
-Unable to convert data from 'Undine Battle Armor_Sebastian_.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Undine Battle Armor_Sebastian_.blk': Unrecognized component type: CLBASRM1OS
 Unable to convert data from 'Achileus (WoB)  [Flamer].blk': Unrecognized armor type 33
 Unable to convert data from 'Achileus (WoB)  [Laser].blk': Unrecognized armor type 33
 Unable to convert data from 'Achileus (WoB)  [MG].blk': Unrecognized armor type 33
@@ -17,46 +17,28 @@ Unable to convert data from 'Achileus [Laser].blk': Value cannot be null. (Param
 Unable to convert data from 'Achileus [MG].blk': Unrecognized armor type 33
 Unable to convert data from 'Achileus [TAG].blk': Unrecognized armor type 33
 Unable to convert data from 'Elemental Battle Armor (Headhunter).blk': Unrecognized component type: CLImprovedSensors
-Unable to convert data from 'Fa Shih Battle Armor [Flamer].blk': Unrecognized component type: BA-Magnetic Clamp
-Unable to convert data from 'Fa Shih Battle Armor [Laser].blk': Unrecognized component type: BA-Magnetic Clamp
-Unable to convert data from 'Fa Shih Battle Armor [LRR].blk': Unrecognized component type: ISLight Recoilless Rifle
-Unable to convert data from 'Fa Shih Battle Armor [MG].blk': Unrecognized component type: BA-Magnetic Clamp
-Unable to convert data from 'Fa Shih Battle Armor [TAG].blk': Unrecognized component type: BA-Magnetic Clamp
-Unable to convert data from 'Fenrir Battle Armor [ERML].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Fenrir Battle Armor [MG].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Fenrir Battle Armor [Mortar].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Fenrir Battle Armor [MPL].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Fenrir Battle Armor [SL].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Fenrir Battle Armor [SPLAS].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Fenrir Battle Armor [SRM].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Fenrir Battle Armor [VSP].blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Fenrir Battle Armor [ERML].blk': Unrecognized component type: ISBAERMediumLaser
+Unable to convert data from 'Fenrir Battle Armor [MG].blk': Unrecognized equipment location: TU
+Unable to convert data from 'Fenrir Battle Armor [Mortar].blk': Unrecognized component type: ISBAHeavyMortar
+Unable to convert data from 'Fenrir Battle Armor [MPL].blk': Unrecognized component type: ISBAMediumPulseLaser
+Unable to convert data from 'Fenrir Battle Armor [SL].blk': Unrecognized equipment location: TU
+Unable to convert data from 'Fenrir Battle Armor [SPLAS].blk': Unrecognized component type: ISBASmallPulseLaser
+Unable to convert data from 'Fenrir Battle Armor [SRM].blk': Unrecognized component type: ISBASRM4
+Unable to convert data from 'Fenrir Battle Armor [VSP].blk': Unrecognized component type: ISBASmallVSPLaser
 Unable to convert data from 'Gnome Battle Armor (Standard).blk': Unrecognized component type: CLBAERSmallLaser
 Unable to convert data from 'Gnome Battle Armor (Upgrade) [Bearhunter].blk': Unrecognized component type: CLAdvancedSRM2
 Unable to convert data from 'Gnome Battle Armor (Upgrade) [MRR].blk': Unrecognized component type: CLBAMedium Recoilless Rifle
 Unable to convert data from 'Gnome Battle Armor (Upgrade) [Pulse Laser].blk': Unrecognized component type: CLAdvancedSRM2
 Unable to convert data from 'Gray Death Scout Suit.blk': Unrecognized component type: ISBAActiveProbe
-Unable to convert data from 'Gray Death Standard Suit [Flamer].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Gray Death Standard Suit [Laser].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Gray Death Standard Suit [LRR].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Gray Death Standard Suit [MG].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Gray Death Standard Suit [SRM].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Infiltrator Mk. I Battle Armor (Special Ops).blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Infiltrator Mk. I Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Infiltrator Mk. I Battle Armor (Special Ops).blk': Unrecognized armor type 34
+Unable to convert data from 'Infiltrator Mk. I Battle Armor.blk': Unrecognized armor type 34
 Unable to convert data from 'Infiltrator Mk. II Battle Armor (Sensor).blk': Unrecognized armor type 32
 Unable to convert data from 'Infiltrator Mk. II Battle Armor.blk': Unrecognized armor type 32
 Unable to convert data from 'Kage Light Battle Armor [ECM].blk': Trooper equipment is not implemented
-Unable to convert data from 'Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Kanazuchi Assault Battle Armor [Battle Claw].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Kanazuchi Assault Battle Armor [Industrial Drill].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Kanazuchi Assault Battle Armor [Salvage Arm].blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Longinus Battle Armor [David] (WoB).blk': Unrecognized armor type 30
-Unable to convert data from 'Longinus Battle Armor [David].blk': Unrecognized armor type 30
-Unable to convert data from 'Longinus Battle Armor [Flamer] (WoB).blk': Unrecognized armor type 30
-Unable to convert data from 'Longinus Battle Armor [Flamer].blk': Unrecognized armor type 30
-Unable to convert data from 'Longinus Battle Armor [Laser] (WoB).blk': Unrecognized armor type 30
-Unable to convert data from 'Longinus Battle Armor [Laser].blk': Unrecognized armor type 30
-Unable to convert data from 'Longinus Battle Armor [MG] (WoB).blk': Unrecognized armor type 30
-Unable to convert data from 'Longinus Battle Armor [MG].blk': Unrecognized armor type 30
+Unable to convert data from 'Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw].blk': Unrecognized component type: ISBASupportPPC
+Unable to convert data from 'Kanazuchi Assault Battle Armor [Battle Claw].blk': Unrecognized component type: ISBAMediumLaser
+Unable to convert data from 'Kanazuchi Assault Battle Armor [Industrial Drill].blk': Unrecognized component type: ISBAMediumLaser
+Unable to convert data from 'Kanazuchi Assault Battle Armor [Salvage Arm].blk': Unrecognized component type: ISBAMediumLaser
 Unable to convert data from 'Purifier Adaptive Battle Armor [Laser].blk': Unrecognized armor type 36
 Unable to convert data from 'Purifier Adaptive Battle Armor [Narc].blk': Unrecognized armor type 36
 Unable to convert data from 'Purifier Adaptive Battle Armor [PPC].blk': Unrecognized armor type 36
@@ -65,11 +47,11 @@ Unable to convert data from 'Raiden Battle Armor (Original).blk': Unrecognized c
 Unable to convert data from 'Salamander Battle Armor (Anti-Infantry).blk': Unrecognized armor type 35
 Unable to convert data from 'Salamander Battle Armor (Laser).blk': Unrecognized armor type 35
 Unable to convert data from 'Salamander Battle Armor.blk': Unrecognized armor type 35
-Unable to convert data from 'Sloth Battle Armor.blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Sylph Battle Armor (Standard).blk': Object reference not set to an instance of an object.
-Unable to convert data from 'Sylph Battle Armor (Upgrade).blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Sloth Battle Armor.blk': Unrecognized component type: BAMineLauncher
+Unable to convert data from 'Sylph Battle Armor (Standard).blk': Unrecognized component type: CLBAMicroBomb
+Unable to convert data from 'Sylph Battle Armor (Upgrade).blk': Unrecognized component type: BASearchlight
 Unable to convert data from 'Undine Battle Armor (Upgrade).blk': Unrecognized component type: CLBALRM3
-Unable to convert data from 'Undine Battle Armor.blk': Object reference not set to an instance of an object.
+Unable to convert data from 'Undine Battle Armor.blk': Unrecognized component type: CLBALRM5 (OS)
 
 --------------------------------------------------
 Unrecognized Components:
@@ -292,4 +274,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5336 files -> 5330 parsed files (5 skipped) -> 5042 converted files -> 5034 validated units
+5336 files -> 5326 parsed files (9 skipped) -> 5056 converted files -> 5048 validated units

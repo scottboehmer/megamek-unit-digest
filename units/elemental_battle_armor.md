@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/958/elemental-battle-armor-flamer) 
-- **Battle Value:** 59 (415 for 5 suits) 
+- **Battle Value:** 58 (404 for 5 suits) 
 - [*More Info*](elemental_battle_armor/elemental_battle_armor_[flamer].md) 
 
 ## Elemental Battle Armor [Laser] 

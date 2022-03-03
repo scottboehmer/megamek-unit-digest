@@ -296,6 +296,7 @@
 
 ## F 
 
+- [Fa Shih Battle Armor](units/fa_shih_battle_armor.md) 
 - [Fafnir](units/fafnir.md) 
 - [Falcon](units/falcon.md) 
 - [Falcon Hawk](units/falcon_hawk.md) 
@@ -368,6 +369,7 @@
 - [Grand Titan](units/grand_titan.md) 
 - [Grasshopper](units/grasshopper.md) 
 - [Gravedigger](units/gravedigger.md) 
+- [Gray Death Standard Suit](units/gray_death_standard_suit.md) 
 - [Great Turtle](units/great_turtle.md) 
 - [Great Wyrm](units/great_wyrm.md) 
 - [Grendel](units/grendel.md) 
@@ -595,6 +597,7 @@
 - [Loki (Hellbringer)](units/loki_hellbringer.md) 
 - [Loki Mk II (Hel)](units/loki_mk_ii_hel.md) 
 - [Longbow](units/longbow.md) 
+- [Longinus Battle Armor](units/longinus_battle_armor.md) 
 - [Longshot](units/longshot.md) 
 - [LRM Carrier](units/lrm_carrier.md) 
 - [LTV-4 Hover Tank](units/ltv-4_hover_tank.md) 

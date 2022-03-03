@@ -4,6 +4,14 @@
 
 ### 1 Tons 
 
+#### [Fa Shih Battle Armor](../../units/fa_shih_battle_armor.md) 
+
+- [**Fa Shih Battle Armor [Flamer]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[flamer].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [Laser]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[laser].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [LRR]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[lrr].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [MG]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[mg].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [TAG]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[tag].md) *Ambusher (3062)* `TAG` 
+
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 

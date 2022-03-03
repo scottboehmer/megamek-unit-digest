@@ -13,7 +13,7 @@
 - **Manipulators:** 
   - Battle Claw (left) 
 - **Weapons:** 
-  - SRM 2 (OS) (ammo: 0) 
+  - SRM 2 (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1632/is-standard-battle-armor-srm) 
 - **Battle Value:** 34 (175 for 4 suits) 
 

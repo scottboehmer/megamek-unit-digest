@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Flamer 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2621/raiden-battle-armor-flamer) 
-- **Battle Value:** 40 (207 for 4 suits) 
+- **Battle Value:** 38 (199 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_[flamer].md) 
 
 ## Raiden Battle Armor [Laser] 

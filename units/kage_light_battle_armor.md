@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Partial Wing 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1734/kage-light-battle-armor-flamer) 
-- **Battle Value:** 31 (119 for 4 suits) 
+- **Battle Value:** 29 (117 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_[flamer].md) 
 
 ## Kage Light Battle Armor [Laser] 

@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Flamer 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1628/is-standard-battle-armor-flamer) 
-- **Battle Value:** 40 (207 for 4 suits) 
+- **Battle Value:** 38 (199 for 4 suits) 
 
 ## Availability 
 

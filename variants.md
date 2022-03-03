@@ -6,12 +6,12 @@
 
 #### [Kage Light Battle Armor](units/kage_light_battle_armor.md) 
 
-- [**Kage Light Battle Armor [Flamer]**](units/kage_light_battle_armor/kage_light_battle_armor_[flamer].md) *Scout (3056)* 
-- [**Kage Light Battle Armor [Laser]**](units/kage_light_battle_armor/kage_light_battle_armor_[laser].md) *Scout (3056)* 
-- [**Kage Light Battle Armor [MG]**](units/kage_light_battle_armor/kage_light_battle_armor_[mg].md) *Scout (3056)* 
-- [**Kage Light Battle Armor [TAG]**](units/kage_light_battle_armor/kage_light_battle_armor_[tag].md) *Scout (3056)* 
-- [**Kage Light Battle Armor (DEST)**](units/kage_light_battle_armor/kage_light_battle_armor_dest.md) *Ambusher (3059)* 
-- [**Kage Light Battle Armor (Vibro-Claw)**](units/kage_light_battle_armor/kage_light_battle_armor_vibro-claw.md) *Scout (3069)* 
+- [**Kage Light Battle Armor [Flamer]**](units/kage_light_battle_armor/kage_light_battle_armor_[flamer].md) *Scout (3056)* `Stealth` 
+- [**Kage Light Battle Armor [Laser]**](units/kage_light_battle_armor/kage_light_battle_armor_[laser].md) *Scout (3056)* `Stealth` 
+- [**Kage Light Battle Armor [MG]**](units/kage_light_battle_armor/kage_light_battle_armor_[mg].md) *Scout (3056)* `Stealth` 
+- [**Kage Light Battle Armor [TAG]**](units/kage_light_battle_armor/kage_light_battle_armor_[tag].md) *Scout (3056)* `Stealth` , `TAG` 
+- [**Kage Light Battle Armor (DEST)**](units/kage_light_battle_armor/kage_light_battle_armor_dest.md) *Ambusher (3059)* `Stealth` 
+- [**Kage Light Battle Armor (Vibro-Claw)**](units/kage_light_battle_armor/kage_light_battle_armor_vibro-claw.md) *Scout (3069)* `Stealth` 
 
 ### 1 Tons 
 
@@ -32,6 +32,22 @@
 - [**Elemental Battle Armor [MicroPL]**](units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [Fa Shih Battle Armor](units/fa_shih_battle_armor.md) 
+
+- [**Fa Shih Battle Armor [Flamer]**](units/fa_shih_battle_armor/fa_shih_battle_armor_[flamer].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [Laser]**](units/fa_shih_battle_armor/fa_shih_battle_armor_[laser].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [LRR]**](units/fa_shih_battle_armor/fa_shih_battle_armor_[lrr].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [MG]**](units/fa_shih_battle_armor/fa_shih_battle_armor_[mg].md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor [TAG]**](units/fa_shih_battle_armor/fa_shih_battle_armor_[tag].md) *Ambusher (3062)* `TAG` 
+
+#### [Gray Death Standard Suit](units/gray_death_standard_suit.md) 
+
+- [**Gray Death Standard Suit [Flamer]**](units/gray_death_standard_suit/gray_death_standard_suit_[flamer].md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit [Laser]**](units/gray_death_standard_suit/gray_death_standard_suit_[laser].md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit [MG]**](units/gray_death_standard_suit/gray_death_standard_suit_[mg].md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit [SRM]**](units/gray_death_standard_suit/gray_death_standard_suit_[srm].md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit [LRR]**](units/gray_death_standard_suit/gray_death_standard_suit_[lrr].md) *Ambusher (3069)* `Active Probe` 
+
 #### [IS Standard Battle Armor](units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor [Flamer]**](units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
@@ -39,6 +55,13 @@
 - [**IS Standard Battle Armor [MG]**](units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
+#### [Longinus Battle Armor](units/longinus_battle_armor.md) 
+
+- [**Longinus Battle Armor [Flamer]**](units/longinus_battle_armor/longinus_battle_armor_[flamer].md) *Ambusher (3057)* 
+- [**Longinus Battle Armor [Laser]**](units/longinus_battle_armor/longinus_battle_armor_[laser].md) *Ambusher (3057)* 
+- [**Longinus Battle Armor [MG]**](units/longinus_battle_armor/longinus_battle_armor_[mg].md) *Ambusher (3057)* 
+- [**Longinus Battle Armor [David]**](units/longinus_battle_armor/longinus_battle_armor_[david].md) *Ambusher (3063)* 
 
 #### [Raiden Battle Armor](units/raiden_battle_armor.md) 
 
