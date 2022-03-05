@@ -4,6 +4,15 @@
 
 ### 0.75 Tons 
 
+#### [Achileus Light Battle Armor](units/achileus_light_battle_armor.md) 
+
+- [**Achileus Light Battle Armor [Flamer]**](units/achileus_light_battle_armor/achileus_light_battle_armor_[flamer].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [Laser]**](units/achileus_light_battle_armor/achileus_light_battle_armor_[laser].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [MG]**](units/achileus_light_battle_armor/achileus_light_battle_armor_[mg].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [TAG]**](units/achileus_light_battle_armor/achileus_light_battle_armor_[tag].md) *Ambusher (3059)* `Stealth` , `TAG` 
+- [**Achileus Light Battle Armor (WoB)**](units/achileus_light_battle_armor/achileus_light_battle_armor_wob.md) *Scout (3064)* `Active Probe` , `ECM` , `Stealth` 
+- [**Achileus Light Battle Armor [David]**](units/achileus_light_battle_armor/achileus_light_battle_armor_[david].md) *Ambusher (3064)* `Stealth` 
+
 #### [Kage Light Battle Armor](units/kage_light_battle_armor.md) 
 
 - [**Kage Light Battle Armor [Flamer]**](units/kage_light_battle_armor/kage_light_battle_armor_[flamer].md) *Scout (3056)* `Stealth` 
@@ -31,6 +40,12 @@
 - [**Elemental Battle Armor [ER Laser]**](units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [MicroPL]**](units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
+
+#### [Elemental III Battle Armor](units/elemental_iii_battle_armor.md) 
+
+- [**Elemental III Battle Armor [AP Gauss]**](units/elemental_iii_battle_armor/elemental_iii_battle_armor_[ap_gauss].md) *Ambusher (3091)* `Stealth` 
+- [**Elemental III Battle Armor [Flamer]**](units/elemental_iii_battle_armor/elemental_iii_battle_armor_[flamer].md) *Ambusher (3091)* `Stealth` 
+- [**Elemental III Battle Armor [MicroPL]**](units/elemental_iii_battle_armor/elemental_iii_battle_armor_[micropl].md) *Ambusher (3091)* `Stealth` 
 
 #### [Fa Shih Battle Armor](units/fa_shih_battle_armor.md) 
 
@@ -70,6 +85,15 @@
 - [**Raiden Battle Armor [MG]**](units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [Tsunami]**](units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
 - [**Raiden Battle Armor [MRM]**](units/raiden_battle_armor/raiden_battle_armor_[mrm].md) *Ambusher (3064)* 
+
+### 1.50 Tons 
+
+#### [Gnome Battle Armor](units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor (Standard)**](units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Upgrade) [Bearhunter]**](units/gnome_battle_armor/gnome_battle_armor_upgrade_[bearhunter].md) *Juggernaut (3069)* 
+- [**Gnome Battle Armor (Upgrade) [MRR]**](units/gnome_battle_armor/gnome_battle_armor_upgrade_[mrr].md) *Juggernaut (3069)* 
+- [**Gnome Battle Armor (Upgrade) [Pulse Laser]**](units/gnome_battle_armor/gnome_battle_armor_upgrade_[pulse_laser].md) *Juggernaut (3069)* 
 
 ## Combat Vehicles 
 
@@ -5316,13 +5340,13 @@
 
 #### [Skinwalker](units/skinwalker.md) 
 
-- [**Skinwalker Prime**](units/skinwalker/skinwalker_prime.md) *Undefined (3147)* 
-- [**Skinwalker A**](units/skinwalker/skinwalker_a.md) *Undefined (3147)* 
-- [**Skinwalker B**](units/skinwalker/skinwalker_b.md) *Undefined (3147)* `ECM` 
-- [**Skinwalker C**](units/skinwalker/skinwalker_c.md) *Undefined (3147)* 
-- [**Skinwalker D**](units/skinwalker/skinwalker_d.md) *Undefined (3147)* `Active Probe` , `ECM` 
-- [**Skinwalker E**](units/skinwalker/skinwalker_e.md) *Undefined (3147)* 
-- [**Skinwalker F**](units/skinwalker/skinwalker_f.md) *Undefined (3147)* 
+- [**Skinwalker Prime**](units/skinwalker/skinwalker_prime.md) *Striker (3147)* 
+- [**Skinwalker A**](units/skinwalker/skinwalker_a.md) *Striker (3147)* 
+- [**Skinwalker B**](units/skinwalker/skinwalker_b.md) *Striker (3147)* `ECM` 
+- [**Skinwalker C**](units/skinwalker/skinwalker_c.md) *Striker (3147)* 
+- [**Skinwalker D**](units/skinwalker/skinwalker_d.md) *Scout (3147)* `Active Probe` , `ECM` 
+- [**Skinwalker E**](units/skinwalker/skinwalker_e.md) *Sniper (3147)* 
+- [**Skinwalker F**](units/skinwalker/skinwalker_f.md) *Striker (3147)* 
 
 #### [Skinwalker-XP](units/skinwalker-xp.md) 
 

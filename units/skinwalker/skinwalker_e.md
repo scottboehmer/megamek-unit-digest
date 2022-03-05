@@ -4,7 +4,7 @@
 
 ## Skinwalker "Ryoken III" E 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Clan Mixed (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 

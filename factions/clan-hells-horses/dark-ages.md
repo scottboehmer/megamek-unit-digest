@@ -14,6 +14,21 @@
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [Elemental III Battle Armor](../../units/elemental_iii_battle_armor.md) 
+
+- [**Elemental III Battle Armor [AP Gauss]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[ap_gauss].md) *Ambusher (3091)* `Stealth` 
+- [**Elemental III Battle Armor [Flamer]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[flamer].md) *Ambusher (3091)* `Stealth` 
+- [**Elemental III Battle Armor [MicroPL]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[micropl].md) *Ambusher (3091)* `Stealth` 
+
+### 1.50 Tons 
+
+#### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Upgrade) [Bearhunter]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[bearhunter].md) *Juggernaut (3069)* 
+- [**Gnome Battle Armor (Upgrade) [MRR]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[mrr].md) *Juggernaut (3069)* 
+- [**Gnome Battle Armor (Upgrade) [Pulse Laser]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[pulse_laser].md) *Juggernaut (3069)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

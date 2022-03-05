@@ -11,6 +11,12 @@
 - [**Cavalier Battle Armor [MG]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[mg].md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor [SRM]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[srm].md) *Ambusher (3058)* 
 
+### 1.50 Tons 
+
+#### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

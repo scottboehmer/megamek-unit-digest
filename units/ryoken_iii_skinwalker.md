@@ -2,7 +2,7 @@
 
 ## Skinwalker "Ryoken III" Prime 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -22,7 +22,7 @@
 
 ## Skinwalker "Ryoken III" A 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -42,7 +42,7 @@
 
 ## Skinwalker "Ryoken III" B 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
@@ -63,7 +63,7 @@
 
 ## Skinwalker "Ryoken III" C 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -84,7 +84,7 @@
 
 ## Skinwalker "Ryoken III" D 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -104,7 +104,7 @@
 
 ## Skinwalker "Ryoken III" E 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Clan Mixed (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -124,7 +124,7 @@
 
 ## Skinwalker "Ryoken III" F 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 

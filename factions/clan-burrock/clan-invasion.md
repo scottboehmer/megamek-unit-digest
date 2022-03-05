@@ -10,6 +10,12 @@
 - [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
 
+### 1.50 Tons 
+
+#### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

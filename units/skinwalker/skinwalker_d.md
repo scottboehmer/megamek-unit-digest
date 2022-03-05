@@ -4,7 +4,7 @@
 
 ## Skinwalker "Ryoken III" D 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 

@@ -1,21 +1,6 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
-Unable to convert data from 'Elemental III Battle Armor [AP Gauss].blk': Unrecognized armor type 31
-Unable to parse 'Elemental III Battle Armor [Flamer].blk': Unexpected start of block (line:30)
-Unable to convert data from 'Elemental III Battle Armor [MicroPL].blk': Unrecognized armor type 31
 Unable to convert data from 'Undine Battle Armor_Sebastian_.blk': Unrecognized component type: CLBASRM1OS
-Unable to convert data from 'Achileus (WoB)  [Flamer].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus (WoB)  [Laser].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus (WoB)  [MG].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus (WoB) IS.blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus (WoB) [David].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus (WoB) [TAG].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus (WoB).blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus [David].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus [Flamer].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus [Laser].blk': Value cannot be null. (Parameter 's')
-Unable to convert data from 'Achileus [MG].blk': Unrecognized armor type 33
-Unable to convert data from 'Achileus [TAG].blk': Unrecognized armor type 33
 Unable to convert data from 'Elemental Battle Armor (Headhunter).blk': Unrecognized component type: CLImprovedSensors
 Unable to convert data from 'Fenrir Battle Armor [ERML].blk': Unrecognized component type: ISBAERMediumLaser
 Unable to convert data from 'Fenrir Battle Armor [MG].blk': Unrecognized equipment location: TU
@@ -25,10 +10,6 @@ Unable to convert data from 'Fenrir Battle Armor [SL].blk': Unrecognized equipme
 Unable to convert data from 'Fenrir Battle Armor [SPLAS].blk': Unrecognized component type: ISBASmallPulseLaser
 Unable to convert data from 'Fenrir Battle Armor [SRM].blk': Unrecognized component type: ISBASRM4
 Unable to convert data from 'Fenrir Battle Armor [VSP].blk': Unrecognized component type: ISBASmallVSPLaser
-Unable to convert data from 'Gnome Battle Armor (Standard).blk': Unrecognized component type: CLBAERSmallLaser
-Unable to convert data from 'Gnome Battle Armor (Upgrade) [Bearhunter].blk': Unrecognized component type: CLAdvancedSRM2
-Unable to convert data from 'Gnome Battle Armor (Upgrade) [MRR].blk': Unrecognized component type: CLBAMedium Recoilless Rifle
-Unable to convert data from 'Gnome Battle Armor (Upgrade) [Pulse Laser].blk': Unrecognized component type: CLAdvancedSRM2
 Unable to convert data from 'Gray Death Scout Suit.blk': Unrecognized component type: ISBAActiveProbe
 Unable to convert data from 'Infiltrator Mk. I Battle Armor (Special Ops).blk': Unrecognized armor type 34
 Unable to convert data from 'Infiltrator Mk. I Battle Armor.blk': Unrecognized armor type 34
@@ -142,13 +123,6 @@ Kodiak 6
 Battle Cobra I
 Katana (Crockett) CRK-5006-1
 Star Python (Standard)
-Ryoken III (Skinwalker) A
-Ryoken III (Skinwalker) B
-Ryoken III (Skinwalker) C
-Ryoken III (Skinwalker) D
-Ryoken III (Skinwalker) E
-Ryoken III (Skinwalker) F
-Ryoken III (Skinwalker) Prime
 Thresher Mk II (Standard)
 Templar III TLR2-J 'Arthur'
 Hatchetman HCT-5DT
@@ -274,4 +248,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5336 files -> 5326 parsed files (9 skipped) -> 5056 converted files -> 5048 validated units
+5336 files -> 5321 parsed files (15 skipped) -> 5069 converted files -> 5061 validated units

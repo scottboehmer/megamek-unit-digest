@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Achileus Light Battle Armor](../../units/achileus_light_battle_armor.md) 
+
+- [**Achileus Light Battle Armor [Flamer]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[flamer].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [Laser]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[laser].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [MG]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[mg].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [TAG]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[tag].md) *Ambusher (3059)* `Stealth` , `TAG` 
+- [**Achileus Light Battle Armor [David]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[david].md) *Ambusher (3064)* `Stealth` 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 

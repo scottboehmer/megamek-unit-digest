@@ -14,6 +14,18 @@
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [Elemental III Battle Armor](../../units/elemental_iii_battle_armor.md) 
+
+- [**Elemental III Battle Armor [AP Gauss]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[ap_gauss].md) *Ambusher (3091)* `Stealth` 
+- [**Elemental III Battle Armor [Flamer]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[flamer].md) *Ambusher (3091)* `Stealth` 
+- [**Elemental III Battle Armor [MicroPL]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[micropl].md) *Ambusher (3091)* `Stealth` 
+
+### 1.50 Tons 
+
+#### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 
@@ -849,13 +861,13 @@
 
 #### [Skinwalker](../../units/skinwalker.md) 
 
-- [**Skinwalker Prime**](../../units/skinwalker/skinwalker_prime.md) *Undefined (3147)* 
-- [**Skinwalker A**](../../units/skinwalker/skinwalker_a.md) *Undefined (3147)* 
-- [**Skinwalker B**](../../units/skinwalker/skinwalker_b.md) *Undefined (3147)* `ECM` 
-- [**Skinwalker C**](../../units/skinwalker/skinwalker_c.md) *Undefined (3147)* 
-- [**Skinwalker D**](../../units/skinwalker/skinwalker_d.md) *Undefined (3147)* `Active Probe` , `ECM` 
-- [**Skinwalker E**](../../units/skinwalker/skinwalker_e.md) *Undefined (3147)* 
-- [**Skinwalker F**](../../units/skinwalker/skinwalker_f.md) *Undefined (3147)* 
+- [**Skinwalker Prime**](../../units/skinwalker/skinwalker_prime.md) *Striker (3147)* 
+- [**Skinwalker A**](../../units/skinwalker/skinwalker_a.md) *Striker (3147)* 
+- [**Skinwalker B**](../../units/skinwalker/skinwalker_b.md) *Striker (3147)* `ECM` 
+- [**Skinwalker C**](../../units/skinwalker/skinwalker_c.md) *Striker (3147)* 
+- [**Skinwalker D**](../../units/skinwalker/skinwalker_d.md) *Scout (3147)* `Active Probe` , `ECM` 
+- [**Skinwalker E**](../../units/skinwalker/skinwalker_e.md) *Sniper (3147)* 
+- [**Skinwalker F**](../../units/skinwalker/skinwalker_f.md) *Striker (3147)* 
 
 #### [Skinwalker-XP](../../units/skinwalker-xp.md) 
 

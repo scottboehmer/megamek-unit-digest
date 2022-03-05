@@ -20,6 +20,12 @@
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
 
+### 1.50 Tons 
+
+#### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

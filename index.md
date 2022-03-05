@@ -11,6 +11,7 @@
 ## A 
 
 - [AC/2 Carrier](units/ac_2_carrier.md) 
+- [Achileus Light Battle Armor](units/achileus_light_battle_armor.md) 
 - [Adder](units/adder.md) 
 - [Aeron Strike VTOL](units/aeron_strike_vtol.md) 
 - [Aesir Medium AA Vehicle](units/aesir_medium_aa_vehicle.md) 
@@ -276,6 +277,7 @@
 - [Eisenfaust](units/eisenfaust.md) 
 - [Eldingar Hover Sled](units/eldingar_hover_sled.md) 
 - [Elemental Battle Armor](units/elemental_battle_armor.md) 
+- [Elemental III Battle Armor](units/elemental_iii_battle_armor.md) 
 - [Emerald Harrier](units/emerald_harrier.md) 
 - [Emperor](units/emperor.md) 
 - [Enfield](units/enfield.md) 
@@ -354,6 +356,7 @@
 - [Glaive Medium Tank](units/glaive_medium_tank.md) 
 - [Glass Spider](units/glass_spider.md) 
 - [Glory Heavy Fire Support Vehicle](units/glory_heavy_fire_support_vehicle.md) 
+- [Gnome Battle Armor](units/gnome_battle_armor.md) 
 - [Goblin II Infantry Support Vehicle](units/goblin_ii_infantry_support_vehicle.md) 
 - [Goblin Infantry Support Vehicle](units/goblin_infantry_support_vehicle.md) 
 - [Goblin Medium Tank](units/goblin_medium_tank.md) 

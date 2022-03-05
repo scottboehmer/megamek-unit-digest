@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Achileus Light Battle Armor](../../units/achileus_light_battle_armor.md) 
+
+- [**Achileus Light Battle Armor [Flamer]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[flamer].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [Laser]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[laser].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [MG]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[mg].md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor [TAG]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[tag].md) *Ambusher (3059)* `Stealth` , `TAG` 
+- [**Achileus Light Battle Armor [David]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[david].md) *Ambusher (3064)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
@@ -20,6 +30,12 @@
 - [**Longinus Battle Armor [Laser]**](../../units/longinus_battle_armor/longinus_battle_armor_[laser].md) *Ambusher (3057)* 
 - [**Longinus Battle Armor [MG]**](../../units/longinus_battle_armor/longinus_battle_armor_[mg].md) *Ambusher (3057)* 
 - [**Longinus Battle Armor [David]**](../../units/longinus_battle_armor/longinus_battle_armor_[david].md) *Ambusher (3063)* 
+
+### 1.50 Tons 
+
+#### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
 
 ## Combat Vehicles 
 
