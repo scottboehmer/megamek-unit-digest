@@ -2,7 +2,21 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
+
+- [**Gray Death Scout Suit (Standard)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standard.md) *Scout (3052)* `Active Probe` 
+
+#### [Infiltrator Mk. I Battle Armor](../../units/infiltrator_mk._i_battle_armor.md) 
+
+- [**Infiltrator Mk. I Battle Armor 'Waddle'**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddle.md) *Ambusher (3050)* `Stealth` 
+
 ### 1 Tons 
+
+#### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
+
+- [**Infiltrator Mk. II Battle Armor 'Puma'**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_puma.md) *Ambusher (3060)* `ECM` , `Stealth` 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
@@ -11,6 +25,12 @@
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
+#### [Purifier Adaptive Battle Armor](../../units/purifier_adaptive_battle_armor.md) 
+
+- [**Purifier Adaptive Battle Armor [Laser]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[laser].md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 
 ## Combat Vehicles 
 

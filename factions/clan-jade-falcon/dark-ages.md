@@ -20,6 +20,15 @@
 - [**Elemental III Battle Armor [Flamer]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[flamer].md) *Ambusher (3091)* `Stealth` 
 - [**Elemental III Battle Armor [MicroPL]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[micropl].md) *Ambusher (3091)* `Stealth` 
 
+#### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
+
+- [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Anti-Infantry)**](../../units/salamander_battle_armor/salamander_battle_armor_anti-infantry.md) *Ambusher (3070)* 
+
+#### [Undine Battle Armor](../../units/undine_battle_armor.md) 
+
+- [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
+
 ### 1.50 Tons 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 

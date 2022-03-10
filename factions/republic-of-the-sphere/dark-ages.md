@@ -39,6 +39,21 @@
 - [**Longinus Battle Armor [MG]**](../../units/longinus_battle_armor/longinus_battle_armor_[mg].md) *Ambusher (3057)* 
 - [**Longinus Battle Armor [David]**](../../units/longinus_battle_armor/longinus_battle_armor_[david].md) *Ambusher (3063)* 
 
+#### [Purifier Adaptive Battle Armor](../../units/purifier_adaptive_battle_armor.md) 
+
+- [**Purifier Adaptive Battle Armor [Laser]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[laser].md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
+- [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
+
+#### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
+
+- [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
+
+#### [Undine Battle Armor](../../units/undine_battle_armor.md) 
+
+- [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
+
 ### 1.50 Tons 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 

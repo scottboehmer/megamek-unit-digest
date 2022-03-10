@@ -2,6 +2,13 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Sylph Battle Armor](../../units/sylph_battle_armor.md) 
+
+- [**Sylph Battle Armor (Standard)**](../../units/sylph_battle_armor/sylph_battle_armor_standard.md) *Scout (3060)* 
+- [**Sylph Battle Armor (Upgrade)**](../../units/sylph_battle_armor/sylph_battle_armor_upgrade.md) *Scout (3065)* 
+
 ### 1 Tons 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
@@ -13,6 +20,11 @@
 - [**Elemental Battle Armor [ER Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
+
+#### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
+
+- [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Laser)**](../../units/salamander_battle_armor/salamander_battle_armor_laser.md) *Ambusher (3064)* 
 
 ### 1.50 Tons 
 

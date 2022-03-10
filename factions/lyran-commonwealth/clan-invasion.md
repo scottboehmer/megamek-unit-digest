@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
+
+- [**Gray Death Scout Suit (Standard)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standard.md) *Scout (3052)* `Active Probe` 
+
+#### [Infiltrator Mk. I Battle Armor](../../units/infiltrator_mk._i_battle_armor.md) 
+
+- [**Infiltrator Mk. I Battle Armor 'Waddle'**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddle.md) *Ambusher (3050)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 
@@ -17,6 +27,12 @@
 - [**IS Standard Battle Armor [Laser]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[laser].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
+
+### 1.50 Tons 
+
+#### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
+
+- [**Sloth Battle Armor (Standard)**](../../units/sloth_battle_armor/sloth_battle_armor_standard.md) *Ambusher (3050)* 
 
 ## Combat Vehicles 
 

@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
+
+- [**Gray Death Scout Suit (Standard)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standard.md) *Scout (3052)* `Active Probe` 
+
+#### [Infiltrator Mk. I Battle Armor](../../units/infiltrator_mk._i_battle_armor.md) 
+
+- [**Infiltrator Mk. I Battle Armor (Special Ops)**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_ops.md) *Ambusher (3062)* `Active Probe` , `Stealth` 
+
 ### 1 Tons 
 
 #### [Cavalier Battle Armor](../../units/cavalier_battle_armor.md) 
@@ -34,6 +44,19 @@
 - [**Raiden Battle Armor [MG]**](../../units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
 - [**Raiden Battle Armor [MRM]**](../../units/raiden_battle_armor/raiden_battle_armor_[mrm].md) *Ambusher (3064)* 
+
+### 2 Tons 
+
+#### [Fenrir Battle Armor](../../units/fenrir_battle_armor.md) 
+
+- [**Fenrir Battle Armor [MG]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mg].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [MPL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mpl].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [SL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[sl].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [SPL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[spl].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [SRM]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[srm].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [ERML]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[erml].md) *Scout (3064)* 
+- [**Fenrir Battle Armor [Mortar]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mortar].md) *Scout (3064)* 
+- [**Fenrir Battle Armor [VSP]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[vsp].md) *Scout (3071)* 
 
 ## Combat Vehicles 
 

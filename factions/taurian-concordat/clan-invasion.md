@@ -1,5 +1,13 @@
 # Taurian Concordat / Clan Invasion 
 
+## Battle Armor 
+
+### 1 Tons 
+
+#### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
+
+- [**Infiltrator Mk. II Battle Armor 'Puma'**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_puma.md) *Ambusher (3060)* `ECM` , `Stealth` 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

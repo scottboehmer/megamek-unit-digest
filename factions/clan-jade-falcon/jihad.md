@@ -14,6 +14,11 @@
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
+
+- [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Anti-Infantry)**](../../units/salamander_battle_armor/salamander_battle_armor_anti-infantry.md) *Ambusher (3070)* 
+
 ### 1.50 Tons 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 

@@ -1,5 +1,26 @@
 # Taurian Concordat / Early Republic 
 
+## Battle Armor 
+
+### 0.75 Tons 
+
+#### [Infiltrator Mk. I Battle Armor](../../units/infiltrator_mk._i_battle_armor.md) 
+
+- [**Infiltrator Mk. I Battle Armor 'Waddle'**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddle.md) *Ambusher (3050)* `Stealth` 
+
+### 1 Tons 
+
+#### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
+
+- [**Infiltrator Mk. II Battle Armor 'Puma'**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_puma.md) *Ambusher (3060)* `ECM` , `Stealth` 
+
+#### [Purifier Adaptive Battle Armor](../../units/purifier_adaptive_battle_armor.md) 
+
+- [**Purifier Adaptive Battle Armor [Laser]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[laser].md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
+- [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

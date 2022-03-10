@@ -2,6 +2,13 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Sylph Battle Armor](../../units/sylph_battle_armor.md) 
+
+- [**Sylph Battle Armor (Standard)**](../../units/sylph_battle_armor/sylph_battle_armor_standard.md) *Scout (3060)* 
+- [**Sylph Battle Armor (Upgrade)**](../../units/sylph_battle_armor/sylph_battle_armor_upgrade.md) *Scout (3065)* 
+
 ### 1 Tons 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
@@ -19,6 +26,15 @@
 - [**Elemental III Battle Armor [AP Gauss]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[ap_gauss].md) *Ambusher (3091)* `Stealth` 
 - [**Elemental III Battle Armor [Flamer]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[flamer].md) *Ambusher (3091)* `Stealth` 
 - [**Elemental III Battle Armor [MicroPL]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[micropl].md) *Ambusher (3091)* `Stealth` 
+
+#### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
+
+- [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
+
+#### [Undine Battle Armor](../../units/undine_battle_armor.md) 
+
+- [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
+- [**Undine Battle Armor (Upgrade)**](../../units/undine_battle_armor/undine_battle_armor_upgrade.md) *Missile Boat (3069)* 
 
 ### 1.50 Tons 
 

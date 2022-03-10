@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
+
+- [**Gray Death Scout Suit (Standard)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standard.md) *Scout (3052)* `Active Probe` 
+
 ### 1 Tons 
 
 #### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 

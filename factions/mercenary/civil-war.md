@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
+
+- [**Gray Death Scout Suit (Standard)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standard.md) *Scout (3052)* `Active Probe` 
+
+#### [Infiltrator Mk. I Battle Armor](../../units/infiltrator_mk._i_battle_armor.md) 
+
+- [**Infiltrator Mk. I Battle Armor (Special Ops)**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_ops.md) *Ambusher (3062)* `Active Probe` , `Stealth` 
+
 ### 1 Tons 
 
 #### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 

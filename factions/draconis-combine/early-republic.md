@@ -6,6 +6,7 @@
 
 #### [Kage Light Battle Armor](../../units/kage_light_battle_armor.md) 
 
+- [**Kage Light Battle Armor [ECM]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[ecm].md) *Scout (3056)* `ECM` , `Stealth` 
 - [**Kage Light Battle Armor [Flamer]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[flamer].md) *Scout (3056)* `Stealth` 
 - [**Kage Light Battle Armor [Laser]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[laser].md) *Scout (3056)* `Stealth` 
 - [**Kage Light Battle Armor [MG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[mg].md) *Scout (3056)* `Stealth` 
@@ -22,6 +23,15 @@
 - [**Raiden Battle Armor [MG]**](../../units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
 - [**Raiden Battle Armor [MRM]**](../../units/raiden_battle_armor/raiden_battle_armor_[mrm].md) *Ambusher (3064)* 
+
+### 2 Tons 
+
+#### [Kanazuchi Assault Battle Armor](../../units/kanazuchi_assault_battle_armor.md) 
+
+- [**Kanazuchi Assault Battle Armor [Battle Claw]**](../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[battle_claw].md) *Juggernaut (3058)* 
+- [**Kanazuchi Assault Battle Armor [Industrial Drill]**](../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[industrial_drill].md) *Juggernaut (3058)* 
+- [**Kanazuchi Assault Battle Armor [Salvage Arm]**](../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[salvage_arm].md) *Juggernaut (3058)* 
+- [**Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw]**](../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_upgrade_[battle_claw].md) *Juggernaut (3070)* 
 
 ## Combat Vehicles 
 

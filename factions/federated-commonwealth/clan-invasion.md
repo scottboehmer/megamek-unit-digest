@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
+
+- [**Gray Death Scout Suit (Standard)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standard.md) *Scout (3052)* `Active Probe` 
+
+#### [Infiltrator Mk. I Battle Armor](../../units/infiltrator_mk._i_battle_armor.md) 
+
+- [**Infiltrator Mk. I Battle Armor 'Waddle'**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddle.md) *Ambusher (3050)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Cavalier Battle Armor](../../units/cavalier_battle_armor.md) 
@@ -18,12 +28,32 @@
 - [**Gray Death Standard Suit [MG]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[mg].md) *Ambusher (3052)* `Active Probe` 
 - [**Gray Death Standard Suit [SRM]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[srm].md) *Ambusher (3052)* `Active Probe` 
 
+#### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
+
+- [**Infiltrator Mk. II Battle Armor 'Puma'**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_puma.md) *Ambusher (3060)* `ECM` , `Stealth` 
+
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [Laser]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[laser].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
+
+### 1.50 Tons 
+
+#### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
+
+- [**Sloth Battle Armor (Standard)**](../../units/sloth_battle_armor/sloth_battle_armor_standard.md) *Ambusher (3050)* 
+
+### 2 Tons 
+
+#### [Fenrir Battle Armor](../../units/fenrir_battle_armor.md) 
+
+- [**Fenrir Battle Armor [MG]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mg].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [MPL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mpl].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [SL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[sl].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [SPL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[spl].md) *Scout (3060)* 
+- [**Fenrir Battle Armor [SRM]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[srm].md) *Scout (3060)* 
 
 ## Combat Vehicles 
 

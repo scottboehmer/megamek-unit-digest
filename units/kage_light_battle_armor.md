@@ -1,5 +1,23 @@
 # Kage Light Battle Armor 
 
+## Kage Light Battle Armor [ECM] 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3056) 
+- **Chassis:** Light Battle Armor (750 kg) 
+- **Movement:** 1 
+  - **Jumping:** 4 
+- **Armor:** 5 (Basic Stealth) 
+- **Manipulators:** 
+  - Armored Glove (right) 
+  - Armored Glove (left) 
+- **Equipment:** 
+  - Squad Support ECM Suite 
+  - Partial Wing 
+- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1733/kage-light-battle-armor-ecm) 
+- **Battle Value:** 22 (113 for 4 suits) 
+- [*More Info*](kage_light_battle_armor/kage_light_battle_armor_[ecm].md) 
+
 ## Kage Light Battle Armor [Flamer] 
 
 - **Role:** Scout 

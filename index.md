@@ -305,6 +305,7 @@
 - [Falcon Hover Tank](units/falcon_hover_tank.md) 
 - [Falconer](units/falconer.md) 
 - [Fennec](units/fennec.md) 
+- [Fenrir Battle Armor](units/fenrir_battle_armor.md) 
 - [Fenris (Ice Ferret)](units/fenris_ice_ferret.md) 
 - [Fensalir Combat WiGE](units/fensalir_combat_wige.md) 
 - [Ferret Light Scout VTOL](units/ferret_light_scout_vtol.md) 
@@ -372,6 +373,7 @@
 - [Grand Titan](units/grand_titan.md) 
 - [Grasshopper](units/grasshopper.md) 
 - [Gravedigger](units/gravedigger.md) 
+- [Gray Death Scout Suit](units/gray_death_scout_suit.md) 
 - [Gray Death Standard Suit](units/gray_death_standard_suit.md) 
 - [Great Turtle](units/great_turtle.md) 
 - [Great Wyrm](units/great_wyrm.md) 
@@ -501,6 +503,8 @@
 - [Incubus II](units/incubus_ii.md) 
 - [Indra Infantry Transport](units/indra_infantry_transport.md) 
 - [Inferno](units/inferno.md) 
+- [Infiltrator Mk. I Battle Armor](units/infiltrator_mk._i_battle_armor.md) 
+- [Infiltrator Mk. II Battle Armor](units/infiltrator_mk._ii_battle_armor.md) 
 - [Initiate](units/initiate.md) 
 - [Inquisitor](units/inquisitor.md) 
 - [Inquisitor II](units/inquisitor_ii.md) 
@@ -544,6 +548,7 @@
 - [Kage Light Battle Armor](units/kage_light_battle_armor.md) 
 - [Kalki Cruise Missile Launcher](units/kalki_cruise_missile_launcher.md) 
 - [Kamakiri Attack VTOL](units/kamakiri_attack_vtol.md) 
+- [Kanazuchi Assault Battle Armor](units/kanazuchi_assault_battle_armor.md) 
 - [Kanga Medium Hovertank](units/kanga_medium_hovertank.md) 
 - [Kanga-X Jump Tank](units/kanga-x_jump_tank.md) 
 - [Karhu](units/karhu.md) 
@@ -826,6 +831,7 @@
 - [Pulverizer](units/pulverizer.md) 
 - [Puma (Adder)](units/puma_adder.md) 
 - [Puma Assault Tank](units/puma_assault_tank.md) 
+- [Purifier Adaptive Battle Armor](units/purifier_adaptive_battle_armor.md) 
 - [Pwwka](units/pwwka.md) 
 
 ## Q 
@@ -891,6 +897,7 @@
 - [Saladin Assault Hover Tank](units/saladin_assault_hover_tank.md) 
 - [Saladin Mk II HCV](units/saladin_mk_ii_hcv.md) 
 - [Salamander](units/salamander.md) 
+- [Salamander Battle Armor](units/salamander_battle_armor.md) 
 - [Saracen Medium Hover Tank](units/saracen_medium_hover_tank.md) 
 - [Saracen Mk II HCV](units/saracen_mk_ii_hcv.md) 
 - [Sarath](units/sarath.md) 
@@ -956,6 +963,7 @@
 - [Slagmaiden](units/slagmaiden.md) 
 - [Sleipnir APC Tank](units/sleipnir_apc_tank.md) 
 - [Sling](units/sling.md) 
+- [Sloth Battle Armor](units/sloth_battle_armor.md) 
 - [SM1 Tank Destroyer](units/sm1_tank_destroyer.md) 
 - [SM1A Tank Destroyer](units/sm1a_tank_destroyer.md) 
 - [SM2 Heavy Artillery Vehicle](units/sm2_heavy_artillery_vehicle.md) 
@@ -1026,6 +1034,7 @@
 - [Swallow Attack WIGE](units/swallow_attack_wige.md) 
 - [Swift Wind Scout Car](units/swift_wind_scout_car.md) 
 - [Swordsman](units/swordsman.md) 
+- [Sylph Battle Armor](units/sylph_battle_armor.md) 
 
 ## T 
 
@@ -1091,6 +1100,7 @@
 ## U 
 
 - [Uller (Kit Fox)](units/uller_kit_fox.md) 
+- [Undine Battle Armor](units/undine_battle_armor.md) 
 - [Uni](units/uni.md) 
 - [Uraeus](units/uraeus.md) 
 - [UrbanMech](units/urbanmech.md) 
