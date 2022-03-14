@@ -2,6 +2,22 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
+- [**Nighthawk PA(L) Mk. XXII**](../../units/nighthawk_pal/nighthawk_pal_mk._xxii.md) *Ambusher (2749)* `Stealth` 
+
+#### [Tornado PA(L)](../../units/tornado_pal.md) 
+
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+- [**Tornado PA(L) G13 [David Light Gauss]**](../../units/tornado_pal/tornado_pal_g13_[david_light_gauss].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Flamer]**](../../units/tornado_pal/tornado_pal_g13_[flamer].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Grenade Launcher]**](../../units/tornado_pal/tornado_pal_g13_[grenade_launcher].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Machine Gun]**](../../units/tornado_pal/tornado_pal_g13_[machine_gun].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Small Laser]**](../../units/tornado_pal/tornado_pal_g13_[small_laser].md) *Ambusher (3066)* `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Achileus Light Battle Armor](../../units/achileus_light_battle_armor.md) 
@@ -35,6 +51,13 @@
 - [**Purifier Adaptive Battle Armor [Laser]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[laser].md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
+
+### 1.50 Tons 
+
+#### [Phalanx Battle Armor](../../units/phalanx_battle_armor.md) 
+
+- [**Phalanx Battle Armor (A)**](../../units/phalanx_battle_armor/phalanx_battle_armor_a.md) *Ambusher (3065)* `Stealth` 
+- [**Phalanx Battle Armor (B)**](../../units/phalanx_battle_armor/phalanx_battle_armor_b.md) *Ambusher (3065)* `Stealth` 
 
 ## Combat Vehicles 
 

@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Tornado PA(L)](../../units/tornado_pal.md) 
+
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Achileus Light Battle Armor](../../units/achileus_light_battle_armor.md) 

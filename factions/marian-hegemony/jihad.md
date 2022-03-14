@@ -2,6 +2,20 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXII**](../../units/nighthawk_pal/nighthawk_pal_mk._xxii.md) *Ambusher (2749)* `Stealth` 
+
+#### [Tornado PA(L)](../../units/tornado_pal.md) 
+
+- [**Tornado PA(L) G13 [David Light Gauss]**](../../units/tornado_pal/tornado_pal_g13_[david_light_gauss].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Flamer]**](../../units/tornado_pal/tornado_pal_g13_[flamer].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Grenade Launcher]**](../../units/tornado_pal/tornado_pal_g13_[grenade_launcher].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Machine Gun]**](../../units/tornado_pal/tornado_pal_g13_[machine_gun].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Small Laser]**](../../units/tornado_pal/tornado_pal_g13_[small_laser].md) *Ambusher (3066)* `Stealth` 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
@@ -25,6 +39,11 @@
 - [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
+
+#### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
+
+- [**Trinity Medium Battle Armor (Asterion)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[mrr].md) *Ambusher (3065)* 
+- [**Trinity Medium Battle Armor (Asterion)[PPC]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[ppc].md) *Ambusher (3065)* 
 
 ## Combat Vehicles 
 

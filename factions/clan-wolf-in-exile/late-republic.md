@@ -2,7 +2,17 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
+
 ### 1 Tons 
+
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
@@ -30,6 +40,10 @@
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
 
 ### 1.50 Tons 
+
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 

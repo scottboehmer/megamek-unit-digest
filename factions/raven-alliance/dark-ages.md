@@ -2,6 +2,13 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Aerie PA(L)](../../units/aerie_pal.md) 
+
+- [**Aerie PA(L) (Standard)**](../../units/aerie_pal/aerie_pal_standard.md) *Ambusher (3067)* `Stealth` 
+- [**Aerie PA(L) (Salvage)**](../../units/aerie_pal/aerie_pal_salvage.md) *Ambusher (3069)* `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Sylph Battle Armor](../../units/sylph_battle_armor.md) 
@@ -10,6 +17,10 @@
 - [**Sylph Battle Armor (Upgrade)**](../../units/sylph_battle_armor/sylph_battle_armor_upgrade.md) *Scout (3065)* 
 
 ### 1 Tons 
+
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
@@ -37,6 +48,10 @@
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
 
 ### 1.50 Tons 
+
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 

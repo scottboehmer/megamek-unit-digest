@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
@@ -14,6 +20,10 @@
 - [**Infiltrator Mk. I Battle Armor (Special Ops)**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_ops.md) *Ambusher (3062)* `Active Probe` , `Stealth` 
 
 ### 1 Tons 
+
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
 
 #### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 
 
@@ -30,6 +40,12 @@
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
+#### [Rottweiler Battle Armor](../../units/rottweiler_battle_armor.md) 
+
+- [**Rottweiler Battle Armor (Standard)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_standard.md) *Scout (3065)* `Active Probe` , `Stealth` 
+- [**Rottweiler Battle Armor (Close Combat)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_close_combat.md) *Scout (3069)* `Active Probe` , `Stealth` 
+- [**Rottweiler Battle Armor (Upgrade)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_upgrade.md) *Scout (3070)* `Stealth` 
 
 ### 1.50 Tons 
 

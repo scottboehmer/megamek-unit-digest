@@ -20,9 +20,19 @@
 
 ### 1.50 Tons 
 
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
+
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+
+### 2 Tons 
+
+#### [Golem Assault Armor](../../units/golem_assault_armor.md) 
+
+- [**Golem Assault Armor (Standard)**](../../units/golem_assault_armor/golem_assault_armor_standard.md) *Juggernaut (3067)* 
 
 ## Combat Vehicles 
 

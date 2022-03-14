@@ -4,6 +4,11 @@
 
 ### 1 Tons 
 
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
+- [**Clan Medium Battle Armor (Bär)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_bär.md) *Scout (3070)* 
+
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
@@ -21,9 +26,23 @@
 
 ### 1.50 Tons 
 
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
+
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+
+#### [Rogue Bear Heavy Battle Armor](../../units/rogue_bear_heavy_battle_armor.md) 
+
+- [**Rogue Bear Heavy Battle Armor (Standard)**](../../units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standard.md) *Ambusher (3073)* 
+
+### 2 Tons 
+
+#### [Golem Assault Armor](../../units/golem_assault_armor.md) 
+
+- [**Golem Assault Armor (Standard)**](../../units/golem_assault_armor/golem_assault_armor_standard.md) *Juggernaut (3067)* 
 
 ## Combat Vehicles 
 

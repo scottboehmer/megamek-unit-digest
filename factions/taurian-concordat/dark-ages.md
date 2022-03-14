@@ -19,6 +19,20 @@
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
 
+#### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
+
+- [**Trinity Medium Battle Armor (Asterion)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[mrr].md) *Ambusher (3065)* 
+- [**Trinity Medium Battle Armor (Asterion)[PPC]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[ppc].md) *Ambusher (3065)* 
+
+### 2 Tons 
+
+#### [Grenadier Battle Armor](../../units/grenadier_battle_armor.md) 
+
+- [**Grenadier Battle Armor [Flamer]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[flamer].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [LRR]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[lrr].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [SL]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[sl].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [TAG]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[tag].md) *Ambusher (3065)* `Stealth` , `TAG` 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

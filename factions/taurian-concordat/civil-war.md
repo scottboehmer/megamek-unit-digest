@@ -32,6 +32,11 @@
 - [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 
+#### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
+
+- [**Trinity Medium Battle Armor (Asterion)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[mrr].md) *Ambusher (3065)* 
+- [**Trinity Medium Battle Armor (Asterion)[PPC]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[ppc].md) *Ambusher (3065)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

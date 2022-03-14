@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Achileus Light Battle Armor](../../units/achileus_light_battle_armor.md) 
@@ -13,6 +19,10 @@
 - [**Achileus Light Battle Armor [David]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[david].md) *Ambusher (3064)* `Stealth` 
 
 ### 1 Tons 
+
+#### [Afreet Medium Battle Armor](../../units/afreet_medium_battle_armor.md) 
+
+- [**Afreet Medium Battle Armor (Standard)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standard.md) *Scout (3067)* `Active Probe` 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
@@ -46,6 +56,10 @@
 - [**Undine Battle Armor (Upgrade)**](../../units/undine_battle_armor/undine_battle_armor_upgrade.md) *Missile Boat (3069)* 
 
 ### 1.50 Tons 
+
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 

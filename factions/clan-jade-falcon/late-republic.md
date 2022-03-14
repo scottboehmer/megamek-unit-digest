@@ -4,6 +4,15 @@
 
 ### 1 Tons 
 
+#### [Afreet Medium Battle Armor](../../units/afreet_medium_battle_armor.md) 
+
+- [**Afreet Medium Battle Armor (Standard)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standard.md) *Scout (3067)* `Active Probe` 
+- [**Afreet Medium Battle Armor (Jade Falcon)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_jade_falcon.md) *Scout (3072)* 
+
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
+
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
@@ -30,6 +39,10 @@
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
 
 ### 1.50 Tons 
+
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 

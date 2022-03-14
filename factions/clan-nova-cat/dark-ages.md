@@ -4,6 +4,10 @@
 
 ### 1 Tons 
 
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
+
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
@@ -28,7 +32,16 @@
 
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
 
+#### [Void Medium Battle Armor](../../units/void_medium_battle_armor.md) 
+
+- [**Void Medium Battle Armor (Standard)**](../../units/void_medium_battle_armor/void_medium_battle_armor_standard.md) *Scout (3067)* `Stealth` 
+- [**Void Medium Battle Armor (Nova Cat)**](../../units/void_medium_battle_armor/void_medium_battle_armor_nova_cat.md) *Scout (3068)* `Stealth` 
+
 ### 1.50 Tons 
+
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 

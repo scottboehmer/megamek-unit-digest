@@ -32,6 +32,11 @@
 - [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
 - [**Raiden Battle Armor [MRM]**](../../units/raiden_battle_armor/raiden_battle_armor_[mrm].md) *Ambusher (3064)* 
 
+#### [Void Medium Battle Armor](../../units/void_medium_battle_armor.md) 
+
+- [**Void Medium Battle Armor (Standard)**](../../units/void_medium_battle_armor/void_medium_battle_armor_standard.md) *Scout (3067)* `Stealth` 
+- [**Void Medium Battle Armor (DCA)**](../../units/void_medium_battle_armor/void_medium_battle_armor_dca.md) *Scout (3068)* `Stealth` 
+
 ### 2 Tons 
 
 #### [Kanazuchi Assault Battle Armor](../../units/kanazuchi_assault_battle_armor.md) 

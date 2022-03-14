@@ -6,7 +6,7 @@
 - **Tech Base:** Inner Sphere (3057) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
-  - **Jumping:** 3 
+  - **Jumping:** 3 (0) 
 - **Armor:** 9 (Advanced) 
 - **Manipulators:** 
   - Battle Claw (left) 
@@ -25,7 +25,7 @@
 - **Tech Base:** Inner Sphere (3057) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
-  - **Jumping:** 3 
+  - **Jumping:** 3 (0) 
 - **Armor:** 9 (Advanced) 
 - **Manipulators:** 
   - Battle Claw (left) 
@@ -44,7 +44,7 @@
 - **Tech Base:** Inner Sphere (3057) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
-  - **Jumping:** 3 
+  - **Jumping:** 3 (0) 
 - **Armor:** 9 (Advanced) 
 - **Manipulators:** 
   - Battle Claw (left) 
@@ -63,7 +63,7 @@
 - **Tech Base:** Inner Sphere (3063) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
-  - **Jumping:** 3 
+  - **Jumping:** 3 (0) 
 - **Armor:** 9 (Advanced) 
 - **Manipulators:** 
   - Battle Claw (right) 

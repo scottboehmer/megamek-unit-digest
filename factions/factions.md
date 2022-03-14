@@ -354,6 +354,7 @@
 - [Late Succession Wars - LosTech](lyran-commonwealth/lostech.md) 
 - [Late Succession Wars - Renaissance](lyran-commonwealth/renaissance.md) 
 - [Clan Invasion](lyran-commonwealth/clan-invasion.md) 
+- [Jihad](lyran-commonwealth/jihad.md) 
 - [Early Republic](lyran-commonwealth/early-republic.md) 
 - [Late Republic](lyran-commonwealth/late-republic.md) 
 - [Dark Ages](lyran-commonwealth/dark-ages.md) 

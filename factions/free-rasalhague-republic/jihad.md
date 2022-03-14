@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Kobold Battle Armor](../../units/kobold_battle_armor.md) 
+
+- [**Kobold Battle Armor [GL]**](../../units/kobold_battle_armor/kobold_battle_armor_[gl].md) *Ambusher (3069)* `Stealth` 
+- [**Kobold Battle Armor [GL/Flamer]**](../../units/kobold_battle_armor/kobold_battle_armor_[gl_flamer].md) *Ambusher (3069)* `Stealth` 
+- [**Kobold Battle Armor [GL/TAG]**](../../units/kobold_battle_armor/kobold_battle_armor_[gl_tag].md) *Ambusher (3069)* `Stealth` , `TAG` 
+- [**Kobold Battle Armor [SL/Flamer]**](../../units/kobold_battle_armor/kobold_battle_armor_[sl_flamer].md) *Ambusher (3069)* `Stealth` 
+- [**Kobold Battle Armor [SL/TAG]**](../../units/kobold_battle_armor/kobold_battle_armor_[sl_tag].md) *Ambusher (3069)* `Stealth` , `TAG` 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 

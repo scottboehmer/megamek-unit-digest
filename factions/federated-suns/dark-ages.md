@@ -11,6 +11,10 @@
 - [**Cavalier Battle Armor [MG]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[mg].md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor [SRM]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[srm].md) *Ambusher (3058)* 
 
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
+
 #### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
 
 - [**Infiltrator Mk. II Battle Armor 'Puma'**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_puma.md) *Ambusher (3060)* `ECM` , `Stealth` 
@@ -21,6 +25,26 @@
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
+
+### 2 Tons 
+
+#### [Grenadier Battle Armor](../../units/grenadier_battle_armor.md) 
+
+- [**Grenadier Battle Armor [Flamer]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[flamer].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [LRR]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[lrr].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [MagShot]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[magshot].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [SL]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[sl].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [TAG]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[tag].md) *Ambusher (3065)* `Stealth` , `TAG` 
+- [**Grenadier Battle Armor (Hunter-Killer) [MagShot]**](../../units/grenadier_battle_armor/grenadier_battle_armor_hunter-killer_[magshot].md) *Ambusher (3075)* `Stealth` 
+- [**Grenadier Battle Armor (Hunter-Killer) [NARC]**](../../units/grenadier_battle_armor/grenadier_battle_armor_hunter-killer_[narc].md) *Ambusher (3075)* `Stealth` 
+
+#### [Hauberk Battle Armor](../../units/hauberk_battle_armor.md) 
+
+- [**Hauberk Battle Armor (Standard)**](../../units/hauberk_battle_armor/hauberk_battle_armor_standard.md) *Missile Boat (3070)* `Stealth` 
+
+#### [Hauberk II Battle Armor](../../units/hauberk_ii_battle_armor.md) 
+
+- [**Hauberk II Battle Armor (Standard)**](../../units/hauberk_ii_battle_armor/hauberk_ii_battle_armor_standard.md) *Ambusher (3072)* `Stealth` 
 
 ## Combat Vehicles 
 

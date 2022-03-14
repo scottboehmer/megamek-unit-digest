@@ -12,6 +12,20 @@
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
 
+#### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
+
+- [**Trinity Medium Battle Armor (Theseus)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus[mrr].md) *Ambusher (3065)* 
+- [**Trinity Medium Battle Armor (Theseus RL)[LRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus_rl[lrr].md) *Ambusher (3069)* 
+
+### 2 Tons 
+
+#### [Grenadier Battle Armor](../../units/grenadier_battle_armor.md) 
+
+- [**Grenadier Battle Armor [Flamer]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[flamer].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [LRR]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[lrr].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [SL]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[sl].md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor [TAG]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[tag].md) *Ambusher (3065)* `Stealth` , `TAG` 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

@@ -1,5 +1,13 @@
 # ComStar / Late Succession Wars - Renaissance 
 
+## Battle Armor 
+
+### 0.40 Tons 
+
+#### [Tornado PA(L)](../../units/tornado_pal.md) 
+
+- [**Tornado PA(L) P12 'Hurricane'**](../../units/tornado_pal/tornado_pal_p12_hurricane.md) *Ambusher (2905)* `Stealth` , `Stealth` 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

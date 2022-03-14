@@ -2,6 +2,23 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
+- [**Nighthawk PA(L) Mk. XXII**](../../units/nighthawk_pal/nighthawk_pal_mk._xxii.md) *Ambusher (2749)* `Stealth` 
+
+#### [Tornado PA(L)](../../units/tornado_pal.md) 
+
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+- [**Tornado PA(L) G13 [David Light Gauss]**](../../units/tornado_pal/tornado_pal_g13_[david_light_gauss].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Flamer]**](../../units/tornado_pal/tornado_pal_g13_[flamer].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Grenade Launcher]**](../../units/tornado_pal/tornado_pal_g13_[grenade_launcher].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Machine Gun]**](../../units/tornado_pal/tornado_pal_g13_[machine_gun].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G13 [Small Laser]**](../../units/tornado_pal/tornado_pal_g13_[small_laser].md) *Ambusher (3066)* `Stealth` 
+- [**Tornado PA(L) G14**](../../units/tornado_pal/tornado_pal_g14.md) *Ambusher (3070)* `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Achileus Light Battle Armor](../../units/achileus_light_battle_armor.md) 
@@ -13,7 +30,18 @@
 - [**Achileus Light Battle Armor (WoB)**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_wob.md) *Scout (3064)* `Active Probe` , `ECM` , `Stealth` 
 - [**Achileus Light Battle Armor [David]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[david].md) *Ambusher (3064)* `Stealth` 
 
+#### [Djinn Battle Armor](../../units/djinn_battle_armor.md) 
+
+- [**Djinn Battle Armor (Standard)**](../../units/djinn_battle_armor/djinn_battle_armor_standard.md) *Scout (3070)* `TAG` 
+- [**Djinn Battle Armor (Stealth)**](../../units/djinn_battle_armor/djinn_battle_armor_stealth.md) *Ambusher (3071)* `Stealth` 
+
 ### 1 Tons 
+
+#### [Asura Medium Battle Armor](../../units/asura_medium_battle_armor.md) 
+
+- [**Asura Medium Battle Armor (Anti-Infantry)**](../../units/asura_medium_battle_armor/asura_medium_battle_armor_anti-infantry.md) *Ambusher (3072)* `Stealth` 
+- [**Asura Medium Battle Armor (SRM)**](../../units/asura_medium_battle_armor/asura_medium_battle_armor_srm.md) *Ambusher (3072)* 
+- [**Asura Medium Battle Armor (Standard)**](../../units/asura_medium_battle_armor/asura_medium_battle_armor_standard.md) *Ambusher (3072)* 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
@@ -36,6 +64,48 @@
 - [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
+
+#### [Se'irim Medium Battle Armor](../../units/seirim_medium_battle_armor.md) 
+
+- [**Se'irim Medium Battle Armor (Anti-Infantry)**](../../units/seirim_medium_battle_armor/seirim_medium_battle_armor_anti-infantry.md) *Ambusher (3072)* `Stealth` 
+- [**Se'irim Medium Battle Armor (Standard)**](../../units/seirim_medium_battle_armor/seirim_medium_battle_armor_standard.md) *Ambusher (3072)* `Stealth` 
+- [**Se'irim Medium Battle Armor (Capture Team)**](../../units/seirim_medium_battle_armor/seirim_medium_battle_armor_capture_team.md) *Ambusher (3073)* `Stealth` 
+
+### 1.50 Tons 
+
+#### [Phalanx Battle Armor](../../units/phalanx_battle_armor.md) 
+
+- [**Phalanx Battle Armor (A)**](../../units/phalanx_battle_armor/phalanx_battle_armor_a.md) *Ambusher (3065)* `Stealth` 
+- [**Phalanx Battle Armor (B)**](../../units/phalanx_battle_armor/phalanx_battle_armor_b.md) *Ambusher (3065)* `Stealth` 
+- [**Phalanx Battle Armor (C)**](../../units/phalanx_battle_armor/phalanx_battle_armor_c.md) *Ambusher (3071)* `Stealth` 
+
+#### [Tengu Heavy Battle Armor](../../units/tengu_heavy_battle_armor.md) 
+
+- [**Tengu Heavy Battle Armor (Plasma)**](../../units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_plasma.md) *Juggernaut (3070)* 
+- [**Tengu Heavy Battle Armor (Support)**](../../units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_support.md) *Juggernaut (3070)* 
+- [**Tengu Heavy Battle Armor (ML)**](../../units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_ml.md) *Juggernaut (3074)* 
+- [**Tengu Heavy Battle Armor (VSP)**](../../units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_vsp.md) *Juggernaut (3074)* 
+- [**Tengu Heavy Battle Armor (C3i)**](../../units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_c3i.md) *Juggernaut (3075)* `C3i` , `TAG` 
+- [**Tengu Heavy Battle Armor (RL)**](../../units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_rl.md) *Ambusher (3075)* 
+
+### 2 Tons 
+
+#### [Nephilim Assault Battle Armor](../../units/nephilim_assault_battle_armor.md) 
+
+- [**Nephilim Assault Battle Armor (Gauss)**](../../units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_gauss.md) *Juggernaut (3071)* `Stealth` 
+- [**Nephilim Assault Battle Armor (Seeker) [MG]**](../../units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_seeker_[mg].md) *Juggernaut (3071)* `Active Probe` , `Stealth` 
+- [**Nephilim Assault Battle Armor (Standard)**](../../units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_standard.md) *Juggernaut (3071)* `Stealth` 
+- [**Nephilim Assault Battle Armor (Capture Team)[HMG]**](../../units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_capture_team[hmg].md) *Juggernaut (3075)* `Stealth` 
+- [**Nephilim Assault Battle Armor (Narc)**](../../units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_narc.md) *Juggernaut (3075)* `Stealth` 
+- [**Nephilim Assault Battle Armor (Support)**](../../units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_support.md) *Juggernaut (3075)* `Stealth` 
+
+#### [Shedu Assault Battle Armor](../../units/shedu_assault_battle_armor.md) 
+
+- [**Shedu Assault Battle Armor (Recon)**](../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_recon.md) *Scout (3072)* `Active Probe` , `ECM` , `Stealth` 
+- [**Shedu Assault Battle Armor (Standard)**](../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_standard.md) *Juggernaut (3072)* 
+- [**Shedu Assault Battle Armor (Support)**](../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_support.md) *Juggernaut (3072)* 
+- [**Shedu Assault Battle Armor (Capture Team)**](../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_capture_team.md) *Juggernaut (3074)* 
+- [**Shedu Assault Battle Armor (PPC)**](../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_ppc.md) *Juggernaut (3074)* 
 
 ## Combat Vehicles 
 

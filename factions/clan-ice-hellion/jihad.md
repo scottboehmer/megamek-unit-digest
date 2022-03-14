@@ -4,6 +4,10 @@
 
 ### 1 Tons 
 
+#### [Afreet Medium Battle Armor](../../units/afreet_medium_battle_armor.md) 
+
+- [**Afreet Medium Battle Armor (Standard)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standard.md) *Scout (3067)* `Active Probe` 
+
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 

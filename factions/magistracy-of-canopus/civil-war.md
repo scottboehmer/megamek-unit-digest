@@ -12,6 +12,10 @@
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
 
+#### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
+
+- [**Trinity Medium Battle Armor (Theseus)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus[mrr].md) *Ambusher (3065)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

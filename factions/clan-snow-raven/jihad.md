@@ -2,6 +2,13 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Aerie PA(L)](../../units/aerie_pal.md) 
+
+- [**Aerie PA(L) (Standard)**](../../units/aerie_pal/aerie_pal_standard.md) *Ambusher (3067)* `Stealth` 
+- [**Aerie PA(L) (Salvage)**](../../units/aerie_pal/aerie_pal_salvage.md) *Ambusher (3069)* `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Sylph Battle Armor](../../units/sylph_battle_armor.md) 
@@ -27,6 +34,10 @@
 - [**Salamander Battle Armor (Laser)**](../../units/salamander_battle_armor/salamander_battle_armor_laser.md) *Ambusher (3064)* 
 
 ### 1.50 Tons 
+
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 

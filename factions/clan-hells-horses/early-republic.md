@@ -4,6 +4,11 @@
 
 ### 1 Tons 
 
+#### [Afreet Medium Battle Armor](../../units/afreet_medium_battle_armor.md) 
+
+- [**Afreet Medium Battle Armor (Standard)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standard.md) *Scout (3067)* `Active Probe` 
+- [**Afreet Medium Battle Armor (Hell's Horses)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horses.md) *Scout (3072)* 
+
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
@@ -26,12 +31,23 @@
 
 ### 1.50 Tons 
 
+#### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
+
+- [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
+
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
 - [**Gnome Battle Armor (Upgrade) [Bearhunter]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[bearhunter].md) *Juggernaut (3069)* 
 - [**Gnome Battle Armor (Upgrade) [MRR]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[mrr].md) *Juggernaut (3069)* 
 - [**Gnome Battle Armor (Upgrade) [Pulse Laser]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[pulse_laser].md) *Juggernaut (3069)* 
+
+### 2 Tons 
+
+#### [Golem Assault Armor](../../units/golem_assault_armor.md) 
+
+- [**Golem Assault Armor (Fast Assault)**](../../units/golem_assault_armor/golem_assault_armor_fast_assault.md) *Juggernaut (3072)* 
+- [**Golem Assault Armor (Rock Golem)**](../../units/golem_assault_armor/golem_assault_armor_rock_golem.md) *Juggernaut (3072)* 
 
 ## Combat Vehicles 
 

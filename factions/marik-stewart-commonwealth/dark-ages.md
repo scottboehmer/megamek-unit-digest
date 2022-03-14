@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Tornado PA(L)](../../units/tornado_pal.md) 
+
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+
 ### 0.75 Tons 
 
 #### [Achileus Light Battle Armor](../../units/achileus_light_battle_armor.md) 
@@ -13,6 +19,10 @@
 - [**Achileus Light Battle Armor [David]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[david].md) *Ambusher (3064)* `Stealth` 
 
 ### 1 Tons 
+
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
@@ -28,6 +38,14 @@
 - [**Longinus Battle Armor [Laser]**](../../units/longinus_battle_armor/longinus_battle_armor_[laser].md) *Ambusher (3057)* 
 - [**Longinus Battle Armor [MG]**](../../units/longinus_battle_armor/longinus_battle_armor_[mg].md) *Ambusher (3057)* 
 - [**Longinus Battle Armor [David]**](../../units/longinus_battle_armor/longinus_battle_armor_[david].md) *Ambusher (3063)* 
+
+### 1.50 Tons 
+
+#### [Phalanx Battle Armor](../../units/phalanx_battle_armor.md) 
+
+- [**Phalanx Battle Armor (A)**](../../units/phalanx_battle_armor/phalanx_battle_armor_a.md) *Ambusher (3065)* `Stealth` 
+- [**Phalanx Battle Armor (B)**](../../units/phalanx_battle_armor/phalanx_battle_armor_b.md) *Ambusher (3065)* `Stealth` 
+- [**Phalanx Battle Armor (C)**](../../units/phalanx_battle_armor/phalanx_battle_armor_c.md) *Ambusher (3071)* `Stealth` 
 
 ## Combat Vehicles 
 
