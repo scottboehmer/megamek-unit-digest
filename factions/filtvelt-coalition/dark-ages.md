@@ -11,6 +11,12 @@
 - [**Cavalier Battle Armor [MG]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[mg].md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor [SRM]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[srm].md) *Ambusher (3058)* 
 
+### 2 Tons 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

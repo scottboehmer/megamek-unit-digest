@@ -70,6 +70,10 @@
 - [**Fenrir Battle Armor [Mortar]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mortar].md) *Scout (3064)* 
 - [**Fenrir Battle Armor [VSP]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[vsp].md) *Scout (3071)* 
 
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

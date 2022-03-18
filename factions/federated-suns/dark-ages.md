@@ -46,6 +46,10 @@
 
 - [**Hauberk II Battle Armor (Standard)**](../../units/hauberk_ii_battle_armor/hauberk_ii_battle_armor_standard.md) *Ambusher (3072)* `Stealth` 
 
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

@@ -33,6 +33,14 @@
 - [**Void Medium Battle Armor (Standard)**](../../units/void_medium_battle_armor/void_medium_battle_armor_standard.md) *Scout (3067)* `Stealth` 
 - [**Void Medium Battle Armor (DCA)**](../../units/void_medium_battle_armor/void_medium_battle_armor_dca.md) *Scout (3068)* `Stealth` 
 
+### 1.50 Tons 
+
+#### [Thunderbird Battle Armor](../../units/thunderbird_battle_armor.md) 
+
+- [**Thunderbird Battle Armor [AP Gauss]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[ap_gauss].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [ER Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[er_laser].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [Pulse Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[pulse_laser].md) *Ambusher (3086)* 
+
 ### 2 Tons 
 
 #### [Kanazuchi Assault Battle Armor](../../units/kanazuchi_assault_battle_armor.md) 
@@ -41,6 +49,10 @@
 - [**Kanazuchi Assault Battle Armor [Industrial Drill]**](../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[industrial_drill].md) *Juggernaut (3058)* 
 - [**Kanazuchi Assault Battle Armor [Salvage Arm]**](../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[salvage_arm].md) *Juggernaut (3058)* 
 - [**Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw]**](../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_upgrade_[battle_claw].md) *Juggernaut (3070)* 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
 
 ## Combat Vehicles 
 

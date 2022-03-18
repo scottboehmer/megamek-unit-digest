@@ -24,6 +24,12 @@
 
 - [**Trinity Medium Battle Armor (Ying Long)(Plasma)**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_ying_longplasma.md) *Ambusher (3065)* `Stealth` 
 
+### 2 Tons 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

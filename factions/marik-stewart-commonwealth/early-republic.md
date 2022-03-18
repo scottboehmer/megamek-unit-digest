@@ -43,6 +43,13 @@
 - [**Phalanx Battle Armor (B)**](../../units/phalanx_battle_armor/phalanx_battle_armor_b.md) *Ambusher (3065)* `Stealth` 
 - [**Phalanx Battle Armor (C)**](../../units/phalanx_battle_armor/phalanx_battle_armor_c.md) *Ambusher (3071)* `Stealth` 
 
+### 2 Tons 
+
+#### [Kopis Assault Battle Armor](../../units/kopis_assault_battle_armor.md) 
+
+- [**Kopis Assault Battle Armor 'The Dark Alley'**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alley.md) *Ambusher (3077)* 
+- [**Kopis Assault Battle Armor (Anti-Infantry)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantry.md) *Ambusher (3078)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

@@ -58,6 +58,15 @@
 - [**Fenrir Battle Armor [Mortar]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mortar].md) *Scout (3064)* 
 - [**Fenrir Battle Armor [VSP]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[vsp].md) *Scout (3071)* 
 
+#### [Kopis Assault Battle Armor](../../units/kopis_assault_battle_armor.md) 
+
+- [**Kopis Assault Battle Armor 'The Dark Alley'**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alley.md) *Ambusher (3077)* 
+- [**Kopis Assault Battle Armor (Anti-Infantry)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantry.md) *Ambusher (3078)* 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

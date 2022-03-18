@@ -31,6 +31,12 @@
 - [**Trinity Medium Battle Armor (Asterion)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[mrr].md) *Ambusher (3065)* 
 - [**Trinity Medium Battle Armor (Asterion)[PPC]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[ppc].md) *Ambusher (3065)* 
 
+### 2 Tons 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

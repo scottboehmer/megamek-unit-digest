@@ -31,6 +31,11 @@
 
 ### 1 Tons 
 
+#### [Angerona Scout Suit](../../units/angerona_scout_suit.md) 
+
+- [**Angerona Scout Suit (Standard)**](../../units/angerona_scout_suit/angerona_scout_suit_standard.md) *Ambusher (3083)* `Stealth` , `Stealth` 
+- [**Angerona Scout Suit (Recon)**](../../units/angerona_scout_suit/angerona_scout_suit_recon.md) *Scout (3085)* `Active Probe` , `Stealth` , `Stealth` 
+
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
@@ -85,11 +90,30 @@
 
 - [**Phalanx Battle Armor (A)**](../../units/phalanx_battle_armor/phalanx_battle_armor_a.md) *Ambusher (3065)* `Stealth` 
 
+#### [Thunderbird Battle Armor](../../units/thunderbird_battle_armor.md) 
+
+- [**Thunderbird Battle Armor [AP Gauss]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[ap_gauss].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [ER Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[er_laser].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [Pulse Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[pulse_laser].md) *Ambusher (3086)* 
+
+#### [Thunderbird II Battle Armor](../../units/thunderbird_ii_battle_armor.md) 
+
+- [**Thunderbird II Battle Armor (RotS)**](../../units/thunderbird_ii_battle_armor/thunderbird_ii_battle_armor_rots.md) *Ambusher (3133)* `C3 Support` 
+
 ### 2 Tons 
 
 #### [Hauberk Battle Armor](../../units/hauberk_battle_armor.md) 
 
 - [**Hauberk Battle Armor (Standard)**](../../units/hauberk_battle_armor/hauberk_battle_armor_standard.md) *Missile Boat (3070)* `Stealth` 
+
+#### [Kopis Assault Battle Armor](../../units/kopis_assault_battle_armor.md) 
+
+- [**Kopis Assault Battle Armor 'The Dark Alley'**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alley.md) *Ambusher (3077)* 
+- [**Kopis Assault Battle Armor (Anti-Infantry)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantry.md) *Ambusher (3078)* 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
 
 ## Combat Vehicles 
 

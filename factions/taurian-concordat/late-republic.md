@@ -43,6 +43,10 @@
 - [**Grenadier Battle Armor [SL]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[sl].md) *Ambusher (3065)* `Stealth` 
 - [**Grenadier Battle Armor [TAG]**](../../units/grenadier_battle_armor/grenadier_battle_armor_[tag].md) *Ambusher (3065)* `Stealth` , `TAG` 
 
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

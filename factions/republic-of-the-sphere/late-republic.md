@@ -31,6 +31,11 @@
 
 ### 1 Tons 
 
+#### [Angerona Scout Suit](../../units/angerona_scout_suit.md) 
+
+- [**Angerona Scout Suit (Standard)**](../../units/angerona_scout_suit/angerona_scout_suit_standard.md) *Ambusher (3083)* `Stealth` , `Stealth` 
+- [**Angerona Scout Suit (Recon)**](../../units/angerona_scout_suit/angerona_scout_suit_recon.md) *Scout (3085)* `Active Probe` , `Stealth` , `Stealth` 
+
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
@@ -86,6 +91,11 @@
 #### [Hauberk Battle Armor](../../units/hauberk_battle_armor.md) 
 
 - [**Hauberk Battle Armor (Standard)**](../../units/hauberk_battle_armor/hauberk_battle_armor_standard.md) *Missile Boat (3070)* `Stealth` 
+
+#### [Kopis Assault Battle Armor](../../units/kopis_assault_battle_armor.md) 
+
+- [**Kopis Assault Battle Armor 'The Dark Alley'**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alley.md) *Ambusher (3077)* 
+- [**Kopis Assault Battle Armor (Anti-Infantry)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantry.md) *Ambusher (3078)* 
 
 ## Combat Vehicles 
 

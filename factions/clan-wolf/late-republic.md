@@ -46,6 +46,12 @@
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
 
+### 2 Tons 
+
+#### [Warg Assault Battle Armor](../../units/warg_assault_battle_armor.md) 
+
+- [**Warg Assault Battle Armor (Standard)**](../../units/warg_assault_battle_armor/warg_assault_battle_armor_standard.md) *Juggernaut (3086)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

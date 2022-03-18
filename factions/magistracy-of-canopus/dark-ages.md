@@ -17,6 +17,12 @@
 - [**Trinity Medium Battle Armor (Theseus)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus[mrr].md) *Ambusher (3065)* 
 - [**Trinity Medium Battle Armor (Theseus RL)[LRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus_rl[lrr].md) *Ambusher (3069)* 
 
+### 2 Tons 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

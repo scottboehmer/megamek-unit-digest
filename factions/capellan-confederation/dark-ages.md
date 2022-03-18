@@ -30,6 +30,12 @@
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
 
+### 2 Tons 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

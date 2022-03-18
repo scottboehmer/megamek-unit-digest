@@ -17,7 +17,7 @@
   - SRM 3 (ammo: 4) 
   - Machine Gun × 2 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4931/rogue-bear-heavy-battle-armor-standard) 
-- **Battle Value:** 68 (475 for 5 suits) 
+- **Battle Value:** 67 (466 for 5 suits) 
 
 ## Availability 
 

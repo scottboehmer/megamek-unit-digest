@@ -81,6 +81,11 @@
 - [**Afreet Medium Battle Armor (Hell's Horses)**](units/afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horses.md) *Scout (3072)* 
 - [**Afreet Medium Battle Armor (Jade Falcon)**](units/afreet_medium_battle_armor/afreet_medium_battle_armor_jade_falcon.md) *Scout (3072)* 
 
+#### [Angerona Scout Suit](units/angerona_scout_suit.md) 
+
+- [**Angerona Scout Suit (Standard)**](units/angerona_scout_suit/angerona_scout_suit_standard.md) *Ambusher (3083)* `Stealth` , `Stealth` 
+- [**Angerona Scout Suit (Recon)**](units/angerona_scout_suit/angerona_scout_suit_recon.md) *Scout (3085)* `Active Probe` , `Stealth` , `Stealth` 
+
 #### [Asura Medium Battle Armor](units/asura_medium_battle_armor.md) 
 
 - [**Asura Medium Battle Armor (Anti-Infantry)**](units/asura_medium_battle_armor/asura_medium_battle_armor_anti-infantry.md) *Ambusher (3072)* `Stealth` 
@@ -243,6 +248,16 @@
 - [**Tengu Heavy Battle Armor (C3i)**](units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_c3i.md) *Juggernaut (3075)* `C3i` , `TAG` 
 - [**Tengu Heavy Battle Armor (RL)**](units/tengu_heavy_battle_armor/tengu_heavy_battle_armor_rl.md) *Ambusher (3075)* 
 
+#### [Thunderbird Battle Armor](units/thunderbird_battle_armor.md) 
+
+- [**Thunderbird Battle Armor [AP Gauss]**](units/thunderbird_battle_armor/thunderbird_battle_armor_[ap_gauss].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [ER Laser]**](units/thunderbird_battle_armor/thunderbird_battle_armor_[er_laser].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [Pulse Laser]**](units/thunderbird_battle_armor/thunderbird_battle_armor_[pulse_laser].md) *Ambusher (3086)* 
+
+#### [Thunderbird II Battle Armor](units/thunderbird_ii_battle_armor.md) 
+
+- [**Thunderbird II Battle Armor (RotS)**](units/thunderbird_ii_battle_armor/thunderbird_ii_battle_armor_rots.md) *Ambusher (3133)* `C3 Support` 
+
 ### 2 Tons 
 
 #### [Fenrir Battle Armor](units/fenrir_battle_armor.md) 
@@ -280,12 +295,22 @@
 
 - [**Hauberk II Battle Armor (Standard)**](units/hauberk_ii_battle_armor/hauberk_ii_battle_armor_standard.md) *Ambusher (3072)* `Stealth` 
 
+#### [Ironhold Assault Battle Armor](units/ironhold_assault_battle_armor.md) 
+
+- [**Ironhold Assault Battle Armor (Standard)**](units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_standard.md) *Juggernaut (3077)* 
+- [**Ironhold Assault Battle Armor (Fire)**](units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_fire.md) *Juggernaut (3082)* 
+
 #### [Kanazuchi Assault Battle Armor](units/kanazuchi_assault_battle_armor.md) 
 
 - [**Kanazuchi Assault Battle Armor [Battle Claw]**](units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[battle_claw].md) *Juggernaut (3058)* 
 - [**Kanazuchi Assault Battle Armor [Industrial Drill]**](units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[industrial_drill].md) *Juggernaut (3058)* 
 - [**Kanazuchi Assault Battle Armor [Salvage Arm]**](units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_[salvage_arm].md) *Juggernaut (3058)* 
 - [**Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw]**](units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_upgrade_[battle_claw].md) *Juggernaut (3070)* 
+
+#### [Kopis Assault Battle Armor](units/kopis_assault_battle_armor.md) 
+
+- [**Kopis Assault Battle Armor 'The Dark Alley'**](units/kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alley.md) *Ambusher (3077)* 
+- [**Kopis Assault Battle Armor (Anti-Infantry)**](units/kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantry.md) *Ambusher (3078)* 
 
 #### [Nephilim Assault Battle Armor](units/nephilim_assault_battle_armor.md) 
 
@@ -296,6 +321,10 @@
 - [**Nephilim Assault Battle Armor (Narc)**](units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_narc.md) *Juggernaut (3075)* `Stealth` 
 - [**Nephilim Assault Battle Armor (Support)**](units/nephilim_assault_battle_armor/nephilim_assault_battle_armor_support.md) *Juggernaut (3075)* `Stealth` 
 
+#### [Ravager Assault Battle Armor](units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 #### [Shedu Assault Battle Armor](units/shedu_assault_battle_armor.md) 
 
 - [**Shedu Assault Battle Armor (Recon)**](units/shedu_assault_battle_armor/shedu_assault_battle_armor_recon.md) *Scout (3072)* `Active Probe` , `ECM` , `Stealth` 
@@ -303,6 +332,10 @@
 - [**Shedu Assault Battle Armor (Support)**](units/shedu_assault_battle_armor/shedu_assault_battle_armor_support.md) *Juggernaut (3072)* 
 - [**Shedu Assault Battle Armor (Capture Team)**](units/shedu_assault_battle_armor/shedu_assault_battle_armor_capture_team.md) *Juggernaut (3074)* 
 - [**Shedu Assault Battle Armor (PPC)**](units/shedu_assault_battle_armor/shedu_assault_battle_armor_ppc.md) *Juggernaut (3074)* 
+
+#### [Warg Assault Battle Armor](units/warg_assault_battle_armor.md) 
+
+- [**Warg Assault Battle Armor (Standard)**](units/warg_assault_battle_armor/warg_assault_battle_armor_standard.md) *Juggernaut (3086)* 
 
 ## Combat Vehicles 
 

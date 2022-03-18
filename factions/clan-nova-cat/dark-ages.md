@@ -47,6 +47,16 @@
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
 
+#### [Thunderbird Battle Armor](../../units/thunderbird_battle_armor.md) 
+
+- [**Thunderbird Battle Armor [AP Gauss]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[ap_gauss].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [ER Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[er_laser].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [Pulse Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[pulse_laser].md) *Ambusher (3086)* 
+
+#### [Thunderbird II Battle Armor](../../units/thunderbird_ii_battle_armor.md) 
+
+- [**Thunderbird II Battle Armor (RotS)**](../../units/thunderbird_ii_battle_armor/thunderbird_ii_battle_armor_rots.md) *Ambusher (3133)* `C3 Support` 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

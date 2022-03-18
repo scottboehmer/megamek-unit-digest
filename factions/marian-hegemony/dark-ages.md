@@ -26,6 +26,12 @@
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
 
+### 2 Tons 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

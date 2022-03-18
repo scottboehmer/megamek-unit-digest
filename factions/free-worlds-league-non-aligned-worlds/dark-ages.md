@@ -43,6 +43,12 @@
 - [**Phalanx Battle Armor (B)**](../../units/phalanx_battle_armor/phalanx_battle_armor_b.md) *Ambusher (3065)* `Stealth` 
 - [**Phalanx Battle Armor (C)**](../../units/phalanx_battle_armor/phalanx_battle_armor_c.md) *Ambusher (3071)* `Stealth` 
 
+### 2 Tons 
+
+#### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
+
+- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

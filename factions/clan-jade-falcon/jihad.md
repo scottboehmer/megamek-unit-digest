@@ -34,6 +34,12 @@
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
 
+### 2 Tons 
+
+#### [Ironhold Assault Battle Armor](../../units/ironhold_assault_battle_armor.md) 
+
+- [**Ironhold Assault Battle Armor (Standard)**](../../units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_standard.md) *Juggernaut (3077)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

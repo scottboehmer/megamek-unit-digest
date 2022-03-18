@@ -58,6 +58,12 @@
 
 - [**Rogue Bear Heavy Battle Armor (Standard)**](../../units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standard.md) *Ambusher (3073)* 
 
+#### [Thunderbird Battle Armor](../../units/thunderbird_battle_armor.md) 
+
+- [**Thunderbird Battle Armor [AP Gauss]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[ap_gauss].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [ER Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[er_laser].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor [Pulse Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[pulse_laser].md) *Ambusher (3086)* 
+
 ### 2 Tons 
 
 #### [Golem Assault Armor](../../units/golem_assault_armor.md) 
