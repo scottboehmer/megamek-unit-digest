@@ -1,5 +1,14 @@
 # Clan Diamond Shark / Late Succession Wars - Renaissance 
 
+## Battle Armor 
+
+### 1 Tons 
+
+#### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
+
+- [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

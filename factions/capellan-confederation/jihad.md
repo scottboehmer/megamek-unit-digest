@@ -11,6 +11,8 @@
 - [**Fa Shih Battle Armor [LRR]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[lrr].md) *Ambusher (3062)* 
 - [**Fa Shih Battle Armor [MG]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[mg].md) *Ambusher (3062)* 
 - [**Fa Shih Battle Armor [TAG]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_[tag].md) *Ambusher (3062)* `TAG` 
+- [**Fa Shih Battle Armor (Support) [King David]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[king_david].md) *Ambusher (3074)* 
+- [**Fa Shih Battle Armor (Support) [Plasma]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[plasma].md) *Ambusher (3074)* 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 

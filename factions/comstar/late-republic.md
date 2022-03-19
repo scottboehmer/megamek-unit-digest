@@ -4,6 +4,10 @@
 
 ### 1 Tons 
 
+#### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
+
+- [**Infiltrator Mk. II Battle Armor (Magnetic)**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magnetic.md) *Ambusher (3071)* `ECM` , `Stealth` 
+
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
@@ -17,6 +21,12 @@
 - [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
+
+### 1.50 Tons 
+
+#### [Gray Death Heavy Suit](../../units/gray_death_heavy_suit.md) 
+
+- [**Gray Death Heavy Suit (Standard)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standard.md) *Scout (3083)* `Active Probe` 
 
 ## Combat Vehicles 
 

@@ -381,6 +381,7 @@
 - [Grand Titan](units/grand_titan.md) 
 - [Grasshopper](units/grasshopper.md) 
 - [Gravedigger](units/gravedigger.md) 
+- [Gray Death Heavy Suit](units/gray_death_heavy_suit.md) 
 - [Gray Death Scout Suit](units/gray_death_scout_suit.md) 
 - [Gray Death Standard Suit](units/gray_death_standard_suit.md) 
 - [Great Turtle](units/great_turtle.md) 

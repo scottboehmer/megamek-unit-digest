@@ -37,6 +37,8 @@
 
 - [**Trinity Medium Battle Armor (Asterion)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[mrr].md) *Ambusher (3065)* 
 - [**Trinity Medium Battle Armor (Asterion)[PPC]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion[ppc].md) *Ambusher (3065)* 
+- [**Trinity Medium Battle Armor (Asterion Upgrade)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion_upgrade[mrr].md) *Ambusher (3073)* 
+- [**Trinity Medium Battle Armor (Asterion Upgrade)[PPC]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterion_upgrade[ppc].md) *Ambusher (3073)* 
 
 ### 2 Tons 
 

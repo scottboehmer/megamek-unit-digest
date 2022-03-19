@@ -7,11 +7,12 @@
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
 - [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
+- [**Nighthawk PA(L) Mk. XXX**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx.md) *Ambusher (2744)* `Stealth` 
 - [**Nighthawk PA(L) Mk. XXII**](../../units/nighthawk_pal/nighthawk_pal_mk._xxii.md) *Ambusher (2749)* `Stealth` 
 
 #### [Tornado PA(L)](../../units/tornado_pal.md) 
 
-- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` 
 - [**Tornado PA(L) G13 [David Light Gauss]**](../../units/tornado_pal/tornado_pal_g13_[david_light_gauss].md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G13 [Flamer]**](../../units/tornado_pal/tornado_pal_g13_[flamer].md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G13 [Grenade Launcher]**](../../units/tornado_pal/tornado_pal_g13_[grenade_launcher].md) *Ambusher (3066)* `Stealth` 

@@ -30,6 +30,16 @@
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
 
+#### [Rottweiler Battle Armor](../../units/rottweiler_battle_armor.md) 
+
+- [**Rottweiler Battle Armor (Firedrake)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrake.md) *Scout (3072)* `Stealth` 
+
+### 1.50 Tons 
+
+#### [Gray Death Heavy Suit](../../units/gray_death_heavy_suit.md) 
+
+- [**Gray Death Heavy Suit (Standard)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standard.md) *Scout (3083)* `Active Probe` 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

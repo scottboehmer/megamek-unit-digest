@@ -14,3 +14,18 @@
 - **Battle Value:** 35 (180 for 4 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_standard.md) 
 
+## Sloth Battle Armor (Interdictor) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3075) 
+- **Chassis:** Heavy Quad Battle Armor (1,500 kg) 
+- **Movement:** 3 
+- **Armor:** 5 (Standard) 
+- **Weapons:** 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - ECM Suite 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2969/sloth-battle-armor-interdictor) 
+- **Battle Value:** 44 (227 for 4 suits) 
+- [*More Info*](sloth_battle_armor/sloth_battle_armor_interdictor.md) 
+

@@ -1,6 +1,5 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
-Unable to convert data from 'Undine Battle Armor_Sebastian_.blk': Unrecognized component type: CLBASRM2 (OS)
 
 --------------------------------------------------
 Unrecognized Components:
@@ -142,6 +141,7 @@ Vulcan VT-5ML 'Aladdin'
 Vulpes VLP-1DX 'Beast'
 Watchman WTC-4MB 'Belle'
 Wraith TR2-P 'Pocahontas'
+Undine Battle Armor 'Sebastian'
 Puma Assault Tank PAT-001
 Puma Assault Tank PAT-002
 Falcon Hover Tank (Standard)
@@ -216,4 +216,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5444 files -> 5410 parsed files (34 skipped) -> 5190 converted files -> 5182 validated units
+5473 files -> 5434 parsed files (39 skipped) -> 5215 converted files -> 5207 validated units

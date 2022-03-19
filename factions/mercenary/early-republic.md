@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXX (Bounty Hunter)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx_bounty_hunter.md) *Ambusher (2957)* `Unique` 
+
 ### 0.75 Tons 
 
 #### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
@@ -20,6 +26,11 @@
 - [**Cavalier Battle Armor [Laser]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[laser].md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor [MG]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[mg].md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor [SRM]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[srm].md) *Ambusher (3058)* 
+
+#### [Fa Shih Battle Armor](../../units/fa_shih_battle_armor.md) 
+
+- [**Fa Shih Battle Armor (Support) [King David]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[king_david].md) *Ambusher (3074)* 
+- [**Fa Shih Battle Armor (Support) [Plasma]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[plasma].md) *Ambusher (3074)* 
 
 #### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 
 
@@ -44,6 +55,20 @@
 - [**Raiden Battle Armor [MG]**](../../units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
 - [**Raiden Battle Armor [MRM]**](../../units/raiden_battle_armor/raiden_battle_armor_[mrm].md) *Ambusher (3064)* 
+
+#### [Rottweiler Battle Armor](../../units/rottweiler_battle_armor.md) 
+
+- [**Rottweiler Battle Armor (Firedrake)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrake.md) *Scout (3072)* `Stealth` 
+
+### 1.50 Tons 
+
+#### [Gray Death Heavy Suit](../../units/gray_death_heavy_suit.md) 
+
+- [**Gray Death Heavy Suit (Standard)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standard.md) *Scout (3083)* `Active Probe` 
+
+#### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
+
+- [**Sloth Battle Armor (Interdictor)**](../../units/sloth_battle_armor/sloth_battle_armor_interdictor.md) *Ambusher (3075)* `ECM` 
 
 ### 2 Tons 
 

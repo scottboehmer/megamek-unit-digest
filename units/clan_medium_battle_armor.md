@@ -63,3 +63,24 @@
 - **Battle Value:** 48 (337 for 5 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_volk.md) 
 
+## Clan Medium Battle Armor (Rache) 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 4 
+- **Armor:** 10 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - SRM 3 (OS) × 2 
+  - Machine Gun 
+- **Equipment:** 
+  - Jump Booster 
+  - Searchlight 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/635/clan-medium-battle-armor-rache) 
+- **Battle Value:** 53 (372 for 5 suits) 
+- [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_rache.md) 
+

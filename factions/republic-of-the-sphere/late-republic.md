@@ -7,11 +7,12 @@
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
 - [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
+- [**Nighthawk PA(L) Mk. XXX**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx.md) *Ambusher (2744)* `Stealth` 
 - [**Nighthawk PA(L) Mk. XXII**](../../units/nighthawk_pal/nighthawk_pal_mk._xxii.md) *Ambusher (2749)* `Stealth` 
 
 #### [Tornado PA(L)](../../units/tornado_pal.md) 
 
-- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` 
 - [**Tornado PA(L) G13 [David Light Gauss]**](../../units/tornado_pal/tornado_pal_g13_[david_light_gauss].md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G13 [Flamer]**](../../units/tornado_pal/tornado_pal_g13_[flamer].md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G13 [Grenade Launcher]**](../../units/tornado_pal/tornado_pal_g13_[grenade_launcher].md) *Ambusher (3066)* `Stealth` 
@@ -29,12 +30,16 @@
 - [**Achileus Light Battle Armor [TAG]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[tag].md) *Ambusher (3059)* `Stealth` , `TAG` 
 - [**Achileus Light Battle Armor [David]**](../../units/achileus_light_battle_armor/achileus_light_battle_armor_[david].md) *Ambusher (3064)* `Stealth` 
 
+#### [Kage Light Battle Armor](../../units/kage_light_battle_armor.md) 
+
+- [**Kage Light Battle Armor (Space)**](../../units/kage_light_battle_armor/kage_light_battle_armor_space.md) *Scout (3067)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Angerona Scout Suit](../../units/angerona_scout_suit.md) 
 
-- [**Angerona Scout Suit (Standard)**](../../units/angerona_scout_suit/angerona_scout_suit_standard.md) *Ambusher (3083)* `Stealth` , `Stealth` 
-- [**Angerona Scout Suit (Recon)**](../../units/angerona_scout_suit/angerona_scout_suit_recon.md) *Scout (3085)* `Active Probe` , `Stealth` , `Stealth` 
+- [**Angerona Scout Suit (Standard)**](../../units/angerona_scout_suit/angerona_scout_suit_standard.md) *Ambusher (3083)* `Stealth` 
+- [**Angerona Scout Suit (Recon)**](../../units/angerona_scout_suit/angerona_scout_suit_recon.md) *Scout (3085)* `Active Probe` , `Stealth` 
 
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
 
@@ -49,6 +54,10 @@
 - [**Elemental Battle Armor [ER Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
+
+#### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
+
+- [**Infiltrator Mk. II Battle Armor (Magnetic)**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magnetic.md) *Ambusher (3071)* `ECM` , `Stealth` 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
@@ -72,6 +81,10 @@
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
 
+#### [Rottweiler Battle Armor](../../units/rottweiler_battle_armor.md) 
+
+- [**Rottweiler Battle Armor (Firedrake)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrake.md) *Scout (3072)* `Stealth` 
+
 #### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
 
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
@@ -82,9 +95,17 @@
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 
 
+#### [Gray Death Heavy Suit](../../units/gray_death_heavy_suit.md) 
+
+- [**Gray Death Heavy Suit (Standard)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standard.md) *Scout (3083)* `Active Probe` 
+
 #### [Phalanx Battle Armor](../../units/phalanx_battle_armor.md) 
 
 - [**Phalanx Battle Armor (A)**](../../units/phalanx_battle_armor/phalanx_battle_armor_a.md) *Ambusher (3065)* `Stealth` 
+
+#### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
+
+- [**Sloth Battle Armor (Interdictor)**](../../units/sloth_battle_armor/sloth_battle_armor_interdictor.md) *Ambusher (3075)* `ECM` 
 
 ### 2 Tons 
 

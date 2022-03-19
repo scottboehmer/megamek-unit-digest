@@ -9,6 +9,8 @@
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
 - [**Elemental Battle Armor (Headhunter)**](../../units/elemental_battle_armor/elemental_battle_armor_headhunter.md) *Ambusher (3050)* `Active Probe` 
 - [**Elemental Battle Armor [HMG]**](../../units/elemental_battle_armor/elemental_battle_armor_[hmg].md) *Ambusher (3059)* 
 - [**Elemental Battle Armor [ER Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 

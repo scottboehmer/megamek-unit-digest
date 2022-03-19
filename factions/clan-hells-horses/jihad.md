@@ -9,14 +9,21 @@
 - [**Afreet Medium Battle Armor (Standard)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standard.md) *Scout (3067)* `Active Probe` 
 - [**Afreet Medium Battle Armor (Hell's Horses)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horses.md) *Scout (3072)* 
 
+#### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
+
+- [**Clan Medium Battle Armor (Rache)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rache.md) *Scout (3077)* 
+
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
 - [**Elemental Battle Armor [HMG]**](../../units/elemental_battle_armor/elemental_battle_armor_[hmg].md) *Ambusher (3059)* 
 - [**Elemental Battle Armor [ER Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
+- [**Elemental Battle Armor (Space) [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[micropl].md) *Ambusher (3066)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
 #### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
@@ -35,6 +42,7 @@
 - [**Gnome Battle Armor (Upgrade) [Bearhunter]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[bearhunter].md) *Juggernaut (3069)* 
 - [**Gnome Battle Armor (Upgrade) [MRR]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[mrr].md) *Juggernaut (3069)* 
 - [**Gnome Battle Armor (Upgrade) [Pulse Laser]**](../../units/gnome_battle_armor/gnome_battle_armor_upgrade_[pulse_laser].md) *Juggernaut (3069)* 
+- [**Gnome Battle Armor (LRM)**](../../units/gnome_battle_armor/gnome_battle_armor_lrm.md) *Missile Boat (3073)* 
 
 ### 2 Tons 
 

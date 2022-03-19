@@ -69,3 +69,20 @@
 - **Battle Value:** 78 (549 for 5 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_[pulse_laser].md) 
 
+## Gnome Battle Armor (LRM) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3073) 
+- **Chassis:** Heavy Battle Armor (1,500 kg) 
+- **Movement:** 1 
+  - **Jumping:** 2 
+- **Armor:** 14 (Standard) 
+- **Manipulators:** 
+  - Heavy Battle Claw (right) 
+- **Weapons:** 
+  - LRM 4 (ammo: 4) 
+  - AP Gauss Rifle 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1215/gnome-battle-armor-lrm) 
+- **Battle Value:** 87 (611 for 5 suits) 
+- [*More Info*](gnome_battle_armor/gnome_battle_armor_lrm.md) 
+

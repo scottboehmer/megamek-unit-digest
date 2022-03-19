@@ -28,6 +28,7 @@
 - [**Raiden Battle Armor [Laser]**](../../units/raiden_battle_armor/raiden_battle_armor_[laser].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [MG]**](../../units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
+- [**Raiden Battle Armor (Anti-Infantry)**](../../units/raiden_battle_armor/raiden_battle_armor_anti-infantry.md) *Ambusher (3058)* 
 
 ### 2 Tons 
 

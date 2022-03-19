@@ -12,6 +12,7 @@
 - [**Kage Light Battle Armor [MG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[mg].md) *Scout (3056)* `Stealth` 
 - [**Kage Light Battle Armor [TAG]**](../../units/kage_light_battle_armor/kage_light_battle_armor_[tag].md) *Scout (3056)* `Stealth` , `TAG` 
 - [**Kage Light Battle Armor (DEST)**](../../units/kage_light_battle_armor/kage_light_battle_armor_dest.md) *Ambusher (3059)* `Stealth` 
+- [**Kage Light Battle Armor (Space)**](../../units/kage_light_battle_armor/kage_light_battle_armor_space.md) *Scout (3067)* `Stealth` 
 - [**Kage Light Battle Armor (Vibro-Claw)**](../../units/kage_light_battle_armor/kage_light_battle_armor_vibro-claw.md) *Scout (3069)* `Stealth` 
 
 ### 1 Tons 
@@ -22,6 +23,7 @@
 - [**Raiden Battle Armor [Laser]**](../../units/raiden_battle_armor/raiden_battle_armor_[laser].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [MG]**](../../units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
 - [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
+- [**Raiden Battle Armor (Anti-Infantry)**](../../units/raiden_battle_armor/raiden_battle_armor_anti-infantry.md) *Ambusher (3058)* 
 - [**Raiden Battle Armor [MRM]**](../../units/raiden_battle_armor/raiden_battle_armor_[mrm].md) *Ambusher (3064)* 
 
 #### [Void Medium Battle Armor](../../units/void_medium_battle_armor.md) 

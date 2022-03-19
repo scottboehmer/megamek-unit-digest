@@ -6,7 +6,7 @@
 
 #### [Tornado PA(L)](../../units/tornado_pal.md) 
 
-- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` 
 
 ### 0.75 Tons 
 

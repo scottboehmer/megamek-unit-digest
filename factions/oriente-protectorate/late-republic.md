@@ -6,7 +6,7 @@
 
 #### [Tornado PA(L)](../../units/tornado_pal.md) 
 
-- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` , `Stealth` 
+- [**Tornado PA(L) G12**](../../units/tornado_pal/tornado_pal_g12.md) *Ambusher (3058)* `Stealth` 
 
 ### 0.75 Tons 
 
@@ -34,6 +34,7 @@
 - [**Longinus Battle Armor [Laser]**](../../units/longinus_battle_armor/longinus_battle_armor_[laser].md) *Ambusher (3057)* 
 - [**Longinus Battle Armor [MG]**](../../units/longinus_battle_armor/longinus_battle_armor_[mg].md) *Ambusher (3057)* 
 - [**Longinus Battle Armor [David]**](../../units/longinus_battle_armor/longinus_battle_armor_[david].md) *Ambusher (3063)* 
+- [**Longinus Battle Armor (Magnetic)**](../../units/longinus_battle_armor/longinus_battle_armor_magnetic.md) *Ambusher (3069)* 
 
 ### 1.50 Tons 
 

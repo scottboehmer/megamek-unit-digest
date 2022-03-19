@@ -16,6 +16,7 @@
 
 - [**Trinity Medium Battle Armor (Theseus)[MRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus[mrr].md) *Ambusher (3065)* 
 - [**Trinity Medium Battle Armor (Theseus RL)[LRR]**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus_rl[lrr].md) *Ambusher (3069)* 
+- [**Trinity Medium Battle Armor (Theseus Support)'Killshot'**](../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus_supportkillshot.md) *Ambusher (3073)* 
 
 ### 2 Tons 
 

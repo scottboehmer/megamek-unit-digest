@@ -104,3 +104,41 @@
 - **Battle Value:** 31 (161 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_[tag].md) 
 
+## Fa Shih Battle Armor (Support) [King David] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - King David Light Gauss Rifle 
+- **Equipment:** 
+  - Magnetic Clamps 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1012/fa-shih-battle-armor-support-king-david) 
+- **Battle Value:** 36 (185 for 4 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_[king_david].md) 
+
+## Fa Shih Battle Armor (Support) [Plasma] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Advanced) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - Man-Portable Plasma Rifle 
+- **Equipment:** 
+  - Magnetic Clamps 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1013/fa-shih-battle-armor-support-plasma) 
+- **Battle Value:** 43 (225 for 4 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_[plasma].md) 
+

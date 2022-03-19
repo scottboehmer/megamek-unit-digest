@@ -9,6 +9,8 @@
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
 
 ### 1.50 Tons 
 

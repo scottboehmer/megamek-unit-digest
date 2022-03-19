@@ -76,3 +76,23 @@
 - **Battle Value:** 44 (231 for 4 suits) 
 - [*More Info*](longinus_battle_armor/longinus_battle_armor_[david].md) 
 
+## Longinus Battle Armor (Magnetic) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 9 (Advanced) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Heavy Machine Gun 
+  - Machine Gun 
+- **Equipment:** 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1941/longinus-battle-armor-magnetic) 
+- **Battle Value:** 48 (251 for 4 suits) 
+- [*More Info*](longinus_battle_armor/longinus_battle_armor_magnetic.md) 
+

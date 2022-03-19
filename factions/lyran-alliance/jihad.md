@@ -43,12 +43,14 @@
 - [**Rottweiler Battle Armor (Standard)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_standard.md) *Scout (3065)* `Active Probe` , `Stealth` 
 - [**Rottweiler Battle Armor (Close Combat)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_close_combat.md) *Scout (3069)* `Active Probe` , `Stealth` 
 - [**Rottweiler Battle Armor (Upgrade)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_upgrade.md) *Scout (3070)* `Stealth` 
+- [**Rottweiler Battle Armor (Firedrake)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrake.md) *Scout (3072)* `Stealth` 
 
 ### 1.50 Tons 
 
 #### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
 
 - [**Sloth Battle Armor (Standard)**](../../units/sloth_battle_armor/sloth_battle_armor_standard.md) *Ambusher (3050)* 
+- [**Sloth Battle Armor (Interdictor)**](../../units/sloth_battle_armor/sloth_battle_armor_interdictor.md) *Ambusher (3075)* `ECM` 
 
 ### 2 Tons 
 

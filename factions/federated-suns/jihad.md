@@ -22,6 +22,13 @@
 
 - [**Infiltrator Mk. II Battle Armor 'Puma'**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_puma.md) *Ambusher (3060)* `ECM` , `Stealth` 
 - [**Infiltrator Mk. II Battle Armor (Sensor)**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_sensor.md) *Ambusher (3063)* `Active Probe` , `ECM` , `Stealth` 
+- [**Infiltrator Mk. II Battle Armor (Magnetic)**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magnetic.md) *Ambusher (3071)* `ECM` , `Stealth` 
+
+### 1.50 Tons 
+
+#### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
+
+- [**Sloth Battle Armor (Interdictor)**](../../units/sloth_battle_armor/sloth_battle_armor_interdictor.md) *Ambusher (3075)* `ECM` 
 
 ### 2 Tons 
 

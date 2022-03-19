@@ -8,19 +8,27 @@
 
 - [**Afreet Medium Battle Armor (Standard)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standard.md) *Scout (3067)* `Active Probe` 
 - [**Afreet Medium Battle Armor (Jade Falcon)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_jade_falcon.md) *Scout (3072)* 
+- [**Afreet Medium Battle Armor (Interdictor)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_interdictor.md) *Scout (3076)* `ECM` 
 
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
+- [**Clan Medium Battle Armor (Rache)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rache.md) *Scout (3077)* 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
 - [**Elemental Battle Armor [HMG]**](../../units/elemental_battle_armor/elemental_battle_armor_[hmg].md) *Ambusher (3059)* 
 - [**Elemental Battle Armor [ER Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
+- [**Elemental Battle Armor (Space) [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[micropl].md) *Ambusher (3066)* 
+- [**Elemental Battle Armor (Fire) [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_fire_[ap_gauss].md) *Ambusher (3069)* 
+- [**Elemental Battle Armor (Fire) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_fire_[flamer].md) *Ambusher (3069)* 
+- [**Elemental Battle Armor (Fire) [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_fire_[micropl].md) *Ambusher (3069)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
 #### [Elemental III Battle Armor](../../units/elemental_iii_battle_armor.md) 

@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
+
+- [**Nighthawk PA(L) Mk. XXX (Bounty Hunter)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx_bounty_hunter.md) *Ambusher (2957)* `Unique` 
+
 ### 0.75 Tons 
 
 #### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 

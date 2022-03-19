@@ -81,6 +81,23 @@
 - **Battle Value:** 40 (207 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_[tsunami].md) 
 
+## Raiden Battle Armor (Anti-Infantry) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 9 (Advanced) 
+- **Manipulators:** 
+  - Battle Claw w/ Vibro-Claw (right) 
+- **Weapons:** 
+  - Machine Gun 
+  - Flamer 
+- **Sources:** TRO 3085 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2619/raiden-battle-armor-anti-infantry) 
+- **Battle Value:** 47 (243 for 4 suits) 
+- [*More Info*](raiden_battle_armor/raiden_battle_armor_anti-infantry.md) 
+
 ## Raiden Battle Armor [MRM] 
 
 - **Role:** Ambusher 

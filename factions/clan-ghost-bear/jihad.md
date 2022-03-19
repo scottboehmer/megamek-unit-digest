@@ -8,16 +8,20 @@
 
 - [**Clan Medium Battle Armor (Rabid)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabid.md) *Scout (3067)* 
 - [**Clan Medium Battle Armor (Bär)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_bär.md) *Scout (3070)* 
+- [**Clan Medium Battle Armor (Rache)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rache.md) *Scout (3077)* 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_[flamer].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[laser].md) *Ambusher (2868)* 
 - [**Elemental Battle Armor [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_[mg].md) *Ambusher (2868)* 
+- [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
 - [**Elemental Battle Armor (Headhunter)**](../../units/elemental_battle_armor/elemental_battle_armor_headhunter.md) *Ambusher (3050)* `Active Probe` 
 - [**Elemental Battle Armor [HMG]**](../../units/elemental_battle_armor/elemental_battle_armor_[hmg].md) *Ambusher (3059)* 
 - [**Elemental Battle Armor [ER Laser]**](../../units/elemental_battle_armor/elemental_battle_armor_[er_laser].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
+- [**Elemental Battle Armor (Space) [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[micropl].md) *Ambusher (3066)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
 #### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
@@ -43,6 +47,7 @@
 #### [Golem Assault Armor](../../units/golem_assault_armor.md) 
 
 - [**Golem Assault Armor (Standard)**](../../units/golem_assault_armor/golem_assault_armor_standard.md) *Juggernaut (3067)* 
+- [**Golem Assault Armor (Support)**](../../units/golem_assault_armor/golem_assault_armor_support.md) *Juggernaut (3076)* 
 
 ## Combat Vehicles 
 

@@ -111,6 +111,25 @@
 - **Battle Value:** 34 (177 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_dest.md) 
 
+## Kage Light Battle Armor (Space) 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3067) 
+- **Chassis:** Light Battle Armor (750 kg) 
+- **Movement:** 1 
+  - **Jumping:** 4 
+- **Armor:** 5 (Basic Stealth) 
+- **Manipulators:** 
+  - Battle Claw (right) 
+  - Armored Glove (left) 
+- **Equipment:** 
+  - Jump Booster 
+  - Cutting Torch 
+  - Space Operations Adaptation 
+- **Sources:** TRO 3085 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1731/kage-light-battle-armor-space) 
+- **Battle Value:** 20 (105 for 4 suits) 
+- [*More Info*](kage_light_battle_armor/kage_light_battle_armor_space.md) 
+
 ## Kage Light Battle Armor (Vibro-Claw) 
 
 - **Role:** Scout 
