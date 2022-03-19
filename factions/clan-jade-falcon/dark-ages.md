@@ -31,6 +31,10 @@
 - [**Elemental Battle Armor (Fire) [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_fire_[micropl].md) *Ambusher (3069)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [Elemental II Battle Armor](../../units/elemental_ii_battle_armor.md) 
+
+- [**Elemental II Battle Armor (Standard)**](../../units/elemental_ii_battle_armor/elemental_ii_battle_armor_standard.md) *Scout (3084)* 
+
 #### [Elemental III Battle Armor](../../units/elemental_iii_battle_armor.md) 
 
 - [**Elemental III Battle Armor [AP Gauss]**](../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_[ap_gauss].md) *Ambusher (3091)* `Stealth` 

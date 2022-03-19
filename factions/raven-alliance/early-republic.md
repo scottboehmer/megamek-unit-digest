@@ -15,6 +15,7 @@
 
 - [**Sylph Battle Armor (Standard)**](../../units/sylph_battle_armor/sylph_battle_armor_standard.md) *Scout (3060)* 
 - [**Sylph Battle Armor (Upgrade)**](../../units/sylph_battle_armor/sylph_battle_armor_upgrade.md) *Scout (3065)* 
+- [**Sylph Battle Armor (Enhanced)**](../../units/sylph_battle_armor/sylph_battle_armor_enhanced.md) *Scout (3085)* 
 
 ### 1 Tons 
 

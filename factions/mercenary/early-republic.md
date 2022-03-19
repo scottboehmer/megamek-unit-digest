@@ -4,6 +4,10 @@
 
 ### 0.40 Tons 
 
+#### [Gladiator Battle Armor](../../units/gladiator_battle_armor.md) 
+
+- [**Gladiator Battle Armor S**](../../units/gladiator_battle_armor/gladiator_battle_armor_s.md) *Scout (3084)* 
+
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
 - [**Nighthawk PA(L) Mk. XXX (Bounty Hunter)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx_bounty_hunter.md) *Ambusher (2957)* `Unique` 

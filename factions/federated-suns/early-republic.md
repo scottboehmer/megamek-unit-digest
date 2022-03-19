@@ -49,6 +49,7 @@
 #### [Hauberk Battle Armor](../../units/hauberk_battle_armor.md) 
 
 - [**Hauberk Battle Armor (Standard)**](../../units/hauberk_battle_armor/hauberk_battle_armor_standard.md) *Missile Boat (3070)* `Stealth` 
+- [**Hauberk Battle Armor Commando**](../../units/hauberk_battle_armor/hauberk_battle_armor_commando.md) *Ambusher (3088)* `Stealth` 
 
 #### [Hauberk II Battle Armor](../../units/hauberk_ii_battle_armor.md) 
 

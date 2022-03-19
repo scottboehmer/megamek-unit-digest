@@ -29,6 +29,10 @@
 - [**Gray Death Standard Suit [SRM]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[srm].md) *Ambusher (3052)* `Active Probe` 
 - [**Gray Death Standard Suit [LRR]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[lrr].md) *Ambusher (3069)* `Active Probe` 
 
+#### [Gray Death Strike Armor](../../units/gray_death_strike_armor.md) 
+
+- [**Gray Death Strike Armor (Standard)**](../../units/gray_death_strike_armor/gray_death_strike_armor_standard.md) *Ambusher (3080)* `TAG` 
+
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 

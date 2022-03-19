@@ -34,6 +34,7 @@
 
 - [**Void Medium Battle Armor (Standard)**](../../units/void_medium_battle_armor/void_medium_battle_armor_standard.md) *Scout (3067)* `Stealth` 
 - [**Void Medium Battle Armor (DCA)**](../../units/void_medium_battle_armor/void_medium_battle_armor_dca.md) *Scout (3068)* `Stealth` 
+- [**Void Medium Battle Armor (Minelayer)**](../../units/void_medium_battle_armor/void_medium_battle_armor_minelayer.md) *Ambusher (3079)* `Stealth` 
 
 ### 2 Tons 
 

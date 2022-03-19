@@ -57,3 +57,24 @@
 - **Battle Value:** 49 (342 for 5 suits) 
 - [*More Info*](void_medium_battle_armor/void_medium_battle_armor_nova_cat.md) 
 
+## Void Medium Battle Armor (Minelayer) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3079) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 3 
+  - **Jumping:** 1 
+- **Armor:** 5 (Basic Stealth) 
+- **Manipulators:** 
+  - Heavy Battle Claw (right) 
+  - Heavy Battle Claw (left) 
+- **Weapons:** 
+  - Medium Recoilless Rifle 
+- **Equipment:** 
+  - Mine Dispenser × 2 
+  - Anti-Personnel Mount 
+  - Mechanical Jump Booster 
+- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5356/void-medium-battle-armor-minelayer) 
+- **Battle Value:** 60 (314 for 4 suits) 
+- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_minelayer.md) 
+

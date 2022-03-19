@@ -216,4 +216,4 @@ Patton Tank -SB
 SM1 Tank Destroyer (Telos)
 
 --------------------------------------------------
-5473 files -> 5434 parsed files (39 skipped) -> 5215 converted files -> 5207 validated units
+5480 files -> 5441 parsed files (39 skipped) -> 5222 converted files -> 5214 validated units

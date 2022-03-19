@@ -9,6 +9,10 @@
 - [**Aerie PA(L) (Standard)**](units/aerie_pal/aerie_pal_standard.md) *Ambusher (3067)* `Stealth` 
 - [**Aerie PA(L) (Salvage)**](units/aerie_pal/aerie_pal_salvage.md) *Ambusher (3069)* `Stealth` 
 
+#### [Gladiator Battle Armor](units/gladiator_battle_armor.md) 
+
+- [**Gladiator Battle Armor S**](units/gladiator_battle_armor/gladiator_battle_armor_s.md) *Scout (3084)* 
+
 #### [Nighthawk PA(L)](units/nighthawk_pal.md) 
 
 - [**Nighthawk PA(L) Mk. XXI**](units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
@@ -75,6 +79,7 @@
 
 - [**Sylph Battle Armor (Standard)**](units/sylph_battle_armor/sylph_battle_armor_standard.md) *Scout (3060)* 
 - [**Sylph Battle Armor (Upgrade)**](units/sylph_battle_armor/sylph_battle_armor_upgrade.md) *Scout (3065)* 
+- [**Sylph Battle Armor (Enhanced)**](units/sylph_battle_armor/sylph_battle_armor_enhanced.md) *Scout (3085)* 
 
 ### 1 Tons 
 
@@ -127,6 +132,10 @@
 - [**Elemental Battle Armor (Fire) [MicroPL]**](units/elemental_battle_armor/elemental_battle_armor_fire_[micropl].md) *Ambusher (3069)* 
 - [**Elemental Battle Armor [AP Gauss]**](units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [Elemental II Battle Armor](units/elemental_ii_battle_armor.md) 
+
+- [**Elemental II Battle Armor (Standard)**](units/elemental_ii_battle_armor/elemental_ii_battle_armor_standard.md) *Scout (3084)* 
+
 #### [Elemental III Battle Armor](units/elemental_iii_battle_armor.md) 
 
 - [**Elemental III Battle Armor [AP Gauss]**](units/elemental_iii_battle_armor/elemental_iii_battle_armor_[ap_gauss].md) *Ambusher (3091)* `Stealth` 
@@ -150,6 +159,10 @@
 - [**Gray Death Standard Suit [MG]**](units/gray_death_standard_suit/gray_death_standard_suit_[mg].md) *Ambusher (3052)* `Active Probe` 
 - [**Gray Death Standard Suit [SRM]**](units/gray_death_standard_suit/gray_death_standard_suit_[srm].md) *Ambusher (3052)* `Active Probe` 
 - [**Gray Death Standard Suit [LRR]**](units/gray_death_standard_suit/gray_death_standard_suit_[lrr].md) *Ambusher (3069)* `Active Probe` 
+
+#### [Gray Death Strike Armor](units/gray_death_strike_armor.md) 
+
+- [**Gray Death Strike Armor (Standard)**](units/gray_death_strike_armor/gray_death_strike_armor_standard.md) *Ambusher (3080)* `TAG` 
 
 #### [Infiltrator Mk. II Battle Armor](units/infiltrator_mk._ii_battle_armor.md) 
 
@@ -230,6 +243,7 @@
 - [**Void Medium Battle Armor (Standard)**](units/void_medium_battle_armor/void_medium_battle_armor_standard.md) *Scout (3067)* `Stealth` 
 - [**Void Medium Battle Armor (DCA)**](units/void_medium_battle_armor/void_medium_battle_armor_dca.md) *Scout (3068)* `Stealth` 
 - [**Void Medium Battle Armor (Nova Cat)**](units/void_medium_battle_armor/void_medium_battle_armor_nova_cat.md) *Scout (3068)* `Stealth` 
+- [**Void Medium Battle Armor (Minelayer)**](units/void_medium_battle_armor/void_medium_battle_armor_minelayer.md) *Ambusher (3079)* `Stealth` 
 
 ### 1.50 Tons 
 
@@ -259,6 +273,7 @@
 #### [Rogue Bear Heavy Battle Armor](units/rogue_bear_heavy_battle_armor.md) 
 
 - [**Rogue Bear Heavy Battle Armor (Standard)**](units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standard.md) *Ambusher (3073)* 
+- [**Rogue Bear Heavy Battle Armor (Hybrid)**](units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hybrid.md) *Juggernaut (3082)* `Stealth` 
 
 #### [Sloth Battle Armor](units/sloth_battle_armor.md) 
 
@@ -321,6 +336,7 @@
 #### [Hauberk Battle Armor](units/hauberk_battle_armor.md) 
 
 - [**Hauberk Battle Armor (Standard)**](units/hauberk_battle_armor/hauberk_battle_armor_standard.md) *Missile Boat (3070)* `Stealth` 
+- [**Hauberk Battle Armor Commando**](units/hauberk_battle_armor/hauberk_battle_armor_commando.md) *Ambusher (3088)* `Stealth` 
 
 #### [Hauberk II Battle Armor](units/hauberk_ii_battle_armor.md) 
 
