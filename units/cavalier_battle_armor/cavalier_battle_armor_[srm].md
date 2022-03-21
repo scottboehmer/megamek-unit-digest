@@ -15,7 +15,7 @@
 - **Weapons:** 
   - SRM 1 (ammo: 4) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/502/cavalier-battle-armor-srm) 
-- **Battle Value:** 42 (220 for 4 suits) 
+- **Battle Value:** 42 (219 for 4 suits) 
 
 ## Availability 
 

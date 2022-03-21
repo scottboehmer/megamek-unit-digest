@@ -2,6 +2,34 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Ailette Rescue PA(L)](../../units/ailette_rescue_pal.md) 
+
+- [**Ailette Rescue PA(L) (Standard)**](../../units/ailette_rescue_pal/ailette_rescue_pal_standard.md) *Undefined (3080)* `Active Probe` 
+
+#### [Gladiator Exoskeleton](../../units/gladiator_exoskeleton.md) 
+
+- [**Gladiator Exoskeleton (Standard) [AG]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[ag].md) *Undefined (3056)* 
+
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
+
+- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
@@ -11,6 +39,14 @@
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
+#### [Leonidas Battle Armor](../../units/leonidas_battle_armor.md) 
+
+- [**Leonidas Battle Armor (David)**](../../units/leonidas_battle_armor/leonidas_battle_armor_david.md) *Ambusher (3096)* `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (FireDrake)**](../../units/leonidas_battle_armor/leonidas_battle_armor_firedrake.md) *Ambusher (3096)* `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (MG)**](../../units/leonidas_battle_armor/leonidas_battle_armor_mg.md) *Ambusher (3096)* `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (Sensor)**](../../units/leonidas_battle_armor/leonidas_battle_armor_sensor.md) *Scout (3096)* `Active Probe` , `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (TAG)**](../../units/leonidas_battle_armor/leonidas_battle_armor_tag.md) *Ambusher (3096)* `ECM` , `Stealth` , `TAG` 
 
 #### [Longinus Battle Armor](../../units/longinus_battle_armor.md) 
 
@@ -26,11 +62,18 @@
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
 
+### 1.50 Tons 
+
+#### [Marauder Battle Armor](../../units/marauder_battle_armor.md) 
+
+- [**Marauder Battle Armor (Standard)**](../../units/marauder_battle_armor/marauder_battle_armor_standard.md) *Ambusher (3110)* `TAG` 
+
 ### 2 Tons 
 
 #### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
 
 - [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (LRM)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_lrm.md) *Missile Boat (3101)* 
 
 ## Combat Vehicles 
 

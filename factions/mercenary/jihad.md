@@ -4,9 +4,27 @@
 
 ### 0.40 Tons 
 
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
+
+- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
 - [**Nighthawk PA(L) Mk. XXX (Bounty Hunter)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx_bounty_hunter.md) *Ambusher (2957)* `Unique` 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
 
 ### 0.75 Tons 
 
@@ -1795,7 +1813,7 @@
 #### [Uni](../../units/uni.md) 
 
 - [**Uni ATAE-70 CargoMech**](../../units/uni/uni_atae-70_cargomech.md) *Undefined (3050)* `IndustrialMech` 
-- [**Uni ATAE-70 MilitiaMech**](../../units/uni/uni_atae-70_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+- [**Uni ATAE-70M MilitiaMech**](../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
 
 #### [Warhammer](../../units/warhammer.md) 
 

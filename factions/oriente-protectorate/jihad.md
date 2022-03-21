@@ -1,5 +1,13 @@
 # Oriente Protectorate / Jihad 
 
+## Battle Armor 
+
+### 0.40 Tons 
+
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton 'Falcata'**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_falcata.md) *Undefined (3075)* 
+
 ## ’Mechs 
 
 ### 65 Tons 

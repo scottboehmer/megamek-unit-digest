@@ -26,6 +26,10 @@
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
 - [**Undine Battle Armor (Upgrade)**](../../units/undine_battle_armor/undine_battle_armor_upgrade.md) *Missile Boat (3069)* 
 
+#### [Water Elemental Mining Suit](../../units/water_elemental_mining_suit.md) 
+
+- [**Water Elemental Mining Suit (Standard)**](../../units/water_elemental_mining_suit/water_elemental_mining_suit_standard.md) *Undefined (2842)* 
+
 ### 1.50 Tons 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 

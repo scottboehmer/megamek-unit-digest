@@ -11,6 +11,10 @@
 
 ### 0.75 Tons 
 
+#### [Spectre Stealth Battle Armor](../../units/spectre_stealth_battle_armor.md) 
+
+- [**Spectre Stealth Battle Armor (Standard)**](../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standard.md) *Scout (3097)* `Stealth` 
+
 #### [Sylph Battle Armor](../../units/sylph_battle_armor.md) 
 
 - [**Sylph Battle Armor (Standard)**](../../units/sylph_battle_armor/sylph_battle_armor_standard.md) *Scout (3060)* 
@@ -47,6 +51,10 @@
 
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
 - [**Salamander Battle Armor (Laser)**](../../units/salamander_battle_armor/salamander_battle_armor_laser.md) *Ambusher (3064)* 
+
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
 
 #### [Undine Battle Armor](../../units/undine_battle_armor.md) 
 

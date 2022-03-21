@@ -36,6 +36,10 @@
 
 - [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
 
+#### [Elemental II Battle Armor](../../units/elemental_ii_battle_armor.md) 
+
+- [**Elemental II Battle Armor X**](../../units/elemental_ii_battle_armor/elemental_ii_battle_armor_x.md) *Ambusher (3076)* 
+
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 
 - [**Gnome Battle Armor (Standard)**](../../units/gnome_battle_armor/gnome_battle_armor_standard.md) *Juggernaut (3056)* 

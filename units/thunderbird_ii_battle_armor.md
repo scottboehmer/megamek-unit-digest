@@ -1,6 +1,6 @@
 # Thunderbird II Battle Armor 
 
-## Thunderbird II Battle Armor (RotS) 
+## Thunderbird II Battle Armor (Standard) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3133) 
@@ -16,6 +16,6 @@
 - **Equipment:** 
   - Inner Sphere C3 Support 
 - **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7357/thunderbird-ii-battle-armor-standard) 
-- **Battle Value:** 66 (344 for 4 suits) 
-- [*More Info*](thunderbird_ii_battle_armor/thunderbird_ii_battle_armor_rots.md) 
+- **Battle Value:** 66 (464 for 5 suits) 
+- [*More Info*](thunderbird_ii_battle_armor/thunderbird_ii_battle_armor_standard.md) 
 

@@ -33,6 +33,10 @@
 
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
 
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
+
 ### 1.50 Tons 
 
 #### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 

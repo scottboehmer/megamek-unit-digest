@@ -2,6 +2,46 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
+
+- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+
+#### [HeavyHauler Exoskeleton](../../units/heavyhauler_exoskeleton.md) 
+
+- [**HeavyHauler Exoskeleton (Standard)**](../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standard.md) *Undefined (3052)* 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
+
+#### [Tunnel Rat Mining Exoskeleton](../../units/tunnel_rat_mining_exoskeleton.md) 
+
+- [**Tunnel Rat Mining Exoskeleton I / II [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[industrial_drill].md) *Undefined (3055)* 
+
+#### [Tunnel Rat Mining Exoskeleton III](../../units/tunnel_rat_mining_exoskeleton_iii.md) 
+
+- [**Tunnel Rat Mining Exoskeleton III [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton_iii/tunnel_rat_mining_exoskeleton_iii_[armored_glove].md) *Undefined (3062)* 
+
+#### [Tunnel Rat Mining Exoskeleton IV](../../units/tunnel_rat_mining_exoskeleton_iv.md) 
+
+- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_gl].md) *Undefined (3062)* 
+- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_lmg].md) *Undefined (3079)* 
+- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/GL]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_gl].md) *Undefined (3079)* 
+- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_lmg].md) *Undefined (3079)* 
+
 ### 0.75 Tons 
 
 #### [Kage Light Battle Armor](../../units/kage_light_battle_armor.md) 
@@ -14,6 +54,7 @@
 - [**Kage Light Battle Armor (DEST)**](../../units/kage_light_battle_armor/kage_light_battle_armor_dest.md) *Ambusher (3059)* `Stealth` 
 - [**Kage Light Battle Armor (Space)**](../../units/kage_light_battle_armor/kage_light_battle_armor_space.md) *Scout (3067)* `Stealth` 
 - [**Kage Light Battle Armor (Vibro-Claw)**](../../units/kage_light_battle_armor/kage_light_battle_armor_vibro-claw.md) *Scout (3069)* `Stealth` 
+- [**Kage Light Battle Armor C**](../../units/kage_light_battle_armor/kage_light_battle_armor_c.md) *Ambusher (3077)* `C3 Support` , `Stealth` 
 
 ### 1 Tons 
 
@@ -38,6 +79,7 @@
 
 - [**Void Medium Battle Armor (Standard)**](../../units/void_medium_battle_armor/void_medium_battle_armor_standard.md) *Scout (3067)* `Stealth` 
 - [**Void Medium Battle Armor (DCA)**](../../units/void_medium_battle_armor/void_medium_battle_armor_dca.md) *Scout (3068)* `Stealth` 
+- [**Void Medium Battle Armor Caltrop**](../../units/void_medium_battle_armor/void_medium_battle_armor_caltrop.md) *Ambusher (3078)* `Stealth` , `Unique` 
 - [**Void Medium Battle Armor (Minelayer)**](../../units/void_medium_battle_armor/void_medium_battle_armor_minelayer.md) *Ambusher (3079)* `Stealth` 
 
 ### 2 Tons 

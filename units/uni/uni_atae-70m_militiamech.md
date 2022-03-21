@@ -1,8 +1,8 @@
-# Uni ATAE-70 MilitiaMech 
+# Uni ATAE-70M MilitiaMech 
 
 [Other Uni variants](../uni.md) 
 
-## Uni ATAE-70 MilitiaMech 
+## Uni ATAE-70M MilitiaMech 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3053) 

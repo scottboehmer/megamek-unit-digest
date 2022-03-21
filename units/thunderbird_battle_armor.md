@@ -57,3 +57,60 @@
 - **Battle Value:** 52 (366 for 5 suits) 
 - [*More Info*](thunderbird_battle_armor/thunderbird_battle_armor_[pulse_laser].md) 
 
+## Thunderbird Battle Armor (Upgrade)[LBX] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Clan (3089) 
+- **Chassis:** Heavy Battle Armor (1,500 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 10 (Reflective) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Battle Armor LB-X AC 
+- **Equipment:** 
+  - Jump Booster 
+- **Sources:** RS3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6737/thunderbird-battle-armor-upgrade-lb-x) 
+- **Battle Value:** 62 (435 for 5 suits) 
+- [*More Info*](thunderbird_battle_armor/thunderbird_battle_armor_upgrade[lbx].md) 
+
+## Thunderbird Battle Armor [Upgrade](ER Laser) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Clan (3089) 
+- **Chassis:** Heavy Battle Armor (1,500 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 10 (Reflective) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - ER Small Laser 
+- **Equipment:** 
+  - Jump Booster 
+- **Sources:** RS3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6736/thunderbird-battle-armor-upgrade-er-laser) 
+- **Battle Value:** 71 (495 for 5 suits) 
+- [*More Info*](thunderbird_battle_armor/thunderbird_battle_armor_[upgrade]er_laser.md) 
+
+## Thunderbird Battle Armor [Upgrade](Pulse Laser) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Clan (3089) 
+- **Chassis:** Heavy Battle Armor (1,500 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 10 (Reflective) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Small Pulse Laser 
+- **Equipment:** 
+  - Jump Booster 
+- **Sources:** RS3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6738/thunderbird-battle-armor-upgrade-pulse-laser) 
+- **Battle Value:** 65 (457 for 5 suits) 
+- [*More Info*](thunderbird_battle_armor/thunderbird_battle_armor_[upgrade]pulse_laser.md) 
+

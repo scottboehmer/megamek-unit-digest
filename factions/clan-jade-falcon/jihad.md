@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Resgate PA(L)](../../units/resgate_pal.md) 
+
+- [**Resgate PA(L) (Standard)**](../../units/resgate_pal/resgate_pal_standard.md) *Ambusher (3059)* `Active Probe` 
+
 ### 1 Tons 
 
 #### [Afreet Medium Battle Armor](../../units/afreet_medium_battle_armor.md) 

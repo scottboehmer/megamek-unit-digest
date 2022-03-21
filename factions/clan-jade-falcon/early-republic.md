@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Resgate PA(L)](../../units/resgate_pal.md) 
+
+- [**Resgate PA(L) (Standard)**](../../units/resgate_pal/resgate_pal_standard.md) *Ambusher (3059)* `Active Probe` 
+- [**Resgate PA(L) (Interdictor)**](../../units/resgate_pal/resgate_pal_interdictor.md) *Ambusher (3083)* `ECM` 
+- [**Resgate PA(L) (Scout)**](../../units/resgate_pal/resgate_pal_scout.md) *Ambusher (3083)* `Active Probe` 
+- [**Resgate PA(L) (Spotter)**](../../units/resgate_pal/resgate_pal_spotter.md) *Ambusher (3083)* `TAG` 
+- [**Resgate PA(L) (Support)**](../../units/resgate_pal/resgate_pal_support.md) *Undefined (3083)* 
+
 ### 1 Tons 
 
 #### [Afreet Medium Battle Armor](../../units/afreet_medium_battle_armor.md) 
@@ -35,6 +45,10 @@
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
 - [**Salamander Battle Armor (Anti-Infantry)**](../../units/salamander_battle_armor/salamander_battle_armor_anti-infantry.md) *Ambusher (3070)* 
 
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
+
 ### 1.50 Tons 
 
 #### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
@@ -51,6 +65,7 @@
 
 - [**Ironhold Assault Battle Armor (Standard)**](../../units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_standard.md) *Juggernaut (3077)* 
 - [**Ironhold Assault Battle Armor (Fire)**](../../units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_fire.md) *Juggernaut (3082)* 
+- [**Ironhold Assault Battle Armor (Anti-Tank)**](../../units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_anti-tank.md) *Juggernaut (3097)* 
 
 ## Combat Vehicles 
 

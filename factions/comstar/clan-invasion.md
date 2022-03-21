@@ -4,9 +4,22 @@
 
 ### 0.40 Tons 
 
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
+
 #### [Tornado PA(L)](../../units/tornado_pal.md) 
 
 - [**Tornado PA(L) P12 'Hurricane'**](../../units/tornado_pal/tornado_pal_p12_hurricane.md) *Ambusher (2905)* `Stealth` 
+
+#### [Tunnel Rat Mining Exoskeleton](../../units/tunnel_rat_mining_exoskeleton.md) 
+
+- [**Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[industrial_drill].md) *Undefined (3055)* 
 
 ### 1 Tons 
 

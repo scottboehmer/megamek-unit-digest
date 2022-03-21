@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Resgate PA(L)](../../units/resgate_pal.md) 
+
+- [**Resgate PA(L) (Standard)**](../../units/resgate_pal/resgate_pal_standard.md) *Ambusher (3059)* `Active Probe` 
+
 ### 0.75 Tons 
 
 #### [Sylph Battle Armor](../../units/sylph_battle_armor.md) 

@@ -2,6 +2,30 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Ailette Zero-G Engineering Exoskeleton](../../units/ailette_zero-g_engineering_exoskeleton.md) 
+
+- [**Ailette Zero-G Engineering Exoskeleton (Standard)**](../../units/ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_standard.md) *Undefined (3056)* 
+
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [HeavyHauler Exoskeleton](../../units/heavyhauler_exoskeleton.md) 
+
+- [**HeavyHauler Exoskeleton (Standard)**](../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standard.md) *Undefined (3052)* 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
+
+#### [Tunnel Rat Mining Exoskeleton](../../units/tunnel_rat_mining_exoskeleton.md) 
+
+- [**Tunnel Rat Mining Exoskeleton I / II [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[industrial_drill].md) *Undefined (3055)* 
+
 ### 0.75 Tons 
 
 #### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
@@ -1395,7 +1419,7 @@
 #### [Uni](../../units/uni.md) 
 
 - [**Uni ATAE-70 CargoMech**](../../units/uni/uni_atae-70_cargomech.md) *Undefined (3050)* `IndustrialMech` 
-- [**Uni ATAE-70 MilitiaMech**](../../units/uni/uni_atae-70_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+- [**Uni ATAE-70M MilitiaMech**](../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
 
 #### [Warhammer](../../units/warhammer.md) 
 

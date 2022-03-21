@@ -106,3 +106,18 @@
 - **Battle Value:** 37 (336 for 6 suits) 
 - [*More Info*](fenrir_battle_armor/fenrir_battle_armor_[vsp].md) 
 
+## Fenrir Battle Armor 'Longshot' 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** Assault Quad Battle Armor (2,000 kg) 
+- **Movement:** 4 
+- **Armor:** 7 (Standard) 
+- **Weapons:** 
+  - Clan LRM 5 × 2 (ammo: 2) 
+- **Equipment:** 
+  - C3 Support 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4162/fenrir-battle-armor-longshot) 
+- **Battle Value:** 120 (621 for 4 suits) 
+- [*More Info*](fenrir_battle_armor/fenrir_battle_armor_longshot.md) 
+

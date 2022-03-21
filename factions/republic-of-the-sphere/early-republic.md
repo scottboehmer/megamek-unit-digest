@@ -4,11 +4,29 @@
 
 ### 0.40 Tons 
 
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
+
+- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
 - [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
 - [**Nighthawk PA(L) Mk. XXX**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx.md) *Ambusher (2744)* `Stealth` 
 - [**Nighthawk PA(L) Mk. XXII**](../../units/nighthawk_pal/nighthawk_pal_mk._xxii.md) *Ambusher (2749)* `Stealth` 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
 
 #### [Tornado PA(L)](../../units/tornado_pal.md) 
 
@@ -19,6 +37,22 @@
 - [**Tornado PA(L) G13 [Machine Gun]**](../../units/tornado_pal/tornado_pal_g13_[machine_gun].md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G13 [Small Laser]**](../../units/tornado_pal/tornado_pal_g13_[small_laser].md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G14**](../../units/tornado_pal/tornado_pal_g14.md) *Ambusher (3070)* `Stealth` 
+
+#### [Tunnel Rat Mining Exoskeleton](../../units/tunnel_rat_mining_exoskeleton.md) 
+
+- [**Tunnel Rat Mining Exoskeleton I / II [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[industrial_drill].md) *Undefined (3055)* 
+
+#### [Tunnel Rat Mining Exoskeleton III](../../units/tunnel_rat_mining_exoskeleton_iii.md) 
+
+- [**Tunnel Rat Mining Exoskeleton III [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton_iii/tunnel_rat_mining_exoskeleton_iii_[armored_glove].md) *Undefined (3062)* 
+
+#### [Tunnel Rat Mining Exoskeleton IV](../../units/tunnel_rat_mining_exoskeleton_iv.md) 
+
+- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_gl].md) *Undefined (3062)* 
+- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_lmg].md) *Undefined (3079)* 
+- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/GL]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_gl].md) *Undefined (3079)* 
+- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_lmg].md) *Undefined (3079)* 
 
 ### 0.75 Tons 
 
@@ -55,6 +89,14 @@
 - [**Elemental Battle Armor [MicroPL]**](../../units/elemental_battle_armor/elemental_battle_armor_[micropl].md) *Ambusher (3060)* 
 - [**Elemental Battle Armor [AP Gauss]**](../../units/elemental_battle_armor/elemental_battle_armor_[ap_gauss].md) *Ambusher (3069)* 
 
+#### [Gray Death Infiltrator Suit](../../units/gray_death_infiltrator_suit.md) 
+
+- [**Gray Death Infiltrator Suit (Firedrake)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrake.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Mines)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_mines.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Remote Sensors)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_remote_sensors.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Sensors)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_sensors.md) *Scout (3102)* `Active Probe` , `Stealth` 
+- [**Gray Death Infiltrator Suit (TAG)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_tag.md) *Scout (3102)* `Stealth` , `TAG` 
+
 #### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
 
 - [**Infiltrator Mk. II Battle Armor (Magnetic)**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magnetic.md) *Ambusher (3071)* `ECM` , `Stealth` 
@@ -80,6 +122,19 @@
 - [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
+
+#### [Purifier Battle Armor Terra](../../units/purifier_battle_armor_terra.md) 
+
+- [**Purifier Battle Armor Terra [AP Gauss]**](../../units/purifier_battle_armor_terra/purifier_battle_armor_terra_[ap_gauss].md) *Ambusher (3075)* 
+- [**Purifier Battle Armor Terra [ERSL]**](../../units/purifier_battle_armor_terra/purifier_battle_armor_terra_[ersl].md) *Ambusher (3075)* 
+- [**Purifier Battle Armor Terra [MRR]**](../../units/purifier_battle_armor_terra/purifier_battle_armor_terra_[mrr].md) *Ambusher (3075)* 
+- [**Purifier Battle Armor Terra [SPL]**](../../units/purifier_battle_armor_terra/purifier_battle_armor_terra_[spl].md) *Ambusher (3075)* 
+
+#### [Quirinus Battle Armor](../../units/quirinus_battle_armor.md) 
+
+- [**Quirinus Battle Armor (David)**](../../units/quirinus_battle_armor/quirinus_battle_armor_david.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (GL)**](../../units/quirinus_battle_armor/quirinus_battle_armor_gl.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (MG)**](../../units/quirinus_battle_armor/quirinus_battle_armor_mg.md) *Ambusher (3138)* `TAG` 
 
 #### [Rottweiler Battle Armor](../../units/rottweiler_battle_armor.md) 
 

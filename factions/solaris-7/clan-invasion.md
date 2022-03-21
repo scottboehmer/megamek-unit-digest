@@ -1,5 +1,14 @@
 # Solaris 7 / Clan Invasion 
 
+## Battle Armor 
+
+### 0.40 Tons 
+
+#### [Gladiator Exoskeleton](../../units/gladiator_exoskeleton.md) 
+
+- [**Gladiator Exoskeleton (Standard) [AG]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[ag].md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (Standard) [BC/ID]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[bc_id].md) *Undefined (3056)* 
+
 ## ’Mechs 
 
 ### 25 Tons 

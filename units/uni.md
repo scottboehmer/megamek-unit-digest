@@ -17,7 +17,7 @@
 - **Battle Value:** 533 
 - [*More Info*](uni/uni_atae-70_cargomech.md) 
 
-## Uni ATAE-70 MilitiaMech 
+## Uni ATAE-70M MilitiaMech 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3053) 
@@ -32,7 +32,7 @@
   - Enviro-Sealing 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6977/uni-atae-70m-miltiamech) 
 - **Battle Value:** 736 
-- [*More Info*](uni/uni_atae-70_militiamech.md) 
+- [*More Info*](uni/uni_atae-70m_militiamech.md) 
 
 ## Uni ATAE-70T CargoMech 
 

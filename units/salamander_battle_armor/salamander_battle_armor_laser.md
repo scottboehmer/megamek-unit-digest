@@ -16,7 +16,7 @@
 - **Weapons:** 
   - ER Micro Laser 
   - Flamer 
-  - Inner Sphere SRM 1 (OS) 
+  - SRM 1 (OS) 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2788/salamander-battle-armor-laser) 
 - **Battle Value:** 56 (394 for 5 suits) 
 

@@ -147,3 +147,20 @@
 - **Battle Value:** 22 (114 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_vibro-claw.md) 
 
+## Kage Light Battle Armor C 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** Light Battle Armor (750 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 6 (Mimetic) 
+- **Manipulators:** 
+  - Armored Glove (right) 
+  - Armored Glove (left) 
+- **Equipment:** 
+  - C3 Support 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1738/kage-light-battle-armor-c) 
+- **Battle Value:** 26 (133 for 4 suits) 
+- [*More Info*](kage_light_battle_armor/kage_light_battle_armor_c.md) 
+

@@ -32,6 +32,10 @@
 
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
 
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
+
 #### [Undine Battle Armor](../../units/undine_battle_armor.md) 
 
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
@@ -56,6 +60,9 @@
 - [**Thunderbird Battle Armor [AP Gauss]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[ap_gauss].md) *Ambusher (3086)* 
 - [**Thunderbird Battle Armor [ER Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[er_laser].md) *Ambusher (3086)* 
 - [**Thunderbird Battle Armor [Pulse Laser]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[pulse_laser].md) *Ambusher (3086)* 
+- [**Thunderbird Battle Armor (Upgrade)[LBX]**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_upgrade[lbx].md) *Ambusher (3089)* 
+- [**Thunderbird Battle Armor [Upgrade](ER Laser)**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[upgrade]er_laser.md) *Ambusher (3089)* 
+- [**Thunderbird Battle Armor [Upgrade](Pulse Laser)**](../../units/thunderbird_battle_armor/thunderbird_battle_armor_[upgrade]pulse_laser.md) *Ambusher (3089)* 
 
 ## Combat Vehicles 
 

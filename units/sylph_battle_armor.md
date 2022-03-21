@@ -36,6 +36,25 @@
 - **Battle Value:** 41 (286 for 5 suits) 
 - [*More Info*](sylph_battle_armor/sylph_battle_armor_upgrade.md) 
 
+## Sylph Battle Armor XR 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** Light Battle Armor (750 kg) 
+- **Movement:** 5 
+- **Armor:** 5 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - Light Machine Gun × 2 
+- **Equipment:** 
+  - Myomer Booster 
+  - Searchlight 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5170/sylph-battle-armor-xr) 
+- **Battle Value:** 38 (263 for 5 suits) 
+- [*More Info*](sylph_battle_armor/sylph_battle_armor_xr.md) 
+
 ## Sylph Battle Armor (Enhanced) 
 
 - **Role:** Scout 

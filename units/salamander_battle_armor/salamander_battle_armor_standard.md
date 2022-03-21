@@ -15,7 +15,7 @@
   - Battle Claw w/ Magnets (left) 
 - **Weapons:** 
   - Flamer × 2 
-  - Inner Sphere SRM 1 (OS) 
+  - SRM 1 (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2789/salamander-battle-armor-standard) 
 - **Battle Value:** 53 (372 for 5 suits) 
 

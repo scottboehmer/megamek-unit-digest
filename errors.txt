@@ -214,6 +214,41 @@ SturmFeur 'Kalki' Cruise Missile Launcher (Standard)
 Karnov UR Transport (Heavy Stealth)
 Patton Tank -SB
 SM1 Tank Destroyer (Telos)
+Kobold Battle Armor IIC (Standard)
+Rhino Battle Armor (Standard)
+Water Elemental Mining Suit (Standard)
+Machina Domini Interface Armor (Standard)
+TinStar BattleArmor (Standard)
+Hantu AIX-210
+Ailette Zero-G Engineering Exoskeleton (Standard)
+Gladiator Exoskeleton (Standard) [AG]
+Gladiator Exoskeleton (Standard) [BC/ID]
+Gorilla Exoskeleton 'Falcata'
+Gorilla Exoskeleton PEX-2B
+Groundhog Exoskeleton CEX-205 [Armored Glove]
+Groundhog Exoskeleton CEX-205 [Basic Manipulator]
+Groundhog Exoskeleton CEX-205 [Cargo Lifter]
+Groundhog Exoskeleton CEX-205 [Industrial Drill]
+Groundhog Exoskeleton CEX-205 [Mine Clearance]
+Groundhog Exoskeleton CEX-205 [Salvage Arm]
+HeavyHauler Exoskeleton (Standard)
+Krise PA(L) (Standard)
+PowerLoader Exoskeleton P-5000
+Resgate PA(L) (Support)
+Salrilla Exoskeleton [Mine Clearance]
+Salrilla Exoskeleton [Salvage Arm]
+Smoothdavid PA(L) II
+Smoothdavid PA(L) III
+Smoothgoliath PA(L) II
+Tunnel Rat Mining Exoskeleton I / II [Armored Glove]
+Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]
+Tunnel Rat Mining Exoskeleton III [Armored Glove]
+Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL]
+Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG]
+Tunnel Rat Mining Exoskeleton IV [Battle Claw/GL]
+Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG]
+Groundhog Exoskeleton 'Master Thief'
+Ailette Rescue PA(L) (Standard)
 
 --------------------------------------------------
-5480 files -> 5441 parsed files (39 skipped) -> 5222 converted files -> 5214 validated units
+5651 files -> 5603 parsed files (48 skipped) -> 5384 converted files -> 5376 validated units

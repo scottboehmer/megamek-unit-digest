@@ -72,3 +72,21 @@
 - **Battle Value:** 67 (350 for 4 suits) 
 - [*More Info*](kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_upgrade_[battle_claw].md) 
 
+## Kanazuchi Assault Battle Armor 'Cyclops' 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** Assault Battle Armor (2,000 kg) 
+- **Movement:** 2 (1) 
+- **Armor:** 11 (Advanced) 
+- **Manipulators:** 
+  - Heavy Battle Claw (right) 
+  - Heavy Battle Claw (left) 
+- **Weapons:** 
+  - Detachable Clan ER Medium Pulse Laser 
+- **Equipment:** 
+  - Anti-Personnel Mount × 2 
+- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/1739/kanazuchi-assault-battle-armor-cyclops) 
+- **Battle Value:** 107 (558 for 4 suits) 
+- [*More Info*](kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_cyclops.md) 
+

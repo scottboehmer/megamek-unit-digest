@@ -8,9 +8,27 @@
 
 - [**Gladiator Battle Armor S**](../../units/gladiator_battle_armor/gladiator_battle_armor_s.md) *Scout (3084)* 
 
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
+
+- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
 - [**Nighthawk PA(L) Mk. XXX (Bounty Hunter)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx_bounty_hunter.md) *Ambusher (2957)* `Unique` 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
 
 ### 0.75 Tons 
 
@@ -36,6 +54,14 @@
 - [**Fa Shih Battle Armor (Support) [King David]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[king_david].md) *Ambusher (3074)* 
 - [**Fa Shih Battle Armor (Support) [Plasma]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[plasma].md) *Ambusher (3074)* 
 
+#### [Gray Death Infiltrator Suit](../../units/gray_death_infiltrator_suit.md) 
+
+- [**Gray Death Infiltrator Suit (Firedrake)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrake.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Mines)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_mines.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Remote Sensors)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_remote_sensors.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Sensors)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_sensors.md) *Scout (3102)* `Active Probe` , `Stealth` 
+- [**Gray Death Infiltrator Suit (TAG)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_tag.md) *Scout (3102)* `Stealth` , `TAG` 
+
 #### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 
 
 - [**Gray Death Standard Suit [Flamer]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[flamer].md) *Ambusher (3052)* `Active Probe` 
@@ -51,6 +77,12 @@
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
+#### [Quirinus Battle Armor](../../units/quirinus_battle_armor.md) 
+
+- [**Quirinus Battle Armor (David)**](../../units/quirinus_battle_armor/quirinus_battle_armor_david.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (GL)**](../../units/quirinus_battle_armor/quirinus_battle_armor_gl.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (MG)**](../../units/quirinus_battle_armor/quirinus_battle_armor_mg.md) *Ambusher (3138)* `TAG` 
 
 #### [Raiden Battle Armor](../../units/raiden_battle_armor.md) 
 
@@ -73,6 +105,7 @@
 #### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
 
 - [**Sloth Battle Armor (Interdictor)**](../../units/sloth_battle_armor/sloth_battle_armor_interdictor.md) *Ambusher (3075)* `ECM` 
+- [**Sloth Battle Armor (Huntsman)**](../../units/sloth_battle_armor/sloth_battle_armor_huntsman.md) *Scout (3093)* `Stealth` 
 
 ### 2 Tons 
 
@@ -2249,7 +2282,7 @@
 #### [Uni](../../units/uni.md) 
 
 - [**Uni ATAE-70 CargoMech**](../../units/uni/uni_atae-70_cargomech.md) *Undefined (3050)* `IndustrialMech` 
-- [**Uni ATAE-70 MilitiaMech**](../../units/uni/uni_atae-70_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+- [**Uni ATAE-70M MilitiaMech**](../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
 
 #### [Warhammer](../../units/warhammer.md) 
 

@@ -2,6 +2,36 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Ailette Rescue PA(L)](../../units/ailette_rescue_pal.md) 
+
+- [**Ailette Rescue PA(L) (Standard)**](../../units/ailette_rescue_pal/ailette_rescue_pal_standard.md) *Undefined (3080)* `Active Probe` 
+
+#### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
+
+- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+
+#### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
+
+- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+
+#### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
+
+- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
+
+### 0.75 Tons 
+
+#### [Spectre Stealth Battle Armor](../../units/spectre_stealth_battle_armor.md) 
+
+- [**Spectre Stealth Battle Armor (Standard)**](../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standard.md) *Scout (3097)* `Stealth` 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
@@ -11,6 +41,10 @@
 - [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+
+#### [TinStar BattleArmor](../../units/tinstar_battlearmor.md) 
+
+- [**TinStar BattleArmor (Standard)**](../../units/tinstar_battlearmor/tinstar_battlearmor_standard.md) *Undefined (3088)* 
 
 #### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
 

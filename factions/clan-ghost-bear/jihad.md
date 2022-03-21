@@ -41,6 +41,7 @@
 #### [Rogue Bear Heavy Battle Armor](../../units/rogue_bear_heavy_battle_armor.md) 
 
 - [**Rogue Bear Heavy Battle Armor (Standard)**](../../units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standard.md) *Ambusher (3073)* 
+- [**Rogue Bear Heavy Battle Armor HR**](../../units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hr.md) *Ambusher (3078)* `Stealth` 
 
 ### 2 Tons 
 

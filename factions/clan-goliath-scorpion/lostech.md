@@ -9,6 +9,10 @@
 - [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
 - [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
 
+#### [Water Elemental Mining Suit](../../units/water_elemental_mining_suit.md) 
+
+- [**Water Elemental Mining Suit (Standard)**](../../units/water_elemental_mining_suit/water_elemental_mining_suit_standard.md) *Undefined (2842)* 
+
 ## Combat Vehicles 
 
 ### 3 Tons 

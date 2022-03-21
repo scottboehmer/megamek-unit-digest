@@ -2,12 +2,24 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Clan Interface Armor](../../units/clan_interface_armor.md) 
+
+- [**Clan Interface Armor (Standard)**](../../units/clan_interface_armor/clan_interface_armor_standard.md) *Scout (3083)* 
+
 ### 1 Tons 
 
 #### [Afreet Medium Battle Armor](../../units/afreet_medium_battle_armor.md) 
 
 - [**Afreet Medium Battle Armor (Standard)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standard.md) *Scout (3067)* `Active Probe` 
 - [**Afreet Medium Battle Armor (Hell's Horses)**](../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horses.md) *Scout (3072)* 
+
+#### [Buraq Fast Battle Armor](../../units/buraq_fast_battle_armor.md) 
+
+- [**Buraq Fast Battle Armor (Hunter-Killer)**](../../units/buraq_fast_battle_armor/buraq_fast_battle_armor_hunter-killer.md) *Scout (3104)* `Active Probe` 
+- [**Buraq Fast Battle Armor (Standard)**](../../units/buraq_fast_battle_armor/buraq_fast_battle_armor_standard.md) *Scout (3104)* 
+- [**Buraq Fast Battle Armor (Support)**](../../units/buraq_fast_battle_armor/buraq_fast_battle_armor_support.md) *Scout (3104)* `TAG` 
 
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
 
@@ -43,6 +55,10 @@
 #### [Salamander Battle Armor](../../units/salamander_battle_armor.md) 
 
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
+
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
 
 #### [Undine Battle Armor](../../units/undine_battle_armor.md) 
 

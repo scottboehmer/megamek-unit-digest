@@ -124,3 +124,53 @@
 - **Battle Value:** 74 (383 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_[narc].md) 
 
+## Grenadier Battle Armor [Heavy Flamer] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3097) 
+- **Chassis:** Assault Battle Armor (2,000 kg) 
+- **Movement:** 2 
+- **Armor:** 9 (Standard Stealth) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+- **Weapons:** 
+  - Heavy Flamer × 2 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6739/grenadier-battle-armor-heavy-flamerheavy-flamer) 
+- **Battle Value:** 50 (260 for 4 suits) 
+- [*More Info*](grenadier_battle_armor/grenadier_battle_armor_[heavy_flamer].md) 
+
+## Grenadier Battle Armor (Hunter-Killer)[C3/HRR] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3123) 
+- **Chassis:** Assault Battle Armor (2,000 kg) 
+- **Movement:** 2 
+- **Armor:** 9 (Standard Stealth) 
+- **Manipulators:** 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - Heavy Recoilless Rifle 
+  - Firedrake Support Needler 
+- **Equipment:** 
+  - C3 Support 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6740/grenadier-battle-armor-hunter-killer-c3hrr) 
+- **Battle Value:** 46 (240 for 4 suits) 
+- [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer[c3_hrr].md) 
+
+## Grenadier Battle Armor (Hunter-Killer)[SVSP/Magshot] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3123) 
+- **Chassis:** Assault Battle Armor (2,000 kg) 
+- **Movement:** 2 
+- **Armor:** 9 (Standard Stealth) 
+- **Manipulators:** 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - Small VSP Laser 
+  - Magshot Gauss Rifle 
+  - Firedrake Support Needler 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6741/grenadier-battle-armor-hunter-killer-svspmagshot) 
+- **Battle Value:** 56 (291 for 4 suits) 
+- [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer[svsp_magshot].md) 
+

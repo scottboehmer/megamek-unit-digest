@@ -38,10 +38,19 @@
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
 - [**Salamander Battle Armor (Laser)**](../../units/salamander_battle_armor/salamander_battle_armor_laser.md) *Ambusher (3064)* 
 
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
+
 #### [Undine Battle Armor](../../units/undine_battle_armor.md) 
 
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
 - [**Undine Battle Armor (Upgrade)**](../../units/undine_battle_armor/undine_battle_armor_upgrade.md) *Missile Boat (3069)* 
+
+#### [Wraith Battle Armor](../../units/wraith_battle_armor.md) 
+
+- [**Wraith Battle Armor (Anti-Infantry)**](../../units/wraith_battle_armor/wraith_battle_armor_anti-infantry.md) *Ambusher (3116)* `Active Probe` 
+- [**Wraith Battle Armor (Standard)**](../../units/wraith_battle_armor/wraith_battle_armor_standard.md) *Ambusher (3116)* `Stealth` 
 
 ### 1.50 Tons 
 
@@ -58,6 +67,7 @@
 #### [Warg Assault Battle Armor](../../units/warg_assault_battle_armor.md) 
 
 - [**Warg Assault Battle Armor (Standard)**](../../units/warg_assault_battle_armor/warg_assault_battle_armor_standard.md) *Juggernaut (3086)* 
+- [**Warg Assault Battle Armor (Reactive)**](../../units/warg_assault_battle_armor/warg_assault_battle_armor_reactive.md) *Juggernaut (3122)* 
 
 ## Combat Vehicles 
 

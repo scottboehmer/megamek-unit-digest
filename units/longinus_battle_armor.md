@@ -96,3 +96,41 @@
 - **Battle Value:** 48 (251 for 4 suits) 
 - [*More Info*](longinus_battle_armor/longinus_battle_armor_magnetic.md) 
 
+## Longinus Battle Armor 'Hacked' [David] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3079) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 2 
+- **Armor:** 6 (Advanced) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - David Light Gauss Rifle 
+- **Equipment:** 
+  - Anti-Personnel Mount 
+  - C3i 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1939/longinus-battle-armor-hacked-david) 
+- **Battle Value:** 28 (147 for 4 suits) 
+- [*More Info*](longinus_battle_armor/longinus_battle_armor_hacked_[david].md) 
+
+## Longinus Battle Armor 'Hacked' [MG] 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3079) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 2 
+- **Armor:** 6 (Advanced) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Machine Gun 
+- **Equipment:** 
+  - Anti-Personnel Mount 
+  - C3i 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1940/longinus-battle-armor-hacked-mg) 
+- **Battle Value:** 26 (134 for 4 suits) 
+- [*More Info*](longinus_battle_armor/longinus_battle_armor_hacked_[mg].md) 
+

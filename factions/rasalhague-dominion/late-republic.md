@@ -4,6 +4,14 @@
 
 ### 0.75 Tons 
 
+#### [Constable Pacification Suit](../../units/constable_pacification_suit.md) 
+
+- [**Constable Pacification Suit (ECM)**](../../units/constable_pacification_suit/constable_pacification_suit_ecm.md) *Ambusher (3092)* `ECM` 
+- [**Constable Pacification Suit (LMG)**](../../units/constable_pacification_suit/constable_pacification_suit_lmg.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (Sensors)**](../../units/constable_pacification_suit/constable_pacification_suit_sensors.md) *Scout (3092)* `Active Probe` 
+- [**Constable Pacification Suit (SRM)**](../../units/constable_pacification_suit/constable_pacification_suit_srm.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (TAG)**](../../units/constable_pacification_suit/constable_pacification_suit_tag.md) *Ambusher (3092)* `TAG` 
+
 #### [Kobold Battle Armor](../../units/kobold_battle_armor.md) 
 
 - [**Kobold Battle Armor [GL]**](../../units/kobold_battle_armor/kobold_battle_armor_[gl].md) *Ambusher (3069)* `Stealth` 
@@ -11,6 +19,10 @@
 - [**Kobold Battle Armor [GL/TAG]**](../../units/kobold_battle_armor/kobold_battle_armor_[gl_tag].md) *Ambusher (3069)* `Stealth` , `TAG` 
 - [**Kobold Battle Armor [SL/Flamer]**](../../units/kobold_battle_armor/kobold_battle_armor_[sl_flamer].md) *Ambusher (3069)* `Stealth` 
 - [**Kobold Battle Armor [SL/TAG]**](../../units/kobold_battle_armor/kobold_battle_armor_[sl_tag].md) *Ambusher (3069)* `Stealth` , `TAG` 
+
+#### [Kobold Battle Armor IIC](../../units/kobold_battle_armor_iic.md) 
+
+- [**Kobold Battle Armor IIC (Standard)**](../../units/kobold_battle_armor_iic/kobold_battle_armor_iic_standard.md) *Undefined (3094)* `ECM` , `Stealth` , `TAG` 
 
 ### 1 Tons 
 
@@ -44,9 +56,18 @@
 
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
 
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
+
 #### [Undine Battle Armor](../../units/undine_battle_armor.md) 
 
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
+
+#### [Wraith Battle Armor](../../units/wraith_battle_armor.md) 
+
+- [**Wraith Battle Armor (Anti-Infantry)**](../../units/wraith_battle_armor/wraith_battle_armor_anti-infantry.md) *Ambusher (3116)* `Active Probe` 
+- [**Wraith Battle Armor (Standard)**](../../units/wraith_battle_armor/wraith_battle_armor_standard.md) *Ambusher (3116)* `Stealth` 
 
 ### 1.50 Tons 
 
@@ -62,6 +83,7 @@
 
 - [**Rogue Bear Heavy Battle Armor (Standard)**](../../units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standard.md) *Ambusher (3073)* 
 - [**Rogue Bear Heavy Battle Armor (Hybrid)**](../../units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hybrid.md) *Juggernaut (3082)* `Stealth` 
+- [**Rogue Bear Heavy Battle Armor (Upgrade)**](../../units/rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_upgrade.md) *Juggernaut (3108)* 
 
 ### 2 Tons 
 

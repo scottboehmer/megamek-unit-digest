@@ -15,7 +15,7 @@
   - Battle Claw w/ Magnets (left) 
 - **Weapons:** 
   - Heavy Machine Gun × 2 
-  - Inner Sphere SRM 1 (OS) 
+  - SRM 1 (OS) 
 - **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2787/salamander-battle-armor-anti-infantry) 
 - **Battle Value:** 56 (394 for 5 suits) 
 

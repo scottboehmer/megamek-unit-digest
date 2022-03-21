@@ -2,6 +2,12 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Clan Interface Armor](../../units/clan_interface_armor.md) 
+
+- [**Clan Interface Armor (Standard)**](../../units/clan_interface_armor/clan_interface_armor_standard.md) *Scout (3083)* 
+
 ### 1 Tons 
 
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
@@ -38,16 +44,37 @@
 - [**Salamander Battle Armor (Standard)**](../../units/salamander_battle_armor/salamander_battle_armor_standard.md) *Ambusher (3058)* 
 - [**Salamander Battle Armor (Laser)**](../../units/salamander_battle_armor/salamander_battle_armor_laser.md) *Ambusher (3064)* 
 
+#### [Surat Solahma Suit](../../units/surat_solahma_suit.md) 
+
+- [**Surat Solahma Suit (Standard)**](../../units/surat_solahma_suit/surat_solahma_suit_standard.md) *Ambusher (3090)* 
+
 #### [Undine Battle Armor](../../units/undine_battle_armor.md) 
 
 - [**Undine Battle Armor (Standard)**](../../units/undine_battle_armor/undine_battle_armor_standard.md) *Ambusher (3059)* 
 - [**Undine Battle Armor (Upgrade)**](../../units/undine_battle_armor/undine_battle_armor_upgrade.md) *Missile Boat (3069)* 
 
+#### [Wraith Battle Armor](../../units/wraith_battle_armor.md) 
+
+- [**Wraith Battle Armor (Anti-Infantry)**](../../units/wraith_battle_armor/wraith_battle_armor_anti-infantry.md) *Ambusher (3116)* `Active Probe` 
+- [**Wraith Battle Armor (Standard)**](../../units/wraith_battle_armor/wraith_battle_armor_standard.md) *Ambusher (3116)* `Stealth` 
+
 ### 1.50 Tons 
+
+#### [Black Wolf Battle Armor](../../units/black_wolf_battle_armor.md) 
+
+- [**Black Wolf Battle Armor [ERSPL]**](../../units/black_wolf_battle_armor/black_wolf_battle_armor_[erspl].md) *Ambusher (3138)* 
+- [**Black Wolf Battle Armor [Heavy Flamer]**](../../units/black_wolf_battle_armor/black_wolf_battle_armor_[heavy_flamer].md) *Ambusher (3138)* 
+- [**Black Wolf Battle Armor [Heavy Mortar]**](../../units/black_wolf_battle_armor/black_wolf_battle_armor_[heavy_mortar].md) *Ambusher (3138)* 
+- [**Black Wolf Battle Armor [LBX]**](../../units/black_wolf_battle_armor/black_wolf_battle_armor_[lbx].md) *Ambusher (3138)* 
+- [**Black Wolf Battle Armor [Plasma]**](../../units/black_wolf_battle_armor/black_wolf_battle_armor_[plasma].md) *Ambusher (3138)* 
 
 #### [Corona Heavy Battle Armor](../../units/corona_heavy_battle_armor.md) 
 
 - [**Corona Heavy Battle Armor (Standard)**](../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard.md) *Ambusher (3060)* 
+
+#### [Cuchulainn Support Armor](../../units/cuchulainn_support_armor.md) 
+
+- [**Cuchulainn Support Armor (Clan Model)**](../../units/cuchulainn_support_armor/cuchulainn_support_armor_clan_model.md) *Juggernaut (3134)* `Stealth` 
 
 #### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
 
@@ -58,6 +85,7 @@
 #### [Warg Assault Battle Armor](../../units/warg_assault_battle_armor.md) 
 
 - [**Warg Assault Battle Armor (Standard)**](../../units/warg_assault_battle_armor/warg_assault_battle_armor_standard.md) *Juggernaut (3086)* 
+- [**Warg Assault Battle Armor (Reactive)**](../../units/warg_assault_battle_armor/warg_assault_battle_armor_reactive.md) *Juggernaut (3122)* 
 
 ## Combat Vehicles 
 

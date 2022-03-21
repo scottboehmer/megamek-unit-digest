@@ -69,7 +69,7 @@
   - Improved Sensors 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1280/gray-death-standard-suit-srm) 
-- **Battle Value:** 41 (214 for 4 suits) 
+- **Battle Value:** 41 (213 for 4 suits) 
 - [*More Info*](gray_death_standard_suit/gray_death_standard_suit_[srm].md) 
 
 ## Gray Death Standard Suit [LRR] 

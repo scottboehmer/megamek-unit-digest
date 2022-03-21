@@ -57,6 +57,25 @@
 - **Battle Value:** 49 (342 for 5 suits) 
 - [*More Info*](void_medium_battle_armor/void_medium_battle_armor_nova_cat.md) 
 
+## Void Medium Battle Armor Caltrop 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 2 
+  - **Jumping:** 1 
+- **Armor:** 7 (Improved Stealth) 
+- **Manipulators:** 
+  - Heavy Battle Claw (right) 
+  - Heavy Battle Claw (left) 
+- **Weapons:** 
+  - Clan ER Small Laser 
+- **Equipment:** 
+  - Mine Dispenser 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3446/void-medium-battle-armor-caltrop) 
+- **Battle Value:** 73 (381 for 4 suits) 
+- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_caltrop.md) 
+
 ## Void Medium Battle Armor (Minelayer) 
 
 - **Role:** Ambusher 

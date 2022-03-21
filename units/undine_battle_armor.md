@@ -50,8 +50,8 @@
 - **Weapons:** 
   - ER Micro Laser × 2 
   - SRM 2 (OS) 
-  - Inner Sphere SRM 1 (OS) 
-- **Source:** XTRO Royal Fantasy 
+  - SRM 1 (OS) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8383/undine-battle-armor-sebastian) 
 - **Battle Value:** 44 (311 for 5 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_sebastian.md) 
 

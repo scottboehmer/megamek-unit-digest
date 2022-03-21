@@ -80,3 +80,22 @@
 - **Battle Value:** 49 (255 for 4 suits) 
 - [*More Info*](is_standard_battle_armor/is_standard_battle_armor_[lrr].md) 
 
+## IS Standard Battle Armor 'Hive' 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Advanced) 
+- **Manipulators:** 
+  - Armored Glove (right) 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - David Light Gauss Rifle 
+- **Equipment:** 
+  - C3 Support 
+- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/1627/is-standard-battle-armor-hive) 
+- **Battle Value:** 35 (181 for 4 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_hive.md) 
+

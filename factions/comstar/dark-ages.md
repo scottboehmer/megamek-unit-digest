@@ -2,6 +2,18 @@
 
 ## Battle Armor 
 
+### 0.40 Tons 
+
+#### [Hurricane PA (L)](../../units/hurricane_pa_l.md) 
+
+- [**Hurricane PA (L) P17**](../../units/hurricane_pa_l/hurricane_pa_l_p17.md) *Ambusher (3067)* `Stealth` 
+
+### 0.75 Tons 
+
+#### [Kobold Battle Armor](../../units/kobold_battle_armor.md) 
+
+- [**Kobold Battle Armor X-C3**](../../units/kobold_battle_armor/kobold_battle_armor_x-c3.md) *Ambusher (3076)* `C3i` , `Stealth` 
+
 ### 1 Tons 
 
 #### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 

@@ -1,5 +1,23 @@
 # Solaris 7 / Early Republic 
 
+## Battle Armor 
+
+### 0.40 Tons 
+
+#### [Gladiator Exoskeleton](../../units/gladiator_exoskeleton.md) 
+
+- [**Gladiator Exoskeleton (Standard) [AG]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[ag].md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (Standard) [BC/ID]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[bc_id].md) *Undefined (3056)* 
+
+#### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
+
+- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+
 ## ’Mechs 
 
 ### 25 Tons 
