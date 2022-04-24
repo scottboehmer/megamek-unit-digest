@@ -103,9 +103,9 @@
 - **Battle Value:** 2420 
 - [*More Info*](vanquisher/vanquisher_vqr-7v.md) 
 
-## Vanquisher VQR-2A (Pravuil) 
+## Vanquisher VQR-7V (Pravuil) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 100 tons (Endo Steel) 
 - **Movement:** 3 / 5 
@@ -123,5 +123,5 @@
   - C3i 
 - **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil) 
 - **Battle Value:** 2073 
-- [*More Info*](vanquisher/vanquisher_vqr-2a_pravuil.md) 
+- [*More Info*](vanquisher/vanquisher_vqr-7v_pravuil.md) 
 

@@ -2,9 +2,9 @@
 
 [Other Von Rohrs variants](../von_rohrs.md) 
 
-## Von Rohrs VON 4RH-5 "Hebis" 
+## Von Rohrs VON 4RH-5 "Hebi" 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2487) 
 - **Chassis:** 65 tons 
 - **Movement:** 5 / 8 

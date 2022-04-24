@@ -65,6 +65,7 @@
 - Circinus Federation 
 - ComStar 
 - Draconis Combine 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Fronc Reaches 
 - Kell Hounds 

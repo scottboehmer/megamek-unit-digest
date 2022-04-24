@@ -38,6 +38,11 @@
 - [**Tornado PA(L) G13 [Machine Gun]**](../../units/tornado_pal/tornado_pal_g13_[machine_gun].md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G13 [Small Laser]**](../../units/tornado_pal/tornado_pal_g13_[small_laser].md) *Ambusher (3066)* `Stealth` 
 
+#### [Tunnel Rat II Mining Exoskeleton](../../units/tunnel_rat_ii_mining_exoskeleton.md) 
+
+- [**Tunnel Rat II Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat II Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[industrial_drill].md) *Undefined (3058)* 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 

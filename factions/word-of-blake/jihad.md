@@ -39,21 +39,27 @@
 - [**Tornado PA(L) G14**](../../units/tornado_pal/tornado_pal_g14.md) *Ambusher (3070)* `Stealth` 
 - [**Tornado PA(L) G17**](../../units/tornado_pal/tornado_pal_g17.md) *Scout (3074)* `Stealth` 
 
-#### [Tunnel Rat Mining Exoskeleton](../../units/tunnel_rat_mining_exoskeleton.md) 
+#### [Tunnel Rat I Mining Exoskeleton](../../units/tunnel_rat_i_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton I / II [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[armored_glove].md) *Undefined (3055)* 
-- [**Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[industrial_drill].md) *Undefined (3055)* 
+- [**Tunnel Rat I Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_i_mining_exoskeleton/tunnel_rat_i_mining_exoskeleton_[industrial_drill].md) *Undefined (3055)* 
+- [**Tunnel Rat I Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_i_mining_exoskeleton/tunnel_rat_i_mining_exoskeleton_[armored_glove].md) *Undefined (3058)* 
 
-#### [Tunnel Rat Mining Exoskeleton III](../../units/tunnel_rat_mining_exoskeleton_iii.md) 
+#### [Tunnel Rat II Mining Exoskeleton](../../units/tunnel_rat_ii_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton III [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton_iii/tunnel_rat_mining_exoskeleton_iii_[armored_glove].md) *Undefined (3062)* 
+- [**Tunnel Rat II Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat II Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[industrial_drill].md) *Undefined (3058)* 
 
-#### [Tunnel Rat Mining Exoskeleton IV](../../units/tunnel_rat_mining_exoskeleton_iv.md) 
+#### [Tunnel Rat III Mining Exoskeleton](../../units/tunnel_rat_iii_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_gl].md) *Undefined (3062)* 
-- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_lmg].md) *Undefined (3079)* 
-- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/GL]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_gl].md) *Undefined (3079)* 
-- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG]**](../../units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_lmg].md) *Undefined (3079)* 
+- [**Tunnel Rat III Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_[armored_glove].md) *Undefined (3062)* 
+- [**Tunnel Rat III Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_[industrial_drill].md) *Undefined (3062)* 
+
+#### [Tunnel Rat IV Mining Exoskeleton](../../units/tunnel_rat_iv_mining_exoskeleton.md) 
+
+- [**Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL]**](../../units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[armored_glove_gl].md) *Undefined (3062)* 
+- [**Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG]**](../../units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[armored_glove_lmg].md) *Undefined (3079)* 
+- [**Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL]**](../../units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[battle_claw_gl].md) *Undefined (3079)* 
+- [**Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG]**](../../units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[battle_claw_lmg].md) *Undefined (3079)* 
 
 ### 0.75 Tons 
 
@@ -2348,7 +2354,7 @@
 - [**Vanquisher VQR-5V**](../../units/vanquisher/vanquisher_vqr-5v.md) *Juggernaut (3069)* `C3i` 
 - [**Vanquisher VQR-7U**](../../units/vanquisher/vanquisher_vqr-7u.md) *Juggernaut (3071)* `Active Probe` , `C3i` 
 - [**Vanquisher VQR-7V**](../../units/vanquisher/vanquisher_vqr-7v.md) *Juggernaut (3071)* `C3i` 
-- [**Vanquisher VQR-2A (Pravuil)**](../../units/vanquisher/vanquisher_vqr-2a_pravuil.md) *Juggernaut (3073)* `C3i` 
+- [**Vanquisher VQR-7V (Pravuil)**](../../units/vanquisher/vanquisher_vqr-7v_pravuil.md) *Undefined (3073)* `C3i` 
 
 ### 150 Tons 
 

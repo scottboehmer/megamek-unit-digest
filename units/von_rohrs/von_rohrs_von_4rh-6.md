@@ -2,9 +2,9 @@
 
 [Other Von Rohrs variants](../von_rohrs.md) 
 
-## Von Rohrs VON 4RH-6 "Hebis" 
+## Von Rohrs VON 4RH-6 "Hebi" 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2510) 
 - **Chassis:** 65 tons 
 - **Movement:** 5 / 8 

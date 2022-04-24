@@ -8,7 +8,7 @@
 - **Movement:** 5 / 8, XL 
   - **Jumping:** 5 
 - **Armor:** 211 (Ferro Fibrous) 
-- **Heat Sinks:** 12 (24) 
+- **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Medium Pulse Laser × 2 

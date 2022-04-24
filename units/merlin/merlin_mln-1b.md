@@ -49,6 +49,7 @@
 
 - Calderon Protectorate 
 - Circinus Federation 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 

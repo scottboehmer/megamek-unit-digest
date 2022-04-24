@@ -1233,9 +1233,9 @@
 - [**Night Gyr E**](../../units/night_gyr/night_gyr_e.md) *Skirmisher (3061)* 
 - [**Night Gyr H**](../../units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](../../units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
+- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3074)* 
 - [**Night Gyr T**](../../units/night_gyr/night_gyr_t.md) *Juggernaut (3142)* 
 - [**Night Gyr G**](../../units/night_gyr/night_gyr_g.md) *Sniper (3144)* 
-- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 

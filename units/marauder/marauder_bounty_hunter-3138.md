@@ -1,10 +1,10 @@
-# Marauder Bounty Hunter 3138 
+# Marauder (Bounty Hunter-3138) 
 
 [Other Marauder variants](../marauder.md) 
 
-## Marauder Bounty Hunter 3138 
+## Marauder (Bounty Hunter-3138) 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3138) 
 - **Chassis:** 75 tons 
 - **Movement:** 4 / 6, XL 

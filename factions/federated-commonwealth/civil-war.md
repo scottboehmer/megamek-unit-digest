@@ -38,14 +38,20 @@
 
 - [**Smoothdavid PA(L) II**](../../units/smoothdavid_pal/smoothdavid_pal_ii.md) *Undefined (3064)* 
 
-#### [Tunnel Rat Mining Exoskeleton](../../units/tunnel_rat_mining_exoskeleton.md) 
+#### [Tunnel Rat I Mining Exoskeleton](../../units/tunnel_rat_i_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton I / II [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[armored_glove].md) *Undefined (3055)* 
-- [**Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]**](../../units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[industrial_drill].md) *Undefined (3055)* 
+- [**Tunnel Rat I Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_i_mining_exoskeleton/tunnel_rat_i_mining_exoskeleton_[industrial_drill].md) *Undefined (3055)* 
+- [**Tunnel Rat I Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_i_mining_exoskeleton/tunnel_rat_i_mining_exoskeleton_[armored_glove].md) *Undefined (3058)* 
 
-#### [Tunnel Rat Mining Exoskeleton III](../../units/tunnel_rat_mining_exoskeleton_iii.md) 
+#### [Tunnel Rat II Mining Exoskeleton](../../units/tunnel_rat_ii_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton III [Armored Glove]**](../../units/tunnel_rat_mining_exoskeleton_iii/tunnel_rat_mining_exoskeleton_iii_[armored_glove].md) *Undefined (3062)* 
+- [**Tunnel Rat II Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat II Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[industrial_drill].md) *Undefined (3058)* 
+
+#### [Tunnel Rat III Mining Exoskeleton](../../units/tunnel_rat_iii_mining_exoskeleton.md) 
+
+- [**Tunnel Rat III Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_[armored_glove].md) *Undefined (3062)* 
+- [**Tunnel Rat III Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_[industrial_drill].md) *Undefined (3062)* 
 
 ### 0.75 Tons 
 

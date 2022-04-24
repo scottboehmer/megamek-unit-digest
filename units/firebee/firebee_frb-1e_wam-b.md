@@ -25,6 +25,7 @@
 - Capellan Confederation 
 - Circinus Federation 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Fronc Reaches 
 - Magistracy of Canopus 

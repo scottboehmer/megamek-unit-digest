@@ -57,6 +57,7 @@
 - Calderon Protectorate 
 - Circinus Federation 
 - Federated Suns 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 

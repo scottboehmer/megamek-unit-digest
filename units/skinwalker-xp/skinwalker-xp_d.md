@@ -5,7 +5,7 @@
 ## Skinwalker-XP "Ryoken III-XP" D 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere Mixed (3143) 
+- **Tech Base:** Clan Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
 - **Armor:** 161 (Ferro Lamellor) 
@@ -14,14 +14,14 @@
 - **Cockpit:** Interface 
 - **Heat Sinks:** 11 (22) 
 - **Weapons:** 
-  - Clan RAC/2 (ammo: 90) 
-  - Bombast Laser 
-  - Clan ER Medium Laser 
-  - Clan ER Small Laser × 2 
-  - Lance 
-  - Clan ER Micro Laser × 2 
+  - RAC/2 (ammo: 90) 
+  - Inner Sphere Bombast Laser 
+  - ER Medium Laser 
+  - ER Small Laser × 2 
+  - Inner Sphere Lance 
+  - ER Micro Laser × 2 
 - **Equipment:** 
-  - Clan CASE II 
+  - CASE II 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382/ryoken-iii-xp-skinwalker-d) 
 - **Battle Value:** 2533 
 

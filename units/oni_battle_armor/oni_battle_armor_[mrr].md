@@ -13,7 +13,7 @@
   - Basic Manipulator (right) 
   - Heavy Battle Claw w/ Vibro-Claw (left) 
 - **Weapons:** 
-  - Medium Recoilless Rifle 
+  - Clan Medium Recoilless Rifle 
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 

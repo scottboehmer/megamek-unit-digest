@@ -55,6 +55,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Circinus Federation 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Fronc Reaches 
 - Kell Hounds 

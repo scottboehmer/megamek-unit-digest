@@ -55,6 +55,7 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
@@ -122,6 +123,7 @@
 
 - Calderon Protectorate 
 - Circinus Federation 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Fronc Reaches 
 - Kell Hounds 

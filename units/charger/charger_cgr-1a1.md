@@ -84,6 +84,7 @@
 - Circinus Federation 
 - Draconis Combine 
 - Escorpión Imperio 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Fronc Reaches 

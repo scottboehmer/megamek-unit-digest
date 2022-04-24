@@ -1,39 +1,27 @@
-# Tunnel Rat Mining Exoskeleton III [Armored Glove] 
+# Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG] 
 
-[Other Tunnel Rat Mining Exoskeleton III variants](../tunnel_rat_mining_exoskeleton_iii.md) 
+[Other Tunnel Rat IV Mining Exoskeleton variants](../tunnel_rat_iv_mining_exoskeleton.md) 
 
-## Tunnel Rat Mining Exoskeleton III [Armored Glove] 
+## Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG] 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3062) 
+- **Tech Base:** Inner Sphere (3079) 
 - **Chassis:** PA(L) Battle Armor (400 kg) 
 - **Movement:** 1 
-  - **Jumping:** 1 
+  - **Jumping:** 2 
 - **Armor:** 2 (Standard) 
 - **Manipulators:** 
-  - Armored Glove (right) 
-  - Armored Glove (left) 
+  - Battle Claw (right) 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Light Machine Gun 
 - **Equipment:** 
-  - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5305/tunnel-rat-iii-mining-exoskeleton-armored-glove) 
-- **Battle Value:** 7 (37 for 4 suits) 
+  - Extended Life Support 
+- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7217/tunnel-rat-iv-mining-exoskeleton-battle-clawlmg) 
+- **Battle Value:** 14 (71 for 4 suits) 
 
 ## Availability 
-
-### Civil War 
-
-- Capellan Confederation 
-- ComStar 
-- Draconis Combine 
-- Federated Commonwealth 
-- Federated Suns 
-- Free Rasalhague Republic 
-- Free Worlds League 
-- Lyran Alliance 
-- Second Star League 
-- St. Ives Compact 
-- Word of Blake 
 
 ### Jihad 
 
@@ -41,7 +29,6 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
-- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 

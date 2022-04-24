@@ -33,8 +33,8 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
-  - Cargo × 4 
+  - Bomb Bay × 4 
 - **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5040/shadow-hawk-lam-shd-x2) 
-- **Battle Value:** 1066 
+- **Battle Value:** 994 
 - [*More Info*](shadow_hawk_lam/shadow_hawk_lam_shd-x2.md) 
 

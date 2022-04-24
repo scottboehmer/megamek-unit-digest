@@ -44,6 +44,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 

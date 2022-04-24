@@ -14,6 +14,8 @@ Units without Roles:
 Arctic Wolf A
 Hyena HYN-4B SalvageMech
 Patron LoaderMech PTN-1
+Von Rohrs (Hebi) VON 4RH-5
+Von Rohrs (Hebi) VON 4RH-6
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
@@ -91,6 +93,7 @@ Battle Cobra I
 Katana (Crockett) CRK-5006-1
 Star Python (Standard)
 Thresher Mk II (Standard)
+Marauder (Bounty Hunter-3138)
 Templar III TLR2-J 'Arthur'
 Hatchetman HCT-5DT
 Templar TLR1-OBLO
@@ -112,6 +115,7 @@ Vampyr SC-V-1 SalvageMech (Standard)
 Cazador (Standard)
 Rhino (Standard)
 Tolva (Standard)
+Vanquisher VQR-7V (Pravuil)
 Panther PNT-9ALAG
 Talon TLN-5VNO
 Crosscut IIC SolahmaMech
@@ -240,15 +244,18 @@ Salrilla Exoskeleton [Salvage Arm]
 Smoothdavid PA(L) II
 Smoothdavid PA(L) III
 Smoothgoliath PA(L) II
-Tunnel Rat Mining Exoskeleton I / II [Armored Glove]
-Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]
-Tunnel Rat Mining Exoskeleton III [Armored Glove]
-Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL]
-Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG]
-Tunnel Rat Mining Exoskeleton IV [Battle Claw/GL]
-Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG]
+Tunnel Rat I Mining Exoskeleton [Armored Glove]
+Tunnel Rat I Mining Exoskeleton [Industrial Drill]
+Tunnel Rat II Mining Exoskeleton [Armored Glove]
+Tunnel Rat II Mining Exoskeleton [Industrial Drill]
+Tunnel Rat III Mining Exoskeleton [Armored Glove]
+Tunnel Rat III Mining Exoskeleton [Industrial Drill]
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL]
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG]
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL]
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG]
 Groundhog Exoskeleton 'Master Thief'
 Ailette Rescue PA(L) (Standard)
 
 --------------------------------------------------
-5651 files -> 5603 parsed files (48 skipped) -> 5384 converted files -> 5376 validated units
+5653 files -> 5605 parsed files (48 skipped) -> 5386 converted files -> 5378 validated units

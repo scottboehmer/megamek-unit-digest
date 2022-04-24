@@ -1,8 +1,8 @@
-# Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG] 
+# Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG] 
 
-[Other Tunnel Rat Mining Exoskeleton IV variants](../tunnel_rat_mining_exoskeleton_iv.md) 
+[Other Tunnel Rat IV Mining Exoskeleton variants](../tunnel_rat_iv_mining_exoskeleton.md) 
 
-## Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG] 
+## Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG] 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3079) 
@@ -11,14 +11,14 @@
   - **Jumping:** 2 
 - **Armor:** 2 (Standard) 
 - **Manipulators:** 
-  - Battle Claw (right) 
-  - Battle Claw (left) 
+  - Armored Glove (right) 
+  - Armored Glove (left) 
 - **Weapons:** 
   - Light Machine Gun 
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7217/tunnel-rat-iv-mining-exoskeleton-battle-clawlmg) 
+- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7215/tunnel-rat-iv-mining-exoskeleton-armored-glovelmg) 
 - **Battle Value:** 14 (71 for 4 suits) 
 
 ## Availability 
@@ -29,7 +29,6 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
-- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 

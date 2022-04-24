@@ -111,21 +111,27 @@
 - [**Tornado PA(L) G14**](units/tornado_pal/tornado_pal_g14.md) *Ambusher (3070)* `Stealth` 
 - [**Tornado PA(L) G17**](units/tornado_pal/tornado_pal_g17.md) *Scout (3074)* `Stealth` 
 
-#### [Tunnel Rat Mining Exoskeleton](units/tunnel_rat_mining_exoskeleton.md) 
+#### [Tunnel Rat I Mining Exoskeleton](units/tunnel_rat_i_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton I / II [Armored Glove]**](units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[armored_glove].md) *Undefined (3055)* 
-- [**Tunnel Rat Mining Exoskeleton I / II [Industrial Drill]**](units/tunnel_rat_mining_exoskeleton/tunnel_rat_mining_exoskeleton_i___ii_[industrial_drill].md) *Undefined (3055)* 
+- [**Tunnel Rat I Mining Exoskeleton [Industrial Drill]**](units/tunnel_rat_i_mining_exoskeleton/tunnel_rat_i_mining_exoskeleton_[industrial_drill].md) *Undefined (3055)* 
+- [**Tunnel Rat I Mining Exoskeleton [Armored Glove]**](units/tunnel_rat_i_mining_exoskeleton/tunnel_rat_i_mining_exoskeleton_[armored_glove].md) *Undefined (3058)* 
 
-#### [Tunnel Rat Mining Exoskeleton III](units/tunnel_rat_mining_exoskeleton_iii.md) 
+#### [Tunnel Rat II Mining Exoskeleton](units/tunnel_rat_ii_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton III [Armored Glove]**](units/tunnel_rat_mining_exoskeleton_iii/tunnel_rat_mining_exoskeleton_iii_[armored_glove].md) *Undefined (3062)* 
+- [**Tunnel Rat II Mining Exoskeleton [Armored Glove]**](units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat II Mining Exoskeleton [Industrial Drill]**](units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[industrial_drill].md) *Undefined (3058)* 
 
-#### [Tunnel Rat Mining Exoskeleton IV](units/tunnel_rat_mining_exoskeleton_iv.md) 
+#### [Tunnel Rat III Mining Exoskeleton](units/tunnel_rat_iii_mining_exoskeleton.md) 
 
-- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL]**](units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_gl].md) *Undefined (3062)* 
-- [**Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG]**](units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[armored_glove_lmg].md) *Undefined (3079)* 
-- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/GL]**](units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_gl].md) *Undefined (3079)* 
-- [**Tunnel Rat Mining Exoskeleton IV [Battle Claw/LMG]**](units/tunnel_rat_mining_exoskeleton_iv/tunnel_rat_mining_exoskeleton_iv_[battle_claw_lmg].md) *Undefined (3079)* 
+- [**Tunnel Rat III Mining Exoskeleton [Armored Glove]**](units/tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_[armored_glove].md) *Undefined (3062)* 
+- [**Tunnel Rat III Mining Exoskeleton [Industrial Drill]**](units/tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_[industrial_drill].md) *Undefined (3062)* 
+
+#### [Tunnel Rat IV Mining Exoskeleton](units/tunnel_rat_iv_mining_exoskeleton.md) 
+
+- [**Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL]**](units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[armored_glove_gl].md) *Undefined (3062)* 
+- [**Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG]**](units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[armored_glove_lmg].md) *Undefined (3079)* 
+- [**Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL]**](units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[battle_claw_gl].md) *Undefined (3079)* 
+- [**Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG]**](units/tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_[battle_claw_lmg].md) *Undefined (3079)* 
 
 ### 0.75 Tons 
 
@@ -6880,8 +6886,8 @@
 
 #### [Von Rohrs](units/von_rohrs.md) 
 
-- [**Von Rohrs VON 4RH-5**](units/von_rohrs/von_rohrs_von_4rh-5.md) *Missile Boat (2487)* 
-- [**Von Rohrs VON 4RH-6**](units/von_rohrs/von_rohrs_von_4rh-6.md) *Skirmisher (2510)* 
+- [**Von Rohrs VON 4RH-5**](units/von_rohrs/von_rohrs_von_4rh-5.md) *Undefined (2487)* 
+- [**Von Rohrs VON 4RH-6**](units/von_rohrs/von_rohrs_von_4rh-6.md) *Undefined (2510)* 
 
 #### [Wildfire](units/wildfire.md) 
 
@@ -7439,11 +7445,9 @@
 - [**Marauder MAD-3M**](units/marauder/marauder_mad-3m.md) *Brawler (2873)* 
 - [**Marauder MAD-3L**](units/marauder/marauder_mad-3l.md) *Brawler (2905)* 
 - [**Marauder (Bounty Hunter-3015)**](units/marauder/marauder_bounty_hunter-3015.md) *Juggernaut (3015)* `Unique` 
-- [**Marauder Bounty Hunter 3015**](units/marauder/marauder_bounty_hunter_3015.md) *Juggernaut (3015)* `Unique` 
 - [**Marauder MAD-SD (Douglass)**](units/marauder/marauder_mad-sd_douglass.md) *Brawler (3025)* `Unique` 
 - [**Marauder MAD-4X**](units/marauder/marauder_mad-4x.md) *Brawler (3039)* 
 - [**Marauder (Bounty Hunter-3044)**](units/marauder/marauder_bounty_hunter-3044.md) *Sniper (3044)* `Unique` 
-- [**Marauder Bounty Hunter 3044**](units/marauder/marauder_bounty_hunter_3044.md) *Sniper (3044)* `Unique` 
 - [**Marauder MAD-5D**](units/marauder/marauder_mad-5d.md) *Skirmisher (3047)* 
 - [**Marauder C**](units/marauder/marauder_c.md) *Sniper (3050)* 
 - [**Marauder MAD-5M**](units/marauder/marauder_mad-5m.md) *Skirmisher (3051)* 
@@ -7467,7 +7471,7 @@
 - [**Marauder MAD-7C**](units/marauder/marauder_mad-7c.md) *Sniper (3103)* `C3 Support` , `ECM` 
 - [**Marauder MAD-7R**](units/marauder/marauder_mad-7r.md) *Sniper (3103)* `ECM` 
 - [**Marauder MAD-9D**](units/marauder/marauder_mad-9d.md) *Brawler (3125)* 
-- [**Marauder Bounty Hunter 3138**](units/marauder/marauder_bounty_hunter_3138.md) *Sniper (3138)* `Unique` 
+- [**Marauder (Bounty Hunter-3138)**](units/marauder/marauder_bounty_hunter-3138.md) *Undefined (3138)* `Unique` 
 - [**Marauder MAD-11D**](units/marauder/marauder_mad-11d.md) *Sniper (3140)* 
 - [**Marauder Red Hunter**](units/marauder/marauder_red_hunter.md) *Juggernaut (3146)* `Unique` 
 - [**Marauder Red Hunter 3146**](units/marauder/marauder_red_hunter_3146.md) *Juggernaut (3146)* `Unique` 
@@ -7491,9 +7495,9 @@
 - [**Night Gyr E**](units/night_gyr/night_gyr_e.md) *Skirmisher (3061)* 
 - [**Night Gyr H**](units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
+- [**Night Gyr X**](units/night_gyr/night_gyr_x.md) *Sniper (3074)* 
 - [**Night Gyr T**](units/night_gyr/night_gyr_t.md) *Juggernaut (3142)* 
 - [**Night Gyr G**](units/night_gyr/night_gyr_g.md) *Sniper (3144)* 
-- [**Night Gyr X**](units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
 
 #### [OmniMarauder](units/omnimarauder.md) 
 
@@ -8303,6 +8307,7 @@
 - [**Warhawk H**](units/warhawk/warhawk_h.md) *Brawler (3059)* 
 - [**Warhawk E**](units/warhawk/warhawk_e.md) *Sniper (3069)* 
 - [**Warhawk G**](units/warhawk/warhawk_g.md) *Juggernaut (3114)* 
+- [**Warhawk L**](units/warhawk/warhawk_l.md) *Brawler (3121)* `Active Probe` , `ECM` 
 - [**Warhawk T**](units/warhawk/warhawk_t.md) *Brawler (3142)* 
 
 ### 90 Tons 
@@ -9039,7 +9044,7 @@
 - [**Vanquisher VQR-5V**](units/vanquisher/vanquisher_vqr-5v.md) *Juggernaut (3069)* `C3i` 
 - [**Vanquisher VQR-7U**](units/vanquisher/vanquisher_vqr-7u.md) *Juggernaut (3071)* `Active Probe` , `C3i` 
 - [**Vanquisher VQR-7V**](units/vanquisher/vanquisher_vqr-7v.md) *Juggernaut (3071)* `C3i` 
-- [**Vanquisher VQR-2A (Pravuil)**](units/vanquisher/vanquisher_vqr-2a_pravuil.md) *Juggernaut (3073)* `C3i` 
+- [**Vanquisher VQR-7V (Pravuil)**](units/vanquisher/vanquisher_vqr-7v_pravuil.md) *Undefined (3073)* `C3i` 
 
 #### [Xanthos](units/xanthos.md) 
 

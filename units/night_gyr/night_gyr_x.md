@@ -5,7 +5,7 @@
 ## Night Gyr X 
 
 - **Role:** Sniper 
-- **Tech Base:** Clan (3144) 
+- **Tech Base:** Clan (3074) 
 - **Chassis:** 75 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
   - **Jumping:** 4 

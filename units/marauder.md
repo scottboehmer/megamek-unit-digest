@@ -113,25 +113,9 @@
 - **Weapons:** 
   - PPC × 3 
   - Medium Laser × 5 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015) 
-- **Battle Value:** 1919 
-- [*More Info*](marauder/marauder_bounty_hunter-3015.md) 
-
-## Marauder Bounty Hunter 3015 
-
-- **Role:** Juggernaut 
-- **Tech Base:** Inner Sphere (3015) 
-- **Chassis:** 75 tons 
-- **Movement:** 3 / 5 
-  - **Jumping:** 3 
-- **Armor:** 231 
-- **Heat Sinks:** 18 (36) 
-- **Weapons:** 
-  - PPC × 3 
-  - Medium Laser × 5 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015) 
 - **Battle Value:** 1919 
-- [*More Info*](marauder/marauder_bounty_hunter_3015.md) 
+- [*More Info*](marauder/marauder_bounty_hunter-3015.md) 
 
 ## Marauder MAD-SD (Douglass) 
 
@@ -177,26 +161,9 @@
   - Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - Medium Laser × 3 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044) 
-- **Battle Value:** 2103 
-- [*More Info*](marauder/marauder_bounty_hunter-3044.md) 
-
-## Marauder Bounty Hunter 3044 
-
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3044) 
-- **Chassis:** 75 tons 
-- **Movement:** 3 / 5, XL 
-  - **Jumping:** 3 
-- **Armor:** 231 
-- **Heat Sinks:** 15 (30) 
-- **Weapons:** 
-  - Gauss Rifle (ammo: 16) 
-  - ER PPC × 2 
-  - Medium Laser × 3 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044) 
 - **Battle Value:** 2103 
-- [*More Info*](marauder/marauder_bounty_hunter_3044.md) 
+- [*More Info*](marauder/marauder_bounty_hunter-3044.md) 
 
 ## Marauder MAD-5D 
 
@@ -636,9 +603,9 @@
 - **Battle Value:** 1967 
 - [*More Info*](marauder/marauder_mad-9d.md) 
 
-## Marauder Bounty Hunter 3138 
+## Marauder (Bounty Hunter-3138) 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3138) 
 - **Chassis:** 75 tons 
 - **Movement:** 4 / 6, XL 
@@ -653,7 +620,7 @@
   - CASE 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7535/marauder-bounty-hunter-3138) 
 - **Battle Value:** 2708 
-- [*More Info*](marauder/marauder_bounty_hunter_3138.md) 
+- [*More Info*](marauder/marauder_bounty_hunter-3138.md) 
 
 ## Marauder MAD-11D 
 

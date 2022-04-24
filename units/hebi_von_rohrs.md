@@ -1,8 +1,8 @@
-# Hebis (Von Rohrs) 
+# Hebi (Von Rohrs) 
 
-## Von Rohrs VON 4RH-5 "Hebis" 
+## Von Rohrs VON 4RH-5 "Hebi" 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2487) 
 - **Chassis:** 65 tons 
 - **Movement:** 5 / 8 
@@ -16,9 +16,9 @@
 - **Battle Value:** 1170 
 - [*More Info*](von_rohrs/von_rohrs_von_4rh-5.md) 
 
-## Von Rohrs VON 4RH-6 "Hebis" 
+## Von Rohrs VON 4RH-6 "Hebi" 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2510) 
 - **Chassis:** 65 tons 
 - **Movement:** 5 / 8 

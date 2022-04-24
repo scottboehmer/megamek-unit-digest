@@ -1281,7 +1281,6 @@
 - [**Marauder MAD-3M**](../../units/marauder/marauder_mad-3m.md) *Brawler (2873)* 
 - [**Marauder MAD-SD (Douglass)**](../../units/marauder/marauder_mad-sd_douglass.md) *Brawler (3025)* `Unique` 
 - [**Marauder (Bounty Hunter-3044)**](../../units/marauder/marauder_bounty_hunter-3044.md) *Sniper (3044)* `Unique` 
-- [**Marauder Bounty Hunter 3044**](../../units/marauder/marauder_bounty_hunter_3044.md) *Sniper (3044)* `Unique` 
 - [**Marauder MAD-5D**](../../units/marauder/marauder_mad-5d.md) *Skirmisher (3047)* 
 - [**Marauder MAD-5M**](../../units/marauder/marauder_mad-5m.md) *Skirmisher (3051)* 
 - [**Marauder MAD-5S**](../../units/marauder/marauder_mad-5s.md) *Sniper (3051)* 

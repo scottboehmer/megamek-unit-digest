@@ -158,6 +158,26 @@
 - **Battle Value:** 2958 
 - [*More Info*](night_gyr/night_gyr_f.md) 
 
+## Night Gyr X 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan (3074) 
+- **Chassis:** 75 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 220 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - RAC/5 × 2 (ammo: 120) 
+  - Streak LRM 10 × 2 (ammo: 12) 
+  - Micro Pulse Laser 
+- **Equipment:** 
+  - CASE 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8400/night-gyr-x) 
+- **Battle Value:** 2781 
+- [*More Info*](night_gyr/night_gyr_x.md) 
+
 ## Night Gyr T 
 
 - **Role:** Juggernaut 
@@ -196,24 +216,4 @@
 - **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8399/night-gyr-g) 
 - **Battle Value:** 2626 
 - [*More Info*](night_gyr/night_gyr_g.md) 
-
-## Night Gyr X 
-
-- **Role:** Sniper 
-- **Tech Base:** Clan (3144) 
-- **Chassis:** 75 tons (Endo Steel) 
-- **Movement:** 4 / 6, XL 
-  - **Jumping:** 4 
-- **Armor:** 220 (Ferro Fibrous) 
-- **Heat Sinks:** 12 (24) 
-- **Weapons:** 
-  - RAC/5 × 2 (ammo: 120) 
-  - Streak LRM 10 × 2 (ammo: 12) 
-  - Micro Pulse Laser 
-- **Equipment:** 
-  - CASE 
-  - CASE II 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8400/night-gyr-x) 
-- **Battle Value:** 2781 
-- [*More Info*](night_gyr/night_gyr_x.md) 
 

@@ -25,6 +25,7 @@
 
 - Calderon Protectorate 
 - Circinus Federation 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 

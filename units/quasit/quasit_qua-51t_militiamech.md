@@ -39,6 +39,7 @@
 
 - Circinus Federation 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -74,6 +75,7 @@
 
 - Calderon Protectorate 
 - Circinus Federation 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 

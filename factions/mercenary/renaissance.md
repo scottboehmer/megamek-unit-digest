@@ -625,10 +625,8 @@
 
 - [**Marauder MAD-3R**](../../units/marauder/marauder_mad-3r.md) *Sniper (2819)* 
 - [**Marauder (Bounty Hunter-3015)**](../../units/marauder/marauder_bounty_hunter-3015.md) *Juggernaut (3015)* `Unique` 
-- [**Marauder Bounty Hunter 3015**](../../units/marauder/marauder_bounty_hunter_3015.md) *Juggernaut (3015)* `Unique` 
 - [**Marauder MAD-SD (Douglass)**](../../units/marauder/marauder_mad-sd_douglass.md) *Brawler (3025)* `Unique` 
 - [**Marauder (Bounty Hunter-3044)**](../../units/marauder/marauder_bounty_hunter-3044.md) *Sniper (3044)* `Unique` 
-- [**Marauder Bounty Hunter 3044**](../../units/marauder/marauder_bounty_hunter_3044.md) *Sniper (3044)* `Unique` 
 
 #### [Orion](../../units/orion.md) 
 

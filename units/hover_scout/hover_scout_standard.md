@@ -36,6 +36,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 

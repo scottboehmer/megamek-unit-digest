@@ -55,6 +55,7 @@
 - Calderon Protectorate 
 - Circinus Federation 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Fronc Reaches 
 - Kell Hounds 

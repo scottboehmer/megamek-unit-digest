@@ -11,13 +11,14 @@
 - **Armor:** 216 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
+  - LB 20-X AC (ammo: 10 Standard, 10 Cluster) 
   - ER Large Laser 
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1233/goliath-gol-3s) 
-- **Battle Value:** 1463 
+- **Battle Value:** 1792 
 
 ## Availability 
 

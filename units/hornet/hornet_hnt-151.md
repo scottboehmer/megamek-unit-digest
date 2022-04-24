@@ -41,6 +41,7 @@
 - Circinus Federation 
 - Federated Suns 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
@@ -92,6 +93,7 @@
 - Calderon Protectorate 
 - Circinus Federation 
 - Federated Suns 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 

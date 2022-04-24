@@ -949,9 +949,9 @@
 - [**Night Gyr E**](../../units/night_gyr/night_gyr_e.md) *Skirmisher (3061)* 
 - [**Night Gyr H**](../../units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](../../units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
+- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3074)* 
 - [**Night Gyr T**](../../units/night_gyr/night_gyr_t.md) *Juggernaut (3142)* 
 - [**Night Gyr G**](../../units/night_gyr/night_gyr_g.md) *Sniper (3144)* 
-- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
 
 #### [Perseus](../../units/perseus.md) 
 
@@ -1064,6 +1064,7 @@
 - [**Warhawk H**](../../units/warhawk/warhawk_h.md) *Brawler (3059)* 
 - [**Warhawk E**](../../units/warhawk/warhawk_e.md) *Sniper (3069)* 
 - [**Warhawk G**](../../units/warhawk/warhawk_g.md) *Juggernaut (3114)* 
+- [**Warhawk L**](../../units/warhawk/warhawk_l.md) *Brawler (3121)* `Active Probe` , `ECM` 
 - [**Warhawk T**](../../units/warhawk/warhawk_t.md) *Brawler (3142)* 
 
 ### 90 Tons 

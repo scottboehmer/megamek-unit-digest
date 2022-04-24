@@ -27,6 +27,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
@@ -82,6 +83,7 @@
 - Capellan Confederation 
 - Circinus Federation 
 - Draconis Combine 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Fronc Reaches 
 - Magistracy of Canopus 

@@ -1,27 +1,53 @@
-# Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG] 
+# Tunnel Rat I Mining Exoskeleton [Industrial Drill] 
 
-[Other Tunnel Rat Mining Exoskeleton IV variants](../tunnel_rat_mining_exoskeleton_iv.md) 
+[Other Tunnel Rat I Mining Exoskeleton variants](../tunnel_rat_i_mining_exoskeleton.md) 
 
-## Tunnel Rat Mining Exoskeleton IV [Armored Glove/LMG] 
+## Tunnel Rat I Mining Exoskeleton [Industrial Drill] 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3079) 
+- **Tech Base:** Inner Sphere (3055) 
 - **Chassis:** PA(L) Battle Armor (400 kg) 
 - **Movement:** 1 
-  - **Jumping:** 2 
-- **Armor:** 2 (Standard) 
+- **Armor:** 1 (Standard) 
 - **Manipulators:** 
-  - Armored Glove (right) 
-  - Armored Glove (left) 
-- **Weapons:** 
-  - Light Machine Gun 
+  - Industrial Drill (right) 
+  - Basic Manipulator (left) 
 - **Equipment:** 
-  - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7215/tunnel-rat-iv-mining-exoskeleton-armored-glovelmg) 
-- **Battle Value:** 14 (71 for 4 suits) 
+  - Searchlight 
+- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7218/tunnel-rat-i-mining-exoskeleton-industrial-drill) 
+- **Battle Value:** 4 (20 for 4 suits) 
 
 ## Availability 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Second Star League 
+- St. Ives Compact 
+- Word of Blake 
+
+### Civil War 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Second Star League 
+- St. Ives Compact 
+- Word of Blake 
 
 ### Jihad 
 
@@ -29,7 +55,6 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
-- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 

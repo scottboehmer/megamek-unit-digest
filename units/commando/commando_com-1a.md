@@ -26,6 +26,7 @@
 
 - Calderon Protectorate 
 - Circinus Federation 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 

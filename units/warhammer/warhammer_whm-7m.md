@@ -69,6 +69,7 @@
 - Circinus Federation 
 - ComStar 
 - Draconis Combine 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Fronc Reaches 

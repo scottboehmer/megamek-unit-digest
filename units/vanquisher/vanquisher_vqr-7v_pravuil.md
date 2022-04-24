@@ -1,10 +1,10 @@
-# Vanquisher VQR-2A (Pravuil) 
+# Vanquisher VQR-7V (Pravuil) 
 
 [Other Vanquisher variants](../vanquisher.md) 
 
-## Vanquisher VQR-2A (Pravuil) 
+## Vanquisher VQR-7V (Pravuil) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 100 tons (Endo Steel) 
 - **Movement:** 3 / 5 

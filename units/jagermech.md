@@ -92,7 +92,7 @@
 - **Chassis:** 65 tons 
 - **Movement:** 4 / 6, XL 
 - **Armor:** 116 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 48) 
   - ER Medium Laser × 2 

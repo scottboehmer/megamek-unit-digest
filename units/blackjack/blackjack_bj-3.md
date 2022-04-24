@@ -51,6 +51,7 @@
 - Capellan Confederation 
 - Circinus Federation 
 - Federated Suns 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 

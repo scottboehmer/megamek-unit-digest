@@ -61,6 +61,7 @@
 - Circinus Federation 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 

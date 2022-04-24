@@ -955,7 +955,7 @@
 - [**Night Gyr D**](../../units/night_gyr/night_gyr_d.md) *Missile Boat (3052)* 
 - [**Night Gyr H**](../../units/night_gyr/night_gyr_h.md) *Skirmisher (3062)* `ECM` 
 - [**Night Gyr F**](../../units/night_gyr/night_gyr_f.md) *Skirmisher (3069)* `ECM` 
-- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3144)* 
+- [**Night Gyr X**](../../units/night_gyr/night_gyr_x.md) *Sniper (3074)* 
 
 #### [Orion](../../units/orion.md) 
 

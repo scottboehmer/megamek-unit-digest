@@ -26,6 +26,11 @@
 - [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
 - [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
 
+#### [Tunnel Rat II Mining Exoskeleton](../../units/tunnel_rat_ii_mining_exoskeleton.md) 
+
+- [**Tunnel Rat II Mining Exoskeleton [Armored Glove]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[armored_glove].md) *Undefined (3055)* 
+- [**Tunnel Rat II Mining Exoskeleton [Industrial Drill]**](../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_[industrial_drill].md) *Undefined (3058)* 
+
 ### 0.75 Tons 
 
 #### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 

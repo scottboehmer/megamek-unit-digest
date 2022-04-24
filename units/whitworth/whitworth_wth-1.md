@@ -47,6 +47,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
@@ -111,6 +112,7 @@
 
 - Calderon Protectorate 
 - Circinus Federation 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 

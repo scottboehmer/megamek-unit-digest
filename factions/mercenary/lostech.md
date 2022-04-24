@@ -589,7 +589,6 @@
 
 - [**Marauder MAD-3R**](../../units/marauder/marauder_mad-3r.md) *Sniper (2819)* 
 - [**Marauder (Bounty Hunter-3015)**](../../units/marauder/marauder_bounty_hunter-3015.md) *Juggernaut (3015)* `Unique` 
-- [**Marauder Bounty Hunter 3015**](../../units/marauder/marauder_bounty_hunter_3015.md) *Juggernaut (3015)* `Unique` 
 
 #### [Orion](../../units/orion.md) 
 

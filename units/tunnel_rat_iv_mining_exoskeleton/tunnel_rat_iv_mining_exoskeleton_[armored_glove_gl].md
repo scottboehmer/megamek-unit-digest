@@ -1,8 +1,8 @@
-# Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL] 
+# Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL] 
 
-[Other Tunnel Rat Mining Exoskeleton IV variants](../tunnel_rat_mining_exoskeleton_iv.md) 
+[Other Tunnel Rat IV Mining Exoskeleton variants](../tunnel_rat_iv_mining_exoskeleton.md) 
 
-## Tunnel Rat Mining Exoskeleton IV [Armored Glove/GL] 
+## Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL] 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3062) 
@@ -29,7 +29,6 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
-- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 

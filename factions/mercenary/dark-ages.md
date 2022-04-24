@@ -2659,7 +2659,7 @@
 - [**Marauder MAD-2T**](../../units/marauder/marauder_mad-2t.md) *Sniper (3092)* 
 - [**Marauder MAD-7C**](../../units/marauder/marauder_mad-7c.md) *Sniper (3103)* `C3 Support` , `ECM` 
 - [**Marauder MAD-7R**](../../units/marauder/marauder_mad-7r.md) *Sniper (3103)* `ECM` 
-- [**Marauder Bounty Hunter 3138**](../../units/marauder/marauder_bounty_hunter_3138.md) *Sniper (3138)* `Unique` 
+- [**Marauder (Bounty Hunter-3138)**](../../units/marauder/marauder_bounty_hunter-3138.md) *Undefined (3138)* `Unique` 
 - [**Marauder MAD-11D**](../../units/marauder/marauder_mad-11d.md) *Sniper (3140)* 
 - [**Marauder Red Hunter**](../../units/marauder/marauder_red_hunter.md) *Juggernaut (3146)* `Unique` 
 - [**Marauder Red Hunter 3146**](../../units/marauder/marauder_red_hunter_3146.md) *Juggernaut (3146)* `Unique` 

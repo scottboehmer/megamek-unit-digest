@@ -59,6 +59,7 @@
 - Calderon Protectorate 
 - Circinus Federation 
 - Draconis Combine 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Fronc Reaches 

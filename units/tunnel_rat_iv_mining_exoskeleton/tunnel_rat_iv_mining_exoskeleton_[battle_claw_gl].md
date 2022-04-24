@@ -1,53 +1,27 @@
-# Tunnel Rat Mining Exoskeleton I / II [Industrial Drill] 
+# Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL] 
 
-[Other Tunnel Rat Mining Exoskeleton variants](../tunnel_rat_mining_exoskeleton.md) 
+[Other Tunnel Rat IV Mining Exoskeleton variants](../tunnel_rat_iv_mining_exoskeleton.md) 
 
-## Tunnel Rat Mining Exoskeleton I / II [Industrial Drill] 
+## Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL] 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3055) 
+- **Tech Base:** Inner Sphere (3079) 
 - **Chassis:** PA(L) Battle Armor (400 kg) 
 - **Movement:** 1 
-- **Armor:** 1 (Standard) 
+  - **Jumping:** 2 
+- **Armor:** 2 (Standard) 
 - **Manipulators:** 
-  - Industrial Drill (right) 
-  - Basic Manipulator (left) 
+  - Battle Claw (right) 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Heavy Grenade Launcher 
 - **Equipment:** 
-  - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7218/tunnel-rat-i-mining-exoskeleton-industrial-drill) 
-- **Battle Value:** 4 (20 for 4 suits) 
+  - Extended Life Support 
+- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7216/tunnel-rat-iv-mining-exoskeleton-battle-clawgl) 
+- **Battle Value:** 10 (51 for 4 suits) 
 
 ## Availability 
-
-### Clan Invasion 
-
-- Capellan Confederation 
-- ComStar 
-- Draconis Combine 
-- Federated Commonwealth 
-- Federated Suns 
-- Free Rasalhague Republic 
-- Free Worlds League 
-- Lyran Alliance 
-- Lyran Commonwealth 
-- Second Star League 
-- St. Ives Compact 
-- Word of Blake 
-
-### Civil War 
-
-- Capellan Confederation 
-- ComStar 
-- Draconis Combine 
-- Federated Commonwealth 
-- Federated Suns 
-- Free Rasalhague Republic 
-- Free Worlds League 
-- Lyran Alliance 
-- Second Star League 
-- St. Ives Compact 
-- Word of Blake 
 
 ### Jihad 
 
@@ -55,7 +29,6 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
-- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 
