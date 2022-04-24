@@ -15,6 +15,8 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Rocket 15 × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2422/panther-pnt-14s) 
 - **Battle Value:** 825 
 

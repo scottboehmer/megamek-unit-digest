@@ -16,6 +16,8 @@
   - Heavy Medium Laser × 3 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1172/galahad-glass-spider-3) 
 - **Battle Value:** 2508 
 

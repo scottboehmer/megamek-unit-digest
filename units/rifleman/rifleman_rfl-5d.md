@@ -14,6 +14,8 @@
   - ER PPC × 2 
   - Large Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d) 
 - **Battle Value:** 1395 
 

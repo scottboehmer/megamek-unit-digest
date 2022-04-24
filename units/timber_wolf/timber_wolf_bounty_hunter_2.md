@@ -22,6 +22,8 @@
   - Targeting Computer 
   - CASE 
   - Coolant Pod 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5803/mad-cat-timber-wolf-bounty-hunter-2) 
 - **Battle Value:** 2799 
 

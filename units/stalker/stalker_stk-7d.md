@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3043/stalker-stk-7d) 
 - **Battle Value:** 1872 
 

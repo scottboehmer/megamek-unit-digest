@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/926/dragonfly-viper-prime) 
 - **Battle Value:** 1450 
 

@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2339/orion-on3-mx) 
 - **Battle Value:** 1849 
 

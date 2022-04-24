@@ -16,6 +16,8 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2703/rifleman-rfl-7m) 
 - **Battle Value:** 1521 
 

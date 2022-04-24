@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/520/centurion-cn9-d) 
 - **Battle Value:** 1130 
 

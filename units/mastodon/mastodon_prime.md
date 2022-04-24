@@ -15,6 +15,8 @@
   - Streak LRM 20 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8342/mastodon-prime) 
 - **Battle Value:** 3109 
 

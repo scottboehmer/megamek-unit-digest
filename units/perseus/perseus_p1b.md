@@ -16,6 +16,8 @@
   - Large Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4810/perseus-p1b) 
 - **Battle Value:** 1776 
 

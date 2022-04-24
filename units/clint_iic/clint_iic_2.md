@@ -15,6 +15,9 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/653/clint-iic-2) 
 - **Battle Value:** 1890 
 

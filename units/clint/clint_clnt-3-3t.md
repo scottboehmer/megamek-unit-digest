@@ -16,6 +16,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/649/clint-clnt-3-3t) 
 - **Battle Value:** 901 
 

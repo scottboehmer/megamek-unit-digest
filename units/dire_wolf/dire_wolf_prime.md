@@ -17,6 +17,8 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/818/daishi-dire-wolf-prime) 
 - **Battle Value:** 2712 
 

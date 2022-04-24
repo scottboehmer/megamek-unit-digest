@@ -16,6 +16,8 @@
   - ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2713/rifleman-iic-4) 
 - **Battle Value:** 2140 
 

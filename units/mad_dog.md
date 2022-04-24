@@ -14,6 +14,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3473/vulture-mad-dog-prime) 
 - **Battle Value:** 2351 
 - [*More Info*](mad_dog/mad_dog_prime.md) 
@@ -32,6 +34,8 @@
   - SRM 6 × 6 (ammo: 60) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3466/vulture-mad-dog-a) 
 - **Battle Value:** 1923 
 - [*More Info*](mad_dog/mad_dog_a.md) 
@@ -51,6 +55,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3467/vulture-mad-dog-b) 
 - **Battle Value:** 2284 
 - [*More Info*](mad_dog/mad_dog_b.md) 
@@ -67,6 +73,8 @@
   - Gauss Rifle × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3468/vulture-mad-dog-c) 
 - **Battle Value:** 1892 
 - [*More Info*](mad_dog/mad_dog_c.md) 
@@ -86,6 +94,8 @@
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd) 
 - **Battle Value:** 1970 
 - [*More Info*](mad_dog/mad_dog_dd.md) 
@@ -104,6 +114,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Active Probe 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7593/vulture-mad-dog-s) 
 - **Battle Value:** 2676 
 - [*More Info*](mad_dog/mad_dog_s.md) 
@@ -123,6 +135,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3469/vulture-mad-dog-d) 
 - **Battle Value:** 2447 
 - [*More Info*](mad_dog/mad_dog_d.md) 
@@ -141,6 +155,8 @@
   - Heavy Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3472/vulture-mad-dog-h) 
 - **Battle Value:** 2097 
 - [*More Info*](mad_dog/mad_dog_h.md) 
@@ -157,6 +173,8 @@
   - HAG 30 × 2 (ammo: 8) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3470/vulture-mad-dog-e) 
 - **Battle Value:** 2031 
 - [*More Info*](mad_dog/mad_dog_e.md) 
@@ -174,6 +192,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3471/vulture-mad-dog-f) 
 - **Battle Value:** 2300 
 - [*More Info*](mad_dog/mad_dog_f.md) 
@@ -194,6 +214,8 @@
 - **Equipment:** 
   - Inner Sphere HarJel × 3 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3474/vulture-mad-dog-u) 
 - **Battle Value:** 2488 
 - [*More Info*](mad_dog/mad_dog_u.md) 
@@ -213,6 +235,8 @@
   - ER Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6891/vulture-mad-dog-g) 
 - **Battle Value:** 2503 
 - [*More Info*](mad_dog/mad_dog_g.md) 
@@ -232,6 +256,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7729/vulture-mad-dog-v) 
 - **Battle Value:** 2084 
 - [*More Info*](mad_dog/mad_dog_v.md) 
@@ -250,6 +276,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t) 
 - **Battle Value:** 2555 
 - [*More Info*](mad_dog/mad_dog_t.md) 
@@ -267,6 +295,8 @@
   - RAC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7728/vulture-mad-dog-i) 
 - **Battle Value:** 1852 
 - [*More Info*](mad_dog/mad_dog_i.md) 

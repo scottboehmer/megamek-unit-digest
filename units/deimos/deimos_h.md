@@ -20,6 +20,8 @@
   - Anti-Missile System (ammo: 24) 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Source:** Jihad 
 - **Battle Value:** 3344 
 

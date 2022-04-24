@@ -16,6 +16,8 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/107/arctic-wolf-ii-prime) 
 - **Battle Value:** 1645 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_prime.md) 
@@ -35,6 +37,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/104/arctic-wolf-ii-a) 
 - **Battle Value:** 2111 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_a.md) 
@@ -54,6 +58,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/105/arctic-wolf-ii-b) 
 - **Battle Value:** 1678 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_b.md) 
@@ -72,6 +78,8 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/106/arctic-wolf-ii-c) 
 - **Battle Value:** 1913 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_c.md) 

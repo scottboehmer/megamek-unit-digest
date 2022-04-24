@@ -19,6 +19,8 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1418/hatchetman-hct-7s) 
 - **Battle Value:** 1243 
 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/101/arctic-wolf-a) 
 - **Battle Value:** 1587 
 

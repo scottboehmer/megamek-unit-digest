@@ -23,6 +23,8 @@
   - Targeting Computer 
   - Inner Sphere Radical Heat Sink System 
   - Supercharger 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6855/deimos-e) 
 - **Battle Value:** 3620 
 

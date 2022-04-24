@@ -17,6 +17,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6969/rifleman-ii-rfl-3n-2-kataga) 
 - **Battle Value:** 1991 
 

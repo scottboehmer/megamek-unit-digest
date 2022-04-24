@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/816/daishi-dire-wolf-d) 
 - **Battle Value:** 3403 
 

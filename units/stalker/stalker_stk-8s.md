@@ -15,6 +15,8 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044/stalker-stk-8s) 
 - **Battle Value:** 2020 
 

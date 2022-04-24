@@ -14,6 +14,8 @@
 - **Weapons:** 
   - PPC 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2425/panther-pnt-9r) 
 - **Battle Value:** 769 
 

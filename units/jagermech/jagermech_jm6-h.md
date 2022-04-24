@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - LB 2-X AC × 2 (ammo: 45 Cluster) 
   - Rocket 15 × 6 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1669/jagermech-jm6-h) 
 - **Battle Value:** 1348 
 

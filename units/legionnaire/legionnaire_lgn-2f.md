@@ -14,6 +14,8 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4491/legionnaire-lgn-2f) 
 - **Battle Value:** 1808 
 

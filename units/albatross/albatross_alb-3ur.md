@@ -18,6 +18,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
 - **Battle Value:** 1902 
 

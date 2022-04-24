@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3434/viper-black-python-3) 
 - **Battle Value:** 2421 
 

@@ -16,6 +16,8 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1856/lancelot-lnc25-03) 
 - **Battle Value:** 1360 
 

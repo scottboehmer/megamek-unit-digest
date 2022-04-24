@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/645/clint-clnt-2-3t-denton) 
 - **Battle Value:** 873 
 

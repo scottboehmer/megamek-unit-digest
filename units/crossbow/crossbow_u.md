@@ -17,6 +17,8 @@
   - SRT 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/740/crossbow-u) 
 - **Battle Value:** 1856 
 

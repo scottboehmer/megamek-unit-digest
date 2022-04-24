@@ -16,6 +16,8 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2417/panther-pnt-10k2) 
 - **Battle Value:** 913 
 

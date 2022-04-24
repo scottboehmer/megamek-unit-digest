@@ -15,6 +15,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
 - **Battle Value:** 1558 
 

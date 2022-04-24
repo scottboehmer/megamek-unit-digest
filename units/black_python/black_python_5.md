@@ -17,6 +17,8 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7792/viper-black-python-5) 
 - **Battle Value:** 2925 
 

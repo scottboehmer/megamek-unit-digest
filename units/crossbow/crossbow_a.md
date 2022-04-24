@@ -16,6 +16,8 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/730/crossbow-a) 
 - **Battle Value:** 1797 
 

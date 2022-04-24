@@ -16,6 +16,8 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5121/stalker-stk-6m) 
 - **Battle Value:** 2029 
 

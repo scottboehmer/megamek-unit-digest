@@ -17,6 +17,8 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/738/crossbow-h) 
 - **Battle Value:** 1707 
 

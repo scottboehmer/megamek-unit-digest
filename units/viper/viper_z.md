@@ -19,6 +19,8 @@
   - Laser Anti-Missile System 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5644/dragonfly-viper-z) 
 - **Battle Value:** 1692 
 

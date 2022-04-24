@@ -14,6 +14,8 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2974/snake-snk-1v) 
 - **Battle Value:** 980 
 - [*More Info*](snake/snake_snk-1v.md) 
@@ -32,6 +34,8 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975/snake-snk-1v-alexi) 
 - **Battle Value:** 1316 
 - [*More Info*](snake/snake_snk-1v_alexi.md) 
@@ -51,6 +55,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2976/snake-snk-2b) 
 - **Battle Value:** 1081 
 - [*More Info*](snake/snake_snk-2b.md) 
@@ -71,6 +77,8 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6982/snake-arthur) 
 - **Battle Value:** 1477 
 - [*More Info*](snake/snake_arthur.md) 
@@ -90,6 +98,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2977/snake-snk-2br) 
 - **Battle Value:** 1577 
 - [*More Info*](snake/snake_snk-2br.md) 

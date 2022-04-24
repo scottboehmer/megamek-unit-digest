@@ -16,6 +16,8 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975/snake-snk-1v-alexi) 
 - **Battle Value:** 1316 
 

@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k) 
 - **Battle Value:** 1597 
 

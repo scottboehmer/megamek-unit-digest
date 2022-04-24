@@ -16,6 +16,8 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
   - Narc (ammo: 12) 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3040/stalker-stk-5m) 
 - **Battle Value:** 1655 
 

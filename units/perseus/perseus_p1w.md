@@ -16,6 +16,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w) 
 - **Battle Value:** 1864 
 

@@ -15,6 +15,8 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933/longbow-lgb-13c) 
 - **Battle Value:** 1307 
 

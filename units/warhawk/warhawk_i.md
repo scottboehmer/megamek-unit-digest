@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #20 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8339/masakari-warhawk-i) 
 - **Battle Value:** 3026 
 

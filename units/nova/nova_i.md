@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER PPC 
   - Improved Heavy Medium Laser × 5 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i) 
 - **Battle Value:** 2224 
 

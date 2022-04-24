@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1937/longbow-lgb-7v) 
 - **Battle Value:** 1816 
 

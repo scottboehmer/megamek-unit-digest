@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e) 
 - **Battle Value:** 2814 
 

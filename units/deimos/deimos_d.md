@@ -18,6 +18,8 @@
   - Anti-Missile System (ammo: 24) 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6856/deimos-d) 
 - **Battle Value:** 2682 
 

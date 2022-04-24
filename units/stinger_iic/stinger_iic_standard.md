@@ -16,6 +16,8 @@
   - AP Gauss Rifle (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135/stinger-iic-standard) 
 - **Battle Value:** 730 
 

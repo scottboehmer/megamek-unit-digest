@@ -14,6 +14,8 @@
   - LRM 20 × 2 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3038/stalker-stk-3h) 
 - **Battle Value:** 1624 
 

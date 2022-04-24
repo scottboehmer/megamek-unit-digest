@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3198/thresher-standard) 
 - **Battle Value:** 2314 
 - [*More Info*](thresher/thresher_standard.md) 
@@ -38,6 +40,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3199/thresher-2) 
 - **Battle Value:** 2337 
 - [*More Info*](thresher/thresher_2.md) 
@@ -59,6 +63,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Jihad Turning Points: Luthien - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3197/thresher-edward) 
 - **Battle Value:** 2104 
 - [*More Info*](thresher/thresher_edward.md) 

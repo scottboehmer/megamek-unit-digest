@@ -21,6 +21,8 @@
   - Anti-Missile System (ammo: 24) 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/855/deimos-c) 
 - **Battle Value:** 2737 
 

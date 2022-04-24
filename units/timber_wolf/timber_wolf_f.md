@@ -17,6 +17,8 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1983/mad-cat-timber-wolf-f) 
 - **Battle Value:** 2764 
 

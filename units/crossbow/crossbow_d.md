@@ -14,6 +14,8 @@
   - 'Mech Mortar/8 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/736/crossbow-d) 
 - **Battle Value:** 1154 
 

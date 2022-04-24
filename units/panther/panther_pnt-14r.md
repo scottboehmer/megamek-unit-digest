@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Clan CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8222/panther-pnt-14r) 
 - **Battle Value:** 1291 
 

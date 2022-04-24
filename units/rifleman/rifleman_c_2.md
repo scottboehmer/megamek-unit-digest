@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Improved Heavy Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2) 
 - **Battle Value:** 2150 
 

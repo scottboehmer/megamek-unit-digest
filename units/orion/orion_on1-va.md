@@ -14,6 +14,8 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2336/orion-on1-va) 
 - **Battle Value:** 1328 
 

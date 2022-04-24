@@ -16,6 +16,8 @@
   - Inner Sphere Rocket 10 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8337/masakari-warhawk-t) 
 - **Battle Value:** 2938 
 

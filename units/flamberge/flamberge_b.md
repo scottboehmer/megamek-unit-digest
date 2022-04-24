@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1117/flamberge-b) 
 - **Battle Value:** 2750 
 

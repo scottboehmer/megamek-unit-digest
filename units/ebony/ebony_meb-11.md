@@ -17,6 +17,8 @@
   - Plasma Rifle (ammo: 10) 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/941/ebony-meb-11) 
 - **Battle Value:** 1135 
 

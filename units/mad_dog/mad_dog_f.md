@@ -15,6 +15,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3471/vulture-mad-dog-f) 
 - **Battle Value:** 2300 
 

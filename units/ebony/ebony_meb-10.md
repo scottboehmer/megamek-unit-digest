@@ -18,6 +18,8 @@
   - Sword 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/940/ebony-meb-10) 
 - **Battle Value:** 1020 
 

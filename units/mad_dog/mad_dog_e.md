@@ -14,6 +14,8 @@
   - HAG 30 × 2 (ammo: 8) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3470/vulture-mad-dog-e) 
 - **Battle Value:** 2031 
 

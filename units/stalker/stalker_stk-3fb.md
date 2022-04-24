@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037/stalker-stk-3fb) 
 - **Battle Value:** 2029 
 

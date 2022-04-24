@@ -15,6 +15,8 @@
   - PPC 
   - ER Large Laser × 2 
   - Medium Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1854/lancelot-lnc25-01x) 
 - **Battle Value:** 1659 
 

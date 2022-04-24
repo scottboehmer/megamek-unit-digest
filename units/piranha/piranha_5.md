@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8122/piranha-5) 
 - **Battle Value:** 1132 
 

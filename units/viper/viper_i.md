@@ -19,6 +19,8 @@
   - Light Active Probe 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/925/dragonfly-viper-i) 
 - **Battle Value:** 1580 
 

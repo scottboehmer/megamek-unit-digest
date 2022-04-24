@@ -16,6 +16,8 @@
   - TSEMP 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6942/ebony-meb-12) 
 - **Battle Value:** 1837 
 

@@ -16,6 +16,8 @@
   - AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1666/jagermech-jm6-dd) 
 - **Battle Value:** 965 
 

@@ -16,6 +16,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4891/rabid-coyote-standard) 
 - **Battle Value:** 2081 
 

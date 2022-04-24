@@ -15,6 +15,8 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Pulse Laser × 3 
   - Hatchet 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3923/centurion-cn9-ylw2-yen-lo-wang) 
 - **Battle Value:** 1435 
 

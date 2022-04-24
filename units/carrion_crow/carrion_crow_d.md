@@ -18,6 +18,8 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7779/carrion-crow-d) 
 - **Battle Value:** 1930 
 

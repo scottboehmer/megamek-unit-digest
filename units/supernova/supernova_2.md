@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3133/supernova-2) 
 - **Battle Value:** 2741 
 

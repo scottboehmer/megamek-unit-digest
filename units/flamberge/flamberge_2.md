@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - Partial Wing 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1114/flamberge-2) 
 - **Battle Value:** 2468 
 

@@ -15,6 +15,8 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5120/stalker-stk-4p) 
 - **Battle Value:** 1461 
 

@@ -20,6 +20,8 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/815/daishi-dire-wolf-c) 
 - **Battle Value:** 3610 
 

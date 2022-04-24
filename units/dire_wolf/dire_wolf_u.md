@@ -20,6 +20,8 @@
   - Targeting Computer 
   - Inner Sphere HarJel × 5 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/820/daishi-dire-wolf-u) 
 - **Battle Value:** 3360 
 

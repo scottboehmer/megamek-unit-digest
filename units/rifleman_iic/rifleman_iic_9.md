@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod × 2 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8418/rifleman-iic-9) 
 - **Battle Value:** 2792 
 

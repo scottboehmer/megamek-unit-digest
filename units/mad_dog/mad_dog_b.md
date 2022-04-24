@@ -17,6 +17,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3467/vulture-mad-dog-b) 
 - **Battle Value:** 2284 
 

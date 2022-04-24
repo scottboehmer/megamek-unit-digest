@@ -17,6 +17,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k) 
 - **Battle Value:** 1932 
 

@@ -34,6 +34,8 @@
 - **Equipment:** 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799/pendragon-pdg-1r) 
 - **Battle Value:** 2151 
 - [*More Info*](pendragon/pendragon_pdg-1r.md) 

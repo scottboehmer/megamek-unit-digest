@@ -18,6 +18,8 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/336/black-hawk-nova-b) 
 - **Battle Value:** 1543 
 

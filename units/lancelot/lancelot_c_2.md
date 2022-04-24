@@ -16,6 +16,8 @@
   - Flamer × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7627/lancelot-c-2) 
 - **Battle Value:** 2571 
 

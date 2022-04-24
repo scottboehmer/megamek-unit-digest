@@ -17,6 +17,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4756/orion-on1-ma) 
 - **Battle Value:** 1501 
 

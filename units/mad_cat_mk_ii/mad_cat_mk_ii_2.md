@@ -18,6 +18,8 @@
   - Streak SRM 4 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5715/mad-cat-mk-ii-2) 
 - **Battle Value:** 2822 
 

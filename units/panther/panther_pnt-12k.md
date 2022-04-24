@@ -16,6 +16,8 @@
   - MRM 10 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419/panther-pnt-12k) 
 - **Battle Value:** 930 
 

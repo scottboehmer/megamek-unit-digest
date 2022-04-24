@@ -16,6 +16,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732/crossbow-c) 
 - **Battle Value:** 1557 
 

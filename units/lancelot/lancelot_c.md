@@ -12,6 +12,8 @@
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Large Pulse Laser × 3 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7626/lancelot-c) 
 - **Battle Value:** 1960 
 

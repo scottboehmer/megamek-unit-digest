@@ -14,6 +14,8 @@
   - PPC × 2 
   - Light PPC × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1673/jagermech-iii-jm6-d4) 
 - **Battle Value:** 1831 
 

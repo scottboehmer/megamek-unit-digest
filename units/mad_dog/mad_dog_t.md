@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t) 
 - **Battle Value:** 2555 
 

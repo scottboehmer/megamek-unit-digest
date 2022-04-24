@@ -16,6 +16,8 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7778/carrion-crow-c) 
 - **Battle Value:** 1826 
 

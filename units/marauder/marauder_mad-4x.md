@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Blazer Cannon × 2 
   - SRM 6 × 2 (ammo: 30) 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
 - **Battle Value:** 1453 
 

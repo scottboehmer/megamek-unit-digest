@@ -14,6 +14,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Heavy PPC 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6451/gun-gn-2oa) 
 - **Battle Value:** 685 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - ER Large Laser × 3 
   - Medium Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5874/lancelot-lnc25-01sl) 
 - **Battle Value:** 1546 
 

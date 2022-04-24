@@ -13,6 +13,8 @@
   - LRM 10 × 2 (ammo: 24) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3035/stalker-stk-3f) 
 - **Battle Value:** 1559 
 - [*More Info*](stalker/stalker_stk-3f.md) 
@@ -29,6 +31,8 @@
   - LRM 20 × 2 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3038/stalker-stk-3h) 
 - **Battle Value:** 1624 
 - [*More Info*](stalker/stalker_stk-3h.md) 
@@ -48,6 +52,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037/stalker-stk-3fb) 
 - **Battle Value:** 2029 
 - [*More Info*](stalker/stalker_stk-3fb.md) 
@@ -65,6 +71,8 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Laser × 4 
   - Streak SRM 2 × 4 (ammo: 100) 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5870/stalker-stk-3fk) 
 - **Battle Value:** 1742 
 - [*More Info*](stalker/stalker_stk-3fk.md) 
@@ -82,6 +90,8 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3039/stalker-stk-4n) 
 - **Battle Value:** 1558 
 - [*More Info*](stalker/stalker_stk-4n.md) 
@@ -99,6 +109,8 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5120/stalker-stk-4p) 
 - **Battle Value:** 1461 
 - [*More Info*](stalker/stalker_stk-4p.md) 
@@ -115,6 +127,8 @@
   - Large Laser × 2 
   - SRM 6 × 4 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3036/stalker-stk-3f-jagawen) 
 - **Battle Value:** 1570 
 - [*More Info*](stalker/stalker_stk-3f_jagawen.md) 
@@ -133,6 +147,8 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
   - Narc (ammo: 12) 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3040/stalker-stk-5m) 
 - **Battle Value:** 1655 
 - [*More Info*](stalker/stalker_stk-5m.md) 
@@ -153,6 +169,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3041/stalker-stk-5s) 
 - **Battle Value:** 1423 
 - [*More Info*](stalker/stalker_stk-5s.md) 
@@ -170,6 +188,8 @@
   - Clan LRM 20 × 2 (ammo: 12) 
   - Clan Streak SRM 6 × 2 (ammo: 30) 
   - Clan ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5119/stalker-stk-3f-jamison) 
 - **Battle Value:** 2635 
 - [*More Info*](stalker/stalker_stk-3f_jamison.md) 
@@ -188,6 +208,8 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5121/stalker-stk-6m) 
 - **Battle Value:** 2029 
 - [*More Info*](stalker/stalker_stk-6m.md) 
@@ -208,6 +230,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3043/stalker-stk-7d) 
 - **Battle Value:** 1872 
 - [*More Info*](stalker/stalker_stk-7d.md) 
@@ -225,6 +249,8 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044/stalker-stk-8s) 
 - **Battle Value:** 2020 
 - [*More Info*](stalker/stalker_stk-8s.md) 
@@ -245,6 +271,8 @@
 - **Equipment:** 
   - C3 Boosted Support 
   - CASE II 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042/stalker-stk-7c3bs) 
 - **Battle Value:** 1712 
 - [*More Info*](stalker/stalker_stk-7c3bs.md) 
@@ -266,6 +294,8 @@
   - Clan Light Active Probe 
   - Targeting Computer 
   - CASE II 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8444/stalker-stk-9f) 
 - **Battle Value:** 2469 
 - [*More Info*](stalker/stalker_stk-9f.md) 

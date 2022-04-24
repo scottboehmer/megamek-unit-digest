@@ -17,6 +17,8 @@
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd) 
 - **Battle Value:** 1970 
 

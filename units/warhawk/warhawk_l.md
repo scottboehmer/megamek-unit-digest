@@ -19,6 +19,8 @@
   - CASE II 
   - Targeting Computer 
   - Inner Sphere Supercharger 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8340/masakari-warhawk-l) 
 - **Battle Value:** 3221 
 

@@ -15,6 +15,8 @@
   - Hatchet 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3369/valiant-v4-lnt-k7) 
 - **Battle Value:** 894 
 

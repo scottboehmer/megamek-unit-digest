@@ -17,6 +17,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/337/black-hawk-nova-c) 
 - **Battle Value:** 1515 
 

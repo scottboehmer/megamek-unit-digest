@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 30) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/647/clint-clnt-2-3ul) 
 - **Battle Value:** 1245 
 

@@ -16,6 +16,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652/clint-iic-standard) 
 - **Battle Value:** 1395 
 

@@ -19,6 +19,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4807/perseus-p1) 
 - **Battle Value:** 1713 
 

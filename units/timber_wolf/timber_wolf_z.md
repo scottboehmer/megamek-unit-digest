@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5822/mad-cat-timber-wolf-z) 
 - **Battle Value:** 2923 
 

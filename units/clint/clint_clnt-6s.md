@@ -15,6 +15,9 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/651/clint-clnt-6s) 
 - **Battle Value:** 1334 
 

@@ -16,6 +16,8 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/942/ebony-meb-9) 
 - **Battle Value:** 1012 
 

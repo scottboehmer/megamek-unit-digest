@@ -17,6 +17,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/27/albatross-alb-3u) 
 - **Battle Value:** 1668 
 - [*More Info*](albatross/albatross_alb-3u.md) 
@@ -38,6 +40,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/29/albatross-alb-4u) 
 - **Battle Value:** 1907 
 - [*More Info*](albatross/albatross_alb-4u.md) 
@@ -62,6 +66,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Laser Anti-Missile System 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/30/albatross-alb-5w-dantalion) 
 - **Battle Value:** 2296 
 - [*More Info*](albatross/albatross_alb-5w_dantalion.md) 
@@ -82,6 +88,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
 - **Battle Value:** 1902 
 - [*More Info*](albatross/albatross_alb-3ur.md) 

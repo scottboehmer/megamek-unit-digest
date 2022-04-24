@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/52/anvil-anv-6m) 
 - **Battle Value:** 1366 
 

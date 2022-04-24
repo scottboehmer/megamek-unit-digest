@@ -15,6 +15,8 @@
   - RAC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7728/vulture-mad-dog-i) 
 - **Battle Value:** 1852 
 

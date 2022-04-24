@@ -14,6 +14,8 @@
   - AC/20 (ammo: 15) 
   - Medium Laser × 2 
   - Hatchet 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/525/centurion-cn9-ylw-yen-lo-wang) 
 - **Battle Value:** 957 
 

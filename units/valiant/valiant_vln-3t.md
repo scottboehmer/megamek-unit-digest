@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Small Shield 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t) 
 - **Battle Value:** 852 
 

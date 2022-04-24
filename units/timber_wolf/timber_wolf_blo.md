@@ -19,6 +19,8 @@
   - Inner Sphere C3i 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** SO: Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7635/mad-cat-timber-wolf-blo) 
 - **Battle Value:** 2611 
 

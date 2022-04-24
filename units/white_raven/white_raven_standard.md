@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7794/white-raven-standard) 
 - **Battle Value:** 2941 
 

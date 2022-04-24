@@ -14,6 +14,9 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/644/clint-clnt-2-3t) 
 - **Battle Value:** 770 
 

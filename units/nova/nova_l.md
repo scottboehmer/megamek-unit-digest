@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Improved Heavy Large Laser × 2 
   - Plasma Cannon × 2 (ammo: 20) 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l) 
 - **Battle Value:** 2177 
 

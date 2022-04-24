@@ -14,6 +14,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652/clint-iic-standard) 
 - **Battle Value:** 1395 
 - [*More Info*](clint_iic/clint_iic_standard.md) 
@@ -31,6 +34,9 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/653/clint-iic-2) 
 - **Battle Value:** 1890 
 - [*More Info*](clint_iic/clint_iic_2.md) 
@@ -49,6 +55,9 @@
   - Inner Sphere Medium Re-Engineered Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8369/clint-iic-2l-leia) 
 - **Battle Value:** 1497 
 - [*More Info*](clint_iic/clint_iic_2l_leia.md) 

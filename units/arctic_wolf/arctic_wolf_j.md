@@ -19,6 +19,8 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/102/arctic-wolf-j) 
 - **Battle Value:** 1786 
 

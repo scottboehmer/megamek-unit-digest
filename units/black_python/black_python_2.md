@@ -20,6 +20,8 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3433/viper-black-python-2) 
 - **Battle Value:** 2520 
 

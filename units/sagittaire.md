@@ -16,6 +16,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4967/sagittaire-sgt-8r) 
 - **Battle Value:** 2088 
 - [*More Info*](sagittaire/sagittaire_sgt-8r.md) 
@@ -36,6 +38,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5717/sagittaire-sgt-9d) 
 - **Battle Value:** 2064 
 - [*More Info*](sagittaire/sagittaire_sgt-9d.md) 
@@ -53,6 +57,8 @@
 - **Weapons:** 
   - Light PPC × 2 
   - Medium VSP Laser × 4 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718/sagittaire-sgt-10x) 
 - **Battle Value:** 1794 
 - [*More Info*](sagittaire/sagittaire_sgt-10x.md) 
@@ -75,6 +81,8 @@
 - **Equipment:** 
   - Radical Heat Sink System 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6835/sagittaire-sgt-14d) 
 - **Battle Value:** 1960 
 - [*More Info*](sagittaire/sagittaire_sgt-14d.md) 

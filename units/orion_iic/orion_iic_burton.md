@@ -20,6 +20,8 @@
   - Laser Anti-Missile System 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** OTP Capellan - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7403/orion-iic-burton) 
 - **Battle Value:** 2746 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Battle Value:** 1520 
 
 ## Availability 

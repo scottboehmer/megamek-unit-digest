@@ -17,6 +17,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932/longbow-lgb-12r) 
 - **Battle Value:** 1979 
 

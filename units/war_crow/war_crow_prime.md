@@ -17,6 +17,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7545/war-crow-prime) 
 - **Battle Value:** 2649 
 

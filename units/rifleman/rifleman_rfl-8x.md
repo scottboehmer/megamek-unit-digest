@@ -13,6 +13,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x) 
 - **Battle Value:** 1798 
 

@@ -17,6 +17,8 @@
   - Hatchet 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1411/hatchetman-hct-3f-austin) 
 - **Battle Value:** 910 
 

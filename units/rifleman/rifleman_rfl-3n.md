@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - AC/5 × 2 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2697/rifleman-rfl-3n) 
 - **Battle Value:** 1039 
 

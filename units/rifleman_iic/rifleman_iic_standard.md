@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Active Probe 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710/rifleman-iic-standard) 
 - **Battle Value:** 2307 
 

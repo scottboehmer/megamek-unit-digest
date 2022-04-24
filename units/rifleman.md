@@ -12,6 +12,8 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7183/rifleman-rfl-1n) 
 - **Battle Value:** 931 
 - [*More Info*](rifleman/rifleman_rfl-1n.md) 
@@ -27,6 +29,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184/rifleman-rfl-2n) 
 - **Battle Value:** 1093 
 - [*More Info*](rifleman/rifleman_rfl-2n.md) 
@@ -43,6 +47,8 @@
   - Large Laser × 2 
   - AC/5 × 2 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2697/rifleman-rfl-3n) 
 - **Battle Value:** 1039 
 - [*More Info*](rifleman/rifleman_rfl-3n.md) 
@@ -58,6 +64,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d) 
 - **Battle Value:** 1173 
 - [*More Info*](rifleman/rifleman_rfl-4d.md) 
@@ -73,6 +81,8 @@
 - **Weapons:** 
   - AC/10 × 2 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2695/rifleman-rfl-3c) 
 - **Battle Value:** 1066 
 - [*More Info*](rifleman/rifleman_rfl-3c.md) 
@@ -91,6 +101,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m) 
 - **Battle Value:** 1227 
 - [*More Info*](rifleman/rifleman_rfl-5m.md) 
@@ -107,6 +119,8 @@
   - ER PPC × 2 
   - Large Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d) 
 - **Battle Value:** 1395 
 - [*More Info*](rifleman/rifleman_rfl-5d.md) 
@@ -122,6 +136,8 @@
 - **Weapons:** 
   - Clan Large Pulse Laser × 2 
   - Clan LB 5-X AC × 2 (ammo: 20) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c) 
 - **Battle Value:** 1335 
 - [*More Info*](rifleman/rifleman_c.md) 
@@ -155,6 +171,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2702/rifleman-rfl-6x) 
 - **Battle Value:** 1464 
 - [*More Info*](rifleman/rifleman_rfl-6x.md) 
@@ -171,6 +189,8 @@
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 120) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d) 
 - **Battle Value:** 1777 
 - [*More Info*](rifleman/rifleman_rfl-8d.md) 
@@ -189,6 +209,8 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2703/rifleman-rfl-7m) 
 - **Battle Value:** 1521 
 - [*More Info*](rifleman/rifleman_rfl-7m.md) 
@@ -204,6 +226,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x) 
 - **Battle Value:** 1798 
 - [*More Info*](rifleman/rifleman_rfl-8x.md) 
@@ -241,6 +265,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2696/rifleman-rfl-3cr) 
 - **Battle Value:** 1129 
 - [*More Info*](rifleman/rifleman_rfl-3cr.md) 
@@ -261,6 +287,8 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t) 
 - **Battle Value:** 1503 
 - [*More Info*](rifleman/rifleman_rfl-9t.md) 
@@ -280,6 +308,8 @@
   - Clan Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind) 
 - **Battle Value:** 2012 
 - [*More Info*](rifleman/rifleman_rfl-x3_muse_wind.md) 
@@ -297,6 +327,8 @@
 - **Weapons:** 
   - Snub-Nose PPC × 2 
   - Light PPC × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2704/rifleman-rfl-7x) 
 - **Battle Value:** 1645 
 - [*More Info*](rifleman/rifleman_rfl-7x.md) 
@@ -313,6 +345,8 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Improved Heavy Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2) 
 - **Battle Value:** 2150 
 - [*More Info*](rifleman/rifleman_c_2.md) 

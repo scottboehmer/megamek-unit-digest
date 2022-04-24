@@ -16,6 +16,8 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1985/mad-cat-timber-wolf-prime) 
 - **Battle Value:** 2737 
 - [*More Info*](timber_wolf/timber_wolf_prime.md) 
@@ -35,6 +37,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1978/mad-cat-timber-wolf-a) 
 - **Battle Value:** 2854 
 - [*More Info*](timber_wolf/timber_wolf_a.md) 
@@ -55,6 +59,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1979/mad-cat-timber-wolf-b) 
 - **Battle Value:** 2224 
 - [*More Info*](timber_wolf/timber_wolf_b.md) 
@@ -75,6 +81,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1980/mad-cat-timber-wolf-c) 
 - **Battle Value:** 2500 
 - [*More Info*](timber_wolf/timber_wolf_c.md) 
@@ -93,6 +101,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1981/mad-cat-timber-wolf-d) 
 - **Battle Value:** 2682 
 - [*More Info*](timber_wolf/timber_wolf_d.md) 
@@ -112,6 +122,8 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7516/mad-cat-timber-wolf-n) 
 - **Battle Value:** 2862 
 - [*More Info*](timber_wolf/timber_wolf_n.md) 
@@ -133,6 +145,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1986/mad-cat-timber-wolf-s) 
 - **Battle Value:** 2462 
 - [*More Info*](timber_wolf/timber_wolf_s.md) 
@@ -153,6 +167,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1977/mad-cat-timber-wolf-pryde) 
 - **Battle Value:** 2900 
 - [*More Info*](timber_wolf/timber_wolf_pryde.md) 
@@ -173,6 +189,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7595/mad-cat-timber-wolf-tc) 
 - **Battle Value:** 2903 
 - [*More Info*](timber_wolf/timber_wolf_tc.md) 
@@ -191,6 +209,8 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1982/mad-cat-timber-wolf-e) 
 - **Battle Value:** 2444 
 - [*More Info*](timber_wolf/timber_wolf_e.md) 
@@ -209,6 +229,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1984/mad-cat-timber-wolf-h) 
 - **Battle Value:** 2627 
 - [*More Info*](timber_wolf/timber_wolf_h.md) 
@@ -229,6 +251,8 @@
   - Active Probe 
   - Targeting Computer 
   - Light TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1976/mad-cat-timber-wolf-bounty-hunter) 
 - **Battle Value:** 2829 
 - [*More Info*](timber_wolf/timber_wolf_bounty_hunter.md) 
@@ -253,6 +277,8 @@
   - Targeting Computer 
   - CASE 
   - Coolant Pod 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5803/mad-cat-timber-wolf-bounty-hunter-2) 
 - **Battle Value:** 2799 
 - [*More Info*](timber_wolf/timber_wolf_bounty_hunter_2.md) 
@@ -272,6 +298,8 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #5 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7515/mad-cat-timber-wolf-m) 
 - **Battle Value:** 2741 
 - [*More Info*](timber_wolf/timber_wolf_m.md) 
@@ -291,6 +319,8 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1983/mad-cat-timber-wolf-f) 
 - **Battle Value:** 2764 
 - [*More Info*](timber_wolf/timber_wolf_f.md) 
@@ -310,6 +340,8 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5822/mad-cat-timber-wolf-z) 
 - **Battle Value:** 2923 
 - [*More Info*](timber_wolf/timber_wolf_z.md) 
@@ -330,6 +362,8 @@
 - **Equipment:** 
   - HarJel × 3 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1987/mad-cat-timber-wolf-u) 
 - **Battle Value:** 2627 
 - [*More Info*](timber_wolf/timber_wolf_u.md) 
@@ -350,6 +384,8 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7518/mad-cat-timber-wolf-w) 
 - **Battle Value:** 2791 
 - [*More Info*](timber_wolf/timber_wolf_w.md) 
@@ -371,6 +407,8 @@
   - Inner Sphere C3i 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** SO: Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7635/mad-cat-timber-wolf-blo) 
 - **Battle Value:** 2611 
 - [*More Info*](timber_wolf/timber_wolf_blo.md) 
@@ -391,6 +429,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7517/mad-cat-timber-wolf-t) 
 - **Battle Value:** 2714 
 - [*More Info*](timber_wolf/timber_wolf_t.md) 

@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4807/perseus-p1) 
 - **Battle Value:** 1713 
 - [*More Info*](perseus/perseus_p1.md) 
@@ -37,6 +39,8 @@
   - Guardian ECM Suite 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4809/perseus-p1a) 
 - **Battle Value:** 1661 
 - [*More Info*](perseus/perseus_p1a.md) 
@@ -55,6 +59,8 @@
   - Large Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4810/perseus-p1b) 
 - **Battle Value:** 1776 
 - [*More Info*](perseus/perseus_p1b.md) 
@@ -73,6 +79,8 @@
   - ER Medium Laser × 3 
   - Medium Pulse Laser 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c) 
 - **Battle Value:** 1644 
 - [*More Info*](perseus/perseus_p1c.md) 
@@ -94,6 +102,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4812/perseus-p1d) 
 - **Battle Value:** 1714 
 - [*More Info*](perseus/perseus_p1d.md) 
@@ -112,6 +122,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w) 
 - **Battle Value:** 1864 
 - [*More Info*](perseus/perseus_p1w.md) 
@@ -134,6 +146,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Communications Equipment × 3 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697/perseus-p1e) 
 - **Battle Value:** 1641 
 - [*More Info*](perseus/perseus_p1e.md) 
@@ -157,6 +171,8 @@
   - Guardian ECM Suite 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5698/perseus-p1p) 
 - **Battle Value:** 1777 
 - [*More Info*](perseus/perseus_p1p.md) 

@@ -19,6 +19,8 @@
   - Light Active Probe 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8133/daishi-dire-wolf-t) 
 - **Battle Value:** 3317 
 

@@ -14,6 +14,8 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - LRM 5 × 2 (ammo: 24) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1936/longbow-lgb-7q) 
 - **Battle Value:** 1618 
 

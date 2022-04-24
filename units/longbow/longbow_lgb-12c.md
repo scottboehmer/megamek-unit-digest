@@ -16,6 +16,8 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931/longbow-lgb-12c) 
 - **Battle Value:** 1686 
 

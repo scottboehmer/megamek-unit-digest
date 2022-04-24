@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8345/mastodon-c) 
 - **Battle Value:** 3092 
 

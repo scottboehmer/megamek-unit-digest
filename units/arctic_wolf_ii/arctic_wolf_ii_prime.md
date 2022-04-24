@@ -18,6 +18,8 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/107/arctic-wolf-ii-prime) 
 - **Battle Value:** 1645 
 

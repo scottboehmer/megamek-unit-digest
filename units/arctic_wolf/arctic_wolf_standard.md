@@ -16,6 +16,8 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/99/arctic-wolf-standard) 
 - **Battle Value:** 1330 
 

@@ -18,6 +18,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7595/mad-cat-timber-wolf-tc) 
 - **Battle Value:** 2903 
 

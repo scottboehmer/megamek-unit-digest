@@ -14,6 +14,8 @@
   - LRM 20 × 2 (ammo: 24) 
   - LRM 5 × 2 (ammo: 48) 
   - Small Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930/longbow-lgb-0w) 
 - **Battle Value:** 1337 
 

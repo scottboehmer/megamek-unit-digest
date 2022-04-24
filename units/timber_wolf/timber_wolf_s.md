@@ -19,6 +19,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1986/mad-cat-timber-wolf-s) 
 - **Battle Value:** 2462 
 

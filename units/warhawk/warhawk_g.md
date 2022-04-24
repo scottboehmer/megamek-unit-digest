@@ -18,6 +18,8 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8338/masakari-warhawk-g) 
 - **Battle Value:** 2909 
 

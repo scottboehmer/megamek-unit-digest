@@ -17,6 +17,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050U - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2333/orion-on1-k-kerensky) 
 - **Battle Value:** 1821 
 

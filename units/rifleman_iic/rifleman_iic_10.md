@@ -18,6 +18,8 @@
   - Active Probe 
   - CASE II 
   - Inner Sphere Supercharger 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8419/rifleman-iic-10) 
 - **Battle Value:** 1587 
 

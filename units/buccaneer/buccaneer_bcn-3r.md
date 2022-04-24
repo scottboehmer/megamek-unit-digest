@@ -16,6 +16,8 @@
   - Medium Pulse Laser 
   - Medium Laser × 4 
   - Hatchet 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/436/buccaneer-bcn-3r) 
 - **Battle Value:** 1434 
 

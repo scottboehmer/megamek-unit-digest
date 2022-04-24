@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE II 
   - TAG 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
 - **Battle Value:** 1826 
 

@@ -17,6 +17,8 @@
   - ER Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6891/vulture-mad-dog-g) 
 - **Battle Value:** 2503 
 

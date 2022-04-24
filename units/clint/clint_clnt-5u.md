@@ -17,6 +17,9 @@
 - **Equipment:** 
   - C3 Support 
   - TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/650/clint-clnt-5u) 
 - **Battle Value:** 1275 
 

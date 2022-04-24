@@ -17,6 +17,8 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1860/lancelot-lnc25-08) 
 - **Battle Value:** 1162 
 

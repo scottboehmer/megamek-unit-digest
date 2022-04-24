@@ -15,6 +15,8 @@
   - Ultra AC/2 × 4 (ammo: 270) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711/rifleman-iic-2) 
 - **Battle Value:** 1345 
 

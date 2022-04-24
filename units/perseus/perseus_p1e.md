@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Communications Equipment × 3 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697/perseus-p1e) 
 - **Battle Value:** 1641 
 

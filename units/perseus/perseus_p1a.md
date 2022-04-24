@@ -18,6 +18,8 @@
   - Guardian ECM Suite 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4809/perseus-p1a) 
 - **Battle Value:** 1661 
 

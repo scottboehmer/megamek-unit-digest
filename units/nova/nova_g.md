@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g) 
 - **Battle Value:** 1822 
 

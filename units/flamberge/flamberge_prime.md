@@ -17,6 +17,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1119/flamberge-prime) 
 - **Battle Value:** 2266 
 

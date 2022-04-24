@@ -16,6 +16,8 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2974/snake-snk-1v) 
 - **Battle Value:** 980 
 

@@ -14,6 +14,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1862/legionnaire-lgn-1x) 
 - **Battle Value:** 1322 
 - [*More Info*](legionnaire/legionnaire_lgn-1x.md) 
@@ -30,6 +32,8 @@
   - RAC/5 (ammo: 60) 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1863/legionnaire-lgn-2d) 
 - **Battle Value:** 1386 
 - [*More Info*](legionnaire/legionnaire_lgn-2d.md) 
@@ -44,6 +48,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Arrow IV (ammo: 10) 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1865/legionnaire-lgn-2xa) 
 - **Battle Value:** 1172 
 - [*More Info*](legionnaire/legionnaire_lgn-2xa.md) 
@@ -60,6 +66,8 @@
   - Ultra AC/10 (ammo: 20) 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1866/legionnaire-lgn-2xu) 
 - **Battle Value:** 1128 
 - [*More Info*](legionnaire/legionnaire_lgn-2xu.md) 
@@ -76,6 +84,8 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4491/legionnaire-lgn-2f) 
 - **Battle Value:** 1808 
 - [*More Info*](legionnaire/legionnaire_lgn-2f.md) 
@@ -92,6 +102,8 @@
 - **Weapons:** 
   - Clan RAC/5 (ammo: 60) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1864/legionnaire-lgn-2x1-muse-fire) 
 - **Battle Value:** 2032 
 - [*More Info*](legionnaire/legionnaire_lgn-2x1_muse_fire.md) 
@@ -110,6 +122,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k) 
 - **Battle Value:** 1597 
 - [*More Info*](legionnaire/legionnaire_lgn-2k.md) 
@@ -125,6 +139,8 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Battle Value:** 1520 
 - [*More Info*](legionnaire/legionnaire_lgn-2d_raul.md) 
 

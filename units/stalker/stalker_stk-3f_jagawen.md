@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - SRM 6 × 4 (ammo: 30) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3036/stalker-stk-3f-jagawen) 
 - **Battle Value:** 1570 
 

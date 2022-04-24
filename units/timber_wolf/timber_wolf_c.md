@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1980/mad-cat-timber-wolf-c) 
 - **Battle Value:** 2500 
 

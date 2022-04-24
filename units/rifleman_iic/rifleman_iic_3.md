@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2712/rifleman-iic-3) 
 - **Battle Value:** 1733 
 

@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Jihad Turning Points: Luthien - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3197/thresher-edward) 
 - **Battle Value:** 2104 
 

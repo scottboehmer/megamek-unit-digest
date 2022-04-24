@@ -12,6 +12,8 @@
   - PPC 
   - Large Laser × 2 
   - Medium Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1853/lancelot-lnc25-01) 
 - **Battle Value:** 1422 
 - [*More Info*](lancelot/lancelot_lnc25-01.md) 
@@ -28,6 +30,8 @@
   - PPC 
   - Large Laser × 2 
   - Machine Gun × 4 (ammo: 200) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1858/lancelot-lnc25-05) 
 - **Battle Value:** 1365 
 - [*More Info*](lancelot/lancelot_lnc25-05.md) 
@@ -43,6 +47,8 @@
 - **Weapons:** 
   - ER Large Laser × 3 
   - Medium Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5874/lancelot-lnc25-01sl) 
 - **Battle Value:** 1546 
 - [*More Info*](lancelot/lancelot_lnc25-01sl.md) 
@@ -60,6 +66,8 @@
   - PPC 
   - ER Large Laser × 2 
   - Medium Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1854/lancelot-lnc25-01x) 
 - **Battle Value:** 1659 
 - [*More Info*](lancelot/lancelot_lnc25-01x.md) 
@@ -74,6 +82,8 @@
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Large Pulse Laser × 3 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7626/lancelot-c) 
 - **Battle Value:** 1960 
 - [*More Info*](lancelot/lancelot_c.md) 
@@ -92,6 +102,8 @@
   - Flamer × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7627/lancelot-c-2) 
 - **Battle Value:** 2571 
 - [*More Info*](lancelot/lancelot_c_2.md) 
@@ -108,6 +120,8 @@
   - PPC 
   - Large Laser × 2 
   - Medium Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1855/lancelot-lnc25-02) 
 - **Battle Value:** 1236 
 - [*More Info*](lancelot/lancelot_lnc25-02.md) 
@@ -126,6 +140,8 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1856/lancelot-lnc25-03) 
 - **Battle Value:** 1360 
 - [*More Info*](lancelot/lancelot_lnc25-03.md) 
@@ -143,6 +159,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1857/lancelot-lnc25-04) 
 - **Battle Value:** 1640 
 - [*More Info*](lancelot/lancelot_lnc25-04.md) 
@@ -163,6 +181,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3i 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1859/lancelot-lnc25-06) 
 - **Battle Value:** 1661 
 - [*More Info*](lancelot/lancelot_lnc25-06.md) 
@@ -182,6 +202,8 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1860/lancelot-lnc25-08) 
 - **Battle Value:** 1162 
 - [*More Info*](lancelot/lancelot_lnc25-08.md) 
@@ -198,6 +220,8 @@
   - Clan ER Large Laser × 2 
   - Plasma Rifle (ammo: 20) 
   - Clan Medium Pulse Laser 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8417/lancelot-lnc25-09) 
 - **Battle Value:** 2099 
 - [*More Info*](lancelot/lancelot_lnc25-09.md) 

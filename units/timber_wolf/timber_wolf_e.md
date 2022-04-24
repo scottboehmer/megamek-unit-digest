@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1982/mad-cat-timber-wolf-e) 
 - **Battle Value:** 2444 
 

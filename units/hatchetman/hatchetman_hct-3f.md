@@ -17,6 +17,8 @@
   - Hatchet 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1410/hatchetman-hct-3f) 
 - **Battle Value:** 854 
 

@@ -18,6 +18,8 @@
   - Laser Anti-Missile System 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/852/deimos-2) 
 - **Battle Value:** 2394 
 

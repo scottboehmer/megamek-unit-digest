@@ -17,6 +17,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/104/arctic-wolf-ii-a) 
 - **Battle Value:** 2111 
 

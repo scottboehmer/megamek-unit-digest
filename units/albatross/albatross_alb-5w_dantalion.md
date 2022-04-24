@@ -22,6 +22,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Laser Anti-Missile System 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/30/albatross-alb-5w-dantalion) 
 - **Battle Value:** 2296 
 

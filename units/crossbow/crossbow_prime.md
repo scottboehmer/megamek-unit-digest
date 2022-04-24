@@ -14,6 +14,8 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/739/crossbow-prime) 
 - **Battle Value:** 1829 
 

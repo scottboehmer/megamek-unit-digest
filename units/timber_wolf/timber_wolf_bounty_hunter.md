@@ -18,6 +18,8 @@
   - Active Probe 
   - Targeting Computer 
   - Light TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1976/mad-cat-timber-wolf-bounty-hunter) 
 - **Battle Value:** 2829 
 

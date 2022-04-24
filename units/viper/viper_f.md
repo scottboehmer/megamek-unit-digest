@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/922/dragonfly-viper-f) 
 - **Battle Value:** 1689 
 

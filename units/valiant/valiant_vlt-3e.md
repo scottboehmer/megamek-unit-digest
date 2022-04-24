@@ -17,6 +17,8 @@
   - Fluid Gun (ammo: 20) 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7293/valiant-vlt-3e) 
 - **Battle Value:** 1019 
 

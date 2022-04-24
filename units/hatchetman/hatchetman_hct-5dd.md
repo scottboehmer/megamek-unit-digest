@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd) 
 - **Battle Value:** 1112 
 

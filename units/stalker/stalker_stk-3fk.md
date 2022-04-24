@@ -15,6 +15,8 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Laser × 4 
   - Streak SRM 2 × 4 (ammo: 100) 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5870/stalker-stk-3fk) 
 - **Battle Value:** 1742 
 

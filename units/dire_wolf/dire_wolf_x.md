@@ -23,6 +23,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #13 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4046/daishi-dire-wolf-x) 
 - **Battle Value:** 2645 
 

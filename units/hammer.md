@@ -11,6 +11,8 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV × 2 (ammo: 48) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1366/hammer-hmr-3m) 
 - **Battle Value:** 787 
 - [*More Info*](hammer/hammer_hmr-3m.md) 
@@ -26,6 +28,8 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV × 2 (ammo: 96) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1368/hammer-hmr-3s-slammer) 
 - **Battle Value:** 638 
 - [*More Info*](hammer/hammer_hmr-3s_slammer.md) 
@@ -41,6 +45,8 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV (ammo: 24) 
   - Medium Laser × 7 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1365/hammer-hmr-3c-claw-hammer) 
 - **Battle Value:** 976 
 - [*More Info*](hammer/hammer_hmr-3c_claw-hammer.md) 
@@ -59,6 +65,8 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1367/hammer-hmr-3p-pein-hammer) 
 - **Battle Value:** 827 
 - [*More Info*](hammer/hammer_hmr-3p_pein-hammer.md) 

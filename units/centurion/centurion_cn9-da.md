@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/524/centurion-cn9-da) 
 - **Battle Value:** 1035 
 

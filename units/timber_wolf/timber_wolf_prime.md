@@ -18,6 +18,8 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1985/mad-cat-timber-wolf-prime) 
 - **Battle Value:** 2737 
 

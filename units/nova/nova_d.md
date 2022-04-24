@@ -16,6 +16,8 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/338/black-hawk-nova-d) 
 - **Battle Value:** 1450 
 

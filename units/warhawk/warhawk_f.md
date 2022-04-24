@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #20 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5491/masakari-warhawk-f) 
 - **Battle Value:** 2775 
 

@@ -17,6 +17,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7795/white-raven-2) 
 - **Battle Value:** 2703 
 

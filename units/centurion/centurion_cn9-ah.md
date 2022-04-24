@@ -13,6 +13,8 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
   - LRM 10 (ammo: 24) 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/517/centurion-cn9-ah) 
 - **Battle Value:** 945 
 

@@ -16,6 +16,8 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2093/masakari-warhawk-c) 
 - **Battle Value:** 2998 
 

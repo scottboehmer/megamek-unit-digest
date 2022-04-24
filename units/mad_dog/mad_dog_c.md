@@ -14,6 +14,8 @@
   - Gauss Rifle × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3468/vulture-mad-dog-c) 
 - **Battle Value:** 1892 
 

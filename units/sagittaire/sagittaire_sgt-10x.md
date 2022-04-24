@@ -15,6 +15,8 @@
 - **Weapons:** 
   - Light PPC × 2 
   - Medium VSP Laser × 4 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718/sagittaire-sgt-10x) 
 - **Battle Value:** 1794 
 

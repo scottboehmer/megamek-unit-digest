@@ -18,6 +18,8 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317/orion-c-2) 
 - **Battle Value:** 2026 
 

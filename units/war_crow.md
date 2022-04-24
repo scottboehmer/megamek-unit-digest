@@ -15,6 +15,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7545/war-crow-prime) 
 - **Battle Value:** 2649 
 - [*More Info*](war_crow/war_crow_prime.md) 
@@ -35,6 +37,8 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7546/war-crow-a) 
 - **Battle Value:** 3030 
 - [*More Info*](war_crow/war_crow_a.md) 
@@ -55,6 +59,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7547/war-crow-b) 
 - **Battle Value:** 2787 
 - [*More Info*](war_crow/war_crow_b.md) 
@@ -74,6 +80,8 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7548/war-crow-c) 
 - **Battle Value:** 2572 
 - [*More Info*](war_crow/war_crow_c.md) 

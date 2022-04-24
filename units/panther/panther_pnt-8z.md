@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2424/panther-pnt-8z) 
 - **Battle Value:** 741 
 

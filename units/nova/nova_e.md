@@ -16,6 +16,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/339/black-hawk-nova-e) 
 - **Battle Value:** 2078 
 

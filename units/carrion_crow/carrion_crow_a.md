@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7776/carrion-crow-a) 
 - **Battle Value:** 1625 
 

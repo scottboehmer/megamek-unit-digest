@@ -19,6 +19,8 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
   - Liquid Cargo 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927/dragonfly-viper-u) 
 - **Battle Value:** 1417 
 

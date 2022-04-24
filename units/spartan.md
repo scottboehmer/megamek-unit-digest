@@ -71,6 +71,8 @@
   - Streak SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646/spartan-c) 
 - **Battle Value:** 2514 
 - [*More Info*](spartan/spartan_c.md) 

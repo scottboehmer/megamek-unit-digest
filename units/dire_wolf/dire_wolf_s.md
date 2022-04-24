@@ -20,6 +20,8 @@
 - **Equipment:** 
   - A-Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/819/daishi-dire-wolf-s) 
 - **Battle Value:** 2985 
 

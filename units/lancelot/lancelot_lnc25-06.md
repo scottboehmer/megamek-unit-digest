@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3i 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1859/lancelot-lnc25-06) 
 - **Battle Value:** 1661 
 

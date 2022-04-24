@@ -20,6 +20,8 @@
   - Light Active Probe 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7583/dragonfly-viper-t) 
 - **Battle Value:** 1704 
 

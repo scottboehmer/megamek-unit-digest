@@ -14,6 +14,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/48/anvil-anv-3m) 
 - **Battle Value:** 1441 
 - [*More Info*](anvil/anvil_anv-3m.md) 
@@ -32,6 +34,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/50/anvil-anv-5m) 
 - **Battle Value:** 1687 
 - [*More Info*](anvil/anvil_anv-5m.md) 
@@ -51,6 +55,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/52/anvil-anv-6m) 
 - **Battle Value:** 1366 
 - [*More Info*](anvil/anvil_anv-6m.md) 
@@ -71,6 +77,8 @@
   - Guardian ECM Suite 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/53/anvil-anv-8m) 
 - **Battle Value:** 1690 
 - [*More Info*](anvil/anvil_anv-8m.md) 
@@ -88,6 +96,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/49/anvil-anv-3r) 
 - **Battle Value:** 1496 
 - [*More Info*](anvil/anvil_anv-3r.md) 
@@ -104,6 +114,8 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/51/anvil-anv-5q) 
 - **Battle Value:** 1336 
 - [*More Info*](anvil/anvil_anv-5q.md) 

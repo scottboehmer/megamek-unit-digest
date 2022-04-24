@@ -14,6 +14,9 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
+  - Improved Targeting (Medium) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/646/clint-clnt-2-3u) 
 - **Battle Value:** 1081 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - AC/10 × 2 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2695/rifleman-rfl-3c) 
 - **Battle Value:** 1066 
 

@@ -15,6 +15,8 @@
   - AC/10 (ammo: 10) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1600/icarus-ii-icr-1s) 
 - **Battle Value:** 869 
 

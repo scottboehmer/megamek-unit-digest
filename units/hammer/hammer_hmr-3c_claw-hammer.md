@@ -13,6 +13,8 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV (ammo: 24) 
   - Medium Laser × 7 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1365/hammer-hmr-3c-claw-hammer) 
 - **Battle Value:** 976 
 

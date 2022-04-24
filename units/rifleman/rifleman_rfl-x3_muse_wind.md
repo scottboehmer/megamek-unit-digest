@@ -17,6 +17,8 @@
   - Clan Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind) 
 - **Battle Value:** 2012 
 

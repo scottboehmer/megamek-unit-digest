@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6450/gun-gn-2o) 
 - **Battle Value:** 775 
 - [*More Info*](gùn/gùn_gn-2o.md) 
@@ -29,6 +31,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Heavy PPC 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6451/gun-gn-2oa) 
 - **Battle Value:** 685 
 - [*More Info*](gùn/gùn_gn-2oa.md) 
@@ -49,6 +53,8 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6452/gun-gn-2ob) 
 - **Battle Value:** 639 
 - [*More Info*](gùn/gùn_gn-2ob.md) 

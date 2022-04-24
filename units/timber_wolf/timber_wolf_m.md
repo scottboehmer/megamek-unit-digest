@@ -17,6 +17,8 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** Rec Guide:ilClan #5 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7515/mad-cat-timber-wolf-m) 
 - **Battle Value:** 2741 
 

@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Inner Sphere HarJel × 3 
   - CASE 
+- **Design Quirks:** 
+  - Improved Targeting (Medium) 
 - **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3474/vulture-mad-dog-u) 
 - **Battle Value:** 2488 
 

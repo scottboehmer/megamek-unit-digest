@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3432/viper-black-python-standard) 
 - **Battle Value:** 2813 
 

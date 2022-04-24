@@ -16,6 +16,8 @@
   - Medium X-Pulse Laser × 3 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1281/great-turtle-gtr-1) 
 - **Battle Value:** 3152 
 - [*More Info*](great_turtle/great_turtle_gtr-1.md) 
@@ -37,6 +39,8 @@
   - Armored ER Medium Laser 
 - **Equipment:** 
   - Armored Actuator × 4 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1282/great-turtle-gtr-2) 
 - **Battle Value:** 2355 
 - [*More Info*](great_turtle/great_turtle_gtr-2.md) 

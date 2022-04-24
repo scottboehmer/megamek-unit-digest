@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1415/hatchetman-hct-6d) 
 - **Battle Value:** 1611 
 

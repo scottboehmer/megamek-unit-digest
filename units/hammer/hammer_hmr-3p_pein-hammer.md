@@ -16,6 +16,8 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1367/hammer-hmr-3p-pein-hammer) 
 - **Battle Value:** 827 
 

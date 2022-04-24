@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Combat Computer 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/335/black-hawk-nova-a) 
 - **Battle Value:** 2422 
 
